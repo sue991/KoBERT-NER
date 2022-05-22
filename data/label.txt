@@ -8,9 +8,5 @@ LOC-B
 LOC-I
 MNY-B
 MNY-I
-ID-B
-ID-I
-PH-B
-PH-I
 TIM-B
 TIM-I
