@@ -1,0 +1,16 @@
+한화의 태양광 사업을 담당하고 있는 한화큐셀은 세+ㄹ 생산 규모 세계 1위로 글로벌 태양광 시장을 확고하게 지배하고 있다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O
+대구시민 1인당 평균 4회 이용하+ㄴ셈이다 .	ORG-B O O O O O
+김소연의 한 측근에 따르면 남자친구와 ‘맛집’을 찾아다니며 다른 연인들처럼 시간을 보내고 있다 .	PER-B O O O O O O O O O O O O
+외국인 투자가들의 이 같은 평가를 바탕으로 포철은 서울과 월가의 증권시장에서 동시 주식 상장을 추진하고 있다 .	O O O O O O ORG-B ORG-B ORG-B O O O O O O O
+▲장=미국이 한반도 정책을 장악하려는 것을 중국은 물론 북한도 우려하+ㅂ니다 .	ORG-B LOC-B O ORG-B O ORG-B O ORG-B O O
+경남 밀양 출신 이+ㄴ 선생은 1920년 12월 27일 밀양경찰서장이 연말연시 특별경계를 당부하는 훈시를 하는 틈을 타 +아 경찰서에 폭탄 2개를 잇달아 던지었다 .	LOC-B LOC-B O O O O O O LOC-B O O O O O O O O O O O O O O
+그런데 친구들이 페이스북에 올리+ㄴ 뉴스는 마치 메아리처럼 나+의 의견과 딱 맞아 떨어지니 덮어놓고 믿게 되+ㄴ다는 것+이다 .	O O O O O O O O O O O O O O O O O
+박근혜 대통령 탄핵 이후 카톡방에 넘치+어나는 가짜뉴스도 마찬가지 +이다 .	PER-B O O O O O O O O O
+그러나 L군은 경찰에서 공범 가능성을 계속 완강히 부인하고 있는 것으로 전하여 +지+었다 .	O ORG-B O O O O O O O O O O O
+교육부가 이유 없이 제청을 거부하면 ‘총장 임용 제청 거부 처분 취소 청구소송’을 내+ㄹ 것으로 알려지었다 .	ORG-B O O O O O O O O O O O O O O O
+지동원 자책골 아니다… UEFA, 지동원발 맞고 들어가 +ㄴ 골상 대 선수골로 공식 인정지 동원·구자철·홍정호 이풀타임 활약하+ㄴ 독일 분데스리가 아우크스부르크가 유럽 축구연맹(UEFA) 유로파리그 조별 리그 2차전에서 패하였다 .	PER-B O O ORG-B PER-B O O O O O O O O PER-B O O ORG-B O O ORG-B ORG-B O O O O O O
+여럿이 투표를 하는 방식이어서 한두 명이 사적 감정으로 동료나 상사를 채점하+여서는 별 효력이 없다 .	O O O O O O O O O O O O O O O
+한편 KBS2TV 드라마 ‘후아유-학교 2015’ 마지막 회예고편에는 이은비에게 고백하는 한 이안(남주혁)과 공태광(육성재)의 모습이 담기 +어 있다 .	PER-B O O O O O O PER-B O PER-B PER-B PER-B O O O O O
+충북의 한 영재교육원은 학생들에게 요일별로 주제를 주+어글쓰기를 하도록 하고 영어 문장 번역과제를 내는데, 이를 모으아 개인별 창작집을 발간하고 있다 .	LOC-B O O O O O O O O O O O O O O O O O O O
+광양읍 5일 시장에서 운영하는 토요시장도 눈길을 끌+ㄴ다 .	LOC-B O O O O O O O
+안 후보의 공약 발표를 듣은 조씨는 "사실 후보별 장애인 공약은 대동소이하다"며 "누구가 약속을 지키+ㄹ지가 더 중요하+ㄴ데 그런 면에서 안 후보나 문 후보 대신 그동안 약자의 편에서 싸우어 오+ㄴ 심상정 정의당 후보를 지지하+ㄹ 생각"이라고 말하였다 .	PER-B O O O O PER-B O O O O O O O O O O O O PER-B O PER-B O O PER-B O O O O PER-B ORG-B O O O O O

@@ -1,0 +1,19 @@
+송도2교를 사이에 두고 송도와 연수동 사이에 있는 동춘동에 들어서는 이 단지는 송도생활권을 누리면서 연수동의 생활편의시설까지 이용하+ㄹ 수 있다 .	LOC-B O O LOC-B LOC-B O O LOC-B O O O LOC-B O LOC-B O O O O O
+당시 그들이 내세우+ㄴ 전기요금 인하 요구의 근거는 “2014년 이후 연료 가격 하락을 감안하+ㄹ 때 지난해 한전 의원가회수율은 100%를 상회 하+ㄹ 것으로 추정되+ㄴ다”는 것.“산업용 전기, 원가 이상 공급”이라는 산자부의 8월 9일 발언이 무엇에 근거하+ㄴ 것이 +ㄴ지를 알+ㄹ 수 있는 대목이다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+소찬휘 '무한도전-토토가'… "유재석 덕에 본명 '김경희' 찾았다 .	PER-B O PER-B O O PER-B O O
+이번 시즌 여성 선수로는 처음 ‘8월 베스트 플레이어’가 되+ㄴ문안나에게 트로피와 상금 150만원을 +었다 .	O O O O O O O O O O O MNY-B O O
+통상 소주의 알코올 도수가 16∼18도로 17도 안팎이라는 점을 감안하였다 .	O O O O O O O O O O
+반면 새정치민주연합은 “우리가 선제적으로 5·24 조치를 해제하면 국제사회에서 명분을 얻는 것은 물론이고 남북 협상에서도 주도권을 쥐는 실리를 취하+ㄹ 수 있다”며 정부에 5·24 조치의 해제를 요구하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+방위사업청은 4월 21일 4개 핵심기술을 이전 하+ㄹ 수 없다는 미국의 통보를 받았으나 6월 8일에야 청와대에 보고하였다 .	O O O O O O O O O ORG-B O O O O ORG-B O O
+[내일의 경기/6월 7일] 프로야구 .	O O O O O
+발렌티나 셰브첸코, ‘前 챔프’ 홀리홈 잡았다… 심판 전원 일치 판정 .	PER-B O O O O O O O O O O
+새 앨범 ‘화양연화pt.1’으로 컴백 하+ㄴ방탄소년단이 ‘스타캐스트’를 통하+여팬들을 만나 +았다 .	O O O O ORG-B O O O O O
+29일 네이버 ‘스타캐스트’를 통하+여생중계되+ㄴ방탄소년단의 ‘INEEDU, BTSONAIR’에서는 최근 새 앨범 ‘화양연화pt.1’으로 컴백 하+ㄴ그룹 방탄소년단이 출연하+여새 앨범에 대하+ㄴ 다양하+ㄴ이야기를 나누었다 .	O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O
+이날 ‘스타캐스트’에서 랩몬스터는 세 번째 미니앨범 ‘화양연화pt.1’에 대하+여 “우리 팀은 다양하+ㄴ 연령대가 있다 .	O O PER-B O O O O O O O O O O O
+엘시 혼자가 편하여 +지+었어 홀로서기에 도전하+ㄴ티아라은정이 화제이+ㄴ 가운데 은정이 과거 티아라 전 멤버화영의 왕따 사건에 대하+ 여입을 열었다 .	PER-B O O O O ORG-B O O O O ORG-B O PER-B O O O O O O
+지나+ㄴ 28일 오후 방송되+ㄴ 케이블 채널 Mnet예능 프로그램 '4가지 쇼시즌2'에는 티아라 은정이 출연하였다 .	O O O O O O O O O O ORG-B O O O
+독자위원들은 중앙일보 지면을 모니터링하고 e메일 설문, 정례회의 등을 통하+여지면 제작에 대하+ㄴ의견을 제시하게 되+ㄴ다 .	O O O O O O O O O O O O O O
+앞줄 왼쪽부터 이준한 인천대 정치외교학과 교수, 박한준 국제도시 송도 입주자연합회 회장, 이수범 인천대신문방송학과 교수(위원장), 이상용 경인 해운항공 대표, 천준호 인천시 정책기획관. 뒷줄 왼쪽부터 이주하+ㄴ 중앙일보 조사연구팀장, 남윤호 중앙일보 뉴스룸 국장, 유준호 인천시 홍보기획팀장, 김종해 계산고 교사, 어석원 가림초교사, 장세정 중앙일보 지역 뉴스부장.원혜옥 인하대 법학전문대학원 교수와 김송원 인천경실련 사무처장, 이종린 인천변 호사협회 부회장, 오진규 가천대 길병원 교수는 개인 사정으로 불참하였다 .	O O PER-B ORG-B O O PER-B O ORG-B O O PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B O O O PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B O O O O O O
+박종근기 .	PER-B O
+안 후보는 문 후보 지지층의 문자폭탄 등을 겨냥, “화력은 문 후보 쪽이 제일 좋다 .	PER-B O PER-B O O PER-B O O O PER-B O O O O O
+많은 공간 내에서 (문 후보와) 가깝게 있는 분들이 상처를 입는다”고 맞서 +었다 .	O O O PER-B O O O O O O O O O

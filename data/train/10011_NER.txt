@@ -1,0 +1,15 @@
+이 규정에 따르면 연수 중 교육질서 문란 등으로 3.5점 이상의 벌점을 받거나 전체 교과목 성적이 기준에 못 미치+ㄹ 경우 임용에서 탈락 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+실제로 움직이는 기기를 만들는 레고테크닉(Technic), 에펠탑, 타지마할 등 세계적 이+ㄴ 건축물을 그대로 축소 하+ㄴ 레고 아키텍처(Architecture)는 정교하+ㄴ 설계로 난이도가 높지만 그만큼 성인 매니어들이 열광하는 제품이다 .	O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O
+레고와 함께 성장 하+ㄴ 고객들의 가치는 브랜드 커뮤니티 쿠수(CUUSOO)에서 빛을 발하+ㄴ다 .	O O O O O O O O O O O O
+임 위원장은 올해 금융개혁의 가장 든든하+ㄴ ‘후원군’으로 금융감독원, 금융회사, 언론을 꼽았다 .	PER-B O O ORG-B O O O ORG-B ORG-B O O O
+중국은 한반도 사드 문제에도 미국이 배후에 있다고 보+ㄴ다 .	ORG-B LOC-B O O ORG-B O O O O
+메이저리거되+ㄴ테임즈, 2년 연속 골든글러브 받을 .	PER-B O O O O O
+[나+의 생각은/ 정진엽] 담뱃갑 경고그림의 의 .	O O PER-B O O O O
+청사관리소 관계자는 “옥상정원의 기네스북 등재는 명품행복도시 전반의 품격을 한 단계 높이어주+ㄹ 것”이라고 말하였다 .	ORG-B O O ORG-B O O O O O O O O O O
+서울시와 관계부처는 7억여원의 예산을 편성하+여 지난해부터 한강·여의도·코엑스 앞에 특색 있는 조형물을 차례로 설치하였다 .	ORG-B O MNY-B O O O LOC-B O O O O O O O
+지나+ㄴ 시즌 14세 이브(8승 1패, 평균 자책점 4.97)를 기록하+ㄴ그는 올 시즌에 +ㄴ 초반부터 kt뒷문을 책임지고 있다 .	O O O O O O O O O O O O O ORG-B O O O
+이날 밀워키에서는 지난해까지 한국 프로야구 NC에서 뛰었던 테임즈(31)를 4번 타자 겸 1루수로 출전시키었다 .	O ORG-B O ORG-B O ORG-B O PER-B O O O O O O
+롯데 사태와 관련 하+ 여기업 총수가 가지+ㄴ 해외 계열사 지분과 해외 계열사가 가지+ㄴ 국내 계열사 지분을 의무적으로 공시하도록 하자는 얘기+이다 .	O O O O O O O O O O O O O O O O O O O O O
+질본이 이 기준에 따르 아방역망을 좁게 짜다 보니 1번 환자가 있었던 병실이 아니+ㄴ 다른 병실과 병동에서 환자가 발생하는 것+ㄹ막을 수 없었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+국수를 3연패 하+ㄴ조한승 9단, 그는 최강의적수를 만나게 +었다 .	O O PER-B O O O O O O
+해설=김승준 9단·글=윤양섭 전문기자 온라인 기보, 대국실, 생중계는 동아바둑(badu k. donga. com .	PER-B PER-B O O O O O O O O O O

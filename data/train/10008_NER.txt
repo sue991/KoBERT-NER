@@ -1,0 +1,12 @@
+탄자니아·카메룬 등 인근 국가들도 놀리우드의 영향을 받아 영화산업 진흥에 나서 +었다 .	LOC-B O O O O O O O O O O O
+이 부사장은 “평범 하+ㄴ사람들도 일상에서 쉽게 쓰+ㄹ 수 있도록 하는 ‘대중성’이 우리 마케팅의 핵심”이라며 “뉴스, 헬스, 대중교통, 뱅킹 등 생활에 없어서 +ㄴ 안 되는 다양하+ㄴ 애플리케이션을 늘리+어스마트폰을 가지+ㄴ 사람들이라면 모두 하나씩 손목에 차고 다니는 제품으로 만들겠다”고 말하였다 .	PER-B O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O
+올해 1차 지명으로 입단 하+ㄴ 박세진은 이날 선발 데뷔전을 치르었다 .	O O O O O PER-B O O O O O
+IBK기업은행(15승 6패·승점 46)은 2위 현대건설(14승 6패·승점 41)과의 격차를 더욱 벌리+ㄴ 반면 최하위인삼공사(3승18패·승점 11)는 제자리걸음을 거듭하였다 .	ORG-B O O O ORG-B O O O O O O ORG-B O O O O
+3.3㎡당 평균 분양가는 880만원선에 불과하다 .	O O O MNY-B O O
+한편 이날 '인기가요'에는 걸스데이를 비롯하+여 슈퍼주니어, 소녀시대, 인피니트, 구하라, 씨스타, 에이핑크, AOA, 틴탑, 비투비, 갓 세븐, 마마무, NS 윤지, 세븐틴 등이 출연하였다 .	O O O ORG-B O ORG-B ORG-B ORG-B PER-B ORG-B ORG-B ORG-B ORG-B ORG-B O O ORG-B PER-B O ORG-B O O O
+박영수 특별검사 자택 앞에서 ‘과격 시위’로 박 특검 가족을 위협 하+ㄴ 장기정 자유연합 대표, 주옥순 엄마부대 봉사단 대표, 박찬성 반핵반 김국민협의회 대표, 신혜식 신의 한수 대표 등에게 법원이 집회·시위 금지명령을 내리었다 .	PER-B O O O O O PER-B O O O O PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B O O ORG-B ORG-B O O O O O O O O
+서울중앙지법 민사합의51부(이제 정부장판사)는 8일 박 특검이 장기 정씨 등 보수단체 관계자들을 상대로 내+ㄴ '집회 및 시위 금지 가처분 신청'에 대하+여 일부 인용 결정을 내리었다 .	ORG-B PER-B O O PER-B PER-B O O O O O O O O O O O O O O O O O O O
+이에 따르 아만약 장기정씨 등이 법원의 이번 결정을 어기면 1일에 100만원씩 박 특검에게 지급하+여야 하+ㄴ다 .	O O O PER-B O O O O O O MNY-B PER-B O O O O
+재판부는 이들에게 박 특검의 아파트 단지 경계 100m 이내에서 '박영수 죽이어라', '모가지를 따+아버리+어라', '때려 잡자 박영수' 등의 구호를 외치거나 게시물을 이용하+ㄴ집회·시위를 금지하였다 .	O O PER-B O O O O O O PER-B O O O O O PER-B O O O O O O O
+국내를 포함, 세계 50여개국에 특허도 출원하였다 .	O O O O O O O
+잭 블랙은 공항에 마중 나오+ㄴ 팬들을 향하+여 “감사 하+ㅂ니다”라고 한국말로 인사 하+여 눈길을 끌었다 .	PER-B O O O O O O O O O O O O O O

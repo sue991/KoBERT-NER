@@ -1,0 +1,14 @@
+‘비스타워커힐 서울’ 재개장 기념행사가 13일 서울 광진구 호텔 장진영기 .	ORG-B LOC-B O O O LOC-B LOC-B O PER-B O
+말레이시아는 북한이 해외 위장업체를 설립하는 데 최적의 요건을 갖고 있다 .	ORG-B ORG-B O O O O O O O O O
+LG화학은 비슷하+ㄴ 시기 충북 오창공장에도 60억원을 들이어 6.7MW 규모의 ESS 설비를 놓았다 .	ORG-B O O LOC-B O MNY-B O O O O O O O
+자바시장의 도매업자 70%가 한국 출신이었기에 그들의 도움을 받으면서도 매시장에 뛰어들 +ㄹ 수 있었다고 +였다 .	O O O ORG-B O O O O O O O O O O O
+김온아는 지난해 말 받은 발목 수술로 리그 초반에는 코트에 나서지 못하+ㄴ다 .	PER-B O O O O O O O O O O O
+99년 로봇수술 기 개발업체인 튜이티브서지컬 이 미국 스탠퍼드대와 매사추세츠공과대(MIT), 미국 항공우주국(NASA)의 관련 기술을 이전받아 ‘다빈치’ 로봇 수술기를 출시하였다 .	O O O O O O ORG-B O ORG-B ORG-B ORG-B O O O O O O O O
+워싱턴포스트(WP)는 트럼프가 빠르면 18일 키신저를 면담하+ㄹ 것이라고 트럼프의 측근들의 말을 인용하+여 16일 보도하였다 .	ORG-B PER-B O O PER-B O O PER-B O O O O O O
+박해진은 오는 4월 21일에 첫 방송되는 JTBC 금토 드라마 ‘맨투맨(MANx MAN)’의 주연 김설우로 활약하+ㄴ다 .	PER-B O O O O O O O O O O O PER-B O O
+이들은 ‘20대 여자 연기자 기근 현상’을 해결하는 동시에 안방극장의 새롭ㄴ 중심축이 되+ㄹ 전망이라 방송가에서도 주목하고 있다 .	O O O O O O O O O O O O O O O O O
+이민업체 알선으로 일주일 동안 필리핀 마닐라에서 한 현지 답사도 만족스럽었다 .	O O O O LOC-B LOC-B O O O O O
+토요타 사장 자신도 ‘터닝포인트’ +이었다고 이야기 하+ㄴ다 .	ORG-B O O O O O O O
+인피니티가 2016년 출시 예정이+ㄴ 신차 라인업을 대거 공개하였다 .	ORG-B O O O O O O O O
+2011년 경북도내 17개 시·군이 다문화가정 친정 방문을 지원하였으나 지난해에는 김천시·경산시·청송군·영덕군 등 11개 시·군으로 줄었다 .	O LOC-B O O O O O O O LOC-B O O O O O
+이러하+ㄴ 상황이 지속되 +ㄴ다면 2018년에는 고령인구 비율 14% 이+ㄴ 고령사회로 진입 하+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O O O O O O O

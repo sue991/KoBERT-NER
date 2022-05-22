@@ -1,0 +1,13 @@
+9일 KBS 측에 따르면 김수현과 공효진, 차태현, 아이유가 ‘프로듀사’에 출연하+ㄴ다 .	O ORG-B O O PER-B PER-B PER-B PER-B O O O
+이 중 조형대학은 1단계에서 수능 80%와 학생부 20%로 모집인원의 400%를 선발하+ㄴ다 .	O O O O O O O O O O O O
+그러나 『농약 성분이 남아있는 것으로 나타나 +ㄴ 수입 밀가루보다 믿을 만하다 』『 뒷맛이 구수하다 』며 찾는 사람이 점점 늘고 있다고 우리 밀살리기 운동본부 김지현 사업부장은 말 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O O PER-B O O O O
+고객과 꾸준히 소통하고 최상의 관리와 서비스 상태를 유지하고 있는 파크밸리와 신라골프장은 3년 연속, 티클라우드 골프장은 2년 연속 수상에 성공하였다 .	O O O O O O O O O ORG-B ORG-B O O ORG-B O O O O O O
+2014-15 시즌까지 12시즌 동안 3점 슛성공개수는 37개에 불과하였다 .	O O O O O O O O O
+더욱이 이날은 올 시즌 KLPGA투어를 뜨겁게 달구고 있는 ‘빅3’ 전인지와 이정민(23·비씨카드), 고진영(20·넵스)의 첫 맞대결이 펼쳐지었다 .	O O O O O O O O O PER-B ORG-B ORG-B O O O O
+지난해의 경우 자산 10억달러 이상 중국 억만장자 568명 중 107명이 양회 대표로 전인대에 참석하였다 .	O O O MNY-B O ORG-B O O O MNY-B O O ORG-B O O
+이에 따르 아추가 수주가 없으면 내년 4월 경군산조선소독이 텅 비게 되+ㄴ다 .	O O O O O O O ORG-B O O O O
+악마의 편집·진행 방식…싹 바꾸+ㄴ ‘슈퍼스타K2016 .	O O O O O O
+경제학 박사로서 한국개발연구원(KDI) 출신 이+ㄴ 유 의원은 국회의원 중에서도 손에 꼽히는 경제 전문가로 통하+ㄴ다 .	O O ORG-B O O PER-B O O O O O O O O O
+서울중앙지법 형사합의29부(부장판사 김수정) 심리로 6일 열리+ㄴ 공판에서 남궁 전 처장은 김 전 학장 관련 1회 공판에 증인으로 출석하+여 김 전 학장으로부터 정씨의 입학 지원 사실을 듣게 되+ㄴ 경위를 증언하였다 .	ORG-B O PER-B O O O O PER-B O O PER-B O O O O O O O PER-B O O PER-B O O O O O O O O
+특검은 최순실 씨 측으로부터 정씨의 체육특기자 전형 합격을 부탁받은 김 전 학장이 최 전 총장으로부터 이를 승인받은 후 남궁 전 처장에게 이를 지시하+ㄴ 것으로 보고 있다 .	O PER-B O O PER-B O O O O PER-B O O PER-B O O O O O PER-B O O O O O O O O
+남궁 전 처장은 2014년 9월 16일에서 22일 사이에 입학관과 본관 사이 길거리에서 김 전 학장으로부터 정씨가 체육특기생 전형에 지원하였다는 이야기를 듣었다고 주장하였다 .	PER-B O O O O O O O O O O O PER-B O O PER-B O O O O O O O

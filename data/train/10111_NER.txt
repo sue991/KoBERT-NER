@@ -1,0 +1,14 @@
+KB스타즈의 최고 참변연하(14득점, 5어 시스트)는 4개의 3점슛을 터뜨리며 역대 PO통산 최 .	ORG-B O PER-B O O O O O O O O O
+박지원 국민의당 대표가 더불어민주당 대선후보로 확정되+ㄴ문재인 전 대표를 축하하였다 .	PER-B ORG-B O ORG-B O PER-B O O O O
+박 대표는 3일 자신의 트위터를 통하+여"문재인 후보의 확 저를 진심으로 축하 하+ㄴ다"고 글을 남기었다 .	PER-B O O O O PER-B O O O O O O O O O
+부천시는 이를 위하+여 전문 보안업체 이+ㄴ KT텔레캅과 업무협약을 맺었다 .	ORG-B O O O O O ORG-B O O O
+김현 변호사(61·사법연수원 17기·사진)가 제49대 대한변호사협회 회장으로 취임하였다 .	PER-B ORG-B O O ORG-B O O O
+박희수는 “경기 막판 타이트 하+ㄴ 상황에서 +ㄴ한 방만 맞아도 역전되+ㄹ 수 있다 .	PER-B O O O O O O O O O O O O
+"- 한국은 수십 년 전부터 아동 수출국이란 오명을 받았다 .	O ORG-B O O O O O O O O
+해외 입양과 관련되 +ㄴ한국의 상황을 어떻게 생각하는가."개인적으로 아동 수출국이란 표현은 맞지 않는다고 보+ㄴ다 .	O O O ORG-B O O O O O O O O O O
+이날 오전에도 홍 후보는 공무원 시험일이라는 점을 거론하며 "꿈을 잃은 이 땅의 젊은이들이 꿈과 희망을 가질 수 있는 나라를 만들어 보도록 하겠습니다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O
+내일로 다가오+ㄴ 일본 참의원 선거 분위기가 예상 밖으로 차분하다 .	O O ORG-B O O O O O O O
+사당종합체육관 붕괴, 매몰자 11명 전원 구조… ‘오락가락’ 인원왜?“1명 빠져나가 +아 .	O O O O O O O O O O O
+신혜선, 박유환과 함께 라디오 출연… 그녀는 예쁘었 .	PER-B PER-B O O O O O O
+지나+ㄴ 18일 모바일반도체 설계업체 이+ㄴ 영국 ARM을 일본 소프트뱅크가 320억달러(약 36조원)에 인수하겠다는 방침을 밝히면서 인텔과 ARM 진영의 5G 대결에 시선이 집중되고 있다 .	O O O O O ORG-B ORG-B ORG-B O MNY-B MNY-B O O O ORG-B ORG-B O O O O O O O
+ARM은 직접 반도체를 설계하+여 제조하는 인텔과 달리 반도체 설계도를 퀄컴·삼성전자 같은 반도체 기업에 팔아 로열티로 수입을 내+ㄴ다 .	ORG-B O O O O ORG-B O O O ORG-B O O O O O O O O

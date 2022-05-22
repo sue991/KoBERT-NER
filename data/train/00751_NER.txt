@@ -1,0 +1,16 @@
+문화체육관광부에 등록되+ㄴ 정기간행물(신문·잡지·통신 등)은 2006년 8551건에서 2015년 1만8712 건으로 두 배 이상 증가하였다 .	ORG-B O O O O O O O O O O O O O
+영상에서 한 그루는 “저는 매일 이렇게 헬스장에 나오아 운동을 하+ㅂ니다” +이라며 수준급 스트레칭으로 유연성을 과시하였다 .	O PER-B O O O O O O O O O O O O O O
+홈플러스는 최근 휴가지인파와 교통체증을 피하+여집에서 바캉스를 즐기려는 ‘홈캉스(Hom e++Vac ance)’족을 겨냥하+ㄴ 마케팅을 펼치+어 내수 경기를 살리는 데 일조하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+박 대변인은 “촛불 민심을 정면으로 거역 하+ㄴ 황교안 권한대행에게 역사와 민심이 준엄하+ㄴ 탄핵심판을 내리+ㄹ 것이 +ㅁ을 믿어 의심하지 않는다”고 강조하였다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O
+“‘묻지도 않고 따지지도 않고’ 가입 하+여드리+ㄴ암보험, 이제 제가 천천히 보험의 알맹이를 알기 쉽게 읽어드리+ㄹ 것+이요.” 부드럽고 중후 하+ㄴ 연기로 오랜 인기를 얻고 있는 배우 박상원(58·서울예술대 공연학부 연기전공 교수)씨가 라이나생명의 암광고 새 모델이 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O ORG-B O O O O O
+아반떼 AD 출시, 공인복합연비… ‘언제 기름 넣었나’ 잊을 정 .	O O O O O O O O O O
+외무성은 또 “주한 일본대사관의 스즈키 히데오(鈴木秀生) 임시 대리대사도 한국 외교부 정병원 동북아시아 국장에게 강력히 항의하였다”고 밝히었다 .	ORG-B O O ORG-B PER-B PER-B O O ORG-B O PER-B O O O O O O
+홍수영 gaea@d onga. com·송찬욱기자/도쿄=장원재 특파 .	PER-B O O LOC-B O O
+최근 좋은 골 감각과 함께 중국 원정을 경험하+ㄴ 것도 이정협에게 힘이 되+ㄴ다 .	O O O O O LOC-B O O O PER-B O O O
+지나+ㄴ 8월, 차세대 콘텐츠에 걸맞는 연산능력을 갖추+ㄴ 최신 프로세서 이+ㄴ 7세대 인텔코어 시리즈를 출시하였고, 기존 VR의 한계를 극복하+ㄴ 새롭ㄴ 차원의 몰입형 콘텐츠 이+ㄴ MR(MergedReality, 융합 현실)용 HMD(Headmou ntedD isplay)를 지향하는 '프로젝트 얼로이(ProjectA lloy)'의 시제품을 발표하기도 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인텔이 그리는 차세대 콘텐츠의 현황을 확인하기 위하+여 해 당 사업의 담당자 중 하나이+ㄴ 인텔코리아 소프트웨어/서비스그룹의 김준호 상무와 인터뷰를 진행하였다 .	ORG-B O O O O O O O O O O O O ORG-B O PER-B O O O O
+IT동아 : 인텔은 흔히 프로세서로 대표되는 하드웨어 제조사로 잘 알려지+어 있다 .	O O ORG-B O O O O O O O O O
+나카타니 겐 방위상은 각의(국무회의) 결정을 거치+어 국회에 제출되+ㄴ 안보법제 개정안과 새미일방위협력지침(가이드라인)에 대하+여회담에서 설명 하+ㄹ 예정이라고 통신은 전하였다 .	PER-B O O O O O O O O O O O O O O O O O
+플란데는 아직 KBO 리그에 대하+ㄴ 정보가 그리 많지 않은 것 같았다 .	PER-B O O O O O O O O O O O
+차유람 임신, 결혼 당시 ‘속도 위반’ 부인하였지만 … 결혼 5개월 만에 출산 예정 ‘당구 여신’ 차 유람이 임신 소식을 전하였다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O
+20일 한 매체는 차유람이 출산을 앞두고 있다고 보도하였다 .	O O O PER-B O O O O O

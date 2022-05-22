@@ -1,0 +1,15 @@
+류현진이 건강만 되찾는다면 선발 자리를 꿰차는 데 문제 없어 보이지만 우선은 이를 증명하+ 여야 하+ㄴ다 .	PER-B O O O O O O O O O O O O O O O
+■KBS2TV ‘백희가 돌아오았다 .	O O O O
+이 과정에서 김 사장 손에서 요리되+ㄹ설비투자와 연구개발 투자액은 무려 1조8백억 원 .	O O PER-B O O O O O O MNY-B O O
+연간 해안가에서 버려지는 쓰레기 양만 7275t이나 되며 여름 휴가철 주요 해수욕장에서는 일평균 8∼12t, 주말에는 50t가량의 쓰레기가 발생하고 있다 .	O O O O O O O O O O O O O O O O O O O
+준우승만 3차례 +이다 .	O O O O
+하트오브 더 씨, 소형 카메라로 배우들 사투담 .	O O O O O O O O
+KB국민은행도 지난해 9월 캄보디아에서 모바일뱅킹 서비스 이+ㄴ ‘리브 KB 캄보디아’를 선보이며 동남아 금융사업 확장에 나서 +었다 .	ORG-B O O LOC-B O O O O ORG-B LOC-B O LOC-B O O O O O
+한국과 미국, 일본이 다음달 사상 처음으로 북한의 탄도미사일을 탐지 추적하는 미사일 경보훈련을 실시하+ㄴ다고 국방부가 16일 밝히었다 .	ORG-B ORG-B ORG-B O O O ORG-B O O O O O O ORG-B O O O
+성씨의 농장은 오가리 미군 포 사격장에서 직선으로 2㎞ 가량 떨어지+어 있고, 상공으로 포탄이 날아가는 지점에 있다. 성씨는 기자와 통화에서 “나흘 전 포 사격 사격훈련 때부터 소음이 크게 들려오았고 10일에 +ㄴ소들이 깜짝 놀라 +아 뛰어다니 +었으며, 이후 임신 중이던 한 마리가 유산하였다”고 말하였다 .	PER-B O LOC-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+임시휴일 어린이집 이용 가능, 1명이라도 수요 있을 시 당번교사 배 .	O O O O O O O O O O O
+원유와 천연가스 자연분출량은 SINOPEC 탐사 사상 최대이다 .	O O O ORG-B O O O O
+세월호 사고와 미국의 돈 풀기(양적완화) 중단, 유럽 경기 침체 등 안팎으로 위기가 겹치+ㄴ탓이다 .	O O ORG-B O O O ORG-B O O O O O O O
+BMW그룹코리아에서 수입·판매 하+ㄴ 48개 차종 2만1377대의 차량에서 제작결함이 발견되+어리콜이 실시되 +ㄴ다 .	ORG-B O O O O O O O O O O O
+기성용 출전 이후 스완지시티의 공격은 활발하여 +지+었지만, 골은 터지지 않았다 .	PER-B O O ORG-B O O O O O O O
+각 차량의 판매 수익 중 일부는 10대 암 환자를 위하+ㄴ자선단체 이+ㄴ ‘틴에이지캔서 트러스트(TeenageCancerTrust)' 등 각각의 뮤지션들이 선택하+ㄴ자선단체에 기부되 +ㄴ다 .	O O O O O O O O O O O ORG-B ORG-B O O O O O O O

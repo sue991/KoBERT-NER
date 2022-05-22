@@ -1,0 +1,14 @@
+김용태 의원도 같은 날 오후 문자메시지를 통하+여 “내일 오전 10시 30분 국회에서 탈당기자회견을 가지+ㄹ 예정"이라고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O
+남경필 지사와 김용태 의원이 가시밭길을 가겠다고 나서 +었지만 동반 탈당 하+ㄹ의원이 많지 않을 것으로 보는 시각이 많다 .	PER-B O PER-B O O O O O O O O O O O O O O O
+당장 비주류 좌장 격이+ㄴ 김무성 전 대표는 탈당에 부정적 이+ㄴ 태도를 보이었고, 대권 후보 이+ㄴ 유승민 의원도 "당이 크게 쪼개지고 분당하고 이런 사태는 정말 없었으면 좋겠다"고 비슷하+ㄴ 입장을 밝히었기 때문.이와 관련 하+여정두언 전 의원은 이날 한 라디오 방송에 출연, “새누리당 의원들이 다 새 가슴이다 .	O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O ORG-B O O O O O
+'무한도전' 극한 알바, 멤버들이번에도 속았다 .	O ORG-B O O O O
+덕분에 퀘벡 정부의 지원을 받아 ‘레제샤시에드 베생폴(Les EchassiersdeBaie-Saint-Paul, 베생폴의학다리들)’ 공연단을 설립하+ㄹ 수 있었다 .	O ORG-B O O O ORG-B ORG-B O ORG-B O O O O O
+동아제약은 15일 이병국 전무를 계열 수석 농산 대표이사 사장 겸 동아제약 생산기술 고문으로, 이장우 전무를 동아유리 대표이사 사장에 각각 임명하는 등 임원 인사를 단행하였다 .	ORG-B O PER-B O O O O O O O ORG-B O O PER-B O ORG-B O O O O O O O O O
+오늘날 한국의 정치경제 사회 현상을 되돌아 보+ㄹ 때, 20년 전 일본의 방황과 너무나도 비슷하다 .	O ORG-B O O O O O O O O ORG-B O O O O
+주연급이라지만 인간 반기문에게도 약점은 많다 .	O O PER-B O O O
+특히 포르쉐센터 일산은 포르쉐 센터 서초에잇은 국내 두 번째의 포르쉐 익스클루시브 플래그십 딜러(PorscheEx clus iveFlags hipDealer)로 운영되+ㄴ다 .	O ORG-B LOC-B ORG-B O LOC-B O O O ORG-B O O ORG-B O O O O O
+탁재훈 측은 소장에서 “방송인 탁재훈이 ‘이혼소송 기간 중 3명의 여성과 동시에 외도하였고 이들 여성에게 금품을 제공하고 동반하여 해외여행을 다녀오았으며 자녀들에게는 양육비를 지급하지 않았다’는 취지의 기사 내용이 나 오+ㄴ바 있습니다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+우리나라 연간 원목 수입량 7백64만㎥(수입액 11억8천만 달러)의 절반에 육박하는 원목을 시베리아에서 생산하고 있는 셈이다 .	O O O O O MNY-B O O O O LOC-B O O O O
+박 대통령은 이날 “인성교육진흥법의 시행을 잘 내실화 하+여우리 아이들이 올바르+ㄴ인성과 공동체 의식을 가지고 성장 하+ㄹ 수 있도록 돕아달라”고 당부하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
+요즘은 예전 같은 근성은 없는 것 같아요.꿀 딴지곰 : 예전에는 패턴처럼 외우어서 플레이+였었죠. .	O O O O O O O O O O O O O O
+한편, 안젤리나 졸리는 최근 영국 런던에 '전쟁지역 성폭력 방지를 위하+ㄴ센터'를 설립하는 등 어렵 ㄴ 사람들을 위하+ 여돕는 사회적 활동을 활발히 펼치고 있다 .	O PER-B O O LOC-B O O O O O O O O O O O O O O O O O O

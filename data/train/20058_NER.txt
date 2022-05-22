@@ -1,0 +1,11 @@
+이날 선포식에 참석하+ㄴ KT오성목 네트워크 부문장은 “육지와 228km 떨어지+ㄴ 외딴 섬, 서해 최북단 백령도에 오늘 육지와 섬을 잇는 ICT 다리가 처음으로 개통되었다”며 “KT의 ICT 관련 인프라 구축으로 주민의 삶이 180도 달라 지+ㄹ 것이라 확신하+ㄴ다”고 말하였다 .	O O O ORG-B O O O O O O O LOC-B O LOC-B O O O O O O O O ORG-B O O O O O O O O O O O O O
+새정치연합은 9일 본회의에서도 국회 법제사법위원회를 통과하+ㄴ 법안에 대하+여서만 논의 하+ㄹ 수 있다는 태도+이다 .	ORG-B O O ORG-B O O O O O O O O O O
+특히 지난해 12월 서울의 경쟁률은 7.2대 1로 10월(33.6대1), 11월(23.7대1)보다 크게 떨어지었다 .	O O O ORG-B O O O O O O O O
+삼성그룹과 SK그룹도 2월에 열리+ㄹ 전경련 회원총회에 참석하지 않고 회비 역시 내지 않는다는 내부 방침을 정하였다 .	ORG-B ORG-B O O O O O O O O O O O O O O
+아시아나항공은 ‘최고의 안전과 서비스를 통하+ㄴ 고객 만족’이라는 경영이념에 따르 아창립 이후 최고의 안전과 서비스 마인드를 갖추+ㄴ 훌륭하+ㄴ 인재 양성을 위하+여 노력하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+아시아나항공은 운항·객실·정비 분야의 항공전문인력을 양성하+여 최고의 안전과 서비스를 제공하는 차별화되+ㄴ 기업이미지를 견고하게 다지었다 .	ORG-B O O O O O O O O O O O O O
+박희수(SK), 원종현(NC), 임정우(LG), 장시환(kt) 등 투수 4명과 김태군(NC), 서건창, 김하성(이상 넥센), 손아섭(롯데) 등 야수 4명 등 8명이 괌으로 향하었다 .	ORG-B ORG-B ORG-B ORG-B O O O ORG-B PER-B PER-B ORG-B ORG-B O O O O O LOC-B O O
+점수 분포는 7점과 5점이 각 네 명씩으로 가장 많았고, 세 명은 답하지 않았다 .	O O O O O O O O O O O O O O
+2013년 오픈하+ 여 수십만 명이 이용하고 있는 ‘포잉’ 서비스는 고급 호텔의 셰프 등 전문가들의 추천으로 엄선되 +ㄴ 레스토랑 2000여 곳에 대하+ㄴ 정보와 예약 서비스를 제공하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+한화 김승연 회장·임직원, 청년희망펀드 40억 기부… 사재 30억원 마련한화그룹 김승연 회장과 임원진이 ‘청년희망펀드’에 40억원을 기부하+ㄴ다 .	ORG-B PER-B O O MNY-B O O MNY-B ORG-B PER-B O PER-B O MNY-B O O
+박훈상t igermas k@d onga. com·김단비기 .	PER-B O O O PER-B O

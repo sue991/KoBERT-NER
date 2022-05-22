@@ -1,0 +1,13 @@
+이 전 무대에서 보다 훨씬 타이트 하+ㄴ랩을 선보이+ㄴ씨잼은 자신의 랩에 대하+ㄴ강 하+ㄴ 자신감을 내세우며 막강 하+ㄴ 존재감을 드러내 +었다 .	O O O O O O O PER-B O O O O O O O O O O O O
+이번에 선보이는 5가지 캐릭터는 히어로 ‘파워-씨(power-c)’, 미대생 ‘에센셜(essential)’, 액션스포츠 선수 ‘에너지(energy)’, 비즈니스맨 ‘멀티-브이(multi-v)’, 로맨틱 코미디 배우 ‘트리플 엑스(xxx)’ 등으로 각기 다른 콘셉트를 반영하+ 여 디자인+되었다 .	O O O O O PER-B O PER-B O O PER-B O PER-B PER-B O O PER-B PER-B O O O O O O O O
+[허영만 연재만화]커피 한잔 하+ㄹ까요?(50 .	PER-B O O O O
+인도 역시 IT를 중요하+ㄴ 성장동력으로 삼고 있다 .	ORG-B O O O O O O O
+가수 하수빈은 최근 자신의 블로그에 직접 찍은 사진 몇 장을 게재하였다 .	O PER-B O O O O O O O O O O
+‘택시’ 윤혜진 “‘애팔아서 돈 벌+ㄴ다’는 악플 속상하+여” 소속 사 계약 관련 오해해 .	O PER-B O O O O O O O O O O O
+하지만 박근혜 정부가 들어서면서 대통령 비서실과 별도의 조직으로 분리하고 실장을 장관급으로 다시 격상하였다 .	O PER-B O O O O O O O O O O O O
+3개월 이후부터는 매월 말 일에 RP(환매조건부채권)를 제외 하+ㄴ 상품에 100만원 이상 잔고를 유지하+ㄹ 경우 우대금리는 연말까지 연장되+ㄴ다 .	O O O O O O O O O MNY-B O O O O O O O O
+서울 SK가 선두 서울 삼성을 넘고 시즌 첫 4연승에 성공하였다 .	ORG-B O O ORG-B O O O O O O O
+SK는 10일 잠실 학생체육관에서 열리+ㄴ 2016-17KCC 프로농구 삼성과의 5라운드 홈 경기에서 74-70으로 승리하였다 .	ORG-B O O O O O O ORG-B O O O O O O
+성인회원은 러브 회원과 트윈스 회원 트윈스레이 디스 회원, 일반회원으로 나뉘고, 어린이 회원은 트윈 스엘린이, 사랑엘린이, 행복 엘린이로 구분되+ㄴ다 .	O O O ORG-B O ORG-B O O O O O O O O ORG-B ORG-B O O O
+13일 한국거래소에 따르면 지난주(4~8일) 유가증권시장에서 높은 주가 상승률을 보이+ㄴ상위 20개 종목 중 8개가 의약품 업종이었다 .	O ORG-B O O O O O O O O O O O O O O
+시험 및 검사­보관단계에 대하+ㄴ 품질보증이 ISO 9003으로 가장 범위가 좁고, 설치­구매­ 생산단계를 추가하면 ISO 9002, 여기에 설계­개발 단계까지 포함하+ㄴ 것이 ISO 9001이다 .	O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,12 @@
+5호선 9호선 여의도역이 걷어서 8분 거리+이다 .	O O LOC-B O O O O
+주변에는 샛강 생태공원, 여의도공원, 여의도 한강공원, 이마트, 홈플러스 등의 레져·편의시설과 함께 윤중초교, 신길초교, 윤중중, 여의도중, 여의도여고 등의 교육시설이 가까이 위치하+여 있다 .	O LOC-B O LOC-B LOC-B O O O O O O LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O
+러시아 첩보위성이 북한의 북동부 해안지대에 있는 미사일 시험발사 기지의 사진을 찍었다고 미국 NBC 방송이 9일 보도하였다 .	ORG-B O ORG-B O O O O O O O O ORG-B ORG-B O O O O
+69회 칸국제영화제 황금종려상은 '아이, 다니엘 블레이크' 켄로치 감독에게 돌아가 +았다 .	O O O O O O PER-B O O O O
+김동찬(57) ㈔ 강릉단오제 위원회 상임이사의 설명을 옮기+ㄴ다 .	PER-B ORG-B O O O O O O
+내년 1월 출범하는 차기 미국 정부는 북한 문제에 집중 하+여야 하+ㄴ다는 전문가 제안이 나오았다 .	O O O O ORG-B O ORG-B O O O O O O O O
+한미 경제연구소(KEI)와 한미클럽(회장 봉두완)이 15일(현지시간) 미국 워싱턴DCI에서 ‘한·미 안보 동맹과 경제 파트너십 강화’를 주제로 열 +ㄴ토론회에서 캐서린 문브루킹스 연구소 한국석좌는 “오바마 정부는 많은 분야에서 업적을 이루었지만 출범 때부터 북한 문제에 초점을 맞추지 못하+ㄴ아쉬움이 있다”며 이같이 밝히었다 .	ORG-B ORG-B ORG-B PER-B O LOC-B O ORG-B O O O O O O O O PER-B O O ORG-B ORG-B O O O O O O O ORG-B O O O O O O O O
+그는 “전략적 인 내 정책으로 인하+ 여 북한 문제에 집중하지 못하였다”며 “(다음 정부는) 북한과의 직접 협상에 나서는 것도 필요하다”고 강조하였다 .	O O O O O O O ORG-B O O O O O ORG-B O O O O O O O
+유니클로 야나이다 다시 회장, 2년 연속 일본 최고 부 .	ORG-B PER-B O O O O LOC-B O O O
+아브란테스는 감옥에 수감되 +ㄴ지 2년 만에 의문의 심장마비로 숨을 거두었고 오초아장군의 총살형은 비디오로 녹화되+어산체스를 포함하+ㄴ 카스트로의 충복이라면 의무적으로 보게 +였다고 하+ㄴ다 .	PER-B O O O O O O O O O PER-B O O O O PER-B O O O O O O
+블룸버그에 따르면 2012년 말 516조 엔 수준이던 일본의 국내총생산(GDP)은 2015년에 551조 엔 수준에 머물+ㄹ 것으로 에상되 +었다 .	ORG-B O O O MNY-B O O ORG-B O O MNY-B O O O O O O O
+에이미는 올해 3월 출국명령 처분 취소 소송을 내+었지만 패소하였다 .	PER-B O O O O O O O O O

@@ -1,0 +1,16 @@
+유승민, 피고인 홍준표가 대통령 되겠다고 .	PER-B O PER-B O O O
+민관 공동으로 교육부와 문체부 등 정부 주요 기관을 대상으로 경주관광을 건의하고 외국인 관광객 유치 협조를 요청하+ㄴ다 .	O O ORG-B ORG-B O ORG-B O O O LOC-B O O O O O O O
+또 아베 총리의 방문이 실무방문이 +ㅁ에도 공항에 임성남 외교부 제1차관이 나오아 영접 하+ㄴ 것도 관례보다 격을 올리+ㄴ 것이라고 평가하였다 .	O PER-B O O O O O PER-B ORG-B O O O O O O O O O O O
+즉각 실행권고… 북 협조 여부가 관 .	O O ORG-B O O O O
+대학생(성결대)이 되+어서 맞이하+ㄴ 첫 여름방학 때 ‘강원도에서 썰매를 배우고 국가대표 테스트도 받아보자’는 친구를 따라나서 +었던 서영우는 그 길로 원윤종이 몰는 썰매 뒷자리에 안착하였다 .	ORG-B O O O O O LOC-B O O O O O O O O PER-B O O PER-B O O O O O
+두 회사의 지난해 영업이익은 각각 1조4000억원과 3000억원이+ㄴ 것으로 추정되+ㄴ다 .	O O O O O MNY-B MNY-B O O O
+이 신문이 접촉 하+ㄴ업계 관계자에 따르면 한화토탈 임직원들은 다음달 초 연봉의 50%에 해당하는 초과이익 분배금과 월 기본급 100% 규모의 목표 달성 장려금을 받을 예정이다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+김문호는 10일까지 타율 0.438 최다 안타(49안타) 출루율(0.508)에 걸치+어 3개 부문 1위를 달리고 있다 .	PER-B O O O O O O O O O O O O O
+그러나 외무부는 현지 확인 결과 근로자들은 신변에 아무 이상 없이 만일의 사태에 대비 하+여숙소에 대기하고 있다고 밝히었다 .	O ORG-B O O O O O O O O O O O O O O O O
+D조에서는 우승 후보로 꼽히는 일본의 8강 진출이 유력 하+ㄴ 가운데 이라크 요르단 팔레스타인 등 서아시아 3팀이 8강 진출 티켓을 놓고 조별리그 마지막 날이+ㄴ 20일까지 치열하+ㄴ 경쟁을 펼치+ㄴ다 .	ORG-B O O O ORG-B O O O O O ORG-B ORG-B ORG-B O LOC-B O O O O O O O O O O O O O
+사실상 결승전이 +ㄴ 중국 전에서 패하+여김 6단의 우승 전망은 어둡어 +지었다 .	O O O O O PER-B O O O O O O
+한편, 13일 방송 하+ㄴ ‘복면가왕’에서는 연필이 네가 가라 하와이(이하 하와이)를 꺾고 12대가 왕자리를 차지하였다 .	O O O O O PER-B PER-B O PER-B PER-B O O O O O
+이 연구는 미래창조과학부 핵융합연구개발사업과 MaxPlanckPOSTECH/KOREAResearchInitiative 프로그램, 교육부 BK21 플러스 사업 지원을 통하+여수행되었다 .	O O ORG-B O O O ORG-B O O O O O O
+【포항=뉴시스 .	LOC-B O
+후배 내야 수의포구 동작에 부족하+ㅁ이 많아 고영민에게 지도를 직접 지시하였다”면서 “그런데 고영민이 자신의 노하우를 제대로 전수하더라. 그 모습이 인상적이었다”고 숨은 배경을 설명하였다 .	O O O O O O PER-B O O O O PER-B O O O O O O O O O O O
+[경제계 인사] KB캐피탈 .	O O ORG-B O

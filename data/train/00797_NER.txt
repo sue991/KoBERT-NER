@@ -1,0 +1,14 @@
+불과 한 달 전만 하+여도 버니 샌더스 상원의원(버몬트)과 최고 48%포인트(에머슨 조사)까지 벌어지었던 뉴욕 주 지지율 격차가 일부 조사에서 6%포인트(그래비스 조사)까지 좁히+어지+ㄴ 것으로 나오았기 때문이다 .	O O O O O PER-B O LOC-B O ORG-B O O O O O O O O ORG-B O O O O O O
+앞서 +ㄴ 회담에서 일본이 제의 하+ㄴ 내용, 이에 대하+ㄴ상대국의 반응 등을 면밀히 검토 ­ 분석하는 것이 필수적이다 .	O O O ORG-B O O O O O O O O O O O O O O
+14일 인사혁신처에 따르면 신임 민 위원장은 경기 여주 출신으로 경복고와 서울대 법학과를 졸업하였고 사법시험(20회) 합격 뒤 사법연수원 교수, 서울고등법원 부장판사 등을 역임하였다 .	O ORG-B O O PER-B O LOC-B LOC-B O ORG-B ORG-B O O ORG-B O O ORG-B O ORG-B O O O O
+수수 하+ㄴ 차림의 세 사람은 어디+이+ㄴ가를 응시하면서 박수를 치고 있다 .	O O O O O O O O O O O
+<46> 창극 연출가 정도 연 감 .	O O O PER-B O O O
+‘세종태양빌딩’ 입주자 모집… 세종시 3-1생활권 근 .	LOC-B O O LOC-B O O O
+최근 화제가 되+ㄴ이승만 전 대통령의 영어 저서 <일본 내막기(Japan Ins ideO ut)> 가 세상에 나오+ㄴ 것은 1941년 진주만 공격 직전이다 .	O O PER-B O O O O O O O O O O O O O O LOC-B O O O
+“가슴 미어 지+어… 노동개혁 법안 처리 하+여달라”울먹이+ㄴ이기권 장 .	O O O O O O PER-B O O
+갤럭시노트7 교환 시작, 우려 하+ㄴ 혼잡 없었 .	O O O O O O O O
+지나+ㄴ 1일 전지현이 모델로 활동 중 이+ㄴ 화장품 브랜드 '헤라' 유튜브 공식 계정에는 신제품 홍보 영상이 게재되었다 .	O O PER-B O O O O O O ORG-B O O O O O O O O
+청약자 규모는 올해 서울에서 분양 하+ㄴ아파트 가운데 가장 많았다 .	O O O LOC-B O O O O O O
+오뚜기, 바비큐 소스-냉장찌개 등 캠핑족 즉석식품 인기몰 .	ORG-B O O O O O O O
+‘찌질의 역사’ 작가 김풍인터 .	O O O PER-B O
+대형 트레이드, 알짜는 따로 있다?2011년 7월 31일 트레이드 마감 시한에 KBO 리그 ‘역대급’ 트레이드가 터지었다 .	O O O O O O O O O O ORG-B O O O O O

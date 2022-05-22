@@ -1,0 +1,14 @@
+‘모든 길은 인천으로 통하+ㄴ다’는 뜻으로 ‘올웨이즈 인천(allways Incheon)’으로 결정하였다 .	O O LOC-B O O O LOC-B O O O
+엑소 정규 2집 100만장 돌파, 'LoveMeR ight'으로 밀리언셀러… 역시 대세  .	ORG-B O O O O O O O O O O O
+또 김태환 펭구리 엔터테인먼트 대표 등 겸임교수 9명은 게임 트렌드와 현장 이슈를 학생 눈높이에 맞추+어가르치+ㄴ다 .	O PER-B ORG-B O O O O O O O O O O O O O
+또 그는 북한 학생들이 굉장히 청교도적이라고 전하였다 .	O O ORG-B O O O O O
+‘슈퍼스타K7’ 천단비가 생방송 경연에서 1위를 차지하였다 .	O O O O O O O
+비상시국회의는 바른정당 소속 의원들이 새누리당(현 한국당)에서 탈당하기 직전 탄핵정국과 진로를 고민하기 위하+ 여운용하던 회의체다 .	O ORG-B O O O ORG-B O O O O O O O O O
+일본 축구 대표팀 하비에르 아기레 감독이 해임되었다 .	ORG-B O O PER-B O O O O
+전용 39~130㎡, 9510가구로 재건축으로는 국내 최대 규모가 되+ㄹ 단지+이다 .	O O O O O O O O O O
+총 14개동, 885세대가 입주하였고 공급면적 109~335㎡로 구성되었다 .	O O O O O O O O
+에어부산, 초특가 프로모션 ‘플라이 앤 세일(FLY&SALE) .	ORG-B O O O O O O
+세종문화회관은 27, 28일 이틀간 대극장 무대에 ‘5대륙, 5인의 오르가니스트’(사진)를 올리+ㄴ다 .	ORG-B O O O O O O O O O O
+나비와 장동민은 두 사람이 사귀게 되+ㄴ 계기를 밝히었다 .	PER-B PER-B O O O O O O O
+한편 7일 서울 마포구 상암동 DMS빌딩에서 열리+ㄴtvN ‘삼시세끼-어촌편2’ 공동인터뷰에는 나영석 PD를 비롯하+여신 효정 PD, 김대주 작가가 자리하었다 .	O O LOC-B LOC-B LOC-B O O O O PER-B O O O O PER-B O O O
+이어 불편 하+ㄴ 신발 때문에 발아파하는 김소연을 위하+여 커플 운동화를 건네+어 여성 시청자들의 부럽 +ㅁ을 이끌어내 +었다 .	O O O O O O PER-B O O O O O O O O O O O

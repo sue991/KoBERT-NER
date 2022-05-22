@@ -1,0 +1,16 @@
+리츠칼튼 서울, ‘리츠티저트 –헬로 옐로’ 6일 시 .	ORG-B O O O O O O O
+새누리당 소속 국회의원 대부분도 폐지 논의가 이루어지는지 모르았고, 당론을 모으+ㄴ 적도 없다고 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O
+[華西都市報]쓰촨, 中산업의 중심으로 변신 … 세계 500대 기업 중 299개 기업 입 .	LOC-B LOC-B O O O O O O O O O O O
+우리당 하+ㄴ 제102조(비례대표 국회의원 선거 후보자 추천)에는 이렇게 명시되어 있습니다 .	O O O O O O O O O O O
+그 이후 정부 내부에서 북한의 성명에 한계가 분명히 있지만 남북대화로 이끌는 데 활용하+ㄹ 필요가 있다는 견해가 나 오+ㄴ 것으로 알려지었다 .	O O O O ORG-B O O O O O O O O O O O O O O O O
+기탁금 납부규정이 없었던 지나 +ㄴ 제17대 대통령 선거에서는 총 186명이 예비후보자로 등록하여 이중 34명이 사퇴 ․사망․ 등록무효되었으며 기탁금을 납부받은 제18대 대통령 선거에서는 총 18명이 등록하여 이중 6명이 사퇴 또는 등록무효되 +ㄴ바 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이제는 회사원 열 중에 넷이 여성이란 얘기+이다 .	O O O O O O O O
+더불어민주당 대선주자들은 26일 진행되+ㄴ 9차 TV토론회에서 지나 +ㄴ 8번의 토론회보다 더 불꽃 튀는 설전을 벌이었다 .	ORG-B O O O O O O O O O O O O O O O
+앞서 +ㄴ토론회에서도 문재인 후보에 대하+여안희정·이재명 후보가 공세를 펴고 최성 후보가 두 후보의 전과 등을 거론하며 역공을 가하는 모습을 보이었지만 이날에는 더욱 확연하+ㄴ ‘2대2’ 구도 양상으로 흘러가 +았다 .	O O PER-B O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O
+호남권을 대상으로 하+ㄴ민주당 첫 경선 순회투표가 하루 앞으로 다가오+ㄴ 상황에서 문 후보를 맹추격하는 안 후보와 이 후보가 서로에 대하+ㄴ 비판을 자제하면서 문 후보에 ‘집중’ 하+였기 때문이다 .	O O ORG-B O O O O O O O PER-B O O PER-B O PER-B O O O O O PER-B O O O PER-B O
+이날 문 후보와 안 후보 사이에서는 대학 등록금, 전국민안식제, 한미FTA 재협상 등의 주제가 도마 위에 오르았으며, 이 후보와 최 후보는 ‘세월호 배지’ 문제를 놓고 부딪치기도 +였다 .	PER-B PER-B O PER-B O PER-B O O PER-B O O O O O O O PER-B O PER-B O O O PER-B O O O O
+이 외 문 후보와 이 후보는 사드(THAAD·고고도미사일방어체계) 배치와 법인세 문제를 놓고 맞붙었으며, 안 후보와 최 후보는 대연정을 놓고 충돌하였다 .	PER-B O PER-B O PER-B O O O O PER-B O O PER-B O PER-B O O O O O
+먼저 안 후보는 이날 오후 대전 서구 소재 대전 MBC에서 열리+ㄴ민주당 대선후보 경선 9차 TV토론회에서 문 후보를 겨냥하+여 “우리가 여당이었을 때 추진한 한미 FTA를 야당이 되+ㄴ 순간 폐기하거나 재협상하자고 +였다”며 포문을 열었다 .	O PER-B O O O LOC-B O O LOC-B O ORG-B O O O O PER-B O O O O O O O O O O O O O O PER-B O O
+이에 문 후보는 안 후보가 사실을 잘못 알고 있다고 주장하며 “우리 당이 한미 FTA 폐기 당론을 결정 하+ㄴ적이 없다”며 “우리 당 당론은 일부 독소조항에 대하+여서 재협상을 요구하자는 것이었다”고 맞받았다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 후보 사이에는 이 같은 한미 FTA 재협상 이슈를 비롯하+여 이른바 ‘문재인 대세론’에 대하+여서도 공방이 벌어지었다 .	O O O O O O O O O O O PER-B O O O O O
+문 후보는 자신이 여전히 대세론이라는 점을 강조하+ㄴ반면 안 후보는 문 후보를 ‘불안하+ㄴ대세론’으로 규정짓고 자신의 본선 경쟁력을 강조하였다 .	PER-B O O O O O O PER-B O PER-B O PER-B O O O O O O

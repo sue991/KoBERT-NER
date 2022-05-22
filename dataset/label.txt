@@ -1,0 +1,10 @@
+NK
+O
+PER-B
+PER-I
+ORG-B
+ORG-I
+DAT-B
+DAT-I
+LOC-B
+LOC-I

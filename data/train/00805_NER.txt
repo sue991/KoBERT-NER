@@ -1,0 +1,16 @@
+일본 고베에서 태어나 +ㄴ 할야마시다는 아홉 살부터 요리를 시작하였으며, 로스엔젤레스와 멜버른, 쿄토를 비롯하+ㄴ 세계 여러 도시에서 다양하+ㄴ 경험을 쌓았다 .	LOC-B LOC-B O O PER-B O O O O LOC-B LOC-B LOC-B O O O O O O O O
+홍준표 “김평우 ‘막말’ 일부 보도, 과도하+ㄴ 비판 …文 ‘혁명’ 발언이 더 막말 .	PER-B PER-B O O O O O PER-B O O O O O
+[단독]“靑, 어버이연합 등 보수단체 10여곳 찍어 금액까지 구체적으로 못 박아 지원 요구 .	ORG-B ORG-B O O O O O O O O O O O
+한류스타 이민호와 같은 스타하우스 엔터테인먼트 소속이다 .	ORG-B PER-B O ORG-B O O O
+연간 대상자는 8500명 이 내가 되+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O
+해당 질환자는 승인 의료기관이 +ㄴ 서울대병원, 서울아산병원 등 13개 상급종합병원에서 진료를 받아 등록하면 산정특례를 적용받을 수 있다 .	O O O O O LOC-B LOC-B O O O O O O O O O O O
+적발되자 3억 납부 “의혹 .	O MNY-B O O O
+그 중 타이틀곡이+ㄴ ‘아이윌 올웨이스 러브유(IWillAlways LoveYou)’는 미국 빌보드 싱글차트에서 14주간 연속 1위 +이라는 신기록을 수립하였고, 미국과 영국 외에도 거의 모든 국가의 싱글차트에서 1위를 차지하며 메가톤급 인기를 누리+ㅂ니다 .	O O O O O O O ORG-B O O O O O O O O ORG-B ORG-B O O O O O O O O O O O
+이번 뮤직비디오는 한 사민감독의 작품으로 아이콘 특유의 상큼하고 에너지 넘치는 모습을 담아내 +었다 .	O O O O O ORG-B O O O O O O O O
+가요계는 최근 MBC ‘무한도전’, 엠넷 ‘쇼미더머니’ 등 인기 프로그램에서 선보이+ㄴ 음원들이 차트를 장악하였고 가을을 맞고 가요계 선배가수들이 속속 컴백하고 있는 상황 속에서 신인으로서 아이콘의 차트 올킬은 이례적이란 평가를 하고 있다 .	O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+아이콘은 앞서 +어음원 공개를 앞두고 14일 진행 하+ㄴ 네이버 V 앱 생중계 ‘취향저격의 밤’에서 “진짜 데뷔하게 +었다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O
+모데랏의 음악은 마치 광활 하+ㄴ늪지대에 묻히+어 있 .	PER-B O O O O O O O
+최 군수는 2002년과 2006년 무소속으로 군수 선거에 출마하+여이학렬 전 군수에게 잇따르 아패하였다 .	PER-B O O O O O O PER-B O O O O O
+또 정보전자소재 부문은 흑자(293억원)로 전환하였다 .	O O O MNY-B O O
+하지만 중국서만 한정 수량 판매되+어 세계 시장 서 크게 주목받지 못하였다 .	O ORG-B O O O O O O O O O O
+MBC ‘나 혼자 살+ㄴ다’도 트렌드에 급급하+ㄴ 모양새+이다 .	ORG-B O O O O O O O

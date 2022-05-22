@@ -1,0 +1,17 @@
+항일전쟁 기간, 중공도 대만을 소홀히 하지 않았다 .	O O ORG-B ORG-B O O O O
+주호영 “반기문 관련 나쁘+ㄴ 뉴스 7~8건이 가짜 …법적 정비나 서+ㄹ 것 .	PER-B PER-B O O O O O O O O O O
+삼성전자는 평택·고덕산업단지에 수원공장의 2.4배 규모로 반도체 공장을 세우어 2017년부터 일부가동 하+ㄹ 예정이다 .	ORG-B LOC-B LOC-B O O O O O O O O O O
+이후 뉴욕증시 상장을 추진 중 이+ㄴ포철주가가 강세를 보이자 매수세가 삼성전자, 현대자동차 등 우량 제조주 중심으로 확산되+어지수는 힘차게 9백30선을 넘어서기도 +였다 .	O LOC-B O O O ORG-B O O O ORG-B ORG-B O O O O O O O O O O
+이를 말리던 김규태 부교육감도 회원들에게 밀리+어 바닥에 넘어 지+어안 구 출혈과 찰과상을 입었다 .	O O PER-B O O O O O O O O O O O
+크리스털의 결정체로 만들어 지+ㄴ 것 같은 겨울왕국.덴마크 주얼리 브랜드 판도라가 이곳의 아름답+ㅁ을 주얼리로 재탄생시키+ㄴ 크리스탈 라이즈드 임벨리쉬먼트 컬렉션을 선보이었다 .	O O O O O O ORG-B O O ORG-B O O O O O O O O O O
+담뱃세 인상 효과에 힘입어 기타 세수도 9000억원 늘었다 .	O O O O O O MNY-B O O
+개저씨, 꼰대 2.021세기 개저씨는 20세기 ‘꼰대’와 비슷하지만 겹치지 않는다 .	O O O O O O O O O O
+이것이 사실이 +ㄹ 경우 현대중공업의 피해액은 최소 수천억원에 이르+ㄹ 것으로 보이+ㄴ다 .	O O O O ORG-B O O MNY-B O O O O
+엘레쎄는 온라인몰 오픈을 기념 하+여 다양하+ㄴ 이벤트도 진행 하+ㄴ다 .	PER-B O O O O O O O O O
+현재 3대 해운동맹에 소속되+ㄴ 13개 선사는 합병과 청산, 이합집산을 통하+여 내년 4월부터는 9개 선사가 2개 해운동맹(오션, THE 얼라이언스)을 구성하게 되+ㄴ다 .	O O O O O O O O O O O O O O O ORG-B ORG-B O O O O
+귀국이병헌이 민정과 하+ㅁ게 동반 입국 하+ㄴ이병헌이 “가족에게 평생 갚아도 못 갚을 빚을 +었다”고 미안하+ㄴ 마음을 드러내 +ㄴ 가운데, 이병헌의 과거 자필 심경글이 재조명 받았다 .	PER-B O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O
+이병헌은 지난해 9월 이른바 ‘50억 협박 사건’이 알려지+ㄴ 후 소속사 BH엔터테인먼트의 페이스북을 통하+여자 필로 쓰+ㄴ 심경 고백글을 게재하였다 .	PER-B O O O MNY-B O O O O O ORG-B O O O O O O O O
+당시 이병헌은 “이번 일로 인하+여 여러분들이 느끼+시었을 실망감은 이루 말 하+ㄹ 수 없을 정도+이라는 것+ㄹ 알기에, 저 역시 머리도 마음도 그 역할을 못하+ㄹ 만큼 그저 숨만 쉬며 지내고 있습니다”라고 운을 떼+었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+끝으로 이병헌은 아내 이+ㄴ 배우 이민정을 언급하며 “여전히 나+의 옆을 지키+어주는 아내와 가족들에게 더 이상의 실망을 주는 일이 없도록 평생을 노력하겠습니다 .	O PER-B O O O PER-B O O O O O O O O O O O O O O O O
+경부 경북 경의경 전 충북 동해남부선 표는 다음달 1일, 호남 전라장항 중앙태백영동 경춘선 표는 다음달 2일에 예매 하+ㄹ 수 있다 .	LOC-B LOC-B LOC-B O LOC-B LOC-B O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O
+온라인 중앙일보 jstar@j oongang. co.kr‘속사정쌀롱 BJ엣지’[사진 JTBC 캡처 .	ORG-B O O O O PER-B ORG-B O O

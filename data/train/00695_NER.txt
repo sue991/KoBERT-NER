@@ -1,0 +1,11 @@
+모바일 기반의 ‘어스토리’는 여행 계획을 쉽고 빠르게 세우+ㄹ 수 있어, 한창 주목을 받고 있는 여행 플래닝 서비스이다 .	O O O O O O O O O O O O O O O O O O
+그는 “프랑스는 전쟁 중”이라며 IS의 테러에 대하+ㄴ 대응 의지를 밝히었다 .	O ORG-B O O ORG-B O O O O O O
+순천향대가 망설이+ㅁ 없이 밀어붙이는 사업 가운데 하나는 학생들에 대하+ㄴ 지원이다 .	ORG-B O O O O O O O O O O
+며느리 A씨는 밖으로 나오+ㄴ 뒤 경찰에 신고하였다 .	O PER-B O O O O O O
+반면 금융선물협회 안에 찬성하는 박헌영 교수(미일리노이대)는 『현물시장은 상품에 따르 아따로따로 시장이 열리지만 선물시장은 대상이 주가지수건이 자율이 건 외환이 건 간에 속성은 비슷하+여 따로따로 거래하+ㄹ이유가 전혀 없다』고 밝히었다 .	O O O O PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O
+부동산 등기부등본에 따르면 우 수석의 부인(48)을 포함하+ㄴ 이상달 전 정강중기 ㆍ건설 회장의 네 딸은 2008년 부친이 사망하면서 서울역삼동 일대 4필지의 토지(약 1020평)와 건물을 상속받았다 .	O O O PER-B O O O PER-B O ORG-B O O O O O O O LOC-B O O O O O O O
+주 교수는 김 전 학장의 제자+이다 .	PER-B O PER-B O O O O
+목표심박수는 220에서나 이를 빼+ㄴ 후 그 값에 0.65~0.7을 곱하면 되+ㄴ다 .	O O O O O O O O O O O
+메이저리그에서 홈런 12개를 치+ㄴ 것+ㄴ 분명 내년을 준비하는 데 도움이 되+ㄹ 것이 +ㅂ니다 .	O O O O O O O O O O O O O O
+한편 이날 ‘인기가요’에는 빅뱅, AOA, 악동뮤지션, 세븐틴, 에이프릴, 업텐션, NCT127, 디셈버, 우주소녀, 빈챈현스, 펜타곤, MIXX, 보너스베이비, 바시티 등이 출연하였다 .	O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O
+2015년 정의윤이 있었다면, 올해는 최승준이다 .	O PER-B O O PER-B O

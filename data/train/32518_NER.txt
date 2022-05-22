@@ -1,0 +1,9 @@
+부산 기장군 ‘야구도시’로 발돋움 하+ㄴ .	LOC-B O O O O O
+프레샤인이 2016년 국가브랜드 대상 특작 농산물 사과 부문에 선정되며 6년 연속 정상을 지키었다 .	ORG-B O O O O O O O O O O O O O
+■채널A 밤 11시 ‘개밥 주는 남자’ 슈퍼주니어 강인이 강아지 입양 준비를 하며 만감이 교차 하+ㄴ다 .	ORG-B TIM-B O O O O ORG-B O O O O O O O O O
+이것+이 이태원 맛집들의 매력이다 .	O LOC-B O O O
+서울 이태원 경리단길에서 살짝 벗어나 +ㄴ길이라고 소개하고 싶은 꼬부라지+ㄴ 골목안, 낡은 소리를 내는 철대문위로 예쁘+ㄴ 간판이 걸리+어 있는데 여기가 바로 ‘살롱 프라이드’ +이다 .	LOC-B O O O O O O O O O O O O O O O O O O O ORG-B O O O
+계산이 서는 선발 투수는 이 태양이 유일하다 .	O O O O O O O O
+김 감독은 선발이 어느 정도 막아주면 계투진을 쏟아붓는 야구를 하는데, 불펜의 핵심이 +ㄴ권혁이 팔꿈치 통증으로 1군엔트리에서 말소되었다 .	PER-B O O O O O O O O O O O PER-B O O ORG-B O O
+세종=손영일scud2007@d onga. com/용인= 천호성기 .	LOC-B O LOC-B PER-B O
+MBC 아나운서 출신 이+ㄴ 차 씨는 대통령 문화관광비서관, 통합민주당 대변인 등을 지내+었으며, 2012년 19대 총선에 출마하였다가 낙선하였다 .	ORG-B O O O PER-B O O O ORG-B O O O O O O O O O

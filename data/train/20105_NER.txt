@@ -1,0 +1,14 @@
+2년 안에 3차례 적발되면 택시 운수종사자 자격이 취소되는 ‘승차거부 삼진아웃제’가 오늘부터 시행되 +ㄴ다 .	O O O O O O O O O O O O O O
+하지만 59년 피델 카스트로 정권이 들어서며 사회주의를 택하 +ㄴ 쿠바와 미국과 음악교류는 사라지었다 .	O O ORG-B O O O O O O ORG-B ORG-B O O O
+20년 만의 내무부 연수… 새벽 공부 .	O O ORG-B O O O O
+아시아·태평양경제협력체(APEC) 정상회의를 위하+여필리핀 마닐라를 방문 중 이+ㄴ 박근혜 대통령이 18일(현지시간) 첫 일정으로 ‘ABAC(APEC 기업 자문위원회)과의 대화’에 참석하였다 .	ORG-B O LOC-B LOC-B O O O PER-B O O O O ORG-B O O O O O
+이들은 복지부 판단에 따르 아PHIS에 등록되지 않았다 .	O ORG-B O O ORG-B O O O
+복지부 장관 전격 교체 …정진엽 분당서울대병원 교수 내 .	ORG-B O O O PER-B ORG-B O O O
+이날 레이디 가가는 상의 속옷을 입지 않은 채 옆 가슴이 모두 드러나는 독특하+ㄴ 멜빵 패션을 선보이어 주위의 이목을 끌었다 .	O PER-B O O O O O O O O O O O O O O O O O O
+이완구는 “기업 비정규직 줄이어야”… 계약기간 연장 등 정부 대책 제 .	PER-B O O O O O O O O O O
+한미 “제품 미진, 선급금 돌리+어달라” … 벤처“개발비로 +어… 반환의무 없다 .	ORG-B O O O O O O O O O O
+같은 현장에서 1인 시위를 진행하던 세월호 미수습자 가족 측과도 설전을 벌이는 등 마찰을 일으키기도 +였다 .	O O O O O ORG-B O O O O O O O O O O
+한편 탄기국과 보수단체 회원들은 이날 오후 2시 서울 종로구청 앞에서 최근 해당 구청의 헌법재판소 앞 태극기 강제 수거를 규탄하는 기자회견도 하+ㄹ 예정이다 .	O ORG-B O O O O O LOC-B O O O O O O O O O O O O O O O
+(서울=뉴스1 .	LOC-B O
+같은 시스템을 사용하지 않더라도 두 사람이 서로 편리하게 이야기를 나누는 가장 좋은 방법은 「토크」(talk)를 이용하는 것이다 .	O O O O O O O O O O O O O O O O O
+올 시즌 LPGA투어 최초로 2승 고지를 넘은 ‘하나자이저’ 장하나의 실력만큼이나 화끈 하+ㄴ 세리머니가 화제가 되고 있다 .	O O O O O O O PER-B PER-B O O O O O O O O

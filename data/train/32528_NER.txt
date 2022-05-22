@@ -1,0 +1,11 @@
+미국이 69%, 일본이 26%를 차지하+ㄴ다 .	ORG-B O ORG-B O O O
+이날 무대에서 박보검은 피아노 반주와 함께 노래를 부르고 하트가 가득 하+ㄴ그림으로 팬들에게 우정을 전하였다 .	O O PER-B O O O O O O O O O O O O
+3 연승을 기록 중 이+ㄴ 4위 성남과 지나 +ㄴ 14일 FA컵 4강단판 경기에 서 울산에 2-1로 승리하며 FA컵 결승에 오르+ㄴ 5위 서울의 경기는 18일 오후 4시 탄천종합운동장에서 진행되+ㄴ다 .	O O O O O O ORG-B O O O O O O O ORG-B O O O O O O ORG-B O O O O LOC-B O O
+이제 주님 안에서 영원히 하나가 되려고 하는 우리 두 사람을 축복하+여달라”고 적었다 .	O PER-B O O O O O O O O O O O
+한편 차유람과 이지성 작가의 웨딩 촬영을 담당 하+ㄴ 스튜디오 측은 20일 인천의 한 교회에서 진행되+ㄴ 두 사람의 결혼식 사진 5장을 22일 공개하였다 .	O PER-B PER-B O O O O O O O O LOC-B O O O O O O O O O O O
+공개되+ㄴ 사진 속에는 주례 앞에서 수줍은 표정으로 미소를 짓고 있는 차유람과 행복하+ㄴ 표정의 이지성 작가의 모습이 담기 +어 있다 .	O O O O O O O O O O PER-B O O PER-B O O O O O O
+기욤 패트리는 과거 한 매체와의 인터뷰에서 “송민서가 성격이 진짜 좋다 .	PER-B O O O O O PER-B O O O O
+[김식의 야구노트]팀워크 깨면 불리+어가+ㄴ다 .	O O O O O
+솔+ㄹ 지하니, 라이브 쇼케이스 EXID 귀엽ㅁ 작렬 EXID 솔+ㄹ 지하니 '오'인형과 깜찍하+ㄴ 포즈를 취하고 있다 .	O PER-B O O ORG-B O O ORG-B O PER-B PER-B PER-B O PER-B O O
+드림웍스의 새 애니메이션 ‘홈’의 개봉을 앞두고, 걸그룹 ‘EXID’의 솔+ㄹ 지하니와 함께하는 절친 라이브 쇼케이스가 12일 오후 영등포 타임스퀘어에서 열리었다 .	ORG-B O O O O O O ORG-B O O O O PER-B O O O LOC-B O O O
+리하+ㄴ나 제니퍼 로페즈 스티브 마틴 등 헐리우드 최고 스타들이 더빙에 참여하였다 .	PER-B O O O O O LOC-B O O O O O

@@ -1,0 +1,10 @@
+하지만 포스코가 탄산리튬 생산에 나서면서 국내 업체들이 원료 수급 걱정을 한결 덜 게 +었다 .	O ORG-B O O O O O O O O O O O O O
+소요죄 적용은 1986년 5월 3일 인천에서 일어나 +ㄴ 대규모 시위(‘5·3 인천 사태’) 이후 29년 만이다 .	O O O O O LOC-B O O O O LOC-B O O O O O
+추가 근무수당도 종전에는 25% 더 얹어 주+어야 +었지만 앞으로는 10% 이상만 주도록 바꾸었다 .	O O O O O O O O O O O O O O
+지중해를 건너+어 이탈리아로 가려던 난민 수백 명이 배가 뒤집히 + 어물에 빠지+어 숨지었다는 주장이 나오았다 .	LOC-B O LOC-B O O O O O O O O O O O O O
+김성민은 3월 서울 서초구 집에서 마약을 투약하+ㄴ 혐의로 체포되었다 .	PER-B O LOC-B LOC-B O O O O O O
+이사 후 7개월 만에 아들 박지만 씨를 낳았고 곧 소장으로 진급하였다 .	O O O O O PER-B O O O O O O
+또한 아소산은 대규모 폭발 때 파국적 이+ㄴ 피해를 입히는 에너지를 지니고 있어 일명 '파국화산'으로 불리+ㄴ다 .	O LOC-B O O O O O O O O O O O O O O
+아사히신문은 이를 근거로 아소산 폭발은 일본 열도를 화산재로 덮을 수 있다고 경고하였다 .	ORG-B O O LOC-B O LOC-B O O O O O O O
+미국에서 인턴으로 일하던 중 영어 실력이 부족하다고 느끼+ㄴ그는 한국어와 잠시 ‘이별’하기로 +였다 .	ORG-B O O O O O O O O O O O O
+산타루치아기차역에서 가깝ㄴ Fer rovia역 또는 P.leRome역에서 3번 또는 4.1번, 4.2번 바포레토를 타면 되+ㄴ다 .	LOC-B O O O O LOC-B O O O O O O O O

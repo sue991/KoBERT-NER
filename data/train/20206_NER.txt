@@ -1,0 +1,12 @@
+대원들은 매주 1~2차례 무겁ㄴ배낭을 메고 구미 금오산을 뛰어서 오르는 훈련을 하고 있다 .	O O O O O LOC-B LOC-B O O O O O O
+‘푸르던’ 아이유, 연습생 시절 펑펑 울+ㄴ 사연...선배가 뭐 +이라고 +였길래?가수 아이유가 네 번째 미니앨범 ‘챗셔(CHAT-SHIRE)’의 수록곡 ‘푸르던’ 첫 번째 티저 영상을 공개하+ㄴ 가운데, 아이유의 과거 발언이 재조명 받았다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O
+아이유는 과거 MBC ‘음악여행 라라라’에게스트로 출연하였다 .	PER-B O O O O O O
+당시 방송에서 아이유는 “중학교 2학년 연습생 시절 가수 준비를 하면서 많이 위축되어 있었다 .	O O PER-B O O O O O O O O O O O
+한 그루, 섹시++청순 엿보이는 과거가 수 시 .	PER-B O O O O O O O
+색상은 블랙, 다크 카키 2가지이며 가격은 52만원. 아이더 프리머스 다운 재킷은 비즈니스 캐주얼 스타일의 헤비다운으로 보온성은 물론이고 전체적으로 깔끔하고 세련되 +ㄴ 디자인을 갖추+ㄴ점이 특징이다 .	O O O O O O MNY-B PER-B O O O O O O O O O O O O O O O O O
+박지원 “DJ, 서거전까지 대북 송금 특검에 불만 .	PER-B O O O O O O O
+류현진은 다저스 투수 가운데 가장 먼저 라이브 피칭을 시작하였다 .	PER-B ORG-B O O O O O O O O
+'삼시세끼' 박신혜, 옥택연에게 "더럽게 말 안 듣네"구 .	O PER-B PER-B O O O O O
+꽃샘추위로 쌀쌀하였던 9일 낮 12시 서울대 교정. 학생 50여명이 서울대 언어교육원 1층 쌀국수 프랜차이즈 식당 앞에서 줄을 길게 서+었다 .	O O O O O LOC-B O O O LOC-B O O O O O O O O O O
+‘2015 무한도전 가요제’에는 가수 아이유, 밴드 혁오, 자이언티, 지드래곤, 태양, 박진영, 윤상 등이 참여하+ㄴ다 .	O O O O PER-B PER-B O PER-B PER-B PER-B PER-B PER-B O O O
+한편 ‘2015 무한도전 가요제’는 이날 오후 8시 강원 평창군의 동계올림픽 스키점프 경기장이+ㄴ 알펜시아 스키점프대에서 개최되 +ㄴ다 .	O O O O O O O LOC-B LOC-B O O O LOC-B O O O O

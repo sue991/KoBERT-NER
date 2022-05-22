@@ -1,0 +1,15 @@
+전명운의사는 1908년 미국 샌프란스시코에서 대한제국의 외교 고문이던 친일 미국인 스티븐스에 대하+ㄴ 암살을 기도, 전 세계에 일본의 한국 침략 문제의 심각성을 환기시키+ㄴ항 일 독립운동가이다 .	PER-B O LOC-B LOC-B ORG-B O O O LOC-B PER-B O O O O O ORG-B O O O O O O O O
+뱅뱅뱅빅뱅 지드래곤, 음원 사이트 1~4위 줄 세우기에 ‘어머 어머’ 그룹 빅뱅이 또다시 차트를 휩쓸었다 .	ORG-B PER-B O O O O O O O O ORG-B O O O O
+그룹 빅뱅은 1일 밤 12시6월 신곡 ‘뱅뱅뱅(BANGBANGBANG)’과 ‘위라이크 투파티(WeLike2Party)’를 공개하였다 .	O ORG-B O O O O O O O O O
+‘뱅뱅뱅’은 공개한 시간 만에 멜론을 비롯하+여지니, 올레뮤직, 엠넷, 네이버 뮤직 등 8개 음원 사이트 실시간 차트 1위를 기록하였다 .	O O O O O ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O
+더불어 ‘위라이크 투파티’는 ‘뱅뱅뱅’에잇어 8개 음원 사이트 2위에 오르며 빅뱅의 위력을 입증하였다 .	O O O O O O O O O ORG-B O O O
+바틀렛은 반려견의 목에 밧줄을 걸어 주+ㄴ 뒤 주인에게 헤엄치+어가라고 +였다 .	PER-B O O O O O O O O O O
+일부에서 +ㄴ 박 대통령 비하 발언과 관련되 +ㄴ보복성 해임 아니냐는 추측도 하는데, 전혀 고려 대상이 아니었다 .	O O PER-B O O O O O O O O O O O O O O
+허 감독은 대표팀 감독 선임 면접에서 빠르+ㄴ 공수 전환과 1대1 돌파 능력이 우수하+ㄴ대학과 프로 5년차 미만 선수들을 중심으로 세대교체를 시도하겠다는 의지를 밝히었다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O
+김 회장은 2005년 지+ㄴ 검사장에게 넥슨 비상장 주식을 매입하+ㄹ 특혜를 +었다 .	PER-B O O PER-B O ORG-B O O O O O O
+공보처는 4일부터 국민들에게 정보서비스를 실시하고 여론 수렴 기능을 위하+여하이텔, 에이텔 등 2개 PC통신에 「공보처 열리+ㅁ 마당」을 개설하였다 .	ORG-B O O O O O O O ORG-B ORG-B O O O ORG-B O O O O
+국토부는 대한항공과 아시아나항공 등 2개 항공사와 제주항공 ㆍ진에어ㆍ에어부산ㆍ이스타항공 ㆍ티웨이항공 등 5개 저비용 항공사, 그리고 인천 ㆍ김포ㆍ 김해ㆍ 제주ㆍ청주공항 등 5개 공항을 평가하였다 .	ORG-B ORG-B ORG-B O O O LOC-B ORG-B ORG-B O O O O O LOC-B LOC-B LOC-B LOC-B O O O O O
+항공사 평가의 경우 정시성 ㆍ 안전성 ㆍ 피해구제ㆍ 이용자 만족도 등 4개 항목을 평가하였고, 저비용 항공사의 특수하+ㄴ 사업방식을 고려하+여대형 항공사와 평가그룹을 구분하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
+대형 항공사 부문 종합등급에서는 대한항공이 매우 우수(A), 아시아나항공이 우수(B)로 평가되었다 .	ORG-B O O O ORG-B O O ORG-B O O O
+◇미래 대비=안 후보는 오후에 +ㄴ 일산 킨텍스에서 열리고 있는 서울국제모터쇼를 찾았다 .	O PER-B O O O LOC-B O O O O O O
+방어율은 3.51로 나쁘지 않은데 1승으로 가는 길이 멀기만 하다 .	O O O O O O O O O O

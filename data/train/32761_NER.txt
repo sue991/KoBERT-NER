@@ -1,0 +1,13 @@
+서울시는 다른 충전소와 계약 하+여비용을 직접 결제하+ㄹ 예정이다 .	ORG-B O O O O O O O O
+하남시는 지난해 1월 클린턴의 미국 대통령 취임식 때 시내 곳곳에 경축 현수막을 내걸고 마치 자기 고장의 일처럼 기뻐하였다 .	ORG-B O O PER-B ORG-B O O O O O O O O O O O O O O
+조씨는 청주시민들과 함께 동아시아문화도시를 축하하고 그 감동을 나누+ㅁ으로 펼치기 위하+여이 같은 행사를 올 한해 동안 계속 하+여나가+ㄹ 계획이다 .	PER-B LOC-B O O O O O O O O O O O O O O O O O
+‘올림픽 성화봉송 주자’ 참여를 독려하는 해당 광고 화보에서 박보검과 김연아는 눈을 서로 마주보며 미소 짓는가 하면 손을 맞잡고 환하+ㄴ미소를 보이기도 +였다 .	O O O O O O O O PER-B PER-B O O O O O O O O O O O O
+세월이 흐르어 충석의 연인이었던 설령 이 할머니가 되+어 지난날을 회상하는 액자 식 구성으로 진행되+ㄴ다 .	O O PER-B O PER-B O O O O O O O O O O
+IS의 전략이 놀랍ㄴ 것은 시리아에 본부를 두면서, 전 세계에 100여개의 세포 조직을 운영하+ㄴ다는 것이다 .	ORG-B O O O LOC-B O O O O O O O O O O
+'더 지니어스' 장동민, 왜 '갓 동민'이라 불리는지 입 .	O O PER-B O PER-B O O O O
+이들은 지금의 대한민국을 만들 +ㄴ 세대지만 미래의 대한민국을 책임지지는 못하+ㄴ다 .	O O ORG-B O O O O ORG-B O O O
+18세는 다르다 .	O O O
+메르세데스 벤츠 유니목은 특수목적차량(special-purposevehicles) 부문에서 43.3%의 득표율을 얻어 ‘올해의 크로스-컨트리 차량(Cross-Cou ntry VehicleoftheYear)’으로 선정되어 12년째 1위 자리를 지키었다 .	O O O O O O O O O O O O O O O O O O O
+서남대는 설립자 이홍하씨가 2013년 교비 330억원을 횡령 하+ㄴ 혐의로 구속되면서 위기를 맞았다 .	ORG-B O PER-B O O MNY-B O O O O O O O
+전 세계 자동차 시장에서 자율주행 기술 개발의 ‘골든타임’이 2020년이 되+ㄹ 것으로 전망되는 가운데 현대·기아자동차도 경쟁에 본격 뛰어들었다 .	O O O O O O O O O O O O O ORG-B O O O O
+어떤 위기든 한 개의 원인으로 생기지 않는다 .	O O O O O O O O

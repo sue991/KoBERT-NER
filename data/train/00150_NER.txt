@@ -1,0 +1,11 @@
+원내대표 시절 박근혜 대통령의 복지공약을 직격탄을 날리+ㄴ 유승민 의원의 공천 문제도 비공개 최고위에서도 해결되지 않았다 .	O O PER-B O O O O PER-B O O O O O O O O
+한국의 전체 수출 물량 중 삼성전자가 차지하는 비중이 워낙 높다 보니 이번 갤럭시노트7 사태는 중장기적으로 한국 수출에 악영향을 미치+ㄹ 수밖에 없다 .	LOC-B O O O O ORG-B O O O O O O O O O LOC-B O O O O O O
+전 전 대통령 측의 이량 우 변호사와 노 전 대통령 측의 정해창 전 비서실장이 막후 의 견 조정 작업을 벌이+ㄴ 것으로 알려지었다 .	PER-B PER-B O O O O O PER-B PER-B O O PER-B PER-B O O O O O O O O O O
+영국 비영리기관 ‘카본트러스트’, 독일 인증기관 TUV 라인란트 등에서는 친환경 제품 인증을 받았다 .	LOC-B O ORG-B LOC-B O ORG-B O O O O O O O
+[바둑]제58기 국수 전… 169로 받은 이유 .	O O O O O O O
+미국 관리들은 파티에서 한국 외교관을 만나면 외면하라는 엄명을 받는다 .	ORG-B O O ORG-B O O O O O O
+하지만 현재 아이가 있는 칠레 여성 근로자의 초임은 남성보다 9∼20% 낮다 .	O O O O O O O O O O O O
+대구 메르스 공무원 해임"지역경제에 크+ㄴ타격+주었다 .	LOC-B O O O O O
+코오롱FnC 부문 한경애 상무는 “새 제품이 소비자에게 선택받지 못하+ㄴ 채 브랜드 관리를 위하+여소각되는 경우가 많다”며 “이런 문제를 해결하고자 업사이클링 브랜드를 기획하였다”고 말하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O
+지나+ㄴ 4일 MBC ‘라디오 스타’에는 이순재, 최민용, 신지, 김혜성이 출연하였다 .	O O O O O PER-B PER-B PER-B PER-B O O
+은행연합회 정사원 기관은 1997년 35개이었으나 외환위기 후퇴출이나 인수합병으로 지난해 말 현재 20개로 줄었다 .	ORG-B O O O O O O O O O O O O O

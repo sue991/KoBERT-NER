@@ -1,0 +1,13 @@
+20일 오전 1시30분께 (현지시간) 조모씨(57)가 필리핀 바탕가스 주말 바르시 자택에서 4인조 괴한의 총격을 받고 사망하였다 .	O O O O PER-B LOC-B LOC-B LOC-B O O PER-B O O O O O
+사건 당시 조씨는 자택에서 필리핀인 부인, 아기와 함께 잠을 자던 중에 피살되었다 .	O O PER-B O O O O O O O O O O
+박서준·백진희 열애설, 과거 “백진희 같은 여자, 사귀+ㄴ다면 좋다 .	PER-B O O PER-B O O O O O
+‘파리 테러’의 총책으로 알려지+ㄴ 벨기에 국적의 이슬람 국가(IS) 조직원 압델하미드 아부우드(28)가 파리 테러 직전 ‘콘서트홀 공격’ 계획뿐 아니라 바타클랑 극장에서 자폭하+ㄴ 프랑스 국적의 이 스마엘 오마르 모스테파이와 접촉 하+여+았음이 밝혀지었다고 미국 뉴욕타임스(NYT)가 보도하였다 .	LOC-B O O O ORG-B O ORG-B ORG-B O PER-B O LOC-B O O O O O O LOC-B O O ORG-B O O O O O O O O ORG-B ORG-B O O
+서울중앙지검 특별수사4부(부장 배종혁)는 전날 박 의원을 소환하+여 19시간 가량 조사하+ㄴ 뒤 이날 오전 6시 반 돌려보내 +었다 .	ORG-B O PER-B O PER-B O O O O O O O O O O O O O
+코스 주변 임진강변의 주상절리가 압권이다 .	O O LOC-B O O O
+김미려, 사모님으로 정상에서 추락 후 … 남편 정성윤은 .	PER-B O O O O O O PER-B O
+반면 지난해 새로 시내면세점 사업에 진출하+ㄴ 두산과 한화갤러리아는 이번 입찰에 지원하지 않았다 .	O O O O O O ORG-B ORG-B O O O O O
+시+ㄴ 다은 폭탄 발언 “이광수가 저번에 고백하였다 .	O O O O PER-B O O O
+서울 강서구의 한복어집에서 열리+ㄴ이날 회동은 김 대표의 비서실장이+ㄴ 김학용 의원이 의원들을 모으았다 .	LOC-B LOC-B O O O PER-B O O PER-B O O O O
+익명을 원하+ㄴ 참석자는 “회동의 방점이 ‘상향식 공천 성공’에 찍히+ㄴ 만큼 김 대표에게 힘을 싣어주기 위하+ㄴ 성격이 짙다”고 말하였다 .	O O O O O O O O O O PER-B O O O O O O O O
+오늘은 10대 피부에 좋은 화장품이 뭐 +이+ㄴ지 공부하+여서 그 화장품들을 사다 주+어야 +하겠다 .	O O O O O O O O O O O O O O
+최근 어버이연합 등은 검찰청사 앞에서 검찰 수사를 반대하는 시위를 하기도 +였다 .	O ORG-B O O O O O O O O O O

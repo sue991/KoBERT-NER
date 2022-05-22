@@ -1,0 +1,14 @@
+교육개발원의 나 정유아교육연구부장은 놀이감의 이름도 「아리랑 조각 맞추기 」「신랑 먼저 각시 먼저 」「쿵짝쿵짝 카드 놓기 」「 덩더쿵 카드 찾기 」「깨비 찾기 퍼즐」 등 한국적 이+ㄴ 냄새가 물씬나도록 짓었다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+진화하는 한국 가곡이 쟁쟁하게 버티고 있다 .	O LOC-B O O O O O
+(연광철은 유럽 청중이 사랑하는 베이스다 .	PER-B ORG-B O O O O
+2위 이+ㄴ이 반뮐러는 총 321포인트, 세바스티앙 로브는 총 282포인트, 마칭화가 178포인트를 기록하고 있어 시트로엥 WTCC팀이 드라이버 부문 1위~4위를 모두 차지하고 있다 .	O O O O O PER-B O O O PER-B O O O ORG-B O O O O O O O O
+한편 WTCC 대회는 F1과 WRC에잇어국제자동차연맹이 +ㄴ FIA(Fédé rationI nternationaledel’ A utomobile)가 세계에서 3번째로 만들 +ㄴ월드 챔피언십 모터스포츠로 실제 양산되는 4도어 세단 중 이륜구동자동차들이 트랙에서 펼치는 레이싱 경기+이다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+‘2015W TCC’는 올 한 해 동안 12차례에 걸치+어 4대륙을 돌며 경기가 치르어 지+ㄴ다 .	O O O O O O O O O O O O O O
+―한일 두 나라에 광복 70년, 전후 70년이 갖는 의미는 무엇이 +ㄹ까요.▽염= 한국에 광복 70년은 21세기 선진국을 향하+여 새롭ㄴ 출발을 하는 획기적 전환이 가능하+ㄴ 상징적 이+ㄴ해 이+ㅂ니다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+영화 ‘암살’ 표절 논란, 1000만 돌파 앞두고 상영 금지 가처분 신청?양측 주장 엇갈리+어…암살표절 논란 1000만 관객 돌파를 코앞에 두 +ㄴ 영화 ‘암살’ 이 표절 논란에 휩싸이면서 결국 법정에 가게 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+12일 서울중앙지법에 따르면, 소설가 최종림씨(64)는 영화 ‘암살’이 자신의 소설 ‘코리안 메모리즈’를 표절하였다며 최동훈 감독, 제작사 케이퍼 필름 안수현 대표, 배급을 맡은 쇼박스 유정훈 대표를 상대로 100억원의 손해배상을 청구하는 소송을 10일 제기하였다 .	O ORG-B O O PER-B O O O O PER-B O O PER-B O O ORG-B O PER-B O O O ORG-B PER-B O O MNY-B O O O O O O
+이와 함께 ‘암살’의 상영을 중단하+여달라며 상영금지 가처분 신청도 내 +었다 .	O O O O O O O O O O O
+2월 신혼여행을 앞두고 면세점을 방문하였다고 밝히+ㄴ 내국인 고객은 "평소에는 방문 하+ㄹ 시간이 없지만 이번 연휴 가족 선물을 사기 위 하+여면 세점을 찾았다"며 "예상하었던 것보다 중국인 관광객이 적은 듯하다"고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+트리아는 행사 기간 동안 베스트셀러 ‘트리아 미니’와 ‘트리아 아이리뉴 레이저’ 20% 할인 단독 특가를 진행하+ㄴ다 .	ORG-B O O O O ORG-B O ORG-B O O O O O O O O
+그런 중국에서 요즘 이혼율이 급격히 증가하고 있다 .	O ORG-B O O O O O O
+그러다 우연찮게 오스트리아 베이스볼리그(ABL) 소속의 세미프로 팀 다이빙 덕스에 입단하게 +었다 .	O O ORG-B O O O O ORG-B O O O O

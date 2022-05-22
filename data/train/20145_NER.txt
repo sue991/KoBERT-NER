@@ -1,0 +1,12 @@
+스포츠 브랜드 뉴발란스가 미국 프로야구 미네소타트윈스의 박병호(30·사진)를 후원하+ㄴ다 .	O O ORG-B ORG-B O ORG-B PER-B O O
+1995년 롯데 지휘봉을 잡았을 때는 KBO 리그 사상 처음으로 200도루를 돌파하기도 +였다 .	O ORG-B O O O ORG-B O O O O O O O
+홍기택(64) KDB산업은행 회장이 ‘중국 판 세계은행’이+ㄴ아시아 인프라 투자은행(AIIB) 부총재를 맡는다 .	PER-B ORG-B O ORG-B O O O ORG-B O O O
+동아에스티(대표이사 사장 박찬일)는 올해 글로벌 마케팅 강화를 통하+여박 카스의 해외 매출 확대에 나서겠다고 21일 밝히었다 .	ORG-B O PER-B O O O O O O O O O O O O O
+평소 린썬은 장제스가 무슨 말을 하건 듣기만 +였다 .	O PER-B PER-B O O O O O O
+강원선수단은 3월 1일 재소집 되+어 2일부터 강릉에서 챌린지 개막을 준비 하+ㄴ다 .	ORG-B O O O O O LOC-B O O O O O
+새로 문을 열 +ㄴ 매장의 매니저들에게 100달러 정도를 회사에 투자하라고 요청하+ㄴ 것이다 .	O O O O O O MNY-B O O O O O O
+정몽구 회장이 가족 대표로 인사 하+ㄴ다 .	PER-B O O O O O O
+씨앤엘뮤직 측은 “베니타의 신작 대표곡 제목이 ‘Riv erSilver’이+ㄴ 데 .	ORG-B O PER-B O O O O O O O
+또한 박인비-유소연 선수와 1개 홀을 함께 라운딩을 하+ㄹ 수 있는 기회를 제공 하+ㄴ다 .	O PER-B O O O O O O O O O O O O
+본격적 이+ㄴ대회에 앞서 +어박인 비-유소연 선수에게 원포인트 골프 레슨을 받는 시간을 마련하였으며, 시타식은 고객 대표와 함께 박인비-유소연 선수, 파나소닉코리아노운하 대표가 진행 하+ㄴ다 .	O O O O PER-B O O O O O O O O O O O PER-B O ORG-B O O O O
+골프대회를 마치 +ㄴ 뒤에는 만찬과 총 11개 분야 수상자 24명에 대하+ㄴ 시상식을 진행하+ㄴ다 .	O O O O O O O O O O O O O O

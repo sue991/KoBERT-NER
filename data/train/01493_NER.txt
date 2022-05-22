@@ -1,0 +1,12 @@
+그리고 그 정점에서 신 총괄회장이 한·일 양국의 롯데를 총괄하였다. 그러던 중 지난해 말과 올해 초에 걸치+어신 전 부회장이 주요 보직에서 잇따르 아밀려나 +았다 .	O O O PER-B O ORG-B O ORG-B O O O O O O O PER-B O O O O O O O O
+경북 칠곡이 고향이+ㄴ 김루트와는 대구에서 버스킹을 하면서 만나 +았다 .	LOC-B LOC-B O PER-B LOC-B O O O O O
+96년 대통령 표창을 받았다. 유족으로는 부인이정희씨와 재영ㆍ혜원 ㆍ혜경 ㆍ혜준씨 등 1남 3녀가 있다 .	O O O O O PER-B PER-B PER-B PER-B O O O O O
+정씨의 출산 의혹은 그가 페이스북 계정에 2014년 후반기와 지난해 5월 자신의 임신을 암시하는 듯 하+ㄴ 내용의 글을 올리었다가 삭제하면서 급속히 퍼지기 시작하였다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O
+그는 또 내년 10월 1일 이 군대를 창설, 가동 하+ㄹ 준비가 되+어 있으며 또 그렇게 되+ㄹ 것이라고 강조하였다 .	O O O O O O O O O O O O O O O O O O O
+클린턴 전 대통령은 또 “변화를 만들는 최고 적임자”라고 극찬하였다. 뉴욕타임스 칼럼니스트 모린다우드는 클린턴 전 대통령의 연설은 유권자들에게 비호감이미지를 지니 +ㄴ부인 클린턴을 위하+여발 벗고 나서 +ㄴ 것이라고 26일 분석하였다 .	PER-B O O O O O O O O ORG-B O PER-B PER-B O O O O O O O PER-B O O O O O O O O
+글=강태화·이지상기자thkang@j oongang. co.kr사진=김성룡기 .	PER-B O PER-B O
+북측 인사는 "경비가 강하지 않고 다른 경기 때와 똑같은 것을 보면 …"이라고 말하였다 .	O O O O O O O O O O O O O O
+소유진, 백종원에 “여봉보고 시퍼여” 문자 하자 곧바로 … ‘닭살 부부’ 인증 소유 진백종원.둘째 출산을 앞두고 있는 소유진이 백종원과의 행복하+ㄴ 결혼생활을 공개하였다.9일 방송되+ㄴ SBS 러브FM ‘김지선 김일중의 세상을 만나자’에서는 ‘블링블링 스타 특집’ 코너를 통하+여소유진과 전화 인터뷰를 진행하였다 .	PER-B PER-B O O O O O O O O O PER-B PER-B O O O PER-B PER-B O O O O O O O O O O O O O O PER-B O O O O
+2018년 경단지에서 걷어서 통학 하+ㄹ 수 있는 곳에 초중고교가 들어서 +ㄴ다 .	O O O O O O O O O O O O
+호남 출신 법무부 장관이 나오아 지역 안배가 이루어 지+ㄴ데 .	LOC-B O ORG-B O O O O O O O
+그가 입장하자 김무성 대표는 회의 도중 다른 참석자들 자리를 하나씩 옮기게 +였다 .	O O PER-B O O O O O O O O O O

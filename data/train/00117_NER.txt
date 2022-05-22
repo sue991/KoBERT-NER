@@ -1,0 +1,11 @@
+특히 5·6·7차 앗 피고 원골프장, 카루이자와 72골프장, 북해도니세코골프 3색 라운드로 다양하+ㄴ 코스에서 아마추어 대회도 예정되어 있다 .	O O LOC-B O O LOC-B O LOC-B O O O O O O O O O
+‘생활자금 자동인출’ 특약에 가입하+ㄹ 경우 고객이 지정 하+ㄴ은퇴 시점부터 20년 동안 생활자금을 매년 지급받는다 .	O O O O O O O O O O O O O O O
+강 대사는 그동안 수사 조작설을 주장하+여 말레이시아 정부의 거세+ㄴ 항의를 받아 +았다 .	PER-B O O O O O ORG-B O O O O O O
+쯔엉떤 상 베트남 국가주석과 전대주주 베트남 한국대사, 구본무 LG그룹 회장, 구본준 LG전자 부회장 등 현지 정·관계 인사와 LG 관계자 등 약 400명이 참석하였다 .	O O ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O O O O O ORG-B O O O O O O
+GS칼텍스는 14일 수원 현대건설 전에서 외국인 선수 알렉사 없이 싸우어야 +였다 .	ORG-B O O O O O O PER-B O O O O
+현대차 노조는 지나 +ㄴ 3일간 부분파업에잇어 이날은 1, 2조 근무조가 총 14시간 파업에 들어가 +았다 .	ORG-B O O O O O O O O O O O O O O O
+시즌제가 정착되 +ㄴ 미국 드라마는 뒤늦게 드라마를 시청하려고 하면 이 전 시즌을 ‘복습’ 하+여야 하는 번거롭 +ㅁ이 있다 .	O O O LOC-B O O O O O O O O O O O O O O O
+승리“태양과 2인조 그룹 준비하던 GD, 빅뱅 결성 싫어하였다 .	PER-B O O O PER-B ORG-B O O O
+박영민은 왜 바그너 ‘탄호이저’를 고르았을까 .	PER-B O PER-B O O O
+지난해 12월 경북 구미에 있는 박정희 대통령 생가화재와 유사하+ㄴ 사건을 대비 하+ㄴ 조치+이다 .	O O LOC-B LOC-B O O O O O O O O O O
+사실 애니메이션하면 아이들의 전유물 같지만 디즈니는 어른, 아이 하+ㄹ 것 없이 모두 즐기 +ㄹ 수 있어 좋아요.” 김성은은 평소 디즈니 영화를 즐기+어보고 방송에서도 여러 차례 디즈니 캐릭터가 그리 +어지+ㄴ의상을 선보이었다 .	O O O O O ORG-B O O O O O O O O O O O PER-B O ORG-B O O O O O ORG-B O O O O O

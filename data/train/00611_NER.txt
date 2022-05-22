@@ -1,0 +1,12 @@
+박람회 현장에서 매시간마다 추첨을 통하+여경품을 증정하는 ‘LUCKYDRAW’를 진행하+ㄴ다 .	O O O O O O O O O
+노벨상·공쿠르상과 함께 세계 3대 문학상으로 꼽히는 맨부커상의 자매상이다 .	O O O O O O O O O
+장기영은 조선은행 입사 동기 이+ㄴ백두진에게 서운하+ㅁ을 느끼면서도 김진형을 의심하었다 .	PER-B ORG-B O O PER-B O O PER-B O O
+오세근은 54경기에 출전하+여 평균 32분38초를 뛰면서 13.98점·8.4리 바운드·3.4어 시스트·1.4가로 채기·1.0블록슛을 기록하며 KGC의 창단 첫 정규리그 우승에 앞장서 +었다 .	PER-B O O O O O O O O O O ORG-B O O O O O O O
+SK 관계자는 “터키는 중동과 유럽을 잇는 지정학적 요충지+이어서 터키에서의 사업 성공은 두 대륙에 대하+ㄴ 사업 진출에 유리하+ㄴ교두보를 확보하+ㄴ다는 의미가 있다”고 말하였다 .	ORG-B O LOC-B LOC-B LOC-B O O O LOC-B O O O O O O O O O O O O O
+권오준 포스코 회장은 이날 주요 임원 및 계열사 대표 30여명과 함께 서울 강남구 테헤란로포스코센터 2층에 마련되 +ㄴ 서명대에 서 서명에 동참하였다 .	PER-B LOC-B O O O O O O O O O LOC-B LOC-B LOC-B O O O O O O O O
+하이원 리조트 “해발 1340m 서도 무료 와이파이 OK .	ORG-B O O O O O O O O
+외교부 관계자는 “지난해 이후 피살자 중단순 여행객은 없고 교민이나 사업을 위하+여필리핀을 찾은 사람이 피해를 당하였다”고 말하였다 .	O O O O O O O O O O LOC-B O O O O O O
+박훈상t igermas k@d onga. com·이유종기 .	PER-B O O O PER-B O
+김씨는 “나+의 성향을 파악하니 지원하고 싶은 기업도 뚜렷하+여지+어 좋았다”고 말하였다 .	PER-B O O O O O O O O O O
+바네사브루노는 카바스 백커스터마이징 서비스를 제공하는 팝업스토어를 갤러리아 본점에 열+ㄴ다 .	ORG-B O O O O O O O O O
+피해자들의 외출을 돕는 희망봉사단에 대하+ㄴ 만족도가 높다 .	O O O ORG-B O O O O

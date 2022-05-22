@@ -1,0 +1,15 @@
+늘어나는 관광객 수에 비하+여 제주나 +의 숙박시설은 부족하+ㄴ 실정이다 .	O O O O LOC-B O O O O O
+서성건 변호사(56·17기) 손범규 변호사(50·28기) 채명성 변호사(38·36기) 등 4명이 선임계를 내+었고 전직 헌법재판관 등 중량감 있는 인사도 참여하+ㄹ 예정이다 .	PER-B O PER-B O PER-B O O O O O O O O O O O O O O
+새정치민주연합이 ‘트리플 딜레마’에 빠지+어 있다 .	ORG-B O O O O O
+금강제화는 1일 서울 중구 명동 본점에서 ‘로얄 에디션’ 등 신제품 출시를 기념하는 행사를 가지었다 .	ORG-B O LOC-B LOC-B LOC-B O O O O O O O O O O
+그 중에서도 터키와 아이슬란드는 국정교과서와 민간 발행 교과서를 혼용하고 있다 .	O O LOC-B LOC-B O O O O O O O
+광복 이후 70년간 한국의 소비자물가는 급격하+ㄴ 변동을 겪었다 .	O O O ORG-B O O O O O
+앞서 중앙일보가 지난해 초 진행 하+ㄴ ‘올해의 차’(CarofTheYear)에서도 같은 차량을 수상작으로 뽑았다. 최근에 +ㄴ 친환경 자동차의 관심이 높아지는 흐름을 감안하+여2006년부터 ‘올해의 친환경차(GreenCaroftheYear)’ 시상도 등장하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+나렌드라 모디 인도 총리(사진)가 12일 사흘간 이어지는 영국 국빈 방문 일정을 시작하였다 .	PER-B O LOC-B O O O O LOC-B O O O O O
+낮 12시30분부터 시작되+ㄴ이 날 행사에는 어린이 환우 70명과 가족들이 참가하+여 즐겁ㄴ시간을 보내+었다 .	TIM-B O O O O O O O O O O O O
+국내에도 소개되+ㄴ ‘호밀 빵 햄 샌드위치’에서도 작가의 이런 철학을 엿보+ㄹ 수 있다 .	O O O O O O O O O O O O O
+부디 박 대통령이 일본의 경험을 살펴보았으면 하+ㄴ다 .	O PER-B O ORG-B O O O O
+이로서 메시는 4경기 연속 골을 성공시키었다 .	O PER-B O O O O O
+초대형 럭셔리 세단 『EQ900』 출 .	O O O O O O
+NC나 성범이 투수와 타자 양쪽에 재능을 가지고 있지만 김경문 감독은 타자로 전념하기를 원하였습니다 .	ORG-B O O O O O O O PER-B O O O O O
+미 연방수사국(FBI)은 “해킹되+ㄴ 내용에 기밀정보는 없다”며 진화에 나서 +었다 .	ORG-B ORG-B O O O O O O O O

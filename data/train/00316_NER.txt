@@ -1,0 +1,13 @@
+이번 논문은 명나라 조정의 관보, 양광총독의 상소문, 당시 저술되+ㄴ서적 등을 검토하+여나 오았다 .	O O O O O PER-B O O O O O O O
+김무성 새누리당 대표나 문재인 새정치연합 대표는 결속되 +ㄴ 100만 공무원과 가족표를 의식하면서도 2000만 국민연금 가입자들의 시선이 부담스럽었을 것이다 .	PER-B ORG-B O PER-B ORG-B O O O O O O O O O O O O O O
+대회 최우수선수(MVP)에는 3홈런 10타점으로 경성대 타선을 이끌 +ㄴ이재욱이 선정되었다 .	O O O O ORG-B O O PER-B O O
+[스포츠동아 .	ORG-B O
+검찰이 NH 개발 전 대표 유 모 씨가 협력업체 측 금품수수에 연루되 +ㄴ 정황을 잡고 조만간 소환 하+ㄹ 방침이 +ㄴ 것으로 8일 확인되었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+머스크, 대우조선 선박 6척 추가 계약 안 하기로 조선업계에서는 업체들의 매출이 2017년까지 감소세를 보이+ㄹ 것이라는 예상이 지배적이다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O
+JYP엔터테인먼트 "원더걸스컴백?공식 입장 전 하+ㄹ 수 없어 .	ORG-B ORG-B O O O O O O
+북한의 4월은 도발 호재가 차고 넘치는 달이다 .	ORG-B O O O O O O O
+같은 시간 하이쇼핑(현 GS숍)은 TV와 비디오 등 여러 가전제품을 컨트롤 하+ㄹ 수 있다는 ‘만능 리모컨’을 팔았다 .	O O ORG-B ORG-B O O O O O O O O O O O O O
+‘클린턴 모녀’의 행보가 최근 주목받고 있다 .	PER-B O O O O O O
+이와 관련, MBC는 조 의원에 대하+여민·형사상 책임을 철저히 묻을 방침이라고 밝히었다 .	O O ORG-B PER-B O O O O O O O O
+한편 더민주 김종인 비상대책위 대표는 이날 조 의원에 대하+여" 언행에 신중을 기하+여달라"고 경고하였다 .	O ORG-B PER-B O O O PER-B O O O O O O O
+넥센과 시즌 개막 2연전을 치르고 대전으로 내려가 +아한화의 첫 홈경기를 준비하는 김성근 감독을 만나 +ㄴ적이 있다 .	ORG-B O O O O LOC-B O ORG-B O O O PER-B O O O O O

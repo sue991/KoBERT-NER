@@ -1,0 +1,12 @@
+버크너는 보스턴이 2004년, 2007년 우승으로 밤비노의 저주를 끊은 후보스턴 팬들과 재회 하+ㄹ 수 있었다 .	PER-B ORG-B O O O O O O ORG-B O O O O O O
+사람은 물론 모든 생명의 가치가 존중받을 수 있는 도시를 만들겠다는 것.최근 정부에서도 반려동물 사업 육성정책을 발표하는 등 반려동물 천만 시대가 도래하+ㄴ만큼 안산시에서도 반려동물 관련 구체적 이+ㄴ 사업을 구상 중이다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O
+시에 따르면 해당 시간대 하루 평균 이용객 수가 버스는 6619명(3.1%), 지하철은 4868명(3.6%) 늘었다 .	O O O O O O O O O O O O O O
+그러나 2012년 SSG푸드마켓이 문을 열며 식문화에 민감하+ㄴ사람들이 모여들었고 이전부터 동네를 지키던 맛집 도 입소문을 타기 시작하였습니다 .	O O ORG-B O O O O O O O O O O O O O O
+지구상의 사람들 대부분은 12개의 작물에 주로 의존하여 먹고 살고 있는데, 이 중에서 밀, 벼, 옥수수와 감자가 60%를 차지하고 있다 .	O O O O O O O O O O O O O O O O O O O O
+캠리 하이브리드의 경우, 배터리 가격이 434만원에 달하+ㄴ다 .	O O O O O O O O
+10일 오전 10시부터 오후 5시까지 창원컨벤션센터(CECO·세코)에서 열리는 ‘경남 노인사회활동 지원 활성화대회’는 노인들의 사회활동 참여를 늘리고 활기차+ㄴ 노년문화를 만들어주는 것이 목표+이다 .	O O O O O LOC-B O O O O O O O O O O O O O O O
+1년 후 달라지 +ㄹ 자신의 모습을 몸통에 표현하+ 여야 하기 때문이 +ㅂ니다 .	O O O O O O O O O O O O O
+공포 확산, 혹시나도?… 메르스 증상은 고열과 기 .	O O O O O O O O
+브리지 사업(BRIDGE·BeyondResearchandI nnovationDevelopm entforGoodE nterp rises)은 대학이 보유 하+ㄴ창의적 아이디어와 기술, 특허 등을 실용화하기 위하+여전국 20개 대학을 선정하+여 연간 150억원씩, 3년간 총 450억원을 지원하는 사업이다 .	O O O O O O O O O O O O O O O O O O O MNY-B O O MNY-B O O O
+이날 오전 만 하+여도 1차 투표에서 수위를 차지하+ㄴ이 후보의 우세가 점치+어+지었다 .	PER-B O O O O O O PER-B O O O O
+그러나 오후 결선투표의 뚜껑이 열리자 김 후보의 막판 역전극으로 판가름나+았다 .	O O O O O PER-B O O O O O

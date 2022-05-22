@@ -1,0 +1,14 @@
+2017년 개통하는 성남∼장호원 자동차전용도로 태전 나들목을 통하+여 서울 강남까지 30분대에 닿을 수 있다 .	O O LOC-B O O O O LOC-B O O O O O O
+독일 만하임 음대 대학원으로 유학을 떠나 +았다 .	ORG-B O O O O O O O
+우리은행, 3연승으로 ‘통합 5연패’ 달 .	ORG-B O O O O O
+재판부는 ＂ A씨는 B씨의 부정행위 및 폭언 등을 이유로 이혼을 요구하고 있지만 B씨는 이혼을 원하지 않는다는 입장만 밝히+ㄴ 채 관계 개선 노력을 기울이지 않고 있다 ＂고 지적하였다 .	O O PER-B PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O
+전 전 대통령은 이날 운동장에서 동문들과 국밥으로 점심식사를 하고 KTX로 서울에 돌아가 +ㄹ 예정이다 .	PER-B PER-B O O O O O O O O LOC-B O O O O
+하지만 숀윌렌츠 프린스턴대 교수(역사학)는 뉴욕타임스 기고에서 “트럼프는 잭슨 따르 아하기에 나서 +었지만 둘 사이에는 크+ㄴ 차이가 있다 .	O PER-B ORG-B O ORG-B O PER-B PER-B O O O O O O O O O O
+박 대통령은 “2년 전 바이든 부통령 방한 때만 하+ 여도 전 시작전통제권 전환 등 한미 현안이 많았는데 신뢰를 바탕으로 원만히 해결하+ㄴ 것을 뜻깊게 생각하+ㄴ다”며 “한미동맹이 과거 어느 때보다 강력 하+ㄴ 상태”라고 평가하였다 .	PER-B O O O PER-B O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O
+그런데 지난해 매출이 갑자기 3% 넘게 줄었다 .	O O O O O O O O
+모란이 절정에 이르는 5월 1일부터 이틀간 제12회 영랑문학제가 열리+ㄴ다 .	O O O O O O O O O O
+중국이 한류스타의 행사·공연을 취소하고 드라마 방영을 연기하는 등 실력행사에 나서면서 중국 사업 비중이 크+ㄴ 업종의 주가가 하락세를 면하지 못하고 있다 .	ORG-B O O O O O O O O O ORG-B O O O O O O O O O O
+‘북한의 핵실험을 용인하지 않겠다’는 중국의 대외 발언이 ‘립서비스’에 불과하+ㄴ 것 아니냐는 지적이 나오고 있다 .	ORG-B O O O ORG-B O O O O O O O O O O
+나아가 +아조 사장 본인 역시 대한항공이 세계적 이+ㄴ 항공사로 성장 하+ㄹ 수 있도록 무겁ㄴ 책임감을 갖고 힘을 쏟겠다고 밝히었다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O
+최악의 경제상황에 BBQ는 위기를 성장의 발판으로 도약하었다 .	O O ORG-B O O O O O
+대박 터뜨리+ㄴ ‘올리브럭셔리 치킨’ 윤 회장에게 닥치+ㄴ 가장 크+ㄴ시련은 2003년의 AI 파동이었다 .	O O O O PER-B O O O O O O O O

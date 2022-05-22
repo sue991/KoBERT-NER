@@ -1,0 +1,12 @@
+특히 국방부는 북한의 일부 이행조치들이 너무 지연되는 데 대하+여 국무부에 우려를 전달하+ㄴ 것으로 전하여 +지+었다 .	O O ORG-B O O O O O O ORG-B O O O O O O
+코오롱스포츠 ‘키퍼(Keeper)’는 겉감과 안감 전체에 초경량 소재를 사용하+여가볍+ㅁ을 극대화하였다 .	ORG-B O O O O O O O O O
+중소 서점들, “생존의 기틀을 마련”2일 오전 동아일보가 찾은 경기 광명시 범안로 영동문고.빌딩 지하 1층에 자리 하+ㄴ 430m ²(약 130평) 크기의 전형적 이+ㄴ 중급 규모 서점이다 .	O O O O O O ORG-B O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O O O
+사진 오른쪽부터 오광현 한국도미노피자 회장, 박보검도미노피자 광고모델, 권오정 삼성서울병원 원장 .	O O PER-B ORG-B O ORG-B O PER-B ORG-B O O
+개장 두 달여가 지나 +ㄴ 요즘 야시장 개장일이+ㄴ 금요일과 토요일에는 평균 6000여명의 관광객들이 방문 하+ㄴ다 .	O O O O O O O O O O O O O O O O
+올랑드 대통령은 오바마 대통령과 통화하기 전 긴급 안보회의를 소집하+여 “프랑스 안보를 위협하는 어떤 행동도 용납하지 않을 것”이라며 미국에 강 하+ㄴ불만을 제기하였다 .	PER-B O PER-B O O O O O O ORG-B O O O O O O O ORG-B O O O O
+브리튼 집행위원은 지난해 말 미국과 벌이+ㄴ 농업­영화산업 분야 협상에서 EU의 이익을 성공적으로 방어, 위원장 후보로 급부상하였다 .	PER-B O O O ORG-B O O O O ORG-B O O O O O O O
+그런데 폭투되 +ㄴ공이 1루쪽 백스톱으로 흐르+ㄴ 것을 보고는 유지현 3루 주 루코치가 2루까지가+ㄴ 유강남을 보며 팔을 돌리었다 .	O O O O O O O O PER-B O O O O PER-B O O O O
+[Money&Life] 시뮬레이션 통하+ 여꼭 맞는 ISA 찾는 .	ORG-B O O O O O O O
+21세기 들어 노동력의 주력이 근육이나 손재주에서 전문지식이나 창조적 아이디어로 바뀌고 있다 .	O O O O O O O O O O O O
+세훈이 데뷔작에서부터 중국의 러브콜을 이끌어내 +ㄴ 배경은 현지의 인기가 결정적으로 작용하였다 .	O O ORG-B O O O O O O O O O
+삼시세끼김하늘, 나영석 PD와 1박2일 때 인연으로 출연 결정 .	PER-B PER-B O O O O O O O

@@ -1,0 +1,8 @@
+○종합예술을 전수 아스카사는 일본 불교의 공식 탄생을 알리는 기념비적 건물이자 당시로서는 최첨단 건물이었다 .	O O LOC-B ORG-B O O O O O O O O O O
+트로이왕 자 헥토르는 전쟁을 끝내고 싶었다 .	O O PER-B O O O O
+올해 진행 중 이+ㄴ LOL 대회 챔피언스코리아 우승 상금은 1억원이다 .	O O O O O O ORG-B O O MNY-B O
+반면 고액 연봉을 주+ㄹ바에는 유출을 감수하거나 (SK·넥센), 기존 마무리의 선발 전환을 시도하는 팀들(KIA·LG·kt)도 적지 않았다 .	O O O O O O ORG-B O O O O O ORG-B O O O
+그 중에서도 강 센터장은 냉동 만두에 주목하였다 .	O O PER-B O O O O O
+아드리아노는 올 시즌 개막 이후 좋은 활약을 펼치었다 .	PER-B O O O O O O O O
+‘해운산업 경쟁력 강화 방안’에 따르면, 정부는 해운산업에 총 6조5000억원 규모의 금융지원을 실시하+ㄴ다 .	O O O O O O O O MNY-B O O O O
+‘슈퍼스타K7’ 케빈 오, 우승으로 상금 5억원++재규어 XE++음반 발매 등 ‘엄청나네 .	O PER-B O O O MNY-B O O O O O

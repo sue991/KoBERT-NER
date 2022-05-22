@@ -1,0 +1,12 @@
+광주광역시 서구가 3년째 진행 중 이+ㄴ 소원 성취 프로젝트를 통하+여서 +이다 .	ORG-B O O O O O O O O O O O
+광주 서구는 23일 "올 크리스마스를 기념 하+여 지역 어린이 186명의 소원을 들어주기로 +였다"고 밝히었다 .	ORG-B O O O O O O O O O O O O O O
+논란이 커지자 복지부와 서울 서초구 보건소는 시체 해부법 위반 여부 조사에 나서 +었다 .	O O O LOC-B O O O O O O O O O O
+28일(현지시간) 4월 물 금값은 0.50% 하락 하+ㄴ온스당 1255.60달러에 거래를 마치었다 .	O O O O O O O MNY-B O O O
+정 의장은 지역구(부산 중-동)가 선거구 조정 대상에 거론되자 불쾌하+ㄴ 반응을 보이었다는 후문이다 .	PER-B O LOC-B O O PER-B O O O O O O O
+이 위원장은 이날 YTN 라디오 ‘신율의 출발 새아침’에 출연하+여안철수 공동대표 등 국민의당 지도부가 영입에 공을 들이고 있는 정 전 의원에 대하+여과거 윤여준 전 공동창당 준비위원장이 하+ㄴ 발언을 빌리+어 이같이 말하였다 .	PER-B O PER-B O O O O O PER-B O O ORG-B O O O PER-B O PER-B O O O PER-B O O PER-B O O O PER-B O O
+보수 성향의 이 위원장은 17일 입당 회견에서 고 김대중 전 대통령의 햇볕정책을 두고 “실패하였다”는 표현을 +었다 .	O O PER-B O O O O O PER-B O O O O O O O O
+박정훈 의원(오늘의 의원 .	PER-B O O O
+인피니트 H로 활동하면서 어렵ㄴ 점을 묻자 호야는 "동우형이 횡설수설 하+ㄹ 때 어떤 표정을 짓어야 하+ㄹ지 모르겠다 .	ORG-B O O O O O PER-B PER-B O O O O O O O O O
+카드업계 1위 이+ㄴ 신한카드는 국내 카드사 최초로 미얀마 시장 진출을 앞두고 있다 .	O O O ORG-B O O O LOC-B O O O O O
+하지만 이용대는 11일 오후 다시 자신의 딸과 찍은 사진을 올리었다 .	O PER-B O O O O O O O O O
+○새정치 문재인-이종걸 ‘엇박자 소통’ 새정치연합 내에서 +ㄴ이번 협상 결과를 두고 “손해 보+ㄴ장사는 아니었다”는 평가가 나 오+ㄴ다 .	ORG-B PER-B O O ORG-B O O O O O O O O O O O O

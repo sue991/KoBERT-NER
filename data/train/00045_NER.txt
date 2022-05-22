@@ -1,0 +1,11 @@
+"지하 3층에 거꾸로 파묻히 었지만 … "강남 건물 붕괴인 부 2명 전원 구 .	O O O O O O LOC-B O O O O O O O
+노르웨이 언론과의 인터뷰에서는 “매일 아침 조깅을 하+ㄴ다”고도 +였다 .	LOC-B O O O O O O O O
+‘키 180cm 훈남 성장’ 송유근, 과거 여대 다니었다 .	O O O O PER-B O O O O
+김보성은 "힘들어도 우리 소아암 어린이들을 돕는다는 생각을 하니까 없던 힘도 생기고 한 번이라도 더 일어나 +아서 미트를 치고 훈련을 하게 +었다"고 지나 +ㄴ 훈련 기간을 회상하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+김보성은 오후 8시 서울 중구 장충체육관에서 열리는 'XIAOMI 로드 FC 35'에서 일본의 곤도 데쓰오와 웰터급 경기를 펼치+ㄴ다 .	PER-B TIM-B O LOC-B LOC-B LOC-B O O O O O ORG-B PER-B O O O O O
+1776년 영국에서 독립하+ㄹ 때만 하+여도 당시 13개 주를 상징하는 13개 줄과 13개 별이 그리 +어+지었다 .	O ORG-B O O O O O O O O O O O O O O
+메시 결승골 기록, 바르샤는 ATM에 1-0승 .	PER-B O O ORG-B ORG-B O O
+트럼프 대통령은 앞서 +어 지난달 31일 미국 자동차 업체들의 형편없는 일본 시장 점유율을 거론하며 일본 정부에 불만을 표시하+ㄴ바 있다 .	PER-B O O O O O ORG-B O O O ORG-B O O O ORG-B O O O O O
+‘말하지 못하+ㄹ 정도로 대단하다’는 뜻으로, 10대들 사이에서 주로 사용되 +ㄴ다 .	O O O O O O O O O O O
+전북도의회도 기금운용본부 정착을 지원하는 조례 제정에 나서 +었다 .	ORG-B O O O O O O O O
+유재석은 그런 세정이를 달래+어주+었고, 이때 4살 하율이가 유재석에게 휴지를 뜯어달라고 요청하였다 .	PER-B O O O O O PER-B PER-B O O O O

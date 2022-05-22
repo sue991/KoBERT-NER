@@ -1,0 +1,16 @@
+최고액 건보료를 내는 직장인은 모두 3403명이었다 .	O O O O O O O
+이중 삼성전자 소속 직장인이 151명으로 가장 많았고, 로펌 업계 1위 이+ㄴ 김앤장 법률사무소 소속이 119명으로 2위를 기록하였다 .	O ORG-B O O O O O O O O O ORG-B O O O O O O
+안장교는 “대위 시절 학비를 지원받아 경영대학원 과정을 마치었다”며 “배우+ㄴ 지식을 조직에 활용하+ㄹ 수도 있기 때문에 다들 권장하는 분위기”라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
+오늘 날씨 예보, 전국 흐리고 곳곳 소나기 … 서울·인천 구름 많고  .	O O O O O O O O LOC-B O O O O
+‘용팔이’는 현란 하+ㄴ 액션 장면으로 초반부터 시청자의 시선을 모으았다 .	O O O O O O O O O O
+견본주택은 인천 서구 경서동 950-22번지에 있다 .	O LOC-B LOC-B LOC-B O O O
+80kg, 187cm … ‘세계의 대통령’ 오바마의 검진 기록 보 .	O O O O O PER-B O O O O
+‘택시 신주아 남편’ 소식을 접하+ㄴ누리꾼들은 “택시 신주아 남편, 신주아 정말 복받았다” .	O PER-B O O O O PER-B O PER-B O O O
+메르스는 지난달 20일 중동을 여행하고 돌아오+ㄴ 60대 남성에서 첫 국내 발병이 확인되었다 .	O O O LOC-B O O O O O O O O O
+이들 공간은 현대카드 회원과 동반 2인까지 무료 입장이 가능하다 .	O O ORG-B O O O O O O O
+지린성은 올해 북한, 러시아와 접경 하+ㄴ 두만 강 하류의 훈춘시 팡촨(防川)에 ‘북-중-러 무비자 관광구 설치를 추진하고 있다 .	O O LOC-B ORG-B O O O O O LOC-B LOC-B LOC-B O O O O O O
+단지 가까이 SRT·GTX 복합환승역이+ㄴ 동탄역(예정)이 위치하+여 있다 .	O O O O LOC-B O O O
+청주시의 대표 농산물 브랜드 이+ㄴ ‘청원생명쌀’이 10년 연속 로하스(LOHAS) 인증을 받는다 .	LOC-B O O O O O O O O O O O
+당락은 대개 0.5~1점 차이로 갈리+ㄴ다 .	O O O O O O
+NC는 3승 3무 1패, 한화는 2승2무 3패를 각각 마크하었다 .	ORG-B O O O ORG-B O O O O O
+NC는 경기 초반 상대 선발이 태양을 공략하며 크게 앞서 +어나가았다 .	ORG-B O O O O O O O O O O
