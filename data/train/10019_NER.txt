@@ -1,7 +1,7 @@
 가디언, 르몽드, CNN 등 유수의 언론부터 더 버지, 씨넷 등 IT 전문지까지 모든 외신이 알파고가 1승을 거두+ㄴ 것을 전면에 내세우었다 .	O O O O O O O O O O O O O O O O O O O O O
 ‘협녀, 칼의 기억’은 촬영 때부터 전도연과 이병헌의 카리스마 넘치는 액션 연기로 화제를 모으았다 .	O O O O O PER-B PER-B O O O O O O O
 “영등포 교도소 철거공사 계약을 따게 하+여주겠다”고 속이어 약 1억을 가로채+ㄴ 혐의로 1심에서 징역형을 선고받은 홍준표 경남도지사의 처남 이 항소심에서도 혐의를 인정하지 않았다 .	O O O O O O O O MNY-B O O MNY-B O O PER-B O O O O O O O O
-올랑드 대통령 “프랑스는 IS와의 전쟁中” …미·러 ‘테러리즘과의 전쟁’ 동참 촉구 프랑수아 올랑드 프랑스 대통령이 수니파 극단주의 무장조직 IS(이슬람국가)와의 전쟁을 선포하고 테러를 뿌리 뽑는 데 힘을 모으아야 하+ㄴ다고 촉구하였다 .	PER-B O ORG-B ORG-B O ORG-B O O O O O PER-B ORG-B O ORG-B O O ORG-B O O O O O O O O O O O
+올랑드 대통령 “프랑스는 IS와의 전쟁中” …미·러 ‘테러리즘과의 전쟁’ 동참 촉구 프랑수아 올랑드 프랑스 대통령이 수니파 극단주의 무장조직 IS(이슬람국가)와의 전쟁을 선포하고 테러를 뿌리 뽑는 데 힘을 모으아야 하+ㄴ다고 촉구하였다 .	PER-B O ORG-B ORG-B O ORG-B ORG-I O O O O PER-B ORG-B O ORG-B O O ORG-B O O O O O O O O O O O
 올랑드 대통령은 16일(이하 현지시간) 베르사유궁에서 2012년 취임 후 처음으로 상·하원 합동연설을 가지었다 .	PER-B O O O LOC-B O O O O O O O O
 마리너는 오랫동안 카라얀의 차지+이었던 ‘최다 레코딩’ 기록도 갈아치우었다 .	PER-B O PER-B O O O O O O
 정은우 결별 박한별, 과거 학창시절 인기 어느 정도? ‘얼짱 인증’와 우 .	PER-B O PER-B O O O O O O O O O

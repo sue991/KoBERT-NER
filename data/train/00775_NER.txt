@@ -5,10 +5,10 @@
 건설사 브랜드 이름 뒤에 ‘비치’ ‘포레’ ‘에듀’ 등 펫네임(애칭)을 붙이+ㄴ 형태의 아파트 단지가 잇따르 아나오고 있다 .	O O O O O O O O O O O O O O O O O
 류수영 박하선, 열애인 정…“결혼? 사실무근 .	PER-B PER-B O O O O
 지나+ㄴ 1년 동안 도미노피자의 주가는 17% 오르았다 .	O O O O O O O O
-이에 그레이 구스는 정통 기법으로 제조하는 클래식 드라이마티니를 집에서도 즐기 +ㄹ 수 있는 스페셜 패키지를 출시하였다 .	O ORG-B O O O O O O O O O O O O O O O
+이에 그레이 구스는 정통 기법으로 제조하는 클래식 드라이마티니를 집에서도 즐기 +ㄹ 수 있는 스페셜 패키지를 출시하였다 .	O ORG-B ORG-I O O O O O O O O O O O O O O
 지역 정치권에서는 이 회장이 현 전 수석뿐 아니라 여러 유력 인사에게 식사와 술골프 등 다양하+ㄴ 접대를 제공하였다는 증언이 나오고 있다 .	O O PER-B PER-B PER-B O O O O O O O O O O O O PER-B O O O
 유럽, 북미 대륙과 더불어 아시아는 근대 산업 세계의 3대 지주 중 하나+이다 .	LOC-B LOC-B O O LOC-B O O O O O O O O
 비(非) 서구 지역에서 처음으로 근대화에 성공하+ㄴ 일본을 따르 아 한국·대만·싱가포르의 ‘세 마리용’은 선진국 대열에 다가서 +었다 .	O O O O O O ORG-B O O ORG-B O O O O O O O
-유효표 28표 중 13표 획득 … 9년 만에 수상“(유) 희관이한테 미안하네요.” 한 화 김태균(33)은 KBO가 2일 발표 하+ㄴ ‘2015 타이어뱅크 KBO 리그 6월 MVP’에 선정되는 영광을 안은 뒤 겸연쩍게 웃었다 .	PER-B O O O O O O O PER-B PER-B O O O PER-B ORG-B O O O O O ORG-B O O O O O O O O O O
+유효표 28표 중 13표 획득 … 9년 만에 수상“(유) 희관이한테 미안하네요.” 한 화 김태균(33)은 KBO가 2일 발표 하+ㄴ ‘2015 타이어뱅크 KBO 리그 6월 MVP’에 선정되는 영광을 안은 뒤 겸연쩍게 웃었다 .	PER-B PER-I O O O O O O PER-B PER-B O O O PER-B ORG-B O O O O O ORG-B O O O O O O O O O O
 악조건을 이기+어내+ㄴ 경험은 나중에 ‘중동 신화’를 일구는 근간이 +었다 .	O O O O LOC-B O O O O O
-국회도서관 국회 기록보존소와 2013년과 2014년 두 차례 +였던 인터뷰로 9시간 반 분량이다 .	LOC-B LOC-B O O O O O O O O O O O
+국회도서관 국회 기록보존소와 2013년과 2014년 두 차례 +였던 인터뷰로 9시간 반 분량이다 .	LOC-B LOC-B LOC-I O O O O O O O O O O

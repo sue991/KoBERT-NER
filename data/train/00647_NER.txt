@@ -2,7 +2,7 @@
 [스포츠동아 .	ORG-B O
 “떠리몰 임박몰이 유몰, 현명하+ㄴ 소비 방법이 +ㄴ듯”, “떠리몰 임박몰이 유몰, 물건 살게 뭐 있나 한 번 보+아야지” 등의 반응을 보이었다 .	O O O O O O O O O O O O O O O O O O O O O
 심학봉 불법 정치자금 수수 혐의 체포 성폭행 혐의 벗은 심학봉 前의원, 이번에 +ㄴ 불법 정치자금 수수 혐의로 체포…檢 “수사 중”40대 여성 성폭행 혐의로 국회의원직에서 자진사퇴 하+ㄴ 심학봉 전 의원이 이번에는 불법 정치자금 수수 혐의로 검찰에 체포되었다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
-대구지검 특수부는 13일 서울 자택에 있던 심학봉 전 의원을 체포 하+여수사 중이라고 14일 밝히었다 .	ORG-B O O LOC-B O O PER-B O O O O O O O O
+대구지검 특수부는 13일 서울 자택에 있던 심학봉 전 의원을 체포 하+여수사 중이라고 14일 밝히었다 .	ORG-B ORG-I O LOC-B O O PER-B O O O O O O O O
 검찰에 따르면 심학봉 전 의원은 정부 보조금을 받고 있는 한 업체에서 수천만원 상당의 불법 자금을 받은 혐의를 받고 있다 .	O O PER-B O O O O O O O O MNY-B O O O O O O O O
 앞서 +어 검찰은 심학봉 전 의원의 구미 사무소, 관계자, 집 등 세 곳을 압수수색하였다 .	O O O PER-B O O LOC-B O O O O O O O O
 검찰은 심학봉 전 의원의 40대 여성 성폭행 의혹 사건을 수사하는 과정에 이 같은 혐의를 포착하+ㄴ 것으로 알려지었다 .	O PER-B O O O O O O O O O O O O O O O O

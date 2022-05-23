@@ -1,10 +1,10 @@
-서정원 감독 “선수들에 강 하+ㄴ 정신력 요구”수원 삼성과 FC서울은 19일 오후 3시5분 수원월드컵경기장에서 시즌 3번째 슈퍼매치를 치르+ㄴ다 .	PER-B O O O O O ORG-B O ORG-B O O O LOC-B O O O O O
+서정원 감독 “선수들에 강 하+ㄴ 정신력 요구”수원 삼성과 FC서울은 19일 오후 3시5분 수원월드컵경기장에서 시즌 3번째 슈퍼매치를 치르+ㄴ다 .	PER-B O O O O O ORG-B ORG-I ORG-B O O O LOC-B TIM-I TIM-I O O O
 주+ㄴ다”며 “(나도) 동현 엄마와는 일이 있으면 보기도 하+ㄴ다 .	O O PER-B O O O O O O
 김 의원이 아버지를 언급하자 이날 오후 주요 포털 사이트 실시간 검색어 상위권에 +ㄴ ‘김진태 아버지’가 등장하였다 .	PER-B O O O O O O O O O O O O PER-B O O O
-박인비 명예의 전당, CME그룹 투어 챔피언십 투어 챔피언십 통하+여27점 충족 CME그룹 투어 챔피언십 투어 챔피언십을 마지막으로 2015 미국 여자 프로골프(LPGA) 투어가 막을 내리었다 .	PER-B O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O
+박인비 명예의 전당, CME그룹 투어 챔피언십 투어 챔피언십 통하+여27점 충족 CME그룹 투어 챔피언십 투어 챔피언십을 마지막으로 2015 미국 여자 프로골프(LPGA) 투어가 막을 내리었다 .	PER-B O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-B O O O O
 미국 플로리다주 네이플스에서 23일 막을 내리+ㄴ CME그룹 투어 챔피언십에서는 미국의 크리스티커가 시즌 두 번째 우승(271타)을 달성하며 가족과 함께 기쁨을 누리었다 .	ORG-B LOC-B LOC-B O O O O O O ORG-B PER-B O O O O O O O O O O
-특히 뉴질랜드 교포 리디아 고(18)가 이번 대회 성적을 반영 올해의 선수에 선정되었다 .	O ORG-B O PER-B O O O O O O O O O
-리디아 고는 상금 부문에서도 총 280만 802달러로 1위를 차지하는 영광을 누리었다 .	PER-B O O O O MNY-B O O O O O O
+특히 뉴질랜드 교포 리디아 고(18)가 이번 대회 성적을 반영 올해의 선수에 선정되었다 .	O ORG-B O PER-B PER-I O O O O O O O O
+리디아 고는 상금 부문에서도 총 280만 802달러로 1위를 차지하는 영광을 누리었다 .	PER-B PER-I O O O MNY-B MNY-I O O O O O
 아쉽게 리디아고에게 올해의 선수를 뺏기+ㄴ 박인비(27·KB금융그룹)는 시즌 평균 타수 69.415 타로 평균 타수 부문에서 1위(대회 6위 총 276타)를 차지하였다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O
 이로써 박인비는 LPGA투어 명예의 전당포인트 27점을 채우게 +었다 .	O PER-B O O O O O O O
 한국 선수로는 앞서 +어 2007년 박세리(38·하나금융그룹)가 명예의 전당에 오르+ㄴ 것이 유일하다 .	ORG-B O O O O ORG-B O O O O O O

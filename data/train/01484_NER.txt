@@ -4,12 +4,12 @@
 이씨의 가족들은 『이씨가 1년간 연수 예정으로 작년 말부터 미국의 모 대학 부설 연구소에서 공부하고 있기 때문에 출국하였을 뿐 』이라고 말하였다 .	PER-B O PER-B O O O O O LOC-B O O O O O O O O O PER-B O O
 금회 분양은 조합분을 제외 하+ㄴ 64개 점포가 일반분양 대상이다 .	O O O O O O O O O O
 이유는 때리다가 일부러 밑으로 떨어지면 구름을 타고 오면서 무적시간을 벌고 안전하+ㄴ 곳에 착지하+ㄴ 후 또 패+ㄹ 수 있다는 이유+이었죠.꿀 딴지곰 : 맞습니다 .	O O O O O O O O O O O O O O O O O O O O O O O
-나 전역 간이 역 복원, 60년대 간 이의자와 난로, 역무실 그대로 재현 강원도 정선군 나 전역이 복원되었다. 정선군은 지나 +ㄴ 24일 나전역 복원공사 준공 및 개관식을 열고, 1960년대 추억이 담기 +ㄴ 모습으로 복원되+ㄴ 역사를 공개하였다.1969년 문을 열 +ㄴ나 전역은 1989년 석탄사업 합리화 조치 이후 나 전광업소가 문을 닫으며 이용자가 급감하였다 .	LOC-B O O O O O O O O O O O LOC-B LOC-B LOC-B O O LOC-B LOC-B O O LOC-B O O O O O O O O O O O O O O O LOC-B O O O O O O LOC-B O O O O O O
+나 전역 간이 역 복원, 60년대 간 이의자와 난로, 역무실 그대로 재현 강원도 정선군 나 전역이 복원되었다. 정선군은 지나 +ㄴ 24일 나전역 복원공사 준공 및 개관식을 열고, 1960년대 추억이 담기 +ㄴ 모습으로 복원되+ㄴ 역사를 공개하였다.1969년 문을 열 +ㄴ나 전역은 1989년 석탄사업 합리화 조치 이후 나 전광업소가 문을 닫으며 이용자가 급감하였다 .	LOC-B LOC-I O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I O LOC-B LOC-B O O LOC-B O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O LOC-B ORG-I O O O O O
 해피투게더 윤현숙, 김수미 ·변정수·배종옥과 함께 비키니 자태 뽐내+ .	O PER-B PER-B PER-B O O O O O
 재무부에 외화 도입 신청서를 내고, 건설부에 공장 입지로 적당하+ㄴ지 물어보고, 상공부에서 공장 허가를 받고 나면, 다시 차관회의장관회의를 거치고 … .	ORG-B O O O O ORG-B O O O O ORG-B O O O O O O O O O
 독일이 침공 하+ㄴ지 닷새만의 일이었다 .	LOC-B O O O O O
 WKBL3위 전쟁 “너를 잡아야 내가 살+ㄴ다 .	O O O O O O O
 △도심권 △서북권 △서남권 △동북권 △동남권 순으로 지나 +ㄴ 분기에잇어 도심권과 동남권의 격차가 1%p 수준이었다. 주택 유형별로 보면 도심권 단독 다가구(7.89%)가 최고 수준을, 동남권의 아파트(5.33%)가 최저 수준을 보이었다.전세보증금 수준이 1억원 이하 이+ㄹ 때 전환율이 7.4%로 가장 높았던 반면 1억 초과 시 전환율은 5.3~5.5%+이었다 .	LOC-B LOC-B LOC-B LOC-B LOC-B O O O O LOC-B LOC-B O MNY-B O O O O LOC-B O O O O LOC-B O O O O O MNY-B O O O O O O O O MNY-B O O O O O
-2008년 발족하+ㄴ장수마을 주민협의회에는 지금도 30~40명이 꾸준히 참여하고 있다 .	O ORG-B O O O O O O O
+2008년 발족하+ㄴ장수마을 주민협의회에는 지금도 30~40명이 꾸준히 참여하고 있다 .	O ORG-B ORG-I O O O O O O
 국내 항공사에 근무하는 승무원이 모씨(29)는 “실제 김씨처럼 항공사의 배려를 악용하는 얌체족 때문에 비행기 출발 시간이 지연되기도 하+ㄴ다”고 말하였다 .	O O O PER-B O O PER-B O O O O O O O PER-B O O O O
 한전의 종별 전력 판매 명세에 따르면 산업용과 일반용으로 소비되+ㄴ 전력은 각각 55.3%와 21.8%로 전체 소비량의 77%에 육박하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O

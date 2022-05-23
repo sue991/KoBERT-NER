@@ -3,9 +3,9 @@
 “북한 땅은 ‘악당들이 살는’ 곳이 아니라 바로 나+의 그립 ㄴ반쪽 나라, 나+의민족, 나+의 이웃이었다 .	LOC-B O O O O O O O O O O O O O O
 자연원 ‘통째로 갈아 만들 +ㄴ파인애플초’ 매출급 신장 … 수박 양파초·바나나 초출 .	ORG-B O O O O O O O O O O O
 256쾀은 삼성전자의 ‘갤럭시S7’과 ‘S7 엣지’, LG전자 ‘G5’ 등 최신 스마트폰에 적용되 +어 있다 .	O ORG-B O O O ORG-B O O O O O O O O
-휴메인사이어티 인터내셔널(HumaneSociety International)은 개고기 축제가 아니+ㄴ 기간에도 하루에 약 300마리의 개가도살당 하+ㄴ다고 밝히었다 .	ORG-B ORG-B O O O O O O O O O O O O
-휴메인 소사이어티 인터내셔널 중국팀장은 "이 축제를 위하+ㄴ 개고기 거래와 방대하+ㄴ도살은 극도로 잔인하+ㄴ 행위이며 반드시 중지되 +어야 하+ㄴ다"고 주장하였다 .	ORG-B O O LOC-B O O O O O O O O O O O O O O O
+휴메인사이어티 인터내셔널(HumaneSociety International)은 개고기 축제가 아니+ㄴ 기간에도 하루에 약 300마리의 개가도살당 하+ㄴ다고 밝히었다 .	ORG-B ORG-B ORG-I O O O O O O O O O O O
+휴메인 소사이어티 인터내셔널 중국팀장은 "이 축제를 위하+ㄴ 개고기 거래와 방대하+ㄴ도살은 극도로 잔인하+ㄴ 행위이며 반드시 중지되 +어야 하+ㄴ다"고 주장하였다 .	ORG-B ORG-I ORG-I LOC-B O O O O O O O O O O O O O O O
 해양수산청은 이에 따르 아 정확 하+ㄴ 피해원인을 규명하기 위하+여대 한토목학회에 6일 조사를 의뢰하였다 .	ORG-B O O O O O O O O O O O O O
 느닷없는 담화에 놀라 +ㄴ 가슴을 쓸며 “자다가 봉창 두드리+ㄴ다”고 비판 하+ㄴ MB(이명박 전 대통령) 측근의 말이 시중에 회자되었다 .	O O O O O O O O O O O PER-B O O O O O O O
 넘치거나 모자라지 않게 담화 다음날 검찰은 포스코건설에 대하+ㄴ 압수수색으로 사정정국의 시동을 걸었다 .	O O O O O O ORG-B O O O O O O
-이영자가 “제국의 아이들 광희만큼 +였냐”고 되묻자 박태준은 “그 친구도 +았는데 내가 인조적이+ㄴ미가 조금 더 강하다”라고 말 하+여크+ㄴ 웃음을 자아내 +었다 .	PER-B ORG-B O PER-B O O PER-B O O O O O O O O O O O O O O
+이영자가 “제국의 아이들 광희만큼 +였냐”고 되묻자 박태준은 “그 친구도 +았는데 내가 인조적이+ㄴ미가 조금 더 강하다”라고 말 하+여크+ㄴ 웃음을 자아내 +었다 .	PER-B ORG-B ORG-I PER-B O O PER-B O O O O O O O O O O O O O O

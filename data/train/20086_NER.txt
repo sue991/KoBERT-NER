@@ -2,10 +2,10 @@
 김신 대법관은 대법관 중에서 소수의견을 내는 비율이 가장 높은 편이다 .	PER-B O O O O O O O O O O
 응봉산과 연결되+ㄴ 단지 외곽 산책로도 조성하+ㄹ 계획이다 .	LOC-B O O O O O O O
 휴온스는 3월 CFDA의 허가를 획득하고, 연간 20만개 규모의 대형 수출 계약을 체결하+ㄴ ‘엘라비에 딥 라인플러스’의 현지 론칭 세리머니를 완료하였다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O
-정시 알는 아이 엄마+이라고는 믿기지 않은 동안 미모를 뽐내+어 모두를 놀라게 +였다 .	PER-B O O O O O O O O O O O O
-정시 알는 이날 시아버지 이+ㄴ 백윤식의 영화 ‘내부자들’ 시사회에 참석하였다 .	PER-B O O O O PER-B O O O O O
+정시 알는 아이 엄마+이라고는 믿기지 않은 동안 미모를 뽐내+어 모두를 놀라게 +였다 .	PER-B PER-I O O O O O O O O O O O
+정시 알는 이날 시아버지 이+ㄴ 백윤식의 영화 ‘내부자들’ 시사회에 참석하였다 .	PER-B PER-I O O O PER-B O O O O O
 잔디는 기본으로 4가지 외부 서비스 연동이 가능하지만 다른 서비스 연동이 필요하+ㄹ 경우 웹훅을 통하+여지원하도록 +였다 .	O O O O O O O O O O O O O O O O
-최근 NGS의 게리넬(Gary Knell) 최고경영자(CEO)가 한국을 방문하였다 .	O ORG-B PER-B O O LOC-B O O
+최근 NGS의 게리넬(Gary Knell) 최고경영자(CEO)가 한국을 방문하였다 .	O ORG-B PER-B PER-I O LOC-B O O
 이연복 셰프의 ‘완소 짬뽕’을 맛보+ㄴ이규한은 “재료들의 맛이 다 살아 있다”며 극찬 하+여 눈길을 모으았다 .	PER-B O O O PER-B O O O O O O O O O O
 한편 이날 ‘냉장고를 부탁하+여’에서 이연복 셰프는 이원일 셰프를 상대로 승리를 거두었다 .	O O O O PER-B O PER-B O O O O O
 1그룹의 브라질, 미국, 세르비아는 아니라도 2 그룹의 터키, 네덜란드, 핀란드 등의 강국들과 맞붙어야 국제 경쟁력을 키우+ㄹ 수 있다 .	O ORG-B ORG-B ORG-B O O O ORG-B ORG-B ORG-B O O O O O O O O O

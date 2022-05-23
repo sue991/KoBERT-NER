@@ -1,13 +1,13 @@
 제28회 한국사능력검정시험 결과 발표, 합격 확인하려면 어떻게 .	O O O O O O O O
 이렇게 겨울에 대비 하+여고기를 준비하는 것을 ‘이디시’라고 하+ㄴ다 .	O O O O O O O O O
 ‘블레이드 &소울’, ‘길들어2’가 각각 1139억원, 1005억원으로 그 뒤를 잇었다 .	O O O O MNY-B MNY-B O O O O
-이영희기자mis quick@j oongang. co.kr[SBOX]‘닮은꼴’도 요토미 히데요시와 이토 히로부미이토 히로부미는 일본인 사이에서도 요토미 히데요시(豊臣秀吉·1536~98)와 종종 비교되 +ㄴ다 .	PER-B O O O O O PER-B PER-B O O O O PER-B O O O O
+이영희기자mis quick@j oongang. co.kr[SBOX]‘닮은꼴’도 요토미 히데요시와 이토 히로부미이토 히로부미는 일본인 사이에서도 요토미 히데요시(豊臣秀吉·1536~98)와 종종 비교되 +ㄴ다 .	PER-B O O O O O O O O O O O PER-B O O O O
 부산의 관광명소를 다양하게 돌아보고 싶으면 시티투어 버스를 사용하+ㄹ 수 있다 .	LOC-B O O O O O O O O O O
 고시촌에 벤처타운을 세우는 정책으로 오해하기 쉽지만 신림동이나 노량진 등을 정보기술(IT) 단지로 개발하겠다는 뜻은 아니다 .	O O O O O O LOC-B LOC-B O O O O O O O
 웨스트코스와이스트코스를 연결하는 147m 길이의 대형 터널은 명물로 꼽히+ㄴ다 .	LOC-B O O O O O O O O
-국가정보원 산하 국가안보전략연구원(원장 유성옥)이 수석통일전략연구실장은 25일 미리 배포하+ㄴ ‘김정은 정권 4년 평가와 남북관계 전망’ 발표 자료에서 이같이 밝히었다 .	ORG-B O ORG-B PER-B O O O O PER-B O O O ORG-B O O O O O O
+국가정보원 산하 국가안보전략연구원(원장 유성옥)이 수석통일전략연구실장은 25일 미리 배포하+ㄴ ‘김정은 정권 4년 평가와 남북관계 전망’ 발표 자료에서 이같이 밝히었다 .	ORG-B O ORG-B PER-B ORG-I O O O PER-B O O O ORG-B O O O O O O
 하지원이진욱, 연인 느낌 물씬… “교복 입고 연기하니 설레+ㄴ다 .	PER-B O O O O O O O O
-김명훈은 2013년부터 서울 삼성 썬더스 소속으로 활동 중이다 .	PER-B O ORG-B O O O O O O
+김명훈은 2013년부터 서울 삼성 썬더스 소속으로 활동 중이다 .	PER-B O ORG-B ORG-I ORG-I O O O O
 해당 보도에 대하+여진보라와과 김명훈 측은 “사실관계를 확인 하+여보겠다”며 말을 아끼었다 .	O O PER-B PER-B O O O O O O O
 온라인 중앙일보 jstar@j oongang. co.kr' 진보라 열애 .	O O O O O PER-B O O
 덕적도 간척지에서 처음 생산하+ㄴ햅쌀이 선을 보이고 꽃게 김다시 마버섯 채소류 등 70종 가량이 판매되+ㄴ다 .	LOC-B O O O O O O O O O O O O O O

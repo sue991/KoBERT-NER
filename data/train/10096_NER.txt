@@ -8,5 +8,5 @@
 [전문]심상정 의원, 장관에 호통“도대체 양심이 있어야 되+ㄹ거 아니에요! .	PER-B O O O O O O O O
 불필요하게 사용되는 시간을 과감히 없애+어 1초라도 더 일찍 알리+ㅁ을 제공하+ㄴ다 .	O O O O O O O O O O O
 지역별로는 경기도가 439곳으로 가장 많았고 충북 40곳, 충남 31곳, 대전 16곳, 세종10곳, 서울 7곳, 강원 1곳이다 .	O LOC-B O O O LOC-B O LOC-B O LOC-B O LOC-B LOC-B O LOC-B O O
-국회 법사위는 25일 밤 상무대 정치자금 의혹 사건 국정조사 계획서 작성 소위(위원장 함석재)를 열어 조사 방식, 증인 채택 등 미결 현안에 대하+여 논의를 계속, 여­ 야간 견해차를 상당히 좁히었다 .	ORG-B O O O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O
-그의 몸에 +ㄴ 핸드건과 총알이 가득하었다고 올랜도 경찰은 밝히었다 .	O O O O O O ORG-B O O O
+국회 법사위는 25일 밤 상무대 정치자금 의혹 사건 국정조사 계획서 작성 소위(위원장 함석재)를 열어 조사 방식, 증인 채택 등 미결 현안에 대하+여 논의를 계속, 여­ 야간 견해차를 상당히 좁히었다 .	ORG-B ORG-I O O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+그의 몸에 +ㄴ 핸드건과 총알이 가득하었다고 올랜도 경찰은 밝히었다 .	O O O O O O ORG-B ORG-I O O

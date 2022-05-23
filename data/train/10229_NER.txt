@@ -1,9 +1,9 @@
 한편 이날 썰전은 3.817%(닐슨코리아 수도권 유료 가구 광고 제외기준)의 시청률을 기록하+ 여자체 시청률 기록을 갱신하였다 .	O O O ORG-B LOC-B O O O O O O O O O O O
-대화를 나누는 버락 오바마 미국 대통령과 블라디미르 푸틴 러시아 대통령 사이에 다크니시를 합성하+ 여넣은 사진 등이다 .	O O PER-B O ORG-B O PER-B O ORG-B O O O O O O O O
+대화를 나누는 버락 오바마 미국 대통령과 블라디미르 푸틴 러시아 대통령 사이에 다크니시를 합성하+ 여넣은 사진 등이다 .	O O PER-B PER-I ORG-B O PER-B PER-I ORG-B O O O O O O O O
 “가능하면, 기회가 있다면 공격 포인트 15개 이상이 올해 목표+이다 .	O O O O O O O O O O
 박 대통령의 ‘창조경제’를 지지하+ㄴ다는 의미에서 마련되 +ㄴ일정이라고 하+ㄴ다 .	PER-B O O O O O O O O
 박병호를 더욱 빛나게 하+ㄴ 것은 빛나+ㅁ을 당연하게 여기지 않는 그의 마음가짐이다 .	PER-B O O O O O O O O O O O
-‘복면가왕’ 토끼 정체는 볼 빨간 사춘기 안지영 …강타 예상 적 .	O O O ORG-B O O PER-B PER-B O O O
+‘복면가왕’ 토끼 정체는 볼 빨간 사춘기 안지영 …강타 예상 적 .	O O O ORG-B ORG-I ORG-I PER-B PER-B O O O
 그가 원하는 퇴직 후 생활비는 월 300만원 정도.40년에 가깝ㄴ 노후생활비 마련을 위하+여 현재 보유하고 있는 자산을 효과적으로 운영·관리 하+ㄹ 수 있는 방안에 대하+ 여문의 하+여+오았다 .	O O O O O O MNY-B O O O O O O O O O O O O O O O O O O O
 A방 씨는 ‘돌싱’이+ㄴ지 ‘미혼’이+ㄴ지 밝히지 않고 있으나 남편 없이 부모님과 여러 형제·자매를 부양하고 있다 .	PER-B O O O O O O O O O O O O O O
 화성시 심의를 거치+어적격자로 선정되+ㄴ자에 한 하+여 공급되+ㄴ다 .	LOC-B O O O O O O O

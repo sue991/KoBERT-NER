@@ -3,12 +3,12 @@
 블룸버그통신은 ‘전(錢)의 전쟁’으로 불리는 미 대선에서 10억달러 모금을 눈앞에 두 +ㄴ 클린턴 후보가 완승하였다고 보도하였다 .	ORG-B O O O ORG-B O MNY-B O O O O PER-B O O O O
 유럽 등 세계 각국의 양적완화와 한국은행의 기준금리 인하로 풀리+ㄴ돈의 탄력을 받아 증시가 거침없이 상승세를 타고 있다 .	LOC-B O O O O ORG-B O O O O O O O O O O O
 우선 트럼프가 일부 경합주에서 이기+ 어 최대 273명의 선거인단을 확보하+ 여당선되는 두 가지 경우 +이다 .	O PER-B O O O O O O O O O O O O O O
-과정은 쉽고 결과물은 그럴싸하+ㄴ 것.그것+이 홈메이드 요리의 매력이지요. 강남 통신이 영지기자 lee. you ngj i@j oongang. co.kr[이영지기자의 한 끼라도] 치즈를 이용하+ㄴ 술안주 만들기 간편하고 건강 하+ㄴ테이크아웃 곰국튀김 요리 완전 정복!! 아침 메뉴로 스페인 타파스 어떻+어요 '초록색 감자' 같은 아보카도, 맛있게 요리하는 법한 때 '악마의 식재료' +이었던 버터라면 보다 쉽ㄴ스페인 새우 요리 ▶ 강남통신기사를 더보 시려면 여기를 클릭하세요 .	O O O O O O O O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O LOC-B O O O ORG-B O O O O O
+과정은 쉽고 결과물은 그럴싸하+ㄴ 것.그것+이 홈메이드 요리의 매력이지요. 강남 통신이 영지기자 lee. you ngj i@j oongang. co.kr[이영지기자의 한 끼라도] 치즈를 이용하+ㄴ 술안주 만들기 간편하고 건강 하+ㄴ테이크아웃 곰국튀김 요리 완전 정복!! 아침 메뉴로 스페인 타파스 어떻+어요 '초록색 감자' 같은 아보카도, 맛있게 요리하는 법한 때 '악마의 식재료' +이었던 버터라면 보다 쉽ㄴ스페인 새우 요리 ▶ 강남통신기사를 더보 시려면 여기를 클릭하세요 .	O O O O O O O O ORG-B ORG-I O O O O O O PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O LOC-B O O O ORG-B O O O O O
 말리+ㄴ과일이 치아에 들러 붙으면 세균이 많이 생기기 때문에 먹은 후 꼭 물로 입을 헹구고 20분 후 양치질을 하+여야 하+ㄴ다.치아 건강 망치는 음식 마지막은 커피이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
 EU가 2020년 친환경 제품 관련 규제를 시행하면 한국산 제품에 대하+여서도 물발자국과 같은 환경정보를 요구 하+ㄹ 것으로 보이+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O
 '서머너즈워'와 '별이 되어라' 2년 지나 +아도훨훨..게임빌과 컴투스 '승승장구 .	O O O O O ORG-B ORG-B O O
 중국 통신업체 이+ㄴZTE가 미국 스마트폰 시장에서 두각을 보이고 있다. ZTE는 14일 발표 하+ㄴ보도자료를 통하+여지나 +ㄴ해 미국 스마트폰 시장에서 약 7.8%의 점유율을 기록하+ 여 애플·삼성·LG 등에잇어 4위에 오르았다고 밝히었다 .	ORG-B O ORG-B ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O O O ORG-B O O O O O
 [부고]최양화별 세·승천장학관 승태 승심승희 부친상·정수진 홍순호 현호인장인 .	PER-B PER-B PER-B PER-B PER-B PER-B PER-B O
 하지만 트럼프는 나흘 뒤 이+ㄴ 21일 영상 메시지를 통하+여＂ 취임 후 TPP에서 탈퇴하겠다＂고 선언하였다 .	O PER-B O O O O O O O O O ORG-B O O O
-한 ㆍ미 합동군사훈련이 +ㄴ ‘2016UFG(을지프리덤가디언·Ulchi-F reedomGuardian) 훈련’이 22일 시작되었다 .	ORG-B O O O O O O O O O
-6·25전쟁에서 대한민국을 지키+어내+ㄴ 참전용사 송용호씨(81)는 29일 충남 논산 육군훈련소 연무관에서 열리+ㄴ 신병수료식에서 자신의 손자 송봉근 이병(21)의 전투복 오른쪽 어깨에 태극기를 붙이어주며 감동의 눈물을 흘리었다 .	O ORG-B O O PER-B O LOC-B LOC-B O O O O O O PER-B O O O O O O O O O O
+한 ㆍ미 합동군사훈련이 +ㄴ ‘2016UFG(을지프리덤가디언·Ulchi-F reedomGuardian) 훈련’이 22일 시작되었다 .	ORG-B ORG-I O O O O O O O O
+6·25전쟁에서 대한민국을 지키+어내+ㄴ 참전용사 송용호씨(81)는 29일 충남 논산 육군훈련소 연무관에서 열리+ㄴ 신병수료식에서 자신의 손자 송봉근 이병(21)의 전투복 오른쪽 어깨에 태극기를 붙이어주며 감동의 눈물을 흘리었다 .	O ORG-B O O PER-B O LOC-B LOC-B LOC-I O O O O O PER-B O O O O O O O O O O

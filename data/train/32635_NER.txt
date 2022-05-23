@@ -1,8 +1,8 @@
 이 국장은 또 다음달 중순 경제3시장 설립 준비가 완료되+ㄹ 것이며 이후 전산이나 예탁원 결제 문제에 대하+ㄴ 점검을 거치+어야 하기 때문에 당초 일정보다 늦추+어지+ㄴ 3월 중에 개장되+ㄹ 전망이라고 밝히었다 .	PER-B O O O O O O O O PER-B PER-B PER-B ORG-B O O O O O O O O O O O O O PER-B O O
 김준일기자 jikim@donga. com/세종=박민우·허동준기 .	PER-B O LOC-B O
 정부와 시장이 앞장서는 발전 방식만으로는 한계에 도달하였다는 점, 시민 스스로 바뀌지 않으면 한국 사회가 더 이상 앞으로 나아가 +ㄹ 수 없다는 점이 +ㅂ니다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-더불어민주당 문재인·자유한국당 홍준표·국민의당 안철수·바른정당 유승민·정의당 심상정 대통령 후보들은 오늘 오전 10시부터 2시간 동안 SBS 상암동 공개홀에서 TV토론을 녹화하+ㅂ니다 .	ORG-B ORG-B ORG-B ORG-B ORG-B PER-B O O O O O O O LOC-B O O O O O
-최근 경북농업기술원 봉화약초시험장에서는 단삼의 생산량과 약리성분을 약 1.5배 향상시키는 기술을 개발하였다 .	O LOC-B O O O O O O O O O O
+더불어민주당 문재인·자유한국당 홍준표·국민의당 안철수·바른정당 유승민·정의당 심상정 대통령 후보들은 오늘 오전 10시부터 2시간 동안 SBS 상암동 공개홀에서 TV토론을 녹화하+ㅂ니다 .	ORG-B ORG-B ORG-B ORG-B ORG-B PER-B O O O O O O O LOC-B LOC-I LOC-I O O O
+최근 경북농업기술원 봉화약초시험장에서는 단삼의 생산량과 약리성분을 약 1.5배 향상시키는 기술을 개발하였다 .	O LOC-B LOC-I O O O O O O O O O
 한편 이날 ‘택시’ 육지담은 윤미래의 ‘검은 행복’ 노래를 듣고 래퍼의 꿈을 키우게 +었다고 밝히었다 .	O O O PER-B PER-B O O O O O O O O O O
 이상일 아젠다센터 대표도 “오늘부로 민주당 경선의 변수는 사실상 사라지었다”며 “문재인 후보의 대세론이 확인되면서 앞으로 남은 영남과 수도권 경선에서는 민주당 지지자들이 더 강하게 문 후보 쪽으로 결집하+ 여 격차가 더 벌어 지+ㄹ 것”이라고 주장하였다 .	PER-B ORG-B O O ORG-B O O O O PER-B O O O O O LOC-B LOC-B O ORG-B O O O PER-B O O O O O O O O O O O
 한편 9일 오후 8시 국내 최대 음악 사이트 멜론을 비롯하+여 1theK 및 로엔트리 유튜브 채널, 써니 힐 공식 페이스북을 통하+여주비와 거미의 콜라보레이션곡 '지우어지지 않는 1'의 리릭 비디오가 일제히 공개되었다 .	O O O O O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O

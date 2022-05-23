@@ -1,4 +1,4 @@
-한국LG화학도 부풀+ㄴ 꿈을 안고 2015년 중국 동부 난징에, 삼성SDI도시 안에 배터리 공장을 세우었다 .	ORG-B O O O O LOC-B O O ORG-B O O O O O
+한국LG화학도 부풀+ㄴ 꿈을 안고 2015년 중국 동부 난징에, 삼성SDI도시 안에 배터리 공장을 세우었다 .	ORG-B O O O O LOC-B LOC-I LOC-I ORG-B O O O O O
 우리 돈으로 4천만원이 넘는다 .	O O MNY-B O O
 한 이사장은 “장학재단은 전문대의 제도적 장점을 널리 알리고 우수하+ㄴ이공계 인재를 지원하는 데 목적이 있다”며 “대학원생에 한 하+여지원하지만 차츰 대학생까지 확대하+ㄹ 예정”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O O O
 ‘X3 보너스 포인트 프로모션’에 참여하기 위하+여서는 5월 13일까지 대한항공 홈페이지를 통하+여아 코르호텔 예약을 하고 6월 30일까지 숙박하면 되+ㄴ다 .	O O O O O O O O ORG-B O O O O O O O O O O

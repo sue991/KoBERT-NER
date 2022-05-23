@@ -4,7 +4,7 @@
 강용석 변호사가 소속 되+ㄴ 법무법인 넥스트로는 18일 오 후 보도자료를 통하+여디스패치 보도 내용을 반박하였다 .	PER-B O O O O ORG-B O O O O O O O O O
 강용석 측은 “법정에 제출되+ㄴ 사진과 디스패치가 게재하+ㄴ 사진이 명백히 다르다 .	PER-B O O O O O O O O O O
 심상철은 “운이 좋았다 .	PER-B O O O
-이시욱 한국개발연구원(KDI) 정책대학원 교수는 “한국 자동차 기업의 미국 직접투자를 확대하고 미국 현지에서 조달하는 부품의 비율도 늘리+ㄹ 필요가 있다”고 말하였다 .	PER-B ORG-B O O ORG-B O O LOC-B O O LOC-B O O O O O O O O O
+이시욱 한국개발연구원(KDI) 정책대학원 교수는 “한국 자동차 기업의 미국 직접투자를 확대하고 미국 현지에서 조달하는 부품의 비율도 늘리+ㄹ 필요가 있다”고 말하였다 .	PER-B ORG-B ORG-I O ORG-B O O LOC-B O O LOC-B O O O O O O O O O
 김도년기 .	PER-B O
 고질이+ㄴ 허리 통증을 안고 있는 김요한은 한때 오른발에 힘이 들어가지 않는 증세 때문에 재활을 계속하였다 .	O O O O O PER-B O O O O O O O O O O
 16일 현재 고객예탁금은 전날보다 2백33억원 줄어들 +ㄴ 3조2천7백47억원 .	O O O O MNY-B O O MNY-B O

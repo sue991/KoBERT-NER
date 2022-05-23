@@ -1,10 +1,10 @@
 이후 오후 7시30분 롯데월드몰 1층 아트리움에서 진행되는 레드카펫 행사에 참석하+여 한국팬들과 만나 +ㄹ 예정이다 .	O O O LOC-B O O O O O O ORG-B O O O O
 주 후보는 “민진당이 집권하면 양안 관계가 흔들리+ㄴ다 .	PER-B O ORG-B O O O O O
 독일 물류연맹 비서장은 “향후 롱어우 철도가 독일에 닿기를 희망하+ㄴ다”고 밝히었다 .	LOC-B O O O O O LOC-B O O O O
-경기 여주시 연라동 성남~여주간 복선전철(예정) 역세권에서 단독주택용지 ‘여내 울카운티’가 분양되고 있다 .	LOC-B LOC-B LOC-B LOC-B O O O LOC-B O O O O
-김 소장은 “당과 외교부 등에서 싱크탱크를 비롯하+ㄴ학계의 의견을 직접 묻고 있다”며 당 중앙위원회 직속 의 사무기관이 +ㄴ 중앙판 공청 등이 의견 청취를 담당 하+ㄴ다고도전하였다 .	PER-B O ORG-B ORG-B O O O O O O O ORG-B ORG-B O O O O ORG-B O O O O ORG-B O O
+경기 여주시 연라동 성남~여주간 복선전철(예정) 역세권에서 단독주택용지 ‘여내 울카운티’가 분양되고 있다 .	LOC-B LOC-B LOC-B LOC-B O O O LOC-B LOC-I O O O
+김 소장은 “당과 외교부 등에서 싱크탱크를 비롯하+ㄴ학계의 의견을 직접 묻고 있다”며 당 중앙위원회 직속 의 사무기관이 +ㄴ 중앙판 공청 등이 의견 청취를 담당 하+ㄴ다고도전하였다 .	PER-B O ORG-B ORG-B O O O O O O O ORG-B ORG-B O O O O ORG-B ORG-I O O O ORG-B O O
 문제는 중국 학계에서 북한을 보는 눈들이 다양하다는 점이다 .	O ORG-B O ORG-B O O O O O
 다행히 부상 회복세가 좋아 이승현은 지나 +ㄴ 3일 예상보다 좀 일찍 코트에 복귀하였다 .	O O O O PER-B O O O O O O O O O
-조지 W 부시 대통령이 재선되 +ㄴ 2004년 11월 미국 대선에 앞서 +어노무현 대통령이 탄핵되었지만 탄핵이 기각되며 한국의 국정 붕괴 사태는 일찌감치 해결되었다 .	PER-B O O O O O O O ORG-B O O PER-B O O O O ORG-B O O O O O O
+조지 W 부시 대통령이 재선되 +ㄴ 2004년 11월 미국 대선에 앞서 +어노무현 대통령이 탄핵되었지만 탄핵이 기각되며 한국의 국정 붕괴 사태는 일찌감치 해결되었다 .	PER-B PER-I PER-I O O O O O ORG-B O O PER-B O O O O ORG-B O O O O O O
 노영민 의원은 지나 +ㄴ 대선에서 문재인 후보 비서실장을 지내+ㄴ문 대표의 최측근이다 .	PER-B O O O O PER-B O O PER-B O O O
 노영민 의원은 전날 당무감사원에 직접 자신에 대하+ㄴ 감사를 요청하였으며, 당무감사원은 2일 노 위원장에 대하+ㄴ 사실 확인조사에 착수하였다 .	PER-B O O ORG-B O O O O O ORG-B O PER-B O O O O O O

@@ -1,7 +1,7 @@
 10일 현재 4185개의 반사 패널이 설치되었다 .	O O O O O O O
-울산 현대청운고등학교 편방송 말미에는 다음 이야기의 예고편이 공개가 되었다 .	ORG-B O O O O O O O O O
+울산 현대청운고등학교 편방송 말미에는 다음 이야기의 예고편이 공개가 되었다 .	ORG-B ORG-I O O O O O O O O
 '학교 다녀오겠습니다 .	O O O
-한편 KT는 이번 MWC에서 SK텔레콤은 물론 일본 NTT도코모, 미국 버라이즌 등 한미일 대표 통신사를 주축으로 5G 시범 서비스 규격연합(TSA)을 결성하기로 합의하였다 .	O ORG-B O ORG-B ORG-B O ORG-B O ORG-B O O ORG-B O O O ORG-B O O ORG-B O O O
+한편 KT는 이번 MWC에서 SK텔레콤은 물론 일본 NTT도코모, 미국 버라이즌 등 한미일 대표 통신사를 주축으로 5G 시범 서비스 규격연합(TSA)을 결성하기로 합의하였다 .	O ORG-B O ORG-B ORG-B O ORG-B ORG-I ORG-B ORG-I O ORG-B O O O ORG-B ORG-I ORG-I ORG-B O O O
 “‘하랑’이라는 작가를 알세요?” “처음 듣는 이름이 +ㄴ걸.” “샌드일러스트를 하는 사람이 +ㄴ데 혹시 버스에서 영상을 보+ㄴ 적 없어요?” 버스+이라는 얘기에 귀가 번쩍 뜨이었다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O
 모래를 흩뿌리고 손으로 쓱싹쓱싹하면 남산타워가 되고, 또 손이 +았다가 +았다 하면 남대문이 떡하니 나타나 +았다 .	O O O O LOC-B O O O O O O LOC-B O O O O
 마법 같던 그 손의 주인공이 “하랑’이라는 얘기+이었다 .	O O O O O PER-B O O

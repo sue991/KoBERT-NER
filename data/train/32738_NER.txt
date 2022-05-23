@@ -1,4 +1,4 @@
-해피투게더 3전 현무 합류… 박명수, 진지하+ㄴ 표정으로 “소 같은 유재석, 똥도 버리+ㄹ 것+이 없다 .	O PER-B O O PER-B O O O O PER-B O O O O O
+해피투게더 3전 현무 합류… 박명수, 진지하+ㄴ 표정으로 “소 같은 유재석, 똥도 버리+ㄹ 것+이 없다 .	O PER-B PER-I O PER-B O O O O PER-B O O O O O
 김고은, ‘성나+ㄴ 변호사’ 서 처음 정삭적 이+ㄴ 역할?… 이유 듣어보니 “피안 묻히+어”배우 김고은, 이선균, 임원희가 9일 오전 서울 강남구 압구정의 한 멀티플렉스에서 열리+ㄴ영화 ‘성나+ㄴ 변호사’ 제작 보고회에 참석하였다 .	PER-B O O O O O O O O O O O PER-B PER-B PER-B O O LOC-B LOC-B LOC-B O O O O O O O O O
 이 자리에서 이선균은 김고은의 따귀 때리는 연기에 대하+여 언급하였다 .	O O PER-B PER-B O O O O O O
 공업도시 울산에서 그리+ㄴ 프리미엄을 만끽 하+ㄹ 수 있는 아파트를 분양하+ㄴ다 .	O LOC-B O O O O O O O O O

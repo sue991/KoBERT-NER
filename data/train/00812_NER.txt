@@ -4,7 +4,7 @@
 굳이 병원에 가지 않아도 되는 경우에는 전국 수천 곳의 휴일 지킴이 약국에서 약을 사+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O
 MBC쪽에서 +ㄴ 최명길이 진행하는 「음악이 있는 곳에 」가 이런 음악쇼의 선두주자 .	ORG-B O PER-B O O O O O O O O O
 [사진]이라크 시민, 집으로 .	ORG-B O O O
-레드불이 손흥민에게 광고 모델을 제안하며 내밀+ㄴ 금액은 무려 200만 유로(약 24억9000만원)에 달하+ㄴ다 .	ORG-B PER-B O O O O O O MNY-B O MNY-B O O
+레드불이 손흥민에게 광고 모델을 제안하며 내밀+ㄴ 금액은 무려 200만 유로(약 24억9000만원)에 달하+ㄴ다 .	ORG-B PER-B O O O O O O MNY-B MNY-I MNY-B O O
 그만큼 백두산 정기가 고스란히 스며 들어 있다”고 설명하였다 .	O LOC-B O O O O O O O
 그리고 7회 초 1사 만루에서 이우민(33)이 타석에서 +었다 .	O O O O O PER-B O O O
 당시에 +ㄴ 서씨가 이 사무관에게 경례 하+ㄹ 정도로 직급의 벽이 있고, 파병 임무가 최우선이어서 두 사람 모두 조심스럽었다고 하+ㄴ다 .	O O PER-B PER-B O O O O O PER-B O O O PER-B O O O O O O

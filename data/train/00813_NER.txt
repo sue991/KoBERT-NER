@@ -1,9 +1,9 @@
 기재부 관계자는 “앞으로도 매년 10조∼14조원의 당기순이익을 거두+ㄹ 것으로 예상되며, 흑자기관도 2014년 30개에서 2019년 32개로 늘어나 +ㄹ 것으로 전망되+ㄴ다”고 말하였다 .	ORG-B O O O MNY-B O O O O O MNY-B O O O O O O O O O
 김선웅 선수협 사무국장은 “현재까지 나오+ㄴ안을 보면 변호사 외에도 선수 출신, 스포츠 마케팅 관련 업무 경력자, 구단 프런트 출신, 다른 종목 공인에이전트 등에게도 자격을 주+ㄹ 가능성이 높다 .	PER-B ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-이건우 서울대 공대 학장의 사회로 정재훈 KIAT 원장, 이상홍 IITP센터장, 차상균 서울대 빅데이터 연구원장(전기정보공학부 교수), 김진한 경북창조경제혁신센터장(전 삼성전자 전무), 오기장 포스코ICTR&D센터장, 차석근 ACS 부사장, 박현순 SK텔레콤 기업 솔루션사업본부 총괄팀장(상무)이 위기의 제조업을 혁신하기 위하+ㄴ과제를 집중적으로 토의하였다 .	PER-B ORG-B O O O PER-B ORG-B O PER-B ORG-B PER-B ORG-B O O O PER-B O ORG-B O PER-B ORG-B PER-B ORG-B O PER-B ORG-B O O O O O O O O O O
-6일 오전(한국시각 7일 밤) 열리+ㄴ한 ­미 군사위원회 회의(MCM)에서 오는 12월 1일부로 한국군에 환수되는 평시 작전통제권의 실무절차가 마무리되+어「한국방위의 한국화」에크+ㄴ진전을 이룩하였다 .	O ORG-B O O ORG-B O O ORG-B O O O ORG-B O O O O ORG-B ORG-B O O
+이건우 서울대 공대 학장의 사회로 정재훈 KIAT 원장, 이상홍 IITP센터장, 차상균 서울대 빅데이터 연구원장(전기정보공학부 교수), 김진한 경북창조경제혁신센터장(전 삼성전자 전무), 오기장 포스코ICTR&D센터장, 차석근 ACS 부사장, 박현순 SK텔레콤 기업 솔루션사업본부 총괄팀장(상무)이 위기의 제조업을 혁신하기 위하+ㄴ과제를 집중적으로 토의하였다 .	PER-B ORG-B ORG-I O O PER-B ORG-B O PER-B ORG-B PER-B ORG-B O O O PER-B O ORG-B O PER-B ORG-B PER-B ORG-B O PER-B ORG-B ORG-I ORG-I O O O O O O O O
+6일 오전(한국시각 7일 밤) 열리+ㄴ한 ­미 군사위원회 회의(MCM)에서 오는 12월 1일부로 한국군에 환수되는 평시 작전통제권의 실무절차가 마무리되+어「한국방위의 한국화」에크+ㄴ진전을 이룩하였다 .	O ORG-B O O ORG-B ORG-I ORG-I ORG-B O O O ORG-B O O O O ORG-B ORG-B O O
 당시 훗날을 도모하던 시기+이었는데 이렇게 스무 살을 다시 만나 +았다”고 말하였다 .	O O O O O O O O O O O O
 1군 코칭스태프 앞에서 불펜 피칭을 하며 분위기를 익히는 차원이다 .	ORG-B O O O O O O O O O
-임창용은 20일 광주-기아 챔피언스필드에서 열리+ㄴ SK와의 홈경기에 앞서 +어1군 투수들과 함께 훈련을 소화하였다 .	PER-B O LOC-B O O ORG-B O O ORG-B O O O O O
+임창용은 20일 광주-기아 챔피언스필드에서 열리+ㄴ SK와의 홈경기에 앞서 +어1군 투수들과 함께 훈련을 소화하였다 .	PER-B O LOC-B LOC-I O ORG-B O O ORG-B O O O O O
 현장에서 이를 바라보+ㄴ한 농구인은 “비디오가 심판을 보는 것 아니냐”고 한탄하였다 .	O O O O O O O O O O O
-요즘은 각종 방송 프로그램에서 연예견들의 활약상이 두드러지면서 연예견을 찾는 광고주와 기획사가 증가하+ㄴ다고 한국 애견협회 박애경 사무총장이 말하였다 .	O O O O O O O O O O O O ORG-B O PER-B O O O
+요즘은 각종 방송 프로그램에서 연예견들의 활약상이 두드러지면서 연예견을 찾는 광고주와 기획사가 증가하+ㄴ다고 한국 애견협회 박애경 사무총장이 말하였다 .	O O O O O O O O O O O O ORG-B ORG-I PER-B O O O

@@ -1,7 +1,7 @@
 납품 규모는 15억원 상당으로 약 50만 벌을 제작하+ㄹ 수 있는 분량이다 .	O O MNY-B O O O O O O O O O
 한화탈레스의 주력 제품으로 레이더를 빼놓을 수 없다 .	ORG-B O O O O O O O
 국립극장 새 시즌 작품 공개… 신작부터 우수작까지 화려하+ㄴ 라인 .	ORG-B O O O O O O O O O
-현대차, 테이트 모던에서 ‘현대커미션 2015’ 개 .	ORG-B LOC-B O O O O O
+현대차, 테이트 모던에서 ‘현대커미션 2015’ 개 .	ORG-B LOC-B LOC-I O O O O
 정성택 neone@donga. com/울릉=장영훈기자·국방부 공동취재 .	PER-B O LOC-B O O
 국어새 유형에 지문 길어 변별력 … 전체 난이도는 6월 모평과 비 .	O O O O O O O O O O O O
 이 소식을 접하+ㄴ네티즌들은 "조혜정 귀엽다 .	O O O PER-B O O

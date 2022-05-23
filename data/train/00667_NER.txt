@@ -8,10 +8,10 @@
 이찬오는 김새롬과의 도서관 데이트에서 반지 그림으로 프로포즈를 하+ㄴ 것으로 알려지었다 .	PER-B PER-B O O O O O O O O O
 박창석 실장은 “환경일자리 비중이 전체의 4~5% 이+ㄴ 독일·미국·일본·캐나다 등에 비교하면 우리나라의 환경 일자리 비중은 상대적으로 작은 편”이라고 말하였다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O
 특히 미쓰에이는 1년 5개월 만의 신곡이었고, 엑소와 한날 컴백하고 수지의 연애 소식이 알려지는 등 ‘난관’이 많았던 터+이었다 .	O ORG-B O O O O ORG-B O O PER-B O O O O O O O O
-내달 4일 장례식에는 니콜라스 마두로 베네수엘라 대통령, 에보 모랄레스 볼리비아 대통령, 라파엘 코레아 에콰도르 대통령, 루이스 이나시우 룰라 다시우바 전 브라질 대통령, 응우옌티 낌응 언 베트남 국회의장 등이 참석하+ㄹ 것으로 예상되 +ㄴ다 .	O O PER-B PER-B O O O PER-B O O O PER-B O PER-B O PER-B O O O O ORG-B O PER-B PER-B O ORG-B O O O O O O O
-LG전자 모바일 커뮤니케이션 사업본부는 지나 +ㄴ 2분기 전략 스마트폰 G4 판매량이 기대에 미치지 못하면서 영업이익이 2억원에 그치었다 .	ORG-B O O O O O MNY-B O O O O O O O O MNY-B O O
+내달 4일 장례식에는 니콜라스 마두로 베네수엘라 대통령, 에보 모랄레스 볼리비아 대통령, 라파엘 코레아 에콰도르 대통령, 루이스 이나시우 룰라 다시우바 전 브라질 대통령, 응우옌티 낌응 언 베트남 국회의장 등이 참석하+ㄹ 것으로 예상되 +ㄴ다 .	O O PER-B PER-B PER-I PER-I O PER-B PER-I PER-I O PER-B PER-I PER-B O PER-B PER-I PER-I PER-I O ORG-B O O O O ORG-B O O O O O O O
+LG전자 모바일 커뮤니케이션 사업본부는 지나 +ㄴ 2분기 전략 스마트폰 G4 판매량이 기대에 미치지 못하면서 영업이익이 2억원에 그치었다 .	ORG-B ORG-I ORG-I ORG-I O O MNY-B O O O O O O O O MNY-B O O
 현대차는 해당 모델의 복합연비를 L당 14.4km라고 표시하였으나 국토교통부가 실시하+ㄴ 연비 조사에서는 L당 13.2km로 나오았다 .	ORG-B O O O O O O ORG-B O O O O O O O
 트럼프는 비판받을수록 사과는커녕 더 크고 당당 하+ㄴ 목소리로 모순되 +ㄴ 발언과 행동을 반복하+ㄴ다 .	PER-B O O O O O O O O O O O O O
 특히 김 대표의 거취 문제는 민주계를 중심으로 하+ㄴ 당내 일각의 강력 하+ㄴ 희망(?)에도 불구하고 결코 쉽게 결론을 내리+ㄹ 사안이 못 되+ㄴ다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
 대출 규제가 강화되며 거래가 둔화되+ㄴ1, 2월을 피하+여아끼+어+두었던 물량을 한꺼번에 쏟아내는 분위기+이다 .	O O O O O O O O O O O O
-볼빅은 1일 미국 플로리다주에서 끝나 +ㄴ 미국 여자 프로골프(LPGA) 투어 2015 시즌 개막전이+ㄴ 코츠 챔피언십 기간에 ‘팀 볼빅’ 발대식을 가지었다 .	ORG-B O ORG-B LOC-B O O ORG-B O ORG-B O O O O O O O O ORG-B O O O
+볼빅은 1일 미국 플로리다주에서 끝나 +ㄴ 미국 여자 프로골프(LPGA) 투어 2015 시즌 개막전이+ㄴ 코츠 챔피언십 기간에 ‘팀 볼빅’ 발대식을 가지었다 .	ORG-B O ORG-B LOC-B O O ORG-B ORG-I ORG-B O O O O O O O O ORG-B O O O

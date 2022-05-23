@@ -7,12 +7,12 @@
 청와대 개각, 브리핑 통하+여 개각 명단 발 .	ORG-B O O O O O O O
 롯데호텔은 L7 브랜드를 비롯하+ㄴ 3개 호텔 브랜드로 해외지점을 확대하+ㄹ 방침이다 .	ORG-B ORG-B O O O O O O O O O
 그는 1945년 8월 9일 두 번째 원폭이 떨어지+ㄴ나가사키(長崎)에서 피폭되+ㄴ어머니에게서 1년 뒤 태어나 +ㄴ 원폭 피해 2세+이다 .	O O O O O O O LOC-B O O O O O O O O O
-문 위원장은 “당 대표 선거 탈락자를 포함하+여친노(친노무현)와 비노(비노무현) 진영에서 (새정치연합 소속 의원 130명중) 100명 정도는 현충원 행사에 참석하+여야 새 지도부에 힘이 실리+ㄴ다”고도 +였다 .	PER-B O O O O O PER-B PER-B O ORG-B O O O O O LOC-B O O O O O O O O
-메릭 갈런드 미국 워싱턴 연방항소법원장(63·사진)이 새 연방대법관 후보자로 지명되었다 .	PER-B O LOC-B LOC-B O O O O O O
+문 위원장은 “당 대표 선거 탈락자를 포함하+여친노(친노무현)와 비노(비노무현) 진영에서 (새정치연합 소속 의원 130명중) 100명 정도는 현충원 행사에 참석하+여야 새 지도부에 힘이 실리+ㄴ다”고도 +였다 .	PER-B LOC-I O O O O PER-B PER-B O ORG-B O O O O O LOC-B O O O O O O O O
+메릭 갈런드 미국 워싱턴 연방항소법원장(63·사진)이 새 연방대법관 후보자로 지명되었다 .	PER-B PER-I LOC-B LOC-B O O O O O O
 선발되+ㄴ 학생은 등록금의 80%를 지원받는다 .	O O O O O O
 영화 ‘레버넌트: 죽음에서 돌아오+ㄴ자’(레버넌트)가 제73회 골든글로브 3관왕을 차지하였다 .	O O O O O O O O O
-11일(한국시간) 미국 로스앤젤레스 베벌리 힐스베벌리 힐튼 호텔에서 열리+ㄴ 골든글로브 시상식에서 ‘레버넌트’는 영화 드라마 부문 작품상과 남우주연상(리어나도 디캐프리오), 감독상(알레한드로 곤살레스이냐리투)을 받으며 3관왕에 오르았다 .	LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O PER-B O PER-B O O O O O
+11일(한국시간) 미국 로스앤젤레스 베벌리 힐스베벌리 힐튼 호텔에서 열리+ㄴ 골든글로브 시상식에서 ‘레버넌트’는 영화 드라마 부문 작품상과 남우주연상(리어나도 디캐프리오), 감독상(알레한드로 곤살레스이냐리투)을 받으며 3관왕에 오르았다 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O PER-B PER-I PER-B PER-I O O O O
 여우주연상은 영화 ‘룸’에서 열연하+ㄴ 브리라슨이 수상하였다 .	O O O O PER-B O O
 1991년 삼성전자 입사 이후 25년 만이다 .	O ORG-B O O O O O
 ―다른 소송 상대가 누구+이었나.“골드만삭스, 씨티은행, UBS증권과도 법정에서 싸우었다 .	O O O ORG-B ORG-B ORG-B O O O
-우리가 추석 명절 밥상에 반기문(대망론)을 올려놓아 주지 않았나.” 16일(현지시간) 오후 미국 뉴욕 맨해튼의 주 뉴욕 총영사관 8층 회의실에서 +ㄴ방미 중 이+ㄴ 정 의장, 정진석 새누리당, 우상호 더불어민주당, 박지원 국민의당 원내대표가 뉴욕 특파원단과 오찬 간담회를 가지었다 .	O O O O PER-B O LOC-B O O O LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O PER-B O PER-B ORG-B PER-B LOC-B PER-B ORG-B O LOC-B O O O O O
+우리가 추석 명절 밥상에 반기문(대망론)을 올려놓아 주지 않았나.” 16일(현지시간) 오후 미국 뉴욕 맨해튼의 주 뉴욕 총영사관 8층 회의실에서 +ㄴ방미 중 이+ㄴ 정 의장, 정진석 새누리당, 우상호 더불어민주당, 박지원 국민의당 원내대표가 뉴욕 특파원단과 오찬 간담회를 가지었다 .	O O O O PER-B O LOC-B O O O LOC-B LOC-I LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O PER-B O PER-B ORG-B PER-B LOC-B PER-B ORG-B O O O O O O O

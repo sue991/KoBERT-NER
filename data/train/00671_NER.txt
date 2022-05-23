@@ -1,7 +1,7 @@
-보스턴 1루수빌 버크너가 평범 하+ㄴ 땅볼을 잡지 못하고 알을 깔+ㄴ 덕분에 결승점을 뽑아내 +ㄴ 메츠는 여세를 몰아 7차전까지 8-5로 잡았다 .	ORG-B PER-B O O O O O O O O O O O O ORG-B O O O O O O
+보스턴 1루수빌 버크너가 평범 하+ㄴ 땅볼을 잡지 못하고 알을 깔+ㄴ 덕분에 결승점을 뽑아내 +ㄴ 메츠는 여세를 몰아 7차전까지 8-5로 잡았다 .	ORG-B PER-B PER-I O O O O O O O O O O O ORG-B O O O O O O
 올 시즌 메츠는 3번째의 ‘미러클’에 도전하+ㄴ다 .	O O ORG-B O O O O
 정부는 농협 전산마비는 북한의 해킹 전문집단에 의하+ㄴ 공격으로 잠정적 이+ㄴ 결론을 내리었다 .	O ORG-B O ORG-B O O O O O O O O O
-대성 로드컴(대표 정해웅)이 발간하는 「컴돌이 」는 컴퓨터 일반 상식 ­도스 입문 ­아래아한글 ­베이직 등 초급과정 24단계와 로터스1, 2, 3­dBASEⅢ 등 중급 과정이 24단계로 구성되어 있다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+대성 로드컴(대표 정해웅)이 발간하는 「컴돌이 」는 컴퓨터 일반 상식 ­도스 입문 ­아래아한글 ­베이직 등 초급과정 24단계와 로터스1, 2, 3­dBASEⅢ 등 중급 과정이 24단계로 구성되어 있다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O
 이쯤 되면 21기는 상·하위가 고르+ㄴ 전력을 보이며 좀처럼 버리+ㄹ 선수가 없다는 결론이다 .	O O ORG-B O O O O O O O O O O
 TV나 모바일 기기를 구매하면 2년 동안 콘텐츠를 무료로 즐기+ㄹ 수 있고, 콘텐츠에 익숙하+ 여지+ㄴ 사용자들은 2년 후 자연스럽게 유료 사용자로 전환하+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O
 [북 김정남 피살] 김정남 자주 만나 +ㄴ한인…"남한으로 가라고 +였더니 씨익 웃더라 .	ORG-B PER-B O PER-B O O ORG-B O O O O O

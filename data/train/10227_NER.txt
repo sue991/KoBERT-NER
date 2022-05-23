@@ -2,7 +2,7 @@
 그리 하+여도 제주기지는 평화롭어 보이었다 .	O O LOC-B O O O
 수출물가 5개월 만에 하락 … 수입물가지수도 석 달 연속 감소 .	O O O O O O O O O O O
 상대는 중국의 린허친. 산타베이스로 하는 선수로 종합격투기 경력이 김해인보다 월등하었다 .	O ORG-B PER-B O O O O O PER-B O O
-한국안중근 의사 기념사업회와 회원 등 40여명은 26일 오전 중국 헤이룽장(黑龍江)성하얼빈(哈爾濱)역에 있는 ‘안중근 의사 기념관’에서 안 의사의 이토 히로부미(伊藤博文) 저격 106주년 기념식을 열었다 .	LOC-B O O O O O O O LOC-B LOC-B O LOC-B O O PER-B O PER-B PER-B O O O O O
+한국안중근 의사 기념사업회와 회원 등 40여명은 26일 오전 중국 헤이룽장(黑龍江)성하얼빈(哈爾濱)역에 있는 ‘안중근 의사 기념관’에서 안 의사의 이토 히로부미(伊藤博文) 저격 106주년 기념식을 열었다 .	LOC-B LOC-I ORG-I ORG-I O O O O LOC-B LOC-B O LOC-B LOC-I LOC-I PER-B LOC-I PER-B LOC-I O O O O O
 이 위원장은 “내일 하루 일과 중이보다 더 중요하+ㄴ일을 없을 것”이라며 이와 같이 강조하였다 .	PER-B O O O O PER-B O O O PER-B PER-B PER-B O O
 남구는 재단법인을 설립하+여로컬푸드 직매장을 운영하+ㄹ 방침이다 .	ORG-B O O O O O O
 언프리티 랩스타 시즌2 전지윤랩에 수아'듣는 순간 이것+이 뭐 +이지 싶었다'라고 평가… ‘언프리티 랩스타 시즌2’ 전지윤이 아이돌 래퍼에 대하+ㄴ편견에 일침을 가하였다 .	O O O PER-B PER-B O O O O O O O O O PER-B O O O O O O

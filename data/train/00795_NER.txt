@@ -5,9 +5,9 @@
 검찰과 경찰은 곽씨의 영장 청구를 시작으로 서울시향 일부 직원이 투서를 작성하게 되+ㄴ 배경과 유포 경위, 가담자 등을 추가로 밝혀내 +ㄹ 방침이다 .	O O PER-B O O O ORG-B O O O O O O O O O O O O O O O
 러닝셔츠와 팬티 등 순수 속옷을 제외하고 지급 용품으로만 한 시즌 내내 몸 전체를 두르고 살+ㄹ 수 있다고 하+여도 과언이 아니다 .	O O O O O O O O O O O O O O O O O O O O O
 특검 “靑 압수수색 거부 처분 취소를” 행정소 .	O ORG-B O O O O O O
-매드클라운-기리 클라운, 닮은꼴 외모 눈길 … 어떻길래 ?“누구가 누구+이+ㄴ지 모르겠네 .	PER-B O O O O O O O O O O
+매드클라운-기리 클라운, 닮은꼴 외모 눈길 … 어떻길래 ?“누구가 누구+이+ㄴ지 모르겠네 .	PER-B PER-I O O O O O O O O O
 최자연 인 설리, 교복 연상차림으로 바닥에 눕어… ‘새하얗+ㄴ 허리’ 노 .	PER-B O PER-B O O O O O O O O
 투자자들과 달리 FOMC 위원들은 아직 베팅하고 싶어 하지 않는다 .	O O ORG-B O O O O O O O
 [책의 향기]“서세동점 ?… 모르는 소리 !서 양근대화, 공자가 이끌었다 .	O O O O O O O PER-B O O
-안산대학 LINC 사업단(단장 안종문)은 공학계열 현장실습 집중 형 사업단이다 .	ORG-B O O PER-B O O O O O O
+안산대학 LINC 사업단(단장 안종문)은 공학계열 현장실습 집중 형 사업단이다 .	ORG-B ORG-I ORG-I PER-B O O O O O O
 리우데자네이루 올림픽 아시아 최종 예선을 겸하는 2016 AFCU-23 챔피언십 본선은 내년 1월 시작되+ㄴ다 .	O O LOC-B O O O O O O O O O O O

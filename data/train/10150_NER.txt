@@ -7,6 +7,6 @@
 금융공기업 평균 급여 2014년 첫 감 .	O O O O O O O
 28일 대전 한화전에서는 19호 홈런을 터트리며 두산이 팀 홈런 1위(178개)로 올라서는 데 결정적 이+ㄴ 역할을 +였다 .	O O O O O O ORG-B O O O O O O O O O O
 [사진 각 회사] 사진 2제네랄 모터스(GM)는 캐딜락 등 주요 모델에 스마트폰 무선 충전 시스템을 선택 사양으로 포함하였다 .	O O O O ORG-B ORG-B O O O O O O O O O O O O
-중국 공산당은 이를 인정하였으나, 국민당은 인정하지 않았다 .	ORG-B O O O ORG-B O O O
+중국 공산당은 이를 인정하였으나, 국민당은 인정하지 않았다 .	ORG-B ORG-I O O ORG-B O O O
 특검은 수사기간이 연장되지 않을 것도 고려, 1차 수사 종료일(28일) 전까지 이 부회장에 대하+ㄴ 추가 조사를 마무리하고 기소 하+ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O O O
-제시카 알바 내한"안녕, 한국, 서울 …이번에 +ㄴ 사업차 +았어요~ .	PER-B O O LOC-B LOC-B O O O O O
+제시카 알바 내한"안녕, 한국, 서울 …이번에 +ㄴ 사업차 +았어요~ .	PER-B PER-I O LOC-B LOC-B O O O O O

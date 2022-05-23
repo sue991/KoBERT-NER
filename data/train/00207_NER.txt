@@ -8,5 +8,5 @@
 이러하+ㄴ 체제 아래 준 PO에서 승리 하+ㄴ 16개 팀 중 절반에 해당하는 8팀이나 KS 진출에 성공하+ㄴ 것을 보면, 정규시즌2위팀과 비교하+여갖는 장점이 분명하었다 .	O O O O O O O O O O O O O O O O O O O O O O O
 그러나 준 PO 체제가 5전 3선 승제로 변화하면서 이러하+ㄴ이점은 줄어들었다 .	O O O O O O O O O O O
 지나+ㄴ 1990년 출시되 +ㄴ왕뚜껑은 기존의 컵라면 보다 푸짐 하+ㄴ양과 시원하+ㄴ맛으로 25년간 14억개가 판매되+ㄴ팔도의 대표적 이+ㄴ 효자라면이다 .	O O O O O O O O O O O O ORG-B O O O O
-가수 에릭 남이 최근 방한한 할리우드 여배우 클로이 모레츠에 대하+여 언급하+ㄴ 가운데, 에릭남의 과거 발언도 재조명 받았다 .	O PER-B O O O LOC-B O PER-B O O O O PER-B O O O O O
-에릭남은 지난해 6월 SBS 파워 FM ‘김창렬의 올드스쿨’에 출연하+여클로이 모레츠와의 친분에 대하+여 언급하였다 .	PER-B O O O O O O O PER-B O O O O O
+가수 에릭 남이 최근 방한한 할리우드 여배우 클로이 모레츠에 대하+여 언급하+ㄴ 가운데, 에릭남의 과거 발언도 재조명 받았다 .	O PER-B PER-I O O LOC-B O PER-B PER-I O O O PER-B O O O O O
+에릭남은 지난해 6월 SBS 파워 FM ‘김창렬의 올드스쿨’에 출연하+여클로이 모레츠와의 친분에 대하+여 언급하였다 .	PER-B O O O O O O O PER-B PER-I O O O O

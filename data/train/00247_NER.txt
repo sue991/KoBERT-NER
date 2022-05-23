@@ -1,7 +1,7 @@
 델 UP3218K의 가격은 미화 기준 4, 999.99달러로, 약 600만원에 달하+ㄴ다 .	ORG-B O O O O O O O MNY-B O O
 22일(현지시간) 자유아시아방송(RFA) 보도에 따르면 포 위원장은 지나 +ㄴ 20일 의회에서 “구제 불능(incorrigible)이+ㄴ 어리+ㄴ 김정은(littleKim)과 똘마니들(minions) 이 또 무력시위를 벌이고 있다”면서 “김정은은 테러리스트”라고 주장하였다 .	O ORG-B O O PER-B O O O O O O O O PER-B O O O O O O PER-B O O O
 강수지는 2001년 치과의사와 결혼하였지만 1년여의 별거 끝에 2006년 11월 이혼, 지금까지 딸을 홀로 키우고 있다 .	PER-B O O O O O O O O O O O O O O O
-시베리아·알래스카·캐나다 북부의 영구 동토층이 녹고 메탄 하이드레이트에 포획되+어 있던 온실가스 이+ㄴ 메탄이 대량으로 방출되+ㄴ다 .	LOC-B O O O O O O O O O O O O O O
+시베리아·알래스카·캐나다 북부의 영구 동토층이 녹고 메탄 하이드레이트에 포획되+어 있던 온실가스 이+ㄴ 메탄이 대량으로 방출되+ㄴ다 .	LOC-B LOC-I O O O O O O O O O O O O O
 초판 1만부를 찍었는데 청소년 번 역물로는 드물게 많은 발행부수다 .	O O O O O O O O O O
 빅뱅의 ‘BANGBANGBANG’은 국내뿐 아니라 핀란드, 홍콩, 마카오, 말레이시아, 필리핀, 싱가포르, 대만, 태국, 베트남, 인도네시아, 브루나이 등 11개국에서 1위를 차지+이다 .	ORG-B O O O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O
 비노 진영이 제기하+여오+ㄴ ‘문재인 책임론’도 괘념하지 않는 분위기+이다 .	O O O PER-B O O O O O

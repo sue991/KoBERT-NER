@@ -6,7 +6,7 @@
 (서울=뉴스1스타 .	LOC-B O
 ‘기초항공과학과 RC, 드론’과 ‘3D프린팅 바이블’을 출간 하+ㄴ 제이앤씨커뮤니티가 학습과 재미를 함께 하+ㄹ 수 있는 교육용 드론이 +ㄴ ‘드로닉스’를 개발하여 최초로 크라우드펀딩 사이+ㄴ 텀블벅(https://www.tum blbug. com/dronics)을 통하여 공개 하+ㄴ다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O PER-B O O O O O O
 냉장고를 부탁하+여 김풍 ‘하차설’ 재조명, 정형돈 “이쯤 되면 하차설이…”깜짝 ++화들 .	O O PER-B O O PER-B O O O O O
-현재 해외 무용단에 활동 중 이+ㄴ 한국무용수는 무려 200여명.' 수진 키즈'이+ㄴ 셈이다 .	O O O O O O ORG-B O O ORG-B O O O
+현재 해외 무용단에 활동 중 이+ㄴ 한국무용수는 무려 200여명.' 수진 키즈'이+ㄴ 셈이다 .	O O O O O O ORG-B O O ORG-B ORG-I O O
 K발레의 활약상이 최근 두드러지+ㄴ다 .	ORG-B O O O O
 장령자씨 사건이 최근의 사례+이다 .	PER-B O O O O
 9일 북한의 5차 핵실험 이후 이처럼 일본이 연일 북한을 성토하고 있지만 실효성 있는 제재 수단이 부족하+여고심하고 있는 것으로 알려지었다 .	O ORG-B O O O O ORG-B O ORG-B O O O O O O O O O O O

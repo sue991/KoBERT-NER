@@ -1,5 +1,5 @@
-강정호 부상, 코그란 태클로십자인대 파열·정강이뼈 골절 … 수술 불가피 미국 프로야구 피츠버그 파이어리츠에서 활약 중 이+ㄴ 강정호가 부상을 당하였다 .	PER-B O PER-B O O O O O O ORG-B O O O O O O PER-B O O O
-강정호는 18일(한국시간) 미국 펜실베니아 주 피츠버그의 PNC파크에서 열리+ㄴ ‘2015 메이저리그’ 시카고 컵스와의 홈경기에서 4번 타자 겸 유격수로 출장하였지만, 1회 초 수비에서 상대 크리스코 글란의 태클에 부상을 당하며 경기에서 빠지었다 .	PER-B LOC-B LOC-B LOC-B O LOC-B LOC-B O O O ORG-B O O O O O O O O O O O PER-B O O O O O O O
+강정호 부상, 코그란 태클로십자인대 파열·정강이뼈 골절 … 수술 불가피 미국 프로야구 피츠버그 파이어리츠에서 활약 중 이+ㄴ 강정호가 부상을 당하였다 .	PER-B O PER-B O O O O O O ORG-B ORG-I ORG-I ORG-I O O O PER-B O O O
+강정호는 18일(한국시간) 미국 펜실베니아 주 피츠버그의 PNC파크에서 열리+ㄴ ‘2015 메이저리그’ 시카고 컵스와의 홈경기에서 4번 타자 겸 유격수로 출장하였지만, 1회 초 수비에서 상대 크리스코 글란의 태클에 부상을 당하며 경기에서 빠지었다 .	PER-B LOC-B LOC-B LOC-B LOC-I LOC-B LOC-B O O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O O O
 이날 강정호는 1회 초 자신의 실책으로 맞은 무사만루의 위기 상황에서 병살 플레이를 만들기 위하+여2 루베이스로 향하었다 .	O PER-B O O O O O O O O O O O O O O O
 공효진에 대하+ㄴ 조정석의 혼잣말고백이 ‘질투의 화신’ 최고의 1분을 차지하였다 .	PER-B O PER-B O O O O O O O
 5일 방송되+ㄴ SBS 수목 드라마 '질투의 화신' 13회에서는 표나리(공효진 분)에게 마음을 들키 +ㄴ이후 이화신(조정석분)의 모습이 그리 +어+지었다 .	O O O O O O O O PER-B O O O O PER-B O O O O

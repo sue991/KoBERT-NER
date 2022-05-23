@@ -1,6 +1,6 @@
-벨기에 브뤼셀 공항에서 21일(현지시간) 원인 불명의 연쇄 폭발사고가 발생하였다 .	LOC-B LOC-B O O O O O O O O
+벨기에 브뤼셀 공항에서 21일(현지시간) 원인 불명의 연쇄 폭발사고가 발생하였다 .	LOC-B LOC-B LOC-I O O O O O O O
 이에 나가미+이네 대사는 “한국에 있는 대사관 직원들과 함께 바로 판단 하+ㄹ문제가 많이 있다 .	O PER-B O LOC-B O O O O O O O O O O
-아베 총리와 부인 아키에 여사는 30일까지 워싱턴에 머물는 동안 백악관 영빈관이 +ㄴ블레어 하우스에 머물+ㄴ다 .	PER-B O O PER-B O O LOC-B O O LOC-B O LOC-B O O O
+아베 총리와 부인 아키에 여사는 30일까지 워싱턴에 머물는 동안 백악관 영빈관이 +ㄴ블레어 하우스에 머물+ㄴ다 .	PER-B O O PER-B O O LOC-B O O LOC-B O LOC-B LOC-I O O
 ‘크라임씬 PD살인사건’은 실제와 가상을 오가는 페이크 다큐 형식으로 진행되+ㄴ다 .	O O O O O O O O O O
 ‘해노랑’은 태양과 바다를 동시에 뜻하는 ‘해’와 주재료 이+ㄴ 속 노랑고구마에서 따오았다 .	O O O O O O O O O O O O
 이청용을 대신 하+여 측면 공격을 맡은 이재성은 공격 첨병 역할을 소화하였다 .	PER-B O O O O O PER-B O O O O O
@@ -11,4 +11,4 @@ IS 테러리스 트리샤위 .	ORG-B PER-B PER-B O
 10대가 출소녀 11명 유인… 숙박대가로 성매매 강 .	O O O O O O O O
 이는 제2공항 호재를 바탕으로 외지인들과 중국인 등 다수의 투자자들이 유입되었기 때문으로 풀이되 +ㄴ다 .	O O O O O O O O O O O O O O
 미군 주도연합군이 이번에 +ㄴ 시리아에서 오폭을 수행하+여 이슬람 테러단체 격퇴에 협력하는 반군 등 18명을 숨지게 +였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O
-미중 부사령부는 13일(현지시간) 성명을 내고 “해당 공습은 이슬람 국가(IS)의 진지 위치를 파악하+ㄴ 동맹군의 요청을 받은 결과 +이다”며 이같이 밝히었다 .	ORG-B O O O O O O ORG-B ORG-B O O O O O O O O O O O
+미중 부사령부는 13일(현지시간) 성명을 내고 “해당 공습은 이슬람 국가(IS)의 진지 위치를 파악하+ㄴ 동맹군의 요청을 받은 결과 +이다”며 이같이 밝히었다 .	ORG-B ORG-I O O O O O ORG-B ORG-B O O O O O O O O O O O

@@ -1,15 +1,15 @@
 줄리엔강, 3살 연하 모델 장성희와 열애설 소속사 "조모 상당 하+ 여부산에 있다 .	PER-B O O O PER-B O O O O O LOC-B O O
-4·13 총선 새누리당 지역구 초선 당선자 중 유일하+ㄴ 여성이 +ㄴ 김정재 당선자(50·경북 포항 북·사진)의 ‘이것만은 반드시 지키겠다’는 대국민 약속이다 .	O O ORG-B O O O O O O O PER-B LOC-B O O O O O O O O
+4·13 총선 새누리당 지역구 초선 당선자 중 유일하+ㄴ 여성이 +ㄴ 김정재 당선자(50·경북 포항 북·사진)의 ‘이것만은 반드시 지키겠다’는 대국민 약속이다 .	O O ORG-B O O O O O O O PER-B LOC-B LOC-I O O O O O O O
 브룬싱의 영상 앞에 놓이어 있는 양현정씨의 서울벤치리서치 메모는 이 ‘징벤치’가 멀+ㄴ나라 얘기가 아니+ㅁ을 보이어 주+ㄴ다 .	PER-B O O O O PER-B LOC-B O O O O O O O O O
 2000년대 들어 SM, YG, JYP 등 아이돌 가수를 양성하는 대형 기획사가 시장을 틀어쥐면서 재야에 묻히+ㄴ싱어송라이터나 밴드가 주목을 받을 기회가 준 가운데 ‘큐레이션의 대물림’이 이어지는 셈이다 .	O O ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O
 그러곤 유스호스텔에 묵고 있는 전남 무안군 해제중학교 학생과 교사들을 찾아 "멀리 전라도서 여기까지 수학여행을 +아주+어 참 반갑고 고맙 심더" +이라며 황남빵 등을 전달하였다 .	O O O O LOC-B LOC-B ORG-B O O O O LOC-B O O O O O O O O O O O O
 9월 12일 규모 5.8의 경주 지진 발생 후 처음으로 경주에 전라도 수학여행단이 나타나 +았다 .	O O O O LOC-B O O O O LOC-B LOC-B O O O O
-다음 타 자트래비스 다노는 우월 솔로포를 터뜨리+어 1회에만 4점을 만들었다 .	O O PER-B O O O O O O O O
+다음 타 자트래비스 다노는 우월 솔로포를 터뜨리+어 1회에만 4점을 만들었다 .	O O PER-B PER-I O O O O O O O
 두다는 2회에도 바뀌+ㄴ 2사 1, 2루에서 우중간을 가르는 2타점 2 루타를 날리+어 점수를 6점차로 벌리었다 .	PER-B O O O O O O O O O O O O O O O
-반면 컵스는 4회말 무사 만루찬스를 만들었지만 카스트로 가 라인드라이브 아웃으로 물러나 +ㄴ 후카일 슈와버가 1루수 땅 볼 때 3루 주자 호르헤 솔레르가 홈으로 들어오며 1점을 올리는 데 그치었다 .	O ORG-B O O O O PER-B O O O O O PER-B O O O O O O O PER-B O O O O O O O O
-이후 8회 초 2사 1루 상황에 타석에 들어서 +ㄴ대니얼 머피가 상대 투수 페르난도 로드니를 상대로 비거리 128m의 중월 홈런을 쏘아 올리며 쐐 기점을 올리었다 .	O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O
+반면 컵스는 4회말 무사 만루찬스를 만들었지만 카스트로 가 라인드라이브 아웃으로 물러나 +ㄴ 후카일 슈와버가 1루수 땅 볼 때 3루 주자 호르헤 솔레르가 홈으로 들어오며 1점을 올리는 데 그치었다 .	O ORG-B O O O O PER-B O O O O O PER-B PER-I O O O O O O PER-B PER-I O O O O O O O
+이후 8회 초 2사 1루 상황에 타석에 들어서 +ㄴ대니얼 머피가 상대 투수 페르난도 로드니를 상대로 비거리 128m의 중월 홈런을 쏘아 올리며 쐐 기점을 올리었다 .	O O O O O O O O PER-B PER-I O O PER-B PER-I O O O O O O O O O O O
 정치적 불확실성, 늘어나는 가계부채, 수출 여건 악화, 북한 위험 등 첩첩산 중 난제들에 대하+ㄴ 질문이 쏟아지었다 .	O O O O O O O ORG-B O O O O O O O O O
 저 여덟 책상에서 요즘 청춘들의 다양하+ㄴ 꿈빛깔을 확인 하+ㄹ 수 있었습니다 .	O O O O O O O O O O O O
-정강현 청춘리포트 팀장foneo@j oongang. co.kr여경의 책상“치안활동 첫걸음떼는 장소” 손 남정(27·여·동대문서청 회파출소 순경) 동네치안을 책임지고 있는 순경이+ㅂ니다 .	PER-B O O O O O O O O ORG-B O O O O O O O
+정강현 청춘리포트 팀장foneo@j oongang. co.kr여경의 책상“치안활동 첫걸음떼는 장소” 손 남정(27·여·동대문서청 회파출소 순경) 동네치안을 책임지고 있는 순경이+ㅂ니다 .	PER-B O O O O O O O O ORG-B ORG-I O O O O O O
 LS산전의 주력 사업 분야는 전력과 자동화 부문이다 .	ORG-B O O O O O O O
 브렉시트는 ‘단발’이 아니라 ‘연쇄 폭탄’이 되+ㄹ 가능성이 +어 추가 파장이 우려되는 상황이다 .	O O O O O O O O O O O O O

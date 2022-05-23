@@ -6,7 +6,7 @@
 수목극 1위 ‘김 과장’이 떠나 +았다 .	O O O O O O O
 경찰청도 경찰견 복제 프로젝트를 통하+여 지금까지 특수목적견 16마리를 얻었다 .	ORG-B O O O O O O O O O
 투표율이 50%를 넘지 못하면 연장투표를 하거나 재선거를 하+여야 하+ㄴ다 .	O O O O O O O O O O
-안양연고의 KGC가 서울 SK에 지+어 역대 개막 안방 최 .	LOC-B ORG-B ORG-B O O O O O O O
+안양연고의 KGC가 서울 SK에 지+어 역대 개막 안방 최 .	LOC-B ORG-B ORG-B ORG-I O O O O O O
 한·미 연합 독수리(FoalEagle·FE) 훈련이 절정에 이르면서 미 전략무기들이 속속 한반도에 전개되고 있다 .	ORG-B O O O O O ORG-B O O LOC-B O O O
-지나+ㄴ 2002년 개교 하+ㄴ대구 사이버대학교는 특수교육·사회복지분야에서 전통을 자랑하는 대구대학교와 형제학교로 발전하고 있다 .	O O O ORG-B O O O O ORG-B O O O O
+지나+ㄴ 2002년 개교 하+ㄴ대구 사이버대학교는 특수교육·사회복지분야에서 전통을 자랑하는 대구대학교와 형제학교로 발전하고 있다 .	O O O ORG-B ORG-I O O O ORG-B O O O O
 남한강 변바위 절벽에 세우어 지+ㄴ 강월헌(江月軒)은 특히 주변 경치가 아름답기로 소문나 +아있다 .	LOC-B O O O O LOC-B O O O O O O O

@@ -9,7 +9,7 @@
 그의 트위터 외교는 훌륭하다 .	O O O O O
 중국 인민은행도 지난달 28일 7년 만에 기준금리와 지급준비율을 동시에 내리며 돈을 풀고 있다 .	O O O O O O O O O O O O O O
 바둑기사이세돌 9단이 인공지능 바둑 프로그램 ‘알파고’에 3연 패 뒤 귀중하+ㄴ 첫 승을 거두었다 .	PER-B O O O O O O O O O O O O O
-13일 오후 1시 서울 포시즌스 호텔에서 진행되+ㄴ ‘구글 딥마인드 챌린지 매치’ 5번 기 제4국에서 이세돌 9단은 알파고에 180수 불계승을 거두었다 .	O O O LOC-B LOC-B O O O O O O O O O PER-B O O O O O O
+13일 오후 1시 서울 포시즌스 호텔에서 진행되+ㄴ ‘구글 딥마인드 챌린지 매치’ 5번 기 제4국에서 이세돌 9단은 알파고에 180수 불계승을 거두었다 .	TIM-I TIM-B TIM-I LOC-B LOC-B LOC-I O O O O O O O O PER-B O O O O O O
 앞서 이세돌 9단은 1~3국에서 내리패하면서 매치 패배를 확정짓었다 .	O PER-B O O O O O O O
 청의원은 징역 1개월 이상 유죄 판결을 받으면 입법회 출석 의원 3분의 2 찬성으로 의원 자격을 박탈당 하+ㄹ 수 있다 .	PER-B O O O O O O O O O O O O O O O O O O O
 박병호 “나+의 폼 그대로가 +ㄴ다 .	PER-B O O O O O

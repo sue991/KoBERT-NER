@@ -5,7 +5,7 @@
 주상욱과 김선아가 호흡을 맞추+ㄹ드라마 ‘복면 검사’는 검사+이라는 신분으로도 해결하+ㄹ 수 없는 일을 주먹으로 해결하는 한 남자의 이야기를 그리 +ㄴ 작품으로 현재 방송 중 이+ㄴ ‘착하지 않은 여자들’에 이어 5월 안방극장을 찾는다 .	PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
 ‘성완종 게이트’ 불똥이 정치권을 넘어 언론계로 튀었다 .	O O O O O O O O
 기존 설비는 약 50년이 지나 +아노 후 하+ㄴ 상태+이었다 .	O O O O O O O O O O
-삼성 삼성이 승엽이승엽(40)은 10일 10일 대전 한화생명이글스파크에서 열리+ㄴ한화전 한화전에서 선제 결승 솔로 홈런을 포함하+여5 타수 4안타1볼넷 3타점 2득점을 올리면서 팀 승리를 이끌었다 .	ORG-B ORG-B PER-B O O LOC-B O O O O O O O O O O O O O O O O O
+삼성 삼성이 승엽이승엽(40)은 10일 10일 대전 한화생명이글스파크에서 열리+ㄴ한화전 한화전에서 선제 결승 솔로 홈런을 포함하+여5 타수 4안타1볼넷 3타점 2득점을 올리면서 팀 승리를 이끌었다 .	ORG-B ORG-B PER-B O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O
 남북 남북 고위급 접촉 정회, 北동향은?“병력 늘고 있다”… 대북 확성기 타격노리+ㄴ 움직임도 .	ORG-B ORG-B O O O ORG-B O O O O O O O
 노엘리차드 막스(RichardNoelM arx·53)의 아내가 20일 20일 겪은 대한항공 기내 난동과 관련 "막스가 난동 승객을 제압하기 위하+여나서 +ㄴ 첫 번째 사람"이라고 자랑스럽어 +였다 .	PER-B PER-B O O O O O O O O O PER-B O O O O O O O O O O O
 미국 미국의 유명 VJ이자 막스의 아내 이+ㄴ 데이지 푸엔테스(DaisyFuentes·55)는 이날 남편과 함께 하+ㄴ 비행길에서 겪은 대한항공 기내 난동 사건을 전하며 이같이 밝히었다 .	ORG-B ORG-B O O PER-B O O PER-B PER-B O O O O O O O O O O O O O O

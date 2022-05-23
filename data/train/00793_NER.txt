@@ -1,6 +1,6 @@
 글= 김소엽기자 kim. soyub@j oongang. co.kr사진=김경록기자kim kr8486@j oongang. co.kr[커버스토리]▶[강남40대를 정의하다 ① 정치] 우리+ㄴ보수도 진보도 아니다 ▶2016년 당신이 선택하+ㄹ 명품은 ▶ 강남구 중학교 교사 6명 중 1명이 ‘기간제’ ▶ 특목고 어디서가장 많이 보내+었나▶3040CEO들은 아버지에게 무엇을 받았나 ▶ 강남통신기사를 더 보려면 여기를 클릭하세 .	O PER-B O O O PER-B O O ORG-B O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O ORG-B O O O O O
 아욱 죽은 먼저 된장을 풀고 새우를 넣고 물(육수)을 끓이다 쌀을 넣는다 .	O O O O O O O O O O O O
-러시아 정부는 이날 보스니아에 관하+ㄴ 공동성명안이 최근 내전이 가열되 +ㄴ 비하치지역 전투와 관련, 세르비아계를 『침략자』로 규정 하+ㄴ 데이의를 제기, 거부권을 행사하였다 .	ORG-B O O LOC-B O O O O O O LOC-B O O ORG-B O O O O O O O O
+러시아 정부는 이날 보스니아에 관하+ㄴ 공동성명안이 최근 내전이 가열되 +ㄴ 비하치지역 전투와 관련, 세르비아계를 『침략자』로 규정 하+ㄴ 데이의를 제기, 거부권을 행사하였다 .	ORG-B ORG-I O LOC-B O O O O O O LOC-B O O ORG-B O O O O O O O O
 김태균은 1회 초 1타점 선제적 시타를 날리+어리드를 안기었다 .	PER-B O O O O O O O O
 [2016세법 개정안] 세제 어떻게 바뀌 .	O O O O O O
 문 대표는 수락연설에서 ‘박근혜 정부와의 전면전’을 선포하였다 .	PER-B O O PER-B O O O O
@@ -10,7 +10,7 @@
 몇몇 펀드의 1분기 수익률이 30%를 넘는 등 관련 펀드가 좋은 성적을 내고 있기 때문이다 .	O O O O O O O O O O O O O O O
 해피투게더3에 ‘빅뱅’ 데뷔 9년만 총출동 !… 방송은 언제? 최근 신곡을 발표하며 음원 및 음악방송 1위 행진을 잇어가고 있는 그룹 ‘빅뱅’이 해피투게더 3 출연 소식을 전하였다 .	O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O
 11일 오전 한 매체는 방송 관계자들의 말을 인용“빅뱅이 KBS2 예능 프로그램 ‘해피투게더3’의 출연을 확정짓었다”고 알리었다 .	O O O O O O O ORG-B ORG-B O O O O O O O
-보도에 따르면 빅뱅은 오는 15일 서울 여의도 KBS별관에서 진행되는 ‘해피투게더3’ 녹화에 참여하+ㄹ 예정이며, 이는 빅뱅 멤버 5명 전원이 KBS 예능 프로그램에 출연하는 것으로 데뷔 9년 만에 처음으로 알려지+어 눈길을 끌고 있다 .	O O ORG-B O O LOC-B LOC-B ORG-B O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O
+보도에 따르면 빅뱅은 오는 15일 서울 여의도 KBS별관에서 진행되는 ‘해피투게더3’ 녹화에 참여하+ㄹ 예정이며, 이는 빅뱅 멤버 5명 전원이 KBS 예능 프로그램에 출연하는 것으로 데뷔 9년 만에 처음으로 알려지+어 눈길을 끌고 있다 .	O O ORG-B O O LOC-B LOC-B LOC-I O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O
 빅뱅은 데뷔 초 일부 멤버가 ‘스타 골든벨’, ‘개그콘서트’ 등에 출연하+ㄴ 적은 있지만 5명 멤버 전원이 KBS 예능 프로그램에 출연하+ㄴ 적은 없었다 .	ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O
 또한 백뱅을 비롯 YG엔터테인먼트 소속 가수들은 최근 수년간 KBS 출연을 하지 않았으며, 최근 지누션이 ‘뮤직뱅크’에 출연하며 YG와 KBS의 교류가 다시 시작되는 것 아니냐(?)는 반응을 부르어 일으키었다 .	O O O ORG-B O O O O ORG-B O O O O ORG-B O O ORG-B ORG-B O O O O O O O O O
 한편 빅뱅은 지나 +ㄴ 1일 신곡 ‘루저(LOSER)’와 ‘BAEBAE’를 발매하였으며, 두 신곡은 발매 직후 국내외 음원차트를 석권하였으며 각종 음악 프로그램에서도 1위를 차지하며 많은 인기를 끌고 있다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O

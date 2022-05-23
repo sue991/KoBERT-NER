@@ -5,7 +5,7 @@ E씨는 당시 신고를 하지 않은 이유에 대하+여 “신고를 하+ㄴ
 논란의 윤성환 6이닝4 실점 첫 승롯데 3홈런, SK전 5회 강우콜드 승두산 새 외국인 선수 2명이 강력 하+ㄴ 우승 후보로 꼽히는 공룡군단을 잡고 팀을 단독 1위로 견인하였다 .	O PER-B O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O
 걸스데이 멤버들이나 다른 아이돌 친구들과도 만나면 자연스럽게 선거 얘기를 하게 되+ㄴ다 .	ORG-B O O O O O O O O O O O
 그런데 올해 겨울은 강 하+ㄴ 엘니뇨 현상으로 포근하+ㄴ 날씨가 이어지고 있다 .	O O O O O O O O O O O O
-MC 전현무가 “오상진 아버지와 같은 회사가 맞느냐”고 묻자, 한 채 알는 “같은 회사가 맞다”고 아버지들끼리 친분이 있다고 전하였다 .	O PER-B PER-B O O O O O PER-B O O O O O O O O PER-B O
+MC 전현무가 “오상진 아버지와 같은 회사가 맞느냐”고 묻자, 한 채 알는 “같은 회사가 맞다”고 아버지들끼리 친분이 있다고 전하였다 .	O PER-B PER-B O O O O O PER-B PER-I PER-I O O O O O O PER-B O
 이 여객기는 이날 저녁 제주에서 김포로 돌아오+ㄹ 예정이었기 때문에 제주발 김포행 여객기 한편도 결항되+ㄴ다 .	O O O O LOC-B LOC-B O O O LOC-B LOC-B O O O O
 올 시즌 41 경기에서 13승 28패로 최하위다 .	O O O O O O O O
 [부고]신영은 모친 .	PER-B O O

@@ -1,7 +1,7 @@
 당시 채국희는 극중 마카오 박(김윤석 분)과 손을 잡고 사기를 치는 사모님 역할을 맡아 눈길을 모으았다 .	O PER-B O PER-B PER-B O O O O O O O O O O O
 한편 4일 오전 한 매체는 두 사람 측근의 말을 인용하+여 “오달수와 채국희가 오랜 연인이며 연극계 쪽에서는 유명 하+ㄴ 커플”이라고 보도하였다 .	O O O O O O O O O O PER-B PER-B O O O O O O O O O
 그저 흥분, 혼란을 원하+ㄴ다”며 “개인적으로 푸틴이 에 스토니아를 집어먹어도 나는 숙면을 취하+ㄹ 수 있을 것이다 .	O O O O O PER-B O O O O O O O O O O
-중국은 류옌둥(劉延東) 국무위원을 단장으로 왕안순(王安順) 베이징시장, 농구스타야오밍(姚明)과 스키 선수 출신의 리니나(李(니, 이) 娜), IOC 위원 양양(楊揚) 등 12명의 대표단을 지난달 25일 현지에 파견 하+여 막판 득표활동을 벌이었다 .	ORG-B PER-B O O PER-B ORG-B PER-B O O O PER-B O O ORG-B O PER-B O O O O O O O O O O O O
+중국은 류옌둥(劉延東) 국무위원을 단장으로 왕안순(王安順) 베이징시장, 농구스타야오밍(姚明)과 스키 선수 출신의 리니나(李(니, 이) 娜), IOC 위원 양양(楊揚) 등 12명의 대표단을 지난달 25일 현지에 파견 하+여 막판 득표활동을 벌이었다 .	ORG-B PER-B O O PER-B ORG-B PER-B O O O PER-B PER-I PER-I ORG-B O PER-B O O O O O O O O O O O O
 방한 佛대통령 만찬 때 맛보+아화 .	O ORG-B O O O O
 25-18의 일방적 이+ㄴ스코어 +이었다 .	O O O O O
 4K 촬영이 가능하다 .	O O O O
@@ -12,6 +12,6 @@
 지난해 폭발적 이+ㄴ 호응에 힘입어 올해는 약 3개월간 전국 7개 매장에서 확대 운영 하+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O
 박용택은 “대학 3학년 때 배트가 알루미늄에서 나무로 바뀌었다 .	PER-B O O O O O O O O
 투자 대비 성과 없는 배구 인프라 구축 시스템 프로구단과 KOVO가 10년간 유소년 배구 육성을 위하+여 많은 돈을 투자하였지만 현실은 심각하였다 .	O O O O O O O O O ORG-B O O O O O O O O O O O
-런던 지하철 24시간 운행은 칸 시장의 전임자 이+ㄴ 보수당 소속 보리스 존슨 전시장이 추진하였던 사업이다 .	ORG-B O O O PER-B O O O ORG-B O PER-B O O O O O
+런던 지하철 24시간 운행은 칸 시장의 전임자 이+ㄴ 보수당 소속 보리스 존슨 전시장이 추진하였던 사업이다 .	ORG-B ORG-I O O PER-B O O O ORG-B O PER-B PER-I O O O O
 행복주택의 경우 신혼부부 대학생 위주로 다양하+ㄴ 분양지원이 이루어지고 있지만 수백채의 대형 단지로 건립되고 있다 .	O O O O O O O O O O O O O O O
 2008년에는 매출 100억위안을 돌파하며 코카콜라의 아성을 무너뜨리었다 .	O O MNY-B O ORG-B O O O

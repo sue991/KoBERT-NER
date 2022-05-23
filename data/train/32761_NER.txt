@@ -4,7 +4,7 @@
 ‘올림픽 성화봉송 주자’ 참여를 독려하는 해당 광고 화보에서 박보검과 김연아는 눈을 서로 마주보며 미소 짓는가 하면 손을 맞잡고 환하+ㄴ미소를 보이기도 +였다 .	O O O O O O O O PER-B PER-B O O O O O O O O O O O O
 세월이 흐르어 충석의 연인이었던 설령 이 할머니가 되+어 지난날을 회상하는 액자 식 구성으로 진행되+ㄴ다 .	O O PER-B O PER-B O O O O O O O O O O
 IS의 전략이 놀랍ㄴ 것은 시리아에 본부를 두면서, 전 세계에 100여개의 세포 조직을 운영하+ㄴ다는 것이다 .	ORG-B O O O LOC-B O O O O O O O O O O
-'더 지니어스' 장동민, 왜 '갓 동민'이라 불리는지 입 .	O O PER-B O PER-B O O O O
+'더 지니어스' 장동민, 왜 '갓 동민'이라 불리는지 입 .	O O PER-B O PER-B PER-I O O O
 이들은 지금의 대한민국을 만들 +ㄴ 세대지만 미래의 대한민국을 책임지지는 못하+ㄴ다 .	O O ORG-B O O O O ORG-B O O O
 18세는 다르다 .	O O O
 메르세데스 벤츠 유니목은 특수목적차량(special-purposevehicles) 부문에서 43.3%의 득표율을 얻어 ‘올해의 크로스-컨트리 차량(Cross-Cou ntry VehicleoftheYear)’으로 선정되어 12년째 1위 자리를 지키었다 .	O O O O O O O O O O O O O O O O O O O

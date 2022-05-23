@@ -1,5 +1,5 @@
-이 의원은 서울대 법대 70학번이 자사법시험 20회 동기 이+ㄴ 여상규 의원과 가장 많은 공통점을 갖고 있다 .	O O ORG-B O O O O O O PER-B O O O O O O O
-정찬헌은 이날 새벽 서울 강남구 신사동 사거리에서 음주운전을 하 .	PER-B O O LOC-B LOC-B LOC-B O O O O
+이 의원은 서울대 법대 70학번이 자사법시험 20회 동기 이+ㄴ 여상규 의원과 가장 많은 공통점을 갖고 있다 .	O O ORG-B ORG-I O O O O O PER-B O O O O O O O
+정찬헌은 이날 새벽 서울 강남구 신사동 사거리에서 음주운전을 하 .	PER-B O O LOC-B LOC-B LOC-B LOC-I O O O
 이에 불복하+ㄴ A씨는 항소하였고, 김현중 역시 항소장을 제출하+여 11일 첫 변론기일이 잡히+ㄴ 상태+이다 .	O O PER-B O PER-B O O O O O O O O O
 한편 김현중은 2월 11일 육군 30사단에서 복무를 마치고 제대하+ㄴ다 .	O PER-B O O O O O O O O
 KMTNet은 칠레, 남아프리카공화국, 호주 등 남반구 3개 국가 관측소에 설치되 +어우리은하 중심부를 24시간 연속 관측 하+ㄹ 수 있어 ‘별이 지지 않는 관측소’로도 불리+ㄴ다 .	ORG-B LOC-B LOC-B LOC-B O O O O O O LOC-B O O O O O O O O O O O O O

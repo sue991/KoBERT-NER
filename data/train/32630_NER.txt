@@ -10,8 +10,8 @@
 최근 류근지는 TV 리포트와 인터뷰에서 “초등학교 동창이+ㄴ 송중기의 외모는 원래 유명하였나” +이라 “+이라는 질문을 받았다 .	O PER-B O O O O O PER-B O O O O O O O O
 이에 류근지는 “어리+ㄹ 때부터 꽃미남이었다 .	O PER-B O O O O
 [오늘의 경기/7월 2일] 프로야구 .	O O O O O
-에이미 커티스 씨는 “대선 때의 트럼프보다 +ㄴ 지금의 트럼프가 그나마 나아지었다”며 “미국이 대통령 혼자 마음대로 하+ㄹ 수 있는 나라가 아니 +ㅁ을 트럼프도 알게 되+ㄹ 것”이라고 +였다 .	PER-B O O O O PER-B O O PER-B O O ORG-B O O O O O O O O O PER-B O O O O O
+에이미 커티스 씨는 “대선 때의 트럼프보다 +ㄴ 지금의 트럼프가 그나마 나아지었다”며 “미국이 대통령 혼자 마음대로 하+ㄹ 수 있는 나라가 아니 +ㅁ을 트럼프도 알게 되+ㄹ 것”이라고 +였다 .	PER-B PER-I O O O PER-B O O PER-B O O ORG-B O O O O O O O O O PER-B O O O O O
 이는 1960년 13%에 비하+여 10%포인트가 높아 지+ㄴ 것이다 .	O O O O O O O O O
 앞서 박영수(65·사법연수원 10기) 특별검사팀의 구속영장 청구에서 ‘한판승’을 거두+ㄴ우 전 수석은 이번에도 검찰과 치열 하+ㄴ 법리 공방을 벌이+ㄹ 것으로 예상되 +ㄴ다 .	O ORG-B O O O O O PER-B O O O O O O O O O O O O O
 유네스코 세계기록유산 ‘동의보감’, 보물에서 국보로 승격 지 .	ORG-B O O O O O O O
-뿐만 아니라 식약처는 아리땁+ㅁ의 ‘아리땁ㅁ 볼륨업 오일틴트 2호’, ‘아리땁ㅁ 볼륨업 오일틴트 5호’ 등 2품목을 제조하+ㄴ씨앤씨 인터내셔널에 한 달의 제조업무정지 처분을 내리었다 .	O O ORG-B ORG-B ORG-B O O O ORG-B O O O O O ORG-B O O O O O O O
+뿐만 아니라 식약처는 아리땁+ㅁ의 ‘아리땁ㅁ 볼륨업 오일틴트 2호’, ‘아리땁ㅁ 볼륨업 오일틴트 5호’ 등 2품목을 제조하+ㄴ씨앤씨 인터내셔널에 한 달의 제조업무정지 처분을 내리었다 .	O O ORG-B ORG-B ORG-B ORG-I ORG-I ORG-I ORG-B ORG-I ORG-I ORG-I O O ORG-B ORG-I O O O O O O

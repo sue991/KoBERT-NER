@@ -1,8 +1,8 @@
-레드닷 어워드는 미국의 'IDEA 디자인 어워드', 독일의 'iF 디자인 어워드'와 함께 세계 3대 디자인상 중 하나이며, JTBC가 이 디자인상에서 상을 받는 것+ㄴ2013년 JTBC 브랜드 아이덴티티 본상 수상에잇어 두 번째 +이다 .	O O LOC-B O O O LOC-B O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O
+레드닷 어워드는 미국의 'IDEA 디자인 어워드', 독일의 'iF 디자인 어워드'와 함께 세계 3대 디자인상 중 하나이며, JTBC가 이 디자인상에서 상을 받는 것+ㄴ2013년 JTBC 브랜드 아이덴티티 본상 수상에잇어 두 번째 +이다 .	O O LOC-B O O O LOC-B O O O O O O O O O ORG-B O O O O O ORG-B ORG-I ORG-I O O O O O O
 이번에 수상하+ㄴ ‘공간디자인’은 지나 +ㄴ 2015년 상암이전을 맞고 진행되+ㄴ 사옥 리뉴얼의 결과물이다 .	O O O O O O LOC-B O O O O O O
 그해 이상 문학상 대상 수상작이다 .	O O O O O O
 영국은 사회, 문화, 환경 등 다양하+ㄴ이유로 기부가 이루어지고 있고 종교적 기부는 전체 기부액의 14% 정도+이라고 보고서는 설명하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-에이핑크, ‘핑크 메모리’로 8개월 만에 컴백 ‘기대감↑ .	ORG-B O O O O O O O
+에이핑크, ‘핑크 메모리’로 8개월 만에 컴백 ‘기대감↑ .	ORG-B ORG-I O O O O O O
 동부는 2002년 김주성(205cm)의 입단 이후 높이의 이점을 십분 활용하+여+오았다 .	ORG-B O PER-B O O O O O O O
 퓨즈TV 측은 “엄청나 +ㄴ 밸런스를 찾아내어 확고하+ㄴ 음악관을 구축하였다”고 평하였다 .	ORG-B O O O O O O O O O O
 특히 한국 시장에 특화되+ㄴ 자율주행 기술시험 및 연구를 진행하+여보 .	O LOC-B O O O O O O O O

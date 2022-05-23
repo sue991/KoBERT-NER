@@ -7,7 +7,7 @@
 임종룡 금융위원장이 금융위원회가 2015년 이후 삼성그룹의 계열사 합병과 상장 등 지배구조 개편 과정에서 특혜를 +었다는 의혹을 전면 부인하였다 .	PER-B ORG-B ORG-B O O ORG-B O O O O O O O O O O O O O
 서울시, ‘시민문화 캐스터’ 모집하+여 공연·전시소개… 역할 보 .	LOC-B O O O O O O O
 본계약은 7월 경맺을 예정이다 .	O O O O O
-서민 갑부(10일 오후 9시50분 .	ORG-B O O O O
+서민 갑부(10일 오후 9시50분 .	ORG-B ORG-I TIM-B TIM-I O
 ‘마리텔’이 타 예능과 다른 이 .	O O O O O O
 류승룡은 우연히 염력을 얻게 되+ㄴ아버지 ‘석헌’ 역을, 심은경은 예상하지 못하+ㄴ 사건에 휘말리게 되+ㄴ딸 ‘루미’ 역을 맡았다 .	PER-B O O O O PER-B O PER-B O O O O O PER-B O O O
 한편 이날 한은이 경제전망을 또다시 크게 수정하면서 기존 전망치의 오류에 대하+ㄴ 비판도 커지고 있다 .	O O ORG-B O O O O O O O O O O O O

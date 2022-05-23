@@ -1,7 +1,7 @@
 물론 이들 모두가 리우로 향하는 것은 아니다 .	O O O LOC-B O O O O
 첨단 건축공법총망라수직 도시를 향하+ㄴ 인간의 도전은 언제까지 지속되 +ㄹ까. 하늘을 찌르며 스카이라인을 바꾸는 초고층 빌딩 건설에 한국 기업의 발걸음이 당차다 .	O O O O O O O O O O O O O O O O ORG-B O O O O
 현역 시절 신 감독도 뛰어나 +ㄴ 리더십을 갖추+ㄴ 주장으로 활약하+ㄴ바 있어 연제민이 올림픽 대표팀에서도 많은 사랑을 받고 있음을 알+ㄹ 수 있다 .	O O PER-B O O O O O O O O PER-B O O O O O O O O O O
-제일 알고 싶었던 것+ㄴ 역시나 김성근 한화감독이 계약 마지막 해이+ㄴ올해 명예회복에 성공하+ㄹ 수 있을지 여부. 약 1만원을 투자 하+여토 정비결을 알리+어주는 스마트폰 애플리케이션(앱)을 내리+어받아 한국 야구위원회(KBO) 홈페이지에 나오아 있는 김성근 감독의 생년월일을 입력하였습니다 .	O O O O O PER-B ORG-B O O O O O O O O O MNY-B O O O O O O O ORG-B ORG-B O O O PER-B O O O O
+제일 알고 싶었던 것+ㄴ 역시나 김성근 한화감독이 계약 마지막 해이+ㄴ올해 명예회복에 성공하+ㄹ 수 있을지 여부. 약 1만원을 투자 하+여토 정비결을 알리+어주는 스마트폰 애플리케이션(앱)을 내리+어받아 한국 야구위원회(KBO) 홈페이지에 나오아 있는 김성근 감독의 생년월일을 입력하였습니다 .	O O O O O PER-B ORG-B O O O O O O O O O MNY-B O O O O O O O ORG-B MNY-I O O O PER-B O O O O
 “내년 2월 열리는 뉴저지주 바둑대회에 나가 +아 여성 부 우승하는 것+이 목표 이+ㅂ니다 .	O O O LOC-B O O O O O O O O O O
 처음부터 러시아 측은 의약품, 카자흐스탄 측은 차량 부품의 병행수입을 허용하자고 제안하였다는 것이다 .	O ORG-B O O ORG-B O O O O O O O O
 바쿰은 “위안화 절하가 당분간 (신흥국에서의 자본 이탈 속도를 증가시키는) 촉매 구실을 하+ㄹ 수 있다”고 설명하였다 .	PER-B O O O O O O O O O O O O O O O
@@ -10,8 +10,8 @@
 [동서남북]부산시민이 롯데에바라는  .	ORG-B ORG-B O O
 나이보다 젊고 건강 하+여보이시는데 어떻게 건강관리를 하시는지요. 모질+ㄴ(이하모) 회사를 운영하는 대표로, 또 세 아이의 엄마로 회사와 가정을 조화롭게 이끌어가기 위하+여서는 건강관리가 중요하지요 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O
 한국 등 비자면제협정을 맺고 있는 70여개국의 손님들은 간단하+ㄴ 입국카드와 함께 여권을 한 번 보이어주는 것으로 모든 절차가 끝나 +ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-아니 아이역(기타아키타시)에서 택시로 25분 소요. www. aniski.jp 공식 사이트 △아키타현: http://akita. or.kr △일본 정부관광국 : www.welcometojapan.or.kr아키타 맛 △눈이 많이 내리는 지역에 +ㄴ 맛있는 쌀이나 +ㄴ다 .	LOC-B LOC-B O O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O
-김경환 국토부 1차관과 백규석 환경부 기획조정실장, 이정무 한국물포럼 총재, 우효섭 광주과학기술원 환경공학부 교수 등이 참석하였다 .	PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O O O O O
+아니 아이역(기타아키타시)에서 택시로 25분 소요. www. aniski.jp 공식 사이트 △아키타현: http://akita. or.kr △일본 정부관광국 : www.welcometojapan.or.kr아키타 맛 △눈이 많이 내리는 지역에 +ㄴ 맛있는 쌀이나 +ㄴ다 .	LOC-B LOC-B LOC-I O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O
+김경환 국토부 1차관과 백규석 환경부 기획조정실장, 이정무 한국물포럼 총재, 우효섭 광주과학기술원 환경공학부 교수 등이 참석하였다 .	PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B ORG-I O O O O
 “지금은 2015년이니까요!(Itis2015!)” 캐나다에서 +ㄴ 지금 정치가 인기+이다 .	O O ORG-B O O O O O
 문체부 안은 엘리트 체육과 생활체육이 선순환을 이루는 스포츠 선진국 시스템을 함께 고민하고 양 단체 간 이견으로 통합 논의가 파행되지 않도록 하기 위 하+여 다양성을 고려하+ㄴ 것이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
 전날 다저스 2선 발 잭 그레인 키에게 시즌 첫 패배의 쓰+ㄴ잔을 건네+ㄴ 콜로라도 타선을 맞고 변화무쌍 하+ㄴ 변화구와 날카롭 ㄴ제 구력을 앞세우어 3안타 2 볼넷만 허용하는 인상적 이+ㄴ 투구를 +였다 .	O ORG-B O O PER-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O

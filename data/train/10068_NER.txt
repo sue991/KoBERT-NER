@@ -1,17 +1,17 @@
 몸이 완전하지 않아 경기에 뛰지+ㄴ 못하였어도 올스타전에 임하는 자세를 실천 하+ㄴ 김희진이다 .	O O O O O O O O O O O PER-B O
 레버쿠젠에 남았다면 류승우는 또다시 벤치에 머물는 시간이 길었을 것이다 .	ORG-B O PER-B O O O O O O O
-‘하와’의 더블 타이틀 곡 중 하나이+ㄴ ‘애플(Apple)’은 음원 발매 후 멜론, 엠넷닷컴, 올레뮤직, 지니, 네이버 뮤직 등에서 정상을 차지하였다 .	O O O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O
+‘하와’의 더블 타이틀 곡 중 하나이+ㄴ ‘애플(Apple)’은 음원 발매 후 멜론, 엠넷닷컴, 올레뮤직, 지니, 네이버 뮤직 등에서 정상을 차지하였다 .	O O O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-I O O O O
 특히 이날 공개되+ㄴ'파라다이스로스트' 뮤직비디오에서 가인은 몸매가 강조되+ㄴ의상을 입고 바닥에 엎드리는 등 과감하 +ㄴ 안무를 선보이며 섹시미를 발산하였다 .	O O O O O O O O O O O O O O O O O O
 여기서 제외되는 것은 은행 요구불예금 금리(4단계로 예정)뿐이다 .	O O O O O O O O
 이런 상황에서 방송제작진이 출판사에 공문을 보내 +ㄴ 것은 동아일보의 관련 보도(11월 17일자 A26면)에 대하+ㄴ해명의 의미를 담고 있다 .	O O O O O O O O O O O O O O O O O O
 현재 MBC 월화 드라마 ‘빛나거나 미치거나’에 출연 중 이+ㄴ장혁은 바쁘+ㄴ 촬영 일정에도 아내와 함께 출산을 준비 중이다 .	O O O O O O O O PER-B O O O O O O O O O
 박 반장은 “운동경기를 좋아하는 연예인이스트레스를 해소하기 위하+여재 미삼아 시작하지만 결국 도박에 중독되는 사례가 심심찮다”면서 “하지 않는 것+이 최선”이라고 다시 한번 강조하였다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O
-63ml2만 1천원. H ITITEM은 파우더룸(cafe. naver. com/cosmania)과 여성 동아페이스북(www.facebook. com/thewomandonga)에서도 보시+ㄹ 수 있습니다 .	MNY-B O O O O O O O O O O O O O
-사진제공랑콤(080-022-3332) 메이크업포에버(080-514-8942) 바비 브라운(02-3440-2781) 스킨푸드(080-012-7878) 아리땁+ㅁ(02-6080-9966)에 스쁘아(080-619-8888) 유리아주(070-7091-6635)이니스프리(080-380-0114) 입생로랑(080-347-0089) 페리 페라(080-080-1510) 디자인이 지은 edi tor최은초롱기 .	ORG-B ORG-B ORG-B O ORG-B ORG-B O ORG-B ORG-B ORG-B O O O O PER-B O
+63ml2만 1천원. H ITITEM은 파우더룸(cafe. naver. com/cosmania)과 여성 동아페이스북(www.facebook. com/thewomandonga)에서도 보시+ㄹ 수 있습니다 .	MNY-B MNY-I O O O O O O O O O O O O
+사진제공랑콤(080-022-3332) 메이크업포에버(080-514-8942) 바비 브라운(02-3440-2781) 스킨푸드(080-012-7878) 아리땁+ㅁ(02-6080-9966)에 스쁘아(080-619-8888) 유리아주(070-7091-6635)이니스프리(080-380-0114) 입생로랑(080-347-0089) 페리 페라(080-080-1510) 디자인이 지은 edi tor최은초롱기 .	ORG-B ORG-B ORG-B ORG-I ORG-B ORG-B ORG-I ORG-B ORG-B ORG-B ORG-I O O O PER-B O
 팬들은 십시일반 정성을 모으고 그 위에 이보미가 온정을 더 하+여 주변의 어렵ㄴ 이웃들에게 나누+ㅁ을 실천 하+ㄴ다 .	O O O O O O PER-B O O O O O O O O O O
 2008년 문화재청과 천연기념물 지킴이 협약을 맺고 수달, 두루미, 어름치, 장수하늘소 등 멸종위기 보호종을 선정하+여 전문단체의 보호 및 연구활동을 지원하고 있다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
 히딩크 감독은 지나 +ㄴ 2009년에도 첼시의 임시 감독으로 2009-2010 시즌 FA(잉글랜드 축구협회) 컵 우승을 이끌었다 .	PER-B O O O O ORG-B O O O O ORG-B O O O O O
 온라인 중앙일보 [사진 다음카카오 제공] '다음카카오 .	O ORG-B O ORG-B O ORG-B O
-지난달 ‘북한 테러 지원국 재지정’ 법안을 발의 하+ㄴ미 하원 외교위원회 테드 포공화당 의원도 최근 “김정남 암살의 배후가 북한으로 드러나면 즉각 테러지원국으로 재지정하는 절차에 나서+어야 하+ㄴ다”고 압박하였다 .	O ORG-B O O O O O ORG-B O O PER-B ORG-B O O PER-B O O ORG-B O O O O O O O O O
+지난달 ‘북한 테러 지원국 재지정’ 법안을 발의 하+ㄴ미 하원 외교위원회 테드 포공화당 의원도 최근 “김정남 암살의 배후가 북한으로 드러나면 즉각 테러지원국으로 재지정하는 절차에 나서+어야 하+ㄴ다”고 압박하였다 .	O ORG-B O O O O O ORG-B ORG-I ORG-I PER-B ORG-B O O PER-B O O ORG-B O O O O O O O O O
 1차관보 임창렬 씨/2차관보신명호씨 /재무부 인 .	O PER-B PER-B ORG-B O O
 따라서 제3자 뇌물이 성립하려면 박 전 대통령과 최씨 사이에 경제공동체 관계가 성립하고, 최씨가 재단의 돈을 개인 용도로 마음대로 꺼내+어쓰+ㄹ 수 있다는 두 가지 전제가 충족되+어야 하+ㄴ다 .	O O O O PER-B O O PER-B O O O O PER-B O O O O O O O O O O O O O O

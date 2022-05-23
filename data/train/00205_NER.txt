@@ -1,13 +1,13 @@
 EPA는 FCA에 위법행위 통지를 발송하였다 .	ORG-B ORG-B O O O O
-설치 하+ㄹ 위치는 서울시 열린광장 시민위원회에서 정하+ㄴ다 .	O O O ORG-B O O O O
-‘터키 잠적 김군 IS훈련’ 국정원이 지난달 터키 킬리스에서 잠적 하+ㄴ 김모 군(18)이 이슬람 극단주의 무장단체 이슬람 국가(IS)에 가담하+여훈련을 받고 있다는 사실을 거론하였다 .	LOC-B O PER-B ORG-B ORG-B O LOC-B O O O PER-B O ORG-B O O ORG-B ORG-B O O O O O O
+설치 하+ㄹ 위치는 서울시 열린광장 시민위원회에서 정하+ㄴ다 .	O O O ORG-B ORG-I ORG-I O O
+‘터키 잠적 김군 IS훈련’ 국정원이 지난달 터키 킬리스에서 잠적 하+ㄴ 김모 군(18)이 이슬람 극단주의 무장단체 이슬람 국가(IS)에 가담하+여훈련을 받고 있다는 사실을 거론하였다 .	LOC-B O PER-B ORG-B ORG-B O LOC-B LOC-I O O PER-B O ORG-B O O ORG-B ORG-B O O O O O O
 ‘냉장고를 부탁하+여소유’ 그룹 씨스타 소유가 ‘냉장고를 부탁하+여’에서 최현석 셰프와 듀엣 무대를 선보이+ㄹ 예정이다 .	O PER-B O ORG-B PER-B O O PER-B O O O O O O
 9일 방송하는 JTBC 예능 프로그램 ‘냉장고를 부탁하+여’에는 소유가 게스트로 등장하+ㄴ다 .	O O O O O O O PER-B O O O
 이날 방송분녹화 현장에서 소유는 최현석과 듀엣으로 ‘오피셜 리미씽유투’(OfficiallyMiss ingYou, Too) 무대를 함께 하였다 .	O O O PER-B PER-B O O O O O O O O O
-한편 5일 서울행정법원 행정2단독 박준석 판사는 방송인 에이미(본명이에 이미)가 서울출입국관리사무소장을 상대로 내+ㄴ 출국명령을 취소 소송을 기각하였다 .	O O ORG-B O PER-B O O PER-B PER-B ORG-B O O O O O O O
+한편 5일 서울행정법원 행정2단독 박준석 판사는 방송인 에이미(본명이에 이미)가 서울출입국관리사무소장을 상대로 내+ㄴ 출국명령을 취소 소송을 기각하였다 .	O O ORG-B ORG-I PER-B O O PER-B PER-B ORG-B O O O O O O O
 앞서 +어 올해 초 서울출입국관리사무소는 미국 국적이+ㄴ에 이미에게 출국명령 처분을 내리었다 .	O O O O O ORG-B O O O O O O
 아모레퍼시픽은 2012년 4월 고용노동부가 주최하는 ‘제12회 남녀고용평등 강조주간 기념식’에서 남성과 여성이 조화롭게 근무하고 일터와 가정의 양립을 위하+여 모범을 보이+ㄴ 우수기업으로 선정되+어 대통령 표창을 수상하였다 .	ORG-B O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O
-인천을 ‘2015년 세계책의 수도’로 지정 하+ㄴ 유네스코가 주최하고 교육부가 주관하는 ‘2015세계교육포럼’이 19∼22일 송도국제도시 내 송도 하건벤시아에서 열리+ㄴ다 .	LOC-B O O O O O ORG-B O ORG-B O O O LOC-B O LOC-B O O O
+인천을 ‘2015년 세계책의 수도’로 지정 하+ㄴ 유네스코가 주최하고 교육부가 주관하는 ‘2015세계교육포럼’이 19∼22일 송도국제도시 내 송도 하건벤시아에서 열리+ㄴ다 .	LOC-B O O O O O ORG-B O ORG-B O O O LOC-B O LOC-B LOC-I O O
 일본에서만 올해 들어 하라주 쿠큐플라자(QPlaza), 하라주쿠알타(ALTA), 나고야 파르코(PARCOmidi) 등 6개의 대형 쇼핑몰이 문을 열었다 .	ORG-B O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O
 기존 보건소가 담당하던 치매 1차 검진과 상담, 우울증·스트레스 검사, 금연지원 등의 업무를 담당 하+ㄴ다 .	O O O O O O O O O O O O O O O
 아시아나항공의 최재승 기장을 만나 +아 조종사의 세계에 관하+여이모저모 듣어보았다 .	ORG-B PER-B O O O O O O O O

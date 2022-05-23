@@ -7,7 +7,7 @@
 차량에는 오션 멤버들과 매니저 등 5명이 탑승 하+여 있었다 .	O ORG-B O O O O O O O O
 “서울메트로 임직원 30명, 은성PSD 서억대 상품권 받아 .	ORG-B O O ORG-B O O O O
 kt가 자랑하는 불펜투수들은 각각 다른 공을 던지는 것처럼 사연도 제각각이다 .	ORG-B O O O O O O O O O O
-○… 국회 노동위 「돈 봉투」사건과 관련, 서울 서대문구 미근동에 살는 시민 김수영씨(48)가 29일 관련 의원들과 (주)한국자동차보험 간부들을 뇌물수수 등 혐의로 서울지검에 고발하였다 .	O ORG-B O O O O ORG-B LOC-B LOC-B O O ORG-B O O O ORG-B O O O O ORG-B O O
+○… 국회 노동위 「돈 봉투」사건과 관련, 서울 서대문구 미근동에 살는 시민 김수영씨(48)가 29일 관련 의원들과 (주)한국자동차보험 간부들을 뇌물수수 등 혐의로 서울지검에 고발하였다 .	O ORG-B ORG-I O O O ORG-B LOC-B LOC-B O O ORG-B O O O ORG-B O O O O ORG-B O O
 왼손투수 상대 타율(0.294)보다 오른손 투수를 상대하+ㄴ 기록이 오히려 좋지 않다 .	O O O O O O O O O O O
-같은 기간 중국인의 소득 상승폭을 살펴보자. 중국 국가통계국에 따르면, 중국 도시지역의 평균 연봉은 2001년 10834위안에서 2015년 62029위안으로 늘었다 .	O O LOC-B O O O LOC-B O O LOC-B O O O O MNY-B O MNY-B O O
+같은 기간 중국인의 소득 상승폭을 살펴보자. 중국 국가통계국에 따르면, 중국 도시지역의 평균 연봉은 2001년 10834위안에서 2015년 62029위안으로 늘었다 .	O O LOC-B O O O LOC-B ORG-I O LOC-B O O O O MNY-B O MNY-B O O
 야생진드기, 의료진 2차 감염 확진… 심폐소생술 중 .	O O O O O O O O

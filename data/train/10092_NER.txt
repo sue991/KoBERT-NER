@@ -8,8 +8,8 @@
 러시아는 “여객기 블랙박스에 열 손상이 없다고 이집트 당국으로부터 듣었다”며 테러 가능성이 낮다고 밝히었다 .	ORG-B O O O O O ORG-B O O O O O O O
 하지만 맹기용 셰프의 음식에 지누는 혹평을 쏟아내 +었다 .	O PER-B O O PER-B O O O O
 ‘냉장고를 부탁하+여’ 방송 직후 네티즌들도 “냉부에서 맛없어 보이는 음식은 처음이었다” .	O O O O O O O O O O O
-같은 날 오전 디모인 인근 카운실 블러프스의 한 교회. 공화당 대선주자 도널드 트럼프(70)가 일요예배를 마치고 나오자 지지자 300여명이 둘러싸 +았다 .	O O O LOC-B O O O O O ORG-B O PER-B O O O O O O O O O
+같은 날 오전 디모인 인근 카운실 블러프스의 한 교회. 공화당 대선주자 도널드 트럼프(70)가 일요예배를 마치고 나오자 지지자 300여명이 둘러싸 +았다 .	O O O LOC-B O O O O O ORG-B O PER-B PER-I O O O O O O O O
 [횡설수설/ 한기흥] ‘박근혜 시대의 인식 .	O PER-B PER-B O O O
-북한 핵은 IAEA의 일반 사찰과 미신고 2개 시설에 대하+ㄴ 특별사찰, 그리고 남북한 상호 사찰에 의하+여 그 투명성을 보장하+ㄹ 수 있는 것으로 상정되어 있다 .	O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O
+북한 핵은 IAEA의 일반 사찰과 미신고 2개 시설에 대하+ㄴ 특별사찰, 그리고 남북한 상호 사찰에 의하+여 그 투명성을 보장하+ㄹ 수 있는 것으로 상정되어 있다 .	ORG-I O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O
 최씨 측근으로 활동하다 국정개입을 폭로하+ㄴ고씨는 최씨를 이용하+여이권을 챙기려 +였다는 의심을 받기도 +였다 .	PER-B O O O PER-B PER-B O O O O O O O
 연예인 판정단은 ‘우비소녀’의 정체가 가수 ‘벤’이 아니냐고 추측하였다 .	O O PER-B O O PER-B O O O

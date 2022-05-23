@@ -1,7 +1,7 @@
 이 규정에 따르면 연수 중 교육질서 문란 등으로 3.5점 이상의 벌점을 받거나 전체 교과목 성적이 기준에 못 미치+ㄹ 경우 임용에서 탈락 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
 실제로 움직이는 기기를 만들는 레고테크닉(Technic), 에펠탑, 타지마할 등 세계적 이+ㄴ 건축물을 그대로 축소 하+ㄴ 레고 아키텍처(Architecture)는 정교하+ㄴ 설계로 난이도가 높지만 그만큼 성인 매니어들이 열광하는 제품이다 .	O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O
 레고와 함께 성장 하+ㄴ 고객들의 가치는 브랜드 커뮤니티 쿠수(CUUSOO)에서 빛을 발하+ㄴ다 .	O O O O O O O O O O O O
-임 위원장은 올해 금융개혁의 가장 든든하+ㄴ ‘후원군’으로 금융감독원, 금융회사, 언론을 꼽았다 .	PER-B O O ORG-B O O O ORG-B ORG-B O O O
+임 위원장은 올해 금융개혁의 가장 든든하+ㄴ ‘후원군’으로 금융감독원, 금융회사, 언론을 꼽았다 .	PER-B ORG-I O ORG-B O O O ORG-B ORG-B O O O
 중국은 한반도 사드 문제에도 미국이 배후에 있다고 보+ㄴ다 .	ORG-B LOC-B O O ORG-B O O O O
 메이저리거되+ㄴ테임즈, 2년 연속 골든글러브 받을 .	PER-B O O O O O
 [나+의 생각은/ 정진엽] 담뱃갑 경고그림의 의 .	O O PER-B O O O O

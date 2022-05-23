@@ -1,8 +1,8 @@
-미국 주도의 국제동맹군은 이틀 동안이라크 북부 유전지대를 9차례, 시리아 코바니 등지를 3차례 공습하면서 IS를 압박하였다 .	ORG-B O O O ORG-B O O O LOC-B O O O O ORG-B O O
+미국 주도의 국제동맹군은 이틀 동안이라크 북부 유전지대를 9차례, 시리아 코바니 등지를 3차례 공습하면서 IS를 압박하였다 .	ORG-B O O O ORG-B O O O LOC-B LOC-I O O O ORG-B O O
 한국감정원이 2013년 4분기부터 2016년 2분기까지 조사하+ㄴ 상업용 부동산 공실률에 따르면 10.7%(2013년 4분기)를 기록하+ㄴ이래 13.4%(2016년 2분기)로 계속 상승 중이다 .	ORG-B O O O O O O O O O O O O O O O O O O
 23~24일 국내 최초 국제공인 승마대 .	O O O O O O
 다음 한 수는 어디 이+ㄹ까.해설=김승준 9단·글=윤양섭 전문기자 온라인 기보, 대국실, 생중계는 동아바둑(badu k. donga. com .	O O O O PER-B PER-B O O O O O O O O O O
-‘만능 오일’ 백 선생, 과거 쏟아지는 CF 거절 하+ㄴ이유는 .	O O PER-B O O O O O O O
+‘만능 오일’ 백 선생, 과거 쏟아지는 CF 거절 하+ㄴ이유는 .	O O PER-B PER-I O O O O O O
 서초구 반포동 반포자 이·서초동 아크로비스타, 강남구 청담동 휴먼스타빌·엘지빌라도 월세가 1000만원이 넘었다 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O MNY-B O O
 군사정보 관계자는 “인민을 먹이+ㄹ옥수수를 사+ㄹ 수 있는 자금을 남침 조짐이 한국 측에 발각되는 시간을 늘리는 데 투자하였다”고 평가하였다 .	O O O O O O O O O O ORG-B O O O O O O O O
 ○ 체첸 공정부 함락부 .	O O O O O

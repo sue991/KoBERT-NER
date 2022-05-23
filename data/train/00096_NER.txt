@@ -1,7 +1,7 @@
 그동안 더블린 규약은 이탈리아, 그리스, 헝가리 등 EU 외부와 국경을 맞대고 있는 국가들에만 부담을 지우고 독일 영국 등 국경이 맞닿아 있지 않은 다른 국가들에는 난민 입국을 거부하+ㄹ 수 있는 근거가 되+어+았다 .	O O O ORG-B ORG-B ORG-B O ORG-B O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O O O
-김진현은 4일 호주 시드니에서 열리+ㄴ 사우디아라비아와의 평가전에 선발출장하였다 .	PER-B O LOC-B O O ORG-B O O O
+김진현은 4일 호주 시드니에서 열리+ㄴ 사우디아라비아와의 평가전에 선발출장하였다 .	PER-B O LOC-B LOC-I O ORG-B O O O
 또한 그는 외국어 능력 부문에서는 토익(TOEIC) 500점을 보유하고 있으며, 비록 '하(下)' 수준이 기+ㄴ하지만 덴마크 어도 하+ㄹ줄 알+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-한반도 최고·최대 수리시설 김제 벽골제, 초낭 확 .	LOC-B O O LOC-B O O O O
+한반도 최고·최대 수리시설 김제 벽골제, 초낭 확 .	LOC-B O O LOC-B LOC-I O O O
 검찰은 이어 “황씨가 1998년 방북 후판 문점을 통하+여 남한으로 오+ㄹ 때 +ㄴ 없었던 일기장이 어떻게 황씨에게 전달되었는지 수사하+여야 하+ㄴ다”고 주장 하+ㄴ 것으로 알려지었다 .	O O PER-B O O O O O LOC-B O O O O O O PER-B O O O O O O O O
 또 전용면적 대비 약 50%의 발코니 설치와 넓은 현 관 계획을 통하+여수납을 극대화 하+ㄴ 특징이 있다 .	O O O O O O O O O O O O O O O O O
 LG전자는 초소형 포토프린터 ‘포켓포토’ 신제품을 21일 선보이었다 .	ORG-B O O O O O O O
@@ -10,5 +10,5 @@ LG전자는 초소형 포토프린터 ‘포켓포토’ 신제품을 21일 선�
 애니메이션의 명가 ‘픽사’의 신작 ‘인사이드 아웃’이 오늘(9일) 개봉하+ㄴ다 .	O O ORG-B O O O O O O
 참가신청은 31일부터 공식 홈페이지를 통하+여 가능하다 .	O O O O O O O
 1인 가구가 가정에서 먹을 때 500ml는 부족하고, 2L는 혼자 마시기에 +ㄴ 많아 개봉 후보 존기간이 길어지+어 불편하였다 .	O O O O O O O O O O O O O O O O O O
-자세 하+ㄴ 내용은 기업 경영컨설팅 전문기업인 비즈니스 마이트(bizmight. co.kr), 기업 경영상담센터(hand.bizmight. co.kr) 참고. 김성국 전문위원·비즈니스 마이트 기업 경영상담센 .	O O O O O O ORG-B O O O O O PER-B O ORG-B O O O O
+자세 하+ㄴ 내용은 기업 경영컨설팅 전문기업인 비즈니스 마이트(bizmight. co.kr), 기업 경영상담센터(hand.bizmight. co.kr) 참고. 김성국 전문위원·비즈니스 마이트 기업 경영상담센 .	O O O O O O ORG-B ORG-I PER-I O O O PER-B PER-I ORG-B ORG-I O O O
 특히 S사는 장비를 납품하기 전에 선급금 명목으로 이미 100억원 가량을 챙기+ㄴ 것으로 알려지었다 .	O ORG-B O O O O O O MNY-B O O O O O

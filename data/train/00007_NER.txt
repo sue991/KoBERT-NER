@@ -1,7 +1,7 @@
 예컨데 유대치는 이동인의 소개를 받아 직접 오촌 의 원산포교당으로 찾아가 +았다 .	O PER-B PER-B O O O LOC-B O LOC-B O O O
 시진핑(習近平) 중국 국가주석이 3일 전승절 70주년 열병식에서 병력을 230만명에서 30만명 감축하겠다고 선언하였으나 국방예산은 크게 늘어나 +ㄹ 것이라는 전망이 나오았다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O
 이 센터장은 침술치료에 있어 차세대 명의로 꼽히+ㄴ다 .	PER-B O O O O O O O
-‘해피투게더’ 타이거 JK “아버지, 나보다 윤 미래 먼저 +았다” …사연 듣어보니 .	O PER-B O O O O O O O O O O
+‘해피투게더’ 타이거 JK “아버지, 나보다 윤 미래 먼저 +았다” …사연 듣어보니 .	O PER-B PER-I O O O O O O O O O
 위경련·인두염 앓는 朴 대통령 “오늘 공식 일정은 없다 .	O O PER-B O O O O O O
 이에 MC들은 “샤이니가 딱 붙는 무대의상을 많이 입던데 오늘도 바지가 딱 맞는 것 같다”라고 말하였다 .	O O ORG-B O O O O O O O O O O O O O
 평소 물을 적게 마시는 최씨 +이었지만 하루에 물 2L를 마시면서 짜+ㄴ 음식과 고단백 식품을 피하는 식단을 실천하였다 .	O O O O PER-B O O O O O O O O O O O O O
@@ -9,4 +9,4 @@
 이후 냉장고에서 땅콩잼이 발견되자, 제시는 "땅콩잼을 숟가락으로 퍼먹는다 .	O O O O PER-B O O O O
 ‘녹아’(Melting) ‘ICaughtYa’ ‘Stuck’ 총 6곡이 수록되었다 .	O O O O O O O
 한국 요식업의 발전이 여기에 달리 +어 있다 .	LOC-B O O O O O O O
-※필자(44)는 싱가포르 요리학교 샤텍유학 뒤 그 곳리츠칼턴 호텔에서 일하였다 .	O LOC-B O ORG-B O O ORG-B O O O
+※필자(44)는 싱가포르 요리학교 샤텍유학 뒤 그 곳리츠칼턴 호텔에서 일하였다 .	O LOC-B O ORG-B O O ORG-B ORG-I O O

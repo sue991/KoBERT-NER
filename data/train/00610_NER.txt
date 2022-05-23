@@ -8,5 +8,5 @@
 연해주에 제2의 개성공단을 세우는 것도 실천 가능 하+ㄴ 방안의 하나+이다 .	LOC-B O O O O O O O O O O
 국제적 이+ㄴ 경제 제재를 받고 있는 북한 지도부는 벌써 고난의 행군을 말하고 있다 .	O O O O O O ORG-B O O O O O O O
 피습으로 현지 경찰관 세 명 가운데 두 명이 숨지고, 한 명이 크게 다치었다 .	O O O O O O O O O O O O O O
-사건 발생 두 시간 뒤 “이슬람 극단주의 무장단체 이+ㄴ IS와 연계되었다”고 주장하는 ‘킬라파의 군대’ +이라는 단체가 트위터에 자신들의 소행이라고 밝히었다 .	O O O O O ORG-B O O O ORG-B O O ORG-B O O O O O O O O
+사건 발생 두 시간 뒤 “이슬람 극단주의 무장단체 이+ㄴ IS와 연계되었다”고 주장하는 ‘킬라파의 군대’ +이라는 단체가 트위터에 자신들의 소행이라고 밝히었다 .	O O O O O ORG-B ORG-I ORG-I O ORG-B O O ORG-B ORG-I O O O O O O O
 정부는 IS의 소행으로 추정되는 이번 공격이 한국을 겨냥하+ㄴ 것이 +ㄴ지는 아직 예단 하+ㄹ 수 없다며 신중하+ㄴ 반응을 보이었다 .	O ORG-B O O O O ORG-B O O O O O O O O O O O O

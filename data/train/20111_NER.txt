@@ -1,6 +1,6 @@
 박한별, 정은우와 결별… 공개 열애 7개월 만 결별 이유알고 보니 .	PER-B PER-B O O O O O O O O O
 올해는 중앙대(서울)가 다군에서 창의ICT공과대학 등 자연계열 선발을 추가 하+여 상위권 학생들이 막판에 몰리+ㄹ 것으로 보이+ㄴ다 .	O LOC-B O O O O O O O O O O O O O O
-인문계 최상위권은 가군에서 서울대를 지원 하+ㄴ 학생이 대체로 나군에서 고려대 경영대와 연세대 경제학부 등에 지원 하+ㄴ다 .	O O O ORG-B O O O O O ORG-B O ORG-B O O O O O
+인문계 최상위권은 가군에서 서울대를 지원 하+ㄴ 학생이 대체로 나군에서 고려대 경영대와 연세대 경제학부 등에 지원 하+ㄴ다 .	O O O ORG-B O O O O O ORG-B ORG-I ORG-B ORG-I O O O O
 야당이 모두 반대표를 던지었다는 가정 하에 새누리당에서 7표의 반란표가 나오았다고 추정 하+ㄹ 수 있다 .	O O O O O O ORG-B O O O O O O O O
 정의당(5석)은 이날 이 후보자의 인준에 반대하는 뜻으로 본회의에 불참하였다 .	ORG-B O O O O O O O O O
 앞서 새정치연합은 의원총회를 통하+여 양심에 따르 아자유투표에 임하기로 결정, 이완구 인준동의 표결에 참석하였다 .	O ORG-B O O O O O O O PER-B O O O O
@@ -9,8 +9,8 @@
 이로써 가습기 살균제로 인하+ㄴ 피해자 수는 총 258명으로 확정되었다 .	O O O O O O O O O O
 그 이후 구름다리가 조계사에서 관음전으로 통하는 유일하+ㄴ 출입구 +이었다 .	O O O LOC-B O O O O O O
 최근 연습경기에서 임동섭과 김준일이 잘 하+여주+어더 만족스럽었다 .	O O PER-B PER-B O O O O
-KB투자증권과 현대증권을 합하+여자기자본 약 4조원의 업계 3위 증권사를 보유하게 되+ㄴ KB금융지주는 명실상부하+ㄴ종합금융그룹으로 도약하+ㄹ 수 있게 +었다 .	ORG-B ORG-B O O MNY-B O O O O O ORG-B O O O O O O
+KB투자증권과 현대증권을 합하+여자기자본 약 4조원의 업계 3위 증권사를 보유하게 되+ㄴ KB금융지주는 명실상부하+ㄴ종합금융그룹으로 도약하+ㄹ 수 있게 +었다 .	ORG-B ORG-B O O MNY-B O O O O O ORG-B ORG-I O O O O O
 한국 선수 중에서 +ㄴ 김현태(26)가 유일하게 출전하+ㄴ다 .	O O O O PER-B O O O
 이에 윤원형은 “나+ㄴ 지금 난정(박주미)이를 막고 싶다 .	O PER-B O O PER-B O O O
-스티븐 스필버그 감독, 뉴욕 메츠 구단주, 상·하원의원, HSBC 같은 세계적 금융회사들까지 말려들었다 .	PER-B O O ORG-B O O O ORG-B O O O O O
+스티븐 스필버그 감독, 뉴욕 메츠 구단주, 상·하원의원, HSBC 같은 세계적 금융회사들까지 말려들었다 .	PER-B PER-I O ORG-B ORG-I ORG-I O ORG-B O O O O O
 총 32차례의 개막전에서 20승 1무11패로 0.645의 최고 승률을 기록 중이다 .	O O O O O O O O O O O

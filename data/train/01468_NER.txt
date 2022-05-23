@@ -1,7 +1,7 @@
 구글 검색어 역시 올해 국내 뉴스/사회 검색에서 지진이 1위를 차지하였다. 태양의 후예vs 구르미 그리+ㄴ달빛 올해 방송 관련 검색어에서는 올해 초 방영하+ㄴ KBS 드라마 태양의 후예와 올해 하반기 방영 하+ㄴ KBS 드라마 구르미 그리+ㄴ달빛이 상위권에 오르았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O
 중국이 4차 산업혁명의 핵심 분야 이+ㄴ 전기자동차 시장을 선점하면서 한국을 압도하고 있다 .	ORG-B O O O O O O O O ORG-B O O O
 상승하였다. 하반기 지방 분양시장에 물량을 선보이는 건설사는 8개사로 현대엔지니어링, 대우건설, 포스코건설, GS건설, 대림산업, 롯데건설, SK건설, 현대산업개발 등이다 .	O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O
-경북SW융합사업단이 주관하고 구미전자정보기술원 대구대 등이 참여하+ㄴ다 .	ORG-B O ORG-B O O O O
+경북SW융합사업단이 주관하고 구미전자정보기술원 대구대 등이 참여하+ㄴ다 .	ORG-B O ORG-B ORG-I O O O
 북한이 여러 발의 미사일을 동시다발적으로 한국과 일본을 향하+여발사하고, 일부 미사일에 핵탄두를 탑재하+ㄴ다면 일본의 미사일 방어시스템으로도 완전히 막기 어렵ㄹ 수 있다 .	ORG-B O O O O ORG-B ORG-B O O O O O ORG-B O O O O O O O O
 ‘나+의 딸 금사월’ 유재석 1인 3역 카메오 예고, 단발머리++콧수염 ++빵 모자 화가 변신…정극도전? 국민MC 유재석이 MBC 주말 드라마 ‘나+의 딸 금사월’에 깜짝 출연하+ㄴ다 .	O O O PER-B O O O O O O O O O O PER-B ORG-B O O O O O O O O
 고대 그리스가 동성애의 천국이었을지 모르지만 현대 그리스는 동성애를 죄악시, 금기시하기 때문이다 .	O LOC-B O O O O LOC-B O O O O O

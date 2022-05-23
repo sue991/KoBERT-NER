@@ -1,4 +1,4 @@
-혼마는 일본의 유명 골프클럽 제조업체로 2010년 중국의 머라이언 홀딩스에 인수되었다 .	ORG-B LOC-B O O O O LOC-B ORG-B O O O
+혼마는 일본의 유명 골프클럽 제조업체로 2010년 중국의 머라이언 홀딩스에 인수되었다 .	ORG-B LOC-B O O O O LOC-B ORG-B ORG-I O O
 인민망은 중국 제가 되+ㄴ 혼마골프채를 아베가 트럼프에게 선물 하+ㄴ 것에는 아베 총리가 보호무역주의자 이+ㄴ 트럼프 당선인에게 보내는 경고의 의미가 은밀하게 담기 +어 있다고 분석하였다 .	ORG-B O O O ORG-B PER-B PER-B O O O PER-B O O O PER-B O O O O O O O O O O
 이제는 중국 기업이 되+ㄴ 일본 기업의 제품을 통하+여 글로벌화되고 있는 세계시장의 중요성을 알리려고 +였다는 해석이다 .	O LOC-B O O LOC-B O O O O O O O O O O O
 이동통신 3사가 직영 온라인 쇼핑몰 경쟁에 돌입하였다 .	O O O O O O O O
@@ -7,11 +7,11 @@
 기술 수준도 한국 업체를 위협하+ㄹ 수준까지 +았다는 평이다 .	O O LOC-B O O O O O O
 김영삼 대통령과 50년 지기 이+ㄴ 때문이지요 .	PER-B O O O O O O
 반면 삼성, 선경, 대우, 대한항공, 코오롱 등은 직원 사기를 위하+여TV 시청을 암묵적으로 허용 하+ㄹ 방침이다 .	O ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O
-한국 정부가 내놓은 ‘2030년 온실가스 배출 전망치(BAU) 대비 37% 감축’이라는 목표를 달성하려면 고강도 에너지 다이어트가 시급하기 때문이다 .	ORG-B O O O O O O O O O O O O O O O O O
+한국 정부가 내놓은 ‘2030년 온실가스 배출 전망치(BAU) 대비 37% 감축’이라는 목표를 달성하려면 고강도 에너지 다이어트가 시급하기 때문이다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O
 한 쌍이 한국에 오+ㄴ다 .	O O LOC-B O O
 통관인증제를 통하+여국내로 들어 오+ㄴ 제품 건수는 제도가 처음 도입되+ㄴ 2012년 1만3492 건에서 지난해 170만 7591건으로 증가하였다 .	O O O O O O O O O O O O O O O O O
 르노삼성자동차에는 ‘고급형 타이어 공기압 자동감지시스템’이 기본으로 장착되 +어 있다 .	ORG-B O O O O O O O O O
 최성“특검 박근혜 300억 수 수 확인, 다시는 ‘범법자’ 대통령 나오아서 +ㄴ 안 되+어 .	O PER-B MNY-B O O O O O O O O O O O
-광주 군공항 이전을 위하+ㄴ범시민추진위원회(위원장 신원형)는 대구공항과 동일하게 광주공항에도 범정부 차원의 지원을 요구하는 건의문을 국방부에 전달하였다고 18일 밝히었다 .	LOC-B O O ORG-B PER-B LOC-B O LOC-B ORG-B O O O O ORG-B O O O O
+광주 군공항 이전을 위하+ㄴ범시민추진위원회(위원장 신원형)는 대구공항과 동일하게 광주공항에도 범정부 차원의 지원을 요구하는 건의문을 국방부에 전달하였다고 18일 밝히었다 .	LOC-B LOC-I O ORG-B PER-B LOC-B O LOC-B ORG-B O O O O ORG-B O O O O
 무대에서 +ㄹ 수 있는 최대 인원은 24명으로 체임버오케스트라 규모의 연주가 가능하다 .	O O O O O O O O O O O O
 과거 ‘패스트 팔로어(FastF ollower·발 빠르 +ㄴ 추격자)’+이었던 중국 기업이 업계 혁신을 주도하는 ‘퍼스트 무버(FirstMover·시장 선도자)’로 올라서 +었음을 잘 보이어주는 사례가 바로 이 항이다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O O O

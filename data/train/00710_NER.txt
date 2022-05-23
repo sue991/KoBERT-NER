@@ -1,8 +1,8 @@
 이러다 보니 2013년 말 기준 산업통상자원부가 지원 하+ㄴ R&D 사업의 특허출원 건수 대비 우수특허비율은 3.6%에 머물고 있다 .	O O O O O ORG-B O O O O O O O O O O O O
-2014년 론칭한 잡화 브랜드 덱케와 지난해 론칭한 랑방 컬렉션 액세서리, 더 캐시미어 등 신규 브랜드 도 덕분에 쉽게 자리를 잡을 수 있었다 .	O O O O ORG-B O O ORG-B O O ORG-B O O O O O O O O O O O O
-오바마 전 대통령은 2015년 캐나다 앨버타 주에서 미네브래스카 주를 잇는 키스톤XL 송유관 프로젝트를 불허 하+ㄴ바 있다 .	PER-B O O O LOC-B LOC-B O LOC-B O O O O O O O O O
+2014년 론칭한 잡화 브랜드 덱케와 지난해 론칭한 랑방 컬렉션 액세서리, 더 캐시미어 등 신규 브랜드 도 덕분에 쉽게 자리를 잡을 수 있었다 .	O O O O ORG-B O O ORG-B ORG-I ORG-I ORG-B ORG-I O O O O O O O O O O O
+오바마 전 대통령은 2015년 캐나다 앨버타 주에서 미네브래스카 주를 잇는 키스톤XL 송유관 프로젝트를 불허 하+ㄴ바 있다 .	PER-B O O O LOC-B LOC-B LOC-I LOC-B LOC-I O O O O O O O O
 시애틀과 1년 계약이 끝나 +았기 때문에 에이전트가 새롭ㄴ 계약을 준비 중이다 .	ORG-B O O O O O O O O O O O
-대우조선이 도산하+ 여 빚 잔치를 하면 전체 채권 21조4614억원 가운데 26%만 회수 가능하+ㄹ 것으로 보이+ㄴ다 .	ORG-B O O O O O O O MNY-B O O O O O O O
+대우조선이 도산하+ 여 빚 잔치를 하면 전체 채권 21조4614억원 가운데 26%만 회수 가능하+ㄹ 것으로 보이+ㄴ다 .	MNY-I O O O O O O O MNY-B O O O O O O O
 육절기 부품 가운데 사라지었던 톱날은 의왕시 청계산 근처에서 찾아내 +었다 .	O O O O O LOC-B LOC-B O O O O
 금강하구에 +ㄴ강과 바 .	LOC-B O O O
 6·25전쟁 중에는 공군사관학교 부교장 겸 교수부장으로 사관생도 교육과 전투비행단의 작전 및 후방지원 임무를 맡았다 .	O O ORG-B O O O O O O O O O O O O

@@ -3,7 +3,7 @@
 24개월로 계산하면 최대 48만원을 할인받을 수 있다 .	O O O MNY-B O O O O
 KT는 '프리미엄 슈퍼 현대카드'가 여기에 해당 하+ㄴ다 .	ORG-B O O O O O O O
 이 후보는 “반드시 낡은 정치, 패권지역주의와 싸우어 이기겠다”고 +였다 .	PER-B O O O O O O PER-B O O
-뉴욕 맨해턴의 링컨센터 근처 AAA 사무소 .	LOC-B LOC-B LOC-B O LOC-B O O
+뉴욕 맨해턴의 링컨센터 근처 AAA 사무소 .	LOC-B LOC-B LOC-B O LOC-B LOC-I O
 새해 벽두부터 경기 부진에 대하+ㄴ 우려에 증시 폭락, 정부의 인위적 개입과 실패가 반복되면서 중국 경제가 자생력을 잃고 경착륙하는 것 아니냐는 우려도 나오고 있다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O
 이동통신업체 3사가 최근 모바일 동영상 서비스를 강화하고 있다 .	O O O O O O O O O
 1세대 209급 잠수함(1200t급)도 3일간 스노클링 없이 잠항 하+ㄹ 수 있고 45일간 작전이 가능하다 .	O O O O O O O O O O O O O O

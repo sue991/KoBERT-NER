@@ -1,5 +1,5 @@
 스포츠 브랜드 뉴발란스가 미국 프로야구 미네소타트윈스의 박병호(30·사진)를 후원하+ㄴ다 .	O O ORG-B ORG-B O ORG-B PER-B O O
-1995년 롯데 지휘봉을 잡았을 때는 KBO 리그 사상 처음으로 200도루를 돌파하기도 +였다 .	O ORG-B O O O ORG-B O O O O O O O
+1995년 롯데 지휘봉을 잡았을 때는 KBO 리그 사상 처음으로 200도루를 돌파하기도 +였다 .	O ORG-B O O O ORG-B ORG-I O O O O O O
 홍기택(64) KDB산업은행 회장이 ‘중국 판 세계은행’이+ㄴ아시아 인프라 투자은행(AIIB) 부총재를 맡는다 .	PER-B ORG-B O ORG-B O O O ORG-B O O O
 동아에스티(대표이사 사장 박찬일)는 올해 글로벌 마케팅 강화를 통하+여박 카스의 해외 매출 확대에 나서겠다고 21일 밝히었다 .	ORG-B O PER-B O O O O O O O O O O O O O
 평소 린썬은 장제스가 무슨 말을 하건 듣기만 +였다 .	O PER-B PER-B O O O O O O

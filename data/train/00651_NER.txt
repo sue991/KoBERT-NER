@@ -1,7 +1,7 @@
 그렇게 탄생하+ㄴ 회사가 페이팔이다 .	O O O ORG-B O
-광현호는 지난해 2월 부산 감천항에서 출항하+여 인도양의 세이셸 군도 일대에서 조업 중이었다 .	PER-B O O LOC-B LOC-B O LOC-B LOC-B O O O O O
+광현호는 지난해 2월 부산 감천항에서 출항하+여 인도양의 세이셸 군도 일대에서 조업 중이었다 .	PER-B O O LOC-B LOC-B LOC-I LOC-B LOC-B LOC-I O O O O
 이어 “’ 딴따라’를 사랑 하+여주시+ㄴ팬분들께도 진심으로 감사하다 .	O O O O O O O O
-『바티스타 독재정권 타도를 위하+ 여두 형제와 함께 카스트로가 이끌는 무장혁명 활동에 참여하였던 것이 사실이다 .	ORG-B O O O O O O PER-B O O O O O O O
+『바티스타 독재정권 타도를 위하+ 여두 형제와 함께 카스트로가 이끌는 무장혁명 활동에 참여하였던 것이 사실이다 .	ORG-B ORG-I O O O O O PER-B O O O O O O O
 지난해, 자신의 체제 구도를 완성하였음을 만천하에선포하기 위하+여 5월에 진행하+ㄴ 7차 노동당 대회에서도 핵보유를 외치었다 .	O O O O O O O O O O O O O O O
 박근혜 측 “재단 출연금 뇌물아냐” … 구속 심사서 혐의 부인 예 .	PER-B O O O O O O O O O O O
 영­이 ­스페인 등 “우리가 2류나라+이냐” 발 .	ORG-B ORG-B O O ORG-B O O

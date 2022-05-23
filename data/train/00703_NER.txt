@@ -1,5 +1,5 @@
 [영상] I 'mYourFath er!' 스타워즈'가 다가오+ㄴ다 .	O O O O O O O
-견본주택은 경기 화성시 방교리 29-1번지에 위치하+여 있으며, 2018년 12월 입주 예정이다 .	O LOC-B LOC-B LOC-B O O O O O O O O
+견본주택은 경기 화성시 방교리 29-1번지에 위치하+여 있으며, 2018년 12월 입주 예정이다 .	O LOC-B LOC-B LOC-B LOC-I O O O O O O O
 중국 인민해방군 해군 소속 함정이 1일 동중국해에서 미사일을 발사하고 있다 .	ORG-B O O O O O LOC-B O O O O
 농협, 1억 보이스피싱 감지범인 검거 돕 .	ORG-B MNY-B O O O O O
 전북 최강희 감독은 후반에 승부수를 띄우었다 .	ORG-B PER-B O O O O O
@@ -11,8 +11,8 @@
 정세권은 왕십리 일대의 땅을 사들이며 일본의 계획을 막았다 .	PER-B LOC-B O O O ORG-B O O O
 국토부 관계자는 “해당 차량들은 이미 종합시험 운전 등의 완성검사를 모두 거치었으므로 안전운행에 지장이 없을 것으로 보+ㄴ다”고 해명하였다 .	ORG-B O O O O O O O O O O O O O O O O O
 외환위기로 인하+여 한국은행이 동전 거래량을 줄이었기 때문이다 .	O O ORG-B O O O O O
-‘500원 희귀동전’의 도감 가는 5만원에 불과하지만 현재 시세는 70~80만원에 거래되고 있다 .	MNY-B O O O MNY-B O O O MNY-B O O O
+‘500원 희귀동전’의 도감 가는 5만원에 불과하지만 현재 시세는 70~80만원에 거래되고 있다 .	MNY-B O O O MNY-B MNY-I O O MNY-B O O O
 배우 송혜교가 드라마 사전 제작에 대하+ㄴ 장단점을 밝히었다 .	O PER-B O O O O O O O
-22일 오후 서울 강남 논현동 임피리얼 팰리스 호텔에서는 KBS2TV 새 수목 드라마 ‘태양의 후예’ 제작 발표회가 열리었다 .	O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O
+22일 오후 서울 강남 논현동 임피리얼 팰리스 호텔에서는 KBS2TV 새 수목 드라마 ‘태양의 후예’ 제작 발표회가 열리었다 .	O O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O
 이날 송혜교는 “급하게 찍지 않아서 이야기 하+ㄹ 시간이 많아서 좋았다 .	O PER-B O O O O O O O O O
 이 점은 아시아의 다른 신흥국가들에도 문제 이+ㅂ니다 .	O O LOC-B O O O O O

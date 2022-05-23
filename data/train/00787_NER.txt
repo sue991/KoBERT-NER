@@ -1,9 +1,9 @@
 신규 면세점들이 주차장 확보 계획을 제대로 이행하지 않는다면 불이익을 주는 등 사후관리 방안을 관세청에 건의하+ㄹ 예정이다 .	O O O O O O O O O O O O O ORG-B O O O
 초코파이를 통하+여 마음을 전하+ㄹ 수 있는 따뜻하+ㄴ 프로모션을 지속적으로 전개하+ㄹ 예정”이라고 말하였다 .	O O O O O O O O O O O O O
-15일 오전 울산 동구 현대중공업 특수선독에서 해군의 차기 상륙함 2벌+ㄴ다하+ㅁ이+ㄴ ‘천자봉함’이진수식을 통하+여 위용을 드러내고 있다 .	O O LOC-B LOC-B LOC-B O O O O O O O O O O O
+15일 오전 울산 동구 현대중공업 특수선독에서 해군의 차기 상륙함 2벌+ㄴ다하+ㅁ이+ㄴ ‘천자봉함’이진수식을 통하+여 위용을 드러내고 있다 .	O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O
 ”사고 직후 서울메트로 관계자는 김씨 어머니에게 “보고를 제대로 하지 않고 작업을 하+ㄴ 아이의 과실”이라고 말하었다고 하+ㄴ다 .	O O ORG-B O PER-B O O O O O O O O O O O O
-아르침볼 돌는 막시밀리안 2세의 공식 초상화 화가로 일하던 시절 역사학자 볼프강라지우스(WolfgangLazius)의 초상화를 그리었다 .	PER-B O PER-B O O O O O O O PER-B O O O
-재무부는 9일 외국보험중개회사 이+ㄴ 미국의 알렉산더 앤알렉산더(Alexander&Alexander)사와 영국의 윌리 스페이버앤 두 마스(Willis Faber&Dumas)사 등 2개사의 국내 보험대리점업을 내 허가 +하였다고 밝히었다 .	ORG-B O O O ORG-B ORG-B ORG-B ORG-B O O O ORG-B O O O O O O O O O O
+아르침볼 돌는 막시밀리안 2세의 공식 초상화 화가로 일하던 시절 역사학자 볼프강라지우스(WolfgangLazius)의 초상화를 그리었다 .	PER-B PER-I PER-B PER-I O O O O O O PER-B O O O
+재무부는 9일 외국보험중개회사 이+ㄴ 미국의 알렉산더 앤알렉산더(Alexander&Alexander)사와 영국의 윌리 스페이버앤 두 마스(Willis Faber&Dumas)사 등 2개사의 국내 보험대리점업을 내 허가 +하였다고 밝히었다 .	ORG-B O O O ORG-B ORG-I ORG-I ORG-B O O O ORG-B ORG-I O O O O O O O O O
 SBS 보도에 따르면 이 의원은 정규직 전환을 요구하는 학교급식 노동자들의 파업과 관련 하+ㄴ기자의 질문에 비정규직 노동자들을 "미친 놈들", "그냥 밥 하는 동네 아줌마들"이라고 표현하였다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O
 江南通新이 사람들이 좋아하는 요리와 이 요리로 입소문 나+ㄴ 유명 맛집을 선정하+여서 소개하는 ‘레드스푼 5’를 시작하+ㅂ니다 .	O O O O O O O O O O O O O O O O
 프로야구 NC는 “이재학은 결백을 주장하고 있으나 사안이 중대해 객관적 이+ㄴ 사실관계가 확인되 +ㄹ 때까지 1군에서 제외하는 것이 선수를 위하+ㄴ 최선의 조치+이라 판단하였다”고 밝히었다 .	O ORG-B PER-B O O O O O O O O O O O ORG-B O O O O O O O O O

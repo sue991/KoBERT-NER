@@ -1,5 +1,5 @@
 與 “우리 힘 확인” 투쟁만 강조 …野 다수당 책임 잊고 조롱 .	O ORG-B O O O O O O O O O O
-시애틀 쿼터백 러셀 윌슨은 “왜 패싱을 하라고 +였는지 이해가 안 되+ㄴ다”며 작전을 지시하+ㄴ 오펜시브 코치를 우회적으로 비난하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O O
+시애틀 쿼터백 러셀 윌슨은 “왜 패싱을 하라고 +였는지 이해가 안 되+ㄴ다”며 작전을 지시하+ㄴ 오펜시브 코치를 우회적으로 비난하였다 .	ORG-B O PER-B PER-I O O O O O O O O O O O O O O
 김용희 감독은 “한화가 스파르타+이라면, SK는 아테네”라고 비유하+ㄴ적이 있다 .	PER-B O ORG-B O ORG-B LOC-B O O O
 고 사장은 “먼저 제품을 받은 소비자들의 물량을 교체하+ㄴ 뒤부터 다시 판매를 재개하겠다”고 말하였다 .	PER-B O O O O O O O O O O PER-B O O
 문제는 의령뿐 아니라 다른 군 지역도 비슷하다는 점이다 .	O LOC-B O O O O O O O

@@ -1,7 +1,7 @@
-필리핀 마닐라에서 열리+ㄴ 기증식에는 이중근 부영그룹 회장과 아르민루이스트로 필리핀 교육부 장관, 현지 학생 등 500여명이 참석하였다 .	ORG-B LOC-B O O PER-B ORG-B O PER-B ORG-B O O O O O O O O
+필리핀 마닐라에서 열리+ㄴ 기증식에는 이중근 부영그룹 회장과 아르민루이스트로 필리핀 교육부 장관, 현지 학생 등 500여명이 참석하였다 .	ORG-B LOC-B O O PER-B ORG-B O PER-B ORG-B ORG-I O O O O O O O
 문체부 관계자는 “갑작스럽 ㄴ 지시에 우리도 황당하였다”며 “급하게 지원하려다 보니 적립금에 손을 대+ㄹ 수밖에 없었다”고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O
-브랜드 스탁의 강옥근 국장은 “기업 간 경쟁이 더욱 심하+여지면서 장기적으로 고객의 신뢰를 얻을 수 있는 강력 하+ㄴ 브랜드 구축이 기업들에 더욱 필요하+여지+ㄴ 상황”이라고 말하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O ORG-B O O O O O O O
-영국 데일리메일에 따르면 이 사고는 우크라이나 자포리지아 주(州)에서 발생하였으며, 영상 속 우크라이나 남성은 차비 약 1200원을 아끼려고 버스에 매달 리+어가+ㄴ 것으로 추정되+ㄴ다 .	ORG-B O O O O LOC-B O O O O O LOC-B O O O MNY-B O O O O O O O
+브랜드 스탁의 강옥근 국장은 “기업 간 경쟁이 더욱 심하+여지면서 장기적으로 고객의 신뢰를 얻을 수 있는 강력 하+ㄴ 브랜드 구축이 기업들에 더욱 필요하+여지+ㄴ 상황”이라고 말하였다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O ORG-B O O O O O O O
+영국 데일리메일에 따르면 이 사고는 우크라이나 자포리지아 주(州)에서 발생하였으며, 영상 속 우크라이나 남성은 차비 약 1200원을 아끼려고 버스에 매달 리+어가+ㄴ 것으로 추정되+ㄴ다 .	ORG-B ORG-I O O O LOC-B LOC-I LOC-I O O O LOC-B O O O MNY-B O O O O O O O
 본보기집은 서울 강남구 삼성동 9호선 삼성중앙역 인근에서 11일 개관 하+ㄴ다 .	O LOC-B LOC-B LOC-B O LOC-B O O O O O
 기내 흡연 김장훈, 공황장애 오+ㄹ때 +ㄴ “그냥 이대로 죽어버리+었으면 좋겠다 .	O O PER-B O O O O O O O O
 오는 9월부터 두 달간 열리는 ‘제주 LED 아트페스타’에서 아시아에서는 처음 선보이+ㄹ 그의 작품을 구상하기 위하+여서 +이다 .	O O O O O O O O LOC-B O O O O O O O O

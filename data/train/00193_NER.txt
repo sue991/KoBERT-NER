@@ -6,8 +6,8 @@
 애쓰어 찾아가 +ㄴ 메이저리그를 뒤로 하고 국내 복귀를 결정하는 데는 2012년 팔꿈치 수술이 결정적이었다 .	O O O O O O O O O O O O O O O
 톈궁 2호는 톈궁 1호보다 에너지 공급 등에서 성능이 향상되었다 .	O O O O O O O O O O
 중국은 다음달 중순 발사되 +ㄹ선저우(神舟) 11호 유인 우주선과 도킹 하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O
-3일 폭스뉴스 여론조사에 따르면 민주당 성향 유권자의 지지율에서 클린턴 전 장관이 51%로 1위 +이었고 민주당 성향의 무소속 버니 샌더스 상원의원이 22%, 바이든 부통령이 13%+이었다 .	O O O O ORG-B O O O PER-B O O O O O ORG-B O O PER-B O O O PER-B O O O
-성묘와 나들이를 함께하는 선진국형 가족 묘원을 지향하는 춘천 동산공원은 만남과 휴식이 공존하는 자연의 안식처로 자리 잡았다 .	O O O O O O O LOC-B O O O O O O O O O
+3일 폭스뉴스 여론조사에 따르면 민주당 성향 유권자의 지지율에서 클린턴 전 장관이 51%로 1위 +이었고 민주당 성향의 무소속 버니 샌더스 상원의원이 22%, 바이든 부통령이 13%+이었다 .	O O O O ORG-B O O O PER-B O O O O O ORG-B O O PER-B PER-I O O PER-B O O O
+성묘와 나들이를 함께하는 선진국형 가족 묘원을 지향하는 춘천 동산공원은 만남과 휴식이 공존하는 자연의 안식처로 자리 잡았다 .	O O O O O O O LOC-B LOC-I O O O O O O O O
 이미 1996년 8월 아시안컵 축구대회 공동중계를 둘러싸고 MBC와 감정싸움을 벌이+ㄴ KBS는 박찬호 경기중계에 사활을 걸었다 .	O O O O O O O ORG-B O O ORG-B PER-B O O O O
 그는 “1억원은 서울에서 사업을 하는 아버지가 대구 쪽에 갖고 있던 부동산을 매각하+ㄴ돈”이라며 “이달 말 이사하려는 아버지가 새집의 인테리어를 하는데 쓰려고 수표를 준비 하+ 여두 +ㄴ 것”이라고 진술하였다 .	O MNY-B LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
-위카톡의 내용에 따르 아실제로 강 변호사와 A 모씨는 여성중앙기자들과 함께 국립극장 앞에서 만나 +았다 .	O O O O PER-B O PER-B O O O LOC-B O O O O
+위카톡의 내용에 따르 아실제로 강 변호사와 A 모씨는 여성중앙기자들과 함께 국립극장 앞에서 만나 +았다 .	O O O O PER-B O PER-B PER-I O O LOC-B O O O O

@@ -1,10 +1,10 @@
-낙동강 옆에 조성 중 이+ㄴ대구 달성군 구지면 국가산업단지.10일 이곳에서 ‘국가물산업 클러스터’(KWC) 착공식이 열리었다 .	LOC-B O O O LOC-B LOC-B LOC-B ORG-B O ORG-B ORG-B O O O
+낙동강 옆에 조성 중 이+ㄴ대구 달성군 구지면 국가산업단지.10일 이곳에서 ‘국가물산업 클러스터’(KWC) 착공식이 열리었다 .	LOC-B O O O LOC-B LOC-B LOC-B LOC-I O ORG-B ORG-B O O O
 그런 그녀의 두 번째 소설 ‘가+아서 파수꾼을 세우어라(GoS etaW atchm an·이하 파수꾼)’가 55년 만이 +ㄴ 다음달 14일 전 세계에서 동시 출간되면서 세계인의 관심이 뜨거워 지+ㄴ 상태+이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
 성인 국가대표 첫 경기+이었던 3월 대만전에서 2도움, 10월 북한 전에서 1득점, 1도움을 기록하였다 .	O O O O O ORG-B O O ORG-B O O O O O
 16곡의 뮤지컬 넘버 하나하나가 까다롭지만 가장 역동적 이+ㄴ「프롤로그」와「 우리는 제트파」 2곡이 무척 힘들더군요. .	O O O O O O O O O O O O O O
 이 연구위원은 “이 시스템으로 하수관로 손상으로 인하+ㄴ지반함몰에 대비 하+ㄹ 수 있다”며 “각 지방자치단체에서 현장조사를 진행하+ㄴ 결과를 모으아 데이터베이스를 쌓으면 지반함몰 위험도 평가의 정확도를 높이 +ㄹ 수 있을 것으로 기대 하+ㄴ다”고 말하였다 .	PER-B O PER-B O O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O
 여기에 이번 맨부커상 수상으로 그 아성이 국내에만 머물지 않음을 입증하였다 .	O O O O O O O O O O O
-이 글은 비투비 새 앨범 'Feel’eM'의 수록곡 '빨리 뛰어'와 팝 가수 부르노 마스의 'That' sw hatIlike'를 비교하+ 여놓았다 .	O O ORG-B O O O O O O O O PER-B O O O O O O O
+이 글은 비투비 새 앨범 'Feel’eM'의 수록곡 '빨리 뛰어'와 팝 가수 부르노 마스의 'That' sw hatIlike'를 비교하+ 여놓았다 .	O O ORG-B O O O O O O O O PER-B PER-I O O O O O O
 8월까지 18경기에 등판 하+여 4승 4패, 평균 자책점 4.64에 그치었다 .	O O O O O O O O O O O
 유럽이 세계 축구의 중심이+ㄴ 것은 분명하지만 ‘유럽 아니면 안 되+ㄴ다’는 생각은 바뀌어야 하+ㄴ다”고 밝히었다 .	ORG-B O O O O O ORG-B O O O O O O O O
 반기문 유엔 사무총장과 정운찬 전 총리도 명예회원이다 .	PER-B ORG-B O PER-B O O O O

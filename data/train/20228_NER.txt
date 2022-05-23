@@ -1,7 +1,7 @@
 대법원은 주민공람 공고일을 기준으로 하+ㄹ 경우 이주대책 대상자에서 제외되는 안모씨 등 5명에 대하+ㄴ 심리를 다시 하라며 사건을 서울고법으로 돌려보내+었다 .	ORG-B O O O O O O O O PER-B O O O O O O O ORG-B O O
 또한 우리가 자주 먹는 탄수화물 100g당 당질 함유량을 보면 희+ㄴ 쌀밥 36g, 식빵 44g, 소면 25g으로 한식에서 당을 빼+ㄴ다는 것+ㄴ쉽지 않다 .	O O O O O O O O O O O O O O O O O O O O O O
 린드 박사는 "사람들은 상식적으로 인간을 닮은 동물이 기억 유지 시간이 길다고 생각하지만 침팬지는 20초 전의 일도 기억하지 못하+ㄴ다"고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-송대섭 고려대 약학과 교수는 “낙 타격리는 의학적으로 의미 없다 .	PER-B ORG-B O O O O O O O O
+송대섭 고려대 약학과 교수는 “낙 타격리는 의학적으로 의미 없다 .	PER-B ORG-B ORG-I O O O O O O O
 글=김기환기자khkim@joongang. co.kr사진=김현동기 .	PER-B PER-B O
 Fed가 인플레이션을 유발하는 것은 국가의 빚 부담을 줄이고 은행을 돕기 위 하+ㄴ 욕망의 발현이며, 그 피해는 고스란히 일반 국민과 중소기업 등이 입는다고 비판하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
 KSPO의 이 같은 혁신적 경영성과 뒤에는 이 이사장의 소통경영이 자리하고 있다 .	ORG-B PER-B O O O O PER-B PER-B PER-B O O O

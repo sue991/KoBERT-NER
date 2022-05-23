@@ -1,12 +1,12 @@
 문 후보는 공식 선거운동 첫날인 이날 대구를 시작으로 22일간의 대선 레이스에 들어가 +았다 .	PER-B O O O O O LOC-B O O O O O O O
 박 대표의 장기적 목표는 세상에서 가장 깨끗하+ㄴ 김치, 안심하고 먹을 수 있는 김치를 만들는 것이다 .	PER-B O O O O O O O O O O O O O O O
 컬럼비아는 통기성을 강화하+ㄴ 트레일화 ‘벤트레일리아(Ventrailia)’를 출시하+ㄴ다 .	PER-B O O O O O O
-손영동 한양대 융합국방학과 초빙교수 보기에도 답답하였던 ‘너+의 탓’ 공방이 많이 줄었고 TV토론 처음으로 정책 위주의 토론에 근접하였다 .	LOC-B ORG-B O O O O O O O O O O O O O O O O
-위례엘포트한라비발디의 분양홍보관은 경기도 성남시 수정구 위례광장로 21-13(위례 힘찬 프라자 2층)에 마련되며, 2월 오픈 예정이다 .	LOC-B O LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O O O
+손영동 한양대 융합국방학과 초빙교수 보기에도 답답하였던 ‘너+의 탓’ 공방이 많이 줄었고 TV토론 처음으로 정책 위주의 토론에 근접하였다 .	LOC-B ORG-B ORG-I O O O O O O O O O O O O O O O
+위례엘포트한라비발디의 분양홍보관은 경기도 성남시 수정구 위례광장로 21-13(위례 힘찬 프라자 2층)에 마련되며, 2월 오픈 예정이다 .	LOC-B O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O
 이에 따르 아이번 기업결합 심사 결과를 29일까지 발표하+여야 하+ㄴ다 .	O O O O O O O O O O
 온라인 중앙일보 ‘이영돈 pd가가+ㄴ다 .	O O O O O
 청와대의 부처 장악력을 높이는 차원에서 안 비서관의 역할이 크게 축소되었다고 보기 힘들다 .	ORG-B O O O O PER-B O O O O O O O
 복지부 관계자는 “지침 형식으로 전달 하+ㄴ 것이기 때문에 어린이집도 따르 아야 하+ㄴ다” +이라며 “이를 어기면 어떤 행정처분을 내리+ㄹ 수 있는지 검토 중”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
 스탠다드차타드은행 관계자는 “호텔·쇼핑·항공·병원·골프 등에서 ‘특급 대우’를 제공하+ㄴ다”고 설명하였다 .	ORG-B O O O O O O O O
 조합설립인가 신청일 현재 서울·인천·경기에 6개월 이상 거주 하+ㄴ 무주택자이거나 소형주택(전용 85m ²이하 1채) 소유자+이면 조합원 가입이 가능하다 .	O O O LOC-B O O O O O O O O O O O O O O
-지역의 전문 디벨로퍼로 손꼽히고 있는 GT 투자개발㈜은 모다아울렛 김천구 미점과 구미도량 미소짓+ㅁ, 구미남 통 e-편한세상 등 성공적 이+ㄴ 프로젝트 실적을 보유하고 있다 .	O O O O O ORG-B O LOC-B O O LOC-B O LOC-B O O O O O O O O O O
+지역의 전문 디벨로퍼로 손꼽히고 있는 GT 투자개발㈜은 모다아울렛 김천구 미점과 구미도량 미소짓+ㅁ, 구미남 통 e-편한세상 등 성공적 이+ㄴ 프로젝트 실적을 보유하고 있다 .	O O O O O ORG-B ORG-I LOC-B LOC-I LOC-I LOC-B LOC-I LOC-B O O O O O O O O O O

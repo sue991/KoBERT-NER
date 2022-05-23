@@ -1,13 +1,13 @@
-지난달 17일(미국 현지시간) 일리노이주시카고리글리필드에서 열리+ㄴ 메이저리그(MLB) 피츠버그와 시카고 컵스의 경기. 강정호(29·피츠버그)는 9회 초대 타로 출전 하+ 여컵스의 투수 저스틴 그린에게 삼진을 당하고 돌아서 +었다 .	O LOC-B O LOC-B O O ORG-B ORG-B O O ORG-B O O O O O O O PER-B O O O O O O
+지난달 17일(미국 현지시간) 일리노이주시카고리글리필드에서 열리+ㄴ 메이저리그(MLB) 피츠버그와 시카고 컵스의 경기. 강정호(29·피츠버그)는 9회 초대 타로 출전 하+ 여컵스의 투수 저스틴 그린에게 삼진을 당하고 돌아서 +었다 .	O LOC-B O LOC-B O O ORG-B ORG-B ORG-I O ORG-B O O O O O O O PER-B PER-I O O O O O
 최 지사는 "북한 관계자가 예의상하+ㄴ이야기는 아니었을 것이다 .	PER-B O ORG-B O O O O O
 미니실 벗한 대당 가격은 200만원 이하로 잡고 있다 .	O O O O MNY-B O O O O
 그렇다면 도대체 이유가 뭐 +이+ㄹ까. 김씨는 누나가 근무하는 여의도성모병원에 아이를 데리고 가+아 모든 검사를 다 하+여+보았지만 지극히 정상이었다 .	O O O O O PER-B O O LOC-B O O O O O O O O O O
 ‘결혼’ 이 미도, 해변 래쉬가드 뒤태 인증샷… 이런 것+이 바로 ‘건강하+ㄴ 섹시미 .	O O O O O O O O O O O O O
 지배자+이었던 프랑스는 엘니뇨로 대가뭄이 들 자원주민 땅을 빼앗았다 .	O ORG-B O O O O O O O
 정 총장이 그해 11월 계엄 확대회의에서 김재규의 범행을 미화하는 발언을 하였다는 주장도 인정하+ㄹ자료가 없다며 정 총장의 연행이 박정희 대통령 시해 사건 수사와 관련되 +ㄴ 것이었다는 신군부 측의 주장을 받아들이지 않았다 .	PER-B O O O O O PER-B O O O O O PER-B O PER-B O O PER-B O O O O O O O O O O O O O
-여자아이스하키 국가대표 한수진 선수 예원학교와 서울예술고를 거치+어 연세대 음대 피아노과 졸업.피아니스트로 정통 엘리트 코스만 밟아 오+ㄴ 손색 없는 ‘스펙’이다 .	O O PER-B ORG-B O ORG-B O ORG-B O O O O O O O O O O O O
-이러하+ㄴ GDP 개념을 고안하+ㄴ 사이먼 쿠즈네츠는 노벨경제학상을 받았다 .	O O O O PER-B O O O O
+여자아이스하키 국가대표 한수진 선수 예원학교와 서울예술고를 거치+어 연세대 음대 피아노과 졸업.피아니스트로 정통 엘리트 코스만 밟아 오+ㄴ 손색 없는 ‘스펙’이다 .	O O PER-B ORG-B ORG-I ORG-B O ORG-B ORG-I O O O O O O O O O O O
+이러하+ㄴ GDP 개념을 고안하+ㄴ 사이먼 쿠즈네츠는 노벨경제학상을 받았다 .	O O O O PER-B PER-I O O O
 이정현 “천정배, 당 배신하면 국민도 배신…인성부터 고치+어야 .	PER-B PER-B O O O O O O
 김지혁 회장은 “혹독하+ㄴ상대평가와 치열하+ㄴ 경쟁 때문에 스트레스를 받는 이 학교 학생들이 만들 +ㄴ 별명”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O
 서울 광진경찰서는 지나 +ㄴ 7월 최홍만의 사기 혐의를 인정하+여기소 의견으로 검찰 송치하였다 .	LOC-B ORG-B O O O PER-B O O O O O O O
-영국 하원과학기술위원회는 지난해 ‘디지털 스킬(DigitalSkill) 위기’ +이라는 보고서를 내+었다 .	ORG-B O O O O O O O O O
+영국 하원과학기술위원회는 지난해 ‘디지털 스킬(DigitalSkill) 위기’ +이라는 보고서를 내+었다 .	ORG-B ORG-I O O O O O O O O

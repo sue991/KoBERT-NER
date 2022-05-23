@@ -5,13 +5,13 @@
 피해자 어머니는 5년 전 숨지+ㄴ아들의 시신을 안치하였던 관을 메고 서울 서초구 서울중앙지검 앞에서 190일째 1인 시위를 벌이고 있다 .	O O O O O O O O O LOC-B LOC-B LOC-B O O O O O O O
 A씨는 그를 고객상담실로 유인하였다 .	PER-B O O O O
 싱가포르와 대만은 1974년부터 군사관계를 시작하였다 .	ORG-B ORG-B O O O O
-마리오 드라기 ECB 총재가 채권 매입 규모 확대 가능성을 시사하+ㄴ 것을 꼬집은 것이다 .	PER-B O ORG-B O O O O O O O O O O O
+마리오 드라기 ECB 총재가 채권 매입 규모 확대 가능성을 시사하+ㄴ 것을 꼬집은 것이다 .	PER-B PER-I ORG-B O O O O O O O O O O O
 월별 누적 적자 규모는 1월 4조7000억원, 2월 14조2000억원, 3월 25조8000억원으로 급증하였다 .	O O O O O MNY-B O MNY-B O MNY-B O O
 온라인 중앙일보 jstar@j oongang. co.kr김미진[사진 KBS 박명수의 라디오쇼 .	O ORG-B O O PER-B ORG-B O O O
-중국 공산당의 최고 권력그룹이 +ㄴ 7인의 정치국 상무위원들 가운데 호금도(52)가 최근 중국의 새롭ㄴ 실력자로 급속히 떠오르고 있는 것으로 14일 알려지었다 .	ORG-B O O O O O O O O PER-B O ORG-B O O O O O O O O O
+중국 공산당의 최고 권력그룹이 +ㄴ 7인의 정치국 상무위원들 가운데 호금도(52)가 최근 중국의 새롭ㄴ 실력자로 급속히 떠오르고 있는 것으로 14일 알려지었다 .	ORG-B ORG-I O O O O O O O PER-B O ORG-B O O O O O O O O O
 대우조선 사장 바뀌+ㄴ 뒤 감사… ‘호화 외유’ 포 .	ORG-B O O O O O O O O
 급여통장에도 고금리를 받고 싶다면, 스탠다드차타드은행의 ‘내지갑 통장’으로 옮기는 것도 좋은 방법이다 .	O O O O ORG-B O O O O O O O
 이씨는 19세기 초 ‘규합 총서(閨閤叢書)’를 통하+여 음식 조리부터 누에치기, 옷짓는 방법, 응급처치, 약물 제조법 등 다양하+ㄴ 실용지식을 총망라하였다 .	PER-B O O O O O O O O O O O O O O O O O O
 건보공단 “자택서 사망은 18% 그치+어”生 마감 전까지 심폐소생 등 연명치 .	ORG-B O O O O O O O O O O
-한편 이날 ‘캣츠 것+ㄹ’은 8표차로 ‘코스모스’를 누르고 가왕에 오르았다 .	O O PER-B O O PER-B O O O O
+한편 이날 ‘캣츠 것+ㄹ’은 8표차로 ‘코스모스’를 누르고 가왕에 오르았다 .	O O PER-B PER-I O PER-B O O O O
 대표팀에서 (심)석희나(최)민정이나 잘타는 선수들이 많아서 배우+ㄹ점이 많다 .	O PER-B O O O O O O

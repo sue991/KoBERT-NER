@@ -1,5 +1,5 @@
-2017년 개통하는 성남∼장호원 자동차전용도로 태전 나들목을 통하+여 서울 강남까지 30분대에 닿을 수 있다 .	O O LOC-B O O O O LOC-B O O O O O O
-독일 만하임 음대 대학원으로 유학을 떠나 +았다 .	ORG-B O O O O O O O
+2017년 개통하는 성남∼장호원 자동차전용도로 태전 나들목을 통하+여 서울 강남까지 30분대에 닿을 수 있다 .	O O LOC-B O O O O LOC-B LOC-I TIM-B O O O O
+독일 만하임 음대 대학원으로 유학을 떠나 +았다 .	ORG-B ORG-I ORG-I ORG-I O O O O
 우리은행, 3연승으로 ‘통합 5연패’ 달 .	ORG-B O O O O O
 재판부는 ＂ A씨는 B씨의 부정행위 및 폭언 등을 이유로 이혼을 요구하고 있지만 B씨는 이혼을 원하지 않는다는 입장만 밝히+ㄴ 채 관계 개선 노력을 기울이지 않고 있다 ＂고 지적하였다 .	O O PER-B PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O
 전 전 대통령은 이날 운동장에서 동문들과 국밥으로 점심식사를 하고 KTX로 서울에 돌아가 +ㄹ 예정이다 .	PER-B PER-B O O O O O O O O LOC-B O O O O

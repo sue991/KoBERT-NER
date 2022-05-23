@@ -5,5 +5,5 @@ EXR은 다양하+ㄴ 패치를 활용하+ㄹ 수 있는 ‘썸(SOME) 스니커�
 아디다스 공식 온라인 스토어(shop.adidas. co.kr)와 모바일 스토어(miadidas)를 방문하면 축구화·농구화·러닝화 등 32종의 운동화를 취향에 맞게 제작하+ㄹ 수 있다 .	ORG-B O O O O O O O O O O O O O O O O O
 경찰은 전 전 감독을 승부조작과 불법 스포츠 도박 혐의로 지난해 7월 말 불구속 기소 의견으로 사건을 검찰에 송치하+ㄴ바 있다 .	O PER-B PER-B O O O O O O O O O O O O O O O O O
 이 지역에서는 보기 드물+ㄴ 소형평형 위주의 구성에 4bay 설계를 도입하+ㄴ 것도 인기 요소이다 .	O O O O O O O O O O O O O O
-국가기록원 윤준희 기록 콘텐츠과장은 “국내 처음 선보이+ㄴ ‘텍스트 아트’ 기법”이라고 말하였다 .	ORG-B PER-B O O O O O O O O O O
+국가기록원 윤준희 기록 콘텐츠과장은 “국내 처음 선보이+ㄴ ‘텍스트 아트’ 기법”이라고 말하였다 .	ORG-B PER-B ORG-I O O O O O O O O O
 울산시는 이날을 ‘울산조선해양의 날’로 2006년 제정하였다 .	ORG-B O O O O O O

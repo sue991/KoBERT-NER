@@ -1,9 +1,9 @@
 담배인삼공사는 연말까지의 담배소비량이 작년도 53억1천4백만 갑에서 48억 갑으로 10%쯤 감소하+ㄹ 것으로 예상하고 있다 .	ORG-B O ORG-B O O O O O O O O O O O
 KIST 창립 50주년을 맞고 그간 한국의 과학기술 업적과 KIST의 역할에 관하+여쓰+ㄴ ‘KIST 창립 50주년, 기적을 넘어’가 그것이다 .	ORG-B O O O O ORG-B O O ORG-B O O ORG-B O O O O O O
-'넥센 두산 준플레이 오프 3차전' '서건창 솔로 홈런' 13일 오후 서울 목동야구장에서 열리+ㄴ 넥센 히어로즈와 두산 베어스의 '2015KBO 포스트시즌’ 준플레이 오프 전에서 3회말 서건창이 1점 홈런을 터트리며 선제포를 날리었다. 서건창은 13일 목동구장에서 열리+ㄴ 넥센과 준플레이오프 3차전에서 0-0으로 맞서 +ㄴ 3회 말 솔로 홈런을 날리었다 .	ORG-B ORG-B O O O PER-B O O O O LOC-B LOC-B O ORG-B O ORG-B O O O O O O O PER-B O O O O O PER-B O LOC-B O ORG-B O O O O O O O O O O O
+'넥센 두산 준플레이 오프 3차전' '서건창 솔로 홈런' 13일 오후 서울 목동야구장에서 열리+ㄴ 넥센 히어로즈와 두산 베어스의 '2015KBO 포스트시즌’ 준플레이 오프 전에서 3회말 서건창이 1점 홈런을 터트리며 선제포를 날리었다. 서건창은 13일 목동구장에서 열리+ㄴ 넥센과 준플레이오프 3차전에서 0-0으로 맞서 +ㄴ 3회 말 솔로 홈런을 날리었다 .	ORG-B ORG-B O O O PER-B O O O O LOC-B LOC-B O ORG-B ORG-I ORG-B ORG-I O O O O O O PER-B O O O O O PER-B O LOC-B O ORG-B O O O O O O O O O O O
 영재학교 입시는 어느 정도 마무리가 되+ㄴ 상태에서 중3 학생들은 여름방학 전까지 목표학교를 구체적으로 정하+ㄴ 뒤 전략적으로 준비 하+여야 하+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O
 새누리당 유승민 원내대표의 ‘국회법 개정’ 발언을 비난하는 전화를 언론사에 돌리기 바쁘았다 .	ORG-B PER-B O O O O O O O O O O
-4세대 프리우스는 최근 국내 출시되+ㄴ 현대차 아이오닉과 직접 경쟁 모델이다 .	ORG-B O O O O ORG-B ORG-B O O O O
+4세대 프리우스는 최근 국내 출시되+ㄴ 현대차 아이오닉과 직접 경쟁 모델이다 .	ORG-B ORG-I O O O ORG-B ORG-B O O O O
 유명 로드샵 화장품 매장 관계자는 “전체적으로 중국인이 40%가량 줄어들 +ㄴ데다가 중국인들도 지갑을 잘 열지 않는다”며 “15일 이후부터 본격적으로 중국인이 안 오+ㄴ다고 하+여 걱정이 많다”고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
 서울 노원구 중계동에서 9년째 통학차량을 운행하는 김모씨(45·여)는 “많은 학원이 구조변경 비용을 운전자에게 떠넘기 +ㄴ다 .	LOC-B LOC-B LOC-B O O O PER-B O O O O O O O O
 1라운드부터 김연우는 1표 차이로 탈락을 면하면서 가슴을 쓸어내리었다 .	O PER-B O O O O O O O

@@ -2,14 +2,14 @@
 추신수는 2-1로 리드 하+ㄴ 8회 말 수비에서 제이크 스몰린 스+하기로 교체되+어 경기에 빠지었다 .	PER-B O O O O O O PER-B O O O O O O
 현재 최씨는 자신만의 창의적 이+ㄴ 레시피를 1000가지 넘게 갖고 있다 .	O PER-B O O O O O O O O O
 보도에 따르면 박 전 대통령은 독방시설이 너무 지저분하다는 이유로 다시 도배 하+여달라고 요구하였다 .	O O PER-B O O O O O O O O O O O
-최근 미국 금융그룹 뱅크오브아메리카(BOA)는 “미 중앙은행이 기준금리를 올리기 전 마지막 여름이 다가오고 있다”며 “투자자들은 ‘무섭 ㄴ 여름(Scary Summer)’을 대비 하+여야 하+ㄴ다”고 경고하였다 .	O ORG-B O ORG-B ORG-B O O O O O O O O O O O O O O O O O O
-국회 환경미화노동조합 김영숙 위원장은 8일 "그동안 국회 청소노동자들은 순종 안 하면 밉보이고, 말 한마디도 못 +였다 .	ORG-B O PER-B O O O ORG-B O O O O O O O O O O
-카운티 경찰청은 트위터를 통하+여 현지시간 오전 10시 38분에 총격 신고 전화를 받았다고 말하였다 .	ORG-B O O O O O O O O O O O O O
+최근 미국 금융그룹 뱅크오브아메리카(BOA)는 “미 중앙은행이 기준금리를 올리기 전 마지막 여름이 다가오고 있다”며 “투자자들은 ‘무섭 ㄴ 여름(Scary Summer)’을 대비 하+여야 하+ㄴ다”고 경고하였다 .	O ORG-B O ORG-B ORG-B ORG-I O O O O O O O O O O O O O O O O O
+국회 환경미화노동조합 김영숙 위원장은 8일 "그동안 국회 청소노동자들은 순종 안 하면 밉보이고, 말 한마디도 못 +였다 .	ORG-B ORG-I PER-B O O O ORG-B O O O O O O O O O O
+카운티 경찰청은 트위터를 통하+여 현지시간 오전 10시 38분에 총격 신고 전화를 받았다고 말하였다 .	ORG-B ORG-I O O O O O O O O O O O O
 어느 북한 내부 문건에는 “가장 참담하+ㄴ 것은 20대 젊은이의 손에 어느 날 훌쩍 맡기+어지+ㄴ이 나라, 그의 정신적 미숙 하+ㅁ과 무지하+ㅁ이 불러오는 이 참상 앞에서도 겁에 질리+어침묵에 잠기+ㄴ 우리들의 모습”이란 차세대 엘리트들의 ‘집단지성’이 등장하+ㄴ다 .	O ORG-B O O O O O O ORG-B O O O O ORG-B O O O O O ORG-B O ORG-B O O O O O O ORG-B O O ORG-B O O
 조사 대상은 통계청 기준에 따르 아분류 하+ㄴ빈곤층 253명, 중산층 1205명, 고소득층 272명이었다 .	O O ORG-B O O O O O O O O O O
 블루홀, 2016년 하반기 신입 공개채용 실 .	ORG-B O O O O O O
 저는 10대 때부터 그림으로 밥벌이를 +였어요 .	O O O O O O O
 며 "게임스컴을 시작으로 올 하반기 업데이트와 서비스를 가속화해 흥행기세를 잇어나가는 한편, 북미 유럽시장의 성공 경험을 바탕으로 글로벌 멀티플랫폼 게임 서비스 전략을 확대하+여나가 +ㄹ 것"이라 밝히었다 .	O O O O O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O
-'검은 사막'은 올 3월, 카카오 게임즈 유럽법인에서 북미-유럽 자체 서비스를 시작하+ㄴ 이래 출시 첫 달 가입자 40만명이 유입, 최고 동시접속자 10만명을 기록하+여역 대국산 PC온라인게임 중 최대 성과를 내며 쾌조의 시작을 보이었다 .	O O O O ORG-B O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+'검은 사막'은 올 3월, 카카오 게임즈 유럽법인에서 북미-유럽 자체 서비스를 시작하+ㄴ 이래 출시 첫 달 가입자 40만명이 유입, 최고 동시접속자 10만명을 기록하+여역 대국산 PC온라인게임 중 최대 성과를 내며 쾌조의 시작을 보이었다 .	O O O O ORG-B ORG-I ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
 이후, 북미 최대 게임사이트 'MMORPG닷컴' 1년간 최고 인기 게임과 최고 평점 게임 1위를 석권하며 명실공히 북미 유럽 최고 인기 MMORPG로 자리매김+였다 .	O ORG-B O O ORG-B O O O O O O O O O O ORG-B ORG-B O O ORG-B O O
-한편, 카카오 게임즈는 2-1홀에 위치하+ㄴ B2B 전시관에도 별도의 기업 부스를 마련하+여, 전 세계 게임업계 관계자들 및 IT기업들과의 상담과 회의를 진행하+ㄴ다 .	O PER-B O O O O O O O O O O O O O O O O O O O
+한편, 카카오 게임즈는 2-1홀에 위치하+ㄴ B2B 전시관에도 별도의 기업 부스를 마련하+여, 전 세계 게임업계 관계자들 및 IT기업들과의 상담과 회의를 진행하+ㄴ다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O

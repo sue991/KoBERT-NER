@@ -1,13 +1,13 @@
 하루 이틀 만 식탁에서 빼놓아 도입이 깔깔 하+여지+ㄹ 정도로 한국인의 필수식이+ㄴ 김치를 문화인류학적으로 살펴보+ㄴ 책이 나오았다 .	O O O O O O O O O O O O O O O O O
 현장 하+여서 플라스틱 용기에 꽃을 심어서 미니 화분을 만들어 집에 가져가 +ㄹ 수 있는 ‘미니 화분 만들기’, 꽃과 관련되 +ㄴ패브릭 소품 등을 만들 +ㄹ 수 있는 ‘별별 공방체험’ 등 다양하+ㄴ 체험 프로그램이 운영되며 금년 10월 상영 예정이+ㄴ ‘플라워 쇼’를 야외 수변 무대에서 상영하는 한편 개인주택, 아파트 베란 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
 강미숙(35·고양시)씨는 “묵묵히 보고 있다가 자기가 내키면 나+의 무릎에 한 번 ‘앉아주시거나’, 그릉 그릉 해주고 손을 핥아주면 정말 감동받는다 .	LOC-B O O O O O O O O O O O O O O O O O O
-CNN 방송과 라이브 사이언스닷컴 등은 바르바라가 러시아 사할린에서 태평양을 통하+여 미국 알래스카, 캐나다로 건너가 +았다고 전하였다 .	ORG-B O ORG-B O O PER-B LOC-B LOC-B LOC-B O LOC-B LOC-B LOC-B O O O O
+CNN 방송과 라이브 사이언스닷컴 등은 바르바라가 러시아 사할린에서 태평양을 통하+여 미국 알래스카, 캐나다로 건너가 +았다고 전하였다 .	ORG-B O ORG-B ORG-I O PER-B LOC-B LOC-B LOC-B O LOC-B LOC-B LOC-B O O O O
 항공학부 9개 학과가 융합교육 시스템을 갖추고 2017년 신설되+ㄹ 예정이+ㄴ 공항학부와 연동하+여 국가항공교통의 발전 모델을 만들 +ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O
-문화융성 디지털 인재 양성사업단은 문화재보존학과의 전통과 영상 애니메이션학과의 디지털을 융합하+여 문화산업에 실용적 이+ㄴ 인재를 양성하+ㄴ다 .	ORG-B O O O ORG-B O O O O O ORG-B O O O O O
-서울중앙지검 집행2과는 1일 오전 8시 경벌금 40억원 납부를 이행하지 않은 재용씨와 이씨에 대하+여노역장 유치를 집행하였다고 밝히었다 .	ORG-B O O O O O MNY-B O PER-B O PER-B PER-B O O O O O
+문화융성 디지털 인재 양성사업단은 문화재보존학과의 전통과 영상 애니메이션학과의 디지털을 융합하+여 문화산업에 실용적 이+ㄴ 인재를 양성하+ㄴ다 .	ORG-B ORG-I ORG-I ORG-I ORG-B O O O O O ORG-B O O O O O
+서울중앙지검 집행2과는 1일 오전 8시 경벌금 40억원 납부를 이행하지 않은 재용씨와 이씨에 대하+여노역장 유치를 집행하였다고 밝히었다 .	ORG-B ORG-I O O O O MNY-B O PER-B O PER-B PER-B O O O O O
 재야사 학계에서 +ㄴ 고조선의 세력 범위를 중국 베이징의 동쪽과 내몽고의 남쪽에 위치하+ㄴ 요서지역까지 넓히+어보+ㄴ다 .	O O O ORG-B O O LOC-B LOC-B O LOC-B O O LOC-B O O
 베트남은 108~157달러(12만500원∼17만5100원) 선이다 .	ORG-B MNY-B O O
 이날 행사에는 JS파운데이션이 사장 박지성과 그룹 JYJ의 김준수, 배우 송중기, 방송인 이휘재가 참석 하+ 여자리를 빛내+었다 .	O O ORG-B O PER-B O ORG-B PER-B O PER-B O PER-B O O O O O
 이날 박지성은 “좋은 일에 참여하게 되+어 기쁘다 .	O PER-B O O O O O O
-성남, 울산 서장신공격 수 박성호 영입성남FC는 12일 울산 현대로부터 193cm의 장신공격 수 박성호(35)를 영입하었다고 밝히었다 .	ORG-B ORG-B O O PER-B ORG-B O ORG-B O O O O PER-B O O O
+성남, 울산 서장신공격 수 박성호 영입성남FC는 12일 울산 현대로부터 193cm의 장신공격 수 박성호(35)를 영입하었다고 밝히었다 .	ORG-B ORG-B LOC-I O PER-B ORG-B O ORG-B ORG-I O O O PER-B O O O
 감소 1위를 차지하였다 .	O O O O

@@ -9,4 +9,4 @@ G5에는 용량 2800mA h의 배터리가 장착되+어 있는데 카메라 모�
 이대성(45)씨는 전문대학을 졸업하고 1999년 헤드헌터 업계에 뛰어들었다 .	PER-B O O O O O O O
 입찰 신청은 오는 20일 LH 온라인 청약센터에서 가능하며, 22일~24일 계약체결 예정이다 .	O O O O ORG-B O O O O O O O
 한국, 사회복지 지출 OECD 최하위권 … 복지국가가 +ㄹ길 멀었 .	ORG-B O O ORG-B O O O O O O
-주최는 경남예총(회장 공병철)이며 주관은 부산의 KNN 방송이다 .	O ORG-B PER-B O ORG-B ORG-B O O
+주최는 경남예총(회장 공병철)이며 주관은 부산의 KNN 방송이다 .	O ORG-B PER-B O ORG-B ORG-B ORG-I O

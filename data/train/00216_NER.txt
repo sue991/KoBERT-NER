@@ -1,8 +1,8 @@
 NBA의 평균(4.8m)보다 14cm 이상 높다 .	ORG-B O O O O O
 통영시는 주민들의 요구에 따르 아2015년 7월 전체인버터를 교체하는 공사를 +였다 .	LOC-B O O O O O O O O O O
 하지만 케네디 대통령은 참모들의 다양하+ㄴ의견을 듣어 폭격 대신 쿠바 해역을 봉쇄하는 안을 택하 +ㄴ다 .	O PER-B O O O O O O LOC-B O O O O O O
-8일 박병호는 서울 목동구장에서 케이티 위즈와 치르+ㄴ 시범경기 2차전에 4번 타자 겸 1루수로 선발출장하였다 .	O PER-B LOC-B LOC-B ORG-B O O O O O O O O O O
-이 보고서는 1903년 고종의 즉위 40주년을 축하하는 사절로 한국에 오+ㄴ 베베르 공사가 그해 4월 러시아 본국에 보내+ㄴ 것으로 러시아 대외 정책 문서 보관소에 보관되+어 있다 .	O O O PER-B O O O O ORG-B O PER-B O O O ORG-B O O O ORG-B O O O O O O O
+8일 박병호는 서울 목동구장에서 케이티 위즈와 치르+ㄴ 시범경기 2차전에 4번 타자 겸 1루수로 선발출장하였다 .	O PER-B LOC-B LOC-B ORG-B ORG-I O O O O O O O O O
+이 보고서는 1903년 고종의 즉위 40주년을 축하하는 사절로 한국에 오+ㄴ 베베르 공사가 그해 4월 러시아 본국에 보내+ㄴ 것으로 러시아 대외 정책 문서 보관소에 보관되+어 있다 .	O O O PER-B O O O O ORG-B O PER-B O O O ORG-B O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O
 한국 남자사격의 간판은 진종오(36·KT) +이다 .	ORG-B O O ORG-B O O
 남자 공기권 총 10m와 50m에서 4개의 세계기록을 보유하고 있는 진종오는 내년 브라질 리우데자네이루 올림픽에서 세대회 연속 금메달에 도전하+ㄴ다 .	O O O O O O O O O PER-B O O O O O O O O O
 제주항공은 객실승무원 100여명을 채용 하+ㄹ 계획이라고 밝히었다 .	ORG-B O O O O O O O

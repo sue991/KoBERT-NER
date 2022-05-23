@@ -4,11 +4,11 @@
 흡연장에는 들뜨+ㄴ 얼굴의 선배 형사P가 담배를 물고 있었다 .	O O O O PER-B O O O O
 김종필 전 총리 부인 박영옥씨 별세, 1951년 인연 맺은 후 64년간 살뜰하+ㄴ 내 .	PER-B O O O PER-B O O O O O O O O O
 저자는 영화 포스터 디자인 스튜디오 ‘스푸트닉’ 대표이자 아트디렉터다 .	O O O O O ORG-B O O O
-독일 DPA 통신은 17∼20일(현지시간) 스위스 다보스에서 열리는 WEF의 화두가 ‘포퓰리즘’(대중인기영합주의)이 되+ㄹ 것이라고 전망하였다 .	O O O O LOC-B O O ORG-B O O O O O O
+독일 DPA 통신은 17∼20일(현지시간) 스위스 다보스에서 열리는 WEF의 화두가 ‘포퓰리즘’(대중인기영합주의)이 되+ㄹ 것이라고 전망하였다 .	O O O O LOC-B LOC-I O ORG-B O O O O O O
 ‘실종느와르M’ 김강우, 훌륭하+ㄴ수트핏 “내복·핫팩이다 .	O PER-B O O O
-희비가 엇갈리+ㄴ 리오넬 메시와 크리스티아누 호날두의 극적이+ㄴ 표정 대비가 생생하게 잡히었다 .	O O PER-B O PER-B O O O O O O O
+희비가 엇갈리+ㄴ 리오넬 메시와 크리스티아누 호날두의 극적이+ㄴ 표정 대비가 생생하게 잡히었다 .	O O PER-B PER-I PER-B PER-I O O O O O O
 지나+ㄴ 23일 방송되+ㄴ JTBC ‘님과 함께 2-최고의 사랑’에서 장서희는 평소 소극적 이+ㄴ 모습과는 달리 윤건에게 적극적 이+ㄴ 애정 공세를 퍼붓어 눈길을 끌었다 .	O O O O O O O O PER-B O O O O O PER-B O O O O O O O O
-FA 몸값 총액은 KBO 리그 역사의 일부 이+ㄴ데, 이 기간 그 역사가 소실되+ㄴ 것과 다름없다 .	O O O ORG-B O O O O O O O O O O O O
+FA 몸값 총액은 KBO 리그 역사의 일부 이+ㄴ데, 이 기간 그 역사가 소실되+ㄴ 것과 다름없다 .	O O O ORG-B ORG-I O O O O O O O O O O O
 준 보석으로 만들 +ㄴ 귀걸이, 팔찌나 목걸이를 사도록 하자.순은에 호박 보석은 러시아 차르들이 가장 좋아하+ㄴ 조합이다 .	O O O O O O O O O O O ORG-B O O O O O
 본업은 가수+이지만 작곡과 음반 프로듀싱에 연기까지 하는, 그룹 ‘B1A4’ 리더 진영. ‘열일’하는 그의 다재다능하+ㅁ이 드라마 〈구르미 그리+ㄴ달빛〉을 통하+여제대로 빛을 발하였다 .	O O O O O O O O ORG-B O PER-B O O O O O O O O O O
-브라이언은 2009년 개발 하+ㄴ 세계 최초의 시각장애인용 자동차, 찰리는 2011년 개발하+ㄴ 미국 최초의 휴머노이드 로봇.번뜩이는 상상력과 창의력으로 생명을 부여받은 이 로봇들은 ‘로봇계의 레오나르도 다빈치’로 불리는 홍 교수의 작품이다 .	PER-B O O O O O O O PER-B O O ORG-B O O PER-B O O O O O PER-B PER-B O O O PER-B O O O
+브라이언은 2009년 개발 하+ㄴ 세계 최초의 시각장애인용 자동차, 찰리는 2011년 개발하+ㄴ 미국 최초의 휴머노이드 로봇.번뜩이는 상상력과 창의력으로 생명을 부여받은 이 로봇들은 ‘로봇계의 레오나르도 다빈치’로 불리는 홍 교수의 작품이다 .	PER-B O O O O O O O PER-B O O ORG-B PER-I O PER-B O O O O O PER-B PER-B PER-I PER-I O PER-B PER-I O O

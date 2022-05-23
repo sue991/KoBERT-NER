@@ -1,4 +1,4 @@
-일본 '쓰나미 주의보' 해제…해수면 변동관측 "높은 파도 일어나 +ㄹ 수 있어 "17일 일본 기상청은 이날 오전 10시20분 "일본 북부도 호쿠(東北) 지방미야기(宮城) 현산리쿠(三陸) 앞바다의 진도 6.9지진으로 내려지었던 이와테(岩手) 현 일대의 쓰나미 주의보를 해제하+ㄴ다"고 발표하였다 .	LOC-B O O O O O O O O O O O LOC-B O O O O LOC-B O O LOC-B LOC-B O O O O LOC-B O O O O O O O
+일본 '쓰나미 주의보' 해제…해수면 변동관측 "높은 파도 일어나 +ㄹ 수 있어 "17일 일본 기상청은 이날 오전 10시20분 "일본 북부도 호쿠(東北) 지방미야기(宮城) 현산리쿠(三陸) 앞바다의 진도 6.9지진으로 내려지었던 이와테(岩手) 현 일대의 쓰나미 주의보를 해제하+ㄴ다"고 발표하였다 .	LOC-B O O O O O O O O O O O LOC-B ORG-I O O O LOC-B O O LOC-B LOC-B O O O O LOC-B LOC-I O O O O O O
 7∼10위(성남FC·인천 유나이티드·광주FC·FC서울)도 승점 12로 동률을 이루+ㄴ 채 골득실차에 따르 아위치를 달리하고 있다 .	ORG-B ORG-B O O O O O O O O O O O
 신제윤 금융위장“하나-외환은행 통합 신청 … 노사합의 없이 승인 하+ㄹ 수도 .	PER-B ORG-B O O O O O O O O O
 어쩌면 한국과 일본은 트럼프가 시사하+ㄴ ‘핵무장 허용’이 과연 가능하+ㄴ지를 심각하게 따지+어보+아야 하+ㄹ 지도 모르+ㄴ다 .	O ORG-B ORG-B PER-B O O O O O O O O O O O
@@ -10,5 +10,5 @@
 재즈 멀티미디어 사는 화상을 디지털 신호로 바꾸는 동화상 압축 재현 기술이 +ㄴ MPEG 부문에서 세계적으로 기술력을 인정받고 있는 회사로, 삼성전자는 앞으로 영상 분야의 상호 협력을 통하+여차세대 멀티미디어 PC를 개발하겠다고 밝히었다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
 최 판사는 2008년 검사에서 판사로 전직하기 전 작은 아버지에게서 최씨를 소개받았다 .	PER-B O O O O O O O O PER-B O O
 결국 이날 부산시청 21층 사무실과 7, 12, 17층 회의실의 컴퓨터와 사무집기에는 ‘빨갛+ㄴ딱지’(압류 표시)가 붙었다 .	O O ORG-B O O O O O O O O O O O O
-관세청 채봉규 사무관은 FTA 집행기획관실 FTA 협력과에서 일하며 세계 최초로 국가 간 원산지 자료 교환 시스템을 구축하+여 한국물품에 대하+ㄴ 원산지 심사 및 통관절차를 간소화하였다 .	ORG-B PER-B O ORG-B O ORG-B O O O O O O O O O O O LOC-B O O O O O O O
-박근혜 대통령이 자문의인 김상만(54) 전 녹십자 아이메드 원장을 직접 따로 지정 하+여서 진료받은 것으로 나타나 +았다 .	PER-B O O PER-B O ORG-B O O O O O O O O O O O
+관세청 채봉규 사무관은 FTA 집행기획관실 FTA 협력과에서 일하며 세계 최초로 국가 간 원산지 자료 교환 시스템을 구축하+여 한국물품에 대하+ㄴ 원산지 심사 및 통관절차를 간소화하였다 .	ORG-B PER-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O LOC-B O O O O O O O
+박근혜 대통령이 자문의인 김상만(54) 전 녹십자 아이메드 원장을 직접 따로 지정 하+여서 진료받은 것으로 나타나 +았다 .	PER-B O O PER-B O ORG-B ORG-I O O O O O O O O O O

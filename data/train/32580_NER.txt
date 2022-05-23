@@ -2,7 +2,7 @@
 알+ㄹ리가 녹음 하+ㄴ 노래는 김태우의 신곡 ‘시원하+여’로 T-WITH 프로젝트의 다섯 번째 콜라보 작품 중 두 번째 신곡이다 .	PER-B O O O PER-B O O O O O O O O O O O O O
 심형탁이 화제+이다 .	PER-B O O
 ‘명동 호텔 전쟁’이 새해부터 뜨거워 지+ㄴ다 .	LOC-B O O O O O O
-일본 총무성의 사회생활조사에 따르면 일본인이 교제에 들이는 시간은 2011년 하루 19분으로 10년 전보다 약 30% 줄었다 .	ORG-B O O O ORG-B O O O O O O O O O O O O
+일본 총무성의 사회생활조사에 따르면 일본인이 교제에 들이는 시간은 2011년 하루 19분으로 10년 전보다 약 30% 줄었다 .	ORG-B ORG-I O O ORG-B O O O O O O O O O O O O
 “모터달 +ㄴ바퀴… VR 내비… 현대모비스가 만들 +ㄹ 것 .	O O O O ORG-B O O O O
 그 결과 ‘참여 하+ㄹ의사가 있다’는 응답자가 91.5%로 대부분을 차지하였다 .	O O O O O O O O O O
 프린스의 왕자, 신예우혁vs FT아일랜드 최종훈…'누구가 진 자왕자가 되+ㄹ까 .	O O PER-B O PER-B O O O O

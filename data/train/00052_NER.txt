@@ -1,8 +1,8 @@
 독일이 사실상(defacto)의 패권을 차지하도록 길을 열어 주+ㄴ 것은 독일에게 EU+이라는 굴레를 씌우려고 하+ㄴ 프랑스의 꼼수다 .	ORG-B O O O O O O O ORG-B ORG-B O O O ORG-B O O
 13일 오후 5시에 방송되+ㄴ MBC 예능'우리 결혼하었어요4'에서는 시암리집에서 새롭ㄴ 미션지를 받는 송재림과 김소은의 가상 부부 마지막 종지부를 찍는 모습이 그리 +어+지었다 .	O O O O O O O LOC-B O O O PER-B PER-B O O O O O O O O O
-국민저항 총궐기 운동(탄기국) 경남본부와 자유통일해방본부는 2일 오후 2시 봉하마을 앞에서 집회 신고를 하고 집회를 열 +ㄹ 예정이다 .	ORG-B O O O ORG-B O O O LOC-B O O O O O O O O O
-최근 6개 대회에서 4승을 거두+ㄴ 데이는 2000년대 초반 최고 전성기 때의 타이거 우즈를 능가하+ㄴ다는 평가를 받고 있다 .	O O O O O O O O O O O PER-B O O O O O O
-KGC는 13일 부산 사직체육관에서 열리+ㄴ kt와의 2016∼2017KCC 프로농구 방문경기에서 117-77로 대승을 거두었다 .	ORG-B O LOC-B O O ORG-B ORG-B O O O O O O
+국민저항 총궐기 운동(탄기국) 경남본부와 자유통일해방본부는 2일 오후 2시 봉하마을 앞에서 집회 신고를 하고 집회를 열 +ㄹ 예정이다 .	ORG-B ORG-I ORG-I ORG-I ORG-B TIM-I TIM-B TIM-I LOC-B O O O O O O O O O
+최근 6개 대회에서 4승을 거두+ㄴ 데이는 2000년대 초반 최고 전성기 때의 타이거 우즈를 능가하+ㄴ다는 평가를 받고 있다 .	O O O O O O O O O O O PER-B PER-I O O O O O
+KGC는 13일 부산 사직체육관에서 열리+ㄴ kt와의 2016∼2017KCC 프로농구 방문경기에서 117-77로 대승을 거두었다 .	ORG-B O LOC-B LOC-I O ORG-B ORG-B O O O O O O
 학생들 가운데는 오스카와일드도끼이어 있었다 .	O O PER-B O O
 국립종축원은 젖소를 번식시키는 데 필요하+ㄴ 인공수정용 정액을 생산하는 한국형 젖소 종모우를 탄생시키는 데 성공하였다고 18일 발표하였다 .	ORG-B O O O O O O O O O O O O O O O O
 “나+의 살기+ㄹ내가 찾는다”… 수능 끝나자 토익학원 고3스펙얼리버드족은 수능이 끝나 +ㄴ후도 분주하다 .	O O O O O O O O O O O O

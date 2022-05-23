@@ -1,10 +1,10 @@
 열혈강호 온라인과 나이트 온라인이 좀 더 시간을 벌어 주+ㄴ 것은 사실이나, 엠게임에 새롭ㄴ 성장동력이 필요하다는 것은 올해도 변함없는 사실이다 .	O O O O O O O O O O O ORG-B O O O O O O O O
-유희열은 “보+ㄹ수록 (유제이가) 케이티 김과 닮았다 .	PER-B O PER-B PER-B O O O
+유희열은 “보+ㄹ수록 (유제이가) 케이티 김과 닮았다 .	PER-B O PER-B PER-B PER-I O O
 지난해에는 각종 행사에서 6차례 만나 +았다 .	O O O O O O O
--졸업 후 아크네 스튜디오에 합류하+ㄴ 계기는.“나도 골드먼삭스나 매킨지 같은 크+ㄴ 회사에 가고 싶었다 .	O O ORG-B O O O ORG-B ORG-B O O O O O O
+-졸업 후 아크네 스튜디오에 합류하+ㄴ 계기는.“나도 골드먼삭스나 매킨지 같은 크+ㄴ 회사에 가고 싶었다 .	O O ORG-B ORG-I O O ORG-B ORG-B O O O O O O
 코스트코는 가장 많은 11개를 운영하고 있다 .	ORG-B O O O O O O
-박 회장은 현지 동포들이 여의도 트럼프월드를 1300만 달러(약 150억원) 어치를 구입하면서 외환위기 당시 외화유입에도 기여하였다고 +였다 .	PER-B O O O LOC-B LOC-B MNY-B O MNY-B O O O O O O O O
+박 회장은 현지 동포들이 여의도 트럼프월드를 1300만 달러(약 150억원) 어치를 구입하면서 외환위기 당시 외화유입에도 기여하였다고 +였다 .	PER-B O O O LOC-B LOC-B MNY-B MNY-I MNY-B O O O O O O O O
 이 캐릭터보다 더 세+ㄹ 수+ㄴ 없다”라고 다른 악역과의 비교를 거부하+ㄴ만큼 충무로 최강의 악역 캐릭터가 탄생하+ㄹ 수 있을지에 대하+ㄴ기대감도 뜨겁다 .	O O O O O O O O O O O O O O O O O O O O
 한편 ‘살인 의뢰’는 3월 12일 개봉하+ㄹ 예정이다 .	O O O O O O O O
-2박3일간의 호남 일정을 잇어가고 있는 안 지사는 전날 전북 전주에잇어 이날 광주지역 민심을 훑을 예정이었다 .	O LOC-B O O O PER-B O O LOC-B O O LOC-B O O O O
+2박3일간의 호남 일정을 잇어가고 있는 안 지사는 전날 전북 전주에잇어 이날 광주지역 민심을 훑을 예정이었다 .	O LOC-B O O O PER-B O O LOC-B LOC-I O LOC-B O O O O
 이에 메르스 환자는 35명이 +었다 .	O O O O O O

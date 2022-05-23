@@ -1,12 +1,12 @@
 ‘범죄의 여왕’은 1989년 연기를 시작하+ㄴ 박지영이 보이어주는 가장 과감하 +ㄴ 연기로 기억되+ㄹ 가능성이 크다 .	O O O O O PER-B O O O O O O O O O
-샘넌 위원장과 미 상원 외교위 소속 이+ㄴ 리처드 루거의원은 이날 일본 방문을 마치고 한국으로 떠나기 앞서 주일 미 대사관에서기자회견을 갖고 이 같은 입장을 밝히면서 외교적 노력을 통하+여 북한이 2개 미신고 핵시설에 대하+ㄴ국제원자력기구(IAEA)의 사찰을 수락하도록 만들어야 하+ㄹ 것이라며 외교를 통하+ㄴ 사태 해결방안을 지지하였다 .	PER-B O ORG-B O O O O PER-B O O LOC-B O O LOC-B O O LOC-B ORG-B O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O
+샘넌 위원장과 미 상원 외교위 소속 이+ㄴ 리처드 루거의원은 이날 일본 방문을 마치고 한국으로 떠나기 앞서 주일 미 대사관에서기자회견을 갖고 이 같은 입장을 밝히면서 외교적 노력을 통하+여 북한이 2개 미신고 핵시설에 대하+ㄴ국제원자력기구(IAEA)의 사찰을 수락하도록 만들어야 하+ㄹ 것이라며 외교를 통하+ㄴ 사태 해결방안을 지지하였다 .	PER-B ORG-I LOC-I ORG-I ORG-I O O PER-B PER-I O LOC-B O O LOC-B O O LOC-B LOC-I LOC-I O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O
 노 전 국장이 진짜 나쁘다는 것 +ㄴ 아니고, 박근혜 대통령의 표현을 빌리자면 그렇다는 것+이+ㅂ니다 .	PER-B O O O O O O O PER-B O O O O O O
 이 신임 이사장은 교육인적자원부 차관, 가톨릭관동대 총장 등을 역임하였다 .	PER-B O PER-B ORG-B O ORG-B O O O O
 투병중 별세 김상순, "다시 태어나 +아도 배우로 살고 싶다" 원로배우 김상순이 25일 별세하였다 .	O O PER-B O O O O O O O PER-B O O O
 ‘대출 한 달 뒤 예금 강요’ … 금감원, 편법적 ‘꺾기’ 점검나서+ㄴ .	O O O O O O O ORG-B O O O O
 정의윤은 2일 경기 홈런의 좋은 기억을 안고, 3일에도 친정팀에 비수를 꽂았다 .	PER-B O O O O O O O O O O O
 공화당 대선 후보 도널드 트럼프가 최근 북대서양 조약기구(NATO·나토) 회원국이 러시아의 공격을 받더라도 미국은 ‘자동 개입’하지 않겠다고 주장 하+ㄴ 것과 관련 하+여 그는 “트럼프의 발언은 미국과 동맹국들의 깊은 우려를 자아내고 있다 .	ORG-B O O PER-B PER-B O O ORG-B O ORG-B O O ORG-B O O O O O O O O O PER-B O ORG-B O O O O O O
-블랙야크(대표 강태선)가 지나 +ㄴ 2013년 9월 블랙야크 강태선 나눔재단(사)과 블랙야크 강태선 장학재단(재)을 출범시키었다 .	ORG-B PER-B O O O O ORG-B PER-B O ORG-B PER-B O O O
+블랙야크(대표 강태선)가 지나 +ㄴ 2013년 9월 블랙야크 강태선 나눔재단(사)과 블랙야크 강태선 장학재단(재)을 출범시키었다 .	ORG-B ORG-I O O O O ORG-B ORG-I ORG-I ORG-B ORG-I ORG-I O O
 ‘YG괴물 신인’ 아이콘, 데뷔와 함께 음원차트 8곳에서 1위 ‘싹쓸이 .	ORG-B O ORG-B O O O O O O O
 <내부자들>에서는 조폭 두목 안상구(이병헌 분)가 검사 우장훈(조승우 분)으로 하여금 내부에 침투하도록 계획 하+ㄴ다 .	O O O PER-B O O PER-B O O O O O O O
 이 학교는 매월 한 차례 특별활동 시간에 학부모와 함께 폐식용유로 재생비누를 만들 +ㄴ다 .	O O O O O O O O O O O O O O

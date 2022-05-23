@@ -3,10 +3,10 @@
 이 과장을 보좌하는 김정락 이윤식 최춘태 사무관 등도 20년 안팎의 경력을 가지+ㄴ베테랑들이다 .	O O O PER-B PER-B PER-B O O O O O O O
 또 프란치스코 교황의 대전 방문 1주년에 맞추+어 일명 ‘교황의 와인’이라 불리는 ‘그리 놀리노 다스티’도 소개되+ㄴ다 .	O PER-B O LOC-B O O O O O O O O O O O O
 오른손으로 최고 시속이 145㎞ 정도 나오지만 왼손으로는 135㎞ 정도+이다 .	O O O O O O O O O O
-자이언티는 12일 정오 디지털 싱글 ‘NoM akeUp(노메이크업)’을 공개하자마자 오후 2시 기준 멜론, 엠넷, 올레뮤직, 벅스, 지니, 네이버 뮤직, 지니, 소리바다 등 7개 차트 1위를 차지하였다 .	O O O O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O ORG-B ORG-B O O O O O O
+자이언티는 12일 정오 디지털 싱글 ‘NoM akeUp(노메이크업)’을 공개하자마자 오후 2시 기준 멜론, 엠넷, 올레뮤직, 벅스, 지니, 네이버 뮤직, 지니, 소리바다 등 7개 차트 1위를 차지하였다 .	O O O O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-I ORG-B ORG-B O O O O O O
 한국은행이 9일 올해 경제성장률 전망치를 4월에 예측하+ㄴ 3.1%에서 2.8%로 하향 조정하였다 .	ORG-B O O O O O O O O O O O
 '카카오= 캐주얼 게임' 공식 깨+ㄴ다 .	ORG-B O O O O O
 임지연은 영화 '인간중독'에서 송승헌의 상대 배우로, 이유영은 영화 '봄'에서 전신 노출까지 마다하지 않고 누드 모델 연기를 선보이+ㄴ 바 있다 .	PER-B O O PER-B O O PER-B O O O O O O O O O O O O O
-SK는 2014년 하이닉스 충칭공장을 준공하+ㄴ 뒤 낸드플래시 등을 본격적으로 양산하고 있다 .	ORG-B O LOC-B O O O O O O O O O
+SK는 2014년 하이닉스 충칭공장을 준공하+ㄴ 뒤 낸드플래시 등을 본격적으로 양산하고 있다 .	ORG-B O LOC-B LOC-I O O O O O O O O
 이 성명은 『일본이 동해를 일본해 (일본해)로 표기하려 하는 것은 공해에 대하+ㄴ 침략행위』라고 비난하였다 .	O O ORG-B LOC-B LOC-B LOC-B O O O O O O O O
-그는 “세계적 이+ㄴ 제약사들은 투자 하+ㄹ 국가가 얼마나 제약업체들의 혁신에 친화적 이+ㄴ지 보고 투자 여부를 결정 하+ㄴ다”며 “한국 정부가 바이오헬스 산업에 좋은 여건을 만들는 것은 한국 기업뿐 아니라 해외 제약사의 투자까지 끌어들이 +ㄹ 수 있다는 점에서 매우 중요하다”라고 강조하였다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O
+그는 “세계적 이+ㄴ 제약사들은 투자 하+ㄹ 국가가 얼마나 제약업체들의 혁신에 친화적 이+ㄴ지 보고 투자 여부를 결정 하+ㄴ다”며 “한국 정부가 바이오헬스 산업에 좋은 여건을 만들는 것은 한국 기업뿐 아니라 해외 제약사의 투자까지 끌어들이 +ㄹ 수 있다는 점에서 매우 중요하다”라고 강조하였다 .	O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O ORG-B O O O O O O O O O O O O O O

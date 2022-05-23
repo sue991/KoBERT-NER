@@ -3,10 +3,10 @@
 ‘함부로 애틋하게’에 앞서 +어 중국과 동시 방송의 첫 사례 이+ㄴ ‘태양의 후예’는 국내에서 출시하는 OST 그대로 현지 시청자에 소개되었다 .	O O O O ORG-B O O O O O O O O O O O O O O O
 이를 반영하듯 미국의 공통원서 제출 시스템이 +ㄴ CommonApplication의 보완재로서 TheCoalition이 학생 개인의 성적뿐만이 아니+ㄴ DigitalP ortfolio, 즉 동영상 및 개별 프로젝트, 소논문 등을 자유롭게 업로드하여 학생의 모든 면을 파악하여 지원 대학에 어울리+ㄹ만 하+ㄴ 인재를 찾기 시작하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
 예컨데 추가 합격 예비 2번은 붙고 3번은 떨어지+ㄴ 경우 +이다 .	O O O O O O O O O O O
-오전 10시15분 현재 1869.33으로 1900선을 회복하기 +ㄴ커녕 낙폭(-2.53%)만 더 커지었다 .	TIM-B O O MNY-B MNY-B O O O O O O
+오전 10시15분 현재 1869.33으로 1900선을 회복하기 +ㄴ커녕 낙폭(-2.53%)만 더 커지었다 .	TIM-B TIM-I O MNY-B MNY-B O O O O O O
 미래를 예측하고 준비 하+ㄹ 수 있는 역량이 있어야 지속 성장을 하+ㄹ 수 있는데. 저희에게 +ㄴ 그것+이 절실히 필요하였죠.” 노하우 4신용과의리를 지키+어라이 대표와 김 이사는 만나 +ㄴ지 5년 만이 +ㄴ 2014년 10월, 각자의 이니셜을 따+아‘LK’+이라는 개인회사를 차리었다 .	O O O O O O PER-B O O O O O O O O PER-B O O O O PER-B O PER-B PER-B O O O PER-B O O O O PER-B ORG-B O O O
 현명관 마사회장 신년인터 .	PER-B O O O
-4일 알펜시아를 운영 중 이+ㄴ 강원도개발공사에 따르면 이곳에서 지난달 20일 프로축구 ‘K리그 챌린지(2부 리그)’ 30라운드 강원FC와 부천FC 경기가 열리+ㄴ데 잇어 강원FC가 7일 안산FC, 24일 대구FC, 28일 FC안양을 불러들이어 홈경기를 갖는다 .	O ORG-B O O O ORG-B O O O O O ORG-B O O O ORG-B ORG-B O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O
+4일 알펜시아를 운영 중 이+ㄴ 강원도개발공사에 따르면 이곳에서 지난달 20일 프로축구 ‘K리그 챌린지(2부 리그)’ 30라운드 강원FC와 부천FC 경기가 열리+ㄴ데 잇어 강원FC가 7일 안산FC, 24일 대구FC, 28일 FC안양을 불러들이어 홈경기를 갖는다 .	O ORG-B O O O ORG-B O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-B O O O ORG-B O ORG-B ORG-I ORG-B ORG-I ORG-B O O O O
 시드니시의 남부 지역에서는 약 1백채의 집이 파괴되었다 .	LOC-B O O O O O O O
 김연우는 “대학교 때 (장우람이) 보컬 1등이었다 .	PER-B O O PER-B O O O
 ‘맨 유레전드’로 불리는 긱스는 맨유 소속으로 963 경기에 출전하+여 168골을 넣었으며 리그 우승 13차례를 포함하+여 수많은 우승 트로피를 들어 올리+ㄴ바 있다 .	O O O PER-B ORG-B O O O O O O O O O O O O O O O O O

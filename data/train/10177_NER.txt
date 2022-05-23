@@ -9,6 +9,6 @@
 한국에서는 89년 해태 김성한이 26홈런-32 도루로 20-20을 처음 달성하였고, 96년 현대박재홍이 30홈런-36 도루로 30-30을 처음 돌파하였다 .	ORG-B O ORG-B PER-B O O O O O O ORG-B O O O O O O
 [비즈 칼럼]‘그러+어+보았자 중소기업’ 체념 벗어던지+ㄹ  .	O O O O O O O
 장 이사장은 해양환경보호를 넘어서 +ㄴ 경제적 가치 창출에도 관심이 많다 .	PER-B PER-B O O O O O O O O O
-홍 교수와 학생들은 이날 오후 5시쯤 부산 문현동 한국거래소도 방문하였다 .	PER-B O O O O O LOC-B O ORG-B O O
+홍 교수와 학생들은 이날 오후 5시쯤 부산 문현동 한국거래소도 방문하였다 .	PER-B O O O O O LOC-B LOC-I ORG-B O O
 일제는 1911년 제1차 조선교육령을 발표하여 일제의 식민통치에 순응하는 인간 육성을 목표로 하는 교육을 시행하+ㄹ 것이 +ㅁ을 분명히 +였다 .	ORG-B O O ORG-B O ORG-B O O O O O O O O O O O O O
 한국국제협력단(KOICA)이 에콰도르의 창업기업 육성 및 기술이전을 위하+여 추진하는 공적개발원조(ODA) 사업을 순천향대가 앞으로 3년 동안 맡아 운영하는 것이다 .	ORG-B ORG-B O O O O O O O O ORG-B O O O O O O O

@@ -7,7 +7,7 @@
 박 대통령은 천안문 광장을 바라보는 방향으로 시 주석의 오른편 둘째 자리에 앉았다 .	PER-B O LOC-B O O O PER-B O O O O O O
 그는 지난해부터 한국미술품의 최고가 기록을 새로 쓰고 있다 .	O O ORG-B O O O O O O
 북핵 문제의 최대 책임자 이+ㅁ에도, 북한의 핵개발을 저지하는 국제사회의 공동 전선에서는 ‘강대국의 안하무인’만을 반복하고 있는 셈이다 .	O O O O O ORG-B O O O O O O O O O O O
-중국인 L씨(57)는 최근 인천 중구 영종도의 ㈜미단시티 개발사무실을 찾아 부동산 매입 의사를 밝히었다 .	LOC-B PER-B O LOC-B LOC-B LOC-B ORG-B O O O O O O O
+중국인 L씨(57)는 최근 인천 중구 영종도의 ㈜미단시티 개발사무실을 찾아 부동산 매입 의사를 밝히었다 .	LOC-B PER-B O LOC-B LOC-B LOC-B ORG-B ORG-I O O O O O O
 왜 병원을 잇지 않고 가수가 되었느냐"며 질문을 던지자 김원준은 "아버지와 나는 다르다"고 딱 자르 아대답하었다 .	O O O O O O O O PER-B O O O O O O O
 이어서 김원준은 "가수가 +었던 것은 운명이라 생각 하+ㄴ다 .	O PER-B O O O O O O O
 중국 최대 전자상거래 업체 알리바바와 중국판 유튜브 유쿠 등 중국 기업 일부는 미국 증시에 상장되+어 있다 .	ORG-B O O O ORG-B ORG-B O O O ORG-B O O ORG-B O O O O

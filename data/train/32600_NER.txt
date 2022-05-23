@@ -1,11 +1,11 @@
 이들에게 가장 필요하+ㄴ자질이 무엇이 +ㄹ지 묻는 질문에는 32%가 ‘기본 사회예절’을 꼽았다 .	O O O O O O O O O O O O
 데뷔 때만 하+여도 무명이던 박성현을 발굴하고 후원하면서 3년 만에 정상에 올려놓지만 이제는 외부 단속에 더 신경을 +어야 하+ㄴ다 .	O O O O PER-B O O O O O O O O O O O O O O
-AWS코리아는 구글코리아를 이끌 +ㄴ 염동훈(43·사진) 대표가, 아마존 서비시즈코리아는 구글코리아에서 전략 광고주 사업본부 총괄을 맡았던 박준모 대표가 각각 이끌고 있다 .	ORG-B ORG-B O O PER-B O ORG-B O ORG-B O O O O O PER-B O O O O O
+AWS코리아는 구글코리아를 이끌 +ㄴ 염동훈(43·사진) 대표가, 아마존 서비시즈코리아는 구글코리아에서 전략 광고주 사업본부 총괄을 맡았던 박준모 대표가 각각 이끌고 있다 .	ORG-B ORG-B O O PER-B O ORG-B ORG-I ORG-B O O O O O PER-B O O O O O
 하지만 정 총리는 지난해 말 박 대통령을 만나 +았을 때 사의를 밝히었고 수용되+ㄴ 것으로 알려지었다 .	O PER-B O O O PER-B O O O O O O O O O O
 고급차 브랜드 벤틀리도 2007년 이후 8년 만에 참가 하+ㄴ다 .	O O ORG-B O O O O O O O
-시안은 △일제가 만주를 침략하+ㄴ이후부터 1945년 전쟁에 패배 하+ㄹ 때까지 수많은 여성들을 일본군 위안부로 끌고 가+아 여성인권을 유린하었다는 사실을 명확히 서술 하+ㄴ .	O ORG-B LOC-B O O O O O O O O ORG-B O O O O O O O O O O
-정치 전문매체 더힐에 따르면 도널드 트럼프 주니어는 자신의 트위터 계정을 통하+여 “테러 공격은 대도시에서의 삶 속의 일부 +이라고 사디드 칸 런던 시장이 말하였다 .	O O O O PER-B O O O O O O O O O O O O O PER-B O LOC-B O O O
+시안은 △일제가 만주를 침략하+ㄴ이후부터 1945년 전쟁에 패배 하+ㄹ 때까지 수많은 여성들을 일본군 위안부로 끌고 가+아 여성인권을 유린하었다는 사실을 명확히 서술 하+ㄴ .	O ORG-B LOC-B O O O O O O O O ORG-B ORG-I O O O O O O O O O
+정치 전문매체 더힐에 따르면 도널드 트럼프 주니어는 자신의 트위터 계정을 통하+여 “테러 공격은 대도시에서의 삶 속의 일부 +이라고 사디드 칸 런던 시장이 말하였다 .	O O O O PER-B PER-I PER-I O O O O O O O O O O O PER-B PER-I LOC-B O O O
 굽네치킨은 최근 매콤 하+ㄴ 불맛의 ‘굽네 볼케이노’를 출시하였다 .	ORG-B O O O O O O O O
 로우지는 다리가 풀리었고, 무기력하게 쓰러지었다 .	PER-B O O O O O
 보고서에 따르면 부정으로 이어지는 거래 형태는 2004년 시작되+ㄴ 것으로 다나카 전 사장이 이를 주도하였다 .	O O O O O O O O O PER-B O O O O O
-최근 서울 가락시장의 양파 1kg도매가격이 1200원을 돌파하는 등 양파 가격이 계속 상승하자 롯데마트는 가격 안정화 차원에서 8일까지 300t 한정으로 이 같은 행사를 열고 있다 .	O LOC-B O O O MNY-B O O O O O O ORG-B O O O O O O O O O O O O
+최근 서울 가락시장의 양파 1kg도매가격이 1200원을 돌파하는 등 양파 가격이 계속 상승하자 롯데마트는 가격 안정화 차원에서 8일까지 300t 한정으로 이 같은 행사를 열고 있다 .	O LOC-B LOC-I O O MNY-B O O O O O O ORG-B O O O O O O O O O O O O

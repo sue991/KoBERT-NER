@@ -1,11 +1,11 @@
 아랍 국가들은 기습 공격을 가하+여허를 찌르었다 .	LOC-B O O O O O O
 흥미롭고, 말로 표현하+ㄹ 수 없는 특별 하+ㄴ 무어+이+ㄴ가가 있어요.” 좋아하는 한국영화나 영화인을 묻자 그는 임권택 감독의 ‘취화선’을 극찬하였다 .	O O O O O O O O O O LOC-B O O O PER-B O O O O
-지난해 7월 탈북 하+ㄴ태영호 전 주영국 북한대사관 공사는 미 CBS 방송의 시사프로그램 ‘60분(60minutes)’과의 인터뷰에서 “김정은이 당신을 살해하+ㄹ 수도 있을 것 같으냐”는 질문에 “물론이다 .	O O O PER-B O ORG-B O O ORG-B O O O O O PER-B O O O O O O O O O
+지난해 7월 탈북 하+ㄴ태영호 전 주영국 북한대사관 공사는 미 CBS 방송의 시사프로그램 ‘60분(60minutes)’과의 인터뷰에서 “김정은이 당신을 살해하+ㄹ 수도 있을 것 같으냐”는 질문에 “물론이다 .	O O O PER-B O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O PER-B O O O O O O O O O
 전반적으로 세계 하위권(세계 최고의 42.2%) 평가를 면하지 못하였다 .	O O O O O O O O O
 NC 박석민(31)은 독특하+ㄴ타격폼을 가지고 있다 .	ORG-B PER-B O O O O
 그러나 트럼프 대통령은 12일 “자국민을 화학무기로 공격 하+ㄴ아사드 대통령은 도살자” +이라며 “아사드 정권은 결국 축출되+ㄹ 것”이라며 사실상 헤일리 대사의 손을 들어 주+었다 .	O PER-B O O O O O PER-B O O O PER-B O O O O O PER-B O O O O O
 북한 문제 해결을 위하+여서, 한국은 중국을 어떻게 활용하+여야 하+ㄹ까 .	ORG-B O O O ORG-B ORG-B O O O O
 대학 3학년이+ㄴ 이종현은 서장훈, 김주성과 자주 비교되 +ㄴ다 .	O O PER-B PER-B PER-B O O O O
-인천시립박물관은 14일 이달 중으로 한국이 민사박물관에 대하+ㄴ상표등록을 출원하+ㄹ 계획이라고 밝히었다 .	ORG-B O O O ORG-B O O O O O O
+인천시립박물관은 14일 이달 중으로 한국이 민사박물관에 대하+ㄴ상표등록을 출원하+ㄹ 계획이라고 밝히었다 .	ORG-B O O O ORG-B ORG-I O O O O O
 변호사법은 법무법인을 징계하도록 하고 있지만, 김앤장은 공동법률사무소+이어서 담당 변호사가 징계를 받았다 .	O O O O O ORG-B O O O O O O
 한국에서 힐로공항까지 바로 가는 항공편은 없다 .	LOC-B LOC-B O O O O O

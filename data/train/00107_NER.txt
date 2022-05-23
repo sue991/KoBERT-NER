@@ -1,6 +1,6 @@
 문의 : 02-3463-9326 <본 자료는 해당 기관에서 제공 하+ㄴ 보도자료 이+ㅂ니다 .	O O O O O O O O O O O O
 하지만 지난해 7월 대표 취임 이후 ‘노련 하+ㄴ 갈등 조율사, 보수혁신의 아이콘’ 이미지로 그는 여권 나+의 선두 자리를 지키고 있다 .	O O O O O O O O O O O O O O O O O O O O O
-다저스는 오프 시즌 동안 핸리라미레스가 FA로 팀을 떠나 +았고, 맷켐프가 샌디에이고 파드리스로 이적하였다 .	ORG-B O O O PER-B ORG-B O O O PER-B ORG-B O O O
+다저스는 오프 시즌 동안 핸리라미레스가 FA로 팀을 떠나 +았고, 맷켐프가 샌디에이고 파드리스로 이적하였다 .	ORG-B O O O PER-B ORG-B O O O PER-B ORG-B ORG-I O O
 글로벌 공유 오피스 기업인 ‘위워크’ 등 10여개 업체가 사업을 벌이고 있고, 올해 초 현대카드도 ‘스튜디오 블랙’이란 이름으로 시장에 뛰어들었다 .	O O O O ORG-B O O O O O O O O ORG-B O O O O O O
 “정상회담 시기상조”대북 소신 불변/안무혁-민자의원(요즘 … .	O O O PER-B O O
 김혜원 어린이도 서평론 .	PER-B O O O

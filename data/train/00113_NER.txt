@@ -1,7 +1,7 @@
 1만7000원으로 가장 저렴하+ㄴ 샤오미의 미 밴드는 화면이 없는 대신 그 자리에 LED(발광다이오드)점 3개가 있다 .	MNY-B O O ORG-B O O O O O O O O O O O
 B병원 장례식장으로 찾아가 +ㄴ 임씨는 15회에 걸치+어 장례 차량 운행을 방해하고 집회를 하겠다고 협박 하+ㄴ 것으로 조사되었다 .	ORG-B LOC-B O O PER-B O O O O O O O O O O O O O
 NHK에 따르면 가고시마현 다네가시마(種子島) 우주센터에서 이날 오전 10시20분께 정보수집 위성 레이더 5호기를 탑재하+ㄴ H2A 로켓 33호가 발사되었다 .	ORG-B O LOC-B LOC-B O O O O O O O O O O O O O O
-지난해 LH 직원 1인당 복리후생비는 2013년에 비하+여 평균 207만원 줄었다 .	O ORG-B O O O O O O MNY-B O O
+지난해 LH 직원 1인당 복리후생비는 2013년에 비하+여 평균 207만원 줄었다 .	O ORG-B MNY-I O O O O O MNY-B O O
 김연경 -양효진 런던 이후 같은 방 … 같은 포지션 배정 경험 나누기 .	PER-B PER-B LOC-B O O O O O O O O O O
 홈플레이트에서 좌우 펜스까지 100m, 가운데 펜스까지 125m나 되+ㄴ다 .	O O O O O O O O O
 남규리는 지나 +ㄴ 28일 서울 서초구 넥슨아레나에서 ‘게임의 전설 철권 7왕의 귀환’ 런칭 행사 중 열리+ㄴ 이벤트 매치에서 배재민을 3-2로 제압하는 이변을 연출하게 +였다 .	PER-B O O O LOC-B LOC-B LOC-B O O O O O O O O O O O PER-B O O O O O O

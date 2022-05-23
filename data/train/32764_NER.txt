@@ -1,6 +1,6 @@
 조성호는 지난달 13일 오전 1시쯤 인천시 연수구 집에서 최씨의 머리를 둔기로 때리+어살해 하+ㄴ 뒤 시신을 10여일 동안 화장실에 방치하였다 .	PER-B O O O O LOC-B LOC-B O PER-B PER-B O O O O O O O O O O
 12일부터 휴가를 내는 직장인을 감안하면 추석을 맞고 공항을 이용하는 여행객은 더 많을 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O
-아름답ㄴ 외모와 쭉 뻗은 몸매 이+ㄴ 알레나는 지나 +ㄴ 2012년 미스 USA 선발대회에서 '미스오리건'이 +었다 .	O O O O O O PER-B O O O O O O O O O
+아름답ㄴ 외모와 쭉 뻗은 몸매 이+ㄴ 알레나는 지나 +ㄴ 2012년 미스 USA 선발대회에서 '미스오리건'이 +었다 .	O O O O O O PER-B PER-I O O O O O O O O
 [부고]민경찬 부친상·김선숙 시부 .	PER-B PER-B O O
 황해도 장연군에 살다 6·25 때 월남 하+ㄴ강재희씨(77·인천시 중구 송월동)와 이보다 앞서 +어 1940년만주로 이주하였던 여동생 강재렬 씨(74·중국 흑룡강성 밀산시 거주) 등 오누이가 22일 오후 김포공항에서 54년 만에 극적으로 상봉하였다 .	LOC-B LOC-B O O O O LOC-B LOC-B LOC-B O O O LOC-B O O PER-B LOC-B LOC-B LOC-B O O O O O LOC-B O O O O O
 전 가구가 위례신도시에서 희소성이 높은 전용 84㎡ 단일면적으로 공급되며, 뉴스테이 최초로 테라스와 다락방 특화상품으로 조성되 +ㄴ다 .	O O LOC-B O O O O O O O O O O O O O O

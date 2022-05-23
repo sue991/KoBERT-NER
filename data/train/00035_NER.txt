@@ -9,6 +9,6 @@ vs SM 측 “팀 활동 신중히 결정 하+ㄹ 것” 팽 .	O ORG-B O O O O O 
 [오늘의 데이터 뉴스] 아르바이트 2697명에 묻었더 .	O O O O O O O
 우승 상금 1700만원을 받은 심상철은 누적상금 6000만원으로, 시즌 상금 부문 랭킹 1위로 올라서 +었다 .	O O MNY-B O PER-B O MNY-B O O O O O O O O
 물론 월 2회 촉탁의와 대면진료도 받고 있지만 그때를 제외하고 병원가+ㄹ일이 생기면 차로 10분가량 떨어지+ㄴ병원을 직접 방문 하+여야 +였다 .	O O O O O O O O O O O O O O O O O O O
-결국 이달 15일 열리+ㄴ2심 선고에서 재판부는 A군에게 징역 6월, B군과 C군에게 징역 8월에 위자료 총 6만 크로네(약 990만원)를 판결하였다 .	O O O O O O PER-B O MNY-B PER-B PER-B O O O O MNY-B O MNY-B O O
+결국 이달 15일 열리+ㄴ2심 선고에서 재판부는 A군에게 징역 6월, B군과 C군에게 징역 8월에 위자료 총 6만 크로네(약 990만원)를 판결하였다 .	O O O O O O PER-B O MNY-B PER-B PER-B O O O O MNY-B MNY-I MNY-B O O
 짝꿍지 석진도 트위터를 통하+여 “오늘 짝꿍예린이 검색어 1위 축하 축하” +이라는 글을 게재하며 예린을 응원하였다 .	O O O O O PER-B O O O O O O O PER-B O O
 이에 대하+여예린은 “멤버들 없이 첫 지상파 예능이라 많이 떨리었는데 선배님들이 정말 잘 하+여주+어서 행복하고 감사하였다 .	O PER-B O O O O O O O O O O O O O O

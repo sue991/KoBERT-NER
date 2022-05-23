@@ -8,5 +8,5 @@
 반대 여론의 경우 인천·경기가 46%, 서울과 호남이 각각 45%로 평균보다 조금 높았다 .	O O O LOC-B O LOC-B LOC-B O O O O O O
 [기업 &CEO] 국내 AR·VR산업기술 선도… ‘CES2017’ 서뜨겁ㄴ 관 .	O O O O O O O O O
 반면 말레이시아는 IMF의 자본자유화 요구를 거부하고 오히려 금리를 내리었다 .	O LOC-B ORG-B O O O O O O O
-정부는 2017년부터 국민연금의 운용성과를 일본 공적연금(GPIF)이나 미국의 캘리포니아 공무원 퇴직연금(CalPERS) 등 5개 내외의 글로벌 연기금과 비교하+여평가하기로 +였다 .	O O ORG-B O ORG-B ORG-B ORG-B ORG-B O ORG-B O O O O O O O O
+정부는 2017년부터 국민연금의 운용성과를 일본 공적연금(GPIF)이나 미국의 캘리포니아 공무원 퇴직연금(CalPERS) 등 5개 내외의 글로벌 연기금과 비교하+여평가하기로 +였다 .	O O ORG-B O ORG-B ORG-B ORG-B ORG-B ORG-I ORG-B O O O O O O O O
 잘츠부르크는 고작 인구 15만명의 작은 도시이다 .	LOC-B O O O O O O

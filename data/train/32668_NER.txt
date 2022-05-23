@@ -1,13 +1,13 @@
-홍준화 대표는 “플랜 넷코리아 초대 대표직을 맡게 되+어 영광이다”며 “플랫넷코리아를 효율적 이+ㄴ 디지털 통합 마케팅 솔루션에 특화되+ㄴ에이전시로 만들 +ㄹ 것”이라고 전하였다 .	PER-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O
-한편 이번 플랜 넷코리아 출범으로 서비스 플랜그룹은 자사의 ‘하우스오브 커뮤니케이션(HouseofCommu nication)’이라는 비즈니스 콘셉트를 한국에서 강화 하+ㄹ 방침이다 .	O O ORG-B O O ORG-B ORG-B O O O O O O LOC-B O O O O
+홍준화 대표는 “플랜 넷코리아 초대 대표직을 맡게 되+어 영광이다”며 “플랫넷코리아를 효율적 이+ㄴ 디지털 통합 마케팅 솔루션에 특화되+ㄴ에이전시로 만들 +ㄹ 것”이라고 전하였다 .	PER-B O ORG-B ORG-I O O O O O ORG-B O O O O O O O O O O O O
+한편 이번 플랜 넷코리아 출범으로 서비스 플랜그룹은 자사의 ‘하우스오브 커뮤니케이션(HouseofCommu nication)’이라는 비즈니스 콘셉트를 한국에서 강화 하+ㄹ 방침이다 .	O O O O O ORG-B ORG-I O O O O O O LOC-B O O O O
 로타바이러스를 대수롭지 않게 여기는 분위기 때문이라고 말 하+ㄴ다 .	O O O O O O O O O
-남미클럽 축구 결승전에 참가하려던 브라질 프로축구팀 ‘샤페코엔시’ 선수들이 항공기 추락 사고로 숨지+ㄴ 사고와 관련, 상대팀이 +ㄴ ‘아틀레티코나시오날’이 남미 축구연맹에 “샤피코엔시를 우승팀으로 하+여달라”고 29일(현지시간) 요청하였다 .	ORG-B O O O LOC-B O ORG-B O O O O O O O O O ORG-B ORG-B O ORG-B O O O O O
+남미클럽 축구 결승전에 참가하려던 브라질 프로축구팀 ‘샤페코엔시’ 선수들이 항공기 추락 사고로 숨지+ㄴ 사고와 관련, 상대팀이 +ㄴ ‘아틀레티코나시오날’이 남미 축구연맹에 “샤피코엔시를 우승팀으로 하+여달라”고 29일(현지시간) 요청하였다 .	ORG-B ORG-I O O LOC-B ORG-I ORG-B O O O O O O O O O ORG-B ORG-B ORG-I ORG-B O O O O O
 나시오날은 이날 공식 트위터와 홈페이지에 “이번 사고는 중남미와 세계 축구에 지우+ㄹ 수 없는 아픔을 남기었다”며 “사고 희생자들에 대하+ㄴ 위로와 경의를 표하기 위하+여대회 우승컵을 샤피코엔시에 바치+ㄴ다”고 밝히었다 .	ORG-B O O O O O O LOC-B O O O O O O O O O O O O O O O ORG-B O O O
-이날 콜롬비아산 악지역에 추락하+ㄴ 항공기에는 샤페코엔 시 선수와 구단 관계자, 취재기자 등 81명이 타고 있었다 .	O LOC-B O O O ORG-B O O O O O O O O O O
+이날 콜롬비아산 악지역에 추락하+ㄴ 항공기에는 샤페코엔 시 선수와 구단 관계자, 취재기자 등 81명이 타고 있었다 .	O LOC-B O O O ORG-B ORG-I O O O O O O O O O
 ‘라디오 스타’ 김재화 ‘라디오 스타’ 김재화, “학창시절 하정우가 연습실에 나이트클럽 만들어” ‘라디오 스타’ 배우 김재화가 학창시 철 배우 하정우의 활약상을 공개하+여화제+이다 .	O O PER-B O O PER-B O PER-B O O O O O O PER-B O O O PER-B O O O
 4일 방송되+ㄴ MBC ‘라디오 스타’에서는 ‘어디서 보+ㄴ듯 하+ㄴ 경향이 없지 않아 있네~관록의 뉴페이스!’ 특집으로 배우 김법래, 차순배, 최병모, 김재화가 출연하였다 .	O O ORG-B O O O O O O O O O O O O PER-B PER-B PER-B PER-B O O
 이날 김재화는 배우 하정우와 대학 선후배 사이이라고 밝히며 김재화는 “(하정우가) 후배들을 굉장히 많이 챙기+어주시+ㄴ다”며 “학생회장도 하+시었고 리더십 있고 멋있으시다”라고 하정우에 대하+여말문을 열었다 .	O PER-B O PER-B O O O O PER-B PER-B O O O O O O O O O PER-B O O O
-이어 김재화는 “과거 안성에 캠퍼스가 있었던 시절 주소가 ‘내리살+ㄴ 40-1번지’+이었는데, 안성에만 있다 보니 가+ㄹ 곳이 없었다 .	O PER-B O LOC-B O O O O LOC-B O LOC-B O O O O O O
+이어 김재화는 “과거 안성에 캠퍼스가 있었던 시절 주소가 ‘내리살+ㄴ 40-1번지’+이었는데, 안성에만 있다 보니 가+ㄹ 곳이 없었다 .	O PER-B O LOC-B O O O O LOC-B LOC-I LOC-B O O O O O O
 김숙은 문근영의 입에서 거칠 +ㄴ말이 나오자 “그 단어가 그렇게 예쁘+ㄴ 단어+이었어?”라고 놀라워하였다 .	O PER-B O O O O O O O O O O O
 전남지역의 한 골프장에서 친환경 골프장 관리를 배우기 위하+여 현장을 찾는 등 벤치마킹 장소로 떠오르고 있다 .	LOC-B O O O O O O O O O O O O O O O
 한편 청와대는 이날 박 대통령이 성묘하는 모습을 수행원이 휴대전화로 촬영하+ㄴ 사진을 언론에 공개하였다 .	O ORG-B O PER-B O O O O O O O O O O

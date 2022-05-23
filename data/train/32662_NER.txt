@@ -1,13 +1,13 @@
 [오늘의 데이터 뉴스]대포통장 명의자 20대가 가장 많군 .	O O O O O O O O
 당초 시장의 기대치+이었던 5000만대에도 못 미치었다 .	O O O O O O O
-최 감독 4골·서 감독 3골 예고올 시즌 첫 슈퍼매치부터 후끈 수원 삼성과 FC서울이 올 시즌 첫 ‘슈퍼매치’에서 화력 대결을 선언하였다 .	PER-B O PER-B O O O O O O O ORG-B O ORG-B O O O PER-B O O O O
+최 감독 4골·서 감독 3골 예고올 시즌 첫 슈퍼매치부터 후끈 수원 삼성과 FC서울이 올 시즌 첫 ‘슈퍼매치’에서 화력 대결을 선언하였다 .	PER-B O PER-B O O O O O O O ORG-B ORG-I ORG-B O O O PER-B O O O O
 차유람이 지성, 결혼식 7개월 전에 혼인신고… “축복 하+여주시기+ㄹ바라+ㄴ다”당구선수 차유람이 ‘속도 위반’ 논란에 공식 입장을 밝히었다 .	PER-B O O O O O O O PER-B O O O O O O O
 21일 차유람의 소속사 루브이엔엠 측은 “전 하+여지+ㄴ 소식들의 사실 여부를 확인 하+ㄴ 결과, 차유람은 결혼식을 올리기 7개월 전 이+ㄴ 2014년 11월 17일에 지금은 부부가 되+ㄴ이지성 작가와 이미 관할 구청에 찾아가 +아혼인신고를 마치었다”고 밝히었다 .	O PER-B O ORG-B O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O
 이어 “당시 사정상 결혼식을 올리+ㄹ 여건이 되지 않아 양가합의 하에 먼저 서류상으로나마 법적 부부가 되었고 지나 +ㄴ 6월 결혼식을 올리었다”고 덧붙이었다 .	O O O O O O O O O O O O O O O O O O O O O O
-소속사 측은 또 “차 유람의 출산 예정일은 연내일 것으로 예상 하+ㄴ다”며 “확실하지 않지만 딸이라고 하+ㄴ다 .	O O O PER-B O O O O O O O O O O O O
+소속사 측은 또 “차 유람의 출산 예정일은 연내일 것으로 예상 하+ㄴ다”며 “확실하지 않지만 딸이라고 하+ㄴ다 .	O O O PER-B PER-I O O O O O O O O O O O
 H&M그룹 측은 국내 젊은 신진예술가들과 함께 공간을 꾸리+ㄹ 계획이다 .	ORG-B O O O O O O O O O
-2사 후 9번 타자란 돌프오 뒤벌의 좌전 안타 후 시몬스가 우중간적 시 2 루타로 2-1로 앞서 +어나가았다 .	O PER-B O O O O O O PER-B O O O O O O O O O
-4회초에는 7번 커트 스미스와 8번 숀자라 하의 연속 볼넷과 오뒤 벌의 투수 앞번트 안타로 무사만루의 찬스를 잡은 뒤 1사 후 프로파르의 밀어내기 볼넷이 나오면서 3-1로 달아나 +았다 .	O O PER-B O O PER-B O O O PER-B O O O O O O O O O O PER-B O O PER-B O O O O
+2사 후 9번 타자란 돌프오 뒤벌의 좌전 안타 후 시몬스가 우중간적 시 2 루타로 2-1로 앞서 +어나가았다 .	O PER-B O O O O O O PER-B PER-I O O O O O O O O
+4회초에는 7번 커트 스미스와 8번 숀자라 하의 연속 볼넷과 오뒤 벌의 투수 앞번트 안타로 무사만루의 찬스를 잡은 뒤 1사 후 프로파르의 밀어내기 볼넷이 나오면서 3-1로 달아나 +았다 .	O O PER-B PER-I O PER-B PER-I O O PER-B O O O O O O O O O O PER-B O O PER-B O O O O
 이병헌 ♥ 이민정 오늘득 남…"새 생명 탄생 축복 하+여주시기+ㄹ .	PER-B O PER-B O O O O O O O
 90만원에 대학 선배 석사 논문 대필하+여주+ㄴ 현직 교 .	MNY-B O O O O O O O O
 미 주류 언론들은 이런 발언이 자신의 정치적 지위를 사업 마케팅 수단으로 여기고 있는 멜라니아의 속내를 드러내 +ㄴ 것이라고 해석하였다 .	LOC-B O O O O O O O O O O O O PER-B O O O O O O

@@ -1,4 +1,4 @@
-직원에게 물어보니 이 차가 팔리+ㄴ 가격은 15만 파운드(약 2억1500만원).1978년 당시 이 차의 가격은 1998 파운드(약 286만원) +이었다 .	O O O O O O MNY-B O MNY-B O O O O MNY-B O MNY-B O O
+직원에게 물어보니 이 차가 팔리+ㄴ 가격은 15만 파운드(약 2억1500만원).1978년 당시 이 차의 가격은 1998 파운드(약 286만원) +이었다 .	MNY-I O O O O O MNY-B MNY-I MNY-B O O O O MNY-B MNY-I MNY-B O O
 외교부는 김 이사장이 19일 의원 면직서를 제출하었으며 면직 관련 행정절차가 진행 중이라고 밝히었다 .	ORG-B PER-B O O O O O O O O O O O O
 한편 현재 ‘우리 결혼하었어요’에는 최태준·윤보미 외에도 배우 정혜성과 공명, 개그우먼 이국주와 가수 슬리피가 출연 중이다 .	O O O O PER-B O O PER-B O O PER-B O PER-B O O O
 (서울=뉴스1스타 .	LOC-B O
@@ -11,5 +11,5 @@
 지나+ㄴ 23~26일 NC와 의원정 3연전을 싹쓸이 하+ㄴ KIA는 27일 현재 6위(승률0.456·31승1무 3패)까지 올라서 +었다 .	O O ORG-B O O O O ORG-B O O O O O O O
 같은 해 하늘 역시 정규 1집 앨범 ‘보이스오브 퓨리티(VoiceOf Purity)’로 데뷔하였다 .	O O O O O O O O O O O O
 비슷하+ㄴ 시기에 데뷔 하+ㄴ 두 사람은 절친 하+ㄴ 사이로 알려지+어 있었다 .	O O O O O O O O O O O O
-일본군 위안부 참상고발 영화 ‘귀향’, 개봉 첫날 15만4천명 관 .	ORG-B O O O O O O O O O
+일본군 위안부 참상고발 영화 ‘귀향’, 개봉 첫날 15만4천명 관 .	ORG-B ORG-I O O O O O O O O
 VX를 대량 파괴무기로 사용 하+ㄴ 대표적 이+ㄴ독재정권은 이라크의 사담 후세인 정권이었다 .	O O O O O O O ORG-B O O O O

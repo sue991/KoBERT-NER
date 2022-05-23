@@ -1,5 +1,5 @@
 유 감독이 전략적으로 키우어 오+ㄴ이 대성(25)은 군에 입대하+ㄹ 예정이다 .	PER-B O O O O O O O O O
-‘복면가왕’고 추아가 씨 정체는 멜로디 데이 여은… “진심으로 사과드리+ㅂ니다” ‘복면가왕’에 출연하+ㄴ 맵ㄴ 맛을 보이어 주마고추아가씨의 정체는 걸그룹 멜로디 데이의 여은이었다 .	O O O O ORG-B O PER-B O O O O O O O PER-B O O ORG-B O PER-B O
+‘복면가왕’고 추아가 씨 정체는 멜로디 데이 여은… “진심으로 사과드리+ㅂ니다” ‘복면가왕’에 출연하+ㄴ 맵ㄴ 맛을 보이어 주마고추아가씨의 정체는 걸그룹 멜로디 데이의 여은이었다 .	O O O O ORG-B ORG-I PER-B O O O O O O O PER-B O O ORG-B ORG-I PER-B O
 BMW, 벤츠 등 자동차 업체와 SK텔레콤 같은 통신사들까지 모두 선보이+ㄴ 커넥티드 카 기술 역시 대용량 정보의 빠르+ㄴ 전달과 지연시간을 단축시키는 5G 기술의 상용화를 전제로 하+ㄴ다 .	ORG-B ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O
 방송사 카메라가 강 여사 자택 앞으로 몰려들었으나 대문은 한 번도 열리지 않았다 .	O O PER-B O O O O O O O O O O
 ‘이성경’ 배우 이성경이 ‘2015 서울 드라마 어워즈’에 참석하+여과감 하+ㄴ 디자인의 의상을 선보이어 화제가 되고 있다 .	PER-B O PER-B O O O O O O O O O O O O O

@@ -8,7 +8,7 @@
 이에 따르면 응답자의 83%가 북한 핵무기 개발이 동북아와 세계 평화를 위협하는 것으로 +았으며 72%가 북한에 핵무기 개발 포기를 요구 하+여야 하+ㄴ다고 답하였다 .	O O O O ORG-B O O ORG-B O O O O O O ORG-B O O O O O O O O
 특히 심서 연의 청순 하+ㄴ 미모가 시선을 사로잡는다 .	O O O O O O O O O
 심서연은 1989년생으로 국가대표팀에서 중앙수비수 겸 수비형 미드필더 선수로 활약하고 있다 .	PER-B O O O O O O O O O O
-한편, 대한민국 여자축구대표팀은 10일 오전 8시 캐나다 몬트리올 올림픽 스타디움에서 열리는 ‘2015 캐나다 여자 월드컵’ 조별리그 E조 1차전을 치르+ㄴ다 .	O ORG-B O O O O LOC-B LOC-B LOC-B O O O LOC-B O O O ORG-B O O O
+한편, 대한민국 여자축구대표팀은 10일 오전 8시 캐나다 몬트리올 올림픽 스타디움에서 열리는 ‘2015 캐나다 여자 월드컵’ 조별리그 E조 1차전을 치르+ㄴ다 .	O ORG-B O O O O LOC-B LOC-B LOC-B LOC-I O O LOC-B O O O ORG-B O O O
 이날 한국은 최전방 원톱 공격수로 박은선 대신 유영아를 내세우었다 .	O ORG-B O O O PER-B O PER-B O O
 [Hom e&D ream] 평택 스마트빌포레, 3.3m ²당 400만원대의 착하+ㄴ 분양 .	O O O O O O O MNY-B O O O
 이어 “‘도둑들’과 다르게 만들고 싶었다 .	O O O O O O

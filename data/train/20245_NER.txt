@@ -2,15 +2,15 @@
 크게 얇은 막을 한층씩 쌓는 ‘적층형’과 크+ㄴ 덩어리를 깎아서 형태를 만들는 ‘절삭형’으로 나누+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O
 글=박성민기자sampark27@j oongang. co.kr사진=임현동기 .	PER-B O PER-B O
 “왜요? 테스트 제품 쓰는 것+이잖아요.” 1일 서울 마포구의 한 매장을 방문하+ㄴ한 여성 고객이 한 시간 가까이 ‘풀메이크업’ 화장을 하며 테스트 제품을 독점 사용하자 종업원이 조심스레 만류하었다 .	O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O
-미국 CBS 스포츠는 2일 올 시즌 MLB 최고 우익수 15명을 선정하면서 푸이그를 7위에 올리었다 .	ORG-B ORG-B O O O O ORG-B O O O O PER-B O O O
+미국 CBS 스포츠는 2일 올 시즌 MLB 최고 우익수 15명을 선정하면서 푸이그를 7위에 올리었다 .	ORG-B ORG-B ORG-I O O O ORG-B O O O O PER-B O O O
 푸이그는 동료들과 관계 개선에도 적극적으로 나서고 있다 .	PER-B O O O O O O O
-반대 소신을 펴 +어+오았던 김 장관은 아직 침묵하면서 개각에 대비하는 몸짓이다 .	O O O O PER-B O O O O O O O
+반대 소신을 펴 +어+오았던 김 장관은 아직 침묵하면서 개각에 대비하는 몸짓이다 .	O O O O PER-B PER-I O O O O O O
 박인비, ‘LPGA 명예의 전당’ 입회… 박세리 잇어 한국인 두 번 .	PER-B ORG-B O O O PER-B O O O O O
-엠마 왓슨은 공식적 이+ㄴ 자리에서 페미니즘을 주장하+여+오았다 .	PER-B O O O O O O O
+엠마 왓슨은 공식적 이+ㄴ 자리에서 페미니즘을 주장하+여+오았다 .	PER-B PER-I O O O O O O
 2030 어젠다의 가장 크+ㄴ 특징은 “아무도 낙오시키지 않겠다”는 원칙이다 .	O O O O O O O O O O
-KBO 리그에서 해태, 현대, 삼성, SK 등이 왕조를 건설하였다 .	ORG-B O ORG-B ORG-B ORG-B ORG-B O O O O
+KBO 리그에서 해태, 현대, 삼성, SK 등이 왕조를 건설하였다 .	ORG-B ORG-I ORG-B ORG-B ORG-B ORG-B O O O O
 김생기 정읍시장(69)은 총선 과정에서 같은 당 후보에 대하+ㄴ 지지 발언을 하+ㄴ 혐의로 법정에서 +었다 .	PER-B O O O O O O O O O O O O O O
-KG이데일리 오픈 첫날 버디 6개로 공동 선두 “부담 털고 타이틀 방어 위 하+여 최선 다 하+ㄹ 것” 2년차 이정은 5타줄이며 2승 발판 조용하던 고진영(22)이 슬슬감을 잡았다 .	ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O
+KG이데일리 오픈 첫날 버디 6개로 공동 선두 “부담 털고 타이틀 방어 위 하+여 최선 다 하+ㄹ 것” 2년차 이정은 5타줄이며 2승 발판 조용하던 고진영(22)이 슬슬감을 잡았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
 문의 : 02-739-1420 후원 : 국민은행 994401-01-270223(전국장애인차별철폐연대) 육성 철 국가인권위원회 조사 .	O O O O O ORG-B ORG-B O O ORG-B O O
 해늘 소장은 “중국에, 김정남은 김씨 일가에 대하+ㄴ 신뢰를 전하였으며 또 중국식 경제개혁을 지지하+여오+ㄴ 인물이었다”고 지적하였다 .	O O ORG-B PER-B PER-B O O O O O ORG-B O O O O O
 드론 같은 신기술 관련 제품에서도 중국 기업들의 기술 발전 속도가 상당하다는 것을 확인하였기 때문이다 .	O O O O O ORG-B O O O O O O O O O

@@ -1,17 +1,17 @@
 방어율 2.78인 고메스는 단 한 차례만 블론세이브를 기록하였다 .	O O PER-B O O O O O O
 ‘해피투게더’임은경, 최다니엘과 어색 하+ㄴ 사이 "누나+이라고 부르었는데 어색…"배우임은경과 최다니엘이 ‘해피투게더’에서 어색 하+ㄴ 사이이라고 말하였다 .	PER-B PER-B O O O O O PER-B PER-B O O O O O O
-네 개의 회전식 좌석이 탑승자의 편리성을 극대화하였으며 여러 개의 스테레오 카메라와 레이더 센서를 탑재하였다 .	O O O O O O O O O PER-B O O O O O
+네 개의 회전식 좌석이 탑승자의 편리성을 극대화하였으며 여러 개의 스테레오 카메라와 레이더 센서를 탑재하였다 .	O O O O O O O O O PER-B PER-I O O O O
 2006년 이후 독거노인과 미혼모 가정에 김치·반찬도 수시로 가져다 주었다 .	O O O O O O O O O O
 시즌 15사구로 NL 전체 2위 +이다 .	O O ORG-B O O O O
 일반적 이+ㄴ 예상과 달리 영국 경제는 브렉시트 결정 이후 오히려 좋아 지+었다 .	O O O O ORG-B O O O O O O O O
 윤보미 역대급 시구, 18.44m 거리서 노바운드로 … 해설자도 깜 .	PER-B O O O O O O O O O
 이어 그는 “미국에 처음 가+아서 학교도 안 다니고 친구도 없을 때 짐가방에서 ‘니가 있어야 하+ㄹ곳’ 테이프를 +았다 .	O O ORG-B O O O O O O O O O O O O O O O
-에밀리아 클라크, 전 세계서 가장 섹시하+ㄴ 여성으로 우 .	PER-B O O O O O O O O
+에밀리아 클라크, 전 세계서 가장 섹시하+ㄴ 여성으로 우 .	PER-B PER-I O O O O O O O
 '런닝맨' 서+ㄹ 특집 '2015년 신년요리대전'은 15일 오후 방송되+ㄴ다 .	O O O O O O O O O
 차이잉원 총통은 “대만의 ICT 산업의 발전상을 컴퓨텍스가 보이어 주+ㄹ 것”이라며 자신감도 내비치었다 .	PER-B O ORG-B O O O O O O O O O O
 안건준 대표는 “‘메가트렌드(거대 하+ㄴ 변화)’를 읽는 능력이 중소기업에도 필요하다”고 강조하였다 .	PER-B O O O O O O O O O O
-밥 딜런이 무려 반세기 전 이+ㄴ 1965년에 발표하+ㄴ ‘SubterraneanHomes ickBlues’에서 이런 구절을 발견 하+ㄴ 것이다 .	PER-B O O O O O O O O O O O O O O O
+밥 딜런이 무려 반세기 전 이+ㄴ 1965년에 발표하+ㄴ ‘SubterraneanHomes ickBlues’에서 이런 구절을 발견 하+ㄴ 것이다 .	PER-B PER-I O O O O O O O O O O O O O O
 현대차의 차종별 정비 매뉴얼, 현대차 발전사, 브랜드 단행본 같은 서적 553권을 비롯하+여 총 2500여권의 국내외 책자를 구비하였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O
 3~5층에 이르는 3개 창가에 +ㄴ 9대의 차량을 공중에 매달아 조금씩 돌아가도록 만들 +ㄴ ‘카로테이터(CarRotator)’를 배치하였다 .	O O O O O O O O O O O O O O O O
 룸메이트남 희석, 조세호 때문에 술 먹고 울+ㄴ 사연? “나+의 옆에 있느라고생 하+ㄴ 친구 .	O O PER-B O O O O O O O O O O O
-플랜 넷코리아 합류 직전에는 국내 디지털 선두그룹이 +ㄴ 차이 커뮤니케이션의 통합 캠페인(IC) 본부를 맡았다 .	ORG-B O O O O O O O ORG-B O O O O O O
+플랜 넷코리아 합류 직전에는 국내 디지털 선두그룹이 +ㄴ 차이 커뮤니케이션의 통합 캠페인(IC) 본부를 맡았다 .	ORG-B ORG-I O O O O O O ORG-B ORG-I O O O O O

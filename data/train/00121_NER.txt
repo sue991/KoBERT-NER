@@ -1,7 +1,7 @@
 또한 이날로만 21세 1개월 24일이 되+ㄴ 김시우는 1978년 세베바예스테로(20세 11개월 24일) 이후 역대 두 번째 최연소 우승기록을 세우었다 .	O O O O O O PER-B O PER-B O O O O O O O O O O
-넥슨 일본법인은 넥슨코리아를 통하+여일렉트로닉 아츠(EA)와 리스폰 엔터테인먼트가 개발하+ㄴ일인칭 슈팅(FPS) 게임 ‘EA 타이탄폴’의 온라인 버전 개발 및 아시아 지역 퍼블리싱 계약을 체결하였다고 29일 밝히었다 .	ORG-B O ORG-B ORG-B ORG-B ORG-B O O O O ORG-B O O O O O LOC-B O O O O O O O
+넥슨 일본법인은 넥슨코리아를 통하+여일렉트로닉 아츠(EA)와 리스폰 엔터테인먼트가 개발하+ㄴ일인칭 슈팅(FPS) 게임 ‘EA 타이탄폴’의 온라인 버전 개발 및 아시아 지역 퍼블리싱 계약을 체결하였다고 29일 밝히었다 .	ORG-B ORG-I ORG-B ORG-B ORG-B ORG-B ORG-I O O O ORG-B O O O O O LOC-B O O O O O O O
 구단의 미래를 위하+여유소년지도 경험이 많은 최 감독이 적임자+이라고 판단하였다”고 설명하였다 .	O O O O O PER-B O O O O O
-동시에 너무 유명 하+ㄴ 남편 빌 클린턴(69) 전 대통령과 여론을 피하+여 꼭 꼭 숨어 오+ㄴ젭 부시 전 지사의 아내 콜룸 바 부시(62) 간의 극과 극배우자 대결이 숨어 있다 .	O O O O O PER-B O O O O O O O O PER-B O O O O PER-B O O O O O O O O O
+동시에 너무 유명 하+ㄴ 남편 빌 클린턴(69) 전 대통령과 여론을 피하+여 꼭 꼭 숨어 오+ㄴ젭 부시 전 지사의 아내 콜룸 바 부시(62) 간의 극과 극배우자 대결이 숨어 있다 .	O O O O O PER-B PER-I O O O O O O O PER-B PER-I O O O PER-B O O O O O O O O O
 짐머맨은 “오늘 경기의 유일하+ㄴ 실수+이었다”고 말하였다 .	PER-B O O O O O O
 동시에 서울시는 해당 경유차 차주에게 저공해 장비 장착을 위하+ㄴ보조금을 지급하+ㄴ다 .	O ORG-B O O O O O O O O O
 2년 연속 200안타도 전도 그렇게 끝나 +았다 .	O O O O O O O O

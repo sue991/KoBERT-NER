@@ -1,7 +1,7 @@
 이로 인하+ 여 최고 49층 5940가구로 재건축을 추진 중 이+ㄴ은마아파트는 답보상태에 빠지+어 있다 .	O O O O O O O O O LOC-B O O O O
 한 장관의 등장에 지역 주민 100여명이 거세게 항의하였지만 몸싸움은 없었습니다 .	PER-B O O O O O O O O O O
 프로 선수 1명을 만들기 위하+ㄴ 가족의 헌신도 만만하지 않다 .	O O O O O O O O O O
-한편 서울서부지검 형사5부(부장 김도균)는 이날 12개 업체로부터 58억원을 가로채고 회사 돈 23억원을 횡령 하+ㄴ 혐의로 김 부장검사의 고교 동창 김씨를 구속 기소하였다 .	O ORG-B O PER-B O O O MNY-B O O O MNY-B O O O PER-B O O O PER-B O O O
+한편 서울서부지검 형사5부(부장 김도균)는 이날 12개 업체로부터 58억원을 가로채고 회사 돈 23억원을 횡령 하+ㄴ 혐의로 김 부장검사의 고교 동창 김씨를 구속 기소하였다 .	O ORG-B ORG-I PER-B O O O MNY-B O O O MNY-B O O O PER-B ORG-I O O PER-B O O O
 보+ㄴ 발명 제품은, 대한민국, 미국, 중국, 유럽연합에 특허 등록이 되어 있다”고 강 대표는 말하였다 .	O O O ORG-B ORG-B ORG-B ORG-B O O O O PER-B O O O
 입시와 관련되 +ㄴ 잘못되+ㄴ 정보, 혹은 정보 비대칭의 대안으로 팟캐스트를 시작하게 +었다 .	O O O O O O O O O O O O O
 전국 고속도로 터널에서 연잇어 사고 26일 전국의 고속도로 터널에서 무려 5건(잠정 집계)의 사고가 나+았다 .	O O O O O O O O O O O O O O O

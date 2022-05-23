@@ -1,6 +1,6 @@
-두테르테 대통령의 잇달 +ㄴ탈미친중(脫美親中) 발언에 놀라 +아필리핀으로 급파되 +ㄴ대니얼 러셀 미 국무부 동아시아태평양 담당 차관보는 이날 필리핀의 외교 당국자들과 만나 +ㄴ 뒤 AP통신 등에 “필리핀은 여전히 가깝고 신뢰하는 동반자”라고 밝히었다 .	PER-B O O ORG-B O O ORG-B O PER-B O ORG-B O LOC-B O O O ORG-B O O O O O O O ORG-B O O O O O O
+두테르테 대통령의 잇달 +ㄴ탈미친중(脫美親中) 발언에 놀라 +아필리핀으로 급파되 +ㄴ대니얼 러셀 미 국무부 동아시아태평양 담당 차관보는 이날 필리핀의 외교 당국자들과 만나 +ㄴ 뒤 AP통신 등에 “필리핀은 여전히 가깝고 신뢰하는 동반자”라고 밝히었다 .	PER-B O O ORG-B O O ORG-B O PER-B PER-I ORG-B ORG-I LOC-B O O O ORG-B O O O O O O O ORG-B O O O O O O
 론스타의 주장은 두 가지 +이다 .	O O O O O O
-하나는 외환은행과 스타홀딩스 등 빌딩 매각 차익에 한국 정부가 매기+ㄴ 세금이 부당하다는 거+이다 .	O ORG-B ORG-B O O O O ORG-B O O O O O O
+하나는 외환은행과 스타홀딩스 등 빌딩 매각 차익에 한국 정부가 매기+ㄴ 세금이 부당하다는 거+이다 .	O ORG-B ORG-B O O O O ORG-B ORG-I O O O O O
 현재 대우조선해양 등에 대하+ㄴ부실관리 책임을 지기 위 하+여 인력 감축, 임금 삭감 등의 자구계획을 마련 중이어서 채용 규모가 예년보다 줄어들 +ㄹ 것이라는 전망이 나 오+ㄴ다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
 전용 84㎡T, 122㎡ T 타입은 최대 71㎡의 테라스 공간이 제공되+어넓은 내부와 함께 여유롭 ㄴ 생활이 가능하다 .	O O O O O O O O O O O O O O O O O
 4.2km의 최장 슬로프는 마운틴탑에서 시작하+여밸리 허브를 경유하고 밸리 콘도까지 이어지+ㄴ다 .	O O O O O O O O O O O

@@ -1,6 +1,6 @@
 팀을 이루는 나머지 멤버들 역시 연출자로서 유PD에게는 상당 하+ㄴ 기운을 불어넣어 주+ㄴ 존재들이다 .	O O O O O O PER-B O O O O O O O
 다음카카오는 이날 모바일 콘텐트 플랫폼이 +ㄴ ‘카카오 채널’도 공식 출시하였다 .	ORG-B O O O O O O O O O O
-MLB는 이미 미국 질병 예방관리센터(CDC)가 권장하는 감염 예방 대책에 관하+ㄴ 정보를 메이저리그 구단들과 교류하고 있다 .	ORG-B O ORG-B O ORG-B O O O O O O O O O O O
+MLB는 이미 미국 질병 예방관리센터(CDC)가 권장하는 감염 예방 대책에 관하+ㄴ 정보를 메이저리그 구단들과 교류하고 있다 .	ORG-B O ORG-B ORG-I ORG-B O O O O O O O O O O O
 포트마이어스에 오+ㄴ지 열흘 이 +었다 .	LOC-B O O O O O
 ―정책의 일관성과 「상황의 2중성」 논리는 모순되는 것 아니+ㅂ니까 .	O O O O O O O O O
 자산 규모 350조원의 국내 최대 대기업집단의 골격을 바꾸는 일이라고려 하+ㄹ점이 많습니다 .	O O MNY-B O O O O O O O O O

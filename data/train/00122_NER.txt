@@ -2,12 +2,12 @@
 우리 군 당국 등을 따르면 경기도 파주시 등 북한과 가깝ㄴ 전방지역 일대에서 북한의 대남 심리전 방송을 FM 라디오 주파수로 송출하고 있는 것으로 확인되었다 .	O O O O O LOC-B LOC-B O ORG-B O O O ORG-B O O O O O O O O O O O
 “메르스 확산 사태, 성장률 0.1%포인트 낮추+어 .	O O O O O O O
 이에 따르 아에어팟 사용자가 탭 한 번으로 간단하게 설정하기만 하면 자동으로 켜+어지고 연결을 유지하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O
-크로캅, 19년 만에 방한… 옥타곤 것 +ㄹ ‘아리아니셀레스티’도 UFC 첫 한국대회 홍보 최근 UFC 재기에 성공하+ㄴ ‘불꽃 하이킥’의 전설미로코크로캅과 옥타곤 것 +ㄹ아리아니셀레스티 셀레스트의 방한이 이목을 집중시키고 있다 .	PER-B O O O O O O PER-B ORG-B O LOC-B O O ORG-B O O PER-B O PER-B O O PER-B O O O O O O
+크로캅, 19년 만에 방한… 옥타곤 것 +ㄹ ‘아리아니셀레스티’도 UFC 첫 한국대회 홍보 최근 UFC 재기에 성공하+ㄴ ‘불꽃 하이킥’의 전설미로코크로캅과 옥타곤 것 +ㄹ아리아니셀레스티 셀레스트의 방한이 이목을 집중시키고 있다 .	PER-B O O O O O O PER-B ORG-B O LOC-B O O ORG-B O O PER-B PER-I PER-B O O PER-B PER-I O O O O O
 오늘(7일) 인천공항을 통하+여방한 하+ㄴ종합격투기 선수 미로코크로캅은 8일 열리는 ‘UFC 파이트 나이트인 서울’ 기자회견에 참석하+ㄹ 예정이다 .	O LOC-B O O O PER-B O O O O O O O O O O
 이번 크로캅의 방한은 19년 만으로, ‘UFC 파이트 나이트인 서울’ 기자회견에 참석하+ㄴ후 8일 오후 서울시 서초구 반포동에서 열리는 팬사인회에 참석하+여 한국의 팬들과도 만나 +ㄹ 예정이다 .	O PER-B O O O O O O LOC-B O O O O LOC-B LOC-B LOC-B O O O LOC-B O O O O O
-오는 11월 28일 서울 송파구 올림픽공원 내 올림픽체조경기장에서 개최되 +ㄹ 예정이+ㄴ ‘UFC 파이트 나이트인 서울’은, 크로캅 외에도 벤슨 헨더슨, 추성훈, 김동현 등 대회에 출전을 알리+어 세계 격투기 팬들의 이목이 집중되고 있다 .	O O O LOC-B LOC-B LOC-B O LOC-B O O O O O O LOC-B PER-B O PER-B O PER-B PER-B O O O O O O O O O O O
-크로캅은 ‘UFC 파이트 나이트인 서울’에서 앤서니 해밀턴과 맞붙게 되+ㄹ 예정으로 알려지었다 .	PER-B O O O O PER-B O O O O O O
-앞서 +어지나 +ㄴ 4월 크로캅은 지나 +ㄴ ‘UFC 파이트 나이트 64’ 대회 메인 이벤트 헤비 급매치에서 가브리엘 곤자가를 상대로 엘보우 공격을 퍼붓으며 3라운드 TKO승을 거두었다 .	O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O
+오는 11월 28일 서울 송파구 올림픽공원 내 올림픽체조경기장에서 개최되 +ㄹ 예정이+ㄴ ‘UFC 파이트 나이트인 서울’은, 크로캅 외에도 벤슨 헨더슨, 추성훈, 김동현 등 대회에 출전을 알리+어 세계 격투기 팬들의 이목이 집중되고 있다 .	O O O LOC-B LOC-B LOC-B O LOC-B O O O O O O LOC-B PER-B O PER-B PER-I PER-B PER-B O O O O O O O O O O O
+크로캅은 ‘UFC 파이트 나이트인 서울’에서 앤서니 해밀턴과 맞붙게 되+ㄹ 예정으로 알려지었다 .	PER-B O O O O PER-B PER-I O O O O O
+앞서 +어지나 +ㄴ 4월 크로캅은 지나 +ㄴ ‘UFC 파이트 나이트 64’ 대회 메인 이벤트 헤비 급매치에서 가브리엘 곤자가를 상대로 엘보우 공격을 퍼붓으며 3라운드 TKO승을 거두었다 .	O O O O PER-B O O O O O O O O O O O PER-B PER-I O O O O O O O O
 당시 대회는 지나 +ㄴ 2007년 4월 ‘UFC 70’에서 곤자가와 맞대결을 펼치+어 1라운드에서 곤자가 의 하이킥에 실신 KO 패+였던 굴욕을 8년 만에 되돌리+어주+ㄴ 복수전으로 기록되었다 .	O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O
 한편 이번 ‘UFC 파이트 나이트인 서울’의 홍보를 위하+ 여옥타곤 것 +ㄹ(Girl)로 활약 중 이+ㄴ아리아니셀레스티도 7일 입국하+여 10일까지 한국에 머물며 UFC 첫 한국대회의 홍보활동에 나서 +ㄹ 것으로 알려지+어 눈길을 끌었다 .	O O ORG-B O O O O O O O O O O PER-B O O O LOC-B O ORG-B O LOC-B O O O O O O O O
 3층에는 20대 여성에게 인기 높은 온라인 쇼핑몰 ‘임블리’의 오프라인 매장과 ‘매그제이’ 등이 입점 +하였다 .	O O O O O O O O O O O O O O O

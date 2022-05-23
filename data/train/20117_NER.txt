@@ -1,12 +1,12 @@
 경찰에 따르면 달톤에게 범죄 경력은 없고, 범행 동기는 아직까지 밝혀지지 않았다 .	O O PER-B O O O O O O O O O
 지나+ㄴ 4월 21일 2015 여름 첫 시즌 프로모션을 개시하면서 6주 만에 100만잔 판매를 돌파하며 많은 인기를 얻고 있다 .	O O O O O O O O O O O O O O O O O O O
 스타벅스는 오는 22일까지 ‘마이스타벅스 리워드’ 그린과 골드 레벨 회원이 스타벅스 카드로 ‘믹스베리 피지오’, ‘유자 아이스 쉐이크+ㄴ티피지오’, ‘쿨라임 피지오’ 등 피지오 음료를 구매하면 한 잔당별 3개를 추가 증정하며, 스타벅스 여름 프로모션 웹사이트(www. istarbucks. co.kr/2015summer)에서 음료 이름을 맞추는 퀴즈 이벤트를 통하+여 총 1000명에게 무료 여름 음료 e-쿠폰을 증정하+ㄴ다 .	ORG-B O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-수도권 지하철 신분당선 판교역에서 걷어서 3분 거리 이+ㄴ경기도 성남 판교신도시의 중심상업지구(알파돔시티).오는 11월 이곳에 입주하는 복합단지 이+ㄴ 판교 알파리움 아파트 분양권을 사려면 웃돈(프리미엄) 2억원 이상을 주+어야 하는데도 부동산 중개업소를 찾는 손님은 꾸준하다 .	LOC-B O LOC-B LOC-B O O O LOC-B LOC-B LOC-B LOC-B O O O O O LOC-B LOC-B O O O O MNY-B O O O O O O O O O
+수도권 지하철 신분당선 판교역에서 걷어서 3분 거리 이+ㄴ경기도 성남 판교신도시의 중심상업지구(알파돔시티).오는 11월 이곳에 입주하는 복합단지 이+ㄴ 판교 알파리움 아파트 분양권을 사려면 웃돈(프리미엄) 2억원 이상을 주+어야 하는데도 부동산 중개업소를 찾는 손님은 꾸준하다 .	LOC-B O LOC-B LOC-B O O O LOC-B LOC-B LOC-B LOC-B O O O O O LOC-B LOC-B LOC-I O O O MNY-B O O O O O O O O O
 올 4월 첫 아이 출산을 앞두고 있는 그는 출산 준비에도 ‘미니멀리즘’을 실천 중이다 .	O O O O O O O O O O O O O O
 난자 채취를 하는 그날, 하루 휴가를 내+ㄹ 수 있었다 .	O O O O O O O O O O
 90kW h의 배터리 용량을 지니 +ㄴ 모델S 90D 도슈처차저에서는 완충까지 1시간이 걸리지 않는다 .	O O O O O O O O O O O O O O
 하지만 지금 홍 지사의 애매하+ㄴ 발언에 국민들의 궁금증은 커지고 있다 .	O O PER-B O O O O O O O O
 헤지펀드는 1백 명 미만의 거액 투자가들의 돈을 대신 운용 하+여주는 일종의 투자신탁회사로 작년에 수십억달러에 달하는 투자액의 수익률은 70%에 달하+ㄴ 것으로 알려지었다 .	ORG-B O O O O O O O O O O O O MNY-B O O O O O O O O
 이 지역에서 지나 +ㄴ 30년간 지역민의 크고 작은 아픔을 보살피며 ‘인간 중심의 참병원’을 추구하+여오+ㄴ 의료기관이 있다 .	O O O O O O O O O O O O O O O O O
-뉴욕의 윈덤 뉴요커 호텔 3층 홀에서의 13분간 승복 연설에서 그는 몇 번이고 복받치 +어오르는 감정을 억누르었다 .	LOC-B LOC-B O O O O MNY-B O O O O O O O O O O
+뉴욕의 윈덤 뉴요커 호텔 3층 홀에서의 13분간 승복 연설에서 그는 몇 번이고 복받치 +어오르는 감정을 억누르었다 .	LOC-B LOC-B LOC-I LOC-I O O MNY-B O O O O O O O O O O
 이를 위하+ 여 촬영 때마다 4시간이 소요되는 특수분장에도 나서 +었다 .	O O O O O O O O O O O

@@ -5,9 +5,9 @@
 프테라노 돈의 비행막은 두께가 1㎜에 불과하다 .	O O O O O O O
 하림은 당일 배송을 서울지역을 중심으로 시범 운영 후 향후 전국적으로 확대하+여나가 +ㄴ다는 계획이다 .	ORG-B O O LOC-B O O O O O O O O O O
 철강 전 품목에 대하+여 10% 이상 크+ㄴ폭의 가격 인상을 포스코가 공지하+ㄴ 것은 이례적이다 .	O O O O O O O O O ORG-B O O O O
-파파야고 나은 고낫은 이 배우로 전향 하+ㄹ 때의 일화가 다시 화제+이다 .	ORG-B O O O O O O O O O O O
+파파야고 나은 고낫은 이 배우로 전향 하+ㄹ 때의 일화가 다시 화제+이다 .	ORG-B PER-I PER-I O O O O O O O O O
 1세대 걸그룹이 +ㄴ '파파야'의 멤버 고나은은 가수 활동을 시작하기 전부터 배우가 꿈이었다 .	O O O ORG-B O PER-B O O O O O O O
 그는 과거 한 매체와의 인터뷰에서 "가수로 연예계에 데뷔하기 전에 배우를 지망하였다 .	O O O O O O O O O O O O
-한편 시흥배곧신도시 EGthe12차 에듀그린는 실수요자들이 선호하는 전용 85㎡ 이하 중소형 평형으로만 구성되 +ㄴ다 .	O LOC-B LOC-B O O O O O O O O O O O
+한편 시흥배곧신도시 EGthe12차 에듀그린는 실수요자들이 선호하는 전용 85㎡ 이하 중소형 평형으로만 구성되 +ㄴ다 .	O LOC-B LOC-B LOC-I O O O O O O O O O O
 나씨 측 주장은 나씨 메모에 의하+ㄴ 것”이라고 반박하였다 .	PER-B O O PER-B O O O O O
 이에 재판부는 양측에 생활비 송금 내역 등이 담기 +ㄴ 계좌 자료 제출을 요구하였다 .	O O O O O O O O O O O O O O

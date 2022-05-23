@@ -1,14 +1,14 @@
-살로몬 아웃도어, XAPRO 3D 한정판 출 .	ORG-B O O O O O O
+살로몬 아웃도어, XAPRO 3D 한정판 출 .	ORG-B ORG-I O O O O O
 세상에는 최순실처럼 사기성이 농후 하+ㄴ사람이 없지 않지만 활개를 치고 살기 +ㄴ 힘들다 .	O PER-B O O O O O O O O O O O
 JTBC ‘썰전’에서는 박근혜 대통령의 광복절 경축사 논란과 전기요금 누진제 등에 대하+여이야기 하+ㄴ다 .	O O PER-B O O O O O O O O O O
-빈지노, 스테파니 미초바와 열애… “공공연 하+ㄴ 사실 .	PER-B PER-B O O O O O O
+빈지노, 스테파니 미초바와 열애… “공공연 하+ㄴ 사실 .	PER-B PER-B PER-I O O O O O
 정부는 올해 12월 31일까지만 가습기 살균제 관련 피해신고를 받겠다고 밝히었다 .	ORG-B O O O O O O O O O O
 이 기술의 우수성으로 이 회사는 130개국에서 1400여개 제품이 출품되+ㄴ 세계 양봉대회 ‘WBA 아피몬디아 콘테스트’의 프로폴리스 부문에서 그랑프리 금상을 수상하였다 .	O O O O O O O O O O O O O O O O O O O O
 레이디스코드 ‘아프아 도 웃을래’ 발표, 타히티 아리 “장례식장서 어머니가…” 과거 발언 재조명 그룹 레이디스코드가 1년 만에 신곡 ‘아프아 도 웃을래’를 발표하며 전 멤버+이었던 고(故)은 비와 권리세를 추모하였다 .	PER-B O O O O ORG-B PER-B O O O O O O PER-B O O O O O O O O O O O PER-B O O
 1871년 미국은 제너럴셔먼 호 사건을 구실로 통상을 요구하+여+오았다 .	O ORG-B O O O O O O O
 그 중에서도 현재 분양홍보관을 오픈 중 이+ㄴ 두산더랜드파크(가칭)가 마곡 최고의 최적의 입지로 주목받고 있다 .	O O O O O O O ORG-B LOC-B O O O O O O
-1996년 설립하+ㄴ익스피디 알는 마이크로소프트 사내 온라인 여행 서비스 조직으로 시작하+여독립 하+ㄴ 회사로 현재 전 세계 30개국에서 공식 웹사이트를 운영하고 있다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
-두산 김태형 감독은 3일 안규영과 4일 이현호를 선발로 예고하였고, 8일 LG전에 ‘판타스틱4’라 불리는 더스틴 니퍼트와 마이클 보우덴~장원준~유희관, 4명의 선발 투수를 모두 투입하겠다고 공언하였다 .	ORG-B PER-B O O PER-B O PER-B O O O ORG-B ORG-B O PER-B O PER-B PER-B O O O O O O O
-솔로곡으로 산울림의 ‘회상’을 부르면서 가면을 벗은 얼음 공주 조혜련은 눈물을 흘리며 곡을 열창하+여보는 이들의 마음을 감동시키었다 .	O ORG-B O O O O PER-B O PER-B O O O O O O O O
-슈퍼리그 우승팀이+ㄴ 광저우에 버그란데는 2013년과 2015년 ACL 정상에 오르+ㄴ 중국 최강의 팀이다 .	O O ORG-B O O O ORG-B O O ORG-B O O O
+1996년 설립하+ㄴ익스피디 알는 마이크로소프트 사내 온라인 여행 서비스 조직으로 시작하+여독립 하+ㄴ 회사로 현재 전 세계 30개국에서 공식 웹사이트를 운영하고 있다 .	O ORG-B ORG-I ORG-B O O O O O O O O O O O O O O O O O
+두산 김태형 감독은 3일 안규영과 4일 이현호를 선발로 예고하였고, 8일 LG전에 ‘판타스틱4’라 불리는 더스틴 니퍼트와 마이클 보우덴~장원준~유희관, 4명의 선발 투수를 모두 투입하겠다고 공언하였다 .	ORG-B PER-B O O PER-B ORG-I PER-B O O O ORG-B ORG-B O PER-B PER-I PER-B PER-B ORG-I O O O O O O
+솔로곡으로 산울림의 ‘회상’을 부르면서 가면을 벗은 얼음 공주 조혜련은 눈물을 흘리며 곡을 열창하+여보는 이들의 마음을 감동시키었다 .	O ORG-B O O O O PER-B PER-I PER-B O O O O O O O O
+슈퍼리그 우승팀이+ㄴ 광저우에 버그란데는 2013년과 2015년 ACL 정상에 오르+ㄴ 중국 최강의 팀이다 .	O O ORG-B ORG-I O O ORG-B O O ORG-B O O O
 로이터 박사는 ‘순환경제4.0’의 또 다른 대표주자로 핀란드의 아우토테크를 들었다 .	PER-B O O O O O ORG-B ORG-B O O

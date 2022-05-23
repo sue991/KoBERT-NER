@@ -4,7 +4,7 @@
 하지만 주총에서 합병이 성사되+어도 삼성 입장에서 +ㄴ그 후 가 문제+이라는 전망이 나 오+ㄴ다 .	O O O O ORG-B O O O O O O O O O
 RookieStakes는 조기에 승급 하+ㄴ 2세마(5등급 이상)를 대상으로 하+ㄴ경주+이다 .	O O O O O O O O O
 황씨는 현정은 현대그룹 회장과의 친분을 바탕으로 그룹 경영에 개입하+ㄴ 의혹을 받았지만 수사기간이 늘어지고 핵심 참고인이 도주하면서 이듬해 1월 개인비리 이+ㄴ 횡령 혐의로 불구속 기소되었다 .	PER-B PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
-자세 하+ㄴ 공연 내용은 남산골 한옥마을 홈페이지(hanokmaeul.or.kr)에서 확인 하+ㄹ 수 있다 .	O O O O LOC-B O O O O O O O
+자세 하+ㄴ 공연 내용은 남산골 한옥마을 홈페이지(hanokmaeul.or.kr)에서 확인 하+ㄹ 수 있다 .	O O O O LOC-B LOC-I O O O O O O
 매일 초등학생 39명이 찾아오는 아동센터에 공부를 보+아주는 교사가 단 한 명뿐이어서 +이다 .	O O O O O O O O O O O O O
 한편, 한국항공대 중장년 아카데미는 이번 '항공드론 활용 전문가 양성과정'과 관련 하+여, 오는 24일 국내 최초 항공드론 활용 세미나도 개최 하+ㄴ다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
 강 관장은 “판결문 작성을 컴퓨터나 필기구 대신에 노력과 시간이 덜 들는 구술로 하+ㄹ 수 있는 프로그램을 구상 중”이라며 “그렇게 되면 법관들이 판결문 작성에 쏟는 시간과 노력을 줄이어, 이를 정확하+ㄴ 판단을 하는데 쓰+ㄹ 수 있지 않겠느냐”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

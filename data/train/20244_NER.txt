@@ -2,7 +2,7 @@
 대구·경북지역 부동산 중개업소의 84%가, 충청에서는 59%가 내년 집값 하락을 예상하였다 .	LOC-B O O O LOC-B O O O O O O
 월드컵대교 건설 배경에는 성산대교통행량 증가에 따르+ㄴ 교통량 분산 목적이 있다 .	LOC-B O O LOC-B O O O O O O O
 수도자-국내외 수십만 봉사자들, 노숙이+ㄴ-장애인 등 4000여명 돌보+ .	O O O O O O O O
-5일 출국 하+ㄴ 전북은 UAE 캠프에이재성을 동행시키지 않았다 .	O O O ORG-B ORG-B PER-B O O O
+5일 출국 하+ㄴ 전북은 UAE 캠프에이재성을 동행시키지 않았다 .	O O O ORG-B ORG-B ORG-I O O O
 특히 한 자녀에 대하+ 여부모가 순차적으로 육아휴직을 쓰는 경우, 두 번째 육아휴직자(대개 아빠)도 석 달치 육아휴직급여를 통상임금의 100%(월 최대 150만원)까지 받을 수 있게 +었다 .	O O O O O O O O O O O O O O O O O O O MNY-B O O O O O
 다만 미국이 먼저 대화를 제의하기는 어렵고 북한이 창구로 나오+ㄹ 것으로 믿고 있다 .	O ORG-B O O O O ORG-B O O O O O O
 iOS9 업데이트, 운영체제 용량 줄어... 더 많은 ‘저장공간’ 확보 iOS9 업데이트 애플은 운영체제 iOS의 최신 업데이트 버전이 +ㄴ 'iOS9'를 17일(한국시각) 2시에 배포하였다 애플은 지나 +ㄴ 9일(현지시간) 미국 샌프란시스코에서 열리+ㄴ 미디어 행사에서 iOS9을 기존 애플 디바이스 사용자들을 대상으로 16일 제공 하+ㄴ다고 밝히었다 .	O O O O O O O O O O O ORG-B O O O O O O O LOC-B TIM-B O ORG-B O O O LOC-B LOC-B O O O O O ORG-B O O O O O O O O

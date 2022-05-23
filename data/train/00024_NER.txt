@@ -4,7 +4,7 @@
 휠라 관계자는 “스테파니의 건강 하+ㄴ바디라인과 에너지 넘치는 매력이 휠라핫 써머 컬렉션과 잘 어우러지+어멋지+ㄴ 화보가 나오았다”며 “올 여름 스테파니의 핫 써머룩을 참고하면 스타일과 실용성 모두를 만족 하+ㄹ 수 있을 것”이라고 밝히었다 .	ORG-B O PER-B O O O O O ORG-B O O O O O O O O PER-B O O O O O O O O O O O O O
 양 팀은 올 시즌 다섯 번의 맞대결에서 우리은행이 5승 1패로 앞서 +어 있지만, 최근 5연승을 거두며 상승세를 타고 있는 KB스타즈가 플레이오프 진출 마지막 티켓을 두고 동기 부여가 크+ㄴ 만큼 양 팀의 사정을 충분히 감안하+ㄴ 신중하+ㄴ 분석이 필요하다 .	O O O O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
 연간 뿜어내는 질소산화물도 화물차(23만2970t)가 버스(3만6062t)의 6.4배 수준이다 .	O O O O O O O O
-조지 W 부시 당시 미국 대통령이 임기 마지막 해이+ㄴ 2007년 발표 하+ㄴ 연두교서(StateoftheU nion) 일부 +이다 .	PER-B O O O ORG-B O O O O O O O O O O O O
+조지 W 부시 당시 미국 대통령이 임기 마지막 해이+ㄴ 2007년 발표 하+ㄴ 연두교서(StateoftheU nion) 일부 +이다 .	PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O
 ”글= 임선영기자 you ngcan@j oongang. co.kr사진=김경록기 .	O PER-B O O O PER-B O
 잇어두 셰프가 공동으로 작업 하+ㄴ 마카롱, 사블레, 머랭쿠+하기, 초코리 등 4종의 프티푸(차와 함께 즐기는 작은 케이크나 쿠키)가 가르 아디너의 여정을 마무리하였다 .	O O O O O O O O O O O O O O O O O O O O O O
 소녀시대는 최종 합계에서 가장 높은 점수를 얻으며 트로피의 주인공이 +었다 .	ORG-B O O O O O O O O O O

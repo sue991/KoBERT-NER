@@ -3,9 +3,9 @@
 스페인스포르트, ESPN 등은 수아레스에게 평점 10점 만점을 부여하였다 .	O O O PER-B O O O O O
 서양인들은 샐러드를 한 끼 식사로도 먹는다 .	O O O O O O O
 부산고를 졸업하+ㄴ 전현태는 지나 +ㄴ 2005년 2차 2라운드 12순위로 지명되+어 한화에 입단 하+ㄴ 선수+이다 .	ORG-B O PER-B O O O O O O O ORG-B O O O O
-그리고 나중에 기회되면 아케이드 캐비넷류도 한번 다루+어보는 시간을 가지+어보면 좋겠네요 조기자: 네꿀딴지 곰님 수고 하+시었습니다 .	O O O O O O O O O O PER-B PER-B O O O O
+그리고 나중에 기회되면 아케이드 캐비넷류도 한번 다루+어보는 시간을 가지+어보면 좋겠네요 조기자: 네꿀딴지 곰님 수고 하+시었습니다 .	O O O O O O O O O O PER-B PER-B PER-I O O O
 LG유니폼을 입은 차우찬(29)도 괌으로 떠나 +ㄴ다 .	ORG-B O PER-B LOC-B O O O
-스릴을 만끽하려면 분당 율동공원의 번지점프가 제격이다 .	O O LOC-B O O O O
+스릴을 만끽하려면 분당 율동공원의 번지점프가 제격이다 .	O O LOC-B LOC-I O O O
 '뮤레전드2', 2차 CBT 호평속 마무 .	O O O O O O
 “김우빈 강소라, 둘이 연기하는 것 보고 싶네요”, “김우빈 강소라, 홍자 매드라마+이라니 흥행은 문제 없죠” 등의 반응을 보이었다 .	PER-B PER-B O O O O O PER-B PER-B ORG-B O O O O O O O O
 한편 ‘제주도 개츠비’는 MBC 수목 드라마 ‘킬미, 힐미’ 후속 ‘앵그리맘’에잇어오는 5월 첫 방송되+ㄴ다 .	O O O O O O O O O O O O O O

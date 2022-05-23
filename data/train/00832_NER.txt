@@ -6,7 +6,7 @@
 이것을 맹자는 ‘공평하+ㅁ(平)’이라고 +였다 .	O O O O O
 “어어어…어 이쿠”24일 오전 경기 용인시청 3층 강당에서 +ㄴ 연신 탄식이 흘러나 오았다 .	O O O LOC-B LOC-B O O O O O O O O
 지금은 국민으로 대한민국 정치를 바라보고 지지하겠다”고 밝히었다 .	O O ORG-B O O O O O
-지난해 10월 분양되+ㄴ 서초구 반포동 아크로리버파크(옛 신반포 1차) 59㎡형도 4개월 새 웃돈이 6600만원 붙었다 .	O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O
+지난해 10월 분양되+ㄴ 서초구 반포동 아크로리버파크(옛 신반포 1차) 59㎡형도 4개월 새 웃돈이 6600만원 붙었다 .	O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O O O
 금년 3천여명이 총 9백 2점을 출품하여 작년보다 3% 증가하였다 .	O O O O O O O O O O
 이날 오전 박 전 대통령의 삼성동 자택에는 윤 의원과 박지만 씨 부부 외에도 최경환, 유기준, 조원진, 윤상현, 이우현, 김태흠, 박대출, 이완영 등의원 7명이 방문하였다 .	O O PER-B O O LOC-B O PER-B O PER-B O O O PER-B PER-B PER-B PER-B PER-B PER-B PER-B PER-B O O O O
 래퍼스윙스의 가사제대, "치료에 만 전념하고 영리활동 안 하+ㄹ 것… .	PER-B O O O O O O O O O

@@ -1,15 +1,15 @@
 [Love&Gift] 한우 유통단계 줄이고 자체가 공장 운영 하+여소비자 부담 덜 .	O O O O O O O O O O O
 SK는 ‘신개념 R&D’를 바탕으로 새롭ㄴ 부가가치를 창출하기 위하+ㄴ 기술력을 꾸준히 끌어올리고 있다 .	ORG-B O O O O O O O O O O O O
 안세하, 상경 하+여배우 되+ㄴ 계기?“2년 동안 가수되기 위하+여 연습”배우 안세하가 ‘나 혼자 살+ㄴ다 .	PER-B O O O O O O O O PER-B O O O O
-북-미 대화를 주장하고 있는 미 존스홉킨스대 한미연구소의 북한 전문 웹사이트 ‘38노스’ 운영자 이+ㄴ조엘 위트연구원은 “만약 중국을 통하+ 여 북핵 문제를 풀려고 하+ㄴ다면 트럼프 당선인은 버락 오바마 행정부처럼 똑같이 실패 하+ㄹ 것”이라고 주장하였다 .	ORG-B O O O ORG-B O ORG-B ORG-B O O O O PER-B O O ORG-B O O ORG-B O O O PER-B O PER-B O O O O O O O O
+북-미 대화를 주장하고 있는 미 존스홉킨스대 한미연구소의 북한 전문 웹사이트 ‘38노스’ 운영자 이+ㄴ조엘 위트연구원은 “만약 중국을 통하+ 여 북핵 문제를 풀려고 하+ㄴ다면 트럼프 당선인은 버락 오바마 행정부처럼 똑같이 실패 하+ㄹ 것”이라고 주장하였다 .	ORG-B O O O ORG-B ORG-I ORG-B ORG-B O O O O PER-B PER-I O ORG-B O O ORG-B O O O PER-B O PER-B PER-I O O O O O O O
 남은 단말기 대금 50%는 24개월 이통사 할부를 하+ㅂ니다 .	O O O O O O O O O
 추신수, 2년 만에 PS홈런…텍사스레인저스, 토론토에 역스윕 당 하+ .	PER-B O O ORG-B ORG-B O O O O
 롯데그룹 측은 “정신적 문제가 인정되+어 ‘한정후견인’ 판결을 받은 부친과 이런 내용의 거래를 하+ㄴ 것은 말이 안 되+ㄴ다”며 “지분 압류 등에 대하+여법적 조치를 검토 중”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
 ◇ 신동주, 롯데제과 지분 10% 이상 확보 …지주사 걸림돌되+ㄹ 수도 신 전 부회장이 압류 하+ㄴ 주식은 롯데제과와 롯데칠성음료다 .	O PER-B ORG-B O O O O O O O O O O O O O ORG-B ORG-B O
 ■슈틸리케호, 오늘 오후 8시35분 러월드컵 亞 최종 예선 중국 전 슈 감독의 황태자 이정협 리그서 3연속 골 히든카드 김신욱도 팀을 위하+ㄴ 헌신각오 긴장감 팽팽하+ㄴ ‘사드 매치’ 승리의 열쇠 결전의 날이 밝았다 .	ORG-B O O O O LOC-B O O O O PER-B O O PER-B O O O O PER-B O O O O O O O O O O O O O
 재미동포 이+ㄴ 가수 유승준씨의 병역기피 사건이나, 1600억원대 세금을 부과받았다가 추징면제되 +ㄴ ‘구리왕’ 차모씨의 경우가 대표적이다 .	O O O PER-B O O MNY-B O O O O O PER-B O O O
-‘압구정 백야’ 박 하나가 강은 탁과 애절하+ㄴ 키스신을 선보이어 화제 이+ㄴ 가운데 최근 그가 공개하+ㄴ ‘압구정 백야’ 팀 단체 사진이 눈길을 모으고 있다 .	ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O
+‘압구정 백야’ 박 하나가 강은 탁과 애절하+ㄴ 키스신을 선보이어 화제 이+ㄴ 가운데 최근 그가 공개하+ㄴ ‘압구정 백야’ 팀 단체 사진이 눈길을 모으고 있다 .	ORG-B ORG-I O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O
 20일 배우 박하나는 자신의 인스타그램에 “압구정 백야강은 탁송원 근황정서백옥담이효영오기찬박 하나 우리 친하+여요~” +이라는 글과 함께 한 장의 사진을 게재하였다 .	O O PER-B O O O O O PER-B O O O O O O O O O O O
 공개되+ㄴ 사진 속에는 MBC 일일드라마 ‘압구정백야’에 출연 중 이+ㄴ 배우 강은탁-이효영-오기찬-송원근-박하나-황정서-백옥담의 모습이 담기 +어 있다 .	O O O ORG-B O O O O O O PER-B O O O O O
-특히 이들은 서로 밀착하+ㄴ 채 카메라를 향하+여미소 짓어 보이고 있어 ‘압구정 백야’팀의 돈독하+ㄴ팀워크를 느끼게 +였다 .	O O O O O O O O O O ORG-B O O O O O
+특히 이들은 서로 밀착하+ㄴ 채 카메라를 향하+여미소 짓어 보이고 있어 ‘압구정 백야’팀의 돈독하+ㄴ팀워크를 느끼게 +였다 .	O O O O O O O O O O ORG-B ORG-I ORG-I O O O
 내년 1월 1일 오전 7시 주민 희망 메시지 선포를 시작으로 일출 감상과 대함성, 희망나팔불기, 소망풍선 날리기 등의 행사가 진행되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O

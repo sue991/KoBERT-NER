@@ -4,10 +4,10 @@
 희망자는 아름답+ㄴ재단 홈페이지에서 지원서를 내리+어받아 접수 기간에 우편이나 방문 접수하면 되+ㄴ다 .	O ORG-B O O O O O O O O O O
 '트렌디타운'은 이노스파크가 그동안 서비스 하+여오+ㄴ '드래곤 프렌즈'와 '히어로스카이'에잇은 주력 신작으로, SNG와 MMORPG를 섞은 차세대 MMOSNG+이다 .	O ORG-B O O O O O O O O O O O O O O
 국토부 “건설업 고부가가치화 기여 .	ORG-B O O O O
-【워싱턴 ­타바(이집트)= AFPAP로이터 연합 .	LOC-B LOC-B O O O
+【워싱턴 ­타바(이집트)= AFPAP로이터 연합 .	LOC-B LOC-B ORG-I ORG-I O
 ‘꽃보다 할배’ 최지우, 과거 예능 출연작 보니 … 잡티 없는 민낯 피부 ‘40대 맞+고? .	O O PER-B O O O O O O O O O O O O
 참가 학생들은 학교장의 추천을 받은 안전하+ㄴ 홈스테이가정에서 머무르며 미국 사립학교의 정규 수업을 듣습니다 .	O O O O O O O O LOC-B O O O O O
 이 제도는 일정 소득 이하이+ㄴ 저소득층에 생계비, 교육비, 주거비, 의료비를 모두 지원하던 방식에서 각각의 지급기준을 두는 방식으로 7월부터 개편+되었다 .	O O O O O O O O O O O O O O O O O O O O
 서정춘 시인은 ‘이경철 시인!’하고 자신이 선창하면 각자의 판단에 따르 아 ‘통과!’ ‘퇴출!’을 각각 외치자는 건배사 제안을 +였다 .	PER-B O PER-B O O O O O O O O O O O O O O O
-코미 국장은 이날 열리+ㄴ ‘러시아 커넥션 의혹 규명 청문회’의 모두발언에서 “트럼프 캠프 일원과 러시아 정부 사이에 어떤 연관성이 있는지는 물론 캠프와 러시아 측 공모 가능성 모두를 수사 중”이라고 말하였다 .	PER-B O O O ORG-B O O O O O PER-B O O ORG-B O O O O O O O ORG-B O O O O O O O O
+코미 국장은 이날 열리+ㄴ ‘러시아 커넥션 의혹 규명 청문회’의 모두발언에서 “트럼프 캠프 일원과 러시아 정부 사이에 어떤 연관성이 있는지는 물론 캠프와 러시아 측 공모 가능성 모두를 수사 중”이라고 말하였다 .	PER-B O O O ORG-B O O O O O PER-B O O ORG-B ORG-I O O O O O O ORG-B O O O O O O O O
 내리막길을 걷던 신촌·인사 동상 권 권리금은 오름세+이다 .	O O LOC-B O O O O O

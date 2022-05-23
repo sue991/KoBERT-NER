@@ -6,7 +6,7 @@
 김이 메모에 적히 +ㄴ사람들을 직접 만나 +ㄴ 사실이 없으며 복수를 준비 하+ㄴ 흔적도 없다는 것이다 .	PER-B O O O O O O O O O O O O O O O
 3일 통계청에 따르면 2월 소비자물가 상승률은 지난해 같은 달보다 0.5% 오르는데 그치었다 .	O ORG-B O O O O O O O O O O O
 하지만 이날 상하이 증시는 이틀 연속 하락세를 잇어가며 전날에 비하+여 3% 하락 하+ㄴ 3805.7에 거래를 마치었다 .	O O LOC-B O O O O O O O O O O O O O O
-용인외고, BHCS 국제학교, 단국대학교 등이 2km 반경에 있다 .	ORG-B ORG-B O ORG-B O O O O O
+용인외고, BHCS 국제학교, 단국대학교 등이 2km 반경에 있다 .	ORG-B ORG-B ORG-I ORG-B O O O O O
 아베-푸틴 16번째 정상회담 “쿠릴 4개 섬-경협 솔직하+ㄴ 대화 .	PER-B O O LOC-B O O O O O
 킴스클럽 우선협상대상자로 선정 美계사모투자펀드 KKR, 어떤 기업 .	ORG-B O O ORG-B ORG-B O O O
 프랑크푸르트 지역 한인회와 파독 간호사가 정착 50주년 기념행사를 열면서 한국의 시각장애인 교향악단이 +ㄴ ‘한빛예술단’을 초청하+여 음악회를 열 +ㄴ 것이다 .	LOC-B O O O O O O O O LOC-B O O O O O O O O O O

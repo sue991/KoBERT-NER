@@ -1,8 +1,8 @@
 괴한 중 1명이 주로 외국인 사업가와 리비아 고위 관리들이 머물는 24층에 올라가 +아자폭 하+ㄴ 것으로 알려지었다”며 “총격전이 약 4시간 동안 진행되었다”고 말하였다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O
 서 교수는 사건 현장에 대하+여 “리비아에서 가장 고급 호텔”이라며 “현재 리비아가 혼란 상태 +이라리비아 정부에서 외국인과 (외국인) 사업가, 외교관들을 의도적으로 제일 좋은 호텔에 모으아 놓고 경비를 +였음에도 이곳을 노리+ㄴ 테러가 발생하+ㄴ 것”이라고 설명하였다 .	PER-B O O O O ORG-B O O O O ORG-B O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O
 ‘리비아 호텔 습격’ 소식을 접하+ㄴ누리꾼들은 “리비아 호텔 습격, 한국인 사망자가 없기 +ㄹ바라+ㅂ니다” .	ORG-B O O O O ORG-B O O O O O O O
-북한이 2006년 첫 핵실험을 하+ㄴ 직후, 마침 프랑스 파리에 있었던 나는 에마뉘엘 토드씨와 대담을 나누었다 .	ORG-B O O O O O O LOC-B O O O PER-B O O O O
-안젤리나 졸리, 런던 정경대 교수+었 .	PER-B O ORG-B O O O
+북한이 2006년 첫 핵실험을 하+ㄴ 직후, 마침 프랑스 파리에 있었던 나는 에마뉘엘 토드씨와 대담을 나누었다 .	ORG-B O O O O O O LOC-B LOC-I O O PER-B PER-I O O O
+안젤리나 졸리, 런던 정경대 교수+었 .	PER-B PER-I ORG-B ORG-I O O
 국립해양문화재연구소에서 버스를 타고 약 1시간을 달리 +어도착하+ㄴ 곳은 진도 벽파항.항구에는 사람들을 목적지로 바래 .	ORG-B O O O O O O O LOC-B LOC-B O O O O
 경찰 조사 결과 강씨는 지난해 7월 16일부터 8월 7일까지 최씨가 경기·강원지역의 대형 워터파크와 서울의 한 야외 수영장 등 4곳에서 몰카를 찍을 때 밖에서 기다리다가 곧바로 동영상을 건네받았다 .	O O O PER-B O O O O O PER-B LOC-B O O LOC-B O O O O O O O O O O O O O O
 무릉2리 농부들이 꾸러미 사업을 시작하+ㄴ 것+ㄴ 2009년부터 +이다 .	LOC-B O O O O O O O O

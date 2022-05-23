@@ -1,4 +1,4 @@
-양양군이 계획안을 수립하고 국토부가 관계부처 협의와 중앙도시계획위원회, 국토정책위원회 심의를 거치+어 최종 확정하였다 .	ORG-B O O ORG-B O O ORG-B ORG-B O O O O O
+양양군이 계획안을 수립하고 국토부가 관계부처 협의와 중앙도시계획위원회, 국토정책위원회 심의를 거치+어 최종 확정하였다 .	ORG-B ORG-I O ORG-B ORG-I O ORG-B ORG-B O O O O O
 ‘일왕도 진심으로 사과 하+ㄹ 것+이 아니면 한국을 방문하+ㄹ 필요 없다’는 직정(直情) 발언은 국내에서 +ㄴ 잠시 박수를 받았을지 모르아도 이후 한일관계를 수렁으로 빠뜨리었다 .	O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O
 막내아들은 이란 기업 서울지사에서 일하+ㄴ다 .	O ORG-B O LOC-B O O
 이 세형 turtle@donga. com·박용기 .	O O O PER-B O
@@ -8,9 +8,9 @@
 그와 피츠버그의 계약이 성사되면 강정호는 스프링캠프에서 조디머서와 주 전 경쟁을 펼치게 되+ㄴ다 .	O ORG-B O O PER-B O PER-B O O O O O O
 ‘잡스’ 노홍철 “박명수, 발전이 없더라” … 박명수 답변은? ‘폭소 .	O PER-B PER-B O O O PER-B O O O
 ‘언니랑 고고’하지원, 친언니와 함께 ‘찰칵’ … 눈부시+ㄴ 미모 에 팬들 시선 ‘확 .	O PER-B O O O O O O O O O O O
-경남 거창경찰서는 관련자들 소환 조사 및 여러 정황 분석 결과 이렇게 결론짓고 수사를 종결하기로 +였다고 16일 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O
+경남 거창경찰서는 관련자들 소환 조사 및 여러 정황 분석 결과 이렇게 결론짓고 수사를 종결하기로 +였다고 16일 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O
 전여옥 전 새누리당 의원은 반기문 전 유엔 사무총장에 대하+여'공감능력이 없다'고 지적하였다 .	PER-B O ORG-B O PER-B O ORG-B O O O O O
-마룬5 내 한공연, 애덤 리바인 인스타 인증샷 화 .	ORG-B O O PER-B O O O O O
+마룬5 내 한공연, 애덤 리바인 인스타 인증샷 화 .	ORG-B O O PER-B PER-I O O O O
 이번 경기를 대하는 최윤구 단주의의 지도특별하다 .	O O O PER-B O O O
 환경부는 이들 안전기준을 초과하고 표기를 제대로 하지 않은 업자들에 대하+여서는 행정처분이 확정되는 대로 형사고발을 검토하겠다고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O
 심씨는 황씨를 통하+여 음식은 맛이 전부가 아니라는 것+ㄹ깨닫았다 .	PER-B PER-B O O O O O O O

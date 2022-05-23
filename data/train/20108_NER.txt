@@ -7,6 +7,6 @@
 10일 오전 10시부터 오후 5시까지 창원컨벤션센터(CECO·세코)에서 열리는 ‘경남 노인사회활동 지원 활성화대회’는 노인들의 사회활동 참여를 늘리고 활기차+ㄴ 노년문화를 만들어주는 것이 목표+이다 .	O O O O O LOC-B O O O O O O O O O O O O O O O
 1년 후 달라지 +ㄹ 자신의 모습을 몸통에 표현하+ 여야 하기 때문이 +ㅂ니다 .	O O O O O O O O O O O O O
 공포 확산, 혹시나도?… 메르스 증상은 고열과 기 .	O O O O O O O O
-브리지 사업(BRIDGE·BeyondResearchandI nnovationDevelopm entforGoodE nterp rises)은 대학이 보유 하+ㄴ창의적 아이디어와 기술, 특허 등을 실용화하기 위하+여전국 20개 대학을 선정하+여 연간 150억원씩, 3년간 총 450억원을 지원하는 사업이다 .	O O O O O O O O O O O O O O O O O O O MNY-B O O MNY-B O O O
+브리지 사업(BRIDGE·BeyondResearchandI nnovationDevelopm entforGoodE nterp rises)은 대학이 보유 하+ㄴ창의적 아이디어와 기술, 특허 등을 실용화하기 위하+여전국 20개 대학을 선정하+여 연간 150억원씩, 3년간 총 450억원을 지원하는 사업이다 .	O O O O O O O O O O O O O O O O O O O MNY-B O O MNY-B MNY-I O O
 이날 오전 만 하+여도 1차 투표에서 수위를 차지하+ㄴ이 후보의 우세가 점치+어+지었다 .	PER-B O O O O O O PER-B O O O O
 그러나 오후 결선투표의 뚜껑이 열리자 김 후보의 막판 역전극으로 판가름나+았다 .	O O O O O PER-B O O O O O

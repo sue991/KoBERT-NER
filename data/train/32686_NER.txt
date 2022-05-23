@@ -1,15 +1,15 @@
-재계에서 +ㄴ이 부회장이 추후 삼성전자 이사회 의장은 맡되 대표이사(CEO)는 맡지 않을 것이란 추측도 나오+ㄴ다 .	O PER-B PER-B O ORG-B PER-B O O PER-B O O PER-B O O O
-인도 최대 기업 중 하나이+ㄴ 릴라이언스 인더스트리(RelianceI ndustries) 의 무케시 암바니 회장은 “다수 종업원을 대상으로 양질의 교육을 전파하는 가장 효율적 이+ㄴ 수단은 바로 기술”이라고 말하였다 .	LOC-B O O O O ORG-B ORG-B O O PER-B O O O O O O O O O O O O O O O O
+재계에서 +ㄴ이 부회장이 추후 삼성전자 이사회 의장은 맡되 대표이사(CEO)는 맡지 않을 것이란 추측도 나오+ㄴ다 .	O PER-B PER-B O ORG-B ORG-I O O PER-B O O PER-B O O O
+인도 최대 기업 중 하나이+ㄴ 릴라이언스 인더스트리(RelianceI ndustries) 의 무케시 암바니 회장은 “다수 종업원을 대상으로 양질의 교육을 전파하는 가장 효율적 이+ㄴ 수단은 바로 기술”이라고 말하였다 .	LOC-B O O O O ORG-B ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O
 2016 코파아메리카와 유로2016 우승국 간의 대결성사 여부는 불투명하다 .	O O O O O O O O O
 하지만 두 달 후 이+ㄴ 8월에 롯데홀딩스 최대 지분(28.1%)을 가지+ㄴ 광윤사 대표이사에 오르고, 아버지 신격호 총괄회장이 “후계자는 신동주”라고 말하는 위임 메시지 동영상을 공개하는 등 이번 주총을 준비 하+여+았다 .	O O O O O O ORG-B O O O ORG-B O O O PER-B O O PER-B O O O O O O O O O O O
 말레이시아는 협상을 통하+여출국 금지자들을 맞교환 하+ㄴ 후 북한과 외교를 단절하려 +였다 .	ORG-B O O O O O O ORG-B O O O O
-경찰은 오후 1시 수색견을 동원하였고 군 특공대도 투입시키었다 .	O O O O O ORG-B O O O
-인천시는 14, 15일 100년 전 근대 건축물이 몰리+어 있는 중구 인천아트플랫폼 일대에서 ‘개항장 문화지구 근대거리 페스티벌’을 열 +ㄴ다 .	ORG-B O O O O O O O O LOC-B O O O O O O O O O
+경찰은 오후 1시 수색견을 동원하였고 군 특공대도 투입시키었다 .	O O O O O ORG-B ORG-I TIM-I O
+인천시는 14, 15일 100년 전 근대 건축물이 몰리+어 있는 중구 인천아트플랫폼 일대에서 ‘개항장 문화지구 근대거리 페스티벌’을 열 +ㄴ다 .	LOC-I O O O O O O O O LOC-B LOC-I O O O O O O O O
 보고서는 “북한 당국은 생존 조건이 잔혹하고 수용자들에게 강제노동을 시키며 살아나 오+ㄹ 것으로 기대 하+ㄹ 수 없는 정치범 수용소를 운영하고 있다”고 지적하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
 본보기집은 태전동산4-1번지에 마련되+어 있다 .	O LOC-B O O O
 이후 7월 한국과 함께 중국 동영상 사이트에서 동시 공개하기 위하+여 지난달 30일 현지 방송담당 정책부서 이+ㄴ 국가신문출판광전총국에 10회 분의 제작완료분을 전달하였다 .	O O LOC-B O LOC-B O O O O O O O O O O O ORG-B O O O O O
 발행인이+ㄴ성낙인 총장 등으로 구성되 +ㄴ 운영위원회는 “사칙상 편집권이 누구에게도 귀속되+어 있지 않아 편집권 침해는 성립되+ㄹ 수 없다”고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O
 울리슈틸리케(62·독일) 대표팀 감독은 11일 천안에서 펼쳐 지+ㄴ 캐나다와의 친선 경기 후반 21분 황희찬을 교체로 투입하였다 .	LOC-B O O O LOC-B O O ORG-B O O O O PER-B O O O
 ‘힐링캠프’ 유준상, “이 방송은 유재석에게 바치는 방송”왜 .	O PER-B O O PER-B O O O
-특히 4대강 사업지 이+ㄴ 충남 공주보와 경북 상주보의 물을 인근 저수지에 보내기 위하+여747억원 규모의 도수로 (導水路) 공사를 올해 새로 시작하기로 +였다 .	O O O O LOC-B O LOC-B O O O O O MNY-B O O O O O O O O O
+특히 4대강 사업지 이+ㄴ 충남 공주보와 경북 상주보의 물을 인근 저수지에 보내기 위하+여747억원 규모의 도수로 (導水路) 공사를 올해 새로 시작하기로 +였다 .	O O O O LOC-B LOC-I LOC-B LOC-I O O O O MNY-B O O O O O O O O O
 이렇듯 삼성전자 호재가 있는 평택에 총 5705가구 미니신도시급 규모의 ‘자이’ 아파트가 들어서 +ㄴ다 .	O ORG-B O O LOC-B O O O O O O O O O

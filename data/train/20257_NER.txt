@@ -9,7 +9,7 @@
 하만이 글로벌 고객사에 공급하는 인포테인먼트 부품은 반도체, 디스플레이, 통신 모듈 등 삼성이 생산하는 제품군과 겹치+ㄴ다 .	O O O O O O O O O O O ORG-B O O O O
 그는 또한 미국이 보복 조치를 취하+ㄹ 경우에는 작년에 타결되+ㄴ 우루과이 라운드 무역협정에 따르 아가트(관세무역 일반협정)에 제소하는 방안을 강구하게 되+ㄹ 것이라고 강조하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O
 ‘또 오해영’, ‘유종의미’ 남기+ㄴ .	O O O O O
-닝수 캐나다 웨스턴 온타리오 대 경영대학원 교수 등이 기업 혁신을 이루기 위 하+ㄴ IT 아웃소싱 전략에 대하+ 여설명하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O
+닝수 캐나다 웨스턴 온타리오 대 경영대학원 교수 등이 기업 혁신을 이루기 위 하+ㄴ IT 아웃소싱 전략에 대하+ 여설명하였다 .	PER-B ORG-B ORG-I ORG-I ORG-I ORG-I PER-I O O O O O O O O O O O O
 존 리옥시 전 대표, 검찰 출석 “정말 가슴이 아프다 .	PER-B ORG-B O O O O O O O O
 당시 KIA 3 루수+이었던 이범호는 “2009년 이후 다시 세계적으로 유명하여 +지+었다”며 웃었다 .	O ORG-B O O PER-B O O O O O O O O
 @galleryinarticletag@“산나물과 독초를 혼동하지 말세요.” 산림청은 3일 “독초를 산나물로 잘못 알고 채취하+여먹는 일이 잇따르고 있어 주의가 필요하다”고 밝히었다 .	O O O O ORG-B O O O O O O O O O O O O O

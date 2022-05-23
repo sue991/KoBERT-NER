@@ -5,13 +5,13 @@
 「북핵 대응」/양국 접근방식 무엇이 다르+ㄴ .	O O O O O O
 단순 비례로 계산하+여 WAR 55.8이 타율 0.300이라면 WAR 43.8은 타율 0.235이+ㅂ니다 .	O O O O O O O O O O O O
 동아대 관계자는 “겉치레를 빼자는 한 총장의 뜻에 따르+ㄴ 것”이라고 설명하였다 .	ORG-B O O O O O O O O O O
-한 총장(63)은 서울대 국문과를 졸업 하+ㄴ 뒤 미국 볼스테이트 대학 사회학 석사, 미국 시카고대 학 사회학 박사를 취득하였다 .	PER-B O ORG-B O O O O ORG-B O O O O ORG-B O O O O O O
+한 총장(63)은 서울대 국문과를 졸업 하+ㄴ 뒤 미국 볼스테이트 대학 사회학 석사, 미국 시카고대 학 사회학 박사를 취득하였다 .	PER-B O ORG-B ORG-I O O O ORG-B ORG-I ORG-I O O ORG-B ORG-I O O O O O
 [연예뉴스스테이션] 방심위, tvN ‘꽃보다 청춘-아프리카’ 편심 .	O ORG-B ORG-B O O O O
 그런 점에서 『 환경오염은 국민의 책임이 더 크다』고 답변 하+ㄴ사람이 조사 대상자의 7할에 이르+ㄴ다는 한 여론조사 결과는 고무적이다 .	O O O O O O O O O O O O O O O O O O O
 올해 18회째를 맞은 지평선축제는 지난해까지 4년간 문화체육관광부가 선정하+ㄴ 대한민국 대표축제+이다 .	O O O O O O ORG-B O ORG-B O O
 같은 기간 전주 세계소리축제가 한국소리문화의전당에서 열리+ㄴ다 .	O O O O LOC-B O O
 관계당국이 당면 과제를 해결하고, 상황을 통제하며, 한반도 비핵화와 평화체제 구축을 목표로 새롭ㄴ 노력을 마련하 +ㄹ 기회를 잡기 +ㄹ 희망하+ㄴ다”고 말하였다 .	O O O O O O LOC-B O O O O O O O O O O O O O O
-리 부상은 이번 베이징 방문에서류전민(劉振民) 중국 외교부 부부장을 비롯하+여쿵쉬안 유(孔鉉佑) 외교부 부장조리와 회동하였다 .	PER-B O O LOC-B PER-B ORG-B ORG-B O O PER-B ORG-B PER-B O O
+리 부상은 이번 베이징 방문에서류전민(劉振民) 중국 외교부 부부장을 비롯하+여쿵쉬안 유(孔鉉佑) 외교부 부장조리와 회동하였다 .	PER-B ORG-I O LOC-B PER-B ORG-B ORG-B ORG-I O PER-B ORG-B ORG-I O O
 직원 10여명은 모두 일어서 +ㄴ 채+이었다 .	O O O O O O O
 공항철도가 16일 정(情)을 싣고 달리었다 .	O O O O O O
 필리핀서 50대 교민, 자택 서잠자던 중 에 피살...금품 훔치+어달아나 필리핀서 50대 한국인 교민이 무장 괴한의 총격으로 숨지었다 .	LOC-B O O O O O O O O LOC-B O O O O O O O O

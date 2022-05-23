@@ -1,6 +1,6 @@
-2012년 내무장관이던 나예프 빈 압둘아지즈 왕자를 향하+여 “벌레에 먹히+어죽을 것이고 무덤 속에서도 지옥의 고통을 맛보+ㄹ 것”이라고 +였다 .	O O PER-B O O O O O O O O O O O O O O O
+2012년 내무장관이던 나예프 빈 압둘아지즈 왕자를 향하+여 “벌레에 먹히+어죽을 것이고 무덤 속에서도 지옥의 고통을 맛보+ㄹ 것”이라고 +였다 .	O O PER-B PER-I PER-I O O O O O O O O O O O O O
 백종원, 정윤호, 조윤우가 출연하는 SBS플러스웹드라마 '당신을 주문하+ㅂ니다'의 대본 리딩 현장이 공개되+어 화제+이다 .	PER-B PER-B PER-B O O O O O O O O O O
-오승환은 지나 +ㄴ 4일 경찰 야구단과의 WBC 공식 평가전에 등판, 1이닝을 삼자범 퇴로 막았다 .	PER-B O O O ORG-B O O O O O O O O O O
+오승환은 지나 +ㄴ 4일 경찰 야구단과의 WBC 공식 평가전에 등판, 1이닝을 삼자범 퇴로 막았다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O
 그런 아내의 속마음을 알는 김 박사는 아내에 대하+ㄴ 애정을 숨김없이 드러내는 로맨티스트+이었다 .	O O O O PER-B O O O O PER-B O O O
 청와대의 침묵은 길어지+ㄹ 것으로 보이+ㄴ다 .	ORG-B O O O O O
 이재명 egija@donga. com·정성택기 .	PER-B O PER-B O

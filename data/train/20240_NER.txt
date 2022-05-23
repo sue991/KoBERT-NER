@@ -9,5 +9,5 @@
 한편 2일 방송 하+ㄴ SBS 예능 프로그램 ‘힐링캠프’에서는 김종국이윤은혜를 이상형으로 꼽아 화제에 오르았다 .	O O O O ORG-B O O O PER-B O O O O O
 이미 중소·벤처기업을 대상으로 자금조달 업무를 맡게 되+ㄹ 특화 증권사 자격을 놓고 10개 안팎의 중소형 증권사가 치열하+ㄴ 경쟁을 벌이고 있다 .	O O O O O O O O O O O O O O O O O O O O
 이런 강점을 살리+어숭실대는 동남아 진출에도 한국어와 IT 등을 앞세우었다 .	O O ORG-B LOC-B O O O O O O
-신청을 원하는 집주인은 물건 소재지 관할 LH 지역본부를 방문하+여 신청하면 되+ㄴ다 .	O O O O O O ORG-B O O O O O
+신청을 원하는 집주인은 물건 소재지 관할 LH 지역본부를 방문하+여 신청하면 되+ㄴ다 .	O O O O O O ORG-B ORG-I O O O O
 글로벌 스포츠 브랜드 푸마는 세계적 이+ㄴ팝 가수 리 한나와의 콜라보레이션으로 화제를 모으+ㄴ ‘푸마 크 리퍼(PUMAC reeper)’의 새롭 ㄴ 색상을 선보이+ㄴ다 .	O O O ORG-B O O O O O O O O ORG-B O O O O O O O O

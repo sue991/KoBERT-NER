@@ -1,5 +1,5 @@
 쿠팡은 로켓배송을 통하+여소비자 만족도를 높이 +ㄹ 수 있었다 .	ORG-B O O O O O O O O
-블라터 회장은 지난달 러시아 언론과의 인터뷰에서 “FIFA 지도부가 개최지 선정 투표 전에 러시아(2018년)와 미국(2022년)에 개최권을 주기로 합의하였지만 미셸 플라티니 유럽 축구연맹(UEFA) 회장이 카타르를 지지하기로 하면서 미국은 실패하였다”고 말하였다 .	PER-B O O ORG-B O O ORG-B O O O O O ORG-B ORG-B O O O PER-B O O ORG-B O ORG-B O O ORG-B O O O
+블라터 회장은 지난달 러시아 언론과의 인터뷰에서 “FIFA 지도부가 개최지 선정 투표 전에 러시아(2018년)와 미국(2022년)에 개최권을 주기로 합의하였지만 미셸 플라티니 유럽 축구연맹(UEFA) 회장이 카타르를 지지하기로 하면서 미국은 실패하였다”고 말하였다 .	PER-B O O ORG-B O O ORG-B O O O O O ORG-B ORG-B O O O PER-B PER-I O ORG-B O ORG-B O O ORG-B O O O
 어린이날은 있는데 왜 청소년의 날은 없을까요? 어른이 되는 것+ㄹ 기념하는 성년의 날, 부모님을 위하 +ㄴ어버이날은 있는데 말이+ㅂ니다 .	O O O O O O O O O O O O O O O O O O
 ㈜비모는 어니스트펀드를 운영하는 P2P 금융 스타트업 기업이다 .	ORG-B ORG-B O O O O O O
 정치자금법 등 위반으로 의원직을 상실하+ㄴ 박상은 전 의원의 지역구다 .	O O O O O PER-B O O O O
@@ -9,7 +9,7 @@
 8-7, 16-14로 리드 하+여가+ㄴ OK는 시몬이 저+의 역할을 하+여주+ㄴ 덕분에 25-20으로 또 세트를 따+아내 +었다 .	O O O O O PER-B O O O O O O O O O O
 그는 CIA의 새롭ㄴ 표적으로 대량 파괴무기의 확산, 민족분쟁, 국제마약 거래, 테러, 환경문제 등을 들면서 『우리는 크+ㄴ용(구소련) 한 마리는 쓰러뜨리었지만 지금은 여러 마리의 독사가 숨어 있는 밀림 속에 살고 있다 .	O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
 오스트리아 망명설에 +ㄴ “가본 적도 없다 .	ORG-B O O O O O O
-IBK기업은행은 3월 서울 용산구 한남동 IBK 고객센터 1층에 은행과 증권을 결합하+ㄴ 복합점포 이+ㄴ ‘IBK한남동 WM센터’를 개점하였다 .	ORG-B O LOC-B LOC-B LOC-B ORG-B O O O O O O O LOC-B O O O
+IBK기업은행은 3월 서울 용산구 한남동 IBK 고객센터 1층에 은행과 증권을 결합하+ㄴ 복합점포 이+ㄴ ‘IBK한남동 WM센터’를 개점하였다 .	ORG-B O LOC-B LOC-B ORG-I ORG-B LOC-I O O O O O O ORG-B ORG-I O O
 도수로 공사와 4대강 사업의 연관성부터 묻어 +았다 .	O O O O O O O O
-아베 총리는 또 “강제노동을 부인하+ㄴ기시 다 외상의 발언에 대하+여 한국 정부가 이의를 제기하자 않았다”고도 +였다 .	PER-B O O O O O O O O ORG-B O O O O O O
+아베 총리는 또 “강제노동을 부인하+ㄴ기시 다 외상의 발언에 대하+여 한국 정부가 이의를 제기하자 않았다”고도 +였다 .	PER-B O O O O O O O O ORG-B ORG-I O O O O O
 1번 복귀 이후 다시 불방망이를 가동하기 시작하였다 .	O O O O O O O O

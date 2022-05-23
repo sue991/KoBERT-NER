@@ -1,6 +1,6 @@
-특히 이선규와 곽동혁의 합류로 누리는 ‘베테랑 효과’가 기대 이상이라는 평가+이다 .	O PER-B PER-B O O O O O PER-B O O
+특히 이선규와 곽동혁의 합류로 누리는 ‘베테랑 효과’가 기대 이상이라는 평가+이다 .	O PER-B PER-B O O O O O PER-B PER-I O
 덕장이+ㄴ 강성형 감독의 리더십도 선수들의 동기부여 측면에서 효과가 크다는 평가. KB손해보험 구단 관계자는 “이선규와 곽동혁 둘 다 우승을 경험하+여보+ㄴ 선수+이다”며 “그 경험을 토대로 선수단의 분위기를 끌어올리고 있다 .	O PER-B O O O O O O O O ORG-B O O PER-B PER-B O O O O O O O O O O O O O
-비틀스드러 머링고 스타, 11월 첫 내한공 .	ORG-B PER-B O O O O O
+비틀스드러 머링고 스타, 11월 첫 내한공 .	ORG-B PER-B PER-I O O O O
 송일국 측은 "며칠 전 아내의 페이스북 글로물의를 일으키+ㄴ 것에 대하+여 깊은 사죄의 말씀을 드리+ㄴ다"고 입을 열었다 .	PER-B O O O O O O O O O O O O O O O O
 연구팀은 이렇게 만들 +ㄴ음극을 이용하+여 g당 130mA h의 용량을 1분 이내에 완전히 충방 전하는 데 성공하였다 .	O O O O O O O O O O O O O O O O O
 학교 앞을 홍대 앞처럼 바꾸면 더 많은 사람이 대학의 낭만을 즐기+ㄹ 수 있을 것이라는데 생각이 미치었다 .	O O LOC-B O O O O O O O O O O O O O O

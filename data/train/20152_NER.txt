@@ -1,14 +1,14 @@
 FIS가 국가별로 올림픽 출전권을 배분하기 때문에 크+ㄴ 변수가 없는 한 평창올림픽 출전이 유력하다 .	ORG-B O O O O O O O O O O O O O
 ◆수익보다는 전문성= 이들이 하나의 주제에 집중 하+ㄹ 수 있는 이유는 뭐 +이+ㄹ까 .	O O O O O O O O O O O O O
-전통적으로 한 수 이북(漢水以北) 즉 경기 포천, 강원 횡성 등의 쇠고기가 육즙이 좋고 감칠맛이 강하다 .	O O O O O LOC-B O LOC-B O O O O O O O O
+전통적으로 한 수 이북(漢水以北) 즉 경기 포천, 강원 횡성 등의 쇠고기가 육즙이 좋고 감칠맛이 강하다 .	O O O O O LOC-B LOC-I LOC-B LOC-I O O O O O O O
 이날 기상청 관계자는 “인공지진은 국가안보사항으로 북핵 실무대응 매뉴얼에 따르 아청와대 등에 보고 하+ㄴ 뒤 정리를 하+여서 발표하는 절차를 밟는다”고 밝히었다 .	O ORG-B O O O O O O O ORG-B O O O O O O O O O O O
-권예스+ㄹ동아 사이언스기자 ys kwon@d onga. com·임현석기 .	ORG-B O O O O PER-B O
+권예스+ㄹ동아 사이언스기자 ys kwon@d onga. com·임현석기 .	ORG-B ORG-I O O O PER-B O
 전매제한 기간 늘리+어 강남 집값 잡는 .	O O O LOC-B O O O
 중소기업청과 소상공인시장진흥공단은 활력지원단을 통하+여지나 +ㄴ달부터 A슈퍼를 비롯하+ㄴ 나들가게 25곳에 컨설팅을 지원하였다 .	ORG-B ORG-B O O O ORG-B O O O O O O
 일본 맥주 수입 2위 국가 이+ㄴ대만(10억4100만달러)의 4배가 넘는 규모+이다 .	ORG-B O O O O MNY-B O O O O
-남산 팔각정 대북공연, 북한산 선만세삼 .	LOC-B O O LOC-B O O
+남산 팔각정 대북공연, 북한산 선만세삼 .	LOC-B LOC-I O LOC-B O O
 이러하+ㄴ 경향은 기사 환국(1689)과 갑술환국(1694)으로 남인과 서인 이 번갈아 집권하여, 그때마다 상대 붕당을 철저하게 탄압하면서 더욱 심화되었다 .	O O O O O ORG-B ORG-B O O O O O O O O O O O
-베어드 맥주, 일본에서 오+ㄴ 수제맥주 … 취향 따라 골라 마시+어 .	ORG-B O ORG-B O O O O O O O O
+베어드 맥주, 일본에서 오+ㄴ 수제맥주 … 취향 따라 골라 마시+어 .	ORG-B ORG-I ORG-B O O O O O O O O
 홍성흔은 이날 만루홈런을 포함하+여 4안타5타점3득점으로 맹활약하였다 .	PER-B O O O O O O
 비상경영쇄신위원회는 ▶그룹 구조조정 ▶ 책임경영 ▶ 인사혁신▶거래관행 ▶윤리·의식의 5개 분과위로 나뉘어 활동 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O
-美 질병센터 디지털포스터 배 .	ORG-B O O O O
+美 질병센터 디지털포스터 배 .	ORG-B ORG-I O O O

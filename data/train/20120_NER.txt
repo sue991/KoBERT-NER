@@ -2,14 +2,14 @@
 5∼6월에 꽃이 피+ㄴ다 .	O O O O
 28일 투자은행(IB) 업계에 따르면 박 회장이 금호산업 인수자금을 마련하기 위하+여시간 외 대량매매(블록딜)로 내놓은 금호산업과 금호타이어 지분의 절반가량이 팔리었다 .	O ORG-B O O PER-B O ORG-B O O O O O O ORG-B ORG-B O O O O
 하지만 양측은 “친하+ㄴ 사이 이+ㄹ 뿐, 열애는 아니다”고 부인하였다 .	O O O O O O O O O O
-러셀 크로 역시 이전 해외 명사들과 마찬가지로 출연을 자청하었다는 후문이다 .	PER-B O O O O O O O O O O
-23일 대구 달서구 보건소에서 한 여성이 금연상담을 받고 있다 .	O LOC-B LOC-B O O O O O O O
-또한 경북 영덕차 유어촌체험마을로 출발하+ㄴ 90명의 학생은 버스를 타고 영덕 삼사해상공원에 도착하+여어촌박물관을 관람하며 각종 바 .	O LOC-B LOC-B O O O O O O LOC-B O O O O O O
+러셀 크로 역시 이전 해외 명사들과 마찬가지로 출연을 자청하었다는 후문이다 .	PER-B PER-I O O O O O O O O O
+23일 대구 달서구 보건소에서 한 여성이 금연상담을 받고 있다 .	O LOC-B LOC-B LOC-I O O O O O O
+또한 경북 영덕차 유어촌체험마을로 출발하+ㄴ 90명의 학생은 버스를 타고 영덕 삼사해상공원에 도착하+여어촌박물관을 관람하며 각종 바 .	O LOC-B LOC-B O O O O O O LOC-B LOC-I O O O O O
 마마무문별-솔라, ‘슈가맨’ 출연 인 증샷 “많이 아쉽 ㄴ 무대+이었지만 소중하+ㄴ 경험”걸그룹 마마무문별과 솔라가 ‘슈가맨’ 출연 소감을 전하였다 .	ORG-B O O O O O O O O O O ORG-B PER-B O O O O O
-걸그룹 마마무의 문별과 솔라는 25일 공식 트위터에 “‘슈가 맨’ 본방 사수 하+시었나요?가 수제이선배님의 ‘어제처럼’, 용콩별 콩 둘이서 함께 꾸미+ㄴ 무대. 많이 아쉽 ㄴ 무대+이었지만 소중하+ㄴ 경험이었습니다” +이라는 글과 함께 사진 한 장을 게재하였다 .	O ORG-B PER-B PER-B O O O O O O O O PER-B PER-B O O O O O O O O O O O O O O O O O O O O
+걸그룹 마마무의 문별과 솔라는 25일 공식 트위터에 “‘슈가 맨’ 본방 사수 하+시었나요?가 수제이선배님의 ‘어제처럼’, 용콩별 콩 둘이서 함께 꾸미+ㄴ 무대. 많이 아쉽 ㄴ 무대+이었지만 소중하+ㄴ 경험이었습니다” +이라는 글과 함께 사진 한 장을 게재하였다 .	O ORG-B PER-B PER-B O O O O O O O O PER-B PER-B PER-I O O O O O O O O O O O O O O O O O O O
 사진 속 마마무문별과 솔+이라는 화이트와 블루의상을 맞추+어 입고 환환 미소를 짓은 채 카메라를 응시하고 있다 .	O O ORG-B PER-B O O O O O O O O O O O O
-앞서 마마무문별과 솔라는 24일 방송되+ㄴ JTBC ‘투유 프로젝트-슈가맨’에 출연하+여가수제이의 ‘어제처럼’을 재해석하+ㄴ무대를 선보이어 감동을 자아내 +었다 .	O ORG-B PER-B O O O O O PER-B PER-B O O O O O O
+앞서 마마무문별과 솔라는 24일 방송되+ㄴ JTBC ‘투유 프로젝트-슈가맨’에 출연하+여가수제이의 ‘어제처럼’을 재해석하+ㄴ무대를 선보이어 감동을 자아내 +었다 .	O ORG-B PER-B O O O O O PER-B PER-B ORG-I PER-I O O O O
 이날 방송에서 솔라는 “늘 넷이서 무대를 꾸미 .	O O PER-B O O O O O
 ‘신서유기’이 승기 “나영석 PD와 연 끊어야 하나 고민” 폭로… 노예별명 때문?나 영석 PD의 새 예능 프로그램 ‘신서유기’가 화제+이다 .	O O PER-B O O O O O O O O O O O O O O O O
-산업자원부의 예산을 지원받아 제조기술 혁신연구원도 만들어 하반기부터 본격적으로 가동 하+ㄴ다 .	ORG-B O O ORG-B O O O O O O O
+산업자원부의 예산을 지원받아 제조기술 혁신연구원도 만들어 하반기부터 본격적으로 가동 하+ㄴ다 .	ORG-B O O ORG-B ORG-I O O O O O O
 박 대통령은 반기문 외교부 장관 특별보좌관을 지내+ㄴ 박준우씨를 정무수석에 기용하기도 +였다 .	PER-B O PER-B ORG-B O O O PER-B O O O O

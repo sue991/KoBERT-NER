@@ -1,7 +1,7 @@
 일본 고베에서 태어나 +ㄴ 할야마시다는 아홉 살부터 요리를 시작하였으며, 로스엔젤레스와 멜버른, 쿄토를 비롯하+ㄴ 세계 여러 도시에서 다양하+ㄴ 경험을 쌓았다 .	LOC-B LOC-B O O PER-B O O O O LOC-B LOC-B LOC-B O O O O O O O O
 홍준표 “김평우 ‘막말’ 일부 보도, 과도하+ㄴ 비판 …文 ‘혁명’ 발언이 더 막말 .	PER-B PER-B O O O O O PER-B O O O O O
 [단독]“靑, 어버이연합 등 보수단체 10여곳 찍어 금액까지 구체적으로 못 박아 지원 요구 .	ORG-B ORG-B O O O O O O O O O O O
-한류스타 이민호와 같은 스타하우스 엔터테인먼트 소속이다 .	ORG-B PER-B O ORG-B O O O
+한류스타 이민호와 같은 스타하우스 엔터테인먼트 소속이다 .	ORG-B PER-B O ORG-B ORG-I O O
 연간 대상자는 8500명 이 내가 되+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O
 해당 질환자는 승인 의료기관이 +ㄴ 서울대병원, 서울아산병원 등 13개 상급종합병원에서 진료를 받아 등록하면 산정특례를 적용받을 수 있다 .	O O O O O LOC-B LOC-B O O O O O O O O O O O
 적발되자 3억 납부 “의혹 .	O MNY-B O O O

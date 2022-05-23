@@ -1,9 +1,9 @@
 견본주택은 서울 삼성동 지하철 9호선 삼성중앙역(5번 출구) 인근에서 이달 11일 문을 열 +ㄴ다 .	O LOC-B LOC-B O O LOC-B O O O O O O O O
-실제 신동주 전 부회장과 누나 신영자 롯데재단 이사장, 육촌형 신동인 롯데자이언츠 구단주 직무대행은 신동빈 회장이 일본 롯데홀딩스 대표이사에 오르+ㄴ 지난달 15일 서울 롯데호텔에 모이어 신동주 전 부회장 체제로 롯데그룹을 재편하자는 데 합의 하+ㄴ 것으로 확인되었다 .	O PER-B O O O PER-B ORG-B O O PER-B ORG-B O O PER-B O ORG-B ORG-B O O O O LOC-B ORG-B O PER-B O O O ORG-B O O O O O O O
+실제 신동주 전 부회장과 누나 신영자 롯데재단 이사장, 육촌형 신동인 롯데자이언츠 구단주 직무대행은 신동빈 회장이 일본 롯데홀딩스 대표이사에 오르+ㄴ 지난달 15일 서울 롯데호텔에 모이어 신동주 전 부회장 체제로 롯데그룹을 재편하자는 데 합의 하+ㄴ 것으로 확인되었다 .	O PER-B O O O PER-B ORG-B O O PER-B ORG-B O O PER-B O ORG-B ORG-B O O O O LOC-B LOC-I O PER-B O O O ORG-B O O O O O O O
 총 투구 수는 62개, 직구 최고 구속은 147km+이었다 .	O O O O O O O O O
 박씨는 “이번 여행은 (사진을) 찍기 위하+여떠나는 여행”이라며 “인생샷이 여러 장 나오면 페이스북을 시작하+ㄹ 생각”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O
 연구팀은 ＂설날에는 ＇새해 다이어트 결심 ＇을 하+ㄴ사람이 많았던 반면 추석은 상대적으로 다이어트를 잇어가기 어렵ㄴ 시기 때문 ＂이라고 분석하였습니다 .	O O O O O O O O O O O O O O O O O O O
-미 국무부는 16일 18억3000만달러(약 2조1594억원) 규모의 무기를 대만에 판매하기로 하고 의회에 통보하였다 .	ORG-B O O MNY-B MNY-B O O ORG-B O O O O O
+미 국무부는 16일 18억3000만달러(약 2조1594억원) 규모의 무기를 대만에 판매하기로 하고 의회에 통보하였다 .	ORG-B ORG-I O MNY-B MNY-B O O O O O O O O
 ‘백종원 된장찌개’ 요리연구가 백종원의 된장찌개 레시피가 화제+이다 .	PER-B O O PER-B O O O O
 지나+ㄴ 23일 오후 방송되+ㄴtvN ‘집밥백 선생’에서 백종원은 4명의 제자에게 된장찌개 비법을 전수하였다 .	O O O O O O PER-B O O O O O O
 이날 백종원은 “된장찌개? 어렵게 생각하지 말+아라”면서 “만능된 장베이스를 충분히 끓이어+았다가 +어서 쓰시면 되+ㄴ다”고 밝히었다 .	O PER-B O O O O O O O O O O O O O

@@ -5,7 +5,7 @@
 지난주 공화당 전 대장이+ㄴ클리블랜드에서 자주 보이었던 반(反) 트럼프 진영의 ‘네버트럼프’를 응용하+ㄴ ‘네버힐러리’ 구호도 곳곳에서 들리었다 .	O ORG-B O ORG-B O O O PER-B O PER-B O PER-B O O O O
 민아는 이날 23번째 생일을 맞았다 .	PER-B O O O O O
 공개되+ㄴ 사진에는 상반되 +ㄴ 표정을 짓고 있는 설현과 민아의 모습이 담기 +어 있다 .	O O O O O O O PER-B PER-B O O O O O
-한편 AOA는 오는 10월 4일 서울 종로구 상명아트센터 계당홀에서 ‘하트어택’ 콘서트를 개최 하+ㄴ다 .	O ORG-B O O O LOC-B LOC-B O O O O O O O
+한편 AOA는 오는 10월 4일 서울 종로구 상명아트센터 계당홀에서 ‘하트어택’ 콘서트를 개최 하+ㄴ다 .	O ORG-B O O O LOC-B LOC-B LOC-I LOC-I O O O O O
 심상정 대표는 또 "우리 경제의 가장 크+ㄴ리스크는 재벌 3세 세습 문제"+이라며 "집권에 이르지 못하더라도 재벌 3세 세습은 더 이상 못하게 금지하겠다"고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
 심상정 대표는 대선을 완주 하+ㄹ 수도 있지만 연합정치를 위하+여중간에 사퇴하+ㄹ 수도 있다고 밝히었다 .	PER-B O O O O O O O O O O O O O
 이광수 인천공항공사 부사장은 발표에서 인천공항에서 일하는 비정규직 1만명 정규직화를 위하+ㄴ 로드맵을 제시하였다 .	PER-B ORG-B O O ORG-B O O O O O O O O

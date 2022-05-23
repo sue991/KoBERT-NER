@@ -1,7 +1,7 @@
 먼저 전속계약 기간이 5년이지만 계약 체결 시점을 데뷔일로 정하+ㄴ점 연예활동이 불가능하+ㄴ 기간이 30일을 초과하+ㄹ 때 그 기간만큼 연장 하+ㄹ 수 있도록 한 점 등에 주목하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
 우연이 반복되면 필연이라 +였던가.기 내 상영영화 <트럼보>가 그렇었다 .	O O O O O O O O O
-"저것 +이 말이 되나. 아이고 속에 천불이나 +아죽겠네."9일 오후 4시 10분쯤 대구시 달성군 옥포면 강림2리 경로당. TV에서 '박근혜 탄핵 가결'이라는 자막이 뜨자, 경로당에 있던 10여명 노인들의 탄식이 터지+어나오았다 .	O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-B O O PER-B O O O O O O O O O O O
-이케아 본사가 있는 스웨덴 도시 엘름훌트는 일종의 ‘이케아 왕국’이다 .	LOC-B O O LOC-B O LOC-B O LOC-B O O
+"저것 +이 말이 되나. 아이고 속에 천불이나 +아죽겠네."9일 오후 4시 10분쯤 대구시 달성군 옥포면 강림2리 경로당. TV에서 '박근혜 탄핵 가결'이라는 자막이 뜨자, 경로당에 있던 10여명 노인들의 탄식이 터지+어나오았다 .	O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-B LOC-I O PER-B O O O O O O O O O O O
+이케아 본사가 있는 스웨덴 도시 엘름훌트는 일종의 ‘이케아 왕국’이다 .	LOC-B O O LOC-B O LOC-B O LOC-B LOC-I O
 가격 차이가 무려 35배나 되+ㄴ다 .	O O O O O O
 해경 헬기 추락 사고, 실종자 시신 2구 발견 … 헬기 동체 인양 작업 재 .	O O O O O O O O O O O O O O O
 ”-두산팬들도 뚝심이 강하고, 뚝배기처럼 한결같이 두산을 사랑하는 것으로 유명 하+ㄴ데요. 두산 팬들에게 한 말씀 부탁드리+ㅂ니다 .	ORG-B O O O O ORG-B O O O O ORG-B O O O O O

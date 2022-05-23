@@ -1,16 +1,16 @@
-웨이하이는 인천과 함께 ‘중·한 경제자유무역협력지방경제 시범구’로 지정되었다 .	LOC-B LOC-B O LOC-B O O O O
+웨이하이는 인천과 함께 ‘중·한 경제자유무역협력지방경제 시범구’로 지정되었다 .	LOC-B LOC-B O LOC-B LOC-I LOC-I O O
 95마일 꽂히 +어야 주 무기체인 지 업살+ㄴ .	O O O O O O O O
 지난해 거래되 +ㄴ 제주도 토지의 5분의 1을 서울 거주자가 사들이 +ㄹ 정도로 외지인의 투자가 많았다 .	O O O LOC-B O O O LOC-B O O O O O O O O
 에릭 ♥나혜미열 애인 정…“열애 맞다 .	PER-B PER-B O O O O
-올해에+ㄴ 특히 김정은 북한 국방위원회 제1위원장의 방중을 포함, 시진핑(習近平) 국가주석과의 정상회담이 점치+어지고 있어 이 과정에서 리 내정자가 모종의 역할을 하+ㄹ 것으로 보이+ㄴ다 .	O O PER-B ORG-B O O O O PER-B O O O O O O PER-B O O O O O O O
+올해에+ㄴ 특히 김정은 북한 국방위원회 제1위원장의 방중을 포함, 시진핑(習近平) 국가주석과의 정상회담이 점치+어지고 있어 이 과정에서 리 내정자가 모종의 역할을 하+ㄹ 것으로 보이+ㄴ다 .	O O PER-B ORG-B ORG-I O O O PER-B O O O O O O PER-B O O O O O O O
 박씨는 생방송이+ㄴ이와이드 프로에서 오전에 발생하+ㄴ 뉴스를 종합하고 해외 통신원의 보도와 이동방송차를 이용하+여 현장을 연결하는 등 신속하면서도 입체적 이+ㄴ 진행 외에 여성 특유의 감각과, 아나운서로 닦은 매끄럽ㄴ말솜씨로 라디오의 매체력을 높이 +ㄹ각오+이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
 CNN “北김정은, ‘불경스럽ㄴ 보도’이유로 BBC기자 추방 .	O ORG-B O O ORG-B O O
 야당은 그동안 수많은 민주당을 만들었다가 허물곤 +였다 .	O O O ORG-B O O O O
 스파크는 단어 그대로 ‘불붙이다’는 의미로 교육·연구·사업을 활성화 하+ㄴ다는 목표를 담았다 .	ORG-B O O O O O O O O O O
-예를 들어 경부고속도로 상행선 죽전휴게소의 경우 휴게소를 통하+여 인근 지역으로 걷어나가+ㄹ 수 있다 .	O O LOC-B O O O O O O O O O O O
+예를 들어 경부고속도로 상행선 죽전휴게소의 경우 휴게소를 통하+여 인근 지역으로 걷어나가+ㄹ 수 있다 .	O O LOC-B LOC-I LOC-I O O O O O O O O O
 이들은 박 대통령과 우병우 전 대통령 민정수석비서관 등 관련자들에 대하+ㄴ 검찰의 철저하+ㄴ 수사도 촉구하였다 .	O PER-B O PER-B O O O O O O O O O O O
 “주산시간에 국어 노트 뒷장을 펴고 난장이가 쏘아 올리+ㄴ 작은 공을 옮기+어보+ㄴ다 .	O O O O O O O O O O O O
 北미사일 발사 뉴스에 ‘동물농장’ 등 결방 7일 오전 북한의 장거리 미사일 발사에 정규 방송이 중단되었다 .	ORG-B O O O O O O O ORG-B O O O O O O O
 KBS, MBC, SBS 등 지상파 3사는 7일 오전 북한 장거리 미사일 발사 뉴스 특보를 긴급 편성하였다 .	ORG-B ORG-B ORG-B O O O O O ORG-B O O O O O O O O
-프랑스 사상가 볼테르의 풍자 소설 ‘캉디드’(1759년), 장자 크루소의 ‘신엘로이즈’(1761년), 영국의 로런스 스턴이 쓰+ㄴ ‘신사 트리스 트럼섄디의 생애와 의견’(1760∼1767년), 그리고 괴테의 ‘젊은 베르테르의 슬픔’(1774년).18세기 유럽의 소설 4대 베스트셀러이다 .	ORG-B O PER-B O O O PER-B O O ORG-B PER-B O O O O O O O O PER-B O O O LOC-B O O O O
+프랑스 사상가 볼테르의 풍자 소설 ‘캉디드’(1759년), 장자 크루소의 ‘신엘로이즈’(1761년), 영국의 로런스 스턴이 쓰+ㄴ ‘신사 트리스 트럼섄디의 생애와 의견’(1760∼1767년), 그리고 괴테의 ‘젊은 베르테르의 슬픔’(1774년).18세기 유럽의 소설 4대 베스트셀러이다 .	ORG-B O PER-B O O O PER-B PER-I O ORG-B PER-B PER-I O O O O O O O PER-B O O O LOC-B O O O O
 게임성 : ★★★★★(명불허전) 그래픽 : ★★(단색 스프라이트+이라오락실에 비하+여 많이 떨어지+ㅁ) 사운드 : ★★ http://www. youtu be. com/watch?v= Fz c xYpGovVA 탱크 바탈리온(タンクバタリアン)(ROM、4,500円) 꿀딴지곰 : 아케이드 원작이며, 패미콤판으로 도 출시되+ㄴ 배틀시티의 MSX판이+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O

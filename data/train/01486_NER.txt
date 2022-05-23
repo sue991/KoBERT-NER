@@ -1,15 +1,15 @@
 메르스 등 전 국민의 관심도가 높은 사회적 이슈를 이용하+여 개인정보를 요구하는 경우도 늘고 있다 .	O O O O O O O O O O O O O O O
-중국은 2014년 5월 한국의 요청에 따르 아산시(陝西)성 시안(西安)에 광복군 제2지 대 표지석을 세우었고 그해 6월에는 하얼빈역에 안중근 의사 기념관을 설치하였다 .	ORG-B O O ORG-B O O LOC-B LOC-B LOC-B O O O O O O LOC-B LOC-B O O O O
+중국은 2014년 5월 한국의 요청에 따르 아산시(陝西)성 시안(西安)에 광복군 제2지 대 표지석을 세우었고 그해 6월에는 하얼빈역에 안중근 의사 기념관을 설치하였다 .	ORG-B LOC-I O ORG-B O O LOC-B LOC-B LOC-B LOC-I O O O O O LOC-B LOC-B LOC-I LOC-I O O
 네이마르의 성장 가능성이 그만큼 높게 평가되고 있는 것이다 .	PER-B O O O O O O O O
-톰 크루즈는 영화를 직접 알리기 위하+여11월 7일 내한 하+ㄴ다 .	PER-B O O O O O O O O O
-한국사회문화연구원은 이 같은 조사 결과를 바탕으로 17일 오후 3시 프레스센터 대회의실에서 「급변하는 신세대 문화, 그 문제점과 대안」을 주제로 공개 토론회를 갖는다 .	ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O
-국회 산업통상자원위원장이+ㄴ 새정치민주연합 노영민(3선·청주 흥덕을) 의원이 국회의원회관 사무실에 신용카드 단말기를 설치하+ 여놓고 자신의 시집을 판매하였다는 의혹이 30일 제기되+어 논란이 일고 있다 .	LOC-B O ORG-B LOC-B LOC-B O LOC-B O O O O O O O O O O O O O O O
+톰 크루즈는 영화를 직접 알리기 위하+여11월 7일 내한 하+ㄴ다 .	PER-B PER-I O O O O O O O O
+한국사회문화연구원은 이 같은 조사 결과를 바탕으로 17일 오후 3시 프레스센터 대회의실에서 「급변하는 신세대 문화, 그 문제점과 대안」을 주제로 공개 토론회를 갖는다 .	ORG-B O O O O O O O O LOC-B LOC-I O O O O O O O O O O O
+국회 산업통상자원위원장이+ㄴ 새정치민주연합 노영민(3선·청주 흥덕을) 의원이 국회의원회관 사무실에 신용카드 단말기를 설치하+ 여놓고 자신의 시집을 판매하였다는 의혹이 30일 제기되+어 논란이 일고 있다 .	LOC-B O ORG-B LOC-B LOC-B LOC-I LOC-B O O O O O O O O O O O O O O O
 이 지케어 물통이 대표적 이+ㄴ 예+이죠. 제습기에 물이 얼마나 차+았는지 확인하는 일이 은근히 번거롭거든요 .	O O O O O O O O O O O O O O O
 한국VS 중국 축구 ‘포스터’ 논란 …中 “힘차게 압록강 건너자 .	ORG-B ORG-B O O O ORG-B O LOC-B O O
 외국인 선수들이나 관람객들은 인천공항부터 평창·강릉·정선에 있는 경기장이나 숙소까지 외국어 안내 없이도 불편하지 않게 찾아가 +ㄹ 수 있을 것 같았다. 평창동계올림픽 이후에는 일본과 중국에서도 동·하계 올림픽이 열리+ㄴ다 .	O O O LOC-B LOC-B O O O O O O O O O O O O O O LOC-B O ORG-B ORG-B O O O O
 ‘스트레스 해소 음식 7가지’ 스트레스 해소 음식 7가지가 화제+이다. 미국의 여성 생활 잡지 ‘위민스헬스(Women’sHealth)’가 스트레스를 해소하는 데 도움을 주는 음식 7가지를 소개하였다. 스트레스 해소 음식 7가지 중 첫 번째는 아몬드가 들어가 +ㄴ 다크 초콜릿이다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
 이번 계약이 진행되+ㄴ코엑스에서는 ‘고혈압 올림픽’이라고 불리는 세계 고혈압학회가 진행 중이다 .	O O LOC-B O O O O O O O O
 공산당 권력 최상위 기구 이+ㄴ 상임위원회는 25명의 정치국원 가운데 선발하+ㄴ다 .	ORG-B O O O O ORG-B O O O O O
-혜리가 그린이라는 캐릭터를 생동감 있게 잘 표현하+ㄹ 것 같다"고 설명하였다. 한편 SBS 새 수목 드라마 '딴따라(극본유영아·연출 홍성창)'는 벼랑 끝에서 만나 +ㄴ 안하무인 매니저 석호(지성분)와 생초짜밴드 딴따라의 이야기를 그리 +ㄴ다.온라인 중앙일보 [사진 SBS '딴따라'티저 영상 캡처 .	PER-B PER-B O O O O O O O O O ORG-B O O O ORG-B PER-B O O O O O O PER-B O ORG-B O O ORG-B O O ORG-B ORG-B O O O
-정환영 공주대 지리학과 교수의 논문에 따르면, 2006년 김용택 시인이 교사로 재직하던 전북 임실의 덕치초등학교에서 진행 하+ㄴ ‘섬진강 참좋은 학교’ 프로젝트가 우리나라 농촌유학의 초기 형태+이다 .	PER-B ORG-B O O O O O PER-B O O O LOC-B LOC-B ORG-B O O O O O O O O O O O
+혜리가 그린이라는 캐릭터를 생동감 있게 잘 표현하+ㄹ 것 같다"고 설명하였다. 한편 SBS 새 수목 드라마 '딴따라(극본유영아·연출 홍성창)'는 벼랑 끝에서 만나 +ㄴ 안하무인 매니저 석호(지성분)와 생초짜밴드 딴따라의 이야기를 그리 +ㄴ다.온라인 중앙일보 [사진 SBS '딴따라'티저 영상 캡처 .	PER-B PER-B O O O O O O O O O ORG-B O O O ORG-B PER-B O O O O O O PER-B O ORG-B O O ORG-B ORG-I O ORG-B ORG-B O O O
+정환영 공주대 지리학과 교수의 논문에 따르면, 2006년 김용택 시인이 교사로 재직하던 전북 임실의 덕치초등학교에서 진행 하+ㄴ ‘섬진강 참좋은 학교’ 프로젝트가 우리나라 농촌유학의 초기 형태+이다 .	PER-B ORG-B ORG-I O O O O PER-B O O O LOC-B LOC-B ORG-B O O O O O O O O O O O
 그는 “하지만 문재인 전 대표를 비롯하+ㄴ 야권 대권주자들은 헌법 가치를 무시하+ㄴ 채 탄핵 기각 시 시민불복종 운동을 전개하+ㄴ다는 말도 안 되는 국민선동을 일삼고 있다”며 “이는 국정농단 세력에 버금가는 국가 분열 세력이 +ㅁ을 스스로 자임하는 것”이라고 비판하였다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

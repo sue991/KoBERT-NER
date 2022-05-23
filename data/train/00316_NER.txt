@@ -2,7 +2,7 @@
 김무성 새누리당 대표나 문재인 새정치연합 대표는 결속되 +ㄴ 100만 공무원과 가족표를 의식하면서도 2000만 국민연금 가입자들의 시선이 부담스럽었을 것이다 .	PER-B ORG-B O PER-B ORG-B O O O O O O O O O O O O O O
 대회 최우수선수(MVP)에는 3홈런 10타점으로 경성대 타선을 이끌 +ㄴ이재욱이 선정되었다 .	O O O O ORG-B O O PER-B O O
 [스포츠동아 .	ORG-B O
-검찰이 NH 개발 전 대표 유 모 씨가 협력업체 측 금품수수에 연루되 +ㄴ 정황을 잡고 조만간 소환 하+ㄹ 방침이 +ㄴ 것으로 8일 확인되었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+검찰이 NH 개발 전 대표 유 모 씨가 협력업체 측 금품수수에 연루되 +ㄴ 정황을 잡고 조만간 소환 하+ㄹ 방침이 +ㄴ 것으로 8일 확인되었다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
 머스크, 대우조선 선박 6척 추가 계약 안 하기로 조선업계에서는 업체들의 매출이 2017년까지 감소세를 보이+ㄹ 것이라는 예상이 지배적이다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O
 JYP엔터테인먼트 "원더걸스컴백?공식 입장 전 하+ㄹ 수 없어 .	ORG-B ORG-B O O O O O O
 북한의 4월은 도발 호재가 차고 넘치는 달이다 .	ORG-B O O O O O O O

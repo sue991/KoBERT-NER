@@ -10,4 +10,4 @@
 끊임없는 혁명에 동참하도록 마오쩌둥 주석이 강 하+ㄴ드라이브를 걸었다 .	O O O PER-B O O O O O
 현행 방식은 제도의 취지와 달리 교직사회를 혼란스럽게 하기 때문에 교사의 사기를 진작하+ㄹ 수 있는 방식으로 개선되 +어야 하+ㄴ다는 것.하 회장은 교육 현장을 무너뜨리는 포퓰리즘적 정책에 대하+여 반대 입장을 분명히 밝히었다 .	O O O O O O O PER-B O O O PER-B O O O O O PER-B PER-B O O O O O O PER-B O O O O O
 후보 난립 탓에 트럼프가 독주 하+ㄴ다며 루비오와 크루즈가 단일화 하+여야 하+ㄴ다는 견해도 나 오+ㄴ다 .	O O O PER-B O O PER-B PER-B O O O O O O O
-트럼프의 네바다 승리 직후 LA 타임스는 이를 주장하는 미 보수 칼럼니스트 조나골드버그의 칼럼을 싣었다 .	PER-B LOC-B O O ORG-B O O O O O O PER-B O O O
+트럼프의 네바다 승리 직후 LA 타임스는 이를 주장하는 미 보수 칼럼니스트 조나골드버그의 칼럼을 싣었다 .	PER-B LOC-B O O ORG-B ORG-I O O O O O PER-B O O O

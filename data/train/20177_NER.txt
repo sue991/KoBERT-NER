@@ -1,10 +1,10 @@
 이용승객이 많은 오전 1∼3시에는 최소 배차 간격 25분으로 운행 하+ㄹ 예정이다 .	O O O O O O O O O O O O
 동생에 비하+여신동주 전 부회장은 활로를 못 찾고 있다 .	O PER-B O O O O O O O
-‘천지왕, 백주할 멈, 총명아기, 감은 장아기, 자청비, 문도령, 정수남, 대별이, 소별이, 오늘이….’ 매우 친숙하+ㄴ 느낌의 이 이름은 우리 신화에 나오는 신들의 것이 +ㅂ니다 .	PER-B PER-B O PER-B PER-B O PER-B PER-B PER-B PER-B PER-B PER-B O O O O O O O O O O O O
-서울 금천구에 살는 박모(55)씨는 부모님께 따로 비용을 부담하+여야 하는 비싸+ㄴ 폐렴 백신을 접종하+여드리+어야 하+ㄹ지 고민에 빠지었다 .	LOC-B LOC-B O PER-B O O O O O O O O O O O O O
-2일 동경에서 수신되+ㄴ 조선중앙통신에 따르면 북한 외교부 대변인은 유엔 안보리 의장성명이 발표되+ㄴ데 따르+ㄴ 담화를 발표, 『IAEA 사무국이 연료봉의 금후 측정을 위하+ㄴ 기술적 가능성이 깨지었다고 선언하거나 안보리 이사회가 이를 구실로 제재를 운운하는 등 압력을 가하 +ㄴ다면 우리는 이에 대응하+ㄴ 결정적 조치를 취하는 길을 택하 +ㄹ 것』이라고 말하였다 .	O LOC-B O ORG-B O ORG-B ORG-B O ORG-B ORG-B O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+‘천지왕, 백주할 멈, 총명아기, 감은 장아기, 자청비, 문도령, 정수남, 대별이, 소별이, 오늘이….’ 매우 친숙하+ㄴ 느낌의 이 이름은 우리 신화에 나오는 신들의 것이 +ㅂ니다 .	PER-B PER-B O PER-B PER-B PER-I PER-B PER-B PER-B PER-B PER-B PER-B O O O O O O O O O O O O
+서울 금천구에 살는 박모(55)씨는 부모님께 따로 비용을 부담하+여야 하는 비싸+ㄴ 폐렴 백신을 접종하+여드리+어야 하+ㄹ지 고민에 빠지었다 .	LOC-B LOC-B O PER-B PER-I O O O O O O O O O O O O
+2일 동경에서 수신되+ㄴ 조선중앙통신에 따르면 북한 외교부 대변인은 유엔 안보리 의장성명이 발표되+ㄴ데 따르+ㄴ 담화를 발표, 『IAEA 사무국이 연료봉의 금후 측정을 위하+ㄴ 기술적 가능성이 깨지었다고 선언하거나 안보리 이사회가 이를 구실로 제재를 운운하는 등 압력을 가하 +ㄴ다면 우리는 이에 대응하+ㄴ 결정적 조치를 취하는 길을 택하 +ㄹ 것』이라고 말하였다 .	O LOC-B O ORG-B O ORG-B ORG-B O ORG-B ORG-B O O O O O ORG-B ORG-I O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
 스위스의 식품회사 네슬레그룹은 앞으로 해마다 중국에 공장을 1개씩 설립하+ㄴ다는 야심적이고도 장기적 이+ㄴ 시장 공략 계획을 갖고 있다 .	ORG-B O ORG-B O O LOC-B O O O O O O O O O O O O
-붙이+ㄹ 수 있는 미러렌즈 안경.64만원 프렌시앤 머큐리.Halfframe반무테 위쪽에만 프레임이 있는 하프 프레임 안경은 냉철하고 이성적이+ㄴ 카리스마를 지니 +ㄴ다 .	O O O O MNY-B ORG-B O O ORG-B O ORG-B ORG-B O O O O O O O
+붙이+ㄹ 수 있는 미러렌즈 안경.64만원 프렌시앤 머큐리.Halfframe반무테 위쪽에만 프레임이 있는 하프 프레임 안경은 냉철하고 이성적이+ㄴ 카리스마를 지니 +ㄴ다 .	O O O O MNY-B ORG-B ORG-I MNY-I ORG-B O ORG-B ORG-B O O O O O O O
 [책의 향기]날카롭 되 유머를 잃지 말기 +ㄹ, 버나드쇼처 .	O O O O O O O PER-B O
 페기다 조직이 동독에서 독일 전역으로 확대되자 당초 AfD가 고전을 면하지 못하던 서독 지역에서의 AfD 지지율도 상승세+이다 .	ORG-B O LOC-B LOC-B O O O ORG-B O O O LOC-B O ORG-B O O O
 ‘송승헌과 열애유역비’ 배우 송승헌과 유역비가 열애를 밝히+ㄴ 가운데 두 사람의 키스신이 새삼 화제+이다 .	PER-B PER-B O PER-B PER-B O O O O O O O O O

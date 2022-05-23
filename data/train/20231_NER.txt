@@ -6,5 +6,5 @@
 이 수첩에는 박 대통령이 최씨의 조카 장시호 씨(37)가 설립을 주도하였던 한국동계스포츠영재센터에 재정지원을 하+여주+ㄹ 것을 알+ㄴ 전 수석에게 지시하는 내용도 있는 것으로 전하여 +지+었다 .	O O PER-B O PER-B O PER-B O O O ORG-B O O O O PER-B O O O O O PER-B O O
 마모루 감독의 영화로 지나 +ㄴ 2007년 개봉하였다 .	PER-B O O O O O O O
 세입자도 한 가구만 상대하면 되+ㄴ다 .	O O O O O O
-캔자스시티는 2일(한국시간) 미국 뉴욕 주 플러싱의 시티필드에서 열리+ㄴ 뉴욕 메츠와의 2015 메이저리그 월드시리즈 5차전에서 12회 연장 끝에 7-2로 승리하였다 .	ORG-B LOC-B LOC-B ORG-B O LOC-B O O ORG-B O O O O O O O O O O O
+캔자스시티는 2일(한국시간) 미국 뉴욕 주 플러싱의 시티필드에서 열리+ㄴ 뉴욕 메츠와의 2015 메이저리그 월드시리즈 5차전에서 12회 연장 끝에 7-2로 승리하였다 .	ORG-B LOC-B LOC-B ORG-B O LOC-B O O ORG-B ORG-I O O O O O O O O O O
 1~2월 두 달간 주택연금 보증 공급액은 2015년 1조1325억원에서 2016년 1조8188억원, 2017년 3조6320억원으로 증가세를 보이고 있다 .	MNY-B O O O O O MNY-B MNY-B MNY-B MNY-B MNY-B MNY-B O O O O

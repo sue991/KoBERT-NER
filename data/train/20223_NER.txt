@@ -1,9 +1,9 @@
 [분양 하이라이트]강원도 최대 규모 아파트 … 87%가 중소 .	O LOC-B O O O O O O O
-국내 브랜드로는 처음으로 독일 피부과학연구소 더 마테스트의무자극 인증을 획득하고 화장품 안전성 연구소의 피부 자극/멜라닌 색소 테스트를 통과하며, 대표 물티슈로 국내 시장을 리드 하+여가고 있다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+국내 브랜드로는 처음으로 독일 피부과학연구소 더 마테스트의무자극 인증을 획득하고 화장품 안전성 연구소의 피부 자극/멜라닌 색소 테스트를 통과하며, 대표 물티슈로 국내 시장을 리드 하+여가고 있다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
 후보작 머물+ㄴ「아버지…」 34% 감 .	O O O O O
 정부가 적 조방제작업에 나서 +었지만 경남과 전남, 경북 등 인근 해역으로 확산되+ㄹ 가능성이 크다 .	O O O O O LOC-B LOC-B LOC-B O O O O O O O
 미국 주도의 연합군도 IS 공습을 위하+여이기지를 활용하+여+았다 .	ORG-B O O ORG-B O O O O
-영국 국방부 대변인은 이날 “토네이도 전투기들이 키프로스 아크로티리기지에서 발진 하+여시리아에서 첫 번째 공습작전을 수행하고 기지로 귀환하였다”고 발표하였다 .	ORG-B O O O O O LOC-B O O LOC-B O O O O O O O O
+영국 국방부 대변인은 이날 “토네이도 전투기들이 키프로스 아크로티리기지에서 발진 하+여시리아에서 첫 번째 공습작전을 수행하고 기지로 귀환하였다”고 발표하였다 .	ORG-B ORG-I O O O O LOC-B LOC-I O LOC-B O O O O O O O O
 앞서 +어, 영국 의회는 찬성 397표, 반대 223표로 정부의 IS 공습안을 가결하였다 .	O O ORG-B O O O O O O ORG-B O O O
 영국은 지난해 미국이 주도하는 연합군에 참여하+여이라크 내 IS에 대하+ㄴ 공습을 진행하고 있지만 시리아 내 공습에는 가담하지 않았다 .	ORG-B O ORG-B O O ORG-B O ORG-B O O O O ORG-B O O O O O
 캐머런 총리는 이날 표결에 앞서 +어진행되+ㄴ토론에서 IS를 ‘중세 괴물들(medievalmonsters)’로 표현하며 “IS가 우리를 공격하기 위하+ 여기다리는데 영국은 뒤로 물러나 +아앉아 있지 말고 IS 심장부를 공격 하+여야 하+ㄴ다”고 주장하였다 .	PER-B O O O O O ORG-B O O O ORG-B O O O O ORG-B O O O O O ORG-B O O O O O O

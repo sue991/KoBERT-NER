@@ -1,5 +1,5 @@
 박 대통령은 지난달 29일 수석비서관회의를 주재하+ㄴ 이후 공식 일정 없이 참모진과 순방 준비에 전념하는 것으로 전하여 +지+었다 .	PER-B O O O O O O O O O O O O O O O O O
-견본주택은 용인시 기흥구 중동 1110번지에 마련되 +ㄹ 예정이다 .	O LOC-B LOC-B LOC-B O O O O O
+견본주택은 용인시 기흥구 중동 1110번지에 마련되 +ㄹ 예정이다 .	O LOC-B LOC-B LOC-B LOC-I O O O O
 A씨는 “임원 쪽으로 굴러가는 공을 막으려는 사람, 다른 지원자에게 공을 던지+ㄴ 사람 등 면접장이 한순간 아수라장이 +었다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O
 타임슬립 드라마 집필… 5월 방송 예정 스타 작가로 꼽히는 ‘홍자매’ 홍정은·홍미란 작가가 ‘타임슬립’(Tim eslip) 드라마를 선보이+ㄴ다 .	O O O O O O O O O O PER-B O O O O O O
 「전설 의무도인」쓰러지다/ 일가라데 총수 최영의 씨 사 .	O O ORG-B O PER-B O O O

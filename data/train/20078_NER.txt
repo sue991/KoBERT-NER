@@ -2,12 +2,12 @@
 [스포츠동아 .	ORG-B O
 백상예술대상 대상 나영석, "옥택연 캐스팅은 모두 이서진 덕분? .	O O PER-B PER-B O O PER-B O O
 “10년마다 결혼식 하자”… 최수종 ♥하희라·최민수 ♥강주은 부부, 리마인드웨딩화보 ‘화제 .	O O O PER-B PER-B PER-B O O O O
-◇ 독일 총선, 메르켈 4선 도전… 극우당 약 진 주 목 독일에서는 ‘서방 자유민주주의 진영의 기둥’으로 불리는 앙겔라 메르켈 총리가 9월 총선에서 4선에 도전하+ㄴ다 .	O ORG-B O PER-B O O O O O O O ORG-B O O O O O PER-B PER-B O O O O O O
+◇ 독일 총선, 메르켈 4선 도전… 극우당 약 진 주 목 독일에서는 ‘서방 자유민주주의 진영의 기둥’으로 불리는 앙겔라 메르켈 총리가 9월 총선에서 4선에 도전하+ㄴ다 .	O ORG-B O O O O O O O O O ORG-B O O O O O PER-B PER-I O O O O O O
 이애란"~전하라" 짤방덕에 25년 무명설 움 떨치+어 "행사비 6배 오르았다 .	PER-B O O O O O O O O O
-김정은 북한 노동당 위원장의 이복형이+ㄴ 김정남이 말레이시아 쿠알라룸푸르 공항에서 지나 +ㄴ 13일 오전 피살되 +ㄴ 것과 관련, 아들 김한솔은 마카오에 안전하게 있는 것으로 알려지었다 .	PER-B ORG-B O O O PER-B LOC-B O O O O O O O O O O O PER-B LOC-B O O O O O
+김정은 북한 노동당 위원장의 이복형이+ㄴ 김정남이 말레이시아 쿠알라룸푸르 공항에서 지나 +ㄴ 13일 오전 피살되 +ㄴ 것과 관련, 아들 김한솔은 마카오에 안전하게 있는 것으로 알려지었다 .	PER-B ORG-B ORG-I O O PER-B LOC-B LOC-I LOC-I O O O O O O O O O PER-B LOC-B O O O O O
 16일 SBS에 따르면 이들 가족과 교류가 깊었던 현지 교민은 아들 김한솔을 비롯하+ㄴ 가족들이 모처에서 안전하게 지내고 있다고 전하였다 .	O ORG-B O O O O O O O O PER-B O O O O O O O O
 참고2도는 상변 흑이 잡히지만 우변에서 크게 집을 내+ㄹ 수 있어 흑이 절대 우세하다 .	O O O O O O O O O O O O O O
 손흥민 ‘결승골’, 해결사 등 극…팀 2-1 승리 이끌어 손흥민이후반 종료 직전 감각적 이+ㄴ골을 터뜨리며 팀의 2-1 승리를 이끌었다 .	PER-B O O O O O O O PER-B O O O O O O O O O O
-토트넘은 29일(한국시간) 영국 왓포드에서 열리+ㄴ 2015-16 잉글리시 프리미어리그 19라운드 왓포드와의 경기에서 2-1로 승리하였다 .	ORG-B LOC-B LOC-B ORG-B O O O O O ORG-B O O O O
+토트넘은 29일(한국시간) 영국 왓포드에서 열리+ㄴ 2015-16 잉글리시 프리미어리그 19라운드 왓포드와의 경기에서 2-1로 승리하였다 .	ORG-B LOC-B LOC-B LOC-I O O O O O O O O O O
 절정기의 조훈현 9단은 감각적 이+ㄴ수로의 표를 곧잘 찌르었다 .	O PER-B O O O O O O O
-그런데 지금은 월소득이 211만원을 넘어야만 중단이 가능하였다 .	O O O MNY-B O O O O
+그런데 지금은 월소득이 211만원을 넘어야만 중단이 가능하였다 .	O O O MNY-B MNY-I O O O

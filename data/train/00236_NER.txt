@@ -1,11 +1,11 @@
-대규모 감염은 2007년 뉴기니 섬 북쪽 야프섬, 2013년 프랑스령 폴리네시아에서 발생하였고, 결국 태평양을 건너+어 지난해 브라질 등 남미에서 100만명 넘게 감염시키었다 .	O O O LOC-B O O LOC-B O LOC-B O O O LOC-B O O ORG-B O LOC-B O O O O
+대규모 감염은 2007년 뉴기니 섬 북쪽 야프섬, 2013년 프랑스령 폴리네시아에서 발생하였고, 결국 태평양을 건너+어 지난해 브라질 등 남미에서 100만명 넘게 감염시키었다 .	O O O LOC-B LOC-I O LOC-B O LOC-B LOC-I O O LOC-B O O ORG-B O LOC-B O O O O
 88명이 5억2000만원을 보내 +었다 .	O MNY-B O O O
 들리는 말에 따르면 디악 회장은 한국을 떠나 +ㄹ 때까지 홍삼탕을 계속 마시었고 덕분에 몸이 거뜬하여 +지+었다며 자랑하였다고 하+ㄴ다 .	O O O O O LOC-B O O O O O O O O O O O O O
 자로는 지나 +ㄴ 18일 “저는 오랜 시간 동안 비밀리에 세월호 참사를 추적하+여+았다”며 예고(티저) 영상을 공개하였다 .	O O O O O O O O O O O O O O O O
-2009년 8월 미얀마 정부의 마약퇴치 과정에서 코캉 자치구 수반에서 실각 하+ㄴ펑 자성은 지난달 10일 중국 언론과의 인터뷰에서 “코캉은 (러시아가 합병 하+ㄴ) 크림반도가 되고 싶다 .	O O ORG-B O O O LOC-B O O O O O O O ORG-B O O LOC-B ORG-B O O LOC-B O O O
+2009년 8월 미얀마 정부의 마약퇴치 과정에서 코캉 자치구 수반에서 실각 하+ㄴ펑 자성은 지난달 10일 중국 언론과의 인터뷰에서 “코캉은 (러시아가 합병 하+ㄴ) 크림반도가 되고 싶다 .	O O ORG-B ORG-I O O LOC-B LOC-I O O O O O O ORG-B O O LOC-B ORG-B O O LOC-B O O O
 장관이 직접 뽑은 이번 여름 휴가 장소는? 김영석 장관이 출연하+여해양수산부가 추진하고 있는 어촌별 주요 마을사업을 설명하고 휴가철을 맞아 가+아보+ㄹ만 하+ㄴ 장소와 보+ㄹ거리 등도 소개하+ㄴ다 .	O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O
 한편 조정석이 출연하+ㄴ ‘특종 : 량 첸살인기’는 오는 22일 개봉 예정이다 .	O PER-B O O O O O O O O O O
-인도는 넓고, 비즈니스도 많다! 영산대 인도 비즈니스학과 세계 7위의 국토면적에 세계 2위(12억5000만명)의 인구대국이자 정보기술(IT) 강국이+ㄴ 인도. 덩치에 비하+여 그간 제대로 평가받지 못하였던 인도가 중국이나 브라질을 대신 하+ㄹ 새롭ㄴ투자처로 부상하고 있다 .	ORG-B O O O ORG-B ORG-B O O O O O O O O O ORG-B O O O O O O ORG-B ORG-B ORG-B O O O O O O
+인도는 넓고, 비즈니스도 많다! 영산대 인도 비즈니스학과 세계 7위의 국토면적에 세계 2위(12억5000만명)의 인구대국이자 정보기술(IT) 강국이+ㄴ 인도. 덩치에 비하+여 그간 제대로 평가받지 못하였던 인도가 중국이나 브라질을 대신 하+ㄹ 새롭ㄴ투자처로 부상하고 있다 .	ORG-B O O O ORG-B ORG-B ORG-I O O O O O O O O ORG-B O O O O O O ORG-B ORG-B ORG-B O O O O O O
 노동시장 참여율이 지나 +ㄴ 30년 평균보다 낮다 .	O O O O O O O O
 초반 연구 하+ㄴ 수를 들고 나오+ㄴ 김수용. 김수용의 뜻대로 흘러가 +ㄴ 초반 정석이다 .	O O O O O O PER-B PER-B O O O O O O
 2017년 2월 7일 손학규【서울=뉴시스 .	O O O LOC-B O

@@ -9,7 +9,7 @@
 남경필 경기지사의 ‘트레이드 마크’이+ㄴ 연정(聯政)마저 심각하+ㄴ위기를 맞았다 .	PER-B O O O O O O O
 3월 행사는 더욱 화끈하다 .	O O O O O
 그는 “2013년 1월에 훈장 서훈 기준 개정안과 관련 하+여 토론회를 개최하였다 .	O O O O O O O O O O O O
-분양홍보관은 서울 송파구 문정동 620송파 푸르지오시티 1층에 있다 .	O LOC-B LOC-B LOC-B LOC-B O O O O
+분양홍보관은 서울 송파구 문정동 620송파 푸르지오시티 1층에 있다 .	O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O
 예를 들면 문화체육부를 문체부로, 보건사회부를 보사부로 부르는 것은 의미나 어감에서 편하+ㄴ 느낌을 주+ㄴ다 .	O O ORG-B ORG-B ORG-B ORG-B O O O O O O O O
 지도학습, 강화 학습 등을 공부하면서 게임이나 주식 자동거래 프로그램도 만들었죠.” 2003년 서울과학고를 조기 졸업 하+ㄴ 뒤 미국 매사추세츠공대(MIT)에 진학 하+ㄴ그는 4년 만에 MIT학부와 석사과정을 모두 5.0만점으로 졸업하였다 .	O O O O O O O O O O O ORG-B O O O O ORG-B ORG-B O O O O ORG-B O O O O O
 생산량 기준 세계 17위 +이다 .	O O O O O O

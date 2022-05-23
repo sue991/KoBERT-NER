@@ -1,10 +1,10 @@
-도올 김용옥, 역사교과서 국정화 맹비난 “朴 대통령 왜 이렇게 집착 하나 .	PER-B O O O O PER-B O O O O O O
+도올 김용옥, 역사교과서 국정화 맹비난 “朴 대통령 왜 이렇게 집착 하나 .	PER-B PER-I O O O PER-B O O O O O O
 -1순위서만 1071가구 모집에 2443명 몰리며 평균 2.28대 1 나오아-남양산역도보 생활권, 65㎡, 72㎡, 78㎡ 중소형 틈새평면, 특화설계 상품 등으로 수요자들 호평-당첨자 발표 4/2일, 계약은 4/7일(화)~4/9일(목), 3일간 체결 경남 양산신도시에서 선보이+ㄴ ‘양산신도시 3차 EGthe1’에 수많은 청약자가 몰리면서 예견되+ㄴ 청약 성공을 거두었다 .	O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B LOC-B O LOC-B O O O O O O O O O O
 3일 개봉하는 ‘오피스’는 한 음료 회사 영업부에서 벌어지는 연쇄살인사건을 그리었다 .	O O O O O O O O O O O
 ○명계남 “안희정은 노무현 업그레이드” ‘노무현을 사랑하는 사람들의 모임’(노사모) 대표를 지내+ㄴ 배우 명계남씨는 최근 한 인터뷰에서 안 지사에 대하+여 “노 전 대통령의 업그레이드 같은 느낌을 받아 가슴이 뜨거워 지+ㄴ다”고 평가하+ㄴ 것으로 알려지었다 .	PER-B PER-B PER-B O PER-B O O ORG-B O O O PER-B O O O PER-B O O PER-B O O O O O O O O O O O O O
 【싱가포르=김병석기자  .	LOC-B O O
-‘K팝스타5’ 유제이, 시즌4 우승자 케이티 김과 닮은꼴? 박진영 “뉴저지 물 먹으면 … .	O PER-B O O PER-B O O PER-B LOC-B O O O O
-알프레드 은 조 남아공 외무장관은 이날 짐 스튜어드 유엔대사와 함께 박수를 받으며 오랫동안 비우어 +두었던 총회 의석으로 돌아오았으며 총회는 잇어 남아공의 신임장을 수락하+ㄹ 것을 건의하는 보고서를 공식 승인하였다 .	PER-B O O ORG-B O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O
+‘K팝스타5’ 유제이, 시즌4 우승자 케이티 김과 닮은꼴? 박진영 “뉴저지 물 먹으면 … .	O PER-B O O PER-B PER-I O PER-B LOC-B O O O O
+알프레드 은 조 남아공 외무장관은 이날 짐 스튜어드 유엔대사와 함께 박수를 받으며 오랫동안 비우어 +두었던 총회 의석으로 돌아오았으며 총회는 잇어 남아공의 신임장을 수락하+ㄹ 것을 건의하는 보고서를 공식 승인하였다 .	PER-B O O ORG-B O O PER-B PER-I O O O O O O O O O O O O ORG-B O O O O O O O O
 맨유는 이날 성소수자 차별 철폐의 메시지를 전달하기 위하+여무지 개색 완장을 택하였다 .	ORG-B O O O O O O O O O O O
 펜스 부통령은 사흘간 서울에 머물며 북한의 도발 억제에 나서 +ㄴ다 .	PER-B O O LOC-B O ORG-B O O O O O
 스타벅스는 평균 B학점 이상 취득하는 모든 파트너에게 ‘스타벅스 장학금’을 통하+여등록금을 전액 지원 하+ㄴ다 .	ORG-B O O O O O O ORG-B O O O O O O

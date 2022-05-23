@@ -1,4 +1,4 @@
-하지만 8회부터 연잇어 등판 하+ㄴ올리버 페레즈와 로베르토 오수나가 2이닝을 무실점으로 지키+어내며 값지+ㄴ 승리를 거두었다 .	O O O O PER-B O PER-B O O O O O O O O
+하지만 8회부터 연잇어 등판 하+ㄴ올리버 페레즈와 로베르토 오수나가 2이닝을 무실점으로 지키+어내며 값지+ㄴ 승리를 거두었다 .	O O O O PER-B PER-I PER-B PER-I O O O O O O O
 (서울=뉴스1 .	LOC-B O
 기기로 사람을 한 번 훑으면 신체 징후를 분석하+ 여질병을 바로 진단하+ㄴ다 .	O O O O O O O O O O O O
 그러면 일본을 여행하는 판매자가 해당 글을 읽고 물품을 대리 구매해 주+ㄹ 수 있다 .	O LOC-B O O O O O O O O O O O O
@@ -6,7 +6,7 @@
 코비스타의 솔랩이 2016 소비자 선정 최고의 브랜드 대상에서 피부·두피 전문 화장품 부문 대상을 차지하였다 .	ORG-B ORG-B O O O O O O O O O O O O O
 솔랩(Solep)은 코스메슈티컬 전문화장품으로 2013년 정식 론칭하였다 .	ORG-B O O O O O O
 더 이상 북한 김정은 손에 맡기+ㄹ 수는 없다”고 일축하였다 .	O O ORG-B PER-B O O O O O O
-루이스 이나시우 룰라 다시우바 전 대통령은 전날 브라질리아에서 열리+ㄴ 좌파 노동자당(PT) 행사에 참석, 대통령이 테메르에서 마이아로 대체되+ㄹ 수 있다는 견해를 밝히었다 .	PER-B O O O O O O LOC-B O ORG-B ORG-B O O O PER-B PER-B O O O O O O
+루이스 이나시우 룰라 다시우바 전 대통령은 전날 브라질리아에서 열리+ㄴ 좌파 노동자당(PT) 행사에 참석, 대통령이 테메르에서 마이아로 대체되+ㄹ 수 있다는 견해를 밝히었다 .	PER-B PER-I PER-I PER-I O O O LOC-B O ORG-B ORG-B O O O PER-B PER-B O O O O O O
 미국 항공우주국(NASA) 등 6개국 24개 팀은 후쿠시마 원전 사고 현장을 본뜨 +ㄴ 경기장에서 8개 과제를 놓고 경쟁하었다 .	ORG-B ORG-B O O O O LOC-B O O O O O O O O O O O
 접수 완료 후 본격적 이+ㄴ 판매활동을 시작하+ㄹ 수 있으며 판매기간은 오는 11월 30일까지 +이다 .	O O O O O O O O O O O O O O O
 판매기간 동안 이베이 판매 단기 속성교육, 1:1 멘토링 제공, 동영상 강의 및 온라인 Q&A 등의 혜택을 누리+ㄹ 수 있다 .	O O ORG-B O O O O O O O O O O O O O O O O O

@@ -1,7 +1,7 @@
 인천국제공항은 주차요금 체계상 대형차 기준장기주차장 이용 시 일주일 기준 약 67.3달러(7만6000원)의 비용이 청구되 +ㄴ다 .	LOC-B O O O O O O O O O MNY-B O O O O
 모비스를 잡고 선두권 경쟁에 뛰어들겠다는 야심을 품고 있었던 KCC(24승 17패)는 이날 패배로 목표 달성에 실패하였다 .	ORG-B O O O O O O O ORG-B O O O O O O O
 계림리조트에서는 아름답ㄴ자연 속에서 편안하+ㄴ 휴식은 물론 다양하+ㄴ문화를 즐기+ㄹ 수 있다 .	LOC-B O O O O O O O O O O
-이천 원적산은 산수유 마을이어 지+어… 괴산 충청도 양반길 출렁다리 아 .	LOC-B LOC-B O LOC-B O LOC-B LOC-B O O O O
+이천 원적산은 산수유 마을이어 지+어… 괴산 충청도 양반길 출렁다리 아 .	LOC-B LOC-B O LOC-B O LOC-B LOC-B LOC-I O O O
 일본은 한국이 중국으로 기울고 있다고 비판하며 미·일 동맹의 끈을 조이고 있고, 중국은 이를 틈타 +아 한국을 끌어들이려 하며, 미국은 한국을 서서히 압박하고 있다 .	ORG-B ORG-B ORG-B O O O ORG-B O O O O ORG-B O O O ORG-B O O ORG-B ORG-B O O O O
 여전히 일본 시장에서는 하락세가 멈추지 않는 반면, 한국 시장에서도 상승세에 제동이 걸리지 않는다는 것 .	O LOC-B O O O O O LOC-B O O O O O O O
 2002년 국내 최초로 인공관절 수술용 로봇이 +ㄴ로보닥을 도입하+여 끊임없는 연구 및 투자로 지난해 11월 세계 최초로 초정밀 로봇인공관절 수술 1만명 돌파+이라는 신기록을 세우었다 .	O O O O O O O O O O O O O O O O O O O O O O O O

@@ -2,15 +2,15 @@
 이날 김상훈의 현장검증을 보러 모이+ㄴ 인파 속에는 부인 A씨와 사망 하+ㄴ 전 남편 B씨 사이에서 태어나 +ㄴ아들도 모습을 지켜보고 있었다 .	O PER-B O O O O O O O O O O O O O O O O O O O
 이 주상복합에는 ‘트럼프월드’ +이란 이름에 걸맞게 국내에서 처음으로 ‘트럼프식 주거서비스’가 도입되었습니다 .	O O PER-B O O O O O PER-B O O O
 그때 총리제의를 받은 일이 있는 지 세 차례나 물어보았다 .	O O O O O O O O O O
-한편 바이든 부통령은 이날 조지 워싱턴대학에서 열리+ㄴ대담에서 2011년 오사마 빈 라덴 사살 작전을 설명하면서 리언 패네타 당시 중앙정보국(CIA) 국장과 로버트 게이츠 국방장관 등 2명만이 오바마 대통령에게 작전 수행 여부에 대하+ㄴ 명확 하+ㄴ 입장을 밝히었다고 공개하였다 .	O PER-B O O O O O O PER-B O O O O O PER-B O O ORG-B O PER-B O O O O PER-B O O O O O O O O O O O
+한편 바이든 부통령은 이날 조지 워싱턴대학에서 열리+ㄴ대담에서 2011년 오사마 빈 라덴 사살 작전을 설명하면서 리언 패네타 당시 중앙정보국(CIA) 국장과 로버트 게이츠 국방장관 등 2명만이 오바마 대통령에게 작전 수행 여부에 대하+ㄴ 명확 하+ㄴ 입장을 밝히었다고 공개하였다 .	O PER-B O O O O O O PER-B PER-I PER-I O O O PER-B PER-I O ORG-B O PER-B PER-I O O O PER-B O O O O O O O O O O O
 쥬라기 월드, 14년 만에 스케일로 승부 전 세계를 강타하었던 ‘쥬라기 공원’ 시리즈의 네 번째 작품 ‘쥬라기 월드’가 오는 6월 국내 개봉을 앞두고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O
 정씨는 부산으로 압송되었다 .	PER-B LOC-B O O
-권아솔 “아오르꺼러랑 붙고 싶다” -이 둘희와 SNS 설전을 많이 벌이었는데 솔직하+ㄴ 심정은.“나는 로드FC 라이트급 챔피언이다 .	PER-B PER-B O O PER-B O O O PER-B PER-B O O O PER-B PER-B O
+권아솔 “아오르꺼러랑 붙고 싶다” -이 둘희와 SNS 설전을 많이 벌이었는데 솔직하+ㄴ 심정은.“나는 로드FC 라이트급 챔피언이다 .	PER-B PER-B O O PER-B PER-I O O PER-B PER-B O O O PER-B PER-B O
 국회의 대통령 탄핵소추안 가결을 환영하는 시국대회와 촛불집회가 10일 대전과 세종·충남지역 곳곳에서 열리었다 .	O O O O O O O O LOC-B LOC-B O O O
-이날 오후 5시 대전시 서구 둔산동 갤러리아타임월드 앞에서 열리+ㄴ ‘박근혜 퇴진 4차대전 10만시국대회’에는 1만여명의 시민이 동참하였다 .	O O O LOC-B LOC-B LOC-B LOC-B LOC-B O PER-B O LOC-B O O O O O
+이날 오후 5시 대전시 서구 둔산동 갤러리아타임월드 앞에서 열리+ㄴ ‘박근혜 퇴진 4차대전 10만시국대회’에는 1만여명의 시민이 동참하였다 .	O O O LOC-B LOC-B LOC-B LOC-B LOC-B O PER-B O LOC-B TIM-I O O O O
 그 다음은 엄마가 나보다 예쁘고, 3대 중 내가 제일 못생기었다”라고 말 하+ㄴ바 있다 .	O O O O O O O O O O O O O O
 한편, 5일 중국의 한 연예매체는 “유역비와 송승헌 이 사랑에 빠지었다”면서 “영화를 촬영하며 인연을 맺었고 현재 열애 중”이라고 보도하였다 .	O O ORG-B O O PER-B PER-B O O O O O O O O O O O O
 대관령 눈꽃축제 9일 개막, 평창동계올림픽 성공 기원 ‘눈나라의 꿈 .	O O O O LOC-B O O O O O
 “우아하+ㄴ D라인”…장 윤주, 톱 모델의 수영복만 삭 화 .	O O O O O O O O O
 실제 KT&G의 주가는 외국산 담배사들의 저가 전략이 가시화되+ㄴ 지나 +ㄴ 8일 이후 5.9% 내리었다 .	O ORG-B O O O O O O O O O O O O O
-장동건조 카유민포함되 +ㄴ멜로디 데이, 두 번째 싱글 앨범으로 컴 .	PER-B PER-B ORG-B O O O O O O O
+장동건조 카유민포함되 +ㄴ멜로디 데이, 두 번째 싱글 앨범으로 컴 .	PER-B PER-B ORG-B ORG-I O O O O O O

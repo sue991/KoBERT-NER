@@ -1,9 +1,9 @@
 현대차는 지난해 중동 주요 12개국에서 32만7951대를 판매하였으며, 이는 현대차가 1976년 중동에 진출하+ㄴ이후 역대 최대 판매 실적으로 지난해 현대차의 전체 해외 판매 대수 이+ㄴ 427만8265대의 7.7%를 차지하+ㄴ다 .	ORG-B O LOC-B O O O O O ORG-B O LOC-B O O O O O O ORG-B O O O O O O O O O
 ‘세상을 바꾸는 것은 사람이지만 사람을 바꾸는 것은 교육이다’ +이라는 주제로 1995년 9월 15일 첫 강의가 시작되+ㄴ 이래 20년 만의 성과+이다 .	O O O O O O O O O O O O O O O O O O O O O
-경고는 한국영(26·알 가라파)이 3개로 가장 많이 받았고, 퇴장은 10월 카타르 전에서 홍정호(27·장쑤쑤닝)가 받은 것이 유일하였다 .	O ORG-B O O O O O O O O O ORG-B O O O O
+경고는 한국영(26·알 가라파)이 3개로 가장 많이 받았고, 퇴장은 10월 카타르 전에서 홍정호(27·장쑤쑤닝)가 받은 것이 유일하였다 .	O ORG-B ORG-I O O O O O O O O ORG-B O O O O
 서울역 고가 수목원 조성, 10월부터 이용 못하+ㄴ다?… 완공은 2017년 예상 서울역 고가 공원이 수목원으로 새롭게 태어나 +ㄹ 예정이다 .	LOC-B O O O O O O O O O LOC-B O O O O O O O O
-서울시는 ‘서울역 7107 프로젝트’ 국제 현상 설계 공모 당선작으로 네덜란드 건축·조경 전문가 이+ㄴ 비니 마스씨의 보행길을 수목원으로 담아내 +ㄴ ‘서울 수목원(TheSeoulArboretum 조감도)’을 최종 선정하였다 .	ORG-B O O O O O O O O ORG-B O O O PER-B O O O O O O O O O O O
-비니 마스씨는 2000년 하노버 엑스포의 네덜란드관, 2030년 파리의 비전을 그리 +어내+ㄴ ‘그랜드 파리플러스쁘띠’로 잘 알려지+ㄴ 세계적 이+ㄴ 건축 및 도시 설계회사 이+ㄴ MVRDV의 창립자이자 대표 +이다 .	PER-B O O O O LOC-B O LOC-B PER-B O O O LOC-B O O O O O O O O O ORG-B O O O O
+서울시는 ‘서울역 7107 프로젝트’ 국제 현상 설계 공모 당선작으로 네덜란드 건축·조경 전문가 이+ㄴ 비니 마스씨의 보행길을 수목원으로 담아내 +ㄴ ‘서울 수목원(TheSeoulArboretum 조감도)’을 최종 선정하였다 .	ORG-B O O O O O O O O ORG-B O O O PER-B PER-I O O O O O O O O O O
+비니 마스씨는 2000년 하노버 엑스포의 네덜란드관, 2030년 파리의 비전을 그리 +어내+ㄴ ‘그랜드 파리플러스쁘띠’로 잘 알려지+ㄴ 세계적 이+ㄴ 건축 및 도시 설계회사 이+ㄴ MVRDV의 창립자이자 대표 +이다 .	PER-B PER-I O O O LOC-B O LOC-B PER-B O O O LOC-B O O O O O O O O O ORG-B O O O O
 당선작은 고가를 공중정원으로 조성하는 기본구상안으로 서울역 고가를 하나의 크+ㄴ나무로 설정하였다 .	O O O PER-B O LOC-B O O O O O
 2011년부터 인천적십자를 이끌고 있는 황 회장은 2009년 사회복지공동모금회의 고액기부자 모임이 +ㄴ ‘아너소사이어티’에도 가입하였다 .	O ORG-B O O PER-B O O ORG-B O O O ORG-B O O
 中, 15년 만에 美 군사장비 억 .	ORG-B O O ORG-B O O O

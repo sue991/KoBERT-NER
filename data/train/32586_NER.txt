@@ -1,13 +1,13 @@
-수요 미식회 피자맛집, 다투+ㄴ 연인도 화해 하+ㄹ맛?“짜증나게 맛있다” 관심 UP↑ ‘수요 미식회’에서 소개되+ㄴ 피자맛집 ‘더 키친 살바토레 쿠오모’가 화제+이다 .	O O O O O O O O O O O O O O ORG-B O O O O O
+수요 미식회 피자맛집, 다투+ㄴ 연인도 화해 하+ㄹ맛?“짜증나게 맛있다” 관심 UP↑ ‘수요 미식회’에서 소개되+ㄴ 피자맛집 ‘더 키친 살바토레 쿠오모’가 화제+이다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O
 8일 방송 하+ㄴtvN 예능 프로그램 ‘수요 미식회’에서는 씨엔블루 강민혁과 모델이현이가 게스트로 출연하+여 ‘피자’를 주제로 이야기를 나누었다 .	O O ORG-B O O O O ORG-B PER-B PER-B O O O O O O O
-이날 ‘수요 미식회’에서 출연진은 ‘문 닫기 전에 가+아야 하+ㄹ 식당’ 첫 번째로 선정되+ㄴ 서울 신사동에 위치하+ㄴ 피자맛집 ‘더 키친 살바토레 쿠오모’를 소개하였다 .	O O O O O O O O O O O O O LOC-B O O O ORG-B O O O O O
+이날 ‘수요 미식회’에서 출연진은 ‘문 닫기 전에 가+아야 하+ㄹ 식당’ 첫 번째로 선정되+ㄴ 서울 신사동에 위치하+ㄴ 피자맛집 ‘더 키친 살바토레 쿠오모’를 소개하였다 .	O O O O O O O O O O O O O LOC-B LOC-I O O ORG-B ORG-I ORG-I ORG-I O O
 이현이는 “결혼 전 남편과 심하게 싸우고 기분이 나쁘+ㄴ 채로 피자집에 가+았다 .	PER-B O O O O O O O O O O O
 강급 선수 39명 중에서 10명 안팎의 선수가 특별승급 대상자로 평가되 +ㄴ다 .	O O O O O O O O O O O O
 일본 국민은 경제관계 강화(29%), 국민 차원의 교류 확대(15%), 전 후보상(9%) 등을 아시아와의 관계 강화를 위하+ㄴ 방안으로 제시하였다 .	ORG-B O O LOC-B O O O O O O O ORG-B O LOC-B O O O O
 금호타이어 근로자, 공장에서 분신 하+여 숨지+어...쓰러지+어 있는 것 동료가 발 .	ORG-B O O O O O O O O O O
 장 예비후보는 “스포츠 강국에서 스포츠 선진국으로 한 단계 더 성장하기 위하+ㄴ 변화와 혁신이 필요하+ㄴ 시점이다 .	PER-B O O O O O O O O PER-B O O O O O O
 @galleryinarticletag@지 난달 말 러시아에서 발사되 +ㄴ 다목적 실용위성(아리랑) 3A 호가지구를 찍은 시험 촬영 영상이 14일 첫 공개+었다 .	O O O ORG-B O O O O O LOC-B O O O O O O O O
-부산지검 외사부(부장 김도형)는 전북스카우터 A씨(48)로부터 경기 때 유리 하+ㄴ판정을 하+여달라는 청탁과 함께 각각 2, 3차례에 걸치+어 100만원씩을 받은 혐의(국민체육진흥법 위반)로 K리그 소속 심판 B씨(41)와 C씨(36)를 불구속 기소하였다고 23일 밝히었다 .	ORG-B O PER-B ORG-B PER-B O O O O O O O O O O O MNY-B O O O ORG-B O O PER-B PER-B O O O O O
+부산지검 외사부(부장 김도형)는 전북스카우터 A씨(48)로부터 경기 때 유리 하+ㄴ판정을 하+여달라는 청탁과 함께 각각 2, 3차례에 걸치+어 100만원씩을 받은 혐의(국민체육진흥법 위반)로 K리그 소속 심판 B씨(41)와 C씨(36)를 불구속 기소하였다고 23일 밝히었다 .	ORG-B ORG-I PER-B ORG-B PER-B O O O O O O O O O O O MNY-B O O O ORG-B O O PER-B PER-B O O O O O
 국내에는 백두산 호랑이 약 50마리가 전국 동물원에서 사육되고 있다 .	O O O O O O O O O O
 분양가는 3.3㎡당 1200만원대부터 책정되었고 실사용 면적을 극대화 하+ㄴ 특화설계가 적용되었다 .	O O MNY-B O O O O O O O O
-고려개발은 이달 천안시 서북구 두정동 401-1번지 일원에 ‘e편한세상 두정 4차’를 선보이+ㄹ 예정이다 .	ORG-B O LOC-B LOC-B LOC-B O O O O O O O O
+고려개발은 이달 천안시 서북구 두정동 401-1번지 일원에 ‘e편한세상 두정 4차’를 선보이+ㄹ 예정이다 .	ORG-B O LOC-B LOC-B LOC-B LOC-I O O O O O O O

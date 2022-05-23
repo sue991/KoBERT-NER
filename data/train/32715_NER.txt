@@ -1,6 +1,6 @@
 SK신인노관현의 패 .	ORG-B O O
 골프채를 먼저 잡은 것+ㄴ 동생 윤정호다 .	O O O O O PER-B O
-국내 최대 규모, 대한민국을 대표하는 환경 그림 공모전으로 홈플러스 e파란재단과 유엔 환경계획(UNEP) 한국위원회가 주최하고 환경부, 교육부, 기상청, 산림청, 글로벌녹색성장기구, 중앙일보, 중앙SUNDAY, 서울대학교 등 총 73개 기관 이 후원하+ㄴ다 .	O O O ORG-B O O O O ORG-B O ORG-B O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O
+국내 최대 규모, 대한민국을 대표하는 환경 그림 공모전으로 홈플러스 e파란재단과 유엔 환경계획(UNEP) 한국위원회가 주최하고 환경부, 교육부, 기상청, 산림청, 글로벌녹색성장기구, 중앙일보, 중앙SUNDAY, 서울대학교 등 총 73개 기관 이 후원하+ㄴ다 .	O O O ORG-B O O O O ORG-B ORG-I ORG-B ORG-I ORG-I O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O
 마타, 리그컵 4강 1차 전결승골 포함 … 최근 15경기 무패기간 4골 맹활 .	PER-B O O O O O O O O O O O O
 아베 총리가 집권 하+ㄴ이후에는 과거 행동에 대하+ㄴ 구실 찾기에 그치지 않고 아예 과거를 덮으려는 시도로까지 나아가고 있다 .	PER-B O O O O O O O O O O O O O O O O O
 김 교수와 주 회장의 집안은 서로 잘 알고 지내던 사이이었다 .	PER-B O PER-B O O O O O O O O

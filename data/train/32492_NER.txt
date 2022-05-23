@@ -1,8 +1,8 @@
-IMF는 유럽연합(EU)·유럽중앙은행(ECB)과 함께 흔히 트로이카로 불리는 그리스 국제 채권단의 일원이다 .	ORG-B ORG-B O O O O ORG-B O O O O
+IMF는 유럽연합(EU)·유럽중앙은행(ECB)과 함께 흔히 트로이카로 불리는 그리스 국제 채권단의 일원이다 .	ORG-B ORG-B O O O O ORG-B ORG-I ORG-I O O
 이러하+ㄴ 만족도를 바탕으로 마이컴소프트는 MBN 방송의 스마트 기술 자문을 비롯하+여 다양하+ㄴ대외 수상을 통하+여 인정받았다 .	O O O ORG-B O O O O O O O O O O O
 보류 선수 명단에서 제외“윤성환·안지만 다년계약+였다 .	O O O PER-B O O
 이 대표는 내년 2, 3월의 조기 전당대회 여부에 대하+여서는 언급을 피하였다 .	PER-B O O O O O O O O O O O
 기상청 고위 관계자는 “뿌리 깊은 파벌 간 갈등을 비롯하+ 여기 상청 내부에 쌓이어 있는 문제들을 하루아침에 해결하기는 쉽지 않다”고 전하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
 경찰 “강남 화장실 살인, 정신질환자의 묻지 말+아범죄 결론 .	O LOC-B O O O O O O O
-충북 청주 흥덕경찰서는 나+ㄴ 농가에 들어가 +아수십억원 어치의 난을 훔치 +ㄴ 혐의(특수절도)로 17일 황 모씨(45)를 구속하였다 .	ORG-B O O O O O MNY-B O O O O O O O O O O
+충북 청주 흥덕경찰서는 나+ㄴ 농가에 들어가 +아수십억원 어치의 난을 훔치 +ㄴ 혐의(특수절도)로 17일 황 모씨(45)를 구속하였다 .	ORG-B ORG-I ORG-I O O O MNY-B O O O O O O O O O O
 다현은 3학년에 재학 중이고 채영은 2016년 신입생으로 선발되+어쯔위와 함께 1학년으로 등교하게 되+ㄴ다 .	PER-B O O O O O O PER-B O O O O O

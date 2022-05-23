@@ -7,4 +7,4 @@
 이날 오후 송 의원은 안 의원을 따르 아탈당하지 않고 새정치연합 잔류를 선언하였다 .	O O PER-B O PER-B O O O O O O O O
 ‘컬투쇼’ 심형탁은 “겨드랑이 털도 없고 대체적으로 몸에 털이 없는 편이다 .	O PER-B O O O O O O O O O
 노년층의 입원질환 1위 백내장은 매년 진료받는 환자가 늘어나고 있는 추세+이다 .	O O O O O O O O O O O
-DJI 케어는 아시아 전체에 적용하+ㄹ 예정이라 조금만 더 기다리+어달라”고 언급하였다 .	ORG-B O LOC-B O O O O O O O O
+DJI 케어는 아시아 전체에 적용하+ㄹ 예정이라 조금만 더 기다리+어달라”고 언급하였다 .	ORG-B ORG-I LOC-B O O O O O O O O

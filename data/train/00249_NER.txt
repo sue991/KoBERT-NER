@@ -8,7 +8,7 @@
 복면가왕흥 부정체 밝혀지+어…복면가왕 피노키오3라운드 진출 '복면가왕' 흥부 정체는 빅스레오로 밝혀지었다 .	O O O PER-B O O PER-B O ORG-B O O
 '복면가왕' 흥부는 13일 방송되+ㄴ MBC '일밤-복면가왕' 복면가왕 피노키오의 2라운드 대결이 펼쳐지었다 .	O PER-B O O O O O PER-B O O O O
 복면가왕흥부는 조성모 '투헤븐(ToHeaven)'을 열창, 판정단에게 잔잔하+ㄴ울림을 전하였다 .	PER-B PER-B O O O O O O
-1심은 함포 사격 명령과 실제 포격을 한 주체가 모두 미군이라며 한국 정부에 배상책임이 없다고 판결하였다 .	O O O O O O O O O ORG-B ORG-B O O O O O
+1심은 함포 사격 명령과 실제 포격을 한 주체가 모두 미군이라며 한국 정부에 배상책임이 없다고 판결하였다 .	O O O O O O O O O ORG-B ORG-B ORG-I O O O O
 4명이 시작하+여 현재는 20명 가량 근무하는 곳이 되었다 .	O O O O O O O O O
-최 회장은 이번 행사에서 멕시코 고액 기부자 모임이 +ㄴ ‘번영의 소사이어티’ 명예대사로도 위촉되었다 .	PER-B O O O LOC-B O O O O ORG-B O O O O
+최 회장은 이번 행사에서 멕시코 고액 기부자 모임이 +ㄴ ‘번영의 소사이어티’ 명예대사로도 위촉되었다 .	PER-B O O O LOC-B O O O O ORG-B ORG-I O O O
 앞으로 중국의 공공부문 개혁과 민영화가 어떻게 되+ㄹ지 확실하지 않다 .	O ORG-B O O O O O O O O

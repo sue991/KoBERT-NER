@@ -1,6 +1,6 @@
-같은 수용소에 수용되었던 안네 프랑크도 한방에 있던 언니 마르고트가 발진 티푸스로 죽자, 바로 그날부터 시름시름 앓다 그 길로 죽어 +가았던 것이다 .	O O O PER-B O O O O PER-B O O O O O O O O O O O O O
+같은 수용소에 수용되었던 안네 프랑크도 한방에 있던 언니 마르고트가 발진 티푸스로 죽자, 바로 그날부터 시름시름 앓다 그 길로 죽어 +가았던 것이다 .	O O O PER-B PER-I O O O PER-B O O O O O O O O O O O O O
 강서구에 살며 전 재산을 기부하+ㄴ 일본군 ‘위안부’ 피해자 고(故) 황금자 할머니의 입상이 함께 건립되는 것+이 특징이다 .	LOC-B O O O O ORG-B O O O PER-B O O O O O O O
-경남기업과 석유공사가 정부에서 받은 전체 성공불융자금은 러시아 캄차카반도와 미국 멕시코만 심하+여, 아제르바이잔, 카자흐스탄 유전 등을 포함하+여 총 3162만1000달러(약 356억원)에 달하+ㄴ다 .	ORG-B ORG-B O O O O LOC-B O LOC-B O O LOC-B LOC-B O O O O MNY-B MNY-B O O
+경남기업과 석유공사가 정부에서 받은 전체 성공불융자금은 러시아 캄차카반도와 미국 멕시코만 심하+여, 아제르바이잔, 카자흐스탄 유전 등을 포함하+여 총 3162만1000달러(약 356억원)에 달하+ㄴ다 .	ORG-B ORG-B O O O O LOC-B LOC-I LOC-B LOC-I O LOC-B LOC-B O O O O MNY-B MNY-B O O
 북한 6차 핵실험 임박?… 사용 안 하+ㄴ 3번 갱도에 위장막 설 .	ORG-B O O O O O O O O O O O
 법무부 국감 김무성 ‘사위 마약’ 봐주기 의혹?與野 공방 ‘시끌’… PGS 형량 기준 확인? 새누리당 김무성 대표사위의 마약 투여 혐의에 대하+ㄴ 검찰의 봐주기 의혹이 제기되었다 .	ORG-B O PER-B O O O O O O O O O O ORG-B PER-B O O O O O O O O O O
 사라예보 여인이스라엘 정 .	LOC-B ORG-B O O

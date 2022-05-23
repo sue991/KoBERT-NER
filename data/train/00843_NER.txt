@@ -10,7 +10,7 @@
 24일 선보이+ㄴ 뒤 어제 오후 6시까지의 승인액이 12조원을 넘었다 .	O O O O O O O MNY-B O O
 입학본부는 전국의 군 지역을 대상으로 ‘찾아가는 전형안내’도 실시하고 있다 .	ORG-B O O O O O O O O O
 2-0으로 앞서 +ㄴ 제주는 이때까지 성남 원정에서 0-0으로 맞서 +ㄴ 인천과 골득실차를 1골(인천+3, 제주+2)까지 좁히었다 .	O O O ORG-B O LOC-B O O O O ORG-B O ORG-B ORG-B O O
-▲오후 2시33분 &2시 47분 서울 원정에 나서 +ㄴ 전남이종호 가 득점에 성공하였고, 전국 6개 경기장이하프타임에 돌입하였다 .	TIM-B TIM-B TIM-B O LOC-B O O O ORG-B O O O O O O O O
+▲오후 2시33분 &2시 47분 서울 원정에 나서 +ㄴ 전남이종호 가 득점에 성공하였고, 전국 6개 경기장이하프타임에 돌입하였다 .	TIM-B TIM-B TIM-B TIM-I LOC-B O O O ORG-B O O O O O O O O
 견본주택은 오늘(21일) 문열 +ㄴ다 .	O O O O O
-1981년 연세대 경영학과를 졸업하고 미국 워싱턴대세인트루이스 경영대학원에 입학, MBA에 도전하였다 .	O ORG-B O O LOC-B ORG-B O O ORG-B O O
+1981년 연세대 경영학과를 졸업하고 미국 워싱턴대세인트루이스 경영대학원에 입학, MBA에 도전하였다 .	O ORG-B ORG-I O LOC-B ORG-B ORG-I O ORG-B O O
 당초 토트넘은 ‘손흥민이 발을 다치었고 의료진이 상태를 확인하고 있다’며 자세 하+ㄴ부상 정도를 밝히지 않았다 .	O ORG-B PER-B O O O O O O O O O O O O

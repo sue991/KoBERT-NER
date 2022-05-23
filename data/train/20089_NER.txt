@@ -12,5 +12,5 @@ FT는 “올해에도 관행(ritu al)대로 다가오+ㄹ한 해를 전망하였
 에너지관리공단은 타이어의 회전저항이 10% 개선되 +ㄹ 때 연비가 약 1.74%가 향상되 +ㄴ다고 설명 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O
 지나+ㄴ 7일에는 김기춘 전 대통령 비서실장(78)과 조윤선 전 문화체육관광부 장관(51) 김상률 전 청와대 교육문화수석(57), 김소영 전 청와대 문화체육비서관(50) 등 4인 이 재판에 넘기+어+지었다 .	O O PER-B O O O PER-B O ORG-B O PER-B O ORG-B ORG-B PER-B O ORG-B ORG-B O O O O O O
 1월 12일에는 신동철 전 청와대 정무비서관(56), 김종덕 전 문체부 장관(60), 정관주 전 문체부 1차관(53) 등 3인이 구속 기소+었다 .	O O PER-B O ORG-B O PER-B O ORG-B O PER-B O ORG-B O O O O O O
-해리슨 포드 경비행기 사고 중상, 제2차 세계대전 당시 사용되+ㄴ 경비행기를 직접 몰아 미국의 영화배우 해리슨 포드가 경비행기 사고로 중상을 입었다는 소식이 전하여 +지+었다 .	PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O
-로이터 등 외신에 따르면 6일(현지시간) 오후 2시께 해리슨 포드는 자신의 경비행기를 몰고 LA 외곽의 골프 코스를 돌다가 사고가 나 +ㄴ 것으로 전하여 +지+었다 .	ORG-B O O O O O O PER-B O O O O LOC-B O O O O O O O O O O O
+해리슨 포드 경비행기 사고 중상, 제2차 세계대전 당시 사용되+ㄴ 경비행기를 직접 몰아 미국의 영화배우 해리슨 포드가 경비행기 사고로 중상을 입었다는 소식이 전하여 +지+었다 .	PER-B PER-I O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+로이터 등 외신에 따르면 6일(현지시간) 오후 2시께 해리슨 포드는 자신의 경비행기를 몰고 LA 외곽의 골프 코스를 돌다가 사고가 나 +ㄴ 것으로 전하여 +지+었다 .	ORG-B O O O O O O PER-B PER-I O O O LOC-B O O O O O O O O O O O

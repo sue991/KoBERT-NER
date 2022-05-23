@@ -6,7 +6,7 @@
 ‘투명인간’ 강호동 “진세연, 제일 예쁘어”… 얼마나 빛나길 .	O LOC-B PER-B O O O O O
 키이스트와 SM은 12일 오후 양사의 글로벌 한류를 대표하는 소속 아티스트들과 IP 및 자원을 공동으로 활용하여 △드라마, 영화, MCN(MultiChannelNetw ork, 다중채널 네트워크) 등의 웹, 모바일 방송 콘텐츠 공동제작 및 문화콘텐츠 펀드를 결성 △영상, 모바일, MCN 등 협력사업 추진을 골자로 하는 전략적 제휴를 위하+ㄴ 업무협약을 체결하고 콘텐츠 경쟁력 강화에 나서 +ㄴ다고 발표하였다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
 하지만 더 중요하였던 것은 김일성의 귀에 얘기를 하는 것이었다 .	O O O O PER-B O O O O O
-KBO 리그에 적응하려면 외국인 투수들에게 중요하+ㄴ 능력 중 하나가 퀵모션이나 번트 수비다 .	ORG-B O O O O O O O O O O O O
+KBO 리그에 적응하려면 외국인 투수들에게 중요하+ㄴ 능력 중 하나가 퀵모션이나 번트 수비다 .	ORG-B ORG-I O O O O O O O O O O O
 주한미군의 전시작전통제권을 가능하+ㄴ한 일찍 환수 하+여야 하+ㄴ다는 그의 주장이나 북핵의 돈줄이 +ㄴ 개성공단과 금강산 관광을 재개하겠다는 발언에 불안감을 느끼는 국민이 많다는 점을 명심하+여야 하+ㄴ다 .	ORG-B O O O O O O O O O O O ORG-B LOC-B O O O O O O O O O O O
 게임의 기본이 되는 실시간 5:5 대전 외에도 점령시간을 두고 경쟁하는 모드, 1:1 모드, 업데이트를 앞두고 있는데스매치 모드 등 다양하+ㄴ 즐기+ㄹ거리가 마련되었다 .	O O O O O O O O O O O O O O O O O O O O O O
 이 자전거가 사라지 +ㄹ 때까지 빤히 쳐다보던 조모씨(40·여)는 “저 정도+이면 오토바이 폭주족 수준 아니냐”고 말하였다 .	O O O O O O O PER-B O O O O O O O O

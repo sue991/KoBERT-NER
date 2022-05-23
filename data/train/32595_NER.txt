@@ -1,12 +1,12 @@
 따라서 우리 측 경험자들은 『평양에 가기 전에 북한이 잘 사용하는 선전 전술에 대하+ㄴ 사전 대비를 철저히 하지 않으면 평양에 가+아서 아주 당혹스럽+ㄴ 상황에 직면하+ㄹ 가능성이 높다 』고충고하였다 .	O O O O LOC-B O O ORG-B O O O O O O O O O O LOC-B O O O O O O O O O
 한겨레는 윤상현 의원의 막말 사건에서 윤 의원이 김무성 대표를 공천에서 솎아내라고 전화로 협의 하+ㄴ 현역 의원이 누구+이+ㄴ지를 밝혀내 +ㄹ 수 있는데도 이를 당 차원에서 제대로 밝혀내지 않는 것이 친박계 의원들을 보호하려는 의도가 아니냐고 분석 하+ㄴ다 .	ORG-B PER-B O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
 최 회장 측은 한진해운의 자율협약 신청 사실을 미리 알고 주식을 매각하였다는 의혹에 대하+여“고 조수호 전 한진해운 회장(최 회장의 남편)으로부터 상속받은 재산에 대하+ㄴ 세금을 내기 위 하+여주식을 팔았다”고 해명하고 있다 .	PER-B O O ORG-B O O O O O O O O O PER-B O ORG-B PER-B O O O O O O O O O O O O O
-쇼케이스 현장에서 스마일게이트 메가포트 정수영 퍼블리싱실장은 "국내 누적 가입자 100만명, PC방 순위 10가 목표"라고 밝히+ㄴ바 있다 .	O O ORG-B O PER-B O O O O O O O O O O O O
+쇼케이스 현장에서 스마일게이트 메가포트 정수영 퍼블리싱실장은 "국내 누적 가입자 100만명, PC방 순위 10가 목표"라고 밝히+ㄴ바 있다 .	O O ORG-B ORG-I PER-B O O O O O O O O O O O O
 김성우 청와대 홍보수석이 비서실장 교체를 발표하+ㄴ지 30분 후 ‘고별인사’를 위하+여서 +이었다 .	PER-B ORG-B O O O O O O O O O O
 이 전 실장은 “떠나는 사람이 무슨 말을 하느냐”며 인터뷰를 사양하고 기자실을 한 바퀴 돌면서 기자들과 일일이 악수를 나누었다 .	PER-B O O O PER-B O O O O O O O O O O PER-B O O O
 이 작업이 최종 완료되면 식품의약품안전처에 신약품목을 신청하+ㄹ 계획이다 .	O O O O ORG-B O O O O
-하지만 오피스텔 주인은 “3일간 주차하었던 비용이라고 생각하고 12만원을 내면 번호판을 돌려주겠다”며 고집을 부리었다 .	O O O O O O O MNY-B O O O O O O
+하지만 오피스텔 주인은 “3일간 주차하었던 비용이라고 생각하고 12만원을 내면 번호판을 돌려주겠다”며 고집을 부리었다 .	MNY-I O O O O O O MNY-B O O O O O O
 여당 공동위원장이 +ㄴ 새누리당 김정훈 정책위의장은 18일 “시간은 적고 논의 하+ㄹ 사안은 많다”며 “한중 FTA 연내 발효가 문제 없이 진행되 +ㄹ 수 있도록 초당적 이+ㄴ 협조를 기대하+ㄴ다”고 말하였다 .	O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O
 지나+ㄴ 6일 미국 본토에서 긴급 공수를 시작하+ㄴ 주한미군의 고고도미사일방어(THAAD·사드) 체계는 한 달 안에 한반도 전개가 모두 끝나 +ㄹ 것이라고 복수의 정부 관계자들이 8일 밝히었다 .	O O LOC-B O O O O ORG-B O O O O O LOC-B O O O O O O O O O O O
 또 빅뱅이 예능에 함께 출연하는 것이 드물+ㄴ 아이돌 그룹이 +ㄴ 것도 관심을 높이는 이유+이다 .	O ORG-B O O O O O O O O O O O O O
-현재 일본 돔투어 이+ㄴ ‘BIGBANG10 THECONCERT: 0.TO.10-THEFINAL-’를 펼치고 있는 빅뱅은 내년 1월 7~8일 서울 고척스카이돔에서 단독 콘서트를 개최 하+ㄹ 예정이다 .	O LOC-B O O O O O O O ORG-B O O O LOC-B O O O O O O O
+현재 일본 돔투어 이+ㄴ ‘BIGBANG10 THECONCERT: 0.TO.10-THEFINAL-’를 펼치고 있는 빅뱅은 내년 1월 7~8일 서울 고척스카이돔에서 단독 콘서트를 개최 하+ㄹ 예정이다 .	O LOC-B O O O O O O O ORG-B O O O LOC-B LOC-I O O O O O O

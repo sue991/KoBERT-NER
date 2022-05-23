@@ -1,12 +1,12 @@
 자율주행 차량은 고성능 센서망, 강력 하+ㄴ탐지 및 센서 융합시스템과 클라우드 연결, 선도업체와의 효율적 이+ㄴ 시스템 제휴가 필요하다 .	O O O O O O O O O O O O O O O O O O
-이내영 고려대 정치외교학과 교 .	PER-B ORG-B O O O
+이내영 고려대 정치외교학과 교 .	PER-B ORG-B ORG-I O O
 16일 오후 3시에 생방송되는 중앙일보 인터넷 방송 ‘명의가 보+ㄴ기적’(이하 ‘명의’) 14회에 +ㄴ한미약품 강자훈 상무가 출연하였다 .	O O O O ORG-B O O O O O O ORG-B PER-B O O O
 IT 전문가 이+ㄴ 박용후 피와이에이치 대표는 “스마트폰은 하드웨어와 소프트웨어 경쟁을 동시에 벌이는 분야 이+ㄴ데플렉시블 만큼 강력 하+ㄴ 하드웨어 혁신은 없다”며 “경쟁사에 폴더을·롤러블을 먼저 내주는 결정은 쉽게 내리지 못하+ㄹ 것”이라고 말하였다 .	O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
 ‘이동휘와 열애’ 정호연, ‘매끈’ 비키니 뒤태 보니 …男心 초토화 배우 이동휘(30)와 열애 중 이+ㄴ 모델 정호연(21)의 무보정 뒤 태사진이 재조명 받고 있다 .	PER-B O PER-B O O O O O O O PER-B O O O O PER-B O O O O O O O
 정호연은 과거 자신의 소셜미디어에 비키니 자태가 담기 +ㄴ 사진 한 장을 공개하였다 .	PER-B O O O O O O O O O O O O
 사진 속 정호연은 해변가를 배경으로 하늘을 향하+여포즈를 취하고 있다 .	O O PER-B O O O O O O O
 7월 MVP 이+ㄴ 양현종에게는 상금 200만원이 수여되며, KBO는 3일 광주-기아 챔피언스필드에서 열리는 한화와의 경기에 앞서 +어시상식을 가지+ㄹ 예정이다 .	O O O PER-B O MNY-B O ORG-B O O O O ORG-B O O O O O O
-동아닷컴 디지털뉴스팀 기사 제보 dnews@donga. co .	ORG-B O O O O O O
+동아닷컴 디지털뉴스팀 기사 제보 dnews@donga. co .	ORG-B ORG-I O O O O O
 청와대에서 합병과 관련 하+여 모종의 신호를 주는 것 아니냐는 오해를 불식하기 위하+여서라도 M&A 심사 기준부터 먼저 밝히+어야 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O
 4년 뒤 이+ㄴ 2005년 쌍둥이를 임신하였는데, 성별검사 결과 또 여아로 밝혀지자 B씨와 시아버지는 A씨에게 임신 중절 수술을 요구하였고, A씨는 이를 받아들이어 낙태하였다 .	O O O O O O O O O O O PER-B O PER-B O O O O PER-B O O O O
 중동 등에 의료서비스 수출 본격화 … 신약 개발 유전체 연구 360억 투 .	LOC-B O O O O O O O O O MNY-B O O

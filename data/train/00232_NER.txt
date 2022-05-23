@@ -4,7 +4,7 @@
 그리고 25일 현재까지 4박5일을 먹고 자며 생활하고 있다 .	O O O O O O O O O
 왕혜문한의사의 완벽몸매가 네티즌 사이에서 화제+이다 .	PER-B O O O O O
 경기 하남시 망월동, 풍산동, 선동, 덕풍동 일대에 주택약 4만3000채가 건설되는 공공택지지구다 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O
-현 IDB 연차총회 의장이+ㄴ 브라질의 넬종 바르보사 기획예산부 장관은 이번에 최경환 경제부총리 겸 기획재정부 장관에게 의장직을 넘기 +ㄴ다 .	O ORG-B O O ORG-B PER-B O ORG-B O O PER-B O O ORG-B O O O O O
+현 IDB 연차총회 의장이+ㄴ 브라질의 넬종 바르보사 기획예산부 장관은 이번에 최경환 경제부총리 겸 기획재정부 장관에게 의장직을 넘기 +ㄴ다 .	O ORG-B O O ORG-B PER-B PER-I ORG-B O O PER-B ORG-I O ORG-B O O O O O
 "저공부 못하+여요, 우리 셋 중에서는 (백) 승호형이 제일 잘 하+ㄹ 것+ㄹ요.제일 못하는 것+이 공부에요."고개를 절레절레 내젓은 장결희는 공부하+ㄹ 시간에 축구를 더하였으면 좋겠다며 씨익 웃었다 .	O O O O O PER-B PER-B O O O O O O O O O O O O O O O O O O
 이에 이 현지는 자신의 실제 신체 사이즈를 공개하며 많은 이들의 시선을 사로잡았다 .	O O O O O O O O O O O O O
 앞서 이 현지는 박진영의 신곡 ‘어머님이 누구+이니’ 뮤직비디오에 출연하+여 명품 몸매와 애플힙으로 화제로 떠오르+ㄴ 바 있다 .	O O O PER-B O O O O O O O O O O O O O

@@ -2,11 +2,11 @@
 자유한국당은 28일 이은재 바른정당 의원이 전격 탈당 후 홍준표 자유한국당 후보에 대하+ㄴ 지지를 선언하+ㄴ 것과 관련 “보수 대결집이 시작되었다”고 평가하였다 .	ORG-B O PER-B ORG-B O O O O PER-B ORG-B O O O O O O O O O O O
 국제금융정보제공업체 CEIC는 2016년 인도의 경제성장률 전망치를 중국(6.8%)보다 높은 6.9%로 내다보았다 .	O ORG-B O ORG-B O O ORG-B O O O O
 안철수 전 국민의당 대표는 10일 박근혜 대통령의 퇴진을 요구하는 온라인 서명에잇어 오프라인 서명운동에도 나서 +ㄴ다 .	PER-B O ORG-B O O PER-B O O O O O O O O O O
-안철수 전 대표는 이날 서울 마포구 홍대입구역 앞에서 박근혜 대통령의 퇴진 촉구 서명운동을 갖는다 .	PER-B O O O LOC-B LOC-B O O PER-B O O O O O O
+안철수 전 대표는 이날 서울 마포구 홍대입구역 앞에서 박근혜 대통령의 퇴진 촉구 서명운동을 갖는다 .	PER-B O O O LOC-B LOC-B LOC-I O PER-B O O O O O O
 ○민주당 경선 레이스, 3각 구도로 재편? 경선 규칙에 대하+ 여문 전 대표와 안희정 충남도지사, 이 시장 측은 수용 의사를 밝히었다 .	ORG-B O PER-B O O O O O O PER-B O O PER-B ORG-B PER-B O O O O O O
-홍콩 바이어 매칭박람회를 주최하는 모든 커뮤니케이션이 경란 대표는 “부스 형식의 박람회에 그치는 것이 아니라, 홍콩 바이어를 대상으로 프리젠테이션을 하+ㄹ 수 있는 시간이 주어지기 때문에 매칭을 통하+ㄴ 더 높은 실적 달성이 예상되 +ㄴ다”며 “홍콩 IFC 몰 주변에서 한복을 입고 쇼핑객이나 관광객들에게 제품을 홍보하는 문화 결합형 프로모션을 통하+ㄴ 홍보 효과도 기대되+ㄴ다”고 말하였다 .	LOC-B O O O ORG-B O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+홍콩 바이어 매칭박람회를 주최하는 모든 커뮤니케이션이 경란 대표는 “부스 형식의 박람회에 그치는 것이 아니라, 홍콩 바이어를 대상으로 프리젠테이션을 하+ㄹ 수 있는 시간이 주어지기 때문에 매칭을 통하+ㄴ 더 높은 실적 달성이 예상되 +ㄴ다”며 “홍콩 IFC 몰 주변에서 한복을 입고 쇼핑객이나 관광객들에게 제품을 홍보하는 문화 결합형 프로모션을 통하+ㄴ 홍보 효과도 기대되+ㄴ다”고 말하였다 .	LOC-B O O O ORG-B ORG-I O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O
 3월로 넘어가는 이번 주에는 서울 낮 최고기온이 11도(28일)를 기록하는 등 전국이 대체로 맑고 따뜻하+ㄴ 날씨를 보이겠다 .	O O O O LOC-B O O O O O O O O O O O O
-UC는 지나 +ㄴ 몇 년 동안 등록금 동결 조치에 따르 아학비를 올리+어 받을 수 없는 캘리포니아 주 출신 대신 학비를 올리+ㄹ 수 있는 유학생과 다른 주출신 학생 비율을 늘리+어+았다 .	ORG-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+UC는 지나 +ㄴ 몇 년 동안 등록금 동결 조치에 따르 아학비를 올리+어 받을 수 없는 캘리포니아 주 출신 대신 학비를 올리+ㄹ 수 있는 유학생과 다른 주출신 학생 비율을 늘리+어+았다 .	ORG-B O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O
 SK플래닛은 4월 14일 ‘T맵 택시’의 정식 서비스 오픈을 준비 중이다 .	ORG-B O O O O O O O O O O
 SNL코리아 6전효성, 과거 화장 전후 비교 사진“이렇+ㄹ수가 …대체 누구? .	O PER-B O O O O O O O O
 1970년대 이후 이어 지+어오+ㄴ 사물놀이와 재즈, 25현 가야금으로 재해석 하+ㄴ 비발디 등 기존 퓨전국악의 물길에서 좀비끼+어 있다 .	O O O O O O O O O O O O O O O O O O

@@ -1,10 +1,10 @@
 선생은 또다시 부인회 간부 42명과 함께 체포되었다 .	O O O O O O O O
 한편 아이유와 박명수의 '레옹'은 음원 공개 이후 15분 만에 각종 음원차트 1위를 차지하는 기염을 토하였다 .	O PER-B PER-B O O O O O O O O O O O O O
 가장 크+ㄴ 변수는 호남이다 .	O O O LOC-B O
-25일 JYP엔터테인먼트 측은 공식 트위터를 통하+여 “미쓰에이 7집 앨범 ‘컬러스’ 티저 이미지, 미쓰에이 컬러스 수지” +이라는 글과 함께 수지의 티저 이미지 여러 장을 올리었다 .	O ORG-B O O O O ORG-B O O O O PER-B ORG-B O PER-B O O O PER-B O PER-B O O O O
-그리스 정부 “9일까지 IMF에 부채 4억 5800만 유로 갚겠다 .	LOC-B ORG-B O ORG-B O MNY-B O O O O
-조지 W 부시 행정부에서 국무장관을 지내+ㄴ콘돌리자 라이스도 트럼프 후보 사퇴를 요구하였다 .	PER-B O O O O PER-B O PER-B O O O O
-그는 SBS 예능 ‘동상이몽’에 유재석 보조MC로 출연하+ 여탁월하+ㄴ 진행능력과 끼를 드러내며 ‘리틀 유재석’이란 수식어를 얻었다 .	O ORG-B O O PER-B O O O O O O PER-B PER-B O O O
+25일 JYP엔터테인먼트 측은 공식 트위터를 통하+여 “미쓰에이 7집 앨범 ‘컬러스’ 티저 이미지, 미쓰에이 컬러스 수지” +이라는 글과 함께 수지의 티저 이미지 여러 장을 올리었다 .	O ORG-B O O O O ORG-B O O O O O ORG-B O PER-B ORG-I O O PER-B O O O O O O
+그리스 정부 “9일까지 IMF에 부채 4억 5800만 유로 갚겠다 .	LOC-B ORG-B O ORG-B O MNY-B MNY-I MNY-I O O
+조지 W 부시 행정부에서 국무장관을 지내+ㄴ콘돌리자 라이스도 트럼프 후보 사퇴를 요구하였다 .	PER-B PER-I PER-I O O PER-B PER-I PER-B O O O O
+그는 SBS 예능 ‘동상이몽’에 유재석 보조MC로 출연하+ 여탁월하+ㄴ 진행능력과 끼를 드러내며 ‘리틀 유재석’이란 수식어를 얻었다 .	O ORG-B O O O O O O O O O PER-B PER-I O O O
 우승 150점, 준우승 80점 등 40위까지 주어지며 메이저대회에서는 두 배의 점수가 부여되 +ㄴ다 .	O O O O O O O O O O O O O O
 재판부는 “가정부에게 수천만원을 빌리고도 제대로 갚지 않고 오히려 유흥업종사자를 동원하+여가정부를 협박하+여 채무를 면제받은 점도 죄책이 가볍지 않은데도 잘못을 반성하지 않고 책임을 회피하는 데 급급하+여엄정 하+ㄴ 처벌이 불가피하다”고 덧붙이었다 .	O O MNY-B O O O O O O O O O O O O O O O O O O O O O O O O O O
 지난해 여름 고명진(28)의 이적과 시즌 종료 후 몰리나(36)와의 계약해지 등으로 공백이 생기+ㄴ미드필드에는 국내 선수를 대거 영입하였다 .	O O PER-B O O O O PER-B O O O O O O O O O

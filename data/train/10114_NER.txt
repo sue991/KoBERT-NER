@@ -1,15 +1,15 @@
 도로공사 측은 이날 고속도로 통행량이 지난해 광복절 연휴 첫날(15일·금요일)보다 16% 증가하였지만 정체의 길이는 감소하였다고 밝히었다 .	ORG-B O O ORG-B O O O O O O O O O O O O
 3시간 정도 열어 두 +어물기를 말리+ㄴ 다음 필터와 바람나 +아오는 판을 끼우어 넣는다 .	O O O O O O O O O O O O O O
-13일 영국 런던 화이트하트레인에서 끝나 +ㄴ토트넘 홋스퍼와 밀월 FC의 잉글랜드 축구협회(FA) 컵 8강전은 ‘측면 지배자’ 손흥민의 가치를 확인 하+ㄹ 수 있는 무대+이었다 .	O LOC-B O O O ORG-B O ORG-B O O O O O O O PER-B O O O O O O O
-이를 통하+여대 기업 쪽 부품을 전담하게 되+ㄴ 것.한 영피엔에스가 삼성전자 쪽의 부품을 담당하였고, 한영정공은 동부대우전자 쪽 부품을 담당하게 되었다 .	O O O O O O O ORG-B O ORG-B O O O ORG-B ORG-B O O O O O
+13일 영국 런던 화이트하트레인에서 끝나 +ㄴ토트넘 홋스퍼와 밀월 FC의 잉글랜드 축구협회(FA) 컵 8강전은 ‘측면 지배자’ 손흥민의 가치를 확인 하+ㄹ 수 있는 무대+이었다 .	O LOC-B LOC-I LOC-I O ORG-B ORG-I ORG-B ORG-I O O O O O O PER-B O O O O O O O
+이를 통하+여대 기업 쪽 부품을 전담하게 되+ㄴ 것.한 영피엔에스가 삼성전자 쪽의 부품을 담당하였고, 한영정공은 동부대우전자 쪽 부품을 담당하게 되었다 .	O O O O O O O ORG-B ORG-I ORG-B O O O ORG-B ORG-B O O O O O
 BCT 응시학생들을 대상으로 베이징에서 중국어 캠프를 운용하고, 베이징의 대외경제무역대학과 강의 프로그램도 운영 하+ㄴ다 .	O O O LOC-B O O O LOC-B O O O O O O
 2위(박혁수, 국우석)는 2711표를 얻는 데 그치었다 .	PER-B ORG-B O O O O O
-모터쇼 기간에 자동차 디자인을 주제로 카를로 팔라자니(전 페라리 디자이너), 데일해로우(영국 왕립예술학교 자동차 디자인학장) 등이 참여하는 ‘CARISART’ 국제 컨퍼런스가 열리+ㄴ다 .	O O O O O PER-B O ORG-B O ORG-B O O O O O O O O O O
+모터쇼 기간에 자동차 디자인을 주제로 카를로 팔라자니(전 페라리 디자이너), 데일해로우(영국 왕립예술학교 자동차 디자인학장) 등이 참여하는 ‘CARISART’ 국제 컨퍼런스가 열리+ㄴ다 .	O O O O O PER-B PER-I ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O
 인간의 역사 내내 중요하+ㄴ과 제+이었던 이 주제를 토의하기 위하+여 미국 최고의 학자와 정치인들이 한자리에 모이었다 .	O O O O O O O O O ORG-B O O O O O O
 18일 SBS ‘힐링캠프, 기쁘지 아니 하+ㄴ가’(이하 ‘힐링캠프’)에서는 ‘각시탈’ ‘식객’ ‘타짜’ 등 수많은 히트작을 탄생시키+ㄴ 만화가 허영만과 허영만의 문하생으로 만화계에 입문 하+여 ‘이끼’ ‘내부자들’ ‘미생’을 그리 +ㄴ 만화가 윤태호 가 게스트로 출연하+여 이야기를 나누었다 .	O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O O PER-B O O O O O O
-황교안 대통령 권한대행 국무총리는 우루과이 인근 남대서양 해양에서 한국인 선원 탑승화 물선이 연락 두절 되+ㄴ 사고와 관련 하+여 1일 “우루과이 정부(해경 당국)와 긴밀히 협조 하+여실종 선박 수색 및 우리 선원 구조가 신속히 이루어지도록 하라”고 외교부에 지시하였다 .	PER-B O O O ORG-B O LOC-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O
+황교안 대통령 권한대행 국무총리는 우루과이 인근 남대서양 해양에서 한국인 선원 탑승화 물선이 연락 두절 되+ㄴ 사고와 관련 하+여 1일 “우루과이 정부(해경 당국)와 긴밀히 협조 하+여실종 선박 수색 및 우리 선원 구조가 신속히 이루어지도록 하라”고 외교부에 지시하였다 .	PER-B O O O ORG-B O LOC-B LOC-I O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O ORG-B O O
 또 “외교부, 해양수산부, 현지 공관 등 관계부처 합동대책반을 중심으로 사고수습에 최선을 다 하+여달라”고 주문하였다 .	O ORG-B ORG-B O O O O O O O O O O O O
 외교부는 지난달 26일 브라질에서 출발하+여우루과이 인근 해역을 항해 중이던 화물선 ‘스텔라 데이지(StellaDaisy)’ 호가 같은 달 31일 오후 11시20분쯤 (한국시간) 선박 침수 사실을 카카오톡 메시지로 발신하+ㄴ 후 연락 두절 되+ㄴ 사건이 발생하였다고 이날 밝히었다 .	ORG-B O O LOC-B LOC-B O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
-외교부는 오후 1시쯤 재외국민 보호대책반을 긴급 가동하고 국민안전처 등 국내 관계부처와 비상연락체계를 유지하는 한편 주우루과이 대사관을 통하+여우루과이해경 당국에 긴급구조를 요청하였다 .	ORG-B TIM-B O ORG-B O O O ORG-B O O O O O O ORG-B O ORG-B O O O O
+외교부는 오후 1시쯤 재외국민 보호대책반을 긴급 가동하고 국민안전처 등 국내 관계부처와 비상연락체계를 유지하는 한편 주우루과이 대사관을 통하+여우루과이해경 당국에 긴급구조를 요청하였다 .	ORG-B TIM-B TIM-I ORG-B O O O ORG-B O O O O O O ORG-B ORG-I ORG-B O O O O
 (서울=뉴스1 .	LOC-B O
 전날 한중 정상회담에서 박 대통령이 ‘한미중 협의’를 사드 이 견 해소 방식의 하나로 제안하+ㄴ 것과 같은 맥락으로 풀이되 +ㄴ다 .	O ORG-B O PER-B O ORG-B O O O O O O O O O O O O O O

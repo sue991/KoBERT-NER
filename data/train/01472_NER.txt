@@ -1,11 +1,11 @@
 두 포럼에서 나 오+ㄴ 견해를 소개하+ㄴ다.“한반도 통일은 한민족 공동체의 숙명이다 .	O O O O O LOC-B O O O O O
 심장병은 성인 사망 원인 1위 +이다 .	O O O O O O O
 사진은 3차원을 2차원으로 변환하는 매체이다 .	O O O O O O
-영국 과학자 프랜시스 골턴(Francis Galton)은 소의 겉모습만 본 실험 참가자 700명에게 소의 무게를 쪽지에 적어 내도록 하는 실험을 +였다 .	LOC-B O PER-B PER-B O O O O O O O O O O O O O O O O
+영국 과학자 프랜시스 골턴(Francis Galton)은 소의 겉모습만 본 실험 참가자 700명에게 소의 무게를 쪽지에 적어 내도록 하는 실험을 +였다 .	LOC-B O PER-B PER-B PER-I O O O O O O O O O O O O O O O
 정준호 이하 정, 아들 공개… “벌써부터 훈훈하네! .	PER-B O O O O O O O
 검찰의 칼끝이 어디로 향하+ㄹ지 모르는 상황에서 정치권이 ‘성완종 게이트’를 정략적으로 이용하지 말라는 일종의 ‘경고성 메시지’로도 읽히+ㄴ다 .	O O O O O O O O O O O O O O O O O
 이와 관련 하+여 롯데 조원우 감독은 “이대호와 최준석, 그리고 포수강 민호(32)까지 같은 라인업에 쓰는 것이 가능하다”고 못을 박았다. 조 감독이 구상하는 롯데 최상의 시나리오는 포수강 민호, 1루수 이대호, 지명타자 최준석 이 들어가는 카드+이다 .	O O O ORG-B PER-B O PER-B PER-B O O O O O O O O O O PER-B O O ORG-B O O O O O PER-B O PER-B O O O O
-15일 서울 종로구 현대상선 본사에서기자들과 만나 +ㄴ유창근 현대상선 사장(64)의 얘기+이다 .	O LOC-B LOC-B ORG-B O O PER-B ORG-B O O O
+15일 서울 종로구 현대상선 본사에서기자들과 만나 +ㄴ유창근 현대상선 사장(64)의 얘기+이다 .	O LOC-B LOC-B ORG-B LOC-I O PER-B ORG-B O O O
 (국정원 직원 유서 공개) 국정원 직원 유서 공개... ‘노트3장’ 각 장마다 대상 다르아...무슨 내용? 국정원 직원 임모씨의 유서 3장 가운데 당초 공개하지 않은 두 장의 유서가 추가로 공개되었다. 임씨는 가족에게 보내는 내용의 이유서에서 "아내와 두 딸, 그리고 부모님께 짊어 지+ㄹ 짐들이 너무 무겁다 .	ORG-B O O O ORG-B O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
 한전은 남는 전력을 배터리에 충전하+여 에너지를 효율화하는 스마트그리드 등 10개 사업에 대하+여 MOU를 체결하였다 .	ORG-B O O O O O O O O O O O O O O
 하지만 회사명이 바뀌는 마당에 이미 경쟁력을 상실하+ㄴ 야후 브랜드를 끝까지 가져가 +ㄹ 것이 +ㄴ지에 대하+여서는 의견이 분분하다.만약 미국 야후 본사가 포탈 서비스에서도 야후 브랜드를 포기하+ㄴ다면 전 세계에서 거의 유일하게 일본에서만 야후+이라는 이름이 남을 가능성이 크다 .	O O O O O O O ORG-B O O O O O O O O O ORG-B ORG-B O O O ORG-B O O O O O O LOC-B ORG-B O O O O O

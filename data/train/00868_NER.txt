@@ -1,16 +1,16 @@
-‘伊성추행 혐의 기소’도 신우누구? 한국 최초 男모델… “이탈리아식 인사”해명한국 최초 남성 모델이자 패션모델계의 대부로 불리는 도신우 모델센터 인터내셔날 회장이 성추행 혐의로 기소되었다 .	O O O O ORG-B O ORG-B O ORG-B O O ORG-B ORG-B O O PER-B ORG-B O O O O O O
-서울동부지검 형사3부(이태승 부장검사)는 외국 출장 중 여직원을 성추행 하+ㄴ 혐의(업무상 위력 등에 의하+ㄴ 추행)로도 신우 모델센터 인터내셔널 대표를 불구속 기소하였다고 9일 밝히었다 .	ORG-B PER-B O O O O O O O O O O O O O ORG-B O O O O O O O
+‘伊성추행 혐의 기소’도 신우누구? 한국 최초 男모델… “이탈리아식 인사”해명한국 최초 남성 모델이자 패션모델계의 대부로 불리는 도신우 모델센터 인터내셔날 회장이 성추행 혐의로 기소되었다 .	O O O O ORG-B O ORG-B O ORG-B O O ORG-B ORG-B O O PER-B ORG-B ORG-I O O O O O
+서울동부지검 형사3부(이태승 부장검사)는 외국 출장 중 여직원을 성추행 하+ㄴ 혐의(업무상 위력 등에 의하+ㄴ 추행)로도 신우 모델센터 인터내셔널 대표를 불구속 기소하였다고 9일 밝히었다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O
 검찰에 따르면 도 대표는 지난해 10월 이탈리아 밀라노 출장에 동행 하+ㄴ 여직원 A씨를 호텔 방으로 부르어 양쪽 뺨에 세 차례에 걸치+어입을 맞추는 등 성추행 하+ㄴ 혐의를 받고 있다 .	O O PER-B O O O LOC-B LOC-B O O O O PER-B O O O O O O O O O O O O O O O O
 도 대표는 그러나 검찰에서 "이탈리아식 인사를 +였을 뿐, 성추행하려는 의도는 없었다"며 혐의를 부인하였다 .	PER-B O O O ORG-B O O O O PER-B O O O O
 A씨는 사건 발생 후 경찰에 신고 하+ㄴ 뒤 회사를 그만두 +ㄴ 것으로 알려지었다 .	PER-B O O O O O O O O O O O O O
 한편, 도 대표는 우리나라 최초의 남성 모델이자 한 한국패션모델계의 대부로 통하+ㄴ다 .	O PER-B O O O O O O O O O O
 오늘 ‘비디오 스타’에 출연하게 +었는데 많이 지켜보+아주시+ㄹ 것+이죠? 8시 반에 만나 +아요”라고 말 하+ㄴ다 .	O O O O O O O O O O O O O O O
-▼ 김규현 청와대 국가안보실 제1차장 브리핑 전문 ▼남과 북은 현재 진행되고 있는 남북관계 상황과 관련 하+여우리 시간 오늘 오후 6시 판문점 평화의 집에서 우리 측 김관진 국가안보실장과 홍용표 통일부 장관, 북측의 황병서 총정치국장과 김양건 당비서 간 접촉을 갖기로 오늘 오후 합의하였다 .	O PER-B ORG-B O O O O ORG-B ORG-B O O O ORG-B O O O O O O O LOC-B LOC-B O O O PER-B O PER-B ORG-B O ORG-B PER-B O PER-B O O O O O O O O
+▼ 김규현 청와대 국가안보실 제1차장 브리핑 전문 ▼남과 북은 현재 진행되고 있는 남북관계 상황과 관련 하+여우리 시간 오늘 오후 6시 판문점 평화의 집에서 우리 측 김관진 국가안보실장과 홍용표 통일부 장관, 북측의 황병서 총정치국장과 김양건 당비서 간 접촉을 갖기로 오늘 오후 합의하였다 .	O PER-B ORG-B ORG-I O O O ORG-B ORG-B O O O ORG-B O O O O O O O LOC-B LOC-B LOC-I O O PER-B ORG-I PER-B ORG-B O O PER-B O PER-B O O O O O O O O
 북한은 어제 오후 4시경, 김양건 당비서 명의 통지문을 통하+여 김관진 국가안보실장과 김양건 당비서와의 접촉을 제의 하+여+오았으며 이에 대하+여우리 측은 같은 날 오후 6시 경 김관진 실장 명의로 김양건 당비서가 아니+ㄴ 황병서 총정치국장이 접촉에 나오라는 수정통지문을 보내+었다 .	ORG-B O O O PER-B O O O O PER-B O PER-B O O O O O O O O O O O O PER-B O O PER-B O O PER-B O O O O O O
 이런 우리 측 수정 제안에 대하+ 여 북측은 오늘 오전 9시30분 경 황병서 국장과 김양건 당비서가 나오겠다고 하면서 김관진 실장과 홍용표 장관이 나 오+ㄹ 것을 요청하였다 .	O O O O O O O O O O O O PER-B O PER-B O O O PER-B O PER-B O O O O O O
-우리 측은 이러하+ㄴ 북측의견을 받아들이어 오늘 오후 6시에 판문점 평화의 집에서 북측과의 접촉을 가지+ㄹ 것을 제의하였으며 북한은 이를 수용하였다 .	O O O O O O O O LOC-B LOC-B O O O O O O ORG-B O O O
+우리 측은 이러하+ㄴ 북측의견을 받아들이어 오늘 오후 6시에 판문점 평화의 집에서 북측과의 접촉을 가지+ㄹ 것을 제의하였으며 북한은 이를 수용하였다 .	O O O O O O O O LOC-B LOC-B LOC-I LOC-I O O O O ORG-B O O O
 앞서 +어 같은 과 김윤비 씨는 ‘2016 네이버 대학 만화 최강자전’에서 ‘Doll체인지’ +이라는 어드벤처식 모험 액션웹툰을 출품하+여 대상을 수상하는 등 목원대가 국내 양대 포털의 대표적 이+ㄴ 웹툰 공모전 대상을 휩쓸었다 .	O O O O PER-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
-김응교 숙명여대 교수가 쓰+ㄴ 윤동주 평전 ‘처럼’도 한 달 만에 5000부가 나가+았다 .	PER-B ORG-B O O PER-B O O MNY-B O O O O O
+김응교 숙명여대 교수가 쓰+ㄴ 윤동주 평전 ‘처럼’도 한 달 만에 5000부가 나가+았다 .	PER-B ORG-B O O PER-B O O MNY-B MNY-I O O O O
 이렇게 판매 기회를 놓치는 경우는 신주쿠뿐 아니라 도쿄 도심의 스타벅스 매장에서 공통적으로 나타나는 현상이다 .	O O O O O LOC-B O LOC-B O ORG-B O O O O O
 이런 문제점을 해결하고자 SBJ는 일부러 혼잡 하+ㄴ 매장 근처에 신규 매장을 열는 전략을 내놓았다 .	O O O ORG-B O O O O O O O O O O O
-전북권 대학 중에서는 폴리텍 익산캠퍼스가 취업률 전국 상위 10위권 내에 자리 하+ㄴ 것이다 .	LOC-B O O ORG-B O O O O O O O O O O
+전북권 대학 중에서는 폴리텍 익산캠퍼스가 취업률 전국 상위 10위권 내에 자리 하+ㄴ 것이다 .	LOC-B O O ORG-B ORG-I O O O O O O O O O

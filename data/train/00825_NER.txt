@@ -1,9 +1,9 @@
 [연예뉴스스테이션] 윤재호 감독 ‘히치하이커’ 칸 단편 부문 초 .	O PER-B O O O O O O O
-한편 서울∼심양 노선은 대한항공이 연내 취항을 목표로 중국 북방항공 측과 협상 중이다 .	O LOC-B O ORG-B O O O ORG-B O O O O O
+한편 서울∼심양 노선은 대한항공이 연내 취항을 목표로 중국 북방항공 측과 협상 중이다 .	O LOC-B O ORG-B O O O ORG-B ORG-I O O O O
 ‘라디오 스타’ 육성재가 MC 규현의 자리를 탐내+었다 .	O O PER-B O PER-B O O O
 지나+ㄴ 27일 방송되+ㄴ MBC ‘황금어장-라디오 스타’에는 루나, 김성주, 김형석, 육성재, 가희가 출연하였다 .	O O O ORG-B O O PER-B PER-B PER-B PER-B PER-B O O
-트럼프가 과반대의원을 확보하려면 앞으로 평균 57%의 득표율을 올리+어야 하는데 크루즈와 케이식은 다음 경선 지역이+ㄴ 인디애나를 시작으로 오리건과 뉴멕시코 주 경선에서 후보 단일화에 나서+어반(反) 트럼프연대를 구축하기로 +였다 .	PER-B O O O O O O O O PER-B PER-B O O O LOC-B O LOC-B LOC-B O O O O O PER-B O O O
-[게시판] 광주 MBC 교양강좌 .	O ORG-B O O O
+트럼프가 과반대의원을 확보하려면 앞으로 평균 57%의 득표율을 올리+어야 하는데 크루즈와 케이식은 다음 경선 지역이+ㄴ 인디애나를 시작으로 오리건과 뉴멕시코 주 경선에서 후보 단일화에 나서+어반(反) 트럼프연대를 구축하기로 +였다 .	PER-B O O O O O O O O PER-B PER-B O O O LOC-B O LOC-B LOC-B LOC-I O O O O PER-B O O O
+[게시판] 광주 MBC 교양강좌 .	O ORG-B ORG-I O O
 녹십자는 여기에 안주하지 않고 앞으로 글로벌 시장 공략에 주력 하+ㄹ 계획이다 .	ORG-B O O O O O O O O O O O
 ‘억대 사기 혐의’ 최홍만 “이런 기사 갑자기 나와 당황”… 피해 금액 변제는? ‘글쎄 .	O O O PER-B O O O O O O O O O O
 박 대통령은 ‘개발 및 기후변화’를 주제로 하+ㄴ 정상회의 업무 오찬에서 식량안보 및 영양행동 계획 등 저소득 개도국과의 협력 방안을 모색하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O

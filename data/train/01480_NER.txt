@@ -1,10 +1,10 @@
-포시즌스 호텔그룹의 MIT 프로그램(ManagerinTrainingP rogram)은 리더십과 전문성을 갖추+ㄴ 관리자 배출을 위하+ㄴ 것으로 추후 매니저로 선정되+ㄹ 가능성이 높아 엘리베이터 프로그램으로 불리기도 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+포시즌스 호텔그룹의 MIT 프로그램(ManagerinTrainingP rogram)은 리더십과 전문성을 갖추+ㄴ 관리자 배출을 위하+ㄴ 것으로 추후 매니저로 선정되+ㄹ 가능성이 높아 엘리베이터 프로그램으로 불리기도 하+ㄴ다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
 캠프 참가가 신입생 선발 심사 시 가산점 등 혜택으로 작용하지 않지만 학생들이 서울국제고 캠프에 참가 하+ㄴ후 스스로 동기를 부여하+여열심히 공부하였다는 증거+이다 .	O O O O O O O O O O O O O O O O O O O O O O
 ‘배’를 다루+ㄴ장에서는 비너스의 볼록하+ㄴ 뱃살에서 출발하+ㄴ 사적사유를 엮었다 .	O O PER-B O O O O O O
 영업이익은 전년 2531억원 적자에서 흑자로 전환하였다 .	O O MNY-B O O O O
-그는 “호텔은 디테일 싸움”이라며 “새너제이 에어포트 호텔은 공항 근처 싸구려 호텔이미지를 바꾸기 위하+여 ‘새너제이 실리콘밸리’로 간판을 바꾸+어달았다 .	O O O O ORG-B O O O O O O O O ORG-B O O O O
-잦아들지 않는 인기에 힘입어 이병헌은 4일 오후 7시 서울 롯데시네마 월드타워에서 관객과 만나 +ㄴ다 .	O O O O PER-B O O O LOC-B LOC-B O O O O O
-3차례 대회, 스포츠 시청률 1위 “中 CCTV, 경기 늘리+어달라 요청”게임·현지 체육관 등 영역 확대 “1년 나+의 20억달러 가치 브랜드로”종합격투기 ROADFC가 중국에서 가+ㄹ수록 영향력을 확대하고 있다 .	O O O O O ORG-B O O O O O O O O O O MNY-B O O O ORG-B O O O O O
+그는 “호텔은 디테일 싸움”이라며 “새너제이 에어포트 호텔은 공항 근처 싸구려 호텔이미지를 바꾸기 위하+여 ‘새너제이 실리콘밸리’로 간판을 바꾸+어달았다 .	O O O O ORG-B ORG-I ORG-I O O O O O O ORG-B ORG-I O O O
+잦아들지 않는 인기에 힘입어 이병헌은 4일 오후 7시 서울 롯데시네마 월드타워에서 관객과 만나 +ㄴ다 .	O O O O PER-B O O O LOC-B LOC-B LOC-I O O O O
+3차례 대회, 스포츠 시청률 1위 “中 CCTV, 경기 늘리+어달라 요청”게임·현지 체육관 등 영역 확대 “1년 나+의 20억달러 가치 브랜드로”종합격투기 ROADFC가 중국에서 가+ㄹ수록 영향력을 확대하고 있다 .	O O O O O ORG-B ORG-I O O O O O O O O O MNY-B O O O ORG-B O O O O O
 그런 토스가 올해 내놓은 서비스 중의 하나가 간편대출이다 .	O ORG-B O O O O O O O
 사고 당시 11호 객차에 타고 있던 강씨는 『 열차가 잠시 정차 하+여 있다가 출발하기 직전 갑자기 꽝하는 소리가 나면서 유리창이 깨지고 열차 내 전기 불이 나 가+았으며 객차가 기우뚱거리며 30m쯤 밀려나가+았다』고 말하였다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
 학과는 올해부터 정시와 수시전형을 수능 30% ++실기 70%로 통일하었다 .	O O O O O O O O O O

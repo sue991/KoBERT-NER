@@ -5,12 +5,12 @@
 이제는 초등학교 입학식에 40대 엄마 손을 잡고 오는 아이도 쉽게 찾아보+ㄹ 수 있다 .	O O O O O O O O O O O O O O
 이번 달 30일과 31일에는 단독 콘서트 'Remem ber, theday'를 열 +ㄴ다 .	O O O O O O O O O O O O
 행복 파트너 역량 강화를 위하+여은퇴설계 전문가(ARPS)과정을 진행, 1869명의 합격자를 배출하였다 .	O O O O O O O O O O O
-1977년 첫선을 보이+ㄴ 후 38년이나 되+ㄴ이 시리즈에 왜 여전히 세계는 열광하는 것+이+ㄹ까? 박상준 서울 SF아카이브 대표는 “‘스타워즈’는 단순 하+ㄴ SF 영화가 아니라 대중문화의 흐름을 바꾸+ㄴ ‘문화충격(cultu res hock)’ 콘텐츠”라고 평가하였다 .	O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O
+1977년 첫선을 보이+ㄴ 후 38년이나 되+ㄴ이 시리즈에 왜 여전히 세계는 열광하는 것+이+ㄹ까? 박상준 서울 SF아카이브 대표는 “‘스타워즈’는 단순 하+ㄴ SF 영화가 아니라 대중문화의 흐름을 바꾸+ㄴ ‘문화충격(cultu res hock)’ 콘텐츠”라고 평가하였다 .	O O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O
 같은 기간 유럽 판매 40만 2000대의 20% 수준이다 .	O O LOC-B O O O O O O
 ◆파우스트의 겁벌=괴테의 ‘파우스트’를 대본으로 한 프랑스 작곡가 베를리오즈의 극 음악.겁벌(劫罰)은 지옥의 고통을 겪게 하는 벌이라는 뜻이다 .	O PER-B O O O LOC-B O PER-B O O O O O O O O O
 글=류태형 음악 칼럼니스트·객원기자 moz art@joongang. co.kr사진=권혁재 사진전문기 .	PER-B O O O O PER-B O O
 “나도 듣었어. 근데 요즘에 +ㄴ 남자들도 뷰티에 관심이 많+지 않아.” 셋중에 화장품을 사용하는 사람은 없었다 .	O O O O O O O O O O O O O O O O
 [오늘의 운세/11월 20일 .	O O O O
 [책의 향기/ 독자 서평]긍정을 찬미하는 사회, 자본주의의 잔인하+ㅁ을 비추 .	O O O O O O O O O O
-울산 현대는 5일 울산 문수축구경기장에서 열리+ㄴ성남FC와의 ‘현대오일뱅크 K리그 클래식 2016’ 9라운드 홈 경기에서 대대적으로 ‘어린이 맞이’에 나서 +었다 .	LOC-B O O LOC-B O ORG-B O O O O O O O O O O O O O
+울산 현대는 5일 울산 문수축구경기장에서 열리+ㄴ성남FC와의 ‘현대오일뱅크 K리그 클래식 2016’ 9라운드 홈 경기에서 대대적으로 ‘어린이 맞이’에 나서 +었다 .	LOC-B ORG-I O LOC-B LOC-I ORG-B ORG-I O O O O O O O O O O O O
 103개 조합이 연합하+ㄴ이 협동조합은 매출액 기준으로 스페인 10대 기업에 해당하는데, 몇 가지 특징이 있었다 .	O O O O O O LOC-B O O O O O O O O

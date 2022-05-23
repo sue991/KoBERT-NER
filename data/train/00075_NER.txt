@@ -4,7 +4,7 @@
 서울 소공동에 위치하+ㄴ 본점과 잠실점에잇어 전국에서 세 번째로 매출이 많은 지점이기도 하다 .	LOC-B LOC-B O O O O O O O O O O O
 두산 김현수 “잠실구장은 아무 잘못 없어요 .	ORG-B PER-B LOC-B O O O O
 유씨는 2012년 제18대 대통령 선거 당시 민주통합당 문재인 후보 등을 원색적으로 비방하는 댓글을 수차례 올리+ㄴ 혐의로 지난해 11월 기소되었다 .	PER-B O O O O O ORG-B PER-B O O O O O O O O O O O O
-대전 유성경찰서는 16일 도로에서 +어 있던 보행자를 충격하고 달아나 +ㄴ 혐의(도주치상)로 A씨(55)를 불구속 입건하였다고 밝히었다 .	ORG-B O O O O O O O O O O PER-B O O O O
+대전 유성경찰서는 16일 도로에서 +어 있던 보행자를 충격하고 달아나 +ㄴ 혐의(도주치상)로 A씨(55)를 불구속 입건하였다고 밝히었다 .	ORG-B ORG-I O O O O O O O O O PER-B O O O O
 A씨는 지나 +ㄴ 6일 오전 0시 20분쯤 대전시 유성구의 한 도로에서 택시를 잡으려고 서+어 있던 B씨(61)를 사이드미러로 부딪히 +ㄴ 뒤 아무런 조치를 취하지 않고 그대로 달아나 +ㄴ 혐의를 받고 있다 .	PER-B O O O O O O LOC-B LOC-B O O O O O O PER-B O O O O O O O O O O O O O O O
 사고로 B씨는 전치 3주의 부상을 입었다 .	O PER-B O O O O O
 조사 결과 A씨는 자신의 범행을 은폐하기 위하+ 여사고 당일 사이드미러를 교체하+ㄴ 것으로 드러나 +았다 .	O O PER-B O O O O O O O O O O O O

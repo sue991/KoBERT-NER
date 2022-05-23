@@ -10,4 +10,4 @@
 관람료는 경복궁 3000원, 창경궁 1000원으로 일반 관람과 같다 .	O LOC-B MNY-B LOC-B MNY-B O O O O
 “대우조선, 前 임원 대주주 이+ㄴ 회사에 6년간 일감 2300억원 어치몰아주 .	ORG-B O O O O O O O MNY-B O O
 미국 CNN은 당국이 사망자가 73명에 이르+ㄴ다고 현지 언론에 전하였다고 보도하였다 .	ORG-B ORG-B O O O O O O O O O
-제2회 한국영화제작가협회상은 kth, k쇼핑, 명필름, 명필름 아트센터의 후원으로 치르어 +지었다 .	O ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O
+제2회 한국영화제작가협회상은 kth, k쇼핑, 명필름, 명필름 아트센터의 후원으로 치르어 +지었다 .	O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-I O O O O

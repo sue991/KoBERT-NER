@@ -1,4 +1,4 @@
-광동제약, 코리아이 플랫폼 인 수주식 매매계 .	ORG-B ORG-B O O O O O
+광동제약, 코리아이 플랫폼 인 수주식 매매계 .	ORG-B ORG-B ORG-I O O O O
 [세상 읽기] 한·중·일 3국과 중국의 대 주변 외 .	O O ORG-B O ORG-B O O O O
 우병우 전 청와대 민정수석(50·사법연수원 19기)에 대하+ㄴ 구속영장이 다시 한 번 기각되었다 .	PER-B O ORG-B ORG-B O O O O O O O O
 코스피 시장에 27일 상장 하+ㄹ 예정이+ㄴ용평리조트는 리조트 운영 및 개발 전문기업으로 1973년 설립되었다 .	O O O O O ORG-B O O O O O O O O

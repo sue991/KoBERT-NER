@@ -11,5 +11,5 @@ KT는 경기혁신센터를 지원하며 스타트업들의 해외 진출을 돕
 태고종도 산 스님 ‘정치 보복 마르아’ 조언에 화 .	ORG-B O O O O O O O O
 "그런데 왜 기자들이 하나둘씩 자리를 뜨죠?" 한나라당 대표 시절 박근혜 대통령의 말이다 .	O O O O O O ORG-B O O PER-B O O O
 “나토국, 방위비 비중 GDP의 2% …日, 1%도 안 되+어… 트럼프 설득의 문 .	ORG-B O O O O ORG-B O O O PER-B O O O
-6일 대구 스타디움 보조경기장에서 열리+ㄹ 예정이었던 마룬5의 내한공연이 공연 시작 2시간 전 연기되었다 .	O LOC-B LOC-B O O O ORG-B O O O O O O O
-같은 날 마룬5의 내한공연을 담당하고 있는 라이브 네이션코리아 측은 “이날 오후 7시 진행 예정이었던 마룬5의 내한공연 대구일정이 아티스트 건강상의 이유로 연기되었다”고 밝히었다 .	O O ORG-B O O O ORG-B O O O O O O O ORG-B O LOC-B O O O O O O
+6일 대구 스타디움 보조경기장에서 열리+ㄹ 예정이었던 마룬5의 내한공연이 공연 시작 2시간 전 연기되었다 .	O LOC-B LOC-B LOC-I O O ORG-B O O O O O O O
+같은 날 마룬5의 내한공연을 담당하고 있는 라이브 네이션코리아 측은 “이날 오후 7시 진행 예정이었던 마룬5의 내한공연 대구일정이 아티스트 건강상의 이유로 연기되었다”고 밝히었다 .	O O ORG-B O O O ORG-B ORG-I O O O O O O ORG-B O LOC-B O O O O O O

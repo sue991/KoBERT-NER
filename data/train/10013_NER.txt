@@ -8,5 +8,5 @@
 전남도는 기존에 재선충병이 발생하+ㄴ 여수·순천·광양·무안 등 4개 시·군의 피해목은 전량 베어 내+어우드 칩과 톱밥으로 가공하+ 여자원화시키+ㄹ 방침이다 .	LOC-B O O O LOC-B O O O O O O O O O O O O O
 ICT 우수 기술과 문화를 접하+ㄹ 수 있는 ‘호기심 n 사람= 미래교육’ 실 .	O O O O O O O O O O O O O
 1993년 노벨문학상 수상작가 토니모리슨이 내보이는 ‘글쓰기의 비밀’이다 .	O O O PER-B O O O O
-2000년대 초중반 섹시 스타이효리를 메인 모델로 내세우어 ‘이효리 청바지’ 열풍을 이끌었던 데님 브랜드에프 알제이지+ㄴ(FRJJeans)이 제2의 비상을 꿈꾸 +ㄴ다 .	O O O PER-B O O O PER-B O O O O ORG-B ORG-B O O O O O
-블루 차이나 B2B 멤버십커머스 플랫폼 ‘메이메이더’하얼빈 거점 구축 중국 업체와 MOU… 한국우수상품 초기 비용 없이 중국 판매 가능 중국 e-커머스 전문 스타트업 기업 ‘블루차이나’(대표이사 구명길)는 15일 중국 ‘하얼빈 항록길 상무유한공사’(대표 페이종)와 자사 가 운영하는 한-중 B2B 멤버쉽 커머스 플랫폼 ‘메이메이더(美美的/www.mmdbox. com)’의 하얼빈 거점 구축을 위하+ㄴ MOU를 체결하였다 .	ORG-B O O O O LOC-B O O ORG-B O O LOC-B O O O ORG-B O O ORG-B O O O O ORG-B PER-B O ORG-B LOC-B O O PER-B O O O O O O O O ORG-B O LOC-B O O O O O O
+2000년대 초중반 섹시 스타이효리를 메인 모델로 내세우어 ‘이효리 청바지’ 열풍을 이끌었던 데님 브랜드에프 알제이지+ㄴ(FRJJeans)이 제2의 비상을 꿈꾸 +ㄴ다 .	O O O O O O O O O O O O ORG-B ORG-B O O O O O
+블루 차이나 B2B 멤버십커머스 플랫폼 ‘메이메이더’하얼빈 거점 구축 중국 업체와 MOU… 한국우수상품 초기 비용 없이 중국 판매 가능 중국 e-커머스 전문 스타트업 기업 ‘블루차이나’(대표이사 구명길)는 15일 중국 ‘하얼빈 항록길 상무유한공사’(대표 페이종)와 자사 가 운영하는 한-중 B2B 멤버쉽 커머스 플랫폼 ‘메이메이더(美美的/www.mmdbox. com)’의 하얼빈 거점 구축을 위하+ㄴ MOU를 체결하였다 .	ORG-B ORG-I O O O LOC-B O O ORG-B O O LOC-B O O O ORG-B O O ORG-B O O O O ORG-B PER-B O ORG-B LOC-B O O PER-B O O O O O O O O ORG-B O LOC-B O O O O O O

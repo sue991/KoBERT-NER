@@ -1,14 +1,14 @@
 그래서 “경기의 승패도 중요하지만 다른 팀보다 하나라도 범실을 덜 하는 것이 목표”라고 말하였다 .	O O O O O O O O O O O O O O
-공정위, 피자 브랜드 점포 당비교… 자산구조는 ‘오구 피자’가 장 안 .	ORG-B O O O O O ORG-B O O O O
+공정위, 피자 브랜드 점포 당비교… 자산구조는 ‘오구 피자’가 장 안 .	ORG-B ORG-I O O O O ORG-B ORG-I O O O
 (서울=연합뉴스) 박초 롱기자= 가수 KARD가 서울시 글로벌 홍보대사에 위촉되었다 .	LOC-B O O O ORG-B LOC-B O O O O
 잡페스티벌, 잡페어, 잡콘서트 등 올 들어 고양시에서 열리+ㄴ 네 번째(4·6·9·11월) 청년 일자리 행사+이다 .	O O O O O O LOC-B O O O O O O O
 따라서 음악의 경우 87년 이후 외국서 만들어 지+ㄴ곡을 연주하거나 녹음 하+ㄹ 때 사용자는 소정의 로열티를 지불하+여야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O
 현재 인천에는 중구 말고도 인천 서구와 강화군 등에서 모두 10여 곳의 해수탕이 영업하고 있다 .	O LOC-B LOC-B O LOC-B LOC-B LOC-B LOC-B O O O O O O O
 신기록을 달성 하+ㄴ 아이언나이트 에 볼보의 FH 양산용 트럭에 장착되 +ㄴ 것과 동일하+ㄴ 변속기가 사용되었다는 사실에 대하+여 매우 자랑스럽게 생각하+ㄴ다 .	O O O O O ORG-B O O O O O O O O O O O O O O O
 본인은 겸손하+여하지만 ‘부산 무료왕진 25년’은 보통 사람은 하+ㄹ 수 없는 일이다 .	O O LOC-B O O O O O O O O O
-스타트를 끊은 것은 2010년 말 결혼하+ㄴ 김태균(당시 일본 롯데)과 김석류 전 KBSN 아나운서+이다 .	O O O O O O PER-B ORG-B O PER-B O ORG-B O O
+스타트를 끊은 것은 2010년 말 결혼하+ㄴ 김태균(당시 일본 롯데)과 김석류 전 KBSN 아나운서+이다 .	O O O O O O PER-B ORG-B ORG-I PER-B O ORG-B O O
 네가 태어나면 하고 싶은 일도 정말 많아. 특히 아빠는 너+ㄹ 데리고 어디든 놀러 다니고 싶어.‘이애가 바로 나+의 딸이에요!’라고 자랑하면서 말이야(웃음).너의 부모가 되+어서 기쁘고 앞으로 건강하고 밝은 아이로 키우어 주+ㄹ게.” ‘애플 트리 김약사+이네’에서 한 번에 !아이와 엄마를 위하+ㄴ 임신기 필수 영양제 임신기의 여성이 섭취 하+여야 할 영양성분은 일반인과 다르다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-태양민 효린 열애인정, 지난해 태양MV 촬영으로 호흡 맞추+어…그룹 빅뱅의 태양과 민효린의 열애설에 빅뱅의 소속 사이+ㄴYG엔터테인먼트가 이를 인정하였다 .	PER-B O O O PER-B O O O ORG-B PER-B PER-B O ORG-B O ORG-B O O O
+태양민 효린 열애인정, 지난해 태양MV 촬영으로 호흡 맞추+어…그룹 빅뱅의 태양과 민효린의 열애설에 빅뱅의 소속 사이+ㄴYG엔터테인먼트가 이를 인정하였다 .	PER-B PER-I O O PER-B O O O ORG-B PER-B PER-B O ORG-B O ORG-B O O O
 YG엔터테인먼트 측은 2일 “태양과 민효린이 교제하고 있는 것이 맞다”며 “축하 하+ㄹ 일”이라고 밝히었다 .	ORG-B O O PER-B PER-B O O O O O O O O O
 양현석 대표 또한 “태양에게 확인 하+ㄴ 결과 민효린과 열애가 맞다”며 태양의 열애 사실을 인정하였다 .	PER-B O O PER-B O O O PER-B O O PER-B O O O O
 이어 양현석 대표는 “태양이 처음 여자친구를 사귀는 것이다”라며 “연애 경험이 노래 하+ㄹ 때 나 무대에서 +ㄹ 때 도움이 되+ㄹ 것”이라고 전하였다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O

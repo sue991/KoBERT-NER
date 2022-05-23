@@ -1,11 +1,11 @@
 해리는 에그시에게 말하+ㄴ다 .	PER-B PER-B O O
 이번 공개행사는 뉴욕을 비롯하+ 여영국 런던 히어이스트 등 주요 도시의 장소에서 생중계 형태로 동시에 진행되 +ㄴ다 .	O O LOC-B O LOC-B LOC-B LOC-B O O O O O O O O O O
-88올림픽 때는 외국인에게 깨끗하+ㄴ한강을 보이어주기 위하+여 하루 1백만 원 상당의약품을 투여하는 비상수단을 동원하였다 .	O O O LOC-B O O O MNY-B O O O O O O
+88올림픽 때는 외국인에게 깨끗하+ㄴ한강을 보이어주기 위하+여 하루 1백만 원 상당의약품을 투여하는 비상수단을 동원하였다 .	O O O LOC-B O O O MNY-B MNY-I O O O O O
 에이미는 2011년 방송되+ㄴ 케이블 채널 QTV ‘순위정하는 여자 3’에 출연하였다 .	PER-B O O O O ORG-B O O O O O
 당시 방송에서 가수 신지는 에이미에게 “남자들이 에이미의 통장 잔고를 궁금하+여하+ㄹ 것 같다”고 질문하였다 .	O O O PER-B PER-B O PER-B O O O O O O O
 이에 에이미는 “지금 나+의 통장에 +ㄴ430원뿐이다”고 털어놓+아눈길을 모으았다 .	O PER-B O O O MNY-B O O O
 취재진들의 질문에 대사관 측은 "관찰·확인 하+ㄹ 것이 있었다"는 한마디만 남기+ㄴ 채 떠나 +았다 .	O O O O O O O O O O O O O O
-사건 직후, 북한 대사관은 철통 같은 보안 속에 외부 차량 및 외부인의 진입을 일체 통제 하+어+오았다 .	O O ORG-B O O O O O O O O O O O O O O
+사건 직후, 북한 대사관은 철통 같은 보안 속에 외부 차량 및 외부인의 진입을 일체 통제 하+어+오았다 .	O O ORG-B ORG-I O O O O O O O O O O O O O
 정아 소속사 플레디스 측이 “본인에게 확인 하+ㄴ 결과 좋은 마음을 갖고 있는 것은 맞다”고 말하였다고 이 매체는 전하였다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O
 [홍수용의 다른 경제]비선의 존재, 경제관료들은 진작 알았 .	PER-B O O O O O O O
 K리그 팀들이 중국 축구의 질주에 제동을 걸 +ㄹ 수 있을지 관심이 쏠리고 있다 .	ORG-B O ORG-B O O O O O O O O O O O

@@ -1,9 +1,9 @@
 2013년 공모를 통하+여설계 당선작을 선정하였지만 지난해 사업 이 전면 보류되었다 .	O O O O O O O O O O O
 국내 지휘자는 20명 포함되었다 .	O O O O O
-이규태 서강대 기술경영전문대학원 교 .	PER-B ORG-B O O O
+이규태 서강대 기술경영전문대학원 교 .	PER-B ORG-B ORG-I O O
 이현이, 훈남 남편과 데이트… “배우 못지않은 비주얼 .	PER-B O O O O O O O
 이심 대한노인회 회장(사진)이건국대 개교 70주년을 맞고 모교 이+ㄴ건국대에 장학기금 1억원을 20일 기부하였다 .	PER-B ORG-B ORG-B O O O O ORG-B O MNY-B O O O
 기원전 8∼9세기 무렵 두 지역에서 비슷하+ㄴ 유형의 사회적 변환기를 맞았다는 정황을 보이어주는 흔적도 나오았다 .	O O O O O O O O O O O O O O O
-8일 수원월드컵경기장에서 열리+ㄴ 수원 삼성과 포항스틸러스의 K리그 클래식 1라운드는 해빙기에 접어들 +ㄴ 프로축구의 봄을 실감하 +ㄹ 수 있는 무대+이었다 .	O LOC-B O ORG-B O ORG-B ORG-B O O O O O O O O O O O O O
+8일 수원월드컵경기장에서 열리+ㄴ 수원 삼성과 포항스틸러스의 K리그 클래식 1라운드는 해빙기에 접어들 +ㄴ 프로축구의 봄을 실감하 +ㄹ 수 있는 무대+이었다 .	O LOC-B O ORG-B ORG-I ORG-B ORG-B O O O O O O O O O O O O O
 이번 시즌 3호 홈런이다 .	O O O O O
 입찰 물건에 대하+ㄴ상세정보는 예보 홈페이지(www. kdic.or.kr)를 통하+여확인 하+ㄹ 수 있다 .	O O O O O O O O O O O

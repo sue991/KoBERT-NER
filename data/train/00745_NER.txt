@@ -2,14 +2,14 @@
 이에도수를 21도로 낮추+ㄴ ‘나이스’를 출시하+여대 항마로 내세우었다 .	O O O O O O O O
 7월 후배의사에게 대리 수술을 시키었다가 적발되 +ㄴ삼성서울병원 교수도 이달 초 자격정지 1개월 처분을 받았다 .	O O O O O O ORG-B O O O O O O O O
 KLPGA투어는 지난해 4월 10일 열리+ㄴ 롯데마트 여자 오픈을 시작으로 11월 16일 끝나 +ㄴ 조선일보-포스코 챔피언십까지 33주 동안 진행되었다 .	O O O O O O O O O O O O O O O O O O O
-우리 돈 11억6000여만 원을 작다고 표현하였다 .	O O MNY-B O O O O
-강릉씨마크 호텔, 강원도 제철 식자재 활용 하+ㄴ 메뉴 출시 호텔 현대(대표 고승환)의 강릉 ‘씨마크 호텔(SEAMARQHotel)’이 가을을 맞고 강원도의 신선하+ㄴ제철 식자재를 활용하+ㄴ ‘정통 프렌치 테이스팅’ 메뉴를 출시하+ㄴ다 .	LOC-B O LOC-B O O O O O O O O PER-B LOC-B ORG-B ORG-B O O LOC-B O O O O O O O O O
-‘관동 퀴진’의 진수를 맛보+ㄹ 수 있는 씨마크 호텔의 파이+ㄴ 다이닝 ‘쉐프스테이블(Chef’sTable)’은 오는 21일부터 영양과 풍미가득 하+ㄴ 프렌치 스타일의 7코스 정식 메뉴를 고객들에게 선보이+ㄴ다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+우리 돈 11억6000여만 원을 작다고 표현하였다 .	O O MNY-B MNY-I O O O
+강릉씨마크 호텔, 강원도 제철 식자재 활용 하+ㄴ 메뉴 출시 호텔 현대(대표 고승환)의 강릉 ‘씨마크 호텔(SEAMARQHotel)’이 가을을 맞고 강원도의 신선하+ㄴ제철 식자재를 활용하+ㄴ ‘정통 프렌치 테이스팅’ 메뉴를 출시하+ㄴ다 .	LOC-B ORG-I LOC-B O O O O O O O O PER-B LOC-B ORG-B ORG-B O O LOC-B O O O O O O O O O
+‘관동 퀴진’의 진수를 맛보+ㄹ 수 있는 씨마크 호텔의 파이+ㄴ 다이닝 ‘쉐프스테이블(Chef’sTable)’은 오는 21일부터 영양과 풍미가득 하+ㄴ 프렌치 스타일의 7코스 정식 메뉴를 고객들에게 선보이+ㄴ다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
 매장 나+의·외부 곳곳에 1000여 그루를 심어 자연과 어우러지는 고객쉼터를 조성하였다 .	O O O O O O O O O O O
-당시 우리은행 소속 외국인 선수 타미카 캐칭이 우승을 이끌었다는 의미+이었다 .	O ORG-B O O O PER-B O O O O O
+당시 우리은행 소속 외국인 선수 타미카 캐칭이 우승을 이끌었다는 의미+이었다 .	O ORG-B O O O PER-B PER-I O O O O
 강남구와 서초구 상승률은 각각 43.9%, 26.7%+이었다 .	LOC-B LOC-B O O O O O
 FIFA는 아시아 본선행 티켓을 8장 부여하였다 .	ORG-B LOC-B O O O O O
 그러나 그가 긍정적 이+ㄴ 예감을 하기까지에는 부임 이후 32개월이나 걸리었다 .	O O O O O O O O O O O
 하수빈, 여전하+ㄴ길 +ㄴ 생머리 男心 자극…세월도 빗기+어가+ㄴ 미모 .	PER-B O O O O O O O O
 특히 2.0 터보 모델은 정지상태에서 시속 100㎞까지 6.6초 만에 가속하는 성능까지 갖추었다 .	O O O O O O O O O O O O O
-‘Café GET’은 바쁘+ㄴ도시생활 속에서 언제 어디서나 즐기+ㄹ 수 있는 어반 스타일을 추구하는 BGF 리테일의 새롭ㄴ 브랜드+이다 .	O O O O O O O O O O O O ORG-B O O O O
+‘Café GET’은 바쁘+ㄴ도시생활 속에서 언제 어디서나 즐기+ㄹ 수 있는 어반 스타일을 추구하는 BGF 리테일의 새롭ㄴ 브랜드+이다 .	O O O O O O O O O O O O ORG-B ORG-I O O O

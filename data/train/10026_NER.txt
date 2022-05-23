@@ -3,12 +3,12 @@
 현재 국내에서 2차 테스트까지 마치고 막바지 준비 단계에 들어가 +았다 .	O O O O O O O O O O O
 북핵 6자회담 한국 측 수석대표 이+ㄴ 황준국 외교부 한반도평화교섭본부장은 기조연설에서 “이번 북한의 도발과 남북 고위 당국자 접촉을 통하+여한·중 관계 및 북·중 관계의 변화가 확실히 드러나 +았다”고 말하였다 .	ORG-B O ORG-B O O O PER-B ORG-B ORG-B O O ORG-B O ORG-B O O O ORG-B O O ORG-B O O O O O O O
 올해 한 경기도 나가지 못하+여아쉽ㄴ 시즌이었다”고 +였다 .	O O O O O O O O
-경기 광주, 신현리·태전지구나 +에게 맞는 입지는 어디 .	LOC-B O LOC-B O O O O O
+경기 광주, 신현리·태전지구나 +에게 맞는 입지는 어디 .	LOC-B LOC-I LOC-B O O O O O
 박 위원장은 이밖에 사법개혁특별위원회 설치를 제안하였다 .	PER-B O O ORG-B O O O
-대구시가 성서아웃렛타운(달서구 호림동) 일대를 ‘걷고 싶은 거리’로 조성하+ㄴ다 .	ORG-B LOC-B O O O O O O O
-현지 경찰에 구속되 +ㄴ 김씨의 일행은 김 모씨(44·여)와 김씨의 아들(21), 딸(19), 박씨의 아들(15)로 밝혀지었고, 같이 있었던 또 다른 15세 남자는 귀국 하+ㄴ 최 모씨(41·여)의 아들이 +ㄴ 것으로 알려지었다 .	O O O O PER-B O PER-B O PER-B O O PER-B O O O O O O O O O O PER-B O O O O O O
+대구시가 성서아웃렛타운(달서구 호림동) 일대를 ‘걷고 싶은 거리’로 조성하+ㄴ다 .	ORG-B LOC-B LOC-I O O O O O O
+현지 경찰에 구속되 +ㄴ 김씨의 일행은 김 모씨(44·여)와 김씨의 아들(21), 딸(19), 박씨의 아들(15)로 밝혀지었고, 같이 있었던 또 다른 15세 남자는 귀국 하+ㄴ 최 모씨(41·여)의 아들이 +ㄴ 것으로 알려지었다 .	O O O O PER-B O PER-B PER-I PER-B O O PER-B O O O O O O O O O O PER-B PER-I O O O O O
 결국 인스타그램 세상에서 성공하는 길은 끊임없이 소통하는 것.그것+이 정답이다 .	O O O O O O O O O O
-●롯데 롯데월드, 석촌호수 벚꽃 프로모션 서울 잠실 롯데월드 어드벤처가 4월 꽃구경 나들이를 준비하는 가족 방문객을 위하+ㄴ 행사를 열 +ㄴ다 .	ORG-B ORG-B LOC-B O O LOC-B O ORG-B O O O O O O O O O O O O
+●롯데 롯데월드, 석촌호수 벚꽃 프로모션 서울 잠실 롯데월드 어드벤처가 4월 꽃구경 나들이를 준비하는 가족 방문객을 위하+ㄴ 행사를 열 +ㄴ다 .	ORG-B ORG-B LOC-B O O LOC-B LOC-I ORG-B ORG-I O O O O O O O O O O O
 이에 익명의 청와대 관계자가 햇볕정책을 주도 하+ㄴ 박 위원장을 향하+여 “북한에 약점 잡히+ㄴ 것+이 있느냐”고 비판하였고, 다시 박 위원장이 “떳떳하게 실명을 밝히라”고 되받는 논란을 벌이었다 .	O O ORG-B O O O O PER-B O O ORG-B O O O O O O PER-B O O O O O O O O
 특히 신시장이+ㄴ 태양광 사업은 2011년부터 2015년 상반기까지 길+ㄴ 침체기에 들어가면서 사업 불확실성이 커지었다 .	O O O O O O O O O O O O O O
 일부 지점에서 +ㄴ『 기관투자가들이 4만원 가깝 ㄴ 응찰 가격을 써내 +었다』는 소문이 돌아 개인 신청자들을 긴장시키기도 +였다 .	O O O O MNY-B O O O O O O O O O O O O O

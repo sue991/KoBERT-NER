@@ -1,9 +1,9 @@
 국방부 일각에서는 최근 상록수 부대의 조기 철수 주장이 꾸준히 제기되+어+았었다 .	ORG-B O O O O O O O O O O
-요금은 4천9백 원 .	O MNY-B O O
+요금은 4천9백 원 .	O MNY-B MNY-I O
 하지만 ‘중국인 인 기 관광코스’가 되+ㄴ이화여대 앞 노점들은 내년이면 철거되+ㄹ 운명에 처하+여 있다 .	O O O O O LOC-B O O O O O O O O
 [포토]BMW, 6세대 뉴 7시리즈 ‘뒷자리에 앉아보니 여유롭 ㄴ미소… .	ORG-B O O O O O O PER-B O
 SK텔레콤이 T맵을 통하+여동부화재와 개발하+ㄴ UBI 상품이 금융감독원 승인을 앞두고 있다 .	ORG-B O ORG-B O O O ORG-B O O O O
-LG전자, ‘LGV20’ 출하가 89만 9800원 확정… 29일 이통3사 통하+ 여출 .	ORG-B ORG-B O MNY-B O O O O O O O
+LG전자, ‘LGV20’ 출하가 89만 9800원 확정… 29일 이통3사 통하+ 여출 .	ORG-B ORG-B O MNY-B MNY-I O O O O O O
 이닝당 출루 허용수도 1.04로 수준급이다 .	O O O O O O
 김씨가 평양산원에서 먹은 음식은 칠색송어탕, 칠색송 어찜, 칠색송어 기름구이 등 송어 요리와 꿀을 비롯하+ㄴ보약 등이다 .	PER-B LOC-B O O O O O O O O O O O O O O
 유환익 전경련 산업본부장은 “지난달 주요 그룹 사장단 성명서를 통하+여 약속 하+ㄴ 경제위기 극복과 내수 활성화에 앞장서겠다는 방침을 지키기 위하+ㄴ 행보”라고 설명하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O

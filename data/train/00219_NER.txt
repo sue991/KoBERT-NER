@@ -11,5 +11,5 @@
 블라디보스토크는 옛 모습 그대로+이어서 소멸 하+여가던 대한제국의 그림자도 지우어지지 않았다 .	LOC-B O O O O O ORG-B O O O O
 또한, 영에게 업히 +ㄴ 채 그의 어깨를 조심스레 감싸 +아쥐+ㄴ 라온은 더 이상 세자와 내시가 아니+ㄴ, 정인으로서 많은 이야기를 펼치+ㄹ 두 사람의 로맨스에 기대를 더하고 있다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O
 관계자는 “오늘(20일) 밤, 사내와 여인으로서 마주하게 되+ㄴ영과 라온은 궐안의 수많은 눈과 귀를 피하+여비밀스럽ㄴ 데이트를 시작하+ㄴ다 .	O O O O O O O PER-B O O O O O O O O
-지난주 ‘보호주의의 칼(sw ordofprotectionism)’이 세계 경제를 흔들 +ㄴ다며 미국을 비판하+ㄴ 크리스틴 라가르드 국제통화기금(IMF) 총재의 발언을 겨냥하+ㄴ 것이다 .	O O O O O O O O ORG-B O PER-B O ORG-B O O O O O
+지난주 ‘보호주의의 칼(sw ordofprotectionism)’이 세계 경제를 흔들 +ㄴ다며 미국을 비판하+ㄴ 크리스틴 라가르드 국제통화기금(IMF) 총재의 발언을 겨냥하+ㄴ 것이다 .	O O O O O O O O ORG-B O PER-B PER-I ORG-B O O O O O
 지난해 업무보고에서 한 부총리가 밝히+ㄴ 대북정책 추진의 기조는 「민족복리 우선 」과 「 북한의 고립­ 봉쇄반대 」+이었다 .	O O O O O O O O O O O O ORG-B O O O O

@@ -1,4 +1,4 @@
-통산0.311,566홈런, 1715타점을 기록 중 이+ㄴ LA에 인절스의 1루수 앨버트 푸홀스는 1999년 13라운드 402번으로 세인트루이스 카디널스에 뽑히 었다 .	O O O O O ORG-B O O PER-B O O O O ORG-B O O O O
+통산0.311,566홈런, 1715타점을 기록 중 이+ㄴ LA에 인절스의 1루수 앨버트 푸홀스는 1999년 13라운드 402번으로 세인트루이스 카디널스에 뽑히 었다 .	O O O O O ORG-B O O PER-B PER-I O O O ORG-B ORG-I O O O
 MBC 스포츠플러스 메이저리그 해설위 .	O O ORG-B O O
 카오디오 관련 제품을 생산 수출하는 대성엘텍은 중국·일본·유럽 등 16개국에 수출하는 대성엘텍의 김용식 전무는 “고객 다변화를 하+여야 하는데 해외에 거점을 갖고 마케팅을 하기가 쉽지 않다”며 “정부가 해외 네트워크를 가지+ㄴ에 이전트와 시장 등과의 네트워크를 구축하+여주면 도움이 되+ㄹ 것”이라고 말하였다 .	O O O O O ORG-B LOC-B O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
 사업차 중국 베이징에 머물고 있는 자오씨는 “믿기지 않는다 .	O LOC-B LOC-B O O PER-B O O O
@@ -9,4 +9,4 @@ MBC 스포츠플러스 메이저리그 해설위 .	O O ORG-B O O
 김연아 무풍쏭은 바람 없이도 실내를 쾌적하고 시원하게 만들어주는 무풍에어컨 Q9500의 혁신가치를 효과적으로 전하기 위하+여뮤직비디오 콘셉트로 제작되+ㄴ 영상이다 .	PER-B O O O O O O O O O O O O O O O O O
 BMW와 미니의 경우 총 72개 항목의 정밀점검을 통과하+ㄴ 차량만 매물로 내놓고 관련 정비 이력도 제공 하+ㄴ다 .	ORG-B ORG-B O O O O O O O O O O O O O O O
 중등도 및 중증 주사 환자를 대상으로 52주 넘게 1일 1회 도포되는 미르바소의 장기안전성을 평가하+ㄴ 결과, 안면홍반의 효능 측정 수치 이+ㄴ CEA(ClinicianErythemaAssessment) 및 PAS(PatientSelf-Assessment)가 유의하게 개선되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-이날 간담회에 참석하+ㄴ조소연 서울 보라매병원 피부과 교수는 “기존 파록세틴 성분의 경구제 등 치료약제가 있지만 항우울 제 성분이라는 점등 한계가 존재하였다”며 “반면 브리모니딘은 레이저 시술과 병용하거나 시술 전요법으로 기대되는 약제”라고 설명하였다 .	O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 간담회에 참석하+ㄴ조소연 서울 보라매병원 피부과 교수는 “기존 파록세틴 성분의 경구제 등 치료약제가 있지만 항우울 제 성분이라는 점등 한계가 존재하였다”며 “반면 브리모니딘은 레이저 시술과 병용하거나 시술 전요법으로 기대되는 약제”라고 설명하였다 .	O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O

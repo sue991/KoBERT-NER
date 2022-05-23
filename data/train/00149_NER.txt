@@ -1,6 +1,6 @@
-최희섭은 20일 “지난주 KIA 구단과 얘기가 +었다 .	PER-B O O ORG-B O O O O
+최희섭은 20일 “지난주 KIA 구단과 얘기가 +었다 .	PER-B O O ORG-B ORG-I O O O
 안재욱 ♥ 최현주, 5월 결혼… 네티즌 반응이 .	PER-B O PER-B O O O O O
-김호섭 경북도 창조경제과학과장은 “사업이 본궤도에 오르면 10여년간 1조9000억원의 재난 피해 감소와 5100억원의 시장 창출 효과를 내+ㄹ 것으로 분석되었다”고 말하였다 .	PER-B ORG-B O O O O MNY-B MNY-B O O O MNY-B O O O O O O O O
+김호섭 경북도 창조경제과학과장은 “사업이 본궤도에 오르면 10여년간 1조9000억원의 재난 피해 감소와 5100억원의 시장 창출 효과를 내+ㄹ 것으로 분석되었다”고 말하였다 .	PER-B ORG-B MNY-I O O O MNY-B MNY-B O O O MNY-B O O O O O O O O
 ‘대통령 방미 연기’ 박근혜 대통령이 방미 일정을 연기하였다 .	O O O PER-B O O O O O
 송일국, 아내 정승연 판사에 백허그++입맞춤… ‘여전히 신혼 .	PER-B O PER-B O O O O O
 1라운드에서 3오버파(75타)를 치며 공동 81위에 그치면서 컷 통과가 불안하었다 .	O O O O O O O O O O

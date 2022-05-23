@@ -10,5 +10,5 @@
 신임 사외이사는 한승수 전 국무총리, 윤증현 전 기획재정부 장관, 박병원 전 대통령 경제수석비서관, 김대기 전 대통령실 정책실장으로 모두 고위 관료 출신이다 .	O O PER-B O O PER-B O ORG-B O PER-B O O O PER-B O O O O O O O O
 이대호 홈런, 11호 홈런… '빅보이'가 완벽하게 돌아오았 .	PER-B O O O O O O O
 이에 ‘라디오 스타’ MC들은 “초능력을 보이어 달라”고 요구하였다 .	O O O O O O O O O
-특히 중남미 핵심 좌파 국가 이+ㄴ 볼리비아의 다비드 초께 우앙까쎄스뻬 데스 외교장관과 만나 +아 북핵 문제 해결을 위하 +ㄴ 지지를 당부하였다 .	O LOC-B O O O O ORG-B PER-B O O O O O O O O O O O O O O
+특히 중남미 핵심 좌파 국가 이+ㄴ 볼리비아의 다비드 초께 우앙까쎄스뻬 데스 외교장관과 만나 +아 북핵 문제 해결을 위하 +ㄴ 지지를 당부하였다 .	O LOC-B O O O O ORG-B PER-B PER-I PER-I O O O O O O O O O O O O
 [간추리+ㄴ뉴스/단신]본 도시락, 모바일 상품권 50% 할 .	O O O O O O O

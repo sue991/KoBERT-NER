@@ -1,6 +1,6 @@
-전원책 변호사가 미국 공화당 대선 후보+이었던 도널드 트럼프가 대선에서 승리 하+ㄴ다는 미리 점치며 ‘전 스트라 다 무스’로 등극하였다 .	PER-B O ORG-B O O O PER-B O O O O O O PER-B O O O O O
+전원책 변호사가 미국 공화당 대선 후보+이었던 도널드 트럼프가 대선에서 승리 하+ㄴ다는 미리 점치며 ‘전 스트라 다 무스’로 등극하였다 .	PER-B O ORG-B ORG-I O O PER-B PER-I O O O O O PER-B O O O O O
 4500여 업체에 5만여명이 일하고 있다 .	O O O O O O
-국내에서 +ㄴ 2012년 3월 출범 하+ㄴ한국국토정보공사 공간정보연구원에서 수십 건의 공간정보산업 프로젝트를 진행하고 있다 .	O O O O O ORG-B O O O O O O O O
+국내에서 +ㄴ 2012년 3월 출범 하+ㄴ한국국토정보공사 공간정보연구원에서 수십 건의 공간정보산업 프로젝트를 진행하고 있다 .	O O O O O ORG-B ORG-I O O O O O O O
 이들은 또 공정위가 지난해 5월 일감 몰아주기 관련 조사를 벌이자 6개월 뒤 이+ㄴ 11월 주식 전량을 대한항공에 팔면서 49억원의 매매차익도 +았다 .	O O ORG-B O O O O O O O O O O O O O ORG-B O MNY-B O O O
 시진핑(習近平) 중국 국가주석이 지난해 9월 미국을 국빈 방문 하+ㄹ 때, 또 한 달 후 영국을 찾을 때 중국의 정보기술(IT) 업계 총수 대부분이 동행하었는데 유독 레이쥔만 빠지었다 .	PER-B ORG-B O O O ORG-B O O O O O O O O ORG-B O O ORG-B O O O O O O PER-B O O
 일본=‘맥아더 라인이란 무엇이 +ㄴ가. .	ORG-B O O O O

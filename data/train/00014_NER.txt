@@ -1,6 +1,6 @@
 지난해 ‘라디오 스타’에 출연하였을 당시에는 MC 김구라가 ‘공부 기술’이 50만부 팔리+ㄴ 것을 언급하며, “만권 이상만 되+어도 베스트셀러+이다 .	O O O O O O PER-B O O O O O O O O O O O
 2공장은 오전 11시부터 공장 내부에 발목까지 물이 차오르면서 이날 오후 10시 현재까지 생산이 중단되었다 .	O O O O O O O O O O O O O O O
-산부인과의 사회 “송민호 사과 접수”… 여성 비하랩 논란, 바비 우승 부담 .	ORG-B O PER-B O O O O O PER-B O O O
+산부인과의 사회 “송민호 사과 접수”… 여성 비하랩 논란, 바비 우승 부담 .	ORG-B ORG-I PER-B O O O O O PER-B O O O
 글이 올라오면 김씨도 댓글을 달+ㄴ다 .	O O PER-B O O O
 20년간 눈에 띄는 성과도 있었다 .	O O O O O O
 이에 이씨는 “이미 준 1억원을 돌리+어달라.” +이라며 소송을 제기하였다 .	PER-B PER-B PER-B O MNY-B O PER-B O O O
@@ -9,4 +9,4 @@
 “(손)민한이가 그동안 기대 이상으로 잘 하+여+ 주었다 .	PER-B O O O O O O O
 이렇게 막강 하+ㄴ 권한을 가지+ㄴ '미국 대통령' 자리에 트럼프가 당선되었다는 소식이 알려지면서 온라인상에는 패러디물이 봇물을 이루고 있다 .	O O O O O ORG-B O O PER-B O O O O O O O O O
 [대구/경북]대구 수성구 ‘고산도서관’ 30일 개 .	LOC-B LOC-B ORG-B O O O
-삼성카드 스테이지 ‘에센스’, 2월 18일 이화여대 삼성홀서 공 .	ORG-B O O O O LOC-B O O O
+삼성카드 스테이지 ‘에센스’, 2월 18일 이화여대 삼성홀서 공 .	LOC-I O O O O LOC-B LOC-I O O

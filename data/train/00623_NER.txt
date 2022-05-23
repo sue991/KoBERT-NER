@@ -7,5 +7,5 @@
 ‘너를 기억하+여’ 서인국, 기억되찾으며 쓰러지+어…살인 암시 .	O O PER-B O O O O
 열병식이 있을 무렵 한국에서는 애국가를 만들 +ㄴ 안익태의 친일 논란이 또 일었다 .	O O O LOC-B O O O PER-B O O O O O
 이를 주도 하+ㄴ양동근은 “그런 것도 올스타전에서 보+ㄹ 수 있는 재미가 아니겠는가” +이라며 웃었다 .	O O PER-B O O O O O O O O O O O
-남성 보컬그룹 V.O. S도 원년 멤버의 재결성을 준비 중이다 .	O O ORG-B O O O O O O O
-현재 한 ­ 중 중형 항공기 개발사업에 참여 의사를 밝히+ㄴ 서방업체는 미국의 보잉과 맥도널드 더글러스(MD), 프랑스의 에어로스 페시알, 독일의 다사, 영국의 BAE사 등 5개 업체로 실사팀은 이들로부터 합작의향서를 받아 검토 하+ㄹ 계획이다 .	O ORG-B O O O O O O O O O ORG-B ORG-B ORG-B O ORG-B ORG-B O ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O
+남성 보컬그룹 V.O. S도 원년 멤버의 재결성을 준비 중이다 .	O O ORG-B ORG-I O O O O O O
+현재 한 ­ 중 중형 항공기 개발사업에 참여 의사를 밝히+ㄴ 서방업체는 미국의 보잉과 맥도널드 더글러스(MD), 프랑스의 에어로스 페시알, 독일의 다사, 영국의 BAE사 등 5개 업체로 실사팀은 이들로부터 합작의향서를 받아 검토 하+ㄹ 계획이다 .	O ORG-B ORG-I ORG-I ORG-I O O O O O O ORG-B ORG-B ORG-B ORG-I ORG-B ORG-B ORG-I ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O

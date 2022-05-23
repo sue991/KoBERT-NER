@@ -1,6 +1,6 @@
-김광열 베세토 국제학교 이사 .	PER-B ORG-B O O O
-박근혜 대통령은 미국을 방문하+ㄴ 16일로이드 넬슨 핸드전 미 국무부의 전장(86)에게서 50년 전 박 전 대통령 부부의 방미 사진이 담기 +ㄴ 사진첩을 선물 받았다 .	PER-B O ORG-B O PER-B O O ORG-B O O O O PER-B O O O ORG-B O O O O O O O
-대한근대 5종연맹은 정진화를 포함하+여올림픽 출전 자격을 얻은 남자 선수 4명 가운데 최종 출전자 2명을 가리+ㄹ 계획이다 .	ORG-B O PER-B O O O O O O O O O O O O O O
+김광열 베세토 국제학교 이사 .	PER-B ORG-B ORG-I O O
+박근혜 대통령은 미국을 방문하+ㄴ 16일로이드 넬슨 핸드전 미 국무부의 전장(86)에게서 50년 전 박 전 대통령 부부의 방미 사진이 담기 +ㄴ 사진첩을 선물 받았다 .	PER-B O ORG-B O PER-B PER-I PER-I ORG-B O O O O PER-B O O O ORG-B O O O O O O O
+대한근대 5종연맹은 정진화를 포함하+여올림픽 출전 자격을 얻은 남자 선수 4명 가운데 최종 출전자 2명을 가리+ㄹ 계획이다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O
 한편, 방탄소년단은 29일 0시 세 번째 미니앨범 ‘화양연화pt.1’을 발매하+ㄹ 예정이다 .	O ORG-B O O O O O O O O O
 지나+ㄴ 11일 민주당 우상호 원내대표는 “야권이 분열하면 (대선에서) 지+ㄴ다”며 야권 통합카드를 꺼내+었다 .	O O ORG-B PER-B O O O O O O O O O
 [라이프 트렌드] 강원도 폐광지역 청소년 꿈 키우 .	O O LOC-B O O O O O

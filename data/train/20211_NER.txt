@@ -3,7 +3,7 @@
 여기에 ‘북한 리스크’도 무시하+ㄹ 수 없는 위협 요인 중 하나+이다 .	O ORG-B O O O O O O O O O
 2009년 7월 디도스 공격, 2013년 3월 방송국, 은행 전산망 공격 등 과거 북한은 핵실험과 한두 달의 시차를 두고 사이버 공격을 가하+여+았다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O
 이날 무대에는 MC몽과 수란이 한국 대표가수로 나서 +었다 .	O O PER-B O ORG-B O O O O
-5580만 유로(약 715억원)의 몸값으로 7월 입단 하+ㄴ헐크(브라질)와 중국 국가대표 우레이를 앞세우+ㄴ 상대의 화력은 매섭다 .	MNY-B O MNY-B O O O ORG-B ORG-B O PER-B O O O O O
+5580만 유로(약 715억원)의 몸값으로 7월 입단 하+ㄴ헐크(브라질)와 중국 국가대표 우레이를 앞세우+ㄴ 상대의 화력은 매섭다 .	MNY-B MNY-I MNY-B O O O ORG-B ORG-B O PER-B O O O O O
 마침 박정우 감독은 ‘모던파머’를 챙기+어보다 .	O PER-B O O O O
 런던 동메달 넘어 결 승 진출 목표… 첫 경기피지가 가장 까다롭 ㄴ상대 .	ORG-B O O O O O O O ORG-B O O O O
 1사후 마르테에게 2루타를 허용하였지만, 이후 내+어야 뜬 공과 삼진으로 아웃 카운트를 채우었다 .	O O O O O O O O O O O O O

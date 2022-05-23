@@ -1,4 +1,4 @@
-문희경은숙대 불문과 84학번으로 1987년 강변가요제에서 대상을 수상하며 가수의 꿈을 키우었다 .	ORG-B O O O O O O O O O O
+문희경은숙대 불문과 84학번으로 1987년 강변가요제에서 대상을 수상하며 가수의 꿈을 키우었다 .	ORG-B ORG-I O O O O O O O O O
 각계각층에서 식재료를 보내 오+ㄴ 덕분에 이날 노인 60여명에게 제공하고도 남을 만큼 넉넉하+ㄴ양의 음식이 만들어 지+었다 .	O O O O O O O O O O O O O O O O
 밥 보처스(BobBorchers) 돌비 최고 마케팅 책임자 겸 수석부사장은 애플, 나이키, 노키아 같은 글로벌 기업에서 경력을 쌓고 2014년 돌비에 합류하+ㄴ돌비의 2인자 +이다 .	PER-B PER-B ORG-B O O O O O ORG-B ORG-B ORG-B O O O O O O ORG-B ORG-B O O O
 최 민정, ISU 월드컵 여자 쇼트트랙 3관왕 쇼트트랙 최민정(서현고)이 9일 캐나다 토론토에서 열리+ㄴ 2015∼2016 시즌 국제빙상연맹(ISU) 월드컵 2차 대회 여자 500m2차 레이스 결승에서 42초 998로 마리안 생겔라(캐나다·42초999)를 1000분의 1초 차이로 따돌리고 우승하였다 .	O O ORG-B O O O O O ORG-B O LOC-B LOC-B O O O ORG-B O O O O O O O O O PER-B LOC-B O O O O O O
@@ -9,7 +9,7 @@
 또는 사우디보다 낮다 .	O ORG-B O O
 ‘화성 총기 사고’ 경찰관 포함 4명 사망…범인 자동차에서 유서 발 .	LOC-B O O O O O O O O O O
 앞서 EU는 북한이 6월과 7월 미사일을 발사하자 즉각 성명을 내고 북한의 미사일 발사 중지를 촉구하였다 .	O ORG-B ORG-B O O O O O O O ORG-B O O O O O
-한편 미국과 일본은 북한의 미사일 발사와 관련, 유엔 안보리 긴급회의 소집을 요구하+ㄹ 계획이다 .	O ORG-B ORG-B ORG-B O O O ORG-B O O O O O O
+한편 미국과 일본은 북한의 미사일 발사와 관련, 유엔 안보리 긴급회의 소집을 요구하+ㄹ 계획이다 .	O ORG-B ORG-B ORG-B O O O ORG-B ORG-I O O O O O
 지난달 1~11일 유엔 기후변화협약(UNFCCC)의 부속기구(SBI) 회의가 열리+ㄴ 독일보+ㄴ국제컨퍼런스센터.가 장크+ㄴ 회의장이+ㄴ 뉴욕홀에서는 선진국들이 2년마 .	O O ORG-B ORG-B ORG-B O O LOC-B O O O O O O
 중국이 진행하는 인공섬 조성과 시설 설치는 맞지 않는다는 것이다 .	ORG-B O O O O O O O O O
 일본이 1994년 ‘에인 절플랜’을 시작으로 보육지원, 일·육아 양립 정책, 의식개혁 운동까지 온갖 대책을 쏟아내고도 작년 사상 최소 신생아 출생률(1.4명)을 기록하+ㄴ 것+ㄴ남의 일 같지 않게 섬뜩하다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O

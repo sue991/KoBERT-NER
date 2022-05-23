@@ -1,5 +1,5 @@
 마지막 7km를 남기+ㄴ 지점이 승부처가 되+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O
-KT도 오전 9시 예약판매를 시작하+ㄴ지 15분이 채 되지 않아 5만대 사전예약이 끝나 +았다 .	ORG-B TIM-B O O O O O O O O O O O O
+KT도 오전 9시 예약판매를 시작하+ㄴ지 15분이 채 되지 않아 5만대 사전예약이 끝나 +았다 .	ORG-B TIM-B TIM-I O O O O O O O O O O O
 ‘인공지능의 미래’의 저자 이+ㄴ캐플런 교수는 한국이 4차 산업혁명 선도 국가로 도약하기 위하+ㄴ 전략을 제시하+ㄴ다 .	O O O PER-B O ORG-B O O O O O O O O O
 야간에 이동 하+ㄴ 뒤 발사하면 천하무적 의 미국 항공모함 전단도 불시에 기습 공격을 받을 수 있다 .	O O O O O O O ORG-B O O O O O O O O O
 벌칸 API의 경우 안드로이드 기기가 성능이 우수하+ㅁ에도 3D 게임 등에서 조금은 아쉽 ㄴ모습을 보이어 주+ㄴ 것을 대폭 개선 하+ㄹ 수 있는 기술이 +ㄴ 만큼 콘솔급의 게임을 모바일 기기에서 즐기는 시대의 막을 열어 주+ㄹ 기술로 기대를 모으고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

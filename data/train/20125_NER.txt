@@ -1,9 +1,9 @@
 ‘비스타워커힐 서울’ 재개장 기념행사가 13일 서울 광진구 호텔 장진영기 .	ORG-B LOC-B O O O LOC-B LOC-B O PER-B O
 말레이시아는 북한이 해외 위장업체를 설립하는 데 최적의 요건을 갖고 있다 .	ORG-B ORG-B O O O O O O O O O
-LG화학은 비슷하+ㄴ 시기 충북 오창공장에도 60억원을 들이어 6.7MW 규모의 ESS 설비를 놓았다 .	ORG-B O O LOC-B O MNY-B O O O O O O O
+LG화학은 비슷하+ㄴ 시기 충북 오창공장에도 60억원을 들이어 6.7MW 규모의 ESS 설비를 놓았다 .	ORG-B O O LOC-B LOC-I MNY-B O O O O O O O
 자바시장의 도매업자 70%가 한국 출신이었기에 그들의 도움을 받으면서도 매시장에 뛰어들 +ㄹ 수 있었다고 +였다 .	O O O ORG-B O O O O O O O O O O O
 김온아는 지난해 말 받은 발목 수술로 리그 초반에는 코트에 나서지 못하+ㄴ다 .	PER-B O O O O O O O O O O O
-99년 로봇수술 기 개발업체인 튜이티브서지컬 이 미국 스탠퍼드대와 매사추세츠공과대(MIT), 미국 항공우주국(NASA)의 관련 기술을 이전받아 ‘다빈치’ 로봇 수술기를 출시하였다 .	O O O O O O ORG-B O ORG-B ORG-B ORG-B O O O O O O O O
+99년 로봇수술 기 개발업체인 튜이티브서지컬 이 미국 스탠퍼드대와 매사추세츠공과대(MIT), 미국 항공우주국(NASA)의 관련 기술을 이전받아 ‘다빈치’ 로봇 수술기를 출시하였다 .	O O O O O O ORG-B ORG-I ORG-B ORG-B ORG-B O O O O O O O O
 워싱턴포스트(WP)는 트럼프가 빠르면 18일 키신저를 면담하+ㄹ 것이라고 트럼프의 측근들의 말을 인용하+여 16일 보도하였다 .	ORG-B PER-B O O PER-B O O PER-B O O O O O O
 박해진은 오는 4월 21일에 첫 방송되는 JTBC 금토 드라마 ‘맨투맨(MANx MAN)’의 주연 김설우로 활약하+ㄴ다 .	PER-B O O O O O O O O O O O PER-B O O
 이들은 ‘20대 여자 연기자 기근 현상’을 해결하는 동시에 안방극장의 새롭ㄴ 중심축이 되+ㄹ 전망이라 방송가에서도 주목하고 있다 .	O O O O O O O O O O O O O O O O O

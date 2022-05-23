@@ -7,4 +7,4 @@
 D 경사는 “스마트폰으로 찍으면 직접 화면을 보고 촬영하+ㄹ 수 있고 필요 없으면 자유롭게 편집·삭제도+였다 .	PER-B O O O O O O O O O O O O O O
 코스피·코스닥은 물론, 세계 주가가 폭락하였습니다 .	ORG-B O O O O O
 이집트 콥트교회 2곳서 IS 소행 연쇄 폭탄 테러 … 최소 45명 사망 140여명 다치+ .	LOC-B LOC-B O ORG-B O O O O O O O O O O O
-이 영화의 주제는 해리가 에그 시에게 신사의 수칙을 가르치는 멘토링 과정에 담기 +어 있다 .	O O O PER-B PER-B O O O O O O O O O O
+이 영화의 주제는 해리가 에그 시에게 신사의 수칙을 가르치는 멘토링 과정에 담기 +어 있다 .	O O O PER-B PER-B PER-I O O O O O O O O O

@@ -1,15 +1,15 @@
 최순화 소비자학을 공부하였다 .	PER-B O O O
 리버풀은 이날 패배로 지난해 12월에 있었던 맨유전 패배(0대 3) 이후 13경기 연속 무패행진을 끝마치었다 .	ORG-B O O O O O ORG-B O O O O O O O O
 ‘제라드 퇴장 리버풀 맨유’ 소식을 접하+ㄴ네티즌들은 “제라드 퇴장 리버풀맨유, 제라드 아쉽다” .	PER-B O ORG-B ORG-B O O PER-B O ORG-B PER-B O O
-힐러리 클린턴 전 국무장관, 버니 샌더스 상원의원, 도널드 트럼프 같은 미국 유력 대선주자들이 모두 한목소리로 TPP에 대하+ㄴ 반대 의사를 표하고 있어서 +이다 .	PER-B O O O PER-B O O PER-B O O ORG-B O O O O O O O O O O O O
+힐러리 클린턴 전 국무장관, 버니 샌더스 상원의원, 도널드 트럼프 같은 미국 유력 대선주자들이 모두 한목소리로 TPP에 대하+ㄴ 반대 의사를 표하고 있어서 +이다 .	PER-B PER-I O O PER-B PER-I O PER-B PER-I O ORG-B O O O O O O O O O O O O
 [문화가] 대구 봄 그리고 차의 하모니 .	O LOC-B O O O O O
 우편창구로 쓰던 공간 가운데 224m ²(약 68평)를 떼어내+어 민간사업자에게 임대하+ㄴ 것. 하루 평균 500여명이 이용하는 이 커피숍에서 우체국이 얻는 임대수입은 연간 5억2800만원이다 .	O O O O O O O O O O O O O MNY-B O O O O O O O MNY-B O
 SK·SK텔레콤·SK플래닛은 자기 업무 특성에 맞게 추+ㄹ·퇴근 시간을 자율적으로 조정하는 제도를 시행 중이다 .	ORG-B O O O O O O O O O O O O
-JYJ 소속 사씨제스엔터테인먼트가 패션 모델에이전시 ‘씨제스 모델 에디션’을 설립하였다 .	ORG-B O ORG-B O O ORG-B O O O O
+JYJ 소속 사씨제스엔터테인먼트가 패션 모델에이전시 ‘씨제스 모델 에디션’을 설립하였다 .	ORG-B O ORG-B O O ORG-B ORG-I ORG-I O O
 또한 서언이 와서 준이는 카메라를 향하+여 달려가 +아브이를 그리며 깜찍 하+ㄴ 장난을 +었다 .	O PER-B O O O O O O O O O O O O
 그렇 +ㅁ에도 국회가 압도적 찬성(91.5%)으로 법안을 통과시키+ㄴ 것+ㄴ표를 의식 하+ 여 입법 역할을 포기하고 그 책임을 헌재로 미루었다는 의미+이다 .	O O O O O O O O O O O O O O O O O O O O
 “모아니면도 ”이+ㄴ 성격의 정석원은 “위도 아니고, 아래도 아니+ㄴ. 중간을 유지하는 것+이 가장 어렵었다”고 털어놓았다 .	O O O PER-B O O O O O O O O O O O
 이상헌 은행연합회 경영지원부장은 “금융공기업과 마찬가지로 민간은행도 내년부터 성과연봉제를 적용하자는 것+이 사용자협의회의 계획”이라고 설명하였다 .	PER-B ORG-B O O O ORG-B O O O O O O O O
 은행연합회는 7월 22일 같은 직급끼리도 성과에 따르 아연봉이 최대 40% 차이나게 하는 ‘성과연봉제가이드라인’을 발표하였다 .	ORG-B O O O O O O O O O O O O O O
 이규남 위생과장은 “선제적 대응 차원에서 바이러스 퇴치에 효과가 있는 약품을 확진 환자가 발생하+ㄴ 동네와 인근에 매일 뿌리고 있다 .	PER-B O O O O O O O O O O O O O O O O O O
-〈내장산 관광호텔 .	ORG-B O O
+〈내장산 관광호텔 .	ORG-B ORG-I O

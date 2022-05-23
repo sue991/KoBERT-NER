@@ -1,11 +1,11 @@
-‘태티서’ 멤버서현, 붉은 롱드레스 입고 ‘쭉 뻗은 각선미’ 자랑… ‘고혹적’ 매 .	ORG-B PER-B O O O O O O O O O O
-마이크 매시니 세인트루이스 감독은 지나 +ㄴ 23일 애리조나 다이아몬드백스전을 앞두고 "마무리 투수 트레버 로젠탈에게 휴식을 주+ㄹ 것이다 .	PER-B O O O O O O O O O O O PER-B O O O O O
+‘태티서’ 멤버서현, 붉은 롱드레스 입고 ‘쭉 뻗은 각선미’ 자랑… ‘고혹적’ 매 .	ORG-B ORG-I O O O O O O O O O O
+마이크 매시니 세인트루이스 감독은 지나 +ㄴ 23일 애리조나 다이아몬드백스전을 앞두고 "마무리 투수 트레버 로젠탈에게 휴식을 주+ㄹ 것이다 .	PER-B PER-I PER-I O O O O O O O O O PER-B PER-I O O O O
 경주환경운동연합은 빠르+ㄴ시일 내에 대응 방안을 마련하+여강경 투쟁을 잇어가+ㄹ 방침이라고 27일 밝히었다 .	ORG-B O O O O O O O O O O O
-지난해 2월 사망 하+ㄴ 앤터닌 스캘리아 대법관 후임으로 지명되+ㄴ고서치가 대법관이 되면 대법원의 이념 지형은 보수 5대 진보 4로 트럼프에게 유리하게 형성되 +ㄴ다 .	O O O O PER-B O O O PER-B O O O O O O O O O PER-B O O O O
-사우디는 이란 무슬림의 메카와 메디나 성지순례는 허용하기로 +였다 .	ORG-B ORG-B O LOC-B LOC-B O O O O
+지난해 2월 사망 하+ㄴ 앤터닌 스캘리아 대법관 후임으로 지명되+ㄴ고서치가 대법관이 되면 대법원의 이념 지형은 보수 5대 진보 4로 트럼프에게 유리하게 형성되 +ㄴ다 .	O O O O PER-B PER-I O O PER-B O O O O O O O O O PER-B O O O O
+사우디는 이란 무슬림의 메카와 메디나 성지순례는 허용하기로 +였다 .	ORG-B ORG-B ORG-I LOC-B LOC-B O O O O
 삼성전자, 2014년 3조4000억 납세 ‘역대 최대 .	ORG-B O MNY-B O O O O
-마거릿 채+ㄴ 세계보건기구(WHO) 사무총장은 “음모론은 바이러스 확산을 막는데 전혀 도움이 되지 않는다”고 목소리를 높이었다 .	PER-B O ORG-B O O O O O O O O O O O O
-KBS 미디어가 내놓은 상품과 다르게 강모연을 연기하+ㄴ 송혜교와 유시진 역 송 중기의 캐리커처 등이 들어가 +ㄹ 부분이라 배우측과 초상권 사용과 관련 하+ㄴ 논의를 진행 중이다 .	ORG-B O O O O PER-B O PER-B PER-B O O O O O O O O O O O O O O O O O
+마거릿 채+ㄴ 세계보건기구(WHO) 사무총장은 “음모론은 바이러스 확산을 막는데 전혀 도움이 되지 않는다”고 목소리를 높이었다 .	PER-B PER-I ORG-B O O O O O O O O O O O O
+KBS 미디어가 내놓은 상품과 다르게 강모연을 연기하+ㄴ 송혜교와 유시진 역 송 중기의 캐리커처 등이 들어가 +ㄹ 부분이라 배우측과 초상권 사용과 관련 하+ㄴ 논의를 진행 중이다 .	ORG-B ORG-I O O O PER-B O PER-B PER-B O O O O O O O O O O O O O O O O O
 또 2018년 이후 정년을 65세로 늘리고, 노인 연령 기준을 65세에서 70세로 상향하는 방안도 추진되 +ㄴ다 .	O O O O O O O O O O O O O O O O
 차유람은 “딱 그렇게 하+여서 사귀게 되+ㄴ 것+ㄴ 아니다 .	PER-B O O O O O O O O
 ‘재벌 2세 열애설’ 남보라, “저+ㄴ 남친이 바람 피우어서 헤어지+어”과거 발언 다시 보니? ‘헉!’ 배우 남보라(27)가 재벌 2세와 열애설에 휩싸이+ㄴ 가운데, 과거 연애사가 재조명 받았다 .	O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O

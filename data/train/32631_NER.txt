@@ -1,10 +1,10 @@
 14일 SBS에 따르면 현지에서 20여명의 덴마크와 스웨덴 교민들이 촛불을 들고 시위에 나서 +었다 .	O ORG-B O O O LOC-B LOC-B O O O O O O O
-2006년 선호도 상위 20위 안에 외국어고는 대원외고, 명덕외고, 대일 외고 등 10곳이었지만 2016년에 +ㄴ 5곳으로 줄었다 .	O O O O O O ORG-B ORG-B ORG-B O O O O O O O O
+2006년 선호도 상위 20위 안에 외국어고는 대원외고, 명덕외고, 대일 외고 등 10곳이었지만 2016년에 +ㄴ 5곳으로 줄었다 .	O O O O O O ORG-B ORG-B ORG-B ORG-I O O O O O O O
 우리 정부도 지난해 제3차 저출산·고령사회 기본계획을 수립하+여저 출산정책 패러다임 전환에 나서고 있다 .	O O O O O O O O O O O O O
-이에 따르 아윤병세 외교부 장관은 IAEA 핵안보장관급 회의 의장을 맡아 핵안보 정상회의 후속 체제를 구축하는 중심 역할을 맡게 되+ㄴ다 .	O O PER-B ORG-B O ORG-B ORG-B O O O ORG-B O O O O O O O O O
+이에 따르 아윤병세 외교부 장관은 IAEA 핵안보장관급 회의 의장을 맡아 핵안보 정상회의 후속 체제를 구축하는 중심 역할을 맡게 되+ㄴ다 .	O O PER-B ORG-B ORG-I ORG-B ORG-B O O O ORG-B ORG-I O O O O O O O O
 양손에 하나씩 두 개의 올림픽 금메달리스트 반지를 끼고 있는 그는 평창에서 세 번째 반지를 받을 준비에 한창이다 .	O O O O O O O O O O LOC-B O O O O O O O
 시벨리우스 교향곡 전곡 연주… 김대진의 특별 하+ㄴ도 .	O O O O PER-B O O O
-솔직히 일본 J리그 교토 상가로가+ㄹ 때는 이런저런 것들을 배제하+ㄴ 채막연히 한국과 다르+ㄴ축구를 경험하자는 마음이 +었다 .	O ORG-B O O O O O O O O LOC-B O O O O O
+솔직히 일본 J리그 교토 상가로가+ㄹ 때는 이런저런 것들을 배제하+ㄴ 채막연히 한국과 다르+ㄴ축구를 경험하자는 마음이 +었다 .	O ORG-B ORG-I ORG-I ORG-I O O O O O LOC-B O O O O O
 이에 따르 아후임이선애 재판관 지명을 최대한 서두르+ㄴ 다하+ 여도 새 재판관이 기존 사건을 검토하는 데 상당하+ㄴ시일이 소요되 +ㄹ 수밖에 없어 문제가 해결되는 것은 아니라는 주장도 나 오+ㄴ다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
 아직 개표는 끝나지 않았지만 미국 유력지 뉴욕타임즈는 트럼프가 대통령이 되+ㄹ 확률이 90%+이라면서 당선을 확실시 +였다 .	O O O O LOC-B O ORG-B PER-B O O O O O O O O
 정상인의 경우 하루 30~100개의 모발이 빠지는데, 임신기에는 이보다 적은 양의 모발이 빠지고, 출산 후 산후 탈모시에는 100~200개의 모발이 빠지+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O

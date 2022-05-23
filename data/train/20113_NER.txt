@@ -1,4 +1,4 @@
-전세대 59m ², 84m ² 중소형 물량으로만 구성 ‘신동탄 SK뷰파크 2차’는 경기 화성시 기산동 57번지(기산2지구)에 지하 2층∼지상 24층, 아파트 14개 동 총 1196가구 규모로 조성되 +ㄴ다 .	O O O O O O O O LOC-B O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O
+전세대 59m ², 84m ² 중소형 물량으로만 구성 ‘신동탄 SK뷰파크 2차’는 경기 화성시 기산동 57번지(기산2지구)에 지하 2층∼지상 24층, 아파트 14개 동 총 1196가구 규모로 조성되 +ㄴ다 .	O O O O O O O O LOC-B LOC-I LOC-I LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O
 볼리비아에 도착하+ㄴ한국여행객이라면 ‘볼리비아는 여행경보 1단계(여행유의) 국가 이+ㅁ.황열병에 주의하며 귀국 후 고열, 두통 등 증상 때는 109로 신고하시+어요’ +이라는 안내 메시지를 받는 식이다 .	LOC-B LOC-B LOC-B O O O O O O O O O O O O ORG-B O O O O O O O
 전인지는 “부모님의 속을 썩이+ㄴ 적이 있었다”며 2년 전의 얘기를 들려주었다 .	PER-B O O O O O O O O O O
 실제 반 전 총장 주변에서 +ㄴ강 하+ㄴ 후회의 기류가 감지되 +ㄴ다 .	O PER-B O O O O O O O O O O

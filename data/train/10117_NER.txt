@@ -1,11 +1,11 @@
 Ingredients 생미역 ½컵, 달걀 1개, 물 4컵, 닭가슴살 1쪽, 대파 1대(10cm), 마늘 3쪽, 간장 1작은 술, 소금·녹말 물 약간씩 Howtomake 1 미역은 흐르는 물에 씻어 먹기 좋은 크기로 썰 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
 2달걀은 풀+ㄴ 뒤체에 내리+ㄴ다 .	O O O O O
-김준일 락앤락 회장(64·사진)이 아시아 국가들의 화합을 도모하기 위하+여 20억원을 출연하+ㄴ 재단법인 아시아 발전재단이 31일 발족하+ㄴ다 .	PER-B ORG-B O ORG-B O O O O MNY-B O O ORG-B O O O O
+김준일 락앤락 회장(64·사진)이 아시아 국가들의 화합을 도모하기 위하+여 20억원을 출연하+ㄴ 재단법인 아시아 발전재단이 31일 발족하+ㄴ다 .	PER-B ORG-B O ORG-B O O O O MNY-B O O ORG-B ORG-I O O O
 24일 한국자동차협회에 따르면 지나+ㄴ 1월3만302대가 판매되+ㄴ SUV는 매월 수요가 증가하였다 .	O ORG-B O O O O O O O O O
 그런데 윤건이 연세대를 나오았다고 하니까 정말이냐며 '어쩜그렇게 공부도 잘하고 잘 생기고 착하냐'라고 하더라"고 윤건을 향하+ㄴ장모님의 마음을 전하였다 .	O PER-B ORG-B O O O O O O O O O O PER-B O O O O
 상당 하+ㄴ거리를 매일 비행하기가 현재로서 +ㄴ쉽지 않다고 NYT는 지적하였다 .	O O O O O O O ORG-B O O
 화승실업­국제상사 수십년 사업방향 전환 “주목 .	ORG-B O O O O O
-이현희 교수는 『서금 2로 건물은 이동휘 이동녕 신규식 선생 등 임정 요인들이 1919년 4월 10일부터 이틀간 최초의 임시의정원회의를 열는 등 한달여 동안 국호정부조직법 제정 각료 선정 등 임정정부 수립 작업을 벌이+ㄴ장소로 대한민국 정부가 탄생하+ㄴ 역사적 장소 』+이라며 『이 건물에 대하+ㄴ 기록은 조선 민족운동 연감 등 곳곳에 나타나 +아있었으나 49년 이후 본래 명칭(김 신부로)이현주소로 바뀌는 바람에 그동안 일반에 알려지지 않았다』고 말하였다 .	PER-B O LOC-B O O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+이현희 교수는 『서금 2로 건물은 이동휘 이동녕 신규식 선생 등 임정 요인들이 1919년 4월 10일부터 이틀간 최초의 임시의정원회의를 열는 등 한달여 동안 국호정부조직법 제정 각료 선정 등 임정정부 수립 작업을 벌이+ㄴ장소로 대한민국 정부가 탄생하+ㄴ 역사적 장소 』+이라며 『이 건물에 대하+ㄴ 기록은 조선 민족운동 연감 등 곳곳에 나타나 +아있었으나 49년 이후 본래 명칭(김 신부로)이현주소로 바뀌는 바람에 그동안 일반에 알려지지 않았다』고 말하였다 .	PER-B O LOC-B LOC-I O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O
 이 수만, 양현석, 배용준 등 연예인 주식부자들의 주식자산 평가액이 절반가량 줄었다 .	O O PER-B PER-B O O O O O O O O
 고려대를 비롯하+여 순천향대·인제대백병원 등 전국 20여개 종합병원이 무수혈 수술을 도입하였다 .	ORG-B O ORG-B O O O O O O O O
 하루짜리 유쾌하+ㄴ 휴가+이었다 .	O O O O

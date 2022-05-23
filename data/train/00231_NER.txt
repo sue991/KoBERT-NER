@@ -2,7 +2,7 @@
 휴가는 7월보다 8월에 더 많이 떠나 +ㄴ 것으로 추산되었다 .	O O O O O O O O O O
 문재인 안철수 혁신안 수용문재인, ‘안철수 혁신안’ 수용, “실천하지 않는 혁신은 혁신이 아니다” 새정치민주연합 문재인 대표가 안철수 의원이 ‘10가지 혁신안’을 전면 수용, 당헌·당규에 반영하기로 +였다 .	PER-B PER-B O PER-B PER-B O O O O O O O ORG-B PER-B O PER-B O O O O O O O O O
 총 저수량 1951만t의 사연댐 평균 저수율은 지난해 19.1%, 올해 15.3%+이다 .	O O O O O O O O O O O
-■부천시립 꿈빛도서관은 다음달 14∼17일 오후 7시 부처 공자 소크라테스 예수를 주제로 하+ㄴ청소년 인문학 강좌 ‘인물톡(talk)-4대 성인의 초대’를 마련하 +ㄴ다 .	ORG-B O O O O O PER-B PER-B PER-B PER-B O O O O O O O O O O
+■부천시립 꿈빛도서관은 다음달 14∼17일 오후 7시 부처 공자 소크라테스 예수를 주제로 하+ㄴ청소년 인문학 강좌 ‘인물톡(talk)-4대 성인의 초대’를 마련하 +ㄴ다 .	ORG-B ORG-I O O O O PER-B PER-B PER-B PER-B O O O O O O O O O O
 LH는 올해에만 전국에서 행복주택 1만1268가구의 입주자를 모집하+ㄹ 계획이다 .	ORG-B O O O O O O O O
 그래서 지금 안성놀이패 33명 중 어름 사니는 여자가 맡습니다 .	O O LOC-B O O O O O O O
 100% 지리산 고로쇠수액된 장 집안에서 장녀 이+ㄴ 김 대표는 어리+ㄴ 시절 식당과 민박집을 하던 부모를 돕는 효녀+이었다 .	O LOC-B O O O O O PER-B O O O O O O O O O O

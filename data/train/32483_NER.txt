@@ -1,5 +1,5 @@
 안용준 결혼, 4년 교제 하+ㄴ 9살 연상의 베니와… ‘가수와 배우의 만남’ 배우 안용준과 가수 베니(배소민)의 결혼 소식이 전하여 +지+었다 .	PER-B O O O O O O PER-B O PER-B O PER-B PER-B O PER-B O O O O O
-안용준의 소속사 측은 26일 “안용준과 베니는 오는 9월 19일 라마다 서울 호텔에서 결혼식을 올리+ㄹ 예정”이라고 밝히었다 .	PER-B O O O PER-B PER-B O O O LOC-B O O O O O O O
+안용준의 소속사 측은 26일 “안용준과 베니는 오는 9월 19일 라마다 서울 호텔에서 결혼식을 올리+ㄹ 예정”이라고 밝히었다 .	PER-B O O O PER-B PER-B O O O LOC-B LOC-I LOC-I O O O O O
 이어 “두 사람의 행복하+ㄴ 앞날을 따뜻하게 축복하+여주시고, 앞으로도 안용준씨는 배우로서 더 좋은 작품으로 인사드리겠다”고 전하였다 .	O O O O O O O O PER-B O O O O O O O
 약 4년 정도 교제 하+ㄴ 것으로 알려지+ㄴ 안용준과 베니는 양가상견례를 마치 +ㄴ 것으로 알려지었다 .	O O O O O O O PER-B PER-B O O O O O O
 가수 베니는 1978년생으로 1987년에 태어나 +ㄴ 안용준보다 9살이 더 많은 것으로 알려지었다 .	O PER-B O O O O PER-B O O O O O O

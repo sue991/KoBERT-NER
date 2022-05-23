@@ -9,7 +9,7 @@
 전태풍은 계약기간 2년, 첫 해 보수 총액 5억4000만원(연봉 4억8600만원++인센티브 5400만원)에 KCC와 25일 자유계약 선수(FA) 계약을 체결하+ㄴ다 .	PER-B O O O O O O MNY-B MNY-B MNY-B ORG-B MNY-B O O O O O
 외교부가 공개하+ㄴ자료에 따르면 최근 5년간 한국인 워홀러가 연루되 +ㄴ 사건은 살인, 폭행, 사기, 교통사고를 포함하+여 모두 577건이다 .	ORG-B O O O O O PER-B O O O O O O O O O O O
 한국은 그동안 법­ 제도적 측면에서 유엔이 요구하는 남녀평등 수준을 이루+어내 +었으나, 「실질적 평등」에 이르지 못하였으며, 좀 더 적극적 이+ㄴ 여성정책이 앞으로의 과제+이라고 발표자들은 평가하고 있다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-올해로 5회째를 맞은 ‘여성 컨퍼런스’는 한국지엠 세르지오 호샤(SergioRoc ha) 사장 겸 CEO, 제임스 김(James Kim) 사장 겸 COO, 황지나 홍보 부문 부사장을 비롯하+ㄴ 임원진과 여성 직원 약 300여명이 참석 하+ㄴ 가운데 개최되었다 .	O O O O O ORG-B PER-B PER-B O O O O PER-B PER-B O O O O PER-B O O O O O O O O O O O O O O
+올해로 5회째를 맞은 ‘여성 컨퍼런스’는 한국지엠 세르지오 호샤(SergioRoc ha) 사장 겸 CEO, 제임스 김(James Kim) 사장 겸 COO, 황지나 홍보 부문 부사장을 비롯하+ㄴ 임원진과 여성 직원 약 300여명이 참석 하+ㄴ 가운데 개최되었다 .	O O O O O ORG-B PER-B PER-B O O O O PER-B PER-B PER-I O O O PER-B O O O O O O O O O O O O O O
 비리 연루 의혹 김정행 대한체육회장 … 2013년까지 6회 연속 유도 회장 역 .	O O O PER-B O O O O O O O O O
 아모레퍼시픽은 5월 가정의 달을 맞아 ‘타임 레스폰 스 스프링 익스클루시브 콜렉션’을 한정적으로 선보이었다 .	ORG-B O O O O O O O O O O O O O
 ‘타임레스폰 스 스프링 익스클루시브 콜렉션’은 안티에이징 케어를 위하+ㄴ 선물세트로 아모레퍼시픽의 베스트셀링 제품이 +ㄴ ‘타임레스폰 스 스킨 리뉴얼 젤크림’과 이번 콜렉션을 위하+여한정으로 선보이+ㄴ ‘인텐시브에이징-디파잉나이트 트리트먼트’ 2종으로 구성되었다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
