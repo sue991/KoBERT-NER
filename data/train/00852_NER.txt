@@ -1,18 +1,18 @@
-‘행복주택 임대료’ 신혼부부나 사회초년생, 대학생 등을 위하+ㄴ도심 속 공공임대주택이+ㄴ 행복주택의 임대료가 주변 시세의 60%~80% 수준으로 결정되+ㄹ 것으로 예상되었다 .	O O O O O O O O O O O O O O O O O O O
-북한 곳곳에 교통단속원들이 있지만 ‘216’(김정일 생일 이+ㄴ 2월16일 상징)으로 시작하는 당 고위 간부들의 차량은 단속 대상에서 제외되 +ㄴ다 .	ORG-B O O O PER-B O O O O O O O O O O O O O O
-주진우, 박지만 회장 수행비서 사망 소식에 "저는 자살하지 않습니다 .	PER-B PER-B O O O O O O O O
-“파리가겠다” 추가 연료 요구/불여객기 납치 현 .	LOC-B O O O O O O
-황만용 신흥에스이씨 사장(51)은 “최근 독자 개발 하+ㄴ 제품들이 해외 전시회 등에서 뜨겁ㄴ 반응을 얻었다”며 “중장기적으로는 전기자동차용 배터리 부품과 에너지 저장장치(ESS) 관련 부품산업에 진출하+여 ‘신에너지 시대’를 대비하+ㄹ 계획”이라고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-스파이서는 또 “내가 이곳에서 +ㄴ 첫날부터 계속 (러시아) 커넥션 따위는 없다고 말 하+여+오았다” +이라며 “어느 시점에 당신들도 (러시아) 공모가 없다는 사실을 받아들이어야 하+ㄹ 것”이라고 꼬집었다 .	PER-B O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O
-청와대 개각, 브리핑 통하+여 개각 명단 발 .	ORG-B O O O O O O O
-롯데호텔은 L7 브랜드를 비롯하+ㄴ 3개 호텔 브랜드로 해외지점을 확대하+ㄹ 방침이다 .	ORG-B ORG-B O O O O O O O O O
-그는 1945년 8월 9일 두 번째 원폭이 떨어지+ㄴ나가사키(長崎)에서 피폭되+ㄴ어머니에게서 1년 뒤 태어나 +ㄴ 원폭 피해 2세+이다 .	O O O O O O O LOC-B O O O O O O O O O
-문 위원장은 “당 대표 선거 탈락자를 포함하+여친노(친노무현)와 비노(비노무현) 진영에서 (새정치연합 소속 의원 130명중) 100명 정도는 현충원 행사에 참석하+여야 새 지도부에 힘이 실리+ㄴ다”고도 +였다 .	PER-B LOC-I O O O O PER-B PER-B O ORG-B O O O O O LOC-B O O O O O O O O
-메릭 갈런드 미국 워싱턴 연방항소법원장(63·사진)이 새 연방대법관 후보자로 지명되었다 .	PER-B PER-I LOC-B LOC-B O O O O O O
-선발되+ㄴ 학생은 등록금의 80%를 지원받는다 .	O O O O O O
-영화 ‘레버넌트: 죽음에서 돌아오+ㄴ자’(레버넌트)가 제73회 골든글로브 3관왕을 차지하였다 .	O O O O O O O O O
-11일(한국시간) 미국 로스앤젤레스 베벌리 힐스베벌리 힐튼 호텔에서 열리+ㄴ 골든글로브 시상식에서 ‘레버넌트’는 영화 드라마 부문 작품상과 남우주연상(리어나도 디캐프리오), 감독상(알레한드로 곤살레스이냐리투)을 받으며 3관왕에 오르았다 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O PER-B PER-I PER-B PER-I O O O O
-여우주연상은 영화 ‘룸’에서 열연하+ㄴ 브리라슨이 수상하였다 .	O O O O PER-B O O
-1991년 삼성전자 입사 이후 25년 만이다 .	O ORG-B O O O O O
-―다른 소송 상대가 누구+이었나.“골드만삭스, 씨티은행, UBS증권과도 법정에서 싸우었다 .	O O O ORG-B ORG-B ORG-B O O O
-우리가 추석 명절 밥상에 반기문(대망론)을 올려놓아 주지 않았나.” 16일(현지시간) 오후 미국 뉴욕 맨해튼의 주 뉴욕 총영사관 8층 회의실에서 +ㄴ방미 중 이+ㄴ 정 의장, 정진석 새누리당, 우상호 더불어민주당, 박지원 국민의당 원내대표가 뉴욕 특파원단과 오찬 간담회를 가지었다 .	O O O O PER-B O LOC-B O O O LOC-B LOC-I LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O PER-B O PER-B ORG-B PER-B LOC-B PER-B ORG-B O O O O O O O
+‘ 행복 주택 임대료 ’ 신혼부부 나 사회 초년생 , 대학생 등 을 위한 도심 속 공공 임대주택 인 행복 주택 의 임대료 가 주변 시세 의 60 % ~ 80 % 수준 으로 결정될 것 으로 예상 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 곳곳 에 교통 단속 원 들 이 있 지만 ‘ 216 ’ ( 김정일 생일 인 2 월 16 일 상징 ) 으로 시작하 는 당 고위 간부 들 의 차량 은 단속 대상 에서 제외된다 .	ORG-B O O O O O O O O O O O O O PER-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O
+주진우 , 박지만 회장 수행 비서 사망 소식 에 " 저 는 자살하 지 않 습니다 "	PER-B O PER-B O O O O O O O O O O O O O O
+“ 파리 가 겠 다 ” 추가 연료 요구 / 불 여객기 납치 현장	O LOC-B O O O O O O O O O O O O
+황만용 신흥 에스 이 씨 사장 ( 51 ) 은 “ 최근 독자 개발한 제품 들 이 해외 전시회 등 에서 뜨거 운 반응 을 얻 었 다 ” 며 “ 중 장기적 으로 는 전기 자동차 용 배터리 부품 과 에너지 저장 장치 ( ESS ) 관련 부품 산업 에 진출해 ‘ 신 에너지 시대 ’ 를 대비할 계획 ” 이라고 말 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스파이 서 는 또 “ 내 가 이 곳 에 선 첫날 부터 계속 ( 러시아 ) 커넥션 따위 는 없 다고 말해 왔 다 ” 라며 “ 어느 시점 에 당신 들 도 ( 러시아 ) 공모 가 없 다는 사실 을 받아들 여야 할 것 ” 이라고 꼬집 었 다 .	PER-B PER-I O O O O O O O O O DAT-B O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+청와대 개각 , 브리핑 통해 개각 명단 발표	ORG-B O O O O O O O
+롯데호텔 은 L 7 브랜드 를 비롯한 3 개 호텔 브랜드 로 해외 지점 을 확대할 방침 이 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O
+그 는 1945 년 8 월 9 일 두 번째 원폭 이 떨어진 나가사키 ( 長崎 ) 에서 피폭된 어머니 에게서 1 년 뒤 태어난 원폭 피해 2 세 다 .	O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O
+문 위원장 은 “ 당 대표 선거 탈락자 를 포함해 친 노 ( 친 노무현 ) 와 비 노 ( 비 노무현 ) 진영 에서 ( 새정치연합 소속 의원 130 명 중 ) 100 명 정도 는 현충 원 행사 에 참석해야 새 지도부 에 힘 이 실린다 ” 고 도 했 다 .	PER-B O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O ORG-B O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O
+메릭 갈런드 미국 워싱턴 연방 항소 법원 장 ( 63 · 사진 ) 이 새 연방 대법관 후보자 로 지명 됐 다 .	PER-B PER-I LOC-B LOC-B O O O O O O O O O O O O O O O O O O O
+선발된 학생 은 등록금 의 80 % 를 지원 받 는다 .	O O O O O O O O O O O O
+영화 ‘ 레버넌 트 : 죽음 에서 돌아온 자 ’ ( 레버넌 트 ) 가 제 73 회 골든글로브 3 관 왕 을 차지 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+11 일 ( 한국 시간 ) 미국 로스앤젤레스 베벌리힐스 베벌리 힐튼 호텔 에서 열린 골든 글로브 시상식 에서 ‘ 레버넌 트 ’ 는 영화 드라마 부문 작품 상 과 남우 주연 상 ( 리어나도 디캐프리오 ) , 감독 상 ( 알레한드로 곤살레스 이 냐 리투 ) 을 받 으며 3 관 왕 에 올 랐 다 .	DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O O
+여우 주연 상 은 영화 ‘ 룸 ’ 에서 열연한 브리 라슨 이 수상 했 다 .	O O O O O O O O O O PER-B PER-I O O O O O
+1991 년 삼성전자 입사 이후 25 년 만 이 다 .	DAT-B DAT-I ORG-B O O O O O O O O
+― 다른 소송 상대 가 누구 였 나 . “ 골드만삭스 , 씨티은행 , UBS 증권 과 도 법정 에서 싸 웠 다 .	O O O O O O O O O O ORG-B O ORG-B O ORG-B ORG-I O O O O O O O O
+우리 가 추석 명절 밥상 에 반기문 ( 대망 론 ) 을 올려놓 아 주 지 않 았 나 . ” 16 일 ( 현지 시간 ) 오후 미국 뉴욕 맨해튼 의 주 뉴욕 총영사관 8 층 회의실 에선 방 미 중 인 정 의장 , 정진석 새누리당 , 우상호 더불 어 민주당 , 박지원 국민 의당 원내 대표 가 뉴욕 특파원 단 과 오찬 간담회 를 가 졌 다 .	O O DAT-B O O O PER-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O LOC-B LOC-B LOC-B O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O PER-B O O PER-B ORG-B O PER-B ORG-B ORG-I ORG-I O PER-B ORG-B ORG-I O O O O O O O O O O O O O O

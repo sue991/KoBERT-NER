@@ -1,14 +1,14 @@
-검찰은 러시아 캄차카 석유탐사 정부 융자금 횡령 의혹과 관련 하+여 3월 18일 경남기업과 한국석유공사를 압수수색하고 해외 개발사업 과정에서 비자금 조성 여부를 확인 중이지만, MB정권 실세와의 연관성을 밝히+ㄹ물증은 찾지 못하+ㄴ 상태+이다 .	O LOC-B LOC-B ORG-I O O O O O O O O ORG-B ORG-B O O O O O O O O O PER-B O O O O O O O
-배우자의 부모 경제력은 결혼생활의 행복지수와 상과 없다는 ‘살기나 르+ㅁ’ 파는 남자의 30.6%, 여성의 25.1%를 각각 차지하였다 .	O O O O O O O O O O O O O O O O O
-성별로 보면 남성은 ① 살기나 르+ㅁ② 다소 불행③ 다소 행복④매우 불행⑤매우 행복순이었다 .	O O O O O O O O O O O O O
-[동아광장 /이미현] 한국 사회에 필요하+ㄴ 적정 변호사 수는 .	O PER-B ORG-B O O O O O O
-하이마트에서 장기할부 서비스(24개월)로 휴대폰 구입 시 할부수수료를 연 5.5%로 제공 하+ㄴ다 .	ORG-B O O O O O O O O O O O
-양 부대변인은 “한국당의 전신이 +ㄴ 새누리당이 세월호 참사로 자식을 잃은 엄마들이 차디차+ㄴ길 바닥에 나와 단식을 하+ㄹ 때 이들의 인권을 보호하+ 여야 하+ㄴ다고 말하는 것을 들어 보+ㄴ국민은 없을 것이다”며 “한국당의 인권은 오직 박근혜 전 대통령에게만 적용되는 것이 +ㄴ가”라고 일갈하였다 .	PER-B O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O
-(서울=뉴스1 .	LOC-B O
-엄기선 충북대 의대 교수(기생생물자원은행장)는 간흡충, 촌충 등 몸 속에 살는 내부 기생충을 수집하+ 여+오았다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O
-배수펌프는 5백m 간격으로 설치되며 여기에 이상이 생기+ㄹ 경우 자동경보가 울리게 되어 있다 .	O O O O O O O O O O O O O
-김기범 상무는 “에누리닷컴 골프 카테고리에 들어오는 월 30만명의 고객이 그린웍스의 부킹 서비스로 유입되고 있다”며 “고가가 전제품 구매층과 골프 부킹 서비스를 이용하는 고객층이 겹치+어시너지 효과가 크다”고 말하였다 .	PER-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-[스포츠동아 .	ORG-B O
-정치체제나 사회환경을 불문하고 민족동질성, 가치관, 전통을 보존하려는 태도는 한국인들의 가장 유별나 +ㄴ 특징중의 하나+이다 .	O O O O O O O O O O O O O O O
-문고리 3인방 “최씨 모르+ㄴ다 .	ORG-B ORG-I PER-B O O
-‘오마비’ 소지섭, 이상형 듣어보니?“168cm에 착하고 돈 많은 여자”KBS2 새 수목 드라마 ‘오마이 비너스’(이하 ‘오마비’)에 출연하는 배우 소지섭이 화제+이다 .	O PER-B O O O O O O O O O O O O O O PER-B O O
+검찰 은 러시아 캄차카 석유 탐사 정부 융자금 횡령 의혹 과 관련해 3 월 18 일 경남기업 과 한국 석유 공사 를 압수 수색하 고 해외 개발 사업 과정 에서 비자금 조성 여부 를 확인 중 이 지만 , MB 정권 실세 와 의 연관성 을 밝힐 물증 은 찾 지 못한 상태 다 .	O O LOC-B LOC-B O O O O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+배우자 의 부모 경제력 은 결혼 생활 의 행복 지수 와 상과 없 다는 ‘ 살 기 나름 ’ 파 는 남자 의 30.6 % , 여성 의 25.1 % 를 각각 차지 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+성별 로 보 면 남성 은 ① 살 기 나름 ② 다소 불행 ③ 다소 행복 ④ 매우 불행 ⑤ 매우 행복 순 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 동아 광장 / 이미현 ] 한국 사회 에 필요한 적정 변호사 수 는 ?	O O O O PER-B O ORG-B O O O O O O O O
+하이마트 에서 장기 할부 서비스 ( 24 개월 ) 로 휴대폰 구입 시 할부 수수료 를 연 5.5 % 로 제공한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+양 부 대변인 은 “ 한국당 의 전신 인 새누리당 이 세월호 참사 로 자식 을 잃 은 엄마 들 이 차디찬 길바닥 에 나 와 단식 을 할 때 이 들 의 인권 을 보호해야 한다고 말하 는 것 을 들 어 본 국민 은 없 을 것 이 다 ” 며 “ 한국당 의 인권 은 오직 박근혜 전 대통령 에게 만 적용되 는 것 인가 ” 라고 일갈 했 다 .	PER-B O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O PER-B O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+엄기선 충북대 의대 교수 ( 기생 생물 자원 은행 장 ) 는 간흡충 , 촌충 등 몸속 에 사 는 내부 기생충 을 수집해 왔 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+배수펌프 는 5 백 m 간격 으로 설치되 며 여기 에 이상 이 생길 경우 자동 경보 가 울리 게 되 어 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+김기범 상무 는 “ 에누리 닷컴 골프 카테고리 에 들어오 는 월 30 만 명 의 고객 이 그린 웍스 의 부킹 서비스 로 유입되 고 있 다 ” 며 “ 고가 가전제품 구매 층 과 골프 부킹 서비스 를 이용하 는 고객 층 이 겹쳐 시너지 효과 가 크 다 ” 고 말 했 다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 스포츠 동아 ]	O ORG-B ORG-I O
+정치체제 나 사회 환경 을 불문하 고 민족 동질성 , 가치관 , 전통 을 보존하 려는 태도 는 한국인 들 의 가장 유별난 특징 중 의 하나 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문고리 3 인 방 “ 최 씨 모른다 ”	ORG-B ORG-I ORG-I ORG-I O PER-B O O O
+‘ 오마비 ’ 소 지섭 , 이상형 들 어 보 니 ? “ 168 cm 에 착하 고 돈 많 은 여자 ” KBS 2 새 수 목 드라마 ‘ 오 마이 비너스 ’ ( 이하 ‘ 오마비 ’ ) 에 출연하 는 배우 소 지섭 이 화제 다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O

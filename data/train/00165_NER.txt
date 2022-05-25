@@ -1,12 +1,12 @@
-두 가지 평가가 가능하다 .	O O O O O
-판교로 뎀공인 임좌배 사장은 “13만여 ㎡ 규모의 알파돔시티가 완공되면 수도권에서 손에 꼽히는 자족형 미니신도시가 조성되는 셈”이라며 “복합단지나 +의 주거시설로서 주목받을 것”이라며 기대감을 나타내 +었다 .	O O PER-B O O O O O O LOC-B O O O O O O O O O O O O O O O
-SM은 앞서 +어공식 입장을 통하+여유 노윤호의 오늘 21일 현역 입대 소식은 전 하+여지만 입대 시간 및 장소는 알리지 않았다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-[광화문에서/김상수] 나+의 지갑은 못 열 +ㄴ다고 .	PER-B O O O O O O
-황 선임연구원은 “13일에는 지수 옵션11월 물만기일에 코스피200이 1포인트 이상 떨어지+ㄴ 것과 비슷하+ㄴ 양상이 나타나 +ㄹ 것”이라며 “종합주가지수 하락폭은 12일보다는 적은 20포인트 정도가 되+ㄹ 것”이라고 전망하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-일가족 9명이 익명으로 아너 소사이어티 회원에 가입하+여나 누+ㅁ 분위기를 고조시키었다 .	O O O ORG-B ORG-I O O O O O O
-무라타는 앞서 +어 19일 기자회견에서 “오늘도 일하고 +았다”며 “수상이 기적 같아서 믿어지지 않는다”고 소감을 밝히었다 .	PER-B O O O O O O O O O O O O O O O
-김정훈, "고교생 때 공부 결벽증 있었다 .	PER-B O O O O O O
-..대답 못하면 트라우마" ‘학교 다녀오겠습니다 .	O O O O O O
-진경준 전 검사장(49)이 1심에서 실형을 선고받았다 .	PER-B O O O O O O
-인민은행은 통화정책을 결정하+ㄹ 때 국내적 요인들을 가장 많이 고려하지만 연준의 긴축 리스크는 위안의 불안을 유발하+ㄹ 수 있다 .	ORG-B O O O O O O O O O O O O O O O O O
-한화 측은 “앞으로 디지털 기술과 접목하+ㄴ 고객 서비스 등 메이저리그 수준의 첨단 야구장으로 변신하+ㄹ 것”이라고 밝히었다 .	ORG-B O O O O O O O O ORG-B O O O O O O O
+두 가지 평가 가 가능하 다 .	O O O O O O O
+판교 로뎀 공인 임좌배 사장 은 “ 13 만 여 ㎡ 규모 의 알파 돔 시티 가 완공되 면 수도권 에서 손 에 꼽히 는 자족 형 미니 신도시 가 조성되 는 셈 ” 이 라며 “ 복합 단지 내 주거 시설 로서 주목 받 을 것 ” 이 라며 기대감 을 나타냈 다 .	O O O PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+SM 은 앞서 공식 입장 을 통해 유노 윤호 의 오늘 21 일 현역 입대 소식 은 전해 지만 입대 시간 및 장소 는 알리 지 않 았 다 .	ORG-B O O O O O O PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+[ 광화문 에서 / 김상수 ] 내 지갑 은 못 연다고 ?	O O O O PER-B O O O O O O O
+황 선임 연구원 은 “ 13 일 에 는 지수 옵션 11 월 물 만기일 에 코스피 200 이 1 포인트 이상 떨어진 것 과 비슷한 양상 이 나타날 것 ” 이 라며 “ 종합 주가 지수 하락 폭 은 12 일 보다 는 적 은 20 포인트 정도 가 될 것 ” 이라고 전망 했 다 .	PER-B O O O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+일가족 9 명 이 익명 으로 아너 소사이어티 회원 에 가입해 나눔 분위기 를 고조 시 켰 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O
+무라타 는 앞서 19 일 기자회견 에서 “ 오늘 도 일하 고 왔 다 ” 며 “ 수상 이 기적 같 아서 믿 어 지 지 않 는다 ” 고 소감 을 밝 혔 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김정훈 , " 고교생 때 공부 결벽증 있 었 다 .	PER-B O O O O O O O O O O
+. . 대답 못하 면 트라우마 " ‘ 학교 다녀오 겠 습니다 ’	O O O O O O O O O O O O O
+진경준 전 검사장 ( 49 ) 이 1 심 에서 실형 을 선고 받 았 다 .	PER-B O O O O O O O O O O O O O O O O
+인민 은행 은 통화 정책 을 결정할 때 국내적 요인 들 을 가장 많이 고려하 지만 연준 의 긴축 리스크 는 위안 의 불안 을 유발할 수 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한화 측 은 “ 앞 으로 디지털 기술 과 접목한 고객 서비스 등 메이저 리그 수준 의 첨단 야구장 으로 변신할 것 ” 이라고 밝 혔 다 .	ORG-B O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O

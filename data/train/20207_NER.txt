@@ -1,11 +1,11 @@
-지난해 12월 입대한 허인회(29)가 쩌렁쩌렁 하+ㄴ 목소리로 10월 경북 문경에서 열리는 세계군인체육대회를 향하+ㄴ 비장하+ㄴ각오를 밝히었다 .	O O O PER-B O O O O LOC-B LOC-B O LOC-B O O O O
-경찰은 광역수사대 1개 팀과 폭력계 외근 직원, 경찰관 50여병을 현장에 배치하+여만일의 사태에 대비하였으나, 별다르+ㄴ 충돌 없이 비교적 조용히 마무리되었다 .	O O O O O O O O O O O O O O O O O O O O
-네이비실이 소속 되+ㄴ 해군 특전사는 6500명 규모 +이다 .	O O O O O O O O O
-연예계절 친으로 유명 하+ㄴ 연기자 이민호, 정일우, 김범(왼쪽 사진부터)이 지난해 말 오랜만에 만나 +아회포를 풀고 우애를 다지었다 .	O O O O O PER-B PER-B PER-B O O O O O O O O O O
-2014년 비선실세 논란을 다루+ㄴ 정윤회 문건 보도 때문에 청와대 압력을 받아 사장직에서 밀려나 +았다는 조 전 사장은 “대법원장 사찰은 헌정질서 유린”이라고 주장하였다 .	O O O O PER-B O O O ORG-B O O O O O PER-B O O O O O O O O
-국립기상청은 인공위성과 지상의 기상관측소 및 컴퓨터 모델들을 활용, 30시간 전에 자외선 예보를 하며 기존의 기술을 이용하+여 예보 하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-한국의 장을 맛보+ㄴ 다코스타는 “완전히 새롭ㄴ맛의 세계를 발견하였다”며 “요리의 쓰고 비리+ㄴ맛은 감추고 좋은 맛은 끌어올리는 매직소스”라고 극찬하였다 .	ORG-B O O PER-B O O O PER-B O O O O O O O O PER-B O
-시+ㄴ 다은이광수 과거 폭로"광수가 예전에나 +에게 고백+였다" 배우 시+ㄴ 다은(30)이 이광수(30)와의 과거를 폭로하+여화제를 모으았다 .	O PER-B O PER-B O O O O O O PER-B O O O O
-또 2019년 월계1교와의정부 경계점을 연결하는 확장공사까지 완료되면 강남∼의정부(26.7km)를 약 24분 만에 이동 하+ㄹ 수 있어 서울 접근성이 크게 향상되 +ㄹ 것으로 전망되+ㄴ다 .	O O LOC-B O O O O LOC-B O O O O O O O LOC-B O O O O O O O
-“삼성물산 합병 무산 때 +ㄴ한국이 벌처펀드 먹잇감되+ㄹ 것 .	ORG-B O O O ORG-B O O O O
-사드 레이더의 탐지거리가 한미가 주장하는 최대 800km가 아니라 2000km+이어서 러시아의 블라디보스토크 등 극동 연해주가 포함되 +ㄴ다는 점을 적극 알리고 있다 .	O O O ORG-B O O O O O LOC-B LOC-B O O LOC-B O O O O O O O
+지난해 12 월 입대 한 허인회 ( 29 ) 가 쩌렁쩌렁한 목소리 로 10 월 경북 문경 에서 열리 는 세계 군인 체육 대회 를 향한 비장한 각오 를 밝 혔 다 .	O DAT-B DAT-I O O PER-B O O O O O O O DAT-B DAT-I LOC-B LOC-B O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O
+경찰 은 광역 수사대 1 개 팀 과 폭력 계 외근 직원 , 경찰관 50 여 병 을 현장 에 배치해 만일 의 사태 에 대비 했 으나 , 별다른 충돌 없이 비교적 조용히 마무리 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+네이비 실 이 소속된 해군 특전 사 는 6500 명 규모 다 .	O O O O O O O O O O O O O
+연예계 절친 으로 유명한 연기자 이민호 , 정일우 , 김범 ( 왼쪽 사진 부터 ) 이 지난해 말 오랜만 에 만나 회포 를 풀 고 우애 를 다 졌 다 .	O O O O O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+2014 년 비선 실세 논란 을 다룬 정윤회 문건 보도 때문 에 청와대 압력 을 받 아 사장 직 에서 밀려났 다 는 조 전 사장 은 “ 대법원장 사찰 은 헌정 질서 유린 ” 이라고 주장 했 다 .	DAT-B DAT-I O O O O O PER-B O O O O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+국립 기상청 은 인공위성 과 지상 의 기상 관측소 및 컴퓨터 모델 들 을 활용 , 30 시간 전 에 자외선 예보 를 하 며 기존 의 기술 을 이용해 예보할 예정 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 의 장 을 맛본 다 코 스타 는 “ 완전히 새로 운 맛 의 세계 를 발견 했 다 ” 며 “ 요리 의 쓰 고 비린 맛 은 감추 고 좋 은 맛 은 끌어올리 는 매직 소스 ” 라고 극찬 했 다 .	ORG-B O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신다 은 이광수 과거 폭로 " 광수 가 예전 에 내게 고백 했 다 " 배우 신다 은 ( 30 ) 이 이광수 ( 30 ) 와 의 과거 를 폭로해 화제 를 모 았 다 .	PER-B PER-I PER-B O O O PER-B O O O O O O O O O PER-B PER-I O O O O PER-B O O O O O O O O O O O O O O
+또 2019 년 월계 1 교와 의정부 경계점 을 연결하 는 확장 공사 까지 완료되 면 강남 ∼ 의정부 ( 26.7 km ) 를 약 24 분 만 에 이동할 수 있 어 서울 접근성 이 크 게 향상될 것 으로 전망된다 .	O DAT-B DAT-I LOC-B LOC-I O LOC-B O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+“ 삼성물산 합병 무산 땐 한국 이 벌처 펀드 먹잇감 될 것 ”	O ORG-B O O O ORG-B O O O O O O O
+사드 레이더 의 탐지 거리 가 한미 가 주장하 는 최대 800 km 가 아니 라 2000 km 여서 러시아 의 블라디보스토크 등 극동 연해주 가 포함된다는 점 을 적극 알리 고 있 다 .	O O O O O O ORG-B O O O O O O O O O O O O LOC-B O LOC-B O O LOC-B O O O O O O O O O O

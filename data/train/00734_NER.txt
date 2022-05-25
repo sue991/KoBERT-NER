@@ -1,15 +1,15 @@
-국방부 일각에서는 최근 상록수 부대의 조기 철수 주장이 꾸준히 제기되+어+았었다 .	ORG-B O O O O O O O O O O
-요금은 4천9백 원 .	O MNY-B MNY-I O
-하지만 ‘중국인 인 기 관광코스’가 되+ㄴ이화여대 앞 노점들은 내년이면 철거되+ㄹ 운명에 처하+여 있다 .	O O O O O LOC-B O O O O O O O O
-[포토]BMW, 6세대 뉴 7시리즈 ‘뒷자리에 앉아보니 여유롭 ㄴ미소… .	ORG-B O O O O O O PER-B O
-SK텔레콤이 T맵을 통하+여동부화재와 개발하+ㄴ UBI 상품이 금융감독원 승인을 앞두고 있다 .	ORG-B O ORG-B O O O ORG-B O O O O
-LG전자, ‘LGV20’ 출하가 89만 9800원 확정… 29일 이통3사 통하+ 여출 .	ORG-B ORG-B O MNY-B MNY-I O O O O O O
-이닝당 출루 허용수도 1.04로 수준급이다 .	O O O O O O
-김씨가 평양산원에서 먹은 음식은 칠색송어탕, 칠색송 어찜, 칠색송어 기름구이 등 송어 요리와 꿀을 비롯하+ㄴ보약 등이다 .	PER-B LOC-B O O O O O O O O O O O O O O
-유환익 전경련 산업본부장은 “지난달 주요 그룹 사장단 성명서를 통하+여 약속 하+ㄴ 경제위기 극복과 내수 활성화에 앞장서겠다는 방침을 지키기 위하+ㄴ 행보”라고 설명하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O
-한국야쿠르트 ‘콜드브루 by 바빈스키 앰플’ 한국야쿠르트에서 출시하+ㄴ ‘콜드브루 by 바빈스키 앰플’은 같은 라인의 완제품 2종과 달리 콜드브루 원액을 넣어 콜드브루의 진하+ㄴ맛을 그대로 담은 제품이다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-여기에 국내 시공능력평가 상위 10위권 내의 두 대형 건설사가 힘을 합치+어선 보이는 만큼 향후 해당 지역의 랜드마크 단지로 자리매기+ㅁ 하+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-단지는 인천광역시 영종하늘도시 A27블록에 위치하+ㄴ다 .	O LOC-B LOC-B O O O
-삼성전자는 지난달 25일 2017년 형 ‘무풍에어컨’ 신규 라인업을 출시하였다 .	ORG-B O O O O O O O O O
-MS는 앞서 +어 2014년부터 서울 근교 지역에 데이터센터 한 곳을 운영하고 있다 .	ORG-B O O O LOC-B O O O O O O O O
-파리바게뜨는 전체 서비스 업종 중에서 롯데면세점과 함께 가장 높은 수준의 NBCI 평가를 받은 것으로 나타나 +았다 .	ORG-B O O O O ORG-B O O O O O O O O O O O
+국방부 일각 에서 는 최근 상록수부대 의 조기 철수 주장 이 꾸준히 제기돼 왔었 다 .	ORG-B O O O O ORG-B O O O O O O O O O O
+요금 은 4 천 9 백 원 .	O O MNY-B MNY-I MNY-I MNY-I MNY-I O
+하지만 ‘ 중국인 인기 관광 코스 ’ 가 된 이화여대 앞 노점 들 은 내년 이 면 철거될 운명 에 처해 있 다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+[ 포토 ] BMW , 6 세대 뉴 7 시리즈 ‘ 뒷자리 에 앉 아 보 니 여유로 운 미소 … ’	O O O ORG-B O O O O O O O O O O O O O O O PER-B O O
+SK 텔레콤 이 T 맵 을 통해 동부화재 와 개발한 UBI 상품 이 금융감독원 승인 을 앞두 고 있 다 .	ORG-B ORG-I O O O O O ORG-B O O O O O ORG-B O O O O O O O
+LG 전자 , ‘ LG V 20 ’ 출하 가 89 만 9800 원 확정 … 29 일 이통 3 사 통해 출시	ORG-B ORG-I O O ORG-B O O O O O MNY-B MNY-I MNY-I MNY-I O O DAT-B DAT-I O O O O O
+이닝 당 출루 허용수 도 1.04 로 수준급 이 다 .	O O O O O O O O O O O
+김 씨 가 평양산원 에서 먹 은 음식 은 칠색송어 탕 , 칠색송어 찜 , 칠색송어 기름구이 등 송어 요리 와 꿀 을 비롯한 보약 등 이 다 .	PER-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+유환익 전경련 산업 본부 장 은 “ 지난달 주요 그룹 사장 단 성명서 를 통해 약속한 경제 위기 극복 과 내수 활성화 에 앞장서 겠 다는 방침 을 지키 기 위한 행보 ” 라고 설명 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국야쿠르트 ‘ 콜드 브루 by 바빈스키 앰플 ’ 한국야쿠르트 에서 출시한 ‘ 콜드 브루 by 바빈스키 앰플 ’ 은 같 은 라인 의 완제품 2 종 과 달리 콜드 브루 원액 을 넣 어 콜드 브루 의 진한 맛 을 그대로 담 은 제품 이 다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 에 국내 시공 능력 평가 상위 10 위 권 내의 두 대형 건설 사 가 힘 을 합쳐 선보이 는 만큼 향후 해당 지역 의 랜드마크 단지 로 자리 매김 할 것 으로 예상된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+단지 는 인천광역시 영종 하늘 도시 A 27 블록 에 위치한다 .	O O LOC-B LOC-B LOC-I LOC-I O O O O O O
+삼성전자 는 지난달 25 일 2017 년 형 ‘ 무풍 에어컨 ’ 신규 라인업 을 출시 했 다 .	ORG-B O O DAT-B DAT-I DAT-B DAT-I O O O O O O O O O O O O
+MS 는 앞서 2014 년 부터 서울 근교 지역 에 데이터 센터 한 곳 을 운영하 고 있 다 .	ORG-B O O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O
+파리바게뜨 는 전체 서비스 업종 중 에서 롯데면세점 과 함께 가장 높 은 수준 의 NBCI 평가 를 받 은 것 으로 나타났 다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-‘필리핀의 트럼프’라 불리던 로드리고 두테르테다 바오 시장 역시 지나 +ㄴ 7일 치르어 지+ㄴ 필리핀 대선에서 600만 표 이상의 차이로 임기 6년의 대통령에 당선되었다 .	ORG-B PER-I O PER-B PER-I O O O O O O O O ORG-B O O O O O O O O O O
-윤시윤 해병대 전역“잊지 않고 +아주시+어서 감사하다” 팬들 앞서 +어 ‘울컥 .	PER-B ORG-B O O O O O O O O O
-여성은 ’일단 연애 유지 후 관계를 고민/유보 하+ㄴ다‘는 응답이 71%로 가장 높게 나오았다 .	O O O O O O O O O O O O O O
-의정부~강남 삼성~군포 금정을 연결하는 GTXC 노선도 오는 2019년 착공 하+여 2024년 개통하는 것으로 계획하고 있다 .	LOC-B LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O
-자산이 수백조원에 이르는 거대그룹의 경영권을 헐값에 물려받으려다 보니 자꾸 편법과 변칙을 찾게 되는 것이다 .	O MNY-B O O O O O O O O O O O O O
-한편 루웨이(魯¤) 국가인터넷 정보 사무실 주임은 9일 인터넷 대회 소개기자회견에서 인터넷 검열에 대하+ㄴ 질문을 집중적으로 받았다 .	O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O
-두 탑은 신라 황룡사탑을 음각과 양각 모양으로 만들 +ㄴ 공통점이 있다 .	O O LOC-B LOC-I O O O O O O O O
-급기야 「종신고용신화의 붕괴」(일본 경제신문)+이라는 공식 선언이 나오았다 .	O O ORG-B ORG-I O O O O
-‘블랙프라이데이’는 미국 추수감사절 다음날 이+ㄴ 11월 마지막 주 금요일을 가리키는 말로, 이날부터 연말까지 이어지는 대규모 세일 기간에 미국 연간 소비의 20%가 발생하는 것으로 알려지었다 .	O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O
-이에 정부는 올해 ‘코리아 그랜드 세일’로 시작되+ㄴ 내수 회복세를 잇어가기 위 하+여오는 10월 1일부터 14일까지 2주 동안 ‘코리아 블랙프라이데이’ 행사를 개최 하+ㄴ다고 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-이번 ‘코리아 블랙프라이데이’ 세일에는 백화점(71개 점포), 대형마트(398개), 편의점(2만5천400개) 등 대형 유통업체 약 2만6천여 개 점포가 참여하+ㄴ다 .	O O O O O O O O O O O O O O O O O
-삼성생명 남자 탁구단은 이철승 감독이 지휘하고 있다 .	ORG-B ORG-I ORG-I PER-B O O O O
-[스포츠동아 .	ORG-B O
-트와이스는 데뷔곡 ‘우아하게’ ‘Cheerup'에잇어 'TT’까지 3연타 홈런에 성공하며 화려 하+ㄴ 컴백을 알리었다 .	ORG-B O O O O O O O O O O O O
-2011년 5월 프로축구 챌린저스 리그(K3 리그) 서울 유나이티드 정종관(당시 30세)은 “승부조작에 가담하+ㄴ일이 부끄럽다”며 호텔에서 스스로 목숨을 끊었다 .	O O O O O O ORG-B ORG-I PER-B O O O O O O O O O
+‘ 필리핀 의 트럼프 ’ 라 불리 던 로드리고 두테르테 다바오 시장 역시 지난 7 일 치 러 진 필리핀 대선 에서 600 만 표 이상 의 차이 로 임기 6 년 의 대통령 에 당선 됐 다 .	O PER-B PER-I PER-I O O O O PER-B PER-I PER-I O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O
+윤시윤 해병대 전역 “ 잊 지 않 고 와 주 셔서 감사하 다 ” 팬 들 앞서 ‘ 울컥 ’	PER-B ORG-B O O O O O O O O O O O O O O O O O O
+여성 은 ’ 일단 연애 유지 후 관계 를 고민 / 유보 한다 ‘ 는 응답 이 71 % 로 가장 높 게 나 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+의정부 ~ 강남 삼성 ~ 군포 금정 을 연결하 는 GTX C 노선 도 오 는 2019 년 착공해 2024 년 개통하 는 것 으로 계획하 고 있 다 .	LOC-B LOC-I LOC-I LOC-B LOC-I LOC-I LOC-I O O O LOC-B LOC-I LOC-I O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O
+자산 이 수백 조 원 에 이르 는 거대 그룹 의 경영권 을 헐값 에 물려받 으려다 보 니 자꾸 편법 과 변칙 을 찾 게 되 는 것 이 다 .	O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 루 웨이 ( 魯 ¤ ) 국가 인터넷 정보 사무실 주임 은 9 일 인터넷 대회 소개 기자 회견 에서 인터넷 검열 에 대한 질문 을 집중적 으로 받 았 다 .	O PER-B PER-I O PER-B PER-I O ORG-B ORG-I ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+두 탑 은 신라 황룡사 탑 을 음각 과 양각 모양 으로 만든 공통점 이 있 다 .	O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O
+급기야 「 종신 고용 신화 의 붕괴 」 ( 일본 경제 신문 ) 라는 공식 선언 이 나 왔 다 .	O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O
+‘ 블랙 프라이데이 ’ 는 미국 추수 감사절 다음날 인 11 월 마지막 주 금요일 을 가리키 는 말 로 , 이날 부터 연말 까지 이어지 는 대규모 세일 기간 에 미국 연간 소비 의 20 % 가 발생하 는 것 으로 알려 졌 다 .	O O O O O ORG-B DAT-B DAT-I O O DAT-B DAT-I O O DAT-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+이 에 정부 는 올해 ‘ 코리아 그랜드 세일 ’ 로 시작된 내수 회복세 를 이 어 가 기 위해 오 는 10 월 1 일 부터 14 일 까지 2 주 동안 ‘ 코리아 블랙 프라이데이 ’ 행사 를 개최한다고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 ‘ 코리아 블랙 프라이데이 ’ 세일 에 는 백화점 ( 71 개 점포 ) , 대형 마트 ( 398 개 ) , 편의점 ( 2 만 5 천 400 개 ) 등 대형 유통 업체 약 2 만 6 천 여 개 점포 가 참여한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성생명 남자 탁구 단 은 이철승 감독 이 지휘하 고 있 다 .	ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O
+[ 스포츠 동아 ]	O ORG-B ORG-I O
+트와이스 는 데뷔 곡 ‘ 우아하 게 ’ ‘ Cheer up ' 에 이 어 ' TT ’ 까지 3 연타 홈런 에 성공하 며 화려한 컴백 을 알 렸 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2011 년 5 월 프로 축구 챌린저 스리 그 ( K 3 리그 ) 서울 유나이티드 정종관 ( 당시 30 세 ) 은 “ 승부 조작 에 가담한 일 이 부끄럽 다 ” 며 호텔 에서 스스로 목숨 을 끊 었 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O

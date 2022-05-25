@@ -1,16 +1,16 @@
-해수부, 이르면 5월 말 지급… 위로금은 배분 방식 결정 후 지 .	ORG-B O O O O O O O O O O O
-주지사들이 잇따르 아 후퇴하는 이유는 이 법을 놓고 힐러리 클린턴 전 국무장관 등이 반대하며 중앙정치권의 이슈로 번지+ㄴ 데다 여론도 우호적이지 않기 때문이다 .	O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
-예를 들어, 건국대는 ‘건국대 기술지주회사’를 갖고 있고 그 아래에는 동물백신을 연구하는 주식회사 ‘카브’+이라는 자회사를 갖고 있다 .	O O ORG-B ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O
-》―평소 사제복은 입지 않나요.“지난해 공항으로 교황님 만나러 가+았을 때와 아산상 수상, 금 경축행사….1년에 한두 차례 입어요 .	O O O O O O O O O O O O O O O O O
-국토교통부에 따르면 부산 해운대구(17.75%)의 공시지가 상승률은 전국 시군구 가운데 제주시(28.79%)와 서귀포시(26.19%)에잇어 세 번째로 높았다 .	ORG-B O LOC-B LOC-I O O O O O LOC-B LOC-B O O O O
-WHO는 4일 ‘당 섭취가이드라인’을 내고 “조리·가공 과정에 첨가되는 당(freesugar·첨가당)은 하루에 얻는 총열량의 10% 넘게 섭취하+여서 +ㄴ 안 되며, 건강을 위하+ㄴ다면 이 기준의 절반이 +ㄴ 5% 미만으로 섭취량을 줄이어야 하+ㄴ다”고 권고하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-3년 전부터 성명 내고 잡지 통하+여서 알리었는데도 효과가 없어 이번에 +ㄴ 포스터·동영상까지 제작하였다 .	O O O O O O O O O O O O O O
-데뷔 3년 만에 가장 밝은 얼굴로 무대에 오르는 이들은 그 표정만큼이나 음반성적과 대중의 반응도 이번이 가장 뜨겁다 .	O O O O O O O O O O O O O O O O O O
-그러나 마오쩌둥은 이를 받아들이지 않았다 .	O PER-B O O O O
-「유연하+ㄴ 환율 변동대(FlexibleEx changeRa ­teBand) 」라고도 불리는 신국제통화 체제는 이미지나 +ㄴ 7월 민간기구 이+ㄴ 브레튼 우즈특별위원회에서 제안되+ㄴ 것이지만, 이번에 IMF가 주최하는 공식 세미나에서 보다 발전되+ㄴ아이디어로 떠오르았다는 점에서 한 층의미를 갖는다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-1965년 군부대 주둔 이후 출입이 금지되었던 인천문학산(해발 217m) 정상이 50년 만에 시민들에게 개방되었다 .	O O O O O O LOC-B O O O O O O O
-설날 연휴(2월 6∼10일) 방문지 1위는 인천국제공항, 2위는 이케아 광명점이 차지하였다 .	O O O O O ORG-B O ORG-B ORG-I O O
-다른 전직 외교관은 “화법은 현란하지만 평양의 지시만 충실히 이행 하+ㄹ 뿐”이라고 말하였다 .	O O O O O ORG-B O O O O O O O
-김재두 국민의당 대변인은 문 후보 측이 준용시의 취입비리 의혹에 대하+ㄴ고발 방침을 밝히+ㄴ데 대하+여 “문 후보는 고소고발로 언론과 국민에게 재갈을 물리겠다는 것이냐, 아니면 고소고발로 시간을 끌면서 대선 때까지 버티려고 하는 것이냐”며 “하필이면 거짓 해명이 드러나 +ㄴ 상황에서 왜 고발 방침을 천명하+ㄴ 것이 +ㄴ 지문 후보 측의 의도를 의심하지 않을 수 없다”고 꼬집었다 .	PER-B ORG-B O PER-B O O PER-B O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
-세계 최고의 FPS 게임 개발사로 손꼽히고 있는 스마일게이트가 국내 모바일게임 시장 장악에 나서 +ㄴ다 .	O O O O O O O ORG-B O O O O O O O
-스마일게이트는 오는 18일 블록버스터급 모바일 FPS 게임 신작 '탄: 끝없는 전장(이하 타 +ㄴ)'을 구글 플레이 스토어를 통하+여정식으로 선보이+ㄴ다고 최근 발표하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+해수 부 , 이르 면 5 월 말 지급 … 위로금 은 배분 방식 결정 후 지원	ORG-B ORG-I O O O DAT-B DAT-I DAT-I O O O O O O O O O
+주 지사 들 이 잇따 라 후퇴하 는 이유 는 이 법 을 놓 고 힐러리 클린턴 전 국무 장관 등 이 반대하 며 중앙 정치권 의 이슈 로 번진데 다 여론 도 우호적 이 지 않 기 때문 이 다 .	O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+예 를 들 어 , 건국대 는 ‘ 건국대 기술 지주 회사 ’ 를 갖 고 있 고 그 아래 에 는 동물 백신 을 연구하 는 주식회사 ‘ 카브 ’ 라는 자회사 를 갖 고 있 다 .	O O O O O ORG-B O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+》 ― 평소 사제 복 은 입 지 않 나 요 . “ 지난해 공항 으로 교황 님 만나 러 갔 을 때 와 아산 상 수상 , 금경축 행사 … . 1 년 에 한두 차례 입 어요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국토 교통 부 에 따르 면 부산 해운대구 ( 17.75 % ) 의 공시 지가 상승 률 은 전국 시 군 구 가운데 제주시 ( 28.79 % ) 와 서귀포시 ( 26.19 % ) 에 이 어 세 번째 로 높 았 다 .	ORG-B ORG-I ORG-I O O O LOC-B LOC-I O O O O O O O O O O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O O O O O
+WHO 는 4 일 ‘ 당 섭취 가이드라인 ’ 을 내 고 “ 조리 · 가공 과정 에 첨가되 는 당 ( free sugar · 첨가 당 ) 은 하루 에 얻 는 총열량 의 10 % 넘 게 섭취해선 안 되 며 , 건강 을 위한다면 이 기준 의 절반 인 5 % 미만 으로 섭취량 을 줄 여야 한다 ” 고 권고 했 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 년 전 부터 성명 내 고 잡지 통해서 알 렸 는데 도 효과 가 없 어 이번 엔 포스터 · 동영상 까지 제작 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+데뷔 3 년 만 에 가장 밝 은 얼굴 로 무대 에 오르 는 이 들 은 그 표정 만큼 이나 음반 성적 과 대중 의 반응 도 이번 이 가장 뜨겁 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 마오쩌둥 은 이 를 받아들이 지 않 았 다 .	O PER-B O O O O O O O O O
+「 유연한 환율 변동 대 ( Flexible Exchange Ra ­ te Band ) 」 라고 도 불리 는 신 국제 통화 체제 는 이미 지난 7 월 민간 기구 인 브레튼우즈 특별 위원회 에서 제안된 것 이 지만 , 이번 에 IMF 가 주최하 는 공식 세미나 에서 보다 발전된 아이디어 로 떠올 랐 다는 점 에서 한층 의미 를 갖 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I O O O ORG-B ORG-I ORG-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+1965 년 군부대 주둔 이후 출입 이 금지 됐 던 인천 문학산 ( 해발 217 m ) 정상 이 50 년 만 에 시민 들 에게 개방 됐 다 .	DAT-B DAT-I O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O
+설날 연휴 ( 2 월 6 ∼ 10 일 ) 방문 지 1 위 는 인천국제공항 , 2 위 는 이케아 광명 점 이 차지 했 다 .	DAT-B O O O O O O O O O O O O O O ORG-B O O O O ORG-B ORG-I ORG-I O O O O O
+다른 전직 외교관 은 “ 화법 은 현란하 지만 평양 의 지시 만 충실히 이행할 뿐 ” 이라고 말 했 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O
+김재두 국민 의당 대변인 은 문 후보 측 이 준용 시 의 취입 비리 의혹 에 대한 고발 방침 을 밝힌 데 대해 “ 문 후보 는 고소 고발 로 언론 과 국민 에게 재갈 을 물리 겠 다는 것 이 냐 , 아니 면 고소 고발 로 시간 을 끌 면서 대선 때 까지 버티 려고 하 는 것 이 냐 ” 며 “ 하필 이 면 거짓 해명 이 드러난 상황 에서 왜 고발 방침 을 천명한 것 인지 문 후보 측 의 의도 를 의심하 지 않 을 수 없 다 ” 고 꼬집 었 다 .	PER-B ORG-B ORG-I O O PER-B O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+세계 최고 의 FPS 게임 개발 사 로 손꼽히 고 있 는 스마일 게이트 가 국내 모바일 게임 시장 장악 에 나선다 .	O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O
+스마일 게이트 는 오 는 18 일 블록버스터 급 모바일 FPS 게임 신작 ' 탄 : 끝없 는 전장 ( 이하 탄 ) ' 을 구글 플레이 스토어 를 통해 정식 으로 선보인다고 최근 발표 했 다 .	ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

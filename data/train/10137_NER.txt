@@ -1,16 +1,16 @@
-“조선민주주의인민공화국 김정은 위원장은 당 대회에서 미국이 대조선적대시 정책을 철회하고 정전협정을 평화협정으로 바꾸고 남조선에서 모든 무장장비와 군대를 철수하+여야 하+ㄴ다고 천명하였다 .	ORG-B PER-B PER-I O O ORG-B ORG-B O O O O O ORG-B O O O O O O O
-[뉴스클립] Specialknowledge＜585＞남한산성 100배 즐기 .	O O O O O
-김윤진은 “이번에도 비슷하+ㄴ 연기처럼 보이+ㄹ까보+아좀 더 다른 모습을 보이기 위하+ 여신경을 많이 +었다”고 +였다 .	PER-B O O O O O O O O O O O O O O
-그러나 투트모시스 4세는 사람을 시키+어 정성껏 스핑크스를 매만지고 모래언덕을 치우었다 .	O PER-B PER-I O O O O O O O O
-충청 이 유혹 하+ㄴ다 .	LOC-B O O O O
-개인주의-집단주의의 기본 개념을 이해하고, 이를 최근 성과급 제도 확산 사례에 적용하+여서 두 시각에서 비판적으로 분석하고, 이를 종합적으로 논평 하+ㄹ 수 있는 논술역량을 측정하려고 출제하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-”- 겨울훈련 계획은?“드라이브 샷거리를 10야드 정도 늘리는 것이 목표+이다 .	O O O O O O O O O O
-그를 롤모델로 삼은 ‘세리키즈’는 한국 골프의 간판으로 성장하였다 .	O O O ORG-B ORG-B O O O O
-삼둥이 엄마 이+ㄴ 정승연 판사가 뒤늦게 제주도 여행에 합류하였다 .	ORG-B O O PER-B O O LOC-B O O O
-실제 지난달 15일 부시가 대권 도전을 공식 선언 하+ㄴ 출정식에 아버지와 형은 모습을 드러내지 않았다 .	O O O PER-B O O O O O O O O O O O O
-서울고법 형사1부(부장판사 이 승련)는 20일 살인 등 혐의로 기소되+ㄴ 신원 영군(당시 7세)의 계모 김 모씨(39)와 친부 신모씨(39)에게 징역 27년과 17년을 각각 선고하였다 .	ORG-B ORG-I O O O O O O O PER-B O O O PER-B PER-I ORG-I PER-B O O O O O O
-이를 위하+여 매주 토요일 금남로를 차 없는 거리로 만들어 예술가들의 공연, 전시가 이루어지도록 하+ㄹ 방침이다 .	O O O O LOC-B O O O O O O O O O O O
-한편, 제스트는 2014년 싱글 ‘어젯밤 이야기’로 데뷔 하+ㄴ 5인조 아이돌 그룹이다 .	O ORG-B O O O O O O O O O O
-제주 해비치호텔앤드리조트는 5월 31일까지 ‘라이프스타일 링 패키지’를 운영하+ㄴ다 .	LOC-B ORG-B O O O O O O O
-‘라이프스타일 링 패키지’는 야외 액티비티를 비롯하+ 여 힐링 스파, 제주로 컬푸드 식사 등 아침부터 저녁까지 호텔에서 모든 것을 해결하며 휴양을 즐기는 ‘올인클루시브 콘셉트’의 상품이다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
-이날 박 대통령은 “모두가 꿈꾸는 행복하+ㄴ 삶은 주거의 안정에서부터 시작되+ㄴ다”면서 “뉴스테이가 확산되+어 임대주택의 새롭ㄴ 대안으로 정착되 +ㄴ다면 주택의 개념을 소유에서 거주로 전환하는 중산층 주거혁신의 결정적 계기가 되+ㄹ 것”이라고 밝히었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 조선민주주의인민공화국 김정 은 위원장 은 당대회 에서 미국 이 대 조선 적대시 정책 을 철회하 고 정전 협정 을 평화 협정 으로 바꾸 고 남조선 에서 모든 무장 장비 와 군대 를 철수해야 한다고 천명 했 다 .	O ORG-B PER-B PER-I O O O O ORG-B O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+[ 뉴스 클립 ] Special knowledge ＜ 585 ＞ 남한산성 100 배 즐기 기	O O O O O O O O O O O O O O
+김윤진 은 “ 이번 에 도 비슷한 연기 처럼 보일까 봐 좀 더 다른 모습 을 보이 기 위해 신경 을 많이 썼 다 ” 고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 투트 모시스 4 세 는 사람 을 시켜 정성껏 스핑크스 를 매만지 고 모래 언덕 을 치 웠 다 .	O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O
+충청 이 유혹한다 .	LOC-B O O O
+개인주의 - 집단주의 의 기본 개념 을 이해하 고 , 이 를 최근 성과급 제도 확산 사례 에 적용해서 두 시각 에서 비판적 으로 분석하 고 , 이 를 종합적 으로 논평할 수 있 는 논술 역량 을 측정하 려고 출제 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+” - 겨울 훈련 계획 은 ? “ 드라이브 샷 거리 를 10 야드 정도 늘리 는 것 이 목표 다 .	O O O O O O O O O O O O O O O O O O O O O O
+그 를 롤 모델 로 삼 은 ‘ 세리 키즈 ’ 는 한국 골프 의 간판 으로 성장 했 다 .	O O O O O O O O ORG-B ORG-I O O ORG-B O O O O O O O O
+삼 둥이 엄마 인 정승연 판사 가 뒤늦 게 제주도 여행 에 합류 했 다 .	ORG-B ORG-I O O PER-B O O O O LOC-B O O O O O O
+실제 지난달 15 일 부시 가 대권 도전 을 공식 선언한 출정식 에 아버지 와 형 은 모습 을 드러내 지 않 았 다 .	O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O
+서울 고법 형사 1 부 ( 부장판사 이승련 ) 는 20 일 살인 등 혐의 로 기소된 신원영 군 ( 당시 7 세 ) 의 계모 김 모 씨 ( 39 ) 와 친부 신 모 씨 ( 39 ) 에게 징역 27 년 과 17 년 을 각각 선고 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O DAT-B DAT-I O O O O O PER-B O O O O O O O O PER-B PER-I O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+이 를 위해 매주 토요일 금남로 를 차 없 는 거리 로 만들 어 예술가 들 의 공연 , 전시 가 이뤄지 도록 할 방침 이 다 .	O O O O DAT-B LOC-B O O O O O O O O O O O O O O O O O O O O O O
+한편 , 제스트 는 2014 년 싱글 ‘ 어젯밤 이야기 ’ 로 데뷔한 5 인 조 아이돌 그룹 이 다 .	O O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O
+제주 해비치 호텔 앤드 리조트 는 5 월 31 일 까지 ‘ 라이프 스타일링 패키지 ’ 를 운영한다 .	LOC-B ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O
+‘ 라이프 스타일링 패키지 ’ 는 야외 액티비티 를 비롯해 힐링 스파 , 제주 로컬 푸드 식사 등 아침 부터 저녁 까지 호텔 에서 모든 것 을 해결하 며 휴양 을 즐기 는 ‘ 올 인 클루 시 브 콘셉트 ’ 의 상품 이 다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 박 대통령 은 “ 모두 가 꿈꾸 는 행복한 삶 은 주거 의 안정 에서 부터 시작된다 ” 면서 “ 뉴 스테이 가 확산돼 임대주택 의 새로 운 대안 으로 정착된다면 주택 의 개념 을 소유 에서 거주 로 전환하 는 중산층 주거 혁신 의 결정적 계기 가 될 것 ” 이라고 밝 혔 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

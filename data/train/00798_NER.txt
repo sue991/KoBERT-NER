@@ -1,15 +1,15 @@
-하지만 그는 여학생이 아니라 교복을 입은 김부선이었다 .	O O O O O O PER-B O
-세무당국은 부친이 A씨에게 주식을 증여하 +ㄴ 것으로 보고 상속세 및 증여세법상 ‘명의신탁 증여의제’ 규정에 따르 아2005~2008년 분증여세와 가산세 총 6억9460여만원을 부과하였다 .	O O PER-B O O O O O O O O O O O O O O O O MNY-B O O
-내년 세계 경제 전망도 녹록하지 않으나 우리에게는 역경을 이기+어내는 저력이 있다 .	O O O O O O ORG-B O O O O O
-상금은 2000만원 .	O MNY-B O
-이날 방문에서 +ㄴ수소연료전지차 ‘미라이’를 직접 시승 하+여보+ㄹ 수 있었다 .	O O O O O O O O O O
-메이저리그 통계 전문 사이트 이+ㄴ ‘팬그래프’는 빅리그 데뷔 후 무실점 호투를 잇어가는 세인트루이스의 오승환(34)을 분석하며 ‘콘택트율’에 주목하였다 .	O O O O O ORG-B O O O O O O ORG-B PER-B O O O O
-공기업 등 공직 유관단체는 982곳, 공공기관은 321곳, 사립학교법에 따르+ㄴ학교법인은 1211곳이었다 .	O O O O O O O O O O O
-쌀을 베이스로 양조 하+ㄴ알코올 도수 3.5%의 G.MenabreaEFigliTopRestaurantLight35가 서브 되었다 .	O O O O O O O O O O
-소감을 묻는 뉴욕타임스기자에게는 “매우 좋다(Great)"라고 짧게 답하였다 .	O O ORG-B O O O O O
-검은색 차량에서 내리+어 주변에 몰려들 +ㄴ사람들을 향하+여손을 흔들는 트럼프에게는 환호와 야유가 동시에 쏟아지었다 .	O O O O O O O O PER-B O O O O O
-의사는 ‘골수이식을 하면 낫을 수 있다’고 +였고 확률이 제일 높았던 아들 경하 씨가 직접 아버지에게 자신의 골수를 내어 주+었다 .	O O O O O O O O O O O PER-B O O O O O O O O
-수술은 잘 +었고 회복기에 접어들 +ㄹ 무렵 경하 씨는 아버지와 ‘병이 다낫으면 마라톤에 함께 나가자’ 고 약속하였다 .	O O O O O O O PER-B O O O O O O O O O O
-문의 1577-8224 <보+ㄴ자료는 해당 기관에서 제공 하+ㄴ 보도자료 이+ㅂ니다 .	O O O O O O O O O O
-황우여 ‘표적 방문’에 부담감?梨大 등록금 인상 없던 일 .	PER-B O O O O O O O O
-2AM은 2008년 7월에 데뷔해 ‘이 노래’ ‘죽어도 못 보내+어’ 등의 발라드 곡으로 팬들의 크+ㄴ사랑을 받았다 .	ORG-B ORG-B O O O O O O O O O O O O O O
+하지만 그 는 여학생 이 아니 라 교복 을 입 은 김부선 이 었 다 .	O O O O O O O O O O O PER-B O O O O
+세무 당국 은 부친 이 A 씨 에게 주식 을 증여한 것 으로 보 고 상속세 및 증여세 법 상 ‘ 명의 신탁 증여 의제 ’ 규정 에 따 라 2005 ~ 2008 년 분 증여세 와 가산세 총 6 억 9460 여 만 원 을 부과 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O
+내년 세계 경제 전망 도 녹록 치 않 으나 우리 에게 는 역경 을 이겨 내 는 저력 이 있 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O
+상금 은 2000 만 원 .	O O MNY-B MNY-I MNY-I O
+이날 방문 에선 수소 연료전지 차 ‘ 미라이 ’ 를 직접 시승해 볼 수 있 었 다 .	O O O O O O O O O O O O O O O O O O
+메이저리그 통계 전문 사이트 인 ‘ 팬 그래프 ’ 는 빅 리그 데뷔 후 무실점 호투 를 이 어 가 는 세인트루이스 의 오승환 ( 34 ) 을 분석하 며 ‘ 콘택트 율 ’ 에 주목 했 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O
+공기업 등 공직 유관 단체 는 982 곳 , 공공 기관 은 321 곳 , 사립학교법 에 따른 학교 법인 은 1211 곳 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+쌀 을 베이스 로 양조한 알코올 도수 3.5 % 의 G . Menabrea E Figli Top Restaurant Light 35 가 서브 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+소감 을 묻 는 뉴욕타임스 기자 에게 는 “ 매우 좋 다 ( Great ) " 라고 짧 게 답 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O
+검은색 차량 에서 내려 주변 에 몰려든 사람 들 을 향해 손 을 흔드 는 트럼프 에게 는 환호 와 야유 가 동시 에 쏟아 졌 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+의사 는 ‘ 골수 이식 을 하 면 나 을 수 있 다 ’ 고 했 고 확률 이 제일 높 았 던 아들 경하 씨 가 직접 아버지 에게 자신 의 골수 를 내 어 줬 다 .	O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+수술 은 잘 됐 고 회복기 에 접어들 무렵 경하 씨 는 아버지 와 ‘ 병 이 다 나 으면 마라톤 에 함께 나가 자 ’ 고 약속 했 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+문의 1577 - 8224 < 본 자료 는 해당 기관 에서 제공한 보도 자료 입니다 .	O O O O O O O O O O O O O O O O
+황우여 ‘ 표적 방문 ’ 에 부담감 ? 梨大 등록금 인상 없 던 일 로	PER-B O O O O O O O O O O O O O O
+2 AM 은 2008 년 7 월 에 데뷔 해 ‘ 이 노래 ’ ‘ 죽 어도 못 보내 ’ 등 의 발라드 곡 으로 팬 들 의 큰 사랑 을 받 았 다 .	ORG-B ORG-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,10 +1,10 @@
-또한 요르단군은 시리아에 있는 IS교육센터와 무기 저장고 폭격하였으며 이번 공습으로 IS 대원 55명이 사망 하+ㄴ 것으로 전하+여지+ㄴ다 .	O ORG-B LOC-B O ORG-B O O O O O ORG-B O O O O O O O
-퓰리처상 최종 후보작에 오르+ㄴ 장편 ‘비둘기재앙’은 2008년 뉴욕타임스 베스트셀러에 오르았다 .	O O O O O O O ORG-B O O O
-더쇼갓 세븐, 컴백하자 말자 1위 … 무슨 일 .	O O O O O O O O O
-정치권에서의 사면 논란에 대하+여서는 “아직 재판을 시작하기도 전이고 무슨 죄를 어떻게 짓었는지도 밝혀지지 않았다”며 “대선을 앞두고 안철수 국민의당 후보 등이 표를 계산하는 것”이라고 지적하였다 .	O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O
-[포토] 레이싱 모델 유진, 탄탄 가슴 라인 아 .	O O O PER-B O O O O O
-춥고 바람이 많은 날은 10일 정도 +이면 충분하다 .	O O O O O O O O O
-과메기 생산업체는 대략 400여 곳이다 .	O O O O O O
-폐암 세포가 증식하도록 명령하는 수용체(EGFR)에 붙어 신호전달을 막는다 .	O O O O ORG-B O O O O
-또 이 황사는 오늘 밤에 점차 약화되겠으나, 일부 지역은 2일 낮까지 이어지+ㄹ 수도 있다고 덧붙이었다 .	O PER-B O O O O O O O O O PER-B O O PER-B O
-1분기 가구당도 서구입비, 8.0% ↓… 온라인 쇼핑 거래액은 .	O O O O O O O O O
+또한 요르단 군 은 시리아 에 있 는 IS 교육 센터 와 무기 저장고 폭격 했 으며 이번 공습 으로 IS 대원 55 명 이 사망한 것 으로 전해 진다 .	O ORG-B O O LOC-B O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O
+퓰리처 상 최종 후보작 에 오른 장편 ‘ 비둘기 재앙 ’ 은 2008 년 뉴욕타임스 베스트셀러 에 올 랐 다 .	O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O
+더 쇼 갓세븐 , 컴백하 자 마 자 1 위 … 무슨 일 ?	O O ORG-B O O O O O O O O O O O
+정치권 에서 의 사면 논란 에 대해서 는 “ 아직 재판 을 시작하 기 도 전 이 고 무슨 죄 를 어떻 게 지 었 는지 도 밝혀지 지 않 았 다 ” 며 “ 대선 을 앞두 고 안철수 국민 의당 후보 등 이 표 를 계산하 는 것 ” 이라고 지적 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O
+[ 포토 ] 레이싱 모델 유진 , 탄탄 가슴 라인 아찔	O O O O O PER-B O O O O O
+춥 고 바람 이 많 은 날 은 10 일 정도 면 충분하 다 .	O O O O O O O O DAT-B DAT-I O O O O O
+과메기 생산 업체 는 대략 400 여 곳 이 다 .	O O O O O O O O O O O
+폐암 세포 가 증식하 도록 명령하 는 수용체 ( EGFR ) 에 붙 어 신호 전달 을 막 는다 .	O O O O O O O O O ORG-B O O O O O O O O O O
+또 이 황사 는 오늘 밤 에 점차 약화되 겠 으나 , 일부 지역 은 2 일 낮 까지 이어질 수 도 있 다고 덧붙 였 다 .	O PER-B O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+1 분기 가구 당 도서 구입 비 , 8.0 % ↓ … 온라인 쇼핑 거래 액 은 ?	O O O O O O O O O O O O O O O O O O

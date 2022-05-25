@@ -1,15 +1,15 @@
-민주당 의원들 모두도 그렇게 얘기 하+ㄴ다 .	ORG-B O O O O O O
-박상진 사장-황성수 전무도 소환… ‘삼성순환출자 해소’ 특혜 의혹 관 .	PER-B PER-B O O O O O O O O
-‘에이스’ 니퍼트도 “지나 +ㄴ 시즌처럼 만 하면 2017 시즌에도 좋은 모습을 보이+ㄹ 수 있다”고 자신감을 드러내+었다 .	O PER-B O O O O O O O O O O O O O O O
-장동민 고소, KBS쿨 FM하차… 조정치도 희임시 DJ 맡아 최근 여성 비하성 발언으로 논란이 되며 무한도전 ‘식스맨’을 자진 하차하+ㄴ장동민이 고소를 당하+ㄴ 것으로 알려지었다 .	PER-B O O O PER-B O O O O O O O O O O O O PER-B O O O O O
-장동민이 고소를 당하+ㄴ이유는 과거 인터넷 방송 팟캐스트 ‘꿈꾸는 라디오’에서 삼풍백화점 사고 생존자와 관련 언급을 +었고, 당시 피해자 이+ㄴ A씨가 모욕감을 느끼었다며 장동민을 지나 +ㄴ 17일 명예훼손 등의 혐의로 동부지검에 형사 고소한 것이다 .	PER-B O O O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O ORG-B O O O O
-앞서 장동민은 ‘꿈꾸는 라디오’를 통하+여오줌을 먹는 동호회를 언급하던 가운데 “삼풍백화점이 무너지었을 때 뭐 21일 만에 구출되 +ㄴ 여자도 다오줌 먹고 살았다”며 “창시자야” +이라는 발언을 +였었던 것으로 알려지었다 .	O PER-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
-삼풍백화점 생존자의 법률대리인은 “어렵 ㄴ 역경 속에서 사경을 헤매고서 나오았는데 그 과정 자체가 개그 소재로 쓰이는 것+ㄹ 넘어서 허위사실을 통하+여서 너무도 희화화되고 모욕적으로 비치는 모습에 크+ㄴ 충격을 받았다”고 고소 이유를 전하였다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이에 장동민은 식스맨 하차에잇어 KBS쿨 FM ‘장동민레이디 제인 2시’에서도 하차하게 +었다 .	O PER-B O O O O PER-B O O O O O
-27일 KBS쿨 FM ‘장동민레이디 제인의 2시’ 제작진은 공식적으로 보도자료를 내고 “본인의 발언 문제로 사회적 논란이 되고 있는 장동민씨를 DJ에서 하차시키는 것으로 결정하였다”고 밝히었다 .	O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O
-또한 제작진은 “제작진은 오늘과 내일 이틀간은 공동 진행자 이+ㄴ 레이디 제인이 해외 촬영으로 자리를 비우어 조정치와 도 희가 임시DJ로 방송을 진행하게 되며, 5월 부분 조정에 맞추+어 후임 DJ를 선정하+ㄹ 계획”이라고 밝히었다 .	O O O O O O O O O PER-B PER-I O O O O PER-B O O O O O O O O PER-B O O O O O O O
-한편 장동민의 소속사 코엔스타즈는 공식 보도자료를 통하+여 “불미스럽ㄴ 소식을 전하게 되+어죄송하다는 말씀 전 하+ㄴ다”며 “현재 소속사는 장동민씨와 관련 하+ㄴ 고소 내용을 확인 하+ㄴ 상태이며, 사건 내용에 대하+ㄴ진의 여부 파악 및 후속방안을 정리 중에 있다”고 밝히었다 .	O PER-B O ORG-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
-이미 도는 지난해 MBC 예능 프로그램 ‘라디오 스타’에 출연하+여 남자친구의 존재를 밝히+어 화제를 모으았다 .	O O O O O O O O O O O O O O O
-쁘띠첼스윗롤과 데미안, 위대하+ㄴ개츠비, 젊은 베르테르의 슬픔 등 세계 명작 소설 미니북이 함께 들어가 +ㄴ한정판 상품을 판매하였다 .	O O O O O O O O O O O O O O O O O
-낙동강뿐 아니라, 우리나라의 산, 들, 도시, 농촌, 바다 등은 오염 안 되+ㄴ 곳이 거의 없다 .	LOC-B O O O O O O O O O O O O O O O
-그는 2002년 스턴과의 대화에서 “여성의 서른은 완벽 하+ㄴ나이”라고 +였다 .	O O PER-B O O O O O O O
+민주당 의원 들 모두 도 그렇 게 얘기한다 .	ORG-B O O O O O O O O
+박상진 사장 - 황성수 전무 도 소환 … ‘ 삼성 순환 출자 해소 ’ 특혜 의혹 관련	PER-B O O PER-B O O O O O O O O O O O O O
+‘ 에이스 ’ 니퍼트 도 “ 지난 시즌 처럼 만 하 면 2017 시즌 에 도 좋 은 모습 을 보일 수 있 다 ” 고 자신감 을 드러냈 다 .	O O O PER-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+장동민 고소 , KBS 쿨 FM 하차 … 조정 치 도희 임시 DJ 맡 아 최근 여성 비하 성 발언 으로 논란 이 되 며 무한도전 ‘ 식스 맨 ’ 을 자진 하차한 장동민 이 고소 를 당한 것 으로 알려 졌 다 .	PER-B O O O O O O O PER-B PER-I PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+장동민 이 고소 를 당한 이유 는 과거 인터넷 방송 팟캐스트 ‘ 꿈꾸 는 라디오 ’ 에서 삼풍백화점 사고 생존자 와 관련 언급 을 했 고 , 당시 피해자 인 A 씨 가 모욕감 을 느 꼈 다며 장동민 을 지난 17 일 명예 훼손 등 의 혐의 로 동부 지검 에 형사 고소 한 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O DAT-B DAT-I O O O O O O ORG-B ORG-I O O O O O O O O
+앞서 장동민 은 ‘ 꿈꾸 는 라디오 ’ 를 통해 오줌 을 먹 는 동호회 를 언급하 던 가운데 “ 삼풍백화점 이 무너 졌 을 때 뭐 21 일 만 에 구출된 여자 도 다 오줌 먹 고 살 았 다 ” 며 “ 창시자 야 ” 라는 발언 을 했었 던 것 으로 알려 졌 다 .	O PER-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼풍백화점 생존자 의 법률 대리인 은 “ 어려 운 역경 속 에서 사경 을 헤매 고서 나 왔 는데 그 과정 자체 가 개그 소재 로 쓰이 는 걸 넘 어서 허위 사실 을 통해서 너무 도 희화화 되 고 모욕적 으로 비치 는 모습 에 큰 충격 을 받 았 다 ” 고 고소 이유 를 전 했 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 장동민 은 식스 맨 하차 에 이 어 KBS 쿨 FM ‘ 장동민 레이디 제인 2 시 ’ 에서 도 하차하 게 됐 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+27 일 KBS 쿨 FM ‘ 장동민 레이디 제인 의 2 시 ’ 제작진 은 공식적 으로 보도 자료 를 내 고 “ 본인 의 발언 문제 로 사회적 논란 이 되 고 있 는 장동민 씨 를 DJ 에서 하차 시키 는 것 으로 결정 했 다 ” 고 밝 혔 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+또한 제작진 은 “ 제작진 은 오늘 과 내일 이틀 간 은 공동 진행자 인 레이디 제인 이 해외 촬영 으로 자리 를 비 워 조정 치 와 도희 가 임시 DJ 로 방송 을 진행하 게 되 며 , 5 월 부분 조정 에 맞춰 후임 DJ 를 선정할 계획 ” 이라고 밝 혔 다 .	O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+한편 장동민 의 소속 사 코엔스타즈 는 공식 보도 자료 를 통해 “ 불미스러 운 소식 을 전하 게 돼 죄송하 다는 말씀 전한다 ” 며 “ 현재 소속 사 는 장동민 씨 와 관련한 고소 내용 을 확인한 상태 이 며 , 사건 내용 에 대한 진의 여부 파악 및 후속 방안 을 정리 중 에 있 다 ” 고 밝 혔 다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이미도 는 지난해 MBC 예능 프로그램 ‘ 라디오스타 ’ 에 출연해 남자 친구 의 존재 를 밝혀 화제 를 모 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+쁘띠첼 스윗롤 과 데미안 , 위대한 개츠비 , 젊 은 베르테르 의 슬픔 등 세계 명작 소설 미니북 이 함께 들어간 한정판 상품 을 판매 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+낙동강 뿐 아니 라 , 우리나라 의 산 , 들 , 도시 , 농촌 , 바다 등 은 오염 안 된 곳 이 거의 없 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 2002 년 스턴 과 의 대화 에서 “ 여성 의 서른 은 완벽한 나이 ” 라고 했 다 .	O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O

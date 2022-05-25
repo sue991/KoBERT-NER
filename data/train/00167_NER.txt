@@ -1,15 +1,15 @@
-웹버족의 미"이런 뜻이 +ㄴ 지 전혀 모르았네" 5년 만에 2배 훌쩍 .	ORG-B O O O O O O O O O O O
-프랑스의 작곡가브누아 카레+이었다 .	ORG-B PER-B PER-I O
-플로머신이 작곡하+ㄴ 두곡의 제목은 각각 ‘아빠의 차(Daddy’ sCar)’와 ‘미스터 섀도의 노래(TheBalladofMrS hadow)’+이었다 .	PER-B O O O O O O O O O O O O
-‘아빠의 차’는 영국의 전설적 록밴드 비틀즈 스타일의 곡이다 .	O O ORG-B O O ORG-B O O O
-지난해 7월부터는 사무직 직원들도 10~15%의 임금을 반납하였다 .	O O O O O O O O
-강원도 정선 강원랜드의 전통 한식당 운암정이 환경개선 공사를 마치고 6월 1일부터 정상 영업을 재개하+ㄴ다 .	LOC-B LOC-I ORG-B O O ORG-B O O O O O O O O O
-한편 ‘집밥백 선생’ 백종원은 ‘슈가 보이’ +이라는 별명답게 설탕을 애용하였다 .	O O O PER-B PER-B PER-I O O O O O
-신 회장을 포함하+여 롯데 비리로 기소되+ㄴ 피고인들은 혐의를 모두 부인하며 무죄를 주장하는 입장이다 .	PER-B O O O O O O O O O O O O O
-신 회장은 2009년 9월~2015년 7월 계열사 끼우어 넣기 등 방법으로 회사에 471억원의 손해를 끼치 +ㄴ 혐의로 기소되었다 .	PER-B O O O O O O O O O O MNY-B O O O O O O
-또 신 총괄회장과 공모하+여신이 사장과 서씨, 서씨의 딸 신유미씨가 운영하는 회사에 사업권을 몰아주 774억원의 손해를 가하고, 신 전 부회장에게 391억원, 서씨 모녀에게 117억원 등 총 508억원의 급여를 부당하게 지급하+ㄴ 혐의도 있다 .	O PER-B O PER-B O PER-B PER-B O PER-B O O O O MNY-B O O PER-B O O MNY-B PER-B O MNY-B O O MNY-B O O O O O O
-(서울=뉴스1 .	LOC-B O
-선관위 홈페이지를 겨냥하+ㄴ디도스 공격은 2012년 19대 총선 당시 선거 전날 밤 두 차례에 걸치+어 발생하+ㄴ적이 있다 .	ORG-B O O O O O O O O O O O O O O O O
-신라스테이 제주는 동탄·역삼점에 이어 미니멀리즘 대가로 불리는 이탈리아 디자이너 피에로 리쏘니가 디자인을 맡아 실용적이면서도 고급스럽ㄴ 분위기를 느끼+ㄹ 수 있다 .	ORG-B ORG-I ORG-B O O O O ORG-B O PER-B PER-I O O O O O O O O O
-반면 노 관장의 귀책사유는 아직 드러나 +ㄴ바가 없다 .	O PER-B O O O O O O O
-지나+ㄴ9월 판결에서 대법원이 파탄주의 인정 가능성을 과거보다는 다소 확대하기는 +였다 .	O O ORG-B O O O O O O O O
+웹버족 의미 " 이런 뜻 인지 전혀 몰 랐 네 " 5 년 만 에 2 배 훌쩍 ?	ORG-B O O O O O O O O O O O O O O O O O O
+프랑스 의 작곡가 브누아 카레 였 다 .	ORG-B O O PER-B PER-I O O O
+플로 머신 이 작곡한 두 곡 의 제목 은 각각 ‘ 아빠 의 차 ( Daddy ’ s Car ) ’ 와 ‘ 미스터 섀도 의 노래 ( The Ballad of Mr Shadow ) ’ 였 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 아빠 의 차 ’ 는 영국 의 전설적 록 밴드 비틀즈 스타일 의 곡 이 다 .	O O O O O O ORG-B O O O O ORG-B O O O O O O
+지난해 7 월 부터 는 사무직 직원 들 도 10 ~ 15 % 의 임금 을 반납 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+강원도 정선 강원랜드 의 전통 한식 당 운암정 이 환경 개선 공사 를 마치 고 6 월 1 일 부터 정상 영업 을 재개한다 .	LOC-B LOC-I ORG-B O O O O ORG-B O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O
+한편 ‘ 집 밥 백 선생 ’ 백종원 은 ‘ 슈가 보이 ’ 라는 별명 답 게 설탕 을 애용 했 다 .	O O O O O O O PER-B O O PER-B PER-I O O O O O O O O O O O
+신 회장 을 포함해 롯데 비리 로 기소된 피고인 들 은 혐의 를 모두 부인하 며 무죄 를 주장하 는 입장 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+신 회장 은 2009 년 9 월 ~ 2015 년 7 월 계열사 끼 워 넣 기 등 방법 으로 회사 에 471 억 원 의 손해 를 끼친 혐의 로 기소 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+또 신 총괄 회장 과 공모해 신 이사장 과 서 씨 , 서 씨 의 딸 신유미 씨 가 운영하 는 회사 에 사업 권 을 몰아줘 774 억 원 의 손해 를 가하 고 , 신 전 부회장 에게 391 억 원 , 서 씨 모녀 에게 117 억 원 등 총 508 억 원 의 급여 를 부당하 게 지급한 혐의 도 있 다 .	O PER-B O O O O PER-B O O PER-B O O PER-B O O O PER-B O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O PER-B O O O MNY-B MNY-I MNY-I O PER-B O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O ORG-B ORG-I O
+선관위 홈페이지 를 겨냥한 디도스 공격 은 2012 년 19 대 총선 당시 선거 전날 밤 두 차례 에 걸쳐 발생한 적 이 있 다 .	ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+신라 스테이 제주 는 동탄 · 역삼 점 에 이어 미니멀리즘 대가 로 불리 는 이탈리아 디자이너 피에로 리 쏘니 가 디자인 을 맡 아 실용적 이 면서 도 고급스러 운 분위기 를 느낄 수 있 다 .	ORG-B ORG-I ORG-I O ORG-B O ORG-B ORG-I O O O O O O O ORG-B O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O
+반면 노 관장 의 귀책사유 는 아직 드러난 바 가 없 다 .	O PER-B O O O O O O O O O O O
+지난 9 월 판결 에서 대법원 이 파탄 주의 인정 가능성 을 과거 보다 는 다소 확대하 기 는 했 다 .	O DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O

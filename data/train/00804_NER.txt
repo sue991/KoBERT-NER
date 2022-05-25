@@ -1,14 +1,14 @@
-액토즈, 글로벌 IP 활용 게임 공개액 토즈게임즈는 같은 날 서울 반포동 JW메리어트 호텔에서기자 간담회를 갖고, 상반기 출시 예정이+ㄴ 10여종의 신규 모바일게임 라인업과 함께 사업 전략을 발표하였다 .	ORG-B O O O O ORG-B ORG-I O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O
-1986년 독일 분데스리가 레버쿠젠에서 뛰+ㄴ차범근(63)과 어깨를 나란히 +였다 .	O ORG-B ORG-I ORG-B PER-B O O O O
-이에 대하+여송기 창숙명여대 교육학과 교수는 “이상적 이+ㄴ 정책이라 하+ㄹ지라도 현실과 동떨어지+어 있고, 특정 계층에게 피해를 주+ㄴ다면 교육감은 이를 재검토 하+여야 하+ㄴ다”고 지적하였다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
-서문규 한국석유공사 사장은 18일 울산 본사에서 요제프 토트 세계 석유회의(WPC) 회장 등과 간담회를 갖고 글로벌 석유시장 동향 등에 대하+ㄴ의견을 나누었다 .	PER-B ORG-B O O LOC-B LOC-I PER-B PER-I ORG-B ORG-B O O O O O O O O O O O
-비류(온조의형)가 세우+ㄴ 이른바 ‘비류백제’가 일본 황실의 뿌리+이라는 학설은 오히려 식민사학의 덫에 빠지+ㄹ 수 있는 자충수+이라는 지적도 제기되었다 .	PER-B O O PER-B ORG-B O O O O O O O O O O O O O
-조세감면 여부를 결정하는 기간도 현재 60일에서 30일로 단축되+ㄴ다 .	O O O O O O O O O
-‘상남자’ 비스트, 10개월 만에 뭉치었다 .	O ORG-B O O O O
-정 의장의 방중 협의는 지난해 11월부터 추진되었다 .	PER-B O O O O O O O
-LG 구단과 팬들은 그에 대하+ㄴ기대를 접은 상태+이었다 .	ORG-B ORG-I O O O O O O
-● ‘의지의 사나이’ 강지환의 재발견 시청자도 대세도 따르+ㄴ다 .	O O O PER-B O O O O O
-도널드 트럼프 미국 대통령이 연잇은 강경 발언으로 중국을 실망시키는 반면 딸이방카(사진)는 미국 주재 중국대사관의 춘제(春節·서+ㄹ) 행사에 참석하는 등 중국과의 친밀하+ㄴ 관계를 과시하고 있다 .	PER-B PER-I ORG-B PER-B O O O ORG-B O O PER-B ORG-B O ORG-B O O O O ORG-B O O O O O
-지난해 양국 교역 규모는 61억달러 +이다 .	O O O O MNY-B O O
-안종범 대통령 경제수석비서관은 브리핑에서 “역대 최대 경제외교 성과” +이라며 “‘제2의 중동 붐’의 한 축이라고 하+ㄹ 수 있는 이란 시장을 선점하는 계기가 되+ㄹ 것”이라고 기대하였다 .	PER-B O O O O O O O O O LOC-B O O O O O O ORG-B O O O O O O O
-다만 중국 수출은 물량이 41%나 줄고 금액도 7% 감소하었습니다 .	O ORG-B O O O O O O O O
+액 토즈 , 글로벌 IP 활용 게임 공개 액 토즈 게임즈 는 같 은 날 서울 반포동 JW 메리어트 호텔 에서 기자 간담회 를 갖 고 , 상반기 출시 예정 인 10 여 종 의 신규 모바일 게임 라인업 과 함께 사업 전략 을 발표 했 다 .	ORG-B ORG-I O O O O O O ORG-B ORG-I ORG-I O O O O LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1986 년 독일 분데스리가 레버쿠젠 에서 뛴 차범근 ( 63 ) 과 어깨 를 나란히 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-B O O PER-B O O O O O O O O O O
+이 에 대해 송기창 숙명여대 교육학 과 교수 는 “ 이상적 인 정책 이 라 할지라도 현실 과 동떨어져 있 고 , 특정 계층 에게 피해 를 준다면 교육감 은 이 를 재검토해야 한다 ” 고 지적 했 다 .	O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서문규 한국 석유 공사 사장 은 18 일 울산 본사 에서 요제프 토트 세계 석유 회의 ( WPC ) 회장 등 과 간담회 를 갖 고 글로벌 석유 시장 동향 등 에 대한 의견 을 나 눴 다 .	PER-B ORG-B ORG-I ORG-I O O DAT-B DAT-I LOC-B LOC-I O PER-B PER-I ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O
+비류 ( 온조 의 형 ) 가 세운 이른바 ‘ 비류 백제 ’ 가 일본 황실 의 뿌리 라는 학설 은 오히려 식민 사학 의 덫 에 빠질 수 있 는 자충수 라는 지적 도 제기 됐 다 .	PER-B O PER-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+조세 감면 여부 를 결정하 는 기간 도 현재 60 일 에서 30 일 로 단축된다 .	O O O O O O O O O O O O O O O O O
+‘ 상 남자 ’ 비스트 , 10 개월 만 에 뭉 쳤 다 …	O O O O ORG-B O O O O O O O O O
+정 의장 의 방 중 협의 는 지난해 11 월 부터 추진 됐 다 .	PER-B O O O O O O O DAT-B DAT-I O O O O O
+LG 구단 과 팬 들 은 그 에 대한 기대 를 접 은 상태 였 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
+● ‘ 의지 의 사나이 ’ 강지환 의 재발견 시청자 도 대세 도 따른다 .	O O O O O O PER-B O O O O O O O O
+도널드 트럼프 미국 대통령 이 연이 은 강경 발언 으로 중국 을 실망 시키 는 반면 딸 이 방카 ( 사진 ) 는 미국 주재 중국 대사관 의 춘제 ( 春節 · 설 ) 행사 에 참석하 는 등 중국 과 의 친밀한 관계 를 과시하 고 있 다 .	PER-B PER-I ORG-B O O O O O O O ORG-B O O O O O O PER-B PER-I O O O O ORG-B O O O O DAT-B O O O O O O O O O O ORG-B O O O O O O O O O O
+지난해 양국 교역 규모 는 61 억 달러 다 .	O O O O O MNY-B MNY-I MNY-I O O
+안종범 대통령 경제 수석 비서관 은 브리핑 에서 “ 역대 최대 경제 외교 성과 ” 라며 “ ‘ 제 2 의 중동 붐 ’ 의 한 축이 라고 할 수 있 는 이란 시장 을 선점하 는 계기 가 될 것 ” 이라고 기대 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+다만 중국 수출 은 물량 이 41 % 나 줄 고 금액 도 7 % 감소 했 습니다 .	O ORG-B O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-재판부는 혐의를 인정하+ㄴ윤 전 부사장에 대하+여 “자신의 잘못을 반성하며 사건의 실체를 밝히는 데 기여 하+ㄴ점을 양형에 반영하였다”며 집행유예를 선고하였다 .	O O PER-B O O O O O O O O O O O O O O O O O
-김 화백의 1972년작 ‘무제 27-VII-72228‘는 지나 +ㄴ 6월 K옥션(대표 이상규) 여름 경매에서 54억원에 낙찰되었다 .	PER-B O O O O O O O ORG-B PER-B O O MNY-B O O
-이로써 김 화백은 국내외 경매를 통틀어 한국 근현대 미술품 최고가’톱5‘를 모두 자신의 이름으로 채우게 +었다 .	O PER-B O O O O LOC-B O O O O O O O O O
-최고가 3위는 올해 4월 서울옥션 홍콩 경매에서 약 48억7000만원에 낙찰되+ㄴ 1970년작’무제‘(U ntitled) +이다 .	O O O O O O O O MNY-B O O O O O
-대한상공회의소는 ‘능력중심 채용모델’ 확산을 위하+ 여기업들에게 직무 중심 입사지원서를 개발하+여주고, 필기시험 직무적성검사를 출제하+여주고 있다 .	ORG-B O O O O O O O O O O O O O O
-또한 지나 +ㄴ 1월 20일 국회 본회의에서 의결되+ㄴ 공직선거법 개정안에 따르면, 선거 당일 이+ㄴ 9일에도 인터넷·전자우편·문자메시지를 이용하+ㄴ 선거운동이 가능하여 +지+었다 .	O O O O O O O O O O O O O O O O O O O O O
-원유철 상임위에 제2소위를 두는 것에 대하+여우리도 긍정적으로 검토하겠습니다 .	PER-B O O O O O O O O
-제주영어교육도시는 교육과 글로벌 문화+이라는 핵심역량이 강화되+ㄴ도시로 동북아시아의 교육 허브 기능을 수행하+ㄹ 것이다 .	LOC-B LOC-I O O O O LOC-B LOC-I O O O O O
-”제주영어교육도시가 위치하+ㄴ 곳은 제주 서남쪽이+ㄴ 서귀포대정읍 일대.JDC는 이곳에 2021년까지 1조7810억원을 투입하+여 379만 2000㎡(115만평) 규모로 도시를 조성 중이다 .	LOC-B O O LOC-B O LOC-B ORG-B O MNY-B MNY-B O O MNY-B O O O O O
-루고의 콜드브루 커피는 차갑ㄴ 물에서 오랜 시간에 걸치+어 추출하+ㄴ 더치커피의 부드럽고 깊은 맛을 시원하게 즐기 +ㄹ 수 있는 커피음료로 시그니처 콜드브루, 콜드브루큐 브라떼, 콜드브루플랏 등 3종으로 선보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-역시 패딩, 코트 등 외투 물량을 브랜드별로 20∼30% 늘리+어 준비하였다 .	O O O O O O O O O O O
-시장에서 +ㄴ 실적 악화 속에서도 배당을 늘리+ㄴ삼성전자의 결정을 두 가지로 해석하였다 .	O O O O O O ORG-B O O O O O
-이번 대회에서 영진전문대는 우수상 등 14명이 입상하였다 .	O O ORG-B O O O O O
-이봉주•김영호 등 전 국가대표 선수들의 참석 하+여전시 물품을 기증하는 행사가 성황리에 치르어+지었다 .	PER-B O O O O O O O O O O O O
-강원라마다는 평창올림픽 최대 수혜지로 올림픽을 테마로 하+ㄴ 객실 중 일부를 올림픽 스타들의 스토리로 꾸미+어 숙박객에게 테디베어 디자인 금메달을 증정하며, 수익 일부를 올림픽 스타의 이름으로 기부하는 테마 호텔로 꾸미+어지+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+재판부 는 혐의 를 인정한 윤 전 부사장 에 대해 “ 자신 의 잘못 을 반성하 며 사건 의 실체 를 밝히 는 데 기여한 점 을 양형 에 반영 했 다 ” 며 집행 유예 를 선고 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 화백 의 1972 년 작 ‘ 무제 27 - VII - 72 # 228 ‘ 는 지난 6 월 K 옥션 ( 대표 이상규 ) 여름 경매 에서 54 억 원 에 낙찰 됐 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I O O PER-B O O O O MNY-B MNY-I MNY-I O O O O O
+이 로써 김 화백 은 국내외 경매 를 통틀어 한국 근 현대 미술품 최고 가 ’ 톱 5 ‘ 를 모두 자신 의 이름 으로 채우 게 됐 다 .	O O PER-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+최고 가 3 위 는 올해 4 월 서울 옥션 홍콩 경매 에서 약 48 억 7000 만 원 에 낙찰된 1970 년 작 ’ 무제 ‘ ( Untitled ) 다 .	O O O O O O DAT-B DAT-I O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O DAT-B DAT-I O O O O O O O O O
+대한 상공 회의소 는 ‘ 능력 중심 채용 모델 ’ 확산 을 위해 기업 들 에게 직무 중심 입사 지원서 를 개발해 주 고 , 필기시험 직무 적성 검사 를 출제해 주 고 있 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 지난 1 월 20 일 국회 본회의 에서 의결된 공직 선거법 개정안 에 따르 면 , 선거 당일 인 9 일 에 도 인터넷 · 전자 우편 · 문자 메시지 를 이용한 선거 운동 이 가능해 졌 다 .	O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+원유철 상임 위 에 제 2 소위 를 두 는 것 에 대해 우리 도 긍정적 으로 검토하 겠 습니다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+제주 영어 교육 도시 는 교육 과 글로벌 문화 라는 핵심 역량 이 강화된 도시 로 동북아시아 의 교육 허브 기능 을 수행할 것 이 다 .	LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O LOC-B O O O O O O O O O O
+” 제주 영어 교육 도시 가 위치한 곳 은 제주 서남쪽 인 서귀포 대정읍 일대 . JDC 는 이곳 에 2021 년 까지 1 조 7810 억 원 을 투입해 379 만 2000 ㎡ ( 115 만 평 ) 규모 로 도시 를 조성 중 이 다 .	O LOC-B LOC-I LOC-I LOC-I O O O O LOC-B O O LOC-B LOC-B O O ORG-B O O O DAT-B DAT-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O
+루고 의 콜드 브루 커피 는 차가 운 물 에서 오랜 시간 에 걸쳐 추출한 더치커피 의 부드럽 고 깊 은 맛 을 시원하 게 즐길 수 있 는 커피 음료 로 시 그니 처 콜드 브루 , 콜드 브루 큐브 라떼 , 콜드 브루 플랏 등 3 종 으로 선보인다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+역시 패딩 , 코트 등 외투 물량 을 브랜드 별 로 20 ∼ 30 % 늘려 준비 했 다 .	O O O O O O O O O O O O O O O O O O O O
+시장 에선 실적 악화 속 에서 도 배당 을 늘린 삼성전자 의 결정 을 두 가지 로 해석 했 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O
+이번 대회 에서 영진 전문대 는 우 수상 등 14 명 이 입상 했 다 .	O O O ORG-B ORG-I O O O O O O O O O O O
+이봉주 • 김영호 등 전 국가 대표 선수 들 의 참석해 전시 물품 을 기증하 는 행사 가 성황리 에 치 러 졌 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+강원 라마다 는 평창 올림픽 최대 수혜 지 로 올림픽 을 테마 로 한 객실 중 일부 를 올림픽 스타 들 의 스토리 로 꾸며 숙박 객 에게 테디 베어 디자인 금메달 을 증정하 며 , 수익 일부 를 올림픽 스타 의 이름 으로 기부하 는 테마 호텔 로 꾸며 질 예정 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

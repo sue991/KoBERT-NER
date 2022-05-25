@@ -1,14 +1,14 @@
-그동안 더블린 규약은 이탈리아, 그리스, 헝가리 등 EU 외부와 국경을 맞대고 있는 국가들에만 부담을 지우고 독일 영국 등 국경이 맞닿아 있지 않은 다른 국가들에는 난민 입국을 거부하+ㄹ 수 있는 근거가 되+어+았다 .	O O O ORG-B ORG-B ORG-B O ORG-B O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O O O
-김진현은 4일 호주 시드니에서 열리+ㄴ 사우디아라비아와의 평가전에 선발출장하였다 .	PER-B O LOC-B LOC-I O ORG-B O O O
-또한 그는 외국어 능력 부문에서는 토익(TOEIC) 500점을 보유하고 있으며, 비록 '하(下)' 수준이 기+ㄴ하지만 덴마크 어도 하+ㄹ줄 알+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-한반도 최고·최대 수리시설 김제 벽골제, 초낭 확 .	LOC-B O O LOC-B LOC-I O O O
-검찰은 이어 “황씨가 1998년 방북 후판 문점을 통하+여 남한으로 오+ㄹ 때 +ㄴ 없었던 일기장이 어떻게 황씨에게 전달되었는지 수사하+여야 하+ㄴ다”고 주장 하+ㄴ 것으로 알려지었다 .	O O PER-B O O O O O LOC-B O O O O O O PER-B O O O O O O O O
-또 전용면적 대비 약 50%의 발코니 설치와 넓은 현 관 계획을 통하+여수납을 극대화 하+ㄴ 특징이 있다 .	O O O O O O O O O O O O O O O O O
-LG전자는 초소형 포토프린터 ‘포켓포토’ 신제품을 21일 선보이었다 .	ORG-B O O O O O O O
-이 친구들은 조희연 서울시교육청 교육감, 백선기 해운대구청장, 김규태 전북교육청 부교육감에게 자신들의 정책을 직접 소개하기도 +였죠.세이브더칠드런의 ‘어린이 권리옹호활동가 캠프’에 참가 하+ㄴ 어린이 활동가들의 얘기+이+ㄴ데요.이 캠프는 지나 +ㄴ 7월 서울과 부산, 전북 임실에서 각각 열리었어요 .	O O PER-B LOC-B O PER-B O PER-B LOC-B O O O O O ORG-B O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-B O O O
-정치권, ‘靑 파견검사 재임용 2년 금지’ 법 개정 합 .	O ORG-B O O O O O O O O
-애니메이션의 명가 ‘픽사’의 신작 ‘인사이드 아웃’이 오늘(9일) 개봉하+ㄴ다 .	O O ORG-B O O O O O O
-참가신청은 31일부터 공식 홈페이지를 통하+여 가능하다 .	O O O O O O O
-1인 가구가 가정에서 먹을 때 500ml는 부족하고, 2L는 혼자 마시기에 +ㄴ 많아 개봉 후보 존기간이 길어지+어 불편하였다 .	O O O O O O O O O O O O O O O O O O
-자세 하+ㄴ 내용은 기업 경영컨설팅 전문기업인 비즈니스 마이트(bizmight. co.kr), 기업 경영상담센터(hand.bizmight. co.kr) 참고. 김성국 전문위원·비즈니스 마이트 기업 경영상담센 .	O O O O O O ORG-B ORG-I PER-I O O O PER-B PER-I ORG-B ORG-I O O O
-특히 S사는 장비를 납품하기 전에 선급금 명목으로 이미 100억원 가량을 챙기+ㄴ 것으로 알려지었다 .	O ORG-B O O O O O O MNY-B O O O O O
+그동안 더블린 규약 은 이탈리아 , 그리스 , 헝가리 등 EU 외부 와 국경 을 맞대 고 있 는 국가 들 에 만 부담 을 지우 고 독일 영국 등 국경 이 맞닿 아 있 지 않 은 다른 국가 들 에 는 난민 입국 을 거부할 수 있 는 근거 가 돼 왔 다 .	O O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김진현 은 4 일 호주 시드니 에서 열린 사우디아라비아 와 의 평가전 에 선발 출장 했 다 .	PER-B O DAT-B DAT-I LOC-B LOC-I O O ORG-B O O O O O O O O O
+또한 그 는 외국어 능력 부문 에서 는 토익 ( TOEIC ) 500 점 을 보유하 고 있 으며 , 비록 ' 하 ( 下 ) ' 수준 이 긴 하 지만 덴마크 어 도 할 줄 안다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한반도 최고 · 최대 수리 시설 김제 벽골제 , 초 낭 확인	LOC-B O O O O O LOC-B LOC-I O O O O
+검찰 은 이어 “ 황 씨 가 1998 년 방북 후 판문점 을 통해 남한 으로 올 땐 없 었 던 일기장 이 어떻 게 황 씨 에게 전달 됐 는지 수사해야 한다 ” 고 주장한 것 으로 알려 졌 다 .	O O O O PER-B O O DAT-B DAT-I O O O O O LOC-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+또 전용면적 대비 약 50 % 의 발코니 설치 와 넓 은 현관 계획 을 통해 수납 을 극대화한 특징 이 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+LG 전자 는 초소형 포토 프린터 ‘ 포켓 포토 ’ 신제품 을 21 일 선보 였 다 .	ORG-B ORG-I O O O O O O O O O O DAT-B DAT-I O O O O
+이 친구 들 은 조희연 서울시 교육청 교육감 , 백선기 해운대 구청장 , 김규태 전북 교육청 부 교육감 에게 자신 들 의 정책 을 직접 소개하 기 도 했 죠 . 세이브더칠드런 의 ‘ 어린이 권리 옹호 활동 가 캠프 ’ 에 참가한 어린이 활동가 들 의 얘긴데 요 . 이 캠프 는 지난 7 월 서울 과 부산 , 전북 임실 에서 각각 열 렸 어요 .	O O O O PER-B ORG-B ORG-I O O PER-B O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B O LOC-B O LOC-B LOC-B O O O O O O
+정치권 , ‘ 靑 파견 검사 재임용 2 년 금지 ’ 법 개정 합의	O O O ORG-B O O O O O O O O O O
+애니메이션 의 명가 ‘ 픽사 ’ 의 신작 ‘ 인사이드 아웃 ’ 이 오늘 ( 9 일 ) 개봉한다 .	O O O O ORG-B O O O O O O O O O O DAT-B DAT-I O O O
+참가 신청 은 31 일 부터 공식 홈페이지 를 통해 가능하 다 .	O O O DAT-B DAT-I O O O O O O O O
+1 인 가구 가 가정 에서 먹 을 때 500 ml 는 부족하 고 , 2 L 는 혼자 마시 기 엔 많 아 개봉 후 보존 기간 이 길 어 져 불편 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자세한 내용 은 기업 경영 컨설팅 전문 기업인 비즈니스 마이트 ( bizmight . co . kr ) , 기업 경영 상담 센터 ( hand . bizmight . co . kr ) 참고 . 김성국 전문 위원 · 비즈니스 마이트 기업 경영 상담 센터	O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O ORG-B ORG-I O O O O
+특히 S 사 는 장비 를 납품하 기 전 에 선급금 명목 으로 이미 100 억 원 가량 을 챙긴 것 으로 알려 졌 다 .	O ORG-B O O O O O O O O O O O O MNY-B MNY-I O O O O O O O O O O

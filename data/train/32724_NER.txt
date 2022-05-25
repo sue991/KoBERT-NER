@@ -1,15 +1,15 @@
-‘응팔’ 촬영 현장 스태프 사이에서도 여자친구에 관하+ㄴ 이야기가 알려지+어 있을 정도로, 안재홍은 자신의 사랑을 숨기지 않고 적극적으로 드러내고 있다 .	O O O O O O O O O O O PER-B O O O O O O O O
-시진핑 국가주석은 김정은에게 보내+ㄴ 친서에서 “중조(中朝) 전통 우의는 양측 선대지도자들이 만들고 키우+ㄴ 공통의 보배”+이라면서 “전략적이고 장기적 이+ㄴ 안목에서 발전하기를 바라+ㄴ다”고 밝히었다 .	PER-B O PER-B O O ORG-B O O O O O O O O O O O O O O O O
-특히 20년 만에 스웨덴 최고령 도시에서 최연소 도시로 바뀌+ㄴ 것은 놀랍ㄴ 변화+이다 .	O O O ORG-B O O O O O O O O O
-내가 챔프 전까지 오는데 11년이 걸리었다 .	O O O O O O O
-이런 반응들을 미루어 짐작하었을 이 대표가 방북 카드를 신년 회견에서 던지+ㄴ 것은, 성사 여부와 상관없이 그 자체로서 「정치적 승부」의 의미를 지니 +ㄴ 것으로 보지 않을 수 없다 .	PER-B O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O
-고향은 둔 국문학자 김열규씨(명사들의 국악이야기 .	O O O PER-B O O
-동작구 성대시장 입구에서 국사봉골짜기 언저리+이다 .	LOC-B LOC-I O LOC-B O O
-선동열은 해태에서 뛰던 1985년부터 1991년까지 7시즌 동안 투수 평균 자책 부문 1위를 한 번도 놓치지 않았다 .	PER-B ORG-B O O O O O O O O O O O O O O O
-이에 따르 아기존 30개들이 한 판(대란 기준)에 6580원이던 계란 소비자가는 6980원으로 인상되 +ㄴ다 .	O O O O O O O MNY-B O O MNY-B O O O
-그렇었던 그가 ‘비박’ ‘탈박’의 대표 인사로 분류되니 실감이 안나+ㄹ 수밖에.이번 인터뷰에서 그는 친박이던 10년 전을 떠올리며 청와대를 겨냥하였다 .	O O ORG-B ORG-B O O O O O O O O ORG-B O O O ORG-B O O
-오대리는 1980년대청댐이 생기면서 육지 속 섬이 되+ㄴ 마을이다 .	LOC-B LOC-B O O O O O O O
-교재는 1월 말쯤 건보공단 홈페이지에 싣어 공개 하+ㄹ 예정이다 .	O LOC-B O ORG-B O O O O O O
-일본 언론과 인터뷰 하+ㄴ 미국 정치지도자들도 아베 총리의 역사인식에 대하+ 여 즉각 환영의 뜻을 나타내+어신미일 동맹의 관계를 재확인 하+여주+ㄴ 느낌을 갖게 +였다 .	LOC-B O O O LOC-B O PER-B O O O O O O O ORG-B ORG-I O O O O O O O
-최근 손예진의 ‘비밀은 없다’와 김혜수의 ‘굿바이 싱글’이 연잇어 개봉하+여 여배우의 활약과 성과를 알리+ㄴ 가운데 김옥빈이 ‘악녀’를 통하+여 그 대열에 합류하+ㄹ 지시선이 쏠리고 있다 .	O PER-B O O PER-B O O O O O O O O O PER-B O O O O O O O O O
-부동산 정보업체 부동산써브에 따르면 이번 주 청약접수 12곳, 당첨자 발표 16곳, 당첨자 계약 20곳, 견본주택 개관 17곳 등이 예정되+어 있다 .	O O ORG-B O O O O O O O O O O O O O O O O O O
+‘ 응 팔 ’ 촬영 현장 스태프 사이 에서 도 여자 친구 에 관한 이야기 가 알려져 있 을 정도 로 , 안재홍 은 자신 의 사랑 을 숨기 지 않 고 적극적 으로 드러내 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+시진핑 국가주석 은 김정은 에게 보낸 친서 에서 “ 중조 ( 中朝 ) 전통 우의 는 양측 선대 지도자 들 이 만들 고 키운 공통 의 보배 ” 라면서 “ 전략적 이 고 장기적 인 안목 에서 발전하 기 를 바란다 ” 고 밝 혔 다 .	PER-B O O PER-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 20 년 만 에 스웨덴 최 고령 도시 에서 최 연소 도시 로 바뀐 것 은 놀라 운 변화 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O
+내 가 챔프 전 까지 오 는 데 11 년 이 걸 렸 다 .	O O O O O O O O O O O O O O O
+이런 반응 들 을 미루 어 짐작 했 을 이 대표 가 방북 카드 를 신년 회견 에서 던진 것 은 , 성사 여부 와 상관없이 그 자체 로서 「 정치적 승부 」 의 의미 를 지닌 것 으로 보 지 않 을 수 없 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고향 은둔 국문학자 김열규 씨 ( 명사 들 의 국악 이야기 )	O O O PER-B O O O O O O O O
+동작구 성대 시장 입구 에서 국사봉 골짜기 언저리 다 .	LOC-B LOC-I LOC-I O O LOC-B O O O O
+선동열 은 해태 에서 뛰 던 1985 년 부터 1991 년 까지 7 시즌 동안 투수 평균 자책 부문 1 위 를 한 번 도 놓치 지 않 았 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 기존 30 개 들 이 한 판 ( 대란 기준 ) 에 6580 원 이 던 계란 소비자 가 는 6980 원 으로 인상된다 .	O O O O O O O O O O O O O O O O MNY-B MNY-I O O O O O O MNY-B MNY-I O O O
+그 랬 던 그 가 ‘ 비 박 ’ ‘ 탈 박 ’ 의 대표 인사 로 분류되 니 실감 이 안 날 수 밖에 . 이번 인터뷰 에서 그 는 친 박 이 던 10 년 전 을 떠올리 며 청와대 를 겨냥 했 다 .	O O O O O O ORG-B ORG-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O ORG-B O O O O O
+오대리 는 1980 년 대청 댐 이 생기 면서 육지 속 섬 이 된 마을 이 다 .	LOC-B O DAT-B DAT-I LOC-B LOC-I O O O O O O O O O O O O
+교재 는 1 월 말 쯤 건보 공단 홈페이지 에 실 어 공개할 예정 이 다 .	O O LOC-B LOC-I O O ORG-B ORG-I O O O O O O O O O
+일본 언론 과 인터뷰한 미국 정치 지도자 들 도 아베 총리 의 역사 인식 에 대해 즉각 환영 의 뜻 을 나타내 신 미 일 동맹 의 관계 를 재확인해 준 느낌 을 갖 게 했 다 .	LOC-B O O O LOC-B O O O O PER-B O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O
+최근 손예진 의 ‘ 비밀 은 없 다 ’ 와 김혜수 의 ‘ 굿바이 싱글 ’ 이 연이 어 개봉해 여배우 의 활약 과 성과 를 알린 가운데 김옥빈 이 ‘ 악녀 ’ 를 통해 그 대열 에 합류할지 시선 이 쏠리 고 있 다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+부동산 정보 업체 부동산써브 에 따르 면 이번 주 청약 접수 12 곳 , 당첨자 발표 16 곳 , 당첨자 계약 20 곳 , 견본 주택 개관 17 곳 등 이 예정돼 있 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

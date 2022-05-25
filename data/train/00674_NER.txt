@@ -1,14 +1,14 @@
-다 망하+여가는 소련에 조국의 영토할 양에 동의 하+여야 하+ㄹ이유가 없었던 것이다 .	O O ORG-B O O O O O O O O O
-이날 홍상복은 강수찬(박근형 분)의 지시로 오아란을 납치하러 나서+었다 .	O PER-B PER-B O O PER-B O O O
-프로 선수는 7∼8명에 불과하였고, 아마추어 선수들을 합치+ 어도겨우 11명이었다 .	O O O O O O O O O O
-문성민은 1, 2세트 때 공격 성공률이 36.4%(22개 시도 8개 성공)에 그치었고, 현대캐피탈도 대한항공에 0-2로 끌려가고 있었다 .	PER-B O O O O O O O O O O ORG-B ORG-B O O O O
-멤버십 애플리케이션에서 ‘화담숲 무료 입장 쿠폰’을 내리+어받을 수 있다 .	O O O O O O O O O O
-1, 2일에도 수도권 총력 지원에 나서 +ㄹ 계획이다 .	O O O O O O O O O
-양 과장은 입사 이래 『복장이 그것+이 뭐 +이냐 』『정장을 하라 』는 「압력」을 무수하게 받았지만 넥타이를 매면 갑갑하+여 생각이 잘 안 떠오르+ㄴ다며 버티+ㄴ 끝에 「방치」되는 성공을 거두었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-환절기 면역력 강화식품, "하루 OO 하나만 먹으면 의사가 필요 없어 "환절기를 맞고 일교차가 크+ㄴ 날씨 탓에 감기 환자가 늘며 면역력을 강화하는 식품에 대하+ㄴ누리꾼들의 관심이 뜨겁다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-삼성서울병원은 과거 블로그를 통하+여환절기 면역력 강화에 도움이 되는 슈퍼푸드 7가지를 소개하였다 .	ORG-B O O O O O O O O O O O
-그러나 1994년부터 2013년까지 19년 동안 말뫼 시장을 지내+었던 일마르 레팔루 전시장(72)은 단호하었다 .	O O O O O ORG-B O O PER-B PER-I O O O
-결국 ‘아무것도 안 하느니 이거라도 +였다고 KBO가 보이어주고 싶어 +였다’는 해석을 피하+ㄹ길이 없다 .	O O O O O O ORG-B O O O O O O O
-KBO의 심판 재조사 발표는 우왕좌왕 처신의 결정판이다 .	ORG-B O O O O O O O
-28일 시장조사업체에프엔가이드에 따르면 지나+ㄴ 27일 기준 증권사 24곳이 추정하+ㄴ올해 1분기 삼성전자 영업이익은 평균 9조1196억원이다 .	O O O O O O O O O O ORG-B O O MNY-B O
-학생기자들이 85~90도 각도로 날리+ㄴ 종이비행기들은 전부 수직으로 올라가 +았다가 수직으로 낙하하는 모습을 보이었다 .	O O O O O O O O O O O O O O
+다 망해 가 는 소련 에 조국 의 영토 할양 에 동의해야 할 이유 가 없 었 던 것 이 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O
+이날 홍상복 은 강수찬 ( 박근형 분 ) 의 지시 로 오아란 을 납치하 러 나섰 다 .	O PER-B O PER-B O PER-B O O O O O PER-B O O O O O O
+프로 선수 는 7 ∼ 8 명 에 불과 했 고 , 아마추어 선수 들 을 합쳐도 겨우 11 명 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+문성민 은 1 , 2 세트 때 공격 성공 률 이 36.4 % ( 22 개 시도 8 개 성공 ) 에 그 쳤 고 , 현대캐피탈 도 대한항공 에 0 - 2 로 끌려가 고 있 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O
+멤버십 애플리케이션 에서 ‘ 화담 숲 무료입장 쿠폰 ’ 을 내려 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O
+1 , 2 일 에 도 수도권 총력 지원 에 나설 계획 이 다 .	O O DAT-B DAT-I O O O O O O O O O O O
+양 과장 은 입사 이래 『 복장 이 그게 뭐 냐 』 『 정장 을 하 라 』 는 「 압력 」 을 무수하 게 받 았 지만 넥타이 를 매 면 갑갑해 생각 이 잘 안 떠오른다며 버틴 끝 에 「 방치 」 되 는 성공 을 거 뒀 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+환절기 면역력 강화식품 , " 하루 OO 하나 만 먹 으면 의사 가 필요 없 어 " 환절기 를 맞 아 일교차 가 큰 날씨 탓 에 감기 환자 가 늘 며 면역력 을 강화하 는 식품 에 대한 누리 꾼 들 의 관심 이 뜨겁 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성서울병원 은 과거 블로그 를 통해 환절기 면역력 강화 에 도움 이 되 는 슈퍼 푸드 7 가지 를 소개 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+그러나 1994 년 부터 2013 년 까지 19 년 동안 말뫼 시장 을 지냈 던 일 마르 레팔 루 전 시장 ( 72 ) 은 단호 했 다 .	O O O O O O O O O O ORG-B O O O O PER-B PER-I PER-I PER-I O O O O O O O O O O
+결국 ‘ 아무 것 도 안 하 느니 이거 라도 했 다고 KBO 가 보 여 주 고 싶 어 했 다 ’ 는 해석 을 피할 길 이 없 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+KBO 의 심판 재조사 발표 는 우왕좌왕 처신 의 결정판 이 다 .	ORG-B O O O O O O O O O O O O
+28 일 시장 조사 업체 에프앤가이드 에 따르 면 지난 27 일 기준 증권사 24 곳 이 추정한 올해 1 분기 삼성전자 영업 이익 은 평균 9 조 1196 억 원 이 다 .	DAT-B DAT-I O O O ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O O O ORG-B O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+학생 기자 들 이 85 ~ 90 도 각도 로 날린 종이비행기 들 은 전부 수직 으로 올라갔 다가 수직 으로 낙하하 는 모습 을 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

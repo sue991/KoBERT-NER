@@ -1,16 +1,16 @@
-익명을 요구하+ㄴ한 전문가는 “엉뚱하+ㄴ 복지에 돈을 쓰느라 정작 필요하+ㄴ 장애인 건강증진은 방치되+어+았다”고 지적 하+ㄴ다 .	O O O O O O O O O O O O O O O
-변용찬 한국보건사회연구원 선임연구위원은 “장애인 건강관리는 복지서비스나 비장애인 건강증진과 다르다 .	PER-B ORG-B O O O O O O O O
-[똑똑하+ㄴ 금요일] 힘 꺾이+ㄴ ‘케말리즘’… 터키, 이슬람주의 국가로 회귀 하 .	O O O O O ORG-B ORG-B O O O O
-한국은 5-2로 이기+어 세계선수권에서 우승하였다 .	ORG-B O O O O O
-김단비는 “워크숍 프로그램 중 신입사원들을 만나는 시간이 있었다 .	PER-B O O O O O O O O
-“카드 영수증이 발급 안 되+ㄴ다”는 기사의 속임수에 넘어가 +아130만원의 ‘바가지 요금’을 쓰+ㄴ 사례가 있다 .	O O O O O O O O MNY-B O O O O O O
-함 소원과장 웨이는 2014년 결별을 +였다 .	O O O O O O O
-야스쿠니 참배를 지지 또는 반대하는 사람들이 신사 주변에서 각각 시위를 벌이는 가운데 참배를 강행 하+ㄴ이들 각료의 대부분은 개인 자격으로 참배하였다고 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O
-그는 “노벨상 받을 것이라고 기대하였는가” +이란사 공일본 사 고문의 질문에 “노벨상을 받는 가장 안전하+ㄴ길은 그것에 대하+여 생각하지 않는 것이다 .	O O O O O O O O O O O O O O O O O O O O
-SK그룹이 계속 에너지·화학 중심에서 머물다가 +ㄴ서서히 고사(枯死)하는 ‘슬로데스(SlowDeath)’에 직면하+ㄹ 것이라고 임직원들을 재촉하었다 .	ORG-B O O O O O O O O O O O O
-구글은 이에 앞서 +어2012년에는 인공지능 기술로 유튜브에 올라 오+ㄴ 수많은 동영상 중에서 고양이 영상을 가려내는 데도 성공하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-이러하+ㄴ 작은 밀도 차이가 정말 태초부터 있었던 것이면 우주 배경 복사가 시작하+ㄴ 30만년에는 그 밀도 차의 크기가 대략 10만분의 1 정도+이어야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O
-5월 중순까지 이어지는 봄 여행주간에 농촌관광지를 방문하면 식사와 숙박 등을 20% 할인 받을 수 있다 .	O O O O O O O O O O O O O O O O
-GS의 주력 자회사 이+ㄴ GS칼텍스는 1967년 5월 국내 최초의 민간 정유회사 이+ㄴ 호남 정유로 출범 하+ㄴ 이래 1996년 LG칼텍스 정유로, 2005년 GS칼텍스로 사명을 변경하였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O O
-아베 총리가 궁지에 몰리+ㄹ 때마다 입버릇처럼 핑계를 대+어오+ㄴ 대상이 +ㄴ 역사학자들이 이번에 단체로 성명을 내+ㄴ 것이다 .	PER-B O O O O O O O O O O O O O O O O
-26일 서울중앙지법 형사18단독 오윤경 판사는 무고 등 혐의로 불구속 기소되+ㄴ 박씨에 대하+여 “혐의를 부인하며 잘못을 반성하지 않았고 피해자로부터 용서받지도 못하였다”고 선고 이유를 밝히었다 .	O ORG-B O PER-B O O O O O O PER-B O O O O O O O O O O O O O
+익명 을 요구한 한 전문가 는 “ 엉뚱한 복지 에 돈 을 쓰 느라 정작 필요한 장애인 건강 증진 은 방치돼 왔 다 ” 고 지적한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+변용찬 한국 보건 사회 연구원 선임 연구 위원 은 “ 장애인 건강 관리 는 복지 서비스 나 비 장애인 건강 증진 과 다르 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+[ 똑똑한 금요일 ] 힘 꺾인 ‘ 케말 리즘 ’ … 터키 , 이슬람 주의 국가 로 회귀 하나	O O O O O O O O O O O ORG-B O ORG-B O O O O O
+한국 은 5 - 2 로 이겨 세계 선수권 에서 우승 했 다 .	ORG-B O O O O O O O O O O O O O
+김단비 는 “ 워크숍 프로그램 중 신입 사원 들 을 만나 는 시간 이 있 었 다 .	PER-B O O O O O O O O O O O O O O O O O
+“ 카드 영수증 이 발급 안 된다 ” 는 기사 의 속임수 에 넘어가 130 만 원 의 ‘ 바가지 요금 ’ 을 쓴 사례 가 있 다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+함소 원 과 장웨이 는 2014 년 결별 을 했 다 .	PER-B PER-I O PER-B O DAT-B DAT-I O O O O O
+야스쿠니 참배 를 지지 또는 반대하 는 사람 들 이 신사 주변 에서 각각 시위 를 벌이 는 가운데 참배 를 강행한 이 들 각료 의 대부분 은 개인 자격 으로 참배 했 다고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 노벨상 받 을 것 이 라고 기대 했 는가 ” 란 사공일 본사 고문 의 질문 에 “ 노벨상 을 받 는 가장 안전한 길 은 그것 에 대해 생각하 지 않 는 것 이 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+SK 그룹 이 계속 에너지 · 화학 중심 에서 머물 다간 서서히 고사 ( 枯死 ) 하 는 ‘ 슬로 데스 ( Slow Death ) ’ 에 직면할 것 이 라고 임직원 들 을 재촉 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+구글 은 이 에 앞서 2012 년 에 는 인공 지능 기술 로 유튜브 에 올라온 수많 은 동영상 중 에서 고양이 영상 을 가려내 는 데 도 성공 했 다 .	ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+이러한 작 은 밀도 차이 가 정말 태초 부터 있 었 던 것 이 면 우주 배경 복사 가 시작한 30 만 년 에 는 그 밀도 차 의 크기 가 대략 10 만 분 의 1 정도 여야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5 월 중순 까지 이어지 는 봄 여행 주간 에 농촌 관광지 를 방문하 면 식사 와 숙박 등 을 20 % 할인 받 을 수 있 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+GS 의 주력 자회사 인 GS 칼텍스 는 1967 년 5 월 국내 최초 의 민간 정유 회사 인 호남정유 로 출범한 이래 1996 년 LG 칼텍스 정유 로 , 2005 년 GS 칼텍스 로 사명 을 변경 했 다 .	ORG-B O O O O ORG-B ORG-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O ORG-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O DAT-B DAT-I ORG-B ORG-I O O O O O O O
+아베 총리 가 궁지 에 몰릴 때 마다 입버릇 처럼 핑계 를 대 온 대상 인 역사학 자 들 이 이번 에 단체 로 성명 을 낸 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+26 일 서울중앙지법 형사 18 단독 오윤경 판사 는 무고 등 혐의 로 불구속 기소된 박 씨 에 대해 “ 혐의 를 부인하 며 잘못 을 반성하 지 않 았 고 피해자 로부터 용서 받 지 도 못 했 다 ” 고 선고 이유 를 밝 혔 다 .	DAT-B DAT-I ORG-B O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,11 +1,11 @@
-”안 의원과 인터뷰를 마치고 나가는 길에 문득 추가하고 싶은 질문 하나가 떠오르았다 .	PER-B O O O O O O O O O O O O
-나+의 관점은 남북 접근 과정이 어떤 경우에도 중단되+어서는 안 되+ㄴ다는 것이다 .	O O ORG-B O O O O O O O O O
-직장인 안기혁(34·가명)씨는 철저하+ㄴ식단관리와 꾸준하+ㄴ 운동 덕에 20㎏ 감량에 성공하였다 .	O PER-B O O O O O O O O
-이 가방은 전현무의 가방이 맞다”고 정리하+여 폭소를 유발하였다 .	O O PER-B O O O O O O
-집이나 직장 주변의 대피소 위치를 미리 확인하려면 ‘안전 디딤돌’ 애플리케이션(앱)이나 국가재난정보센터 홈페이지(www.safekorea.go. kr)를 참고하면 되+ㄴ다 .	O O O O O O O O O O ORG-B O O O O O
-지난해 말 현재 국민연금을 가장 많이 받는 수급자는 광주의 A씨로 1988년부터 2010년까지 22년간 가입하+ㄴ 뒤 5년간 연금 지급을 연기하+여가산율을 적용받아 매월 187만원을 받고 있다 .	O O O O O O O O LOC-B PER-B O O O O O O O O O O O O O O O
-13일에도 중국 단체관광객들이 가이드의 설명을 듣으며 기념촬영을 하고 있었다 .	O ORG-B O O O O O O O O
-(한승수)”한 승수(국군체육부대)는 18일 강릉 아이스 아레나에서 열리+ㄴ ‘2016~2017 국제빙상경기연맹(ISU) 쇼트트랙월드컵 4차 대회’ 남자 500m 결승에서 동메달을 목에 걸었다 .	PER-B ORG-B O LOC-B LOC-I LOC-I O O O O O O O O O O O O O
-또한 기아 K5처럼 트림에 따르 아범퍼 형상을 구분하+ 여놓은 점도 독특하다 .	O ORG-B O O O O O O O O O O
-안 전 대표는 또 “호남은 반패권의 성지+이다 .	PER-B O O O LOC-B O O O
-5살 연상이었다 .	O O O
+” 안 의원 과 인터뷰 를 마치 고 나가 는 길 에 문득 추가하 고 싶 은 질문 하나 가 떠올 랐 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O
+내 관점 은 남북 접근 과정 이 어떤 경우 에 도 중단돼서 는 안된다는 것 이 다 .	O O O ORG-B O O O O O O O O O O O O O O
+직장인 안기혁 ( 34 · 가명 ) 씨 는 철저한 식단 관리 와 꾸준한 운동 덕 에 20 ㎏ 감량 에 성공 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+이 가방 은 전 현무 의 가방 이 맞 다 ” 고 정리해 폭소 를 유발 했 다 .	O O O PER-B PER-I O O O O O O O O O O O O O O
+집 이나 직장 주변 의 대피소 위치 를 미리 확인하 려면 ‘ 안전 디딤돌 ’ 애플리케이션 ( 앱 ) 이나 국가 재난 정보 센터 홈페이지 ( www . safekorea . go . kr ) 를 참고하 면 된다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O
+지난해 말 현재 국민 연금 을 가장 많이 받 는 수급 자 는 광주 의 A 씨 로 1988 년 부터 2010 년 까지 22 년 간 가입한 뒤 5 년 간 연금 지급 을 연기해 가산 율 을 적용 받 아 매월 187 만 원 을 받 고 있 다 .	O O O O O O O O O O O O O LOC-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+13 일 에 도 중국 단체 관광객 들 이 가이드 의 설명 을 들 으며 기념 촬영 을 하 고 있 었 다 .	DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O O O O
+( 한승수 ) ” 한승수 ( 국군 체육 부대 ) 는 18 일 강릉 아이스 아레나 에서 열린 ‘ 2016 ~ 2017 국제빙상경기연맹 ( ISU ) 쇼트트랙 월드컵 4 차 대회 ’ 남자 500 m 결승 에서 동메달 을 목 에 걸 었 다 .	O PER-B O O PER-B O ORG-B ORG-I ORG-I O O DAT-B DAT-I LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 기아 K 5 처럼 트림 에 따 라 범퍼 형상 을 구분해 놓 은 점 도 독특하 다 .	O ORG-B O O O O O O O O O O O O O O O O O O
+안 전 대표 는 또 “ 호남 은 반 패권 의 성지 다 .	PER-B O O O O O LOC-B O O O O O O O
+5 살 연상 이 었 다 .	O O O O O O O

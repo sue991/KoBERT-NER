@@ -1,15 +1,15 @@
-주택의 경우 현재까지 8만채의 주택을 공급하였고 도로와 공공시설 등 각종 기반시설을 구축하였다 .	O O O O O O O O O O O O O
-장위 1구역은 지하 2층∼지상 29층 10개동, 전용면적 59∼101m ²939채 중 490채를 일반분양 하+ㄴ다 .	LOC-B LOC-I O O O O O O O O O O O O
-하지만 “새누리당 윤상현 의원의 막말 사태 속에서 정 의원을 살리면 우리도 곤란하+여지+ㄴ다”는 반론이 우세하었던 것으로 알려지었다 .	O ORG-B PER-B O O O O O O O O O O O O O O
-이날 ‘런닝맨’ 멤버들은 김종국이 수애를 보면 얼굴이 빨개지+ㄴ다며 두 사람을 엮어 놀리기 시작하였다 .	O O O PER-B PER-B O O O O O O O O O
-”인공지능(AI) 비서 시장에 출사표를 던지+ㄴ삼성전자의 4일 간담회 자리에서 다 그 키틀로스비브랩스 최고경영자(CEO)는 AI가 바꾸+ㄹ 세상을 이렇게 요약하였다 .	O O O O ORG-B O O O O O ORG-B O O O O O O O
-이번 대표팀 소집을 앞두고 부상을 당하+ 여낙마하였지만, 슈틸리케 감독이 ‘믿고 쓰는’ 유일 하+ㄴ 공격 자원은 이정협이다 .	O O O O O O O PER-B O O O O O O O PER-B O
-표 의원의 사과에도 불구하고 보수진영의 반발은 계속되었다 .	PER-B O O O O O O O
-‘무한도전’ 못 친소우현, 외모 순위 예상질문하자 꼴찌로 지목하+ㄴ사람은? ‘폭소 .	ORG-B O PER-B O O O O O O O
-게다가 중학교 때는 양궁 선수에게 치명적이라는 클리커병이 찾아오아날마다 울고 불고 하+ㄴ적도 있다 .	O O O O O O O O O O O O O
-상반기를 목표로 준비하고 있다”며 “현재 5인 이상으로 구상 중이고 아직 컨셉트는 미정”이라고 설명하였다 .	O O O O O O O O O O O O O O
-전 민주는 최근 종영하+ㄴ ‘K팝스타6’에서 고아라 .	PER-B PER-I O O O PER-B O
-매장 매니저 이 모씨(24)는 “아르바이트생 무급휴가를 더 보내+어야 하+ㄹ 것 같다 .	O O PER-B PER-I PER-B O O O O O O O
-가격은 4만8000원(세금 및 봉사료 포함).기간은 3월 28일까지 +이다 .	O MNY-B O O O O O O O
-1백40군데에 펼쳐 지+ㄴ 우리 외교망에서 공관장을 빼고 3명 이상의 외교관이 근무하는 곳은 전체의 3분의 1도 안 되는 44개 공관에 불과하다 .	O O O O O O O O O O O O O O O O O O O O O
-朴 대통령 오바마-아베와 연쇄 통화… “다양하+ㄴ 제재 조치 강화 .	PER-B O PER-B O O O O O O O
+주택 의 경우 현재 까지 8 만 채 의 주택 을 공급 했 고 도로 와 공공시설 등 각종 기반 시설 을 구축 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+장위 1 구역 은 지하 2 층 ∼ 지상 29 층 10 개 동 , 전용면적 59 ∼ 101 m ² 939 채 중 490 채 를 일반 분양한다 .	LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 “ 새누리당 윤상현 의원 의 막말 사태 속 에서 정 의원 을 살리 면 우리 도 곤란해 진다 ” 는 반론 이 우세 했 던 것 으로 알려 졌 다 .	O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 ‘ 런닝맨 ’ 멤버 들 은 김종국 이 수애 를 보 면 얼굴 이 빨개진다며 두 사람 을 엮 어 놀리 기 시작 했 다 .	O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+” 인공 지능 ( AI ) 비서 시장 에 출사표 를 던진 삼성전자 의 4 일 간담회 자리 에서 다그 키틀 로스 비브 랩스 최고 경영자 ( CEO ) 는 AI 가 바꿀 세상 을 이렇 게 요약 했 다 .	O O O O O O O O O O O O ORG-B O DAT-B DAT-I O O O PER-B PER-I PER-I ORG-B ORG-I O O O O O O O O O O O O O O O O O
+이번 대표 팀 소집 을 앞두 고 부상 을 당해 낙마 했 지만 , 슈틸리케 감독 이 ‘ 믿 고 쓰 는 ’ 유일한 공격 자원 은 이정협 이 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O
+표 의원 의 사과 에 도 불구하 고 보수 진영 의 반발 은 계속 됐 다 .	PER-B O O O O O O O O O O O O O O O O
+‘ 무한도전 ’ 못 친소 우현 , 외모 순위 예상 질문하 자 꼴찌 로 지목한 사람 은 ? ‘ 폭소 ’	O ORG-B O O O PER-B O O O O O O O O O O O O O O O
+게다가 중학교 때 는 양궁 선수 에게 치명적 이 라는 클리커병 이 찾아 와 날 마다 울고불고 한 적 도 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+상반기 를 목표 로 준비하 고 있 다 ” 며 “ 현재 5 인 이상 으로 구상 중 이 고 아직 컨셉트 는 미정 ” 이라고 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전 민주 는 최근 종영한 ‘ K 팝 스타 6 ’ 에서 고아라 ,	PER-B PER-I O O O O O O O O O O PER-B O
+매장 매니저 이 모 씨 ( 24 ) 는 “ 아르바이트 생 무급 휴가 를 더 보내야 할 것 같 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+가격 은 4 만 8000 원 ( 세금 및 봉사료 포함 ) . 기간 은 3 월 28 일 까지 다 .	O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O
+1 백 40 군데 에 펼쳐진 우리 외교 망 에서 공관장 을 빼 고 3 명 이상 의 외교관 이 근무하 는 곳 은 전체 의 3 분 의 1 도 안되 는 44 개 공관 에 불과하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+朴 대통령 오바마 - 아베 와 연쇄 통화 … “ 다양한 제재 조치 강화 ”	PER-B O PER-B O PER-B O O O O O O O O O O

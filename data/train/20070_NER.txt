@@ -1,14 +1,14 @@
-한국납세자연맹(회장 김선택)은 “이번 연말정산 세법 개정은 정부의 세수 추계를 진실로 믿고 법을 통과시키+ㄴ 잘못이므로 이를 무효화하는 ‘근로자 증세 반대 서명운동’을 21일부터 연맹 홈페이지에서 시작하였다”고 21일 밝히었다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-납세자연맹은 “잘못되+ㄴ 세수 추계 자료를 바탕으로 작성되+어공평 하+ㄴ 기준, 일관성도 없는 세제개편안을 국회에 제출하+ 여 졸속으로 검토하+ㄴ법이 통과되면서 직장인 세금폭탄은 예고되+어 있었다”면서 “월급은 그대로 이+ㄴ데 세금과 4대 보험, 공과금, 생활물가만 오르면 유리지갑 직장인들은 빚을 내어 세금을 내+어야 하+ㄴ다”고 주장하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-납세자연맹은 이어 “연말정산 자동계산+이기로 시뮬레이션 하+여보+ㄴ 결과, ▲연봉 2360만원에서 3800만원 사이 이+ㄴ 미혼 직장인 17만원 증세 ▲작년 자녀 낳은 연봉 6000만원 직장인, 세 혜택 34만원 축소 ▲연봉 7500만원 맞벌이 직장 이+ㄴ 75만원 증세 등의 효과가 있었다”고 덧붙이었다 .	ORG-B O O O O O O O MNY-B MNY-B O O O O MNY-B O O O O O MNY-B O O O MNY-B O O MNY-B O O O MNY-B O O O O O O
-김관진-맥매스터도 20분 간 통화… EU ‘대북 투자금지 확대’ 추가 제 .	PER-B O O O ORG-B O O O O O O
-0-1로 뒤지던 2회 1아웃주자 1, 2루에서 등판 하+ㄴ동산고 이도현(2학년)은 곧바로 안타를 내주었다 .	O O O O O O O ORG-B PER-B O O O O
-유승민 의원은 2일 방송되는 JTBC ‘썰전’에서 ‘2017 대한민국 차기지도자는 누구가 되+ㄹ 것이 +ㄴ가? 유력 대선주자들과 함께하는 독하+ㄴ혀들의 전쟁’ 코너에게스트로 참여하+ㄴ다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O O
-트럼프, 손정의 면담 “日소프트뱅크, 美에 500억달러 투자 …내가 당선되 +ㄴ덕 .	PER-B PER-B O ORG-B ORG-B MNY-B O O O O O
-조직력을 내세우+ㄴ문 후보와 정반대가 유승민 후보+이다 .	O PER-B O O PER-B O O
-2013년에도 위장 염 증세로 예정되었던 로마 방문을 취소하였다 .	O O O O O LOC-B O O O
-기관은 현재 56곳에서 60곳으로, 인력은 684명에서 835명으로 올해 말까지 확대되 +ㄴ다 .	O O O O O O O O O O O O
-게이츠는 지나 +ㄴ 21년 동안 최고 갑부자리를 16차례차지하였다 .	PER-B O O O O O O O O
-중국을 대신 하+여 평화·민주·단결·통일대업의 기초를 공고히 +였다 .	ORG-B O O O O O O O
-시즌2는 메이커 교육자원봉사자(이하 멘토)들의 합류로 더 막강하여 +지+었습니다 .	O O O O O O O O O
-재력가 행세를 하며 여자친구에게 거액을 뜯어 호화생활을 하+여오+ㄴ 30대가 쇠고랑을 차+았다 .	O O O O O O O O O O O O
+한국 납세자 연맹 ( 회장 김선택 ) 은 “ 이번 연말정산 세법 개정 은 정부 의 세수 추계 를 진실로 믿 고 법 을 통과 시킨 잘못 이 므로 이 를 무효화 하 는 ‘ 근로자 증세 반대 서명 운동 ’ 을 21 일 부터 연맹 홈페이지 에서 시작 했 다 ” 고 21 일 밝 혔 다 .	ORG-B ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O DAT-B DAT-I O O O O
+납세자 연맹 은 “ 잘못된 세수 추계 자료 를 바탕 으로 작성돼 공평한 기준 , 일관성 도 없 는 세제 개편 안 을 국회 에 제출해 졸속 으로 검토한 법 이 통과되 면서 직장인 세금 폭탄 은 예고돼 있 었 다 ” 면서 “ 월급 은 그대로 인데 세금 과 4 대 보험 , 공과금 , 생활 물가 만 오르 면 유리 지갑 직장인 들 은 빚 을 내 어 세금 을 내야 한다 ” 고 주장 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+납세자 연맹 은 이어 “ 연말 정산 자동 계산 기로 시뮬레이션 해 본 결과 , ▲ 연봉 2360 만 원 에서 3800 만 원 사이 인 미혼 직장인 17 만 원 증세 ▲ 작년 자녀 낳 은 연봉 6000 만 원 직장인 , 세 혜택 34 만 원 축소 ▲ 연봉 7500 만 원 맞벌이 직장 인 75 만 원 증세 등 의 효과 가 있 었 다 ” 고 덧붙 였 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O O O O O O O MNY-B MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+김관진 - 맥매스터 도 20 분 간 통화 … EU ‘ 대북 투자 금지 확대 ’ 추가 제재	PER-B O PER-B O O O O O O ORG-B O O O O O O O O
+0 - 1 로 뒤지 던 2 회 1 아웃 주자 1 , 2 루 에서 등판한 동산고 이도현 ( 2 학년 ) 은 곧바로 안타 를 내 줬 다 .	O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O
+유승민 의원 은 2 일 방송되 는 JTBC ‘ 썰 전 ’ 에서 ‘ 2017 대한민국 차기 지도자 는 누 가 될 것 인가 ? 유력 대선 주자 들 과 함께하 는 독한 혀 들 의 전쟁 ’ 코너 에 게스트 로 참여한다 .	PER-B O O DAT-B DAT-I O O O O O O O O O DAT-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+트럼프 , 손정의 면담 “ 日 소프트뱅크 , 美 에 500 억 달러 투자 … 내 가 당선된 덕 ”	PER-B O PER-B O O ORG-B ORG-B O ORG-B O MNY-B MNY-I MNY-I O O O O O O O
+조직력 을 내세운 문 후보 와 정반대 가 유승민 후보 다 .	O O O PER-B O O O O PER-B O O O
+2013 년 에 도 위장염 증세 로 예정 됐 던 로마 방문 을 취소 했 다 .	DAT-B DAT-I O O O O O O O O LOC-B O O O O O O
+기관 은 현재 56 곳 에서 60 곳 으로 , 인력 은 684 명 에서 835 명 으로 올해 말 까지 확대된다 .	O O O O O O O O O O O O O O O O O O O O O O O
+게이츠 는 지난 21 년 동안 최고 갑부 자리 를 16 차례 차지 했 다 .	PER-B O O O O O O O O O O O O O O O
+중국 을 대신해 평화 · 민주 · 단결 · 통일 대업 의 기초 를 공고히 했 다 .	ORG-B O O O O O O O O O O O O O O O O O
+시즌 2 는 메이커 교육 자원 봉사자 ( 이하 멘토 ) 들 의 합류 로 더 막강해 졌 습니다 .	O O O O O O O O O O O O O O O O O O O O
+재력가 행세 를 하 며 여자 친구 에게 거액 을 뜯 어 호화 생활 을 해 온 30 대 가 쇠고랑 을 찼 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O

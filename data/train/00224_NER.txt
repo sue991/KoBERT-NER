@@ -1,15 +1,15 @@
-파트너 박신혜도 “이종석씨가 애교가 많아서 촬영하면서 비타민 같은 존재+이다 .	O PER-B PER-B O O O O O O O
-인천 팔미도 인근에서 정박 중이던 바지선 침수…인명 피해는 없 .	LOC-B LOC-I O O O O O O O O
-당시 BAS는 “핵무기 수만기가 국가안보를 보장하+ㄴ다는 환상이 사라지었다”며 환영하였다 .	O ORG-B O O O O O O O O
-‘사이먼 도미닉’ 쌈디의 신곡 ‘사이먼도미닉’이 발매되자마자 음원차트를 1위를 차지하였다 .	O O PER-B O O O O O O O
-쌈디는 12일 인스타그램을 통하+여 “제가 분명 가사에서 top 100 따위에 야 망없다고 얘기하었는데 여러분 감사하+여요” +이라는 글과 함께 사진을 올리었다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-공개되+ㄴ 사진 속에는 국내 주요 음원 사이트 이+ㄴ멜론, Mnet, 지니 등에서 쌈디의 신곡 ‘사이먼도미닉’이 실시간 차트 1위에 오르+ㄴ 것을 확인 하+ㄹ 수 있다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O
-한편 쌈디의 신곡 ‘사이먼도미닉’은 지나 +ㄴ 2006년 ‘사이먼 사이먼’이란 제목으로 발표되었던 곡을 새롭ㄴ 내용과 편곡으로 제작되+ㄴ곡으로 프로듀서 그레이와 함께 작업하였다 .	O PER-B O O O O O O O O O O O O O O O PER-B O O O
-‘사이먼 도미닉’ 소식을 접하+ㄴ누리꾼들은 “사이먼 도미닉, 노래 진짜 좋다” .	O O O O O O O O O O
-기획재정부 관계자는 “홍 전 회장은 정부가 파견 하+ㄴ이사와 달리 AIIB가 직접 채용 하+ㄴ사람으로 정부가 조치 하+ㄹ 수 있는 것+이 없다”고 말하였다 .	ORG-B O PER-B O O O O O O ORG-B O O O O O O O O O O O O
-다른 유럽 국가를 여행하는 데 대하+여서도 우려하는 이들이 적지 않았다 .	O LOC-B O O O O O O O O O
-냉장고를 부탁하+여소유, 냉장고 공개… ‘섹시女 아이돌’이 챙기+어먹는 음식은 .	O PER-B O O O O O O O
-그는 극적이 +ㄴ 실화를 소재로 하+ㄴ이 번 영화에서 존과 마크 두 인물의 심리를 촘촘히 묘사하는 데 주력하였다 .	O O O O O O O O PER-B PER-B O O O O O O O O
-이번에 T-50을 수입하는 태국 공군은 예산 문제로 4대만 우선 구입하였으나 앞으로 체코산 노후 훈련기(L-39)를 T-50으로 교체하+ㄹ 것이라고 KAI가 밝히었다 .	O O O ORG-B ORG-I O O O O O O O O O O O O ORG-B O O
-새누리당 정책위원회 산하 일자리 특별위원회는 이날 오전 국회에서 최상목 기획재정부 제1차관 등 정부 당국자들과 당정회의를 열어 최근 부실기업 구조조정에 따르+ㄴ 실업 문제와 관련, 추경 편성 의견을 전달하였다고 추경호 특위 부위원장이 브리핑에서 밝히었다 .	ORG-B O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O O
-회의에 참석하+ㄴ 최상목 기획재정부 제1차관은 추경 편성 요구에 직접적으로 언급하지는 않았지만 “여러 필요성을 느끼고 있고, 재정의 역할에 관하+여서 현재 검토를 하고 있다”고 답하였다고 추 부위원장은 전하였다 .	O O PER-B ORG-B O PER-B O O O O O O O O O O O O O O O O O PER-B O O O
+파트너 박신혜 도 “ 이종석 씨 가 애교 가 많 아서 촬영하 면서 비타민 같 은 존재 다 .	O PER-B O O PER-B O O O O O O O O O O O O O O
+인천 팔미도 인근 에서 정박 중 이 던 바지선 침수 … 인명 피해 는 없 어	LOC-B LOC-I O O O O O O O O O O O O O O
+당시 BAS 는 “ 핵무기 수만 기 가 국가 안보 를 보장한다는 환상 이 사라 졌 다 ” 며 환영 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O
+‘ 사이먼 도미닉 ’ 쌈디 의 신곡 ‘ 사이먼 도미닉 ’ 이 발매되 자마자 음원 차트 를 1 위 를 차지 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O
+쌈디 는 12 일 인스타그램 을 통해 “ 제 가 분명 가사 에서 top 100 따위 에 야망 없 다고 얘기 했 는데 여러분 감사해요 ” 라는 글 과 함께 사진 을 올 렸 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공개된 사진 속 에 는 국내 주요 음 원 사이트 인 멜론 , Mnet , 지니 등 에서 쌈디 의 신곡 ‘ 사이먼 도미닉 ’ 이 실시간 차트 1 위 에 오른 것 을 확인할 수 있 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+한편 쌈디 의 신곡 ‘ 사이먼 도미닉 ’ 은 지난 2006 년 ‘ 사이먼 사이먼 ’ 이 란 제목 으로 발표 됐 던 곡 을 새로 운 내용 과 편곡 으로 제작된 곡 으로 프로듀서 그레이 와 함께 작업 했 다 .	O PER-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
+‘ 사이먼 도미닉 ’ 소식 을 접한 누리 꾼 들 은 “ 사이먼 도미닉 , 노래 진짜 좋 다 ” ,	O O O O O O O O O O O O O O O O O O O O O
+기획 재정부 관계자 는 “ 홍 전 회장 은 정부 가 파견한 이사 와 달리 AIIB 가 직접 채용한 사람 으로 정부 가 조치할 수 있 는 게 없 다 ” 고 말 했 다 .	ORG-B ORG-I O O O PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+다른 유럽 국가 를 여행하 는 데 대해서 도 우려하 는 이 들 이 적 지 않 았 다 .	O LOC-B O O O O O O O O O O O O O O O O O O
+냉장고 를 부탁해 소유 , 냉장고 공개 … ‘ 섹시 女 아이돌 ’ 이 챙겨 먹 는 음식 은 ?	O O O PER-B O O O O O O O O O O O O O O O O
+그 는 극적 인 실화 를 소재 로 한 이번 영화 에서 존 과 마크 두 인물 의 심리 를 촘촘히 묘사하 는 데 주력 했 다 .	O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O
+이번 에 T - 50 을 수입하 는 태국 공군 은 예산 문제 로 4 대 만 우선 구입 했 으나 앞 으로 체코 산 노후 훈련기 ( L - 39 ) 를 T - 50 으로 교체할 것 이 라고 KAI 가 밝 혔 다 .	O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O
+새누리당 정책 위원회 산하 일자리 특별 위원회 는 이날 오전 국회 에서 최상목 기획 재정부 제 1 차관 등 정부 당국자 들 과 당정 회의 를 열 어 최근 부실 기업 구조 조정 에 따른 실업 문제 와 관련 , 추경 편성 의견 을 전달 했 다고 추경호 특위 부위원장 이 브리핑 에서 밝 혔 다 .	ORG-B O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+회의 에 참석한 최상목 기획 재정부 제 1 차관 은 추경 편성 요구 에 직접적 으로 언급하 지 는 않 았 지만 “ 여러 필요성 을 느끼 고 있 고 , 재정 의 역할 에 관해서 현재 검토 를 하 고 있 다 ” 고 답 했 다고 추 부위원장 은 전 했 다 .	O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O

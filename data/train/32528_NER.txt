@@ -1,11 +1,11 @@
-미국이 69%, 일본이 26%를 차지하+ㄴ다 .	ORG-B O ORG-B O O O
-이날 무대에서 박보검은 피아노 반주와 함께 노래를 부르고 하트가 가득 하+ㄴ그림으로 팬들에게 우정을 전하였다 .	O O PER-B O O O O O O O O O O O O
-3 연승을 기록 중 이+ㄴ 4위 성남과 지나 +ㄴ 14일 FA컵 4강단판 경기에 서 울산에 2-1로 승리하며 FA컵 결승에 오르+ㄴ 5위 서울의 경기는 18일 오후 4시 탄천종합운동장에서 진행되+ㄴ다 .	O O O O O O ORG-B O O O O O O O ORG-B O O O O O O ORG-B O O O O LOC-B O O
-이제 주님 안에서 영원히 하나가 되려고 하는 우리 두 사람을 축복하+여달라”고 적었다 .	O PER-B O O O O O O O O O O O
-한편 차유람과 이지성 작가의 웨딩 촬영을 담당 하+ㄴ 스튜디오 측은 20일 인천의 한 교회에서 진행되+ㄴ 두 사람의 결혼식 사진 5장을 22일 공개하였다 .	O PER-B PER-B O O O O O O O O LOC-B O O O O O O O O O O O
-공개되+ㄴ 사진 속에는 주례 앞에서 수줍은 표정으로 미소를 짓고 있는 차유람과 행복하+ㄴ 표정의 이지성 작가의 모습이 담기 +어 있다 .	O O O O O O O O O O PER-B O O PER-B O O O O O O
-기욤 패트리는 과거 한 매체와의 인터뷰에서 “송민서가 성격이 진짜 좋다 .	PER-B PER-I O O O O PER-B O O O O
-[김식의 야구노트]팀워크 깨면 불리+어가+ㄴ다 .	O O O O O
-솔+ㄹ 지하니, 라이브 쇼케이스 EXID 귀엽ㅁ 작렬 EXID 솔+ㄹ 지하니 '오'인형과 깜찍하+ㄴ 포즈를 취하고 있다 .	O PER-B O O ORG-B O O ORG-B O PER-B PER-B PER-B O PER-B O O
-드림웍스의 새 애니메이션 ‘홈’의 개봉을 앞두고, 걸그룹 ‘EXID’의 솔+ㄹ 지하니와 함께하는 절친 라이브 쇼케이스가 12일 오후 영등포 타임스퀘어에서 열리었다 .	ORG-B O O O O O O ORG-B O O O O PER-B PER-I O O LOC-B LOC-I O O
-리하+ㄴ나 제니퍼 로페즈 스티브 마틴 등 헐리우드 최고 스타들이 더빙에 참여하였다 .	PER-B PER-I PER-I PER-I PER-I O LOC-B O O O O O
+미국 이 69 % , 일본 이 26 % 를 차지한다 .	ORG-B O O O O ORG-B O O O O O O
+이날 무대 에서 박 보검 은 피아노 반주 와 함께 노래 를 부르 고 하트 가 가득한 그림 으로 팬 들 에게 우정 을 전 했 다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+3 연승 을 기록 중 인 4 위 성남 과 지난 14 일 FA 컵 4 강 단판 경기 에서 울산 에 2 - 1 로 승리하 며 FA 컵 결승 에 오른 5 위 서울 의 경기 는 18 일 오후 4 시 탄천 종합 운동장 에서 진행된다 .	O O O O O O O O ORG-B O O DAT-B DAT-I O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-I LOC-I O O O
+이제 주님 안 에서 영원히 하나 가 되 려고 하 는 우리 두 사람 을 축복해 달 라 ” 고 적 었 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O
+한편 차 유람 과 이지성 작가 의 웨딩 촬영 을 담당한 스튜디오 측 은 20 일 인천 의 한 교회 에서 진행된 두 사람 의 결혼식 사진 5 장 을 22 일 공개 했 다 .	O PER-B PER-I O PER-B O O O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O DAT-B DAT-I O O O O
+공개된 사진 속 에 는 주례 앞 에서 수줍 은 표정 으로 미소 를 짓 고 있 는 차 유람 과 행복한 표정 의 이지성 작가 의 모습 이 담겨 있 다 .	O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O PER-B O O O O O O O O
+기욤 패트리 는 과거 한 매체 와 의 인터뷰 에서 “ 송민 서 가 성격 이 진짜 좋 다 .	PER-B PER-I O O O O O O O O O PER-B PER-I O O O O O O O
+[ 김 식 의 야구 노트 ] 팀워크 깨 면 불려 간다 ,	O O O O O O O O O O O O O
+솔지 하 니 , 라이브 쇼 케이스 EXID 귀여 움 작렬 EXID 솔지 하 니 ' 오 ' 인형 과 깜찍한 포즈 를 취하 고 있 다 .	PER-B PER-B PER-I O O O O ORG-B O O O ORG-B PER-B PER-B PER-I O PER-B O O O O O O O O O O O
+드림웍스 의 새 애니메이션 ‘ 홈 ’ 의 개봉 을 앞두 고 , 걸 그룹 ‘ EXID ’ 의 솔지 하니와 함께 하 는 절친 라이브 쇼케이스 가 12 일 오후 영등포 타임스퀘어 에서 열 렸 다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O PER-B O O O O O PER-B PER-I O DAT-B DAT-I TIM-B LOC-B LOC-I O O O O O
+리한 나 제니퍼 로페즈 스티브 마틴 등 헐리우드 최고 스타 들 이 더빙 에 참여 했 다 .	PER-B PER-I PER-I PER-I PER-I PER-I O LOC-B O O O O O O O O O O

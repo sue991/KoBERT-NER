@@ -1,13 +1,13 @@
-이에 앞서 +어만델라 ANC 의장은 이날 총선에서 「대규모 투표 방해」가 있었다며 투표를 29일까지 연장 하+ㄹ 것을 촉구하였다 .	O O PER-B ORG-B O O O O O O O O O O O O O O
-헌법재판소가 박근혜 대통령 탄핵심판 사건을 심리하+ㄴ지 두 달을 넘기면서 최종 변론기일이 점점 가시권에 들고 있다 .	ORG-B PER-B O O O O MNY-B MNY-I O O O O O O O O
-‘가인하와’가인의 네 번째 미니앨범 ‘하와’(Hawwah)의 더블 타이틀곡 ‘애플’(Apple)이 KBS 방송 부적격 판정을 받아 관심을 모으았다 .	PER-B O O O O O O O ORG-B O O O O O O O
-공연을 보시는 관객들은 작품이면에 숨어 있을지 모르는 진실도 머리에 떠올리+어보고, 트락슬러의 분석처럼 가엾게 희생되었을지 모르+ㄹ ‘마녀’ 카타리나에게도 한번쯤 동정을 보내+었으면 좋겠습니다 .	O O O O O O O O O O PER-B O O O O O PER-B O O O O O
-남북정상회담도 「 북한의 필요」에 의하+여서 이루어 지+ㄴ 것이 +ㄴ만큼, 무산되지는 않을 것이다 .	O O ORG-B O O O O O O O O O O
-예정화, 셀프주유中? 매끈하게 ‘쭉 뻗은’ 각선미 ‘어질어질’나 혼자 살+ㄴ 다 예정화 ‘나 혼자 살+ㄴ다 .	PER-B O O O O O O O O O PER-B O O O O
-외교부 장관은 양복을 수선하러 백화점에 가+았고, 정권 실세는 반발하는 농민을 설득하는 대신 정부를 비난하는 서명에 가세하였다 .	ORG-B O O O O O O O O O O O O O O O O
-옥수수를 체에 받치 +어찬물에 한두 번 헹구+ㄴ 뒤 조리 하+ㄴ다 .	O O O O O O O O O O O
-북한이 한국 내의 지하 당 조직으로 위장하고 있는 민민전은 김일성 사망에 따르 아 한국군과 경찰에 비상경계령이 내려 지+ㄴ 사실에 대하+여서도 『초상집에 불질하는 망동』이라고 비방하었다 .	ORG-B ORG-B O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O
-박 의장은 다른 말없이 “그래, 잘 좀 취조하+ 여보+아”라고 말하였다 .	PER-B O O O O O O O O O O
-박근혜 대통령의 국정수행 지지율이 ‘14일 임시공휴일 지정’ 등의 영향으로 반등해 40%대에 접근하+ㄴ 것으로 나타나 +았다 .	PER-B O O O O O O O O O O O O O O O
-신경성 급성 췌장염.90% 이상이 암으로 전이되는 무섭ㄴ병이었다 .	O O O O O O O O
-하지만 문 후보 측은 “고용정보원 인사 규정에는 해외 유학을 위하+ㄴ 휴직을 허용하고 있다”며 “우리 법원 판례에도 휴직기간을 퇴직금 산정을 위하+ㄴ 근속에 포함하고 있다”고 +였다 .	O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O
+이 에 앞서 만델라 ANC 의장 은 이날 총선 에서 「 대규모 투표 방해 」 가 있 었 다며 투표 를 29 일 까지 연장할 것 을 촉구 했 다 .	O O O PER-B ORG-B O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+헌법 재판소 가 박근혜 대통령 탄핵 심판 사건 을 심리한 지 두 달 을 넘기 면서 최종 변론 기일 이 점점 가시권 에 들 고 있 다 .	ORG-B ORG-I O PER-B O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O
+‘ 가인 하와 ’ 가인 의 네 번째 미니 앨범 ‘ 하와 ’ ( Hawwah ) 의 더블 타이틀 곡 ‘ 애플 ’ ( Apple ) 이 KBS 방송 부적격 판정 을 받 아 관심 을 모 았 다 .	O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+공연 을 보 시 는 관객 들 은 작품 이면 에 숨 어 있 을지 모르 는 진실 도 머리 에 떠올려 보 고 , 트락 슬 러 의 분석 처럼 가엾 게 희생 됐 을지 모를 ‘ 마녀 ’ 카타리나 에게 도 한번 쯤 동정 을 보냈 으면 좋 겠 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+남북 정상 회담 도 「 북한 의 필요 」 에 의해서 이뤄진 것 인 만큼 , 무산되 지 는 않 을 것 이 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+예정화 , 셀프 주유 中 ? 매끈하 게 ‘ 쭉 뻗 은 ’ 각선미 ‘ 어질어질 ’ 나 혼자 산다 예정화 ‘ 나 혼자 산다 ’	PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O
+외교부 장관 은 양복 을 수선하 러 백화점 에 갔 고 , 정권 실세 는 반발하 는 농민 을 설득하 는 대신 정부 를 비난하 는 서명 에 가세 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+옥수수 를 체 에 받쳐 찬물 에 한두 번 헹군 뒤 조리한다 .	O O O O O O O O O O O O O
+북한 이 한국 내 의 지하당 조직 으로 위장하 고 있 는 민 민 전 은 김일성 사망 에 따 라 한국 군 과 경찰 에 비상 경계 령 이 내려진 사실 에 대해서 도 『 초상집 에 불질하 는 망동 』 이라고 비방 했 다 .	ORG-B O ORG-B O O O O O O O O O ORG-B ORG-I ORG-I O PER-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+박 의장 은 다른 말 없이 “ 그래 , 잘 좀 취조해 봐 ” 라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O
+박근혜 대통령 의 국정 수행 지지율 이 ‘ 14 일 임시 공휴일 지정 ’ 등 의 영향 으로 반등 해 40 % 대 에 접근한 것 으로 나타났 다 .	PER-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+신경성 급성 췌장염 . 90 % 이상 이 암 으로 전이되 는 무서 운 병 이 었 다 .	O O O O O O O O O O O O O O O O O O O
+하지만 문 후보 측 은 “ 고용 정보 원 인사 규정 에 는 해외 유학 을 위한 휴직 을 허용하 고 있 다 ” 며 “ 우리 법원 판례 에 도 휴직 기간 을 퇴직금 산정 을 위한 근속 에 포함하 고 있 다 ” 고 했 다 .	O PER-B O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-NHK는 “중국 선박이 (일본의) 영해를 침입하+ㄴ 것은 지난해 12월 26일 이후 처음”이라고 전하였다 .	ORG-B ORG-B O ORG-B O O O O O O O O O O
-학부모들 “지금도 모자라 +ㄴ 데이 해안 되+어” 안철수 “병설유치원은 대폭 늘리겠다는 뜻 .	O O O O O O O PER-B O O O O O
-우병우 대통령민정수석비서관을 둘러싸 +ㄴ 의혹도 논란이 +었다 .	PER-B O O O O O O O
-정승일 산업부 무역투자실장은 “유가가 전월보다 5달러 상승하였지만 전년 동월보다 35% 이상 낮은 수준”이라며 “저유가로 인하+ㄴ 수출 하락세는 여전히 지속되고 있다”고 말하였다 .	PER-B ORG-B O O O MNY-B O O O MNY-B O O O O O O O O O O O O
-K리그 클래식 7일 개막… 12개 구단 감독들 “공격 축구” 선전포고 K리그 클래식 2015 미디어데이 12개 구단 24인 설문서 “전북이 우승 후보”19표몰표 최강희 감독 “1강 아니+ㄴ 데… ‘챔스 우승’ 한 놈만 쫓겠다” 포항·울산 등 “서울 전 총력”최용수 감독 “낯설지 않다 .	O O O O O O O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O ORG-B O O O PER-B O O O O
-하지만 구체적으로 무엇+ㄹ 어떻게 하+여야 한국 경제가 역동성을 되찾을 수 있을지에 대하+ㄴ 방법론적이+ㄴ 연구는 적은 편이다 .	O O O O O ORG-B O O O O O O O O O O O
-전기에서 시작하+여 항공·의료·에너지까지 사업을 다각화 하+ㄴ 미국 제네럴 일렉트릭(GE)의 마르코아눈지아타(사진) 수석 이코노미스트는 “중국이 한국을 따라오려면 시간이 걸리+ㄹ뿐 아니라 중국 내부의 해결 하+여야 하+ㄹ문제도 많다”며 “빅데이터와 디지털 기술을 접목하+ㄴ ‘산업인터넷’을 활용하고, 신생 기업(startup·스타트업)이 주도하는 ‘자생적 혁신’을 성공시키+ㄴ다면 한국은 다시 한 번 도약 하+ㄹ 수 있을 것”이라고 말 하였다 .	O O O O O O ORG-B ORG-I ORG-B PER-B O O ORG-B ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-이 대표는 “폴딩도어는 특성상 제조기술과 생산능력도 중요하지만 무엇보다 설치 노하우가 고객만족을 좌우 하+ㄴ다”며 “10년 노하우를 바탕으로 불량률을 최소화 하+ㄴ 것이 폴딩 도어 시장 점유율 전국 최상위권을 차지하는 알짜 회사를 만들 +ㄴ 비결”이라고 설명하였다 .	PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O PER-B O O
-윤각현 부산경마처장과 김영관 조교사가 합심하+여 도움을 주지 않았다면 오늘과 같은 영광스럽+ㄴ자리는 없었을지도 모르+ㄴ다”고 회고하였다 .	PER-B O PER-B O O O O O O O O O O O O
-그 경험 덕분에 정석원은 “연기를 어떻게 접근하+ 여야 하는지, 비로소 알았다”고 +였다 .	O O O PER-B LOC-B O O O O O O O O
-“최민식 선배님은 이미 영화와 역할에 대하+ㄴ그림을 그리 +어놓고 있었다 .	PER-B O O O O O O O O O
-성 전 회장의 장남 성승훈 전 경남기업 경영기획실장도 과거 한 언론 인터뷰에서 “주현씨가 반전 고문과 얘기 하+ㄹ 때 ‘반＇sfamily’+이란 용어를 +었다”고 말하였다 .	PER-B O O O PER-B O ORG-B O O O O O PER-B ORG-B O O O O ORG-B O O O O
-이날 ‘DMZ 평화콘서트’ 윤아는 “이곳이 임진각 평화누리+이라서 그렇 +ㄴ지 모르아도 뭉클하+ㄴ 느낌을 받았다“고 소감을 전하였다 .	O O O PER-B O LOC-B LOC-I O O O O O O O O O
-전체 부지 내 녹지는 50% 이상이며 산등성이를 최대한 살리+ㄴ 산책로를 만들었다 .	O O O O O O O O O O O O
+NHK 는 “ 중국 선박 이 ( 일본 의 ) 영해 를 침입한 것 은 지난해 12 월 26 일 이후 처음 ” 이라고 전 했 다 .	ORG-B O O ORG-B O O O ORG-B O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O
+학부모 들 “ 지금 도 모자란데 이해 안돼 ” 안철수 “ 병설 유치원 은 대폭 늘리 겠 다는 뜻 ”	O O O O O O O O O PER-B O O O O O O O O O O
+우병우 대통령 민정 수석 비서관 을 둘러싼 의혹 도 논란 이 됐 다 .	PER-B O O O O O O O O O O O O O
+정승일 산업 부 무역 투자 실장 은 “ 유가 가 전월 보다 5 달러 상승 했 지만 전년 동월 보다 35 % 이상 낮 은 수준 ” 이 라며 “ 저 유가 로 인한 수출 하락세 는 여전히 지속되 고 있 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+K 리그 클래식 7 일 개막 … 12 개 구단 감독 들 “ 공격 축구 ” 선전 포고 K 리그 클래식 2015 미디어 데이 12 개 구단 24 인 설문 서 “ 전북 이 우승 후보 ” 19 표 몰표 최강희 감독 “ 1 강 아닌데 … ‘ 챔스 우승 ’ 한 놈 만 쫓 겠 다 ” 포항 · 울산 등 “ 서울 전 총력 ” 최용수 감독 “ 낯설 지 않 다 ”	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O PER-B O O O O O O O
+하 지만 구체적 으로 뭘 어떻 게 해야 한국 경제 가 역동 성 을 되찾 을 수 있 을지 에 대한 방법론 적 인 연구 는 적 은 편 이 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+전기 에서 시작해 항공 · 의료 · 에너지 까지 사업 을 다각화한 미국 제네럴 일렉트릭 ( GE ) 의 마르코 아 눈 지 아타 ( 사진 ) 수석 이코노미스트 는 “ 중국 이 한국 을 따라오 려면 시간 이 걸릴 뿐 아니 라 중국 내부 의 해결해야 할 문제 도 많 다 ” 며 “ 빅 데이터 와 디지털 기술 을 접목한 ‘ 산업 인터넷 ’ 을 활용하 고 , 신생 기업 ( startup · 스타트 업 ) 이 주도하 는 ‘ 자생적 혁신 ’ 을 성공 시킨다면 한국 은 다시 한 번 도약할 수 있 을 것 ” 이라고 말 했 다 .	O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O PER-B PER-I PER-I PER-I PER-I O O O O O O O ORG-B O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+이 대표 는 “ 폴 딩 도어 는 특성 상 제조 기술 과 생산 능력 도 중요하 지만 무엇 보다 설치 노하우 가 고객 만족 을 좌우한다 ” 며 “ 10 년 노하우 를 바탕 으로 불량률 을 최소화한 것 이 폴 딩 도 어시장 점유율 전국 최 상위권 을 차지하 는 알짜 회사 를 만든 비결 ” 이라고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤각현 부산 경마 처장 과 김영관 조교사 가 합심해 도움 을 주 지 않 았 다면 오늘 과 같 은 영광스런 자리 는 없 었 을지 도 모른다 ” 고 회고 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 경험 덕분 에 정석원 은 “ 연기 를 어떻 게 접근해야 하 는지 , 비로소 알 았 다 ” 고 했 다 .	O O O O PER-B O O LOC-B O O O O O O O O O O O O O O O O
+“ 최민식 선배 님 은 이미 영화 와 역할 에 대한 그림 을 그려 놓 고 있 었 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+성 전 회장 의 장남 성승훈 전 경남기업 경영 기획 실장 도 과거 한 언론 인터뷰 에서 “ 주현 씨 가 반 전 고문 과 얘기할 때 ‘ 반 ＇ s family ’ 란 용어 를 썼 다 ” 고 말 했 다 .	PER-B O O O O PER-B O ORG-B O O O O O O O O O O PER-B O O PER-B O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O
+이날 ‘ DMZ 평화 콘서트 ’ 윤아 는 “ 이곳 이 임진각 평화 누리 라서 그런지 몰 라도 뭉클한 느낌 을 받 았 다 “ 고 소감 을 전 했 다 .	O O O O O O PER-B O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O
+전체 부지 내 녹지 는 50 % 이상 이 며 산등성이 를 최대한 살린 산책로 를 만들 었 다 .	O O O O O O O O O O O O O O O O O O O O

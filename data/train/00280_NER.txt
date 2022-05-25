@@ -1,12 +1,12 @@
-김 의원의 아버지에 대하+여 알려지+ㄴ 것+이 거의 없기 때문으로 보이+ㄴ다 .	PER-B O O O O O O O O O O
-김진태 의원은 자신의 소셜미디어를 통하+여아버지를 언급하+여+오았다 .	PER-B O O O O O O
-2006년 토리노 대회에서는 금메달을 목에 걸었고 1998년 나가노 대회에서는 은메달을 차지하였다 .	O LOC-B O O O O O LOC-B O O O O
-파리 국립오페라 음악감독 지위를 확고히 되찾은 정명훈씨(41)는 29일 기자들과의 인터뷰에서 『오페라 사상 유례없는 승소를 받아내+어 기쁘다 』면서 한국인들의 성원에 감사드리+ㄴ다고 시종 밝은 표정으로 답하였다 .	ORG-B ORG-I O O O O PER-B O O O O O O O O O O O O O O O O O O
-두 사람은 지난해 6월 불륜설에 휩싸이+ㄴ 후그동안 어떠 하+ㄴ 입장도 밝히지 않았었다 .	O O O O O O O O O O O O O
-이 구조물의 설계와 디자인은 독일에 본사를 두 +ㄴ 세계적 디자인 회사 이+ㄴ 빌 모트가 맡았다 .	O O O O LOC-B O O O O O O O ORG-B ORG-I O O
-대구지법 제1행정부(부장판사 김연우)는 이날 배상문이 대구경북지방병무청을 상대로 제기하+ㄴ ‘국외여행 기간 연장 허가신청 불허가 처분 취소’ 소송 선고공판에서 “원고의 청구를 기각하+ㄴ다”며 병무청의 손을 들어 주+었다 .	ORG-B ORG-I PER-B O PER-B ORG-B O O O O O O O O O O O O O O O O O O O
-이미 10년 전에 완전 양식에 성공하+ㄴ 일본에서도 그것은 실험실의 성과 이+ㄹ뿐 상업적이+ㄴ 생산에는 이르지 못하고 있다 .	O O O O O O ORG-B O O O O O O O O O O
-반면 조용하게 출간되+ㄴ 클로드 섀넌의 '정보 이론(AMathem aticalTheoryofCommu nication)'이 발표되+ㄴ 것도 이해+이었다 .	O O O PER-B PER-I O O O O O O O O
-양팀다 10명씩 싸우는 상황을 맞았다 .	O O O O O O
-서울은 후반 1분 박주영의 패스에잇은 아드리아노의 날카롭 ㄴ슈팅으로 수원의 문전을 위협하였다 .	ORG-B O O PER-B O PER-B O O ORG-B O O O
-제주와 최근 10경기 상대전적도 2승1무 7패로 절대 열세다 .	ORG-B O O O O O O O O
+김 의원 의 아버지 에 대해 알려진 게 거의 없 기 때문 으로 보인다 .	PER-B O O O O O O O O O O O O O O
+김진태 의원 은 자신 의 소셜 미디어 를 통해 아버지 를 언급해 왔 다 .	PER-B O O O O O O O O O O O O O O
+2006 년 토리노 대회 에서 는 금메달 을 목 에 걸 었 고 1998 년 나가노 대회 에서 는 은메달 을 차지 했 다 .	DAT-B DAT-I LOC-B O O O O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O
+파리 국립 오페라 음악 감독 지위 를 확고히 되찾 은 정명훈 씨 ( 41 ) 는 29 일 기자 들 과 의 인터뷰 에서 『 오페라 사상 유례없 는 승소 를 받 아 내 기쁘 다 』 면서 한국인 들 의 성원 에 감사 드린다고 시종 밝 은 표정 으로 답 했 다 .	ORG-B ORG-I ORG-I O O O O O O O PER-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 사람 은 지난해 6 월 불륜 설 에 휩싸인 후 그동안 어떠한 입장 도 밝히 지 않 았었 다 .	O O O DAT-B DAT-I DAT-I O O O O O O O O O O O O O O O
+이 구조물 의 설계 와 디자인 은 독일 에 본사 를 둔 세계적 디자인 회사 인 빌 모트 가 맡 았 다 .	O O O O O O O LOC-B O O O O O O O O ORG-B ORG-I O O O O O
+대구 지법 제 1 행정부 ( 부장판사 김연우 ) 는 이날 배상문 이 대구 경북 지방 병무청 을 상대 로 제기한 ‘ 국외 여행 기간 연장 허가 신청 불허가 처분 취소 ’ 소송 선고 공판 에서 “ 원고 의 청구 를 기각한다 ” 며 병무청 의 손 을 들 어 줬 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O O PER-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이미 10 년 전 에 완전 양식 에 성공한 일본 에서 도 그것 은 실험실 의 성과 일 뿐 상업적 인 생산 에 는 이르 지 못하 고 있 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+반면 조용하 게 출간된 클로드 섀넌 의 ' 정보이론 ( A Mathematical Theory of Communication ) ' 이 발표된 것 도 이 해 였 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+양 팀 다 10 명 씩 싸우 는 상황 을 맞 았 다 .	O O O O O O O O O O O O O O
+서울 은 후반 1 분 박주영 의 패스 에 이 은 아드리아노 의 날카로 운 슈팅 으로 수원 의 문전 을 위협 했 다 .	ORG-B O O O O PER-B O O O O O PER-B O O O O O ORG-B O O O O O O O
+제주 와 최근 10 경기 상대 전적 도 2 승 1 무 7 패 로 절대 열세 다 .	ORG-B O O O O O O O O O O O O O O O O O O

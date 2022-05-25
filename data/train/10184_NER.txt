@@ -1,15 +1,15 @@
-임 변호사는 “그동안 중재 업무를 다루는 법률가나 기업 담당자들이 참조하+ㄹ만 하+ㄴ체계적 교과서가 없어 불편을 겪어 +오았다”며 “가급적 국제중재 분야의 최신 쟁점을 빠짐없이 수록하였고 실무 경험을 토대로 주요 이론에 대하+ㄴ 비평과 반론을 제시하였다”고 소개하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-최근 법무부는 대한상사중재원이 싱가포르의 국제중재전문기관이 +ㄴ 싱가포르 국제중재센터(SIAC)에 버금가는 국제중재의 허브로 거듭나 +ㄹ 수 있도록 지원하겠다는 계획을 수립하+여 추진 중이다 .	O ORG-B ORG-B ORG-B ORG-I O ORG-B ORG-B O O O O O O O O O O O O O
-이날 ‘27홀골프 회동’은 두 야당과 여당 민정당의 ‘3당 합당’으로 이어지었다 .	O O O O O O ORG-B O O O O
-유준상이 엄기준의 키스신에 대하+여 폭로 하였다 .	PER-B PER-B O O O O O
-21일 방송되+ㄴ MBC ‘황금어장 라디오 스타’는 ‘아프니까 중년이다 .	O O O O O O O O O
-익스피디아, 글래드 계열 호텔 얼리버드 프로모 .	ORG-B O O O O O O
-정권 첫해 이+ㄴ 2013년 지하경제를 양성화 하+ㄴ다고 세무조사로 기업을 압박하였다 .	O O O O O O O O O O O
-바이킹퀸호는 6000t급의 대형 선박으로 평소에는 LNG로 운항하다가 저속 운항과 항구 내 대기시에 배터리를 동력으로 움직이+ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O
-한 의원은 관련 부서 책임자의 사임을 요구하었지만 요르단 보건부 측은 해넌의 이야기가 “근거 없이 조작되+ㄴ 것”이라며 반발하고 있는 상태+이다 .	PER-B O O O O O O ORG-B O O PER-B O O O O O O O O O
-한국항공우주연구원과 한국항공우주산업진흥협회에 따르면 현재 드론의 세계시장 규모는 연평균 17%씩 급성장 하+여 2024년에는 193억달러까지 확대되고 국내 시장도 연평균 44% 이상 가파르게 성장하는 등 차세대 미래 먹거리 산업으로 주목하고 있다 .	ORG-B ORG-B O O O O O O O O O O MNY-B O O O O O O O O O O O O O O O O
-"하이포알렉스 한국 국적 취득, 힘들+ㄹ 결정하였다 .	ORG-B ORG-B O O O O O
-포털 나+의 배포되는 기사는 사진과 기사 내용이 맞지 않을 수 있으며, 온전하+ㄴ 기사는 IT동아 사이트에서 보시+ㄹ 수 있습니다 .	O O O O O O O O O O O O O O O O O O O
-사용자 중심의 IT저널-IT동아바로가기(http://it. donga. com) 글/IT 동아권 명관(tornadosn@itdonga. com .	O O O O O O O O O O
-경쟁사들의 기본적 이+ㄴ 스마트폰 사업 전략이 크게 바뀌+ㄹ 가능성이 없다는 점을 생각하+여보면, 앞으로도 중고시장에서 아이폰 시리즈의 높은 몸값은 그대로 이어 지+ㄹ듯하다 .	O O O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 8월 17일 충북 청주에서 태어나 +ㄴ너+의 쌍둥이가 56일 만에 모두 인큐베이터에서 나오았다 .	O O O LOC-B LOC-I O O O O O O O O O
+임 변호사 는 “ 그동안 중재 업무 를 다루 는 법률가 나 기업 담당자 들 이 참조할 만한 체계적 교과서 가 없 어 불편 을 겪 어 왔 다 ” 며 “ 가급적 국제 중재 분야 의 최신 쟁점 을 빠짐없이 수록 했 고 실무 경험 을 토대 로 주요 이론 에 대한 비평 과 반론 을 제시 했 다 ” 고 소개 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 법무부 는 대한 상사 중재 원 이 싱가포르 의 국제 중재 전문 기관 인 싱가포르 국제 중재 센터 ( SIAC ) 에 버금가 는 국제 중재 의 허브 로 거듭날 수 있 도록 지원하 겠 다는 계획 을 수립해 추진 중 이 다 .	O ORG-B O ORG-B ORG-I ORG-I ORG-I O LOC-B O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+이날 ‘ 27 홀 골프 회동 ’ 은 두 야당 과 여당 민정당 의 ‘ 3 당 합당 ’ 으로 이어 졌 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+유준상 이 엄기준 의 키스 신 에 대해 폭로 했 다 .	PER-B O PER-B O O O O O O O O O
+21 일 방송된 MBC ‘ 황금 어장 라디오스타 ’ 는 ‘ 아프 니까 중년 이 다 ’	DAT-B DAT-I O O O O O O O O O O O O O O O
+익 스피디 아 , 글 래드 계열 호텔 얼리버드 프로모션	ORG-B ORG-I ORG-I O O O O O O O
+정권 첫해 인 2013 년 지하 경제 를 양성화한다고 세무 조사 로 기업 을 압박 했 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O
+바이킹 퀸 호 는 6000 t 급 의 대형 선박 으로 평소 에 는 LNG 로 운항하 다가 저속 운항 과 항구 내 대기 시 에 배터리 를 동력 으로 움직일 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 의원 은 관련 부서 책임자 의 사임 을 요구 했 지만 요르단 보건부 측 은 해 넌 의 이야기 가 “ 근거 없이 조작된 것 ” 이 라며 반발하 고 있 는 상태 다 .	PER-B O O O O O O O O O O O ORG-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+한국 항공 우주 연구원 과 한국항공우주산업 진흥 협회 에 따르 면 현재 드론 의 세계 시장 규모 는 연평균 17 % 씩 급성장해 2024 년 에 는 193 억 달러 까지 확대되 고 국내 시장 도 연평균 44 % 이상 가파르 게 성장하 는 등 차세대 미래 먹거리 산업 으로 주목하 고 있 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O DAT-B DAT-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O
+" 하이포 알렉스 한국 국적 취득 , 힘들 결정 했 다 "	O ORG-B PER-B ORG-B O O O O O O O O
+포털 내 배포되 는 기사 는 사진 과 기사 내용 이 맞 지 않 을 수 있 으며 , 온전한 기사 는 IT 동아 사이트 에서 보 실 수 있 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사용자 중심 의 IT 저널 - IT 동아 바로 가 기 ( http : / / it . donga . com ) 글 / IT 동아 권명관 ( tornadosn @ itdonga . com )	O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+경쟁사 들 의 기본적 인 스마트 폰 사업 전략 이 크 게 바뀔 가능성 이 없 다는 점 을 생각해 보 면 , 앞 으로 도 중고 시장 에서 아이폰 시리즈 의 높 은 몸값 은 그대로 이어질 듯 하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 8 월 17 일 충북 청주 에서 태어난 네 쌍둥이 가 56 일 만 에 모두 인큐베이터 에서 나 왔 다 .	O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-I O O O O O O O O O O O O O O O O

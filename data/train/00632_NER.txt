@@ -1,10 +1,10 @@
-2003년 신세계(현 KEB하나은행) 유니폼을 입고 데뷔 하+ㄴ 양지희는 2007년 겨울리그까지 7시즌 연속 평균득점이 4점을 넘지 못하였다 .	O ORG-B ORG-B O O O O PER-B O O O O O O O O O
-하지만 우리가 국제적 이+ㄴ이란 제재에 동참하면서 관계가 다소 소원하여 +지+었다 .	O O O ORG-B O O O O O O O
-A를 비롯하+ㄴ 시리아인 28명은 시리아에서 터키와 중국 등을 경유 하+여 지난해 11월~올해 1월 인천공항에 입국하+여 난민지위 인정을 요청하였다 .	PER-B O LOC-B O LOC-B LOC-B LOC-B O O O O O O LOC-B O O O O O
-3명을 제외 하+ㄴ 응답자 대부분이 ‘가짜뉴스’라고 제대로 판단하였다 .	O O O O O O O O O
-8일 서울 서초동 서울지방변호사회관에서 열리는 한변의 창립 3주년 기념식에서 두 단체의 통합 취지를 선언하+ㄹ 예정이다 .	O LOC-B LOC-B LOC-B O ORG-B O O O O O O O O O O
-112년 만에 올림픽 정식 종목으로 복귀 하+ㄴ 골프 종목에서 역사의 한 페이지로 남을 기록들이 나오았다 .	O O O O O O O O O O O O O O O O
-11일 브라질 리우바하다 치주카의 올림픽 골프 코스에서 열리+ㄴ 남자골프 1라운드. 역사적 이+ㄴ 첫 티샷의 주인공은 브라질 출신의 에딜 손 다 실바+이었다 .	O ORG-B LOC-B LOC-I O O O O O O O O O O O ORG-B O O O O O O
-군 당국은 2010년 3월 천안함 폭침은 물론 2015년 8월 목함지뢰 도발 등도 정찰총국이 주도하였다고 보고 있다 .	O O O O O O O O O O O O O O O O O
-[대선 정국/선택의 해 2차 여론조사] 중도-진보, 민주지지압도 .	O O O O O O ORG-B O
-02-724-6317 .	O O
+2003 년 신세계 ( 현 KEB 하나은행 ) 유니폼 을 입 고 데뷔한 양지희 는 2007 년 겨울 리그 까지 7 시즌 연속 평균 득점 이 4 점 을 넘 지 못 했 다 .	DAT-B DAT-I ORG-B O O ORG-B ORG-I O O O O O O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+하지만 우리 가 국제적 인 이 란 제재 에 동참하 면서 관계 가 다소 소원해 졌 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O
+A 를 비롯한 시리아 인 28 명 은 시리아 에서 터키 와 중국 등 을 경유해 지난해 11 월 ~ 올해 1 월 인천 공항 에 입국해 난민 지위 인정 을 요청 했 다 .	PER-B O O O O O O O LOC-B O LOC-B O LOC-B O O O O DAT-B DAT-I O O DAT-B DAT-I LOC-B LOC-I O O O O O O O O O O
+3 명 을 제외한 응답자 대부분 이 ‘ 가짜 뉴스 ’ 라고 제대로 판단 했 다 .	O O O O O O O O O O O O O O O O O
+8 일 서울 서초동 서울 지방 변호사 회관 에서 열리 는 한 변 의 창립 3 주년 기념식 에서 두 단체 의 통합 취지 를 선언할 예정 이 다 .	DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+112 년 만 에 올림픽 정식 종목 으로 복귀한 골프 종목 에서 역사 의 한 페이지 로 남 을 기록 들 이 나 왔 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+11 일 브라질 리우 바하 다 치주카 의 올림픽 골프 코스 에서 열린 남자 골프 1 라운드 . 역사적 인 첫 티샷 의 주인공 은 브라질 출신 의 에딜손 다 실바 였 다 .	DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O ORG-B O O PER-B PER-I PER-I O O O
+군 당국 은 2010 년 3 월 천안함 폭침 은 물론 2015 년 8 월 목함지뢰 도발 등 도 정찰 총국 이 주도 했 다고 보 고 있 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+[ 대선 정국 / 선택 의 해 2 차 여론 조사 ] 중도 - 진보 , 민주 지지 압도적	O O O O O O O O O O O O O O O O ORG-B O O
+02 - 724 - 6317 .	O O O O O O

@@ -1,18 +1,18 @@
-전훈재 센터장은 “그동안 소화기 질환의 새롭ㄴ 치료법을 성공적으로 도입하+ 여환자 만족도를 크게 높이었다"고 말하였다 .	PER-B O O O O O O O O O O O O O O
-특히 2002년에는 ‘캡슐 내시경 검사’를 한국에 처음 선보이었다 .	O O O O O LOC-B O O O
-박주영으로 교체하려던 황 감독은 타이밍을 늦추+어야 +였다 .	PER-B O PER-B O O O O O
-그가 말 하+ㄴ 반려동물 등록제는 유기동물 발생을 억제하기 위하+ㄴ 제도로, 2014년부터 전국적으로 시행되었으며 이를 위반하면 최대 40만원의 과태료가 부과되 +ㄴ다 .	O O O O O O O O O O O O O O O O MNY-B O O O O
-최문순 강원도지사, 질문 답변 중 실신… 현재 공관서 절대 안 .	PER-B O O O O O O O O O O
-《비즈니스 리더를 위하+ㄴ 고품격 경영저널 DBR(동아비즈니스 리뷰) 218호(2017년 2월1일자)의 주요 기사를 소개하+ㅂ니다 .	O O O O O O O O O O O O O
-정립이란 세 세력이 솥의 세발처럼 맞서고 있는 것을 뜻하는데, 세발은 네발보다 안정성이 있다고 +였다 .	O O O O O O O O O O O O O O O
-이영선(38) 청와대 경호관은 오전 9시 11분께 자택을 찾은 뒤 2시간 뒤 나가+았다가 낮 12시 33분께 되돌아오았다 .	PER-B ORG-B O O O O O O O O O O O O O O O
-두 후보는 여론조사 결과에 따르 아단일 후보를 결정 하+ㄹ 계획이다 .	O O O O O O O O O O O
-장혜진은 다음달 8일 싱글 프로젝트 ‘오디너리(Ord inary)’의 두 번째 이야기 ‘나의 태양’을 발표하+ㄴ다 .	PER-B O O O O O O O O O O O O O
-‘냉장고를 부탁하+여’ 강수진, 청와대에서 그릇을?… 이연복“버리+ㄹ 것+이면 저주세요” 발레리나 강수진의 냉장고가 공개되었다 .	O O PER-B ORG-B O PER-B O O O PER-B O O O
-26일 방송되+ㄴJTBC ‘냉장고를 부탁하+여’에서는 국보급 발레리나 강수진이 출연하+여시청자들의 눈길을 사로잡았다 .	O ORG-B O O O O PER-B O O O O
-이날 방송에서 강수진의 냉장고를 살펴보던 정형돈이 “국보급 발레리나는 국보급 발레리나 네요”라고 말하였다 .	O O PER-B O O PER-B O O O O O O O
-이에 김성주가 “왜요?”라고 묻자, 정형돈은 “청와대에서 그릇을 …”이라며 청와대 로고가 그리 +어지+ㄴ 그릇을 보이어 +주었다 .	O PER-B O O PER-B ORG-B O O ORG-B O O O O O O O
-강수진은 “저는 열어 보+ㄴ 적이 없는데 남편이 열어서 한 숟갈 먹는 것 +ㄴ+았어요” +이라며 “저는 속이 허니로 알고 있는데, 허니 이+ㄴ줄은 모르아요”라고 말 하+여이목을 집중시키었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-이후 김성주는 “청와대에서 무엇+ㄹ 주지?” +이라며 그릇을 열었고, 그릇 속을 보+ㄴ 김성주와 정형돈은 “오~우”하며 “원래 그런 것+이+ㄴ지?…” 놀라는 모습을 보이었다 .	O PER-B ORG-B O O O O O O O O PER-B PER-B O O O O O O O O
-안을 보+ㄴ 강수진은 “상하였어” +이라며 약간 당황하며 웃는 모습을 보이었다 .	O O PER-B O O O O O O O O
-이에 이연복 쉐프는 “떠먹을 때 숟가락에 묻어 있던 침 때문”이라고 설명하며 “버리+ㄹ 것+이면 저주세요”라고 말 하+여 주변에 웃음을 전하였다 .	O PER-B O O O O O O O O O O O O O O O O O O
+전훈재 센터 장 은 “ 그동안 소화기 질환 의 새로 운 치료법 을 성공적 으로 도입해 환자 만족도 를 크 게 높 였 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 2002 년 에 는 ‘ 캡슐 내시경 검사 ’ 를 한국 에 처음 선보 였 다 .	O DAT-B DAT-I O O O O O O O O LOC-B O O O O O O
+박주영 으로 교체하 려던 황 감독 은 타이밍 을 늦춰야 했 다 .	PER-B O O O PER-B O O O O O O O O
+그 가 말한 반려동물 등록제 는 유기 동물 발생 을 억제하 기 위한 제도 로 , 2014 년 부터 전국적 으로 시행 됐 으며 이 를 위반하 면 최대 40 만 원 의 과태료 가 부과된다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+최문순 강원도 지사 , 질문 답변 중 실신 … 현재 공관 서 절대 안정	PER-B O O O O O O O O O O O O O
+《 비즈니스 리더 를 위한 고품격 경영 저널 DBR ( 동아 비즈니스 리뷰 ) 218 호 ( 2017 년 2 월 1 일자 ) 의 주요 기사 를 소개합니다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I O O O O O O O O
+정립 이란 세 세력 이 솥 의 세 발 처럼 맞서 고 있 는 것 을 뜻하 는데 , 세 발 은 네 발 보다 안정성 이 있 다고 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이영선 ( 38 ) 청와대 경호 관 은 오전 9 시 11 분 께 자택 을 찾 은 뒤 2 시간 뒤 나갔 다가 낮 12 시 33 분 께 되돌아 왔 다 .	PER-B O O O ORG-B O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O
+두 후보 는 여론 조사 결과 에 따 라 단일 후보 를 결정할 계획 이 다 .	O O O O O O O O O O O O O O O O O
+장혜진 은 다음 달 8 일 싱글 프로젝트 ‘ 오디 너리 ( Ordinary ) ’ 의 두 번째 이야기 ‘ 나 의 태양 ’ 을 발표한다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+‘ 냉장고 를 부탁해 ’ 강수진 , 청와대 에서 그릇 을 ? … 이연복 “ 버릴 거 면 저 주 세요 ” 발레리나 강수진 의 냉장고 가 공개 됐 다 .	O O O O O PER-B O ORG-B O O O O O PER-B O O O O O O O O O PER-B O O O O O O O
+26 일 방송된 JTBC ‘ 냉장고 를 부탁해 ’ 에서 는 국보 급 발레리나 강수진 이 출연해 시청자 들 의 눈길 을 사로잡 았 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O
+이날 방송 에서 강수진 의 냉장고 를 살펴보 던 정형돈 이 “ 국보 급 발레리나 는 국보 급 발레리 나 네요 ” 라고 말 했 다 .	O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O
+이 에 김성주 가 “ 왜 요 ? ” 라고 묻 자 , 정형돈 은 “ 청와대 에서 그릇 을 … ” 이 라며 청와대 로고 가 그려 진 그릇 을 보 여 줬 다 .	O O PER-B O O O O O O O O O O PER-B O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O
+강수진 은 “ 저 는 열 어 본 적 이 없 는데 남편 이 열 어서 한 숟갈 먹 는 건 봤 어요 ” 라며 “ 저 는 속 이 허니 로 알 고 있 는데 , 허니 인 줄 은 몰 라요 ” 라고 말해 이목 을 집중 시 켰 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 김성주 는 “ 청와대 에서 뭘 주 지 ? ” 라며 그릇 을 열 었 고 , 그릇 속 을 본 김성주 와 정형돈 은 “ 오 ~ 우 ” 하 며 “ 원래 그런 건지 ? … ” 놀라 는 모습 을 보 였 다 .	O PER-B O O ORG-B O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+안 을 본 강수진 은 “ 상 했 어 ” 라며 약간 당황하 며 웃 는 모습 을 보 였 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
+이 에 이연복 쉐프 는 “ 떠먹 을 때 숟가락 에 묻 어 있 던 침 때문 ” 이라고 설명하 며 “ 버릴 거 면 저 주 세요 ” 라고 말해 주변 에 웃음 을 전 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,10 +1,10 @@
-신임 김재원 충남지방경찰청장은 29일 “어리+ㄴ 시절 자라 +았고 성장하는 동안 항상 응원 하+여주+ㄴ 고향의 치안책임을 맡는다는 것이 무엇보다 크+ㄴ 기쁨이면서도 크+ㄴ부담”이라며 이같이 밝히었다 .	O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O
-그리 하+여도 제주기지는 평화롭어 보이었다 .	O O LOC-B O O O
-수출물가 5개월 만에 하락 … 수입물가지수도 석 달 연속 감소 .	O O O O O O O O O O O
-상대는 중국의 린허친. 산타베이스로 하는 선수로 종합격투기 경력이 김해인보다 월등하었다 .	O ORG-B PER-B O O O O O PER-B O O
-한국안중근 의사 기념사업회와 회원 등 40여명은 26일 오전 중국 헤이룽장(黑龍江)성하얼빈(哈爾濱)역에 있는 ‘안중근 의사 기념관’에서 안 의사의 이토 히로부미(伊藤博文) 저격 106주년 기념식을 열었다 .	LOC-B LOC-I ORG-I ORG-I O O O O LOC-B LOC-B O LOC-B LOC-I LOC-I PER-B LOC-I PER-B LOC-I O O O O O
-이 위원장은 “내일 하루 일과 중이보다 더 중요하+ㄴ일을 없을 것”이라며 이와 같이 강조하였다 .	PER-B O O O O PER-B O O O PER-B PER-B PER-B O O
-남구는 재단법인을 설립하+여로컬푸드 직매장을 운영하+ㄹ 방침이다 .	ORG-B O O O O O O
-언프리티 랩스타 시즌2 전지윤랩에 수아'듣는 순간 이것+이 뭐 +이지 싶었다'라고 평가… ‘언프리티 랩스타 시즌2’ 전지윤이 아이돌 래퍼에 대하+ㄴ편견에 일침을 가하였다 .	O O O PER-B PER-B O O O O O O O O O PER-B O O O O O O
-하지만 그는 22와 3분의 2이닝을 던지+어 7개를 맞았다 .	O O O O O O O O O
-공정위는 롯데 해외 계열사 논란을 계기로 공정거래법을 개정하기로 +였다 .	ORG-B ORG-B O O O O ORG-B O O O
+신임 김재원 충남 지방 경찰청 장 은 29 일 “ 어린 시절 자랐 고 성장하 는 동안 항상 응원해 준 고향 의 치안 책임 을 맡 는다는 것 이 무엇 보다 큰 기쁨 이 면서 도 큰 부담 ” 이 라며 이같이 밝 혔 다 .	O PER-B ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그래도 제주 기지 는 평화로 워 보 였 다 .	O LOC-B O O O O O O O O
+수출 물가 5 개월 만 에 하락 … 수입 물가 지수 도 석 달 연속 감소세	O O O O O O O O O O O O O O O O
+상대 는 중국 의 린 허 친 . 산타 베이스 로 하 는 선수 로 종합 격투기 경력 이 김해인 보다 월등 했 다 .	O O ORG-B O PER-B PER-I PER-I O O O O O O O O O O O O PER-B O O O O O
+한국 안중근 의사 기념 사업 회 와 회원 등 40 여 명 은 26 일 오전 중국 헤이룽장 ( 黑龍江 ) 성 하얼빈 ( 哈爾濱 ) 역 에 있 는 ‘ 안중근 의사 기념관 ’ 에서 안 의사 의 이토 히로부미 ( 伊藤博文 ) 저격 106 주년 기념식 을 열 었 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O DAT-B DAT-I O LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-B O LOC-B O O O O O O LOC-B LOC-I LOC-I O O PER-B O O PER-B PER-I O PER-B O O O O O O O O O O
+이 위원장 은 “ 내일 하루 일과 중 이 보다 더 중요한 일 을 없 을 것 ” 이 라며 이 와 같이 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+남 구 는 재단 법인 을 설립해 로컬 푸드 직매장 을 운영할 방침 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O
+언 프리티 랩 스타 시즌 2 전지윤 랩 에 수아 ' 듣 는 순간 이게 뭐 지 싶 었 다 ' 라고 평가 … ‘ 언 프리티 랩 스타 시즌 2 ’ 전지윤 이 아이돌 래퍼 에 대한 편견 에 일침 을 가 했 다 .	O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+하지만 그 는 22 와 3 분 의 2 이닝 을 던져 7 개 를 맞 았 다 .	O O O O O O O O O O O O O O O O O O O
+공정 위 는 롯데 해외 계열사 논란 을 계기 로 공정 거래법 을 개정하 기 로 했 다 .	ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O

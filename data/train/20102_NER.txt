@@ -1,12 +1,12 @@
-오마이비너스 소지섭. 오마이비너스 소지섭, 무심하게 가방 선물…동봉되+ㄴ 메시지 내용 보니 ‘역시 소간지’ 소지섭이 신민아에게 의미 있는 가방 선물을 전하였다 .	O PER-B O PER-B O O O O O O O PER-B PER-B PER-B O O O O O O
-지나+ㄴ 7일 방송되+ㄴ KBS2월화 드라마 ‘오마이비너스’ 소지섭은 신민아를 위하+여 몰래 선물을 준비하는 모습을 그리었다 .	O O O O O O PER-B PER-B O O O O O O O
-이날 소지섭은 신민아가 마스크를 쓰+ㄴ 채 냄새가 진동하는 가방 하나를 들고 화장실로 직행하는 모습을 목격하였다 .	O PER-B PER-B O O O O O O O O O O O O O
-소지섭은 냄새나는 값싸+ㄴ 가죽 가방을 물로 빨아 쓰는 신민아를 처음에 +ㄴ이해하지 못하였지만, 중요하+ㄴ 재판이 있을 때마다 쓰는 가방이었다는 것을 알게 되면서 그녀를 이해하게 +었다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O
-이에 소지섭은 신민아를 위하+ 여똑같은 가방의 선물을 준비하였다 .	O PER-B PER-B O O O O O O
-포항은 최하위(4위)로 내려앉으며 조별리그 탈락의 위기에 몰리었다 .	ORG-B O O O O O O O
-‘센시아’는 정맥 순환 개선제로 정맥의 탄력 향상과 모세혈관투과성 정상화, 항산화 효과가 있다 .	O O O O O O O O O O O O O
-걸스데이 스튜디오의 신성걸 PD는 "'내가 영웅일리 없어'가 단순히 수익만이 목적이 +ㄴ 모바일게임의 틀을 벗어나 +아, 세계 발전과 평화에 기여하는 진정하+ㄴ영웅과 같은 모바일게임이 되었으면 하+ㄴ다는 경영진과 개발팀의 염원을 담아 이와 같은 결정을 하게 되었다" +이라며, "앞으로 '내가 영웅일리 없어'를 플레이하는 게이머들의 활동이 국제 기후난민에 대하+ㄴ 구호의 손길로 자연스럽게 이어지도록 W-재단과 다양하+ㄴ 협력을 모색 하+ㄹ 예정이다 "라고 말하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
-김 시장은 “영천 발전을 위하+여시민들의 뜻을 받들어 시장 역할을 충실히 하겠다”고 말하였다 .	PER-B O ORG-B O O O O O O O O O O
-청량리역에서 하루 4번 운행하는 무궁화호를 타고 일신역에 내리면 되+ㄴ다 .	LOC-B O O O O O LOC-B O O O
-경제채널을 통하+여 남북 접촉을 하면 북한의 적대감을 해소하고 변화를 유도하+ㄹ 수 있지 않겠는가 .	O O ORG-B O O ORG-B O O O O O O O O
-한국에서처럼 깔끔하게 소포장한 과일은 인기가 없다 .	LOC-B O O O O O O
+오마이 비너스 소 지섭 . 오마이 비너스 소 지섭 , 무심하 게 가방 선물 … 동봉 된 메시지 내용 보 니 ‘ 역시 소 간 지 ’ 소 지섭 이 신민아 에게 의미 있 는 가방 선물 을 전 했 다 .	O O PER-B PER-I O O O PER-B PER-I O O O O O O O O O O O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O
+지난 7 일 방송된 KBS 2 월 화 드라마 ‘ 오마이 비너스 ’ 소 지섭 은 신민아 를 위해 몰래 선물 을 준비하 는 모습 을 그 렸 다 .	O DAT-B DAT-I O O O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O
+이날 소 지섭 은 신민아 가 마스크 를 쓴 채 냄새 가 진동하 는 가방 하나 를 들 고 화장실 로 직행하 는 모습 을 목격 했 다 .	O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+소 지섭 은 냄새나 는 값싼 가죽 가방 을 물 로 빨 아 쓰 는 신민아 를 처음 엔 이해하 지 못 했 지만 , 중요한 재판 이 있 을 때 마다 쓰 는 가방 이 었 다 는 것 을 알 게 되 면서 그녀 를 이해하 게 됐 다 .	PER-B PER-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 소 지섭 은 신민아 를 위해 똑같 은 가방 의 선물 을 준비 했 다 .	O O PER-B PER-I O PER-B O O O O O O O O O O O O
+포항 은 최 하위 ( 4 위 ) 로 내려앉 으며 조별 리그 탈락 의 위기 에 몰 렸 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+‘ 센시 아 ’ 는 정맥 순환 개선 제 로 정맥 의 탄력 향상 과 모세혈관 투과성 정상화 , 항 산화 효과 가 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+걸스데이 스튜디오 의 신성걸 PD 는 " ' 내 가 영웅 일 리 없 어 ' 가 단순히 수익 만 이 목적 인 모바일 게임 의 틀 을 벗어나 , 세계 발전 과 평화 에 기여하 는 진정한 영웅 과 같 은 모바일 게임 이 되 었 으면 한다는 경영진 과 개발 팀 의 염원 을 담 아 이 와 같 은 결정 을 하 게 되 었 다 " 라며 , " 앞 으로 ' 내 가 영웅 일 리 없 어 ' 를 플레이 하 는 게이머 들 의 활동 이 국제 기후 난민 에 대한 구호 의 손길 로 자연스럽 게 이어지 도록 W - 재단 과 다양한 협력 을 모색할 예정 이 다 " 라고 말 했 다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+김 시장 은 “ 영천 발전 을 위해 시민 들 의 뜻 을 받들 어 시장 역할 을 충실히 하 겠 다 ” 고 말 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+청량리역 에서 하루 4 번 운행하 는 무궁화호 를 타 고 일 신역 에 내리 면 된다 .	LOC-B O O O O O O O O O O LOC-B LOC-I O O O O O
+경제 채널 을 통해 남북 접촉 을 하 면 북한 의 적대감 을 해소하 고 변화 를 유도할 수 있 지 않 겠 는가 .	O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O
+한국 에서 처럼 깔끔하 게 소 포장 한 과일 은 인기 가 없 다 .	LOC-B O O O O O O O O O O O O O O

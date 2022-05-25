@@ -1,12 +1,12 @@
-‘볼티모어와 계약’ 김현수, 피츠버그 강정호 언급 “민폐끼치지 않도록 노력 하+ㄹ 것” 볼티모어와 계약 김현수 미국 메이저리그 진출을 선언하+ㄴ 김현수(27)가 미국 프로야구(MLB) 볼티모어 오리올스 입단을 확정하였다 .	ORG-B O PER-B ORG-B PER-B O O O O O O ORG-B O PER-B ORG-B O O O PER-B ORG-B ORG-B ORG-B ORG-I O O O
-“프리미어 12, 모두 잘 싸우어주기+ㄹ” 등의 반응을 보이었다 .	O O O O O O O O O
-한편, ‘프리미어 12’는 WBSC 랭킹 12위까지 출전하며 현재 한국뿐만 아니라 일본, 미국, 쿠바, 대만, 네덜란드, 도미니카공화국, 캐나다, 푸에르토리코, 베네수엘라, 이탈리아, 멕시코가 포함되 +어 있다 .	O O O ORG-B O O O O ORG-B O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O O
-“도심 가로수는 소음 막고 미세먼지 흡수 올해도시숲 786ha 조성 ‘숲세권’ 만들+ㄹ 것 .	O O O O O O O O O O O O O
-예비 임상시험을 3년간 더 진행 하+ㄴ 뒤 본격적 이+ㄴ 임상시험에 들어가 +ㄹ 계획이다 .	O O O O O O O O O O O O O O
-동아일보가 주최하고 미래창조과학부 산업통상자원부 등이 후원하는 ‘혁신기업이+ㄴ 대상’(심사위원장 김영찬 연세대 경영대 교수)은 국내 산업발전에 혁신적 공로가 있는 우수기업 및 기관의 대표를 포상하기 위하+여제정되었다 .	ORG-B O ORG-B ORG-I O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O
-강원도 춘천 출신의 성 원장은 기술고시 23회로 산업자원부 석유산업과장, 강원지방우정청장, 국가기술표준원 지식산업표준국장을 지내+었다 .	LOC-B LOC-B O PER-B ORG-I ORG-I O ORG-B O O ORG-B ORG-I O O
-북한군 편제에도 없었던 ‘인민군 전선대연합부대장거리 포병대’는 26일 ‘최후통첩장’에서 우리 공군의 북한 핵심 시설 정밀 타격 훈련(21일)과 관련 하+여 책임자를 공개 처형하고 박근혜 대통령이 사과하지 않으면 청와대를 타격하겠다고 위협하였다 .	ORG-B O O ORG-B ORG-I ORG-I O O O O ORG-B O O O O O O O O O O PER-B O O O ORG-B O O O
-과학을 통하+여중국을 따돌리거나 과학을 통하+여중국과 차별화하기는 점점 더 어렵어지고 있다 .	O ORG-B O O ORG-B O O O O O O
-‘거시적 둔화와 미시적 강화’는 모두 한국에 묵직하 +ㄴ도전을 제기하+ㄴ다 .	O O O O O ORG-B O O O O
-그는 공공기관과 사설업체 전문가 100여명이 문제를 해결하기 위하+여 매달리+어 있지만 언제 복구되 +ㄹ지 확신하지 못하는 상황이라며 이같이 설명하였다 .	O O O O O O O O O O O O O O O O O O O
-이제 막 권투에 첫발을 디디+ㄴ건민이에게는 영광의 순간보다 훨씬 더 많은 고통의 순간이 기다리+ㄴ다 .	O O O O O O O O O O O O O O
+‘ 볼티모어 와 계약 ’ 김현수 , 피츠버그 강정호 언급 “ 민폐 끼치 지 않 도록 노력할 것 ” 볼티모어 와 계약 김현수 미국 메이저리그 진출 을 선언한 김현수 ( 27 ) 가 미국 프로야구 ( MLB ) 볼티모어 오리올스 입단 을 확정 했 다 .	O ORG-B O O O PER-B O ORG-B PER-B O O O O O O O O O O ORG-B O O PER-B O O O O O PER-B O O O O ORG-B ORG-I O ORG-B O ORG-B ORG-I O O O O O O
+“ 프리미어 12 , 모두 잘 싸 워 주 길 ” 등 의 반응 을 보 였 다 .	O O O O O O O O O O O O O O O O O O O
+한편 , ‘ 프리미어 12 ’ 는 WBSC 랭킹 12 위 까지 출전하 며 현재 한국 뿐 만 아니 라 일본 , 미국 , 쿠바 , 대만 , 네덜란드 , 도미니카 공화국 , 캐나다 , 푸에르토리코 , 베네수엘라 , 이탈리아 , 멕시코 가 포함돼 있 다 .	O O O O O O O ORG-B O O O O O O O ORG-B O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B ORG-I O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O
+“ 도심 가로수 는 소음 막 고 미세 먼지 흡수 올해 도시 숲 786 ha 조성 ‘ 숲 세권 ’ 만들 것 ”	O O O O O O O O O O O O O O O O O O O O O O O
+예비 임상 시험 을 3 년 간 더 진행한 뒤 본격적 인 임상 시험 에 들어갈 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O
+동아일보 가 주최하 고 미래 창조 과학 부 산업 통상 자원 부 등 이 후원하 는 ‘ 혁신 기업 인 대상 ’ ( 심사 위원장 김영찬 연세대 경영 대 교수 ) 은 국내 산업 발전 에 혁신적 공로 가 있 는 우수 기업 및 기관 의 대표 를 포상하 기 위해 제정 됐 다 .	ORG-B O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+강원도 춘천 출신 의 성 원장 은 기술 고시 23 회 로 산업자원부 석유 산업 과장 , 강원 지방 우정 청장 , 국가 기술 표준 원 지식 산업 표준 국장 을 지냈 다 .	LOC-B LOC-B O O PER-B O O O O O O O ORG-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O
+북한 군 편제 에 도 없 었 던 ‘ 인민군 전선대 연합 부대 장거리 포병대 ’ 는 26 일 ‘ 최후통첩 장 ’ 에서 우리 공군 의 북한 핵심 시설 정밀 타격 훈련 ( 21 일 ) 과 관련해 책임자 를 공개 처형하 고 박근혜 대통령 이 사과하 지 않 으면 청와대 를 타격하 겠 다고 위협 했 다 .	ORG-B ORG-I O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O ORG-B O O O O O O DAT-B DAT-I O O O O O O O O PER-B O O O O O O ORG-B O O O O O O O O
+과학 을 통해 중국 을 따돌리 거나 과학 을 통해 중국 과 차별화하 기 는 점점 더 어려 워 지 고 있 다 .	O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O
+‘ 거시적 둔화 와 미시적 강화 ’ 는 모두 한국 에 묵직한 도전 을 제기한다 .	O O O O O O O O O ORG-B O O O O O O
+그 는 공공 기관 과 사설 업체 전문가 100 여 명 이 문제 를 해결하 기 위해 매달려 있 지만 언제 복구될지 확신하 지 못하 는 상황 이 라며 이같이 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이제 막 권투 에 첫발 을 디딘 건민이 에게 는 영광 의 순간 보다 훨씬 더 많 은 고통 의 순간 이 기다린다 .	O O O O O O O O O O O O O O O O O O O O O O O O

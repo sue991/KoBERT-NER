@@ -1,13 +1,13 @@
-북한 핵 프로그램에 맞서는 국제사회의 공조가 강화되고 있다 .	ORG-B O O O O O O O O
-유럽 이 사회는 이날 발표하+ㄴ 성명에서 “지난해 11월 30일 유엔 안보리 결의 2321호에 의하+ 여부과 되+ㄴ 추가 제재를 그대로 (EU법에) 이전 하+ㄴ다”고 밝히었다 .	O O O O O O O O O ORG-B ORG-B O O O O O O O O ORG-B O O O O
-이에 따르 아EU가 부과하+ㄴ 제재에는 북한과의 석탄·철광석 거래를 일절 금하며 구리·니켈·은·아연 등 광물과 조각상 수입을 금지하는 내용이 포함되었다 .	O O ORG-B O O ORG-B O O O O O O O O O O O O O
-EU는 북한에 대하+ㄴ헬리콥터와 선박 수출을 금지하고 운송·금융 분야에서는 기존 제재를 강화하였다 .	ORG-B ORG-B O O O O O O O O O O
-한때 당내 ‘투톱’으로 호흡을 자랑하던 새누리당이정현 대표와 정진석 원내대표가 ‘최순실 게이트’를 전후 하+여 각자의 길을 가는 모양새+이다 .	O O O O O ORG-B O PER-B O O O O O O O O O O
-조 장관은 2014년 6월부터 1년 가까이 청와대 정무수석비서관 재직 중 리스트 작성에 관여하+ㄴ 혐의를 받고 있다 .	PER-B O O O O O ORG-B O O O O O O O O O O
-연기력과 티켓 파워를 동시에 갖추+ㄴ 배우로 꼽히는 손예진 주연의 ‘덕혜옹주’는 다음달 3일 쟁쟁하+ㄴ 경쟁작들 사이에서 흥행 하+ㄹ 수 있을까.》▽장선희=‘덕혜옹주’는 ‘부산행’이나 ‘인천상륙작전’ 같은 여름 시장 저격용 블록버스터들 사이에서 돋보이어. 영화 마지막, 노쇠하+ㄴ 덕혜옹주가 덕수궁 중화전 앞에 앉아 사이이 .	O O O O O O O PER-B O PER-B O O O O O O O O PER-B O O O O O O O O O O O O PER-B LOC-B LOC-I O O O O
-272년 전 사우디 왕가에 충성맹세 하+ㄴ ‘IS 원조’이슬람국가(IS)의 신학적 근거 이+ㄴ 살라피즘은 놀랍게도 사우디아라비아 알 사우드 왕가의 이념이기도 하다 .	O O LOC-B ORG-I O O ORG-B ORG-B O O O O O LOC-B ORG-B ORG-I ORG-I O O O
-롯데상사가 이달 27일 이사회를 열고 경북 성주 롯데스카이힐 컨트리클럽(성주골프장)을 사드(THAAD·고고도미사일방어체계) 부지로 제공하는 방안을 최종 승인 하+ㄹ 예정이+ㄴ 것으로 23일 확인되었다 .	LOC-B O O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O
-하지만 저+ㄴ 종목을 통틀어 아나운서와의 결혼을 통하+여역 전 만루홈런을 치+ㄴ 선수를 꼽으라면 단연 박병호다 .	O O O O O O O O O O O O O PER-B O
-최일구 전 앵커 ‘사기 혐의’ 피소… “무혐의 처분받은 사안”해명 듣어보니 .	PER-B O O O O O O O O O O
-【워싱턴=로이터 AFP연합특약 .	LOC-B ORG-I O
-”-오바마 대통령의 신앙은.“그가 훌륭하+ㄴ 남편이자 아버지 +이라고 확신하+ㄴ다 .	PER-B O O O O O O O O
+북한 핵 프로그램 에 맞서 는 국제 사회 의 공조 가 강화되 고 있 다 .	ORG-B O O O O O O O O O O O O O O O
+유럽 이사회 는 이날 발표한 성명 에서 “ 지난해 11 월 30 일 유엔 안보리 결의 2321 호 에 의해 부과된 추가 제재 를 그대로 ( EU 법 에 ) 이전한다 ” 고 밝 혔 다 .	O O O O O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O
+이 에 따 라 EU 가 부과한 제재 에 는 북한 과 의 석탄 · 철광석 거래 를 일절 금하 며 구리 · 니켈 · 은 · 아연 등 광물 과 조각상 수입 을 금지하 는 내용 이 포함 됐 다 .	O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+EU 는 북한 에 대한 헬리콥터 와 선박 수출 을 금지하 고 운송 · 금융 분야 에서 는 기존 제재 를 강화 했 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+한때 당내 ‘ 투톱 ’ 으로 호흡 을 자랑하 던 새누리당 이정현 대표 와 정진석 원내 대표 가 ‘ 최순실 게이트 ’ 를 전후해 각자 의 길 을 가 는 모양새 다 .	O O O O O O O O O O ORG-B PER-B O O PER-B O O O O O O O O O O O O O O O O O O
+조 장관 은 2014 년 6 월 부터 1 년 가까이 청와대 정무 수석 비서관 재직 중 리스트 작성 에 관여한 혐의 를 받 고 있 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O O O O ORG-B O O O O O O O O O O O O O O O O
+연기력 과 티켓 파워 를 동시 에 갖춘 배우 로 꼽히 는 손예진 주연 의 ‘ 덕혜 옹주 ’ 는 다음 달 3 일 쟁쟁한 경쟁 작 들 사이 에서 흥행할 수 있 을까 . 》 ▽ 장선희 = ‘ 덕혜 옹주 ’ 는 ‘ 부산 행 ’ 이나 ‘ 인천 상륙 작전 ’ 같 은 여름 시장 저격 용 블록버스터 들 사이 에서 돋보 여 . 영화 마지막 , 노쇠한 덕혜 옹주 가 덕수궁 중화전 앞 에 앉 아 사 이 다	O O O O O O O O O O O O PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O LOC-B LOC-I O O O O O O O
+272 년 전 사우디 왕가 에 충성 맹세한 ‘ IS 원조 ’ 이슬람 국가 ( IS ) 의 신학 적 근거 인 살라 피 즘 은 놀랍 게 도 사우디 아라비아 알 사우드 왕가 의 이념 이 기 도 하 다 .	DAT-B DAT-I DAT-I ORG-B O O O O O ORG-B O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O LOC-B LOC-I ORG-B ORG-I ORG-I O O O O O O O O
+롯데 상사 가 이달 27 일 이사회 를 열 고 경북 성주 롯데 스카이 힐 컨트리클럽 ( 성주 골프장 ) 을 사드 ( THAAD · 고고도 미사일 방어 체계 ) 부지 로 제공하 는 방안 을 최종 승인할 예정 인 것 으로 23 일 확인 됐 다 .	ORG-B ORG-I O O DAT-B DAT-I O O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+하지만 전 종목 을 통틀어 아나운서 와 의 결혼 을 통해 역전 만루 홈런 을 친 선수 를 꼽 으라면 단연 박병호 다 .	O O O O O O O O O O O O O O O O O O O O O PER-B O O
+최일구 전 앵커 ‘ 사기 혐의 ’ 피소 … “ 무혐의 처분 받 은 사안 ” 해명 들 어 보 니 ?	PER-B O O O O O O O O O O O O O O O O O O O O O
+【 워싱턴 = 로이터 AFP 연합 특약 】	O LOC-B O ORG-B ORG-I ORG-I O O
+” - 오바마 대통령 의 신앙 은 . “ 그 가 훌륭한 남편 이 자 아버지 라고 확신한다 .	O O PER-B O O O O O O O O O O O O O O O O

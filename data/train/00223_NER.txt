@@ -1,12 +1,12 @@
-‘보네르1’은 행운을 불러오고 불행과 재앙을 막아 주+ㄴ다는 네 잎클로버를 모티브로 하+ㄴ 다이아 목걸이이다 .	O O O O O O O O O O O O O O
-10월쯤 나코엔터테인먼트를 통하+여 ‘자체 제작’ 음반을 처음 선보이+ㄹ 예정이다 .	O ORG-B O O O O O O O O
-재활을 마치고 돌아오+ㄴ 박희수와 박정배가 있었고, LG에서 트레이드 하+여오+ㄴ 신재웅(사진)에 대하+ㄴ기대도 있었다 .	O O O PER-B PER-B O ORG-B O O PER-B O O O
-박빙이 1명, 두산이 3명이다 .	O O ORG-B O O
-DGIST는 이번 행사를 계기로 융복합과학연구자들의 네트워크를 구축하+여국제공동연구 활성화에 나서 +ㄴ다 .	ORG-B O O O O O O O O O O
-“힐링캠프 김상중, 사건 후 상황도 방송 하+여주세요” 등의 반응을 보이었다 .	O PER-B O O O O O O O O O
-한편 제주항공의 연봉과 근속연수에도 눈길이 모이고 있다 .	O ORG-B O O O O O O
-경찰마저도 임지연에게 ‘등본을 떼지 않아 사기를 당하+ㄴ 것’이라며 나무라 +았지만 당장 노숙을 하+여야 하+ㄹ 처지는 변하지 않는 모습이었다 .	O PER-B O O O O O O O O O O O O O O O O O
-다만 한국은 사정이 좀 다르다 .	O ORG-B O O O O
-당시에도 일부 금융권에서는 삼성물산의 합병 비율이 너무 낮다는 지적이 나오았다 .	O O O ORG-B O O O O O O O
-GS는 미래 먹거리 발굴과 사업 포트폴리오 강화, 안정적 수익성 확보를 위하+ 여 경쟁력을 더욱 강화 하+여나가고 있다 .	ORG-B O O O O O O O O O O O O O O O O O
-뒤잇어 이날 외교부는 “카트만두 북부 랑탕 인근 샤브로베시를 여행 중이던 우리 국민 부부 여행객이 낙석에 부상하+여 남편이 중상을, 부인이 경상을 입은 사실을 현지 공관을 통하+여 추가로 확인하였다”고 밝히었다 .	O O ORG-B LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O
+‘ 보 네르 # 1 ’ 은 행운 을 불러오 고 불행 과 재앙 을 막 아 준다는 네 잎 클로버 를 모티브 로 한 다이아 목걸 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 월 쯤 나코 엔터테인먼트 를 통해 ‘ 자체 제작 ’ 음반 을 처음 선보일 예정 이 다 .	DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O O O O O O
+재활 을 마치 고 돌아온 박희수 와 박정배 가 있 었 고 , LG 에서 트레이드해 온 신재웅 ( 사진 ) 에 대한 기대 도 있 었 다 .	O O O O O PER-B O PER-B O O O O O ORG-B O O O PER-B O O O O O O O O O O O
+박빙 이 1 명 , 두산 이 3 명 이 다 .	O O O O O ORG-B O O O O O O
+DGIST 는 이번 행사 를 계기 로 융 복합 과학 연구자 들 의 네트워크 를 구축해 국제 공동 연구 활성화 에 나선다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+“ 힐링 캠프 김상중 , 사건 후 상황 도 방송해 주 세요 ” 등 의 반응 을 보 였 다 .	O O O PER-B O O O O O O O O O O O O O O O O O
+한편 제주 항공 의 연봉 과 근속 연수 에 도 눈길 이 모이 고 있 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O
+경찰 마저 도 임지연 에게 ‘ 등본 을 떼 지 않 아 사기 를 당한 것 ’ 이 라며 나무랐 지만 당장 노숙 을 해야 할 처지 는 변하 지 않 는 모습 이 었 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다만 한국 은 사정 이 좀 다르 다 .	O ORG-B O O O O O O O
+당시 에 도 일부 금융 권 에서 는 삼성물산 의 합병 비율 이 너무 낮 다는 지적 이 나 왔 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O
+GS 는 미래 먹거리 발굴 과 사업 포트폴리오 강화 , 안정적 수익성 확보 를 위해 경쟁력 을 더욱 강화해 나가 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+뒤이 어 이날 외교부 는 “ 카트만두 북부 랑탕 인근 샤브로베시 를 여행 중 이 던 우리 국민 부부 여행객 이 낙석 에 부상해 남편 이 중상 을 , 부인 이 경상 을 입 은 사실 을 현지 공관 을 통해 추가 로 확인 했 다 ” 고 밝 혔 다 .	O O O ORG-B O O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,9 +1,9 @@
-지난해 성(性) 차별로 인하+여 국가인권위원회에 접수되+ㄴ 진정 이 전년에 비하+여 3배 이상 증가하+ㄴ 것으로 나타나 +았다 .	O O O O ORG-B O O O O O O O O O O O O
-'밤을 걷는 선비'이 준기의 해외 팬들은 방송 전부터 지하철에 광고를 게재하며 든든하+ㄴ 지원군이 +ㅁ을 자처하였다 .	O O O O O O O O O O O O O O O O
-코카콜라, 독일 루프트한자 등 대형 신규 광고주의 영입도 잇어+가았다 .	ORG-B ORG-B ORG-I O O O O O O O
-미국과 독일 등의 스포츠 선진국들은 이미 오래전부터 하나의 체육단체 아래서 시너지 효과를 누리+어+오았다 .	ORG-B ORG-B O O O O O O O O O O O O
-4, 남한은 이미 상당수 강 하+ㄴ군대와 경찰력을 창설하였음 .	O ORG-B O O O O O O O
-손 의장은 이날 전북도의회기자회견에서 ‘안 전 대표와 경쟁에서 이기+ㄹ 가능성이 있느냐’는 질문에 “지금 누구를 이기겠다고 말하는 것은 좀 뭐하겠지만 경선이라는 공정 하+ㄴ과정을 거치면 자신 있다”고 말하였다 .	PER-B O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O
-세금을 감면받기 위하+여 한국 국적을 회복하려는 것 아니냐는 의혹에 대하+여서 +ㄴ “가장 억울하+ㄴ 부분 중 하나”라고 호소하였다 .	O O O ORG-B O O O O O O O O O O O O O O
-한반도에 다시 전운이 감돌고 있다 .	LOC-B O O O O O
-“미국으로 떠나며 ‘10년 후 할리우드 영화에 이름한 줄 올리자’ +이라는 목표를 세우었어요.2000년대 초 미국에 IT 붐이 일어나면서 컴퓨터 그래픽 전문가들이 실리콘밸리로 대거 이동하였죠. 그 때문에 영화 관련 IT 전문가수가 줄었고, 덕분에 빨리 자리 잡을 수 있었어요. .	LOC-B O O O LOC-B O O O O O O O O LOC-B O O O O O O LOC-B O O O O O O O O O O O O O O O O
+지난해 성 ( 性 ) 차별 로 인해 국가 인권 위원회 에 접수된 진정 이 전년 에 비해 3 배 이상 증가한 것 으로 나타났 다 .	O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
+' 밤 을 걷 는 선비 ' 이준기 의 해외 팬 들 은 방송 전 부터 지하철 에 광고 를 게재하 며 든든한 지원군 임 을 자처 했 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+코카콜라 , 독일 루프트한자 등 대형 신규 광고주 의 영입 도 이 어 갔 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O
+미국 과 독일 등 의 스포츠 선진국 들 은 이미 오래 전 부터 하나 의 체육 단체 아래 서 시너지 효과 를 누려 왔 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+4 , 남한 은 이미 상당수 강한 군대 와 경찰력 을 창설하 였 음 .	O O ORG-B O O O O O O O O O O O O
+손 의장 은 이날 전북 도의회 기자 회견 에서 ‘ 안 전 대표 와 경쟁 에서 이길 가능성 이 있 느냐 ’ 는 질문 에 “ 지금 누구 를 이기 겠 다 고 말하 는 것 은 좀 뭐 하 겠 지만 경선 이 라는 공정한 과정 을 거치 면 자신 있 다 ” 고 말 했 다 .	PER-B O O O ORG-B ORG-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세금 을 감면 받 기 위해 한국 국적 을 회복하 려는 것 아니 냐는 의혹 에 대해선 “ 가장 억울한 부분 중 하나 ” 라고 호소 했 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+한반도 에 다시 전운 이 감돌 고 있 다 .	LOC-B O O O O O O O O O
+“ 미국 으로 떠나 며 ‘ 10 년 후 할리우드 영화 에 이름 한 줄 올리 자 ’ 라는 목표 를 세 웠 어요 . 2000 년대 초 미국 에 IT 붐 이 일어나 면서 컴퓨터 그래픽 전문가 들 이 실리콘밸리 로 대거 이동 했 죠 . 그 때문 에 영화 관련 IT 전문가 수 가 줄 었 고 , 덕분 에 빨리 자리 잡 을 수 있 었 어요 . ”	O LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

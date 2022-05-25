@@ -1,16 +1,16 @@
-독거노인들을 초대하+여삼계탕을 무료로 대접하는 행사+이다. 이날 식사가 제공되기 한참 전부터 국회 후생관뜰에 차리+어지+ㄴ 수십개의 테이블은 독거노인 1000여명으로 가득 차+았다 .	O O O O O O O O O O O O O O O O O O O O
-○국내 업체 삼파전 4일 자동차업계에 따르면 13일 나오는 티볼리의 가솔린 모델 연비는 L당 12∼12.3km 수준이다 .	O O O O O O O O O O O O O O O O
-클링너 연구원은 “방코 델타 아시아(BDA)의 경우 북한 협상단 관계자가 ‘당신이 결국 우리에게 피해를 주는 방법을 찾아내고야 말았다’고 시인 하+ㄹ 정도로 효과적 이+ㄴ 제재 조치+이었는데 이를 포기하+ㄴ 것+ㄴ 실수+이었다”고 지적하였다 .	PER-B O ORG-B ORG-I ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
-김 장관은 21일 “지금의 상황에서는 사직하는 것+이 도리”+이라며 사의를 표명하였다 .	PER-B O O O O O O O O O O
-건축기획전 ‘아웃오브더 박스’ .	O O O O
-이런 가운데 경남 창원에 안정적 이+ㄴ 임대수익이 기대되는 오피스텔이 나오아 인기+이다 .	O O LOC-B LOC-B O O O O O O O O
-조던은 스미스 감독을 ‘코치 그 이상의 분’이라며 평생 ‘삶의 스승’으로 모시었다 .	PER-B PER-B O O O O O O O O O O
-성수동 삼표레미콘 공장이 비밀 배출구를 통하+여폐수를 무단방류 하+ㄴ 사실이 적발되+어비난이 일고 있다. 서울 성동구(구청장 정원오)는 “성수동 삼표산업성수동공장이 비밀 배출구를 통하+여폐수를 무단방류하는 현장을 적발, 행정조치+였다”고 2일 전하였다.성동구는 지나 +ㄴ달 27일 오전 9시 경환경 오염물질 배출업소 이+ㄴ 삼표레미콘 공장에서 집수조에 모으아 지+ㄴ 폐수가 전량 수질오염 방지시설로 유입되+어처리되지 않고 비밀 배출구를 통하 +여폐 수 일부가 하천으로 유출되는 등 폐수 무단 방류 현장을 찾았다. 산업폐수 무단 배출은 생태계를 파괴, 상수원을 오염시키는 결과를 초래하+ㄴ다 .	ORG-I ORG-B ORG-I O O O O O O O O O LOC-B LOC-B PER-B ORG-I ORG-B O O O O O O O O LOC-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-가천대 길병원의 연구역량을 이끌는 데는 든든하+ㄴ 연구 인프라가 크+ㄴ 역할을 +였다 .	ORG-B ORG-I O O O O O O O O O O
-가지+ㄴ 것 없어도 우리 새별이에게 만큼은 열심히 살는 훌륭하+ㄴ 부모가 되자” 청주에서 새벽 늦게 일을 마치고 귀가하던 중 뺑소니 차량에 치어 숨지+ㄴ한 예비 아빠(29)가 마지막으로 아내에게 남기+ㄴ말이다. 크림빵 뺑소니 사고사연이 SNS에서 퍼지고 있는 가운데 뺑소니 범인을 잡기 위 하+ㄴ신고포상금을 나오았다. 충북 청주 흥덕경찰서에 의하면 지나+ㄴ 10일 오전 1시30분쯤 흥덕구의 한 도로에서 뺑소니 사고가 일어나 +았다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O LOC-B O O O O O O O
-그것+이저+의 작품의 공통점이죠.” ‘리틀포레스트’ 2부작의 이치코도 마찬가지 +이다 .	O O O O O PER-B O O O
-그래서 자혼기르의 부모는 형제에게 “멀리 가지 말라”고 하+ㄴ다 .	O PER-B O O O O O O O
-스위스 모터 한 개당 가격은 60만원으로 32개가 달리 +ㄴ점을 감안하면 휴보의 전체 제작 비용 1억원 중 20% 가까이 차지하고 있다 .	ORG-B O O O O MNY-B O O O O O O O O MNY-B O O O O O O
-“나는 없고 구성원 ‘권순호’만 있는 느낌이었습니다 .	O O O PER-B O O O
-[주간동아1012호/IT .	O O
-“아쉽어요. 많이 아쉽어요. 끝나 +ㄴ지 한 달이 지나 +았는데 KS 경기가 계속 떠오르 아요 .	O O O O O O O O O O O O O O O
+독거노인 들 을 초대해 삼계탕 을 무료 로 대접하 는 행사 다 . 이날 식사 가 제공되 기 한참 전 부터 국회 후생 관 뜰 에 차려 진 수십 개 의 테이블 은 독거노인 1000 여 명 으로 가득 찼 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+○ 국내 업체 삼파전 4 일 자동차 업계 에 따르 면 13 일 나오 는 티볼리 의 가솔린 모델 연비 는 L 당 12 ∼ 12.3 km 수준 이 다 .	O O O O DAT-B DAT-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+클링너 연구원 은 “ 방코 델타 아시아 ( BDA ) 의 경우 북한 협상 단 관계자 가 ‘ 당신 이 결국 우리 에게 피해 를 주 는 방법 을 찾아내 고야 말 았 다 ’ 고 시인할 정도 로 효과적 인 제재 조치 였 는데 이 를 포기한 건 실수 였 다 ” 고 지적 했 다 .	PER-B O O O ORG-B ORG-I ORG-I O ORG-B O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 장관 은 21 일 “ 지금 의 상황 에서 는 사직하 는 게 도리 ” 라며 사의 를 표명 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+건축 기획 전 ‘ 아웃 오브 더 박스 ’ 전	O O O O O O O O O O
+이런 가운데 경남 창원 에 안정적 인 임대 수익 이 기대되 는 오피스텔 이 나 와 인기 다 .	O O LOC-B LOC-B O O O O O O O O O O O O O O O
+조던 은 스미스 감독 을 ‘ 코치 그 이상 의 분 ’ 이 라며 평생 ‘ 삶 의 스승 ’ 으로 모 셨 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+성수동 삼표 레미콘 공장 이 비밀 배출구 를 통해 폐수 를 무단 방류한 사실 이 적발돼 비난 이 일 고 있 다 . 서울 성동구 ( 구청장 정원오 ) 는 “ 성수동 삼표 산업 성수동 공장 이 비밀 배출구 를 통해 폐수 를 무단 방류 하 는 현장 을 적발 , 행정 조치 했 다 ” 고 2 일 전 했 다 . 성동구 는 지난 달 27 일 오전 9 시 경 환경오염 물질 배출 업소 인 삼표 레미콘 공장 에서 집 수조 에 모 아 진 폐수 가 전량 수질 오염 방지 시설 로 유입돼 처리되 지 않 고 비밀 배출구 를 통해 폐수 일부 가 하천 으로 유출되 는 등 폐수 무단 방류 현장 을 찾 았 다 . 산업 폐수 무단 배출 은 생태계 를 파괴 , 상수원 을 오염 시키 는 결과 를 초래한다 .	LOC-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O LOC-B LOC-B O O PER-B O O O LOC-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O LOC-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가천대 길병원 의 연구 역량 을 이끄 는 데 는 든든한 연구 인프라 가 큰 역할 을 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+가진 것 없 어도 우리 새별이 에게 만큼 은 열심히 사 는 훌륭한 부모 가 되 자 ” 청주 에서 새벽 늦 게 일 을 마치 고 귀 가 하 던 중 뺑소니 차량 에 치 어 숨진 한 예비 아빠 ( 29 ) 가 마지막 으로 아내 에게 남긴 말 이 다 . 크림빵 뺑소니 사고 사연 이 SNS 에서 퍼지 고 있 는 가운데 뺑소니 범인 을 잡 기 위한 신고 포상금 을 나 왔 다 . 충북 청주 흥덕 경찰서 에 의하 면 지난 10 일 오전 1 시 30 분 쯤 흥덕구 의 한 도로 에서 뺑소니 사고 가 일어났 다 .	O O O O O PER-B O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B O O O O O O O O O O
+그게 제 작품 의 공통점 이 죠 . ” ‘ 리틀 포레스트 ’ 2 부 작 의 이치코 도 마찬가지 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O
+그래서 자 혼 기르 의 부모 는 형제 에게 “ 멀리 가 지 말 라 ” 고 한다 .	O PER-B PER-I PER-I O O O O O O O O O O O O O O O
+스위스 모터 한 개 당 가격 은 60 만 원 으로 32 개 가 달린 점 을 감안하 면 휴보 의 전체 제작 비용 1 억 원 중 20 % 가까이 차지하 고 있 다 .	ORG-B O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+“ 나 는 없 고 구성원 ‘ 권순호 ’ 만 있 는 느낌 이 었 습니다 .	O O O O O O O PER-B O O O O O O O O O
+[ 주간동아 1012 호 / IT ]	O O O O O O O
+“ 아쉬 워요 . 많이 아쉬 워요 . 끝난 지 한 달 이 지났 는데 KS 경기 가 계속 떠올 라요 .	O O O O O O O O O O O O O O O O O O O O O O

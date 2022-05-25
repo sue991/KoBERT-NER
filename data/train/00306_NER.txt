@@ -1,13 +1,13 @@
-LS엠트론은 기계와 부품 분야의 글로벌 기업을 목표로 2008년 7월에 출범하였다 .	ORG-B O O O O O O O O O O
-그런데 6개월여 지나 +ㄴ 8일 밤 그는 도쿄도(東京都)에서 열리+ㄴ 자신의 정치자금 모금 파티에서 말실수를 하고 말았다 .	O O O O O O O LOC-B O O O O O O O O O
-블룸버그통신은 ‘전(錢)의 전쟁’으로 불리는 미 대선에서 10억달러 모금을 눈앞에 두 +ㄴ 클린턴 후보가 완승하였다고 보도하였다 .	ORG-B O O O ORG-B O MNY-B O O O O PER-B O O O O
-겁은 천지가 한 번 개벽 하+ㄴ 뒤 다음 개벽 때까지로, 시간으로 따지면 수십억 년이다 .	O O O O O O O O O O O O O O O
-유럽 등 세계 각국의 양적완화와 한국은행의 기준금리 인하로 풀리+ㄴ돈의 탄력을 받아 증시가 거침없이 상승세를 타고 있다 .	ORG-B O O O O ORG-B O O O O O O O O O O O
-우선 트럼프가 일부 경합주에서 이기+ 어 최대 273명의 선거인단을 확보하+ 여당선되는 두 가지 경우 +이다 .	O PER-B O O O O O O O O O O O O O O
-과정은 쉽고 결과물은 그럴싸하+ㄴ 것.그것+이 홈메이드 요리의 매력이지요. 강남 통신이 영지기자 lee. you ngj i@j oongang. co.kr[이영지기자의 한 끼라도] 치즈를 이용하+ㄴ 술안주 만들기 간편하고 건강 하+ㄴ테이크아웃 곰국튀김 요리 완전 정복!! 아침 메뉴로 스페인 타파스 어떻+어요 '초록색 감자' 같은 아보카도, 맛있게 요리하는 법한 때 '악마의 식재료' +이었던 버터라면 보다 쉽ㄴ스페인 새우 요리 ▶ 강남통신기사를 더보 시려면 여기를 클릭하세요 .	O O O O O O O O ORG-B ORG-I O O O O O O PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O LOC-B O O O ORG-B O O O O O
-말리+ㄴ과일이 치아에 들러 붙으면 세균이 많이 생기기 때문에 먹은 후 꼭 물로 입을 헹구고 20분 후 양치질을 하+여야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-EU가 2020년 친환경 제품 관련 규제를 시행하면 한국산 제품에 대하+여서도 물발자국과 같은 환경정보를 요구 하+ㄹ 것으로 보이+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O
-'서머너즈워'와 '별이 되어라' 2년 지나 +아도훨훨..게임빌과 컴투스 '승승장구 .	O O O O O ORG-B ORG-B O O
-중국 통신업체 이+ㄴZTE가 미국 스마트폰 시장에서 두각을 보이고 있다 .	ORG-B O ORG-B ORG-B O O O O O O
-ZTE는 14일 발표 하+ㄴ보도자료를 통하+여지나 +ㄴ해 미국 스마트폰 시장에서 약 7.8%의 점유율을 기록하+ 여 애플·삼성·LG 등에잇어 4위에 오르았다고 밝히었다 .	ORG-B O O O O O ORG-B O O O O O O O ORG-B O O O O O
-[부고]최양화별 세·승천장학관 승태 승심승희 부친상·정수진 홍순호 현호인장인 .	PER-B PER-B PER-B PER-B PER-B PER-B PER-B O
+LS 엠 트론 은 기계 와 부품 분야 의 글로벌 기업 을 목표 로 2008 년 7 월 에 출범 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+그런데 6 개월 여 지난 8 일 밤 그 는 도쿄 도 ( 東京都 ) 에서 열린 자신 의 정치 자금 모금 파티 에서 말실수 를 하 고 말 았 다 .	O O O O O DAT-B DAT-I O O O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O
+블룸버그통신 은 ‘ 전 ( 錢 ) 의 전쟁 ’ 으로 불리 는 미 대선 에서 10 억 달러 모금 을 눈앞 에 둔 클린턴 후보 가 완승 했 다고 보도 했 다 .	ORG-B O O O O O O O O O O O O ORG-B O O MNY-B MNY-I MNY-I O O O O O PER-B O O O O O O O O O
+겁 은 천지 가 한 번 개벽한 뒤 다음 개벽 때 까지 로 , 시간 으로 따지 면 수십 억 년 이 다 .	O O O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I O O O
+유럽 등 세계 각국 의 양적 완화 와 한국은행 의 기준 금리 인하 로 풀린 돈 의 탄력 을 받 아 증시 가 거침없이 상승세 를 타 고 있 다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+우선 트럼프 가 일부 경합 주 에서 이겨 최대 273 명 의 선거인단 을 확보해 당선되 는 두 가지 경우 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
+과정 은 쉽 고 결과물 은 그럴싸한 것 . 그게 홈 메이드 요리 의 매력 이 지요 . 강남 통신 이영지 기자 lee . youngji @ joongang . co . kr [ 이영지 기자 의 한 끼 라도 ] 치즈 를 이용한 술안주 만들 기 간편하 고 건강한 테이크 아웃 곰국 튀김 요리 완전 정복 ! ! 아침 메뉴 로 스페인 타 파스 어때요 ' 초록색 감자 ' 같 은 아보카도 , 맛있 게 요리하 는 법 한때 ' 악마 의 식 재료 ' 였 던 버터 라면 보다 쉬 운 스페인 새우 요리 ▶ 강남 통신 기사 를 더 보 시 려면 여기 를 클릭하 세요 .	O O O O O O O O O O O O O O O O O O ORG-B ORG-I PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O ORG-B ORG-I O O O O O O O O O O O
+말린 과일 이 치아 에 들러붙 으면 세균 이 많이 생기 기 때문 에 먹 은 후 꼭 물 로 입 을 헹구 고 20 분 후 양치질 을 해야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+EU 가 2020 년 친환경 제품 관련 규제 를 시행하 면 한국 산 제품 에 대해서 도 물 발자국 과 같 은 환경 정보 를 요구할 것 으로 보인다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 서머 너 즈 워 ' 와 ' 별 이 되 어라 ' 2 년 지나도 훨훨 . . 게임 빌 과 컴투스 ' 승승장구 '	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O O
+중국 통신업 체 인 ZTE 가 미국 스마트 폰 시장 에서 두각 을 보이 고 있 다 .	ORG-B O O O ORG-B O ORG-B O O O O O O O O O O O
+ZTE 는 14 일 발표한 보도 자료 를 통해 지난 해 미국 스마트 폰 시장 에서 약 7.8 % 의 점유율 을 기록해 애플 · 삼성 · LG 등 에 이 어 4 위 에 올 랐 다고 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O O O ORG-B O O O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O
+[ 부고 ] 최양화 별세 · 승천 장학관 승태 승 심 승희 부친상 · 정수진 홍순호 현호인 장인상	O O O PER-B O O PER-B O PER-B PER-B PER-I PER-B O O PER-B PER-B PER-B O

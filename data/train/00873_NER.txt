@@ -1,16 +1,16 @@
-[DBR] 이철희 분당서울대병원장 “혁신 콘텐츠 보물창고 더도 말고 지금처럼만 .	O PER-B O O O O O O O O
-ML첫 ‘4-5-4’ 연결 플레이 …타석서도 2안타 1득점 활 .	O O O O O O O O O
-사진 ㅣ웰메이드 스타엠(주민등록증 일제 교체 추진 주민등록증 일제 교체 추진) 동아닷컴 영상뉴스팀 studio@d onga. co .	O O O ORG-B O ORG-B O ORG-B O ORG-B ORG-I O O O O O
-KEB하나은행은 23일 만 40세 이상 직원을 대상으로 특별퇴직을 실시하+ㄴ다고 밝히었다 .	ORG-B O O O ORG-B O O O O O O
-이 중 쏘렌토는 463건, 코란도 31건 등이다 .	O O O O O O O O
-2위는 걸그룹 트와이스의 신곡 ‘치어업(CHEERUP)’, 3위는 방탄소년단의 ‘파이어(불타오르네)’가 차지하였다 .	O O ORG-B O O O ORG-B O O O
-드라마 ‘태양의 후예’ OST 두 편도 10위 내에 포함되었다 .	O O O O O O O O O O
-식물 133종, 무척추동물 39종, 어류 26종, 양서류 10종, 파충류·포유류·조류 각각 1종씩이+ㅂ니다 .	O O O O O O O O O O O O
-동부히말라야는 생물학적으로 도 매우 중요하+ㄴ장소 이+ㅂ니다 .	LOC-B O O O O O O
-원 원내대표는 “북한의 공포와 파멸의 핵에 맞서 +어우리도 자위권 차원의 평화의 핵을 가지+ㄹ 때가 +었다고 판단하+ㄴ다”며 “우리 안보는 그 누구도 지키+어주+ㄹ 수 없다 .	PER-B PER-B ORG-B O O O O O O PER-B O O O O O O O O O O O O O O
-또 우승자에게는 제네시스 차량을 비롯하+여 현대차가 미국에서 개최하고 있는 PGA(미국 프로골프) 투어 제네시스 오픈의 출전권(차기년도)도 제공 하+ㄴ다 .	O O O O O ORG-B LOC-B O O LOC-B O O O O O O O O
-샛강 청소에 앞서 +어강원도는 대회에 참석하+ㄴ도 단위 기관장 춘천시 ­군민뿐 아니라 22개 전시­군 관계자에게 「샛강을 살리+ㅂ시다」스티커 1만장을 배포하였다 .	O O O ORG-B O O O O LOC-B O O O O O O O O O O
-지나+ㄴ 2005년 아르헨티나 리버플레이트 소속으로 프로 무대에 데뷔 하+ㄴ이 과인은 2007년 스페인 프리메라리가 레알 마드리드로 이적, 7시즌 동안 스페인 무대를 누비었고 107골을 넣었다 .	O O ORG-B ORG-I O O O O PER-B PER-I O LOC-B ORG-I ORG-B ORG-I PER-B O O LOC-B O O O O O
-총 분양가는 1억원 초반부터 시작되며, 초기실 투자금은 4000만∼5000만원 정도로 투자위험을 줄이었다 .	O O MNY-B O O O O MNY-B O O O O
-‘순간 욕심에 …’ 70대 부부 청소로 모으+ㄴ 현금 뭉치가져가 + .	O O O MNY-B O O O O O O O
-썰 전이철희 “이것+이 정부 +이고, 대통령이고, 청와대 이+ㅂ니까” … 메르스 대응에 날서+ㄴ 비 .	O PER-B O O O O ORG-B O O O O O O O
+[ DBR ] 이철희 분당서울대병원 장 “ 혁신 콘텐츠 보물 창고 더 도 말 고 지금 처럼 만 ”	O O O PER-B O O O O O O O O O O O O O O O
+ML 첫 ‘ 4 - 5 - 4 ’ 연결 플레이 … 타석 서 도 2 안타 1 득점 활약	O O O O O O O O O O O O O O O O O O O O
+사진 ㅣ 웰 메이드 스타 엠 ( 주민 등록증 일제 교체 추진 주민 등록증 일제 교체 추진 ) 동아닷컴 영상 뉴스 팀 studio @ donga . com	O O O O O O O O O ORG-B O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O
+KEB 하나은행 은 23 일 만 40 세 이상 직원 을 대상 으로 특별 퇴직 을 실시한다고 밝 혔 다 .	ORG-B ORG-I O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O
+이 중 쏘렌토 는 463 건 , 코란도 31 건 등 이 다 .	O O O O O O O O O O O O O O
+2 위 는 걸그룹 트와이스 의 신곡 ‘ 치어 업 ( CHEER UP ) ’ , 3 위 는 방탄소년단 의 ‘ 파이어 ( 불타오르 네 ) ’ 가 차지 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+드라마 ‘ 태양 의 후예 ’ OST 두 편 도 10 위 내 에 포함 됐 다 .	O O O O O O O O O O O O O O O O O O
+식물 133 종 , 무척추동물 39 종 , 어류 26 종 , 양서류 10 종 , 파충류 · 포유류 · 조류 각각 1 종 씩 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동부 히말라야 는 생물학 적 으로 도 매우 중요한 장소 입니다 .	LOC-B LOC-B O O O O O O O O O O
+원 원내 대표 는 “ 북한 의 공포 와 파멸 의 핵 에 맞서 우리 도 자위권 차원 의 평화 의 핵 을 가질 때 가 됐 다고 판단한다 ” 며 “ 우리 안보 는 그 누구 도 지켜 줄 수 없 다 .	PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 우승자 에게 는 제네시스 차량 을 비롯해 현대차 가 미국 에서 개최하 고 있 는 PGA ( 미국 프로 골프 ) 투어 제네시스 오픈 의 출전권 ( 차기 년도 ) 도 제공한다 .	O O O O O O O O ORG-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+샛강 청소 에 앞서 강원도 는 대회 에 참석한 도 단위 기관장 춘천시 ­ 군민 뿐 아니 라 22 개 전 시 ­ 군 관계자 에게 「 샛강 을 살립시다 」 스티커 1 만 장 을 배포 했 다 .	O O O O ORG-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 2005 년 아르헨티나 리버 플레이트 소속 으로 프로 무대 에 데뷔한 이 과인 은 2007 년 스페인 프리메라리가 레알 마드리드 로 이적 , 7 시즌 동안 스페인 무대 를 누 볐 고 107 골 을 넣 었 다 .	O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O PER-B PER-I O DAT-B DAT-I ORG-B ORG-I ORG-B ORG-I O O O O O O LOC-B O O O O O O O O O O O O
+총 분양 가 는 1 억 원 초반 부터 시작되 며 , 초기 실투 자금 은 4000 만 ∼ 5000 만 원 정도 로 투자 위험 을 줄 였 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O
+‘ 순간 욕심 에 … ’ 70 대 부부 청소 로 모은 현금 뭉치 가져가	O O O O O O MNY-B MNY-I O O O O O O O
+썰 전 이철희 “ 이게 정부 고 , 대통령 이 고 , 청와대 입니까 ” … 메르스 대응 에 날 선 비판	O O PER-B O O O O O O O O O ORG-B O O O O O O O O O

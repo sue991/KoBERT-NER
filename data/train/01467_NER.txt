@@ -1,14 +1,14 @@
-지금이야 그럭저럭 버티지만 이 상태로 5년 만 지속되+어도 고통이 폐부를 찌르+ㄹ 것이다 .	O O O O O O O O O O O O O
-새누리당의 한 당직자는 “결국은 다시 야당과 협상을 하+ㄹ 수밖에 없다는 점을 감안하+ㄴ 발언으로 보+아야 하+ㄴ다”고 설명하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O
-을숙도에코센터는 철새에 관하+ㄴ 정보 제공과 낙동강 하구의 아름답+ㅁ, 생태환경 보전의 중요성을 알리기 위하+ㄴ 홍보관이다 .	ORG-B O O O O LOC-B O O O O O O O O O
-스마트폰 성장세가 정체기로 들어서고 중국과의 가격 경쟁이 심화하면서 실적이 더 악화 하+ㄹ 수 있다”고 예상하였다 .	O O O O ORG-B O O O O O O O O O O O
-매일 밤 자정쯤이면 그의 팩시밀리가 울리+어 대기 시작하고 사라예보의 피해 상황과 군 작전 상황 등이 그의 숙소에 속속 전달되+ㄴ다 .	O O O O O O O O LOC-B O O O O O O O O O O O
-2014년 관세청 보고서에 따르면 우리나라의 커피 원두 수입량은 6127t으로 1인당 연간 298잔의 커피를 마시+ㄴ 것으로 추정되+ㄴ다 .	O ORG-B O O O O O O O O O O O O O O O
-작년 행사는 처음이라 준비도 부족하였고 주민참여도 적어 아쉬움이 많았던 「 밝은 집」사람들은 이번에 +ㄴ 홍보물도 돌리고 동네 부녀회나 상조회, 근처 유지를 찾아 참여와 협조를 부탁하+ㄹ 생각이다 .	O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
-가장 인기 있는 코스는 청산도항에서 이어지는 1코스.서편제에서 세식구가 아리랑을 부르며 덩실덩실 춤추며 지나는 장면의 무대가 여기 있다 .	O O O O LOC-B O O O O O O O O O O O O O
-음주단속 강화, 괜찮은 줄 알고 마시었다가 +ㄴ… 실제 걸리는 양은 '이 정도' 담배 끊고 대신 술?낮 시간대 음주단속 강화 서울지방경찰청은 음주운전 교통사고가 증가하는 행락철을 맞아 오는 6월까지 음주운전 집중·확대 단속에 나서기로+였다고 19일 밝히었다 .	O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
-인간 대표 이+ㄴ이세돌 9단과의 바둑 대결에서 승리 하+ㄴ 구글의 인공지능 ‘알파고’에 대하+ㄴ 관심이 높아지고 있다 .	O O PER-B O O O O O O O O O O O O O
-펠르랭 전 장관은 1973년 서울에서 태어나 +ㄴ지 6개월 만에 프랑스로 입양되었다 .	PER-B O O O LOC-B O O O O ORG-B O O
-효성은 1992년 한국 기업 중 처음으로 스판덱스 개발에 성공하+ㄴ이후 중국과 베트남, 터키, 브라질 등 세계 주요 시장의 거점지역에 생산시설을 빠르게 늘리+어나가 +았다 .	ORG-B O LOC-B O O O O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O
-각각의 시스템을 별도로 적용하였을 때와 비교하면 IBU는 무게가 60%, 크기는 50% 줄었고 원가는 40%가량 낮추었다 .	O O O O O O O O O O O O O O O O
-요우커 맞춤형 비자, 내년 1월부터 모든 중국인 단체관광객을 대상으로 확대 시행법무부가 요우커(중국인 관광객) 유치를 위하+여맞춤형 비자서비스를 시행하+ㄴ다고 6일 밝히었다. 법무부는 “요우커 유치를 위하+여전자비자(e-VISA) 발급을 단체관광객 전체로 확대하는 등 맞춤형 비자서비스를 하+ㄴ다”고 밝히+어, 이에 내년 1월부터 모든 중국인 단체관광객을 대상으로 맞춤형 비자서비스가 확대 시행되 +ㄹ 예정이다 .	O O O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+지금 이야 그럭저럭 버티 지만 이 상태 로 5 년 만 지속돼 도 고통 이 폐부 를 찌를 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O
+새누리당 의 한 당직자 는 “ 결국 은 다시 야당 과 협상 을 할 수 밖에 없 다는 점 을 감안한 발언 으로 봐야 한다 ” 고 설명 했 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+을숙도 에코 센터 는 철새 에 관한 정보 제공 과 낙동강 하구 의 아름다움 , 생태 환경 보전 의 중요성 을 알리 기 위한 홍보 관 이 다 .	ORG-B ORG-I ORG-I O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+스마트 폰 성장세 가 정체기 로 들어서 고 중국 과 의 가격 경쟁 이 심화하 면서 실적 이 더 악화할 수 있 다 ” 고 예상 했 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+매일 밤 자정 쯤 이 면 그 의 팩시밀리 가 울려 대 기 시작하 고 사라예보 의 피해 상황 과 군 작전 상황 등 이 그 의 숙소 에 속속 전달된다 .	O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O
+2014 년 관세청 보고서 에 따르 면 우리나라 의 커피 원두 수입 량 은 6127 t 으로 1 인 당 연간 298 잔 의 커피 를 마신 것 으로 추정된다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+작년 행사 는 처음 이 라 준비 도 부족 했 고 주민 참여 도 적 어 아쉬움 이 많 았 던 「 밝 은 집 」 사람 들 은 이번 엔 홍보물 도 돌리 고 동네 부녀회 나 상조 회 , 근처 유지 를 찾 아 참여 와 협조 를 부탁할 생각 이 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가장 인기 있 는 코스 는 청산도 항 에서 이어지 는 1 코스 . 서편제 에서 세 식구 가 아리랑 을 부르 며 덩실덩실 춤추 며 지나 는 장면 의 무대 가 여기 있 다 .	O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+음주 단속 강화 , 괜찮 은 줄 알 고 마 셨 다간 … 실제 걸리 는 양 은 ' 이 정도 ' 담배 끊 고 대신 술 ? 낮 시간 대 음주 단속 강화 서울지방경찰청 은 음주 운전 교통사고 가 증가하 는 행락 철 을 맞 아 오 는 6 월 까지 음주 운전 집중 · 확대 단속 에 나서 기 로 했 다고 19 일 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I O O O O
+인간 대표 인 이세돌 9 단 과 의 바둑 대결 에서 승리한 구글 의 인공 지능 ‘ 알파 고 ’ 에 대한 관심 이 높아지 고 있 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+펠르랭 전 장관 은 1973 년 서울 에서 태어난 지 6 개월 만 에 프랑스 로 입양 됐 다 .	PER-B O O O DAT-B DAT-I LOC-B O O O O O O O ORG-B O O O O O
+효성 은 1992 년 한국 기업 중 처음 으로 스판덱스 개발 에 성공한 이후 중국 과 베트남 , 터키 , 브라질 등 세계 주요 시장 의 거점 지역 에 생산 시설 을 빠르 게 늘려 나갔 다 .	ORG-B O DAT-B DAT-I LOC-B O O O O O O O O O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O
+각각 의 시스템 을 별도 로 적용 했 을 때 와 비교하 면 IBU 는 무게 가 60 % , 크기 는 50 % 줄 었 고 원가 는 40 % 가량 낮 췄 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+요우 커 맞춤 형 비자 , 내년 1 월 부터 모든 중국인 단체 관광객 을 대상 으로 확대 시행 법무부 가 요우 커 ( 중국인 관광객 ) 유치 를 위해 맞춤 형 비자 서비스 를 시행한다고 6 일 밝 혔 다 . 법무부 는 “ 요우 커 유치 를 위해 전자 비자 ( e - VISA ) 발급 을 단체 관광객 전체 로 확대하 는 등 맞춤 형 비자 서비스 를 한다 ” 고 밝혀 , 이 에 내년 1 월 부터 모든 중국인 단체 관광객 을 대상 으로 맞춤 형 비자 서비스 가 확대 시행될 예정 이 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O

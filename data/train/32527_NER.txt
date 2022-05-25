@@ -1,14 +1,14 @@
-본회의에 앞서 +어열리+ㄴ 새정치민주연합의총에서 ‘양심에 따르 아자유투표에 임하+ㄴ다’는 결정에 따르+ㄴ 것.한편 원내 의석을 5석 갖고 있는 정의당은 이날 임명동의안 인준 표결에 불참하+ㄴ 것으로 알려지었다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
-‘송도 맥주축제 2015’ 송도 맥주축제로 유명 하+ㄴ 제5회 ‘2015송도세계문화축제’가 개최되 +ㄴ다 .	O O O O O O O O O O O O
-전 세계의 맥주를 체험 하+ㄹ 수 있어 ‘송도 맥주축제’로 불리는 이 축제는 28일 개막하+여 다음달 5일까지 9일간 열리+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-‘송도 맥주축제’의 주요 행사는 음악 페스티벌, 전 세계 맥주 체험 행사 등으로 준비되었다 .	O O O O O O O O O O O O O O
-음악 페스티벌에서는 국내외 가수들의 라이브 공연이 9일 동안 연잇어 진행되면서 여느 락 페스벌 못지않은 열기를 느끼+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O
-특히 미 본토에 대하+ㄴ테러 위협을 제거하기 위하+ㄴ 최강의 군사력 확충에 나서겠다고 밝히+어, 북한 김정은 정권이 연초 예고 하+ㄴ 대륙간 탄도미사일(ICBM) 시험발사에 나서 +ㄹ 경우 초강경 대응을 검토하+ㄹ 것이 +ㅁ을 시사하였다 .	O LOC-B O O O O O O O O O O ORG-B PER-B O O O O O LOC-B O O O O O O O O O O O
-韓선수단의 목표는 ‘10-10’ …리우 금빛질주스타트는 누구 .	ORG-B O O LOC-B O O O
-강동경희대병원 신경과 수면센터 신원철(대한수면학회정책이사) 교수는 “정신이 산만 하+ 여병원을 찾는 아이가운데 수면부채가 심하게 쌓이+ㄴ 사례가 많다”고 말하였다 .	ORG-B ORG-I ORG-I ORG-B ORG-I O O O O O O O O O O O O O
-두 사람은 16일 새벽 서울 강남구 강남역 사거리에서 오토바이를 치고 달아나던 뺑소니 차량을 112에 신고 하+ㄴ 뒤 자신들의 차로 추격하였다 .	O O O O LOC-B LOC-I LOC-I LOC-I O O O O O ORG-B O O O O O O O
-김현중 전 여친 출산, 과거 김현중 문자보니 “군대가 +아있는 동안 잘 키우어” … 무슨 의미 .	PER-B O O O O PER-B O O O O O O O O O O
-2억5000만명 규모의 세계 4위 인구 대국이+ㄴ 인도네시아는 1분기 총 970만대의 스마트폰을 판매 하+여 15개 국가 중 가장 크+ㄴ 판매량을 나타내 +었다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O
-최지우는 "유호정과 홍콩, 제주도, 부산, 터키, 뉴욕까지 함께 여행을 다니었을 정도로 친하+ㄴ 사이이다 .	PER-B PER-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O O
-이날 볼트는 자메이카의 마지막 주자로 나+아서 가장 먼저 결승선을 통과하였다 .	O PER-B ORG-B O O O O O O O O
-지하 1층, 지상 4층에 전용면적 84m ²248 채 규모+이다 .	O O O O O O O O O O
+본회의 에 앞서 열린 새정치민주연합 의총 에서 ‘ 양심 에 따 라 자유 투표 에 임한다 ’ 는 결정 에 따른 것 . 한편 원내 의석 을 5 석 갖 고 있 는 정의당 은 이날 임명 동의 안 인준 표결 에 불참한 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+‘ 송도 맥주 축제 2015 ’ 송도 맥주 축제 로 유명한 제 5 회 ‘ 2015 송도 세계 문화 축제 ’ 가 개최된다 .	O O O O DAT-B O O O O O O O O O O DAT-B O O O O O O O O
+전 세계 의 맥주 를 체험할 수 있 어 ‘ 송도 맥주 축제 ’ 로 불리 는 이 축제 는 28 일 개막해 다음 달 5 일 까지 9 일 간 열린다 .	O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O
+‘ 송도 맥주 축제 ’ 의 주요 행사 는 음악 페스티벌 , 전 세계 맥주 체험 행사 등 으로 준비 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+음악 페스티벌 에서 는 국내외 가수 들 의 라이브 공연 이 9 일 동안 연이 어 진행되 면서 여느 락페스벌 못지않 은 열기 를 느낄 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 미 본토 에 대한 테러 위협 을 제거하 기 위한 최강 의 군사력 확충 에 나서 겠 다고 밝혀 , 북한 김정은 정권 이 연초 예고한 대륙 간 탄도미사일 ( ICBM ) 시험 발사 에 나설 경우 초 강경 대응 을 검토할 것 임 을 시사 했 다 .	O LOC-B O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+韓 선수단 의 목표 는 ‘ 10 - 10 ’ … 리우 금빛 질주 스타트 는 누구 ?	ORG-B ORG-I O O O O O O O O O LOC-B O O O O O O
+강동경희대병원 신경 과 수면 센터 신원철 ( 대한 수 면학회 정책 이사 ) 교수 는 “ 정신 이 산만해 병원 을 찾 는 아이 가운데 수면 부채 가 심하 게 쌓인 사례 가 많 다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 사람 은 16 일 새벽 서울 강남구 강남역 사거리 에서 오토바이 를 치 고 달아나 던 뺑소니 차량 을 112 에 신고한 뒤 자신 들 의 차 로 추격 했 다 .	O O O DAT-B DAT-I O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O ORG-B O O O O O O O O O O O O
+김현중 전 여 친 출산 , 과거 김현중 문자 보 니 “ 군대 가 있 는 동안 잘 키 워 ” … 무슨 의미 ?	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O
+2 억 5000 만 명 규모 의 세계 4 위 인구 대국 인 인도네시아 는 1 분기 총 970 만 대 의 스마트폰 을 판매해 15 개 국가 중 가장 큰 판매량 을 나타냈 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+최지우 는 " 유호정 과 홍콩 , 제주도 , 부산 , 터키 , 뉴욕 까지 함께 여행 을 다 녔 을 정도 로 친한 사 이 다 .	PER-B O O PER-B O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O
+이날 볼트 는 자메이카 의 마지막 주자 로 나서 가장 먼저 결승선 을 통과 했 다 .	O PER-B O ORG-B O O O O O O O O O O O O O
+지하 1 층 , 지상 4 층 에 전용면적 84 m ² 248 채 규모 다 .	O O O O O O O O O O O O O O O O O

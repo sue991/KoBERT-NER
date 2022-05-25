@@ -1,13 +1,13 @@
-문 후보는 “암기 위주의 교육은 4차 산업혁명에 맞지 않다”며 교육체계 개편을 강조하였다 .	PER-B O O O O O O O O O O O O
-이 같은 빅스비의 기능은 딥러닝(Deep-Learning) 기술을 통하+여자 주 활용되+ㄹ수록 최적화되+ㄴ다 .	O O O O O O O O O O O
-"동호유키스 하+ㄹ 때가 엊그제 같은데...""동호 결혼 축하 하+여요" "동호 결혼 행복하었으면 "등 동호에 대하+ㄴ 애정어리+ㄴ 응원을 잇어가고 있다 .	ORG-B O O O PER-B O O O PER-B O O O PER-B O O O O O O
-한편, 동호는 2008년 아이돌 그룹 유키스 멤버로 데뷔 후 2013년 연예계 활동을 잠정 중단 하+ㄴ바 있다 .	O PER-B O O O ORG-B O O O O O O O O O O O
-앞서 +어달오측 변호인단은 시카고 쿡카운티의 지방법원에 이번 사건과 관련 하+ㄴ 영상과 승객·승무원 목록 등 증거보존을 요청하였다 .	O PER-B O LOC-B LOC-B O O O O O O O O O O O O
-(서울=뉴스1 .	LOC-B O
-오토바이가 도난 당하였다는 112 신고가 23일 오후 4시 46분 경 접수되었다 .	O O O ORG-B O O O O O O O O
-오늘 우리가 70만년 전까지 거스르어올라가는 구석기 문화를 자랑하고 「선사시대 」+이라는 어엿 하+ㄴ 이름이 교과서의 한 부분을 차지하기까지에는 많은 학자들이 산과 들에서 보내+ㄴ오랜 시간이 필요하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-종목별 세계선수권대회를 앞두고는 “잘 하+여야 하+ㄴ다는 부담을 버리고 나+의 스케이팅을 하는 것+이 과제”라고 신체보다 정신적 이+ㄴ 부분에 중점을 +었다 .	O O O O O O O O O O O O O O O O O O O O
-아직 충청, 영남, 수도권 등 80% 정도의 선거인단이 남아 있다는 것이다 .	O LOC-B LOC-B LOC-B O O O O O O O O
-21일 KDB산업은행 경제연구소는 ’사드 배치와 한중 관계 악화에 따르+ㄴ 산업별 영향 ‘보고서를 통하+여이같이 밝히었다 .	O ORG-B ORG-I O O O O O O O O O O O O
-중국인의 지역별 특징과 새롭ㄴ 부유층의 대두, 외국인의 입장, 불안하+ㄴ치안 상황 등은 중국에 관심을 갖고 있는 경제인이라면 누구나 알아야 하+ㄹ 것들이다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O
-市 “항속거리 800km 등 요건 미달”vs KAI “과도하+ㄴ 기준 … 안전 문제 없어 .	O O O O O O ORG-B O O O O O O O
+문 후보 는 “ 암기 위주 의 교육 은 4 차 산업 혁명 에 맞 지 않 다 ” 며 교육 체계 개편 을 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 같 은 빅스 비 의 기능 은 딥 러닝 ( Deep - Learning ) 기술 을 통해 자주 활용될수록 최적화된다 .	O O O O O O O O O O O O O O O O O O O O O O
+" 동호 유 키스 할 때 가 엊그제 같 은데 . . . " " 동호 결혼 축하해요 " " 동호 결혼 행복 했 으면 " 등 동호 에 대한 애정 어린 응원 을 이 어 가 고 있 다 .	O PER-B ORG-B ORG-I O O O O O O O O O O O PER-B O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O
+한편 , 동호 는 2008 년 아이돌 그룹 유 키스 멤버 로 데뷔 후 2013 년 연예계 활동 을 잠정 중단한 바 있 다 .	O O PER-B O DAT-B DAT-I O O ORG-B ORG-I O O O O DAT-B DAT-I O O O O O O O O O
+앞서 다 오 측 변호인 단 은 시카고 쿡 카운티 의 지방 법원 에 이번 사건 과 관련한 영상 과 승객 · 승무원 목록 등 증거 보존 을 요청 했 다 .	O PER-B PER-I O O O O LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+오토바이 가 도난 당 했 다는 112 신고 가 23 일 오후 4 시 46 분 경 접수 됐 다 .	O O O O O O ORG-B O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O
+오늘 우리 가 70 만 년 전 까지 거슬 러 올라가 는 구석기 문화 를 자랑하 고 「 선사 시대 」 라는 어엿한 이름 이 교과서 의 한 부분 을 차지하 기 까지 에 는 많 은 학자 들 이 산 과 들 에서 보낸 오랜 시간 이 필요 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+종목별 세계 선수권 대회 를 앞두 고는 “ 잘 해야 한다는 부담 을 버리 고 내 스케이팅 을 하 는 게 과제 ” 라고 신체 보다 정신적 인 부분 에 중점 을 뒀 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아직 충청 , 영남 , 수도권 등 80 % 정도 의 선거인단 이 남 아 있 다는 것 이 다 .	O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O
+21 일 KDB 산업은행 경제 연구소 는 ’ 사드 배치 와 한중 관계 악화 에 따른 산업 별 영향 ‘ 보고서 를 통해 이같이 밝 혔 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+중국인 의 지역 별 특징 과 새로 운 부유층 의 대두 , 외국인 의 입장 , 불안한 치안 상황 등 은 중국 에 관심 을 갖 고 있 는 경제인 이 라면 누구 나 알 아야 할 것 들 이 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+市 “ 항속거리 800 km 등 요건 미달 ” vs KAI “ 과도한 기준 … 안전 문제 없 어 ”	O O O O O O O O O O ORG-B O O O O O O O O O

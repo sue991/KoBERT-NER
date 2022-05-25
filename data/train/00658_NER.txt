@@ -1,16 +1,16 @@
-당시 김희애는 화보에서 빨간색 민소매 요가복과 검정색 숏팬츠의 상만 입고 섹시하+ㄴ 포즈를 취하고 있다 .	O PER-B O O O O O O O O O O O O O
-서울시는 온맵시나누+ㅁ바자회를 18, 19일 지하 1층 시민청에서 열 +ㄴ다고 17일 밝히었다 .	ORG-B O O O O O LOC-B O O O O O
-중년기부터 하나둘 생겨나 +ㄴ 질병은 해가 지나 +ㄹ수록 하나씩 늘어나고 노년기에 이르어서는 그 숫자가 많아 지+ㄹ 수밖에 없다 .	O O O O O O O O O O O O O O O O O O O
-요시노 교수는 『이 연구를 통하+여 그동안 명문화되지 않았던 법률의 식구조의 해명이 가능하며 법률학을 전문가 이외의 사람들도 접근하+ㄹ 수 있는 과학으로 발전시키는 것』이라고 말하고 있다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-이 같은 사실은 철원군 갈말읍의 한 농장이 7일 새 돼지를 들이자마자 구제역 의심신고를 하면서 밝혀지었다 .	O O O LOC-B LOC-B O O O O O O O O O O O
-그러면서 김 의원은 ‘남부권 신공항 범시도민추진위원회’를 비롯하+ㄴ 시민사회와 함께 향후 대책을 강구하+어나가 +ㄹ 계획이 +ㅁ을 밝히었다 .	O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O
-앞서 +어 이날 오후 3시 국토교통부는 ‘영남권 신공항 사전 타당성 검토연구 최종보고회’를 통하+여영남권 신공항 건설 안백지화를 발표하였다 .	O O O O O ORG-B O O O O O O O O O O O O
-국토교통부와 함께 연구용역을 벌이어 오+ㄴ 프랑스 파리공항공단 엔지니어링(ADPi) 의장 마리슈발리에 시니어 어드바이저는 “공항 운영, 접근성, 소음·환경, 비용·리스크 등에 가중치를 달리 하+ㄴ네 가지 시나리오 모두에서 김해공항 확장이 1위를 차지하였다”고 설명하였다 .	ORG-B O O O O ORG-B LOC-I ORG-B PER-B PER-I PER-I PER-I LOC-I O O O O O O O O O O O LOC-B PER-B O O O O
-달샤벳 수빈, 걸그룹 최초로 미니앨범 프로듀서 …기대감 UP! .	ORG-B PER-B O O O O O O O
-‘우병우 논란’이 계속되면 되+ㄹ수록 ‘조응천’이라는 이름이 부각되고 있다 .	PER-B O O O PER-B O O O O
-권은희 의원도 “당시 찬성 하+ㄴ 것은 본인의 책임”이라며 “자동 폐기로 가자”고 제안하였다 .	PER-B O O O O O O O O O O O O
-올해 미국 라스베이거스에서 열리+ㄴ CES(ConsumerElectronics Show) 2015를 통하+여먼저 공개되+ㄴ D5500은 2013년 하반기에 출시하+여크+ㄴ인기를 얻었던 D5300를 업그레이드 한 제품이다 .	O LOC-B LOC-B O O O O O O O O O O O O O O O O
-학급 단위로 필요하+ㄴ 책을 공공도서관에 신청하면 책 30여권을 한꺼번에 한 달 정도 대출 하+여주는 서비스+이다 .	O O O O O O O O O O O O O O O O
-이후 두 사람은 서로에게 소리를 지르며 매우 격분하+ㄴ 모습을 보이었고, 그 과정에서 여성은 부츠 신은 발로 딸의 머리를 짓밟는 시늉을 하기도 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-해당 영상은 뱌체슬라프가 자신의 휴대폰으로 촬영하+ㄴ 것이며, 이후 온라인을 통하+여공개되었다 .	O O PER-B O O O O O O O O
-당시 현장을 목격 하+ㄴ류드밀라이그나티예바(43)는 이 매체와의 인터뷰에서 “그 부부가 싸우는 것을 내가 직접 +았다 .	O O O PER-B O O O O O O O O O O O
+당시 김희애 는 화보 에서 빨간색 민소매 요가 복 과 검정 색 숏 팬츠 의상 만 입 고 섹시한 포즈 를 취하 고 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+서울시 는 온 맵시 나눔 바자회 를 18 , 19 일 지하 1 층 시민 청 에서 연다고 17 일 밝 혔 다 .	ORG-B O O O O O O DAT-B O DAT-B DAT-I O O O LOC-B LOC-I O O DAT-B DAT-I O O O O
+중년기 부터 하나 둘 생겨난 질병 은 해 가 지날수록 하나 씩 늘어나 고 노년기 에 이르 러서 는 그 숫자 가 많아질 수 밖에 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+요시노 교수 는 『 이 연구 를 통해 그동안 명문화되 지 않 았 던 법률 의식 구조 의 해명 이 가능하 며 법률학 을 전문가 이외 의 사람 들 도 접근할 수 있 는 과학 으로 발전 시키 는 것 』 이라고 말하 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 같 은 사실 은 철원군 갈말읍 의 한 농장 이 7 일 새 돼지 를 들이 자마자 구제역 의심 신고 를 하 면서 밝혀 졌 다 .	O O O O O LOC-B LOC-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+그러 면서 김 의원 은 ‘ 남부 권 신 공항 범 시 도민 추진 위원회 ’ 를 비롯한 시민 사회 와 함께 향후 대책 을 강구해 나갈 계획 임 을 밝 혔 다 .	O O PER-B O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+앞서 이날 오후 3 시 국토 교통 부 는 ‘ 영남 권 신 공항 사전 타당성 검토 연구 최종 보고 회 ’ 를 통해 영남 권 신 공항 건설 안 백지화 를 발표 했 다 .	O O TIM-B TIM-I TIM-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국토 교통 부 와 함께 연구 용역 을 벌 여 온 프랑스 파리 공항공단 엔지니어링 ( ADPi ) 의 장 마리 슈발리에 시니어 어드바이저 는 “ 공항 운영 , 접근성 , 소음 · 환경 , 비용 · 리스크 등 에 가중치 를 달리한 네 가지 시나리오 모두 에서 김해 공항 확장 이 1 위 를 차지 했 다 ” 고 설명 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O
+달 샤 벳 수빈 , 걸그룹 최초 로 미니 앨범 프로듀서 … 기대감 UP ! !	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O
+‘ 우병우 논란 ’ 이 계속되 면 될수록 ‘ 조응천 ’ 이 라는 이름 이 부각되 고 있 다 .	O PER-B O O O O O O O PER-B O O O O O O O O O O
+권은희 의원 도 “ 당시 찬성한 것 은 본인 의 책임 ” 이 라며 “ 자동 폐기 로 가 자 ” 고 제안 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+올해 미국 라스베이거스 에서 열린 CES ( Consumer Electronics Show ) 2015 를 통해 먼저 공개된 D 5500 은 2013 년 하반기 에 출시해 큰 인기 를 얻 었 던 D 5300 를 업그레이드 한 제품 이 다 .	O LOC-B LOC-B O O O O O O O O DAT-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+학급 단위 로 필요한 책 을 공공 도서관 에 신청하 면 책 30 여 권 을 한꺼번에 한 달 정도 대출해 주 는 서비스 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 두 사람 은 서로 에게 소리 를 지르 며 매우 격분한 모습 을 보 였 고 , 그 과정 에서 여성 은 부츠 신 은 발 로 딸 의 머리 를 짓밟 는 시늉 을 하 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+해당 영상 은 뱌체슬라프 가 자신 의 휴대폰 으로 촬영한 것 이 며 , 이후 온라인 을 통해 공개 됐 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
+당시 현장 을 목격한 류드밀라 이그 나티 예 바 ( 43 ) 는 이 매체 와 의 인터뷰 에서 “ 그 부부 가 싸우 는 것 을 내 가 직접 봤 다 .	O O O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O

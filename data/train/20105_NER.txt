@@ -1,14 +1,14 @@
-2년 안에 3차례 적발되면 택시 운수종사자 자격이 취소되는 ‘승차거부 삼진아웃제’가 오늘부터 시행되 +ㄴ다 .	O O O O O O O O O O O O O O
-하지만 59년 피델 카스트로 정권이 들어서며 사회주의를 택하 +ㄴ 쿠바와 미국과 음악교류는 사라지었다 .	O O ORG-B ORG-I ORG-I O O O O ORG-B ORG-B O O O
-20년 만의 내무부 연수… 새벽 공부 .	O O ORG-B O O O O
-아시아·태평양경제협력체(APEC) 정상회의를 위하+여필리핀 마닐라를 방문 중 이+ㄴ 박근혜 대통령이 18일(현지시간) 첫 일정으로 ‘ABAC(APEC 기업 자문위원회)과의 대화’에 참석하였다 .	ORG-B O LOC-B LOC-B O O O PER-B O O O O ORG-B ORG-I ORG-I O O O
-이들은 복지부 판단에 따르 아PHIS에 등록되지 않았다 .	O ORG-B O O ORG-B O O O
-복지부 장관 전격 교체 …정진엽 분당서울대병원 교수 내 .	ORG-B O O O PER-B ORG-B O O O
-이날 레이디 가가는 상의 속옷을 입지 않은 채 옆 가슴이 모두 드러나는 독특하+ㄴ 멜빵 패션을 선보이어 주위의 이목을 끌었다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O
-이완구는 “기업 비정규직 줄이어야”… 계약기간 연장 등 정부 대책 제 .	PER-B O O O O O O O O O O
-한미 “제품 미진, 선급금 돌리+어달라” … 벤처“개발비로 +어… 반환의무 없다 .	ORG-B O O O O O O O O O O
-같은 현장에서 1인 시위를 진행하던 세월호 미수습자 가족 측과도 설전을 벌이는 등 마찰을 일으키기도 +였다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O
-한편 탄기국과 보수단체 회원들은 이날 오후 2시 서울 종로구청 앞에서 최근 해당 구청의 헌법재판소 앞 태극기 강제 수거를 규탄하는 기자회견도 하+ㄹ 예정이다 .	O ORG-B O O O O O LOC-B LOC-I O O O O O O O O O O O O O O
-(서울=뉴스1 .	LOC-B O
-같은 시스템을 사용하지 않더라도 두 사람이 서로 편리하게 이야기를 나누는 가장 좋은 방법은 「토크」(talk)를 이용하는 것이다 .	O O O O O O O O O O O O O O O O O
-올 시즌 LPGA투어 최초로 2승 고지를 넘은 ‘하나자이저’ 장하나의 실력만큼이나 화끈 하+ㄴ 세리머니가 화제가 되고 있다 .	O O O O O O O PER-B PER-B O O O O O O O O
+2 년 안 에 3 차례 적발되 면 택시 운수 종사자 자격 이 취소되 는 ‘ 승차 거부 삼진 아웃 제 ’ 가 오늘 부터 시행된다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 59 년 피델 카스트로 정권 이 들어서 며 사회주의 를 택한 쿠바 와 미국 과 음악 교류 는 사라 졌 다 .	O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O ORG-B O ORG-B O O O O O O O O
+20 년 만 의 내무부 연수 … 새벽 공부 도	O O O O ORG-B O O O O O
+아시아 · 태평양 경제 협력체 ( APEC ) 정상 회의 를 위해 필리핀 마닐라 를 방문 중 인 박근혜 대통령 이 18 일 ( 현지 시간 ) 첫 일정 으로 ‘ ABAC ( APEC 기업 자문 위원회 ) 과 의 대화 ’ 에 참석 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B O O O O O LOC-B LOC-B O O O O PER-B O O DAT-B DAT-I O O O O O O O O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O
+이 들 은 복지 부 판단 에 따 라 PHIS 에 등록되 지 않 았 다 .	O O O ORG-B ORG-I O O O O ORG-B O O O O O O O
+복지부 장관 전격 교체 … 정진엽 분당서울대병원 교수 내정	ORG-B O O O O PER-B ORG-B O O
+이날 레이디 가 가 는 상 의 속옷 을 입 지 않 은 채 옆 가슴 이 모두 드러나 는 독특한 멜빵 패션 을 선보 여 주위 의 이목 을 끌 었 다 .	O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이완구 는 “ 기업 비정규직 줄 여야 ” … 계약 기간 연장 등 정부 대책 제동	PER-B O O O O O O O O O O O O O O O
+한미 “ 제품 미진 , 선급금 돌려 달 라 ” … 벤처 “ 개발비 로 써 … 반환 의무 없 다 ”	ORG-B O O O O O O O O O O O O O O O O O O O O O
+같 은 현장 에서 1 인 시위 를 진행하 던 세월호 미 수습 자 가족 측 과 도 설전 을 벌이 는 등 마찰 을 일으키 기 도 했 다 .	O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O
+한편 탄기 국 과 보수 단체 회원 들 은 이날 오후 2 시 서울 종로구 청 앞 에서 최근 해당 구청 의 헌법 재판소 앞 태극기 강제 수거 를 규탄하 는 기자 회견 도 할 예정 이 다 .	O ORG-B ORG-I O O O O O O O TIM-B TIM-I TIM-I LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+같 은 시스템 을 사용하 지 않 더라도 두 사람 이 서로 편리하 게 이야기 를 나누 는 가장 좋 은 방법 은 「 토크 」 ( talk ) 를 이용하 는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올 시즌 LPGA 투어 최초 로 2 승 고지 를 넘 은 ‘ 하나 자 이저 ’ 장하나 의 실력 만큼 이나 화끈한 세리머니 가 화제 가 되 고 있 다 .	DAT-B DAT-I O O O O O O O O O O O PER-B PER-I PER-I O PER-B O O O O O O O O O O O O O O

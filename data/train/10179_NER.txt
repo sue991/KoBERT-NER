@@ -1,13 +1,13 @@
-제44회 베를린국제영화제에서 대상이+ㄴ 금곰상을 수상하+ㄴ「아버지의 이름으로 」(Inthenameofthef ath er)는 테러리스트의 혐의를 받고 영국 경찰에 고문당하며 자유를 향하+ㄴ 투쟁을 벌이어나가는 북아일랜드 청년의 이야기 .	O O O O O O O O O O O O ORG-B ORG-I O O O O O LOC-B O O O
-가장 먼저 박지은 작가님께 감사드리고 장태 유 감독님, 현장에서 고생 하+ㄴ스태프 여러분 감사드리+ㄴ다”고 소감을 말하였다 .	O O PER-B O O O O O O O O O O O O O
-경남도는 대상 초중고교생이 10만명에 이르+ㄹ 것으로 보고 있다 .	ORG-B O O O O O O O O
-힐스테이트만의 특화설계, 품격 있는 브랜드 아파트 ‘힐스테이트 세종3차’는 이러 하+ㄴ 입지적 장점에 힐스테이트만의 특화설계를 적용하+여품격 있는 주거환경을 선보이+ㄹ 계획이다 .	LOC-B O O O O O LOC-B LOC-I O O O O LOC-B O O O O O O O
-먼저 ‘SkidM at’ 포설 공법은 장비 주행성 확보를 위하+여초 연약지반 위에 인장 매트를 효율적으로 포설하는 공법이다 .	O O O O O O O O O O O O O O O O O
-이마트 숙취해소제 ‘울금 500’ 출 .	ORG-B O O O O O
-한편 대회가 열리는 휘닉스스프링스 골프장은 중부고속도로 남이천 IC 개통으로 접근성이 좋아지면서 구름 갤러리가 몰리+ㄹ 것으로 예상되 +ㄴ다 .	O O O LOC-B LOC-I LOC-B LOC-B LOC-I O O O O O O O O O O
-벡스코는 지난해 총 1056건의 행사를 열는 등 높은 경제적 가치를 창출하고 경쟁력을 높이었다 .	ORG-B O O O O O O O O O O O O O
-‘땅콩 회항’ 결심 공판에서 검찰과 조현아 전 대한항공 부사장(41) 측이날 서+ㄴ 공방을 벌이고 있다 .	O O O O O PER-B O ORG-B O O O O O O O
-■3월 말 구단 운영 마감 앞두고 유력 하+ㄴ 선택 3가지 1.2개 기업과 인수 협상 중 … 매각 대금이 걸림돌 2.MG 새마을금고 네이밍스폰서…이사회가 관건3.넥센처럼 위탁관리 … 선수들 팔아 치우기 우려 우리카드가 10일 한국전력과의 경기를 끝으로 NH농협 2014∼2015V 리그 홈경기를 마감하였다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O
-3 경기 넥센-KIA 전에서는 넥센 승리 예상(53.36%)이 가장 높게 예측되었고, KIA 승리 예측(32.55%)과 같은 점수대 예상(14.11%)이 뒤를 잇었다 .	O O ORG-B O ORG-B O O O O O ORG-B O O O O O O O O
-종합교통안전 전문기관이 +ㄴ 교통안전공단이 지난해부터 ‘정부3.0’ 실천에 적극 나서고 있어 호평을 받고 있다 .	ORG-B O O ORG-B O O O O O O O O O O
-전지현 “남편이 총기 액션 시범, 계속 연습하다 보니 나중에는 우습더라 .	PER-B O O O O O O O O O O
+제 44 회 베를린 국제 영화제 에서 대상 인 금곰상 을 수상한 「 아버지 의 이름 으로 」 ( In the name of thefather ) 는 테러리스트 의 혐의 를 받 고 영국 경찰 에 고문 당하 며 자유 를 향한 투쟁 을 벌 여 나가 는 북아일랜드 청년 의 이야기 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O LOC-B O O O O
+가장 먼저 박지은 작가 님 께 감사 드리 고 장태유 감독 님 , 현장 에서 고생한 스태프 여러분 감사 드린다 ” 고 소감 을 말 했 다 .	O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+경남도 는 대상 초 중 고교생 이 10 만 명 에 이를 것 으로 보 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+힐스테이트 만 의 특화 설계 , 품격 있 는 브랜드 아파트 ‘ 힐스테이트 세종 3 차 ’ 는 이러한 입지 적 장점 에 힐스테이트 만 의 특화 설계 를 적용해 품격 있 는 주거 환경 을 선보일 계획 이 다 .	ORG-B O O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O
+먼저 ‘ Skid Mat ’ 포설 공법 은 장비 주행성 확보 를 위해 초 연약 지반 위 에 인장 매트 를 효율적 으로 포설하 는 공법 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이마트 숙취 해소 제 ‘ 울금 500 ’ 출시	ORG-B O O O O O O O O
+한편 대회 가 열리 는 휘닉스 스프링스 골프장 은 중부고속도로 남 이천 IC 개통 으로 접근성 이 좋 아 지 면서 구름 갤러리 가 몰릴 것 으로 예상된다 .	O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O
+벡스코 는 지난해 총 1056 건 의 행사 를 여 는 등 높 은 경제적 가치 를 창출하 고 경쟁력 을 높 였 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 땅콩 회항 ’ 결심 공판 에서 검찰 과 조현아 전 대한항공 부사장 ( 41 ) 측 이 날 선 공방 을 벌이 고 있 다 .	O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O
+■ 3 월 말 구단 운영 마감 앞두 고 유력한 선택 3 가지 1 . 2 개 기업 과 인수 협상 중 … 매각 대금 이 걸림돌 2 . MG 새마을금고 네이밍 스폰서 … 이사회 가 관건 3 . 넥센 처럼 위탁 관리 … 선수 들 팔 아 치우 기 우려 우리카드 가 10 일 한국전력 과 의 경기 를 끝 으로 NH 농협 2014 ∼ 2015 V 리그 홈경기 를 마감 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O ORG-B O O O O O O O O O O O ORG-B O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O
+3 경기 넥센 - KIA 전 에서 는 넥센 승리 예상 ( 53.36 % ) 이 가장 높 게 예측 됐 고 , KIA 승리 예측 ( 32.55 % ) 과 같 은 점수 대 예상 ( 14.11 % ) 이 뒤 를 이 었 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+종합 교통 안전 전문 기관 인 교통 안전 공단 이 지난해 부터 ‘ 정부 3.0 ’ 실천 에 적극 나서 고 있 어 호평 을 받 고 있 다 .	O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+전지현 “ 남편 이 총기 액션 시범 , 계속 연습하 다 보 니 나중 에 는 우습 더라 ”	PER-B O O O O O O O O O O O O O O O O O O

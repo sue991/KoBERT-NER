@@ -1,13 +1,13 @@
-대만 변호사, ‘쯔위 사과 강제’ 혐의로 JYP-황안 검찰 고 .	ORG-B O PER-B O O O ORG-B ORG-B O O
-美자수성가 여성부자… 한국계 '우먼 파워 .	ORG-B O O O O O
-호남 출신이 농협중앙회장에 선출되+ㄴ 것은 4대 문방흠 회장(1964~1966년) 이후 50여년 만이고, 임명직에서 선출직으로 전환하+ㄴ 1988년 이후로는 처음이다 .	LOC-B O O O O O PER-B O O O O O O O O O O O
-이번 대회단체 전 8강 이상 진출팀에는 2016년 리우데자네이루 올림픽 개인전 출전권이 세장씩 주어 지+ㄴ다 .	O O O O O O O O O O O O O O O
-일본 화장품 업체에 취업 하+ㄴ 김혜지(25·여)씨는 “자기소개서에는 어떤 경험을 +였고 그 경험을 통하+여 무엇을 깨닫았는지에 대하+여상세히 +어야 하+ㄴ다”며 “면접 시간이 길기 때문에 지원자는 인성과 태도, 경험 등을 두루 평가받는다”고 말하였다 .	ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-렌터카 활성화/ 보유 대수 1천대 .	O O O O O O
-미국 워싱턴에서 15일(현지시간, 한국시간으로 16일) 열리+ㄴ한·미 국방장관 회담에서 애슈턴 카터 국방장관은 한민구 국방부 장관에게 핵심 기술을 이전 하+여주+ㄹ 수 없다고 통보하였다 .	LOC-B LOC-B O LOC-B O ORG-B O O PER-B PER-I O ORG-B O O O O O O O O O O
-매드포갈릭 명동점 김민석 셰프는 ‘부쳐 스피자는 남녀노소 모두가 좋아하+ㄹ 수 있는 매콤 하+ㄴ비프소스와 싱그럽ㄴ 루꼴라가 어우려 지+ㄴ 메뉴로 특히 명동점은 중국 관광객이 많아 국내뿐 아니라 중국 고객에게도 높은 인기를 얻고 있다’고 말하였다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O
-아베에게 +ㄴ 중화권이 사스트라우마로 한국에 등 돌리+ㄴ 지금이 절호의 기회+이다 .	PER-B O ORG-B O ORG-B O O O O O O
-처음 등장하+ㄴ 히어로 블랙 팬서(채드 윅 보즈멀+ㄴ) 역시 꽤크+ㄴ 비중으로 등장하+여이국적이+ㄴ 액션을 선보이+ㄴ다 .	O O O O O O O O O O O O O O
-한강대교를 건너면 바로 용산으로 이어 지+어 아이파크몰 쇼핑센터, 이마트(용산점), CGV(용산점) 등의 쇼핑시설도 공유 하+ㄹ 수 있다 .	LOC-B O O O O O LOC-B LOC-I LOC-B LOC-B O O O O O O O
-중국 정부를 설득 하+여우리 콘텐트를 규제 대상에서 제외 하+여달라고 요청하는 것이었다 .	ORG-B ORG-I O O O O O O O O O O
-전문가들이 대한항공을 우승 후보로 꼽는데 주저하지 않는 이유+이다 .	O ORG-B O O O O O O O
+대만 변호사 , ‘ 쯔 위 사과 강제 ’ 혐의 로 JYP - 황 안 검찰 고발	ORG-B O O O PER-B PER-I O O O O O ORG-B O PER-B PER-I ORG-B O
+美 자수성가 여성 부자 … 한국 계 ' 우먼파워 '	ORG-B O O O O O O O O O
+호남 출신 이 농협 중앙 회 장 에 선출된 것 은 4 대 문방흠 회장 ( 1964 ~ 1966 년 ) 이후 50 여 년 만 이 고 , 임명 직 에서 선출 직 으로 전환한 1988 년 이후 로 는 처음 이 다 .	LOC-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+이번 대회 단체전 8 강 이상 진출 팀 에 는 2016 년 리우데자네이루 올림픽 개인전 출전권 이 세 장 씩 주어진다 .	O O O O O O O O O O O O O O O O O O O O O O
+일본 화장품 업체 에 취업한 김혜지 ( 25 · 여 ) 씨 는 “ 자기소개 서 에 는 어떤 경험 을 했 고 그 경험 을 통해 무엇 을 깨달 았 는 지 에 대해 상세히 써야 한다 ” 며 “ 면접 시간 이 길 기 때문 에 지원자 는 인성 과 태도 , 경험 등 을 두루 평가 받 는다 ” 고 말 했 다 .	ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+렌터카 활성화 / 보유 대수 1 천 대 로	O O O O O O O O O
+미국 워싱턴 에서 15 일 ( 현지 시간 , 한국 시간 으로 16 일 ) 열린 한 · 미 국방 장관 회담 에서 애슈턴 카터 국방 장관 은 한민구 국방부 장관 에게 핵심 기술 을 이전해 줄 수 없 다고 통보 했 다 .	LOC-B LOC-B O DAT-B DAT-I O O O O LOC-B O O DAT-B DAT-I O O ORG-B ORG-I ORG-I O O O O PER-B PER-I O O O PER-B O O O O O O O O O O O O O O O
+매드포갈릭 명동 점 김민석 셰프 는 ‘ 부쳐스 피자 는 남녀노소 모두 가 좋아할 수 있 는 매콤한 비프 소스 와 싱그러 운 루꼴라 가 어우려진 메뉴 로 특히 명동점 은 중국 관광객 이 많 아 국내 뿐 아니 라 중국 고객 에게 도 높 은 인기 를 얻 고 있 다 ’ 고 말 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+아베 에겐 중화 권 이 사스 트라우마 로 한국 에 등 돌린 지금 이 절호 의 기회 다 .	PER-B O ORG-B ORG-I O O O O ORG-B O O O O O O O O O O
+처음 등장한 히어로 블랙팬 서 ( 채드윅 보즈 먼 ) 역시 꽤 큰 비중 으로 등장해 이국적 인 액션 을 선보인다 .	O O O PER-B PER-I O PER-B PER-I PER-I O O O O O O O O O O O O O
+한강대교 를 건너 면 바로 용산 으로 이어져 아이파크몰 쇼핑센터 , 이마트 ( 용산 점 ) , CGV ( 용산 점 ) 등 의 쇼핑 시설 도 공유할 수 있 다 .	LOC-B O O O O LOC-B O O LOC-B LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O
+중국 정부 를 설득해 우리 콘텐트 를 규제 대상 에서 제외해 달 라고 요청하 는 것 이 었 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+전문가 들 이 대한항공 을 우승 후보 로 꼽 는 데 주저하 지 않 는 이유 다 .	O O O ORG-B O O O O O O O O O O O O O O

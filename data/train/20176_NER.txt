@@ -1,16 +1,16 @@
-Part 16. 구 .	O O O O
-소식을 접하+ㄴ 노민우의 팬들은 “노민우, 남자가 보+아도 예쁘네”, “노민우, 의외의 인물이랑 친하네”, “노민우, 손준호가 누구+이야” 등의 반응을 보이었다 .	O O PER-B O PER-B O O O PER-B O O O PER-B PER-B O O O O O
-이런 캐릭터에 두 사람의 펼치+어내는 연기가 더 하+여지+ 어 ‘인기 8할’은 민아와 서현진이라는 평가가 잇따르고 있다 .	O O O O O O O O O O O PER-B PER-B O O O O
-올 들어 8월 말까지 30대 재벌 계열사의 증시를 통하+ㄴ 자금조달 실적은 전체 기업 자금 조달의 57.8%에 달하는 9조6천5백2억원이 +ㄴ 반면, 30대 재벌총수 및 직계비속들의 계열사 주식 보유는 모두 9천8백86만8천주로 시가는 총 2조9백60억원에 이르+ㄴ다고 민자당 김덕용 의원이 4일 국회 재무위의 증권감독원 감사에서 밝히었다 .	O O O O O O O O O O O O O O O O O MNY-B O O O O O O O O O O O O O MNY-B O ORG-B PER-B MNY-I O ORG-B ORG-I MNY-I O O O
-식품첨가물로 사용 하+ㄹ 수 없는 벤젠으로 맛기름을 만들 +ㄴ 뒤 식당 마트 등에 판매 하+ㄴ식품 제조업자 등 5명이 경찰에 적발되었다 .	O O O O O O O O O O O O O O O O O O O O O
-대구 수성경찰서는 15일 벤젠을 섞은 맛기름을 제조하+여전국에 유통한 혐의(식품위생법 위반)로 경기 안산시의 한 식품업체 대표 김모씨(58) 등 3명을 구속하고 직원 서 모씨(61) 등 2명을 불구속 입건하였다 .	LOC-B ORG-B O O O O O O O O LOC-B LOC-B O O O PER-B O O O O O O O O O O O
-경찰에 따르면 김씨 등은 2013년 10월 25일부터 올해 1월 31일까지 중국 산둥(山東)성에 있는 자회사 공장에서 벤젠과 참깨 추출물, 옥수수 및 해바라기씨 기름을 섞어 만들 +ㄴ맛기름을 국내에 들여 오아식당 마트 등 전국 83곳에 판매 하+ㄴ 혐의+이다 .	O O PER-B O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
-7억원(세 후 4억3000만원)은 정 대표의 호텔 여종업원 욕설 사건 관련 합의금 등으로도 사용되 +ㄴ 것으로 본보 취재 결과 확인되었다 .	MNY-B O MNY-B PER-B O O O O O O O O O O O O O O O O
-관련 법 개정 … 한 ­미­일투자 희 .	O O O O ORG-B ORG-B O O
-B-1B 폭격기는 최대 음속의 1.25배(시속 1530km)로 괌 기지에서 한국(약 3200km)까지 2시간이면 날아오+ㄹ 수 있다 .	O O O O O O LOC-B O LOC-B O O O O O O
-IIC는 3D 디자인용 PC(14대)와 전신(全身) 및 정밀 3D 스캐너(3대), 일반 3D 스캐너(4대) 등을 갖추+ㄴ 전용 3D 스캔실(室), 드론을 이용하+ㄴ 항공 촬영 및 레이싱 시뮬레이터를 이용하+ㄴ드론 교육실, 제품의 아이템 발굴과 시제품 및 완제품 제작, 판매전략을 공유하는 스마트 회의실도 구비하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-하지만 박 대통령 측은 고씨와 류상영씨의 증인 채택을 유지하+ 여야 하+ㄴ다고 주장하였다 .	O PER-B O O O PER-B O O O O O O O
-이에 헌재는 박 대통령 측 주장을 받아들이어 9일 오후 4시로 증인신문을 다시 연기하였다 .	O O PER-B O O O O O O O O O O O
-남성은 37.6%·5.3%가, 여성은 25.1%·4.1%가 각각 비만 혹은 병적비만이었다 .	O O O O O O O O O
-윤학배 해양수산부 차관은 23일 “미수습자들의 위치는 그간의 목격자 증언 등으로 추적하+여+ 놓았다” +이라며 “세월호가 침몰 하+ㄴ 뒤 선미가 바닥에 부딪히었는데, 이들은 아무래도 이선미 쪽에 있을 것으로 추정되+ㄴ다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-1차 예약 가입 고객은 23일 출시 당일 개통 가능하며, 2차는 24일 개통하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O
+Part 16 . 구름	O O O O
+소식 을 접한 노민우 의 팬 들 은 “ 노민우 , 남자 가 봐도 예쁘 네 ” , “ 노민우 , 의외 의 인물 이랑 친하 네 ” , “ 노민우 , 손준호 가 누구 야 ” 등 의 반응 을 보 였 다 .	O O O PER-B O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O
+이런 캐릭터 에 두 사람 의 펼쳐 내 는 연기 가 더해 져 ‘ 인기 8 할 ’ 은 민아 와 서현진 이 라는 평가 가 잇따르 고 있 다 .	O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O
+올 들 어 8 월 말 까지 30 대 재벌 계열사 의 증시 를 통한 자금 조달 실적 은 전체 기업 자금 조달 의 57.8 % 에 달하 는 9 조 6 천 5 백 2 억 원 인 반면 , 30 대 재벌 총수 및 직계 비속 들 의 계열사 주식 보유 는 모두 9 천 8 백 86 만 8 천주 로 시가 는 총 2 조 9 백 60 억 원 에 이른다고 민자당 김덕용 의원 이 4 일 국회 재무 위 의 증권 감독 원 감사 에서 밝 혔 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O ORG-B PER-B O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O
+식품 첨가물 로 사용할 수 없 는 벤젠 으로 맛 기름 을 만든 뒤 식당 마트 등 에 판매한 식품 제조 업자 등 5 명 이 경찰 에 적발 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대구 수성 경찰서 는 15 일 벤젠 을 섞 은 맛 기름 을 제조해 전국 에 유통한 혐의 ( 식품 위생법 위반 ) 로 경기 안산시 의 한 식품 업체 대표 김 모 씨 ( 58 ) 등 3 명 을 구속하 고 직원 서모 씨 ( 61 ) 등 2 명 을 불구속 입건 했 다 .	LOC-B ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O LOC-B LOC-B O O O O O PER-B PER-I O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+경찰 에 따르 면 김 씨 등 은 2013 년 10 월 25 일 부터 올해 1 월 31 일 까지 중국 산둥 ( 山東 ) 성 에 있 는 자회사 공장 에서 벤젠 과 참깨 추출물 , 옥수수 및 해바라기 씨 기름 을 섞 어 만든 맛 기름 을 국내 에 들여 와 식당 마트 등 전국 83 곳 에 판매한 혐의 다 .	O O O O PER-B O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O DAT-B DAT-I DAT-I DAT-I O LOC-B LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 억 원 ( 세후 4 억 3000 만 원 ) 은 정 대표 의 호텔 여종업원 욕설 사건 관련 합의금 등 으로 도 사용된 것 으로 본보 취재 결과 확인 됐 다 .	MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O PER-B O O O O O O O O O O O O O O O O O O O O O
+관련 법 개정 … 한 ­ 미 ­ 일 투자 희망	O O O O ORG-B O ORG-B O ORG-B O O
+B - 1 B 폭격기 는 최대 음속 의 1.25 배 ( 시속 1530 km ) 로 괌 기지 에서 한국 ( 약 3200 km ) 까지 2 시간 이 면 날아올 수 있 다 .	O O O O O O O O O O O O O O O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O
+IIC 는 3 D 디자인 용 PC ( 14 대 ) 와 전신 ( 全身 ) 및 정밀 3 D 스캐너 ( 3 대 ) , 일반 3 D 스캐너 ( 4 대 ) 등 을 갖춘 전용 3 D 스캔 실 ( 室 ) , 드론 을 이용한 항공 촬영 및 레이싱 시뮬레이터 를 이용한 드론 교육 실 , 제품 의 아이템 발굴 과 시제품 및 완제품 제작 , 판매 전략 을 공유하 는 스마트 회의실 도 구비 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 박 대통령 측 은 고 씨 와 류상영 씨 의 증인 채택 을 유지해야 한다고 주장 했 다 .	O PER-B O O O O O O PER-B O O O O O O O O O O O
+이 에 헌재 는 박 대통령 측 주장 을 받아들 여 9 일 오후 4 시 로 증인 신문 을 다시 연기 했 다 .	O O O O PER-B O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O
+남성 은 37.6 % · 5.3 % 가 , 여성 은 25.1 % · 4.1 % 가 각각 비만 혹은 병적 비만 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤학배 해양수산부 차관 은 23 일 “ 미 수습 자 들 의 위치 는 그간 의 목격자 증언 등 으로 추적해 놨 다 ” 라며 “ 세월호 가 침몰한 뒤 선미 가 바닥 에 부딪 혔 는데 , 이 들 은 아무래도 이 선미 쪽 에 있 을 것 으로 추정된다 ” 고 말 했 다 .	PER-B ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 차 예약 가입 고객 은 23 일 출시 당일 개통 가능하 며 , 2 차 는 24 일 개통할 수 있 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O DAT-B DAT-I O O O O O

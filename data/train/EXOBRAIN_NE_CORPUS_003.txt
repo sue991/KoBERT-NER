@@ -1,483 +1,483 @@
-바비킴 속 하+ㄴ그룹 부가 킹즈, 2집 발 .	PER-B O O ORG-B ORG-I O O O
-바비킴은 "힙합이라는 장르에 음악적으로 한계가 없다는 사실을 알리고 싶었다"며 새 음반에 대하+ㄴ자신감을 보이었다 .	PER-B O O O O O O O O O O O O O
-이에 첫 방송에는 보아, 김건모, 임정희 등이 출연하+ㄹ 예정이다.또 박화요비가 리메이크 하+ㄴ '당신과의 키스를 세어보아요'의 원곡을 부르+ㄴ 일본 가수 코야나+하기 유키도 무대에서 +ㄴ다 .	O O O PER-B PER-B PER-B O O O PER-B O O O O PER-B O O LOC-B O PER-B PER-I O O O
-'아이+ㄹ 비미싱유(I' llbemissingyou)'를 좋아하+ㄴ다면 '에버원더(EverWonder)'도 끌리는 트랙이다.래퍼 트위스타(Twista)와 함께 부르+ㄴ 가스펠 '호프(Hope)'에서는 품이 넓어 지+ㄴ 페이스에반스를 충분히 느끼+ㄹ 수 있을 것 .	O O O O O O PER-B PER-B O O O O O O O PER-B O O O O O O
-13일 한ㆍ일동시 발매 하+ㄴ 두 번째 싱글 'SomebodyToLove'는 발매 당일 일본 오리콘 데일리 싱글차트 7위에 오르았다 .	LOC-B LOC-B O O O O O O O LOC-B LOC-B O LOC-B O O O O
-일본서 발표 하+ㄴ 싱글 타이틀곡들이 +ㄴ 'SomebodyToLove'와 'StayWithMeTonight'를 노래 하+ㄴ다 .	LOC-B O O O O O O O O O O
-2인조 힙합그룹 엠-플로의 신보는 'LoopI nMyHeart'와 'Hey!' 등 두 곡의 타이틀곡을 넣은 맥시싱글 앨범이다. 'LoopInMyHeart'는 엠-플로와 여러 차례 함께 +였던 에밀리, 요시카와 부르+ㄴ곡으로 랩과 멜로디가 잘 어우러지+ㄴ다 .	O O ORG-B O O O O O O O O O O O O ORG-B O O O O PER-B O O O O O O O
-이날 무대에서 마야는 '못다 핀 꽃 한 송이' '뱃노래' 등을, 쥬얼리는 '패션''니가 참 좋아' 등 히트곡을 부르+ㄹ 예정이다 .	O O PER-B O O O O O O O ORG-B O O O O O O O O
-실미디어(대표 김주현)는 14일 "플라이 투더스카이, 유진, 전혜빈 등이 소속되+ㄴ 음반 제작사 ㈜피플 크리에이티브의 지분 30%를 인수, 최대주주로 참여하게 +었다"고 밝히었다 .	ORG-B PER-B O ORG-B ORG-I PER-B PER-B O O O O ORG-B ORG-I O O O O O O O O
-'미치+ㄴ 개구리'는 스웨덴의 세일즈맨 다니어 +ㄹ말 메달(DanielMalm edahl)이 친구의 오토바이 시동거는 소리를 컴퓨터로 만들면서 시작되었다.이 소리를 사용하+여리 믹스 한 곡이 인터넷에서 인기를 끌자 다니얼의 친구가 이 소리와 잘 어울리는 개구리를 캐릭터로 만들었다 .	O O LOC-B O PER-B PER-I PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
-싸이가 렉시 1집 타이틀곡 '애송이'와 25일 발표 하+ㄹ 2집 타이틀곡 '눈물 씻고 화장하고'의 작사를 맡았다 .	PER-B PER-B O O O O O O O O O O O O O O
-1980년대 말 해체되 +ㄴ스웨덴의 전설적 이+ㄴ그룹 아바.이들에 대하+ㄴ아쉬움을 달래+어주+ㄹ 우리 시대의 아바'비욘어게인(Bj ornAgain)'이 내한공연을 펼치+ㄴ다 .	O O O LOC-B O O ORG-B O O O O ORG-B O O O O
-탱고듀오 '오리엔탱고' 콘서 .	ORG-I ORG-B O O
-2003년 KBSTV '한민족 리포트'를 통하+여이들의 이야기가 소개되면서 국내에도 알려지게 +었다 .	O O O O O O O O O O O
-탤런트 박근형의 아들이 가수로 데뷔 하+여 활동 중이다 .	O PER-B O O O O O O O
-첫 번째 싱글은 3천장 한정 판매 하+여 공연장 등지에서 매진을 기록하였고, 사이버상에서도 다음 카페 등에서 팬들의 지지도가 상당하+ㄴ 수준이다 .	O O O O O O O O O O O O O O O O O O O O
-은색 벤츠를 타고 MBC 라디오 '정선희의 정오의 희망곡' 녹음을 위하+여 MBC 방송사로 향하던 이승철은 뒤에서 오던 SM5가 차량 뒤쪽을 받아 오른쪽 팔에 부상을 입은 것으로 알려지었다 .	O O O LOC-B O O O O O O LOC-B LOC-I O PER-B O O O O O O O O O O O O O
-이번 타이틀곡 '한 걸음더'도 경쾌하+ㄴ 라틴리듬에 산타나 풍의 기타 연주를 바탕으로 핸드퍼커션, 드럼의 타악기 연주가 풍성하게 들리+ㄴ다. 해변에서 연인들의 설레+ㄴ 감정을 담은 이 곡은 여름에 잘 어울리는 곡.발 라드 곡이 +ㄴ '회상의 언덕'은 세월의 허무하+ㅁ을 느끼는 나이에 예전 어리+ㄴ 시절로 돌아가고 싶다는 순수 하+ㄴ 감정을 담았다.이밖에도 '사랑의 슬픔', '다가기 전에'를 새롭게 편곡하+여수록 하였고, 88년 라이브 콘서트 실황 CD에 는 '또 만나 +았네', '당신만이', '솜사탕' 등 주옥같은 레퍼토리가 담기 +어 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-싸이는 이번 리메이크 음반에 노래를 담은 CD와 콘서트 및 뮤직비디오 등이 수록되+ㄴ DVD를 담았고, 이 DVD 안에 담기 +ㄴ 내용의 일부가 영등위로부터 18세 등급 판정을 받은 것이다 .	PER-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
-일본의 팝밴드 '라운드 테이블'이 23일 오후 9시 서울 청담동 하드록 카페에서 공연 '파티빅웨이브'를 갖는다 .	LOC-B O ORG-B ORG-I O O O LOC-B LOC-B LOC-B LOC-I O O O O
-지난해 우크라이나 '오렌지 혁명' 당시 빅토르 유셴코 후보를 지지하였던 그녀는 자신의 인기를 이용하+여단 식농성까지 벌이며 시민들의 시위 동참을 호소하+ㄹ 만큼 우크라이나의 대표적 이+ㄴ 가수+이었다 .	O LOC-B O O O PER-B PER-I O O O O O O O O O O O O O LOC-B O O O O
-서태지 ㆍ콘ㆍ드래곤 애쉬 등 영상 콘서 .	PER-B ORG-B ORG-I O O ORG-B O
-서태지 컴퍼니는 "초대형 스크린과 최고의 사운드 장비 등을 동원하+여이들 뮤지션의 실제 공연을 보는 것 같은 현장감을 전달 하+ㄹ 것"이라고 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
-또 "서울 공연을 시작으로 8월 25일 부산, 8월 26일 대구에서 콘서트가 이어 지+ㄴ다 .	O LOC-B O O O O LOC-B O O LOC-B O O O O
-서태지와 아이들 출신 이+ㄴ YG엔터테인먼트 양현석 이사가 18일 이 같은 입장을 YG 공식 홈페이지에 올리었다 .	ORG-B ORG-I O O ORG-B PER-B O O O O O ORG-B O O O O
-양 이사는 "음악 관련 종사자들은 YG와 SM, JYP에 대하+ 여비교를 많이 하+ㄴ다 .	PER-B O O O O ORG-B ORG-B ORG-B O O O O O
-이영애, '윤도현…' 서자우림 노래 열 .	PER-B PER-B PER-B O O O
-한편 이날 녹화에는 신혜성, KCM, 소찬휘, 데프콘 등이 출연하며, 22일 방송되+ㄴ다 .	O O O PER-B PER-B PER-B PER-B O O O O O
-쿨의 히트곡을 +어내+ㄴ 김형규, 위종수 등의 작곡가들도 참여하였다.가수은지원도 김우주의 노래를 듣은 후, 수록곡 '독'에 피처링을 하겠다며 이 곡의 랩 메이킹까지 선사하였다. 선배가수 김조한도 첫 방송 현장에서 만나 +ㄴ 김우주를 챙기며 많은 조언을 +였다. 든든 하+ㄴ 지원군을 등에 업고 발표 하+ㄴ 데뷔 음반 'BeforeYouSleep'은 다행히 대중의 시선을 끌고 있다 .	ORG-B O O PER-B PER-B O O PER-B PER-B O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
-'아시아 스타' 비(23)가 일본 도쿄 부도칸에서 단독 공연을 펼치+ㄴ다 .	LOC-B O PER-B LOC-B LOC-B LOC-B O O O O
-SBS, 일본에서 '한류올스타 콘서트' 개최 예 .	ORG-B LOC-B O O O O O
-▲ 아버지 효자손에 맞았다 마야의 아버지는 막내딸에게 엄하였다. 그는 용돈을 쪼개 +어모으+ㄴ 통장을 학교에서 받은 날 몰래 쓰려고 가방 속에 숨기+어놓았다가 아버지 효자손에 맞기도 +였다.지금은 아버지의 굽어 지+ㄴ 허리와 효자손이 닮아 있다고 하+ㄴ다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 소송에 참여하고 있는 음반 제작사들은 19일 "네이버 사이트나 +의 블로그에서 음원이 불법 배포 및 공유되는 상황을 차단하고자 네이버 측에 권리 침해 사실을 통보하고 삭제를 요구하였다"며 "그러나 네이버 측이 소극적으로 대응, 저작권법 위반과 관련 하+여 네티즌 4천명을 상대로 법적 대응을 결정하였다"고 밝히었다 .	O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-록밴드 '오메가3'와 '몽구스'가 23일 오후 7시 홍대 라이브클럽 쌈에서 합동 콘서트 '더 쓰리썸 그루브!(TheThreesomeG roove!)'를 열 +ㄴ다 .	O ORG-B ORG-B ORG-I TIM-B TIM-I LOC-B O LOC-B O O O O O O O O O
-19일 오전부터m. net 등 음악 전문채널을 통하+여전파를 타+ㄴ타이틀곡 '나+의 사랑송이'뮤비에서 강원래는 구준엽과 함께 소파에 앉아 있다 두 발로 벌떡 일어나 +아구준엽과 하이파이브를 하+ㄴ 후역동적으로 춤을 추는 장면을 연출하였다 .	O O O O O O O O O O PER-B PER-B O O O O O O O O PER-B O O O O O O O O
-두 다리로 힘겹게 일어서려는 강원래의 모습에 이 장면은 참여스태프의 눈시울을 적시었고 아내 송이씨는 말을 잇지 못하고 눈물을 흘리었다 .	O O O O PER-B O O O O O O O PER-B O O O O O O
-'나+의 사랑송이' 뮤비의 엔딩에는 '사랑 하+ㄴ다송이야' +이라는 멘트와 함께 강원래와 송이씨의 결혼사진이 앵글에 담기 +ㄴ다 .	O PER-B O O O PER-B O O O PER-B PER-B O O O O O
-인기 스타의 일상을 전달하는 리얼리티 프로그램 '리얼드라마'는 매주 월-수요일 오전 9시 30분에 시청자를 찾아가 +ㄴ다 .	O O O O O O O O O O O O O O O O
-록밴드로는 '와이낫?'과 메탈 밴드 '사일런트 아이', 블루스 밴드 '윤병주 밴드' 등이 나 오+ㄴ다 .	ORG-I ORG-B O O ORG-B ORG-I O O ORG-B ORG-I O O O O
-'클린&더티(Clean&Dirty)'로 국내에도 잘 알려지+ㄴ 일본 밴드 '하버드(HARVARD)'의 2집 '오라클(Oracle)'이 국내에 나오았다 .	O O O O LOC-B O ORG-B O O O O O
-케이블TV 음악채널 Mnet이 새롭ㄴ BI(BrandIdentity)와 캐릭터를 발표하였다 .	O O O O O O O O
-경남 진주 MBC(사장 김영철)가 풍성하+ㄴ 여름 특집 프로그램을 마련하고 피서객 곁으로 다가가 +ㄴ다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O
-헌정무대 중 마지막 무대를 장식하는 이미 자를 21일 오후 KBS홀에서 만나 +았다 .	O O O O O O O O O LOC-B O O O
---기념 공연을 많이 하는데 데뷔 50주년 기념 공연도 계획하고 있나 .	O O O O O O O O O O O
-2천500명의 관객이 참석 하+ㄴ이 날 공연에서 가장 크+ㄴ 호응을 얻은 가수는 신화 멤버로 현재 솔로로도 활동 중 이+ㄴ 신혜성과 이민우. 신화의 팬들이 많이 참석 하+ㄴ덕택도 있었지만 한 그룹의 두 가수가 발라드(신혜성), 댄스(이민우)로 다른 색깔의 음악을 보이어주자 팬들은 주황색 풍선을 흔들며 환호하였다 .	O O O O O O O O O O O ORG-B O O O O O O PER-B PER-B ORG-B O O O O O O O O O PER-B PER-B O O O O O O O O O O
-한국문화콘텐츠진흥원이 기획하+ㄴ '코리아-재팬 레인보우콘서트'는 한국과 일본의 음악 전문 채널이 +ㄴ Mnet과 뮤직온 TV가 공동 제작 하+여오후 7시부터 2시간 동안 한일 양국에서 동시생방송되었다 .	ORG-B O O O ORG-B ORG-B O O O O O O O O O O O O O ORG-B O O O
-8월 20일 오후 7시 연세대학교 야외 노천극장.3만 3천-6만 6천원 .	O O O O LOC-B LOC-I LOC-I MNY-I MNY-I O
-행사에 참여하고 싶은 관객은 공연표 예매 후 다음달 8일까지 신청하면 되+ㄴ다 .	O O O O O O O O O O O O
-교통방송, 한강 콘서트 개 .	ORG-B O O O O
-전주 이씨대 동종 약원은 22일, 영친왕 아들이 구(李玖)씨빈소가 마련되 +ㄴ 창덕궁 낙선재에서 상임이사회(이사장이 환의)를 열고 의친왕(義親王)이강(李堈.1877-1955년)의 손자 이+ㄴ이원(李源.44) 현대홈쇼핑 부장을 고인의 양자로 결정하였다고 이날 말하였다 .	ORG-B ORG-I O O O PER-B ORG-I ORG-I O O LOC-B LOC-I ORG-I PER-I O O O O ORG-B O O O O O O O
-하지만 이런 결정에 대하+여고 종의 서자로서 영친왕의 이복형이며 순종의 이복동생이 +ㄴ의 친왕에게는 11번째 아들이 되는 가수 이석 씨는 격렬하게 반대하며 빈소 현장에서 20여분간 대동종 약원 측과 마찰을 빚었다 .	O O O O O O PER-B O PER-B O O O O O O O PER-B O O O O O O O O O O O O
-솔로3집을 내+ㄴ 김종국은 '제자리걸음'과 함께 발라드 곡 '그녀의 남자에게'도 14위에 올려놓았다. 차트 진입 2주 만에 두 곡 모두 대단하+ㄴ 반응을 얻고 있다.2주간 1위를 지키었던 KCM의 '스마일어게인'은 김종국의 상승세에 밀리+어 2위로 내려오았다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O
-4.가슴 아프아도(플라이 투더스카이 .	O ORG-B ORG-I O
-16.광(SG워너비 .	ORG-B O
-두 번째 CD에서는 현악기와 일렉트로니카 등 색다르+ㄴ 음색이 눈에 띄+ㄴ다. '별의 목소리' 2곡은 몽환적이며 '피아노'에는 잔뜩 가라앉은 감성이 깔리+어 있다. 마지막 곡 '빵'은 이대 후문에서 홍대로 옮기+ㄴ클럽 '빵'에 대하+ㄴ그리움을 담은 곡 .	O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B LOC-I LOC-B O LOC-B O O O O
-'Love'와 'Imagine', 'Pow erToPeople', 'Real Love' 등 존 레넌의 명곡을 듣을 수 있고 'ListenTheSnowIsFall ing' 등 오노 요코와 '플라스틱 오노밴드'의 곡도 만나 +ㄹ 수 있다 .	O O O O O O O PER-B PER-I O O O O O O O O O ORG-B ORG-I O O O O O O
-USM 대학이 창의적 이+ㄴ 젊은 기업가들에게 주+어온상을 연예인에게 수여하+ㄴ 것은 이번이 처음이라고 베르나마 통신은 전하였다 .	ORG-B ORG-I O O O O O O O O O O ORG-B ORG-I O O
-시티누르할리+이자는 포럼 연설을 통하+여정상에 있을 때 성공에 대하+여 조심스럽어하며 다가오+ㄹ 시간 속의 쇠락을 경험하게 되+ㄴ다는 점을 깨닫았다고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O
-"내년 1월 한국 활동계획 .	O O LOC-B O O
-이날 피아노를 연주하며 세 번째 싱글 '걸프렌드'에잇어테이와 함께 제임스 잉그램의 'JustO nce'를 열창하+ㄴK는 호소력 짙은 음색으로 크+ㄴ 박수를 받았다 .	O O O O O O PER-B O PER-B PER-I O O PER-B O O O O O O O
---27일 일본 서 세 번째 싱글 '걸프렌드'가 발매되+ㄴ다 .	O LOC-B O O O O O O O
-하반기에도 일본 스케줄이 연잇어 잡히+어 있어 요즘 한 달에 한 번씩 한국으로 건너가 +아2집 녹음을 하고 있다 .	O LOC-B O O O O O O O O O LOC-B O O O O O O
-다음달 13-15일, 20-21일 오후 2시 ㆍ4시 서울 정동극장에서 열리는 이번 동요콘서트에서 '동물원' 멤버들은 이들의 히트곡과 아이들이 즐기+어부르는 동요를 직접 선곡해 부르어 주+ㄴ다. '아빠 힘내세요!', 7공주의 '봄 하루' 등도 듣을 수 있다 .	O O O O O O LOC-B LOC-B O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O
-장윤정의 히트곡 '어머나'를 작곡하+ㄴ 윤명선 씨가 프로듀서로 참여하+ㄴ이 번 음반은 국악을 전공 하+ㄴ이재은의 창법을 살리+ㄴ 신세대트로트로 구성되었다 .	PER-B O O O PER-B O O O O O O O PER-B O O O O O
-가수 비(23)가 아시아권 MTV 시상식에서 그랜드슬램을 달성, 아시아의 스타로 공인받았다 .	O PER-B LOC-B O O O O LOC-B O O O
-한편 이날 'CCTV-MTV만다린 뮤직 아너스 2005'에서는 중국서 활동 중 이+ㄴ장나라가 '올해의 한국 가수상' 시상자로 나서+어눈길을 끌었다. '올해의 한국 가수상'은 중국 MTV에서 올 한 해 동안 방송되+ㄴ 뮤직비디오 횟수가 가장 많은 아티스트를 선정하+여시상하+ㄴ다.지나 +ㄴ '올해의 한국 가수상'은 신승훈(6회), 장나라(5회), jtL(4회)이 수상하였다. 이날 비는 '나쁘+ㄴ 남자', 'It'sRaining'으로시 상식의 피날레를 장식하였다.이 시상식은 8월 27일 오후 5시 MTV코리아에서 녹화 중계되+ㄴ다 .	O O LOC-B O O O ORG-B O O PER-B O O O O O O O O O ORG-B LOC-B O O O O O PER-B O O O O O O O O O PER-B PER-B ORG-B O O PER-B O O O O O O O O O O O LOC-B O O O
-또 6일에는 스키조, 바셀린, 예레미, 크래쉬 등의 한국팀과 데뷔 20주년을 맞는 독일팀도메인, 미국 팀디어 사이드 등의 해외팀이 무대에 오르+ㄴ다 .	O O PER-B ORG-B ORG-B ORG-B O ORG-B O O O ORG-B ORG-B ORG-I O O O O O O
-6인조 남성그룹 신화가 서울문화재단의 '책 읽는 서울' 캠페인 포스터 모델로 등장, 책 읽기 운동에 동참하+ㄴ다 .	O O ORG-B ORG-B O O ORG-B O PER-B O O O O O O O
-길건의 '여왕 개미'도 '나+의 손짓 하나에 닫히었던 마음을 열어, 나+ㄴ너희들의 이마 위에 세례내 리+어' +이라며 수컷을 지배하+ㄴ다는 이미지가 강하게 풍기+ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-한동안 잠잠하였던 '네오펑크' 불꽃이 'Boulevardof BrokenD reams'를 앞세우+ㄴ '그린데이(GreenDay)'의 신보 성공으로 다시 타오르기 시작하였다 .	O O O O O O O O ORG-B O O O O O O
-이들 최고의 앨범이자 네오펑크의 수작으로 꼽히는 1994년 작 '스매쉬(Smash)'수록곡이 +ㄴ 'ComeO utA ndPlay(Keep'emSeperated)'와 'Self Esteem'도 듣을 수 있다 .	O O O O O O O O O O O O O O O O O O O
-최근 이미자는 KBS1TV '가요무대' 기자간담회에서 장윤정의 재능을 높이 평가하며 아끼는 후배로 꼽으면서도, 동시에 2집 타이틀곡 '짠짜라'의 상품화에 대하+ㄴ질타도 +였다 .	O PER-B O O O PER-B O O O O O O O O O O O O O O
-3집 '행복하지 말아요'로 인기를 모으+ㄴ 엠씨 더 맥스는 4집 정규 음반 발표에 앞서 +어조용필의 곡만 모으+ㄴ리메이크 음반을 선보이+ㄴ다 .	O O O O O ORG-B ORG-I ORG-I O O O O O PER-B O O O O O
-그룹 터보 출신이+ㄴ 마이키(25)가 2001년 터보 해체 이후 4년 만에 혼성 트리오 M3로 복귀 하+ㄴ다 .	O ORG-B O PER-B O ORG-B O O O O O O ORG-B O O O
-황우석 교수, "강원래일으키고 싶다 .	PER-B O PER-B O O
-구준엽의 우정에 감탄하였다는 황 박사는 "휠체어 댄스가 어떻냐"는 강원래의 물음에 "예술이다"며 흐뭇하게 웃었다 .	PER-B O O PER-B O O O O PER-B O O O O O
-11년 만에 돌아오+ㄴ '닥터 레게 .	O O O ORG-B ORG-I O
-그렇었던 '닥터 레게'가 완전히 달라 지+ㄴ 모습으로 11년 만에 2집 앨범을 들고 돌아오았다 .	O ORG-B ORG-I O O O O O O O O O O O
-"11년 전에는 음악을 통하+여 뭐 +이+ㄴ가를 이루려고 +였지만 지금은 그렇지 않습니다 .	O O O O O O O O O O O O
-김장윤은 이들 모두 신앙공동체 사람들이라며 칭찬을 아끼지 않았다 .	PER-B O O O O O O O O
-영화 '나+의 사랑 싸가지', 드라마 '어여쁘+ㄴ 당신', '슬픈 연가', '건빵 선생과 별사탕' O.S.T에 참여하+ㄴ 경력답게 마이클 볼튼과 임재범의 굵은 음색에 부드럽+ㅁ을 갖추+ㄴ 음색은 보컬로서의 장점도 지니었다. 라디오 프로그램에서 기타를 치며 김종서, 바비킴, 김현식, 전인권, 박효신의 음색으로 노래하는 개인기로 가창력을 자랑하였다 .	O O O O O O O O O O O O O O O PER-B PER-I PER-B O O O O O O O O O O O O PER-B PER-B PER-B PER-B PER-B O O O O O O
-서태지가 지난해 ETPFEST 이후 11개월 만에 영상으로 모습을 드러내 +ㄴ다 .	PER-B O O O O O O O O O O
-여성 4인조 그룹 쥬얼리가 대한축구협회 홍보대사로 위촉되+ㄴ다 .	O O O ORG-B ORG-B O O O
-원타임, YG패밀리 공연서 2년 만에 5집 컴 .	ORG-B ORG-B O O O O O O
-이밖에도 렉시와 지누션, 빅마마, 마스터우를 비롯하+여 올해 상반기 YG언더그라운드에서 첫 선을 보이+ㄴ 45RPM, 스토니스 컹크, 소울스타 등 총 12팀이 참여하+여콘서트는 화려하+ㄴ 축제로 꾸미+어지+ㄹ 예정이다 .	O PER-B ORG-B ORG-B PER-B O O O ORG-B O O O PER-B ORG-B O ORG-B O O O O O O O O O
-댄스리 메이크 VOL.1으로, 음반 제작자 이+ㄴ 남편 김현기 씨가 직접 프로듀서를 맡아 조혜련에게 +ㄴ 더없이 의미 있는 음반이다 .	O O O O O O O PER-B O O O O PER-B O O O O O O
-이밖에도 음반 첫 번째 트랙에 수록되+ㄴ 히트곡 '아나까나'는 둘리스의 '원티드(Wanted)', 놀란스의 '섹시 뮤직(SexyMus ic)', 도나서머의 '핫스터프(HotStuff)' 등 우리에게 친숙하+ㄴ팝송 세곡을 모으아 만들 +ㄴ곡으로 조혜련이 직접 가사를 붙이었다 .	O O O O O O O O ORG-B O ORG-B O O O PER-B O O O O O O O O PER-B O O O O
-배우 겸 가수 엄정화가 자신의 히트곡 중 댄스와 발라드 곡을 모으+ㄴ베스트 음반을 발매하+ㄴ다 .	O O O PER-B O O O O O O O O O O
-한편 8월 18일 생일을 맞는 엄정화는 8월 14일 서울 명동 펑키하우스에서 팬클럽 '템프테이션'이 마련하+ㄴ 생일파티 겸 팬 미팅을 갖는다. 공식 팬미팅은 2년 만으로 일본 및 중국 팬클럽 회원들도 참석 하+ㄴ다 .	O O O O O PER-B O O LOC-B LOC-B LOC-B O ORG-B O O O O O O O O O O LOC-B O LOC-B O O O O O
-'Trou ble'은 퍼커션 연주가 인상적 이+ㄴ곡으로 사랑을 속삭이는 듯 하+ㄴ펠더의 목소리가 매력적이다 .	O O O O O O O O O O O O O
-감성적이+ㄴ 연주로 국내에도 많은 팬을 확보하고 있는 EJT는 이 앨범에서도 역시 이들만의 낭만적 이+ㄴ 편곡으로 비틀스를 다시 연주하였다. 편안하+ㄴ 재즈피아노가 비틀스의 로큰롤 기타 자리를 채우어주고 있다 .	O O O O O O O ORG-B O O O O O O O ORG-B O O O O ORG-B O O O O O O
-애니메이션 채널투니버스는 버즈와 박혜경, 러브홀릭 등이 참여하+ㄴ 애니메이션 주제곡 앨번'WE3'를 출시하였다고 28일 밝히었다 .	O O ORG-B PER-B ORG-B O O O O O O O O O
-30일 첫 방송하는 '해변으로 가+아요'의 O.S.T에는 신혜성과 이민우가 함께 부르+ㄴ 테마곡 'OceanBlue'를 삽입하+ㄴ다. 또 일본 최고 인기그룹 스마프(SMAP)의 정규 음반 수록곡으로 초난강과 신혜성이 함께 부르고 이민우가 작사에 참여하+ㄴ 노래 '하늘'의 한국어 버전도 러브 테마곡으로 수록되+ㄴ다 .	O O O O O O PER-B PER-B O O O O O O LOC-B O O ORG-B O O O PER-B PER-B O O PER-B O O O O O O O O O O
-영국 출신의 여가수젬(JEM)의 노래가 다니엘 헤니가 출연하는 두 편의 광고에 연달아 배경음악으로 쓰이+ㄴ다 .	LOC-B O PER-B O PER-B PER-I O O O O O O O O
-민요`울산아가씨' 북한서도 불리+ㄴ .	O LOC-B O O
-정 시인에 따르면 북한은 일제시대를 지나 +ㄴ 98년부터 `민족수난기'로 규정하고 당시 발표되었던가요, 민요, 동요 등의 노래를 자본주의와 봉건주의 이념에 상관없이 복원하는 사업을 추진하였다 .	PER-B O O LOC-B O O O O O PER-B O O O O O O O O O O O O O O
-음악이 +ㄴ 남궁연이 실력 있는 신인 가수 발굴에 나서 +ㄴ다 .	O O PER-B O O O O O O O O
-가수 테이가 각막 기증 홍보대사로 위촉되었다 .	O PER-B O O O O O
-PD연합회"방송사고 이용하+ㄴ 검열 강화 경계 .	ORG-B O O O O O
-비, 아시아 대표로 미 MTV 시상식 참 .	PER-B LOC-B O O O O O O
-다음달 28일 마이애미에서 열리는 VMA는 매년 최고의 뮤직비디오를 선정하는 시상식으로 2003년에는 마돈나와 브리트니스피어스가 VMA 공연 도중 키스를 해 화제를 뿌리기도 +였다 .	O O LOC-B O O O O O O O O PER-B PER-B O O O O O O O O O
-AFP통신도 31일 '한국 경찰이 인기 음악TV 프로그램에서 성기를 노출하+ㄴ두 남성 댄서를 입건하였다'고 연합뉴스 기사를 인용하+여보도 하였다 .	O O LOC-B O O O O O O O O O ORG-B O O O O
-경찰은 또 1일 오전 신씨 등 2명과 그룹 럭스의 리더원 모(25)씨에 대하+여 국립과학수사연구소에 정밀 마약검사를 의뢰하였다 .	O O O O PER-B O O O PER-B O O O ORG-B O O O O
-2003년 3월 문화관광부로부터 저작인접권 신탁관리단체로 지정되+ㄴ 음제협은 불법음악 사이트에 대하+ㄴ법적 이+ㄴ 대응을 주도 하+여+오았다 .	O O ORG-B O O O ORG-B ORG-B O O O O O O O
-이어 "반면에 음제협의 음원 대부분은 과거의 것으로 현재 시장점유율 1%가 채 안 되며 한 이동통신사의 음악 사이트 분석 결과 매출 상위 100개 음반 중단 1개만이 음제협의 음원이었다"고 주장하+ㄴ 뒤 "음제협은 자신들이 신탁관리하는 음원 제작자가 소리바다로 인하+여 피해를 보고 있다고 말하면서도 소리바다 지분을 주면 소송 취하는 물론 저작권, 실연권 단체와 의 원만 하+ㄴ 계약을 성사시키+어주겠다고 하니 그의도가 궁금하다"고 덧붙이었다 .	O O ORG-B ORG-B O O O O O O O O O O O ORG-B O O O O O O ORG-B O O ORG-B ORG-B O O ORG-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
-방송위원회는 '알몸 노출' 방송사고를 내+ㄴ MBC '음악캠프'와 시어머니의 뺨을 때리는 장면을 연출 하+ㄴ KBS 시트콤 '올드미스 다이어리'에 대하+ㄴ 제재 절차에 착수하였다고 1일 밝히었다 .	ORG-B O O ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O
-방송위의 김양하 공보실장도 연예오락 심의위원회 회의가 끝나 +ㄴ 뒤기자들과의 일문일답을 통하+여"유사하+ㄴ 사건의 재발방지를 위하+여외국처럼 5초나 7초 정도 늦게 내보내는 딜레이 방송의 도입에 대하+여서도 논의 중이며 방송법 개정 문제도 검토 중"이라고 설명하였다 .	ORG-B PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O
-MC몽은 안타깝+ㅁ과 허탈하+ㄴ 마음도 밝히었다 .	PER-B O O O O O
-방송 출연 전 한 인터넷 카페 의 회원들에게 보내+ㄴ 메일로 알려지+ㄴ이 글에서 원종희는 "내일 모레 오후 4시에 MBC '음악캠프' +이라는 곳에 럭스가 출연하기로 +였다"면서 "몇 주 전부터 프로그램 담당자에게 연락이 +아서 직접 연주하는 방식이 아니+ㄴ MR 재생 방식의 가짜 라이브 생방송 출연을 제의하시기에 상현이형과 같이 꽤 오랫동안 생각을 하+여+보았는데 … 나오아달라는데 굳이 피하+ㄹ 것+ㄴ 없다는 생각이다"라고 적었다 .	O O O O O O O O O O O O PER-B O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
-60여개 음반 기획사 및 제작사가 불법 음원을 배포, 공유 하+ㄴ네티즌 2천707명 및 이를 방치하+ㄴ NHN 주식회사를 상대로 1일 서울중앙지검에 고소장을 접수하었다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O ORG-B O O O
-e-스포츠로 일컫어지는 게임과 록 음악이 함께 어우러지+어 `폭염의 도시' 대구의 8월 하순을 뜨겁게 달구+ㄹ 전망이다 .	O O O O O O O LOC-B LOC-I LOC-B O O O O O O
-주최 측은 대부분의 게임들이 배경음악으로 록 음악을 삽입하+ㄴ다는 점을 감안, 이틀 동안 야외무대의 경기 중간에 `대구락 밴드 연대' 소속 밴드들의 공연을 넣어 대회 분위기를 고조시키+ㄹ 예정이다 .	O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O
-`성기 노출' 사건을 수사 중 이+ㄴ 서울 영등포경찰서는 2일 인디밴드 카우치 멤버들이 범행을 사전에 모의하였다는 정황을 포착, 관련자들을 상대로 진위를 집중 조사 중이다 .	O O O O O O ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O
-1994년 데뷔 하+ㄴ 3인조 혼성그룹 쿨(김성수, 이재훈, 유리)이 2일 오후 4시 서울리베라호텔에서 해체를 발표하는 공식기자회견을 갖는다 .	TIM-I O O O O ORG-B PER-B PER-B O O O LOC-B O O O O O
-"13년 만에 여덟 번째 앨범을 들고 돌아오았습니다. 중고 신인이죠. 제가 다시 활동을 시작하였다는 것, 재기를 시작하였다는 것만 알아주 +시었으면 좋겠어요. .	O O O O O O O O O O O O O O O O O O O O O
-일본의 3인조 록밴드 '마마기타(MamaGuitar)'가 국내에서 모두 7곡이 수록되+ㄴ 미니앨범 '휴일(休日)'을 내놓았다 .	LOC-B O O ORG-B O O O O O O O O
-가수 조용필이 23일 오후 6시 평양시 유경정 주영체육관에서 단독 콘서트를 마련하 +ㄴ다. 남한가수의 북한 단독 콘서트는 2002년 9월 27일 평양의 동평양 대극장에서 열리었던 이미 자의 콘서트 이후 두 번째 +이다 .	O PER-B O O O LOC-B LOC-B LOC-I O O O O LOC-B LOC-B O O O O O LOC-B LOC-B LOC-I O O O O O O O O O
-몸에 착 달라붙는 노란색 옷에 흰색 하이힐을 신은 줄리엣 루이스가 길+ㄴ 금발머리카락과 카리스마로 350여명의 관객을 휘어잡았다 .	O O O O O O O O PER-B PER-I O O O O O O O
-그의 허스키 하+ㄴ 낮은 목소리는 공연장을 가득 채우어 +가았고 관객들도 서서히 줄리엣 루이스의 눈빛과 표정, 음악에 빠지+어들었다 .	O O O O O O O O O O O PER-B PER-I O O O O O
-최근 연합뉴스와의 인터뷰에서 "펑크록은 나와는 아주 잘 어울리는 음악이고 그것+ㄹ부인 하+ㄹ 수 있는 사람은 많지 않을 것"이라고 +였던 그가 펑크록 밴드 보컬로서 충분하+ㄴ 자질을 갖추었다는 점도 확인 하+ㄹ 수 있었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-신해철"생방송 음악 프로그램 폐지 하자 .	PER-B O O O O O
-프랑스의 보컬리스트 클레망틴이 프랑스 명곡을 다시 부르어 수록 하+ㄴ새 앨범 '메이드 인 프랑스'가 국내에 발매되었다 .	LOC-B O PER-B LOC-B O O O O O O O O LOC-B O O O
-앨범 프로듀서를 맡기도 +였던 베+ㄴ 시드란(BenSidran)과의 듀엣곡 '파리스 워크(Paris Walk)'도 만나 +ㄹ 수 있다. 클레망틴의 앨범 여러 장을 이베스트 앨범 한 장으로 만나 +아보는 것은 어떻 +ㄹ까 .	O O O O PER-B PER-B O O O O O O O O PER-B O O O O O O O O O O O O O
-앞서 +어 경찰은 "함께 공연하었던 출연자와 동료 3명이 경찰에서 카우치 멤버들이 공연 3일 전 `우리가 생방송에서 옷을 벗고 한 번 난장판을 만들겠다'는 말을 +였다"고 밝히었다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
-3일 일본에서 발매하+ㄴ 신승훈의 정규 1집 음반 '미소속에 비치+ㄴ 그대'가 발매 당일 오리콘 데일리 음반 차트 15위에 오르았다 .	O LOC-B O PER-B O O O O O O O O O O O O O O O
-신승훈은 오리콘과의 인터뷰에서 "어떤 곡을 넣을까 2개월 정도 고민하였다 .	PER-B O O O O O O O O O
-또 현철과 최진희, 금방 울 자매, 김수희, 김상배, 조항조 등 인기가수들이 대거 출연하+여 축하공연을 펼치고, 사회는 이상 벽이 맡을 계획이다 .	O PER-B PER-B O O O PER-B PER-B PER-B O O O O O O O O O O O O
-경찰은 카우치 멤버 신모(27)씨 등 2명이 "공연 전에 사전에 공모하+ㄴ 것은 사실"이라고 시인하+ㄴ 뒤 "그냥 재미삼아 장난삼아 옷을 벗었고 우리의 음악을 일반 대중들에게 알리기 위하+여서 +이었다"고 말하였다고 밝히었다 .	O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-경찰은 또 "청소년에 악영향을 끼치는 유사 행위 예방에 주력하겠다"면서 "홍대 주변 등 불건전하고 퇴폐적 이+ㄴ 공연장 및 업소에 대하+여서도 수사를 확대하겠다"고 말하였다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O
-도메인은 1986년 기타리스트 악셀리트(Ax elRitt)와 베르니콜베(BernieC olbe) 등을 중심으로 결성되었다. 이후 1992년 밴드는 휴지기에 들어가 +았고 지나 +ㄴ 2001년 재결성과 함께 새롭ㄴ 앨범을 내놓았다 .	ORG-B O O PER-B PER-I PER-B O O O O O O O O O O O O O O O O O O O
-가수 전인권이 건강 악화로 5일로 예정되+ㄴ'2005 서울뮤직페스티벌'에 불참하+ㄴ다 .	O PER-B O O O O O O O
-`성기 노출' 사건을 일으키+ㄴ 인디밴드 카우치의 멤버 신모(27)씨와 오모(20)씨가 5일 오전 서울남부지방법원에서 영장실질심사를 받았다 .	O O O O O ORG-B O PER-B PER-B O PER-B ORG-B O O O
-11개월 만에 영상으로 모습을 드러내 +ㄴ 서태지는 "뭐 +이+ㄴ가에 미치+ㄴ다는 것 자체가 행복"이라며 "창조적이+ㄴ 마니아들이 세계문화를 제패하+ㄹ 수 있기를 바라+ㄴ다"고 축사를 전하였다. 또 "더 밝은 미치+ㄴ 세상을 꿈꾸 +ㄴ다"고 덧붙이었다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-라이브클럽 페스트, 럭스ㆍ스 컹크 헬 공연 취 .	O O PER-B O O O O O
-경기도 동두천시는 `제7회 동두천록 페스티벌'을 오는 20일부터 이틀간 종합운동장 보조경기장 특설무대에서 개최 하+ㄴ다고 6일 밝히었다 .	ORG-B ORG-I O O O O O O LOC-B LOC-I LOC-I O O O O O
-god, 윤도현 밴드, 성시경, 김종국 등 인기가수들이 총출동하는 한여름 밤의 콘서트가 8일 전북 무주 덕유산에서 열리+ㄴ다 .	ORG-B ORG-B ORG-I PER-B PER-B O O O O O O O LOC-B LOC-B LOC-B O O
-재즈 뮤지션 팻 메스니(PatMetheny)의 1986년 작 '송엑스(SONGX)' 앨범이 발매 20주년을 기념 하+여 본래 모습을 되찾아 발매되+ㄴ다 .	O O PER-B PER-B O O O O O O O O O O O O O
-경매는 방송 직후부터 13일까지 홈페이지(tv.sbs. co.kr/tvstore)에서 진행되+ㄴ다 .	O O O O O O O O
-KCM은 '스마일어게인'으로 김종국과 나란히 3주째 2위를, '너에게 전하는 아홉 가지 바래+ㅁ'으로 지난주에잇어 10위를 지키었다 .	PER-B O PER-B O O O O O O O O O O O O
-3.이 여름서머(쿨 .	O ORG-B O
-9.그녀의 남자에게 (김종국 .	O O PER-B O
-15.패션(쥬얼리 .	ORG-B O
-대표적 이+ㄴ 출연진은 영화감독 박찬욱과 강우석, 배우 문소리 등이다 .	O O O O PER-B PER-B O PER-B O O
-'헬…'을 잇을 이번 DVD에는 세계 순회공연 '페어 월 1투어' 중 지난해 호주 멜버른에서 가지+ㄴ 공연이 담기 +어 있다.'TheLongRun'으로 시작하+여 2시간 30분 동안 30곡을 들려 주+ㄴ다.'TakeItEasy ', 'NewKidI nTown'부터 'HotelCalifornia', 마지막 곡 'Des perado'까지 주옥같은 히트곡이 이어 지+ㄴ다 .	O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
-탕 사장은 최근 CNN 프리랜서기자와의 인터뷰에서 홍콩 경제를 책임지+ㄴ 자신의 업무와 인생관, 가정사 등을 솔직히 털어놓으며 클래식을 좋아하는 자신과 한국 음악을 즐기+ 어듣는 딸과의 `불협화음'을 소개하였다고 홍콩 문회보(文匯報)가 6일 보도하였다 .	PER-B O O ORG-B O O LOC-B O O O O O O O O O O O O LOC-B O O O O O O LOC-B O O O O
-섬유 재벌 출신의 탕 사장은 지나 +ㄴ 2003년 4월 재정사장에 임명되+ㄴ 후 홍콩 경제 회복을 성공적으로 이끌어 +오았다는 평을 듣었으며 일가가장쩌민(江澤民) 전 주석 등 중국 지도부와 절친하+ㄴ 관계+이어서 유력 하+ㄴ 행정장관 후보로 거론되고 있다 .	O O O PER-B O O O O O O O O LOC-B O O O O O O O PER-B O O O ORG-B O O O O O O O O O O
-한편 4조의 앙골라와 나이지리아는 1-1로 승부를 가리지 못하+ㄴ 채 나란히 4승 3무 1패, 승점 15로 조 1, 2위를 지키었다 .	O ORG-B ORG-B ORG-B O O O O O O ORG-B O O O O O O O O O
-반면 A조의 일본은 단 1승도 거두지 못하고도(2무1패 .	O ORG-B ORG-B O O O O O
-이후 모로코와 칠레를 각각 1-0으로 꺾었다 .	O ORG-B ORG-B O O O O
-공교롭게도 이 대회에서 +ㄴ D조에 속하였던 일본이 브라질, 나이지리아와 함께 2승 1패, 승점 6으로 어깨를 나란히 +였지 .	O O O O ORG-B O ORG-B ORG-B ORG-B O O O O O O O O O
-AGB닐슨 미디어 리서치의 집계에 따르면 SBSTV로 중계되+ㄴ한국과 브라질의 경기는 42.2%의 가구시청률을 나타내 +었다 .	ORG-B O O O O O ORG-B ORG-B O O O O O O
-스페인 현지 언론에 따르면 플로렌티노 페레스 레알 마드 리드 회장은 호비뉴의 영입 조건으로 1천800만 유로를 지불하+ㄹ의사가 있다고 19일(이하 한국시간) 밝히었다 .	LOC-B O O O PER-B PER-I PER-I O O O PER-B O O MNY-B MNY-I O O MNY-B LOC-B O O
-김호감독, 40대 제자들에게 '뻥 축구'하지 말+ .	PER-B O O O O O O
-김 감독은 "(체력을 비축하기 위하+여)가급적 뛰지 말며 짧은 패스를 빠르게 계속 하+여전진하라"며 "많이 달리 +ㄹ 수 있는 친구들이 몇이나 있겠나" .	PER-B O O O O O O O O O O O O O O O O O O O O
-체형에 세월의 무게가 역력하게 나타나 +ㄴ 제자들의 체력을 걱정하던 김 감독은 경기 전 스태프를 통하+여 모리 감독에게 선수 교체를 수시로 하+ㄹ 수 있고 교체되었던 선수도 다시 뛰+ㄹ 수 있도록 제안하기도 .	O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O
-'레알' 수원 삼성이 기적 같은 역전승으로 길고 길+ㄴ 무승터널을 빠져나오았다 .	O ORG-B ORG-I O O O O O O O O
-전반 10분 박동혁의 페널티킥골과 23분 정종관의 헤딩 골로 전반을 0-2로 뒤지+ㄴ 채 마치 +ㄴ수원은 후반'이적생(울산 출신) '전재운을 키커로 투입 하+여반전을 노리었다 .	O O PER-B O O PER-B O O O O O O O ORG-B LOC-B O PER-B O O O O O
-부산 아이파크는 뽀뽀의 정교하+ㄴ크로스와 패스를 '흑상어' 박성배와 루시아노가 머리와 오른발로 연결하+여성 남일화를 2-0으로 꺾고 4승2무(승점 14)를 기록, 7경기 무패의 선두인천유나이티드(승점 17)에잇어 2위로 올라서 +었다 .	ORG-B ORG-I PER-B O O PER-B PER-B PER-B O O O O O O O O O O O ORG-B O O O O O
-멕시코, 브라질 격파..일본도 그리스 제 .	ORG-B ORG-B ORG-B ORG-B O O
-일본은 후반 31분 '조커' 오구로 마사시의 결승골로 유로 2004 우승팀 그리스를 1-0으로 꺾고 첫 승을 올리었다 .	ORG-B O O PER-B PER-B PER-I PER-I PER-I O O ORG-B PER-I O O O O O
-독일은 전반 21분인 카그링스의 선제골에잇어 3분 뒤레나토링 고르의 추가골로 승기를 잡았다 .	ORG-B O PER-B PER-I O O PER-B PER-I O O O O
-최 전 감독은 "많은 스승이 계시지만 선생님하고는 지금껏 끈끈 하+ㄴ 사제 관계를 유지하였다"며 "나+에게 기쁘거나 좋은 일이 생기면 조용히 계시었던 반면 역경과 고난에 처하였을 때는 위로 하+여주+시었다. 너무 슬프고 너무 죄스럽다"고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지난해 12월 포항의 지휘봉을 놓을 때도 김 교육감에게 심정을 토로하였다는 최 전 감독은 "운동하느라 수업을 빼먹으면 나중에 따로 가르치+어주+ㄹ만큼 인자하시+ㄴ 참스승이었다"고 회고하였다 .	O O ORG-B O O O PER-B O O O PER-B O O O O O O O O O O O O
-수원구단에 따르면 김남일은 지나+ㄴ 15일 팀 닥터와 함께 일본을 방문하+여기초 검진을 받은 뒤 수술 일정을 잡았지만 독일에서 먼저 진료를 받아보는 것+이 좋겠다는 차 감독의 의견에 따르 아일정을 바꾸었다 .	ORG-B O PER-B O O O O O LOC-B O O O O O O O LOC-B O O O O O PER-B O O O O O O
-축구협회는 조영철(16.울산 학성고)과 설재문(15.용인 태성고), 조범석(15.신갈고) 등 유망주 3명을 오는 8월부터 내년 6월까지 10개월간 프랑스 1부 리그 FC 메스의 18세 이하 팀에 유학 보내+ㄴ다고 20일 밝히었다.8월 3일 출국 하+ㄹ 예정 .	ORG-B ORG-B ORG-I ORG-B ORG-I ORG-B O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O
-국제축구연맹(FIFA)은 지나 +ㄴ 2월 웨일스에서 열리+ㄴ 국제축구평의회 정기회의 때 확정되+ㄴ 새롭ㄴ경기규칙들을 오는 7월 1일부터 시행하기로 하고, 현재 세계 청소년대회에서 시범 적용 중이다 .	ORG-B O O O LOC-B O ORG-B O O O O O O O O O O O O O O O O
-안정환(29)이 결국 일본 프로축구(J리그) 요코하마 F.마리노스를 떠나 +ㄴ다 .	PER-B O LOC-B ORG-B ORG-B ORG-I O O O
-한.일 월드컵이 끝나고 2002년 9월 시미즈S-펄스에 입단하며 일본 무대를 밟은 안정환은 지난해 요코하마로 이적하였고, 올 시즌 9 경기에서 4골을 기록하는 등 모두 72경기를 뛰며 30골을 기록하였다 .	O O O O O ORG-B O LOC-B O O PER-B O ORG-B O O O O O O O O O O O O O O
-마르세유에서 지나 +ㄴ 2000년 아스날로이적 하+ㄴ 피레스는 236 경기에 출전, 73골을 기록하는 등 아스날의 전성기를 일구+어내+ㄴ 주인공 .	ORG-B O O O ORG-B O PER-B O O O O O O ORG-B O O O O
-컵 대회를 포함하+여8경기무패행진을 잇어가고 있는 1위 인천(5승2무)은 부천을 제물로 선두 굳히기에 나서겠다는 복안 .	O O O O O O ORG-B ORG-B O O O O O O
-장외룡 인천감독은 "집중력을 잃어서는 안 되+ㄴ다"며 전화도 받지 않고 오로지 전략 구상에만 몰두하고 있다 .	PER-B ORG-B O O O O O O O O O O O O O
-◆22일 프로축구 일정 대전-울산(19시.대전 월드컵) 부천-인천(19시.부천종합) 대구-전북(19시 30분. 대구월드컵) 수원-성남(19시.수원월드컵.SBSSPORTS22 시 녹화) 부산-포항(19시.부산 아시아드. PSB 부산방송생중계) 광주-전남(18시. 광주 월드컵 .	TIM-B O O LOC-B LOC-I LOC-B LOC-B TIM-I LOC-B LOC-I TIM-I O LOC-B LOC-I O LOC-B LOC-B LOC-B LOC-I O
-지난해 10월 대한축구협회의 기탁금 1억원과 송영식 대한축구협회 부회장이 기부하+ㄴ 3천만원을 '종자돈'으로 시작하+ㄴ 유소년 축구재단은 오는 8월 유망주 3명을 프랑스 1부 리그 FC 메스18세 이하 팀에 유학을 보내기로 하는 등 활발하+ㄴ 활동을 벌이고 있다 .	O ORG-B ORG-B O O PER-B ORG-B ORG-I ORG-I MNY-B O O ORG-B ORG-I O O O MNY-B LOC-B ORG-B ORG-I ORG-I ORG-B O O O O O O O O O O O
-특히 울산과 국민은행은 4조에 편성되 +어한 장의 4강 진출 티켓을 놓고 치열 하+ㄴ 대결을 벌이+ㄹ 것으로 보이+ㄴ다 .	O ORG-B ORG-B ORG-B O O O ORG-B O O O O O O O O O O
-초등학교 전국 축구대회는 경주시와 한국초등학교 축구연맹, ㈜대교가 공동 주최 하+ㄴ다 .	O O O ORG-B ORG-B ORG-I ORG-B O O O O
-브라질.독일 8강 격 .	ORG-B O O O
-3 연승을 거두며 B조 1위로 16강에 오르+ㄴ 중국의 돌풍은 독일이 막아내 +었다 .	O O O ORG-B O O O ORG-B O ORG-B O O O
-인터밀란의 기술감독이 +ㄴ 마르크 브란카는 "베론을 잡는 것은 우리의 1차 목표+이었다. 베론이 계속 우리와 함께 하기+ㄹ 원하+ㄴ다"며 만족감을 나타내 +었다 .	ORG-B O O PER-B PER-I PER-B O O O O O PER-B O O O O O O O O O
-이로써 25일 각각 이탈리아와 독일을 꺾고 4강에 먼저 오르+ㄴ 모로코와 브라질과 함께 이날 나이지리아와 아르헨티나가 4강에 오르면서 올해 세계 청소년 축구는 '유럽세의 참패'와 함께 아프리카 축구와 남미 축구의 자존심 대결로 귀결짓게 +었다 .	O O O ORG-B ORG-B O O O O ORG-B ORG-B O O ORG-B ORG-B O O O O O O LOC-B O O LOC-B O LOC-B O O O O O O
-네덜란드의 선축으로 시작되+ㄴ 승부차기는 초반 양 팀의 3명의 키커가 모두 골을 성공시키+어 평행선을 긋었다 .	ORG-B O O O O O O O O O O O O O O
-◆26일 전 .	O O O
-'삼바군단' 브라질이 두 골을 몰아치+ㄴ아드리아누(23.인 터밀란)의 맹활약을 앞세우어 독일을 꺾고 2005 컨페더 레이션스컵 축구대회 결승에 오르았다 .	ORG-B ORG-B O O PER-B ORG-I O O ORG-B O O O O O O O O
-브라질이 세 번째이자 마지막 리드를 잡은 것 +ㄴ치열 하+ㄴ 접전이 이어지던 후반 31분 .	ORG-B O O O O O O O O O O O O O
-△2005 컨페더 레이션스컵 준결 .	O O O O O
-한국은 북한(7위), 중국(8위), 일본(11위.1천909점), 대만(23위.1천741점)에잇어 26위(1천725점)를 차지하+여아시아권에서 5위권으로 밀리었다 .	ORG-B ORG-B ORG-B ORG-B ORG-B O LOC-B O O O
-잉글랜드의 축구 스타 '원도 보이' 마이클 오언(25.레알 마드리드)이 고교 동창생과의 오랜 연예 끝에 마침내 결혼에 골인+하였다 .	LOC-B O O PER-B PER-I PER-B ORG-B ORG-I O O O O O O O O O
-소속팀을 독일 프로축구 1부 리그로 올려놓은 '아우토반' 차두리(25.프랑크푸르트)가 2005∼2006 시즌 준비를 위하+여독일로 떠나 +았다 .	O LOC-B O ORG-B ORG-I O PER-B ORG-B O O O LOC-B O O O
-프로축구 성남, 경기 취소 번복해프 .	O ORG-B O O O O
-하지만 성남으로서 +ㄴ무작정 경기를 미루+ㄹ 수도 없는 노릇이었다.K리그는 다음달 10일 전기 리그 마지막 경기까지 3∼4일 간격으로 빠듯하게 이어 지+ㄴ다 .	O ORG-B O O O O O ORG-B O O O O O O O O O O O O
-영국 런던에서 발행되는 석간 신문이 브닝스탠더드가 맨체스터 유나이티드와 입단 계약을 체결하+ㄴ 박지성에 대하+여"끊임없이 연습을 하는 성실 그 자체"라고 격찬하면서 영국의 축구선수들에게 "박지성을 본받아라"라고 충고하였다 .	LOC-B LOC-B O O O O ORG-B ORG-I O O O PER-B O O O O O O O LOC-B O PER-B O O O
-FIFA, 월드컵 출전 선수에 '건강증명서' 제출 의무 .	ORG-B O O O O O O O
-박지성, 힘들+ㄴ '주전 경쟁' 예 .	PER-B O O O O O
-지나+ㄴ 1999년 8월 맨체스터 유나이티드에 둥지를 틀+ㄴ포춘은 입단 초기 라이언 긱스와 경쟁하며 맹활약을 펼치었지만 최근 눈에 띄는 활약을 펼치지 못하고 있다 .	O O O ORG-B ORG-I O PER-B O O PER-B PER-I O O O O O O O O O O O
-그는 이어 "맨체스터 유나이티드로 이적 하+ㄴ 브라질의 클레베르손이 박지성에게는 좋은 본보기가 되+ㄹ 것"이라며 "박지성은 에인트 호벤에서 좀 더 머무르었어야 +였다"고 덧붙이었다 .	O O ORG-B ORG-I O O ORG-B PER-B PER-B O O O O PER-B O O O O O O O O
-'터프가 이' 김남일(28.수원)이 골절되+ㄴ새끼발가락 수술을 위하+여독일로 출국하였다 .	O O ORG-B O O LOC-B O O
-'지성아 축구화라도 집어 던지+어야 하+여! .	O O O O O O
-홍명보는 "지성이는 그때도 성실하고 착하+ㄴ 선수+이었을 뿐만 아니라 팀에 해가 되는 플레이는 절대 하지 않는 선수+이었다"고 당시를 회고하였다 .	PER-B PER-B O O O O O O O O O O O O O O O O O
-'미니월드컵' 2005세계 청소년(U-20) 축구선수권대회 우승컵은 아르헨티나와 나이지리아의 격돌로 가려지게 +었다 .	O O O O O ORG-B ORG-B O O O O
-브라질 이후반 30분 문전혼전 중 파비우산토스의 크로스를 헤나투가 헤딩으로 꽂아 넣어 동점을 만들어 경기는 연장에 돌입하는 듯 +였다 .	ORG-B O O O O PER-B O PER-B O O O O O O O O O O O
-이 단장은 "내년 시즌을 대비 하+여 외국인 지도자와 국내 지도자들 가운데 새 감독을 찾아 보+ㄹ 것"이라며 올 시즌을 마치 +ㄴ 뒤 정식 사령탑을 영입하겠다는 의사를 전하였다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
-브라질 경찰은 마약을 밀거래하다 현장에서 붙잡히 +어3주간 반마약본부에서 조사를 받은 에디뉴가 일반 교도소에서는 라이벌 갱단의 살해 위협에 노출되+ㄹ 수 있어 상파울로주에 있는 안전하+ㄴ교도소로 이송하였다고 로이터통신이 29일(이하 한국시간) 보도하였다 .	LOC-B O O O O O O ORG-B O O PER-B ORG-B O O O O O O O O LOC-B O O O O O LOC-B O O
-부산, 9경기 무패 단독 선 .	ORG-B O O O O O
-부산은 지난달 8일 컵 대회 대구FC전 2-1 승리 이후 10경기 연속 무패기록도 잇어+가았다 .	ORG-B O O O O O O O O O O O O O
-광주는 후반 43분 정윤성이 한 골을 만회하였으나 전세를 뒤집기에는 힘이 부치었다 .	ORG-B O O PER-B O O O O O O O O
-전남 드래곤즈와 대전시티즌은 이정운과 레안드롱이전, 후반 한 골씩 주고받아 1-1로 비기었다 .	ORG-B ORG-I ORG-B PER-B PER-B O O O O O O O
-하지만 홍 이사는 이날 조용형의 플레이에는 만족 하+여+였다 .	O PER-B O O PER-B O O O O
-홍 이사는 "수비는 3~4명의 문제가 아니다. 미드필드부터 전체적 이+ㄴ 수비의식이 필요하다"고 전제하+ㄴ 후 "전반적 이+ㄴ팀워크가 잘 이루어 지+어야 강고 하+ㄴ 수비를 구축 하+ㄹ 수 있다"고 진단하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-2003년 한 시즌 최다골인 28골을 비롯하+여 2000년부터 지난해까지 5년 연속 두 자리 수 득점을 잇어가고 있는 김도훈은 올 시즌에는 컵 대회에서 4골, 정규리그에서 3골을 기록 중이다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
-피스컵을 대비 하+여 점점 좋아지는 것 같다"며 체력에 대하+여서는 "90분이든 45분이든 최선을 다하는 것이 중요하다 .	O O O O O O O O O O O O O O O O
-이번 계약에는 ITV.BBC(영국), ARD/ZDF.프리미어(독일), TF1(프랑스), TVE(스페인), RAI.스카이(이탈리아) 등 거대 방송사가 참여하였다 .	O O LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O
-2위는 5만8천405표의 '시리우스'이 관우(27.대전)가, 3위는 5만8천383표를 얻은 박주영이 차지하였다 .	O O PER-B ORG-B O O O PER-B O O
-'삼바 축구' 브라질이 남미 축구의 '라이벌' 아르헨티나를 꺾고 8년 만에 컨페더 레이션스컵 정상에 오르았다 .	ORG-B ORG-I ORG-B LOC-B ORG-I O ORG-B O O O O O O O O
-전반을 2-0으로 마치 +ㄴ 브라질은 후반: 초반부터 또다시 아르헨티나의 골문을 압박하였다 .	O O O O ORG-B O O O ORG-B O O O
-아드리아 누도 MVP를 검머쥔 뒤 "떨리면서도 자랑스럽다. 내년 월드컵 준비를 위하+ㄴ 중요하+ㄴ 승리를 거두었다"고 강조하였다 .	O O O O O O O O O O O O O O O O
-호주 2006년부터 AFC 회원국, FIFA 공식 승 .	ORG-B O ORG-B O ORG-B O O O
-오세아니아주는 월드컵 본선 티켓 1장을 놓고 남미 예선 5위팀과 플레이오프를 치르어야 해 월드컵 본선 진출이 쉽지 않은 상황이라 호주는 지나 +ㄴ 4월 OFC에 연맹 탈퇴를 요청, 회원국들로부터 만장일치로 동의를 얻어내 +ㄴ 뒤 AFC 가맹을 요구하+여+았다 .	ORG-B O O O O O LOC-B O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O ORG-B O O O
-몬스의 이적료는 발표되지 않았지만 500만 유로(약 62억원) 정도로 알려지었다 .	PER-B O O O MNY-B MNY-I MNY-B O O O
-네덜란드 프로축구에 인트 호벤이 일본 축구 대표팀의 나카타 히데토시(28.피오 렌티나)의 영입에 관심을 드러내+었다 .	LOC-B ORG-I O O ORG-B ORG-I ORG-I PER-B PER-I O O O O O
-골절되+ㄴ 오른쪽 새끼발가락 중족골치료를 위하+여독일로 향하었던 김남일(28.수원)이 성공적으로 수술을 마치었다 .	O O O O LOC-B O ORG-B O O O O
-호비뉴는 30일(한국시간) 독일 프랑크푸르트에서 열리+ㄴ 2005 컨페더레이션스컵 축구대회 결승을 마치고 브라질 방송과의 인터뷰에서 "레알 마드리드에서 뛰기를 바라+ㄴ다.이 미레알 마드리드에 의사를 전달하였다.나+의 축구 경력에서 도움이 되+ㄹ 것"이라고 말하였다고 로이터 통신이 보도하였다 .	PER-B LOC-B LOC-B LOC-B O O O O O O LOC-B O O ORG-B ORG-I O O ORG-B ORG-I O O O O O O O O O O O O
-호비뉴는 또 지난해 브라질리그에서 37경기 동안 21골을 작렬시키는 빼어나 +ㄴ 골 결정력을 뽐내며 '2004년 올해의 브라질 선수' 상을 수상하였다 .	PER-B O O ORG-B O O O O O O O O O O O ORG-B O O O O
-박주영의 소속팀 FC서울이 구단 웹사이트(www.f cseoul. com)를 통하+여지나 +ㄴ 9일부터 실시 중 이+ㄴ '박주영 친필 사인언더셔츠'온라인 경매입찰가가 종료를 하루 남기+ㄴ 30일 현재 150만원까지 치솟은 것 .	PER-B O ORG-B O O O O O O O O O O PER-B O O O O O O O O MNY-B O O O
-손학규 경기도지사가 지나 +ㄴ 27일 '박지성 路' 개통식 축사에서 "'애'의 이름을 붙이어 길을 내는 것은 유례가 없는 일"이라고 말하였다가 네티즌들의 항의로 곤혹스럽ㄴ 입장에 처하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-알파이외 잘란, J리그에서 방 .	PER-B O ORG-B O O
-외 잘란은 지나 +ㄴ 2003년 잉글랜드와의 유로 2004 예선에서도 인기 스타 데이비드 베컴(잉글랜드)과 마찰을 빚는 등 그라운드의 '악동' 노릇을 톡톡히 +였다 .	O O O O O ORG-B O O O O O PER-B ORG-B O O O O O O O O O
-청소년 대표팀 수비수 이강진(20.도쿄 베르디)은 감바오사카전에 풀타임 출전하였으나 팀은 아라우조에게 해트트릭, 오구로 마사시에게 2골을 내주+어1-7로 대패하었다 .	O O O ORG-B ORG-I O O O O PER-B O PER-B PER-I O O O O
-하지만 아틀레티코 마드리드는 최근 잉글랜드 프리미어리그의 명문 구단 첼시로부터 세르비아-몬테네그로 출신의 골잡이 마테야 케즈만(26)을 영입하+ㄴ데 잇어로드리게스와도 계약, 안정환의 마드리드행 가능성은 더욱 희박하여 +지+었다 .	O PER-B ORG-B O ORG-B ORG-I O O ORG-B LOC-B O O PER-B PER-I O PER-B O PER-B ORG-B O O O O O
-이동국의 득점포가 '개점휴업' 상태에 들어가자 가+ㄹ길 바쁘+ㄴ 포항은 이날 0-0 무승부를 기록, 제자리걸음(3위)을 하며 전기리그에서 자력으로 1위에 오르기는 힘들게 +었다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O O
-구단 관계자는 "여전히 플레이는 과감하고 위협적이다"면서도 "하지만 골이 지독하게 안 터지면서 이동국본인도 많이 안타깝어하고 있다"고 전하였다 .	O O O O O O O O O O O PER-B O O O O O
-계약기간은 오는 2007년 12월까지 2년 6개월간으로 연봉 등 세부 계약 조건은 협의에 따르 아공개하지 않는다 .	O O O O O O O O O O O O O O O O
-지나+ㄴ 84년 울산에 입단 하+ㄴ 최 감독은 92년까지 미드필더와 풀백으로 활약하며 207 경기에 출전하+여 10골22 도움을 올리었고, 88년 서울 올림픽과 90년 이탈리아 월드컵에 국가대표로 참가하는 등 화려 하+ㄴ 선수 시절을 보내+었다 .	O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-에인트 호벤은 2005-2006 네덜란드 프로축구 정규리그 개막에 앞서 +어다음달 6일(이하 한국시간) 네덜란드 암스테르담에서 열리는 요한 크루이프 컵에서 아약스와 맞붙는다고 3일 구단 웹사이트를 통하+여 밝히었다 .	O O O LOC-B O O O O O O LOC-B LOC-B LOC-B O O O O ORG-B O O O O O O O
-일본 프로축구(J리그)가시와 레이솔에서 K리그로 유턴 하+ㄴ '리틀 마라도나' 최성국(22)이 지나 +ㄴ 2일 '친정팀' 울산 현대에 합류하였다 .	LOC-B ORG-B ORG-I ORG-B O O PER-B PER-I PER-B O O O O ORG-B ORG-I O O
-구단 관계자에 따르면 최성국은 피스컵 대회 이후 울산 합류를 앞두 +ㄴ팀 선배 이천수(24)와 함께 3일 저녁 문수월드컵경기장에서 열리+ㄹ울산-대구FC전을 관전하기로 +였다 .	O O O PER-B O O O ORG-B O O O O PER-B O O O LOC-B ORG-B O O O
-'슈퍼 이글스' 나이지리아도 최근 맨체스터 유나이티드 에스카우트 되+ㄴ 공격형 미드필더 존 오비 미켈의 지휘로 대등하+ㄴ경기를 펼치+어나가았지만 대회 최고의 별로 떠오르+ㄴ '천재' 메시를 막지 못하+ㄴ 것이 뼈아프았다 .	ORG-B ORG-I ORG-B O ORG-B ORG-I O O O O PER-B PER-I PER-I O O O O O O O O PER-B O O O O O
-반면 일방적으로 밀리던 아르헨티나는 단 한 번의 역습 기회를 살리+어우승컵의 향방을 결정짓었다 .	O O O ORG-B O O O O O O O O O
-브라질은 후반 2분 수비수에드카를로스의 자책골로 0-1로 뒤지었지만 후반 43분 파비우산토스의 동점 헤딩골에잇어인 저리타임 1분에드카를로스의 역전 결승골이 터지+어나오아 역전 드라마를 마무리하였다 .	ORG-B O O PER-B O O O O O PER-B O O O PER-B O O O O O O O
-부산 아이파크가 10경기무패 행진을 달성하면서 전기리그 우승의 '8부 능선'을 가볍게 넘었다 .	ORG-B ORG-I O O O O O O O O O O
-부산은 연승행진에 대하+ㄴ부담 때문이 +ㄴ지 전반전 동안 전남과 몇 차례 슛만 주고받은 채 득점 없이 45분을 보내+었다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O
-한편 성남일화는 분당에서 펼쳐 지+ㄴ FC서울과의 홈경기에서 올 시즌 전남에서 이적하+ㄴ '노장' 남기일의 해트트릭을 앞세우어 4-1대승을 거두었다 .	O ORG-B O O O ORG-B O O O ORG-B O O PER-B O O O O O
-스페인 프로축구 프리메라리가의 '명문' 레알 마드리드의 룩셈부르 구 감독이 자신을 브라질의 '신성' 호비뉴(21.산 토스)의 유럽 적응을 위하 +ㄴ적임자+이라고 강조하고 나서 +었다 .	LOC-B PER-I ORG-B O ORG-B ORG-I PER-B PER-I O O LOC-B O PER-B O LOC-B O O O O O O O
-더욱이 호비뉴가 지나 +ㄴ 주말 팀 훈련에 모습을 나타내지 않으면서 호비뉴의 이적 문제는 복잡 하+ㄴ국면으로 접어들었다 .	O PER-B O O O O O O O O PER-B O O O O O O
-크레스포는 "조제 무리뉴 감독과 문제가 있는 것은 아니다. 그가 나의 진로 문제에 대하+ㄴ 입장을 바꾸+ㄹ 수 있다는 말을 듣었다"고 덧붙이었다 .	PER-B PER-B PER-I O O O O O O O O O O O O O O O O O O
-성남은 3일 열리+ㄴ삼성 하우젠K리그 2005홈경기에서 남기일의 해트트릭을 앞세우어 FC서울을 4-1로 대파하며 신나는 3연승을 내달리었다 .	ORG-B O O O O PER-B O O ORG-B O O O O O O
-덕분에 정규리그 개막 이후 6경기 동안 4득점에 그치던 성남은 지난달 22일 수원 삼성전(2-2 무승부)에서부터 매경기 2골 이상을 집어넣으면서 최근 4경기에서 11골을 폭발하는 무섭ㄴ화력을 자랑하고 있다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-지나+ㄴ 9회 차 우수주심에도 뽑히었던 이영철 심판은 지나 +ㄴ 한 달간 K리그 5경기에 배정되+어 공격적 이+ㄴ경기 운영과 경기규칙 적용, 통일성 있는 판정과 탁월하+ㄴ경기 조율 능력 등을 선보이어 6월 최우수주심으로 선정되었다 .	O O O O O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-IFFHS가 4일(한국시간) 발표 하+ㄴ '올해의 골게터' 중간 순위에 따르면 호비뉴는 국가대표 A매치에서 4골, 대륙별 클럽대항전에서 6골을 각각 넣어 북한의 김광혁(A매치 10골)에잇어 2위에 오르았다 .	ORG-B LOC-B O O O O O O O PER-B O O O O O O O O LOC-B PER-B O O O O
-K리그 구단으로는 수원 삼성이 111위로 가장 높은 순위에 오르았고, 알아이+ㄴ(UAE)이 아시아 클럽 가운데 최고 순위 이+ㄴ 101위를 차지하였다 .	ORG-B O ORG-B ORG-I O O O O O ORG-B LOC-B O O O O O O O O
-익숙하지 않은데 10시간이나 찍었다 .	O O O O O
-박지성(24.맨체스터 유나이티드)이 빠르면 이번 주말쯤 영국 맨체스터로 출국 하+ㄹ 것으로 보이+ㄴ다 .	LOC-B ORG-I O O O LOC-B LOC-B O O O O O
-이 대표는 "오늘부터 퍼거슨 감독이 홈구장(올드트래포드)에서 프리시즌 트레이닝을 시작하였다"고 전하였다 .	PER-B O O PER-B PER-B LOC-B O PER-B O O O
-박지성, 캐러멜 먹다벌레나오 .	PER-B O O O
-이 업체는 박지성 측에 사과와 해명을 하겠다고 밝히었다 .	O O PER-B O O O O O O
-지난달 4일 나비스코컵오미야전을 끝으로 일본을 떠나 +ㄴ에 메르손은 같은 달 22일 시작되+ㄴ팀의 후쿠시마 합숙 훈련에 참가하로 +었었으나 그동안 가족 문제, 비행기만 석 등의 다양하+ㄴ이유를 들며 합류를 늦추+어+오았다 .	O O O O LOC-B O O O O O O O ORG-B O O O O O O O O O O O O O O O
-이날 회의에서는 프로축구2부연맹 출범에 따르+ㄴ K2리그의 준비, 2006년 K2 리그 우승팀의 2007년 K리그 승격, K2리그용 병제도 운영방안 등에 대하+여의견을 나누+ㄹ 예정이다 .	O O ORG-B O O ORG-B O O ORG-B ORG-I O O ORG-B O ORG-B O O O O O O O
-대회 조직위원회는 5일 중계방송사로 지상파 KBS와 MBC, 케이블, 위성스포츠 전문채널 KBSSKY 스포츠, SBS 스포츠 채널이 확정되었고 지역민방 PSB(부산방송)가 가세하였다고 밝히었다 .	O O O O O ORG-B ORG-B O O O ORG-B O O O O O O ORG-B O O O
-온세칼다스-올림피크 리옹(19시.부산 아시아드 주경기장.SBS 스포츠.PSB .	O O O O O O
-레알 소시에 다드-보카 주니어스(19시.부산 아시아드 주경기장. KBS .	O O O O O O O O
-황선홍(37) 전남 드래곤즈 코치가쓰나미 피해자 돕기 자선 축구 경기에 한국 대표로 참가 하+ㄴ다 .	PER-B ORG-B ORG-I O O O O O O ORG-B O O O O
-대한축구협회가 2006 독일 월드컵 본선 진출에 성공하+ㄴ축구대표팀 선수들의 포상금 지급을 놓고 고민에 빠지었다 .	ORG-B O O O O O O O O O O O O O
-일부 선수는 코엘류 전 감독 시절에 '새 얼굴 찾기' 차원에서 소집되었다가 경기에 나서지 못하+ㄴ 경우도 있고, 또 다른 선수는 소집되+ㄴ 뒤 부상으로 하루 만에 소속팀으로 돌아가 +ㄴ 적도 있다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-일본 프로축구(J리그)에서 K리그로 유턴 하+ㄴ 최성국(22.울산 현대)이 6일 복귀 무대에서 +ㄴ다 .	LOC-B ORG-B ORG-B O O ORG-B ORG-I O O O O O
-울산구단은 최성국의 K리그 조기 투입을 위하+여가시와 로부터 이적동의서가 발급되자마자 지나 +ㄴ 4일 프로연맹에 선수 등록을 마치었다 .	LOC-B PER-B ORG-B O O ORG-B O O O O O O O O O O O
-시는 이들 시설을 확충하고 고양종합운동장과 덕양 어울림 누리, 오는 8∼10월 완공되는 실내체육관과 수영장 등의 시설을 활용하+ㄹ 경우 도민체전을 단독 개최 하+ㄹ 수 있을 것으로 보고 있다 .	O O O O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O
-박지성의 에이전트 이+ㄴ FS코퍼레이션은 5일 "영국이민국에서 취업허가서(워크 퍼밋)가 도착 하+ㅁ에 따르 아박지성이 6일 낮 12시50분 네덜란드 암스테르담 행 KLM편으로 출국 하+ㄴ다"고 밝히었다 .	PER-B O O ORG-B O ORG-B O O O O O PER-B O O O LOC-B LOC-B O O O O O O
-박지성은 입단식 없이 오는 23일부터 시작되는 아시아투어(홍콩. 중국.일본)에 대하+ㄴ 인터뷰만 가지 +ㄴ 뒤 곧바로 홈구장(올드트래포드)으로 이동 하+여훈련에 들어가 +ㄹ 예정이다 .	PER-B O O O O O LOC-B LOC-B O O O O O O LOC-B O O O O O O
-프리미어리그 데뷔전은 8월 13일 에 버튼과의 원정 개막전이고 이에 앞서 +어2005-2006 유럽 축구연맹(UEFA) 챔피언스리그 3차 예선 1차전(8월 8-9일)에 출전하+ㄹ 수도 있을 것으로 보이+ㄴ다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-클리닉은 오전 9시30분부터 오후 6시30분까지 기본자세, 볼 캐칭, 크로싱캐칭, 펀칭, 1대1 상황 대처 요령 등을 교육하고 저녁에는 수원 삼성이 운재 선수의 특강과 경기규칙 설명으로 이어 지+ㄴ다 .	O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O
-스포츠산업진흥법(안)이 9월 정기국회에서 통과되면 K2 리그의 수원시청 등 지자체 구단들과 공기업 구단들도 프로팀을 만들 +ㄹ 수 있게 되+ㄴ다 .	O O O O ORG-B ORG-I ORG-B O O O O O O O O O O O O
-유상철 2년 만의 K리그 골  .	PER-B O O O O O O
-지나+ㄴ 1999년 울산에서 요코하마 F.마리노스에 입단 하+ㄴ 뒤 2001년 가시와 레이솔을 거치+어 2002년 울산으로 복귀하였던 유상철은 바로 이듬해 7월 요코하마에 재입단 한 뒤 올해 다시 울산유니폼을 입었다 .	O O ORG-B ORG-B ORG-I O O O O ORG-B ORG-I O O ORG-B O PER-B O O O ORG-B O O O O O ORG-B ORG-I O
-경기 전 "공격형 미드필더뿐만 아니라 최전방으로도 치고 들어가며 자유롭게 플레이하라고 주문하였다"고 밝히+ㄹ 만큼 두텁ㄴ 신뢰를 보이+ㄴ 김정남 울산감독의 기대에 부응하+ㄴ셈이다 .	O O O O O O O O O O O O O O O O PER-B ORG-B O O O
-이 감독의무섭 ㄴ예언(?)은 그라운드에서 그대로 실현되기 시작하였다 .	PER-B O O O O O O O
-패배의 쓰+ㄴ 맛을 보+ㄴ 수원은 더욱 분발하+여 나머지 경기에서 4승2무를 기록하면서 컵 대회 우승컵을 차지하였다 .	O O O O ORG-B O O O O O O O O O O O
-'천재 골잡이' 박주영(20.서울)이 프로축구 K리그에서 49일 만에 '골 폭풍'을 몰아치면서 정규리그 득점왕을 향하+여 본격적이+ㄴ 골 사냥에 재시동을 걸었다 .	O O LOC-B O ORG-B O O O O O O O O O O O O O O
-올 시즌 치르+ㄴ 17 경기 동안 3경기에서 2골 이상(해트트릭 포함)을 기록하+여골에 대하+ㄴ무섭ㄴ집중력도 보이어+주었다 .	O O O O O O O O O O O O O O
-박주영은 이어 "서울이 플레이오프에 반드시 나가+ㄹ 수 있게 최선을 다하겠다는 생각뿐이다"고 덧붙이었다 .	PER-B O ORG-B O O O O O O O O O O
-벨라판 총장은 "유럽에서 다른 아시아 선수들도 나름대로 족적을 남기었지만 박지성은 주목도에서 그 수준이 완전히 다르+ㄹ 것"이라며 "아시아 선수가 최고 수준에서 뛰+ㄹ 수 있고 박지성이 그 수준에 진입하었다는 것+이 기쁘다 .	PER-B O LOC-B O LOC-B O O O O PER-B O O O O O O LOC-B O O O O O O PER-B O O O O O O
-부산은 6일 FC서울과의 전기리그 11차전에서 박주영에게 선제골을 내주+ㄴ 뒤뽀뽀가 극적이+ㄴ동점골을 터트리었지만 30초 뒤 또다시 박주영에게 결승골을 허용 하+여1-2 패배를 당하였다 .	ORG-B O ORG-B O O PER-B O O PER-B O O O O O PER-B O O O O O O
-부산으로서 +ㄴ '무패 우승'의 절호의 기회를 놓치 +ㄴ만큼 지나 +ㄴ 2000년 부산 아이파크로 재창단 하+ㄴ 뒤 아직까지 한 번도 거머쥐+ㄴ 적 없는 K리그 우승 타이틀을 반드시 잡겠다는 각오+이다 .	ORG-B O O O O O O O O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O
-음베키 남아공 대통령 격려 .	PER-B LOC-B O O O
-크레스포, 결국 첼시로 유 .	PER-B O ORG-B O O
-그러나 첼시는 이번이 적시장에서 사뮈엘에토오(바르셀로나), 안드리 셰브첸코(AC 밀란), 다비드 트레제게(유벤투스) 등 유명 스트라이커의 영입에 실패하면서 '크레스포를 잡자'는 쪽으로 방향을 정하+ㄴ 것으로 알려지었다 .	O ORG-B O O ORG-B PER-B ORG-B ORG-I PER-B ORG-B O O O O O PER-B O O O O O O O
-이계호 실업축구연맹 회장은 6일 K2리그의 프로화로 인하+ㄴ각 구단의 부담을 줄이기 위 하+여이 같은 이색 제안을 내놓았다 .	PER-B O O O ORG-B O O O O O O O O O O O O
-이 회장은 "각 지역 축구팬들에게 연고지역 선수들 펀드에 우선적으로 투자 하+ㄹ 수 있는 규정을 두어 연고지역 선수들에 대하+ㄴ 관심을 많이 갖도록 유도 하+ㄹ 것"이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O PER-B O O O PER-B O O
-영국 런던이 2012년 하계올림픽 개최지로 선정되+ㅁ에 따르 아40년 만에 영국 축구 단일팀이 올림픽에 출전하+ㄹ지 관심이 모으아지고 있다 .	LOC-B LOC-B O O O O O O O LOC-B O O O O O O O O
-지나+ㄴ 6월 영국 일간지 가디언의 보도에 따르면 스코틀랜드는 정체성 훼손을 이유로 단일팀에 참가하지 않겠다는 입장을 보이었다 .	O O LOC-B O O O O ORG-B O O O O O O O O O
-단일팀이 구성되면 그 실력이 브라질에 버금가게 되+어 축구종주국의 위용을 되찾을 수 있을 것이라는 것+이 전문가들의 평가+이다 .	O O O O ORG-B O O O O O O O O O O O O
-10일 오후 7시 서울월드컵경기장에서 열리는 서울과 포항의 전기리그 최종 전이 결전의 무대 .	O O O LOC-B O ORG-B ORG-B O O O O O O
-이동국의 활약을 앞세우어 6일 울산 현대를 잡은 포항은 현재 승점 21로 선두 부산 아이파크(승점 24)에 승점 3차이로 따라붙은 상태 .	PER-B O O O ORG-B ORG-I O ORG-B O O O O ORG-B ORG-I O O O O O O
-FC서울, 보카주니어스와 친선경기 추 .	ORG-B ORG-B O O O
-서울로 연고지를 옮기+ㄴ 뒤 홈팬들에게 이런 서비스를 하+ㄴ적이 없었다"고 추진 배경을 밝히었다 .	LOC-B O O O O O O O O O O O O
-박지성은 이날 오후 네덜란드 암스테르담의 영국 대사관에서 취업비자를 발급받은 뒤 곧바로 맨체스터 행 비행기에 오르+ㄹ 예정이다 .	PER-B O O LOC-B LOC-B O O O O O O LOC-B O O O O O
-영국과 네덜란드의 시차를 감안하면 박지성의 현 지 도착 시간은 오후 2시5분이 되+ㄴ다 .	LOC-B LOC-B TIM-I O PER-B O O O O O O O O
-박지성(24.맨체스터 유나이티드)에잇어 이영표(28.PSV에 인트 호벤)도 잉글랜드 프리미어리그 명문 맨체스터 유나이티드로 이적 하+ㄹ 가능성이 있다고 네덜란드 신문이 보도 하+여 관심을 끌고 있다 .	ORG-B ORG-I ORG-B O O ORG-B ORG-I O ORG-B ORG-I O O O O LOC-B O O O O O O O
-'박지성 경쟁자' 포춘, 6주 무릎 부 .	PER-B O PER-B O O O O
-지나+ㄴ 1999년 8월 맨체스터 유나이티드에 입단 하+ㄴ포춘은 입단 초기 라이언 긱스와 경쟁하며 맹활약을 펼치었지만 최근 눈에 띄는 활약을 펼치지 못하고 있다 .	O O O ORG-B ORG-I O PER-B O O PER-B PER-I O O O O O O O O O O O
-그러나 산토스 측은 최근 "호비뉴와 오는 2008년까지 계약되+어 있다 .	O ORG-B O O PER-B O O O O O
-네덜란드 축구 전문지 '풋발 인터내셔날'은 8일(한국시간)"최근 히딩크 감독과 호주 축구협회 관계자가 영국에서 회동을 +였다"며 "호주 축구협회는 이에 대하+여 긍정도 부정도 하지 않고 있어 더욱 의구심을 낳게 하고 있다"고 보도하였다 .	LOC-B ORG-I O O O LOC-B PER-B O ORG-B ORG-I O LOC-B O O ORG-B ORG-I O O O O O O O O O O O O O O
-'스나이퍼' 설기현(울버햄프턴)이 군대식 짧은 머리 스타일로 팀 동료들의 눈길을 집중시키었다 .	O ORG-B O O O O O O O O O
-울브즈(울버햄프턴의 애칭)에 돌아오았을 때 동료들이 놀리었지만 별로 의식하지는 않는다"고 말하였다 .	ORG-B O O O O O O O O O O
-성사 여부가 확실하지 않았던 고려대 OB-PSV에 인트 호벤친선 경기가 막판까지 진통을 겪은 끝에 예정대로 열리+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-피스컵 참가팀들이 개막 이틀 전 대회와 관계없는 경기를 치르기 위하+여서는 피스 컵 조직위의 허가가 있어야 하+ㄴ다 .	ORG-B O O O O O O O O O ORG-B ORG-I ORG-I O O O O
-몇몇 국내 프로축구팀들도 제안을 받았지만 K리그 휴식기에 경기를 치르는 부담감으로 거절하+ㄴ 것으로 알려지었다 .	O O O O O ORG-B O O O O O O O O
-현재 변수가 생기지 않는 한 친선 경기는 열리+ㄹ 것으로 보이지만 12일에 열리지 않는다면 이에 따르+ㄴ문제도 발생하+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-독일 축구협회가 10일(한국시간) 발표 하+ㄴ대진추첨 결과에 따르면 프랑크푸르트는 오는 8월 20일 또는 21일 오버하우젠과 대회 1라운드를 치르게 +었다 .	ORG-B ORG-I LOC-B O O O O ORG-B O O O O O ORG-B O O O O O
-베니테스 리버풀 감독은 10일(이하 한국시간) "피구의 이적 여부를 기다리고 있다. 그가 우리 팀에 오+ㄹ 가능성이 어느 정도의 가능성이 있는 것은 사실"이라며 "현재 멤버에 만족하지만 앞으로 2~3명 정도를 더 영입하+ㄹ 예정"이라고 밝히었다 .	PER-B ORG-B O O LOC-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-'축구 황제' 펠레가 '제2의 펠레' +이란 찬사를 듣고 있는 브라질 축구 유망주 호비뉴(21.산 토스)의 유럽행을 지지하고 나서 +었다 .	O PER-B PER-I PER-B PER-I O O O O ORG-B O O PER-B PER-I LOC-B O O O O
-한나라당 박근혜(朴槿惠) 대표는 10일 자신의 인터넷 미니 홈페이지 누적 접속자 수 300만명 돌파를 기념, 네티즌과 함께 자원봉사 활동을 하고 상암동 월드컵경기장에서 축구를 관람하는 등 다양하+ㄴ 행사를 가지었다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O
-박 대표는 또 학대받는 어린이를 위하+ㄴ 서울 마포 소재의 사회시설이 +ㄴ`신나는 그룹홈'을 방문, 아이들을 위하+여 샌드위치를 만들어주고 함께 노래를 부르는 등 봉사활동을 벌이었다 .	PER-B LOC-I O O O O LOC-B LOC-B O O LOC-B LOC-I O O O O O O O O O O O O
-박주영(20. FC서울)이 10일 서울 월드컵경기장에서 열리+ㄴ삼성 하우젠 K리그 2005포항스틸러스 전에서 두 경기 연속 골을 기록하였다 .	PER-B ORG-B O O O O O O O O O O O O O O
-10일 부산의 우승이 확정되+ㄴ 부산 아시아드 주경기장에서는 바로 옆 사직구장에서 프로야구 롯데자이언츠의 전유물처럼 부르어 지+어오+ㄴ 응원가 '부산 갈매기'가 힘차게 흘러나 오았다 .	O ORG-B O O ORG-B O O O O LOC-B O ORG-B O O O O ORG-B O O O O O
-사실 지나 +ㄴ 연말 FA 컵 우승 이후 컵 대회에서 무너지+ㄹ 때만 하+여도 포터필드 감독의 지도력을 의심하는 목소리가 불거지기도 +였다 .	O O O O O O O O O O O O O PER-B O O O O O O O
-지나+ㄴ 5월 29일 부천 전에서 K-리그 최장거리골(65ｍ)을 뽑아내 +ㄴ도 화성을 비롯하+ 여임관식, 김재영, 이정효 등 미드필더진은 특유의 성실하고 안정되+ㄴ플레이로 중원을 사수하였고 이 장관, 김유진, 배효성, 박준홍으로 이어지는 포백라인은 12경기 10실점의 짠물 수비로 우승의 버팀목이 +었다 .	O O O O O O O O O O O PER-B PER-B PER-B O O O O PER-B O O PER-B PER-I PER-B PER-B PER-B PER-B O O O O O O PER-B O O
-부산은 10일 부산 아시아드 주경기장에서 열리+ㄴ 프로축구 삼성 하우젠 K-리그 2005전기 리그 최종 전에서 후반 16분 터지+ㄴ '흑상어' 박성배의 페널티킥 선제골로 후반 종료 5분 전 김종현이 한 골을 만회하 +ㄴ대전시티즌과 1-1로 비기+어 전기 리그 우승을 확정하였다 .	ORG-B O ORG-B O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O O ORG-B O O O O O O O
-이날 스무번째 생일을 맞은 박주영은 이날 서울월드컵경기장에서 열리+ㄴ포항 전에서 전반 15분 선제골에잇어 후반 16분과 44분 연속 골로 해트트릭을 기록하며 팀의 4-1대승을 이끌었다 .	O O O O PER-B O LOC-B O O O O O O O O O O O O O O O O
-울산 현대도 부천 SK와의 원정경기에서 두 골을 터트리+ㄴ 브라질 용병마차도의 활약에 힘입어 3-2로 승리하였다 .	ORG-B ORG-I ORG-B ORG-I O O O O ORG-B PER-B O O O O O
-하지만 지난해 3월 창단 후 3번째 시즌을 맞이하 +ㄴ인천이 올 전기리그에서 보이어주+ㄴ 저력은 놀랍었다 .	O O O O O O O O ORG-B O O O O O O
-여기에 창단 후 단 한 번도 패하지 않았던 전북 현대에 패하는 불운을 맞보기도 .	O O O O O O O O ORG-B ORG-I O O O O
-스코틀랜드 출신 이+ㄴ 포터필드 감독은 지나 +ㄴ 88-93년 잉글랜드 명문 첼시 사령탑을 맡았고 이후 잠비아, 짐바브웨, 오만, 트리니다드토바고 등 아프리카.중동.북 중미 각국 대표팀 감독을 맡아 축구 수준을 한 단계 올려놓는 성과를 이루+어내 +었다 .	LOC-B O O PER-B O O O O LOC-B O ORG-B O O O ORG-B ORG-B ORG-B ORG-B O LOC-B O O O O O O O O O O O O O O
-하지만 이제 K-리그 통합 우승과 아시아 챔피언스리그 정상까지 노려보겠다 .	O O O O O O O O O O
-박주영은 10일 서울 월드컵경기장에서 열리+ㄴ삼성 하우젠 K-리그 포항스틸러스 전에서 프로축구역 대한경기 최다 이+ㄴ 4만8천375명의 관중이 지켜보는 가운데 해트트릭을 작성하며 팀의 4-1 승리를 이끌었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-▲ 경기전 전화통화를 +였는데 생일이+ㄴ데 8천호골 정도는 터트리+어야 하지 않겠느냐고 그러더라. 하지만 전혀 의식하지 않았다. 오늘 승리는 모두 가족과 여자친구 덕분이다 .	O O O O O O O O O O O O O O O O O O O O O O
-안정환은 에이전트와 함께 지나+ㄴ 10일 오후 프랑스 파리로 극비 출국, 메스로 이동 하+여FC 메스구단 측과 세부적 이+ㄴ 입단 조건에 합의 하+ㄴ 것으로 밝혀지었다 .	PER-B O O O O O LOC-B LOC-B O O O O ORG-B ORG-I O O O O O O O O O O
-유럽 스포츠 전문 사이트 유로스포츠도 "FC 메스가 페루 출신의 공격수 안드레스멘도사(27)의 입단을 추진하였으나 실패로 돌아가 +ㄴ 뒤 안정환을 영입 대상에 올려놓았다"고 전하였다 .	LOC-B O O O O ORG-B ORG-I LOC-B O O PER-B O O O O O O PER-B O O O O O
-현재 퍼디낸드의 재계약 협상은 중단되+ㄴ 상황이다.구단은 이미 퍼디 낸드에 주급 10만 파운드(약 1억8천만원)를 베팅+하였다 .	O PER-B O O O O O O O O MNY-B MNY-I MNY-B O O
-최근 유럽 축구 전문 사이트 골닷컴이 '안정환, 결정의 시간이 다가오았다'고 밝히는가 하면, 프랑스 지르피가로는 '파리 생제르맹이 안정환을 영입 대상에 올려놓았다'고 보도하는 등 유럽 언론들도 안정환의 유럽 재진출 임박설에 힘을 싣어 +주었다 .	O LOC-B O O O O PER-B O O O O O LOC-B O ORG-B ORG-I PER-B O O O O O LOC-B O PER-B LOC-B O O O O O O
-결국 프랑스 쪽을 선호하였던 안정환은 전격적으로 FC 메스의 영입 제의를 받아들이며 지나+ㄴ 2001∼2002 시즌(이탈리아 페루자)에잇어 3년 만에 다시 유럽 무대에 서게 +었다 .	O LOC-B O O PER-B O ORG-B ORG-I O O O O O ORG-B ORG-I O O O LOC-B O O O O
-FC메스는 비록 정규리그 우승은 차지하지 못하였지만 80년대 프랑스컵(84, 88년)과 리그컵(86년)을 여러 차례 제패하며 전성기를 구가하었다 .	ORG-B O O O O O O O O O O O O O O O
-대한축구협회도 지나 +ㄴ 2002년부터 유망주 해외유학 프로젝트의 파트너로 FC 메스를 선정하+여강진욱(19), 어경준(18) 등을 위탁교육시키+ㄴ바 있다 .	ORG-B O O O O O O O ORG-B ORG-I PER-B PER-B O O O O
-호주 축구협회가 거스 히딩크(58) PSV에 인트 호벤(네덜란드) 감독을 차기 대표팀 사령탑으로 영입하겠다는 의사를 공식적으로 표명 하+ㄴ 가운데 히딩크 감독도 수락 의사를 밝히+어귀 추가 주목되 +ㄴ다 .	ORG-B ORG-I PER-B PER-B ORG-B O LOC-B O O O O O O O O O O PER-B O O O O O O O O
-히딩크 감독은 잇어"호주와 솔로몬제도의 최종 예선 전과 11월 남미 5위팀과의 플레이오프전은 'A매치 데이' +이어서에인트 호벤의 일정에 아무런 영향을 끼치지 않는다"며 "예선전을 앞두고도 호주 대표팀이 네덜란드로+아서 훈련하면 되+ㄴ다"고 설명하였다 .	PER-B O LOC-B ORG-B O O O O LOC-B O O O O O O O O O O O O O LOC-B O LOC-B O O O O
-출전 선수 중 최고참선수이자 최고 학번이 +ㄴ 홍명보는 "경기 결과는 예상하기 어렵겠지만 후배들이 에인트 호벤 선수들 못하지 않게 훌륭하+ㄴ 선수들이라 좋은 경기를 펼치+ㄹ 수 있을 것이라 생각 하+ㄴ다"고 자신감을 내비치었다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-한편 홍명보는 이번 친선경기가 문제가 있다는 외부 시선도 있다는 질문에 "고려대가 한국 축구에 이바지하+ㄴ바가 크다.에인트 호벤이 세계적으로 유명 하+ㄴ팀이지만 그런 팀과 경기를 하+ㄹ 수 있는 자격이 있다고 보+ㄴ다"고 말하였다 .	O PER-B O O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O O O O O O
-포터필드 감독은 부임 2년째 이+ㄴ 지나 +ㄴ 시즌 FA컵을 우승하기 전 정규리그에서 성적이 바닥권을 치자 일부 서포터스의 거세+ㄴ 퇴진 요구를 받았었다 .	PER-B O O O O O O O O O O O O O O O PER-B O O O O O
-오는 31일 개막하는 2005 동아시아축구연맹 선수권대회에 출전하는 국가대표팀 선수 명단이 12일 확정되+ㄴ다 .	O O O O O O O O O O O O O
-이에 따르 아본 프레레호는 국내파와 일본파를 중심으로 구성되 +어개막일주일전 이+ㄴ오는 24일 또는 25일부터 소집훈련을 시작하+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O O
-반면 별도의 조직이 없는 중국의 '치우미' 응원단은 국내 화교들을 위주로 응원전을 펼치+ㄹ 것으로 보이+ㄴ다는 것+이 축구협회 관계자의 설명이다 .	O O O O LOC-B ORG-B O O O O O O O O O ORG-B O O O
-특히 다음달 잇따르 아 펼쳐지는 북한-일본 여자 대표팀 경기의 경우 북한이 아시아 최고의 수준을 달리고 있는 만큼 남자 선수들이 못 다 하+ㄴ 월든 컵 최종 예선전의 일본 전 승리를 대신 하+여주+ㄹ 수 있을 것으로 보이+ㄴ다 .	O O O O O ORG-B O O O O ORG-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
-잇어 경찰은 오전 9시27분까지 7차례 협박 전화를 하+여오+ㄴ이 남자의 전화 발신지를 추적, 남구 무거동 울산과학대 인근 공중전화 부스 안에 있던 김모(26.무직)씨를 붙잡았다 .	O O O O O O O O LOC-B O O O LOC-B LOC-B LOC-B O O O O O PER-B O O
-'초롱이' 이영표(28)와 PSV에 인트 호벤의 결별 가능성이 더욱 커지고 있다 .	PER-B PER-B ORG-B O O O O O O O O
-이영표는 에인트 호벤과 내년 6월까지 계약이 되+어 있으며 지나+ㄴ 5월 구단으로부터 '4년 계약 연장' 제안을 받은 상태이다 .	PER-B O O O O O O O O O O O O O O O O O
-나카무라는 브라질과의 컨페더 레이션스컵 준결승에서 1-1로 균형을 맞추는 동점골과 막판 승부를 원점으로 돌리는 극적이 +ㄴ동점골의 발판을 놓는 등 인상적 이+ㄴ 활약을 펼치었다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O
-15일부터 열리는 클럽축구 대항전 2005 피스컵코리아에 출전하기 위하+ 여내 한 하는 에인트 호벤의 일정을 맞추고 경기장을 구하느라 진통 끝에 어렵게 성사되+ㄴ 대결이다 .	O O O O O O O O O O O O O O O O O O O O O O O
-관심을 끌는 매치업은 박주영과 이영표 .	O O O PER-B PER-B O
-프로축구 성남일화가 2005 피스컵코리아와 K-리그 후반기에 대비 하+여 지난해 K-리그 득점 왕 출신의 삼바 특급 모따(25.브라질)를 영입하였다 .	O ORG-B O O O O O O O O O O O PER-B PER-I ORG-B O O
-성남은 모따를 영입하+ㅁ으로써 수원 삼성, 울산 현대에서 각각 데려 오+ㄴ미드필더 김두현, 박진섭과 함께 탄탄하+ㄴ 진용을 구축하게 +었다 .	ORG-B PER-B O ORG-B ORG-I ORG-B ORG-I O O O PER-B PER-B O O O O O O
-전남은 이에 대하+여현재 시즌 중이고 제안받은 이적료도 낮아 보내+ㄹ 수 없다는 입장을 보이고 있다 .	ORG-B O O O O O O O O O O O O O O
-요하네스본 프레레 축구 국가대표팀 감독은 12일 코칭스태프 회의를 열어 오는 31일부터 8월 7일까지 대전, 전주, 대구에서 열리는 제2회 동아시아연맹(EAAF) 축구선수권대회에 출전하+ㄹ 대표팀 25명의 명단을 확정, 발표하였다 .	PER-B O O O O O O O O O O O O LOC-B LOC-B LOC-B O O ORG-B O O O O O O O O
-'천재 골잡이' 박주영(FC서울)과 '본 프레레 호황태자'이 동국(포항)은 공격진에 포함되었다 .	O O ORG-B O O O ORG-B O O O
-본 프레레 감독은 "대회 시작 1주일 전 이+ㄴ 24일 대표팀을 소집하+여야 하는데 FC서울이 피스컵에 참가하는 보카주니어스와 26일 친선전을 치르는 것으로 듣었다"며 "대표팀에서 뭐 +이+ㄴ가를 하려면 항상 FC서울이 걸림돌이 되는 것 같다"고 불편하+ㄴ 심기를 드러내+었다 .	O O O O O O O O O O O O ORG-B O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O
-FC서울의 한 관계자는 "안보내+어주겠다는 것도 아니고 FC서울로서도 중요하+ㄴ경기 이+ㄴ데 축구협회에서 협조 하+여주+어야 하+ㄴ다"며 "이미 이런 일을 예상 하+여 축구협회 관계자와 상의하였고 긍정적 이+ㄴ 대답도 얻었다"고 설명하였다 .	ORG-B O O O O O ORG-B O O ORG-B O O O O O O O O ORG-B O O O O O O O O
-다음은 본 프레레 감독과의 일문일답 .	O O O O O O
---일부에서 +ㄴ 본 프레레 감독의 지도력에 대하+여불신하고 있는데 .	O O O O O O O O O
---2년 만에 방한 하+ㄴ 소감은 .	O O O O O O
---이영표의 이적설이 돌고 있는데 .	PER-B O O O O
-히딩크 애인 엘리자베스 동 .	PER-B O PER-B O O
-킨은 또 한국 축구에 대하+여"월드컵 준결승까지 올라가 +ㄴ 강팀이 고 최근 몇 년간 많이 발전 하+ㄴ 것으로 알고 있다. 발전 속도가 앞으로도 계속 이어지+ㄹ 것으로 보+ㄴ다"고 덕담을 남기었다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-유벤투스, 캠벨마저 눈 .	ORG-B PER-B O O
-한편 프랑스 프로 축구(르샹 피오나) '올해의 선수' 출신의 미셸에 시앙(22.올림 피크리옹)의 이적 여부를 놓고 부자 구단 첼시와 리옹 간의 협상이 막판 '공전'하고 있는 것으로 알려지었다 .	O LOC-B O ORG-B ORG-I O O O PER-B ORG-B ORG-B O O O O O ORG-B ORG-B O O O O O O O O
-FC메스 측에서 +ㄴ 2년을 요구하었지만 1년 계약을 하+ㄴ 안정환은 "1년 뒤 또 다른 리그에서 새롭ㄴ 경험을 하고 싶었다"고 배경을 전하였다 .	ORG-B O O O O O O O PER-B O O O O O O O O O O O O
-"2년 만에 다시 찾은 한국 땅에서 피스컵 2연패의 기쁨을 맛보고 싶다."(거스 히딩크 PSV에 인트 호벤 감독 .	O O O O LOC-B O O O O O PER-B PER-I ORG-B O O O O
-수문장에는 브라질 대표팀 '2번골키퍼'고메즈가 버티고 있다 .	O LOC-B O PER-B O O O
-김 감독은 "에인트 호벤은 분명히 우리보다 강 하+ㄴ팀이다. 강팀과의 갭을 얼마나 줄이느냐가 전략적 목표+이다. 상대를 얼마나 괴롭히느냐에 따르 아우리가 이기+ㄹ 수도 있다고 보+ㄴ다"고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-◇피스컵 개막일(15일) 일정 .	O O O O
-또 '새내기' 공격수 김진용(울산)도 본 프레레호가 발탁 하+ㄴ '숨은 진주' 중 하나+이었다 .	O O O LOC-B O O O O O O O O O
-전남 최진한 코치는 "신인이 올 시즌 대부분 경기에 나서+어주 전자리를 꿰차+았다면 '물건'이+ㅁ에 틀림없다"고 평하였을 정도로 준비되+ㄴ '태극전사'의 역할을 십분 발휘하고 있다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O
-185㎝의 크+ㄴ 키와 대학 때 공격수로 활약하였던 전력 덕분에 개인기가 뛰어나고 득점 능력까지 갖추+ㄴ 수비수로 올 시즌 K리그 17경기에 나서+어 1골1 도움을 기록하였다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O
-히딩크 감독을 비롯하+여정 몽준 축구협회장, 축구원로 김화집 선생, 이회택 축구협회 부회장 등 축구협회가 선정하+ㄴ '명예의 전당' 헌액자 7명의 흉상은 오는 8월 월드컵 기념관 개관에 맞추+어 공개되+ㄹ 예정이었지만 이날 히딩크 감독의 강력 하+ㄴ 요청에 따르 아미리 공개되+ㄴ 것 .	PER-B O O O ORG-B ORG-B PER-B O PER-B ORG-B O O ORG-B O O O O O O O O LOC-B LOC-I O O O O O PER-B O O O O O O O O O
-에인트 호벤, 고대 올스타제 .	O O ORG-B ORG-I O
-김 대의, 노정윤, 김정우 등을 선발 투입 하+ㄴ 고려대 올스타는 전반 12분 유상수가 수비수를 제치고 논스톱 슛을 때리었으나 크로스바를 넘어가 +았고 전반 41분 왼쪽 측면에서 올리+ㄴ 최성국의 터닝센터링은 크로스바를 맞고 튕기+어나가 +았다 .	O O PER-B PER-B O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O PER-B O O O O O O
-후반 4분 최성국이 1대1 찬스를 맞았으나 마무리 슈팅이 빗 맞았고 후반 13분 최성국의 중거리 슛과 29분 조성용의 프리킥은 골키퍼 선방에 막히었다 .	O O PER-B O O O O O O O O O PER-B O O O PER-B O O O O O
-히딩크 감독과 차범 근 감독의 인연은 자 못 깊다 .	PER-B O O O O O O O O O
-조재진 .최태욱, J리그 연속 골불 .	PER-B PER-B ORG-B O O O
-고베의 재일동포 미드필더 박 강조는 0-2로 뒤지던 전반 37분 히라세도 모유키의 골을 어시스트, 추격의 발판을 마련하였다 .	ORG-B O O O O O O O O PER-B PER-I O O O O O O
-'천재 골잡이' 박주영(FC서울)이 프로축구에서 역대 최다올스타 득표기록을 깨+ㄹ 수 있을지 관심이 모이고 있다 .	O O ORG-B O O O O O O O O O O O
-한편 올스타전은 중부 선발(부천, 대전, 서울, 성남, 수원, 인천)과 남부선발(광주, 대구, 부산, 울산, 전남, 전북, 포항)로 나뉘어 다음달 21일 오후 6시 서울 월드컵경기장에서 열리+ㄴ다 .	O O LOC-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B LOC-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O ORG-B O O O
-한때 이적결심을 내비치며 올 여름 오프 시즌을 뜨겁게 달구었던 제라드는 이날 전반에만 2골을 뽑은 데 잇어 종료 직전 추가골을 넣으며 해트트릭을 작성, 최근 4년 연장 계약을 체결하+ㄴ팀에 톡톡히 보은+하였다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
-그동안 히딩크 감독은 이영표의 이적에 대하+여 '불가' 방침을 표시하면서 완전히 새롭ㄴ 조건으로 4년간 재계약을 요구하+여+오았으나 이 같은 입장을 나타내 +ㅁ으로써 이적에 관하+여한 발 물러서 +ㄴ셈이다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
-히딩크. 본 프레레, 전야제서 만 .	PER-B O O O O O
-본 프레레 감독은 "초대를 받아 기쁘다 .	O O O O O O O
-한국 최초의 프리미어리거 박지성이 14일 오후 맨체스터 유나이티드의 홈구장이+ㄴ올드 트래포드 스타디움에서 입단식 및 기자회견을 가지었다 .	LOC-B O O PER-B O O ORG-B ORG-I O O O O O O O O
-▲(퍼거슨 감독)에 인트호벤에서 뛰고 있을 때부터 박지성을 눈여기+어보+아야 하+ㄴ다는 말이 있었다 .	PER-B O O O O O PER-B O O O O O
-▲(박지성) 맨유가 챔피언스리그와 프리미어리그 모두에서 우승하+ㄹ 수 있다고 생각 하+ㄴ다 .	PER-B ORG-B O O O O O O O O O
-▲(박지성) 포지션에 구애받지 않는다 .	PER-B O O O O
-오이타의 18세 이하 감독 및 코치를 거치+어 올해 사령탑에 오르+ㄴ 황보 감독은 지나 +ㄴ 14일 발표되+ㄴ'2005조 모올스타 축구'팬투표 1차 중간 집계 결과 총 19만8천635표의 유효표 가운데 1만2천172표를 획득, 서부감독 부문 4위에 랭크되었다 .	ORG-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O ORG-B O O O O
-J리그이와타 '태극형제', 부진의 끝 .	ORG-B O O O O
-김진규 의 사정은 더욱 심하다 .	PER-B O O O O O
-한편 지나 +ㄴ 13일 FC 도쿄전에서 나란히 3경기 연속 골 사냥에 실패하였던 조재진(24)-최태욱(24. 이상시 미즈S펄스)은 17일 감바오사카와 의원정경기에서 득점포재가동에 나서 +ㄴ다 .	O O O O O O O O O O O O PER-B O O O ORG-B O O O O O
-최전방 공격수로 선발 출전 하+ㄴ 김도훈은 0-1로 뒤지던 전반 10분 그림 같은 동점골을 터트리며 경기장을 가득 메우+ㄴ 성남팬들을 열광시키었다 .	O O O O O PER-B O O O O O O O O O O O ORG-B O O
-현재 K리그 통산 108골로 역대 최다 골 기록(110골) 경신을 눈앞에 두고 있는 한국 프로축구의 대표 골잡이 김도훈은 과거 히딩크 감독과는 불행히도 인연이 없었다 .	O ORG-B O O O O O O O O O O ORG-B O O O PER-B O PER-B O O O O O
-김도훈은 '활동폭이 +었는데 힘들지 않았느냐'는 물음에 "나이가 있다 보니 힘들었다.5년만 젊었어도 네덜란드 리그에 진출하였을 터+이+ㄴ데.."+이라며 아쉽 ㄴ미소를 남기었다 .	PER-B O O O O O O O O O O LOC-B O O O O O O O
-이윽고 주심의 킥오프 휘슬이 울리고 나+ㄴ 뒤 이영표의 발끝에서 볼이 닿을 때마다 팬들은 환호성을 터트리었다 .	O O O O O O O PER-B O O O O O O O O
-하지만 최근에 인트호벤에서 잉글랜드 프로축구 맨체스터 유나이티드로 이적 하+ㄴ 박지성(24)의 공백은 이날 경기장을 가득 채우+ㄴ 관중들에게 크+ㄴ아쉬움으로 남고 말았다 .	O O O LOC-B O ORG-B ORG-I O O PER-B O O O O O O O O O O
-일본 프로축구(J리그) FC 도쿄가 서포터스 폭력사건에 대하+ㄴ 책임을 묻어 사장에게 감봉 조치를 내리었다 .	LOC-B ORG-B ORG-B O O O O O O O O O O O
-박지성(24.맨체스터 유나이티드)이 23일 시작되는 극동아시아투어에서 실력 발휘를 하겠다며 자신감을 나타내 +었다 .	ORG-B ORG-I O O O O O O O O O O
-그는 "한국의 팬들과 이곳 팬들이 나를 주목하고 있어 부담이 되+ㄹ 수 있지만 흔들리지 않고 본연의 플레이를 펼치+ㄹ 수 있다"고 강조하였다 .	O LOC-B O O O O O O O O O O O O O O O O O O O
-광주시의 요청으로 16일 오후 광주 월드컵경기장에서 열리+ㄴ이날 팬사인회는 당초 오후 5시30분에 열리기로 +였지만 에인트 호벤 측의 요청으로 1시간 뒤로 미루+어+지었다가 결국 오후 7시가 넘어서야 시작되었다 .	LOC-B O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O
-토마손, 슈투트가르트로 이 .	PER-B ORG-B O O
-아스날은 "레예스와 6년간의 계약 연장에 합의+였고 이에 따르 아그는 2011년까지 우리 팀에서 뛰+ㄹ 것"이라고 밝히었다 .	ORG-B ORG-B O O O O O O O O O O O O O O
-박지성은 16일 밤(이하 한국시간) 스코틀랜드 컴버놀들 브로드 우드스타디움에서 열리+ㄴ 클라이드(스코틀랜드 2부 리그)와의 프리시즌 평가 전 첫 경기에서 공격진의 일원으로 선발 출격 하+여전반 45분을 소화하였다 .	PER-B O O LOC-B ORG-B LOC-B LOC-B LOC-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
-맨체스터 유나이티드는 전반 13분과 19분로 시와 클레베르손이 찬스를 놓치었으나 31분 박지성의 발끝에서 시작되+ㄴ 연결플레이로 첫 골을 뽑았다 .	ORG-B ORG-I O O O O PER-B O O O PER-B O O O O O O O
-프랑스 리그 4연패에 빛나는 올림피크 리옹이 성남일화를 꺾고 조선두로 올라서 +었다 .	O O O O ORG-B ORG-I ORG-B O O O O O
-선제골은 이번 대회를 앞두고 터키 베시크타스에서 옮기+어오+ㄴ 카레우의 발끝에서 터지었다 .	O O O O ORG-B ORG-I O PER-B O O O
-광주 경기에서 에인트 호벤은 개인기와 유연성을 겸비하+ㄴ 칼다스에시종 끌리+어다니+ㄴ 끝에 간신히 비기었다 .	LOC-B O O O O O O PER-B O O O O O
-이영표는 5분 뒤 헛다리 짚기로 왼쪽 측면을 돌파 하+여날카롭 ㄴ크로스를 올리었으나 골키퍼 손에 걸리었다 .	PER-B O O O O O O O O O O O O O O
-하지만 독일 월드컵 본선 무대를 10개월여 남기+ㄴ '본 프레레호'의 향후 일정을 미리 들이어다 보면 그리 편하지만은 않을 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-한국은 지난해 아시안컵 8강에서 탈락하면서 전체 순위 7위에 랭크되+어 내년 아시안컵 2차 예선시드를 받지 못하게 되+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O
-결국 본 프레레 감독은 국제축구연맹(FIFA) 규정에 따르 아5월에나 해외파선수들을 모두 부르어놓고 훈련하+ㄹ 수밖에 없는 상황에서 본선에 나서+어야 하는 부담을 극복하+여야만 하+ㄴ다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O
-레알 마드리드는 17일(이하 한국시간) 미국 시카고에서 열리+ㄴ 멕시코 프로팀 치바스과 달라하라와의 친선 경기에서 알바로메이자, 구티, 로베르토 솔다도의 연속골로 3-1 승리를 거두었다 .	ORG-B ORG-I O LOC-B LOC-B LOC-B O LOC-B O ORG-B O O O PER-B PER-B PER-B PER-I O O O O O
-당초 예상은 A조에서 디펜딩 챔피언 PSV에 인트 호벤(네덜란드), 올림피크 리옹(프랑스), B조에서는 토튼 햄핫스퍼(잉글랜드), 보카 주니어스(아르헨티나)가 조 1위에게만 주어지는 결승행 티켓을 다투+ㄹ 것으로 점치+어+지었다 .	O O ORG-B O O ORG-B O LOC-B ORG-B LOC-B ORG-B O LOC-B ORG-B LOC-B ORG-I O O O O O O O O
-콜롬비아 대표 엘킨 소토를 비롯하+ㄴ 공격진은 마무리 슈팅의 위력이 다소 떨어지지만 문전까지 찬스를 만들어가는 과정은 참가팀 중 가장 뛰어나다는 평가까지 받고 있다 .	LOC-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O
-선다운슬는 레라토차반구 등 공격진이 묘기와 같은 개인기로 국내 팬들의 탄성을 자아내고 있다 .	ORG-B PER-B O O O O O O O O O O O
-그 근거는 딕아드보카트 전 네덜란드 대표팀 감독이 아랍에미리트연합(UAE) 대표팀 사령탑으로 1년 계약을 체결하+ㄴ 것 .	O O O O LOC-B O O ORG-B O O O O O O O
-'아주리 군단'의 신예 골잡이 알베르토 질라르디노(23.전 파르마)가 이탈리아 프로축구 세리에 A의 명문 AC 밀란으로 이적하였다 .	ORG-B ORG-I O O PER-B PER-I ORG-B ORG-B O ORG-B ORG-I O ORG-B ORG-I O O
-질라르디노는 "너무 행복하다 .	PER-B O O O
-일본 축구의 '영웅' 미우라가 즈요시(38.빗셀고베)가 40세까지 주전자리를 보장한 J2 리그요코하마FC로의 이적 하+ㄴ다 .	LOC-B O O PER-B ORG-B O O O ORG-B ORG-B O O O
-박주영, 보카주니어스 전 준비돌 .	PER-B O O O O
-특히 보카 주니어스에는 2005세계 청소년 축구선수권대회 우승팀 아르헨티나의 주력 멤버 네리카르도소, 페르난도 가고, 훌리오 바로 소가 포함되 +어 있어 박주영으로서는 더욱 의욕을 불태우+ㄹ만 하다 .	O ORG-B ORG-I O O O O ORG-B O O PER-B PER-B PER-I PER-B PER-I PER-I O O O PER-B O O O O O
-日축구대표팀, 동아시아 선수권대회 명단 발 .	LOC-B O O O O O
-또 우라와 레즈의 신예 스트라이커 다나카타+아쓰야(23.우라와)도 공격진에 첫발탁하였다 .	O ORG-B ORG-I O O ORG-B O O O
-북한 축구협회는 19일 대한축구협회에 제2회 동아시아연맹 축구선수권대회에 참가하+ㄹ남녀축구대표팀 명단을 통보하였다 .	O O O ORG-B O O O O O O O
-리명수 체육단은 호위국 소속의 군인으로 이루어 지+ㄴ군팀이다 .	ORG-B ORG-I O O O O O O
-"부와 명예가 생기면 여자는 자연스레 따르기 마련이 +ㅂ니다."프랑스 국가대표 출신으로 1990년대 중반 잉글랜드 프리미어리그 명문 클럽 맨체스터 유나이티드의 전성기를 이끌었던 에릭 칸토나(39)가 이성에 한창 관심이 많을 사춘기 축구 꿈나무들 앞에서 던지+ㄴ 농담이다 .	O O O O O O O LOC-B O O O O ORG-B ORG-I O O ORG-B ORG-I O O PER-B PER-I O O O O O O O O O O O
-94-95 시즌을 시작으로 97년 은퇴하+ㄹ 때까지 맨체스터 유나이티드의 중흥을 이끌며 "나+ㄴ 비록 프랑스인이지만 죽으면 올드 트래포드(맨체스터 유나이티드의 홈구장)에 묻히고 싶다"고 말 하+여+오았던 칸토나는 "맨체스터 유나이티드는 나에게 잊히+어지+ㄹ 수 없는 클럽이지만 세상 모든 축구팬들에게도 마찬가지 이+ㄹ 것"이라며 여전히 변함없는 애정을 드러내+었다 .	O O O O O O ORG-B ORG-I O O O O O O LOC-B LOC-I ORG-I O O O O O PER-B ORG-B ORG-I PER-I O O O O O O O O O O O O O O O
-맨체스터 이브닝뉴스는 포스터의 몸값이 옵션을 포함하+여 300만 파운드(56억원)에 달하+ㄴ다면서 알렉스 퍼거슨 감독이 스토크의 3번째 골키퍼에게 크+ㄴ 베팅을 +였다고 보도하였다 .	O O PER-B O O O MNY-B MNY-B O PER-B PER-I O PER-B O O O O O O O
-그는 또 "히딩크 감독을 뽑을 수 있다면 크+ㄴ 성공이 되+ㄹ 것"이라며 "그렇게 되+ㄹ 것으로 99% 확신하다"고 덧붙이었다 .	O O PER-B O O O O O O O O O O O O O O O
-20일(한국시간)로이터통신에 따르면 부룬디, 카메룬, 잠비아, 나이지리아, 케냐 등 아프리카 5개국에서 노숙자 월드컵에 참가하려던 선수들이 체재비가 턱없이 부족하다는 이유로 비자 발급을 거부당하였다 .	LOC-B O ORG-B ORG-B ORG-B ORG-B ORG-B O ORG-B O O O O O O O O O O O O O
-전주시, 남북축구`교통대책 ´ 마 .	ORG-B O O O O
-현대중, 맨유와 아쉽 ㄴ무승 .	ORG-B ORG-B O O O
-당성 증현대중 감독은 "첫 경기+이라 선수들이 많이 긴장하였다. 우리가 준비 하+ㄴ 것의 60-70%밖에 보이어주지 못하였다. 해보+ㄹ만 하+ㄴ팀이었고 반드시 이기려 +였는데 너무 아쉽다"고 밝히었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-FIFA가 20일 발표 하+ㄴ 7월 세계 축구랭킹에 따르면 한국은 랭킹 포인트 696점으로 덴마크와 그리스(이상 공동 19위)에잇어 21위에 오르았다 .	ORG-B O O O LOC-B O O O ORG-B O O O ORG-B ORG-B O O O O O
-한편 내년 월드컵 개최국이 +ㄴ 독일은 지난달 순위보다 무려 10계단이나 점프 하+여 11위에 랭크, 톱 10 진입을 눈앞에 +었다 .	O O O O O ORG-B O O O O O O O O O O O O O O
-이날 경기는 박지성(현 맨체스터 유나이티드)과 함께 지나 +ㄴ 시즌에 인트 호벤을 '꿈의 무대' 유럽 축구연맹(UEFA) 챔피언스리그 4강까지 이끌 +ㄴ이 영표의 진가를 국내 축구팬들이 눈앞에서 직접 확인 하+ㄹ 수 있는 기회+이었다 .	O O PER-B ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
-이영표는 1-1로 맞서 +ㄴ 후반 막판에도 두세 차례 결정적 이+ㄴ 크로스로 상대 수비진을 일거에 무너뜨리었으나 마무리가 이루어지지 않아 아쉽게 팀을 승리로 이끌지 못하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-PSV에 인트 호벤(네덜란드)의 태극전사이영표는 전반득점과 다름없는 선제골어시스트를 기록하였으나 팀이 후반통한의 동점골을 내+어주+어빛이 바래+었다 .	ORG-B O LOC-B PER-B O O O O O O O O O O
-전반 2분 오이에르의 위력적 이+ㄴ헤딩슛으로 포문을 열 +ㄴ에 인트 호벤은 왼쪽 윙백으로 선발 출전 하+ㄴ이 영표가 공격에 적극 가담하면서 파상공세를 펼치었다 .	O O PER-B O O O O O O O O O O O O O O O O O O O
-에인트 호벤이 승리를 지키+어내면 결승에 오르+ㄹ 수 있었으나 후반 초반 방심이 화를 부르었다 .	O O O O O O O O O O O O O O
-(A조) 올림피크리옹(1승2무)1(0-11-0)1에 인트 호벤(1승2무 .	ORG-B ORG-B O O O
-그는 한국의 감독제의를 기다리+ㄴ 것이 아니었느냐는 물음에 "절대 그렇지 않다. 저는 PSV의 감독이었고 KFA에 다시 일자리를 달라고 하+ㄴ적이 없다"면서 "지금까지 4개국 축구협회로부터 감독제의를 받았고 그 중 호주를 포함하+ㄴ 2개국이 남아있는 상태"라고 설명하였다 .	O ORG-B O O O O O O O O O ORG-B O ORG-B O O O O O O O ORG-B O O O O LOC-B O O O O O O
-"병철이 막아!병철이.. .	PER-B PER-B O
-현재 정신지체 장애 2-3급 10여명의 선수들이 팀을 드나들며 2007년 중국 베이징(北京) 스페셜올림픽 출전을 목표로 한 여름 무더위를 쫓고 있다 .	O O O O O O O O O O O O O O O O O O O O
-축구협, 북한대표팀 숙소.훈련장 '고심 .	ORG-B LOC-B O O O
-축구협회는 파주NFC(대표팀 트레이닝센터)와 상암보조구장, 고양종합운동장 보조구장 등 3곳을 검토 중이다 .	ORG-B LOC-B O LOC-B LOC-B LOC-I O O O O O
-◇맨체스터 유나이티드 아시아투어 생중계 일정 대홍콩 선발(23일 오후 4시50분. 홍콩) 대베이징시엔 다이(26일 저녁 8시 20분. 중국 베이징)대가시 마앤틀러스(28일 저녁 6시 50분.일본 도쿄) 대우라와 레즈(30일 저녁 6시 50분.일본 사이타마 .	O O O O O LOC-B O O O LOC-B LOC-B ORG-I TIM-B TIM-I TIM-I LOC-B LOC-B ORG-I TIM-B TIM-I LOC-B LOC-B ORG-B ORG-I TIM-B TIM-I LOC-B LOC-B O
-네이버 '붉은악마' 공식 후 .	ORG-B ORG-B O O O
-거스 히딩크(59) PSV에 인트 호벤(네덜란드) 감독이 21일 오후 호주로 출국하였다 .	PER-B PER-I ORG-B O LOC-B O O O LOC-B O O
-히딩크 감독이 정오께 호텔을 나서 +ㄴ 뒤 사라지자 행방을 수소문하느라 한때 소동이 일기도 +였다 .	PER-B O O O O O O O O O O O O O O
-북한이 2006 아시아 청소년 축구선수권(19세 이하) 예선 개최권을 반납하였다 .	ORG-B O O O O O O O O O
-울산 현대중이 '2005 맨체스터 유나이티드 프리미어컵' 세계 결선 8강에 오르았다 .	ORG-B ORG-I O O O O O O O O O
-현대중은 이날 오전 에 스파뇰과의 3차전에서 최진수, 김진용, 곽정술의 연속골로 3-1로 승리하며 1무 1패 뒤 첫 승을 거두+ㄴ 뒤 오후 조별리그 마지막 경기에서도 곽정술, 이민섭, 이형수의 릴레이 골로도르트 문트에 3-0 완승을 거두고 8강 진출을 확정짓었다 .	ORG-B O O O O O PER-B PER-B PER-B O O O O O O O O O O O O O O PER-B PER-B PER-B O O O O O O O O O O
-체육(-피스컵 축구-토튼햄, 리옹과 결승 '격돌' .	O ORG-B ORG-B O O O
-전반 초반부터 미드필드 싸움으로 밀고 밀리는 공방을 펼치+ㄴ토튼햄은 전반 17분 하메드 미도가 페널티아크 부근에서 스루패스를 이어받아 골키퍼와 1대1 찬스를 맞았지만 아쉽게 옆 그물을 때리고 말았다 .	O O O O O O O ORG-B O O PER-B PER-I O O O O O O O O O O O O O O
-10명이 싸우는 불리하+ㅁ 속에서도 반격을 잇어나가+ㄴ 레 알소시에 다드는 후반 5분 다 실바의 헤딩슛이 수비수 맞고 나오는 불운에 다 이천수의 결정적 이+ㄴ슛이 골문을 비키+어나가면서 역전에 실패하고 말았다 .	O O O O O O O O PER-B O O PER-B PER-I O O O O O PER-B PER-B O O O O O O PER-B O
-'영원하+ㄴ리베로' 홍명보 대한축구협회 이사는 74표를 얻어 2위를 차지하였고, '적토마'고정운FC 서울 코치(73표)는 간발의 차이로 그 뒤를 잇었다 .	O PER-B ORG-B O O O O O ORG-B ORG-I O O O O O O O
-오는 31일 개막하는 2005 동아시아축구연맹 선수권대회에 출전하는 '본 프레레호'가 24일 소집훈련에 돌입하+ㄴ다 .	O O O O O O O O O O O O O
-수비에는 김한윤(부천), 김진규(이와타), 유경렬(울산) 이 미리 주전자리를 선점하고 있으나 월드컵 예선을 통하+여수비진이 대표팀 최대 취약 포지션으로 지목되 +ㄴ만큼 신진 선수들에게도 기회가 돌아가 +ㄹ 가능성이 크다 .	O ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
-"늘 노력하는 박지성의 모습이 아름답다. .	O O PER-B O O O
-출국장에서 추최 측이 준비 하+ㄴ 사진 촬영에 나서 +ㄴ 박지성은 첫 번째 공식 사진 촬영에서 맨 뒷줄에 포함되 +어 얼굴이 제대로 보이지 않았지만 두 번째 촬영에서는 동료들이 앞줄로 내보내+어주는 '특혜(?)'를 베풀어주기도 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
-박지성을 비롯하+ㄴ 선수단은 이날 오후 3시30분 공식기자회견을 시작으로 오후 7시께부터 홍콩에서의 첫 훈련에 나서 +ㄴ다 .	PER-B O O O O O O O O O LOC-B O O O O O
-사고가 발생하+ㄴ 공립축구 경기장은 이 학교가 임대하+ 여 사용하던 곳으로 조호루 바루 지역 축구협회는 이번 사고의 원인을 조사하는 중이라고 밝히었다 .	O O LOC-B LOC-I O O O O O O O O O ORG-B O O O O O O O
-박지성, 1천여 팬 운집 속 첫 훈 .	PER-B O O O O O O O
-대회 주최 측은 23일 경기의 입장권 구매자들에게만 이날 훈련을 공개하였다 .	O O O O O O O O O O O
-박지성을 비롯하+ㄴ 맨체스터 유나이티드 선수들은 훈련을 마치고 관중석 쪽으로 가 팬들에게 일일이 사인을 하+여 +었다 .	PER-B O ORG-B ORG-I O O O O O O O O O O O O
-장대비가 내리는 가운데 열리+ㄴ이 날 경기에서 현대중은 후반 10분 마빈루소에게 통한 의결승골을 허용, 무릎을 꿇고 말았다 .	O O O O O O ORG-B O O PER-B O O O O O O O
-박지성과 마찬가지로 PSV에 인트 호벤에서 맨체스터 유나이티드로 이적 하+ㄴ 네덜란드 출신 반니스텔 루이는 새내기 박지성이 빠르게 팀에 적응하+ㄹ 수 있도록 적지 않은 도움을 주고 있다 .	PER-B O ORG-B O O ORG-B ORG-I O O LOC-B O PER-B O O PER-B O O O O O O O O O O O
-박지성의 입단 이후부터 곁에서 그를 계속 지켜보+아온 조광래 전 FC서울감독도 "박지성이 처음 1주일간은 많이 서먹서먹 하+여+였다. 하지만 지금은 선수들과 이야기도 종종 하며 분위기를 잘 익히 +어나가고 있다"며 "특히 네덜란드 친구들로부터 많은 도움을 받고 있는 것 같다"고 전하였다 .	PER-B O O O O O O PER-B O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-오는 2012년 열리+ㄹ 예정이+ㄴ 유럽 축구선수권대회(유로2012)의 유치 경쟁에 지나 +ㄴ대회(유로 2004) 우승팀 그리스 등 5개 팀이 뛰어들었다 .	O O O O O O O O O O O O ORG-B O O O O O
-한편 오는 2008년 열리는 유럽 축구선수권은 오스트리아와 스위스가 공동 개최 하+ㄴ다 .	O O O O O O ORG-B ORG-B O O O O
-바이아웃 조항에 따르면 호비뉴는 이적료의 40%를 받게 되+어 있다 .	O O O PER-B O O O O O O
-현대중은 23일(이하 한국시간) 홍콩 해피밸리 연습구장에서 열리+ㄴ푸마스(멕시코)와의 대회 5-6 위순위 결정 전에서 전, 후반을 득점 없이 비기+ㄴ 뒤 승부차기에서 4-5로 패하였다 .	ORG-B O LOC-B LOC-B LOC-B LOC-I LOC-B O O O O O O O O O O O O O O O
-박지성(24)으로서 +ㄴ기대와 아쉬움을 동시에 남기+ㄴ 데뷔전이었다 .	PER-B O O O O O O
-박지성의 맨체스터 유나이티드 공식 데뷔전은 기대와 아쉬움을 동시에 남기+ㄴ 경기+이었다 .	PER-B ORG-B ORG-I O O O O O O O O
-전반 20분에도 비슷하+ㄴ 상황에서 날리+ㄴ 슈팅이 골키퍼에 걸리+어 득점과 연결되지 못하는 안타깝ㄴ 상황이 이어지었다 .	O O O O O O O O O O O O O O O
-박지성은 전반만 뛰+ㄴ 뒤 교체되었고 맨체스터 유나이티드는 후반주 세페로시, 덩팡저우의 연속골로 홍콩 선발팀을 2-0으로 꺾었다 .	PER-B O O O O ORG-B ORG-I O O PER-B O LOC-B O O O O
-박지성은 전반 10분에도 루니-니스텔루이로 이어 지+ㄴ 삼각패스로 오른쪽 측면을 파고들었으나 문전에서 뛰쳐나 오+ㄴ 골키퍼판 천입과 부딪히면서 찬스가 무산되었다 .	PER-B O O PER-B O O O O O O O O O O O O O O O
-맨체스터 유나이티드는 스트라이커니스텔 루이가 전반 7분과 42분 결정적 이+ㄴ 노마크 찬스를 어이없이 날리+어버리+어 전반에 득점을 하지 못하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O
-박지성은 오는 26일 오후 8시30분 중국 베이징에서 열리는 베이징시엔 다이와의 아시아투어 2차전에 출격 하+여마수걸이 공격 포인트를 노리+ㄴ다 .	PER-B O O O O LOC-B ORG-B O ORG-B ORG-I ORG-I O O O O O O O
-하+ㄴ 홍콩기자가 이날 두 번째 골을 성공시키+ㄴ 중국 출신의 공격수 덩팡저우(20)와 박지성을 비교하+여달라고 부탁하자 "박지성은 경험이 많을뿐더러 덩팡저우와는 전혀 다르+ㄴ 스타일의 플레이를 펼치는 선수"+이라며 직접적 이+ㄴ 언급을 피하였다 .	O LOC-B O O O O O LOC-B O O PER-B PER-B O O PER-B O O PER-B O O O O O O O O O O O
-"오늘 경기에 만족 하+ㄴ다. 앞으로 점점 더 좋아지+ㄹ 것이다."'맨유맨'으로 공식 데뷔전을 치르+ㄴ 박지성(24.맨체스터 유나이티드)이 경기 직후 자신감과 만족감을 동시에 표출하였다 .	O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O
-알렉스 퍼거슨맨체스터 유나이티드 감독에게서도 '움직임이 환상적이었다'는 평가를 받은 박지성은 세계 최고의 무대를 향하+여'첫 단추'를 꿰고 나+ㄴ 뒤 담담하게 한 발 한발전진하겠다는 자신감을 보이어 +주었다 .	PER-B ORG-B ORG-I O O O O O PER-B O O O O O O O O O O O O O O O O
-제도적 이+ㄴ장치 없이 무리하게 K리그 팀을 늘리는 데 따르+ㄴ 부작용에 대하+ㄴ 검토와 기존 구단들에 대하+ㄴ 배려가 허술하다는 지적이다 .	O O O O ORG-B O O O O O O O O O O O O O O
-특히 연간 인원 제한 없는 무작위 용병등록의 폐해도 용병 4명 보유에 3명 출전 규정의 취지를 무색하게 하고 있다 .	O O O O O O O O O O O O O O O O O O O
+바비 킴 속한 그룹 부가 킹즈 , 2 집 발매	PER-B PER-I O O ORG-B ORG-I O O O O
+바비 킴 은 " 힙합 이 라는 장르 에 음악적 으로 한계 가 없 다는 사실 을 알리 고 싶 었 다 " 며 새 음반 에 대한 자신감 을 보 였 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 첫 방송 에 는 보 아 , 김건모 , 임정희 등 이 출연할 예정 이 다 . 또 박화요비 가 리메이크한 ' 당신 과 의 키스 를 세 어 보 아요 ' 의 원곡 을 부른 일본 가수 코야나 키 유키 도 무대 에 선다 .	O O O O O O PER-B PER-I O PER-B O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O LOC-B O PER-B PER-I PER-I O O O O O
+' 아일 비 미싱 유 ( I ' ll be missing you ) ' 를 좋아한다면 ' 에버 원더 ( Ever Wonder ) ' 도 끌리 는 트랙 이 다 . 래퍼 트 위스 타 ( Twista ) 와 함께 부른 가스펠 ' 호프 ( Hope ) ' 에서 는 품 이 넓어진 페이스 에반스 를 충분히 느낄 수 있 을 것 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O PER-B O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+13 일 한 ㆍ 일 동시 발매한 두 번째 싱글 ' Somebody To Love ' 는 발매 당일 일본 오리콘 데일리 싱글 차트 7 위 에 올 랐 다 .	DAT-B DAT-I LOC-B O LOC-B O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
+일본 서 발표한 싱글 타이틀 곡 들 인 ' Somebody To Love ' 와 ' Stay With Me Tonight ' 를 노래한다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O
+2 인 조 힙합 그룹 엠 - 플로 의 신보 는 ' Loop In My Heart ' 와 ' Hey ! ' 등 두 곡 의 타이틀 곡 을 넣 은 맥시 싱글 앨범 이 다 . ' Loop In My Heart ' 는 엠 - 플로 와 여러 차례 함께 했 던 에밀리 , 요시카와 부른 곡 으로 랩 과 멜로디 가 잘 어우러진다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O PER-B O O O O O O O O O O O O
+이날 무대 에서 마야 는 ' 못다 핀 꽃 한 송이 ' ' 뱃노래 ' 등 을 , 쥬얼리 는 ' 패션 ' ' 니 가 참 좋 아 ' 등 히트 곡 을 부를 예정 이 다 .	O O O PER-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+실 미디어 ( 대표 김주현 ) 는 14 일 " 플라이 투 더 스카이 , 유진 , 전 혜빈 등 이 소속된 음반 제작사 ㈜ 피플 크리에이티브 의 지분 30 % 를 인수 , 최대 주주 로 참여하 게 됐 다 " 고 밝 혔 다 .	ORG-B ORG-I O O PER-B O O DAT-B DAT-I O ORG-B ORG-I ORG-I ORG-I O PER-B O PER-B PER-I O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+' 미친 개구리 ' 는 스웨덴 의 세일즈맨 다니 얼 말 메달 ( Daniel Malmedahl ) 이 친구 의 오토바이 시 동거 는 소리 를 컴퓨터 로 만들 면서 시작 됐 다 . 이 소리 를 사용해 리믹스 한 곡 이 인터넷 에서 인기 를 끌 자 다니 얼 의 친구 가 이 소리 와 잘 어울리 는 개구리 를 캐릭터 로 만들 었 다 .	O O O O O LOC-B O O PER-B PER-I PER-I PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+싸이 가 렉시 1 집 타이틀 곡 ' 애송이 ' 와 25 일 발표할 2 집 타이틀 곡 ' 눈물 씻 고 화장하 고 ' 의 작사 를 맡 았 다 .	PER-B O PER-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+1980 년대 말 해체된 스웨덴 의 전설적 인 그룹 아바 . 이 들 에 대한 아쉬움 을 달래 줄 우리 시대 의 아바 ' 비욘 어게인 ( Bjorn Again ) ' 이 내한 공연 을 펼친다 .	O O O O LOC-B O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+탱고 듀오 ' 오리엔 탱고 ' 콘서트	O O O ORG-B ORG-I O O
+2003 년 KBS TV ' 한민족 리포트 ' 를 통해 이 들 의 이야기 가 소개되 면서 국내 에 도 알려지 게 됐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+탤런트 박근형 의 아들 이 가수 로 데뷔해 활동 중 이 다 .	O PER-B O O O O O O O O O O O
+첫 번째 싱글 은 3 천 장 한정 판매해 공연장 등지 에서 매진 을 기록 했 고 , 사이버 상 에서 도 다음 카페 등 에서 팬 들 의 지지 도 가 상당한 수준 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+은색 벤츠 를 타 고 MBC 라디오 ' 정선희 의 정오 의 희망곡 ' 녹음 을 위해 MBC 방송사 로 향하 던 이승철 은 뒤 에서 오 던 SM 5 가 차량 뒤쪽 을 받 아 오른쪽 팔 에 부상 을 입 은 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 타이틀 곡 ' 한걸음 더 ' 도 경쾌한 라틴 리듬 에 산타나 풍 의 기타 연주 를 바탕 으로 핸드 퍼커션 , 드럼 의 타악기 연주 가 풍성하 게 들린다 . 해변 에서 연인 들 의 설렌 감정 을 담 은 이곡 은 여름 에 잘 어울리 는 곡 . 발라드 곡 인 ' 회상 의 언덕 ' 은 세월 의 허무함 을 느끼 는 나이 에 예전 어린 시절 로 돌아가 고 싶 다는 순수한 감정 을 담 았 다 . 이 밖 에 도 ' 사랑 의 슬픔 ' , ' 다 가 기 전 에 ' 를 새롭 게 편곡해 수록 했 고 , 88 년 라이브 콘서트 실황 CD 에 는 ' 또 만났 네 ' , ' 당신 만 이 ' , ' 솜사탕 ' 등 주옥같 은 레퍼토리 가 담겨 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+싸이 는 이번 리메이크 음반 에 노래 를 담 은 CD 와 콘서트 및 뮤직 비디오 등 이 수록된 DVD 를 담 았 고 , 이 DVD 안 에 담긴 내용 의 일부 가 영등위 로부터 18 세 등급 판정 을 받 은 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+일본 의 팝 밴드 ' 라운드 테이블 ' 이 23 일 오후 9 시 서울 청담동 하드 록 카페 에서 공연 ' 파티 빅 웨이브 ' 를 갖 는다 .	LOC-B O O O O ORG-B ORG-I O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O
+지난해 우크라이나 ' 오렌지 혁명 ' 당시 빅토르 유셴코 후보 를 지지 했 던 그녀 는 자신 의 인기 를 이용해 단식 농성 까지 벌이 며 시민 들 의 시위 동참 을 호소할 만큼 우크라이나 의 대표적 인 가수 였 다 .	O LOC-B O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
+서태지 ㆍ 콘 ㆍ 드래곤 애쉬 등 영상 콘서트	PER-B O ORG-B O ORG-B ORG-I O O O
+서태지 컴퍼니 는 " 초대형 스크린 과 최고 의 사운드 장비 등 을 동원해 이 들 뮤지션 의 실제 공연 을 보 는 것 같 은 현장감 을 전달할 것 " 이라고 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 " 서울 공연 을 시작 으로 8 월 25 일 부산 , 8 월 26 일 대구 에서 콘서트 가 이어진다 .	O O LOC-B O O O O DAT-B DAT-I DAT-I DAT-I LOC-B O DAT-B DAT-I DAT-I DAT-I LOC-B O O O O O
+서태지 와 아이 들 출신 인 YG 엔터테인먼트 양현석 이사 가 18 일 이 같 은 입장 을 YG 공식 홈페이지 에 올 렸 다 .	ORG-B ORG-I ORG-I ORG-I O O ORG-B ORG-I PER-B O O DAT-B DAT-I O O O O O ORG-B O O O O O O O
+양 이사 는 " 음악 관련 종사자 들 은 YG 와 SM , JYP 에 대해 비교 를 많이 한다 .	PER-B O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O
+이영애 , ' 윤도현 … ' 서 자우림 노래 열창	PER-B O O PER-B O O O PER-B O O
+한편 이날 녹화 에 는 신혜성 , KCM , 소찬휘 , 데프콘 등 이 출연하 며 , 22 일 방송된다 .	O O O O O PER-B O PER-B O PER-B O PER-B O O O O O DAT-B DAT-I O O
+쿨 의 히트 곡 을 써 낸 김형규 , 위종수 등 의 작곡가 들 도 참여 했 다 . 가수 은지원 도 김우주 의 노래 를 들 은 후 , 수록 곡 ' 독 ' 에 피처링 을 하 겠 다며 이곡 의 랩 메이킹 까지 선사 했 다 . 선배 가수 김조한 도 첫 방송 현장 에서 만난 김우주 를 챙기 며 많 은 조언 을 했 다 . 든든한 지원군 을 등 에 업 고 발표한 데뷔 음반 ' Before You Sleep ' 은 다행히 대중 의 시선 을 끌 고 있 다 .	ORG-B O O O O O O PER-B O PER-B O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 아시아 스타 ' 비 ( 23 ) 가 일본 도쿄 부도 칸 에서 단독 공연 을 펼친다 .	O LOC-B O O PER-B O O O O LOC-B LOC-B LOC-B LOC-I O O O O O O
+SBS , 일본 에서 ' 한류 올스타 콘서트 ' 개최 예정	ORG-B O LOC-B O O O O O O O O
+▲ 아버지 효자손 에 맞 았 다 마야 의 아버지 는 막내 딸 에게 엄 했 다 . 그 는 용돈 을 쪼개 모은 통장 을 학교 에서 받 은 날 몰래 쓰 려고 가방 속 에 숨겨 놓 았 다가 아버지 효자손 에 맞 기 도 했 다 . 지금 은 아버지 의 굽 어 진 허리 와 효자손 이 닮 아 있 다고 한다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 소송 에 참여하 고 있 는 음반 제작사 들 은 19 일 " 네이버 사이트 내 블로그 에서 음원 이 불법 배포 및 공유 되 는 상황 을 차단하 고자 네이버 측 에 권리 침해 사실 을 통보하 고 삭제 를 요구 했 다 " 며 " 그러나 네이버 측 이 소극적 으로 대응 , 저작권법 위반 과 관련해 네티즌 4 천 명 을 상대 로 법적 대응 을 결정 했 다 " 고 밝 혔 다 .	O O O O O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+록 밴드 ' 오메가 3 ' 와 ' 몽구스 ' 가 23 일 오후 7 시 홍대 라이브 클럽 쌈 에서 합동 콘서트 ' 더 쓰리 썸 그루브 ! ( The Threesome Groove ! ) ' 를 연다 .	O O O ORG-B ORG-I O O O ORG-B O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O
+19 일 오전 부터 m . net 등 음악 전문 채널 을 통해 전파 를 탄 타이틀 곡 ' 내 사랑 송이 ' 뮤비 에서 강원래 는 구준엽 과 함께 소파 에 앉 아 있 다 두 발 로 벌떡 일어나 구준엽 과 하이파이브 를 한 후 역동적 으로 춤 을 추 는 장면 을 연출 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+두 다리 로 힘겹 게 일어서 려는 강원래 의 모습 에 이 장면 은 참여 스태프 의 눈시울 을 적 셨 고 아내 송이 씨 는 말 을 잇 지 못하 고 눈물 을 흘 렸 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+' 내 사랑 송이 ' 뮤 비 의 엔딩 에 는 ' 사랑한다 송이 야 ' 라는 멘트 와 함께 강원래 와 송이 씨 의 결혼 사진 이 앵글 에 담긴다 .	O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O
+인기 스타 의 일상 을 전달하 는 리얼리티 프로그램 ' 리얼 드라마 ' 는 매주 월 - 수요일 오전 9 시 30 분 에 시청자 를 찾아간다 .	O O O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O
+록 밴드 로 는 ' 와이낫 ? ' 과 메탈 밴드 ' 사일런트 아이 ' , 블루스 밴드 ' 윤병주 밴드 ' 등 이 나온다 .	O O O O O ORG-B O O O O O O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O
+' 클린 & 더티 ( Clean & Dirty ) ' 로 국내 에 도 잘 알려진 일본 밴드 ' 하버드 ( HARVARD ) ' 의 2 집 ' 오라클 ( Oracle ) ' 이 국내 에 나 왔 다 .	O O O O O O O O O O O O O O O O LOC-B O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+케이블 TV 음악 채널 Mnet 이 새로 운 BI ( Brand Identity ) 와 캐릭터 를 발표 했 다 .	O O O O O O O O O O O O O O O O O O O O
+경남 진주 MBC ( 사장 김영철 ) 가 풍성한 여름 특집 프로그램 을 마련하 고 피서객 곁 으로 다가간다 .	ORG-B ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O
+헌정 무대 중 마지막 무대 를 장식하 는 이미자 를 21 일 오후 KBS 홀 에서 만났 다 .	O O O O O O O O PER-B O DAT-B DAT-I O LOC-B LOC-I O O O O
+- - 기념 공연 을 많이 하 는데 데뷔 50 주년 기념 공연 도 계획하 고 있 나 .	O O O O O O O O O O O O O O O O O O O
+2 천 500 명 의 관객 이 참석한 이날 공연 에서 가장 큰 호응 을 얻 은 가수 는 신화 멤버 로 현재 솔로 로 도 활동 중 인 신혜성 과 이민우 . 신화 의 팬 들 이 많이 참석한 덕택 도 있 었 지만 한 그룹 의 두 가수 가 발라드 ( 신혜성 ) , 댄스 ( 이민우 ) 로 다른 색깔 의 음악 을 보 여 주 자 팬 들 은 주황색 풍선 을 흔들 며 환호 했 다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O PER-B O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+한국 문화 콘텐츠 진흥 원 이 기획한 ' 코리아 - 재팬 레인보우 콘서트 ' 는 한국 과 일본 의 음악 전문 채널 인 Mnet 과 뮤직 온 TV 가 공동 제작해 오후 7 시 부터 2 시간 동안 한일 양국 에서 동시 생방송 됐 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O TIM-B TIM-I TIM-I O O O O ORG-B O O O O O O O
+8 월 20 일 오후 7 시 연세대학교 야외 노천극장 . 3 만 3 천 - 6 만 6 천 원 .	DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I LOC-B LOC-I LOC-I O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O
+행사 에 참여하 고 싶 은 관객 은 공연 표 예매 후 다음 달 8 일 까지 신청하 면 된다 .	O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+교통방송 , 한강 콘서트 개최	ORG-B O O O O
+전주 이 씨 대동종약원 은 22 일 , 영친왕 아들 이구 ( 李玖 ) 씨 빈소 가 마련된 창덕궁 낙선재 에서 상임 이사회 ( 이사장 이환 의 ) 를 열 고 의친왕 ( 義親王 ) 이강 ( 李堈 .1877 - 1955 년 ) 의 손자 인 이원 ( 李源 .44 ) 현대홈쇼핑 부장 을 고인 의 양자 로 결정 했 다고 이날 말 했 다 .	ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O PER-B O PER-B O PER-B O O O O O LOC-B LOC-I O O O O O PER-B PER-I O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O O PER-B O PER-B O O ORG-B O O O O O O O O O O O O O O
+하지만 이런 결정 에 대해 고종 의 서자 로서 영친왕 의 이복형 이 며 순종 의 이복동생 인 의친왕 에게 는 11 번째 아들 이 되 는 가수 이석 씨 는 격렬하 게 반대하 며 빈소 현장 에서 20 여 분 간 대동종약원 측 과 마찰 을 빚 었 다 .	O O O O O PER-B O O O PER-B O O O O PER-B O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O
+솔로 3 집 을 낸 김종국 은 ' 제자리걸음 ' 과 함께 발라드 곡 ' 그녀 의 남자 에게 ' 도 14 위 에 올려놓 았 다 . 차트 진입 2 주 만 에 두 곡 모두 대단한 반응 을 얻 고 있 다 . 2 주간 1 위 를 지 켰 던 KCM 의 ' 스마일 어게인 ' 은 김종국 의 상승세 에 밀려 2 위 로 내려 왔 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O
+4 . 가슴 아 파도 ( 플라이 투더 스카이 )	O O O O O O ORG-B ORG-I ORG-I O
+16 . 광 ( SG 워너비 )	O O O O ORG-B ORG-I O
+두 번째 CD 에서 는 현악기 와 일렉트로니카 등 색다른 음색 이 눈 에 띈다 . ' 별 의 목소리 ' 2 곡 은 몽환적 이 며 ' 피아노 ' 에 는 잔뜩 가라앉 은 감성 이 깔려 있 다 . 마지막 곡 ' 빵 ' 은 이대 후문 에서 홍대 로 옮긴 클럽 ' 빵 ' 에 대한 그리움 을 담 은 곡 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O LOC-B O O O O LOC-B O O O O O O O O O
+' Love ' 와 ' Imagine ' , ' Power To People ' , ' Real Love ' 등 존 레넌 의 명곡 을 들 을 수 있 고 ' Listen The Snow Is Falling ' 등 오 노 요코 와 ' 플라스틱 오노 밴드 ' 의 곡 도 만날 수 있 다 .	O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O ORG-B ORG-I ORG-I O O O O O O O O O
+USM 대학 이 창의적 인 젊 은 기업가 들 에게 줘 온 상 을 연예인 에게 수여한 것 은 이번 이 처음 이 라고 베르나마 통신 은 전 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O
+시티 누르 할리 자는 포럼 연설 을 통해 정상 에 있 을 때 성공 에 대해 조심스러 워 하 며 다가올 시간 속 의 쇠락 을 경험하 게 된다는 점 을 깨달 았 다고 말 했 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 내년 1 월 한국 활동 계획 "	O O DAT-B DAT-I LOC-B O O O
+이날 피아노 를 연주하 며 세 번째 싱글 ' 걸 프렌드 ' 에 이 어 테이 와 함께 제임스 잉 그램 의 ' Just Once ' 를 열창한 K 는 호소력 짙 은 음색 으로 큰 박수 를 받 았 다 .	O O O O O O O O O O O O O O O PER-B O O PER-B PER-I PER-I O O O O O O O PER-B O O O O O O O O O O O O O
+- - 27 일 일본 서 세 번째 싱글 ' 걸 프렌드 ' 가 발매된다 .	O O DAT-B DAT-I LOC-B O O O O O O O O O O O
+하반기 에 도 일본 스케줄 이 연이 어 잡혀 있 어 요즘 한 달 에 한 번 씩 한국 으로 건너가 2 집 녹음 을 하 고 있 다 .	O O O LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
+다음 달 13 - 15 일 , 20 - 21 일 오후 2 시 ㆍ 4 시 서울 정동극장 에서 열리 는 이번 동요 콘서트 에서 ' 동물원 ' 멤버 들 은 이 들 의 히트 곡 과 아이 들 이 즐겨 부르 는 동요 를 직접 선곡 해 불 러 준다 . ' 아빠 힘내 세요 ! ' , 7 공주 의 ' 봄 하루 ' 등 도 들 을 수 있 다 .	O O O O O O O O O O O TIM-B TIM-I TIM-I O TIM-B TIM-I LOC-B LOC-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+장윤정 의 히트 곡 ' 어머나 ' 를 작곡한 윤명선 씨 가 프로듀서 로 참여한 이번 음반 은 국악 을 전공한 이재은 의 창법 을 살린 신세대 트로트 로 구성 됐 다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O
+가수 비 ( 23 ) 가 아시아 권 MTV 시상식 에서 그랜드 슬램 을 달성 , 아시아 의 스타 로 공인 받 았 다 .	O PER-B O O O O O O O O O O O O O O LOC-B O O O O O O O O
+한편 이날 ' CCTV - MTV 만다린 뮤직 아너스 2005 ' 에서 는 중국 서 활동 중 인 장나라 가 ' 올해 의 한국 가수 상 ' 시 상자 로 나서 눈길 을 끌 었 다 . ' 올해 의 한국 가수 상 ' 은 중국 MTV 에서 올 한 해 동안 방송된 뮤직 비디오 횟수 가 가장 많 은 아티스트 를 선정해 시상한다 . 지난 ' 올해 의 한국 가수 상 ' 은 신승훈 ( 6 회 ) , 장나라 ( 5 회 ) , jtL ( 4 회 ) 이 수상 했 다 . 이날 비 는 ' 나쁜 남자 ' , ' It ' s Raining ' 으로 시상식 의 피날레 를 장식 했 다 . 이 시상식 은 8 월 27 일 오후 5 시 MTV 코리아 에서 녹화 중계된다 .	O O O O O O O O O DAT-B O O O LOC-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I LOC-B LOC-I O O O O
+또 6 일 에 는 스키조 , 바셀린 , 예레미 , 크래쉬 등 의 한국 팀 과 데뷔 20 주년 을 맞 는 독일 팀 도메인 , 미국 팀 디어사이드 등 의 해외 팀 이 무대 에 오른다 .	O DAT-B DAT-I O O PER-B O ORG-B O ORG-B O ORG-B O O ORG-B ORG-I O O O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O
+6 인 조 남성 그룹 신화 가 서울 문화 재단 의 ' 책 읽 는 서울 ' 캠페인 포스터 모델 로 등장 , 책 읽 기 운동 에 동참한다 .	O O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O PER-B O O O O O O O O O O O
+길 건 의 ' 여왕개미 ' 도 ' 내 손짓 하나 에 닫 혔 던 마음 을 열 어 , 난 너희 들 의 이마 위 에 세례 내려 ' 라며 수컷 을 지배한다는 이미지 가 강하 게 풍긴다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한동안 잠잠 했 던 ' 네오펑크 ' 불꽃 이 ' Boulevard of Broken Dreams ' 를 앞세운 ' 그린 데이 ( Green Day ) ' 의 신보 성공 으로 다시 타오르 기 시작 했 다 .	O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O
+이 들 최고 의 앨범 이 자 네오펑크 의 수작 으로 꼽히 는 1994 년 작 ' 스매쉬 ( Smash ) ' 수록 곡 인 ' Come Out And Play ( Keep ' em Seperated ) ' 와 ' Self Esteem ' 도 들 을 수 있 다 .	O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 이미자 는 KBS 1 TV ' 가요무대 ' 기자 간담회 에서 장윤정 의 재능 을 높이 평가하 며 아끼 는 후배 로 꼽 으면서 도 , 동시 에 2 집 타이틀 곡 ' 짠짜라 ' 의 상품화 에 대한 질타 도 했 다 .	O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 집 ' 행복하 지 말 아요 ' 로 인기 를 모은 엠씨 더 맥스 는 4 집 정규 음반 발표 에 앞서 조용필 의 곡 만 모은 리메이크 음반 을 선보인다 .	O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O PER-B O O O O O O O O O
+그룹 터보 출신 인 마이키 ( 25 ) 가 2001 년 터보 해체 이후 4 년 만 에 혼성 트리오 M 3 로 복귀한다 .	O ORG-B O O PER-B O O O O DAT-B DAT-I ORG-B O O O O O O O O ORG-B ORG-I O O O
+황우석 교수 , " 강원래 일으키 고 싶 다 "	PER-B O O O PER-B O O O O O
+구준엽 의 우정 에 감탄 했 다는 황 박사 는 " 휠체어 댄스 가 어땠 냐 " 는 강원래 의 물음 에 " 예술 이 다 " 며 흐뭇하 게 웃 었 다 .	PER-B O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+11 년 만 에 돌아온 ' 닥터 레게 '	O O O O O O ORG-B ORG-I O
+그 랬 던 ' 닥터 레게 ' 가 완전히 달라진 모습 으로 11 년 만 에 2 집 앨범 을 들 고 돌아 왔 다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+" 11 년 전 에 는 음악 을 통해 뭔가 를 이루 려고 했 지만 지금 은 그렇 지 않 습니다 .	O O O O O O O O O O O O O O O O O O O O O O
+김장윤 은 이 들 모두 신앙 공동체 사람 들 이 라며 칭찬 을 아끼 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O O
+영화 ' 내 사랑 싸가지 ' , 드라마 ' 어여쁜 당신 ' , ' 슬픈연 가 ' , ' 건빵 선생 과 별 사탕 ' O . S . T 에 참여한 경력 답 게 마이클 볼튼 과 임재범 의 굵 은 음색 에 부드러움 을 갖춘 음색 은 보컬 로서 의 장점 도 지 녔 다 . 라디오 프로그램 에서 기타 를 치 며 김종서 , 바비 킴 , 김현식 , 전인권 , 박효신 의 음색 으로 노래하 는 개인기 로 가창력 을 자랑 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B PER-I O PER-B O PER-B O PER-B O O O O O O O O O O O O O
+서태지 가 지난해 ETPFEST 이후 11 개월 만 에 영상 으로 모습 을 드러낸다 .	PER-B O O O O O O O O O O O O O O
+여성 4 인 조 그룹 쥬얼리 가 대한축구협회 홍보 대사 로 위촉된다 .	O O O O O ORG-B O ORG-B O O O O O
+원 타임 , YG 패밀리 공연 서 2 년 만 에 5 집 컴백	ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O
+이 밖 에 도 렉시 와 지누션 , 빅마마 , 마스터 우 를 비롯해 올해 상반기 YG 언더그라운드 에서 첫선 을 보인 45 RPM , 스토니 스컹크 , 소울 스타 등 총 12 팀 이 참여해 콘서트 는 화려한 축제 로 꾸며 질 예정 이 다 .	O O O O PER-B O ORG-B O ORG-B O PER-B PER-I O O O O ORG-B ORG-I O O O O PER-B PER-I O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+댄스 리메이크 VOL .1 으로 , 음반 제작자 인 남편 김현기 씨 가 직접 프로듀서 를 맡 아 조혜련 에겐 더없이 의미 있 는 음반 이 다 .	O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O
+이 밖 에 도 음반 첫 번째 트랙 에 수록된 히트 곡 ' 아나 까 나 ' 는 둘리스 의 ' 원티드 ( Wanted ) ' , 놀란스 의 ' 섹시 뮤직 ( Sexy Music ) ' , 도나 서머 의 ' 핫 스터프 ( Hot Stuff ) ' 등 우리 에게 친숙한 팝송 세곡 을 모 아 만든 곡 으로 조혜련 이 직접 가사 를 붙 였 다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+배우 겸 가수 엄정화 가 자신 의 히트 곡 중 댄스 와 발라드 곡 을 모은 베스트 음반 을 발매한다 .	O O O PER-B O O O O O O O O O O O O O O O O O
+한편 8 월 18 일 생일 을 맞 는 엄정화 는 8 월 14 일 서울 명동 펑키 하우스 에서 팬 클럽 ' 템프테이션 ' 이 마련한 생일 파티 겸 팬 미팅 을 갖 는다 . 공식 팬 미팅 은 2 년 만 으로 일본 및 중국 팬 클럽 회원 들 도 참석한다 .	O DAT-B DAT-I DAT-I DAT-I O O O O PER-B O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-B LOC-B LOC-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O
+' Trouble ' 은 퍼커션 연주 가 인상적 인 곡 으로 사랑 을 속삭이 는 듯한 펠더 의 목소리 가 매력적 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+감성적 인 연주 로 국내 에 도 많 은 팬 을 확보하 고 있 는 EJT 는 이 앨범 에서 도 역시 이 들 만 의 낭만적 인 편곡 으로 비틀스 를 다시 연주 했 다 . 편안한 재즈 피아노 가 비틀스 의 로큰롤 기타 자리 를 채 워 주 고 있 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O
+애니메이션 채널 투니버스 는 버즈 와 박혜경 , 러브 홀릭 등 이 참여한 애니메이션 주제곡 앨번 ' WE 3 ' 를 출시 했 다고 28 일 밝 혔 다 .	O O O O ORG-B O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+30 일 첫 방송하 는 ' 해변 으로 가요 ' 의 O . S . T 에 는 신혜성 과 이민우 가 함께 부른 테마 곡 ' Ocean Blue ' 를 삽입한다 . 또 일본 최고 인기 그룹 스마프 ( SMAP ) 의 정규 음반 수록 곡 으로 초 난강 과 신혜성 이 함께 부르 고 이민우 가 작사 에 참여한 노래 ' 하늘 ' 의 한국어 버전 도 러브 테마 곡 으로 수록된다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O LOC-B O O O ORG-B O O O O O O O O O PER-B PER-I O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O
+영국 출신 의 여 가수 젬 ( JEM ) 의 노래 가 다니엘 헤니 가 출연하 는 두 편 의 광고 에 연달 아 배경 음악 으로 쓰인다 .	LOC-B O O O O PER-B O PER-B O O O O PER-B PER-I O O O O O O O O O O O O O O O
+민요 ` 울산 아가씨 ' 북한 서도 불린다	O O O O O LOC-B O O
+정 시인 에 따르 면 북한 은 일제 시대 를 지난 98 년 부터 ` 민족 수난 기 ' 로 규정하 고 당시 발표 됐 던 가요 , 민요 , 동요 등 의 노래 를 자본주의 와 봉건 주의 이념 에 상관없이 복원하 는 사업 을 추진 했 다 .	PER-B O O O O LOC-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+음악 인 남궁연 이 실력 있 는 신인 가수 발굴 에 나선다 .	O O PER-B O O O O O O O O O O
+가수 테이 가 각막 기증 홍보 대사 로 위촉 됐 다 .	O PER-B O O O O O O O O O O
+PD 연합회 " 방송 사고 이용한 검열 강화 경계 "	ORG-B ORG-I O O O O O O O O
+비 , 아시아 대표 로 미 MTV 시상식 참석	PER-B O LOC-B O O O O O O
+다음 달 28 일 마이애미 에서 열리 는 VMA 는 매년 최고 의 뮤직 비디오 를 선정하 는 시상식 으로 2003 년 에 는 마돈나 와 브리트니 스피어스 가 VMA 공연 도중 키스 를 해 화제 를 뿌리 기 도 했 다 .	O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O DAT-B DAT-I O O PER-B O PER-B PER-I O O O O O O O O O O O O O O O
+AFP 통신 도 31 일 ' 한국 경찰 이 인기 음악 TV 프로그램 에서 성기 를 노출한 두 남성 댄서 를 입건 했 다 ' 고 연합뉴스 기사 를 인용해 보도 했 다 .	O O O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+경찰 은 또 1 일 오전 신 씨 등 2 명 과 그룹 럭스 의 리더 원모 ( 25 ) 씨 에 대해 국립 과학 수사 연구소 에 정밀 마약 검사 를 의뢰 했 다 .	O O O DAT-B DAT-I O PER-B O O O O O O PER-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O
+2003 년 3 월 문화 관광부 로부터 저작 인접 권 신탁 관리 단체 로 지정된 음 제 협 은 불법 음악 사이트 에 대한 법적 인 대응 을 주도해 왔 다 .	DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+이어 " 반면 에 음 제 협 의 음원 대부분 은 과거 의 것 으로 현재 시장 점유율 1 % 가 채 안되 며 한 이동 통신사 의 음악 사이트 분석 결과 매출 상위 100 개 음반 중 단 1 개 만 이 음 제 협 의 음원 이 었 다 " 고 주장한 뒤 " 음 제 협 은 자신 들 이 신탁 관리하 는 음원 제작자 가 소리 바다 로 인해 피해 를 보 고 있 다고 말하 면서 도 소리 바다 지분 을 주 면 소송 취하 는 물론 저작권 , 실연 권 단체 와 의 원만한 계약 을 성사 시켜 주 겠 다고 하 니 그 의도 가 궁금하 다 " 고 덧붙 였 다 .	O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방송 위원회 는 ' 알몸 노출 ' 방송 사고 를 낸 MBC ' 음악 캠프 ' 와 시어머니 의 뺨 을 때리 는 장면 을 연출한 KBS 시트콤 ' 올드미스 다이어리 ' 에 대한 제재 절차 에 착수 했 다고 1 일 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O DAT-B DAT-I O O O O
+방송 위 의 김양하 공보 실장 도 연예 오락 심의 위원회 회의 가 끝난 뒤 기자 들 과 의 일문일답 을 통해 " 유사한 사건 의 재발 방지 를 위해 외국 처럼 5 초 나 7 초 정도 늦 게 내보내 는 딜레이 방송 의 도입 에 대해서 도 논의 중 이 며 방송법 개정 문제 도 검토 중 " 이라고 설명 했 다 .	ORG-B ORG-I O PER-B O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+MC 몽은 안타까움 과 허탈한 마음 도 밝 혔 다 .	PER-B O O O O O O O O O O
+방송 출연 전 한 인터넷 카페 의 회원 들 에게 보낸 메일 로 알려진 이 글 에서 원종희 는 " 내일 모레 오후 4 시 에 MBC ' 음악 캠프 ' 라는 곳 에 럭스 가 출연하 기 로 했 다 " 면서 " 몇 주 전 부터 프로그램 담당자 에게 연락 이 와서 직접 연주하 는 방식 이 아닌 MR 재생 방식 의 가짜 라이브 생방송 출연 을 제의하 시 기에 상현 이 형 과 같이 꽤 오랫동안 생각 을 해 봤 는데 … 나 와 달 라는데 굳이 피할 건 없 다는 생각 이 다 " 라고 적 었 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O TIM-B TIM-I TIM-I O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+60 여 개 음반 기획 사 및 제작사 가 불법 음원 을 배포 , 공유한 네티즌 2 천 707 명 및 이 를 방치한 NHN 주식회사 를 상대 로 1 일 서울중앙지검 에 고소장 을 접수 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O DAT-B DAT-I ORG-B O O O O O O O
+e - 스포츠 로 일컬 어 지 는 게임 과 록 음악 이 함께 어우러져 ` 폭염 의 도시 ' 대구 의 8 월 하순 을 뜨겁 게 달굴 전망 이 다 .	O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O LOC-B O DAT-B DAT-I O O O O O O O O O
+주최 측 은 대부분 의 게임 들 이 배경 음악 으로 록 음악 을 삽입한다는 점 을 감안 , 이틀 동안 야외무대 의 경기 중간 에 ` 대구 락 밴드 연대 ' 소속 밴드 들 의 공연 을 넣 어 대회 분위기 를 고조 시킬 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+` 성기 노출 ' 사건 을 수사 중 인 서울 영등포 경찰서 는 2 일 인디 밴드 카우치 멤버 들 이 범행 을 사전 에 모의 했 다는 정황 을 포착 , 관련자 들 을 상대 로 진위 를 집중 조사 중 이 다 .	O O O O O O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1994 년 데뷔한 3 인 조 혼성 그룹 쿨 ( 김성수 , 이재훈 , 유리 ) 이 2 일 오후 4 시 서울 리베라호텔 에서 해체 를 발표하 는 공식 기자 회견 을 갖 는다 .	DAT-B DAT-I O O O O O O ORG-B O PER-B O PER-B O PER-B O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-I O O O O O O O O O O O O
+" 13 년 만 에 여덟 번째 앨범 을 들 고 돌아 왔 습니다 . 중 고 신인 이 죠 . 제 가 다시 활동 을 시작 했 다는 것 , 재기 를 시작 했 다는 것 만 알아주 셨 으면 좋 겠 어요 . "	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 의 3 인 조 록 밴드 ' 마마 기타 ( Mama Guitar ) ' 가 국내 에서 모두 7 곡 이 수록된 미니 앨범 ' 휴일 ( 休日 ) ' 을 내놓 았 다 .	LOC-B O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+가수 조용필 이 23 일 오후 6 시 평양시 유경 정주영 체육관 에서 단독 콘서트 를 마련한다 . 남한 가수 의 북한 단독 콘서트 는 2002 년 9 월 27 일 평양 의 동평양 대 극장 에서 열 렸 던 이미자 의 콘서트 이후 두 번째 다 .	O PER-B O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-B LOC-B LOC-I O O O O O O LOC-B O O LOC-B O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I LOC-B O LOC-B LOC-I LOC-I O O O O PER-B O O O O O O O
+몸 에 착 달라붙 는 노란색 옷 에 흰색 하이힐 을 신 은 줄리엣 루이스 가 긴 금발 머리카락 과 카리스마 로 350 여 명 의 관객 을 휘어잡 았 다 .	O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+그 의 허스키한 낮 은 목소리 는 공연장 을 가득 채 워 갔 고 관객 들 도 서서히 줄리엣 루이스 의 눈빛 과 표정 , 음악 에 빠져 들 었 다 .	O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O
+최근 연합뉴스 와 의 인터뷰 에서 " 펑크록 은 나 와 는 아주 잘 어울리 는 음악 이 고 그걸 부인 할 수 있 는 사람 은 많 지 않 을 것 " 이라고 했 던 그 가 펑크록 밴드 보컬 로서 충분한 자질 을 갖 췄 다는 점 도 확인할 수 있 었 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신해철 " 생방송 음악 프로그램 폐지하 자 "	PER-B O O O O O O O
+프랑스 의 보컬리스트 클레망 틴 이 프랑스 명곡 을 다시 불 러 수록한 새 앨범 ' 메이드 인 프랑스 ' 가 국내 에 발매 됐 다 .	LOC-B O O PER-B PER-I O LOC-B O O O O O O O O O O O O O O O O O O O O
+앨범 프로듀서 를 맡 기 도 했 던 벤 시드 란 ( Ben Sidran ) 과 의 듀엣 곡 ' 파리스 워크 ( Paris Walk ) ' 도 만날 수 있 다 . 클레망 틴 의 앨범 여러 장 을 이 베스트 앨범 한 장 으로 만나 보 는 것 은 어떨까 .	O O O O O O O O PER-B PER-I PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+앞서 경찰 은 " 함께 공연 했 던 출연자 와 동료 3 명 이 경찰 에서 카우치 멤버 들 이 공연 3 일 전 ` 우리 가 생방송 에서 옷 을 벗 고 한 번 난장판 을 만들 겠 다 ' 는 말 을 했 다 " 고 밝 혔 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 일 일본 에서 발매한 신승훈 의 정규 1 집 음반 ' 미소 속 에 비친 그대 ' 가 발매 당일 오리콘 데일리 음반 차트 15 위 에 올 랐 다 .	DAT-B DAT-I LOC-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+신승훈 은 오리콘 과 의 인터뷰 에서 " 어떤 곡 을 넣 을까 2 개월 정도 고민 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+또 현철 과 최진희 , 금방울 자매 , 김수희 , 김상배 , 조항조 등 인기 가수 들 이 대거 출연해 축하 공연 을 펼치 고 , 사회 는 이상벽이 맡 을 계획 이 다 .	O PER-B PER-I PER-B O ORG-B ORG-I O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+경찰 은 카우치 멤버 신 모 ( 27 ) 씨 등 2 명 이 " 공연 전 에 사전 에 공모한 것 은 사실 " 이라고 시인한 뒤 " 그냥 재미 삼 아 장난삼 아 옷 을 벗 었 고 우리 의 음악 을 일반 대중 들 에게 알리 기 위해서 였 다 " 고 말 했 다고 밝 혔 다 .	O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 은 또 " 청소년 에 악영향 을 끼치 는 유사 행위 예방 에 주력하 겠 다 " 면서 " 홍대 주변 등 불건전하 고 퇴폐적 인 공연 장 및 업소 에 대해서 도 수사 를 확대하 겠 다 " 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+도메인 은 1986 년 기타리스트 악셀 리트 ( Axel Ritt ) 와 베르니 콜베 ( Bernie Colbe ) 등 을 중심 으로 결성 됐 다 . 이후 1992 년 밴드 는 휴지기 에 들어갔 고 지난 2001 년 재 결성 과 함께 새로 운 앨범 을 내놓 았 다 .	ORG-B O DAT-B DAT-I O PER-B PER-I O PER-B PER-I O O PER-B PER-I O PER-B PER-I O O O O O O O O O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+가수 전인권 이 건강 악화 로 5 일 로 예정된 ' 2005 서울 뮤직 페스티벌 ' 에 불참한다 .	O PER-B O O O O DAT-B DAT-I O O O DAT-B O O O O O O O
+` 성기 노출 ' 사건 을 일으킨 인디 밴드 카우치 의 멤버 신 모 ( 27 ) 씨 와 오 모 ( 20 ) 씨 가 5 일 오전 서울 남부 지방 법원 에서 영장 실질 심사 를 받 았 다 .	O O O O O O O O O ORG-B O O PER-B O O O O O O PER-B O O O O O O DAT-B DAT-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O
+11 개월 만 에 영상 으로 모습 을 드러낸 서태지 는 " 뭔가 에 미친다는 것 자체 가 행복 " 이 라며 " 창조적 인 마니아 들 이 세계 문화 를 제패할 수 있 기 를 바란다 " 고 축사 를 전 했 다 . 또 " 더 밝 은 미친 세상 을 꿈꾼다 " 고 덧붙 였 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+라이브 클럽 페스트 , 럭스 ㆍ 스컹크 헬 공연 취소	O O O O PER-B O LOC-B LOC-I O O
+경기도 동두천시 는 ` 제 7 회 동두천 록 페스티벌 ' 을 오 는 20 일 부터 이틀 간 종합 운동장 보조 경기장 특설 무대 에서 개최한다고 6 일 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O DAT-B DAT-I O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O DAT-B DAT-I O O O O
+god , 윤도현 밴드 , 성시경 , 김종국 등 인기 가수 들 이 총출동하 는 한여름 밤 의 콘서트 가 8 일 전북 무주 덕유산 에서 열린다 .	ORG-B O ORG-B ORG-I O PER-B O PER-B O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-B LOC-B O O O
+재즈 뮤지션 팻 메스니 ( Pat Metheny ) 의 1986 년 작 ' 송 엑스 ( SONG X ) ' 앨범 이 발매 20 주년 을 기념해 본래 모습 을 되찾 아 발매된다 .	O O PER-B PER-I O PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+경매 는 방송 직후 부터 13 일 까지 홈페이지 ( tv . sbs . co . kr / tvstore ) 에서 진행된다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+KCM 은 ' 스마일 어게인 ' 으로 김종국 과 나란히 3 주 째 2 위 를 , ' 너 에게 전하 는 아홉 가지 바램 ' 으로 지난주 에 이 어 10 위 를 지 켰 다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 . 이 여름 서머 ( 쿨 )	O O O O O O ORG-B O
+9 . 그녀 의 남자 에게 ( 김종국 )	O O O O O O O PER-B O
+15 . 패션 ( 쥬얼리 )	O O O O ORG-B O
+대표적 인 출연진 은 영화감독 박찬욱 과 강우석 , 배우 문소리 등 이 다 .	O O O O O PER-B O PER-B O O PER-B O O O O
+' 헬 … ' 을 이 을 이번 DVD 에 는 세계 순회공연 ' 페어 월 1 투어 ' 중 지난해 호주 멜버른 에서 가진 공연 이 담겨 있 다 . ' The Long Run ' 으로 시작해 2 시간 30 분 동안 30 곡 을 들려준다 . ' Take It Easy ' , ' New Kid In Town ' 부터 ' Hotel California ' , 마지막 곡 ' Desperado ' 까지 주옥같 은 히트 곡 이 이어진다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+탕 사장 은 최근 CNN 프리랜서 기자 와 의 인터뷰 에서 홍콩 경제 를 책임진 자신 의 업무 와 인생관 , 가정사 등 을 솔직히 털어놓 으며 클래식 을 좋아하 는 자신 과 한국 음악 을 즐겨 듣 는 딸 과 의 ` 불협화음 ' 을 소개 했 다고 홍콩 문회보 ( 文匯報 ) 가 6 일 보도 했 다 .	PER-B O O O ORG-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+섬유 재벌 출신 의 탕 사장 은 지난 2003 년 4 월 재정 사장 에 임명된 후 홍콩 경제 회복 을 성공적 으로 이끌 어 왔 다는 평 을 들 었 으며 일가 가 장쩌민 ( 江澤民 ) 전 주석 등 중국 지도부 와 절친한 관계 여서 유력한 행정 장관 후보 로 거론되 고 있 다 .	O O O O PER-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O LOC-B O O O O O O O O O O O O O O O O PER-B O PER-B O O O O ORG-B O O O O O O O O O O O O O O O
+한편 4 조 의 앙골라 와 나이지리아 는 1 - 1 로 승부 를 가리 지 못한 채 나란히 4 승 3 무 1 패 , 승점 15 로 조 1 , 2 위 를 지 켰 다 .	O ORG-B ORG-I O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+반면 A 조 의 일본 은 단 1 승 도 거두 지 못하 고도 ( 2 무 1 패 .	O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O
+이후 모로코 와 칠레 를 각각 1 - 0 으로 꺾 었 다 .	O ORG-B O ORG-B O O O O O O O O O O
+공교롭 게 도 이 대회 에선 D 조 에 속 했 던 일본 이 브라질 , 나이지리아 와 함께 2 승 1 패 , 승점 6 으로 어깨 를 나란히 했 지만	O O O O O O ORG-B ORG-I O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O
+AGB 닐슨미디어리서치 의 집계 에 따르 면 SBS TV 로 중계된 한국 과 브라질 의 경기 는 42.2 % 의 가구 시청률 을 나타냈 다 .	ORG-B ORG-I O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O
+스페인 현지 언론 에 따르 면 플로렌티노 페레스 레알 마드리드 회장 은 호비뉴 의 영입 조건 으로 1 천 800 만 유로 를 지불할 의사 가 있 다고 19 일 ( 이하 한국 시간 ) 밝 혔 다 .	LOC-B O O O O O PER-B PER-I PER-I PER-I O O PER-B O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O DAT-B DAT-I O O LOC-B O O O O O O
+김호 감독 , 40 대 제자 들 에게 ' 뻥 축구 ' 하 지 마	PER-B O O O O O O O O O O O O O O
+김 감독 은 " ( 체력 을 비축하 기 위해 ) 가급적 뛰 지 말 며 짧 은 패스 를 빠르 게 계속해 전진하 라 " 며 " 많이 달릴 수 있 는 친구 들 이 몇 이나 있 겠 나 " 고	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+체형 에 세월 의 무게 가 역력하 게 나타난 제자 들 의 체력 을 걱정하 던 김 감독 은 경기 전 스태프 를 통해 모리 감독 에게 선수 교체 를 수시로 할 수 있 고 교체 됐 던 선수 도 다시 뛸 수 있 도록 제안하 기 도 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+' 레알 ' 수원 삼성 이 기적 같 은 역전승 으로 길 고 긴 무 승 터널 을 빠져나 왔 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+전반 10 분 박동혁 의 페널티 킥 골 과 23 분 정종관 의 헤딩 골 로 전반 을 0 - 2 로 뒤진 채 마친 수원 은 후반 ' 이적 생 ( 울산 출신 ) ' 전재운 을 키커 로 투입해 반전 을 노 렸 다 .	O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O ORG-B O O O PER-B PER-I O LOC-B O O O PER-B O O O O O O O O O O
+부산 아이파크 는 뽀뽀 의 정교한 크로스 와 패스 를 ' 흑 상어 ' 박성배 와 루 시아노 가 머리 와 오른발 로 연결해 성남 일화 를 2 - 0 으로 꺾 고 4 승 2 무 ( 승점 14 ) 를 기록 , 7 경기 무패 의 선두 인천 유나이티드 ( 승점 17 ) 에 이 어 2 위 로 올라섰 다 .	ORG-B ORG-I O PER-B O O O O O O O PER-B PER-I O PER-B O PER-B PER-I O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+멕시코 , 브라질 격파 . . 일본 도 그리스 제압	ORG-B O ORG-B O O O ORG-B O ORG-B O
+일본 은 후반 31 분 ' 조커 ' 오구 로 마사시 의 결승 골 로 유로 2004 우승 팀 그리스 를 1 - 0 으로 꺾 고 첫 승 을 올 렸 다 .	ORG-B O O O O O PER-B O PER-B PER-I PER-I O O O O O DAT-B O O ORG-B O O O O O O O O O O O O O O
+독일 은 전반 21 분 인 카 그 링스 의 선제골 에 이 어 3 분 뒤 레나토 링 고르 의 추가 골 로 승기 를 잡 았 다 .	ORG-B O O O O PER-B PER-I PER-I PER-I O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O
+최 전 감독 은 " 많 은 스승 이 계시 지만 선생님 하 고 는 지금껏 끈끈한 사제 관계 를 유지 했 다 " 며 " 내게 기쁘 거나 좋 은 일 이 생기 면 조용히 계 셨 던 반면 역경 과 고난 에 처 했 을 때 는 위로해 주 셨 다 . 너무 슬프 고 너무 죄스럽 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 12 월 포항 의 지휘봉 을 놓 을 때 도 김 교육감 에게 심정 을 토로 했 다는 최 전 감독 은 " 운동하 느라 수업 을 빼먹 으면 나중 에 따로 가르쳐 줄 만큼 인자하 신 참 스승 이 었 다 " 고 회고 했 다 .	O DAT-B DAT-I ORG-B O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수원 구단 에 따르 면 김남일 은 지난 15 일 팀 닥터 와 함께 일본 을 방문해 기초 검진 을 받 은 뒤 수술 일정 을 잡 았 지만 독일 에서 먼저 진료 를 받 아 보 는 게 좋 겠 다는 차 감독 의 의견 에 따 라 일정 을 바 꿨 다 .	ORG-B ORG-I O O O PER-B O O DAT-B DAT-I O O O O LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+축구 협회 는 조영철 ( 16 . 울산 학성고 ) 과 설재문 ( 15 . 용인 태성고 ) , 조범석 ( 15 . 신갈고 ) 등 유망주 3 명 을 오 는 8 월 부터 내년 6 월 까지 10 개월 간 프랑스 1 부 리그 FC 메스 의 18 세 이하 팀 에 유학 보낸다고 20 일 밝 혔 다 . 8 월 3 일 출국할 예정 .	ORG-B ORG-I O PER-B O O O ORG-B ORG-I O O PER-B O O O ORG-B ORG-I O O PER-B O O O ORG-B O O O O O O O O DAT-B DAT-I O O DAT-B DAT-I O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O DAT-B DAT-I O O O O DAT-B DAT-I DAT-I DAT-I O O O
+국제축구연맹 ( FIFA ) 은 지난 2 월 웨일스 에서 열린 국제 축구 평의회 정기 회의 때 확정된 새로 운 경기 규칙 들 을 오 는 7 월 1 일 부터 시행 키 로 하 고 , 현재 세계 청소년 대회 에서 시범 적용 중 이 다 .	ORG-B O ORG-B O O O DAT-B DAT-I LOC-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O
+안정환 ( 29 ) 이 결국 일본 프로 축구 ( J 리그 ) 요코하마 F . 마리노스 를 떠난다 .	PER-B O O O O O LOC-B O O O ORG-B ORG-I O ORG-B ORG-I ORG-I ORG-I O O O
+한 . 일 월드컵 이 끝나 고 2002 년 9 월 시미즈 S - 펄스 에 입단하 며 일본 무대 를 밟 은 안정환 은 지난해 요코하마 로 이적 했 고 , 올 시즌 9 경기 에서 4 골 을 기록하 는 등 모두 72 경기 를 뛰 며 30 골 을 기록 했 다 .	O O O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I ORG-I ORG-I O O O LOC-B O O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+마르세유 에서 지난 2000 년 아스날 로 이적한 피레스 는 236 경기 에 출전 , 73 골 을 기록하 는 등 아스날 의 전성기 를 일궈 낸 주인공 .	ORG-B O O DAT-B DAT-I ORG-B O O PER-B O O O O O O O O O O O O ORG-B O O O O O O O
+컵 대회 를 포함해 8 경기 무패 행진 을 이 어 가 고 있 는 1 위 인천 ( 5 승 2 무 ) 은 부천 을 제물 로 선두 굳히 기 에 나서 겠 다는 복안 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O
+장외룡 인천 감독 은 " 집중력 을 잃 어서 는 안된다 " 며 전화 도 받 지 않 고 오로지 전략 구상 에 만 몰두하 고 있 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+◆ 22 일 프로 축구 일정 대전 - 울산 ( 19 시 . 대전 월드컵 ) 부천 - 인천 ( 19 시 . 부천 종합 ) 대구 - 전북 ( 19 시 30 분 . 대구 월드컵 ) 수원 - 성남 ( 19 시 . 수원 월드컵 . SBS SPORTS 22 시 녹화 ) 부산 - 포항 ( 19 시 . 부산 아시아드 . PSB 부산방송 생 중계 ) 광주 - 전남 ( 18 시 . 광주 월드컵 )	O DAT-B DAT-I O O O O O O O TIM-B TIM-I O LOC-B LOC-I O O O O O TIM-B TIM-I O LOC-B LOC-I O O O O O TIM-B TIM-I TIM-I TIM-I O LOC-B LOC-I O O O O O TIM-B TIM-I O O O O O O TIM-B TIM-I O O O O O O TIM-B TIM-I O LOC-B LOC-I O O O O O O O O O O TIM-B TIM-I O LOC-B LOC-I O
+지난해 10 월 대한축구협회 의 기탁금 1 억 원 과 송영식 대한 축구 협회 부회장 이 기부한 3 천만 원 을 ' 종자돈 ' 으로 시작한 유소년 축구 재단 은 오 는 8 월 유망주 3 명 을 프랑스 1 부 리그 FC 메스 18 세 이하 팀 에 유학 을 보내 기 로 하 는 등 활발한 활동 을 벌이 고 있 다 .	O DAT-B DAT-I ORG-B O O MNY-B MNY-I MNY-I O PER-B ORG-B ORG-I ORG-I O O O MNY-B MNY-I MNY-I O O O O O O ORG-B ORG-I ORG-I O O O DAT-B DAT-I O O O O LOC-B ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+특히 울산 과 국민은행 은 4 조 에 편성돼 한 장 의 4 강 진출 티켓 을 놓 고 치열한 대결 을 벌일 것 으로 보인다 .	O ORG-B O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+초등학교 전국 축구 대회 는 경주시 와 한국초등학교 축구 연맹 , ㈜ 대교 가 공동 주최한다 .	O O O O O ORG-B O ORG-B ORG-I ORG-I O ORG-B ORG-I O O O O
+브라질 . 독일 8 강 격돌	ORG-B O ORG-B O O O
+3 연승 을 거두 며 B 조 1 위 로 16 강 에 오른 중국 의 돌풍 은 독일 이 막 아 냈 다 .	O O O O O ORG-B ORG-I O O O O O O O ORG-B O O O ORG-B O O O O O O
+인터 밀란 의 기술 감독 인 마르크 브란카 는 " 베론 을 잡 는 것 은 우리 의 1 차 목표 였 다 . 베론 이 계속 우리 와 함께 하 길 원한다 " 며 만족감 을 나타냈 다 .	ORG-B ORG-I O O O O PER-B PER-I O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+이 로써 25 일 각각 이탈리아 와 독일 을 꺾 고 4 강 에 먼저 오른 모로코 와 브라질 과 함께 이날 나이지리아 와 아르헨티나 가 4 강 에 오르 면서 올해 세계 청소년 축구 는 ' 유럽 세 의 참패 ' 와 함께 아프리카 축구 와 남미 축구 의 자존심 대결 로 귀결짓 게 됐 다 .	O O DAT-B DAT-I O ORG-B O ORG-B O O O O O O O O ORG-B O ORG-B O O O ORG-B O ORG-B O O O O O O O O O O O O LOC-B O O O O O O LOC-B O O LOC-B O O O O O O O O O O
+네덜란드 의 선축 으로 시작된 승부차기 는 초반 양 팀 의 3 명 의 키커 가 모두 골 을 성공 시켜 평행선 을 그 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+◆ 26 일 전적	O DAT-B DAT-I O
+' 삼바 군단 ' 브라질 이 두 골 을 몰아친 아드리아누 ( 23 . 인터 밀란 ) 의 맹활약 을 앞세 워 독일 을 꺾 고 2005 컨페더레이션스 컵 축구 대회 결승 에 올 랐 다 .	O ORG-B ORG-I O ORG-B O O O O O PER-B O O O ORG-B ORG-I O O O O O O ORG-B O O O DAT-B O O O O O O O O O O
+브라질 이 세 번째 이 자 마지막 리드 를 잡 은 건 치열한 접전 이 이어지 던 후반 31 분 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+△ 2005 컨페더레이션스 컵 준결승	O DAT-B O O O
+한국 은 북한 ( 7 위 ) , 중국 ( 8 위 ) , 일본 ( 11 위 . 1 천 909 점 ) , 대만 ( 23 위 . 1 천 741 점 ) 에 이 어 26 위 ( 1 천 725 점 ) 를 차지해 아시아 권 에서 5 위 권 으로 밀 렸 다 .	ORG-B O ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+잉글랜드 의 축구 스타 ' 원도 보이 ' 마이클 오언 ( 25 . 레알 마드리드 ) 이 고교 동창생 과 의 오랜 연예 끝 에 마침내 결혼 에 골인 했 다 .	LOC-B O O O O PER-B PER-I O PER-B PER-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+소속 팀 을 독일 프로 축구 1 부 리그 로 올려놓 은 ' 아우토반 ' 차두리 ( 25 . 프랑크푸르트 ) 가 2005 ∼ 2006 시즌 준비 를 위해 독일 로 떠났 다 .	O O O LOC-B O O ORG-B ORG-I ORG-I O O O O PER-B O PER-B O O O ORG-B O O O O O O O O O LOC-B O O O O
+프로 축구 성남 , 경기 취소 번복 해프닝	O O ORG-B O O O O O
+하지만 성남 으로선 무작정 경기 를 미룰 수 도 없 는 노릇 이 었 다 . K 리그 는 다음 달 10 일 전기 리그 마지막 경기 까지 3 ∼ 4 일 간격 으로 빠듯하 게 이어진다 .	O ORG-B O O O O O O O O O O O O O O ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+영국 런던 에서 발행되 는 석간신문 이브닝 스탠더드 가 맨체스터 유나이티드 와 입단 계약 을 체결한 박지성 에 대해 " 끊임없이 연습 을 하 는 성실 그 자체 " 라고 격찬하 면서 영국 의 축구 선수 들 에게 " 박지성 을 본받 아라 " 라고 충고 했 다 .	LOC-B LOC-B O O O O O O O ORG-B ORG-I O O O O O PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O PER-B O O O O O O O O O
+FIFA , 월드컵 출전 선수 에 ' 건강 증명서 ' 제출 의무화	ORG-B O O O O O O O O O O O
+박지성 , 힘든 ' 주전 경쟁 ' 예고	PER-B O O O O O O O
+지난 1999 년 8 월 맨체스터 유나이티드 에 둥지 를 튼 포춘 은 입단 초기 라이언 긱스 와 경쟁하 며 맹활약 을 펼 쳤 지만 최근 눈 에 띄 는 활약 을 펼치 지 못하 고 있 다 .	O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O O O O PER-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+그 는 이어 " 맨체스터 유나이티드 로 이적한 브라질 의 클레베르손 이 박지성 에게 는 좋 은 본보기 가 될 것 " 이 라며 " 박지성 은 에인트호벤 에서 좀 더 머물 렀 어야 했 다 " 고 덧붙 엿 다 .	O O O O ORG-B ORG-I O O ORG-B O PER-B O PER-B O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O
+' 터프가이 ' 김남일 ( 28 . 수원 ) 이 골절 된 새끼발가락 수술 을 위해 독일 로 출국 했 다 .	O O O PER-B O O O ORG-B O O O O O O O O LOC-B O O O O O
+' 지성아 축구화 라도 집어던져 야해 ! '	O O O O O O O O
+홍명보 는 " 지성이 는 그때 도 성실하 고 착한 선수 였 을 뿐 만 아니 라 팀 에 해 가 되 는 플레이 는 절대 하 지 않 는 선수 였 다 " 고 당시 를 회고 했 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 미니 월드컵 ' 2005 세계 청소년 ( U - 20 ) 축구 선수권 대회 우승컵 은 아르헨티나 와 나이지리아 의 격돌 로 가려지 게 됐 다 .	O O O O DAT-B O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O
+브라질 이 후반 30 분 문전 혼전 중 파 비우 산토스 의 크로스 를 헤나 투 가 헤딩 으로 꽂 아 넣 어 동점 을 만들 어 경기 는 연장 에 돌입하 는 듯 했 다 .	ORG-B O O O O O O O PER-B PER-I PER-I O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O
+이 단장 은 " 내년 시즌 을 대비해 외국인 지도자 와 국내 지도자 들 가운데 새 감독 을 찾아볼 것 " 이 라며 올 시즌 을 마친 뒤 정식 사령탑 을 영입하 겠 다는 의사 를 전 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+브라질 경찰 은 마약 을 밀거래하 다 현장 에서 붙잡혀 3 주간 반 마약 본부 에서 조사 를 받 은 에디 뉴 가 일반 교도소 에서 는 라이벌 갱단 의 살해 위협 에 노출될 수 있 어 상 파울로 주 에 있 는 안전한 교도소 로 이송 했 다고 로이터 통신 이 29 일 ( 이하 한국 시간 ) 보도 했 다 .	LOC-B O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O PER-B PER-I O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O DAT-B DAT-I O O LOC-B O O O O O O
+부산 , 9 경기 무패 단독 선두	ORG-B O O O O O O
+부산 은 지난달 8 일 컵 대회 대구 FC 전 2 - 1 승리 이후 10 경기 연속 무패 기록 도 이 어 갔 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+광주 는 후반 43 분 정윤성 이 한 골 을 만회 했 으나 전세 를 뒤집 기 에 는 힘 이 부 쳤 다 .	ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O
+전남 드래곤즈 와 대전 시티즌 은 이정운 과 레 안 드롱 이 전 , 후반 한골 씩 주고받 아 1 - 1 로 비 겼 다 .	ORG-B ORG-I O ORG-B ORG-I O PER-B O PER-B PER-I PER-I O O O O O O O O O O O O O O O O
+하지만 홍 이사 는 이날 조용형 의 플레이 에 는 만족해 했 다 .	O PER-B O O O PER-B O O O O O O O O
+홍 이사 는 " 수비 는 3 ~ 4 명 의 문제 가 아니 다 . 미드필드 부터 전체적 인 수비 의식 이 필요하 다 " 고 전제한 후 " 전반적 인 팀워크 가 잘 이뤄져야 강고한 수비 를 구축할 수 있 다 " 고 진단 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2003 년 한 시즌 최다 골인 28 골 을 비롯해 2000 년 부터 지난해 까지 5 년 연속 두 자 릿 수 득점 을 이 어 가 고 있 는 김도훈 은 올 시즌 에 는 컵 대회 에서 4 골 , 정규 리그 에서 3 골 을 기록 중 이 다 .	DAT-B DAT-I O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+피스 컵 을 대비해 점점 좋 아 지 는 것 같 다 " 며 체력 에 대해서 는 " 90 분 이든 45 분 이든 최선 을 다하 는 것 이 중요하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 계약 에 는 ITV . BBC ( 영국 ) , ARD / ZDF . 프리미어 ( 독일 ) , TF 1 ( 프랑스 ) , TVE ( 스페인 ) , RAI . 스카이 ( 이탈리아 ) 등 거대 방송사 가 참여 했 다 .	O O O O ORG-B ORG-I ORG-I O LOC-B O O ORG-B ORG-I ORG-I ORG-I ORG-I O LOC-B O O ORG-B ORG-I O LOC-B O O ORG-B O LOC-B O O ORG-B ORG-I ORG-I O LOC-B O O O O O O O O O
+2 위 는 5 만 8 천 405 표 의 ' 시리우스 ' 이관우 ( 27 . 대전 ) 가 , 3 위 는 5 만 8 천 383 표 를 얻 은 박주영 이 차지 했 다 .	O O O O O O O O O O O PER-B O PER-B O O O ORG-B O O O O O O O O O O O O O O O PER-B O O O O O
+' 삼바 축구 ' 브라질 이 남미 축구 의 ' 라이벌 ' 아르헨티나 를 꺾 고 8 년 만 에 컨페더레이션스 컵 정상 에 올 랐 다 .	O ORG-B ORG-I O ORG-B O LOC-B O O O O O ORG-B O O O O O O O O O O O O O O O
+전반 을 2 - 0 으로 마친 브라질 은 후반 : 초반 부터 또다시 아르헨티나 의 골문 을 압박 했 다 .	O O O O O O O ORG-B O O O O O O ORG-B O O O O O O O
+아드리아누 도 MVP 를 검머쥔 뒤 " 떨리 면서 도 자랑스럽 다 . 내년 월드컵 준비 를 위한 중요한 승리 를 거 뒀 다 " 고 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+호주 2006 년 부터 AFC 회원국 , FIFA 공식 승인	ORG-B DAT-B DAT-I O ORG-B O O ORG-B O O
+오세아니아주 는 월드컵 본선 티켓 1 장 을 놓 고 남미 예선 5 위 팀 과 플레이오프 를 치 러야 해 월드컵 본선 진출 이 쉽 지 않 은 상황 이 라 호주 는 지난 4 월 OFC 에 연맹 탈퇴 를 요청 , 회원국 들 로부터 만장일치 로 동의 를 얻 어 낸 뒤 AFC 가맹 을 요구해 왔 다 .	ORG-B O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O ORG-B O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+몬스 의 이적 료 는 발표되 지 않 았 지만 500 만 유로 ( 약 62 억 원 ) 정도 로 알려 졌 다 .	PER-B O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O
+네덜란드 프로 축구 에인트호벤 이 일본 축구 대표 팀 의 나카타 히데토시 ( 28 . 피오렌티나 ) 의 영입 에 관심 을 드러냈 다 .	LOC-B O O ORG-B O ORG-B ORG-I ORG-I ORG-I O PER-B PER-I O O O ORG-B O O O O O O O O O
+골절 된 오른쪽 새끼발가락 중족골 치료 를 위해 독일 로 향 했 던 김남일 ( 28 . 수원 ) 이 성공적 으로 수술 을 마 쳤 다 .	O O O O O O O O LOC-B O O O O PER-B O O O ORG-B O O O O O O O O O O
+호비뉴 는 30 일 ( 한국 시간 ) 독일 프랑크푸르트 에서 열린 2005 컨페더레이션스 컵 축구 대회 결승 을 마치 고 브라질 방송 과 의 인터뷰 에서 " 레알 마드리드 에서 뛰 기 를 바란다 . 이미 레알 마드리드 에 의사 를 전달 했 다 . 내 축구 경력 에서 도움 이 될 것 " 이라고 말 했 다고 로이터 통신 이 보도 했 다 .	PER-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B O O DAT-B O O O O O O O O LOC-B O O O O O O ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+호비뉴 는 또 지난해 브라질 리그 에서 37 경기 동안 21 골 을 작렬 시키 는 빼어난 골 결정력 을 뽐내 며 ' 2004 년 올해 의 브라질 선수 ' 상 을 수상 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+박주영 의 소속 팀 FC 서울 이 구단 웹 사이트 ( www . fcseoul . com ) 를 통해 지난 9 일 부터 실시 중 인 ' 박주영 친필 사인 언더셔츠 ' 온라인 경매 입찰가 가 종료 를 하루 남긴 30 일 현재 150 만 원 까지 치솟 은 것 .	PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O DAT-B DAT-I O MNY-B MNY-I MNY-I O O O O O
+손학규 경기도 지사 가 지난 27 일 ' 박지성 路 ' 개통식 축사 에서 " ' 애 ' 의 이름 을 붙 여 길 을 내 는 것 은 유례 가 없 는 일 " 이라고 말 했 다가 네티즌 들 의 항의 로 곤혹스러 운 입장 에 처 했 다 .	PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+알파이 외잘란 , J 리그 에서 방출	PER-B PER-I O ORG-B ORG-I O O
+외잘란 은 지난 2003 년 잉글랜드 와 의 유로 2004 예선 에서 도 인기 스타 데이비드 베컴 ( 잉글랜드 ) 과 마찰 을 빚 는 등 그라운드 의 ' 악동 ' 노릇 을 톡톡히 했 다 .	PER-B O O DAT-B DAT-I ORG-B O O O DAT-B O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O
+청소년 대표 팀 수비수 이강진 ( 20 . 도쿄 베르디 ) 은 감바 오사카 전 에 풀타임 출전 했 으나 팀 은 아라우 조 에게 해트트릭 , 오구 로 마사시 에게 2 골 을 내줘 1 - 7 로 대패 했 다 .	O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O PER-B PER-I O O O PER-B PER-I PER-I O O O O O O O O O O O O O
+하지만 아틀레티코 마드리드 는 최근 잉글랜드 프리미어 리그 의 명문 구단 첼시 로부터 세르비아 - 몬테네그로 출신 의 골잡이 마테야 케즈만 ( 26 ) 을 영입한 데 이 어 로드리게스 와 도 계약 , 안정환 의 마드리드 행 가능성 은 더욱 희박해 졌 다 .	O PER-B PER-I O O ORG-B ORG-I ORG-I O O O ORG-B O LOC-B LOC-I LOC-I O O O PER-B PER-I O O O O O O O O PER-B O O O O PER-B O ORG-B O O O O O O O O
+이동국 의 득점포 가 ' 개점휴업 ' 상태 에 들어가 자 갈 길 바쁜 포항 은 이날 0 - 0 무승부 를 기록 , 제자리걸음 ( 3 위 ) 을 하 며 전기 리그 에서 자력 으로 1 위 에 오르 기 는 힘들 게 됐 다 .	PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+구단 관계자 는 " 여전히 플레이 는 과감하 고 위협적 이 다 " 면서 도 " 하지만 골 이 지독하 게 안 터지 면서 이동국 본인 도 많이 안타까 워 하 고 있 다 " 고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+계약 기간 은 오 는 2007 년 12 월 까지 2 년 6 개월 간 으로 연봉 등 세부 계약 조건 은 협의 에 따 라 공개하 지 않 는다 .	O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O
+지난 84 년 울산 에 입단한 최 감독 은 92 년 까지 미드필더 와 풀백 으로 활약하 며 207 경기 에 출전해 10 골 22 도움 을 올 렸 고 , 88 년 서울 올림픽 과 90 년 이탈리아 월드컵 에 국가 대표 로 참가하 는 등 화려한 선수 시절 을 보냈 다 .	O DAT-B DAT-I ORG-B O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+에인트호벤 은 2005 - 2006 네덜란드 프로 축구 정규 리그 개막 에 앞서 다음 달 6 일 ( 이하 한국 시간 ) 네덜란드 암스테르담 에서 열리 는 요한 크루이프 컵 에서 아약스 와 맞붙 는다 고 3 일 구단 웹 사이트 를 통해 밝 혔 다 .	ORG-B O O O O LOC-B O O O O O O O O O DAT-B DAT-I O O LOC-B O O LOC-B LOC-B O O O O O O O ORG-B O O O O DAT-B DAT-I O O O O O O O O O
+일본 프로 축구 ( J 리그 ) 가시 와 레이솔 에서 K 리그 로 유턴한 ' 리틀 마라도나 ' 최성국 ( 22 ) 이 지난 2 일 ' 친정 팀 ' 울산 현대 에 합류 했 다 .	LOC-B O O O ORG-B ORG-I O ORG-B ORG-I ORG-I O ORG-B ORG-I O O O PER-B PER-I O PER-B O O O O O DAT-B DAT-I O O O O ORG-B ORG-I O O O O O
+구단 관계자 에 따르 면 최성국 은 피스 컵 대회 이후 울산 합류 를 앞둔 팀 선배 이천수 ( 24 ) 와 함께 3 일 저녁 문수월드컵경기장 에서 열릴 울산 - 대구 FC 전 을 관전 키 로 했 다 .	O O O O O PER-B O O O O O ORG-B O O O O O PER-B O O O O O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O
+' 슈퍼 이글스 ' 나이지리아 도 최근 맨체스터 유나이티드 에 스카우트된 공격 형 미드필더 존 오비 미켈 의 지휘 로 대등한 경기 를 펼쳐 나 갔 지만 대회 최고 의 별로 떠오른 ' 천재 ' 메시 를 막 지 못한 것 이 뼈 아 팠 다 .	O ORG-B ORG-I O ORG-B O O ORG-B ORG-I O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+반면 일방적 으로 밀리 던 아르헨티나 는 단 한 번 의 역습 기회 를 살려 우승컵 의 향방 을 결정지 었 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O
+브라질 은 후반 2 분 수비수 에드 카를로스 의 자책골 로 0 - 1 로 뒤 졌 지만 후반 43 분 파 비우 산토스 의 동점 헤딩 골 에 이 어 인저리 타임 1 분 에드 카를로스 의 역전 결승 골 이 터져 나 와 역전 드라마 를 마무리 했 다 .	ORG-B O O O O O PER-B PER-I O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O
+부산 아이파크 가 10 경기 무패 행진 을 달성하 면서 전기 리그 우승 의 ' 8 부 능선 ' 을 가볍 게 넘 었 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+부산 은 연승 행진 에 대한 부담 때문 인지 전반전 동안 전남 과 몇 차례 슛 만 주 고 받 은 채 득점 없이 45 분 을 보냈 다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+한편 성남 일화 는 분당 에서 펼쳐진 FC 서울 과 의 홈경기 에서 올 시즌 전남 에서 이적한 ' 노장 ' 남기일 의 해트트릭 을 앞세 워 4 - 1 대승 을 거 뒀 다 .	O ORG-B ORG-I O O O O ORG-B ORG-I O O O O O O ORG-B O O O O O PER-B O O O O O O O O O O O O O O
+스페인 프로 축구 프리메라리가 의 ' 명문 ' 레알 마드리드 의 룩 셈 부르 구 감독 이 자신 을 브라질 의 ' 신성 ' 호비뉴 ( 21 . 산토스 ) 의 유럽 적응 을 위한 적임자 라고 강조하 고 나섰 다 .	LOC-B O O ORG-B O O O O ORG-B ORG-I O PER-B PER-I PER-I PER-I O O O O LOC-B O O O O PER-B O O O ORG-B O O LOC-B O O O O O O O O O O
+더욱이 호비뉴 가 지난 주말 팀 훈련 에 모습 을 나타내 지 않 으면서 호비뉴 의 이적 문제 는 복잡한 국면 으로 접어들 었 다 .	O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O
+크레스포 는 " 조제 무리 뉴 감독 과 문제 가 있 는 것 은 아니 다 . 그 가 나 의 진로 문제 에 대한 입장 을 바꿀 수 있 다는 말 을 들 었 다 " 고 덧붙 였 다 .	PER-B O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+성남 은 3 일 열린 삼성 하우젠 K 리그 2005 홈 경기 에서 남기일 의 해트트릭 을 앞세 워 FC 서울 을 4 - 1 로 대파하 며 신 나 는 3 연승 을 내달 렸 다 .	ORG-B O DAT-B DAT-I O O O O O DAT-B O O O PER-B O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+덕분 에 정규 리그 개막 이후 6 경기 동안 4 득점 에 그치 던 성남 은 지난달 22 일 수원 삼성 전 ( 2 - 2 무승부 ) 에서 부터 매 경기 2 골 이상 을 집어넣 으면서 최근 4 경기 에서 11 골 을 폭발하 는 무서 운 화력 을 자랑하 고 있 다 .	O O O O O O O O O O O O O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 9 회 차 우수 주심 에 도 뽑 혔 던 이영철 심판 은 지난 한 달 간 K 리그 5 경기 에 배정돼 공격적 인 경기 운영 과 경기 규칙 적용 , 통일성 있 는 판정 과 탁월한 경기 조율 능력 등 을 선보 여 6 월 최우수 주심 으로 선정 됐 다 .	O O O O O O O O O O O PER-B O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+IFFHS 가 4 일 ( 한국 시간 ) 발표한 ' 올해 의 골게터 ' 중간 순위 에 따르 면 호비뉴 는 국가 대표 A 매치 에서 4 골 , 대륙 별 클럽 대항전 에서 6 골 을 각각 넣 어 북한 의 김광혁 ( A 매치 10 골 ) 에 이 어 2 위 에 올 랐 다 .	ORG-B O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O LOC-B O PER-B O O O O O O O O O O O O O O O O
+K 리그 구단 으로 는 수원 삼성 이 111 위 로 가장 높 은 순위 에 올 랐 고 , 알 아인 ( UAE ) 이 아시아 클럽 가운데 최고 순위 인 101 위 를 차지 했 다 .	ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O LOC-B O O O O O O O O O O O O
+익숙하 지 않 은데 10 시간 이나 찍 었 다 .	O O O O O O O O O O O
+박지성 ( 24 . 맨체스터 유나이티드 ) 이 빠르 면 이번 주말 쯤 영국 맨체스터 로 출국할 것 으로 보인다 .	PER-B O O O ORG-B ORG-I O O O O O O O LOC-B LOC-B O O O O O O
+이 대표 는 " 오늘 부터 퍼거슨 감독 이 홈구장 ( 올드 트래포드 ) 에서 프리 시즌 트레이닝 을 시작 했 다 " 고 전 했 다 .	PER-B O O O O O PER-B O O O O LOC-B LOC-I O O O O O O O O O O O O O O O
+박지성 , 캐러멜 먹 다 벌레 나 와	PER-B O O O O O O O
+이 업체 는 박지성 측 에 사과 와 해명 을 하 겠 다고 밝 혔 다 .	O O O PER-B O O O O O O O O O O O O O
+지난달 4 일 나비스코 컵 오미야 전 을 끝 으로 일본 을 떠난 에메 르손 은 같 은 달 22 일 시작된 팀 의 후쿠시마 합숙 훈련 에 참가 하 로 했었 으나 그 동안 가족 문제 , 비행기 만석 등 의 다양한 이유 를 들 며 합류 를 늦춰 왔 다 .	O DAT-B DAT-I O O O O O O O LOC-B O O PER-B PER-I O O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 회의 에서 는 프로 축구 2 부 연맹 출범 에 따른 K 2 리그 의 준비 , 2006 년 K 2 리그 우승 팀 의 2007 년 K 리그 승격 , K 2 리그 용병 제도 운영 방안 등 에 대해 의견 을 나눌 예정 이 다 .	O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O ORG-B ORG-I ORG-I O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O DAT-B DAT-I ORG-B ORG-I O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+대회 조직 위원회 는 5 일 중계 방송사 로 지상파 KBS 와 MBC , 케이블 , 위성 스포츠 전문 채널 KBS SKY 스포츠 , SBS 스포츠 채널 이 확정 됐 고 지역 민방 PSB ( 부산방송 ) 가 가세 했 다고 밝 혔 다 .	O O O O DAT-B DAT-I O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O
+온 세 칼 다스 - 올림 피크 리옹 ( 19 시 . 부산아시아드주경기장 . SBS 스포츠 . PSB )	O O O O O O O O O TIM-B TIM-I O LOC-B O O O O O O
+레알 소시에다드 - 보카 주니어스 ( 19 시 . 부산아시아드주경기장 . KBS )	O O O O O O TIM-B TIM-I O LOC-B O O O
+황선홍 ( 37 ) 전남 드래곤즈 코치 가 쓰나미 피해자 돕 기 자선 축구 경기 에 한국 대표 로 참가한다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O O ORG-B O O O O
+대한축구협회 가 2006 독일 월드컵 본선 진출 에 성공한 축구 대표 팀 선수 들 의 포상금 지급 을 놓 고 고민 에 빠 졌 다 .	ORG-B O DAT-B O O O O O O O O O O O O O O O O O O O O O O O
+일부 선수 는 코엘류 전 감독 시절 에 ' 새 얼굴 찾 기 ' 차원 에서 소집 됐 다가 경기 에 나서 지 못한 경우 도 있 고 , 또 다른 선수 는 소집된 뒤 부상 으로 하루 만 에 소속 팀 으로 돌아간 적 도 있 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 프로 축구 ( J 리그 ) 에서 K 리그 로 유턴한 최성국 ( 22 . 울산 현대 ) 이 6 일 복귀 무대 에 선다 .	LOC-B O O O ORG-B ORG-I O O ORG-B ORG-I O O PER-B O O O ORG-B ORG-I O O DAT-B DAT-I O O O O O
+울산 구단 은 최성국 의 K 리그 조기 투입 을 위해 가시와 로부터 이적 동의서 가 발급되 자마자 지난 4 일 프로 연맹 에 선수 등록 을 마 쳤 다 .	LOC-B O O PER-B O ORG-B ORG-I O O O O ORG-B O O O O O O O DAT-B DAT-I O O O O O O O O O O
+시 는 이 들 시설 을 확충하 고 고양 종합 운동장 과 덕양 어울림 누리 , 오 는 8 ∼ 10 월 완공되 는 실내 체육관 과 수영장 등 의 시설 을 활용할 경우 도민 체전 을 단독 개최할 수 있 을 것 으로 보 고 있 다 .	O O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박지성 의 에이전트 인 FS 코퍼레이션 은 5 일 " 영국 이민국 에서 취업 허가 서 ( 워크퍼밋 ) 가 도착함 에 따 라 박지성 이 6 일 낮 12 시 50 분 네덜란드 암스테르담 행 KLM 편 으로 출국한다 " 고 밝 혔 다 .	PER-B O O O ORG-B ORG-I O DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O O O O PER-B O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I LOC-B LOC-B O O O O O O O O O O O
+박지성 은 입단식 없이 오 는 23 일 부터 시작되 는 아시아 투어 ( 홍콩 . 중국 . 일본 ) 에 대한 인터뷰 만 가진 뒤 곧바로 홈구장 ( 올드트래포드 ) 으로 이동해 훈련 에 들어갈 예정 이 다 .	PER-B O O O O O DAT-B DAT-I O O O LOC-B O O LOC-B O LOC-B O LOC-B O O O O O O O O O O LOC-B O O O O O O O O O O
+프리미어 리그 데뷔 전 은 8 월 13 일 에버튼 과 의 원정 개막 전 이 고 이 에 앞서 2005 - 2006 유럽축구연맹 ( UEFA ) 챔피언스 리그 3 차 예선 1 차 전 ( 8 월 8 - 9 일 ) 에 출전할 수 도 있 을 것 으로 보인다 .	O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+클리닉 은 오전 9 시 30 분 부터 오후 6 시 30 분 까지 기본자세 , 볼 캐칭 , 크로싱 캐칭 , 펀칭 , 1 대 1 상황 대처 요령 등 을 교육하 고 저녁 에 는 수원 삼성 이운재 선수 의 특강 과 경기 규칙 설명 으로 이어진다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I PER-B O O O O O O O O O O
+스포츠 산업 진흥 법 ( 안 ) 이 9 월 정기 국회 에서 통과되 면 K 2 리그 의 수원시청 등 지자체 구단 들 과 공기업 구단 들 도 프로 팀 을 만들 수 있 게 된다 .	O O O O O O O O DAT-B DAT-I O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O
+유상철 2 년 만 의 K 리그 골 맛	PER-B O O O O O O O O
+지난 1999 년 울산 에서 요코하마 F . 마리노스 에 입단한 뒤 2001 년 가시 와 레이솔 을 거쳐 2002 년 울산 으로 복귀 했 던 유상철 은 바로 이듬해 7 월 요코하마 에 재 입단 한 뒤 올해 다시 울산 유니폼 을 입 었 다 .	O DAT-B DAT-I ORG-B O ORG-B ORG-I ORG-I ORG-I O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O DAT-B DAT-I ORG-B O O O O PER-B O O O DAT-B DAT-I ORG-B O O O O O O O ORG-B O O O O O O
+경기 전 " 공격 형 미드필더 뿐 만 아니 라 최전방 으로 도 치 고 들어가 며 자유롭 게 플레이 하 라고 주문 했 다 " 고 밝힐 만큼 두터 운 신뢰 를 보인 김정남 울산 감독 의 기대 에 부응한 셈 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O
+이 감독 의 무서 운 예언 ( ? ) 은 그라운드 에서 그대로 실현되 기 시작 했 다 .	PER-B O O O O O O O O O O O O O O O O O O
+패배 의 쓴 맛 을 본 수원 은 더욱 분발해 나머지 경기 에서 4 승 2 무 를 기록하 면서 컵 대회 우승컵 을 차지 했 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+' 천재 골잡이 ' 박주영 ( 20 . 서울 ) 이 프로 축구 K 리그 에서 49 일 만 에 ' 골 폭풍 ' 을 몰아치 면서 정규 리그 득점 왕 을 향해 본격적 인 골 사냥 에 재 시동 을 걸 었 다 .	O O O O PER-B O O O LOC-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올 시즌 치른 17 경기 동안 3 경기 에서 2 골 이상 ( 해트트릭 포함 ) 을 기록해 골 에 대한 무서 운 집중력 도 보 여 줬 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박주영 은 이어 " 서울 이 플레이오프 에 반드시 나갈 수 있 게 최선 을 다하 겠 다는 생각 뿐 이 다 " 고 덧붙 였 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+벨라판 총장 은 " 유럽 에서 다른 아시아 선수 들 도 나름 대로 족적 을 남 겼 지만 박지성 은 주목도 에서 그 수준 이 완전히 다를 것 " 이 라며 " 아시아 선수 가 최고 수준 에서 뛸 수 있 고 박지성 이 그 수준 에 진입 했 다는 게 기쁘 다 .	PER-B O O O LOC-B O O LOC-B O O O O O O O O O O PER-B O O O O O O O O O O O O O LOC-B O O O O O O O O O PER-B O O O O O O O O O O O
+부산 은 6 일 FC 서울 과 의 전기 리그 11 차 전 에서 박주영 에게 선제골 을 내준 뒤 뽀뽀 가 극적 인 동점 골 을 터트 렸 지만 30 초 뒤 또다시 박주영 에게 결승 골 을 허용해 1 - 2 패배 를 당 했 다 .	ORG-B O DAT-B DAT-I ORG-B ORG-I O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+부산 으로선 ' 무패 우승 ' 의 절호 의 기회 를 놓친 만큼 지난 2000 년 부산 아이파크 로 재 창단한 뒤 아직 까지 한 번 도 거머쥔 적 없 는 K 리그 우승 타이틀 을 반드시 잡 겠 다는 각오 다 .	ORG-B O O O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+음베키 남아공 대통령 격려문	PER-B LOC-B O O
+크레스포 , 결국 첼시 로 유턴	PER-B O O ORG-B O O
+그러나 첼시 는 이번 이적 시장 에서 사뮈엘 에토 오 ( 바르셀로나 ) , 안드리 셰브첸코 ( AC 밀란 ) , 다비드 트레제게 ( 유벤투스 ) 등 유명 스트라이커 의 영입 에 실패하 면서 ' 크레스포 를 잡 자 ' 는 쪽 으로 방향 을 정한 것 으로 알려 졌 다 .	O ORG-B O O O O O PER-B PER-I PER-I O ORG-B O O PER-B PER-I O ORG-B ORG-I O O PER-B PER-I O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+이계호 실업 축구 연맹 회장 은 6 일 K 2 리그 의 프로 화 로 인한 각 구단 의 부담 을 줄이 기 위해 이 같 은 이색 제안 을 내놓 았 다 .	PER-B O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+이 회장 은 " 각 지역 축구 팬 들 에게 연고 지역 선수 들 펀드 에 우선적 으로 투자할 수 있 는 규정 을 두 어 연고 지역 선수 들 에 대한 관심 을 많이 갖 도록 유도할 것 " 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영국 런던 이 2012 년 하계 올림픽 개최지 로 선정됨 에 따 라 40 년 만 에 영국 축구 단일팀 이 올림픽 에 출전할 지 관심 이 모 아 지 고 있 다 .	LOC-B LOC-B O DAT-B DAT-I O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O
+지난 6 월 영국 일간지 가디언 의 보도 에 따르 면 스코틀랜드 는 정체성 훼손 을 이유 로 단일팀 에 참가하 지 않 겠 다는 입장 을 보 였 다 .	O DAT-B DAT-I LOC-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+단일팀 이 구성되 면 그 실력 이 브라질 에 버금가 게 돼 축구 종주국 의 위용 을 되찾 을 수 있 을 것 이 라는 게 전문가 들 의 평가 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+10 일 오후 7 시 서울월드컵경기장 에서 열리 는 서울 과 포항 의 전기 리그 최종 전 이 결전 의 무대 .	DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B O O O ORG-B O ORG-B O O O O O O O O O O
+이동국 의 활약 을 앞세 워 6 일 울산 현대 를 잡 은 포항 은 현재 승점 21 로 선두 부산 아이파크 ( 승점 24 ) 에 승점 3 차이 로 따라붙 은 상태 .	PER-B O O O O O DAT-B DAT-I ORG-B ORG-I O O O ORG-B O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+FC 서울 , 보카 주니어스 와 친선 경기 추진	ORG-B ORG-I O ORG-B ORG-I O O O O
+서울 로 연고지 를 옮긴 뒤 홈 팬 들 에게 이런 서비스 를 한 적 이 없 었 다 " 고 추진 배경 을 밝 혔 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박지성 은 이날 오후 네덜란드 암스테르담 의 영국대사관 에서 취업 비자 를 발급 받 은 뒤 곧바로 맨체스터 행 비행기 에 오를 예정 이 다 .	PER-B O O O LOC-B LOC-B O LOC-B O O O O O O O O O LOC-B O O O O O O O O
+영국 과 네덜란드 의 시차 를 감안하 면 박지성 의 현지 도착 시간 은 오후 2 시 5 분 이 된다 .	LOC-B O LOC-B O O O O O PER-B O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O
+박지성 ( 24 . 맨체스터 유나이티드 ) 에 이 어 이영표 ( 28 . PSV 에인트호벤 ) 도 잉글랜드 프리미어 리그 명문 맨체스터 유나이티드 로 이적할 가능성 이 있 다고 네덜란드 신문 이 보도해 관심 을 끌 고 있 다 .	PER-B O O O ORG-B ORG-I O O O O PER-B O O O ORG-B ORG-I O O ORG-B ORG-I ORG-I O ORG-B ORG-I O O O O O O LOC-B O O O O O O O O O O
+' 박지성 경쟁자 ' 포춘 , 6 주 무릎 부상	O PER-B O O PER-B O O O O O
+지난 1999 년 8 월 맨체스터 유나이티드 에 입단한 포춘 은 입단 초기 라이언 긱스 와 경쟁하 며 맹활약 을 펼 쳤 지만 최근 눈 에 띄 는 활약 을 펼치 지 못하 고 있 다 .	O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O O PER-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+그러나 산토스 측 은 최근 " 호비뉴 와 오 는 2008 년 까지 계약 돼 있 다 .	O ORG-B O O O O PER-B O O O DAT-B DAT-I O O O O O O
+네덜란드 축구 전문지 ' 풋 발 인터내셔날 ' 은 8 일 ( 한국 시간 ) " 최근 히딩크 감독 과 호주 축구 협회 관계자 가 영국 에서 회동 을 했 다 " 며 " 호주 축구 협회 는 이 에 대해 긍정 도 부정 도 하 지 않 고 있 어 더욱 의구심 을 낳 게 하 고 있 다 " 고 보도 했 다 .	LOC-B O O O O O O O O DAT-B DAT-I O LOC-B O O O O PER-B O O ORG-B ORG-I ORG-I O O LOC-B O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 스나이퍼 ' 설기현 ( 울버햄프턴 ) 이 군대식 짧 은 머리 스타일 로 팀 동료 들 의 눈길 을 집중 시 켰 다 .	O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O
+울브즈 ( 울버햄프턴 의 애칭 ) 에 돌아 왔 을 때 동료 들 이 놀 렸 지만 별로 의식하 지 는 않 는다 " 고 말 했 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+성사 여부 가 확실 치 않 았 던 고려대 OB - PSV 에인트호벤 친선 경기 가 막판 까지 진통 을 겪 은 끝 에 예정 대로 열릴 것 으로 보인다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+피스 컵 참가 팀 들 이 개막 이틀 전 대회 와 관계없 는 경기 를 치르 기 위해서 는 피스 컵 조직 위 의 허가 가 있 어야 한다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O
+몇몇 국내 프로 축구팀 들 도 제안 을 받 았 지만 K 리그 휴식기 에 경기 를 치르 는 부담감 으로 거절한 것 으로 알려 졌 다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+현재 변수 가 생기 지 않 는 한 친선 경기 는 열릴 것 으로 보이 지만 12 일 에 열리 지 않 는다면 이 에 따른 문제 도 발생할 것 으로 보인다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+독일 축구 협회 가 10 일 ( 한국 시간 ) 발표한 대진 추첨 결과 에 따르 면 프랑크푸르트 는 오 는 8 월 20 일 또는 21 일 오버하우젠 과 대회 1 라운드 를 치르 게 됐 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O LOC-B O O O O O O O O O ORG-B O O O DAT-B DAT-I DAT-I DAT-I O DAT-B DAT-I ORG-B O O O O O O O O O O
+베니테스 리버풀 감독 은 10 일 ( 이하 한국 시간 ) " 피구 의 이적 여부 를 기다리 고 있 다 . 그 가 우리 팀 에 올 가능성 이 어느 정도 의 가능성 이 있 는 것 은 사실 " 이 라며 " 현재 멤버 에 만족하 지만 앞 으로 2 ~ 3 명 정도 를 더 영입할 예정 " 이라고 밝 혔 다 .	PER-B ORG-B O O DAT-B DAT-I O O LOC-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 축구 황제 ' 펠레 가 ' 제 2 의 펠레 ' 란 찬사 를 듣 고 있 는 브라질 축구 유망주 호비뉴 ( 21 . 산토스 ) 의 유럽 행 을 지지하 고 나섰 다 .	O O O O PER-B O O PER-B PER-I PER-I PER-I O O O O O O O O ORG-B O O PER-B O O O ORG-B O O LOC-B O O O O O O O
+한나라당 박근혜 ( 朴槿惠 ) 대표 는 10 일 자신 의 인터넷 미니 홈페이지 누적 접속자 수 300 만 명 돌파 를 기념 , 네티즌 과 함께 자원 봉사 활동 을 하 고 상암동 월드컵 경기장 에서 축구 를 관람하 는 등 다양한 행사 를 가 졌 다 .	ORG-B PER-B O PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O
+박 대표 는 또 학대 받 는 어린이 를 위한 서울 마포 소재 의 사회 시설 인 ` 신 나 는 그룹 홈 ' 을 방문 , 아이 들 을 위해 샌드위치 를 만들 어 주 고 함께 노래 를 부르 는 등 봉사 활동 을 벌 였 다 .	PER-B O O O O O O O O O LOC-B LOC-B O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박주영 ( 20 . FC 서울 ) 이 10 일 서울월드컵경기장 에서 열린 삼성 하우젠 K 리그 2005 포항 스틸러스 전 에서 두 경기 연속 골 을 기록 했 다 .	PER-B O O O ORG-B ORG-I O O DAT-B DAT-I LOC-B O O O O O O DAT-B O O O O O O O O O O O O O
+10 일 부산 의 우승 이 확정된 부산아시아드주경기장 에서 는 바로 옆 사직구장 에서 프로 야구 롯데 자이언츠 의 전유물 처럼 불 러 져 온 응원가 ' 부산 갈매기 ' 가 힘차 게 흘러나 왔 다 .	DAT-B DAT-I ORG-B O O O O LOC-B O O O O LOC-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+사실 지난 연말 FA 컵 우승 이후 컵 대회 에서 무너질 때 만 해도 포터 필드 감독 의 지도력 을 의심하 는 목소리 가 불거지 기 도 했 다 .	O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O
+지난 5 월 29 일 부천 전 에서 K - 리그 최 장거리 골 ( 65 ｍ ) 을 뽑아낸 도화 성 을 비롯해 임관 식 , 김재영 , 이정효 등 미드필더 진 은 특유 의 성실하 고 안정된 플레이 로 중원 을 사수 했 고 이 장관 , 김유진 , 배효성 , 박준홍 으로 이어지 는 포백 라인 은 12 경기 10 실점 의 짠물 수비 로 우승 의 버팀목 이 됐 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O PER-B PER-I O O PER-B PER-I O PER-B O PER-B O O O O O O O O O O O O O O O O PER-B PER-I O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+부산 은 10 일 부산아시아드주경기장 에서 열린 프로 축구 삼성 하우젠 K - 리그 2005 전기 리그 최종 전 에서 후반 16 분 터진 ' 흑 상어 ' 박성배 의 페널티킥 선제골 로 후반 종료 5 분 전 김종현 이 한 골 을 만회한 대전 시티즌 과 1 - 1 로 비겨 전기 리그 우승 을 확정 했 다 .	ORG-B O DAT-B DAT-I LOC-B O O O O O O O O O DAT-B O O O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
+이날 스무 번째 생일 을 맞 은 박주영 은 이날 서울월드컵경기장 에서 열린 포항 전 에서 전반 15 분 선제골 에 이 어 후반 16 분 과 44 분 연속 골 로 해트트릭 을 기록하 며 팀 의 4 - 1 대승 을 이끌 었 다 .	O O O O O O O PER-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+울산 현대 도 부천 SK 와 의 원정 경기 에서 두 골 을 터트린 브라질 용병 마차도 의 활약 에 힘입 어 3 - 2 로 승리 했 다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O
+하지만 지난해 3 월 창단 후 3 번째 시즌 을 맞이한 인천 이 올 전기 리그 에서 보 여 준 저력 은 놀라 웠 다 .	O O DAT-B DAT-I O O O O O O O ORG-B O O O O O O O O O O O O O O
+여기 에 창단 후 단 한 번 도 패하 지 않 았 던 전북 현대 에 패하 는 불운 을 맞보기 도 .	O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O
+스코틀랜드 출신 인 포터 필드 감독 은 지난 88 - 93 년 잉글랜드 명문 첼시 사령탑 을 맡 았 고 이후 잠비아 , 짐바브웨 , 오 만 , 트리니다드토바고 등 아프리카 . 중동 . 북중미 각국 대표 팀 감독 을 맡 아 축구 수준 을 한 단계 올려놓 는 성과 를 이뤄 냈 다 .	LOC-B O O PER-B PER-I O O O O O O O LOC-B O ORG-B O O O O O O ORG-B O ORG-B O ORG-B ORG-I O ORG-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O
+하지만 이제 K - 리그 통합 우승 과 아시아 챔피언스 리그 정상 까지 노려보 겠 다 .	O O O O O O O O O O O O O O O O O
+박주영 은 10 일 서울월드컵경기장 에서 열린 삼성 하우젠 K - 리그 포항 스틸러스 전 에서 프로 축구 역대 한 경기 최다 인 4 만 8 천 375 명 의 관중 이 지켜보 는 가운데 해트트릭 을 작성하 며 팀 의 4 - 1 승리 를 이끌 었 다 .	PER-B O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+▲ 경기 전 전화 통화 를 했 는데 생일 인데 8 천호 골 정도 는 터트려야 하 지 않 겠 느냐고 그러 더라 . 하지만 전혀 의식하 지 않 았 다 . 오늘 승리 는 모두 가족 과 여자 친구 덕분 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+안정환 은 에이전트 와 함께 지난 10 일 오후 프랑스 파리 로 극비 출국 , 메스 로 이동해 FC 메스 구단 측 과 세부적 인 입단 조건 에 합의한 것 으로 밝혀 졌 다 .	PER-B O O O O O DAT-B DAT-I O LOC-B LOC-B O O O O LOC-B O O ORG-B ORG-I O O O O O O O O O O O O O O O
+유럽 스포츠 전문 사이트 유로 스포츠 도 " FC 메스 가 페루 출신 의 공격수 안드레스 멘도사 ( 27 ) 의 입단 을 추진 했 으나 실패 로 돌아간 뒤 안정환 을 영입 대상 에 올려놓 았 다 " 고 전 했 다 .	LOC-B O O O O O O O ORG-B ORG-I O LOC-B O O O PER-B PER-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+현재 퍼디낸드 의 재계약 협상 은 중단된 상황 이 다 . 구단 은 이미 퍼디낸드 에 주급 10 만 파운드 ( 약 1 억 8 천만 원 ) 를 베팅 했 다 .	O PER-B O O O O O O O O O O O O PER-B O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O
+최근 유럽 축구 전문 사이트 골 닷컴 이 ' 안정환 , 결정 의 시간 이 다가 왔 다 ' 고 밝히 는가 하 면 , 프랑스 지 르피가로 는 ' 파리 생 제르맹 이 안정환 을 영입 대상 에 올려놓 았 다 ' 고 보도하 는 등 유럽 언론 들 도 안정환 의 유럽 재 진출 임박 설 에 힘 을 실 어 줬 다 .	O LOC-B O O O O O O O PER-B O O O O O O O O O O O O O O O LOC-B O O O O ORG-B ORG-I ORG-I O PER-B O O O O O O O O O O O O LOC-B O O O PER-B O LOC-B O O O O O O O O O O O O
+결국 프랑스 쪽 을 선호 했 던 안정환 은 전격적 으로 FC 메스 의 영입 제의 를 받아들이 며 지난 2001 ∼ 2002 시즌 ( 이탈리아 페루자 ) 에 이 어 3 년 만 에 다시 유럽 무대 에 서 게 됐 다 .	O LOC-B O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O LOC-B O O O O O O O
+FC 메스 는 비록 정규 리그 우승 은 차지하 지 못 했 지만 80 년대 프랑스 컵 ( 84 , 88 년 ) 과 리그 컵 ( 86 년 ) 을 여러 차례 제패하 며 전성기 를 구가 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O DAT-B O DAT-B DAT-I O O O O O DAT-B DAT-I O O O O O O O O O O O O
+대한축구협회 도 지난 2002 년 부터 유망주 해외 유학 프로젝트 의 파트너 로 FC 메스 를 선정해 강진욱 ( 19 ) , 어경준 ( 18 ) 등 을 위탁 교육 시킨 바 있 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O ORG-B ORG-I O O PER-B O O O O PER-B O O O O O O O O O O O O
+호주 축구 협회 가 거스 히딩크 ( 58 ) PSV 에인트호벤 ( 네덜란드 ) 감독 을 차기 대표 팀 사령탑 으로 영입하 겠 다는 의사 를 공식적 으로 표명한 가운데 히딩크 감독 도 수락 의사 를 밝혀 귀추 가 주목된다 .	ORG-B ORG-I ORG-I O PER-B PER-I O O O ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+히딩크 감독 은 이 어 " 호주 와 솔로몬제도 의 최종 예선전 과 11 월 남미 5 위 팀 과 의 플레이오프 전 은 ' A 매치 데이 ' 여서 에인트호벤 의 일정 에 아무런 영향 을 끼치 지 않 는다 " 며 " 예선전 을 앞두 고도 호주 대표 팀 이 네덜란드 로 와서 훈련하 면 된다 " 고 설명 했 다 .	PER-B O O O O O ORG-B O ORG-B O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O LOC-B O O O LOC-B O O O O O O O O O O O
+출전 선수 중 최고참 선수 이 자 최고 학번 인 홍명보 는 " 경기 결과 는 예상하 기 어렵 겠 지만 후배 들 이 에인트호벤 선수 들 못 지 않 게 훌륭한 선수 들 이 라 좋 은 경기 를 펼칠 수 있 을 것 이 라 생각한다 " 고 자신감 을 내비 쳤 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 홍명보 는 이번 친선경기 가 문제 가 있 다는 외부 시선 도 있 다는 질문 에 " 고려대 가 한국 축구 에 이바지한 바 가 크 다 . 에인트호벤 이 세계적 으로 유명한 팀 이 지만 그런 팀 과 경기 를 할 수 있 는 자격 이 있 다고 본다 " 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+포터 필드 감독 은 부임 2 년 째 인 지난 시즌 FA 컵 을 우승하 기 전 정규 리그 에서 성적 이 바닥권 을 치 자 일부 서포터스 의 거센 퇴진 요구 를 받 았었 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오 는 31 일 개막하 는 2005 동아시아축구연맹 선수권 대회 에 출전하 는 국가 대표 팀 선수 명단 이 12 일 확정된다 .	O O DAT-B DAT-I O O DAT-B O O O O O O O O O O O O DAT-B DAT-I O O
+이 에 따 라 본프레레 호 는 국내 파 와 일본 파 를 중심 으로 구성돼 개막 일주일 전 인 오 는 24 일 또는 25 일 부터 소집 훈련 을 시작할 예정 이 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O
+반면 별도 의 조직 이 없 는 중국 의 ' 치우미 ' 응원단 은 국내 화교 들 을 위주 로 응원전 을 펼칠 것 으로 보인다는 게 축구 협회 관계자 의 설명 이 다 .	O O O O O O O LOC-B O O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O
+특히 다음 달 잇따 라 펼쳐지 는 북한 - 일본 여자 대표 팀 경기 의 경우 북한 이 아시아 최고 의 수준 을 달리 고 있 는 만큼 남자 선수 들 이 못다 한 월든 컵 최종 예선전 의 일본 전 승리 를 대신해 줄 수 있 을 것 으로 보인다 .	O O O O O O O O O O O O O O O O ORG-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 어 경찰 은 오전 9 시 27 분 까지 7 차례 협박 전화 를 해 온 이 남자 의 전화 발신지 를 추적 , 남 구 무거동 울산 과학 대 인근 공중전화 부스 안 에 있 던 김 모 ( 26 . 무직 ) 씨 를 붙잡 았 다 .	O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-B LOC-B LOC-I LOC-I O O O O O O O PER-B O O O O O O O O O O O O
+' 초롱이 ' 이영표 ( 28 ) 와 PSV 에인트호벤 의 결별 가능성 이 더욱 커지 고 있 다 .	O PER-B O PER-B O O O O ORG-B ORG-I O O O O O O O O O O
+이영표 는 에인트호벤 과 내년 6 월 까지 계약 이 돼 있 으며 지난 5 월 구단 으로부터 ' 4 년 계약 연장 ' 제안 을 받 은 상태 이 다 .	PER-B O ORG-B O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+나카무라 는 브라질 과 의 컨페더레이션스 컵 준결승 에서 1 - 1 로 균형 을 맞추 는 동점 골 과 막판 승부 를 원점 으로 돌리 는 극적 인 동점 골 의 발판 을 놓 는 등 인상적 인 활약 을 펼 쳤 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+15 일 부터 열리 는 클럽 축구 대항전 2005 피스 컵 코리아 에 출전하 기 위해 내한하 는 에인트호벤 의 일정 을 맞추 고 경기장 을 구하 느라 진통 끝 에 어렵 게 성사된 대결 이 다 .	DAT-B DAT-I O O O O O O DAT-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+관심 을 끄 는 매치업 은 박주영 과 이영표 .	O O O O O O PER-B O PER-B O
+프로 축구 성남 일화 가 2005 피스 컵 코리아 와 K - 리그 후반기 에 대비해 지난해 K - 리그 득점 왕 출신 의 삼바 특급 모따 ( 25 . 브라질 ) 를 영입 했 다 .	O O ORG-B ORG-I O DAT-B O O O O O O O O O O O O O O O O O O PER-B PER-I PER-B O O O ORG-B O O O O O O
+성남 은 모따 를 영입함 으로써 수원 삼성 , 울산 현대 에서 각각 데려온 미드필더 김두현 , 박진섭 과 함께 탄탄한 진용 을 구축하 게 됐 다 .	ORG-B O PER-B O O O ORG-B ORG-I O ORG-B ORG-I O O O O PER-B O PER-B PER-I O O O O O O O O O
+전남 은 이 에 대해 현재 시즌 중 이 고 제안받 은 이적 료 도 낮 아 보낼 수 없 다는 입장 을 보이 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+요하네스 본프레레 축구 국가 대표 팀 감독 은 12 일 코칭스태프 회의 를 열 어 오 는 31 일 부터 8 월 7 일 까지 대전 , 전주 , 대구 에서 열리 는 제 2 회 동아시아 연맹 ( EAAF ) 축구 선수권 대회 에 출전할 대표 팀 25 명 의 명단 을 확정 , 발표 했 다 .	PER-B PER-I O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O
+' 천재 골잡이 ' 박주영 ( FC 서울 ) 과 ' 본프레레 호 황태자 ' 이동국 ( 포항 ) 은 공격진 에 포함 됐 다 .	O O O O PER-B O ORG-B ORG-I O O O PER-B PER-I PER-I O PER-B O ORG-B O O O O O O O O
+본프레레 감독 은 " 대회 시작 1 주일 전 인 24 일 대표 팀 을 소집해야 하 는 데 FC 서울 이 피스 컵 에 참가하 는 보카 주니어스 와 26 일 친선 전 을 치르 는 것 으로 들 었 다 " 며 " 대표 팀 에서 뭔가 를 하 려면 항상 FC 서울 이 걸림돌 이 되 는 것 같 다 " 고 불편한 심기 를 드러냈 다 .	PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O ORG-B ORG-I O O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+FC 서울 의 한 관계자 는 " 안 보내 주 겠 다는 것 도 아니 고 FC 서울 로서 도 중요한 경기 인 데 축구 협회 에서 협조해 줘야 한다 " 며 " 이미 이런 일 을 예상해 축구 협회 관계자 와 상의 했 고 긍정적 인 대답 도 얻 었 다 " 고 설명 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+다음 은 본프레레 감독 과 의 일문일답 .	O O PER-B O O O O O
+- - 일부 에선 본프레레 감독 의 지도력 에 대해 불신하 고 있 는데 .	O O O O PER-B O O O O O O O O O O
+- - 2 년 만 에 방한한 소감 은 .	O O O O O O O O O O
+- - 이영표 의 이적 설 이 돌 고 있 는데 .	O O PER-B O O O O O O O O O
+히딩크 애인 엘리자베스 동행	PER-B O PER-B O
+킨 은 또 한국 축구 에 대해 " 월드컵 준결승 까지 올라간 강팀 이 고 최근 몇 년 간 많이 발전한 것 으로 알 고 있 다 . 발전 속도 가 앞 으로 도 계속 이어질 것 으로 본다 " 고 덕담 을 남 겼 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유벤투스 , 캠벨 마저 눈독	ORG-B O PER-B O O
+한편 프랑스 프로 축구 ( 르 샹 피오 나 ) ' 올해 의 선수 ' 출신 의 미셸 에 시앙 ( 22 . 올림 피크 리옹 ) 의 이적 여부 를 놓 고 부자 구단 첼시 와 리옹 간 의 협상 이 막판 ' 공전 ' 하 고 있 는 것 으로 알려 졌 다 .	O LOC-B O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O PER-B PER-I PER-I O O O ORG-B ORG-I ORG-I O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+FC 메스 측 에선 2 년 을 요구 했 지만 1 년 계약 을 한 안정환 은 " 1 년 뒤 또 다른 리그 에서 새로 운 경험 을 하 고 싶 었 다 " 고 배경 을 전 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 2 년 만 에 다시 찾 은 한국 땅 에서 피스 컵 2 연패 의 기쁨 을 맛보 고 싶 다 . " ( 거스 히딩크 PSV 에인트호벤 감독 )	O O O O O O O O LOC-B O O O O O O O O O O O O O O O O PER-B PER-I ORG-B ORG-I O O
+수문장 에 는 브라질 대표 팀 ' 2 번 골키퍼 ' 고메즈 가 버티 고 있 다 .	O O O LOC-B O O O O O O O PER-B O O O O O O
+김 감독 은 " 에인트호벤 은 분명히 우리 보다 강한 팀 이 다 . 강팀 과 의 갭 을 얼마나 줄이 느냐 가 전략적 목표 다 . 상대 를 얼마나 괴롭히 느냐 에 따 라 우리 가 이길 수 도 있 다고 본다 " 고 말 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+◇ 피스 컵 개막 일 ( 15 일 ) 일정 .	O O O O O O DAT-B DAT-I O O O
+또 ' 새내기 ' 공격수 김진용 ( 울산 ) 도 본프레레 호 가 발탁한 ' 숨 은 진주 ' 중 하나 였 다 .	O O O O O PER-B O LOC-B O O PER-B O O O O O O O O O O O O O
+전남 최진한 코치 는 " 신인 이 올 시즌 대부분 경기 에 나서 주전 자리 를 꿰찼 다 면 ' 물건 ' 임 에 틀림없 다 " 고 평 했 을 정도 로 준비된 ' 태극 전사 ' 의 역할 을 십분 발휘하 고 있 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+185 ㎝ 의 큰 키 와 대학 때 공격수 로 활약 했 던 전력 덕분 에 개인기 가 뛰어나 고 득점 능력 까지 갖춘 수비수 로 올 시즌 K 리그 17 경기 에 나서 1 골 1 도움 을 기록 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+히딩크 감독 을 비롯해 정몽준 축구 협회 장 , 축구 원로 김화집 선생 , 이회택 축구 협회 부회장 등 축구 협회 가 선정한 ' 명예 의 전당 ' 헌 액자 7 명 의 흉상 은 오 는 8 월 월드컵 기념관 개관 에 맞춰 공개될 예정 이 었 지만 이날 히딩크 감독 의 강력한 요청 에 따 라 미리 공개된 것 .	PER-B O O O PER-B O O O O O O PER-B O O PER-B ORG-B ORG-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-I O O O O O O O O O PER-B O O O O O O O O O O O
+에인트호벤 , 고대 올스타 제압	ORG-B O ORG-B ORG-I O
+김대의 , 노정윤 , 김정우 등 을 선발 투입한 고려대 올스타 는 전반 12 분 유상수 가 수비수 를 제치 고 논스톱 슛 을 때 렸 으나 크로스바 를 넘어갔 고 전반 41 분 왼쪽 측면 에서 올린 최성국 의 터닝 센터링 은 크로스바 를 맞 고 튕겨 나갔 다 .	PER-B O PER-B O PER-B O O O O ORG-B ORG-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+후반 4 분 최성국 이 1 대 1 찬스 를 맞 았 으나 마무리 슈팅 이 빗맞 았 고 후반 13 분 최성국 의 중거리 슛 과 29 분 조성 용의 프리킥 은 골키퍼 선방 에 막 혔 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O
+히딩크 감독 과 차범근 감독 의 인연 은 자못 깊 다 .	PER-B O O PER-B O O O O O O O O
+조재진 . 최태욱 , J 리그 연속 골 불발	PER-B O PER-B O ORG-B ORG-I O O O
+고베 의 재일 동포 미드필더 박강조 는 0 - 2 로 뒤지 던 전반 37 분 히라세 도모 유키 의 골 을 어시스트 , 추격 의 발판 을 마련 했 다 .	ORG-B O O O O PER-B O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O
+' 천재 골잡이 ' 박주영 ( FC 서울 ) 이 프로 축구 에서 역대 최다 올스타 득표 기록 을 깰 수 있 을지 관심 이 모이 고 있 다 .	O O O O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+한편 올스타 전 은 중부 선발 ( 부천 , 대전 , 서울 , 성남 , 수원 , 인천 ) 과 남부 선발 ( 광주 , 대구 , 부산 , 울산 , 전남 , 전북 , 포항 ) 로 나뉘 어 다음 달 21 일 오후 6 시 서울월드컵경기장 에서 열린다 .	O O O O LOC-B O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O LOC-B O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B O O O
+한때 이적 결심 을 내비치 며 올 여름 오프 시즌 을 뜨겁 게 달 궜 던 제라드 는 이날 전반 에 만 2 골 을 뽑 은 데 이 어 종료 직전 추가 골 을 넣 으며 해트트릭 을 작성 , 최근 4 년 연장 계약 을 체결한 팀 에 톡톡히 보은 했 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그동안 히딩크 감독 은 이영표 의 이적 에 대해 ' 불가 ' 방침 을 표시하 면서 완전히 새로 운 조건 으로 4 년 간 재계약 을 요구해 왔 으나 이 같 은 입장 을 나타냄 으로써 이적 에 관해 한발 물러선 셈 이 다 .	O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+히딩크 . 본프레레 , 전야제 서 만찬	PER-B O PER-B O O O O
+본프레레 감독 은 " 초대 를 받 아 기쁘 다 .	PER-B O O O O O O O O O O
+한국 최초 의 프리미어 리거 박지성 이 14 일 오후 맨체스터 유나이티드 의 홈 구장 인 올드트래포드 스타디움 에서 입단식 및 기자 회견 을 가 졌 다 .	LOC-B O O O O PER-B O DAT-B DAT-I O ORG-B ORG-I O O O O LOC-B LOC-I O O O O O O O O O O
+▲ ( 퍼거슨 감독 ) 에인트호벤 에서 뛰 고 있 을 때 부터 박지성 을 눈여겨 봐야 한다는 말 이 있 었 다 .	O O PER-B O O ORG-B O O O O O O O PER-B O O O O O O O O O O
+▲ ( 박지성 ) 맨유 가 챔피언스 리그 와 프리미어 리그 모두 에서 우승할 수 있 다고 생각한다 .	O O PER-B O ORG-B O O O O O O O O O O O O O O
+▲ ( 박지성 ) 포지션 에 구애 받 지 않 는다 .	O O PER-B O O O O O O O O O
+오이타 의 18 세 이하 감독 및 코치 를 거쳐 올해 사령탑 에 오른 황보 감독 은 지난 14 일 발표된 ' 2005 조모 올스타 축구 ' 팬 투표 1 차 중간 집계 결과 총 19 만 8 천 635 표 의 유효 표 가운데 1 만 2 천 172 표 를 획득 , 서부 감독 부문 4 위 에 랭크 됐 다 .	ORG-B O O O O O O O O O O O O O PER-B O O O DAT-B DAT-I O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+J 리그 이와타 ' 태극 형제 ' , 부진 의 끝 은	ORG-B ORG-I PER-B O O O O O O O O O
+김진규 의 사정 은 더욱 심하 다 .	PER-B O O O O O O O
+한편 지난 13 일 FC 도쿄 전 에서 나란히 3 경기 연속 골 사냥 에 실패 했 던 조재진 ( 24 ) - 최태욱 ( 24 . 이상 시미즈 S 펄스 ) 은 17 일 감바 오사카 와 의 원정 경기 에서 득점포 재가동 에 나선다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O ORG-B ORG-I ORG-I O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O
+최전방 공격수 로 선발 출전한 김도훈 은 0 - 1 로 뒤지 던 전반 10 분 그림 같 은 동점 골 을 터트리 며 경기장 을 가득 메운 성남 팬 들 을 열광 시 켰 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+현재 K 리그 통산 108 골 로 역대 최다 골 기록 ( 110 골 ) 경신 을 눈앞 에 두 고 있 는 한국 프로 축구 의 대표 골잡이 김도훈 은 과거 히딩크 감독 과 는 불행히 도 인연 이 없 었 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O PER-B O O PER-B O O O O O O O O O O O
+김도훈 은 ' 활동 폭 이 컸 는데 힘들 지 않 았 느냐 ' 는 물음 에 " 나이 가 있 다 보 니 힘들 었 다 . 5 년 만 젊 었 어도 네덜란드 리그 에 진출 했 을 텐데 . . " 라며 아쉬 운 미소 를 남 겼 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+이윽고 주심 의 킥오프 휘슬 이 울리 고 난 뒤 이영표 의 발끝 에서 볼 이 닿 을 때 마다 팬 들 은 환호성 을 터트 렸 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+하지만 최근 에인트호벤 에서 잉글랜드 프로 축구 맨체스터 유나이티드 로 이적한 박지성 ( 24 ) 의 공백 은 이날 경기장 을 가득 채운 관중 들 에게 큰 아쉬움 으로 남 고 말 았 다 .	O O ORG-B O LOC-B O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+일본 프로 축구 ( J 리그 ) FC 도쿄가 서포터스 폭력 사건 에 대한 책임 을 물 어 사장 에게 감봉 조치 를 내 렸 다 .	LOC-B O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O
+박지성 ( 24 . 맨체스터 유나이티드 ) 이 23 일 시작되 는 극동 아시아 투어 에서 실력 발휘 를 하 겠 다며 자신감 을 나타냈 다 .	PER-B O O O ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+그 는 " 한국 의 팬 들 과 이곳 팬 들 이 나 를 주목하 고 있 어 부담 이 될 수 있 지만 흔들리 지 않 고 본연 의 플레이 를 펼칠 수 있 다 " 고 강조 했 다 .	O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+광주시 의 요청 으로 16 일 오후 광주 월드컵 경기장 에서 열린 이날 팬 사인회 는 당초 오후 5 시 30 분 에 열리 기 로 했 지만 에인트호벤 측 의 요청 으로 1 시간 뒤 로 미뤄 졌 다가 결국 오후 7 시 가 넘 어서 야 시작 됐 다 .	ORG-B O O O DAT-B DAT-I O LOC-B LOC-I LOC-I O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O ORG-B O O O O O O O O O O O O DAT-B DAT-I DAT-I O O O O O O O O
+토마손 , 슈투트가르트 로 이적	PER-B O ORG-B O O
+아스날 은 " 레예스 와 6 년 간 의 계약 연장 에 합의 했 고 이 에 따 라 그 는 2011 년 까지 우리 팀 에서 뛸 것 " 이라고 밝 혔 다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+박지성 은 16 일 밤 ( 이하 한국 시간 ) 스코틀랜드 컴 버 놀드 브로드 우드 스타디움 에서 열린 클라이드 ( 스코틀랜드 2 부 리그 ) 와 의 프리 시즌 평가전 첫 경기 에서 공격진 의 일원 으로 선발 출격해 전반 45 분 을 소화 했 다 .	PER-B O DAT-B DAT-I O O O LOC-B O O LOC-B LOC-B LOC-I LOC-I LOC-B LOC-I LOC-I O O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+맨체스터 유나이티드 는 전반 13 분 과 19 분 로시 와 클레베르손 이 찬스 를 놓 쳤 으나 31 분 박지성 의 발끝 에서 시작된 연결 플레이 로 첫 골 을 뽑 았 다 .	ORG-B ORG-I O O O O O O O PER-B O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O
+프랑스 리그 4 연패 에 빛나 는 올림 피크 리옹 이 성남 일화 를 꺾 고 조 선두 로 올라섰 다 .	O O O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I O O O O O O O O O
+선제골 은 이번 대회 를 앞두 고 터키 베시크타스 에서 옮겨 온 카레 우의 발끝 에서 터 졌 다 .	O O O O O O O ORG-B ORG-I O O O PER-B O O O O O O O
+광주 경기 에서 에인트호벤 은 개인기 와 유연성 을 겸비한 칼 다스 에 시종 끌려 다닌 끝 에 간신히 비 겼 다 .	LOC-B O O ORG-B O O O O O O PER-B PER-I O O O O O O O O O O O
+이영표 는 5 분 뒤 헛다리 짚기 로 왼쪽 측면 을 돌파해 날카로 운 크로스 를 올 렸 으나 골키퍼 손 에 걸 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 독일 월드컵 본선 무대 를 10 개월 여 남긴 ' 본프레레 호 ' 의 향후 일정 을 미리 들 여다 보 면 그리 편하 지만 은 않 을 것 으로 보인다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 은 지난해 아시안 컵 8 강 에서 탈락하 면서 전체 순위 7 위 에 랭크돼 내년 아시안 컵 2 차 예선 시드 를 받 지 못하 게 된다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+결국 본프레레 감독 은 국제축구연맹 ( FIFA ) 규정 에 따 라 5 월 에 나 해외 파 선수 들 을 모두 불 러 놓 고 훈련할 수 밖에 없 는 상황 에서 본선 에 나서야 하 는 부담 을 극복해야 만 한다 .	O PER-B O O ORG-B O ORG-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+레알 마드리드 는 17 일 ( 이하 한국 시간 ) 미국 시카고 에서 열린 멕시코 프로 팀 치 바스 과달라하라 와 의 친선 경기 에서 알바로 메이자 , 구티 , 로베르토 솔 다도 의 연속 골 로 3 - 1 승리 를 거 뒀 다 .	ORG-B ORG-I O DAT-B DAT-I O O LOC-B O O LOC-B LOC-B O O LOC-B O O ORG-B ORG-I ORG-I O O O O O PER-B PER-I O PER-B O PER-B PER-I PER-I O O O O O O O O O O O O O
+당초 예상 은 A 조 에서 디펜딩 챔피언 PSV 에인트호벤 ( 네덜란드 ) , 올림 피크 리옹 ( 프랑스 ) , B 조 에서 는 토튼햄 핫스퍼 ( 잉글랜드 ) , 보카 주니어스 ( 아르헨티나 ) 가 조 1 위 에게 만 주어지 는 결승 행 티켓 을 다툴 것 으로 점쳐 졌 다 .	O O O ORG-B ORG-I O O O ORG-B ORG-I O LOC-B O O ORG-B ORG-I ORG-I O LOC-B O O ORG-B ORG-I O O ORG-B ORG-I O LOC-B O O ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O O O O
+콜롬비아 대표 엘 킨 소토 를 비롯한 공격진 은 마무리 슈팅 의 위력 이 다소 떨어지 지만 문전 까지 찬스 를 만들 어 가 는 과정 은 참가 팀 중 가장 뛰어나 다는 평가 까지 받 고 있 다 .	LOC-B O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+선 다운 스 는 레 라토 차반 구 등 공격진 이 묘기 와 같 은 개인기 로 국내 팬 들 의 탄성 을 자아내 고 있 다 .	ORG-B ORG-I ORG-I O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O
+그 근거 는 딕 아드 보카트 전 네덜란드 대표 팀 감독 이 아랍에미리트연합 ( UAE ) 대표 팀 사령탑 으로 1 년 계약 을 체결한 것 .	O O O O O O O LOC-B O O O O ORG-B O ORG-B O O O O O O O O O O O O
+' 아주리 군단 ' 의 신예 골잡이 알베르토 질 라르 디노 ( 23 . 전 파르마 ) 가 이탈리아 프로 축구 세리에 A 의 명문 AC 밀란 으로 이적 했 다 .	O ORG-B ORG-I O O O O PER-B PER-I PER-I PER-I O O O O ORG-B O O ORG-B O O ORG-B ORG-I O O ORG-B ORG-I O O O O O
+질 라르 디노 는 " 너무 행복하 다 .	PER-B PER-I PER-I O O O O O O
+일본 축구 의 ' 영웅 ' 미우라 가즈요시 ( 38 . 빗셀 고베 ) 가 40 세 까지 주전 자리 를 보장 한 J 2 리그 요코하마 FC 로 의 이적한다 .	LOC-B O O O O O PER-B PER-I O O O ORG-B ORG-I O O O O O O O O O O ORG-B ORG-I ORG-I ORG-B ORG-I O O O O
+박주영 , 보카 주니어스 전 준비 돌입	PER-B O O O O O O
+특히 보카 주니어스 에 는 2005 세계 청소년 축구 선수권 대회 우승 팀 아르헨티나 의 주력 멤버 네리 카르도소 , 페르난도 가 고 , 훌리오 바로 소 가 포함돼 있 어 박주영 으로서 는 더욱 의욕 을 불태울 만하 다 .	O ORG-B ORG-I O O DAT-B O O O O O O O ORG-B O O O PER-B PER-I O PER-B PER-I PER-I O PER-B PER-I PER-I O O O O PER-B O O O O O O O O O
+日 축구 대표 팀 , 동아시아 선수권대회 명단 발표	LOC-B O O O O O O O O
+또 우라와 레즈 의 신예 스트라이커 다나카 타 쓰 야 ( 23 . 우라와 ) 도 공격진 에 첫 발탁 했 다 .	O ORG-B ORG-I O O O PER-B PER-I PER-I PER-I O O O ORG-B O O O O O O O O O
+북한축구협회 는 19 일 대한축구협회 에 제 2 회 동아시아 연맹 축구 선수권 대회 에 참가할 남녀 축구 대표 팀 명단 을 통보 했 다 .	ORG-B O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O
+리명수 체육단 은 호위국 소속 의 군인 으로 이뤄진 군 팀 이 다 .	ORG-B ORG-I O O O O O O O O O O O O
+" 부 와 명예 가 생기 면 여자 는 자연스레 따르 기 마련 입니다 . " 프랑스 국가 대표 출신 으로 1990 년대 중반 잉글랜드 프리미어 리그 명문 클럽 맨체스터 유나이티드 의 전성기 를 이끌 었 던 에릭 칸토 나 ( 39 ) 가 이성 에 한창 관심 이 많 을 사춘기 축구 꿈나무 들 앞 에서 던진 농담 이 다 .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O ORG-B ORG-I ORG-I O O ORG-B ORG-I O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O
+94 - 95 시즌 을 시작 으로 97 년 은퇴할 때 까지 맨체스터 유나이티드 의 중흥 을 이끌 며 " 난 비록 프랑스 인 이 지만 죽 으면 올드 트래포드 ( 맨체스터 유나이티드 의 홈구장 ) 에 묻히 고 싶 다 " 고 말해 왔 던 칸토 나 는 " 맨체스터 유나이티드 는 나 에게 잊혀 질 수 없 는 클럽 이 지만 세상 모든 축구 팬 들 에게 도 마찬가지 일 것 " 이 라며 여전히 변함없 는 애정 을 드러냈 다 .	O O O O O O O DAT-B DAT-I O O O ORG-B ORG-I O O O O O O O O O O O O O O LOC-B LOC-I O ORG-B ORG-I O O O O O O O O O O O O O PER-B PER-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+맨체스터 이브닝 뉴스 는 포스터 의 몸값 이 옵션 을 포함해 300 만 파운드 ( 56 억 원 ) 에 달한다면서 알렉스 퍼거슨 감독 이 스토크 의 3 번째 골키퍼 에게 큰 베팅 을 했 다고 보도 했 다 .	O O O O PER-B O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O PER-B PER-I O O PER-B O O O O O O O O O O O O O O
+그 는 또 " 히딩크 감독 을 뽑 을 수 있 다면 큰 성공 이 될 것 " 이 라며 " 그렇 게 될 것 으로 99 % 확신하 다 " 고 덧붙 였 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+20 일 ( 한국 시간 ) 로이터통신 에 따르 면 부룬디 , 카메룬 , 잠비아 , 나이지리아 , 케냐 등 아프리카 5 개국 에서 노숙자 월드컵 에 참가하 려던 선수 들 이 체재비 가 턱없이 부족하 다는 이유 로 비자 발급 을 거부 당 했 다 .	DAT-B DAT-I O LOC-B O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+전주시 , 남북 축구 ` 교통 대책 ´ 마련	ORG-B O O O O O O O O
+현대중 , 맨유 와 아쉬 운 무승부	ORG-B O ORG-B O O O O
+당성증 현대중 감독 은 " 첫 경기 라 선수 들 이 많이 긴장 했 다 . 우리 가 준비한 것 의 60 - 70 % 밖에 보 여 주 지 못 했 다 . 해볼 만한 팀 이 었 고 반드시 이기 려 했 는데 너무 아쉽 다 " 고 밝 혔 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+FIFA 가 20 일 발표한 7 월 세계 축구 랭킹 에 따르 면 한국 은 랭킹 포인트 696 점 으로 덴마크 와 그리스 ( 이상 공동 19 위 ) 에 이 어 21 위 에 올 랐 다 .	ORG-B O DAT-B DAT-I O LOC-B LOC-I O O O O O O ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O
+한편 내년 월드컵 개최 국 인 독일 은 지난달 순위 보다 무려 10 계단 이나 점프해 11 위 에 랭크 , 톱 10 진입 을 눈앞 에 뒀 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+이날 경기 는 박지성 ( 현 맨체스터 유나이티드 ) 과 함께 지난 시즌 에인트호벤 을 ' 꿈 의 무대 ' 유럽축구연맹 ( UEFA ) 챔피언스 리그 4 강 까지 이끈 이영표 의 진가 를 국내 축구 팬 들 이 눈앞 에서 직접 확인할 수 있 는 기회 였 다 .	O O O PER-B O O ORG-B ORG-I O O O O O ORG-B O O O O O O ORG-B O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+이영표 는 1 - 1 로 맞선 후반 막판 에 도 두세 차례 결정적 인 크로스 로 상대 수비진 을 일거 에 무너뜨 렸 으나 마무리 가 이뤄지 지 않 아 아쉽 게 팀 을 승리 로 이끌 지 못 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+PSV 에인트호벤 ( 네덜란드 ) 의 태극 전사 이영표 는 전반 득점 과 다름없 는 선제골 어시스트 를 기록 했 으나 팀 이 후반 통한 의 동점 골 을 내 줘 빛 이 바랬 다 .	ORG-B ORG-I O LOC-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전반 2 분 오 이에르 의 위력 적 인 헤딩슛 으로 포문 을 연 에인트호벤 은 왼쪽 윙백 으로 선발 출전한 이영표 가 공격 에 적극 가담하 면서 파상 공세 를 펼 쳤 다 .	O O O PER-B PER-I O O O O O O O O O ORG-B O O O O O O PER-B O O O O O O O O O O O O O
+에인트호벤 이 승리 를 지켜 내 면 결승 에 오를 수 있 었 으나 후반 초반 방심 이 화 를 불 렀 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+( A 조 ) 올림 피크 리옹 ( 1 승 2 무 ) 1 ( 0 - 1 1 - 0 ) 1 에인트호벤 ( 1 승 2 무 )	O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O ORG-B O O O O O O
+그 는 한국 의 감독 제의 를 기다린 것 이 아니 었 느냐는 물음 에 " 절대 그렇 지 않 다 . 저 는 PSV 의 감독 이 었 고 KFA 에 다시 일자리 를 달 라고 한 적 이 없 다 " 면서 " 지금 까지 4 개국 축구 협회 로부터 감독 제의 를 받 았 고 그중 호주 를 포함한 2 개국 이 남 아 있 는 상태 " 라고 설명 했 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O LOC-B O O O O O O O O O O O O O O O O
+" 병철 이 막 아 ! 병철이 . . "	O PER-B PER-I O O O PER-B O O O
+현재 정신 지체 장애 2 - 3 급 10 여 명 의 선수 들 이 팀 을 드나들 며 2007 년 중국 베이징 ( 北京 ) 스페셜 올림픽 출전 을 목표 로 한여름 무더위 를 쫓 고 있 다 .	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+축구 협 , 북한 대표 팀 숙소 . 훈련장 ' 고심 '	ORG-B ORG-I O LOC-B O O O O O O O O
+축구 협회 는 파주 NFC ( 대표 팀 트레이닝 센터 ) 와 상암 보조 구장 , 고양종합운동장 보조 구장 등 3 곳 을 검토 중 이 다 .	ORG-B ORG-I O LOC-B LOC-I O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O
+◇ 맨체스터 유나이티드 아시아 투어 생 중계 일 정 대 홍콩 선발 ( 23 일 오후 4 시 50 분 . 홍콩 ) 대 베이징 시 엔 다이 ( 26 일 저녁 8 시 20 분 . 중국 베이징 ) 대 가시마 앤틀러스 ( 28 일 저녁 6 시 50 분 . 일본 도쿄 ) 대 우라와 레즈 ( 30 일 저녁 6 시 50 분 . 일본 사이타마 )	O O O O O O O O O O LOC-B O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B O O ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B O O ORG-B ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B O O ORG-B ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B O
+네이버 ' 붉 은 악마 ' 공식 후원	ORG-B O ORG-B ORG-I ORG-I O O O
+거스 히딩크 ( 59 ) PSV 에인트호벤 ( 네덜란드 ) 감독 이 21 일 오후 호주 로 출국 했 다 .	PER-B PER-I O O O ORG-B ORG-I O LOC-B O O O DAT-B DAT-I O LOC-B O O O O O
+히딩크 감독 이 정오 께 호텔 을 나선 뒤 사라지 자 행방 을 수소문하 느라 한때 소동 이 일 기 도 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+북한 이 2006 아시아 청소년 축구 선수권 ( 19 세 이하 ) 예선 개최권 을 반납 했 다 .	ORG-B O DAT-B O O O O O O O O O O O O O O O O
+울산 현대 중 이 ' 2005 맨체스터 유나이티드 프리미어 컵 ' 세계 결선 8 강 에 올 랐 다 .	ORG-B ORG-I ORG-I O O DAT-B O O O O O O O O O O O O O O
+현대중 은 이날 오전 에스파뇰 과 의 3 차 전 에서 최진수 , 김진용 , 곽정술 의 연속 골 로 3 - 1 로 승리하 며 1 무 1 패 뒤 첫 승 을 거둔 뒤 오후 조별 리그 마지막 경기 에서 도 곽정술 , 이민섭 , 이형수 의 릴레이 골 로 도르트문트 에 3 - 0 완승 을 거두 고 8 강 진출 을 확정 지 었 다 .	ORG-B O O O ORG-B O O O O O O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O O O O O
+체육 ( - 피스 컵 축구 - 토튼햄 , 리옹 과 결승 ' 격돌 ' )	O O O O O O O ORG-B O ORG-B O O O O O O
+전반 초반 부터 미드필드 싸움 으로 밀 고 밀리 는 공방 을 펼친 토튼햄 은 전반 17 분 하메드 미도 가 페널티 아크 부근 에서 스루 패스 를 이어받 아 골키퍼 와 1 대 1 찬스 를 맞 았 지만 아쉽 게 옆 그물 을 때리 고 말 았 다 .	O O O O O O O O O O O O O ORG-B O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 명 이 싸우 는 불리함 속 에서 도 반격 을 이 어 나간 레알 소시에다드 는 후반 5 분 다 실바 의 헤딩슛 이 수비수 맞 고 나오 는 불운 에다 이천수 의 결정적 인 슛 이 골문 을 비켜 나가 면서 역전 에 실패하 고 말 았 다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O O PER-B PER-I O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+' 영원한 리베로 ' 홍명보 대한 축구 협회 이사 는 74 표 를 얻 어 2 위 를 차지 했 고 , ' 적토마 ' 고정운 FC 서울 코치 ( 73 표 ) 는 간발 의 차이 로 그 뒤 를 이 었 다 .	O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O
+오 는 31 일 개막하 는 2005 동아시아축구연맹 선수권 대회 에 출전하 는 ' 본프레레 호 ' 가 24 일 소집 훈련 에 돌입한다 .	O O DAT-B DAT-I O O DAT-B O O O O O O O O O O O DAT-B DAT-I O O O O O
+수비 에 는 김한윤 ( 부천 ) , 김진규 ( 이와타 ) , 유경렬 ( 울산 ) 이 미리 주전 자리 를 선점하 고 있 으나 월드컵 예선 을 통해 수비진 이 대표 팀 최대 취약 포지션 으로 지목된 만큼 신진 선수 들 에게 도 기회 가 돌아갈 가능성 이 크 다 .	O O O PER-B O ORG-B O O PER-B O ORG-B O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 늘 노력하 는 박지성 의 모습 이 아름답 다 . "	O O O O PER-B O O O O O O O
+출국 장 에서 추최측 이 준비한 사진 촬영 에 나선 박지성 은 첫 번째 공식 사진 촬영 에서 맨 뒷줄 에 포함돼 얼굴 이 제대로 보이 지 않 았 지만 두 번째 촬영 에서 는 동료 들 이 앞줄 로 내보내 주 는 ' 특혜 ( ? ) ' 를 베풀 어 주 기 도 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박지성 을 비롯한 선수단 은 이날 오후 3 시 30 분 공식 기자 회견 을 시작 으로 오후 7 시 께 부터 홍콩 에서 의 첫 훈련 에 나선다 .	PER-B O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O DAT-B DAT-I DAT-I O O LOC-B O O O O O O O
+사고 가 발생한 공립 축구 경기 장 은 이 학교 가 임대해 사용하 던 곳 으로 조호 루 바루 지역 축구 협회 는 이번 사고 의 원인 을 조사하 는 중 이 라고 밝 혔 다 .	O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+박지성 , 1 천 여 팬 운집 속 첫 훈련	PER-B O O O O O O O O O
+대회 주최 측 은 23 일 경기 의 입장권 구매자 들 에게 만 이날 훈련 을 공개 했 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+박지성 을 비롯한 맨체스터 유나이티드 선수 들 은 훈련 을 마치 고 관중석 쪽 으로 가 팬 들 에게 일일이 사인 을 해 줬 다 .	PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+장대비 가 내리 는 가운데 열린 이날 경기 에서 현대 중 은 후반 10 분 마빈 루소 에게 통한 의 결승 골 을 허용 , 무릎 을 꿇 고 말 았 다 .	O O O O O O O O O ORG-B ORG-I O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+박지성 과 마찬가지 로 PSV 에인트호벤 에서 맨체스터 유나이티드 로 이적한 네덜란드 출신 반 니스텔루이 는 새내기 박지성 이 빠르 게 팀 에 적응할 수 있 도록 적 지 않 은 도움 을 주 고 있 다 .	PER-B O O O ORG-B ORG-I O ORG-B ORG-I O O LOC-B O PER-B PER-I O O PER-B O O O O O O O O O O O O O O O O O O O O
+박지성 의 입단 이후 부터 곁 에서 그 를 계속 지켜봐 온 조광래 전 FC 서울 감독 도 " 박지성 이 처음 1 주일 간 은 많이 서먹서먹해 했 다 . 하지만 지금 은 선수 들 과 이야기 도 종종하 며 분위기 를 잘 익혀 나가 고 있 다 " 며 " 특히 네덜란드 친구 들 로부터 많 은 도움 을 받 고 있 는 것 같 다 " 고 전 했 다 .	PER-B O O O O O O O O O O O PER-B O ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오 는 2012 년 열릴 예정 인 유럽 축구 선수권 대회 ( 유로 2012 ) 의 유치 경쟁 에 지난 대회 ( 유로 2004 ) 우승 팀 그리스 등 5 개 팀 이 뛰어들 었 다 .	O O DAT-B DAT-I O O O O O O O O O DAT-B O O O O O O O O O DAT-B O O O ORG-B O O O O O O O O O
+한편 오 는 2008 년 열리 는 유럽 축구 선수권 은 오스트리아 와 스위스 가 공동 개최한다 .	O O O DAT-B DAT-I O O O O O O ORG-B O ORG-B ORG-I O O O
+바이아웃 조항 에 따르 면 호비뉴 는 이적 료 의 40 % 를 받 게 돼 있 다 .	O O O O O PER-B O O O O O O O O O O O O O
+현대중 은 23 일 ( 이하 한국 시간 ) 홍콩 해피 밸리 연습 구장 에서 열린 푸 마스 ( 멕시코 ) 와 의 대회 5 - 6 위 순위 결정 전 에서 전 , 후반 을 득점 없이 비긴 뒤 승부차기 에서 4 - 5 로 패 했 다 .	ORG-B O DAT-B DAT-I O O LOC-B O O LOC-B LOC-B LOC-I LOC-I LOC-I O O ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박지성 ( 24 ) 으로선 기대 와 아쉬움 을 동시 에 남긴 데뷔 전 이 었 다 .	PER-B O O O O O O O O O O O O O O O O O
+박지성 의 맨체스터 유나이티드 공식 데뷔 전 은 기대 와 아쉬움 을 동시 에 남긴 경기 였 다 .	PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O
+전반 20 분 에 도 비슷한 상황 에서 날린 슈팅 이 골키퍼 에 걸려 득점 과 연결되 지 못하 는 안타까 운 상황 이 이어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박지성 은 전반 만 뛴 뒤 교체 됐 고 맨체스터 유나이티드 는 후반 주세페 로시 , 덩 팡 저우 의 연속 골 로 홍콩 선발팀 을 2 - 0 으로 꺾 었 다 .	PER-B O O O O O O O O ORG-B ORG-I O O PER-B PER-I O PER-B PER-I PER-I O O O O LOC-B O O O O O O O O O O
+박지성 은 전반 10 분 에 도 루니 - 니스텔루이 로 이어진 삼각 패스 로 오른쪽 측면 을 파고들 었 으나 문전 에서 뛰쳐나온 골키퍼 판 천 입 과 부딪히 면서 찬스 가 무산 됐 다 .	PER-B O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+맨체스터 유나이티드 는 스트라이커 니스텔루이 가 전반 7 분 과 42 분 결정적 인 노 마크 찬스 를 어이 없이 날려 버려 전반 에 득점 을 하 지 못 했 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박지성 은 오 는 26 일 오후 8 시 30 분 중국 베이징 에서 열리 는 베이징 시 엔 다이 와 의 아시아 투어 2 차 전 에 출격해 마수걸이 공격 포인트 를 노린다 .	PER-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I LOC-B LOC-B O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O
+한 홍콩 기자 가 이날 두 번째 골 을 성공 시킨 중국 출신 의 공격수 덩팡저 우 ( 20 ) 와 박지성 을 비교해 달 라고 부탁하 자 " 박지성 은 경험 이 많 을 뿐 더러 덩 팡 저우 와 는 전혀 다른 스타일 의 플레이 를 펼치 는 선수 " 라며 직접적 인 언급 을 피 했 다 .	O LOC-B O O O O O O O O O LOC-B O O O PER-B PER-I O O O O PER-B O O O O O O O PER-B O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O
+" 오늘 경기 에 만족한다 . 앞 으로 점점 더 좋 아 질 것 이 다 . " ' 맨유 맨 ' 으로 공식 데뷔 전 을 치른 박지성 ( 24 . 맨체스터 유나이티드 ) 이 경기 직후 자신감 과 만족감 을 동시 에 표출 했 다 .	O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O
+알렉스 퍼거슨 맨체스터 유나이티드 감독 에게서 도 ' 움직임 이 환상적 이 었 다 ' 는 평가 를 받 은 박지성 은 세계 최고 의 무대 를 향해 ' 첫 단추 ' 를 꿰 고 난 뒤 담담하 게 한발 한발 전진하 겠 다는 자신감 을 보 여 줬 다 .	PER-B PER-I ORG-B ORG-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+제도적 인 장치 없이 무리하 게 K 리그 팀 을 늘리 는 데 따른 부작용 에 대한 검토 와 기존 구단 들 에 대한 배려 가 허술하 다는 지적 이 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+특히 연간 인원 제한 없 는 무작위 용병 등록 의 폐해 도 용병 4 명 보유 에 3 명 출전 규정 의 취지 를 무색 케 하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

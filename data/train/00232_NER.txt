@@ -1,15 +1,15 @@
-방송인 유재석과 김병만이 2015 ‘SAF(SBSAw ards Festival) 연예 대상’을 공동수상(사진)하면서 대중의 비난이 거세지고 있다 .	O PER-B PER-B O O O O O O O O O O O O
-소금 중독 대한민국 김성권 지음북스코프, 284쪽 1만6500원 “소금을 잘 알고 대처하는 것만으로도 많은 사람이 100세까지 무병장 수 하+ㄹ 수 있다 .	O O O PER-B ORG-B O MNY-B O O O O O O O MNY-B O O O O O O
-“축구란 22명의 선수가 공을 쫓다가 결국 독일이 이기는 스포츠+이다 .	O O O O O O ORG-B O O O
-그리고 25일 현재까지 4박5일을 먹고 자며 생활하고 있다 .	O O O O O O O O O
-왕혜문한의사의 완벽몸매가 네티즌 사이에서 화제+이다 .	PER-B O O O O O
-경기 하남시 망월동, 풍산동, 선동, 덕풍동 일대에 주택약 4만3000채가 건설되는 공공택지지구다 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O
-현 IDB 연차총회 의장이+ㄴ 브라질의 넬종 바르보사 기획예산부 장관은 이번에 최경환 경제부총리 겸 기획재정부 장관에게 의장직을 넘기 +ㄴ다 .	O ORG-B O O ORG-B PER-B PER-I ORG-B O O PER-B ORG-I O ORG-B O O O O O
-"저공부 못하+여요, 우리 셋 중에서는 (백) 승호형이 제일 잘 하+ㄹ 것+ㄹ요.제일 못하는 것+이 공부에요."고개를 절레절레 내젓은 장결희는 공부하+ㄹ 시간에 축구를 더하였으면 좋겠다며 씨익 웃었다 .	O O O O O PER-B PER-B O O O O O O O O O O O O O O O O O O
-이에 이 현지는 자신의 실제 신체 사이즈를 공개하며 많은 이들의 시선을 사로잡았다 .	O O O O O O O O O O O O O
-앞서 이 현지는 박진영의 신곡 ‘어머님이 누구+이니’ 뮤직비디오에 출연하+여 명품 몸매와 애플힙으로 화제로 떠오르+ㄴ 바 있다 .	O O O PER-B O O O O O O O O O O O O O
-이 현지는 가슴 사이즈에 대하+여서는 “정확히 모르는데 엄청 크+ㄴ 가슴은 아니다 .	O O O O O O O O O O O O
-한편 ‘술술 풀리고’는 생활건강 전문기업 고려생활건강에서 10포에 2만9천원이+ㄴ 온라인 최저가로 공급하고 있으며, 15일까지만 폭발적 이+ㄴ 반응에 보답하는 의미로 5포를 추가로 증정하는 이벤트를 진행하고 있다 .	O O O O O ORG-B O MNY-B O O O O O O O O O O O O O O O O O
-연간 296억원의 예산을 들이는 고위험군 무료 접종과 1500억원대 민간 유료 접종에 사용되는 독감백신의 예방 효과를 제대로 따지+어보려는 것이다 .	O MNY-B O O O O O MNY-B O O O O O O O O O O O
-미래에셋증권이 대우증권을 인수하+ㄹ 수 있을지도 지금으로서 +ㄴ미지수+이다 .	ORG-B ORG-B O O O O O O
-대구·경북전지역 웨딩홀은 현장에서 실시간 상담을 통하+여궁금증을 해소하고 최대 200만원 할인 혜택을 제공하+ㄴ다 .	LOC-B O O O O O O O MNY-B O O O O
+방송인 유재석 과 김병만 이 2015 ‘ SAF ( SBS Awards Festival ) 연예 대상 ’ 을 공동 수상 ( 사진 ) 하 면서 대중 의 비난 이 거세지 고 있 다 .	O PER-B O PER-B O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소금 중독 대한민국 김성권 지음 북 스코프 , 284 쪽 1 만 6500 원 “ 소금 을 잘 알 고 대처하 는 것 만 으로 도 많 은 사람 이 100 세 까지 무병장수할 수 있 다 .	O O O PER-B O ORG-B ORG-I O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O
+“ 축구 란 22 명 의 선수 가 공 을 쫓 다가 결국 독일 이 이기 는 스포츠 다 .	O O O O O O O O O O O O O ORG-B O O O O O O
+그리고 25 일 현재 까지 4 박 5 일 을 먹 고 자 며 생활하 고 있 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O
+왕 혜문 한의사 의 완벽 몸매 가 네티즌 사이 에서 화제 다 .	PER-B PER-I O O O O O O O O O O O
+경기 하남시 망월동 , 풍산동 , 선동 , 덕풍동 일대 에 주택 약 4 만 3000 채 가 건설되 는 공공 택지 지구 다 .	LOC-B LOC-B LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O
+현 IDB 연차 총회 의장 인 브라질 의 넬 종 바르보사 기획 예산 부 장관 은 이번 에 최경환 경제 부총리 겸 기획 재정부 장관 에게 의장 직 을 넘긴다 .	O ORG-B O O O O ORG-B O PER-B PER-I PER-I ORG-B ORG-I ORG-I O O O O PER-B O O O ORG-B ORG-I O O O O O O O
+" 저 공부 못해요 , 우리 셋 중 에서 는 ( 백 ) 승호 형 이 제일 잘할 걸 요 . 제일 못하 는 게 공부에 요 . " 고개 를 절레절레 내저 은 장결희 는 공부할 시간 에 축구 를 더 했 으면 좋 겠 다며 씨익 웃 었 다 .	O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 이현지 는 자신 의 실제 신체 사이즈 를 공개하 며 많 은 이 들 의 시선 을 사로잡 았 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O
+앞서 이현지 는 박진영 의 신곡 ‘ 어머님 이 누구 니 ’ 뮤직 비디오 에 출연해 명품 몸매 와 애플 힙 으로 화제 로 떠오른 바 있 다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이현지 는 가슴 사이즈 에 대해서 는 “ 정확히 모르 는데 엄청 큰 가슴 은 아니 다 .	PER-B O O O O O O O O O O O O O O O O O
+한편 ‘ 술술 풀리 고 ’ 는 생활 건강 전문 기업 고려 생활 건강 에서 10 포 에 2 만 9 천 원 인 온라인 최저가 로 공급하 고 있 으며 , 15 일 까지 만 폭발적 인 반응 에 보답하 는 의미 로 5 포 를 추가 로 증정하 는 이벤트 를 진행하 고 있 다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+연간 296 억 원 의 예산 을 들이 는 고 위험 군 무료 접종 과 1500 억 원 대 민간 유료 접종 에 사용되 는 독감 백신 의 예방 효과 를 제대로 따져 보 려는 것 이 다 .	O MNY-B MNY-I MNY-I O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O
+미래에셋증권 이 대우증권 을 인수할 수 있 을지 도 지금 으로선 미지수 다 .	ORG-B O ORG-B O O O O O O O O O O O
+대구 · 경북 전 지역 웨딩 홀 은 현장 에서 실시간 상담 을 통해 궁금증 을 해소하 고 최대 200 만 원 할인 혜택 을 제공한다 .	LOC-B O LOC-B O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O

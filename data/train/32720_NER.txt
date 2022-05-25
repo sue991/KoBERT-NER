@@ -1,14 +1,14 @@
-또한 불스원 본사 기술교육팀이 영국 출발 현장에 직접 방문해 안전하게 랠리에 참여하+ㄹ 수 있도록 출발 전 차량을 세밀하게 정비 하+여주었다 .	O ORG-B O O LOC-B O O O O O O O O O O O O O O O O
-불스원 마케팅본부 한지 영상무는 “노후되+ㄴ 작은 차량으로 지구환경을 생각하며 유라시아 대륙 횡단 레이스에 도전하+ㄴ다는 ‘몽골 랠리’의 취지에 공감하여 후원을 결정하게 되었다 .	ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O
-여야 3당은 여야정 협의체에 누구가 참석하고 어떻게 운영하+ㄹ지는 각 당의 논의를 거치+어 추후 결정하기로 +였다 .	O O O O O O O O O O O O O O O O
-김대중씨, 김 대통령 초청/12월 아태민주지도자대회 연사 .	PER-B PER-B O O O O O
-이 계획은 중국과 북한·러시아 접경지역 총생산액을 2020년까지 두 배로 늘리기 위하+ㄴ 경제발전 전략이다 .	O O ORG-B ORG-B O O O O O O O O O O
-문 후보는 청렴·도덕성을 강점으로 내세우고 있으나 청와대 민정수석 시절 이+ㄴ 2003년 노무현 대통령 사돈의 ‘음주사고처리’ 의혹과 2006년 아들 준용씨의 ‘황제 채용’ 논란에서 이회창 씨와 비슷하+ㄴ 모습을 보이어주고 있다 .	PER-B O O O O O ORG-B O O O O PER-B O O O O O O PER-B O O O PER-B O O O O O O
-모두 제프 블라터(79) 회장의 최측근으로 꼽히+ㄴ다 .	O PER-B PER-I O O O O
-마침 나+의 옆에 ＇아마쓰키군, 사랑 하+여요＇라고 일본말로 쓰+ㄴ 종이를 열심히 흔들는 10대 여학생이서+어 있기에 물어보았다 .	O O O PER-B O O O O O O O O O O O O
-때문에 통일은 독일 경제 전체를 성장시키는 계기가 +었다고 말 하+ㄹ 수 있습니다 .	O O LOC-B O O O O O O O O O O
-이타구를 두산 수비수가 잡아서 1루로 던지는 사이, 스타트 준비를 하던 3루 주자 오지환은 가속도를 붙이어 홈을 파고들었다 .	O ORG-B O O O O O O O O O O PER-B O O O O O
-메르스 예방하는 올바르+ㄴ 손씻기, 그 6가지 단계는 .	O O O O O O O O
-‘뉴질랜드 남부 규모 5.6 지진’ 뉴질랜드 남부에서 규모 5.6의 지진이 발생하였다 .	LOC-B LOC-I O O O LOC-B LOC-I O O O O O
-특히 ▶ 지능형·융합형 공공데이터 개방 확대 ▶자율주행차·증강현실(AR)·가상현실 등 신산업 분야 데이터 활용을 위하+ㄴ 기반 조성 ▶민·관 협업 강화▶ 효율적 이+ㄴ 데이터 관리체계 구축 등 9개 분야를 중점 추진하+ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-Q.제한 시간 2시간과 1분 초읽기 3회는 어떻게 결정되었나. A.지난해 10월 알파고와 판후이 2단의 공식 대국 당시 제한시간이 1시간에 30초 초읽기 3회+이었던 점과 비교하면 딱 2배로 늘었다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+또한 불스원 본사 기술 교육 팀 이 영국 출발 현장 에 직접 방문 해 안전하 게 랠리 에 참여할 수 있 도록 출발 전 차량 을 세밀하 게 정비해 주 었 다 .	O ORG-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+불스원 마케팅 본부 한지영 상무 는 “ 노후 된 작 은 차량 으로 지구 환경 을 생각하 며 유라시아 대륙 횡단 레이스 에 도전한다는 ‘ 몽골 랠리 ’ 의 취지 에 공감하 여 후원 을 결정하 게 되 었 다 .	ORG-B O O PER-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+여야 3 당 은 여야 정 협의 체 에 누 가 참석하 고 어떻 게 운영할지 는 각 당 의 논의 를 거쳐 추후 결정하 기 로 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김대중 씨 , 김 대통령 초청 / 12 월 아태 민주 지도자 대회 연사 로	PER-B O O PER-B O O O DAT-B DAT-I O O O O O O
+이 계획 은 중국 과 북한 · 러시아 접경 지역 총 생산액 을 2020 년 까지 두 배 로 늘리 기 위한 경제 발전 전략 이 다 .	O O O ORG-B O ORG-B O ORG-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+문 후보 는 청렴 · 도덕성 을 강점 으로 내세우 고 있 으나 청와대 민정 수석 시절 인 2003 년 노무현 대통령 사돈 의 ‘ 음주 사고 처리 ’ 의혹 과 2006 년 아들 준용 씨 의 ‘ 황제 채용 ’ 논란 에서 이회창 씨 와 비슷한 모습 을 보 여 주 고 있 다 .	PER-B O O O O O O O O O O O O ORG-B O O O O DAT-B DAT-I PER-B O O O O O O O O O O DAT-B DAT-I O PER-B O O O O O O O O PER-B O O O O O O O O O O O O
+모두 제프 블라터 ( 79 ) 회장 의 최 측근 으로 꼽힌다 .	O PER-B PER-I O O O O O O O O O O
+마침 내 옆 에 ＇ 아마 쓰키 군 , 사랑해요 ＇ 라고 일본 말 로 쓴 종이 를 열심히 흔드 는 10 대 여학생 이 서 있 기에 물어 봤 다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+때문 에 통일 은 독일 경제 전체 를 성장 시키 는 계기 가 됐 다고 말할 수 있 습니다 .	O O O O LOC-B O O O O O O O O O O O O O O O
+이 타구 를 두산 수비수 가 잡 아서 1 루 로 던지 는 사이 , 스타트 준비 를 하 던 3 루 주자 오지환 은 가속도 를 붙 여 홈 을 파고들 었 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+메르스 예방하 는 올바른 손 씻 기 , 그 6 가지 단계 는 ?	O O O O O O O O O O O O O O
+‘ 뉴질랜드 남부 규모 5.6 지진 ’ 뉴질랜드 남부 에서 규모 5.6 의 지진 이 발생 했 다 .	O LOC-B LOC-I O O O O LOC-B LOC-I O O O O O O O O O O
+특히 ▶ 지능 형 · 융합 형 공공 데이터 개방 확대 ▶ 자율 주행 차 · 증강 현실 ( AR ) · 가상현실 등 신 산업 분야 데이터 활용 을 위한 기반 조성 ▶ 민 · 관 협업 강화 ▶ 효율적 인 데이터 관리 체계 구축 등 9 개 분야 를 중점 추진할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Q . 제한 시간 2 시간 과 1 분 초읽기 3 회 는 어떻 게 결정 됐 나 . A . 지난해 10 월 알 파고 와 판 후이 2 단 의 공식 대국 당시 제한 시간 이 1 시간 에 30 초 초읽기 3 회 였 던 점 과 비교하 면 딱 2 배 로 늘 었 다 .	O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

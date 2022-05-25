@@ -1,12 +1,12 @@
-그는 하원 정보위 민주당 간사 이+ㄴ아담쉬프의원에 질문에 이같이 답하면서 러시아와 트럼프 대통령 선거 본부와의 커넥션 가능성을 처음 공식 확인하였다 .	O O O ORG-B O PER-B O O O ORG-B PER-B O O O O O O O O O
-지나+ㄴ 16일 신원섭 산림청장을 정부 대전청사 청장실에서 만나 +아세계 산림총회 유치의 미등을 듣어 +보았다 .	O O PER-B O LOC-B LOC-I O O O O O O O O O
-FAO 산림분야 최고 권위 국제행사 러시아·이탈리아 등 따돌리고 개최총회서 미래산림비전보이어주+ㄹ 것개도국에 산림치유 노하우도 전파-세계산림총회는 어떤 행사 이+ㄴ가.“FAO에서 주관하는 산림분야의 가장 크고 영향력 있는 국제회의다 .	ORG-B O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O
-0-2로 뒤지+ㄴ 2회, 김현수는 2사 3루 상황에서 좌전적 시타를 기록하였다 .	O O O PER-B O O O O O O O
-4회 볼티모어는 크리스 존슨의 투런포로 역전에 성공하였다 .	O ORG-B PER-B PER-I O O O O
-냉철하+ㄴ 전문가들 “한국이라크 준결승전 1대0 한국 승리 .	O O ORG-B O O ORG-B O O
-구원투수 피로도는 등판일마다 ‘(5일 전 상대 타자)++(4일 전 상대 타자×2) ++(3일 전 상대 타자×3) ++(2일 전 상대 타자×4) ++(하루 전 상대 타자 ×5)’를 계산하+ㄴ 뒤등판 횟수로 나누+ㄴ값이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-마블의 여러 코믹 북에는 실크(여자 스파이더맨), 해치(전설의 동물해치로 변신) 등 여러 한국형 영웅들이 등장하+ㄴ다 .	ORG-B O O O PER-B PER-B PER-B PER-B O O O O O O O
-북한 남성이 깍을 수 있는 15가지 머리 유형도 공개되었다 .	ORG-B O O O O O O O O O
-시­도지부장도 현재는 초­ 재선 의원이 많지만 이번에 +ㄴ 3선급 이상으로 중량화해 당무위원 겸직도 가능하도록 하겠다는 입장이다 .	O O O O O O O O O O O O O O O O O
-그러나 최근에는 대륙을 향하+ㄴ관문으로서 인천이 갖는 지리적 이점도 십분 활용되고 있다 .	O O O O LOC-B O O O O O O O
-문재인, 김근태 5주기 추도사… '2017년 점령 하+ㄹ 시기+았다 .	PER-B PER-B O O O O O O O
+그 는 하원 정보 위 민주당 간사 인 아담 쉬프 의원 에 질문 에 이같이 답하 면서 러시아 와 트럼프 대통령 선거 본부 와 의 커넥션 가능성 을 처음 공식 확인 했 다 .	O O O O O ORG-B O O PER-B PER-I O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O
+지난 16 일 신원섭 산림청장 을 정부 대전 청사 청장 실 에서 만나 세계 산림 총회 유치 의미 등 을 들 어 봤 다 .	O DAT-B DAT-I PER-B O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O
+FAO 산림 분야 최고 권위 국제 행사 러시아 · 이탈리아 등 따돌리 고 개최 총회 서 미래 산림 비전 보 여 줄 것 개도국 에 산림 치유 노하우 도 전파 - 세계 산림 총회 는 어떤 행사 인가 . “ FAO 에서 주관하 는 산림 분야 의 가장 크 고 영향력 있 는 국제 회의 다 .	ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0 - 2 로 뒤진 2 회 , 김현수 는 2 사 3 루 상황 에서 좌전 적시타 를 기록 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O
+4 회 볼티모어 는 크리스 존슨 의 투런포 로 역전 에 성공 했 다 .	O O ORG-B O PER-B PER-I O O O O O O O O O
+냉철한 전문가 들 “ 한국 이라크 준결승전 1 대 0 한국 승리 ”	O O O O ORG-B ORG-B O O O O ORG-B O O
+구원 투수 피로 도 는 등판 일 마다 ‘ ( 5 일 전 상대 타자 )+ ( 4 일 전 상대 타자 × 2 )+ ( 3 일 전 상대 타자 × 3 )+ ( 2 일 전 상대 타자 × 4 )+ ( 하루 전 상대 타자 × 5 ) ’ 를 계산한 뒤 등판 횟수 로 나눈 값 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+마블 의 여러 코믹 북 에 는 실크 ( 여자 스파이더맨 ) , 해치 ( 전설 의 동물 해치 로 변신 ) 등 여러 한국 형 영웅 들 이 등장한다 .	ORG-B O O O O O O PER-B O O PER-B O O PER-B O O O O O O O O O O O O O O O O O
+북한 남성 이 깍 을 수 있 는 15 가지 머리 유형 도 공개 됐 다 .	ORG-B O O O O O O O O O O O O O O O O
+시 ­ 도 지부장 도 현재 는 초 ­ 재선 의원 이 많 지만 이번 엔 3 선급 이상 으로 중량 화해 당무 위원 겸직 도 가능 토록 하 겠 다는 입장 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 최근 에 는 대륙 을 향한 관문 으로서 인천 이 갖 는 지리적 이점 도 십분 활용되 고 있 다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O
+문재인 , 김근태 5 주기 추도사 … ' 2017 년 점령할 시기 왔 다 '	PER-B O PER-B O O O O O DAT-B DAT-I O O O O O

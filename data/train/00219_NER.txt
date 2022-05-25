@@ -1,15 +1,15 @@
-[오늘의 JTBC] 사드 한반도 배치를 둘러싸 +ㄴ ‘썰전 .	O O O LOC-B O O O O O
-대우윤원석 사 .	ORG-B O O
-이는 작년 말에 전망 하+ㄴ 주택가격 상승률(2%)을 1% P 상향 조정 하+ㄴ 것이다 .	O O O O O O O O O O O O O O
-‘슈퍼스타K’ 출신 가수 김현지 포함 3명, 렌트하+ㄴ 차량 안에서 숨지+ㄴ 채 발견 … 동반 자살?김 현지 사망 오디션 프로그램 ‘슈퍼스타K1’과 ‘보이스코리아2’ 출신 가수 김현지 씨(30·여)가 30대 2명과 함께 숨지+ㄴ 채 발견되었다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
-27일 경찰에 따르면 김현지 씨는 이날 오전 3시50분께 익산시 왕궁면 동용길 복심사 주차장에 주차되+ㄴ 카니발 승용차 안에서 A씨(33), B씨(33)와 함께 숨지+ㄴ 채로 발견되었다고 뉴스1 이전하였다 .	O O O PER-B O O O O LOC-B LOC-B LOC-B LOC-B O O O O O PER-B PER-B O O O O O O O
-이들이 타고 있던 차량은 광주광역시에서 렌트하+ㄴ 것으로 확인되었다 .	O O O O ORG-B O O O O
-최씨는 재선에 성공하였지만 불법행위가 적발되+어 재판에 넘기+어+지었다 .	PER-B O O O O O O O
-한편 롯데그룹은 신 총괄회장의 부인이+ㄴ시게미쓰 하쓰코(重光初子)씨가 일본 외상을 지내+ㄴ A급 전범이+ㄴ시게미쓰마모루(重光葵)와 친인척 관계+이라는 소문은 사실이 아니라고 밝히었다 .	O ORG-B PER-B O PER-B PER-B ORG-B O O O PER-B O O O O O O O
-카터의 말로는 김일성이 앞으로 핵개발을 「동결 」 하+ㄴ다고 하는데 그렇다면 지금까지 김일성 스스로 북한은 『핵무기를 가지+ㄹ의 사도 능력도 없다』고 말 하+여오+ㄴ 것은 어떻게 되는 것이 +ㄴ지 모르+ㄹ일이다 .	PER-B O PER-B O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O
-직업능력개발원은 19~59세 남녀 1000명을 대상으로 능력중심 사회대국민 인식조사를 실시하+ㄴ 결과 이같이 나타나 +았다고 29일 밝히었다 .	ORG-B O O O O O O O O O O O O O O O
-블라디보스토크는 옛 모습 그대로+이어서 소멸 하+여가던 대한제국의 그림자도 지우어지지 않았다 .	LOC-B O O O O O ORG-B O O O O
-또한, 영에게 업히 +ㄴ 채 그의 어깨를 조심스레 감싸 +아쥐+ㄴ 라온은 더 이상 세자와 내시가 아니+ㄴ, 정인으로서 많은 이야기를 펼치+ㄹ 두 사람의 로맨스에 기대를 더하고 있다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O
-관계자는 “오늘(20일) 밤, 사내와 여인으로서 마주하게 되+ㄴ영과 라온은 궐안의 수많은 눈과 귀를 피하+여비밀스럽ㄴ 데이트를 시작하+ㄴ다 .	O O O O O O O PER-B O O O O O O O O
-지난주 ‘보호주의의 칼(sw ordofprotectionism)’이 세계 경제를 흔들 +ㄴ다며 미국을 비판하+ㄴ 크리스틴 라가르드 국제통화기금(IMF) 총재의 발언을 겨냥하+ㄴ 것이다 .	O O O O O O O O ORG-B O PER-B PER-I ORG-B O O O O O
-지난해 업무보고에서 한 부총리가 밝히+ㄴ 대북정책 추진의 기조는 「민족복리 우선 」과 「 북한의 고립­ 봉쇄반대 」+이었다 .	O O O O O O O O O O O O ORG-B O O O O
+[ 오늘 의 JTBC ] 사드 한반도 배치 를 둘러싼 ‘ 썰 전 ’	O O O O O O LOC-B O O O O O O O
+대우 윤원석 사장	ORG-B PER-B O
+이 는 작년 말 에 전망한 주택 가격 상승 률 ( 2 % ) 을 1 % P 상향 조정한 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 슈퍼스타 K ’ 출신 가수 김현지 포함 3 명 , 렌트 한 차량 안 에서 숨진 채 발견 … 동반 자살 ? 김현지 사망 오디션 프로그램 ‘ 슈퍼스타 K 1 ’ 과 ‘ 보이스 코리아 2 ’ 출신 가수 김현지 씨 ( 30 · 여 ) 가 30 대 2 명 과 함께 숨진 채 발견 됐 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+27 일 경찰 에 따르 면 김현지 씨 는 이날 오전 3 시 50 분 께 익산시 왕궁면 동용길 복 심사 주차장 에 주차 된 카니발 승용차 안 에서 A 씨 ( 33 ) , B 씨 ( 33 ) 와 함께 숨진 채 로 발견 됐 다고 뉴스 1 이 전 했 다 .	DAT-B DAT-I O O O O PER-B O O O TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+이 들 이 타 고 있 던 차량 은 광주광역시 에서 렌트 한 것 으로 확인 됐 다 .	O O O O O O O O O ORG-B O O O O O O O O O
+최 씨 는 재선 에 성공 했 지만 불법 행위 가 적발돼 재판 에 넘겨 졌 다 .	PER-B O O O O O O O O O O O O O O O O O
+한편 롯데 그룹 은 신 총괄 회장 의 부인 인 시게미쓰 하쓰코 ( 重光初子 ) 씨 가 일본 외상 을 지낸 A 급 전범 인 시게미쓰 마모루 ( 重光葵 ) 와 친인척 관계 라는 소문 은 사실 이 아니 라고 밝 혔 다 .	O ORG-B ORG-I O PER-B O O O O O PER-B PER-I O PER-B O O O ORG-B O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O
+카터 의 말 로 는 김일성 이 앞 으로 핵 개발 을 「 동결 」 한다고 하 는데 그렇 다면 지금 까지 김일성 스스로 북한 은 『 핵무기 를 가질 의사 도 능력 도 없 다 』 고 말해 온 것 은 어떻 게 되 는 것 인지 모를 일 이 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+직업 능력 개발 원 은 19 ~ 59 세 남녀 1000 명 을 대상 으로 능력 중심 사회 대 국민 인식 조사 를 실시한 결과 이같이 나타났 다고 29 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+블라디보스토크 는 옛 모습 그대로 여서 소멸해 가 던 대한 제국 의 그림자 도 지 워 지 지 않 았 다 .	LOC-B O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+또한 , 영 에게 업힌 채 그 의 어깨 를 조심스레 감싸 쥔 라온 은 더 이상 세자 와 내시 가 아닌 , 정인 으로서 많 은 이야기 를 펼칠 두 사람 의 로맨스 에 기대 를 더하 고 있 다 .	O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+관계자 는 “ 오늘 ( 20 일 ) 밤 , 사내 와 여인 으로서 마주하 게 된 영과 라온 은 궐 안 의 수많 은 눈 과 귀 를 피해 비밀스러 운 데이트 를 시작한다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+지난주 ‘ 보호주의 의 칼 ( sword of protectionism ) ’ 이 세계 경제 를 흔든다며 미국 을 비판한 크리스틴 라가르드 국제통화기금 ( IMF ) 총재 의 발언 을 겨냥한 것 이 다 .	O O O O O O O O O O O O O O O O ORG-B O O PER-B PER-I ORG-B O ORG-B O O O O O O O O O O
+지난해 업무 보고 에서 한 부총리 가 밝힌 대북 정책 추진 의 기조 는 「 민족 복리 우선 」 과 「 북한 의 고립 ­ 봉쇄 반대 」 였 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O

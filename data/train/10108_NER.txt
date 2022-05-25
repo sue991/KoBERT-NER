@@ -1,12 +1,12 @@
-이 폭발사고로 최소 25명의 부상자가 발생하였다 .	O O O O O O O
-‘압구정 백야’ 임성한 데스노트 첫 희생자 김민수, 하차소감 듣어보니 .	O O PER-B O O O PER-B O O O
-또 “(박 전 대통령 집권시) 리 전 총리의 한국 방문 당시 대통령 부인을 대신 하+여리 전 총리를 맞은 인물이 박근혜+이었다”고 덧붙이었다 .	O PER-B O O O PER-B O PER-B LOC-B O O O O O PER-B O PER-B O O PER-B O O
-한국스포츠 사상 첫 일본 원정이었다 .	ORG-B O O ORG-B O O
-두 사람은 촬영이 끝나 +ㄴ 후 자연스럽게 호감을 가지+ㄴ 것으로 알려지었다 .	O O O O O O O O O O O O
-앞서 +어 중국의 한 매체는 이날 “유역비와 송승헌 이 사랑에 빠지었다”면서 “영화를 촬영하며 인연을 맺었고 현재 열애 중”이라고 파파라치 사진을 공개하였다 .	O O ORG-B O O O PER-B PER-B O O O O O O O O O O O O O O
-결국은 두뇌싸움이다!천운이 따르는 지 대표팀에는 4번 타자이대호가 있다 .	O O O O O O PER-B O O
-중앙일보 청춘 라디오는 정강현 청춘리포트 팀장과 문화부 김호정기자가 공동 진행 하+ㅂ니다 .	O O O PER-B O O ORG-B PER-B O O O O
-한일 김장대축제서 직접 김치 담그+ㄴ 아키에 여 .	ORG-B O O O O PER-B O O
-[대한민국 뉴리더십 세우자] 이란 핵협상 때 케리가 현장 재량권 …日 내각 인사스가 관방장관이 총 .	O O O ORG-B O O PER-B O O ORG-B O PER-B ORG-B O O
-현재 검찰 수사를 받고 있는 롯데마트는 과징금 없이 경고 조치만 +였다 .	O O O O O ORG-B O O O O O O
-김선한 교수의 직장암 수술법은 세계적 표준으로 사용되며 수술용 로봇 다빈치를 만들는 인튜이 티브사의 매뉴얼로 제작되+어 있을 정도이다 .	PER-B O O O O O O O O O O O O O O O O O
+이 폭발 사고 로 최소 25 명 의 부상자 가 발생 했 다 .	O O O O O O O O O O O O O O
+‘ 압구정 백야 ’ 임성한 데스 노트 첫 희생자 김민수 , 하차 소감 들 어 보 니 ?	O O O O PER-B O O O O PER-B O O O O O O O O
+또 “ ( 박 전 대통령 집권 시 ) 리 전 총리 의 한국 방문 당시 대통령 부인 을 대신해 리 전 총리 를 맞 은 인물 이 박근혜 였 다 ” 고 덧붙 였 다 .	O O O PER-B O O O O O PER-B O O O LOC-B O O O O O O PER-B O O O O O O O PER-B O O O O O O O O
+한국 스포츠 사상 첫 일본 원정 이 었 다 .	ORG-B O O O ORG-B O O O O O
+두 사람 은 촬영 이 끝난 후 자연스럽 게 호감 을 가진 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O
+앞서 중국 의 한 매체 는 이날 “ 유역 비 와 송승헌 이 사랑 에 빠 졌 다 ” 면서 “ 영화 를 촬영하 며 인연 을 맺 었 고 현재 열애 중 ” 이라고 파파라치 사진 을 공개 했 다 .	O ORG-B O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+결국 은 두뇌 싸움 이 다 ! 천운 이 따르 는지 대표 팀 에 는 4 번 타자 이대호 가 있 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O
+중앙일보 청춘 라디오 는 정강현 청춘 리포트 팀장 과 문화부 김호정 기자 가 공동 진행합니다 .	O O O O PER-B O O O O ORG-B PER-B O O O O O
+한일 김장 대축제 서 직접 김치 담근 아키에 여사	ORG-B O O O O O O PER-B O
+[ 대한민국 뉴 리더십 세우 자 ] 이 란 핵 협상 때 케리 가 현장 재량권 … 日 내각 인사 스가 관방 장관 이 총괄	O O O O O O O ORG-B ORG-I O O O PER-B O O O O ORG-B O O PER-B O O O O
+현재 검찰 수사 를 받 고 있 는 롯데마트 는 과징금 없이 경고 조치 만 했 다 .	O O O O O O O O ORG-B O O O O O O O O O
+김선한 교수 의 직장암 수술 법 은 세계적 표준 으로 사용되 며 수술 용 로봇 다빈치 를 만드 는 인튜이티브사 의 매뉴얼 로 제작돼 있 을 정도 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

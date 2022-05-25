@@ -1,11 +1,11 @@
-특히 5·6·7차 앗 피고 원골프장, 카루이자와 72골프장, 북해도니세코골프 3색 라운드로 다양하+ㄴ 코스에서 아마추어 대회도 예정되어 있다 .	O O LOC-B LOC-I LOC-I LOC-B LOC-I LOC-B LOC-I LOC-I O O O O O O O
-‘생활자금 자동인출’ 특약에 가입하+ㄹ 경우 고객이 지정 하+ㄴ은퇴 시점부터 20년 동안 생활자금을 매년 지급받는다 .	O O O O O O O O O O O O O O O
-강 대사는 그동안 수사 조작설을 주장하+여 말레이시아 정부의 거세+ㄴ 항의를 받아 +았다 .	PER-B O O O O O ORG-B O O O O O O
-쯔엉떤 상 베트남 국가주석과 전대주주 베트남 한국대사, 구본무 LG그룹 회장, 구본준 LG전자 부회장 등 현지 정·관계 인사와 LG 관계자 등 약 400명이 참석하였다 .	O O ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O O O O O ORG-B O O O O O O
-GS칼텍스는 14일 수원 현대건설 전에서 외국인 선수 알렉사 없이 싸우어야 +였다 .	ORG-B O O O O O O PER-B O O O O
-현대차 노조는 지나 +ㄴ 3일간 부분파업에잇어 이날은 1, 2조 근무조가 총 14시간 파업에 들어가 +았다 .	ORG-B ORG-I O O O O O O O O O O O O O O
-시즌제가 정착되 +ㄴ 미국 드라마는 뒤늦게 드라마를 시청하려고 하면 이 전 시즌을 ‘복습’ 하+여야 하는 번거롭 +ㅁ이 있다 .	O O O LOC-B O O O O O O O O O O O O O O O
-승리“태양과 2인조 그룹 준비하던 GD, 빅뱅 결성 싫어하였다 .	PER-B O O O PER-B ORG-B O O O
-박영민은 왜 바그너 ‘탄호이저’를 고르았을까 .	PER-B O PER-B O O O
-지난해 12월 경북 구미에 있는 박정희 대통령 생가화재와 유사하+ㄴ 사건을 대비 하+ㄴ 조치+이다 .	O O LOC-B LOC-B O O O O O O O O O O
-사실 애니메이션하면 아이들의 전유물 같지만 디즈니는 어른, 아이 하+ㄹ 것 없이 모두 즐기 +ㄹ 수 있어 좋아요.” 김성은은 평소 디즈니 영화를 즐기+어보고 방송에서도 여러 차례 디즈니 캐릭터가 그리 +어지+ㄴ의상을 선보이었다 .	O O O O O ORG-B O O O O O O O O O O O PER-B O ORG-B O O O O O ORG-B O O O O O
+특히 5 · 6 · 7 차 앗 피고 원 골프장 , 카루이자와 72 골프장 , 북해도 니세코 골프 3 색 라운드 로 다양한 코스 에서 아마추어 대회 도 예정되 어 있 다 .	O O O O O O O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O
+‘ 생활 자금 자동 인출 ’ 특약 에 가입할 경우 고객 이 지정한 은퇴 시점 부터 20 년 동안 생활 자금 을 매년 지급 받 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강 대사 는 그동안 수사 조작 설 을 주장해 말레이시아 정부 의 거센 항의 를 받 아 왔 다 .	PER-B O O O O O O O O ORG-B O O O O O O O O O O
+쯔엉떤상 베트남 국가주석 과 전대주 주 베트남 한국 대사 , 구본무 LG 그룹 회장 , 구본준 LG 전자 부회장 등 현지 정 · 관계 인사 와 LG 관계자 등 약 400 명 이 참석 했 다 .	PER-B ORG-B O O PER-B O O O O O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I O O O O O O O O ORG-B O O O O O O O O O O
+GS 칼텍스 는 14 일 수원 현대건설 전 에서 외국인 선수 알렉 사 없이 싸 워야 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O PER-B PER-I O O O O O O
+현대차 노조 는 지난 3 일 간 부분 파업 에 이 어 이날 은 1 , 2 조 근무 조 가 총 14 시간 파업 에 들어갔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시즌 제 가 정착된 미국 드라마 는 뒤늦 게 드라마 를 시청하 려고 하 면 이전 시즌 을 ‘ 복습 ’ 해야 하 는 번거로움 이 있 다 .	O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+승리 “ 태양 과 2 인 조 그룹 준비하 던 GD , 빅뱅 결성 싫어 했 다 ”	PER-B O PER-B O O O O O O O PER-B O ORG-B O O O O O
+박영민 은 왜 바그너 ‘ 탄호이저 ’ 를 골 랐 을까 .	PER-B O O PER-B O O O O O O O O
+지난해 12 월 경북 구미 에 있 는 박정희 대통령 생가 화재 와 유사한 사건 을 대비한 조치 다 .	O DAT-B DAT-I LOC-B LOC-B O O O O O O O O O O O O O O O
+사실 애니메이션 하 면 아이 들 의 전유물 같 지만 디즈니 는 어른 , 아이 할 것 없이 모두 즐길 수 있 어 좋 아요 . ” 김성은 은 평소 디즈니 영화 를 즐겨 보 고 방송 에서 도 여러 차례 디즈니 캐릭터 가 그려 진 의상 을 선보 였 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O PER-B O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O

@@ -1,11 +1,11 @@
-김연아-김원중 재결합설, 핑크빛 기류?… 공식 입장 .	PER-B O O O O O O
-추미애 더불어민주당 대표는 11일 “제7차 촛불민심은 더욱 단단하고 결의에 차+았다”면서 “국정 정상화를 위하+여헌재는 탄핵소추를 조기 인용 하+여야 하+ㄴ다”고 주장하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O
-추미애 대표는 이날 자신의 소셜미디어에 “중대 하+ㄴ 헌법 위반을 저지르+ㄴ 박근혜 대통령은 더 이상 헌법을 수호하+ㄹ 자격이 없음이 드러나 +았다”면서 이같이 밝히었다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O O
-추 대표는 “대통령의 반헌법적 태도에 대하+ㄴ 행상 책임을 묻는 탄핵심판의 목적은 빠르+ㄴ 헌정회복에 있음을 헌재에 촉구 하+ㄴ다”면서 “특검도 어떤 장애물도 격파하+ㄴ다는 자세로 신속하고 철저하+ㄴ 수사를 촉구하+ㄴ다”고 강조하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러면서 “임시국회를 속히 열어 국민 불안을 해소하는 데 국회가 앞장서+어야 하+ㄹ 것”이라며 “제7차 촛불민심은 더욱 단단하고 결의에 차+아 있었다 .	O O O O O O O O O O O O O O O O O O O O
-전리듬체조 국가대표 선수이자 현 프로볼링 선수 이+ㄴ 신수지도 볼링공과 볼링핀, 볼링 티셔츠 2개를 기증+였다 .	O O O O O O O PER-B O O O O O O O
-광주 북부경찰서는 31일 벽돌을 던지+어 차량을 파손하+ㄴ 혐의(폭력행위 처벌법 위반)로 서씨에 대하+여구속영장을 신청하였다 .	ORG-B ORG-I O O O O O O O O PER-B O O O
-또 2014년 베니스 건축전에서 황금사자상을 수상하+ㄴ조민석씨, 2013년 세계피겨 선수권대회 여자 싱글 부문 금메달리스트 김연아에게도 각각 대통령 축전이 전달되었다 .	O O LOC-B O O PER-B O O O O O O O PER-B O O O O O
-▲양국은 직통전화를 개설하+ㄴ다 .	O O O O
-삽: 그렇+ 어유.어쨌든 고상 많았구먼 유. 것 +ㄴ그렇구 이번 민주당 대선 후보 경선에서는 어느 짝에다 도장을 누를 생각이 유?안 : 제가 당직능위원장이에요.400개가 넘는 단체를 관리하는 자리 이+ㄴ 데지지 후보를 공개하면 안 되지요. 중립을 지키+어야지요 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-전시실은 모두 8곳이다 .	O O O O
+김연아 - 김원중 재결합 설 , 핑크 빛 기류 ? … 공식 입장 은	PER-B O PER-B O O O O O O O O O O O
+추미애 더불 어 민주당 대표 는 11 일 “ 제 7 차 촛불 민심 은 더욱 단단하 고 결의 에 찼 다 ” 면서 “ 국정 정상화 를 위해 헌재 는 탄핵 소추 를 조기 인용 해야 한다 ” 고 주장 했 다 .	PER-B ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+추미애 대표 는 이날 자신 의 소셜 미디어 에 “ 중대한 헌법 위반 을 저지른 박근혜 대통령 은 더 이상 헌법 을 수호할 자격 이 없 음 이 드러났 다 ” 면서 이같이 밝 혔 다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+추 대표 는 “ 대통령 의 반 헌법 적 태도 에 대한 행상 책임 을 묻 는 탄핵 심판 의 목적 은 빠른 헌정 회복 에 있 음 을 헌재 에 촉구한다 ” 면서 “ 특검 도 어떤 장애물 도 격파한다는 자세 로 신속하 고 철저한 수사 를 촉구한다 ” 고 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 “ 임시 국회 를 속히 열 어 국민 불안 을 해소하 는데 국회 가 앞장서야 할 것 ” 이 라며 “ 제 7 차 촛불 민심 은 더욱 단단하 고 결의 에 차 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전 리듬체조 국가 대표 선수 이 자 현 프로 볼링 선수 인 신수지 도 볼링공 과 볼링핀 , 볼링 티셔츠 2 개 를 기증 했 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+광주 북부 경찰서 는 31 일 벽돌 을 던져 차량 을 파손한 혐의 ( 폭력 행위 처벌 법 위반 ) 로 서 씨 에 대해 구속 영장 을 신청 했 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+또 2014 년 베니스 건축 전 에서 황금 사자 상 을 수상한 조민석 씨 , 2013 년 세계 피겨 선수권 대회 여자 싱글 부문 금메달리스트 김연아 에게 도 각각 대통령 축전 이 전달 됐 다 .	O DAT-B DAT-I LOC-B O O O O O O O O PER-B PER-I O DAT-B DAT-I O O O O O O O O PER-B O O O O O O O O O O
+▲ 양국 은 직통 전화 를 개설한다 .	O O O O O O O O
+삽 : 그류 . 어쨌든 고상 많 았 구먼유 . 건 그렇 구 이번 민주당 대선 후보 경선 에서 는 어느 짝 에다 도장 을 누 를 생각 이유 ? 안 : 제 가 당 직능 위원장 이 에요 . 400 개 가 넘 는 단체 를 관리하 는 자리 인데 지지 후보 를 공개하 면 안 되 지요 . 중립 을 지켜야지 요 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전시실 은 모두 8 곳 이 다 .	O O O O O O O O

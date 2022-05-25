@@ -1,13 +1,13 @@
-한일시멘트 관계자는 “사업적 결정이지만 주민들의 민원을 수렴하+ㄴ 측면도 크다”면서 “민원 때문에 서울지역에서 +ㄴ대체 부지 마련이 거의 불가능하+ㄴ 상황이라 지방이전을 검토하고 있다”고 말하였다 .	ORG-B O O O O O O O O O O LOC-B O O O O O O O O O O O
-특히 24일에는 김정훈이 4이닝1실점으로 호투하였다 .	O O PER-B O O O
-LG는 투수력에서 높은 점수를 받았지만, 장타력이 떨어지고 하위 타선이 약 하+ㄴ점이 한계로 지적되었다 .	ORG-B O O O O O O O O O O O O O
-TED는 강연에 나서는 연사부터 독특하다 .	O O O O O O
-김양건 통일전선부장 및 당비서는 한마디로 북한 대남 업무의 A부터 Z까지 꿰고 있는 베테랑이다 .	PER-B O O O O ORG-B ORG-I ORG-I O O O O O O
-[부고]이재화재민 부친상·박종영장인 .	PER-B PER-B O
-언젠가 TV에서 남북한의 이산가족이 상봉하는 장면을 보고 가슴이 찢어 지+ㄹ듯 아프고 눈물이나 +았습니다 .	O O ORG-B O O O O O O O O O O O
-앞서 +어 교육부는 전교조 법외노조 판결로 전임자 83명에 대하+ㄴ 휴직 근거가 사라지었다며 전임자들의 학교 복귀를 명령하였고, 미복귀자에 대하+여서는 직권면직하도록 시도교육청에 요구하였다 .	O O ORG-B ORG-B O O O O O O O O O O O O ORG-B O O O O O
-공자 철학의 키워드 이+ㄴ이+ㄴ(仁)을 타인에게 제대로 반응하는 능력이자선 하+ㄴ 감정이라고 풀이하였다 .	PER-B O O O O O O O O O O O
-연구팀은 미니실 벗시제품이 완성되면 치매 환자들을 대상으로 임상시험을 진행하+ㄹ 계획이다 .	O O O O O O O O O O O
-또 이달 10일에는 건설업계 최초로 정부로부터 부동산 종합서비스 인증을 받았다 .	O O O O O O O O O O O
-종이접기 아저씨 김영만, 마리텔 출연...하상욱"그때 +ㄴ 참 잘하고 싶었는데 .	O O PER-B O PER-B O O O O O
-인삼공사 관계자는 “3년의 개발 및 임상시험을 거치+어 특허 등록을 마치었다”고 +였다 .	ORG-B O O O O O O O O O O O
+한일시멘트 관계자 는 “ 사업 적 결정 이 지만 주민 들 의 민원 을 수렴한 측면 도 크 다 ” 면서 “ 민원 때문 에 서울 지역 에선 대체 부지 마련 이 거의 불가능한 상황 이 라 지방 이전 을 검토하 고 있 다 ” 고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+특히 24 일 에 는 김정훈 이 4 이닝 1 실점 으로 호투 했 다 .	O DAT-B DAT-I O O PER-B O O O O O O O O O O
+LG 는 투수 력 에서 높 은 점수 를 받 았 지만 , 장타력 이 떨어지 고 하위 타선 이 약한 점 이 한계 로 지적 됐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+TED 는 강연 에 나서 는 연사 부터 독특하 다 .	O O O O O O O O O O O
+김양건 통일 전선 부장 및 당 비서 는 한마디 로 북한 대남 업무 의 A 부터 Z 까지 꿰 고 있 는 베테랑 이 다 .	PER-B O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+[ 부고 ] 이재화 재민 부친상 · 박종영 장인상	O O O PER-B O O O PER-B O
+언젠가 TV 에서 남 북한 의 이산가족 이 상봉하 는 장면 을 보 고 가슴 이 찢어질 듯 아프 고 눈물 이 났 습니다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+앞서 교육부 는 전교조 법 외 노조 판결 로 전임자 83 명 에 대한 휴직 근거 가 사라 졌 다며 전임자 들 의 학교 복귀 를 명령 했 고 , 미 복귀 자 에 대해서 는 직권 면직하 도록 시도 교육청 에 요구 했 다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+공자 철학 의 키 워드 인 인 ( 仁 ) 을 타인 에게 제대로 반응하 는 능력 이 자 선한 감정 이 라고 풀이 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+연구 팀 은 미니 실 벗 시제품 이 완성되 면 치매 환자 들 을 대상 으로 임상 시험 을 진행할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+또 이달 10 일 에 는 건설업 계 최초 로 정부 로부터 부동산 종합 서비스 인증 을 받 았 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+종이 접 기 아저씨 김영만 , 마리 텔 출연 . . . 하상욱 " 그땐 참 잘하 고 싶 었 는데 "	O O O O PER-B O O O O O O O PER-B O O O O O O O O O
+인삼 공사 관계자 는 “ 3 년 의 개발 및 임상 시험 을 거쳐 특허 등록 을 마 쳤 다 ” 고 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O

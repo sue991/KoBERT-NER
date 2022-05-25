@@ -1,12 +1,12 @@
-1980년대만 하+여도 논밭이 있던 작은 시골 마을.마을 앞개울이 서리서리 굽이치+어 흐르+ㄴ다고 하+여서 서래마을로 불리었던 곳.이 마을이 바로 서울의 대표 고급 주거지로 자리매김 하+ㄴ 서초구 반포 4동 일대 서래마을이다 .	O O O O O O O O O O O O LOC-B O O O O LOC-B O O O O O LOC-B LOC-B LOC-I O LOC-B O
-“나이 차이와 상관없이 친구가 되+ㄴ다”는 염정아의 말처럼 김영애는 누구보다 ‘사람’을 좋아하었다 .	O O O O O PER-B O PER-B O O O O
-시간 관련 추가 취업 가능자는 주당 36시간 미만으로 근무하면서 추가 취업을 희망하는 사람을 일컫는다 .	TIM-I O O O O O O O O O O O O O O
-이날 기재부는 국내 기업들의 이란 진출을 돕기 위 하+여 ‘이란 교역·투자지원센터’를 열고 업무를 시작하였다고 밝히었다 .	ORG-B ORG-B O O ORG-B O O O O ORG-B ORG-I O O O O O
-민음사의 대표작 중 하나이+ㄴ ‘세계문학전집’을 바탕으로 삼아 선보이+ㄴ 책들이다 .	ORG-B O O O O O O O O O
-제품이라는 사실을 접하+ㄴ누리꾼들은 관련 기사 댓글 등을 통하+여 최씨가 국민 혈세 이+ㄴ 국가 예산까지 주무르었다는 의혹을 다시 지적하며 “이 신발도 국민의 혈세로 사+았겠죠?”(jn i***)라고 분노하였다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
-한 누리꾼은 최씨가 지나 +ㄴ달 19일 일행 4~5명과 덴마크 올보르그 시내의 한 레스토랑에서 600유로(약 80만원)의 식사를 +였다는 보도가 있었던 것을 언급하며 “나+의 돈으로 명품 신발 신고, 나+의 돈으로 한 끼 80만원짜리 먹고”(lee***) +이라는 댓글로 비난하였다 .	O O PER-B O O O O O LOC-B LOC-B O O O MNY-B MNY-B O O O O O O O O O O O O O O O MNY-B O O O O O
-또 “가지고 있던 신발 중 제일 저렴하고 없어 보이는 신발로 신고 나 오았을 터+이+ㄴ데”(joa***), “갖고 있는 것 중에 저것 +이제 일싸+ㄴ 제품이 +ㄹ 것+ㄹ?”(mat***) 등 댓글로 지나 +ㄴ 26일 최씨가 거주하던 서울 강남구 신사동 자택 신발장에서 대량의 수입 명품 신발들이 발견되+ㄴ 것에 초점을 맞추+ㄴ이들도 있었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O LOC-B LOC-B LOC-B O O O O O O O O O O O O
-한편 이날 오후 3시 검찰에 출석 하+ㄴ 최씨는 서울중앙지검 1층 출입문 앞에 서 울먹이며 “죄송하+ㅂ니다”라고 말하었고, 서울중앙지검 7층 조사실로 향하는 엘리베이터 안에서는 “국민 여러분들 용서 하+여주시+ㅂ시오.죄송하+ㅂ니다”라고 거듭 밝히었다 .	O O O O O O O PER-B LOC-B O O O O O O O LOC-B O O O O O O O O O O O O
-대표팀 관계자는 “중국 등 외국 배드민턴 대표팀은 기업 후원이 일반적이다 .	O O ORG-B O O O O O O O O
-권선택 대전시장 1심서 당선무효 .	PER-B O O O O
-하지만 이날 미션에서 서출구는 얼마 남지 않은 시간에도 고교생 랩퍼에서 마이크를 양보하며 정하+여지+ㄴ 미션을 수행하지 못하+여달락 하+였다 .	O O PER-B PER-B O O O O O PER-B O O O O O O O O
+1980 년대 만 해도 논밭 이 있 던 작 은 시골 마을 . 마을 앞 개울 이 서리서리 굽이쳐 흐른다고 해서 서래 마을 로 불 렸 던 곳 . 이 마을 이 바로 서울 의 대표 고급 주거지 로 자리매김 한 서초구 반포 4 동 일대 서래 마을 이 다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O LOC-B O O O O O O O LOC-B LOC-B LOC-I LOC-I O LOC-B LOC-I O O O
+“ 나이 차이 와 상관없이 친구 가 된다 ” 는 염정아 의 말 처럼 김영애 는 누구 보다 ‘ 사람 ’ 을 좋아 했 다 .	O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O
+시간 관련 추가 취업 가능 자 는 주 당 36 시간 미만 으로 근무하 면서 추가 취업 을 희망하 는 사람 을 일컫 는다 .	O O O O O O O O O TIM-B TIM-I O O O O O O O O O O O O O O
+이날 기재부 는 국내 기업 들 의 이 란 진출 을 돕 기 위해 ‘ 이 란 교역 · 투자 지원 센터 ’ 를 열 고 업무 를 시작 했 다고 밝 혔 다 .	O ORG-B O O O O O LOC-B LOC-I O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O
+민음사 의 대표작 중 하나 인 ‘ 세계 문학 전집 ’ 을 바탕 으로 삼 아 선보인 책 들 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+제품 이 라는 사실 을 접한 누리 꾼 들 은 관련 기사 댓글 등 을 통해 최 씨 가 국민 혈세 인 국가 예산 까지 주물 렀 다 는 의혹 을 다시 지적하 며 “ 이 신발 도 국민 의 혈세 로 샀 겠 죠 ? ” ( jni * * * ) 라고 분노 했 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 누리 꾼 은 최 씨 가 지난 달 19 일 일행 4 ~ 5 명 과 덴마크 올보르 그 시내 의 한 레스토랑 에서 600 유로 ( 약 80 만 원 ) 의 식사 를 했 다는 보도 가 있 었 던 것 을 언급하 며 “ 내 돈 으로 명품 신발 신고 , 내 돈 으로 한 끼 80 만 원 짜리 먹 고 ” ( lee * * * ) 라는 댓글 로 비난 했 다 .	O O O O PER-B O O O O DAT-B DAT-I O O O O O O LOC-B LOC-B LOC-I O O O O O MNY-B MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+또 “ 가지 고 있 던 신발 중 제일 저렴하 고 없 어 보이 는 신발 로 신 고 나 왔 을 텐데 ” ( joa * * * ) , “ 갖 고 있 는 것 중 에 저게 제일 싼 제품 일 걸 ? ” ( mat * * * ) 등 댓글 로 지난 26 일 최 씨 가 거주하 던 서울 강남구 신사동 자택 신발장 에서 대량 의 수입 명품 신발 들 이 발견된 것 에 초점 을 맞춘 이 들 도 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I PER-B O O O O LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+한편 이날 오후 3 시 검찰 에 출석한 최 씨 는 서울중앙지검 1 층 출입문 앞 에서 울먹이 며 “ 죄송합니다 ” 라고 말 했 고 , 서울중앙지검 7 층 조사 실 로 향하 는 엘리베이터 안 에서 는 “ 국민 여러분 들 용서해 주 십시오 . 죄송합니다 ” 라고 거듭 밝 혔 다 .	O O TIM-B TIM-I TIM-I O O O PER-B O O LOC-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대표 팀 관계자 는 “ 중국 등 외국 배드민턴 대표 팀 은 기업 후원 이 일반적 이 다 .	O O O O O ORG-B O O O O O O O O O O O O O
+권선택 대전 시장 1 심 서 당선 무효 형	PER-B O O O O O O O O
+하지만 이날 미션 에서 서 출구 는 얼마 남 지 않 은 시간 에 도 고교생 랩퍼 에서 마이크 를 양보하 며 정해 진 미션 을 수행하 지 못해 달 락 했 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O

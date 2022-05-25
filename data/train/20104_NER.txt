@@ -1,13 +1,13 @@
-하지만 수준 높은 팀이 +ㄴ 레버쿠젠을 반드시 꺾겠다＂며 옛정에 휘둘리지 않겠다는 각오를 보이었다 .	O O O O O ORG-B O O O O O O O O
-7∼9일 ‘펜타포트’ 연계상품 내놓+아… 국내외 록 마니아 10만명 방문 예 .	O O O O O O O O O O O
-해수부는 검찰과 권익위 조사 결과가 나오+ㄹ 때까지 임 과장을 대기발령 하+ㄹ 것으로 알려지었다 .	ORG-B O ORG-B O O O O O O O O O O O
-잇어서+어 상무는 ＂동아리 활동도 직무와 맞게 지원 하+여야 하+ㄴ다”고 덧붙이었다 .	PER-B O O O O O O O O O O
-이골은 정조국의 K리그 개인 통산 100호골이었다 .	O PER-B ORG-B O O O O
-이번 회의는 지난해 10월 전국시도지사협의회의 9대 회장을 맡은 유정복 인천시장의 적극적 이+ㄴ 노력의 결실이다 .	O O O O ORG-B O O O PER-B O O O O O O
-복면가 왕우체통, 린으로 밝혀지+어… 정체 숨기기 위 하+여창법까지 바꾸었 .	PER-B PER-I PER-B O O O O O O O
-기준은 ▶ 지지도 여론조사(35%)▶ 의정활동 및 공약이행(35%) ▶ 지역 내 광역·기초의원 당선 등 선거 기여도(10%) ▶ 지역구 활동(10%)▶상임위 의원간다면평가(10%) 등이다 .	O O O O O O O O O O O O O O O O O O O O O
-[현장 취재] 서울대중교통에 새 바람?콜 버스-쿱택시 실 .	O O LOC-B O O O O O
-‘이재용 삼성’은 장기간의 성공신화 뒤에 가려지었던 오만이나 방심, 관료주의, 기술경시 같은 그늘이 있다면 개혁의 메스를 들이대+ㄹ 필요가 있다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O
-이 박사의 생애는 전부가 미 정책에 반대하+여싸우는데 바치었기 때문이다 』고 말하였다 .	PER-B O O O O O O O PER-B O O O
-오타니는 시속 160km의 강속구에 140km 대 중반의 ‘고속포크볼’까지 던지는 일본 최정상급 투수+이다 .	PER-B O O O O O O O O ORG-B O O O
-이라크 정부는 “깜짝 놀라 +ㄹ 신무기로 작전을 단기간에 성공시키+ㄹ 것”이라고 말하였다 .	ORG-B ORG-I O O O O O O O O O O
+하지만 수준 높 은 팀 인 레버쿠젠 을 반드시 꺾 겠 다 ＂ 며 옛정 에 휘둘리 지 않 겠 다는 각오 를 보 였 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+7 ∼ 9 일 ‘ 펜 타 포트 ’ 연계 상품 내놔 … 국내외 록 마니아 10 만 명 방문 예상	O O O O O O O O O O O O O O O O O O O O O
+해수 부 는 검찰 과 권익 위 조사 결과 가 나올 때 까지 임 과장 을 대기 발령할 것 으로 알려 졌 다 .	ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+이 어 서 상무 는 ＂ 동아리 활동 도 직무 와 맞 게 지원해야 한다 ” 고 덧붙 였 다 .	O O PER-B O O O O O O O O O O O O O O O O O O
+이 골 은 정조국 의 K 리그 개인 통산 100 호 골 이 었 다 .	O O O PER-B O ORG-B ORG-I O O O O O O O O O
+이번 회의 는 지난해 10 월 전국 시도 지사 협의회 의 9 대 회장 을 맡 은 유정복 인천 시장 의 적극적 인 노력 의 결실 이 다 .	O O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O O O PER-B O O O O O O O O O O O
+복면 가왕 우체통 , 린 으로 밝혀져 … 정체 숨기 기 위해 창법 까지 바 꿨 다	PER-B PER-I PER-I O PER-B O O O O O O O O O O O O
+기준 은 ▶ 지지 도 여론 조사 ( 35 % ) ▶ 의정 활동 및 공약 이행 ( 35 % ) ▶ 지역 내 광역 · 기초 의원 당선 등 선거 기여 도 ( 10 % ) ▶ 지역구 활동 ( 10 % ) ▶ 상임위 의원 간 다면 평가 ( 10 % ) 등 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 현장 취재 ] 서울 대중교통 에 새 바람 ? 콜버스 - 쿱 택시 실험	O O O O LOC-B O O O O O O O O O O
+‘ 이재용 삼성 ’ 은 장기간 의 성공 신화 뒤 에 가려 졌 던 오만 이나 방심 , 관료주의 , 기술 경시 같 은 그늘 이 있 다면 개혁 의 메스 를 들이댈 필요 가 있 다 .	O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 박사 의 생애 는 전부 가 미 정책 에 반대해 싸우 는 데 바 쳤 기 때문 이 다 』 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+오타니 는 시속 160 km 의 강속구 에 140 km 대 중반 의 ‘ 고속 포크볼 ’ 까지 던지 는 일본 최 정상급 투수 다 .	PER-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O
+이라크 정부 는 “ 깜짝 놀랄 신무기 로 작전 을 단기간 에 성공 시킬 것 ” 이라고 말 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O

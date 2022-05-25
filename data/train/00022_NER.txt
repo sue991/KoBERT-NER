@@ -1,15 +1,15 @@
-25일 오후 조선왕릉 9개가 있는 경기 구리시 동구릉에 ‘마루’가 나타나 +았다 .	O O ORG-B O O LOC-B LOC-B LOC-B PER-B O O O
-최은영 “추가 사재 출연 어렵다” … 누리꾼 “책임지기 싫단 소리… 참비싸+ㄴ 눈물 .	PER-B O O O O O O O O O O O O
-신건 전 국정원장, 별세… 최장기 국정원장 지내+었 .	PER-B O O O O O O O
-3.3 터보, 3.8, 5.0의 세 가지 트림 중에서 +ㄴ 3.8L 엔진(60%)을 선택하+ㄴ 소비자가 가장 많았다 .	O O O O O O O O O O O O O O O O
-파이낸셜타임스(FT)는 2일(현지시간) 소식통을 인용 미 국가안보국(NSA)이 대북정책과 관련 하+ㄴ 검토 작업을 마무리하였다고 보도하였다 .	ORG-B O O O ORG-B ORG-B O O O O O O O O
-이창용 IMF 아시아태평양국장(사진)은 5일 오후(현지시간) 뉴욕 맨해튼 코리아 소사이어티에서 열리+ㄴ ‘아시아태평양 지역 경제 전망’ 포럼 강연에서 “한국에서 벌어지고 있는 메르스 사태가 아시아 경제에 어떤 영향을 주+ㄹ 것으로 보이는가” +이라는 질문에 이렇게 답하였다 .	PER-B ORG-B LOC-B O O LOC-B LOC-I LOC-I LOC-I O LOC-B O O O O O LOC-B O O O O LOC-B O O O O O O O O O O O
-한은 김시담 이사는 『 과열은커녕 제조업과 설비투자가 주도하는 견실하+ㄴ 성장세』라고 진단하였다 .	ORG-B PER-B O O O O O O O O O O
-상반기에만 3만8867 대가 팔리+어싼타페(3만7606대)를 제치고 국산차 SUV 판매 1위를 기록 중이다 .	O O O O O O O O O O O O
-16일 KBS쿨 FM '슈퍼주니어의 키스더 라디오'에 출연하+여단체 라이브로 가창력을 검증받았다 .	O O O O O O O O O O O
-신구항에서 7.5km 떨어지+ㄴ 이곳은 둘레 6.14km, 면적 1.22km ²에 불과하+ㄴ초승달 모양의 작고 아름답ㄴ섬이었다 .	LOC-B O O O O O O O O O O O O O
-그런데 지금까지 환경부는 "다른 부처가 관리하는 제품은 자료 요청 권한이 없다"는 입장을 보이+어오았습니다 .	O O ORG-B O O O O O O O O O O O
-지성환 독주!지존 시대를 열다 .	PER-B O O O O
-◆독립유공자·유적지 지원하는 정기예·적금=‘대한민국 만세정기예금 및 적금’이 지나 +ㄴ 3월 출시하+ㄴ이후 꾸준하+ㄴ인기를 모으고 있다 .	O O O O O O O O O O O O O O
-100여명의 직원 중 저출산 담당만 20~30명에 달하며 주변국 사례도 적극 벤치마킹하고 있다 .	O O O O O O O O O O O O O
-독일 뒤 스부르크-에센 대학 자동차 연구소의 페르디난트 두덴회퍼 소장은 “폴크스바겐의 경우 다른 자동차 회사와 전혀 다르다”고 설명하였다 .	ORG-B O O O O O PER-B PER-I O ORG-B O O O O O O O O
+25 일 오후 조선 왕릉 9 개 가 있 는 경기 구리시 동구릉 에 ‘ 마루 ’ 가 나타났 다 .	DAT-B DAT-I O ORG-B O O O O O O LOC-B LOC-B LOC-B O O PER-B O O O O O
+최은영 “ 추가 사재 출연 어렵 다 ” … 누리 꾼 “ 책임지 기 싫 단 소리 … 참 비싼 눈물 ”	PER-B O O O O O O O O O O O O O O O O O O O O O
+신건 전 국정원 장 , 별세 … 최장기 국정원 장 지냈 다	PER-B O O O O O O O O O O O
+3.3 터보 , 3.8 , 5.0 의 세 가지 트림 중 에선 3.8 L 엔진 ( 60 % ) 을 선택한 소비자 가 가장 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+파이낸셜타임스 ( FT ) 는 2 일 ( 현지 시간 ) 소식통 을 인용 미 국가 안보 국 ( NSA ) 이 대북 정책 과 관련한 검토 작업 을 마무리 했 다고 보도 했 다 .	ORG-B O ORG-B O O DAT-B DAT-I O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O
+이창용 IMF 아시아 태평양 국 장 ( 사진 ) 은 5 일 오후 ( 현지 시간 ) 뉴욕 맨해튼 코리아 소사이어티 에서 열린 ‘ 아시아 태평양 지역 경제 전망 ’ 포럼 강연 에서 “ 한국 에서 벌어지 고 있 는 메르스 사태 가 아시아 경제 에 어떤 영향 을 줄 것 으로 보이 는가 ” 라는 질문 에 이렇 게 답 했 다 .	PER-B ORG-B O O O O O O O O DAT-B DAT-I O O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O LOC-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+한은 김시담 이사 는 『 과열 은 커녕 제조업 과 설비 투자 가 주도하 는 견실한 성장세 』 라고 진단 했 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O
+상반기 에 만 3 만 8867 대 가 팔려 싼타페 ( 3 만 7606 대 ) 를 제치 고 국산 차 SUV 판매 1 위 를 기록 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+16 일 KBS 쿨 FM ' 슈퍼 주니어 의 키스 더 라디오 ' 에 출연해 단체 라이브 로 가창력 을 검증 받 았 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+신구 항 에서 7.5 km 떨어진 이곳 은 둘레 6.14 km , 면적 1.22 km ² 에 불과한 초승달 모양 의 작 고 아름다 운 섬 이 었 다 .	LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그런데 지금 까지 환경부 는 " 다른 부처 가 관리하 는 제품 은 자료 요청 권한 이 없 다 " 는 입장 을 보 여 왔 습니다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+지성환 독주 ! 지존 시대 를 열 다 .	PER-B O O O O O O O O
+◆ 독립 유공자 · 유적지 지원하 는 정기 예 · 적금 = ‘ 대한민국 만세 정기 예금 및 적금 ’ 이 지난 3 월 출시한 이후 꾸준한 인기 를 모으 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+100 여 명 의 직원 중 저 출산 담당 만 20 ~ 30 명 에 달하 며 주변 국 사례 도 적극 벤치마킹 하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+독일 뒤스부르크 - 에센 대학 자동차 연구소 의 페르디난트 두덴 회퍼 소장 은 “ 폴크스바겐 의 경우 다른 자동차 회사 와 전혀 다르 다 ” 고 설명 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O PER-B PER-I PER-I O O O ORG-B O O O O O O O O O O O O O O O

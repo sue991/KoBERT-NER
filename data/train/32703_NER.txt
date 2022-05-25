@@ -1,13 +1,13 @@
-소프트뱅크에 남는 것+이 안정적 이+ㄴ 선택이겠지만 이대호의 시선은 미국을 향하고 있다 .	ORG-B O O O O O PER-B O ORG-B O O O
-특히, 서울 소공동 본점과 연결되+ㄴ 영플라자 외벽에는 어둡 ㄴ도시를 환하게 밝히는 ‘미디어 파사드’를 설치하였다 .	O LOC-B LOC-I O O O O O O O O O O O O
-범종추는 진정하+ㄴ 종단개혁을 위하+여서는 ▲승풍 확립 ▲법과 제도개혁 ▲ 인물 교체 등 최소한 세 가지 목표가 달성되+어야 하+ㄴ다고 주장 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-그룹 주력이 +ㄴ GS칼텍스에서 +ㄴ 기존에너지 중심의 사업 포트폴리오를 화학 분야로까지 넓히+어가는 작업이 한창이다 .	O O O ORG-B O O O O O O O O O O O
-같은 기간 사망자와 부상자도 각각 11.3%, 18.2% 증가하였다 .	O O O O O O O O O
-남자 대표팀도 한일 정기 전에서 29-24로 승리하며 정기 전 8연승을 잇어 +가았다 .	O O O O O O O O O O O O O
-벤츠코리아 네트워크 개발부 이상 국 상무는 “포항 전시장 및 서비스센터를 확장 이전 하+ㅁ으로써 포항은 물론 경북지역 고객들에게 다양하고 우수하+ㄴ 제품과 서비스를 제공하게 +었다”면서 “전국에서 여섯 번째, 대구경북 지역에서 최초 스타클래스 인증 중고차 전시장도 함께 열어 다양하+여지는 고객층을 만족시키+ㄹ 수 있는 벤츠로 나아가도록 노력하겠다”고 말하였다 .	ORG-B ORG-I ORG-I O O O LOC-B O O O O O O LOC-B O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O ORG-B O O O O
-7월 16일 열리는 첫 번째 강연에는 ‘종의 기원’과 ‘7년의 밤’ 등의 작가 정유정이 ‘우리는 왜 인간 본성의 악을 주목하+ 여야 하는가’를 주제로 강연하+ㄴ다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O
-지나+ㄴ 2013년 2일 18대 대통령에 취임하+여집을 나선지 1467일 만의 귀가다 .	O O O O O O O O O O O
-1, 2주의 단기간에 해외 MBA 학생들과 교류하며 집중 강의를 듣고 학점까지 취득 하+ㄹ 수 있는 단기 교환학생 프로그램도 운영하고 있다 .	O O O O O O O O O O O O O O O O O O O O O
-우 원내대표는 2002년 대선 후보 경선 당시 ‘노무현 후보의 경선을 돕아달라’는 안 지사의 요청을 받고 고향이+ㄴ 철원지역에서 2박3일 유세를 진행하기도 +였다 .	PER-B O O O O O O PER-B O O O O O O O O LOC-B O O O O O
-오씨는 이날 법률대리인이+ㄴ 박창한 변호사를 통하+여 “메이저리그 및 일본 구단과의 계약을 앞두고 있는 상황에서 빨리 의혹에서 벗어나고 싶다 .	PER-B O O PER-B O O O O LOC-B O O O O O O O O O O
-남녀 공용 제품으로 블랙, 레드 두 가지 색상으로 출시되었으며, 가격은 7만8000원.‘플로레’는 여성용 스포츠 샌들로 풋베드에 탄성이 좋은 파일론 소재와 고무 창을 적용하+여가볍고 쿠셔닝이 좋아 편안하게 신을 수 있다 .	O O O O O O O O O O MNY-B O O O O O O O O O O O O O O O O O O
+소프트뱅크 에 남 는 게 안정적 인 선택 이 겠 지만 이대호 의 시선 은 미국 을 향하 고 있 다 .	ORG-B O O O O O O O O O O PER-B O O O ORG-B O O O O O O
+특히 , 서울 소공동 본점 과 연결된 영 플라자 외벽 에 는 어두 운 도시 를 환하 게 밝히 는 ‘ 미디어 파사드 ’ 를 설치 했 다 .	O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O
+범종 추 는 진정한 종단 개혁 을 위해서 는 ▲ 승풍 확립 ▲ 법 과 제도 개혁 ▲ 인물 교체 등 최소한 세 가지 목표 가 달성돼야 한다고 주장한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그룹 주력 인 GS 칼텍스 에선 기존 에너지 중심 의 사업 포트폴리오 를 화학 분야 로 까지 넓혀 가 는 작업 이 한창 이 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+같 은 기간 사망자 와 부상자 도 각각 11.3 % , 18.2 % 증가 했 다 .	O O O O O O O O O O O O O O O O O
+남자 대표 팀 도 한일 정기전 에서 29 - 24 로 승리하 며 정기전 8 연승 을 이 어 갔 다 .	O O O O O O O O O O O O O O O O O O O O O O
+벤츠 코리아 네트워크 개발 부 이상국 상무 는 “ 포항 전시장 및 서비스 센터 를 확장 이전함 으로써 포항 은 물론 경북 지역 고객 들 에게 다양하 고 우수한 제품 과 서비스 를 제공하 게 됐 다 ” 면서 “ 전국 에서 여섯 번째 , 대구 경북 지역 에서 최초 스타 클래스 인증 중고차 전시장 도 함께 열 어 다양해 지 는 고객 층 을 만족 시킬 수 있 는 벤츠 로 나아가 도록 노력하 겠 다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I PER-B O O O LOC-B O O O O O O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+7 월 16 일 열리 는 첫 번째 강연 에 는 ‘ 종 의 기원 ’ 과 ‘ 7 년 의 밤 ’ 등 의 작가 정유 정 이 ‘ 우리 는 왜 인간 본성 의 악 을 주목해야 하 는가 ’ 를 주제 로 강연한다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+지난 2013 년 2 일 18 대 대통령 에 취임해 집 을 나선지 1467 일 만 의 귀가 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+1 , 2 주 의 단기간 에 해외 MBA 학생 들 과 교류하 며 집중 강의 를 듣 고 학점 까지 취득할 수 있 는 단기 교환 학생 프로그램 도 운영하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우 원내 대표 는 2002 년 대선 후보 경선 당시 ‘ 노무현 후보 의 경선 을 도 와 달 라 ’ 는 안 지사 의 요청 을 받 고 고향 인 철원 지역 에서 2 박 3 일 유세 를 진행하 기 도 했 다 .	PER-B O O O DAT-B DAT-I O O O O O PER-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+오 씨 는 이날 법률 대리인 인 박창한 변호사 를 통해 “ 메이저 리그 및 일본 구단 과 의 계약 을 앞두 고 있 는 상황 에서 빨리 의혹 에서 벗어나 고 싶 다 .	PER-B O O O O O O PER-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+남녀 공용 제품 으로 블랙 , 레드 두 가지 색상 으로 출시 됐 으며 , 가격 은 7 만 8000 원 . ‘ 플로 레 ’ 는 여성 용 스포츠 샌들 로 풋 베드 에 탄성 이 좋 은 파일론 소재 와 고무창 을 적용해 가볍 고 쿠셔닝 이 좋 아 편안하 게 신 을 수 있 다 .	O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

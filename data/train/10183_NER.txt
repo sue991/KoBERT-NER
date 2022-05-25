@@ -1,13 +1,13 @@
-그러나 김한솔로 의심되는 남성이 내국인 입국 게이트에서 나오자 약간의 소동이 있었다고 더 스타는 전하였다 .	O PER-B O O O O O O O O O O O O O
-자연주의 출산에세이『 모든 출산은 기적이 +ㅂ니다』 가 출간되었다 .	O O O O O O O O O
-[Culturediary] 편지를 통하+여드러나는 15년 전 사건의 진 .	O O O O O O O O
-대전 대덕경찰서가 대전지역 경찰서 가운데 처음으로 다문화 주제의 인권영화를 자체 제작 하+여이주여성 및 관내 거주 외국인들의 범죄예방 교육에 활용하고 있다 .	LOC-B ORG-B LOC-B ORG-I O O O O O O O O O O O O O O O O O
-옥시는 처벌을 피하기 위하+여 2011년 말 기존 법인을 청산하고 새 법인을 설립하였는가 하면, 유해성 여부 실험을 자사 측에 유리하게 꾸미기 위하+ 여 교수들에게 돈을 +었다는 정황도 나오았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또 국내 바둑계의 입신 중의 입신을 가리는 ‘맥심 커피 배입신 최강전’을 후원하고 ‘동서식품 장학회’ ‘맥심사랑의 향기’ 등 다양하+ㄴ문화자산 후원 프로그램을 마련하+여지원하는 등 문화예술 사회공헌활동에 앞장서고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또 지난해 한류로 인하+ㄴ문화콘텐츠, 소비재 및 관광수출액 추정치는 61억6000만달러로 전년 대비 8.4% 늘었다 .	O O O O O O O O MNY-B O O O O O
-므라욱 우의 고고학박물관에서 포르투갈 유물을 확인하기란 어렵지 않다 .	O O O LOC-B O O O O O
-‘기억’ 김지수, 이성민 지갑 속에서 전처 박진희와 아들 사진 발 .	O PER-B PER-B O O O PER-B O O O O
-지난해에 비하+여 평균 14분 늘어나 +았다 .	O O O O O O O
-알레포에 공습이 쏟아지+ㄴ 지난해 말께 바나가 갑자기 트위터 활동을 멈추+ 어죽었을지도 모르+ㄴ다는 소식이 온라인으로 퍼지었다 .	LOC-B O O O O PER-B O O O O O O O O O O
-[중앙은행 오디세이]껍데기만 남은 조선은 금본위제의 변방이자 이단아+이었 .	O O O ORG-B O O O O
-“김정은 집권 이후 평양의 변화를 보려면 저녁에 젊은이들로 붐비는 개선 청년공원이나 능라 유원지에 가+아보면 되+ㄴ다 .	PER-B O O LOC-B O O O O O LOC-B LOC-I LOC-B LOC-I O O O
+그러나 김한솔 로 의심되 는 남성 이 내국인 입국 게이트 에서 나오 자 약간 의 소동 이 있 었 다고 더 스타 는 전 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+자연주의 출산 에세이 『 모든 출산 은 기적 입니다 』 가 출간 됐 다 .	O O O O O O O O O O O O O O O
+[ Culture diary ] 편지 를 통해 드러나 는 15 년 전 사건 의 진실	O O O O O O O O O O O O O O O
+대전 대덕 경찰서 가 대전 지역 경찰서 가운데 처음 으로 다 문화 주제 의 인권 영화 를 자체 제작해 이주 여성 및 관내 거주 외국인 들 의 범죄 예방 교육 에 활용하 고 있 다 .	LOC-B ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+옥시 는 처벌 을 피하 기 위해 2011 년 말 기존 법인 을 청산하 고 새 법인 을 설립 했 는가 하 면 , 유해성 여부 실험 을 자사 측 에 유리하 게 꾸미 기 위해 교수 들 에게 돈 을 줬 다는 정황 도 나 왔 다 .	ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 국내 바둑 계 의 입신 중 의 입신 을 가리 는 ‘ 맥심 커피 배 입신 최강 전 ’ 을 후원하 고 ‘ 동서식품 장학 회 ’ ‘ 맥심 사랑 의 향기 ’ 등 다양한 문화 자산 후원 프로그램 을 마련해 지원하 는 등 문화 예술 사회 공헌 활동 에 앞장서 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 지난해 한류 로 인한 문화 콘텐츠 , 소비재 및 관광 수출액 추정 치 는 61 억 6000 만 달러 로 전년 대비 8.4 % 늘 었 다 .	O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O
+므라욱우 의 고고학 박물관 에서 포르투갈 유물 을 확인하 기 란 어렵 지 않 다 .	LOC-B O O O O LOC-B O O O O O O O O O O
+‘ 기억 ’ 김지수 , 이성민 지갑 속 에서 전처 박진희 와 아들 사진 발견	O O O PER-B O PER-B O O O O PER-B O O O O
+지난해 에 비해 평균 14 분 늘어났 다 .	O O O O O O O O O
+알레포 에 공습 이 쏟아진 지난해 말 께 바 나가 갑자기 트위터 활동 을 멈춰 죽 었 을지 도 모른다는 소식 이 온라인 으로 퍼 졌 다 .	LOC-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+[ 중앙은행 오디세이 ] 껍데기 만 남 은 조선 은 금 본위제 의 변방 이 자 이단아 였 다	O O O O O O O O ORG-B O O O O O O O O O O
+“ 김정은 집권 이후 평양 의 변화 를 보 려면 저녁 에 젊은이 들 로 붐비 는 개선 청년 공원 이나 능라 유원지 에 가 보 면 된다 .	O PER-B O O LOC-B O O O O O O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I O O O O O O

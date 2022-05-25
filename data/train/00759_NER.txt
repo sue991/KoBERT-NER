@@ -1,13 +1,13 @@
-지나+ㄴ9월에는 프리미엄 시네마토털 솔루션을 구현하+ㄴ MX관을 론칭 하+여 어느 좌석에서나 밝고 선명하+ㄴ 화질로 영화를 관람하+ㄹ 수 있도록 +였다 .	O O O O O O O O O O O O O O O O O O O
-그 대신 △왜 대북제재는 제대로 작동하지 않는지 △도대체 북한은 어디를 향하+여가는 것이 +ㄴ지에 대하+ㄴ 질문을 쏟아내 +었다 .	O O O O O O O O ORG-B O O O O O O O O O
-이 보고서에 따르면 2030년 인력이 가장 부족하+ㄴ 직종은 간호사다 .	O O O O O O O O O O
-4·13 총선에서 부실 여론조사로 인하+ㄴ각종 문제점이 드러나면서 중앙선거관리위원회(위원장이인복)가 선거 여론조사를 하+ㄹ 수 있는 업체를 제한하는 방안을 검토 중 이+ㄴ 것으로 28일 알려지었다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O
-프테라노 돈의 비행막은 두께가 1㎜에 불과하다 .	O O O O O O O
-하림은 당일 배송을 서울지역을 중심으로 시범 운영 후 향후 전국적으로 확대하+여나가 +ㄴ다는 계획이다 .	ORG-B O O LOC-B O O O O O O O O O O
-철강 전 품목에 대하+여 10% 이상 크+ㄴ폭의 가격 인상을 포스코가 공지하+ㄴ 것은 이례적이다 .	O O O O O O O O O ORG-B O O O O
-파파야고 나은 고낫은 이 배우로 전향 하+ㄹ 때의 일화가 다시 화제+이다 .	ORG-B PER-I PER-I O O O O O O O O O
-1세대 걸그룹이 +ㄴ '파파야'의 멤버 고나은은 가수 활동을 시작하기 전부터 배우가 꿈이었다 .	O O O ORG-B O PER-B O O O O O O O
-그는 과거 한 매체와의 인터뷰에서 "가수로 연예계에 데뷔하기 전에 배우를 지망하였다 .	O O O O O O O O O O O O
-한편 시흥배곧신도시 EGthe12차 에듀그린는 실수요자들이 선호하는 전용 85㎡ 이하 중소형 평형으로만 구성되 +ㄴ다 .	O LOC-B LOC-B LOC-I O O O O O O O O O O
-나씨 측 주장은 나씨 메모에 의하+ㄴ 것”이라고 반박하였다 .	PER-B O O PER-B O O O O O
-이에 재판부는 양측에 생활비 송금 내역 등이 담기 +ㄴ 계좌 자료 제출을 요구하였다 .	O O O O O O O O O O O O O O
+지난 9 월 에 는 프리미엄 시네마 토털 솔루션 을 구현한 MX 관 을 론칭 해 어느 좌석 에서 나 밝 고 선명한 화질 로 영화 를 관람할 수 있 도록 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 대신 △ 왜 대북 제재 는 제대로 작동하 지 않 는지 △ 도대체 북한 은 어디 를 향해 가 는 것 인지 에 대한 질문 을 쏟 아 냈 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+이 보고서 에 따르 면 2030 년 인력 이 가장 부족한 직종 은 간호사 다 .	O O O O O DAT-B DAT-I O O O O O O O O O
+4 · 13 총선 에서 부실 여론조사 로 인한 각종 문제점 이 드러나 면서 중앙선거관리위원회 ( 위원장 이인복 ) 가 선거 여론 조사 를 할 수 있 는 업체 를 제한하 는 방안 을 검토 중 인 것 으로 28 일 알려 졌 다 .	O O O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+프테라노돈 의 비행 막 은 두께 가 1 ㎜ 에 불과하 다 .	O O O O O O O O O O O O O
+하림 은 당일 배송 을 서울 지역 을 중심 으로 시범 운영 후 향후 전국적 으로 확대해 나간다는 계획 이 다 .	ORG-B O O O O LOC-B O O O O O O O O O O O O O O O O
+철강 전 품목 에 대해 10 % 이상 큰 폭 의 가격 인상 을 포스코 가 공지한 것 은 이례적 이 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O
+파파야 고나 은고 나 은 이 배우 로 전향할 때 의 일화 가 다시 화제 다 .	ORG-B PER-B PER-I PER-I PER-I O O O O O O O O O O O O
+1 세대 걸 그룹 인 ' 파파야 ' 의 멤버 고나 은은 가수 활동 을 시작하 기 전 부터 배우 가 꿈 이 었 다 .	O O O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O
+그 는 과거 한 매체 와 의 인터뷰 에서 " 가수 로 연예계 에 데뷔하 기 전 에 배우 를 지망 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+한편 시흥 배곧 신도시 EG the 1 2 차 에듀 그린 는 실수요자 들 이 선호하 는 전용 85 ㎡ 이하 중소형 평형 으로 만 구성된다 .	O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O
+나 씨 측 주장 은 나 씨 메모 에 의한 것 ” 이라고 반박 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O
+이 에 재판부 는 양측 에 생활비 송금 내역 등 이 담긴 계좌 자료 제출 을 요구 했 다 .	O O O O O O O O O O O O O O O O O O O O

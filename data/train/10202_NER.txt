@@ -1,11 +1,11 @@
-수도권에서 한 해 죽는 사람이 10만명 내외이기 때문에 1만5천명이란 숫자는 매우 크+ㄴ 수+이다 .	LOC-B O O O O O O O O O O O O O
-한국메나리니는 앞으로 소비자에게 손발톱 건강의 중요성을 알리고, 손발톱 무좀 등 관련 질환의 관리와 치료법을 전하는 다양하+ㄴ 활동을 펼치+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-NC의 특명 ‘장현식기를 살리+어라! .	ORG-B O PER-B O O
-지난해 4월 ‘클라우드’로 맥주산업에 진출하+ㄴ지 약 1년 만에 거두+ㄴ 성과 +이다 .	O O O O O O O O O O O O
-미국 연예매체 스플래쉬 닷컴은 17일(현지시간) 미국 플로리다 주 마이애미 해변에서 물놀이 중이+ㄴ바네 사후 펜코텐의 모습을 전하였다 .	LOC-B O ORG-B ORG-I O LOC-B O O O O O O O O O O O
-이제 kt 젊은 투수들이 이에 응답하+ㄹ 때 +이다 .	O ORG-B O O O O O O O
-노령층 관광객들은 성륜사, 태안사 등 사찰이나 막걸리를 빚는 곡성·죽곡 주조장을 둘러보는 것을 좋아하+ㄴ다 .	O O LOC-B LOC-B O O O O LOC-B O O O O O
-NC는 16일까지 좌완상대타율 0.303으로 이 부문 1위를 달리고 있다 .	ORG-B O O O O O O O O O
-물론 요즘은 4색 잉크 제품도 충분히 고품질 사진을 뽑을 수 있습니다만, 그리 하+여도 6색 잉크에는 미치지 못하죠.30만원대 이하에서 추천하+ㄹ만 하+ㄴ 제품은 이하 2가지 이+ㅂ니다 .	O O O O O O O O O O O O O O O O MNY-B O O O O O O O O
-캐논 PIXMAG3900 프린트 외에 스캔, 복사까지 가능하+ㄴ 복합기 형식의 제품으로, 4색 무한잉크통까지 탑재하였습니다 .	O O O O O O O O O O O O O O
-박 의원이 탈당하면서 그의 국회 교육문화체육관광위원장(교문위원장) 직도 논란거리+이다 .	PER-B O O O O O O O O
+수도권 에서 한 해 죽 는 사람 이 10 만 명 내외 이 기 때문 에 1 만 5 천 명 이 란 숫자 는 매우 큰 수 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 메나리 니 는 앞 으로 소비자 에게 손발톱 건강 의 중요성 을 알리 고 , 손발톱 무좀 등 관련 질환 의 관리 와 치료법 을 전하 는 다양한 활동 을 펼칠 예정 이 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+NC 의 특명 ‘ 장현식 기 를 살려라 ! ’	ORG-B O O O PER-B O O O O O
+지난해 4 월 ‘ 클라우드 ’ 로 맥주 산업 에 진출한 지 약 1 년 만 에 거둔 성과 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+미국 연예 매체 스플래쉬 닷컴 은 17 일 ( 현지 시간 ) 미국 플로리다주 마이애미 해변 에서 물놀이 중 인 바네사 후펜코텐 의 모습 을 전 했 다 .	LOC-B O O ORG-B ORG-I O DAT-B DAT-I O O O O LOC-B LOC-I LOC-I O O O O O PER-B PER-I O O O O O O O
+이제 kt 젊 은 투수 들 이 이 에 응답할 때 다 .	O ORG-B O O O O O O O O O O O
+노령 층 관광객 들 은 성 륜 사 , 태안사 등 사찰 이나 막걸리 를 빚 는 곡성 · 죽 곡 주조장 을 둘러보 는 것 을 좋아한다 .	O O O O O LOC-B LOC-I LOC-I O LOC-B O O O O O O O LOC-B O LOC-B LOC-I O O O O O O O O
+NC 는 16 일 까지 좌완 상대 타율 0.303 으로 이 부문 1 위 를 달리 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O
+물론 요즘 은 4 색 잉크 제품 도 충분히 고품질 사진 을 뽑 을 수 있 습니다 만 , 그래도 6 색 잉크 에 는 미치 지 못하 죠 . 30 만 원 대 이하 에서 추천 할 만한 제품 은 이하 2 가지 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+캐논 PIXMA G 3900 프린트 외 에 스캔 , 복사 까지 가능한 복합 기 형식 의 제품 으로 , 4 색 무한 잉크통 까지 탑재 했 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 의원 이 탈당 하 면서 그 의 국회 교육 문화 체육 관광 위원장 ( 교문 위원장 ) 직도 논란거리 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O

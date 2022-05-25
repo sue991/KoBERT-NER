@@ -1,14 +1,14 @@
-불과 한 달 전만 하+여도 버니 샌더스 상원의원(버몬트)과 최고 48%포인트(에머슨 조사)까지 벌어지었던 뉴욕 주 지지율 격차가 일부 조사에서 6%포인트(그래비스 조사)까지 좁히+어지+ㄴ 것으로 나오았기 때문이다 .	O O O O O PER-B PER-I LOC-B O ORG-B O O O O O O O O ORG-B O O O O O O
-앞서 +ㄴ 회담에서 일본이 제의 하+ㄴ 내용, 이에 대하+ㄴ상대국의 반응 등을 면밀히 검토 ­ 분석하는 것이 필수적이다 .	O O O ORG-B O O O O O O O O O O O O O O
-14일 인사혁신처에 따르면 신임 민 위원장은 경기 여주 출신으로 경복고와 서울대 법학과를 졸업하였고 사법시험(20회) 합격 뒤 사법연수원 교수, 서울고등법원 부장판사 등을 역임하였다 .	O ORG-B O O PER-B O LOC-B LOC-B O ORG-B ORG-B ORG-I O ORG-B O O ORG-B O ORG-B O O O O
-수수 하+ㄴ 차림의 세 사람은 어디+이+ㄴ가를 응시하면서 박수를 치고 있다 .	O O O O O O O O O O O
-<46> 창극 연출가 정도 연 감 .	O O O PER-B PER-I O O
-‘세종태양빌딩’ 입주자 모집… 세종시 3-1생활권 근 .	LOC-B O O LOC-B O O O
-최근 화제가 되+ㄴ이승만 전 대통령의 영어 저서 <일본 내막기(Japan Ins ideO ut)> 가 세상에 나오+ㄴ 것은 1941년 진주만 공격 직전이다 .	O O PER-B O O O O O O O O O O O O O O LOC-B O O O
-“가슴 미어 지+어… 노동개혁 법안 처리 하+여달라”울먹이+ㄴ이기권 장 .	O O O O O O PER-B O O
-갤럭시노트7 교환 시작, 우려 하+ㄴ 혼잡 없었 .	O O O O O O O O
-지나+ㄴ 1일 전지현이 모델로 활동 중 이+ㄴ 화장품 브랜드 '헤라' 유튜브 공식 계정에는 신제품 홍보 영상이 게재되었다 .	O O PER-B O O O O O O ORG-B O O O O O O O O
-청약자 규모는 올해 서울에서 분양 하+ㄴ아파트 가운데 가장 많았다 .	O O O LOC-B O O O O O O
-오뚜기, 바비큐 소스-냉장찌개 등 캠핑족 즉석식품 인기몰 .	ORG-B O O O O O O O
-‘찌질의 역사’ 작가 김풍인터 .	O O O PER-B O
-대형 트레이드, 알짜는 따로 있다?2011년 7월 31일 트레이드 마감 시한에 KBO 리그 ‘역대급’ 트레이드가 터지었다 .	O O O O O O O O O O ORG-B ORG-I O O O O
+불과 한 달 전 만 해도 버니 샌더스 상원 의원 ( 버몬트 ) 과 최고 48 % 포인트 ( 에머슨 조사 ) 까지 벌어 졌 던 뉴욕주 지지율 격차 가 일부 조사 에서 6 % 포인트 ( 그래 비스 조사 ) 까지 좁혀 진 것 으로 나 왔 기 때문 이 다 .	O O O O O O PER-B PER-I O O O LOC-B O O O O O O O ORG-B O O O O O O LOC-B O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
+앞선 회담 에서 일본 이 제의한 내용 , 이 에 대한 상대국 의 반응 등 을 면밀히 검토 ­ 분석하 는 것 이 필수적 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+14 일 인사 혁신 처 에 따르 면 신임 민 위원장 은 경기 여주 출신 으로 경복고 와 서울대 법학 과 를 졸업 했 고 사법 시험 ( 20 회 ) 합격 뒤 사법 연수원 교수 , 서울고등법원 부장 판사 등 을 역임 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O O PER-B O O LOC-B LOC-B O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O ORG-B ORG-I O O ORG-B O O O O O O O O
+수수한 차림 의 세 사람 은 어딘가 를 응시하 면서 박수 를 치 고 있 다 .	O O O O O O O O O O O O O O O O O
+< 46 > 창극 연출가 정도 연 감독	O O O O O PER-B PER-I O
+‘ 세종 태양빌딩 ’ 입주자 모집 … 세종시 3 - 1 생활권 근접	O LOC-B LOC-B O O O O LOC-B O O O O O
+최근 화제 가 된 이승만 전 대통령 의 영어 저서 < 일본 내막 기 ( Japan Inside Out ) > 가 세상 에 나온 것 은 1941 년 진주만 공격 직전 이 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B O O O O O
+“ 가슴 미어져 … 노동 개혁 법안 처리해 달 라 ” 울먹인 이기권 장관	O O O O O O O O O O O O PER-B O
+갤럭시 노트 7 교환 시작 , 우려한 혼잡 없 었 다	O O O O O O O O O O O
+지난 1 일 전지현 이 모델 로 활동 중 인 화장품 브랜드 ' 헤라 ' 유튜브 공식 계정 에 는 신제품 홍보 영상 이 게재 됐 다 .	O DAT-B DAT-I PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+청약 자 규모 는 올해 서울 에서 분양한 아파트 가운데 가장 많 았 다 .	O O O O O LOC-B O O O O O O O O O
+오뚜기 , 바비큐 소스 - 냉장 찌개 등 캠핑 족 즉석식품 인기 몰이	ORG-B O O O O O O O O O O O O
+‘ 찌 질의 역사 ’ 작가 김풍 인터뷰	O O O O O O PER-B O
+대형 트레이드 , 알짜 는 따로 있 다 ? 2011 년 7 월 31 일 트레이드 마감 시한 에 KBO 리그 ‘ 역대 급 ’ 트레이드 가 터 졌 다 .	O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O ORG-B ORG-I O O O O O O O O O O

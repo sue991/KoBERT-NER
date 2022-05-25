@@ -1,12 +1,12 @@
-마녀사냥 아유미, 일본의 19금 방송 어떻길래 ?…"여기는 쨉도 안 되+어 .	O PER-B ORG-B O O O O O O O O
-기존 5년 계약서와 내용은 거의 같고, 이승우가 사인만 다시 하면 되는 것으로 알고 있다”고 설명하였다 .	O O O O O O PER-B O O O O O O O O O
-한편 계약 후 바르셀로나 유소년팀이+ㄴ후베닐 A에서 뛰게 되는 이승우는 빠르면 17일 코르네+ 이야와의 홈경기에 첫 출전하+ㄹ 예정이다 .	O O O ORG-B ORG-B ORG-I O O PER-B O O ORG-B ORG-I O O O O O
-지소연의 앞에서 상대 수비를 흔들어 주+ㄹ 박은선(로시얀카)의 출전 여부도 승부의 관건이다 .	PER-B O O O O O ORG-B O O O O O
-케냐 모래보아뱀은 50~60㎝까지 자라 +ㄴ다 .	LOC-B O O O O O
-게인스는 와플의 동영상이 인기를 끌자 2탄, 3탄도 유튜브에 올리었다 .	PER-B O O O O O O O O O
-유호열 고려대 북한학과 교수는 24일 “앞으로 남북관계에 진전이 있다면 임기 전반기를 준비기간으로 평가하+ㄹ 수 있지만, 진전이 없다면 경직되+ㄴ 대응으로 실기(失機) +하였다는 비판을 피하기 어렵다”며 “북한은 체제 유지, 남한은 대북 교류를 맞교환하였을 가능성이 높다”고 말하였다 .	PER-B ORG-B ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O ORG-B O O O O O O O
-한편 트럼프 당선인과 차이 총통의 통화 막후에는 로비스트로 활동하는 밥돌 전 상원의원과 그가 속하+ㄴ로펌 ‘올스턴 앤드버드’가 역할을 +였다고 뉴욕타임스(NYT)가 6일 보도하였다 .	O PER-B O O O O O O O PER-B O O O O ORG-B ORG-I O O ORG-B O O O
-그래서 보상선수로 박한길을 지명하자고 내부 방침을 정하였다 .	O O PER-B O O O O O
-그는 “검찰이 리를 단독범으로 기소하였다가 대법원에서 무죄가 나니 패터슨을 진범이라고 지목하+ 여기 소하+ㄴ 것”이라고 주장하였다 .	O O PER-B O O O O O PER-B O O O O O O O
-김 교수에 의하면 과거 학과(학부)의 취업 실적도 평균 70% 이상이었다는 것. 졸업생들은 주로 동남권 지역의 기업체로 진출하였지만, 새 학부의 졸업생들은 서울 수도권으로 진출하는 학생들이 20% 이상 늘어나 +ㄹ 것이라고 예상하였다 .	PER-B O O O O O O O O O O O O LOC-B O O O O O O LOC-B LOC-B O O O O O O O O O
-이에 김풍 셰프는 “축하드리+ㄴ다 .	O PER-B O O O
+마녀 사냥 아유미 , 일본 의 19 금 방송 어떻 길래 ? … " 여기 는 쨉 도 안돼 "	O O PER-B O ORG-B O O O O O O O O O O O O O O O
+기존 5 년 계약서 와 내용 은 거의 같 고 , 이승우 가 사인 만 다시 하 면 되 는 것 으로 알 고 있 다 ” 고 설명 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+한편 계약 후 바르셀로나 유소년 팀 인 후베닐 A 에서 뛰 게 되 는 이승우 는 빠르 면 17 일 코르 네 야 와 의 홈 경기 에 첫 출전할 예정 이 다 .	O O O ORG-B O O O ORG-B ORG-I O O O O O PER-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O
+지소연 의 앞 에서 상대 수비 를 흔들 어 줄 박은선 ( 로시얀카 ) 의 출전 여부 도 승부 의 관건 이 다 .	PER-B O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O
+케냐 모래 보아 뱀 은 50 ~ 60 ㎝ 까지 자란다 .	LOC-B O O O O O O O O O O O
+게인스 는 와플 의 동영상 이 인기 를 끌 자 2 탄 , 3 탄도 유튜브 에 올 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+유호열 고려대 북한 학과 교수 는 24 일 “ 앞 으로 남북 관계 에 진전 이 있 다면 임기 전반기 를 준비 기간 으로 평가할 수 있 지만 , 진전 이 없 다면 경직된 대응 으로 실기 ( 失機 ) 했 다는 비판 을 피하 기 어렵 다 ” 며 “ 북한 은 체제 유지 , 남한 은 대북 교류 를 맞교환 했 을 가능성 이 높 다 ” 고 말 했 다 .	PER-B ORG-B O O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O
+한편 트럼프 당선인 과 차이 총통 의 통화 막후 에 는 로비스트 로 활동하 는 밥 돌 전 상원 의원 과 그 가 속한 로펌 ‘ 올스턴 앤드 버드 ’ 가 역할 을 했 다고 뉴욕타임스 ( NYT ) 가 6 일 보도 했 다 .	O PER-B O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O ORG-B O ORG-B O O DAT-B DAT-I O O O O
+그래서 보상 선수 로 박한길 을 지명하 자고 내부 방침 을 정 했 다 .	O O O O PER-B O O O O O O O O O O
+그 는 “ 검찰 이 리 를 단독범 으로 기소 했 다가 대법원 에서 무죄 가 나 니 패터슨 을 진범 이 라고 지목해 기소한 것 ” 이라고 주장 했 다 .	O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+김 교수 에 의하 면 과거 학과 ( 학부 ) 의 취업 실적 도 평균 70 % 이상 이 었 다는 것 . 졸업생 들 은 주로 동남 권 지역 의 기업체 로 진출 했 지만 , 새 학부 의 졸업생 들 은 서울 수도권 으로 진출하 는 학생 들 이 20 % 이상 늘어날 것 이 라고 예상 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O
+이 에 김풍 셰프 는 “ 축하 드린다 .	O O PER-B O O O O O O

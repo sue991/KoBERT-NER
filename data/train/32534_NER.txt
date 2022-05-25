@@ -1,13 +1,13 @@
-뮤지컬은 이번 주 월요일(지나+ㄴ 13일)에 완전하게 끝나 +았다 .	O O O O O O O O O
-고려대 경영대학은 2006년 이후 10년 연속 국내 1위를 차지하+ㄴ 것은 물론, 2011년부터 5년 연속으로 세계랭킹 100위권에 진입하는 성과를 거두었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-또 다른 평가지표 중 하나이+ㄴ 전 세계 사회과학 분야 학술논문 데이터베이스 ‘SSRN(SocialScienceResearchNetwork)’이 발표 하+ㄴ ‘SSRNTOP 1000 비즈니스 스쿨’ 랭킹에서 고려대 경영대학은 국내 대학 중 가장 높은 77위(전체 기간·2016년 9월 1일 기준)에 오르았다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
-김수아 팀장은 “중독성 있는 맛과 독특하+ㄴ 비주얼 덕분에 개점 초기부터 인기몰이를 +였다”며 “지금도 전국 대부분의 매장에서 주말이면 20분 이상 줄을 서+어서 기다리+어야 살+ㄹ 수 있다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-고씨에게 대리 구매를 의뢰하+ 여 졸피뎀을 손에 넣은 고객 3명 도 입건하였는데 이 중에 이미가 포함되 +ㄴ 것이다 .	PER-B O O O O O O O PER-B O O O O O O O O O O
-경찰 관계자는 “에이미가 9월 경찰에 출석 하+여조사를 받는 동안 ‘병원에서 처방받은 약을 배달받았을 뿐’이라며 혐의를 완강히 부인하였다”고 밝히었다 .	O O PER-B O O O O O O O O O O O O O O O O
-이와 관련에 이미는 이날 동아닷컴과의 통화에서 “심부름 업체는 생필품 구입을 위하+여 이용 하+여+았을 뿐”이라며 “심부름 업체를 통하+여 졸피뎀을 사지 않았다”고 억울하+ㅁ을 호소하였다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O
-‘한강 라인’ 아파트들의 인기 요인은 무엇보다도 쾌적하+ㄴ 주거환경이다 .	LOC-B O O O O O O O O
-이렇게 세계 원자력 산업에서 한국이 선두주자로서의 역할을 공고히 하+ㄹ 수 있는 현 상황에서 원자력 종주국이었던 미국과 신원자력협정에서 동반자적 파트너십을 구축하+여 미래지향적이고 전략적 이+ㄴ 협력을 추진하+여나가기로 하+ㄴ 것은 매우 시의적절하다고 보+ㄴ다 .	O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-가뜩이나 힘겹게 하루하루를 연명하는 한국 경제는 나락으로 떨어지+ㄹ 수도 있다 .	O O O O ORG-B O O O O O O
-‘PD 수첩’ 싸이, 과거 軍재입대심경 듣어보니?“만삭 아내 눈물 펑펑”MBC ‘PD수첩’이 가수 싸이의 건물을 둘러싸 +ㄴ 건물주와 세입자 논란을 다루+ㄴ 가운데, 과거 싸이가 재입대심경을 밝히+ㄴ 것이 재조명 받았다 .	O O PER-B O O O O O ORG-B O O PER-B O O O O O O O O O PER-B O O O O O O
-LG전자의 트윈워시는 냉장고의 냉장실·냉동실처럼 세탁기의 상단에 +ㄴ드럼, 하단에 +ㄴ 통돌이를 결합하+여인기를 모으고 있다 .	ORG-B O O O O O O O O O O O O O
-두 대의 세탁기를 한 대에 넣으면 진동이 심하+여지는 약점이 있지만 LG전자는 기술력으로 이 문제를 해결하였다 .	O O O O O O O O O O ORG-B O O O O O
+뮤지컬 은 이번 주 월요일 ( 지난 13 일 ) 에 완전하 게 끝났 다 .	O O O O DAT-B O O DAT-B DAT-I O O O O O O O
+고려대 경영 대학 은 2006 년 이후 10 년 연속 국내 1 위 를 차지한 것 은 물론 , 2011 년 부터 5 년 연속 으로 세계 랭킹 100 위 권 에 진입하 는 성과 를 거 뒀 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O
+또 다른 평가 지표 중 하나 인 전 세계 사회 과학 분야 학술 논문 데이터베이스 ‘ SSRN ( Social Science Research Network ) ’ 이 발표한 ‘ SSRN TOP 1000 비즈니스 스쿨 ’ 랭킹 에서 고려대 경영 대학 은 국내 대학 중 가장 높 은 77 위 ( 전체 기간 · 2016 년 9 월 1 일 기준 ) 에 올 랐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O
+김수아 팀장 은 “ 중독성 있 는 맛 과 독특한 비주얼 덕분 에 개점 초기 부터 인기 몰이 를 했 다 ” 며 “ 지금 도 전국 대부분 의 매장 에서 주말 이 면 20 분 이상 줄 을 서서 기다려야 살 수 있 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고 씨 에게 대리 구매 를 의뢰해 졸 피 뎀 을 손 에 넣 은 고객 3 명 도 입건 했 는데 이 중 에이미 가 포함된 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
+경찰 관계자 는 “ 에이미 가 9 월 경찰 에 출석해 조사 를 받 는 동안 ‘ 병원 에서 처방 받 은 약 을 배달 받 았 을 뿐 ’ 이 라며 혐의 를 완강히 부인 했 다 ” 고 밝 혔 다 .	O O O O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 와 관련 에이미 는 이날 동아닷컴 과 의 통화 에서 “ 심부름 업체 는 생필품 구입 을 위해 이용해 왔 을 뿐 ” 이 라며 “ 심부름 업체 를 통해 졸 피 뎀 을 사 지 않 았 다 ” 고 억울함 을 호소 했 다 .	O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 한 강 라인 ’ 아파트 들 의 인기 요인 은 무엇 보다 도 쾌적한 주거 환경 이 다 .	O LOC-B LOC-I O O O O O O O O O O O O O O O O O
+이렇 게 세계 원자력 산업 에서 한국 이 선두 주자 로서 의 역할 을 공고히 할 수 있 는 현 상황 에서 원자력 종주국 이 었 던 미국 과 신 원자력협정 에서 동반자 적 파트너십 을 구축해 미래 지향 적 이 고 전략적 인 협력 을 추진해 나가 기 로 한 것 은 매우 시의적절하 다고 본다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가뜩이나 힘겹 게 하루하루 를 연명하 는 한국 경제 는 나락 으로 떨어질 수 도 있 다 .	O O O O O O O ORG-B O O O O O O O O O O
+‘ PD 수첩 ’ 싸이 , 과거 軍 재 입대 심경 들 어 보 니 ? “ 만삭 아내 눈물 펑펑 ” MBC ‘ PD 수첩 ’ 이 가수 싸이 의 건물 을 둘러싼 건물 주 와 세입자 논란 을 다룬 가운데 , 과거 싸이 가 재 입대 심경 을 밝힌 것 이 재조명 받 았 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+LG 전자 의 트윈 워시 는 냉장고 의 냉장실 · 냉동실 처럼 세탁기 의 상단 엔 드럼 , 하단 엔 통돌이 를 결합해 인기 를 모으 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 대 의 세탁기 를 한 대 에 넣 으면 진동 이 심해 지 는 약점 이 있 지만 LG 전자 는 기술력 으로 이 문제 를 해결 했 다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O

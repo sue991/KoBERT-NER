@@ -1,13 +1,13 @@
-2005년부터는 현대차 대표 사회공헌사업이+ㄴ ‘함께 움직이는 세상 공모사업’을 통하+여 예산이나 인력 부족으로 복지사업 전개에 어려움을 겪는 단체를 지원하고 있다 .	O ORG-B O O O O O O O O O O O O O O O O O O
-또한 주간 ‘베스트 or워 스트’ 스타일도 각각 꼽는다 .	O O O O O O O O O
-오바마는 기자회견에서 오키나와현과 중·일 영유권 분쟁도서 이+ㄴ 댜오위다오(일본명 센카쿠열도)에 대하+여 “미·일 안보조약 5조가 적용되 +ㄴ다”고 말하였다 .	PER-B O LOC-B ORG-B O O O LOC-B LOC-B O O O O O O O O
-TPP와 관련 하+여서는 앞서 장관 회담에서 일정 하+ㄴ 진전이 있었지만 미국산 쌀 수입 물량과 일본산 자동차 부품에 미국이 부과하고 있는 관세 등이 현안으로 남아있는 상태+이다 .	O O O O O O O O O O ORG-B O O O O O O ORG-B O O O O O O O O
-정청래 “문자폭탄에 상처받은 그대… 서로 차분하+여지자 .	PER-B O O O O O O
-결국 지나+ㄴ 2월 25일 보석이 기각되자 최종 반환하였다 .	O O O O O O O O O
-이어 “5년, 10년 뒤를 내다보면서 대구의 변화와 혁신이라는 새롭ㄴ 길을 찾아가자”고 강조하였다 .	O O O O O LOC-B O O O O O O O
-민병철 교수, 중국서 선플 토론 .	PER-B O LOC-B O O O
-그리고 +ㄴ 천천히 바닷속으로 사라지었죠. 한참을 신기하게 지켜보던 소중 학생기자들은 고성수 조사원을 따르 아잠수통제실로 향하였습니다 .	O O O O O O O O O O PER-B O O O O O
-방청객이 거의 10대 이기 때문이다”고 말하였다 .	O O O O O O O
-정은지는 과거 한 방송 프로그램을 통하+여 8세 차이나는 어리+ㄴ남동생에 대하+여 남다르+ㄴ 애정을 드러내+ㄴ바 있다 .	PER-B O O O O O O O O O O O O O O
-2000안타 홍성흔, 우타자 최초 2000안 타고 지점령 두산 홍성흔(38)이 오른손 타자 최초로 프로야구 2000안 타고지에 오르았다 .	O PER-B O O O O O ORG-B PER-B O O O O O O O O
-「은행 지점이 20,000,000개 ? .	O O O O O
+2005 년 부터 는 현대차 대표 사회 공헌 사업 인 ‘ 함께 움직이 는 세상 공모 사업 ’ 을 통해 예산 이나 인력 부족 으로 복지 사업 전개 에 어려움 을 겪 는 단체 를 지원하 고 있 다 .	DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 한 주간 ‘ 베스트 or 워스트 ’ 스타일 도 각각 꼽 는다 .	O O O O O O O O O O O O O O
+오바마 는 기자 회견 에서 오키나와 현 과 중 · 일 영유 권 분쟁 도서 인 댜오위다오 ( 일본 명 센카쿠 열도 ) 에 대해 “ 미 · 일 안보 조약 5 조 가 적용된다 ” 고 말 했 다 .	PER-B O O O O LOC-B LOC-I O ORG-B ORG-I ORG-I O O O O O LOC-B O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O
+TPP 와 관련해서 는 앞서 장관 회담 에서 일정한 진전 이 있 었 지만 미국 산 쌀 수입 물량 과 일본 산 자동차 부품 에 미국 이 부과하 고 있 는 관세 등 이 현안 으로 남 아 있 는 상태 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+정청래 “ 문자 폭탄 에 상처 받 은 그대 … 서로 차분해 지 자 ”	PER-B O O O O O O O O O O O O O O
+결국 지난 2 월 25 일 보석 이 기각되 자 최종 반환 했 다 .	O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O
+이어 “ 5 년 , 10 년 뒤 를 내다보 면서 대구 의 변화 와 혁신 이 라는 새로 운 길 을 찾아가 자 ” 고 강조 했 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+민병철 교수 , 중국 서 선 플 토론회	PER-B O O LOC-B O O O O
+그리곤 천천히 바닷속 으로 사라 졌 죠 . 한참 을 신기하 게 지켜보 던 소중 학생 기자 들 은 고성수 조사원 을 따 라 잠수통 제실 로 향 했 습니다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+방청객 이 거의 10 대 이 기 때문 이 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O
+정은지 는 과거 한 방송 프로그램 을 통해 8 세 차이 나 는 어린 남동생 에 대해 남다른 애정 을 드러낸 바 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+2000 안타 홍성흔 , 우 타자 최초 2000 안타 고지 점령 두산 홍성흔 ( 38 ) 이 오른손 타자 최초 로 프로 야구 2000 안타 고지 에 올 랐 다 .	O O PER-B O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O
+「 은행 지점 이 20 , 000 , 000 개 ? 」	O O O O O O O O O O O O

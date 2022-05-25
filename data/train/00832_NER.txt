@@ -1,12 +1,12 @@
-북쪽에 살+ㄴ다고 폭염에 안전하지 않아 통계청에 따르면 2003년부터 10년간 열사병으로 사망 하+ㄴ국내 인구는 293명으로 나타나 +았다 .	O O O O O ORG-B O O O O O O O O O O O
-이에 맞서 +ㄴ소련의 수비군은 병력과 장비 면에서 상대적으로 초라하기 비하+ㄹ바 없었다 .	O O ORG-B O O O O O O O O O
-그런데 최근 며칠간 신규 가입자가 하루 평균 1000명에 육박하+ㄴ다 .	O O O O O O O O O O
-백종원은 “씻은 묵은지를 넣고 쌀뜨물을 넣으면 되+ㄴ다 .	PER-B O O O O O O O
-2년 동안 열리+ㄴ 한국여자오픈에서 언더파를 기록하+ㄴ 선수는 김효주와 배선우 단 2명뿐이다 .	O O O O O O O PER-B PER-B O O O
-이것을 맹자는 ‘공평하+ㅁ(平)’이라고 +였다 .	O O O O O
-“어어어…어 이쿠”24일 오전 경기 용인시청 3층 강당에서 +ㄴ 연신 탄식이 흘러나 오았다 .	O O O LOC-B LOC-B O O O O O O O O
-지금은 국민으로 대한민국 정치를 바라보고 지지하겠다”고 밝히었다 .	O O ORG-B O O O O O
-지난해 10월 분양되+ㄴ 서초구 반포동 아크로리버파크(옛 신반포 1차) 59㎡형도 4개월 새 웃돈이 6600만원 붙었다 .	O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O O O
-금년 3천여명이 총 9백 2점을 출품하여 작년보다 3% 증가하였다 .	O O O O O O O O O O
-이날 오전 박 전 대통령의 삼성동 자택에는 윤 의원과 박지만 씨 부부 외에도 최경환, 유기준, 조원진, 윤상현, 이우현, 김태흠, 박대출, 이완영 등의원 7명이 방문하였다 .	O O PER-B O O LOC-B O PER-B O PER-B O O O PER-B PER-B PER-B PER-B PER-B PER-B PER-B PER-B O O O O
-래퍼스윙스의 가사제대, "치료에 만 전념하고 영리활동 안 하+ㄹ 것… .	PER-B O O O O O O O O O
+북쪽 에 산다고 폭염 에 안전하 지 않 아 통계청 에 따르 면 2003 년 부터 10 년 간 열사병 으로 사망한 국내 인구 는 293 명 으로 나타났 다 .	O O O O O O O O O ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+이 에 맞선 소련 의 수비군 은 병력 과 장비 면 에서 상대적 으로 초라하 기 비할 바 없 었 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O
+그런데 최근 며칠 간 신규 가입자 가 하루 평균 1000 명 에 육박한다 .	O O O O O O O O O O O O O O
+백종원 은 “ 씻 은 묵 은지 를 넣 고 쌀뜨물 을 넣 으면 된다 .	PER-B O O O O O O O O O O O O O O O
+2 년 동안 열린 한국 여자 오픈 에서 언더 파 를 기록한 선수 는 김효주 와 배선우 단 2 명 뿐 이 다 .	O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O
+이것 을 맹자 는 ‘ 공평함 ( 平 ) ’ 이라고 했 다 .	O O O O O O O O O O O O O O
+“ 어어어 … 어이쿠 ” 24 일 오전 경기 용인 시청 3 층 강당 에선 연신 탄식 이 흘러나 왔 다 .	O O O O O DAT-B DAT-I O LOC-B LOC-B LOC-I O O O O O O O O O O O
+지금 은 국민 으로 대한민국 정치 를 바라보 고 지지하 겠 다 ” 고 밝 혔 다 .	O O O O ORG-B O O O O O O O O O O O O O
+지난해 10 월 분양된 서초구 반포동 아크로리버파크 ( 옛 신반포 1 차 ) 59 ㎡ 형 도 4 개월 새 웃돈 이 6600 만 원 붙 었 다 .	O DAT-B DAT-I O LOC-B LOC-B LOC-B O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O
+금년 3 천 여 명 이 총 9 백 2 점 을 출품하 여 작년 보다 3 % 증가 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+이날 오전 박 전 대통령 의 삼성동 자택 에 는 윤 의원 과 박지만 씨 부부 외 에 도 최경환 , 유기준 , 조원진 , 윤상현 , 이우현 , 김태흠 , 박대출 , 이완영 등 의원 7 명 이 방문 했 다 .	O O PER-B O O O LOC-B O O O PER-B O O PER-B O O O O O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O O
+래퍼 스윙스 의가사 제대 , " 치료 에 만 전념하 고 영리 활동 안 할 것 … "	O PER-B O O O O O O O O O O O O O O O O

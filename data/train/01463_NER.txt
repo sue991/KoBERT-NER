@@ -1,14 +1,14 @@
-백완희 인생이모작 지원센터는 “신원조회와 체계적 이+ㄴ 교육을 거치+ㄴ 주례 전문인을 부천 예식업협회 등을 통하+여각 예식장에 소개하는 체계를 갖추게 되+ㄹ 것”이라고 설명하였다 .	ORG-B ORG-I ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O O O
-금융위는 예금자 보호법 시행령 개정을 통하+여 ‘영업인가 취소일로부터 7일 이내’+이라는 조항을 넣기로 +였다 .	ORG-B O O O O O O O O O O O O O
-이처럼 전신 어느 곳에나 증상이 발생하+ㄹ 수 있는 혈관의 염증성 질환이 +ㄴ 베체트병은 면역체계의 기능이상으로 인하+여 발생하는 자가면역질환이다 .	O O O O O O O O O O O O O O O O O O O
-이렇게 한국 통신으로부터 제공받은 통신설비를 데이콤은 자체 통신망을 구축하는 데 이용하기도 하고 데이터 전용회선 서비스를 제공하는 데 재이용하기도 하+ㄴ다 .	O ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O O
-리디아 고 선수를 통하+여 글로벌 골퍼들에게 가누 .	PER-B PER-I O O O O O O
-이상문 역시 경기력을 빠르게 찾아가고 있어 주목 하+ㄹ 필요가 있다 .	PER-B O O O O O O O O O O
-뷰티스트림즈는 디올·로레알·랑콤·입생로랑·맥·아모레퍼시픽 등 국내외 브랜드 컨설팅을 하고 있다 .	ORG-B ORG-B O O O O O O O
-진선미 더불어민주당 의원도 10일 “급증하는 ‘몰카 범죄’에 대응하기 위하+여 관련 법을 제정하겠다”고 밝히었다 .	PER-B ORG-B O O O O O O O O O O O O
-강용석, 디스패치 보도 해명“두 사진 속 인물은 강용석 아니다 .	PER-B ORG-B O O O O O PER-B O O
-박씨는 작년 12월 24일 서울 영등포 사창가에서 필로폰을 투약하+ㄴ 혐의로 구속되+어지나 +ㄴ 3월 치료감호 선고를 받고 9개월 동안 수감되었었다 .	PER-B O O O LOC-B LOC-B O O O O O O O O O O O O O O
-이민어를 그대로 서울로 옮기+어+오아셰프들의 손에 맡기었다 .	O O LOC-B O O O O
-통계청이 지난해 신고되+ㄴ 사망자를 대상으로 조사, 분석 하+ㄴ바로는 암이 1위, 뇌혈관질환이 2위, 각종 사고사가 3위 +이었다 .	ORG-B O O O O O O O O O O O O O O O O
-익명을 원하+ㄴ한 경영학과 교수는 “신사업 발굴과 인수합병, 인사 등을 각 계열사에 맡기는 것은 효율성이나 의사결정 속도, 인력 활용 등에서 문제가 생기+ㄹ 수 있다”며 “미전실의 문제는 투명하지 않은 운영방식에 있었 .	O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
-중국에서 +ㄴ 엄청나 +ㄴ 톱스타이자 여신이다”고 밝히었다. 한 편 이날 ‘택시’ 홍수아는 류현진과의 열애설에 대하+여 해명하였다 .	ORG-B O O O O O O O O O O PER-B PER-B O O O O
+백 완희 인생 이모작 지원 센터 는 “ 신원 조회 와 체계적 인 교육 을 거친 주례 전문 인 을 부천 예식 업 협회 등 을 통해 각 예식장 에 소개하 는 체계 를 갖추 게 될 것 ” 이라고 설명 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+금융 위 는 예금자 보호 법 시행령 개정 을 통해 ‘ 영업 인가 취소 일 로부터 7 일 이내 ’ 라는 조항 을 넣 기 로 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 처럼 전신 어느 곳 에 나 증상 이 발생할 수 있 는 혈관 의 염증 성 질환 인 베체트병 은 면역 체계 의 기능 이상 으로 인해 발생하 는 자가 면역 질환 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이렇 게 한국 통신 으로부터 제공 받 은 통신 설비 를 데이콤 은 자체 통신망 을 구축하 는 데 이용하 기 도 하 고 데이터 전용 회선 서비스 를 제공하 는데 재 이용하 기 도 한다 .	O O ORG-B ORG-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+리디아 고 선수 를 통해 글로벌 골퍼 들 에게 가누 다	PER-B PER-I O O O O O O O O O
+이상문 역시 경기력 을 빠르 게 찾아가 고 있 어 주목할 필요 가 있 다 .	PER-B O O O O O O O O O O O O O O O
+뷰티 스트림 즈 는 디올 · 로레알 · 랑콤 · 입생 로랑 · 맥 · 아모레퍼시픽 등 국내외 브랜드 컨설팅 을 하 고 있 다 .	ORG-B ORG-I ORG-I O ORG-B O ORG-B O ORG-B O ORG-B ORG-I O ORG-B O ORG-B O O O O O O O O O O
+진선미 더불 어 민주당 의원 도 10 일 “ 급증하 는 ‘ 몰카 범죄 ’ 에 대응하 기 위해 관련 법 을 제정하 겠 다 ” 고 밝 혔 다 .	PER-B ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+강용석 , 디스 패치 보도 해명 “ 두 사진 속 인물 은 강용석 아니 다 ”	PER-B O ORG-B ORG-I O O O O O O O O PER-B O O O
+박 씨 는 작년 12 월 24 일 서울 영등포 사창가 에서 필로폰 을 투약한 혐의 로 구속돼 지난 3 월 치료 감호 선고 를 받 고 9 개월 동안 수감 됐었 다 .	PER-B O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-B O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+이 민어 를 그대로 서울 로 옮겨 와 셰프 들 의 손 에 맡 겼 다 .	O O O O LOC-B O O O O O O O O O O O O
+통계청 이 지난해 신고된 사망자 를 대상 으로 조사 , 분석한 바 로 는 암 이 1 위 , 뇌혈관 질환 이 2 위 , 각종 사고사 가 3 위 였 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+익명 을 원한 한 경영 학과 교수 는 “ 신사업 발굴 과 인수 합병 , 인사 등 을 각 계열사 에 맡기 는 것 은 효율 성 이나 의사 결정 속도 , 인력 활용 등 에서 문제 가 생길 수 있 다 ” 며 “ 미 전실 의 문제 는 투명하 지 않 은 운영 방식 에 있 었 지	O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+중국 에선 엄청난 톱스타 이 자 여신 이 다 ” 고 밝 혔 다 . 한편 이날 ‘ 택시 ’ 홍수아 는 류현진 과 의 열애 설 에 대해 해명 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O

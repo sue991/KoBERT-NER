@@ -1,15 +1,15 @@
-비슷하+ㄴ 시각 부산시 진구 가야시장 인근 주례 방향 편도 5차로.오후 9시50분쯤 경찰관들이 “어?저운전자차에서 내리+어서 도망가+ㄴ다 .	O O LOC-B LOC-B LOC-B O LOC-B O O O O O O O LOC-B O
-5만원대 요금제까지 기본 제공량 외에 3.3GB의 추가 비디오 전용 데이터 혜택이 있다 .	MNY-B O O O O O O O O O O O O
-비디오시청을 많이 하는 소비자를 위하+여 ‘뉴음성무한 비디오 데이터’ 요금제도 업그레이드하였다 .	O O O O O O O O O O O
-그러나 그는 넓은 수비 범위와 슈퍼 캐치 능력, 빼어나 +ㄴ선구안 등 뚜렷하+ㄴ 장점으로 김 감독의 마음을 사로잡아 가을 야구 무대를 밟았다 .	O O O O O O O O O O O O O PER-B O O O O O O O O
-입대 최진혁 “걱정 말라.1년 9개월 금방이다” … 어디로 가+았는지 알면 빵 터지+어? 최진혁과 성민 그리고 JYJ 김재중의 입대 소식이 알려지+어 화제+이다 .	O PER-B O O O O O O O O O O PER-B PER-B O ORG-B PER-B O O O O O
-최진혁은 3월 30일 오후 디시인사이드 갤러리를 통하+여 “걱정 말라.1년 9개월 금방이다 .	PER-B O O O O O O O O O O O
-'크림빵 뺑소니' 동영상에 네티즌 '공분'… "돈 없어 케이크도 못 사주고 크림빵 .	O O O O O O O O O O O O
-10개 에어백, 전·후륜 디스크 브레이크, 후방 카메라, 스마트폰 무선충전, 애플 카플레이 및 안드로이드 오토 등 편의사양도 충실히 탑재되었다 .	O O O O O O O O O O O O O O O O O O O
-가깝ㄴ옛 낙동강사문진나루에는 관광유람선, 나룻배가 오가+ㄴ다 .	O LOC-B O O O O
-80석 이상 얻은 당이 한 개밖에 없을 때는 제2당에서도 1명을 지명하+ㄴ다 .	O O O O O O O O O O O O
-그는 거실, 침실, 계단 밑까지 빼곡히 쌓이 +ㄴ 그림을 공개하며 “사실 지금 보이는 거+ㄴ 5분의 1뿐이다 .	O O O O O O O O O O O O O O O O O
-한편 ‘공조’는 윤제균 감독이 이끌는 JK필름이 4년간 준비 하+ㄴ영화로, ‘마이리틀 히어로’를 연출 하+ㄴ 김성훈 감독이 메가폰을 잡았다 .	O O PER-B O O ORG-B O O O O O O O PER-B O O O O
-오늘이 다소 혼란스럽고 불편하더라도 누구+이+ㄴ 가는 그 가치에 매달리고 지키+어내+어야 대한민국이 앞으로 나아가 +ㄴ다고 생각하였다”면서 “지나 +ㄴ 2주간 저의 미련 하+ㄴ 고집이 법과 원칙, 정의를 구현하는데 조금이라도 도움이 되었다면, 저는 그 어떤 비난도 달게 받겠다”고 밝히었다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-유 원내대표는 “임기를 못 채우고 물러나면서 아쉬움이 있다”며 “지나 +ㄴ 2월당의 변화와 혁신, 그리고 총선 승리를 약속드리고 원내대표가 되었으나, 저의 부족 하+ㅁ으로 그 약속을 아직 지키지 못하였다”고 유감을 표하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O
-이어 “지나 +ㄴ 4월 국회 연설에서 ‘고통받는 국민의 편에서 +어서용감하+ㄴ 개혁을 하겠다 .	O O O O O O O O O O O O O
+비슷한 시각 부산시 진구 가 야시장 인근 주례 방향 편도 5 차 로 . 오후 9 시 50 분 쯤 경찰관 들 이 “ 어 ? 저 운전 자 차 에서 내려서 도망간다 .	O O LOC-B LOC-B LOC-B LOC-I O LOC-B O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O
+5 만 원 대 요금 제 까지 기본 제공 량 외 에 3.3 GB 의 추가 비디오 전용 데이터 혜택 이 있 다 .	MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O
+비디오 시청 을 많이 하 는 소비자 를 위해 ‘ 뉴 음성 무한 비디오 데이터 ’ 요금 제도 업그레이드 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+그러나 그 는 넓 은 수비 범위 와 슈퍼 캐치 능력 , 빼어난 선구안 등 뚜렷한 장점 으로 김 감독 의 마음 을 사로잡 아 가을 야구 무대 를 밟 았 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+입대 최진혁 “ 걱정 마 라 . 1 년 9 개월 금방 이 다 ” … 어디 로 갔 는 지 알 면 빵 터져 ? 최진혁 과 성민 그리고 JYJ 김재중 의 입대 소식 이 알려져 화제 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O ORG-B PER-B O O O O O O O O
+최진혁 은 3 월 30 일 오후 디시인사이드 갤러리 를 통해 “ 걱정 마 라 . 1 년 9 개월 금방 이 다 .	PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O
+' 크림빵 뺑소니 ' 동영상 에 네티즌 ' 공분 ' … " 돈 없 어 케이크 도 못 사주 고 크림빵 "	O O O O O O O O O O O O O O O O O O O O O O
+10 개 에어백 , 전 · 후륜 디스크 브레이크 , 후방 카메라 , 스마트 폰 무선 충전 , 애플 카 플레이 및 안드로이드 오토 등 편의 사양 도 충실히 탑재 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가까 운 옛 낙동강 사문진 나루 에 는 관광 유람선 , 나룻배 가 오간다 .	O O O LOC-B LOC-I LOC-I O O O O O O O O O
+80 석이상 얻 은 당 이 한 개 밖에 없 을 때 는 제 2 당 에서 도 1 명 을 지명한다 .	O O O O O O O O O O O O O O O O O O O O O O O
+그 는 거실 , 침실 , 계단 밑 까지 빼곡히 쌓인 그림 을 공개하 며 “ 사실 지금 보이 는 건 5 분 의 1 뿐 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 ‘ 공조 ’ 는 윤제균 감독 이 이끄 는 JK 필름 이 4 년 간 준비한 영화 로 , ‘ 마이 리틀 히어로 ’ 를 연출한 김성훈 감독 이 메가폰 을 잡 았 다 .	O O O O O PER-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O PER-B O O O O O O O O
+오늘 이 다소 혼란스럽 고 불편하 더라도 누군가 는 그 가치 에 매달리 고 지켜 내야 대한민국 이 앞 으로 나아간다고 생각 했 다 ” 면서 “ 지난 2 주간 저 의 미련한 고집 이 법 과 원칙 , 정의 를 구현하 는 데 조금 이라도 도움 이 되 었 다면 , 저 는 그 어떤 비난 도 달 게 받 겠 다 ” 고 밝 혔 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유 원내 대표 는 “ 임기 를 못 채우 고 물러나 면서 아쉬움 이 있 다 ” 며 “ 지난 2 월 당 의 변화 와 혁신 , 그리고 총선 승리 를 약속 드리 고 원내 대표 가 되 었 으나 , 저 의 부족함 으로 그 약속 을 아직 지키 지 못 했 다 ” 고 유감 을 표 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 지난 4 월 국회 연설 에서 ‘ 고통 받 는 국민 의 편 에 서서 용감한 개혁 을 하 겠 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O

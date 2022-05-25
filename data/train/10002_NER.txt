@@ -1,12 +1,12 @@
-부가부비 5, ‘현대 프리미엄 베이비페어’ 첫 선… 예약 판매 실 .	O O O O O O O O O O O
-빼돌리+ㄴ 혐의로 사전구속영장이 청구되+어 9일 오전 10시 서울중앙지법에서 영장실질심사를 받을 예정이었다 .	O O O O O O O ORG-B O O O O
-행사 사전 참여 신청은 애플리케이션(앱) ‘캔고루’의 전시 코너에서 하면 되+ㄴ다 .	O O O O O O O O O O O
-지카 바이러스 공포 확산, 콜롬비아 임신부 2000여명 감염… 중남미 여행 자제 권 .	O O O O LOC-B O O O LOC-B O O O O
-‘택시’ 유병재, 이상형 발언…장도연 “미치+ㄴ X 아니야” 독 .	O PER-B O PER-B O O O O O
-감독의 발언으로 격앙되+ㄴ 현장 취재진의 마음을 주장기성용이 풀어주+었다 .	O O O O O O PER-B O O
-법안을 부결시키면, ‘오바마케어’를 그대로 유지하겠다는 것이다 .	O O O O O O O
-각 정부 및 관련 부처의 적극적 이+ㄴ 지원 아래 청소년 인성·기술교육을 실시하고 있는 국제청소년연합(InternationalYouth Fellows hip)이 그 주인공이다 .	O O O O O O O O O O O O O ORG-B O O O O O
-당 총서기가 군사위 주석을 겸직하며 군의 모든 사안에 책임을 지고 지휘 하+ㄴ다는 의미+이다 .	O O ORG-B O O O O O O O O O O O
-종량제 실시 전 하루 쓰레기 배출량은 18t이었으나, 지난달에 +ㄴ 하루 평균 11t으로 38%가 적게 나오았다 .	O O O O O O O O O O O O O O O O
-그 경우 이용자 수와 결제 실적이란 두 마리 토끼를 모두 잡을 가능성이 크다 .	O O O O O O O O O O O O O O
-돈은 노화도에서 쓰고 쓰레기만 내려놓는다는 것+이었다 .	O LOC-B O O O O O
+부가 부 비 5 , ‘ 현대 프리미엄 베이비 페어 ’ 첫선 … 예약판매 실시	O O O O O O O O O O O O O O O
+빼돌린 혐의 로 사전 구속 영장 이 청구 돼 9 일 오전 10 시 서울중앙지법 에서 영장 실질 심사 를 받 을 예정 이 었 다 .	O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I ORG-B O O O O O O O O O O O O
+행사 사전 참여 신청 은 애플리케이션 ( 앱 ) ‘ 캔 고루 ’ 의 전시 코너 에서 하 면 된다 .	O O O O O O O O O O O O O O O O O O O O O
+지카 바이러스 공포 확산 , 콜롬비아 임신부 2000 여 명 감염 … 중남미 여행 자제 권고	O O O O O LOC-B O O O O O O LOC-B O O O
+‘ 택시 ’ 유병재 , 이상형 발언 … 장도연 “ 미친 X 아 냐 ” 독설	O O O PER-B O O O O PER-B O O O O O O O
+감독 의 발언 으로 격앙된 현장 취재진 의 마음 을 주장 기성용 이 풀 어 줬 다 .	O O O O O O O O O O O PER-B O O O O O O
+법안 을 부결 시키 면 , ‘ 오바마 케어 ’ 를 그대로 유지하 겠 다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O
+각 정부 및 관련 부처 의 적극적 인 지원 아래 청소년 인성 · 기술 교육 을 실시하 고 있 는 국제 청소년 연합 ( International Youth Fellowship ) 이 그 주인공 이 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O
+당 총서기 가 군사 위 주석 을 겸직하 며 군 의 모든 사안 에 책임 을 지 고 지휘한다는 의미 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+종량제 실시 전 하루 쓰레기 배출 량 은 18 t 이 었 으나 , 지난달 엔 하루 평균 11 t 으로 38 % 가 적 게 나 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 경우 이용자 수 와 결제 실적 이란 두 마리 토끼 를 모두 잡 을 가능성 이 크 다 .	O O O O O O O O O O O O O O O O O O O O
+돈 은 노화도 에서 쓰 고 쓰레기 만 내려놓 는다 는 거 였 다 .	O O LOC-B O O O O O O O O O O O O

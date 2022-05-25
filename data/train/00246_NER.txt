@@ -1,12 +1,12 @@
-여신들의 경쟁, 김태희 ‘용팔이’ vs 송혜교 ‘태양의 후예 .	O O PER-B O O PER-B O O O
-10시간 가까이 앉아 있어야 하는 시험장에서 꼭 필요하+ㄴ아이템이었다 .	O O O O O O O O O
-GM과 대우차 사이주 계약들부터 양사 직원의 주차장 구역 배분에 이르기까지 수십개가 넘는 계약서는 모두 영문이었다 .	ORG-B ORG-B O O O O O O O O O O O O O O
-김구+이라는 이본에게 “장우혁, 굵직하+ㄴ 분빼고 Ref 이성욱 하고는 어떤 관계+이었냐”고 묻자 이본은 “ .	PER-B PER-B PER-B O O ORG-B PER-B O O O O PER-B O O
-계명대의 나누+ㅁ 실천이 지역사회에 모범이 되고 있다 .	ORG-B O O O O O O O
-박삼구 회장은 조만간 매각되+ㄹ 금호타이어를 재인수하면 ‘그룹 재건’을 위하 +ㄴ 마지막과제를 완수하게 되+ㄴ다 .	PER-B O O O ORG-B O O O O O O O O O
-박 대통령이 5월 러시아 전승 기념 절 행사에 초청받았지만 불참하면서 소원 하+여지+ㄴ한-러 관계는 이번 친선특급 행사를 통하+여 새롭ㄴ 활기를 찾을 것으로 기대되+ㄴ다 .	PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O
-부산 바다의 문화발전과 해양생태계 보존에 대하+ㄴ 시민들의 의식을 높이기 위 하+ 여해 양선상 아카데미를 개최하고, 해양생태지도자 양성을 위하+ㄴ교육사업 후원 및 부산 주요 연안의 수중정화활동 등을 펼치고 있다 .	LOC-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
-지나+ㄴ 4일 한국해양대 70주년 행사에 페르노리카그룹 산하 해양연구소 이+ㄴ IOPR의 패트리샤 리카드 회장(사진)이 방문하였다 .	O O ORG-B O O PER-B O O O ORG-B PER-B PER-I O O O
-그러나 새정치연합은 당내 ‘486’의원들의 1987년 6월 민주화운동 동료 세대에게 “우리는 하+ㄹ 만큼 +였다”는 것+ㄹ보이어주는 데만 집중하였다 .	O O O O O O O O O O O O O LOC-B O O O
-안영미는 나+에게 허언증이라고 하는데 나 +ㄴ 낯설+ㄴ사람과 만나는 것+이 너무 힘들다”고 털어놓았다 .	PER-B O O O O O O O O O O O O
-이어 강예원은 갑작스레 눈물을 흘리었고 “배우들에게 먼저 다가가지 못하는 사람들이 있다 .	O PER-B O O O O O O O O O O
+여신 들 의 경쟁 , 김태희 ‘ 용팔이 ’ vs 송혜교 ‘ 태양 의 후예 ’	O O O O O PER-B O O O O PER-B O O O O O
+10 시간 가까이 앉 아 있 어야 하 는 시험장 에서 꼭 필요한 아이템 이 었 다 .	O O O O O O O O O O O O O O O O O O
+GM 과 대우 차 사이 주 계약 들 부터 양 사 직원 의 주차장 구역 배분 에 이르 기 까지 수십 개 가 넘 는 계약서 는 모두 영문 이 었 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김구 라는 이본 에게 “ 장우혁 , 굵직한 분 빼 고 Ref 이성욱 하고 는 어떤 관계 였 냐 ” 고 묻 자 이본 은 “ 다	PER-B O PER-B O O PER-B O O O O O ORG-B PER-B O O O O O O O O O O PER-B O O O
+계명대 의 나눔 실천 이 지역사회 에 모범 이 되 고 있 다 .	ORG-B O O O O O O O O O O O O O
+박삼구 회장 은 조만간 매각될 금호타이어 를 재 인수 하 면 ‘ 그룹 재건 ’ 을 위한 마지막 과제 를 완수하 게 된다 .	PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O
+박 대통령 이 5 월 러시아 전승 기념절 행사 에 초청 받 았 지만 불참하 면서 소원해 진 한 - 러 관계 는 이번 친선 특급 행사 를 통해 새로 운 활기 를 찾 을 것 으로 기대된다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+부산 바다 의 문화 발전 과 해양 생태계 보존 에 대한 시민 들 의 의식 을 높이 기 위해 해양 선상 아카데미 를 개최하 고 , 해양 생태 지도자 양성 을 위한 교육 사업 후원 및 부산 주요 연안 의 수중 정화 활동 등 을 펼치 고 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+지난 4 일 한국해양대 70 주년 행사 에 페르 노리카 그룹 산하 해양 연구소 인 IOPR 의 패트리샤 리카드 회장 ( 사진 ) 이 방문 했 다 .	O DAT-B DAT-I ORG-B O O O O PER-B PER-I O O O O O ORG-B O PER-B PER-I O O O O O O O O O
+그러나 새정치연합 은 당내 ‘ 486 ’ 의원 들 의 1987 년 6 월 민주화 운동 동료 세대 에게 “ 우리 는 할 만큼 했 다 ” 는 걸 보 여 주 는 데 만 집중 했 다 .	O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O
+안영미 는 내게 허언증 이 라고 하 는데 난 낯선 사람 과 만나 는 게 너무 힘들 다 ” 고 털어 놨 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+이어 강예원 은 갑작스레 눈물 을 흘 렸 고 “ 배우 들 에게 먼저 다가가 지 못하 는 사람 들 이 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O

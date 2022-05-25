@@ -1,17 +1,17 @@
-아날로그 휠을 적용하+ 여 손맛을 살리고, 무선 충전기와 블루투스 스피커을 결합시키+ㄴ ‘스톤’이라는 부품을 함께 제공하는 팬택의 승부수가 소비자의 마음을 움직이었다는 뜻이다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O
-엔터식스는 현대산업개발 컨소시엄이 복합개발하는 옛 서울남부교정시설 부지의 상업시설 지상 1~2층에 ‘엔터식스’ 쇼핑몰을 오픈하+ㄴ다고 9일 밝히었다 .	ORG-B ORG-B ORG-I O O LOC-B LOC-I LOC-I O O ORG-B O O O O O
-이날 트럼프는 “신성하+ㄴ 선거에서 전화도청은 매우 저급 하+ㄴ짓”이라며 “훌륭하+ㄴ 변호사+이라면 오바마가 지난해 10월 나+의 전화를 도청하였다는 사실을 입증 하+ㄹ 수 있을 것”이라고 주장하였다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O
-게다가 이재학은 2010년 두산으로 입단하였던 중고신인이었다 .	O PER-B O ORG-B O O O
-양상문 감독은 “투수는 훈련하+ㄹ 때 한계점이 있다 .	PER-B O O O O O O O
-그룹 소녀시대 서현이 웹드라마 ‘루비루 비럽’에서 호흡을 맞추+ㄴ 배우 이철우, 지헤라와 함께 찍은 사진을 공개하였다 .	O ORG-B O O O O O O O PER-B PER-B O O O O O
-서현은 17일 인스타그램에 이철우, 지헤라와 함께 하+ㄴ 사진과 함께 “18일에 만나 +아요”+이라는 글을 올리었다 .	PER-B O O PER-B PER-B O O O O O O O O O O
-사진을 보면서 현, 이철우, 지헤라가 온스타일웹드라마 ‘루비루 비럽’ 포스터 앞에서 포즈를 취하고 있다 .	O O O PER-B PER-B O O O O O O O O O
-서현은 이날 서울 마포구 상암 CJE&M 사옥에서 열리+ㄴ웹드라마 ‘루비루 비럽’ 제작발표회에 참석하+여이철우와 호흡을 맞추게 되+ㄴ 소감을 전하였다 .	PER-B O LOC-B LOC-B LOC-B LOC-I LOC-I O O O O PER-B O O O O O O
-이 자리에서 그는 “특히 이철우와 함께 호흡하게 되+ㄴ 것에 대하+여티파니가 가장 좋아하었다”며 “티파니 언니도 예전에 이철우와 같은 작품에 출연하+ㄴ적이 있다”고 말하였다 .	O O O O PER-B O O O O PER-B O O PER-B O O PER-B O O O O O O
-한편 ‘루비루 비럽’은 5부작으로 오는 18일 첫 방송 하+ㄴ다 .	O O O O O O O O O O
-152가 패착.참고 2도처럼 백1, 3으로 중앙을 막았어야 +였다 .	O O O O O O O O O
-진짜 사나이이 이경 ‘진짜 사나이’ 제작진 사과, “이이경 개인정보 노출·부적절하+ㄴ 배경음죄송하다” '진짜 사나이' 제작진이 출연자이 이경의 주민등록번호를 노출하고 일본군가를 사용하+ㄴ 것에 대하+여대 하+ 여사과하였다 .	O O O O O O O PER-B O O O O O O O O O O ORG-B O O O O O O
-MBC '일밤-진짜 사나이' 제작진은 29일 공식 홈페이지를 통하+여"'진짜 사나이' 방송과정에서 제작진의 부주의로 부적절 하+ㄴ 배경음악이 방송되고 또한 배우 이이경씨의 주민등록번호가 모자이크 처리가 안 되+ㄴ 상태에서 잠시나마 개인정보가 노출되는 일이 있었다"고 밝히었다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
-이어 "제작진은 시청자 여러분들과 배우 이이경씨, 그리고 군 관계자분들께 머리 숙이어진 심으로 사과 말씀 올리+ㄴ다 .	O O O O O PER-B O O O O O O O O O O
-장씨는 “한국 국적이 없어도 솔직히 그리스에서 살아가는데 아무 문제가 없다”며 “하지만 한국인으로서의 자긍심을 위하+여국적 회복을 결심하였다”고 말하였다 .	PER-B ORG-B O O O LOC-B O O O O O ORG-B O O O O O O
-총 공격으로 넘어가면 며칠 후에는 서울에 들어가 +ㄹ 수 있는데, 스탈린의 조언을 듣고 싶다』고 하+ㅁ(1950년 1월 19일) .	O O O O O LOC-B O O O O PER-B O O O O O O O
+아날로그 휠 을 적용해 손맛 을 살리 고 , 무선 충전기 와 블루 투스 스피커 을 결합 시킨 ‘ 스톤 ’ 이 라는 부품 을 함께 제공하 는 팬택 의 승부수 가 소비자 의 마음 을 움직 였 다는 뜻 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+엔터 식스 는 현대산업개발 컨소시엄 이 복합 개발 하 는 옛 서울 남부 교정 시설 부지 의 상업 시설 지상 1 ~ 2 층 에 ‘ 엔터 식스 ’ 쇼핑몰 을 오픈 한다고 9 일 밝 혔 다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+이날 트럼프 는 “ 신성한 선거 에서 전화 도청 은 매우 저급한 짓 ” 이 라며 “ 훌륭한 변호사 라면 오바마 가 지난해 10 월 내 전화 를 도청 했 다는 사실 을 입증할 수 있 을 것 ” 이라고 주장 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+게다가 이재학 은 2010 년 두산 으로 입단 했 던 중 고 신인 이 었 다 .	O PER-B O DAT-B DAT-I ORG-B O O O O O O O O O O O
+양상문 감독 은 “ 투수 는 훈련할 때 한계 점 이 있 다 .	PER-B O O O O O O O O O O O O O
+그룹 소녀 시대 서현이 웹 드라마 ‘ 루비 루비 럽 ’ 에서 호흡 을 맞춘 배우 이철우 , 지 헤라 와 함께 찍 은 사진 을 공개 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O O PER-B O PER-B PER-I O O O O O O O O O O
+서현 은 17 일 인스타그램 에 이철우 , 지 헤라 와 함께한 사진 과 함께 “ 18 일 에 만나요 ” 라는 글 을 올 렸 다 .	PER-B O DAT-B DAT-I O O PER-B O PER-B PER-I O O O O O O DAT-B DAT-I O O O O O O O O O O
+사진 을 보 면 서현 , 이철우 , 지 헤라 가 온스타 일 웹 드라마 ‘ 루비 루비 럽 ’ 포스터 앞 에서 포즈 를 취하 고 있 다 .	O O O O PER-B O PER-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+서현 은 이날 서울 마포구 상암 CJ E & M 사옥 에서 열린 웹 드라마 ‘ 루비 루비 럽 ’ 제작 발표회 에 참석해 이철우 와 호흡 을 맞추 게 된 소감 을 전 했 다 .	PER-B O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+이 자리 에서 그 는 “ 특히 이철우 와 함께 호흡하 게 된 것 에 대해 티파니 가 가장 좋아 했 다 ” 며 “ 티파니 언니 도 예전 에 이철우 와 같 은 작품 에 출연한 적 이 있 다 ” 고 말 했 다 .	O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O
+한편 ‘ 루비 루비 럽 ’ 은 5 부 작 으로 오 는 18 일 첫 방송한다 .	O O O O O O O O O O O O O DAT-B DAT-I O O O
+152 가 패착 . 참 고 2 도 처럼 백 1 , 3 으로 중앙 을 막 았 어야 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+진짜 사나이 이이경 ‘ 진짜 사나이 ’ 제작진 사과 , “ 이이경 개인 정보 노출 · 부적절한 배경 음 죄송하 다 ” ' 진짜 사나이 ' 제작진 이 출연자 이이경 의 주민 등록 번호 를 노출하 고 일본 군가 를 사용한 것 에 대해 대해 사과 했 다 .	O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O ORG-B O O O O O O O O O O O
+MBC ' 일 밤 - 진짜 사나이 ' 제작진 은 29 일 공식 홈페이지 를 통해 " ' 진짜 사나이 ' 방송 과정 에서 제작진 의 부주의 로 부적절한 배경 음악 이 방송되 고 또한 배우 이이경 씨 의 주민 등록 번호 가 모자이크 처리 가 안 된 상태 에서 잠시 나마 개인 정보 가 노출되 는 일 이 있 었 다 " 고 밝 혔 다 .	O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 " 제작진 은 시청자 여러분 들 과 배우 이이경 씨 , 그리고 군 관계자 분 들 께 머리 숙 여 진심 으로 사과 말씀 올린다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+장 씨 는 “ 한국 국적 이 없 어도 솔직히 그리스 에서 살아가 는 데 아무 문제 가 없 다 ” 며 “ 하지만 한국인 으로서 의 자긍심 을 위해 국적 회복 을 결심 했 다 ” 고 말 했 다 .	PER-B O O O ORG-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+총공격 으로 넘어가 면 며칠 후 에 는 서울 에 들어갈 수 있 는데 , 스탈린 의 조언 을 듣 고 싶 다 』 고 함 ( 1950 년 1 월 19 일 ) .	O O O O O O O O LOC-B O O O O O O PER-B O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O

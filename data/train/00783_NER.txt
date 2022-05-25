@@ -1,17 +1,17 @@
-그래서 “경기의 승패도 중요하지만 다른 팀보다 하나라도 범실을 덜 하는 것이 목표”라고 말하였다 .	O O O O O O O O O O O O O O
-공정위, 피자 브랜드 점포 당비교… 자산구조는 ‘오구 피자’가 장 안 .	ORG-B ORG-I O O O O ORG-B ORG-I O O O
-(서울=연합뉴스) 박초 롱기자= 가수 KARD가 서울시 글로벌 홍보대사에 위촉되었다 .	LOC-B O O O ORG-B LOC-B O O O O
-잡페스티벌, 잡페어, 잡콘서트 등 올 들어 고양시에서 열리+ㄴ 네 번째(4·6·9·11월) 청년 일자리 행사+이다 .	O O O O O O LOC-B O O O O O O O
-따라서 음악의 경우 87년 이후 외국서 만들어 지+ㄴ곡을 연주하거나 녹음 하+ㄹ 때 사용자는 소정의 로열티를 지불하+여야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-현재 인천에는 중구 말고도 인천 서구와 강화군 등에서 모두 10여 곳의 해수탕이 영업하고 있다 .	O LOC-B LOC-B O LOC-B LOC-B LOC-B LOC-B O O O O O O O
-신기록을 달성 하+ㄴ 아이언나이트 에 볼보의 FH 양산용 트럭에 장착되 +ㄴ 것과 동일하+ㄴ 변속기가 사용되었다는 사실에 대하+여 매우 자랑스럽게 생각하+ㄴ다 .	O O O O O ORG-B O O O O O O O O O O O O O O O
-본인은 겸손하+여하지만 ‘부산 무료왕진 25년’은 보통 사람은 하+ㄹ 수 없는 일이다 .	O O LOC-B O O O O O O O O O
-스타트를 끊은 것은 2010년 말 결혼하+ㄴ 김태균(당시 일본 롯데)과 김석류 전 KBSN 아나운서+이다 .	O O O O O O PER-B ORG-B ORG-I PER-B O ORG-B O O
-네가 태어나면 하고 싶은 일도 정말 많아. 특히 아빠는 너+ㄹ 데리고 어디든 놀러 다니고 싶어.‘이애가 바로 나+의 딸이에요!’라고 자랑하면서 말이야(웃음).너의 부모가 되+어서 기쁘고 앞으로 건강하고 밝은 아이로 키우어 주+ㄹ게.” ‘애플 트리 김약사+이네’에서 한 번에 !아이와 엄마를 위하+ㄴ 임신기 필수 영양제 임신기의 여성이 섭취 하+여야 할 영양성분은 일반인과 다르다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-태양민 효린 열애인정, 지난해 태양MV 촬영으로 호흡 맞추+어…그룹 빅뱅의 태양과 민효린의 열애설에 빅뱅의 소속 사이+ㄴYG엔터테인먼트가 이를 인정하였다 .	PER-B PER-I O O PER-B O O O ORG-B PER-B PER-B O ORG-B O ORG-B O O O
-YG엔터테인먼트 측은 2일 “태양과 민효린이 교제하고 있는 것이 맞다”며 “축하 하+ㄹ 일”이라고 밝히었다 .	ORG-B O O PER-B PER-B O O O O O O O O O
-양현석 대표 또한 “태양에게 확인 하+ㄴ 결과 민효린과 열애가 맞다”며 태양의 열애 사실을 인정하였다 .	PER-B O O PER-B O O O PER-B O O PER-B O O O O
-이어 양현석 대표는 “태양이 처음 여자친구를 사귀는 것이다”라며 “연애 경험이 노래 하+ㄹ 때 나 무대에서 +ㄹ 때 도움이 되+ㄹ 것”이라고 전하였다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O
-앞서 민효린은 지난해 6월 발표 하+ㄴ 태양의 솔로음반 타이틀곡 ‘새벽 한시’ 뮤직비디오를 통하+여태양과 호흡을 맞추+ㄴ바 있다 .	O PER-B O O O O PER-B O O O O O PER-B O O O O
-당시 민효린은 뮤직비디오에서 태양과 이별하고 서로를 그리워하는 연인으로 등장하+여, 강렬 하+ㄴ 키스와 베드신을 선보이며 눈길을 끌었다 .	O PER-B O PER-B O O O O O O O O O O O O O
-한편 태양과 민효린은 온라인을 통하+여두 사람의 데이트 목격담이 올라오았었다 .	O PER-B PER-B O O O O O O O
+그래서 “ 경기 의 승패 도 중요하 지만 다른 팀 보다 하나 라도 범실 을 덜 하 는 것 이 목표 ” 라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공정위 , 피자 브랜드 점포 당 비교 … 자산 구조 는 ‘ 오구 피자 ’ 가장 안정	ORG-B O O O O O O O O O O O ORG-B ORG-I O O O
+( 서울 = 연합뉴스 ) 박초롱 기자 = 가수 KARD 가 서울시 글로벌 홍보 대사 에 위촉 됐 다 .	O LOC-B O ORG-B O PER-B O O O ORG-B O LOC-B O O O O O O O O
+잡 페스티벌 , 잡 페어 , 잡 콘서트 등 올 들 어 고양시 에서 열린 네 번째 ( 4 · 6 · 9 · 11 월 ) 청년 일자리 행사 다 .	O O O O O O O O O O O O LOC-B O O O O O DAT-B O DAT-B O DAT-B O DAT-B DAT-I O O O O O O
+따라서 음악 의 경우 87 년 이후 외국 서 만들 어 진 곡 을 연주하 거나 녹음할 때 사용자 는 소정 의 로열티 를 지불해야 한다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+현재 인천 에 는 중 구 말 고도 인천 서 구 와 강화군 등 에서 모두 10 여 곳 의 해수탕 이 영업하 고 있 다 .	O LOC-B O O LOC-B LOC-I O O LOC-B LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O
+신기록 을 달성한 아이언 나이트 에 볼보 의 FH 양산용 트럭 에 장착된 것 과 동일한 변속기 가 사용되 었 다는 사실 에 대해 매우 자랑스럽 게 생각한다 ”	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+본인 은 겸손해 하 지만 ‘ 부산 무료 왕진 25 년 ’ 은 보통 사람 은 할 수 없 는 일 이 다 .	O O O O O O LOC-B O O O O O O O O O O O O O O O O O
+스타트 를 끊 은 것 은 2010 년 말 결혼한 김태균 ( 당시 일본 롯데 ) 과 김석류 전 KBSN 아나운서 다 .	O O O O O O DAT-B DAT-I O O PER-B O O ORG-B ORG-I O O PER-B O ORG-B O O O
+네 가 태어나 면 하 고 싶 은 일 도 정말 많 아 . 특히 아빠 는 널 데리 고 어디 든 놀 러 다니 고 싶 어 . ‘ 이 애 가 바로 내 딸 이 에요 ! ’ 라고 자랑하 면서 말 이 야 ( 웃음 ) . 너 의 부모 가 돼서 기쁘 고 앞 으로 건강하 고 밝 은 아이 로 키 워 줄게 . ” ‘ 애플 트리 김 약사 네 ’ 에서 한 번 에 ! 아이 와 엄마 를 위한 임신 기 필수 영양제 임신 기 의 여성 이 섭취해야 할 영양 성분 은 일반인 과 다르 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+태양 민효 린 열애 인정 , 지난해 태양 MV 촬영 으로 호흡 맞춰 … 그룹 빅뱅 의 태양 과 민효린 의 열애 설 에 빅뱅 의 소속 사 인 YG 엔터테인먼트 가 이 를 인정 했 다 .	PER-B PER-B PER-I O O O O PER-B O O O O O O O ORG-B O PER-B O PER-B O O O O ORG-B O O O O ORG-B ORG-I O O O O O O O
+YG 엔터테인먼트 측 은 2 일 “ 태양 과 민효린 이 교제하 고 있 는 것 이 맞 다 ” 며 “ 축하할 일 ” 이라고 밝 혔 다 .	ORG-B ORG-I O O DAT-B DAT-I O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O
+양현석 대표 또한 “ 태양 에게 확인한 결과 민효린 과 열애 가 맞 다 ” 며 태양 의 열애 사실 을 인정 했 다 .	PER-B O O O PER-B O O O PER-B O O O O O O O PER-B O O O O O O O O
+이어 양현석 대표 는 “ 태양 이 처음 여자 친구 를 사귀 는 것 이 다 ” 라며 “ 연애 경험 이 노래할 때 나 무대 에 설 때 도움 이 될 것 ” 이라고 전 했 다 .	O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 민효린 은 지난해 6 월 발표한 태양 의 솔로 음반 타이틀 곡 ‘ 새벽 한 시 ’ 뮤직 비디오 를 통해 태양 과 호흡 을 맞춘 바 있 다 .	O PER-B O O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O
+당시 민효린 은 뮤직 비디오 에서 태양 과 이별 하 고 서로 를 그리워하 는 연인 으로 등장해 , 강렬한 키스 와 베드 신 을 선보이 며 눈길 을 끌 었 다 .	O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 태양 과 민효린 은 온라인 을 통해 두 사람 의 데이트 목격담 이 올라 왔 었 다 .	O PER-B O PER-B O O O O O O O O O O O O O O O

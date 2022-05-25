@@ -1,13 +1,13 @@
-20일 오전 1시30분께 (현지시간) 조모씨(57)가 필리핀 바탕가스 주말 바르시 자택에서 4인조 괴한의 총격을 받고 사망하였다 .	O O O O PER-B LOC-B LOC-B LOC-B LOC-I O PER-B O O O O O
-사건 당시 조씨는 자택에서 필리핀인 부인, 아기와 함께 잠을 자던 중에 피살되었다 .	O O PER-B O O O O O O O O O O
-박서준·백진희 열애설, 과거 “백진희 같은 여자, 사귀+ㄴ다면 좋다 .	PER-B O O PER-B O O O O O
-‘파리 테러’의 총책으로 알려지+ㄴ 벨기에 국적의 이슬람 국가(IS) 조직원 압델하미드 아부우드(28)가 파리 테러 직전 ‘콘서트홀 공격’ 계획뿐 아니라 바타클랑 극장에서 자폭하+ㄴ 프랑스 국적의 이 스마엘 오마르 모스테파이와 접촉 하+여+았음이 밝혀지었다고 미국 뉴욕타임스(NYT)가 보도하였다 .	LOC-B O O O ORG-B O ORG-B ORG-B O PER-B PER-I LOC-B O O O O O O LOC-B LOC-I O O O O O O O O O O ORG-B ORG-B O O
-서울중앙지검 특별수사4부(부장 배종혁)는 전날 박 의원을 소환하+여 19시간 가량 조사하+ㄴ 뒤 이날 오전 6시 반 돌려보내 +었다 .	ORG-B ORG-I PER-B O PER-B O O O O O O O O O O O O O
-코스 주변 임진강변의 주상절리가 압권이다 .	O O LOC-B O O O
-김미려, 사모님으로 정상에서 추락 후 … 남편 정성윤은 .	PER-B O O O O O O PER-B O
-반면 지난해 새로 시내면세점 사업에 진출하+ㄴ 두산과 한화갤러리아는 이번 입찰에 지원하지 않았다 .	O O O O O O ORG-B ORG-B O O O O O
-시+ㄴ 다은 폭탄 발언 “이광수가 저번에 고백하였다 .	O O O O PER-B O O O
-서울 강서구의 한복어집에서 열리+ㄴ이날 회동은 김 대표의 비서실장이+ㄴ 김학용 의원이 의원들을 모으았다 .	LOC-B LOC-B O O O PER-B O O PER-B O O O O
-익명을 원하+ㄴ 참석자는 “회동의 방점이 ‘상향식 공천 성공’에 찍히+ㄴ 만큼 김 대표에게 힘을 싣어주기 위하+ㄴ 성격이 짙다”고 말하였다 .	O O O O O O O O O O PER-B O O O O O O O O
-오늘은 10대 피부에 좋은 화장품이 뭐 +이+ㄴ지 공부하+여서 그 화장품들을 사다 주+어야 +하겠다 .	O O O O O O O O O O O O O O
-최근 어버이연합 등은 검찰청사 앞에서 검찰 수사를 반대하는 시위를 하기도 +였다 .	O ORG-B O O O O O O O O O O
+20 일 오전 1 시 30 분 께 ( 현지 시간 ) 조 모 씨 ( 57 ) 가 필리핀 바탕가스 주 말 바르 시 자택 에서 4 인 조 괴한 의 총격 을 받 고 사망 했 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O PER-B PER-I O O O O O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
+사건 당시 조 씨 는 자택 에서 필리핀 인 부인 , 아기 와 함께 잠 을 자 던 중 에 피살 됐 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O
+박서준 · 백진희 열애 설 , 과거 “ 백진희 같 은 여자 , 사귄 다면 좋 다 ”	PER-B O PER-B O O O O O PER-B O O O O O O O O O
+‘ 파리 테러 ’ 의 총책 으로 알려진 벨기에 국적 의 이슬람 국가 ( IS ) 조직원 압델 하미드 아부 우드 ( 28 ) 가 파리 테러 직전 ‘ 콘서트홀 공격 ’ 계획 뿐 아니 라 바타 클 랑 극장 에서 자폭한 프랑스 국적 의 이스마엘 오마르 모스테파이 와 접촉해 왔 음 이 밝혀 졌 다고 미국 뉴욕 타임스 ( NYT ) 가 보도 했 다 .	O LOC-B O O O O O O ORG-B O O ORG-B ORG-I O ORG-B O O PER-B PER-I PER-I PER-I O O O O LOC-B O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O ORG-B O O PER-B PER-I PER-I O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O
+서울중앙지검 특별 수사 4 부 ( 부장 배종혁 ) 는 전날 박 의원 을 소환해 19 시간 가량 조사한 뒤 이날 오전 6 시 반 돌려보냈 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O O PER-B O O O O O O O O O TIM-B TIM-I TIM-I TIM-I O O O
+코스 주변 임진강 변 의 주상 절리 가 압권 이 다 .	O O LOC-B LOC-I O O O O O O O O
+김미려 , 사모님 으로 정상 에서 추락 후 … 남편 정성윤 은 ?	PER-B O O O O O O O O O PER-B O O
+반면 지난해 새로 시내 면세점 사업 에 진출한 두산 과 한화갤러리아 는 이번 입찰 에 지원하 지 않 았 다 .	O O O O O O O O ORG-B O ORG-B O O O O O O O O O O
+신다 은 폭탄 발언 “ 이광수 가 저번 에 고백 했 다 ”	PER-B PER-I O O O PER-B O O O O O O O
+서울 강서구 의 한 복어 집 에서 열린 이날 회동 은 김 대표 의 비서실 장 인 김학용 의원 이 의원 들 을 모 았 다 .	LOC-B LOC-B O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O
+익명 을 원한 참석자 는 “ 회동 의 방점 이 ‘ 상향 식 공천 성공 ’ 에 찍힌 만큼 김 대표 에게 힘 을 실 어 주 기 위한 성격 이 짙 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+오늘 은 10 대 피부 에 좋 은 화장품 이 뭔지 공부해서 그 화장품 들 을 사 다 줘야 겠 다 .	O O O O O O O O O O O O O O O O O O O O O O
+최근 어버이 연합 등 은 검찰 청사 앞 에서 검찰 수사 를 반대하 는 시위 를 하 기 도 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O

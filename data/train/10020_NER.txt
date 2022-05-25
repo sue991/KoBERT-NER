@@ -1,12 +1,12 @@
-자동차-항공우주-선박-에너지 등 전시물 80% 체험형 시설로 꾸미+ .	O O O O O O O O
-새만금개발청은 공동구매와 설치예술, 월드뮤직, 캠핑 등으로 구성되는 노마드 축제가 안착되면 2023년 새만금 세계잼버리대회 개최를 위하+ㄴ 발판 역시 마련하+ㄹ 수 있을 것으로 보고 있다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O
-동시 개봉 ‘공조’ vs ‘더킹’… 브로맨스 승자는 .	O O O O O O O O
-바로 오스카+이죠. 사실 그는 어리+ㄹ적부터 시장 ‘캐서린’ 만 사랑 하+ㄴ 순정남이거든요 .	O PER-B O O O O PER-B O O O O O
-中신화통신 “중국 톈진 폭발사고로 44명 사망·500여명 부상”… ‘대형 참사 .	ORG-B O O O O O O O O O
-실리콘밸리는 글로벌 정보기술(IT) 패러다임을 주도하고 있는 미국에 위치하+여 있다 .	LOC-B O O O O O LOC-B O O O
-백다미 현대경제연구원 선임연구원은 “저물가로 인하+ㄴ 혜택이 상대적으로 적었던 저소득층, 소형가구의 물가부담 완화를 위하+여 식료품 물가안정을 위하+ㄴ 노력이 필요하다”며 “농산물 계약재배 물량을 늘리고, 대규모 출하시설을 건설 하+여 가격 안정성을 높이고 유통구조를 바꾸+어야 하+ㄴ다”고 지적하였다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-출구가 하나뿐 이+ㄴ클럽에 수용 가능 인원을 초과하+여 400명의 입장을 허용 하+ㄴ 것은 공직사회에 만연하+ㄴ 부정부패와 관련이 있다고 믿었다 .	O O O O O O O O O O O O O O O O O O O
-그는 재빨리 군복을 벗고 대통령 선거에 출마하+여 96.9%+이라는 수상쩍은 득표로 당선되었다 .	O O O O O O O O O O O O
-평택성모병원, 평택 굿모닝병원, 평택 푸른의원, 평택 365연합의원, 평택박애병원, 평택연세허브가정의학과, 평택 새 서울의원 .	LOC-B LOC-B LOC-I LOC-B LOC-I LOC-B LOC-I LOC-B LOC-B LOC-B O O O
--마포자이3차, 중소형 위주 면적 구성, 분양시장 내 인기 높은 펜트하우스 등 특화 평면 선보이어 서울 강북권 재개발 시장이 들썩이고 있다 .	LOC-B O O O O O O O O O O O O O LOC-B LOC-I O O O O O
-최초에 도전하는 차준환, 점프가 최대 무 .	O O PER-B O O O O
+자동차 - 항공 우주 - 선박 - 에너지 등 전시물 80 % 체험 형 시설 로 꾸며	O O O O O O O O O O O O O O O O O
+새만금 개발 청 은 공동 구매 와 설치 예술 , 월드 뮤직 , 캠핑 등 으로 구성되 는 노마드 축제 가 안착되 면 2023 년 새만금 세계 잼버리 대회 개최 를 위한 발판 역시 마련할 수 있 을 것 으로 보 고 있 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+동시 개봉 ‘ 공조 ’ vs ‘ 더 킹 ’ … 브 로맨스 승자 는 ?	O O O O O O O O O O O O O O O O
+바로 오스카 죠 . 사실 그 는 어릴 적 부터 시장 ‘ 캐서린 ’ 만 사랑한 순정 남 이 거든요 .	O PER-B O O O O O O O O O O PER-B O O O O O O O O
+中 신화통신 “ 중국 톈진 폭발 사고 로 44 명 사망 · 500 여 명 부상 ” … ‘ 대형 참사 ’	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+실리콘밸리 는 글로벌 정보 기술 ( IT ) 패러다임 을 주도하 고 있 는 미국 에 위치해 있 다 .	LOC-B O O O O O O O O O O O O O LOC-B O O O O O
+백다 미 현대 경제 연구원 선임 연구원 은 “ 저물가 로 인한 혜택 이 상대적 으로 적 었 던 저소득층 , 소형 가구 의 물가 부담 완화 를 위해 식료품 물가 안정 을 위한 노력 이 필요하 다 ” 며 “ 농산물 계약 재배 물량 을 늘리 고 , 대규모 출하 시설 을 건설해 가격 안정성 을 높이 고 유통 구조 를 바꿔야 한다 ” 고 지적 했 다 .	PER-B PER-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+출구 가 하나 뿐 인 클럽 에 수용 가능 인원 을 초과해 400 명 의 입장 을 허용한 것 은 공직 사회 에 만연한 부정부패 와 관련 이 있 다고 믿 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 재빨리 군복 을 벗 고 대통령 선거 에 출마해 96.9 % 라는 수상쩍 은 득표 로 당선되 었 다 .	O O O O O O O O O O O O O O O O O O O O O O
+평택성모병원 , 평택굿모닝병원 , 평택 푸른 의원 , 평택 365 연합 의원 , 평택 박애병 원 , 평택 연세 허브 가정 의학 과 , 평택 새서울의원 ,	LOC-B O LOC-B O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-I O
+- 마포 자이 3 차 , 중소형 위주 면적 구성 , 분양 시장 내 인기 높 은 펜트하우스 등 특화 평면 선보 여 서울 강북 권 재개발 시장 이 들썩이 고 있 다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O
+최초 에 도전하 는 차준환 , 점프 가 최대 무기	O O O O PER-B O O O O O

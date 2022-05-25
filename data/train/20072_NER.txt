@@ -1,13 +1,13 @@
-CJ제일제당의 ‘백설군만두’는 3위에 머무르었다 .	ORG-B O O O O
-그러나 바둑 4000년의 전설은 허무하게 무너지었다 .	O O O O O O O
-이 과정에서 얼굴이 알려지+ㄴ 최씨에게 협박이 이어지었다 .	O O O O PER-B O O O
-수능 전형은 수능 100%를, 일반전형은 수능 60%, 학생부 40%를 각각 반영하+ㄴ다 .	O O O O O O O O O O O O
-60세 퇴직을 가정하+ㄹ 때 40년 동안 어떻게 살+ㄹ 것이 +ㄴ지는 평생학습을 통하+여 어떤 준비를 +였느냐에 따르 아 결정되+ㄴ다고 보+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O
-80억원이 투입되+ㄹ 기술교육원은 내년 8월 착공 하+여 2017년 7월 개원 하+ㄹ 예정이다 .	MNY-B O O O O O O O O O O O O
-보성주 음마을 12일 만에 격리 해제… ‘녹차로 메르스이기+어내 +었다 .	O O O O O O O O O O
-지소연은 코스타리카전에서 테널티킥으로 골을 기록하였지만 4차례의 슈팅 기회를 골로 연결시키지 못하였다 .	PER-B O O O O O O O O O O O
-수렵용으로 등록되+ㄴ엽총은 전국적으로 3만7424정에 이르+ㄴ다 .	O O O O O O
-지금은 반백이 +었지만 어리+ㄴ 시절 아버지가 월급날 사+아오+ㄴ 통닭 한 마리를 잊지 못하+ 여이골목을 찾아오는 사람들에게, 통닭집은 변하지 않는 맛으로 이들에게 옛 추억을 선사 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘수원 통닭골목’ 소식에 누리꾼들은 “수원 통닭골목, 꼭 가+아야 +하겠다” .	LOC-B LOC-I O O LOC-B LOC-I O O O O
-●무늬만 미국 투어 이날 우연히 TV 중계를 지켜보+ㄴ 국내 시청자+이라면 한국 여자 프로골프(KLPGA) 투어 대회로 착각 하+ㄹ만 +였다 .	O ORG-B O O O O O O O O ORG-B ORG-I ORG-B O O O O O O
-‘라디오 스타’ 예정화, ‘36-23-37’ 화이트 비키니 자태 보니 …비결이 뭐 +이야 .	O O O O O O O O O O O O
+CJ 제일제당 의 ‘ 백설 군만두 ’ 는 3 위 에 머물 렀 다 .	ORG-B ORG-I O O O O O O O O O O O O O
+그러나 바둑 4000 년 의 전설 은 허무하 게 무너 졌 다 .	O O O O O O O O O O O O O
+이 과정 에서 얼굴 이 알려진 최 씨 에게 협박 이 이어 졌 다 .	O O O O O O PER-B O O O O O O O O
+수능 전형 은 수능 100 % 를 , 일반 전형 은 수능 60 % , 학생부 40 % 를 각각 반영한다 .	O O O O O O O O O O O O O O O O O O O O O O
+60 세 퇴직 을 가정할 때 40 년 동안 어떻 게 살 것 인지 는 평생 학습 을 통해 어떤 준비 를 했 느냐 에 따 라 결정된다고 봅니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+80 억 원 이 투입될 기술 교육 원 은 내년 8 월 착공해 2017 년 7 월 개원할 예정 이 다 .	MNY-B MNY-I MNY-I O O O O O O O DAT-B DAT-I O DAT-B DAT-I DAT-I DAT-I O O O O O
+보성 주음 마을 12 일 만 에 격리 해제 … ‘ 녹차 로 메르스 이겨 냈 다 ’	O O O O O O O O O O O O O O O O O O
+지소연 은 코스타리카 전 에서 페널티 킥 으로 골 을 기록 했 지만 4 차례 의 슈팅 기회 를 골 로 연결 시키 지 못 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수렵 용 으로 등록된 엽총 은 전국적 으로 3 만 7424 정 에 이른다 .	O O O O O O O O O O O O O O O
+지금 은 반백 이 됐 지만 어린 시절 아버지 가 월급날 사 온 통닭 한 마리 를 잊 지 못해 이 골목 을 찾아오 는 사람 들 에게 , 통닭집 은 변 치 않 는 맛 으로 이 들 에게 옛 추억 을 선사한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 수원 통닭 골목 ’ 소식 에 누리 꾼 들 은 “ 수원 통닭 골목 , 꼭 가야 겠 다 ” ,	O LOC-B LOC-I LOC-I O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O
+● 무늬 만 미국 투어 이날 우연히 TV 중계 를 지켜본 국내 시청자 라면 한국 여자 프로 골프 ( KLPGA ) 투어 대회 로 착각할 만 했 다 .	O O O ORG-B O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O
+‘ 라디오스타 ’ 예정화 , ‘ 36 - 23 - 37 ’ 화이트 비키니 자태 보 니 … 비결 이 뭐 야 ?	O O O O O O O O O O O O O O O O O O O O O O O

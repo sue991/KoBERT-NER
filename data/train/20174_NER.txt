@@ -1,13 +1,13 @@
-한 달 후 한씨의 교정이 마침내 마무리되었다 .	PER-B O O PER-B O O O O
-유족으로는 부인 손애자 여사(85)와 1남 7녀가 있다 .	O O PER-B O O O O O
-전남 보성과 구례, 전북 고창 등 전라도 땅에는 유장하+ㄴ판소리가락과 명창의 흔적이 배어 있는 곳이 많지만 유독 남원 사람들의 판소리에 대하+ㄴ자존심은 각별하다 .	LOC-B LOC-B LOC-B LOC-B LOC-B O LOC-B O O O O O O O O O LOC-B O O O O O
-곧 남도 땅은 노랗+ㄴ 물결로 뒤덮이 +ㄹ 것+이+ㅂ니다 .	O LOC-B O O O O O O O
-남도 끝자락 강진들녘의 청보리도 이에 뒤지+ㄹ 세라 초록을 한껏 뿜어내 +ㅂ니다 .	LOC-B O LOC-B O O O O O O O O O
-상하이 살비지는 중국 양쯔강 서 침몰 하+ㄴ 유람선둥 팡즈싱호를 인양 하+ㄴ 업체 +이다 .	LOC-B O LOC-B LOC-B O O O O O O O O O O
-동방신기 스페셜 앨범 … 유노윤호 입대 전 팬들에 마지막 선물 ‘라이즈 애즈갓’ 동방신기 스페셜 앨범그룹 동방신기가 오는 20일 스페셜 앨범 ‘라이즈 애즈갓’(RISEASGOD)을 전격 출시하+ㄴ다 .	ORG-B O O O PER-B O O O O O O O ORG-B O O ORG-B O O O O O O O O O
-15일 소속사 SM엔터테인먼트 측은 “동방신기는 오는 20일 각종 음악 사이트를 통하+여 스페셜 앨범 ‘라이즈 애즈갓’의 전곡 음원을 공개하+ㄴ다 .	O O ORG-B O ORG-B O O O O O O O O O O O O O O
-한국영화기자협회가 18일 개최 하+ㄴ ‘제8회 올해의 영화상’ 시상식에 앞서 +어수상자들이 포토월에서 포즈를 취하였다 .	ORG-B O O O O O O O O O O O O O
-이날 오후 6시30분 한국프레스센터 20층 국제회의장에서 열리+ㄴ 시상식이 열리+ㄴ 가운데 남우조연상을 받은 ‘부산행’의 마동석을 비롯하+여 여우 조연상 ‘덕혜옹주’의 라미란, 신인남우상 수상자 ‘4등’의 정가람, 신인 여우상 ‘아가씨’의 김태리, 올해의 발견상을 수상하+ㄴ ‘부산행’의 연상호 감독, 올해의 영화 인상에 빛나는 ‘아가씨’의 박찬욱 감독이 각각 카메라 앞에서 +었다 .	O O O ORG-B O O O O O O O O O PER-B O O O O PER-B O O O PER-B O O O PER-B O O O O PER-B O O O O O O PER-B O O O O O O
-정부 지원 서민대출업체를 사칭하+여고 금리 대출을 받으면 저금리로 갈아타+ㄹ 수 있다고 속이 어 돈을 가로채+ㄴ 보이스피싱 조직의 인출책과 '대포통장' 양도자 등 46명이 경찰에 붙잡히 었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-경기 고양경찰서는 13일 보이스피싱 피해자들이 입금 하+ㄴ 4억여원을 인출하+여중국에 있는 총책에게 넘기+ㄴ인출책 A씨(31)씨를 사기 혐의로 구속하였다고 밝히었다 .	LOC-B ORG-B O O O O O MNY-B MNY-I O O O PER-B O O O O O
-서울시내 한 대형마트 관계자는 “현재 옥시제품의 재고분량은 2개월간 판매 하+ㄹ 수 있는 수준이다 .	LOC-B O O O O ORG-B O O O O O O O O
+한 달 후 한 씨 의 교정 이 마침내 마무리 됐 다 .	O O O PER-B O O O O O O O O O
+유족 으로 는 부인 손애자 여사 ( 85 ) 와 1 남 7 녀 가 있 다 .	O O O O PER-B O O O O O O O O O O O O O
+전남 보성 과 구례 , 전북 고창 등 전라도 땅 에 는 유장한 판소리 가락 과 명창 의 흔적 이 배 어 있 는 곳 이 많 지만 유독 남원 사람 들 의 판소리 에 대한 자존심 은 각별하 다 .	LOC-B LOC-B O LOC-B O LOC-B LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
+곧 남도 땅 은 노란 물결 로 뒤덮일 겁니다 .	O LOC-B O O O O O O O O
+남도 끝 자락 강진 들녘 의 청 보리 도 이 에 뒤질세라 초록 을 한껏 뿜어냅니다 .	LOC-B O O LOC-B O O O O O O O O O O O O O
+상하이 살비지 는 중국 양쯔 강 서 침몰한 유람선 둥팡즈싱호 를 인양한 업체 다 .	LOC-B O O LOC-B LOC-B LOC-I O O O O O O O O O
+동방신기 스페셜 앨범 … 유 노윤호 입대 전 팬 들 에 마지막 선물 ‘ 라이즈 애즈 갓 ’ 동방신기 스페셜 앨범 그룹 동방신기 가 오 는 20 일 스페셜 앨범 ‘ 라이즈 애즈 갓 ’ ( RISE AS GOD ) 을 전격 출시한다 .	ORG-B O O O PER-B PER-I O O O O O O O O O O O O ORG-B O O O ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+15 일 소속 사 SM 엔터테인먼트 측 은 “ 동방신기 는 오 는 20 일 각종 음악 사이트 를 통해 스페셜 앨범 ‘ 라이즈 애즈 갓 ’ 의 전곡 음원 을 공개한다 .	DAT-B DAT-I O O ORG-B ORG-I O O O ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+한국 영화 기자 협회 가 18 일 개최한 ‘ 제 8 회 올해 의 영화 상 ’ 시상식 에 앞서 수상자 들 이 포토 월 에서 포즈 를 취 했 다 .	ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 오후 6 시 30 분 한국프레스센터 20 층 국제 회의장 에서 열린 시상식 이 열린 가운데 남우 조연 상 을 받 은 ‘ 부산 행 ’ 의 마동석 을 비롯해 여우 조연 상 ‘ 덕혜 옹주 ’ 의 라미란 , 신인 남우 상 수상자 ‘ 4 등 ’ 의 정가람 , 신인 여우 상 ‘ 아가씨 ’ 의 김태리 , 올해 의 발견 상 을 수상한 ‘ 부산 행 ’ 의 연상호 감독 , 올해 의 영화 인상 에 빛나 는 ‘ 아가씨 ’ 의 박찬욱 감독 이 각각 카메라 앞 에 섰 다 .	O TIM-B TIM-I TIM-I TIM-I TIM-I ORG-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O
+정부 지원 서민 대출 업체 를 사칭해 고금리 대출 을 받 으면 저금리 로 갈아탈 수 있 다고 속 여 돈 을 가로챈 보이스 피싱 조직 의 인출 책 과 ' 대포 통장 ' 양도 자 등 46 명 이 경찰 에 붙잡 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경기 고양 경찰서 는 13 일 보이스 피싱 피해자 들 이 입금한 4 억 여 원 을 인출해 중국 에 있 는 총책 에게 넘긴 인출 책 A 씨 ( 31 ) 씨 를 사기 혐의 로 구속 했 다고 밝 혔 다 .	LOC-B ORG-B ORG-I O DAT-B DAT-I O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+서울 시내 한 대형 마트 관계자 는 “ 현재 옥시 제품 의 재고 분량 은 2 개월 간 판매할 수 있 는 수준 이 다 .	LOC-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O

@@ -1,16 +1,16 @@
-이화여대 측은 “여성 교육의 지평 확대”라고 주장하는 반면 학생 측은 “학위장사”+이라며 반발하고 있다 .	ORG-B O O O O O O O O O O O O O
-또 해결이 가장 시급하+ㄴ 지역 문제를 묻는 질문에서도 「교통체증 완화」 35.2%, 「지하철 ­버스 등의 교통 편의 확대」 10.3% 등 응답자의 45.5%가 교통문제를 꼽았다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-한국무역협회와 관세청에 따르면 2013년 628억2000만달러+이었던 한국의 대(對) 중국 무역수지 흑자는 2015년 468억7000만달러로 감소하였다 .	ORG-B ORG-B O O MNY-B ORG-B O ORG-B O O O MNY-B O O
-올림픽 출전권 레이스 2016년 최대 관심사는 8월 열리는 리우데자네이루 올림픽이다 .	O O O O O O O O O O O
-전날 ‘야권의 불모지’이+ㄴ대구에서의 첫 유세 컨셉이 중도 확장이었다면 이날 유세에서는 텃밭 다지기와 통합에 집중하였다 .	O O LOC-B O O O O O O O O O O O O
-이에 전소미는 “개성 있게 낳아주시+어서 감사하다”면서 미소를 짓었다 .	O PER-B O O O O O O O
-목소리는 한옥타브 올라가 +았고 몸은 하늘을 날 듯 가볍어 보이고 얼굴은 장하+ㄴ일을 하+ㄴ 것처럼 상기되어 있었다 .	O O O O O O O O O O O O O O O O O
-일본은 센카쿠 열도 문제로 중국의 전방위적 보복을 경험하였다 .	ORG-B LOC-B LOC-I O ORG-B O O O O
-”③배기형 세종대 경제통상학과 교수(산업대학원장) “EU의 경기가 위축되면 EU 내 투자·소비심리에 영향을 미치+어우리나라의 대EU 수출이 줄어들 +ㄹ 수밖에 없다 .	PER-B ORG-B ORG-I O ORG-B O O ORG-B O O O ORG-B ORG-B O O O O O O
-미러 OLED는 75% 반사율 실현… “거울 보며 액세서리가 상착용 .	O O O O O O O O O O
-그렇다면 이제 가장 중요하+ㄴ 질문이 하나 남는다 .	O O O O O O O O
-노벨경제학상 수상자 같은 전문가들이 일제히 경제적 재앙을 경고하였는데도 영국이 브렉시트(Brexit·영국의 유럽연합 탈퇴)를 선택하+ㄴ 23일, 도널드 트럼프 미국 공화당 대선 후보는 11월 대선 승리가 확정되+ㄴ듯 하+ㄴ 표정이었다 .	O O O O O O O O ORG-B ORG-B ORG-B O O O PER-B PER-I ORG-B ORG-I O O O O O O O O O
-양정호 성균관대 교수는 “이공계에는 특히 경력이 많은 여교수가 적은데, 대학마다 이공계열 총장이 늘어나는 추세도 여성들에게는 불리하+ㄴ 상황”이라고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O
-‘백종원 돈가스’ 백종원이 돈가스 튀김의 비법을 전수하+ 여화제+이다 .	PER-B O PER-B O O O O O O
-2011년 일본의 화학업체 이+ㄴ 아사히카세이케미컬이 한국에 200억엔(당시 약 2700억원)을 투자 하+여울산공장을 증설하면서 밝히+ㄴ 내용이다 .	O ORG-B O O ORG-B ORG-B MNY-B O MNY-B O ORG-B O O O O
-특히 전년 대비 영업이익 감소사(295사)의 주가는 평균 1.59% 하락하였다 .	O O O O O O O O O O
+이화여대 측 은 “ 여성 교육 의 지평 확대 ” 라고 주장하 는 반면 학생 측 은 “ 학위 장사 ” 라며 반발하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 해결 이 가장 시급한 지역 문제 를 묻 는 질문 에서 도 「 교통 체증 완화 」 35.2 % , 「 지하철 ­ 버스 등 의 교통 편의 확대 」 10.3 % 등 응답자 의 45.5 % 가 교통 문제 를 꼽 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국무역협회 와 관세청 에 따르 면 2013 년 628 억 2000 만 달러 였 던 한국 의 대 ( 對 ) 중국 무역 수지 흑자 는 2015 년 468 억 7000 만 달러 로 감소 했 다 .	ORG-B O ORG-B O O O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O O ORG-B O O O O O ORG-B O O O O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O
+올림픽 출전권 레이스 2016 년 최대 관심사 는 8 월 열리 는 리우데자네이루 올림픽 이 다 .	O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O
+전날 ‘ 야권 의 불모지 ’ 인 대구 에서 의 첫 유세 컨셉 이 중도 확장 이 었 다면 이날 유세 에서 는 텃밭 다지 기 와 통합 에 집중 했 다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 전소미 는 “ 개성 있 게 낳 아 주 셔서 감사하 다 ” 면서 미소 를 지 었 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O
+목소리 는 한 옥타브 올라갔 고 몸 은 하늘 을 날 듯 가벼 워 보이 고 얼굴 은 장한 일 을 한 것 처럼 상기되 어 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 은 센카쿠 열도 문제 로 중국 의 전 방위 적 보복 을 경험 했 다 .	ORG-B O LOC-B LOC-I O O ORG-B O O O O O O O O O O
+” ③ 배기 형 세종대 경제 통상 학과 교수 ( 산업 대학원 장 ) “ EU 의 경기 가 위축되 면 EU 내 투자 · 소비 심리 에 영향 을 미쳐 우리나라 의 대 EU 수출 이 줄어들 수 밖에 없 다 .	O O PER-B PER-I ORG-B ORG-I ORG-I ORG-I O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O ORG-B O O ORG-B O O O O O O O O
+미러 OLED 는 75 % 반사율 실현 … “ 거울 보 며 액세서리 가상 착용 ”	O O O O O O O O O O O O O O O O
+그렇 다면 이제 가장 중요한 질문 이 하나 남 는다 .	O O O O O O O O O O O
+노벨 경제학 상 수상자 같 은 전문가 들 이 일제히 경제적 재앙 을 경고 했 는데 도 영국 이 브렉시트 ( Brexit · 영국 의 유럽 연합 탈퇴 ) 를 선택한 23 일 , 도널드 트럼프 미국 공화당 대선 후보 는 11 월 대선 승리 가 확정된 듯한 표정 이 었 다 .	O O O O O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B ORG-I O O O O DAT-B DAT-I O PER-B PER-I ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O O O O
+양정호 성균관대 교수 는 “ 이공 계 에 는 특히 경력 이 많 은 여 교수 가 적 은데 , 대학 마다 이공 계열 총장 이 늘어나 는 추세 도 여성 들 에게 는 불리한 상황 ” 이라고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 백종원 돈가스 ’ 백종원 이 돈가스 튀김 의 비법 을 전수해 화제 다 .	O PER-B O O PER-B O O O O O O O O O O
+2011 년 일본 의 화학 업체 인 아사히 카 세이 케미컬 이 한국 에 200 억 엔 ( 당시 약 2700 억 원 ) 을 투자해 울산 공장 을 증설하 면서 밝힌 내용 이 다 .	DAT-B DAT-I ORG-B O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O ORG-B ORG-I O O O O O O O O
+특히 전년 대비 영업 이익 감소 사 ( 295 사 ) 의 주가 는 평균 1.59 % 하락 했 다 .	O O O O O O O O O O O O O O O O O O O O O

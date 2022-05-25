@@ -1,17 +1,17 @@
-양효진 20득점…현대건설, 4년 만에 챔프 전 진 .	PER-B ORG-B O O O O O O
-남들은 도수 내리는데 맥캘란 40도 새 제품 내놓+ .	O O O ORG-B O O O O O
-우씨는 8월 중순 한 재한 중국인 인터넷 커뮤니티에 자신의 억울하+ㅁ과 실망감을 담은 글을 올리었다 .	PER-B O O O O O O O O O O O O O O
-여기에다 중국이 아시아 인프라 투자은행(AIIB) 부총재직 신규 공모 발표를 사드 배치 결정 시기에 맞추+어 하+ㄴ 것을 ‘중국이 한국에 보내+ㄴ 메시지’로 해석하는 이도 적지 않다 .	O ORG-B O O ORG-B O O O O O O O O O O O ORG-B ORG-B O O O O O O O
-7월 4일 적탱크 20여대와 5000여명에 달하는 북한군의 남진을 막기 위 하+ 여출격하였다 .	O O O O O O ORG-B O O O O O O
-임성호 종로학원 하늘교육 대표는 “서울대 합격생을 보면 지역균형은 내신 1등급 초반, 일반전형도 최소 2~3등급은 되+어야 합격 하+ㄴ 것으로 나타나 +았다”며 “내신이 주요 대학 학종의 핵심으로 떠오르았다”고 분석하였다 .	PER-B ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-LG전자는 16일 서울 여의도 트윈타워에서 신제품 발표회를 열고 휘센 듀얼 에어컨을 비롯하+여 총 29종의 에어컨 신제품을 공개하였다 .	ORG-B O LOC-B LOC-B LOC-I O O O ORG-B O O O O O O O O O
-그가 남기+ㄴ보석 같은 데뷔 음반이 자유작이 되+ㄴ 1집 ‘사랑하기 때문에’를 천천히 곱씹을 수도 있고, 2014년 리마스터링으로 한층 생생하게 돌아오+ㄴ그의 목소리를 즐기+ㄹ 수도 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-지정기록물로 정하+여지면 보호기간은 15년 범위 이내에서 정하+ㄹ 수 있지만 개인 사생활과 관련되 +ㄴ 기록물은 30년 이내까지 범위가 길어지+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-인도 뉴델리, ‘노상응가’ 시민 단속… ‘청결안내원’ 도 .	LOC-B LOC-B O O O O O O
-필기전형은 NCS 직업기초능력평가 및 직무수행능력평가를 실시하+ㄴ다 .	O O O O O O O
-연비는 유럽 기준으로 30.3km/l, 이산화탄소 배출량은 77g/km(이 수치는 EU의 플러그인 하이브리드 차량 테스트 기준이며, 타이어 포맷 등 세부 조건에 따르 아결과가 달라 지+ㄹ 수 있음)이다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-이 과정에서 남상미는 첫 번째가 아니+ㄴ 수정되+ㄴ 시놉 시스를 받아 보+았고, 크+ㄴ이견 없이 출연을 결정하였다 .	O O PER-B O O O O O O O O O O O O O
-50년 전 제너럴모터스(GM) 근로자는 현재 화폐가치로 시간당 50달러를 벌었지만 현재 월마트 직원은 시간당 8달러를 받는다 .	MNY-B O ORG-B O O O O MNY-B O O ORG-B O O MNY-B O O
-설 연휴, 나라를 살리+ㄹ 시민정신이 무엇이 +ㄴ지 고민하고 토론하는 시간이 되었으면 좋겠습니다 .	O O O O O O O O O O O O O
-매일 한강에서 물 4만t을 끌어오는 청계천의 자연성 복원을 위하+여서는 “중학천의 복개를 벗기+어내고 물길부터 잇어야 하+ㄴ다”는 주장이 나 오+ㄴ다 .	O LOC-B O O O O O O O O O O O O O O O O O
-당초 10-20대 젊은층 대상이었던 이랜드의 ‘티니위니’는 30-40대까지 고객층을 넓히고 있다 .	O O O O ORG-B O O O O O O
+양효진 20 득점 … 현대건설 , 4 년 만 에 챔프 전 진출	PER-B O O O ORG-B O O O O O O O O
+남 들 은 도수 내리 는데 맥캘 란 40 도 새 제품 내놔	O O O O O O ORG-B ORG-I O O O O O
+우 씨 는 8 월 중순 한 재한 중국인 인터넷 커뮤니티 에 자신 의 억울함 과 실망감 을 담 은 글 을 올 렸 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+여기 에다 중국 이 아시아인프라투자은행 ( AIIB ) 부총재 직 신규 공모 발표 를 사드 배치 결정 시기 에 맞춰 한 것 을 ‘ 중국 이 한국 에 보낸 메시지 ’ 로 해석하 는 이 도 적 지 않 다 .	O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O
+7 월 4 일 적 탱크 20 여 대 와 5000 여 명 에 달하 는 북한 군 의 남진 을 막 기 위해 출격 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+임성호 종로학원 하늘 교육 대표 는 “ 서울대 합격 생 을 보 면 지역 균형 은 내신 1 등급 초반 , 일반 전형 도 최소 2 ~ 3 등급 은 돼야 합격한 것 으로 나타났 다 ” 며 “ 내신 이 주요 대학 학 종 의 핵심 으로 떠올 랐 다 ” 고 분석 했 다 .	PER-B ORG-B ORG-I ORG-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+LG 전자 는 16 일 서울 여의도 트윈 타워 에서 신제품 발표회 를 열 고 휘센 듀얼 에어컨 을 비롯해 총 29 종 의 에어컨 신제품 을 공개 했 다 .	ORG-B ORG-I O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I O O O O O O ORG-B O O O O O O O O O O O O O O O
+그 가 남긴 보석 같 은 데뷔 음반 이 자 유작 이 된 1 집 ‘ 사랑하 기 때문 에 ’ 를 천천히 곱씹 을 수 도 있 고 , 2014 년 리 마스터 링 으로 한층 생생하 게 돌아온 그 의 목소리 를 즐길 수 도 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+지정 기록물 로 정해 지 면 보호 기간 은 15 년 범위 이내 에서 정할 수 있 지만 개인 사생활 과 관련된 기록 물 은 30 년 이내 까지 범위 가 길 어 진다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인도 뉴델리 , ‘ 노상 응가 ’ 시민 단속 … ‘ 청결 안내원 ’ 도입	LOC-B LOC-B O O O O O O O O O O O O O
+필기 전형 은 NCS 직업 기초 능력 평가 및 직무 수행 능력 평가 를 실시한다 .	O O O O O O O O O O O O O O O O
+연비 는 유럽 기준 으로 30.3 km / l , 이산화탄소 배출 량 은 77 g / km ( 이 수치 는 EU 의 플러그인 하이브리드 차량 테스트 기준 이 며 , 타이어 포맷 등 세부 조건 에 따 라 결과 가 달라질 수 있 음 ) 이 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 과정 에서 남상미 는 첫 번째 가 아닌 수정된 시놉시스 를 받 아 봤 고 , 큰 이견 없이 출연 을 결정 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+50 년 전 제너럴모터스 ( GM ) 근로자 는 현재 화폐 가치 로 시간 당 50 달러 를 벌 었 지만 현재 월 마트 직원 은 시간 당 8 달러 를 받 는다 .	O O O ORG-B O ORG-B O O O O O O O O O MNY-B MNY-I O O O O O ORG-B ORG-I O O O O MNY-B MNY-I O O O O
+설 연휴 , 나라 를 살릴 시민 정신 이 무엇 인지 고민하 고 토론하 는 시간 이 되 었 으면 좋 겠 습니다 .	DAT-B O O O O O O O O O O O O O O O O O O O O O O O
+매일 한강 에서 물 4 만 t 을 끌어오 는 청계천 의 자연 성 복원 을 위해서 는 “ 중학 천의 복개 를 벗겨 내 고 물길 부터 이 어야 한다 ” 는 주장 이 나온다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당초 10 - 20 대 젊 은 층 대상 이 었 던 이랜드 의 ‘ 티니위니 ’ 는 30 - 40 대 까지 고객 층 을 넓히 고 있 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O

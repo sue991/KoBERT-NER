@@ -1,17 +1,17 @@
-이날 앰네스티는 “박근혜 대통령 임기 2년에 접어들 +ㄴ한국의 인권 상황 이 후퇴하는 경향을 보이었다”고 밝히었다 .	O ORG-B PER-B O O O O ORG-B O O O O O O O O
-‘안 읽는 약관들/너무 많아/약관은 계약서 /똑똑하+ㄴ게임 유저 / 스스로 보호하+ㄹ 수 있어/ 미리 보고 예방/너도 한 번 하+여보+아/꼼꼼히 보+ㄹ걸 후회하지 말+아.’ Mnet 예능 프로그램 ‘쇼미더머니3’ 등에서 고교생 래퍼로 이름을 알리+ㄴ 육지담이 부르+ㄴ 캠페인송의가 사다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O PER-B O O O O
-또 피스크 검사는 백악관 측에 클린턴 대통령의 아칸소주 주지사 재임 시절 그의 금융 부정 의혹 사건을 조사하였던 법무부를 상대로 백악관 측이 접촉 하+ㄴ 내용에 관하+ㄴ 서류를 제출하도록 요구하였다 .	O PER-B O ORG-B O PER-B O LOC-B O O O O O O O O O ORG-B O ORG-B O O O O O O O O O
-“대북 심리전 방송이 북한군에 미치는 효과는 남한 사람들이 생각하는 것보다 크다 .	O O O ORG-B O O LOC-B O O O O O
-2상 연구에서는 중증도 3~5단계의 약물 유해 반응을 보이+ㄴ 환자가 11~14%에 불과하였다 .	O O O O O O O O O O O O
-걸스데이 태도 논란, 아무 문제 없는데 논란?… 진행자 최군 “분위기 좋았다” 걸그룹 걸스데이가 방송 태도와 관련 누리꾼들의 관심사로 떠오르았다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O
-걸스데이는 지나 +ㄴ 7일 인터넷 방송 아프리카 ‘최군 TV’에 출연하였다 .	ORG-B O O O O O O O O O O
-‘크로스핏 나노7’은 실제 크로스핏 선수, 커뮤니티 회원들과의 연구개발을 통하+여단 기간 고강도의 운동을 기반으로 하는 크로스핏과 각종 피트니스에 최적화 하+ㄴ 트레이닝 화이다 .	O O O O O O O O O O O O O O O O O O O O O O
-中어선 불법조업 단속 강화 위 하+ .	LOC-B O O O O O O
-한 ­미간 공조에는 이상이 없다 .	ORG-B ORG-I O O O O
-그는 과거 “내가 하면 로맨스, 남이 하면 불륜” “국정의 총체적 난국” “정치 9단” “야당의 습관성 가출” 등 수많은 히트작을 쏟아내 +었다 .	O O O O O O O O O O O O O O O O O O O O O O
-민병헌-김현수 등 타선 연 일맹타…니퍼트 이끌는 선발진 든든하지 .	PER-B O O O PER-B O O O O
-MLB 주관 … 선수들 메이저리거 대접… 숙소-비행기 좌석 등 최고급 제 .	ORG-B O O O O O O O O O O O
-아이가 세상의 빛을 본 지 1년째 되는 날, 아빠는 홈런포로자 축하였다 .	O O O O O O O O O O O O
-나성범은 올 시즌이 시작하자마자 시즌 후 결혼 하+ㄴ다는 소식을 알리었다 .	PER-B O O O O O O O O O O
-전동해액 토즈게임즈 대표는 “2015년은 액토즈게임즈가 글로벌 시장에 새롭게 진출하는 시작점”이라고 말하였다 .	ORG-B ORG-I O O ORG-B O O O O O O O
-이들은 농협중앙회가 주관하는 ‘농촌으로 가는 행복열차’를 타고 딸기 수확 체험에 나서 +ㄴ 주부들이다 .	O ORG-B O O O O O O O O O O O O
+이날 앰네스티 는 “ 박근혜 대통령 임기 2 년 에 접어든 한국 의 인권 상황 이 후퇴하 는 경향 을 보 였 다 ” 고 밝 혔 다 .	O ORG-B O O PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+‘ 안 읽 는 약관 들 / 너무 많 아 / 약관 은 계약서 / 똑똑한 게임 유저 / 스스로 보호할 수 있 어 / 미리 보 고 예방 / 너 도 한번 해 봐 / 꼼꼼히 볼걸 후회하 지 마 . ’ Mnet 예능 프로그램 ‘ 쇼 미 더머 니 3 ’ 등 에서 고교생 래퍼 로 이름 을 알린 육지 담 이 부른 캠페인 송 의 가사 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+또 피스크 검사 는 백악관 측 에 클린턴 대통령 의 아칸소주 주 지사 재임 시절 그 의 금융 부정 의혹 사건 을 조사 했 던 법무부 를 상대 로 백악관 측 이 접촉한 내용 에 관한 서류 를 제출하 도록 요구 했 다 .	O PER-B O O ORG-B O O PER-B O O LOC-B O O O O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O
+“ 대북 심리전 방송 이 북한 군 에 미치 는 효과 는 남한 사람 들 이 생각하 는 것 보다 크 다 .	O O O O O ORG-B ORG-I O O O O O LOC-B O O O O O O O O O O
+2 상 연구 에서 는 중증 도 3 ~ 5 단계 의 약물 유해 반응 을 보인 환자 가 11 ~ 14 % 에 불과 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+걸스데이 태도 논란 , 아무 문제 없 는데 논란 ? … 진행자 최 군 “ 분위기 좋 았 다 ” 걸그룹 걸스데이 가 방송 태도 와 관련 누리 꾼 들 의 관심사 로 떠올 랐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+걸스데이 는 지난 7 일 인터넷 방송 아프리카 ‘ 최 군 TV ’ 에 출연 했 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O
+‘ 크로스 핏 나노 7 ’ 은 실제 크로스 핏 선수 , 커뮤니티 회원 들 과 의 연구 개발 을 통해 단기간 고강도 의 운동 을 기반 으로 하 는 크로스 핏과 각종 피트니스 에 최적화한 트레이닝 화 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+中 어선 불법 조업 단속 강화 위해	LOC-B O O O O O O
+한 ­ 미 간 공조 에 는 이상 이 없 다 .	ORG-B ORG-I ORG-I O O O O O O O O O
+그 는 과거 “ 내 가 하 면 로맨스 , 남 이 하 면 불륜 ” “ 국정 의 총체적 난국 ” “ 정치 9 단 ” “ 야당 의 습관성 가출 ” 등 수많 은 히트 작 을 쏟 아 냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+민병헌 - 김현수 등 타선 연일 맹타 … 니퍼트 이끄 는 선발 진 든든하 지만	PER-B O PER-B O O O O O PER-B O O O O O O
+MLB 주관 … 선수 들 메이저리거 대접 … 숙소 - 비행기 좌석 등 최고급 제공	ORG-B O O O O O O O O O O O O O O
+아이 가 세상 의 빛 을 본지 1 년 째 되 는 날 , 아빠 는 홈런 포 로 자축 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+나성범 은 올 시즌 이 시작하 자마자 시즌 후 결혼한다는 소식 을 알 렸 다 .	PER-B O O O O O O O O O O O O O O O
+전 동해 액 토즈 게임즈 대표 는 “ 2015 년 은 액 토즈 게임즈 가 글로벌 시장 에 새롭 게 진출하 는 시작점 ” 이라고 말 했 다 .	PER-B PER-I ORG-B ORG-I ORG-I O O O DAT-B DAT-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
+이 들 은 농협 중앙 회 가 주관하 는 ‘ 농촌 으로 가 는 행복 열차 ’ 를 타 고 딸기 수확 체험 에 나선 주부 들 이 다 .	O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,10 +1,10 @@
-피렌체에서 산타 마리아노벨라 약국 본점은 산타 마리아 중앙역 근처 골목에 위치하+여 있다 .	LOC-B O O O O O O O O O O O O
-목격자들에 따르면 테러범들은 계단으로 올라가 +아 편집회의를 하고 있는 편집국으로 들어가 +아“샤르브(편집국장 스테판 샤르보이에의 별명) 어디+ 있어”라고 묻어 그를 찾은 뒤 총격을 가하+여죽이었다 .	O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O
-김수현-공효진, 새드라마 ‘프로듀사’ 캐스팅 … 어떤 역할 맡았나 보 .	PER-B O O O O O O O O O
-한편, 지동원은 지나 +ㄴ 10월에 열리+ㄴ자메이카와의 평가전을 통하+여 7개월 만에 대표팀에 재승선해 4년 1개월여 만에 A매치 득점에 성공하+ㄴ바 있다 .	O PER-B O O O ORG-B O O O O ORG-B O O O O O O O O O
-쇼트트랙 선수 노진규가 골육종 악화로 세상을 떠나 +았다 .	O O PER-B O O O O O O
-특히 지석진은 이광수의 컴퓨터에서야동 .	O PER-B PER-B O O
-배곧신도시 중심 입지에 서울대 국제캠퍼스-산업단지 등 배후수요 든든최근 수익형 부동산 투자자들이 눈에 띄게 많아지었다 .	LOC-B O O LOC-B LOC-I O O O O O O O O O O
-인촌장학생 동문회(회장 권순달 수원대 교수)는 23일 서울 종로구 인촌기념회를 방문하+여 회원들이 모금하+ㄴ 장학금 500만원을 이용훈인 촌 기념회 이사장에게 전달하였다 .	ORG-B ORG-I PER-B MNY-I O O LOC-B LOC-I ORG-B O O O O MNY-B PER-B O O O O O
-홍상수 영화 수상희 소식 오+ㄹ .	PER-B O O O O O
-우즈베크 헌법에 따르 아니그마틸라율다 셰프 상원의장(53)이 대통령 권한대행을 맡아 3개월 안에 대선을 치르어야 하+ㄴ다 .	ORG-B O O PER-B PER-I O O O O O O O O O O
+피렌체 에서 산타마리아노벨라 약국 본점 은 산타마리아 중앙 역 근처 골목 에 위치해 있 다 .	LOC-B O LOC-B LOC-I O O LOC-B LOC-I LOC-I O O O O O O O
+목격자 들 에 따르 면 테러 범 들 은 계단 으로 올라가 편집 회의 를 하 고 있 는 편집국 으로 들어가 “ 샤르 브 ( 편집국장 스테판 샤르 보이 에의 별명 ) 어딨 어 ” 라고 물 어 그 를 찾 은 뒤 총격 을 가해 죽 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O
+김수현 - 공효진 , 새 드라마 ‘ 프로듀사 ’ 캐스팅 … 어떤 역할 맡 았 나 보 니	PER-B O PER-B O O O O O O O O O O O O O O O
+한편 , 지동원 은 지난 10 월 에 열린 자메이카 와 의 평가전 을 통해 7 개월 만 에 대표 팀 에 재 승선 해 4 년 1 개월 여 만 에 A 매치 득점 에 성공한 바 있 다 .	O O PER-B O O DAT-B DAT-I O O ORG-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+쇼트트랙 선수 노진규 가 골육종 악화 로 세상 을 떠났 다 .	O O PER-B O O O O O O O O O
+특히 지석진 은 이광수 의 컴퓨터 에서 야동 을	O PER-B O PER-B O O O O O
+배곧 신도시 중심 입지 에 서울대 국제 캠퍼스 - 산업 단지 등 배후 수요 든든 최근 수익 형 부동산 투자자 들 이 눈 에 띄 게 많아 졌 다 .	LOC-B LOC-I O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O
+인촌 장학생 동문회 ( 회장 권순달 수원대 교수 ) 는 23 일 서울 종로구 인촌 기념회 를 방문해 회원 들 이 모금한 장학금 500 만 원 을 이용훈 인촌 기념회 이사장 에게 전달 했 다 .	ORG-B ORG-I ORG-I O O PER-B ORG-B O O O DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I O O O O O O O MNY-B MNY-I MNY-I O PER-B ORG-B ORG-I O O O O O O
+홍상수 영화 수상 희소식 올까	PER-B O O O O
+우즈베크 헌법 에 따 라 니그 마틸라 율 다 셰프 상원 의장 ( 53 ) 이 대통령 권한 대행 을 맡 아 3 개월 안 에 대선 을 치 러야 한다 .	ORG-B O O O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O

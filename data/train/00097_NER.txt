@@ -1,13 +1,13 @@
-호텔에서 해변까지 1일 3회 셔틀버스를 운행 하+ㄴ다 .	O O O O O O O O
-200만원 이상의 터무니없는 가격(일반 코어 i7은 약 35만~37만원대)이지만 남들이 갖는 PC와는 전혀 다르+ㄴ나만의 초고성능 PC를 소유하려는 사람들에게 꾸준히 선택받고 있다 .	MNY-B O O O O O O MNY-B O O O O O O O O O O O O O
-6세대 코어 i7 익스트림은 코드명 브로드웰(Broadwell)-E+이다 .	O O O O O O O
-경기 성남시 주부 김모씨(54)의 집가전 제품에는 ‘5’+이라는 숫자가 빠지+ㅁ 없이 붙어 있다 .	LOC-B LOC-B O PER-B O O O O O O O O O
-2012~2015년 학사경고를 받은 448명에게 장학금을 9억9316만원이나 지급하기도 +였다 .	O O O O O MNY-B O O O
-이에 경찰은 인천공항에 설치되 +ㄴ 폐쇄회로(CC) TV84대를 분석하+ 여 사건이 발생하+ㄴ 지난달 29일 오후 12시부터 신고가 접수되+ㄴ 후 1시간이 지나 +ㄴ오후 5시까지 화장실 이용자가 모두 762명이란 사실을 파악하였다 .	O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-이후 경찰은 75명으로 수사 대상을 더 좁히었고, 사건이 발생하+ㄴ 지난달 29일 오후 3시36분께 유씨가 쇼핑백을 들고 화장실에 들어가 +았 .	O O O O O O O O O O O O O PER-B O O O O O O
-홍 후보가 “분명히 ‘동성애’ 반대+이죠?”라고 묻자 문 후보는 “나는 좋아하지 않는다 .	PER-B O O O O O PER-B O O O O O
-2012년과 비교하+여보+ㄹ 때 병장 월급은 10만8000원에서 21만6000원으로 5년 만에 2배 인상되는 셈이다 .	O O O O O MNY-B MNY-B O O O O O O
-연평해전 6월 11일 개봉… 연평해전과 월드컵 응원을 함께 다루+ㄴ까닭은 .	O O O O O O O O O O
-일렉트로룩스코리아 문상영 대표는 “최근 국내 주방 소형 가전은 작년 대비 20%가량의 성장률을 자랑하+ㄹ 만큼 크+ㄴ 성장세를 보이고 있고, 그만큼 국내 소비자들의 요리에 대하+ㄴ 관심도가 눈에 띄게 누+ㄴ 것을 확인 하+ㄹ 수 있다”며 “이번 이벤트를 통하+여 많은 분들의 기발하+ㄴ 아이디어와 함께 요리에 대하+ㄴ 열정을 기대하고 있다”고 말하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-논쟁의 다른 한 축이 +ㄴ 유승민 원내대표도 “김 대표의견에 전적으로 동감 하+ㄴ다”며 “당정청과 여야, 그리고 여야 각각 내부에서도 세금과 복지 문제에 대하+ㄴ 생각의 차이가 존재하는 만큼 나부터나 +의 생각을 고집하지 않고 이 문제에 대하+여토론하겠다”고 한발 물러서 +었다 .	O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-월드 베이스볼클래식(WBC) 대표팀의 일본 오키나와 전지훈련에 17일 합류하+ㄴ이대호(35·롯데·사진)를 환영하기 위하+여서 +이다 .	O O O LOC-B LOC-B O O ORG-B O O O O
+호텔 에서 해변 까지 1 일 3 회 셔틀버스 를 운행한다 .	O O O O DAT-B DAT-I O O O O O O
+200 만 원 이상 의 터무니 없 는 가격 ( 일반 코어 i 7 은 약 35 만 ~ 37 만 원 대 ) 이 지만 남 들 이 갖 는 PC 와 는 전혀 다른 나 만 의 초 고성능 PC 를 소유하 려는 사람 들 에게 꾸준히 선택 받 고 있 다 .	MNY-B MNY-I MNY-I O O O O O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6 세대 코어 i 7 익스트림 은 코드 명 브로드 웰 ( Broadwell ) - E 다 .	O O O O O O O O O O O O O O O O O O
+경기 성남시 주부 김 모 씨 ( 54 ) 의 집 가전제품 에 는 ‘ 5 ’ 라는 숫자 가 빠짐 없이 붙 어 있 다 .	LOC-B LOC-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+2012 ~ 2015 년 학사 경고 를 받 은 448 명 에게 장학금 을 9 억 9316 만 원 이나 지급하 기 도 했 다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O
+이 에 경찰 은 인천 공항 에 설치된 폐쇄 회로 ( CC ) TV 84 대 를 분석해 사건 이 발생한 지난달 29 일 오후 12 시 부터 신고 가 접수된 후 1 시간 이 지난 오후 5 시 까지 화장실 이용자 가 모두 762 명 이 란 사실 을 파악 했 다 .	O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O
+이후 경찰 은 75 명 으로 수사 대상 을 더 좁 혔 고 , 사건 이 발생한 지난달 29 일 오후 3 시 36 분 께 유 씨 가 쇼핑백 을 들 고 화장실 에 들어갔 다	O O O O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O PER-B O O O O O O O O O O
+홍 후보 가 “ 분명히 ‘ 동성애 ’ 반대 죠 ? ” 라고 묻 자 문 후보 는 “ 나 는 좋아하 지 않 는다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+2012 년 과 비교해 볼 때 병장 월급 은 10 만 8000 원 에서 21 만 6000 원 으로 5 년 만 에 2 배 인상되 는 셈 이 다 .	DAT-B DAT-I O O O O O O O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O
+연평 해전 6 월 11 일 개봉 … 연평 해전 과 월드컵 응원 을 함께 다룬 까닭 은 ?	O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O
+일렉트로룩스 코리아 문상영 대표 는 “ 최근 국내 주방 소형 가전 은 작년 대비 20 % 가량 의 성장률 을 자랑할 만큼 큰 성장세 를 보이 고 있 고 , 그만큼 국내 소비자 들 의 요리 에 대한 관심 도 가 눈 에 띄 게 눈 것 을 확인할 수 있 다 ” 며 “ 이번 이벤트 를 통해 많 은 분 들 의 기발한 아이디어 와 함께 요리 에 대한 열정 을 기대하 고 있 다 ” 고 말 했 다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+논쟁 의 다른 한 축 인 유승민 원내 대표 도 “ 김 대표 의견 에 전적 으로 동감한다 ” 며 “ 당정 청 과 여야 , 그리고 여야 각각 내부 에서 도 세금 과 복지 문제 에 대한 생각 의 차이 가 존재하 는 만큼 나 부터 내 생각 을 고집하 지 않 고 이 문제 에 대해 토론하 겠 다 ” 고 한발 물러섰 다 .	O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+월드 베이스볼 클래식 ( WBC ) 대표 팀 의 일본 오키나와 전지훈련 에 17 일 합류한 이대호 ( 35 · 롯데 · 사진 ) 를 환영하 기 위해서 다 .	O O O O O O O O O LOC-B LOC-B O O DAT-B DAT-I O PER-B O O O ORG-B O O O O O O O O O

@@ -1,17 +1,17 @@
-연규성은 “오디션 박스 때부터 함께 노래하였던 은영이가 가수로서의 새 출발을 위하+여저 +의 노래 ‘슬프+ㄴ 노래’를 리메이크 하+여 녹음도 다 하+ 여놓고 뮤직비디오도 다 찍고 이제 발표만을 남기고 있었는데.며 칠 전에도 만나 +아밝게 웃으며 함께 녹음하고 +였는데 정말 믿기질 않네요”라고 덧붙이었다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이어 “은영이를 사랑하고 아끼+어주+시었던 많은 분들, 은영이가 편하게 가+ㄹ 수 있도록 명복을 빌어달라”며 애도를 표하였다 .	O PER-B O O O O PER-B O O O O O O O O O
-도은영은 생전 자신의 SNS에 자켓 사진으로 보이는 사진 한 장과 함께 ‘다시 시작.가 수도 은영’이라는 글을 올리며 설레+ㅁ을 드러내+었던 터+이라 안타깝+ㅁ이 더 하+여지고 있다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-도은영은 지나 +ㄴ 2005년 MBC 드라마 ‘굳세어라 금순아’의 OST ‘기도 하+ㄹ 것+이요’로 데뷔하였다 .	PER-B O O O ORG-B O O O O O O O O O
-이후 잊히+어지+ㄴ 가수로 불리며 힘겹ㄴ시간을 보내+었고, 지나 +ㄴ 2012년 tvN 오디션 프로그램 ‘슈퍼디바 2012’에 출연하며 재기를 꿈꾸었다 .	O O O O O O O O O ORG-B O O O O O O O O
-당시 도은영은 “어리+ㄴ 나이에 섣불리 결정하였었다 .	O PER-B O O O O O
-조동호 한국과학기술원(KAIST) 전 기 몇 전자공학과 교수는 “유선전화가 상용화되+었던 불과 수십 년 전에는 무선전화가 상용화 하+ㄹ 것이라고 예측 하+ㄴ사람이 드물었지만, 무선전화가 대중화하였다”며 “전기버스 충전 방식도 결국 무선충전 방식으로 바뀌+ㄹ 것”이라고 예상하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-강원 강릉시 주문진읍 주문진항에서 해안도로 주변의 탁 트이+ㄴ 언덕 위에 별장식소형 아파트 라일플로리스가 들어서 +ㄴ다 .	LOC-B LOC-B LOC-B LOC-B O O O O O O O O LOC-B O O O
-두산 관계자는 “감독님과 수석 코치님이 훈련 도중에도 ‘아직은 적응기+이라 본인 몸 상태를 고려하+여가며 하+여도 되+ㄴ다’고 권유하고 계시지만, 루츠가 ‘괜찮다’며 함께 훈련하고 있다”고 귀띔하였다 .	ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O
-2012년 19대 총선 당시 첫날 등록자 수(526명)와 유사하였다 .	O O O O O O O O O
-서강대 학생들은 이 대학의 슬로건 ‘그대서강의 자랑이듯, 서강 그대의 자랑이어라’를 인용하+여 “선배님, 서강의 표어를 더 이상 더럽히지 말시+ㅂ 시오”라고 밝히었다 .	ORG-B O O O O ORG-B O ORG-B O O O O ORG-B O O O O O O O O
-학생들은 “최순실 게이트는 정부의 공식적 구조를 왜곡 하+ㄴ, 국기를 흔들는 중대 하+ㄴ위법행위다 .	O PER-B O O O O O O O O O O O
-한국정치학회 주최로 열리+ㄴ이날 토론회에서 강원택(서울대 정치외교학부 교수·사진) 한국정치학회장은 “선거는 주권자 이+ㄴ국민이 대표를 선택하는 정치적 축제이지만 선거법상 과도하+ㄴ규제로 선거 때 +이면 유권자들은 오히려 구경꾼으로 전락하+ㄴ다”며 “한국 민주주의가 한 단계 더 발전하기 위하+여서 +ㄴ 규제로 가득 하+ㄴ 현행 선거법을 시대에 맞게 대폭 개정 하+여야 하+ㄴ다”고 말하였다 .	ORG-B O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-장우영(대구가톨릭대 정치외교학과) 교수는 “선거 여론조사 결과 공개와 관련되 +ㄴ 규정을 개정하+여유권자의 알+ㄹ 권리를 적극적으로 보장 하+여야 하+ㄴ다”고 주장하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O
-이외에도 “사전선거운동 제한을 폐지하+여현직 의원과 도전자들 모두에게 공정하+ㄴ 기회를 주+어야 하+ㄴ다”(성공회대 김형철 교수), “후보자 등록기간이 선거일 기준으로 너무 촉박하다 .	O O O O O O O O O O ORG-B PER-B O O O O O O O O
-29일 국립수산과학원 아열대 수산연구센터에 따르면 김 모씨(38)는 10일 제주 북서부 협재해수욕장 인근 갯바위에서 파란고리문어에 물리+어 치료를 받았다 .	O ORG-B ORG-I ORG-I O PER-B PER-I O LOC-B LOC-B LOC-B O O O O O O O
-삼성 특검 때에는 이건희·이재용 부자를 비롯하+여 삼성 전·현직 임원 255명이 소환 조사를 받았다 .	ORG-B O O PER-B O O ORG-B O O O O O O O
+연규성 은 “ 오디션 박스 때 부터 함께 노래 했 던 은영이 가 가수 로서 의 새 출발 을 위해 제 노래 ‘ 슬픈 노래 ’ 를 리메이크해 녹음 도 다 해 놓 고 뮤직 비디오 도 다 찍 고 이제 발표 만 을 남기 고 있 었 는데 . 며칠 전 에 도 만나 밝 게 웃 으며 함께 녹음하 고 했 는데 정말 믿 기질 않 네 요 ” 라고 덧붙 였 다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 은영이 를 사랑하 고 아껴 주 셨 던 많 은 분 들 , 은영이 가 편하 게 갈 수 있 도록 명복 을 빌 어 달 라 ” 며 애도 를 표 했 다 .	O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+도은영 은 생전 자신 의 SNS 에 자켓 사진 으로 보이 는 사진 한 장 과 함께 ‘ 다시 시작 . 가수 도은영 ’ 이 라는 글 을 올리 며 설렘 을 드러냈 던 터 라 안타까움 이 더해 지 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+도은영 은 지난 2005 년 MBC 드라마 ‘ 굳세 어라 금순 아 ’ 의 OST ‘ 기도할 게 요 ’ 로 데뷔 했 다 .	PER-B O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O
+이후 잊혀 진 가수 로 불리 며 힘겨 운 시간 을 보냈 고 , 지난 2012 년 tvN 오디션 프로그램 ‘ 슈퍼 디바 2012 ’ 에 출연하 며 재기 를 꿈 꿨 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O
+당시 도은영 은 “ 어린 나이 에 섣불리 결정 했었 다 .	O PER-B O O O O O O O O O O
+조동호 한국과학기술원 ( KAIST ) 전기 및 전자 공학 과 교수 는 “ 유선 전화 가 상용 화 됐 던 불과 수십 년 전 에 는 무선 전화 가 상용 화 할 것 이 라고 예측한 사람 이 드물 었 지만 , 무선 전화 가 대중화 했 다 ” 며 “ 전기 버스 충전 방식 도 결국 무선 충전 방식 으로 바뀔 것 ” 이라고 예상 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강원 강릉시 주문진 읍 주문진 항 에서 해안 도로 주변 의 탁 트인 언덕 위 에 별장 식 소형 아파트 라일 플로 리스 가 들어선다 .	LOC-B LOC-B LOC-B LOC-I LOC-B LOC-I O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O
+두산 관계자 는 “ 감독 님 과 수석 코치 님 이 훈련 도중 에 도 ‘ 아직 은 적응 기 라 본인 몸 상태 를 고려해 가 며 해도 된다 ’ 고 권유하 고 계시 지만 , 루츠 가 ‘ 괜찮 다 ’ 며 함께 훈련하 고 있 다 ” 고 귀띔 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+2012 년 19 대 총선 당시 첫날 등록 자 수 ( 526 명 ) 와 유사 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O
+서강대 학생 들 은 이 대학 의 슬로건 ‘ 그대 서강 의 자랑 이 듯 , 서강 그대 의 자랑 이 어라 ’ 를 인용해 “ 선배 님 , 서강 의 표어 를 더 이상 더럽히 지 마 십시오 ” 라고 밝 혔 다 .	ORG-B O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+학생 들 은 “ 최순실 게이트 는 정부 의 공식적 구조 를 왜곡한 , 국기 를 흔드 는 중대한 위법 행위 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
+한국정치학회 주최 로 열린 이날 토론회 에서 강원택 ( 서울대 정치 외교 학부 교수 · 사진 ) 한국 정치학 회장 은 “ 선거 는 주권자 인 국민 이 대표 를 선택하 는 정치적 축제 이 지만 선거법 상 과도한 규제 로 선거 때 면 유권자 들 은 오히려 구경꾼 으로 전락한다 ” 며 “ 한국 민주주의 가 한 단계 더 발전하 기 위해선 규제 로 가득한 현행 선거법 을 시대 에 맞 게 대폭 개정해야 한다 ” 고 말 했 다 .	ORG-B O O O O O O PER-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장우영 ( 대구가톨릭대 정치 외교 학과 ) 교수 는 “ 선거 여론 조사 결과 공개 와 관련된 규정 을 개정해 유권자 의 알 권리 를 적극적 으로 보장해야 한다 ” 고 주장 했 다 .	PER-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이외 에 도 “ 사전 선거 운동 제한 을 폐지해 현직 의원 과 도전자 들 모두 에게 공정한 기회 를 줘야 한다 ” ( 성공회대 김형철 교수 ) , “ 후보자 등록 기간 이 선거일 기준 으로 너무 촉박하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O
+29 일 국립 수산 과학원 아열대 수산 연구 센터 에 따르 면 김 모 씨 ( 38 ) 는 10 일 제주 북서 부 협재 해수욕장 인근 갯바위 에서 파란 고리 문어 에 물려 치료 를 받 았 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O PER-B PER-I O O O O O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-B LOC-I O O O O O O O O O O O O O O
+삼성 특검 때 에 는 이건희 · 이재용 부자 를 비롯해 삼성 전 · 현직 임원 255 명 이 소환 조사 를 받 았 다 .	ORG-B O O O O PER-B O PER-B O O O ORG-B O O O O O O O O O O O O O O

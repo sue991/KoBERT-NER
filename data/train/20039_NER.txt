@@ -1,18 +1,18 @@
-초기+이라면 1~2주 내로 치료되+ㄴ다 .	O O O O O
-가다피 리비아 대통령의 인터뷰가 CNN의 전파를 타+ㄴ 것은 불과 6개월 후 .	PER-B O O O ORG-B O O O O O O O
-김광규는 "네가 이나영이라 생각하라"고 답하+ 여웃음을 자아내 +었다 .	PER-B O PER-B O O O O O O
-한편 '삼시세끼'는 도시에서 쉽게 해결하+ㄹ 수 있는 한 끼 식사를 한적 하+ㄴ시골에서 어렵게 해결하+여보는 예능 프로그램이다 .	O O O O O O O O O O O O O O O O O
-이러하+ㄴ과정을 겪으면서 지코는 리더로서 깨닫은 바가 크다고 하+ㄴ다 .	O O PER-B O O O O O O
-“신중하지 못하였던 부분들에 대하+여서는 늘 죄송하게 생각하고 있어요. 앞으로 더 좋은 모습 보이어드리+어야 +하겠다는 생각도 많이 하고요. 아이돌을 좋아하는 팬들의 대다수가 청소년이다 보니 그들에게 악영향을 끼치 +ㄹ만 하+ㄴ 행동을 하+여서는 안 되는 것+이 당연하다고 보+아요. 또한 음악시장에서 아이돌의 영향력이 더욱 커지는 만큼 행동 하나하나에도 신중을 기하+ 여야 하겠더라고요.” 스웨그는 래퍼의 숙명 반대로 대중이 생각하는 래퍼들에 대하+ㄴ 편견도 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-구성(九星)으로 보+아도 상생하는 관계+이다 .	O O O O O
-12신살로 보면 신하균과 김고은은 망신살(집안의 재물을 없애고 몸을 망치+ㄹ액운)과 반 안살의 관계로, 서로의 부족하+ㄴ 부분을 보필 하+여주+ㄹ 수 있는 좋은 인연이다 .	O O PER-B PER-B O O O O O O O O O O O O O O O O O O
-영국 브랜드 파이낸스, 삼성 브랜드 가치 90조원으로 조사… '세계 2위' 우뚝 삼성의 브랜드 가치가 90조원에 육박하+여세계 2위 +이라는 조사 결과가 발표되+어 눈길을 끌+ㄴ다 .	ORG-B O O ORG-B O O MNY-B MNY-I O O O ORG-B O O MNY-B O O O O O O O O O
-애플 iOS8.3, ‘인종별 이모티콘 300종’ 아시아인 얼굴이 헉! ‘황달? .	ORG-B O O O O LOC-B O O O O
-KBS2TV 새월화 드라마 ‘오마이비너스’ 제작 발표회가 11일 오후 2시 서울 영등포구 영등포동 타임스퀘어 아모리스홀에서 진행되었다 .	TIM-I O O O O O O O O LOC-B LOC-B LOC-I LOC-I LOC-I O O
-이날 소지섭은 “아마 작품을 보면 알겠지만 '주군의 태양'과 까칠 하+ㄴ 것 외에는 비슷하+ㄴ 부분이 없다 .	O PER-B O O O O O O O O O O O O O O
-배용준 박수진 피로연…로맨틱3단콤보 '눈길 .	PER-B PER-B O O O
-뿐만 아니라 한화리조트 대형 평형으로는 최초로 영유아 동반 가족에 인지도가 높은 캐릭터 객실을 일부 도입하였고 경주 스위트 객실을 시작으로 대천, 휘닉스파크, 백암, 설악 등 기존 사업장으로 확대하+여 회원들의 선택을 다양화하고 혜택을 강화하+ㄹ 예정이다 .	O O ORG-B O O O O O O O O O O O O LOC-B O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O
-한화리조트 경주 스위트 객실 런칭을 기념 하+여유아·초등학생 자녀를 두 +ㄴ 30대 이상 여성 고객을 대상으로 ‘스위트퀸’ 품평단 모집도 실시하+ㄴ다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-민주당은 국정을 담당 하+ㄹ 자격도 실력도 없다”고 비난하였다 .	ORG-B O O O O O O O O
-【서울=뉴시스 .	LOC-B O
-네이버는 향후 글로벌 시장에서 웹툰, 동영상 라이브 서비스 ‘브이(V)’, 동영상 커뮤니케이션 앱 ‘스노우’ 등에 초점을 맞추+어 사업을 확장하고, 국내에서는 간편 결제 서비스 ‘네이버페이’의 시장 확대 등에 집중 하+ㄹ 계획이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+초기 라면 1 ~ 2 주 내 로 치료된다 .	O O O O O O O O O O
+가다피 리비아 대통령 의 인터뷰 가 CNN 의 전파 를 탄 것 은 불과 6 개월 후 .	PER-B O O O O O ORG-B O O O O O O O O O O O
+김광규 는 " 네 가 이나영 이 라 생각하 라 " 고 답해 웃음 을 자아냈 다 .	PER-B O O O O PER-B O O O O O O O O O O O O
+한편 ' 삼시세끼 ' 는 도시 에서 쉽 게 해결할 수 있 는 한 끼 식사 를 한적한 시골 에서 어렵 게 해결해 보 는 예능 프로그램 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이러한 과정 을 겪 으면서 지코 는 리더 로서 깨달 은 바 가 크 다고 한다 .	O O O O O PER-B O O O O O O O O O O O
+“ 신중하 지 못 했 던 부분 들 에 대해서 는 늘 죄송하 게 생각하 고 있 어요 . 앞 으로 더 좋 은 모습 보 여 드려야 겠 다는 생각 도 많이 하 고요 . 아이돌 을 좋아하 는 팬 들 의 대다수 가 청소년 이 다 보 니 그 들 에게 악영향 을 끼칠 만한 행동 을 해서 는 안 되 는 게 당연하 다고 봐요 . 또한 음악 시장 에서 아이돌 의 영향력 이 더욱 커지 는 만큼 행동 하나 하나 에 도 신중 을 기해야 하 겠 더라고 요 . ” 스웨그 는 래퍼 의 숙명 반대 로 대중 이 생각하 는 래퍼 들 에 대한 편견 도 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+구성 ( 九星 ) 으로 봐도 상생하 는 관계 다 .	O O O O O O O O O O O
+12 신 살 로 보 면 신하균 과 김고은 은 망신살 ( 집안 의 재물 을 없애 고 몸 을 망칠 액운 ) 과 반 안 살 의 관계 로 , 서로 의 부족한 부분 을 보필해 줄 수 있 는 좋 은 인연 이 다 .	DAT-B O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영국 브랜드 파이낸스 , 삼성 브랜드 가치 90 조 원 으로 조사 … ' 세계 2 위 ' 우뚝 삼성 의 브랜드 가치 가 90 조 원 에 육박해 세계 2 위 라는 조사 결과 가 발표돼 눈길 을 끈다 .	ORG-B O O O ORG-B O O MNY-B MNY-I MNY-I O O O O O O O O O ORG-B O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+애플 iOS 8.3 , ‘ 인종 별 이모티콘 300 종 ’ 아시아 인 얼굴 이 헉 ! ‘ 황달 ? ’	ORG-B O O O O O O O O O O LOC-B O O O O O O O O O
+KBS 2 TV 새 월 화 드라마 ‘ 오 마이 비너스 ’ 제작 발표회 가 11 일 오후 2 시 서울 영등포구 영등포동 타임스퀘어 아 모리스 홀 에서 진행 됐 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O
+이날 소 지섭 은 “ 아마 작품 을 보 면 알 겠 지만 ' 주군 의 태양 ' 과 까칠한 것 외 에 는 비슷한 부분 이 없 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+배용준 박수진 피로연 … 로맨틱 3 단 콤보 ' 눈길 '	PER-B PER-B O O O O O O O O O
+뿐 만 아니 라 한화리조트 대형 평형 으로 는 최초 로 영 유아 동반 가족 에 인지도 가 높 은 캐릭터 객실 을 일부 도입 했 고 경주 스위트 객실 을 시작 으로 대천 , 휘닉스파크 , 백암 , 설악 등 기존 사업장 으로 확대해 회원 들 의 선택 을 다양화하 고 혜택 을 강화할 예정 이 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O
+한화리조트 경주 스위트 객실 런칭 을 기념해 유아 · 초등학생 자녀 를 둔 30 대 이상 여성 고객 을 대상 으로 ‘ 스위트 퀸 ’ 품평 단 모집 도 실시한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+민주당 은 국정 을 담당할 자격 도 실력 도 없 다 ” 고 비난 했 다 .	ORG-B O O O O O O O O O O O O O O O O
+【 서울 = 뉴시스 】	O LOC-B O ORG-B O
+네이버 는 향후 글로벌 시장 에서 웹 툰 , 동영상 라이브 서비스 ‘ 브이 ( V ) ’ , 동영상 커뮤니케이션 앱 ‘ 스노우 ’ 등 에 초점 을 맞춰 사업 을 확장하 고 , 국내 에서 는 간편 결제 서비스 ‘ 네이버 페이 ’ 의 시장 확대 등 에 집중할 계획 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

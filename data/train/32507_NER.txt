@@ -1,8 +1,8 @@
-루비오에 대하+여서도 “왜 (폭스뉴스 같은) 주류 언론이 루비오 같은 친구가 승리하었다고 치켜세우는지 모르겠다 .	PER-B O O ORG-B O O O PER-B O O O O O O
-미셸 위는 지나 +ㄴ 2014년 메이저대회 이+ㄴ US 여자 오픈을 비롯하+여시즌2승을 거두며 최고의 해를 보내+었다 .	PER-B PER-I O O O O O O O O O O O O O O
-‘힐스테이트 태전’은 지하 3층, 지상 최고 23층 40개동전용면적 59∼84m ² 총 3146 채로 이루어 지+었다 .	LOC-B LOC-I O O O O O O O O O O O O O O
-25.7㎡(약 7.8평) 크기 이+ㄴ 김씨의 새집은 추석 전 이+ㄴ 오는 20일 완공되+ㄹ 예정이다 .	O O O O PER-B O O O O O O O O O
-장타를 앞세우어 많은 타수를 줄이는 박성현의 화끈 하+ㄴ 공격 골프를 가장 잘 보이어주는 대목이기도 하다 .	O LOC-B O O O PER-B O O O O O O LOC-B O O O
-그러나 콘래드 힐튼의 변호인 측은 "수면제로 인하+ㄴ폭력적 성향의 부작용"이라고 적극 해명하였다 .	O PER-B PER-I O O O O O O O O O
-이번 행사는 오는 7일까지 진행되+ㄴ다 .	O O O O O O
-목타는 가뭄과 폭염이 계속되는 가운데 제7호 태풍 「월트」가 22일 진로를 바꾸어 한반도를 향하+여 접근하고 있다 .	O O O O O O O O O O O LOC-B O O O O
+루비오 에 대해서 도 “ 왜 ( 폭스뉴스 같 은 ) 주류 언론 이 루비오 같 은 친구 가 승리 했 다고 치켜세우 는지 모르 겠 다 .	PER-B O O O O O O ORG-B O O O O O O PER-B O O O O O O O O O O O O O
+미셸 위 는 지난 2014 년 메이저 대회 인 US 여자 오픈 을 비롯해 시즌 2 승 을 거두 며 최고 의 해 를 보냈 다 .	PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+‘ 힐스테이트 태전 ’ 은 지하 3 층 , 지상 최고 23 층 40 개 동 전용면적 59 ∼ 84 m ² 총 3146 채 로 이뤄졌 다 .	O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+25.7 ㎡ ( 약 7.8 평 ) 크기 인 김 씨 의 새집 은 추석 전 인 오 는 20 일 완공될 예정 이 다 .	O O O O O O O O O PER-B O O O O DAT-B O O O O DAT-B DAT-I O O O O O
+장타 를 앞세 워 많 은 타수 를 줄이 는 박성현 의 화끈한 공격 골프 를 가장 잘 보 여 주 는 대목 이 기 도 하 다 .	O O O O O O O O O O PER-B O O O O O O O O LOC-B LOC-I O O O O O O O O
+그러나 콘래드 힐튼 의 변호인 측 은 " 수면제 로 인한 폭력적 성향 의 부작용 " 이라고 적극 해명 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+이번 행사 는 오 는 7 일 까지 진행된다 .	O O O O O DAT-B DAT-I O O O
+목 타 는 가뭄 과 폭염 이 계속되 는 가운데 제 7 호 태풍 「 월트 」 가 22 일 진로 를 바꾸 어 한반도 를 향해 접근하 고 있 다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O LOC-B O O O O O O O

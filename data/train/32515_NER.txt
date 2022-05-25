@@ -1,12 +1,12 @@
-▼ 지금도 중국에 머물고 있나요?네.〈나 가수 〉 무대 준비 때문에 계속 중국 후난성 성도 창사에서 지내고 있어요 .	O O LOC-B O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O
-주택담보대출 여부를 묻는 질문에 53.4%가 대출을 받았다고 답하였다 .	O O O O O O O O O
-‘이휘재 문정원’ 39금 토크쇼 ‘어쩌다 어른’ 새 MC 이휘재가 아내 문정원에 대하+여 언급하였다 .	PER-B PER-B O O O O O O PER-B O PER-B O O O
-신현준이 “그때는 야구 방망이 몇 개를 망가뜨리었나”고 묻자 류현진은 “그때는 방망이를 부수지 않았다 .	PER-B O O O O O O O PER-B O O O O O
-인청경제자유구역 부동산시장 회복…오피스텔 시장도 훈 .	LOC-B O O O O O
-일본과 유럽이 마이너스 금리를 도입하였다 .	ORG-B ORG-B O O O O
-8위 LG는 4위 오리온스를 93-84로 꺾었다 .	O ORG-B O ORG-B O O O
-㈔5·18 유엔 유네스코 등재 및 기념사업회 등 6개 단체는 7일 오후 광주시의회 브리핑룸에서기자회견을 열고 “망언을 담은 회고록 편찬으로 광주 민주화운동을 폄훼하+ㄴ 전두환을 강력 규탄하고, 쓰레기에 불과하+ㄴ 회고록은 즉각 폐기 하+ㄹ 것”을 촉구하였다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O LOC-B LOC-I O O O O O O O O PER-B O O O O O O O O O O O
-참고로 가가 멜은 사다리나 미끄럼틀이 그리 +어지+ㄴ 칸에 도착하+ 여도 사다리나 미끄럼틀을 타지 않는다 .	O O O O O O O O O O O O O O O
-이렇게 게임을 진행하+여가장 먼저 100번째 칸에 도착하+ㄴ사람이 승리 하+ㄴ다 .	O O O O O O O O O O
-보건복지부는 30일 메르스 상황에 관하+ㄴ 브리핑에서 유언비어 유포자에 대하+여수사를 의뢰하는 등 엄정하+ㄴ 조치를 취하겠다고 경고하였다 .	ORG-B O O O O O O O O O O O O O O O
-괴한들은 “엘반군에게 최루탄을 쏘+ㄴ 경찰관들이 TV 생방송으로 혐의를 인정하고, 항의 시위를 벌이 .	O PER-B O O O O O O O O O O O
+▼ 지금 도 중국 에 머물 고 있 나요 ? 네 . 〈 나가수 〉 무대 준비 때문 에 계속 중국 후난성 성도 창사 에서 지내 고 있 어요 .	O O O LOC-B O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O
+주택 담보대출 여부 를 묻 는 질문 에 53.4 % 가 대출 을 받 았 다고 답 했 다 .	O O O O O O O O O O O O O O O O O O O O
+‘ 이휘재 문정원 ’ 39 금 토크쇼 ‘ 어쩌다 어른 ’ 새 MC 이휘재 가 아내 문정원 에 대해 언급 했 다 .	O PER-B PER-B O O O O O O O O O O PER-B O O PER-B O O O O O O
+신현준 이 “ 그 때 는 야구 방망이 몇 개 를 망가뜨 렸 나 ” 고 묻 자 류현진 은 “ 그 때 는 방망이 를 부수 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+인 청 경제 자유 구역 부동산 시장 회복 … 오피스텔 시장 도 훈풍	LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O
+일본 과 유럽 이 마이너스 금리 를 도입 했 다 .	ORG-B O ORG-B O O O O O O O O
+8 위 LG 는 4 위 오리온스 를 93 - 84 로 꺾 었 다 .	O O ORG-B O O O ORG-B O O O O O O O O O
+㈔ 5 · 18 유엔 유네스코 등재 및 기념 사업 회 등 6 개 단체 는 7 일 오후 광주시 의회 브리핑 룸 에서 기자 회견 을 열 고 “ 망언 을 담 은 회고록 편찬 으로 광주 민주화 운동 을 폄훼한 전두환 을 강력 규탄하 고 , 쓰레기 에 불과한 회고록 은 즉각 폐기할 것 ” 을 촉구 했 다 .	O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O DAT-B DAT-I O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+참고 로 가가멜 은 사다리 나 미끄럼틀 이 그려 진 칸 에 도착해도 사다리 나 미끄럼틀 을 타 지 않 는다 .	O O PER-B O O O O O O O O O O O O O O O O O O O
+이렇 게 게임 을 진행해 가장 먼저 100 번째 칸 에 도착한 사람 이 승리한다 .	O O O O O O O O O O O O O O O O
+보건복지부 는 30 일 메르스 상황 에 관한 브리핑 에서 유언비어 유포 자 에 대해 수사 를 의뢰하 는 등 엄정한 조치 를 취하 겠 다고 경고 했 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+괴한 들 은 “ 엘반 군 에게 최루탄 을 쏜 경찰관 들 이 TV 생방송 으로 혐의 를 인정하 고 , 항의 시위 를 벌이 다	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O

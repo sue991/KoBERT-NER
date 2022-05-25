@@ -1,11 +1,11 @@
-국정원 직원 차량번호판 색깔이 다르다 .	ORG-B O O O O O
-이날 MC 김구+이라는 이동휘에 대하+여 “유머러스하다고 하+여서 방송계에서 기대하고 있다 .	O O PER-B PER-B O O O O O O O
-그는 “일본이 군국주의 침략의 죄행을 감추고 역사의 진상을 왜곡하는 것을 받아들이+ㄹ 수 없다”며 “역사를 깊이 새기는 것은 미래를 열어나가기 위하+ㄴ 것이며 전쟁을 잊지 않는 것은 평화를 수호하기 위하+ㄴ 것”이라고 강조하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-최순실(61)씨가 자기 일가의 주치의 역할을 +였던 이임순(54) 순천향대 교수를 통하+여전방위적 이+ㄴ 인사추천을 받았던 것으로 드러나 +았다 .	PER-B O O O O O PER-B ORG-B O O O O O O O O O
-대신증권은 금융주치의가 고객의 투자성향, 투자목적, 연령별로 세분 하+여 연금저축계좌 고객들에게 맞춤형 포트폴리오를 제시하+ㄴ다 .	ORG-B O O O O O O O O O O O O O
-신임 김인호 철도청장의 업무보고도중 철도경영의 획기적 발전 구상을 묻는 질문이 나오았다 .	O PER-B O O O O O O O O O O
-중개사업자들이 KT가 운영하는 유클라우드 비즈 사이트의 회원가입과 세부 서비스 이용 및 제어, 요금 산정 등의 기능을 활용하+ㄹ 수 있도록 플랫폼을 제공하는 서비스 포털 사이트+이다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-[스포츠동아 .	ORG-B O
-LG디스플레이가 유럽법인을 자동차 산업 중심지 이+ㄴ 독일 프랑크푸르트로 이전 하+ㄴ다 .	ORG-B LOC-B O O O O LOC-B LOC-B O O O
-이어 “성형수술을 반대하였던 엄마가 성형을 권하+ㄴ적이 한번 있었다”면서 “보통 걸그룹 데뷔는 20~21세가 맥시멈이+ㄴ데나는 23세 때 데뷔하였다 .	O O O O O O O O O O O O O O O O O
-○…여야는 본회의 표결 직후 정치적 공방을 계속 .한나라당 김영선(金映宣) 의원은 “검찰의 편파수사와 이를 근간으로 하+ㄴ 시민단체의 낙선운동은 야당을 죽이기 위하+ㄴ ‘문화혁명식’ 음모가 깔리+어 있다”며 “또한 박 총리 등장은 공명선거의지를 훼손하+ㄴ 것”이라고 비판 .	O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O
+국정원 직원 차량 번호 판 색깔 이 다르 다 ?	ORG-B O O O O O O O O O
+이날 MC 김구 라는 이동휘 에 대해 “ 유머러스하 다고 해서 방송 계 에서 기대하 고 있 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O
+그 는 “ 일본 이 군국주의 침략 의 죄행 을 감추 고 역사 의 진상 을 왜곡하 는 것 을 받아들일 수 없 다 ” 며 “ 역사 를 깊이 새기 는 것 은 미래 를 열 어 나가 기 위한 것 이 며 전쟁 을 잊 지 않 는 것 은 평화 를 수호하 기 위한 것 ” 이라고 강조 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최순실 ( 61 ) 씨 가 자기 일가 의 주치의 역할 을 했 던 이임순 ( 54 ) 순천향대 교수 를 통해 전 방위 적 인 인사 추천 을 받 았 던 것 으로 드러났 다 .	PER-B O O O O O O O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O
+대신증권 은 금융 주치의 가 고객 의 투자 성향 , 투자 목적 , 연령 별 로 세분해 연금 저축 계좌 고객 들 에게 맞춤 형 포트폴리오 를 제시한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신임 김인호 철도청 장 의 업무 보고 도중 철도 경영 의 획기적 발전 구상 을 묻 는 질문 이 나 왔 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O
+중개 사업자 들 이 KT 가 운영하 는 유 클라우드 비즈 사이트 의 회원 가입 과 세부 서비스 이용 및 제어 , 요금 산정 등 의 기능 을 활용할 수 있 도록 플랫폼 을 제공하 는 서비스 포털 사이트 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 스포츠 동아 ]	O ORG-B ORG-I O
+LG 디스플레이 가 유럽 법인 을 자동차 산업 중심지 인 독일 프랑크푸르트 로 이전한다 .	ORG-B ORG-I O LOC-B O O O O O O LOC-B LOC-B O O O
+이어 “ 성형수술 을 반대 했 던 엄마 가 성형 을 권한 적 이 한 번 있 었 다 ” 면서 “ 보통 걸그룹 데뷔 는 20 ~ 21 세 가 맥시멈 인데 나 는 23 세 때 데뷔 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+○ … 여야 는 본회의 표결 직후 정치적 공방 을 계속 . 한나라당 김영선 ( 金映宣 ) 의원 은 “ 검찰 의 편파 수사 와 이 를 근간 으로 한 시민 단체 의 낙선 운동 은 야당 을 죽이 기 위한 ‘ 문화 혁명 식 ’ 음모 가 깔려 있 다 ” 며 “ 또한 박 총리 등장 은 공명선거 의지 를 훼손한 것 ” 이라고 비판 .	O O O O O O O O O O O O ORG-B PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O

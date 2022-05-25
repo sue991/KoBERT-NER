@@ -1,14 +1,14 @@
-새누리당 중앙당 부대변인으로 구성되 +ㄴ부대변인단은 5, 6일 제주를 찾아 ‘여름휴가 제주에서 보내기’ 캠페인을 펼치었다 .	ORG-B ORG-B O O O O O LOC-B O O LOC-B O O O O
-지난달 23일 대주주 이+ㄴ 산업은행과 정부가 ‘대우조선 정상화 계획’이라며 내놓은 이 방안에 대하+ 여 사흘 전만 하+여도 “국민노후자금의 손실을 감내하는 선택이 되+ㄹ 수 있다”며 반대하였던 국민연금이 손을 들+ㄴ 것이다 .	O O O O ORG-B O ORG-B O O O O O O O O O O ORG-B O O O O O O O ORG-B O O O O
-”“(창민) 그렇지. 내가 딱도 재기야.”-‘옴므’가 같은 작품에 출연을 하는 것만으로도 화제가 되고 있다 .	PER-B O O O ORG-B O O O O O O O O O
-공항에는 약 400여팬들이 몰리었고, EXID의 현지 일정마다 택시나 오토바이로 뒤쫓으며 환호를 보내+었다 .	O O O O ORG-B O O O O O O O O
-경찰에게 하+ㄹ 때는 113이다 .	O O O O O
---++조기자: 컥...저는 조촐하게 PC 연결 하+여서 스팀게임들하고 있습니다 하하. 저는 사회자니까 여기까지만.. 크.꿀 비타: 이외에도 숱 하+ㄴ분들이 많이 계시죠. 너무 글이 길어지+어서 다소 개를 못하+여드리었는데, 부산에 '이상 하+ㄴ트로이'님처럼 직접 캐비닛을 제작하시는 장인분도 계시고, '자넷'님처럼 체감형 기기들을 전문적으로 모으시는 분들도 계시지요 .	PER-B O PER-B O O O O O O O O O PER-B PER-I O O O O O O O O O O O LOC-B O O O O O O O PER-B O O O O O O O
-PST 전용 LV샤프트에는 전체의 휘어지는 강도를 균일화하는 ‘스트렝스 이퀄 라이징(STRENGTHEQUALIZING)’ 설계를 채택하+여휘는 감은 유지하고 뒤틀리는 방향은 강 하+여지+ 어안심하고 스윙을 하+ㄹ 수 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-드라이버와 동일하+ㄴ 제법으로 만들어 지+ㄴ 페어웨이우드의 본체는 신트리플 유닛 구조를 채택 고비 중의 텅스텐을 전 모델보다 약 200% 이상 배합하여 보다 철저하+ㄴ 저 중심으로 비거리와 방향성의 최적화를 추구하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-박근혜 대통령이 직무를 잘 수행하고 있다는 평가가 2주 연속 역대 대통령 최저치 이+ㄴ 4%에 머무르었다고 한국갤럽이 2일 발표하였다 .	PER-B O O O O O O O O O O O O O O ORG-B O O O
-특히 감독 10명 중 7명이 공격 농구에 표를 던지+어 눈길을 끌었다 .	O O O O O O O O O O O O
-아울러 재벌개혁의 필요성에는 86%, 국회의 상법 개정에는 69%, 전 ㆍ 월세 상한제에는 59%가 찬성 의견을 내 +었다 .	O O O O O O O O O O O O O O O O O O
-경찰은 “장씨가 군 생활 중 어려움은 없던 것으로 알+ㄴ다”며 “과거 우울증이나 전과 전력도 없는 것으로 확인되었다”고 밝히었다 .	O PER-B O O O O O O O O O O O O O O O O
-미래에셋증권은 S6가 올해 5600만대 판매되+ㄹ 것이라고 전망하였다 .	ORG-B O O O O O O O
-남경필 지사는 독일 방문 기간이 +ㄴ 지나 +ㄴ 15일 오후(현지시각)"새누리당이 해체 후 재창당을 하지 않으면 중대 결심을 하+ㄹ 것"이라고 밝히었으며, 귀국 직후 탈당 의사를 공개하+ㄴ바 있다 .	PER-B O LOC-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+새누리당 중앙당 부 대변인 으로 구성된 부 대변인 단 은 5 , 6 일 제주 를 찾 아 ‘ 여름휴가 제주 에서 보내 기 ’ 캠페인 을 펼 쳤 다 .	ORG-B ORG-B O O O O O O O O DAT-B O DAT-B DAT-I LOC-B O O O O O LOC-B O O O O O O O O O O
+지난달 23 일 대주주 인 산업은행 과 정부 가 ‘ 대우조선 정상화 계획 ’ 이 라며 내놓 은 이 방안 에 대해 사흘 전 만 해도 “ 국민 노후 자금 의 손실 을 감내하 는 선택 이 될 수 있 다 ” 며 반대 했 던 국민 연금 이 손 을 든 것 이 다 .	O DAT-B DAT-I O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O
+” “ ( 창민 ) 그렇 지 . 내 가 딱 도재기 야 . ” - ‘ 옴므 ’ 가 같 은 작품 에 출연 을 하 는 것 만 으로 도 화제 가 되 고 있 다 .	O O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+공항 에 는 약 400 여 팬 들 이 몰 렸 고 , EXID 의 현지 일정 마다 택시 나 오토바이 로 뒤쫓 으며 환호 를 보냈 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+경찰 에게 할 때 는 113 이 다 .	O O O O O O O O O
+- _ -+ 조 기자 : 컥 . . . 저 는 조촐하 게 PC 연결해서 스팀 게임 들 하 고 있 습니다 하하 . 저 는 사회 자 니까 여기 까지 만 . . 크 . 꿀 비타 : 이외 에 도 숱한 분 들 이 많이 계시 죠 . 너무 글 이 길 어 져서 다 소개 를 못 해 드 렸 는데 , 부산 에 ' 이상한 트로이 ' 님 처럼 직접 캐비닛 을 제작하 시 는 장인분 도 계시 고 , ' 자넷 ' 님 처럼 체감 형 기기 들 을 전문적 으로 모으 시 는 분 들 도 계시 지요 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O PER-B PER-I O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+PST 전용 LV 샤프트 에 는 전체 의 휘어지 는 강도 를 균일화하 는 ‘ 스트 렝 스 이퀄 라이징 ( STRENGTH EQUALIZING ) ’ 설계 를 채택해 휘 는 감 은 유지하 고 뒤틀리 는 방향 은 강해 져 안심하 고 스윙 을 할 수 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+드라이버 와 동일한 제법 으로 만들 어 진 페어웨이 우드 의 본체 는 신 트리플 유닛 구조 를 채택 고 비중 의 텅스텐 을 전 모델 보다 약 200 % 이상 배합하 여 보다 철저한 저 중심 으로 비거리 와 방향성 의 최적화 를 추구 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박근혜 대통령 이 직무 를 잘 수행하 고 있 다는 평가 가 2 주 연속 역대 대통령 최저치 인 4 % 에 머물 렀 다고 한국갤럽 이 2 일 발표 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O DAT-B DAT-I O O O O
+특히 감독 10 명 중 7 명 이 공격 농구 에 표 를 던져 눈길 을 끌 었 다 .	O O O O O O O O O O O O O O O O O O O O
+아울러 재벌 개혁 의 필요성 에 는 86 % , 국회 의 상법 개정 에 는 69 % , 전 ㆍ 월세 상한 제 에 는 59 % 가 찬성 의견 을 냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 은 “ 장 씨 가 군 생활 중 어려움 은 없 던 것 으로 안다 ” 며 “ 과거 우울증 이나 전 과 전력 도 없 는 것 으로 확인 됐 다 ” 고 밝 혔 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미래에셋증권 은 S 6 가 올해 5600 만 대 판매될 것 이 라고 전망 했 다 .	ORG-B O O O O O O O O O O O O O O O O
+남경필 지사 는 독일 방문 기간 인 지난 15 일 오후 ( 현지 시각 ) " 새누리당 이 해체 후 재 창당 을 하 지 않 으면 중대 결심 을 할 것 " 이라고 밝 혔 으며 , 귀국 직후 탈당 의사 를 공개한 바 있 다 .	PER-B O O LOC-B O O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

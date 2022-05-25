@@ -1,12 +1,12 @@
-이에 문 후보 측이 강력히 이의를 제기하+여전 준위가 선관위 해석을 뒤집었다 .	O PER-B O O O O O O O O O O
-한국미래환경협회 2차 정기총회 열리+어…“지구환경을 위하+여헌신 .	ORG-B O O O O O
-이는 안철수 후보의 서울대 채용 결정 당시 배우자 이+ㄴ 김미경 씨의 채용 또한 결정되었음을 방증하는 것”이라고 주장하였다 .	O PER-B O ORG-B O O O O O PER-B O O O O O O O O
-그러면서 “2011년 6월 2일 서울대 제5차 정년보장 교원 임용심사위원회 회의록을 보면, ‘연구실적 이 미흡 하+여 전문성을 판단하기 어렵다’ .	O O O O ORG-B O O O O O O O O O O O O O O
-경북의 포항제철소 역시 전체 7개 고로에서 설 연휴 기간 조업이 이루어 지+었다 .	LOC-B ORG-B O O O O O O O O O O O
-2.새정치민주연합 비례대표 은수미 의원은 지나 +ㄴ 28일 경기도 성남 옛 시청 앞에서 열리+ㄴ ‘대기업 외식업 진출 반대 집회’에 참석하+여 지역 외식업자들과 일일이 악수를 나누었다 .	ORG-B O PER-B O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O
-결국 돌 바람은 팻감 계산 등에서 실패 하+여이기+ㄹ 확률이 50% 밑으로 떨어지었다 .	O O O O O O O O O O O O O
-도끼’래퍼 도끼가 ‘나 혼자 살+ㄴ다’에 출연하+여화제로 떠오르+ㄴ 가운데도끼의 5만원권 진열대도 관심을 집중시키었다 .	PER-B PER-B O O O O O PER-B MNY-B O O O O
-지나+ㄴ 1월 방송되+ㄴ 케이블 채널 Mnet ‘4가지 쇼’ 시즌2에는 최연소래퍼 출신 이+ㄴ도끼의 인생 이야기가 공개되었다 .	O O O O O O O O O O O PER-B O O O O
-이날 공개되+ㄴ도끼의 집에는 당구대를 비롯하+여고가의 신발과 옷, 액세서리 등이 자리잡고 있다 .	O PER-B O O O O O O O O O O
-도끼는 “우리 집에 전시되 +ㄴ돈 다발이 있다”면서 실제 5만원권을 전시하+ㄴ 진열대를 준비하였다 .	PER-B O O O O O O O MNY-B O O O O
-“한진해운 쓰러지면 부산 2300명실직” 하영석 고문은 “선대 구성이나 항로 점유율, 글로벌 네트워크 측면에서 한진해운이 현대상선보다 우위에 있었기 때문에 한진해운이 더 낫은 입장이라고 생각 하+ㄴ 것 같다”고 분석하였다 .	ORG-B O LOC-B O PER-B O O O O O O O O ORG-B ORG-B O O O ORG-B O O O O O O O O O
+이 에 문 후보 측 이 강력히 이의 를 제기해 전 준위 가 선관위 해석 을 뒤집 었 다 .	O O PER-B O O O O O O O O O O O O O O O O O
+한국 미래 환경 협회 2 차 정기 총회 열려 … “ 지구 환경 을 위해 헌신 ”	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O
+이 는 안철수 후보 의 서울대 채용 결정 당시 배우자 인 김미경 씨 의 채용 또한 결정되 었 음 을 방증하 는 것 ” 이라고 주장 했 다 .	O O PER-B O O ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O
+그러 면서 “ 2011 년 6 월 2 일 서울대 제 5 차 정년 보장 교원 임용 심사 위원회 회의록 을 보 면 , ‘ 연구 실적 이 미흡해 전문성 을 판단하 기 어렵 다 ’ ,	O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경북 의 포항제철소 역시 전체 7 개 고로 에서 설 연휴 기간 조업 이 이뤄졌 다 .	LOC-B O ORG-B O O O O O O O O O O O O O O
+# 2 . 새정치민주연합 비례대표 은수미 의원 은 지난 28 일 경기도 성남 옛 시청 앞 에서 열린 ‘ 대기업 외식업 진출 반대 집회 ’ 에 참석해 지역 외식업 자 들 과 일일이 악수 를 나 눴 다 .	O O O ORG-B O PER-B O O O DAT-B DAT-I LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+결국 돌바람 은 팻감 계산 등 에서 실패해 이길 확률 이 50 % 밑 으로 떨어 졌 다 .	O O O O O O O O O O O O O O O O O O O
+도끼 ’ 래퍼 도끼 가 ‘ 나 혼자 산다 ’ 에 출연해 화제 로 떠오른 가운데 도끼 의 5 만 원 권 진열대 도 관심 을 집중 시 켰 다 .	PER-B O O PER-B O O O O O O O O O O O O PER-B O MNY-B MNY-I MNY-I O O O O O O O O O O
+지난 1 월 방송된 케이블 채널 Mnet ‘ 4 가지 쇼 ’ 시즌 2 에 는 최 연소 래퍼 출신 인 도끼 의 인생 이야기 가 공개 됐 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+이날 공개된 도끼 의 집 에 는 당구대 를 비롯해 고가 의 신발 과 옷 , 액세서리 등 이 자리 잡 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+도끼 는 “ 우리 집 에 전시된 돈다발 이 있 다 ” 면서 실제 5 만 원 권 을 전시한 진열대 를 준비 했 다 .	PER-B O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+“ 한진해운 쓰러지 면 부산 2300 명 실직 ” 하영석 고문 은 “ 선대 구성 이나 항로 점유율 , 글로벌 네트워크 측면 에서 한진해운 이 현대상선 보다 우위 에 있 었 기 때문 에 한진해운 이 더 나 은 입장 이 라고 생각한 것 같 다 ” 고 분석 했 다 .	O ORG-B O O LOC-B O O O O PER-B O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O

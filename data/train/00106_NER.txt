@@ -1,13 +1,13 @@
-단 10분이라도 좋아하는 차 한 잔을 여유롭게 마시는 것 자체가 휘게다 .	O O O O O O O O O O O O
-중국이 수입에 의존하+여오던 소재와 부품 등을 국산화하면서 중국에 중간재를 수출하는 비중이 높은 한국에게는 위협이 되고 있다는 분석이 나오았다 .	ORG-B O O O O O O ORG-B O O O O ORG-B O O O O O O
-관련 분야에 취업하면 월 150만원 정도의 월급을 받고 일하+ 여야 하기 때문에 어머니와 둘이 생계를 꾸리+어나가 +ㄹ 수 없었다 .	O O O O MNY-B O O O O O O O O O O O O O O O
-1사후 피츠버그 강정호가 사구로 출루하+ㄴ 뒤 대타페드로 알바레스가 친타구가 우중간으로 향하었다 .	O ORG-B PER-B O O O PER-B PER-I O O O O
-한편, 한 채 알는 지나 +ㄴ 5일 방송되+ㄴ KBS2 ‘해피투게더3’에 출연하+여대 기업 아버지설에 대하+여해명하였다 .	PER-B PER-B PER-I PER-I O O O O O O O O O O O
-「윈도스」「O .	O O
-▲ 유엔군=송환을 원하지 않는 포로는 한국 내에서 중립국의 보호하에 두고, 스위스가 그 임무에 적합하다고 보+ㄴ다 .	O ORG-B O O O ORG-B O O O O ORG-B O O O O O
-오리온은 과자 포장재의 비+ㄴ 공간을 줄이고 껌용량은 늘리는 등 4차 포장재 개선 프로젝트를 진행하+ㄴ다고 19일 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O
-GS건설, ‘김천 센트럴자이’ 2만5000명 다녀가 + .	ORG-B LOC-B LOC-I O O O O
-손호영 황보미, 소속사 측"만나 +ㄴ 것은 맞다 .	PER-B PER-B O O O O O O
-4시 현재 17개(홀인원 포함)가 쏟아지었다 .	TIM-B O O O O O
-그렇 +ㅁ에도 이날 오전부터 수십 명이 홍어, 쇠고기, 과일 등을 가지고 백련사를 찾자 손 전 고문은 부인 이윤영씨와 함께 외출하+여버리었다 .	O O O O O O O O O O O LOC-B O PER-B O O O PER-B O O O
-모델하우스는 양재역 5번 출구 앞에 위치하+여 있다 .	O LOC-B O O O O O O
+단 10 분 이라도 좋아하 는 차 한잔 을 여유롭 게 마시 는 것 자체 가 휘 게 다 .	O O O O O O O O O O O O O O O O O O O O
+중국 이 수입 에 의존해 오 던 소재 와 부품 등 을 국산화하 면서 중국 에 중간재 를 수출하 는 비중 이 높 은 한국 에게 는 위협 이 되 고 있 다는 분석 이 나 왔 다 .	ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+관련 분야 에 취업하 면 월 150 만 원 정도 의 월급 을 받 고 일해야 하 기 때문 에 어머니 와 둘 이 생계 를 꾸려 나갈 수 없 었 다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O
+1 사 후 피츠버그 강정호 가 사구 로 출루한 뒤 대타 페드로 알바레스 가 친 타구 가 우중간 으로 향 했 다 .	O O O ORG-B PER-B O O O O O O PER-B PER-I O O O O O O O O O O
+한편 , 한 채 아 는 지난 5 일 방송된 KBS 2 ‘ 해피투게더 3 ’ 에 출연해 대기업 아버지 설 에 대해 해명 했 다 .	O O PER-B PER-I PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+「 윈도스 」 「 OS	O O O O O
+▲ 유엔군 = 송환 을 원 치 않 는 포로 는 한국 내 에서 중립국 의 보호 하 에 두 고 , 스위스 가 그 임무 에 적합하 다고 본다 .	O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O
+오리온 은 과자 포장재 의 빈 공간 을 줄이 고 껌 용량 은 늘리 는 등 4 차 포장재 개선 프로젝트 를 진행한다고 19 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+GS 건설 , ‘ 김천 센트럴자이 ’ 2 만 5000 명 다녀가	ORG-B ORG-I O O LOC-B LOC-I O O O O O O
+손호영 황보미 , 소속 사 측 " 만난 것 은 맞 다 .	PER-B PER-B O O O O O O O O O O O
+4 시 현재 17 개 ( 홀인원 포함 ) 가 쏟아 졌 다 .	TIM-B TIM-I O O O O O O O O O O O O
+그럼에도 이날 오전 부터 수십 명 이 홍어 , 쇠고기 , 과일 등 을 가지 고 백련사 를 찾 자 손 전 고문 은 부인 이윤영 씨 와 함께 외출해 버 렸 다 .	O O O O O O O O O O O O O O O O LOC-B O O O PER-B O O O O PER-B O O O O O O O O
+모델 하우스 는 양재역 5 번 출구 앞 에 위치해 있 다 .	O O O LOC-B O O O O O O O O O

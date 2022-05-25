@@ -1,17 +1,17 @@
-이를테면 ‘눈을 감은 지 19분째 깊은 잠에 빠지고, 41분째 코를 골았다’는 식이죠.이 기기를 통하+여스트레스를 받거나 과로 또는 과음을 +였을 때 실제로 잠을 설치는지를 확인 하+ㄹ 수 있습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-150여개 업체가 참가하는 건축도시산업페어에서는 건설현장과 도시에서 활용하는 드론과 주택 모형 3차원(3D) 프린팅 등 다양하+ㄴ 볼거리를 제공하+ㄴ다 .	O O O O O O O O O O O O O O O O O
-지난해까지 역대 6강 PO1차 전승자의 4강 PO 진출 확률은 94.7%+이었다 .	O O O O O O O O O O O
-정부는 지난해 12월 일자리 해외진출 분야 대통령 표창을 최 교수에게 수여하였다 .	O O O O O O O O PER-B O O O
-문 대표를 포함하 +ㄴ지도부는 공개발언에서 한 전 총리에 대하+ㄴ 언급을 한마디도 하지 않았다 .	PER-B O O O O PER-B O O O O PER-B O O O
-[커버스토리] 손주돌보며 자기계발 … 건강·행복' 두 토끼' 잡는 .	O O O O O O O O O
-이 후보자에 대하+ㄴ 인사청문회는 24일 오전 10시 열리+ㄹ 예정이다 .	PER-B O O O O O O O PER-B O
-신문은 이날 선양(瀋陽) 발기사에서 북-중 국경지역 복수의 소식통을 인용하+여 “북한 난민 유입에 대비 하+여지린(吉林)성에서 식량저장고나 수용시설 확보가 시작되었다는 정보가 있다”고 보도하였다 .	O O LOC-B O ORG-B O O O O ORG-B O O O LOC-B O O O O O O O O
-‘아빠는 딸’ 정소민, 윤제민과 父女호흡 …사고 많고 탈도 많은 딸로 변신 .	O O PER-B PER-B O O O O O O O O
-현지의 대표팀 관계자는 “소속 팀리그 일정으로 늦게 합류하+ㄴ 기성용(스완 지시티)이 출전하지 않아 중앙플레이가 잘 되지 않았다 .	O O O O O O O O PER-B O O O O O O O O
-SK이노베이션은 신규 수출처를 확보하고 고정수출 거래처를 추가하는 등 수출량 유지 및 확대 방안을 강구하고 있다 .	ORG-B O O O O O O O O O O O O O O O
-기자는 검색을 통하+여스미스소니언 자료와 동일하+ㄴ 사진이 2009년 하+ㄴ 중국 웹사이트에 올라 오+ㄴ 것을 확인 하+ㄹ 수 있었다 .	O O O O O O O O ORG-B O O O O O O O O O
-구미시 산악협회는 이를 위하+여구미시의 시(市)승격 40주년(2018년 2월15일)에 세계 최고봉 7곳을 모두 오르+ㄴ다는 계획을 세우었다 .	ORG-B ORG-I O ORG-B O O O O O O O O O O O
-스윈턴 등이 참석하였다 .	PER-B O O O
-이와 관련 하+여 서울시는 노들길 일반도로화에 따르+ㄴ 주변 지역과의 연결체계 구축, 보도·버스 정류장 설치 등을 종합적으로 검토 하+여 개선 방안을 마련하 +ㄹ 계획이다 .	O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O
-김준기 서울시 도시안전본부장은 “이번 자동차 전용도로 해제는 기능 중심의 도로 정책에서 탈피하+여 지역 주민을 최대한 고려하+여도로 공간을 활용하는 서울시의 도로 정책을 반영하 +ㄴ 것”이라며 “일반도로화에 따르+ㄴ 개선 방안을 추가 검토 하+여 지역 주민들이 편리하게 이용하+ㄹ 수 있는 환경을 조성하겠다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-삼육대는 인수가 완료되면 남원캠퍼스의 정상화를 위하+ 여기존 삼육대 서울캠퍼스의 정원 100여명을 남원캠퍼스로 위치 변경하여 치위생학과, 전통문화학과, 국제학부(한국학 전공, 첨단농업전공, 향장학 전공, 국제경영전공 등)를 신설 하+ㄴ다 .	ORG-B O O LOC-B O O O ORG-B LOC-B O O LOC-B O O O O O O O O O O O O O O
+이를테면 ‘ 눈 을 감 은 지 19 분 째 깊 은 잠 에 빠지 고 , 41 분 째 코 를 골 았 다 ’ 는 식 이 죠 . 이 기기 를 통해 스트레스 를 받 거나 과로 또는 과음 을 했 을 때 실제로 잠 을 설치 는지 를 확인할 수 있 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+150 여 개 업체 가 참가하 는 건축 도시 산업 페어 에서 는 건설 현장 과 도시 에서 활용하 는 드론 과 주택 모형 3 차원 ( 3 D ) 프린팅 등 다양한 볼거리 를 제공한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 까지 역대 6 강 PO 1 차 전 승자 의 4 강 PO 진출 확률 은 94.7 % 였 다 .	O O O O O O O O O O O O O O O O O O O O O O
+정부 는 지난해 12 월 일자리 해외 진출 분야 대통령 표창 을 최 교수 에게 수여 했 다 .	O O O DAT-B DAT-I O O O O O O O PER-B O O O O O O
+문 대표 를 포함한 지도부 는 공개 발언 에서 한 전 총리 에 대한 언급 을 한마디 도 하 지 않 았 다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O
+[ 커버스토리 ] 손주 돌보 며 자기 계발 … 건강 · 행복 ' 두 토끼 ' 잡 는다	O O O O O O O O O O O O O O O O O O
+이 후보자 에 대한 인사 청문회 는 24 일 오전 10 시 열릴 예정 이 다 .	PER-B O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O
+신문 은 이날 선양 ( 瀋陽 ) 발 기사 에서 북 - 중 국경 지역 복수 의 소식통 을 인용해 “ 북한 난민 유입 에 대비해 지린 ( 吉林 ) 성 에서 식량 저장고 나 수용 시설 확보 가 시작 됐 다는 정보 가 있 다 ” 고 보도 했 다 .	O O O LOC-B O LOC-B O O O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+‘ 아빠 는 딸 ’ 정소민 , 윤제민 과 父女 호흡 … 사고 많 고 탈 도 많 은 딸 로 변신 ?	O O O O O PER-B O PER-B O O O O O O O O O O O O O O O
+현지 의 대표 팀 관계자 는 “ 소속 팀 리그 일정 으로 늦 게 합류한 기성용 ( 스완지시티 ) 이 출전하 지 않 아 중앙 플레이 가 잘되 지 않 았 다 .	O O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O
+SK 이노베이션 은 신규 수 출처 를 확보하 고 고정 수출 거래처 를 추가하 는 등 수출 량 유지 및 확대 방안 을 강구하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+기자 는 검색 을 통해 스미스소니언 자료 와 동일한 사진 이 2009 년 한 중국 웹사이트 에 올라온 것 을 확인할 수 있 었 다 .	O O O O O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O
+구미시 산악 협회 는 이 를 위해 구미시 의 시 ( 市 ) 승격 40 주년 ( 2018 년 2 월 15 일 ) 에 세계 최고봉 7 곳 을 모두 오른다는 계획 을 세 웠 다 .	ORG-B ORG-I ORG-I O O O O ORG-B O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+스 윈턴 등 이 참석 했 다 .	PER-B PER-I O O O O O O
+이 와 관련해 서울시 는 노들 길 일반 도로 화 에 따른 주변 지역 과 의 연결 체계 구축 , 보도 · 버스 정류장 설치 등 을 종합적 으로 검토해 개선 방안 을 마련할 계획 이 다 .	O O O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김준기 서울시 도시 안전 본부 장 은 “ 이번 자동차 전용 도로 해제 는 기능 중심 의 도로 정책 에서 탈피해 지역 주민 을 최대한 고려해 도 로 공간 을 활용하 는 서울시 의 도로 정책 을 반영한 것 ” 이 라며 “ 일반 도로 화 에 따른 개선 방안 을 추가 검토해 지역 주민 들 이 편리하 게 이용할 수 있 는 환경 을 조성하 겠 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼육대 는 인수 가 완료되 면 남원 캠퍼스 의 정상화 를 위해 기존 삼육대 서울 캠퍼스 의 정원 100 여 명 을 남원 캠퍼스 로 위치 변경하 여 치 위생 학과 , 전통문화 학과 , 국제 학부 ( 한국학 전공 , 첨단 농업 전공 , 향장 학 전공 , 국제 경영 전공 등 ) 를 신설한다 .	ORG-B O O O O O LOC-B LOC-I O O O O O ORG-B LOC-B LOC-I O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

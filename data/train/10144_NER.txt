@@ -1,15 +1,15 @@
-개나리 개화 시기, 서울은 4월 2일~3일 꽃놀이가면 ‘딱’ 올해 개나리 개화 시기는 평년보다 1~2일 빠르+ㄹ 전망이다 .	O O O LOC-B O O O O O O O O O O O O O
-민간 기상업체 케이웨더는 17일 홈페이지를 통하+여 2016년 주요 도시 봄꽃(개나리, 진달래) 개화 시기 정보를 발표하였다 .	O O ORG-B O O O O O O O O O O O O O
-케이웨더는 이달 하순과 3월 기온이 평년보다 조금 높을 것으로 예측되+어 올해 평년보다 꽃피는 시기가 빠르아지+ㄹ 것으로 예측하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-장애인에게 서울은 결코 다니기 좋은 곳이 아니다 .	O LOC-B O O O O O O
-조기자 : 저도 그렇었던 기억이나 +ㅂ니다 .	PER-B O O O O O O
-다행히 올해 7월부터 보건복지부가 말기 암 환자의 호스피스 의료비에 건강보험을 적용하였다 .	O O O ORG-B O O O O O O O O
-독일 레버쿠젠 소속 이+ㄴ류승우는 31일 오전 2시5분 항공기 편으로 프랑크푸르트로 날아가 +ㄴ다 .	ORG-B ORG-I O PER-B O O O O O LOC-B O O O
-간선 급행버스(BRT) 정류장은 단지와 150m 정도 떨어지+어 있다 .	O O O O O O O O O
-먼저 윤리적 이+ㄴ 측면에서 법륜 스님은 인간은 ”욕망을 가지+ㄴ 존재“+이라는 것을 인정하는 데서부터 출발하였습니다 .	O O O O PER-B O O O O O O O O O O
-주 당국은 지금까지 뉴델리 지역 환자 중 26명만이 양성이었다며 전염병의 확산을 막을 수 있기 때문에 지난달 28일부터 시작되+ㄴ 휴교를 더 이상 계속 하+ㄹ 필요가 없다고 말하였다 .	O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
-'항아리 천사' 소 보면에 나타나 + .	O O O O O O O
-정관장에서 지나 +ㄴ 2013년에 출시하+ㄴ ‘홍삼쿨’은 장소를 가리지 않고 다양하+ㄴ 방법으로 홍삼을 즐기+ㄹ 수 있게 만들었다 .	ORG-B O O O O O O O O O O O O O O O O
-여기에 67년 수에즈 운하 폐쇄는 몰타 경제에 결정 타+이었다 .	O O O O O ORG-B O O O O
-공식 온라인 쇼핑몰 X-shop을 비롯하+여AS와 체험, 구매까지 원스톱으로 가능하+ㄴ후지필름 스퀘어 군자점, 그 외 전국 주요 백화점과 대형마트, 온라인 쇼핑몰 등 온·오프라인 채널에서 구매 가능하다 .	O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
-'엽기적이+ㄴ 그녀 2' 차태현, '스태프들에게 금두 돈 선물… 5000만원 +었다 .	O O O PER-B O O O O MNY-B O O
+개나리 개화 시기 , 서울 은 4 월 2 일 ~ 3 일 꽃놀이 가 면 ‘ 딱 ’ 올해 개나리 개화 시기 는 평년 보다 1 ~ 2 일 빠를 전망 이 다 .	O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+민간기 상업 체 케이웨더 는 17 일 홈페이지 를 통해 2016 년 주요 도시 봄꽃 ( 개나리 , 진달래 ) 개화 시기 정보 를 발표 했 다 .	O O O ORG-B O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+케이웨더 는 이달 하순 과 3 월 기온 이 평년 보다 조금 높 을 것 으로 예측돼 올해 평년 보다 꽃 피 는 시기 가 빨 라 질 것 으로 예측 했 다 .	ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장애인 에게 서울 은 결코 다니 기 좋 은 곳 이 아니 다 .	O O LOC-B O O O O O O O O O O O
+조 기자 : 저 도 그 랬 던 기억 이 납니다 .	PER-B O O O O O O O O O O O
+다행히 올해 7 월 부터 보건복지부 가 말기 암 환자 의 호스피스 의료비 에 건강 보험 을 적용 했 다 .	O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O
+독일 레버쿠젠 소속 인 류승우 는 31 일 오전 2 시 5 분 항공기 편 으로 프랑크푸르트 로 날아간다 .	ORG-B ORG-I O O PER-B O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O LOC-B O O O
+간선 급행 버스 ( BRT ) 정류장 은 단지 와 150 m 정도 떨어져 있 다 .	O O O O O O O O O O O O O O O O O
+먼저 윤리적 인 측면 에서 법륜 스님 은 인간 은 ” 욕망 을 가진 존재 “ 라는 것 을 인정하 는 데 서부터 출발 했 습니다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+주 당국 은 지금 까지 뉴델리 지역 환자 중 26 명 만 이 양성 이 었 다며 전염병 의 확산 을 막 을 수 있 기 때문 에 지난달 28 일 부터 시작된 휴교 를 더 이상 계속할 필요 가 없 다고 말 했 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+' 항아리 천사 ' 소보면 에 나타나	O O O O LOC-B O O
+정관장 에서 지난 2013 년 에 출시한 ‘ 홍삼 쿨 ’ 은 장소 를 가리 지 않 고 다양한 방법 으로 홍삼 을 즐길 수 있 게 만들 었 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 에 67 년 수에즈 운하 폐쇄 는 몰타 경제 에 결정타 였 다 .	O O DAT-B DAT-I O O O O ORG-B O O O O O O
+공식 온라인 쇼핑몰 X - shop 을 비롯해 AS 와 체험 , 구매 까지 원스톱 으로 가능한 후지필름 스퀘어 군자 점 , 그 외 전국 주요 백화점 과 대형 마트 , 온라인 쇼핑몰 등 온 · 오프라인 채널 에서 구매 가능하 다 .	O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+' 엽기적 인 그녀 2 ' 차태현 , ' 스태프 들 에게 금 두돈 선물 … 5000 만 원 썼 다 '	O O O O O O PER-B O O O O O O O O O MNY-B MNY-I MNY-I O O O

@@ -1,13 +1,13 @@
-바로 카 멜로드 피노누아이다 .	O O O O O
-자세 하+ㄴ 내용은 중앙선거여론조사공정심의위원회 홈페이지에서 확인 하+ㄹ 수 있다 .	O O O ORG-B O O O O O O
-수강 후 절차에 따르 아공경매마이스터 멤버 증서가 수여되고, 국가등록자격이 +ㄴ 임대관리사 자격증을 얻게 되+ㄴ다 .	O O O O O O O O O O O O O O O
-노무현 정부 당시 외교부 장관을 지내+었던 송민순 북한대학원대학교 총장은 ‘빙하는 움직이+ㄴ다’+이라는 회고록을 통하+여지나 +ㄴ 2007년 당시 노무현 정부가 유엔총회에서 북한의 의견을 묻고 북한인권결의안을 기권하였다고 주장하+여진실 공방이 벌어지었다 .	O O O ORG-B O O PER-B ORG-B O O O O O O O O O O ORG-B ORG-B O O ORG-B O O O O O
-이 의원은 '무한도전' 속 직장인들의 에피소드를 그리 +ㄴ '무한상사' 특집이 근로기준법을 위반하였다고 꼬집었다 .	PER-B O O O O O O O O PER-B O O O O
-강남차병원 산부인과 김수현 교수가 임산부들이 임신 중 경험 하+ㄹ 수 있는 몸의 변화와 이에 따르+ㄴ 관리법, 자연주의 출산에 대하+ㄴ 전반적 이+ㄴ 내용과 자연주의 출산을 위하+ㄴ 조건 등을 알리+어주+ㄹ 예정이다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-본보기집(인천 남구 도화동 73-3)은 28일 문을 열 +ㄴ다 .	LOC-B LOC-I LOC-I LOC-I O O O O O
-최민식은 “170억이 넘는 제작비에 200억 가깝ㄴ 제작비를 사용하+ㄴ'라이언킹'이 되지 않으려면, CG+이라는 생각조차도 없어 지+ㄹ만큼 드라마가 굉장히 중요하다고 느끼었다”며 “그래서 천만 덕의 가치관, 세계관생을 살아가는 천만덕의 태도에 집중 하+ㄹ 수밖에 없었다”고 밝히었다 .	PER-B MNY-B O O MNY-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
-한편 영화 ‘대호’는 일제강점기, 더 이상 총을 들지 않으려는 조선 최고의 명포 수천만덕과 조선의 마지막 호랑이 대호에 대하+ㄴ이야기를 그리 +ㄴ 영화로 12월 17일 개봉 예정이다 .	O O PER-B O O O O O O ORG-B O O PER-B ORG-B O O PER-B O O O O O O O O O
-한편 파이어리츠는 이날 화이트 삭스를 11-0으로 대파하고 5연승을 달리었다 .	O ORG-B O O O O O O O O
-광주민주화운동 진압실상을 알리기 위하+ㄴ 유인물을 뿌리 .	O O O O O O O
-다이앤은 15일 워싱턴포스트(WP)와의 인터뷰에서 “남편이 죽음을 맞이하 +ㄴ 방식을 절대 용서 하+ㄹ 수가 없다 .	PER-B O ORG-B O O O O O O O O O O O O
-수감 중 이+ㄴ이 병장은 국군교도소에서 동료 수감자 3명을 때리고 가혹행위를 하+ㄴ 혐의로 28일 군사법원에 추가 기소되+어 형량이 더 늘어나 +ㄹ 수도 있다 .	O O PER-B O ORG-B O O O O O O O O ORG-B O O PER-B O O O O O O
+바로 카멜 로드 피노누아 이 다 .	O PER-B PER-I PER-I O O O
+자세한 내용 은 중앙 선거 여론조사 공정 심의 위원회 홈페이지 에서 확인할 수 있 다 .	O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O
+수강 후 절차 에 따 라 공경매 마이스터 멤버 증서 가 수여되 고 , 국가 등록 자 격 인 임대 관리 사 자격증 을 얻 게 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+노무현 정부 당시 외교부 장관 을 지냈 던 송민순 북한 대학원 대학교 총장 은 ‘ 빙하 는 움직인다 ’ 라는 회고록 을 통해 지난 2007 년 당시 노무현 정부 가 유엔 총회 에서 북한 의 의견 을 묻 고 북한 인권 결의안 을 기권 했 다고 주장해 진실 공방 이 벌어 졌 다 .	O O O ORG-B O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O DAT-B DAT-I O O O O ORG-B O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O
+이 의원 은 ' 무한도전 ' 속 직장인 들 의 에피소드 를 그린 ' 무한 상사 ' 특집 이 근로 기준 법 을 위반 했 다고 꼬집 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강남 차 병원 산부인과 김수현 교수 가 임산부 들 이 임신 중 경험할 수 있 는 몸 의 변화 와 이 에 따른 관리법 , 자연주의 출산 에 대한 전반적 인 내용 과 자연주의 출산 을 위한 조건 등 을 알려 줄 예정 이 다 .	ORG-B ORG-I ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+본보기 집 ( 인천 남 구 도화동 73 - 3 ) 은 28 일 문 을 연다 .	LOC-B LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O DAT-B DAT-I O O O O
+최민식 은 “ 170 억 이 넘 는 제작비 에 200 억 가까 운 제작비 를 사용한 ' 라이언킹 ' 이 되 지 않 으려면 , CG 라는 생각 조차 도 없어질 만큼 드라마 가 굉장히 중요하 다고 느 꼈 다 ” 며 “ 그래서 천만덕 의 가치관 , 세계관 생 을 살아가 는 천만덕 의 태도 에 집중할 수 밖에 없 었 다 ” 고 밝 혔 다 .	PER-B O O MNY-B MNY-I O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O
+한편 영화 ‘ 대호 ’ 는 일제 강점기 , 더 이상 총 을 들 지 않 으려는 조선 최고 의 명포수 천만덕 과 조선 의 마지막 호랑이 대호 에 대한 이야기 를 그린 영화 로 12 월 17 일 개봉 예정 이 다 .	O O O O O O O O O O O O O O O O O ORG-B O O O PER-B O ORG-B O O O PER-B O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+한편 파이어리츠 는 이날 화이트삭스 를 11 - 0 으로 대파하 고 5 연승 을 달 렸 다 .	O ORG-B O O ORG-B O O O O O O O O O O O O O O
+광주 민주화 운동 진압 실상 을 알리 기 위한 유인물 을 뿌리 다	O O O O O O O O O O O O O
+다이앤 은 15 일 워싱턴 포스트 ( WP ) 와 의 인터뷰 에서 “ 남편 이 죽음 을 맞이한 방식 을 절대 용서할 수 가 없 다 .	PER-B O DAT-B DAT-I ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O
+수감 중 인 이 병장 은 국군 교도소 에서 동료 수감자 3 명 을 때리 고 가혹 행위 를 한 혐의 로 28 일 군사 법원 에 추가 기소돼 형량 이 더 늘어날 수 도 있 다 .	O O O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O

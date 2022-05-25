@@ -1,15 +1,15 @@
-로터스빈야드 2010년 산은 2012년에도 두 번째로버트 파커 만점을 받았다 .	PER-B O O O O O O O O O
-‘7포세대’ +이라는 신조어가 생겨나고 ‘취업보다 하늘의 별을 따는 것+이 더 쉽다’는 말이 나 오+ㄹ 정도로 취업준비는 그야말로 고행길이다 .	O O O O O O O O O O O O O O O O O O O
-2011년 289대의 차량이 스타클래스 인증을 받고 판매되+ㄴ후이듬해 364대, 2013년 399대에잇어 지난해에는 550대의 차가 스타클래스로 판매되는 등 매년 성장세를 보이고 있다 .	O O O O O O O O O O O O O O O O O O O O O
-가공치즈와 달리, 롯데리아 자연산 모차렐라 치즈는 섭씨 4도에서 1개월간 숙성하+ㄴ이탈리아 남부 콤파+이냐 산 100% 자연치즈로 프리미엄, 차별화 되+ㄴ 치즈 본연의 맛과 치즈가 늘어나는 ‘스트링’ 현상이 우수하+여치즈 그 자체의 풍미를 느끼+ㄹ 수 있는 제품이다 .	O O ORG-B O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O
-한편, 플랫 포인트는 세라믹과 방향제부터 가구류까지 다양하+ㄴ 소재의 상품을 하나의 통일되+ㄴ 감성으로 디자인 및 생산하고 있는 국내 디자인 그룹이다 .	O O O O O O O O O O O O O O O O O O O O
-트럼프 대통령이 해당 글을 남기면서 고맙다고 언급하+ㄴ이유를 설명하지 +ㄴ 않았지만, 첫 의회 연설에서 호평이 이어지자 이러하+ㄴ멘션을 남기+ㄴ 것으로 보이+ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O O O
-실제 미국 CNN에 따르면 의회 연설 시청자 509명을 상대로 여론조사를 하+ㄴ 결과, 57%가 ‘매우 긍정’, 21%가 ‘다소 긍정’이라고 답하였다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O
-하지만 한국은행은 기준금리를 지난해 두 번에 걸치+어2.0%로 낮추+ㄴ 뒤 그대로 유지하고 있다 .	O ORG-B O O O O O O O O O O O
-모스에 대하+ㄴ 유일 하+ㄴ 평전이+ㄴ이 책은 4부 18장에 2200여개의 주석을 달며 촘촘히 구성하+여 그의 생에 대하+ㄴ 모든 것을 담았다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-"약물 의 혹은 16세 때도 받았다 .	O O O O O O O
-현재 미국, 유럽에서 5개의 임상이 순조롭게 진행 중으로 내년 초에 임상 결과가 나오+ㄹ 예정이다 .	O ORG-B ORG-B O O O O O O O O O O O O
-로봇과 센서가 놀랍ㄹ 정도로 정교하+여지고 있는데다 3D 프린팅 기술 등은 더욱 진화 하+ㄹ 것이다 .	O O O O O O O O O O O O O O O
-인근 제3경인고속도로, 제2경인고속도로 연장(예정) 등으로 교통여건은 더욱 개선되 +ㄹ 전망이다 .	O LOC-B LOC-B O O O O O O O O
-타이거 우즈허리 수술 타이거 우즈 두 번재허리 수술, 고질적 통증에 시달리+어기권까지... ‘골프 황제’ 타이거 우즈(미국)가 최근 또다시 허리 수술을 받았다 타이거 우즈는 19일(한국시간) 자신의 공식 홈페이지에 허리 통증을 치료하기 위하+ 여두번째 수술대에 오르았다는 사실을 밝히었다 .	PER-B PER-I O PER-B PER-I O O O O O O O O PER-B ORG-B O O O O O PER-B PER-I LOC-B O O O O O O O O O O O O O
-고질적이+ㄴ 허리 통증을 겪고 있던 우즈는 17일 미세현미경 디스크 제거술을 받았다 .	O O O O O PER-B O O O O O O
+로터스 빈야드 2010 년 산 은 2012 년 에 도 두 번째 로버트 파커 만점 을 받 았 다 .	PER-B PER-I O O O O DAT-B DAT-I O O O O O O O O O O O O
+‘ 7 포 세대 ’ 라는 신조어 가 생겨나 고 ‘ 취업 보다 하늘 의 별 을 따 는 게 더 쉽 다 ’ 는 말 이 나올 정도 로 취업 준비 는 그야말로 고행 길 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2011 년 289 대 의 차량 이 스타 클래스 인증 을 받 고 판매된 후 이듬해 364 대 , 2013 년 399 대 에 이 어 지난해 에 는 550 대 의 차 가 스타 클래스 로 판매되 는 등 매년 성장세 를 보이 고 있 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가공 치즈 와 달리 , 롯데리아 자연산 모차렐라 치즈 는 섭씨 4 도 에서 1 개월 간 숙성한 이탈리아 남부 콤파 냐 산 100 % 자연 치즈 로 프리미엄 , 차별화된 치즈 본연 의 맛 과 치즈 가 늘어나 는 ‘ 스트링 ’ 현상 이 우수해 치즈 그 자체 의 풍미 를 느낄 수 있 는 제품 이 다 .	O O O O O ORG-B O O O O O O O O O O O O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 플랫 포인트 는 세라믹 과 방향제 부터 가구 류 까지 다양한 소재 의 상품 을 하나 의 통일된 감성 으로 디자인 및 생산하 고 있 는 국내 디자인 그룹 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+트럼프 대통령 이 해당 글 을 남기 면서 고맙 다고 언급한 이유 를 설명하 진 않 았 지만 , 첫 의회 연설 에서 호평 이 이어지 자 이러한 멘션 을 남긴 것 으로 보인다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+실제 미국 CNN 에 따르 면 의회 연설 시청자 509 명 을 상대 로 여론 조사 를 한 결과 , 57 % 가 ‘ 매우 긍정 ’ , 21 % 가 ‘ 다소 긍정 ’ 이라고 답 했 다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 한국은행 은 기준 금리 를 지난해 두 번 에 걸쳐 2.0 % 로 낮춘 뒤 그대로 유지하 고 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
+모스 에 대한 유일한 평전 인 이 책 은 4 부 18 장 에 2200 여 개 의 주석 을 달 며 촘촘히 구성해 그 의 생 에 대한 모든 것 을 담 았 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 약물 의혹 은 16 세 때 도 받 았 다 .	O O O O O O O O O O O O
+현재 미국 , 유럽 에서 5 개 의 임상이 순조롭 게 진행 중 으로 내년 초 에 임상 결과 가 나올 예정 이 다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+로봇 과 센서 가 놀라 울 정도 로 정교해 지 고 있 는데 다 3 D 프린팅 기술 등 은 더욱 진화할 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+인근 제 3 경인고속도로 , 제 2 경인고속도로 연장 ( 예정 ) 등 으로 교통 여건 은 더욱 개선될 전망 이 다 .	O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
+타이거 우즈 허리 수술 타이거 우즈 두 번 재 허리 수술 , 고질적 통증 에 시달려 기권 까지 . . . ‘ 골프 황제 ’ 타이거 우즈 ( 미국 ) 가 최근 또 다시 허리 수술 을 받 았 다 타이거 우즈 는 19 일 ( 한국 시간 ) 자신 의 공식 홈페이지 에 허리 통증 을 치료하 기 위해 두 번째 수술대 에 올 랐 다는 사실 을 밝 혔 다 .	PER-B PER-I O O PER-B PER-I O O O O O O O O O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O PER-B PER-I O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+고질적 인 허리 통증 을 겪 고 있 던 우즈 는 17 일 미세 현미경 디스크 제거 술 을 받 았 다 .	O O O O O O O O O PER-B O DAT-B DAT-I O O O O O O O O O O

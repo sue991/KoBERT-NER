@@ -1,16 +1,16 @@
-1930년대 이후 사상 최악의 실업률과 양극화 현상을 겪고 있는 브라질은 이번 올림픽을 통하+여 극적이+ㄴ 경제부활을 기대하고 있습니다 .	O O O O O O O O O ORG-B O O O O O O O O
-보통 부활절이 있는 4, 5월은 격동의 현대사와 관련되 +ㄴ 기념일이 적지 않다 .	O O O O O O O O O O O O O
-호세 프랑코 씨는 수영장 만들는 과정과 완성되 +ㄴ 모습을 그의 페이스북에 올리었다 .	PER-B PER-I O O O O O O O O O O O
-서울시 공무원 합격자 발표, 응시번호 모르면 합격 유무 확인 못하+ㄴ다 .	ORG-B O O O O O O O O O O
-장래에는 자신이 좋아하는 축구단이 +ㄴ ‘전북 현대’와 ‘울산 현대’의 홍보맨이 되고 싶다고 하+ㄴ다 .	O O O O O ORG-B ORG-I ORG-B ORG-I O O O O O
-‘삼성페이 갤럭시노트5 갤럭시S6 엣지 ++’ 삼성전자는 ‘갤럭시노트5’와 ‘갤럭시S6 엣지 ++’를 20일 국내에 출시하였다 .	O O O O O ORG-B O O O O O O O O
-[사진] 국내외 144개사 참가 ‘커피 엑스포 .	O O O O O O O
-문득 대답이 없어 지+ㄴ 투팍을 부르는 라마의 목소리(“(투) 팍?팍?팍?”)와 함께 앨범은 허망하+ㄴ꿈처럼, 툭, 끝나 +ㄴ다 .	O O O O PER-B O PER-B O O O O O O O O O
-[원정 출근 130만명 시대 .	O O O O O
-‘아이와 함께 봄놀이 기획전’에서는 본토 이의 클래식 롤링카를 30% 할인되+ㄴ 8만4000원에, 포니 사이클 승마완구를 25% 할인되+ㄴ25만5000원에, 조코 폴딩이 지 승용차를 14만8400원에 판매 하+ㄴ다 .	O O O O ORG-B O O O O O MNY-B ORG-B ORG-I O MNY-B MNY-B ORG-B ORG-I O O MNY-B O O O
-이에 따르 아산업은행과 수출입은행 등 채권단이 대우조선의 정상화를 위하+여최근 마련하+ㄴ 4조원대의 지원방안은 전면 보류되었다 .	O O ORG-B O O O O O O O MNY-B MNY-I O O O
-▲바위절마을호상놀이(서울) ▲구덕 망깨소리(부산) ▲꽁당배와 두루메기 젓잡이(인천) ▲호남우도 농악도 둑잽이굿(광주) ▲부사칠석놀이(대전) ▲수원 장치기(경기) ▲양구 바랑골농요(강원) ▲지동 농악(충북) ▲안섬 풍어당 굿놀이(충남) ▲삼계고 전상여소리(전북) ▲ 진도닻 배 노래(전남) ▲명주 농악(경북) ▲남해선 구줄긋기 놀이(경남) ▲영둥굿약마회놀이(제주) ▲해주 검무(황해) ▲평안도 다리굿(평북) ▲평양 검무( 평남) ▲ 돈돌 날이(함남 .	LOC-B O LOC-B O O LOC-B LOC-B O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O LOC-B O O LOC-B O LOC-B O O O LOC-B O LOC-B O O LOC-B LOC-B O LOC-B O LOC-B O O LOC-B O O LOC-B O
-광고와 마케팅 활동 역시 에너지 넘치는 스타를 모델로 기용하거나 젊은 층에게 희망의 메시지를 전하는 마케팅 활동을 펼치+ㅁ으로써 ‘카스’의 젊고 역동적 이+ㄴ 브랜드 이미지를 효과적으로 전달하고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-하지만 ‘한미 군사훈련 중단’ 등 조건을 달았다 .	O ORG-B O O O O O O
-임성호 종로학원 하늘교육 대표는 “이전에는 휘문고 배정받기 위하+여서는 대치동에 살아야 +였는데 2010년 이후 자사고로 바뀌면서 학교 때문에 비싸 +ㄴ대치동에 살아야 하+ㄹ 필요가 없어지었다”며 “서초동이나 일원동에 살아도 자사고로 전환되+ㄴ 휘문·중동·현대·세화고에 가+ㄹ 수 있게 +었다”고 말하였다 서초동 외곽에 살는 40대 휘문고 재학생의 학부모는 “계속 오르는 전세금을 부담하면서 상대적으로 좁은 평수의 대치동 아파트에 살+ㄹ 필요가 없 었다”고 말하였다 .	PER-B ORG-B ORG-I O O ORG-B O O LOC-B O O O O O O O O O LOC-B O O O O LOC-B LOC-B O O O ORG-B O O O O O LOC-B O O O ORG-B O O O O O O O O O LOC-B O O O O O O O
-이달 말 SK텔레콤과 KT를 통하+여 판매를 시작하는 IM-100의 가격은 44만9900원. 중 저가형 스마트폰 시장을 겨냥하고 만들어 지+ㄴ 제품이다 .	O O ORG-B ORG-B O O O O O MNY-B O O O O O O O O O
+1930 년대 이후 사상 최악 의 실업률 과 양극화 현상 을 겪 고 있 는 브라질 은 이번 올림픽 을 통해 극적 인 경제 부활 을 기대하 고 있 습니다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+보통 부활절 이 있 는 4 , 5 월 은 격동 의 현대사 와 관련된 기념일 이 적 지 않 다 .	O O O O O DAT-B O DAT-B DAT-I O O O O O O O O O O O O O
+호세 프랑코 씨 는 수영장 만드 는 과정 과 완성된 모습 을 그 의 페이스북 에 올 렸 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O
+서울시 공무원 합격자 발표 , 응시 번호 모르 면 합격 유무 확인 못한다 ?	ORG-B O O O O O O O O O O O O O
+장래 에 는 자신 이 좋아하 는 축구단 인 ‘ 전북 현대 ’ 와 ‘ 울산 현대 ’ 의 홍보 맨 이 되 고 싶 다고 한다 .	O O O O O O O O O O ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O O
+‘ 삼성 페이 갤럭시 노트 5 갤럭시 S 6 엣지+ ’ 삼성전자 는 ‘ 갤럭시 노트 5 ’ 와 ‘ 갤럭시 S 6 엣지+ ’ 를 20 일 국내 에 출시 했 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+[ 사진 ] 국내외 144 개 사 참가 ‘ 커피 엑스포 ’	O O O O O O O O O O O O
+문득 대답 이 없어진 투팍 을 부르 는 라마 의 목소리 ( “ ( 투 ) 팍 ? 팍 ? 팍 ? ” ) 와 함께 앨범 은 허망한 꿈 처럼 , 툭 , 끝난다 .	O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 원 정출근 130 만 명 시대 ]	O O O O O O O O
+‘ 아이 와 함께 봄놀이 기획 전 ’ 에서 는 본토 이의 클래식 롤링 카를 30 % 할인된 8 만 4000 원 에 , 포니 사이클 승마 완구 를 25 % 할인된 25 만 5000 원 에 , 조코 폴 딩 이 지 승용차 를 14 만 8400 원 에 판매한다 .	O O O O O O O O O O ORG-B O O O O O O O MNY-B MNY-I MNY-I MNY-I O O ORG-B ORG-I O O O O O O MNY-B MNY-I MNY-I MNY-I O O ORG-B ORG-I ORG-I O O O O MNY-B MNY-I MNY-I MNY-I O O O
+이 에 따 라 산업은행 과 수출입 은행 등 채권 단 이 대우조선 의 정상화 를 위해 최근 마련한 4 조 원 대 의 지원 방안 은 전면 보류 됐 다 .	O O O O ORG-B O O O O O O O ORG-B O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+▲ 바위 절 마을 호상 놀이 ( 서울 ) ▲ 구덕 망 깨 소리 ( 부산 ) ▲ 꽁 당 배 와 두루메기 젓 잡이 ( 인천 ) ▲ 호남 우도 농악 도둑 잽이 굿 ( 광주 ) ▲ 부사 칠석 놀이 ( 대전 ) ▲ 수원 장치기 ( 경기 ) ▲ 양구 바랑 골 농요 ( 강원 ) ▲ 지동 농악 ( 충북 ) ▲ 안섬 풍어 당 굿놀이 ( 충남 ) ▲ 삼계 고전 상여 소리 ( 전북 ) ▲ 진도 닻배 노래 ( 전남 ) ▲ 명주 농악 ( 경북 ) ▲ 남해 선구 줄 긋 기 놀이 ( 경남 ) ▲ 영 둥 굿 약 마 회 놀이 ( 제주 ) ▲ 해주 검무 ( 황해 ) ▲ 평안도 다리굿 ( 평북 ) ▲ 평양 검무 ( 평남 ) ▲ 돈돌날이 ( 함남 )	O O O O O O O LOC-B O O O O O O O LOC-B O O O O O O O O O O LOC-B O O LOC-B O O O O O O LOC-B O O O O O O LOC-B O O LOC-B O O LOC-B O O LOC-B O O O O LOC-B O O O O O LOC-B O O O O O O O LOC-B O O O O O O O LOC-B O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O LOC-B O O O O O O O O O O LOC-B O O O O O LOC-B O O O O O LOC-B O O O O O LOC-B O O O O LOC-B O
+광고 와 마케팅 활동 역시 에너지 넘치 는 스타 를 모델 로 기용하 거나 젊 은 층 에게 희망 의 메시지 를 전하 는 마케팅 활동 을 펼침 으로써 ‘ 카스 ’ 의 젊 고 역동적 인 브랜드 이미지 를 효과적 으로 전달하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 ‘ 한미 군사 훈련 중단 ’ 등 조건 을 달 았 다 .	O O ORG-B O O O O O O O O O O O
+임성호 종로학원 하늘 교육 대표 는 “ 이전 에 는 휘문고 배정 받 기 위해서 는 대치동 에 살 아야 했 는데 2010 년 이후 자사 고 로 바뀌 면서 학교 때문 에 비싼 대치동 에 살 아야 할 필요 가 없어 졌 다 ” 며 “ 서초동 이나 일원동 에 살 아도 자사 고 로 전환된 휘문 · 중동 · 현대 · 세화고 에 갈 수 있 게 됐 다 ” 고 말 했 다 서초동 외곽 에 사 는 40 대 휘문고 재학생 의 학부모 는 “ 계속 오르 는 전세금 을 부담하 면서 상대적 으로 좁 은 평수 의 대치동 아파트 에 살 필요 가 없 었 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I ORG-I O O O O O O ORG-B O O O O O LOC-B O O O O O DAT-B DAT-I O O O O O O O O O O LOC-B O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O LOC-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+이달 말 SK 텔레콤 과 KT 를 통해 판매 를 시작하 는 IM - 100 의 가격 은 44 만 9900 원 . 중저가 형 스마트 폰 시장 을 겨냥하 고 만들 어 진 제품 이 다 .	O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O

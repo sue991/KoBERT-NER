@@ -1,15 +1,15 @@
-이성간 콘돔을 착용하지 않고 성관계를 맺었을 때 HIV에 감염되 +ㄹ 확률은 1회 당 0.01~1.0%로 보고되고 있다 .	O O O O O O O O O O O O O O O O O
-이로써 「이것만은 지키+ㅂ시다」수칙은 지나 +ㄴ 7월 19일 처음 제작되+ㄴ 이래 이날 현재 모두 1천55만장이 제작되었다 .	O O O O O O O O O O O O O O O O
-최씨는 지난해 8월 1일 오전 3시께 경기 안성시 당왕동 2층짜리 단독주택에 침입하+여금품을 훔치려다 잠에서 깨+ㄴ A씨(63)와 부인 B씨(56)를 흉기와 둔기로 수차례 찌르고 때리+어살해하+ㄴ 뒤 불을 지르+ㄴ 혐의로 기소되었다 .	PER-B O O O O O LOC-B LOC-I LOC-I O O O O O O PER-B O PER-B O O O O O O O O O O O
-최씨는 범행 직후 직접 119에 전화 하+여우연히 화재를 목격 하+여신고 하+ㄴ 것처럼 말을 꾸미+어 내 +었으며 아무 일 없는 것처럼 업무에 복귀하고 A씨 부부의 장례식장에 찾아가 +아조문하는 등의 대범 하+ㅁ을 보이었다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
-당시 그는 흉기·둔기를 들고 C씨 집 담을 넘었고 2층에 설치되 +ㄴ CC(폐쇄회로) TV에 검정 래커스프레이를 뿌리+ㄴ 뒤집 안으로 침입하려다 비상벨이 울리자 달아나 +았다 .	O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O
-최씨는 2억6000만원에 달하는 도박 빚으로 매월 원금과 이자 550만원을 갚아야 하는 상황에 처하자 강도를 계획 하+ㄴ 것으로 조사되었다 .	PER-B MNY-B O O O O O O MNY-B O O O O O O O O O O
-최씨는 살해 범행 9일 뒤 안성시 아양동의 한 아파트 15층에서 농약을 마시고 투신을 시도하다가족의 신고를 받고 출동하+ㄴ 경찰에 체포되었다 .	PER-B O O O O LOC-B LOC-I O O O O O O O O O O O O O
-효린지코팔로알토 ‘콜라보’ …지코= 지디코스프레 약자?돌 직구 질문에 ‘얼음 .	PER-B O PER-B PER-B O O O O O
-일부 가구에서 동강 조망이 가능하며 남한강을 이루는 자리에 위치하+ 여쾌적하다 .	O O O O O LOC-B O O O O O
-해발 890m 높이의 계족산이 동측에 있고 동강 둔치, 능말도시숲, 물무리골 생태학습장 등 영월나+의 다양하+ㄴ 시설들을 이용하+ㄹ 수 있다 .	O O O LOC-B O O LOC-B LOC-I LOC-B LOC-B LOC-I O LOC-B O O O O O O
-20~22일 3일간 정당계약이 진행되며 계약금 10%, 중도금 60% 무이자 혜택이 적용되 +ㄴ다 .	O O O O O O O O O O O O O
-견본주택은 강원도 영월군 영월읍 하송리 145에 있고 2018년 7월 입주예정이다 .	O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O
-소녀시대 ‘YouThink’ 공개…배신 하+ㄴ男에 경고 메시지 “네가나 +ㄹ 걱정 하+여? 눈물 나는 척”소녀시대가 정규 5집 앨범의 두 번째 타이틀곡 ‘YouThink(유띵크)’를 공개하였다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O
-19일 오전 0시 소녀시대는 정규 5집의 두 번째 타이틀곡 ‘YouThink(유띵크)’를 비롯하+ㄴ 신곡 6곡을 발표하였다 .	O O O ORG-B O O O O O O O O O O O
-그는 최근 파리 현지에서 본사기자와 직접 만나 +아『이를 위하+ 여 북한을 5번 방문하였었다』며 『 북한의 항구를 떠나 +ㄴ 화물선이 동해상에서 기관 고장을 일으키+어부산항에 긴급 피난을 요청하+ㄴ 다음이곳에서 미사일 세트 일부를 극비리에 내리+어놓고 떠나는 방식으로 일을 처리하려 +였다 』고까지 주장하고 있다 .	O O LOC-B O O O O O O O ORG-B O O O ORG-B LOC-I O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O
+이성 간 콘돔 을 착용하 지 않 고 성 관계 를 맺 었 을 때 HIV 에 감염될 확률 은 1 회 당 0.01 ~ 1.0 % 로 보고되 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 로써 「 이것 만 은 지킵시다 」 수칙 은 지난 7 월 19 일 처음 제작된 이래 이날 현재 모두 1 천 55 만 장 이 제작 됐 다 .	O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+최 씨 는 지난해 8 월 1 일 오전 3 시 께 경기 안성시 당왕동 2 층 짜리 단독 주택 에 침입해 금품 을 훔치 려다 잠 에서 깬 A 씨 ( 63 ) 와 부인 B 씨 ( 56 ) 를 흉기 와 둔기 로 수차례 찌르 고 때려 살해한 뒤 불 을 지른 혐의 로 기소 됐 다 .	PER-B O O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+최 씨 는 범행 직후 직접 119 에 전화해 우연히 화재 를 목격해 신고한 것 처럼 말 을 꾸며 냈 으며 아무 일 없 는 것 처럼 업무 에 복귀하 고 A 씨 부부 의 장례식장 에 찾아가 조문하 는 등 의 대범함 을 보 였 다 .	PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+당시 그 는 흉기 · 둔기 를 들 고 C 씨 집 담 을 넘 었 고 2 층 에 설치된 CC ( 폐쇄 회로 ) TV 에 검정 래커 스프레이 를 뿌린 뒤 집안 으로 침입하 려다 비상벨 이 울리 자 달아났 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 씨 는 2 억 6000 만 원 에 달하 는 도박 빚 으로 매월 원금 과 이자 550 만 원 을 갚 아야 하 는 상황 에 처하 자 강도 를 계획한 것 으로 조사 됐 다 .	PER-B O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+최 씨 는 살해 범행 9 일 뒤 안성시 아양동 의 한 아파트 15 층 에서 농약 을 마시 고 투신 을 시도하 다 가족 의 신고 를 받 고 출동한 경찰 에 체포 됐 다 .	PER-B O O O O DAT-B DAT-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+효 린 지코 팔로알토 ‘ 콜라 보 ’ … 지코 = 지디 코스 프레 약자 ? 돌 직구 질문 에 ‘ 얼음 ’	PER-B PER-I PER-B O O O O O O PER-B O PER-B O O O O O O O O O O O
+일부 가구 에서 동강 조망 이 가능하 며 남한강 을 이루 는 자리 에 위치해 쾌적하 다 .	O O O O O O O O LOC-B O O O O O O O O O
+해발 890 m 높이 의 계족산 이 동 측 에 있 고 동강 둔치 , 능 말 도시 숲 , 물 무리 골 생태 학습장 등 영월 내 다양한 시설 들 을 이용할 수 있 다 .	O O O O O LOC-B O O O O O O LOC-B LOC-I O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I O LOC-B O O O O O O O O O O
+20 ~ 22 일 3 일 간 정당 계약 이 진행되 며 계약금 10 % , 중도금 60 % 무이자 혜택 이 적용된다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+견본 주택 은 강원도 영월군 영월읍 하송리 145 에 있 고 2018 년 7 월 입주 예정 이 다 .	O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+소녀 시대 ‘ You Think ’ 공개 … 배신한 男 에 경고 메시지 “ 네 가 날 걱정해 ? 눈물 나 는 척 ” 소녀 시대 가 정규 5 집 앨범 의 두 번째 타이틀 곡 ‘ You Think ( 유 띵 크 ) ’ 를 공개 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+19 일 오전 0 시 소녀 시대 는 정규 5 집 의 두 번째 타이틀 곡 ‘ You Think ( 유 띵 크 ) ’ 를 비롯한 신곡 6 곡 을 발표 했 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 최근 파리 현지 에서 본사 기자 와 직접 만나 『 이 를 위해 북한 을 5 번 방문 했었 다 』 며 『 북한 의 항구 를 떠난 화물선 이 동해 상 에서 기관 고장 을 일으켜 부산 항 에 긴급 피난 을 요청한 다음 이곳 에서 미사일 세트 일부 를 극비리 에 내려 놓 고 떠나 는 방식 으로 일 을 처리하 려 했 다 』 고 까지 주장하 고 있 다 .	O O O LOC-B O O O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O LOC-B O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,10 +1,10 @@
-인천시는 최근 김정은 북한 국방위원회 제1위원장이 신년사에서 남북관계 개선을 강조하+ㄴ만큼 친선경기 성사 가능성을 높게 보고 있다 .	ORG-B O PER-B ORG-B ORG-I O O ORG-B O O O O O O O O O
-1990년 명량대첩을 기념하는 기념공원이 조성되면서 국민관광지가 +었고 1992년 전남도 기념물 제139호로 지정되었다 .	O O O O O O O O O O O O O
-고궁 앞에서 포즈를 취하며 사진을 찍는 이들 10명 중 7, 8명은 한복 차림.갓이나 댕기까지 갖추+어 전통 한복을 차리+어입은 사람도 많았지만 짧은 치마나길 +ㄴ 저고리, 레이스를 활용하+ㄴ 것 등 독특하+ㄴ한복을 입은 이들도 눈에 띄었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-평상시 그는 3300m ²(1000평) 남짓 하+ㄴ밭에 콩을 키우며 살고 있다 .	O O O O O O O O O O O
-이번 대국전의 한국은 인터넷에서 AI를 검색하면 조류독감(Avianinfluenza)이 먼저 뜨는 촌동네+이었다 .	O O LOC-B O O O O O O O O
-한편 지나 +ㄴ 15일 첼시전에서 1골1 도움을 기록하+ㄴ리야드 마레즈(레스터시티)가 전체 랭킹 1위를, 잇어 제이미 바디(레스터 시티)와 로멜루 루카쿠(에 버튼)가 이름을 올리었다 .	O O O O O O O PER-B ORG-B O O O O PER-B ORG-B ORG-I PER-B PER-I O O O O
-서씨는 “회사 근처 오피스텔을 알아보니 월세가 60~70만원 이상 해 그냥 집에서 계속 살기로 +였다 .	PER-B O O O O O MNY-B O O O PER-B O O O O
-일동제약은 1941년 창립 이래 76년간 업력을 잇어 오+ㄴ국내 유명 제약회사이다 .	ORG-B O O O O O O O O O O
-1974년 축산학과를 졸업 하+ㄴ㈜ 현대자동차 백효흠 고문은 1000만원을 약정하고 5000만원의 발전기금을 별도로 출연하였다 .	O ORG-B O ORG-B ORG-I PER-B O MNY-B O MNY-B O O O O
-지나+ㄴ 시즌 잉글랜드 프리미어리그레스터시티 우승을 이끌 +ㄴ+라니에리 감독(25억원)보다 많다 .	O O ORG-B ORG-I O O PER-B MNY-B O O
+인천시 는 최근 김정은 북한 국방위원회 제 1 위원장 이 신년사 에서 남북 관계 개선 을 강조한 만큼 친선 경기 성사 가능성 을 높 게 보 고 있 다 .	ORG-B O O PER-B ORG-B ORG-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+1990 년 명량 대첩 을 기념하 는 기념 공원 이 조성되 면서 국민 관광지 가 됐 고 1992 년 전남 도 기념물 제 139 호 로 지정 됐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+고궁 앞 에서 포즈 를 취하 며 사진 을 찍 는 이 들 10 명 중 7 , 8 명 은 한복 차림 . 갓 이나 댕기 까지 갖춰 전통 한복 을 차려 입 은 사람 도 많 았 지만 짧 은 치마 나 긴 저고리 , 레이스 를 활용한 것 등 독특한 한복 을 입 은 이 들 도 눈 에 띄 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+평상시 그 는 3300 m ² ( 1000 평 ) 남짓한 밭 에 콩 을 키우 며 살 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O
+이번 대국 전 의 한국 은 인터넷 에서 AI 를 검색하 면 조류 독감 ( Avian influenza ) 이 먼저 뜨 는 촌 동네 였 다 .	O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+한편 지난 15 일 첼시 전 에서 1 골 1 도움 을 기록한 리야드 마 레즈 ( 레스터 시티 ) 가 전체 랭킹 1 위 를 , 이 어 제이미 바디 ( 레스터 시티 ) 와 로멜 루 루 카쿠 ( 에버튼 ) 가 이름 을 올 렸 다 .	O O DAT-B DAT-I O O O O O O O O O PER-B PER-I PER-I O ORG-B ORG-I O O O O O O O O O O PER-B PER-I O ORG-B ORG-I O O PER-B PER-I PER-I PER-I O ORG-B O O O O O O O O
+서 씨 는 “ 회사 근처 오피스텔 을 알아보 니 월세 가 60 ~ 70 만 원 이상 해 그냥 집 에서 계속 살 기 로 했 다 .	PER-B O O O O O O O O O O O MNY-B O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+일동제약 은 1941 년 창립 이래 76 년 간 업력 을 이 어 온 국내 유명 제약 회사 이 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+1974 년 축산 학과 를 졸업한 ㈜ 현대자동차 백효흠 고문 은 1000 만 원 을 약정하 고 5000 만 원 의 발전 기금 을 별도 로 출연 했 다 .	DAT-B DAT-I ORG-B ORG-I O O ORG-B ORG-I PER-B O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+지난 시즌 잉글랜드 프리미어 리그 레스터 시티 우승 을 이끈 라 니에리 감독 ( 25 억 원 ) 보다 많 다 .	O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O PER-B PER-I O O MNY-B MNY-I MNY-I O O O O O

@@ -1,8 +1,8 @@
-10일 현재 4185개의 반사 패널이 설치되었다 .	O O O O O O O
-울산 현대청운고등학교 편방송 말미에는 다음 이야기의 예고편이 공개가 되었다 .	ORG-B ORG-I O O O O O O O O
-'학교 다녀오겠습니다 .	O O O
-한편 KT는 이번 MWC에서 SK텔레콤은 물론 일본 NTT도코모, 미국 버라이즌 등 한미일 대표 통신사를 주축으로 5G 시범 서비스 규격연합(TSA)을 결성하기로 합의하였다 .	O ORG-B O ORG-B ORG-B O ORG-B ORG-I ORG-B ORG-I O ORG-B O O O ORG-B ORG-I ORG-I ORG-B O O O
-“‘하랑’이라는 작가를 알세요?” “처음 듣는 이름이 +ㄴ걸.” “샌드일러스트를 하는 사람이 +ㄴ데 혹시 버스에서 영상을 보+ㄴ 적 없어요?” 버스+이라는 얘기에 귀가 번쩍 뜨이었다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O
-모래를 흩뿌리고 손으로 쓱싹쓱싹하면 남산타워가 되고, 또 손이 +았다가 +았다 하면 남대문이 떡하니 나타나 +았다 .	O O O O LOC-B O O O O O O LOC-B O O O O
-마법 같던 그 손의 주인공이 “하랑’이라는 얘기+이었다 .	O O O O O PER-B O O
-취재차 그의 작업실을 방문하기 전에 ‘하랑’이라는 단어로 검색을 하+여보았다 .	O O O PER-B O PER-B O O PER-B O
+10 일 현재 4185 개 의 반사 패널 이 설치 됐 다 .	DAT-B DAT-I O O O O O O O O O O O
+울산 현대 청운 고등학교 편 방송 말미 에 는 다음 이야기 의 예고편 이 공개 가 되 었 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O
+' 학교 다녀오 겠 습니다 '	O O O O O O
+한편 KT 는 이번 MWC 에서 SK 텔레콤 은 물론 일본 NTT 도코모 , 미국 버라이즌 등 한미 일 대표 통신사 를 주축 으로 5 G 시범 서비스 규격 연합 ( TSA ) 을 결성 키 로 합의 했 다 .	O ORG-B O O ORG-B O ORG-B ORG-I O O ORG-B ORG-I ORG-I O ORG-B ORG-I O ORG-B ORG-I O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O
+“ ‘ 하 랑 ’ 이 라는 작가 를 아 세요 ? ” “ 처음 듣 는 이름 인걸 . ” “ 샌드 일러스트 를 하 는 사람 인데 혹시 버스 에서 영상 을 본 적 없 어요 ? ” 버스 라는 얘기 에 귀 가 번쩍 뜨 였 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+모래 를 흩뿌리 고 손 으로 쓱싹 쓱싹하 면 남산 타워 가 되 고 , 또 손 이 왔 다 갔 다 하 면 남대문 이 떡하니 나타났 다 .	O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O LOC-B O O O O O
+마법 같 던 그 손 의 주인공 이 “ 하 랑 ’ 이 라는 얘기 였 다 .	O O O O O O O O O PER-B PER-I O O O O O O O
+취재 차 그 의 작업실 을 방문하 기 전 에 ‘ 하 랑 ’ 이 라는 단어 로 검색 을 해 보 았 다 .	O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O

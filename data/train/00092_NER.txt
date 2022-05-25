@@ -1,16 +1,16 @@
-중앙에서 지역 갈등만 부추기 +ㄹ 것+이 아니라 이제 부산과 대구가 상생 하+ㄹ 방안을 마련하+ 여야 하+ㅂ니다 .	O O O O O O O O LOC-B LOC-B O O O O O O O
-식당 입구에서 멀지 않은 곳에는 작은 한국 상점이 있다 .	O O O O O O ORG-B O O O
-이 때문에 프리우스는 패밀리카+이라기보다는 운행이 많은 소수가 타는 차로 많이 쓰이었다 .	O O O O O O O O O O O O
-‘무한도전’ 광희 막내고 충토로… 윤태호 “자기 고민에 대하+ㄴ 디테일 없다 .	O PER-B O O PER-B O O O O O O
-최씨는 주인공과 비슷하+ㄴ 고민을 하는 청소년들을 향하+여 “그리 하+여도 집에 틀어박히 +어 있으면 안 되+ㄴ다 .	PER-B O O O O O O O O O O O O O O O
-정부는 곧 ‘이란 교역 및 투자지원센터’(가칭)를 설치하+여이란과 교역을 원하는 국내 기업을 지원 하+ㄹ 예정이다 .	O O ORG-B ORG-I ORG-I ORG-I ORG-B ORG-I O O O O O ORG-B O
-이란에 대하+ㄴ경제제재가 풀리기+ㄴ+였지만 주의 하+여야 하+ㄹ점도 있다 .	ORG-B O O O O O O O
-남녀 스트로크 1위에게는 150만원 상당의 아이언 세트, 남녀 스트로크2, 3위에게는 각각 타이틀리스트 915D2 드라이버와 스카티 카메론 퓨츄+이라X7퍼터를 증정하+ㄴ다 .	O O O MNY-B O O O O O O O O O O O O O O O
-아브라모피치는 한 독일 매체와의 인터뷰에서 "아이를 갖는 것이 예술 활동에 방해되+어 낙태를 3번 받았다"고 말하였다 .	PER-B O LOC-B O O O O O O O O O O O O O
-대사관 직접 주최 ‘뉴질랜드 교육박람회’ 서유학 정보 얻 .	O O O O O O O O O
-좌측폴을 살짝 비키+어가는 홈런성타구를 포함하+ 여두 차례 파울 홈런을 날리었다 .	O O O O O O O O O O O
-원유철 “비오+ ㄹ 때마다 우산빌리나” 핵무장 주장하였지만 현실성 낮 .	PER-B O O O O O O O O O
-유 총장은 “이를 가능하게 하는 우리 학교의 다양하+ㄴ 역량이 있으나 우리 학교가 예수회 신부님들이 설립하+ㄴ 예수회 소속 대학이라는 점을 이야기하고 싶다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-하지만 축구팬은 6억명에 이르+ㄴ다 .	O O O O O
-이날 경기에서 암스트롱은 29.7km를 44분 26초 42에 주파하며 자신의 말이 틀리지 않았음을 증명하였다 .	O O PER-B O O O O O O O O O O O
-김한철 기보 이사장은 “실패하였지만 우수하+ㄴ 기술력을 갖추+ㄴ성실 하+ㄴ 실패자들이 다시 일어서 +ㄹ 수 있도록 재기지원에 적극적으로 나서겠다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O
+중앙 에서 지역 갈등 만 부추길 게 아니 라 이제 부산 과 대구 가 상생할 방안 을 마련해야 합니다 .	O O O O O O O O O O LOC-B O LOC-B O O O O O O O
+식당 입구 에서 멀 지 않 은 곳 에 는 작 은 한국 상점 이 있 다 .	O O O O O O O O O O O O ORG-B O O O O O
+이 때문 에 프리 우스 는 패밀리 카 라기 보다 는 운행 이 많 은 소수 가 타 는 차 로 많이 쓰 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 무한도전 ’ 광희 막내 고충 토로 … 윤태호 “ 자기 고민 에 대한 디테일 없 다 ”	O O O PER-B O O O O PER-B O O O O O O O O O
+최 씨 는 주인공 과 비슷한 고민 을 하 는 청소년 들 을 향해 “ 그래도 집 에 틀어박혀 있 으면 안 된다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+정부 는 곧 ‘ 이 란 교역 및 투자 지원 센터 ’ ( 가칭 ) 를 설치해 이란 과 교역 을 원하 는 국내 기업 을 지원할 예정 이 다 .	O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O ORG-B O O O O O O O O O O O O O
+이란 에 대한 경제 제재 가 풀리 긴 했 지만 주의해야 할 점 도 있 다 .	ORG-B O O O O O O O O O O O O O O O O
+남녀 스트로크 1 위 에게 는 150 만 원 상당 의 아이언 세트 , 남녀 스트로크 2 , 3 위 에게 는 각각 타이틀 리스트 915 D 2 드라이버 와 스카티 카메론 퓨츄 라 X 7 퍼터 를 증정한다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아브라 모 피치 는 한 독일 매체 와 의 인터뷰 에서 " 아이 를 갖 는 것 이 예술 활동 에 방해돼 낙태 를 3 번 받 았 다 " 고 말 했 다 .	PER-B PER-I PER-I O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대사관 직접 주최 ‘ 뉴질랜드 교육 박람회 ’ 서 유학 정보 얻 자	O O O O O O O O O O O O O
+좌측 폴 을 살짝 비켜 가 는 홈런 성 타구 를 포함해 두 차례 파울 홈런 을 날 렸 다 .	O O O O O O O O O O O O O O O O O O O O O
+원유철 “ 비 올 때 마다 우산 빌리나 ” 핵무장 주장 했 지만 현실성 낮 아	PER-B O O O O O O O O O O O O O O O
+유 총장 은 “ 이 를 가능 케 하 는 우리 학교 의 다양한 역량 이 있 으나 우리 학교 가 예수회 신부 님 들 이 설립한 예수회 소속 대학 이 라는 점 을 이야기하 고 싶 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 축구 팬 은 6 억 명 에 이른다 .	O O O O O O O O O O
+이날 경기 에서 암스트롱 은 29.7 km 를 44 분 26 초 42 에 주파하 며 자신 의 말 이 틀리 지 않 았 음 을 증명 했 다 .	O O O PER-B O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O
+김한철 기보 이사장 은 “ 실패 했 지만 우수한 기술력 을 갖춘 성실한 실패자 들 이 다시 일어설 수 있 도록 재 기 지원 에 적극적 으로 나서 겠 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

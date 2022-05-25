@@ -1,15 +1,15 @@
-이번 앨범의 거의 모든 곡에 작곡자로 참여하+ 여자신의 음악적 감성을 담아내 +ㄴ 알리는 ‘화이트홀’을 통하+여 짙은 호소력과 마음을 울리는 감성 발라드를 전하+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O
-알리는 새 앨범 홍보에도 여념이 없다 .	PER-B O O O O O O
-조 의원은 연단에 오르 아 자신을 '박 대통령의 탄핵소추안을 막지 못하+ㄴ죄인'이라고 밝히+ㄴ 뒤 "뇌물죄와 블랙리스트는 탄핵 사유가 되+ㄹ 수 없다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O O
-앞서 +어 이날 스포츠동아는 20일 가요 관계자의 말을 인용하+여 JYP 엔터테인먼트에서 한솥밥을 먹었던 예은과 정진운이 3년째 열애 중이라고 단독 보도하였다 .	O O O ORG-B O O O O O ORG-B ORG-I O O PER-B PER-B O O O O O O
-예은은 2007년 원더걸스로 데뷔하였으며, 2014년 핫펠트란 예명으로 솔로 가수 활동도 시작하였다 .	PER-B O ORG-B O O PER-B PER-B O O O O O
-역도 원정식(26), 윤진희(31) 부부는 이번 대회 유일하+ㄴ 부부 참가자로 선수단에 이름을 올리었다 .	O PER-B PER-B O O O O O O O O O O
-이는 2012∼2016년 저소득 계층 학생수학여행 지원비 18만5000원에 비하+여 104%, 수련활동 지원비 8만6000원에 비하+여46% 인상 되+ㄴ 금액이다 .	O O O O O O MNY-B O O O O MNY-B O O O O O
-[경북정신]국학연구대 중화의 요 .	O O O O
-온라인 중앙일보 ‘봄꽃 개화시기’[사진 기상청·네이버 캡처 .	O O O O ORG-B O O
-[2017 국가브랜드 대상] 5가지 자연유래 솔루션으로 신생아도 안전하 .	O O O O O O O O O
-제일모직 물류창고 화재 방화추정 … 사람 잃은 비 .	ORG-B O O O O O O O O
-2면(사진)은 아프리카 9개국 정상과 찍은 사진 9장으로 1개 면을 거의 다 메우었다 .	O LOC-B O O O O O O O O O O O
-박 대통령은 이전에도 명절이면 경호담당 직원 등 최소 인력을 대동하+ㄴ 채성묘를 하+여+오았다 .	PER-B O O O O O O O O O O O O
-‘찬밥’ 대접받던 푸틴, 외교 무대 파워맨으 .	O O PER-B O O O O
-요르단의 공습은 요르단 국왕이 IS에 대하+ㄴ ‘가차 없는 전쟁’을 선포하+ㄴ 지 하루 만에 이루어 지+ㄴ 것이다 .	ORG-B O ORG-B O ORG-B O O O O O O O O O O O O
+이번 앨범 의 거의 모든 곡 에 작곡자 로 참여해 자신 의 음악적 감성 을 담아낸 알리 는 ‘ 화이트 홀 ’ 을 통해 짙 은 호소력 과 마음 을 울리 는 감성 발라드 를 전할 것 으로 보인다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+알리 는 새 앨범 홍보 에 도 여념 이 없 다 .	PER-B O O O O O O O O O O O
+조 의원 은 연단 에 올 라 자신 을 ' 박 대통령 의 탄핵 소추 안 을 막 지 못한 죄인 ' 이라고 밝힌 뒤 " 뇌물죄 와 블랙리스트 는 탄핵 사유 가 될 수 없 다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 이날 스포츠 동아 는 20 일 가요 관계자 의 말 을 인용해 JYP 엔터테인먼트 에서 한솥밥 을 먹 었 던 예 은 과 정진운 이 3 년 째 열애 중 이 라고 단독 보도 했 다 .	O O ORG-B ORG-I O DAT-B DAT-I O O O O O O ORG-B ORG-I O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O
+예 은은 2007 년 원더 걸스 로 데뷔 했 으며 , 2014 년 핫펠트 란 예명 으로 솔로 가수 활동 도 시작 했 다 .	PER-B O DAT-B DAT-I ORG-B ORG-I O O O O O DAT-B DAT-I PER-B O O O O O O O O O O O
+역도 원정식 ( 26 ) , 윤진희 ( 31 ) 부부 는 이번 대회 유일한 부부 참가자 로 선수단 에 이름 을 올 렸 다 .	O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O
+이 는 2012 ∼ 2016 년 저소득 계층 학생 수학여행 지원 비 18 만 5000 원 에 비해 104 % , 수련 활동 지원 비 8 만 6000 원 에 비해 46 % 인상된 금액 이 다 .	O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O
+[ 경북 정신 ] 국학 연구 대중화 의 요람	O O O O O O O O O
+온라인 중앙일보 ‘ 봄꽃 개화 시기 ’ [ 사진 기상청 · 네이버 캡처 ]	O O O O O O O O O ORG-B O ORG-B O O
+[ 2017 국가 브랜드 대상 ] 5 가지 자연 유래 솔루션 으로 신생아 도 안전하 게	O O O O O O O O O O O O O O O O
+제일모직 물류 창고 화재 방화 추정 … 사람 잃 은 비극	ORG-B O O O O O O O O O O
+2 면 ( 사진 ) 은 아프리카 9 개국 정상 과 찍 은 사진 9 장 으로 1 개 면 을 거의 다 메 웠 다 .	O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+박 대통령 은 이전 에 도 명절 이 면 경호 담당 직원 등 최소 인력 을 대동한 채 성묘 를 해 왔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+‘ 찬밥 ’ 대접받 던 푸틴 , 외교 무대 파워맨 으로	O O O O O PER-B O O O O O
+요르단 의 공습 은 요르단 국왕 이 IS 에 대한 ‘ 가차 없 는 전쟁 ’ 을 선포한 지 하루 만 에 이루어진 것 이 다 .	LOC-B O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O

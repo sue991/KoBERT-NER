@@ -1,12 +1,12 @@
-납품 규모는 15억원 상당으로 약 50만 벌을 제작하+ㄹ 수 있는 분량이다 .	O O MNY-B O O O O O O O O O
-한화탈레스의 주력 제품으로 레이더를 빼놓을 수 없다 .	ORG-B O O O O O O O
-국립극장 새 시즌 작품 공개… 신작부터 우수작까지 화려하+ㄴ 라인 .	ORG-B O O O O O O O O O
-현대차, 테이트 모던에서 ‘현대커미션 2015’ 개 .	ORG-B LOC-B LOC-I O O O O
-정성택 neone@donga. com/울릉=장영훈기자·국방부 공동취재 .	PER-B O LOC-B O O
-국어새 유형에 지문 길어 변별력 … 전체 난이도는 6월 모평과 비 .	O O O O O O O O O O O O
-이 소식을 접하+ㄴ네티즌들은 "조혜정 귀엽다 .	O O O PER-B O O
-SM스테이션, 레드벨벳 ‘Wou ldU’ 공개… 아이린·김민재 뮤비서 ‘풋풋’ 케 .	ORG-B ORG-B O O O PER-B O O O O
-③ 3단계-60가지 동물 캐릭터표를 보고 나의 캐릭터를 확인 하+ㄴ다 .	O O O O O O O O O O
-차기 호위함은 현재 동·서·남해에서 운용 중 이+ㄴ호위 하+ㅁ과 초계함의 후속 전력으로 2020년까지 총 20여 척이 건조되+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O O O
-오후에는 중국의 최대 포털이+ㄴ바이두(百度)를 방문하+여 바이보(白伯) 부사장 등을 만나 +았다 .	O ORG-B O ORG-B O PER-B O O O O O
-평양에서 아파트가 고층이 +ㄹ수록 가격이 떨어지고 20층 이상이 되면 입주하지 않으려 하는 현상이 나타나는 가장 크+ㄴ 원인도 바로 수돗물 때문이다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
+납품 규모 는 15 억 원 상당 으로 약 50 만 벌 을 제작할 수 있 는 분량 이 다 .	O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+한화 탈레스 의 주력 제품 으로 레이더 를 빼놓 을 수 없 다 .	ORG-B ORG-I O O O O O O O O O O O O
+국립 극장 새 시즌 작품 공개 … 신작 부터 우수 작 까지 화려한 라인업	ORG-B ORG-I O O O O O O O O O O O O
+현대차 , 테이트 모던 에서 ‘ 현대 커미션 2015 ’ 개최	ORG-B O LOC-B LOC-I O O O O DAT-B O O
+정성택 neone @ donga . com / 울릉 = 장영훈 기자 · 국방부 공동 취재 단	PER-B O O O O O O LOC-B O PER-B O O ORG-B O O O
+국어 새 유형 에 지문 길 어 변별력 … 전체 난이도 는 6 월모평 과 비슷	O O O O O O O O O O O O DAT-B O O O
+이 소식 을 접한 네티즌 들 은 " 조혜정 귀엽 다 "	O O O O O O O O PER-B O O O
+SM 스테이션 , 레드 벨벳 ‘ Would U ’ 공개 … 아이린 · 김민재 뮤 비서 ‘ 풋풋 ’ 케미	ORG-B ORG-I O ORG-B ORG-I O O O O O O PER-B O PER-B O O O O O O
+③ 3 단계 - 60 가지 동물 캐릭터 표 를 보 고 나 의 캐릭터 를 확인한다 .	O O O O O O O O O O O O O O O O O O
+차기 호위함 은 현재 동 · 서 · 남해 에서 운용 중 인 호위함 과 초계함 의 후속 전력 으로 2020 년 까지 총 20 여 척 이 건조될 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+오후 에 는 중국 의 최대 포털 인 바이두 ( 百度 ) 를 방문해 바이 보 ( 白伯 ) 부사장 등 을 만났 다 .	O O O ORG-B O O O O ORG-B O ORG-B O O O PER-B PER-I O PER-B O O O O O O O
+평양 에서 아파트 가 고 층 일수록 가격 이 떨어지 고 20 층 이상 이 되 면 입주하 지 않 으려 하 는 현상 이 나타나 는 가장 큰 원인 도 바로 수돗물 때문 이 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

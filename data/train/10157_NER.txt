@@ -1,7 +1,7 @@
-(’08년 43.5% →’ 14년 48.4%, ‘08년 대비 4.9%p 증가) 금연, 저위험 음주, 걷기 3가지 모두를 실천하는 국민은 3명 중 1명에 불과하+ㄴ 것으로 조사되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-우중 월 1점 홈런을 얻어맞았다 .	O O O O O O
-다음카카오에서 운영하는 모바일 금융서비스 이+ㄴ ‘뱅크월렛카카오’의 충전한 도가 다음 달 중 50만원에서 200만원으로 늘어나 +ㄴ다 .	ORG-B O O O O O O O O O O MNY-B MNY-B O O O
-이날 과학논술 강의를 하+ㄴ 최강사는 “막상 학생들을 가르치+어보니 이해도가 높고 열의가 있다”며 “부모가 시키+어서가 아니라 학생 스스로 찾아오아서 그런 것 같다”고 말하였다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
-해외에 나가 +아서도 매일 아침 박 대통령의 간단하+ㄴ스트레칭과 체조는 이어 지+ㄴ다 .	O O O O O PER-B O O O O O O
-일본 언론은 신 전 부회장 해임의 또한 원인으로 신 총괄회장과의 불화 가능성을 제기하였다 .	ORG-B O PER-B O O O O O PER-B O O O O O
-박희순 박예진과 혼인신고, 지인들과 함께 ‘언약식’ 올리+어배우 박희순과 박예진의 혼인신고 소식이 뒤늦게 전하여 +지+었다 .	PER-B PER-B O O O O O PER-B PER-B O O O O O O
+( ’ 08 년 43.5 % → ’ 14 년 48.4 % , ‘ 08 년 대비 4.9 % p 증가 ) 금연 , 저 위험 음주 , 걷 기 3 가지 모두 를 실천하 는 국민 은 3 명 중 1 명 에 불과한 것 으로 조사 됐 다 .	O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우중월 1 점 홈런 을 얻어맞 았 다 .	O O O O O O O O O
+다음카카오 에서 운영하 는 모바일 금융 서비스 인 ‘ 뱅크 월 렛 카카오 ’ 의 충전 한도 가 다음 달 중 50 만 원 에서 200 만 원 으로 늘어난다 .	ORG-B O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O
+이날 과학 논술 강의 를 한 최 강사 는 “ 막상 학생 들 을 가르쳐 보 니 이해도 가 높 고 열의 가 있 다 ” 며 “ 부모 가 시켜서 가 아니 라 학생 스스로 찾아 와서 그런 것 같 다 ” 고 말 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+해외 에 나가서 도 매일 아침 박 대통령 의 간단한 스트레칭 과 체조 는 이어진다 .	O O O O O O PER-B O O O O O O O O O
+일본 언론 은 신 전 부회장 해임 의 또 한 원인 으로 신 총괄 회장 과 의 불화 가능성 을 제기 했 다 .	ORG-B O O PER-B O O O O O O O O PER-B O O O O O O O O O O O
+박희순 박예진 과 혼인 신고 , 지인 들 과 함께 ‘ 언약 식 ’ 올려 배우 박희순 과 박예진 의 혼인 신고 소식 이 뒤늦 게 전해 졌 다 .	PER-B PER-B O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O

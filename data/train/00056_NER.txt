@@ -1,16 +1,16 @@
-용량은 18% 늘리었지만 가격은 기존 캔 제품과 같다 .	O O O O O O O O O
-“급성 요통에 진통주사 제보다 5배 빠르+ㄴ 효과 “동작침법이 현재(34·서울 송파구)씨는 2년 전 허리디스크 진단을 받았다 .	O O O O O O O O LOC-B LOC-I O O O O O O
-완데라 목사는 “매년 전 세계에서 2만5000명의 어린이가 예방 가능 하+ㄴ 원인들로 죽어가고 있다”며 “전쟁과 가 난으로 고통받는 어린이들을 대신 하+여 한국 후원자들에게 감사의 인사를 드리고 싶다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-쇼박스 화이브라더스와 파트너십 체결 …中서 3년간 6편 이상한 중 합작영화 제작 계획 쇼박스가 중국 화이브라더스와 파트너십 계약을 체결하며 중국 진출을 선언하였다 .	ORG-B ORG-I O O LOC-B O O O O O O O ORG-B LOC-B ORG-I O O O LOC-B O O O
-쇼박스는 “화이브라더 스미디어 주식유한공사(화이브라더스)와 25일 독점 파트너십 계약을 체결하였다”며 “향후 중국 법인 쇼박스 차이나를 설립하+여 3년간 6편 이상의 한중 합작 영화를 제작하+여 13억 중국인에게 선보이+ㄹ 예정”이라고 26일 발표하였다 .	ORG-B ORG-B ORG-I ORG-B O O O O O O LOC-B O ORG-B ORG-I O O O O ORG-B O O O O LOC-B O O O O O
-중국 영화 시장은 지나 +ㄴ 5년간 연평균 30%에 달하는 높은 성장세를 지속하는 데 반하+여 콘텐츠가 부족하고, 한국 영화시장은 이미 3년 연속 관객 2억명 시대를 맞이하며 포화상태에 이르어 새롭ㄴ 돌파구를 찾는 시점이다 .	ORG-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
-19일 서울 강남구 영동대로 코엑스에서 열리+ㄴ KOTRA 2016 글로벌 취업상담회.이 날 전 세계에서 모이+ㄴ 121개 기업이 한국 인재들을 대상으로 면접을 진행하고 있었다 .	O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O LOC-B O O O O O O
-IS, 러시아 판 페이스북 ‘브 콘탁테’ 주로 활 .	ORG-B O O O O O O O O
-이런 고민을 해결하+여주+ㄹ ‘2016동아어린이기자단주말캠프’가 열리+ㅂ니다 .	O O O O O O
-수년 전 글로벌 투자은행(IB) 골드만삭스는 한국의 1인당 소득이 세계 2위, 경제규모는 세계 8위까지 올라가 +ㄹ 것이란 장밋빛 전망을 내놓은 적이 있습니다 .	O O ORG-B ORG-B ORG-B LOC-B O O O O O O O O O O O O O O O O
-16일 오후 서울 동작구 보라매공원에서 열리+ㄴ국민안전처 주최 ‘제3회 국민안전의 날 해양안전체험전’에 참여하+ㄴ어린이들이 구명환 던지기에 열중하고 있다 .	O O LOC-B LOC-B LOC-B ORG-B O O ORG-B O O O O O O O O
-데이는 아널드 파머인 비테이셔널 에잇어 WGC 데+ㄹ매치 플레이 챔피언십 연속 우승을 차지하였고, 마스터스에서는 공동 10위에 오르았다 .	PER-B O O O O ORG-B O O O O O O O O O O O
-반면 은평뉴타운 1-15 블록에서 1월에 분양 하+ㄴ ‘은평지웰테라스’는 쇼핑시설과 지하철역이 다소 멀어 청약 당시 5.42대 1로 2순위에서 마감하였다 .	O LOC-B LOC-I LOC-I LOC-I O O LOC-B O O O O O O O O O O O
-이달 분양을 앞두 +ㄴ ‘성복역 KCC 스위첸’이 들어서 +어는 수지 구성복동은 모든 생활 인프라를 갖추+ㄴ 지역으로 꼽히+ㄴ다 .	O O O O LOC-B LOC-I LOC-I O O O LOC-B O O O O O O O
-‘BUY 대구, ENJOY 대구’… 5월의 축제 열기 속으 .	O O O O O O O O O
-박하선, “할아버지가 대령으로 예편 하+시었다 .	PER-B O O O O O
+용량 은 18 % 늘 렸 지만 가격 은 기존 캔 제품 과 같 다 .	O O O O O O O O O O O O O O O O
+“ 급성 요통 에 진통 주사 제 보다 5 배 빠른 효과 “ 동작 침법 이현재 ( 34 · 서울 송파구 ) 씨 는 2 년 전 허리 디스크 진단 을 받 았 다 .	O O O O O O O O O O O O O O O PER-B O O O LOC-B LOC-I O O O O O O O O O O O O O O
+완 데라 목사 는 “ 매년 전 세계 에서 2 만 5000 명 의 어린이 가 예방 가능한 원인 들 로 죽 어 가 고 있 다 ” 며 “ 전쟁 과 가난 으로 고통 받 는 어린이 들 을 대신해 한국 후원자 들 에게 감사 의 인사 를 드리 고 싶 다 ” 고 말 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+쇼 박스 화이 브라더스 와 파트너십 체결 … 中 서 3 년 간 6 편 이상 한중 합작 영화 제작 계획 쇼 박스 가 중국 화이 브라더스 와 파트너십 계약 을 체결하 며 중국 진출 을 선언 했 다 .	ORG-B ORG-I ORG-I ORG-I O O O O LOC-B O O O O O O O ORG-B O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O O O LOC-B O O O O O O
+쇼 박스 는 “ 화이 브라더스 미디어 주식 유한 공사 ( 화이 브라더스 ) 와 25 일 독점 파트너십 계약 을 체결 했 다 ” 며 “ 향후 중국 법인 쇼 박스 차 이나 를 설립해 3 년 간 6 편 이상 의 한중 합작 영화 를 제작해 13 억 중국인 에게 선보일 예정 ” 이라고 26 일 발표 했 다 .	ORG-B ORG-I O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O LOC-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O O
+중국 영화 시장 은 지난 5 년 간 연평균 30 % 에 달하 는 높 은 성장세 를 지속하 는 데 반해 콘텐츠 가 부족하 고 , 한국 영화 시장 은 이미 3 년 연속 관객 2 억 명 시대 를 맞이하 며 포화 상태 에 이르 러 새로 운 돌파구 를 찾 는 시점 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+19 일 서울 강남구 영동대로 코엑스 에서 열린 KOTRA 2016 글로벌 취업 상담 회 . 이날 전 세계 에서 모인 121 개 기업 이 한국 인재 들 을 대상 으로 면접 을 진행하 고 있 었 다 .	DAT-B DAT-I LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+IS , 러시아 판 페이스북 ‘ 브콘탁테 ’ 주로 활용	ORG-B O O O O O O O O O
+이런 고민 을 해결해 줄 ‘ 2016 동아 어린이 기자단 주말 캠프 ’ 가 열립니다 .	O O O O O O O O O O O O O O O O
+수년 전 글로벌 투자은행 ( IB ) 골드만삭스 는 한국 의 1 인 당 소득 이 세계 2 위 , 경제 규모 는 세계 8 위 까지 올라갈 것 이 란 장밋빛 전망 을 내놓 은 적 이 있 습니다 .	O O ORG-B ORG-I O ORG-B O ORG-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+16 일 오후 서울 동작구 보라매 공원 에서 열린 국민 안전 처 주최 ‘ 제 3 회 국민 안전 의 날 해양 안전 체험 전 ’ 에 참여한 어린이 들 이 구명환 던지 기 에 열중하 고 있 다 .	DAT-B DAT-I O LOC-B LOC-B LOC-B LOC-I O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+데이 는 아널드 파머 인비테이셔널 에 이 어 WGC 델 매치플레이 챔피언십 연속 우승 을 차지 했 고 , 마스터스 에서 는 공동 10 위 에 올 랐 다 .	PER-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+반면 은평 뉴 타운 1 - 15 블록 에서 1 월 에 분양한 ‘ 은평 지 웰 테라스 ’ 는 쇼핑 시설 과 지하철역 이 다소 멀 어 청약 당시 5.42 대 1 로 2 순위 에서 마감 했 다 .	O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O DAT-B DAT-I O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+이달 분양 을 앞둔 ‘ 성복역 KCC 스위첸 ’ 이 들어서 는 수지구 성복동 은 모든 생활 인프라 를 갖춘 지역 으로 꼽힌다 .	O O O O O LOC-B LOC-I LOC-I O O O O LOC-B LOC-B O O O O O O O O O O
+‘ BUY 대구 , ENJOY 대구 ’ … 5 월 의 축제 열기 속 으로	O O O O O O O O DAT-B DAT-I O O O O O
+박하선 , “ 할아버지 가 대령 으로 예편하 셨 다 ”	PER-B O O O O O O O O O O

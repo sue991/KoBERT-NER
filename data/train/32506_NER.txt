@@ -1,11 +1,11 @@
-200m 동남쪽에 부인이+ㄴ암나무도 있었으나 안타깝게도 아파트를 짓으면서 잘리+어나가았다고 하+ㄴ다 .	O O O O O O O O O O
-자타공인 KBS ‘간판 아나운서’로 평가받고 있어서 +이었다 .	O ORG-B O O O O O O
-택시 김새롬, 이찬오 셰프와 달달 애정 표현…이영자 “어디서 19금이야” 버럭 ‘택시’에 출연하+ㄴ 김새롬, 이찬오 부부가 달달 하+ㄴ 애정표현으로 눈길을 사로잡았다 .	O PER-B PER-B O O O PER-B O O O O O PER-B PER-B O O O O O O O
-지나+ㄴ 18일 방송되+ㄴtvN ‘현장토크쇼 택시’에는 ‘로맨틱 택시 특집’으로 연애 4개월 만에 결혼하+ㄴ 김새롬, 이찬오 부부가 출연하였다 .	O O ORG-B O O O O O O O O O PER-B PER-B O O O
-이날 방송에서 두 사람은 결혼을 둘러싸 +ㄴ 의혹에 대하+여 해명하였다 .	O O O O O O O O O O O
-‘슈퍼스타K7’ 디아프램튼무대…자이언티“아이러브유”고 .	O PER-B O
-현재 공식적으로 신원이 밝혀지+ㄴ 테러범은 바타클랑 극장에서 자폭해 사망 하+ㄴ 오마르 이스마일모스테파이(29)와 알+ㄴ데슬람 형제, 이날 공개되+ㄴ 사미아 미무르 등 4명이다 .	O O O O O LOC-B LOC-I O O O PER-B PER-I PER-B O O O PER-B PER-I O O O
-금요일이+ㄴ 10일 서울이 영하 9도까지 떨어지는 등 강추위가 몰려오고 충청, 전라, 제주 등에 눈이 내리+ㄹ 전망이다 .	O O LOC-B O O O O O O LOC-B LOC-B LOC-B O O O O O
-강희은 서울시 대기관리과장은 “자동차 업체가 더 많은 전기차를 생산하+여단가를 낮추기+ㄹ기대하고 있다”며 “단가 인하가 이루어지지 않는다면 더 좋은 성능과 조건의 해외 브랜드를 선택하+ㄹ 수도 있다”고 설명하였다 .	PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
-삼성생명은 통합자산분석시스템 오픈에 맞추+어대대적 이+ㄴ ‘전 국민자산진단 캠페인’을 전개하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O
-화이트 스완이특, 성형외과 상담하였다가 돌아오+ㄴ이유는 .	O PER-B O O O O
+200 m 동남쪽 에 부인 인 암나무 도 있 었 으나 안타깝 게 도 아파트 를 지 으면서 잘려 나 갔 다고 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+자타 공인 KBS ‘ 간판 아나운서 ’ 로 평가 받 고 있 어서 였 다 .	O O ORG-B O O O O O O O O O O O O O
+택시 김새롬 , 이찬오 셰프 와 달달 애정 표현 … 이영자 “ 어디 서 19 금 이 야 ” 버럭 ‘ 택시 ’ 에 출연한 김새롬 , 이찬오 부부 가 달달한 애정 표현 으로 눈길 을 사로잡 았 다 .	O PER-B O PER-B O O O O O O PER-B O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O
+지난 18 일 방송된 tvN ‘ 현장 토크쇼 택시 ’ 에 는 ‘ 로맨틱 택시 특집 ’ 으로 연애 4 개월 만 에 결혼한 김새롬 , 이찬오 부부 가 출연 했 다 .	O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O
+이날 방송 에서 두 사람 은 결혼 을 둘러싼 의혹 에 대해 해명 했 다 .	O O O O O O O O O O O O O O O O
+‘ 슈퍼스타 K 7 ’ 디아 프램튼 무대 … 자이언티 “ 아이 러브 유 ” 고백	O O O O O PER-B PER-I O O PER-B O O O O O O
+현재 공식적 으로 신원 이 밝혀진 테러 범 은 바타 클 랑 극장 에서 자폭 해 사망한 오마르 이스마일 모스 테파 이 ( 29 ) 와 압데 슬 람 형제 , 이날 공개된 사미 아미 무르 등 4 명 이 다 .	O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O O PER-B PER-I PER-I PER-I PER-I O O O O PER-B PER-I PER-I O O O O PER-B PER-I PER-I O O O O O O
+금요일 인 10 일 서울 이 영하 9 도 까지 떨어지 는 등 강추위 가 몰려오 고 충청 , 전라 , 제주 등 에 눈 이 내릴 전망 이 다 .	DAT-B O DAT-B DAT-I LOC-B O O O O O O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O O O O
+강희은 서울시 대기 관리 과장 은 “ 자동차 업체 가 더 많 은 전기 차 를 생산해 단가 를 낮추 길 기대하 고 있 다 ” 며 “ 단가 인하 가 이뤄지 지 않 는다면 더 좋 은 성능 과 조건 의 해외 브랜드 를 선택할 수 도 있 다 ” 고 설명 했 다 .	PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성생명 은 통합 자산 분석 시스템 오픈 에 맞춰 대대적 인 ‘ 전 국민 자산 진단 캠페인 ’ 을 전개할 예정 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+화이트 스완 이특 , 성형외과 상담 했 다가 돌아온 이유 는 ?	O O PER-B O O O O O O O O O

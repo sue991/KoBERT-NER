@@ -1,16 +1,16 @@
-경찰 관계자는 “일부에서는 장난으로 글을 올리었다는 내용이 나오기도 +였는데 아직 단정 하+ㄹ 수 있는 내용이 나 오+ㄴ 것은 없다“며 ”최씨가 박사모 인터넷 커뮤니티의 회원이 +ㄴ 것은 맞지만 실제 박사모에서 활동 하+여+오았는지에 대하+여서는 확인 하+여야 하+ㄴ다“고 밝히었다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
-경찰은 최씨의 범죄 사실과 관련되 +ㄴ자료를 수집·분석하는 한편 범행 동기, 실제 살해 등의 실행 가능성, 공범 관계 등을 수사하+ㄴ 뒤 추가 소환 하+ㄹ 예정이다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-KBL 이사회는 경기력 향상을 위하+여올 시즌 PO 경기 일정을 주말과 TV 중계 등과 상관없이 모두 이틀 간격으로 치르기로 결정하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-‘진짜 사나이’이시영의 남다르+ㄴ 체력에 박재정이 감탄하였다 .	O PER-B O O PER-B O O
-지나+ㄴ 2일 방송되+ㄴ MBC 예능 프로그램 ‘진짜 사나이’ 멤버들은 문무대왕 하+ㅁ에서 모의훈련에 임하는 모습을 보이었다 .	O O O ORG-B O O O O O O O O O O O O
-아내가 잠이 들+ㄴ 사이의 붓딸을 데리고 호텔 밖 수영장으로 향하+ㄴ그는 수영을 전혀 하+ㄹ줄 모르는 세 살배기를 계속 수영장에 던지었다 .	O O O O O O O O O O O O O O O O O O O O
-정라면은 이달 말부터 양재점과 창동점 등 서울지역의 하나로마트 매장에 도 입고 되+ㄹ 예정이어서 판매량은 더 늘어나 +ㄹ 것으로 전망되+ㄴ다 .	ORG-B O O LOC-B LOC-B O LOC-B O O O O O O O O O O O O O
-2010년 광저우 아시아경기에서 동메달을 따+ㄴ 뒤 손연재는 ‘바다의 왕자’ 박태환과 함께 에어컨 광고 모델로 발탁되었다 .	O O O O O O PER-B PER-B PER-I PER-B O O O O O O
-한편 ‘구르미 그리+ㄴ 달빛’은 츤데레왕세자이영, 사랑스럽ㄴ 위장내시홍 라온(김유정), 마성의 꽃 선비 김윤성(진영), 조선판 헤라 조하연(채수빈), 비밀병기 김병연(곽동연) 등 역사가 기록하지 못하+ㄴ 조선시대 청춘들의 성장스토리를 다루+ㄹ 예측 불가 궁중위장 로맨스다 .	O O O O PER-B O PER-B PER-B O O O PER-B O O PER-B O PER-B O O O O O O O O O O O O O
-노씨는 지난해 8월, 최씨의 독일 회사 이+ㄴ 코레스포츠와 삼성전자 간 186억원대 매니지먼트 계약을 맡은 바 있다 .	PER-B O O PER-B ORG-B O O ORG-B ORG-B O MNY-B O O O O O O
-이날 양파는 리허설 도중 “너무 힘들어. 눈물나. 너무 아프어”+이라며 힘들어 하+였다 .	O PER-B O O O O O O O O O O
-남다르+ㄴ ‘손재주’로 장어 한 마리를 단 7초 만에 손질하는 그는 상냥하+ㅁ과 친근하+ㅁ으로 단골을 끌어모으기 시작하+ㄴ다 .	O O O O O O O O O O O O O O O O
-국립생태원은 지난해 11월에는 환경운동가이자 침팬 지 연구가 이+ㄴ제인구달 박사의 이름을 따+ㄴ ‘제인구달길’(1km 구간)을 만들 +ㄴ바 있다 .	ORG-B O O O O O O LOC-B O O O LOC-B O O O O O
-요식업종에서 법인카드의 결제 건당 이용금액은 법 시행 전 평균 5만5994원에서 5만1891원으로 7.3%나 감소하였다 .	O O O O O O O O O MNY-B MNY-B O O O
-홍종현·유라커플도 하차하기로 +였다 .	PER-B O O O
-지상 4층에는 올리브영 등 편의시설이, 지상 5층에는 커피전문점, 지상 6층과 7층에는 음식점이 있다 .	O O ORG-B O O O O O O O O O O O
+경찰 관계자 는 “ 일부 에서 는 장난 으로 글 을 올 렸 다는 내용 이 나오 기 도 했 는데 아직 단정할 수 있 는 내용 이 나온 것 은 없 다 “ 며 ” 최 씨 가 박사모 인터넷 커뮤니티 의 회원 인 것 은 맞 지만 실제 박사모 에서 활동해 왔 는지 에 대해서 는 확인해야 한다 “ 고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 은 최 씨 의 범죄 사실 과 관련된 자료 를 수집 · 분석하 는 한편 범행 동기 , 실제 살해 등 의 실행 가능성 , 공범 관계 등 을 수사한 뒤 추가 소환할 예정 이 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KBL 이사회 는 경기력 향상 을 위해 올 시즌 PO 경기 일정 을 주말 과 TV 중계 등 과 상관없이 모두 이틀 간격 으로 치르 기 로 결정 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 진짜 사나이 ’ 이시영 의 남다른 체력 에 박재정 이 감탄 했 다 .	O O O O PER-B O O O O PER-B O O O O O
+지난 2 일 방송된 MBC 예능 프로그램 ‘ 진짜 사나이 ’ 멤버 들 은 문무대왕 함 에서 모의 훈련 에 임하 는 모습 을 보 였 다 .	O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+아내 가 잠 이 든 사이 의붓딸 을 데리 고 호텔 밖 수영장 으로 향한 그 는 수영 을 전혀 할 줄 모르 는 세 살 배기 를 계속 수영장 에 던 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정라면 은 이달 말 부터 양재점 과 창동 점 등 서울 지역 의 하나로마트 매장 에 도 입고될 예정 이 어서 판매량 은 더 늘어날 것 으로 전망된다 .	ORG-B O O O O LOC-B O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O
+2010 년 광저우 아시아 경기 에서 동메달 을 딴 뒤 손연재 는 ‘ 바다 의 왕자 ’ 박태환 과 함께 에어컨 광고 모델 로 발탁 됐 다 .	DAT-B DAT-I O O O O O O O O PER-B O O PER-B PER-I PER-I O PER-B O O O O O O O O O O
+한편 ‘ 구르 미 그린 달빛 ’ 은 츤데레 왕세자 이영 , 사랑스러 운 위장 내 시 홍 라온 ( 김유정 ) , 마성 의 꽃 선비 김윤성 ( 진영 ) , 조선 판 헤라 조하연 ( 채수빈 ) , 비밀 병기 김병연 ( 곽동연 ) 등 역사 가 기록하 지 못한 조선 시대 청춘 들 의 성장 스토리 를 다룰 예측 불가 궁중 위장 로맨스 다 .	O O O O O O O O O O PER-B O O O O O O PER-B PER-I O PER-B O O O O O O PER-B O PER-B O O O O O PER-B O PER-B O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+노 씨 는 지난해 8 월 , 최 씨 의 독일 회사 인 코레 스포츠 와 삼성전자 간 186 억 원 대 매니지먼트 계약 을 맡 은 바 있 다 .	PER-B O O O DAT-B DAT-I O PER-B O O ORG-B O O ORG-B ORG-I O ORG-B O MNY-B MNY-I MNY-I O O O O O O O O O O
+이날 양파 는 리허설 도중 “ 너무 힘들 어 . 눈물 나 . 너무 아 퍼 ” 라며 힘들 어 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O
+남다른 ‘ 손재주 ’ 로 장어 한 마리 를 단 7 초 만 에 손질하 는 그 는 상냥함 과 친근함 으로 단골 을 끌 어 모으 기 시작한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국립 생태 원 은 지난해 11 월 에 는 환경 운동가 이 자 침팬지 연구가 인 제인 구달 박사 의 이름 을 딴 ‘ 제인구달 길 ’ ( 1 km 구간 ) 을 만든 바 있 다 .	ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O PER-B PER-I O O O O O O LOC-B LOC-I O O O O O O O O O O O O
+요식 업종 에서 법인 카드 의 결제 건 당 이용 금액 은 법 시행 전 평균 5 만 5994 원 에서 5 만 1891 원 으로 7.3 % 나 감소 했 다 .	O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I O O O O O O O O
+홍종현 · 유라 커플 도 하차하 기 로 했 다 .	PER-B O PER-B O O O O O O O O
+지상 4 층 에 는 올리브 영 등 편의 시설 이 , 지상 5 층 에 는 커피 전문점 , 지상 6 층 과 7 층 에 는 음식점 이 있 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O

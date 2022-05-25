@@ -1,11 +1,11 @@
-최근 한국갤럽은 2013년 2월부터 12월까지 전국 만 19세 이상 남녀 1만2, 959명을 대상으로 ‘한국인의 생활시간(기상, 취침, 수면시간)’에 대하+여조사 하+ㄴ 결과를 발표하였다 .	O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O
-그러나 승부를 결정짓는 불펜진에서는 피츠버그가 월등하다 .	O O O O ORG-B O O
-고씨는 지난해 9월 자신의 집에서 형과의 다툼을 말리던 어머니 A씨를 밀어 넘어뜨리는 등 폭행 하+여 숨지게 하+ㄴ 혐의로 기소되었다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O
-7~8월은 레스토랑이 바쁘+ㄴ 시기+이다 .	O O O O O
-현대 정유와 경인에너지가 최근 일반 석유 판매소에 공급하는 등 ­경유 가격을 최대 30%까지 인하하자 유공과 호남 정유도 가격 인하 경쟁에 가세하고 있다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O
-한편, 배우 우도 이+ㅁ은 2014년 영화 ‘상의원’으로 데뷔 하+ㄴ이 후 천만 영화 ‘부산행’에서 신인답지 않은 연기로 대중의 눈도장을 찍었다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O
-'추적 60분' 윤기원 죽음으로 보+ㄴ 승부조작 실태 .	O O PER-B O O O O O
-이에 연구팀은 세포는 딱딱하고 넓은 곳에서 잘 자라 +ㄴ다는 사실을 반영하+ 여세포가 저절로 자라는 조건을 없애려 컨택트렌즈에 쓰이는 물질로 높이 2마이크로미터(㎛·100만분의 1m), 지름 500나노미터(㎚·10억분의 1m)의 가느다랗+ㄴ기둥(연성나노필러)을 구성하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-손 전 고문은 “다산은 개혁하지 않으면 나라가 망하+ㄹ 것이라고 +였는데, 손학규가 그 절박 하+ㅁ을 받들고자 하+ㄴ다 .	PER-B O O O O O O O O O PER-B O O O O O O
-장상현 ㈜ 생각 투자팀장은 보드게임 ‘승경도’를 추천하였다 .	PER-B O ORG-B ORG-I O O O O
-국내 최대 규모(좌·우 담장까지 100m, 가운데 펜스까지 125m)이+ㄴ 잠실구장을 홈으로 쓰는 팀에서 홈런 선두가 나오는 것부터 드물+ㄴ일이다 .	O O O O O O O O O O O O O O O O O O
+최근 한국 갤럽 은 2013 년 2 월 부터 12 월 까지 전국 만 19 세 이상 남녀 1 만 2,959 명 을 대상 으로 ‘ 한국인 의 생활 시간 ( 기상 , 취침 , 수면 시간 ) ’ 에 대해 조사한 결과 를 발표 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 승부 를 결정짓 는 불펜 진 에서 는 피츠버그 가 월등하 다 .	O O O O O O O O O ORG-B O O O O
+고 씨 는 지난해 9 월 자신 의 집 에서 형 과 의 다툼 을 말리 던 어머니 A 씨 를 밀 어 넘어뜨리 는 등 폭행해 숨지 게 한 혐의 로 기소 됐 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+7 ~ 8 월 은 레스토랑 이 바쁜 시기 다 .	O O O O O O O O O O O
+현대정유 와 경인에너지 가 최근 일반 석유 판매 소 에 공급하 는 등 ­ 경유 가격 을 최대 30 % 까지 인하하 자 유공 과 호남정유 도 가격 인하 경쟁 에 가세하 고 있 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+한편 , 배우 우도 임 은 2014 년 영화 ‘ 상의원 ’ 으로 데뷔한 이후 천만 영화 ‘ 부산 행 ’ 에서 신인 답 지 않 은 연기 로 대중 의 눈도장 을 찍 었 다 .	O O O PER-B PER-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 추적 60 분 ' 윤기원 죽음 으로 본 승부 조작 실태 는	O O O O O PER-B O O O O O O O
+이 에 연구 팀 은 세포 는 딱딱하 고 넓 은 곳 에서 잘 자란다는 사실 을 반영해 세포 가 저절로 자라 는 조건 을 없애 려 컨택트 렌즈 에 쓰이 는 물질 로 높이 2 마이크로미터 ( ㎛ · 100 만 분 의 1 m ) , 지름 500 나노미터 ( ㎚ · 10 억 분 의 1 m ) 의 가느다란 기둥 ( 연성 나노 필러 ) 을 구성 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+손 전 고문 은 “ 다산 은 개혁하 지 않 으면 나라 가 망할 것 이 라고 했 는데 , 손학규 가 그 절박함 을 받들 고자 한다 .	PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+장상현 ㈜ 생각 투자 팀장 은 보드 게임 ‘ 승경도 ’ 를 추천 했 다 .	PER-B O ORG-B ORG-I O O O O O O O O O O O O
+국내 최대 규모 ( 좌 · 우 담장 까지 100 m , 가운데 펜스 까지 125 m ) 인 잠실구장 을 홈 으로 쓰 는 팀 에서 홈런 선두 가 나오 는 것 부터 드문 일 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

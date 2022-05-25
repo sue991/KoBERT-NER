@@ -1,11 +1,11 @@
-또 평택 최초로 ‘대치동 명문학원 타운’을 유치하였다 .	O LOC-B O O O O O O
-한국관광공사가 현황을 집계하+ㄴ 1일부터 4일까지 예약 취소 누적은 2만600명으로 전날의 1만1800여명에 비하+여 거의 두 배 가까이 늘어나 +았다 .	ORG-B O O O O O O O O O O O O O O O O O O
-1994년에 상장하였는데 시가총액이 3000억원이다 .	O O O MNY-B O
-무역회사에 다니는 이모(29·여)씨는 출근 직전, 퇴근 직후, 점심시간을 이용하+여중국어를 공부하+ㄴ다 .	O O PER-B O O O O O PER-B O O
-지누션이 장한나와 함께 컴백 하+ㄴ다는 소식을 접하+ㄴ네티즌들은 “지누션 장한나, 컴백 하+ㄴ 다니반갑다” .	ORG-B PER-B O O O O O ORG-B PER-B O O O O
-남북 응원단은 경기장에 입장하는 게이트부터 다르았다 .	ORG-B ORG-I O O O O O
-한편 회의 개최에 앞서 +어 일본 대표단은 박 대통령을 예방하고 “조속하+ㄴ시 일 안에 한일 정상회담이 열리기+ㄹ기대 하+ㄴ다”고 밝히었다 .	O O O O O ORG-B O PER-B O O O O O ORG-B O O O O O
-지난해 태양광 발전은 전 세계 발전량의 1%, 2020년에는 3% 정도로 예상되 +ㄴ다 .	O O O O O O O O O O O O O
-복부비만의 지표가 되는 허리둘레는 1979년 이후 전체 연령대에서 남자는 약 3.6~10.4㎝, 여자는 약 3.1~5.5 ㎝ 늘어나 +ㄴ 것으로 조사되었다 .	O O O O O O O O O O O O O O O O O O O O
-이상득 14시간 조사 이상득 14시간 조사, 부축받으며 귀가 "오해가 없도록 잘해명하고 가+ㄴ다" 포스코그룹 비리 수사와 관련 하+여 검찰에 출석 하+ㄴ이명박 전 대통령의 친형 이상득(80) 전 새누리당 의원이 14시간의 길+ㄴ 조사를 받고 귀가하었다 .	PER-B O O PER-B O O O O O O O O ORG-B O O O O O O PER-B O O O PER-B O ORG-B O O O O O O O
-5일 오전 10시20분쯤 검찰에 출석 하+ㄴ이전 의원은 다음날 이+ㄴ 6일 오전 0시 33분까지 조사를 받고 검찰청사를 빠져나오았다 .	O O O LOC-B O PER-B O O PER-B O O O O O O LOC-B O O
+또 평택 최초 로 ‘ 대치동 명문 학원 타운 ’ 을 유치 했 다 .	O LOC-B O O O O O O O O O O O O O
+한국관광공사 가 현황 을 집계한 1 일 부터 4 일 까지 예약 취소 누적 은 2 만 600 명 으로 전날 의 1 만 1800 여 명 에 비해 거의 두 배 가까이 늘어났 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1994 년 에 상장 했 는데 시가 총액 이 3000 억 원 이 다 .	DAT-B DAT-I O O O O O O O MNY-B MNY-I MNY-I O O O
+무역 회사 에 다니 는 이 모 ( 29 · 여 ) 씨 는 출근 직전 , 퇴근 직후 , 점심시간 을 이용해 중국어 를 공부한다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+지누션 이 장한나 와 함께 컴백한다는 소식 을 접한 네티즌 들 은 “ 지누션 장한나 , 컴백한다니 반갑 다 ” ,	ORG-B O PER-B O O O O O O O O O O ORG-B PER-B O O O O O O
+남북 응원단 은 경기장 에 입장하 는 게이트 부터 달 랐 다 .	ORG-B ORG-I O O O O O O O O O O O
+한편 회의 개최 에 앞서 일본 대표단 은 박 대통령 을 예방하 고 “ 조속한 시일 안 에 한일 정상 회담 이 열리 길 기대한다 ” 고 밝 혔 다 .	O O O O O ORG-B O O PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O
+지난해 태양광 발전 은 전 세계 발전량 의 1 % , 2020 년 에 는 3 % 정도 로 예상된다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+복부 비만 의 지표 가 되 는 허리둘레 는 1979 년 이후 전체 연령 대 에서 남자 는 약 3.6 ~ 10.4 ㎝ , 여자 는 약 3.1 ~ 5.5 ㎝ 늘어난 것 으로 조사 됐 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이상득 14 시간 조사 이상득 14 시간 조사 , 부축 받 으며 귀 가 " 오해 가 없 도록 잘 해명하 고 간다 " 포스코 그룹 비리 수사 와 관련해 검찰 에 출석한 이명박 전 대통령 의 친형 이상득 ( 80 ) 전 새누리당 의원 이 14 시간 의 긴 조사 를 받 고 귀가 했 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O PER-B O O O O PER-B O O O O ORG-B O O O O O O O O O O O O O O
+5 일 오전 10 시 20 분 쯤 검찰 에 출석한 이 전 의원 은 다음날 인 6 일 오전 0 시 33 분 까지 조사 를 받 고 검찰 청사 를 빠져나 왔 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O PER-B O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O LOC-B LOC-I O O O O O

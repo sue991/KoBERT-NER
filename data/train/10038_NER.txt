@@ -1,14 +1,14 @@
-미국 폭스뉴스와 CNN은 20일(현지시간) 여름철 워터 슬라이드를 타 .	ORG-B ORG-B ORG-B O O O O O O
-김풍기 심판“직구처럼 오다가 뚝”엄지척 LG우규민(31)이 신무기를 장착하고 더 강하여 +지+었다 .	PER-B O O O ORG-B O O O O O O
-그러나 법원은 지나 +ㄴ 12일 “방어권 보장이 필요하고, 구속 타당성을 인정하기 어렵다”며 영장을 기각하였다 .	O O O O O O O O O O O O O O O
-타쿠야·이준재, 키스신 NG컷대공개!“잇어서 하+ㄹ까요? .	PER-B O O O O
-두뇌는 아빠 닮아 IQ160~170, 얼굴과 몸매는 엄마 닮아 연예인급이다 .	O O O O O O O O O O
-“의도 없는 사정이란 100% 거짓말” 친이계는 마냥 밀리+ㄹ 수 없다는 듯 전열을 정비하는 모습이다 .	O O O O O O O O O O O O O O O
-골을 만들기까지의 작업은 상당히 잘 되+ㄴ다”며 “득점만 터지면 3강 체제로도 충분히 가+ㄹ 수 있을 것”이라고 기대감을 드러내+었다 .	O O O O O O O O O O O O O O O O O O
-혈액량이 충분하지 않으면 알람을 통하+여 알리+어주고, 30초 안에 같은 검사지에 한 번 더 혈액을 추가 하+여검사 하+ㄹ 수 있는 ‘세컨찬스 샘플링’ 기술을 적용하+ 여 사용자 편의성을 높이었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-현재 미국 경제는 어떻 +ㄴ가. 미국의 많은 자산을 중국인들이 소유하고 아시아태평양 지역에서 중국은 더 이상 봉쇄 하+ㄹ 수 없는 힘으로 부상하였다 .	O ORG-B O O O ORG-B O O ORG-B O LOC-B O ORG-B O O O O O O O O O
-미국에도 규제의 벽이 없었던 것은 아니다 .	ORG-B O O O O O O
-독일에서 함께 선수생활을 하+ㄴ옛 동료들을 만나면 아들 자랑에 바쁘았다 .	LOC-B O O O O O O O O O
-영국은 온라인에서 일어나는 청소년의 성착취와 학대를 방지하기 위하+여2006년 범정부기구를 설립하였다 .	ORG-B O O O O O O O O O O
-이때 박 회장은 돌연 인터넷전문은행을 포기하였다 .	O PER-B O O O O O
-‘설마 트럼프가 당선되겠느냐’는 안일 하+ㄴ 생각을 하고 있을 때가 아니다 .	O PER-B O O O O O O O O O
+미국 폭스뉴스 와 CNN 은 20 일 ( 현지 시간 ) 여름철 워터 슬라이드 를 타 다	ORG-B ORG-B O ORG-B O DAT-B DAT-I O O O O O O O O O O
+김풍기 심판 “ 직구 처럼 오 다가 뚝 ” 엄지 척 LG 우규민 ( 31 ) 이 신무기 를 장착하 고 더 강해 졌 다 .	PER-B O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O
+그러나 법원 은 지난 12 일 “ 방어 권 보장 이 필요하 고 , 구속 타당성 을 인정하 기 어렵 다 ” 며 영장 을 기각 했 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+타쿠야 · 이준재 , 키스 신 NG 컷 대 공개 ! “ 이 어서 할까 요 ? ”	PER-B O PER-B O O O O O O O O O O O O O O O
+두뇌 는 아빠 닮 아 IQ 160 ~ 170 , 얼굴 과 몸매 는 엄마 닮 아 연예인 급 이 다 .	O O O O O O O O O O O O O O O O O O O O O O
+“ 의도 없 는 사정 이 란 100 % 거짓말 ” 친 이 계 는 마냥 밀릴 수 없 다는 듯 전열 을 정비하 는 모습 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+골 을 만들 기 까지 의 작업 은 상당히 잘 된다 ” 며 “ 득점 만 터지 면 3 강 체제 로 도 충분히 갈 수 있 을 것 ” 이라고 기대감 을 드러냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+혈액량 이 충분하 지 않 으면 알람 을 통해 알려 주 고 , 30 초 안 에 같 은 검사 지 에 한 번 더 혈액 을 추가해 검사할 수 있 는 ‘ 세컨 찬스 샘플링 ’ 기술 을 적용해 사용자 편의성 을 높 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 미국 경제 는 어떤가 . 미국 의 많 은 자산 을 중국인 들 이 소유하 고 아시아 태평양 지역 에서 중국 은 더 이상 봉쇄할 수 없 는 힘 으로 부상 했 다 .	O ORG-B O O O O ORG-B O O O O O O O O O O LOC-B LOC-B O O ORG-B O O O O O O O O O O O O O
+미국 에 도 규제 의 벽 이 없 었 던 것 은 아니 다 .	ORG-B O O O O O O O O O O O O O O
+독일 에서 함께 선수 생활 을 한 옛 동료 들 을 만나 면 아들 자랑 에 바 빴 다 .	LOC-B O O O O O O O O O O O O O O O O O O O
+영국 은 온라인 에서 일어나 는 청소년 의 성 착취 와 학대 를 방지하 기 위해 2006 년 범 정부 기구 를 설립 했 다 .	ORG-B O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+이때 박 회장 은 돌연 인터넷 전문 은행 을 포기 했 다 .	O PER-B O O O O O O O O O O O
+‘ 설마 트럼프 가 당선되 겠 느냐 ’ 는 안일한 생각 을 하 고 있 을 때 가 아니 다 .	O O PER-B O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-최순화 소비자학을 공부하였다 .	PER-B O O O
-리버풀은 이날 패배로 지난해 12월에 있었던 맨유전 패배(0대 3) 이후 13경기 연속 무패행진을 끝마치었다 .	ORG-B O O O O O ORG-B O O O O O O O O
-‘제라드 퇴장 리버풀 맨유’ 소식을 접하+ㄴ네티즌들은 “제라드 퇴장 리버풀맨유, 제라드 아쉽다” .	PER-B O ORG-B ORG-B O O PER-B O ORG-B PER-B O O
-힐러리 클린턴 전 국무장관, 버니 샌더스 상원의원, 도널드 트럼프 같은 미국 유력 대선주자들이 모두 한목소리로 TPP에 대하+ㄴ 반대 의사를 표하고 있어서 +이다 .	PER-B PER-I O O PER-B PER-I O PER-B PER-I O ORG-B O O O O O O O O O O O O
-[문화가] 대구 봄 그리고 차의 하모니 .	O LOC-B O O O O O
-우편창구로 쓰던 공간 가운데 224m ²(약 68평)를 떼어내+어 민간사업자에게 임대하+ㄴ 것. 하루 평균 500여명이 이용하는 이 커피숍에서 우체국이 얻는 임대수입은 연간 5억2800만원이다 .	O O O O O O O O O O O O O MNY-B O O O O O O O MNY-B O
-SK·SK텔레콤·SK플래닛은 자기 업무 특성에 맞게 추+ㄹ·퇴근 시간을 자율적으로 조정하는 제도를 시행 중이다 .	ORG-B O O O O O O O O O O O O
-JYJ 소속 사씨제스엔터테인먼트가 패션 모델에이전시 ‘씨제스 모델 에디션’을 설립하였다 .	ORG-B O ORG-B O O ORG-B ORG-I ORG-I O O
-또한 서언이 와서 준이는 카메라를 향하+여 달려가 +아브이를 그리며 깜찍 하+ㄴ 장난을 +었다 .	O PER-B O O O O O O O O O O O O
-그렇 +ㅁ에도 국회가 압도적 찬성(91.5%)으로 법안을 통과시키+ㄴ 것+ㄴ표를 의식 하+ 여 입법 역할을 포기하고 그 책임을 헌재로 미루었다는 의미+이다 .	O O O O O O O O O O O O O O O O O O O O
-“모아니면도 ”이+ㄴ 성격의 정석원은 “위도 아니고, 아래도 아니+ㄴ. 중간을 유지하는 것+이 가장 어렵었다”고 털어놓았다 .	O O O PER-B O O O O O O O O O O O
-이상헌 은행연합회 경영지원부장은 “금융공기업과 마찬가지로 민간은행도 내년부터 성과연봉제를 적용하자는 것+이 사용자협의회의 계획”이라고 설명하였다 .	PER-B ORG-B O O O ORG-B O O O O O O O O
-은행연합회는 7월 22일 같은 직급끼리도 성과에 따르 아연봉이 최대 40% 차이나게 하는 ‘성과연봉제가이드라인’을 발표하였다 .	ORG-B O O O O O O O O O O O O O O
-이규남 위생과장은 “선제적 대응 차원에서 바이러스 퇴치에 효과가 있는 약품을 확진 환자가 발생하+ㄴ 동네와 인근에 매일 뿌리고 있다 .	PER-B O O O O O O O O O O O O O O O O O O
-〈내장산 관광호텔 .	ORG-B ORG-I O
+최순화 소비자 학 을 공부 했 다 .	PER-B O O O O O O O
+리버풀 은 이날 패배 로 지난해 12 월 에 있 었 던 맨유 전 패배 ( 0 대 3 ) 이후 13 경기 연속 무패 행진 을 끝마 쳤 다 .	ORG-B O O O O O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O O O O O
+‘ 제라드 퇴장 리버풀 맨유 ’ 소식 을 접한 네티즌 들 은 “ 제라드 퇴장 리버풀 맨유 , 제라드 아쉽 다 ” ,	O PER-B O ORG-B ORG-B O O O O O O O O PER-B O ORG-B ORG-B O PER-B O O O O
+힐러리 클린턴 전 국무 장관 , 버니 샌더스 상원 의원 , 도널드 트럼프 같 은 미국 유력 대선 주자 들 이 모두 한목소리 로 TPP 에 대한 반대 의사 를 표하 고 있 어서 다 .	PER-B PER-I O O O O PER-B PER-I O O O PER-B PER-I O O ORG-B O O O O O O O O O O O O O O O O O O O O
+[ 문화 가 ] 대구 봄 그리고 차 의 하모니 外	O O O O LOC-B O O O O O O
+우편 창구 로 쓰 던 공간 가운데 224 m ² ( 약 68 평 ) 를 떼 어 내 민간 사업자 에게 임대한 것 . 하루 평균 500 여 명 이 이용하 는 이 커피숍 에서 우체국 이 얻 는 임대 수입 은 연간 5 억 2800 만 원 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+SK · SK 텔레콤 · SK 플래닛 은 자기 업무 특성 에 맞 게 출 · 퇴근 시간 을 자율적 으로 조정하 는 제도 를 시행 중 이 다 .	ORG-B O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+JYJ 소속 사 씨 제스 엔터테인먼트 가 패션모델 에이전시 ‘ 씨 제스 모델 에디션 ’ 을 설립 했 다 .	ORG-B O O ORG-B ORG-I ORG-I O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O
+또한 서언 이 와 서준이 는 카메라 를 향해 달려가 브이 를 그리 며 깜찍한 장난 을 쳤 다 .	O PER-B PER-I O PER-B O O O O O O O O O O O O O O O
+그럼에도 국회 가 압도적 찬성 ( 91.5 % ) 으로 법안 을 통과 시킨 건 표 를 의식해 입법 역할 을 포기하 고 그 책임 을 헌재 로 미 뤘 다는 의미 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 모 아니 면 도 ” 인 성격 의 정석원 은 “ 위 도 아니 고 , 아래 도 아닌 . 중간 을 유지하 는 게 가장 어려 웠 다 ” 고 털어놓 았 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+이상헌 은행 연합회 경영 지원 부 장 은 “ 금융 공기업 과 마찬가지 로 민간 은행 도 내년 부터 성과 연봉제 를 적용하 자는 게 사용자 협의회 의 계획 ” 이라고 설명 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+은행 연합회 는 7 월 22 일 같 은 직급 끼리 도 성과 에 따 라 연봉 이 최대 40 % 차이 나 게 하 는 ‘ 성과 연봉제 가이드라인 ’ 을 발표 했 다 .	ORG-B ORG-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이규남 위생 과장 은 “ 선제 적 대응 차원 에서 바이러스 퇴치 에 효과 가 있 는 약품 을 확진 환자 가 발생한 동네 와 인근 에 매일 뿌리 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+〈 내장산 관광호텔 〉	O ORG-B ORG-I O

@@ -1,18 +1,18 @@
-윤석민은 계속 되+ㄴ 기회를 놓치지 않았다 .	PER-B O O O O O O
-김민재는 춥ㄴ 날씨에도 밤낮없이 촬영에 매진하는 ‘마을-아치아라의 비밀’ 스태프들을 위하+여 따뜻하+ㄴ 커피 등 각종 음료를 준비하였다 .	PER-B O O O O O O O O O O O O O O O O
-헌재는 지난해 5월 교원노조법 2조에 대하+여합헌 결정을 내리었고, 대법원은 정부 측의 손을 들어주는 내용의 판결을 하+ㄴ 뒤가처분 사건을 서울고법으로 돌려보내+었다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O ORG-B O O
-‘압구정 백야’는 “드라마의 전개가 지나치게 비윤리적이고 극단적 이+ㄴ 상황 설정 및 폭언과 폭력 장면 등을 청소년 시청 보호시간대에 방송 하+ㄴ 것은 ‘방송심의에 관하+ㄴ 규정’에 위반되 +ㄴ다”는 이유로 3월 26일 방송통신심의위로부터 관계자 징계의 중징계를 받았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-국토부에 따르면 택배 배송 물량은 2004년 4억469만 박스에서 지난해 18억1960만 박스로 4.5배 규모로 성장하였다 .	ORG-B O O O O O O O O O O O O O O
-검찰, ‘증거인멸 혐의’ 신영자 아들 소유회사 대표 체 .	O O O PER-B O O O O O
-앞서 곽유화는 지나 +ㄴ 4월 두 차례 실시하+ㄴ반도 핑 샘플 검사에서 금지약물이 +ㄴ 펜디메트라지 +ㄴ(Phendim etrazine)과 펜메트라지 +ㄴ(phenm etrazine)이 검출되+어23일 KOVO로부터 6경기 출장 정지의 제재를 받았다 .	O PER-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
-이에 곽유화는 한약을 복용 하+ㄴ 것이라고 진술하였으나, 검출되+ㄴ 약물이 한약에서 나 오+ㄹ 수 없는 성분이라는 도핑의원의 의문이 제기되자 “액상의 한약과 환약을 같이 복용 하+ㄴ 것”이라고 추가 설명하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러자 대한한의사협회는 “곽유화의 도핑 위반 약물은 한약과 전혀 상관없다”며 “곽유화와 약물 제공자를 약사법 위반, 마약류 관리에 관하+ㄴ 법률 위반 등으로 수사의뢰하겠다”고 강경하게 대처하었다 .	O ORG-B PER-B O O O O O O PER-B O O O O O O O O O O O O O O
-대한한의사협회의 반응에 KOVO는 약품의 구입 과정 및 구입처 등에 대하+ㄴ조사를 추가 진행하였고, 곽유화가 한약이 아니+ㄴ 다이어트 약을 복용하+ㄴ 것으로 확인하였다 .	ORG-B O ORG-B O O O O O O O O O PER-B O O O O O O O O
-곽유화는 “프로 선수가 다이어트 약을 복용하였다는 것에 대하+ㄴ 죄책감으로 솔직하게 얘기하지 못하였다”면서 “다시 한번 물의를 일으키+ㄴ 것에 대하+ 여배구팬 및 연맹, 구단에 머리 숙이어 사죄드리+ㄴ다”고 사과하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-7월 21일, 그가 보내+ㄴ 우편물이기자의 집에 도착하였다 .	O O O O O O O O
-[수도권] “민간이 공공복지先투자”… 경기도 새 실 .	LOC-B O O ORG-B O O O
-[주간동아1011호 /특집| “명퇴시켜주세요!” .	O O O O
-이번 프로모션에 대하+ㄴ자세 하+ㄴ사항은 혼다코리아 홈페이지(www.hondakorea.co.kr)를 확인하거나 가깝ㄴ 전시장에 문의하면 되+ㄴ다 .	O O O O ORG-B O O O O O O O
-한편 혼다코리아는 앞서 언급하+ㄴ 모델 외에도 오딧세이와 시빅의 차량 가격을 개별소비세 인하 정책에 따르 아각각 70만원과 30만원 인하하였다 .	O ORG-B O O O O O O O O O O O O O MNY-B MNY-B O O
-이들 지역은 현재 강남권에 진입하는 데 대중교통으로 최대 1시간 정도가 걸리+ㄴ다 .	O O O LOC-B O O O O O O O O
-이후 매년 150여 편 이상의 타우린 관련 논문이 쏟아지+ㄹ 정도로 뜨겁ㄴ 연구 테마가 +었다 .	O O O O O O O O O O O O O O O
+윤석민 은 계속된 기회 를 놓치 지 않 았 다 .	PER-B O O O O O O O O O O
+김민재 는 추 운 날씨 에 도 밤낮없이 촬영 에 매진하 는 ‘ 마을 - 아치 아라 의 비밀 ’ 스태프 들 을 위해 따뜻한 커피 등 각종 음료 를 준비 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+헌재 는 지난해 5 월 교원 노조 법 2 조 에 대해 합헌 결정 을 내 렸 고 , 대법원 은 정부 측 의 손 을 들 어 주 는 내용 의 판결 을 한 뒤 가처분 사건 을 서울 고법 으로 돌려보냈 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O
+‘ 압구정 백야 ’ 는 “ 드라마 의 전개 가 지나치 게 비 윤리적 이 고 극단적 인 상황 설정 및 폭언 과 폭력 장면 등 을 청소년 시청 보호 시간대 에 방송한 것 은 ‘ 방송 심의 에 관한 규정 ’ 에 위반된다 ” 는 이유 로 3 월 26 일 방송 통신 심의 위 로부터 관계자 징계 의 중징계 를 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O
+국토 부 에 따르 면 택배 배송 물량 은 2004 년 4 억 469 만 박스 에서 지난해 18 억 1960 만 박스 로 4.5 배 규모 로 성장 했 다 .	ORG-B ORG-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+검찰 , ‘ 증거인멸 혐의 ’ 신영자 아들 소유 회사 대표 체포	O O O O O O PER-B O O O O O
+앞서 곽유 화 는 지난 4 월 두 차례 실시한 반 도핑 샘플 검사 에서 금지 약물 인 펜디메트라 진 ( Phendimetrazine ) 과 펜메트라 진 ( phenmetrazine ) 이 검출돼 23 일 KOVO 로부터 6 경기 출장 정지 의 제재 를 받 았 다 .	O PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O
+이 에 곽유 화 는 한약 을 복용한 것 이 라고 진술 했 으나 , 검출된 약물 이 한약 에서 나올 수 없 는 성분 이 라는 도핑 의원 의 의문 이 제기되 자 “ 액상 의 한약 과 환약 을 같이 복용한 것 ” 이라고 추가 설명 했 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 자 대한한의사협회 는 “ 곽유 화 의 도핑 위반 약물 은 한약 과 전혀 상관없 다 ” 며 “ 곽유 화 와 약물 제공 자 를 약사법 위반 , 마약 류 관리 에 관한 법률 위반 등 으로 수사 의뢰하 겠 다 ” 고 강경하 게 대처 했 다 .	O O ORG-B O O PER-B PER-I O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대한한의사협회 의 반응 에 KOVO 는 약품 의 구입 과정 및 구입 처 등 에 대한 조사 를 추가 진행 했 고 , 곽유 화가 한약 이 아닌 다이어트 약 을 복용한 것 으로 확인 했 다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+곽유 화 는 “ 프로 선수 가 다이어트 약 을 복용 했 다는 것 에 대한 죄책감 으로 솔직하 게 얘기하 지 못 했 다 ” 면서 “ 다시 한번 물의 를 일으킨 것 에 대해 배구 팬 및 연맹 , 구단 에 머리 숙 여 사죄드린다 ” 고 사과 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 월 21 일 , 그 가 보낸 우편물 이 기자 의 집 에 도착 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O
+[ 수도권 ] “ 민간 이 공공복지 先 투자 ” … 경기도 새 실험	O LOC-B O O O O O O O O O ORG-B O O
+[ 주간동아 1011 호 / 특집 | “ 명퇴 시 켜 주 세요 ! ” ]	O O O O O O O O O O O O O O O O
+이번 프로모션 에 대한 자세한 사항 은 혼다코리아 홈페이지 ( www . hondakorea . co . kr ) 를 확인하 거나 가까 운 전시장 에 문의하 면 된다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+한편 혼다코리아 는 앞서 언급한 모델 외 에 도 오딧세이 와 시빅 의 차량 가격 을 개별 소비세 인하 정책 에 따 라 각각 70 만 원 과 30 만 원 인하 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O
+이 들 지역 은 현재 강남 권 에 진입하 는데 대중교통 으로 최대 1 시간 정도 가 걸린다 .	O O O O O LOC-B LOC-I O O O O O O O O O O O O
+이후 매년 150 여 편 이상 의 타우린 관련 논문 이 쏟아질 정도 로 뜨거 운 연구 테마 가 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O

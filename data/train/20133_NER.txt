@@ -1,13 +1,13 @@
-부동산 전문가들은 “청약통장 1순위 조건이 완화되면서 우수하+ㄴ 입지를 갖추+ㄴ 수원 영통의 첫 분양단지 이+ㄴ영통라온프라이빗의 1순위 청약 열기가 더욱 뜨거워 지+ㄹ 것으로 보이+ㄴ다”며 “또한 오는 4월부터 민간택지의 분양가 상한제 폐지에 따르+ㄴ 수혜단지로도 각광받고 있다”고 설명하였다 .	O O O O O O O O O LOC-B ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O
-2013년 은퇴하+ㄴ장미란은 현재 자신이 만들 +ㄴ ‘장미란재단’을 통하+여비 인기 종목 선수들을 후원하거나 유소년 선수들을 지원하는 공익활동을 하고 있다 .	O PER-B O O O O PER-B O O O O O O O O O O O O
-“저 자리에서 +어 있는 것만도 대단하+ㄴ 것+이죠” 리우데자네이루 올림픽은 장미란이 12년 만에 처음으로 주인공이 아니+ㄴ관중으로 지켜보는 올림픽이다 .	O O O O O O O O O PER-B O O O O O O O O
-2010년 4543만원이던 20, 30대의 전세보증금은 연평균 8.3% 증가 하+여 2014년 6253만원 수준으로 오르았다 .	O MNY-B O O O O O O O O MNY-B O O O
-LG선수들이 맹활약 하+ㄴ 박인태를 놀리+ㄴ사 .	ORG-B O O PER-B O O
-선 예둘째 임신, 첫날 출산 2년 만에 … "축하 축하~순산하세요"네티즌 축하봇 .	O O O O O O O O O O O O
-악몽 같은 기억은 오캘러 골프장에 모두 묻어두고 +았다 .	O O O LOC-B LOC-I O O O O
-강풀이 드림팩토리 앞에 있는 아파트와 마트 이름을 대라는 등 연락 하+ㄴ이가 내가 맞는지 검증을 +였다 .	PER-B LOC-B O O O O O O O O O O O O O O
-4년 연속 올스타전에 출전하+ㄴ 데이비스가 MVP가 되+ㄴ 것은 처음이다 .	O O O O PER-B O O O O O
-지난해 8월 서울 청담동에 매장을 열 +ㄴ 여행가방 브랜드 하트만은 견고 하+ㄴ 재질과 기술력으로 실용성을 높이고 클래식 하+ㄴ 디자인으로 멋까지 더 하+여인기를 얻고 있다 .	O O LOC-B LOC-B O O O O O ORG-B O O O O O O O O O O O O O O O
-하트만은 미국 상류층의 명품 여행 가방으로 알려지+어 있다 .	ORG-B ORG-B O O O O O O O
-펜스 부통령은 일본을 방문 중이던 19일 요코스카(橫須賀) 미군기지에 정박 하+ㄴ 핵항공모함 로널드 레이건호 선상에서 가지+ㄴ CNN과의 인터뷰에서 “북한이 아시아·태평양 지역에서 가장 위험하고 가장 즉각적 이+ㄴ 위협이라는 것은 의문의 여지가 없다 .	PER-B O LOC-B O O O LOC-B LOC-I O O O O O O O ORG-B O ORG-B LOC-B O O O O O O O O O O O O
-특히 맥용과 윈도우용 MS 오피스를 비교하+여보면 윈도우용이 한층 더 온전하+ㄴ 기능을 제공하+ㄴ다 .	O O O O O O O O O O O O O
+부동산 전문가 들 은 “ 청약 통장 1 순위 조건 이 완화되 면서 우수한 입지 를 갖춘 수원 영통 의 첫 분양 단지 인 영통 라온 프라이빗 의 1 순위 청약 열기 가 더욱 뜨거워질 것 으로 보인다 ” 며 “ 또한 오 는 4 월 부터 민간 택지 의 분양가 상한 제 폐지 에 따른 수혜 단지 로 도 각광 받 고 있 다 ” 고 설명 했 다 .	O O O O O O O O O O O O O O O O O LOC-B LOC-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+2013 년 은퇴한 장미란 은 현재 자신 이 만든 ‘ 장미란 재단 ’ 을 통해 비 인기 종목 선수 들 을 후원하 거나 유소년 선수 들 을 지원하 는 공익 활동 을 하 고 있 다 .	DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 저 자리 에 서 있 는 것 만 도 대단한 거 죠 ” 리우데자네이루 올림픽 은 장미란 이 12 년 만 에 처음 으로 주인공 이 아닌 관중 으로 지켜보 는 올림픽 이 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+2010 년 4543 만 원 이 던 20 , 30 대 의 전세 보증금 은 연평균 8.3 % 증가해 2014 년 6253 만 원 수준 으로 올 랐 다 .	DAT-B DAT-I MNY-B MNY-I MNY-I O O O O O O O O O O O O O O DAT-B DAT-I MNY-B MNY-I MNY-I O O O O O O
+LG 선수 들 이 맹활약한 박인태 를 놀린 사연	ORG-B O O O O PER-B O O O
+선예 둘째 임신 , 첫날 출산 2 년 만 에 … " 축하 축하 ~ 순산하 세요 " 네티즌 축하 봇물	PER-B O O O O O O O O O O O O O O O O O O O O
+악몽 같 은 기억 은 오캘러 골프장 에 모두 묻 어 두 고 왔 다 .	O O O O O LOC-B LOC-I O O O O O O O O O
+강풀 이 드림 팩토리 앞 에 있 는 아파트 와 마트 이름 을 대 라는 등 연락한 이 가 내 가 맞 는지 검증 을 했 다 .	PER-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O
+4 년 연속 올스타 전 에 출전한 데이비스 가 MVP 가 된 것 은 처음 이 다 .	O O O O O O O PER-B O O O O O O O O O O
+지난해 8 월 서울 청담동 에 매장 을 연 여행 가방 브랜드 하트만 은 견고한 재질 과 기술력 으로 실용성 을 높이 고 클래식 한 디자인 으로 멋 까지 더해 인기 를 얻 고 있 다 .	O DAT-B DAT-I LOC-B LOC-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+하트만 은 미국 상류층 의 명품 여행 가방 으로 알려져 있 다 .	ORG-B O ORG-B O O O O O O O O O O
+펜스 부통령 은 일본 을 방문 중 이 던 19 일 요코스카 ( 橫須賀 ) 미군 기지 에 정박한 핵 항공모함 로널드 레이건 호 선상 에서 가진 CNN 과 의 인터뷰 에서 “ 북한 이 아시아 · 태평양 지역 에서 가장 위험하 고 가장 즉각적 인 위협 이 라는 것 은 의문 의 여지 가 없 다 .	PER-B O O LOC-B O O O O O DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O ORG-B O O O O O ORG-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O
+특히 맥 용 과 윈도우 용 MS 오피스 를 비교해 보 면 윈도우 용 이 한층 더 온전한 기능 을 제공한다 .	O O O O O O O O O O O O O O O O O O O O O O

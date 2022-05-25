@@ -1,16 +1,16 @@
-타지키스탄 등의 신생아들에게 전달되+ㄹ 예정이다 .	LOC-B O O O O O
-앞으로도 한국 축구의 힘이 +ㄴ K리그 많이 사랑 하+여주+시었으면 좋겠다"고 소감을 밝히었다 .	O ORG-B O O O ORG-B O O O O O O O
-남녀 프로농구 양동근(모비스)과 박혜진(우리은행), 남녀 프로배구 문성민(현대캐피탈)과 김희진(IBK기업은행), 남녀 프로골프 최진호(현대제철)와 박성현(넵스)도 종목별 올해의 선수로 뽑히 었다 .	O O ORG-B ORG-B O O ORG-B ORG-B O O ORG-B ORG-B O O O O O O
-영화 ‘더폰’ 손현주, 팬을 위하+여 ‘전화번호’ 즉석 공개… ‘깜짝’ 더 폰 손현주 영화 ‘더폰’에 출연하는 손현주가 즉석에서 휴대전화 번호를 공개하+여 팬들을 설레게 +였다 .	O O PER-B O O O O O O O O PER-B O O O PER-B O O O O O O O O
-손현주는 14일 서울 압구정의 한 영화관에서 열리+ㄴ영화 ‘더폰’(감독김봉주/제작 미스터 로맨스) 제작 보고회에서 관객과 직접 소통 하+ㄹ 수 있는 휴대전화 번호를 공개하였다 .	PER-B O LOC-B LOC-B O O O PER-B ORG-B ORG-I O O O O O O O O O O O O
-이날 행사에서 손현주는 ‘더폰’ 배우들과 직접 소통 하+ㄹ 수 있는 휴대전화 번호를 즉석에서 깜짝 공개하였다 .	O O PER-B O O O O O O O O O O O O O
-공개되+ㄴ번호는 010-9780-1022로 관객들이 직접 배우들과 전화 이벤트를 즐기+ㄹ 수 있었다 .	O PH-B O O O O O O O O O
-특히 뒤에 네 자리 ‘1022’는 ‘더폰’의 개봉 일자(10월 22일)를 뜻하+ㄴ다 .	O O O O O O O O O O O
-손현주는 또 영화 촬영 당시 갈비뼈 부상을 입었다고 털어놓았다 .	PER-B O O O O O O O O O
-이날 손현주는 “촬영 중 엄지원도 나도 다치었다”면서 “나+ㄴ 갈비뼈가 부러지었고 손톱이 다 나가+았다 .	O PER-B O O PER-B O O O O O O O O O
-올해 행사에 +ㄴ 세계적 이+ㄴ 베스트셀러 작가 이+ㄴ 알랭 드 보통이 공동감독을 맡아 특별전을 열고 공예와 철학, 문학의 만남을 주제로 하+ㄴ 작품을 관람객들에게 선사 하+ㄴ다 .	O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O
-이어 봉해령은 "두 사람 사이 알고 있었다 .	O PER-B O O O O O O
-CNN은 “유럽에는 총 120∼180명이 가담 하+ㄴ 잠복조직 20개가 있으며 이들은 프랑스·독일·벨기에·네덜란드 등을 공격 하+ㄹ 수 있다”고 보도하였다 .	O ORG-B O O O O O O O O ORG-B O O O O O O O
-김무성 대표“둘째 사위 마약 전과 결혼 전 알고 파혼권유+였으나 …딸이 결혼 고집 하+ 여 허락” 김무성사위 새누리당 김무성 대표는 둘째 사위의 마약 전과와 관련, “결혼 전에 관련 사실을 알고 파혼을 권유하였으나 딸이 결혼을 고집하+여 어쩌+ㄹ 수 없이 허락하였다”고 10일 입장을 밝히었다 .	PER-B O O O O O O O O O O O O O O PER-B ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-앞서 동아일보는 이날 “2년 반 동안 15차례나 마약을 투약하+ㄴ거액 자산가 아들이자 현재 유력 정치인의 인척이+ㄴ A씨에게 법원이 징역 4년∼9년 6개월 이+ㄴ 양형기준하한선을 이탈하+여 집행유예를 선고하였다”며 “검찰은 이에 항소하지도 않아 ‘봐주기’ 논란이 일고 있다”고 단독 보도하였다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
-이에 미디어오늘은 판결문과 대법원 사건 기록 등을 조회, A씨가 지난달 8월 28일 김무성 대표의 둘째 딸과 결혼 하+ㄴ 김 대표의 사위 이+ㄴ 것으로 확인되었다고 이날 오후 보도하였다 .	O O O ORG-B O O O O PER-B O O O PER-B O O O O O PER-B O O O O O O O O O
+타지키스탄 등 의 신생아 들 에게 전달될 예정 이 다 .	LOC-B O O O O O O O O O O
+앞 으로 도 한국 축구 의 힘 인 K 리그 많이 사랑해 주 셨 으면 좋 겠 다 " 고 소감 을 밝 혔 다 .	O O O ORG-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+남녀 프로 농구 양동근 ( 모비스 ) 과 박혜진 ( 우리은행 ) , 남녀 프로 배구 문성민 ( 현대캐피탈 ) 과 김희진 ( IBK 기업은행 ) , 남녀 프로 골프 최진호 ( 현대제철 ) 와 박성현 ( 넵스 ) 도 종목별 올해 의 선수 로 뽑 혔 다 .	O O O PER-B O ORG-B O O PER-B O ORG-B O O O O O PER-B O ORG-B O O PER-B O ORG-B ORG-I O O O O O PER-B O ORG-B O O PER-B O ORG-B O O O O O O O O O O O
+영화 ‘ 더 폰 ’ 손현주 , 팬 을 위해 ‘ 전화번호 ’ 즉석 공개 … ‘ 깜짝 ’ 더 폰 손현주 영화 ‘ 더 폰 ’ 에 출연하 는 손현주 가 즉석 에서 휴대 전화 번호 를 공개해 팬 들 을 설레 게 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+손현주 는 14 일 서울 압구정 의 한 영화관 에서 열린 영화 ‘ 더 폰 ’ ( 감독 김봉주 / 제작 미스터 로맨스 ) 제작 보고회 에서 관객 과 직접 소통할 수 있 는 휴대 전화 번호 를 공개 했 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B O O O O O O O O O O O O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+이날 행사 에서 손현주 는 ‘ 더 폰 ’ 배우 들 과 직접 소통할 수 있 는 휴대 전화 번호 를 즉석 에서 깜짝 공개 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+공개된 번호 는 010 - 9780 - 1022 로 관객 들 이 직접 배우 들 과 전화 이벤트 를 즐길 수 있 었 다 .	O O O PH-B PH-I PH-I PH-I PH-I O O O O O O O O O O O O O O O O O
+특히 뒤 에 네 자리 ‘ 1022 ’ 는 ‘ 더 폰 ’ 의 개봉 일자 ( 10 월 22 일 ) 를 뜻한다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O
+손현주 는 또 영화 촬영 당시 갈비뼈 부상 을 입 었 다고 털어 놨 다 .	PER-B O O O O O O O O O O O O O O O
+이날 손현주 는 “ 촬영 중 엄지원 도 나 도 다 쳤 다 ” 면서 “ 난 갈비뼈 가 부러 졌 고 손톱 이 다 나갔 다 .	O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+올해 행사 엔 세계적 인 베스트셀러 작가 인 알랭 드 보통 이 공동 감독 을 맡 아 특별 전 을 열 고 공예 와 철학 , 문학 의 만남 을 주제 로 한 작품 을 관람객 들 에게 선사한다 .	O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 봉해령 은 " 두 사람 사이 알 고 있 었 다 .	O PER-B O O O O O O O O O O O
+CNN 은 “ 유럽 에 는 총 120 ∼ 180 명 이 가담한 잠복 조직 20 개 가 있 으며 이 들 은 프랑스 · 독일 · 벨기에 · 네덜란드 등 을 공격할 수 있 다 ” 고 보도 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O
+김무성 대표 “ 둘째 사위 마약 전 과 결혼 전 알 고 파혼 권유 했 으나 … 딸 이 결혼 고집해 허락 ” 김무성 사위 새누리당 김무성 대표 는 둘째 사위 의 마약 전과 와 관련 , “ 결혼 전 에 관련 사실 을 알 고 파혼 을 권유 했 으나 딸 이 결혼 을 고집해 어쩔 수 없이 허락 했 다 ” 고 10 일 입장 을 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+앞서 동아일보 는 이날 “ 2 년 반 동안 15 차례 나 마약 을 투약한 거액 자산가 아들 이 자 현재 유력 정치인 의 인척 인 A 씨 에게 법원 이 징역 4 년 ∼ 9 년 6 개월 인 양형 기준 하한선 을 이탈해 집행 유예 를 선고 했 다 ” 며 “ 검찰 은 이 에 항소하 지 도 않 아 ‘ 봐주 기 ’ 논란 이 일 고 있 다 ” 고 단독 보도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 미디어 오늘 은 판결문 과 대법원 사건 기록 등 을 조회 , A 씨 가 지난달 8 월 28 일 김무성 대표 의 둘째 딸 과 결혼한 김 대표 의 사위 인 것 으로 확인 됐 다고 이날 오후 보도 했 다 .	O O O O O O O ORG-B O O O O O O PER-B O O O DAT-B DAT-I DAT-I DAT-I PER-B O O O O O O PER-B O O O O O O O O O O O O O O O

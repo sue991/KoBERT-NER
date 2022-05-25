@@ -1,15 +1,15 @@
-‘썰 전 김성태’ 새누리당 김성태 의원이 ‘썰전’에서 하차하+ㄴ강용석을 대신 하+여일일 패널로 특별출연하였다 .	O O PER-B ORG-B PER-B O O PER-B O O O O O
-3일 방송 하+ㄴ JTBC ‘독하+ㄴ혀들의 전쟁-썰전’(이하 ‘썰전’)에서는 새누리당 김성태 의원이 일이 +ㄹ 패널로 강용석의 빈자리를 매꿨 +이다 .	O O O O O O O ORG-B PER-B O O O O PER-B O O O O
-섬유유연제 피죤은 2005년에 섬유유연제 부문에서 소비자 웰빙지수(KWCI) 1위에 선정되+ㄴ바 있으며, 2007년에는 한국능률협회 경영인증원으로부터 제품의 기능성 및 안전성, 건강성과 환경성 등에 대하+여섬유유연제 최초로 웰빙 인증을 받았다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-그와 처음 만나 +았을 때 생각이 나면서 갑자기 눈물이 나더라. 덕환이와 나+ㄴ 동지이다 .	O O O O O O O O O O PER-B O O O
-한화건설, ‘킨텍스 꿈에그린’ 평균 2.84대 1로 1순위 청약 마 .	ORG-B O O O O O O O O O
-DDT에 저항성을 가지+ㄴ모기는 이미 1950년대에도 확인되었다 .	O O O O O O O
-김민준이걸그룹 걸스데이와 한솥밥을 먹는다 .	PER-B ORG-B O O O
-걸스데이 소속 사드림티 엔터테인먼트는 “배우 김민준과 전속 계약을 체결하였다”고 밝히었다 .	ORG-B O ORG-B ORG-I O PER-B O O O O O
-잇어 소속사 측은 “다재다능 하+ㄴ 배우 김민준의 작품활동과 방송활동을 위하+여활발하+ㄴ 매니지먼트를 아끼지 않을 것”이라면서 “앞으로 김민준의 행보에 많은 기대와 성원을 부탁드리+ㄴ다”고 전하였다 .	O O O O O O PER-B O O O O O O O O PER-B O O O O O O O
-김민준과 걸스데이 멤버 혜리는 지나 +ㄴ 2014년 방영하+ㄴ JTBC 드라마 ‘선암여고 탐정단’에서 호흡을 맞추+ㄴ바 있다 .	PER-B ORG-B O PER-B O O O O O O O O O O O O
-린워크벤치 공동대표는 “목표로 하는 국가에 대하+ㄴ문화적·언어적 이해를 통하+여소비자와의 접점을 찾을 필요가 있다”며 “‘좋은 기술은 세계 어디에서든 통하+ㄴ다’는 자신감을 갖고 시장분석에 적극적으로 나서+어야 하+ㄴ다”고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-이영애와 함께 한 쌍둥이 자녀들은 엄마를 꼭 닮은 외모로 남다르+ㄴ끼를 뽐내 +었다 .	PER-B O O O O O O O O O O O O
-이영애는 제이룩(JLOOK)에 실리+ㄴ ‘편집장의 글’을 통하+여 “20년을 배우라는 이름으로 살았다 .	PER-B O O O O O O O O O O
-경충대로, 대월로, 영동고속도로 등이 가깝어 교통여건이 좋은 편이다 .	LOC-B LOC-B LOC-B O O O O O O
-워싱턴 정가에서 +ㄴ화웨이의 회사 규모가 중싱보다 훨씬 크+ㄴ 만큼 상무부가 벌이는 이번 조사의 파장은 크게 확산되+ㄹ 것으로 보고 있다 .	LOC-B O ORG-B O O O O O O ORG-B O O O O O O O O O O
+‘ 썰 전 김성태 ’ 새누리당 김성태 의원 이 ‘ 썰 전 ’ 에서 하차한 강용석 을 대신해 일일 패널 로 특별 출연 했 다 .	O O O PER-B O ORG-B PER-B O O O O O O O O PER-B O O O O O O O O O O
+3 일 방송한 JTBC ‘ 독한 혀 들 의 전쟁 - 썰 전 ’ ( 이하 ‘ 썰 전 ’ ) 에서 는 새누리당 김성태 의원 이 일 일 패널 로 강용석 의 빈자리 를 매꿨 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O PER-B O O O O O O
+섬유 유연 제 피죤 은 2005 년 에 섬유 유연 제 부문 에서 소비자 웰빙 지수 ( KWCI ) 1 위 에 선정된 바 있 으며 , 2007 년에는한국능률협회경영인증원으 로부터 제품 의 기능 성 및 안전성 , 건강성 과 환경 성 등 에 대해 섬유 유연 제 최초 로 웰빙 인증 을 받 았 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O ORG-B O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 와 처음 만났 을 때 생각 이 나 면서 갑자기 눈물 이 나 더라 . 덕환이 와 난 동지 이 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O
+한화건설 , ‘ 킨 텍스 꿈에 그린 ’ 평균 2.84 대 1 로 1 순위 청약 마감	ORG-B O O O O O O O O O O O O O O O O
+DDT 에 저항성 을 가진 모기 는 이미 1950 년대 에 도 확인 됐 다 .	O O O O O O O O O O O O O O O O
+김민준 이 걸그룹 걸스데이 와 한솥밥 을 먹 는다 .	PER-B O O ORG-B O O O O O O
+걸스데이 소속 사 드림 티 엔터테인먼트 는 “ 배우 김민준 과 전속 계약 을 체결 했 다 ” 고 밝 혔 다 .	ORG-B O O ORG-B ORG-I ORG-I O O O PER-B O O O O O O O O O O O O O
+이 어 소속 사 측 은 “ 다재다능한 배우 김민준 의 작품 활동 과 방송 활동 을 위해 활발한 매니지먼트 를 아끼 지 않 을 것 ” 이 라면서 “ 앞 으로 김민준 의 행보 에 많 은 기대 와 성원 을 부탁 드린다 ” 고 전 했 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+김민준 과 걸스데이 멤버 혜리 는 지난 2014 년 방영한 JTBC 드라마 ‘ 선암 여고 탐정 단 ’ 에서 호흡 을 맞춘 바 있 다 .	PER-B O ORG-B O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+린 워크 벤치 공동대표 는 “ 목표 로 하 는 국가 에 대한 문화적 · 언어적 이해 를 통해 소비자 와 의 접점 을 찾 을 필요 가 있 다 ” 며 “ ‘ 좋 은 기술 은 세계 어디 에서 든 통한다 ’ 는 자신감 을 갖 고 시장 분석 에 적극적 으로 나서야 한다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이영애 와 함께 한 쌍둥이 자녀 들 은 엄마 를 꼭 닮 은 외모 로 남다른 끼 를 뽐냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+이영애 는 제이룩 ( JLOOK ) 에 실린 ‘ 편집장 의 글 ’ 을 통해 “ 20 년 을 배우 라는 이름 으로 살 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+경충 대로 , 대월 로 , 영동 고속도로 등 이 가까 워 교통 여건 이 좋 은 편 이 다 .	LOC-B LOC-I O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O
+워싱턴 정가 에선 화웨이 의 회사 규모 가 중 싱 보다 훨씬 큰 만큼 상무부 가 벌이 는 이번 조사 의 파장 은 크 게 확산될 것 으로 보 고 있 다 .	LOC-B O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-현재 아랄해의 평균 염도는 ℓ당 18g으로 보통 바닷물의 2배 수준이다 .	O LOC-B O O O O O O O O O
-황 회장은 “국내에서 금융의 골드만삭스가 나오지 않는 것도 균형 잡히+ㄴ 운동장이 선행되지 않았기 때문”이라며 “증권사에 기업 지급결제를 허용 하+여주는 등 불합리 하+ㄴ 관행 개선이 필요하다”고 말하였다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-한편, 슈틸리케 감독은 연휴 마지막 날 이+ㄴ 29일에는 2018 러시아 월드컵아시아 지역 2차 예선조별리그(G조) 경기에 나서 +ㄹ 대표팀 명단을 발표하+ㄴ다 .	O PER-B O O O O O O O O LOC-B O O O O O O O O O O
-최하위(12위) 대전은 광주 방문 경기에서 2-1로 승리하며 18경기만에 2승째를 신고하였다 .	O LOC-B LOC-B O O O O O O O O
-해군기지 건설을 놓고 제주 강정마을에서 벌어 지+ㄴ 공권력과의 대치, 지역사회 분열 등이 재연되지 않게 정부가 주민들을 사전에 설득하고 적절하+ㄴ 보상방안도 강구하+ㄹ 필요가 있다 .	O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O
-합병이 성사되면 AT&T는 타임워너 산하 워너브러더스의 영화 ‘해리포터’ 시리즈와 HBOTV 드라마 ‘왕좌의 게임’ 등과 같은 인기 상품을 확보하게 되+ㄴ다 .	O O ORG-B ORG-B O ORG-B O O O ORG-B O O O O O O O O O O
-구글 플레이를 이용하는 고객들이 게임과 같은 콘텐츠를 구매 하+ㄹ 때 요금 청구 할인이나 쿠폰 등의 혜택을 제공하는 애플리케이션(이하 앱)이다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-조타“결혼 일찍 하고 싶었다… 아내 손에 물안 묻히고 싶어 .	PER-B O O O O O O O O O
-경기 김포시 감정동의 ‘한강센트럴자이 1차’의 경우 7월에만 분양권 거래가 53건이 루어지+었지만 11월에는 19건에 불과하였다 .	LOC-B LOC-I LOC-B LOC-B LOC-I O O O O O O O O O O
-14일부터 매주 1회 출항하는 신규 노선은 중국 상하이(上海), 광양, 부산, 미국 로스앤젤레스를 기항하는 경로로, 4000∼6000TEU(1TEU는 약 6m짜리 컨테이너 1개 분)급 컨테이너선 5척으로 운영되+ㄴ다 .	O O O O O O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O
-그 외 서비스산업 육성 등 노 대통령의 고민이 담기 +ㄴ 많은 정책들도 부정하었다 .	O O O O O PER-B O O O O O O O O
-보호구역 내 차량 제한속도를 현시 속 30㎞에서 20㎞로 강화하는 방안도 추진되 +ㄴ다 .	O O O O O O O O O O O O O
+현재 아랄해 의 평균 염도 는 ℓ 당 18 g 으로 보통 바닷물 의 2 배 수준 이 다 .	O LOC-B O O O O O O O O O O O O O O O O O O
+황 회장 은 “ 국내 에서 금융 의 골드만삭스 가 나오 지 않 는 것 도 균형 잡힌 운동장 이 선행되 지 않 았 기 때문 ” 이 라며 “ 증권사 에 기업 지급 결제 를 허용해 주 는 등 불합리한 관행 개선 이 필요하 다 ” 고 말 했 다 .	PER-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 슈틸리케 감독 은 연휴 마지막 날 인 29 일 에 는 2018 러시아 월드컵 아시아 지역 2 차 예선 조별 리그 ( G 조 ) 경기 에 나설 대표 팀 명단 을 발표한다 .	O O PER-B O O O O O O DAT-B DAT-I O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+최 하위 ( 12 위 ) 대전 은 광주 방문 경기 에서 2 - 1 로 승리하 며 18 경기 만 에 2 승 째 를 신고 했 다 .	O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O
+해군 기지 건설 을 놓 고 제주 강정마을 에서 벌어진 공권력 과 의 대치 , 지역 사회 분열 등 이 재연되 지 않 게 정부 가 주민 들 을 사전 에 설득하 고 적절한 보상 방안 도 강구할 필요 가 있 다 .	O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+합병 이 성사되 면 AT & T 는 타임워너 산하 워너브러더스 의 영화 ‘ 해리포터 ’ 시리즈 와 HBO TV 드라마 ‘ 왕좌 의 게임 ’ 등 과 같 은 인기 상품 을 확보하 게 된다 .	O O O O ORG-B ORG-I ORG-I O ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+구글 플레이 를 이용하 는 고객 들 이 게임 과 같 은 콘텐츠 를 구매할 때 요금 청구 할인 이나 쿠폰 등 의 혜택 을 제공하 는 애플리케이션 ( 이하 앱 ) 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조타 “ 결혼 일찍 하 고 싶 었 다 … 아내 손 에 물 안 묻히 고 싶 어 ”	PER-B O O O O O O O O O O O O O O O O O O O
+경기 김포시 감정동 의 ‘ 한강센트럴자이 1 차 ’ 의 경우 7 월 에 만 분양 권 거래 가 53 건 이뤄졌 지만 11 월 에 는 19 건 에 불과 했 다 .	LOC-B LOC-I LOC-B O O LOC-B LOC-I LOC-I O O O DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+14 일 부터 매주 1 회 출항하 는 신규 노선 은 중국 상하이 ( 上海 ) , 광양 , 부산 , 미국 로스앤젤레스 를 기항하 는 경로 로 , 4000 ∼ 6000 TEU ( 1 TEU 는 약 6 m 짜리 컨테이너 1 개 분 ) 급 컨테이너선 5 척 으로 운영된다 .	DAT-B DAT-I O O O O O O O O O LOC-B LOC-I O LOC-B O O LOC-B O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 외 서비스산업 육성 등 노 대통령 의 고민 이 담긴 많 은 정책 들 도 부정 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O
+보호 구역 내 차량 제한 속도 를 현 시속 30 ㎞ 에서 20 ㎞ 로 강화하 는 방안 도 추진된다 .	O O O O O O O O O O O O O O O O O O O O O

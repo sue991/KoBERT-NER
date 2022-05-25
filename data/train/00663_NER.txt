@@ -1,15 +1,15 @@
-한편, 이수근은 30일 첫 방송되+ㄴ 케이블 채널XTM ‘타임아웃’에 출연하+여한강 섬 투어 레이스를 펼치었다 .	O PER-B O O O O ORG-B O LOC-B O O O O O
-이날 방송에서 이수근은 “자전거로는 어디든가+ㄹ 수 있다”며 “그러나 나+ㄴ 개인적으로 추위를 싫어하기 때문에 스포츠카를 타겠다”며 고급 스포츠카를 선택하였다 .	O O PER-B O O O O O O O O O O O O O O O O
-이에 가수 은지원과 카레이서 유경욱은 “사기꾼이냐?양 아치+이냐?” +이라며 반발하였다 .	O O PER-B O PER-B O O O O O
-상대 측 어머니가 온라인 커뮤니티(네이트 판 포털 사이트, 상위 1% 커뮤니티 회원 수 약 38만명, 스사 사회원 수 약 33만명)에게재하+ㄴ글과 댓글 그리고 학교폭력위원회의 조사 과정, 단체 카카오톡 내용, 학교폭력 신고 상담센터(117) 상담 결과 등의 정황들을 살펴보면, 지금까지 알려지+ㄴ 내용과 달리 거짓으로 꾸미+어지+ㄴ글들로 여론을 조성하고 모의 또는 계획 하+ㄴ 내용들이 담기 +어지+어 있다는 것을 알+ㄹ 수 있었습니다 .	O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O ORG-B O O O O O O ORG-B O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
-이날 3위는 배우 성유리가 차지하였다 .	O O O PER-B O O
-연사 기능이 존재하+ㄴ다면 완전히 다른 게임이 되죠. 마치 칼질이 아니라 전동드릴을 들고 다니는 것처럼 달라지거든요. .	O O O O O O O O O O LOC-B O O O O O
-5·18 기념재단은 미국 정부 문서 파일에는 일부 내용이 지우어 +지었지만 미 대사관이 건네+ㄴ 자료에는 개인정보를 제외하고는 대부분 기재되 +어 있다고 설명하였다 .	ORG-B ORG-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-기존 문제에 관련되 +ㄴ 개념을 추가 하+여보기를 하나 더 만들거나 일부러 오답을 유도하는 함정을 고민하면서 선택지를 바꾸+어보기도 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-도심 유휴지와 국·공유지에 산림공원 195ha, 명상(학교) 숲 81곳 등을 조성하+ㄹ 계획이다 .	O O O O O O O O O O O O
-모비스는 52.96%, 오리온은 50.98%의 높은 지지율을 보이+ㄴ 반면 LG와 SK는 각각 15.22%와 21.81%에 그치었다 .	ORG-B O ORG-B O O O O O ORG-B ORG-B O O O O O
-‘지아지아(JiaJ ia)’가 16일(현지시간) 숨지었다고 영국 BBC가 보도하였다 .	PER-I O O O ORG-B ORG-I O O
-BBC에 따르면 올해 38살의 암컷판다이+ㄴ ‘지아지아’는 1978년 중국 쓰촨성에서 태어나 +아1999년부터 홍콩 테마파크 ‘오션파크’에서 살았다 .	ORG-B O O O O O O LOC-B LOC-B O O LOC-B O O O O
-판다의 평균 수명은 20살 안팎으로 지아지아는 사람 나이로 100살에 해당 하+ㄴ다고 BBC는 전하였다 .	O O O O O O O O O O O ORG-B O O
-잇어서 변호사는 한국어로 “오늘 헌정 이래 최고로 많은 인파가 모이었다”며 “이 자리에 있는 모든 애국시민들에게 감사드리+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O
-한전은 2014년 흑자로 돌아서+ㄴ이후 지난해 11조원이 넘는 사상 최대 이익을 거두었다 .	ORG-B O O O O MNY-B O O O O O O
+한편 , 이수근 은 30 일 첫 방송된 케이블 채널 XTM ‘ 타임아웃 ’ 에 출연해 한강 섬 투어 레이스 를 펼 쳤 다 .	O O PER-B O DAT-B DAT-I O O O O ORG-B O O O O O LOC-B O O O O O O O O
+이날 방송 에서 이수근 은 “ 자전거 로 는 어디 든 갈 수 있 다 ” 며 “ 그러나 난 개인적 으로 추위 를 싫어하 기 때문 에 스포츠카 를 타 겠 다 ” 며 고급 스포츠카 를 선택 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 가수 은지원 과 카레이서 유경욱 은 “ 사기꾼 이 냐 ? 양아치 냐 ? ” 라며 반발 했 다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O O O
+상대측 어머니 가 온라인 커뮤니티 ( 네이트 판 포털 사이트 , 상위 1 % 커뮤니티 회원 수 약 38 만 명 , 스 사사 회원 수 약 33 만 명 ) 에 게재한 글 과 댓글 그리고 학교 폭력 위원회 의 조사 과정 , 단체 카카오톡 내용 , 학교 폭력 신고 상담 센터 ( 117 ) 상담 결과 등 의 정황 들 을 살펴보 면 , 지금 까지 알려진 내용 과 달리 거짓 으로 꾸며 진 글 들 로 여론 을 조성하 고 모 의 또는 계획한 내용 들 이 담겨 져 있 다는 것 을 알 수 있 었 습니다 .	O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 3 위 는 배우 성유리 가 차지 했 다 .	O O O O O PER-B O O O O O
+연사 기능 이 존재한다면 완전히 다른 게임 이 되 죠 . 마치 칼질 이 아니 라 전동 드릴 을 들 고 다니 는 것 처럼 달라지 거든요 . .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O
+5 · 18 기념 재단 은 미국 정부 문서 파일 에 는 일부 내용 이 지 워 졌 지만 미 대사관 이 건넨 자료 에 는 개인 정보 를 제외하 고는 대부분 기재돼 있 다고 설명 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+기존 문제 에 관련된 개념 을 추가해 보 기 를 하나 더 만들 거나 일부러 오답 을 유도하 는 함정 을 고민하 면서 선택지 를 바꿔 보 기 도 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+도심 유휴지 와 국 · 공유지 에 산림 공원 195 ha , 명상 ( 학교 ) 숲 81 곳 등 을 조성할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+모비스 는 52.96 % , 오리온 은 50.98 % 의 높 은 지지율 을 보인 반면 LG 와 SK 는 각각 15.22 % 와 21.81 % 에 그 쳤 다 .	ORG-B O O O O ORG-B O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O
+‘ 지아 지아 ( Jia Jia ) ’ 가 16 일 ( 현지 시간 ) 숨 졌 다고 영국 BBC 가 보도 했 다 .	O PER-B PER-I O PER-B PER-I O O O DAT-B DAT-I O O O O O O O ORG-B ORG-I O O O O O
+BBC 에 따르 면 올해 38 살 의 암컷 판다 인 ‘ 지아 지아 ’ 는 1978 년 중국 쓰촨 성 에서 태어나 1999 년 부터 홍콩 테마파크 ‘ 오션 파크 ’ 에서 살 았 다 .	ORG-B O O O O O O O O O O O PER-B PER-I O O DAT-B DAT-I LOC-B LOC-B LOC-I O O DAT-B DAT-I O LOC-B O O O O O O O O O O
+판 다의 평균 수명 은 20 살 안팎 으로 지아 지아 는 사람 나이 로 100 살 에 해당한다고 BBC 는 전 했 다 .	O O O O O O O O O PER-B PER-I O O O O O O O O ORG-B O O O O O
+이 어 서 변호사 는 한국어 로 “ 오늘 헌정 이래 최고 로 많 은 인파 가 모 였 다 ” 며 “ 이 자리 에 있 는 모든 애국 시민 들 에게 감사 드린다 ” 고 말 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한전 은 2014 년 흑자 로 돌아선 이후 지난해 11 조 원 이 넘 는 사상 최대 이익 을 거 뒀 다 .	ORG-B O DAT-B DAT-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O

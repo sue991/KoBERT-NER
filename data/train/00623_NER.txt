@@ -1,11 +1,11 @@
-지하 1층∼지상 28층, 전용면적 74∼84m ², 18개동, 1520채 규모 +이다 .	O O O O O O O O O O O
-러닝타임 145분 동안 조명은 총 450번, 1분에 3.1번꼴로 바뀌+ㄴ다 .	O O O O O O O O O O
-또 합의 과정에는 국민연금 개혁에 대표성을 지니는 사람들이 들어가 +아있지 않았다 .	O O O ORG-B O O O O O O O O
-”(문형표 보건복지부 장관) “국민연금 보험료율(내는 돈) 인상 규모보다 소득대체율(받는 돈)을 얼마나 올리+ㄹ지를 먼저 발표하는 것+ㄴ 우선순위가 잘못 정하+여지+ㄴ 것이다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O
-하지만 채용공고의 92.6%가 ‘전 공무관’을 제시하+여대부분의 기업은 전공과 관계없이 직원을 채용하는 것으로 나타나 +았다 .	O O O O O O O O O O O O O O O
-변지성 잡코리아 홍보팀장은 “특정 전공자보다는 통섭적 이+ㄴ 인재를 우대하는 것이 최근 취업 트렌드”라고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O
-‘너를 기억하+여’ 서인국, 기억되찾으며 쓰러지+어…살인 암시 .	O O PER-B O O O O
-열병식이 있을 무렵 한국에서는 애국가를 만들 +ㄴ 안익태의 친일 논란이 또 일었다 .	O O O LOC-B O O O PER-B O O O O O
-이를 주도 하+ㄴ양동근은 “그런 것도 올스타전에서 보+ㄹ 수 있는 재미가 아니겠는가” +이라며 웃었다 .	O O PER-B O O O O O O O O O O O
-남성 보컬그룹 V.O. S도 원년 멤버의 재결성을 준비 중이다 .	O O ORG-B ORG-I O O O O O O
-현재 한 ­ 중 중형 항공기 개발사업에 참여 의사를 밝히+ㄴ 서방업체는 미국의 보잉과 맥도널드 더글러스(MD), 프랑스의 에어로스 페시알, 독일의 다사, 영국의 BAE사 등 5개 업체로 실사팀은 이들로부터 합작의향서를 받아 검토 하+ㄹ 계획이다 .	O ORG-B ORG-I ORG-I ORG-I O O O O O O ORG-B ORG-B ORG-B ORG-I ORG-B ORG-B ORG-I ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O
+지하 1 층 ∼ 지상 28 층 , 전용면적 74 ∼ 84 m ² , 18 개 동 , 1520 채 규모 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+러닝 타임 145 분 동안 조명 은 총 450 번 , 1 분 에 3.1 번 꼴 로 바뀐다 .	O O O O O O O O O O O O O O O O O O O O
+또 합의 과정 에 는 국민 연금 개혁 에 대표성 을 지니 는 사람 들 이 들어가 있 지 않 았 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+” ( 문형표 보건복지부 장관 ) “ 국민 연금 보험료율 ( 내 는 돈 ) 인상 규모 보다 소득 대체 율 ( 받 는 돈 ) 을 얼마나 올릴지 를 먼저 발표하 는 건 우선순위 가 잘못 정해 진 것 이 다 .	O O PER-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 채용 공고 의 92.6 % 가 ‘ 전공 무관 ’ 을 제시해 대부분 의 기업 은 전공 과 관계 없이 직원 을 채용하 는 것 으로 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+변지성 잡코리아 홍보 팀장 은 “ 특정 전공 자 보다 는 통섭 적 인 인재 를 우대하 는 것 이 최근 취업 트렌드 ” 라고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 너 를 기억해 ’ 서인국 , 기억 되찾 으며 쓰러져 … 살인 암시 ?	O O O O O PER-B O O O O O O O O O
+열병식 이 있 을 무렵 한국 에서 는 애국가 를 만든 안익태 의 친일 논란 이 또 일 었 다 .	O O O O O LOC-B O O O O O PER-B O O O O O O O O O
+이 를 주도한 양동근 은 “ 그런 것 도 올스타 전 에서 볼 수 있 는 재미 가 아니 겠 는가 ” 라며 웃 었 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+남성 보컬 그룹 V . O . S 도 원년 멤버 의 재 결성 을 준비 중 이 다 .	O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O
+현재 한 ­ 중 중형 항공기 개발 사업 에 참여 의사 를 밝힌 서방 업체 는 미국 의 보잉 과 맥도널드 더글러스 ( MD ) , 프랑스 의 에어로 스페시 알 , 독일 의 다사 , 영국 의 BAE 사 등 5 개 업체 로 실사 팀 은 이 들 로부터 합작 의향 서 를 받 아 검토할 계획 이 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O ORG-B O ORG-B O ORG-B ORG-I O O O O ORG-B O ORG-B ORG-I ORG-I O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O

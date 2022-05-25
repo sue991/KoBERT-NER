@@ -1,13 +1,13 @@
-빅데이터 전문 분석업체 다음소프트에 의뢰하+여2008년부터 2015년까지 소셜미디어(블로그)에 올라 오+ㄴ 7억여건의 문서를 분석하+ㄴ 결과 ‘엄마(어머니)’가 ‘무섭다’는 말의 연관 단어 순위 1위를 차지하였다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O
-그러나 9일 대전 한화전 12-1대승으로 연패를 끊은 뒤, 10일에는 신인투수들의 ‘깜짝 활약’에 힘입어 연승을 달리었다 .	O O O O O O O O O O O O O O O O
-택시운송사업의 발전에 관하+ㄴ 법률 시행령에 따르면 승차거부로 처음 적발되면 과태료 20만원, 2번째는 자격정지 30일과 과태료 40만원, 3번째는 ‘삼진아웃’으로 자격 취소에 과태료 60만원을 물어야 하+ㄴ다 .	O O O O O O O O O O MNY-B O O O O MNY-B O O O O O MNY-B O O O
-나이젤 호손이 미치+ㄴ 조지 3세를 연기하+여서 아카데미 남우주연상 후보에 오르았었다 .	PER-B PER-I O PER-B PER-I O ORG-B O O O O
-이날 이승우는 정지원 아나운서와 멋지 +ㄴ댄스를 펼치+ㄴ후정 아나운서에게 볼에 뽀뽀를 요구하는 세리머니를 펼치었다 .	O PER-B PER-B O O O PER-B O O O O O O O
-노자는 ‘천하의 어렵ㄴ 일은 반드시 쉽ㄴ일에서 생기고, 천하의 크+ㄴ일은 언제나 사소하+ㄴ일에서 시작되+ㄴ다(天下之難事必作於易天下之大事必作於細)’고+였다 .	PER-B O O O O O O O O O O O O
-한·중 간의 어려움도 작은 일에서 시작되+ㄴ다 .	ORG-B O O O O O O
-멘도자는 페이스북을 통하+ 여부산외대 교수와 CNN 외신기자를 지내+ㄴ 것으로 소개되었다 .	PER-B O O ORG-B O O O O O O O
-85년 저서 『미국의 정복: 타자의 문제(TheConquestofAmerica: TheQuestionoftheOther) 』에서 “미국 대륙 원주민들이 +ㄴ 인디언들은 유럽인들과 달리 ‘타자의식’이 결여되+어 있었기 때문에 그들의 현실 인식과 이성적 추론을 교란시키는 침략자에 맞서 +어스스로를 방어하+ㄹ 수 있는 능력이 없었다”는 결론을 내놓았다 .	O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지난해 12월 프랑스 일간지 르몽드와의 인터뷰에서는 프랑스 사회가 당면하+ㄴ 두 가지 어려움으로 테러의 위협과 함께 정부의 과잉 대응을 꼽은 다음 “중동의 한 도시를 체계적으로 폭격하는 것이 프랑스 성당에서 누구+이+ㄴ가의 목을 따는 것보다 덜야만 적이+ㄴ 것+이 아니다” +이라는 발언을 +였다 .	O O LOC-B O O O LOC-B O O O O O O O O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O O O O
-하지만 ‘프로듀사’ 마지막 회(90분 편성)는 본 내용만 무려 106분이 방영되었다 .	O O O O O O O O O O O
-이어 그는 제발 아내 한수민의 SNS를 기사화하지 말아달라고 부탁하였다 .	O O O O PER-B O O O O O
-단지 안에 2층 규모의 별동학습관을 짓는 점도 특징이다 .	O O O O O O O O O
+빅 데이터 전문 분석 업체 다음 소프트 에 의뢰해 2008 년 부터 2015 년 까지 소셜 미디어 ( 블로그 ) 에 올라온 7 억 여 건 의 문서 를 분석한 결과 ‘ 엄마 ( 어머니 ) ’ 가 ‘ 무섭 다 ’ 는 말 의 연관 단어 순위 1 위 를 차지 했 다 .	O O O O O ORG-B ORG-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 9 일 대전 한화 전 12 - 1 대승 으로 연패 를 끊 은 뒤 , 10 일 에 는 신인 투수 들 의 ‘ 깜짝 활약 ’ 에 힘입 어 연승 을 달 렸 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+택시 운송 사업 의 발전 에 관한 법률 시행령 에 따르 면 승차 거부 로 처음 적발되 면 과태료 20 만 원 , 2 번째 는 자격 정지 30 일 과 과태료 40 만 원 , 3 번째 는 ‘ 삼진 아웃 ’ 으로 자격 취소 에 과태료 60 만 원 을 물 어야 한다 .	O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+나이젤 호손 이 미친 조지 3 세 를 연기해서 아카데미 남우 주연 상 후보 에 올 랐었 다 .	PER-B PER-I O O PER-B PER-I PER-I O O ORG-B O O O O O O O O O
+이날 이승우 는 정지원 아나운서 와 멋진 댄스 를 펼친 후 정 아나운서 에게 볼 에 뽀뽀 를 요구하 는 세리머니 를 펼 쳤 다 .	O PER-B O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O
+노자 는 ‘ 천하 의 어려 운 일 은 반드시 쉬 운 일 에서 생기 고 , 천하 의 큰 일 은 언제나 사소한 일 에서 시작된다 ( 天下之難事必作於易 天下之大事必作於細 ) ’ 고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 · 중 간 의 어려움 도 작 은 일 에서 시작된다 .	ORG-B ORG-I ORG-I O O O O O O O O O O
+멘 도자 는 페이스북 을 통해 부산외대 교수 와 CNN 외신 기자 를 지낸 것 으로 소개 됐 다 .	PER-B PER-I O O O O ORG-B O O O O O O O O O O O O O
+85 년 저서 『 미국 의 정복 : 타자 의 문제 ( The Conquest of America : The Question of the Other ) 』 에서 “ 미국 대륙 원주민 들 인 인디언 들 은 유럽인 들 과 달리 ‘ 타자 의식 ’ 이 결여돼 있 었 기 때문 에 그 들 의 현실 인식 과 이성적 추론 을 교란 시키 는 침략자 에 맞서 스스로 를 방어할 수 있 는 능력 이 없 었 다 ” 는 결론 을 내놓 았 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 12 월 프랑스 일간지 르몽드 와 의 인터뷰 에서 는 프랑스 사회 가 당면한 두 가지 어려움 으로 테러 의 위협 과 함께 정부 의 과잉 대응 을 꼽 은 다음 “ 중동 의 한 도시 를 체계적 으로 폭격하 는 것 이 프랑스 성당 에서 누군가 의 목 을 따 는 것 보다 덜 야만적 인 게 아니 다 ” 라는 발언 을 했 다 .	O DAT-B DAT-I ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+하지만 ‘ 프로듀사 ’ 마지막 회 ( 90 분 편성 ) 는 본내용 만 무려 106 분 이 방영 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O
+이어 그 는 제발 아내 한수민 의 SNS 를 기사 화 하 지 말 아 달 라고 부탁 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O O
+단지 안 에 2 층 규모 의 별동 학습 관 을 짓 는 점 도 특징 이 다 .	O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-윤종신은 “MC보다는 이런 조사를 더 잘하는 사람”이라고 답하며 웃음을 자아내 +었다 .	PER-B O O O O O O O O O O O
-한 매체가 보도하+ㄴ ‘2015 연예인빌딩 부자 순위’에 따르면 1위 이수만, 2위 양현석에잇어 3위에 조재현이 오르았다 .	O O O O O O O O O PER-B O PER-B O PER-B O O
-런던의 작은 출판사 원월드에서 겨우 출간되었는데, 이 출판사는 2015년 ‘일곱 건의 살인에 대하+ㄴ 간략 하+ㄴ역사’에잇어 2년 연속 맨부커상 수상작을 내+ㄴ경사를 맞았다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O
-메르스 격리자 922명 급증, 격리 중 이+ㄴ 사람 총 6,508명… 퇴원자 총 19명 보건복지부는 메르스(중동호흡기질환) 확진환진자가 총 162명이 +ㄴ 것으로 밝히었다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O
-보건복지부는 17일 메르스 확진 현황을 통하+여, 메르스 확진자 총 162명, 현재 124명(77%)이 치료 중, 19명(12%) 퇴원, 19명(12%) 사망이라고 알리었다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-치료 중이+ㄴ 124명 환자 상태에 대하+여서는 안정적 106명(85%), 불안정 18명(15%)이며, 전일 대비 확진자 8명이 늘었으며, 퇴원자는 2명 증가+였다 .	O O O O O O O O O O O O O O O O O O O
-감염 유형으로는 병원 환자 76(47%), 가족/문병 58명(36%), 병원 관련 종사자 28명(17%)로 나타나 +았다 .	O O O O O O O O O O O O O O
-신규 확진자 8명 가운데 155번째, 156번째, 157번째 확진자는 5.26~5.29일 중 삼성서울병원 응급실을 내원하였고, 158번째 확진자는 5.27일 가족진료를 위하+여 삼성서울병원 응급실에 방문하였었다 .	O O O O O O O O O O ORG-B O O O O O O O ORG-B O O O
-59번째 확진자는 5.27~5.29일 15번째 확진자와 한림대 동탄성심병원 같은 병실에 입원하였고, 160번째 확진자는 6.5일 76번째 확진자가 강동경희대학교의대병원 응급실 내원시 응급실 의료진이었으며, 161번째 확진자는 5.27일 17번째 확진자와 평택 굿모닝병원 같은 병동에 입원 하+ㄴ 환자이다 .	O O O O O ORG-B ORG-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-162번째 확진자는 삼성서울병원 의료진으로 세부사항에 대하+여서는 현재 역학조사 진행 중이다 .	O O ORG-B O O O O O O O O
-기존 확진자 중 4번째(여, 46세), 12번째(여, 49세) 확진자 등 2명이 6.16일 퇴원하여 전체 퇴원자는 19명으로 늘어나 +았다 .	O O O O O O O O O O O O O O O O O O
-이들은 항생제 및 항바이러스제 투여, 대증요법 등을 통하+ㄴ 치료를 받아 +오았고, 발열 등 호흡기 증상이 호전되어 2차례 메르스 검사를 실시하+ㄴ 결과 모두 음성으로 나타나 +아완치 판정을 받았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-현재까지 퇴원자 총 19명 중 남성은 11명(58%), 여성은 8명(42%)으로 나타나 +았으며, 연령별로는 40대 10명(53%), 50대 3명(16%), 20대, 60대, 70대가 각각 2명(11%)으로 집계되었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-확진자 162명을 감염 유형별로 분류하+여보면, 병원을 내원 하+ㄴ 환자가 76명(47%)으로 가장 많았고, 환자 가족이나 가족 이외의 문병 등 방문객이 58명(36%), 의료진 등 병원 관련 종사자가 28명(17%)으로 각각 뒤를 잇었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-확진자들의 성별은 남성이 99명(61%), 여성이 63명(39%)이었으며, 연령은 50대와 60대가 각각 33명(20%)으로 가장 많았고, 40대 30명(19%), 70대 26명(16%), 30대 23명(14%) 등의 순이었다 .	O O O O O O O O O O O O O O O O O O O O O O
+윤종신 은 “ MC 보다 는 이런 조사 를 더 잘하 는 사람 ” 이라고 답하 며 웃음 을 자아냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+한 매체 가 보도한 ‘ 2015 연예인 빌딩 부자 순위 ’ 에 따르 면 1 위 이수만 , 2 위 양현석 에 이 어 3 위 에 조재현 이 올 랐 다 .	O O O O O DAT-B O O O O O O O O O O PER-B O O O PER-B O O O O O O PER-B O O O O O
+런던 의 작 은 출판사 원 월드 에서 겨우 출간 됐 는데 , 이 출판사 는 2015 년 ‘ 일곱 건 의 살인 에 대한 간략한 역사 ’ 에 이 어 2 년 연속 맨 부커 상 수상 작 을 낸 경사 를 맞 았 다 .	ORG-B O O O O ORG-B ORG-I O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+메르스 격리 자 922 명 급증 , 격리 중 인 사람 총 6,508 명 … 퇴원 자 총 19 명 보건복지부 는 메르스 ( 중동 호흡기 질환 ) 확진 환 진자 가 총 162 명 인 것 으로 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+보건복지부 는 17 일 메르스 확진 현황 을 통해 , 메르스 확진 자 총 162 명 , 현재 124 명 ( 77 % ) 이 치료 중 , 19 명 ( 12 % ) 퇴원 , 19 명 ( 12 % ) 사망 이 라고 알 렸 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+치료 중 인 124 명 환자 상태 에 대해서 는 안정적 106 명 ( 85 % ) , 불안정 18 명 ( 15 % ) 이 며 , 전일 대비 확진 자 8 명 이 늘 었 으며 , 퇴원 자 는 2 명 증가 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+감염 유형 으로 는 병원 환자 76 ( 47 % ) , 가족 / 문병 58 명 ( 36 % ) , 병원 관련 종사자 28 명 ( 17 % ) 로 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신규 확진 자 8 명 가운데 155 번째 , 156 번째 , 157 번째 확진 자 는 5.26 ~ 5.29 일 중 삼성서울병원 응급실 을 내원하 였 고 , 158 번째 확진 자 는 5.27 일 가족 진료 를 위해 삼성서울병원 응급실 에 방문 했었 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O DAT-B DAT-I O O O O ORG-B O O O O O O
+59 번째 확진 자 는 5.27 ~ 5.29 일 15 번째 확진 자 와 한림대 동탄 성심 병원 같 은 병실 에 입원하 였 고 , 160 번째 확진 자 는 6.5 일 76 번째 확진 자 가 강동 경희대학교 의대 병원 응급실 내원 시 응급실 의료진 이 었 으며 , 161 번째 확진 자 는 5.27 일 17 번째 확진 자 와 평택굿모닝병원 같 은 병동 에 입원한 환자 이 다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O ORG-B O O O O O O O O O
+162 번째 확진 자 는 삼성서울병원 의료진 으로 세부 사항 에 대해서 는 현재 역학조사 진행 중 이 다 .	O O O O O ORG-B O O O O O O O O O O O O O O
+기존 확진 자 중 4 번째 ( 여 , 46 세 ) , 12 번째 ( 여 , 49 세 ) 확진 자 등 2 명 이 6.16 일 퇴원하 여 전체 퇴원 자 는 19 명 으로 늘어났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+이 들 은 항생제 및 항바이러스제 투여 , 대증 요법 등 을 통한 치료 를 받 아 왔 고 , 발열 등 호흡기 증상 이 호전되 어 2 차례 메르스 검사 를 실시한 결과 모두 음성 으로 나타나 완치 판정 을 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 까지 퇴원 자 총 19 명 중 남성 은 11 명 ( 58 % ) , 여성 은 8 명 ( 42 % ) 으로 나타났 으며 , 연령 별 로 는 40 대 10 명 ( 53 % ) , 50 대 3 명 ( 16 % ) , 20 대 , 60 대 , 70 대 가 각각 2 명 ( 11 % ) 으로 집계 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+확진 자 162 명 을 감염 유형 별 로 분류해 보 면 , 병원 을 내원 한 환자 가 76 명 ( 47 % ) 으로 가장 많 았 고 , 환자 가족 이나 가족 이외 의 문병 등 방문객 이 58 명 ( 36 % ) , 의료진 등 병원 관련 종사자 가 28 명 ( 17 % ) 으로 각각 뒤 를 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+확진 자 들 의 성별 은 남성 이 99 명 ( 61 % ) , 여성 이 63 명 ( 39 % ) 이 었 으며 , 연령 은 50 대 와 60 대 가 각각 33 명 ( 20 % ) 으로 가장 많 았 고 , 40 대 30 명 ( 19 % ) , 70 대 26 명 ( 16 % ) , 30 대 23 명 ( 14 % ) 등 의 순 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

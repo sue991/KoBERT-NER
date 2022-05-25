@@ -1,14 +1,14 @@
-김홍민 북스피어 대표는 “딱 1쇄만 찍기 때문에 독자들이 구하기 어렵다는 반응”이라며 “‘르지라시’를 보기 위 하+여책을 구매 하+ㄴ다는 독자들까지 생기었다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O
-같은 날 정 국장은 중국 환추스바오와의 인터뷰에서 "우리는 평화를 기구(祈求)하지 않을 것"이라며 추가 도발 가능성을 내비치었다 .	O O PER-B O ORG-B ORG-I O O O O O O O O O O O
-드롭탑, 커피와 잘 어울리는 식사 대용 신메뉴 3종 출 .	ORG-B O O O O O O O O O
-8일 보건복지부 중앙메르스대책본부는 메르스 확진 환자가 경유 하+ㄴ병원 5곳을 추가로 공개하였다 .	O ORG-B ORG-I ORG-I O O O O O O O O
-1988년 서울 올림픽에 소련을 비롯하+ㄴ 공산권 국가가 대거 참가 하+ㄴ 것을 계기로 한국과 이들 나라의 문화교류에 물꼬가 트이자 이듬해 고려극장도 창단 57년 만에 고국나들이에 나서 +었다 .	O O O ORG-B O O O O O O O O ORG-B O O O O O O ORG-B O O O O O O O
-이 병원을 찾는 산모 10명 중 4명은 입원기간 내내 머리를 안감는다고 하+ㄴ다 .	O O O O O O O O O O O O O
-한국의 고고도미사일방어(THAAD ㆍ 사드) 체계 배치에 따르+ㄴ 중국의 경제보복에도 항공 ㆍ 여행주는 꿋꿋하다 .	ORG-B O O O O O O ORG-B O O O O O O
-신성통상의 탑터+이(TOPTEN) 이 론칭 3주년을 맞이하 +여 ‘3주년 기념 특가’ 프로모션을 진행하고 있다 .	ORG-B O O O O O O O O O O O O O
-[인물동정] 신용하 독도학회·독도연구 보전협회장 .	O PER-B O O O
-그러나 이날 방송에서 엠버는 자신의 집을 게스트하우스로 활용하+ㄴ다며 언제든지 친구들이 자고 가+ㄹ 수 있도록 집을 청소하고 강아지 털을 다듬어주는 등 살림꾼의 면모를 보이어 천상여자 엠버의 ‘반전매력’을 보이기도 +였다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O
-새정치민주연합은 청와대와 한편에서는 입장이 +었다 .	ORG-B ORG-B O O O O
-서울시는 이 같은 내용을 기본으로 2018년 4월 예장자락 재생사업을 마무리 짓고 일반에 개방하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O O O
-1945년 해방 이후 귀국하였다 .	O O O O O
-중앙수비수레 안드로보 누치가 수비지역에서 한 번에 전방으로 길게 공을 보내고 이를 엠마누엘레자 케리니가 잡은 뒤 침착하게 오른발로 마무리 슈팅까지 잇어가면서 선제득점을 올리었다 .	PER-I PER-I PER-I O O O O O O O O PER-B PER-I O O O O O O O O O O
+김홍민 북 스피어 대표 는 “ 딱 1 쇄 만 찍 기 때문 에 독자 들 이 구하 기 어렵 다는 반응 ” 이 라며 “ ‘ 르 지라시 ’ 를 보 기 위해 책 을 구매한다는 독자 들 까지 생 겼 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+같 은 날 정 국장 은 중국 환추 스바 오 와 의 인터뷰 에서 " 우리 는 평화 를 기구 ( 祈求 ) 하 지 않 을 것 " 이 라며 추가 도발 가능성 을 내비 쳤 다 .	O O O PER-B O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+드롭 탑 , 커피 와 잘 어울리 는 식사 대용 신 메뉴 3 종 출시	ORG-B ORG-I O O O O O O O O O O O O O
+8 일 보건복지부 중앙 메르스 대책 본부 는 메르스 확진 환자 가 경유한 병원 5 곳 을 추가 로 공개 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O
+1988 년 서울 올림픽 에 소련 을 비롯한 공산권 국가 가 대거 참가한 것 을 계기 로 한국 과 이 들 나라 의 문화 교류 에 물꼬 가 트이 자 이듬해 고려 극장 도 창단 57 년 만 에 고국 나들이 에 나섰 다 .	DAT-B DAT-I O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+이 병원 을 찾 는 산모 10 명 중 4 명 은 입원 기간 내내 머리 를 안 감 는다고 한다 .	O O O O O O O O O O O O O O O O O O O O O O
+한국 의 고고도 미사일 방어 ( THAAD ㆍ 사드 ) 체계 배치 에 따른 중국 의 경제 보복 에 도 항공 ㆍ 여행 주 는 꿋꿋하 다 .	ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+신성 통상 의 탑 텐 ( TOPTEN ) 이 론칭 3 주년 을 맞이해 ‘ 3 주년 기념 특가 ’ 프로모션 을 진행하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 인물 동정 ] 신용하 독도 학회 · 독도 연구 보전 협회 장 外	O O O O PER-B O O O O O O O O O
+그러나 이날 방송 에서 엠버 는 자신 의 집 을 게스트 하우스 로 활용한다며 언제 든지 친구 들 이 자 고 갈 수 있 도록 집 을 청소하 고 강아지 털 을 다듬 어 주 는 등 살림꾼 의 면모 를 보 여 천상 여자 엠버 의 ‘ 반전 매력 ’ 을 보이 기 도 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+새정치민주연합 은 청와대 와 한편 에 서 는 입장 이 됐 다 .	ORG-B O ORG-B O O O O O O O O O O
+서울시 는 이 같 은 내용 을 기본 으로 2018 년 4 월 예장 자락 재생 사업 을 마무리 짓 고 일반 에 개방할 예정 이 다 .	ORG-B O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+1945 년 해방 이후 귀국 했 다 .	DAT-B DAT-I O O O O O O
+중앙 수비수 레안드로 보 누치 가 수비 지역 에서 한 번 에 전방 으로 길 게 공 을 보내 고 이 를 엠마누엘 레 자케 리니 가 잡 은 뒤 침착하 게 오른발 로 마무리 슈팅 까지 이 어 가 면서 선제 득점 을 올 렸 다 .	O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O

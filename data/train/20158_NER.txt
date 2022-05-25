@@ -1,14 +1,14 @@
-한 팀에서 한꺼번에 6명을 주+ㄴ 것은 이때가 유일하였다 .	O O O O O O O O O
-역대 단일 트레이드에서 가장 많은 선수가 오가+ㄴ 것+ㄴ 2015년 롯데와 kt의 5대4 트레이드로, 총 9명이 엮이+ㄴ 거래+이었다 .	O O O O O O O O O ORG-B ORG-B O O O O O O O
-실수가 용납되지 않은 상황이 발생하였지만 꼭 러시아로가+ㄹ 수 있도록 하겠다”고 전하였다 .	O O O O O O LOC-B O O O O O
-삼성물산은 다음달 17일 임시주총을 열어 제일모직과의 합병을 결의 하+ㄹ 예정이었는데 이를 법원이 막아달라는 주장이다 .	ORG-B O O O O ORG-B O O O O O O O O O
-하지만 허가를 기다리었던 국내 은행 3곳(국민, 신한, 기업)은 모두 탈락하였다 .	O O O O O ORG-B ORG-B ORG-B O O O
-에프가 살아 있었다고 하+ 여도 함께 당신을 만나 +ㄹ수는 없었을 것+이에요 .	PER-B O O O O O O O O O O O
-또 운전자의 운행 횟수에 따르 아부담금을 매기는 싱가포르의 사례도 참고 하+ㄹ 것이라고 밝히었다 .	O O O O O O O ORG-B O O O O O O
-대한항공 조종사, 11년 만에 파업… 22~26일까지 84편 결 .	ORG-B O O O O O O O O
-SK그룹 측은 “주요 계열사 대표들은 이미 지난해 교체가 이루어 지+ㄴ 상태”라며 “업종별로 경쟁이 치열 하+ㄴ 상황에서 계열사 대표를 급하게 바꾸기보다 +ㄴ이들이 가지+ㄴ 노하우를 적극 활용하자는 것+이 최 회장의 생각”이라고 설명하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O
-지난해 여름에는 코넌도일이 쓰지 않은 또 다른 ‘셜록 홈스’ 시리즈 이+ㄴ ‘셜록 홈스: 모리어티의 죽음’이 나오았고, 최근에는 드라마 ‘셜록’의 공식 가이드북이 +ㄴ ‘셜록: 크로니클’이 출간되는 등 관련 책도 여럿 나 오았다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-힐링캠프 설현. ‘힐링캠프’ 설현, 깜짝 전화 연결“과거에 +ㄴ 손호영이 좋았다” … 지금은 누구? ‘힐링캠프’ 설현이 깜짝 전화 연결로 윤계상에 대하+ㄴ 호감을 드러내 +었다 .	O PER-B O PER-B O O O O PER-B O O O O O PER-B O O O PER-B O O O O O
-7일 방송되+ㄴ SBS ‘힐링캠프-500인’에서는 국민그룹god가 13년 만에 완전체 게스트로 출연하였다 .	O O O O ORG-B O O O O O O
-이날 방송에서 god멤버 데니안이 “요즘에 설현 씨가 예쁘더라”고 말하였고, 이어 걸그룹 AOA 멤버 설현이 패+ㄴ 자격으로 god와 전화통화를 +였다 .	O O ORG-B PER-B O PER-B O O O O O ORG-B O PER-B O O ORG-B O O O
-설현은 “6살 차이 나는 언니가 있다”며 “언니가 god 선배님들 팬이라 언니 따르 아노래 듣다가 팬이 되+어 언니와 맨날 싸우었다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O
+한 팀 에서 한꺼번에 6 명 을 준 것 은 이때 가 유일 했 다 .	O O O O O O O O O O O O O O O O
+역대 단일 트레이드 에서 가장 많 은 선수 가 오간 건 2015 년 롯데 와 kt 의 5 대 4 트레이드 로 , 총 9 명 이 엮인 거래 였 다 .	O O O O O O O O O O O DAT-B DAT-I ORG-B O ORG-B O O O O O O O O O O O O O O O O
+실수 가 용납되 지 않 은 상황 이 발생 했 지만 꼭 러시아 로 갈 수 있 도록 하 겠 다 ” 고 전 했 다 .	O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+삼성물산 은 다음 달 17 일 임시 주총 을 열 어 제일모직 과 의 합병 을 결의할 예정 이 었 는데 이 를 법원 이 막 아 달 라는 주장 이 다 .	ORG-B O O O DAT-B DAT-I O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+하지만 허가 를 기다 렸 던 국내 은행 3 곳 ( 국민 , 신한 , 기업 ) 은 모두 탈락 했 다 .	O O O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O
+에프 가 살 아 있 었 다 고 해도 함께 당신 을 만날 수 는 없 었 을 거 예요 ,	PER-B O O O O O O O O O O O O O O O O O O O O
+또 운전자 의 운행 횟수 에 따 라 부담금 을 매기 는 싱가포르 의 사례 도 참고할 것 이 라고 밝 혔 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+대한항공 조종사 , 11 년 만 에 파업 … 22 ~ 26 일 까지 84 편 결항	ORG-B O O O O O O O O O O O O O O O O
+SK 그룹 측 은 “ 주요 계열사 대표 들 은 이미 지난해 교체 가 이뤄진 상태 ” 라며 “ 업종 별 로 경쟁 이 치열한 상황 에서 계열사 대표 를 급하 게 바꾸 기 보단 이 들 이 가진 노하우 를 적극 활용하 자는 게 최 회장 의 생각 ” 이라고 설명 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+지난해 여름 에 는 코넌 도일 이 쓰 지 않 은 또 다른 ‘ 셜록 홈스 ’ 시리즈 인 ‘ 셜록 홈스 : 모리어 티 의 죽음 ’ 이 나 왔 고 , 최근 에 는 드라마 ‘ 셜록 ’ 의 공식 가이드북 인 ‘ 셜록 : 크로니클 ’ 이 출간되 는 등 관련 책 도 여럿 나 왔 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+힐링 캠프 설현 . ‘ 힐링 캠프 ’ 설현 , 깜짝 전화 연결 “ 과거 엔 손호영 이 좋 았 다 ” … 지금 은 누구 ? ‘ 힐링 캠프 ’ 설현 이 깜짝 전화 연결 로 윤계상 에 대한 호감 을 드러냈 다 .	O O PER-B O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O
+7 일 방송된 SBS ‘ 힐링 캠프 - 500 인 ’ 에서 는 국민 그룹 god 가 13 년 만 에 완전체 게스트 로 출연 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+이날 방송 에서 god 멤버 데니안 이 “ 요즘 에 설현 씨 가 예쁘 더라 ” 고 말 했 고 , 이어 걸그룹 AOA 멤버 설현 이 팬 자격 으로 god 와 전화 통화 를 했 다 .	O O O ORG-B O PER-B O O O O PER-B O O O O O O O O O O O O ORG-B O PER-B O O O O ORG-B O O O O O O O
+설현 은 “ 6 살 차이나 는 언니 가 있 다 ” 며 “ 언니 가 god 선배 님 들 팬 이 라 언니 따 라 노래 듣 다가 팬 이 돼 언니 와 맨날 싸 웠 다 .	PER-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O

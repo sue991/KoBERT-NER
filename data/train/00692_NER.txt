@@ -1,14 +1,14 @@
-지난해까지 아파트 입주자대표로 활동하+여오+ㄴ A씨는 2014년 9월~2015년 12월 공동관리계좌에서 자기 딸의 계좌로 1억원을 송금하거나 인출하는 등 11차례에 걸치+어 1억3800여만원을 빼내+어쓰+ㄴ 혐의+이다 .	O O O O PER-B MNY-B MNY-B MNY-B O O O O MNY-B O O O MNY-B O MNY-B O O O
-A씨는 횡령금 가운데 1억여원은 딸의 결혼비용과 생활비 등에 사용하+ㄴ 것으로 밝혀지었다 .	PER-B O O MNY-B O O O O O O O O
-경찰은 “몇 백 명이 거주하는 소규모 아파트는 관리체계가 허술하다는 점을 노리+ㄴ 범행”이라고 말하였다 .	O O O O O O O O O O O O O O
-한국을 찾았던 신영수 세계보건기구(WHO) 서태평양 지역 사무처장은 “한국이 보건의료 분야에서 새롭ㄴ 정책이나 제도를 마련하 +ㄹ 때마 .	ORG-B O PER-B ORG-B O O O ORG-B O O O O O O O O O
-단순히 제품만 공급하는 것이 아니+ㄴ, 통상 2년 넘게 실험과 임상단계를 거치+어 개발하+ㄴ 치료 프로그램을 함께 제공 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-한때 3위 +이었던 전남은 9위로 시즌을 마치었다 .	O O O ORG-B O O O O
-대형 플래그십 스토어 오픈에잇어 미국, 캐나다 지역의 고급 백화점 등 신규 유통채널도 적극 확대하고 있다 .	O O O O LOC-B LOC-B O O O O O O O O O O
-무학의 ‘좋은데이’가 2016 고객 사랑 브랜드 대상 소주 부문 대상에 오르았다 .	ORG-B O O O O O O O O O O O
-19일 밀워키와의 홈경기 1회 무사 1·2루에서 때리+ㄴ 내야 안타가 유격수 실책으로 정정되 +ㄴ 것이다 .	O ORG-B O O O O O O O O O O O O O
-한미오메가는 고중성지방 혈증환자이면서 흡연이나 고혈압, 당뇨, 관상동맥질환에 대하+ㄴ 가족력, 45세 이상의 남성 등 요인에 해당하면 보험 적용을 받아 복용 하+ㄹ 수 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-선수들 사이에서 “훈련장 옆을 지나가는 개가 부럽 ㄹ 정도” +이라는 말이 나 오+ㄹ 정도로 혹독하+ㄴ 훈련을 실시하+ㄴ위 감독이지만 임영희는 이를 참아내며 체력과 기술을 키우었다 .	O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O
-결혼정보회사 듀오에서 미혼남녀의 데이트에 관하+ㄴ 이색 보고서를 26일 발표하였다 .	O ORG-B O O O O O O O O
-새싹보리는 칼슘 함량이 우유의 4.5배, 철분이 시금치의 16배, 칼륨이 사과의 20배, 식이섬유가 고구마의 20배에 이르+ㄴ다 .	O O O O O O O O O O O O O O O O
-옥당골다원의 보리순차는 농약과 비료를 전혀 쓰지 않고 재배하+ㄴ보리의 어리+ㄴ순을 베어 녹차처럼 덖었다 .	ORG-B O O O O O O O O O O O O
+지난해 까지 아파트 입주자 대표 로 활동해 온 A 씨 는 2014 년 9 월 ~ 2015 년 12 월 공동 관리 계좌 에서 자기 딸 의 계좌 로 1 억 원 을 송금하 거나 인출하 는 등 11 차례 에 걸쳐 1 억 3800 여 만 원 을 빼내 쓴 혐의 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O
+A 씨 는 횡령 금 가운데 1 억 여 원 은 딸 의 결혼 비용 과 생활비 등 에 사용한 것 으로 밝혀 졌 다 .	PER-B O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O
+경찰 은 “ 몇 백 명 이 거주하 는 소규모 아파트 는 관리 체계 가 허술하 다는 점 을 노린 범행 ” 이라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 을 찾 았 던 신영수 세계보건기구 ( WHO ) 서태평양 지역 사무처 장 은 “ 한국 이 보건 의료 분야 에서 새로 운 정책 이나 제도 를 마련할 때 마다	ORG-B O O O O PER-B ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O
+단순히 제품 만 공급하 는 것 이 아닌 , 통상 2 년 넘 게 실험 과 임상 단계 를 거쳐 개발한 치료 프로그램 을 함께 제공한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한때 3 위 였 던 전남 은 9 위 로 시즌 을 마 쳤 다 .	O O O O O ORG-B O O O O O O O O O O
+대형 플래그십 스토어 오픈 에 이 어 미국 , 캐나다 지역 의 고급 백화점 등 신규 유통 채널 도 적극 확대하 고 있 다 .	O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O
+무학 의 ‘ 좋은데이 ’ 가 2016 고객 사랑 브랜드 대상 소주 부문 대상 에 올 랐 다 .	ORG-B O O O O O DAT-B O O O O O O O O O O O O
+19 일 밀워키 와 의 홈 경기 1 회 무사 1 · 2 루 에서 때린 내야 안타 가 유격수 실책 으로 정정된 것 이 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+한미 오메가 는 고중성 지방혈증 환자 이 면서 흡연 이나 고혈압 , 당뇨 , 관상 동맥 질환 에 대한 가족력 , 45 세 이상 의 남성 등 요인 에 해당하 면 보험 적용 을 받 아 복용할 수 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+선수 들 사이 에서 “ 훈련장 옆 을 지나가 는 개 가 부러 울 정도 ” 라는 말 이 나올 정도 로 혹독한 훈련 을 실시한 위 감독 이 지만 임영희 는 이 를 참 아 내 며 체력 과 기술 을 키 웠 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O
+결혼 정보 회사 듀오 에서 미혼 남녀 의 데이트 에 관한 이색 보고서 를 26 일 발표 했 다 .	O O O ORG-B O O O O O O O O O O DAT-B DAT-I O O O O
+새싹 보리 는 칼슘 함량 이 우유 의 4.5 배 , 철분 이 시금치 의 16 배 , 칼륨 이 사과 의 20 배 , 식이 섬유 가 고구마 의 20 배 에 이른다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+옥당골 다원 의 보리 순 차 는 농약 과 비료 를 전혀 쓰 지 않 고 재배한 보리 의 어린 순 을 베 어 녹차 처럼 덖 었 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O

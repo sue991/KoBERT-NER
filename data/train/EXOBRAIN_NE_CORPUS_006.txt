@@ -1,459 +1,459 @@
-반면 한국을 이기+ㄴ 일본은 2승 1패를 기록하였다 .	O ORG-B O ORG-B O O O O
-2세트 들어 한국은 분위기를 반전시키었다 .	O O ORG-B O O O
-하지만 문성민의 공격과 상대 속 공범실이 이어지면서 한국은 극적으로 16-16까지 따라붙었다 .	O PER-B O O O O O ORG-B O O O O
-한국의 수비가 흔들리면서 번번히 공격이 일본의 높은 블로킹에 걸리었다 .	ORG-B O O O O ORG-B O O O O
-이날 한국은 코시카와 와야마모토 등 일본 공격수들의 강서브에서 브포인트를 5개나 내주고 말았다 .	O ORG-B PER-B PER-B O ORG-B O O O O O O O
-한국 남자대표팀은 3일 도쿄메트로폴리탄 체육관에서 벌어 지+ㄴ 2008베이징 올림픽 세계 최종 예선 겸 아시아 대륙 예선 3차전에서 일본에 1-3(21-2525-2123-2519-25)으로 패하였다 .	ORG-B O O LOC-B LOC-I O O O O O O O O LOC-B LOC-I O O ORG-B O O O
-일본 주포이시지마와 고시카와 유의 고공스파이크에 뚫리며 19-23으로 몰리+ㄴ 한국은 이경수의 투혼으로 23-24까지 따라붙었지만 더 이상 뒷심을 발휘하지 못하였고 4세트도 19-25로 손쉽게 내+어주+었다 .	ORG-B PER-B PER-B PER-I O O O O ORG-B PER-B O O O O O O O O O O O O O
-김씨는 "양가 모두 이왕하는 결혼이+ㄴ데 빨리시키자는 데 공감하였다  .	PER-B O O O O O O O O O
-1999년부터 미국 여자 프로골프(LPGA) 투어에서 활약 하+여오+ㄴ 김미현은 통산 8승을 기록 중이다 .	O O O O O O O PER-B O O O O O
-대회 마지막 날이+ㄴ이 날 강원도 선수단은 금4은 6동 6개를 추가하며 전남과의 순위 경쟁에서 극적으로 승리하였다 .	O O O O ORG-B ORG-I O O O O ORG-B O O O O O
-원주단구초는 초등부 농구 최강이+ㄴ 서울대방초를 상대로 선전하며 연장전에 돌입하였으나 결국 28대29로 아쉽게 1점차로 패하며 은메달에 만족 하+여야 +였다 .	ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O O
-오초아'가자, 그랜드슬램~ .	PER-B O O
-격전의 무대는 미국 메릴랜드 주하브들 그레이스의 불록 골프장(파72ㆍ6596야드)이다 .	O O LOC-B LOC-B LOC-B LOC-I LOC-B LOC-I O
-그리크+ㄴ체구는 아니지만 어리+ㄴ 시절부터 등산을 즐기+ㄴ오초아는 에코톤(산악종주경기)과 철인 3종 경기 등 극한 스포츠로 몸과 마음을 연마하였다 .	O O O O O PER-B O O O O O O O O O O O
-우즈도 지나 +ㄴ 2006년 아버지의 죽음 이후 첫 출전하+ㄴ US 오픈에서 '컷오프'되 +ㄴ적이 있다 .	PER-B O O O O O O O O O O O O O O
-이번에는 특히 27개 대회 동안 이어지었던 지긋지긋 하+ㄴ '우승 가뭄'을 해소 하+ㄴ이선화(22ㆍ CJ)가 '선봉장'이다 .	O O O O O O O O O O O PER-B ORG-B O O
-다음 주 US 오픈을 앞두고 있어 '넘버2' 필 미켈슨(미국) 등 웬만 하+ㄴ상위 랭커들은 모두 휴식에 들어가 +아 '하위권 선수들만의 리그'로 치르어지는 대회+이다 .	O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O
-싱은 2주 전 유러피언(EPGA) 투어 BMW 챔피언십 출전차 '영국 원정길'에 나서 +었다가 근육 부상을 입어 이 대회를 통하+여 US 오픈을 대비 하+ㄴ샷 감각 조율에 나서 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-두 번째 매치 이+ㄴ 폴라크 리머(3위)와 장정(5위) 간 대결에서는 전체 참가자의 68.99%가 폴라크 리머의 승리를 예상하였다 .	O O O O PER-B O PER-B O O O O O PER-B O O O O
-44년 만에 남녀 동반 탈락 위기 한국배구, 일본과 다른 점 .	O O O O O O ORG-B ORG-B O O O
-아시아 1위로 티켓을 딴 여자부에잇어 남자까지 출전권을 거머쥐+ㄴ 일본은 1992 바르셀로나 올림픽 이후 16년 만에 남녀 동반 올림픽행을 이루었다 .	LOC-B O O O O O O O ORG-B O O O O O O O O O O O
-2007 아시아 선수권과 월드컵에서 2연패 .	O O O O O O
-올림픽 예선전은 물론 주요 국제대회를 거의 독점하다시피 유치 하+여오+ㄴ 일본은 대규모 스폰서로 아코스타 회장 뒤에서 막강 하+ㄴ 영향력을 행사하+여+오았다 .	O O O O O O O O O ORG-B O O PER-B O O O O O O O
-이원희 미국으로 날아가 + .	PER-B LOC-B O O O
-이원희의 소속팀이+ㄴ 한국마사회 금호연감독은 “지난달 30일 누나 결혼식을 마치고 휴가를 달라고 하+여 10일간 정기휴가를 +었다“고 설명하였다 .	PER-B O ORG-B PER-B O O O O O O O O O O O O O
-사실 작년 일본 아시아 선수권대회에서 끝내 +었어야 +었는데 아쉽게 기회를 놓치었다"며 "지금 대표팀은 그 어떤 팀보다 우수하다 .	O O O O O O O O O O O O O O O O O O
-류중탁 감독이 이끌는 4일 일본 도쿄메트로폴리탄 체육관에서 열리+ㄴ 베이징 올림픽 남자 배구 최종 예선 4차전에서 노장 후 인정과 장신센터 하경민의 고군분투 활약에 힘입어 호주를 세트스코어 3-2(27-2925-2121-2525-20)로 누르었다 .	PER-B O O O LOC-B LOC-B LOC-I O O O O O O O O O O O O PER-B O O O ORG-B O O O O
-잠시 리시브가 흔들리+ㄴ 틈을 타 +아잇따르 아공격이 블로킹에 걸리고 호주의 고공강타가 불을 뿜어 24-24로 덜미를 잡히었다 .	O O O O O O O O O ORG-B O O O O O O O
-호주의 범실까지 겹치면서 한국은 2세트를 25-21로 따+아내 +었다 .	ORG-B O O ORG-B O O O O O
-특히 4세트 들어 노장 후 인정과 주공격수 이경수의 공격이 살아나면서 다시 리드를 잡았다 .	O O O O O O O PER-B O O O O O O
-한국은 침착하게 호주의 강타를 블로킹으로 막아내면서 범실을 유도하+여8-5로 앞서 +ㄴ 채 코트를 바꾸었다 .	ORG-B O ORG-B O O O O O O O O O O O
-하지만 오래전부터 대표팀이 관심을 기울이+ㄴ 부분 중 하나는 바로 강병현의 포인트가드 전향이다 .	O O O O O O O O O PER-B O O O
-강병현이 포인트가드 포지션에 정착하기 위하+여서는 우선 수비가 뒷받침되어야 하+ㅁ은 물론이다 .	PER-B O O O O O O O O O O
-▶KBL, 대표팀 격려"농구 미래 위 하+여올림픽 진출하기를 .	ORG-B O O O O O O O
-한국 남자농구 대표팀 소속의 하승진은 4일 고려대 화 정체육관에서 열리+ㄴ 고려대와의 연습경기에서 처음으로 실전에 모습을 드러내+었다 .	ORG-B O O O PER-B O ORG-B O O O ORG-B O O O O O O
-▶ 김주성-하승진 합류, 남자 농구 대표팀 본격 시 .	O PER-B O O O O O O O
-전체 1위는 이미 물 건너가+ㄴ 상태에서 아시아 1위를 노리는 한국은 아시아 지역에 포함되 +ㄴ 호주가 2승 2패, 일본이 2승 1패를 기록하고 있어 한국은 남은 3경기를 모두 이기+ㄴ 뒤 호주와 일본이 약체 이+ㄴ 알제리와 이란 등을 상대로 고전하기 +ㄹ기대 하+여야 하+ㄴ다 .	O O O O O O LOC-B O O ORG-B LOC-B O O O ORG-B O O ORG-B O O O O ORG-B O O O O O ORG-B ORG-B O O ORG-B ORG-B O O O O O O O
-이번 조사는 지나 +ㄴ 3월 17일부터 4월 20일까지 전국 16개 시도, 20세 이상 성인 남녀 4730명(신뢰도 95%)을 대상으로 실시되었다 .	O O O O O O O O O O O O O O O O O O O O
-한국 남자배구의 베이징행 가능성은 얼마나 되+ㄹ까 .	ORG-B O LOC-B O O O O
-일본은 태국을 3-0(25-2325-1425-16)으로 제치면서 3승 1패로 호주(2승 2패)를 누르고 아시아 1위, 전체 2위로 나서 +었다  .	ORG-B ORG-B O O O O ORG-B O O LOC-B O O O O O O O
-장신군 단호주의 벽을 뚫고 블로킹 3개를 포함하+여21점(공격성공률 54．55%)으로 팀 내 최다득점을 올리었다  .	O ORG-B O O O O O O O O O O O O
-KRA의 금호연 감독은 "지난달 30일 누나 결혼식을 마치고 휴가를 요청하+여 10일간 정기휴가를 +었다"고 설명하였다  .	ORG-B PER-B O O O O O O O O O O O O O O
-두 사람이 12월에 화촉을 밝히기로 하면서 이원희의 거취는 은퇴 쪽으로 가닥이 잡히고 있다 .	O O O O O O PER-B O O O O O O O
-한국 전체 선수단이 불참하+ㄴ 1980년 모스크바 올림픽은 제+이외 다 .	ORG-B O O O O O O O O O
-◇아테네 올림픽 기점 역전되+ㄴ한 일배 .	O O O O O O
-시니어 대표팀 경기로만 따지면 아테네 올림픽 예선으로 거스르어올라가 +아4연패 .	O O O O O O O O O O
-지난달 올림픽 예선전을 앞두고 국제배구연맹(FIVB)의 루벤 아코스타(멕시코) 회장이 전격 사임을 발표하였다  .	O O O O ORG-B PER-B LOC-B O O O O O O
-통고 없이 변경되+ㄴ올림픽 티켓 배분 방식에 뒤늦게 분통을 터트리는 한국에 견주면 국제배구계에서 영향력의 차이는 경기력이상이 다 .	O O O O O O O O O ORG-B O O O O O O O
-배 구청소년국가대표팀은 오는 20∼22일 일본 후쿠오카에서 열리는 한국 일본 중국 태국 등 4개국이 출전하는 제14회 아시아퍼시픽 컵 남자 배구대회에서 친선경기를 펼치며 전력을 재정비 하+ㄴ다 .	O O O O ORG-B LOC-B O ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O O O
-그런데 SK나 KT와 같은 대기업들이 게임 포털 사업에 진출하+ㅁ에 따르 아엄청나 +ㄴ 자본금이 게임 시장으로 유입되+ㄹ 것이고 이에 따르 아기존 게임사들을 중심으로 움직이던 시장의 재개편 역시 불가피하게 이루어 지+ㄹ 것으로 전망되+ㄴ다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이에 따르 아라이벌이 +ㄴ KT의 움직임도 부산 하+여보 이+ㄴ다 .	O O O O ORG-B O O O O O
-KTH는 KTF의 자회사로 인기 농구게임 ‘프리스타일’을 제이씨엔터테인먼트와 함께 서비스하면서 높은 시장점유율을 보유하였지만 2006년 재계약에 실패하면서 많은 유료회원들을 잃었다 .	ORG-B ORG-B O O O O ORG-B O O O O O O O O O O O O
-하지만 게임 관계자들은 “대기업들의 결과에 대하+ㄴ 판단은 냉정하게 이루어 지+ㄴ다” +이라면서 “과거 2년여 동안 원하는 수준의 성과를 보이지 못하고 사라지+ㄴ SKC&C의 사례를 미루어 보+ㄹ 때, KT가 본격적으로 게임포털 사업에 착수하게 되면 수익구조가 열악하+ㄴ KTH의 게임사업은 사업부 축소 혹은 최악의 경우 게임사업 철수까지 예상 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O
-김남기 대표팀 감독은 "선수들 대부분은 소속팀에서 경기당 40분 가까이 출전하+여+오았다 .	PER-B O O O O O O O O O O
-대표팀은 세트오펜스에서 하승진을 중심으로 하겠다는 확고하+ㄴ뜻을 갖고 있다 .	O LOC-B PER-B O O O O O O
-박종천 전자랜드코치는 "1년도 안 되는 짧은 기간 동안 많이 성장 하+ㄴ 모습을 보니 너무 자랑스럽고 앞으로도 농구에 대하+ㄴ 즐겁ㄴ시간과 추억을 만들어가기+ㄹ바라+ㄴ다"며 격려하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-루크월튼은 AP통신과의 에서 "시리즈 내내 도움 수비를 하지 않을 것이라고 생각하지는 않는다 .	PER-B O O O O O O O O O O O O
-보스턴은 자신감에 넘치+ㄴ다 .	ORG-B O O O
-그 결과 보스턴이 2번 모두 이기었다 .	O O ORG-B O O O O
-우즈와 미켈슨은 대회장이 +ㄴ 샌디에이고토리파인즈와 깊은 인연이 있다 .	PER-B PER-B O O LOC-B O O O O
-강수연(32ㆍ 하이트)과 최혜정(24ㆍ 카스코), 김영(28), 한 희원(30), 박인비(21), 오지영(20ㆍ에머슨퍼시픽) 등 6명의 한국 선수도 3언더파 69타로 공동 9위에 오르아 '한국낭자군 2주 연속' 우승에 불씨를 붙이었다 .	PER-B ORG-B PER-B ORG-B PER-B O O PER-B ORG-B O O ORG-B O O O O O O ORG-B O O O O O O
-그랜드슬램은 한 시즌에 4개의 메이저대회를 모두 제패하는 것이다 .	O O O O O O O O O
-이들은 홍진주처럼 올 시즌 단 한 번도 ‘톱10’에 들지 못하였다 .	O PER-B O O O O O O O O O
-전반에 버디 3개를 잡은 오초아는 파4홀이+ㄴ 13번홀에서 티샷이훅이나 깊은 러프에 빠지는 바람에 언플레이어블을 선언하며 더블보기를 범하였으나 15.18번홀에서 버디 2개를 추가하는 뒷심을 발휘하였다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
-지은희(휠라코리아)와 함께 공동 59위에 자리하었다 .	ORG-B O O O O O
-홈에서 유독 강하+ㄴ보스턴은 이날 승리로 올해 플레이오프 홈 경기 11승 1패째를 기록하였다 .	O O ORG-B O O O O O O O O O O
-피어스는 4점차로 앞서 +ㄴ4쿼터 중반 연속 4점을 몰아 넣어 점수차를 벌리었다 .	PER-B O O O O O O O O O O O
-한국男배구, 3패 뒤 2연승 '올림픽 행실 낱 희망 아직 있다 .	ORG-B O O O O O O O O O O
-이어 2세트에서도 한국은 알제리의 서브범실 9개까지 등에 업고 일방적 이+ㄴ경기를 펼치+어 25-19로 승리 하+ㄴ 뒤 3세트마저 25-17로 가볍게 따+아내+어한 세트도 내주지 않고 완승을 거두었다 .	O O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O
-[알제리 전에서 강력 하+ㄴ 스파이크를 날리는 문성민 .	O O O O O O PER-B O
-지난달 24일부터 괌에서 박태환을 지도하고 있는 노민상 경영 대표팀 감독은 전훈마지막 날이+ㄴ 6일 연합뉴스와의 인터뷰에서 "전신 수영복을 입고 최종 테스트를 하+여+보았는데 반신 수영복이 경기력에 더 낫다는 판단을 내리었다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O
-[10번 타자] 롯데밀리터리 유니폼, 폭발적 반응 .	O O ORG-B O O O O
-○… 프로농구팀 부산 KTF 선수단이 6일 사직 SK-롯데전을 찾아 팬사인회를 가지었다  .	O O LOC-B LOC-I O O O O O O O O O
-홈 개막전, 어린이날, 목포대학의 날, 광주은행의 날에잇어올 시즌 5번째 +이다 .	O O O O O O O O O O O
-2년 만에 겨울리그 챔프 자리에 복귀 하+ㄴ삼성화재의 석진욱(32)은 "드디어 가족과 보내+ㄹ 수 있게 +었다"고 기뻐하였다  .	O O O O O O ORG-B PER-B O O O O O O O O O
-석진욱과 리베로 여오현(삼성화재)의 안정되+ㄴ서브리시브와 끈질기+ㄴ 수비로 범실이 많은 알제리를 가볍게 꺾었다  .	PER-B O ORG-B O O O O O ORG-B O O O O
-한국의 남은 희망은 일본이 선두 이탈리아(5승)를 따돌리고 전체 1위를 차지하는 것 .	ORG-B O O ORG-B O ORG-B O O O O O O
-최태웅세터의 정교하+ㄴ토스에 맞추+어 문성민의 파워풀한 스파이크가 이란의 블로킹을 가르았다 .	PER-B O O PER-B O O ORG-B O O O
-한편, 한국은 7일 오후 6시부터 시작되는 일본 대아르헨티나의 경기 결과를 주목하+ㄹ 수밖에 없다 .	O ORG-B O O O O ORG-B ORG-B O O O O O O
-객관적 이+ㄴ 전력에서 일본이 아르헨티나를 꺾는 것이 나 아르헨티나가 이탈리아를 이기+ㄹ 가능성이 희박하다 .	O O O ORG-B ORG-B O O O ORG-B ORG-B O O O O
-6언더파 66타를 친무명에 밀리배스텔(미국)과 43세 노장 로리케인(캐나다)이 공동 선두로 나서 +었다 .	O O O ORG-B O O ORG-B O O O O O
-'일본, 아르헨제압' … 한국男배구, 올림픽 행사실상 무 .	ORG-B ORG-B O ORG-B O O O O
-하지만 이날 일본은 아르헨티나전에서 풀세트 접전을 펼치면서 겨우 득점(113점)이 실점(103점)보다 10점밖에 더 많이 얻지 못하였다 .	O O ORG-B O O O O O O O O O O O O O
-객관적 이+ㄴ 전력에서 아르헨티나가 이탈리아를 이기는 것이 쉽지 않은 데다 설령 이기더라도 접전 양상이 되+ㄹ 것이 분명 하+여 결국 한국은 쓰+ㄴ 고배를 마시+ㄹ 수밖에 없을 전망이다 .	O O O ORG-B ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O
-김민지에게 조심스럽게 "그동안 여자 배구계를 향하+여검지를 세우고 지적을 +였다면 이번에 +ㄴ귀를 쫑긋 세우고 선수들 입장에서 한번 듣고 싶다"고 +였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-김민지는 하지만 올림픽을 위하+여 없던 힘도 짜내+었단다 .	PER-B O O O O O O O
-"김민지는 전하였다 .	PER-B O O
-한국은 최종 예선전에서 숙적 일본을 만나 +아서 브리시브와 수비 등 기본기에서 밀리며 한 세트를 따+아내는 데 만족 하+여야만 +였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O
-"우리나라도 김연경 같은 젊고 잘하는 선수가 많+지 않아요 .	O PER-B O O O O O O O
-물론 연경이는 진짜 잘 하+여요 .	O PER-B O O O O
-올림픽 예선전에 참가 하+ㄴ 뒤 김민지는 어느 정도 마음도 추스리었고 배우+ㄴ점도 있었다 .	O O O O O PER-B O O O O O O O
-선두권은 마리아 요르트(스웨덴)가 1타차 2위(11언더파 205타), 오초아와 아니카 소렌스탐이 2타차 공동 3위(10언더파 206타)에 포진하+여한치 앞을 내다보+ㄹ 수 없는 박빙의 승부을 전개하고 있다 .	O PER-B ORG-B PER-I O PER-B PER-B PER-B PER-I PER-I O O O O O O O O O O O O O
-하지만 이지영은 6번홀(파4)과 8~9번 홀의 연속 버디로 곧바로 3타를 줄이며 추격의 발판을 마련하였다 .	O PER-B O O O O O O O O O O O O
-이지영은 잇어"15~16언더파 정도+이면 우승이 가능하지 않겠느냐"면서 "이 순간을 기다리+어+았다 .	PER-B O O O O O O O O O
-이들 가운데 스포츠토토 공식 온라인 발매 사이트 이+ㄴ 베트맨(www.betm an.co.kr)에서 2천원을 베팅하 +ㄴ배구팬은 이번 회차 최고액이+ㄴ 658만 5800원의 적중상금을 받아 +가았다 .	O O O O O O O O O O MNY-B O O O O O MNY-B MNY-I O O O O
-이번 ‘나이스샷 페스티벌’ 이벤트에 응모를 원하는 골프 팬들은 스포츠토토(www.sp ortstoto. co.kr)이나 베트맨(www.betm an.co.kr) 웹사이트 내의 이벤트 페이지를 참고하면 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-피어스는 이에 대하+여"솔직히 지나 +ㄴ 수년 동안 앨런이 좋은 수비수+이라는 생각을 하+여보+ㄴ 적은 없다 .	PER-B O O O O O O PER-B O O O O O O O
-가넷은 1차 전 종료 후 자신의 4쿼터 경기 내용에 강 하+ㄴ불만을 표시하며 "다음에는 더 잘 하+ㄹ 것이다"라고 각오를 다지었다 .	PER-B O O O O O O O O O O O O O O O O O O O
-브라이언트는 1차전에서 24점을 올리었으나 보스턴의 집중 수비에 막히+어 26개 야투 시 도 중단 9개 성공에 그치었다 .	PER-B O O O ORG-B O O O O O O O O O O O O
-지난해 10월 히구치히사코오츠카가 구레이디스 우승 이후 7개월 만의 올 시즌 첫 우승이자 통산 8승째 +이다 .	O O PER-B O O O O O O O O O O O O O
-실낱 희망한국남자배구, 올림픽 행좌절 …44년 만의 치 .	O ORG-B O O O O O O
-한국은 호주(3승 4패)를 제치고 아시아 5개 팀 가운데 2위를 기록하였다 .	ORG-B ORG-B O O LOC-B O O O O O O
-중국, 일본뿐만 아니라 카자흐스탄, 호주, 태국 등 아시아 신흥국들까지 급성장 하+ 여자칫 아시아권에서도 하위권으로 밀려나 +ㄹ지 모르+ㄴ다는 위기감을 확인 하+ㄴ 것+이 더 크+ㄴ문제+이다 .	ORG-B ORG-B O ORG-B ORG-B ORG-B O LOC-B O O O O LOC-B O O O O O O O O O O O
-일본 언론들은 우에다 감독이 취임 이후 4년 동안 진행되+어오+ㄴ일관되고 체계적 이+ㄴ 선수 관리가 성공 요인이라고 꼽았다 .	ORG-B O PER-B O O O O O O O O O O O O O O
+반면 한국 을 이긴 일본 은 2 승 1 패 를 기록 했 다 .	O ORG-B O O ORG-B O O O O O O O O O O
+2 세트 들 어 한국 은 분위기 를 반전 시 켰 다 .	O O O O ORG-B O O O O O O O O
+하지만 문성민 의 공격 과 상대 속공 범실 이 이어지 면서 한국 은 극적 으로 16 - 16 까지 따라붙 었 다 .	O PER-B O O O O O O O O O ORG-B O O O O O O O O O O O
+한국 의 수비 가 흔들리 면서 번번히 공격 이 일본 의 높 은 블로킹 에 걸 렸 다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O
+이날 한국 은 코시카와 와 야마모토 등 일본 공격수 들 의 강 서브 에 서브 포인트 를 5 개 나 내주 고 말 았 다 .	O ORG-B O PER-B O PER-B O ORG-B O O O O O O O O O O O O O O O O O O
+한국 남자 대표 팀 은 3 일 도쿄 메트로폴리탄 체육관 에서 벌어진 2008 베이징 올림픽 세계 최종 예선 겸 아시아 대륙 예선 3 차 전 에서 일본 에 1 - 3 ( 21 - 25 25 - 21 23 - 25 19 - 25 ) 으로 패 했 다 .	ORG-B O O O O DAT-B DAT-I LOC-B LOC-I LOC-I O O DAT-B O O O O O O LOC-B LOC-I O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+일본 주포 이시 지마 와 고시카 와 유 의 고공 스파이크 에 뚫리 며 19 - 23 으로 몰린 한국 은 이경수 의 투혼 으로 23 - 24 까지 따라붙 었 지만 더 이상 뒷심 을 발휘하 지 못 했 고 4 세트 도 19 - 25 로 손쉽 게 내 줬 다 .	ORG-B O PER-B PER-I O PER-B PER-I PER-I O O O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 씨 는 " 양가 모두 이왕하 는 결혼 인데 빨리 시키 자는 데 공감 했 다 ．	PER-B O O O O O O O O O O O O O O O O O
+1999 년 부터 미국 여자 프로 골프 ( LPGA ) 투어 에서 활약해 온 김미현 은 통산 8 승 을 기록 중 이 다 ．	DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O O O O
+대회 마지막 날 인 이날 강원도 선수단 은 금 4 은 6 동 6 개 를 추가하 며 전남 과 의 순위 경쟁 에서 극적 으로 승리 했 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O O O O O O
+원주 단구 초 는 초등 부 농구 최강 인 서울 대방 초 를 상대 로 선전하 며 연장전 에 돌입 했 으나 결국 28 대 29 로 아쉽 게 1 점 차 로 패하 며 은메달 에 만족해야 했 다 .	ORG-B ORG-I ORG-I O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오초아 ' 가 자 , 그랜드슬램 ~ '	PER-B O O O O O O O
+격전 의 무대 는 미국 메릴랜드 주 하브 드 그레이스 의 불록 골프장 ( 파 72 ㆍ 6596 야드 ) 이 다 .	O O O O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I O LOC-B LOC-I O O O O O O O O O O
+그리 큰 체구 는 아니 지만 어린 시절 부터 등산 을 즐긴 오초아 는 에코 톤 ( 산악 종주 경기 ) 과 철인 3 종 경기 등 극한 스포츠 로 몸 과 마음 을 연마 했 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+우즈 도 지난 2006 년 아버지 의 죽음 이후 첫 출전한 US 오픈 에서 ' 컷 오프 ' 된 적 이 있 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+이번 에 는 특히 27 개 대회 동안 이어 졌 던 지긋지긋한 ' 우승 가뭄 ' 을 해소한 이선화 ( 22 ㆍ CJ ) 가 ' 선봉장 ' 이 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O ORG-B O O O O O O O O
+다음 주 US 오픈 을 앞두 고 있 어 ' 넘버 2 ' 필 미켈슨 ( 미국 ) 등 웬만한 상위 랭커 들 은 모두 휴식 에 들어가 ' 하위권 선수 들 만 의 리그 ' 로 치 러 지 는 대회 다 .	O O O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+싱 은 2 주 전 유러 피언 ( EPGA ) 투어 BMW 챔피언십 출전 차 ' 영국 원정 길 ' 에 나섰 다가 근육 부상 을 입 어 이 대회 를 통해 US 오픈 을 대비한 샷 감각 조율 에 나선다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 번째 매치 인 폴라 크리머 ( 3 위 ) 와 장정 ( 5 위 ) 간 대결 에서 는 전체 참가자 의 68.99 % 가 폴라 크리머 의 승리 를 예상 했 다 .	O O O O PER-B PER-I O O O O O PER-B O O O O O O O O O O O O O O PER-B PER-I O O O O O O O
+44 년 만 에 남녀 동반 탈락 위기 한국 배구 , 일본 과 다른 점 은	O O O O O O O O ORG-B O O ORG-B O O O O
+아시아 1 위 로 티켓 을 딴 여자 부 에 이 어 남자 까지 출전권 을 거머쥔 일본 은 1992 바르셀로나 올림픽 이후 16 년 만 에 남녀 동반 올림픽 행 을 이 뤘 다 .	LOC-B O O O O O O O O O O O O O O O O ORG-B O DAT-B O O O O O O O O O O O O O O O O
+2007 아시아 선수권 과 월드컵 에서 2 연패 .	DAT-B O O O O O O O O
+올림픽 예선전 은 물론 주요 국제 대회 를 거의 독점하 다시피 유치해 온 일본 은 대규모 스폰서 로 아코스타 회장 뒤 에서 막강한 영향력 을 행사해 왔 다 .	O O O O O O O O O O O O O ORG-B O O O O PER-B O O O O O O O O O O
+이원희 미국 으로 날아가	PER-B LOC-B O O
+이원희 의 소속 팀 인 한국 마사회 금호연 감독 은 “ 지난달 30 일 누나 결혼식 을 마치 고 휴가 를 달 라고 해 10 일 간 정기 휴가 를 줬 다 “ 고 설명 했 다 .	PER-B O O O O ORG-B ORG-I PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+사실 작년 일본 아시아 선수권 대회 에서 끝냈 어야 했 는데 아쉽 게 기회 를 놓 쳤 다 " 며 " 지금 대표 팀 은 그 어떤 팀 보다 우수하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+류중탁 감독 이 이끄 는 4 일 일본 도쿄 메트로폴리탄 체육관 에서 열린 베이징 올림픽 남자 배구 최종 예선 4 차 전 에서 노장 후인정 과 장신 센터 하경민 의 고군분투 활약 에 힘입 어 호주 를 세트스코어 3 - 2 ( 27 - 29 25 - 21 21 - 25 25 - 20 ) 로 눌 렀 다 .	PER-B O O O O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+잠시 리시브 가 흔들린 틈 을 타 잇따 라 공격 이 블로킹 에 걸리 고 호주 의 고공 강타 가 불 을 뿜 어 24 - 24 로 덜미 를 잡 혔 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+호주 의 범실 까지 겹치 면서 한국 은 2 세트 를 25 - 21 로 따 냈 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O
+특히 4 세트 들 어 노장 후인정 과 주공격수 이경수 의 공격 이 살아나 면서 다시 리드 를 잡 았 다 .	O O O O O O PER-B O O PER-B O O O O O O O O O O O O
+한국 은 침착하 게 호주 의 강타 를 블로킹 으로 막 아 내 면서 범실 을 유도해 8 - 5 로 앞선 채 코트 를 바 꿨 다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 오래 전 부터 대표 팀 이 관심 을 기울인 부분 중 하나 는 바로 강병현 의 포인트 가드 전향 이 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O
+강병현 이 포인트 가드 포지션 에 정착하 기 위해서 는 우선 수비 가 뒷받침되 어야 함 은 물론 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+▶ KBL , 대표 팀 격려 " 농구 미래 위해 올림픽 진출하 기 를 "	O ORG-B O O O O O O O O O O O O O
+한국 남자 농구 대표 팀 소속 의 하승진 은 4 일 고려대 화정 체육관 에서 열린 고려대 와 의 연습 경기 에서 처음 으로 실전 에 모습 을 드러냈 다 .	ORG-B O O O O O O PER-B O DAT-B DAT-I LOC-B LOC-I LOC-I O O ORG-B O O O O O O O O O O O O O O
+▶ 김주성 - 하승진 합류 , 남자 농구 대표 팀 본격 시동	O PER-B O PER-B O O O O O O O O
+전체 1 위 는 이미 물 건너간 상태 에서 아시아 1 위 를 노리 는 한국 은 아시아 지역 에 포함된 호주 가 2 승 2 패 , 일본 이 2 승 1 패 를 기록하 고 있 어 한국 은 남 은 3 경기 를 모두 이긴 뒤 호주 와 일본 이 약체 인 알제리 와 이란 등 을 상대 로 고전하 길 기대해야 한다 .	O O O O O O O O O LOC-B O O O O O ORG-B O LOC-B O O O ORG-B O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O ORG-B O ORG-B O O O ORG-B O ORG-B O O O O O O O O O
+이번 조사 는 지난 3 월 17 일 부터 4 월 20 일 까지 전국 16 개 시도 , 20 세 이상 성인 남녀 4730 명 ( 신뢰도 95 % ) 을 대상 으로 실시 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 남자 배구 의 베이징 행 가능성 은 얼마나 될까 ．	ORG-B O O O LOC-B O O O O O O
+일본 은 태국 을 3 - 0 ( 25 - 23 25 - 14 25 - 16 ) 으로 제치 면서 3 승 1 패 로 호주 ( 2 승 2 패 ) 를 누르 고 아시아 1 위 , 전체 2 위 로 나섰 다 ．	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O LOC-B O O O O O O O O O O
+장신 군단 호주 의 벽 을 뚫 고 블로킹 3 개 를 포함해 21 점 ( 공격 성공률 54 ． 55 % ) 으로 팀 내 최다 득점 을 올 렸 다 ．	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KRA 의 금호연 감독 은 " 지난달 30 일 누나 결혼식 을 마치 고 휴가 를 요청해 10 일 간 정기 휴가 를 줬 다 " 고 설명 했 다 ．	ORG-B O PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+두 사람 이 12 월 에 화촉 을 밝히 기 로 하 면서 이원희 의 거취 는 은퇴 쪽 으로 가닥 이 잡히 고 있 다 ．	O O O DAT-B DAT-I O O O O O O O O PER-B O O O O O O O O O O O O O
+한국 전체 선수단 이 불참한 1980 년 모스크바 올림픽 은 제 외다 ．	ORG-B O O O O DAT-B DAT-I O O O O O O
+◇ 아테네 올림픽 기점 역전된 한일 배구	O O O O O O O
+시니어 대표 팀 경기 로 만 따지 면 아테네 올림픽 예선 으로 거슬 러 올라가 4 연패 ．	O O O O O O O O O O O O O O O O O O
+지난달 올림픽 예선전 을 앞두 고 국제 배구 연맹 ( FIVB ) 의 루벤 아코스타 ( 멕시코 ) 회장 이 전격 사임 을 발표 했 다 ．	O O O O O O ORG-B ORG-I ORG-I O ORG-B O O PER-B PER-I O LOC-B O O O O O O O O O O
+통고 없이 변경된 올림픽 티켓 배분 방식 에 뒤늦 게 분통 을 터트리 는 한국 에 견주 면 국제 배구 계 에서 영향력 의 차이 는 경기력 이상 이 다 ．	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+배구 청소년 국가 대표 팀 은 오 는 20 ∼ 22 일 일본 후쿠오카 에서 열리 는 한국 일본 중국 태국 등 4 개국 이 출전하 는 제 14 회 아시아 퍼시픽 컵 남자 배구 대회 에서 친선경기 를 펼치 며 전력 을 재정비한다 .	O O O O O O O O O O O O LOC-B LOC-B O O O ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+그런데 SK 나 KT 와 같 은 대기업 들 이 게임 포털 사업 에 진출함 에 따 라 엄청난 자본금 이 게임 시장 으로 유입될 것 이 고 이 에 따 라 기존 게임 사 들 을 중심 으로 움직이 던 시장 의 재 개편 역시 불가피하 게 이뤄질 것 으로 전망된다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 라이벌 인 KT 의 움직임 도 부산해 보인다 .	O O O O O O ORG-B O O O O O O
+KTH 는 KTF 의 자회사 로 인기 농구 게임 ‘ 프리스타일 ’ 을 제이씨 엔터테인먼트 와 함께 서비스하 면서 높 은 시장 점유율 을 보유 했 지만 2006 년 재계약 에 실패하 면서 많 은 유료 회원 들 을 잃 었 다 .	ORG-B O ORG-B O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+하지만 게임 관계자 들 은 “ 대기업 들 의 결과 에 대한 판단 은 냉정하 게 이뤄진다 ” 라면서 “ 과거 2 년 여 동안 원하 는 수준 의 성과 를 보이 지 못하 고 사라진 SK C & C 의 사례 를 미루 어 볼 때 , KT 가 본격적 으로 게임 포털 사업 에 착수하 게 되 면 수익 구조 가 열악한 KTH 의 게임 사업 은 사업 부 축소 혹은 최악 의 경우 게임 사업 철수 까지 예상할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+김남기 대표 팀 감독 은 " 선수 들 대부분 은 소속 팀 에서 경기 당 40 분 가까이 출전해 왔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+대표 팀 은 세트 오펜스 에서 하승진 을 중심 으로 하 겠 다는 확고한 뜻 을 갖 고 있 다 .	O O O LOC-B LOC-I O PER-B O O O O O O O O O O O O O O
+박종천 전자랜드 코치 는 " 1 년도 안되 는 짧 은 기간 동안 많이 성장한 모습 을 보 니 너무 자랑스럽 고 앞 으로 도 농구 에 대한 즐거 운 시간 과 추억 을 만들 어 가 길 바란다 " 며 격려 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+루크 월튼 은 AP 통신 과 의 에서 " 시리즈 내내 도움 수비 를 하 지 않 을 것 이 라고 생각하 지 는 않 는다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+보스턴 은 자신감 에 넘친다 .	ORG-B O O O O O
+그 결과 보스턴 이 2 번 모두 이 겼 다 .	O O ORG-B O O O O O O O O
+우즈 와 미켈슨 은 대회장 인 샌디에이고 토리 파인즈 와 깊 은 인연 이 있 다 ．	PER-B O PER-B O O O LOC-B LOC-B LOC-I O O O O O O O O
+강수연 ( 32 ㆍ 하이트 ) 과 최혜정 ( 24 ㆍ 카스코 ) , 김영 ( 28 ) , 한희원 ( 30 ) , 박인비 ( 21 ) , 오지영 ( 20 ㆍ 에머슨 퍼시픽 ) 등 6 명 의 한국 선수 도 3 언더 파 69 타 로 공동 9 위 에 올 라 ' 한국 낭자군 2 주 연속 ' 우승 에 불씨 를 붙 였 다 .	PER-B O O O ORG-B O O PER-B O O O ORG-B O O PER-B O O O O PER-B O O O O PER-B O O O O PER-B O O O ORG-B ORG-I O O O O O ORG-B O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+그랜드슬램 은 한 시즌 에 4 개 의 메이저 대회 를 모두 제패하 는 것 이 다 .	O O O O O O O O O O O O O O O O O O
+이 들 은 홍진주 처럼 올 시즌 단 한 번 도 ‘ 톱 10 ’ 에 들 지 못 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
+전반 에 버디 3 개 를 잡 은 오초아 는 파 4 홀 인 13 번 홀 에서 티샷 이 훅 이 나 깊 은 러프 에 빠지 는 바람 에 언 플레이어 블 을 선언하 며 더블 보기 를 범 했 으나 15.18 번 홀 에서 버디 2 개 를 추가하 는 뒷심 을 발휘 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지은희 ( 휠라코리아 ) 와 함께 공동 59 위 에 자리 했 다 .	PER-B O ORG-B O O O O O O O O O O O
+홈 에서 유독 강한 보스턴 은 이날 승리 로 올해 플레이오프 홈경기 11 승 1 패 째 를 기록 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O
+피어스 는 4 점 차 로 앞선 4 쿼터 중반 연속 4 점 을 몰아넣 어 점수 차 를 벌 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+한국 男 배구 , 3 패 뒤 2 연승 ' 올림픽 행 실낱 희망 아직 있 다 '	ORG-B O O O O O O O O O O O O O O O O O
+이어 2 세트 에서 도 한국 은 알제리 의 서브 범실 9 개 까지 등 에 업 고 일방적 인 경기 를 펼쳐 25 - 19 로 승리한 뒤 3 세트 마저 25 - 17 로 가볍 게 따 내 한 세트 도 내주 지 않 고 완승 을 거 뒀 다 .	O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 알제리 전 에서 강력한 스파이크 를 날리 는 문성민 .	O O O O O O O O O PER-B O
+지난달 24 일 부터 괌 에서 박태환 을 지도하 고 있 는 노민상 경영 대표 팀 감독 은 전훈 마지막 날 인 6 일 연합뉴스 와 의 인터뷰 에서 " 전신 수영복 을 입 고 최종 테스트 를 해 봤 는데 반신 수영복 이 경기력 에 더 낫 다는 판단 을 내 렸 다 .	O DAT-B DAT-I O O O PER-B O O O O O PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 10 번 타자 ] 롯데 밀리터리 유니폼 , 폭발적 반응 外	O O O O O ORG-B O O O O O O
+○ … 프로 농구 팀 부산 KTF 선수단 이 6 일 사직 SK - 롯데 전 을 찾 아 팬 사인회 를 가 졌 다 ．	O O O O O LOC-B LOC-I O O DAT-B DAT-I O O O O O O O O O O O O O O O
+홈 개막 전 , 어린이날 , 목포 대학 의 날 , 광주은행 의 날 에 이 어 올 시즌 5 번째 다 ．	O O O O DAT-B O O O O O O O O O O O O O O O O O O
+2 년 만 에 겨울 리그 챔프 자리 에 복귀한 삼성화재 의 석진욱 ( 32 ) 은 " 드디어 가족 과 보낼 수 있 게 됐 다 " 고 기뻐 했 다 ．	O O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O
+석진욱 과 리베로 여오현 ( 삼성화재 ) 의 안정된 서브 리시브 와 끈질긴 수비 로 범실 이 많 은 알제리 를 가볍 게 꺾 었 다 ．	PER-B O O PER-B O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O
+한국 의 남 은 희망 은 일본 이 선두 이탈리아 ( 5 승 ) 를 따돌리 고 전체 1 위 를 차지하 는 것 ．	ORG-B O O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O
+최태웅 세터 의 정교한 토스 에 맞춰 문성민 의 파워풀 한 스파이크 가 이란 의 블로킹 을 갈 랐 다 .	PER-B O O O O O O PER-B O O O O O ORG-B O O O O O O O
+한편 , 한국 은 7 일 오후 6 시 부터 시작되 는 일본 대 아르헨티나 의 경기 결과 를 주목할 수 밖에 없 다 .	O O ORG-B O DAT-B DAT-I TIM-B TIM-I TIM-I O O O ORG-B O ORG-B O O O O O O O O O O
+객관적 인 전력 에서 일본 이 아르헨티나 를 꺾 는 것 이나 아르헨티나 가 이탈리아 를 이길 가능성 이 희박하 다 .	O O O O ORG-B O ORG-B O O O O O ORG-B O ORG-B O O O O O O O
+6 언더파 66 타 를 친 무명 에밀리 배 스텔 ( 미국 ) 과 43 세 노장 로리 케인 ( 캐나다 ) 이 공동 선두 로 나섰 다 .	O O O O O O O PER-B PER-I PER-I O ORG-B O O O O O PER-B PER-I O ORG-B O O O O O O O O
+' 일본 , 아르헨 제압 ' … 한국 男 배구 , 올림픽 행 사실상 무산	O ORG-B O ORG-B O O O ORG-B O O O O O O O
+하지만 이날 일본 은 아르헨티나 전 에서 풀세트 접전 을 펼치 면서 겨우 득점 ( 113 점 ) 이 실점 ( 103 점 ) 보다 10 점 밖에 더 많이 얻 지 못 했 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+객관적 인 전력 에서 아르헨티나 가 이탈리아 를 이기 는 것 이 쉽 지 않 은 데 다 설령 이기 더라도 접전 양상 이 될 것 이 분명해 결국 한국 은 쓴 고배 를 마실 수 밖에 없 을 전망 이 다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+김민지 에게 조심스럽 게 " 그동안 여자 배구 계 를 향해 검지 를 세우 고 지적 을 했 다면 이번 엔 귀 를 쫑긋 세우 고 선수 들 입장 에서 한 번 듣 고 싶 다 " 고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김민지 는 하 지만 올림픽 을 위해 없 던 힘 도 짜냈 단다 .	PER-B O O O O O O O O O O O O O
+" 김민지 는 전 했 다 .	O PER-B O O O O O
+한국 은 최종 예선전 에서 숙적 일본 을 만나 서브 리시브 와 수비 등 기본기 에서 밀리 며 한 세트 를 따 내 는 데 만족해야 만 했 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+" 우리나라 도 김연경 같 은 젊 고 잘하 는 선수 가 많 잖 아요 .	O O O PER-B O O O O O O O O O O O O
+물론 연경이 는 진짜 잘해요 .	O PER-B O O O O
+올림픽 예선전 에 참가한 뒤 김민지 는 어느 정도 마음 도 추스 렸 고 배운 점 도 있 었 다 .	O O O O O PER-B O O O O O O O O O O O O O O O
+선두권 은 마리아 요르트 ( 스웨덴 ) 가 1 타 차 2 위 ( 11 언더 파 205 타 ) , 오초아 와 아니카 소렌스탐 이 2 타 차 공동 3 위 ( 10 언더파 206 타 ) 에 포진해 한 치 앞 을 내다볼 수 없 는 박빙 의 승부 을 전개하 고 있 다 .	O O PER-B PER-I O ORG-B O O O O O O O O O O O PER-B PER-I O O PER-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 이지영 은 6 번 홀 ( 파 4 ) 과 8 ~ 9 번 홀 의 연속 버디 로 곧바로 3 타 를 줄이 며 추격 의 발판 을 마련 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이지영 은 이 어 " 15 ~ 16 언더파 정도 면 우승 이 가능하 지 않 겠 느냐 " 면서 " 이 순간 을 기다려 왔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 들 가운데 스포츠토토 공식 온라인 발매 사이트 인 베트맨 ( www . betman . co . kr ) 에서 2 천 원 을 베팅 한 배구 팬 은 이번 회 차 최고액 인 658 만 5800 원 의 적중 상금 을 받 아 갔 다 .	O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O
+이번 ‘ 나이스 샷 페스티벌 ’ 이벤트 에 응모 를 원하 는 골프 팬 들 은 스포츠 토토 ( www . sportstoto . co . kr ) 이나 베트맨 ( www . betman . co . kr ) 웹사이트 내 의 이벤트 페이지 를 참고하 면 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+피어스 는 이 에 대해 " 솔직히 지난 수년 동안 앨런 이 좋 은 수비수 라는 생각 을 해 본 적 은 없 다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O
+가넷 은 1 차 전 종료 후 자신 의 4 쿼터 경기 내용 에 강한 불만 을 표시하 며 " 다음 에 는 더 잘할 것 이 다 " 라고 각오 를 다 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+브라이언트 는 1 차 전 에서 24 점 을 올 렸 으나 보스턴 의 집중 수비 에 막혀 26 개 야투 시도 중 단 9 개 성공 에 그 쳤 다 .	PER-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+지난해 10 월 히구치 히사코 오츠카 가구 레이디스 우승 이후 7 개월 만 의 올 시즌 첫 우승 이 자 통산 8 승 째 다 .	O DAT-B DAT-I PER-B PER-I O O O O O O O O O O O O O O O O O O O O O
+실낱 희망 한국 남자 배구 , 올림픽 행 좌절 … 44 년 만 의 치욕	O O ORG-B O O O O O O O O O O O O
+한국 은 호주 ( 3 승 4 패 ) 를 제치 고 아시아 5 개 팀 가운데 2 위 를 기록 했 다 .	ORG-B O ORG-B O O O O O O O O O LOC-B O O O O O O O O O O O
+중국 , 일본 뿐 만 아니 라 카자흐스탄 , 호주 , 태국 등 아시아 신흥 국 들 까지 급성장해 자칫 아시아 권 에서 도 하위권 으로 밀려날지 모른다는 위기감 을 확인한 게 더 큰 문제 다 .	ORG-B O ORG-B O O O O ORG-B O ORG-B O ORG-B O LOC-B O O O O O O LOC-B O O O O O O O O O O O O O O O O
+일본 언론 들 은 우에다 감독 이 취임 이후 4 년 동안 진행돼 온 일관되 고 체계적 인 선수 관리 가 성공 요인 이 라고 꼽 았 다 .	ORG-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
 박진 .	PER-B O
-셔독은 “크로캅은 다음달 21일 일본 오사카에서 펼쳐 지+ㄹ ‘드림5’ 대회에서 K-1 강호제 롬르밴너(36·프랑스)와 종합격투기 룰로 붙게 되+ㄹ 가능성이 있다”고 덧붙이었다 .	PER-B PER-B O O ORG-B LOC-B O O O O O O ORG-B O O O O O O O O
-‘장타자’이지영(23·하이마트)이 마침내 메이저우승 기회를 잡았다 .	ORG-B O O O O O
-강력 하+ㄴ 우승 후보 이+ㄴ로레나오초아(멕시코)와 아니카 소렌스탐(스웨덴)은 나란히 합계 10언더파 206타로 공동 3위에 이름을 올리었다 .	O O O O ORG-B PER-B ORG-B O O O O O O O O O
-이지영은 “소렌스탐과 같이 경기하게 +었는데 과거에도 밀리지 않았다”며 “마지막 라운드는 조심스럽게 치르겠지만 버디 기회가 오면 과감하게 치겠다”고 말하였다 .	PER-B PER-B O O O O O O O O O O O O O O O O O
-한편 한 희원(30·휠라코리아)은 152야드거리의 파3홀 이+ㄴ 7번홀에서 6번 아이언으로 치+ㄴ 티샷이 홀로 빨리 +어들어가 +아홀 인원을 기록하였다 .	O O ORG-B O O O O O O O O O O O O O O O
-한국은 4승 3패로 아르헨티나와 동률을 이루었지만 득실률에서 1.096으로 1.065의 아르헨티나를 제치고 3위를 차지하였다 .	ORG-B O O ORG-B O O O O O ORG-B O O O O
-[올림픽 본선 진출에 실패 하+ㄴ 한국 남자배구 대표팀 .	O O O O O ORG-B O O O
-길+ㄴ트리뷰트에서 캐리웹이 연장전에서 짧은 파퍼트를 놓치며 우승을 하지 못하+ㄴ 것만 보+아도 .	O PER-B O O O O O O O O O O
-올해로 108회째를 맞는 US 오픈은 12일 밤(한국시간) 캘리포니아 주 샌디에이 고 인근 라호야의 토리파인즈 골프장에서 막을 올리+ㄴ다 .	O O O O O O LOC-B O O O O O LOC-B LOC-B LOC-I O O O
-뷰익인 비테이셔널에서 우즈가 6승 .	O O PER-B O O
-USGA 측은 “고민을 많이 +였다 .	ORG-B O O O O O
-스포츠토토 상품 운영부 박인호 팀장은 “이번 이벤트는 스포츠토토 상품에 대하+ㄴ 고객들의 다양하+ㄴ의견을 수렴하+여서 이를 상품 개발에 적극적으로 반영하기 위하+여 마련되었다”며 “앞으로 정기적으로 상품평가 이벤트를 개최 하+여 고객들이 상품 개발에 참여하+ㄹ 수 있는 기회를 넓히+어나가겠다”고 밝히었다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-19세 소녀 쳉야니(대만)가 시즌 두 번째 메이저대회 이+ㄴ맥도날드 LPGA 챔피언십에서 연장 접전 끝에 우승하며 새롭ㄴ 스타의 탄생을 알리었다 .	O O ORG-B O O O O O O O O O O O O O O O O
-2004년 US 여자 아마퍼블릭 링크스 챔피언십에서 미셸 위를 .	O O O O O O PER-B PER-I O
-로레나오초아(멕시코)는 18번 홀의 버디로 1타를 줄이어 합계 11언더파 277 타로 아니카 소렌스탐(스웨덴)과 함께 공동 3위를 기록하였다 .	ORG-B O O O O O O O O O PER-B ORG-B O O O O O
-피어스에 대하+여서는 아무 걱정이 없다"며 신뢰를 드러내+었다 .	PER-B O O O O O O O
-보스턴은 피어스를 앞세우어 54-42로 전반을 마치었다 .	ORG-B PER-B O O O O O
-외곽포를 앞세우어 점수 차를 좁히+어가던 레이커스는 93-104로 뒤지+ㄴ 종료 2분 여부터 연속 9점을 몰아넣어 2점차로 추격하였다 .	O O O O O ORG-B O O O O O O O O O O O
-파우가 솔은 17점 10리 바운드를 보태+었다 .	ORG-B O O O O O O
-잭슨의 기대는 적중하였다 .	PER-B O O O
-브라이언트는 전반 9득점에 그치었다 .	PER-B O O O O
-브라이언트에 대하+ㄴ보스턴의 수비전술은 1차전과 동일하였고 다시 한 번 효과를 +았다 .	PER-B ORG-B O O O O O O O O O
-보스턴이 지나 +ㄴ 2 경기서 보이어주+ㄴ 수비력을 감안하면 결코 만만 하+ㄴ과제가 아니다 .	ORG-B O O O O O O O O O O O O
-▶케빈 가넷, 무관의 제왕설움 벗을 .	PER-B PER-I O O O O
-결승전은 2006년 길드전 결승에서 맞붙었던 '드림오브팀'과 '훼인 클럽'이 또다시 결승에서 만나 +아 어느 해보다 숨막히는 대결을 펼치었다 .	O O O O O ORG-B ORG-B O O O O O O O O O O O
-안젤코의 계약 연봉은 16만유로(약 25만달러 .	PER-B O O MNY-B MNY-B O
-‘신예’ 청야니 메이저 퀸 우 .	O PER-B O O O O
-우승 상금 30만 달러를 받은 청야니는 시즌 상금 랭킹 4위(83만5000달러)로, 신인왕 포인트에서도 최나연(21; SK텔레콤)을 제치고 1위로 뛰어오르았다 .	O O MNY-B MNY-I O PER-B O O O MNY-B O O PER-B ORG-B O O O O
-최종일에 3타를 줄이+ㄴ 안시현(24)과 1타를 줄이+ㄴ 재미교포 아이린조(24)가 8언더파 280타로 공동 6위에 오르아 한국자매 중 가장 좋은 성적을 내+었고 이선화(22; CJ)와 김미현(31; KTF), 정지민(24)이 7언더파 281 타로 공동 10위에 자리하었다 .	O O O PER-B O O O PER-B O O O O O LOC-B O O O O O PER-B ORG-B PER-B ORG-B PER-B O O O O O O O
-이형택, 올림픽 본선단식 진출권 획득이형택(32·삼성증권)이 9일 남자 프로테니스(ATP)가 발표하+ㄴ새 랭킹에서 55위에 이름을 올리+어 2008 올림픽 단식 출전권을 확보하였다  .	PER-B O O O ORG-B O ORG-B ORG-B O O O O O O O O O O O O
-SI가 꼽은 10명 중에서 앤서니 김(23·나이키골프)은 3위에 랭크되었다 .	ORG-B O O O PER-B ORG-B O O O
-이번 대회 출전 선수 가운데 상금 랭킹 순으로 14명을 선정, 2명씩 7개 매치로 나누+어각 매치별로 1라운드 최종 승무패를 예상하는 방식으로 진행되는 이번 게임에서 황인춘의 우세를 예상 하+ㄴ 비율은 21.47%에 그치었고 나머지 13.65%는 같은 타수를 기록하+ㄹ 것으로 전망하였다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
-김형성의 우세가 예상되는 이유+이다 .	PER-B O O O O
-이일희(테일러메이드) 도 장타에 공격적 이+ㄴ플레이를 펼치는 선수+이지만 그린 싸움에서 오채아가 앞서 +ㄹ 것으로 보이+ㄴ다 .	ORG-B O O O O O O O O PER-B O O O O O
-갤러리 대부분이 캘리포니아 출신 이+ㄴ 우즈와 미켈슨을 열렬히 응원 하+ㄹ 것으로 보이기 때문 .	O O LOC-B O O PER-B PER-B O O O O O O O
-최나연(SK텔레콤)은 미국으로 건너가 +아기량이 향상되+ㄴ 선수+이다 .	ORG-B LOC-B O O O O O
-46만4709달러를 벌어 상금 랭킹 40걸에게 주어지는 2년짜리 풀 시드를 사실상 손에 넣었다 .	MNY-B O O O O O O O O O O O O
-최나연은 13일부터 사흘간 제주도 테디밸리 골프장(파72·6353야드)에서 열리는 BC카드 클래식(총상금 4억원)에 초청 출전 하+ㄴ다 .	PER-B O O LOC-B LOC-B LOC-I O O O MNY-B O O O O
-대회 코스 이+ㄴ필로스 골프장은 장타력보다는 정확하+ㄴ 코스 공략이 필요하+ㄴ 곳이다 .	O O LOC-B LOC-I O O O O O O O
-김보경(던롭스릭슨)도 두산매치 플레이 챔피언십 우승 후 자신감을 얻었지만 샷의 일관성에서는 유소연이 앞서 +ㄴ다 .	ORG-B O O O O O O O O O PER-B O O O
-대부분의 파4홀에서 쇼트아이언으로 그린을 공략 하+ㄹ 것으로 예상되+어 3~4언더파는 무난하+ㄹ듯 .	O O O O O O O O O O O
-한국스포츠계의 어둡ㄴ 단면이 다시 한 번 여실히 드러나 +았다 .	ORG-B O O O O O O O O O
-오는 13일 제주테디밸리골프장(파72ㆍ6353야드)에서 개막하는 총 상금 4억원짜리 빅매치 비씨카드 클래식이 바로 격전의 현장이다 .	O O LOC-B O O O MNY-B O O O O O O O
-물론 지난해 9승을 수확 하+ㄹ 때와는 상황이 조금 다르다 .	O O O O O O O O O O
-두 번씩이나 다잡았던 우승을 막판에 놓치었던 안선주(21ㆍ 하이마트)도 절치부심하고 있다 .	O O O O O O PER-B ORG-B O O O
-코칭스태프가 공교롭게도 모두 센터 출신 이+ㄴ LIG가 다시 같은 포지션이 +ㄴ 김상우를 선택하+ㄴ 것은 다소 의외+이라는 배구계의 반응 .	O O O O O O ORG-B O O O O PER-B O O O O O O O
-그동안 인하대 출신 코칭스태프 +이라는 전통을 쌓아 오+ㄴ 대한항공은 새 사령탑 영입을 시작으로 코치진까지 ‘개혁’을 서두르고 있다 .	O ORG-B O O O O O O ORG-B O O O O O O O O O
-한편 이번 골프토토 승무패24회차는 12일 오후 10시에 발매가 마감되며, 공식적 중결과는 13일 발표되+ㄴ다 .	O O O O O O O O O O O O O O
-레이커스는 이날 승리로 올해 플레이오프홈 9연승 행진을 잇어 +가았다 .	ORG-B O O O O O O O O O
-앨런이 공격을 주도하는 가운데 가넷 이득점에 가담하였고 특유의 수비력이 되살아나+았다 .	PER-B O O O PER-B O O O O O O
-경기 내내 훌륭하+ㄴ슛감을 자랑하던 부야시치는 78-76으로 쫓기+ㄴ 종료 1분 53초 전 3점슛을 터뜨리+어 점수 차를 벌리었다 .	O O O O PER-B O O O O O O O O O O O O
-가넷은 13점 12리 바운드를 보태+었다 .	PER-B O O O O O
-NBA 역사상 7전 4선 승제 시리즈에서 첫 3경기를 패하+ㄴ팀이 시리즈를 뒤집은 경우는 없다 .	O O O O O O O O O O O O O O
-보스턴은 올해 플레이오프 1-2 라운드 원정경기에서 전패를 당하며 부진하였지만 디트로이트와의 동부 컨퍼런스 결승에서 원정 2승은 따+아내면서 자신감을 되찾았다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O
-전반적으로 판정은 레이커스에게 유리하게 흘러가 +았다 .	O O ORG-B O O O O
-수년 동안 NBA 파이널을 경험하였지만 이런 경기는 보+ㄴ적이 없다"며 판정에 대하+ㄴ불만을 제기하+였다 .	O O O O O O O O O O O O O
-리버스 감독의 생각과는 달리 판정은 전반적으로 레이커스에 유리하+여보이었다 .	PER-B O O O O O ORG-B O O
-리버스 감독은 수긍하+ㄹ 수 없다는 반응을 보이었다 .	PER-B O O O O O O O
-우승에 더 가까이 있는 팀은 바로 보스턴이라는 사실은 여전히 변하+ㅁ이 없다 .	O O O O O O ORG-B O O O O O
-1996년 애틀랜타 대회에서는 수영여자 계영 800m에 출전하+여금 메달을 목에 걸었고 2000년 시드니, 2004년 아테네 대회에서는 트라이애슬론 선수로 나서 +었다 .	O O O O O O O O O O O O O O O O O O O O
-‘해외 파vs 국내파’ 13일 제주테디밸리골프＆리조트(파72·6353야드)에서 막을 올리는 2008 비씨카드 클래식(총상금 4억원)에 쏠리+ㄴ 관심이다 .	O O O O LOC-B O O O O O MNY-B O O O
-이들에 맞서는 국내파의 대표주자는 신지애(20·하이마트) .	O O O O ORG-B O
-올 시즌 우승 문턱에서 두 차례나 좌절 하+ㄴ장타자 안선주(21·하이마트) 역시 국내파의 자존심을 지키+어주+ㄹ 우승 후보다 .	O O O O O O O O ORG-B O O O O O O O
-12일 최경주의 측근에 따르면 국내의 대표적 이+ㄴ 척추전문 한방병원이 +ㄴ 자생한방병원의 신준식 원장이 최경주의 요청으로 지나 +ㄴ 9일 미국행 비행기에 오르았다 .	O PER-B O O O O O O O O ORG-B PER-B O PER-B O O O O LOC-B O O O
-'대기 선수' 허민우(27ㆍ 우리골프)가 '무명의 반란'을 일으키었다 .	O O PER-B ORG-B O O O O
-허민우는 "아마추어 시절 64타를 치+어보+ㄴ 경험이 있지만 프로 선수로는 처음"이라며 "여세를 몰아 남은 3라운드 경기에서도 최선을 다하겠다"고 각오를 다지었다 .	PER-B O O O O O O O O O O O O O O O O O O O
-금호아시아나 오픈에서 아쉽게 우승을 놓치 +ㄴ 오태근(32·이동수 골프)은 6언더파 66타로 허인회(21·캘러웨이), 방두환(21·테일러메이드)과 함께 공동 3위에 오르며 다시 한 번 우승에 도전하게 +었다  .	O O O O O O ORG-B ORG-I O O ORG-B ORG-B O O O O O O O O O O O O
-개최지 고성군 선수단을 비롯, 미수복군 선수단까지 19개 시·군 선수단의 입장이 끝나고 원제윤 부대회장(도체육회 부회장)이 개회를 선언하였으며 김흥선 고성군의장이 대북을 3차례 치며 대회 시작을 알리었다 .	O ORG-B ORG-I O ORG-B ORG-I O O O O O PER-B O O O O O ORG-B O O O O O O O
-이어서 9~113회차 스페셜게임은 15일(9회차), 21일(10회차), 22일(11회차), 28일(12회차), 29일(13회차) 치르어지는 3경기씩을 대상으로 시행되 +ㄴ다 .	O O O O O O O O O O O O O O
-‘골프 황제’ 타이거 우즈와 ‘2인자’ 필 미켈슨(이상 미국)의 격돌로 초미의 관심을 모으+ㄴ이 날 ‘소문나 +ㄴ 잔치에 먹을 것 없다’고 기대하였던 화끈하+ㄴ플레이는 나오지 않았다 .	O O PER-B PER-I O PER-B PER-I ORG-B O O O O O O O O O O O O O O O O
-우즈와 미켈슨은 이날 구름 갤러리들을 만족시키는 플레이를 펼치지 못하였다 .	PER-B PER-B O O O O O O O O
-두 달 전 왼쪽 무릎 수술을 받은 우즈는 걷는데 지장은 없어 보이었으나 퍼팅을 앞두고 라인을 보+ㄹ 때 나홀에서 볼을 꺼내 +ㄹ 때 오른쪽 무릎을 굽히는 등 상당히 조심스럽+ㄴ 모습이었다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
-2008 시즌 타이거 우즈, 그랜드 슬램도 .	O O PER-B PER-I O O O
-레이커스는 라마오덤의 대활약에 힘입어 1쿼터를 35-14로 마치었다 .	ORG-B PER-B O O O O O O
-71-73, 보스턴은 2점차로 추격하+ㄴ 채 3쿼터를 끝내 +었다 .	O ORG-B O O O O O O O
-앨런은 19점9리 바운드를 보태+었다 .	PER-B O O O O
-보스턴은 정규시즌에서 66승 16 패를 거두+어 30개 구단 중 최고 승률을 기록하였다 .	ORG-B O O O O O O O O O O O O
-보스턴은 13일(한국시간) 레이커스와의 원정 4차전에서 전반전한 때 24점차로 밀리었다 .	ORG-B LOC-B ORG-B O O O O O O O
-보스턴에게는 너무나 소중하+ㄴ 원정 승리+이다 .	ORG-B O O O O O
-▶폴피어스가 말하는 '가넷&앨런 .	PER-B O PER-B O
-피어스는 브라이언트를 괴롭히었다 .	PER-B PER-B O O
-피어스는 경기 후 브라이언트에 대하+ㄴ 수비를 자청 하+ㄴ이유에 대하+여"내가 브라이언트보다 체격 조건이나 힘에서 조금 낫다고 느끼었다 .	PER-B O O PER-B O O O O O PER-B O O O O O O O
-'스마일 킹' 김하늘(20ㆍ 코오롱)이 '2개 대회 연속 우승'을 향하+여쾌조의 스타트를 끊었다 .	O O PER-B ORG-B O O O O O O O O
-김하늘은 특히 '지존' 신지애(20ㆍ 하이마트)와의 맞대결에서 기선제압에 성공하였다는 것이 자랑거리 .	PER-B O O PER-B ORG-B O O O O O O
-'괴물' 김경태, 화려하+ㄴ 부활샷 적 .	O PER-B O O O O
-김경태는 "퍼터를 26차례 밖에 쓰지 않았다 .	PER-B O O O O O O
-시즌 개막전 KEB인 비테이셔널 우승자 배상문(22ㆍ캘러웨이)도 '멀티플 우승'을 향하+ㄴ순항을 계속하였다 .	O O O O O ORG-B O O O O O
-젠슨은 "현재 오든 의 무릎 상태는 믿을 수 없는 수준이다 .	PER-B O O O O O O O O O O
-한국男배구, 최강 러시아와 풀세트 접전 끝석 .	ORG-B O ORG-B O O O O
-하지만 젊은 선수들이 주축이 되+ㄴ 선수들은 주전 평균 신장이 2m가 넘는 장신군 단 러시아를 맞고 예상 외의 선전을 펼치었다 .	O O O O O O O O O O O O O ORG-B O O O O O O
-결국 한국은 2세트와 3세트를 25-16, 25-18로 따+아내며 승리를 눈앞에 +었다 .	O ORG-B O O O O O O O O O
-특히 그동안 부상 때문에 저+의 기량을 발휘하지 못하였던 ‘꽃미남 스타’ 김요한이 9득점으로 부활 가능성을 내비치+ㄴ 것이고무적이었다 .	O O O O O O O O O O PER-B O O O O O O
-우즈는 이날 이 글 1개와 버디 5개, 보기 4개로 3언더파, 합계 2언더파 140타를 완성하였다 .	PER-B O O O O O O O O O O O O O O
-'빅스타' 가운데서는 이 대회에서 두 차례(1994년, 1997년)나 우승하였던 '황태자' 어니엘스(남아공)가 공동 9위(이븐파 142타)에 포진하+여우승 경쟁에 합류하였다 .	O O O O O O O O O ORG-B O O O O O O O
-체육진흥투표권 수탁사업자 이+ㄴ 스포츠토토㈜(www.sp ortstoto. co.kr)는 지나 +ㄴ 14일 오후 2시에 수원 실내체육관에서 열리+ㄴ2008월드리그 국제남자배구대회 한국-러시아전을 대상으로 하+ㄴ배구토토매치 64회 차 게임에서 최종 세트스코어와 3세트까지의 점수차를 정확히 맞히 +ㄴ 적중자가 115명 나오아 각각 베팅금액의 1045.2배에 해당하는 적중 상금을 가져가+았다고 밝히었다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-한편 골프토토 승무패25회 차 게임은 KPGA투어 SBS에이스저축은행 몽베르 오픈 대회를 대상으로 시행되 +ㄹ 예정이다 .	O O O O O O O O O O O O O O O
-우즈가 이번 대회 정상에 오르면 통산 65승, 메이저대회 14승째 +이다 .	PER-B O O O O O O O O O O
-우즈는 전날에도 이 홀에서 이 글을 잡았다 .	PER-B O O O O O O O
-로코미디에이트(미국)가 단독 3위(1언더파 212타), 2006년 'US 오픈챔프' 제프 오길비(호주)는 D.J.트 아하+ㄴ(미국)과 함께 공동 4위(1오버파 214타)에 오르았다 .	LOC-B O O O O O O PER-B ORG-B PER-B LOC-B O O O O O O
-이로써 한국은 러시아 이탈리아 쿠바 등 강호와 한조에 편성되 +ㄴ이번 월드리그에서 2연패를 당하였다 .	O ORG-B ORG-B ORG-B ORG-B O O O O O O O O O
-장광균(대한항공)도 블로킹 2득점 등 9득점을 올리었다 .	ORG-B O O O O O O
-한편, 한국은 오는 21일 오후 2시부터 세계 최정상의 팀이+ㄴ이탈리아와 월드리그 3차전을 가지+ㄹ 예정이다 .	O ORG-B O O O O O O ORG-B O O O O O
-올해 한국 프로골프에 처음 데뷔 하+ㄴ 허인회는 아마추어 시절 23승이나 거두+ㄴ기대주+이었으나 국가대표 시절 2006도 하아시안게임 대표팀에 선발되지 못하+여한동안 방황을 하기도 +였다 .	O ORG-B O O O O PER-B O O O O O O O O O O O O O O O
-그 사이 5명이 순위 표상단을 차지하며 치열하+ㄴ 선두다툼을 벌이었으나 허인회는 17번홀(파5)에서 천금 같은 버디를 추가하며 균형을 깨+었다 .	O O O O O O O O O PER-B O O O O O O O O
-'국내 지존' 신지애(20ㆍ 하이마트)가 연장 접전 끝에 시즌4승째를 달성하였다 .	O O PER-B ORG-B O O O O O O
-신지애의 우승 여정은 그러나 쉽지 않았다 .	PER-B O O O O O O
-'美의 전쟁' 승자는 안나로 손(호주)이었다 .	O O O PER-B ORG-B O
-한국은 올림픽 예선 좌절에잇어 안방에서 열리는 월드리그 첫판부터 세계 2위 러시아와 맞붙어 출발부터 전망은 밝지 않았다 .	ORG-B O O O O O O O O O ORG-B O O O O O O
-신지애(20·하이마트)가 제2회 BC카드 클래식(총상금 4억원)에서 연장 접전 끝에 승리하며 타이틀 방어에 성공하였다 .	ORG-B O O O MNY-B O O O O O O O O
-반면 김민선은 그리+ㄴ 미스 후 어 프로치샷마저 길어홀 6m 지점에 멈추는 바람에 보기를 기록하였다 .	O PER-B O O O O O O O O O O O O O
-서경 오픈, 신지애 vs 나머지 선수들 격 .	O O PER-B O O O O O
-우즈는 17번홀(파4)에서는 그린 옆 러프에서 날리+ㄴ칩샷이 홀로 빨리 +어들어가 +아행운의 버디를 낚았고 마지막 18번홀(파5)에서는 다시 2온 후 9m 거리의 'ㄴ'자 형태이글 퍼트를 성공시키었다  .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-한편 앤서니 김(23·나이키골프)은 1언더파 70타로 선전하+여합계 6오버파 219타로 공동 24위를 기록하였다  .	O PER-B ORG-B O O O O O O O O O O
-고성군 선발팀은 마지막 날 유연경과 정정옥(여·55)이 159타를 더하며 최종 316타를 기록, 355타를 합작하+ㄴ 횡성군 선발팀을 39타차이로 제치고 여자 일반 2부 단체전 우승을 차지하였다 .	LOC-B O O O PER-B PER-B O O O O O O O LOC-B O O O O O O O O O O
-신지애는 15일 제주테디밸리골프장(파726353야드)에서 열리+ㄴ대회 최종일 강하+ㄴ바람이 불는 날씨에 고전하며 타수를 줄이지 못하였지만 조미현(28ADT캡스), 김민선(21 김영주 골프), 김현지(20LIG)와 벌이+ㄴ 연장전에서 우승컵을 들어 올리었다 .	PER-B O LOC-B O O O O O O O O O ORG-B PER-B ORG-B ORG-I ORG-B O O O O O O
-6타차 공동 3위에서 출발하+ㄴ신지애는 맹추격을 시작하+여 14번홀(파4)에서 더블보기를 한 조미현을 제치고 선두를 꿰차+았지만 17번홀(파5)에서 1m도 안 되는 파퍼트를 놓치는 바람에 동타를 허용 하+여 힘겹ㄴ 승부를 벌이어야 +였다 .	O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O
-"목표는 신인왕"'새내기' 허인회(21ㆍ사진)가 SBS코리언투어 필로스 오픈(총상금 3억원)에서 생애 첫 우승을 일구+어내며 '20대 챔프군단'에 합류하였다 .	O O PER-B O O O MNY-B O O O O O O O O
-1타 차 단독 선두로 먼저 경기를 마치 +ㄴ 허인회는 허석호와 강욱순 등 추격자들이 18번홀에서 파에 그치자 눈물을 글썽이며 우승의 기쁨을 만끽하였다 .	O O O O O O O O PER-B PER-B O O O O O O O O O O O O
-상대는 '백전노장'로 코미디에이트(미국)이다 .	O O ORG-B O
-우즈는 올 시즌 첫 더블보기를 기록하+ㄴ 1번홀에서 둘째 날 1개의 버디를 솎아내 +었지만 1, 3, 4라운드에서 모조리 더블보기를 범하+여 '악몽의 홀'로 남게 +었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-우즈는 14번홀에서는 전략마저 좋지 않았다 .	PER-B O O O O O
-우즈의 포효와 함께 갤러리가 모두 일어서+어서 열광하는 순간이었다 .	PER-B O O O O O O O O
-○… 레저신문의 이종현 국장이 ‘시가 있는 골프’를 출간하였다 .	O O PER-B O O O O O O
-가능하면 자외선이 가장 강 하+ㄴ 오전 10시부터 오후 2시까지는 파운드를 피하는 것+이 좋다 .	O O O O O O O O O O O O O O
-[골프] 이미나 실전 레슨 '디못샷 .	O PER-B O O O O
-미국 LPGA 프로-주소창에 '스포츠'만치시 면 스포츠서울닷컴 기사가 한눈에 .	O O O O O O O O O
-대회가 열리었던 시카고 주 쾰러시의 휘슬링 스트레이츠+이라는 골프장에는 약 1400여개의 벙커가 있었다 .	O O O O LOC-B LOC-B LOC-I O O O O O O
-’클럽하우스에서 TV로 중계를 지켜보던 미디에이트는 우즈의 버디 퍼트가 들어가자 얼떨떨하+ㄴ 표정으로 일그러지 +ㄴ 속 마음을 감추+어야 +였다 .	O O O O PER-B PER-B O O O O O O O O O O O O
-웨스트우드는 18번홀에서 6m 거리의 버디 기회를 만들며 연장 진출을 시도하였으나 버디 퍼트가 홀로 떨어지지 않았다 .	PER-B O O O O O O O O O O O O O O O
-한국리듬체조에서는 유일하게 2008년 베이징 올림픽 출전권을 따+ㄴ신수지는 지나 +ㄴ 13~15일 세계적 이+ㄴ 체조 스타나 디아코마네+하지(미국)가총연출한 현대캐피탈 인 비테이셔널 Ⅱ 세계체조 갈라쇼에 출연하였다 .	ORG-B O O O O O PER-B PER-I O O O O O O ORG-B O O O O O O O O
-1차전에서는 1만3458명으로 공식 집계되 +ㄴ 쿠바 관중의 응원이 홈팀 승리를 톡톡히 돕았다 .	O O O O O LOC-B O O O O O O O
-레이커스는 16일(이하 한국시간) 홈구장 스테이플스센터에서 열리+ㄴ 2007-08 미국 프로농구(NBA) 파이널 5차전에서 접전 끝에 103-98로 승리하였다 .	ORG-B O LOC-B O LOC-B O O O O O O O O O O O
-가솔은 19점 12리 바운드6어시스트로 골밑을 굳게 지키었고 오덤 역시 적극적 이+ㄴ 공격을 펼치+어 20점 11리 바운드를 보태+었다 .	O O O O O O O PER-B O O O O O O O O O O
-보스턴은 3쿼터 초반 레이 앨런의 3점 슛과 피어스의 자유투로 58-57 전세를 뒤집었다 .	ORG-B O O PER-B PER-I O O PER-B O O O O O
-보스턴은 베테랑 샘카셀의 활약으로 분위기를 반전시키었다 .	ORG-B O PER-B O O O O
-피어스는 38점 8어 시스트6리바운드로 활약하였으나 팀패배로 빛이 바래+었다 .	PER-B O O O O O O O O
-만약 보스턴이 2차 전역전패를 당하였거나 레이커스가 4차 전 승리를 지키+어내 +었다면 시리즈 양상은 지금과는 달라지었을 것이다 .	O ORG-B O O O ORG-B O O O O O O O O O O O
-보스턴은 매번 후반에 전세를 뒤집었다 .	ORG-B O O O O O
-레이존론도, 폴 피어스, 켄드릭 퍼킨스 등 주전 3명이 부상으로 인하+여정상 컨디션이 아니었다는 점을 감안하면 비교적 만족스럽 ㄴ 원정 성적표+이다 .	PER-B PER-B PER-I PER-B PER-I O O O O O O O O O O O O O O O
-[NBA 파이널] 폴 피어스"여전히 보스턴이 유리 .	O O PER-B PER-I ORG-B O O
-레이커스와의 파이널 홈1, 2차전에서도 승리 하+ㄴ바 있다 .	ORG-B O O O O O O O
-피어스는 당시 장면에 대하+여"내주지 말았어야 하+ㄹ 가로채기를 허용하였다 .	PER-B O O O O O O O O
-하지만 보스턴의 대반격이 이루어 지+ㄴ 2-3 쿼터에서는 단 3점에 그치었다 .	O ORG-B O O O O O O O O O
-하지만 4쿼터 들어 보스턴이 추격을 개시하였을 때 찬물을 끼얹는 한방의 부재는 평소 모습이 아니었다 .	O O O ORG-B O O O O O O O O O O O
-이신미, 펜싱월드컵 여자 사브르동메달 세계랭킹 14위 한국여자펜싱 대표이신미(25·익산시청)가 16일(한국시간) 쿠바 아바나에서 막을 내리+ㄴ 월드컵 여자 사브르 대회 개인전에서 세계 랭킹 3위사다제이콥슨과 5위 마리엘 자구니스(이상 미국)에잇어 3위에 오르았다 .	PER-B O O PER-B O O LOC-B ORG-B LOC-B LOC-B LOC-B O O O O PER-B O O O O PER-B O PER-B PER-I ORG-B O O O
-우즈는 이번 우승으로 메이저대회 14승, PGA투어 통산 65승을 기록하였다 .	PER-B O O O O O O O O O
-▶ EA스포츠, 타이거 우즈PGA 투어 08-매든 NFL 08발 .	O ORG-B O O O O O O O
-[스포츠토토] 골프팬 46% '김형성, 황인춘 물리치+ㄹ 것 .	O O O PER-B PER-B O O O
-타이거 우즈, 불굴의 승부는 계속 되+ㄴ .	PER-B PER-I O O O O O
-로코미디에이트가 버디를 잡아 1타차로 뒤지+ㄴ 15번홀 이후 우즈는 완벽 하+ㄴ스윙을 구사하였다 .	PER-B O O O O O O PER-B O O O O
-승부처에서 누구도 범접하기 어렵ㄴ ‘괴력’을 발휘하기에 우즈의 기록 행진은 계속 되+ㄹ 것으로 보이+ㄴ다 .	O O O O O O PER-B O O O O O O O
-AP통신은 17일 지상파 방송사 ABC가 생중계 하+ㄴ5차 전 시청률은 10.1이며 마이애미 히트와 댈러스 매버릭스가 맞붙었던 2년 전 5차 전 시청률(9.1)보다 약 11% 오르았다고 보도하였다 .	O O O O ORG-B O O O O O ORG-B ORG-I ORG-B ORG-I O O O O O O O O O O O
-▶2차전과 다르+ㄴ4차전, 4차전과 다르+ㄴ5차전 ▶폴 피어스"여전히 보스턴이 유리 .	O O O O PER-B PER-I ORG-B O O
-장타자 배상문(캘러웨이)은 장타력이 장애가 되+ㄴ 케이스+이다 .	O ORG-B O O O O O
-폴라크 리머(미국)는 로커스트힐 CC에서 +ㄴ 별 재미를 못 +았다 .	PER-B ORG-B LOC-B LOC-I O O O O O O
-비제이싱(피지) 역시 대회 코스를 쉽게 요리 하+ㄹ 수 있는 선수+이다 .	ORG-B O O O O O O O O O O
-미디에이트가 보기를 하+ㄴ 틈을 타 +아우즈는 파를 기록하+여올 시즌 첫 메이저대회 우승이자 통산 14번째 메이저대회 우승의 금자탑을 쌓았다 .	PER-B O O O O PER-B O O O O O O O O O O O O O
-▲ 3라운드-3언더파(단독 선두) 통증이 가시지 않은 우즈는 시작부터 흔들리었다 .	O O O O O O PER-B O O O
-모두가 포기하는 분위기+이었지만 우즈는 버디로 마무리하며 승부를 연장으로 끌고 가+았다 .	O O O PER-B O O O O O O O
-프로농구 2군, 9월부터 부분 발 .	O ORG-B O O O O
-하지만 지원제도가 마련되 +ㄴ만큼 7월 말까지 희망팀이 늘어나 +ㄹ 것으로 기대 하+ㄴ다"며 "상무팀까지 포함시키는 2군 리그를 생각하고 있다"고 밝히었다  .	O O O O O O O O O O O O ORG-B O O O O O O O O
-윤슬아(8위)-이일희(9위), 오채아(11위)-조아람(13위), 조영란(15위)-홍란(12위), 장지혜(19위)-김보배(21위), 임지나(17위)-이창희(18위) 매치의 경우 각각 윤슬아(67.25%), 오채아(61.44%), 조영란(45.29%), 김보배(74.67%), 임지나(43.80%)의 우세를 예상 하+ㄴ 비율이 높았다 .	PER-B PER-B PER-B PER-B PER-B O O O PER-B PER-B PER-B PER-B PER-B O O O O O O
-한편 사퇴 의사를 밝히+ㄴ 루벤 아코스타(멕시코) 회장의 후임으로 중국의 웨이지 중 부회장이 2012년까지 회장직을 맡기로 +였다 .	O O O O PER-B LOC-B O O LOC-B PER-B O O O O O O O
-한국계 이+ㄴ 미국의 케빈 김(185위)은 남자 단식 예선 2회전에서 알렉스 보고 몰로프 주니어(232위·미국)를 2-0(6-47-65)으로 물리치고 3회전에 오르았다 .	O O ORG-B PER-B PER-I O O O O PER-B O O ORG-B O O O O O
-우즈의 이번 US 오픈 우승은 1950년 벤호건의 US 오픈과 비교되 +ㄴ다 .	PER-B O O O O O PER-B O O O O O
-그렇지만 우즈의 스윙코치 이+ㄴ 행크 헤니는 다른 견해를 밝히었다 .	O PER-B O O PER-B PER-I O O O O
-2007 신인 드래프트가 열리+ㄴ 작년 6월 29일 시애틀 수퍼소닉스로부터 레이 앨런(33)을 영입하였고 7월 마지막 날에는 미네소타팀버울 브스 소속의 수퍼스타케빈 가넷(32)을 합류시키었다 .	O O O O O O O ORG-B ORG-I PER-B PER-I O O O O ORG-B O O PER-B PER-I O O
-보스턴은 개막 8연승을 달리 +어구단 타이 기록을 수립하였다 .	ORG-B O O O O O O O O
-디트로이트의 포인트가드 이+ㄴ 천시 빌럽스는 작년 7월 절친 하+ㄴ 친구가 넷에게 보스턴이 적을 권유하였던 일을 후회하였을지도 모르+ㄴ다 .	ORG-B O O PER-B PER-I O O O O O O ORG-B O O O O O O
-결국 보스턴은 18일(한국시간) 열리+ㄴ 홈6차전에서 131-92로 승리하+여대망의 우승을 차지하였다 .	O ORG-B LOC-B O O O O O O O
-전문가들은 이를 두고 "케빈 가넷 영입 못지않은 대단하+ㄴ 성과"라고 평가하였다 .	O O O PER-B PER-I O O O O O O
-보스턴이 정규시즌 66승 16패로 승률 1위를 기록하+ㄴ데 있어서 강력 하+ㄴ 수비농구가 밑바탕이 +었음은 물론이다 .	ORG-B O O O O O O O O O O O O O O
-보스턴 수비전술의 핵심이다 .	ORG-B O O O
-포지는 크+ㄴ 키와 사이즈로 브라이언트를 압박하였다 .	PER-B O O O PER-B O O
-래리 버드가 떠나 +ㄴ이 후보스턴 셀틱스는 팀을 정상으로 이끌어주+ㄹ 수퍼스타의 탄생을 기다리+어+오았다 .	PER-B PER-I O O ORG-B ORG-I O O O O O O O
-피어스는 2차전을 앞두고 무릎 진단을 받지 않았다 .	PER-B O O O O O O O
-모두가 출중 하+ㄴ 기량을 지니 +ㄴ 선수+이지만 보스턴의 중심은 처음부터 마지막까지 변함없이 피어스+이었다 .	O O O O O O O ORG-B O O O O PER-B O
-브라이언트는 18일(한국시간) 보스턴 셀틱스의 22년 만의 우승으로 막을 내리+ㄴ NBA 파이널에서 평균 25.7점 5.0어 시스트 4.7 리바운드를 기록하였다 .	PER-B LOC-B ORG-B ORG-I O O O O O O O O O O O O O O O
-오닐과 헤어지+ㄴ 후 4년 만에 처음으로 팀을 서부 컨퍼런스 정상에 올려놓은 브라이언트, 그러나 6차 전완패와 준우승의 아픔이 더욱 크다 .	O O O O O O O O O O O PER-B O O O O O O O O
-레이커스는 서부 컨퍼런스 결승에서 '디펜딩 챔피언' 샌안토니오 스퍼스를 꺾고 파이널에 진출하였다 .	ORG-B O O O O O ORG-B ORG-I O O O O
-▶[NBA 파이널] 보스턴 우승이끌 +ㄴ '완벽 하+ㄴ 수비 .	O O ORG-B O O O O O O
-보스턴은 18일(한국시간) 매사추세츠주 보스턴뱅크노스가든에서 열리+ㄴ 2008 미국 프로농구(NBA) 챔피언 결정 전 6차전에서 케빈 가넷(26득점 14리 바운드)과 폴 피어스(17점 10도움), 레이 앨런(26점)을 앞세우어 LA 레이커스를 131-92로 꺾고 4승 2패로 정상에 오르았다 .	LOC-B LOC-B LOC-B LOC-B O O O O O O O O PER-B PER-I O O PER-B PER-I O PER-B PER-I O ORG-B ORG-I O O O O O O O
-레이커스는 정규리그 MVP 이+ㄴ 코비브라이언트(22점)가 22개의 슛을 던지+어 7개만 성공하는 부진 속에 별다르+ㄴ 힘 한 번 쓰지 못하고 무너지었다  .	ORG-B O O O PER-B O O O O O O O O O O O O O O O O
-타이거 우즈, 무릎 또 수술 .	PER-B PER-I O O O O
-'골프 황제' 타이거 우즈, 무릎 재수술로 시즌 아 .	O O PER-B PER-I O O O O O
-타이거 우즈, 무릎 재수술로 잔여 시즌 포 .	PER-B PER-I O O O O O O
-이에 따르 아미국 PGA투어는 절대 강자가 사라지 +ㄴ 가운데 ‘한시적 이+ㄴ 1인자’의 자리를 노리는 ‘잠룡’들의 각축전으로 나머지 투어가 진행되게 +었다 .	O O O O O O O O O O O O O O O O O O O O O
-위기의 한국 남자 배구 구원투수 맡은 문용관 감 .	O ORG-B O O O O PER-B O O
-1997년 대표팀 코치로 월드리그에 참여하+ㄴ이후 11년 만에 대표팀을 맡았다 .	O O O O O O O O O O
-이탈리아는 올림픽 예선전 멤버 그대로 월드리그에 출전하고 있는데 한국은 간판이 경수가 부상으로 빠지+어 공격 결정력이 크게 떨어지+ㄴ 상태+이다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O
-국내 최정상의 스포츠 전문지 이+ㄴ 스포츠서울이 창간 23주년을 맞고 스포츠 애호가들의 얘기를 듣어 +보았다 .	O O O O O O O O O O O O O O O
-방두환은 19일 경기도 포천시 몽베르골프장쁘렝 땅, 에떼코스(파72ㆍ7198야드)에서 개막하+ㄴ SBS코리안 투어에이스저축은행 몽베르 오픈(총상금 3억원) 첫날이 글 1개에 버디 6개를 곁들이 어 무려 8언더파 64타를 치는 '퍼펙트 샷'을 날리었다 .	PER-B O LOC-B LOC-B LOC-B LOC-I LOC-I O O O LOC-B O MNY-B O O O O O O O O O O O O O O O
-10번홀에서 출발하+ㄴ 방두환은 이날 12~14번홀의 3연속 버디로 포문을 열기 시작하+여 15번홀이 글로 순식간에 리더보드 상단을 장악하였다 .	O O PER-B O O O O O O O O O O O O O O
-스포츠토토 공식 온라인 발매 사이트 이+ㄴ 베트맨(www.betm an.co.kr)은 21,22일 치르어지는 2008월드리그 국제 남자 배구대회 한국-이탈리아, 중국-폴란드, 이집트-일본 전 등 3경기를 대상으로 하+ㄴ배구토토스페셜 10회 차 게임 투표율 중간 집계 결과 1경기 한국-이탈리아 전에서 이탈리아의 승리에 전체 참가자의 63.93%가 투표하였다고 밝히었다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O
-위기의 한국배구, 스포츠 외교도 빨간 .	O ORG-B O O O O
-상하이 출신으로 난징대에서 불문학을 전공하+ㄴ그는 불어 영어에 능통하+ㄴ 능통 하+ㄴ배구선수 출신의 스포츠 행정가 .	LOC-B O ORG-B O O O O O O O O O O O
-이에 반하+여 일본과 중국은 집행위원회에 각 1명 .	O O ORG-B ORG-B O O O O
-’한국 선수 5명이 미국 여자 프로골프(LPGA) 투어 웨그먼스 LPGA(총상금 200만달러)에서 선두그룹을 형성하며 시즌 두 번째 우승을 향하+여 힘차게 출발하였다 .	ORG-B O O O O O O O O MNY-B O O O O O O O O O O
-한 희원(30·휠라코리아)과 배경은(23·CJ) .	O ORG-B ORG-B O
-한편 초청 출전 하+ㄴ 미셸 위(18·나이키골프)는 버디 3개에 보기 2개로 1언더파 71타를 기록하+여 공동 21위에 오르았다 .	O O O O PER-B ORG-B O O O O O O O O O O O
-전날 8언더파를 몰아치었던 방두환은 이날도 버디 5개를 솎아내 +었다 .	O O O PER-B O O O O O O
-대회를 거듭 하+ㄹ수록 힘을 받는 강경남(27ㆍ 삼화저축은행)도 서서히 몸을 풀기 시작하였다 .	O O O O O PER-B ORG-B O O O O O
-모든 것을 문 전 감독에게 떠넘기 +ㄴ 채 입닫은 협회는 오히려 고위층의 퇴진 압력설을 불러내+어불신만 키우고 있다 .	O O PER-B O O O O O O O O O O O O O O O
-하지만 이런 김나우에게도 남모르+ㄹ 고통이 하나 있다 .	O O PER-B O O O O O
-이날 인터뷰에는 김나우의 어머니와 라켓볼협회 전훈 부회장, 연예인 라켓볼 동호회 선수들이 함께하였다 .	O O PER-B O O PER-B O ORG-B ORG-I ORG-I O O O
-◆비인기 스포츠, "무관심이 장애보다 힘들어요" 꾸준히 연습에 매진한 김나우의 라켓볼 실력은 일취월장하였다 .	O O O O O O O O PER-B O O O O
-멋지고 이쁘+지 않아요" +이라며 웃은 뒤 "제가 김연아처럼 유명하+여지+어서라켓볼도 인기가 많아 지었으면 좋겠어요"라고 의미심장 하+ㄴ말을 던지었다 .	O O O O O O O PER-B O O O O O O O O O
-기자와 인터뷰 후 밝은 눈웃음으로 인사를 전하+ㄴ 김나우는 다시 연습에 몰입하였다 .	O O O O O O O PER-B O O O O
-박인비는 전반 라운드에서 버디만 4개를 잡아내며 상승세를 타+았지만 후반에 버디와 보기를 1개씩 주고받으며 타수를 줄이지 못하+ㄴ 것+이 못내 아쉽었다 .	PER-B O O O O O O O O O O O O O O O O O O O
-정지민은 공동 10위(4언더파 140타)가 +었고, 강수연은 공동 17위(2언더파 142타), 김송희는 5타를 잃는 부진 끝에 공동 54위(1오버파 145타)까지 미끄럼을 타+았다 .	PER-B O O O O PER-B O O O PER-B O O O O O O O O O O
-이로써 한국은 역대 이탈리아와의 상대전적에서 1승25패를 기록하게 +었다 .	O ORG-B O ORG-B O O O O O
-한국은 김요한의 스파이크로 먼저 선취점을 얻은 뒤 문성민의 공격이 다시 살아나면서 4-2로 앞서 +어나가았다 .	ORG-B PER-B O O O O O PER-B O O O O O O O
-문성민과 함께 그동안 부진하였던 김요한이 12득점을 올리며 분전하+ㄴ 것이 그리 하+여도 희망적 이+ㄴ 결과 +이었다 .	PER-B O O O PER-B O O O O O O O O O O O
-김형성"이번에 +ㄴ 우승 안 놓치+어 .	PER-B O O O O O
-2위 박도규(38)와는 2타 차 단독 선두다 .	O PER-B O O O O O
-이탈리아의 3-2 승리와 1~3세트까지의 점수 차(2, 4, 3)를 알아맞히 +ㄴ이들 적중자가운데 1만원을 베팅하+ㄴ배구팬은 이번 회차 최고 적중 상금이 +ㄴ 732만4000원을 가져가게 +었다 .	ORG-B O O MNY-B O O O O O O O MNY-B O O O O O O O MNY-B O O O
-이번 나이스샷 페스티벌 이벤트에 응모를 원하는 골프 팬들은 스포츠토토(www.sp ortstoto. co.kr)이나 베트맨(www.betm an.co.kr) 사이트 내의 이벤트 페이지를 참고하면 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-'한국낭자군'은 지은 희가 데일리 베스트 이+ㄴ 8언더파 64타의 맹타를 뿜어내며 단숨에 공동 2위로 올라서+어 역전 우승에 대하+ㄴ '기대치'가 더욱 높아지고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-장정(28ㆍ 기업은행)이 공동 7위(8언더파 208타)에서 뒤따르고 있다 .	PER-B ORG-B O O O O O O
-한국은 1992년 월드 리그에서 이탈리아를 꺾은 이후 19연패를 당하였다 .	ORG-B O O O ORG-B O O O O O
-하지만 어렵ㄴ 순간 문성민과 김요한의 공격이 살아나면서 다시 경기를 뒤집었고 결국 2세트마저 25-22로 따+아내+어 승리를 눈앞에 +었다 .	O O O PER-B PER-B O O O O O O O O O O O O O
-다시 전열을 정비 하+ㄴ한국은 문성민과 김요한의 스파이크로 8-10까지 따라붙었다 .	O O O ORG-B PER-B PER-B O O O O
-이날 한국은 이탈리아의 공격을 블로킹으로 10개나 막아내 +었지만 블로킹 숫자에서 10-16으로 열세+이었다 .	O ORG-B ORG-B O O O O O O O O O O
-데이비드 오(27토마토저축은행), 김형태(31테일러메이드), 강경남(27삼화저축은행)은 5언더파 283타, 공동 4위로 대회를 마치었다 .	PER-B ORG-B ORG-B ORG-B O O O O O O O
-지나+ㄴ 14일 개막한 2008월드리그 국제남자 배구대회 수원 경기(러시아전) .	O O O O O O O O O
-한국은 21일 이탈리아 전에서 2-3(25-2321-2525-2217-2511-15)으로 역전패하+ㄴ데 잇어22일에도 2-3(25-2325-2215-2519-259-15)으로 지+어아쉽게 첫 승을 놓치었다 .	ORG-B O ORG-B O O O O O O O O O O
-지은희는 23일(한국시간) 미국 뉴욕주 피츠퍼드의 로커스트 힐 골프장(파72ㆍ6328야드)에서 끝나 +ㄴ 미국 여자 프로골프(LPGA) 투어 웨그먼스 LPGA(총상금 200만달러) 최종 4라운드에서 5타를 더 줄이어 합계 16언더파 272 타로 대역전 우승을 일구+어내 +었다 .	PER-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O LOC-B O O O O O MNY-B O O O O O O O O O O O O O O
-지은희의 티샷이 홀 3m 지점에 떨어지자 페테르센의 얼굴에는 긴장하+ㄴ기색이 역력하였다 .	PER-B O O O O O PER-B O O O O
-지은희는 경기 후 "17번 홀버디가 들어가면서 우승을 확신하었다"면서 우승의 기쁨을 만끽하였다 .	PER-B O O O O O O O O O O O
-웃는 모습이 만화영화 '미키마우스'의 캐릭터와 똑같다고 하+여서 붙이어지+ㄴ별명이다 .	O O O PER-B O O O O O
-2004년 2부 투어를 통하+여이듬해 투어에 합류하+ㄴ지은희는 그러나 2년간 '무관'으로 전락하며 인고의 시절을 보내기도 +였다 .	O O O O O PER-B O O O O O O O O O
-체육진흥투표권 수탁사업자 이+ㄴ 스포츠토토㈜(www.sp ortstoto. co.kr)는 지나 +ㄴ 22일 열리+ㄴ 2008월드리그 국제남자배구대회 한국-이탈리아전을 대상으로 하+ㄴ배구토토매치 67회 차 게임에서 최종 세트스코어와 3세트까지의 점수 차를 정확히 맞히 +ㄴ 적중자가 178명 나오아 각각 베팅 금액의 620.6배에 해당하는 적중 상금을 가져가+았다고 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-홈어웨이 방식으로 진행되는 이번 월드리그에서 한국을 비롯하+여 홈팀들이 경기 초반 러시아, 이탈리아 등 강팀과 대등하+ㄴ경기를 펼치+ㄴ 결과로 분석되+ㄴ다 .	O O O O O ORG-B O O O O ORG-B ORG-B O O O O O O O
-우승 상금 30만 달러를 차지하+ㄴ지은희는 챔피언에게 주어지는 2년짜리 풀 시드를 획득하는 동시에 우승 상금 100만달러가 걸리+ㄴ ADT 챔피언십 출전권까지 함께 따+아내 +었다 .	O O MNY-B MNY-I PER-B O O O O O O O O O MNY-B O O O O O O O O
-페테르손에 3타차로 뒤지+ㄴ 채 경기를 시작하였지만 결과는 2타차 완승이었다 .	PER-B O O O O O O O O O
-김인경 등 동료들의 축하 샴페인 세례를 받은 지은희는 “지난해 수잔에게 지+ㄴ 빚을 오늘 돌리+어 받았다”며 “오늘처럼 샷이 좋다면 앞으로 여러 차례 더 우승 하+ㄹ 수 있을 것”이라고 말하였다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
-이지영 등을 제치고 우승하며 두각을 나타내 +ㄴ지은희는 이듬해 5월 88CC에서 열리+ㄴ엑스캔버스 오픈에서 아마추어로 박세리와 대등 하+ㄴ경기를 펼치+어 세상을 깜짝 놀라게 +였다 .	PER-B O O O O O PER-B O O LOC-B O O O PER-B O O O O O O O O
-휘닉스파크 클래식에서 박희영의 거세+ㄴ 추격을 뿌리치고 첫 우승에 성공하+ㄴ지은희는 KB스타투어 2차 대회에서 2주 연속 우승하며 잃었던 미소를 찾았다 .	O O PER-B O O O O O PER-B O O O O O O O O O O
-정회원은 월 3회 주말 부킹이 보장되며 본인은 그린피가 무료이며 부회원 1인은 주중 그린피 면제 .	O O O O O O O O O O O O O O O
-핑골프는 또 홈페이지(www.pinggolf. co.kr)에서 퀴즈 이벤트를 열어 참가자 가운데 추첨을 통하+여로 레나오초아가 사용하는 레드우드ZB퍼터를 비롯하+ㄴ 상품을 선물로 주+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O
-지은희'LPGA 우승' 원동력은 .	PER-B O O O
-처녀 출전하는 대회+이었지만 대회장이 +ㄴ로커스트힐 CC에서의 연습 라운드는 프로암을 포함하+ 여두 번밖에 하지 않았다 .	O O O O LOC-B LOC-I O O O O O O O O O
-국내에서 뛰+ㄹ 때부터 늘 퍼팅을 약점이라고 여기고 있던 지은희는 이번 대회에서 라운드당 26.3개의 ‘짠물’ 퍼팅으로 우승을 이끌었다 .	O O O O O O O O PER-B O O O O O O O O O
-정상적 이+ㄴ스윙이라면 9시 방향에서 클럽 페이스가 정면을 바라+아보+아야 하+ㅂ니다 .	O O O O O O O O O O
-이경수(LIG손해보험)가 빠지+ㄴ 한국팀의 ‘해결사’로 팀을 이끌었다 .	ORG-B O O O O O O
-대표팀 사령탑으로 신치용 삼성화재 감독이 지휘하는 첫 경 .	O O PER-B ORG-B O O O O O
-편애리도 제주 출신으로 유리하+ㄴ조건을 갖추었지만 샷의 일관성에서 +ㄴ 조영란이 우위에 있다 .	PER-B LOC-B O O O O O O PER-B O O O
-선두는 페테르손이었다 .	O PER-B O
-챔피언 퍼팅을 마치 +ㄴ 후장정 .	O O O O PER-B O
+셔독 은 “ 크로 캅 은 다음 달 21 일 일본 오사카 에서 펼쳐질 ‘ 드림 5 ’ 대회 에서 K - 1 강호 제롬 르 밴 너 ( 36 · 프랑스 ) 와 종합 격투기 룰로 붙 게 될 가능성 이 있 다 ” 고 덧붙 였 다 .	PER-B O O PER-B PER-I O O O DAT-B DAT-I ORG-B LOC-B O O O O O O O O O O O O PER-B PER-I PER-I PER-I O O O ORG-B O O O O O O O O O O O O O O O O O O
+‘ 장타자 ’ 이지영 ( 23 · 하이마트 ) 이 마침내 메이저 우승 기회 를 잡 았 다 .	O O O PER-B O O O ORG-B O O O O O O O O O O O
+강력한 우승 후보 인 로레나 오초아 ( 멕시코 ) 와 아니카 소렌스탐 ( 스웨덴 ) 은 나란히 합계 10 언더파 206 타 로 공동 3 위 에 이름 을 올 렸 다 .	O O O O PER-B PER-I O ORG-B O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O
+이지영 은 “ 소렌스탐 과 같이 경기하 게 됐 는데 과거 에 도 밀리 지 않 았 다 ” 며 “ 마지막 라운드 는 조심스럽 게 치르 겠 지만 버디 기회 가 오 면 과감하 게 치 겠 다 ” 고 말 했 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 한희원 ( 30 · 휠라코리아 ) 은 152 야드 거리 의 파 3 홀 인 7 번 홀 에서 6 번 아이언 으로 친 티샷 이 홀로 빨려 들어가 홀인원 을 기록 했 다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 은 4 승 3 패 로 아르헨티나 와 동률 을 이 뤘 지만 득실 률 에서 1.096 으로 1.065 의 아르헨티나 를 제치 고 3 위 를 차지 했 다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+[ 올림픽 본선 진출 에 실패한 한국 남자 배구 대표 팀 .	O O O O O O ORG-B O O O O O
+긴 트리 뷰트 에서 캐리 웹 이 연장전 에서 짧 은 파 퍼트 를 놓치 며 우승 을 하 지 못한 것 만 봐도 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+올해 로 108 회 째 를 맞 는 US 오픈 은 12 일 밤 ( 한국 시간 ) 캘리포니아주 샌디에이고 인근 라호야 의 토리 파인즈 골프장 에서 막 을 올린다 .	O O O O O O O O O O O DAT-B DAT-I O O LOC-B O O LOC-B LOC-B O LOC-B O LOC-B LOC-I LOC-I O O O O O
+뷰익인비테이셔널 에서 우즈 가 6 승 .	O O PER-B O O O O
+USGA 측 은 “ 고민 을 많이 했 다 .	ORG-B O O O O O O O O O
+스포츠토토 상품 운영 부 박인호 팀장 은 “ 이번 이벤트 는 스포츠토토 상품 에 대한 고객 들 의 다양한 의견 을 수렴해서 이 를 상품 개발 에 적극적 으로 반영하 기 위해 마련 됐 다 ” 며 “ 앞 으로 정기적 으로 상품 평가 이벤트 를 개최해 고객 들 이 상품 개발 에 참여할 수 있 는 기회 를 넓혀 나가 겠 다 ” 고 밝 혔 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+19 세 소녀 쳉 야니 ( 대만 ) 가 시즌 두 번째 메이저 대회 인 맥도날드 LPGA 챔피언십 에서 연장 접전 끝 에 우승하 며 새로 운 스타 의 탄생 을 알 렸 다 .	O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2004 년 US 여자 아마 퍼블릭 링크스 챔피언십 에서 미셸 위 를 .	DAT-B DAT-I O O O O O O O PER-B PER-I O O
+로레나 오초아 ( 멕시코 ) 는 18 번 홀 의 버디 로 1 타 를 줄 여 합계 11 언더파 277 타 로 아니카 소렌스탐 ( 스웨덴 ) 과 함께 공동 3 위 를 기록 했 다 .	PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O
+피어스 에 대해서 는 아무 걱정 이 없 다 " 며 신뢰 를 드러냈 다 .	PER-B O O O O O O O O O O O O O O O
+보스턴 은 피어스 를 앞세 워 54 - 42 로 전반 을 마 쳤 다 .	ORG-B O PER-B O O O O O O O O O O O O O
+외곽 포 를 앞세 워 점수 차 를 좁혀 가 던 레이커스 는 93 - 104 로 뒤진 종료 2 분여 부터 연속 9 점 을 몰아넣 어 2 점 차 로 추격 했 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+파우 가솔 은 17 점 10 리바운드 를 보탰 다 .	ORG-B ORG-I O O O O O O O O O
+잭슨 의 기대 는 적중 했 다 .	PER-B O O O O O O O
+브라이언트 는 전반 9 득점 에 그 쳤 다 .	PER-B O O O O O O O O O
+브라이언트 에 대한 보스턴 의 수비 전술 은 1 차 전 과 동일 했 고 다시 한 번 효과 를 봤 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O
+보스턴 이 지난 2 경기 서 보 여 준 수비력 을 감안하 면 결코 만만한 과제 가 아니 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+▶ 케빈 가넷 , 무관 의 제왕 설움 벗 을까	O PER-B PER-I O O O O O O O
+결승전 은 2006 년 길드 전 결승 에서 맞붙 었 던 ' 드림 오브 팀 ' 과 ' 훼 인클럽 ' 이 또 다시 결승 에서 만나 어느 해 보다 숨 막히 는 대결 을 펼 쳤 다 .	O O DAT-B DAT-I O O O O O O O O ORG-B ORG-I ORG-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+안 젤 코 의 계약 연봉 은 16 만 유로 ( 약 25 만 달러 )	PER-B PER-I PER-I O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O
+‘ 신예 ’ 청야 니 메이저 퀸 우뚝	O O O PER-B PER-I O O O
+우승 상금 30 만 달러 를 받 은 청야 니 는 시즌 상금 랭킹 4 위 ( 83 만 5000 달러 ) 로 , 신인왕 포인트 에서 도 최나연 ( 21 ; SK 텔레콤 ) 을 제치 고 1 위 로 뛰어올 랐 다 .	O O MNY-B MNY-I MNY-I O O O PER-B PER-I O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O
+최종일 에 3 타 를 줄인 안시현 ( 24 ) 과 1 타 를 줄인 재미 교포 아이린 조 ( 24 ) 가 8 언더파 280 타 로 공동 6 위 에 올 라 한국 자매 중 가장 좋 은 성적 을 냈 고 이선화 ( 22 ; CJ ) 와 김미현 ( 31 ; KTF ) , 정지민 ( 24 ) 이 7 언더 파 281 타 로 공동 10 위 에 자리 했 다 .	O O O O O O PER-B O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O LOC-B O O O O O O O O O PER-B O O O ORG-B O O PER-B O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O
+이형택 , 올림픽 본선 단식 진출권 획득 이형택 ( 32 · 삼성 증권 ) 이 9 일 남자 프로 테니스 ( ATP ) 가 발표한 새 랭킹 에서 55 위 에 이름 을 올려 2008 올림픽 단식 출전권 을 확보 했 다 ．	PER-B O O O O O O PER-B O O O ORG-B ORG-I O O DAT-B DAT-I ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O DAT-B O O O O O O O O
+SI 가 꼽 은 10 명 중 에서 앤서니 김 ( 23 · 나이키골프 ) 은 3 위 에 랭크 됐 다 .	ORG-B O O O O O O O PER-B PER-I O O O ORG-B O O O O O O O O O
+이번 대회 출전 선수 가운데 상금 랭킹 순 으로 14 명 을 선정 , 2 명 씩 7 개 매치 로 나눠 각 매치 별 로 1 라운드 최종 승 무패 를 예상하 는 방식 으로 진행되 는 이번 게임 에서 황인춘 의 우세 를 예상한 비율 은 21.47 % 에 그 쳤 고 나머지 13.65 % 는 같 은 타수 를 기록할 것 으로 전망 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김형성 의 우세 가 예상되 는 이유 다 .	PER-B O O O O O O O O
+이일희 ( 테일러메이드 ) 도 장타 에 공격적 인 플레이 를 펼치 는 선수 지만 그린 싸움 에서 오채 아가 앞설 것 으로 보인다 .	PER-B O ORG-B O O O O O O O O O O O O O O O PER-B O O O O O O
+갤러리 대부분 이 캘리포니아 출신 인 우즈 와 미켈슨 을 열렬히 응원할 것 으로 보이 기 때문 .	O O O LOC-B O O PER-B O PER-B O O O O O O O O O
+최나연 ( SK 텔레콤 ) 은 미국 으로 건너가 기량 이 향상된 선수 다 .	PER-B O ORG-B ORG-I O O LOC-B O O O O O O O O
+46 만 4709 달러 를 벌 어 상금 랭킹 40 걸 에게 주어지 는 2 년 짜리 풀시드 를 사실상 손 에 넣 었 다 .	MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O
+최나연 은 13 일 부터 사흘 간 제주도 테디 밸리 골프장 ( 파 72 · 6353 야드 ) 에서 열리 는 BC 카드 클래식 ( 총 상금 4 억 원 ) 에 초청 출전한다 .	PER-B O DAT-B DAT-I O O O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+대회 코스 인 필로스 골프장 은 장타력 보다 는 정확한 코스 공략 이 필요한 곳 이 다 .	O O O LOC-B LOC-I O O O O O O O O O O O O O
+김보경 ( 던롭 스 릭슨 ) 도 두산 매치플레이 챔피언십 우승 후 자신감 을 얻 었 지만 샷 의 일관성 에서 는 유소연 이 앞선다 .	PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O PER-B O O O
+대부분 의 파 4 홀 에서 쇼트 아이언 으로 그린 을 공략할 것 으로 예상돼 3 ~ 4 언더파 는 무난할 듯 .	O O O O O O O O O O O O O O O O O O O O O O O
+한국 스포츠 계 의 어두 운 단면 이 다시 한 번 여실히 드러났 다 .	ORG-B O O O O O O O O O O O O O O
+오 는 13 일 제주 테디 밸리 골프장 ( 파 72 ㆍ 6353 야드 ) 에서 개막하 는 총 상금 4 억 원 짜리 빅 매치 비씨카드 클래식 이 바로 격전 의 현장 이 다 .	O O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+물론 지난해 9 승 을 수확할 때 와 는 상황 이 조금 다르 다 .	O O O O O O O O O O O O O O O
+두 번 씩 이나 다잡 았 던 우승 을 막판 에 놓 쳤 던 안선주 ( 21 ㆍ 하이마트 ) 도 절치부심하 고 있 다 .	O O O O O O O O O O O O O O PER-B O O O ORG-B O O O O O O O
+코칭스태프 가 공교롭 게 도 모두 센터 출신 인 LIG 가 다시 같 은 포지션 인 김상우 를 선택한 것 은 다소 의외 라는 배구 계 의 반응 .	O O O O O O O O O ORG-B O O O O O O PER-B O O O O O O O O O O O O
+그동안 인하대 출신 코칭스태프 라는 전통 을 쌓 아 온 대한항공 은 새 사령탑 영입 을 시작 으로 코치 진 까지 ‘ 개혁 ’ 을 서두르 고 있 다 .	O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+한편 이번 골프 토토 승 무패 24 회차 는 12 일 오후 10 시 에 발매 가 마감되 며 , 공식 적중 결과 는 13 일 발표된다 .	O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O DAT-B DAT-I O O
+레이커스 는 이날 승리 로 올해 플레이오프 홈 9 연승 행진 을 이 어 갔 다 .	ORG-B O O O O O O O O O O O O O O O O
+앨런 이 공격 을 주도하 는 가운데 가넷 이 득점 에 가담 했 고 특유 의 수비력 이 되살아났 다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O
+경기 내내 훌륭한 슛 감 을 자랑하 던 부야 시치 는 78 - 76 으로 쫓긴 종료 1 분 53 초 전 3 점 슛 을 터뜨려 점수 차 를 벌 렸 다 .	O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+가넷 은 13 점 12 리바운드 를 보탰 다 .	PER-B O O O O O O O O O
+NBA 역사상 7 전 4 선승 제 시리즈 에서 첫 3 경기 를 패한 팀 이 시리즈 를 뒤집 은 경우 는 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+보스턴 은 올해 플레이오프 1 - 2 라운드 원정 경기 에서 전패 를 당하 며 부진 했 지만 디트로이트 와 의 동부 컨퍼런스 결승 에서 원정 2 승 은 따 내 면서 자신감 을 되찾 았 다 .	ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+전반적 으로 판정 은 레이커스 에게 유리하 게 흘러갔 다 .	O O O O ORG-B O O O O O O
+수년 동안 NBA 파이널 을 경험 했 지만 이런 경기 는 본 적 이 없 다 " 며 판정 에 대한 불만 을 제기 햇 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+리버스 감독 의 생각 과 는 달리 판정 은 전반적 으로 레이커스 에 유리해 보 였 다 .	PER-B O O O O O O O O O O ORG-B O O O O O O
+리버스 감독 은 수긍할 수 없 다는 반응 을 보 였 다 .	PER-B O O O O O O O O O O O O
+우승 에 더 가까이 있 는 팀 은 바로 보스턴 이 라는 사실 은 여전히 변함 이 없 다 .	O O O O O O O O O ORG-B O O O O O O O O O O
+1996 년 애틀랜타 대회 에서 는 수영 여자 계영 800 m 에 출전해 금메달 을 목 에 걸 었 고 2000 년 시드니 , 2004 년 아테네 대회 에서 는 트라이애슬론 선수 로 나섰 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O
+‘ 해외 파 vs 국내 파 ’ 13 일 제주 테디 밸리 골프 ＆ 리조트 ( 파 72 · 6353 야드 ) 에서 막 을 올리 는 2008 비씨카드 클래식 ( 총 상금 4 억 원 ) 에 쏠린 관심 이 다 .	O O O O O O O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O DAT-B O O O O O MNY-B MNY-I MNY-I O O O O O O O
+이 들 에 맞서 는 국내 파 의 대표 주자 는 신지애 ( 20 · 하이마트 ) .	O O O O O O O O O O O PER-B O O O ORG-B O O
+올 시즌 우승 문턱 에서 두 차례 나 좌절한 장타자 안선주 ( 21 · 하이마트 ) 역시 국내 파 의 자존심 을 지켜 줄 우승 후 보다 .	O O O O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O
+12 일 최경주 의 측근 에 따르 면 국내 의 대표적 인 척추 전문 한방병원 인 자생한방병원 의 신준식 원장 이 최경주 의 요청 으로 지난 9 일 미국 행 비행기 에 올 랐 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O ORG-B O PER-B O O PER-B O O O O DAT-B DAT-I LOC-B O O O O O O O
+' 대기 선수 ' 허민우 ( 27 ㆍ 우리 골프 ) 가 ' 무명 의 반란 ' 을 일으 켰 다 .	O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O
+허민우 는 " 아마추어 시절 64 타 를 쳐 본 경험 이 있 지만 프로 선수 로 는 처음 " 이 라며 " 여세 를 몰 아 남 은 3 라운드 경기 에서 도 최선 을 다하 겠 다 " 고 각오 를 다 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+금호아시아나 오픈 에서 아쉽 게 우승 을 놓친 오태근 ( 32 · 이동수 골프 ) 은 6 언더파 66 타 로 허인회 ( 21 · 캘러웨이 ) , 방두환 ( 21 · 테일러메이드 ) 과 함께 공동 3 위 에 오르 며 다시 한 번 우승 에 도전하 게 됐 다 ．	O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O PER-B O O O ORG-B O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O
+개최지 고성군 선수단 을 비롯 , 미 수복 군 선수단 까지 19 개 시 · 군 선수단 의 입장 이 끝나 고 원제윤 부대 회장 ( 도 체육회 부회장 ) 이 개회 를 선언 했 으며 김흥선 고성군 의장 이 대북 을 3 차례 치 며 대회 시작 을 알 렸 다 .	O ORG-B ORG-I O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어서 9 ~ 113 회 차 스페셜 게임 은 15 일 ( 9 회 차 ) , 21 일 ( 10 회 차 ) , 22 일 ( 11 회 차 ) , 28 일 ( 12 회 차 ) , 29 일 ( 13 회 차 ) 치 러 지 는 3 경기 씩 을 대상 으로 시행된다 .	O O O O O O O O O DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+‘ 골프 황제 ’ 타이거 우즈 와 ‘ 2 인 자 ’ 필 미켈슨 ( 이상 미국 ) 의 격돌 로 초미 의 관심 을 모은 이날 ‘ 소문난 잔치 에 먹 을 것 없 다 ’ 고 기대 했 던 화끈한 플레이 는 나오 지 않 았 다 .	O O O O PER-B PER-I O O O O O O PER-B PER-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우즈 와 미켈슨 은 이날 구름 갤러리 들 을 만족 시키 는 플레이 를 펼치 지 못 했 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O
+두 달 전 왼쪽 무릎 수술 을 받 은 우즈 는 걷 는 데 지장 은 없 어 보 였 으나 퍼팅 을 앞두 고 라인 을 볼 때 나 홀 에서 볼 을 꺼낼 때 오른쪽 무릎 을 굽히 는 등 상당히 조심스런 모습 이 었 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2008 시즌 타이거 우즈 , 그랜드슬램 도전	DAT-B O PER-B PER-I O O O
+레이커스 는 라마 오덤 의 대활약 에 힘입 어 1 쿼터 를 35 - 14 로 마 쳤 다 .	ORG-B O PER-B PER-I O O O O O O O O O O O O O O O O
+71 - 73 , 보스턴 은 2 점 차 로 추격한 채 3 쿼터 를 끝냈 다 .	O O O O ORG-B O O O O O O O O O O O O O
+앨런 은 19 점 9 리바운드 를 보탰 다 .	PER-B O O O O O O O O O
+보스턴 은 정규 시즌 에서 66 승 16 패 를 거둬 30 개 구단 중 최고 승률 을 기록 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+보스턴 은 13 일 ( 한국 시간 ) 레이커스 와 의 원정 4 차 전 에서 전반전 한때 24 점 차 로 밀 렸 다 .	ORG-B O DAT-B DAT-I O LOC-B O O ORG-B O O O O O O O O O O O O O O O O O
+보스턴 에게 는 너무나 소중한 원정 승리 다 .	ORG-B O O O O O O O O
+▶ 폴 피어스 가 말하 는 ' 가넷 & 앨런 '	O PER-B PER-I O O O O PER-B O PER-B O
+피어스 는 브라이언트 를 괴롭 혔 다 .	PER-B O PER-B O O O O O
+피어스 는 경기 후 브라이언트 에 대한 수비 를 자청한 이유 에 대해 " 내 가 브라이언트 보다 체격 조건 이나 힘 에서 조금 낫 다고 느 꼈 다 .	PER-B O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+' 스마일 킹 ' 김하늘 ( 20 ㆍ 코오롱 ) 이 ' 2 개 대회 연속 우승 ' 을 향해 쾌조 의 스타트 를 끊 었 다 .	O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O
+김하늘 은 특히 ' 지존 ' 신지애 ( 20 ㆍ 하이마트 ) 와 의 맞대결 에서 기선 제압 에 성공 했 다는 것 이 자랑거리 .	PER-B O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O
+' 괴물 ' 김경태 , 화려한 부활 샷 적중	O O O PER-B O O O O O
+김경태 는 " 퍼터 를 26 차례 밖 에 쓰 지 않 았 다 .	PER-B O O O O O O O O O O O O O O
+시즌 개막 전 KEB 인비테이셔널 우승자 배상문 ( 22 ㆍ 캘러웨이 ) 도 ' 멀티플 우승 ' 을 향한 순항 을 계속 했 다 .	O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O
+젠슨 은 " 현재 오든 의 무릎 상태 는 믿 을 수 없 는 수준 이 다 .	PER-B O O O O O O O O O O O O O O O O O
+한국 男 배구 , 최강 러시아 와 풀세트 접전 끝 석패	ORG-B O O O O ORG-B O O O O O
+하지만 젊 은 선수 들 이 주축 이 된 선수 들 은 주전 평균 신장 이 2 m 가 넘 는 장신 군단 러시아 를 맞 아 예상외 의 선전 을 펼 쳤 다 .	O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+결국 한국 은 2 세트 와 3 세트 를 25 - 16 , 25 - 18 로 따 내 며 승리 를 눈앞 에 뒀 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 그동안 부상 때문 에 제 기량 을 발휘하 지 못 했 던 ‘ 꽃 미남 스타 ’ 김요한 이 9 득점 으로 부활 가능성 을 내비친 것 이 고무적 이 었 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+우즈 는 이날 이글 1 개 와 버디 5 개 , 보기 4 개 로 3 언더파 , 합계 2 언더파 140 타 를 완성 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 빅 스타 ' 가운데 서 는 이 대회 에서 두 차례 ( 1994 년 , 1997 년 ) 나 우승 했 던 ' 황태자 ' 어니 엘스 ( 남아공 ) 가 공동 9 위 ( 이븐 파 142 타 ) 에 포진해 우승 경쟁 에 합류 했 다 .	O O O O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O
+체육 진흥 투표권 수탁 사업자 인 스포츠토토 ㈜ ( www . sportstoto . co . kr ) 는 지난 14 일 오후 2 시 에 수원실내체육관 에서 열린 2008 월드 리그 국제 남자 배구 대회 한국 - 러시아 전 을 대상 으로 한 배구 토토 매치 64 회 차 게임 에서 최종 세트 스코어 와 3 세트 까지 의 점수 차 를 정확히 맞힌 적중 자 가 115 명 나 와 각각 베팅 금액 의 1045.2 배 에 해당하 는 적중 상금 을 가져갔 다고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B O O DAT-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 골프 토토 승 무패 25 회 차 게임 은 KPGA 투어 SBS 에이스 저축은행 몽베르 오픈 대회 를 대상 으로 시행될 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+우즈 가 이번 대회 정상 에 오르 면 통산 65 승 , 메이저 대회 14 승 째 다 .	PER-B O O O O O O O O O O O O O O O O O O
+우즈 는 전날 에 도 이 홀 에서 이글 을 잡 았 다 .	PER-B O O O O O O O O O O O O O
+로코 미디 에이트 ( 미국 ) 가 단독 3 위 ( 1 언더파 212 타 ) , 2006 년 ' US 오픈 챔프 ' 제프 오길비 ( 호주 ) 는 D . J . 트 라 한 ( 미국 ) 과 함께 공동 4 위 ( 1 오버파 214 타 ) 에 올 랐 다 .	PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O O O PER-B PER-I O ORG-B O O PER-B PER-I PER-I PER-I PER-I PER-I PER-I O LOC-B O O O O O O O O O O O O O O O O O
+이 로써 한국 은 러시아 이탈리아 쿠바 등 강호 와 한 조 에 편성된 이번 월드 리그 에서 2 연패 를 당 했 다 .	O O ORG-B O ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O
+장광균 ( 대한항공 ) 도 블로킹 2 득점 등 9 득점 을 올 렸 다 .	PER-B O ORG-B O O O O O O O O O O O O O
+한편 , 한국 은 오 는 21 일 오후 2 시 부터 세계 최 정상 의 팀 인 이탈리아 와 월드 리그 3 차 전 을 가질 예정 이 다 .	O O ORG-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O ORG-B O O O O O O O O O O O O
+올해 한국 프로 골프 에 처음 데뷔한 허인회 는 아마추어 시절 23 승 이나 거둔 기대주 였 으나 국가 대표 시절 2006 도하 아시안 게임 대표 팀 에 선발되 지 못해 한동안 방황 을 하 기 도 했 다 .	O ORG-B O O O O O PER-B O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O
+그 사이 5 명 이 순위 표 상단 을 차지하 며 치열한 선두 다툼 을 벌 였 으나 허인회 는 17 번 홀 ( 파 5 ) 에서 천금 같 은 버디 를 추가하 며 균형 을 깼 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+' 국내 지존 ' 신지애 ( 20 ㆍ 하이마트 ) 가 연장 접전 끝 에 시즌 4 승 째 를 달성 했 다 .	O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O
+신지애 의 우승 여정 은 그러나 쉽 지 않 았 다 .	PER-B O O O O O O O O O O O
+' 美 의 전쟁 ' 승자 는 안나 로손 ( 호주 ) 이 었 다 .	O O O O O O O PER-B PER-I O ORG-B O O O O O
+한국 은 올림픽 예선 좌절 에 이 어 안방 에서 열리 는 월드 리그 첫 판 부터 세계 2 위 러시아 와 맞붙 어 출발 부터 전망 은 밝 지 않 았 다 .	ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+신지애 ( 20 · 하이마트 ) 가 제 2 회 BC 카드 클래식 ( 총 상금 4 억 원 ) 에서 연장 접전 끝 에 승리하 며 타이틀 방어 에 성공 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+반면 김민선 은 그린 미스 후 어프로치 샷 마저 길 어 홀 6 m 지점 에 멈추 는 바람 에 보 기 를 기록 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+서경 오픈 , 신지애 vs 나머지 선수 들 격돌	O O O PER-B O O O O O
+우즈 는 17 번 홀 ( 파 4 ) 에서 는 그린 옆 러프 에서 날린 칩 샷 이 홀로 빨려 들어가 행운 의 버디 를 낚 았 고 마지막 18 번 홀 ( 파 5 ) 에서 는 다시 2 온 후 9 m 거리 의 ' ㄴ ' 자 형태 이글 퍼트 를 성공 시 켰 다 ．	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 앤서니 김 ( 23 · 나이키골프 ) 은 1 언더파 70 타 로 선전해 합계 6 오버파 219 타 로 공동 24 위 를 기록 했 다 ．	O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+고성군 선발팀 은 마지막 날 유연경 과 정정옥 ( 여 · 55 ) 이 159 타 를 더하 며 최종 316 타 를 기록 , 355 타 를 합작한 횡성군 선발팀 을 39 타 차이 로 제치 고 여자 일반 2 부 단체전 우승 을 차지 했 다 .	LOC-B O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+신지애 는 15 일 제주 테디 밸리 골프장 ( 파 72 6353 야드 ) 에서 열린 대회 최종일 강한 바람 이 부 는 날씨 에 고전하 며 타수 를 줄이 지 못 했 지만 조미현 ( 28 ADT 캡스 ) , 김민선 ( 21 김영주 골프 ) , 김현지 ( 20 LIG ) 와 벌인 연장전 에서 우승컵 을 들 어 올 렸 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O ORG-B ORG-I O O PER-B O O ORG-B ORG-I O O PER-B O O ORG-B O O O O O O O O O O O O O
+6 타 차 공동 3 위 에서 출발한 신지애 는 맹추격 을 시작해 14 번 홀 ( 파 4 ) 에서 더블 보기 를 한 조미현 을 제치 고 선두 를 꿰찼 지만 17 번 홀 ( 파 5 ) 에서 1 m 도 안되 는 파 퍼트 를 놓치 는 바람 에 동타 를 허용해 힘겨 운 승부 를 벌 여야 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 목표 는 신인왕 " ' 새내기 ' 허인회 ( 21 ㆍ 사진 ) 가 SBS 코리언 투어 필로스 오픈 ( 총 상금 3 억 원 ) 에서 생애 첫 우승 을 일궈 내 며 ' 20 대 챔프 군단 ' 에 합류 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O
+1 타 차 단독 선두 로 먼저 경기 를 마친 허인회 는 허석호 와 강욱순 등 추격자 들 이 18 번 홀 에서 파 에 그치 자 눈물 을 글썽이 며 우승 의 기쁨 을 만끽 했 다 .	O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+상대 는 ' 백전노장 ' 로코 미디 에이트 ( 미국 ) 이 다 .	O O O O O PER-B PER-I PER-I O ORG-B O O O O
+우즈 는 올 시즌 첫 더블 보기 를 기록한 1 번 홀 에서 둘째 날 1 개 의 버디 를 솎 아 냈 지만 1 , 3 , 4 라운드 에서 모조리 더블 보기 를 범해 ' 악몽 의 홀 ' 로 남 게 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우즈 는 14 번 홀 에서 는 전략 마저 좋 지 않 았 다 .	PER-B O O O O O O O O O O O O O O
+우즈 의 포효 와 함께 갤러리 가 모두 일어서서 열광하 는 순간 이 었 다 .	PER-B O O O O O O O O O O O O O O O
+○ … 레저 신문 의 이종현 국장 이 ‘ 시 가 있 는 골프 ’ 를 출간 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O
+가능하 면 자외선 이 가장 강한 오전 10 시 부터 오후 2 시 까지 는 파운드 를 피하 는 게 좋 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+[ 골프 ] 이미나 실전 레슨 ' 디못샷 '	O O O PER-B O O O O O
+미국 LPGA 프로 - 주소 창 에 ' 스포츠 ' 만 치 시 면 스포츠서울 닷컴 기사 가 한눈 에 !	O O O O O O O O O O O O O O O O O O O O O
+대회 가 열 렸 던 시카고주 쾰러 시 의 휘슬 링 스트레이츠 라는 골프장 에 는 약 1400 여 개 의 벙커 가 있 었 다 .	O O O O O LOC-B LOC-B LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
+’ 클럽 하우스 에서 TV 로 중계 를 지켜보 던 미디 에이트 는 우즈 의 버디 퍼트 가 들어가 자 얼떨떨한 표정 으로 일그러진 속마음 을 감춰야 했 다 .	O O O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O
+웨스트우드 는 18 번 홀 에서 6 m 거리 의 버디 기회 를 만들 며 연장 진출 을 시도 했 으나 버디 퍼트 가 홀로 떨어지 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 리듬 체조 에서 는 유일하 게 2008 년 베이징 올림픽 출전권 을 딴 신수지 는 지난 13 ~ 15 일 세계적 인 체조 스타 나디아 코마네 치 ( 미국 ) 가 총 연출 한 현대캐피탈 인비테이셔널 Ⅱ 세계 체조 갈라 쇼 에 출연 했 다 .	ORG-B O O O O O O DAT-B DAT-I O O O O O PER-B O O O O O O O O O O PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O O O O O O
+1 차 전 에서 는 1 만 3458 명 으로 공식 집계 된 쿠바 관중 의 응원 이 홈팀 승리 를 톡톡히 도 왔 다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O
+레이커스 는 16 일 ( 이하 한국 시간 ) 홈구장 스테이플스센터 에서 열린 2007 - 08 미국 프로 농구 ( NBA ) 파이널 5 차 전 에서 접전 끝 에 103 - 98 로 승리 했 다 .	ORG-B O DAT-B DAT-I O O LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가솔 은 19 점 12 리바운드 6 어시스트 로 골 밑 을 굳 게 지 켰 고 오덤 역시 적극적 인 공격 을 펼쳐 20 점 11 리바운드 를 보탰 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+보스턴 은 3 쿼터 초반 레이 앨런 의 3 점 슛 과 피어스 의 자유투 로 58 - 57 전세 를 뒤집 었 다 .	ORG-B O O O O PER-B PER-I O O O O O PER-B O O O O O O O O O O O O
+보스턴 은 베테랑 샘 카셀 의 활약 으로 분위기 를 반전 시 켰 다 .	ORG-B O O PER-B PER-I O O O O O O O O O O
+피어스 는 38 점 8 어시스트 6 리바운드 로 활약 했 으나 팀 패배 로 빛 이 바랬 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+만약 보스턴 이 2 차 전 역전패 를 당 했 거나 레이커스 가 4 차 전 승리 를 지켜 냈 다면 시리즈 양상 은 지금 과 는 달라 졌 을 것 이 다 .	O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+보스턴 은 매번 후반 에 전세 를 뒤집 었 다 .	ORG-B O O O O O O O O O O
+레이존 론도 , 폴 피어스 , 켄드릭 퍼킨스 등 주전 3 명 이 부상 으로 인해 정상 컨디션 이 아니 었 다는 점 을 감안하 면 비교적 만족스러 운 원정 성적표 다 .	PER-B PER-I O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+[ NBA 파이널 ] 폴 피어스 " 여전히 보스턴 이 유리 "	O O O O PER-B PER-I O O ORG-B O O O
+레이커스 와 의 파이널 홈 1 , 2 차 전 에서 도 승리한 바 있 다 .	ORG-B O O O O O O O O O O O O O O O O
+피어스 는 당시 장면 에 대해 " 내주 지 말 았 어야 할 가로채 기 를 허용 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+하지만 보스턴 의 대 반격 이 이뤄진 2 - 3 쿼터 에서 는 단 3 점 에 그 쳤 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
+하지만 4 쿼터 들 어 보스턴 이 추격 을 개시 했 을 때 찬물 을 끼얹 는 한방 의 부재 는 평소 모습 이 아니 었 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+이신미 , 펜싱 월드컵 여자 사브르 동메달 세계 랭킹 14 위 한국 여자 펜싱 대표 이신미 ( 25 · 익산 시청 ) 가 16 일 ( 한국 시간 ) 쿠바 아바나 에서 막 을 내린 월드컵 여자 사브르 대회 개인전 에서 세계 랭킹 3 위 사 다 제이콥슨 과 5 위 마리엘 자구 니스 ( 이상 미국 ) 에 이 어 3 위 에 올 랐 다 .	PER-B O O O O O O O O O O ORG-B O O O PER-B O O O ORG-B ORG-I O O DAT-B DAT-I O LOC-B O O LOC-B LOC-B O O O O O O O O O O O O O O PER-B PER-I PER-I O O O PER-B PER-I PER-I O O ORG-B O O O O O O O O O O O
+우즈 는 이번 우승 으로 메이저 대회 14 승 , PGA 투어 통산 65 승 을 기록 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+▶ EA 스포츠 , 타이거 우즈 PGA 투어 08 - 매든 NFL 08 발매	O ORG-B ORG-I O O O O O O O O O O O
+[ 스포츠토토 ] 골프 팬 46 % ' 김형성 , 황인춘 물리칠 것 '	O O O O O O O O PER-B O PER-B O O O
+타이거 우즈 , 불굴 의 승부 는 계속된다	PER-B PER-I O O O O O O
+로코 미디 에이트 가 버디 를 잡 아 1 타 차 로 뒤진 15 번 홀 이후 우즈 는 완벽한 스윙 을 구사 했 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O O PER-B O O O O O O O O
+승부처 에서 누구 도 범접하 기 어려 운 ‘ 괴력 ’ 을 발휘하 기 에 우즈 의 기록 행진 은 계속될 것 으로 보인다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+AP 통신 은 17 일 지상파 방송사 ABC 가 생중계 한 5 차 전 시청률 은 10.1 이 며 마이애미 히트 와 댈러스 매버릭스 가 맞붙 었 던 2 년 전 5 차 전 시청률 ( 9.1 ) 보다 약 11 % 올 랐 다고 보도 했 다 .	O O O DAT-B DAT-I O O ORG-B O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+▶ 2 차 전 과 다른 4 차 전 , 4 차 전 과 다른 5 차 전 ▶ 폴 피어스 " 여전히 보스턴 이 유리 "	O O O O O O O O O O O O O O O O O O O PER-B PER-I O O ORG-B O O O
+장타자 배상문 ( 캘러웨이 ) 은 장타력 이 장애 가 된 케이스 다 .	O PER-B O ORG-B O O O O O O O O O O
+폴라 크리머 ( 미국 ) 는 로커스트힐 CC 에선 별 재미 를 못 봤 다 .	PER-B PER-I O ORG-B O O LOC-B LOC-I O O O O O O O O
+비제이 싱 ( 피지 ) 역시 대회 코스 를 쉽 게 요리할 수 있 는 선수 다 .	PER-B PER-I O ORG-B O O O O O O O O O O O O O O
+미디 에이트 가 보기 를 한 틈 을 타 우즈 는 파 를 기록해 올 시즌 첫 메이저 대회 우승 이 자 통산 14 번째 메이저 대회 우승 의 금자탑 을 쌓 았 다 .	PER-B PER-I O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+▲ 3 라운드 - 3 언더파 ( 단독 선두 ) 통증 이 가시 지 않 은 우즈 는 시작 부터 흔들 렸 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O
+모두 가 포기하 는 분위기 였 지만 우즈 는 버디 로 마무리하 며 승부 를 연장 으로 끌 고 갔 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O
+프로 농구 2 군 , 9 월 부터 부분 발족	O O ORG-B ORG-I O DAT-B DAT-I O O O
+하지만 지원 제도 가 마련된 만큼 7 월 말 까지 희망 팀 이 늘어날 것 으로 기대한다 " 며 " 상무 팀 까지 포함 시키 는 2 군 리그 를 생각하 고 있 다 " 고 밝 혔 다 ．	O O O O O O DAT-B DAT-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+윤슬 아 ( 8 위 ) - 이일희 ( 9 위 ) , 오채 아 ( 11 위 ) - 조 아람 ( 13 위 ) , 조영란 ( 15 위 ) - 홍란 ( 12 위 ) , 장지혜 ( 19 위 ) - 김보배 ( 21 위 ) , 임지나 ( 17 위 ) - 이창희 ( 18 위 ) 매치 의 경우 각각 윤슬 아 ( 67.25 % ) , 오채 아 ( 61.44 % ) , 조영란 ( 45.29 % ) , 김보배 ( 74.67 % ) , 임지나 ( 43.80 % ) 의 우세 를 예상한 비율 이 높 았 다 .	PER-B PER-I O O O O O PER-B O O O O O PER-B PER-I O O O O O PER-B PER-I O O O O O PER-B O O O O O PER-B O O O O O PER-B O O O O O PER-B O O O O O PER-B O O O O O PER-B O O O O O O O O PER-B PER-I O O O O O PER-B PER-I O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+한편 사퇴 의사 를 밝힌 루벤 아코스타 ( 멕시코 ) 회장 의 후임 으로 중국 의 웨이 지중 부회장 이 2012 년 까지 회장 직 을 맡 기 로 했 다 .	O O O O O PER-B PER-I O LOC-B O O O O O LOC-B O PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O
+한국 계 인 미국 의 케빈 김 ( 185 위 ) 은 남자 단식 예선 2 회전 에서 알렉스 보고몰로프 주니어 ( 232 위 · 미국 ) 를 2 - 0 ( 6 - 4 7 - 6 5 ) 으로 물리치 고 3 회전 에 올 랐 다 .	O O O LOC-B O PER-B PER-I O O O O O O O O O O O PER-B PER-I PER-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+우즈 의 이번 US 오픈 우승 은 1950 년 벤 호건 의 US 오픈 과 비교된다 .	PER-B O O O O O O DAT-B DAT-I PER-B PER-I O O O O O O
+그렇지만 우즈 의 스윙 코치 인 행크 헤니 는 다른 견해 를 밝 혔 다 .	O PER-B O O O O PER-B PER-I O O O O O O O O
+2007 신인 드래프트 가 열린 작년 6 월 29 일 시애틀 수퍼소닉스 로부터 레이 앨런 ( 33 ) 을 영입 했 고 7 월 마지막 날 에 는 미네소타 팀버울브스 소속 의 수퍼 스타 케빈 가넷 ( 32 ) 을 합류 시 켰 다 .	DAT-B O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O PER-B PER-I O O O O O O O DAT-B DAT-I O O O O ORG-B ORG-I O O O O PER-B PER-I O O O O O O O O O
+보스턴 은 개막 8 연승 을 달려 구단 타이기록 을 수립 했 다 .	ORG-B O O O O O O O O O O O O O
+디트로이트 의 포인트 가드 인 천시 빌럽스 는 작년 7 월 절친한 친구 가넷 에게 보스턴 이적 을 권유 했 던 일 을 후회 했 을지 도 모른다 .	ORG-B O O O O PER-B PER-I O O DAT-B DAT-I O O PER-B O ORG-B O O O O O O O O O O O O O
+결국 보스턴 은 18 일 ( 한국 시간 ) 열린 홈 6 차 전 에서 131 - 92 로 승리해 대망 의 우승 을 차지 했 다 .	O ORG-B O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O O O O O O O O
+전문가 들 은 이 를 두 고 " 케빈 가넷 영입 못지않 은 대단한 성과 " 라고 평가 했 다 .	O O O O O O O O PER-B PER-I O O O O O O O O O O O
+보스턴 이 정규 시즌 66 승 16 패 로 승률 1 위 를 기록한 데 있 어서 강력한 수비 농구 가 밑바탕 이 됐 음 은 물론 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보스턴 수비 전술 의 핵심 이 다 .	ORG-B O O O O O O O
+포지 는 큰 키 와 사이즈 로 브라이언트 를 압박 했 다 .	PER-B O O O O O O PER-B O O O O O
+래리 버드 가 떠난 이후 보스턴 셀틱스 는 팀 을 정상 으로 이끌 어 줄 수퍼스타 의 탄생 을 기다려 왔 다 .	PER-B PER-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+피어스 는 2 차 전 을 앞두 고 무릎 진단 을 받 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O
+모두 가 출중한 기량 을 지닌 선수 지만 보스턴 의 중심 은 처음 부터 마지막 까지 변함없이 피어스 였 다 .	O O O O O O O O ORG-B O O O O O O O O PER-B O O O
+브라이언트 는 18 일 ( 한국 시간 ) 보스턴 셀틱스 의 22 년 만 의 우승 으로 막 을 내린 NBA 파이널 에서 평균 25.7 점 5.0 어시스트 4.7 리바운드 를 기록 했 다 .	PER-B O DAT-B DAT-I O LOC-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+오닐 과 헤어진 후 4 년 만 에 처음 으로 팀 을 서부 컨퍼런스 정상 에 올려놓 은 브라이언트 , 그러나 6 차 전 완패 와 준우승 의 아픔 이 더욱 크 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+레이커스 는 서부 컨퍼런스 결승 에서 ' 디펜딩 챔피언 ' 샌안토니오 스퍼스 를 꺾 고 파이널 에 진출 했 다 .	ORG-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O
+▶ [ NBA 파이널 ] 보스턴 우승 이끈 ' 완벽한 수비 '	O O O O O ORG-B O O O O O O
+보스턴 은 18 일 ( 한국 시간 ) 매사추세츠주 보스턴 뱅크 노스 가든 에서 열린 2008 미국 프로 농구 ( NBA ) 챔피언 결정 전 6 차 전 에서 케빈 가넷 ( 26 득점 14 리바운드 ) 과 폴 피어스 ( 17 점 10 도움 ) , 레이 앨런 ( 26 점 ) 을 앞세 워 LA 레이커스 를 131 - 92 로 꺾 고 4 승 2 패 로 정상 에 올 랐 다 ．	ORG-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-B LOC-I LOC-I O O DAT-B O O O O O O O O O O O O O PER-B PER-I O O O O O O O PER-B PER-I O O O O O O O PER-B PER-I O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+레이커스 는 정규 리그 MVP 인 코비 브라이언트 ( 22 점 ) 가 22 개 의 슛 을 던져 7 개 만 성공하 는 부진 속 에 별다른 힘 한 번 쓰 지 못하 고 무너 졌 다 ．	ORG-B O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+타이거 우즈 , 무릎 또 수술 .	PER-B PER-I O O O O O
+' 골프 황제 ' 타이거 우즈 , 무릎 재수술 로 시즌 아웃	O O O O PER-B PER-I O O O O O O
+타이거 우즈 , 무릎 재수술 로 잔여 시즌 포기	PER-B PER-I O O O O O O O
+이 에 따 라 미국 PGA 투어 는 절대 강자 가 사라진 가운데 ‘ 한시적 인 1 인 자 ’ 의 자리 를 노리 는 ‘ 잠룡 ’ 들 의 각축전 으로 나머지 투어 가 진행되 게 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+위기 의 한국 남자 배구 구원 투수 맡 은 문용관 감독	O O ORG-B O O O O O O PER-B O
+1997 년 대표 팀 코치 로 월드 리그 에 참여한 이후 11 년 만 에 대표 팀 을 맡 았 다 ．	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+이탈리아 는 올림픽 예선전 멤버 그대로 월드 리그 에 출전하 고 있 는데 한국 은 간판 이경수 가 부상 으로 빠져 공격 결정력 이 크 게 떨어진 상태 다 ．	ORG-B O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O O O O O
+국내 최 정상 의 스포츠 전문지 인 스포츠서울 이 창간 23 주년 을 맞 아 스포츠 애호가 들 의 얘기 를 들 어 봤 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+방두환 은 19 일 경기도 포천시 몽베르 골프장 쁘렝땅 , 에떼 코스 ( 파 72 ㆍ 7198 야드 ) 에서 개막한 SBS 코리안 투어 에이스 저축은행 몽베르 오픈 ( 총 상금 3 억 원 ) 첫날 이글 1 개 에 버디 6 개 를 곁들 여 무려 8 언더 파 64 타 를 치 는 ' 퍼펙트 샷 ' 을 날 렸 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 번 홀 에서 출발한 방두환 은 이날 12 ~ 14 번 홀 의 3 연속 버디 로 포문 을 열 기 시작해 15 번 홀 이 글 로 순식간 에 리더 보드 상단 을 장악 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스포츠토토 공식 온라인 발매 사이트 인 베트맨 ( www . betman . co . kr ) 은 21 , 22 일 치 러 지 는 2008 월드 리그 국제 남자 배구 대회 한국 - 이탈리아 , 중국 - 폴란드 , 이집트 - 일본 전 등 3 경기 를 대상 으로 한 배구 토토 스페셜 10 회 차 게임 투표율 중간 집계 결과 1 경기 한국 - 이탈리아 전 에서 이탈리아 의 승리 에 전체 참가자 의 63.93 % 가 투표 했 다고 밝 혔 다 .	O O O O O O O O O O O O O O O O O DAT-B O DAT-B DAT-I O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+위기 의 한국 배구 , 스포츠 외교 도 빨간불	O O ORG-B O O O O O O
+상하이 출신 으로 난징 대 에서 불문학 을 전공한 그 는 불어 영어 에 능통한 능통한 배구 선수 출신 의 스포츠 행정가 .	LOC-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+이 에 반해 일본 과 중국 은 집행위원회 에 각 1 명 .	O O O ORG-B O ORG-B O O O O O O O
+’ 한국 선수 5 명 이 미국 여자 프로 골프 ( LPGA ) 투어 웨그먼스 LPGA ( 총 상금 200 만 달러 ) 에서 선두 그룹 을 형성하 며 시즌 두 번째 우승 을 향해 힘차 게 출발 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O
+한희원 ( 30 · 휠라코리아 ) 과 배경 은 ( 23 · CJ ) .	PER-B O O O ORG-B O O O O O O O ORG-B O O
+한편 초청 출전한 미셸 위 ( 18 · 나이키골프 ) 는 버디 3 개 에 보기 2 개 로 1 언더파 71 타 를 기록해 공동 21 위 에 올 랐 다 .	O O O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+전날 8 언더 파 를 몰아 쳤 던 방두환 은 이날 도 버디 5 개 를 솎 아 냈 다 .	O O O O O O O O PER-B O O O O O O O O O O O O
+대회 를 거듭할수록 힘 을 받 는 강경남 ( 27 ㆍ 삼화 저축은행 ) 도 서서히 몸 을 풀 기 시작 했 다 .	O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O
+모든 것 을 문 전 감독 에게 떠넘긴 채 입 닫 은 협회 는 오히려 고위층 의 퇴진 압력 설 을 불러내 불신 만 키우 고 있 다 ．	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 이런 김나우 에게 도 남모를 고통 이 하나있 다 .	O O PER-B O O O O O O O O
+이날 인터뷰 에 는 김 나 우의 어머니 와 라켓볼 협회 전훈 부회장 , 연예인 라켓볼 동호회 선수 들 이 함께 했 다 .	O O O O PER-B PER-I O O O ORG-B ORG-I PER-B O O ORG-B ORG-I ORG-I O O O O O O O
+◆ 비 인기 스포츠 , " 무관심 이 장애 보다 힘들 어요 " 꾸준히 연습 에 매진 한 김 나 우의 라켓볼 실력 은 일취월장 했 다 .	O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+멋지 고 이쁘 잖 아요 " 라며 웃 은 뒤 " 제 가 김연아 처럼 유명해 져서 라켓볼 도 인기 가 많아 졌 으면 좋 겠 어요 " 라고 의미심장한 말 을 던 졌 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+기자 와 인터뷰 후 밝 은 눈웃음 으로 인사 를 전한 김나우 는 다시 연습 에 몰입 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O
+박인비 는 전반 라운드 에서 버디 만 4 개 를 잡아내 며 상승세 를 탔 지만 후반 에 버디 와 보 기 를 1 개 씩 주고받 으며 타수 를 줄이 지 못한 게 못내 아쉬 웠 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정지민 은 공동 10 위 ( 4 언더파 140 타 ) 가 됐 고 , 강수연 은 공동 17 위 ( 2 언더파 142 타 ) , 김송희 는 5 타 를 잃 는 부진 끝 에 공동 54 위 ( 1 오버파 145 타 ) 까지 미끄럼 을 탔 다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+이 로써 한국 은 역대 이탈리아 와 의 상대 전적 에서 1 승 25 패 를 기록하 게 됐 다 .	O O ORG-B O O ORG-B O O O O O O O O O O O O O O O
+한국 은 김요한 의 스파이크 로 먼저 선취점 을 얻 은 뒤 문성민 의 공격 이 다시 살아나 면서 4 - 2 로 앞서 나 갔 다 .	ORG-B O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+문성민 과 함께 그동안 부진 했 던 김요한 이 12 득점 을 올리 며 분전한 것 이 그래도 희망적 인 결과 였 다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O
+김형성 " 이번 엔 우승 안 놓쳐 "	PER-B O O O O O O O
+2 위 박도규 ( 38 ) 와 는 2 타 차 단독 선두 다 .	O O PER-B O O O O O O O O O O O O
+이탈리아 의 3 - 2 승리 와 1 ~ 3 세트 까지 의 점수 차 ( 2 , 4 , 3 ) 를 알아맞힌 이 들 적중 자 가운데 1 만 원 을 베팅 한 배구 팬 은 이번 회 차 최고 적중 상금 인 732 만 4000 원 을 가져가 게 됐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O
+이번 나이스 샷 페스티벌 이벤트 에 응모 를 원하 는 골프 팬 들 은 스포츠 토토 ( www . sportstoto . co . kr ) 이나 베트맨 ( www . betman . co . kr ) 사이트 내 의 이벤트 페이지 를 참고하 면 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 한국 낭자군 ' 은 지은희 가 데일리 베스트 인 8 언더 파 64 타 의 맹타 를 뿜어내 며 단숨에 공동 2 위 로 올라서 역전 우승 에 대한 ' 기대치 ' 가 더욱 높아지 고 있 다 .	O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장정 ( 28 ㆍ 기업은행 ) 이 공동 7 위 ( 8 언더파 208 타 ) 에서 뒤따르 고 있 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O
+한국 은 1992 년 월드 리그 에서 이탈리아 를 꺾 은 이후 19 연패 를 당 했 다 .	ORG-B O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O
+하지만 어려 운 순간 문성민 과 김요한 의 공격 이 살아나 면서 다시 경기 를 뒤집 었 고 결국 2 세트 마저 25 - 22 로 따 내 승리 를 눈앞 에 뒀 다 .	O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다시 전열 을 정비한 한국 은 문성민 과 김요한 의 스파이크 로 8 - 10 까지 따라붙 었 다 .	O O O O ORG-B O PER-B O PER-B O O O O O O O O O O O
+이날 한국 은 이탈리아 의 공격 을 블로킹 으로 10 개 나 막 아 냈 지만 블로킹 숫자 에서 10 - 16 으로 열세 였 다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+데이비드 오 ( 27 토마토 저축은행 ) , 김형태 ( 31 테일러메이드 ) , 강경남 ( 27 삼화 저축은행 ) 은 5 언더파 283 타 , 공동 4 위 로 대회 를 마 쳤 다 .	PER-B PER-I O O ORG-B ORG-I O O PER-B O O ORG-B O O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+지난 14 일 개막 한 2008 월드 리그 국제 남자 배구 대회 수원 경기 ( 러시아 전 ) .	O DAT-B DAT-I O O DAT-B O O O O O O O O O O O O O
+한국 은 21 일 이탈리아 전 에서 2 - 3 ( 25 - 23 21 - 25 25 - 22 17 - 25 11 - 15 ) 으로 역전패한 데 이 어 22 일 에 도 2 - 3 ( 25 - 23 25 - 22 15 - 25 19 - 25 9 - 15 ) 으로 져 아쉽 게 첫 승 을 놓 쳤 다 .	ORG-B O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지은희 는 23 일 ( 한국 시간 ) 미국 뉴욕 주 피츠퍼드 의 로커 스트 힐 골프장 ( 파 72 ㆍ 6328 야드 ) 에서 끝난 미국 여자 프로 골프 ( LPGA ) 투어 웨그먼스 LPGA ( 총 상금 200 만 달러 ) 최종 4 라운드 에서 5 타 를 더 줄 여 합계 16 언더파 272 타 로 대 역전 우승 을 일궈 냈 다 .	PER-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-I LOC-B O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O
+지은희 의 티 샷 이 홀 3 m 지점 에 떨어지 자 페테르 센 의 얼굴 에 는 긴장한 기색 이 역력 했 다 .	PER-B O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O
+지은희 는 경기 후 " 17 번 홀 버디 가 들어가 면서 우승 을 확신 했 다 " 면서 우승 의 기쁨 을 만끽 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+웃 는 모습 이 만화 영화 ' 미키마우스 ' 의 캐릭터 와 똑같 다고 해서 붙 여 진 별명 이 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O
+2004 년 2 부 투어 를 통해 이듬해 투어 에 합류한 지은희 는 그러나 2 년 간 ' 무관 ' 으로 전락하 며 인고 의 시절 을 보내 기 도 했 다 .	DAT-B DAT-I O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+체육 진흥 투표권 수탁 사업자 인 스포츠토토 ㈜ ( www . sportstoto . co . kr ) 는 지난 22 일 열린 2008 월드 리그 국제 남자 배구 대회 한국 - 이탈리아 전 을 대상 으로 한 배구 토토 매치 67 회 차 게임 에서 최종 세트 스코어 와 3 세트 까지 의 점수 차 를 정확히 맞힌 적중 자 가 178 명 나 와 각각 베팅 금액 의 620.6 배 에 해당하 는 적중 상금 을 가져갔 다고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+홈 어웨이 방식 으로 진행되 는 이번 월드 리그 에서 한국 을 비롯해 홈팀 들 이 경기 초반 러시아 , 이탈리아 등 강팀 과 대등한 경기 를 펼친 결과 로 분석된다 .	O O O O O O O O O O ORG-B O O O O O O O ORG-B O ORG-B O O O O O O O O O O O
+우승 상금 30 만 달러 를 차지한 지은희 는 챔피언 에게 주어지 는 2 년 짜리 풀시드 를 획득하 는 동시 에 우승 상금 100 만 달러 가 걸린 ADT 챔피언십 출전권 까지 함께 따 냈 다 .	O O MNY-B MNY-I MNY-I O O PER-B O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+페테르 손 에 3 타 차 로 뒤진 채 경기 를 시작 했 지만 결과 는 2 타 차 완승 이 었 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+김인경 등 동료 들 의 축하 샴페인 세례 를 받 은 지은희 는 “ 지난해 수잔 에게 진 빚 을 오늘 돌려 받 았 다 ” 며 “ 오늘 처럼 샷 이 좋 다면 앞 으로 여러 차례 더 우승할 수 있 을 것 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이지영 등 을 제치 고 우승하 며 두각 을 나타낸 지은희 는 이듬해 5 월 88 CC 에서 열린 엑스캔버스 오픈 에서 아마추어 로 박세리 와 대등한 경기 를 펼쳐 세상 을 깜짝 놀라 게 했 다 .	PER-B O O O O O O O O O PER-B O O DAT-B DAT-I LOC-B LOC-I O O O O O O O PER-B O O O O O O O O O O O O O
+휘닉스파크 클래식 에서 박희영 의 거센 추격 을 뿌리치 고 첫 우승 에 성공한 지은희 는 KB 스타 투어 2 차 대회 에서 2 주 연속 우승하 며 잃 었 던 미소 를 찾 았 다 .	O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+정회원 은 월 3 회 주말 부킹 이 보장되 며 본인 은 그린피 가 무료 이 며 부 회원 1 인 은 주 중 그린피 면제 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+핑 골프 는 또 홈페이지 ( www . pinggolf . co . kr ) 에서 퀴즈 이벤트 를 열 어 참가자 가운데 추첨 을 통해 로레나 오초아 가 사용하 는 레드우드 ZB 퍼터 를 비롯한 상품 을 선물 로 준다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O
+지은희 ' LPGA 우승 ' 원동력 은 ?	PER-B O O O O O O O
+처녀 출전하 는 대회 였 지만 대회장 인 로커스트힐 CC 에서 의 연습 라운드 는 프로암 을 포함해 두 번 밖에 하 지 않 았 다 .	O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O
+국내 에서 뛸 때 부터 늘 퍼팅 을 약점 이 라고 여기 고 있 던 지은희 는 이번 대회 에서 라운드 당 26.3 개 의 ‘ 짠물 ’ 퍼팅 으로 우승 을 이끌 었 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+정상적 인 스윙 이 라면 9 시 방향 에서 클럽 페이스 가 정면 을 바라 봐야 합니다 .	O O O O O O O O O O O O O O O O O O
+이경수 ( LIG 손해보험 ) 가 빠진 한국 팀 의 ‘ 해결사 ’ 로 팀 을 이끌 었 다 .	PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O
+대표 팀 사령탑 으로 신치용 삼성화재 감독 이 지휘하 는 첫 경기	O O O O PER-B ORG-B O O O O O O
+편애 리 도 제주 출신 으로 유리한 조건 을 갖 췄 지만 샷 의 일관성 에선 조영란 이 우위 에 있 다 .	PER-B PER-I O LOC-B O O O O O O O O O O O O PER-B O O O O O O
+선두 는 페테르 손 이 었 다 .	O O PER-B PER-I O O O O
+챔피언 퍼팅 을 마친 후 장정 .	O O O O O PER-B O
 이탈리아 .	ORG-B O
-[골프]고 박사의 이것만은 지키+ㅂ시 .	PER-B O O O O
-대회가 열리었던 시카고 주 쾰러시의 휘슬링 스트레이츠+이라는 골프장에는 약 1400여개의 벙커가 있었다 .	O O O O LOC-B LOC-B LOC-I O O O O O O
-올 시즌 잔여 경기 출전도 어렵게 +었고 그가 일생의 목표로 삼고 있는 ‘황금곰’ 잭 니클로스의 메이저 최다승(18승)을 깨는 것도 늦추+어지게 +었다 .	O O O O O O O O O O O O O PER-B PER-I O O O O O O O
-우즈는 이 대회 우승으로 ‘골프’가 아니+ㄴ ‘세계’를 바꾸+어놓았다 .	PER-B O O O O O O O O
-우즈의 스코어는 12언더파+이었다 .	PER-B O O O
-매리언은 현재 '선수 옵션(PlayerOption)'을 갖고 있다 .	ORG-B O O O O O O
-과연 마이애미와 매리언이 어떤 선택을 하+ㄹ지 귀추가 주목되+ㄴ다 .	O ORG-B ORG-B O O O O O O
-최단 신 선수는 177.8cm의 카림스미스이다 .	O O O O PER-B O
-지은희(22: 휠라코리아)가 미국 여자 프로골프(LPGA) 투어 진출 2년 만에 감격의 첫 우승을 따+아내 +었다 .	PER-B ORG-B LOC-B O O O O O O O O O O O O
-3라운드 때 행운의 이 글을 선사하였던 1번홀(파4) 버디에잇어 3번(파4), 4번홀(파5)에서 잇따르 아버디를 뽑아내 +ㄴ지은희는 제자리걸음을 한 페테르센을 금세 따라잡았다 .	O O O O O O O O O O O O O PER-B O O PER-B O O O
-1타차로 경기를 뒤집은 지은희는 17번홀(파5)에서 페테르센이 4m 버디를 집어넣자 3m 버디로 응수하였고, 18번홀(파4)에서는 오른쪽 러프에서 그린에 볼을 올리+ㄴ 뒤파를 지키+어 내보기로 홀아웃한 페테르센에 2타차 완승을 거두었다 .	O O O PER-B O PER-B O O O O O O O O O O O O O O O O PER-B O O O O
-경기가 평종 고 2학년에 다니던 2003년에는 프로대회 이+ㄴ 김영주 골프여자오픈에서 준우승을 차지하+ㄴ데 잇어엑스캔버스 오픈에서는 당시 박세리(31)와 맞대결에서 밀리지 않는 플레이로 유명하여 +지+었다 .	ORG-B O O O O O O O O O O O O O O PER-B O O O O O O O
-2 수잔 페테르 세+ㄴ-14274(70-6567-72 .	O PER-B PER-I PER-I O
-로레이나 오초아(72-7068-69 .	PER-B PER-I O
-브라이언트-제임스 등, 美농구 드림팀 12명 최종 확 .	PER-B O LOC-B O O O O O
-이들 12명 가운데 동메달에 그치+ㄴ 지나 +ㄴ 2000년 아테네 올림픽 당시 멤버는 제임스를 비롯하+여앤서이니, 웨이드, 보쉬 등 단 4명뿐이다 .	PER-I O O O O O O O O O O O PER-B PER-B PER-B PER-B O O O O
-브라이언트는 2000년 시드니 올림픽 당시 개인 사정 때문에 출전을 포기하+ㄴ데 잇어 2004년 아테네 올림픽 때는 성폭행 사건에 연루되 +어 대표팀에 들어가지 못하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-코치로 서 명예의 전당에 헌액되+ㄴ 듀크대 마이크 크르지쥬스+하기 대표팀 감독은 “33명에서 12명으로 압축하는 과정이 무척 힘들었다 .	O O O O O ORG-B PER-B PER-I O O O O O O O O O
-올해도 1~2언더파로 출발하+ㄹ듯 .	O O O O
-폴라크 리머(미국)는 아직 메이저 우승이 없다 .	PER-B LOC-B O O O O O
-미국은 야심차게 슈세프스+하기 감독을 대표팀 사령탑에 앉히고 상비군 시스템을 도입하+ㄴ 지나 +ㄴ 2006년 세계선수권대회에서도 우승에 실패하자 크+ㄴ 충격을 받았다 .	LOC-B O PER-B O O O O O O O O O O O O O O O O O
-키드가 마지막으로 대표팀에 몸담았던 2000년 시드니 올림픽에서 금메달을 거머쥐었다 .	PER-B O O O O O O O O O
-2003년 신인 드래프트3인방은 그동안 두 차례 세계 메이저대회에 출전하였으나 미국을 정상으로 이끌지는 못하였다 .	O O O O O O O O O ORG-B O O O O
-대표팀은 당초 강호들과 맞붙을 기회가 더 많은 유럽 전지훈련을 검토하+여+보았으나 현지 일정이 여의하지 않아 중국으로 눈을 돌리었다 .	O O O O O O O O O O O O O O ORG-B O O O
-김유택 대표팀 코치는 "공백기가 길었던 만큼 신체 밸런스를 비롯하+여 여전히 가다듬을 부분이 많지만 꾸준히 운동을 하면서 예전보다 크게 나아지+ㄴ 것 +ㄴ 사실이다"고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-▶한국 남자농구, 양궁농구와 작별…골 밑에서 승 .	ORG-B O O O O O O
-적어도 상반기에 3승은 수확 하+여야 신지애(4승)와의 격차를 줄이며 하반기 역전을 노리+ㄹ 수 있다 .	O O O O O PER-B O O O O O O O O
-그만큼 신지애가 있는 대회에서 우승하기가 쉽지 않다는 의미이다 .	O PER-B O O O O O O O
-'골프 황제' 타이거 우즈(미국 ㆍ사진)가 '무릎 수술'을 성공적으로 마치었다 .	O O PER-B ORG-B O O O O O O
-우즈는 이어 "내년 시즌에는 미국 프로골프(PGA) 투어에 건강하+ㄴ 모습으로 복귀하기 위하+여곧 재활에 들어가겠다"고 밝히었다 .	PER-B O O O O O O O O O O O O O O
-특히 이번 행사는 지난해보다 다양하+여지+ㄴ 농구 관련 게임들과 무대공연, NBA 스타의 참석 및 댄스팀과 마스코트의 공연으로 한국 농구팬들에게 즐거움을 선사하+ㄹ 것으로 기대되+ㄴ다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O
-'루키' 최혜용(18ㆍ LIG)이 '무주공산'을 차지하+ㄹ 절호의 기회를 잡았다 .	O PER-B ORG-B O O O O O O
-코스레코드를 작성하+ㄴ 최혜용은 또 상금 200만원을 받는 기쁨도 누리었다 .	O O PER-B O O MNY-B O O O O
-김하늘은 버디 2개를 보기 2개와 맞바꾸며 공동 30위(이븐파 72타)에 그치었다 .	PER-B O O O O O O O O O O
-이날 김광호 부총재, 박세호 사무총장, 이한구 경기운영위원장, 황명석 심판위원장도 함께 물러나 +았다 .	O PER-B O PER-B O PER-B O PER-B O O O O O
-KCC 서장훈-추승균, 우승 못하였으니 연봉 동결 OK .	ORG-B PER-B O O O O O O
-추승균과 연봉 3억5000만원(옵션3000만원 포함)에 재계약하였다고 26일 뒤늦게 밝히었다 .	PER-B O MNY-B O O O O O O
-현주엽과 조상현에 대하+여서는 구체적 이+ㄴ 제안금액은 나오지 않고 있지만 FA(자유계약 선수) 전형수의 영입으로 일정 부분 삭감이 불가피하고 두 선수 역시 이를 받아들이+ㄴ다는 원칙에는 합의 하+ㄴ 것으로 전하+여지고 있다 .	PER-B PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
-아이언샷과 달리 퍼트감은 전날과 마찬가지로 옛 스승 한 명현 프로의 ‘특훈’ 효과를 톡톡히 +았다 .	O O O O O O O O O O O O O O O
-“미셸 위는 부활하고 있다 .	PER-B PER-I O O O
-미셸 위의 부활 조짐은 지나 +ㄴ 1일 끝나 +ㄴ 유러피언 여자 프로골프 투어(LET) 독일 오픈에서 공동 6위를 차지하면서부터 보이기 시작하였다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O
-나상욱은 27일(한국시간) 미국 미시간주 그랜드 블랭크의 워윅힐스 CC(파72·7127야드)에서 열리+ㄴ 1라운드에서 보기 없이 버디만 5개를 뽑아내는 깔끔하+ㄴ플레이로 5언더파 67타를 적어 내 +었다 .	PER-B LOC-B LOC-B LOC-B LOC-B LOC-I LOC-B LOC-I O O O O O O O O O O O O O O
-2000년이 대회 우승자이며 US 오픈에서 타이거 우즈(미국)와 91홀까지 가는 연장 접전 끝에 준우승에 머무르었던 로코미디에이트(미국)는 경기 직후 “매우 피곤하다 .	O O O O O PER-B ORG-B O O O O O O O ORG-B O O O O O
-1 경기 쿠바-한국전 최종 세트스코어는 한국의 3-2 승리(26.07%)와 쿠바의 3-0 승리(21.05%)를 예상 하+ㄴ 참가자가 많았다 .	O O ORG-B O O ORG-B O O ORG-B O O O O O O O
-US 여자 오픈에서 재기를 노리는 미셸 위(18·나이키 골프)에 첫날 결정타를 날리+ㄴ 9번홀은 413야드짜리파4홀이었다 .	O O O O O PER-B PER-I O O O O O O O
-미셸 위, 부활의 나래펴 다… 양희영은 프로 데뷔 첫  .	PER-B PER-I O O O PER-B O O O O O
-신지애(20·하이마트)도 10~12번홀에서 3연속 버디를 잡는 집중력으로 4언더파 69타를 기록하+여마스터카드 클래식 우승자 이+ㄴ 루이제프리베리(스웨덴) .	ORG-B O O O O O O O O O O O ORG-B O
-1988년생 동갑내기 이+ㄴ이들은 국가대표로 한 솥밥을 먹은 사이로 1998년 박세리가 US 여자 오픈에서 ‘맨발의 투혼’을 펼치며 우승하였을 때 골프에 입문 하+ㄴ ‘박세리 키드’들이다 .	O O O O O O O O O PER-B O O O O O O O O O O O PER-B O O
-오초아는 12번홀까지 보기만 3개를 쏟아내 +었으나 14.16.18번홀에서 징검다 리버디를 잡아 스코어를 회복하였다 .	PER-B O O O O O O O O O O O O
-‘투어 2년차’ 오지영(20·에머슨퍼시픽)이 올해 63회째를 맞는 미국 여자 프로골프협회(LPGA) 투어 시즌 세 번째 메이저대회 이+ㄴ ‘US 여자 오픈(총상금 310만달러)’ 1라운드에서 공동 선두에 오르는 깜짝 활약을 펼치었다 .	O O ORG-B O O O O O O O O O O O O O O O MNY-B O O O O O O O O
-US 여자 오픈 리더보드 상단에 이름을 올리는 것이 꿈이었는데 오늘 그 꿈을 이루+어 기쁘다” +이라는 소감을 밝히었다 .	O O O O O O O O O O O O O O O O O O
-최혜용, 롯데마트 여자골프 생애 첫  .	PER-B O O O O O O
-그리고 후반 12번홀(파4)에서 상황은 급변하였다 .	O O O O O O
-최혜용 '삼수 끝에 생애 첫 우승 .	PER-B O O O O O O
-최혜용과 유소연의 이날 경기는 경기 중반까지만 하+여도매치 플레이를 방불하게 하는 팽팽하+ㄴ 접전으로 이어지었다 .	PER-B PER-B O O O O O O O O O O O O
-유소연은 이후 최혜용 이 보기를 범하+ㄴ 16번홀(파4) 버디로 다시 3타차로 간격을 좁히었지만 역부족이었다 .	PER-B O PER-B O O O O O O O O O O O
-최윤호는 최우수 선수상을 받았다 .	PER-B O O O O
-○… 서울 삼성이상민이 26일 중저가 의류업체 이+ㄴ㈜ 케이디엠아이앤씨와 1년간 광고 모델 계약을 +였다고 업체 측이 27일 밝히었다  .	O ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O O
-12번홀(파4)과 16번홀(파5)에서 버디를 보태+ㄴ나상욱은 1번홀(파5)과 8번 홀(파3)에서 버디를 추가하며 1라운드를 마치었다 .	O O O PER-B O O O O O O O O
-US 여자 오픈, 오지영 깜짝 선두 ‘저도 있답니다∼ .	O O O PER-B O O O O O
-장기 이+ㄴ드라이버샷과 숏 아이언이 잘 되+어 부담 없이 게임을 +였다” +이라며 “2년 전 프로가 되+ㄴ 뒤 최고가 되기 위하+여 노력 하+여+오았다 .	O O O O O O O O O O O O O O O O O O O O O O
-세계랭킹 2위 안니카 소렌스탐(스웨덴)도 퍼팅 수 33개를 기록하는 퍼팅감난 조 속에 1라운드에서만 2타를 잃어버리며 공동 66위까지 처지었다 .	O O PER-B ORG-B O O O O O O O O O O O O O O
-하지만 단독 선두와 6타차, 공동 7위 그룹과 2타차 공동 15위에 이름을 올리+ㄴ위창수는 지나 +ㄴ 4월 바이런 넬슨 챔피언십 공동 7위에잇어 시즌 두 번째 ‘톱10’ 진입의 희망을 밝히었다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
-올해로 63회째를 맞는 미국 여자 프로골프협회(LPGA) 투어 시즌 세 번째 메이저대회 이+ㄴ ‘US 여자 오픈(총상금 310만달러)’ 3라운드에서 한국 자매 6명이 ‘톱10’에 이름을 올리며 최종 라운드 대추격전의 발판을 마련하였다 .	O O O O O O O O O O O O O O O MNY-B O LOC-B O O O O O O O O O O O
-2라운드까지 단독 선두(6언더파 140타)에 오르았던 ‘브라질 동포’ 안젤라박(20·LG전자)은 3라운드에서 2타를 잃고 공동 7위 그룹(4언더파 215타)에 자리하였고 김영(28)과 장정(28·기업은행)이 나란히 3언더파 216 타로 공동 9위 그룹에 이름을 올리+어 상위권 입상의 가능성을 밝히었다 .	O O O O O LOC-B O ORG-B O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O
-29일(한국시간) 미국 미네소타주 에디나의 인터라켄 CC(파73.6천789야드)에서 열리+ㄴ 3라운드 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-I O O O
-한편 10대 때 허리가 휘어지는 척추측만증으로 수술을 받았던 인간 승리의 주인공 스테이시 루이스는 프로 데뷔 후 첫 대회에서 단독 선두로 나서+어스포트라이트를 받았다 .	O O O O O O O O O O O PER-B PER-I O O O O O O O O O O
-박인비는 30일(한국시간) 미국 미네소타주 에디나의 인터라켄 CC(파73.6천789야드)에서 열리+ㄴ 최종 라운드에서 버디 5개와 보기 3개를 묶어 2타를 줄이며 최종 합계 9언더파 283 타로 정상에 오르았다 .	PER-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O
-화려하+ㄴ은퇴를 준비하고 있는 세계 랭킹 2위 안니카 소렌스탐(스웨덴)은 최종 라운드에서 7타를 잃는 부진 끝에 3오버파 295 타로 공동 24위에 그치었지만 18번홀(파5)에서 6번 아이언으로 친세 번째 샷을 홀인시키는 이글쇼로 잊지 못하+ㄹ US 여자 오픈 마무리를 +였다 .	O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-23세의 루이스는 10대 때 허리가 휘어지는 척추측만증 때문에 척추에 철심을 박는 수술을 받으면서도 골프채를 놓지 않았다 .	O PER-B O O O O O O O O O O O O O O O
-그렉 노먼 -크리스 에버트, 바하마서 20억 웨딩마 .	PER-B PER-I PER-B PER-I LOC-B MNY-B O O
-또한 27일 리허설 때와 28일 결혼식 리셉션을 위하+여 그렉 노먼의 농장서 가져오+ㄴ포도주가 공수되었다고 하+ㄴ다 .	O O O O O O O O PER-B PER-I O O O O O
-소렌스탐 “복귀전은 US 여자 오픈이 되+ㄹ 것 .	PER-B O O O O O O O
-소렌스탐은 “나는 또 다른 소중 하+ㄴ 기억을 갖고 떠나 +ㄴ다”면서 “마지막이라 생각 하+여서 이+ㄴ지 이번 주 내내 감정의 변화가 심하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ해 무려 6관왕을 차지하였던 신지애가 올 하+ 여도 독주 하+ㄹ 것이라는 예상이 높았다 .	O O O O PER-B O O O O O O O O O
-지나+ㄴ해단 한 번의 우승도 차지하지 못하였던 김하늘은 신인왕을 차지하+ㄴ 후크+ㄴ 변화 롤보이어주고 있다 .	O O O O O O PER-B O O O O O O O
-박인비(20)는 화려 하+ㄴ아마추어 경력을 바탕으로 일찌감치 '차세대 기대주'로 두각을 나타내 +었던 선수+이다 .	PER-B O O O O O O O O O O O O
-2006년 4월 프로로 전향 하+ㄴ 박인비는 2부 투어 이+ㄴ 퓨처스 투어에서 11차례의 '톱10' 진입으로 상금 랭킹 3위에 오르아 2007년 본격적으로 투어에 합류하였다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O
-2006년 4월 프로로 전향 하+ㄴ 박인비는 LPGA2부 투어 이+ㄴ 퓨처스 투어에 데뷔 하+여1승을 포함, 11번 ‘톱10’에 이름을 올리+ㄴ 뒤 그해 말 퀄리 파잉(Q)스쿨에 응시하+여 공동 4위로 통과하면서 지난해 LPGA투어를 밟는 등 탄탄대로를 걷었다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-상반기 회원권 시장은 1분기가 유약하+ㄴ 상승세+이었다면 2분기는 전반적 이+ㄴ 조정 국면이+ㄴ 것으로 특징 짓어 지+ㄴ다 .	O O O O O O O O O O O O O O O O
-서울∼포천 간 고속도로, 제2외곽순환도로, 그리고 경춘고속도로 개통을 앞두 +ㄴ 수도권 북부회원권들은 접근성에 대하+ㄴ기대감으로 가격이 일제히 상승 하+ㄴ반면 한강 이남권은 상대적으로 낙폭이 +었다 .	LOC-B O O LOC-B O O O O O O O O O O LOC-B O O LOC-B O O O O O
-이에 반하+여 한국레저산업연구소 서천범 소장은 “국내 골프회원권 시장은 외부 여건의 악화와 그동안 상승에 따르+ㄴ부담감으로 하락세에 접어들었다”면서 “따라서 향후 회원권 시장은 입회금 반환 문제와 맞물리+어 당분간 상승세로 돌아서기가 어렵 ㄹ 것”이라고 전망하였다 .	O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-프로농구역사상 연봉 7억원대 선수가 탄생하+ㄴ 것+ㄴ 출범 12년 만에 처음이다 .	O O MNY-B O O O O O O O O
-동부는 합의점을 찾지 못하+여 연봉조정 신청에 들어가 +ㄴ강대협을 제외 하+ㄴ 주요 선수들과의 계약을 마무리 짓었다 .	ORG-B O O O O O O PER-B O O O O O O O O
-98년 박세리가 스무 살의 꽃답ㄴ 나이로 IMF 한파에 신음 중이던 국민들에게 희망을 안기었듯 박인 비 역시 약관의 나이로 화끈하+ㄴ 역전 우승을 이끌어 고유가에 쇠고기 정국으로 시름 중이+ㄴ 대한민국에 새롭ㄴ 희망을 전하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O
-박인비는 “(박)세리언니가 10년 전 US 여자 오픈에서 우승하는 것을 지키+어보면서 골프에 입문하였다 .	PER-B PER-B O O O O O O O O O O O
-골프토토 승무패 게임은 2일(수)KLPGAMBC투어 제7회 레이크 사이드 여자 오픈(30회차)에잇어 3일(목)PGAAT＆T 내셔널(31회차) .	O O O O O O O O O O O O
-◇한국 남자배구 6연패 .	ORG-B O O O
-올림픽 자유형 400m안 뛰+ㄴ다 ‘마린 보이’ 박태환(단국대)의 유력 하+ㄴ 베이징 올림픽 금메달 종목이+ㄴ 자유형 400m에서 잠재적 경쟁자로 떠오르았던 ‘수영 황제’ 마이클 펠프스(23·미국)가 이 종목 출전을 포기하였다 .	O O O O PER-B PER-I ORG-B O O O O O O O O O O O PER-B PER-I PER-B ORG-B O O O O O
-29일, 국 .	O O O
-●미국 프로투어 뷰익 오픈(미국 그랜드 블랭크 .	LOC-B O O LOC-B LOC-B LOC-I O
-5일과 6일에는 배우 손지창이 이끌는 연예인 농구단 '피닉스'가 현장을 찾아 농구 실력을 뽐내 +ㄹ 예정이다 .	O O O PER-B O O O ORG-B O O O O O O O O
-대구 오리온스 김승현은 작년보다 8000만원이 삭감되 +ㄴ 연봉 5억5000만원(인센티브 7000만원)으로 김주성 에잇어 연봉 랭킹 2위에 오르았다 .	ORG-B ORG-I PER-B O MNY-B O O O MNY-B MNY-B PER-B O O O O O O
-신인왕을 차지하+ㄴ 김태술은 70%의 인상률을 기록하며 프로 2년차 중 최고액이 +ㄴ 1억7000만원(인센티브 1000만원)에 계약하였다 .	O O PER-B O O O O O O O O MNY-B MNY-B O O
-이동호 신임 총재는 그동안 정치인, 관료 출신이 도 맡다시피 하+였던 프로스포츠 총재 자리에 이례적으로 등장하+ㄴ 경제인 출신이라 주목을 받고 있다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-"장영달 대한배구협회장이 1일 한국배구연맹(KOVO) 총재 취임식에서 축사를 통하+여 2대 총재로 취임하+ㄴ이동호(50) 대우자동차 판매 ㈜ 사장에게 농담을 건네자식장에 웃음이 번지었다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O
-이 총재는 우선 자신이 회장을 맡고 있는 대우자동차 판매㈜의 자회사 이+ㄴ 우리캐피탈 팀을 창단하+여2009~2010 리그부터 참여시키고 별도로 팀을 하나 더 만들겠다고 밝히었다 .	PER-B O O PER-B O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O
-페더러(스위스)3(7-66-26-4)0 휴이트(호주), 나달(스페인) 3(6-36-36-1) 0 유즈니(러시아), 머레이(영국)3(5-73-67-66-26-4) 2가 스케(프랑스 .	ORG-B ORG-B ORG-B O O ORG-B ORG-B O ORG-B O
-●대통령 배 전국 남녀 중고대회(충북 옥천체육센터 .	O O O O LOC-B LOC-I O
-최영우-전용현(진광) 2(22-2421-1621-15) 1 김대은-한 토성(화순실 .	ORG-B O O PER-B ORG-B O
-문화체육관광부는 1일 김주훈 전 총장을 제9대 체육공단 이사장으로 임명하였다고 밝히었다 .	ORG-B O PER-B O O O ORG-B O O O O
-김 신임 이사장의 취임식은 오는 10일 오전 개최되 +ㄹ 예정이 다 .	PER-B O O O O O O O O O O O
-올해 이적시장이 공식적으로 개막하는 오는 10일 정식 계약 내용이 발표되+ㄹ 예정이다 .	O O O O O O O O O O O O
-한편, 클리퍼스의 간판 포워드 이+ㄴ 엘튼 브랜드와 코리메게티는 지나 +ㄴ 1일 '선수 옵션'을 사용하+여 나란히 FA 권리를 획득하였다 .	O ORG-B O O O PER-B PER-I PER-B O O O O O O O O O O O
+[ 골프 ] 고 박사 의 이것 만 은 지킵시다	O O O PER-B O O O O O O
+대회 가 열 렸 던 시카고주 쾰러 시 의 휘슬 링 스트레이츠 라는 골프장 에 는 약 1400 여 개 의 벙커 가 있 었 다 .	O O O O O LOC-B LOC-B LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
+올 시즌 잔여 경기 출전 도 어렵 게 됐 고 그 가 일생 의 목표 로 삼 고 있 는 ‘ 황금 곰 ’ 잭 니클로스 의 메이저 최 다승 ( 18 승 ) 을 깨 는 것 도 늦춰 지 게 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+우즈 는 이 대회 우승 으로 ‘ 골프 ’ 가 아닌 ‘ 세계 ’ 를 바꿔 놓 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+우즈 의 스코어 는 12 언더파 였 다 .	PER-B O O O O O O O O
+매리언 은 현재 ' 선수 옵션 ( Player Option ) ' 을 갖 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O
+과연 마이애미 와 매리언 이 어떤 선택 을 할지 귀추 가 주목된다 .	O ORG-B O ORG-B O O O O O O O O O
+최 단신 선수 는 177.8 cm 의 카림 스미스 이 다 .	O O O O O O O PER-B PER-I O O O
+지은희 ( 22 : 휠라코리아 ) 가 미국 여자 프로 골프 ( LPGA ) 투어 진출 2 년 만 에 감격 의 첫 우승 을 따 냈 다 .	PER-B O O O ORG-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+3 라운드 때 행운 의 이글 을 선사 했 던 1 번 홀 ( 파 4 ) 버디 에 이 어 3 번 ( 파 4 ) , 4 번 홀 ( 파 5 ) 에서 잇따 라 버디 를 뽑아낸 지은희 는 제자리걸음 을 한 페테르 센 을 금세 따라잡 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O PER-B PER-I O O O O O O
+1 타 차 로 경기 를 뒤집 은 지은희 는 17 번 홀 ( 파 5 ) 에서 페테르 센 이 4 m 버디 를 집어넣 자 3 m 버디 로 응수 했 고 , 18 번 홀 ( 파 4 ) 에서 는 오른쪽 러프 에서 그린 에 볼 을 올린 뒤 파 를 지켜 내 보 기 로 홀 아웃 한 페테르 센 에 2 타 차 완승 을 거 뒀 다 .	O O O O O O O O PER-B O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O
+경기 가평 종고 2 학년 에 다니 던 2003 년 에 는 프로 대회 인 김영주 골프 여자 오픈 에서 준우승 을 차지한 데 이 어 엑스캔버스 오픈 에서 는 당시 박세리 ( 31 ) 와 맞대결 에서 밀리 지 않 는 플레이 로 유명해 졌 다 .	ORG-B ORG-I ORG-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+2 수잔 페테르 센 - 14274 ( 70 - 65 67 - 72 )	O PER-B PER-I PER-I O O O O O O O O O O
+로레 이나 오초아 ( 72 - 70 68 - 69 )	PER-B PER-I PER-I O O O O O O O O
+브라이언트 - 제임스 등 , 美 농구 드림 팀 12 명 최종 확정	PER-B O PER-B O O LOC-B O O O O O O O
+이 들 12 명 가운데 동메달 에 그친 지난 2000 년 아테네 올림픽 당시 멤버 는 제임스 를 비롯해 앤서 이 니 , 웨이드 , 보쉬 등 단 4 명 뿐 이 다 .	O O O O O O O O O DAT-B DAT-I O O O O O PER-B O O PER-B PER-I PER-I O PER-B O PER-B O O O O O O O O
+브라이언트 는 2000 년 시드니 올림픽 당시 개인 사정 때문 에 출전 을 포기한 데 이 어 2004 년 아테네 올림픽 때 는 성폭행 사건 에 연루돼 대표 팀 에 들어가 지 못 했 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+코치 로서 명예 의 전당 에 헌액 된 듀크대 마이크 크르지쥬스 키 대표 팀 감독 은 “ 33 명 에서 12 명 으로 압축하 는 과정 이 무척 힘들 었 다 .	O O O O O O O O ORG-B PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O
+올해 도 1 ~ 2 언더 파 로 출발할 듯 .	O O O O O O O O O O O
+폴라 크리머 ( 미국 ) 는 아직 메이저 우승 이 없 다 .	PER-B PER-I O LOC-B O O O O O O O O O
+미국 은 야심 차 게 슈세프스 키 감독 을 대표 팀 사령탑 에 앉히 고 상비군 시스템 을 도입한 지난 2006 년 세계 선수권 대회 에서 도 우승 에 실패하 자 큰 충격 을 받 았 다 .	LOC-B O O O O PER-B PER-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+키드 가 마지막 으로 대표 팀 에 몸담 았 던 2000 년 시드니 올림픽 에서 금메달 을 거머쥐 었 다 .	PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+2003 년 신인 드래프트 3 인 방 은 그동안 두 차례 세계 메이저 대회 에 출전 했 으나 미국 을 정상 으로 이끌 지 는 못 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+대표 팀 은 당초 강호 들 과 맞붙 을 기회 가 더 많 은 유럽 전지훈련 을 검토해 봤 으나 현지 일정 이 여의 치 않 아 중국 으로 눈 을 돌 렸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+김유택 대표 팀 코치 는 " 공백기 가 길 었 던 만큼 신체 밸런스 를 비롯해 여전히 가다듬 을 부분 이 많 지만 꾸준히 운동 을 하 면서 예전 보다 크 게 나아진 건 사실 이 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+▶ 한국 남자 농구 , 양궁 농구 와 작별 … 골 밑 에서 승부	O ORG-B O O O O O O O O O O O O
+적어도 상반기 에 3 승 은 수확해야 신지애 ( 4 승 ) 와 의 격차 를 줄이 며 하반기 역전 을 노릴 수 있 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+그만큼 신지애 가 있 는 대회 에서 우승하 기 가 쉽 지 않 다는 의미 이 다 .	O PER-B O O O O O O O O O O O O O O O O
+' 골프 황제 ' 타이거 우즈 ( 미국 ㆍ 사진 ) 가 ' 무릎 수술 ' 을 성공적 으로 마 쳤 다 .	O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O
+우즈 는 이어 " 내년 시즌 에 는 미국 프로 골프 ( PGA ) 투어 에 건강한 모습 으로 복귀하 기 위해 곧 재활 에 들어가 겠 다 " 고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 이번 행사 는 지난해 보다 다양해 진 농구 관련 게임 들 과 무대 공연 , NBA 스타 의 참석 및 댄스 팀 과 마스코트 의 공연 으로 한국 농구 팬 들 에게 즐거움 을 선사할 것 으로 기대된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+' 루키 ' 최혜용 ( 18 ㆍ LIG ) 이 ' 무주공산 ' 을 차지할 절호 의 기회 를 잡 았 다 .	O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O
+코스 레코드 를 작성한 최혜용 은 또 상금 200 만 원 을 받 는 기쁨 도 누 렸 다 .	O O O O PER-B O O O MNY-B MNY-I MNY-I O O O O O O O O O
+김하늘 은 버디 2 개 를 보 기 2 개 와 맞바꾸 며 공동 30 위 ( 이븐 파 72 타 ) 에 그 쳤 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 김광호 부총재 , 박세호 사무총장 , 이한구 경기 운영 위원 장 , 황명석 심판 위원장 도 함께 물러났 다 .	O PER-B O O PER-B O O PER-B O O O O O PER-B O O O O O O O
+KCC 서장훈 - 추승균 , 우승 못 했 으니 연봉 동결 OK !	ORG-B PER-B O PER-B O O O O O O O O O
+추승균 과 연봉 3 억 5000 만 원 ( 옵션 3000 만 원 포함 ) 에 재계약 했 다고 26 일 뒤늦 게 밝 혔 다 .	PER-B O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O DAT-B DAT-I O O O O O O
+현주엽 과 조상현 에 대해서 는 구체적 인 제안 금액 은 나오 지 않 고 있 지만 FA ( 자유 계약 선수 ) 전형수 의 영입 으로 일정 부분 삭감 이 불가피하 고 두 선수 역시 이 를 받아들인다는 원칙 에 는 합의한 것 으로 전해 지 고 있 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아이언 샷 과 달리 퍼트 감 은 전날 과 마찬가지 로 옛 스승 한명현 프로 의 ‘ 특훈 ’ 효과 를 톡톡히 봤 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+“ 미셸 위 는 부활하 고 있 다 ”	O PER-B PER-I O O O O O O
+미셸 위 의 부활 조짐 은 지난 1 일 끝난 유러 피언 여자 프로 골프 투어 ( LET ) 독일 오픈 에서 공동 6 위 를 차지하 면서 부터 보이 기 시작 했 다 .	PER-B PER-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+나상욱 은 27 일 ( 한국 시간 ) 미국 미시간주 그랜드 블 랭크 의 워윅 힐스 CC ( 파 72 · 7127 야드 ) 에서 열린 1 라운드 에서 보기 없이 버디 만 5 개 를 뽑아내 는 깔끔한 플레이 로 5 언더파 67 타 를 적 어 냈 다 .	PER-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2000 년 이 대회 우승자 이 며 US 오픈 에서 타이거 우즈 ( 미국 ) 와 91 홀 까지 가 는 연장 접전 끝 에 준우승 에 머물 렀 던 로코 미디 에이트 ( 미국 ) 는 경기 직후 “ 매우 피곤하 다 .	DAT-B DAT-I O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O PER-B PER-I PER-I O ORG-B O O O O O O O O O
+1 경기 쿠바 - 한국 전 최종 세트 스코어 는 한국 의 3 - 2 승리 ( 26.07 % ) 와 쿠바 의 3 - 0 승리 ( 21.05 % ) 를 예상한 참가자 가 많 았 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+US 여자 오픈 에서 재기 를 노리 는 미셸 위 ( 18 · 나이키골프 ) 에 첫날 결정타 를 날린 9 번 홀 은 413 야드 짜리 파 4 홀 이 었 다 .	O O O O O O O O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+미셸 위 , 부활 의 나래 펴 다 … 양희영 은 프로 데뷔 첫 승	PER-B PER-I O O O O O O O PER-B O O O O O
+신지애 ( 20 · 하이마트 ) 도 10 ~ 12 번 홀 에서 3 연속 버디 를 잡 는 집중력 으로 4 언더파 69 타 를 기록해 마스터카드 클래식 우승자 인 루이제 프리 베리 ( 스웨덴 ) .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O ORG-B O O
+1988 년 생 동갑내기 인 이 들 은 국가 대표 로 한솥밥 을 먹 은 사이 로 1998 년 박세리 가 US 여자 오픈 에서 ‘ 맨발 의 투혼 ’ 을 펼치 며 우승 했 을 때 골프 에 입문한 ‘ 박세리 키드 ’ 들 이 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
+오초아 는 12 번 홀 까지 보 기 만 3 개 를 쏟 아 냈 으나 14.16.18 번 홀 에서 징검다리 버디 를 잡 아 스코어 를 회복 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 투어 2 년 차 ’ 오지영 ( 20 · 에머슨 퍼시픽 ) 이 올해 63 회 째 를 맞 는 미국여자프로골프협회 ( LPGA ) 투어 시즌 세 번째 메이저 대회 인 ‘ US 여자 오픈 ( 총 상금 310 만 달러 ) ’ 1 라운드 에서 공동 선두 에 오르 는 깜짝 활약 을 펼 쳤 다 .	O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+US 여자 오픈 리더 보드 상단 에 이름 을 올리 는 것 이 꿈 이 었 는데 오늘 그 꿈 을 이뤄 기쁘 다 ” 라는 소감 을 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최혜용 , 롯데마트 여자 골프 생애 첫 승	PER-B O O O O O O O
+그리고 후반 12 번 홀 ( 파 4 ) 에서 상황 은 급변 했 다 .	O O O O O O O O O O O O O O O O
+최혜용 ' 삼수 끝 에 생애 첫 우승 '	PER-B O O O O O O O O
+최혜용 과 유소연 의 이날 경기 는 경기 중반 까지 만 해도 매치플레이 를 방불 케 하 는 팽팽한 접전 으로 이어 졌 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+유소연 은 이후 최혜용 이 보 기 를 범한 16 번 홀 ( 파 4 ) 버디 로 다시 3 타 차 로 간격 을 좁 혔 지만 역부족 이 었 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최윤호 는 최우수 선수 상 을 받 았 다 .	PER-B O O O O O O O O O
+○ … 서울 삼성 이상민 이 26 일 중저가 의류 업체 인 ㈜ 케이 디엠 아 이앤씨 와 1 년 간 광고 모델 계약 을 했 다고 업체 측 이 27 일 밝 혔 다 ．	O O ORG-B ORG-I PER-B O DAT-B DAT-I O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O DAT-B DAT-I O O O O
+12 번 홀 ( 파 4 ) 과 16 번 홀 ( 파 5 ) 에서 버디 를 보탠 나상욱 은 1 번 홀 ( 파 5 ) 과 8 번 홀 ( 파 3 ) 에서 버디 를 추가하 며 1 라운드 를 마 쳤 다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+US 여자 오픈 , 오지영 깜짝 선두 ‘ 저 도 있 답니다 ∼ ’	O O O O PER-B O O O O O O O O O
+장기 인 드라이버 샷 과 숏 아이언 이 잘 돼 부담 없이 게임 을 했 다 ” 라며 “ 2 년 전 프로 가 된 뒤 최고 가 되 기 위해 노력해 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세계 랭킹 2 위 안니카 소렌스탐 ( 스웨덴 ) 도 퍼팅 수 33 개 를 기록하 는 퍼팅 감 난조 속 에 1 라운드 에서 만 2 타 를 잃어버리 며 공동 66 위 까지 처 졌 다 .	O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 단독 선두 와 6 타 차 , 공동 7 위 그룹 과 2 타 차 공동 15 위 에 이름 을 올린 위창수 는 지난 4 월 바이런넬슨 챔피언십 공동 7 위 에 이 어 시즌 두 번째 ‘ 톱 10 ’ 진입 의 희망 을 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+올해 로 63 회 째 를 맞 는 미국여자프로골프협회 ( LPGA ) 투어 시즌 세 번째 메이저 대회 인 ‘ US 여자 오픈 ( 총 상금 310 만 달러 ) ’ 3 라운드 에서 한국 자매 6 명 이 ‘ 톱 10 ’ 에 이름 을 올리 며 최종 라운드 대 추격전 의 발판 을 마련 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+2 라운드 까지 단독 선두 ( 6 언더파 140 타 ) 에 올 랐 던 ‘ 브라질 동포 ’ 안젤라 박 ( 20 · LG 전자 ) 은 3 라운드 에서 2 타 를 잃 고 공동 7 위 그룹 ( 4 언더파 215 타 ) 에 자리 했 고 김영 ( 28 ) 과 장정 ( 28 · 기업 은행 ) 이 나란히 3 언더파 216 타 로 공동 9 위 그룹 에 이름 을 올려 상위권 입상 의 가능성 을 밝 혔 다 .	O O O O O O O O O O O O O O O O LOC-B O O PER-B PER-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+29 일 ( 한국 시간 ) 미국 미네소타주 에디나 의 인터라켄 CC ( 파 73.6 천 789 야드 ) 에서 열린 3 라운드 .	DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-B O LOC-B LOC-I O O O O O O O O O O O O
+한편 10 대 때 허리 가 휘어지 는 척추 측만 증 으로 수술 을 받 았 던 인간 승리 의 주인공 스테이시 루이스 는 프로 데뷔 후 첫 대회 에서 단독 선두 로 나서 스포트 라이트 를 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+박인비 는 30 일 ( 한국 시간 ) 미국 미네소타주 에디나 의 인터라켄 CC ( 파 73.6 천 789 야드 ) 에서 열린 최종 라운드 에서 버디 5 개 와 보기 3 개 를 묶 어 2 타 를 줄이 며 최종 합계 9 언더파 283 타 로 정상 에 올 랐 다 .	PER-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+화려한 은퇴 를 준비하 고 있 는 세계 랭킹 2 위 안니카 소렌스탐 ( 스웨덴 ) 은 최종 라운드 에서 7 타 를 잃 는 부진 끝 에 3 오버파 295 타 로 공동 24 위 에 그 쳤 지만 18 번 홀 ( 파 5 ) 에서 6 번 아이언 으로 친 세 번째 샷 을 홀인 시키 는 이글 쇼 로 잊 지 못할 US 여자 오픈 마무리 를 했 다 .	O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+23 세 의 루이스 는 10 대 때 허리 가 휘어지 는 척추 측만 증 때문 에 척추 에 철 심 을 박 는 수술 을 받 으면서 도 골프채 를 놓 지 않 았 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그렉 노먼 - 크리스 에버트 , 바하마 서 20 억 웨딩마치	PER-B PER-I O PER-B PER-I O LOC-B O MNY-B MNY-I O
+또한 27 일 리허설 때 와 28 일 결혼식 리셉션 을 위해 그렉 노먼 의 농장 서 가져온 포도주 가 공수 됐 다고 한다 .	O DAT-B DAT-I O O O DAT-B DAT-I O O O O PER-B PER-I O O O O O O O O O O O
+소렌스탐 “ 복귀전 은 US 여자 오픈 이 될 것 ”	PER-B O O O O O O O O O O
+소렌스탐 은 “ 나 는 또 다른 소중한 기억 을 갖 고 떠난다 ” 면서 “ 마지막 이 라 생각해서 인지 이번 주 내내 감정 의 변화 가 심 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 해 무려 6 관 왕 을 차지 했 던 신지애 가 올 해도 독주할 것 이 라는 예상 이 높 았 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O
+지난 해 단 한 번 의 우승 도 차지하 지 못 했 던 김하늘 은 신인왕 을 차지한 후 큰 변화 롤 보 여 주 고 있 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+박인비 ( 20 ) 는 화려한 아마추어 경력 을 바탕 으로 일찌감치 ' 차세대 기대주 ' 로 두각 을 나타냈 던 선수 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+2006 년 4 월 프로 로 전향한 박인비 는 2 부 투어 인 퓨처스 투어 에서 11 차례 의 ' 톱 10 ' 진입 으로 상금 랭킹 3 위 에 올 라 2007 년 본격적 으로 투어 에 합류 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+2006 년 4 월 프로 로 전향한 박인비 는 LPGA 2 부 투어 인 퓨처스 투어 에 데뷔해 1 승 을 포함 , 11 번 ‘ 톱 10 ’ 에 이름 을 올린 뒤 그 해 말 퀄리파잉 ( Q ) 스쿨 에 응시해 공동 4 위 로 통과하 면서 지난해 LPGA 투어 를 밟 는 등 탄탄대로 를 걸 었 다 .	DAT-B DAT-I DAT-I DAT-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+상반기 회원권 시장 은 1 분기 가 유약한 상승세 였 다면 2 분기 는 전반적 인 조정 국면 인 것 으로 특징지 워 진다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+서울 ∼ 포천 간 고속도로 , 제 2 외곽 순환도로 , 그리고 경춘고속도로 개통 을 앞둔 수도권 북부 회원권 들 은 접근성 에 대한 기대감 으로 가격 이 일제히 상승한 반면 한강 이남권 은 상대적 으로 낙폭 이 컸 다 .	LOC-B O LOC-B O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+이 에 반해 한국 레저 산업 연구소 서천범 소장 은 “ 국내 골프 회원권 시장 은 외부 여건 의 악화 와 그동안 상승 에 따른 부담감 으로 하락세 에 접 어 들 었 다 ” 면서 “ 따라서 향후 회원권 시장 은 입회금 반환 문제 와 맞물려 당분간 상승세 로 돌아서 기 가 어려 울 것 ” 이라고 전망 했 다 .	O O O ORG-B ORG-I ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+프로 농구 역사상 연봉 7 억 원 대 선수 가 탄생한 건 출범 12 년 만 에 처음 이 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+동부 는 합의점 을 찾 지 못해 연봉 조정 신청 에 들어간 강대협 을 제외한 주요 선수 들 과 의 계약 을 마무리 지 었 다 .	ORG-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+98 년 박세리 가 스무 살 의 꽃다 운 나이 로 IMF 한파 에 신음 중 이 던 국민 들 에게 희망 을 안 겼 듯 박인비 역시 약관 의 나이 로 화끈한 역전 우승 을 이끌 어 고 유가 에 쇠고기 정국 으로 시름 중 인 대한민국 에 새로 운 희망 을 전 했 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+박인비 는 “ ( 박 ) 세리 언니 가 10 년 전 US 여자 오픈 에서 우승하 는 것 을 지켜 보 면서 골프 에 입문 했 다 .	PER-B O O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O
+골프 토토 승 무패 게임 은 2 일 ( 수 ) KLPGA MBC 투어 제 7 회 레이크사이드 여자 오픈 ( 30 회 차 ) 에 이 어 3 일 ( 목 ) PGA AT ＆ T 내셔널 ( 31 회 차 ) .	O O O O O O DAT-B DAT-I O DAT-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O DAT-B O O O O O O O O O O O O
+◇ 한국 남자 배구 6 연패 .	O ORG-B O O O O O
+올림픽 자유 형 400 m 안 뛴다 ‘ 마린 보이 ’ 박태환 ( 단국대 ) 의 유력한 베이징 올림픽 금메달 종목 인 자유 형 400 m 에서 잠재적 경쟁자 로 떠올 랐 던 ‘ 수영 황제 ’ 마이클 펠프스 ( 23 · 미국 ) 가 이 종목 출전 을 포기 했 다 .	O O O O O O O O PER-B PER-I O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O PER-B PER-I O PER-B PER-I O O O ORG-B O O O O O O O O O O
+29 일 , 국내	DAT-B DAT-I O O
+● 미국 프로 투어 뷰익 오픈 ( 미국 그랜드 블 랭크 )	O O O O O O O LOC-B LOC-B LOC-I LOC-I O
+5 일 과 6 일 에 는 배우 손지창 이 이끄 는 연예인 농구 단 ' 피닉스 ' 가 현장 을 찾 아 농구 실력 을 뽐낼 예정 이 다 .	DAT-B DAT-I O DAT-B DAT-I O O O PER-B O O O O O O O ORG-B O O O O O O O O O O O O O O
+대구 오리온스 김승현 은 작년 보다 8000 만 원 이 삭감된 연봉 5 억 5000 만 원 ( 인센티브 7000 만 원 ) 으로 김주성 에 이 어 연봉 랭킹 2 위 에 올 랐 다 .	ORG-B ORG-I PER-B O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O PER-B O O O O O O O O O O O O
+신인왕 을 차지한 김태술 은 70 % 의 인상률 을 기록하 며 프로 2 년 차 중 최고액 인 1 억 7000 만 원 ( 인센티브 1000 만 원 ) 에 계약 했 다 .	O O O PER-B O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O
+이동호 신임 총재 는 그동안 정치인 , 관료 출신 이 도맡 다시피 했 던 프로 스포츠 총재 자리 에 이례적 으로 등장한 경제인 출신 이 라 주목 을 받 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 장영달 대한배구협회 장 이 1 일 한국배구연맹 ( KOVO ) 총재 취임식 에서 축사 를 통해 2 대 총재 로 취임한 이동호 ( 50 ) 대우자동차판매 ㈜ 사장 에게 농담 을 건네 자 식장 에 웃음 이 번 졌 다 .	O PER-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O
+이 총재 는 우선 자신 이 회장 을 맡 고 있 는 대우자동차판매 ㈜ 의 자회사 인 우리 캐피탈 팀 을 창단해 2009 ~ 2010 리그 부터 참여 시키 고 별도 로 팀 을 하 나 더 만들 겠 다고 밝 혔 다 .	PER-B O O O O O O O O O O O ORG-B ORG-I O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+페더러 ( 스위스 ) 3 ( 7 - 6 6 - 2 6 - 4 ) 0 휴이트 ( 호주 ) , 나달 ( 스페인 ) 3 ( 6 - 3 6 - 3 6 - 1 ) 0 유즈 니 ( 러시아 ) , 머레이 ( 영국 ) 3 ( 5 - 7 3 - 6 7 - 6 6 - 2 6 - 4 ) 2 가스케 ( 프랑스 )	PER-B O ORG-B O O O O O O O O O O O O O O PER-B O ORG-B O O PER-B O ORG-B O O O O O O O O O O O O O O PER-B PER-I O ORG-B O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O PER-B O ORG-B O
+● 대통령 배 전국 남녀 중 고 대회 ( 충북 옥천 체육 센터 )	O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O
+최영우 - 전용현 ( 진광 ) 2 ( 22 - 24 21 - 16 21 - 15 ) 1 김대은 - 한 토성 ( 화순 실 )	PER-B O PER-B O ORG-B O O O O O O O O O O O O O O PER-B O PER-B PER-I O ORG-B ORG-I O
+문화 체육 관광부 는 1 일 김주훈 전 총장 을 제 9 대 체육 공단 이사장 으로 임명 했 다고 밝 혔 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I PER-B O O O O O O ORG-B ORG-I O O O O O O O O O
+김 신임 이사장 의 취임식 은 오 는 10 일 오전 개최될 예정 이 다 ．	PER-B O O O O O O O DAT-B DAT-I O O O O O O
+올해 이적 시장 이 공식적 으로 개막하 는 오 는 10 일 정식 계약 내용 이 발표될 예정 이 다 .	O O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+한편 , 클리퍼스 의 간판 포워드 인 엘튼 브랜드 와 코리 메게티 는 지난 1 일 ' 선수 옵션 ' 을 사용해 나란히 FA 권리 를 획득 했 다 .	O O ORG-B O O O O PER-B PER-I O PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O

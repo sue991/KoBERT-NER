@@ -1,15 +1,15 @@
-하지만 남태현의 소속사 YG엔터테인먼트는 아무런 반응을 보이지 않고 있다 .	O PER-B O ORG-B O O O O O O
-정려원은 지나 +ㄴ 2000년 그룹 샤크라로 데뷔하였으며 MBCTV '나+의 이름은 김삼순', SBSTV '드라마의 제왕', tvN 드라마 '풍선껌' 등에 출연하며 연기자로 활동 중이다 .	PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O
-남태현은 2014년 위너로 데뷔하였으며 최근 건강 문제를 이유로 활동을 중단하+ㄴ 상태+이다 .	PER-B O ORG-B O O O O O O O O O
-PPC는 3D 지도와 GPS 정보를 활용하여 도로의 지형을 미리 예측하여 최적의 주행 조건을 스스로 판단하는 기술이다 .	O O O O O O O O O O O O O O O O O
-[Health&Beauty] “홍삼 먹으면 치매 예방에 도움되+ㄴ다 .	O O O O O O O
-또 ‘kdam ****’는 “저렇게 당하+ㄴ사람이 한두 명 아니+ㄹ거 같은데, 저 경우는 3명 중 한 명이 덜 마시+어서 밝혀지+ㄴ 것 같고”라고 하는 등 일부 누리꾼들은 문제의 택시기사가 상습범일 수 있다는 의혹을 제기하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-어머니 김씨는 아들을 찾지 못하+여 7년 동안 미루+어+두었던 칠순 잔치도 조만간 하+ㄹ 계획이다 .	O PER-B O O O O O O O O O O O O
-정씨의 소송 제기에 따르+ㄴ 심리는 오는 9월 1일 열리+ㄹ 예정이다 .	PER-B O O O O O O O O PER-B O
-■CJ프레시웨어 … 업계 최초 2조700억원 매출 기록 4대 거점 물류센터 바탕온타임 배송식품 안전센터 운영으로 신뢰도 UP 차별화 단체급식… 또 다른 성장동력中기업과 손잡고 글로벌 시장 진출업계 최초 2조 매출 달성, 이제 +ㄴ아시아 시장 넘보+ㄴ다 .	ORG-B O O O MNY-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O MNY-B O O O LOC-B O O O
-상금 랭킹에서도 51위(158만 1748달러)로 한국 선수 중 가장 높다 .	O O MNY-B MNY-I ORG-B O O O O O
-”그를 행복하게 하는 것+이 하나 더 있다 .	O O O O O O O O
-태실은 왕실자손의 태(胎)를 봉안하기 위하+여 만들 +ㄴ 석조물로 영조의 태실은 청주시 낭성면 무성리에 보존되+어 있다 .	O O O O O O O O PER-B O LOC-B LOC-B LOC-B O O O
-청원군 부용면(현 세종시 부강+이면) 출신이+ㄴ이씨는 1985년 청원군청 공무원으로 임용되었고 87년 군청 문화재 업무를 맡으면서 이의궤를 처음 +았다 .	LOC-B LOC-B LOC-B LOC-B PER-B O LOC-B O O O O O O O PER-B O O O
-가격은 1만3천원부터 +이다 .	O MNY-B O O
-비정상회담 황석정, 과거 공연서 원피스 풀어헤치고 팬티 라인까지 노출 ?비 정상회담 황석정 배우 황석정이 파격 발언으로 ‘비정상회담’ 스튜디오를 초토화시키+ㄴ 가운데, 황석정의 과거 공연장 실수가 재조명 받았다 .	O PER-B O O O O O O O O O PER-B O PER-B O O O O O O PER-B O O O O O O
+하지만 남태현 의 소속 사 YG 엔터테인먼트 는 아무런 반응 을 보이 지 않 고 있 다 .	O PER-B O O O ORG-B ORG-I O O O O O O O O O O O
+정려원 은 지난 2000 년 그룹 샤크라 로 데뷔 했 으며 MBC TV ' 내 이름 은 김삼순 ' , SBS TV ' 드라마 의 제왕 ' , tvN 드라마 ' 풍선껌 ' 등 에 출연하 며 연기자 로 활동 중 이 다 .	PER-B O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남태현 은 2014 년 위너 로 데뷔 했 으며 최근 건강 문제 를 이유 로 활동 을 중단한 상태 다 .	PER-B O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O
+PPC 는 3 D 지도 와 GPS 정보 를 활용하 여 도로 의 지형 을 미리 예측하 여 최적 의 주행 조건 을 스스로 판단하 는 기술 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ Health & Beauty ] “ 홍 삼 먹 으면 치매 예방 에 도움 된다 ”	O O O O O O O O O O O O O O O O
+또 ‘ kdam * * * * ’ 는 “ 저렇 게 당한 사람 이 한두 명 아닐 거 같 은데 , 저 경우 는 3 명 중 한 명 이 덜 마셔서 밝혀진 거 같 고 ” 라고 하 는 등 일부 누리 꾼 들 은 문제 의 택시 기사 가 상습범 일 수 있 다는 의혹 을 제기 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+어머니 김 씨 는 아들 을 찾 지 못해 7 년 동안 미뤄 뒀 던 칠순 잔치 도 조만간 할 계획 이 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O
+정 씨 의 소송 제기 에 따른 심리 는 오 는 9 월 1 일 열릴 예정 이 다 .	PER-B O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+■ CJ 프레시 웨어 … 업계 최초 2 조 700 억 원 매출 기록 4 대 거점 물류 센터 바탕 온 타임 배송 식품 안전 센터 운영 으로 신뢰 도 UP 차별화 단체 급식 … 또 다른 성장 동력 中 기업 과 손잡 고 글로벌 시장 진출 업계 최초 2 조 매출 달성 , 이젠 아시아 시장 넘본다 !	O ORG-B ORG-I ORG-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O O O O LOC-B O O O
+상금 랭킹 에서 도 51 위 ( 158 만 1748 달러 ) 로 한국 선수 중 가장 높 다 .	O O O O O O O MNY-B MNY-I MNY-I MNY-I O O ORG-B O O O O O O
+” 그 를 행복하 게 하 는 게 하나 더 있 다 .	O O O O O O O O O O O O O
+태실 은 왕실 자손 의 태 ( 胎 ) 를 봉안하 기 위해 만든 석조 물 로 영조 의 태실 은 청주시 낭성면 무성리 에 보존돼 있 다 .	O O O O O O O O O O O O O O O O O PER-B O O O LOC-B LOC-B LOC-B O O O O O
+청원군 부용면 ( 현 세종시 부강 면 ) 출신 인 이 씨 는 1985 년 청원 군청 공무원 으로 임용 됐 고 87 년 군청 문화재 업무 를 맡 으면서 이 의궤 를 처음 봤 다 .	LOC-B LOC-B O O LOC-B LOC-B LOC-I O O O PER-B O O DAT-B DAT-I ORG-B ORG-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+가격 은 1 만 3 천 원 부터 다 .	O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+비정상 회담 황석정 , 과거 공연 서 원피스 풀어헤치 고 팬티 라인 까지 노출 ? 비정상 회담 황석정 배우 황석정 이 파격 발언 으로 ‘ 비정상 회담 ’ 스튜디오 를 초토화 시킨 가운데 , 황석정 의 과거 공연장 실수 가 재조명 받 았 다 .	O O PER-B O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O

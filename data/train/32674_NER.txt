@@ -1,15 +1,15 @@
-에버랜드는 17일부터 8월 16일까지 밤 11시까지 운영하고, 캐리비안 베이는 18일부터 8월 15일까지 밤 10시까지 연장 하+ㄴ다 .	ORG-B O O O O O O ORG-B ORG-I O O O O O O O O
-반면 GS건설 ‘자이(9.1%)’와 현대건설 ‘힐스테이트(7.7%)’ 현대산업개발 ‘아이파크(3.6%)’는 대림산업 ‘e편한세상’과 포스코 ‘더샵’의 선전으로 근소하+ㄴ 차이로 순위가 내려가 +았다 .	O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O
-지나+ㄴ 5월에는 남해군 귀촌(귀농·귀어) 박람회를 개최하였으며, T/F팀을 구성하+여 조직과 제도적 기반을 구축하였다 .	O O LOC-B LOC-I O O O O O O O O O
-이 교수는 초임계 물질 연구로 유명하다 .	PER-B O O O O O O
-정보기술(IT) 인력에게 발급되는 H-1B 비자는 전년 대비 약 20% 떨어지+ㄴ 19만9000명으로 줄었다 .	O O O O O O O O O O O O O
-75㎡에는 현관 옆에 골프백 등을 보관 하+ㄹ 수 있는 워크 이+ㄴ 수납공간이 마련되 +ㄴ다 .	O O O O O O O O O O O O O O O
-이탈리아 슈퍼카페라리가 8일 최초의 8기통 4인승 모델 GTC 루쏘T를 국내에 출시하였다 .	LOC-B O O O O O O O O O O O
-하지만 10세 때 우연히 모차르트 피아노 협주곡 21번 2악장을 듣고 피아노에 매혹되었다 .	O O O O O O O O O O O O O
-회추위는 사외이사 2명, 이사회 추천 외부 전문가 2명, 농협중앙회장이 추천하+ㄴ 1명 등 5명으로 구성되 +ㄴ다 .	O O O O O O O O O O O O O O O O
-최근 삼성그룹의 삼성의료원이 이에 가세, 병원계에 일대 혁신의 바람이 일고 있다 .	O ORG-B ORG-B O O O O O O O O O
-2, 3분 만에 꺼지+어… 계획 범행이 +ㄴ .	O O O O O O O O
-10∼20대 이+ㄴ 매장 아르바이트 X세대들에게 +ㄴ「한 달 」이라는 기간이 너무 길어 쉽게 싫증을 내고 포기 하+ㄹ 수 있기 때문에 하루 단위를 택하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-충청남도 경제진흥원(원장 나윤수)은 충청남도 농사랑이 ‘2015 소비자에게 신뢰받는 착한 브랜드 대상’을 수상하였다고 16일 밝히었다 .	ORG-B ORG-I PER-B ORG-B ORG-I O O O O O O O O O O
-현장검증이 진행되+ㄴ 평택시 포승읍 신군의 집 앞에는 평택 ‘안중·포승 엄마 모임’ 회원 등 주민 300여명이 몰리었다 .	O O LOC-B LOC-I PER-B O O ORG-B ORG-I ORG-I ORG-I O O O O O O
-“다른 집에 가+아야 더 명절 같은 분위기를 느끼+ㄹ터+이+ㄴ 데….” 차례 음식을 준비하던 차기 종부(宗婦)이주현(38)씨의 말에는 아쉬움이 묻어나 +았다 .	O O O O O O O O O O O O O PER-B O O O O O
+에버랜드 는 17 일 부터 8 월 16 일 까지 밤 11 시 까지 운영하 고 , 캐리비안 베이 는 18 일 부터 8 월 15 일 까지 밤 10 시 까지 연장한다 .	ORG-B O O O O O O O O O TIM-B TIM-I TIM-I O O O O ORG-B ORG-I O O O O O O O O O TIM-B TIM-I TIM-I O O O
+반면 GS 건설 ‘ 자이 ( 9.1 % ) ’ 와 현대건설 ‘ 힐스테이트 ( 7.7 % ) ’ 현대산업개발 ‘ 아이파크 ( 3.6 % ) ’ 는 대림산업 ‘ e 편한세상 ’ 과 포스코 ‘ 더샵 ’ 의 선전 으로 근소한 차이 로 순위 가 내려갔 다 .	O ORG-B ORG-I O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O
+지난 5 월 에 는 남해군 귀촌 ( 귀농 · 귀어 ) 박람회 를 개최 했 으며 , T / F 팀 을 구성해 조직 과 제도적 기반 을 구축 했 다 .	O DAT-B DAT-I O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 교수 는 초임계 물질 연구 로 유명하 다 .	PER-B O O O O O O O O O
+정보 기술 ( IT ) 인력 에게 발급되 는 H - 1 B 비자 는 전년 대비 약 20 % 떨어진 19 만 9000 명 으로 줄 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+75 ㎡ 에 는 현관 옆 에 골프 백 등 을 보관할 수 있 는 워크 인 수납공간 이 마련된다 .	O O O O O O O O O O O O O O O O O O O O O
+이탈리아 슈퍼 카 페라리 가 8 일 최초 의 8 기통 4 인 승 모델 GTC 루쏘 T 를 국내 에 출시 했 다 .	LOC-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+하지만 10 세 때 우연히 모차르트 피아노 협주곡 21 번 2 악장 을 듣 고 피아노 에 매혹 됐 다 .	O O O O O O O O O O O O O O O O O O O O O
+회 추위 는 사외 이사 2 명 , 이사회 추천 외부 전문가 2 명 , 농협 중앙 회 장 이 추천한 1 명 등 5 명 으로 구성된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 삼성그룹 의 삼성의료원 이 이 에 가세 , 병원 계 에 일대 혁신 의 바람 이 일 고 있 다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+2 , 3 분 만 에 꺼져 … 계획 범행 인 듯	O O O O O O O O O O O O
+10 ∼ 20 대 인 매장 아르바이트 X 세대 들 에겐 「 한 달 」 이 라는 기간 이 너무 길 어 쉽 게 싫증 을 내 고 포기할 수 있 기 때문 에 하루 단위 를 택 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+충청남도 경제 진흥 원 ( 원장 나윤수 ) 은 충청남도 농 사랑 이 ‘ 2015 소비자 에게 신뢰 받 는 착한 브랜드 대상 ’ 을 수상 했 다고 16 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I O O PER-B O O ORG-B ORG-I ORG-I O O DAT-B O O O O O O O O O O O O O DAT-B DAT-I O O O O
+현장 검증 이 진행된 평택시 포승 읍 신 군 의 집 앞 에 는 평택 ‘ 안중 · 포승 엄마 모임 ’ 회원 등 주민 300 여 명 이 몰 렸 다 .	O O O O LOC-B LOC-B LOC-I PER-B O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O
+“ 다른 집 에 가야 더 명절 같 은 분위기 를 느낄 텐데 … . ” 차례 음식 을 준비하 던 차기 종부 ( 宗婦 ) 이주현 ( 38 ) 씨 의 말 에 는 아쉬움 이 묻어났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O

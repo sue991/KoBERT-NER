@@ -1,13 +1,13 @@
-이어 "신혼여행은 늘 마음에 품고 있던 파리로가 +ㄴ다"며 "2세에 대하+여서 +이라면 둘 이상을 낳고 싶다 .	O O O O O O LOC-B O O O O O O O O O
-유닉스에서 파일 갈무 .	ORG-B O O O
-”6일 금융감독원이 자살보험금(재해사망보험금) 관련 제재 수위를 오는 16일 제재심의위원회에서 재심의 하+ㄴ후 결정하겠다고 밝히면서 들+ㄴ사유+이다 .	O ORG-B O O ORG-B O O O ORG-B ORG-I O O O O O
-지연이 결별하였다 .	PER-B O O
-FNC 측 관계자는 2일 뉴스1스타에 "이동건과 지연이 지난해 결별 하+여선 후배로 돌아가 +았다"고 밝히었다 .	ORG-B O O O O PER-B PER-B O O O O O O O O
-초임지+이었던 청주지검에서 그는 홍판표(判杓)에서 법준(準)자를 +어서 홍준표로 개명하였다 .	O ORG-B O PER-B O O PER-B O O
-이를 위하+여극동대는 IELP(IntensiveE nglishLearningP rogram)와 GLDP(Global Leaders hipD evelopm entP rogram) 같은 외국어 몰입 교육 프로그램을 만들었다 .	O ORG-B O O O O O O O O O O O O O O O O
-"신디에게 밉ㄴ정이 들었다 .	PER-B O O O
-박 대표가 농촌일을 하+ㄴ 것은 농사펀드가 처음은 아니다 .	PER-B O O O O O O O O
-‘계성종합건설’이 시공하는 ‘해이든 평창 레지던스 700’ 오피스텔은 지하 1층∼지상 20층의 건물에 주력 타입 26.20m ²(436실)를 비롯하+여 52.40m ², 78.60m ²등세가지 평형, 총 442실로 구성되었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-정웅인은 정세윤에게 “안 떨어지+어 살아도 되+어” +이라며 “시집가+아도 가깝ㄴ 곳에 살면 되+ㄴ다”고 말하며 눈물을 훔치었다 .	PER-B PER-B O O O O O O O O O O O O O O
-알고 보니 김씨는 A씨에게 가로채+ㄴ돈으로 값비싸+ㄴ 음식을 사+아먹거나 고급차를 빌리는 등 호화생활을 하며 모두 탕진하였다 .	O O PER-B PER-B O O O O O O O O O O O O
--SRX가 북한을 지나니 북한은 좋은 패를 손에 쥐었다고 판단하는 듯 하+ㅂ니다 .	O ORG-B O ORG-B O O O O O O O O
+이어 " 신혼여행 은 늘 마음 에 품 고 있 던 파리 로 간다 " 며 " 2 세 에 대해서 라면 둘 이상 을 낳 고 싶 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+유닉스 에서 파일 갈무리	ORG-B O O O
+” 6 일 금융감독원 이 자살 보험금 ( 재해 사망 보험금 ) 관련 제재 수위 를 오 는 16 일 제재 심의 위원회 에서 재 심의한 후 결정하 겠 다고 밝히 면서 든 사유 다 .	O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+지연 이 결별 했 다 .	PER-B O O O O O
+FNC 측 관계자 는 2 일 뉴스 1 스타 에 " 이동건 과 지연 이 지난해 결별해 선후배 로 돌아갔 다 " 고 밝 혔 다 .	ORG-B O O O DAT-B DAT-I O O O O O PER-B O PER-B O O O O O O O O O O O O O
+초임 지 였 던 청주 지검 에서 그 는 홍판표 ( 判杓 ) 에서 법 준 ( 準 ) 자 를 써서 홍준표 로 개명 했 다 .	O O O O ORG-B ORG-I O O O PER-B O O O O O O O O O O O O PER-B O O O O O
+이 를 위해 극동대 는 IELP ( Intensive English Learning Program ) 와 GLDP ( Global Leadership Development Program ) 같 은 외국어 몰입 교육 프로그램 을 만들 었 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 신디 에게 미 운 정 이 들 었 다 .	O PER-B O O O O O O O O O
+박 대표 가 농촌 일 을 한 것 은 농사 펀드 가 처음 은 아니 다 .	PER-B O O O O O O O O O O O O O O O O
+‘ 계성 종합 건설 ’ 이 시공하 는 ‘ 해 이 든 평창 레지던스 700 ’ 오피스텔 은 지하 1 층 ∼ 지상 20 층 의 건물 에 주력 타입 26.20 m ² ( 436 실 ) 를 비롯해 52.40 m ² , 78.60 m ² 등 세 가지 평형 , 총 442 실 로 구성되 었 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정웅인 은 정세윤 에게 “ 안 떨어져 살 아도 돼 ” 라며 “ 시집가도 가까 운 곳 에 살 면 된다 ” 고 말하 며 눈물 을 훔 쳤 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+알 고 보 니 김 씨 는 A 씨 에게 가로챈 돈 으로 값비싼 음식 을 사 먹 거나 고급 차 를 빌리 는 등 호화 생활 을 하 며 모두 탕진 했 다 .	O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+- SRX 가 북한 을 지나 니 북한 은 좋 은 패 를 손 에 쥐 었 다고 판단하 는 듯합니다 .	O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O

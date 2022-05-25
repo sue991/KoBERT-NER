@@ -1,18 +1,18 @@
-3일 새누리당 혁신비상대책위원회의 첫 회의를 지켜보+ㄴ 당직자들 사이에서는 한숨이 절로 나오았다고 하+ㄴ다 .	O ORG-B ORG-I O O O O O O O O O O
-KTX 천안아산역도 차로 10분 이내에 이용하+ㄹ 수 있다 .	LOC-B LOC-I O O O O O O O
-본보기집은 천안시 동남구 신방동 785-16에 있다 .	O LOC-B LOC-B LOC-B LOC-I O O
-[영상]칠레 8.3 강진 페루까지 쓰나미 경보…韓 피해 상황은? 외교부 입장 듣어보니 ‘관심↑’ 칠레 수도 산티아고 인근에서 규모 8.3의 강진이 발생하+ㄴ 가운데, 현재까지 파악되+ㄴ 한국인 피해는 없는 것으로 전하여 +지+었다 .	LOC-B O O LOC-B O LOC-B O O ORG-B O O O LOC-B O LOC-B O O O O O O O O O O O O O O O
-[단독] 김선현 교수, 위안부 할머니 그림 무단 사용 의 .	O PER-B O O O O O O O O
-협상을 서두르 어진행하면 급성장하는 중국 서비스 시장을 선점하+ㄹ 기회가 생기+ㄴ다 .	O O O O ORG-B O O O O O O
-새누리당은 5일 윤호중 더불어민주당 정책위의장(사진)이 선거연령 하향 조정 논의와 관련, ‘대통령 선거는 19금 포르노가 아니다’라고 발언 하+ㄴ 것을 맹비난하며 윤 의장에게 사죄를 촉구하였다 .	ORG-B O PER-B ORG-B O O O O O O O O O O O O O O O PER-B O O O O
-또 통일부 집계에 따르+ㄴ 남북교역량은 2013년 11억3500만달러(약 1조3050억원)에서 지난해 23억4200만달러(약 2조6930억원)로 106.3% 증가하였다 .	O ORG-B O O O MNY-B MNY-B MNY-B O MNY-B MNY-B MNY-B O O
-일본 법원이 지나 +ㄴ 2011년 동일본 대지진 당시 원자력발전소 폭발사고가 나+ㄴ후쿠시마(福島) 현 출신 학생들이 학교에서 집단 괴롭히 +ㅁ(이지메)과 폭력을 당하+ㄴ데 대하+여서도 국가의 손해배상 책임이 있다는 판결을 내리+ㄴ 것으로 확인되었다 .	ORG-B ORG-I O O O ORG-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O
-지지통신에 따르면 일본군마(群馬) 현마에바시(前橋) 지방재판소(지방법원)는 지나 +ㄴ 17일 원전 사고 뒤 후쿠시마현에서 군마현으로 피난 오+ㄴ 주민 137명에 대하+ㄴ 일본 정부와 후쿠시마 원전 운용사 도쿄전력 측의 배상금 지급을 명령하면서 원고단의 일원이 +ㄴ후쿠시마현 출신 학생 5명의 정신적 피해도 인정하였다 .	O O LOC-B LOC-B O O O O O O O LOC-B LOC-B O O O O O ORG-B ORG-I LOC-B O O ORG-B O O O O O O LOC-B O O O O O O O
-원전 사고 당시 15세 미만이었던 이들 학생 중 한 여학생은 전학 간 군마현의 학교에서 “기분 나쁘니다가오지 말+아라.구역질이나 +ㄴ다”는 문구가 적히 +ㄴ쪽지를 받는 등의 괴롭히 +ㅁ을 당하였다 .	O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
-또 군마현으로 피난가+았다가 후쿠시마 현으로 돌아오+ㄴ한 남자 중학생은 “너+ㄴ 도망가 +았던 놈이+ㄴ데 왜 +았냐”는 등의 얘기를 듣어야 +였고, 전학가+ㄴ 학교에서 “가난뱅이 신(빈보가 미·貧乏神, 사람을 가난하게 만들 +ㄴ다는 일본 요괴)”라고 불리었던 것으로 알려지었다 .	O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O
-이와 관련 재판부는 5명의 피해 학생 가운데 도쿄전력으로부터 이미 손해배상액 이상의 위자료를 받은 3명을 제외 하+ㄴ 2명에게 배상금을 지급하라고 일본 정부와 도쿄전력 측에 요구하였다 .	O O O O O O O ORG-B O O O O O O O O O O O ORG-B ORG-I ORG-B O O O
-한편 재판부는 이번 판결에서 ‘대지진에 따르+ㄴ쓰나미(津波·지진해일) 피해를 예견하+ㄹ 수 있었다’는 이유에서 원전 사고 뒤군 마현으로 피난 오+ㄴ후쿠시마 현 주민들에게 총액 3855만엔(약 3억8800만원)의 배상금 지급을 명령하였다 .	O O O O O O O O O O O O O O O O LOC-B LOC-I O O MNY-B MNY-B O O O O
-(서울=뉴스1 .	LOC-B O
-일본 총리에 사회당 의원이 선출되+ㄴ 것은 지나 +ㄴ 47년의 가타야마(편산) 내각 이후 처음이다 .	ORG-B O O O O O O O O PER-B O O O O
-강원랜드 ‘폐광지역사회적경제사업’ 공 .	ORG-B O O O
-요제프와 에두아르트 슈트라우스는 ?두 사람은 ‘왈츠의 아버지’의 둘째 셋째 아들이자 ‘왈츠의 왕’의 동생들이 +ㅂ니다 .	PER-B PER-B PER-I O O PER-B PER-I O O O PER-B PER-I O O O
+3 일 새누리당 혁신 비상 대책 위원회 의 첫 회의 를 지켜본 당직자 들 사이 에서 는 한숨 이 절로 나 왔 다고 한다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+KTX 천안아산역 도 차 로 10 분 이내 에 이용할 수 있 다 .	LOC-B LOC-I O O O O O O O O O O O O
+본보기 집 은 천안시 동남 구 신방동 785 - 16 에 있 다 .	O O O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I O O O O
+[ 영상 ] 칠레 8.3 강진 페루 까지 쓰나미 경보 … 韓 피해 상황 은 ? 외교 부 입장 들 어 보 니 ‘ 관심 ↑ ’ 칠레 수도 산티아고 인근 에서 규모 8.3 의 강진 이 발생한 가운데 , 현재 까지 파악된 한국인 피해 는 없 는 것 으로 전해 졌 다 .	O O O LOC-B O O LOC-B O O O O LOC-B O O O O ORG-B ORG-I O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+[ 단독 ] 김선현 교수 , 위안부 할머니 그림 무단 사용 의혹	O O O PER-B O O O O O O O O
+협상 을 서둘 러 진행하 면 급성장하 는 중국 서비스 시장 을 선점할 기회 가 생긴다 .	O O O O O O O O ORG-B O O O O O O O O
+새누리당 은 5 일 윤호중 더불 어 민주당 정책 위 의장 ( 사진 ) 이 선거 연령 하향 조정 논의 와 관련 , ‘ 대통령 선거 는 19 금 포르노 가 아니 다 ’ 라고 발언한 것 을 맹비난하 며 윤 의장 에게 사죄 를 촉구 했 다 .	ORG-B O DAT-B DAT-I PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+또 통일 부 집계 에 따른 남북 교역 량 은 2013 년 11 억 3500 만 달러 ( 약 1 조 3050 억 원 ) 에서 지난해 23 억 4200 만 달러 ( 약 2 조 6930 억 원 ) 로 106.3 % 증가 했 다 .	O ORG-B ORG-I O O O O O O O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O
+일본 법원 이 지난 2011 년 동 일본 대지진 당시 원자력 발전소 폭발 사고 가 난 후쿠시마 ( 福島 ) 현 출신 학생 들 이 학교 에서 집단 괴롭힘 ( 이지메 ) 과 폭력 을 당한 데 대해서 도 국가 의 손해 배상 책임 이 있 다는 판결 을 내린 것 으로 확인 됐 다 .	ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지지통신 에 따르 면 일본 군마 ( 群馬 ) 현 마에바시 ( 前橋 ) 지방 재판소 ( 지방 법원 ) 는 지난 17 일 원전 사고 뒤 후쿠시마 현 에서 군마현 으로 피난 온 주민 137 명 에 대한 일본 정부 와 후쿠시마 원전 운용 사 도쿄 전력 측 의 배상금 지급 을 명령하 면서 원고 단 의 일원 인 후쿠시마 현 출신 학생 5 명 의 정신적 피해 도 인정 했 다 .	O O O O LOC-B LOC-B O LOC-B O O LOC-B O LOC-B O O O O O O O O O DAT-B DAT-I O O O LOC-B LOC-I O LOC-B O O O O O O O O ORG-B ORG-I O LOC-B O O O ORG-B ORG-I O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O
+원전 사고 당시 15 세 미만 이 었 던 이 들 학생 중 한 여학생 은 전학 간 군마현 의 학교 에서 “ 기분 나쁘 니 다가오 지 마라 . 구역질 이 난다 ” 는 문구 가 적힌 쪽지 를 받 는 등 의 괴롭힘 을 당 했 다 .	O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 군마현 으로 피난 갔 다가 후쿠시마 현 으로 돌아온 한 남자 중학생 은 “ 넌 도망갔 던 놈 인데 왜 왔 냐 ” 는 등 의 얘기 를 들 어야 했 고 , 전학 간 학교 에서 “ 가난뱅이 신 ( 빈보가미 · 貧乏神 , 사람 을 가난하 게 만든다는 일본 요괴 ) ” 라고 불 렸 던 것 으로 알려 졌 다 .	O LOC-B O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+이 와 관련 재판부 는 5 명 의 피해 학생 가운데 도쿄 전력 으로부터 이미 손해 배상액 이상 의 위자료 를 받 은 3 명 을 제외한 2 명 에게 배상금 을 지급하 라고 일본 정부 와 도쿄 전력 측 에 요구 했 다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O
+한편 재판부 는 이번 판결 에서 ‘ 대지진 에 따른 쓰나미 ( 津波 · 지진 해일 ) 피해 를 예견할 수 있 었 다 ’ 는 이유 에서 원전 사고 뒤 군마현 으로 피난 온 후쿠시마 현 주민 들 에게 총액 3855 만 엔 ( 약 3 억 8800 만 원 ) 의 배상금 지급 을 명령 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O LOC-B LOC-I O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+일본 총리 에 사회당 의원 이 선출된 것 은 지난 47 년 의 가타야마 ( 편산 ) 내각 이후 처음 이 다 .	ORG-B O O O O O O O O O O O O PER-B O PER-B O O O O O O O
+강원랜드 ‘ 폐광 지역 사회적 경제 사업 ’ 공모	ORG-B O O O O O O O O
+요제프 와 에두아르트 슈트라우스 는 ? 두 사람 은 ‘ 왈츠 의 아버지 ’ 의 둘째 셋째 아들 이 자 ‘ 왈츠 의 왕 ’ 의 동생 들 입니다 .	PER-B O PER-B PER-I O O O O O O PER-B PER-I PER-I O O O O O O O O PER-B PER-I PER-I O O O O O O

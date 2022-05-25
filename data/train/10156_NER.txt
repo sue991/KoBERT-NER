@@ -1,13 +1,13 @@
-NHK 등 일 언론은 27일 심야에 이 소식이 전하+여지자마자 긴급 속보를 전하며 충격에 빠지었다 .	O O ORG-B O ORG-B O O O O O O O O O O
-직구를 이용하면 4~6주 정도 기다리+어야 하는 것+이 단점이지만 당장 급하+ㄴ 물건이 아니라서 괜찮다 .	O O O O O O O O O O O O O O
-창업에 뛰어들 +ㄴ그는 2007년 에릭 프리드먼과 함께 샌프란시스코에서 핏빗을 설립하였다 .	O O O O PER-B PER-I O LOC-B ORG-B O O
-이때 은빈의 팔을 잡은 수연은 그대로 은빈에게 입맞춤하였다 .	O PER-B O PER-B PER-B O PER-B O O
-이후 두 사람은 손을 맞대고 '심쿵 하트' 포즈를 취하며 '꽁냥 케미'를 폭발시키는가 하면 SNS 맞팔(서로 팔로우 신청하는 것)을 하며 한층 가깝어 지+ㄴ 모습을 보이며 '친하+여지기 +ㄹ바라 +아' 프로젝트를 훈훈하게 마무리하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-제작사는 "조성하와 엄효섭은 고교 동창으로 30년 지기이고, 백성현과 이연희는 대학교 동기 등 '화정' 속에 숨기+어지+ㄴ인연들이 많다 .	O PER-B PER-B O O O O PER-B PER-B O O O O O O O O
-실적 부진으로 비상경영 중 이+ㄴ 포스코그룹은 20일 자사주 매입 프로그램을 도입하였다 .	O O O O O ORG-B O O O O O O
-전진수 GKL노동조합 위원장은 “우리 단체는 노조의 사회적 책무에 관심이 많아 오래전부터 저소득층에 쌀을 지원하는 등 각종 기부활동에 활발하게 참여하고 있다”면서 “이곳이 어린이들의 꿈을 키우는 공간으로 잘 활용되었으면 좋겠다”고 말하였다 .	PER-B ORG-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
-연간 음주운전 차량 동승 경험률 역시 2013년 8.1%에서 지난해 11.3%로 늘었다 .	O O O O O O O O O O O O
-연령 관련 황반변성은 크게 건성과 습성으로 나뉘는데, 습성은 전체에서 10~20%로 적지만, 황반변성실 명의 80% 이상을 차지하니 주의 하+여야 하+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O
-지역별로 보면 남자 현재 흡연율은 14개 시·도에서 감소하였고 (2개 시·도 증가), 특히 울산이 가장 높은 감소폭을 보이었다 .	O O O O O O O O O O O O LOC-B O O O O O
-(’08년 51.9% →’ 14년42.6%, ‘08년 대비 9.3%p 감소) 고위험 음주율은 8개 시·도에서 감소(7개 시·도 증가) 하+였고, 특히 강원이 가장 높은 감소폭을 보이었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-(’08년 24.1% →’ 14년 21.1%, ‘08년 대비 3.0%p 감소) 또 걷기 실천율은 3개 시·도에서 증가하였고 (13개 시·도 감소), 특히 대전이 가장 높은 증가폭을 보이었다 .	O O O O O O O O O O O O O O O O O O O LOC-B O O O O O
+NHK 등 일 언론 은 27 일 심야 에 이 소식 이 전해 지 자마자 긴급 속보 를 전하 며 충격 에 빠 졌 다 .	O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+직구 를 이용하 면 4 ~ 6 주 정도 기다려야 하 는 게 단점 이 지만 당장 급한 물건 이 아니 라서 괜찮 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+창업 에 뛰어든 그 는 2007 년 에릭 프리드먼 과 함께 샌프란시스코 에서 핏빗 을 설립 했 다 .	O O O O O DAT-B DAT-I PER-B PER-I O O LOC-B O ORG-B O O O O O
+이때 은 빈 의 팔 을 잡 은 수연 은 그대로 은 빈 에게 입맞춤 했 다 .	O PER-B PER-I O O O O O PER-B O O PER-B PER-I O O O O O
+이후 두 사람 은 손 을 맞대 고 ' 심 쿵 하트 ' 포즈 를 취하 며 ' 꽁 냥 케미 ' 를 폭발 시키 는 가하 면 SNS 맞팔 ( 서로 팔로우 신청하 는 것 ) 을 하 며 한층 가까 워 진 모습 을 보이 며 ' 친해 지 길 바라 ' 프로젝트 를 훈훈하 게 마무리 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+제작사 는 " 조성하 와 엄효섭 은 고교 동창 으로 30 년 지기 이 고 , 백성현 과 이연희 는 대학교 동기 등 ' 화정 ' 속 에 숨겨 진 인연 들 이 많 다 .	O O O PER-B O PER-B O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+# 실적 부진 으로 비상 경영 중 인 포스코 그룹 은 20 일 자사 주 매입 프로그램 을 도입 했 다 .	O O O O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O
+전 진수 GKL 노동조합 위원장 은 “ 우리 단체 는 노조 의 사회적 책무 에 관심 이 많 아 오래 전 부터 저소득층 에 쌀 을 지원하 는 등 각종 기부 활동 에 활발하 게 참여하 고 있 다 ” 면서 “ 이곳 이 어린이 들 의 꿈 을 키우 는 공간 으로 잘 활용 됐 으면 좋 겠 다 ” 고 말 했 다 .	PER-B PER-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+연간 음주 운전 차량 동승 경험 률 역시 2013 년 8.1 % 에서 지난해 11.3 % 로 늘 었 다 .	O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+연령 관련 황반 변성 은 크 게 건성 과 습성 으로 나뉘 는데 , 습성 은 전체 에서 10 ~ 20 % 로 적 지만 , 황반 변성 실명 의 80 % 이상 을 차지하 니 주의해야 합니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지역 별 로 보 면 남자 현재 흡연 율 은 14 개 시 · 도 에서 감소하 였 고 ( 2 개 시 · 도 증가 ) , 특히 울산 이 가장 높 은 감소 폭 을 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
+( ’ 08 년 51.9 % → ’ 14 년 42.6 % , ‘ 08 년 대비 9.3 % p 감소 ) 고 위험 음주 율 은 8 개 시 · 도 에서 감소 ( 7 개 시 · 도 증가 ) 했 고 , 특히 강원이 가장 높 은 감소 폭 을 보 였 다 .	O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+( ’ 08 년 24.1 % → ’ 14 년 21.1 % , ‘ 08 년 대비 3.0 % p 감소 ) 또 걷 기 실천 율 은 3 개 시 · 도 에서 증가하 였 고 ( 13 개 시 · 도 감소 ) , 특히 대전 이 가장 높 은 증가 폭 을 보 였 다 .	O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O

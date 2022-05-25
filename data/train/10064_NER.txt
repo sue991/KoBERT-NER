@@ -1,11 +1,11 @@
-공효진은 사랑스럽ㄴ 미소를 짓으 .	PER-B O O O O
-‘전·월세나 +ㄴ 놔두고는 경제 못 살리+ㄴ다’는 중앙의 사설 제목이 경제살리기에 초점을 맞추고 있다면, ‘얼+ㄴ발에 오줌 누기 서민 주거대책’이라는 한겨레의 사설 제목은 복지에 초점을 맞추고 있다 .	O O O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O
-기억이 안나+아서나중에 유튜브를 찾아보았을 정도+이다 .	O O O O O O
-2005년 세정에 입사하+ㄴ 박 신임 부사장은 브랜드 전략실장 등을 지내+었다 .	O ORG-B O PER-B O O O O O O O
-정부는 11일 송언석 기획재정부 2차관 주재로 민간투자사업심의위원회를 열고 대곡~소사 복선전철과 평택호 관광단지, 경북북부권 환경에너지 종합타운 등 2조7847억원 규모의 민자사업 추진을 확정하였다 .	O O PER-B ORG-B MNY-B O O O LOC-B LOC-I LOC-B LOC-I LOC-B O O O MNY-B O O O O O
-대곡~소사 복선전철에 +ㄴ 1조634억원이 들어가며 현대건설 컨소시엄이 사업을 시행하+ㄴ다 .	LOC-B LOC-I O MNY-B O ORG-B ORG-I O O O
-조상우는 시즌 중반까지 위력적 이+ㄴ 공을 던지었지만, 최근 4차례 등판 중 2번이나 대량 실점(5실점)하는 등 7월 방어율이 10.80까지 치솟았다 .	PER-B O O O O O O O O O O O O O O O O O O O
-광주와 부산외의 미 문화원도 반미 투쟁의 파고를 비키+어가지+ㄴ 못하였다 .	LOC-B LOC-B PER-B O PER-B O O O O O
-박진영 어머님이 누구+이니뮤비, 이현지 '환상적 몸매' ­… '재주는 박진영, 이슈는 이 현지 .	PER-B O O PER-B O O O O PER-B O O O O
-한편, 대선 출마와 관련 하+여서 +ㄴ "지금 자유한국당은 초상집"이라며 "후보가 되는 것이 굉장히 부담스럽다"고 밝히었다 .	O O O O O O O ORG-B O O O O O O O O
-손씨는 인생학교 서울을 통하+여 한국인이 삶의 여유와 만족, 행복에 대하+여 생각 하+여보+ㄹ 기회를 얻기를 희망하였다 .	PER-B O O O O O O O O O O O O O O O
+공효진 은 사랑스러 운 미소 를 지 으며	PER-B O O O O O O O
+‘ 전 · 월세 난 놔두 고는 경제 못 살린다 ’ 는 중앙 의 사설 제목 이 경제 살리 기 에 초점 을 맞추 고 있 다면 , ‘ 언 발 에 오줌 누 기 서민 주거 대책 ’ 이 라는 한겨레 의 사설 제목 은 복지 에 초점 을 맞추 고 있 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+기억 이 안 나서 나중 에 유튜브 를 찾아 봤 을 정도 다 .	O O O O O O O O O O O O O O
+2005 년 세정 에 입사한 박 신임 부사장 은 브랜드 전략 실장 등 을 지냈 다 .	DAT-B DAT-I ORG-B O O PER-B O O O O O O O O O O O
+정부 는 11 일 송언석 기획 재정부 2 차관 주재 로 민간 투자 사업 심의 위원회 를 열 고 대곡 ~ 소사 복선 전철 과 평택호 관광 단지 , 경북 북부 권 환경 에너지 종합 타운 등 2 조 7847 억 원 규모 의 민자 사업 추진 을 확정 했 다 .	O O DAT-B DAT-I PER-B ORG-B ORG-I O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O LOC-B LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I O LOC-B O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O
+대곡 ~ 소사 복선 전철 엔 1 조 634 억 원 이 들어가 며 현대건설 컨소시엄 이 사업 을 시행한다 .	LOC-B LOC-I LOC-I LOC-I LOC-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O ORG-B ORG-I O O O O O
+조상우 는 시즌 중반 까지 위력 적 인 공 을 던 졌 지만 , 최근 4 차례 등판 중 2 번 이나 대량 실점 ( 5 실점 ) 하 는 등 7 월 방어율 이 10.80 까지 치솟 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+광주 와 부산 외 의 미 문화원 도 반미 투쟁 의 파고 를 비켜 가 진 못 했 다 .	LOC-B O LOC-B O O PER-B O O O O O O O O O O O O O O
+박진영 어머님 이 누구 니 뮤 비 , 이현지 ' 환상적 몸매 ' ­ … ' 재주 는 박진영 , 이슈 는 이현지 ?	PER-B O O O O O O O PER-B O O O O O O O O O PER-B O O O PER-B O
+한편 , 대선 출마 와 관련해선 " 지금 자유 한국 당 은 초상집 " 이 라며 " 후보 가 되 는 것 이 굉장히 부담스럽 다 " 고 밝 혔 다 .	O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+손 씨 는 인생 학교 서울 을 통해 한국인 이 삶 의 여유 와 만족 , 행복 에 대해 생각해 볼 기회 를 얻 기 를 희망 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

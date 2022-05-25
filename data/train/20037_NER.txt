@@ -1,16 +1,16 @@
-이씨가 무속 인덕에 병을 치유 하+ㄴ 후, 무속인을 깊이 따르았다는 이야기가 되+ㄴ다 .	PER-B O O O O O O O PER-B O PER-B O O
-이날 방송에서 압권은 세모자가 촬영 중 휴식시간에 나누+ㄴ 대화가 그대로 공개되+ㄴ점이다 .	O O O O O O O O O O O O
-김지석, 하석진·윤소희 핑크빛 기류에 분노“고춧가루 느낌 .	PER-B PER-B O O O O O
-친박들과 죽느냐 살느냐의 공천 전쟁을 벌이고 있기 때문이 +ㄴ데, 그 본질은 영남권에서의 헤게모니 다툼이 +ㄹ 뿐이다 .	O O O O O O O O O O O LOC-B O O O O O
-음악 프로그램이나 여타 방송 출연 없이도 1위를 차지하였다 .	O O O O O O O O O
-한국에서는 명동 눈스퀘어점, 압구정점, 롯데 잠실점, 부산 신세계 센텀시티점 등 4곳에서 5일 오전 8시에 선을 보이+ㄴ다 .	LOC-B LOC-B LOC-I LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I O O O O O O O O
-온라인 중앙일보 jstar@j oongang. co.krH&M-발망, 콜라보 한정 .	O O O O ORG-B O O O
-이 때문에 출판사들은 일단 3월 출간 예정으로 수학능력시험 대비 참고서 출판을 서두르고 있다 .	O O O O O O O O O O O O O O
-새롭ㄴ기하학적 구조의 실린더 헤드 흡기라인의 적용으로 연비 효율을 개선하였으며, 2단계 터보차저와 EGR 시스템(질소산화물 저감장치), 배기가스 후 처리장치 등은 새롭ㄴ 엔진이라 하+여도 손색이 없을 만큼 기술적 이+ㄴ 진보를 통하+여엔진의 효율성 및 연비 개선 향상에 기여하+ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
-막스버거(Max Burger)만 트럭버스코리아 사장은 “지난해 괄목하+ㄹ만 하+ㄴ 성장세를 기록하+ㄴ만 트럭버스코리아는 유로6 신제품 라인업을 기반으로 더 크+ㄴ도약의 발판을 마련하였다”면서, “주행 감성과 경제성이 완전하+ㄴ 조화를 이루+ㄴ 뛰어나 +ㄴ 제품력을 통하+여 차별화되+ㄴ비즈니스 솔루션 제공은 물론이고 친환경 상용차 리더십을 잇어나가+ㄹ 것“이라고 밝히었다 .	PER-B ORG-B ORG-I O O ORG-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-만트럭은 독일 품질인증기관이 +ㄴ TÜV라인란드로부터 2013년, 2014년 2년 연속 경쟁사 대비 제품의 최저 결함률 인증을 획득하는 등 전 세계 상용차 시장에서 신뢰도 높은 제품력으로 정평이나 +아있는 250년 전통의 상용차 전문 브랜드이다 .	ORG-B LOC-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-FNC, 유재석 잇어 이번에 +ㄴ 노홍철·김용만과 전속계약… ‘예능왕국’ 발돋움 방송인 김용만과 노홍철이 FNC엔터테인먼트(이하 FNC)와 전속계약을 맺었다 .	ORG-B PER-B O O O PER-B O O O O PER-B PER-B ORG-B ORG-B O O O
-27일 FNC 측은 공식 보도자료를 통하+여 김용만, 노홍철과의 전속계약 소식을 전하였다 .	O ORG-B O O O O PER-B PER-B O O O O
-FNC는 “김용만과 노홍철이 가지+ㄴ 역량을 펼치는 것은 물론 자사가 보유 하+ㄴ 다양하+ㄴ 콘텐츠 및 제작 시스템과 최상의 시너지 효과를 내+ㄹ 수 있도록 전폭적 이+ㄴ 지원을 아끼지 않을 예정”이라고 전하였다 .	ORG-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-앞서 유재석의 합류로 화제를 모으+ㄴ FNC는 김용만과 노홍철의 합류로 기존의 송은이, 정형돈, 이국주, 문세윤과 함께 탄탄하+ㄴ 예능 라인업을 구축하게 +었다 .	O PER-B O O O ORG-B PER-B PER-B O O PER-B PER-B PER-B PER-B O O O O O O O
-이로써 FNC는 코스닥에 상장 하+ㄴ지 1년도 되지 않아 음반 및 공연제작, 매니지먼트, 아카데미 사업, 드라마 제작 등의 성과를 이루+어내며 종합 엔터테인먼트사로서 입지를 다지었다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O
+이 씨 가 무속 인 덕 에 병 을 치유한 후 , 무속 인 을 깊이 따 랐 다는 이야기 가 된다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+이날 방송 에서 압권 은 세모자 가 촬영 중 휴식 시간 에 나눈 대화 가 그대로 공개된 점 이 다 .	O O O O O O O O O O O O O O O O O O O O O
+김지석 , 하석진 · 윤소희 핑크 빛 기류 에 분노 “ 고춧가루 느낌 ”	PER-B O PER-B O PER-B O O O O O O O O O
+친 박 들 과 죽 느냐 사 느냐 의 공천 전쟁 을 벌이 고 있 기 때문 인데 , 그 본질 은 영남 권 에서 의 헤게모니 다툼 일 뿐 이 다 .	O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O
+음악 프로그램 이나 여타 방송 출연 없이 도 1 위 를 차지 했 다 .	O O O O O O O O O O O O O O O
+한국 에서 는 명동 눈 스퀘어 점 , 압구정 점 , 롯데 잠실 점 , 부산 신세계 센텀시티 점 등 4 곳 에서 5 일 오전 8 시 에 선 을 보인다 .	LOC-B O O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O
+온라인 중앙일보 jstar @ joongang . co . krH & M - 발망 , 콜라 보 한정판	O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O
+이 때문 에 출판사 들 은 일단 3 월 출간 예정 으로 수학 능력 시험 대비 참고서 출판 을 서두르 고 있 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+새로 운 기하학적 구조 의 실린더 헤드 흡기 라인 의 적용 으로 연비 효율 을 개선 했 으며 , 2 단계 터보차저 와 EGR 시스템 ( 질소 산화물 저감 장치 ) , 배기가스 후처리 장치 등 은 새로 운 엔진 이 라 해도 손색 이 없 을 만큼 기술적 인 진보 를 통해 엔진 의 효율 성 및 연비 개선 향상 에 기여한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+막스 버거 ( Max Burger ) 만 트럭 버스 코리아 사장 은 “ 지난해 괄목할 만한 성장세 를 기록한 만 트럭 버스 코리아 는 유로 6 신제품 라인업 을 기반 으로 더 큰 도약 의 발판 을 마련 했 다 ” 면서 , “ 주행 감성 과 경제성 이 완전한 조화 를 이룬 뛰어난 제품력 을 통해 차별화된 비즈니스 솔루션 제공 은 물론 이 고 친환경 상용차 리더십 을 이 어 나갈 것 “ 이라고 밝 혔 다 .	PER-B PER-I O PER-B PER-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+만 트럭 은 독일 품질 인증 기관 인 TÜV 라인 란드 로부터 2013 년 , 2014 년 2 년 연속 경쟁사 대비 제품 의 최저 결함 률 인증 을 획득하 는 등 전 세계 상용차 시장 에서 신뢰도 높 은 제품력 으로 정평 이 나 있 는 250 년 전통 의 상용차 전문 브랜드 이 다 .	ORG-B ORG-I O LOC-B O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O DAT-B DAT-I DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+FNC , 유재석 이 어 이번 엔 노홍철 · 김용만 과 전속 계약 … ‘ 예능 왕국 ’ 발돋음 방송인 김용만 과 노홍철 이 FNC 엔터테인먼트 ( 이하 FNC ) 와 전속 계약 을 맺 었 다 .	ORG-B O PER-B O O O O PER-B O PER-B O O O O O O O O O O PER-B O PER-B O ORG-B ORG-I O O ORG-B O O O O O O O O O
+27 일 FNC 측 은 공식 보도 자료 를 통해 김용만 , 노홍철 과 의 전속 계약 소식 을 전 했 다 .	DAT-B DAT-I ORG-B O O O O O O O PER-B O PER-B O O O O O O O O O O
+FNC 는 “ 김용만 과 노홍철 이 가진 역량 을 펼치 는 것 은 물론 자사 가 보유한 다양한 콘텐츠 및 제작 시스템 과 최상 의 시너지 효과 를 낼 수 있 도록 전폭적 인 지원 을 아끼 지 않 을 예정 ” 이라고 전 했 다 .	ORG-B O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 유재석 의 합류 로 화제 를 모은 FNC 는 김용만 과 노홍철 의 합류 로 기존 의 송은이 , 정형돈 , 이국주 , 문세윤 과 함께 탄탄한 예능 라인업 을 구축하 게 됐 다 .	O PER-B O O O O O O ORG-B O PER-B O PER-B O O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O
+이 로써 FNC 는 코스닥 에 상장한 지 1 년 도 되 지 않 아 음반 및 공연 제작 , 매니지먼트 , 아카데미 사업 , 드라마 제작 등 의 성과 를 이뤄 내 며 종합 엔터테인먼트 사 로서 입지 를 다 졌 다 .	O O ORG-B O ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

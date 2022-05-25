@@ -1,14 +1,14 @@
-벽초 지연못 위로 나+ㄴ 두 개의 다리를 걷어들어가면 자연과 하나가 되는 느낌이다 .	LOC-B LOC-I O O O O O O O O O O O
-최종 개표 결과는 다음달 1, 2일 나오+ㄴ다 .	O O O O O O O O
-이를 통하+여출시 첫해 매출 150억원에서 올해는 3배 이상 이+ㄴ 500억원대 브랜드로 육성시키겠다는 목표+이다 .	O O O O MNY-B O O O O MNY-B O O O O
-‘기록의사나이’ 싸이는 2억 조회 수 이상 기록하+ㄴ 뮤직비디오를 5편이나 보유 하+ㄴ국내 유일의 가수가 +었다 .	O PER-B O O O O O O O O O O O O O
-김정태 하나금융그룹 회장은 출범식 인사말에서 "통합은행 출범으로 하나금융그룹은 제2의 도약기를 맞았다"며 "리딩 금융그룹 되도록 최선을 다하겠다"고 밝히었다 .	PER-B ORG-B O O O O O ORG-B O O O O O O O O O O
-[전영기의 시시각각] 전갈과 개구 .	O O O O O
-그것+ㄴ 러시아를 견제하는 데 일본이 필요하다고 보+ㄴ 때문이다 .	O ORG-B O O ORG-B O O O O
-중국은 79위이다 .	ORG-B O O
-장씨는 “일각에서 +ㄴ이슬람 국가(IS)가 연관되었다는데 테러범은 한 명이 아니라 더 있을 수 있다는 소문도 돌+ㄴ다”고 전하였다 .	PER-B O ORG-B ORG-B O O O O O O O O O O O O O
-이 책을 통하+여 중국이 얼마나 일상 속에 깊숙이 스며들어 있는지를 실감하였다 .	O O O ORG-B O O O O O O O O
-대한상의는 또 정부에 임금체계 개편, 사업재편 지원특별법 제정, 지방투자규제 완화, 기업소득환류세제 기준 완화와 가업상속 지원제도 개선, 노동시장 구조개혁 추진 등 5대 정책과제를 건의하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-빠르고 간결하게 만들면서 맛까지 놓치지 않는 백종원 레시피의 장점이 잘 담기 +ㄴ 노하우로, 백종원 본인도 "이것 +ㄹ너무 일찍부터 알리+어주+어도 되나"+이라며 너스레를 떨었다 .	O O O O O O PER-B O O O O O O PER-B O O O O O O O O O
-알렉산더 게르스트는 “태양이 떠오르면서 국제우주정거장에서 바라보는 금빛 반사를 결코 잊을 수 없다”는 글과 함께 게재하였다 .	PER-B PER-I O O O O O O O O O O O O O O
-한편, 배우 이병헌이 출연하+ㄴ 것으로 알려지+어 화제가 되+ㄴ영화 '터미네이터: 제니시스(터미네이터5) '에서 상대 여배우에 밀리아 클라크가 주목받고 있다 .	O O PER-B O O O O O O O O O O O O O O O
+벽초 지 연못 위 로 난 두 개 의 다리 를 걸 어 들어가 면 자연 과 하나 가 되 는 느낌 이 다 .	LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O
+최종 개표 결과 는 다음 달 1 , 2 일 나온다 .	O O O O O O DAT-B O DAT-B DAT-I O O
+이 를 통해 출시 첫해 매출 150 억 원 에서 올해 는 3 배 이상 인 500 억 원 대 브랜드 로 육성 시키 겠 다는 목표 다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O
+‘ 기록 의 사나이 ’ 싸이 는 2 억 조회 수 이상 기록한 뮤직 비디오 를 5 편 이나 보유한 국내 유일 의 가수 가 됐 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+김정태 하나금융 그룹 회장 은 출범식 인사말 에서 " 통합 은행 출범 으로 하나금융 그룹 은 제 2 의 도약 기 를 맞 았 다 " 며 " 리딩 금융 그룹 되 도록 최선 을 다하 겠 다 " 고 밝 혔 다 .	PER-B ORG-B ORG-I O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 전영기 의 시시각각 ] 전갈과 개구리	O O O O O O O
+그건 러시아 를 견제하 는 데 일본 이 필요하 다고 본 때문 이 다 .	O ORG-B O O O O ORG-B O O O O O O O O
+중국 은 79 위 이 다 .	ORG-B O O O O O O
+장 씨 는 “ 일각 에선 이슬람 국가 ( IS ) 가 연관 됐 다는데 테러 범 은 한 명 이 아니 라 더 있 을 수 있 다는 소문 도 돈다 ” 고 전 했 다 .	PER-B O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 책 을 통해 중국 이 얼마나 일상 속 에 깊숙이 스며들 어 있 는지 를 실감 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O
+대한상의 는 또 정부 에 임금 체계 개편 , 사업 재편 지원 특별법 제정 , 지방 투자 규제 완화 , 기업 소득 환류 세제 기준 완화 와 가 업 상속 지원 제도 개선 , 노동시장 구조 개혁 추진 등 5 대 정책 과제 를 건의 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+빠르 고 간결하 게 만들 면서 맛 까지 놓치 지 않 는 백종원 레시피 의 장점 이 잘 담긴 노하우 로 , 백종원 본인 도 " 이걸 너무 일찍 부터 알려 줘도 되 나 " 라며 너스레 를 떨 었 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+알렉산더 게르 스트 는 “ 태양 이 떠오르 면서 국제 우주 정거장 에서 바라보 는 금빛 반사 를 결코 잊 을 수 없 다 ” 는 글 과 함께 게재 했 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 배우 이병헌 이 출연한 것 으로 알려져 화제 가 된 영화 ' 터미네이터 : 제니 시스 ( 터미네이터 5 ) ' 에서 상대 여배우 에밀리아 클라크 가 주목 받 고 있 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O

@@ -1,12 +1,12 @@
-견본주택은 경기도 고양시 일산서구 대화동 레이킨스몰 259호+이다 .	O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O
-많은 사람들의 인생영화 이+ㄴ ‘빌리 엘리어트’(1월 19일 재개봉 예정, 스티븐 달드리 감독)는 개봉 전부터 크+ㄴ 관심을 받으며 새해 기대작으로 떠오르고 있다 .	O O O O O O O O O PER-B PER-I O O O O O O O O O O O
-기사 내용은 대만 발명가가 「획기적 이+ㄴ」 휘발유 대체연료를 개발하었다는 것이다 .	O O LOC-B O O O O O O O O
-남자 쇼트트랙 대표팀 또 폭행 논 .	ORG-B ORG-I ORG-I O O O O
-우리도 독일처럼 이런 원칙들을 전제조건으로 출발하+ㄴ다면 가능하지 않을까 싶다 .	O ORG-B O O O O O O O O
-미국은 이 조항을 근거로 훗날 한국의 거시경제정책(‘경제안정 15원칙’, 1950년)에서 국회의원 선거 시기(애치슨 국무장관 친서, 1950년 4월 3일)에 이르기까지 전방위로 개입하였다 .	ORG-B O O O O ORG-B O O O O O PER-B O O O O O O O O O
-이승만은 미국이 장차 툭하면 원조를 끊겠다며 온갖 문제에 간섭 하+ㄹ 가능성을 일찌감치 직감하었다 .	PER-B ORG-B O O O O O O O O O O O O
-류근혁 보건복지부 건강정책국장은 “담배에 있는 각종 발암 성분이 유사하게 검출되고, 간접흡연에 위해를 주기 때문에 금연보조수단으로 생각하고 이용하+여서 +ㄴ 안 되+ㄴ다”고 밝히었다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O
-다행히 자위대 수송기가 도착하기 전 이+ㄴ 13일 밤 JICA 관계자 등 47명은 전세기 편으로 인근 국가 이+ㄴ 케냐로 대피하였다 .	O ORG-B O O O O O O ORG-B O O O O O O O O LOC-B O O
-주 전 공격수송명근이 수술 후 재활로팀에 합류하지 못하+ㄴ OK저축은행은 외국인 선수 마르코마저 몬테네그로 대표 선수로 세계선수권대회에 출전하느라 전력에서 이탈하+여 공격의 힘이 떨어지었다 .	O O PER-B O O O O O ORG-B O O PER-B PER-I O O O O O O O O O O
-한편 뉴스위크 소유사인 IBT는 성명을 내고 해킹 피해 사실과 함께 독자들에 대하+ㄴ 사과의 뜻을 밝히면서 "다시 통제권을 확보하+여계정이 정상화되었다 .	O O O ORG-B O O O O O O O O O O O O O O O O
-1980년대 초부터 1990년대 중반까지 수입이 없을 때가 가장 힘들었다 .	O O O O O O O O O O
+견본 주택 은 경기도 고양시 일산 서구 대화동 레이 킨 스몰 259 호 다 .	O O O LOC-B LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O
+많 은 사람 들 의 인생 영화 인 ‘ 빌리 엘리어트 ’ ( 1 월 19 일 재 개봉 예정 , 스티븐 달드리 감독 ) 는 개봉 전 부터 큰 관심 을 받 으며 새해 기대 작 으로 떠오르 고 있 다 .	O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+기사 내용 은 대만 발명가 가 「 획기적 인 」 휘발유 대체 연료 를 개발 했 다는 것 이 다 .	O O O LOC-B O O O O O O O O O O O O O O O O O
+남자 쇼트트랙 대표 팀 또 폭행 논란	ORG-B ORG-I ORG-I ORG-I O O O
+우리 도 독일 처럼 이런 원칙 들 을 전제 조건 으로 출발한다면 가능하 지 않 을까 싶 다 .	O O ORG-B O O O O O O O O O O O O O O O O
+미국 은 이 조항 을 근거 로 훗날 한국 의 거시 경제 정책 ( ‘ 경제 안정 15 원칙 ’ , 1950 년 ) 에서 국회 의원 선거 시기 ( 애치슨 국무 장관 친서 , 1950 년 4 월 3 일 ) 에 이르 기 까지 전 방위 로 개입 했 다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O PER-B O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O
+이승만 은 미국 이 장차 툭하면 원조 를 끊 겠 다며 온갖 문제 에 간섭할 가능성 을 일찌감치 직감 했 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O
+류근혁 보건복지부 건강 정책 국장 은 “ 담배 에 있 는 각종 발암 성분 이 유사하 게 검출되 고 , 간접흡연 에 위해 를 주 기 때문 에 금연 보조 수단 으로 생각하 고 이용해선 안 된다 ” 고 밝 혔 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다행히 자위대 수송기 가 도착하 기 전 인 13 일 밤 JICA 관계자 등 47 명 은 전세기 편 으로 인근 국가 인 케냐 로 대피 했 다 .	O ORG-B O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O LOC-B O O O O O
+주전 공격수 송명근 이 수술 후 재활 로 팀 에 합류하 지 못한 OK 저축은행 은 외국인 선수 마르코 마저 몬테네그 로 대표 선수 로 세계 선수권 대회 에 출전하 느라 전력 에서 이탈해 공격 의 힘 이 떨어 졌 다 .	O O PER-B O O O O O O O O O O ORG-B ORG-I O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O
+한편 뉴스위크 소유 사인 IBT 는 성명 을 내 고 해킹 피해 사실 과 함께 독자 들 에 대한 사과 의 뜻 을 밝히 면서 " 다시 통제권 을 확보해 계정 이 정상화 됐 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1980 년대 초 부터 1990 년대 중반 까지 수입 이 없 을 때 가 가장 힘들 었 다 .	O O O O O O O O O O O O O O O O O O O

@@ -1,17 +1,17 @@
-서세원, 서정희와 이혼한 달 만에 여성과 홍콩 출국?…과 거 폭행 CCTV 영상 재조 .	PER-B PER-B O O O O LOC-B O O O O O O O
-문제는 한국에서 유독 불평등의식이 강하다는 점이다 .	O LOC-B O O O O O
-이윤은 할아버지의 뜻대로 목숨을 부지하고 귀(이수혁 분)를 처단하+여야 하기에 귀 앞에서 스스로 무릎을 꿇고 고개를 숙이었다 .	PER-B O O O O PER-B O O O PER-B O O O O O O O
-그것은 미국 대통령 닉슨의 방식이다 .	O ORG-B O PER-B O O
-그는 ‘당선되면 미국보다 북한에 먼저 가겠다’고 하+ㄴ 발언을 문제 삼았다가 ‘북한 핵을 완전히 폐기 하+ㄹ 수 있다면 홍 후보는 북한에 가지 않을 것이 +ㄴ가’ +이라는 문 후보의 반박에 밀리+어말을 돌리기도 +였다 .	O O ORG-B ORG-B O O O O PER-B O ORG-B O O O O O O PER-B O ORG-B O O O O O PER-B O O O O O O
-책에는 2015년 6월 28일 자 미국 뉴욕타임스에 ‘가장 외롭ㄴ코끼리’ +이라는 제목의 기사를 쓰+ㄴ 트레이시툴리스기자의 사례가 나오아 있었다 .	O O O O O ORG-B ORG-I O O O O O O PER-B O O O O
-12월 분양 예정이+ㄴ ‘하남테크노밸리 U1center’는 하남시 풍산동 401번지 일원, 지역 현안사업 1지구나 +의 도시지원시설용지에 위치하+ㄴ다 .	LOC-I O O LOC-B LOC-I LOC-B LOC-B LOC-I O O O O O O O O
-이 기능을 체험하는 소비자들에게는 코엑스나 +의 제휴되+ㄴ 매장에서 사용 가능 하+ㄴ 할인 쿠폰을 제공하+ㄴ다 .	O O O O LOC-B O O O O O O O O O O
-최 감독은 국가대표팀 감독 시절 두 선수를 함께 뽑아 활용하였던 적이 있다 .	PER-B O ORG-B O O O O O O O O O O
-캐나다 퀘벡 총기난사범이 극우 성향의 명문대생이+ㄴ 것으로 밝혀지었다 .	LOC-B LOC-I O O O O O O O
-AP통신 등은 지난달 30일(현지시간) “퀘벡시 이슬람 사원에서 무슬림들에게 무차별적으로 총기를 난사하+ㄴ 알렉상드르 비소 네트(27)는 프랑스계 캐나다인”이라며 “퀘벡라발대학에서 인류학과 정치학을 공부하는 대학생으로 극우 성향을 지니 +ㄴ 인물”이라고 보도하였다 .	ORG-B O O O LOC-B LOC-I LOC-I O O O O PER-B PER-I O O O ORG-B O O O O O O O O O O O
-또 “그가 1급 살인 혐의로 기소되었다”고 덧붙이었다 .	O O O O O O O O
-지난해 서울가정법원에 접수되 +ㄴ 정년연령 정정사건은 384건.올해는 4월까지 141건이 접수되었다 .	O ORG-B O O O O O O O O O
-미니마우스가 그리 +어지+ㄴ 손수건은 기억이 나지만 내가 누구+이+ㄴ가의 눈물을 닦아 주+ㄴ 기억은 아무리 애를 +어도 떠오르지 않았다 .	PER-B O O O O O O O O O O O O O O O O O
-신라아이파크면세점은 한류의 거점이 되는 ‘K-디스커버리면세점’을 목표로 하고 있어 내년 그랜드 오픈일에 맞추+어 관련 상품과 콘텐츠를 더 강화하+ㄹ 예정이다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O
-길은 작년 12월 하하-스컬의 합동 콘서트 ‘합X체’ 무대에 오르았다 .	O O O PER-B O O O O O O
-리쌍 소속사 측은 “별도의 방송 활동 계획은 없다”고 밝히었다 .	ORG-B O O O O O O O O O
+서세원 , 서정희 와 이혼 한 달 만 에 여성 과 홍콩 출국 ? … 과거 폭행 CCTV 영상 재조명	PER-B O PER-B O O O O O O O O LOC-B O O O O O O O O
+문제 는 한국 에서 유독 불평등 의식 이 강하 다는 점 이 다 .	O O LOC-B O O O O O O O O O O O
+이윤 은 할아버지 의 뜻 대로 목숨 을 부지하 고 귀 ( 이수혁 분 ) 를 처단해야 하 기 에 귀 앞 에서 스스로 무릎 을 꿇 고 고개 를 숙 였 다 .	PER-B O O O O O O O O O PER-B O PER-B O O O O O O O PER-B O O O O O O O O O O O O O
+그것 은 미국 대통령 닉슨 의 방식 이 다 .	O O ORG-B O PER-B O O O O O
+그 는 ‘ 당선되 면 미국 보다 북한 에 먼저 가 겠 다 ’ 고 한 발언 을 문제 삼 았 다 가 ‘ 북한 핵 을 완전히 폐기할 수 있 다면 홍 후보 는 북한 에 가 지 않 을 것 인가 ’ 라는 문 후보 의 반박 에 밀려 말 을 돌리 기 도 했 다 .	O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O PER-B O O ORG-B O O O O O O O O O PER-B O O O O O O O O O O O O O
+책 에 는 2015 년 6 월 28 일자 미국 뉴욕타임스 에 ‘ 가장 외로 운 코끼리 ’ 라는 제목 의 기사 를 쓴 트레이시 툴리스 기자 의 사례 가 나 와 있 었 다 .	O O O DAT-B DAT-I DAT-I DAT-I DAT-I O ORG-B ORG-I O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O
+12 월 분양 예정 인 ‘ 하남 테크노밸리 U 1 center ’ 는 하남시 풍산동 401 번지 일원 , 지역 현안 사업 1 지구 내 도시 지원 시설 용지 에 위치한다 .	DAT-B DAT-I O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
+이 기능 을 체험하 는 소비자 들 에게 는 코엑스 내 제휴 된 매장 에서 사용 가능한 할인 쿠폰 을 제공한다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O
+최 감독 은 국가 대표 팀 감독 시절 두 선수 를 함께 뽑 아 활용 했 던 적 이 있 다 .	PER-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
+캐나다 퀘벡 총기 난사 범 이 극우 성향 의 명문 대 생 인 것 으로 밝혀 졌 다 .	LOC-B LOC-I O O O O O O O O O O O O O O O O O
+AP 통신 등 은 지난달 30 일 ( 현지 시간 ) “ 퀘벡시 이슬람 사원 에서 무슬림 들 에게 무차별적 으로 총기 를 난사한 알렉상드르 비 소네트 ( 27 ) 는 프랑스 계 캐나다 인 ” 이 라며 “ 퀘벡 라발 대학 에서 인류학 과 정치학 을 공부하 는 대학생 으로 극우 성향 을 지닌 인물 ” 이라고 보도 했 다 .	ORG-B ORG-I O O O DAT-B DAT-I O O O O O LOC-B LOC-I LOC-I O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+또 “ 그 가 1 급 살인 혐의 로 기소 됐 다 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O
+지난해 서울 가정 법원 에 접수된 정년 연령 정정 사건 은 384 건 . 올해 는 4 월 까지 141 건 이 접수 됐 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+미니 마우스 가 그려 진 손수건 은 기억 이 나 지만 내 가 누군가 의 눈물 을 닦 아 준 기억 은 아무리 애 를 써도 떠오르 지 않 았 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신라 아이파크 면세점 은 한류 의 거점 이 되 는 ‘ K - 디스커버리 면세점 ’ 을 목표 로 하 고 있 어 내년 그랜드 오픈 일 에 맞춰 관련 상품 과 콘텐츠 를 더 강화할 예정 이 다 .	ORG-B ORG-I ORG-I O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+길 은 작년 12 월 하하 - 스컬 의 합동 콘서트 ‘ 합 X 체 ’ 무대 에 올 랐 다 .	O O O DAT-B DAT-I PER-B O PER-B O O O O O O O O O O O O O O
+리쌍 소속 사 측 은 “ 별도 의 방송 활동 계획 은 없 다 ” 고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O

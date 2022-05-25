@@ -1,13 +1,13 @@
-올해 출연연 예산(4조6000억원) 중 정부 재원이 차지하는 비중은 출연금(43.2%)과 정부 수탁연구과제(45.6%)를 합하+여 88.8%에 달하+ㄴ다 .	O O MNY-B O O O O O MNY-B O MNY-B O O O O
-토종 아웃도어 브랜드 중 해외 매장 수가 한국 매장 수를 넘어서 +ㄴ 것은 코오롱스포츠가 처음이다 .	O O O O O O O LOC-B O O O O O ORG-B O O
-하지만 올해부터가 막만을 찾는 해양레포츠 동호인들의 불편이 줄어들 +ㄴ다 .	O O O O O O O O O O
-경례를 하+ㄹ 때는 상관보다 빨리 손을 내리+어주+어야 하+ㄴ다” 등의 거짓 정보를 넘겨주었고 하+ㄴ 채알는 믿는 모습을 보이어크+ㄴ 웃음을 자아내 +었다 .	O O O O O O O PER-B O O O O PER-B PER-I O O O O O O O
-또 이날 한 채 알는 입소를 앞두고 제작진과 인터뷰를 통하+여 “제가 진짜 성격이 욱하+ㄴ다 .	O O PER-B PER-I PER-I O O O O O O O O O O
-멀티플렉스극장 체인 역시 3∼4월 관객 감소 여파로 고민이 깊던 상황.이들의 ‘이해’가 결국 기형의 양상을 빚고 있다 .	O O O O O O O O O O O O O O O O O
-‘누나+ㄴ너무 예쁘어’ ‘루시퍼’ ‘링딩동’ 등 히트곡을 비롯하+여 11일 발표 하+ㄴ 싱글음반 수록곡 ‘유어 넘버’ ‘러브’ 무대를 선보이는 등 3시간 30분 동안 모두 32곡을 소화하+ㄴ이들은 “오늘 꿈이 이루어지었으니 새롭ㄴ 꿈이 생기었다”면서 “언제까지나 여러분과 함께하고 싶다”며 다음을 기약하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이다해 세븐 향하+ㄴ ‘닭살 애정’, “만나지 않았으면 평생 후회하였을 것 .	PER-B PER-B O O O O O O O O O
-‘왼손투수’ 최우석은 아직 불완전하다 .	O PER-B O O O
-‘꿈과 모험이 가득 하+ㄴ 세상’을 주제로 서울 송파구 아동복지시설 아동 37명을 지원하는 프로그램이다 .	O O O O O O LOC-B LOC-B O O O O O O
-롯데그룹은 가장 많은 34명을 늘리었다 .	ORG-B O O O O O
-국방부 내부 전산망(국방망)이 북한으로 추정되는 해커에 의하+여뚫리+ㄴ 것은 보안점검 소홀 등 총체적 관리 부실이 원인이었던 것으로 드러나 +았다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O
-잇어 박 회장은 이날 오후 5시 서울 종로구 포시즌스 호텔에서 미래에셋대우 본사 임원 및 부서장, 지점장들이 참석 하+ㄴ 가운데 경영전략회의를 열고 경영목표를 직접 제시하였다 .	O PER-B O O O O LOC-B LOC-B LOC-B LOC-I ORG-B ORG-I O O O O O O O O O O O O O
+올해 출연 연 예산 ( 4 조 6000 억 원 ) 중 정부 재원 이 차지하 는 비중 은 출연금 ( 43.2 % ) 과 정부 수탁 연구 과제 ( 45.6 % ) 를 합해 88.8 % 에 달한다 .	O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+토종 아웃도어 브랜드 중 해외 매장 수 가 한국 매장 수 를 넘어선 것 은 코오롱 스포츠 가 처음 이 다 .	O O O O O O O O LOC-B O O O O O O ORG-B ORG-I O O O O O
+하지만 올해 부터 가막만 을 찾 는 해양 레포츠 동호인 들 의 불편 이 줄어든다 .	O O O LOC-B O O O O O O O O O O O O
+경례 를 할 때 는 상관 보다 빨리 손 을 내려 줘야 한다 ” 등 의 거짓 정보 를 넘겨 줬 고 한 채 아 는 믿 는 모습 을 보 여 큰 웃음 을 자아냈 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O
+또 이날 한 채 아 는 입소 를 앞두 고 제작진 과 인터뷰 를 통해 “ 제 가 진짜 성격 이 욱한다 .	O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O
+멀티플렉스 극장 체인 역시 3 ∼ 4 월 관객 감소 여파 로 고민 이 깊 던 상황 . 이 들 의 ‘ 이해 ’ 가 결국 기형 의 양상 을 빚 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 누난 너무 예 뻐 ’ ‘ 루시퍼 ’ ‘ 링 딩동 ’ 등 히트 곡 을 비롯해 11 일 발표한 싱글 음반 수록 곡 ‘ 유어 넘버 ’ ‘ 러브 ’ 무대 를 선보이 는 등 3 시간 30 분 동안 모두 32 곡 을 소화한 이 들 은 “ 오늘 꿈 이 이루어 졌 으니 새로 운 꿈 이 생 겼 다 ” 면서 “ 언제 까지 나 여러분 과 함께 하 고 싶 다 ” 며 다음 을 기약 했 다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이다해 세븐 향한 ‘ 닭살 애정 ’ , “ 만나 지 않 았 으면 평생 후회 했 을 것 ”	PER-B PER-B O O O O O O O O O O O O O O O O O O
+‘ 왼손 투수 ’ 최우석 은 아직 불완전하 다 .	O O O O PER-B O O O O O
+‘ 꿈 과 모험 이 가득한 세상 ’ 을 주제 로 서울 송파구 아동복지시설 아동 37 명 을 지원하 는 프로그램 이 다 .	O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O
+롯데그룹 은 가장 많 은 34 명 을 늘 렸 다 .	ORG-B O O O O O O O O O O O
+국방부 내부 전산망 ( 국방 망 ) 이 북한 으로 추정되 는 해커 에 의해 뚫린 것 은 보안 점검 소홀 등 총체적 관리 부실 이 원인 이 었 던 것 으로 드러났 다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 어 박 회장 은 이날 오후 5 시 서울 종로구 포시즌스 호텔 에서 미래에셋 대우 본사 임원 및 부서장 , 지점장 들 이 참석한 가운데 경영 전략 회의 를 열 고 경영 목표 를 직접 제시 했 다 .	O O PER-B O O O TIM-B TIM-I TIM-I LOC-B LOC-B LOC-B LOC-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O

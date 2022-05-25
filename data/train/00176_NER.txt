@@ -1,12 +1,12 @@
-경찰은 지나 +ㄴ 5일 마크 리퍼트(42) 주한 미국대사를 피습하+ㄴ 김기종(55) 우리 마당 대표의 사무실에 대하+여 압수수색을 진행하였다 .	O O O O PER-B PER-I O O O PER-B ORG-B ORG-I O O O O O O
-유능하+ㄴ한국지도자를 찾던 장쑤는 최근 전북 현대 최강희(57) 감독에게 눈길을 주기도 +였지만, 결국 최초 접촉 후 1년 만에 막대하+ㄴ ‘황사머니’를 앞세우어 최 감독의 마음을 사로잡는 데 성공하였다 .	ORG-B O ORG-B PER-B ORG-B ORG-I PER-B O O O O O PER-B O O O O O O O PER-B O O O O O O
-개교 71주년을 맞이하 +ㄴ 부산대는 ‘학생의 미래가 있는 대학, 국민으로부터 사랑받는 대학’으로 거듭나기 위하+여 전력을 다하고 있다 .	O O O O ORG-B O O O O O O O O O O O O O
-황석정은 지나 +ㄴ 3월 방송되+ㄴ MBC ‘세바퀴-친구 찾기’에 출연하+여서울대 재학 당시에피소드를 공개하였다 .	PER-B O O O O O O O ORG-B O O O O
-또 권익현(민자)­나병선(민주) 의원은 『우루과이 라운드(UR)의 정부조달협정이 체결되+ㅁ에 따르 아군수물자의 대외 개방도 불가피하+ㄹ 전망』이라며 『이에 대하+ㄴ 대책이 무엇이냐 』고 따지었다 .	O ORG-B O O O O O O O O O O O O O O O O O O
-◆미래 자동차 산업의 주역, 미래 자동차공학과=미래 자동차공학과의 산학협력 기업은 현대차·GM·르노·BMW·현대모비스·만도·LG전자·BOSCH(보쉬) 등이다 .	O O O O O O O O O ORG-B O O
-그러나 전통·인맥·네트워크가 실력이 +ㄴ 금융은 폐쇄·단절의 대륙 중국이 결코 일거에 흉내내거나 따라잡을 수 없는 경지, 바로 공포이기도 +였다 .	O O O O O O O ORG-B O O O O O O O O O O O
-폴크스바겐 임원 ‘최소 30명’ 배기가 스스캔들 연 .	ORG-B O O O O O O O
-그렇 +ㅁ에도 더민주당은 국정원의 권한이 강화되는 것을 반대하며 테러방지법안 수정을 요구하고 있다 .	O O ORG-B ORG-B O O O O O O O O O
-서울시가 자체 개발하+ㄴ ‘도로함몰 예방대책’을 전국 지자체로 전파 하+ㄴ다 .	ORG-B O O O O O O O O O
-중국 관광연구소(CTRI)에 따르면 지난해 상반기 중국인 해외 관광객 수는 6190만명에 이르+ㄴ다 .	ORG-B ORG-B O O O ORG-B O O O O O O
-도로 끝에 폐쇄회로(CC) TV 1대가 설치되 +어 있지만 무용지물이었다 .	O O O O O O O O O O
+경찰 은 지난 5 일 마크 리퍼트 ( 42 ) 주한 미국 대사 를 피습한 김기종 ( 55 ) 우리 마당 대표 의 사무실 에 대해 압수 수색 을 진행 했 다 .	O O O DAT-B DAT-I PER-B PER-I O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O
+유능한 한국 지도자 를 찾 던 장쑤 는 최근 전북 현대 최강희 ( 57 ) 감독 에게 눈길 을 주 기 도 했 지만 , 결국 최초 접촉 후 1 년 만 에 막대한 ‘ 황사 머니 ’ 를 앞세 워 최 감독 의 마음 을 사로잡 는 데 성공 했 다 .	O ORG-B O O O O ORG-B O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+개교 71 주년 을 맞이한 부산대 는 ‘ 학생 의 미래 가 있 는 대학 , 국민 으로부터 사랑 받 는 대학 ’ 으로 거듭나 기 위해 전력 을 다하 고 있 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황석정 은 지난 3 월 방송된 MBC ‘ 세 바퀴 - 친구 찾 기 ’ 에 출연해 서울대 재학 당시 에피소드 를 공개 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O ORG-B O O O O O O O O
+또 권익현 ( 민자 ) ­ 나병선 ( 민주 ) 의원 은 『 우루과이 라운드 ( UR ) 의 정부 조달 협정 이 체결됨 에 따 라 군수 물자 의 대외 개방 도 불가피할 전망 』 이 라며 『 이 에 대한 대책 이 무엇 이 냐 』 고 따 졌 다 .	O PER-B O ORG-B O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+◆ 미래 자동차 산업 의 주역 , 미래 자동차 공학 과 = 미래 자동차 공학 과 의 산학 협력 기업 은 현대차 · GM · 르노 · BMW · 현대모비스 · 만 도 · LG 전자 · BOSCH ( 보쉬 ) 등 이 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B ORG-I O ORG-B ORG-I O ORG-B O ORG-B O O O O O
+그러나 전통 · 인맥 · 네트워크 가 실력 인 금융 은 폐쇄 · 단절 의 대륙 중국 이 결코 일거 에 흉내 내 거나 따라잡 을 수 없 는 경지 , 바로 공포 이 기 도 했 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+폴크스바겐 임원 ‘ 최소 30 명 ’ 배기가스 스캔들 연루	ORG-B O O O O O O O O O
+그럼에도 더 민주당 은 국정원 의 권한 이 강화되 는 것 을 반대하 며 테러 방지 법안 수정 을 요구하 고 있 다 .	O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O
+서울시 가 자체 개발한 ‘ 도로 함몰 예방 대책 ’ 을 전국 지자체 로 전파한다 .	ORG-B O O O O O O O O O O O O O O O
+중국 관광 연구소 ( CTRI ) 에 따르 면 지난해 상반기 중국인 해외 관광객 수 는 6190 만 명 에 이른다 .	ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O
+도로 끝 에 폐쇄 회로 ( CC ) TV 1 대 가 설치돼 있 지만 무용지물 이 었 다 .	O O O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-4일 충남 논산시 국민체육센터는 시 공무원 1000여명의 토론 열기로 가득 차+았다 .	O LOC-B LOC-B LOC-I O O O O O O O O
-2만~3만원짜리 옷을 사고, 팔려고 시간과 비용을 쓰+ㄹ사람이 많지 않았기 때문이다 .	MNY-B O O O O O O O O O O
-꼭 필요하+ㄴ 8시간 수면을 취하면서도 깨어 있는 시간에 최대한 집중하였다 .	O O O O O O O O O O O
-“대학교육, 수십 년 전 커리큘럼 머무르어 .	O O O O O O O
-이곳에서 남서쪽으로 약 4㎞ 떨어지+ㄴ 원효산 계곡의 홍룡폭포도 절경이다 .	O O O O O O O O O O
-K11 복합소총은 소총탄(구경 5.56㎜)과 공중 폭발탄(20㎜)을 동시에 운용하+ㄹ 수 있는 첨단무기로 우리나라가 세계 최초로 개발하였다 .	O O O O O O O O O O O O O O O O
-승차는 2012~2013 시즌 전자랜드(3위·33승21패)와 삼성(6위·22승32패)의 11게임이었다 .	O O O ORG-B ORG-B O O
-그러나 건설부와 구미시가 공사비 부담액수를 놓고 다투고 있는데다, 관로 매설 지역에 대하+ㄴ토지보상마저 이루어지지 않아 언제 공사가 마무리되 +ㄹ지 기약이 없는 상태+이다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O
-삼성서울병원 측은 “A씨가 지나 +ㄴ 8일 오후 3시쯤 병원에 메르스 확진 검사를 요청하였으나 당시 경미하+ㄴ 근육통만 있었고 체온도 정상이었으며 기침, 호흡곤란 등의 증상도 없었다”고 말하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-씨스타 소유, 과거 이상형으로 ‘공유’ 선택… “함께 캠핑가고 싶은 남자 .	ORG-B O O O PER-B O O O O O O
-전여옥 전 국회의원이 박근혜 대통령이 여성들에 대하+여 굉장히 박하였다고 평가하였다 .	PER-B O O PER-B O O O O O O O
-사실 지소연의 몸 상태는 완벽하지 않았다 .	O PER-B O O O O O
+4 일 충남 논산시 국민 체육 센터 는 시 공무원 1000 여 명 의 토론 열기 로 가득 찼 다 .	DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O
+2 만 ~ 3 만 원 짜리 옷 을 사 고 , 팔 려고 시간 과 비용 을 쓸 사람 이 많 지 않 았 기 때문 이 다 .	MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O
+꼭 필요한 8 시간 수면 을 취하 면서 도 깨 어 있 는 시간 에 최대한 집중 했 다 .	O O O O O O O O O O O O O O O O O O O O
+“ 대학 교육 , 수십 년 전 커리큘럼 머물 러 ”	O O O O O O O O O O O
+이곳 에서 남서쪽 으로 약 4 ㎞ 떨어진 원효산 계곡 의 홍룡 폭포 도 절경 이 다 .	O O O O O O O O O O O O O O O O O O
+K 11 복합 소총 은 소총탄 ( 구경 5.56 ㎜ ) 과 공중 폭발탄 ( 20 ㎜ ) 을 동시 에 운용할 수 있 는 첨단 무기 로 우리나라 가 세계 최초 로 개발 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+승차 는 2012 ~ 2013 시즌 전자랜드 ( 3 위 · 33 승 21 패 ) 와 삼성 ( 6 위 · 22 승 32 패 ) 의 11 게임 이 었 다 .	O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+그러나 건설부 와 구미시 가 공사비 부담 액수 를 놓 고 다투 고 있 는데 다 , 관로 매설 지역 에 대한 토지 보상 마저 이뤄지 지 않 아 언제 공사 가 마무리될지 기약 이 없 는 상태 다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성서울병원 측 은 “ A 씨 가 지난 8 일 오후 3 시 쯤 병원 에 메르스 확진 검사 를 요청 했 으나 당시 경미한 근육통 만 있 었 고 체온 도 정상 이 었 으며 기침 , 호흡 곤란 등 의 증상 도 없 었 다 ” 고 말 했 다 .	ORG-B O O O PER-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+씨스타 소유 , 과거 이상형 으로 ‘ 공유 ’ 선택 … “ 함께 캠핑 가 고 싶 은 남자 ”	ORG-B O O O O O O PER-B O O O O O O O O O O O O
+전여옥 전 국회 의원 이 박근혜 대통령 이 여성 들 에 대해 굉장히 박 했 다고 평가 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O
+사실 지소연 의 몸 상태 는 완벽하 지 않 았 다 .	O PER-B O O O O O O O O O O

@@ -1,14 +1,14 @@
-전국 수의 및 축산, 말 관련 학과 재학생(휴학생 포함)이면 누구나 신청 가능하며, 원서접수는 6월 25일부터 7월 9일까지 한국마사회 렛츠런호스피아 홈페이지(www.horsepia. com)를 통하+여서 가능하다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O
-팀별로 30, 31 경기씩 치르+ㄴ 22일 현재 1∼3위 이+ㄴ 전북, 수원, 포항은 상위 리그 행을 확정하였다 .	O O O O O O O O O ORG-B ORG-B ORG-B O O O O O
-10일 오전 3시20분경 경남 통영시 산양읍의 한 2층 주택에서 김모(67) 황모씨(66·여) 부부가 동네 주민 설모씨(22)가 휘두르+ㄴ 흉기에 찔리+어 숨지는 사고가 발생하였다 .	O O O LOC-B LOC-B LOC-B O O O PER-B PER-B O O O PER-B O O O O O O O
-디스패치는 "SNS 메세지를 확인 하+ㄴ 결과 계약 단계의 화기애애하+ㅁ, 계약과정의 의견 차이, 계약 이후의 갈등을 엿보+ㄹ 수 있었다"며 클라라가 주장 하+ㄴ '우월적 지위를 이용하+여수차례 성적 수치심을 느끼도록 +였다 .	ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
-복현규의 아내는 83년생 동갑으로 미모의 공무원으로 두 사람은 3년간 교제 하+여+오았다 .	PER-B O O O O O O O O O O O
-4월 재보궐 선거 때 국회의원 후보도 내겠다 .	O O O O O O O O
-화학연구소 강박광 소장은 『연구가 중단되+ㄴ 것은 국내 제약회사와의 공동시험에서 원하는 약효가 제대로 나오지 않았기 때문』이라며 『이물질은 이미 출원되+ㄴ 다른 물질의 특허로 보호받고 있다』고 답변하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O
-최고위는 두 의원 등에 대하+ㄴ 당원권 정지+이라는 징계의 취소를 의결하였고, 이 내용을 당무위원회에 넘기+어의 결을 요청하기로 +였다 .	O O O O O O O O O O O O O O O O O O
-이어서 터지+어나오+ㄴ아리랑은 떼창으로 백두산 구석구석을 울리었다 .	O O O LOC-B O O O
-2시간 30분 동안 이끌어야 하는 무대에서 어느 길로 가+아야 하+ㄹ지 알리+어주+ㄴ 것 같은.”-자신의 기사 댓글을 꼼꼼히 보는 편이 +ㄴ가.“보기 +ㄴ보+ㄴ다 .	TIM-B TIM-I O O O O O O O O O O O O O O O O O O O
-삼성이 2017 시즌을 앞두고 달라 지+ㄴ 모습을 보이고 있다 .	ORG-B O O O O O O O O O
-22일 의정부지법 형사3부(허경호 부장판사) 심리로 열리+ㄴ 결심공판에서 검찰은 “피고인에게 1심과 동일하+ㄴ 징역 3년을 선고 하+여달라”고 구형하였다 .	O O PER-B O O O O O O O O O O O O O O
-그랜드 하얏트 서울, 지니조리 ‘와인페어링 디너 .	ORG-B ORG-I ORG-I PER-B O O O
-‘인디펜던스 데이2’는 1996년 개봉되+어 전 세계에서 높은 인기를 끝 SF 영화 ‘인디펜던스 데이’의 속편으로 2016년 6월 24일 북미 개봉 예정이다 .	O O O O O O O O O O O O O O O O O LOC-B O O O
+전국 수 의 및 축산 , 말 관련 학과 재학생 ( 휴학 생 포함 ) 이 면 누구 나 신청 가능 하며 , 원서 접수 는 6 월 25 일 부터 7 월 9 일 까지 한국 마사회 렛츠 런 호스 피 아 홈페이지 ( www . horsepia . com ) 를 통해서 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O DAT-B DAT-I DAT-I DAT-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+팀 별 로 30 , 31 경기 씩 치른 22 일 현재 1 ∼ 3 위 인 전북 , 수원 , 포항 은 상위 리그 행 을 확정 했 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O
+10 일 오전 3 시 20 분 경 경남 통영시 산양읍 의 한 2 층 주택 에서 김 모 ( 67 ) 황모 씨 ( 66 · 여 ) 부부 가 동네 주민 설모 씨 ( 22 ) 가 휘두른 흉기 에 찔려 숨지 는 사고 가 발생 했 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B O O O O O O PER-B PER-I O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+디스 패치 는 " SNS 메세지 를 확인한 결과 계약 단계 의 화기애애함 , 계약 과정 의 의견 차이 , 계약 이후 의 갈등 을 엿볼 수 있 었 다 " 며 클라라 가 주장한 ' 우월적 지위 를 이용해 수차례 성적 수치심 을 느끼 도록 했 다 '	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+복현규 의 아내 는 83 년 생 동갑 으로 미모 의 공무원 으로 두 사람 은 3 년 간 교제해 왔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+4 월 재 보궐 선거 때 국회 의원 후보 도 내 겠 다 .	DAT-B DAT-I O O O O O O O O O O O O
+화학 연구소 강박광 소장 은 『 연구 가 중단된 것 은 국내 제약 회사 와 의 공동 시험 에서 원하 는 약효 가 제대로 나오 지 않 았 기 때문 』 이 라며 『 이 물질 은 이미 출원 된 다른 물질 의 특허 로 보호 받 고 있 다 』 고 답변 했 다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최고위 는 두 의원 등 에 대한 당원 권 정지 라는 징계 의 취소 를 의결 했 고 , 이 내용 을 당무 위원회 에 넘겨 의결 을 요청하 기 로 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어서 터져 나온 아리랑 은 떼 창 으로 백두산 구석구석 을 울 렸 다 .	O O O O O O O O LOC-B O O O O O O
+2 시간 30 분 동안 이끌 어야 하 는 무대 에서 어느 길 로 가야 할지 알려 준 것 같 은 . ” - 자신 의 기사 댓글 을 꼼꼼히 보 는 편 인가 . “ 보 긴 본다 .	TIM-B TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성 이 2017 시즌 을 앞두 고 달라진 모습 을 보이 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O
+22 일 의정부지법 형사 3 부 ( 허경호 부장 판사 ) 심리 로 열린 결심 공판 에서 검찰 은 “ 피고인 에게 1 심 과 동일한 징역 3 년 을 선고해 달 라 ” 고 구형 했 다 .	DAT-B DAT-I O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그랜드 하얏트 서울 , 지 니 조 리 ‘ 와인 페어링 디너 ’	ORG-B ORG-I ORG-I O PER-B PER-I PER-I PER-I O O O O O
+‘ 인디펜던스 데이 2 ’ 는 1996 년 개봉돼 전 세계 에서 높 은 인기 를 끝 SF 영화 ‘ 인디펜던스 데이 ’ 의 속편 으로 2016 년 6 월 24 일 북미 개봉 예정 이 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I LOC-B O O O O O

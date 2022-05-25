@@ -1,15 +1,15 @@
-다섯 살 정도 되어 보이는 그 아이는 대답 없이 울기만 +였다 .	O O O O O O O O O O O O
-온라인 중앙일보 ‘쌍용차 어린이 교통안전’.[사진 쌍용차 .	LOC-B LOC-I ORG-B O O ORG-B O
-연세대 의대가 1급 장애인을 선발하+ㄴ 것은 이번이 처음이다 .	ORG-B ORG-I O O O O O O O
-하지만 복지부는 절대 불가 입장이다 .	O ORG-B O O O O
-광주시가 2013년 말 열차 승객을 조사하+ㄴ 결과 광주역 이용객이 53%로 송정역(47%)보다 8%포인트가 많았다 .	ORG-B O O O O O O ORG-B O O ORG-B O O O
-‘집밥백 선생’ 갈비찜, 레시피 공개 “채소에도 넣는 순서가 있다”… 순서는? ‘집밥백 선생’ 백종원이 21일 예고되+ㄴ바와 같이 갈비찜을 만들어 눈길을 끌었다 .	O O O O O O O O O O O O PER-B O O O O O O O O
-22일 방송되+ㄴtvN ‘집방백 선생’에서는 명절을 맞고 갈비찜 레시피가 공개되었다 .	O ORG-B O O O O O O O O
-이날 백종원은 갈비찜 레시피를 공개하며 “갈비찜은 오래 끓이고 싶은데 오래 끓이지 못하+ㄴ다”고 말하였다 .	O PER-B O O O O O O O O O O O O
-이유를 설명하는 백종원은 “갈비찜에 들어가는 당근, 밤 같은 재료들이 확 물러지기 때문이다”이라고 설명하였다 .	O O PER-B O O O O O O O O O O O
-하지만 백종원은 “왜 같이 하냐.늦게 넣으면 되+ㄴ다”며 쉽지만 평상시 하지 못하였던 팁을 전수하였다 .	O PER-B O O O O O O O O O O O O
-이날 방송에 함께 하+ㄴ 윤상은 맵ㄴ갈비찜 레시피를 요청하였고, 백종원은 갈비탕 속 갈비와 갈비탕 육수 두 국자에 파, 간마늘한 숟갈, 굵은 고춧가루 세숟갈, 고기용 만능 소스한 컵반이라고 말하며 레시피를 공개+였다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
-배+ㄴ 헤켄은 이날 포함 최근 3시즌 동안 두산을 상대로 7승 1패, 방어율 2.85의 ‘킬러본능’을 자랑하였다 .	PER-B PER-I O O O O O ORG-B O O O O O O O O
-전통시장 경기 동향지수는 지난해 9월 79.5에서 12월 62.3으로 하락하였다 .	O O O O O O O O O O
-김 정책위의장은 “현재의 농지를 그대로 유지하+ㄴ 채 계속 쌀을 생산하는 것은 농민들에게도 유리하지 않다 .	PER-B O O O O O O O O O O O O O O
-왕징을 비롯하+ㄴ 베이징 전역에서 떡볶이, 닭강정, 호떡, 어묵, 튀김, 순대 등을 맛보기가 그다지 어렵지 않다 .	LOC-B O LOC-B O O O O O O O O O O O O O
+다섯 살 정도 되 어 보이 는 그 아이 는 대답 없이 울 기 만 했 다 .	O O O O O O O O O O O O O O O O O O
+온라인 중앙일보 ‘ 쌍용차 어린이 교통 안전 ’ . [ 사진 쌍용차 ]	LOC-B LOC-I O ORG-B O O O O O O O ORG-B O
+연세대 의대 가 1 급 장애인 을 선발한 것 은 이번 이 처음 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O
+하지만 복지 부 는 절대 불가 입장 이 다 .	O ORG-B ORG-I O O O O O O O
+광주시 가 2013 년 말 열차 승객 을 조사한 결과 광주역 이용객 이 53 % 로 송정역 ( 47 % ) 보다 8 % 포인트 가 많 았 다 .	ORG-B O DAT-B DAT-I O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O
+‘ 집 밥 백 선생 ’ 갈비찜 , 레시피 공개 “ 채소 에 도 넣 는 순서 가 있 다 ” … 순서 는 ? ‘ 집 밥 백 선생 ’ 백종원 이 21 일 예고 된 바 와 같이 갈비찜 을 만들 어 눈길 을 끌 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O
+22 일 방송된 tvN ‘ 집 방 백 선생 ’ 에서 는 명절 을 맞 아 갈비찜 레시피 가 공개 됐 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O
+이날 백종원 은 갈비찜 레시피 를 공개하 며 “ 갈비찜 은 오래 끓이 고 싶 은데 오래 끓이 지 못 한다 ” 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이유 를 설명하 는 백종원 은 “ 갈비찜 에 들어가 는 당근 , 밤 같 은 재료 들 이 확 물러지 기 때문 이 다 ” 이라고 설명 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 백종원 은 “ 왜 같이 하 냐 . 늦 게 넣 으면 된다 ” 며 쉽 지만 평상시 하 지 못 했 던 팁 을 전수 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 방송 에 함께한 윤상은 매 운 갈비찜 레시피 를 요청 했 고 , 백종원 은 갈비탕 속 갈비 와 갈비탕 육수 두 국자 에 파 , 간 마늘 한 숟갈 , 굵 은 고춧가루 세 숟갈 , 고기 용 만능 소스 한 컵 반 이 라고 말하 며 레시피 를 공개 했 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+밴 헤켄 은 이날 포함 최근 3 시즌 동안 두산 을 상대 로 7 승 1 패 , 방어율 2.85 의 ‘ 킬러 본능 ’ 을 자랑 했 다 .	PER-B PER-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+전통 시장 경기 동향 지수 는 지난해 9 월 79.5 에서 12 월 62.3 으로 하락 했 다 .	O O O O O O O DAT-B DAT-I O O DAT-B DAT-I O O O O O O
+김 정책 위 의장 은 “ 현재 의 농지 를 그대로 유지한 채 계속 쌀 을 생산하 는 것 은 농민 들 에게 도 유리하 지 않 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+왕징 을 비롯한 베이징 전역 에서 떡볶이 , 닭 강정 , 호떡 , 어묵 , 튀김 , 순대 등 을 맛보 기 가 그다지 어렵 지 않 다 .	LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O

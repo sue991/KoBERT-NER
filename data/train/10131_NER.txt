@@ -1,13 +1,13 @@
-이어 "기억나는 것+이 엄기준이 술 먹고 지각을 하+ㄴ적이 있었다 .	O O O PER-B O O O O O O
-결혼식 사회는 양상국, 축가는 쌍둥이 개그맨 이상호 이상민이 맡고, 유명 비보이 공연도 특별 이벤트로 진행되었다 .	O O PER-B O O O PER-B PER-B O O O O O O O O
-바이오더마 마케팅 담당자는 “뜨겁ㄴ 햇볕과 바캉스 후유증으로 피부가 거칠어지고 생기를 잃었다면 고보습 수분·영양케어로 피부 기초체력을 회복하는 것이 중요하다”면서 “아토덤 크림은 얼굴뿐 아니라 바디까지 꼼꼼하게 케어 하+ㄹ 수 있는 수분 특효 아이템이다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
-에디세즈윅의 경우 앤디 워홀의 뮤즈로 잘 알려지+어 있다 .	PER-B O PER-B PER-I O O O O O
-이를 두고 팬들 사이에서는, 두 사람이 이때부터 호감이 있었던 것이 아니냐는 추측을 낳고 있다 .	O O O O O O O O O O O O O O O
-한편 카이와 크리스탈의 열애설이 불거지자, SM엔터테이먼트는 1일 “두 사람이 친구로 지내 .	O PER-B PER-B O O ORG-B O O O O O O
-10일 안양FC와 ‘현대오일뱅크 K리그 챌린지 2015’ 14라운드 원정경기에서 5-1대승을 거두었다 .	O ORG-B O O O O O O O O O
-이 가운데 중국인 유학생이 2973명으로 가장 많다 .	O O O O O O O O
-‘YG합류 유병재’ YG 측이 유병재가 새로이 합류하였음을 알리었다 .	ORG-B PER-B ORG-B O PER-B O O O O
-9회는 15일 오후 10시 방송되며 오후 11시10분에는 ‘경찰청 사람들 2015’가 편성되+어 있어, 10회는 연속 방송되지 않고 다음 주에 전파를 타+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O
-한편 ‘그녀는 예쁘었다’는 수-목 오후 10시에 방송 하+ㄴ다 .	O O O O O O O O O
-지난해 29억9000여만원보다 37.8% 증가 하+ㄴ 것이다 .	O MNY-B O O O O O
-‘유전성 대사질환 진단검사’와 ‘전정유발 근전위 검사’ 등 18개 항목에 건강보험 혜택을 새로 적용하는 등 4대 중증질환(암, 심장, 뇌혈관, 희귀질환)의 보장성을 높이기 위 하+ㄴ 내용도 포함되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 " 기억나 는 게 엄기준 이 술 먹 고 지각 을 한 적 이 있 었 다 .	O O O O O PER-B O O O O O O O O O O O O O
+결혼식 사회 는 양상국 , 축가 는 쌍둥이 개그맨 이상호 이상민 이 맡 고 , 유명 비보이 공연 도 특별 이벤트 로 진행 됐 다 .	O O O PER-B O O O O O PER-B PER-B O O O O O O O O O O O O O O O
+바 이 오 더마 마케팅 담당자 는 “ 뜨거 운 햇볕 과 바캉스 후유증 으로 피부 가 거칠어지 고 생기 를 잃 었 다면 고 보습 수분 · 영양 케어 로 피부 기초 체력 을 회복하 는 것 이 중요하 다 ” 면서 “ 아토 덤 크림 은 얼굴 뿐 아니 라 바디 까지 꼼꼼하 게 케어 할 수 있 는 수분 특효 아이템 이 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+에디 세 즈윅 의 경우 앤디 워홀 의 뮤즈 로 잘 알려져 있 다 .	PER-B PER-I PER-I O O PER-B PER-I O O O O O O O O
+이 를 두 고 팬 들 사이 에서 는 , 두 사람 이 이 때 부터 호감 이 있 었 던 것 이 아니 냐는 추측 을 낳 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 카이 와 크리스탈 의 열애 설 이 불거지 자 , SM 엔터테이먼트 는 1 일 “ 두 사람 이 친구 로 지내 다	O PER-B O PER-B O O O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O O O O O
+10 일 안양 FC 와 ‘ 현대오일뱅크 K 리그 챌린지 2015 ’ 14 라운드 원정 경기 에서 5 - 1 대승 을 거 뒀 다 .	DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+이 가운데 중국인 유학생 이 2973 명 으로 가장 많 다 .	O O O O O O O O O O O O
+‘ YG 합류 유병재 ’ YG 측 이 유병재 가 새로이 합류 했 음 을 알 렸 다 .	O ORG-B O PER-B O ORG-B O O PER-B O O O O O O O O O O
+9 회 는 15 일 오후 10 시 방송되 며 오후 11 시 10 분 에 는 ‘ 경찰청 사람 들 2015 ’ 가 편성돼 있 어 , 10 회 는 연속 방송되 지 않 고 다음 주 에 전파 를 탈 것 으로 보인다 .	O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 ‘ 그녀 는 예 뻤 다 ’ 는 수 - 목 오후 10 시 에 방송한다 .	O O O O O O O O O DAT-B O DAT-B TIM-B TIM-I TIM-I O O O
+지난해 29 억 9000 여 만 원 보다 37.8 % 증가한 것 이 다 .	O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O O O
+‘ 유전성 대사 질환 진단 검사 ’ 와 ‘ 전정 유발 근전 위 검사 ’ 등 18 개 항목 에 건강 보험 혜택 을 새로 적용하 는 등 4 대 중증 질환 ( 암 , 심장 , 뇌혈관 , 희귀 질환 ) 의 보장 성 을 높이 기 위한 내용 도 포함 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

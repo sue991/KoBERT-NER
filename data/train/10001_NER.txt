@@ -1,16 +1,16 @@
-A : 사실 직접 제작 하+ㄴ 가수가 아니라, 곡을 주는 가수들도 이번에 잘 되+ㄹ지 안되+ㄹ지 예측하기가 정말 쉽지 않아요 .	PER-B O O O O O O O O O O O O O O O O O O O
-미국을 넘어 세계적 이+ㄴ 명성을 누리고 있는 음악단체로, 회원가입 자격 요건이 다소 까다롭고 보수적 이+ㄴ 것으로 유명하다 .	ORG-B O O O O O O O O O O O O O O O O O
-이 여성은 12일 오후 8시부터 다음날 이+ㄴ 오늘 오전까지 13시간째 사저 앞을 지키었다 .	O O O O O O O O O O O O O O
-김우겸도 올해 전국체전 1km독주에서 우승하며 차세대 사이클 기대주로 꼽히+ㄴ다 .	PER-B O O O O O O O O O
-에이전트 업계에서 +ㄴ이적료만 300만~400만달러(약 34억~45억원)로 추산하+ㄴ다 .	O O O MNY-B MNY-B O O
-수은은 대우조선에 지원 하+ㄴ 기존 대출금(1조6000억원)은 출자전환하지 않고, 이 중 1조원 정도를 영구채로 바꾸기로 +였다 .	ORG-B MNY-I MNY-I O O MNY-B O O O O MNY-B O O O O O
-고심명보 의원 보좌관 출신 이+ㄴ 무소속의 강도원 후보는 심 전 의원과 함께 그동안 지역발전을 위하+여 노력 하+여오+ㄴ점을 강조 .	PER-B O O O O O PER-B O PER-B O O O O O O O O O O
-이번 대회 전까지 6경기에 등판하였지만 평균 자책점은 7점대에 그치었다 .	O O O O O O O O O O
-수상자 중 어리+ㄴ 나이에도 불구하고 정부의 정책을 바꾸게 한 멕시코의 소년, 노래를 통하+여환경운동을 전개하+ㄴ 캐나다의 가수, 언론기관으로서 환경운동의 전면에 나서 +ㄴ조선일보사가 인상 깊었다 .	O O O O O O O O O ORG-B O O O O ORG-B O O O O O ORG-B O O O
-‘코코엔터 폐업 김준호’ 코코엔터테인먼트(이하 코코엔터)가 법인 설립 약 3년여 만에 폐업을 결정하였다 .	ORG-B O PER-B ORG-B ORG-B O O O O O O O O
-지나+ㄴ 24일 코코엔터는 “회생하기 위하+ 여임원들이 발로 뛰며 노력하였다 .	O O ORG-B O O O O O O O
-선린인터넷고와 대구상원고의 제69회 황금사자기 전국 고교야구대회 겸 주말리그 왕중왕전(동아일보·스포츠동아·대한야구협회 공동주최) 결승이 열리+ㄴ 29일. 경기 직전 한국야구위원회(KBO)는 kt와 NC를 제외 하+ㄴ 8개 구단의 2016년도 1차 지명선수 명단을 발표하였다 .	ORG-B ORG-B O O O O O O ORG-B O O O O O O ORG-B ORG-B ORG-B O O O O O O O O O O
-지난해 6월 이후 대출액이 110억원(460건)에 이르+ㄴ다 .	O O O O MNY-B O O
-올 6월 세상을 떠나 +ㄴ무하마드 알리의 장례식에서 “알리가 나에게 바통을 넘겨주었다 .	O O O O PER-B PER-B O PER-B O O O O
-또 다른 야수 B는 “수비시간이 길어지면 집중력이 떨어지+ㄹ 수밖에 없다 .	O O O PER-B O O O O O O O
-R프로젝트+이란 이름으로 시작되+ㄴ플레이버 소주 개발은 사내에서조차 관계자 5명만 알+ㄹ 정도로 극비로 진행되었다 .	O O O O O O O O O O O O O
+A : 사실 직접 제작한 가수 가 아니 라 , 곡 을 주 는 가수 들 도 이번 에 잘될지 안 될지 예측하 기 가 정말 쉽 지 않 아요 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 을 넘 어 세계적 인 명성 을 누리 고 있 는 음악 단체 로 , 회원 가입 자격 요건 이 다소 까다롭 고 보수적 인 것 으로 유명하 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 여성 은 12 일 오후 8 시 부터 다음날 인 오늘 오전 까지 13 시간 째 사저 앞 을 지 켰 다 .	O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O
+김우겸 도 올해 전국 체전 1 km 독주 에서 우승하 며 차세대 사이클 기대주 로 꼽힌다 .	PER-B O O O O O O O O O O O O O O O O
+에이전트 업계 에선 이적 료 만 300 만 ~ 400 만 달러 ( 약 34 억 ~ 45 억 원 ) 로 추산한다 .	O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O
+수은 은 대우조선 에 지원한 기존 대출금 ( 1 조 6000 억 원 ) 은 출자 전환하 지 않 고 , 이 중 1 조 원 정도 를 영구 채 로 바꾸 기 로 했 다 .	ORG-B O ORG-B O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+고 심명보 의원 보좌관 출신 인 무소속 의 강도원 후보 는 심 전 의원 과 함께 그동안 지역 발전 을 위해 노력해 온 점 을 강조 .	O PER-B O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O
+이번 대회 전 까지 6 경기 에 등판 했 지만 평균 자책점 은 7 점대 에 그 쳤 다 .	O O O O O O O O O O O O O O O O O O O O
+수상자 중 어린 나이 에 도 불구하 고 정부 의 정책 을 바꾸 게 한 멕시코 의 소년 , 노래 를 통해 환경 운동 을 전개한 캐나다 의 가수 , 언론 기관 으로서 환경 운동 의 전면 에 나선 조선일보사 가 인상 깊 었 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O
+‘ 코코 엔터 폐업 김준호 ’ 코코 엔터테인먼트 ( 이하 코코 엔터 ) 가 법인 설립 약 3 년 여 만 에 폐업 을 결정 했 다 .	O ORG-B ORG-I O PER-B O ORG-B ORG-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+지난 24 일 코코 엔터 는 “ 회생하 기 위해 임원 들 이 발 로 뛰 며 노력 했 다 .	O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O
+선린인터넷고 와 대구 상 원고 의 제 69 회 황금 사자 기 전국 고교 야구 대회 겸 주말 리그 왕중왕 전 ( 동아일보 · 스포츠 동아 · 대한야구협회 공동 주최 ) 결승 이 열린 29 일 . 경기 직전 한국야구위원회 ( KBO ) 는 kt 와 NC 를 제외한 8 개 구단 의 2016 년도 1 차 지명 선수 명단 을 발표 했 다 .	ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O ORG-B O O O O O O DAT-B DAT-I O O O ORG-B O ORG-B O O ORG-B O ORG-B O O O O O O DAT-B O O O O O O O O O O O
+지난해 6 월 이후 대출 액 이 110 억 원 ( 460 건 ) 에 이른다 .	O DAT-B DAT-I O O O O MNY-B MNY-I MNY-I O O O O O O O
+올 6 월 세상 을 떠난 무하마드 알리 의 장례식 에서 “ 알리 가 나 에게 바통 을 넘겨 줬 다 .	O DAT-B DAT-I O O O PER-B PER-I O O O O PER-B O O O O O O O O O
+또 다른 야수 B 는 “ 수비 시간 이 길어지 면 집중력 이 떨어질 수 밖에 없 다 .	O O O PER-B O O O O O O O O O O O O O O O
+R 프로젝트 란 이름 으로 시작된 플레이버 소주 개발 은 사내 에서 조차 관계자 5 명 만 알 정도 로 극비 로 진행 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O

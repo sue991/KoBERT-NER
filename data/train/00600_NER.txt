@@ -1,15 +1,15 @@
-결승전은 31일 열리+ㄹ 예정이다 .	O O O O O
-전라북도교육청은 1심 판결 결과가 나오+ㄴ 만큼 박씨를 징계위원회에 회부하+ㄹ 방침이다 .	ORG-B O O O O O PER-B O O O O
-(전주=뉴스1 .	LOC-B O
-20년 전부터 인구 노령화가 국민연금 같은 공적연금의 지출을 늘리+어 재정부담이 커지+ㄹ 것을 경계하였다 .	O O O O O O O O O O O O O O
-이뿐만 아니라 메이저리그 투수 코치와 스포츠에이전트로도 활약 하+ㄴ 다양하+ㄴ 경력의 소유자 +이다 .	O O O O O O O O O O O O O
-“본업이던 불교용 구제작은 60세 이+ㄴ 직원 한 사람이 전담 하+ㅂ니다 .	O O O O O O O O O O O
-잦은 사고로 ‘불안철’ ‘고장철’로 불리던 서울 지하철의 안전이 대폭 강화되+ㄴ다 .	O O O O O LOC-B O O O O O
-자라면 1m 가깝ㄴ 크 .	O O O O O
-그는 “아무래도 경험은 손시헌 선배님이 더 풍부하지만 자신감은 내가 한수위”+이라며 자신만만 하+ㄴ 모습을 펼치+어보이었다 .	O O O PER-B O O O O O O O O O O O
-‘복면가왕’ 휘발유 정체는 씨야 김연지?누리꾼 수사대 “역시 명불허전 .	O PER-B O ORG-B PER-B O O O O
-한국가스공사는 3330만원에서 3746만원으로 12.5%, 한국조폐공사는 3047만원에서 3397만원으로 11.5% 증가하였다 .	ORG-B MNY-B MNY-B O ORG-B MNY-B MNY-B O O O
-하창직 한국알뜰 통신사업자협회 사무국장은 “10% 점유율은 고무적 이+ㄴ숫자”라고 +였지만 “아직 자생력을 갖기에는 정부와 시장의 도움이 필요하다”고 말하였다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O
-1950년 8월 경찰과 군인은 경남 양산의 국민보도연맹원을 구금 하+ㄴ 뒤 같은 해 8월 9~22일 희생자들을 집단 사살하였다 .	O O O O LOC-B LOC-I O O O O O O O O O O O O
-치어리더 박기량에 관하+여 악성 루머를 퍼트리+ㄴ A씨가 결국 사과 글을 게재하+ㄴ 가운데 박기량 소속사 관련자가 이에 댓글을 기재하였다 .	O PER-B O O O O PER-B O O O O O PER-B O O O O O O
-A씨는 13일 오후 자신의 인스타그램을 통하+여 “지나 +ㄴ글들은 사귀던 선수에 대하+ㄴ 충격과 속상하+ㅁ으로 인하+ 여 작성 하+ㄴ글들이다” +이라는 글을 적었다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+결승전 은 31 일 열릴 예정 이 다 .	O O DAT-B DAT-I O O O O O
+전라북도교육청 은 1 심 판결 결과 가 나온 만큼 박 씨 를 징계 위원회 에 회부할 방침 이 다 .	ORG-B O O O O O O O O PER-B O O O O O O O O O O
+( 전주 = 뉴스 1 )	O LOC-B O O O O
+20 년 전 부터 인구 노령 화 가 국민 연금 같 은 공적 연금 의 지출 을 늘려 재정 부담 이 커질 것 을 경계 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 뿐 만 아니 라 메이저리그 투수 코치 와 스포츠 에이전트 로 도 활약한 다양한 경력 의 소유자 다 .	O O O O O O O O O O O O O O O O O O O O
+“ 본업 이 던 불교 용구 제작 은 60 세 인 직원 한 사람 이 전담합니다 .	O O O O O O O O O O O O O O O O O
+잦 은 사고 로 ‘ 불안 철 ’ ‘ 고장철 ’ 로 불리 던 서울 지하철 의 안전 이 대폭 강화된다 .	O O O O O O O O O O O O O O LOC-B O O O O O O O
+자라 면 1 m 가까 운 크기	O O O O O O O
+그 는 “ 아무래도 경험 은 손시헌 선배 님 이 더 풍부하 지만 자신감 은 내 가 한 수 위 ” 라며 자신만만한 모습 을 펼쳐 보 였 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+‘ 복면 가왕 ’ 휘발유 정체 는 씨야 김연지 ? 누리 꾼 수사대 “ 역시 명불허전 ”	O O O O PER-B O O ORG-B PER-B O O O O O O O O
+한국가스공사 는 3330 만 원 에서 3746 만 원 으로 12.5 % , 한국조폐공사 는 3047 만 원 에서 3397 만 원 으로 11.5 % 증가 했 다 .	ORG-B O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O ORG-B O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O O O O
+하창직 한국 알뜰 통신 사업자 협회 사무국 장 은 “ 10 % 점유율 은 고무적 인 숫자 ” 라고 했 지만 “ 아직 자생력 을 갖 기 에 는 정부 와 시장 의 도움 이 필요하 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1950 년 8 월 경찰 과 군인 은 경남 양산 의 국민 보도 연맹 원 을 구금한 뒤 같 은 해 8 월 9 ~ 22 일 희생자 들 을 집단 사살 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O
+치어리더 박기량 에 관해 악성 루머 를 퍼트린 A 씨 가 결국 사과 글 을 게재한 가운데 박기량 소속 사 관련자 가 이 에 댓글 을 기재 했 다 .	O PER-B O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O
+A 씨 는 13 일 오후 자신 의 인스타그램 을 통해 “ 지난 글 들 은 사귀 던 선수 에 대한 충격 과 속상함 으로 인해 작성한 글 들 이 다 ” 라는 글 을 적 었 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

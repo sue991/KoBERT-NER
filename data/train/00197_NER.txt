@@ -1,12 +1,12 @@
-5∼7월 전국 아파트 8만채 ‘집들이 .	O O O O O O
-넥센 히어로즈 서건창 십자인대 파열…구단 '초비상 사태' 벌어 지+어 .	ORG-B ORG-I PER-B O O O O O O O
-10월 3일부터 서울을 시작으로 아시아 투어에 돌입하+ㄴ다 .	O O LOC-B O LOC-B O O O
-홍 대표는 “백자에 화려 하+ㅁ을 더하였다면 청자위에는 단순 하+ㄴ 무늬가 들어가 +ㄴ 양식기가 어울리+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O
-18일(현지시간) 고등학교 입학시험이 치르어 지+ㄴ 인도 비하르 주하지 푸르의 하+ㄴ고 사장 건물에 학부모들이 자녀에게 커닝 쪽지를 전달하기 위하+여벽을 기어오르고 있다 .	O O O O O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O
-또 경상남도 창원시의창구 북면감계리232-1, 232-2번지에서 분양 중이+ㄴ ‘덕산 아내에코프리미엄 2차’는 지하 2층~지상 최고 23층 16개동으로 전용 59~84㎡의 총 1393가구 규모+이다 .	O LOC-B LOC-B LOC-B LOC-B O O LOC-B LOC-I LOC-I O O O O O O LOC-B O O O O
-무엇보다 중국 애플 앱스토어에서도 매출 순위 8위를 기록하며 그 흥행성을 입증받은 바 있다 .	O LOC-B O O O O O O O O O O O O
-야수 최대어로 꼽히는 최형우의 거취도 크+ㄴ 변수+이다 .	O O O PER-B O O O O
-만약 모든 선수들이 국내에 남고 어떤 팀을 선택하느냐에 따르 아2017 시즌 KBO 리그의 흐름도 크게 달라지+ㄹ 수 있다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O
-대단” “나도 여자+이에 요민아, 정말 예쁘다 .	O O O PER-B O O O
-모바일 MOBA '펜타스톰 .	O O O O
-네덜란드가 선발-중간-마무리까지 완벽하게 소화하는 바람에 우리 가 득점을 못하었고, 우리투수들도 결정적일 때 맞았다 .	ORG-B O O O O O O O O O O O O O
+5 ∼ 7 월 전국 아파트 8 만 채 ‘ 집 들 이 ’	O O O O O O O O O O O O O O
+넥센 히어로즈 서건창 십자 인대 파열 … 구단 ' 초 비상 사태 ' 벌어져 …	ORG-B ORG-I PER-B O O O O O O O O O O O O
+10 월 3 일 부터 서울 을 시작 으로 아시아 투어 에 돌입한다 .	DAT-B DAT-I DAT-I DAT-I O LOC-B O O O LOC-B O O O O
+홍 대표 는 “ 백자 에 화려함 을 더 했 다면 청자 위 에 는 단순한 무늬 가 들어간 양식기 가 어울린다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+18 일 ( 현지 시간 ) 고등학교 입학시험 이 치 러 진 인도 비하르 주 하지 푸르 의 한 고 사장 건물 에 학부모 들 이 자녀 에게 커닝 쪽지 를 전달하 기 위해 벽 을 기어오르 고 있 다 .	DAT-B DAT-I O O O O O O O O O O LOC-B LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O
+또 경상남도 창원시 의 창구 북면 감계리 232 - 1 , 232 - 2 번지 에서 분양 중 인 ‘ 덕산 아내 에코 프리미엄 2 차 ’ 는 지하 2 층 ~ 지상 최고 23 층 16 개 동 으로 전용 59 ~ 84 ㎡ 의 총 1393 가구 규모 다 .	O LOC-B LOC-B LOC-B LOC-I LOC-B LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+무엇 보다 중국 애플 앱 스토어 에서 도 매출 순위 8 위 를 기록하 며 그 흥행 성 을 입증 받 은 바 있 다 .	O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+야수 최대 어 로 꼽히 는 최형우 의 거취 도 큰 변수 다 .	O O O O O O PER-B O O O O O O O
+만약 모든 선수 들 이 국내 에 남 고 어떤 팀 을 선택하 느냐 에 따 라 2017 시즌 KBO 리그 의 흐름 도 크 게 달라질 수 있 다 .	O O O O O O O O O O O O O O O O O DAT-B O ORG-B ORG-I O O O O O O O O O O
+대단 ” “ 나 도 여자 예요 민 아 , 정말 예쁘 다 ”	O O O O O O O PER-B PER-I O O O O O
+모바일 MOBA ' 펜 타 스톰 '	O O O O O O O
+네덜란드 가 선발 - 중 간 - 마무리 까지 완벽하 게 소화하 는 바람 에 우리 가 득점 을 못 했 고 , 우리 투수 들 도 결정적 일 때 맞 았 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

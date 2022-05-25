@@ -1,13 +1,13 @@
-스포츠 세단 ‘재규어 XE’ 한국 판매 시 .	O O O O LOC-B O O O
-홍 후보는 "모두가 뛰어나 +ㄴ 인재로 성장하는 창의적 교육, 교사가 학생을 열심히 가르치고 이런 교사가 인정받는 교육 현장, 학부모가 자녀를 믿고 맡기는 학교를 만들어 학생·교사·학부모가 모두 행복하+여지는 교육 대 개혁을 반드시 이루겠다"고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-오랜 기간 천문 역리학을 연구 하+여오+ㄴ이씨는 ‘역법의 역사와 역리학의 바르+ㄴ이해’ 등 3권의 관련 서적을 저술하였으며 방송 출연과 신문 기고 등을 통하+여 생활역법과 풍수를 알리고 있다 .	O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O
-전용 85㎡ 이하 중소형 주택 1가구를 보유 하+여도 조합원 자격이 주어 지+ㄴ다 .	O O O O O O O O O O O O O
-[2016 한국산업대상 / 동반성장 부문]창조경영과 사회공헌으로 한국사회를 불 밝히 .	O ORG-B O O O O ORG-B O O O
-웹툰 ‘미생2’가 오는 17일부터 연재되+ㄴ다 .	O O O O O O
-주 전세터 김사니 의 원활하+ㄴ 볼 배급이 돋보이었다 .	O O PER-B O O O O O O
-상위 1% 부자는 전 세계에 모두 4700만명이나 되+ㄴ다 .	O O O O O O MNY-B O O
-비과세 종합저축은 현재 장애인, 독립유공자 및 유가족, 국가유공상이자, 기초생활수급자, 5·18 민주화운동 부상자, 고엽제후유의증 환자, 그리고 만 62세 이상이+ㄴ자만 가입하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O
-22일 인천경제청에 따르면 인하대 스마트 캠퍼스 추진단 측은 당초 계약 하+ㄴ 면적 22만5060m ²중 13만2000m ²만 매입하겠다는 의향을 최근 경제청에 전달하였다 .	O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O
-네이버는 지난해 3조원이 넘는 매출액 중 해외 비중이 1조원을 넘었다 .	ORG-B O MNY-B O O O O O MNY-B O O
-이철희 “박영선, 안희정 캠프 합류막바지 고민 .	PER-B PER-B PER-B O O O O
-전 세계에서 한국만큼 드라마틱 하+ㄴ 고령화가 예고되+ㄴ나라는 없다 .	O O LOC-B O O O O O O
+스포츠 세단 ‘ 재규어 XE ’ 한국 판매 시작	O O O O O O LOC-B O O
+홍 후보 는 " 모두 가 뛰어난 인재 로 성장하 는 창의적 교육 , 교사 가 학생 을 열심히 가르치 고 이런 교사 가 인정받 는 교육 현장 , 학부모 가 자녀 를 믿 고 맡기 는 학교 를 만들 어 학생 · 교사 · 학부모 가 모두 행복해 지 는 교육대 개혁 을 반드시 이루 겠 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오랜 기간 천문 역리 학 을 연구해 온 이 씨 는 ‘ 역법 의 역사 와 역리 학 의 바른 이해 ’ 등 3 권 의 관련 서적 을 저술 했 으며 방송 출연 과 신문 기고 등 을 통해 생활 역법 과 풍수 를 알리 고 있 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전용 85 ㎡ 이하 중소형 주택 1 가구 를 보유해도 조합원 자격 이 주어진다 .	O O O O O O O O O O O O O O O
+[ 2016 한국 산업 대상 / 동반 성장 부문 ] 창조 경영 과 사회 공헌 으로 한국 사회 를 불 밝히 다	O DAT-B O O O O O O O O O O O O O O ORG-B O O O O O
+웹 툰 ‘ 미생 2 ’ 가 오 는 17 일 부터 연재된다 .	O O O O O O O O O DAT-B DAT-I O O O
+주전 세터 김사니 의 원활한 볼 배급 이 돋보 였 다 .	O O PER-B O O O O O O O O O
+상위 1 % 부자 는 전 세계 에 모두 4700 만 명 이나 된다 .	O O O O O O O O O MNY-B MNY-I MNY-I O O O
+비과세 종합 저축 은 현재 장애인 , 독립 유공자 및 유가족 , 국가 유공 상이 자 , 기초 생활 수급 자 , 5 · 18 민주화 운동 부상자 , 고엽제 후유 의증 환자 , 그리고 만 62 세 이상 인 자 만 가입할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+22 일 인천 경제 청 에 따르 면 인하대 스마트 캠퍼스 추진 단 측 은 당초 계약한 면적 22 만 5060 m ² 중 13 만 2000 m ² 만 매입하 겠 다는 의향 을 최근 경제 청 에 전달 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+네이버 는 지난해 3 조 원 이 넘 는 매출액 중 해외 비중 이 1 조 원 을 넘 었 다 .	ORG-B O O MNY-B MNY-I MNY-I O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+이철희 “ 박영선 , 안희정 캠프 합류 막바지 고민 ”	PER-B O PER-B O PER-B O O O O O
+전 세계 에서 한국 만큼 드라마틱 한 고령화 가 예고된 나라 는 없 다 .	O O O LOC-B O O O O O O O O O O O

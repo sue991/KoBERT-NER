@@ -1,17 +1,17 @@
-공개되+ㄴ스틸 속에는 ‘고려판뇌섹남’이+ㄴ 8황자왕욱으로 완벽히 변신 하+ㄴ 강 하늘의 모습이 담기 +어 있어 눈길을 끌+ㄴ다 .	O O O PER-B O O O PER-B PER-I O O O O O O O
-교체 투입과 함께 좋은 움직임을 보이던 황희찬은 후반 33분 득점에 성공하였다 .	O O O O O O PER-B O O O O O
-데뷔 앨범 ‘더 스토리비 긴즈’는 한 달 만에 4만장(가온차트 집계)이 팔리+어나가았다 .	O O O O O O O O O O O O
-하지만 박종아만이 유일하게 페널티슛을 성공하였다 .	O PER-B O O O O
-교체론자들은 새롭ㄴ국보 1호로 훈민정음 자체를 생각하지만 현실에서는 그 해설서를 국보 1호 후보로 내놓고 있다 .	O O O O O O O O O O O O O O O
-주택시장이 과열 양상을 보이는 서울 강남권(강남·서초·송파구)의 분양권 전매제한 기간을 현재 6개월에서 입주 때까지로 강화하는 방안이 검토되고 있다 .	O O O O LOC-B LOC-B O O O O O O O O O O O O
-운전면허를 갱신하기 위하+여 3년(1종) 또는 5년(2종)마다 반드시 받아야 하는 현행 「적성검사」의 합격률이 99%를 넘는 등 검사로서의 실효성이 거의 없어, 불필요하+ㄴ 시간과 비용 낭비만 초래하고 있다는 비판이 높다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-[메르스 어디까지/치료방법 있나 .	O O O O
-이에 앞서 +어수원지법은 지나+ㄴ 6일 삼성디스플레이의 OLED 기술 유출 혐의로 삼성디스플레이 전 연구원에게 징역 1년에 집행유예 2년을 선고하고, LG디스플레이 임원과 협력업체 직원 등 3명에게 벌금형을 내리었다 .	O O ORG-B O O ORG-B O O O O ORG-B O O O O O O O ORG-B O O O O O O O O
-[스마트 컨슈머] 차세대 탄소섬유 온열·난방 소재 ‘핫스웰 .	O O O O O O O O
-박 대표가 경남 양산을 부산 기장으로 잘못 말하였다가 정정하+ㄴ 것에 대하+여서도 “허위사실 유포 행위가 없어지는 것+ㄴ 아니다 .	PER-B O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O
-소녀시대 써니의 실제 키가 새삼 관심을 끌었다 .	ORG-B PER-B O O O O O O
-앞서 +어 방송되+ㄴ KBS2TV ‘해피투게더3’에서 유재석은 써니의 키를 봐주지 않고 정확하게 재+았다 .	O O O O O PER-B PER-B O O O O O O
-참가국 별로 100~200명의 서포터즈단이 구성되었다 .	O O MNY-B O O O
-이 같은 움직임은 김일성 사망 소식을 처음 보도하+ㄴ 9일 정오뉴스 이후 부고, 추모 음악, 국내외 반응, 각국 축전만을 소개하던 보도 태도에서 벗어나 +아 북한이 의외로 신속하게 김일성 사망으로 인하+ㄴ 충격을 수습하고 있음을 시사하는 것으로 분석되+ㄴ다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O
-검찰은 옥시를 비롯하+ㄴ 관련 기업들이 유해성을 알고서도 살인 제품을 판매하였는지 낱낱이 밝혀내+어 피해자들의 한을 풀어주+어야 하+ㄹ 것이다 .	O ORG-B O O O O O O O O O O O O O O O O
-현재 한국을 포함하+여 10개 나라 음식 35만개의 테이터를 제공 중이다 .	O O O O O O O O O O O
+공개된 스틸 속 에 는 ‘ 고려판 뇌섹남 ’ 인 8 황자 왕욱 으로 완벽히 변신한 강 하늘 의 모습 이 담겨 있 어 눈길 을 끈다 .	O O O O O O O O O O O O PER-B O O O PER-B PER-I O O O O O O O O O O
+교체 투입 과 함께 좋 은 움직임 을 보이 던 황희찬 은 후반 33 분 득점 에 성공 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O
+데뷔 앨범 ‘ 더 스토리 비긴 즈 ’ 는 한 달 만 에 4 만 장 ( 가온 차트 집계 ) 이 팔려 나 갔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 박종아 만 이 유일하 게 페널티 슛 을 성공 했 다 .	O PER-B O O O O O O O O O O O
+교체 론자 들 은 새로 운 국보 1 호 로 훈민정음 자체 를 생각하 지만 현실 에서 는 그 해설 서 를 국보 1 호 후보 로 내놓 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주택 시장 이 과열 양상 을 보이 는 서울 강남 권 ( 강남 · 서초 · 송파구 ) 의 분양 권 전매 제한 기간 을 현재 6 개월 에서 입주 때 까지 로 강화하 는 방안 이 검토되 고 있 다 .	O O O O O O O O LOC-B LOC-B O O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+운전면허 를 갱신하 기 위해 3 년 ( 1 종 ) 또는 5 년 ( 2 종 ) 마다 반드시 받 아야 하 는 현행 「 적성 검사 」 의 합격률 이 99 % 를 넘 는 등 검사 로서 의 실효성 이 거의 없 어 , 불필요한 시간 과 비용 낭비 만 초래하 고 있 다는 비판 이 높 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 메르스 어디 까지 / 치료 방법 있 나 ]	O O O O O O O O O O
+이 에 앞서 수원 지법 은 지난 6 일 삼성디스플레이 의 OLED 기술 유출 혐의 로 삼성디스플레이 전 연구원 에게 징역 1 년 에 집행 유예 2 년 을 선고하 고 , LG 디스플레이 임원 과 협력 업체 직원 등 3 명 에게 벌금형 을 내 렸 다 .	O O O ORG-B ORG-I O O DAT-B DAT-I ORG-B O O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O O O
+[ 스마트 컨슈머 ] 차세대 탄소 섬유 온열 · 난방 소재 ‘ 핫 스웰 ’	O O O O O O O O O O O O O O O
+박 대표 가 경남 양산 을 부산 기장 으로 잘못 말 했 다가 정정한 것 에 대해서 도 “ 허위 사실 유포 행위 가 없어지 는 건 아니 다 .	PER-B O O LOC-B LOC-B O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O
+소녀 시대 써니 의 실제 키 가 새삼 관심 을 끌 었 다 .	ORG-B ORG-I PER-B O O O O O O O O O O O
+앞서 방송된 KBS 2 TV ‘ 해피투게더 3 ’ 에서 유재석 은 써니 의 키 를 봐주 지 않 고 정확하 게 쟀 다 .	O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O
+참가국 별로 100 ~ 200 명 의 서포터즈 단 이 구성 됐 다 .	O O MNY-B O O O O O O O O O O O
+이 같 은 움직임 은 김일성 사망 소식 을 처음 보도한 9 일 정오 뉴스 이후 부고 , 추모 음악 , 국내외 반응 , 각국 축전 만 을 소개하 던 보도 태도 에서 벗어나 북한 이 의외로 신속하 게 김일성 사망 으로 인한 충격 을 수습하 고 있 음 을 시사하 는 것 으로 분석된다 .	O O O O O PER-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O PER-B O O O O O O O O O O O O O O O O
+검찰 은 옥시 를 비롯한 관련 기업 들 이 유해성 을 알 고서 도 살인 제품 을 판매 했 는지 낱낱이 밝혀내 피해자 들 의 한 을 풀 어 줘야 할 것 이 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 한국 을 포함해 10 개 나라 음식 35 만 개 의 테이 터 를 제공 중 이 다 .	O O O O O O O O O O O O O O O O O O O O

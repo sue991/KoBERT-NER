@@ -1,13 +1,13 @@
-김창근, 하하선배로런닝맨 등장… 유재석 인터넷 검색 후 “대체 여기 왜 오+시었냐”걸그룹 ‘여자친구’가 런닝맨 촬영장을 초토화시키었다 .	PER-B PER-B O PER-B O O O O O O O ORG-B O O O O
-8일 방송되+ㄴ SBS ‘일요일이 좋다-런닝맨’에서는 지나 +ㄴ 주에잇어 100VS 100 두 번째 이야기가 방송되었다 .	O O ORG-B O O O O O O O O O O O O
-출시 후 소비자의 니즈와 스마트 트렌드를 바탕으로 매달 콘텐츠 업그레이드를 진행하며 지속적으로 진화하고 있는 삼성 ‘패밀리 허브’는 식재료 보관뿐 아니라 가족들이 즐겁게 소통하는 ‘패밀리 커뮤니케이션’, 음악과 영상을 즐기는 ‘키친 엔터테인먼트’, 사용자 편의성을 높이어주는 ‘스마트홈’ 등으로 주방을 단순히 식사와 요리만의 공간이 아니+ㄴ 가족 생활의 중심이 되는 공간으로 만들어 주+ㄴ다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-스타벅스는 ‘15번가 카페’를 오픈하면서 창문에 ‘스타벅스로부터 영감을 얻은(inspiredbyStarbucks)’이라는 문구를 써넣었다 .	ORG-B O O O O ORG-B O ORG-B O O O
-또 다른 추천서『 괴짜 사회학』은 컬럼비아대학 사회학과 교수 수디르벤 카테시가 10년간 시카고 슬럼가를 드나들며 경험 하+ㄴ 실상을 토대로 쓰+ㄴ 책이다 .	O O O O O ORG-B ORG-I PER-B PER-B O O LOC-B O O O O O O O O O
-아마존의 '에코', 레노버의 '스마트 어시스턴트', LG전자의 '허브 로봇', 바이두의 '리틀 피쉬' 등이 그 예+이죠.인공지능 제품 개발의 세 가지 요소 이렇게 인공지능 기술이 빠르+ㄴ 속도로 확산되+ㄴ 배경에는 인공지능을 구성하는 세 가지 기술의 발전이 있습니다 .	ORG-B O ORG-B O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-그러자 백종원은 웃으며 “팔지 않는다 .	O PER-B O O O O
-서울에서 지역아동센터를 운영하는 이모씨(53)는 “지역아동센터의 통학차량 대부분은 센터를 운영하는 복지시설이나 종교기관의 차량을 그대로 사용하는 경우가 많다”고 말하였다 .	LOC-B O O PER-B O O O O O PER-B O O O O O O O O
-메르스 확산 조짐이 나타나 +ㄴ이달 첫 주말 경기전을 찾은 관광객은 5044명으로 지난해 같은 기간 2만4963명의 20% 선에 그치었다 .	O O O O O O O O O O O O O O O O O O O
-한편 브로커 이씨가 접촉 하+ㄴ 정 대표의 항소심 첫 재판장이+ㄴ L부장판사는 이날 법원에 사의를 표명하였다 .	O O PER-B O O PER-B O O O PER-B PER-B PER-B O O O O
-이 가운데 이반분양 물량은 336가구+이다 .	O O O O O O
-키신저는 하나의 중국으로 미국이 얻은 것도 많지만 이제 미국을 위협 하+ㄹ 정도로 커지+ㄴ 중국을 포위하+ㄹ 때가 +었다는 판단을 +였을 것이다 .	PER-B O ORG-B ORG-B O O O O ORG-B O O O O ORG-B O O O O O O O
-”‘국민 타자’이 승엽(41·삼성)이 팬들과 맺은 마지막 약속을 지키기 위하+ 여고 이 묵히 +어두었던 1루수 미트를 다시 꺼내+어들었다 .	O O ORG-B O O O O O O O O O O O O O O O
+김창근 , 하하 선배 로 런닝맨 등장 … 유재석 인터넷 검색 후 “ 대체 여기 왜 오 셨 냐 ” 걸 그룹 ‘ 여자 친구 ’ 가 런닝맨 촬영장 을 초토화 시 켰 다 .	PER-B O PER-B O O O O O PER-B O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+8 일 방송된 SBS ‘ 일요일 이 좋 다 - 런닝맨 ’ 에서 는 지난 주 에 이 어 100 VS 100 두 번째 이야기 가 방송 됐 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+출시 후 소비자 의 니즈와 스마트 트렌드 를 바탕 으로 매달 콘텐츠 업그레이드 를 진행하 며 지속적 으로 진화하 고 있 는 삼성 ‘ 패밀리 허브 ’ 는 식 재료 보관 뿐 아니 라 가족 들 이 즐겁 게 소통하 는 ‘ 패밀리 커뮤니케이션 ’ , 음악 과 영상 을 즐기 는 ‘ 키친 엔터테인먼트 ’ , 사용자 편의성 을 높 여 주 는 ‘ 스마트 홈 ’ 등 으로 주방 을 단순히 식사 와 요리 만 의 공간 이 아닌 가족 생활 의 중심 이 되 는 공간 으로 만들 어 준다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스타벅스 는 ‘ 15 번 가 카페 ’ 를 오픈 하 면서 창문 에 ‘ 스타벅스 로부터 영감 을 얻 은 ( inspired by Starbucks ) ’ 이 라는 문구 를 써넣 었 다 .	ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O
+또 다른 추천서 『 괴짜 사회학 』 은 컬럼비아 대학 사회 학과 교수 수 디르 벤카테시 가 10 년 간 시카고 슬럼가 를 드나들 며 경험한 실상 을 토대 로 쓴 책 이 다 .	O O O O O O O O ORG-B ORG-I ORG-I ORG-I O PER-B PER-I PER-I O O O O LOC-B O O O O O O O O O O O O O O
+아마존 의 ' 에코 ' , 레노버 의 ' 스마트 어시스턴트 ' , LG 전자 의 ' 허브 로봇 ' , 바이두 의 ' 리틀 피쉬 ' 등 이 그 예 죠 . 인공 지능 제품 개발 의 세 가지 요소 이렇 게 인공 지능 기술 이 빠른 속도 로 확산된 배경 에 는 인공 지능 을 구성하 는 세 가지 기술 의 발전 이 있 습니다 .	ORG-B O O O O O ORG-B O O O O O O ORG-B ORG-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 자 백종원 은 웃 으며 “ 팔 지 않 는다 .	O O PER-B O O O O O O O O O
+서울 에서 지역 아동 센터 를 운영하 는 이 모 씨 ( 53 ) 는 “ 지역 아동 센터 의 통학 차량 대부분 은 센터 를 운영하 는 복지 시설 이나 종교 기관 의 차량 을 그대로 사용하 는 경우 가 많 다 ” 고 말 했 다 .	LOC-B O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+메르스 확산 조짐 이 나타난 이달 첫 주말 경기 전 을 찾 은 관광객 은 5044 명 으로 지난해 같 은 기간 2 만 4963 명 의 20 % 선 에 그 쳤 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 브로커 이 씨 가 접촉한 정 대표 의 항소심 첫 재판장 인 L 부장 판사 는 이날 법원 에 사의 를 표명 했 다 .	O O PER-B O O O PER-B O O O O O O PER-B O O O O O O O O O O O O
+이 가운데 이반 분양 물량 은 336 가구 다 .	O O O O O O O O O O
+키신저 는 하나 의 중국 으로 미국 이 얻 은 것 도 많 지만 이제 미국 을 위협할 정도 로 커진 중국 을 포위할 때 가 됐 다는 판단 을 했 을 것 이 다 .	PER-B O O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O
+” ‘ 국민 타자 ’ 이승엽 ( 41 · 삼성 ) 이 팬 들 과 맺 은 마지막 약속 을 지키 기 위해 고이 묵혀 두 었 던 1 루수 미트 를 다시 꺼내 들 었 다 .	O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O

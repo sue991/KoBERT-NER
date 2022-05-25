@@ -1,13 +1,13 @@
-》국제해사기구(IMO)는 2004년 해양 생태계 보호를 위하+여선 박평형수 관리협약을 채택하였다 .	ORG-B O O O O O O O O O
-또한 개인 ㆍ교육 등 '노동공급' 측면에서 +ㄴ 학교의 취업지원 강화(24.6%)를 첫 손가락에 꼽았다 .	O O O O O O O O O O O O O O
-게다가 류현진의 체인지업은 공끝이 소위 말하는지저분하+ㄴ 타입도 아니+ㅂ니다 .	O PER-B O O O O O O O
-체인지업구위만으로 상대 타자를 요리 하+ㄹ 수 있는 유형이 아니+ㄴ 것+이죠. 그래서 류현진은 체인지업과 빠르+ㄴ 공사이에 속도 차이가 중요하+ㅂ니다 .	O O O O O O O O O O O PER-B O O O O O O O
-김 감독은 함께 고심하며 좀 더 시간을 갖자고 +였지만, 1차적으로는 선수의 판단을 존중하기로 +였다 .	PER-B O O O O O O O O O O O O O O
-러일전쟁 이후 상황 급반전 1년 뒤에는 러시아 공사관과 인접 하+ㄴ경운궁(지금의 덕수궁)으로 거처를 옮기고 대한제국을 선포하였다(1897년).탁지부 고문으로 임명되+ㄴ 러시아의 알렉세예프는 일본의 흔적들을 하나씩 지우기 시작하였다 .	O O O O O O ORG-B LOC-I O LOC-B LOC-B O O ORG-B ORG-B O O ORG-B O ORG-B O O O O O
-이런 플랫폼에 양질의 콘텐트를 공급하+여주+ㄹ 1인 크리에이터(창작자)와 MCN(멀티 채널 네트웍스) 사업자들을 위하 +ㄴ 새롭ㄴ 수익 모델도 속속 등장하는 추세+이다 .	O O O O O O O O O O O O O O O O O O O O
-박영수 특별조사팀은 이날 오후 6시 15분께 뇌물공여 등의 혐의로 이 부회장에 대하+여 구속영장을 청구하였다고 발표하였다 .	PER-B O O O O O O O O O O O O O O O
-교총 “건국절 사관담기+ㄴ국정 역사교과서 반대”… 결의문 발 .	ORG-B O O O O O O O
-홍수영 gaea@d onga. com·장관석기 .	PER-B O O PER-B O
-폴크스바겐그룹은 배기가스 저감장치 조작 파문으로 최대 위기를 맞았지만, 오히려 국내 판매가 증가하는 기현상을 보이기도 +였다 .	ORG-B O O O O O O O O O O O O O O O
-9일 중국 국가통계국은 지난해 소비자물가지수(CPI)가 전년 대비 1.4% 오르는데 그치+어 6년 만에 가장 낮았다고 밝히었다 .	O ORG-B O O O O O O O O O O O O O O
-슈어드의 보좌는 탁월하였다 .	PER-B O O O
+》 국제해사기구 ( IMO ) 는 2004 년 해양 생태계 보호 를 위해 선박 평형 수 관리 협약 을 채택 했 다 .	O ORG-B O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O
+또한 개인 ㆍ 교육 등 ' 노동 공급 ' 측면 에선 학교 의 취업 지원 강화 ( 24.6 % ) 를 첫 손가락 에 꼽 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+게다가 류현진 의 체인지업 은 공 끝 이 소위 말하 는 지저분한 타입 도 아닙니다 .	O PER-B O O O O O O O O O O O O O O
+체인지업 구위 만 으로 상대 타자 를 요리할 수 있 는 유형 이 아닌 거 죠 . 그래서 류현진 은 체인지업 과 빠른 공 사이 에 속도 차이 가 중요합니다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+김 감독 은 함께 고심하 며 좀 더 시간 을 갖 자고 했 지만 , 1 차 적 으로 는 선수 의 판단 을 존중하 기 로 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+러일 전쟁 이후 상황 급 반전 1 년 뒤 에 는 러시아 공사관 과 인접한 경운궁 ( 지금 의 덕수궁 ) 으로 거처 를 옮기 고 대한 제국 을 선포 했 다 ( 1897 년 ) . 탁지부 고문 으로 임명된 러시아 의 알렉세예프 는 일본 의 흔적 들 을 하나 씩 지우 기 시작 했 다 .	O O O O O O O O O O O LOC-B LOC-I O O LOC-B O O O LOC-B O O O O O O ORG-B ORG-I O O O O O DAT-B DAT-I O O ORG-B O O O ORG-B O O O ORG-B O O O O O O O O O O O O
+이런 플랫폼 에 양질 의 콘텐트 를 공급해 줄 1 인 크리에이터 ( 창작자 ) 와 MCN ( 멀티채널 네트 웍스 ) 사업자 들 을 위한 새로 운 수익 모델 도 속속 등장하 는 추세 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박영수 특별 조사 팀 은 이날 오후 6 시 15 분 께 뇌물 공여 등 의 혐의 로 이 부회장 에 대해 구속 영장 을 청구 했 다고 발표 했 다 .	PER-B O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O
+교총 “ 건국 절 사관 담긴 국정 역사 교과서 반대 ” … 결의문 발표	ORG-B O O O O O O O O O O O O O
+홍수영 gaea @ donga . com · 장관 석 기자	PER-B O O O O O O PER-B PER-I O
+폴크스바겐 그룹 은 배기가스 저감 장치 조작 파문 으로 최대 위기 를 맞 았 지만 , 오히려 국내 판매 가 증가하 는 기현상 을 보이 기 도 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9 일 중국 국가 통계 국 은 지난해 소비자 물가 지수 ( CPI ) 가 전년 대비 1.4 % 오르 는 데 그쳐 6 년 만 에 가장 낮 았 다 고 밝 혔 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+슈어드 의 보좌 는 탁월 했 다 .	PER-B O O O O O O O

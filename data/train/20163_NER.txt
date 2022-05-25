@@ -1,17 +1,17 @@
-파예즈 사라즈 리비아 총리는 “군이 시르테에 들어서 +었다 .	PER-B PER-I ORG-B O O LOC-B O O O
-경기 종료 1분 40초를 남기고 벤치로 들어가 +아휴식을 취하+ㄴ그는 오리온이 100-85로 승리를 확정짓은 뒤 코트로 나가 .	O O O O O O O O O ORG-B O O O O O O O
-[사진] 이연희, 주변 환하게 하는 미소 눈 .	O PER-B O O O O O O
-‘61년 늦은 입학’ 61년 늦은 입학을 하게 되+ㄴ 할머니의 사연이 네티즌들에게 잔잔하+ㄴ울림을 주고 있다 .	O O O O O O O O O O O O O O O
-이들은 차량 폭탄을 이용하+여정 문을 부수고 호텔에 진입하+ㄴ 뒤로비에서 총격전을 벌이어 경비원을 최소 3명 사살하였으며 여러 명을 인질로 잡았다고 현지 보안 소식통은 전하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-안산공장은 이로써 윤전기 5세트를 보유 하+여국내 최대 규모의 신문인쇄공장이 되었다 .	LOC-B O O O O O O O O O O
-제일건설이 5월 분양 하+ㄴ 제일풍경채 2차는 순위 내 청약에서 평균 2.7대 1, 최고 102대 1의 경쟁률을 기록하였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O
-중국 베트남 캐나다 등 해외 안내센터 10곳은 대구의료관광을 알리는 전진기지 역할을 하+ㄴ다 .	LOC-B LOC-B LOC-B O O O O LOC-B O O O O O
-"군밤들 시+ㄹ+이래 유?" 더블에스301 허영생, 군밤 장수로 변 .	O O O ORG-B PER-B O O O O
-그룹의 비리 수사와 국정농단 사태 연루 의혹 등 끝없는 안개 속을 걷고 있는 롯데그룹은 생존을 위하 +ㄴ 지배구조 개선과 질적 성장 등의 변화를 꾀 하+ㄹ 방침이다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
-시진핑 중국 주석은 사드 배치가 확정되기 전부터 “한반도 사드 배치를 반대하+ㄴ다”는 입장을 박근혜 대통령에게 직간접적으로 여러 차례 전달하였다 .	PER-B ORG-B O O O O O LOC-B O O O O PER-B O O O O O O
-그렇 +ㅁ에도 박근혜 정부가 사드 배치를 밀어붙이자 중국 정부는 이를 중국에 대하+ㄴ배신으로 받아들이었다 .	O O ORG-B ORG-I O O O ORG-B ORG-I O ORG-B O O O
-SF전 5회-7회 연타석 대포 폭발… 첫 멀티 홈런에 100안타도 채우 .	O O O O O O O O O O O
-관세청은 자동차와 TV의 부분품(원형 그대로 제품에 부착되는 것) 수출이 늘어나 +ㄴ 영향이 +었다고 분석하였다 .	ORG-B O O O O O O O O O O O O O O
-관람 시간은 오전 10시부터 오후 6시까지.02-780-0366●증권사, 소비자에 협의 수수료 산정 기준 알리+어야 증권사들은 앞으로 우수 고객에게 제공하는 협의 수수료의 산정 기준을 구체적으로 소비자에게 알리+어야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-DMC 페스티벌 MC 소녀시대 티파니·유리, 음중 이후 MC오랜만 .	O O O ORG-B PER-B ORG-B O O O
-[health&] 홍삼, 피부에도 좋네요 …기 미·주름·주근깨 개선 등 안티에이징 효 .	O O O O O O O O O O O
+파예즈 사 라즈 리비아 총리 는 “ 군 이 시르테 에 들어섰 다 .	PER-B PER-I PER-I ORG-B O O O O O LOC-B O O O O
+경기 종료 1 분 40 초 를 남기 고 벤치 로 들어가 휴식 을 취한 그 는 오리온 이 100 - 85 로 승리 를 확정 지 은 뒤 코트 로 나가 다	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+[ 사진 ] 이연희 , 주변 환하 게 하 는 미소 눈길	O O O PER-B O O O O O O O O
+‘ 61 년 늦 은 입학 ’ 61 년 늦 은 입학 을 하 게 된 할머니 의 사연 이 네티즌 들 에게 잔잔한 울림 을 주 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 들 은 차량 폭탄 을 이용해 정문 을 부수 고 호텔 에 진입한 뒤 로비 에서 총격전 을 벌 여 경비원 을 최소 3 명 사살 했 으며 여러 명 을 인질 로 잡 았 다고 현지 보안 소식통 은 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+안산 공장 은 이 로써 윤전기 5 세트 를 보유해 국내 최대 규모 의 신문 인쇄 공장 이 되 었 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O
+제일 건설 이 5 월 분양한 제 일 풍경 채 2 차 는 순위 내 청약 에서 평균 2.7 대 1 , 최고 102 대 1 의 경쟁률 을 기록 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 베트남 캐나다 등 해외 안내 센터 10 곳 은 대구 의료 관광 을 알리 는 전진 기지 역할 을 한다 .	LOC-B LOC-B LOC-B O O O O O O O LOC-B O O O O O O O O O O O
+" 군밤 드 실 래유 ? " 더블 에스 301 허영생 , 군밤 장수 로 변신	O O O O O O O ORG-B ORG-I ORG-I PER-B O O O O O
+그룹 의 비리 수사 와 국정 농단 사태 연루 의혹 등 끝없 는 안개 속 을 걷 고 있 는 롯데그룹 은 생존 을 위한 지배 구조 개선 과 질적 성장 등 의 변화 를 꾀할 방침 이 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+시진핑 중국 주석 은 사드 배치 가 확정되 기 전 부터 “ 한반도 사드 배치 를 반대한다 ” 는 입장 을 박근혜 대통령 에게 직간접 적 으로 여러 차례 전달 했 다 .	PER-B ORG-B O O O O O O O O O O LOC-B O O O O O O O O PER-B O O O O O O O O O O O
+그럼에도 박근혜 정부 가 사드 배치 를 밀어붙이 자 중국 정부 는 이 를 중국 에 대한 배신 으로 받아들 였 다 .	O ORG-B ORG-I O O O O O O ORG-B ORG-I O O O ORG-B O O O O O O O O
+SF 전 5 회 - 7 회 연 타석 대포 폭발 … 첫 멀티 홈런 에 100 안타 도 채 워	O O O O O O O O O O O O O O O O O O O O O
+관세청 은 자동차 와 TV 의 부분품 ( 원형 그대로 제품 에 부착되 는 것 ) 수출 이 늘어난 영향 이 컸 다고 분석 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+관람 시간 은 오전 10 시 부터 오후 6 시 까지 . 02 - 780 - 0366 ● 증권사 , 소비자 에 협의 수수료 산정 기준 알려야 증권사 들 은 앞 으로 우수 고객 에게 제공하 는 협의 수수료 의 산정 기준 을 구체적 으로 소비자 에게 알려야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+DMC 페스티벌 MC 소녀 시대 티파니 · 유리 , 음중 이후 MC 오랜만 …	O O O ORG-B ORG-I PER-B O PER-B O ORG-B O O O O
+[ health & ] 홍삼 , 피부 에 도 좋 네요 … 기미 · 주름 · 주근깨 개선 등 안티에이징 효과	O O O O O O O O O O O O O O O O O O O O O

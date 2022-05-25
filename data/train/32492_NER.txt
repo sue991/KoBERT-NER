@@ -1,8 +1,8 @@
-IMF는 유럽연합(EU)·유럽중앙은행(ECB)과 함께 흔히 트로이카로 불리는 그리스 국제 채권단의 일원이다 .	ORG-B ORG-B O O O O ORG-B ORG-I ORG-I O O
-이러하+ㄴ 만족도를 바탕으로 마이컴소프트는 MBN 방송의 스마트 기술 자문을 비롯하+여 다양하+ㄴ대외 수상을 통하+여 인정받았다 .	O O O ORG-B O O O O O O O O O O O
-보류 선수 명단에서 제외“윤성환·안지만 다년계약+였다 .	O O O PER-B O O
-이 대표는 내년 2, 3월의 조기 전당대회 여부에 대하+여서는 언급을 피하였다 .	PER-B O O O O O O O O O O O
-기상청 고위 관계자는 “뿌리 깊은 파벌 간 갈등을 비롯하+ 여기 상청 내부에 쌓이어 있는 문제들을 하루아침에 해결하기는 쉽지 않다”고 전하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-경찰 “강남 화장실 살인, 정신질환자의 묻지 말+아범죄 결론 .	O LOC-B O O O O O O O
-충북 청주 흥덕경찰서는 나+ㄴ 농가에 들어가 +아수십억원 어치의 난을 훔치 +ㄴ 혐의(특수절도)로 17일 황 모씨(45)를 구속하였다 .	ORG-B ORG-I ORG-I O O O MNY-B O O O O O O O O O O
-다현은 3학년에 재학 중이고 채영은 2016년 신입생으로 선발되+어쯔위와 함께 1학년으로 등교하게 되+ㄴ다 .	PER-B O O O O O O PER-B O O O O O
+IMF 는 유럽연합 ( EU ) · 유럽중앙은행 ( ECB ) 과 함께 흔히 트로이카 로 불리 는 그리스 국제 채권 단 의 일원 이 다 .	ORG-B O ORG-B O ORG-B O O ORG-B O ORG-B O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O
+이러한 만족도 를 바탕 으로 마이컴 소프트 는 MBN 방송 의 스마트 기술 자문 을 비롯해 다양한 대외 수상 을 통해 인정받 았 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+보류 선수 명단 에서 제외 “ 윤성환 · 안지만 다년 계약 했 다 ”	O O O O O O PER-B O PER-B O O O O O
+이 대표 는 내년 2 , 3 월 의 조기 전당대회 여부 에 대해서 는 언급 을 피 했 다 .	PER-B O O O DAT-B O DAT-B DAT-I O O O O O O O O O O O O O
+기상청 고위 관계자 는 “ 뿌리 깊 은 파벌 간 갈등 을 비롯해 기상청 내부 에 쌓 여 있 는 문제 들 을 하루아침 에 해결하 기 는 쉽 지 않 다 ” 고 전 했 다 .	ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 “ 강남 화장실 살인 , 정신 질환 자 의 묻 지 마 범죄 결론 ”	O O LOC-B O O O O O O O O O O O O O
+충북 청주 흥덕 경찰서 는 난 농가 에 들어가 수십 억 원 어치 의 난 을 훔친 혐의 ( 특수 절도 ) 로 17 일 황모 씨 ( 45 ) 를 구속 했 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O DAT-B DAT-I PER-B O O O O O O O O O
+다현 은 3 학년 에 재학 중 이 고 채영은 2016 년 신입생 으로 선발돼 쯔 위 와 함께 1 학년 으로 등교하 게 된다 .	PER-B O O O O O O O O O DAT-B DAT-I O O O PER-B PER-I O O O O O O O O O

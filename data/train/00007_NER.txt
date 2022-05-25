@@ -1,12 +1,12 @@
-예컨데 유대치는 이동인의 소개를 받아 직접 오촌 의 원산포교당으로 찾아가 +았다 .	O PER-B PER-B O O O LOC-B O LOC-B O O O
-시진핑(習近平) 중국 국가주석이 3일 전승절 70주년 열병식에서 병력을 230만명에서 30만명 감축하겠다고 선언하였으나 국방예산은 크게 늘어나 +ㄹ 것이라는 전망이 나오았다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O
-이 센터장은 침술치료에 있어 차세대 명의로 꼽히+ㄴ다 .	PER-B O O O O O O O
-‘해피투게더’ 타이거 JK “아버지, 나보다 윤 미래 먼저 +았다” …사연 듣어보니 .	O PER-B PER-I O O O O O O O O O
-위경련·인두염 앓는 朴 대통령 “오늘 공식 일정은 없다 .	O O PER-B O O O O O O
-이에 MC들은 “샤이니가 딱 붙는 무대의상을 많이 입던데 오늘도 바지가 딱 맞는 것 같다”라고 말하였다 .	O O ORG-B O O O O O O O O O O O O O
-평소 물을 적게 마시는 최씨 +이었지만 하루에 물 2L를 마시면서 짜+ㄴ 음식과 고단백 식품을 피하는 식단을 실천하였다 .	O O O O PER-B O O O O O O O O O O O O O
-요추1번과 흉추 12번이 곪아터지었다 .	O O O O O
-이후 냉장고에서 땅콩잼이 발견되자, 제시는 "땅콩잼을 숟가락으로 퍼먹는다 .	O O O O PER-B O O O O
-‘녹아’(Melting) ‘ICaughtYa’ ‘Stuck’ 총 6곡이 수록되었다 .	O O O O O O O
-한국 요식업의 발전이 여기에 달리 +어 있다 .	LOC-B O O O O O O O
-※필자(44)는 싱가포르 요리학교 샤텍유학 뒤 그 곳리츠칼턴 호텔에서 일하였다 .	O LOC-B O ORG-B O O ORG-B ORG-I O O
+예컨대 유대치 는 이동인 의 소개 를 받 아 직접 오촌 의 원산 포교당 으로 찾아갔 다 .	O PER-B O PER-B O O O O O O LOC-B O LOC-B LOC-I O O O O
+시진핑 ( 習近平 ) 중국 국가주석 이 3 일 전승 절 70 주년 열병식 에서 병력 을 230 만 명 에서 30 만 명 감축하 겠 다고 선언 했 으나 국방 예산 은 크 게 늘어날 것 이 라는 전망 이 나 왔 다 .	PER-B O PER-B O ORG-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 센터 장 은 침술 치료 에 있 어 차세대 명의 로 꼽힌다 .	PER-B O O O O O O O O O O O O O
+‘ 해피투게더 ’ 타이거 JK “ 아버지 , 나 보다 윤미래 먼저 봤 다 ” … 사연 들 어 보 니 ?	O O O PER-B PER-I O O O O O PER-B O O O O O O O O O O O
+위경련 · 인두염 앓 는 朴 대통령 “ 오늘 공식 일정 은 없 다 ”	O O O O O PER-B O O O O O O O O O
+이 에 MC 들 은 “ 샤이니 가 딱 붙 는 무대 의상 을 많이 입 던데 오늘 도 바지 가 딱 맞 는 것 같 다 ” 라고 말 했 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+평소 물 을 적 게 마시 는 최 씨 였 지만 하루 에 물 2 L 를 마시 면서 짠 음식 과 고 단백 식품 을 피하 는 식단 을 실천 했 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+요추 1 번 과 흉추 12 번 이 곪 아 터 졌 다 .	O O O O O O O O O O O O O O
+이후 냉장고 에서 땅콩 잼 이 발견되 자 , 제시 는 " 땅콩 잼 을 숟가락 으로 퍼먹 는다 .	O O O O O O O O O PER-B O O O O O O O O O O
+‘ 녹 아 ’ ( Melting ) ‘ I Caught Ya ’ ‘ Stuck ’ 총 6 곡 이 수록 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+한국 요식업 의 발전 이 여기 에 달려 있 다 .	LOC-B O O O O O O O O O O
+※ 필자 ( 44 ) 는 싱가포르 요리 학교 샤 텍 유학 뒤 그곳 리츠 칼 턴 호텔 에서 일 했 다 .	O O O O O O LOC-B O O ORG-B ORG-I O O O ORG-B ORG-I ORG-I ORG-I O O O O O

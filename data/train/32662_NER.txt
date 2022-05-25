@@ -1,13 +1,13 @@
-[오늘의 데이터 뉴스]대포통장 명의자 20대가 가장 많군 .	O O O O O O O O
-당초 시장의 기대치+이었던 5000만대에도 못 미치었다 .	O O O O O O O
-최 감독 4골·서 감독 3골 예고올 시즌 첫 슈퍼매치부터 후끈 수원 삼성과 FC서울이 올 시즌 첫 ‘슈퍼매치’에서 화력 대결을 선언하였다 .	PER-B O PER-B O O O O O O O ORG-B ORG-I ORG-B O O O PER-B O O O O
-차유람이 지성, 결혼식 7개월 전에 혼인신고… “축복 하+여주시기+ㄹ바라+ㄴ다”당구선수 차유람이 ‘속도 위반’ 논란에 공식 입장을 밝히었다 .	PER-B O O O O O O O PER-B O O O O O O O
-21일 차유람의 소속사 루브이엔엠 측은 “전 하+여지+ㄴ 소식들의 사실 여부를 확인 하+ㄴ 결과, 차유람은 결혼식을 올리기 7개월 전 이+ㄴ 2014년 11월 17일에 지금은 부부가 되+ㄴ이지성 작가와 이미 관할 구청에 찾아가 +아혼인신고를 마치었다”고 밝히었다 .	O PER-B O ORG-B O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O
-이어 “당시 사정상 결혼식을 올리+ㄹ 여건이 되지 않아 양가합의 하에 먼저 서류상으로나마 법적 부부가 되었고 지나 +ㄴ 6월 결혼식을 올리었다”고 덧붙이었다 .	O O O O O O O O O O O O O O O O O O O O O O
-소속사 측은 또 “차 유람의 출산 예정일은 연내일 것으로 예상 하+ㄴ다”며 “확실하지 않지만 딸이라고 하+ㄴ다 .	O O O PER-B PER-I O O O O O O O O O O O
-H&M그룹 측은 국내 젊은 신진예술가들과 함께 공간을 꾸리+ㄹ 계획이다 .	ORG-B O O O O O O O O O
-2사 후 9번 타자란 돌프오 뒤벌의 좌전 안타 후 시몬스가 우중간적 시 2 루타로 2-1로 앞서 +어나가았다 .	O PER-B O O O O O O PER-B PER-I O O O O O O O O
-4회초에는 7번 커트 스미스와 8번 숀자라 하의 연속 볼넷과 오뒤 벌의 투수 앞번트 안타로 무사만루의 찬스를 잡은 뒤 1사 후 프로파르의 밀어내기 볼넷이 나오면서 3-1로 달아나 +았다 .	O O PER-B PER-I O PER-B PER-I O O PER-B O O O O O O O O O O PER-B O O PER-B O O O O
-이병헌 ♥ 이민정 오늘득 남…"새 생명 탄생 축복 하+여주시기+ㄹ .	PER-B O PER-B O O O O O O O
-90만원에 대학 선배 석사 논문 대필하+여주+ㄴ 현직 교 .	MNY-B O O O O O O O O
-미 주류 언론들은 이런 발언이 자신의 정치적 지위를 사업 마케팅 수단으로 여기고 있는 멜라니아의 속내를 드러내 +ㄴ 것이라고 해석하였다 .	LOC-B O O O O O O O O O O O O PER-B O O O O O O
+[ 오늘 의 데이터 뉴스 ] 대포 통장 명의자 20 대 가 가장 많 군 요	O O O O O O O O O O O O O O O O
+당초 시장 의 기대치 였 던 5000 만 대 에 도 못 미 쳤 다 .	O O O O O O O O O O O O O O O O
+최 감독 4 골 · 서 감독 3 골 예고 올 시즌 첫 슈퍼 매치 부터 후끈 수원 삼성 과 FC 서울 이 올 시즌 첫 ‘ 슈퍼 매치 ’ 에서 화력 대결 을 선언 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O
+차 유람 이지성 , 결혼식 7 개월 전 에 혼인 신고 … “ 축복해 주 시 길 바란다 ” 당구 선수 차 유람 이 ‘ 속도위반 ’ 논란 에 공식 입장 을 밝 혔 다 .	PER-B PER-I PER-B O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
+21 일 차 유람 의 소속 사 루브 이엔엠 측 은 “ 전해 진 소식 들 의 사실 여부 를 확인한 결과 , 차유람 은 결혼식 을 올리 기 7 개월 전 인 2014 년 11 월 17 일 에 지금 은 부부 가 된 이지성 작가 와 이미 관할 구청 에 찾아가 혼인신고 를 마 쳤 다 ” 고 밝 혔 다 .	DAT-B DAT-I PER-B PER-I O O O ORG-B ORG-I O O O O O O O O O O O O O O PER-B O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+이어 “ 당시 사정 상 결혼식 을 올릴 여건 이 되 지 않 아 양가 합의 하 에 먼저 서류 상 으로 나마 법적 부부 가 되 었 고 지난 6 월 결혼식 을 올 렸 다 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+소속 사 측 은 또 “ 차 유람 의 출산 예정일 은 연내 일 것 으로 예상한다 ” 며 “ 확실 치 않 지만 딸 이 라고 한다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O
+H & M 그룹 측 은 국내 젊 은 신진 예술가 들 과 함께 공간 을 꾸릴 계획 이 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O
+2 사후 9 번 타자 란돌프 오 뒤벌 의 좌전 안타 후 시몬스 가 우중간 적시 2 루 타 로 2 - 1 로 앞서 나 갔 다 .	O O O O O PER-B PER-I PER-I O O O PER-B PER-I O O O O O O O O O O O O O O O O
+4 회 초 에 는 7 번 커트 스미스 와 8 번 숀 자라 하 의 연속 볼넷 과 오 뒤벌 의 투수 앞 번트 안타 로 무사 만루 의 찬스 를 잡 은 뒤 1 사 후 프로 파르 의 밀어내 기 볼넷 이 나오 면서 3 - 1 로 달아났 다 .	O O O O O O O PER-B PER-I O O O PER-B PER-I PER-I O O O O PER-B PER-I O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O
+이병헌 ♥ 이민정 오늘 득남 … " 새 생명 탄생 축복해 주 시 길 "	PER-B O PER-B O O O O O O O O O O O O
+90 만 원 에 대학 선배 석사 논문 대필해 준 현직 교수	MNY-B MNY-I MNY-I O O O O O O O O O
+미 주류 언론 들 은 이런 발언 이 자신 의 정치적 지위 를 사업 마케팅 수단 으로 여기 고 있 는 멜라니 아 의 속내 를 드러낸 것 이 라고 해석 했 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O

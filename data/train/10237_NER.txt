@@ -1,14 +1,14 @@
-말레이시아 경찰도 공항 CCTV에 찍히+ㄴ 여성들을 용의자로 보고 쫓고 있다 .	LOC-B O O O O O O O O O O
-출루율과 장타율을 더 하+ㄴ OPS는 특급타자의 영역이+ㄴ 1.000을 넘어서 +ㄴ 1.059다 .	O O O O O O O O O O O O
-6월 한 경기에서 3개의 실책을 범하며 수비 불안을 노출하+ㄴ적이 있지만, 가+ㄹ수록 안정적 이+ㄴ 모습을 보이어주고 있다 .	O O O O O O O O O O O O O O O O O
-세션스 장관은 이날 기자회견에서 "현존하는, 그리고 향후 진행되+ㄹ 트럼프 대통령의 대선 캠페인 관련 수사에서 자진 기피하기로 결정하였다"며 이같이 밝히었다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O
-[경제브리핑] 한국지엠 ‘더 넥스트 스파크’ 출 .	O ORG-B O O O O O
-융커는 이날 유럽의회에 출석하+여 “EU는 멈추지 말고 앞으로 나아가 +아야 하+ㄴ다”면서도 “이제는 유럽이 하+ㄹ 수 있는 것과 하+ㄹ 수 없는 것을 명확하게 하+ 여야 하+ㄹ 때이며 어떤 때는 덜하는 것+이 더 많이 하는 결과를 낳는다”며 속도조절에 방점을 찍었다 .	PER-B O ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-“처음 부르어 보+ㄴ 한국 전통 노래가 정말 좋았어요 .	O O O LOC-B O O O O O
-세르펜티 컬렉션에서 선보이는 투보가 스워치는 브랜드의 마스터피스로서 복잡하+ㄴ수작업을 통하+여 제작되는 독자적 이+ㄴ 제품이다 .	O O O O O O O O O O O O O O
-불가리 브랜드에서 세르펜티는 이탈리아 장인의 창의적이고 뛰어나 +ㄴ 작품 세계를 잘 보이어주고 있다 .	ORG-B O O ORG-B O O O O O O O O O O
-3차 감염 계속되+ㄹ까? 전문가들은 16번 환자와 접촉 하+ㄴ 3차 감염자가 더 나오+ㄹ 가능성이 있다고 지적하였다 .	O O O O O O O O O O O O O O O O
-사상 첫 피겨스케이팅 전 종목 출전(남녀 싱글, 페어, 아이스댄스)을 노리는 피겨 대표팀은 알렉산더 개 믈린(아이스댄스)과 테미스토클레스 레프테리스(페어·이상 미국)의 귀화를 추진하고 있다 .	O O O O O O O O O O O O PER-B O O PER-B PER-I ORG-B O O O O
-착한운전 화물차에 최고 50만원 주유 .	O O O MNY-B O O
-사업 대상지는 평균 전용면적 230.8m ², 총 39필지로 분할하며, 주택평형은 115m ² 평형이 기본이다 .	O O O O O O O O O O O O O O O
-내년 4월 13일 치르어지는 20대 총선 출마에 뜻이 있는 국회의원 출신 장관들은 12월 정도가 되면 사실상 업무에서 손을 떼고 선거운동에 나서 +ㄹ 수밖에 없다는 지적이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+말레이시아 경찰 도 공항 CCTV 에 찍힌 여성 들 을 용의자 로 보 고 쫓 고 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O
+출루 율 과 장타율 을 더한 OPS 는 특급 타자 의 영역 인 1.000 을 넘어선 1.059 다 .	O O O O O O O O O O O O O O O O O O O
+6 월 한 경기 에서 3 개 의 실책 을 범하 며 수비 불안 을 노출한 적 이 있 지만 , 갈수록 안정적 인 모습 을 보 여 주 고 있 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세션스 장관 은 이날 기자 회견 에서 " 현존하 는 , 그리고 향후 진행될 트럼프 대통령 의 대선 캠페인 관련 수사 에서 자진 기피하 기 로 결정 했 다 " 며 이같이 밝 혔 다 .	PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+[ 경제 브리핑 ] 한국 지엠 ‘ 더 넥스트 스파크 ’ 출시	O O O O ORG-B ORG-I O O O O O O
+융커 는 이날 유럽 의회 에 출석해 “ EU 는 멈추 지 말 고 앞 으로 나아가야 한다 ” 면서 도 “ 이제 는 유럽 이 할 수 있 는 것 과 할 수 없 는 것 을 명확하 게 해야 할 때 이 며 어떤 때 는 덜 하 는 게 더 많이 하 는 결과 를 낳 는다 ” 며 속도 조절 에 방점 을 찍 었 다 .	PER-B O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 처음 불 러 본 한국 전통 노래 가 정말 좋 았 어요 .	O O O O O LOC-B O O O O O O O O
+세르 펜티 컬렉션 에서 선보이 는 투보 가스 워치 는 브랜드 의 마스터피스 로서 복잡한 수작업 을 통해 제작되 는 독자적 인 제품 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+불가리 브랜드 에서 세르 펜티 는 이탈리아 장인 의 창의적 이 고 뛰어난 작품 세계 를 잘 보 여 주 고 있 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O
+3 차 감염 계속될까 ? 전문가 들 은 16 번 환자 와 접촉한 3 차 감염자 가 더 나올 가능성 이 있 다고 지적 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사상 첫 피겨 스케이팅 전 종목 출전 ( 남녀 싱글 , 페어 , 아이스 댄스 ) 을 노리 는 피겨 대표 팀 은 알렉산더 개믈린 ( 아이스 댄스 ) 과 테미스토클레스 레프 테 리스 ( 페어 · 이상 미국 ) 의 귀화 를 추진하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O PER-B PER-I PER-I PER-I O O O O ORG-B O O O O O O O O O
+착한 운전 화물차 에 최고 50 만 원 주유권	O O O O O MNY-B MNY-I MNY-I O
+사업 대상 지 는 평균 전용면적 230.8 m ² , 총 39 필지 로 분할하 며 , 주택 평형 은 115 m ² 평 형 이 기본 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내년 4 월 13 일 치 러 지 는 20 대 총선 출마 에 뜻 이 있 는 국회 의원 출신 장관 들 은 12 월 정도 가 되 면 사실상 업무 에서 손 을 떼 고 선거운동 에 나설 수 밖에 없 다는 지적 이 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O

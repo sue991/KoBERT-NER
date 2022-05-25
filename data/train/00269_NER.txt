@@ -1,13 +1,13 @@
-그렇다면 여기서 승부끝?하지만 커제 9단에게도 노림수가 있었다 .	O O O PER-B O O O O
-안방을 지키는 버스터 포지부터 폴 골드 슈미트(1루수)~대니얼 머피(2루수)~브랜든 크로퍼드(유격수)~놀라+ㄴ아레나 도(3루수)로 이루어 지+ㄴ 내야진은 물새+ㄹ 틈이 없다 .	O O PER-B PER-I PER-B O PER-B PER-B PER-B PER-I O O O O O O O
-공사의 사회공헌은 ‘행복성장’ ‘행복나누+ㅁ’ ‘행복 가꾸+ㅁ’이라는 3개 분야에서 16개 과제로 나뉘어 있다 .	O O O O O O O O O O O O O
-자녀들에게 좋은 환경을 제공하기 위하+여이주 하+ㄴ부모 세대가 온갖 차별을 참아+오았으나, 2·3세들은 결국 국민의 일원으로 대우받기는커녕 사회적 소수자로 무시당하는 현실에 분노하면서 테러의 유혹에 빠지고 있다는 것이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-대출한도는 최대 5억원이며 임차보증금의 90%까지 빌리+ㄹ 수 있다 .	O O MNY-B O O O O O O
-82명이 살는 작은 섬마을이지만 전국에서 유일하+ㄴ 섬마을 미술관이 있다 .	O O O O O O O O O O
-대표팀 미드필더들과 공격수들 중에서 ‘쌍용’보다 풍부하+ㄴ국제경기 경험을 지니 +ㄴ 선수는 없다 .	O O O O ORG-B O O O O O O O
-이를 바탕으로 지난해 12월 뽀로로택시를 선보이었다 .	O O O O PER-B O O
-김민희가 주연을 맡고 홍상수 감독이 메가폰을 잡은 영화 ‘밤의 해변에서 혼자’는 16일에 처음으로 상영되 +ㄴ다 .	PER-B O O PER-B O O O O O O O O O O O O
-한국자메이카축구평가전, 지동원-기성용-황의 조로 이어 지+ㄴ 황금골라 .	ORG-B PER-B O O O O O
-2008년 베이징 올림픽 금메달과 2009년 월드베이스볼클래식(WBC) 준우승으로 프로야구의 인기가 급상승하던 때 +이었다 .	O O O O O O O O O O O O O
-또 모스크바도 미첩보위성이 북한에서 핵연료 폐기물을 플루토늄으로 재처리하는 시설을 발견하였다는 보도를 믿으려 하지 않았다 .	O ORG-B ORG-B ORG-B O O O O O O O O O O O
-심수창은 13일 부산 사직구장에서 열리+ㄴ 넥센과의 경기에서 그토록 기다리던 승리투수가 +었다 .	PER-B O LOC-B LOC-B O ORG-B O O O O O O
+그렇 다면 여기 서 승부 끝 ? 하지만 커 제 9 단 에게 도 노림수 가 있 었 다 .	O O O O O O O O PER-B PER-I O O O O O O O O O O
+안방 을 지키 는 버스터 포지 부터 폴 골드슈미트 ( 1 루수 ) ~ 대니얼 머피 ( 2 루수 ) ~ 브랜든 크로퍼드 ( 유격수 ) ~ 놀란 아레나 도 ( 3 루수 ) 로 이뤄진 내야 진 은 물 샐 틈 이 없 다 .	O O O O PER-B PER-I O PER-B PER-I O O O O O PER-B PER-I O O O O O PER-B PER-I O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O
+공사 의 사회 공헌 은 ‘ 행복 성장 ’ ‘ 행복 나눔 ’ ‘ 행복 가꿈 ’ 이 라는 3 개 분야 에서 16 개 과제 로 나뉘 어 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자녀 들 에게 좋 은 환경 을 제공하 기 위해 이주한 부모 세대 가 온갖 차별 을 참 아 왔 으나 , 2 · 3 세 들 은 결국 국민 의 일원 으로 대우 받 기 는커녕 사회적 소수자 로 무시 당하 는 현실 에 분노하 면서 테러 의 유혹 에 빠지 고 있 다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대출 한도 는 최대 5 억 원 이 며 임차 보증금 의 90 % 까지 빌릴 수 있 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+82 명 이 사 는 작 은 섬 마을 이 지만 전국 에서 유일한 섬 마을 미술관 이 있 다 .	O O O O O O O O O O O O O O O O O O O O O
+대표 팀 미드필더 들 과 공격수 들 중 에서 ‘ 쌍용 ’ 보다 풍부한 국제 경기 경험 을 지닌 선수 는 없 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+이 를 바탕 으로 지난해 12 월 뽀로로 택시 를 선보 였 다 .	O O O O O O O PER-B O O O O O O
+김민희 가 주연 을 맡 고 홍상수 감독 이 메가폰 을 잡 은 영화 ‘ 밤 의 해변 에서 혼자 ’ 는 16 일 에 처음 으로 상영된다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+한국 자메이카 축구 평가전 , 지동원 - 기성용 - 황의조 로 이어진 황금 골라인	ORG-B ORG-B O O O PER-B O PER-B O PER-B O O O O
+2008 년 베이징 올림픽 금메달 과 2009 년 월드 베이스볼 클래식 ( WBC ) 준우승 으로 프로 야구 의 인기 가 급상승하 던 때 였 다 .	DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+또 모스크바 도 미 첩보 위성 이 북한 에서 핵연료 폐기물 을 플루토늄 으로 재처리하 는 시설 을 발견 했 다는 보도 를 믿 으려 하 지 않 았 다 .	O ORG-B O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+심수창 은 13 일 부산 사직구장 에서 열린 넥센 과 의 경기 에서 그토록 기다리 던 승리 투수 가 됐 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B O O ORG-B O O O O O O O O O O O O O

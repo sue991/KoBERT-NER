@@ -1,13 +1,13 @@
-이렇게 어물 생산과 이용이 늘면서 조선에는 동빙고와 서빙고 같은 국영 얼음 저장 소 외에도 개인이 설치하+ㄴ 사 빙고가 크게 늘었다 .	O O O O O ORG-B LOC-B LOC-B O O O O O O O O O O O O O
-헌재는 5일 다시 변론기일을 열기로 +였으며, 2차 변론기일에도 대통령이 출석하지 않을 경우 헌재법 규정에 따르 아 대통령 없이 심리를 진행하+ㄹ 방침이다 .	O O O O O O O O O O O O O O O O O O O O O O
-이 변호사는 앞서 +어헌재가 박 대통령의 ‘세월호 7시간 행적’에 대하+여시간대별로 남김없이 밝히라고 요구 하+ㄴ 것에 대하+여“(2차 변론기일이 열리는) 5일 이전에 제출하기 위하+여 최대한 노력하고 있다”며 “마지막 기회+이라고 생각하+여철저하게 준비 중”이라고 밝히었다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그는 ‘세월호 7시간 행적’을 밝히는 데 시간이 걸리는 이유에 대하+여 “나중에 자세히 말씀을 드리겠다”며 말을 아끼었다 .	O O O O O O O O O O O O O O O O O
-박 대통령은 이달 1일 청와대에서 하+ㄴ 신년기자 간담회에서 세월호 7시간 행적 의혹과 관련, “저는 정상적으로 계속 보고받으면서 체크하고 있었다”고 부인하였다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O
-온라인 중앙일보 사진 필굿 뮤직 제 .	ORG-B ORG-I O O O O O
-머플러까지 바꾸면 역시 3~4마력쯤 더 올라가 +ㄴ다 .	O O O O O O O O
-스커드 1차 발사가 이루어 지+ㄴ 뒤 스커드 발사 차량과 한-미 연합 「스커드 사냥꾼 」의 숨바꼭질이 시작되+ㄴ다 .	O O O O O O O O O ORG-B O O O O O O O
-방한 추진회 위원장을 맡고 있는 금강스님(해남 미황사 주지)은 최근 간담회에서 그의 근황을 전하였습니다 .	ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O
-‘오열’ 유승준 방송사고… MIC 안꺼진 주+ㄹ모르고스태프들 대화 中욕설 “○○”?가 수 유승준(스티브 유)의 2차 인터넷 생방송에서 방송사고가 일어나 +았다 .	O PER-B O O O O O O O O PER-B PER-I O O O O O O O
-《올해 들어 격화되+ㄴ 복지재정 논쟁과 관련 하+여 박근혜 정부가 임기 내에 복지공약을 모두 수행하는데 얼마가 부족하+ㄴ 지 솔직히 공개하+여 .	O O O O O O O PER-B O O O O O O O O O O O O
-신 감독은 4-1대승에도 마냥 웃지 못하였다 .	PER-B O O O O O O
-푸틴 대통령이 회담 주도권을 쥐기 위 하+여 일부러 늦게 출국 하+ㄴ 것 아니냐는 얘기도 흘러나 오+ㄴ다 .	PER-B O O O O O O O O O O O O O O O O
+이렇 게 어물 생산 과 이용 이 늘 면서 조선 에 는 동빙고 와 서빙고 같 은 국영 얼음 저장소 외 에 도 개인 이 설치한 사 빙고 가 크 게 늘 었 다 .	O O O O O O O O O ORG-B O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O
+헌재 는 5 일 다시 변론 기일 을 열 기 로 했 으며 , 2 차 변론 기일 에 도 대통령 이 출석하 지 않 을 경우 헌재 법 규정 에 따 라 대통령 없이 심리 를 진행할 방침 이 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 변호사 는 앞서 헌재 가 박 대통령 의 ‘ 세월호 7 시간 행적 ’ 에 대해 시간대 별 로 남김없이 밝히 라고 요구한 것 에 대해 “ ( 2 차 변론 기일 이 열리 는 ) 5 일 이전 에 제출하 기 위해 최대한 노력하 고 있 다 ” 며 “ 마지막 기회 라고 생각해 철저하 게 준비 중 ” 이라고 밝 혔 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 ‘ 세월호 7 시간 행적 ’ 을 밝히 는 데 시간 이 걸리 는 이유 에 대해 “ 나중 에 자세히 말씀 을 드리 겠 다 ” 며 말 을 아 꼈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 대통령 은 이달 1 일 청와대 에서 한 신년 기자 간담회 에서 세월호 7 시간 행적 의혹 과 관련 , “ 저 는 정상적 으로 계속 보고 받 으면서 체크하 고 있 었 다 ” 고 부인 했 다 .	PER-B O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+온라인 중앙일보 사진 필굿뮤직 제공	ORG-B ORG-I O ORG-B O
+머플러 까지 바꾸 면 역시 3 ~ 4 마력 쯤 더 올라간다 .	O O O O O O O O O O O O O
+스커드 1 차 발사 가 이뤄진 뒤 스커드 발사 차량 과 한 - 미 연합 「 스커드 사냥군 」 의 숨바꼭질 이 시작된다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O
+방한 추진 회 위원장 을 맡 고 있 는 금강 스님 ( 해남 미황사 주 지 ) 은 최근 간담회 에서 그 의 근황 을 전 했 습니다 .	ORG-B ORG-I ORG-I O O O O O O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O O
+‘ 오열 ’ 유승준 방송 사고 … MIC 안 꺼 진줄 모르 고 스태프 들 대화 中 욕설 “ ○ ○ ” ? 가수 유승준 ( 스티브 유 ) 의 2 차 인터넷 생방송 에서 방송 사고 가 일어났 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O PER-B PER-I O O O O O O O O O O O O O
+《 올해 들 어 격화된 복지 재정 논쟁 과 관련해 박근혜 정부 가 임기 내 에 복지 공약 을 모두 수행하 는 데 얼마 가 부족한지 솔직히 공개해야	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+신 감독 은 4 - 1 대승 에 도 마냥 웃 지 못 했 다 .	PER-B O O O O O O O O O O O O O O O
+푸틴 대통령 이 회담 주도권 을 쥐 기 위해 일부러 늦 게 출국한 것 아니 냐는 얘기 도 흘러나온다 .	PER-B O O O O O O O O O O O O O O O O O O O

@@ -1,9 +1,9 @@
-에콰도르와 온두라스, 잠비아가 초청국으로 확정되었으며 상세 경기 일정과 장소는 추후 발표되+ㄴ다 .	ORG-B ORG-B ORG-B O O O O O O O O O
-2·18 안전문화재단과 대구대가 ‘대구 트라우마센터’를 설립하였다 .	O ORG-B LOC-B LOC-B LOC-I O O
-6·25 당시 헤어지+ㄴ 남편을 그리워하는 할머니의 이야기를 담은 ‘러브레따’의서은아 감독은 간담회에서 “통일을 귀찮게 생각하는 젊은 세대들에게 통일의 의미를 되새기게 하고 싶었다”고 말하였다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O
-이세영화는 ‘보고 싶다’+이라는 주제로 23일 국내 상업영화관 데뷔를 하+ㄴ다 .	O O O O O O O O O O
-아시아에서 크게 흥행하였지만, 정작 일본에서 +ㄴ 극장 개봉을 하지 않았습니다 .	LOC-B O O O LOC-B O O O O O O
-신형 K5 플러그인 하이브리드는 9.8kW h 대용량 배터리와 50kW 모터를 적용하+여EV(전기) 모드와 HEV(하이브리드) 모드로 주행이 가능하+ㄴ 친환경 차량이다 .	O O O O O O O O O O O O O O O O O O O
-다만 해당 서비스는 현대자동차는 치악휴게소, 기아자동차는 화성휴게소에 한 하+여실시되+ㄴ다 .	O O O ORG-B LOC-B ORG-B LOC-B O O O
-다만 두 야당은 추경안 처리가 늦춰 지+ㄹ 수는 있어도 무산되는 일은 없다는 분위기+이다 .	O O O O O O O O O O O O O O
-베이징 올림픽 개막식은 아낌없이 돈을 쏟아붓었다 .	O O O O O O O
+에콰도르 와 온두라스 , 잠비아 가 초청 국 으로 확정 됐 으며 상세 경기 일정 과 장소 는 추후 발표된다 .	ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O
+2 · 18 안전 문화 재단 과 대구대 가 ‘ 대구 트라우마 센터 ’ 를 설립 했 다 .	O O O ORG-B ORG-I ORG-I O ORG-B O O LOC-B LOC-I LOC-I O O O O O O
+6 · 25 당시 헤어진 남편 을 그리워하 는 할머니 의 이야기 를 담 은 ‘ 러브레따 ’ 의 서은아 감독 은 간담회 에서 “ 통일 을 귀찮 게 생각하 는 젊 은 세대 들 에게 통일 의 의미 를 되새기 게 하 고 싶 었 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 세 영화 는 ‘ 보 고 싶 다 ’ 라는 주제 로 23 일 국내 상업 영화관 데뷔 를 한다 .	O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+아시아 에서 크 게 흥행 했 지만 , 정작 일본 에선 극장 개봉 을 하 지 않 았 습니다 .	LOC-B O O O O O O O O LOC-B O O O O O O O O O O
+신형 K 5 플러그인 하이브리드 는 9.8 kWh 대용량 배터리 와 50 kW 모터 를 적용해 EV ( 전기 ) 모드와 HEV ( 하이브리드 ) 모드 로 주행 이 가능한 친환경 차량 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다만 해당 서비스 는 현대자동차 는 치악 휴게소 , 기아자동차 는 화성휴게소 에 한해 실시된다 .	O O O O ORG-B O LOC-B LOC-I O ORG-B O LOC-B O O O O
+다만 두 야당 은 추경 안 처리 가 늦춰질 수 는 있 어도 무산되 는 일 은 없 다는 분위기 다 .	O O O O O O O O O O O O O O O O O O O O O O
+베이징 올림픽 개막식 은 아낌없이 돈 을 쏟 아 부 었 다 .	O O O O O O O O O O O O O

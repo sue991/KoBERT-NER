@@ -1,11 +1,11 @@
-北 주요 기밀이나 군함·전투폭격기 몰고 한국오면 최대 10억주+ㄴ .	ORG-B O O O O LOC-B O MNY-B O
-국내 발전회사 중 최대 용량이자 한국전력 사용량의 약 11%의 전기를 생산하는 남동발전 역시 지난해 창사(2001년) 이래 최대 당기순이익(3832억원)을 내 +었다 .	O O O O O ORG-B O O O O O ORG-B O O O O O MNY-B O O O
-“진짜 사나이 여군 특집 2강 예원, 오늘부터 팬이다 .	O O O O O O O O O
-박근혜 대통령은 최종 인양 결정에 앞서 +어인양을 기정사실화 하+ㅁ으로써 전문가 집단의 중립적 결정을 불가능하게 만들었다 .	PER-B O O O O O O O O O O O O O O O
-수류탄은 서울도시철도 그린 환경(주)직원이 처음 발견 하+여역 직원에 통보하였고 역 직원이 112에 신고하였다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O
-고려대학교는 이전 헌법재판관을 법학전문대학원 석좌교수로 임명하+ㄴ다고 23일 밝히었다 .	ORG-B PER-B O O O O O O O
-건설부가 25일 발표 하+ㄴ「94년 1분기 지가 동향」에 따르면, 1분기 중 땅값 하락률 0.41%는 지난해 매 분기마다 평균 1.85%씩 떨어지던 것에 비하면 미미하+ㄴ 것으로, 특히 93년 4분기의 1.64% 하락에 비교하면 크게 둔화되+ㄴ셈이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-2위 수원은 수원월드컵 경기장에서 최하위 대전과 만나 +ㄴ다 .	O ORG-B ORG-B O O ORG-B O O O
-농림축산식품부는 그 해산란계를 시작으로 돼지(2013), 육계(2014), 소(2015), 오리(2016)로 인증 대상을 확대하였다 .	ORG-B O O O O O O O O O O O
-한국은 아이가 학교가 +ㄹ 때 걷든, 차를 타든 등 하교하는 방식을 학교에 보고 하+여야 하+ㄴ다는 생각 자체가 없으나 미국에서 이렇다가는 큰일 나+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O
-조 선 임금들을 비롯하+ㄴ 수많은 사람이 이 맛에 빠지+어 국가에서 은어를 잡기 위 하+여어전을 설치하거나 진상품으로 거두+어가기도 +였다 .	O O O O O O O O O O O O O O O O O O O
+北 주요 기밀 이나 군함 · 전투 폭격기 몰 고 한국 오 면 최대 10 억 준다	ORG-B O O O O O O O O O LOC-B O O O MNY-B MNY-I O
+국내 발전 회사 중 최대 용량 이 자 한국 전력 사용량 의 약 11 % 의 전기 를 생산하 는 남동 발전 역시 지난해 창사 ( 2001 년 ) 이래 최대 당기 순이익 ( 3832 억 원 ) 을 냈 다 .	O O O O O O O O ORG-B O O O O O O O O O O O ORG-B ORG-I O O O O DAT-B DAT-I O O O O O O MNY-B MNY-I MNY-I O O O O O
+“ 진짜 사나이 여군 특집 2 강예원 , 오늘 부터 팬 이 다 ”	O O O O O O PER-B O O O O O O O
+박근혜 대통령 은 최종 인양 결정 에 앞서 인양 을 기정사실화함 으로써 전문가 집단 의 중립적 결정 을 불가능하 게 만들 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+수류탄 은 서울도시철도 그린 환경 ( 주 ) 직원 이 처음 발견해 역 직원 에 통보 했 고 역 직원 이 112 에 신고 했 다 .	O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+고려대학교 는 이 전 헌법 재판관 을 법학 전문 대학원 석좌 교수 로 임명한다고 23 일 밝 혔 다 .	ORG-B O PER-B O O O O O O O O O O O DAT-B DAT-I O O O O
+건설부 가 25 일 발표한 「 94 년 1 분기 지가 동향 」 에 따르 면 , 1 분기 중 땅값 하락 률 0.41 % 는 지난해 매 분기 마다 평균 1.85 % 씩 떨어지 던 것 에 비하 면 미미한 것 으로 , 특히 93 년 4 분기 의 1.64 % 하락 에 비교하 면 크 게 둔화된 셈 이 다 .	ORG-B O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+2 위 수원 은 수원월드컵경기장 에서 최 하위 대전 과 만난다 .	O O ORG-B O LOC-B O O O ORG-B O O O
+농림 축산식품 부 는 그해 산란계 를 시작 으로 돼지 ( 2013 ) , 육계 ( 2014 ) , 소 ( 2015 ) , 오리 ( 2016 ) 로 인증 대상 을 확대 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O DAT-B O O O O DAT-B O O O O DAT-B O O O O DAT-B O O O O O O O O O
+한국 은 아이 가 학교 갈 때 걷 든 , 차 를 타 든 등 하교하 는 방식 을 학교 에 보고해야 한다는 생각 자체 가 없 으나 미국 에서 이랬 다가 는 큰일 난다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+조선 임금 들 을 비롯한 수많 은 사람 이 이 맛 에 빠져 국가 에서 은어 를 잡 기 위해 어전 을 설치하 거나 진상품 으로 거둬 가 기 도 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

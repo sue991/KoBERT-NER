@@ -1,11 +1,11 @@
-미·유럽·호주에서 연구활동 가능 문학 분야 국제화 교육 동국대 역사는 한국문학사와 맥을 같이 하+ㄴ다는 말이 있을 정도로 역사와 정통성을 자랑하+ㄴ다 .	ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O O O
-여성은 동서(26.4%)와 시어머니(21.1%), 시누이(14.2%) 순이었다 .	O O O O O O
-교도통신은 “김 제1비서의 총괄 보고를 통하+여 핵과 미사일 개발의 성과를 ‘실적’으로 전면에 제시하+ㄴ 모양”이라고 전하였다 .	O PER-B O O O O O O O O O O O O O O
-게시자는 “술을 마시다 돌아가시+ㄴ 것+ㄴ 맞아도 사인이 100% 술 때문은 아니다 .	O O O O O O O O O O O O
-40여개 순대 맛집이 한 건물에 입주하고 있어 각기 다른 개성을 가지+ㄴ순대를 맛보+ㄹ 수 있다 .	O O O O O O O O O O O O O O O
-OtvN 측은 “강사가 준비 하+ㄴ자료+이지만 제작진도 책임을 느끼+ㄴ다”며 홈페이지에 사과문을 게재하였다 .	O O O O O O O O O O O O
-그렇다면 남들이 보기에 언제나 ‘비둘기처럼 다정하고 웃음 가득 하+ㄴ집안’으로 남아 있어야 하+ㄹ까. 청와대는 정치시장에서 마켓 리더다 .	O O O O O O O O O O O O ORG-B O O O O
-오리온이 승현·모비스 양동근 등 ‘천군만마’ ‘2015∼2016KCC 프로농구’가 이번 주 2라운드에 돌입하+ㄴ다 .	ORG-B ORG-B PER-B O O O O O O O O O
-이번에 새롭게 선보이는 부가부비 5는 업그레이드되 +ㄴ도심형 스트롤러로 신생아에서 유아까지 사용 하+ㄹ 수 있다는 것+이 특징이다 .	O O O O O O O O O O O O O O O O O
-김태성 대구시 시민소통과장은 “자원봉사자들의 사기를 높이고 봉사에 필요하+ㄴ 기반도 정비 하+여보다 많은 시민이 동참하+ㄹ 수 있도록 하겠다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O
-정도광 원장에게 축농증에 대하+ㄴ 궁금증을 묻었다 .	PER-B O O O O O O
+미 · 유럽 · 호주 에서 연구 활동 가능 문학 분야 국제 화 교육 동국대 역사 는 한국 문학사 와 맥 을 같이 한다는 말 이 있 을 정도 로 역사 와 정통성 을 자랑한다 .	ORG-B O ORG-B O ORG-B O O O O O O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O
+여성 은 동서 ( 26.4 % ) 와 시어머니 ( 21.1 % ) , 시누이 ( 14.2 % ) 순 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+교도통신 은 “ 김 제 1 비서 의 총괄 보고 를 통해 핵 과 미사일 개발 의 성과 를 ‘ 실적 ’ 으로 전면 에 제시한 모양 ” 이라고 전 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+게시 자 는 “ 술 을 마시 다 돌아가 신 건 맞 아도 사인 이 100 % 술 때문 은 아니 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+40 여 개 순대 맛집 이 한 건물 에 입주하 고 있 어 각기 다른 개성 을 가진 순대 를 맛볼 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+O tvN 측 은 “ 강사 가 준비한 자료 지만 제작진 도 책임 을 느낀다 ” 며 홈페이지 에 사과문 을 게재 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+그렇 다면 남 들 이 보 기 에 언제나 ‘ 비둘기 처럼 다정하 고 웃음 가득한 집안 ’ 으로 남 아 있 어야 할까 . 청와대 는 정치 시장 에서 마켓 리더 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+오리온 이승현 · 모비스 양동근 등 ‘ 천군만마 ’ ‘ 2015 ∼ 2016 KCC 프로 농구 ’ 가 이번 주 2 라운드 에 돌입한다 .	ORG-B PER-B O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O
+이번 에 새롭 게 선보이 는 부가 부 비 5 는 업그레이드 된 도심형 스트롤러 로 신생아 에서 유아 까지 사용할 수 있 다는 게 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김태성 대구시 시민 소통 과장 은 “ 자원 봉사자 들 의 사기 를 높이 고 봉사 에 필요한 기반 도 정비해 보다 많 은 시민 이 동참할 수 있 도록 하 겠 다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정도광 원장 에게 축농증 에 대한 궁금증 을 물 었 다 .	PER-B O O O O O O O O O O O

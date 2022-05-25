@@ -1,15 +1,15 @@
-11번가 등 온라인 쇼핑몰에서는 판매가가 1만원이 안 되지만 박스에 제대로 포장하+ㄴ 선물세트가 인기를 끌고 있다 .	MNY-B O O O O MNY-B O O O O O O O O O O
-차별화되+ㄴ 배송 서비스는 이번 설 유통업계의 핵심 화두+이다 .	O O O O O O O O O
-한국의 국제적 신용도는 홍콩, 싱가포르, 대만에 뒤떨어지고, 중국, 말레이시아, 태국 등과 같은 수준이 +ㄴ 것으로 나타나 +았다 .	ORG-B O O ORG-B ORG-B ORG-B O ORG-B ORG-B ORG-B O O O O O O O O
-美백악관 “北무책임 하+ㄴ도발 중단하라 .	ORG-B ORG-B O O O
-올해 교육부의 2단계 ACE 사업에 다시 선정되+ㄴ 것.전북대가 재선정의영예를 안게 되+ㄴ 것은 ‘기초교육 강화형 학부교육선도 모델 구축’이라는 교육방침이 우수하+ㄴ 것으로 평가받았기 때문이다 .	O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O
-잠실 1~2차전에서는 양팀 통틀어 2차전 8회 말 두산 김재환의 솔로홈런 1개만 터지었다 .	LOC-B O O O O O O ORG-B PER-B O O O O
-중앙일보 <2015년 7월25일자 26면 > 형사성공 보수 폐지, 이참에 전관예우 추방하자 대법원이 형사사건의 변호사 성공보수 약정이 무효+이라고 판결하였다 .	ORG-B O O O O O O O O O O O O O O O O O O
-슈가맨 故 서 지원.슈가 맨 故 서 지원 “이 세상은 내가 존재하기에 너무도 험하+ㄴ 곳”… 3장의 유서보니 ‘슈가맨’ 故 서 지원이 화제이+ㄴ 가운데, 과거 그가 남기+ㄴ 유서가 새삼 눈길을 끌+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-故 서 지원은 19세에 ‘또 다른 시작’으로 데뷔하였으며, 감미롭고 파워풀한 창법으로 많은 사랑을 받았다 .	O O O O O O O O O O O O O O O
-1996년 이 사업을 주관하는 ‘다일공동체’(이사장 최일도 목사)의 홍보대사를 맡은 그는 주위 사람들에게 나누+ㅁ의 필요성을 알리며 봉사활동을 하고 있다 .	O O O O ORG-B PER-B O O O O O O O O O O O O O
-삼성 수사에잇어 다른 대기업 수사를 하기 위 하+여 특검 수사기한 연장이 필요하다는 여론을 조성하겠다는 것이다 .	ORG-B O O O O O O O O O O O O O O O
-토론은 각 후보가 다른 후보를 지목하+여 12분간 토론하는 ‘주도권 토론’과 후보들이 정하+여지+ㄴ 시간 안에서 자유롭게 토론 하+ㄹ 수 있는 ‘자유토론’으로 진행되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-이로써 위안화는 미국 달러화, 유럽연합(EU) 유로화, 영국 파운드화, 일본 엔화에잇어 SDR에 편입되는 5번째 통화가 +었다 .	O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O
-크리스틴 라가르드 총재는 “위안화 SDR 통화 편입은 중국의 세계 경제로의 통합을 위하 +ㄴ 중대하+ㄴ이정표"+이라며 "위안화 편입은 세계 경제 여건을 더 잘 반영하기 위하+ㄴ 일”이라고 밝히었다 .	PER-B PER-I O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-이사회는 위안화 SDR 편입 비율을 10.92%로 정하였다 .	O O O O O O O O
+11 번 가 등 온라인 쇼핑몰 에서 는 판매가 가 1 만 원 이 안 되 지만 박스 에 제대로 포장한 선물 세트 가 인기 를 끌 고 있 다 .	ORG-B ORG-I ORG-I O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+차별화된 배송 서비스 는 이번 설 유통 업계 의 핵심 화두 다 .	O O O O O DAT-B O O O O O O O
+한국 의 국제적 신용 도 는 홍콩 , 싱가포르 , 대만 에 뒤떨어지 고 , 중국 , 말레이시아 , 태국 등 과 같 은 수준 인 것 으로 나타났 다 .	ORG-B O O O O O ORG-B O ORG-B O ORG-B O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O
+美 백악관 “ 北 무책임한 도발 중단하 라 ”	ORG-B ORG-I O ORG-B O O O O O
+올해 교육부 의 2 단계 ACE 사업 에 다시 선정된 것 . 전북대 가 재 선정 의 영예 를 안 게 된 것 은 ‘ 기초 교육 강화형 학부 교육 선도 모델 구축 ’ 이 라는 교육 방침 이 우수한 것 으로 평가 받 았 기 때문 이 다 .	O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+잠실 1 ~ 2 차 전 에서 는 양 팀 통틀어 2 차 전 8 회 말 두산 김재환 의 솔로 홈런 1 개 만 터 졌 다 .	LOC-B O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O
+중앙일보 < 2015 년 7 월 25 일자 26 면 > 형사 성공 보수 폐지 , 이참 에 전관예우 추방하 자 대법원 이 형사 사건 의 변호사 성공 보수 약정 이 무효 라고 판결 했 다 .	ORG-B O DAT-B DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+슈가맨 故 서지원 . 슈가맨 故 서지원 “ 이 세상 은 내 가 존재하 기 에 너무 도 험한 곳 ” … 3 장 의 유서 보 니 ‘ 슈가맨 ’ 故 서지원 이 화제 인 가운데 , 과거 그 가 남긴 유서 가 새삼 눈길 을 끈다 .	O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+故 서지원 은 19 세 에 ‘ 또 다른 시작 ’ 으로 데뷔 했 으며 , 감미롭 고 파워풀 한 창법 으로 많 은 사랑 을 받 았 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1996 년 이 사업 을 주관하 는 ‘ 다일공동체 ’ ( 이사장 최일도 목사 ) 의 홍보 대사 를 맡 은 그 는 주위 사람 들 에게 나눔 의 필요성 을 알리 며 봉사 활동 을 하 고 있 다 .	DAT-B DAT-I O O O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성 수사 에 이 어 다른 대기업 수사 를 하 기 위해 특검 수사 기한 연장 이 필요하 다는 여론 을 조성하 겠 다는 것 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+토론 은 각 후보 가 다른 후보 를 지목해 12 분 간 토론하 는 ‘ 주도권 토론 ’ 과 후보 들 이 정해 진 시간 안 에서 자유롭 게 토론할 수 있 는 ‘ 자유 토론 ’ 으로 진행된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 로써 위안 화 는 미국 달러화 , 유럽연합 ( EU ) 유로 화 , 영국 파운드화 , 일본 엔 화 에 이 어 SDR 에 편입되 는 5 번째 통화 가 됐 다 .	O O O O O ORG-B O O ORG-B O ORG-B O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O
+크리스틴 라가르드 총재 는 “ 위안 화 SDR 통화 편입 은 중국 의 세계 경제 로 의 통합 을 위한 중대한 이정표 " 라며 " 위안 화 편입 은 세계 경제 여건 을 더 잘 반영하 기 위한 일 ” 이라고 밝 혔 다 .	PER-B PER-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이사회 는 위안 화 SDR 편입 비율 을 10.92 % 로 정 했 다 .	O O O O O O O O O O O O O O O

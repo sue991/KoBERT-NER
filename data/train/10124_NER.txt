@@ -1,15 +1,15 @@
-[똑똑하+ㄴ 금요일] 525조엔 vs556조엔 … 일본GDP 31조엔 차이 왜 .	O O MNY-B MNY-B O ORG-B MNY-B O O O
-이민영기자lee.minyou ng@j oongang. co.kr도움말=강동경희대 한방병원 김고운 교수(웰니스센터), 경상대 축산생명학과 주선태 교 .	PER-B O O ORG-B ORG-I PER-B ORG-B ORG-B O PER-B O O
-과거 산업연수생 제도 아래서 상당하+ㄴ 비용을 내+어야 한국에 오+ㄹ 수 있었던 이주근로자들은 2004년 고용허가제 시행 이후 상대적으로 적은 비용을 지불하고 한국 근로자들과 똑같은 권리를 인정받으며 일하고 있다 .	O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O
-황 총리는 “말은 앞뒤를 다 따지+어서 판단 하+여야 하+ㄴ다 .	PER-B O O O O O O O O O
-바이두, 알리바바, 공중망 등 중국 대형 바이어와 동남아시아 등지에서 총 64곳의 우수 바이어가 참가하며, 현장에서 바로 의사결정을 하+ㄹ 수 있는 임원급 인력 70여명이 한국행을 결정하였다 .	ORG-B ORG-B ORG-B O ORG-B O O LOC-B O O O O O O O O O O O O O O O LOC-B O O
-이번 행사는 1:1 비즈니스 상담, 통역서비스, 공개 오디션 격이+ㄴ비즈니스피칭 기회가 제공되며, 사전에 접수되 +ㄴ 정보를 바탕으로 바이어와 게임사들이 원하는 최적의 매칭을 진행하+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-행사 참가는 게임, 스마트 콘텐츠, VR기업이라면 누구나 참여하+ㄹ 수 있으며, 오는 10월 7일까지 참가 신청서와 사업자등록증 사본을 담당자 연락처(act@gam edonga. co.kr)로 발송 후 담당자와 통화를 거치+어 참가비, 회사 소개서, 콘텐츠 소개서(영문 또는 중문), 콘텐츠 동영상 등을 제출하면 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이후 빌 클린턴 전 대통령의 토지 사기 의혹, 클린턴 전 대통령과 모니카 르윈스키 백악관 인턴의 성추문 등 클린턴 정부 스캔들의 특검 수사를 주도하였으나 수사에 필요하+ㄴ자료를 의회에 넘기지 않는 등 클린턴 전 대통령을 보호하였다는 의혹을 부르어 일으키었다 .	O PER-B PER-B O O O O O PER-B O O PER-B PER-I ORG-B O O O PER-B O O O O O O O O O O O PER-B O O O O O O O
-법무장관 임기를 마치 +ㄴ이듬해 플로리다 주지사 민주당 경선에 출마하였으나 당시부터 앓고 있던 파킨슨병으로 유세 도중 졸도하기도 +였다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O
-삼성화재는 장애인에 대하+ㄴ청소년들의 편견을 바로잡기 위 하+여 2009년부터 이 드라마를 제작하+여+오았다 .	ORG-B O O O O O O O O O O O
-특히 환경부의 당초 발표로 인하+여유독 물질이 들어가 +ㄴ 필터를 쓰+ㄴ 것으로 알려지었다가 이번에 오명을 벗은 코웨이 관계자는 “불안하+ㄴ 고객들의 문의가 평소보다 약세 배 이상 증가하였다”고 말하였다 .	O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-또 다른 업체 관계자는 “환경부 발표도, 3M 발표도 항균필터에 즉각적 위해성에 문제가 있다는 것이 +ㄴ지, 없다는 것이 +ㄴ 지 명확하지 않다”며 “고객들은 판매사에 불만을 제기하기 때문에 결국 고객 접점에 있는 판매사들만이미지와 금전적 손해를 모두 떠안게 되+ㄴ 셈”이라고 말하였다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이번 봄 여행주간은 특히 최근 중국의 사드 보복으로 위축되 +ㄴ 국내 관광산업과 지역경제를 활성화하기 위하+ㄴ 프로그램을 집중 배치하였다 .	O O O O O ORG-B O O O O O O O O O O O O O
-독일 경찰은 방화용의자 두 명을 붙잡아 조사 중이다 .	LOC-B O O O O O O O O
-주인공 '닥터스트레인지'를 비롯하+여, '모르도 남작', '웡, 케 실리우습', '에인션트원', '사타나', '헬스톰', '클레아' 등 주요 캐릭터 8종이 추가되었으며, 이중 '닥터스트레인지', '모르도 남작', '웡', '에인션트원'에는 영화 버전 유니폼을 선보이었다 .	O PER-B O PER-B PER-I PER-B PER-B PER-I PER-B PER-B PER-B PER-B O O O O O O PER-B PER-B PER-I PER-B PER-B O O O O O
+[ 똑똑한 금요일 ] 525 조 엔 vs 556 조 엔 … 일본 GDP 31 조 엔 차이 왜 ?	O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O ORG-B O MNY-B MNY-I MNY-I O O O
+이민영 기자 lee . minyoung @ joongang . co . kr 도움말 = 강동 경희대 한방 병원 김고운 교수 ( 웰니스 센터 ) , 경상대 축산 생명학 과 주선태 교수	PER-B O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I PER-B O O ORG-B ORG-I O O ORG-B O O O PER-B O
+과거 산업 연수생 제도 아래 서 상당한 비용 을 내야 한국 에 올 수 있 었 던 이주 근로자 들 은 2004 년 고용 허가제 시행 이후 상대적 으로 적 은 비용 을 지불하 고 한국 근로자 들 과 똑같 은 권리 를 인정받 으며 일하 고 있 다 .	O O O O O O O O O O LOC-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+황 총리 는 “ 말 은 앞뒤 를 다 따져서 판단해야 한다 .	PER-B O O O O O O O O O O O O
+바이두 , 알리바바 , 공중 망 등 중국 대형 바이어 와 동남아시아 등지 에서 총 64 곳 의 우수 바이어 가 참가하 며 , 현장 에서 바로 의사 결정 을 할 수 있 는 임원 급 인력 70 여 명 이 한국 행 을 결정 했 다 .	ORG-B O ORG-B O ORG-B ORG-I O ORG-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O
+이번 행사 는 1 : 1 비즈니스 상담 , 통역 서비스 , 공개 오디션 격 인 비즈니스 피칭 기회 가 제공되 며 , 사전 에 접수된 정보 를 바탕 으로 바이어 와 게임 사 들 이 원하 는 최적 의 매칭 을 진행할 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+행사 참가 는 게임 , 스마트 콘텐츠 , VR 기업 이 라면 누구 나 참여할 수 있 으며 , 오 는 10 월 7 일 까지 참가 신청서 와 사업자 등록증 사본 을 담당자 연락처 ( act @ gamedonga . co . kr ) 로 발송 후 담당자 와 통화 를 거쳐 참가 비 , 회사 소개서 , 콘텐츠 소개서 ( 영문 또는 중문 ) , 콘텐츠 동영상 등 을 제출하 면 된다 .	O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 빌 클린턴 전 대통령 의 토지 사기 의혹 , 클린턴 전 대통령 과 모니카 르윈스키 백악관 인턴 의 성 추문 등 클린턴 정부 스캔들 의 특검 수사 를 주도 했 으나 수사 에 필요한 자료 를 의회 에 넘기 지 않 는 등 클린턴 전 대통령 을 보호 했 다는 의혹 을 불 러 일으 켰 다 .	O PER-B PER-I O O O O O O O PER-B O O O PER-B PER-I ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+법무 장관 임기 를 마친 이듬해 플로리다 주지사 민주당 경선 에 출마 했 으나 당시 부터 앓 고 있 던 파킨슨병 으로 유세 도중 졸도하 기 도 했 다 .	O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+삼성화재 는 장애인 에 대한 청소년 들 의 편견 을 바로 잡 기 위해 2009 년 부터 이 드라마 를 제작해 왔 다 .	ORG-B O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+특히 환경부 의 당초 발표 로 인해 유독 물질 이 들어간 필터 를 쓴 것 으로 알려 졌 다가 이번 에 오명 을 벗 은 코웨이 관계자 는 “ 불안한 고객 들 의 문의 가 평소 보다 약 세 배 이상 증가 했 다 ” 고 말 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+또 다른 업체 관계자 는 “ 환경부 발표 도 , 3 M 발표 도 항균 필터 에 즉각적 위해 성 에 문제 가 있 다는 것 인지 , 없 다는 것 인지 명확하 지 않 다 ” 며 “ 고객 들 은 판매사 에 불만 을 제기하 기 때문 에 결국 고객 접점 에 있 는 판매사 들 만 이미지 와 금전 적 손해 를 모두 떠안 게 된 셈 ” 이라고 말 했 다 .	O O O O O O ORG-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 봄 여행 주간 은 특히 최근 중국 의 사드 보복 으로 위축된 국내 관광 산업 과 지역 경제 를 활성화하 기 위한 프로그램 을 집중 배치 했 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+독일 경찰 은 방화 용의자 두 명 을 붙잡 아 조사 중 이 다 .	LOC-B O O O O O O O O O O O O O O
+주인공 ' 닥터 스트레인지 ' 를 비롯해 , ' 모르 도 남작 ' , ' 웡 , 케 실리 우스 ' , ' 에인 션트 원 ' , ' 사타 나 ' , ' 헬스 톰 ' , ' 클레 아 ' 등 주요 캐릭터 8 종 이 추가 됐 으며 , 이 중 ' 닥터 스트레인지 ' , ' 모르 도 남작 ' , ' 웡 ' , ' 에인 션트 원 ' 에 는 영화 버전 유니폼 을 선보 였 다 .	O O PER-B PER-I O O O O O PER-B PER-I PER-I O O O PER-B O PER-B PER-I PER-I O O O PER-B PER-I PER-I O O O PER-B PER-I O O O PER-B PER-I O O O PER-B PER-I O O O O O O O O O O O O O O PER-B PER-I O O O PER-B PER-I PER-I O O O PER-B O O O PER-B PER-I PER-I O O O O O O O O O O O

@@ -1,16 +1,16 @@
-SK텔레콤에서는 15만6000원의 지원금을 받을 수 있다 .	ORG-B O O O O O O
-중고가 요금제에서는 지원금을 받는 것보다 2년간 20% 선택약정할인을 받는 것이 더 유리하다 .	O O O O O O O O O O O O O
-월 6만원대 요금제를 선택하+ㄹ 경우 이통사 공시지원금은 26만~29만원 수준이다 .	O MNY-B O O O O O MNY-B O O
-공단이 다시 문을 열 +ㄴ다면 67%의 기업이 재입주 하+ㄹ의 향이 있는 것으로 나타나 +았다 .	O O O O O O O O O O O O O O O
-서울호텔관광전문학교(학장이형근, 이하 서호관)가 전국 고교 2, 3학년 학생을 대상으로 제4회 서호관 전국 고교요리왕대회를 개최 하+ㄴ다 .	ORG-B O LOC-B O O O O O O O LOC-B O O O O O
-그는 이어 『김정일 동지는 놀랍ㄹ 정도로 진취적이고 박력도 있을 것이라고 북한 고관들이 이야기하더라』고 거듭 강조하였다 .	O O PER-B O O O O O O O ORG-B O O O O O
-더불어민주당 문재인 대선 후보 측은 부산 서면 ‘젊음의 거리’에서 진행되+ㄴ문 후보의 집중 유세와 관련, “부산이 디비지었다”고 23일 평가하였다 .	ORG-B PER-B O O O LOC-B LOC-B O O PER-B O O O O LOC-B O O O O
-문재인 후보 측 유은혜 수석대변인은 이날 “부산이 디비지었다”는 제목의 논평을 통하+여이같이 밝히었다 .	PER-B O O PER-B O O LOC-B O O O O O O
-유 수석대변인은 문재인 후보를 두고 “전국의 고르+ㄴ 지지를 받는 첫 통합 대통령”이라면서 “어제(22일) 문재인 더불어민주당 대선후보가 서면에서 +었다 .	PER-B O PER-B O O O O O O O O O O PER-B ORG-B O O O O
-아이들은 이제 나 저제나 어린이날을 손꼽아 기다리지만, 엄마 아빠는 올해도 부담스럽다 .	O O O O O O O O O O O O
-12일 미국 LA에서 열리+ㄴ 제59회 그래미 시상식이 트럼프 미 대통령에 대하+ㄴ 비판과 패러디로 넘치었습니다 .	O LOC-B LOC-I O O ORG-B O PER-B ORG-B O O O O O O
-텐사그룹이 프랑스에서 대규모 행사를 치르기 위하+여쓰+ㄴ 비용은 천문학적이다 .	ORG-B ORG-B O O O O O O O
-총 343개 선거구에 남성 후보 5938명, 여성 후보 978명이 등록하였다 .	O O O O O O O O O O O
-이들은 삼성물산-제일모직의 합병비율이 삼성물산에 불리하게 되+어 있다며 주주권익을 주장하지만 시세차익을 통하+ㄴ 단기 이익이 주목적으로 보이+ㄴ다 .	O ORG-B O ORG-B O O O O O O O O O O O O
-나선영 한국생명의 전화사무국장은 “호주는 자살 유가족을 위하+여유품 정리부터 개입하+여지원 하+여주+ㄴ다”며 “경찰 조사 때 심리상담을 의무화하고 사망과 관련 하+ㄴ 행정절차에 복지기관이 적극적으로 개입하는 원스톱 시스템을 고려하+ 여야 하+ㄴ다”고 말하였다 .	PER-B ORG-B ORG-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-정부가 만들 +ㄴ 시행령에 대하+ㄴ국회의 수정 요구 권한을 대폭 강화 하+ㄴ국회법 개정안이 29일 국회 본회의를 통과하면서 ‘국회 전횡법이 만들어 지+ㄴ 것 아니냐’는 우려가 확산되고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+SK 텔레콤 에서 는 15 만 6000 원 의 지원금 을 받 을 수 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
+중 고가 요금 제 에서 는 지원금 을 받 는 것 보다 2 년 간 20 % 선택 약정 할인 을 받 는 것 이 더 유리하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+월 6 만 원 대 요금 제 를 선택할 경우 이통 사 공시 지원금 은 26 만 ~ 29 만 원 수준 이 다 .	O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O
+공단 이 다시 문 을 연다면 67 % 의 기업 이 재 입주할 의향 이 있 는 것 으로 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O O
+서울 호텔 관광 전문학교 ( 학장 이형근 , 이하 서호관 ) 가 전국 고교 2 , 3 학년 학생 을 대상 으로 제 4 회 서호관 전국 고교 요리왕 대회 를 개최한다 .	ORG-B ORG-I ORG-I ORG-I O O PER-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+그 는 이어 『 김정일 동지 는 놀라 울 정도 로 진취적 이 고 박력 도 있 을 것 이 라고 북한 고관 들 이 이야기하 더라 』 고 거듭 강조 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+더불 어 민주당 문재인 대선 후보 측 은 부산 서면 ‘ 젊음 의 거리 ’ 에서 진행된 문 후보 의 집중 유세 와 관련 , “ 부산 이 디비 졌 다 ” 고 23 일 평가 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O LOC-B LOC-B O O O O O O O PER-B O O O O O O O O LOC-B O O O O O O DAT-B DAT-I O O O O
+문재인 후보 측 유은혜 수석 대변인 은 이날 “ 부산 이 디비 졌 다 ” 는 제목 의 논평 을 통해 이같이 밝 혔 다 .	PER-B O O PER-B O O O O O LOC-B O O O O O O O O O O O O O O O O
+유 수석 대변인 은 문재인 후보 를 두 고 “ 전국 의 고른 지지 를 받 는 첫 통합 대통령 ” 이 라면서 “ 어제 ( 22 일 ) 문재인 더불 어 민주당 대선 후보 가 서면 에 섰 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O PER-B ORG-B ORG-I ORG-I O O O O O O O O
+아이 들 은 이제나저제나 어린이날 을 손꼽 아 기다리 지만 , 엄마 아빠 는 올해 도 부담스럽 다 .	O O O O DAT-B O O O O O O O O O O O O O O
+12 일 미국 LA 에서 열린 제 59 회 그래미 시상식 이 트럼프 미 대통령 에 대한 비판 과 패러디 로 넘 쳤 습니다 .	DAT-B DAT-I LOC-B LOC-I O O O O O O O O PER-B ORG-B O O O O O O O O O O O
+텐 사 그룹 이 프랑스 에서 대규모 행사 를 치르 기 위해 쓴 비용 은 천문학적 이 다 .	ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O
+총 343 개 선거구 에 남성 후보 5938 명 , 여성 후보 978 명 이 등록 했 다 .	O O O O O O O O O O O O O O O O O O O
+이 들 은 삼성 물산 - 제일모직 의 합병 비율 이 삼성물산 에 불리하 게 돼 있 다며 주주 권익 을 주장하 지만 시세 차익 을 통한 단기 이익 이 주 목적 으로 보인다 .	O O O ORG-B ORG-I O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+나선영 한국생명 의 전화 사무국 장 은 “ 호주 는 자살 유가족 을 위해 유품 정리 부터 개입해 지원해 준다 ” 며 “ 경찰 조사 때 심리 상담 을 의무화하 고 사망 과 관련한 행정 절차 에 복지 기관 이 적극적 으로 개입하 는 원스톱 시스템 을 고려해야 한다 ” 고 말 했 다 .	PER-B ORG-B ORG-I ORG-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정부 가 만든 시행령 에 대한 국회 의 수정 요구 권한 을 대폭 강화한 국회법 개정안 이 29 일 국회 본회의 를 통과하 면서 ‘ 국회 전횡 법 이 만들 어 진 것 아니 냐 ’ 는 우려 가 확산되 고 있 다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O

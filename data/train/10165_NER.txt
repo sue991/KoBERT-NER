@@ -1,12 +1,12 @@
-그러면 칭찬 하+여주고 부각하+여주는 것+이에요.” 30년 넘게 프로야구와 함께 하였다 .	O O O O O O O O O O O
-뮤지컬 배우이자 가수 이+ㄴ 남경주가 심야 음악 프로그램「밤이 흐르는 곳에 」(매일 밤 12시 5분)를 진행하+ㄴ다 .	O O O O PER-B O O O O O O O O O O O
-이날 본집회는 오후 4시에 시작하+ㄴ다 .	O O O O O O
-문 후보 측 주장에 따르면 문 후보는 2006년에서야 이러 하+ㄴ 사실을 알았다는 것이다 .	PER-B O O O O PER-B O O O O O O O O
-박상우 사장은 ‘LH가 원하는 미래인재상’에 대하+ㄴ 특강에서 제4차 산업혁명 등 최근 세상과 시대의 흐름 속에서 LH의 위치 및 역할, LH가 원하는 인재상에 대하+ 여설명하였다 .	PER-B O ORG-B O O O O O O O O O O O O ORG-B O O O ORG-B O O O O O
-13세 미만 어린이 통학차량의 안전기준을 강화하+ㄴ이 법은 2015년 1월 29일 시행되었지만, 학원가 등의 혼란을 줄이기 위 하+여영세 규모(15인승 이하) 학원·체육시설 차량은 2년간의 유예기간을 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-한 당직자는 “문 대표 처지에서 여전히 대중적 인기가 높고 상대적으로 ‘여의도 정치’에 덜 물들+ㄴ안 의원이 유일하+ㄴ해법이+ㄹ 것”이라고 분석하였다 .	O O PER-B O O O O O O O LOC-B O O PER-B O O O O O
-2015년 충남을 방문하+ㄴ 외국인 관광객 17만2000명 중 중국인 관광객은 4만2000명으로 전체 관광객의 24.4%에 달하+ㄴ다 .	O O O O O O O O O O O O O O O
-인천시와 강화군은 이 구역을 ‘왕의 길’이란 관광코스로 개발하는 도시재생사업을 추진하고 있다 .	ORG-B ORG-B O O O O O O O O O O
-강화군은 “서울 북촌보다 가치 높은 한옥이 강화읍에 상당히 보존되+어 있다 .	ORG-B LOC-B LOC-B O O O LOC-B O O O O
-21일 밤 연락이 닿은 우효동 심판은 무척 속상 하+여+였다 .	O O O O PER-B O O O O O
-중견 제약사 이+ㄴ국제약품에서는 창업주 고 남상옥 선대회장의 손자 이+ㄴ남태훈 대표이사(37)가 1월 사장으로 승진하였다 .	O O ORG-B O O PER-B O O PER-B O O O O O
+그러면 칭찬해 주 고 부각해 주 는 거 예요 . ” 30 년 넘 게 프로 야구 와 함께 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+뮤지컬 배우 이 자 가수 인 남경주 가 심야 음악 프로그램 「 밤 이 흐르 는 곳 에 」 ( 매일 밤 12 시 5 분 ) 를 진행한다 .	O O O O O O PER-B O O O O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O
+이날 본 집회 는 오후 4 시 에 시작한다 .	O O O O TIM-B TIM-I TIM-I O O O
+문 후보 측 주장 에 따르 면 문 후보 는 2006 년 에서 야 이러한 사실 을 알 았 다는 것 이 다 .	PER-B O O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O
+박상우 사장 은 ‘ LH 가 원하 는 미래 인재 상 ’ 에 대한 특강 에서 제 4 차 산업혁명 등 최근 세상 과 시대 의 흐름 속 에서 LH 의 위치 및 역할 , LH 가 원하 는 인재 상 에 대해 설명 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O
+13 세 미만 어린이 통학 차량 의 안전 기준 을 강화한 이 법 은 2015 년 1 월 29 일 시행 됐 지만 , 학원 가 등 의 혼란 을 줄이 기 위해 영세 규모 ( 15 인 승 이하 ) 학원 · 체육 시설 차량 은 2 년 간 의 유예 기간 을 줬 다 .	O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 당직자 는 “ 문 대표 처지 에서 여전히 대중적 인기 가 높 고 상대적 으로 ‘ 여의도 정치 ’ 에 덜 물든 안 의원 이 유일한 해법 일 것 ” 이라고 분석 했 다 .	O O O O PER-B O O O O O O O O O O O O LOC-B O O O O O PER-B O O O O O O O O O O O O
+2015 년 충남 을 방문한 외국인 관광객 17 만 2000 명 중 중국인 관광객 은 4 만 2000 명 으로 전체 관광객 의 24.4 % 에 달한다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+인천시 와 강화군 은 이 구역 을 ‘ 왕 의 길 ’ 이 란 관광 코스 로 개발하 는 도시 재생 사업 을 추진하 고 있 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+강화군 은 “ 서울 북촌 보다 가치 높 은 한옥 이 강화읍 에 상당히 보존돼 있 다 .	ORG-B O O LOC-B LOC-B O O O O O O LOC-B O O O O O O
+21 일 밤 연락 이 닿 은 우효동 심판 은 무척 속상해 했 다 .	DAT-B DAT-I O O O O O PER-B O O O O O O O
+중견 제약 사 인 국제 약품 에서 는 창업주 고 남상옥 선대 회장 의 손자 인 남태훈 대표 이사 ( 37 ) 가 1 월 사장 으로 승진 했 다 .	O O O O ORG-B ORG-I O O O O PER-B O O O O O PER-B O O O O O O DAT-B DAT-I O O O O O O

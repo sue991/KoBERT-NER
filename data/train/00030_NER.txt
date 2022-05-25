@@ -1,14 +1,14 @@
-박 대통령은 또 “최근 구조조정으로 어려움을 겪는 지역들이 있다”며 “거제의 해금강, 울산의 십리대숲을 비롯하+여특색 있고 매력적이+ㄴ 관광휴양지를 적극 발굴 하+여 알리기+ㄹ바라+ㄴ다”고 주문하였다 .	PER-B O O O O O O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O
-박 대통령은 브렉시트(영국의 유럽연합 탈퇴)와 관련 하+여 “보호무역주의가 고개를 들고 있고 신고립주의 흐름이 확산되+ㄹ 우려도 커지고 있다”며 “우리는 보호무역주의와 신고립주의 극복을 이끌어가는 선도국가가 되+어야 하+ㄴ다”고 말하였다 .	PER-B O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-북한 문제에 대하+여서 +ㄴ “북한이 사회 내부의 갈등을 노리고 국제적으로는 대북 국제공조 체제를 균열시키기 위하+여 여러 시도를 하고 있다”며 “이렇+ㄹ 때 이+ㄹ수록 분열되지 않고 하나 되는 모습을 보이어야 하+ㄴ다”고 말하였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-경북도와 포항시가 내년부터 영일만 항기반 확충에 힘을 쏟는다 .	ORG-B ORG-B O O O O O O O
-지난해 연간 매출액과 영업이익은 각각 26조5041억원, 영업이익은 1조3114억원이었다 .	O O O O O MNY-B O MNY-B O
-안 후보는 대기업의 초과이익을 중소기업과 나누는 ‘이익공유제’ 도입을 제시하였다 .	PER-B O O O O O O O O O
-이들 4명의 행위에 대하+여위법 판단이 내려지지 않음에 따르 아, 앞으로 유사 행위에 대하+여 단속이 어렵어지는 등, 논란의 소지가 커지+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-전남대병원 응급협 진통제실에서는 이 정보를 공유하고 즉각 조치 하+ㄴ다 .	ORG-B ORG-I ORG-I O O O O O O O
-두산중공업 관계자는 “세계적 수준의 경쟁력을 확보하고 있는 발전과 수처리 사업을 중심으로 신규 시장을 적극 공략 하+ㄹ 계획”이라 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O
-기아차, 디트로이트 모터쇼 서신차 공 .	ORG-B LOC-B O O O O
-(※그는 ‘전관예우+이라는 악습은 타파되+어야 하+ㄴ다’는 별도의 기고문을 통하+여 “어떤 여 변호사는 대법원 사건을 맡기 위 하+여대법관 출신 변호사에게도 장값으로 3000만원을 먼저 +었다”면서 “하지만 의뢰인과 갈등이 생기+어수임료를 돌려주고도 자신은 대법관 출신 변호사에게 돈을 돌려받지 못하였다”고 주장하였다 .	O O O O O O O O O O O O O O O O O O O MNY-B O O O O O O O O O O O O O O O O
-뉴스위크는 해킹 사실을 접하+ㄴ후이 사이버칼리프의 배너와 트윗을 삭제하였다 .	ORG-B O O O ORG-B O O O O
-포드코리아는 몬데오를 시작으로 스포츠 유틸리티 차량(SUV) ‘쿠가’까지 국내 출시를 계획하는 등 올해 디젤 라인업으로 승부수를 띄었다 .	ORG-B O O O O O O O O O O O O O O O O
-김태원이 “무료로 곡을 만들어주겠다”고 수락하면서 건전가요 제작이 시작되었다 .	PER-B O O O O O O O O
+박 대통령 은 또 “ 최근 구조 조정 으로 어려움 을 겪 는 지역 들 이 있 다 ” 며 “ 거제 의 해금강 , 울산 의 십 리 대숲 을 비롯해 특색 있 고 매력적 인 관광 휴양지 를 적극 발굴해 알리 길 바란다 ” 고 주문 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O LOC-B O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O
+박 대통령 은 브렉시트 ( 영국 의 유럽 연합 탈퇴 ) 와 관련해 “ 보호 무역 주의 가 고개 를 들 고 있 고 신고립주의 흐름 이 확산될 우려 도 커지 고 있 다 ” 며 “ 우리 는 보호 무역 주의 와 신고립주의 극복 을 이끌 어 가 는 선 도 국가 가 돼야 한다 ” 고 말 했 다 .	PER-B O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 문제 에 대해선 “ 북한 이 사회 내부 의 갈등 을 노리 고 국제적 으로 는 대북 국제 공조 체제 를 균열 시키 기 위해 여러 시도 를 하 고 있 다 ” 며 “ 이럴 때 일수록 분열되 지 않 고 하나 되 는 모습 을 보 여야 한다 ” 고 말 했 다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경북도 와 포항시 가 내년 부터 영일만 항 기반 확충 에 힘 을 쏟 는다 .	ORG-B O ORG-B O O O O O O O O O O O O O
+지난해 연간 매출액 과 영업 이익 은 각각 26 조 5041 억 원 , 영업 이익 은 1 조 3114 억 원 이 었 다 .	O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O
+안 후보 는 대기업 의 초과 이익 을 중소기업 과 나누 는 ‘ 이익 공유 제 ’ 도입 을 제시 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+이 들 4 명 의 행위 에 대해 위법 판단 이 내려지 지 않 음 에 따 라 , 앞 으로 유사 행위 에 대해 단속 이 어려 워 지 는 등 , 논란 의 소지 가 커질 것 으로 보인다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전남대 병원 응급 협진 통제 실 에서 는 이 정보 를 공유하 고 즉각 조치한다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O
+두산중공업 관계자 는 “ 세계적 수준 의 경쟁력 을 확보하 고 있 는 발전 과 수 처리 사업 을 중심 으로 신규 시장 을 적극 공략할 계획 ” 이 라 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+기아차 , 디트로이트 모터쇼 서 신차 공개	ORG-B O LOC-B O O O O
+( ※ 그 는 ‘ 전관예우 라는 악습 은 타파돼야 한다 ’ 는 별도 의 기고 문 을 통해 “ 어떤 여 변호사 는 대법원 사건 을 맡 기 위해 대법관 출신 변호사 에게 도장 값 으로 3000 만 원 을 먼저 줬 다 ” 면서 “ 하지만 의뢰인 과 갈등 이 생겨 수임 료 를 돌려주 고도 자신 은 대법관 출신 변호사 에게 돈 을 돌려받 지 못 했 다 ” 고 주장 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+뉴스위크 는 해킹 사실 을 접한 후 이 사이버 칼리프 의 배너 와 트윗 을 삭제 했 다 .	ORG-B O O O O O O O ORG-B ORG-I O O O O O O O O O
+포드코리아 는 몬데오 를 시작 으로 스포츠 유틸리티 차량 ( SUV ) ‘ 쿠 가 ’ 까지 국내 출시 를 계획하 는 등 올해 디젤 라인업 으로 승부수 를 띄 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김태원 이 “ 무료 로 곡 을 만들 어 주 겠 다 ” 고 수락하 면서 건전 가요 제작 이 시작 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O

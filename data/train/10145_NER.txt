@@ -1,16 +1,16 @@
-메시는 바르셀로나에서 524 경기에 출전하+여 450골을 터뜨리었고, 아르헨티나 대표팀 멤버로 A매치 107 경기에 출전하+여 50골을 넣었다 .	PER-B ORG-B O O O O O ORG-B O O O O O O O O O
-한편 이 대표는 설 명절을 앞두 +ㄴ 소비자들에게 “국산 농산물을 애용 하+여달라”고 당부하였다 .	O PER-B O O O O O O O O O O O O
-[Money&Life] SK텔레콤과 손잡고 대출상품 선뵈+ .	O ORG-B O O O O
-기존 요금은 주중과 주말 조조요금은 6000원, 주중 일반은 9000원, 주말 일반은 1만원이었다 .	O O O O O MNY-B O O MNY-B O O MNY-B O
-A조에 속하+ㄴ한국은 태국(13일), 바레인(17일), 사우디(20일) 순으로 조별리그를 펼치+ㄴ다 .	O ORG-B ORG-B ORG-B ORG-B O O O O
-관련 법 조항이 헌법재판소의 헌법불합치 및 한정위헌 결정을 받은데 .	O O O ORG-B ORG-B O O O O O
-BK는 ‘두뇌 한국(BrainK orea)’의 약자로 BK21은 정부가 세계적 수준의 대학원 육성과 지방대의 교육연구 역량 강화를 목표로 만들 +ㄴ 프로그램이고, BK21 플러스(2013~2019년)는 창조경제 실현을 위하+ㄴ 석·박사급창의 인재 양성을 위하+여 예산을 지원하는 사업이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-100세 시대를 맞고 아름답ㄴ 삶을 오래 살기 위 하+ㄴ ‘건강도시 부산’ 만들기 행사가 마련되 +ㄴ다 .	O O O O O O O O O O LOC-B O O O O O
-그룹 ‘하이라이트’ 멤버 양요섭이 “나+의 자식에게는 아이돌 말고가수를 시키+ㄹ 것”이라고 포부를 밝히었다 .	O ORG-B O PER-B O O O O O O O O O
-보행 데크 연결이 완료되면 청계천을 지나는 유동인구를 흡수하+ㄹ 수 있다 .	O O O O LOC-B O O O O O O
-지나+ㄴ 21일 방송되+ㄴ'해피투게더3'에서는 그룹 빅뱅 멤버 지드래곤, 탑, 승리, 태양, 대성이 출연하+ 여유쾌하+ㄴ 입담을 뽐내 +었다 .	O O O O ORG-B O PER-B PER-B PER-B PER-B O O O O O O O
-23일 금융권에 따르면 5개 금융기관의 필기시험에서 객관식, 단답형, 약술형, 논술형 등 다양하+ㄴ 유형의 문제가 출제되었다 .	O O O O O O O O O O O O O O O O
-백은 하변 6점을 흑에게 내주+어실리로는 크+ㄴ 손해를 +았지만 중앙에서 주도권을 잡고 88까지 죽죽 밀어붙이고 있다 .	O O O O O O O O O O O O O O O O
-황영철 의원은 라디오에 나오아 “반 총장이 어느 정치 지형에서 (정치를) 하+ㄹ 것이 +ㄴ가 하는 선택이 매우 크+ㄴ 변수가 되+ㄹ 것”이라고 말하였다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O
-1년간 행방이 묘연하였던 교민은 알고 보니 한국에 있었다 .	O O O O O O LOC-B O O
-파리바게뜨는 79점을, 뚜레쥬르는 71점을 기록하였다 .	ORG-B O ORG-B O O O
+메시 는 바르셀로나 에서 524 경기 에 출전해 450 골 을 터뜨 렸 고 , 아르헨티나 대표 팀 멤버 로 A 매치 107 경기 에 출전해 50 골 을 넣 었 다 .	PER-B O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+한편 이 대표 는 설 명절 을 앞둔 소비자 들 에게 “ 국산 농산물 을 애용해 달 라 ” 고 당부 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O
+[ Money & Life ] SK 텔레콤 과 손잡 고 대출 상품 선봬	O O O O O ORG-B ORG-I O O O O O O
+기존 요금 은 주 중 과 주말 조조 요금 은 6000 원 , 주 중 일반 은 9000 원 , 주말 일반 은 1 만 원 이 었 다 .	O O O O O O O O O O MNY-B MNY-I O O O O O MNY-B MNY-I O O O O MNY-B MNY-I MNY-I O O O O
+A 조 에 속한 한국 은 태국 ( 13 일 ) , 바레인 ( 17 일 ) , 사우디 ( 20 일 ) 순 으로 조별 리그 를 펼친다 .	O O O O ORG-B O ORG-B O DAT-B DAT-I O O ORG-B O DAT-B DAT-I O O ORG-B O DAT-B DAT-I O O O O O O O O
+관련 법 조항 이 헌법 재판소 의 헌법 불 합치 및 한정 위헌 결정 을 받 은 데 다	O O O O ORG-B ORG-I O O O O O O O O O O O O O
+BK 는 ‘ 두뇌 한국 ( Brain Korea ) ’ 의 약자 로 BK 21 은 정부 가 세계적 수준 의 대학 원 육성 과 지방 대 의 교육 연구 역량 강화 를 목표 로 만든 프로그램 이 고 , BK 21 플러스 ( 2013 ~ 2019 년 ) 는 창조 경제 실현 을 위한 석 · 박사 급 창의 인재 양성 을 위해 예산 을 지원하 는 사업 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+100 세 시대 를 맞 아 아름다 운 삶 을 오래 살 기 위한 ‘ 건강 도시 부산 ’ 만들 기 행사 가 마련된다 .	O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
+그룹 ‘ 하이라이트 ’ 멤버 양요섭 이 “ 내 자식 에게 는 아이 돌 말 고 가수 를 시킬 것 ” 이라고 포부 를 밝 혔 다 .	O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+보행 데크 연결 이 완료되 면 청계천 을 지나 는 유동 인구 를 흡수할 수 있 다 .	O O O O O O LOC-B O O O O O O O O O O O
+지난 21 일 방송된 ' 해피투게더 3 ' 에서 는 그룹 빅뱅 멤버 지드래곤 , 탑 , 승리 , 태양 , 대성이 출연해 유쾌한 입담 을 뽐냈 다 .	O DAT-B DAT-I O O O O O O O O ORG-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O O
+23 일 금융 권 에 따르 면 5 개 금융 기관 의 필기시험 에서 객관식 , 단 답 형 , 약술 형 , 논술 형 등 다양한 유형 의 문제 가 출제 됐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+백 은 하변 6 점 을 흑 에게 내줘 실리 로 는 큰 손해 를 봤 지만 중앙 에서 주도권 을 잡 고 88 까지 죽죽 밀어붙이 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황영철 의원 은 라디오 에 나 와 “ 반 총장 이 어느 정치 지형 에서 ( 정치 를 ) 할 것 인가 하 는 선택 이 매우 큰 변수 가 될 것 ” 이라고 말 했 다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 년 간 행방 이 묘연 했 던 교민 은 알 고 보 니 한국 에 있 었 다 .	O O O O O O O O O O O O O O LOC-B O O O O O
+파리바게뜨 는 79 점 을 , 뚜레쥬르 는 71 점 을 기록 했 다 .	ORG-B O O O O O ORG-B O O O O O O O O

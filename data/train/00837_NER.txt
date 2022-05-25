@@ -1,11 +1,11 @@
-배우 신주아가 악플에 대하+여 언급하였다 .	O PER-B O O O O
-한 발씩 앞으로 나아가며 작은 기적들을 만들어 내 +었고, 그 결과 3년 만에 PGA투어 무대를 밟으며 새롭게 출발하+ㄹ 수 있었다 .	O O O O O O O O O O O O O ORG-B O O O O O O O
-최향남(44)은 오스트리아 리그에서 뛰고 있다 .	PER-B ORG-B ORG-I O O O
-스프링캠프 역시 미국 동부의 플로리다로 가는 SK부터, 애리조나와 LA 등 미국 서부로 가는 NC, kt 등이 줄을 잇고 있다 .	O O LOC-B LOC-I LOC-B O ORG-B LOC-B LOC-B O LOC-B LOC-I O ORG-B ORG-B O O O O O
-무기 수출 빗장푼 일본, 첫 수조원대 수출 추 .	O O O ORG-B O MNY-B O O O
-우리나라의 외환보유액이 넉 달 만에 감소세로 돌아서 +었다 .	O O O O O O O O O
-이번 녹색돌풍의 근원 역시 호남이라는 지역적 기반과 함께 ‘제3의 정치’를 희망하는 일부 새누리당 지지층과 무당층이었다 .	O O O O LOC-B O O O O O O O ORG-B O O O
-그때 대통령으로부터 전투기의 ‘전’자도 듣은 바 없다고.”-MB는 자서전에도 +었다 .	O O O O O O PER-B O O O
-[경제계 인사] 녹십자홀딩스 대표 허용준씨, 녹십자랩셀 대표 박대우  .	O O ORG-B O PER-B ORG-B O PER-B O O
-당장 한국도 표준전쟁 한복판에 놓이어 있다 .	O ORG-B O O O O O
-서울의 경우 1920년대에는 11월 21일 무렵 이 김장 적정 시기+이었으나 2000년대 들어서+어는 12월 3일 이 적정 하+ㄴ 것으로 나타나 +아80년 사이에 12일 정도가 늦춰 지+ㄴ 것으로 나타나 +았다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+배우 신 주아 가 악 플 에 대해 언급 했 다 .	O PER-B PER-I O O O O O O O O O
+한 발 씩 앞 으로 나아가 며 작 은 기적 들 을 만들 어 냈 고 , 그 결과 3 년 만 에 PGA 투어 무대 를 밟 으며 새롭 게 출발할 수 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+최향남 ( 44 ) 은 오스트리아 리그 에서 뛰 고 있 다 .	PER-B O O O O ORG-B ORG-I O O O O O O
+스프링 캠프 역시 미국 동부 의 플로리다 로 가 는 SK 부터 , 애리조나 와 LA 등 미국 서부 로 가 는 NC , kt 등 이 줄 을 잇 고 있 다 .	O O O LOC-B LOC-I O LOC-B O O O ORG-B O O LOC-B O LOC-B O LOC-B LOC-I O O O ORG-B O ORG-B O O O O O O O O O
+무기 수출 빗장 푼 일본 , 첫 수조 원 대 수출 추진	O O O O ORG-B O O MNY-B MNY-I O O O
+우리나라 의 외환 보유 액 이 넉 달 만 에 감소세 로 돌아섰 다 .	O O O O O O O O O O O O O O O
+이번 녹색 돌풍 의 근원 역시 호남 이 라는 지역적 기반 과 함께 ‘ 제 3 의 정치 ’ 를 희망하 는 일부 새누리당 지지 층 과 무당 층 이 었 다 .	O O O O O O LOC-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+그때 대통령 으로부터 전투기 의 ‘ 전 ’ 자 도 들 은 바 없 다고 . ” - MB 는 자서전 에 도 썼 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+[ 경제계 인사 ] 녹십자 홀딩스 대표 허용준 씨 , 녹십자 랩 셀 대표 박대우 씨	O O O O ORG-B ORG-I O PER-B O O ORG-B ORG-I ORG-I O PER-B O
+당장 한국 도 표준 전쟁 한복판 에 놓 여 있 다 .	O ORG-B O O O O O O O O O O
+서울 의 경우 1920 년대 에 는 11 월 21 일 무렵 이 김장 적정 시기 였 으나 2000 년대 들어서 는 12 월 3 일 이 적정한 것 으로 나타나 80 년 사이 에 12 일 정도 가 늦춰진 것 으로 나타났 다 .	LOC-B O O DAT-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O DAT-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O DAT-B DAT-I O O O O O O O O

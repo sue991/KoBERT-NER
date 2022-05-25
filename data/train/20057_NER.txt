@@ -1,13 +1,13 @@
-대부분 “추가 인하를 짐작은 +였지만 3월에 내리+ㄹ줄은 예상하지 못하였다”는 반응이다 .	O O O O O O O O O O O
-우월하+ㄴ 기럭지와 범접하+ㄹ 수 없는 분위기에 인천공항을 단번에 ‘런웨이’로 만들었다고.한편, 가수 비의 카리스마 넘치는 ‘락시크 ‘스타일을 돋보이게 하+ㄴ 가죽 재킷과 가방, 선글라스는 모두 럭셔리 브랜드 MCM 제품으로 알려지었다 .	O O O O O O LOC-B O O O O PER-B O O O O O O O O O O O O O ORG-B O O O
-이날 안철수와 문재인은 당의 위기 상황에 대하+ㄴ인식을 공유하고 재보선 참패 후 민심을 어떻게 추스르+ㄹ지 등을 논의하+ㄴ 것으로 알려지었다 .	O PER-B PER-B O O O O O O O O O O O O O O O O
-또 주차면수(390대) 부족 문제를 해소하기 위하+여210면 규모의 주차장을 추가로 조성하고 있다 .	O O O O O O O O O O O O
-광주시도 SRT 개통에 따르+ㄴ 송정역 혼잡 문제를 해결하기 위하+ㄴ 대책 마련에 나서 +었다 .	ORG-B O O O O O O O O O O O O O
-영국 파이낸셜타임스는 28일 ‘한국 대통령은 나라를 최우선으로 여기 +어야 하+ㄴ다’는 제목의 사설에서 “박 대통령은 당장 검찰을 만나 +아 최순실과의 관계를 모두 털어놓아야 하고 아니면 즉각 사임 하+여 한국이 몇 달, 몇 년간 마비와 정치적 다툼에 휘말리는 것을 막아야 하+ㄴ다”며 검찰 수사와 하야를 촉구하였다 .	ORG-B ORG-I O ORG-B O O O O O O O O PER-B O O O O O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
-보리스 존슨(52) 전 런던 시장과 테리사 메이(60) 내무장관이다 .	PER-B PER-I O O O PER-B PER-I O O
-양측 갈등의 골이 깊어지면 내년 19차 전당대회에서 리 총리가 연임하지 못하+ㄹ 수도 있다는 관측도 나 오+ㄴ다 .	O O O O O O O O O O O O O O O O O
-이승환 고려대 철학과 교수가 추천하+ㄴ ‘역천자망’은 맹자(孟子)에 나오는 말로 “천리를 거스르는 자는 패망하+ㄴ다”는 뜻이다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O
-새정치연합 최재성 의원은 전날 추도식 현장에서 “대통령님으로 방패삼는 사람들이나 창을 들는 사람이나 (모두) 구(舊) 정치+이다 .	ORG-B PER-B O O O O O O O O O O O O O O
-참담하고 부끄럽다”는 자성의 목소리를 트위터에 남기었다 .	O O O O O O O
-글=서승욱·이지상기자 sswook@j oongang. co.kr사진=송봉근기 .	PER-B O O PER-B O
-“서울외곽순환고속道 북부구간 통행료 너무 비싸다 .	LOC-B O O O O O
+대부분 “ 추가 인하 를 짐작 은 했 지만 3 월 에 내릴 줄 은 예상 치 못 했 다 ” 는 반응 이 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+우월한 기럭지 와 범접할 수 없 는 분위기 에 인천공항 을 단번에 ‘ 런 웨이 ’ 로 만들 었 다고 . 한편 , 가수 비 의 카리스마 넘치 는 ‘ 락 시크 ‘ 스타일 을 돋보이 게 한 가죽 재킷 과 가방 , 선글라스 는 모두 럭셔리 브랜드 MCM 제품 으로 알려 졌 다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+이날 안철수 와 문재인 은 당 의 위기 상황 에 대한 인식 을 공유하 고 재 보선 참패 후 민심 을 어떻 게 추스를지 등 을 논의한 것 으로 알려 졌 다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 주차면 수 ( 390 대 ) 부족 문제 를 해소하 기 위해 210 면 규모 의 주차장 을 추가 로 조성하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+광주 시도 SRT 개통 에 따른 송정역 혼잡 문제 를 해결하 기 위한 대책 마련 에 나섰 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+영국 파이낸셜타임스 는 28 일 ‘ 한국 대통령 은 나라 를 최우선 으로 여겨야 한다 ’ 는 제목 의 사설 에서 “ 박 대통령 은 당장 검찰 을 만나 최순실 과 의 관계 를 모두 털어놓 아야 하 고 아니 면 즉각 사임해 한국 이 몇 달 , 몇 년 간 마비 와 정치적 다툼 에 휘말리 는 것 을 막 아야 한다 ” 며 검찰 수사 와 하야 를 촉구 했 다 .	ORG-B ORG-I O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보리스 존슨 ( 52 ) 전 런던 시장 과 테리 사 메이 ( 60 ) 내무 장관 이 다 .	PER-B PER-I O O O O O O O PER-B PER-I PER-I O O O O O O O O
+양측 갈등 의 골 이 깊어지 면 내년 19 차 전당대회 에서 리 총리 가 연임하 지 못할 수 도 있 다는 관측 도 나온다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+이승환 고려대 철학 과 교수 가 추천한 ‘ 역천자 망 ’ 은 맹자 ( 孟子 ) 에 나오 는 말 로 “ 천 리 를 거스르 는 자 는 패망한다 ” 는 뜻 이 다 .	PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새정치연합 최재성 의원 은 전날 추도식 현장 에서 “ 대통령 님 으로 방패 삼 는 사람 들 이나 창 을 드 는 사람 이나 ( 모두 ) 구 ( 舊 ) 정치 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+참담하 고 부끄럽 다 ” 는 자성 의 목소리 를 트위터 에 남 겼 다 .	O O O O O O O O O O O O O O O O
+글 = 서승욱 · 이지상 기자 sswook @ joongang . co . kr 사진 = 송봉근 기자	O O PER-B O PER-B O O O O O O O O O O PER-B O
+“ 서울 외곽 순환 고속 道 북부 구간 통행료 너무 비싸 다 ”	O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O

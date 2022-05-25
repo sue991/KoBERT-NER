@@ -1,15 +1,15 @@
-[분양 하이라이트]강원도 최대 규모 아파트 … 87%가 중소 .	O LOC-B O O O O O O O
-국내 브랜드로는 처음으로 독일 피부과학연구소 더 마테스트의무자극 인증을 획득하고 화장품 안전성 연구소의 피부 자극/멜라닌 색소 테스트를 통과하며, 대표 물티슈로 국내 시장을 리드 하+여가고 있다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
-후보작 머물+ㄴ「아버지…」 34% 감 .	O O O O O
-정부가 적 조방제작업에 나서 +었지만 경남과 전남, 경북 등 인근 해역으로 확산되+ㄹ 가능성이 크다 .	O O O O O LOC-B LOC-B LOC-B O O O O O O O
-미국 주도의 연합군도 IS 공습을 위하+여이기지를 활용하+여+았다 .	ORG-B O O ORG-B O O O O
-영국 국방부 대변인은 이날 “토네이도 전투기들이 키프로스 아크로티리기지에서 발진 하+여시리아에서 첫 번째 공습작전을 수행하고 기지로 귀환하였다”고 발표하였다 .	ORG-B ORG-I O O O O LOC-B LOC-I O LOC-B O O O O O O O O
-앞서 +어, 영국 의회는 찬성 397표, 반대 223표로 정부의 IS 공습안을 가결하였다 .	O O ORG-B O O O O O O ORG-B O O O
-영국은 지난해 미국이 주도하는 연합군에 참여하+여이라크 내 IS에 대하+ㄴ 공습을 진행하고 있지만 시리아 내 공습에는 가담하지 않았다 .	ORG-B O ORG-B O O ORG-B O ORG-B O O O O ORG-B O O O O O
-캐머런 총리는 이날 표결에 앞서 +어진행되+ㄴ토론에서 IS를 ‘중세 괴물들(medievalmonsters)’로 표현하며 “IS가 우리를 공격하기 위하+ 여기다리는데 영국은 뒤로 물러나 +아앉아 있지 말고 IS 심장부를 공격 하+여야 하+ㄴ다”고 주장하였다 .	PER-B O O O O O ORG-B O O O ORG-B O O O O ORG-B O O O O O ORG-B O O O O O O
-의회의 이번 결정으로 영국은 미국, 프랑스, 캐나다, 호주, 요르단에잇어 6번째로 이라크와 시리아 모두에 공습을 가하는 나라가 되+ㄹ 전망이다 .	O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O ORG-B ORG-B O O O O O O O
-하지만 나 홍진 감독님이 어떻게 이끌어가는지도 알기 때문에 기대고 힘을 합치+어서가면 하+ㄹ 수 있지 않을까 하는 나약하+ㄴ 마음으로 시작하였다"고 솔직하게 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O
-'곡성'은 외지인이 나타나 +ㄴ 후 시작되+ㄴ의 문의 연쇄 사건 속 소문과 실체를 알+ㄹ 수 없는 사건에 맞닥뜨리+ㄴ사람들의 이야기를 그리 +ㄴ 영화+이다 .	O O O O O O O O O O O O O O O O O O O O O O
-우리 윤정이가 세계 최고의 트로트 가수가 되+ㄹ 수 있도록 도와주십시오"라고 거듭 강조하였다 .	O PER-B O O O O O O O O O O O
-한편 장윤정의 모친 육흥복씨는 지난해 장윤정이 벌어들이 +ㄴ 수익금의 소유권을 주장하며 장윤정의 소속사를 상대로 대여금 반환 소송을 내+었지만 패소 하+ㄴ바 있다 .	O PER-B O PER-B O PER-B O O O O O PER-B O O O O O O O O O O
-온라인 중앙일보 jstar@j oongang. co.kr사진=장윤정 모친육흥복 .	O O O O PER-B PER-B O
+[ 분양 하이라이트 ] 강원도 최대 규모 아파트 … 87 % 가 중소형	O O O O LOC-B O O O O O O O O
+국내 브랜드 로 는 처음 으로 독일 피부 과학 연구소 더마테스트 의 무 자극 인증 을 획득하 고 화장품 안전성 연구소 의 피부 자극 / 멜라닌 색소 테스트 를 통과하 며 , 대표 물티슈 로 국내 시장 을 리드해 가 고 있 다 .	O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+후보작 머문 「 아버지 … 」 34 % 감소	O O O O O O O O O
+정부 가 적조 방제 작업 에 나섰 지만 경남 과 전남 , 경북 등 인근 해역 으로 확산될 가능성 이 크 다 .	O O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O O O O O
+미국 주도 의 연합군 도 IS 공습 을 위해 이 기지 를 활용해 왔 다 .	ORG-B O O O O ORG-B O O O O O O O O O O
+영국 국방부 대변인 은 이날 “ 토네이도 전투기 들 이 키프로스 아크로티리 기지 에서 발진해 시리아 에서 첫 번째 공습 작전 을 수행하 고 기지 로 귀환 했 다 ” 고 발표 했 다 .	ORG-B ORG-I O O O O O O O O LOC-B LOC-I O O O LOC-B O O O O O O O O O O O O O O O O O O O
+앞서 , 영국 의회 는 찬성 397 표 , 반대 223 표 로 정부 의 IS 공습 안 을 가결 했 다 .	O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O
+영국 은 지난해 미국 이 주도하 는 연합군 에 참여해 이라크 내 IS 에 대한 공습 을 진행하 고 있 지만 시리아 내 공습 에 는 가담하 지 않 았 다 .	ORG-B O O ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O O O O O
+캐머런 총리 는 이날 표결 에 앞서 진행된 토론 에서 IS 를 ‘ 중세 괴물 들 ( medieval monsters ) ’ 로 표현하 며 “ IS 가 우리 를 공격하 기 위해 기다리 는데 영국 은 뒤 로 물러나 앉 아 있 지 말 고 IS 심장부 를 공격해야 한다 ” 고 주장 했 다 .	PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O
+의회 의 이번 결정 으로 영국 은 미국 , 프랑스 , 캐나다 , 호주 , 요르단 에 이 어 6 번째 로 이라크 와 시리아 모두 에 공습 을 가하 는 나라 가 될 전망 이 다 .	O O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+하지만 나홍진 감독 님 이 어떻 게 이끌 어 가 는지 도 알 기 때문 에 기대 고 힘 을 합쳐서 가 면 할 수 있 지 않 을까 하 는 나약한 마음 으로 시작 했 다 " 고 솔직하 게 밝 혔 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 곡성 ' 은 외지인 이 나타난 후 시작된 의문 의 연쇄 사건 속 소문 과 실체 를 알 수 없 는 사건 에 맞닥뜨린 사람 들 의 이야기 를 그린 영화 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리 윤정이 가 세계 최고 의 트로트 가수 가 될 수 있 도록 도와주 십시오 " 라고 거듭 강조 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
+한편 장윤정 의 모친 육 흥복 씨 는 지난해 장윤정 이 벌어들인 수익금 의 소유권 을 주장하 며 장윤정 의 소속 사 를 상대 로 대여금 반환 소송 을 냈 지만 패소한 바 있 다 .	O PER-B O O PER-B PER-I O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+온라인 중앙일보 jstar @ joongang . co . kr 사진 = 장윤정 모친 육 흥복 씨	O O O O O O O O O O O PER-B O PER-B PER-I O

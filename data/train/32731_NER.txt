@@ -1,17 +1,17 @@
-이날 이원종 대통령 비서실장 주재로 열리+ㄴ 참모진 회의에서도 긴장감을 갖고 예의주시하되 시장의 과잉 반응은 상황을 오히려 악화시키+ㄴ다는 의견이 나 오+ㄴ 것으로 알려지었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O
-한국은행에서 근무하다 영국 맨체스터대로 유학가면서 카를 마르크스주의를 공부하였다 .	ORG-B O LOC-B LOC-I O O O O O
-지나+ㄴ 2016년 국내 51회와 해외 59회의 DDA를 실시, 총 740명의 치과의사들에게 디지털 임플란트 디오나비의 우수성을 알리+ㄴ 디오는 올해 본격적으로 DDA를 확충하고 양질의 교육, 실습 프로그램을 운영하+ㄹ 계획이다 .	O O O O O O O O O O O ORG-B ORG-I ORG-B O O ORG-B O O O O O O O O O O O
-2017년 DDA는 국내 176회(서울ㆍ 수도권 36회, 강원 12회, 중부ㆍ 전라권 45회, 영남권 83회)와 해외 207회(중국 48회, 미국 28회, 일본 24회, 멕시코 22회, 호주 23회, 대만 20회) 총 383회 실행되+ㄹ 계획이며, 국내 1,214명, 해외 1,901명 등 총 3,115명 치과의사들이 참여하+ㄹ 것으로 예상되 +ㄴ다 .	O O O LOC-B LOC-I O LOC-B O LOC-B LOC-I O LOC-B O O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O
-지나+ㄴ 1월에만 국내에서 열한 차례 DDA를 개최 하+ㄴ 디오는 2월 11일 부산과 서울에서 동시에 DDA를 개최하며, 18일(서울, 광주, 대구, 울산, 전주)과 25일(서울, 경남, 대전, 강원)까지 2월 한 달간 총 11회 DDA를 개최, 운영 하+ㄹ 계획이다 .	O O O O O O O O ORG-B O O LOC-B LOC-B O O O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O
-(주)디오DDA 총괄 김정환 이사는 “작년 한해 크+ㄴ 관심을 받은 DDA를 올해 더 크게 확대+였다”며 “이론, 영상교육, 핸즈온 등 디지털 임플란트 디오나비의 기초부터 실전 테크닉까지 전 부문을 공유 하+ㄹ 수 있는 좋은 기회가 되+ㄹ 것”이라고 강조하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
-DDA의 자세 하+ㄴ일정 및 참가신청은 디오나비 홈페이지에서 하+ㄹ 수 있다 .	O O O O O ORG-B O O O O O
-리콜 대상은 국내 제작사의 경우 △현대자동차의 ＇투싼(TL) ＇8만8514대(제작 시기·2015년 3월 3일~2016년 7월 25일)와 ＇쏘나타(LF) ＇ 등 3개 차종 164대(2016년 5월 21일~2016년 10월 19일) △기아자동차 ＇스포티지(QL) ＇ 6만1662대(2015년 8월 1일~2016년 7월 27일) 등이다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
-이렇게 하+여 양국 간 평화롭 ㄴ시대가 막을 열었다 .	O O O O O O O O O
-하지만 일본의 양심에 기대기에 앞서 +어 협상에서 더 꼼꼼하고, 더 치열하게 ‘양심’을 명문화 하+ㄹ 수+ㄴ 없었는지 많이 답답하다 .	O ORG-B O O O O O O O O O O O O O O O O O
-미국에 본부를 두 +ㄴ 대형 금융회사 이+ㄴ씨티그룹의 경제분석가 이브라힘 라바리 이+ㅂ니다 .	LOC-B O O O O O ORG-B O PER-B PER-I O O
-JJCC와 함께하는 댄스 배틀에는 한국의 대표적 이+ㄴ춤꾼 50명과 세계적 이+ㄴ 태권도 퍼포먼스팀 ‘K타이거즈’가 출연하+여팝핑, 힙합, 락킹, 비보잉 등 화려하+ㄴ춤의 세계를 선보이+ㄴ다 .	ORG-B O O O ORG-B O O O O O O O ORG-B O O O O O O O O O
-JR오미나토세+ㄴ: 두 칸짜리 꼬마 열차가 단선철도로 노헤 지역을 오가+ㄴ다 .	ORG-B O O O O O LOC-B LOC-I ORG-I O
-엠버허드·조니뎁, 결혼설… 전 부인 자녀들도 결혼식 참석 하+ㄴ다 .	PER-B O O O O O O O O
-김태윤은 곧바로 레드카드를 받았고, 전반 6분 이미경고를 받았던 이종성은 2번째 옐로카드를 받고 그라운드를 떠나 +았다 .	PER-B O O O O O O O PER-B O O O O O O O
-성남간판 외국인 선수 티아고가 왼쪽 허벅지 부상으로 전반 24분 장석원으로 교체되 +ㄴ데 잇어 전반 종료 직전에는 수원구자룡이 2번째 옐로카드를 받아 퇴장당하였다 .	LOC-B O O PER-B O O O O O PER-B O O O O O O ORG-B O O O O O
-‘상남자’이지훈 “나이가 들+ㄹ수록 노래가 잘되+어” ‘이지훈=느끼남·바람둥이’ 이미지는 방송예능 프로그램에 의하+여 만들어 지+었다 .	PER-B O O O O PER-B O O O O O O O
+이날 이원종 대통령 비서실 장 주재 로 열린 참모 진 회의 에서 도 긴장감 을 갖 고 예의 주시하 되 시장 의 과잉 반응 은 상황 을 오히려 악화 시킨다는 의견 이 나온 것 으로 알려 졌 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국은행 에서 근무하 다 영국 맨체스터 대 로 유학 가 면서 카를 마르크스주의 를 공부 했 다 .	ORG-B O O O LOC-B LOC-I LOC-I O O O O O O O O O O O
+지난 2016 년 국내 51 회 와 해외 59 회 의 DDA 를 실시 , 총 740 명 의 치과 의사 들 에게 디지털 임플란트 디오 나비 의 우수성 을 알린 디오 는 올해 본격적 으로 DDA 를 확충하 고 양질 의 교육 , 실습 프로그램 을 운영할 계획 이 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+2017 년 DDA 는 국내 176 회 ( 서울 ㆍ 수도권 36 회 , 강원 12 회 , 중부 ㆍ 전라 권 45 회 , 영남 권 83 회 ) 와 해외 207 회 ( 중국 48 회 , 미국 28 회 , 일본 24 회 , 멕시코 22 회 , 호주 23 회 , 대만 20 회 ) 총 383 회 실행될 계획 이 며 , 국내 1,214 명 , 해외 1,901 명 등 총 3,115 명 치과 의사 들 이 참여할 것 으로 예상된다 .	DAT-B DAT-I O O O O O O LOC-B LOC-I LOC-I O O O LOC-B O O O LOC-B LOC-I LOC-I LOC-I O O O LOC-B LOC-I O O O O O O O O LOC-B O O O LOC-B O O O LOC-B O O O LOC-B O O O LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 1 월 에 만 국내 에서 열 한 차례 DDA 를 개최한 디오 는 2 월 11 일 부산 과 서울 에서 동시 에 DDA 를 개최하 며 , 18 일 ( 서울 , 광주 , 대구 , 울산 , 전주 ) 과 25 일 ( 서울 , 경남 , 대전 , 강원 ) 까지 2 월 한 달 간 총 11 회 DDA 를 개최 , 운영할 계획 이 다 .	O DAT-B DAT-I O O O O O O O O O O ORG-B O DAT-B DAT-I DAT-I DAT-I LOC-B O LOC-B O O O O O O O O DAT-B DAT-I O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O O DAT-B DAT-I O LOC-B O LOC-B O LOC-B O LOC-B O O DAT-B DAT-I O O O O O O O O O O O O O O O
+( 주 ) 디오 DDA 총괄 김정환 이사 는 “ 작년 한 해 큰 관심 을 받 은 DDA 를 올해 더 크 게 확대 했 다 ” 며 “ 이론 , 영상 교육 , 핸즈온 등 디지털 임플란트 디오 나비 의 기초 부터 실전 테크닉 까지 전 부문 을 공유할 수 있 는 좋 은 기회 가 될 것 ” 이라고 강조 했 다 .	ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+DDA 의 자세한 일정 및 참가 신청 은 디오 나비 홈페이지 에서 할 수 있 다 .	O O O O O O O O ORG-B ORG-I O O O O O O O
+리콜 대상 은 국내 제작사 의 경우 △ 현대자동차 의 ＇ 투싼 ( TL ) ＇ 8 만 8514 대 ( 제작 시기 · 2015 년 3 월 3 일 ~ 2016 년 7 월 25 일 ) 와 ＇ 쏘나타 ( LF ) ＇ 등 3 개 차종 164 대 ( 2016 년 5 월 21 일 ~ 2016 년 10 월 19 일 ) △ 기아자동차 ＇ 스포티지 ( QL ) ＇ 6 만 1662 대 ( 2015 년 8 월 1 일 ~ 2016 년 7 월 27 일 ) 등 이 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이렇 게 해 양국 간 평화로 운 시대 가 막 을 열 었 다 .	O O O O O O O O O O O O O O O
+하지만 일본 의 양심 에 기대기 에 앞서 협상 에서 더 꼼꼼하 고 , 더 치열하 게 ‘ 양심 ’ 을 명문화할 순 없 었 는지 많이 답답하 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 에 본부 를 둔 대형 금융 회사 인 씨티그룹 의 경제 분석가 이브라힘 라바리 입니다 .	LOC-B O O O O O O O O ORG-B O O O PER-B PER-I O O
+JJCC 와 함께 하 는 댄스 배틀 에 는 한국 의 대표적 인 춤꾼 50 명 과 세계적 인 태권도 퍼포먼스 팀 ‘ K 타이거즈 ’ 가 출연해 팝 핑 , 힙합 , 락 킹 , 비 보잉 등 화려한 춤 의 세계 를 선보인다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+JR 오 미나토 센 : 두 칸 짜리 꼬마 열차 가 단선 철도 로 노 헤지 역 을 오간다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O LOC-B LOC-I LOC-I O O O
+엠버 허드 · 조니 뎁 , 결혼 설 … 전 부인 자녀 들 도 결혼식 참석한다 ?	PER-B PER-I O PER-B PER-I O O O O O O O O O O O O
+김태윤 은 곧바로 레드카드 를 받 았 고 , 전반 6 분 이미 경고 를 받 았 던 이종성 은 2 번째 옐로카드 를 받 고 그라운드 를 떠났 다 .	PER-B O O O O O O O O TIM-B TIM-I TIM-I O O O O O O PER-B O O O O O O O O O O O O
+성남 간판 외국인 선수 티아고 가 왼쪽 허벅지 부상 으로 전반 24 분 장석원 으로 교체된 데 이 어 전반 종료 직전 에 는 수원 구자룡 이 2 번째 옐로카드 를 받 아 퇴장 당 했 다 .	LOC-B O O O PER-B O O O O O TIM-B TIM-I TIM-I PER-B O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O
+‘ 상 남자 ’ 이지훈 “ 나이 가 들수록 노래 가 잘 돼 ” ‘ 이지훈 = 느끼 남 · 바람둥이 ’ 이미지 는 방송 예능 프로그램 에 의해 만들 어 졌 다 .	O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O

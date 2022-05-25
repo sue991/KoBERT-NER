@@ -1,13 +1,13 @@
-김은숙 작가의 신작tvN ‘도깨비’는 캐나다의 광활하+ㄴ 자연을 최대한 활용하+ㄴ다 .	PER-B O O O LOC-B O O O O O
-문재인, 김효석 공동선대위원장 영입 시리아 정부군, 고대 도시 팔미라 재탈환 요양병원 입주 건물 불, 156명 긴급 대피 ‘AI 청정지역’ 고양서도 의심신고 접 .	PER-B PER-B O O ORG-B ORG-I O O LOC-B O O O O O O O O O O LOC-B O O O
-매체는 이 일화를 소개하며 루이청강의 숨기+어지+ㄴ 모습을 알아보+ㄴ 박 대 통력의 통찰력에 중국인들이 감탄하고 있다고 전하였다 .	O O O O PER-B O O O PER-B O O O O O O O O
-이는 2·3차 협력사의 역량 향상을 위하+여 현장 진단을 통하+ㄴ경영·공정·생산기술 등 분야별로 전문가의 컨설팅을 제공하고 생산성 향상을 위하+ 여설비 구입비를 지원하는 프로그램이다 .	O O O O O O O O O O O O O O O O O O O O O O
-이 고택은 청송심씨가 옥으로 1940년대 개축하+ 여 문화재적 이+ㄴ 가치가 없다는 판정을 받았지만 지역민들은 이곳이야학 장소로 사용되는 등 충분히 의미가 있다며 보호를 바라는 상황이다 .	O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
-허다윤 양은 아직 실종 상태+이다 .	PER-B O O O O O
-SKT, ‘T로밍 데이터 원패스프리미엄’ 35개국으로 대폭 확 .	ORG-B O O O O O O O
-충주의 첫 ‘자이’ 브랜드 아파트 +이다 .	LOC-B O ORG-B O O O O
-원세훈 전 국정원장, 구속 240일 만에 보석으로 풀려나+아… “방어권 보장 차원에서 허가 .	PER-B O O O O O O O O O O O O
-세월호 침몰 원인을 규명하기 위하+ㄴ 조사 작업도 본격화 하+ㄴ다 .	O O O O O O O O O O
-대전우송정보대는 제과·제빵교육기관이 +ㄴ 프랑스 국립제빵제과학교(INBP)의 교육과정을 이번 학기에 도입하+여실시중이다 .	ORG-B ORG-I O ORG-B ORG-B O O O O O
-그는 “1당의 표를 10% 정도 가져오면 절대 1번이 당선되 +ㄹ 수 없다 .	O O O O O O O O O O O O O
-그러나 다소 부족하+ㄴ면은 있다 하더라도, 내년 3월 케이블방송 개막 자체에는 크+ㄴ 무리가 없다는 것+이 공보처와 관련 업계 관계자들의 분석이다 .	O O O O O O O O O O O O O O O O O O O O
+김은숙 작가 의 신작 tvN ‘ 도깨비 ’ 는 캐나다 의 광활한 자연 을 최대한 활용한다 .	PER-B O O O O O O O O LOC-B O O O O O O O
+문재인 , 김효석 공동 선대 위원장 영입 시리아 정부 군 , 고대 도시 팔미라 재탈환 요양 병원 입주 건물 불 , 156 명 긴급 대피 ‘ AI 청정 지역 ’ 고양 서 도 의심 신고 접수	PER-B O PER-B O O O O ORG-B ORG-I ORG-I O O O LOC-B O O O O O O O O O O O O O O O O LOC-B O O O O O
+매체 는 이 일화 를 소개하 며 루이청 강의 숨겨 진 모습 을 알아본 박 대통력 의 통찰력 에 중국인 들 이 감탄하 고 있 다고 전 했 다 .	O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O
+이 는 2 · 3 차 협력 사 의 역량 향상 을 위해 현장 진단 을 통한 경영 · 공정 · 생산 기술 등 분야 별 로 전문가 의 컨설팅 을 제공하 고 생산성 향상 을 위해 설비 구입 비 를 지원하 는 프로그램 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 고택 은 청송 심 씨 가옥 으로 1940 년대 개축해 문화재 적 인 가치 가 없 다는 판정 을 받 았 지만 지역민 들 은 이곳 이 야학 장소 로 사용되 는 등 충분히 의미 가 있 다며 보호 를 바라 는 상황 이 다 .	O O O LOC-B PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+허다 윤 양 은 아직 실종 상태 다 .	PER-B PER-I O O O O O O O
+SKT , ‘ T 로밍 데이터 원 패스 프리미엄 ’ 35 개국 으로 대폭 확대	ORG-B O O O O O O O O O O O O O O
+충주 의 첫 ‘ 자이 ’ 브랜드 아파트 다 .	LOC-B O O O ORG-B O O O O O
+원세훈 전 국정원 장 , 구속 240 일 만 에 보석 으로 풀려나 … “ 방어 권 보장 차원 에서 허가 ”	PER-B O O O O O TIM-B TIM-I O O O O O O O O O O O O O O
+세월호 침몰 원인 을 규명하 기 위한 조사 작업 도 본격화한다 .	O O O O O O O O O O O O
+대전 우송 정보 대 는 제과 · 제빵 교육 기관 인 프랑스 국립 제빵 제과 학교 ( INBP ) 의 교육과정 을 이번 학기 에 도입해 실시 중 이 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O
+그 는 “ 1 당 의 표 를 10 % 정도 가져오 면 절대 1 번 이 당선될 수 없 다 .	O O O O O O O O O O O O O O O O O O O O O O
+그러나 다소 부족한 면 은 있 다 하 더라도 , 내년 3 월 케이블 방송 개막 자체 에 는 큰 무리 가 없 다는 게 공보 처 와 관련 업계 관계자 들 의 분석 이 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O

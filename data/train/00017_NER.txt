@@ -1,13 +1,13 @@
-1960년대, 내가 호텔사업을 처음 시작하+ㄹ 때는 침대를 차별화 요소로 내세우는 호텔이 많지 않았다 .	O O O O O O O O O O O O O O
-공자 역시 이렇게 말하였다 .	PER-B O O O O
-그런 포스올림픽은 2년 전에 참가 종목과 경기규칙을 공지하고 1년 반 전에 선수를 선발하+ㄴ다 .	O O O O O O O O O O O O O O
-출산 후 체중이 20kg이나 늘었던 30대 출연자가 돼지고기 위주의 식단으로 체중감량에 성공하+ㄴ비법을 소개하고, 자궁암 판정을 받았던 50대 출연자는 건강을 찾아 주+ㄴ 잉어식이요법을 공개하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-자유한국당은 조건부 해체가 필요하다고 +았고, 바르+ㄴ 정당은 공개 질의에 답변하지 않았다 .	ORG-B O O O O ORG-B ORG-I O O O O O
-정 사장은 전년 대비 순부채 규모를 반으로 줄이+ㄴ 것을 몸에 빗대어 “올해 우리는 지방을 줄이고 근육을 키우어 내 +었다”고 설명하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-유산균 전 문 제조업체 이+ㄴ(주)CTC 바이오가 사단법인 위스타트와 손잡고 국내 저소득층 어린이의 건강증진에 나서 +었다 .	O O O O O O O O O O O O O O O O
-학교 스포츠클럽 선수의 어려움 대전 동산고에 재학 중 이+ㄴ 수영남자 배영의 김동엽 선수는 중학교 시절 스포츠클럽 소속이지만 소년체전에서 메달을 획득하는 등 우수선수 대열에 있었다 .	O O O O ORG-B ORG-I O O O O O PER-B O O O O O O O O O O O O O
-연구를 진행하+ㄴ데어드레바넷(DeirdreBarrett) 박사는 피플매거진과의 인터뷰에서 “개들은 주인에게 엄청나 +ㄴ 애정을 느끼+어주인의 얼굴, 냄새, 주인을 기쁘게 하거나 화나게 하+ㄴ 순간 등 주인과의 기억을 꿈으로 꾸+ㄴ다”고 말하였다 .	O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-'강동원 뉴스룸' 배우 강동원이 '뉴스룸'에서 일이 +ㄹ기상캐스터로 변신하였다 .	PER-B O O PER-B O O O O O
-지나+ㄴ 4일 오후 방송되+ㄴ JTBC '뉴스룸'에서는 영화 '검은 사제들'의 주인공 강동원이 출연하였다 .	O O O O O O O O O O PER-B O O
-하지만 96년 8월 영흥화력 최대 운영 기수를 당초 계획보다 축소 하+여 80만㎾급 총 8개 호기로 확정짓었다 .	O O O O O O O O O O O O O O O O O
-둘째는 2025년까지 여성 경제활동률을 25% 늘리고 고용을 25% 증가시키는 프로젝트+이다 .	O O O O O O O O O O O
+1960 년대 , 내 가 호텔 사업 을 처음 시작할 때 는 침대 를 차별화 요소 로 내세우 는 호텔 이 많 지 않 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공자 역시 이렇 게 말 했 다 .	PER-B O O O O O O O
+그런 포스 올림픽 은 2 년 전 에 참가 종목 과 경기 규칙 을 공지하 고 1 년 반 전 에 선수 를 선발한다 .	O O O O DAT-B DAT-I DAT-I O O O O O O O O O DAT-B DAT-I DAT-I O O O O O O
+출산 후 체중 이 20 kg 이나 늘 었 던 30 대 출연자 가 돼지고기 위주 의 식단 으로 체중 감량 에 성공한 비법 을 소개하 고 , 자궁암 판정 을 받 았 던 50 대 출연자 는 건강 을 찾 아 준 잉어 식이 요법 을 공개한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자유 한국 당 은 조건부 해체 가 필요하 다고 봤 고 , 바른 정당 은 공개 질의 에 답변하 지 않 았 다 .	ORG-B ORG-I ORG-I O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+정 사장 은 전년 대비 순 부채 규모 를 반 으로 줄인 것 을 몸 에 빗대 어 “ 올해 우리 는 지방 을 줄이 고 근육 을 키 워 냈 다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유산균 전문 제조 업체 인 ( 주 ) CTC 바이오 가 사단 법인 위 스타트 와 손 잡 고 국내 저소득층 어린이 의 건강 증진 에 나섰 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+학교 스포츠 클럽 선수 의 어려움 대전 동산고 에 재학 중 인 수영 남자 배영 의 김동엽 선수 는 중학교 시절 스포츠 클럽 소속 이 지만 소년 체전 에서 메달 을 획득하 는 등 우수 선수 대열 에 있 었 다 .	O O O O O O ORG-B ORG-I O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+연구 를 진행한 데어 드레 바넷 ( Deirdre Barrett ) 박사 는 피플 매거진 과 의 인터뷰 에서 “ 개 들 은 주인 에게 엄청난 애정 을 느껴 주인 의 얼굴 , 냄새 , 주인 을 기쁘 게 하 거나 화나 게 한 순간 등 주인 과 의 기억 을 꿈 으로 꾼다 ” 고 말 했 다 .	O O O PER-B PER-I PER-I O PER-B PER-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 강동원 뉴스룸 ' 배우 강동원 이 ' 뉴스룸 ' 에서 일 일 기상 캐스터 로 변신 했 다 .	O PER-B O O O PER-B O O O O O O O O O O O O O O
+지난 4 일 오후 방송된 JTBC ' 뉴스룸 ' 에서 는 영화 ' 검 은 사제 들 ' 의 주인공 강동원 이 출연 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O PER-B O O O O O
+하지만 96 년 8 월 영흥 화력 최대 운영 기수 를 당초 계획 보다 축소해 80 만 ㎾ 급 총 8 개 호기 로 확정 지 었 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+둘째 는 2025 년 까지 여성 경제 활동 률 을 25 % 늘리 고 고용 을 25 % 증가 시키 는 프로젝트 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O

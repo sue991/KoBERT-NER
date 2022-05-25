@@ -1,10 +1,10 @@
-추 의원은 이날 “선심성 공약이 아니+ㄴ국토교통부 주관으로 중장기 계획이 진행되고 있는 사업”이라고 밝히었다 .	PER-B O O O O ORG-B O O O O O O O O
-“두 살 어리+ㄴ 동생(현재 10세, 2012년 10월 당시 18㎏)보다 가볍었다”고 어머니 한씨는 진술하였다 .	O O O O O O O O O O O O O O
-경찰 관계자는 “최씨는 살인 혐의를 부인하고 있지만 아들의 사망 가능성을 예상하면서도 치명상을 입을 만큼 폭력을 가하였고, 처벌을 받을까 보+아다치+ㄴ아들을 방치하였으며, 시신을 잔혹하게 훼손하는 등 살인의 ‘미필적 고의’를 인정하기에 충분하다”고 강조하였다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-KGC인삼공사도 알레나 버그 스마(25득점)~최수빈(14득점)~한수지(10득점·4블로킹)의 삼각편대로 맞서 +었지만, 역부족이었다 .	ORG-B PER-B PER-I PER-B O O O O O
-부정청탁 및 금품 등 수수의 금지에 관하+ㄴ 법률(이하 청탁금지법)이 시행에 들어가 +ㄴ 28일, 이 법의 골격을 만들는 역할을 +였던 최현복 전 국민권익위 부패방지부 위원장은 “입법과정에 참여하면서 눈에 보이지 않는 크+ㄴ스트레스를 받았다”고 회상하였다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
-최 전 부위원장은 이날 CBS 라디오 ‘김현정의 뉴스쇼’와의 인터뷰에서 “입법 과정에 참여하면서 이 법이 정말 시행되리라고 하는 부분에 대하+여서는 대단히 회의적이+ㄴ면이 많았다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-다이얼 패드회사는 야후에 매각되었고, 다이얼패드의 일부 엔지니어와 경영진을 데려가 +ㄴ 구글은 몇 년 후 무료 인터넷 전화 ‘구글 보이스’를 내놓았다 .	O O ORG-B O ORG-B O O O O O ORG-B O O O O O O ORG-B O O O
-[여행, 나를 찾아서]2016년 신년 혜택이 듬뿍! 559만원에 콘도 회원권 .	O O O O O O MNY-B O O O
-좌심실보조장치 중 하나이+ㄴ에이치바드(HVAD·그림)는 혈액 펌프, 시스템 조절 장치, 전 원 장치로 구성되 +ㄴ다 .	O O O O O O O O O O O O O O
-베리 굿 정리 컨설팅 현정미 매니저는 “정리하+ㄹ 시간적 여유가 없거나 심리·육체적으로 혼자 감당하기 어렵ㄴ 여성 고객들이 서비스를 많이 이용하+ㄴ다”고 말하였다 .	O O O O PER-B O O O O O O O O O O O O O O O O
+추 의원 은 이날 “ 선심성 공약 이 아닌 국토 교통 부 주관 으로 중 장기 계획 이 진행되 고 있 는 사업 ” 이라고 밝 혔 다 .	PER-B O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
+“ 두 살 어린 동생 ( 현재 10 세 , 2012 년 10 월 당시 18 ㎏ ) 보다 가벼 웠 다 ” 고 어머니 한 씨 는 진술 했 다 .	O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O
+경찰 관계자 는 “ 최 씨 는 살인 혐의 를 부인하 고 있 지만 아들 의 사망 가능성 을 예상하 면서 도 치명상 을 입 을 만큼 폭력 을 가 했 고 , 처벌 을 받 을까 봐 다친 아들 을 방치 했 으며 , 시신 을 잔혹하 게 훼손하 는 등 살인 의 ‘ 미필 적 고의 ’ 를 인정하 기 에 충분하 다 ” 고 강조 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KGC 인삼 공사 도 알레 나 버그 스마 ( 25 득점 ) ~ 최수빈 ( 14 득점 ) ~ 한수지 ( 10 득점 · 4 블로킹 ) 의 삼각 편대 로 맞섰 지만 , 역부족 이 었 다 .	ORG-B ORG-I ORG-I O PER-B PER-I PER-I PER-I O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+부정 청탁 및 금품 등 수수 의 금지 에 관한 법률 ( 이하 청탁 금지법 ) 이 시행 에 들어간 28 일 , 이 법 의 골격 을 만드 는 역할 을 했 던 최현복 전 국민 권익 위 부패 방지 부위원장 은 “ 입법 과정 에 참여하 면서 눈 에 보이 지 않 는 큰 스트레스 를 받 았 다 ” 고 회상 했 다 .	O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 전 부위원장 은 이날 CBS 라디오 ‘ 김현정 의 뉴스쇼 ’ 와 의 인터뷰 에서 “ 입법 과정 에 참여하 면서 이 법 이 정말 시행되 리라고 하 는 부분 에 대해서 는 대단히 회의적 인 면 이 많 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다이얼패드 회사 는 야후 에 매각 됐 고 , 다이얼패드 의 일부 엔지니어 와 경영진 을 데려간 구글 은 몇 년 후 무료 인터넷 전화 ‘ 구글 보이스 ’ 를 내 놨 다 .	ORG-B O O ORG-B O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+[ 여행 , 나 를 찾 아서 ] 2016 년 신년 혜택 이 듬뿍 ! 559 만 원 에 콘도 회원권 을	O O O O O O O O DAT-B DAT-I O O O O O MNY-B MNY-I MNY-I O O O O
+좌심실 보조 장치 중 하나 인 에이치 바드 ( HVAD · 그림 ) 는 혈액 펌프 , 시스템 조절 장치 , 전원 장치 로 구성된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+베리굿 정리 컨설팅 현정미 매니저 는 “ 정리할 시간적 여유 가 없 거나 심리 · 육체 적 으로 혼자 감당하 기 어려 운 여성 고객 들 이 서비스 를 많이 이용한다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

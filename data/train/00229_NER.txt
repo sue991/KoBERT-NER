@@ -1,13 +1,13 @@
-스스로를 반성하며 편지까지 +었죠. 이후 일본 경기에서 승리를 거두+ㄴ 후 다시금 문제훈 선수와 경기를 갖게 되었습니다 .	O O O O O ORG-B O O O O O PER-B O O O O O
-나영석 “이서진과 미련 없이 헤어지려 +였는데 … .	PER-B PER-B O O O O O O
-찰리 쉬렉의 컨디션이 좋지 않은 상황에서 ‘토종에이스’이 재학마저 무너지자 NC의 부진은 깊어지었다 .	PER-B PER-I O O O O O O O ORG-B O O O
-이재학은 이를 악물었다 .	PER-B O O O
-그의 리그 여섯 번째 골이다 .	O O O O O O
-이로써 기성용은 지난달 27일 맨체스터 유나이티드(이하 맨유) 전에서 5호 골을 기록하며 박지성과 함께 시즌 프리미어리그 최 .	O PER-B O O ORG-B ORG-I ORG-B O O O O PER-B O O O O O
-그는 “야구단에 처음 부임하+ㄴ 우리가 전문가는 아니지 않나.지나 +ㄴ 10개월간 구단을 정확히 진단하고자+였다 .	O O O O O O O O O O O O O O
-V리그가 이들에게 눈을 돌리었다 .	ORG-B O O O O
-재판부는 심씨의 남편이 내심 원하지 않던 성관계를 가지+ㄴ 것으로 보+ㄹ 여지는 있으나, 심씨가 강간의 고의를 갖고 남편의 반항이 불가능하도록 해 강제로 성관계를 가지었다는 점은 합리적 의심이 들지 않을 정도로 증명되지 않았다고 판단하였다 .	O PER-B O PER-B O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O
-재판부는 "심씨가 남편과 한밤중이 되+어서 성관계에 이르+ㄴ과정을 보면 따로 폭행·협박 하+ㄴ바가 없고, 성관계 전후로 분위기가 호전되었다는 점을 심씨와 피해자 이+ㄴ 남편이 모두 인정하고 있다"고 설명하였다 .	O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O
-전년 같은 기간보다는 41.9% 성장 하+ㄴ 것이다 .	O O O O O O O O
-온라인을 통하+ㄴ 반려동물 용품 판매액은 지나 +ㄴ 8월과 9월, 두 달 연속 무더위와 추석 연휴 등의 영향으로 감소세를 보이었었다 .	O O O O O O O O O O O O O O O O O O O O
-한편, 지나+ㄴ 10월의 전체 온라인 쇼핑 판매액은 5조6, 373억원으로 전달의 5조2, 856억원에 비하+여6.7%의 증가세를 나타내 +었고, 지난해 같은 달의 4조8,048억원에 보다는 17.3% 성장하였다 .	O O O O O O O MNY-B MNY-I O MNY-B MNY-B O O O O O O O MNY-B O O O O
+스스로 를 반성하 며 편지 까지 썼 죠 . 이후 일본 경기 에서 승리 를 거둔 후 다시금 문제훈 선수 와 경기 를 갖 게 되 었 습니다 .	O O O O O O O O O O ORG-B O O O O O O O PER-B O O O O O O O O O O
+나영석 “ 이서진 과 미련 없이 헤어지 려 했 는데 … ”	PER-B O PER-B O O O O O O O O O
+찰리 쉬렉 의 컨디션 이 좋 지 않 은 상황 에서 ‘ 토종 에이스 ’ 이재학 마저 무너지 자 NC 의 부진 은 깊어 졌 다 .	PER-B PER-I O O O O O O O O O O O O O PER-B O O O ORG-B O O O O O O O
+이재학 은 이 를 악물 었 다 .	PER-B O O O O O O O
+그 의 리그 여섯 번째 골 이 다 .	O O O O O O O O O
+이 로써 기성용 은 지난달 27 일 맨체스터 유나이티드 ( 이하 맨유 ) 전 에서 5 호 골 을 기록하 며 박지성 과 함께 시즌 프리미어 리그 최다	O O PER-B O O DAT-B DAT-I ORG-B ORG-I O O ORG-B O O O O O O O O O PER-B O O O O O O
+그 는 “ 야구단 에 처음 부임한 우리 가 전문가 는 아니 지 않 나 . 지난 10 개월 간 구단 을 정확히 진단하 고자 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+V 리그 가 이 들 에게 눈 을 돌 렸 다 .	ORG-B ORG-I O O O O O O O O O O
+재판부 는 심 씨 의 남편 이 내심 원 치 않 던 성 관계 를 가진 것 으로 볼 여지 는 있 으나 , 심 씨 가 강간 의 고의 를 갖 고 남편 의 반항 이 불가능 토록 해 강제 로 성 관계 를 가 졌 다는 점 은 합리적 의심 이 들 지 않 을 정도 로 증명되 지 않 았 다고 판단 했 다 .	O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+재판부 는 " 심 씨 가 남편 과 한밤중 이 돼서 성 관계 에 이른 과정 을 보 면 따로 폭행 · 협박한 바 가 없 고 , 성관계 전후 로 분위기 가 호전 됐 다는 점 을 심 씨 와 피해자 인 남편 이 모두 인정하 고 있 다 " 고 설명 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+전년 같 은 기간 보다 는 41.9 % 성장한 것 이 다 .	O O O O O O O O O O O O O
+온라인 을 통한 반려동물 용품 판매액 은 지난 8 월 과 9 월 , 두 달 연속 무더위 와 추석 연휴 등 의 영향 으로 감소세 를 보 였었 다 .	O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O DAT-B O O O O O O O O O O O
+한편 , 지난 10 월 의 전체 온라인 쇼핑 판매액 은 5 조 6,373 억 원 으로 전달 의 5 조 2,856 억 원 에 비해 6.7 % 의 증가세 를 나타냈 고 , 지난해 같 은 달 의 4 조 8,048 억 원 에 보다 는 17.3 % 성장 했 다 .	O O O DAT-B DAT-I O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O

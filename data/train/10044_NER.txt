@@ -1,12 +1,12 @@
-시즌 타율은 0.269에서 0.259(27타수 7안타)로 약간 떨어지었다 .	O O O O O O O O
-그간 박 전 대통령은 자신이 직접 돈을 수수하+ㄴ적이 없다고 주장 하+여+오았다 .	O PER-B O O O O O O O O O O
-그러나 체력 테스트를 부각하고 싶지 않은 데에는 김 감독 특유의 ‘배려’가 담기 +어지+어 있다 .	O O O O O O O PER-B O O O O O O O
-이에 "과연 김기춘"이라는 반응이 쏟아지었다 .	O O PER-B O O O
-다만, 협회는 "한국에서도 다른 선진국처럼 제대로 되+ㄴ타투문화가 정착되려면 문신 시술자들에 대하+ㄴ보건당국의 위생교육의무화와 정기적 이+ㄴ 관리감독이 필요하다"는 점을 강조하였다 .	O O ORG-B O O O O O O O O O O O O O O O O
-김 대표 측은 우선 추천지역에 대구·경북이 나 서울 강남지역은 배제하+여야 하+ㄴ다는 입장이지만 친박계는 두 지역도 가능하다고 주장 하+ㄴ다 .	PER-B O O O O LOC-B O LOC-B LOC-I O O O O O O O O O O
-서승욱 기자sswook@j oongang. co.kr◆관련 기사[정치Who&Why] 상향식 공천 집착 김무성 사심?진 심?친박두둔 원유철 ‘무대’와 멀어 지 .	PER-B O O O O O O O PER-B O O PER-B O O O O
-경추(목)에는 다양하+ㄴ 부위에 통증이 유발되는데 4~5번 디스크에 문제가 생기면 어깨와 삼각근 부위에, 경추 5~6번 디스크는 팔에 바깥쪽과 엄지와 검지에, 6~7번 디스크가 돌출하+ㄴ 경우에 +ㄴ팔 뒤쪽과 가운데 세 개 손가락에 통증이 나타나게 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-새나래병원에 따르면 경추질환은 다양하+ㄴ 치료방법이 있는데 초기의 가볍은 통증에는 주사요법이나 물리치료를 시행하+ㄹ 수 있다 .	ORG-B O O O O O O O O O O O O O O
-설 연휴 야간 임시전동열차 운행…"귀경 고객의 편안하+ㄴ 귀가위 하+여"새벽 2시까 .	O O O O O O O O O O O
-통계청에 따르면 지난해 평균 소비성향(한 가구가 벌어들이 +ㄴ 소득 중에서 얼마만큼을 소비지출하는가를 나타내는 지표)은 역대 최저치를 기록하였지만 오락·문화(5.6%), 가정용품·가사서비스(5.5%), 음식·숙박(4.7%) 등의 가치소비와 같은 효율을 따지는 소비가 증가세에 있는 것이 이를 뒷받침하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-1994년을 시작으로 올해 23년째를 맞이하는 ‘북미 올해의 차’는 북미에서 활동 중 이+ㄴ 자동차 전문기자 60여명으로 구성되 +ㄴ 심사위원들이 제품의 혁신성, 디자인, 안전성, 성능, 기술 등 다양하+ㄴ 평가항목에 대하+ㄴ엄격 하+ㄴ 심사를 통하+여 올해의 차를 선정하+ㄴ다 .	O O O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+시즌 타율 은 0.269 에서 0.259 ( 27 타수 7 안타 ) 로 약간 떨어 졌 다 .	O O O O O O O O O O O O O O O O O O
+그간 박 전 대통령 은 자신 이 직접 돈 을 수수한 적 이 없 다고 주장해 왔 다 .	O PER-B O O O O O O O O O O O O O O O O O
+그러나 체력 테스트 를 부각하 고 싶 지 않 은 데 에 는 김 감독 특유 의 ‘ 배려 ’ 가 담겨 져 있 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+이 에 " 과연 김기춘 " 이 라는 반응 이 쏟아 졌 다 .	O O O O PER-B O O O O O O O O O
+다만 , 협회 는 " 한국 에서 도 다른 선진국 처럼 제대로 된 타투 문화 가 정착되 려면 문신 시술자 들 에 대한 보건 당국 의 위생 교육 의무화 와 정기적 인 관리 감독 이 필요하 다 " 는 점 을 강조 했 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 대표 측 은 우선 추천 지역 에 대구 · 경북 이나 서울 강남 지역 은 배제해야 한다는 입장 이 지만 친 박 계 는 두 지역 도 가능하 다고 주장한다 .	PER-B O O O O O O O LOC-B O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O
+서승욱 기자 sswook @ joongang . co . kr ◆ 관련 기사 [ 정치 Who & Why ] 상향 식 공천 집착 김무성 사심 ? 진심 ? 친 박 두둔 원유철 ‘ 무대 ’ 와 멀 어 지 나	PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O
+경추 ( 목 ) 에 는 다양한 부위 에 통증 이 유발되 는데 4 ~ 5 번 디스크 에 문제 가 생기 면 어깨 와 삼각근 부위 에 , 경추 5 ~ 6 번 디스크 는 팔 에 바깥쪽 과 엄지 와 검지 에 , 6 ~ 7 번 디스크 가 돌출한 경우 엔 팔 뒤쪽 과 가운데 세 개 손가락 에 통증 이 나타나 게 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새 나래 병원 에 따르 면 경추 질환 은 다양한 치료 방법 이 있 는데 초기 의 가벼 운 통증 에 는 주사 요법 이나 물리 치료 를 시행할 수 있 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+설 연휴 야간 임시 전동 열차 운행 … " 귀경 고객 의 편안한 귀 가 위해 " 새벽 2 시 까지	O O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I O
+통계청 에 따르 면 지난해 평균 소비 성향 ( 한 가구 가 벌어들인 소득 중 에서 얼마 만큼 을 소비 지출하 는가 를 나타내 는 지표 ) 은 역대 최저치 를 기록 했 지만 오락 · 문화 ( 5.6 % ) , 가정용품 · 가사 서비스 ( 5.5 % ) , 음식 · 숙박 ( 4.7 % ) 등 의 가치 소비 와 같 은 효율 을 따지 는 소비 가 증가세 에 있 는 것 이 이 를 뒷받침한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1994 년 을 시작 으로 올해 23 년 째 를 맞이하 는 ‘ 북미 올해 의 차 ’ 는 북미 에서 활동 중 인 자동차 전문 기자 60 여 명 으로 구성된 심사 위원 들 이 제품 의 혁신 성 , 디자인 , 안전성 , 성능 , 기술 등 다양한 평가 항목 에 대한 엄격한 심사 를 통해 올해 의 차 를 선정한다 .	DAT-B DAT-I O O O O O O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-반면 정기섭 개성공단기업협회 회장은 70% 서기 실상납은 “불가능하+ㄴ 얘기”+이라며 “상당 부분은 실제로 근로자들에게 쓰이었을 것”이라고 주장하였다 .	O PER-B ORG-B O O O O O O O O O O O O O O
-GS칼텍스, 동호인 대상 ‘배구 클리닉’ 운영 GS칼텍스 배구단이 15일부터 장충체육관 보조체육관에서 서울지역 배구붐 조성과 저변 확대를 위하+ 여배구동호인을 대상으로 배구클리닉을 운영하+ㄴ다 .	ORG-B O O O O O ORG-B O O LOC-B O LOC-B O O O O O O O O O O
-또 여성의 대학 진학률은 꾸준히 오르고 있지만 공학 계열 여학생 비율은 지난해 기준으로 17%로 여전히 저조하다 .	O O O O O O O O O O O O O O O O O
-차이나데일리 등 중국 언론들은 7일(현지시간) “올해 3분기(7∼9월) 중국 스마트폰 시장 점유율에서 엄청나 +ㄴ 변화가 목격되었다”며 “중국 스마트폰 시장 점유율에서 오포, 비보가 화웨이와 샤오미를 제치고 1, 2위를 차지하였다”고 보도하였다 .	O O ORG-B O O O O ORG-B O O O O O O O ORG-B O O O ORG-B ORG-B ORG-B ORG-B O O O O O O
-‘BBK 의혹’ 김경준, 미국행 비행기 … 취재진 질문에 ‘묵묵부답 .	ORG-B O PER-B LOC-B O O O O O O
-‘무한도전’하시마섬, 일본 관광안내원 조선인 강제징용 사실 알리지 않아 … 12일 방송되+ㄴ MBC 무한도전은 '배달 의무도' 특집으로 꾸미+어+지었다 .	LOC-B ORG-B O ORG-B O O O O O O O ORG-B O O O O O O
-이상천 국가과학기술연구회 이사 .	PER-B ORG-B O O
-요즘 인터넷에 돌아다니는 사진 한 장을 보고 나는 배꼽을 잡는 동시에 소스라치게 놀라 +았다 .	O O O O O O O O O O O O O O O
-시중에 알려지+ㄴ바로는 개인용 드론의 가격은 약 400만원에 이르며, 카메라, 센서 등이 탑재되어 있고 최소 25g부터 1200kg까지 무게와 크기도 다양하다고 하+ㄴ다 .	O O O O O O MNY-B O O O O O O O O O O O O O O
-또 서울 평창동에 위치하+ㄴ 김동완의 집은 고풍스럽+ㄴ 가구와 각종 악기, 책으로 빼곡히 채우어 지+어 있으며, 한쪽에는 천체망원경까지 구비되+어 있어 눈길을 끌었다 .	O LOC-B LOC-B O PER-B O O O O O O O O O O O O O O O O O
-뿐만 아니라 김동완 이외출하는 장면에서 김동완의 스포츠카 포르쉐 911이 공개되었다 .	O O PER-B O O PER-B O O O O O
-“첫째를 집 근처 국공립 어린이집에 보내려고 2년 넘게 기다리었는데 아직도 대기번호가 20번 대”라고 +였다 .	O O O O O O O O O O O O O O O
+반면 정기섭 개성 공단 기업 협회 회장 은 70 % 서기 실 상납 은 “ 불가능한 얘기 ” 라며 “ 상당 부분 은 실제로 근로자 들 에게 쓰 였 을 것 ” 이라고 주장 했 다 .	O PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+GS 칼텍스 , 동호인 대상 ‘ 배구 클리닉 ’ 운영 GS 칼텍스 배구 단 이 15 일 부터 장충체육관 보조 체육관 에서 서울 지역 배구 붐 조성 과 저변 확대 를 위해 배구 동호인 을 대상 으로 배구 클리닉 을 운영한다 .	ORG-B ORG-I O O O O O O O O ORG-B ORG-I O O O DAT-B DAT-I O LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O
+또 여성 의 대학 진학률 은 꾸준히 오르 고 있 지만 공학 계열 여학생 비율 은 지난해 기준 으로 17 % 로 여전히 저조하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+차이나데일리 등 중국 언론 들 은 7 일 ( 현지 시간 ) “ 올해 3 분기 ( 7 ∼ 9 월 ) 중국 스마트 폰 시장 점유율 에서 엄청난 변화 가 목격 됐 다 ” 며 “ 중국 스마트 폰 시장 점유율 에서 오포 , 비보 가 화웨이 와 샤오미 를 제치 고 1 , 2 위 를 차지 했 다 ” 고 보도 했 다 .	O O ORG-B O O O DAT-B DAT-I O O O O O O O O O DAT-B O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+‘ BBK 의혹 ’ 김경준 , 미국 행 비행기 … 취재진 질문 에 ‘ 묵묵부답 ’	O ORG-B O O PER-B O LOC-B O O O O O O O O O
+‘ 무한도전 ’ 하 시마 섬 , 일본 관광 안내원 조선 인 강제 징용 사실 알리 지 않 아 … 12 일 방송된 MBC 무한도전 은 ' 배달 의 무도 ' 특집 으로 꾸며 졌 다 .	O O O LOC-B LOC-I LOC-I O ORG-B O O ORG-B O O O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O
+이상천 국가 과학 기술 연구회 이사장	PER-B ORG-B ORG-I ORG-I ORG-I O
+요즘 인터넷 에 돌아다니 는 사진 한 장 을 보 고 나 는 배꼽 을 잡 는 동시 에 소스라치 게 놀랐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+시중 에 알려진 바 로 는 개인 용 드론 의 가격 은 약 400 만 원 에 이르 며 , 카메라 , 센서 등 이 탑재 되 어 있 고 최소 25 g 부터 1200 kg 까지 무게 와 크기 도 다양하 다고 한다 .	O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 서울 평창동 에 위치한 김동완 의 집 은 고풍스런 가구 와 각종 악기 , 책 으로 빼곡히 채 워 져 있 으며 , 한쪽 에 는 천체 망원경 까지 구비돼 있 어 눈길 을 끌 었 다 .	O LOC-B LOC-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+뿐 만 아니 라 김동완 이 외출하 는 장면 에서 김동완 의 스포츠카 포르쉐 911 이 공개 됐 다 .	O O O O PER-B O O O O O PER-B O O O O O O O O O
+“ 첫째 를 집 근처 국공립 어린이집 에 보내 려고 2 년 넘 게 기다 렸 는데 아직 도 대기 번호 가 20 번 대 ” 라고 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-'마리텔' 백종원, 홍석천 요리고수들의 대결!… 흥미진 .	O PER-B PER-B O O O O
-이들 물품은 10명 이상 희망자들이 있었지만 50대 시민이 두 제품 모두 낙찰받았다 .	O O O O O O O O O O O O O
-80대 운전자가 젊었을 때 감각만 믿고 운전대를 잡으면 어떻 +ㄹ까. 처음에 +ㄴ 대수롭지 않게 여기었다 .	O O O O O O O O O O O O O O O O
-인재양성은 그가 이 사장을 맡고 있는 동원육영재단이 수행하는데, 평소 창의적 이+ㄴ 그의 태도처럼 프로그램이 실질적이면서 재미가 있다 .	O O O O O O ORG-B O O O O O O O O O O O
-A씨는 메르스 확진 판정을 받았던 40대 남성과 같은 병실을 사용하+ㄴ바 있어 지난달 30일부터 격리치료를 받고 있었다 .	PER-B O O O O O O O O O O O O O O O O
-특히 A씨는 지나 +ㄴ 2일 메르스 음성 판정을 받았지만 2차 검사에서 양성으로 나타나 +ㄴ 것으로 전하여 +지+었다 .	O PER-B O O O O O O O O O O O O O O O O
-이런 길건의 행동을 회사에서는 더 이상 받아들이+ㄹ 수 없었고, 길건 역시 회사와 함께하는 것은 어렵다고 판단하였다 .	O PER-B O O O O O O O PER-B O O O O O O O
-4. ‘전속계약 해지 통지 및 급원 지급 청구’에 대하+ㄴ 내용증명위와 같은 사실을 보건대, 회사는 길 건에게 소송이 아니+ㄴ 내용증명서(전속계약해지 통지 및 금원지급 청구-2014년 11월 18일)를 보내는 것은 당연하+ㄴ일이다 .	O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
-일본은 풍부하+ㄴ자본력, 첨단 기술, 조직력, 기업의 품질관리 능력 등이 앞서 +어 있으며, 러시아도 지하자원과 과학기술을 무시하+ㄹ 수 없죠 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O
-김(본명 김귀옥·63·사진)씨가 마약 투약 혐의로 구속되었다 .	PER-B PER-B O O O O O
-제주관광공사와 웰콤퍼블리시스가 주최하고 제주특별자치도가 후원 하+ㄴ다 .	ORG-B ORG-B O ORG-B O O O
-동아일보와 아산정책연구원의 공동 여론조사 결과 국민 10명 중 6명은 흡수통일에 찬성하는 것으로 나타나 +았다 .	ORG-B ORG-B O O O O O O O O O O O O O
-혜리는 지성의 따뜻하+ㄴ 배려에 좋은 연기로 보답하고자 누구보다 열심히 연기하고 있다”며 “이처럼 서로를 생각하는 두 사람의 따뜻하+ㄴ 마음이 드라마 속에서 석호와 그린의 케미로 뿜어 지+어나오고 있으니 많은 기대 부탁드리+ㄴ다”라고 전 하+ 여두 사람이 보이어주+ㄹ 설레+ㅁ 가득 하+ㄴ케미에 기대감을 높이었다 .	PER-B PER-B O O O O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O O O O O O O O O O
-‘딴따라’는 ‘돌아오아요아저씨’ 후속으로 20일 첫 방송되+ㄹ 예정이다 .	O O O O O O O O
-3, 4일은 ‘일과 꿈’을 테마로 하+ㄴ 강연과 체험으로 꾸리+어+지었다 .	O O O O O O O O O O
+' 마리 텔 ' 백종원 , 홍석천 요리 고수 들 의 대결 ! … 흥미진진	O O O O PER-B O PER-B O O O O O O O O
+이 들 물품 은 10 명 이상 희망자 들 이 있 었 지만 50 대 시민 이 두 제품 모두 낙찰 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+80 대 운전자 가 젊 었 을 때 감각 만 믿 고 운전대 를 잡 으면 어떨까 . 처음 엔 대수롭 지 않 게 여 겼 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인재 양성 은 그 가 이사장 을 맡 고 있 는 동원 육영 재단 이 수행하 는데 , 평소 창의적 인 그 의 태도 처럼 프로그램 이 실질적 이 면서 재미 가 있 다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+A 씨 는 메르스 확진 판정 을 받 았 던 40 대 남성 과 같 은 병실 을 사용한 바 있 어 지난달 30 일 부터 격리 치료 를 받 고 있 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+특히 A 씨 는 지난 2 일 메르스 음성 판정 을 받 았 지만 2 차 검사 에서 양성 으로 나타난 것 으로 전해 졌 다 .	O PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+이런 길 건 의 행동 을 회사 에서 는 더 이상 받아들일 수 없 었 고 , 길 건 역시 회사 와 함께하 는 것 은 어렵 다고 판단 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
+4 . ‘ 전속 계약 해지 통지 및 급원 지급 청구 ’ 에 대한 내용 증명 위 와 같 은 사실 을 보 건대 , 회사 는 길 건 에게 소송 이 아닌 내용 증명서 ( 전속 계약 해지 통지 및 금원 지급 청구 - 2014 년 11 월 18 일 ) 를 보내 는 것 은 당연한 일 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O
+일본 은 풍부한 자본력 , 첨단 기술 , 조직력 , 기업 의 품질 관리 능력 등 이 앞서 있 으며 , 러시아 도 지하자원 과 과학 기술 을 무시할 수 없 죠 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+김 ( 본명 김귀옥 · 63 · 사진 ) 씨 가 마약 투약 혐의 로 구속 됐 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O
+제주 관광 공사 와 웰콤퍼블리시스 가 주최하 고 제주 특별 자치 도가 후원한다 .	ORG-B ORG-I ORG-I O ORG-B O O O ORG-B ORG-I ORG-I O O O
+동아일보 와 아산 정책 연구 원 의 공동 여론 조사 결과 국민 10 명 중 6 명 은 흡수 통일 에 찬성하 는 것 으로 나타났 다 .	ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+혜리 는 지성 의 따뜻한 배려 에 좋 은 연기 로 보답하 고자 누구 보다 열심히 연기하 고 있 다 ” 며 “ 이 처럼 서로 를 생각하 는 두 사람 의 따뜻한 마음 이 드라마 속 에서 석호 와 그린 의 케미 로 뿜 어 져 나오 고 있 으니 많 은 기대 부탁 드린다 ” 라고 전해 두 사람 이 보 여 줄 설렘 가득한 케미 에 기대감 을 높 였 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 딴따라 ’ 는 ‘ 돌아 와요 아저씨 ’ 후속 으로 20 일 첫 방송될 예정 이 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O
+3 , 4 일 은 ‘ 일 과 꿈 ’ 을 테마 로 한 강연 과 체험 으로 꾸려 졌 다 .	DAT-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-노근창 HMC투자증권 연구위원은 “새롭ㄴ 색상으로 판매 열풍을 일으키기에 +ㄴS7은 출시되+ㄴ지 9개월이 넘은 구 모델”이라고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O
-“동료 치과의사나 한의사 가운데는 여성회원 한 명당 5회에 걸치+어한 회 최대 30만원까지 데이트 비용으로 지원받기도 +였다더라”는 것+이 김씨의 말이다 .	O O O O O O O O O O O MNY-B O O O O O PER-B O O
-한편, 22일 방송되+ㄴ 케이블 채널 tvN ‘수요 미식회’에서는 MC신동엽, 강용석, 이연복·최현석 셰프 등이 출연하+여짬뽕맛집을 소개하였다 .	O O O O O ORG-B O O PER-B PER-B PER-B O O O O O
-이날 ‘수요 미식회’에서는 공주 동해원, 부천 태원, 서울 마포구 초마를 짬뽕 맛집으로 선정하+여소개하였다 .	O O O LOC-B LOC-I LOC-B LOC-I LOC-B LOC-B LOC-I O O O O
-문씨와 손씨는 판결에 불복, 항소하였으며, 검찰 역시 항소 하+여2심이 진행되 +ㄹ 예정이다 .	PER-B PER-B O O O O O O O O O O O
-장그래는 사무실에서 점심을 배달하+여먹고 치우다가 그릇을 바닥에 쏟았다 .	PER-B O O O O O O O O
-이곳의 난파선에 쌓이 +ㄴ희+ㄴ돌에 송중기는 ‘중기 ♡ 광수’+이라는 글을 남기기도 +였다 .	O O O O PER-B PER-B O PER-B O O O O
-배용준 박수진 결혼식, 열애 5개월 만에 결실… 축가 라인업 보니 ‘콘서트급’ 배우 배용준과 박수진이 5개월의 열애 끝에 오늘(27일) 결혼 하+ㄴ다 .	PER-B PER-B O O O O O O O O O O PER-B PER-B O O O O O O O
-배용준과 박수진은 27일 서울 쉐라톤 그랜드 워커힐 애스톤 하우스에서 양가 친척 및 지인들을 초대하+여비공해로 결혼식을 올리+ㄹ 예정이다 .	PER-B PER-B O LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O
-이날 결혼식에서 박진영과 더원, 포맨멤버 신용재가 축가를 부르+ㄴ다 .	O O PER-B ORG-B ORG-B PER-B O O O
-◆금융소득종합과세는 기존 예금, 신규 예금을 가리지도, 금융기관을 따지지도 않는다=1년간 총 금융소득이 4천만원을 넘으면 종합과세 대상자의 리스트에 오르+ㄴ다 .	O O O O O O O O O O O MNY-B O O O O O O
-이 사건으로 가해자를 포함하+여 3명이 숨지고 2명이 부상하였다 .	O O O O O O O O O
-이란 항공 당국도 “사우디의 외교관계 중단에 따르 아(사우디와의) 항공편 운항을 중단하+ㄴ다”고 밝히었다 .	ORG-B ORG-I O ORG-B O O O ORG-B ORG-I O O O O
-헝가리 영화 ‘사울의 아들’에 외국어 영화상이 돌아가자 이병헌은 수상의 주인공이 되+ㄴ 라슬로네 메시 감독에게 트로피를 건네+었다 .	ORG-B O O O O O O PER-B O O O PER-B PER-I O O O O
-PGA투어는 파3홀의 티샷 때 첫 번째 선수에게는 60초, 그 다음 선수들에게는 40초의 시간을 주+ㄴ다 .	ORG-B O O O O O O O O O O O O O O
+노근창 HMC 투자 증권 연구 위원 은 “ 새로 운 색상 으로 판매 열풍 을 일으키 기 엔 S 7 은 출시된 지 9 개월 이 넘 은 구 모델 ” 이라고 말 했 다 .	PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 동료 치과 의사 나 한의사 가운데 는 여성 회원 한 명 당 5 회 에 걸쳐 한 회 최대 30 만 원 까지 데이트 비용 으로 지원 받 기 도 했 다더라 ” 는 게 김 씨 의 말 이 다 .	O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O PER-B O O O O O O
+한편 , 22 일 방송된 케이블 채널 tvN ‘ 수요미식회 ’ 에서 는 MC 신동엽 , 강용석 , 이연복 · 최현석 셰프 등 이 출연해 짬뽕 맛집 을 소개 했 다 .	O O DAT-B DAT-I O O O ORG-B O O O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O
+이날 ‘ 수요미식회 ’ 에서 는 공주 동해원 , 부천 태원 , 서울 마포구 초마 를 짬뽕 맛집 으로 선정해 소개 했 다 .	O O O O O O LOC-B LOC-I O LOC-B LOC-I O LOC-B LOC-B LOC-I O O O O O O O O O
+문 씨 와 손 씨 는 판결 에 불복 , 항소 했 으며 , 검찰 역시 항소해 2 심 이 진행될 예정 이 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O
+장그래 는 사무실 에서 점심 을 배달해 먹 고 치우 다가 그릇 을 바닥 에 쏟 았 다 .	PER-B O O O O O O O O O O O O O O O O O O
+이 곳 의 난파선 에 쌓인 흰 돌 에 송중기 는 ‘ 중기 ♡ 광수 ’ 라는 글 을 남기 기 도 했 다 .	O O O O O O O O O PER-B O O PER-B O PER-B O O O O O O O O O O
+배용준 박수진 결혼식 , 열애 5 개월 만 에 결실 … 축가 라인업 보 니 ‘ 콘서트 급 ’ 배우 배용준 과 박수진 이 5 개월 의 열애 끝 에 오늘 ( 27 일 ) 결혼한다 .	PER-B PER-B O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O DAT-B DAT-I O O O
+배용준 과 박수진 은 27 일 서울 쉐라톤 그랜드 워커힐 애스톤 하우스 에서 양가 친척 및 지인 들 을 초대해 비 공해 로 결혼식 을 올릴 예정 이 다 .	PER-B O PER-B O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O
+이날 결혼식 에서 박진영 과 더 원 , 포맨 멤버 신용재 가 축가 를 부른다 .	O O O PER-B O ORG-B ORG-I O ORG-B O PER-B O O O O O
+◆ 금융 소득 종합 과세 는 기존 예금 , 신규 예금 을 가리 지 도 , 금융 기관 을 따지 지 도 않 는다 = 1 년 간 총 금융 소득 이 4 천만 원 을 넘 으면 종합 과세 대상자 의 리스트 에 오른다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+이 사건 으로 가해자 를 포함해 3 명 이 숨지 고 2 명 이 부상 했 다 .	O O O O O O O O O O O O O O O O O O
+이란 항공 당국 도 “ 사우디 의 외교 관계 중단 에 따 라 ( 사우디 와 의 ) 항공편 운항 을 중단한다 ” 고 밝 혔 다 .	ORG-B ORG-I O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O
+헝가리 영화 ‘ 사울 의 아들 ’ 에 외국어 영화상 이 돌아가 자 이병헌 은 수상 의 주인공 이 된 라슬로 네 메시 감독 에게 트로피 를 건넸 다 .	ORG-B O O O O O O O O O O O O PER-B O O O O O O PER-B PER-I PER-I O O O O O O O
+PGA 투어 는 파 3 홀 의 티 샷 때 첫 번째 선수 에게 는 60 초 , 그 다음 선수 들 에게 는 40 초 의 시간 을 준다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

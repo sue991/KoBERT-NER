@@ -1,7 +1,7 @@
-전날 윤상현 의원의 일부 언론 인터뷰 때문이다 .	O PER-B O O O O O O
-광주지법 형사합의11부(부장판사 박용우)는 도장에서 가르치던 초등학생 A양을 성폭행 하+ㄴ 혐의(성폭력 범죄의 처벌 등에 관하+ㄴ 특례법 위반)로 구속기소되+ㄴ 신모씨(26)에 대하+ 여 징역 7년을 선고하었다고 밝히었다 .	ORG-B ORG-I PER-B O O O PER-B O O O O O O O O O O PER-B O O O O O O O
-지난해 영국 로열필하모니 오케스트라와 협연을 펼치+어크+ㄴ화제를 불러일으키기도 하+ㄴ티 스퀘어는 78년 첫 앨범 「럭키서 머레이디」로 데뷔, 80년 4번째 앨범 「로쿤」이 대중적으로 폭발적 반응을 얻으며 정상의 인기를 누리+어 오+ㄴ 재즈 연주그룹 .	O ORG-B ORG-I ORG-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
-또 같은 해 4월에는 한 40대 남성이 채팅 사이트에서 만나 +ㄴ여중생을 속이어 만나 +ㄴ 뒤 네 차례나 성폭행 하+여법원에서 징역 12년을 선고받기도 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-남중국해 美-中 갈등, 무역전쟁으로 번지+ .	LOC-B ORG-B O O O O
--ㅂ-조기자: 오오. 이렇게 하+여서 훌륭하+ㄴ 엔딩이 진행되는군요. 무사히 실비아를 구출하었네요.꿀 딴지곰 : 이 게임을 좋아하는 분들이 얼마나 많았는지, 이 게임과 관련 하+여서 다양하+ㄴ 오마쥬 영상들도 많습니다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
-육아로 인하+여스타트업 커뮤니티에 참여하기 힘들 +ㄴ 20∼40대 여성이 아기와 함께 참여 하+ㄹ 수 있는 창업지원 프로그램이다 .	O O O O O O O O O O O O O O O O O
+전날 윤상현 의원 의 일부 언론 인터뷰 때문 이 다 .	DAT-B PER-B O O O O O O O O O
+광주 지법 형사 합의 11 부 ( 부장판사 박용우 ) 는 도장 에서 가르치 던 초등학생 A 양 을 성폭행한 혐의 ( 성폭력 범죄 의 처벌 등 에 관한 특례법 위반 ) 로 구속 기소된 신 모 씨 ( 26 ) 에 대해 징역 7 년 을 선고 했 다고 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+지난해 영국 로열 필하모니 오케스트라 와 협연 을 펼쳐 큰 화제 를 불러일으키 기 도 한 티 스퀘어 는 78 년 첫 앨범 「 럭키 서머 레이디 」 로 데뷔 , 80 년 4 번째 앨범 「 로쿤 」 이 대중적 으로 폭발적 반응 을 얻 으며 정상 의 인기 를 누려 온 재즈 연주 그룹 .	O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+또 같 은 해 4 월 에 는 한 40 대 남성 이 채팅 사이트 에서 만난 여중생 을 속 여 만난 뒤 네 차례 나 성폭행해 법원 에서 징역 12 년 을 선고 받 기 도 했 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남중국해 美 - 中 갈등 , 무역 전쟁 으로 번져	LOC-B ORG-B ORG-I ORG-I O O O O O O
+- ㅂ - 조 기자 : 오오 . 이렇 게 해서 훌륭한 엔딩 이 진행되 는군요 . 무사히 실비아 를 구출 했 네요 . 꿀딴지곰 : 이 게임 을 좋아하 는 분 들 이 얼마나 많 았 는지 , 이 게임 과 관련해서 다양한 오마 쥬 영상 들 도 많 습니다 .	O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+육아 로 인해 스타트 업 커뮤니티 에 참여하 기 힘든 20 ∼ 40 대 여성 이 아기 와 함께 참여할 수 있 는 창업 지원 프로그램 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

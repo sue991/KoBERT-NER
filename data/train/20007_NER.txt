@@ -1,14 +1,14 @@
-두 사람의 결혼에 대하+여전 하+여 듣은 바 없다”며 “잘 만나고 있다는 이야기만 본인에게 듣었을 뿐이다 .	O O O O O O O O O O O O O O O O
-더불어민주당 안민석 의원은 14일 이른바 ‘최순실 특혜 연예인’ 의혹과 관련, 자신이 검찰에 특정 연예인들에 대하+ㄴ 수사를 의뢰하였다는 내용의 루머를 부인하였다 .	ORG-B PER-B O O O PER-B O O O O O O O O O O O O O O O
-‘야채가 신선하+ㄴ집’ 채선당(대표 김익수)은 이러하+ㄴ 수요를 반영하 +ㄴ 여름 신메뉴 ‘냉메밀 샤부샤부’를 선보이며 소비자들의 입맛을 사로잡고 있다 .	O O ORG-B PER-B O O O O O O O O O O O O O O
-〈안희창 ­ 구성재기자 .	PER-B O PER-B O
-그러나 영주산은 오르아야 하는 오름이다 .	O LOC-B O O O O
-보사부가 26일 의료보장 개혁위가 건의하+ㄴ「포괄수가제」의 실시를 적극 검토 하+ㅁ에 따르 아 앞으로 이의 실시를 둘러싸고 의료계에서 상당하+ㄴ 논란이 일어나 +ㄹ 전망이다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O
-서+ㄴ 박사는 “미국이 세계 인공관절 시장의 52%를 차지하는 만큼 미국에서 살아남지 못하면 의미가 없다”며 “올해와 내년에 미국에서 가시적 이+ㄴ 성과를 내기 위하+여바이어들을 만나고 있다”고 강조하였다 .	PER-B O ORG-B O O O O O O ORG-B O O O O O O ORG-B O O O O O O O O O
-홍 후보는 이날 대구 엑스코에서 열리+ㄴ대구·경북선대위 발대식 겸 필승대회에서 “어떤 분이 TK 적자는 바른정당 유승민 후보+이라고 하길래 제가 TK 적자 +이라고 +였다”며 “TK가 다시 한 번 가슴에 불을 지르고 뭉치고 새롭게 일어나 +아야 하+ㄴ다 .	PER-B O O LOC-B LOC-I LOC-B O O O O O LOC-B O ORG-B PER-B O O O LOC-B O O O LOC-B O O O O O O O O O O O O
-이와 더불어 쉐보레 차량 재구매로 스파크를 구매 하+ㄹ 경우 40만원, 마티즈, 라노스, 누비라, 레간자, 레조, 매그너스 등의 구형차량을 반납하고 스파크를 구매하는 경우에는 30만원을 추가로 지원받을 수 있다 .	O O O O O O O O O MNY-B O O O O O O O O O O O O MNY-B O O O O O
-규모 4.0~5.0는 1회+이었으나 19일 규모 4.5의 여진이 발생하+ㅁ에 따르 아2회로 늘었다 .	O O O O O O O O O O O O
-컴백스텔라, 끈 팬티노출 ?…과 거 ‘U.F.O’ 티저서 ‘속옷 노출’ 논 .	ORG-B O O O O O O O O O O
-이영돈 PD가 가+ㄴ 다… '크림빵, 고라니 뺑소니' 집중 조 .	O O O O O O O O O O
-브리핑장에서 세상에 만연하+ㄴ한 탕주의에 경종을 울리고, 사회를 좀먹는 불법 온라인 도박사이트의 어둡ㄴ 현실을 알리+ㄴ 사람은 서울지방경찰청 사이버안전과 사이버수사대 수사 1팀의 김대환(53) 팀장이었다 .	O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I PER-B ORG-I O
-그 다음은 이탈리아(1.2%) ㆍ포르투갈(1.19%) ㆍ 스페인(0.96%)이었다 .	O O ORG-B ORG-B O ORG-B O
+두 사람 의 결혼 에 대해 전해 들 은 바 없 다 ” 며 “ 잘 만나 고 있 다는 이야기 만 본인 에게 들 었 을 뿐 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+더불 어 민주당 안민석 의원 은 14 일 이른바 ‘ 최순실 특혜 연예인 ’ 의혹 과 관련 , 자신 이 검찰 에 특정 연예인 들 에 대한 수사 를 의뢰 했 다는 내용 의 루머 를 부인 했 다 .	ORG-B ORG-I ORG-I PER-B O O DAT-B DAT-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 야채 가 신선한 집 ’ 채선 당 ( 대표 김 익수 ) 은 이러한 수요 를 반영한 여름 신 메뉴 ‘ 냉 메밀 샤부샤부 ’ 를 선보이 며 소비자 들 의 입맛 을 사로잡 고 있 다 .	O O O O O O ORG-B ORG-I O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+〈 안희창 ­ 구성재 기자 〉	O PER-B O PER-B O O
+그러나 영주산 은 올 라야 하 는 오름 이 다 .	O LOC-B O O O O O O O O O
+보사부 가 26 일 의료 보장 개혁 위 가 건의한 「 포괄 수가 제 」 의 실시 를 적극 검토함 에 따 라 앞 으로 이 의 실시 를 둘러싸 고 의료계 에서 상당한 논란 이 일어날 전망 이 다 .	ORG-B O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+선 박사 는 “ 미국 이 세계 인공관절 시장 의 52 % 를 차지하 는 만큼 미국 에서 살아남 지 못하 면 의미 가 없 다 ” 며 “ 올해 와 내년 에 미국 에서 가시 적 인 성과 를 내 기 위해 바이어 들 을 만나 고 있 다 ” 고 강조 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+홍 후보 는 이날 대구 엑스코 에서 열린 대구 · 경북 선대위 발대식 겸 필승 대회 에서 “ 어떤 분 이 TK 적자 는 바른 정당 유승민 후보 라고 하 길래 제 가 TK 적자 라고 했 다 ” 며 “ TK 가 다시 한 번 가슴 에 불 을 지르 고 뭉치 고 새롭 게 일어나야 한다 .	PER-B O O O LOC-B LOC-I O O LOC-B O LOC-B O O O O O O O O O O LOC-B O O ORG-B ORG-I PER-B O O O O O O LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O
+이 와 더불 어 쉐보 레 차량 재 구매 로 스파크 를 구매할 경우 40 만 원 , 마티즈 , 라노스 , 누비라 , 레간자 , 레조 , 매그너스 등 의 구형 차량 을 반납하 고 스파크 를 구매하 는 경우 에 는 30 만 원 을 추가 로 지원 받 을 수 있 다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+규모 4.0 ~ 5.0 는 1 회 였 으나 19 일 규모 4.5 의 여진 이 발생함 에 따 라 2 회 로 늘 었 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+컴백 스텔라 , 끈 팬티 노출 ? … 과거 ‘ U . F . O ’ 티저 서 ‘ 속옷 노출 ’ 논란	O ORG-B O O O O O O O O O O O O O O O O O O O O O
+이영돈 PD 가 간다 … ' 크림빵 , 고라니 뺑소니 ' 집중 조명	O O O O O O O O O O O O O
+브리핑 장 에서 세상 에 만연한 한탕주의 에 경종 을 울리 고 , 사회 를 좀먹 는 불법 온라인 도박 사이트 의 어두 운 현실 을 알린 사람 은 서울 지방 경찰청 사이버 안전 과 사이버 수사대 수사 1 팀 의 김대환 ( 53 ) 팀장 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O PER-B O O O O O O O O
+그 다음 은 이탈리아 ( 1.2 % ) ㆍ 포르투갈 ( 1.19 % ) ㆍ 스페인 ( 0.96 % ) 이 었 다 .	O O O ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O O O O

@@ -1,16 +1,16 @@
-이를 위하+여 그는 공격수 김신욱과 외국인 선수로 페즈(브라질) 등 스타 선수를 대거 영입하였다 .	O O O O PER-B O O ORG-B O O O O O O
-그는 “사건 초기 언론은 김씨의 행동이 북한과 연계되+ㄴ 것이 +ㄴ지, 배후에 누구가 있는지에 초점을 맞추었고 수사 방향도 몰아가려고 +였었는데, 이제까지 지켜보+ㄴ바로는 그런 혐의점이 드러나지 않았다”고 주장하였다 .	O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O
-한 남자 직원은 여성과 성관계를 맺는 영상을 직접 찍어 여성의 동의 없이 사이트에 올리기도 +였습니다 .	O O O PER-B O O O O O PER-B O O O O O O
-6머리 좋은 정씨는 경찰이 찾지 못하도록 흔적을 남기지 않았습니다 .	O O PER-B O O O O O O O
-그는 광고주 이+ㄴ 성매매 업주들과는 경찰 추적이 불가능하+ㄴ 해외 메신저 프로그램(텔레그램)을 사용하+여 연락하였습니다 .	O O O O O O O O O O O O O O
-이노베이터는 곡 '넘버원'으로 신나는 멜로디에 중독성 있는 후렴구로 분위기를 이끌었으나 베이식에 패하게 +었다 .	PER-B O O O O O O O O O PER-B O O O
-삼성전자, 中서삼성페이 서비스 시작 … 애플페이와 정면승 .	ORG-B LOC-B O O O O O O
-농가마다 가득하게 쌓이어 있는 쌀 재고를 조금이라도 소진하+여보고자 한 마을 주민의 아이디어로 개발되+ㄴ 것이 바로 이 황둔쌀 찐빵이다 .	O O O O O O O O O O O O O O O O O O O
-슈틸리케 호전력의 핵심이 +ㄴ 공격 2선은 권창훈의 가세로 가 용 인원이 넘치+ㄴ다 .	O O O O O O O O O O O O O
-1월이라 영하 6도의 강물은 얼음처럼 차갑었다 .	O O O O O O O
-‘우먼센스’에서 제시하+ㄴ 모든 자료가 다 허위”라고 일축하였다 .	O O O O O O O O
-또 여성 우선추천으로 공천을 받았다가 공천 효력정지 가처분 신청이 받아들이어 지+어 공천이 취소되었던 대구 수성을 이인선 후보에 대하+ㄴ 공관위의 단수추천도 추인하었다 .	O O O O O O O O O O O O O LOC-B LOC-I PER-B O O ORG-B O O O
-공산당(13.5%) 자유민주당(13.3%) 등 2위 그룹과 격차가 크다 .	ORG-B ORG-B O O O O O O
-신 교수는 박근혜 대통령과 초등학교 동문이 +ㄴ데다 영남대 이사를 지내+ㄴ이력이 눈길을 끌+ㄴ다 .	PER-B O PER-B O O O O ORG-B O O O O O
-98년 3개사가 선정되+ㄴ 것과 비교하면 비약적으로 성장 하+ㄴ 것.특히 삼성화재 한국전력 포항제철 한국합섬은 해당 분야에서 아시아 기업 중 가장 우수하+ㄴ 기업으로 선정되었다 .	O O O O O O O O O ORG-B ORG-B ORG-B ORG-B O O LOC-B O O O O O O O
-‘후강통 제도’ 시행에 힘입어 투자자 관심 계속 높아 지+ .	O O O O O O O O O O
+이 를 위해 그 는 공격수 김신욱 과 외국인 선수 로페즈 ( 브라질 ) 등 스타 선수 를 대거 영입 했 다 .	O O O O O O PER-B O O O PER-B O ORG-B O O O O O O O O O O
+그 는 “ 사건 초기 언론 은 김 씨 의 행동 이 북한 과 연계된 것 인지 , 배후 에 누 가 있 는지 에 초점 을 맞 췄 고 수사 방향 도 몰아가 려고 했었 는데 , 이제 까지 지켜본 바 로 는 그런 혐의 점 이 드러나 지 않 았 다 ” 고 주장 했 다 .	O O O O O O O PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 남자 직원 은 여성 과 성 관계 를 맺 는 영상 을 직접 찍 어 여성 의 동의 없이 사이트 에 올리 기 도 했 습니다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+# 6 머리 좋 은 정 씨 는 경찰 이 찾 지 못하 도록 흔적 을 남기 지 않 았 습니다 .	O O O O O PER-B O O O O O O O O O O O O O O O O
+그 는 광고주 인 성 매매 업주 들 과 는 경찰 추적 이 불가능한 해외 메신저 프로그램 ( 텔레 그램 ) 을 사용해 연락 했 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이노 베이 터 는 곡 ' 넘버원 ' 으로 신 나 는 멜로디 에 중독성 있 는 후렴구 로 분위기 를 이끌 었 으나 베이식 에 패하 게 됐 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
+삼성전자 , 中 서 삼성 페이 서비스 시작 … 애플 페이 와 정면 승부	ORG-B O LOC-B O O O O O O O O O O O
+농가 마다 가득하 게 쌓 여 있 는 쌀 재고 를 조금 이라도 소진해 보 고자 한 마을 주민 의 아이디어 로 개발된 것 이 바로 이 황 둔 쌀 찐빵 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+슈틸리케 호 전력 의 핵심 인 공격 2 선 은 권창훈 의 가세 로 가용 인원 이 넘친다 .	O O O O O O O O O O O O O O LOC-B O O O O
+1 월 이 라 영하 6 도 의 강물 은 얼음 처럼 차가 웠 다 .	DAT-B DAT-I O O O O O O O O O O O O O O
+‘ 우먼 센스 ’ 에서 제시한 모든 자료 가 다 허위 ” 라고 일축 했 다 .	O O O O O O O O O O O O O O O O O
+또 여성 우선 추천 으로 공천 을 받 았 다가 공천 효력 정지 가처분 신청 이 받아들 여 져 공천 이 취소 됐 던 대구 수성 을 이인선 후보 에 대한 공관 위 의 단수 추천 도 추인 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O PER-B O O O ORG-B ORG-I O O O O O O O O
+공산당 ( 13.5 % ) 자유민주당 ( 13.3 % ) 등 2 위 그룹 과 격차 가 크 다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O
+신 교수 는 박근혜 대통령 과 초등학교 동문 인 데 다 영남대 이사 를 지낸 이력 이 눈길 을 끈다 .	PER-B O O PER-B O O O O O O O ORG-B O O O O O O O O O
+98 년 3 개 사 가 선정된 것 과 비교하 면 비약적 으로 성장한 것 . 특히 삼성화재 한국전력 포항제철 한국 합섬 은 해당 분야 에서 아시아 기업 중 가장 우수한 기업 으로 선정 됐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-I O O O O LOC-B O O O O O O O O O O
+‘ 후 강통 제도 ’ 시행 에 힘입 어 투자자 관심 계속 높아져	O O O O O O O O O O O O O

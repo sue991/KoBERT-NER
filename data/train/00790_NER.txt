@@ -1,15 +1,15 @@
-윤진희 교수는 “심혈관계 질환이 있는 사람은 운동부하검사를 하+여서 운동의 강도를 정하고 천천히 강도를 올리+어가며 운동 하+여야 하+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O
-그렇다면 누구가 춤을 추+어야 하+ㄹ까.정지용은 “누구가 추어야만 옳은 춤이 되는 고하니 진정 하+ㄴ 생산자 노동자와 농민과 조국과 인민에 봉사하는 군인과 학생이 추어야 하는 것이다”라며 “진정 하+ㄴ민주주의 조국의 무수 하+ㄴ청춘과 영웅과 선수들을 위하여서만 사교춤이 근로와 건국의 진정 하+ㄴ 기술의 일부가 되는 것이다”라고 주장 하+ㄴ다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이는 요미우리(독매) 신문이 신정권 발족 직후(6월 30일 밤)부터 1일 사이 1천5백 명을 대상으로 전화조사한 결과로, 지지율 37%는 전임 하타(우전자) 내각 때의 56.8%보다 휠씬 낮은 수치+이다 .	O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O
-공백의 우려는 있지만 직전 1800m 경주에서 4마시+ㄴ(10m) 차대승으로 건재하+ㅁ을 증명하였다 .	O O O O O O O O O O O
-이번 사태는 대통령을 중심으로 하+ㄴ청와대만큼이나 ‘친박’의 책임이 크+ㅂ니다 .	O O O O ORG-B O O O O
-[Love&Gift] 오방색 콘셉트 ‘설날 한정판 선물세트 .	O O O O O O O
-경희대 김중백(사회학과) 교수는 “모순되 +ㄴ 상황이 반복되고 자연스럽게 받아들이어 지+ㄹ수록 아노미 가능성은 커지+ㄴ다”고 말하였다 .	ORG-B PER-B O O O O O O O O O O O O O
-화제의 양말 접는 법은 발목 부분을 두짝 모두 접은 후 아래쪽에 있는 양말의 발등 부분을 위쪽 발목 부분에 끼우어 넣으면 고무줄이 늘어나지 않게 양말을 개 +ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-중 2병은 자신의 능력에 대하+ㄴ과 대망상, 주변 상황에 대하+ㄴ아전인수식 해석, 극단을 오가는 감정 상태를 말하+ㅂ니다 .	O O O O O O O O O O O O O O O O
-뚝섬 시민공원, 올림픽공원 등 서울 도심 주요 공원에서 총 9회에 걸치+어진행되며, 모든 이벤트는 현장 참여가 가능하다 .	LOC-B LOC-I LOC-B O LOC-B O O O O O O O O O O O O
-구체적 이+ㄴ 일정별 장소는 푸마 공식 블로그(www.puma blog. co.kr)를 통하+여공지되+ㄹ 예정이다 .	O O O O ORG-B O O O O O O O
-지난해 AIIB 창설을 앞두고 영국의 가입을 이끌어내면서 EU 회원국들의 단결을 흔들었던 전략이 다시 나오는 모습이다 .	O ORG-B O O ORG-B O O ORG-B O O O O O O O O
-가희“소유진은 나+의 인생의 방향을 바꾸게 하+여주+ㄴ 친구” …고 마움에 눈 .	PER-B O O O O O O O O O O
-●63개 호텔 허가하면서 중구 민우선 취업전 .	O O O O O O O
-대부분의 대원들에게 +ㄴ 첫 실전이었다 .	O O O O O O
+윤진희 교수 는 “ 심혈 관 계 질환 이 있 는 사람 은 운동 부하 검사 를 해서 운동 의 강도 를 정하 고 천천히 강도 를 올려 가 며 운동해야 한다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그렇 다면 누 가 춤 을 춰야 할까 . 정지용 은 “ 누 가 추 어야 만 옳 은 춤 이 되 는고 하 니 진정한 생산자 노동자 와 농민 과 조국 과 인민 에 봉사하 는 군인 과 학생 이 추 어야 하 는 것 이 다 ” 라며 “ 진정한 민주주의 조국 의 무수한 청춘 과 영웅 과 선수 들 을 위하 여서 만 사교춤 이 근로 와 건국 의 진정한 기술 의 일부 가 되 는 것 이 다 ” 라고 주장한다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 는 요미우리 ( 독매 ) 신문 이 신 정권 발족 직후 ( 6 월 30 일 밤 ) 부터 1 일 사이 1 천 5 백 명 을 대상 으로 전화 조사 한 결과 로 , 지지율 37 % 는 전임 하타 ( 우전자 ) 내각 때 의 56.8 % 보다 휠씬 낮 은 수치 다 .	O O ORG-B O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+공백 의 우려 는 있 지만 직전 1800 m 경주 에서 4 마신 ( 10 m ) 차 대승 으로 건재함 을 증명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 사태 는 대통령 을 중심 으로 한 청와대 만큼 이나 ‘ 친 박 ’ 의 책임 이 큽니다 .	O O O O O O O O ORG-B O O O O O O O O O O O
+[ Love & Gift ] 오방색 콘셉트 ‘ 설날 한정판 선물 세트 ’	O O O O O O O O DAT-B O O O O
+경희대 김중백 ( 사회학 과 ) 교수 는 “ 모순된 상황 이 반복되 고 자연스럽 게 받아들 여 질수록 아노미 가능성 은 커진다 ” 고 말 했 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+화제 의 양말 접 는 법 은 발목 부분 을 두 짝 모두 접 은 후 아래쪽 에 있 는 양말 의 발등 부분 을 위쪽 발목 부분 에 끼 워 넣 으면 고무줄 이 늘어나 지 않 게 양말 을 갤 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중 2 병 은 자신 의 능력 에 대한 과대망상 , 주변 상황 에 대한 아전인수 식 해석 , 극단 을 오가 는 감정 상태 를 말합니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+뚝섬 시민 공원 , 올림픽 공원 등 서울 도심 주요 공원 에서 총 9 회 에 걸쳐 진행되 며 , 모든 이벤트 는 현장 참여 가 가능하 다 .	LOC-B LOC-I LOC-I O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O O O O
+구체적 인 일정 별 장소 는 푸마 공식 블로그 ( www . pumablog . co . kr ) 를 통해 공지될 예정 이 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+지난해 AIIB 창설 을 앞두 고 영국 의 가입 을 이끌 어 내 면서 EU 회원국 들 의 단결 을 흔들 었 던 전략 이 다시 나오 는 모습 이 다 .	O ORG-B O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+가희 “ 소유진 은 내 인생 의 방향 을 바꾸 게 해 준 친구 ” … 고마움 에 눈물	PER-B O PER-B O O O O O O O O O O O O O O O O
+● 63 개 호텔 허가하 면서 중 구민 우선 취업 전략	O O O O O O O O O O O
+대부분 의 대원 들 에겐 첫 실전 이 었 다 .	O O O O O O O O O O O

@@ -1,13 +1,13 @@
-이달 5일부터 +ㄴ 기존에 따로 있던 유치원과 어린이집 결제 카드가 하나로 통합되었다 .	O O O O O O O O O O O O O
-현재 네이버 웹툰 '외모 지상주의'를 연재 중이다 .	O O O O O O O O
-온라인 중앙일보 [사진│tvN'현장토크쇼 택시' 캡처] '박태준 .	O O O O O PER-B O
-윤 의원은 지난해 열리+ㄴ 제20대 국회의원 선거에서 자신이 대표로 있던 ‘동행’ 사무실 등을 선거관리위원회에 신고하지 않고 선거사무소로 사용 하+여공직선거법 위반 혐의로 기소되었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-감사원의 수사의뢰 부분과 관련 하+여서는 법원이 두 사람에 대하+여 구속영장을 발부하였고 검찰도 구속 기소를 +였다 .	ORG-B O O O O O O O O O O O O O O O
-공사대금 중 2백23억원이 공사에 투입되지 않은 것은 밝혀내 +었으나 유용되+ㄴ 자금의 사용내역 등에 대하+여서는 확인되 +ㄴ게 없다고 하+였다 .	O O MNY-B O O O O O O O O O O O O O O O O
-한꺼번에 분양, 전체의 89%가 중소형 단지 이름 중 ‘한숲’은 이 회사 사명이 +ㄴ ‘대림(大林)’의 순우리말로, 대림산업을 대표하는 단지로 만들겠다는 뜻이 담기 +어 있다고 회사 측은 전하였다 .	O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O
-이상철 LG유플러스 부회장은 “홈IoT 시대가 도래하면 통신 네트워크에 연결되+ㄴ 20억개의 디바이스가 1000억개까지 늘어나 +ㄹ 것”이라며 “급증하는데이터 트래픽을 처리하+ㄹ 수 있도록 현재보다 수십 배 빠르+ㄴ네트워크 전송 속도와 디바이스 간 간섭제어가 가능하+ㄴ 다양하+ㄴ 5G 기술을 적극 개발하겠다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-음성 기반의 가전제어 솔루션 ‘홈매니저’를 비롯하+여피부 진단 솔루션을 탑재하+ㄴ ‘매직 미러’ 등 홈 IoT 전략 서비스도 전시되 +ㄴ다 .	LOC-B O O O O O O O O O O O O O O O O O O
-그렇 +ㅁ에도 현역으로 남겠다는 서재응의 의지는 현재 강렬하다 .	O O O O PER-B O O O O
-김원준은 지난해 8월 방송되+ㄴ KBS2 ‘해피투게더 시즌3’에 출연하+여아버지가 병원장이라고 밝히었다 .	PER-B O O O O O O O O O O
-특히 1997년 프로듀싱한 엘튼 존의 ‘캔들인 더윈드’는 그에게 30번째 영국 차트 1위를 선물하+여+ 주었다 .	O O O PER-B PER-I O O O O ORG-B O O O O O
-(이번 조사부터는 국무총리에 내정되 +ㄴ이완구 후보자가 포함되었다 .	O O O O PER-B O O O
+이달 5 일 부턴 기존 에 따로 있 던 유치원 과 어린이집 결제 카드 가 하나 로 통합 됐 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+현재 네이버 웹 툰 ' 외모 지상주의 ' 를 연재 중 이 다 .	O O O O O O O O O O O O O O
+온라인 중앙일보 [ 사진 │ tvN ' 현장 토크쇼 택시 ' 캡처 ] ' 박태준 '	O O O O O O O O O O O O O O PER-B O
+윤 의원 은 지난해 열린 제 20 대 국회의원 선거 에서 자신 이 대표 로 있 던 ‘ 동행 ’ 사무실 등 을 선거 관리 위원회 에 신고하 지 않 고 선거 사무소 로 사용해 공직 선거법 위반 혐의 로 기소 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+감사원 의 수사 의뢰 부분 과 관련해서 는 법원 이 두 사람 에 대해 구속 영장 을 발부 했 고 검찰 도 구속 기소 를 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공사 대금 중 2 백 23 억 원 이 공사 에 투입되 지 않 은 것 은 밝혀냈 으나 유용된 자금 의 사용 내역 등 에 대해서 는 확인된 게 없 다고 했 다 .	O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한꺼번에 분양 , 전체 의 89 % 가 중소형 단지 이름 중 ‘ 한 숲 ’ 은 이 회사 사명 인 ‘ 대림 ( 大林 ) ’ 의 순 우리말 로 , 대림산업 을 대표하 는 단지 로 만들 겠 다는 뜻 이 담겨 있 다고 회사 측 은 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+이상철 LG 유플러스 부회장 은 “ 홈 IoT 시대 가 도래하 면 통신 네트워크 에 연결된 20 억 개 의 디바이스 가 1000 억 개 까지 늘어날 것 ” 이 라며 “ 급증하 는 데이터 트래픽 을 처리할 수 있 도록 현재 보다 수십 배 빠른 네트워크 전송 속도 와 디바이스 간 간섭 제어 가 가능한 다양한 5 G 기술 을 적극 개발하 겠 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+음성 기반 의 가전 제어 솔루션 ‘ 홈 매니저 ’ 를 비롯해 피부 진단 솔루션 을 탑재한 ‘ 매직미러 ’ 등 홈 IoT 전략 서비스 도 전시된다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그럼에도 현역 으로 남 겠 다는 서재응 의 의지 는 현재 강렬하 다 .	O O O O O O PER-B O O O O O O O
+김원준 은 지난해 8 월 방송된 KBS 2 ‘ 해피투게더 시즌 3 ’ 에 출연해 아버지 가 병원 장 이 라고 밝 혔 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+특히 1997 년 프로듀싱 한 엘튼 존 의 ‘ 캔들 인 더 윈드 ’ 는 그 에게 30 번째 영국 차트 1 위 를 선물해 줬 다 .	O DAT-B DAT-I O O PER-B PER-I O O O O O O O O O O O O ORG-B O O O O O O O O
+( 이번 조사 부터 는 국무총리 에 내정된 이완구 후보자 가 포함 됐 다 .	O O O O O O O O PER-B O O O O O O

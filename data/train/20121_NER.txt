@@ -1,15 +1,15 @@
-복원 하+ㄹ 지역의 서식환경과 지역주민의 호응까지 20년 가까이 살피+어 오+ㄴ 황새 복원연구팀은 충분하+ㄴ 증식으로 만족하지 않는다 .	ORG-I O O O O O O O O O ORG-B ORG-I O O O O O
-파주시는 28일 “이곳에 6월까지 200대 규모의 임시주차장을 공영주차장으로 개발하+여주차 불편을 해소 하+ㄹ 예정”이라며 “또 출렁다리 주변의 볼거리와 먹거리를 확충하+여 이용 편의를 개선하+ㄹ 계획”이라고 밝히었다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
-시는 이를 위하+ 여출렁 다리에서 보이는 20m 높이의 운계폭포를 6월까지 관광명소로 업그레이드 하+ㄴ다 .	O O O O O O O O O O O O O O
-무디스는 자율주행 기술 확산으로 사고가 줄면 초기에 +ㄴ보험사 수익이 늘겠지만 결국 보험료도 급감하+여보험업계 수익에 크+ㄴ타격이 불가피하다고 내다보았다 .	ORG-B O O O O O O O O O O O O O O O O O
-주심은 마샤리포프와 샴시디노프를 퇴장시키었다 .	O PER-B PER-B O O
-건설부는 이미 상수원의 확보를 위하+여 추가 댐 건설 및 광역상수도 계획을 여러 차례 공개하였었다 .	ORG-B O O O O O O O O O O O O O O
-미국에서는 방산업체 이+ㄴ록히드마틴이 400t의 화물을 싣을 수 있는 비행선 P-791을 개발하+ㄴ데 잇어 작년에는 미국 항공우주국(NASA)이 통신정찰과학 실험 등을 하+ㄹ 수 있는 비행선 개발 공모전을 벌이기도 +였다 .	ORG-B O ORG-B O O O O O O O O O O ORG-B ORG-B O O O O O O O O O O O O
-16일 인제대 김해캠퍼스에서 차인준 총장(왼쪽)이 기말시험을 준비 중 이+ㄴ 학생들에게 사비로 마련하+ㄴ 비타민 음료수와 마스크를 나누+어주고 있다 .	O LOC-B LOC-I PER-B O O O O O O O O O O O O O O
-지역난방공사가 구입하는 LNG값은 지난해 12월 메가줄(MJ·1메가 줄은 240㎉)당 19.2원에서 올 1월 17.7원으로 8% 내리었다 .	ORG-B O O O O O O O MNY-B O O MNY-B O O O
-2년 가까이 이어지었던 버클리 대 반전 시위를 주방위군 투입으로 틀어막은 장본인은 로널드 레이건 당시 캘리포니아 주지사+이었다 .	O O O O O O O O O O O PER-B PER-I O LOC-B O O
-두 제품 모두 과일 속껍질(펄프셀)이 함유되어 과일을 직접 갈아 마시는 것과 같은 풍부하+ㄴ 식감을 느끼+ㄹ 수 있다 .	O O O O PER-B O O O O O O O O O O O O O
-김경태가 이번에 우승하면 2010년 이후 5년 만에 다시 상금왕을 확정짓는다 .	PER-B O O O O O O O O O O
-공모 내용은 관절질환 치료를 받은 환자들의 진솔 하+ㄴ 극복·체험기로 A4용지 1∼2매 분량이다 .	O O O O O O O O O O O O O
-미국이 기준금리를 올리더라도 시중금리가 상승하는 것+ㄴ 상당 하+ㄴ 시간이 지나 +ㄴ후가 되+ㄹ 것이다 .	ORG-B O O O O O O O O O O O O O
-이제 하늘에 신화와 영웅이 있는 것은 아니지만, 아이들에게 저 멀리 M31에 있는 수천억 개의 별들이 우리를 향하+여서 달려오고 있다고 이야기를 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+복원할 지역 의 서식 환경 과 지역 주민 의 호응 까지 20 년 가까이 살펴 온 황새 복원 연구 팀 은 충분한 증식 으로 만족하 지 않 는다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O
+파주시 는 28 일 “ 이곳 에 6 월 까지 200 대 규모 의 임시 주차장 을 공영 주차장 으로 개발해 주차 불편 을 해소할 예정 ” 이 라며 “ 또 출렁다리 주변 의 볼거리 와 먹거리 를 확충해 이용 편의 를 개선할 계획 ” 이라고 밝 혔 다 .	LOC-B O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시 는 이 를 위해 출렁다리 에서 보이 는 20 m 높이 의 운계 폭포 를 6 월 까지 관광 명소 로 업그레이드 한다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+무디스 는 자율 주행 기술 확산 으로 사고 가 줄 면 초기 엔 보험 사 수익 이 늘 겠 지만 결국 보험료 도 급감해 보험 업계 수익 에 큰 타격 이 불가피하 다고 내다 봤 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주심 은 마 샤리포프 와 샴시디노프 를 퇴장 시 켰 다 .	O O PER-B PER-I O PER-B O O O O O O
+건설부 는 이미 상수원 의 확보 를 위해 추가 댐 건설 및 광역 상수도 계획 을 여러 차례 공개 했었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+미국 에서 는 방산 업체 인 록히드마틴 이 400 t 의 화물 을 실 을 수 있 는 비행선 P - 791 을 개발한 데 이 어 작년 에 는 미국 항공 우주국 ( NASA ) 이 통신 정찰 과학 실험 등 을 할 수 있 는 비행선 개발 공모전 을 벌이 기 도 했 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+16 일 인제대 김해 캠퍼스 에서 차인준 총장 ( 왼쪽 ) 이 기말 시험 을 준비 중 인 학생 들 에게 사비 로 마련한 비타민 음료수 와 마스크 를 나눠 주 고 있 다 .	DAT-B DAT-I LOC-B LOC-I LOC-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지역난방 공사 가 구입하 는 LNG 값 은 지난해 12 월 메가 줄 ( MJ · 1 메가 줄 은 240 ㎉ ) 당 19.2 원 에서 올 1 월 17.7 원 으로 8 % 내 렸 다 .	ORG-B ORG-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O MNY-B MNY-I O O DAT-B DAT-I MNY-B MNY-I O O O O O O O
+2 년 가까이 이어 졌 던 버클리대 반전 시위 를 주 방위군 투입 으로 틀어막 은 장본인 은 로널드 레이건 당시 캘리포니아 주 지사 였 다 .	O O O O O O ORG-B O O O O O O O O O O O PER-B PER-I O LOC-B O O O O O
+두 제품 모두 과일 속껍질 ( 펄프 셀 ) 이 함유되 어 과일 을 직접 갈 아 마시 는 것 과 같 은 풍부한 식 감 을 느낄 수 있 다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+김경태 가 이번 에 우승하 면 2010 년 이후 5 년 만 에 다시 상금 왕 을 확정 짓 는다 .	PER-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+공모 내용 은 관절 질환 치료 를 받 은 환자 들 의 진솔한 극복 · 체험 기 로 A 4 용지 1 ∼ 2 매 분량 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 이 기준 금리 를 올리 더라도 시중 금리 가 상승하 는 건 상당한 시간 이 지난 후 가 될 것 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+이제 하늘 에 신화 와 영웅 이 있 는 것 은 아니 지만 , 아이 들 에게 저 멀리 M 31 에 있 는 수천억 개 의 별 들 이 우리 를 향해서 달려오 고 있 다고 이야기 를 할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

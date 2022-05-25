@@ -1,13 +1,13 @@
-Q보스턴칼리지에 잘 적응하려면.A 적극적이고 친화적 이+ㄴ 성향이 중요하다 .	ORG-B O O O O O O O O
-후보자들은 17일 비전대회에서 1인당 15분씩 연설 기회를 가지었다 .	O O O O O O O O O
-('Maze'+라는 이름의 게임은 후에도 곧잘 등장하겠습니다만) 3차원 미로(maze)에서 무시무시하+ㄴ 공룡 T렉스를 피하+여살아남기 위 하+여도망다니는 그래픽서바이벌호러 게임이었습니다 .	O O O O O O O O O O O O O O O O O
-게시물에 따르면 게시자의 아내는 두 달 전 유산으로 슬퍼하고 있는 상황이었다 .	O O O O O O O O O O O O
-어떤 선물을 갖다 주+어도 기분이 풀어지지 않는 아내를 보며 궁리하던 남편에게 어느 날 고양이 한 마리가 눈에 들어오았다 .	O O O O O O O O O O O O O O O O O O O
-이것이 오히려 부정적으로 작용하여 65년의 선거에서 지고 총리 자리에서 무르어나 +았었다 .	O O O O O O O O O O O O
-제주항공 SNS"최고 미인에게 …"고객 얼굴 평가 논 .	ORG-B O O O O O O O
-올해 올레드 TV 출시를 확대하며 글로벌 프리미엄 TV 시장을 선도하는 기조를 유지하+ㄴ다 .	O O O O O O O O O O O O O
-이것을 오자와 에게 이용당 하+여 그의 최면술에 걸리+ㄴ듯하다 .	O PER-B O O O O O O O
-환경부는 소독거점시설 37곳에 대하+여 ‘인근 하천 오염의 위험성이 있다’고 경고하였다고 밝히었다 .	ORG-B O O O O O O O O O O O
-센터 안에 들어서자 2만2000㎡ 규모의 작업장 안에 근무 중 이+ㄴ 사람을 찾기가 어렵었다 .	O O O O O O O O O O O O O O
-서울 잠실까지 10분대, 강남까지 20분대에 가+ㄹ 수 있는 서울생활권 지역.향후 그린벨트가 해제되 +ㄹ 가능성 1순위 지역으로 투자자들의 문의가 꾸준하게 이루어지고 있으며 많은 필지가 빠르게 분양이 이루어지고 있다 .	LOC-B LOC-B O LOC-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O
-교육컨설팅 기업 ㈜아이엔지스토리가 론칭 5개월 만에 ‘작심 독서실’ 20호점 계약을 완료하고 30호점 계약을 목전에 두고 있다고 밝히었다 .	O O ORG-B O O O ORG-B ORG-I O O O O O O O O O O
+Q 보스턴 칼리지 에 잘 적응하 려면 . A 적극적 이 고 친화 적 인 성향 이 중요하 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+후보자 들 은 17 일 비전 대회 에서 1 인 당 15 분 씩 연설 기회 를 가 졌 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+( ' Maze ' 라는 이름 의 게임 은 후 에 도 곧잘 등장하 겠 습니다 만 ) 3 차원 미로 ( maze ) 에서 무시무시한 공룡 T 렉스 를 피해 살아남 기 위해 도망 다니 는 그래픽 서바이벌 호러 게임 이 었 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+게시물 에 따르 면 게시 자 의 아내 는 두 달 전 유산 으로 슬퍼하 고 있 는 상황 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+어떤 선물 을 갖 다 줘도 기분 이 풀어지 지 않 는 아내 를 보 며 궁리하 던 남편 에게 어느 날 고양이 한 마리 가 눈 에 들어 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이것 이 오히려 부정적 으로 작용하 여 65 년 의 선거 에서 지 고 총리 자리 에서 물 러 났었 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+제주 항공 SNS " 최고 미인 에게 … " 고객 얼굴 평가 논란	ORG-B ORG-I O O O O O O O O O O O
+올해 올 레드 TV 출시 를 확대하 며 글로벌 프리미엄 TV 시장 을 선도하 는 기조 를 유지한다 .	O O O O O O O O O O O O O O O O O O O
+이것 을 오자와 에게 이용당해 그 의 최면술 에 걸린 듯하 다 .	O O PER-B O O O O O O O O O O
+환경부 는 소독 거점 시설 37 곳 에 대해 ‘ 인근 하천 오염 의 위험성 이 있 다 ’ 고 경고 했 다고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+센터 안 에 들어서 자 2 만 2000 ㎡ 규모 의 작업장 안 에 근무 중 인 사람 을 찾 기 가 어려 웠 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울 잠실 까지 10 분 대 , 강남 까지 20 분 대 에 갈 수 있 는 서울 생활 권 지역 . 향후 그린벨트 가 해제될 가능성 1 순위 지역 으로 투자자 들 의 문의 가 꾸준하 게 이루어지 고 있 으며 많 은 필지 가 빠르 게 분양 이 이루 어 지 고 있 다 .	LOC-B LOC-B O O O O O LOC-B O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교육 컨설팅 기업 ㈜ 아이 엔지 스토리 가 론칭 5 개월 만 에 ‘ 작심 독서실 ’ 20 호 점 계약 을 완료하 고 30 호 점 계약 을 목전 에 두 고 있 다고 밝 혔 다 .	O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-이들 3개당이 5월 9일 대통령 선거와 동시에 진행하는 개헌 투표를 추진하는 데에는 ‘개헌 대 반개 하+ㄴ’ 구도를 성사시키고 단일 후보를 내+ㄹ 경우 민주당과 박빙의 승부를 연출 하+ㄹ 수 있다는 계산이 깔리+어 있다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
-한국당의 한 의원은 “대통령 5년 단임제를 4년 중임제로 바꾸고 총리를 국회에서 선출하게 하면 견제와 소통이 자연스럽게 이루어 지+ㄹ 것”이라며 “현재와 같은 제왕적 대통령제에서는 대통령의 불해잉 반복되+ㄹ 수 있다”고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러나 이들 3당이 개헌 연대를 성사시키기 위하+여서는 당장 민주당의 도움이 필요하다 .	O O O O O O O O ORG-B O O O
-카운터포인트의 파탁 애널리스트에 따르면 두 브랜드의 급부상에는 “중국 국내 시장뿐 아니라 기타 남아시아 시장에서 판매 강세”의 공이 +었다 .	ORG-B O O O O O O ORG-B O O O O LOC-B O O O O O O
-톱 10에 들지 못하였지만 세계적으로 크+ㄴ 영향을 미치+ㄴ 중국 브랜드로 원플러스도 있다 .	O O O O O O O O ORG-B O O O O
-김재원 전북경찰청장, 女기자 성희롱? 만찬 자리에서 무슨 일이.. .	PER-B O O O O O O O O
-북한의 일인 독재 체제가 인권의 보편성과 국제적 보장에 적대적 입장을 취하+ㄴ다는 것이 오히려 당연하다고 보+ㄹ 때, 국제사면위원회가 승호마을 정치범 수용소의 실상을 폭로하+ㄴ 것은 고상문씨의 경우가 던지+ㄴ 충격파를 제외하고는 새삼스럽게 놀라 +ㄹ 것이 없다 .	ORG-B O O O O O ORG-B O O O O O O O O O ORG-B LOC-B LOC-I LOC-I O O O PER-B O O O O O O O O O O
-연단에 앉은 힐러리 클린턴은 가끔 미소를 보이기 +ㄴ+였지만 무겁ㄴ표정이었다 .	O O PER-B PER-I O O O O O O
-트럼프는 오전 11시 30분쯤 이날 행사에 참석하+ㄴ 주요 인사 중 맨 마지막으로 취임식 장단상에 모습을 드러내+었다 .	PER-B TIM-B TIM-I TIM-I O O O O O O O O O O O O O
-한 면세점 관계자는 “운영업체가 현재보다 늘어나면 당연히 수익도 쪼개지겠지만 그리 하+여도 인천공항 면세점은 해외시장 진출을 위하+여꼭 필요하+ㄴ 사업”이라고 말하였다 .	O O O O O O O O O O O LOC-B O O O O O O O O
-녹십자 혈액제제, 글로벌 시장 진출 눈앞…美식품의약국 예비심사 통과 녹십자 혈액분획제제 ‘아이비 글로불린-에스엔’이 미국 식품의 약국(FDA) 예비심사를 통과하+여 미국 시장 진출을 눈앞에 +었다 .	ORG-B O O O O ORG-B O O ORG-B O O O ORG-B ORG-I ORG-B O O ORG-B O O O O O
-녹십자는 ‘아이비 글로불린 -에스엔(IVIG-SN)’에 대하+ㄴ 품목 허가 신청서(BLA)가 미국 FDA 예비심사를 통과하였다고 26일 밝히었다 .	ORG-B O O O O O O O ORG-B ORG-I O O O O O
+이 들 3 개 당 이 5 월 9 일 대통령 선거 와 동시 에 진행하 는 개헌 투표 를 추진하 는 데 에 는 ‘ 개헌 대 반개헌 ’ 구도 를 성사 시키 고 단일 후보 를 낼 경우 민주당 과 박빙 의 승부 를 연출할 수 있 다는 계산 이 깔려 있 다 .	O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+한국당 의 한 의원 은 “ 대통령 5 년 단임 제 를 4 년 중임 제 로 바꾸 고 총리 를 국회 에서 선출하 게 하 면 견제 와 소통 이 자연스럽 게 이뤄질 것 ” 이 라며 “ 현재 와 같 은 제왕 적 대통령제 에서 는 대통령 의 불해 잉 반복될 수 있 다 ” 고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 이 들 3 당 이 개헌 연대 를 성사 시키 기 위해서 는 당장 민주당 의 도움 이 필요하 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O
+카운터포인트 의 파 탁 애널리스트 에 따르 면 두 브랜드 의 급부상 에 는 “ 중국 국내 시장 뿐 아니 라 기타 남아시아 시장 에서 판매 강세 ” 의 공 이 컸 다 .	ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O LOC-B O O O O O O O O O O O
+톱 10 에 들 지 못 했 지만 세계적 으로 큰 영향 을 미친 중국 브랜드 로 원플러스 도 있 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O
+김재원 전북 경찰청 장 , 女 기자 성희롱 ? 만찬 자리 에서 무슨 일 이 . . .	PER-B O O O O O O O O O O O O O O O O O
+북한 의 일인 독재 체제 가 인권 의 보편성 과 국제적 보장 에 적대적 입장 을 취한다는 것 이 오히려 당연하 다고 볼 때 , 국제 사면 위원회 가 승호 마을 정치범 수용소 의 실상 을 폭로한 것 은 고상문 씨 의 경우 가 던진 충격파 를 제외하 고는 새삼스럽 게 놀랄 것 이 없 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O LOC-B LOC-I LOC-I LOC-I O O O O O O PER-B O O O O O O O O O O O O O O O O O
+연단 에 앉 은 힐러리 클린턴 은 가끔 미소 를 보이 긴 했 지만 무거 운 표정 이 었 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O
+트럼프 는 오전 11 시 30 분 쯤 이날 행사 에 참석한 주요 인사 중 맨 마지막 으로 취임식 장 단상 에 모습 을 드러냈 다 .	PER-B O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O
+한 면세점 관계자 는 “ 운영 업체 가 현재 보다 늘어나 면 당연히 수익 도 쪼개지 겠 지만 그래도 인천 공항 면세점 은 해외 시장 진출 을 위해 꼭 필요한 사업 ” 이라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O
+녹십자 혈액 제제 , 글로벌 시장 진출 눈앞 … 美 식품 의약 국 예비 심사 통과 녹십자 혈액 분획 제제 ‘ 아이비 글로불린 - 에스엔 ’ 이 미국 식품 의약 국 ( FDA ) 예비 심사 를 통과해 미국 시장 진출 을 눈앞 에 뒀 다 .	ORG-B O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O ORG-B O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O ORG-B O O O O O O O O
+녹십자 는 ‘ 아이비 글로불린 - 에스엔 ( IVIG - SN ) ’ 에 대한 품목 허가 신청서 ( BLA ) 가 미국 FDA 예비 심사 를 통과 했 다고 26 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O DAT-B DAT-I O O O O

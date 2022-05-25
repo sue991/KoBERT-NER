@@ -1,15 +1,15 @@
-오승은 “남자친구와 헤어지+ㄴ 뒤 임신 사실 알았다”… ‘깜짝 고백 .	PER-B O O O O O O O O O
-하지만 전략실장 김철기, 수석비서 이병주, 미소의 미스터리한 친구 B가 다방면에서 딴지를 걷어 오+ㄴ다 .	O O PER-B O PER-B PER-B O O PER-B O O O O O
-켄싱턴 제주 호텔의 제주 한식 퀴진 돌미롱은 지역 특산물을 이용하+ㄴ 여름철 건강보양식 ‘제주구 엄토종삼계탕’을 8월 31일까지 선보이+ㄴ다 .	ORG-B ORG-B ORG-I ORG-B ORG-I ORG-I ORG-I O O O O O ORG-B O O O O O
-삼성은 S6를 ‘프로젝트 제로’에서 시작하였다고 자랑하+ㄴ다 .	ORG-B O O O O O O
-K-1의 가격은 285만원. 플래그십 카메라 +이라고 하지만 이미 시장을 선점하+ㄴ니콘이나캐논, 소니 등 비슷하+ㄴ 사양의 카메라들과 경쟁 하+여야 하+ㄴ다 .	O O MNY-B O O O O O O O O O O O O O O O O
-펜탁스가 공개하+ㄴ렌즈 라인업은 총 12개(크롭용은 27개 +이라는데 제외하자). 기존 렌즈를 포함하면 많겠지만 상대적으로 낮은 브랜드 인지도덕에 기존 렌즈를 구하기 +ㄴ쉽지 않다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-美49%, 日72%, 中38% 오르 .	ORG-B ORG-B ORG-B O O
-김지우·레이먼 킴 신혼집, 딸 김루아나리 방송 최초 공개… 이름의 뜻은? 레이먼킴·김지우 부부가 '택시'에서 신혼집을 공개하며 딸 김루아나리를 방송 최초 공개하였다 .	PER-B PER-I O O PER-B O O O O O PER-B O O O O O PER-B O O O O
-양 할머니 등 근로정신대 피해자들은 13∼14세 소녀 시절 일본으로 끌려가 +아강제 노동에 시달리었다 .	PER-B O O O O O O O LOC-B O O O O O
-당내 초·재선 쇄신모임이 +ㄴ ‘아침소리’ 역시 유 원내대표의 거취 문제와 관련 하+여비판의 목소리를 높이었다 .	O O O O ORG-B O PER-B O O O O O O O O
-버락 오바마 미국 대통령은 유명 하+ㄴ 골프광이다 .	PER-B PER-I ORG-B O O O O O
-일본이 끝장나 +아도 우리는 행복하 .	ORG-B O O O O O
-놀작 마이아트는 현재 약 350여개의 교육원을 운영하고 있으며, 최근에는 미국과 일본 등 해외 유아미술시장에도 진출하여 교육원을 확대하+여나가고 있다 .	ORG-B ORG-I O O O O O O O LOC-B LOC-B O O O O O O O O
-또한 이번 캠페인에 참가하는 고객들에게는 타이어를 포함하+여엔진오일, 브레이크 오일, 미션오일 등 정기점검 항목의 부품과 공임에 대하+여 10%의 가격적 혜택이 제공되 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-이러하+ㄴ점에서 중국은 당분간 체제 방어에 우선순위를 두는 북한의 정책 선택과 이에 따르 아불가피하+여지는 정치 우선적 경화정책을 이해 하+ㄹ 가능성이 커지+ㄴ다 .	O ORG-B O O O O O ORG-B O O O O O O O O O O O O O
+오승은 “ 남자 친구 와 헤어진 뒤 임신 사실 알 았 다 ” … ‘ 깜짝 고백 ’	PER-B O O O O O O O O O O O O O O O O O
+하지만 전략 실장 김철기 , 수석 비서 이병주 , 미소 의 미스터리 한 친구 B 가 다방면 에서 딴지 를 걸 어 온다 .	O O O PER-B O O O PER-B O PER-B O O O O PER-B O O O O O O O O O
+켄싱턴 제주 호텔 의 제주 한식 퀴진 돌 미 롱 은 지역 특산물 을 이용한 여름철 건강 보양 식 ‘ 제주 구엄 토종 삼계탕 ’ 을 8 월 31 일 까지 선보인다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O
+삼성 은 S 6 를 ‘ 프로젝트 제로 ’ 에서 시작 했 다고 자랑한다 .	ORG-B O O O O O O O O O O O O O O
+K - 1 의 가격 은 285 만 원 . 플래그십 카메라 라고 하 지만 이미 시장 을 선점한 니콘 이나 캐논 , 소니 등 비슷한 사양 의 카메라 들 과 경쟁해야 한다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O
+펜탁스 가 공개한 렌즈 라인업 은 총 12 개 ( 크롭 용 은 27 개 라는데 제외하 자 ) . 기존 렌즈 를 포함하 면 많 겠 지만 상대적 으로 낮 은 브랜드 인지도 덕 에 기존 렌즈 를 구하 긴 쉽 지 않 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+美 49 % , 日 72 % , 中 38 % 올 라	ORG-B O O O ORG-B O O O ORG-B O O O O
+김지우 · 레이먼 킴 신혼집 , 딸 김 루아 나리 방송 최초 공개 … 이름 의 뜻 은 ? 레이먼 킴 · 김지우 부부 가 ' 택시 ' 에서 신혼집 을 공개하 며 딸 김 루아 나리 를 방송 최초 공개 했 다 .	PER-B O PER-B PER-I O O O PER-B PER-I PER-I O O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O
+양 할머니 등 근로 정신대 피해자 들 은 13 ∼ 14 세 소녀 시절 일본 으로 끌려가 강제 노동 에 시달 렸 다 .	PER-B O O O O O O O O O O O O O LOC-B O O O O O O O O O
+당내 초 · 재선 쇄신 모임 인 ‘ 아침소리 ’ 역시 유 원내 대표 의 거취 문제 와 관련해 비판 의 목소리 를 높 였 다 .	O O O O O O O O ORG-B O O PER-B O O O O O O O O O O O O O O O
+버락 오바마 미국 대통령 은 유명한 골프 광 이 다 .	PER-B PER-I ORG-B O O O O O O O O
+일본 이 끝장나 도 우리 는 행복하 다	ORG-B O O O O O O O
+놀 작 마이 아트 는 현재 약 350 여 개 의 교육 원 을 운영하 고 있 으며 , 최근 에 는 미국 과 일본 등 해외 유아 미술 시장 에 도 진출하 여 교육 원 을 확대해 나가 고 있 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O
+또한 이번 캠페인 에 참가하 는 고객 들 에게 는 타이어 를 포함해 엔진 오일 , 브레이크 오일 , 미션 오일 등 정기 점검 항목 의 부품 과 공임 에 대해 10 % 의 가격 적 혜택 이 제공된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이러한 점 에서 중국 은 당분간 체제 방어 에 우선순위 를 두 는 북한 의 정책 선택 과 이 에 따 라 불가피해 지 는 정치 우선 적 경화 정책 을 이해할 가능성 이 커진다 .	O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O

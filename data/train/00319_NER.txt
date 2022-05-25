@@ -1,16 +1,16 @@
-경기 후 믹스트존을 지나치던 전북선수들은 한결같이 망연자실 하+ㄴ 표정이었다 .	O O O O ORG-B O O O O O
-앞서 유승준은 LA 총영사관에 한국에 입국하기 위하+ㄴ 비자를 신청하였으나 거부당 하+ㄴ바 있다 .	O PER-B ORG-B ORG-I LOC-B O O O O O O O O
-유승준은 2002년 1월 한국 국적을 포기하고 미국 시민권을 얻었다 .	ORG-B O O ORG-B O O ORG-B O O O
-[단독]신동빈 “심려 끼치+어죄송… 수사 협조 .	PER-B O O O O O
-현대자동차그룹은 자립을 꿈꾸는 어렵ㄴ 이웃에게 창업용 차량을 선물하는 ‘기프트카 캠페인 시즌6’를 시작하+ㄴ다고 24일 밝히었다 .	ORG-B O O O O O O O O O O O O O O
-NASA는 “얼굴 패턴을 찾아내는 심리적 현상에 의하+여화성 생명체론이 불거지+ㄴ 것”이라고 말하였다 .	ORG-B O O O O O O O O O O O
-서태지와 아이들의 94년 악마 음악 논란도 파레이 돌리아 현상으로 해석하+ㄹ 수 있다 .	ORG-B ORG-I O O O O O O O O O O O
-조응천 “검찰, 朴 전 대통령 출국금지부터 하+ㄹ 것 .	PER-B O PER-B O O O O O O
-그렇게 신격화시키+ㄴ 공백에 그의 후계자가 차지하고도 남는 북한 백성들의 마음속의 그 방대 하+ㄴ 여백을 무엇으로 어떻게 메우+ㄹ지가 문제 이+ㄴ 것이다 .	O O O O O O O ORG-B O O O O O O O O O O O O O
-후반에도 6개의 슈팅 중 유효슈팅은 1개뿐이었다 .	O O O O O O O
-그가 이 영화에서 추구 하+ㄴ테마는 비록 삶이 허망하+ㄹ지라도 한번쯤 살아보+ㄹ가치가 있다는 것 .	O O O O O O O O O O O O O
-중국은 물론 베트남, 인도네시아 같은 후발 신흥국은 ‘세계의 공장’으로 부상하였다 .	ORG-B O ORG-B ORG-B O O O O O O O
-한국인 마음 온도와 관련 하+여각 세대가 겪고 있는 각종 사회·경제적 상황들로 인하+ㄴ 마음의 온도는 더 낮아 지+ㄹ 것이라는 응답은 79.1%에 달하였다 .	O O O O O O O O O O O O O O O O O O O O O O
-성별로 보+ㄴ 경우 고교생 여성그룹과 대학생 여성그룹이 각각 영하 18.1도로 응답하+여가장 낮았다 .	O O O O O O O O O O O O O
-황치열은 과거 레이디 경향과 인터뷰를 진행하였다 .	PER-B O O O O O O
-동아일보와 특허정보회사 광개토연구소가 2005년부터 10년간 미국에서 제기되 +ㄴ 특허소송을 분석하+ㄴ 결과 NPE의 국내 기업 특허 공격 범위가 넓어 지+어 지난해에는 중소·중견기업이 4곳이나 포함되 +ㄴ 것으로 나타나 +았다 .	ORG-B O ORG-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+경기 후 믹스트 존 을 지나치 던 전북 선수 들 은 한결같이 망연자실한 표정 이 었 다 .	O O O O O O O ORG-B O O O O O O O O O O
+앞서 유승준 은 LA 총영사관 에 한국 에 입국하 기 위한 비자 를 신청 했 으나 거부 당한 바 있 다 .	O PER-B O ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O
+유승준 은 2002 년 1 월 한국 국적 을 포기하 고 미국 시민권 을 얻 었 다 .	ORG-B O DAT-B DAT-I DAT-I DAT-I ORG-B O O O O ORG-B O O O O O O
+[ 단독 ] 신동빈 “ 심려 끼쳐 죄송 … 수사 협조 ”	O O O PER-B O O O O O O O O
+현대자동차그룹 은 자립 을 꿈꾸 는 어려 운 이웃 에게 창업 용 차량 을 선물하 는 ‘ 기프트 카 캠페인 시즌 6 ’ 를 시작한다고 24 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+NASA 는 “ 얼굴 패턴 을 찾아내 는 심리적 현상 에 의해 화성 생명체 론 이 불거진 것 ” 이라고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+서태지 와 아이 들 의 94 년 악마 음악 논란 도 파레 이돌 리아 현상 으로 해석할 수 있 다 .	ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O
+조응천 “ 검찰 , 朴 전 대통령 출국 금지 부터 할 것 ”	PER-B O O O PER-B O O O O O O O O
+그렇 게 신격화 시킨 공백 에 그 의 후계자 가 차지하 고도 남 는 북한 백성 들 의 마음속 의 그 방대한 여백 을 무엇 으로 어떻 게 메울지 가 문제 인 것 이 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+후반 에 도 6 개 의 슈팅 중 유효 슈팅 은 1 개 뿐 이 었 다 .	O O O O O O O O O O O O O O O O O O
+그 가 이 영화 에서 추구한 테마 는 비록 삶 이 허망할지라도 한번 쯤 살 아 볼 가치 가 있 다는 것 .	O O O O O O O O O O O O O O O O O O O O O O O
+중국 은 물론 베트남 , 인도네시아 같 은 후발 신흥 국 은 ‘ 세계 의 공장 ’ 으로 부상 했 다 .	ORG-B O O ORG-B O ORG-B O O O O O O O O O O O O O O O O
+한국인 마음 온도 와 관련해 각 세대 가 겪 고 있 는 각종 사회 · 경제적 상황 들 로 인한 마음 의 온도 는 더 낮 아 질 것 이 라는 응답 은 79.1 % 에 달 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+성별 로 본 경우 고교생 여성 그룹 과 대학생 여성 그룹 이 각각 영하 18.1 도 로 응답해 가장 낮 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+황치열 은 과거 레이디경향 과 인터뷰 를 진행 했 다 .	PER-B O O ORG-B O O O O O O O
+동아일보 와 특허 정보 회사 광개토 연구소 가 2005 년 부터 10 년 간 미국 에서 제기된 특허 소송 을 분석한 결과 NPE 의 국내 기업 특허 공격 범위 가 넓어져 지난해 에 는 중소 · 중견 기업 이 4 곳 이나 포함된 것 으로 나타났 다 .	ORG-B O O O O ORG-B ORG-I O DAT-B DAT-I O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

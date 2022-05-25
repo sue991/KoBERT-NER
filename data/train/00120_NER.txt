@@ -1,13 +1,13 @@
-무릎을 꿇은 손흥민(24·토트넘)은 그라운드에 얼굴을 파묻고 눈물을 쏟았다 .	O O ORG-B O O O O O O
-하지만 전담인력은 4, 5명에 불과하였다 .	O O O O O O
-기부를 시작하+ㄴ 2006년 한 해에 전달 하+ㄴ 신발은 1만켤레.탐스는 ‘착하+ㄴ 신발’로 알려지면서 창립 8년 만에 신발 총 3500만 켤레를 판매하였다 .	O O O O O O O O ORG-B O O O O O O O O O O O O
-회의를 주재하는 이승만 대통령이 장관들의 의견을 묻자 허정교통부 장관이 대뜸 “이 법은 정부에 권한이 없고 너무 금융기관 독재적 이+ㄴ 경향이 있으니까 부당하다”며 재무부 직원들의 의견을 그대로 전하였다 .	O O PER-B O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O
-당시 내각에서 허정의 발언권은 상당히 +었다 .	O O O O O O O
-어린이는 ‘우리나라가 어린이들이 살기 좋은 나라 이+ㄴ가’ +이라는 질문에 89.4점(100점 만점)을 +었고, ▲어린이들이 공부하기 좋은 나라 항목 86.4점 ▲어린이들이 놀기 좋은 나라 항목 79.1점 ▲어린이들이 존중받는 나라 항목 76.3점으로 평가하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-반면, 학부모는 ‘우리나라가 어린이들이 살기 좋은 나라 이+ㄴ가’ +이라는 물음에 50.2점을 +었고, ▲어린이들이 공부하기 좋은 나라 항목 46.5점 ▲어린이들이 놀기 좋은 나라 항목 41.8점 ▲어린이들이 존중받는 나라 항목 46.9점이라고 답하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 결과를 평균 하+여보면 어린이는 82.8점, 학부모는 46.4점이었다 .	O O O O O O O O O
-기업들의 동반성장 노력은 5점 기준으로 +았을 때 대기업이 2.79점, 중소기업이 3.08점으로 나타나 +아, 전문가들은 중소기업의 노력에 대하+여더 긍정적으로 평가하였다 .	O O O O O O O O O O O O O O O O O O O O
-한국노총이 합의를 파기하+ㄴ 것은 노사정위 18년 역사에서 처음이다 .	ORG-B O O O O O O O O
-쿠션 중앙의 작은 구멍으로 파운데이션이 나오는데, 양 조절이 익숙하+여지려면 몇 번 사용 하+여보+아야 하+ㄹ듯 하+여요.”★★★★★ 원선희 “보통 쿠션 제품은 퍼프 에 너무 많은 양이 묻어나 +아퍼프가 쉽게 더러워지고 양 조절이 힘들 +ㄴ 단점이 있+지 않아요 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
-“배추값은 이미지불하였다”는 정씨의 말에 근로자들은 아무 의심 없이 배추를 수확하였다 .	O O PER-B O O O O O O O O
-중국은 세계 경제의 물살을 뒤흔들는 거함이 +었다 .	ORG-B O O O O O O O
+무릎 을 꿇 은 손흥민 ( 24 · 토트넘 ) 은 그라운드 에 얼굴 을 파묻 고 눈물 을 쏟 았 다 .	O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O
+하지만 전담 인력 은 4 , 5 명 에 불과 했 다 .	O O O O O O O O O O O O O
+기부 를 시작한 2006 년 한 해 에 전달한 신발 은 1 만 켤레 . 탐스 는 ‘ 착한 신발 ’ 로 알려지 면서 창립 8 년 만 에 신발 총 3500 만 켤레 를 판매 했 다 .	O O O DAT-B DAT-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+회의 를 주재하 는 이승만 대통령 이 장관 들 의 의견 을 묻 자 허정 교통부 장관 이 대뜸 “ 이 법 은 정부 에 권한 이 없 고 너무 금융기관 독재적 인 경향 이 있 으니까 부당하 다 ” 며 재무부 직원 들 의 의견 을 그대로 전 했 다 .	O O O O PER-B O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+당시 내각 에서 허정의 발언권 은 상당히 컸 다 .	O O O O O O O O O O
+어린이 는 ‘ 우리나라 가 어린이 들 이 살 기 좋 은 나라 인가 ’ 라는 질문 에 89.4 점 ( 100 점 만점 ) 을 줬 고 , ▲ 어린이 들 이 공부하 기 좋 은 나라 항목 86.4 점 ▲ 어린이 들 이 놀 기 좋 은 나라 항목 79.1 점 ▲ 어린이 들 이 존중 받 는 나라 항목 76.3 점 으로 평가 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+반면 , 학부모 는 ‘ 우리나라 가 어린이 들 이 살 기 좋 은 나라 인가 ’ 라는 물음 에 50.2 점 을 줬 고 , ▲ 어린이 들 이 공부하 기 좋 은 나라 항목 46.5 점 ▲ 어린이 들 이 놀 기 좋 은 나라 항목 41.8 점 ▲ 어린이 들 이 존중 받 는 나라 항목 46.9 점 이 라고 답 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 결과 를 평균해 보 면 어린이 는 82.8 점 , 학부모 는 46.4 점 이 었 다 .	O O O O O O O O O O O O O O O O O O O
+기업 들 의 동반 성장 노력 은 5 점 기준 으로 봤 을 때 대기업 이 2.79 점 , 중소기업 이 3.08 점 으로 나타나 , 전문가 들 은 중소기업 의 노력 에 대해 더 긍정적 으로 평가 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국노총 이 합의 를 파기한 것 은 노사정 위 18 년 역사 에서 처음 이 다 .	ORG-B O O O O O O O O O O O O O O O O
+쿠션 중앙 의 작 은 구멍 으로 파운데이션 이 나오 는 데 , 양 조절 이 익숙해 지 려면 몇 번 사용해 봐야 할 듯 해요 . ” ★ ★ ★ ★ ★ 원선희 “ 보통 쿠션 제품 은 퍼프 에 너무 많 은 양 이 묻어나 퍼프 가 쉽 게 더러워지 고 양 조절 이 힘든 단점 이 있 잖 아요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 배추 값 은 이미 지불 했 다 ” 는 정 씨 의 말 에 근로자 들 은 아무 의심 없이 배추 를 수확 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+중국 은 세계 경제 의 물살 을 뒤흔드 는 거함 이 됐 다 .	ORG-B O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-채씨는 이날 강연으로 장려상을 받았다 .	PER-B O O O O O
-최씨가 먼저 연필로 서명을 하+ 여두면 그 위에 도장을 찍고 연필자국을 지우어내는 식이다 .	PER-B O O O O O O O O O O O O O
-다만 “이란 같은 나라를 대담하게 만들는 방식으로는 하지 않는다”고 말 하+여이란과의 핵협상처럼 북-미 간 전격적이+ㄴ 대화 가능성은 낮게 +았다 .	O ORG-B O O O O O O O O ORG-B O ORG-B O O O O O O O
-매번 새롭ㄴ맛과 프레젠테이션을 추구하지만 피에르가니에르의 스타일과 동떨어지지 않으려 노력 하+ㄴ다 .	O O O O PER-B O O O O O O
-선배 포수 정상호가 선발 경기에서 승리를 챙기+ㄹ 때마다 자책은 더 하+여+가았다 .	O O PER-B O O O O O O O O O
-이에 대하+여형지 엘리트는 “개성공단 입주기업에 귀속되 +ㄴ 원부자재를 돌려받지 못하+ㄴ 피해가 막심하다”며 “원부자재 손실에 대하+ㄴ 협의가 먼저 필요하다”는 입장을 밝히었다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-총 다섯 편의 영화가 윤씨의 소식으로 난감하+ㄴ 입장에 처하게 +었다 .	O O O O PER-B O O O O O O
-7일 윤씨의 소속사나무엑터스는 공식 입장문에서 “윤씨가 지난달 23일 오전 7시 차 안에서 잠이 들+ㄴ 채 경찰에 발견되었고 관할 경찰서에서 조사받았다”고 밝히며 사실을 인정하였다 .	TIM-I PER-B ORG-B O O PER-B O O O O O O O O O O O O O O O O O O
-서울서부지검 형사2부(김철수 부장검사)는 서울 마포경찰서에서 윤씨의 사건을 넘겨받아 수사 중이다 .	ORG-B ORG-I ORG-I ORG-B ORG-I PER-B O O O O O
-파나소닉의 신제품 ‘RP-HD 10 하이레졸루션 헤드폰’과 ‘벅스 6개월 이용권’ 결합상품도 25%가량 할인되 +ㄴ 가격이+ㄴ 22만9000원에 구매 하+ㄹ 수 있다 .	ORG-B O O O O O ORG-B O O O O O O O MNY-B O O O O O
-용의자 17일 평양도착, 박지원 “北 혐의자 4명, 말레이로 송환시키+어야 .	O O LOC-B PER-B ORG-B O O ORG-B O O
-호소가 이 대표는 “동네 공장의 기술력을 세계에 알리고 제조업의 매력을 젊은이들에게 전달하고 싶어 동네 공장들이 의기투합하였다”고 회상하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-조정원에 따르면 점포당연 평균 매출액이 가장 많은 곳은 도미도 피자+이었다 .	ORG-B O O O O O O O ORG-B O O
+채 씨 는 이날 강연 으로 장려상 을 받 았 다 .	PER-B O O O O O O O O O O O
+최 씨 가 먼저 연필 로 서명 을 해 두 면 그 위 에 도장 을 찍 고 연필 자국 을 지 워 내 는 식 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다만 “ 이란 같 은 나라 를 대담하 게 만드 는 방식 으로 는 하 지 않 는다 ” 고 말해 이란 과 의 핵 협상 처럼 북 - 미 간 전격적 인 대화 가능성 은 낮 게 봤 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O ORG-B O ORG-B O O O O O O O O O O O
+매번 새로 운 맛 과 프레젠테이션 을 추구하 지만 피에르 가니에 르 의 스타일 과 동떨어지 지 않 으려 노력한다 .	O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O
+선배 포수 정상호 가 선발 경기 에서 승리 를 챙길 때 마다 자책 은 더해 갔 다 .	O O PER-B O O O O O O O O O O O O O O O
+이 에 대해 형지 엘리트 는 “ 개성 공단 입주 기업 에 귀속된 원 부자재 를 돌려받 지 못한 피해 가 막심하 다 ” 며 “ 원 부자재 손실 에 대한 협의 가 먼저 필요하 다 ” 는 입장 을 밝 혔 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+총 다섯 편 의 영화 가 윤 씨 의 소식 으로 난감한 입장 에 처하 게 됐 다 .	O O O O O O PER-B O O O O O O O O O O O O
+7 일 윤 씨 의 소속 사 나무 엑터스 는 공식 입장 문 에서 “ 윤 씨 가 지난달 23 일 오전 7 시 차 안 에서 잠 이 든 채 경찰 에 발견 됐 고 관할 경찰서 에서 조사 받 았 다 ” 고 밝히 며 사실 을 인정 했 다 .	DAT-B DAT-I PER-B O O O O ORG-B ORG-I O O O O O O PER-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울서부지검 형사 2 부 ( 김철수 부장 검사 ) 는 서울 마포 경찰서 에서 윤 씨 의 사건 을 넘겨받 아 수사 중 이 다 .	ORG-B ORG-I ORG-I ORG-I O PER-B O O O O ORG-B ORG-I ORG-I O PER-B O O O O O O O O O O O
+파나소닉 의 신제품 ‘ RP - HD 10 하이 레졸 루 션 헤드폰 ’ 과 ‘ 벅스 6 개월 이용권 ’ 결합 상품 도 25 % 가량 할인된 가격 인 22 만 9000 원 에 구매할 수 있 다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O
+용의자 17 일 평양 도착 , 박지원 “ 北 혐의자 4 명 , 말레이 로 송환 시켜야 “	O DAT-B DAT-I LOC-B O O PER-B O ORG-B O O O O ORG-B O O O O
+호소 가이 대표 는 “ 동네 공장 의 기술력 을 세계 에 알리 고 제조업 의 매력 을 젊은이 들 에게 전달하 고 싶 어 동네 공장 들 이 의기투합 했 다 ” 고 회상 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조정원 에 따르 면 점포 당 연평균 매출액 이 가장 많 은 곳 은 도미 도피자 였 다 .	ORG-B O O O O O O O O O O O O O ORG-B ORG-I O O O

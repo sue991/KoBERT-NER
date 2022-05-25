@@ -1,13 +1,13 @@
-기초가 안 되었다는 것+이죠. 노벨상을 타+ㄹ 것+이냐, 말 +ㄹ 것+이냐, 타+ㄹ 것+이면 언제 타+ㄹ 것+이냐, 누구가 타+ㄹ 것+이냐, 거기에만 관심을 보이지 않습니까. 우리나라에서 노벨상에 가장 근접 하+ㄴ사람이 누구 누구+이라고 하는데 제가 보기에 +ㄴ타+ㄹ사람이 없습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-하지만 안정적 이+ㄴ 매출 곡선을 그리던 길무역도 1998년 외환위기를 피하지 못하+여크+ㄴ 어려움을 겪기도 +였지만 그동안 수립 하+ㄴ 세계 각 거래처들과의 독점 계약 확대와 국내 시장 점유율 신장으로 시장에 안착하였고 더욱 공고 하+ㄴ 신뢰를 쌓으며 성장하였다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-[생활체육 7330]생활체육회, 팀스포츠·여학생 프로그램 강 .	ORG-B ORG-B O O O O
-FBI는 이날 빌 클린턴이 2001년 대통령 임기 마지막 날 탈세 등의 비리로 해외에도 피하+여 있던 억만장자 마크리치를 사면 대상에 포함시키+어 수사에 나서 +었던 당시 기록을 FBI 트위터 계정에 올리었다고 알리었다 .	ORG-B O PER-B PER-I O O O O O O O O O O O O PER-B O O O O O O O O ORG-B O O O O O
-협의회 총무이+ㄴ 김희창(35) 장흥삶한우 사장은 “지방이 많아 몸에 이롭지 못하면서 값은 비싸+ㄴ거세수 소고기보다 우리 암소고기가 실속이 있다”고 강조하였다 .	O O PER-B ORG-B O O O O O O O O O O O O O O O
-장흥한우는 1등급 이상 출현율이 70%를 훨씬 넘는 등 육질이 전국한우 가운데 선두를 다투고 있다 .	ORG-B O O O O O O O O O O O O O O
-살이 찌+ㄴ사람이 정상 체중이 +ㄴ 사람보다 핏속 카델리 시딘 함량이 더 많았다 .	O O O O O O O O O O O O O
-예원의 출연분이 편집 없이 방영되 +ㄹ 예정이다 .	PER-B O O O O O O O
-27일 동영상 공유 사이트 유튜브에는 MBC ‘띠동갑 내기 과외하기’ 녹화 당시 이태임과 예원 사이에 서 있었던 일로 추정되는 영상이 올라오았다 .	O O O O O ORG-B O O O O O PER-B PER-B O O O O O O O O
-문제의 동영상이 공개되+ㄴ후예원이 출연 중 이+ㄴ MBC ‘우리 결혼하었어요’ 시청자 게시판에는 예원의 하차를 요구하는 글들이 잇따르 아게재되었다 .	O O PER-B O O O ORG-B O O O O PER-B O O O O O O
-만인보의 내용이고씨 부친의 실화+이라고 확정되+ㄴ 것은 아니지만, 네티즌들은 그렇게 여기 +어지+ㄴ다며 전과 다르+ㄴ 태도를 보이+었고 있다 .	O PER-B O PER-B O O O O O O O O O O PER-B O O
-제주흑울는 조선왕조실록이나 탐라순력도 등의 옛 문헌에서 국가가 엄격히 사육 및 관리하며 진상품으로 공출하던 가축으로 기록하고 있다 .	LOC-B O O O O O O O O O O O O O O O O
-경찰 관계자는 "박씨 등이 경찰 추적을 피하기 위하+여 1개월 단위로 대포폰을 바꾸고 관련 자료를 수시로 파기 하+ㄴ점 등으로 보아, 실제 피해자는 수백명에 이르고 피해금액도 10억원에 이르+ㄹ 것으로 추정되+ㄴ다"며 "이들의 추가 범행을 조사하고 있다"고 말하였다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O MNY-B O O O O O O O O O O
+기초 가 안 되 었 다는 거 죠 . 노벨상 을 탈 거 냐 , 말 거 냐 , 탈 거 면 언제 탈 거 냐 , 누 가 탈 거 냐 , 거기 에 만 관심 을 보이 지 않 습니까 . 우리나라 에서 노벨상 에 가장 근접한 사람 이 누구 누구 라고 하 는데 제 가 보 기 엔 탈 사람 이 없 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 안정적 인 매출 곡선 을 그리 던 길무역 도 1998 년 외환 위기 를 피하 지 못해 큰 어려움 을 겪 기 도 했 지만 그동안 수립한 세계 각 거래처 들 과 의 독점 계약 확대 와 국내 시장 점유율 신장 으로 시장 에 안착 했 고 더욱 공고한 신뢰 를 쌓 으며 성장하 였 다 .	O O O O O O O O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 생활 체육 7330 ] 생활 체육 회 , 팀 스포츠 · 여학생 프로그램 강화	O O O O O ORG-B ORG-I ORG-I O O O O O O O
+FBI 는 이날 빌 클린턴 이 2001 년 대통령 임기 마지막 날 탈세 등 의 비리 로 해외 에 도피해 있 던 억만장자 마크 리치 를 사면 대상 에 포함 시켜 수사 에 나섰 던 당시 기록 을 FBI 트위터 계정 에 올 렸 다고 알 렸 다 .	ORG-B O O PER-B PER-I O DAT-B DAT-I O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+협의회 총무 인 김희창 ( 35 ) 장흥 삶 한우 사장 은 “ 지방 이 많 아 몸 에 이롭 지 못하 면서 값 은 비싼 거세 수소 고기 보다 우리 암소 고기 가 실속 이 있 다 ” 고 강조 했 다 .	O O O PER-B O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장흥 한우 는 1 등급 이상 출현 율 이 70 % 를 훨씬 넘 는 등 육질 이 전국 한우 가운데 선두 를 다투 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+살 이 찐 사람 이 정상 체중 인 사람 보다 핏속 카 델리시 딘 함량 이 더 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O
+예원 의 출연 분 이 편집 없이 방영될 예정 이 다 .	PER-B O O O O O O O O O O O
+27 일 동영상 공유 사이트 유튜브 에 는 MBC ‘ 띠 동갑내기 과외 하 기 ’ 녹화 당시 이태임 과 예원 사이 에서 있 었 던 일 로 추정되 는 영상 이 올라 왔 다 .	DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O
+문제 의 동영상 이 공개된 후 예원이 출연 중 인 MBC ‘ 우리 결혼 했 어요 ’ 시청자 게시판 에 는 예원 의 하차 를 요구하 는 글 들 이 잇따 라 게재 됐 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+만인보 의 내용 이 고 씨 부친 의 실화 라고 확정된 것 은 아니 지만 , 네티즌 들 은 그렇 게 여겨 진다며 전 과 다른 태도 를 보있 고 있 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+제주 흑 우 는 조선 왕조 실록 이나 탐라 순력 도 등 의 옛 문헌 에서 국가 가 엄격히 사육 및 관리하 며 진상품 으로 공출하 던 가축 으로 기록하 고 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 관계자 는 " 박 씨 등 이 경찰 추적 을 피하 기 위해 1 개월 단위 로 대포 폰 을 바꾸 고 관련 자료 를 수시로 파기한 점 등 으로 보 아 , 실제 피해자 는 수백 명 에 이르 고 피해 금액 도 10 억 원 에 이를 것 으로 추정된다 " 며 " 이 들 의 추가 범행 을 조사하 고 있 다 " 고 말 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O

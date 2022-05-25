@@ -1,15 +1,15 @@
-새누리당 현역 여성 의원으로서 최다 기록이다 .	ORG-B O O O O O O
-식량원조 접근하였지만 …시진핑·이수용만 남은 20분 .	O O PER-B O O O
-오늘 홍대 한복판에 세월호가 있었다 .	O LOC-B O O O O
-치사율이 40%에 이르지만 감염 정도는 상대적으로 낮아 중동 이외의 지역 환자는 전체의 2.5%뿐이다 .	O O O O O O O LOC-B O O O O O O
-지나+ㄴ 8월 성남 GC의 조망권을 확보하+ㄴ ‘위례지웰 푸르지오 오피스텔’은 평균 13.8대 1로 청약을 마감하였다 .	O O LOC-B LOC-I O O O O O O O O O O O
-이에 누스타가 수집하+ㄴ 새롭ㄴ X선데이터를 허블망원경의 가시광선 영역의 데이터와 합성하+ㅁ으로써 오른쪽은 하의 블랙홀이 가스를 게걸스럽게 집어삼키는 ‘괴물’이+ㅁ이 명확히 드러나 +았다 .	O O O O O O O O O O O O O O O O O O O O O
-메르세데스-벤츠의 공임은 6만원에서 최고 7만6000원에 달하+ㄴ다 .	ORG-B O MNY-B O MNY-B O O
-상위 20개 CVC 중에 12곳이 미국 기업의 CVC+이었고 기술·헬스케어 산업에 주로 투자하는 곳이 많았습니다 .	O O O O O ORG-B O O O O O O O O O
-그런데 최근 5년 사이 CVC가 급증하고 있다고 하+ㅂ니다 .	O O O O O O O O O
-강 재판관은 지나 +ㄴ 10일에도 귀국하자마자 곧바로 헌재로 출근하+여 관련 기록을 검토하였다 .	PER-B O O O O O O ORG-B O O O O O
-강 재판관은 이날 출근길에 기자들과 만나 +아“아직 기록을 제대로 보지 못하+ 여기록도마저 검토하고 자료도 정리하+ㄹ 계획”이라고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O
-강 재판관은 이어 “기자들도 궁금하+여하는 사안들이 많을 터+이+ㄴ데저 또한 궁금하+ㄴ점이 많다”며 “가능하면 오늘 최대한 자료를 들여다 보+ㄹ 계획”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-앞서 +어 이날 오전 10시45분쯤에는 박한철 헌재소장도 헌재로 출근하였다 .	O O O O O PER-B ORG-B ORG-B O O
-폴란드의 EU 대표 대변인이 +ㄴ 아르투어 하반트도 “이는 미래의 지렛대를 찾기 위 하+ㄴ길”이라고 +았다 .	ORG-B O O O O PER-B PER-I O O O O O O O O
-학생들은 주 5일, 하루 8시간씩 영어 수업에 참가 하+ㄴ다 .	O O O O O O O O O O
+새누리당 현역 여성 의원 으로서 최다 기록 이 다 .	ORG-B O O O O O O O O O
+식량 원조 접근 했 지만 … 시진핑 · 이수용 만남 은 20 분 뿐	O O O O O O PER-B O PER-B O O O O O
+오늘 홍대 한복판 에 세월호 가 있 었 다 .	O LOC-B O O O O O O O O
+치사율 이 40 % 에 이르 지만 감염 정도 는 상대적 으로 낮 아 중동 이외 의 지역 환자 는 전체 의 2.5 % 뿐 이 다 .	O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+지난 8 월 성남 GC 의 조망권 을 확보한 ‘ 위례 지 웰 푸르지오 오피스텔 ’ 은 평균 13.8 대 1 로 청약 을 마감 했 다 .	O DAT-B DAT-I LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+이 에 누스타 가 수집한 새로 운 X 선 데이터 를 허블 망원경 의 가시광선 영역 의 데이터 와 합성함 으로써 오른쪽 은하 의 블랙홀 이 가스 를 게걸스럽 게 집어삼키 는 ‘ 괴물 ’ 임 이 명확히 드러났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+메르세데스 - 벤츠 의 공임 은 6 만 원 에서 최고 7 만 6000 원 에 달한다 .	ORG-B ORG-I ORG-I O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I O O O
+상위 20 개 CVC 중 에 12 곳 이 미국 기업 의 CVC 였 고 기술 · 헬스 케어 산업 에 주로 투자하 는 곳 이 많 았 습니다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+그런데 최근 5 년 사이 CVC 가 급증하 고 있 다고 합니다 .	O O O O O O O O O O O O O
+강 재판관 은 지난 10 일 에 도 귀국하 자마자 곧바로 헌재 로 출근해 관련 기록 을 검토 했 다 .	PER-B O O O DAT-B DAT-I O O O O O ORG-B O O O O O O O O O
+강 재판관 은 이날 출근길 에 기자 들 과 만나 “ 아직 기록 을 제대로 보 지 못해 기록 도 마저 검토하 고 자료 도 정리할 계획 ” 이라고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강 재판관 은 이어 “ 기자 들 도 궁금해 하 는 사안 들 이 많 을 텐데 저 또한 궁금한 점 이 많 다 ” 며 “ 가능하 면 오늘 최대한 자료 를 들여다볼 계획 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 이날 오전 10 시 45 분 쯤 에 는 박한철 헌재 소장 도 헌재 로 출근 했 다 .	O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O PER-B O O O ORG-B O O O O O
+폴란드 의 EU 대표 대변인 인 아르투어 하 반트 도 “ 이 는 미래 의 지렛대 를 찾 기 위한 길 ” 이라고 봤 다 .	ORG-B O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O
+학생 들 은 주 5 일 , 하루 8 시간 씩 영어 수업 에 참가한다 .	O O O O DAT-B DAT-I O O O O O O O O O O

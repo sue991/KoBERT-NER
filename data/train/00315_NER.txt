@@ -1,15 +1,15 @@
-며칠 후 JP와 가장 가깝ㄴ한 병기 전 캐나다 대사를 만나 +아진 지하게 얘기하였다 .	O O PER-B O O O O O O O O O O O
-이후 이탈리아의 대표적 기업인으로 거듭나 +았다 .	O ORG-B O O O O O
-성공하+ㄴ 페루치오는 삶에서 세 가지 즐거움을 추구하였다 .	O PER-B O O O O O O
-조선관리의 부정부패와 농업체계의 후진성을 묘사하+ㄴ 부정적 이+ㄴ 언급도 있었다 .	ORG-B O O O O O O O O O
-증평·진천군도청사 신축을 추진하+ㄴ다 .	LOC-B O O O
-창단 이후 4번째 챔프 전 진출이지만, 한 번도 왕좌에 오르+ㄴ 적이 없기 때문에 선수단의 마음은 더 간절하다 .	O O O O O O O O O O O O O O O O O O
-여기서 경부고속도로 위를 가로지르 어지나가+ㄴ다 .	O LOC-B O O O O
-한국도 결혼과 출산 연령이 높아지고 쌍둥이 출산이 늘면서 이른둥이 출산이 20년 새 두 배 가까이 증가하였다 .	ORG-B O O O O O O O O O O O O O O O O
-남을 이기겠다는 생각이나 최고 학점을 받겠다는 목표보다는 학문 자체에 대하+ㄴ호기심이 충만 하+ㄴ 학생에게 좋은 학교+이다 .	O O O O O O O O O O O O O O O O
-대부분의 이슬람 무장단체의 깃발은 검은색을 사용하고 있다 .	O ORG-B O O O O O O
-㈜콜린스 그린, “유기농 착즙주스를 모두에게”… 건강을 배달하+ㄴ .	ORG-B ORG-I O O O O O O
-지난해 총선(64.6%)보다 훨씬 높아 이번 브렉시트 국민투표에 얼마나 크+ㄴ 관심이 쏠리었는지를 보이어 +주었다 .	O O O O O O O O O O O O O O
-주가가 강 하+ㄴ 오름세를 보이자 경계매물도 늘어나 +아지수는 다시 9백 21까지 밀리기도 +였으나, 장 끝 무렵 중소형 전기­전자 주 쪽으로 사자 주문이 확산되+ㅁ에 따르 아다시 오르았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 시즌부터 손흥민을 현장에서 취재 하+여오+ㄴ 통신원은 19일(한국시간) 금호타이어 스폰서 행사의 일환으로 토트넘 훈련장을 찾았다 .	O O PER-B O O O O O ORG-B O O O ORG-B O O O
-싸이는 10일 오후 자신의 트위터에 "여름 공연이 없어서 근질거리었는데 금주 금요일 해운대에서 간만에 흠뻑 쇼 한 번 하+ㄹ랍니다 .	PER-B O O O O O O O O O O LOC-B O O O O O O O
+며칠 후 JP 와 가장 가까 운 한병기 전 캐나다 대사 를 만나 진지하 게 얘기 했 다 .	O O PER-B O O O O PER-B O O O O O O O O O O O
+이후 이탈리아 의 대표적 기업인 으로 거듭났 다 .	O ORG-B O O O O O O O
+성공한 페루치오 는 삶 에서 세 가지 즐거움 을 추구 했 다 .	O PER-B O O O O O O O O O O O
+조선 관리 의 부정부패 와 농업 체계 의 후진성 을 묘사한 부정적 인 언급 도 있 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+증평 · 진천군 도 청사 신축 을 추진한다 .	LOC-B LOC-I LOC-I LOC-I LOC-I O O O O
+창단 이후 4 번째 챔프 전 진출 이 지만 , 한 번 도 왕좌 에 오른 적 이 없 기 때문 에 선수단 의 마음 은 더 간절하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 서 경부고속도로 위 를 가로질 러 지나간다 .	O O LOC-B O O O O O O
+한국 도 결혼 과 출산 연령 이 높아지 고 쌍둥이 출산 이 늘 면서 이른둥 이 출산 이 20 년 새 두 배 가까이 증가 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남 을 이기 겠 다는 생각 이나 최고 학점 을 받 겠 다는 목표 보다 는 학문 자체 에 대한 호기심 이 충만한 학생 에게 좋 은 학교 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대부분 의 이슬람 무장 단체 의 깃발 은 검은색 을 사용하 고 있 다 .	O O ORG-B O O O O O O O O O O O O
+㈜ 콜린스 그린 , “ 유기농 착즙 주스 를 모두 에게 ” … 건강 을 배달한다	ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+지난해 총선 ( 64.6 % ) 보다 훨씬 높 아 이번 브렉시트 국민투표 에 얼마나 큰 관심 이 쏠 렸 는지 를 보 여 줬 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주가 가 강한 오름세 를 보이 자 경계 매물 도 늘어나 지수 는 다시 9 백 21 까지 밀리 기 도 했 으나 , 장 끝 무렵 중소형 전기 ­ 전자 주 쪽 으로 사자 주문 이 확산됨 에 따 라 다시 올 랐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 시즌 부터 손흥민 을 현장 에서 취재해 온 통신원 은 19 일 ( 한국 시간 ) 금호타이어 스폰서 행사 의 일환 으로 토트넘 훈련장 을 찾 았 다 .	O O O PER-B O O O O O O O DAT-B DAT-I O O O O ORG-B O O O O O ORG-B O O O O O O
+싸이 는 10 일 오후 자신 의 트위터 에 " 여름 공연 이 없 어서 근질거 렸 는데 금주 금요일 해운대 에서 간만 에 흠뻑 쇼 한번 할랍니다 !	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O DAT-B LOC-B O O O O O O O O

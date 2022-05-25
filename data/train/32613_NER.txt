@@ -1,13 +1,13 @@
-제주도 부동산 시장에 열풍이 불고 있는 가운데 특히 제2공항 특급호재를 갖추+ㄴ서귀포시 성산 일대가 스포트라이트를 받고 있다 .	LOC-B O O O O O O O O O LOC-B LOC-I O O O O O
-협회는 해마다 6월 마지막 주 월요일을 골프의 날로 지정하기로 +였다 .	O O O O O O O O O O O
-나 역시 디지털아트과 1기 출신으로서 사진을 직접 먹고 내시경 카메라로 위를 촬영하는 등 실험 성격이 강 하+ㄴ 영상 작품에 매진하었다 .	O O O O O O O O O O O O O O O O O O O O O
-2008년 ‘테이크+ㄴ’으로 뒤늦게 액션 스타 반열에 오르+ㄴ 리슨은 2편에서 힘들게 구하+여내 +었던 전처 레니가 결국 죽음을 맞이하는 ‘테이크+ㄴ3’로 다시 정열을 불태우었다 .	O O O O O O O PER-B O O O O O PER-B O O O O O O O O
-차 전 대법관은 법무법인 태평양이 설립하+ㄴ 공익재단 동천의 이사장이 +었고, 목영준 전 헌법재판관은 2013년 5월부터 김앤장 사회공헌위원장을 맡고 있다 .	PER-B O O O ORG-B O O ORG-B ORG-I O PER-B O O O O ORG-B ORG-I O O O
-'리얼스토리눈' 신은경 직접 밝히+ㄴ심경, "장애아들과 전 남편… .	O PER-B O O O O O O
-3 연승을 하+ㄴ한국은 승점 9를 기록하며 골득실차에서 쿠웨이트를 누르고 G조 1위로 나서 +었다 .	O O ORG-B O O O O ORG-B O ORG-B O O O O
-“한국의 박근혜 대통령은 독재자 아버지를 답습하였다 .	ORG-B PER-B O O O O O
-한화그룹은 더 경쟁력 있는 기업, 더 효율적 이+ㄴ 기업을 만들기 위하+ 여사업 구조를 재편하+여+았다 .	ORG-B O O O O O O O O O O O O O O
-문 총재가 있을 때도 그런 이야기를 많이 +였다 .	PER-B O O O O O O O O
-김 대표는 ‘국민연금 소득대체율 50%’ 국회 규칙 명기 여부에 대하+여서 +ㄴ “이번 일의 주제는 공무원연금 개혁으로, 연금법 내용을 놓고 잘 되었나 잘못되었나를 말하+ 여야 하+ㄴ다”며 “완전히 별개 이+ㄴ국민연금 소득대체율을 놓고 옳으냐 그르냐 하는 것+이 얼마나 허망하+ㄴ일이+ㄴ지 답답하다”고도 +였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-곽정은 하차, 8살 연하훈 남남친새삼화제… 공개되+ㄴ 사진 보 .	PER-B O O O O O O O O
-보기와 달리 다들 개인적 이+ㄴ 욕망이 있겠지만, 대표 정치인이 그런 사적이 +ㄴ 것을 얘기하거나 정치인의 삶이 힘들다고 표현하는 걸 +ㄴ한국에서 +ㄴ 비난받기 딱 좋다 .	O O O O O O O O O O O O O O O O O O O LOC-B O O O O O
+제주도 부동산 시장 에 열풍 이 불 고 있 는 가운데 특히 제 2 공항 특급 호재 를 갖춘 서귀포시 성산 일대 가 스포트라이트 를 받 고 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O
+협회 는 해마다 6 월 마지막 주 월요일 을 골프 의 날 로 지정하 기 로 했 다 .	O O O O O O O DAT-B O O O O O O O O O O O
+나 역시 디지털 아트 과 1 기 출신 으로서 사진 을 직접 먹 고 내시경 카메라 로 위 를 촬영하 는 등 실험 성격 이 강한 영상 작품 에 매진 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2008 년 ‘ 테이 큰 ’ 으로 뒤늦 게 액션 스타 반열 에 오른 리슨 은 2 편 에서 힘들 게 구해 냈 던 전처 레니 가 결국 죽음 을 맞이하 는 ‘ 테이 큰 3 ’ 로 다시 정열 을 불태 웠 다 .	DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+차 전 대법관 은 법무 법인 태평양 이 설립한 공익 재단 동천 의 이사장 이 됐 고 , 목영준 전 헌법 재판관 은 2013 년 5 월 부터 김 앤 장 사회 공헌 위원장 을 맡 고 있 다 .	PER-B O O O O O ORG-B O O O O ORG-B O O O O O O PER-B O O O O DAT-B DAT-I DAT-I DAT-I O ORG-B ORG-I ORG-I O O O O O O O O O
+' 리얼 스토리 눈 ' 신은경 직접 밝힌 심경 , " 장애 아들 과 전 남편 … "	O O O O O PER-B O O O O O O O O O O O O
+3 연승 을 한 한국 은 승점 9 를 기록하 며 골 득실 차 에서 쿠웨이트 를 누르 고 G 조 1 위 로 나섰 다 .	O O O O ORG-B O O O O O O O O O O ORG-B O O O ORG-B ORG-I O O O O O O
+“ 한국 의 박근혜 대통령 은 독재자 아버지 를 답습 했 다 .	O ORG-B O PER-B O O O O O O O O O
+한화그룹 은 더 경쟁력 있 는 기업 , 더 효율적 인 기업 을 만들 기 위해 사업 구조 를 재편해 왔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+문 총재 가 있 을 때 도 그런 이야기 를 많이 했 다 .	PER-B O O O O O O O O O O O O O
+김 대표 는 ‘ 국민 연금 소득 대체 율 50 % ’ 국회 규칙 명기 여부 에 대해선 “ 이번 일 의 주제 는 공무원 연금 개혁 으로 , 연금법 내용 을 놓 고 잘 됐 나 잘못 됐 나 를 말해야 한다 ” 며 “ 완전히 별개 인 국민 연금 소득 대체 율 을 놓 고 옳 으냐 그르 냐 하 는 게 얼마나 허망한 일 인지 답답하 다 ” 고 도 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+곽정은 하차 , 8 살 연하 훈 남 남친 새삼 화제 … 공개된 사진 보 니	PER-B O O O O O O O O O O O O O O O
+보 기 와 달리 다 들 개인적 인 욕망 이 있 겠 지만 , 대표 정치인 이 그런 사적 인 것 을 얘기하 거나 정치인 의 삶 이 힘들 다고 표현하 는 건 한국 에선 비난 받 기 딱 좋 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O

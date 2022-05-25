@@ -1,15 +1,15 @@
-한편 '알는 형님'은 인생을 살다 보면 마주치게 되는 사소하지만 궁금하+ 여견디+ㄹ 수 없는 시청자의 질문에 출연진이 다양하+ㄴ 방법으로 정답을 찾는 프로그램이다 .	O O O O O O O O O O O O O O O O O O O O O O
-더불어민주당을 탈당하+ㄴ 김종인 전 비대위원장이 18일 “대선 출마에 대하+여 어떤 결정을 하는지 지켜보+아달라”며 대선 출마 가능성을 열어놓+았다 .	ORG-B O PER-B O O O O O O O O O O O O O O O
-김 전 비대위원장은 이날 오전 부산 해운대구 해운정사에서 조계종 종정이+ㄴ 진제 스님과 오찬을 가지+ㄴ 후기자들과 만나 +아 “지금까지 (대선 출마) 고민을 솔직히 많이 하+ㄴ 것+이 사실이다”며 이같이 밝히었다 .	PER-B O O O O LOC-B LOC-I O ORG-B O PER-B O O O O O O O O O O O O O O O O O O
-김 전 비대위원장은 “대선에 뛰어들어서 성취하+ㄹ 수 있을 것이 +ㄴ가 판단을 스스로 하+여보+아야 하+ㄴ다”며 “혼자 힘으로 가능하다고 생각되면 결심 하+ㄹ 수 있지만, 불가능하다고 생각하면 안 하+ㄹ 수 있다”고 대선 출마를 고민 중 이+ㅁ을 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러면서 “정치는 항상 움직이는 것”이라며 “아직 시간이 조금 남아 있으니 한 번 두고보자”고 덧붙이었다 .	O O O O O O O O O O O O O O O
-김 전 비대위원장은 최근 논란이 되고 있는 개헌에 대하+여서는 “민주당 대선주자들은 다음 지방선거에서의 개헌을 확실하+ㄴ 공약으로 내놓+아야 하+ㄴ다”고 목소리를 높이었다 .	PER-B O O O O O O O O ORG-B O O O O O O O O O O O
-그는 “3당이 개헌을 발의하+ㄴ다고 하지만 민주당 쪽에서 흔쾌하+ㄴ 자세를 보이지 않고 있다”며 “대선 전 개헌에 대하+여 상당히 회의적으로 생각하+ㄴ다”고 대선 전 개헌을 부정적으로 전망하였다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-현재 건축계 노벨상이라 불리는 프리츠 커 뿐 국제심사위원으로 활동 중 이+ㄴ 톰 메인은 모포시스 건축그룹의 창업자이자 CEO로, 미국 정부 건축문화 부문의 최고 자문위원으로도 활동하고 있다 .	O O O O O O O O O O O PER-B PER-I ORG-B ORG-I O O ORG-B ORG-I ORG-I O O O O O O
-고조남철 9단이 한성기원을 세우며 한국 현대 바둑의 씨앗을 뿌리었다 .	PER-B O ORG-B O ORG-B O O O O O
-무역업체 쉘라인의 김영심 대표는 “해외 진출을 위하+여서는 관세정책 등을 조사하+여야 하는데 조사하+ㄹ 때마다 다르 아서 어려움이 많다”며 “정부에서 관세정책을 일목요연하게 정리 하+여주면 좋겠다”고 제안하였다 .	O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O
-XE는 주행성능을 확보하기 위하+여차 체 무게 배분을 전후 50대 50으로 설계하였다 .	O O O O O O O O O O O O
-그래서 그렇 +ㄴ지, 이번 회담과 관련 하+여중국은 오히려 우호적이고 협력적 이+ㄴ 분위기의 회담이라는 점을 부각시키기 위하+여무척 힘을 쓰고 있는 것 같다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O
-3년간 24시간 보수교육(연수교육)만 받으면 그만이니 운전면허증 갱신만도 못하+ㄴ셈이다 .	O O O O O O O O O
-의 ‘오차장’ 역할을 통하+여보이어 주+ㄴ 승부사적 기질을 기반으로 (주)딜리버리 서비스의 배달 애플리케이션 ‘최고 배달’의 메인 모델로 발탁되+ㄴ 것.(주)딜리버리 서비스 관계자는 “다른 부서의 뒤치다 꺼리를 담당하는 부서로 좌천되었으나 사회생활을 통하+여 쌓은 통찰력과 승부사 기질을 보이어 주+ㄴ ‘오차장’의 이미지가 ‘최고 배달’ 과일맥상통하다고 여기 +어그를 메인 모델로 발탁하게 +었다”고 전하였다 .	O PER-B O O O O O O ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
-수용되+ㄴ 정치범 6백 명 가운데 55명의 명단을 발표하면서 그곳의 참혹상을 매우 구체적으로 공개하였다 .	O O O O O O O O O O O O O O
+한편 ' 아 는 형님 ' 은 인생 을 살 다 보 면 마주치 게 되 는 사소하 지만 궁금해 견딜 수 없 는 시청자 의 질문 에 출연진 이 다양한 방법 으로 정답 을 찾 는 프로그램 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+더불 어 민주당 을 탈당한 김종인 전 비대 위원장 이 18 일 “ 대선 출마 에 대해 어떤 결정 을 하 는지 지켜봐 달 라 ” 며 대선 출마 가능성 을 열 어 놨 다 .	ORG-B ORG-I ORG-I O O PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+김 전 비대 위원장 은 이날 오전 부산 해운대구 해운 정사 에서 조계종 종정 인 진제 스님 과 오찬 을 가진 후 기자 들 과 만나 “ 지금 까지 ( 대선 출마 ) 고민 을 솔직히 많이 한 게 사실 이 다 ” 며 이같이 밝 혔 다 .	PER-B O O O O O O LOC-B LOC-I O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 전 비대 위원장 은 “ 대선 에 뛰어들 어서 성취할 수 있 을 것 인가 판단 을 스스로 해 봐야 한다 ” 며 “ 혼자 힘 으로 가능하 다고 생각되 면 결심할 수 있 지만 , 불가능하 다고 생각하 면 안 할 수 있 다 ” 고 대선 출마 를 고민 중 임 을 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 “ 정치 는 항상 움직이 는 것 ” 이 라며 “ 아직 시간 이 조금 남 아 있 으니 한 번 두 고 보 자 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 전 비대 위원장 은 최근 논란 이 되 고 있 는 개헌 에 대해서 는 “ 민주당 대선 주자 들 은 다음 지방 선거 에서 의 개헌 을 확실한 공약 으로 내놔야 한다 ” 고 목소리 를 높 였 다 .	PER-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 3 당 이 개헌 을 발의한다고 하 지만 민주당 쪽 에서 흔쾌한 자세 를 보이 지 않 고 있 다 ” 며 “ 대선 전 개헌 에 대해 상당히 회의적 으로 생각한다 ” 고 대선 전 개헌 을 부정적 으로 전망 했 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 건축 계 노벨상 이 라 불리 는 프리츠 커 상 국제 심사 위원 으로 활동 중 인 톰 메인 은 모포 시스 건축 그룹 의 창업자 이 자 CEO 로 , 미국 정부 건축 문화 부문 의 최고 자문 위원 으로 도 활동하 고 있 다 .	O O O O O O O O O O O O O O O O O O PER-B PER-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
+고 조남철 9 단 이 한성기원 을 세우 며 한국 현대 바둑 의 씨앗 을 뿌 렸 다 .	O PER-B O O O ORG-B O O O ORG-B O O O O O O O O O
+무역 업체 쉘 라인 의 김영심 대표 는 “ 해외 진출 을 위해서 는 관세 정책 등 을 조사해야 하 는데 조사할 때 마다 달 라서 어려움 이 많 다 ” 며 “ 정부 에서 관세 정책 을 일목요연하 게 정리해 주 면 좋 겠 다 ” 고 제안 했 다 .	O O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+XE 는 주행 성능 을 확보하 기 위해 차체 무게 배분 을 전후 50 대 50 으로 설계 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+그래서 그런지 , 이번 회담 과 관련해 중국 은 오히려 우호적 이 고 협력 적 인 분위기 의 회담 이 라는 점 을 부각 시키 기 위해 무척 힘 을 쓰 고 있 는 것 같 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 년 간 24 시간 보수 교육 ( 연수 교육 ) 만 받 으면 그만 이 니 운전 면허증 갱신 만 도 못한 셈 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+의 ‘ 오 차장 ’ 역할 을 통해 보 여 준 승부 사 적 기질 을 기반 으로 ( 주 ) 딜리버리 서비스 의 배달 애플리케이션 ‘ 최고 배달 ’ 의 메인 모델 로 발탁된 것 . ( 주 ) 딜리버리 서비스 관계자 는 “ 다른 부서 의 뒤치다꺼리 를 담당하 는 부서 로 좌천 됐 으나 사회생활 을 통해 쌓 은 통찰력 과 승부 사 기질 을 보 여 준 ‘ 오 차장 ’ 의 이미지 가 ‘ 최고 배달 ’ 과 일맥상통하 다고 여겨 그 를 메인 모델 로 발탁하 게 됐 다 ” 고 전 했 다 .	O O PER-B O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수용된 정치범 6 백 명 가운데 55 명 의 명단 을 발표하 면서 그곳 의 참혹상 을 매우 구체적 으로 공개 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O

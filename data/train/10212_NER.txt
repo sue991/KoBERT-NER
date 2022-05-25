@@ -1,12 +1,12 @@
-11살 딸 학대 아버지"왜 딸을 때리고 굶기었나 "질문에 …시종일관"죄송하다 .	O O O O O O O O O O
-층수도 최저 1층~지상 32층까지 고르게 구성되 +어 있다 .	O O O O O O O O O
-’(‘오래되+ㄴ기도’ 중에서) 『희지의 세계 』황인찬, 민음사 올해 스물여덟 살의 황인찬 시인은 어쩌면 한국문학사를 다시 쓰고 있는지도 모르+ㄴ다 .	O O O O PER-B ORG-B O O O PER-B O O ORG-B O O O O O
-한편 영화 ‘귀향’은 일본군 위안부 피해자 강일출 할머니의 실화를 배경으로 +어내리+어 간 작품.1943년 일본군 손에 이끌 리+어 가족의 품을 떠나 +ㄴ열네 살정민(강 하나 분)과 소녀들의 가슴 아프+ㄴ 사연을 담았다 .	O O O ORG-B O O PER-B O O O O O O ORG-B O O O O O O O PER-B PER-I O O O O O O O
-또한 교수는 제자가 자신의 가혹행위를 발설하는 것을 막기 위 하+여 20여회에 걸치+어서 1억3000여만원에 달하는 지급각서까지 받아 +았다 .	O O O O O O O O O O O O MNY-B O O O O O
-중소기업에서 오래 일하도록 유도하는 기금이 +ㄴ ‘내일채움공제’는 현재 중소기업진흥공단을 통하+여서만 가입하+ㄹ 수 있지만 내년부터는 시중은행에서도 들+ㄹ 수 있다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O
-유성열 ryu@d onga. com/세종=홍수용기 .	PER-B O O LOC-B O
-신 의원은 “서울메트로는 청년과 국민에게 공식적으로 사죄하고, 후진적 안전시스템을 극복하+ㄹ 수 있는 구조개편을 당장 착수 하+여야 하+ㄴ다”고 말하였다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O
-그렇기 때문에 이것 +ㄹ 합의 하+ㄴ 것 +ㄴ, 10억엔에 합의 하+ㄴ 것+ㄴ 정말 잘못되+ㄴ 것”이라고 강조하였다 .	O O O O O O O O MNY-B O O O O O O O O
-특히 모든 피부가 사용 가능 하+ㄴ ‘에코에너지 마일드라인’과 지성 피부용이+ㄴ ‘에코에너지 프레쉬 라인’으로 선보이어 피부 타입에 따르 아선택이 가능하며 각각 토너, 에멀젼, 올인원 플루이드 등 3종과 마일드라인에는 클렌징 품이 추가로 구성되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-먼저 모든 피부용이+ㄴ ‘에코에너지 마일드라인’은 로즈마리, 스위트 마 조+이람, 레몬밤 허브 추출물이 함유되어 외부 스트레스로 지치고 면도로 자극받은 피부를 진정시키+어주+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O
-이에 나영석 PD는 “이름+어드리는 정도”라고 해명하였다 .	O PER-B O O O O O
+11 살 딸 학대 아버지 " 왜 딸 을 때리 고 굶 겼 나 " 질문 에 … 시종일관 " 죄송하 다 "	O O O O O O O O O O O O O O O O O O O O O O O
+층수 도 최저 1 층 ~ 지상 32 층 까지 고르 게 구성돼 있 다 .	O O O O O O O O O O O O O O O O
+’ ( ‘ 오래된 기도 ’ 중 에서 ) 『 희지 의 세계 』 황인찬 , 민음사 올해 스물 여덟 살 의 황인찬 시인 은 어쩌면 한국 문학사 를 다시 쓰 고 있 는지 도 모른다 .	O O O O O O O O O O O O O O PER-B O ORG-B O O O O O PER-B O O O ORG-B O O O O O O O O O O
+한편 영화 ‘ 귀향 ’ 은 일본 군 위안부 피해자 강일출 할머니 의 실화 를 배경 으로 써 내려 간 작품 . 1943 년 일본 군 손 에 이끌려 가족 의 품 을 떠난 열 네 살 정민 ( 강하 나 분 ) 과 소녀 들 의 가슴 아픈 사연 을 담 았 다 .	O O O O O O ORG-B O O O PER-B O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O PER-B O PER-B PER-I O O O O O O O O O O O O O O
+또한 교수 는 제자 가 자신 의 가혹 행위 를 발설하 는 것 을 막 기 위해 20 여 회 에 걸쳐서 1 억 3000 여 만 원 에 달하 는 지급 각서 까지 받 아 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O
+중소기업 에서 오래 일하 도록 유도하 는 기금 인 ‘ 내일 채움 공제 ’ 는 현재 중소기업 진흥 공단 을 통해서 만 가입할 수 있 지만 내년 부터 는 시중 은행 에서 도 들 수 있 다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+유성열 ryu @ donga . com / 세종 = 홍수용 기자	PER-B O O O O O O LOC-B O PER-B O
+신 의원 은 “ 서울메트로 는 청년 과 국민 에게 공식적 으로 사죄하 고 , 후진 적 안전 시스템 을 극복할 수 있 는 구조 개편 을 당장 착수해야 한다 ” 고 말 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그렇 기 때문 에 이걸 합의한 건 , 10 억 엔 에 합의한 건 정말 잘못된 것 ” 이라고 강조 했 다 .	O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+특히 모든 피부 가 사용 가능한 ‘ 에코 에너지 마일드 라인 ’ 과 지성 피부 용 인 ‘ 에코 에너지 프레쉬 라인 ’ 으로 선보 여 피부 타입 에 따 라 선택 이 가능하 며 각각 토너 , 에멀젼 , 올인원 플루이드 등 3 종 과 마일드 라인 에 는 클렌징 품 이 추가 로 구성 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+먼저 모든 피부 용 인 ‘ 에코 에너지 마일드 라인 ’ 은 로즈마리 , 스위트 마조 람 , 레몬밤 허브 추출물 이 함유되 어 외부 스트레스 로 지치 고 면도 로 자극 받 은 피부 를 진정 시켜 준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 나영석 PD 는 “ 이름 써 드리 는 정도 ” 라고 해명 했 다 .	O O PER-B O O O O O O O O O O O O O O

@@ -1,19 +1,19 @@
-양양군이 계획안을 수립하고 국토부가 관계부처 협의와 중앙도시계획위원회, 국토정책위원회 심의를 거치+어 최종 확정하였다 .	ORG-B ORG-I O ORG-B ORG-I O ORG-B ORG-B O O O O O
-‘일왕도 진심으로 사과 하+ㄹ 것+이 아니면 한국을 방문하+ㄹ 필요 없다’는 직정(直情) 발언은 국내에서 +ㄴ 잠시 박수를 받았을지 모르아도 이후 한일관계를 수렁으로 빠뜨리었다 .	O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O
-막내아들은 이란 기업 서울지사에서 일하+ㄴ다 .	O ORG-B O LOC-B O O
-이 세형 turtle@donga. com·박용기 .	O O O PER-B O
-9일 블룸버그에 따르면 서부텍사스산 원유(WTI) 가격은 올해 6월 초 이후 이달까지 37% 하락하였다 .	O ORG-B O O O O O O O O O O O O
-이날 정현과 만나 +ㄴ 베를로크는 예선을 거치+ㄴ 선수+이지만, 2012년 3월 세계 랭킹 37위까지 오르았던 베테랑으로 자신의 두 차례 투어대회 우승을 모두 클레이 코트에서 거두었다 .	O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O
-해군, 2015년 명예대위 →소령으로 진급 임 .	O O O O O O O
-그와 피츠버그의 계약이 성사되면 강정호는 스프링캠프에서 조디머서와 주 전 경쟁을 펼치게 되+ㄴ다 .	O ORG-B O O PER-B O PER-B O O O O O O
-‘잡스’ 노홍철 “박명수, 발전이 없더라” … 박명수 답변은? ‘폭소 .	O PER-B PER-B O O O PER-B O O O
-‘언니랑 고고’하지원, 친언니와 함께 ‘찰칵’ … 눈부시+ㄴ 미모 에 팬들 시선 ‘확 .	O PER-B O O O O O O O O O O O
-경남 거창경찰서는 관련자들 소환 조사 및 여러 정황 분석 결과 이렇게 결론짓고 수사를 종결하기로 +였다고 16일 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O
-전여옥 전 새누리당 의원은 반기문 전 유엔 사무총장에 대하+여'공감능력이 없다'고 지적하였다 .	PER-B O ORG-B O PER-B O ORG-B O O O O O
-마룬5 내 한공연, 애덤 리바인 인스타 인증샷 화 .	ORG-B O O PER-B PER-I O O O O
-이번 경기를 대하는 최윤구 단주의의 지도특별하다 .	O O O PER-B O O O
-환경부는 이들 안전기준을 초과하고 표기를 제대로 하지 않은 업자들에 대하+여서는 행정처분이 확정되는 대로 형사고발을 검토하겠다고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O
-심씨는 황씨를 통하+여 음식은 맛이 전부가 아니라는 것+ㄹ깨닫았다 .	PER-B PER-B O O O O O O O
-한편 백종원은 MBC '마리텔'에서 일시 하차하였다 .	O PER-B ORG-B O O O O
-[사진 아모레퍼시픽 .	O ORG-B O
-“시간이 없어서.”KT가 최근 선보이+ㄴ TV 광고 한 편이 직장인들의 공감대를 불러일으키고 있다 .	O ORG-B O O O O O O O O O O O
+양양군 이 계획안 을 수립하 고 국토 부 가 관계 부처 협의 와 중앙 도시 계획 위원회 , 국토 정책 위원회 심의 를 거쳐 최종 확정 했 다 .	ORG-B O O O O O ORG-B ORG-I O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O
+‘ 일 왕 도 진심 으로 사과할 게 아니 면 한국 을 방문할 필요 없 다 ’ 는 직정 ( 直情 ) 발언 은 국내 에선 잠시 박수 를 받 았 을지 몰 라도 이후 한일 관계 를 수렁 으로 빠뜨 렸 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+막내아들 은 이란 기업 서울 지사 에서 일한다 .	O O ORG-B O LOC-B O O O O
+이세형 turtle @ donga . com · 박용 기자	PER-B O O O O O O PER-B O
+9 일 블룸버그 에 따르 면 서부 텍사스 산 원유 ( WTI ) 가격 은 올해 6 월 초 이후 이달 까지 37 % 하락 했 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+이날 정현 과 만난 베를로크 는 예선 을 거친 선수 지만 , 2012 년 3 월 세계 랭킹 37 위 까지 올 랐 던 베테랑 으로 자신 의 두 차례 투어 대회 우승 을 모두 클레이 코트 에서 거 뒀 다 .	O PER-B O O PER-B O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+해군 , 2015 년 명예 대위 → 소령 으로 진급 임명	O O DAT-B DAT-I O O O O O O O
+그 와 피츠버그 의 계약 이 성사되 면 강정호 는 스프링 캠프 에서 조디 머서 와 주전 경쟁 을 펼치 게 된다 .	O O ORG-B O O O O O PER-B O O O O PER-B PER-I O O O O O O O O
+‘ 잡스 ’ 노홍철 “ 박명수 , 발전 이 없 더라 ” … 박명수 답변 은 ? ‘ 폭소 ’	O O O PER-B O PER-B O O O O O O O PER-B O O O O O O
+‘ 언니 랑 고고 ’ 하지원 , 친언니 와 함께 ‘ 찰칵 ’ … 눈부신 미모 에 팬 들 시선 ‘ 확 ’	O O O O O PER-B O O O O O O O O O O O O O O O O O
+경남 거창 경찰서 는 관련자 들 소환 조사 및 여러 정황 분석 결과 이렇 게 결론짓 고 수사 를 종결하 기 로 했 다고 16 일 밝 혔 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+전여옥 전 새누리당 의원 은 반기문 전 유엔 사무총장 에 대해 ' 공감 능력 이 없 다 ' 고 지적 했 다 .	PER-B O ORG-B O O PER-B O ORG-B O O O O O O O O O O O O O O O
+마룬 5 내한 공연 , 애덤 리바인 인스타 인증 샷 화제	ORG-B ORG-I O O O PER-B PER-I O O O O
+이번 경기 를 대하 는 최 윤 구단주 의 의지 도 특별하 다 .	O O O O O PER-B PER-I O O O O O O O
+환경부 는 이 들 안전 기준 을 초과하 고 표기 를 제대로 하 지 않 은 업자 들 에 대해서 는 행정 처분 이 확정되 는 대로 형사 고발 을 검토하 겠 다고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+심 씨 는 황 씨 를 통해 음식 은 맛 이 전부 가 아니 라는 걸 깨달 았 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O
+한편 백종원 은 MBC ' 마리 텔 ' 에서 일시 하차 했 다 .	O PER-B O ORG-B O O O O O O O O O O
+[ 사진 아모레퍼시픽 ]	O O ORG-B O
+“ 시간 이 없 어서 . ” KT 가 최근 선보인 TV 광고 한 편 이 직장인 들 의 공감대 를 불러일으키 고 있 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-특히 이날 공연에는 진료를 통하+여제일병원과 인연이 닿은 러시아 유명 성악가 쪼마리나의 특별공연이 펼쳐 지+어 관객들의 크+ㄴ 호응을 얻었다 .	O O O O ORG-B O O ORG-B O O PER-B O O O O O O O O
-디스크 크기가 크+ㄴ 경우 고주파로 문 원장은 “탈출되+ㄴ 디스크의 크기가 크+ㄴ 경우는 최근 많이 시행되고 있는 디스크 고주파 수핵감압술을 시행하면 수술을 피하+ㄹ 수 있다”고 말하였다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
-24개월 약정이 다시 시작되는 것이다 .	O O O O O O
-2016일자리 우수강소기업, 울트라브이(ULTRAV) 배인 아직 원 인터 .	O O ORG-B O O O O O
-소사벌초, 신한중, 비전고 등이 가깝다 .	ORG-B ORG-B ORG-B O O O
-DJ-盧 정부 인사들 “現 외교-안보 관료 아무것도 하지 말라” 논 .	ORG-B ORG-I O O O O O O O O O
-포스코, 창의적 인재에 직접 지원… 90개 스타트업 산파 역할 맡 .	ORG-B O O O O O O O O O O
-(영화 ‘아저씨’의)이 정범 감독을 통하+여드문드 문 원빈 오빠의 소식을 듣고 있다”고 말하였다 .	O O O O O O PER-B O O O O O O
-김새론은 지나 +ㄴ 2010년 개봉하+ㄴ영화 ‘아저씨’에서 원빈과 호흡을 맞추+어크+ㄴ인기를 얻었다 .	PER-B O O O O O PER-B O O O O
-'인기가요' 유승옥, 니엘과 함께 무대 오르 아…여전히 핫한 몸매에 男心 '흔들' ‘인기가요’ 유승옥이니엘의 ‘못되+ㄴ 여자’ 무대에 등장하+여화제+이다 .	O PER-B PER-B O O O O O O O O O PER-B O O O O O
-“마이클 펠프스(미국)가 ‘수영 황제’라던데, 실력만큼 정말 매너도 좋은 사람이 +ㄹ까? .	PER-B LOC-B O O O O O O O O O
-또 소미는 “언니들이 자꾸 뭐+ㄹ+였다 .	O PER-B O O O O
-예를 들어 구글 플레이 스토어에서 상위 100~150위권을 한 달만 유지하면 게임 매출은 월 1억원씩 나 오+ㄹ 수 있다 .	O O O O O O MNY-B O O O O O O MNY-B O O O O O
+특히 이날 공연 에 는 진료 를 통해 제일병원 과 인연 이 닿 은 러시아 유명 성악가 쪼 마리나 의 특별 공연 이 펼쳐져 관객 들 의 큰 호응 을 얻 었 다 .	O O O O O O O O ORG-B O O O O O ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O
+디스크 크기 가 큰 경우 고주파 로 문 원장 은 “ 탈출 된 디스크 의 크기 가 큰 경우 는 최근 많이 시행되 고 있 는 디스크 고주파 수핵 감압 술 을 시행하 면 수술 을 피할 수 있 다 ” 고 말 했 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+24 개월 약정 이 다시 시작되 는 것 이 다 .	O O O O O O O O O O O
+2016 일자리 우수 강소기 업 , 울트라 브이 ( ULTRA V ) 배인아 직원 인터뷰	DAT-B O O O O O ORG-B ORG-I O ORG-B ORG-I O PER-B O O
+소사 벌초 , 신한중 , 비전고 등 이 가깝 다 .	ORG-B ORG-I O ORG-B O ORG-B O O O O O
+DJ - 盧 정부 인사 들 “ 現 외교 - 안보 관료 아무것 도 하 지 말 라 ” 논란	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O
+포스코 , 창의적 인재 에 직접 지원 … 90 개 스타트 업 산파 역할 맡 아	ORG-B O O O O O O O O O O O O O O O
+( 영화 ‘ 아저씨 ’ 의 ) 이정범 감독 을 통해 드문드문 원빈 오빠 의 소식 을 듣 고 있 다 ” 고 말 했 다 .	O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O
+김새론 은 지난 2010 년 개봉한 영화 ‘ 아저씨 ’ 에서 원빈 과 호흡 을 맞춰 큰 인기 를 얻 었 다 .	PER-B O O DAT-B DAT-I O O O O O O PER-B O O O O O O O O O O O
+' 인기 가요 ' 유승옥 , 니엘 과 함께 무대 올 라 … 여전히 핫 한 몸매 에 男心 ' 흔들 ' ‘ 인기 가요 ’ 유승옥 이 니엘 의 ‘ 못된 여자 ’ 무대 에 등장해 화제 다 .	O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O
+“ 마이클 펠프스 ( 미국 ) 가 ‘ 수영 황제 ’ 라던데 , 실력 만큼 정말 매너 도 좋 은 사람 일까 ? ”	O PER-B PER-I O LOC-B O O O O O O O O O O O O O O O O O O O
+또 소미 는 “ 언니 들 이 자꾸 뭘 했 다 .	O PER-B O O O O O O O O O O
+예 를 들 어 구글 플레이 스토어 에서 상위 100 ~ 150 위 권 을 한 달 만 유지하 면 게임 매출 은 월 1 억 원 씩 나올 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O

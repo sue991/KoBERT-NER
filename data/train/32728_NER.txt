@@ -1,14 +1,14 @@
-저녁이 있는 삶.2012년 대선을 앞두고 손학규 당시 민주통합당 상임고문이 내걸 +ㄴ슬로건이다 .	O O O O O PER-B O ORG-B O O O O
-안 소령은 이번 대회 상금 130만원을 순직 조종사 자녀를 위하+ㄴ ‘하늘사랑 장학재단’에 기부하기로 +였다 .	PER-B O O O O MNY-B O O O O O O O O O
-서울지방경찰청은 14일 오전 9시부터 10시 반까지 ‘투르드코리아 2015’ 대회 코스를 따르 아도로를 순차적으로 통제하+ㄴ다고 13일 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O
-오혜리도태권 .	PER-B O
-박 교수는 “교사가 되기 위하+ㄴ 첫 관문을 통과하였다는 의미”라고 설명하였다 .	PER-B O O O O O O O O O O
-‘냉장고를 부탁하+여’ 오세득 등장에 최현석 “밟아주겠다” .	O O PER-B O PER-B O O
-전 세계 440개 이상 주요 은행 외에도 아메리칸 익스프레스, 유니온페이, 마스터카드, 비자 등 주요 카드사 및 알리페이 등과도 제휴하고 있다 .	O O O O O O O ORG-B ORG-I ORG-B ORG-B ORG-B O O O O ORG-B O O O O
-파리대교구장이+ㄴ앙드레뱅트루아추기경은 미사 강론에서 “신(神)의 위대하+ㅁ을 보이어주는 것은 참수(斬首)가 아니다”라며 “한없이 약 하+ㄴ 인간에 대하+ㄴ 연민과 사랑”이라고 말하였다 .	LOC-B O O O O O O O O O O O O O O O O O
-롯데마트 관계자는 “아직 2차 영업정지 기간이 도래하지 않았거나 현장점검이 이루어지지 않은 점포들에 대하+여서는 지속적 이+ㄴ 현장 개선 노력과 중국 소방당국에 대하+ㄴ 진정성 있는 소통을 통하+여 하루빨리 사태가 정상화되+ㄹ 수 있도록 많은 노력을 기울이+ㄹ 것”이라고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-(서울=뉴스1 .	LOC-B O
-JP는 “유럽에서 영웅과 위인들의 동상, 민족기록화(畵)를 보+ㄹ 때마다 부럽었다”고 하+ㄴ다 .	PER-B LOC-B O O O O O O O O O
-행쇄위는 이와 함께 운전면허증 갱신에 따르+ㄴ 불편을 개선, 적성검사 대상이 아니+ㄴ운전자에게는 우편을 통하+여면허증을 재발급 하+여면허시험장이나 경찰서를 방문하는 번거롭 +ㅁ을 덜어주기로 +였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-문체부는 대회 준비 상황을 점검하고 정부 지원 대책을 논의하는 ‘2015 광주 유니버시아드 대회 지원 특별전담팀(TF)’을 구성하+여지나 +ㄴ 3월 5일 광주시 현지에서 제1차 회의를 개최 하+ㄴ바 있다 .	ORG-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
-강인의 소속 사이+ㄴ SM엔터테인먼트 관계자는 “개인 사정으로 예비군 훈련에 불참하게 +었다”며 “앞으로 절대 이런 일이 없도록 하겠다”고 말하였다 .	O O O ORG-B O O O O O O O O O O O O O O O
+저녁 이 있 는 삶 . 2012 년 대선 을 앞두 고 손학규 당시 민주통합당 상임 고문 이 내건 슬로건 이 다 .	O O O O O O DAT-B DAT-I O O O O PER-B O ORG-B O O O O O O O O
+안 소령 은 이번 대회 상금 130 만 원 을 순직 조종사 자녀 를 위한 ‘ 하늘사랑 장학 재단 ’ 에 기부하 기 로 했 다 .	PER-B O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+서울지방경찰청 은 14 일 오전 9 시 부터 10 시 반 까지 ‘ 투르드 코리아 2015 ’ 대회 코스 를 따 라 도로 를 순차적 으로 통제한다고 13 일 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O DAT-B O O O O O O O O O O O DAT-B DAT-I O O O O
+오혜리 도 태권 金	PER-B O O O
+박 교수 는 “ 교사 가 되 기 위한 첫 관문 을 통과 했 다는 의미 ” 라고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+‘ 냉장고 를 부탁해 ’ 오세득 등장 에 최현석 “ 밟 아 주 겠 다 ” ,	O O O O O PER-B O O PER-B O O O O O O O O
+전 세계 440 개 이상 주요 은행 외 에 도 아메리칸 익스프레스 , 유니온 페이 , 마스터 카드 , 비자 등 주요 카드 사 및 알리 페이 등 과 도 제휴하 고 있 다 .	O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O ORG-B ORG-I O ORG-B O O O O O ORG-B ORG-I O O O O O O O O
+파리 대 교구장 인 앙드레 뱅 트루아 추기경 은 미사 강론 에서 “ 신 ( 神 ) 의 위대함 을 보 여 주 는 것 은 참수 ( 斬首 ) 가 아니 다 ” 라며 “ 한없이 약한 인간 에 대한 연민 과 사랑 ” 이라고 말 했 다 .	LOC-B O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데마트 관계자 는 “ 아직 2 차 영업 정지 기간 이 도래하 지 않 았 거나 현장 점검 이 이뤄지 지 않 은 점포 들 에 대해서 는 지속적 인 현장 개선 노력 과 중국 소방 당국 에 대한 진정 성 있 는 소통 을 통해 하루빨리 사태 가 정상화될 수 있 도록 많 은 노력 을 기울일 것 ” 이라고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+JP 는 “ 유럽 에서 영웅 과 위인 들 의 동상 , 민족 기록 화 ( 畵 ) 를 볼 때 마다 부러 웠 다 ” 고 한다 .	PER-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+행쇄위 는 이 와 함께 운전 면허증 갱신 에 따른 불편 을 개선 , 적성 검사 대상 이 아닌 운전자 에게 는 우편 을 통해 면허증 을 재 발급 해 면허 시험장 이나 경찰서 를 방문하 는 번거로움 을 덜 어 주 기 로 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문체부 는 대회 준비 상황 을 점검하 고 정부 지원 대책 을 논의하 는 ‘ 2015 광주 유니버시아드 대회 지원 특별 전담 팀 ( TF ) ’ 을 구성해 지난 3 월 5 일 광주시 현지 에서 제 1 차 회의 를 개최한 바 있 다 .	ORG-B O O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B O O O O O O O O O O O O
+강인의 소속 사 인 SM 엔터테인먼트 관계자 는 “ 개인 사정 으로 예비군 훈련 에 불참하 게 됐 다 ” 며 “ 앞 으로 절대 이런 일 이 없 도록 하 겠 다 ” 고 말 했 다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

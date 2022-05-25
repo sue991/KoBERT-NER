@@ -1,14 +1,14 @@
-[영남 파워기업]“한국 맥주가 맛이 없다고?”수제맥주 열풍 잇어가는 울산토종 기 .	O LOC-B O O O O O LOC-B O O
-아름답ㄴ자연환경과 제주도심 조망이 어우러지+ㄴ 고급스럽 ㄴ 설계로 인기를 끌고 있어서 +이다 .	O O O O O O O O O O O O
-제주도나 +의 오피스텔은 기업들이 사업을 진행하는 동안 머물+ㄹ 수 있는 비즈니스 공간으로 이용이 가능하고 고소득층의 주거공간으로도 적합하다 .	LOC-B O O O O O O O O O O O O O O O O O
-미국 여성 코트니미나 씨는 지나 +ㄴ 8월 미국 허핑턴포스트에 자신이 최근 지방 부종(lipedema) 환자 이+ㅁ을 알게 +었으며 이를 받아들이는 과정을 담담히 적어 내+ㄴ글을 기고 하+여화제가 +었다 .	ORG-B O PER-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-윤은혜, 30대 맞+고?… 20대 뺨치는 미모에 ‘화들짝 .	PER-B O O O O O O O
-교복이 맞지 않아 체육복을 입고 다니었던 강소라는 배우가 되기 위하+여 연극영화과 입시를 준비하며 다이어트를 시작하였다 .	O O O O O O PER-B O O O O O O O O O
-이주연 대표는 “일과 삶이 조화를 이루는 것은 개인은 물론 회사에도 긍정적 이+ㄴ 영향을 미치+ㄴ다”며 “스마트워킹으로 인하+여 가족들과 단란하고 행복하+ㄴ 여가와 휴식을 즐기기 +ㄹ바라+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-출시 일주일 만에 13억어치팔리+ .	O O O MNY-B O
-연세대학교 창업지원단 관계자는 “프로덕트 개발 방법론에서 벗어나 +아 고객 개발 및 시장 공략을 위하+ㄴ 실전 내용을 위주로 구성하+ㄴ창업교육”이라며 “전액 무료로 진행되는 이번 강좌를 통하+여동영상 마케팅을 전반적으로 이해하고, 창업에 적용하+여보+ㄹ 수 있을 것”이라고 설명하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-교육을 이수하 +ㄴ후에는 연세대학교 창업지원단장 명의의 수료증이 발급되 +ㄴ다 .	O O O ORG-B ORG-I O O O O O
-온라인 경매사이트 이베이에서 치토스(Cheetos)과자한 조각이 1억원이 넘는 가격에 낙찰되었다 .	O O O O O MNY-B O O O O
-폭스뉴스 등 미국 언론은 7일(현지시간) 비운의 고릴라 ‘하람베’를 닮은 치토스 조각이 이베이(ebay)에서 9만9900달러(약 1억1400만원)에 팔리었다고 전하였다 .	ORG-B O LOC-B O O O O PER-B O O O O MNY-B MNY-B O O O
-이치토스는 지나 +ㄴ 1월 28일 경매에 올라오았다 .	O O O O O O O O
-직장인 송모(30·여)씨는 지하철을 잘 타지 않는다 .	O PER-B O O O O O
+[ 영남 파워 기업 ] “ 한국 맥주 가 맛 이 없 다고 ? ” 수제 맥주 열풍 이 어 가 는 울산 토종 기업	O O O O O O LOC-B O O O O O O O O O O O O O O O LOC-B O O
+아름다 운 자연환경 과 제주도 심 조망 이 어우러진 고급스러 운 설계 로 인기 를 끌 고 있 어서 다 .	O O O O O O O O O O O O O O O O O O O O O
+제주도 내 오피스텔 은 기업 들 이 사업 을 진행하 는 동안 머물 수 있 는 비즈니스 공간 으로 이용 이 가능하 고 고소득 층 의 주거 공간 으로 도 적합하 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 여성 코트니 미나 씨 는 지난 8 월 미국 허핑턴포스트 에 자신 이 최근 지방 부종 ( lipedema ) 환자 임 을 알 게 됐 으며 이 를 받아들이 는 과정 을 담담히 적 어 낸 글 을 기고해 화제 가 됐 다 .	LOC-B O PER-B PER-I O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤은혜 , 30 대 맞아 ? … 20 대 뺨치 는 미모 에 ‘ 화들짝 ’	PER-B O O O O O O O O O O O O O O O
+교복 이 맞 지 않 아 체육복 을 입 고 다 녔 던 강소라 는 배우 가 되 기 위해 연극 영화 과 입시 를 준비하 며 다이어트 를 시작 했 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+이주연 대표 는 “ 일 과 삶 이 조화 를 이루 는 것 은 개인 은 물론 회사 에 도 긍정적 인 영향 을 미친다 ” 며 “ 스마트 워킹 으로 인해 가족 들 과 단란하 고 행복한 여가 와 휴식 을 즐기 길 바란다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+출시 일주일 만 에 13 억 어치 팔려	O O O O MNY-B MNY-I MNY-I O
+연세대학교 창업 지원 단 관계자 는 “ 프로덕트 개발 방법론 에서 벗어나 고객 개발 및 시장 공략 을 위한 실전 내용 을 위주 로 구성한 창업 교육 ” 이 라며 “ 전액 무료 로 진행되 는 이번 강좌 를 통해 동영상 마케팅 을 전반적 으로 이해하 고 , 창업 에 적용해 볼 수 있 을 것 ” 이라고 설명 했 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교육 을 이수한 후 에 는 연세대학교 창업 지원 단장 명의 의 수료증 이 발급된다 .	O O O O O O ORG-B ORG-I ORG-I O O O O O O O
+온라인 경매 사이트 이베이 에서 치토스 ( Cheetos ) 과자 한 조각 이 1 억 원 이 넘 는 가격 에 낙찰 됐 다 .	O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+폭스뉴스 등 미국 언론 은 7 일 ( 현지 시간 ) 비운 의 고릴라 ‘ 하람 베 ’ 를 닮 은 치토스 조각 이 이베이 ( ebay ) 에서 9 만 9900 달러 ( 약 1 억 1400 만 원 ) 에 팔 렸 다고 전 했 다 .	ORG-B O LOC-B O O DAT-B DAT-I O O O O O O O O PER-B PER-I O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O
+이 치토스 는 지난 1 월 28 일 경매 에 올라 왔 다 .	O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O
+직장인 송 모 ( 30 · 여 ) 씨 는 지하철 을 잘 타 지 않 는다 .	O PER-B PER-I O O O O O O O O O O O O O O O

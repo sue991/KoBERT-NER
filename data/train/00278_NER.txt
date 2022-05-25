@@ -1,13 +1,13 @@
-기존 핑거 프레스를 사용하여 제작하+ㄴ 콘텐츠는 비주얼 다이브의 서버 내에서만 발행 및 저장이 가능하었지만, 2.0버전에서는 원하는 서버로 소스파일 및 데이터 전송이 가능하게 되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-그가 세우+ㄴ 회사 덱스터는 2014년 상하이에 법인을 설립하였고 다음해에 +ㄴ 2000만 달러(약 230억원)를 중국 벤처캐피털 등으로부터 조달하였다 .	O O O ORG-B O LOC-B O O O O MNY-B MNY-I MNY-B ORG-B ORG-I O O O
-올해의 모자라 +ㄴ점은 2016년에 무슨 일이 있어도 채우겠다”고 소감을 전하였다 .	O O O O O O O O O O O
-이 기간 금메달 총 예상치는 8개 +이다 .	O O O O O O O O
-대상 ㈜식품사업총괄 중역이 광승 전무는 “우수하+ㄴ 우리 농산물을 보다 많은 소비자들이 건강하고 맛있게 즐기+ㄹ 수 있도록 하+ㄹ 것”이라고 말하였다 .	O O O O O O O O O O O O O O O O O O O O
-국민의당 경선룰 ‘현장투표 80% ++여론조사 20%’ 합 .	ORG-B O O O O O O O
-강용석 중학생에 굴욕"우리 아빠가 아니라 서 천만다행 .	PER-B O O O O O O O
-31일 영국 일간 데일리메일은 여성들은 생리 기간에 호르몬의 영향을 받아 더 많은 음식을 먹는다고 보도하였다 .	O ORG-B O ORG-B O O O O O O O O O O O O
-이후 45년 태극당, 46년 고려 당·뉴욕 제과가 차례로 문을 열었다 .	O O ORG-B O O ORG-B ORG-I O O O O
-이밖에도 지나 +ㄴ 23일 열리+ㄴ IT포럼에서는 16개국 정부 고위 관계자들이 참석하+여장애인 IT 접근성 제고를 위하+ㄴ각국 정책 현황과 사례 등이 공유되었다 .	O O O O O O O O O O O O O O O O O O O O O
-서인국·장나라, '너를 기억하+여' 대 본 연습화제… 현장몰입도는 어떻었 .	PER-B O O O O O O O O
-비+ㄴ병 보증금이 오르는 것은 1994년 이후 20여년 만에 처음이다 .	O O O O O O O O O O
-소주와 함께 김밥(4.7%), 생선회(4.3%), 쇠고기(4.1%), 갈비탕(4%)의 외식가격도 전년 대비 4%대 상승률을 기록하였다 .	O O O O O O O O O O O O O
+기존 핑거 프레스 를 사용하 여 제작한 콘텐츠 는 비주얼 다이브 의 서버 내 에서 만 발행 및 저장 이 가능 했 지만 , 2.0 버전 에서 는 원하 는 서버 로 소스 파일 및 데이터 전송 이 가능하 게 되 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 가 세운 회사 덱스터 는 2014 년 상하이 에 법인 을 설립 했 고 다음 해 엔 2000 만 달러 ( 약 230 억 원 ) 를 중국 벤처 캐피털 등 으로부터 조달 했 다 .	O O O O ORG-B O DAT-B DAT-I LOC-B O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O ORG-B ORG-I ORG-I O O O O O O
+올해 의 모자란 점 은 2016 년 에 무슨 일 이 있 어도 채우 겠 다 ” 고 소감 을 전 했 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+이 기간 금메달 총 예상 치 는 8 개 다 .	O O O O O O O O O O O
+대상 ㈜ 식품 사업 총괄 중역 이광승 전무 는 “ 우수한 우리 농산물 을 보다 많 은 소비자 들 이 건강하 고 맛있 게 즐길 수 있 도록 할 것 ” 이라고 말 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국민 의당 경선 룰 ‘ 현장 투표 80 %+ 여론 조사 20 % ’ 합의	ORG-B ORG-I O O O O O O O O O O O O O
+강용석 중학생 에 굴욕 " 우리 아빠 가 아니 라서 천만다행 "	PER-B O O O O O O O O O O O
+31 일 영국 일간 데일리 메일 은 여성 들 은 생리 기간 에 호르몬 의 영향 을 받 아 더 많 은 음식 을 먹 는다고 보도 했 다 .	DAT-B DAT-I ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+이후 45 년 태극당 , 46 년 고려당 · 뉴욕 제과 가 차례 로 문 을 열 었 다 .	O DAT-B DAT-I ORG-B O DAT-B DAT-I ORG-B O ORG-B ORG-I O O O O O O O O O
+이 밖 에 도 지난 23 일 열린 IT 포럼 에서 는 16 개국 정부 고위 관계자 들 이 참석해 장애인 IT 접근성 제고 를 위한 각국 정책 현황 과 사례 등 이 공유 됐 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서인국 · 장나라 , ' 너 를 기억해 ' 대본 연습 화제 … 현장 몰입 도 는 어 땠 나	PER-B O PER-B O O O O O O O O O O O O O O O O O
+빈 병 보증금 이 오르 는 것 은 1994 년 이후 20 여 년 만 에 처음 이 다 .	O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+소주 와 함께 김밥 ( 4.7 % ) , 생선회 ( 4.3 % ) , 쇠고기 ( 4.1 % ) , 갈비탕 ( 4 % ) 의 외식 가격 도 전년 대비 4 % 대 상승 률 을 기록 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

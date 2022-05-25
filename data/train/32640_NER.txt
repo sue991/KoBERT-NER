@@ -1,13 +1,13 @@
-3월 1395건, 4월 1728건, 5월 2114건으로 지원 건수도 꾸준히 늘고 있다 .	O O O O O O O O O O O O
-이날 조현영은 박선호에게 퇴짜를 맞은 뒤 박두식과 함께 술을 마시었다 .	O PER-B PER-B O O O PER-B O O O O
-경찰은 이와 함께 범죄를 제보하+ㄴ이 모여인 이 『 납치 당시 범인들이 소씨 부부를 포함, 7∼8명을 살해하였다고 말하였다 』고 진술 하+ㄴ점을 중시, 범인들이 살해하였다고 자백하+ㄴ 5명 외에 피해자가 더 있을 것으로 보고 수사를 확대하고 있다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 주말 서울 광화문 촛불집회 참석자 수를 두고 의견이 엇갈리+ㄴ다 .	O O O O O O O O O O O
-10년 이상 집을 갖고 있다가 매각 하+ㄹ 경우 1주택자는 최고 80%까지 공제를 받지만, 2주택자 이상은 공제한도가 30%로 제한되 +어 있다 .	O O O O O O O O O O O O O O O O O O O O O
-김 대위는 "평화유지군으로서 외국군과 연합작전의 보람, 대한민국 군인으로서 사명감이 저를 다시 레바논으로 이끌었다"고 말하였다 .	PER-B O ORG-B ORG-I O O ORG-B ORG-I O O O ORG-B O O O
-서울시교육청이 주관하는 이번 학력평가에는 전국 1800여 고등학교 3학년 학생 50만명이 응시하였다 .	ORG-B O O O O O O O O O O O
-경기도에서도 수원 ㆍ성남 ㆍ용인 ㆍ화성ㆍ 김포 등 5개 지역 방면 총 8개 노선버스의 막차시간을 종점 기준 새벽 1시로 연장하였다 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O O O
-도심을 통과하는 심야버스N15ㆍN16ㆍN26ㆍN30ㆍN37ㆍN62번 버스 44대는 정상 운행되+ㄴ다 .	O O O O O O O O
-오는 9월 무렵에 +ㄴ 서울 청담동에 지상 10층 규모의 플래그십 스토어도 문을 열 +ㄴ다 .	O O O O LOC-B LOC-I O O O O O O O O O
-채용 전문가들이 말 하+여주는 2016 채용 동향강연, 이미지메이킹 강의 등 볼거리가 다양하+여구직자와 시민들의 크+ㄴ 호응을 얻었다 .	O O O O O O O O O O O O O O O O O
-신남개발사장 최인수  .	ORG-B PER-B O O
-유력지 경제일보가 ‘잠에서 깨어야 하+ㄹ도시는 퉁링만이 아니다’+이란 제목으로 왕양의 칼럼을 전재하였다 .	O O O O O O O O PER-B O O O
+3 월 1395 건 , 4 월 1728 건 , 5 월 2114 건 으로 지원 건수 도 꾸준히 늘 고 있 다 .	DAT-B DAT-I O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O
+이날 조현영 은 박선호 에게 퇴짜 를 맞 은 뒤 박두식 과 함께 술 을 마 셨 다 .	O PER-B O PER-B O O O O O O PER-B O O O O O O O O
+경찰 은 이 와 함께 범죄 를 제보한 이모 여인 이 『 납치 당시 범인 들 이 소 씨 부부 를 포함 , 7 ∼ 8 명 을 살해 했 다고 말 했 다 』 고 진술한 점 을 중시 , 범인 들 이 살해 했 다고 자백한 5 명 외 에 피해자 가 더 있 을 것 으로 보 고 수사 를 확대하 고 있 다 .	O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 주말 서울 광화문 촛불 집회 참석자 수 를 두 고 의견 이 엇갈린다 .	O O O O O O O O O O O O O O O
+10 년 이상 집 을 갖 고 있 다가 매각할 경우 1 주택 자 는 최고 80 % 까지 공제 를 받 지만 , 2 주택 자 이상 은 공제 한도 가 30 % 로 제한돼 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 대위 는 " 평화 유지 군 으로서 외국군 과 연합 작전 의 보람 , 대한민국 군인 으로서 사명감 이 저 를 다시 레바논 으로 이끌 었 다 " 고 말 했 다 .	PER-B O O O ORG-B ORG-I ORG-I O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O
+서울시 교육청 이 주관하 는 이번 학력 평가 에 는 전국 1800 여 고등학교 3 학년 학생 50 만 명 이 응시 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+경기도 에서 도 수원 ㆍ 성남 ㆍ 용인 ㆍ 화성 ㆍ 김포 등 5 개 지역 방면 총 8 개 노선 버스 의 막차 시간 을 종점 기준 새벽 1 시 로 연장 했 다 .	LOC-B O O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I O O O O O
+도심 을 통과하 는 심야 버스 N 15 ㆍ N 16 ㆍ N 26 ㆍ N 30 ㆍ N 37 ㆍ N 62 번 버스 44 대 는 정상 운행된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오 는 9 월 무렵 엔 서울 청담동 에 지상 10 층 규모 의 플래그십 스토어 도 문 을 연다 .	O O DAT-B DAT-I O O LOC-B LOC-I O O O O O O O O O O O O O
+채용 전문가 들 이 말해 주 는 2016 채용 동향 강연 , 이미지 메이킹 강의 등 볼거리 가 다양해 구직자 와 시민 들 의 큰 호응 을 얻 었 다 .	O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O
+신남 개발 사장 최인수 씨	ORG-B ORG-I O PER-B O
+유력 지 경제 일보 가 ‘ 잠 에서 깨 어야 할 도시 는 퉁링 만 이 아니 다 ’ 란 제목 으로 왕양 의 칼럼 을 전재 했 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O

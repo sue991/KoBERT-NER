@@ -1,11 +1,11 @@
-즉 채무재조정 합의 후 대우조선이 망하더라도 국민연금의 회사채는 갚아달라는 것이다 .	O O O O ORG-B O O O O O O
-당시 김상수나 주 경찰서 수사과장(59·현 해남 경찰서 수사과장)은 “박 양이 숨지+ㄹ 당시 생리를 하고 있었다는 것을 밝혀내+어 합의 하에 성관계를 맺었다는 김씨의 주장은 설득력을 잃었다”고 밝히었다 .	O PER-B O O O ORG-B ORG-I O PER-B O O O O O O O O O O O O PER-B O O O O O
-투자자들에게는 제주지역 호텔의 2박3일 무료 숙박권을 증정하고, 전화로 예약하+ㄴ 방문객에게는 백화점 상품권을 선물하+ㄹ 예정이다 .	O LOC-B O O O O O O O O O O O O O
-미군의 안전을 보장하기 어렵다고 판단되면 미국의 선택은 두 가지 +이다 .	ORG-B O O O O ORG-B O O O O O
-누리꾼은 두 사람의 열창에 “‘듀엣가요제’이영현, 역시 전설은 전설이다 .	O O O O PER-B O O O O
-특히 과일소주의 당류 함량은 제품당 한국인 총당류 섭취 기준(2000kc al 기준 100g)의 16~32%에 해당하므로 많이 마시+ㄹ 경우 당 과잉 섭취로 이어 지+ㄹ 수 있어 주의 하+여야 하+ㄴ다"고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한국특산식물이 +ㄴ한라산 구상나무는 제주조릿대 때문에 씨앗이 발아되지 않는다는 의견이 있고 기후변화로 대량 고사하고 있다는 추정도 나오았다 .	ORG-B O O O O O O O O O O O O O O O O
-이날 한국팀은 한 점도 내주지 않는 철저하+ㄴ경기를 펼치며 선두 +하였다 .	O ORG-B O O O O O O O O O
-1, 2세트에잇어 3세트에서까지 득점을 하지 못하+ㄴ 러시아팀은 잠시 넋이나 가+ㄴ 표정을 짓었다 .	O O O O O O ORG-B O O O O O O
-김태흠 자유한국당 의원은 14일 진보진영 유력 대선주자 이+ㄴ문재인 저+ㄴ 더불어민주당 대표와 안희정 충남지사에 대하+여 “노무현 전 대통령이 사망하였을 때 오히려 폐족되어야 하+ㄹ사람들이 대선주자로 나오는 것”이라고 비난하였다 .	PER-B ORG-B O O O O O PER-B O ORG-B O PER-B O O PER-B O O O O O O O O O O O O
-김 의원은 이날 국회에서 열리+ㄴ 원내대책회의에서 “지금 민주당을 비롯하+여 일부 언론에서 한국당을 친박 정당이다 .	PER-B O O O O O O ORG-B O O O ORG-B O O O
+즉 채무 재조정 합의 후 대우조선 이 망하 더라도 국민 연금 의 회사채 는 갚 아 달 라는 것 이 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O
+당시 김상수 나주 경찰서 수사 과장 ( 59 · 현 해남 경찰서 수사 과장 ) 은 “ 박 양 이 숨질 당시 생리 를 하 고 있 었 다는 것 을 밝혀내 합의 하 에 성 관계 를 맺 었 다는 김 씨 의 주장 은 설득력 을 잃 었 다 ” 고 밝 혔 다 .	O PER-B ORG-B ORG-I O O O O O O ORG-B ORG-I O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+투자자 들 에게 는 제주 지역 호텔 의 2 박 3 일 무료 숙박 권 을 증정하 고 , 전화 로 예약한 방문객 에게 는 백화점 상품권 을 선물할 예정 이 다 .	O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미군 의 안전 을 보장하 기 어렵 다고 판단되 면 미국 의 선택 은 두 가지 다 .	ORG-B O O O O O O O O O ORG-B O O O O O O O
+누리 꾼 은 두 사람 의 열창 에 “ ‘ 듀엣 가요제 ’ 이영현 , 역시 전설 은 전설 이 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O
+특히 과일 소주 의 당류 함량 은 제품 당 한국인 총 당류 섭취 기준 ( 2000 kcal 기준 100 g ) 의 16 ~ 32 % 에 해당하 므로 많이 마실 경우 당 과잉 섭취 로 이어질 수 있 어 주의해야 한다 " 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 특산 식물 인 한라산 구상나무 는 제주조릿대 때문 에 씨앗 이 발아되 지 않 는다는 의견 이 있 고 기후 변화 로 대량 고사하 고 있 다는 추정 도 나 왔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 한국 팀 은 한 점 도 내주 지 않 는 철저한 경기 를 펼치 며 선두 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+1 , 2 세트 에 이 어 3 세트 에서 까지 득점 을 하 지 못한 러시아 팀 은 잠시 넋 이 나간 표정 을 지 었 다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+김태흠 자유 한국 당 의원 은 14 일 진보 진영 유력 대선 주자 인 문재인 전 더불 어 민주당 대표 와 안희정 충남 지사 에 대해 “ 노무현 전 대통령 이 사망 했 을 때 오히려 폐족 되 어야 할 사람 들 이 대선 주자 로 나오 는 것 ” 이라고 비난 했 다 .	PER-B ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O PER-B O ORG-B ORG-I ORG-I O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 의원 은 이날 국회 에서 열린 원내 대책 회의 에서 “ 지금 민주당 을 비롯해 일부 언론 에서 한국당 을 친 박 정당 이 다 ,	PER-B O O O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O

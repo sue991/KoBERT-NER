@@ -1,16 +1,16 @@
-이는 건전하게 스포츠로 즐기고 있는 대다수의 고객 모두를 잠재적 범죄자로 취급하는 동시에, 개인의 행복추구권(헌법 10조)과 개인정보자기 결정권(헌법 17조) 침해의 소지가 다분하다 .	O O O O O O O O O O O O O O O O O O O O O O
-또 한국 프로야구(KBO 리그) MVP와 골든글러브를 수상하였다 .	O ORG-B ORG-B ORG-I O O O O
-또한 임시완, 진구, 박병은, 이동휘, 김선영 등 개성 넘치는 배우들의 환상적 이+ㄴ 호흡은 영화의 다채롭 ㄴ 매력과 재미를 배가시키+ㄹ 포인트가 되+ㄹ 것으로 기대되+ㄴ다 .	O PER-B PER-B PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O
-(서울=뉴스1스타 .	LOC-B O
-경찰은 윈스톰 차량을 용의 차량으로 특정 하+ㄴ 뒤 청주를 비롯하+ㄴ대전·충남 등지엠대우 부품 대리점에서 카드 사용 내역을 분석하+여+았다 .	O O O O O O O O LOC-B LOC-B ORG-B O O O O O O O
-기재부 관계자는 “지난해부터 도입하기로 한 담배 경고 문구 부착 시행이 지연되었기 때문에 판매량이 예상보다 줄었다”고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O
-지나+ㄴ 시즌 40 경기에서 10골을 채우었지만, 올 시즌에는 17경기만에 10번째 골을 작렬하였다 .	O O O O O O O O O O O O O
-세월호 유가족도 방청석에 모습을 드러내+었다 .	O O O O O O
-김현중이 자 신 외에 다른 여성들과 관계를 가지+ㄴ 사실을 알게 되+었다는 A씨는 지난해 5월 30일 임신 중 이+ㅁ에도 불구, 김현중에게 관계를 정리하자고 호소하였다고.이에 격분하+ㄴ 김현중이 약 30분 동안 임신 중 이+ㄴ A씨를 폭행하+여2주간의 치료를 요하는 전신타박상을 입게 +었다는 주장이다 .	PER-B O O O O O O O O O O PER-B O O O O O O O PER-B O O O O PER-B O O O O O O PER-B O O O O O O O O
-그로부터 이틀 후 이+ㄴ 6월 1일 경자연유산이+었다는 A씨는 김현중에게 수십 차례 복부폭행을 당하+ 여자궁에 충격을 받아 유산하였다고 주장하는 것으로 알려지었다 .	O O O O O O O PER-B PER-B O O O O O O O O O O O O
-일본이 국정화로 가지는 않겠지만, 적어도 한국이 일본 정부의 검정 과정을 문제 삼기는 어렵게 +었다 .	ORG-B O O O O ORG-B ORG-B ORG-I O O O O O O O
-112년 만에 올림픽 무대에서 부활하+ㄴ 골프가 필드 스타들의 외면 탓에 조기 퇴출 위기감에 휩싸이었다 .	O O O O O O O O O O O O O O O
-이 원내대표는 “김 위원장도 ‘비대위원과 동일하+ㄴ 지위를 부여하겠다’고 +였다”면서도 “구체적으로 의결권(부여에 대하+여서 +ㄴ) 이야기를 하지 못하였다”고 +였다 .	PER-B O PER-B O O O O O O O O O O PER-B O O O O
-10대(69.0%)와 20대(69.0%)는 스마트폰을 선택하었지만, 50대(69.3%)와 60대 이상(92.8%)은 TV를 선택하였다 .	O O O O O O O O O O
-투어익스프레스 사이트에서 5월 해외 항공, 호텔, 자유여행, 허니문, 국내 항공, 제주 여행, 제주 숙박, 내륙 숙박 구매 내역이 있는 회원을 대상으로 이벤트에 참여하면 북팔의 웹소설 티켓을 증정하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O
-신화, 신곡 '메모리' 선공개로 컴백 알리+ㄴ .	ORG-B O O O O O O
+이 는 건전하 게 스포츠 로 즐기 고 있 는 대다수 의 고객 모두 를 잠재적 범죄자 로 취급하 는 동시 에 , 개인 의 행복 추구 권 ( 헌법 10 조 ) 과 개인 정보 자기 결정권 ( 헌법 17 조 ) 침해 의 소지 가 다분하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 한국 프로 야구 ( KBO 리그 ) MVP 와 골든글러브 를 수상 했 다 .	O ORG-B ORG-I ORG-I O ORG-B ORG-I O O O O O O O O O
+또한 임시완 , 진구 , 박병은 , 이동휘 , 김선영 등 개성 넘치 는 배우 들 의 환상적 인 호흡 은 영화 의 다채로 운 매력 과 재미 를 배가 시킬 포인트 가 될 것 으로 기대된다 .	O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 스타 )	O LOC-B O ORG-B ORG-I ORG-I O
+경찰 은 윈 스톰 차량 을 용의 차량 으로 특정한 뒤 청주 를 비롯한 대전 · 충남 등 지엠 대우 부품 대리점 에서 카드 사용 내역 을 분석해 왔 다 .	O O O O O O O O O O O LOC-B O O LOC-B O LOC-B O ORG-B ORG-I O O O O O O O O O O O
+기재부 관계자 는 “ 지난해 부터 도입하 기 로 한 담배 경고 문구 부착 시행 이 지연 됐 기 때문 에 판매량 이 예상 보다 줄 었 다 ” 고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 시즌 40 경기 에서 10 골 을 채 웠 지만 , 올 시즌 에 는 17 경기 만 에 10 번째 골 을 작렬 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세월호 유가족 도 방청석 에 모습 을 드러냈 다 .	O O O O O O O O O O
+김현중 이 자신 외 에 다른 여성 들 과 관계 를 가진 사실 을 알 게 됐 다는 A 씨 는 지난해 5 월 30 일 임신 중 임 에 도 불구 , 김현중 에게 관계 를 정리하 자고 호소 했 다고 . 이 에 격분한 김현중 이 약 30 분 동안 임신 중 인 A 씨 를 폭행해 2 주 간 의 치료 를 요하 는 전신 타박상 을 입 게 됐 다는 주장 이 다 .	PER-B O O O O O O O O O O O O O O O O O PER-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+그 로부터 이틀 후 인 6 월 1 일 경 자연 유산 이 됐 다는 A 씨 는 김현중 에게 수십 차례 복부 폭행 을 당해 자궁 에 충격 을 받 아 유산 했 다고 주장하 는 것 으로 알려 졌 다 .	O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+일본 이 국정 화 로 가 지 는 않 겠 지만 , 적어도 한국 이 일본 정부 의 검정 과정 을 문제 삼 기 는 어렵 게 됐 다 .	ORG-B O O O O O O O O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O
+112 년 만 에 올림픽 무대 에서 부활한 골프 가 필드 스타 들 의 외면 탓 에 조기 퇴출 위기감 에 휩싸 였 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+이 원내 대표 는 “ 김 위원장 도 ‘ 비대위 원 과 동일한 지위 를 부여하 겠 다 ’ 고 했 다 ” 면서 도 “ 구체적 으로 의결권 ( 부여 에 대해선 ) 이야기 를 하 지 못 했 다 ” 고 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 대 ( 69.0 % ) 와 20 대 ( 69.0 % ) 는 스마트폰 을 선택 했 지만 , 50 대 ( 69.3 % ) 와 60 대 이상 ( 92.8 % ) 은 TV 를 선택 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+투어 익스프레스 사이트 에서 5 월 해외 항공 , 호텔 , 자유 여행 , 허니문 , 국내 항공 , 제주 여행 , 제주 숙박 , 내륙 숙박 구매 내역 이 있 는 회원 을 대상 으로 이벤트 에 참여하 면 북 팔 의 웹 소설 티켓 을 증정한다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O
+신화 , 신곡 ' 메모리 ' 선 공개 로 컴백 알린다	ORG-B O O O O O O O O O O

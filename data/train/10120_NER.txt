@@ -1,10 +1,10 @@
-“아침 잠실역에서 강남 방향 환승 통로는 이런 소리가 나+아요. 출근하는 직장인들의 구두소리+이죠.”곧 이어 전씨는 ‘복정역’을 누르었다 .	O LOC-B LOC-B O O O O O O O O O O PER-B LOC-B O O
-역사를 바꾸+ㄴ위대 하+ㄴ혁명도 결국은 한 사람의 용기에서 시작하였습니다 .	O O O O O O O O O
-김대중 정신과 함께하는 전국의 동지들을 위하+여저부터 시작하겠습니다 .	PER-B O O O O O O O
-한편, 치타의 신곡 ‘MyNum ber’는 다음달 2일 공개되+ㄴ다 .	O PER-B O O O O O O O
-대우전자 노사는 17일 국제 경쟁력 강화를 위하+여노사가 공동 노력 하+ㄴ다는 내용의 「노사 공동선언문」을 채택, 발표하였다 .	ORG-B O O O O O O O O O O O O O O O
-북한은 ‘조선’ 등 잡지를 제공하였다 .	ORG-B O O O O O
-홈플러스 노조가 MBK에 노동자의 고용안정과 분할 매각 등 구조조정을 시도하지 않겠다는 것을 명확하게 하+여야 하+ㄴ다며 이번 매각에 강력 반발한 것도 이 때문이다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
-그는 “20년간 정부 지출을 동결하고, 상파울루 공항 등의 매각을 통하+여수입을 확보하면 브라질 경제의 위기 요인이 +ㄴ부채를 줄이는 데 도움이 되+ㄹ 것”이며 “앞으로 2~3년에 걸치+어 기준금리를 내리+ㄹ 것으로 예상되+어 채권 투자자는 분할매수하는 방식으로 접근하+ 여야 하+ㄴ다”고 말하였다 .	O O O O O ORG-B ORG-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-신 연구원은 투자 시기를 올림픽 폐막 이후 이+ㄴ 8월 말로 추천하+ㄴ다 .	PER-B O O O O O O O O O O O
-이후 유도사랑봉사단은 어렵ㄴ 집안 여건에도 꿋꿋이 운동을 하던 박군이 인근에 고등학교 유도부가 없어 강릉에서 유학을 하게 되+ㄴ 안타깝ㄴ 사정을 듣고 합숙 소비와 개인용돈 40만원을 2년간 매월 지원하였다 .	O ORG-B O O O O O O PER-B O O ORG-B O LOC-B O O O O O O O O O MNY-B O O O O
+“ 아침 잠실역 에서 강남 방향 환승 통로 는 이런 소리 가 나요 . 출근하 는 직장인 들 의 구두 소리 죠 . ” 곧이어 전 씨 는 ‘ 복정 역 ’ 을 눌 렀 다 .	O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O PER-B O O O LOC-B LOC-I O O O O O O
+역사 를 바꾼 위대한 혁명 도 결국 은 한 사람 의 용기 에서 시작 했 습니다 .	O O O O O O O O O O O O O O O O O
+김대중 정신 과 함께 하 는 전국 의 동지 들 을 위해 저 부터 시작하 겠 습니다 .	PER-B O O O O O O O O O O O O O O O O O
+한편 , 치타 의 신곡 ‘ My Number ’ 는 다음 달 2 일 공개된다 .	O O PER-B O O O O O O O O O DAT-B DAT-I O O
+대우전자 노사 는 17 일 국제 경쟁력 강화 를 위해 노사 가 공동 노력 한다는 내용 의 「 노사 공동 선언 문 」 을 채택 , 발표 했 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 은 ‘ 조선 ’ 등 잡지 를 제공 했 다 .	ORG-B O O O O O O O O O O O
+홈플러스 노조 가 MBK 에 노동자 의 고용 안정 과 분할 매각 등 구조 조정 을 시도하 지 않 겠 다는 것 을 명확하 게 해야 한다며 이번 매각 에 강력 반발 한 것 도 이 때문 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 20 년 간 정부 지출 을 동결하 고 , 상파울루 공항 등 의 매각 을 통해 수입 을 확보하 면 브라질 경제 의 위기 요인 인 부채 를 줄이 는 데 도움 이 될 것 ” 이 며 “ 앞 으로 2 ~ 3 년 에 걸쳐 기준 금리 를 내릴 것 으로 예상돼 채권 투자자 는 분할 매수하 는 방식 으로 접근해야 한다 ” 고 말 했 다 .	O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신 연구원 은 투자 시기 를 올림픽 폐막 이후 인 8 월 말 로 추천한다 .	PER-B O O O O O O O O O DAT-B DAT-I O O O O
+이후 유도 사랑 봉사 단 은 어려 운 집안 여건 에 도 꿋꿋이 운동 을 하 던 박 군 이 인근 에 고등학교 유도 부 가 없 어 강릉 에서 유학 을 하 게 된 안타까 운 사정 을 듣 고 합숙소 비 와 개인 용돈 40 만 원 을 2 년 간 매월 지원 했 다 .	O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O PER-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O

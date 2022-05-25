@@ -1,14 +1,14 @@
-문근영, '재벌의 딸' 검토 중 …남주는 누구 .	PER-B O O O O O O O
-특히 여성의 42％는 저도 수소주를 마시+ㄴ 뒤 음주량이 늘었다고 답하+여 남성(34％)보다 저도수로 인하+ㄴ 음주량 증가가 뚜렷하+ㄴ 것으로 나타나 +았다 .	O O O O O O O O O O O O O O O O O O O O
-여기에 ‘북한 리스크’도 무시하+ㄹ 수 없는 위협 요인 중 하나+이다 .	O ORG-B O O O O O O O O O
-2009년 7월 디도스 공격, 2013년 3월 방송국, 은행 전산망 공격 등 과거 북한은 핵실험과 한두 달의 시차를 두고 사이버 공격을 가하+여+았다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O
-이날 무대에는 MC몽과 수란이 한국 대표가수로 나서 +었다 .	O O PER-B O ORG-B O O O O
-5580만 유로(약 715억원)의 몸값으로 7월 입단 하+ㄴ헐크(브라질)와 중국 국가대표 우레이를 앞세우+ㄴ 상대의 화력은 매섭다 .	MNY-B MNY-I MNY-B O O O ORG-B ORG-B O PER-B O O O O O
-마침 박정우 감독은 ‘모던파머’를 챙기+어보다 .	O PER-B O O O O
-런던 동메달 넘어 결 승 진출 목표… 첫 경기피지가 가장 까다롭 ㄴ상대 .	ORG-B O O O O O O O ORG-B O O O O
-1사후 마르테에게 2루타를 허용하였지만, 이후 내+어야 뜬 공과 삼진으로 아웃 카운트를 채우었다 .	O O O O O O O O O O O O O
-이 애니메이션은 어린이날이+ㄴ 다음달 5일 KBS에서 방영되 +ㄹ 예정이다 .	O O O O O O O O O O
-미국도 두 발의 10점을 기록하였지만 한국의 기세는 계속 되었다 .	ORG-B O O O O ORG-B O O O O
-5만원 내면 1년간 5∼10평서무­배추 생 .	MNY-B O O MNY-B O O
-현재 매매가는 약 31억원이다 .	O O O MNY-B O
-신용보증기금, 자금부족 하+ㄴ회사 적극 지원… 기업 육성해 청년고용창 .	ORG-B O O O O O O O O
+문근영 , ' 재벌 의 딸 ' 검토 중 … 남주 는 누구 ?	PER-B O O O O O O O O O O O O O
+특히 여성 의 42 ％ 는 저도 수 소주 를 마신 뒤 음주 량 이 늘 었 다고 답해 남성 ( 34 ％ ) 보다 저 도수 로 인한 음주 량 증가 가 뚜렷한 것 으로 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 에 ‘ 북한 리스크 ’ 도 무시할 수 없 는 위협 요인 중 하나 다 .	O O O ORG-B O O O O O O O O O O O O O
+2009 년 7 월 디도스 공격 , 2013 년 3 월 방송국 , 은행 전산망 공격 등 과거 북한 은 핵 실험 과 한두 달 의 시차 를 두 고 사이버 공격 을 가해 왔 다 .	DAT-B DAT-I DAT-I DAT-I O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+이날 무대 에 는 MC 몽 과 수란이 한국 대표 가수 로 나섰 다 .	O O O O PER-B PER-I O O ORG-B O O O O O O
+5580 만 유로 ( 약 715 억 원 ) 의 몸값 으로 7 월 입단한 헐크 ( 브라질 ) 와 중국 국가 대표 우레이 를 앞세운 상대 의 화력 은 매섭 다 .	MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O DAT-B DAT-I O PER-B O ORG-B O O ORG-B O O PER-B O O O O O O O O O
+마침 박정우 감독 은 ‘ 모던 파머 ’ 를 챙겨 봤 다 .	O PER-B O O O O O O O O O O O
+런던 동메달 넘 어 결승 진출 목표 … 첫 경기 피지 가 가장 까다로 운 상대 ”	ORG-B O O O O O O O O O ORG-B O O O O O O
+1 사 후 마르테 에게 2 루 타 를 허용 했 지만 , 이후 내야 뜬공 과 삼진 으로 아웃 카운트 를 채 웠 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 애니메이션 은 어린이날 인 다음 달 5 일 KBS 에서 방영될 예정 이 다 .	O O O DAT-B O O O DAT-B DAT-I O O O O O O O
+미국 도 두 발 의 10 점 을 기록 했 지만 한국 의 기세 는 계속 됐 다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O
+5 만 원 내 면 1 년 간 5 ∼ 10 평서 무 ­ 배추 생산	MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+현재 매매 가 는 약 31 억 원 이 다 .	O O O O O MNY-B MNY-I MNY-I O O O
+신용보증기금 , 자금 부족한 회사 적극 지원 … 기업 육성 해 청년 고용 창출	ORG-B O O O O O O O O O O O O O

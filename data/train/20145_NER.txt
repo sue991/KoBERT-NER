@@ -1,12 +1,12 @@
-스포츠 브랜드 뉴발란스가 미국 프로야구 미네소타트윈스의 박병호(30·사진)를 후원하+ㄴ다 .	O O ORG-B ORG-B O ORG-B PER-B O O
-1995년 롯데 지휘봉을 잡았을 때는 KBO 리그 사상 처음으로 200도루를 돌파하기도 +였다 .	O ORG-B O O O ORG-B ORG-I O O O O O O
-홍기택(64) KDB산업은행 회장이 ‘중국 판 세계은행’이+ㄴ아시아 인프라 투자은행(AIIB) 부총재를 맡는다 .	PER-B ORG-B O ORG-B O O O ORG-B O O O
-동아에스티(대표이사 사장 박찬일)는 올해 글로벌 마케팅 강화를 통하+여박 카스의 해외 매출 확대에 나서겠다고 21일 밝히었다 .	ORG-B O PER-B O O O O O O O O O O O O O
-평소 린썬은 장제스가 무슨 말을 하건 듣기만 +였다 .	O PER-B PER-B O O O O O O
-강원선수단은 3월 1일 재소집 되+어 2일부터 강릉에서 챌린지 개막을 준비 하+ㄴ다 .	ORG-B O O O O O LOC-B O O O O O
-새로 문을 열 +ㄴ 매장의 매니저들에게 100달러 정도를 회사에 투자하라고 요청하+ㄴ 것이다 .	O O O O O O MNY-B O O O O O O
-정몽구 회장이 가족 대표로 인사 하+ㄴ다 .	PER-B O O O O O O
-씨앤엘뮤직 측은 “베니타의 신작 대표곡 제목이 ‘Riv erSilver’이+ㄴ 데 .	ORG-B O PER-B O O O O O O O
-또한 박인비-유소연 선수와 1개 홀을 함께 라운딩을 하+ㄹ 수 있는 기회를 제공 하+ㄴ다 .	O PER-B O O O O O O O O O O O O
-본격적 이+ㄴ대회에 앞서 +어박인 비-유소연 선수에게 원포인트 골프 레슨을 받는 시간을 마련하였으며, 시타식은 고객 대표와 함께 박인비-유소연 선수, 파나소닉코리아노운하 대표가 진행 하+ㄴ다 .	O O O O PER-B O O O O O O O O O O O PER-B O ORG-B O O O O
-골프대회를 마치 +ㄴ 뒤에는 만찬과 총 11개 분야 수상자 24명에 대하+ㄴ 시상식을 진행하+ㄴ다 .	O O O O O O O O O O O O O O
+스포츠 브랜드 뉴발란스 가 미국 프로 야구 미네소타 트윈스 의 박병호 ( 30 · 사진 ) 를 후원한다 .	O O ORG-B O ORG-B O O ORG-B ORG-I O PER-B O O O O O O O O
+1995 년 롯데 지휘봉 을 잡 았 을 때 는 KBO 리그 사상 처음 으로 200 도루 를 돌파하 기 도 했 다 .	DAT-B DAT-I ORG-B O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+홍기택 ( 64 ) KDB 산업은행 회장 이 ‘ 중국 판 세계은행 ’ 인 아시아인프라투자은행 ( AIIB ) 부총재 를 맡 는다 .	PER-B O O O ORG-B ORG-I O O O ORG-B O O O O ORG-B O ORG-B O O O O O O
+동아 에스티 ( 대표 이사 사장 박찬일 ) 는 올해 글로벌 마케팅 강화 를 통해 박카스 의 해외 매출 확대 에 나서 겠 다고 21 일 밝 혔 다 .	ORG-B ORG-I O O O O PER-B O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+평소 린썬 은 장제스 가 무슨 말 을 하 건 듣 기 만 했 다 .	O PER-B O PER-B O O O O O O O O O O O O
+강원 선수단 은 3 월 1 일 재 소집 돼 2 일 부터 강릉 에서 챌린지 개막 을 준비한다 .	ORG-B ORG-I O DAT-B DAT-I DAT-I DAT-I O O O DAT-B DAT-I O LOC-B O O O O O O
+새로 문 을 연 매장 의 매니저 들 에게 100 달러 정도 를 회사 에 투자하 라고 요청한 것 이 다 .	O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O
+정몽구 회장 이 가족 대표 로 인사한다 .	PER-B O O O O O O O
+씨앤엘 뮤직 측 은 “ 베니타 의 신작 대표 곡 제목 이 ‘ River Silver ’ 인 데 다	ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O
+또한 박인비 - 유소연 선수 와 1 개 홀 을 함께 라운딩 을 할 수 있 는 기회 를 제공한다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O
+본격적 인 대회 에 앞서 박인비 - 유소연 선수 에게 원 포인트 골프 레슨 을 받 는 시간 을 마련 했 으며 , 시타 식 은 고객 대표 와 함께 박인비 - 유소연 선수 , 파나소닉 코리아 노운하 대표 가 진행한다 .	O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O ORG-B ORG-I PER-B O O O O
+골프 대회 를 마친 뒤 에 는 만찬 과 총 11 개 분야 수상자 24 명 에 대한 시상식 을 진행한다 .	O O O O O O O O O O O O O O O O O O O O O O

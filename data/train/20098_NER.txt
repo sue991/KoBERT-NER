@@ -1,13 +1,13 @@
-미국은 최근 북한과의 무기 거래를 중단하라고 미얀마 정부를 압박 하+여오고 있다 .	ORG-B O ORG-B O O O ORG-B ORG-I O O O O
-전두환 전 대통령 수사에 참여하+ㄴ 경험이 있다 .	PER-B O O O O O O O
-호주 일간 시드니모닝헤럴드는 10일 “지인과 병원 등을 취재하+ㄴ 결과 깁슨의 투병기는 거짓”이라고 전하였다 .	ORG-B O O O O O O O O O O O O O
-현재 삼성전자는 모바일을 담당하는 IM사업부, TVㆍ가전을 관할하는 소비자가전(CE) 사업부, 반도체 및 부품을 담당하는 디바이스 솔루션(DS) 사업부 등 총 3개 사업부가 통합되+어 있다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O
-기업분할 이외에도 엘리엇 측은 30조원에 이르는 주주대상 특별배당도 촉구하였다 .	O O PER-B O MNY-B O O O O O
-현수막에는 경찰청 마스코트 포돌이·포순이사이로 박 전 대통령이 자리 하+어 있다 .	O ORG-B O O PER-B O O O O O O
-신문은 “유럽이 비로소 안전하+ㄴ사람들(여성)의 손에 맡기+어+지었다”고 전하였다 .	O ORG-B O O O O O O
-영국 일간 가디언은 이날 “영국뿐 아니라 전 세계적 이+ㄴ 정치·경제적 혼란 국면에서 여성 리더십이 부상하고 있다”고 보도하였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O
-이런 수법으로 2013년 5월까지 1억5000만원 어치의 소고기가 판매되었다 .	O O MNY-B O MNY-B O O O O
-일본 여자 프로골프(JLPGA) 투어 2년 연속 상금왕을 달성하고 돌아오+ㄴ이 보미(29)가 새롭ㄴ 목표를 향하+여 첫발을 내딛었다 .	ORG-B ORG-I ORG-B O O O O O O O O O O O O O
-크게 파워트레인 7가지, 섀시 12가지, 브레이크 8가지, 익스테리어 14가지, 인테리어 11가지 등 52가지 사양이 업그레이드 되었다 .	O O O O O O O O O O O O O O O O O
-◆ 박모씨(76·여·자가 격리 대상) “두 손자를 보+아주 러 옥천딸 네 집에 가+았다가 무릎이 안 좋아 병원에 가+았는데 그 병원이 문제가 되+어 4일부터 자가격리 대상이 +었다 .	O PER-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O
-국민의 생애 의료비 중 65세 이후 발생하는 의료비 비중이 50%를 넘는 것+ㄴ그만큼 노후에 의료비 지출이 집중되+ㄴ다는 의미+이다 .	O O O O O O O O O O O O O O O O O O
+미국 은 최근 북한 과 의 무기 거래 를 중단하 라고 미얀마 정부 를 압박해 오 고 있 다 .	ORG-B O O ORG-B O O O O O O O ORG-B ORG-I O O O O O O O
+전두환 전 대통령 수사 에 참여한 경험 이 있 다 .	PER-B O O O O O O O O O O
+호주 일 간 시드니모닝헤럴드 는 10 일 “ 지인 과 병원 등 을 취재한 결과 깁슨 의 투병기 는 거짓 ” 이라고 전 했 다 .	ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+현재 삼성전자 는 모바일 을 담당하 는 IM 사업 부 , TV ㆍ 가전 을 관할하 는 소비자 가 전 ( CE ) 사업 부 , 반도체 및 부품 을 담당하 는 디바이스 솔루션 ( DS ) 사업 부 등 총 3 개 사업 부 가 통합돼 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+기업 분할 이외 에 도 엘리엇 측 은 30 조 원 에 이르 는 주주 대상 특별 배당 도 촉구 했 다 .	O O O O O PER-B O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+현수막 에 는 경찰청 마스코트 포 돌이 · 포 순이 사이 로 박 전 대통령 이 자리해 있 다 .	O O O ORG-B O O O O O O O O PER-B O O O O O O O
+신문 은 “ 유럽 이 비로소 안전한 사람 들 ( 여성 ) 의 손 에 맡겨 졌 다 ” 고 전 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+영국 일간 가디언 은 이날 “ 영국 뿐 아니 라 전 세계적 인 정치 · 경제적 혼란 국면 에서 여성 리더십 이 부상하 고 있 다 ” 고 보도 했 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이런 수법 으로 2013 년 5 월 까지 1 억 5000 만 원 어치 의 소고기 가 판매 됐 다 .	O O O DAT-B DAT-I DAT-I DAT-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O
+일본 여자 프로 골프 ( JLPGA ) 투어 2 년 연속 상금 왕 을 달성하 고 돌아온 이보미 ( 29 ) 가 새로 운 목표 를 향해 첫 발 을 내딛 었 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+크 게 파 워트 레인 7 가지 , 섀시 12 가지 , 브레이크 8 가지 , 익스 테리어 14 가지 , 인테리어 11 가지 등 52 가지 사양 이 업그레이드 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+◆ 박 모 씨 ( 76 · 여 · 자가 격리 대상 ) “ 두 손자 를 봐 주 러 옥천 딸 네 집 에 갔 다가 무릎 이 안 좋 아 병원 에 갔 는데 그 병원 이 문제 가 돼 4 일 부터 자가 격리 대상 이 됐 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+국민 의 생애 의료비 중 65 세 이후 발생하 는 의료비 비중 이 50 % 를 넘 는 건 그만큼 노후 에 의료비 지출 이 집중된다는 의미 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

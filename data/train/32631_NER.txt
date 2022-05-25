@@ -1,13 +1,13 @@
-14일 SBS에 따르면 현지에서 20여명의 덴마크와 스웨덴 교민들이 촛불을 들고 시위에 나서 +었다 .	O ORG-B O O O LOC-B LOC-B O O O O O O O
-2006년 선호도 상위 20위 안에 외국어고는 대원외고, 명덕외고, 대일 외고 등 10곳이었지만 2016년에 +ㄴ 5곳으로 줄었다 .	O O O O O O ORG-B ORG-B ORG-B ORG-I O O O O O O O
-우리 정부도 지난해 제3차 저출산·고령사회 기본계획을 수립하+여저 출산정책 패러다임 전환에 나서고 있다 .	O O O O O O O O O O O O O
-이에 따르 아윤병세 외교부 장관은 IAEA 핵안보장관급 회의 의장을 맡아 핵안보 정상회의 후속 체제를 구축하는 중심 역할을 맡게 되+ㄴ다 .	O O PER-B ORG-B ORG-I ORG-B ORG-B O O O ORG-B ORG-I O O O O O O O O
-양손에 하나씩 두 개의 올림픽 금메달리스트 반지를 끼고 있는 그는 평창에서 세 번째 반지를 받을 준비에 한창이다 .	O O O O O O O O O O LOC-B O O O O O O O
-시벨리우스 교향곡 전곡 연주… 김대진의 특별 하+ㄴ도 .	O O O O PER-B O O O
-솔직히 일본 J리그 교토 상가로가+ㄹ 때는 이런저런 것들을 배제하+ㄴ 채막연히 한국과 다르+ㄴ축구를 경험하자는 마음이 +었다 .	O ORG-B ORG-I ORG-I ORG-I O O O O O LOC-B O O O O O
-이에 따르 아후임이선애 재판관 지명을 최대한 서두르+ㄴ 다하+ 여도 새 재판관이 기존 사건을 검토하는 데 상당하+ㄴ시일이 소요되 +ㄹ 수밖에 없어 문제가 해결되는 것은 아니라는 주장도 나 오+ㄴ다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-아직 개표는 끝나지 않았지만 미국 유력지 뉴욕타임즈는 트럼프가 대통령이 되+ㄹ 확률이 90%+이라면서 당선을 확실시 +였다 .	O O O O LOC-B O ORG-B PER-B O O O O O O O O
-정상인의 경우 하루 30~100개의 모발이 빠지는데, 임신기에는 이보다 적은 양의 모발이 빠지고, 출산 후 산후 탈모시에는 100~200개의 모발이 빠지+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-주장 김나희는 “감독님께서 +ㄴ 선수들의 사소하+ㄴ 부분까지도 관심을 갖고 계시+ㄴ다 .	O PER-B O O O O O O O O O
-'강남역 사고 원인' 29일 오후 서울 지하철 2호선 강남역에서 정비업체 직원이 열차와 스크린도어 사이에 끼이 어 숨지+ㄴ 사고는 ‘2인 1조’ 원칙 등 정비 매뉴얼이 지키+어지지 않은 가운데 발생하+ㄴ 것으로 조사되었다 .	LOC-B O O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
-나중에 위(魏)황제조예가 죽기 직전 사마의에게 자신의 아들 조방을 부탁하면서 “지난날 유현덕이 백제성에서 병이 위중하여 어리+ㄴ아들 유선을 제갈공명에게 부탁하니, 공명은 죽을 때까지 그 뜻을 받들어 충성을 다하었소.변방의 소국에서도 이러하였거늘, 우리 같은 대국에서야더 말 하+여 무엇하겠소.”라고 유언하였을 정도+이었다 .	O ORG-B O O PER-B O O PER-B O O PER-B LOC-B O ORG-B O PER-B PER-B O PER-B O O O O O O O O O O O O O O O O O O
+14 일 SBS 에 따르 면 현지 에서 20 여 명 의 덴마크 와 스웨덴 교민 들 이 촛불 을 들 고 시위 에 나섰 다 .	DAT-B DAT-I ORG-B O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O
+2006 년 선호도 상위 20 위 안 에 외국어 고 는 대원외고 , 명덕 외고 , 대일 외고 등 10 곳 이 었 지만 2016 년 엔 5 곳 으로 줄 었 다 .	DAT-B DAT-I O O O O O O O O O ORG-B O ORG-B ORG-I O ORG-B ORG-I O O O O O O DAT-B DAT-I O O O O O O O O
+우리 정부 도 지난해 제 3 차 저 출산 · 고령 사회 기본 계획 을 수립해 저 출산 정책 패러다임 전환 에 나서 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 윤병세 외교부 장관 은 IAEA 핵 안보 장관 급 회의 의장 을 맡 아 핵 안보 정상 회의 후속 체제 를 구축하 는 중심 역할 을 맡 게 된다 .	O O O O PER-B ORG-B O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+양 손 에 하나 씩 두 개 의 올림픽 금메달리스트 반지 를 끼 고 있 는 그 는 평창 에서 세 번째 반지 를 받 을 준비 에 한창 이 다 .	O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+시벨리우스 교향곡 전곡 연주 … 김대진 의 특별한 도전	O O O O O PER-B O O O
+솔직히 일본 J 리그 교토 상가 로 갈 때 는 이런저런 것 들 을 배제한 채 막연히 한국 과 다른 축구 를 경험하 자는 마음 이 컸 다 .	O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O LOC-B O O O O O O O O O O O
+이 에 따 라 후임 이선애 재판관 지명 을 최대한 서두른다 해도 새 재판관 이 기존 사건 을 검토하 는 데 상당한 시일 이 소요될 수 밖에 없 어 문제 가 해결되 는 것 은 아니 라는 주장 도 나온다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아직 개표 는 끝나 지 않 았 지만 미국 유력 지 뉴욕타임즈 는 트럼프 가 대통령 이 될 확률 이 90 % 라면서 당선 을 확실시 했 다 .	O O O O O O O O LOC-B O O ORG-B O PER-B O O O O O O O O O O O O O O O
+정상인 의 경우 하루 30 ~ 100 개 의 모발 이 빠지 는데 , 임신 기 에 는 이 보다 적 은 양 의 모발 이 빠지 고 , 출산 후 산후 탈모 시 에 는 100 ~ 200 개 의 모발 이 빠진다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주장 김나희 는 “ 감독 님 께선 선수 들 의 사소한 부분 까지 도 관심 을 갖 고 계신다 .	O PER-B O O O O O O O O O O O O O O O O O O
+' 강남역 사고 원인 ' 29 일 오후 서울 지하철 2 호 선 강남역 에서 정비 업체 직원 이 열차 와 스크린 도어 사이 에 끼 여 숨진 사고 는 ‘ 2 인 1 조 ’ 원칙 등 정비 매뉴얼 이 지켜 지 지 않 은 가운데 발생한 것 으로 조사 됐 다 .	O LOC-B O O O DAT-B DAT-I O LOC-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+나중 에 위 ( 魏 ) 황제 조예 가 죽 기 직전 사마의 에게 자신 의 아들 조방 을 부탁하 면서 “ 지난날 유현덕 이 백제성 에서 병 이 위중하 여 어린 아들 유선 을 제갈공명 에게 부탁하 니 , 공명 은 죽 을 때 까지 그 뜻 을 받들 어 충성 을 다 했 소 . 변방 의 소국 에서 도 이러 했 거늘 , 우리 같 은 대국 에서 야 더 말해 무엇 하 겠 소 . ” 라고 유언 했 을 정도 였 다 .	O O ORG-B O ORG-B O O PER-B O O O O PER-B O O O O PER-B O O O O O PER-B O LOC-B O O O O O O O PER-B O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

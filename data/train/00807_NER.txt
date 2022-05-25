@@ -1,16 +1,16 @@
-이씨는 2014년 12월부터 지난해 11월까지 불법 도박사이트 3개를 차리+어놓고 회원 5000여명으로부터 550억원 상당을 입금받아 28억여원의 부당이득을 챙기+ㄴ 혐의+이다 .	PER-B O O O O O PER-B O O O O MNY-B O O MNY-B PER-B O PER-B O
-4 케이크 시트를 냉동실에 넣어 두 +ㄴ다 .	O O O O O O O O
-안철수 캠프, ‘5일 후보 선출’ 경선룰에 항의… 참모진 총사 .	PER-B O O O O O O O O O
-파리 잡는 파리넬리가 최종 결정 전 무대에 오르았고 캣츠 걸과 맞붙었다 .	O O O O O O O O O O O O
-씨스타 SHA KEIT 컴백, 하와이 해변 점령 하+ㄴ 몸짱女들… ‘애플힙++꿀벅+하지’ 자 .	ORG-B O O O LOC-B O O O O O O O
-성완종 전 회장 숨지+ㄴ 채 발견, 북한산 입구 300m 지점..."어머니 곁에 묻어달라 .	PER-B O O O O O LOC-B O O O O O O
-“정치 X나게 하+여보+아야 부모 잘 만나 +ㄴ 것 못 쫓아가 +아. 북한은 김정은이 최고.왕후장상영 유종호”라고 밝히+어파문이 일어나 +ㄴ바 있다 .	O O O O O O O O O O O ORG-B PER-B O O O O O O O
-우리나라에서는 아직도 쌍둥이나 세쌍둥이가 축복이+ㄴ 양 생각하는 사람이 적지 않지만 의학적으로는 비정상적이+ㄴ 임신으로 분류되 +ㄴ다 .	O O O O O O O O O O O O O O O O
-그의 트위터 외교는 훌륭하다 .	O O O O O
-중국 인민은행도 지난달 28일 7년 만에 기준금리와 지급준비율을 동시에 내리며 돈을 풀고 있다 .	O O O O O O O O O O O O O O
-바둑기사이세돌 9단이 인공지능 바둑 프로그램 ‘알파고’에 3연 패 뒤 귀중하+ㄴ 첫 승을 거두었다 .	PER-B O O O O O O O O O O O O O
-13일 오후 1시 서울 포시즌스 호텔에서 진행되+ㄴ ‘구글 딥마인드 챌린지 매치’ 5번 기 제4국에서 이세돌 9단은 알파고에 180수 불계승을 거두었다 .	TIM-I TIM-B TIM-I LOC-B LOC-B LOC-I O O O O O O O O PER-B O O O O O O
-앞서 이세돌 9단은 1~3국에서 내리패하면서 매치 패배를 확정짓었다 .	O PER-B O O O O O O O
-청의원은 징역 1개월 이상 유죄 판결을 받으면 입법회 출석 의원 3분의 2 찬성으로 의원 자격을 박탈당 하+ㄹ 수 있다 .	PER-B O O O O O O O O O O O O O O O O O O O
-박병호 “나+의 폼 그대로가 +ㄴ다 .	PER-B O O O O O
-이세돌은 생각하기 어렵ㄴ 창의적 이+ㄴ 수법으로 경쟁자들을 제압하곤 +였다 .	PER-B O O O O O O O O O
+이 씨 는 2014 년 12 월 부터 지난해 11 월 까지 불법 도박 사이트 3 개 를 차려 놓 고 회원 5000 여 명 으로부터 550 억 원 상당 을 입금 받 아 28 억 여 원 의 부당 이득 을 챙긴 혐의 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O
+4 케이크 시트 를 냉동실 에 넣 어 둔다 .	O O O O O O O O O O
+안철수 캠프 , ‘ 5 일 후보 선출 ’ 경선 룰 에 항 의 … 참모 진 총사퇴	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O
+파리 잡 는 파리 넬리 가 최종 결정 전 무대 에 올 랐 고 캣츠 걸 과 맞붙 었 다 .	O O O O O O O O O O O O O O O O O O O O O
+씨스타 SHAKE IT 컴백 , 하와이 해변 점령한 몸 짱 女 들 … ‘ 애플 힙+ 꿀벅 지 ’ 자랑	ORG-B O O O O LOC-B O O O O O O O O O O O O O O
+성완종 전 회장 숨진 채 발견 , 북한산 입구 300 m 지점 . . . " 어머니 곁 에 묻 어 달 라 "	PER-B O O O O O O LOC-B O O O O O O O O O O O O O O O O
+“ 정치 X 나 게 해 봐야 부모 잘 만난 것 못 쫓아가 . 북한 은 김정은 이 최고 . 왕후장상 영 유종호 ” 라고 밝혀 파문 이 일어난 바 있 다 .	O O O O O O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O
+우리나라 에서 는 아직 도 쌍둥이 나 세쌍둥이 가 축복 인 양 생각하 는 사람 이 적 지 않 지만 의학적 으로 는 비정상적 인 임신 으로 분류된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 의 트위터 외교 는 훌륭하 다 .	O O O O O O O O
+중국인민은행 도 지난달 28 일 7 년 만 에 기준 금리 와 지급 준비 율 을 동시 에 내리 며 돈 을 풀 고 있 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+바둑 기사 이세돌 9 단 이 인공 지능 바둑 프로그램 ‘ 알파 고 ’ 에 3 연패 뒤 귀중한 첫 승 을 거 뒀 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+13 일 오후 1 시 서울 포시즌스 호텔 에서 진행된 ‘ 구글 딥 마인드 챌린지 매치 ’ 5 번 기 제 4 국 에서 이세돌 9 단 은 알 파고 에 180 수 불계승 을 거 뒀 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+앞서 이세돌 9 단 은 1 ~ 3 국 에서 내리 패하 면서 매치 패배 를 확정 지 었 다 .	O PER-B O O O O O O O O O O O O O O O O O O O
+청 의원 은 징역 1 개월 이상 유죄 판결 을 받 으면 입법 회 출석 의원 3 분 의 2 찬성 으로 의원 자격 을 박탈 당할 수 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박병호 “ 내 폼 그대로 간다 ”	PER-B O O O O O O
+이세돌 은 생각하 기 어려 운 창의적 인 수법 으로 경쟁자 들 을 제압하 곤 했 다 .	PER-B O O O O O O O O O O O O O O O O O

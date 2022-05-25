@@ -1,17 +1,17 @@
-“공화당은 끝나 +았군.”만년 공화당원 라이언 대븐포트는 지나 +ㄴ 7월 도널드 트럼프가 미국 공화당 대선 후보로 선출되자 혀를 끌끌 차+았다 .	ORG-I O O O O O O O O PER-B PER-I ORG-B ORG-I O O O O O O O
-노예 해방을 이끌었던 에이브러햄 링컨의 정당이 어쩌다 “멕시코인은 강간범”이라고 떠들는 부동산 재벌에게 넘어가 +았느냐는 탄식이 여기저기서 쏟아지었다 .	O O O PER-B PER-I O O O O O O O O O O O O O
-1854년 창당 후 링컨을 자신들의 첫 대통령으로 만들었던 공화당은 162년간 어떻게 트럼프의 정당으로 변모 하+ㄴ 것+이+ㄹ까 .	O O O PER-B O O O O ORG-B O O PER-B O O O O O
-한국노동연구원 분석에 따르면 은행원은 주5일 평균 실질근무시간(점심시간 등 제외)은 56시간으로 하루 11시간이 넘는다 .	ORG-B O O O O O O O O O O O O O
-구글이 개발하+ㄴ 인공지능(AI) 알파고가 이번에 +ㄴ 컴퓨터 게임이+ㄴ 스타크래프트 대회 출전을 준비하고 있는 것으로 알려지었다 .	ORG-B O O O O O O O O O O O O O O O
-마이크 모하임 블리자드 엔터테인먼트(스타크래프트 개발사) 최고경영자(CEO)는 31일 동아일보와의 인터뷰에서 “구글과 블리자드가 이번 대결을 위하 +ㄴ 실무협상을 벌이고 있다”고 말하였다 .	PER-B PER-I ORG-B ORG-I O O O ORG-B O ORG-B ORG-B O O O O O O O O O
-구글은 이세돌 9단과 알파고의 대국 이후 ‘알파고의 다음도전은 인간과의 스타크래프트 대결’이라는 계획을 발표하였다 .	ORG-B PER-B O O O O O O O O O O O O
-노 전 대통령은 특히 『모친이 다니는 동화사 불사를 하는 것을 빌미로 자식이 +ㄴ 대통령이 「정치자금」을 떼먹었다는 식으로 주장하다니 …』+이라며 개탄하+ㄴ 것으로 알려지었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-블랙박스 피해 예방주의보 : 충돌 장면 녹화 안 되거나 화질 불량, 무료 장착 빙자 하+ㄴ 악덕상술도 활개 서울에 거주하는 50대 황모씨는 지나 +ㄴ 2014년 1월에 블랙박스를 구입하여 차량에 장착하였다 .	O O O O O O O O O O O O O O O O O LOC-B O O PER-B O O O O O O O O O
-개리, ‘성관계 동영상 루머’에 법적 대응 예고… 문신 위치++디자인 어떻게 다르+ㄹ까? 개리법적 대응그룹 리쌍의 개리(강희건·37)가 ‘성관계 동영상’ 루머를 부인하며 법적 대응을 예고하+ㄴ 가운데, 과거 한 광고에서 타투를 공개하+ㄴ 사진이 눈길을 모으았다 .	PER-B O O O O O O O O O O PER-B O ORG-B PER-B O O O O O O O O O O O O O O O O O
-소년소녀가장 지원 1억 기부 … 아너소사이어티 회원 가 .	O O MNY-B O O ORG-B O O O
-주당 25시간만 근무하지만 엄연하+ㄴ 정규직이다 .	O O O O O O
-재무부는 5일 세제실장에 강만수 국회 재무위 전문위원, 한국투자신탁 사장에 이근영 세제실장, 국회 재무위 전문위원에는 김영섭 이재국장을 각각 내정하였다 .	ORG-B O O PER-B ORG-B ORG-I ORG-I O O PER-B O ORG-B ORG-I ORG-I PER-B O O O O
-문세영 기수는 사상 최초로 4년 연속 최우수기수로 선정되었다 .	PER-B O O O O O O O O
-‘마리텔’장도 연, 유상무나오냐는 질문에 “남보다 못하+ㄴ 사이 .	O O PER-B O O O O O
-이날 승리로 마인츠는 11위에서 8위(8승 13무 9패·승점37)로 점프하였다 .	O O ORG-B O O O O O O
-국군의 날이 10월 1일로 지정되+ㄴ 배경에 대하+여서 +ㄴ두 가지설이 제기되고 있다 .	O O O O O O O O O O O O
+“ 공화당 은 끝났 군 . ” 만 년 공화당 원 라이언 대븐포트 는 지난 7 월 도널드 트럼프 가 미국 공화당 대선 후보 로 선출되 자 혀 를 끌끌 찼 다 .	O ORG-B O O O O O O O ORG-B O O O O O DAT-B DAT-I PER-B PER-I O ORG-B ORG-I O O O O O O O O O O O
+노예 해방 을 이끌 었 던 에이브러햄 링컨 의 정당 이 어쩌다 “ 멕시코인 은 강간범 ” 이라고 떠드 는 부동산 재벌 에게 넘어갔 느냐는 탄식 이 여기저기 서 쏟아 졌 다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+1854 년 창당 후 링컨 을 자신 들 의 첫 대통령 으로 만들 었 던 공화당 은 162 년 간 어떻 게 트럼프 의 정당 으로 변모한 걸까 .	DAT-B DAT-I O O PER-B O O O O O O O O O O ORG-B O O O O O O PER-B O O O O O O
+한국노동연구원 분석 에 따르 면 은행원 은 주 5 일 평균 실질 근무시간 ( 점심시간 등 제외 ) 은 56 시간 으로 하루 11 시간 이 넘 는다 .	ORG-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+구글 이 개발한 인공 지능 ( AI ) 알 파고 가 이번 엔 컴퓨터 게임 인 스타크래프트 대회 출전 을 준비하 고 있 는 것 으로 알려 졌 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+마이크 모 하임 블리자드 엔터테인먼트 ( 스타크래프트 개발 사 ) 최고 경영자 ( CEO ) 는 31 일 동아일보 와 의 인터뷰 에서 “ 구글 과 블리자드 가 이번 대결 을 위한 실무 협상 을 벌이 고 있 다 ” 고 말 했 다 .	PER-B PER-I PER-I ORG-B ORG-I O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+구글 은 이세돌 9 단 과 알파 고의 대국 이후 ‘ 알파 고의 다음 도전 은 인간 과 의 스타크래프트 대결 ’ 이 라는 계획 을 발표 했 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+노 전 대통령 은 특히 『 모친 이 다니 는 동화사 불사 를 하 는 것 을 빌미 로 자식 인 대통령 이 「 정치 자금 」 을 떼먹 었 다는 식 으로 주장하 다니 … 』 라며 개탄한 것 으로 알려 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+블랙박스 피해 예방 주의보 : 충돌 장면 녹화 안되 거나 화질 불량 , 무료 장착 빙자한 악덕 상술 도 활개 # 서울 에 거주하 는 50 대 황 모 씨 는 지난 2014 년 1 월 에 블랙박스 를 구입하 여 차량 에 장착 했 다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O PER-B PER-I O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O
+개리 , ‘ 성관계 동영상 루머 ’ 에 법적 대응 예고 … 문신 위치+ 디자인 어떻 게 다를까 ? 개리 법적 대응 그룹 리쌍 의 개리 ( 강희건 · 37 ) 가 ‘ 성관계 동영상 ’ 루머 를 부인하 며 법적 대응 을 예고한 가운데 , 과거 한 광고 에서 타투 를 공개한 사진 이 눈길 을 모 았 다 .	PER-B O O O O O O O O O O O O O O O O O O PER-B O O O ORG-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소년 소녀 가장 지원 1 억 기부 … 아너 소사이어티 회원 가입	O O O O MNY-B MNY-I O O ORG-B ORG-I O O
+주 당 25 시간 만 근무하 지만 엄연한 정규직 이 다 .	O O O O O O O O O O O O
+재무부 는 5 일 세제 실장 에 강만수 국회 재무 위 전문 위원 , 한국투자신탁 사장 에 이근영 세제 실장 , 국회 재무 위 전문 위원 에 는 김영섭 이재 국장 을 각각 내정 했 다 .	ORG-B O DAT-B DAT-I O O O PER-B ORG-B ORG-I ORG-I O O O O O O PER-B O O O ORG-B ORG-I ORG-I O O O O PER-B O O O O O O O O
+문세영 기수 는 사상 최초 로 4 년 연속 최우수 기수 로 선정 됐 다 .	PER-B O O O O O O O O O O O O O O O
+‘ 마리 텔 ’ 장도연 , 유상무 나오 냐는 질문 에 “ 남 보다 못한 사이 ”	O O O O PER-B O PER-B O O O O O O O O O O
+이날 승리 로 마인츠 는 11 위 에서 8 위 ( 8 승 13 무 9 패 · 승점 37 ) 로 점프 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+국군 의 날 이 10 월 1 일 로 지정된 배경 에 대해선 두 가지 설 이 제기되 고 있 다 .	DAT-B DAT-I DAT-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O

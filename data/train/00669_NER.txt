@@ -1,14 +1,14 @@
-소속사 CJ E&M 측은 “로이킴이 이번 앨범을 통하+여 한층 성숙하+여지+ㄴ 음악을 선보이+ㄹ 것”이라며 “일상의 감성을 콘셉트로 잡았다”고 소개하였다 .	O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O
-쌀콩마늘밤 굴비 마른 오징어 등 국산 농수산물의 원산지 표시가 내년 1월부터 의무화되+ㄴ다 .	O O O O O O O O O O O O O
-이재윤 유안타증권 연구원도 “스마트폰 사업에 있어 경쟁사(애플) 주력 제품 판매가 부진하었던 반면 마케팅 비용은 예상보다 적게 투입되었다”며 2분기 영업이익을 8조원으로 예측하였다 .	PER-B ORG-B MNY-I O O O ORG-B O O O O O O O O O O O O MNY-B O O
-2002년부터 2010년까지 패키지 여행객 수가 연평균 5.3% 늘어나 +ㄴ 반면 자유여행객은 8.8% 늘었다 .	O O O O O O O O O O O O O O
-A씨는 “시민들과 동료들에게 너무 미안하다 .	PER-B O O O O O
-이밖에도 6.25전쟁 때 미군으로부터 지원받아 사용하게 되+ㄴ 'M181mm 박격포' 등 구형과 신형의 박격포가 전시되+어 있다 .	O O O ORG-B O O O O O O O O O O O O
-기상청은 “밤에는 북쪽의 약 하+ㄴ한기가 남하하면서 기온이 내려가 +아낮과 밤의 기온차가 15도 이상 벌이지는 지역이 많을 것으로 보이+ㄴ다”며 주의를 당부하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-맨체스터 유나이티드에서 활약 하+ㄴ 박지성(34·은퇴)이 올리+ㄴ 시즌 5골을 일찌감치 넘어서며 역대 EPL 진출 한국 선수 최다골 신기록을 보유 중이+ㄴ그는 2012∼2013 시즌 맨체스터 유나이티드에서 뛰+ㄴ 일본 국가대표가 가와 신지(도르트문트)의 역대 아시아 선수 EPL 최다골(6골) 기록도 깨트리었다 .	ORG-B ORG-I O O PER-B O O O O O O ORG-B O O O O O O O O O ORG-B ORG-I O O O O ORG-B O O O ORG-B O O O O
-장중에는 174만7000원까지 치솟기도 +였다 .	O MNY-B O O O
-정우성·황정민·주지훈·곽도원이 모이면 ?… 범죄 액션영화의 최고 되+ㄹ  .	PER-B O O O O O O O O
-직전 분기(1.4%)와 시장의 예상치(2.6%)를 모두 웃돌았다 .	O O O O O O O
-전북 최강희 감독은 “꼭 이기+어야 하+ㄹ경기를 비기었다 .	ORG-B PER-B O O O O O O
-세치혀는 잠시 쉬게 하고 사실로 하여금 역사의 수레를 밀고 가게 하자. 김진논설위 .	O O O O O O O O O O O PER-B O
-점검단은 5∼8월 약 3개월 동안 사업장 나+의 안전 관련 사항 전반을 살피고 사고 재발방지를 위하+ㄴ 안전관리체계를 수립하는 역할을 맡았다 .	O O O O O O O O O O O O O O O O O O O O
+소속 사 CJ E & M 측 은 “ 로이 킴 이 이번 앨범 을 통해 한층 성숙해 진 음악 을 선보일 것 ” 이 라며 “ 일상 의 감성 을 콘셉트 로 잡 았 다 ” 고 소개 했 다 .	O O ORG-B ORG-I ORG-I ORG-I O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+쌀 콩 마늘 밤 굴비 마른오징어 등 국산 농수산물 의 원산지 표시 가 내년 1 월 부터 의무화된다 .	O O O O O O O O O O O O O O DAT-B DAT-I O O O
+이재윤 유안타증권 연구원 도 “ 스마트 폰 사업 에 있 어 경쟁사 ( 애플 ) 주력 제품 판매 가 부진 했 던 반면 마케팅 비용 은 예상 보다 적 게 투입 됐 다 ” 며 2 분기 영업이익 을 8 조 원 으로 예측 했 다 .	PER-B ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+2002 년 부터 2010 년 까지 패키지 여행객 수 가 연평균 5.3 % 늘어난 반면 자유 여행객 은 8.8 % 늘 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+A 씨 는 “ 시민 들 과 동료 들 에게 너무 미안하 다 .	PER-B O O O O O O O O O O O O O
+이 밖 에 도 6.25 전쟁 때 미군 으로부터 지원 받 아 사용하 게 된 ' M 1 81 mm 박격포 ' 등 구형 과 신형 의 박격포 가 전시돼 있 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+기상청 은 “ 밤 에 는 북쪽 의 약한 한기 가 남하하 면서 기온 이 내려가 낮 과 밤 의 기온차 가 15 도 이상 벌이 지 는 지역 이 많 을 것 으로 보인다 ” 며 주의 를 당부 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+맨체스터 유나이티드 에서 활약한 박지성 ( 34 · 은퇴 ) 이 올린 시즌 5 골 을 일찌감치 넘어서 며 역대 EPL 진출 한국 선수 최다 골 신기록 을 보유 중 인 그 는 2012 ∼ 2013 시즌 맨체스터 유나이티드 에서 뛴 일본 국가 대표 가가와 신 지 ( 도르트문트 ) 의 역대 아시아 선수 EPL 최다 골 ( 6 골 ) 기록 도 깨트 렸 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O PER-B PER-I PER-I O ORG-B O O O O O ORG-B O O O O O O O O O O O O
+장중 에 는 174 만 7000 원 까지 치솟 기 도 했 다 .	O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O
+정우성 · 황정민 · 주지훈 · 곽도원 이 모이 면 ? … 범죄 액션 영화 의 최고 될 듯	PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O O
+직전 분기 ( 1.4 % ) 와 시장 의 예상 치 ( 2.6 % ) 를 모두 웃돌 았 다 .	O O O O O O O O O O O O O O O O O O O O O
+전북 최강희 감독 은 “ 꼭 이겨야 할 경기 를 비 겼 다 .	ORG-B PER-B O O O O O O O O O O O O
+세 치 혀 는 잠시 쉬 게 하 고 사실 로 하여금 역사 의 수레 를 밀 고 가 게 하 자 . 김진 논설위원	O O O O O O O O O O O O O O O O O O O O O O O PER-B O
+점검 단 은 5 ∼ 8 월 약 3 개월 동안 사업장 내 안전 관련 사항 전반 을 살피 고 사고 재발 방지 를 위한 안전 관리 체계 를 수립하 는 역할 을 맡 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-대당 제작비가 4억5000만원이+ㄴ 2층 광역버스는 연말까지 124대를 추가로 도입하+ 여경기 성남, 용인 등 12개 지역에서 운행 하+ㄴ다 .	O O MNY-B O O O MNY-B O O LOC-B LOC-I LOC-B O O O O O O
-하이페츠의 기교와 크라이슬러의 감성… .	PER-B O PER-B O O
-토막나+ㄴ 40대 여성변사체 경남 통영서 발 .	O O O LOC-B LOC-I O O
-kt담당 이 경호기자가 이재국 차장과 김영준·홍재현·이명노·강산·고봉준기자를 대화창에 초청하였다 .	ORG-B O O PER-B O PER-B O O O
-아시안컵, 한국-우즈벡 하이라이트는 '차두리 손흥민의 찰떡 호흡' 대한민국 축구 대표팀이 우즈베키스탄(이하 우즈벡)과의 2015AFC 호주 아시안컵 8강전에서 2-0으로 승리를 거두었다 .	O LOC-B O PER-B PER-B O O ORG-B ORG-I ORG-I LOC-B LOC-B O O O O O O O O
-1992년 처음 방문 하+ㄴ그 집안에 +ㄴ지치고 피곤 하+ㄴ 표정의 사람들이 좁고 낮은 공간을 오가며 개미처럼 일하고 있었다 .	O O O O O O O O O O O O O O O O O O
-김 감독은 "경기장에서 벌어지는 실수나 실책은 나무라지 않겠다 .	PER-B O O O O O O O O
-정용화와 양동근은 만화적 상상력이 돋보이는 티저에서 능청스럽ㄴ 연기를 선보이었다 .	PER-B PER-B O O O O O O O O
-전력 예비율 3.2%/올 들어 최악…「수급 조정제」 검 .	O O O O O O O O
-직원 파견도 일본 대신 미국 쪽으로 선회하고 있다 .	O O LOC-B O LOC-B O O O O
-미나는 40대 +이라는 나이가 믿기지 않는 명품 비율과 건강미 넘치는 구릿빛 피부로 눈길을 모으았다 .	PER-B O O O O O O O O O O O O O O
-앞서 미나와 류 필립은 6월부터 교제를 시작하였다며, 8월 열애를 공식적으로 인정하였다 .	O PER-B PER-B PER-I O O O O O O O O
-[통신원 수첩] 보라스++26세… 3년 후 하퍼가 기다리+어지는 이 .	O O O O O PER-B O O O
+대 당 제작비 가 4 억 5000 만 원 인 2 층 광역 버스 는 연말 까지 124 대 를 추가 로 도입해 경기 성남 , 용인 등 12 개 지역 에서 운행한다 .	O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O LOC-B LOC-I O LOC-B O O O O O O O
+하이페츠 의 기교 와 크라이슬러 의 감성 … .	PER-B O O O PER-B O O O O
+토막 난 40 대 여성 변사체 경남 통영 서 발견	O O O O O O LOC-B LOC-I O O
+kt 담당 이경호 기자 가 이재국 차장 과 김영준 · 홍재현 · 이명노 · 강산 · 고봉준 기자 를 대화 창 에 초청 했 다 .	ORG-B O PER-B O O PER-B O O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O O
+아시안 컵 , 한국 - 우즈벡 하이라이트 는 ' 차두리 손흥민 의 찰떡 호흡 ' 대한민국 축구 대표 팀 이 우즈베키스탄 ( 이하 우즈벡 ) 과 의 2015 AFC 호주 아시안 컵 8 강 전 에서 2 - 0 으로 승리 를 거 뒀 다 .	O O O LOC-B O LOC-B O O O PER-B PER-B O O O O ORG-B ORG-I ORG-I ORG-I O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+1992 년 처음 방문한 그 집안 엔 지치 고 피곤한 표정 의 사람 들 이 좁 고 낮 은 공간 을 오가 며 개미 처럼 일하 고 있 었 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 감독 은 " 경기장 에서 벌어지 는 실수 나 실책 은 나무라 지 않 겠 다 .	PER-B O O O O O O O O O O O O O O O O O
+정용화 와 양동근 은 만화 적 상상력 이 돋보이 는 티저 에서 능청스러 운 연기 를 선보 였 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O
+전력 예비 율 3.2 % / 올 들 어 최악 … 「 수급 조정 제 」 검토	O O O O O O O O O O O O O O O O O
+직원 파견 도 일본 대신 미국 쪽 으로 선회하 고 있 다 .	O O O LOC-B O LOC-B O O O O O O O
+미나 는 40 대 라는 나이 가 믿기 지 않 는 명품 비율 과 건강미 넘치 는 구릿빛 피부 로 눈길 을 모 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 미나 와 류 필립 은 6 월 부터 교제 를 시작 했 다며 , 8 월 열애 를 공식적 으로 인정 했 다 .	O PER-B O PER-B PER-I O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O O
+[ 통신원 수첩 ] 보라스+ 26 세 … 3 년 후 하퍼 가 기다려 지 는 이유	O O O O O O O O O O O PER-B O O O O O

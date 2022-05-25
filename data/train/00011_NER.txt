@@ -1,14 +1,14 @@
-삼성은 kt누르고 연패 탈 .	ORG-B ORG-B O O O
-미국의 젊은 인터넷 사업가 일론 머스크가 2002년 창업 하+ㄴ신생기업으로, 로켓 재활용과 무인우주화물선 같은 신개념 우주서비스를 시도 하+여주목 받고 있다 .	ORG-B O O O PER-B PER-I O O O O O O O O O O O O O O
-중국서 이 같은 벤처캐피털은 전망 있는 기업에 투자 하+여창업을 촉진하는 취지에서 긍정적 이+ㄴ 투자로 인식되고 있다 .	ORG-B O O O O O O O O O O O O O O O O
-교육부의 한 당국자는 18일 『현재 체육특기자가 대학의 어떤 학과든지 제한 없이 입학하+ㄹ 수 있는 제도를 바꾸+어 앞으로는 체육과 관련 있는 학과에 만들어가 +ㄹ 수 있도록 법령을 개정하기로 +였다』며 『이와 함께 체육관련 학과 외에 학과 없이 체육부를 별도로 운영하+ㄹ 수 있도록 하는 방안도 강구중』이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-직장인 최순인(가명·52)씨는 5월 치르+ㄴ아버지 장례식을 생각하+ㄹ 때마다 씁쓸하+ㅁ을 느끼+ㄴ다 .	O PER-B O O O O O O O O
-안성아양 B4블록 바로 남측에는 안성천 정비사업이 예정되어 있어 더욱 쾌적하+ㄴ 주거환경을 누리+ㄹ 수 있다 .	LOC-B O O O LOC-B O O O O O O O O O O
-6개의 숙박공간은 각각 반딧불이나 큐브 등 우리에게 친숙하+ㄴ 것들을 모티브로 삼아 디자인+되었다 .	O O O O O O O O O O O O O
-부산클러스터는 해양, 바이오헬스, 기계융합 등 부산시 5대 신 전략산업과 연계하+ㄴ SW융합거점 역할을 수행하고 있다 .	ORG-B O O O O ORG-B O O O O O O O O O
-아시아 국가는 한국, 일본, 카자흐스탄, 태국 등 4개 팀이+ㄴ데, 1위를 위하+여서 +ㄴ 숙적 일본의 벽을 넘어야 하+ㄴ다 .	LOC-B O ORG-B ORG-B ORG-B ORG-B O O O O O O O ORG-B O O O O
-한국웬만 하+ㄴ 젊은이들은 다알+ㄹ 것+이다 .	LOC-B O O O O O
-이희준 연인이 혜정, 해먹위에 눕어 '아찔' 각선 미 뽐내+ .	PER-B O O O O O O O O O
-주인은 미혼 이+ㄴ이준엽(30·사진)씨.그는 지난해 2월 실내를 포장마차처럼 꾸미+ㄴ 100㎡ 규모의 가게를 열었다 .	O O PER-B O O O O O O O O O O
-박 대통령도 총선 직후에 +ㄴ 야당과의 협치를 언급하였으나 7월 우병우 민정수석 관련 의혹에 9월 미르·K스포츠재단 의혹까지 나오자 ‘난무하는 비방과 확인되지 않은 폭로성 발언’이라며 강경하+ㄴ 태도로 돌아서+어 국민을 실망시키었다 .	PER-B O O O O O O O O PER-B O O O O ORG-B O O O O O O O O O O O O O O
-경기침체에도 ‘사랑의 온도탑’은 뜨겁었 .	O O O O O
+삼성 은 kt 누르 고 연패 탈출	ORG-B O ORG-B O O O O
+미국 의 젊 은 인터넷 사업가 일론 머스크 가 2002 년 창업한 신생 기업 으로 , 로켓 재활용 과 무인 우주 화물선 같 은 신 개념 우주 서비스 를 시도해 주목 받 고 있 다 .	ORG-B O O O O O PER-B PER-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 서 이 같 은 벤처 캐피털 은 전망 있 는 기업 에 투자해 창업 을 촉진하 는 취지 에서 긍정적 인 투자 로 인식되 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교육부 의 한 당국자 는 18 일 『 현재 체육 특기 자 가 대학 의 어떤 학과 든지 제한 없이 입학할 수 있 는 제도 를 바꿔 앞 으로 는 체육 과 관련 있 는 학과 에 만 들어갈 수 있 도록 법령 을 개정 키 로 했 다 』 며 『 이 와 함께 체육 관련 학과 외 에 학과 없이 체육부 를 별도 로 운영할 수 있 도록 하 는 방안 도 강구 중 』 이라고 말 했 다 .	ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+직장인 최순인 ( 가명 · 52 ) 씨 는 5 월 치른 아버지 장례식 을 생각할 때 마다 씁쓸함 을 느낀다 .	O PER-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+안성 아양 B 4 블록 바로 남측 에 는 안성천 정비 사업 이 예정되 어 있 어 더욱 쾌적한 주거 환경 을 누릴 수 있 다 .	LOC-B LOC-I O O O O O O O LOC-B O O O O O O O O O O O O O O O O O
+6 개 의 숙박 공간 은 각각 반딧불 이나 큐브 등 우리 에게 친숙한 것 들 을 모티브 로 삼 아 디자인 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+부산 클러스터 는 해양 , 바이오 헬스 , 기계 융합 등 부산 시 5 대 신전략 산업 과 연계한 SW 융합 거점 역할 을 수행하 고 있 다 .	ORG-B ORG-I O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+아시아 국가 는 한국 , 일본 , 카자흐스탄 , 태국 등 4 개 팀 인데 , 1 위 를 위해선 숙적 일본 의 벽 을 넘 어야 한다 .	LOC-B O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O ORG-B O O O O O O O
+한국 웬만한 젊은이 들 은 다 알 거 다 .	LOC-B O O O O O O O O O
+이희준 연인 이혜정 , 해먹 위 에 누 워 ' 아찔 ' 각선미 뽐내	PER-B O PER-B O O O O O O O O O O O
+주인 은 미혼 인 이준엽 ( 30 · 사진 ) 씨 . 그 는 지난해 2 월 실내 를 포장마차 처럼 꾸민 100 ㎡ 규모 의 가게 를 열 었 다 .	O O O O PER-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+박 대통령 도 총선 직후 엔 야당 과 의 협 치 를 언급 했 으나 7 월 우병우 민정 수석 관련 의혹 에 9 월 미르 · K 스포츠 재단 의혹 까지 나오 자 ‘ 난무하 는 비방 과 확인되 지 않 은 폭로 성 발언 ’ 이 라며 강경한 태도 로 돌아서 국민 을 실망 시 켰 다 .	PER-B O O O O O O O O O O O O O O DAT-B DAT-I PER-B O O O O O DAT-B DAT-I ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경기 침체 에 도 ‘ 사랑 의 온도 탑 ’ 은 뜨거 웠 다	O O O O O O O O O O O O O O

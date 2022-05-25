@@ -1,10 +1,10 @@
-앞서 +어그는 10월 1일 생방송 진출자를 가리는 슈퍼위크 마지막 미션라이벌 배틀에서 천단비와 경쟁 하+ㄴ 끝에 탈락의 고배를 마시었다 .	O O O O O O O O O O O PER-B O O O O O O O
-11명 완전체로 돌아오+ㄴ아이오아이의 신곡 '너무너 무너무'가 발표 뒤 온라인을 휩쓸고 있다 .	O O ORG-B O O O O O O O O O
-또한 광주역과 태전교차로로 인접 하+여대중교통 및 자가용 이동도 편리하다 .	O LOC-B LOC-B O O O O O O O
-여자 배구팬이라는 조준석(30)씨는 “예전에는 여자 배구선수들이 외모에 관심 갖지 않고 경기만 열심히 뛰었지만 요즘에는 다르더라. 깔끔하고 단정 하+여보 이+ㄴ다 .	O O PER-B O O O O O O O O O O O O O O O O O
-한옥은 현대 건축에서 찾아 보+ㄹ 수 없는 한국 고유의 아름답+ㅁ을 간직하고 있다 .	O O O O O O O LOC-B O O O O O
-28일에+ㄴ 브람스의 스케르초 c 단조와 바이올린 소나타 3번, 그리그의 바이올린 소나타 3번, 예뇌 후버이의 카르멘 판타지 브릴란테를 연주 하+ㄴ다 .	O PER-B O O O O O O PER-B O O O PER-B PER-I O O O O O O
-국제사회는 북한 제재에 나서고 있다 .	O ORG-B O O O O
-1922년 서울 종로에서 출생해 전북 전주에서 자라 +ㄴ고인은 전주고를 졸업하고 1942년인촌 김성수 선생이 교장이던 보성 전문학교(고려대 전신)에 진학하였다 .	O LOC-B LOC-I O LOC-B LOC-I O O O O PER-B PER-I O O O ORG-B O O O
-소변한 방울까지도 재활용 하+여식수로 사용하고, 유해하+ㄴ 방사능을 내뿜는 플루토늄으로 난방을 하+여야 하+ㄴ다 .	O O O O O O O O O O O O O
-2016년 부산여성가족통계연보 발 .	O O O O
+앞서 그 는 10 월 1 일 생방송 진출 자 를 가리 는 슈퍼 위크 마지막 미션 라이벌 배틀 에서 천 단비 와 경쟁한 끝 에 탈락 의 고배 를 마 셨 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O
+11 명 완전체 로 돌아온 아이오 아이 의 신곡 ' 너무너무 너무 ' 가 발표 뒤 온라인 을 휩쓸 고 있 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+또한 광주역 과 태전 교차로 로 인접해 대중 교통 및 자가용 이동 도 편리하 다 .	O LOC-B O LOC-B LOC-I O O O O O O O O O O O
+여자 배구 팬 이 라는 조준석 ( 30 ) 씨 는 “ 예전 에 는 여자 배구 선수 들 이 외모 에 관심 갖 지 않 고 경기 만 열심히 뛰 었 지만 요즘 에 는 다르 더라 . 깔끔하 고 단정해 보인다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한옥 은 현대 건축 에서 찾아볼 수 없 는 한국 고유 의 아름다움 을 간직하 고 있 다 .	O O O O O O O O O LOC-B O O O O O O O O O
+28 일 엔 브람스 의 스케르초 c 단조 와 바이올린 소나타 3 번 , 그리그 의 바이올린 소나타 3 번 , 예 뇌 후버 이의 카르멘 판타지 브릴란테 를 연주한다 .	DAT-B DAT-I O PER-B O O O O O O O O O O PER-B O O O O O O PER-B PER-I PER-I O O O O O O O
+국제 사회 는 북한 제재 에 나서 고 있 다 .	O O O ORG-B O O O O O O O
+1922 년 서울 종로 에서 출생 해 전북 전주 에서 자란 고인 은 전주고 를 졸업하 고 1942 년 인촌 김성수 선생 이 교장 이 던 보성전문학교 ( 고려대 전신 ) 에 진학 했 다 .	DAT-B DAT-I LOC-B LOC-I O O O LOC-B LOC-I O O O O ORG-B O O O DAT-B DAT-I PER-B PER-I O O O O O ORG-B O ORG-B O O O O O O O
+소변 한 방울 까지 도 재활용해 식수 로 사용하 고 , 유해한 방사능 을 내뿜 는 플루토늄 으로 난방 을 해야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O
+2016 년 부산 여성 가족 통계 연보 발간	DAT-B DAT-I O O O O O O

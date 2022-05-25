@@ -1,13 +1,13 @@
-보스턴 1루수빌 버크너가 평범 하+ㄴ 땅볼을 잡지 못하고 알을 깔+ㄴ 덕분에 결승점을 뽑아내 +ㄴ 메츠는 여세를 몰아 7차전까지 8-5로 잡았다 .	ORG-B PER-B PER-I O O O O O O O O O O O ORG-B O O O O O O
-올 시즌 메츠는 3번째의 ‘미러클’에 도전하+ㄴ다 .	O O ORG-B O O O O
-정부는 농협 전산마비는 북한의 해킹 전문집단에 의하+ㄴ 공격으로 잠정적 이+ㄴ 결론을 내리었다 .	O ORG-B O ORG-B O O O O O O O O O
-대성 로드컴(대표 정해웅)이 발간하는 「컴돌이 」는 컴퓨터 일반 상식 ­도스 입문 ­아래아한글 ­베이직 등 초급과정 24단계와 로터스1, 2, 3­dBASEⅢ 등 중급 과정이 24단계로 구성되어 있다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O
-이쯤 되면 21기는 상·하위가 고르+ㄴ 전력을 보이며 좀처럼 버리+ㄹ 선수가 없다는 결론이다 .	O O ORG-B O O O O O O O O O O
-TV나 모바일 기기를 구매하면 2년 동안 콘텐츠를 무료로 즐기+ㄹ 수 있고, 콘텐츠에 익숙하+ 여지+ㄴ 사용자들은 2년 후 자연스럽게 유료 사용자로 전환하+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O
-[북 김정남 피살] 김정남 자주 만나 +ㄴ한인…"남한으로 가라고 +였더니 씨익 웃더라 .	ORG-B PER-B O PER-B O O ORG-B O O O O O
-3일(현지시간) 독일 프랑크푸르트 본부에서 드라기 총재는 통화정책회의를 하고 나+아서 개최 하+ㄴ기자회견에서 “ECB의 자산매입 계획은 유연하다 .	O LOC-B LOC-B O PER-B O O O O O O ORG-B O O O O
-경북 칠곡군의 한 골프장은 2012년부터 지방세가 밀리+어가산금까지 47억원을 체납하였다 .	LOC-B LOC-B O O O O O MNY-B O O
-여당 의원 아들은 담뱃값 인상 직전 이+ㄴ 지난해 12월 모 편의점에서 근무하였다 .	O O O O O O O O O O O O O
-서울 마포구 홍대입구 인근에 위치하+ㄴ A편의점은 지나 +ㄴ 1일 “여당(새누리당) B의원의 아들 C씨가 2014년 11월 22일부터 12월 21일까지 한 달간 아르바이트를 하면서 214갑의 담배를 빼돌리+ㄴ 의혹이 있다”고 말하였다 .	LOC-B LOC-B LOC-B O O LOC-B O O O ORG-B PER-B O PER-B O O O O O O O O O O O O O O O O
-한편, ‘5일간의 썸머’는 가상으로 진행되던 기존의 연애 프로그램과 달리 연인 사이로 의심받거나 화제가 되+ㄴ 경험이 있는 연예계 커플이 5일간의 여행을 통하+여서로의 마음을 확인하는 프로그램으로 매주 목요일 밤 12시20분 방송되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-볼트는 2007년 세계선수권대회 200m에서 은메달을 따+아내며 세계적 이+ㄴ 선수로 도약하었다 .	PER-B O O O O O O O O O O
+보스턴 1 루수 빌 버크너 가 평범한 땅볼 을 잡 지 못하 고 알 을 깐 덕분 에 결승점 을 뽑아낸 메츠 는 여세 를 몰 아 7 차 전 까지 8 - 5 로 잡 았 다 .	ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+올 시즌 메츠 는 3 번째 의 ‘ 미러클 ’ 에 도전한다 .	O O ORG-B O O O O O O O O O O
+정부 는 농협 전산 마비 는 북한 의 해킹 전문 집단 에 의한 공격 으로 잠정적 인 결론 을 내 렸 다 .	O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O
+대성 로드 컴 ( 대표 정해웅 ) 이 발간하 는 「 컴 돌 이 」 는 컴퓨터 일반 상식 ­ 도스 입문 ­ 아래아한글 ­ 베이직 등 초급 과정 24 단계 와 로터스 1 , 2 , 3 ­ dBASE Ⅲ 등 중급 과정 이 24 단계 로 구성되 어 있 다 .	ORG-B ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이쯤 되 면 21 기 는 상 · 하위 가 고른 전력 을 보이 며 좀처럼 버릴 선수 가 없 다는 결론 이 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+TV 나 모바일 기기 를 구매하 면 2 년 동안 콘텐츠 를 무료 로 즐길 수 있 고 , 콘텐츠 에 익숙해 진 사용자 들 은 2 년 후 자연스럽 게 유료 사용자 로 전환합니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+[ 북 김정남 피살 ] 김정남 자주 만난 한인 … " 남한 으로 가 라고 했 더니 씨익 웃 더라 "	O ORG-B PER-B O O PER-B O O O O O ORG-B O O O O O O O O O
+3 일 ( 현지 시간 ) 독일 프랑크푸르트 본부 에서 드라기 총재 는 통화정책 회의 를 하 고 나서 개최한 기자회견 에서 “ ECB 의 자산 매입 계획 은 유연하 다 .	DAT-B DAT-I O O O O LOC-B LOC-B O O PER-B O O O O O O O O O O O O ORG-B O O O O O O O O
+경북 칠곡군 의 한 골프장 은 2012 년 부터 지방세 가 밀려 가산금 까지 47 억 원 을 체납 했 다 .	LOC-B LOC-B O O O O DAT-B DAT-I O O O O O O MNY-B MNY-I MNY-I O O O O O
+여당 의원 아들 은 담뱃값 인상 직전 인 지난해 12 월 모 편의점 에서 근무 했 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O
+서울 마포구 홍대 입구 인근 에 위치한 A 편의점 은 지난 1 일 “ 여당 ( 새누리당 ) B 의원 의 아들 C 씨 가 2014 년 11 월 22 일 부터 12 월 21 일 까지 한 달 간 아르바이트 를 하 면서 214 갑 의 담배 를 빼돌린 의혹 이 있 다 ” 고 말 했 다 .	LOC-B LOC-B LOC-B LOC-I O O O LOC-B LOC-I O O DAT-B DAT-I O O O ORG-B O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , ‘ 5 일 간 의 썸머 ’ 는 가상 으로 진행되 던 기존 의 연애 프로그램 과 달리 연인 사이 로 의심 받 거나 화제 가 된 경험 이 있 는 연예계 커플 이 5 일 간 의 여행 을 통해 서로 의 마음 을 확인하 는 프로그램 으로 매주 목요일 밤 12 시 20 분 방송된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O
+볼트 는 2007 년 세계 선수권 대회 200 m 에서 은메달 을 따 내 며 세계적 인 선수 로 도약 했 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O

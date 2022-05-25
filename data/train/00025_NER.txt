@@ -1,11 +1,11 @@
-그의 자서전(『절망은 나를 단련시키고 희망은 나를 움직이+ㄴ 다』)에는 ‘돌아서는 사람들’ 편이 나 오+ㄴ다 .	O O O O O O O O O O O O O O
-그러나 서울북부지법은 이날 학교 공금을 변호사 보수 등에 쓰+ㄴ 혐의로 심 총장에게 징역 1년을 선고하고 법정구속하였다 .	O ORG-B O O O O O O O O PER-B O O O O O O
-(서울=뉴스1 .	LOC-B O
-권오중, 김원이 전 서울시 정무수석도 시차를 두고 안도지사 쪽에 가담하였다 .	PER-B PER-B O ORG-B O O O PER-B O O O
-하지만 올 시즌에는 12경기에서 4승 5패, 평균 자책점 5.74로 부진하였다 .	O O O O O O O O O O O
-봉태규하시시박, 웨딩사진 예행 연습?' 파격 커플 화보 .	PER-B O O O O O O O
-현장 밀착 뉴스코너 이+ㄴ ‘콕콕 카메라’가 매일 시청자를 찾아가 +ㄴ다 .	O O O O O O O O O O O
-1 선발 RA 디키(41)와 2선 발마크 벌리(36)가 지난해 27승을 합작하였지만 두 선수 모두 200이닝 이상을 투구하였다 .	O O PER-B PER-I O PER-B PER-I O O O O O O O O O O
-유기자외선 차단제의 대표적 이+ㄴ 성분은 옥틸 메톡 시 신나메이트, 에칠헥실살리실에이트, 호모 살리에이트, 벤조페논-3, 아보 벤존 등이다 .	O O O O O O O O O O O O O O O O O
-학부모들에 의하+여 상습 폭행 가능성이 제기되자 경찰은 CCTV를 추가로 확보하+여 분석하고 인천K 어린이집 보육교사에 대하+여구속영장 청구 하+ㄹ 방침이다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O
-경찰 관계자는 “추가로 확보하+ㄴ CCTV에는 경찰 신고 직전 20일치 영상이 보관되+어 있다 .	O O O O O O O O O O O O O
+그 의 자서전 ( 『 절망 은 나 를 단련 시키 고 희망 은 나 를 움직인다 』 ) 에 는 ‘ 돌아서 는 사람 들 ’ 편 이 나온다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 서울북부지법 은 이날 학교 공금 을 변호사 보수 등 에 쓴 혐의 로 심 총장 에게 징역 1 년 을 선고하 고 법정 구속 했 다 .	O ORG-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O ORG-B ORG-I O
+권오중 , 김원 이 전 서울시 정무 수석 도 시차 를 두 고 안 도지사 쪽 에 가담 했 다 .	PER-B O PER-B PER-I O ORG-B O O O O O O O PER-B O O O O O O O
+하지만 올 시즌 에 는 12 경기 에서 4 승 5 패 , 평균 자책점 5.74 로 부진 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+봉태규 하시시 박 , 웨딩 사진 예행연습 ? ' 파격 커플 화보 '	PER-B PER-B PER-I O O O O O O O O O O
+현장 밀착 뉴스 코너 인 ‘ 콕콕 카메라 ’ 가 매일 시청자 를 찾아간다 .	O O O O O O O O O O O O O O O
+1 선발 RA 디키 ( 41 ) 와 2 선발 마크 벌리 ( 36 ) 가 지난해 27 승 을 합작 했 지만 두 선수 모두 200 이닝 이상 을 투구 했 다 .	O O PER-B PER-I O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+유기 자외선 차단 제 의 대표적 인 성분 은 옥틸 메톡시 신나 메이트 , 에칠헥실살리실에이트 , 호모 살리 에이트 , 벤조페논 - 3 , 아보 벤존 등 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+학부모 들 에 의해 상습 폭행 가능성 이 제기되 자 경찰 은 CCTV 를 추가 로 확보해 분석하 고 인천 K 어린이집 보육 교사 에 대해 구속 영장 청구할 방침 이 다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O
+경찰 관계자 는 “ 추가 로 확보한 CCTV 에 는 경찰 신 고 직전 20 일 치 영상 이 보관돼 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O

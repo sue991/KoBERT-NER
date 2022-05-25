@@ -1,13 +1,13 @@
-리타이+ㅁ은 기술력뿐만 아니라 디자인, 사용자의 편리 하+ㅁ이 어우러지+ㄴ 제품으로 해외시장에서 크+ㄴ 호응을 얻고 있다 .	O O O O O O O O O O O O O O O
-장영란 “동창 곽정은, 예쁘게 잘 고치었다”…곽정은 과거 고백 “코성형++치아교정++다이어트 .	PER-B O PER-B O O PER-B O O O O
-추석 연휴 고속도로 교통상황… '서울→부산7시간 40분 .	O O O O LOC-B TIM-I O
-사실상 마지막 국회 국정감사(국감) +이었던 올해에도 그는 많게는 80쪽이 넘는 방대하+ㄴ양의 국감 자료를 발표하며 정부 경제정책의 잘잘못을 지적하였다 .	O O O O O O O O O O O O O O O O O O O
-18년에 달하는 정부 집권 기간을 고려하였다는 설명이다 .	O O O O O O O O
-이어 “대통령의 재정·경제 분야에 대하+ㄴ광범위 하+ㄴ 권한과 영향력, 비정상적 재단 설립 과정과 운영상황 등을 종합하+여보면 박 대통령으로부터 출연 요구를 받은 기업으로서는 이를 받아들이지 않을 수 없는 부담과 압박을 느끼었을 것”이라고 지적하였다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O
-‘소프트럭’은 김상윤 대표가 친구 셋과 함께 오픈 하+ㄴ 아이스크림 트럭이다 .	O PER-B O O O O O O O O O
-미국 월스트리트저널(WSJ)은 4월 27일 구글의 지주회사 이+ㄴ 알파벳(이하 구글)이 좋은 미래 도시건설을 목표로 지난해 6월 설립하+ㄴ 사이드 워크랩을 통하+여 미국의 대규모 신규 주택·사무·상업단지 개발사업의 제안서를 곧 제출하+ㄹ 것+이라고 전하였다 .	ORG-B ORG-B O O ORG-B O O ORG-B ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O
-이에 “축의금 많이 내+ㄹ 것+이냐”고 묻은 고성원은 “고경표가 더 좋았다”고 답하+여 조정석을 당황하게 +였다 .	O O O O O O PER-B PER-B O O O PER-B O O O
-기세를 잡은 정현은 2세트에서 상대를 몰아붙이었다 .	O O O O O O O
-‘오마이비너스’ 소지섭 “김현주와 열애설 후 어색하여 +지+었다 .	O PER-B PER-B O O O O O
-마침 독일 온라인 쇼핑몰 ‘마이테레사’가 올해부터 관세 면제 서류를 챙기+어주기 때문에 10% 부가 세만 내고 거의 현지 가격으로 사+았다 .	O LOC-B O O ORG-B O O O O O O O O O O O O O O O
-또 연고 지진스하임(Sinsheim) 역시 인구 3만5175명(2015년 기준)의 소도시+이다 .	O O LOC-B O O O O O O
+리타 임 은 기술력 뿐 만 아니 라 디자인 , 사용자 의 편리함 이 어우러진 제품 으로 해외 시장 에서 큰 호응 을 얻 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장영란 “ 동창 곽정은 , 예쁘 게 잘 고 쳤 다 ” … 곽정은 과거 고백 “ 코 성형+ 치아 교정+ 다이어트 ”	PER-B O O PER-B O O O O O O O O O PER-B O O O O O O O O O
+추석 연휴 고속도로 교통 상황 … ' 서울 → 부산 7 시간 40 분 '	DAT-B O O O O O O LOC-B O LOC-B TIM-B TIM-I TIM-I TIM-I O
+사실상 마지막 국회 국정 감사 ( 국감 ) 였 던 올해 에 도 그 는 많 게 는 80 쪽 이 넘 는 방대한 양 의 국감 자료 를 발표하 며 정부 경제 정책 의 잘잘못 을 지적 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+18 년 에 달하 는 정부 집권 기간 을 고려 했 다는 설명 이 다 .	O O O O O O O O O O O O O O O O
+이어 “ 대통령 의 재정 · 경제 분야 에 대한 광범위한 권한 과 영향력 , 비정상적 재단 설립 과정 과 운영 상황 등 을 종합해 보 면 박 대통령 으로부터 출연 요구 를 받 은 기업 으로서 는 이 를 받아들이 지 않 을 수 없 는 부담 과 압박 을 느 꼈 을 것 ” 이라고 지적 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 소프 트럭 ’ 은 김상윤 대표 가 친구 셋 과 함께 오픈 한 아이스크림 트럭 이 다 .	O O O O O PER-B O O O O O O O O O O O O O
+미국 월스트리트 저널 ( WSJ ) 은 4 월 27 일 구글 의 지주회사 인 알파벳 ( 이하 구글 ) 이 좋 은 미래 도시 건설 을 목표 로 지난해 6 월 설립한 사이드 워크 랩 을 통해 미국 의 대규모 신규 주택 · 사무 · 상업 단지 개발 사업 의 제안 서 를 곧 제출할 거 라고 전 했 다 .	ORG-B ORG-I ORG-I O ORG-B O O DAT-B DAT-I DAT-I DAT-I ORG-B O O O ORG-B O O ORG-B O O O O O O O O O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+이 에 “ 축의금 많이 낼 거 냐 ” 고 물 은 고성원 은 “ 고경표 가 더 좋 았 다 ” 고 답해 조정석 을 당황 케 했 다 .	O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O PER-B O O O O O O
+기세 를 잡 은 정현은 2 세트 에서 상대 를 몰아붙 였 다 .	O O O O O O O O O O O O O O
+‘ 오 마이 비너스 ’ 소 지섭 “ 김현주 와 열애 설 후 어색해 졌 다 ”	O O O O O PER-B PER-I O PER-B O O O O O O O O
+마침 독일 온라인 쇼핑몰 ‘ 마이 테레사 ’ 가 올해 부터 관세 면제 서류 를 챙겨 주 기 때문 에 10 % 부가세 만 내 고 거의 현지 가격 으로 샀 다 .	O LOC-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 연고지 진스 하임 ( Sinsheim ) 역시 인구 3 만 5175 명 ( 2015 년 기준 ) 의 소도시 다 .	O O LOC-B LOC-I O LOC-B O O O O O O O O DAT-B DAT-I O O O O O O

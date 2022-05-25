@@ -1,12 +1,12 @@
-광주광역시 서구가 3년째 진행 중 이+ㄴ 소원 성취 프로젝트를 통하+여서 +이다 .	ORG-B ORG-I O O O O O O O O O O
-광주 서구는 23일 "올 크리스마스를 기념 하+여 지역 어린이 186명의 소원을 들어주기로 +였다"고 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O
-논란이 커지자 복지부와 서울 서초구 보건소는 시체 해부법 위반 여부 조사에 나서 +었다 .	O O O LOC-B LOC-I O O O O O O O O O
-28일(현지시간) 4월 물 금값은 0.50% 하락 하+ㄴ온스당 1255.60달러에 거래를 마치었다 .	O O O O O O O MNY-B O O O
-정 의장은 지역구(부산 중-동)가 선거구 조정 대상에 거론되자 불쾌하+ㄴ 반응을 보이었다는 후문이다 .	PER-B O LOC-B LOC-I O PER-B O O O O O O O
-이 위원장은 이날 YTN 라디오 ‘신율의 출발 새아침’에 출연하+여안철수 공동대표 등 국민의당 지도부가 영입에 공을 들이고 있는 정 전 의원에 대하+여과거 윤여준 전 공동창당 준비위원장이 하+ㄴ 발언을 빌리+어 이같이 말하였다 .	PER-B O PER-B O O O O O PER-B O O ORG-B O O O PER-B O PER-B O O O PER-B O O PER-B O O O PER-B O O
-보수 성향의 이 위원장은 17일 입당 회견에서 고 김대중 전 대통령의 햇볕정책을 두고 “실패하였다”는 표현을 +었다 .	O O PER-B O O O O O PER-B O O O O O O O O
-박정훈 의원(오늘의 의원 .	PER-B O O O
-인피니트 H로 활동하면서 어렵ㄴ 점을 묻자 호야는 "동우형이 횡설수설 하+ㄹ 때 어떤 표정을 짓어야 하+ㄹ지 모르겠다 .	ORG-B ORG-I O O O O PER-B PER-B O O O O O O O O O
-카드업계 1위 이+ㄴ 신한카드는 국내 카드사 최초로 미얀마 시장 진출을 앞두고 있다 .	O O O ORG-B O O O LOC-B O O O O O
-하지만 이용대는 11일 오후 다시 자신의 딸과 찍은 사진을 올리었다 .	O PER-B O O O O O O O O O
-○새정치 문재인-이종걸 ‘엇박자 소통’ 새정치연합 내에서 +ㄴ이번 협상 결과를 두고 “손해 보+ㄴ장사는 아니었다”는 평가가 나 오+ㄴ다 .	ORG-B PER-B O O ORG-B O O O O O O O O O O O O
+광주광역시 서구 가 3 년 째 진행 중 인 소원 성취 프로젝트 를 통해서 다 .	ORG-B ORG-I O O O O O O O O O O O O O O
+광주 서 구 는 23 일 " 올 크리스마스 를 기념해 지역 어린이 186 명 의 소원 을 들어주 기 로 했 다 " 고 밝 혔 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O DAT-B O O O O O O O O O O O O O O O O O O O O
+논란 이 커지 자 복지부 와 서울 서초구 보건소 는 시체 해부 법 위반 여부 조사 에 나섰 다 .	O O O O O O LOC-B LOC-I O O O O O O O O O O O O
+28 일 ( 현지 시간 ) 4 월 물 금값 은 0.50 % 하락한 온스 당 1255.60 달러 에 거래 를 마 쳤 다 .	DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O MNY-B MNY-I O O O O O O O
+정 의장 은 지역구 ( 부산 중 - 동 ) 가 선거구 조정 대상 에 거론되 자 불쾌한 반응 을 보 였 다는 후문 이 다 .	PER-B O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O
+이 위원장 은 이날 YTN 라디오 ‘ 신율 의 출발 새아침 ’ 에 출연해 안철수 공동 대표 등 국민 의당 지도부 가 영입 에 공 을 들이 고 있 는 정 전 의원 에 대해 과거 윤여준 전 공동 창당 준비 위원장 이 한 발언 을 빌려 이 같이 말 했 다 .	PER-B O O O O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O
+보수 성향 의 이 위원장 은 17 일 입당 회견 에서 고 김대중 전 대통령 의 햇볕 정책 을 두 고 “ 실패 했 다 ” 는 표현 을 썼 다 .	O O O PER-B O O DAT-B DAT-I O O O O PER-B O O O O O O O O O O O O O O O O O O O
+박정훈 의원 ( 오늘 의 의원 )	PER-B O O O O O O
+인피니트 H 로 활동하 면서 어려 운 점 을 묻 자 호야 는 " 동우 형 이 횡설수설할 때 어떤 표정 을 지 어야 할지 모르 겠 다 .	ORG-B ORG-I O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O
+카드 업계 1 위 인 신한카드 는 국내 카드 사 최초 로 미얀마 시장 진출 을 앞두 고 있 다 .	O O O O O ORG-B O O O O O O LOC-B O O O O O O O O
+하지만 이용대 는 11 일 오후 다시 자신 의 딸 과 찍 은 사진 을 올 렸 다 .	O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O
+○ 새정치 문재인 - 이종걸 ‘ 엇 박자 소통 ’ 새정치연합 내 에선 이번 협상 결과 를 두 고 “ 손해 본 장사 는 아니 었 다 ” 는 평가 가 나온다 .	O ORG-B PER-B O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O

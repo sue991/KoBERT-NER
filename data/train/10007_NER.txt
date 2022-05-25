@@ -1,16 +1,16 @@
-제작사 측 변호를 맡은 법무법인 세종의 임상혁 변호사는 “일방적 이+ㄴ 주장으로 흠집을 내려는 행위가 받아들이어 지+어서 +ㄴ 안 되+ㄴ다”며 “불순하+ㄴ의도를 가지+ㄴ 것으로 판단되면 추후 명예훼손 등 강력히 대응 하+ㄹ 것”이라고 말하였다 .	O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-항일투쟁운동을 소재로 하+ㄴ영화 ‘암살’은 지난달 22일 개봉하+여 이달 11일까지 932만9000여명의 관객을 동원하였다 .	O O O O O O O O O O O O O
-한편 최종림 씨는 1996년 만화가 허영만씨를 상대로 만화 ‘아스팔트 사나이’가 자신의 소설 ‘사하라 일기’의 저작권을 침해하고 만화 속 주인공이 허락 없이 자신의 과거 인터뷰를 토대로 만들어 지+어 인격권을 침해하였다며 손해배상 소송을 제기하+여2400만원을 배상받은 과거가 있다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B O O O O
-‘코리안 메모리즈 최종림’ 소식을 접하+ㄴ누리꾼들은 “코리안 메모리즈 최종림, 대박이다” .	O O PER-B O O O O PER-B O O
-맹부위원장은 “육로 방문이 불편하+ㄹ터+이니 항공기를 이용하라. 남쪽에서 준비가 어렵으면 우리가 항공기(고려항공)를 보내+어주+ㄹ 수도 있다”는 의사를 밝히었다고 하+ㄴ다 .	PER-B O O O O O O O O O ORG-B O O O O O O O
-주커피 관계자는 “주커피인테리어의 기본 콘셉트가 도심 속 동물원이지만 중국 매장은 현지 분위기와 조화를 이루도록 해 이곳 고객들에게 친근하게 다가가 +ㄹ 수 있도록 노력 하+ㄹ 것”이라면서 “카이펑 매장을 시작으로 각 지역별 특색 있는 매장을 늘리+ㄹ 계획”이라고 밝히었다 .	ORG-B O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
-주홀딩스 그룹(회장 김건우)의 커피 브랜드 주커피(http://www.zoocoffee. com)는 현재 상하이, 베이징, 광저우 등 중국 각 주요 도시는 물론 하얼빈, 내몽고 등의 지역에 매장을 오픈하고 고객 확보에 적극적으로 나서고 있다 .	ORG-B PER-I PER-B ORG-I O ORG-B O O LOC-B LOC-B LOC-B O ORG-B O ORG-B O O LOC-B LOC-B O O O O O O O O O O
-中, 춘제 앞두고 72조원 유동성 공 .	ORG-B O O MNY-B O O O
-미국 하버드대 미확인 폭파 위협 … 건물 내 학생·직원 긴급 대 .	ORG-B ORG-B O O O O O O O O O O
-“베네치아에 입구를 만들면 디즈니랜드처럼 되지 않겠나?”베네치아는 실속 없는 당일치기 관광객의 범람으로 몸살을 앓기 오래 전 시법으로 부동산 임대료의 상한선을 정하+ 여놓았었다 .	LOC-B O O ORG-B O LOC-B O O O O O O O O O O O O O O O O
-이 장면에서만큼은 원작 ‘햄릿’과 ‘함익’이 거울 앞에 마주서+ㄴ듯하다 .	O O O O O O O O O
-1.지난달 미국 펜실베이니아주 오크몬트 골프장에서 열리+ㄴ 세계 4대 메이저 골프대회 중 하나이+ㄴ ‘US 오픈’ 마지막 18번홀에서는 이례적 이+ㄴ 장면이 연출+되었다 .	O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O
-한국계 미국 코미디언이자 배우 이+ㄴ 마가렛조(여.46)가 유명 시상식에 북한 인민군 복장으로 등장하+여 참석자들의 폭발적 반응을 이끌어내 +었다 .	ORG-B ORG-B O O O PER-B O O ORG-B O O O O O O O O O
-11일 오후(현지시각) 미국 로스앤젤레스(LA) 비벌리힐즈 힐튼호텔에서 제72회 골든글로브시상식이 열리었다 .	O O LOC-B LOC-B LOC-B LOC-I O O O O
-현대건설은 서울 은평구 녹번 53번지(1-1구역)의 재개발 단지 이+ㄴ ‘힐스테이트 녹번’을 분양하+ㄴ다 .	ORG-B LOC-B LOC-B LOC-B LOC-I O O O O LOC-B O O
-부산서 주택화재부산의 한 주택에서 불이나 +아엄마와 딸이 숨지고 할머니는 중상을 입었다 .	LOC-B LOC-B O O O O O O O O O O
+제작사 측 변호 를 맡 은 법무 법인 세종 의 임상혁 변호사 는 “ 일방적 인 주장 으로 흠집 을 내 려는 행위 가 받아들 여 져선 안 된다 ” 며 “ 불순한 의도 를 가진 것 으로 판단되 면 추후 명예 훼손 등 강력히 대응할 것 ” 이라고 말 했 다 .	O O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+항일 투쟁 운동 을 소재 로 한 영화 ‘ 암살 ’ 은 지난달 22 일 개봉해 이달 11 일 까지 932 만 9000 여 명 의 관객 을 동원 했 다 .	O O O O O O O O O O O O O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O
+한편 최종림 씨 는 1996 년 만화가 허영만 씨 를 상대 로 만화 ‘ 아스팔트 사나이 ’ 가 자신 의 소설 ‘ 사하라 일기 ’ 의 저작권 을 침해하 고 만화 속 주인공 이 허락 없이 자신 의 과거 인터뷰 를 토대 로 만들 어 져 인격권 을 침해 했 다며 손해 배상 소송 을 제기해 2400 만 원 을 배상 받 은 과거 가 있 다 .	O PER-B O O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+‘ 코리안 메모리즈 최종림 ’ 소식 을 접한 누리 꾼 들 은 “ 코리안 메모리즈 최종림 , 대박 이 다 ” ,	O O O PER-B O O O O O O O O O O O PER-B O O O O O O
+맹 부위원장 은 “ 육로 방문 이 불편할 테 니 항공기 를 이용하 라 . 남쪽 에서 준비 가 어려 우면 우리 가 항공기 ( 고려항공 ) 를 보내 줄 수 도 있 다 ” 는 의사 를 밝 혔 다고 한다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+주 커피 관계자 는 “ 주 커피 인테리어 의 기본 콘셉트 가 도심 속 동물원 이 지만 중국 매장 은 현지 분위기 와 조화 를 이루 도록 해 이곳 고객 들 에게 친근하 게 다가갈 수 있 도록 노력할 것 ” 이 라면서 “ 카이펑 매장 을 시작 으로 각 지역 별 특색 있 는 매장 을 늘릴 계획 ” 이라고 밝 혔 다 .	ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+주 홀딩스 그룹 ( 회장 김건우 ) 의 커피 브랜드 주 커피 ( http : / / www . zoocoffee . com ) 는 현재 상하이 , 베이징 , 광저우 등 중국 각 주요 도시 는 물론 하얼빈 , 내몽고 등 의 지역 에 매장 을 오픈 하 고 고객 확보 에 적극적 으로 나서 고 있 다 .	PER-B PER-I PER-I O O PER-B O O O O ORG-B ORG-I O O O O O O O O O O O O O LOC-B O LOC-B O LOC-B O ORG-B O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O
+中 , 춘제 앞두 고 72 조 원 유동성 공급	ORG-B O O O O MNY-B MNY-I MNY-I O O
+미국 하버드대 미확인 폭파 위협 … 건물 내 학생 · 직원 긴급 대피	ORG-B ORG-B O O O O O O O O O O O
+“ 베네치아 에 입구 를 만들 면 디즈니랜드 처럼 되 지 않 겠 나 ? ” 베네치아 는 실속 없 는 당일치기 관광객 의 범람 으로 몸살 을 앓 기 오래 전 시법 으로 부동산 임대료 의 상한선 을 정해 놓 았었 다 .	O LOC-B O O O O O ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 장면 에서 만큼 은 원작 ‘ 햄릿 ’ 과 ‘ 함 익 ’ 이 거울 앞 에 마주 선 듯하 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+# 1 . 지난달 미국 펜실베이니아 주 오크 몬트 골프장 에서 열린 세계 4 대 메이저 골프 대회 중 하나 인 ‘ US 오픈 ’ 마지막 18 번 홀 에서 는 이례적 인 장면 이 연출 됐 다 .	O O O O LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 계 미국 코미디언 이 자 배우 인 마가렛 조 ( 여 . 46 ) 가 유명 시상식 에 북한 인민군 복장 으로 등장해 참석자 들 의 폭발적 반응 을 이끌 어 냈 다 .	ORG-B O ORG-B O O O O O PER-B PER-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+11 일 오후 ( 현지 시각 ) 미국 로스앤젤레스 ( LA ) 비벌리 힐즈 힐튼 호텔 에서 제 72 회 골든글로브 시상식 이 열 렸 다 .	DAT-B DAT-I O O O O O LOC-B LOC-I O LOC-B O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O
+현대건설 은 서울 은평구 녹번 53 번지 ( 1 - 1 구역 ) 의 재개발 단지 인 ‘ 힐스테이트 녹번 ’ 을 분양한다 .	ORG-B O LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O
+부산 서 주택 화재 부산 의 한 주택 에서 불 이 나 엄마 와 딸 이 숨지 고 할머니 는 중상 을 입 었 다 .	LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O

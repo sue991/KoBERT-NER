@@ -1,18 +1,18 @@
-우즈벡전을 앞두 +ㄴ 시험 무대 이+ㄴ 11일 캐나다와의 평가전(천안)에서 치열하+ㄴ 내부 경쟁을 뚫어야 하+ㄴ다 .	O O O O O O O ORG-B LOC-B O O O O O O
-이번 계획은 삼성이 매년 실시하던 연간 9000명의 신입사원 채용과는 별개로 진행되+ㄴ다 .	O O ORG-B O O O O O O O O O
-“태영호 망명은 북한의 영국 해군 매수 시도 때문 .	PER-B O ORG-B ORG-B O O O O O
-스완지시티, 2-1 꺾고 6경기만에 승리스 완지시티 기성용(26)이 풀타임 활약을 펼치며 팀의 역전승에 기여하였다 .	ORG-B O O O O O PER-B O O O O O O O
-2분기(4∼6월)에 ‘깜짝 실적(어닝 서프라이즈)’을 내놓자 주가는 상승세를 타기 시작하였다 .	O O O O O O O O O O
-가장 크+ㄴ 특징은 추천종목이 목표수익률을 달성하지 못하였을 경우 결제하+ㄴ 포인트를 100% 자동 반환 하+어주다는 것이고, 비용적이+ㄴ 측면에서도 일반 증권 리딩 서비스가 50만원에서 90만원 정도의 경제적 비용이 발생하는 반면에 스탁포인트는 2만원으로도 서비스 이용이 가능하다는 장점이 있다 .	O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-B O O O O O O MNY-B O O O O O O
-딸에게서 B씨의 행위를 듣은 A씨는 2일 오전 9시께 B씨에게 전화로 항의 하+ㄴ 뒤 이날 오후 4시께 다시 전화를 걸어 만나자고 요구하였다. 그 뒤 A씨는 자신의 집에서 흉기를 준비 하+ㄴ 뒤 카페에 B씨가 도착하자 흉기를 휘두르 어 그의 어깨와 목 등을 4차례 찌르었다. B씨를 찌르+ㄴ 뒤 A씨는 달아나 +았 .	O PER-B O O PER-B O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O PER-B O O PER-B O O O
-래퍼씨잼이 ‘쇼미더머니5’ 2차 예선을 통과하였다.20일 오후에 방송되+ㄴ엠넷 ‘쇼미더머니5’에서는 81명의 2차 예선이 공개되었다. 이날 참가자들은 씨잼의 ‘쇼미더머니5’ 참가에 견제하는 모습을 보이었다.이에 사이먼디는 씨잼에 “씨잼의 출연에 참가자들이 불만이 많다”고 말하였다 .	PER-B O O O O O ORG-B O O O O O O O PER-B O O O O O PER-B PER-B PER-B O O O O O O
-청년배당 등 3대 무상복지 비판…이재명 성남시장 “공개토론하자 .	O O O O PER-B O O O
-물론 한국 애니메이션도 있다 .	O LOC-B O O O
-아침부터 단장하고 연락을 기다리었다. 프랑스 정부는 구웨이쥔에게 차량과 기사를 제공하였다 .	O O O O ORG-B ORG-I PER-B O O O O
-26일까지 50경기에 나서+어타율 0.299, 11홈런, 26타점을 올리었다 .	O O O O O O O O
-갤럭시S7 체험행사, "물속에서 셀카를 찍는다고? .	O O O O O O
-“카리스마 vs 청순비주얼”…산다라박, 반전 여권 사 .	O O PER-B O O O O
-분양면적은 35.17∼76.84m ²다 .	O O O O
-모바일 내비게이션이 +ㄴ T맵 서비스가 대표적이다. SK텔레콤은 지난해 7월부터 가장 많은 국민이 사용하는 T맵을 무료로 제공하고 있다 .	O O O O O O ORG-B O O O O O O O O O O O
-임창용 검찰 소환.임창용, 검찰 소환… 해외 원정도박 혐의 일부 시인 국외 원정도박 혐의를 받고 있는 프로야구 삼성 라이온즈의 투수 임창용이 피의자 신분으로 검찰 조사를 받았다. 서울중앙지검 강력부(심재철 부장검사)는 25일 임창용을 전날 소환조사하였다고 밝히었다 .	PER-B O PER-B O O O O O O O O O O O O O ORG-B ORG-I O PER-B O O O O O ORG-B PER-B O O PER-B O O O O
-2010년 이후 경유차에 많이 장착되 +ㄴ다 .	O O O O O O O
+우즈벡 전 을 앞둔 시험 무대 인 11 일 캐나다 와 의 평가전 ( 천안 ) 에서 치열한 내부 경쟁 을 뚫 어야 한다 .	O O O O O O O DAT-B DAT-I ORG-B O O O O LOC-B O O O O O O O O O O
+이번 계획 은 삼성 이 매년 실시하 던 연간 9000 명 의 신입 사원 채용 과 는 별개 로 진행된다 .	O O O ORG-B O O O O O O O O O O O O O O O O O
+“ 태영호 망명 은 북한 의 영국 해군 매수 시도 때문 ”	O PER-B O O ORG-B O ORG-B O O O O O
+스완지시티 , 2 - 1 꺾 고 6 경기 만 에 승리 스완지시티 기성용 ( 26 ) 이 풀타임 활약 을 펼치 며 팀 의 역전승 에 기여 했 다 .	ORG-B O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O
+2 분기 ( 4 ∼ 6 월 ) 에 ‘ 깜짝 실적 ( 어닝 서프라이즈 ) ’ 을 내놓 자 주가 는 상승세 를 타 기 시작 했 다 .	O O O DAT-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+가장 큰 특징 은 추천 종목 이 목표 수익률 을 달성하 지 못 했 을 경우 결제한 포인트 를 100 % 자동 반환해 준 다는 것 이 고 , 비용 적 인 측면 에서 도 일반 증권 리딩 서비스 가 50 만 원 에서 90 만 원 정도 의 경제적 비용 이 발생하 는 반면 에 스탁 포인트 는 2 만 원 으로 도 서비스 이용 이 가능하 다는 장점 이 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+딸 에게서 B 씨 의 행위 를 들 은 A 씨 는 2 일 오전 9 시 께 B 씨 에게 전화 로 항의한 뒤 이날 오후 4 시 께 다시 전화 를 걸 어 만나 자고 요구 했 다 . 그 뒤 A 씨 는 자신 의 집 에서 흉기 를 준비한 뒤 카페 에 B 씨 가 도착하 자 흉기 를 휘둘 러 그 의 어깨 와 목 등 을 4 차례 찔 렀 다 . B 씨 를 찌른 뒤 A 씨 는 달아났 다	O O PER-B O O O O O O PER-B O O DAT-B DAT-I TIM-B TIM-I TIM-I O PER-B O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O
+래퍼 씨 잼 이 ‘ 쇼 미 더머 니 5 ’ 2 차 예선 을 통과 했 다 . 20 일 오후 에 방송된 엠넷 ‘ 쇼 미 더머 니 5 ’ 에서 는 81 명 의 2 차 예선 이 공개 됐 다 . 이날 참가자 들 은 씨 잼 의 ‘ 쇼 미 더머 니 5 ’ 참가 에 견제하 는 모습 을 보 였 다 . 이 에 사이먼 디 는 씨 잼 에 “ 씨 잼 의 출연 에 참가자 들 이 불만 이 많 다 ” 고 말 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O PER-B PER-I O PER-B PER-I O O PER-B PER-I O O O O O O O O O O O O O O O O
+청년 배당 등 3 대 무상 복지 비판 … 이재명 성남 시장 “ 공개 토론 하자 ”	O O O O O O O O O PER-B O O O O O O O
+물론 한국 애니메이션 도 있 다 .	O LOC-B O O O O O
+아침 부터 단장하 고 연락 을 기다 렸 다 . 프랑스 정부 는 구웨이쥔 에게 차량 과 기사 를 제공 했 다 .	O O O O O O O O O O ORG-B ORG-I O PER-B O O O O O O O O O
+26 일 까지 50 경기 에 나서 타율 0.299 , 11 홈런 , 26 타점 을 올 렸 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+갤럭시 S 7 체험 행사 , " 물 속 에서 셀카 를 찍 는다고 ? "	O O O O O O O O O O O O O O O O
+“ 카리스마 vs 청순 비주얼 ” … 산 다라 박 , 반전 여권 사진	O O O O O O O PER-B PER-I PER-I O O O O
+분양 면적 은 35.17 ∼ 76.84 m ² 다 .	O O O O O O O O O O
+모바일 내비게이션 인 T 맵 서비스 가 대표적 이 다 . SK 텔레콤 은 지난해 7 월 부터 가장 많 은 국민 이 사용하 는 T 맵 을 무료 로 제공하 고 있 다 .	O O O O O O O O O O O ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+임창용 검찰 소환 . 임창용 , 검찰 소환 … 해외 원정 도박 혐의 일부 시인 국외 원정 도박 혐의 를 받 고 있 는 프로 야구 삼성 라이온즈 의 투수 임창용 이 피의자 신분 으로 검찰 조사 를 받 았 다 . 서울중앙지검 강력부 ( 심재철 부장 검사 ) 는 25 일 임창용 을 전날 소환 조사 했 다고 밝 혔 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O ORG-B O O PER-B O O O O DAT-B DAT-I PER-B O O O O O O O O O O
+2010 년 이후 경유 차 에 많이 장착된다 .	DAT-B DAT-I O O O O O O O

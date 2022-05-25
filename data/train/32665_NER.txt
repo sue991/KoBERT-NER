@@ -1,12 +1,12 @@
-이밖에 신라면세점, 갤러리아면세점 63, 두타면세점, 이랜드 등도 참여 여부를 저울질하고 있는 것으로 알려지었다 .	O ORG-B ORG-B ORG-I ORG-B ORG-B O O O O O O O O
-차량 안에서는 반병가량의 먹 .	O O O O O
-연제구는 조만간 당으로 복귀 하+여 총선을 준비 하+ㄹ 김희정 여성가족부 장관의 지역구이고, 수영구는 같은 당 유재중 의원의 지역구다 .	LOC-B O O O O O O O PER-B O O O LOC-B O O PER-B O O O
-이소라는 1992년 11월 SBS가 주최 하+ㄴ 제1회 슈퍼모델 선발대회에서 우승을 차지하며 데뷔하였다 .	PER-B O O ORG-B O O O O O O O O O
-또한, 미단시티 내 최대 개발사업이 +ㄴ LOCZ 복합리조트 개발사업의 수혜도 기대되+ㄴ다 .	O LOC-B O O O O O O O O O O
-11.3 대책 피하+ㄴ ‘고덕국제신도시 제일풍경채 센트럴’ 눈 .	O O O LOC-B LOC-I O O O
-네네치킨 사과, 故 노무현재단 찾아… “책임지겠다 .	ORG-B O O PER-B O O O
-민병원 대사 내분비센터는 당뇨병(2형)을 수술로 치료 하+ㄴ다 .	ORG-B ORG-I ORG-I O O O O O
-MLB에서 영구 추방은 1989년 승부조작 파문을 일으키+ㄴ피트로즈(전신 시내티)이후메히아가 처음이다 .	ORG-B O O O O O PER-B PER-B O O
-한 대형마트 관계자는 “병아리 입식 중단이 지속되 +ㄴ다면 수급에 문제가 생기+ㄹ 수 있겠지만 닭은 계란에 비하+여수입이 쉽어 수급 자체에는 크+ㄴ문제가 없을 것으로 보+ㄴ다”고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-김 교수는 “일반 안경 전문점에서 하는 시력검사만으로는 가성근시와 같은 눈 기능 이상을 잡아내기 어렵어 정밀 측정을 하+여주고 있다”며 “조만간 단양의 여덟 살 여학생을 가톨릭의대로 초청 하+ 여사 시 치료수술을 지원 하+ㄹ 예정”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O LOC-B O O O ORG-B O O O O O O O O O O
-대구를 튀기 +ㄴ 단순 하+ㄴ 요리로 원래 노동자들을 위하 +ㄴ 음식이었지만 이제는 관광객들이 한 번쯤 먹어야 하+ㄹ 음식으로 변모하였다 .	O O O O O O O O O O O O O O O O O O O O
+이 밖 에 신라 면세점 , 갤러리아 면세점 63 , 두타 면세점 , 이랜드 등 도 참여 여부 를 저울질하 고 있 는 것 으로 알려 졌 다 .	O O O ORG-B ORG-I O ORG-B ORG-I ORG-I O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O
+차량 안 에서 는 반병 가량 의 먹 다	O O O O O O O O O
+연제구 는 조만간 당 으로 복귀해 총선 을 준비할 김희정 여성 가족 부 장관 의 지역구 이 고 , 수영구 는 같 은 당 유재중 의원 의 지역구 다 .	LOC-B O O O O O O O O PER-B O O O O O O O O O LOC-B O O O O PER-B O O O O O
+이소라 는 1992 년 11 월 SBS 가 주최한 제 1 회 슈퍼 모델 선발 대회 에서 우승 을 차지하 며 데뷔 했 다 .	PER-B O DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O O O O O O O O O O O O O O
+또한 , 미단 시티 내 최대 개발 사업 인 LOCZ 복합 리조트 개발 사업 의 수혜 도 기대된다 .	O O LOC-B LOC-I O O O O O O O O O O O O O O O
+11.3 대책 피한 ‘ 고덕 국제 신도시 제 일 풍경 채 센트럴 ’ 눈길	O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O
+네네 치킨 사과 , 故 노무현 재단 찾 아 … “ 책임 지 겠 다 ”	ORG-B ORG-I O O O PER-B O O O O O O O O O O
+민병원 대사 내분비 센터 는 당뇨병 ( 2 형 ) 을 수술 로 치료한다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O
+MLB 에서 영구 추방 은 1989 년 승부 조작 파문 을 일으킨 피트 로즈 ( 전 신시내티 ) 이후 메히아 가 처음 이 다 .	ORG-B O O O O DAT-B DAT-I O O O O O PER-B PER-I O O ORG-B O O PER-B O O O O O
+한 대형 마트 관계자 는 “ 병아리 입식 중단 이 지속된다면 수급 에 문제 가 생길 수 있 겠 지만 닭 은 계란 에 비해 수입 이 쉬 워 수급 자체 에 는 큰 문제 가 없 을 것 으로 본다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 교수 는 “ 일반 안경 전문점 에서 하 는 시력 검사 만 으로 는 가성 근시 와 같 은 눈 기능 이상 을 잡아내 기 어려 워 정밀 측정 을 해 주 고 있 다 ” 며 “ 조만간 단양 의 여덟 살 여학생 을 가톨릭의대 로 초청해 사시 치료 수술 을 지원할 예정 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O ORG-B O O O O O O O O O O O O O O
+대구 를 튀긴 단순한 요리 로 원래 노동자 들 을 위한 음식 이 었 지만 이제 는 관광객 들 이 한 번 쯤 먹 어야 할 음식 으로 변모 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

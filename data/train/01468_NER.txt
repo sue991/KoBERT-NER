@@ -1,17 +1,17 @@
-구글 검색어 역시 올해 국내 뉴스/사회 검색에서 지진이 1위를 차지하였다. 태양의 후예vs 구르미 그리+ㄴ달빛 올해 방송 관련 검색어에서는 올해 초 방영하+ㄴ KBS 드라마 태양의 후예와 올해 하반기 방영 하+ㄴ KBS 드라마 구르미 그리+ㄴ달빛이 상위권에 오르았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O
-중국이 4차 산업혁명의 핵심 분야 이+ㄴ 전기자동차 시장을 선점하면서 한국을 압도하고 있다 .	ORG-B O O O O O O O O ORG-B O O O
-상승하였다. 하반기 지방 분양시장에 물량을 선보이는 건설사는 8개사로 현대엔지니어링, 대우건설, 포스코건설, GS건설, 대림산업, 롯데건설, SK건설, 현대산업개발 등이다 .	O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O
-경북SW융합사업단이 주관하고 구미전자정보기술원 대구대 등이 참여하+ㄴ다 .	ORG-B O ORG-B ORG-I O O O
-북한이 여러 발의 미사일을 동시다발적으로 한국과 일본을 향하+여발사하고, 일부 미사일에 핵탄두를 탑재하+ㄴ다면 일본의 미사일 방어시스템으로도 완전히 막기 어렵ㄹ 수 있다 .	ORG-B O O O O ORG-B ORG-B O O O O O ORG-B O O O O O O O O
-‘나+의 딸 금사월’ 유재석 1인 3역 카메오 예고, 단발머리++콧수염 ++빵 모자 화가 변신…정극도전? 국민MC 유재석이 MBC 주말 드라마 ‘나+의 딸 금사월’에 깜짝 출연하+ㄴ다 .	O O O PER-B O O O O O O O O O O PER-B ORG-B O O O O O O O O
-고대 그리스가 동성애의 천국이었을지 모르지만 현대 그리스는 동성애를 죄악시, 금기시하기 때문이다 .	O LOC-B O O O O LOC-B O O O O O
-아직 시즌 초반이기+ㄴ하지만 최근 5시즌과 비교하+여보+아도 가장 낮다 .	O O O O O O O O O
-결국 한병철 교수가 보기에 타자는 사르트르가 얘기하듯 ‘지옥’이 아니라 ‘구원’이다 .	O PER-B O O O PER-B O O O O O
-당초 트럼프 찬반 지지자들의 충돌과 트럼프 반대 대의원들의 반란 등으로 혼란을 겪으리라던 트럼프 대관식이 예상과 달리 지지율 상승으로 이어지며 민주당과 힐러리 클린턴 진영은 긴장하고 있다. 공화당 전당대회 기간(7월 18∼21일)과 이후 조사가 시작되+어지나 +ㄴ 24일 끝나 +ㄴ 네 기관의 여론조사 중 세 기관의 조사에서 트럼프가 클린턴을 앞서 +었다 .	O PER-B O O O PER-B O O O O O O PER-B O O O O O O ORG-B PER-B PER-B O O O ORG-B O O O O O O O O O O O O O O O O O PER-B PER-B O O O
-친구에게 이런 짓을 +였다면 나는 그들이 초등 3학년이라도 ‘작은 악마’로 부르+ㄹ 수밖에 없다 .	O O O O O O O O O O O O O O
-특히 KB금융은 지주와 계열사 간 겸직과 파견제도를 활성화 하+여협업을 장려하고 인력 운영의 효율성을 높이 +ㄹ 계획이다 .	O ORG-B O O O O O O O O O O O O O O O
-동아일보-채널A의 교통안전 캠페인 ‘교통사고 사망자 2000명 줄이자’가 교통안전 문화 개선에 기여하+ㄴ 공로를 인정받아 ‘2016 선진교통안전대상’ 특별상을 수상하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-전체적으로 대구지역 경찰관이 젊다는 의미+이다 .	O LOC-B O O O O
-안철수, 대통령 되면 첫 대북 메시지 “정은아 핵을 버리+어라… .	PER-B O O O O O O O O O
-미국은 상장사 시총이 25조535억8100만달러로 GDP 대비 시총비중은 143.9%+이었다 .	ORG-B O O MNY-B O O O O O
-메르스 환자 2명 추가, 15명으로 늘어나 +아… “3차 감염자 없다 .	O O O O O O O O O O O
+구글 검색어 역시 올해 국내 뉴스 / 사회 검색 에서 지진 이 1 위 를 차지 했 다 . 태양 의 후예 vs 구르 미 그린 달빛 올해 방송 관련 검색어 에서 는 올해 초 방영한 KBS 드라마 태양 의 후예 와 올해 하반기 방영한 KBS 드라마 구르 미 그린 달빛 이 상위권 에 올 랐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O
+중국 이 4 차 산업 혁명 의 핵심 분야 인 전기 자동차 시장 을 선점하 면서 한국 을 압도하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O
+상승 했 다 . 하반기 지방 분양 시장 에 물량 을 선보이 는 건설 사 는 8 개 사 로 현대 엔지니어링 , 대우건설 , 포스코건설 , GS 건설 , 대림산업 , 롯데건설 , SK 건설 , 현대산업개발 등 이 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O ORG-B O ORG-B ORG-I O ORG-B O ORG-B O ORG-B ORG-I O ORG-B O O O O
+경북 SW 융합 사업단 이 주관하 고 구미 전자 정보 기술 원 대구대 등 이 참여한다 .	ORG-B ORG-I ORG-I ORG-I O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O
+북한 이 여러 발 의 미사일 을 동시 다발 적 으로 한국 과 일본 을 향해 발사하 고 , 일부 미사일 에 핵탄두 를 탑재한다면 일본 의 미사일 방어 시스템 으로 도 완전히 막 기 어려 울 수 있 다 .	ORG-B O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+‘ 내 딸 금 사월 ’ 유재석 1 인 3 역 카메오 예고 , 단발머리+ 콧수염+ 빵모자 화 가 변신 … 정극 도전 ? 국민 MC 유재석 이 MBC 주말 드라마 ‘ 내 딸 금 사월 ’ 에 깜짝 출연한다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O
+고대 그리스 가 동성애 의 천국 이 었 을지 모르 지만 현대 그리스 는 동성애 를 죄악시 , 금기 시 하 기 때문 이 다 .	O LOC-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+아직 시즌 초반 이 긴 하 지만 최근 5 시즌 과 비교해 봐도 가장 낮 다 .	O O O O O O O O O O O O O O O O O
+결국 한병철 교수 가 보 기 에 타 자는 사르트르 가 얘기하 듯 ‘ 지옥 ’ 이 아니 라 ‘ 구원 ’ 이 다 .	O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O
+당초 트럼프 찬반 지지자 들 의 충돌 과 트럼프 반대 대의원 들 의 반란 등 으로 혼란 을 겪 으리라던 트럼프 대관식 이 예상 과 달리 지지율 상승 으로 이어지 며 민주당 과 힐러리 클린턴 진영 은 긴장하 고 있 다 . 공화당 전당 대회 기간 ( 7 월 18 ∼ 21 일 ) 과 이후 조사 가 시작돼 지난 24 일 끝난 네 기관 의 여론 조사 중 세 기관 의 조사 에서 트럼프 가 클린턴 을 앞섰 다 .	O PER-B O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O ORG-B O PER-B PER-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O PER-B O PER-B O O O O
+친구 에게 이런 짓 을 했 다면 나 는 그 들 이 초등 3 학년 이라도 ‘ 작 은 악마 ’ 로 부를 수 밖에 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 KB 금융 은 지주 와 계열사 간 겸직 과 파견 제도 를 활성화해 협업 을 장려하 고 인력 운영 의 효율 성 을 높일 계획 이 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+동아일보 - 채널 A 의 교통안전 캠페인 ‘ 교통사고 사망자 2000 명 줄이 자 ’ 가 교통안전 문화 개선 에 기여한 공로 를 인정받 아 ‘ 2016 선진 교통 안전 대상 ’ 특별상 을 수상 했 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O DAT-B O O O O O O O O O O O
+전체적 으로 대구 지역 경찰관 이 젊 다는 의미 다 .	O O LOC-B O O O O O O O O
+안철수 , 대통령 되 면 첫 대북 메시지 “ 정은아 핵 을 버려라 … ”	PER-B O O O O O O O O O O O O O O
+미국 은 상장 사 시총 이 25 조 535 억 8100 만 달러 로 GDP 대비 시총 비중 은 143.9 % 였 다 .	ORG-B O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O
+메르스 환자 2 명 추가 , 15 명 으로 늘어나 … “ 3 차 감염자 없 다 ”	O O O O O O O O O O O O O O O O O O

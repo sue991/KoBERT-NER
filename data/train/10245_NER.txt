@@ -1,13 +1,13 @@
-이 고래는 당일 인천수협 소래공판장에서 900만원에 낙찰되었다 .	O O O ORG-B LOC-B MNY-B O O
-대표팀은 8일 오후 4시 대전 월드컵경기장에서 러시아와 한 차례 더 평가전을 펼치+ㄴ다 .	O O O O O O ORG-B O O O O O O
-강 하+ㄴ 정신력으로 무장하+ㄴ그는 10일 열리+ㄴ대회 여자 500m에서 은메달을 획득하였다 .	O O O O O O O O O O O
-‘능력자들’ 서유리, “빵 사+아먹은 이유?○○ ○ 모으려고 … 취향이 고급” 大폭소 ‘능력자들’ 서유리가 스티커를 모으기 위하+여빵을 먹었다고 밝히었다 .	O PER-B O O O O O O O O O O PER-B O O O O O O
-29일 오후 방송되+ㄴ MBC ‘능력자들’에서는 덕후들의 열두 번째 정기 모임이 펼쳐지었다 .	O O O O O O O O O O O O
-이후 그는 싱글’콜미나우(CallMeNow)‘, 다수의 드라마 및 영화 OST, 뮤지션 곰 PD와의 컬하버 레이션 등의 활동을 쉬+ㄹ 틈 없이 펼치+어+오았으며, 이번 ’윤종신의 잠금 해제‘를 통하+여 좀 더 많은 대중에게 얼굴을 알리게 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-”(독자 이현재) 화교들이 많이 살아 맛있는 중식당이 많은 연희·연남동에서도 손에 꼽히는 맛집이다 .	O PER-B O O O O O O LOC-B O O O O
-상반기 데뷔가 예고되었던 SM엔터테인먼트의 신인 남성그룹 NCT가 베일을 벗는다 .	O O O ORG-B O O ORG-B O O O
-멤버 구성이 다른 2팀의 ‘NCTU’가 각각 9일과 10일 각종 음악 사이트에서 싱글을 발표하고 동시 활동에 나서 +ㄴ다 .	O O O O ORG-B O O O O O O O O O O O O O
-[오늘의 스타/8월 22일] 조인성 연타석투런, 한화 7연패 끊었 .	O O O PER-B O ORG-B O O O
-현대적으로 해석되 +ㄴ청자와 전통 도자기를 동시에 감상하+ㄹ 수 있기에, 고려청자박물관에서 경험하였던 1천년의 미감 못지않게 흥미롭 ㄹ 것이다 .	O O O O O O O O O ORG-B O O O O O O O O
-푸틴-에르도안 ‘밀월’ …러∼터키가스관합 .	PER-B O ORG-B O
-과거에도 늘 1000을 넘었 .	O O O O O
+이 고래 는 당일 인천 수협 소래 공판장 에서 900 만 원 에 낙찰 됐 다 .	O O O O ORG-B ORG-I LOC-B O O MNY-B MNY-I MNY-I O O O O O
+대표 팀 은 8 일 오후 4 시 대전월드컵경기장 에서 러시아 와 한 차례 더 평가전 을 펼친다 .	O O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B O ORG-B O O O O O O O O
+강한 정신력 으로 무장한 그 는 10 일 열린 대회 여자 500 m 에서 은메달 을 획득 했 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+‘ 능력자 들 ’ 서유리 , “ 빵 사 먹 은 이유 ? ○ ○ ○ 모으 려고 … 취향 이 고급 ” 大 폭소 ‘ 능력자 들 ’ 서유리 가 스티커 를 모으 기 위해 빵 을 먹 었 다고 밝 혔 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+29 일 오후 방송된 MBC ‘ 능력자 들 ’ 에서 는 덕후 들 의 열 두 번째 정기 모임 이 펼쳐 졌 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+이후 그 는 싱글 ’ 콜 미 나우 ( Call Me Now ) ‘ , 다수 의 드라마 및 영화 OST , 뮤지션 곰 PD 와 의 컬래 버 레이션 등 의 활동 을 쉴 틈 없이 펼쳐 왔 으며 , 이번 ’ 윤종신 의 잠 금 해제 ‘ 를 통해 좀 더 많 은 대중 에게 얼굴 을 알리 게 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+” ( 독자 이현재 ) 화교 들 이 많이 살 아 맛있 는 중 식당 이 많 은 연희 · 연남동 에서 도 손 에 꼽히 는 맛집 이 다 .	O O O PER-B O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O
+상반기 데뷔 가 예고 됐 던 SM 엔터테인먼트 의 신인 남성 그룹 NCT 가 베일 을 벗 는다 .	O O O O O O ORG-B ORG-I O O O O ORG-B O O O O O O
+멤버 구성 이 다른 2 팀 의 ‘ NCT U ’ 가 각각 9 일 과 10 일 각종 음악 사이트 에서 싱글 을 발표하 고 동시 활동 에 나선다 .	O O O O O O O O ORG-B ORG-I O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O
+[ 오늘 의 스타 / 8 월 22 일 ] 조인성 연 타석 투런 , 한화 7 연패 끊 었 다	O O O O O DAT-B DAT-I DAT-I DAT-I O PER-B O O O O ORG-B O O O O O
+현대적 으로 해석된 청자 와 전통 도자기 를 동시 에 감상할 수 있 기에 , 고려청자 박물관 에서 경험 했 던 1 천 년 의 미감 못지않 게 흥미로 울 것 이 다 .	O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+푸틴 - 에르도안 ‘ 밀월 ’ … 러 ∼ 터키 가스관 합의	PER-B O PER-B O O O O ORG-B O ORG-B O O
+과거 에 도 늘 1000 을 넘 었 다	O O O O O O O O O

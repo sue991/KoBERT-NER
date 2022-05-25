@@ -1,15 +1,15 @@
-이주노씨는 2013년 12월에서 2014년 1월 사이 2명에게 총 1억6500만원을 빌리고 갚지 않은 것으로 드러나 +았다 .	PER-B MNY-B MNY-B MNY-B MNY-B O O O MNY-B O O O O O O O
-그는 돌잔치 전문업체를 차리+ㄹ 계획이었으나 필요하+ㄴ자금 10억원 중 수중에 1억원밖에 없어 두 사람에게 돈을 빌리었다 .	O O O O O O MNY-B O O MNY-B O O O O O O
-실업 3개팀과 대학 5개 팀이 출전하+여 모두 56번의 경기를 치르게 되+ㄹ이번리그에서 현재 선두는 한라위니아. 그 뒤를 동원드림스, 고려대, 연세대 등이 추격을 하고 있다 .	O O O O O O O O O O O O O ORG-B O O ORG-B ORG-B ORG-B O O O O O
-이어 맹기용은 “어머니는 카이스트 첫 번째 여자 박사 학위 취득자다 .	O PER-B O ORG-B O O O O O O O
-중고차 시장에서 보통 명절 전 대형 세단 구매 수요가 몰리다 명절이 지나면 매도세가 다소 강하+여지기 때문. 명절을 전후로 대형 세단의 거래가 활발하+여지는 것은 아마도 고향에 ‘멋지고크+ㄴ차’를 타고 돌아가고 싶은 소망 때문이 아니+ㄹ지. SK엔카가 1∼19일 국내 최대 자동차 오픈마켓이 +ㄴ ‘SK엔카닷컴’ 홈페이지에 등록되+ㄴ 중고차 등록 매물을 집계하+ㄴ 결과 대형 세단에 속하는 현대자동차 그랜저TG가 새롭게 10위 안에 진입하고 현대차 제네시스 가지 난달에 비하+ 여두 단계 상승한 8위를 기록하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O
-이것은 서울 정도 크기의 작은 중계무역항을 세계에서 손꼽히는 도시국가로 탈바꿈시키+ㄴ 원동력이었다 .	O LOC-B O O O O O O O O O O
-김 부장판사는 “1심에서는 증인 진술 자체만으로 유죄를 인정하였다”며 “재판부가 직접 듣으면 진술의 신빙성을 명확하게 알+ㄹ 수 있지 않나 생각 하+ㄴ다”고 설명하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-그때 건물 위에서 여성을 구하기 위하+여소방관 한 명이 줄을 타고 조심스레 접근하기 시작하+ㄴ다 .	O O O O O O O O O O O O O O
-선납할인제도를 이용하면 약 17% 할인되 +ㄴ 가격에 이용하+ㄹ 수 있다 .	O O O O O O O O O O O
-지난해 7월 이후 올 4월 말까지 총 25조8000억원의 기술금융 대출이 이루어지는 등 기술금융이 빠르게 확대되었지만 시장에서는 기술금융에 대하+ㄴ 우려도 적지 않았다 .	O O O O O O O MNY-B O O O O O O O O O O O O O O
-990만원짜리 카오디오, 360만원짜리 독일제 자전거, 자녀가 타+ㄹ 외제차와 골프 레슨비….한국전력과 한전자회사 이+ㄴ한전KDN 임직원 등이 납품비리와 관련 하+여 업체로부터 받은 뇌물목록 중 일부 +이다 .	MNY-B O MNY-B O O O O O O ORG-B ORG-B ORG-B MNY-I O O O O O O O O O O O
-주최 측은 광화문광장에서 1시간가량 촛불집회를 열 +ㄴ 뒤 오후 5시부터 약 2만명씩 두 그룹으로 나누+어 행진 하+ㄹ 예정이다 .	O O LOC-B TIM-I O O O O O O O O O O O O O O O
-북한은 1953년 정전협정 이후 버마아웅산 테러, 민간항공기 격추 사건을 비롯하+여천안함 폭침, 연평도 포격 포격 등 지속적 이+ㄴ도발 행위를 자행 하+여+오았고, 국제사회 제재와 압박에도 불구하고 지속적 이+ㄴ 핵개발을 강행 하+여이 제 핵무기를 보유하는 단계로 가고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-구청장 檢조사받자 등록증 교부… 10억원대 손배소 휘말리+ㄹ 처지 놓이 .	O O O O MNY-B O O O O O
-MDR-Z1R은 모든 과정 이수작업이고 하나씩 생산되+ㄹ 때마다 순서에 맞는 일련번호를 부여하+여소장가치를 높이었다 .	O O O O O O O O O O O O O
+이주노 씨 는 2013 년 12 월 에서 2014 년 1 월 사이 2 명 에게 총 1 억 6500 만 원 을 빌리 고 갚 지 않 은 것 으로 드러났 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O DAT-B DAT-I DAT-I DAT-I O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O
+그 는 돌잔치 전문 업체 를 차릴 계획 이 었 으나 필요한 자금 10 억 원 중 수중 에 1 억 원 밖 에 없 어 두 사람 에게 돈 을 빌 렸 다 .	O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+실업 3 개 팀 과 대학 5 개 팀 이 출전해 모두 56 번 의 경기 를 치르 게 될 이번 리그 에서 현재 선두 는 한라 위니아 . 그 뒤 를 동원 드림스 , 고려대 , 연세대 등 이 추격 을 하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O ORG-B ORG-I O ORG-B O ORG-B O O O O O O O O O
+이어 맹기 용 은 “ 어머니 는 카이스트 첫 번째 여자 박사 학위 취득자 다 .	O PER-B PER-I O O O O ORG-B O O O O O O O O
+중고차 시장 에서 보통 명절 전 대형 세단 구매 수요 가 몰리 다 명절 이 지나 면 매도 세 가 다소 강해 지 기 때문 . 명절 을 전후 로 대형 세단 의 거래 가 활발해 지 는 것 은 아마도 고향 에 ‘ 멋지 고 큰 차 ’ 를 타 고 돌아가 고 싶 은 소망 때문 이 아닐지 . SK 엔카 가 1 ∼ 19 일 국내 최대 자동차 오픈마켓 인 ‘ SK 엔카 닷컴 ’ 홈페이지 에 등록된 중고차 등록 매물 을 집계한 결과 대형 세단 에 속하 는 현대 자동차 그랜저 TG 가 새롭 게 10 위 안 에 진입하 고 현대차 제네시스 가 지난달 에 비해 두 단계 상승 한 8 위 를 기록 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+이것 은 서울 정도 크기 의 작 은 중계 무역항 을 세계 에서 손꼽히 는 도시 국가 로 탈바꿈 시킨 원동력 이 었 다 .	O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+김 부장 판사 는 “ 1 심 에서 는 증인 진술 자체 만 으로 유죄 를 인정 했 다 ” 며 “ 재판부 가 직접 들 으면 진술 의 신빙성 을 명확하 게 알 수 있 지 않 나 생각한다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 때 건물 위 에서 여성 을 구하 기 위해 소방관 한 명 이 줄 을 타 고 조심스레 접근하 기 시작한다 .	O O O O O O O O O O O O O O O O O O O O O O O
+선납 할인 제도 를 이용하 면 약 17 % 할인된 가격 에 이용할 수 있 다 .	O O O O O O O O O O O O O O O O O
+지난해 7 월 이후 올 4 월 말 까지 총 25 조 8000 억 원 의 기술 금융 대출 이 이뤄지 는 등 기술 금융 이 빠르 게 확대 됐 지만 시장 에서 는 기술 금융 에 대한 우려 도 적 지 않 았 다 .	DAT-B DAT-I DAT-I O DAT-B DAT-I DAT-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+990 만 원 짜리 카 오디오 , 360 만 원 짜리 독일 제 자전거 , 자녀 가 탈 외제 차 와 골프 레슨 비 … . 한국전력 과 한전 자회사 인 한전 KDN 임직원 등 이 납품 비리 와 관련해 업체 로부터 받 은 뇌물 목록 중 일부 다 .	MNY-B MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O ORG-B O ORG-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+주최 측 은 광화문 광장 에서 1 시간 가량 촛불 집회 를 연 뒤 오후 5 시 부터 약 2 만 명 씩 두 그룹 으로 나눠 행진할 예정 이 다 .	O O O LOC-B LOC-I O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O
+북한 은 1953 년 정전 협정 이후 버마 아웅산 테러 , 민간 항공기 격추 사건 을 비롯해 천안함 폭침 , 연평도 포격 포격 등 지속적 인 도발 행위 를 자행해 왔 고 , 국제 사회 제재 와 압박 에 도 불구하 고 지속적 인 핵 개발 을 강행해 이제 핵무기 를 보유하 는 단계 로 가 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+구청장 檢 조사 받 자 등록증 교부 … 10 억 원 대 손배소 휘말릴 처지 놓 여	O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+MDR - Z 1 R 은 모든 과정 이 수작업 이 고 하나 씩 생산될 때 마다 순서 에 맞 는 일련번호 를 부여해 소장 가치 를 높 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

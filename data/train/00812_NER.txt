@@ -1,16 +1,16 @@
-경찰은 진씨가 포함되 +ㄴ해커 조직이 사용 하+ㄴ대포통장 계좌에서 스미싱 등의 범죄로 약 145억원이 드나들+ㄴ 것을 확인하고 수사를 확대하고 있다 .	O PER-B O O O O O O O O O O MNY-B O O O O O O O
-이건혁기자gun@d onga. co .	PER-B O O O
-10월 마지막 날 이+ㄴ 핼러윈부터 12월 크리스마스까지는 연말 분위기가 나는 쿠키굽기, 크리스마스 장식하기, 양초 만들기 수업이 인기+이다 .	O O O O O O O O O O O O O O O O O O
-굳이 병원에 가지 않아도 되는 경우에는 전국 수천 곳의 휴일 지킴이 약국에서 약을 사+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O
-MBC쪽에서 +ㄴ 최명길이 진행하는 「음악이 있는 곳에 」가 이런 음악쇼의 선두주자 .	ORG-B O PER-B O O O O O O O O O
-[사진]이라크 시민, 집으로 .	ORG-B O O O
-레드불이 손흥민에게 광고 모델을 제안하며 내밀+ㄴ 금액은 무려 200만 유로(약 24억9000만원)에 달하+ㄴ다 .	ORG-B PER-B O O O O O O MNY-B MNY-I MNY-B O O
-그만큼 백두산 정기가 고스란히 스며 들어 있다”고 설명하였다 .	O LOC-B O O O O O O O
-그리고 7회 초 1사 만루에서 이우민(33)이 타석에서 +었다 .	O O O O O PER-B O O O
-당시에 +ㄴ 서씨가 이 사무관에게 경례 하+ㄹ 정도로 직급의 벽이 있고, 파병 임무가 최우선이어서 두 사람 모두 조심스럽었다고 하+ㄴ다 .	O O PER-B PER-B O O O O O PER-B O O O PER-B O O O O O O
-문재인 더불어민주당 대통령 후보 측은 5일 심재철 국회부의장이 문 후보의 아들 준용씨가 한국고용정보원 응시원서를 직접 쓰지 않았을 가능성을 제기하자 “오로지 ‘문재인 흠집내기’가 목적”이라고 비판하였다 .	PER-B ORG-B O O O O PER-B O PER-B O O PER-B ORG-B O O O O O O O PER-B O O O O
-앞서 자유한국당 소속 심부의장은 이날 오전 국회에서기자회견을 열고 필적 감정업체에서 내놓은 감정 결과를 공개하면서 “문씨가 한국고용정보원 채용 당시 제출하+ㄴ 응시원서를 감정하+ㄴ 결과, 위조 작성되었을 가능성이 높은 것으로 밝혀지었다”고 주장하였다 .	O ORG-B O PER-B O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O
-문 후보 측 권혁기 부대변인은 뉴스1과 통화에서 “심부의장이 제기하+ㄴ자료는 5년 내내 인터넷에 떠돌는 자료+이라진본을 갖고 감정하+ㄴ 것이 +ㄴ지의문이가+ㄴ다”며 “또한 2012년 새누리당(한국당 전신) 때도 김성태 의원 등이 같은 의혹 제기를 +였지만 제대로 밝혀내지 못하였다”고 지적하였다 .	PER-B O O PER-B O ORG-B O PER-B O O O O O O O O O PER-B O O ORG-B O O PER-B O O O O O O O O O O O
-그는 이어 “이 의혹이 맞다고 믿었다면 2012년 당시 검찰 수사를 통하+여국과 수(국립과학수사연구원)에서 검증하였어야 하+ㄴ다”며 “특히 정권을 잡았던 10년 동안 얼마든지 검찰 수사로 진상을 규명하+ㄹ 수 있었음에도 불구하고 선거 때 만들고 나오아 흔들는 행위는 명백하+ㄴ 거짓 공세용”이라고 말하였다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-권 부대변인은 그러면서 “결국 진상을 규명하+ㄹ의사가 없고 오로지 ‘문재인 흠집내기’가 목적이라는 뜻”이라며 “한국당이 10년간 검찰 수사를 촉구하+ㄴ 것+ㄴ 듣어보+ㄴ 적이 없는데 그것+이 더의문”이라고 반박하였다 .	PER-B O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O
-한편, 준용씨는 지나 +ㄴ 2006년 12월 고용노동부 산하 한국고용정보원 하반기 공채에서 동영상 업무를 담당하는 일반직 5급 신입직원으로 채용되었으며, 당시 채용공고 기간이 짧았던 문제 등으로 특혜 의혹이 일고 있다 .	O PER-B O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O
+경찰 은 진 씨 가 포함된 해커 조직 이 사용한 대포 통장 계좌 에서 스 미싱 등 의 범죄 로 약 145 억 원 이 드나든 것 을 확인하 고 수사 를 확대하 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+이건혁 기자 gun @ donga . com	PER-B O O O O O O
+10 월 마지막 날 인 핼러윈 부터 12 월 크리스마스 까지 는 연말 분위기 가 나 는 쿠키 굽 기 , 크리스마스 장식하 기 , 양초 만들 기 수업 이 인기 다 .	DAT-B DAT-I O O O DAT-B O DAT-B DAT-I DAT-B O O O O O O O O O O O O O O O O O O O O O O O
+굳이 병원 에 가 지 않 아도 되 는 경우 에 는 전국 수천 곳 의 휴일 지킴이 약국 에서 약 을 살 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+MBC 쪽 에선 최명길 이 진행하 는 「 음악 이 있 는 곳 에 」 가 이런 음악 쇼 의 선두 주자 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O
+[ 사진 ] 이라크 시민 , 집 으로 …	O O O ORG-B O O O O O
+레드 불 이 손흥민 에게 광고 모델 을 제안하 며 내민 금액 은 무려 200 만 유로 ( 약 24 억 9000 만 원 ) 에 달한다 .	ORG-B ORG-I O PER-B O O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O
+그만큼 백두산 정기 가 고스란히 스며들 어 있 다 ” 고 설명 했 다 .	O LOC-B O O O O O O O O O O O O O
+그리고 7 회 초 1 사 만루 에서 이우민 ( 33 ) 이 타석 에 섰 다 .	O O O O O O O O PER-B O O O O O O O O O
+당시 엔 서 씨 가 이 사무관 에게 경례할 정도 로 직급 의 벽 이 있 고 , 파병 임무 가 최우선 이 어서 두 사람 모두 조심스러 웠 다 고 한다 .	O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문재인 더불 어 민주당 대통령 후보 측 은 5 일 심재철 국회 부의장 이 문 후보 의 아들 준용 씨 가 한국고용정보원 응시 원서 를 직접 쓰 지 않 았 을 가능성 을 제기하 자 “ 오로지 ‘ 문재인 흠집 내 기 ’ 가 목적 ” 이라고 비판 했 다 .	PER-B ORG-B ORG-I ORG-I O O O O DAT-B DAT-I PER-B O O O PER-B O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+앞서 자유 한국 당 소속 심 부의장 은 이날 오전 국회 에서 기자 회견 을 열 고 필적 감정 업체 에서 내놓 은 감정 결과 를 공개하 면서 “ 문 씨 가 한국고용정보원 채용 당시 제출한 응시 원서 를 감정한 결과 , 위조 작성 됐 을 가능성 이 높 은 것 으로 밝혀 졌 다 ” 고 주장 했 다 .	O ORG-B ORG-I ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문 후보 측 권혁기 부 대변인 은 뉴스 1 과 통화 에서 “ 심 부의장 이 제기한 자료 는 5 년 내내 인터넷 에 떠도 는 자료 라 진본 을 갖 고 감정한 것 인지 의문 이 간다 ” 며 “ 또한 2012 년 새누리당 ( 한국당 전신 ) 때 도 김성태 의원 등 이 같 은 의혹 제기 를 했 지만 제대로 밝혀내 지 못 했 다 ” 고 지적 했 다 .	PER-B O O PER-B O O O ORG-B ORG-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+그 는 이어 “ 이 의혹 이 맞 다고 믿 었 다면 2012 년 당시 검찰 수사 를 통해 국과수 ( 국립 과학 수사 연구원 ) 에서 검증 했 어야 한다 ” 며 “ 특히 정권 을 잡 았 던 10 년 동안 얼마 든지 검찰 수사 로 진상 을 규명할 수 있 었 음 에 도 불구하 고 선거 때 만 들 고 나 와 흔드 는 행위 는 명백한 거짓 공세 용 ” 이라고 말 했 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+권 부 대변인 은 그러 면서 “ 결국 진상 을 규명할 의사 가 없 고 오로지 ‘ 문재인 흠집 내 기 ’ 가 목적 이 라는 뜻 ” 이 라며 “ 한국당 이 10 년 간 검찰 수사 를 촉구한 건 들 어 본 적 이 없 는데 그게 더 의문 ” 이라고 반박 했 다 .	PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 준용 씨 는 지난 2006 년 12 월 고용 노동부 산하 한국고용정보원 하반기 공채 에서 동영상 업무 를 담당하 는 일반직 5 급 신입 직원 으로 채용 됐 으며 , 당시 채용 공고 기간 이 짧 았 던 문제 등 으로 특혜 의혹 이 일 고 있 다 .	O O PER-B O O O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

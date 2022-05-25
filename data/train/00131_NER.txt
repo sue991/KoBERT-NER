@@ -1,16 +1,16 @@
-이와 달리 한의사 인력은 2030년 696명∼1776명의 공급과잉 현상이 예측되며, 치과의사 인력도 2030년 1810명∼2968명의 공급과잉 현상이 점치+어+지었다 .	O O O O O O O O O O O O O O O O O
-＜ 알리+ㅁ＞대구 □ 여성회관 자원봉사자 모집=칠곡경북대병원 어린이병동.매주 월∼금오전 10시∼오후 3시. 안내봉사.053-310-0150□ 입학사정관과 함께하는 수시 대비 상담실=29일 오전 10시∼오후 5시 수성구청 대강당.수성구 지역 고교 3학년 및 학부모 대상. 경북대 외지역 7개 대학.053-756-9112□ 여성일자리 한마당 =9월3일 오전 10시 반∼오후 4시 웨딩비엔나 그리다 커피숍.달서 여성 인력개발센터.053 -285-1331 경주□ ‘신라임금이 발하는 날’ 기네스도전 참여자 모집=9월 12일 오후 2시 첨성대 서편왕릉.벌초 최 .	O LOC-B O O O LOC-B ORG-I O O O O O O O O O O O O LOC-B LOC-B O O O O O O ORG-B O O O O O O O O O O O O LOC-B LOC-I LOC-I TIM-I LOC-B O O O O O O O O O LOC-B LOC-I O O
-이날 방송은 자막을 통하+여이연복에게 ‘주택 요정’, ‘이연복덕방’이라는 별명을 붙이었다 .	O O O PER-B O O PER-B O O O
-이에 이경규는 “부동산에서 나오시+어서(우리를) 안내 하+여주는 것 같다”고 말하였다 .	O PER-B O O O O O O O O
-버락 오바마 미국 대통령은 트위터를 통하+여 “인도 국민들이 간디의 정신을 잇어가고 있다”고 말하였다 .	PER-B PER-I ORG-B O O O ORG-B O PER-B O O O O O
-박진영, '대낮에 한 이별' 차트 역주행"1위 못하+ 여도…"셀프디스? ‘대낮에 한 이별’이 화제가 되고 있는 가운데 박진영이 고맙 ㄴ 마음을 전하였다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O
-지나+ㄴ 6일 가수 박진영은 자신의 트위터에 “항상 음악을 만들 +ㄹ 때 1위를 하고 금방 잊히+어지는 곡보다는 1위를 못하더라도 오래 남는 곡을 만들고 싶다는 생각으로 하는데 ‘대낮에 한 이별’ 부르어주시+ㄴ분들, 들어주시+ㄴ 분들 정말 감사하+여요”+이라는 글을 게재하였다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-앞서 +어지나 +ㄴ 5일 방송되+ㄴ SBS 'K팝스타4'에서는 정승환이 JYP엔터테인먼트 소속 걸그룹 미쓰에이 수지와 박진영의 곡 ‘대낮에 한 이별’을 부르었다 .	O O O O O O O PER-B O O O PER-B PER-B PER-B O O O O O O
-또한 ‘대낮에 한 이별’은 같은 날 오후 4시50분 첫 방송되+ㄴ MBC '일밤-미스터리 음악쇼 복면가왕'(이하 복면가왕)에서도 전파를 타+았다 .	O O O O O O O O O O O O O O O O O O
-이날 방송에서 집 나오+ㄴ 수사자와 앙칼지+ㄴ 고양이는 '대낮에 한 이별'을 듀엣곡으로 부르었다 .	O O PER-B PER-I PER-I PER-B PER-I O O O O O O
-통계청은 28일 ‘1월 인구 동향’을 통하+여오+ㄹ 1월 출생 .	ORG-B O O O O O O O O
-송일국, 정승연 판사에 청혼 중 ‘폭풍 오열’… 이유는 .	PER-B PER-B O O O O O O O
-‘2016 국가 소비자 중심 브랜드 대상’ 인터넷 증권방송 부문에서 최고의 점수를 받은 기업은 세계로 티브이다 .	O O O O O O O O O O O O O ORG-B ORG-I O
-TF 소속 추경호 의원은 “지금은 단일 요금 체계를 적용하는 데 앞으로는 A타입, B타입의 요금표를 만들어 소비자가 자신에게 유리하+ㄴ 것 +ㄹ 선택하는 방안”이라고 설명하였다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O
-책방 무사(요조)인디가수. JTBC ‘김제동의 톡투유’에 출연하+여 이름을 알리었다 .	PER-B PER-B O O O O O O O
-오후 6시에 문을 닫는다 .	TIM-B TIM-I O O O
+이 와 달리 한의사 인력 은 2030 년 696 명 ∼ 1776 명 의 공급 과잉 현상 이 예측되 며 , 치과 의사 인력 도 2030 년 1810 명 ∼ 2968 명 의 공급과잉 현상 이 점쳐 졌 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+＜ 알림 ＞ 대구 □ 여성 회관 자원 봉사자 모집 = 칠곡 경북대병원 어린이 병동 . 매주 월 ∼ 금 오전 10 시 ∼ 오후 3 시 . 안내 봉사 . 053 - 310 - 0150 □ 입학 사정관 과 함께하 는 수 시 대비 상담 실 = 29 일 오전 10 시 ∼ 오후 5 시 수성구청 대강당 . 수성구 지역 고교 3 학년 및 학부모 대상 . 경북대 외 지역 7 개 대학 . 053 - 756 - 9112 □ 여성 일자리 한 마당 = 9 월 3 일 오전 10 시 반 ∼ 오후 4 시 웨딩 비엔나 그리 다 커피숍 . 달서 여성 인력 개발 센터 . 053 - 285 - 1331 경주 □ ‘ 신라 임금 이발하 는 날 ’ 기네스 도전 참여 자 모집 = 9 월 12 일 오후 2 시 첨성대 서편 왕릉 . 벌초 최다	O O O LOC-B O O O O O O O LOC-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O LOC-B LOC-I O LOC-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O LOC-B O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I LOC-B LOC-I LOC-I O O O
+이날 방송 은 자막 을 통해 이연복 에게 ‘ 주택 요정 ’ , ‘ 이연 복덕방 ’ 이 라는 별명 을 붙 였 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+이 에 이경규 는 “ 부동산 에서 나오 셔서 ( 우리 를 ) 안내해 주 는 것 같 다 ” 고 말 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+버락 오바마 미국 대통령 은 트위터 를 통해 “ 인도 국민 들 이 간디 의 정신 을 이 어 가 고 있 다 ” 고 말 했 다 .	PER-B PER-I ORG-B O O O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O
+박진영 , ' 대낮 에 한 이별 ' 차트 역 주행 " 1 위 못해도 … " 셀프 디스 ? ‘ 대낮 에 한 이별 ’ 이 화제 가 되 고 있 는 가운데 박진영 이 고마 운 마음 을 전 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+지난 6 일 가수 박진영 은 자신 의 트위터 에 “ 항상 음악 을 만들 때 1 위 를 하 고 금방 잊혀 지 는 곡 보다 는 1 위 를 못하 더라도 오래 남 는 곡 을 만들 고 싶 다는 생각 으로 하 는데 ‘ 대낮 에 한 이별 ’ 불 러 주 신 분 들 , 들어주 신 분 들 정말 감사해요 ” 라는 글 을 게재 했 다 .	O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 지난 5 일 방송된 SBS ' K 팝 스타 4 ' 에서 는 정승환 이 JYP 엔터테인먼트 소속 걸그룹 미쓰에 이 수지 와 박진영 의 곡 ‘ 대낮 에 한 이별 ’ 을 불 렀 다 .	O O DAT-B DAT-I O O O O O O O O O O PER-B O O O O O PER-B PER-I PER-B O PER-B O O O O O O O O O O O O O
+또한 ‘ 대낮 에 한 이별 ’ 은 같 은 날 오후 4 시 50 분 첫 방송된 MBC ' 일 밤 - 미스터리 음악 쇼 복면 가왕 ' ( 이하 복면 가왕 ) 에서 도 전파 를 탔 다 .	O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 방송 에서 집 나온 수사자 와 앙칼진 고양이 는 ' 대낮 에 한 이별 ' 을 듀엣 곡 으로 불 렀 다 .	O O O PER-B PER-I PER-I O PER-B PER-I O O O O O O O O O O O O O O O
+통계청 은 28 일 ‘ 1 월 인구 동향 ’ 을 통해 올 1 월 출생 아	ORG-B O DAT-B DAT-I O DAT-B DAT-I O O O O O O DAT-B DAT-I O O
+송일국 , 정승연 판사 에 청혼 중 ‘ 폭풍 오열 ’ … 이유 는 ?	PER-B O PER-B O O O O O O O O O O O O
+‘ 2016 국가 소비자 중심 브랜드 대상 ’ 인터넷 증권 방송 부문 에서 최고 의 점수 를 받 은 기업 은 세계로 티브 이 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O
+TF 소속 추경호 의원 은 “ 지금 은 단일 요금 체계 를 적용하 는데 앞 으로 는 A 타입 , B 타입 의 요금표 를 만들 어 소비자 가 자신 에게 유리한 걸 선택하 는 방안 ” 이라고 설명 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+책방 무사 ( 요조 ) 인디 가수 . JTBC ‘ 김제동 의 톡 투유 ’ 에 출연해 이름 을 알 렸 다 .	PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O
+오후 6 시 에 문 을 닫 는다 .	TIM-B TIM-I TIM-I O O O O O O

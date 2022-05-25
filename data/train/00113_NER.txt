@@ -1,11 +1,11 @@
-1만7000원으로 가장 저렴하+ㄴ 샤오미의 미 밴드는 화면이 없는 대신 그 자리에 LED(발광다이오드)점 3개가 있다 .	MNY-B O O ORG-B O O O O O O O O O O O
-B병원 장례식장으로 찾아가 +ㄴ 임씨는 15회에 걸치+어 장례 차량 운행을 방해하고 집회를 하겠다고 협박 하+ㄴ 것으로 조사되었다 .	ORG-B LOC-B O O PER-B O O O O O O O O O O O O O
-NHK에 따르면 가고시마현 다네가시마(種子島) 우주센터에서 이날 오전 10시20분께 정보수집 위성 레이더 5호기를 탑재하+ㄴ H2A 로켓 33호가 발사되었다 .	ORG-B O LOC-B LOC-B O O O O O O O O O O O O O O
-지난해 LH 직원 1인당 복리후생비는 2013년에 비하+여 평균 207만원 줄었다 .	O ORG-B MNY-I O O O O O MNY-B O O
-김연경 -양효진 런던 이후 같은 방 … 같은 포지션 배정 경험 나누기 .	PER-B PER-B LOC-B O O O O O O O O O O
-홈플레이트에서 좌우 펜스까지 100m, 가운데 펜스까지 125m나 되+ㄴ다 .	O O O O O O O O O
-남규리는 지나 +ㄴ 28일 서울 서초구 넥슨아레나에서 ‘게임의 전설 철권 7왕의 귀환’ 런칭 행사 중 열리+ㄴ 이벤트 매치에서 배재민을 3-2로 제압하는 이변을 연출하게 +였다 .	PER-B O O O LOC-B LOC-B LOC-B O O O O O O O O O O O PER-B O O O O O O
-[뉴시스 .	O O
-백신과 치료약이 없어 치사율이 40%에 이르는 것으로 알려지었지만 이는 우리보다 의료 수준이 떨어지는 중동의 얘기+이다 .	O O O O O O O O O O O O O LOC-B O O
-일제시대 친일시, 친일보다 더 크+ㄴ 오류로 지적되곤 하는 1986년 전두환 전 대통령 탄생 축하시 등 5공화국에 협력 하+ㄴ 사실을 자세히 적었다 .	O O O O O O O O O PER-B O O O O O ORG-B O O O O O O
-‘가이드’ 안정환 “경기 앞두고 부부관계 NO! 굉장히 슬프+ㄴ 얘기 .	O PER-B O O O O O O O O
+1 만 7000 원 으로 가장 저렴한 샤오미 의 미 밴드 는 화면 이 없 는 대신 그 자리 에 LED ( 발광 다이오드 ) 점 3 개 가 있 다 .	MNY-B MNY-I MNY-I MNY-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+B 병원 장례식장 으로 찾아간 임 씨 는 15 회 에 걸쳐 장례 차량 운행 을 방해하 고 집회 를 하 겠 다고 협박한 것 으로 조사 됐 다 .	ORG-B ORG-I LOC-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+NHK 에 따르 면 가고시마 현 다네가시마 ( 種子島 ) 우주 센터 에서 이날 오전 10 시 20 분 께 정보 수집 위성 레이더 5 호 기 를 탑재한 H 2 A 로켓 33 호 가 발사 됐 다 .	ORG-B O O O LOC-B LOC-I LOC-B O LOC-B O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O
+지난해 LH 직원 1 인 당 복리 후생비 는 2013 년 에 비해 평균 207 만 원 줄 었 다 .	O ORG-B O O O O O O O DAT-B DAT-I O O O MNY-B MNY-I MNY-I O O O O
+김연경 - 양효진 런던 이후 같 은 방 … 같 은 포지션 배정 경험 나누 기 도	PER-B O PER-B LOC-B O O O O O O O O O O O O O
+홈 플레이트 에서 좌우 펜스 까지 100 m , 가운데 펜스 까지 125 m 나 된다 .	O O O O O O O O O O O O O O O O O
+남규 리 는 지난 28 일 서울 서초구 넥슨 아레나 에서 ‘ 게임 의전 설 철권 7 왕 의 귀환 ’ 런칭 행사 중 열린 이벤트 매치 에서 배재민 을 3 - 2 로 제압하 는 이변 을 연출하 게 했 다 .	PER-B PER-I O O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+[ 뉴시스 ]	O O O
+백신 과 치료 약 이 없 어 치사율 이 40 % 에 이르 는 것 으로 알려 졌 지만 이 는 우리 보다 의료 수준 이 떨어지 는 중동 의 얘기 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O
+일제 시대 친일 시 , 친일 보다 더 큰 오류 로 지적되 곤 하 는 1986 년 전두환 전 대통령 탄생 축하시 등 5 공화국 에 협력한 사실 을 자세히 적 었 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I PER-B O O O O O ORG-B ORG-I O O O O O O O O O
+‘ 가이드 ’ 안정환 “ 경기 앞두 고 부부 관계 NO ! 굉장히 슬픈 얘기 ”	O O O PER-B O O O O O O O O O O O O

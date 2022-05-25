@@ -1,10 +1,10 @@
-2013년 공모를 통하+여설계 당선작을 선정하였지만 지난해 사업 이 전면 보류되었다 .	O O O O O O O O O O O
-국내 지휘자는 20명 포함되었다 .	O O O O O
-정부는 ‘창조경제’의 성과를 위하+여서 금전적 지원을 하는 것에 더 하+여창의 성이 발현되는 사회구조와 문화를 확산하는 것에도 더 애를 +어야 하+ㄴ다.이 규태서강대 기술경영전문대학원 교 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O
-이현이, 훈남 남편과 데이트… “배우 못지않은 비주얼 .	PER-B O O O O O O O
-이심 대한노인회 회장(사진)이건국대 개교 70주년을 맞고 모교 이+ㄴ건국대에 장학기금 1억원을 20일 기부하였다 .	PER-B ORG-B ORG-B O O O O ORG-B O MNY-B O O O
-기원전 8∼9세기 무렵 두 지역에서 비슷하+ㄴ 유형의 사회적 변환기를 맞았다는 정황을 보이어주는 흔적도 나오았다 .	O O O O O O O O O O O O O O O
-8일 수원월드컵경기장에서 열리+ㄴ 수원 삼성과 포항스틸러스의 K리그 클래식 1라운드는 해빙기에 접어들 +ㄴ 프로축구의 봄을 실감하 +ㄹ 수 있는 무대+이었다 .	O LOC-B O ORG-B ORG-I ORG-B ORG-B ORG-I O O O O O O O O O O O O
-이번 시즌 3호 홈런이다 .	O O O O O
-올해 대학수학능력시험도 쉽게 나오+ㄹ 것이 거의 확실시 되기 때문이다 .	O O O O O O O O O O
-김하늘은 SBS ‘신사의 품격’ 이후 4년 만 안방극장 복귀작으로 ‘공항 가는 길’을 선택하였다 .	PER-B O O O O O O O O O O O O O
+2013 년 공모 를 통해 설계 당선작 을 선정 했 지만 지난해 사업 이 전면 보류 됐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O
+국내 지휘자 는 20 명 포함 됐 다 .	O O O O O O O O O
+정부 는 ‘ 창조 경제 ’ 의 성과 를 위해서 금전 적 지원 을 하 는 것 에 더해 창의성 이 발현되 는 사회 구조 와 문화 를 확산하 는 것 에 도 더 애 를 써야 한다 . 이규태 서강대 기술 경영 전문 대학원 교수	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B ORG-I ORG-I ORG-I ORG-I O
+이현 이 , 훈 남 남편 과 데이트 … “ 배우 못지않 은 비주얼 ”	PER-B PER-I O O O O O O O O O O O O O
+이심 대한노인회 회장 ( 사진 ) 이 건국대 개 교 70 주년 을 맞 아 모교 인 건국대 에 장학 기금 1 억 원 을 20 일 기부 했 다 .	PER-B ORG-B O O O O O ORG-B O O O O O O O O O ORG-B O O O MNY-B MNY-I MNY-I O DAT-B DAT-I O O O O
+기원전 8 ∼ 9 세기 무렵 두 지역 에서 비슷한 유형 의 사회적 변환기 를 맞 았 다는 정황 을 보 여 주 는 흔적 도 나 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8 일 수원월드컵경기장 에서 열린 수원 삼성 과 포항 스틸러스 의 K 리그 클래식 1 라운드 는 해빙기 에 접어든 프로 축구 의 봄 을 실감할 수 있 는 무대 였 다 .	DAT-B DAT-I LOC-B O O ORG-B ORG-I O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+이번 시즌 3 호 홈런 이 다 .	O O O O O O O O
+올해 대학 수학 능력 시험 도 쉽 게 나올 것 이 거의 확실시되 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O
+김하늘 은 SBS ‘ 신사 의 품격 ’ 이후 4 년 만 안방극장 복귀 작 으로 ‘ 공항 가 는 길 ’ 을 선택 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O

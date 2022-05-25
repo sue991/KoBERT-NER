@@ -1,11 +1,11 @@
-윤하는 이날 새벽 자신의 트위터 계정에 “마지막으로 한 마디 하고 끝내 +ㄴ다 .	PER-B O O O O O O O O O O O O
-이날 오전 특검팀 대변인이규철 특별검사보는 독일 검찰에 정유라와 관련되 +ㄴ 수사공조를 요청하고, 여권 무효화 조치에 도 착수하는 등 본격적 이+ㄴ 신병 확보에 나서 +었다고 발표하였다 .	O O O PER-B O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O
-이 검사보는 "현재로서는 (정유라인도에 얼마나 걸리+ㄹ지) 정확히 예상 하+ㄹ 수 없지만 최대한 빨리 하+ㄹ 수 있는 조치를 취하였다"며 "정씨가 자진 귀국하면 빨리 해결되+ㄹ 것"이라고 말하였다 .	PER-B O O PER-B O O PER-B O O O O O O O O O O O PER-B O O O O PER-B O O
-정씨는 현재 독일에 체류 중 이+ㄴ 것으로 전하+여지+ㄴ다 .	PER-B O LOC-B O O O O O O
-지난해 말 기준 대구시의 인구는 249만명으로, 250만명선이 무너지었다 .	O O O ORG-B O O O O O
-청와대 측은 27일 오후 출입기자들에게 경내 관저 뒷산에 있는 석조 여래 좌상을 공개하였다 .	ORG-B O O O O O O O O O O O O O
-'디지털 지팡이' '반 창고 센서' … 미래 10대 유망 기술 선 .	O O O O O O O O O O O O
-아두치는 타율 0.316, 28홈런·102타점을 기록 중이다 .	O O O O O O O
-거치+어 2011년부터 정식사령탑으로 취임하였고, 2부 리그를 전전하던 사간도스를 1부 리그에서도 상위권으로 올려놓았다 .	O O O O O O O O O O O O O
-박 대통령은 “남은 임기 동안 이번 선거에 나타나 +ㄴ 민의를 잘 반영하+ 여 변화와 개혁을 이끌면서 각계각층과 협력과 소통을 잘 이루+어나가 +ㄹ 수 있도록 각고의 노력을 다하겠다”고 +였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러나 4·13 총선에서의 여당 참패가 대통령의 국정운영 방식을 심판 하+ㄴ 것이라는 지적에 대하+여서 +ㄴ “대통령이라는 자리가 무한책임을 지는 자리+이지만, 대통령으로서 제가 하+ㄹ 수 있는 일이 별로 없었다”며 “양당 체제에서 식물국회로 가다 보니 변화와 개혁이 필요하고, 그리 하+여서 3당 체제를 만들어 주+ㄴ 것”이라고 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤하 는 이날 새벽 자신 의 트위터 계정 에 “ 마지막 으로 한마디 하 고 끝낸다 .	PER-B O O O O O O O O O O O O O O O O
+이날 오전 특검 팀 대변인 이규철 특별 검사 보 는 독일 검찰 에 정유라 와 관련된 수사 공조 를 요청하 고 , 여권 무효화 조치 에 도 착수하 는 등 본격적 인 신병 확보 에 나섰 다고 발표 했 다 .	O O O O O PER-B O O O O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 검사 보 는 " 현재 로서 는 ( 정유라 인도 에 얼마나 걸릴지 ) 정확히 예상할 수 없 지만 최대한 빨리 할 수 있 는 조치 를 취 했 다 " 며 " 정 씨 가 자진 귀국 하 면 빨리 해결될 것 " 이라고 말 했 다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+정 씨 는 현재 독일 에 체류 중 인 것 으로 전해 진다 .	PER-B O O O LOC-B O O O O O O O O O
+지난해 말 기준 대구시 의 인구 는 249 만 명 으로 , 250 만 명 선 이 무너 졌 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O
+청와대 측 은 27 일 오후 출입 기자 들 에게 경내 관저 뒷산 에 있 는 석조 여래 좌상 을 공개 했 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+' 디지털 지팡이 ' ' 반창고 센서 ' … 미래 10 대 유망 기술 선정	O O O O O O O O O O O O O O O
+아두치 는 타율 0.316 , 28 홈런 · 102 타점 을 기록 중 이 다 .	O O O O O O O O O O O O O O O O
+거쳐 2011 년 부터 정식 사령탑 으로 취임 했 고 , 2 부 리그 를 전전하 던 사간 도스 를 1 부 리그 에서 도 상위권 으로 올려놓 았 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 대통령 은 “ 남 은 임기 동안 이번 선거 에 나타난 민의 를 잘 반영해 변화 와 개혁 을 이끌 면서 각계각층 과 협력 과 소통 을 잘 이뤄 나갈 수 있 도록 각고 의 노력 을 다하 겠 다 ” 고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 4 · 13 총선 에서 의 여당 참패 가 대통령 의 국정 운영 방식 을 심판한 것 이 라는 지적 에 대해선 “ 대통령 이 라는 자리 가 무한 책임 을 지 는 자리 지만 , 대통령 으로서 제 가 할 수 있 는 일 이 별로 없 었 다 ” 며 “ 양당 체제 에서 식물 국회 로 가 다 보 니 변화 와 개혁 이 필요하 고 , 그래서 3 당 체제 를 만들 어 준 것 ” 이라고 했 다 .	O DAT-B DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

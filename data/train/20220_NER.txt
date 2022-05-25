@@ -1,12 +1,12 @@
-손수현 측, 이해준 감독과 결별 설 부인 “잘 만나고 있다 .	PER-B O PER-B O O O O O O O O
-머모케이트 대사는 트위터에 "왜 현실 세계의 여성들은 선택되+ㄹ 수 없는가"라고 말하였다 .	PER-B O O O O O O O O O O O
-앤마리게츠 전 유엔 수석 고문은 "혐오스럽ㄴ 결정"이라며 "(원더우먼 의 무기 가운데 하나이+ㄴ) 진실의 올가미(lassooftruth)는 유엔의 위선을 드러내는 데 사용되+어야 하+ㄹ 것"이라고 꼬집었다 .	PER-B O ORG-B O O O O PER-B O O O O O O ORG-B O O O O O O O O
-지나+ㄴ 13일 유엔은 원더우먼을 여권 신장 명예대사로 임명하고, 원더우먼 이 탄생 75주년을 맞는 오는 21일 미국 뉴욕 유엔본부에서 임명식을 열 +ㄹ 것이라고 밝히+ㄴ바 있다 .	O O LOC-B O O O O O O O O O O O O LOC-B LOC-B LOC-B O O O O O O O
-이 자리에는 반기문 유엔 사무총장도 참석 하+ㄹ 예정이며, 기념 우표도 발행 하+ㄹ 예정으로 알려지었다 .	O O PER-B ORG-B O O O O O O O O O O O
-2016년에는 남녀 참가자 통틀어 메달리스트(72타)를 차지하기도 +였다 .	O O O O O O O O
-■문태국 &문지영 듀오리 사이틀 ｜6월15일 오후 8시 ｜ 서울 LG아트센터 2014년 파블로카 잘스첼로 콩쿠르에서 한국인 최초로 우승하+ㄴ첼리스트 문태국(사진 왼쪽), 2014년 제네바콩쿠르와 2015년 부소니 콩쿠르에서 역시 한국인 최초로 우승하+ㄴ 피아니스트 문지영(사진 오른쪽)의 듀오리 사이틀이 열리+ㄴ다 .	PER-B PER-B O O O O O O LOC-B LOC-I O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O
-위안부 문제, 징용시설 유네스코 세계문화유산 등재 문제, 후쿠시마 인근 해역 수산물 수입 문제 등 여러 현안을 두고 양국 정부가 사사건건 정면 충돌하고 있기 때문이다 .	ORG-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O
-그러면서 “연기를 그만두고 아르바이트를 찾으러 가+았는데 나이가 많아서 안+어주더라. 식당에서 설거지 알바를 +였다”며 “한 달에 50만원 정도를 받았는데, 내가 오늘 5만원 하지 일을 +였다는 것이 너무 행복하였다 .	O O O O O O O O O O O O O O O MNY-B O O O O MNY-B O O O O O O O
-서울 남대문서로 호송되+ㄴ한 위원장은 오후 2시 10분부터 1층 수사과 조 사실에서 공무집행방해 등 9가지 혐의에 대하+여조사를 받고 있다 .	LOC-B LOC-B PER-B O O O O O O O O O O O O O O O O
-제가 국회의원 한번 더 하려고 출마하+ㄴ 것이 아니다 .	O O O O O O O O O
-관북리 유적과 부소산성은 사비시기(538~660년) 정교하게 만들 +ㄴ백제 왕궁시설을 보+ㄹ 수 있고, 능산리 고분군은 백제 고분 양식의 변천과정을 보이어 주+ㄴ다 .	LOC-B LOC-I LOC-B O O O ORG-B O O O O LOC-B LOC-I ORG-B LOC-I O O O O O
+손수현 측 , 이해준 감독 과 결별 설 부인 “ 잘 만나 고 있 다 ”	PER-B O O PER-B O O O O O O O O O O O O
+머 모 케이트 대사 는 트위터 에 " 왜 현실 세계 의 여성 들 은 선택될 수 없 는가 " 라고 말 했 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O
+앤 마리 게츠 전 유엔 수석 고문 은 " 혐오스러 운 결정 " 이 라며 " ( 원더 우먼 의 무기 가운데 하나 인 ) 진실 의 올가미 ( lasso of truth ) 는 유엔 의 위선 을 드러내 는 데 사용돼야 할 것 " 이라고 꼬집 었 다 .	PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+지난 13 일 유엔 은 원더 우먼 을 여권 신장 명예 대사 로 임명하 고 , 원더 우먼 이 탄생 75 주년 을 맞 는 오 는 21 일 미국 뉴욕 유엔 본부 에서 임명식 을 열 것 이 라고 밝힌 바 있 다 .	O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O
+이 자리 에 는 반기문 유엔 사무총장 도 참석할 예정 이 며 , 기념우표 도 발행할 예정 으로 알려 졌 다 .	O O O O PER-B ORG-B O O O O O O O O O O O O O O O O
+2016 년 에 는 남녀 참가자 통틀어 메달리스트 ( 72 타 ) 를 차지하 기 도 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O
+■ 문태국 & 문지영 듀오 리사이틀 ｜ 6 월 15 일 오후 8 시 ｜ 서울 LG 아트 센터 2014 년 파블로 카잘스 첼로 콩쿠르 에서 한국인 최초 로 우승한 첼리스트 문태국 ( 사진 왼쪽 ) , 2014 년 제네바 콩쿠르 와 2015 년 부소니 콩쿠르 에서 역시 한국인 최초 로 우승한 피아니스트 문지영 ( 사진 오른쪽 ) 의 듀오 리사이틀 이 열린다 .	O PER-B O PER-B O O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I O LOC-B LOC-I LOC-I LOC-I DAT-B DAT-I O O O O O O O O O O PER-B O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O PER-B O O O O O O O O O O
+위안부 문제 , 징용 시설 유네스코 세계 문화유산 등재 문제 , 후쿠시마 인근 해역 수산물 수입 문제 등 여러 현안 을 두 고 양국 정부 가 사사건건 정면 충돌 하 고 있 기 때문 이 다 .	ORG-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 “ 연기 를 그만두 고 아르바이트 를 찾 으러 갔 는데 나이 가 많 아서 안 써 주 더라 . 식당 에서 설거지 알바 를 했 다 ” 며 “ 한 달 에 50 만 원 정도 를 받 았 는데 , 내 가 오늘 5 만원 치 일 을 했 다는 것 이 너무 행복 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O
+서울 남대문 서 로 호송된 한 위원장 은 오후 2 시 10 분 부터 1 층 수사 과 조사 실 에서 공무 집행 방해 등 9 가지 혐의 에 대해 조사 를 받 고 있 다 .	LOC-B LOC-B O O O PER-B O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O
+제 가 국회의원 한 번 더 하 려고 출마한 것 이 아니 다 .	O O O O O O O O O O O O O O
+관북리 유적 과 부소산성 은 사비 시기 ( 538 ~ 660 년 ) 정교하 게 만든 백제 왕궁 시설 을 볼 수 있 고 , 능산리 고분 군 은 백제 고분 양식 의 변천 과정 을 보 여 준다 .	LOC-B LOC-I O LOC-B O O O O O O O O O O O O ORG-B O O O O O O O O LOC-B LOC-I LOC-I O ORG-B O O O O O O O O O O

@@ -1,11 +1,11 @@
-‘기록 제조기’ 테임즈, 역대 3번째 외국인 MVP 선정 …신인왕은 구자욱에 .	O O PER-B O O O O O O PER-B O
-심창민과 차우찬은 이번 대표팀의 필승카드+이었다 .	PER-B PER-B O ORG-B O O
-하지만 2시간 30분 동안 시장이 타면서 소방서 추산 6억5000만원 상당의 피해가 나 +았다 .	MNY-I O O O O O O O MNY-B O O O O O
-선수들이 모두 예민하+ 여지+어 있던 상황이라 오재원은 서건창의 말을 욕설로 받았다 .	O O O O O O PER-B PER-B O O O O
-美타임, ‘빗속 투혼’ 여자친구 무대에 감동?“노래 한 곡에 8번이나 넘어 지+ㄴ… .	O O O ORG-B O O O O O O O O
-그는 후진타오(胡錦濤) 전 국가주석 시절 중앙판 공청 주임(주석 비서실장)까지 거치며 무소불위의 권력을 휘두르었다 .	O PER-B O O O ORG-B ORG-I O O O O O O O
-일본이 세계기록유산 등재 제도에 문제제기를 시작하+ㄴ 것은 지난해 10월 중국이 신청 하+ㄴ난징대학살 관련 자료가 세계기록유산에 등재되고 나서다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O
-또한 “(도희는) 이제 막 시작하는 단계에서 +어 있는 아이”+이라며 “가수나 그룹 활동을 거부하+ㄴ다는 것은 말이 안 되는 일”이라고 강조하였다 .	O PER-B O O O O O O O O O O O O O O O O O O
-이에 누리꾼들은 “타이니+하지활동 거부 논란, 연기는 잘 하+여”, “타이니+하지활동 거부 논란, 타이니+하지 잘 안뜨기+ㄴ+였어”, “타이니+하지활동 거부 논란, 멤버 불화는 아니+ㄴ듯” 등의 반응을 보이었다 .	O O ORG-B O O O O O ORG-B O O ORG-B O O ORG-B O O O O O O O O O
-그는 25년 전 이+ㄴ 1991년 성탄절 소련 대통령 퇴임을 공식 발표하였을 당시를 회상하며 “(보리스 옐친 당시 러시아 대통령을 포함하 +ㄴ 공화국 지도자들이) 권력을 잡기 위 하+여나 +의 등 뒤에서 반역을 저지르었다” +이라며 “쿠데타+이었다”라고 맹비난하였다 .	O O O O O O ORG-B O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O
-또 노인 10명 중 1명가량(9.0%)은 외부인의 방문이 없다 .	O O O O O O O O O
+‘ 기록 제조 기 ’ 테임즈 , 역대 3 번째 외국인 MVP 선정 … 신인왕 은 구자욱 에게	O O O O O PER-B O O O O O O O O O O PER-B O
+심창민 과 차우찬 은 이번 대표 팀 의 필승 카드 였 다 .	PER-B O PER-B O O ORG-B ORG-I O O O O O O
+하지만 2 시간 30 분 동안 시장 이 타 면서 소방서 추산 6 억 5000 만 원 상당 의 피해 가 났 다 .	O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O
+선수 들 이 모두 예민해 져 있 던 상황 이 라 오재원 은 서건창 의 말 을 욕설 로 받 았 다 .	O O O O O O O O O O O PER-B O PER-B O O O O O O O O O
+美 타임 , ‘ 빗속 투혼 ’ 여자 친구 무대 에 감동 ? “ 노래 한 곡 에 8 번 이나 넘어진 … ”	O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+그 는 후진타오 ( 胡錦濤 ) 전 국가 주석 시절 중앙 판공 청 주임 ( 주석 비서실 장 ) 까지 거치 며 무소불위 의 권력 을 휘둘 렀 다 .	O O PER-B O PER-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
+일본 이 세계 기록 유산 등재 제도 에 문제 제기 를 시작한 것 은 지난해 10 월 중국 이 신청한 난징 대학살 관련 자료 가 세계 기록 유산 에 등재되 고 나서 다 .	ORG-B O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O
+또한 “ ( 도희 는 ) 이제 막 시작하 는 단계 에 서 있 는 아이 ” 라며 “ 가수 나 그룹 활동 을 거부한다는 것 은 말 이 안 되 는 일 ” 이라고 강조 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 누리 꾼 들 은 “ 타이니 지 활동 거부 논란 , 연기 는 잘해 ” , “ 타이니 지 활동 거부 논란 , 타이니 지 잘 안 뜨 긴 했 어 ” , “ 타이니 지 활동 거부 논란 , 멤버 불화 는 아닌 듯 ” 등 의 반응 을 보 였 다 .	O O O O O O O ORG-B ORG-I O O O O O O O O O O ORG-B ORG-I O O O O ORG-B ORG-I O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+그 는 25 년 전 인 1991 년 성탄절 소련 대통령 퇴임 을 공식 발표 했 을 당시 를 회상하 며 “ ( 보리스 옐친 당시 러시아 대통령 을 포함한 공화국 지도자 들 이 ) 권력 을 잡 기 위해 내 등 뒤 에서 반역 을 저질 렀 다 ” 라며 “ 쿠데타 였 다 ” 라고 맹 비난 했 다 .	O O O O O O DAT-B DAT-I DAT-I ORG-B O O O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 노인 10 명 중 1 명 가량 ( 9.0 % ) 은 외부 인 의 방문 이 없 다 .	O O O O O O O O O O O O O O O O O O O O O

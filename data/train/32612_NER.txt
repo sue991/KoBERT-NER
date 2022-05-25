@@ -1,14 +1,14 @@
-인구의 1%만 중산층이 되+ㄴ다고 가정 하+여도 서울 인구 이상의 사람들이 새롭ㄴ 소비 패턴을 갖게 되+ㄴ다는 뜻이다 .	O O O O O O LOC-B O O O O O O O O O O
-상대 전적은 삼성이 4승 1패로 우세를 확정하였다 .	O O ORG-B O O O O O
-지나+ㄴ 5월부터 11월까지, 이달에 +ㄴ 쉬고 총 6번 공연으로 완주하+ㄴ다 .	O O O O O O O O O O O
-연극 ‘아들’은 무기징역을 받고 15년째 수감생활을 하고 있는 강식이 하루 간의 특별귀휴를 받고, 세 살 때 헤어지+ㄴ아들을 만나는 가슴 따뜻하+ㄴ이야기를 그리 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O
-장진 감독의 동명영화로도 알려지+ㄴ ‘아들’은 2007년 개봉 당시 관객들의 마음을 움직이었다 .	PER-B O O O O O O O O O O O
-또 기숙사(280실) 및 상가 등 비즈니스에서 생활까지 잘 어우러지+어 있어 업무의 효율성을 높이어주+ㄹ 것으로 보이+ㄴ다 .	O PER-B O O O O O O O O O O O O O O
-북구 함지산-수성구 진밭골 등 …역과 가깝ㄴ 곳 나들이 새 명소 .	LOC-B LOC-B LOC-I O O O O O O O O
-매티스는 최근 도널드 트럼프 미 대통령에게 별칭을 사용하지 말아달라고 요청하기도 +였다 .	PER-B O PER-B PER-I ORG-B O O O O O O O
--부천영화제 특별전에서 신작 ‘리얼술래잡기’와 ‘러브앤피스’가 공개되었다 .	O O O O O O O
-이정재가 서울에 있는 동안 임세령이 일주일에 3일 이상 이정재의 집을 찾아가 +ㄴ다는 것.이에 이정재의 소속 사씨제스엔터테인먼트는 또 다른 연예매체와의 통화에서 아직 사실을 확인 중이라고 밝히었으며 대상그룹은 '오너 개인의 일'이라서 선을 긋었다 .	PER-B LOC-B O O PER-B O O O PER-B O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O
-이정재 임세령 열애보도에 이상형 발언 소식을 접하+ㄴ누리꾼들은 "이정재 임세령 열애, 새해 첫날부터 열애 소식!" "이정재 임세령 열애 정말?""이정재 임세령 열애, 10년 동안 친구 사이 이라고 우기더니...""이정재 임세령 열애, 이정재 재벌 여인과...부럽다 .	PER-B PER-B O O O O O PER-B PER-B O O O O O PER-B PER-B O PER-B PER-B O O O O O O PER-B PER-B O PER-B O O O
-저는 지나 +ㄴ 시즌부터 참가하였기 때문에 (시청자들이) 제가 체감하는 것과 비슷하+ㄹ까 싶지만, 부재가 느끼+어지+ㄹ 때도 있다”며 “이승철 씨 같은 경우 참가자들을 위하+여 굉장히 공격적으로 말씀을 하+여주+시었고, 감정을 숨기지 못하는 순수 하+ㄴ분이었다”고 말하였다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
-이어 “대신 깊은 서브텍스트를 가지고 있는 독설을 성시경씨가 몇 번 하+여주+시었다”면서도 “이승철 씨 자리가 심사의 ‘축’이었기 때문에 심사하면서 저희도 (빈자리를) 느끼고 있고, ‘승철 오빠+이라면 뭐 +이라고 하+여+ 주었을까’ 생각하기도 +였다 .	O O O O O O O PER-B O O O PER-B O O O O O O O O O O PER-B O O O O O O O O
-“설득 작업이 90% 끝나 +았다 .	O O O O O O
+인구 의 1 % 만 중산층 이 된다고 가정해도 서울 인구 이상 의 사람 들 이 새로 운 소비 패턴 을 갖 게 된다는 뜻 이 다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+상대 전적 은 삼성 이 4 승 1 패 로 우세 를 확정 했 다 .	O O O ORG-B O O O O O O O O O O O O
+지난 5 월 부터 11 월 까지 , 이달 엔 쉬 고 총 6 번 공연 으로 완주한다 .	O O O O O O O O O O O O O O O O O O O
+연극 ‘ 아들 ’ 은 무기 징역 을 받 고 15 년 째 수감 생활 을 하 고 있 는 강식이 하루 간 의 특별 귀휴 를 받 고 , 세 살 때 헤어진 아들 을 만나 는 가슴 따뜻한 이야기 를 그린다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장진 감독 의 동명 영화 로 도 알려진 ‘ 아들 ’ 은 2007 년 개봉 당시 관객 들 의 마음 을 움직 였 다 .	PER-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+또 기숙사 ( 280 실 ) 및 상가 등 비즈니스 에서 생활 까지 잘 어우러져 있 어 업무 의 효율 성 을 높 여 줄 것 으로 보인다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북구 함지산 - 수성구 진 밭골 등 … 역 과 가까 운 곳 나들이 새 명소 로	LOC-B LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O
+매 티스 는 최근 도널드 트럼프 미 대통령 에게 별칭 을 사용하 지 말 아 달 라고 요청하 기 도 했 다 .	PER-B PER-I O O PER-B PER-I ORG-B O O O O O O O O O O O O O O O O
+- 부천 영화제 특별 전 에서 신작 ‘ 리얼 술래잡기 ’ 와 ‘ 러브 앤 피스 ’ 가 공개 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O
+이정재 가 서울 에 있 는 동안 임세령 이 일주일 에 3 일 이상 이정재 의 집 을 찾아간다는 것 . 이 에 이정재 의 소속 사 씨 제스 엔터테인먼트 는 또 다른 연예 매체 와 의 통화 에서 아직 사실 을 확인 중 이 라고 밝 혔 으며 대상 그룹 은 ' 오너 개인 의 일 ' 이 라서 선 을 그 었 다 .	PER-B O LOC-B O O O O PER-B O O O DAT-B DAT-I O PER-B O O O O O O O O PER-B O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이정재 임세령 열애 보도 에 이상형 발언 소식 을 접한 누리 꾼 들 은 " 이정재 임세령 열애 , 새해 첫날 부터 열애 소식 ! " " 이정재 임세령 열애 정말 ? " " 이정재 임세령 열애 , 10 년 동안 친구 사 이 라고 우기 더니 . . . " " 이정재 임세령 열애 , 이정재 재벌 여인 과 . . . 부럽 다 .	PER-B PER-B O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O O PER-B PER-B O O O O O PER-B PER-B O O O O O O O O O O O O O O O O PER-B PER-B O O PER-B O O O O O O O O O
+저 는 지난 시즌 부터 참가 했 기 때문 에 ( 시청자 들 이 ) 제 가 체감하 는 것 과 비슷할까 싶 지만 , 부재 가 느껴 질 때 도 있 다 ” 며 “ 이승철 씨 같 은 경우 참가자 들 을 위해 굉장히 공격적 으로 말씀 을 해 주 셨 고 , 감정 을 숨기 지 못하 는 순수한 분 이 었 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 대신 깊 은 서브 텍스트 를 가지 고 있 는 독설 을 성시경 씨 가 몇 번 해 주 셨 다 ” 면서 도 “ 이승철 씨 자리 가 심사 의 ‘ 축 ’ 이 었 기 때문 에 심사하 면서 저희 도 ( 빈자리 를 ) 느끼 고 있 고 , ‘ 승철 오빠 라면 뭐 라고 해 줬 을까 ’ 생각하 기 도 했 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+“ 설득 작업 이 90 % 끝났 다 .	O O O O O O O O O

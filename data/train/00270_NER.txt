@@ -1,9 +1,9 @@
-미국 하버드대학 연구진은 북극에서 발견 하+ㄴ 매머드의 DNA 14종을 현존하는 코끼리의 몸에 주입하+ 여고 대 매머드와 가장 유사하+ㄴ종(種)을 부활시키+ㄹ 예정이라고 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
-도 이사장이 당선되면, UNWTO 91년 역사에서 최초의 아시아 출신, 여성 사무총장이 탄생하게 되+ㄴ다 .	PER-B O O ORG-B O O O LOC-B O O O O O O
-지난해 뇌경색을 앓았던 선우용열는 “몸을 제대로 못 움직이 +ㄹ .	O O O PER-B O O O O O O
-울릉도가 크+ㄴ 눈에도 끄떡없는 비결은 차별화되+ㄴ 제설기법 덕분이다 .	LOC-B O O O O O O O O
-아직 약속을 지키지 못하였지만 아들을 기억하는 차씨의 마음은 5년 전과 다르+ㅁ이 없다 .	O O O O O O PER-B O O O O O O
-한수 아래로 여기던 중국에 패하면서 한국 축구대표팀은 사면초가의 상황에 빠지었다 .	O O O ORG-B O ORG-B ORG-I O O O O
-루멘은 촛불 1개에서 1초 동안 나오는 빛의 양을 나타내는 단위로 수치가 크+ㄹ수록 밝기가 높다 .	O O O O O O O O O O O O O O O
-국토부, 인허가 절차 대폭 간소화…지자체들 기업유치 속도 붙을  .	ORG-B O O O O O O O O O
-중국의 자유무역은 철저히 ‘자유롭지 못하+ㄴ’ 방식으로 만들어 지+었다.19세기 중반은 세계화의 첫 물결이 휘몰아치+ㄴ시대+이었다 .	ORG-B O O O O O O O O O O O O O
+미국 하버드 대학 연구 진 은 북극 에서 발견한 매머드 의 DNA 14 종 을 현존하 는 코끼리 의 몸 에 주입해 고대 매머드 와 가장 유사한 종 ( 種 ) 을 부활 시킬 예정 이 라고 밝 혔 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+도 이사장 이 당선되 면 , UNWTO 91 년 역사 에서 최초 의 아시아 출신 , 여성 사무총장 이 탄생하 게 된다 .	PER-B O O O O O ORG-B DAT-B DAT-I O O O O LOC-B O O O O O O O O O
+지난해 뇌경색 을 앓 았 던 선우용 여 는 “ 몸 을 제대로 못 움직일까	O O O O O O PER-B PER-I O O O O O O O
+울릉도 가 큰 눈 에 도 끄떡없 는 비결 은 차별화된 제설 기법 덕분 이 다 .	LOC-B O O O O O O O O O O O O O O O O
+아직 약속 을 지키 지 못 했 지만 아들 을 기억하 는 차 씨 의 마음 은 5 년 전 과 다름 이 없 다 .	O O O O O O O O O O O O PER-B O O O O DAT-B DAT-I O O O O O O O
+한 수 아래 로 여기 던 중국 에 패하 면서 한국 축구 대표 팀 은 사면초가 의 상황 에 빠 졌 다 .	O O O O O O ORG-B O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O
+루멘 은 촛불 1 개 에서 1 초 동안 나오 는 빛 의 양 을 나타내 는 단위 로 수치 가 클수록 밝기 가 높 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국토 부 , 인 허가 절차 대폭 간소화 … 지자체 들 기업 유치 속도 붙 을 듯	ORG-B ORG-I O O O O O O O O O O O O O O O
+중국 의 자유 무역 은 철저히 ‘ 자유롭 지 못한 ’ 방식 으로 만들 어 졌 다 . 19 세기 중반 은 세계화 의 첫 물결 이 휘몰아친 시대 였 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

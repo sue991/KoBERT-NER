@@ -1,11 +1,11 @@
-이날 공항에는 수십명의 취재진이 박인비에게로 몰려들었다 .	O O O O PER-B O O
-서울 잠실 롯데월드타워 최상층부에 17일 첨탑구조물이 설치되 +어 국내 최고 건물 높이 이+ㄴ 555m(기존 송도 동북아무역센터·305m)에 도달하였다 .	LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
-그러면서 “안민석 더불어민주당 의원이 상임위에서 국가대표 선발 과정에 대하+ 여 문제를 제기하였다”면서 “내가 죽어도 눈을 못 감을 정도로 애를 공격하였다 .	O PER-B ORG-B O O O O O O O O O O O O O O O O O O
-또한 김무성 대표는 “국민권리로서 복지+이라는 혜택을 누리려면, 국민의무 이+ㄴ 납세+이라는 비용을 부담하+여야 하+ㄴ다는 사실을 깨닫아야 하겠다”면서 “미래를 위하+여 바람직하다면 당장 표를 잃더라도 추진하는 ‘인기 없는 정당’, 국민 삶을 개선하는 데 도움되+ㄴ다면 ‘야당에 지는 정당’이 되는 길도 마다하지 않겠다”라고 덧붙이었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-본토까지 위협받는 미국은 사생결단을 내려는 데 한국은 ‘강 건너 핵 구경’ 하+ㄹ 수도 있다는 것이다 .	O O ORG-B O O O ORG-B O O O O O O O O O
-용출소에서는 하루 3만5천t의 물이 솟아나 +아이물로 수력발전을 일으키+ㄹ 수 있을 정도+이다 .	O O O O O O O O O O O O
-그렇 +ㅁ에도 지젤 의 원곡이 지니+ㄴ 1막의 화사하+ㄴ 풍광과 2막 숲 속 묘지에서 펼쳐지는 낭만주의 특유의 ‘아름답ㄴ 기괴하+ㅁ’이 그립었다 .	O O PER-B O O O O O O O O O O O O O O O O O
-OFI팀은 모든 직원들에게 OFI 카드를 나누+어주+ㄴ다 .	ORG-B O O ORG-B O O O
-홍진호 ♥ 레이디제인 열애설, 일단은 묵묵부답당사자 언제쯤 입열 +ㄹ까 .	PER-B O PER-B O O O O O O O
-학생들은 △현대제철 당진공장 △현대자동차 아산공장 △BMW 드라이빙센터 △자동차 안전교육원 △현대모비스 아산공장 등을 직접 탐방하고 이 분야 최고 전문가들을 직접 만나 +아보는 기회를 갖는다 .	O ORG-B LOC-B ORG-B LOC-B O O O O ORG-B LOC-B O O O O O O O O O O O O O
-월남 이상재 선생의 강연장에 일본 형사들이 들이닥치었다 .	PER-B PER-B O O ORG-B O O O
+이날 공항 에 는 수십 명 의 취재진 이 박인비 에게로 몰려들 었 다 .	O O O O O O O O O PER-B O O O O O
+서울 잠실 롯데월드 타워 최 상층부 에 17 일 첨탑 구조물 이 설치돼 국내 최고 건물 높이 인 555 m ( 기존 송도 동북아 무역 센터 · 305 m ) 에 도달 했 다 .	LOC-B LOC-I LOC-I LOC-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 “ 안민석 더불 어 민주당 의원 이 상임위 에서 국가 대표 선발 과정 에 대해 문제 를 제기 했 다 ” 면서 “ 내 가 죽 어도 눈 을 못 감 을 정도 로 애 를 공격 했 다 .	O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 김무성 대표 는 “ 국민 권리 로서 복지 라는 혜택 을 누리 려면 , 국민 의무 인 납세 라는 비용 을 부담해야 한다는 사실 을 깨달 아야 하 겠 다 ” 면서 “ 미래 를 위해 바람직하 다면 당장 표 를 잃 더라도 추진하 는 ‘ 인기 없 는 정당 ’ , 국민 삶 을 개선하 는 데 도움 된다면 ‘ 야당 에 지 는 정당 ’ 이 되 는 길 도 마다하 지 않 겠 다 ” 라고 덧붙 였 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+본토 까지 위협 받 는 미국 은 사생결단 을 내 려는데 한국 은 ‘ 강 건너 핵 구경 ’ 할 수 도 있 다는 것 이 다 .	O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O
+용출 소 에서 는 하루 3 만 5 천 t 의 물 이 솟아나 이 물 로 수력 발전 을 일으킬 수 있 을 정도 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그럼에도 지젤 의 원곡 이 지닌 1 막 의 화사한 풍광 과 2 막 숲 속 묘지 에서 펼쳐지 는 낭만주의 특유 의 ‘ 아름다 운 기괴함 ’ 이 그리 웠 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+OFI 팀 은 모든 직원 들 에게 OFI 카드 를 나눠 준다 .	ORG-B ORG-I O O O O O O O O O O O
+홍진호 ♥ 레이디 제인 열애 설 , 일단 은 묵묵부답 당사자 언제 쯤 입 열까 ?	PER-B O PER-B PER-I O O O O O O O O O O O O
+학생 들 은 △ 현대제철 당진 공장 △ 현대자동차 아산 공장 △ BMW 드라이빙 센터 △ 자동차 안전 교육 원 △ 현대모비스 아산 공장 등 을 직접 탐방하 고 이 분야 최고 전문가 들 을 직접 만나 보 는 기회 를 갖 는다 .	O O O O ORG-B LOC-B LOC-I O ORG-B LOC-B LOC-I O O O O O O O O O O ORG-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O
+월남 이상재 선생 의 강연장 에 일본 형사 들 이 들이닥 쳤 다 .	PER-B PER-B O O O O ORG-B O O O O O O O

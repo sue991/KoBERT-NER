@@ -1,15 +1,15 @@
-이에 따르 아 여객 67억8천2백만 원, 화물 43억6천1백만 원 등 수송 손실만 1백11억4천3백만 원에 달하였다 .	O O O O MNY-B MNY-I O MNY-B MNY-I O O O MNY-B MNY-I O O
-군주가 직접 프라이빗 뱅킹(PB)은행이 +ㄴ LGT은행의 최고경영자(CEO)를 맡아 금융업을 일으키었다 .	O O O O O ORG-B O O O O O
-기업인 아만시오 오르테가가 작년보다 두 계단 상승하며 세계 두 번째 부자로 뽑히 었다 .	O PER-B PER-I O O O O O O O O O O O
-중소형 주택 전문회사 이+ㄴ 수목 건축은 제주 제주시 애월읍에 컨테이너로 만들 +ㄴ 단독주택단지를 조성하+ㄹ 계획이다 .	O O O O O O LOC-B LOC-B LOC-B O O O O O O O
-생명보험·손해보험협회는 조회대상자가 계약자·피보험자로 되어 있는 유효·해지 계약의 보험가입 내역 조회정보는 보험회사 명·상품 명·증권번호·모집점포·전화번호 등 정보를 제공하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O
-‘3D 프린팅의 이해’는 만화 애니메이션학과의 아트와 컴퓨터공학과의 기술이 만나 +ㄴ 융합교과목이어서 예외적으로 3학점짜리다 .	O O O O O O O O O O O O O O
-월요일 경기부활이 확정되었다 .	O O O O
-이 동아시아드럭비 경기장 디자인에는 중국의 유명 반체제 아티스트 아이웨이웨이가 협업자로 참여하였다 .	O O O O LOC-B O O O PER-B O O O
-‘뱀파이어 탐정’이 준 “촬영 중 머리에 각목을 맞+고 .	O O O O O O O O O
-이 공로로 2008년 9월 28일 사직야구장의 마지막 2008 시즌 페넌트레이스 홈경기에 앞서 +어허남식 부산시장으로부터 명예부산시민증을 받았다 .	O O O O O LOC-B O O O O O O PER-B O O O O
-제리로이스터 감독의 지휘 하에 롯데 자이언츠는 2008, 2009, 2010년 사상 최초 3년 연속 포스트시즌에 진출하였다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O O
-한편, 오바마 대통령은 이날 연설에서 “아직도 엄청나 +ㄴ 고통과 비극이 있지만, 지금 사람들은 인류 역사에서 가장 평화롭고 가장 번영하는 때에 살고 있는 행운을 누리고 있다”며 “이제 우리의 운명을 우리의 손으로 그리+어나가는 우리의 능력에 자신감을 가지+어야 하+ㄹ 때”라고 역설하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-하야든 탄핵이든 대통령을 바꾸는 것도 중요하지만 한 사람에게 지나치게 집중되+ㄴ 권력을 분산시키는 개헌과 병행 하+여야 하+ㄴ다는 목소리가 힘을 얻는 이유+이다 .	O O O O O O O O O O O O O O O O O O O O O
-그는 “스태프들에게 응급실 가+ㄴ 것+ㄹ 안 밝히었느냐”고 묻자 “(나의 죽음을 알리지 말라고 한) 이순신에게 배우었다”고 센스 있게 덧붙이었다 .	O O O O O O O O O O O O O PER-B O O O O O
-한편 ‘임진왜란 1592’는 KBS와 중국 CCTV 합작 드라마로, 1592년 임진왜란 당시의 한·중·일 삼국의 역사적 기록들을 기반으로 제작되었다 .	ORG-B O O ORG-B ORG-B ORG-I O O O O O ORG-B LOC-B O O O O O
+이 에 따 라 여객 67 억 8 천 2 백만 원 , 화물 43 억 6 천 1 백만 원 등 수송 손실 만 1 백 11 억 4 천 3 백만 원 에 달 했 다 .	O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O
+군주 가 직접 프라이빗 뱅킹 ( PB ) 은행 인 LGT 은행 의 최고 경영자 ( CEO ) 를 맡 아 금융업 을 일으 켰 다 .	O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+기업인 아만 시 오 오르테가 가 작년 보다 두 계단 상승하 며 세계 두 번째 부자 로 뽑 혔 다 .	O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O
+중소형 주택 전문 회사 인 수목건축 은 제주 제주시 애월읍 에 컨테이너 로 만든 단독 주택 단지 를 조성할 계획 이 다 .	O O O O O ORG-B O LOC-B LOC-B LOC-B O O O O O O O O O O O O O
+생명 보험 · 손해 보험 협회 는 조회 대상자 가 계약 자 · 피보험자 로 되 어 있 는 유효 · 해지 계약 의 보험 가입 내역 조회 정보 는 보험회사 명 · 상품명 · 증권 번호 · 모집 점포 · 전화번호 등 정보 를 제공한다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 3 D 프린팅 의 이해 ’ 는 만화 애니메이션 학과 의 아트 와 컴퓨터 공학 과 의 기술 이 만난 융합 교과목 이 어서 예외적 으로 3 학점 짜리 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+월요일 경기 부활 이 확정 됐 다 .	DAT-B O O O O O O O
+이 경기장 디자인 에 는 중국 의 유명 반체제 아티스트 아이 웨이웨이 가 협업 자 로 참여 했 다 .	O O O O O LOC-B O O O O PER-B PER-I O O O O O O O O
+‘ 뱀파이어 탐정 ’ 이준 “ 촬영 중 머리 에 각목 을 맞아 ”	O O O O PER-B O O O O O O O O O
+이 공로 로 2008 년 9 월 28 일 사직 야구장 의 마지막 2008 시즌 페넌트 레이스 홈경기 에 앞서 허남식 부산 시장 으로부터 명예 부산 시민 증 을 받 았 다 .	O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I LOC-B LOC-I O O DAT-B O O O O O O PER-B O O O O O O O O O O O O
+제리 로이스터 감독 의 지휘 하 에 롯데 자이언츠 는 2008 , 2009 , 2010 년 사상 최초 3 년 연속 포스트 시즌 에 진출 했 다 .	PER-B PER-I O O O O O ORG-B ORG-I O DAT-B O DAT-B O DAT-B DAT-I O O O O O O O O O O O O
+한편 , 오바마 대통령 은 이날 연설 에서 “ 아직 도 엄청난 고통 과 비극 이 있 지만 , 지금 사람 들 은 인류 역사 에서 가장 평화롭 고 가장 번영하 는 때 에 살 고 있 는 행운 을 누리 고 있 다 ” 며 “ 이제 우리 의 운명 을 우리 의 손 으로 그려 나가 는 우리 의 능력 에 자신감 을 가져야 할 때 ” 라고 역설 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하야 든 탄핵 이든 대통령 을 바꾸 는 것 도 중요하 지만 한 사람 에게 지나치 게 집중된 권력 을 분산 시키 는 개헌 과 병행해야 한다는 목소리 가 힘 을 얻 는 이유 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 스태프 들 에게 응급실 간 걸 안 밝 혔 느냐 ” 고 묻 자 “ ( 나 의 죽음 을 알리 지 말 라고 한 ) 이순신 에게 배 웠 다 ” 고 센스 있 게 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+한편 ‘ 임진왜란 1592 ’ 는 KBS 와 중국 CCTV 합작 드라마 로 , 1592 년 임진왜란 당시 의 한 · 중 · 일 삼국 의 역사적 기록 들 을 기반 으로 제작 됐 다 .	O O O O O O ORG-B O ORG-B ORG-I O O O O DAT-B DAT-I O O O ORG-B ORG-I ORG-I ORG-I ORG-I LOC-B O O O O O O O O O O O

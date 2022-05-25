@@ -1,17 +1,17 @@
-최근 2년 사이 중국 수퍼리치 사이에 개인용 섬의 구매붐이 일고 있다고 중국 광주일보(廣州日報)가 지나 +ㄴ 5일 보도하였다 .	O O O ORG-B O O O O O O O ORG-B ORG-B O O O O O
-보건복지부 중앙메르스관리대책본부 9일 이날 오전까지 하루 사이 격리자가 379명 늘어 2892명으로 집계되었다고 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O
-최근 1000여명이 전입신고를 +였고 나머지도 곧 하+ㄹ 예정이다 .	O O O O O O O O O
-남양주시는 1993년 불법행위를 처음 적발하+ㄴ 뒤 형사고발, 이행강제금 부과 등 단속활동에 나서 +었지만 영업활동은 계속되었다 .	LOC-B O O O O O O O O O O O O O O O
-허씨의 다음 재판은 22일 진행되+ㄹ 예정이다 .	PER-B O O O O O O
-지금까지 김일성의 신년사는 그 해의 북한의 대내외 정책 및 대남정책의 지침서 역할을 하+여+았으며 신년사가 발표되+ㄴ후에는 북한 전역에서 「신년사 관철궐기 모임」이 열리+어 주민들을 생산현장으로 동원하는 수단으로 이용되었다 .	O PER-B O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O
-박 대통령"연말정산, 국민들이 해가 잘 되시는 것+이 중요 .	PER-B O O O O O O O O
-하지만 반대편에서는 “자유한국당과 연합하는 듯 하+ㄴ 유 의원의 태도는 분명히 문제가 있다”며 “남 지사의 지적에 일리가 있다”고 동조하는 의원들도 목격되 +ㄴ다 .	O O ORG-B O O O PER-B O O O O O PER-B O O O O O O O O O
-이밖에 성년의 날을 기념 하+여 15일부터 22일까지 성년이 되+ㄴ 고객 본인에 한 하+ 여 입장권 구매시 약 40% 할인 혜택을 제공하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-KT에스테이트는 기업형 임대주택 외에 정부가 추진하는 기업형 임대주택이+ㄴ ‘뉴스테이’도 선보이+ㄴ다 .	ORG-B O O O O O O O O O O
-본사 응접실에 놓이어 있는 그룹 잡지의 표지는 중국의 만리장성 그림이다 .	O O O O O O O ORG-B O O O
-‘펜싱 플뢰레 희망’ 허준 32강서 탈락 펜싱 남자플뢰레의 허준(28·광주시청)이 8일(한국시간) 브라질 리우데자네이루 올림픽 파크 펜싱 경기장에서 열리+ㄴ 개인전 32강전에서 청카롱(홍콩)에게 8-15로 완패하었다 .	O O O PER-B O O O O ORG-B LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O ORG-B O O O
-양쪽 사람들 모두 쉽게 감정에 흐르지 않고 전략적으로 사고하는 가운데 한쪽은 스케일, 다른 쪽은 내용물이 중요하고, 한쪽은 말과 행동에 호기와 위세를, 다른 쪽은 겸손과 가식을 싣으며, 자기의사를 받아들이게 하는 압박의 방향으로 한쪽은 정면, 다른 쪽은 측면을 선호하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지난달 30일 시에라리온 파견 나흘 만에 시에라리온 에볼라 치료소에서 활동 중 이+ㄴ 우리 의료진 가운데 1명에게서 감염이 우려되는 상황이 일어나 +았다 .	O O LOC-B O O O LOC-B O O O O O O O O O O O O O O O
-마가렛조의 충격적 이+ㄴ 고백은 현지 언론 보도를 통하+여미 사회에 전하여 +지+었다 .	PER-B O O O O O O LOC-B O O O O
-마거릿 조는 트위터에 “성매매는 단순 하+ㄴ일이다 .	PER-B PER-I O O O O O
-조준현은 “판정승이 아니라 기술로 이기었으면 좋았을 터+이+ㄴ데”라고 아쉬움을 보이었다 .	PER-B O O O O O O O O O
+최근 2 년 사이 중국 수퍼 리치 사이 에 개인 용 섬 의 구매 붐 이 일 고 있 다고 중국 광주일보 ( 廣州日報 ) 가 지난 5 일 보도 했 다 .	O TIM-B TIM-I O ORG-B O O O O O O O O O O O O O O O ORG-B ORG-B O ORG-B O O O DAT-B DAT-I O O O O
+보건복지부 중앙 메르스 관리 대책 본부 9 일 이날 오전 까지 하루 사이 격리 자 가 379 명 늘 어 2892 명 으로 집계 됐 다고 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+최근 1000 여 명 이 전입 신고 를 했 고 나머지 도 곧 할 예정 이 다 .	O O O O O O O O O O O O O O O O O O
+남양주시 는 1993 년 불법행위 를 처음 적발한 뒤 형사 고발 , 이행강제금 부과 등 단속 활동 에 나섰 지만 영업 활동 은 계속 됐 다 .	LOC-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+허 씨 의 다음 재판 은 22 일 진행될 예정 이 다 .	PER-B O O O O O DAT-B DAT-I O O O O O
+지금 까지 김일성 의 신년사 는 그해 의 북한 의 대내외 정책 및 대남 정책 의 지침서 역할 을 해 왔 으며 신년사 가 발표된 후 에 는 북한 전역 에서 「 신년사 관철 궐기 모임 」 이 열려 주민 들 을 생산 현장 으로 동원하 는 수단 으로 이용 됐 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+박 대통령 " 연말 정산 , 국민 들 이해 가 잘 되 시 는 게 중요 "	PER-B O O O O O O O O O O O O O O O O
+하지만 반대 편 에서 는 “ 자유 한국 당 과 연합하 는 듯한 유 의원 의 태도 는 분명히 문제 가 있 다 ” 며 “ 남 지사 의 지적 에 일리 가 있 다 ” 고 동조하 는 의원 들 도 목격된다 .	O O O O O O ORG-B ORG-I ORG-I O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+이 밖에 성년 의 날 을 기념해 15 일 부터 22 일 까지 성년 이 된 고객 본인 에 한해 입장권 구매 시 약 40 % 할인 혜택 을 제공한다 .	O O DAT-B DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+KT 에스테이트 는 기업 형 임대 주택 외 에 정부 가 추진하 는 기업 형 임대주택 인 ‘ 뉴 스테이 ’ 도 선보인다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+본사 응접실 에 놓 여 있 는 그룹 잡지 의 표지 는 중국 의 만리장성 그림 이 다 .	O O O O O O O O O O O O ORG-B O O O O O O
+‘ 펜싱 플뢰레 희망 ’ 허준 32 강 서 탈락 펜싱 남자 플뢰레 의 허준 ( 28 · 광주시청 ) 이 8 일 ( 한국 시간 ) 브라질 리우데자네이루 올림픽 파크 펜싱 경기장 에서 열린 개인전 32 강 전 에서 청 카 롱 ( 홍콩 ) 에게 8 - 15 로 완패 했 다 .	O O O O O PER-B O O O O O O O O PER-B O O O ORG-B O O DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O PER-B PER-I PER-I O ORG-B O O O O O O O O O O
+양쪽 사람 들 모두 쉽 게 감정 에 흐르 지 않 고 전략적 으로 사고하 는 가운데 한쪽 은 스케일 , 다른 쪽 은 내용물 이 중요하 고 , 한쪽 은 말 과 행동 에 호 기 와 위세 를 , 다른 쪽 은 겸손 과 가식 을 실 으며 , 자기 의사 를 받아들이 게 하 는 압박 의 방향 으로 한쪽 은 정면 , 다른 쪽 은 측면 을 선호한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난달 30 일 시에라리온 파견 나흘 만 에 시에라리온 에볼라 치료소 에서 활동 중 인 우리 의료진 가운데 1 명 에게서 감염 이 우려되 는 상황 이 일어났 다 .	O DAT-B DAT-I LOC-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+마가렛 조 의 충격적 인 고백 은 현지 언론 보도 를 통해 미 사회 에 전해 졌 다 .	PER-B PER-I O O O O O O O O O O LOC-B O O O O O O
+마거릿 조 는 트위터 에 “ 성 매매 는 단순한 일 이 다 .	PER-B PER-I O O O O O O O O O O O O
+조준현 은 “ 판정승 이 아니 라 기술 로 이 겼 으면 좋 았 을 텐데 ” 라고 아쉬움 을 보 였 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O

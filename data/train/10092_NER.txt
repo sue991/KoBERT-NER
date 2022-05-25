@@ -1,15 +1,15 @@
-‘매우 동의 하+ㄴ다’는 응답은 50대가 33.8%로 가장 높았고 60대 이상이 26.4%로 2위 +이었다 .	O O O O O O O O O O O O O O
-1화에서는 내부고발자로 인하+여 붉어지+ㄴ 한국대학병원의 의료사고 소송을 맡게 되며 박태석이 수렁에 빠지게 되+ㄴ다 .	O O O O ORG-B O O O O PER-B O O O O
-북한이 휴전선 인근에서 서울을 겨냥하+여스커드 미사일을 발사하+ㄹ 경우 발사각을 조정하+ 여사드의 최저 요격 고도(약 40km) 아래로 하강시키+어요격을 피하+ㄹ 수도 있다 .	ORG-B LOC-B O LOC-B O O O O O O O O O O O O O O O O O
-이외에도 쿠셔니폼 블록은 안전과 디자인, 편의성을 넘어 ‘적정 온도 유지’+이라는 장점도 있다 .	O O O O O O O O O O O O O
-한국의 국가 지속 성장지수가 경제협력 개발기구(OECD) 조사 대상 28개 국가 중 24위 이+ㄴ 것으로 나타나 +았다 .	ORG-B O O O O ORG-B O O O O O O O O O O O
-미스라진-권다현 10월 2일 비공개 결혼… “한 번 뿐이+ㄴ 신혼여행 미루+어미안” 알고 보니 .	PER-B O O O O O O O O O O O O
-따라서 APEC 내의 지역들을 포괄하면서, 독립적으로 운용되 +ㄹ 가능성이 높은 NAFTA와 EAEC에 대하+ㄴ「 개별적 협력방안」도 동시에 모색되어야 하+ㄹ 것으로 보이+ㄴ다 .	O ORG-B O O O O O O O O ORG-B ORG-B O O O O O O O O O
-러시아는 “여객기 블랙박스에 열 손상이 없다고 이집트 당국으로부터 듣었다”며 테러 가능성이 낮다고 밝히었다 .	ORG-B O O O O O ORG-B O O O O O O O
-하지만 맹기용 셰프의 음식에 지누는 혹평을 쏟아내 +었다 .	O PER-B O O PER-B O O O O
-‘냉장고를 부탁하+여’ 방송 직후 네티즌들도 “냉부에서 맛없어 보이는 음식은 처음이었다” .	O O O O O O O O O O O
-같은 날 오전 디모인 인근 카운실 블러프스의 한 교회. 공화당 대선주자 도널드 트럼프(70)가 일요예배를 마치고 나오자 지지자 300여명이 둘러싸 +았다 .	O O O LOC-B O O O O O ORG-B O PER-B PER-I O O O O O O O O
-[횡설수설/ 한기흥] ‘박근혜 시대의 인식 .	O PER-B PER-B O O O
-북한 핵은 IAEA의 일반 사찰과 미신고 2개 시설에 대하+ㄴ 특별사찰, 그리고 남북한 상호 사찰에 의하+여 그 투명성을 보장하+ㄹ 수 있는 것으로 상정되어 있다 .	ORG-I O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O
-최씨 측근으로 활동하다 국정개입을 폭로하+ㄴ고씨는 최씨를 이용하+여이권을 챙기려 +였다는 의심을 받기도 +였다 .	PER-B O O O PER-B PER-B O O O O O O O
-연예인 판정단은 ‘우비소녀’의 정체가 가수 ‘벤’이 아니냐고 추측하였다 .	O O PER-B O O PER-B O O O
+‘ 매우 동의한다 ’ 는 응답 은 50 대 가 33.8 % 로 가장 높 았 고 60 대 이상 이 26.4 % 로 2 위 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 화 에서 는 내부 고발자 로 인해 붉어진 한국 대학 병원 의 의료사고 소송 을 맡 게 되 며 박태석 이 수렁 에 빠지 게 된다 .	O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O PER-B O O O O O O O
+북한 이 휴전선 인근 에서 서울 을 겨냥해 스커드 미사일 을 발사할 경우 발사각 을 조정해 사드 의 최저 요격 고도 ( 약 40 km ) 아래 로 하강 시켜 요격 을 피할 수 도 있 다 .	ORG-B O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이외 에 도 쿠셔 니 폼 블록 은 안전 과 디자인 , 편의성 을 넘 어 ‘ 적정 온도 유지 ’ 라는 장점 도 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 의 국가 지속 성장 지수 가 경제협력개발기구 ( OECD ) 조사 대상 28 개 국가 중 24 위 인 것 으로 나타났 다 .	ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O
+미쓰 라진 - 권다현 10 월 2 일 비공개 결혼 … “ 한번 뿐 인 신혼여행 미뤄 미안 ” 알 고 보 니 ?	PER-B PER-I O PER-B DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+따라서 APEC 내 의 지역 들 을 포괄하 면서 , 독립적 으로 운용될 가능성 이 높 은 NAFTA 와 EAEC 에 대한 「 개별적 협력 방안 」 도 동시 에 모색 되 어야 할 것 으로 보인다 .	O ORG-B O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+러시아 는 “ 여객기 블랙박스 에 열 손상 이 없 다고 이집트 당국 으로부터 들 었 다 ” 며 테러 가능성 이 낮 다고 밝 혔 다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+하지만 맹기 용 셰프 의 음식 에 지누 는 혹평 을 쏟 아 냈 다 .	O PER-B PER-I O O O O PER-B O O O O O O O O
+‘ 냉장고 를 부탁해 ’ 방송 직후 네티즌 들 도 “ 냉 부 에서 맛 없 어 보이 는 음식 은 처음 이 었 다 ” ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+같 은 날 오전 디모인 인근 카운실블러프스 의 한 교회 . 공화당 대선 주자 도널드 트럼프 ( 70 ) 가 일요 예배 를 마치 고 나오 자 지지자 300 여 명 이 둘러쌌 다 .	O O O O LOC-B O LOC-B O O O O ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+[ 횡설수설 / 한기흥 ] ‘ 박근혜 시대 의 인식 ’	O O O PER-B O O PER-B O O O O
+북한 핵 은 IAEA 의 일반 사찰 과 미신고 2 개 시설 에 대한 특별 사찰 , 그리고 남 북한 상호 사찰 에 의해 그 투명 성 을 보장할 수 있 는 것 으로 상정되 어 있 다 .	O O O ORG-B O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+최 씨 측근 으로 활동하 다 국정 개입 을 폭로한 고 씨 는 최 씨 를 이용해 이권 을 챙기 려 했 다는 의심 을 받 기 도 했 다 .	PER-B O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O
+연예인 판정 단 은 ‘ 우비 소녀 ’ 의 정체 가 가수 ‘ 벤 ’ 이 아니 냐고 추측 했 다 .	O O O O O PER-B PER-I O O O O O O PER-B O O O O O O O O

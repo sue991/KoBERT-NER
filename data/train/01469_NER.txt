@@ -1,14 +1,14 @@
-화성 동탄2신도시, 하남미사강변도시, 남양주 다산신도시 등지가 눈길을 끌+ㄴ다 .	LOC-B LOC-I LOC-B LOC-B LOC-I O O O O
-한번 태우고 나+ㄴ 소각로는 그 열기가 쉽게 사그라지지 않기 때문에 바로 작업을 하+ㄹ 수 없다 .	O O O O O O O O O O O O O O O O
-이제 한국지도자들이 상하이의 천지개벽을 직시하고 통렬하게 자성하+ㄹ 차례 +이다.테마파크 사례만이 아니다 .	O ORG-B LOC-B O O O O O O O O O
-사회 구성원 모두가 연봉 얼마짜리 경력을 관리하는 것보다 아이를 키우는 경험이 백배 중요하다는 것을 알아야 하+ㅂ니다 .	O O O O O O O O O O O O O O O O O
-두 사람은 영화 ‘붉은 가족’ 후반 작업과 그 후 영화 관계자들이 함께 하+ㄴ 식사 자리 등의 만남을 통하+여서 호감을 갖기 시작하+여연인으로 발전하였다. 한편 정우는 tvN ‘꽃보다 청춘’에 출연 중이다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O
-‘진세연’ 배우 진세연이 최근 또다시 악플에 시달리+어 심각하+ㄴ 고민에 빠지었다.진세연의 소속사 측은 허위사실 유포자에 대하+여법적 수단을 동원하+ㄹ지 고민하고 있다.31일 소속사 얼리버드엔터테인먼트 측은 복수의 매체를 통하+여 “지난해 수사를 통하+여 10여명의 악플러이 법적 처벌을 받게 +었으나 이들이 중고생이라 봉사활동으로 선처+였다 .	PER-B O PER-B O O O O O O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-하+ㄴ스리랑카 재봉공은 언론 인터뷰에서 “아이비파크가 말하는 여성과 여성의 권리는 오직 외국인들에게만 적용이 되+ㄴ다”라고 꼬집었다 .	O O O O PER-B O O O O O O O O O O
-매스티지는 대중을 뜻하는 ‘매스(mass)’와 고급을 의미하는 ‘프리스티지(prestige)’를 합치+ㄴ말로 매스티지 카드는 예전에는 일부 고객만 누리+ㄹ 수 있었던 혜택을 대중화 하+ㄴ 대신 연회비를 10만∼20만원 수준으로 높이 +ㄴ 카드들을 이르+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O MNY-B O O O O O O
-그는 이어 “일본이 양국의 컨센서스 정신을 엄격히 준수하고 사태를 냉정히 처리하기를 희망하+ㄴ다“고 덧붙이었다. 도쿄·베이징=이정헌·신경진 특파 .	O O ORG-B O O O O O O O O O O LOC-B O O
-뉴욕에 인터넷 비즈니스 부서를 설치하고, 이탈리아 밀라노 에 디자인 스튜디오를 열는 등 예전의 명성을 되찾기 위 하+여고군분투하였다. 확장 전략을 시도 하+ㄴ후 2001~2002년 매출이 잠시 늘었지만 2003년 다시 매출이 급감하며 반짝 효과에 그치었다 .	LOC-B O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 같은 출구조사 결과는 보수당과 자유민주당이 연정을 유지하기로 합의하면 과반 의석을 확보하+여재집권이 가능하+ㄹ 것이 +ㅁ을 보이어주고 있다 .	O O O O O ORG-B O O O O O O O O O O O O
-그러나 IBK기업은행 리즈맥마혼의 최근 기량을 보면 그런 소리는 사라지 +ㄹ듯하다 .	O ORG-B PER-B O O O O O O O O
-재판부는 “무방비 상태의 피해자를 무차별적으로 찌르어 살해하였다“며 ”아울러 범행 경위나 방법 등 죄질이 매우 좋지 않아 엄하+ㄴ 처벌이 필요하다“고 양형 사유를 설명하였다.(제주=뉴스1 .	O O O O O O O O O O O O O O O O O O O O O LOC-B O
-키 160㎝ 왜소하+ㄴ 체격의 이씨는 3개월 전에, 키 185㎝건장 하+ㄴ 체격의 A씨는 15일 전에 각각 배를 타+았다 .	O O O O PER-B O O O O O O PER-B O O O O O O
+화성 동탄 2 신도시 , 하남 미사 강변 도시 , 남양주 다산 신도시 등지 가 눈길 을 끈다 .	LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O
+한 번 태우 고 난 소각로 는 그 열기 가 쉽 게 사그라지 지 않 기 때문 에 바로 작업 을 할 수 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+이제 한국 지도자 들 이 상하이 의 천지개벽 을 직시하 고 통렬하 게 자성할 차례 다 . 테마파크 사례 만 이 아니 다 .	O ORG-B O O O LOC-B O O O O O O O O O O O O O O O O O O
+사회 구성원 모두 가 연봉 얼마 짜리 경력 을 관리하 는 것 보다 아이 를 키우 는 경험 이 백 배 중요하 다는 것 을 알 아야 합니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 사람 은 영화 ‘ 붉 은 가족 ’ 후반 작업 과 그 후 영화 관계자 들 이 함께한 식사 자리 등 의 만남 을 통해서 호감 을 갖 기 시작해 연인 으로 발전 했 다 . 한편 정우 는 tvN ‘ 꽃 보다 청춘 ’ 에 출연 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O
+‘ 진세연 ’ 배우 진세연 이 최근 또 다시 악 플 에 시달려 심각한 고민 에 빠 졌 다 . 진세연 의 소속 사 측 은 허위 사실 유포 자 에 대해 법적 수단 을 동원할지 고민하 고 있 다 . 31 일 소속 사 얼리버드 엔터테인먼트 측 은 복수 의 매체 를 통해 “ 지난해 수사 를 통해 10 여 명 의 악플러 이 법적 처벌 을 받 게 됐 으나 이 들 이 중고생 이 라 봉사 활동 으로 선처 했 다 .	O PER-B O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 스리랑카 재봉공 은 언론 인터뷰 에서 “ 아이비 파크 가 말하 는 여성 과 여성 의 권리 는 오직 외국인 들 에게 만 적용 이 된다 ” 라고 꼬집 었 다 .	O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+매스 티지 는 대중 을 뜻하 는 ‘ 매스 ( mass ) ’ 와 고급 을 의미하 는 ‘ 프리스티 지 ( prestige ) ’ 를 합친 말 로 매스 티지 카드 는 예전 에 는 일부 고객 만 누릴 수 있 었 던 혜택 을 대중화한 대신 연회비 를 10 만 ∼ 20 만 원 수준 으로 높인 카드 들 을 이른다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O
+그 는 이어 “ 일본 이 양국 의 컨센서스 정신 을 엄격히 준수하 고 사태 를 냉정히 처리하 기 를 희망한다 “ 고 덧붙 였 다 . 도쿄 · 베이징 = 이정헌 · 신경진 특파원	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O PER-B O PER-B O
+뉴욕 에 인터넷 비즈니스 부서 를 설치하 고 , 이탈리아 밀라노 에 디자인 스튜디오 를 여 는 등 예전 의 명성 을 되찾 기 위해 고군분투 했 다 . 확장 전략 을 시도한 후 2001 ~ 2002 년 매출 이 잠시 늘 었 지만 2003 년 다시 매출 이 급감하 며 반짝 효과 에 그 쳤 다 .	LOC-B O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+이 같 은 출구 조사 결과 는 보수당 과 자유민주당 이 연정 을 유지하 기 로 합의하 면 과반 의석 을 확보해 재집권 이 가능할 것 임 을 보 여 주 고 있 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 IBK 기업은행 리즈 맥마혼 의 최근 기량 을 보 면 그런 소리 는 사라질 듯하 다 .	O ORG-B ORG-I PER-B PER-I O O O O O O O O O O O O O
+재판부 는 “ 무방비 상태 의 피해자 를 무차별적 으로 찔 러 살해 했 다 “ 며 ” 아울러 범행 경위 나 방법 등 죄질 이 매우 좋 지 않 아 엄한 처벌 이 필요하 다 “ 고 양형 사유 를 설명 했 다 . ( 제주 = 뉴스 1 )	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O
+키 160 ㎝ 왜소한 체격 의 이 씨 는 3 개월 전 에 , 키 185 ㎝ 건장한 체격 의 A 씨 는 15 일 전 에 각각 배 를 탔 다 .	O O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O

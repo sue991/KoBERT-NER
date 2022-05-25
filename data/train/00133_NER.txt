@@ -1,15 +1,15 @@
-다가오는 신토익에서는 문항 수가 변경되므로, 파트5는 문제당 15초씩 대략 8분, 파트6는 지문당 2분씩 8분, 파트7은 문제당 1분, 총 54분을 산정하+ 여두어야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O
-문의 02-302-7203 온라인 뉴스 .	O O O O O
-1990년대 초부터 반미 핵대결전을 승리에로 이끌 시는 위대하+ㄴ 장군님의 천재적 이+ㄴ 외교지략과 탁월하+ㄴ령동를 실현하느 전초선에서 활약하였다”고 말하였다 .	O O O O O O O O O O O O O O O O O O
-그러나 이「 여름의 공식 」이 2년째 전혀 딴 방향으로 가고 있는 것 .	O O O O O O O O O O O O O
-정부가 5월까지 거둬들이 +ㄴ국세수입이 112조7000억원으로 벌써 올해 목표치의 절반(세수진도율 50.6%)을 넘어서 +었다 .	ORG-B O O O MNY-B O O O O O O O O
-지난 겨울 딸의 초등학교 입학을 앞두고 6㎏를 감량 하+ㄴ 워킹맘 황모(41·수원)씨는 “예비 초등학생 엄마들에게 +ㄴ 입학에 대하+ㄴ 공포가 있다 .	O O O O O O O O O O LOC-B O O O O O O O O O
-충청권 디스플레이 창의 실무형 인재 양성사업단에 속하+여 있는 디스플레이 공학 전공은 4개 학과로 구성되 +ㄴ 사업단 가운데 가장 우수하+ㄴ학과로 인정받고 있다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O
-대구는 지역에서 선호하는 학군이+ㄴ 수성구를 중심으로 상승세가 +었다 .	LOC-B O O O LOC-B O O O O
-‘라디오 스타’자두, 강두근황 공개 “아직도 술 마시고 다니는 거 같다 .	O PER-B PER-B O O O O O O O O
-서울Y시민중계 .	LOC-B O
-서울지역별 아파트 전세금 상승률은 동대문구(0.89%) 노원구(0.63%) 양천구(0.50%) 구로구(0.46%) 영등포구(0.42%) 성북구(0.41%) 등의 순으로 높았다 .	LOC-B O O O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O
-고삼석 방통위원, 종편 관련 ‘흉기’ 표현“기본적 정책 합리성 포기” 자질 논 .	PER-B O O O O O O O O O O O
-이는 황교안 법무부 장관이 지나 +ㄴ 13일 국회 대정부질문에서 “검찰이 파악하고 있는 비리 규모는 32억여원보다 훨씬 크다”고 밝히+ㄴ 것과도 무관하지 않아 보이+ㄴ다 .	O PER-B ORG-B O O O O ORG-B O O O O O O MNY-B O O O O O O O O
-무려 목장갑 다섯 장을 끼+ㅂ니다 .	O O O O O O
-대학생 한소연(20)씨는 “좋은 화장품을 쓰고 싶은데 가격이 너무 부담되+어종종 온라인에 공동구매글이 올라오는 소분립 글로즈나 수분크림을 사+아서 쓰고 있다”고 말하였다 .	O PER-B O O O O O O O O O O O O O O O O O O
+다가오 는 신 토익 에서 는 문항 수 가 변경되 므로 , 파트 5 는 문제 당 15 초 씩 대략 8 분 , 파트 6 는 지문 당 2 분 씩 8 분 , 파트 7 은 문제 당 1 분 , 총 54 분 을 산정해 두 어야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문의 02 - 302 - 7203 온라인 뉴스 팀	O O O O O O O O O
+1990 년대 초 부터 반미 핵 대결 전 을 승리 에로 이끄 시 는 위대한 장군 님 의 천재적 인 외교 지략 과 탁월한 령동 를 실현 하느 전초선 에서 활약 했 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 이 「 여름 의 공식 」 이 2 년 째 전혀 딴 방향 으로 가 고 있 는 것 .	O O O O O O O O O O O O O O O O O O O O O
+정부 가 5 월 까지 거둬들인 국세 수입 이 112 조 7000 억 원 으로 벌써 올해 목표치 의 절반 ( 세수 진도 율 50.6 % ) 을 넘어섰 다 .	ORG-B O DAT-B DAT-I O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O
+지난겨울 딸 의 초등학교 입학 을 앞두 고 6 ㎏ 를 감량한 워킹맘 황모 ( 41 · 수원 ) 씨 는 “ 예비 초등학생 엄마 들 에겐 입학 에 대한 공포 가 있 다 .	O O O O O O O O O O O O O PER-B O O O LOC-B O O O O O O O O O O O O O O O O O
+충청 권 디스플레이 창의 실무 형 인재 양성 사업단 에 속해 있 는 디스플레이 공학 전공 은 4 개 학과 로 구성된 사업단 가운데 가장 우수한 학과 로 인정받 고 있 다 .	LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대구 는 지역 에서 선호하 는 학군 인 수성구 를 중심 으로 상승세 가 컸 다 .	LOC-B O O O O O O O LOC-B O O O O O O O O
+‘ 라디오스타 ’ 자두 , 강두 근황 공개 “ 아직 도 술 마시 고 다니 는 거 같 다 ”	O O O PER-B O PER-B O O O O O O O O O O O O O O
+서울 Y 시민 중계 실	LOC-B LOC-I O O O
+서울 지역 별 아파트 전세금 상승 률 은 동대문구 ( 0.89 % ) 노원구 ( 0.63 % ) 양천구 ( 0.50 % ) 구로구 ( 0.46 % ) 영등포구 ( 0.42 % ) 성북구 ( 0.41 % ) 등 의 순 으로 높 았 다 .	LOC-B O O O O O O O LOC-B O O O O LOC-B O O O O LOC-B O O O O LOC-B O O O O LOC-B O O O O LOC-B O O O O O O O O O O O O
+고삼석 방통 위원 , 종편 관련 ‘ 흉기 ’ 표현 “ 기본적 정책 합리성 포기 ” 자질 논란	PER-B O O O O O O O O O O O O O O O O O
+이 는 황교안 법무부 장관 이 지난 13 일 국회 대 정부 질문 에서 “ 검찰 이 파악하 고 있 는 비리 규모 는 32 억 여 원 보다 훨씬 크 다 ” 고 밝힌 것 과 도 무관 치 않 아 보인다 .	O O PER-B ORG-B O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O
+무려 목장갑 다섯 장 을 낍니다 .	O O O O O O O
+대학생 한소연 ( 20 ) 씨 는 “ 좋 은 화장품 을 쓰 고 싶 은데 가격 이 너무 부담 돼 종종 온라인 에 공동 구매 글 이 올라오 는 소분 립 글 로즈 나 수분 크림 을 사서 쓰 고 있 다 ” 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

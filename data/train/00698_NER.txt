@@ -1,14 +1,14 @@
-현재 박 대통령도 관저에서 변호인단과 함께 특검 대면조사 대응 법리를 검토 중 이+ㄴ 것으로 알려지었다 .	O PER-B O O O O O O O O O O O O O O
-한편 특검팀은 이날 오후 정례브리핑을 통하+여 박 대통령 대면조사 불발 및 향후 계획에 관하+ 여 입장을 밝히+ㄹ 예정이다 .	O O O O O O PER-B O O O O O O O O O O O O
-LG하이파이 플러스는 아날로그에 가깝ㄴ 풍부하+ㄴ 음원을 선사 하+ㄴ다 .	O O O O O O O O O
-유럽 축구에 정통 하+ㄴ 복수의 관계자들은 22일 “구단 간 논의가 활발하게 이루어지고 있다 .	LOC-B O O O O O O O O O O O O O
-18일 현대차에 따르면 이 회사는 라틴어로 ‘편안 하+ㅁ’이라는 뜻을 지니 +ㄴ 미니버스 ‘쏠라티’(사진)를 출시하+ㄹ 예정이다 .	O ORG-B O O O O O O O O O O O O O O
-자동차를 재구매하는 고객에게는 레전드 구입 시 100만원의 할인 혜택을 제공하+ㄴ다 .	O O O O O O MNY-B O O O O
-이는 한 집안에서 고위 관료는 둘 이상을 배출하지 않는다는 홍색 가문의 불문율과 관련이 있다 .	O O O O O O O O O ORG-B ORG-I O O O O
-또한, 서울, 경기, 인천지역에 셔틀버스를 추가 도입하+ 여운행 노선을 확대하었으며, 이용인원과 관계없이 버스 노선이 매일 운영되+ㄴ다 .	O LOC-B LOC-B LOC-B O O O O O O O O O O O O O
-유재석은 입양되는 아이의 이름이 자신의 아들 이름과 같은 지호이+ㄴ 것에 놀라며 지호에게 내심 마음이 쓰이는 듯 시선을 떼지 못하+여 눈길을 끌었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-이는 2009개 정 교육과정이 처음으로 수능에 반영되 +ㅁ에 따르+ㄴ 것.인문 계열이 주로 치르던 ‘수학A형’은 ‘수학나형’으로, 자연계열이 치르던 ‘수학B형’은 ‘수학가형’으로 이름을 바꾸+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-TV조선은 25일 '비선실세' 의혹에 휩싸이+ㄴ 최순실 씨가 인사검증과 공직자 감찰을 진행하는 청와대 민정수석실 인사에 개입하+ㄴ 정황이 드러나 +았다고 보도하였다 .	ORG-B O O O O O O O O O O ORG-B ORG-I O O O O O O O
-TV조선이 최씨의 측근 사무실에서 확보하+ㄴ 민정수석 추천 관련 문건을 통하+여서 +이다 .	ORG-B O O O O O O O O O O O
-'민정수석실 추천인 및 조직도' +이라는 제목의 이 문건에는 2014년 6월까지 재직하였던 홍경식 당시 민정수석비서관, 이중희 민정비서관, 김종필 법무비서관의 사진과 프로필이 들어 있으며, 홍 수석의 후임 민정수석으로 곽상욱 감사위원이 추천되+어 있는 것으로 확인되었다 .	O O O O O O O O O O O PER-B O O PER-B O PER-B O O O O O PER-B O O O PER-B O O O O O O
-당시는 곽 감사위원이 민정수석에 임명되지 않았던 상황이었는데도 최씨 측근의 사무실에서 확보하+ㄴ문건에는 그 내용이 들어있다는 것이다 .	O PER-B O O O O O PER-B O O O O O O O O
+현재 박 대통령 도 관저 에서 변호인 단 과 함께 특검 대면 조사 대응 법리 를 검토 중 인 것 으로 알려 졌 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+한편 특검 팀 은 이날 오후 정례 브리핑 을 통해 박 대통령 대면 조사 불발 및 향후 계획 에 관해 입장 을 밝힐 예정 이 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+LG 하이파이 플러스 는 아날로그 에 가까 운 풍부한 음원 을 선사한다 .	O O O O O O O O O O O O O
+유럽 축구 에 정통한 복수 의 관계자 들 은 22 일 “ 구단 간 논의 가 활발하 게 이뤄지 고 있 다 .	LOC-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+18 일 현대차 에 따르 면 이 회사 는 라틴 어 로 ‘ 편안함 ’ 이 라는 뜻 을 지닌 미니버스 ‘ 쏠 라티 ’ ( 사진 ) 를 출시할 예정 이 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자동차 를 재 구매하 는 고객 에게 는 레전드 구입 시 100 만 원 의 할인 혜택 을 제공한다 .	O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+이 는 한 집안 에서 고위 관료 는 둘 이상 을 배출하 지 않 는다는 홍색 가문 의 불문율 과 관련 이 있 다 .	O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O
+또한 , 서울 , 경기 , 인천 지역 에 셔틀버스 를 추가 도입해 운행 노선 을 확대 했 으며 , 이용 인원 과 관계없이 버스 노선 이 매일 운영된다 .	O O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+유재석 은 입양되 는 아이 의 이름 이 자신 의 아들 이름 과 같 은 지호 인 것 에 놀라 며 지호 에게 내심 마음 이 쓰이 는 듯 시선 을 떼 지 못해 눈길 을 끌 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 는 2009 개정 교육 과정 이 처음 으로 수능 에 반영 됨 에 따른 것 . 인문 계열 이 주로 치르 던 ‘ 수학 A 형 ’ 은 ‘ 수학 나형 ’ 으로 , 자연 계열 이 치르 던 ‘ 수학 B 형 ’ 은 ‘ 수학 가형 ’ 으로 이름 을 바꾼다 .	O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+TV 조선 은 25 일 ' 비선 실세 ' 의혹 에 휩싸인 최순실 씨 가 인사 검증 과 공직자 감찰 을 진행하 는 청와대 민정 수석 실 인사 에 개입한 정황 이 드러났 다고 보도 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O O PER-B O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O
+TV 조선 이 최 씨 의 측근 사무실 에서 확보한 민정 수석 추천 관련 문건 을 통해서 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O
+' 민정 수석 실 추천인 및 조직 도 ' 라는 제목 의 이 문건 에 는 2014 년 6 월 까지 재직 했 던 홍경식 당시 민정 수석 비서관 , 이중희 민정 비서관 , 김종필 법무 비서관 의 사진 과 프로필 이 들 어 있 으며 , 홍 수석 의 후임 민정 수석 으로 곽상욱 감사 위원 이 추천돼 있 는 것 으로 확인 됐 다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O PER-B O O O O O PER-B O O O PER-B O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O
+당시 는 곽 감사 위원 이 민정 수석 에 임명되 지 않 았 던 상황 이 었 는데 도 최 씨 측근 의 사무실 에서 확보한 문건 에 는 그 내용 이 들 어 있 다는 것 이 다 .	O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O

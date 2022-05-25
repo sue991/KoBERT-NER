@@ -1,14 +1,14 @@
-리바운드 열세딛고 모비스에 승리… SK는 KCC 누르고 3연패서 탈 .	O O ORG-B O ORG-B ORG-B O O O O
-자유한국당은 28일 이은재 바른정당 의원이 전격 탈당 후 홍준표 자유한국당 후보에 대하+ㄴ 지지를 선언하+ㄴ 것과 관련 “보수 대결집이 시작되었다”고 평가하였다 .	ORG-B O PER-B ORG-B O O O O PER-B ORG-B O O O O O O O O O O O
-국제금융정보제공업체 CEIC는 2016년 인도의 경제성장률 전망치를 중국(6.8%)보다 높은 6.9%로 내다보았다 .	O ORG-B O ORG-B O O ORG-B O O O O
-안철수 전 국민의당 대표는 10일 박근혜 대통령의 퇴진을 요구하는 온라인 서명에잇어 오프라인 서명운동에도 나서 +ㄴ다 .	PER-B O ORG-B O O PER-B O O O O O O O O O O
-안철수 전 대표는 이날 서울 마포구 홍대입구역 앞에서 박근혜 대통령의 퇴진 촉구 서명운동을 갖는다 .	PER-B O O O LOC-B LOC-B LOC-I O PER-B O O O O O O
-○민주당 경선 레이스, 3각 구도로 재편? 경선 규칙에 대하+ 여문 전 대표와 안희정 충남도지사, 이 시장 측은 수용 의사를 밝히었다 .	ORG-B O PER-B O O O O O O PER-B O O PER-B ORG-B PER-B O O O O O O
-홍콩 바이어 매칭박람회를 주최하는 모든 커뮤니케이션이 경란 대표는 “부스 형식의 박람회에 그치는 것이 아니라, 홍콩 바이어를 대상으로 프리젠테이션을 하+ㄹ 수 있는 시간이 주어지기 때문에 매칭을 통하+ㄴ 더 높은 실적 달성이 예상되 +ㄴ다”며 “홍콩 IFC 몰 주변에서 한복을 입고 쇼핑객이나 관광객들에게 제품을 홍보하는 문화 결합형 프로모션을 통하+ㄴ 홍보 효과도 기대되+ㄴ다”고 말하였다 .	LOC-B O O O ORG-B ORG-I O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O
-3월로 넘어가는 이번 주에는 서울 낮 최고기온이 11도(28일)를 기록하는 등 전국이 대체로 맑고 따뜻하+ㄴ 날씨를 보이겠다 .	O O O O LOC-B O O O O O O O O O O O O
-UC는 지나 +ㄴ 몇 년 동안 등록금 동결 조치에 따르 아학비를 올리+어 받을 수 없는 캘리포니아 주 출신 대신 학비를 올리+ㄹ 수 있는 유학생과 다른 주출신 학생 비율을 늘리+어+았다 .	ORG-B O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O
-SK플래닛은 4월 14일 ‘T맵 택시’의 정식 서비스 오픈을 준비 중이다 .	ORG-B O O O O O O O O O O
-SNL코리아 6전효성, 과거 화장 전후 비교 사진“이렇+ㄹ수가 …대체 누구? .	O PER-B O O O O O O O O
-1970년대 이후 이어 지+어오+ㄴ 사물놀이와 재즈, 25현 가야금으로 재해석 하+ㄴ 비발디 등 기존 퓨전국악의 물길에서 좀비끼+어 있다 .	O O O O O O O O O O O O O O O O O O
-와파 등 모로코 유학생들은 "더 열심히 공부하겠다"고 고마움을 표시하였다 .	PER-B O LOC-B O O O O O O O
-폐차를 신청하+ㄴ 차주는 보험개발원이 산정하+ㄴ 차량 기준액의 100%를 보상받을 수 있다 .	O O O ORG-B O O O O O O O O
+리바운드 열 세 딛 고 모비스 에 승리 … SK 는 KCC 누르 고 3 연패 서 탈출	O O O O O ORG-B O O O ORG-B O ORG-B O O O O O O
+자유 한국 당 은 28 일 이은재 바른 정당 의원 이 전격 탈당 후 홍준표 자유 한국 당 후보 에 대한 지지 를 선언한 것 과 관련 “ 보수 대결 집 이 시작 됐 다 ” 고 평가 했 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I PER-B ORG-B ORG-I O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+국제 금융 정보 제공 업체 CEIC 는 2016 년 인도 의 경제 성장률 전망 치 를 중국 ( 6.8 % ) 보다 높 은 6.9 % 로 내다 봤 다 .	O O O O O ORG-B O DAT-B DAT-I ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O
+안철수 전 국민 의당 대표 는 10 일 박근혜 대통령 의 퇴진 을 요구하 는 온라인 서명 에 이 어 오프라인 서명 운동 에 도 나선다 .	PER-B O ORG-B ORG-I O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O
+안철수 전 대표 는 이날 서울 마포구 홍대 입구 역 앞 에서 박근혜 대통령 의 퇴진 촉구 서명운동 을 갖 는다 .	PER-B O O O O LOC-B LOC-B LOC-I LOC-I LOC-I O O PER-B O O O O O O O O O
+○ 민주당 경선 레이스 , 3 각 구도 로 재편 ? 경선 규칙 에 대해 문 전 대표 와 안희정 충남 도지사 , 이 시장 측 은 수용 의사 를 밝 혔 다 .	O ORG-B O O O O O O O O O O O O O PER-B O O O PER-B ORG-B ORG-I O PER-B O O O O O O O O O O
+홍콩 바이어 매칭 박람회 를 주최하 는 모든 커뮤니케이션 이경란 대표 는 “ 부스 형식 의 박람회 에 그치 는 것 이 아니 라 , 홍콩 바이어 를 대상 으로 프리젠테이션 을 할 수 있 는 시간 이 주어지 기 때문 에 매칭 을 통한 더 높 은 실적 달성 이 예상된다 ” 며 “ 홍콩 IFC 몰 주변 에서 한복 을 입 고 쇼핑객 이나 관광객 들 에게 제품 을 홍보하 는 문화 결합 형 프로모션 을 통한 홍보 효과 도 기대된다 ” 고 말 했 다 .	O O O O O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 월 로 넘어가 는 이번 주 에 는 서울 낮 최고 기온 이 11 도 ( 28 일 ) 를 기록하 는 등 전국 이 대체로 맑 고 따뜻한 날씨 를 보이 겠 다 .	DAT-B DAT-I O O O O O O O LOC-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+UC 는 지난 몇 년 동안 등록금 동결 조치 에 따 라 학비 를 올려 받 을 수 없 는 캘리포니아 주 출신 대신 학비 를 올릴 수 있 는 유학생 과 다른 주 출신 학생 비율 을 늘려 왔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O
+SK 플래닛 은 4 월 14 일 ‘ T 맵 택시 ’ 의 정식 서비스 오픈 을 준비 중 이 다 .	ORG-B ORG-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+SNL 코리아 6 전효성 , 과거 화장 전후 비교 사진 “ 이럴 수 가 … 대체 누구 ? ”	O O O PER-B O O O O O O O O O O O O O O O
+1970 년대 이후 이어져 온 사물놀이 와 재즈 , 25 현 가야금 으로 재해석한 비발디 등 기존 퓨전 국악 의 물길 에서 좀 비껴 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+와 파 등 모로코 유학생 들 은 " 더 열심히 공부하 겠 다 " 고 고마움 을 표시 했 다 .	PER-B PER-I O LOC-B O O O O O O O O O O O O O O O O O
+폐차 를 신청한 차주 는 보험 개발 원 이 산정한 차량 기준액 의 100 % 를 보상 받 을 수 있 다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O

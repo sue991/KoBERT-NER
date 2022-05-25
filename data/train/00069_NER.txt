@@ -1,12 +1,12 @@
-조범구 이사장은 “1974년 봄 중앙정보부에서 2명이 나를 찾아오았다 .	PER-B O O O ORG-B O O O O
-『 거짓말이 다』에 따르면 그는 민간 잠수사들을 제대로 지원하기는커녕 잠수사의 죽음에 대하+ㄴ 책임을 묻어 이들을 법정에 세우+ㄴ, 애초에 대참사를 빚은 정부에 대하+ㄴ 분노가 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-美호버보드 폭발 화재로 첫 사망자 발생…3살 여아 사 .	LOC-B O O O O O O O O
-NHK에 의하면 초당파 의원 모임이+ㄴ ‘다함께 야스쿠니 신사에 참배하는 국회의원 모임’ 소속 의원 95명은 야스쿠니 신사의 춘계예대제(例大祭) 첫날을 맞아 이날 오전 8시께 야스쿠니 신사를 집단 참배하였다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O
-그런 그가 인터뷰 후 꼭 5일 만이+ㄴ 10월 20일 대구시 동구 효목동의 한 사무실에서 숨지+ㄴ 채 발견되었다 .	O O O O O O O O O LOC-B LOC-B LOC-B O O O O O O
-그런데 우리 당은 수도권에 별로 관심 없다 .	O O O LOC-B O O O O
-미국 캘리포니아의 고속도로에서 버리+ㅁ 받고도 무려 5주간이나 주인을 기다리+ㄴ 개가 당국에 구조되었다 .	LOC-B LOC-B O O O O O O O O O O O
-그렇게 오랫동안 남편 없이 힘들게 살아오았던 아내는 결국 2014년 법원에 이혼소송을 제기하며 위자료와 재산분할 청구 등을 요구하였습니다 .	O O O O O O O O O O O O O O O O O O
-서울가정법원 가사5부(부장 송인우)는 남편의 외도로 50여년 세월을 별거 상태로 살+ㄴ아내 A씨가 남편 B씨를 상대로 내+ㄴ위자료 및 재산분할 소송에서 “두 사람은 이혼하고 남편은 아내에게 위자료 5000만원 ㆍ자녀 양육비 8000만원 ㆍ재산분할 2억원을 각 지급하라”고 9일 판결하였습니다 .	MNY-I O PER-B O O O O O O O PER-B O PER-B O O O O O O O O O O O MNY-B O O MNY-B O MNY-B O O O O O
-권영세 안동시장은 이들과 면담 하+ㄴ자리에서 “명망 있는 작가의 그림을 기증받으면 미술관 건립에 필요하+ㄴ 작품 수집 비용 부담을 덜 +ㄹ 수 있다”며 “안동시의 브랜드 가치도 올라가 +아관광 수입 등 이익이 창출되+ㄴ다”고 설명하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-롯데마트에 따르면 생수 매출은 2012년 대비 2013, 2014년 각각 4.2%, 13.4% 늘었다 .	ORG-B O O O O O O O O O O O O
-2011년 세상을 떠나 +ㄴ 잡스는 생전에 ‘띠동갑’으로 12세 연하이+ㄴ 아이브 부사장을 ‘나의 영적 이+ㄴ 동반자(솔메이트)’라고 부르었다 .	O O O O PER-B O O O O PER-B O O O O O O O
+조범구 이사장 은 “ 1974 년 봄 중앙정보부 에서 2 명 이 나 를 찾아 왔 다 .	PER-B O O O DAT-B DAT-I O ORG-B O O O O O O O O O O
+『 거짓말 이 다 』 에 따르 면 그 는 민간 잠수 사 들 을 제대로 지원하 기 는커녕 잠수 사 의 죽음 에 대한 책임 을 물 어 이 들 을 법정 에 세운 , 애초 에 대 참사 를 빚 은 정부 에 대한 분노 가 컸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+美 호 버 보드 폭발 화재 로 첫 사망자 발생 … 3 살 여아 사망	LOC-B O O O O O O O O O O O O O O
+NHK 에 의하 면 초당파 의원 모임 인 ‘ 다 함께 야스쿠니신사 에 참배하 는 국회의원 모임 ’ 소속 의원 95 명 은 야스쿠니신사 의 춘계 예 대제 ( 例大祭 ) 첫날 을 맞 아 이날 오전 8 시 께 야스쿠니신사 를 집단 참배 했 다 .	ORG-B O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O LOC-B O O O O O O O O O O O O TIM-B TIM-I TIM-I O LOC-B O O O O O O
+그런 그 가 인터뷰 후 꼭 5 일 만 인 10 월 20 일 대구시 동 구 효목동 의 한 사무실 에서 숨진 채 발견 됐 다 .	O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-B LOC-I LOC-B O O O O O O O O O O
+그런데 우리 당 은 수도권 에 별로 관심 없 다 .	O O O O LOC-B O O O O O O
+미국 캘리포니아 의 고속도로 에서 버림 받 고도 무려 5 주간 이나 주인 을 기다린 개 가 당국 에 구조 됐 다 .	LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O
+그렇 게 오랫동안 남편 없이 힘들 게 살아 왔 던 아내 는 결국 2014 년 법원 에 이혼 소송 을 제기하 며 위자료 와 재산 분할 청구 등 을 요구 했 습니다 .	O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+서울 가정 법원 가사 5 부 ( 부장 송인우 ) 는 남편 의 외도 로 50 여 년 세월 을 별거 상태 로 산 아내 A 씨 가 남편 B 씨 를 상대 로 낸 위자료 및 재산 분할 소송 에서 “ 두 사람 은 이혼하 고 남편 은 아내 에게 위자료 5000 만 원 ㆍ 자녀 양육비 8000 만 원 ㆍ 재산 분할 2 억 원 을 각 지급하 라 ” 고 9 일 판결 했 습니다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O O DAT-B DAT-I O O O O
+권영세 안동 시장 은 이 들 과 면담한 자리 에서 “ 명망 있 는 작가 의 그림 을 기증 받 으면 미술관 건립 에 필요한 작품 수집 비용 부담 을 덜 수 있 다 ” 며 “ 안동시 의 브랜드 가치 도 올라가 관광 수입 등 이익 이 창출된다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데마트 에 따르 면 생수 매출 은 2012 년 대비 2013 , 2014 년 각각 4.2 % , 13.4 % 늘 었 다 .	ORG-B O O O O O O DAT-B DAT-I O DAT-B O DAT-B DAT-I O O O O O O O O O O
+2011 년 세상 을 떠난 잡스 는 생전 에 ‘ 띠동갑 ’ 으로 12 세 연하 인 아이브 부사장 을 ‘ 나 의 영적 인 동반자 ( 솔 메이트 ) ’ 라고 불 렀 다 .	DAT-B DAT-I O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O

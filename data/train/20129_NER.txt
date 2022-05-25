@@ -1,13 +1,13 @@
-에 커맨은 19득점으로 첫 경기보다 나아지+ㄴ 모습을 보이+ㄴ 것이 GS에게는 위안이었다 .	O O O O O O O O O ORG-B O O
-아예 ‘bestbeard(최고 수염)’이라는 해시태그()도 등장하였다 .	O O O O O O
-재판부는 “B씨가 처음에는 상급자와 원청업체 노조 관계자의 요구도 있었고 A씨를 용서 하+ㄹ 마음으로 ‘멱살을 잡히고 주먹으로 맞았다’고 만 축소 하+여진술하였다”면서 “하지만 B씨는 A씨가 반성하는 태도를 보이지 않자 나중에 ‘쇠파이프를 들고 위협하였다’고 사실대로 진술하였다”며 양형의 이유를 설명하였다 .	ORG-B PER-B O O O O O O O PER-B O O O O O O O O O O O PER-B PER-B O O O O O O O O O O O O O O
-소셜네트워크 서비스의 대표주자 이+ㄴ 페이스북도 마찬가지 +이+ㅂ니다 .	O O O O O O O O
-일본 증시가 폭등하+ㄴ 것은 일본은행이 추가 양적완화 방안을 내놓을 수 있다는 기대감이 커지었기 때문이다 .	ORG-B O O O ORG-B O O O O O O O O O O
-5라운드 현재 3승2무로 단독 선두를 질주하는 제주 유나이티드와 22일 원정경기를 갖는다 .	O O O O O O ORG-B ORG-I O O O O
-박근혜 대통령이 28일 성완종 전 경남기업 회장의 두 차례 특별사면 수혜 과정에 대하+여 ‘진실규명’을 요구하+ㄴ 것을 계기로 검찰이 수사에 착수하는 방안 검토에 들어가 +았다 .	PER-B O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O
-대구은행의 그룹 비중은 90% 이상이지만 직원의 급여 수준은 떨어지고 있기 때문이다 .	ORG-B O O O O O O O O O O O
-인천국제공항을 끼고 있는 인천 영종도에 이르면 4월부터 대기업의 공장 진출이 가능하+여지+ㄴ다 .	LOC-B O O LOC-B LOC-B O O O O O O O
-전북을 응원하기 위하+여 한국을 방문하겠다”고 밝히었다 .	ORG-B O O LOC-B O O O
-아틀레티코, 마드리드 더비 4-0 완승 아틀레티 코 마드리드가 8일(한국시간) 비센테칼데론에서 열리+ㄴ 2014∼2015 시즌 스페인 프리메라리가 22라운드 홈 경기에서 지역 라이벌레 알마드 리드를 4-0으로 대파하였다 .	ORG-B ORG-I O O O O O O LOC-B LOC-B O O O ORG-B ORG-I O O O O O O O O O O
-오리온이 근소하게 3점 리드를 잡았다 .	ORG-B O O O O O
-반면서 준은 게임이 시작되자마자 과자의 유혹에 빠지+어웃음을 터뜨리었다 .	O O O O O O O O O
+에커맨 은 19 득점 으로 첫 경기 보다 나아진 모습 을 보인 것 이 GS 에게 는 위안 이 었 다 .	PER-B O O O O O O O O O O O O O ORG-B O O O O O O O
+아예 ‘ # bestbeard ( 최고 수염 ) ’ 이 라는 해시태그 ( # ) 도 등장 했 다 .	O O O O O O O O O O O O O O O O O O O O
+재판부 는 “ B 씨 가 처음 에 는 상급자 와 원청 업체 노조 관계자 의 요구 도 있 었 고 A 씨 를 용서할 마음 으로 ‘ 멱살 을 잡히 고 주먹 으로 맞 았 다 ’ 고 만 축소해 진술 했 다 ” 면서 “ 하지만 B 씨 는 A 씨 가 반성하 는 태도 를 보이 지 않 자 나중 에 ‘ 쇠 파이프 를 들 고 위협 했 다 ’ 고 사실 대로 진술 했 다 ” 며 양형 의 이유 를 설명 했 다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소셜 네트워크 서비스 의 대표 주자 인 페이스북 도 마찬가집니다 .	O O O O O O O O O O O
+일본 증시 가 폭등한 것 은 일본 은행 이 추가 양적 완화 방안 을 내놓 을 수 있 다는 기대감 이 커 졌 기 때문 이 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+5 라운드 현재 3 승 2 무 로 단독 선두 를 질주하 는 제주 유나이티드 와 22 일 원정 경기 를 갖 는다 .	O O O O O O O O O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O O O
+박근혜 대통령 이 28 일 성완종 전 경남기업 회장 의 두 차례 특별사면 수혜 과정 에 대해 ‘ 진실 규명 ’ 을 요구한 것 을 계기 로 검찰 이 수사 에 착수하 는 방안 검토 에 들어갔 다 .	PER-B O O DAT-B DAT-I PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대구은행 의 그룹 비중 은 90 % 이상 이 지만 직원 의 급여 수준 은 떨어지 고 있 기 때문 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+인천 국제공항 을 끼 고 있 는 인천 영종도 에 이르 면 4 월 부터 대기업 의 공장 진출 이 가능해 진다 .	LOC-B LOC-I O O O O O LOC-B LOC-B O O O DAT-B DAT-I O O O O O O O O O
+전북 을 응원하 기 위해 한국 을 방문하 겠 다 ” 고 밝 혔 다 .	ORG-B O O O O LOC-B O O O O O O O O O O
+아틀레티코 , 마드리드 더비 4 - 0 완승 아틀레티코 마드리드 가 8 일 ( 한국 시간 ) 비센테 칼데론 에서 열린 2014 ∼ 2015 시즌 스페인 프리메라리가 22 라운드 홈경기 에서 지역 라이벌 레알 마드리드 를 4 - 0 으로 대파 했 다 .	ORG-B O O O O O O O ORG-B ORG-I O DAT-B DAT-I O LOC-B O O LOC-B LOC-I O O O O O O ORG-B ORG-I O O O O O O ORG-B ORG-I O O O O O O O O O
+오리온 이 근소하 게 3 점 리드 를 잡 았 다 .	ORG-B O O O O O O O O O O O
+반면 서준 은 게임 이 시작되 자마자 과자 의 유혹 에 빠져 웃음 을 터뜨 렸 다 .	O PER-B O O O O O O O O O O O O O O O O

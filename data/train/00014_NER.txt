@@ -1,12 +1,12 @@
-지난해 ‘라디오 스타’에 출연하였을 당시에는 MC 김구라가 ‘공부 기술’이 50만부 팔리+ㄴ 것을 언급하며, “만권 이상만 되+어도 베스트셀러+이다 .	O O O O O O PER-B O O O O O O O O O O O
-2공장은 오전 11시부터 공장 내부에 발목까지 물이 차오르면서 이날 오후 10시 현재까지 생산이 중단되었다 .	O O O O O O O O O O O O O O O
-산부인과의 사회 “송민호 사과 접수”… 여성 비하랩 논란, 바비 우승 부담 .	ORG-B ORG-I PER-B O O O O O PER-B O O O
-글이 올라오면 김씨도 댓글을 달+ㄴ다 .	O O PER-B O O O
-20년간 눈에 띄는 성과도 있었다 .	O O O O O O
-이에 이씨는 “이미 준 1억원을 돌리+어달라.” +이라며 소송을 제기하였다 .	PER-B PER-B PER-B O MNY-B O PER-B O O O
-중국은 문화대혁명 4인방을 중심으로 하+ㄴ 좌파 지도자들이 비록 마오쩌둥의 작품이었지만 미국에 대하+ㄴ 비판을 중단하지 않았다 .	ORG-B O O O O O O O PER-B O ORG-B O O O O O
-”-NC의 가장 크+ㄴ과제는 지난해 11승(6패)을 거두+ㄴ 손민한의 공백을 메우는 일이다 .	ORG-B O O O O O PER-B O O O O
-“(손)민한이가 그동안 기대 이상으로 잘 하+여+ 주었다 .	PER-B O O O O O O O
-이렇게 막강 하+ㄴ 권한을 가지+ㄴ '미국 대통령' 자리에 트럼프가 당선되었다는 소식이 알려지면서 온라인상에는 패러디물이 봇물을 이루고 있다 .	O O O O O ORG-B O O PER-B O O O O O O O O O
-[대구/경북]대구 수성구 ‘고산도서관’ 30일 개 .	LOC-B LOC-B ORG-B O O O
-삼성카드 스테이지 ‘에센스’, 2월 18일 이화여대 삼성홀서 공 .	LOC-I O O O O LOC-B LOC-I O O
+지난해 ‘ 라디오스타 ’ 에 출연 했 을 당시 에 는 MC 김구라 가 ‘ 공부 기술 ’ 이 50 만 부 팔린 것 을 언급하 며 , “ 만 권 이상 만 돼도 베스트셀러 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+2 공장 은 오전 11 시 부터 공장 내부 에 발목 까지 물 이 차오르 면서 이날 오후 10 시 현재 까지 생산 이 중단 됐 다 .	O O O TIM-B TIM-I TIM-I O O O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O
+산부인과 의사 회 “ 송민호 사과 접수 ” … 여성 비하 랩 논란 , 바비 우승 부담 ?	ORG-B ORG-I ORG-I O PER-B O O O O O O O O O PER-B O O O
+글 이 올라오 면 김 씨 도 댓글 을 단다 .	O O O O PER-B O O O O O O
+20 년 간 눈 에 띄 는 성과 도 있 었 다 .	O O O O O O O O O O O O O
+이 에 이 씨 는 “ 이미 준 1 억 원 을 돌려 달 라 . ” 라며 소송 을 제기 했 다 .	O O PER-B PER-I O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+중국 은 문화 대혁명 4 인 방 을 중심 으로 한 좌파 지도자 들 이 비록 마오쩌둥 의 작품 이 었 지만 미국 에 대한 비판 을 중단하 지 않 았 다 .	ORG-B O O O O O O O O O O O O O O O PER-B O O O O O ORG-B O O O O O O O O O O
+” - NC 의 가장 큰 과제 는 지난해 11 승 ( 6 패 ) 을 거둔 손민한 의 공백 을 메우 는 일 이 다 .	O O ORG-B O O O O O O O O O O O O O O PER-B O O O O O O O O O
+“ ( 손 ) 민한 이 가 그동안 기대 이상 으로 잘해 줬 다 .	O O PER-B PER-I PER-I PER-I O O O O O O O O O
+이렇 게 막강한 권한 을 가진 ' 미국 대통령 ' 자리 에 트럼프 가 당선 됐 다는 소식 이 알려지 면서 온라인 상 에 는 패러디 물 이 봇물 을 이루 고 있 다 .	O O O O O O O ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+[ 대구 / 경북 ] 대구 수성구 ‘ 고산 도서관 ’ 30 일 개관	O LOC-B O LOC-B O LOC-B LOC-B O ORG-B ORG-I O DAT-B DAT-I O
+삼성카드 스테이지 ‘ 에센스 ’ , 2 월 18 일 이화여대 삼성 홀 서 공연	ORG-B O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-I LOC-I O O

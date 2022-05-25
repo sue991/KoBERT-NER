@@ -1,13 +1,13 @@
-김장훈은 이날 자신의 트위터에 “근한 달 만에 쉬는 날이 라테이크+ㄴ 3 다운받았는데 쌩뚱 맞게 자막이 아랍어” +이라며 “슬프고 진지하+ㄴ 장면도 통~집중 안되+ㄴ다”는 글과 함께 사진네 장을 올리었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-가맹점이 많지 않은 NFC 방식이고 애플·삼성에 비하+여 시장 진출이 늦은 편이다 .	O O O O O ORG-B O O O O O O
-한편 SK텔레콤은 손해배상 청구건에 대하+여 “아직 소장을 받아보지는 못하였다”며 “소장을 받으면 정확하+ㄴ 내용을 파악하고 검토 하+여소송 진행 과정에서 소명하+여나가+ㄹ 것이다”고 말하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
-코카콜라가 빨간색을 상징색으로 쓰기 시작하+ㄴ 것+ㄴ 약 100년 전부터로 이 회사의 빨간색은 특허 등록까지 되+어 있다고 하+ㅂ니다 .	ORG-B O O O O O O O O O O O O O O O O O
-라이카 카메라도 붉은색을 상징색으로 사용하는 브랜드 이+ㅂ니다 .	ORG-B ORG-I O O O O O O
-롯데월드타워 사업이 시작되+ㄴ 것은 롯데 창업주 이+ㄴ 신격호 총괄회장이 “서울에보+ㄹ거리가 경복궁 밖에 없느냐, 초고층 랜드마크 빌딩을 짓어 종합관광단지를 개발하겠다”면서 건설을 지시하면서다 .	LOC-B O O O ORG-B O O PER-B O LOC-B LOC-B O O O O O O O O O O O
-배우 김정은 '여자를 울리+어' 여주인공 출연… 7년 만의 MBC 컴백"기쁘다 .	O PER-B O O O O O O ORG-B O O
-가장 최근 대결하+ㄴ 2013년 3월 경기에서 한국은 종료 직전까지 1-1로 맞서 .	O O O O O O ORG-B O O O O O
-“초반에 상대의 기를 살리+어주면 곤란하+여지+ㄴ다”던 삼성화재 신치용 단장의 우려대로 2세트 초반 대한항공의 기세가 살아나 +았다 .	O O O O O ORG-B PER-B O O O O ORG-B O O O O
-2012년 준플레이오프 때 1타석에 들어서 안타 없이 물러나 +ㄴ 것+이 가을 야구 경험의 전부 +이다 .	O O O O O O O O O O O O O O O O
-마녀사냥 최화정 ‘마녀사냥’에 출연하+ㄴ 최화정이 연애 스타일에 대하+여 언급하였다 .	O PER-B O O PER-B O O O O O
-30일 방송되+ㄴ JTBC ‘마녀사냥’에는 최화정이 출연하+여 남 다르+ㄴ 입담을 과시하였다 .	O O O O PER-B O O O O O O
-이날 ‘마녀사냥’에서 최화정은 자신의 연애 스타일에 대하+여 언급하면서 “연애상대로 연하가 좋아 연하남만 고르는 것은 아니다”라고 운을 떼+었다 .	O O PER-B O O O O O O O O O O O O O O O
+김장훈 은 이날 자신 의 트위터 에 “ 근 한 달 만 에 쉬 는 날 이 라 테이 큰 3 다운 받 았 는데 쌩 뚱 맞 게 자막 이 아랍어 ” 라며 “ 슬프 고 진지한 장면 도 통 ~ 집중 안 된다 ” 는 글 과 함께 사진 네 장 을 올 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가맹점 이 많 지 않 은 NFC 방식 이 고 애플 · 삼성 에 비해 시장 진출 이 늦 은 편 이 다 .	O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O
+한편 SK 텔레콤 은 손해 배상 청구 건 에 대해 “ 아직 소장 을 받 아 보 지 는 못 했 다 ” 며 “ 소장 을 받 으면 정확한 내용 을 파악하 고 검토해 소송 진행 과정 에서 소명해 나갈 것 이 다 ” 고 말 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+코카콜라 가 빨간색 을 상징 색 으로 쓰 기 시작한 건 약 100 년 전 부터 로 이 회사 의 빨간색 은 특허 등록 까지 돼 있 다고 합니다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+라이카 카메라 도 붉은색 을 상징 색 으로 사용하 는 브랜드 입니다 .	ORG-B ORG-I O O O O O O O O O O O
+롯데월드 타워 사업 이 시작된 것 은 롯데 창업주 인 신격호 총괄 회장 이 “ 서울 에 볼 거리 가 경복궁 밖에 없 느냐 , 초고층 랜드마크 빌딩 을 지 어 종합 관광단지 를 개발하 겠 다 ” 면서 건설 을 지시하 면서 다 .	LOC-B LOC-I O O O O O ORG-B O O PER-B O O O O LOC-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+배우 김정 은 ' 여자 를 울려 ' 여주인공 출연 … 7 년 만 의 MBC 컴백 " 기쁘 다 "	O PER-B PER-I O O O O O O O O O O O O ORG-B O O O O O
+가장 최근 대결한 2013 년 3 월 경기 에서 한국 은 종료 직전 까지 1 - 1 로 맞서 다	O O O DAT-B DAT-I DAT-I DAT-I O O ORG-B O O O O O O O O O O
+“ 초반 에 상대 의 기 를 살려 주 면 곤란해 진다 ” 던 삼성화재 신치용 단장 의 우려 대로 2 세트 초반 대한항공 의 기세 가 살아났 다 .	O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O ORG-B O O O O O O
+2012 년 준 플레이오프 때 1 타석 에 들 어서 안타 없이 물러난 게 가을 야구 경험 의 전부 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+마녀 사냥 최화정 ‘ 마녀 사냥 ’ 에 출연한 최화정 이 연애 스타일 에 대해 언급 했 다 .	O O PER-B O O O O O O PER-B O O O O O O O O O
+30 일 방송된 JTBC ‘ 마녀 사냥 ’ 에 는 최화정 이 출연해 남다른 입담 을 과시 했 다 .	DAT-B DAT-I O O O O O O O O PER-B O O O O O O O O O
+이날 ‘ 마녀 사냥 ’ 에서 최화정 은 자신 의 연애 스타일 에 대해 언급하 면서 “ 연애 상대 로 연하 가 좋 아 연하 남 만 고르 는 것 은 아니 다 ” 라고 운 을 뗐 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

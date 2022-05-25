@@ -1,16 +1,16 @@
-내+ㅁ보소박유천♥신세경, 스태프들도 숨죽이+ㄴ 키스신+았더니 '알콩달콩 .	PER-B O O O O O
-곡성-고흥 등 지역 관광 활성 .	LOC-B O O O O O
-직사광선에 노출되+ㄴ 생수는 온도가 30~40도까지 올라가 +ㄴ다 .	O O O O O O O O
-휠라 관계자는 “스테파니의 건강 하+ㄴ바디라인과 에너지 넘치는 매력이 휠라핫 써머 컬렉션과 잘 어우러지+어멋지+ㄴ 화보가 나오았다”며 “올 여름 스테파니의 핫 써머룩을 참고하면 스타일과 실용성 모두를 만족 하+ㄹ 수 있을 것”이라고 밝히었다 .	ORG-B O PER-B O O O O O ORG-B O O O O O O O O PER-B O O O O O O O O O O O O O
-양 팀은 올 시즌 다섯 번의 맞대결에서 우리은행이 5승 1패로 앞서 +어 있지만, 최근 5연승을 거두며 상승세를 타고 있는 KB스타즈가 플레이오프 진출 마지막 티켓을 두고 동기 부여가 크+ㄴ 만큼 양 팀의 사정을 충분히 감안하+ㄴ 신중하+ㄴ 분석이 필요하다 .	O O O O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-연간 뿜어내는 질소산화물도 화물차(23만2970t)가 버스(3만6062t)의 6.4배 수준이다 .	O O O O O O O O
-조지 W 부시 당시 미국 대통령이 임기 마지막 해이+ㄴ 2007년 발표 하+ㄴ 연두교서(StateoftheU nion) 일부 +이다 .	PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O
-”글= 임선영기자 you ngcan@j oongang. co.kr사진=김경록기 .	O PER-B O O O PER-B O
-잇어두 셰프가 공동으로 작업 하+ㄴ 마카롱, 사블레, 머랭쿠+하기, 초코리 등 4종의 프티푸(차와 함께 즐기는 작은 케이크나 쿠키)가 가르 아디너의 여정을 마무리하였다 .	O O O O O O O O O O O O O O O O O O O O O O
-소녀시대는 최종 합계에서 가장 높은 점수를 얻으며 트로피의 주인공이 +었다 .	ORG-B O O O O O O O O O O
-이날 써니는 1위 소감을 전하여 "감사하+ㅂ니다 .	O PER-B O O O O O
-분당서울대병원 의료진은 급하게 회의를 열어야 +였다 .	ORG-B O O O O O O
-양훈은 전날 열리+ㄴ 1차전에 선발투수로 5와 3분의 1이닝 동안 1실점하었다 .	PER-B O O O O O O O O O O
-경과에 따르 아 3차 수술을 받을 수도 있다 .	O O O O O O O O O
-또한 소극장 공연으로는 유례없이 오픈과 동시에 인터파크 티켓 예매처 뮤지컬 중 예매 순위 1위를 차지하는 기염을 토하였다 .	O O O O O O O O O O O O O O O O O O
-공개연애에 대하+여전 소민은 “공개연애는 흑역사가 되+ㄹ 수도 있다 .	O O O O O O O O O
+냄 보 소 박유천 ♥ 신세경 , 스태프 들 도 숨죽인 키스 신 봤 더니 ' 알콩달콩 '	O O O PER-B O PER-B O O O O O O O O O O O O
+곡성 - 고흥 등 지역 관광 활성화	LOC-B O LOC-B O O O O
+직사광선 에 노출된 생수 는 온도 가 30 ~ 40 도 까지 올라간다 .	O O O O O O O O O O O O O O
+휠라 관계자 는 “ 스테파니 의 건강한 바디 라인 과 에너지 넘치 는 매력 이 휠라 핫써머 컬렉션 과 잘 어우러져 멋진 화보 가 나 왔 다 ” 며 “ 올 여름 스테파니 의 핫써머 룩 을 참고하 면 스타일 과 실용성 모두 를 만족할 수 있 을 것 ” 이라고 밝 혔 다 .	ORG-B O O O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+양 팀 은 올 시즌 다섯 번 의 맞대결 에서 우리은행 이 5 승 1 패 로 앞서 있 지만 , 최근 5 연승 을 거두 며 상승세 를 타 고 있 는 KB 스타즈 가 플레이오프 진출 마지막 티켓 을 두 고 동기 부여 가 큰 만큼 양 팀 의 사정 을 충분히 감안한 신중한 분석 이 필요하 다 .	O O O DAT-B DAT-I O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+연간 뿜어내 는 질소 산화물 도 화물차 ( 23 만 2970 t ) 가 버스 ( 3 만 6062 t ) 의 6.4 배 수준 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조지 W 부시 당시 미국 대통령 이 임기 마지막 해 인 2007 년 발표한 연두 교서 ( State of the Union ) 일부 다 .	PER-B PER-I PER-I O ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+” 글 = 임선영 기자 youngcan @ joongang . co . kr 사진 = 김경록 기자	O O O PER-B O O O O O O O O O O PER-B O
+이 어 두 셰프 가 공동 으로 작업한 마카롱 , 사블레 , 머랭쿠 키 , 초코 릿 등 4 종 의 프티 푸 ( 차 와 함께 즐기 는 작 은 케이크 나 쿠키 ) 가 갈 라 디너 의 여정 을 마무리 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소녀 시대 는 최종 합계 에서 가장 높 은 점수 를 얻 으며 트로피 의 주인공 이 됐 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+이날 써니 는 1 위 소감 을 전하 여 " 감사합니다 .	O PER-B O O O O O O O O O O
+분당서울대병원 의료진 은 급하 게 회의 를 열 어야 했 다 .	ORG-B O O O O O O O O O O O
+양훈 은 전날 열린 1 차 전 에 선발 투수 로 5 와 3 분 의 1 이닝 동안 1 실점 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+경과 에 따 라 3 차 수술 을 받 을 수 도 있 다 .	O O O O O O O O O O O O O O O
+또한 소극장 공연 으로 는 유례 없이 오픈 과 동시 에 인터파크 티켓 예매처 뮤지컬 중 예매 순위 1 위 를 차지하 는 기염 을 토 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공개 연애 에 대해 전소민 은 “ 공개 연애 는 흑 역사 가 될 수 도 있 다 .	O O O O PER-B O O O O O O O O O O O O O O

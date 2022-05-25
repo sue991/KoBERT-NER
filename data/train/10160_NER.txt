@@ -1,19 +1,19 @@
-이날 방송에서 유이는 “최정윤이 수시로 핸드폰을 가지고 다니며 남편과 문자와 전화를 하는데 애교가 엄청나다”며 “최정윤이 남편의 전화를 바꾸+어주+ㄴ적이 있었는데 전화를 받아도 아무 말이 없었다”고 말하였다 .	O O PER-B PER-B O O O O O O O O O O PER-B O O O O O O O O O O O
-이에 최정윤은 “남편이유이를 너무 좋아하기에 바꾸+어+주었더니 말 한마디 못하더라. 왜 말을 안+였느냐고 하니 10초 만에 유혹 하+여버리+ㄹ 것 같아서 그러었다더라”고 답하였다 .	O PER-B PER-B O O O O O O O O O O O O O O O O O O O
-이어 최정윤은 “남편이유이에게 뇌물을 주+어서라도 나오아 계속 친하게 지내게 하고 싶어 하+ㄴ다”고 덧붙이 어웃음을 자아내 +었다 .	O PER-B PER-B O O O O O O O O O O O O O O
-한편 최정윤은 29일 ‘해피투게더3’에 출연하+여 남편 윤태준에 대하+여 언급하+여화제를 모으았다 .	O PER-B O O O O PER-B O O O O
-김씨는 “엄연히 업무적이+ㄴ 자리 이+ㄴ데 마치 나를 기쁨 조취급하는 것 같아서 불쾌하었다”고 말하였다 .	PER-B O O O O O O O O O O O O O
-블로거 A씨 “홍콩 사진-신용카드 男강용석 맞다”… 거짓 해명이 유가 뭐 +이길래 ?‘관심↑’ [전문 .	O PER-B O O PER-B O O O O O O O O O
-조금 더 구체적으로 말하자면 구중궁궐 청와대에 앉아 ‘유체이탈 화법’을 늘어놓는 대신 TV에 나오아 이해당사자들과 밤새 끝장 토론하는 대통령을 보는 것이다 .	O O O O O ORG-B O O O O O O O O O O O O O O O
-박순호 세정그룹 회장은 불영사 일운주지스님이 선물 하+ㄴ 서예 작품 ‘일체 유심조’ 액자를 내놓았다 .	PER-B ORG-B O LOC-B PER-B O O O O O O O O O
-황선윤·위성욱·차상은 기자suyohwa@j oongang. co.kr◆2015위아자 부산 나눔장터 = 위아자는 위스타트·아름답ㄴ 가게·자원봉사 등 중앙일보·JTBC가 후원하는 사회공헌활동 세가지의 앞글자를 따+ㄴ 것이다 .	PER-B O O O O O O O O O O ORG-B O O O O O O O
-유로채권 발행이나 유럽연합(EU) 재무부 설립을 통하+ㄴ 진정 하+ㄴ 통화·경제통합이 필요하다 .	O O ORG-B O O O O O O O O
-”- 중국 경제는 어떻게 되+ㄹ까.“중국은 경제성장도 중요하지만 복지시스템 확충과 같은 국내 발전에 힘쓰며 내실을 다지+ㄹ 것으로 전망되+ㄴ다 .	O ORG-B O O ORG-B O O O O O O O O O O O O O
-질병관리본부와 경찰은 오전 6시경 이들이 묵었던 인근 숙소에서 A씨의 신병을 확보하+여 국립중앙의료원 격리병상으로의 이송을 준비 중이다 .	ORG-B O O O O O O O PER-B O O ORG-B O O O O O
-배우 김승현이 국정농단의 주범 최순실의 조카 장시호와의 인연을 털어놓+아눈길을 모으았다 .	O PER-B O O PER-B O PER-B O O O O
-김승현은 최근 MBN ‘아궁이 -2017 불륜시대’ 펴 +ㄴ 녹화 현장에서 장시호·김동성의 스캔들에 관하+여 이야기 나누던 중 “8년 전쯤 장시호를 지인에게 소개받은 적 있다”고 밝히+어주위를 깜짝 놀라게 +였다 .	PER-B O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O
-이어 “당시 장시호와 내가 비슷하+ㄴ 처지+이라 소개를 하+여주+시었던 것 같다”면서 “나+ㄴ 미혼부+이라 아이를 혼자 키우는 입장이었고, 그분은 이혼 후 아이를 혼자 키우고 있었다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O
-또한 '라스' 초아는 “한 달에 500만원을 벌었다 .	O O PER-B O O MNY-B O O
-여기서 좀 더 내려가면 서울숲길 탐험을 시작하였던 갈비골목이 나 오+ㄴ다 .	O O O O LOC-B O O LOC-B O O O
-행진은 오후 7시30분 청와대와 헌재 방면으로 두 차례에 걸치+어진행되었다 .	O O O ORG-B ORG-B O O O O O
-이날 상영장에 +ㄴ 17세의 나이에 메리디스 빅토리호에 오르 아남으로 내려오았다는 장송(82)씨도 있었다 .	O O O O O O O O LOC-B O PER-B O O
+이날 방송 에서 유이 는 “ 최정윤 이 수시로 핸드폰 을 가지 고 다니 며 남편 과 문자 와 전화 를 하 는데 애교 가 엄청나 다 ” 며 “ 최정윤 이 남편 의 전화 를 바꿔 준 적 이 있 었 는데 전화 를 받 아도 아무 말 이 없 었 다 ” 고 말 했 다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 최정윤 은 “ 남편 이 유이 를 너무 좋아하 기 에 바꿔 줬 더니 말 한마디 못하 더라 . 왜 말 을 안 했 느냐고 하 니 10 초 만 에 유혹해 버릴 거 같 아서 그 랬 다더라 ” 고 답 했 다 .	O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 최정윤 은 “ 남편 이 유이 에게 뇌물 을 줘서 라도 나 와 계속 친하 게 지내 게 하 고 싶 어 한다 ” 고 덧붙 여 웃음 을 자아냈 다 .	O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 최정윤 은 29 일 ‘ 해피투게더 3 ’ 에 출연해 남편 윤태준 에 대해 언급해 화제 를 모 았 다 .	O PER-B O DAT-B DAT-I O O O O O O O PER-B O O O O O O O O O
+김 씨 는 “ 엄연히 업무 적 인 자리 인데 마치 나 를 기쁨 조 취급하 는 것 같 아서 불쾌 했 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+블로거 A 씨 “ 홍콩 사진 - 신용카드 男 강용석 맞 다 ” … 거짓 해명 이유 가 뭐 길래 ? ‘ 관심 ↑ ’ [ 전문 ]	O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+조금 더 구체적 으로 말하 자면 구중궁궐 청와대 에 앉 아 ‘ 유체 이탈 화법 ’ 을 늘어놓 는 대신 TV 에 나 와 이해 당사자 들 과 밤새 끝장 토론하 는 대통령 을 보 는 것 이 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박순호 세정 그룹 회장 은 불영사 일운 주지 스님 이 선물한 서예 작품 ‘ 일체유심조 ’ 액자 를 내놓 았 다 .	PER-B ORG-B ORG-I O O LOC-B PER-B O O O O O O O O O O O O O O O
+황선윤 · 위성욱 · 차상은 기자 suyohwa @ joongang . co . kr ◆ 2015 위 아자 부산 나눔 장터 = 위아 자 는 위스 타트 · 아름다 운가 게 · 자원 봉사 등 중앙 일보 · JTBC 가 후원하 는 사회 공헌 활동 세 가지 의 앞 글자 를 딴 것 이 다 .	PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O
+유로 채권 발행 이나 유럽 연합 ( EU ) 재무부 설립 을 통한 진정한 통화 · 경제 통합 이 필요하 다 .	O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O
+” - 중국 경제 는 어떻 게 될까 . “ 중국 은 경제 성장 도 중요하 지만 복지 시스템 확충 과 같 은 국내 발전 에 힘쓰 며 내실 을 다질 것 으로 전망된다 .	O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+질병 관리 본부 와 경찰 은 오전 6 시 경 이 들 이 묵 었 던 인근 숙소 에서 A 씨 의 신병 을 확보해 국립중앙의료원 격리 병상 으로 의 이송 을 준비 중 이 다 .	ORG-B ORG-I ORG-I O O O TIM-B TIM-I TIM-I O O O O O O O O O O PER-B O O O O O ORG-B O O O O O O O O O O O
+배우 김승현 이 국정 농단 의 주범 최순실 의 조카 장시호 와 의 인연 을 털어놔 눈길 을 모 았 다 .	O PER-B O O O O O PER-B O O PER-B O O O O O O O O O O O
+김승현 은 최근 MBN ‘ 아궁이 - 2017 불륜 시대 ’ 편 녹화 현장 에서 장시호 · 김동성 의 스캔들 에 관해 이야기 나누 던 중 “ 8 년 전 쯤 장시호 를 지인 에게 소개 받 은 적 있 다 ” 고 밝혀 주위 를 깜짝 놀라 게 했 다 .	PER-B O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 당시 장시호 와 내 가 비슷한 처지 라 소개 를 해 주 셨 던 것 같 다 ” 면서 “ 난 미혼 부 라 아이 를 혼자 키우 는 입장 이 었 고 , 그 분 은 이혼 후 아이 를 혼자 키우 고 있 었 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 ' 라스 ' 초아 는 “ 한 달 에 500 만 원 을 벌 었 다 .	O O O O PER-B O O O O O MNY-B MNY-I MNY-I O O O O O
+여기 서 좀 더 내려가 면 서울 숲길 탐험 을 시작 했 던 갈비 골목 이 나온다 .	O O O O O O LOC-B LOC-I O O O O O LOC-B LOC-I O O O
+행진 은 오후 7 시 30 분 청와대 와 헌재 방면 으로 두 차례 에 걸쳐 진행 됐 다 .	O O TIM-B TIM-I TIM-I TIM-I TIM-I ORG-B O ORG-B O O O O O O O O O O
+이날 상영 장 엔 17 세 의 나이 에 메리디스 빅토리 호 에 올 라 남 으로 내려 왔 다는 장송 ( 82 ) 씨 도 있 었 다 .	O O O O O O O O O O O O O O O LOC-B O O O O PER-B O O O O O O O O O

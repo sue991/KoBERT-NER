@@ -1,14 +1,14 @@
-2012년 내무장관이던 나예프 빈 압둘아지즈 왕자를 향하+여 “벌레에 먹히+어죽을 것이고 무덤 속에서도 지옥의 고통을 맛보+ㄹ 것”이라고 +였다 .	O O PER-B PER-I PER-I O O O O O O O O O O O O O
-백종원, 정윤호, 조윤우가 출연하는 SBS플러스웹드라마 '당신을 주문하+ㅂ니다'의 대본 리딩 현장이 공개되+어 화제+이다 .	PER-B PER-B PER-B O O O O O O O O O O
-오승환은 지나 +ㄴ 4일 경찰 야구단과의 WBC 공식 평가전에 등판, 1이닝을 삼자범 퇴로 막았다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O
-그런 아내의 속마음을 알는 김 박사는 아내에 대하+ㄴ 애정을 숨김없이 드러내는 로맨티스트+이었다 .	O O O O PER-B O O O O PER-B O O O
-청와대의 침묵은 길어지+ㄹ 것으로 보이+ㄴ다 .	ORG-B O O O O O
-이재명 egija@donga. com·정성택기 .	PER-B O PER-B O
-첫 번째는 너+의 꿈을 펼치+어라(LiveYourD ream) 프로그램이다 .	O O O O O O O O
-국민권익위원회는 7일 “공익신고 대상 법률을 현행 180개에서 279개로 크게 늘리는 내용의 ‘공익신고자 보호법 개정안’이 국회 본회의를 통과하+ㅁ에 따르 아내년 1월부터 시행되 +ㄴ다”고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-[中 ‘남중국해 영유권’ 패소 .	ORG-B LOC-B O O O
-모택동은 중국이 타이완을 점령 하+ㄴ후에 남쪽에 대하+ㄴ 작전을 시작하면 북한을 충분히 돕ㄹ 수 있을 것으로 생각하+ㄴ다고 말하였다 .	PER-B ORG-B ORG-B O O O O O O ORG-B O O O O O O O O
-시신을 인도받은 후 북한이 김정남을 미국과 한국이 암살하였다고 또다시 주장하며 선전공세를 펴 +ㄹ 가능성도 제기하였다 .	O O O ORG-B PER-B ORG-B ORG-B O O O O O O O O O
-최지성 부회장 “송구”마지막 악 .	PER-B O O O O
-2017년 정유년(丁酉年)은 닭띠 해+이라니 새벽같이 일어나 +아뭐라도 한번 하+여보겠다는 결심자들이 꽤 있지 싶다 .	O O O O O O O O O O O O O O
-마니카르디 발사믹 식초는 모데나 지방의 전통 방식으로 제조하+여오랜 시간 여러 나무통을 거치며 자연스럽게 나무 향이 베어들어 독특하+ㄴ향과 풍미를 지니고 있다 .	O O O LOC-B O O O O O O O O O O O O O O O O O
+2012 년 내무 장관 이 던 나예프 빈 압둘아지즈 왕자 를 향해 “ 벌레 에 먹혀 죽 을 것 이 고 무덤 속 에서 도 지옥 의 고통 을 맛볼 것 ” 이라고 했 다 .	DAT-B DAT-I O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+백종원 , 정윤호 , 조윤우 가 출연하 는 SBS 플러스 웹 드라마 ' 당신 을 주문합니다 ' 의 대본 리딩 현장 이 공개돼 화제 다 .	PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+오승환 은 지난 4 일 경찰 야구단 과 의 WBC 공식 평가전 에 등판 , 1 이닝 을 삼자범퇴 로 막 았 다 .	PER-B O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O
+그런 아내 의 속마음 을 아 는 김 박사 는 아내 에 대한 애정 을 숨김없이 드러내 는 로맨티스트 였 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O
+청와대 의 침묵 은 길 어 질 것 으로 보인다 .	ORG-B O O O O O O O O O O
+이재명 egija @ donga . com · 정성택 기자	PER-B O O O O O O PER-B O
+첫 번째 는 네 꿈 을 펼쳐라 ( Live Your Dream ) 프로그램 이 다 .	O O O O O O O O O O O O O O O O
+국민 권익 위원회 는 7 일 “ 공익 신고 대상 법률 을 현행 180 개 에서 279 개 로 크 게 늘리 는 내용 의 ‘ 공익 신고자 보호 법 개정안 ’ 이 국회 본회의 를 통과함 에 따 라 내년 1 월 부터 시행된다 ” 고 밝 혔 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+[ 中 ‘ 남중국해 영유 권 ’ 패소 ]	O ORG-B O LOC-B O O O O O
+모택동 은 중국 이 타이완 을 점령한 후 에 남쪽 에 대한 작전 을 시작하 면 북한 을 충분히 도 울 수 있 을 것 으로 생각한다고 말 했 다 .	PER-B O ORG-B O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+시신 을 인도 받 은 후 북한 이 김정남 을 미국 과 한국 이 암살 했 다고 또다시 주장하 며 선전 공세 를 펼 가능성 도 제기 했 다 .	O O O O O O ORG-B O PER-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+최지성 부회장 “ 송구 ” 마지막 악수	PER-B O O O O O O
+2017 년 정유 년 ( 丁酉年 ) 은 닭띠 해 라니 새벽 같이 일어나 뭐 라도 한 번 해 보 겠 다는 결심 자 들 이 꽤 있 지 싶 다 .	DAT-B DAT-I DAT-B DAT-I O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+마니 카르 디 발사 믹 식초 는 모데나 지방 의 전통 방식 으로 제조해 오랜 시간 여러 나무통 을 거치 며 자연스럽 게 나무 향 이 베 어 들 어 독특한 향 과 풍미 를 지니 고 있 다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

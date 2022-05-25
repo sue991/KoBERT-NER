@@ -1,17 +1,17 @@
-박 대통령은 “대화를 위하+여 +었던 돈이 핵개발 자금이 +었고, 협상하겠다고 시간을 보내는 동안 북한은 핵 능력을 고도화하였다”고 지적하였다 .	PER-B O O O O O O O O O O O O ORG-B O O O O O
-김대중 정부가 2000년 남북정상회담 당시 비밀리에 북한에 4억5000만달러를 전달하+ㄴ ‘대북송금 사건’을 가리키+ㄴ 발언이었다 .	PER-B O O O O O ORG-B MNY-B O O O O O O
-환경운동연합(공동대표장을 병 박경리 이세중)이 29일 오전 폐수정화 실사를 벌이+ㄴ 현장이다 .	ORG-B O PER-B PER-B O O O O O O O
-AFC 셰이크 살만빈이브라힘 알칼리파 회장은 이미 미셸 플라티니 유럽 축구연맹(UEFA) 회장에 대하+ㄴ 지지를 표명 하+ㄴ 상태+이다”라고 말하였다 .	ORG-B PER-B PER-I PER-I O O PER-B PER-I O ORG-B O O O O O O O O
-김정은은 작년 12월 10일 “수소탄의 거대 하+ㄴ 폭풍을 울리+ㄹ 수 있는 강대하+ㄴ 핵보유국으로 되+ㄹ 수 있었다”고 수소탄 핵실험의 운을 떼+었다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-소프트웨어 플랫폼의 대표주자 이+ㄴ 구글과 페이스북은 VR 생태계 확장을 위하+여투자를 확대하고 있으며, 무엇보다 플랫폼 선점을 위하+ 여 경쟁 중이다 .	O O O O ORG-B ORG-B O O O O O O O O O O O O O O
-유창하 +ㄴ한국말을 구사하는 그는 KPMG 대회의 코스를 분석하+ㄹ 때는 ‘우라가 심하다(일본어로 방향성이 좋지 않다는 의미. 국내 주말 골퍼들이 자주 쓰는 단어)’ +이라는 표현까지 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-30개국의 행복도 조사를 그 나라의 1인당 국민총생산(GNP)과 비교하였더니 관련성을 찾을 수 없었다는 것이다 .	O O O O O O O O O O O O O O
-대타정병곤 한방, 사자군단한 숨 돌리었지만  .	PER-B O ORG-B O O O O
-6공 후반 안기부장 출신의 B씨는 『김정일이 자신의 기반이 다지+어지었다고 판단되면 자신의 대내외 정책 노선을 분명히 하+ㄹ 것이고, 그 같은 정책 노선의 선택을 두고 내분이 본격화되 +ㄹ 것』이라고 내다보았다 .	O O O O PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O
-시작 전액 땜이+ㄴ가… '밤을 걷는 선비' 촬영 중 이준기·이유비 부 .	O O PER-B O O O O O PER-B O O
-EF 국제사립학교 뉴욕캠퍼스 교장선생님 방한 ‘특별 하+ㄴ’ 설명 .	O O LOC-B O O O O O O
-양복과 와이셔츠, 바지 등의 심판복, 신발, 양발 6~7켤레 등도 지급되+ㄴ다 .	O O O O O O O O O O O
-스웨덴 국기를 상징하는 로고색깔은 물론, 북유럽 언어를 그대로 사용 하+ㄴ 제품명이 대표적 이+ㄴ 예+이다 .	ORG-B O O O O O O O O O O O O O O
-대량생산을 기반으로 하는 이케아 모델은 가격 경쟁력도 뛰어나다 .	O O O ORG-B O O O O O
-한 가지 제품을 대량으로 제조하+여 공급업체에 지급하는 단가를 낮게 유지하고, 소비자가도 낮추+ㄴ다 .	O O O O O O O O O O O O O
-첸젠 전 차관보는 “연내 열리는 한·중·일 3국 정상회의에서 한·중·일 FTA 협정을 조속히 체결하+ㄹ 수 있도록 노력 하+여야 하+ㄴ다”며 “TPP와 RCEP가 상호 보완 작용을 하+여 지역 경제화의 일체화를 이루+ㄹ 수 있어야 하+ㄴ다”고 말하였다 .	PER-B O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+박 대통령 은 “ 대화 를 위해 줬 던 돈 이 핵 개발 자금 이 됐 고 , 협상하 겠 다 고 시간 을 보내 는 동안 북한 은 핵 능력 을 고도화 했 다 ” 고 지적 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+김대중 정부 가 2000 년 남북 정상 회담 당시 비밀리 에 북한 에 4 억 5000 만 달러 를 전달한 ‘ 대북 송금 사건 ’ 을 가리킨 발언 이 었 다 .	PER-B O O DAT-B DAT-I O O O O O O ORG-B O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O
+환경 운동 연합 ( 공동 대표 장을병 박경리 이세중 ) 이 29 일 오전 폐수 정화 실사 를 벌인 현장 이 다 .	ORG-B ORG-I ORG-I O O O PER-B PER-B PER-B O O DAT-B DAT-I O O O O O O O O O O
+AFC 셰이크 살만 빈 이브라힘 알 칼리파 회장 은 이미 미셸 플라티니 유럽축구연맹 ( UEFA ) 회장 에 대한 지지 를 표명한 상태 다 ” 라고 말 했 다 .	ORG-B PER-B PER-I PER-I PER-I PER-I PER-I O O O PER-B PER-I ORG-B O ORG-B O O O O O O O O O O O O O O O
+김정은 은 작년 12 월 10 일 “ 수소탄 의 거대한 폭풍 을 울릴 수 있 는 강대한 핵보유국 으로 될 수 있 었 다 ” 고 수소탄 핵 실험 의 운 을 뗐 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소프트웨어 플랫폼 의 대표 주자 인 구글 과 페이스북 은 VR 생태계 확장 을 위해 투자 를 확대하 고 있 으며 , 무엇 보다 플랫폼 선점 을 위해 경쟁 중 이 다 .	O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+유창한 한국말 을 구사하 는 그 는 KPMG 대회 의 코스 를 분석할 때 는 ‘ 우라가 심하 다 ( 일본어 로 방향성 이 좋 지 않 다는 의미 . 국내 주말 골퍼 들 이 자주 쓰 는 단어 ) ’ 라는 표현 까지 썼 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+30 개국 의 행복 도 조사 를 그 나라 의 1 인 당 국민 총 생산 ( GNP ) 과 비교 했 더니 관련성 을 찾 을 수 없 었 다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대타 정병곤 한 방 , 사자 군단 한숨 돌 렸 지만 …	O PER-B O O O ORG-B ORG-I O O O O O
+6 공 후반 안기부 장 출신 의 B 씨 는 『 김정일 이 자신 의 기반 이 다 져 졌 다고 판단되 면 자신 의 대내외 정책 노선 을 분명히 할 것 이 고 , 그 같 은 정책 노선 의 선택 을 두 고 내분 이 본격화될 것 』 이라고 내다 봤 다 .	O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시작 전 액땜 인가 … ' 밤 을 걷 는 선비 ' 촬영 중 이준기 · 이 유비 부상	O O O O O O O O O O O O O O PER-B O PER-B PER-I O
+EF 국제 사립학교 뉴욕 캠퍼스 교장 선생님 방한 ‘ 특별한 ’ 설명 회	O O O LOC-B O O O O O O O O O
+양복 과 와이셔츠 , 바지 등 의 심판 복 , 신발 , 양발 6 ~ 7 켤레 등 도 지급된다 .	O O O O O O O O O O O O O O O O O O O O O
+스웨덴 국기 를 상징하 는 로고 색깔 은 물론 , 북유럽 언어 를 그대로 사용한 제품 명 이 대표적 인 예 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+대량 생산 을 기반 으로 하 는 이케아 모델 은 가격 경쟁력 도 뛰어나 다 .	O O O O O O O ORG-B O O O O O O O O
+한 가지 제품 을 대량 으로 제조해 공급 업체 에 지급하 는 단가 를 낮 게 유지하 고 , 소비자 가 도 낮춘다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+첸 젠 전 차관보 는 “ 연내 열리 는 한 · 중 · 일 3 국 정상 회의 에서 한 · 중 · 일 FTA 협정 을 조속히 체결할 수 있 도록 노력해야 한다 ” 며 “ TPP 와 RCEP 가 상호 보완 작용 을 해 지역 경제 화 의 일체화 를 이룰 수 있 어야 한다 ” 고 말 했 다 .	PER-B PER-I O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

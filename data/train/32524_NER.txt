@@ -1,11 +1,11 @@
-‘아빠를 부탁하+여강다은’ ‘아빠를 부탁하+여’ 강다은이시우민에 대하+ㄴ애정을 드러내 +었다 .	O PER-B O O PER-B O O O O
-지나+ㄴ 5일 방송되+ㄴ SBS ‘아빠를 부탁하+여’에서는 제주도 여행을 떠나 +ㄴ너+의 부녀의 모습이 그리 +어+지었다 .	O O O ORG-B O O LOC-B O O O O O O O O
-그래서 두세대가 충돌하는 것+ㄹ보+ㄹ 때는 아픔을 느끼+ㄴ다”고 말하였다 .	O O O O O O O O O
-당시 보충역 복무기간은 1년이었다 .	O O O O O
-마테시츠는 오스트리아 빈 경제경영대학에서 마케팅을 전공하였다 .	PER-B LOC-B LOC-I LOC-I O O O
-박봄 “친하+ㄴ 연예인 없어, 우리 멤버들 하나에 미치+어 있는 괴짜들이라…” 눈물 ‘왈칵’ 그룹 투애니원(2NE1)의 멤버 박봄이 화제이+ㄴ 가운데, 그의 과거 발언이 재조명 +었다 .	PER-B O O O O O O O O O O O O ORG-B O PER-B O O O O O O O O
-박봄은 과거 SBS ‘일요일이 좋다-룸메이트’에서 “친하+ㄴ 연예인이 있느냐”는 질문을 받았다 .	PER-B O ORG-B O O O O O O O O
-박봄은 “정말 없다 .	PER-B O O O
-시청자들을 추리 삼매경에 푹 빠지게 만들 +ㄹ 권상우와 최강희의 유쾌하면서도 치명적 이+ㄴ이 중매력을 기대하+여달라”고 당부하였다 .	O O O O O O O PER-B PER-B O O O O O O O
-한편 ‘추리의 여왕’은 ‘김 과장’ 후속으로 오는 4월 5일 밤 10시 첫 방송되+ㄴ다 .	O O O O O O O O O O O O O O
-최씨는 “미르재단에는 차씨 사람만 있고 저+의 사람은 하나도 없는데 어떻게 돈을 빼돌리려 +였다는 것이 +ㄴ 지 억울하다”고 말하였다 .	PER-B ORG-B PER-B O O O O O O O O O O O O O O O O
+‘ 아빠 를 부탁해 강다 은 ’ ‘ 아빠 를 부탁해 ’ 강 다은이 시우 민 에 대한 애정 을 드러냈 다 .	O O O O PER-B PER-I O O O O O O PER-B O PER-B PER-I O O O O O O O
+지난 5 일 방송된 SBS ‘ 아빠 를 부탁해 ’ 에서 는 제주도 여행 을 떠난 네 부녀 의 모습 이 그려 졌 다 .	O DAT-B DAT-I O ORG-B O O O O O O O LOC-B O O O O O O O O O O O O
+그래서 두 세대 가 충돌하 는 걸 볼 때 는 아픔 을 느낀다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O
+당시 보충역 복무 기간 은 1 년 이 었 다 .	O O O O O O O O O O O
+마테 시츠 는 오스트리아 빈 경제 경영 대학 에서 마케팅 을 전공 했 다 .	PER-B PER-I O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O
+박봄 “ 친한 연예인 없 어 , 우리 멤버 들 하나 에 미쳐 있 는 괴짜 들 이 라 … ” 눈물 ‘ 왈칵 ’ 그룹 투 애니원 ( 2 NE 1 ) 의 멤버 박봄 이 화제 인 가운데 , 그 의 과거 발언 이 재조명 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O PER-B O O O O O O O O O O O O O O
+박봄 은 과거 SBS ‘ 일요일 이 좋 다 - 룸메이트 ’ 에서 “ 친한 연예인 이 있 느냐 ” 는 질문 을 받 았 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+박봄 은 “ 정말 없 다 .	PER-B O O O O O O
+시청자 들 을 추리 삼매경 에 푹 빠지 게 만들 권상우 와 최강희 의 유쾌하 면서 도 치명적 인 이중 매력 을 기대해 달 라 ” 고 당부 했 다 .	O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O
+한편 ‘ 추리 의 여왕 ’ 은 ‘ 김 과장 ’ 후속 으로 오 는 4 월 5 일 밤 10 시 첫 방송된다 .	O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I O O O
+최 씨 는 “ 미르 재단 에 는 차 씨 사람 만 있 고 제 사람 은 하나 도 없 는데 어떻 게 돈 을 빼돌리 려 했 다는 것 인지 억울하 다 ” 고 말 했 다 .	PER-B O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-1946년부터 매년 열리는 이 축제를 국내 기업이 후원하+ㄴ 것은 이번이 처음이다 .	O O O O O O O O O O O O
-최근 10년간 국내 상장사의 외국인 지분 평균은 27% 수준.삼성전자처럼 투자가치가 상대적으로 높은 10대 그룹 계열 상장사는 평균 35% 선을 오르내 리+ㄴ다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O
-브라질 세아라 주에 있고 연산 300만t 규모+이다 .	LOC-B LOC-B LOC-I O O O O O
-이번 행사에는 강창희 트러스톤자산운용연금포럼 대표가 저성장, 고령화 시대의 자녀 리스크 관리를 주제로 강연하+ㄴ다 .	O O PER-B ORG-B O O O O O O O O O O
-가장 많은 사고가 일어나 +ㄴ시도는 경기와 강원지역으로 각각 15명의 사망자가 발생하였다 .	O O O O O LOC-B LOC-B O O O O O
-반 전 총장은 이날 경기 평택시 해군2함대사령부 천안함 기념관을 방문하+ㄴ 뒤기자들과 만나 +아“한반도 현실이 거의 준전시(準戰時) 상태 같은 상황이기 때문에 정부가 (사드 배치 결정) 조치를 취하+ㄴ 것은 마땅하다”며 “안보에 관하+여서는 국민이 한마음 한 뜻으로 정부를 지지하+ 여야 하+ㄴ다”라고 말하였다 .	PER-B O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-우리(KLPGA투어)와는 전혀 다르+ㄴ 분위기+이지만 너무 재미있었다”고 즐거워하였다 .	O O O O O O O O
-충북도 쏘가리 양식에잇어 황쏘가리 대량생산 나+아 .	LOC-B O O O O O O
-그는 “진화론을 대중에게 쉽게 전달하고 싶었다”며 “고환 크기는 환경에 따르 아종별로 다르게 진화하였다는 가장 흥미롭 ㄴ 증거 중 하나”라고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O
-편지에 적히 +어 있는 글이 100퍼센트 진실이라고 하+ㄹ 수 없다는 점이 결정적 미스리딩을 유발하며, 작품의 묘미를 만들어내었다 .	O O O O O O O O O O O O O O O O O O
-장세규 KCNK 대표는 “영화 국제시장을 보+ㄴ 뒤 한국전 참전 노병들에게 감사를 표하며 한인 2세들에게 +ㄴ한미동맹의 중요성을 알리+어야 +하겠다고 생각하였다”고 밝히었다 .	PER-B ORG-B O O O O O O O O O O O O ORG-B O O O O O O
-연 교수는 “개인마다 지니+ㄴ 성향이 다르아 같은 유형이라도 해석이 다르고 조언이 필요하+ㄴ데 결과만 일방적으로 전달받는 경우 오해를 낳을 수 있으니 주의 하+여야 하+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+1946 년 부터 매년 열리 는 이 축제 를 국내 기업 이 후원한 것 은 이번 이 처음 이 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+최근 10 년 간 국내 상장 사 의 외국인 지분 평균 은 27 % 수준 . 삼성전자 처럼 투자 가치 가 상대적 으로 높 은 10 대 그룹 계열 상장 사 는 평균 35 % 선 을 오르내린다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+브라질 세아라 주 에 있 고 연산 300 만 t 규모 다 .	LOC-B LOC-B LOC-I O O O O O O O O O O
+이번 행사 에 는 강창희 트러스 톤 자산 운용 연금 포럼 대표 가 저성장 , 고령화 시대 의 자녀 리스크 관리 를 주제 로 강연한다 .	O O O O PER-B ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O
+가장 많 은 사고 가 일어난 시도 는 경기 와 강원 지역 으로 각각 15 명 의 사망자 가 발생 했 다 .	O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O
+반 전 총장 은 이날 경기 평택시 해군 2 함대 사령부 천안함 기념관 을 방문한 뒤 기자 들 과 만나 “ 한반도 현실 이 거의 준 전시 ( 準戰時 ) 상태 같 은 상황 이 기 때문 에 정부 가 ( 사드 배치 결정 ) 조치 를 취한 것 은 마땅하 다 ” 며 “ 안보 에 관해서 는 국민 이 한마음 한뜻 으로 정부 를 지지해야 한다 ” 라고 말 했 다 .	PER-B O O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-B LOC-I O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리 ( KLPGA 투어 ) 와 는 전혀 다른 분위기 지만 너무 재미있 었 다 ” 고 즐거워 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+충북 도 쏘가리 양식 에 이 어 황쏘가리 대량 생산 나서	LOC-B O O O O O O O O O O
+그 는 “ 진화론 을 대중 에게 쉽 게 전달하 고 싶 었 다 ” 며 “ 고환 크기 는 환경 에 따 라 종별 로 다르 게 진화 했 다는 가장 흥미로 운 증거 중 하나 ” 라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+편지 에 적혀 있 는 글 이 100 퍼센트 진실 이 라고 할 수 없 다는 점 이 결정적 미스 리딩 을 유발하 며 , 작품 의 묘미 를 만들 어 내 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장세규 KCNK 대표 는 “ 영화 국제 시장 을 본 뒤 한국 전 참전 노병 들 에게 감사 를 표하 며 한인 2 세 들 에겐 한미 동맹 의 중요성 을 알려야 겠 다고 생각 했 다 ” 고 밝 혔 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+연 교수 는 “ 개인 마다 지닌 성향 이 달 라 같 은 유형 이라도 해석 이 다르 고 조언 이 필요한데 결과 만 일방적 으로 전달 받 는 경우 오해 를 낳 을 수 있 으니 주의해야 한다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

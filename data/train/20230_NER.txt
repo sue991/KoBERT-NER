@@ -1,12 +1,12 @@
-영국 패션 브랜드 올세인츠는 6년 전 심각하+ㄴ위기에 빠지었다 .	ORG-B O O ORG-B O O O O O
-모든 상품의 수익률을 가중 평균해 산출하+ㄴ올 상반기 주요 은행의 퇴직연금 수익률에서 +ㄴ NH농협은행이 1.68%로 1위를 차지하였다 .	O O O O O O O O O O O O ORG-B O O O O
-창작모던 발레 ‘레이지’(RAGE·6월5∼6일·서울 LG아트센터), 야외공연 ‘한여름 밤의 꿈’(8월6일·대전예술의전당), 서울발레시어터의 대표 레퍼토리를 모으+ㄴ ‘모던가르 아&비잉’(BEING·10월22∼23일·서울예술의전당), 스위스 바젤 발레단과 합작하+ㄴ ‘무브스’(MOVES·10월 1∼2일·서울국립극장) 등이다 .	O O LOC-B LOC-B O O O O LOC-B O O O O LOC-B ORG-B ORG-I ORG-I O O LOC-B O O
-2층에서는 반도체의 미래 기술이 개인과 사회, 지구에 미치는 영향을 애니메이션으로 구성하+ㄴ 영상을 보+ㄹ 수 있으며, 건강·쇼핑·교육 등의 분야별 솔루션도 직접 체험 하+여보+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-한편 ‘걸스피릿’은 인지도가 낮은 아이돌 그룹의 ‘노바디 보컬’로 불리는 멤버들이 출연하+ 여경연을 펼치는 프로그램으로, 매주 화요일 오후 10시50분 JTBC에서 방송되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O
-설현, 도난 사고 잇따르는 통신사 광고판넬과 나란히 서+ㄴ 모습 보니 … ‘어떤 것+이 실물이야? .	PER-B O O O O O O O O O O O O O O
-4일 한국은행에 따르면 8월 상품수지, 서비스수지 등을 합산하 +ㄴ경상수지는 55억1000만달러 흑자로 집계되었다 .	O ORG-B O O O O O O O MNY-B O O O
-특히 84㎡는 주부의 동선을 배려하+ㄴ ‘ㄷ’ 자형 구조로 조성되며, 측면 발코니와 알파룸 설계로 다양하+ㄴ 공간 활용이 가능하다 .	O O O O O O O O O O O O O O O O O O
-문의 031-221-4700 온라인 뉴스 .	O O O O O
-1루수비에 의문부호가 +었지만 결과는 대성공이었다 .	O O O O O O
-삼성은 박한이~배영섭~박해민 등 외야자원도 풍부하+ㄴ편이다 .	ORG-B PER-B O O O O
-강동경희대병원 소아청소년과정성훈 교수는 “감염병을 일으키는 원인이 세균이냐 바이러스+이냐에 따르 아증상이 다른 경우도 있다”고 말하였다 .	ORG-B ORG-I O O O O O O O O O O O O O
+영국 패션 브랜드 올 세인츠 는 6 년 전 심각한 위기 에 빠 졌 다 .	ORG-B O O ORG-B ORG-I O O O O O O O O O O O
+모든 상품 의 수익률 을 가중평균 해 산출한 올 상반기 주요 은행 의 퇴직 연금 수익률 에선 NH 농협은행 이 1.68 % 로 1 위 를 차지 했 다 .	O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+창작 모던 발레 ‘ 레이지 ’ ( RAGE · 6 월 5 ∼ 6 일 · 서울 LG 아트 센터 ) , 야외 공연 ‘ 한여름 밤 의 꿈 ’ ( 8 월 6 일 · 대전 예술의전당 ) , 서울발레시어터 의 대표 레퍼토리 를 모은 ‘ 모던 갈 라 & 비잉 ’ ( BEING · 10 월 22 ∼ 23 일 · 서울 예술의전당 ) , 스위스 바젤 발레 단 과 합작한 ‘ 무브스 ’ ( MOVES · 10 월 1 ∼ 2 일 · 서울 국립 극장 ) 등 이 다 .	O O O O O O O O O O O O O O O O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O
+2 층 에서 는 반도체 의 미래 기술 이 개인 과 사회 , 지구 에 미치 는 영향 을 애니메이션 으로 구성한 영상 을 볼 수 있 으며 , 건강 · 쇼핑 · 교육 등 의 분야 별 솔루션 도 직접 체험해 볼 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 ‘ 걸스피릿 ’ 은 인지도 가 낮 은 아이돌 그룹 의 ‘ 노바디 보컬 ’ 로 불리 는 멤버 들 이 출연해 경연 을 펼치 는 프로그램 으로 , 매주 화요일 오후 10 시 50 분 JTBC 에서 방송된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B TIM-B TIM-I TIM-I TIM-I TIM-I O O O O
+설현 , 도난 사고 잇따르 는 통신 사 광고 판넬 과 나란히 선 모습 보 니 … ‘ 어떤 게 실물 이 야 ? ’	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+4 일 한국은행 에 따르 면 8 월 상품 수지 , 서비스 수지 등 을 합산한 경상 수지 는 55 억 1000 만 달러 흑자 로 집계 됐 다 .	DAT-B DAT-I ORG-B O O O DAT-B DAT-I O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O
+특히 84 ㎡ 는 주부 의 동선 을 배려한 ‘ ㄷ ’ 자형 구조 로 조성되 며 , 측면 발코니 와 알파 룸 설계 로 다양한 공간 활용 이 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문의 031 - 221 - 4700 온라인 뉴스 팀	O O O O O O O O O
+1 루 수비 에 의문 부호 가 컸 지만 결과 는 대성공 이 었 다 .	O O O O O O O O O O O O O O O O
+삼성 은 박한이 ~ 배영섭 ~ 박해민 등 외야 자원 도 풍부한 편 이 다 .	ORG-B O PER-B O PER-B O PER-B O O O O O O O O O
+강동경희대병원 소아 청소년 과 정성훈 교수 는 “ 감염 병 을 일으키 는 원인 이 세균 이 냐 바이러스 냐 에 따 라 증상 이 다른 경우 도 있 다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

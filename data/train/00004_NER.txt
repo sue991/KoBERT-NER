@@ -1,15 +1,15 @@
-같은 수용소에 수용되었던 안네 프랑크도 한방에 있던 언니 마르고트가 발진 티푸스로 죽자, 바로 그날부터 시름시름 앓다 그 길로 죽어 +가았던 것이다 .	O O O PER-B PER-I O O O PER-B O O O O O O O O O O O O O
-강서구에 살며 전 재산을 기부하+ㄴ 일본군 ‘위안부’ 피해자 고(故) 황금자 할머니의 입상이 함께 건립되는 것+이 특징이다 .	LOC-B O O O O ORG-B O O O PER-B O O O O O O O
-경남기업과 석유공사가 정부에서 받은 전체 성공불융자금은 러시아 캄차카반도와 미국 멕시코만 심하+여, 아제르바이잔, 카자흐스탄 유전 등을 포함하+여 총 3162만1000달러(약 356억원)에 달하+ㄴ다 .	ORG-B ORG-B O O O O LOC-B LOC-I LOC-B LOC-I O LOC-B LOC-B O O O O MNY-B MNY-B O O
-북한 6차 핵실험 임박?… 사용 안 하+ㄴ 3번 갱도에 위장막 설 .	ORG-B O O O O O O O O O O O
-법무부 국감 김무성 ‘사위 마약’ 봐주기 의혹?與野 공방 ‘시끌’… PGS 형량 기준 확인? 새누리당 김무성 대표사위의 마약 투여 혐의에 대하+ㄴ 검찰의 봐주기 의혹이 제기되었다 .	ORG-B O PER-B O O O O O O O O O O ORG-B PER-B O O O O O O O O O O
-사라예보 여인이스라엘 정 .	LOC-B ORG-B O O
-― 이제 바둑팬들의 관심은 한마디로 『조훈현과 이창호 중과연 누구가 더세냐 』에 모으아지는 것 같습니다 .	O O O O O PER-B PER-B O O O O O O O O
-메이저리그 아시아 내야수 최다 홈런(21홈런) 기록도 강정호(29·피츠버그)를 만족시키지는 못하였다 .	ORG-B LOC-B O O O O ORG-B O O O
-친박단체의 시위를 막으려면, ‘삼릉초교 주변 거주자’가 필요하다는 것.이석현 의원은 14일 자신의 트위터에 “긴급 호소” +이라는 글과 한 장의 사진을 게재하였다 .	O O O LOC-B O O O PER-B O O O O O O O O O O O O O
-세계에서 가장 강력 하+ㄴ 미사일이+ㄴ「새턴 5」도 단지 1백35t의 탄두밖에 쏘아 보내지 못하+ㄴ다 .	O O O O O O O O O O O O O
-2014 인천 아시안게임에서 은메달 4개·동메달 6개를 수확하였지만, 1978 방콕 아시안게임 이후 36년 만에 노골드를 기록하며 아쉬움을 남기었다 .	O O O O O O O O O O O O O O O O O O
-지나+ㄴ 14일 방송되+ㄴ KBS2TV '불후의 명곡' 왕중왕전에서는 '쇼쇼쇼, 별들의 귀환' 2편이 꾸미+어+지었다 .	O O O O O O O O O O O O O
-특히 엔화 대비 원화 환율은 7년 1개월여 만에 가장 낮은 수준으로 떨어지었다 .	O O O O O O O O O O O O O
-환경처가 환경오염과 관련 특정 업소를 지정 하+여 특별관리하기는 이번이 처음이다 .	ORG-B ORG-B O O O O O O O O O
-모넬 놓치었지만 활짝 웃는 NC그러나 kt는 외국인 타자 부분에서는 ‘승자의 저주’를 마주하고 있다 .	O O O O ORG-B ORG-B O O O O O O O O
+같 은 수용소 에 수용되 었 던 안네 프랑크 도 한방 에 있 던 언니 마르 고트 가 발진티푸스 로 죽 자 , 바로 그 날 부터 시름시름 앓 다 그길로 죽 어 갔 던 것 이 다 .	O O O O O O O PER-B PER-I O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+강서구 에 살 며 전 재산 을 기부한 일본 군 ‘ 위안부 ’ 피해자 고 ( 故 ) 황금자 할머니 의 입상 이 함께 건립되 는 게 특징 이 다 .	LOC-B O O O O O O O ORG-B ORG-I O O O O O O O O PER-B O O O O O O O O O O O O
+경남기업 과 석유 공사 가 정부 에서 받 은 전체 성공 불 융자금 은 러시아 캄차카 반도 와 미국 멕시코 만 심해 , 아제르바이잔 , 카자흐스탄 유전 등 을 포함해 총 3162 만 1000 달러 ( 약 356 억 원 ) 에 달한다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O O LOC-B O LOC-B O O O O O MNY-B MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O
+북한 6 차 핵 실험 임박 ? … 사용 안 한 3 번 갱도 에 위장막 설치	ORG-B O O O O O O O O O O O O O O O O
+법무부 국감 김무성 ‘ 사위 마약 ’ 봐주 기 의혹 ? 與野 공방 ‘ 시 끌 ’ … PGS 형량 기준 확인 ? 새누리당 김무성 대표 사위 의 마약 투여 혐의 에 대한 검찰 의 봐주 기 의혹 이 제기 됐 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O
+사라예보 여인 이스라엘 정착	LOC-B O ORG-B O
+― 이제 바둑 팬 들 의 관심 은 한마디 로 『 조훈현 과 이창호 중 과연 누 가 더 세 냐 』 에 모 아 지 는 것 같 습니다 .	O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+메이저리그 아시아 내야수 최다 홈런 ( 21 홈런 ) 기록 도 강정호 ( 29 · 피츠버그 ) 를 만족 시키 지 는 못 했 다 .	ORG-B LOC-B O O O O O O O O O PER-B O O O ORG-B O O O O O O O O O O
+친 박 단체 의 시위 를 막 으려면 , ‘ 삼릉초 교 주변 거주자 ’ 가 필요하 다는 것 . 이석현 의원 은 14 일 자신 의 트위터 에 “ 긴급 호소 ” 라는 글 과 한 장 의 사진 을 게재 했 다 .	O O O O O O O O O O LOC-B LOC-I O O O O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+세계 에서 가장 강력한 미사일 인 「 새턴 5 」 도 단지 1 백 35 t 의 탄두 밖에 쏘 아 보내 지 못한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+2014 인천 아시안게임 에서 은메달 4 개 · 동메달 6 개 를 수확 했 지만 , 1978 방콕 아시안 게임 이후 36 년 만 에 노골드 를 기록하 며 아쉬움 을 남 겼 다 .	DAT-B O O O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O
+지난 14 일 방송된 KBS 2 TV ' 불후 의 명곡 ' 왕중왕 전 에서 는 ' 쇼쇼쇼 , 별 들 의 귀환 ' 2 편 이 꾸며 졌 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 엔 화 대비 원화 환율 은 7 년 1 개월 여 만 에 가장 낮 은 수준 으로 떨어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+환경 처 가 환경오염 과 관련 특정 업소 를 지정해 특별 관리하 기 는 이번 이 처음 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+모넬 놓 쳤 지만 활짝 웃 는 NC 그러나 kt 는 외국인 타자 부분 에서 는 ‘ 승자 의 저주 ’ 를 마주하 고 있 다 .	O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O

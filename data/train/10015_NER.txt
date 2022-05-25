@@ -1,14 +1,14 @@
-섣부르+ㄴ 정치파업으로 조선업체의 ‘버티기’를 흔들는 것은 중국이나 일본 등 경쟁국 조선업체들만이롭게 하+ㄹ 뿐이다 .	O O O O O O ORG-B ORG-B O O O O O O
-박유천 고소女 ‘무고·공갈미수’ 혐의로 구속 기 .	PER-B O O O O O O
-시대상 1억원 손배 .	O MNY-B O O
-제목은 ‘대위법 80년대’ 혹은 ‘푸가 1980’ 등을 고려하고 있다 .	O O O O O O O O O O
-이에 민주당의 비문(非문재인)계와 지지율이 주춤하고 있는 바른정당 등의 연대 논의가 오가+ㄹ 것으로 보이+ㄴ다 .	O ORG-B PER-B O O O ORG-B O O O O O O O
-산업연구원은 6월 ‘제조 강국으로 도약하는 중국’ 보고서에서 “양국의 산업 발전 방향이 거의 일치 하+ㄴ다”고 분석하였다 .	O O O O O ORG-B O O O O O O O O O O
-LH, 입주단지 승강기 대상 정밀점검 실 .	ORG-B O O O O O O
-미국은 유럽의 다른 국가에도 불법 거래를 문제 삼아 칼을 겨누고 있어 확전 가능성을 배제하+ㄹ 수 없는 상황이다 .	ORG-B LOC-B O O O O O O O O O O O O O O O O
-현지 교민 650여명과 여행 중 이+ㄴ 한국인 보호에도 차질이 없도록 하+여야 하+ㄹ 것이다 .	O O O O O O O O O O O O O O
-프랑스 혁명이나 미국 혁명이 일어나 +았을 때도 민주주의는 미래를 장담하+ㄹ 수 없었다 .	O O O O O O O O O O O O O
-올림픽 티켓을 따면 런던올림픽 메달로 인하+ㄴ병역 혜택을 완전히 해결하기 위하+여4주간의 기초군사훈련을 받은 뒤 심적 여유를 갖고 다음 시즌을 준비하려 +였다 .	O O O O O O O O O O O O O O O O O O O O O
-이때부터 20년 이상 장기 거주 중이다 .	O O O O O O O
-[인사] 진에어 신임 대표이사에 조원태 .	O ORG-B O O PER-B O
-검찰은 홍 변호사가 일광공영이 규태 대표 외에 강덕수 STX 회장의 사건에서도 선임계를 제출하지 않고 변론하였다는 의혹도 추가로 확인하고 있다 .	O PER-B O ORG-B O O O PER-B ORG-B O O O O O O O O O O O
+섣부른 정치 파업 으로 조선 업체 의 ‘ 버티 기 ’ 를 흔드 는 것 은 중국 이나 일본 등 경쟁국 조선 업체 들 만 이롭 게 할 뿐 이 다 .	O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+박유천 고소 女 ‘ 무고 · 공갈 미수 ’ 혐의 로 구속 기소	PER-B O O O O O O O O O O O O
+시 대상 1 억 원 손배소	O O MNY-B MNY-I MNY-I O
+제목 은 ‘ 대위법 80 년대 ’ 혹은 ‘ 푸가 1980 ’ 등 을 고려하 고 있 다 .	O O O O O O O O O O O O O O O O O O O
+이 에 민주당 의 비문 ( 非 문재인 ) 계 와 지지율 이 주춤하 고 있 는 바른 정당 등 의 연대 논의 가 오갈 것 으로 보인다 .	O O ORG-B O O O O PER-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+산업 연구원 은 6 월 ‘ 제조 강국 으로 도약하 는 중국 ’ 보고서 에서 “ 양국 의 산업 발전 방향 이 거의 일치한다 ” 고 분석 했 다 .	O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+LH , 입주 단지 승강기 대상 정밀 점검 실시	ORG-B O O O O O O O O
+미국 은 유럽 의 다른 국가 에 도 불법 거래 를 문제 삼 아 칼 을 겨누 고 있 어 확전 가능성 을 배제할 수 없 는 상황 이 다 .	ORG-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현지 교민 650 여 명 과 여행 중 인 한국인 보호 에 도 차질 이 없 도록 해야 할 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+프랑스 혁명 이나 미국 혁명 이 일어났 을 때 도 민주주의 는 미래 를 장담할 수 없 었 다 .	O O O O O O O O O O O O O O O O O O O O
+올림픽 티켓 을 따 면 런던 올림픽 메달 로 인한 병역 혜택 을 완전히 해결하 기 위해 4 주간 의 기초 군사훈련 을 받 은 뒤 심적 여유 를 갖 고 다음 시즌 을 준비하 려 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이때 부터 20 년 이상 장기 거주 중 이 다 .	O O DAT-B DAT-I O O O O O O O
+[ 인사 ] 진 에어 신임 대표 이사 에 조원태 씨	O O O ORG-B ORG-I O O O O PER-B O
+검찰 은 홍 변호사 가 일광 공영 이규태 대표 외 에 강덕수 STX 회장 의 사건 에서 도 선임 계 를 제출하 지 않 고 변론 했 다는 의혹 도 추가 로 확인하 고 있 다 .	O O PER-B O O ORG-B ORG-I PER-B O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O

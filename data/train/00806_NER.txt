@@ -1,16 +1,16 @@
-워싱턴포스트(WP)는 ＂트럼프는 가능하면 숀 스파이서 백악관 대변인의 일이+ㄹ 브리핑을 직접 모니터링하고 있다 .	ORG-B PER-B O PER-B PER-I ORG-B O O O O O O O
-새롭게 출시되+ㄴ 1.6 모델은 더 매력적이다 .	O O O O O O O
-매달 리+ㄴ 4개 스크린 속에서 깃털로 전신을 덮은 무용수는 검은 새와 붉은 새를 오가며 푸닥거리를 하듯 요동을 치+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 경기에서 우승 후보 조성주를 누르고 조 1위로 8강에 진출하는 등 최고의 기량을 보이어주고 있기 때문이다 .	O O O O PER-B O O O O O O O O O O O O
-시즌 초홈에 서 울산에 2-4로지 +ㄹ 때 그는 발가락 부상으로 뛰지 못하였다 .	O O O ORG-B O O O O O O O O O
-버락 오바마 대통령의 전략은 아시아 재균형이다 .	PER-B PER-I O O LOC-B O O
-폭설로 전날(23일) 오후 5시50분부터 시작되+ㄴ공항 운영 중단이 이틀 더 연장되는 것이다 .	O O O O O O O O O O O O
-제주에는 23일 하루 11㎝폭설이 내리었다 .	LOC-B O O O O O
-그는 해당 ‘짤방’을 “지인들이 보내+어주+어 알게 +었다”면서 “아홉 살짜리 조카도 ‘선물 사 +아달라고 전하라’라고 말하더라. 처음에 +ㄴ 인터넷에서 돌아다니는 사진이 부끄럽기도 +였는데, 많은 사람들이 좋아하+여주+ㄴ다+하기에 위안을 얻었다”고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘달의 연인’은 19일 월요일 밤 10시 8회 가 방송되+ㄴ다 .	O O O O O O O O O O
-[한·중 FTA 共商·共建·共享] 중국 비즈니스 해결사 ‘차이나 데스크 .	ORG-B O O ORG-B O O O O O
-이날 롯데그룹은 “고바야시 사장이 일본 롯데 최고 재무 책임자(CFO) 업무에 집중하기 위하+여 롯데캐피탈 사장직을 사임하였다”라고 밝히었다 .	O ORG-B PER-B O ORG-B ORG-B O O O O O O ORG-B O O O O
-더위 때문에 승용차를 이용하는 시민들이 늘면서 교통체증이 심하+여지자 대중교통 이용을 유도하기 위하+여2006년 나오+ㄴ아이디어+이다 .	O O O O O O O O O O O O O O
-그러니까 버스 놓치 +ㄹ까보+아내리+어서 뛰고, 횡단보도 막 건너고 그래.나한테 재촉도 하고. 첫차 시간을 5~10분만 당기+어주면 좋겠어.맘 편하게 들 출근하게.”이날도 버스는 봉천사거리에서 2~3분 지체되+ㄴ터+이었다 .	O O O O O O O O O O O O O O O O O O O O LOC-B O O O
-경기지방경찰청 제2청사이버수사대는 3일 도박 공간 개설 혐의로 불법 도박사이트 운영자 이모(51)씨를 구속하였다고 밝히었다 .	ORG-B ORG-I O O O O O O O O PER-B O O O
-또 불법 도박사이트에서 수백만~수천만원을 배팅한 주모(45)씨 등 49명을 도박 혐의로 불구속 입건하고, 불법 도박사이트 운영에 이용되 +ㄴ 대포통장을 빌리+어주+ㄴ원모(45)씨 5명을 전자금융거래법 위반 혐의로 불구속 입건하였다 .	O O O MNY-B O PER-B O O O O O O O O O O O O O O O O O O O O
+워싱턴포스트 ( WP ) 는 ＂ 트럼프 는 가능하 면 숀 스파이 서 백악관 대변인 의 일 일 브리핑 을 직접 모니터링 하 고 있 다 .	ORG-B O ORG-B O O O PER-B O O O PER-B PER-I PER-I ORG-B O O O O O O O O O O O O O
+새롭 게 출시된 1.6 모델 은 더 매력적 이 다 .	O O O O O O O O O O O
+매달린 4 개 스크린 속 에서 깃털 로 전신 을 덮 은 무용수 는 검 은 새 와 붉 은 새 를 오가 며 푸닥거리 를 하 듯 요동 을 친다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 경기 에서 우승 후보 조성주 를 누르 고 조 1 위 로 8 강 에 진출하 는 등 최고 의 기량 을 보 여 주 고 있 기 때문 이 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시즌 초 홈 에서 울산 에 2 - 4 로 질 때 그 는 발가락 부상 으로 뛰 지 못 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O
+버락 오바마 대통령 의 전략 은 아시아 재 균형 이 다 .	PER-B PER-I O O O O LOC-B O O O O O
+폭설 로 전날 ( 23 일 ) 오후 5 시 50 분 부터 시작된 공항 운영 중단 이 이틀 더 연장되 는 것 이 다 .	O O O O DAT-B DAT-I O TIM-B TIM-I TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O
+제주 에 는 23 일 하루 11 ㎝ 폭설 이 내 렸 다 .	LOC-B O O DAT-B DAT-I O O O O O O O O O
+그 는 해당 ‘ 짤방 ’ 을 “ 지인 들 이 보내 줘 알 게 됐 다 ” 면서 “ 아홉 살 짜리 조카 도 ‘ 선물 사 달 라고 전해 라 ’ 라고 말하 더라 . 처음 엔 인터넷 에서 돌아다니 는 사진 이 부끄럽 기 도 했 는데 , 많 은 사람 들 이 좋아해 준다 기에 위안 을 얻 었 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 달 의 연인 ’ 은 19 일 월요일 밤 10 시 8 회 가 방송 된다 .	O O O O O O DAT-B DAT-I DAT-I TIM-B TIM-I TIM-I O O O O O O
+[ 한 · 중 FTA 共商 · 共建 · 共享 ] 중국 비즈니스 해결사 ‘ 차이나 데스크 ’	O ORG-B O ORG-B O O O O O O O ORG-B O O O O O O
+이날 롯데그룹 은 “ 고바야시 사장 이 일본 롯데 최고 재무 책임자 ( CFO ) 업무 에 집중하 기 위해 롯데 캐피탈 사장 직 을 사임 했 다 ” 라고 밝 혔 다 .	O ORG-B O O PER-B O O ORG-B ORG-I O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+더위 때문 에 승용차 를 이용하 는 시민 들 이 늘 면서 교통 체증 이 심해 지 자 대중교통 이용 을 유도하 기 위해 2006 년 나온 아이디어 다 .	O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+그러니까 버스 놓칠까 봐 내려서 뛰 고 , 횡단보도 막 건너 고 그래 . 나 한테 재촉 도 하 고 . 첫차 시간 을 5 ~ 10 분 만 당겨 주 면 좋 겠 어 . 맘 편하 게 들 출근하 게 . ” 이날 도 버스 는 봉천사거리 에서 2 ~ 3 분 지체된 터 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+경기지방경찰청 제 2 청 사이버 수사대 는 3 일 도박 공간 개설 혐의 로 불법 도박 사이트 운영 자 이모 ( 51 ) 씨 를 구속 했 다고 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O PER-B O O O O O O O O O O O O
+또 불법 도박 사이트 에서 수백만 ~ 수천만 원 을 배팅 한 주 모 ( 45 ) 씨 등 49 명 을 도박 혐의 로 불구속 입건하 고 , 불법 도박 사이트 운영 에 이용된 대포 통장 을 빌려 준 원모 ( 45 ) 씨 5 명 을 전자 금융거래 법 위반 혐의 로 불구속 입건 했 다 .	O O O O O MNY-B O MNY-B MNY-I O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O

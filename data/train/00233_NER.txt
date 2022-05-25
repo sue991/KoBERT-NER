@@ -1,14 +1,14 @@
-검찰은 김 회장 부부가 넥슨 자회사를 개인회사로 편입시키는 과정에서 자금 흐름에 현행법 위반 소지가 있는지 조사하고 있다 .	O PER-B O O ORG-B O O O O O O O O O O O O O
-한데 우리 조정에서는 영종도를 습격하+ㄴ이 양선이 어느 나라에서 뭣 때문에 오+ㄴ배 이+ㄴ 지도 모르고 있었던 것이다 .	O O O LOC-B O O O O O O O O O O O O O
-그러나 전면 무상급식에 반대하면서도 홍 지사의 추진 방식에는 눈살을 찌푸리는 사람들이 적지 않다 .	O O O O PER-B O O O O O O O O O
-그는 심지어 이 와중에 11일 방송을 마치 +ㄴ 뒤 오는 24일까지 휴가를 떠나 +았다 .	O O O O O O O O O O O O O O O
-삼성디스플레이·LG디스플레이는 1조~4조원, 두산인프라코어·볼보건설기계는 1000억~4000억원 매출이 감소하였다 .	ORG-B MNY-B ORG-B MNY-B O O O
-지금 세계음악계가 주목하는 지휘자들도 서울에서 만나 +ㄹ 수 있다 .	O O O O LOC-B O O O O O
-삼성의 경영 및 서비스 기법을 접목하+ 여경북의 명품 고택 체험 코스를 만들 +ㄹ 계획이다 .	ORG-B O O O O O LOC-B O O O O O O O O
-입법로비 혐의로 기소되+ㄴ신학용 “사정정국 조성 하나” 총리에 목 .	O O PER-B O O O O O O
-염 단장은 지난해 12월 중순부터 SK에서 단장으로 러브콜을 받았지만 거절하+여+오았다 .	PER-B O O O O ORG-B O O O O O
-올해는 을미년 양의 해+이다 .	O O O O O
-이 총리는 자신이 충남도지사로 재직하던 2006년 태안군 안면도 개발사업을 놓고 경남기업과 송사를 벌이+ㄴ 사실을 언급하며 둘 사이가 ‘불편 하+ㄴ 관계’ +이라는 점을 부각시키고 있다 .	PER-B O PER-B O O O O O O O ORG-B O PER-B O O O PER-B O O O PER-B O O O O
-미래산업 콘퍼런스 27일 개 .	O O O O O
-부산상공회의소는 13일 ‘부산사랑우수인재상’ 수상자 5명을 선정하+여 발표하였다 .	ORG-B O ORG-B O O O O O
-[오늘날씨] 전국 흐리고 제주도와 남해안에 비, 강수량은 .	O O O LOC-B LOC-B O O O
+검찰 은 김 회장 부부 가 넥슨 자회사 를 개인 회사 로 편입 시키 는 과정 에서 자금 흐름 에 현행법 위반 소지 가 있 는지 조사하 고 있 다 .	O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+한데 우리 조정 에서 는 영종도 를 습격한 이양선 이 어느 나라 에서 뭣 때문 에 온 배 인지 도 모르 고 있 었 던 것 이 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+그러나 전면 무상 급식 에 반대하 면서 도 홍 지사 의 추진 방식 에 는 눈살 을 찌푸리 는 사람 들 이 적 지 않 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+그 는 심지어 이 와중 에 11 일 방송 을 마친 뒤 오 는 24 일 까지 휴가 를 떠났 다 .	O O O O O O DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O
+삼성디스플레이 · LG 디스플레이 는 1 조 ~ 4 조 원 , 두산 인프라 코어 · 볼보 건설 기계 는 1000 억 ~ 4000 억 원 매출 이 감소 했 다 .	ORG-B O ORG-B ORG-I O MNY-B MNY-I O MNY-B MNY-I MNY-I O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O
+지금 세계 음악계 가 주목하 는 지휘자 들 도 서울 에서 만날 수 있 다 .	O O O O O O O O O LOC-B O O O O O O
+삼성 의 경영 및 서비스 기법 을 접목해 경북 의 명품 고택 체험 코스 를 만들 계획 이 다 .	ORG-B O O O O O O O LOC-B O O O O O O O O O O O
+입법 로비 혐의 로 기소된 신학용 “ 사정 정국 조성 하나 ” 총리 에 목청	O O O O O PER-B O O O O O O O O O
+염 단장 은 지난해 12 월 중순 부터 SK 에서 단장 으로 러브콜 을 받 았 지만 거절해 왔 다 .	PER-B O O O DAT-B DAT-I O O ORG-B O O O O O O O O O O O O
+올해 는 을미 년 양 의 해 다 .	O O DAT-B DAT-I O O O O O
+이 총리 는 자신 이 충남 도지사 로 재직하 던 2006 년 태안군 안면도 개발 사업 을 놓 고 경남기업 과 송사 를 벌인 사실 을 언급하 며 둘 사이 가 ‘ 불편한 관계 ’ 라는 점 을 부각 시키 고 있 다 .	PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+미래 산업 콘퍼런스 27 일 개최	O O O DAT-B DAT-I O
+부산 상공 회의소 는 13 일 ‘ 부산 사랑 우수 인재 상 ’ 수상자 5 명 을 선정해 발표 했 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O
+[ 오늘 날씨 ] 전국 흐리 고 제주도 와 남해안 에 비 , 강수량 은 ?	O O O O O O O LOC-B O LOC-B O O O O O O

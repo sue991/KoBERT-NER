@@ -1,17 +1,17 @@
-‘스마트 스쿨 노마드’는 콜롬비아 인디오가 거주하는 움막집을 형상화 하+ㄴ 높이 1.4m, 넓이 0.5m의 패키지 안에 32인치 TV, 태블릿PC, 삼성 기어 VR, 책상, 쿠션을 구비 하+ㄴ이동형 스마트 스쿨이다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
-또 삼성엔지니어링 멕시코 법인 임직원은 지나 +ㄴ 13일 인근 초등학교를 방문하+여 에너지의 원리를 강의하고 태양광 하우스 만들기 실습을 진행하였다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
-대한민국의 미래에 대하+ㄴ ‘인사이트(insight, 통찰)’가 있을 터+이+ㄴ데, 다음 대통령 선거의 시대정신은 뭐가 되+ㄹ 것+이라고 보나?“지나 +ㄴ 대선 때는 2008년 금융위기의 후유증, 이런 것들 때문에 분배 내지는 복지, 자본주의에 대하+ㄴ 성찰이 많이 회자되었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-2012년 6월 신세계그룹은 직원 복지 확대 차원에서 영랑호리조트를 인수하+ㄴ바 있다 .	O O ORG-B O O O O ORG-B O O O
-전시장에 +아서 작품 감상 시간은 「0∼5분 」이 62%로 가장 많았으며 「10분 내외」 35%, 「20분 가량 」2.5%, 「30분 이상 」0.5% 등이었다 .	O O O O O O O O O O O O O O O O O O O O O
-이들은 평균 7000만원씩 대출받아 서씨와 모집책, 명의대출자 등이 3분의 1씩 나누+어 갖는 수법으로 돈을 챙기+ㄴ 혐의를 받고 있다 .	O O MNY-B O PER-B O O O O O O O O O O O O O O
-CDCS는 국제무역대금 결제 전반에 걸치+ㄴ 실질적 현장 업무 수행 능력을 증명하기 위하+ㄴ국제공인 자격증을 말하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O
-이후 12월 9일 표결을 주장하던 국민의당이 ‘탄핵 반대파’로 몰리자 당 소속 인사가 민주당 및 문 전 대표 지지층을 ‘문빠’, ‘광신도’로 칭하였고, 두 당간 앙금은 한층 더 깊어지었다 .	O O O O O ORG-B O O O O O O ORG-B O ORG-B O O O ORG-B O O O O O O O O O
-㈜신성하이테크는 미국 US텔사와 제휴 하+여 5월부터 「UStelcard 」+이라는 국제전화 카드를 시판하고 있다 .	ORG-B ORG-B ORG-I O O O O O O O O O O
-한남과 은비는 정부가 추진 중 이+ㄴ ‘남해교량 건설사업’에 대하+여PC통신토론을 벌이 .	PER-B PER-B O O O O O O O O O
-SK텔레콤과 BMW코리아가 영종도 BMW 드라이빙 센터에 조성되 +ㄴ 세계 최대 규모 5G 시험망에서, ‘커넥티드 카-드론-도로교통정보’를 실시간 연결하는 미래 주행 기술을 15일 선보이었다 .	ORG-B LOC-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O
-한반도 통일은 거대 역사의 영역이다 .	LOC-B O O O O O
-MBC 측은 공식 보도자료를 통하+여 “노홍철이 새 예능 프로그램에 출연하는 것은 맞으나 ‘무한도전’ 복귀와는 아무런 관련이 없다”면서 “MBC 측은 노홍철의 ‘무한도전’ 출연과 관련 하+여서 검토조차 하+ㄴ적이 없다”고 전하였다 .	ORG-B O O O O PER-B O O O O O O O O O O O ORG-B O PER-B O O O O O O O O O
-1일 총 8회 40분씩 운영, 회차별 35명씩 현장 선착순으로 참가 가능하다 .	O O O O O O O O O O O O
-신은섭은 “당분간 우승의 기쁨을 만끽하고 싶다 .	PER-B O O O O O O
-작년 서울시가 18.9ℓ들이 허가업체 생수용기의 일반 세균 오염도를 조사하+ㄴ 결과, 냉장상태에서는 뚜렷하+ㄴ 세균 증가가 없었으나, 실온에서는 1㎖ 당 무려 1천2백 마리까지 증식하+ㄴ 것으로 밝혀지었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-푸드트럭 사장들이 창업에 나서 +ㄴ 나이는 평균 39세. 회사 생활이 주는 지루하+ㅁ과 안락하+ㅁ 사이에서 갈등하 .	O O O O O O O O O O O O O O O O
+‘ 스마트 스쿨 노마드 ’ 는 콜롬비아 인디오 가 거주하 는 움막집 을 형상화 한 높이 1.4 m , 넓이 0.5 m 의 패키지 안 에 32 인치 TV , 태블릿 PC , 삼성 기 어 VR , 책상 , 쿠션 을 구비한 이동형 스마트 스쿨 이 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 삼성 엔지니어링 멕시코 법인 임직원 은 지난 13 일 인근 초등학교 를 방문해 에너지 의 원리 를 강의하 고 태양광 하우스 만들 기 실습 을 진행 했 다 .	O ORG-B ORG-I ORG-I ORG-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+대한민국 의 미래 에 대한 ‘ 인사이트 ( insight , 통찰 ) ’ 가 있 을 텐데 , 다음 대통령 선거 의 시대정신 은 뭐 가 될 거 라고 보 나 ? “ 지난 대선 때 는 2008 년 금융 위기 의 후유증 , 이런 것 들 때문 에 분배 내지 는 복지 , 자본주의 에 대한 성찰 이 많이 회자 됐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+2012 년 6 월 신세계 그룹 은 직원 복지 확대 차원 에서 영랑호 리조트 를 인수한 바 있 다 .	DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O O O O O O ORG-B ORG-I O O O O O O
+전시장 에 와서 작품 감상 시간 은 「 0 ∼ 5 분 」 이 62 % 로 가장 많 았 으며 「 10 분 내외 」 35 % , 「 20 분 가량 」 2.5 % , 「 30 분 이상 」 0.5 % 등 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 들 은 평균 7000 만 원 씩 대출 받 아 서 씨 와 모집책 , 명 의 대출 자 등 이 3 분 의 1 씩 나눠 갖 는 수법 으로 돈 을 챙긴 혐의 를 받 고 있 다 .	O O O O MNY-B MNY-I MNY-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+CDCS 는 국제무역 대금 결제 전반 에 걸친 실질적 현장 업무 수행 능력 을 증명하 기 위한 국제 공인 자격증 을 말한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+이후 12 월 9 일 표결 을 주장하 던 국민 의 당 이 ‘ 탄핵 반대파 ’ 로 몰리 자 당 소속 인사 가 민주당 및 문 전 대표 지지층 을 ‘ 문 빠 ’ , ‘ 광신도 ’ 로 칭 했 고 , 두 당 간 앙금 은 한층 더 깊어 졌 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O ORG-B O PER-B O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+㈜ 신성 하이테크 는 미국 US 텔 사 와 제휴해 5 월 부터 「 UStelcard 」 라는 국제 전화 카드 를 시판하 고 있 다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O
+한남 과 은비 는 정부 가 추진 중 인 ‘ 남해 교량 건설 사업 ’ 에 대해 PC 통신 토론 을 벌이 다	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O
+SK 텔레콤 과 BMW 코리아 가 영종도 BMW 드라이빙 센터 에 조성된 세계 최대 규모 5 G 시험 망 에서 , ‘ 커 넥 티드 카 - 드론 - 도로 교통정보 ’ 를 실시간 연결하 는 미래 주행 기술 을 15 일 선보 였 다 .	ORG-B ORG-I O ORG-B ORG-I O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+한반도 통일 은 거대 역사 의 영역 이 다 .	LOC-B O O O O O O O O O
+MBC 측 은 공식 보도 자료 를 통해 “ 노홍철 이 새 예능 프로그램 에 출연하 는 것 은 맞 으나 ‘ 무한도전 ’ 복귀 와 는 아무런 관련 이 없 다 ” 면서 “ MBC 측 은 노홍철 의 ‘ 무한도전 ’ 출연 과 관련해서 검토 조차 한 적 이 없 다 ” 고 전 했 다 .	ORG-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O
+1 일 총 8 회 40 분 씩 운영 , 회 차별 35 명 씩 현장 선착순 으로 참가 가능하 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+신은섭 은 “ 당분간 우승 의 기쁨 을 만끽하 고 싶 다 .	PER-B O O O O O O O O O O O O
+작년 서울 시가 18.9 ℓ 들 이 허가 업체 생수 용기 의 일반 세균 오염도 를 조사한 결과 , 냉장 상태 에서 는 뚜렷한 세균 증가 가 없 었 으나 , 실온 에서 는 1 ㎖ 당 무려 1 천 2 백 마리 까지 증식한 것 으로 밝혀 졌 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+푸드 트럭 사장 들 이 창업 에 나선 나이 는 평균 39 세 . 회사 생활 이 주 는 지루함 과 안락함 사이 에서 갈등하 다	O O O O O O O O O O O O O O O O O O O O O O O O O O

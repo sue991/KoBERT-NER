@@ -1,13 +1,13 @@
-대학생 윤한석(27)씨도 “향수에 관심이 많은데 정품 향수들을 다 사+아서 모으기에 +ㄴ용돈으로 감당이 안 되+어 온라인에서 거래되는 ‘소분향수’를 즐기+어 구매 하+ㄴ다”고 +였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
-팬들이 간절히 원하는 아이유와 지드래곤이 함께 노래 부르는 모 .	O O O PER-B PER-B O O O O O
-이곳 26동 등 3곳에 2000명 정도가 수용되+ㄴ난민 수용소가 마련되+어 있다 .	O O O O O O O O O O O
-성씨는 경찰 검거 당시 방탄복을 착용하였던 것으로 확인되었다 .	PER-B O O O O O O O O
-즉 전용면적 58㎡의 경우 7700만원이면 추가 부담 없이 투자가 가능하고 수익률도 현재 임대료 수준을 감안하었을 때 연 12%를 기대하+ㄹ 수 있다 .	O O O O MNY-B O O O O O O O O O O O O O O O O O
-‘택시’ 홍수아, 성형루머 ‘억울하+ㅁ토로’… “눈성형만 +였다 .	O PER-B O O O O O
-2014년 드라마 ‘조선 총잡이’ 때와는 또 다른 여유롭 +ㅁ이 묻어나 +았다 .	O O O O O O O O O O O O
-‘나 혼자 살+ㄴ다’도끼, 엄청나 +ㄴ 재력화 제 재산은 "한 몇십억… "래퍼도끼가 '나 혼자 살+ㄴ다'에서 엄청나 +ㄴ 재력을 과시하였다 .	O O PER-B O O O O O O MNY-B PER-B O O O O O O O O
-박 할아버지는 1915년 1월 1일 생이다 .	PER-B O O O O O O
-차츰 꿈을 키우기 시작하+여 제 주관광대카지노 경영과 2011 학번으로 입학하였다 .	O O O O O O O O O O O
-이에 따르 아 앞으로는 식품업체들이 HACCP 인증 받기가 훨씬 수월하+여지+ㄹ 것으로 보이+ㄴ다 .	O O O O O ORG-B O O O O O O O
-이미 지난해 10월 미국 프로농구(NBA)가 가장 먼저 삼성전자와 손잡고 기어 VR을 통하+여 주요 경기를 VR 중계하였다 .	O O O ORG-B ORG-B O O ORG-B O O O O O O O O O
-배 원장이 성형 없이 주름 쫙 펴는 기적의 마사지방법을 제안하+ㄴ다 .	PER-B O O O O O O O O O O
+대학생 윤한석 ( 27 ) 씨 도 “ 향수 에 관심 이 많 은데 정품 향수 들 을 다 사서 모으 기 엔 용돈 으로 감당 이 안 돼 온라인 에서 거래되 는 ‘ 소분 향수 ’ 를 즐겨 구매한다 ” 고 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+팬 들 이 간절히 원하 는 아이유 와 지드래곤 이 함께 노래 부르 는 모습	O O O O O O PER-B O PER-B O O O O O O
+이곳 26 동 등 3 곳 에 2000 명 정도 가 수용된 난민 수용소 가 마련돼 있 다 .	O O O O O O O O O O O O O O O O O O O
+성 씨 는 경찰 검거 당시 방탄복 을 착용 했 던 것 으로 확인 됐 다 .	PER-B O O O O O O O O O O O O O O O O
+즉 전용면적 58 ㎡ 의 경우 7700 만 원 이 면 추가 부담 없이 투자 가 가능하 고 수익률 도 현재 임대료 수준 을 감안 했 을 때 연 12 % 를 기대할 수 있 다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 택시 ’ 홍수아 , 성형 루머 ‘ 억울함 토로 ’ … “ 눈 성형 만 했 다 ”	O O O PER-B O O O O O O O O O O O O O O O
+2014 년 드라마 ‘ 조선 총잡이 ’ 때 와 는 또 다른 여유로움 이 묻어났 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O
+‘ 나 혼자 산다 ’ 도끼 , 엄청난 재력 화제 재산 은 " 한 몇 십 억 … " 래퍼 도끼 가 ' 나 혼자 산다 ' 에서 엄청난 재력 을 과시 했 다 .	O O O O O PER-B O O O O O O O O MNY-B MNY-I MNY-I O O O PER-B O O O O O O O O O O O O O O
+박 할아버지 는 1915 년 1 월 1 일 생 이 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O
+차츰 꿈 을 키우 기 시작해 제주 관광 대 카지노 경영 과 2011 학번 으로 입학 했 다 .	O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O
+이 에 따 라 앞 으로 는 식품 업체 들 이 HACCP 인증 받 기 가 훨씬 수월해 질 것 으로 보인다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O
+이미 지난해 10 월 미국 프로 농구 ( NBA ) 가 가장 먼저 삼성전자 와 손잡 고 기 어 VR 을 통해 주요 경기 를 VR 중계 했 다 .	O O DAT-B DAT-I ORG-B ORG-I ORG-I O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O
+배 원장 이 성형 없이 주름 쫙 펴 는 기적 의 마사지 방법 을 제안한다 .	PER-B O O O O O O O O O O O O O O O

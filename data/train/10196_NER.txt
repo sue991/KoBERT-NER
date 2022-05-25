@@ -1,10 +1,10 @@
-성 밖에는 한강(韓江)이 흘러내리+ㄴ다 .	O O LOC-B O O
-‘김상훈 현장검증’ 경기도 안산시 인질살해사건의 피의자 김상훈(46)에 대하+ㄴ 현장검증이 열리었다 .	PER-B O LOC-B LOC-B O O PER-B O O O O
-일본 재무성이 18일 발표 하+ㄴ 1월 무역통계 속보에 따르면 수출은 5조3516억엔(약 57조8000억원)으로 전년 동월 대비 12.9% 줄었다 .	ORG-B ORG-I O O O O O O O O MNY-B MNY-B O O O O O O
-예일대 등 다른 명문 사립대와는 달리 하버드대는 성적은 좀 떨어지더라도 ‘드라마틱 하+ㄴ 삶’의 주인공을 선호하는 경향이 있다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O
-이 SPC에는 한전, 경북도, 울릉군 등 공공이 약 40%, 도화엔지니어링, LGCNS, 재무적 투자자(FI) 등 민간이 약 60%를 공동 투자하였다 .	O ORG-B ORG-B ORG-B ORG-B O O O O ORG-B ORG-B O O O O O O O O O
-음주측정 결과 나씨는 면허 취소 수준이 +ㄴ혈중 알콜농도 0.117%의 수치를 기록하였습니다 .	O O O O O O O O O O O O
-그렇게 검찰은 나씨를 음주운전과 음주교통사고 혐의로 기소하였지만 법원은 1·2심에서 무죄를 선고하였습니다 .	O O PER-B O O O O O O O O O
-서울시는 기존 상인들을 위하 +ㄴ 지원방안을 충분히 마련하였으며 정당 하+ㄴ 운영권 환수를 방해 하+ㄹ 경우 민형사상 소송도 불사하겠다는 방침이다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-크리스틴 라가르드 국제통화기금(IMF) 총재가 그리스의 채무상환 연기 요청을 거부하였다고 밝히면서 17일(현지시간) 미국 다우존스산업평균지수, 스탠더드 앤드 푸어스(S&P) 500지수, 나스닥지수가 각각 1% 넘게 떨어지었고 유로스톡스 50지수는 2%가량 급락하였다 .	PER-B PER-I ORG-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O
-한국자원재생공사와 조선일보사가 공동 주최 하+ㄴ「94폐품 이용공예품 공모전」개막식이 25일 박윤흔 환경처장관과 송형목 조선일보 상무 등 관계 인사들이 참가하+ㄴ 가운데 서울 롯데백화점 청량리점 이벤트홀에서 열리었다 .	ORG-B ORG-B O O O O O O PER-B ORG-B PER-B ORG-B O O O O O O LOC-B LOC-B LOC-I O O O
+성 밖 에 는 한강 ( 韓江 ) 이 흘러내린다 .	O O O O LOC-B O LOC-B O O O O
+‘ 김상훈 현장 검증 ’ 경기도 안산시 인질 살해 사건 의 피의자 김상훈 ( 46 ) 에 대한 현장 검증 이 열 렸 다 .	O PER-B O O O LOC-B LOC-B O O O O O PER-B O O O O O O O O O O O O
+일본 재무 성 이 18 일 발표한 1 월 무역 통계 속보 에 따르 면 수출 은 5 조 3516 억 엔 ( 약 57 조 8000 억 원 ) 으로 전년 동월 대비 12.9 % 줄 었 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O
+예일대 등 다른 명문 사립대 와 는 달리 하버드대 는 성적 은 좀 떨어지 더라도 ‘ 드라마틱 한 삶 ’ 의 주인공 을 선호하 는 경향 이 있 다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+이 SPC 에 는 한전 , 경북도 , 울릉군 등 공공이 약 40 % , 도화 엔지니어링 , LG CNS , 재무 적 투자자 ( FI ) 등 민간 이 약 60 % 를 공동 투자 했 다 .	O ORG-B O O ORG-B O ORG-B O ORG-B O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+음주 측정 결과 나 씨 는 면허 취소 수준 인 혈중 알콜 농도 0.117 % 의 수치 를 기록 했 습니다 .	O O O O O O O O O O O O O O O O O O O O O O
+그렇 게 검찰 은 나 씨 를 음주 운전 과 음주 교통사고 혐의 로 기소 했 지만 법원 은 1 · 2 심 에서 무죄 를 선고 했 습니다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+서울시 는 기존 상인 들 을 위한 지원 방안 을 충분히 마련 했 으며 정당한 운영 권 환수 를 방해할 경우 민형사 상 소송 도 불사하 겠 다는 방침 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+크리스틴 라가르드 국제통화기금 ( IMF ) 총재 가 그리스 의 채무 상환 연기 요청 을 거부 했 다고 밝히 면서 17 일 ( 현지 시간 ) 미국 다우존스 산업 평균 지수 , 스탠더드 앤드 푸어스 ( S & P ) 500 지수 , 나스닥 지수 가 각각 1 % 넘 게 떨어 졌 고 유로스톡스 50 지수 는 2 % 가량 급락 했 다 .	PER-B PER-I ORG-B O ORG-B O O O ORG-B O O O O O O O O O O O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국자원재생공사 와 조선일보사 가 공동 주최한 「 94 폐품 이용 공예품 공모전 」 개막식 이 25 일 박윤흔 환경 처 장관 과 송형목 조선일보 상무 등 관계 인사 들 이 참가한 가운데 서울 롯데백화점 청량리 점 이벤트 홀 에서 열 렸 다 .	ORG-B O ORG-B O O O O O O O O O O O O DAT-B DAT-I PER-B ORG-B ORG-I O O PER-B ORG-B O O O O O O O O LOC-B LOC-B LOC-I LOC-I O O O O O O O

@@ -1,13 +1,13 @@
-마지막 7km를 남기+ㄴ 지점이 승부처가 되+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O
-KT도 오전 9시 예약판매를 시작하+ㄴ지 15분이 채 되지 않아 5만대 사전예약이 끝나 +았다 .	ORG-B TIM-B TIM-I O O O O O O O O O O O
-‘인공지능의 미래’의 저자 이+ㄴ캐플런 교수는 한국이 4차 산업혁명 선도 국가로 도약하기 위하+ㄴ 전략을 제시하+ㄴ다 .	O O O PER-B O ORG-B O O O O O O O O O
-야간에 이동 하+ㄴ 뒤 발사하면 천하무적 의 미국 항공모함 전단도 불시에 기습 공격을 받을 수 있다 .	O O O O O O O ORG-B O O O O O O O O O
-벌칸 API의 경우 안드로이드 기기가 성능이 우수하+ㅁ에도 3D 게임 등에서 조금은 아쉽 ㄴ모습을 보이어 주+ㄴ 것을 대폭 개선 하+ㄹ 수 있는 기술이 +ㄴ 만큼 콘솔급의 게임을 모바일 기기에서 즐기는 시대의 막을 열어 주+ㄹ 기술로 기대를 모으고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-아래는 현장에서 진행되+ㄴ일문일답.Q.약 4년 정도 지나 +ㄴ 것 같다 .	O O O O O O O O O O
-하지만 리우 올림픽 자유형 400m 예선에서는 8명이 겨루는 결승에 간신히 턱걸이 하+ㄴ 조단 포테이+ㄴ(프랑스)의 기록이 3분 45초 25+이었다 .	O O O O O O O O O O O O PER-B ORG-B O O O O O
-무실점 한국vs 다득점 호주 한국과 호주의 결승전은 ‘창과 방패’의 대결이다 .	O ORG-B O ORG-B ORG-B ORG-B O O O O O
-조씨는 “전자출판 분야 참가자들은 대부분 20~30대 고청각 장애인 친구들이 많아 나+에게 불리하+ㄴ면이 없지 않다”며 “수상을 위하+여 3개월째 1주일에 한 번씩 전담 선생님의 교육을 받고 있다”고 전하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-「한글 윈도」를 실행하면 프로그램 관리자가 나타나 +ㄴ다 .	O O O O O O O O
-이에 따르 아아파트 분양가가 최고 1.43%까지 오르+ㄹ 것으로 전망되+ㄴ다 .	O O O O O O O O O O
-정 전 비서관은 검찰 조사 과정에서 최씨에게 태블릿PC에 담기 +ㄴ 대통령 연설문 등 주요 청와대 자료와 서류 형태의 자료를 넘기 +ㄴ 사실을 처음으로 시인하기 시작하였다 .	PER-B O O O O PER-B PER-B O O O O O O O ORG-B O O O O O O O O O O O
-◆검찰, 송성각 체포=검찰은 7일 밤 송성각(58) 전 한국콘텐츠진흥원장을 뇌물·공동 강요 혐의로 체포하였다 .	O PER-B O O O PER-B O ORG-B O O O O O
+마지막 7 km 를 남긴 지점 이 승부처 가 될 것 으로 예상된다 .	O O O O O O O O O O O O O O
+KT 도 오전 9 시 예약 판매 를 시작한 지 15 분 이 채 되 지 않 아 5 만 대 사전 예약 이 끝났 다 .	ORG-B O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O
+‘ 인공 지능 의 미래 ’ 의 저자 인 캐플런 교수 는 한국 이 4 차 산업혁명 선도 국가 로 도약하 기 위한 전략 을 제시한다 .	O O O O O O O O O PER-B O O ORG-B O O O O O O O O O O O O O O
+야간 에 이동한 뒤 발사하 면 천하무적 의 미국 항공모함 전단 도 불시 에 기습 공격 을 받 을 수 있 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O
+벌칸 API 의 경우 안드로이드 기기 가 성능 이 우수함에도 3 D 게임 등 에서 조금 은 아쉬 운 모습 을 보 여 준 것 을 대폭 개선할 수 있 는 기술 인 만큼 콘솔 급 의 게임 을 모바일 기기 에서 즐기 는 시대 의 막 을 열 어 줄 기술 로 기대 를 모으 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아래 는 현장 에서 진행된 일문일답 . Q . 약 4 년 정도 지난 것 같 다 .	O O O O O O O O O O O O O O O O O O
+하지만 리우 올림픽 자유 형 400 m 예선 에서 는 8 명 이 겨루 는 결승 에 간신히 턱걸이한 조단 포테 인 ( 프랑스 ) 의 기록 이 3 분 45 초 25 였 다 .	O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O
+무실점 한국 vs 다 득점 호주 한국 과 호주 의 결승전 은 ‘ 창 과 방패 ’ 의 대결 이 다 .	O ORG-B O O O ORG-B ORG-B O ORG-B O O O O O O O O O O O O O
+조 씨 는 “ 전자 출판 분야 참가자 들 은 대부분 20 ~ 30 대 고 청각 장애인 친구 들 이 많 아 내게 불리한 면 이 없 지 않 다 ” 며 “ 수상 을 위해 3 개월 째 1 주일 에 한 번 씩 전담 선생님 의 교육 을 받 고 있 다 ” 고 전 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+「 한글 윈도 」 를 실행하 면 프로그램 관리자 가 나타난다 .	O O O O O O O O O O O O
+이 에 따 라 아파트 분양 가 가 최고 1.43 % 까지 오를 것 으로 전망된다 .	O O O O O O O O O O O O O O O O O
+정 전 비서관 은 검찰 조사 과정 에서 최 씨 에게 태블릿 PC 에 담긴 대통령 연설문 등 주요 청와대 자료 와 서류 형태 의 자료 를 넘긴 사실 을 처음 으로 시인하 기 시작 했 다 .	PER-B O O O O O O O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+◆ 검찰 , 송성각 체포 = 검찰 은 7 일 밤 송성각 ( 58 ) 전 한국콘텐츠진흥원 장 을 뇌물 · 공동 강요 혐의 로 체포 했 다 .	O O O PER-B O O O O DAT-B DAT-I O PER-B O O O O ORG-B O O O O O O O O O O O O

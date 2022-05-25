@@ -1,15 +1,15 @@
-무릎·고관절 센터, 어깨·팔·손목센터, 족부센터 등으로 세분화 되+ㄴ 관절센터를 총괄하는 이대영 원장은 전문 분야 이+ㄴ 관절내시경과 인공관절 수술에 역량을 쏟고 있다 .	O O O O O O O O O PER-B O O O O O O O O O O O
-하지만 인사를 +였는데 거의 쳐다보지도 않았다”고 말 하+ 여성 유리를 민망하게 만들었다 .	O O O O O O O O O O O O O
-이에 성유리는 “우리 팀이 시크+하였다”고 말 하+ 여웃음을 자아내 +었다 .	O PER-B O O O O O O O O O
-정 의장의 중재로 여야가 합의 하+ㄹ 경우 17일 본회의가 열리고, 황 후보자의 임명동의안이 처리되 +ㄹ 가능성도 있다 .	PER-B O O O O O O O O O PER-B O O O O O O O
-따라서 국토부는 운항이 재개되는 즉시 항공기 운항은 안전운항에 지장이 없는 범위 내에서 시행이 가능하도록 정기 및 임시항공편을 증편하여 수송용량을 확대하는 비상수송대책을 마련하 +ㄹ 계획이다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-‘막돼 먹은 영애씨 시즌 14’ 조현영, 섹시하+ㄴ 가슴골과 시 ‘아찔 .	O O O O O PER-B O O O O O
-지나+ㄴ 3월 용인시 아파트 3.3㎡당 평균 전셋값은 787만원으로 작년 동월(705만원) 대비 11.6%나 오르았다 .	O O LOC-B O O O O MNY-B O MNY-B O O O O
-3년여밖에 남지 않은 올림픽의 성공 개최를 위하+ㄴ 방안을 2회에 걸치+어 모색 하+여보+ㄴ다 .	O O O O O O O O O O O O O
-서울역에서 KTX로 부산에 가+아서 자유관광을 즐기+ㄴ 뒤 한일 페리선 뉴카멜리아호로 일본 유후인과 벳부의 온천을 즐기는 2박3일의 일정이다 .	LOC-B O LOC-B O O O O ORG-B O O LOC-B LOC-B LOC-B O O O O O
-LG, 장애인 구하+ㄴ해병대원에게 장학금 및 채용기회 제 .	ORG-B O O O O O O O
-지난해 10월부터 지난달 28일까지 7723건의 신생아 소두증 의심 사례가 보고되었고 1489건은 확진 판정을 받았다 .	O O O O O O O O O O O O O O O
-영국 왕위 계승 서열 3위 이+ㄴ 조지 왕자(2)가 내년 1월부터 서민들이 다니는 유아원에 다니+ㄴ다고 켄싱턴궁이 18일(현지시간) 발표하였다 .	ORG-B O O O O O PER-B PER-I O O O O O O ORG-B O O O
-아시아나항공은 임직원들이 가족과 함께 전통시장을 방문하는 프로그램을 마련하였다 .	ORG-B O O O O O O O O
-반면 캔자스시티네드요스트 감독은 2점 차 리드를 잡자, 8회말부터 마무리 웨이드 데이비스를 마운드에 올리었다 .	O ORG-B O O O O O O O PER-B PER-I O O O
-지난해 투자액(5조7000억원)보다 30% 이상 늘어나 +ㄴ 역대 최대+이다 .	O MNY-B O O O O O O O
+무릎 · 고 관절 센터 , 어깨 · 팔 · 손목 센터 , 족부 센터 등 으로 세분화된 관절 센터 를 총괄하 는 이대영 원장 은 전문 분야 인 관절 내시경 과 인공관절 수술 에 역량 을 쏟 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+하지만 인사 를 했 는데 거의 쳐다보 지 도 않 았 다 ” 고 말해 성유리 를 민망하 게 만들 었 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O
+이 에 성유리 는 “ 우리 팀 이 시크 했 다 ” 고 말해 웃음 을 자아냈 다 .	O O PER-B O O O O O O O O O O O O O O O O
+정 의장 의 중재 로 여야 가 합의할 경우 17 일 본회의 가 열리 고 , 황 후보자 의 임명 동의 안 이 처리될 가능성 도 있 다 .	PER-B O O O O O O O O DAT-B DAT-I O O O O O PER-B O O O O O O O O O O O O
+따라서 국토 부 는 운항 이 재개되 는 즉시 항공기 운항 은 안전 운항 에 지장 이 없 는 범위 내 에서 시행 이 가능하 도록 정기 및 임시 항공편 을 증편 하 여 수송 용량 을 확대하 는 비상 수송 대책 을 마련할 계획 이 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 막돼먹 은 영애 씨 시즌 14 ’ 조현영 , 섹시한 가슴골 과시 ‘ 아찔 ’	O O O O O O O O PER-B O O O O O O O
+지난 3 월 용인시 아파트 3.3 ㎡ 당 평균 전셋값 은 787 만 원 으로 작년 동월 ( 705 만 원 ) 대비 11.6 % 나 올 랐 다 .	O DAT-B DAT-I LOC-B O O O O O O O MNY-B MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+3 년 여 밖에 남 지 않 은 올림픽 의 성공 개최 를 위한 방안 을 2 회 에 걸쳐 모색해 본다 .	O O O O O O O O O O O O O O O O O O O O O O O
+서울역 에서 KTX 로 부산 에 가서 자유 관광 을 즐긴 뒤 한일 페리 선 뉴 카멜리아 호 로 일본 유후인 과 벳부 의 온천 을 즐기 는 2 박 3 일 의 일정 이 다 .	LOC-B O O O LOC-B O O O O O O O ORG-B O O O O O O LOC-B LOC-B O LOC-B O O O O O O O O O O O O O O
+LG , 장애인 구한 해병대원 에게 장학금 및 채용 기회 제공	ORG-B O O O O O O O O O O
+지난해 10 월 부터 지난달 28 일 까지 7723 건 의 신생아 소두증 의심 사례 가 보고 됐 고 1489 건 은 확진 판정 을 받 았 다 .	O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+영국 왕위 계승 서열 3 위 인 조지 왕자 ( 2 ) 가 내년 1 월 부터 서민 들 이 다니 는 유아원 에 다닌다고 켄싱턴 궁 이 18 일 ( 현지 시간 ) 발표 했 다 .	ORG-B O O O O O O PER-B PER-I O O O O O DAT-B DAT-I O O O O O O O O O ORG-B O O DAT-B DAT-I O O O O O O O O
+아시아나항공 은 임직원 들 이 가족 과 함께 전통 시장 을 방문하 는 프로그램 을 마련 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+반면 캔자스시티 네드 요스트 감독 은 2 점 차 리드 를 잡 자 , 8 회 말 부터 마무리 웨이드 데이비스 를 마운드 에 올 렸 다 .	O ORG-B PER-B PER-I O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O
+지난해 투자 액 ( 5 조 7000 억 원 ) 보다 30 % 이상 늘어난 역대 최대 다 .	O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O

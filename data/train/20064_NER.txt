@@ -1,15 +1,15 @@
-'라디오 스타' 거미, "조정석이 노래시키느냐" 황 .	O O PER-B PER-B O O O
-크린카페는 스마트하우스와의 업무협약을 계기로 스마트하우스 회원점의 관리주택 나+의 소독 및 탈취, 새집증후군 제거 등의 업무에 협조 하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O O O O O O O
-서희건설과 반도건설 역시 직접 짓는 뉴스테이 관리를 맡는 방안을 검토 중이다 .	ORG-B ORG-B O O O O O O O O O O
-정지궤도에 9.6t까지 탑재체를 올리+ㄹ 수 있어 한 번에 2기의 위성 발사가 가능하다 .	O O O O O O O O O O O O O
-수원컨벤션센터 27일 첫 삽뜨+ㄴ .	LOC-B O O O O
-그 중 3명이 베트남 선원이+ㅂ니다 .	O O O ORG-B O O
-미국 재즈밴드에서 플루트 연주자로 활동하며 수많은 공연 경력을 쌓은 그녀는 재즈 플루트 전공은 물론 클래식, 재즈, 대중음악까지 다양하+ㄴ 장르를 공부하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-또 다른 그린벨트 해제 지역이+ㄴ 하남 미사지구에서도 지나 +ㄴ 5월 거래되+ㄴ ‘미사강변 푸르지오 1차’의 전용 84㎡가 최초 분양가 4억 2800만원에서 1억2133만원 오르+ㄴ 5억4933만원에 거래되었다 .	O O O O O LOC-B LOC-B O O MNY-B O LOC-B LOC-I LOC-I O MNY-B O O MNY-B MNY-I MNY-B O MNY-B O O
-성주 사드만으로 +ㄴ한계 … 수도권 방 .	LOC-B O O O LOC-B O O
-이광수가 가장 크+ㄴ 힘이 +었다 .	PER-B O O O O O
-2野, 예결-정보위 상설화 등 제안…與 모두 반대… 개원 늦어 지+ㄹ 수 .	O O O O O O O O O O O O
-천 전 의원과 관련 하+여서 +ㄴ “양당의 기득권 구조를 깨뜨리+어야 하+ㄴ다는 공통목표를 갖고 있기에 크+ㄴ틀에서 함께 가고 있다고 생각 하+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-[‘궁극의 전기차’ 수소연료전지차는 지금] 2020년 이후 대중화 속도 붙을  .	O O O O O O O O O O O
-급속충전 전 지 분야에서는 ‘에너지 밀도 손실 없이 급속충전을 구현하는 과제’(한국 전기연구원이상민 책임연구원) 등 3건, 기능성 외장 소재 분야에서는 ‘스스로 치유하는 신개념 금속 소재 연구’(연세대 김도향 신소재공학과 교수) 등 3건을 선정하였다 .	O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O ORG-B PER-B O O O O O O
-갓난아기 때 부친 방화로 고통의 나날 …기아대책- 한양대 도움으로 수술 받 .	O O O O O O O ORG-B O O O O
+' 라디오스타 ' 거미 , " 조정석 이 노래 시키 느냐 " 황당	O O O PER-B O O PER-B O O O O O O
+크린 카페 는 스마트 하우스 와 의 업무 협약 을 계기 로 스마트 하우스 회원 점 의 관리 주택 내 소독 및 탈취 , 새집 증후군 제거 등 의 업무 에 협조할 예정 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서희 건설 과 반도건설 역시 직접 짓 는 뉴 스테이 관리 를 맡 는 방안 을 검토 중 이 다 .	ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O
+정지 궤도 에 9.6 t 까지 탑재 체 를 올릴 수 있 어 한 번 에 2 기 의 위성 발사 가 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+수원 컨벤션 센터 27 일 첫 삽 뜬다	LOC-B LOC-I LOC-I DAT-B DAT-I O O O
+그 중 3 명 이 베트남 선원 입니다 .	O O O O O ORG-B O O O
+미국 재즈 밴드 에서 플루트 연주자 로 활동하 며 수많 은 공연 경력 을 쌓 은 그녀 는 재즈 플루트 전공 은 물론 클래식 , 재즈 , 대중음악 까지 다양한 장르 를 공부 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 다른 그린벨트 해제 지역 인 하남 미사 지구 에서 도 지난 5 월 거래된 ‘ 미사 강변 푸르지오 1 차 ’ 의 전용 84 ㎡ 가 최초 분양 가 4 억 2800 만 원 에서 1 억 2133 만 원 오른 5 억 4933 만 원 에 거래 됐 다 .	O O O O O O LOC-B LOC-I LOC-I O O O DAT-B DAT-I O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O
+성주 사드 만 으론 한계 … 수도권 방어	LOC-B O O O O O LOC-B O
+이광수 가 가장 큰 힘 이 됐 다 .	PER-B O O O O O O O O
+2 野 , 예결 - 정보 위 상설 화 등 제안 … 與 모두 반대 … 개원 늦어질 수 도	O O O O O O O O O O O O O O O O O O O O
+천 전 의원 과 관련해선 “ 양당 의 기득권 구조 를 깨뜨려야 한다는 공통 목표 를 갖 고 있 기 에 큰 틀 에서 함께 가 고 있 다고 생각한다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ ‘ 궁극 의 전기 차 ’ 수소 연료전지 차 는 지금 ] 2020 년 이후 대중 화 속도 붙 을 듯	O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+급속 충전 전지 분야 에서 는 ‘ 에너지 밀도 손실 없이 급속 충전 을 구현하 는 과제 ’ ( 한국 전기 연구원 이상민 책임 연구원 ) 등 3 건 , 기능성 외장 소재 분야 에서 는 ‘ 스스로 치유하 는 신 개념 금속 소재 연구 ’ ( 연세대 김도향 신소재 공학 과 교수 ) 등 3 건 을 선정 했 다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O
+갓난아기 때 부친 방화 로 고통 의 나날 … 기아 대책 - 한양대 도움 으로 수술 받 아	O O O O O O O O O O O O ORG-B O O O O O

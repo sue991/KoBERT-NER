@@ -1,13 +1,13 @@
-무상교환은 쿠폰 발급 후 6개월 이내에 가능하다 .	O O O O O O O O
-해당 제품은 드리+ㄹ 작업, 볼트 작업, 스크루 드라이빙 작업 등에 사용하는 18V 임팩 5종으로, 세계 최초로 드라이버와 렌치를 하나로 결합하+ 여작업 효율성을 높이 +ㄴ 충전 임팩 드라이버/렌치 2종(모델명 : GDX18V-EC/GDX18V-LI)과 충전 임팩 드라이버 2종(모델명 : GDR18V-EC/GDR18V-LI), 충전 임팩렌치 1종(모델명 : GDS18V-EC250)이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-『 이들이 40세가 되기 전에 경영권을 이양하+여주겠다』는 이동찬 회장 얘기이니 대권 승계를 눈앞에 두 +ㄴ 셈이다 .	O O O O O O O PER-B O O O O O O O O O
-올 들어 처음이자 청정지역 전북에 사상 첫 구제역이 발생(11일) 하+ㄴ지 2주가 지나 +았다 .	O O O O LOC-B O O O O O O O O O
-이번 전시회는 세계 수준이 +ㄴ 한국의 군사용 드론 기술을 민간으로 이전하는 방안을 논의하고 드론 관련 벤처기업을 조명하는 것이 특징이다 .	O O O O O ORG-B O O O O O O O O O O O O O O
-견본주택의 정식 개관일이+ㄴ 22일에는 LEDTV 등의 경품 추첨응모권과 롯데아울렛에서 1일 50만원 이상 구매 고객이나 연간 구매액 상위 1%에게만 지급되는 ‘롯데아울렛 VIP 쿠폰북 교환권’도 포함되 +어 있다 .	O O O O O O O O LOC-B O MNY-B O O O O O O O O LOC-B O O O O O O O
-또한 새로 바뀌+ㄴ 롯데캐슬 BI(브랜드 이미지)가 처음으로 적용되는 단지 이+ㄴ 만큼 관련 행사도 실시하+ㄴ다 .	O O O ORG-B ORG-I O O O O O O O O O O
-해상보안청은 내년에 7명을 전담부서에 배치하고 ‘해상보안국제협력 추진관’을 임명 하+여 관할 하도록 하+ㄹ 방침이다 .	ORG-B O O O O ORG-B O O O O O O O O
-다행스럽게도 일·가정 양립 문화가 확산되면서 육아휴직자도 크게 늘고 있습니다 .	O O O O O O O O O O
-캘리포니아는 해변이 있고 늘 날씨가 좋다 보니 사람들의 라이프 스타일이 여유롭다 .	LOC-B O O O O O O O O O O O
-우리가 방금 보+ㄴ, 널리 알려지+ㄴ 대신 전 외에 그것과 동시대에 짓어 지+ㄴ 작은 신전 하나가 더 있었다 .	O O O O O O O O O O O O O O O O O O
-삼성은 31일 수원 kt위즈파크에서 열리+ㄴ kt와 경기에서 8-6, 2점 차 승리를 거두었다 .	ORG-B O LOC-B LOC-I O ORG-B O O O O O O O
-서울중앙지검 특별수사팀(팀장 이철희 형사2부장)은 정부 책임진상규명 과정에서 가습기 살균제 원료 이+ㄴ 폴리헥사 메틸렌 구아니딘(PHMG)이 도입되+ㄴ 1996년부터 살균제 판매가 중단되+ㄴ 2011년까지를 검토하+ㄴ 결과, 당시 환경부 장관들을 소환하+ㄹ 필요가 있다는 결론을 내리었다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+무상 교환 은 쿠폰 발급 후 6 개월 이내 에 가능하 다 .	O O O O O O O O O O O O O
+해당 제품 은 드릴 작업 , 볼트 작업 , 스크루 드라이빙 작업 등 에 사용하 는 18 V 임 팩 5 종 으로 , 세계 최초 로 드라이버 와 렌치 를 하나 로 결합해 작업 효율 성 을 높인 충전 임 팩 드라이버 / 렌치 2 종 ( 모델 명 : GDX 18 V - EC / GDX 18 V - LI ) 과 충전 임 팩 드라이버 2 종 ( 모델 명 : GDR 18 V - EC / GDR 18 V - LI ) , 충전 임 팩 렌치 1 종 ( 모델 명 : GDS 18 V - EC 250 ) 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+『 이 들 이 40 세 가 되 기 전 에 경영권 을 이양해 주 겠 다 』 는 이동찬 회장 얘기 이 니 대권 승계 를 눈앞 에 둔 셈 이 다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+올 들 어 처음 이 자 청정 지역 전북 에 사상 첫 구제역 이 발생 ( 11 일 ) 한 지 2 주 가 지났 다 .	O O O O O O O O LOC-B O O O O O O O DAT-B DAT-I O O O O O O O O O
+이번 전시회 는 세계 수준 인 한국 의 군사 용 드론 기술 을 민간 으로 이전하 는 방안 을 논의하 고 드론 관련 벤처 기업 을 조명하 는 것 이 특징 이 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+견본 주택 의 정식 개관 일 인 22 일 에 는 LED TV 등 의 경품 추첨 응모 권 과 롯데 아울렛 에서 1 일 50 만 원 이상 구매 고객 이나 연간 구매 액 상위 1 % 에게 만 지급되 는 ‘ 롯데 아울렛 VIP 쿠폰 북 교환권 ’ 도 포함돼 있 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O LOC-B LOC-I O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 새로 바뀐 롯데캐슬 BI ( 브랜드 이미지 ) 가 처음 으로 적용되 는 단지 인 만큼 관련 행사 도 실시한다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+해상 보안 청 은 내년 에 7 명 을 전담 부서 에 배치하 고 ‘ 해상 보안 국제 협력 추진관 ’ 을 임명해 관할하 도록 할 방침 이 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다행스럽 게 도 일 · 가정 양립 문화 가 확산되 면서 육아 휴직자 도 크 게 늘 고 있 습니다 .	O O O O O O O O O O O O O O O O O O O O O
+캘리포니아 는 해변 이 있 고 늘 날씨 가 좋 다 보 니 사람 들 의 라이프 스타일 이 여유롭 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O
+우리 가 방금 본 , 널리 알려진 대 신전 외 에 그것 과 동시대 에 지 어 진 작 은 신전 하나 가 더 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성 은 31 일 수원 kt 위즈파크 에서 열린 kt 와 경기 에서 8 - 6 , 2 점 차 승리 를 거 뒀 다 .	ORG-B O DAT-B DAT-I LOC-B LOC-B LOC-I O O ORG-B O O O O O O O O O O O O O O O O
+서울중앙지검 특별 수사 팀 ( 팀장 이철희 형사 2 부장 ) 은 정부 책임 진상 규명 과정 에서 가습기 살균제 원료 인 폴리 헥사 메틸렌 구아니딘 ( PHMG ) 이 도입된 1996 년 부터 살균제 판매 가 중단된 2011 년 까지 를 검토한 결과 , 당시 환경부 장관 들 을 소환할 필요 가 있 다는 결론 을 내 렸 다 .	ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O

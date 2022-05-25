@@ -1,13 +1,13 @@
-이에 대하+여 KT 관계자는 “아이폰5S는 뛰어나 +ㄴ 성능·디자인으로 고객 수요가 꾸준하+여지원금 상하+ㄴ 규 .	O O ORG-B O O O O O O O O O O O
-현대홈쇼핑이 지나 +ㄴ 1일 신규 패션·뷰티 전문 프로그램 ‘최현우의 초이스’를 론칭 진행하였다고 밝히었다. 최현우의 초이스는 매주 목요일 오전 9시 25분부터 2시간 동안 진행되+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-반 전 총장은 이날 청년, 서민과의 소통에 집중하며 ‘미래지향적 지도자’의 이미지를 강화하는 데 주력하였다 .	PER-B O O O O O O O O O O O O O O
-같은 생각을 다 공유 하+ㄹ 수 있으리라 믿는다”고 말하였다. 앞서 +어 김 대표가 지나 +ㄴ 2일 야권통합을 전격 제안하자, 안 대표는 “저+의 이름이 안철수, 철수 안 하+ㄴ다”며 반대하였다 .	O O O O O O O O O O O PER-B O O O O O O PER-B PER-B O O O PER-B O PER-B O O O
-대변인론 지글러를 시키+어“이제 이 방법은 작동이 안 되+ㄴ다(inoperative)”는 논평을 내고 자진 사퇴를 결정하였다 .	PER-B PER-I O O O O O O O O O O O O
-상업영화에서 +ㄴ아직 단편적 이+ㄴ 조역을 전전하고 있지만, 인디 영화 ‘위너독’에서는 세상 답답하+ㄴ영화감독 지망생 역으로 신선하게 웃기+어주+ㄹ 예정.요 아킴트리에 감독의 말처럼 “놀랍도록 노련하고 촉이 좋은”이 배우의 반전 매력은 한번 눈 뜨면 빠져나오기 힘들다 .	PER-I O O PER-B O O O O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O
-200만원의 수익까지는 비과세, 200만원 초과수익은 9.9%의 낮은 세율을 매기+ㄴ다는 것+이 가장 크+ㄴ 혜택이다 .	MNY-B O O MNY-B O O O O O O O O O O
-그동안 검찰 수사에서 비자금 조성 혐의 등으로 구속되거나 구속영장이 청구되 +ㄴ 포스코건설 전현직 임원은 박모 상무(52) 등 모두 8명이다 .	O ORG-B O O O O O O O O O ORG-B O O PER-B ORG-B O O O O
-그는 1998년 강원도의 한 고등학교에서 지도자 생활을 시작하였다 .	O O LOC-B O O O O O O
-'최자'가 아니+ㄴ '치자'로 표기되+ㄴ 문구가 웃음을 자아내 +ㄴ다 .	PER-B O O O O O O O O
-차차 이씨는 『13년 전 같은 영화의 주연을 맡아 가깝어 +지었다』며 자신이 먼저 프로포즈+하였다고 털어놓았다 .	PER-B O O O O O O O O O O O O O O
-그러나 SBS의 스포츠 채널 인수에 대하+ 여케이블 업계로의 튼실 하+ㄴ자본의 유입이라는 긍정적 반응이 있는 반면, 공중파 방송의 거대 공룡화+이라는 지적도 함께 나오고 있다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-강화군 관계자는 “강화 외성문화재와의 조화롭 ㄴ 역사문화환경을 조성하기 위하+여주 거지역을 정비하고 관광객을 위하+ㄴ 근린생활시설을 갖추+ㄹ 수 있도록 하+ㄹ 계획”이라고 말하였다 .	LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O
+이 에 대해 KT 관계자 는 “ 아이폰 5 S 는 뛰어난 성능 · 디자인 으로 고객 수요 가 꾸준해 지원금 상한 규정	O O O ORG-B O O O O O O O O O O O O O O O O O O O
+현대홈쇼핑 이 지난 1 일 신규 패션 · 뷰티 전문 프로그램 ‘ 최현우 의 초이스 ’ 를 론칭 진행 했 다고 밝 혔 다 . 최현우 의 초이스 는 매주 목요일 오전 9 시 25 분 부터 2 시간 동안 진행된다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O
+반 전 총장 은 이날 청년 , 서민 과 의 소통 에 집중하 며 ‘ 미래 지향 적 지도자 ’ 의 이미지 를 강화하 는 데 주력 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+같 은 생각 을 다 공유할 수 있 으리라 믿 는다 ” 고 말 했 다 . 앞서 김 대표 가 지난 2 일 야권 통합 을 전격 제안하 자 , 안 대표 는 “ 제 이름 이 안철수 , 철수 안 한다 ” 며 반대 했 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O DAT-B DAT-I O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O
+대변인 론 지글러 를 시켜 “ 이제 이 방법 은 작동 이 안 된다 ( inoperative ) ” 는 논평 을 내 고 자진 사퇴 를 결정 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+상업 영화 에선 아직 단편적 인 조역 을 전전하 고 있 지만 , 인디 영화 ‘ 위너 독 ’ 에서 는 세상 답답한 영화감독 지망생 역 으로 신선하 게 웃겨 줄 예정 . 요아킴 트리 에 감독 의 말 처럼 “ 놀랍 도록 노련하 고 촉 이 좋 은 ” 이 배우 의 반전 매력 은 한 번 눈 뜨 면 빠져나오 기 힘들 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+200 만 원 의 수익 까지 는 비과세 , 200 만 원 초과 수익 은 9.9 % 의 낮 은 세율 을 매긴다는 게 가장 큰 혜택 이 다 .	MNY-B MNY-I MNY-I O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+그동안 검찰 수사 에서 비자금 조성 혐의 등 으로 구속되 거나 구속영장 이 청구 된 포스코건설 전 현직 임원 은 박 모 상무 ( 52 ) 등 모두 8 명 이 다 .	O ORG-B O O O O O O O O O O O O O ORG-B O O O O PER-B PER-I ORG-B O O O O O O O O O O
+그 는 1998 년 강원도 의 한 고등학교 에서 지도자 생활 을 시작 했 다 .	O O DAT-B DAT-I LOC-B O O O O O O O O O O O
+' 최자 ' 가 아닌 ' 치자 ' 로 표기된 문구 가 웃음 을 자아낸다 .	O PER-B O O O O O O O O O O O O O O
+찻 차이 씨 는 『 13 년 전 같 은 영화 의 주연 을 맡 아 가까 워 졌 다 』 며 자신 이 먼저 프로포즈 했 다고 털어 놨 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 SBS 의 스포츠 채널 인수 에 대해 케이블 업계 로 의 튼실한 자본 의 유입 이 라는 긍정적 반응 이 있 는 반면 , 공중 파 방송 의 거대 공룡 화 라는 지적 도 함께 나오 고 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강화군 관계자 는 “ 강화 외성 문화재 와 의 조화로 운 역사 문화 환경 을 조성하 기 위해 주거 지역 을 정비하 고 관광객 을 위한 근린 생활 시설 을 갖출 수 있 도록 할 계획 ” 이라고 말 했 다 .	ORG-B O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-전원책 변호사가 미국 공화당 대선 후보+이었던 도널드 트럼프가 대선에서 승리 하+ㄴ다는 미리 점치며 ‘전 스트라 다 무스’로 등극하였다 .	PER-B O ORG-B ORG-I O O PER-B PER-I O O O O O PER-B O O O O O
-4500여 업체에 5만여명이 일하고 있다 .	O O O O O O
-국내에서 +ㄴ 2012년 3월 출범 하+ㄴ한국국토정보공사 공간정보연구원에서 수십 건의 공간정보산업 프로젝트를 진행하고 있다 .	O O O O O ORG-B ORG-I O O O O O O O
-이들은 또 공정위가 지난해 5월 일감 몰아주기 관련 조사를 벌이자 6개월 뒤 이+ㄴ 11월 주식 전량을 대한항공에 팔면서 49억원의 매매차익도 +았다 .	O O ORG-B O O O O O O O O O O O O O ORG-B O MNY-B O O O
-시진핑(習近平) 중국 국가주석이 지난해 9월 미국을 국빈 방문 하+ㄹ 때, 또 한 달 후 영국을 찾을 때 중국의 정보기술(IT) 업계 총수 대부분이 동행하었는데 유독 레이쥔만 빠지었다 .	PER-B ORG-B O O O ORG-B O O O O O O O O ORG-B O O ORG-B O O O O O O PER-B O O
-일본=‘맥아더 라인이란 무엇이 +ㄴ가. .	ORG-B O O O O
-이번 조사에서는 2015년 기준으로 하+ㄴ달에 231원 이상 소비하지 않는 품목 위주로 제외되었다 .	O O O O O MNY-B O O O O O O O
-나리시키+ㄴ 하원의장은 히로시마 방문 때 1945년 원폭 투하 직후 주일본 소련 대사관이 현지에서 촬영하+ㄴ 사진을 일본 측에 기증하는 방안을 검토하고 있다 .	PER-B O LOC-B O O O O O O ORG-B O O O O O ORG-B O O O O O O
-구제역 바이러스는 76도 이상에서 7초간 가열하면 바이러스가 파괴되는 것으로 알려지+어 있다 .	O O O O O O O O O O O O
-2020년 상용화를 목표로 국제표준화 단체 이+ㄴ 3G PP와 국제전기통신연합(ITU)이 표준화 작업을 추진 중이다 .	O O O ORG-B O O ORG-B O ORG-B O O O O O
-배에 힘을 주+어 중심을 잡고 30초~1분 정도 유지하+ㄴ다 .	O O O O O O O O O
-이 감독은 “처음에는 몸에 힘이 많이 들어가 +ㄴ 것 같아 걱정하였었는데 공을 던지며 적응하+여 좋은 피칭을 보이어 +주었다 .	PER-B O O O PER-B PER-B O O O O O O O O O O PER-B O O
+전원책 변호사 가 미국 공화당 대선 후보 였 던 도널드 트럼프 가 대선 에서 승리한다는 미리 점치 며 ‘ 전 스트라다 무스 ’ 로 등극 했 다 .	PER-B O O ORG-B ORG-I O O O O PER-B PER-I O O O O O O O O PER-B PER-I PER-I O O O O O O
+4500 여 업체 에 5 만 여 명 이 일하 고 있 다 .	O O O O O O O O O O O O O O
+국내 에선 2012 년 3 월 출범한 한국 국토 정보 공사 공간 정보 연구원 에서 수십 건 의 공간 정보 산업 프로젝트 를 진행하 고 있 다 .	O O DAT-B DAT-I DAT-I DAT-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O
+이 들 은 또 공정 위 가 지난해 5 월 일감 몰아주 기 관련 조사 를 벌이 자 6 개월 뒤 인 11 월 주식 전량 을 대한항공 에 팔 면서 49 억 원 의 매매 차익 도 봤 다 .	O O O O ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I O O O ORG-B O O O MNY-B MNY-I MNY-I O O O O O O O
+시진핑 ( 習近平 ) 중국 국가주석 이 지난해 9 월 미국 을 국빈 방문할 때 , 또 한 달 후 영국 을 찾 을 때 중국 의 정보 기술 ( IT ) 업계 총수 대부분 이 동행 했 는데 유독 레이쥔 만 빠 졌 다 .	PER-B O PER-B O ORG-B O O O DAT-B DAT-I ORG-B O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O PER-B O O O O O
+일본 = ‘ 맥아더 라인 이란 무엇 인가 . ’	ORG-B O O PER-B O O O O O O
+이번 조사 에서 는 2015 년 기준 으로 한 달 에 231 원 이상 소비하 지 않 는 품목 위주 로 제외 됐 다 .	O O O O DAT-B DAT-I O O DAT-B DAT-I O MNY-B MNY-I O O O O O O O O O O O O
+나리 시킨 하원 의장 은 히로시마 방문 때 1945 년 원폭 투하 직후 주 일본 소련 대사관 이 현지 에서 촬영한 사진 을 일본 측 에 기증하 는 방안 을 검토하 고 있 다 .	PER-B PER-I O O O LOC-B O O DAT-B DAT-I O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+구제역 바이러스 는 76 도 이상 에서 7 초 간 가열하 면 바이러스 가 파괴되 는 것 으로 알려져 있 다 .	O O O O O O O O O O O O O O O O O O O O O O
+2020 년 상용 화 를 목표 로 국제 표준화 단체 인 3 GPP 와 국제 전기 통신 연합 ( ITU ) 이 표준화 작업 을 추진 중 이 다 .	DAT-B DAT-I O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O
+배 에 힘 을 줘 중심 을 잡 고 30 초 ~ 1 분 정도 유지한다 .	O O O O O O O O O O O O O O O O O
+이 감독 은 “ 처음 에 는 몸 에 힘 이 많이 들어간 것 같 아 걱정 했었 는데 공 을 던지 며 적응해 좋 은 피칭 을 보 여 줬 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-한국인 질병 1위, ‘급성기관지염’으로 작년 1, 499만명 병원 찾 .	O O O O O O O O O O
-2000년대 초반까지 승승장구하던 ‘커피 왕국’ 스타벅스가 위기를 맞은 것 +ㄴ고작 커피 한잔에 비싸 +ㄴ값을 매기는 ‘뻔뻔하+ㅁ’ 탓이 +었다 .	O O O O O ORG-B O O O O O O O O O O O O O
-아이콘, 오늘(16일) 단독 콘서트 예매 오픈… 콘서트 규모는 .	ORG-B O O O O O O O O
-한편 베이비카라 소진은 24일 오후 2시7분께 대전 대덕구 한 아파트 화단에서 쓰러지+ㄴ 채 발견되+어 인근 병원으로 옮기+어+지었으나 끝내 숨지었다 .	O ORG-B O O O O LOC-B LOC-B O O O O O O O O O O O O
-경찰은 소진이 해당 아파트 10층에서 떨어지+ㄴ 것으로 보고 유족 등을 상대로 정확하+ㄴ사인을 조사하고 있다 .	O PER-B O O O O O O O O O O O O O
-소진 측 관계자는 “유서는 아직 발견되지 않았으며 추측 및 확대 보도를 최대한 자제 하+여주기+ㄹ바라+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O
-DSP 미디어에서 약 5년간 연습생으로 지내며 가수의 꿈을 키우어 오+ㄴ 소진은 지난해 방송되+ㄴ MBC 뮤직 ‘카라 프로젝트-카라 더비기닝’를 통하+여 얼굴을 알리었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
-“黨기구가 사조직되+어”잇달+ㄴ 성명… 추미애 “진상조사위 구성하+ㄹ 것 .	O O O PER-B O O O O
-지역별로는 수도권 지역에서 31.8%로 가장 높은 시청률을 보이었다 .	O LOC-B O O O O O O O
-송파 두산위브는 11·3 대책 발표 전에 분양 공고가 나 +았기 때문에 올해 3월 이후 분양권을 되팔+ㄹ 수 있다 .	LOC-B LOC-B O O O O O O O O O O O O O O O O O
-『당은 김종필 대표를 중심으로 단합하라! .	O PER-B O O O O
-부산시가 업체의 폐업자산을 거래하거나 교환, 또는 재활용하는 사업을 추진하+ㄴ다 .	ORG-B O O O O O O O O O
-김효주는 “좁고 까다롭 ㄴ 중국 골프장에서 우승을 해 US 여자 오픈을 향하+ㄴ 자신감을 얻었다”고 말하였다 .	PER-B O O O LOC-B O O O O O O O O O O O
-법외노조 판결 뒤 두 달간 수차례 “2001년 국고보조금으로 지원 하+ㄴ본부 사무실 임차보증금 6억원을 반납하라”고 요구하었지만 전교조가 응하지 않자 초강경 대응에 나서 +ㄴ 것.교육부 관계자는 “전교조의 자발적 이+ㄴ국고보조금 반납을 기대하+ㄹ 수 없어 강제징수 하+ㄹ 수밖에 없다고 판단하였다”고 밝히었다 .	O O O O O O O O O O O O MNY-B O O ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+한국인 질병 1 위 , ‘ 급성 기관지염 ’ 으로 작년 1,499 만 명 병원 찾 아	O O O O O O O O O O O O O O O O O
+2000 년대 초반 까지 승승장구하 던 ‘ 커피 왕국 ’ 스타벅스 가 위기 를 맞 은 건 고작 커피 한 잔 에 비싼 값 을 매기 는 ‘ 뻔뻔함 ’ 탓 이 컸 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+아이콘 , 오늘 ( 16 일 ) 단독 콘서트 예매 오픈 … 콘서트 규모 는 ?	ORG-B O O O DAT-B DAT-I O O O O O O O O O O
+한편 베이비 카라 소진은 24 일 오후 2 시 7 분 께 대전 대덕구 한 아파트 화단 에서 쓰러진 채 발견돼 인근 병원 으로 옮겨 졌 으나 끝내 숨 졌 다 .	O ORG-B ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B O O O O O O O O O O O O O O O O O O
+경찰 은 소진 이 해당 아파트 10 층 에서 떨어진 것 으로 보 고 유족 등 을 상대 로 정확한 사인 을 조사하 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+소진 측 관계자 는 “ 유서 는 아직 발견되 지 않 았 으며 추측 및 확대 보도 를 최대한 자제해 주 길 바란다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+DSP 미디어 에서 약 5 년 간 연습생 으로 지내 며 가수 의 꿈 을 키 워 온 소진은 지난해 방송된 MBC 뮤직 ‘ 카라 프로젝트 - 카라 더 비기닝 ’ 를 통해 얼굴 을 알 렸 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 黨 기구 가 사조직 돼 ” 잇단 성명 … 추미애 “ 진상 조사 위 구성할 것 ”	O O O O O O O O O O PER-B O O O O O O O
+지역 별 로 는 수도권 지역 에서 31.8 % 로 가장 높 은 시청률 을 보 였 다 .	O O O O LOC-B O O O O O O O O O O O O O O
+송파 두산위브 는 11 · 3 대책 발표 전 에 분양 공고 가 났 기 때문 에 올해 3 월 이후 분양 권 을 되팔 수 있 다 .	LOC-B LOC-B O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+『 당 은 김종필 대표 를 중심 으로 단합하 라 ! 』	O O O PER-B O O O O O O O O
+부산시 가 업체 의 폐업 자산 을 거래하 거나 교환 , 또는 재활용하 는 사업 을 추진한다 .	ORG-B O O O O O O O O O O O O O O O O O
+김효주 는 “ 좁 고 까다로 운 중국 골프장 에서 우승 을 해 US 여자 오픈 을 향한 자신감 을 얻 었 다 ” 고 말 했 다 .	PER-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+법 외 노조 판결 뒤 두 달 간 수차례 “ 2001 년 국고 보조금 으로 지원한 본부 사무실 임차 보증금 6 억 원 을 반납하 라 ” 고 요구 했 지만 전교조 가 응하 지 않 자 초 강경 대응 에 나선 것 . 교육부 관계자 는 “ 전교조 의 자발적 인 국고보조금 반납 을 기대할 수 없 어 강제 징수할 수 밖에 없 다고 판단 했 다 ” 고 밝 혔 다 .	O O O O O O O O O O DAT-B DAT-I O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-키이스트와 전속계약, 엄정화 엄태웅까지 … '점점 커지네 .	ORG-B O PER-B PER-B O O O O
-개봉을 앞두고 열리+ㄴ기자 간담회에서 김 감독은 “나+의 스타일이나 자의식을 고집하지 않고 이야기가 흐르는 대로 따라가 +ㄴ 첫 작품”이라며 “〈밀정〉은 단순히 스파이를 쫓는 첩보물이 아니라, 누구나 밀정이 되+ㄹ 수 있었던 시대와 그 시대를 살아내 +ㄴ사람들의 치열 하+ㄴ 삶에 대하+ㄴ이야기”라고 밝히었다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-▼ 감독 데뷔작 이+ㄴ〈 조용하+ㄴ 가족〉(1988)을 시작으로 〈반칙왕〉(2000), 〈좋은 놈, 나쁘+ㄴ놈, 이상 하+ㄴ놈〉(2008), 그리고 〈밀정〉까지 네 작품을 송강호씨와 함께하였습니다 .	O O O O O O O PER-B O O O O O O O O O PER-B O O
-에이서는 또 한 번의 변화를 예고하였다 .	ORG-B O O O O O O
-단순히 선박만 팔던 현대중공업이 이 시스템을 주기적으로 유지보수하면서 추가 수입도 올리+ㄹ 수 있다 .	O O O ORG-B O O O O O O O O O O
-오는 7월 1일부터 부사장직을 수행하게 되+ㄹ 김지섭 상무는 2002년 메르세데스 벤츠의 인재육성 프로그램이+ㄴ아시아경영어소시에이트 프로그램(AsiaManagementAssociateP rogram)에선발되+어 메르세데스 벤츠 코리아에서 근무를 시작하였다 .	O O O O O O PER-B O O ORG-B ORG-I O O O O ORG-B ORG-I O O O O
-역대 상대 전적은 1승1무 19패가 +었다 .	O O O O O O O
-‘'페레로 로쉐' 오너 미켈 레페레로, 밸런타인데이에 사망’ 온라인 중앙일보 ‘'페레로 로쉐' 오너 미켈레페레로, 밸런타인데이에 사망’[사진 중앙포토 .	ORG-I ORG-I O O O O O O O O O O O O O O O
-이들 초대형 개발사업은 특히 인구 유입 효과가 매우 크다는 점에서 평택 부동산 시장의 불쏘시개가 되고 있다 .	O O O O O O O O O O LOC-B O O O O O O
-특히 주한미군기지 이전은 막대하+ㄴ 주택 수요를 불러 오+ㄴ다는 점에서 핵폭탄급 개발 호재로 평가받고 있다 .	O ORG-B O O O O O O O O O O O O O
-A씨는 삼성서울병원 산부인과 병동에 입원 중이던 임신부로 남편과 어머니, 아버지도 메르스 확진 판정을 받았다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O
-제네시스 브랜드 론칭과 신차 출시 효과가 대내외 불안 요인 속에서도 국내 고급차 시장의 규모를 확대시키었다는 평가+이다 .	O O O O O O O O O O O O O O O O O
-2016년 1~9월까지 국내 고급차 시장 판매량은 10만 5666대로 지난해 같은 기간 (9만7581대) 대비 8% 증가하였으며, 이중 제네시스 브랜드는 4만9222대로 지난해 같은 기간 (3만1123대) 대비 58% 증가하는 등 시장 평균 성장률보다 7배의 성장세를 보이며 국내 고급차 시장의 성장을 주도하였다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-최 박사는 “객체의 움직임 패턴과 이를 해독하는 시스템을 표준화 하+여 영상을 정확하게 인식·해석하는 기술을 개발하+ㄹ 계획”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O
+키이스트 와 전속 계약 , 엄정화 엄태웅 까지 … ' 점점 커지 네 '	ORG-B O O O O PER-B PER-B O O O O O O O
+개봉 을 앞두 고 열린 기자 간담회 에서 김 감독 은 “ 내 스타일 이나 자의식 을 고집하 지 않 고 이야기 가 흐르 는 대로 따라간 첫 작품 ” 이 라며 “ 〈 밀정 〉 은 단순히 스파이 를 쫓 는 첩보 물 이 아니 라 , 누구 나 밀정 이 될 수 있 었 던 시대 와 그 시대 를 살 아 낸 사람 들 의 치열한 삶 에 대한 이야기 ” 라고 밝 혔 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+▼ 감독 데뷔작 인 〈 조용한 가족 〉 ( 1988 ) 을 시작 으로 〈 반칙 왕 〉 ( 2000 ) , 〈 좋 은 놈 , 나쁜 놈 , 이상한 놈 〉 ( 2008 ) , 그리고 〈 밀정 〉 까지 네 작품 을 송강호 씨 와 함께 했 습니다 .	O O O O O O O O O DAT-B O O O O O PER-B PER-I O O DAT-B O O O O O O O O O O O O O O DAT-B O O O O O O O O O O PER-B O O O O O O
+에이서 는 또 한 번 의 변화 를 예고 했 다 .	ORG-B O O O O O O O O O O O
+단순히 선박 만 팔 던 현대중공업 이 이 시스템 을 주기적 으로 유지 보수하 면서 추가 수입 도 올릴 수 있 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O
+오 는 7 월 1 일 부터 부사장 직 을 수행하 게 될 김지섭 상무 는 2002 년 메르세데스 벤츠 의 인재 육성 프로그램 인 아시아 경영 어소시에이트 프로그램 ( Asia Management Associate Program ) 에 선발돼 메르세데스벤츠코리아 에서 근무 를 시작 했 다 .	O O DAT-B DAT-I DAT-I DAT-I O O O O O O O PER-B O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+역대 상대 전적 은 1 승 1 무 19 패 가 됐 다 .	O O O O O O O O O O O O O O
+‘ ' 페레로 로 쉐 ' 오너 미켈레 페레로 , 밸런타인데이 에 사망 ’ 온라인 중앙일보 ‘ ' 페레로 로 쉐 ' 오너 미켈레 페레로 , 밸런타인데이 에 사망 ’ [ 사진 중앙 포토 ]	O O ORG-B ORG-I ORG-I O O PER-B PER-I O DAT-B O O O O O O O ORG-B ORG-I ORG-I O O PER-B PER-I O DAT-B O O O O O O O O
+이 들 초대형 개발 사업 은 특히 인구 유입 효과 가 매우 크 다는 점 에서 평택 부동산 시장 의 불쏘시개 가 되 고 있 다 .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+특히 주한 미군 기지 이전 은 막대한 주택 수요 를 불러온다는 점 에서 핵폭탄 급 개발 호재 로 평가 받 고 있 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+A 씨 는 삼성서울병원 산부인과 병동 에 입원 중 이 던 임신부 로 남편 과 어머니 , 아버지 도 메르스 확진 판정 을 받 았 다 .	PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+제네시스 브랜드 론칭 과 신차 출시 효과 가 대내외 불안 요인 속 에서 도 국내 고급 차 시장 의 규모 를 확대 시 켰 다는 평가 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2016 년 1 ~ 9 월 까지 국내 고급 차 시장 판매량 은 10 만 5666 대 로 지난해 같 은 기간 ( 9 만 7581 대 ) 대비 8 % 증가 했 으며 , 이 중 제네시스 브랜드 는 4 만 9222 대 로 지난해 같 은 기간 ( 3 만 1123 대 ) 대비 58 % 증가하 는 등 시장 평균 성장률 보다 7 배 의 성장세 를 보이 며 국내 고급 차 시장 의 성장 을 주도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 박사 는 “ 객체 의 움직임 패턴 과 이 를 해독하 는 시스템 을 표준화해 영상 을 정확하 게 인식 · 해석하 는 기술 을 개발할 계획 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

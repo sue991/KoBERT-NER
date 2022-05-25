@@ -1,14 +1,14 @@
-카나브는 한국에서 1만4000여명의 대규모 임상 4상을 진행하였다 .	ORG-B LOC-B O O O O O O
-청와대 관계자는 “최근 여야 협상 과정에서 청와대는 야당뿐 아니라 여당의 눈치까지 살피+어야 +였다”며 “당청사이에 ‘진실공방’이 되풀이되면서 정부의 신뢰가 떨어지는 상황을 방치하+ㄹ 수 없는 것 아니냐”고 말하였다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-얼마 전 미국의 극장 체인 AMC를 인수하+ㅁ으로써 중국을 포함하+여 전 세계에서 가장 많은 극장을 보유 하+ㄴ 업체가 +었다 .	O O ORG-B O O ORG-B O ORG-B O O O O O O O O O O O
-새누리당의 문제제기에도 무겁게 받아드리겠다”는 입장을 밝히+ㄴ바 있다 .	ORG-B O O O O O O O
-그러나 새누리당은 이 같은 정 의장의 입장 표명을 받아들이지 않고 정 의장에 대하+ㄴ ‘사퇴 촉구 결의안’을 2일 국회에 공식 제출하였다 .	O ORG-B O O PER-B O O O O O PER-B O O O O O O O O O O
-한편 박 위원장은 이보다 조금 앞서 +어 자신의 페이스북에 “버스 지나가 +ㄴ 다음에 법석 떨는 것은 집권 여당답지도 못하+ㄴ한 심하+ㅁ을 그대로 나타내 +었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O
-12월 결산법인의 배당지급이 한 달 앞으로 다가오았다 .	O O O O O O O O
-미스터도넛, 여름 휴가 맞고 마닐라 왕복 티켓 쏘+ㄴ .	ORG-B O O O LOC-B O O O O
-승부조작에 불법 도박… 김선형 잇어장재석, 안재욱, 김현민도? .	O O O PER-B PER-B PER-B PER-B O
-작가-디자이너-출판사 합심 그림책협회 상반기 출 .	O O ORG-B O O O
-영화는 살인자가 되+ㄴ 사건의 목격자가 10년간 억울하게 복역 하+ㄴ 뒤 재심을 통하+여 누명을 벗는 이야기+이다 .	O O O O O O O O O O O O O O O O
-전인지는 2013년, 김효주는 작년 이 대회에서 시즌 첫 승을 올리면서 우승 행진을 시작하였다 .	PER-B O PER-B O O O O O O O O O O O
-이 전 대통령이 건강에 문제가 있다고 느끼+ㄴ 것은 2009년 하반기.이 전 대통령은 “기력이 떨어지+ㄴ 것이 느끼+어+지었다 .	PER-B O PER-B O O O O O O PER-B O O PER-B O PER-B O O
-이번에 선보이+ㄴ서피스 프로 4의 펜은 종이 에 볼펜으로 필기를 하듯이 매끄럽고 부드럽ㄴ필기감을 제공하+ㄴ다고 한국 마이크로소프트는 설명하였다 .	O O O O O O O O O O O O O ORG-B ORG-I O O
+카나 브 는 한국 에서 1 만 4000 여 명 의 대규모 임상 4 상 을 진행 했 다 .	ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O
+청와대 관계자 는 “ 최근 여야 협상 과정 에서 청와대 는 야당 뿐 아니 라 여당 의 눈치 까지 살펴야 했 다 ” 며 “ 당 청 사이 에 ‘ 진실 공방 ’ 이 되풀이되 면서 정부 의 신뢰 가 떨어지 는 상황 을 방치할 수 없 는 것 아니 냐 ” 고 말 했 다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+얼마 전 미국 의 극장 체인 AMC 를 인수함 으로써 중국 을 포함해 전 세계 에서 가장 많 은 극장 을 보유한 업체 가 됐 다 .	O O ORG-B O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O
+새누리당 의 문제 제기 에 도 무겁 게 받 아 드리 겠 다 ” 는 입장 을 밝힌 바 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+그러나 새누리당 은 이 같 은 정 의장 의 입장 표명 을 받아들이 지 않 고 정 의장 에 대한 ‘ 사퇴 촉구 결의안 ’ 을 2 일 국회 에 공식 제출 했 다 .	O ORG-B O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O
+한편 박 위원장 은 이 보다 조금 앞서 자신 의 페이스북 에 “ 버스 지나간 다음 에 법석 떠 는 것 은 집권 여당 답지 도 못한 한심함 을 그대로 나타냈 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+12 월 결산 법인 의 배당 지급 이 한 달 앞 으로 다가 왔 다 .	DAT-B DAT-I O O O O O O O O O O O O O O
+미스터 도넛 , 여름휴가 맞 아 마닐라 왕복 티켓 쏜다	ORG-B ORG-I O O O O LOC-B O O O
+승부 조작 에 불법 도박 … 김선형 이 어 장재석 , 안재욱 , 김현민 도 ? !	O O O O O O PER-B O O PER-B O PER-B O PER-B O O O
+작가 - 디자이너 - 출판사 합심 그림책 협회 상반기 출범	O O O O O O ORG-B ORG-I O O
+영화 는 살인자 가 된 사건 의 목격자 가 10 년 간 억울하 게 복역한 뒤 재심 을 통해 누명 을 벗 는 이야기 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+전인지 는 2013 년 , 김효주 는 작년 이 대회 에서 시즌 첫 승 을 올리 면서 우승 행진 을 시작 했 다 .	PER-B O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O
+이 전 대통령 이 건강 에 문제 가 있 다고 느낀 것 은 2009 년 하반기 . 이 전 대통령 은 “ 기력 이 떨어진 것 이 느껴 졌 다 .	PER-B O O O O O O O O O O O O DAT-B DAT-I O O PER-B O O O O O O O O O O O O O
+이번 에 선보인 서피스 프로 4 의 펜 은 종이 에 볼펜 으로 필기 를 하 듯이 매끄럽 고 부드러 운 필기 감 을 제공한다고 한국 마이크로소프트 는 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O

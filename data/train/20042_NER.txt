@@ -1,14 +1,14 @@
-정두언 전 새누리당 의원(사진)이 ‘최순실 게이트’가 박근혜 대통령에게 앙심을 품은 일종의 복수전이라고 주장 하+여 논란이 일고 있다 .	PER-B O ORG-B O O O PER-B O O O O O O O O O O O
-그렇다 하+ㄴ들 남편이 그 마음을 모르기 야+였을까. 차씨는 “지금도 그때를 생각하면 아내에게 미안하고 고맙 ㄴ 마음이 들+ㄴ다”고 +였다 .	O O O O O O O PER-B O O O O O O O O O O O
-은하 3호를 발사하+ㄴ평안북도 철산군 동창리 미사일 발사대의 높이는 30m.이 발사대는 최근 60∼65m 정도로 증축되었다 .	O O LOC-B LOC-B LOC-B O O O O O O O O O O
-●광주도 3루에요.(KIA 김기태 감독.원정팀 감독으로 잠실구장 3루 쪽덕 아웃에서는 기분을 묻자) ●박병호가 곧 3루수로 나가 +ㄹ 것 같은데요.(넥센염경엽 감독.2 루수서 건창의 부상으로 시즌 초반부터 플랜B를 꺼내+어야 하는 상황에서 또 다른 선수가 다치기라도 하면 울며 겨자 먹기로 박병호를 3루수로 내+ㄹ 수밖에 없다며) ●갑자기 귀가간지럽어요.(두산홍성흔. 김태형 감독이 4번 타자 홍성흔의 컨디션이 곧 올라 오+ㄹ 것이라고 말하고 있을 때멀 찌감치 떨어지+어 있다가 갑자기) ●우리 팀 말고 다른 팀에 잘하였으면 좋겠구먼.(삼성류중일 감독.한화베테랑 내야수권용관이 적지 않은 나이에도 새로이적 하+ㄴ팀에서 잘하고 있어 보기 좋다며) ●프로감독하면서 이렇게 해명이라는 것+ㄹ 하+여보+ㄴ 것+ㄴ 처음 이야.(한화 김성근 감독.빈볼 사태로 징계를 받은 부분에 대하+ 여격정을 토로하다) [스포츠 동아 .	O ORG-B PER-B O O LOC-B O O O O O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O PER-B O O O O O ORG-B PER-B O O O PER-B O O O O O O O O O O O O O O O O O O ORG-B ORG-B PER-B O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O ORG-B ORG-I O
-최순실 대선 관여 의혹에 +ㄴ “모르았다 .	PER-B O O O O O O
-32만5000개.전국에 설치되 +ㄴ 볼라드(boll ard·차량 통행을 막는 말뚝) 개수다 .	O O O O O O O O O O
-채수빈, 구자욱과 열애설 부인 …연인도 아니+ㄴ데 손잡고 ? 소속사 “오해살 만 하지만 …”배우 채수빈이 프로야구 삼성 라이온즈의 구자욱과의 열애설을 부인하였다 .	PER-B PER-B O O O O O O O O O O O PER-B O ORG-B ORG-I PER-B O O O
-채수빈의 소속사 토인 엔터테인먼트 측은 21일 “두 사람은 친하+ㄴ 사이 이+ㄹ 뿐 연 인 사이는 아니다” +이라며 열애설을 일축하였다 .	PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O
-소속사 측은 또 “사진은 다르+ㄴ지인들과 함께 있다가 지방으로 내려가는 구자욱 선수를 배웅하는 사진”이라며 “사진만 보면 충분히 오해를 사+ㄹ 수 있다고 생각하+ㄴ다 .	O O O O O O O O O PER-B O O O O O O O O O O O O
-기아車, K2中판매 호조에 …글로벌 판매 증가세로 첫 전 .	ORG-B ORG-B O O O O O O O
-국수산맥배는 김인국 수의 고향이+ㄴ 강진군과 조훈현 국수의 고향이+ㄴ 영암군, 그리고 이세돌의 고향이+ㄴ 신안군 등 전남의 3개 군이 합작하+여 만들 +ㄴ대회+이다 .	O PER-B O O LOC-B PER-B O O LOC-B O PER-B O LOC-B O LOC-B O O O O O O
-증가폭이 가장 크+ㄴ 곳은 강화군으로 2.9%에서 10.8%로 늘었다(++7.9%포인트).인천의 구 ㆍ군 가운데 우수 학생 비율이 크게 감소 하+ㄴ 곳은 남구로 10.9%(2005 수능)에서 8.1%(2015 수능)로 줄었다 .	O O O O LOC-B O O LOC-B LOC-I O O O O O O O O O LOC-B O O O O O O
-발언자로 나서 +ㄴ 엠마 왓슨, 굳은 얼굴로 입을 다물+ㄴ이 .	O O O PER-B PER-I O O O O O
-문정인 교수는 “정상회담을 하려면 막후 접촉을 통하+여 여건을 만들어야 하는데, 공개되+ㄴ 자리에서만 얘기를 주고받다 보면 서로 체면이라는 것+이 있어 가능성이 희박 하+여지+ㄴ다”고 +였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+정두언 전 새누리당 의원 ( 사진 ) 이 ‘ 최순실 게이트 ’ 가 박근혜 대통령 에게 앙심 을 품 은 일종 의 복수전 이 라고 주장해 논란 이 일 고 있 다 .	PER-B O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+그렇 다 한들 남편 이 그 마음 을 모르 기 야 했 을까 . 차 씨 는 “ 지금 도 그때 를 생각하 면 아내 에게 미안하 고 고마 운 마음 이 든다 ” 고 했 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+은하 3 호 를 발사한 평안북도 철산군 동창리 미사일 발사대 의 높이 는 30 m . 이 발사대 는 최근 60 ∼ 65 m 정도 로 증축 됐 다 .	O O O O O LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O
+● 광주도 3 루에 요 . ( KIA 김기태 감독 . 원정 팀 감독 으로 잠실구장 3 루 쪽 덕아웃 에 서 는 기분 을 묻 자 ) ● 박병호 가 곧 3 루수 로 나갈 것 같 은데요 . ( 넥센 염경엽 감독 . 2 루수 서건창 의 부상 으로 시즌 초반 부터 플랜 B 를 꺼내야 하 는 상황 에서 또 다른 선수 가 다치 기 라도 하 면 울 며 겨자 먹 기 로 박병호 를 3 루수 로 낼 수 밖에 없 다며 ) ● 갑자기 귀 가 간지러 워요 . ( 두산 홍성흔 . 김태형 감독 이 4 번 타자 홍성흔 의 컨디션 이 곧 올라올 것 이 라고 말하 고 있 을 때 멀찌감치 떨어져 있 다가 갑자기 ) ● 우리 팀 말 고 다른 팀 에 잘 했 으면 좋 겠 구먼 . ( 삼성 류중일 감독 . 한화 베테랑 내야수 권용관 이 적 지 않 은 나이 에 도 새로 이적한 팀 에서 잘하 고 있 어 보 기 좋 다며 ) ● 프로 감독 하 면서 이렇 게 해명 이 라는 걸 해 본 건 처음 이 야 . ( 한화 김성근 감독 . 빈볼 사태 로 징계 를 받 은 부분 에 대해 격정 을 토로하 다 ) [ 스포츠 동아 ]	O O O O O O O ORG-B PER-B O O O O O O LOC-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O ORG-B PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O ORG-B PER-B O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O ORG-B ORG-I O
+최순실 대선 관여 의혹 엔 “ 몰 랐 다 ”	PER-B O O O O O O O O O
+32 만 5000 개 . 전국 에 설치된 볼 라드 ( bollard · 차량 통행 을 막 는 말뚝 ) 개 수다 .	O O O O O O O O O O O O O O O O O O O O O O O
+채수빈 , 구자욱 과 열애 설 부인 … 연인 도 아닌데 손잡 고 ? 소속 사 “ 오 해살 만 하 지만 … ” 배우 채수빈 이 프로 야구 삼성 라이온즈 의 구자욱 과 의 열애 설 을 부인 했 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O ORG-B ORG-I O PER-B O O O O O O O O O
+채수빈 의 소속 사 토인 엔터테인먼트 측 은 21 일 “ 두 사람 은 친한 사이 일 뿐 연인 사이 는 아니 다 ” 라며 열애 설 을 일축 했 다 .	PER-B O O O ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+소속 사 측 은 또 “ 사진 은 다른 지인 들 과 함께 있 다가 지방 으로 내려가 는 구자욱 선수 를 배웅하 는 사진 ” 이 라며 “ 사진 만 보 면 충분히 오해 를 살 수 있 다고 생각한다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+기아 車 , K 2 中 판매 호조 에 … 글로벌 판매 증가세 로 첫 전환	ORG-B ORG-I O O O ORG-B O O O O O O O O O O
+국수 산맥 배 는 김인 국수 의 고향 인 강진군 과 조훈현 국수 의 고향 인 영암군 , 그리고 이세돌 의 고향 인 신안군 등 전남 의 3 개 군 이 합작해 만든 대회 다 .	O O O O PER-B O O O O LOC-B O PER-B O O O O LOC-B O O PER-B O O O LOC-B O LOC-B O O O O O O O O O O
+증가 폭 이 가장 큰 곳 은 강화군 으로 2.9 % 에서 10.8 % 로 늘 었 다 (+ 7.9 % 포인트 ) . 인천 의 구 ㆍ 군 가운데 우수 학생 비율 이 크 게 감소한 곳 은 남 구 로 10.9 % ( 2005 수능 ) 에서 8.1 % ( 2015 수능 ) 로 줄 었 다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O LOC-B LOC-I O O O O DAT-B O O O O O O DAT-B O O O O O O O
+발언 자 로 나선 엠마 왓슨 , 굳 은 얼굴 로 입 을 다문 이유	O O O O PER-B PER-I O O O O O O O O O
+문정인 교수 는 “ 정상 회담 을 하 려면 막후 접촉 을 통해 여건 을 만들 어야 하 는데 , 공개된 자리 에서 만 얘기 를 주고받 다 보 면 서로 체면 이 라는 게 있 어 가능성 이 희박해 진다 ” 고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

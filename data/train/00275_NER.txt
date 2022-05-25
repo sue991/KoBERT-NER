@@ -1,15 +1,15 @@
-로코베리의 로코, 코난과 유재석은 다정하게 카메라를 향하+여미소 짓고 있다 .	ORG-I PER-B PER-B PER-B O O O O O O
-지나+ㄴ 29일 방송되+ㄴ JTBC ‘투유 프로젝트-슈가맨’에서는 차지연과 거미가 쇼맨으로 등장하+여, 플라워의 ‘엔드리스’와 러브홀릭의 ‘러브홀릭’을 역주행송으로 선보이었다 .	O O O O O O PER-B PER-B O O ORG-B O PER-B PER-B O O O
-이날 로코베리는 차지연이 부르+ㄴ플라워의 ‘엔드리스’ 편곡을 담당하였다 .	O ORG-B PER-B ORG-B O O O O
-특히 이날 로코베리는 크+ㄴ인기를 끌고 있는 드라마 ‘태양의 후예’ OST를 직접 작사, 작곡하였다고 말 하+여이목을 집중시키었다 .	O O ORG-B O O O O O O O O O O O O O O
-또 로코베리는 ‘태양의 후예’ OST 이+ㄴ 윤미래의 ‘얼웨이즈(Always)’를 부르어크+ㄴ 호응을 얻었다 .	O ORG-B O O O O PER-B O O O O O
-가입자가 약 2000만명이 +ㄴ 자동차보험의 표준약관이 내년 3월부터 달라지+ㄴ다 .	O O O O O O O O O O
-마을 찬조금을 내지 않았다는 이유로 새로 이사 오+ㄴ 주민을 마구 때리+어중상을 입히 +ㄴ 50대가 실형에 처하여 +지+었다 .	O O O O O O O O O O O O O O O O O O
-전주지법 형사제2단독 강두례 부장판사는 13일 상해 혐의로 기소되+ㄴ이모씨(57)에게 징역 6월을 선고하었다고 밝히었다 .	O O PER-B O O O O PER-B O O O O O
-이씨는 지난해 2월 25일 오후 7시40분께 전북 김제 시 죽산면 죽산리 A씨(66)의 집에서 A씨를 주먹과 발로 마구 때리+어 전치 8주의 상해를 입히 +ㄴ 혐의로 기소되었다 .	PER-B O O O O O LOC-B O O LOC-B LOC-B PER-B O PER-B O O O O O O O O O O O O
-이씨는 이날 A씨의 집에서 막걸리를 마시던 중 마을에 새로 이사 오+ㄴ 뒤 찬조금을 내지 않았다는 이유로 주방과 안방, 마당 등으로 도망가는 A씨를 뒤쫓아가 주먹을 휘두르+ㄴ 것으로 조사되었다 .	PER-B PER-B PER-B O O O O O O PER-B O O O O O PER-B O O O O O PER-B O O O O O O
-재판부는 “피해자가 중하+ㄴ 상해를 입는 등 피해가 중하+ㄴ점. 피해 회복을 위하+여 노력하였다고 보기 어렵고 피고인 자신이 오히려 피해자로부터 칼에 찔리었다거나 피해자가 그 과정에서 넘어 지+어 스스로 다치었다고 하는 등 범행을 부인하면서 반성하지 않는 점, 반면 피해자를 위하+여 600만원을 공탁 하+ㄴ점, 건강상태가 좋지 못하+ㄴ점 등을 종합하+여형을 정하였다”고 판시하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B O O O O O O O O O O
-(전주=뉴스1 .	LOC-B O
-이 돈은 삼성 고르+ㄴ 기회재단 설립으로 이어지었다 .	O O ORG-B ORG-I ORG-I O O O
-군은 KFX사업의 생산유발 효과가 최대 13조2000억원이고 고용창출 효과는 6만여명에 이르+ㄹ 것으로 예상하고 있다 .	O O O O O MNY-B O O O O O O O O
-그의 개인 이메일 서버는 남편 빌 클린턴 전 대통령을 위하 +ㄴ 것으로 보안기관의 보호를 받고 있고 해킹이 되지 않았다는 점도 덧붙이었다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O
+로코 베리 의 로코 , 코난 과 유재석 은 다정하 게 카메라 를 향해 미소 짓 고 있 다 .	ORG-B ORG-I O PER-B O PER-B O PER-B O O O O O O O O O O O O
+지난 29 일 방송된 JTBC ‘ 투유 프로젝트 - 슈가맨 ’ 에서 는 차지연 과 거미 가 쇼맨 으로 등장해 , 플라워 의 ‘ 엔드 리스 ’ 와 러브 홀릭 의 ‘ 러브 홀릭 ’ 을 역주행 송 으로 선보 였 다 .	O DAT-B DAT-I O O O O O O O O O O PER-B O PER-B O O O O O ORG-B O O O O O O PER-B PER-I O O O O O O O O O O O O O
+이날 로코 베리 는 차지연 이 부른 플라워 의 ‘ 엔드 리스 ’ 편곡 을 담당 했 다 .	O ORG-B ORG-I O PER-B O O ORG-B O O O O O O O O O O O
+특히 이날 로코 베리 는 큰 인기 를 끌 고 있 는 드라마 ‘ 태양 의 후예 ’ OST 를 직접 작사 , 작곡 했 다고 말해 이목 을 집중 시 켰 다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 로코 베리 는 ‘ 태양 의 후예 ’ OST 인 윤미래 의 ‘ 얼 웨이즈 ( Always ) ’ 를 불 러 큰 호응 을 얻 었 다 .	O ORG-B ORG-I O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+가입자 가 약 2000 만 명 인 자동차 보험 의 표준 약관 이 내년 3 월 부터 달라진다 .	O O O O O O O O O O O O O O DAT-B DAT-I O O O
+마을 찬조금 을 내 지 않 았 다는 이유 로 새로 이사 온 주민 을 마구 때려 중상 을 입힌 50 대 가 실형 에 처해 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전주지법 형사 제 2 단독 강두례 부장 판사 는 13 일 상해 혐의 로 기소된 이 모 씨 ( 57 ) 에게 징역 6 월 을 선고 했 다고 밝 혔 다 .	O O O O O PER-B O O O DAT-B DAT-I O O O O PER-B PER-I O O O O O O DAT-B DAT-I O O O O O O O O
+이 씨 는 지난해 2 월 25 일 오후 7 시 40 분 께 전북 김제시 죽산면 죽산리 A 씨 ( 66 ) 의 집 에서 A 씨 를 주먹 과 발 로 마구 때려 전치 8 주 의 상해 를 입힌 혐의 로 기소 됐 다 .	PER-B O O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B LOC-B PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+이 씨 는 이날 A 씨 의 집 에서 막걸리 를 마시 던 중 마을 에 새로 이사 온 뒤 찬조금 을 내 지 않 았 다는 이유 로 주방 과 안방 , 마당 등 으로 도망가 는 A 씨 를 뒤쫓 아 가 주먹 을 휘두른 것 으로 조사 됐 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+재판부 는 “ 피해자 가 중한 상해 를 입 는 등 피해 가 중한 점 . 피해 회복 을 위해 노력 했 다고 보 기 어렵 고 피고인 자신 이 오히려 피해자 로부터 칼 에 찔 렸 다 거나 피해자 가 그 과정 에서 넘어져 스스로 다 쳤 다고 하 는 등 범행 을 부인하 면서 반성하 지 않 는 점 , 반면 피해자 를 위해 600 만 원 을 공탁한 점 , 건강 상태 가 좋 지 못한 점 등 을 종합해 형 을 정 했 다 ” 고 판시 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O
+( 전주 = 뉴스 1 )	O LOC-B O O O O
+이 돈 은 삼성 고른 기회 재단 설립 으로 이어 졌 다 .	O O O ORG-B ORG-I ORG-I ORG-I O O O O O O
+군 은 KFX 사업 의 생산 유발 효과 가 최대 13 조 2000 억 원 이 고 고용 창출 효과 는 6 만 여 명 에 이를 것 으로 예상하 고 있 다 .	O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O
+그 의 개인 이메일 서버 는 남편 빌 클린턴 전 대통령 을 위한 것 으로 보안 기관 의 보호 를 받 고 있 고 해킹 이 되 지 않 았 다는 점 도 덧붙 였 다 .	O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O

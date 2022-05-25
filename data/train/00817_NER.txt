@@ -1,13 +1,13 @@
-35만명의 퇴직자에 수십만 명의 공무원 취업 준비생까지 합하면 이해 당사자가 수백만 명이다 .	O O O O O O O O O O O O O
-공단 실험 결과에 따르면 성인 남성이 소주 다섯 잔(혈중알코올농도 0.1%)을 마시+ㄴ 상태에서 운전 하+ㄹ 경우 위급상황에서의 반응시간이 평소보다 2배 증가하였다 .	O O O O O O O O O O O O O O O O O O O O O
-이어 아우디(383만원), 벤츠(353만~368만원), BMW 5 시리즈(312만원) 순이었다 .	O MNY-B MNY-B O O MNY-B O O
-국산차 중 사고 건수와 자차보험금 지급 액수가 크+ㄴ차종은 그랜저HG로건당 평균 108만원이었다 .	O O O O O O O O O O MNY-B O
-싼타페 DM은 사고 건수와 총 보험금 규모는 그랜저HG보다는 작았지만 건당 보험금은 120만원으로 더 많았다 .	O O O O O O O O O O O MNY-B O O O
-여자 프로농구에서 고정적 이+ㄴ 홈팬을 가장 많이 보유 하+ㄴ KB스타즈는 새 시즌에 앞서 +어시설과 팬서비스를 한층 업그레이드하였다 .	ORG-B ORG-I O O O O O O O ORG-B O O O O O O O O
-두 사람은 지나 +ㄴ 27일 혼인신고를 +었고 오는 10월 결혼식을 올리+ㄹ 예정이다 .	O O O O O O O O O O O O O
-한 가지 분명 하+ㄴ 사실은 유럽의 대규모 난민 사태는 바로 세 개의 전쟁에서 비롯되었다는 것이다 .	O O O O O LOC-B O O O O O O O O O O
-글=이장훈 국제문제 애널리스 .	PER-B O O O
-기존 부산과 대마도를 오가는 쾌속선코비 3호가 있었지만 지나 +ㄴ 4월 고래와 부딪히는 사고로 부서지었다 .	O LOC-B LOC-B O O O O O O O O O O O O
-미래 고속관계자는 “앞으로 요금할인이나 프로모션 등을 기획하+ㄹ 예정으로 시민들의 많은 관심부탁드리+ㄴ다”고 말하였다 .	ORG-B ORG-I O O O O O O O O O O O
-푸틴과는 최소 17년 지기다 .	PER-B O O O O
-강신옥 의원(민자)은 『설사 입법이 되+ㄴ 다하더라도 공무원들에 대하+ㄴ 경각심을 일깨우어주는 것이상의 효과를 얻어내기가 어렵다』고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O
+35 만 명 의 퇴직자 에 수십만 명 의 공무원 취업 준비 생 까지 합하 면 이해 당사자 가 수백만 명 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+공단 실험 결과 에 따르 면 성인 남성 이 소주 다섯 잔 ( 혈중 알코올 농도 0.1 % ) 을 마신 상태 에서 운전할 경우 위급 상황 에서 의 반응 시간 이 평소 보다 2 배 증가 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 아우디 ( 383 만 원 ) , 벤츠 ( 353 만 ~ 368 만 원 ) , BMW 5 시리즈 ( 312 만 원 ) 순 이 었 다 .	O O O MNY-B MNY-I MNY-I O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O MNY-B MNY-I MNY-I O O O O O O
+국산 차 중 사고 건수 와 자차 보험금 지급 액수 가 큰 차종 은 그랜저 HG 로 건 당 평균 108 만 원 이 었 다 .	O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O
+싼타페 DM 은 사고 건수 와 총 보험금 규모 는 그랜저 HG 보다 는 작 았 지만 건당 보험금 은 120 만 원 으로 더 많 았 다 .	O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+여자 프로 농구 에서 고정적 인 홈 팬 을 가장 많이 보유한 KB 스타즈 는 새 시즌 에 앞서 시설 과 팬 서비스 를 한층 업그레이드 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+두 사람 은 지난 27 일 혼인 신고 를 했 고 오 는 10 월 결혼식 을 올릴 예정 이 다 .	O O O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O
+한 가지 분명한 사실 은 유럽 의 대규모 난민 사태 는 바 로 세 개 의 전쟁 에서 비롯 됐 다는 것 이 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+글 = 이장훈 국제 문제 애널리스트	O O PER-B O O O
+기존 부산 과 대마도 를 오가 는 쾌속선 코비 3 호 가 있 었 지만 지난 4 월 고래 와 부딪히 는 사고 로 부서 졌 다 .	O LOC-B O LOC-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+미래 고속 관계자 는 “ 앞 으로 요금 할인 이나 프로모션 등 을 기획할 예정 으로 시민 들 의 많 은 관심 부탁 드린다 ” 고 말 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+푸틴 과 는 최소 17 년 지기 다 .	PER-B O O O O O O O O
+강신옥 의원 ( 민자 ) 은 『 설사 입법 이 된다 하 더라도 공무원 들 에 대한 경각심 을 일깨 워 주 는 것 이상 의 효과 를 얻 어 내 기 가 어렵 다 』 고 말 했 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

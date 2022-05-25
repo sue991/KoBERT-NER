@@ -1,12 +1,12 @@
-2010년과 2014년 지방선거에서 무소속 후보가 도지사에 당선되 +ㄹ 수 있었던 것도 이 때문이다 .	O O O O O O O O O O O O O O
-7개월 반만의 조산.하지만 산모와 아이는 건강에 이상은 없는 것으로 알려지었다 .	O O O O O O O O O O O
-아나스타샤의 딸 콘스탄티나(43)는 앞서 +어임신에 7번 실패 하+ㄴ 뒤의사에게서 다시는 아기를 가지+ㄹ 수 없다는 말을 듣었다 .	PER-B O PER-B O O O O O O O O O O O O O O
-1984∼1993년 한국전력 선수로 활동하였다 .	O ORG-B O O O
-세월호는 한국 사회의 부끄럽 ㄴ민낯을 드러내+었다 .	O ORG-B O O O O O
-대선주자 지지율 1위를 기록하고 있는 문재인 더불어민주당 후보와 2위 안철수 국민의당 후보의 지지율 격차가 20%포인트 이상 벌어지었다는 여론조사 결과가 나오았다 .	O O O O O PER-B ORG-B O O PER-B ORG-B O O O O O O O O O O
-4차 북핵실험처럼 중차대하+ㄴ문제에 대하+여시 주석과 통화를 하+ㄹ 수 없다면 어떻게 중국을 대북 제재에 동참시키+ㄹ 수 있을지 알고 싶다 .	O O O O O O O O O O ORG-B O O O O O O O O
-동아시아문화도시인 청주를 알리기 위하+ㄴ각계각층의 재능기부가 잇따르 아열리고 있다 .	O LOC-B O O O O O O O
-2차 예선 통과 12개 팀, 바로 최종 예 .	O O O O O O O O O
-조수미, 친숙하+ㄴ아리아로 국내 팬 만나 +ㄴ .	PER-B O O O O O O
-이 연수원은 본래 74년 전 액 정부 및 무역협회 보조금으로 설립되+어 92년 초까지만 하+여도 공무원, 정부 투자기관 임­ 직원, 무역협회 회원사 직원들을 대상으로 어학위탁 교육을 실시하+여+오았던 곳 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-먹어도 몸에 탈이 없다는 것+ㄹ 직접 확인하였으니, 정현에게 먹이어 보아서 아무 일도 일어나지 않으면 그만이고, 혹시 효과가 있으면 그보다 더 좋은 일이 어디 있겠느냐는 유혹이었다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+2010 년 과 2014 년 지방 선거 에서 무소속 후보 가 도지사 에 당선될 수 있 었 던 것 도 이 때문 이 다 .	DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+7 개월 반 만 의 조산 . 하지만 산모 와 아이 는 건강 에 이상 은 없 는 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+아나스타샤 의 딸 콘스탄티 나 ( 43 ) 는 앞서 임신 에 7 번 실패한 뒤 의사 에게서 다시 는 아기 를 가질 수 없 다는 말 을 들 었 다 .	PER-B O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1984 ∼ 1993 년 한국전력 선수 로 활동 했 다 .	O O O O ORG-B O O O O O O
+세월호 는 한국 사회 의 부끄러 운 민낯 을 드러냈 다 .	O O ORG-B O O O O O O O O O
+대선 주자 지지율 1 위 를 기록하 고 있 는 문재인 더불 어 민주당 후보 와 2 위 안철수 국민 의당 후보 의 지지율 격차 가 20 % 포인트 이상 벌어 졌 다는 여론 조사 결과 가 나 왔 다 .	O O O O O O O O O O PER-B ORG-B ORG-I ORG-I O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+4 차 북 핵 실험 처럼 중차대한 문제 에 대해 시 주석 과 통화 를 할 수 없 다면 어떻 게 중국 을 대북 제재 에 동참 시킬 수 있 을지 알 고 싶 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+동아시아 문화 도시인 청주 를 알리 기 위한 각계각층 의 재능 기부 가 잇따 라 열리 고 있 다 .	O O O LOC-B O O O O O O O O O O O O O O O O
+2 차 예선 통과 12 개 팀 , 바로 최종 예선	O O O O O O O O O O O
+조수미 , 친숙한 아리아 로 국내 팬 만난다	PER-B O O O O O O O
+이 연수원 은 본래 74 년 전액 정부 및 무역 협회 보조금 으로 설립돼 92 년 초 까지 만 해도 공무원 , 정부 투자 기관 임 ­ 직원 , 무역 협회 회원 사 직원 들 을 대상 으로 어학 위탁 교육 을 실시해 왔 던 곳 .	PER-B O O O DAT-B DAT-I O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+먹 어도 몸 에 탈 이 없 다는 걸 직접 확인 했 으니 , 정현 에게 먹 여 보 아서 아무 일 도 일어나 지 않 으면 그만 이 고 , 혹시 효과 가 있 으면 그 보다 더 좋 은 일 이 어디 있 겠 느냐는 유혹 이 었 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

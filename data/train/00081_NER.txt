@@ -1,13 +1,13 @@
-이 전 무대에서 보다 훨씬 타이트 하+ㄴ랩을 선보이+ㄴ씨잼은 자신의 랩에 대하+ㄴ강 하+ㄴ 자신감을 내세우며 막강 하+ㄴ 존재감을 드러내 +었다 .	O O O O O O O PER-B O O O O O O O O O O O O
-이번에 선보이는 5가지 캐릭터는 히어로 ‘파워-씨(power-c)’, 미대생 ‘에센셜(essential)’, 액션스포츠 선수 ‘에너지(energy)’, 비즈니스맨 ‘멀티-브이(multi-v)’, 로맨틱 코미디 배우 ‘트리플 엑스(xxx)’ 등으로 각기 다른 콘셉트를 반영하+ 여 디자인+되었다 .	O O O O O PER-B O PER-B O O PER-B O PER-B PER-B PER-I O PER-B PER-B O O O O O O O O
-[허영만 연재만화]커피 한잔 하+ㄹ까요?(50 .	PER-B O O O O
-인도 역시 IT를 중요하+ㄴ 성장동력으로 삼고 있다 .	ORG-B O O O O O O O
-가수 하수빈은 최근 자신의 블로그에 직접 찍은 사진 몇 장을 게재하였다 .	O PER-B O O O O O O O O O O
-‘택시’ 윤혜진 “‘애팔아서 돈 벌+ㄴ다’는 악플 속상하+여” 소속 사 계약 관련 오해해 .	O PER-B O O O O O O O O O O O
-하지만 박근혜 정부가 들어서면서 대통령 비서실과 별도의 조직으로 분리하고 실장을 장관급으로 다시 격상하였다 .	O PER-B O O O O O O O O O O O O
-3개월 이후부터는 매월 말 일에 RP(환매조건부채권)를 제외 하+ㄴ 상품에 100만원 이상 잔고를 유지하+ㄹ 경우 우대금리는 연말까지 연장되+ㄴ다 .	O O O O O O O O O MNY-B O O O O O O O O
-서울 SK가 선두 서울 삼성을 넘고 시즌 첫 4연승에 성공하였다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O O
-SK는 10일 잠실 학생체육관에서 열리+ㄴ 2016-17KCC 프로농구 삼성과의 5라운드 홈 경기에서 74-70으로 승리하였다 .	ORG-B O O O O O O ORG-B O O O O O O
-성인회원은 러브 회원과 트윈스 회원 트윈스레이 디스 회원, 일반회원으로 나뉘고, 어린이 회원은 트윈 스엘린이, 사랑엘린이, 행복 엘린이로 구분되+ㄴ다 .	ORG-I O O ORG-B ORG-I ORG-B O O O O O O O O ORG-B ORG-B ORG-I O O
-13일 한국거래소에 따르면 지난주(4~8일) 유가증권시장에서 높은 주가 상승률을 보이+ㄴ상위 20개 종목 중 8개가 의약품 업종이었다 .	O ORG-B O O O O O O O O O O O O O O
-시험 및 검사­보관단계에 대하+ㄴ 품질보증이 ISO 9003으로 가장 범위가 좁고, 설치­구매­ 생산단계를 추가하면 ISO 9002, 여기에 설계­개발 단계까지 포함하+ㄴ 것이 ISO 9001이다 .	O O O O O O O O O O O O O O O O O O O O O O O
+이전 무대 에서 보다 훨씬 타이트한 랩 을 선보인 씨 잼 은 자신 의 랩 에 대한 강한 자신감 을 내세우 며 막강한 존재감 을 드러냈 다 .	O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+이번 에 선보이 는 5 가지 캐릭터 는 히어로 ‘ 파워 - 씨 ( power - c ) ’ , 미대 생 ‘ 에센셜 ( essential ) ’ , 액션 스포츠 선수 ‘ 에너지 ( energy ) ’ , 비즈니스맨 ‘ 멀티 - 브이 ( multi - v ) ’ , 로맨틱 코미디 배우 ‘ 트리플 엑스 ( xxx ) ’ 등 으로 각기 다른 콘셉트 를 반영해 디자인 됐 다 .	O O O O O O O O O O PER-B PER-I PER-I O PER-B PER-I PER-I O O O O O O PER-B O PER-B O O O O O O O PER-B O PER-B O O O O O PER-B PER-I PER-I O PER-B PER-I PER-I O O O PER-B PER-I O O PER-B PER-I O PER-B O O O O O O O O O O O O O
+[ 허영만 연재만화 ] 커피 한잔 할까 요 ? ( 50 )	O PER-B O O O O O O O O O O
+인도 역시 IT 를 중요한 성장 동력 으로 삼 고 있 다 .	ORG-B O O O O O O O O O O O O
+가수 하수빈 은 최근 자신 의 블로그 에 직접 찍 은 사진 몇 장 을 게재 했 다 .	O PER-B O O O O O O O O O O O O O O O O O
+‘ 택시 ’ 윤혜진 “ ‘ 애 팔 아서 돈 번다 ’ 는 악 플 속상해 ” 소속 사 계약 관련 오해 해명	O O O PER-B O O O O O O O O O O O O O O O O O O O
+하지만 박근혜 정부 가 들어서 면서 대통령 비서실 과 별도 의 조직 으로 분리하 고 실장 을 장관 급 으로 다시 격상 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+3 개월 이후 부터 는 매월 말일 에 RP ( 환매 조건부 채권 ) 를 제외한 상품 에 100 만 원 이상 잔고 를 유지할 경우 우대금리 는 연말 까지 연장된다 .	O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+서울 SK 가 선두 서울 삼성 을 넘 고 시즌 첫 4 연승 에 성공 했 다 .	ORG-B ORG-I O O ORG-B ORG-I O O O O O O O O O O O O
+SK 는 10 일 잠실학생체육관 에서 열린 2016 - 17 KCC 프로 농구 삼성 과 의 5 라운드 홈 경기 에서 74 - 70 으로 승리 했 다 .	ORG-B O DAT-B DAT-I LOC-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+성인 회원 은 러브 회원 과 트윈스 회원 트윈스 레이디스 회원 , 일반 회원 으로 나뉘 고 , 어린이 회원 은 트윈스 엘린 이 , 사랑 엘린 이 , 행복 엘린 이 로 구분된다 .	O O O O O O ORG-B ORG-I ORG-B ORG-I ORG-I O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O
+13 일 한국거래소 에 따르 면 지난주 ( 4 ~ 8 일 ) 유가 증권 시장 에서 높 은 주가 상승 률 을 보인 상위 20 개 종목 중 8 개 가 의약품 업종 이 었 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시험 및 검사 ­ 보관 단계 에 대한 품질 보증 이 ISO 9003 으로 가장 범위 가 좁 고 , 설치 ­ 구매 ­ 생산 단계 를 추가하 면 ISO 9002 , 여기 에 설계 ­ 개발 단계 까지 포함한 것 이 ISO 9001 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

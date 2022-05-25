@@ -1,15 +1,15 @@
-비수술 치료법 중 대표적 이+ㄴ 것이 ‘경막외 신경성형술’이다 .	O O O O O O O O O
-인천의 중소 식품 제조업체들이 중국 시장에 안착하기까지는 험난 하+ㄴ 여정의 연속이었다 .	LOC-B O O O LOC-B O O O O O O O
-구체적 이+ㄴ 대응책 논의는 현재 체코를 방문 중 이+ㄴ기시다 후미오(岸田文雄) 외상이 11일 귀국하면 본격화되+ㄹ 것으로 보이+ㄴ다 .	O O O O O LOC-B O O PER-B PER-B O O O O O O O
-서울대와 로보티즈는 각각 12위, 15위를 기록하였다 .	ORG-B ORG-B O O O O O
-샤너+ㄴ 인형 외모 셀카, 공개홍보 ?…왜요왜요는 '삼시세끼' BGM 접수가수 샤넌의 '왜요왜요'가 2주 연속 ‘삼시세끼-어촌편’ BGM으로 선정되+어 화제+이다 .	PER-B O O O O O O O O PER-B O O O O O O O O
-소화기병센터 박재석 센터장은 “검진통하+여조기 발견되+ㄴ위암은 외과적 절개수술 없이 내시경에 달리 +ㄴ기구로 병변 아래 점막을 사과 껍질 깍듯이 제거하는 내시경점막하박리술(ESD)로 시행하는 데 시술이 상대적으로 간단하고 생존율이 높다”고 설명하였다 .	ORG-B PER-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
-‘정주리 만 삭 화보’ 개그우먼 정주리의 만삭 화보가 공개되었다 .	PER-B O O O O PER-B O O O O
-최근 정주리는 방송이+ㄴ이파니 가 운영하는 강남 논현동 소재 ‘그 감독’ 스튜디오에서 연예/패션 매거진 ‘GanGee’(간지)와 함께 만삭 화보 촬영을 진행하였다 .	O PER-B PER-B O O LOC-B LOC-B O ORG-B ORG-I ORG-I O O ORG-B O O O O O O
-초대 청와대 정책실장에 이정우 경북대 교수가 내정되자 “김병준이 팽(烹) 당 하+ㄴ 것 아니냐”는 얘기가 나돌았다 .	O ORG-B O PER-B ORG-B O O PER-B O O O O O O O O
-이를 무리 없이 수용 하+ㄴ한국의 판단에 비하+여 미국은 중국의 초강대 국화를 부인하지 않으면서도 미국과의 대등하+ㄴ 관계를 전폭적으로 수용하였다고는 보이지 않는다 .	O O O O ORG-B O O ORG-B ORG-B O O O O ORG-B O O O O O O O
-현대차 관계자는 “충칭 공장이 완공되면 ‘현대차가 중서부에서도 생산되+ㄴ다’는 점이 이 지역 소비자들에게 크게 호소력을 갖게 되+ㄹ 것으로 보이+ㄴ다”며 “이 공장에서 현지화되+ㄴ스포츠 유틸리티(SUV) 차량을 전략적으로 생산하+ㄹ 것”이라고 말하였다 .	ORG-B O LOC-B LOC-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-세부 할인 금액과 기타문의사항은 현대차 전국 영업점에서 확인이 가능하다 .	O O O O ORG-B O O O O O
-현대차 관계자는 “정부 차원의 코리아세일 페스타 행사에 적극 동참하기 위하+여미니버스 쏠라티에 대하+ㄴ 특별할인 이벤트를 준비하였다”며 “금번 추가 할인을 통하+여 고객들은 보다 적은 부담으로 쏠라티를 구입하+ㄹ 수 있을 것”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한 누리꾼은 “여러 드라마에 출연하며 연기력이 차츰 나아지고 있는데 너무 평가절하하는 것 같다”고 말 하+ㄴ 반면 “얼굴만 예쁘+ㄴ 여배우가 아니라 연기력도 인정받는 배우가 되었으면 …” “연기는 다짐으로 가능하+ㄴ 것+이 아니다” 등의 댓글도 있었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 둘은 김정일의 사람들이었다 .	O O PER-B O O
+비 수술 치료법 중 대표적 인 것 이 ‘ 경막 외 신경 성형술 ’ 이 다 .	O O O O O O O O O O O O O O O O O
+인천 의 중소 식품 제조 업체 들 이 중국 시장 에 안착하 기 까지 는 험난한 여정 의 연속 이 었 다 .	LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O
+구체적 인 대응책 논의 는 현재 체코 를 방문 중 인 기시다 후미오 ( 岸田文雄 ) 외상 이 11 일 귀국하 면 본격화될 것 으로 보인다 .	O O O O O O LOC-B O O O O PER-B PER-I O PER-B O O O DAT-B DAT-I O O O O O O O
+서울대 와 로보 티즈 는 각각 12 위 , 15 위 를 기록 했 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O
+샤 넌 인형 외모 셀카 , 공개 홍보 ? … 왜요 왜요 는 ' 삼시세끼 ' BGM 접수 가수 샤넌 의 ' 왜 요 왜 요 ' 가 2 주 연속 ‘ 삼시세끼 - 어촌 편 ’ BGM 으로 선정돼 화제 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+소화기 병 센터 박재석 센터 장 은 “ 검진 통해 조기 발견된 위암 은 외과적 절개 수술 없이 내시경 에 달린 기구 로 병변 아래 점막 을 사과 껍질 깍듯이 제거하 는 내시경 점막 하 박리 술 ( ESD ) 로 시행하 는데 시술 이 상대적 으로 간단하 고 생존 율 이 높 다 ” 고 설명 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 정주리 만삭 화보 ’ 개그우먼 정주리 의 만삭 화보 가 공개 됐 다 .	O PER-B O O O O PER-B O O O O O O O O
+최근 정주리 는 방송 인 이파 니 가 운영하 는 강남 논현동 소재 ‘ 그 감독 ’ 스튜디오 에서 연예 / 패션 매거진 ‘ GanGee ’ ( 간지 ) 와 함께 만삭 화보 촬영 을 진행 했 다 .	O PER-B O O O PER-B PER-I O O O LOC-B LOC-B O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+초대 청와대 정책 실장 에 이정우 경북대 교수 가 내정되 자 “ 김병준 이 팽 ( 烹 ) 당한 것 아니 냐 ” 는 얘기 가 나돌 았 다 .	O ORG-B O O O PER-B ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O
+이 를 무리 없이 수용한 한국 의 판단 에 비해 미국 은 중국 의 초 강대국 화 를 부인하 지 않 으면서 도 미국 과 의 대등한 관계 를 전폭적 으로 수용 했 다고 는 보이 지 않 는다 .	O O O O O ORG-B O O O O ORG-B O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+현대차 관계자 는 “ 충칭 공장 이 완공되 면 ‘ 현대차 가 중서부 에서 도 생산된다 ’ 는 점 이 이 지역 소비자 들 에게 크 게 호소력 을 갖 게 될 것 으로 보인다 ” 며 “ 이 공장 에서 현지 화 된 스포츠 유틸리티 ( SUV ) 차량 을 전략적 으로 생산할 것 ” 이라고 말 했 다 .	ORG-B O O O LOC-B LOC-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세부 할인 금액 과 기타 문의 사항 은 현대차 전국 영업 점 에서 확인 이 가능하 다 .	O O O O O O O O ORG-B O O O O O O O O O
+현대차 관계자 는 “ 정부 차원 의 코리아 세일 페스타 행사 에 적극 동참하 기 위해 미니버스 쏠라티 에 대한 특별 할인 이벤트 를 준비 했 다 ” 며 “ 금번 추가 할인 을 통해 고객 들 은 보다 적 은 부담 으로 쏠라티 를 구입할 수 있 을 것 ” 이라고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 누리 꾼 은 “ 여러 드라마 에 출연하 며 연기력 이 차츰 나아지 고 있 는데 너무 평가 절하하 는 것 같 다 ” 고 말한 반면 “ 얼굴 만 예쁜 여배우 가 아니 라 연기력 도 인정받 는 배우 가 되 었 으면 … ” “ 연기 는 다짐 으로 가능한 게 아니 다 ” 등 의 댓글 도 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 둘 은 김정일 의 사람 들 이 었 다 .	O O O PER-B O O O O O O O

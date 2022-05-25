@@ -1,14 +1,14 @@
-온갖 공장의 폐수가 3년 이상 유수지로 흘러들었다는 의미+이다 .	O O O O O O O O O
-자유무역을 반대하고 부유세를 지지하고, 낙태에 대하+ㄴ 태도도 모호하고, 이라크 전쟁에도 반대하는 ‘전혀 공화당과 맞지 않는 인물’이 유권자들의 온갖 불평불만을 대변하면서 후보 자리를 꿰차+았다는 설명이다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-푸조 수입원한 불모터스는 푸조의 대표 소형 SUV2008 유로6 모델의 국내 출시를 앞두고 사전 계약을 실시하+ㄴ다고 23일 밝히었다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O
-진생베리에는 특정 사포닌이 +ㄴ ‘진세노사이드 Re’ 성분이 뿌리보다 30배 이상 많다 .	O O O O O O O O O O O O
-지하철 3호선 정발산역은 일산신도시를 대표하는 역세권으로 롯데백화점, 홈플러스, 일산문화공원, 고양아람누리 등 각종 생활 인프라가 형성되+어 있을 뿐만 아니라 대형 스트리트 상가인 ‘라페스타’가 조성되 +어 현재도크+ㄴ인기를 끌고 있다 .	O LOC-B LOC-B LOC-I O O ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O ORG-B O O O ORG-B O O
-이제 검찰의 롯데 수사는 이인원 정책본부장, 황각규 정책본부 운영실장, 소진세 정책본부 대외협력단장 등 롯데그룹 핵심 가시+ㄴ ‘3인방’의 소환 단계에 이르었다 .	O O ORG-B O PER-B O PER-B O O PER-B O O O ORG-B O O O O O O O
-출석 당일 아침부터 서울 삼성동 박 전 대통령 자택 앞은 지지자들과 취재진, 경찰이 뒤엉키+어크+ㄴ 혼잡을 이루었다 .	O O O LOC-B LOC-B PER-B O O O O O O O O O O O
-횡단보도와 비하건의 만남으로, 아동을 넘어 애완동물, 자전거, 기타도난 사고까지 모두 추적이 가능하+ㄴ제브라시퀀스 시스템은, 각종 사고 시 사회적 비용 절감과 동시에 경찰력 낭비를 최소화 하+ㄹ 수 있다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-▶새누리당 김종태(상주) 의원 =“제가 장관께 올 추석에 유명 하+ㄴ상주 곶감을 하나 보내+었다면, 뇌물이 +ㄴ가?”▶ 이동필 농림축산식품부 장관=“….”▶ 김 의원 = “2009년 공무원 행동강령에 선물한도를 3만원으로 지정 하+여 적용 하+여+오았다 .	ORG-B LOC-B MNY-I O O O O O LOC-B O O O O O PER-B ORG-B O PER-B MNY-I O O O O O MNY-B O O O O O
-우수하+ㄴ 외국인 교수진과 100% 영어강의를 통하+여 언어능력과 전공 실력을 겸비하+ㄴ 전공분야 해외취업이 가능하+ㄴ 글로벌 인재를 육성하고 있다 .	O O O O O O O O O O O O O O O O O O
-GS건설은 KTX 역세권 단지+이라는 점을 강조하기 위하+여단지 이름에 ‘익스프레스’ +이라는 표현을 넣었다 .	ORG-B LOC-B LOC-I LOC-I O O O O O O O O O
-친박계는 김 대표가 현역 의원을 대거 당선시키+어 자신의 대선 기반을 만들려 하+ㄴ다고 비판 하+ㄴ다 .	ORG-B PER-B O O O O O O O O O O O O O
-또 "정우식에게 특정 배역을 주라고 지시하+여 100명 넘는 연기자들이 응시하+ㄴ 오디션이 쓸모없어 지+ㄴ 적이 있었다는 증언도 나오았다"고 전하였다 .	O PER-B O O O O O O O O O O O O O O O O O
-매체는 "정우식이 비중 있는 조연으로 출연하였던 한 드라마의 경우, 제작진이 신인 남성 연기자 100여명을 상대로 오디션을 실시하였지만, 드라마 본부장의 지시로 오디션에 참가하지도 않았던 정우식이 결국 배역을 맡은 것으로 알려지었다"며 "이 정도 배역에 간부가 특정인을 출연시키+어달라고 하는 경우는 매우 드물다"는 것+이 드라마 국중 견급 PD의 설명이라고 전하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+온갖 공장 의 폐수 가 3 년 이상 유수지 로 흘러들 었 다 는 의미 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O
+자유 무역 을 반대하 고 부유세 를 지지하 고 , 낙태 에 대한 태도 도 모호하 고 , 이라크 전쟁 에 도 반대하 는 ‘ 전혀 공화당 과 맞 지 않 는 인물 ’ 이 유권자 들 의 온갖 불평불만 을 대변하 면서 후보 자리 를 꿰찼 다는 설명 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+푸조 수입원 한불모터스 는 푸조 의 대표 소형 SUV 2008 유로 6 모델 의 국내 출시 를 앞두 고 사전 계약 을 실시한다고 23 일 밝 혔 다 .	ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+진생 베리 에 는 특정 사포닌 인 ‘ 진세노사이드 Re ’ 성분 이 뿌리 보다 30 배 이상 많 다 .	O O O O O O O O O O O O O O O O O O O O O
+지하철 3 호 선 정발산 역 은 일산 신도시 를 대표하 는 역세권 으로 롯데백화점 , 홈플러스 , 일산 문화 공원 , 고 양아람 누리 등 각종 생활 인프라 가 형성돼 있 을 뿐 만 아니 라 대형 스트리트 상가 인 ‘ 라페스타 ’ 가 조성돼 현재 도 큰 인기 를 끌 고 있 다 .	O LOC-B LOC-I LOC-I LOC-B LOC-I O LOC-B LOC-I O O O O O ORG-B O ORG-B O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+이제 검찰 의 롯데 수사 는 이인원 정책 본부 장 , 황 각규 정책 본부 운영 실장 , 소진세 정책 본부 대외 협력 단 장 등 롯데 그룹 핵심 가 신 ‘ 3 인 방 ’ 의 소환 단계 에 이르 렀 다 .	O O O ORG-B O O PER-B O O O O PER-B PER-I O O O O O PER-B O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+출석 당일 아침 부터 서울 삼성동 박 전 대통령 자택 앞 은 지지자 들 과 취재진 , 경찰 이 뒤엉켜 큰 혼잡 을 이 뤘 다 .	O O O O LOC-B LOC-B PER-B O O O O O O O O O O O O O O O O O O O O
+횡단보도 와 비 컨 의 만남 으로 , 아동 을 넘 어 애완동물 , 자전거 , 기타 도난 사고 까지 모두 추적 이 가능한 제브라 시퀀스 시스템 은 , 각종 사고 시 사회적 비용 절감 과 동시 에 경찰력 낭비 를 최소화할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+▶ 새누리당 김종태 ( 상주 ) 의원 = “ 제 가 장관 께 올 추석 에 유명한 상주 곶감 을 하나 보냈 다면 , 뇌물 인가 ? ” ▶ 이동필 농림 축산식품 부 장관 = “ … . ” ▶ 김 의원 = “ 2009 년 공무원 행동 강령 에 선물 한도 를 3 만 원 으로 지정해 적용해 왔 다 .	O ORG-B PER-B O LOC-B O O O O O O O O O O O O LOC-B O O O O O O O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O PER-B O O O DAT-B DAT-I O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+우수한 외국인 교수진 과 100 % 영어 강의 를 통해 언어 능력 과 전공 실력 을 겸비한 전공 분야 해외 취업 이 가능한 글로벌 인재 를 육성하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+GS 건설 은 KTX 역세권 단지 라는 점 을 강조하 기 위해 단지 이름 에 ‘ 익스프레스 ’ 라는 표현 을 넣 었 다 .	ORG-B ORG-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O
+친 박 계 는 김 대표 가 현역 의원 을 대거 당선 시켜 자신 의 대선 기반 을 만들 려 한다고 비판한다 .	ORG-B ORG-I ORG-I O PER-B O O O O O O O O O O O O O O O O O O
+또 " 정우식 에게 특정 배역 을 주 라고 지시해 100 명 넘 는 연기자 들 이 응시한 오디션 이 쓸모없 어 진 적 이 있 었 다는 증언 도 나 왔 다 " 고 전 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+매체 는 " 정우식 이 비중 있 는 조연 으로 출연 했 던 한 드라마 의 경우 , 제작진 이 신인 남성 연기자 100 여 명 을 상대 로 오디션 을 실시 했 지만 , 드라마 본부 장 의 지시 로 오디션 에 참가하 지 도 않 았 던 정우식 이 결국 배역 을 맡 은 것 으로 알려 졌 다 " 며 " 이 정도 배역 에 간부 가 특정인 을 출연 시켜 달 라고 하 는 경우 는 매우 드물 다 " 는 게 드라마 국 중견 급 PD 의 설명 이 라고 전 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

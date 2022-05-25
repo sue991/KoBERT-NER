@@ -1,19 +1,19 @@
-박해진 소속사 더블유엠컴퍼니 측은 20일 “박해진이 ‘치즈인 더트랩’ 남자 주인공 ‘유정’ 역할을 맡았다”며 “캐릭터 준비에 집중하고 있다”라고 전하였다 .	PER-B O ORG-B O O PER-B O O O O PER-B O O O O O O O O
-‘치즈인 더트랩’은 순끼 작가의 작품으로 지나 +ㄴ 2010년부터 포털사이트 네이버 웹툰을 통하+여 연재되고 있다 .	O O PER-B O O O O O O ORG-B ORG-I O O O O
-남자 주인공의 확정 소식에 여자 주인공 홍설역에서부터 유정의 어리+ㄴ 시절 친구이자 라이벌이 +ㄴ 백인 호역까지 관심이 뜨겁다 .	O O O O O O PER-B PER-B O O O O O O O O O O
-이성경, 치즈인더트랩 백인 하役 확정… SNS에는 ‘그만 울어도 되+어’… 왜 .	PER-B O O O O O O O O O O
-수출과 내수가 ‘쌍끌이 부진’에 시달리는 가운데 이처럼 대내외 불확실성이 가중되+어한은 이 기존에 내놓은 내년 성장률 전망치(2.8%)를 하향 조정 하+ㄹ 것이라는 관측이 커지고 있다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O
-이러하+ㄴ 난관을 이기+어내기 위하+여정현욱은 남다르+ㄴ 노력을 기울이고 있다 .	O O O PER-B O O O O O
-그해 12월 학생 3명이 능력을 인정받아 현지 회사에 정식 직원으로 채용되+ㄹ 예정으로 H1 비자(학사 이상 학력으로 전문 기술 직 취업이 가능하+ㄴ 비자) 수속을 밟고 있다는 소식을 학교 측에 알리+어+오았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘아빠 어디가’, ‘꽃보다 청춘’, ‘꽃보다 누나’, ‘나+의 친구의 집은 어디 이+ㄴ가’, ‘삼시세끼’까지.이 프로그램들의 공통점은? 모두 ‘여행’을 주제로 하는 예능 프로그램이다 .	O O O O O O O O O O O O O O O O O O O O O
-양사는 원하는 차량을 필요하+ㄴ 시간만큼만 사용하는 기존의 카셰어링 서비스에 더 하+여, 차량 인도 및 반납 장소를 고객이 원하는 곳으로 지정 하+ㄹ 수 있는 혁신적 이+ㄴ ‘온디맨드(on-demand)형 카셰어링 서비스’를 제공하+ㅁ으로써 고객 편의를 극대화 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한편 시크릿은 지난해 ‘아임인 러브(I’minLove)’로 활동하+ㄴ 뒤 멤버별 개인 활동을 하고 있다 .	O ORG-B O O O O O O O O O O O
-‘국가적 갈등과 제해결의 모범사례.’(5월 3일 인사혁신처 설명자료) 29일 국회를 통과하+ㄴ 공무원연금 개혁안에 대하+여정부는 이같이 자평하고 있다 .	O O O O O ORG-B O O O O O O O O O O O
-11일 동아일보가 한국개발연구원(KDI)과 국회 예산정책처, 국제통화기금(IMF) 등 국내외 기관이 내놓은 한국의 성장률 전망치와 고용률, 국민소득 추이 등을 분석하+ㄴ 결과 거시경제지표는 3개년 계획 전후로크+ㄴ 변화가 없는 것으로 나타나 +았다 .	O ORG-B ORG-B ORG-B ORG-I ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O
-이어 “입사 1년차에 근무일 중 20% 결근자가 사실상 존재하기 어렵다는 점에서 80% 이상 출근요건도 현실적이지 않다”고 덧붙이었다 .	O O O O O O O O O O O O O O O O O O
-21일 단행되 +ㄴ 개각도 총선 출마자 정리용이라 별 감동을 주지 못하였다 .	O O O O O O O O O O O O
-실제 새누리당이 차지하+ㄴ의석수는 152석으로, 한 개 방송사의 예측 범주에 듣었을 뿐이다 .	O ORG-B O O O O O O O O O O
-이번에도 방송3사가 다소 차이를 보이고 있다 .	O O O O O O O
-KBS는 새누리당 121~143석, 더불어민주당 101~123석, 국민의당이 34~41석을 차지하+ㄹ 것으로 예측하였다 .	ORG-B ORG-B O ORG-B O ORG-B O O O O O
-MBC는 새누리당 118~136석, 더민주 107~128석, 국민의당 32~42석으로 예측하였다 .	ORG-B ORG-B O ORG-B O ORG-B O O O
-SBS는 새누리당 123~147석, 더민주 97~120석, 국민의당 31~43석을 얻을 것으로 예측하였다 .	ORG-B ORG-B O ORG-B O ORG-B O O O O O
+박해진 소속 사 더블유 엠 컴퍼니 측 은 20 일 “ 박해진 이 ‘ 치즈 인더 트랩 ’ 남자 주인공 ‘ 유정 ’ 역할 을 맡 았 다 ” 며 “ 캐릭터 준비 에 집중하 고 있 다 ” 라고 전 했 다 .	PER-B O O ORG-B ORG-I ORG-I O O DAT-B DAT-I O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+‘ 치즈 인더 트랩 ’ 은 순 끼 작가 의 작품 으로 지난 2010 년 부터 포털 사이트 네이버 웹 툰 을 통해 연재되 고 있 다 .	O O O O O O PER-B PER-I O O O O O DAT-B DAT-I O O O ORG-B ORG-I ORG-I O O O O O O O
+남자 주인공 의 확정 소식 에 여자 주인공 홍설 역 에서부터 유정 의 어린 시절 친구 이 자 라이벌 인 백인호 역 까지 관심 이 뜨겁 다 .	O O O O O O O O PER-B O O PER-B O O O O O O O O PER-B O O O O O O O
+이성경 , 치즈 인더 트랩 백인하 役 확정 … SNS 에 는 ‘ 그만 울 어도 돼 ’ … 왜 ?	PER-B O O O O PER-B O O O O O O O O O O O O O O O
+수출 과 내수 가 ‘ 쌍끌이 부진 ’ 에 시달리 는 가운데 이 처럼 대내외 불확실성 이 가중돼 한은 이 기존 에 내놓 은 내년 성장률 전망 치 ( 2.8 % ) 를 하향 조정할 것 이 라는 관측 이 커지 고 있 다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+이러한 난관 을 이겨 내 기 위해 정현욱 은 남다른 노력 을 기울이 고 있 다 .	O O O O O O O PER-B O O O O O O O O O
+그해 12 월 학생 3 명 이 능력 을 인정받 아 현지 회사 에 정식 직원 으로 채용될 예정 으로 H 1 비자 ( 학사 이상 학력 으로 전문 기술직 취업 이 가능한 비 자 ) 수속 을 밟 고 있 다는 소식 을 학교 측 에 알려 왔 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 아빠 어디 가 ’ , ‘ 꽃 보다 청춘 ’ , ‘ 꽃 보다 누나 ’ , ‘ 내 친구 의 집 은 어디 인가 ’ , ‘ 삼시세끼 ’ 까지 . 이 프로그램 들 의 공통점 은 ? 모두 ‘ 여행 ’ 을 주제 로 하 는 예능 프로그램 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+양 사 는 원하 는 차량 을 필요한 시간 만큼 만 사용하 는 기존 의 카 셰어링 서비스 에 더해 , 차량 인도 및 반납 장소 를 고객 이 원하 는 곳 으로 지정할 수 있 는 혁신적 인 ‘ 온 디맨드 ( on - demand ) 형 카 셰어링 서비스 ’ 를 제공함 으로써 고객 편의 를 극대화한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 시크릿 은 지난해 ‘ 아임 인 러브 ( I ’ m in Love ) ’ 로 활동한 뒤 멤버 별 개인 활동 을 하 고 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 국가적 갈등 과제 해결 의 모범 사례 . ’ ( 5 월 3 일 인사 혁신 처 설명 자료 ) 29 일 국회 를 통과한 공무원 연금 개혁 안 에 대해 정부 는 이 같이 자평하 고 있 다 .	O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I ORG-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+11 일 동아일보 가 한국개발연구원 ( KDI ) 과 국회 예산 정책 처 , 국제 통화 기금 ( IMF ) 등 국내외 기관 이 내놓 은 한국 의 성장률 전망 치 와 고용 률 , 국민소득 추이 등 을 분석한 결과 거시 경제 지표 는 3 개년 계획 전후 로 큰 변화 가 없 는 것 으로 나타났 다 .	DAT-B DAT-I ORG-B O ORG-B O ORG-B O O ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 입사 1 년 차 에 근무일 중 20 % 결근 자 가 사실상 존재하 기 어렵 다는 점 에서 80 % 이상 출근 요건 도 현실적 이 지 않 다 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+21 일 단행된 개각 도 총선 출마 자 정리 용 이 라 별 감동 을 주 지 못 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+실제 새누리당 이 차지한 의석수 는 152 석 으로 , 한 개 방송사 의 예측 범주 에 들 었 을 뿐 이 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+이번 에 도 방송 3 사 가 다소 차이 를 보이 고 있 다 .	O O O O O O O O O O O O O O O
+KBS 는 새누리당 121 ~ 143 석 , 더불 어 민주당 101 ~ 123 석 , 국민 의 당 이 34 ~ 41 석 을 차지할 것 으로 예측 했 다 .	ORG-B O ORG-B O O O O O ORG-B ORG-I ORG-I O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+MBC 는 새누리당 118 ~ 136 석 , 더 민주 107 ~ 128 석 , 국민 의당 32 ~ 42 석 으로 예측 했 다 .	ORG-B O ORG-B O O O O O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O O O O O
+SBS 는 새누리당 123 ~ 147 석 , 더 민주 97 ~ 120 석 , 국민 의당 31 ~ 43 석 을 얻 을 것 으로 예측 했 다 .	ORG-B O ORG-B O O O O O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O

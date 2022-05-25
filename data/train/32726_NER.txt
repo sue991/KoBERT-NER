@@ -1,17 +1,17 @@
-폭스바겐코리아가 ‘유로5’ 환경 기준의 디젤차를 소유하+ㄴ국내 고객 전원에게 리콜 여부를 통지하였다고 30일 밝히었다 .	ORG-B O O O O O O O O O O O O O
-폭스바겐코리아가 통지문을 발송하+ㄴ 것은 유로5 기준의 디젤차 중 EA 189 엔진을 장착하+ㄴ 차량 만 리콜 대상이 되기 때문이다 .	ORG-B O O O O O O O O O O O O O O O O O O
-힐링캠프 성유리, 김영광에 "나한테 반하였어?"… 김우빈에 "지금 자나?"'깜찍 .	O PER-B PER-B O O PER-B O O O
-한마디로 뇌물이라는 증거가 부족하다는 얘기+이다 .	O O O O O O
-그리고 2년 만이 +ㄴ 지난달 말에 +ㄴ 차이콥스키 협주곡을 녹음 하+여 역시 DG에서 두 번째 음반을 내+었다 .	O O O O O O O O O O O O ORG-B O O O O O
-2006년부터 위스타트 홍보대사로 활동하고 있는 가수 ‘바다’는 개장식에 참석하+여 축하공연을 하+ㄴ다 .	O ORG-B O O O O PER-B O O O O O
-베스트라인업을 총동원 하+ㄴ 수원과 대조적이었다 .	O O O ORG-B O O
-【총평】?광해군은 명의 요구적절히 거절하면서명과 후금의 싸움에 말려들지 않고 조선의 사정에 맞추어 실리를 취하는 중립 외교정책을 펼치었다 .	PER-B ORG-B O ORG-B ORG-B O O O ORG-B O O O O O O O O
-[인사]우정사업본부 .	ORG-B O
-하지만, 조선은행이 총재로 맞이하였던 사람 중 최고위 인사+이라서 직원들은 그를 싫어하지 않았다 .	O ORG-B O O O O O O O O O O O
-하지만 사드(THAAD·고고도미사일방어체계)의 한반도 배치 등 정치 이슈에 따르+ㄴ 비관세장벽과 일본산 제품과의 경쟁 등 넘어야 하+ㄹ산이 적지 않다 .	O O LOC-B O O O O O O ORG-B O O O O O O O O
-윤완준 zeitu ng@d onga. com·이새샘/ 세종=이상훈기 .	PER-B O O O PER-B LOC-B O
-어리+어서 그렇다”고 사과하며 이수경을 감싸 +았다 .	O O O PER-B O O O
-‘이수경 태도 논란’ 소식을 접하+ㄴ네티즌들은 “이수경 태도 논란, 동영상 보니까 너무 하던데요”, “이수경 태도 논란, 데뷔작 이+ㄴ 데 이렇게 좋은 작품하고 좀 의심스럽네요”, “이수경 태도 논란, 기자들 있는 앞에서 저러면 안 되+ㄹ거 같은데요?” 등의 반응을 보이었다 .	PER-B O O O O PER-B O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O
-한편 ‘호구의 사랑’은 유현숙 작가의 동명 웹툰을 원작으로 하+ㄴ드라마로, 오는 2월 9일 밤 11시 첫 방송되+ㄴ다 .	O O O PER-B O O O O O O O O O O O O O
-8세 여자 초등학생을 유괴·살해 하+ㄴ 뒤 시신을 훼손하+여유기 하+ㄴ 17세 소녀 A양이 조현병(정신분열증) 치료를 받은 사실이 확인되었다 .	O O O O O O O O O O O PER-B O O O O O O
-＃2. 충북 오창산업단지에 위치하+ㄴ삼성SDI 청주사업장은 히트펌프 시스템과 독자적 이+ㄴ 에너지관리 정책 등을 통하+여 연간 22억원의 에너지 비용을 절감하였다 .	O LOC-B LOC-I LOC-B LOC-I O O O O O O O O O MNY-B O O O O
+폭스바겐 코리아 가 ‘ 유로 5 ’ 환경 기준 의 디젤차 를 소유한 국내 고객 전원 에게 리콜 여부 를 통지 했 다고 30 일 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+폭스바겐 코리아 가 통지 문 을 발송한 것 은 유로 5 기준 의 디젤차 중 EA 189 엔진 을 장착한 차량 만 리콜 대상 이 되 기 때문 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+힐링 캠프 성유리 , 김영광 에 " 나 한테 반 했 어 ? " … 김우빈 에 " 지금 자 나 ? " ' 깜찍 '	O O PER-B O PER-B O O O O O O O O O O PER-B O O O O O O O O O O
+한마디 로 뇌물 이 라는 증거 가 부족하 다는 얘기 다 .	O O O O O O O O O O O O
+그리고 2 년 만 인 지난달 말 엔 차이콥스키 협주곡 을 녹음해 역시 DG 에서 두 번째 음반 을 냈 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O
+2006 년 부터 위스 타트 홍보 대사 로 활동하 고 있 는 가수 ‘ 바다 ’ 는 개장식 에 참석해 축하 공연 을 한다 .	DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O PER-B O O O O O O O O O O
+베스트 라인업 을 총동원한 수원 과 대조적 이 었 다 .	O O O O ORG-B O O O O O O
+【 총평 】 ? 광해군 은 명 의 요구 적절히 거절하 면서 명 과 후금 의 싸움 에 말려들 지 않 고 조선 의 사정 에 맞추 어 실리 를 취하 는 중립 외교 정책 을 펼 쳤 다 .	O O O O PER-B O ORG-B O O O O O ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+[ 인사 ] 우정 사업 본부 外	O O O ORG-B ORG-I ORG-I O
+하지만 , 조선은행 이 총재 로 맞이 했 던 사람 중 최고 위 인사 라서 직원 들 은 그 를 싫어하 지 않 았 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+하지만 사드 ( THAAD · 고고도 미사일 방어 체계 ) 의 한반도 배치 등 정치 이슈 에 따른 비 관세 장벽 과 일본 산 제품 과 의 경쟁 등 넘 어야 할 산 이 적 지 않 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+윤완준 zeitung @ donga . com · 이 새샘 / 세종 = 이상훈 기자	PER-B O O O O O O PER-B PER-I O LOC-B O PER-B O
+어려서 그렇 다 ” 고 사과하 며 이수경 을 감쌌 다 .	O O O O O O O PER-B O O O O
+‘ 이수경 태도 논란 ’ 소식 을 접한 네티즌 들 은 “ 이수경 태도 논란 , 동영상 보 니까 너무 하 던데요 ” , “ 이수경 태도 논란 , 데뷔작 인데 이렇 게 좋 은 작품 하고 좀 의심스럽 네요 ” , “ 이수경 태도 논란 , 기자 들 있 는 앞 에서 저러 면 안 될 거 같 은데요 ? ” 등 의 반응 을 보 였 다 .	O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 ‘ 호구 의 사랑 ’ 은 유현숙 작가 의 동명 웹 툰 을 원작 으로 한 드라마 로 , 오 는 2 월 9 일 밤 11 시 첫 방송된다 .	O O O O O O O PER-B O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I O O O
+8 세 여자 초등학생 을 유괴 · 살해한 뒤 시신 을 훼손해 유기한 17 세 소녀 A 양 이 조현병 ( 정신 분열증 ) 치료 를 받 은 사실 이 확인 됐 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+＃ 2 . 충북 오창 산업 단지 에 위치한 삼성 SDI 청주 사업장 은 히트 펌프 시스템 과 독자적 인 에너지 관리 정책 등 을 통해 연간 22 억 원 의 에너지 비용 을 절감 했 다 .	O O O LOC-B LOC-I LOC-I LOC-I O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O

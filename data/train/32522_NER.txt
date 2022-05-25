@@ -1,11 +1,11 @@
-가쓰야(岡田克也) 민진당 대표는 연설에서 안보법을 정면으로 비판하고 여당이 개헌 발의 정족수 이+ㄴ 3분의 2 이상을 확보하지 못하도록 하+여달라고 호소하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O
-김 전 의원은 15일 기자회견에서 향후 선대위의 운영계획을 밝히+ㄴ후 곧바로 선거체제의 전면에 나서 +ㄴ다 .	PER-B O O O O O ORG-B O O O O O O O O
-대통령 민정수석비서관실이 지난해 ‘문화계 황태자’ 차은택씨(전 창조경제추진단장)의 이권 개입 정황 외에 이성한 전 미르재단 사무총장의 정보를 수집하였다는 증언이 10일 새로 나오았다 .	ORG-B ORG-I O PER-B PER-I PER-B O O O O O PER-B O ORG-B O O O O O O O O
-이에 따르 아농 진청과 이천시는 상품성이 더 있는 품종을 내놓기 위하+여 내년에 다시 개발작업을 진행하기로 결정하였다 .	O O O O ORG-B O O O O O O O O O O O O
-이장우 의원의 발언에 야당이 반발하면서 회의는 또 한번 파행을 겪은 후 오후 9시 경 속개되었다 .	PER-B O O O O O O O O O O O O O O O
-박 사장은 특히 서강대 외교학과를 나오아서강대 출신 금융인 모임이 +ㄴ ‘서금회’의 초대 회장을 맡은 바 있다 .	PER-B O O ORG-B ORG-I ORG-B O O O O ORG-B O O O O O O
-나는 그 전날 밤 박 대통령과 미리 상의를 하면서 존슨 대통령에게 미국이민을 대폭 허용 하+여주+ㄹ 것을 요구하+ 여야 하+ㄴ다고 말씀드리었다 .	O O O O PER-B O O O O PER-B O LOC-B O O O O O O O O O
-“지아음원 공개, 노래 듣으러 가+아야지”, “지아 음원 공개, 가사가 너무 아름답네요” 등의 반응을 보이었다 .	PER-B O O O O PER-B O O O O O O O O O
-‘프로듀스 101’ 순위 1위 김세정, 졸업사진 눈길…학창시절부터 남다르+ㄴ미모 ‘프로듀스 101’ 순위에서 1위를 차지하+ㄴ김세정의학창시절 졸업사진이 끌고 있다 .	O O O O PER-B O O O O O O O PER-B O O O O
-21세기에서 복수는 낯설+ㄹ지 모르지만의 롭 +ㅁ은 아직도 유효하고, 그 점이 관객들의 마음을 사로잡았다고 하면 대박도 이해가 가+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-한편 유 의원은 경선룰을 둘러싸고 당내 또 다른 대선주자 이+ㄴ 남경필 경기지사 측이 ‘경선 보이콧’을 시사하며 이의를 제기하+ㄴ데 대하+여 “경선룰은 당이 정하는 대로, 당에 맡기+ㄹ 것”이라고 짧게 말하였다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+가쓰 야 ( 岡田克也 ) 민진당 대표 는 연설 에서 안보 법 을 정면 으로 비판하 고 여당 이 개헌 발 의 정족수 인 3 분 의 2 이상 을 확보하 지 못하 도록 해 달 라고 호소 했 다 .	PER-B PER-I O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 전 의원 은 15 일 기자 회견 에서 향후 선대위 의 운영 계획 을 밝힌 후 곧바로 선거 체제 의 전면 에 나선다 .	PER-B O O O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O
+대통령 민정 수석 비서관 실 이 지난해 ‘ 문화계 황태자 ’ 차은택 씨 ( 전 창조 경제 추진 단장 ) 의 이권 개입 정황 외 에 이성한 전 미르 재단 사무총장 의 정보 를 수집 했 다는 증언 이 10 일 새로 나 왔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O PER-B O ORG-B ORG-I O O O O O O O O O DAT-B DAT-I O O O O O
+이 에 따 라 농진청 과 이천시 는 상품성 이 더 있 는 품종 을 내놓 기 위해 내년 에 다시 개발 작업 을 진행하 기 로 결정 했 다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+이장우 의원 의 발언 에 야당 이 반발하 면서 회의 는 또 한 번 파행 을 겪 은 후 오후 9 시 경 속개 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I O O O O O
+박 사장 은 특히 서강대 외교 학과 를 나 와 서강대 출신 금융인 모임 인 ‘ 서금 회 ’ 의 초대 회장 을 맡 은 바 있 다 .	PER-B O O O ORG-B ORG-I ORG-I O O O ORG-B O O O O O ORG-B ORG-I O O O O O O O O O O O
+나 는 그 전날 밤 박 대통령 과 미리 상의 를 하 면서 존슨 대통령 에게 미국 이민 을 대폭 허용해 줄 것 을 요구해야 한다고 말씀 드 렸 다 .	O O O O O PER-B O O O O O O O PER-B O O LOC-B O O O O O O O O O O O O O O
+“ 지아 음원 공개 , 노래 들 으러 가야지 ” , “ 지아 음원 공개 , 가사 가 너무 아름답 네요 ” 등 의 반응 을 보 였 다 .	O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+‘ 프로듀스 101 ’ 순위 1 위 김세정 , 졸업 사진 눈길 … 학창 시절 부터 남다른 미모 ‘ 프로듀스 101 ’ 순위 에서 1 위 를 차지한 김세정 의 학창 시절 졸업 사진 이 끌 고 있 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+21 세기 에서 복수 는 낯설지 모르 지만 의로움 은 아직 도 유효하 고 , 그 점 이 관객 들 의 마음 을 사로잡 았 다고 하 면 대박 도 이해 가 간다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 유 의원 은 경선 룰 을 둘러싸 고 당내 또 다른 대선 주자 인 남경필 경기 지사 측 이 ‘ 경선 보이콧 ’ 을 시사하 며 이의 를 제기한 데 대해 “ 경선 룰 은 당 이 정하 는 대로 , 당 에 맡길 것 ” 이라고 짧 게 말 했 다 .	O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

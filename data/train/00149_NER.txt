@@ -1,13 +1,13 @@
-최희섭은 20일 “지난주 KIA 구단과 얘기가 +었다 .	PER-B O O ORG-B ORG-I O O O
-안재욱 ♥ 최현주, 5월 결혼… 네티즌 반응이 .	PER-B O PER-B O O O O O
-김호섭 경북도 창조경제과학과장은 “사업이 본궤도에 오르면 10여년간 1조9000억원의 재난 피해 감소와 5100억원의 시장 창출 효과를 내+ㄹ 것으로 분석되었다”고 말하였다 .	PER-B ORG-B MNY-I O O O MNY-B MNY-B O O O MNY-B O O O O O O O O
-‘대통령 방미 연기’ 박근혜 대통령이 방미 일정을 연기하였다 .	O O O PER-B O O O O O
-송일국, 아내 정승연 판사에 백허그++입맞춤… ‘여전히 신혼 .	PER-B O PER-B O O O O O
-1라운드에서 3오버파(75타)를 치며 공동 81위에 그치면서 컷 통과가 불안하었다 .	O O O O O O O O O O
-진정 국면으로 들어가던 서울지역 유치원 누리과정 예산 파동이 하루 만에 원점으로 돌아오았다 .	O O O LOC-B O O O O O O O O O
-이어 비밀병기 그녀 취재를 온 취재진이젝스키스 재결합에 관하+여 묻자 장수원은 "올해가 가장 긍정적 이+ㄴ이야기를 하는 해가 아니+ㄴ가 싶다 .	O O O O O ORG-B O O O PER-B O O O O O O O O O
-"+이라며 "은지원은 내가 바쁘아+지었다고 하지만 지난해에 은지원이 협조적이지 않았다 .	O PER-B O O O O PER-B O O O
-하지만 작황이 부진하+ㅁ에 따르 아수확량을 5~10% 낮추+어 잡았다 .	O O O O O O O O O
-시즌 막판 1군 승격 가능성이나 포스트시즌 무대 등록 가능성을 열어두고 있다면, 앞으로 훈련 과정에서도 부상을 키우+ㄹ 수 있기 때문이다 .	O O O O O O O O O O O O O O O O O O O O
-그러나 독일은 통일의 주체가 분명하기 때문에 사회적 혼란을 극소화시키+ㄹ 수 있었다 .	O ORG-B O O O O O O O O O O
-[Health&Beauty] 2025년에 +ㄴ 치매 이+ㄴ 구 100만… “숨기지 말고 선제적 관리하시+어요 .	O O O O O O O O O O O O
+최희섭 은 20 일 “ 지난주 KIA 구단 과 얘기 가 됐 다 .	PER-B O DAT-B DAT-I O O ORG-B ORG-I O O O O O O
+안재욱 ♥ 최현주 , 5 월 결혼 … 네티즌 반응 이 …	PER-B O PER-B O DAT-B DAT-I O O O O O O
+김호섭 경북도 창조 경제 과 학과 장 은 “ 사업 이 본궤도 에 오르 면 10 여 년 간 1 조 9000 억 원 의 재난 피해 감소 와 5100 억 원 의 시장 창출 효과 를 낼 것 으로 분석 됐 다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+‘ 대통령 방 미 연기 ’ 박근혜 대통령 이 방 미 일정 을 연기 했 다 .	O O O O O O PER-B O O O O O O O O O O
+송일국 , 아내 정승연 판사 에 백 허그+ 입맞춤 … ‘ 여전히 신혼 ’	PER-B O O PER-B O O O O O O O O O O
+1 라운드 에서 3 오버파 ( 75 타 ) 를 치 며 공동 81 위 에 그치 면서 컷 통과 가 불안 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+진정 국면 으로 들어가 던 서울 지역 유치원 누리 과정 예산 파동 이 하루 만 에 원점 으로 돌아 왔 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O
+이어 비밀 병기 그녀 취재 를 온 취재진 이 젝스키스 재결합 에 관해 묻 자 장수원 은 " 올해 가 가장 긍정적 인 이야기 를 하 는 해 가 아닌가 싶 다 .	O O O O O O O O O ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O
+" 라며 " 은지원 은 내 가 바 빠 졌 다고 하 지만 지난해 에 은지원 이 협조적 이 지 않 았 다 .	O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O
+하지만 작황 이 부진함 에 따 라 수확량 을 5 ~ 10 % 낮춰 잡 았 다 .	O O O O O O O O O O O O O O O O O O
+시즌 막판 1 군 승격 가능성 이나 포스트 시즌 무대 등록 가능성 을 열 어 두 고 있 다면 , 앞 으로 훈련 과정 에서 도 부상 을 키울 수 있 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 독일 은 통일 의 주체 가 분명하 기 때문 에 사회적 혼란 을 극소화 시킬 수 있 었 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
+[ Health & Beauty ] 2025 년 엔 치매 인구 100 만 … “ 숨기 지 말 고 선제 적 관리하 세요 ”	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O

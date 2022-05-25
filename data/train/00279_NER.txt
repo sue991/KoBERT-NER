@@ -1,9 +1,9 @@
-이 때문이 +ㄴ지 28일 오전 11시부터 세종문화회관에서 제1회 시민의 날 선포식이 열리었지만 시종 어색하고 쓸쓸하기만 +였다 .	O O O O O O ORG-B O O O O O O O O O O
-6일 뉴욕 양키스전에서도 2루타를 때리는 등 2타수 1안타를 +었다 .	O ORG-B ORG-I O O O O O O O
-하지만 같은 기간 국내 시중은행들은 대우조선에 대하+ㄴ대출을 회수하+여익스포저를 3조9067억원에서 2조6100억원으로 줄이었다 .	O O O O O O O O MNY-B MNY-B O O
-남쪽이나 북의 정치지도자들은 이 진리를 깊이 깨닫고 하느님 앞에 그들 스스로 겸손되+ㄴ 마음으로 먼저 하느님 뜻 앞에 승복 하+ㄹ줄 알아야 하겠습니다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
-강 회장에 앞서 +어 전병관 생활체육회 부회장(60·경희대 교수)도 출마를 선언하였다 .	PER-B ORG-I O O PER-B ORG-B ORG-B O O O O
-안전센터가 설치되면 근무인원이 직원만 20명으로 늘어나고 순찰 정 차량인명구조장비 등도 갖추+ㄹ 수 있기 때문. 최근 장생포 안전센터 터가 확정되면서 본격 추진되 +ㄹ 것으로 전망되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-LG화학과 삼성SDI의 연간 생상능력은 이 기준에 절반도 못 미치+ㄴ다 .	ORG-B ORG-B O O O O O O O O
-돈매팅리 LA 다저스 감독은 “류현진이 좋은 구위를 보이어 주+어서 기쁘다 .	PER-B ORG-B ORG-I O PER-B O O O O O O
-1년 만에 절반 아래로 떨어지었다 .	O O O O O O
+이 때문 인지 28 일 오전 11 시 부터 세종문화회관 에서 제 1 회 시민 의 날 선포 식 이 열 렸 지만 시종 어색하 고 쓸쓸하 기 만 했 다 .	O O O DAT-B DAT-I TIM-B TIM-I TIM-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+6 일 뉴욕 양키스 전 에서 도 2 루 타 를 때리 는 등 2 타수 1 안타 를 쳤 다 .	DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+하지만 같 은 기간 국내 시중은행 들 은 대우조선 에 대한 대출 을 회수해 익스포저 를 3 조 9067 억 원 에서 2 조 6100 억 원 으로 줄 였 다 .	O O O O O O O O ORG-B O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O
+남쪽 이나 북 의 정치 지도자 들 은 이 진리 를 깊이 깨닫 고 하느님 앞 에 그 들 스스로 겸손된 마음 으로 먼저 하느님 뜻 앞 에 승복할 줄 알 아야 하 겠 습니다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강 회장 에 앞서 전병관 생활 체육 회 부회장 ( 60 · 경희대 교수 ) 도 출마 를 선언 했 다 .	PER-B O O O PER-B ORG-B ORG-I ORG-I O O O O ORG-B O O O O O O O O O
+안전 센터 가 설치되 면 근무 인원 이 직원 만 20 명 으로 늘어나 고 순찰 정 차량 인명 구조 장비 등 도 갖출 수 있 기 때문 . 최근 장생포 안전 센터 터 가 확정되 면서 본격 추진될 것 으로 전망된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+LG 화학 과 삼성 SDI 의 연간 생상 능력 은 이 기준 에 절반 도 못 미친다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O
+돈 매팅리 LA 다저스 감독 은 “ 류현진 이 좋 은 구위 를 보 여 줘서 기쁘 다 .	PER-B PER-I ORG-B ORG-I O O O PER-B O O O O O O O O O O O
+1 년 만 에 절반 아래 로 떨어 졌 다 .	O O O O O O O O O O O

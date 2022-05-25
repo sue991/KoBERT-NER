@@ -1,11 +1,11 @@
-이곳에서기자들과 만나 +ㄴ 유 후보는 “이제 새롭ㄴ 시대가 시작되+ㄴ다”며 “좋은 일보다는 많이 힘들 +ㄴ일이 기다리고 있어서 앞으로 국가 리더십의 역할이 정말 중요 하+ㄴ 때”라고 말하였다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
-이탈리아 피렌체에서 오+ㄴ 주얼리 브랜드 파사빈티(Passavinti)가 톱배우 최지우를 만나 +았다 .	LOC-B LOC-I O O O ORG-B O PER-B O O O
-가톨릭대는 정시모집에서 가군 일반 학생 전형(400명)과 교육기회 균등Ⅱ전형(11명), 나군 일반전형(71명), 다군 일반전형(280명)과 교육기회 균등Ⅱ전형(6명)으로 총 768명을 선발하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O
-선발 로테이션이 아니+ㄴ 마무리로테이션이라…. 농담처럼 말하였지만, 김 감독의 스타일상실제 시즌에 돌입하면 상대팀이나 상대 타자 등에 따르 아마 무리를 번갈아 맡기+ㄹ 가능성도 배제하+ㄹ 수 없다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O
-코오롱제약은 2013년부터 운동과 영양의 결합을 통하+여운동선수와 일반인의 건강에 도움을 주는 고기능성 영양스포츠 뉴트리션 제품을 개발·출시하면서 신세대 건강 소재 단백질, 아미노산 전문 브랜드로 성장하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-코오롱제약의 스포츠 뉴트리션 제품은 스포츠 발전을 통하+여 국민건강에 기여하+ㄴ다는 브랜드 철학 아래 출시 전에 이미 약 2년간의 아미노산 조성물 연구개발 및 한국체육과학연구원(KISS)의 인체 임상실험을 성공적으로 수행하+여 조성물 특허를 출원하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
-빈소는 대구전문 장례식장 201호, 발인은 28일 오전 6시30분.053-961-4444.[스포츠동아 .	O LOC-B LOC-I LOC-I O O O ORG-B O
-6월 9일 마이애미전 이후 첫 홈런을 기록하+ㄴ 박병호는 “자신감을 유지하려 노력 하+여원하는 결과를 내+었다”라고 소감을 말하였다 .	O O ORG-B O O O O PER-B O O O O O O O O O
-이번에 출시되는 ‘삼성 노트북 오디세이‘는 15.6형(39.6cm) 모델로 나이츠 블랙, 스톰 화이트 2가지 색상으로 출시되+ㄴ다 .	O O O O O O O O O O O O O O O
-한편 경찰 조사 결과 전국가대표 J씨는 진천선수촌 사건 외에도 비슷하+ㄴ 범행을 추가로 저지르+ㄴ 것으로 밝혀지었다 .	O O O O O PER-B O O O O O O O O O O
-CBS 스포츠는 “한국에서 50홈런을 치+ㄴ 박병호는 올 시즌 홈런 20∼25개가 예상되고, 김현수는 스트라이크 존 적응력이 좋아 팀 선두 타자가 되+ㄹ 수도 있다”고 평가하였다 .	ORG-B ORG-I LOC-B O O PER-B O O O O O PER-B O O O O O O O O O O O O
+이곳 에서 기자 들 과 만난 유 후보 는 “ 이제 새로 운 시대 가 시작된다 ” 며 “ 좋 은 일 보다 는 많이 힘든 일 이 기다리 고 있 어서 앞 으로 국가 리더십 의 역할 이 정말 중요한 때 ” 라고 말 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이탈리아 피렌체 에서 온 주얼리 브랜드 파사 빈티 ( Passavinti ) 가 톱 배우 최지우 를 만났 다 .	LOC-B LOC-I O O O O ORG-B ORG-I O ORG-B O O O O PER-B O O O O
+가톨릭대 는 정시 모집 에서 가 군 일반 학생 전형 ( 400 명 ) 과 교육 기회균등 Ⅱ 전형 ( 11 명 ) , 나군 일반 전형 ( 71 명 ) , 다 군 일반 전형 ( 280 명 ) 과 교육 기회균등 Ⅱ 전형 ( 6 명 ) 으로 총 768 명 을 선발한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+선발 로테이션 이 아닌 마무리 로테이션 이 라 … . 농담 처럼 말 했 지만 , 김 감독 의 스타일 상 실제 시즌 에 돌입하 면 상대 팀 이나 상대 타자 등 에 따 라 마무리 를 번갈 아 맡길 가능성 도 배제할 수 없 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+코오롱 제약 은 2013 년 부터 운동 과 영양 의 결합 을 통해 운동선수 와 일반인 의 건강 에 도움 을 주 는 고기능성 영양 스포츠 뉴트리 션 제품 을 개발 · 출시하 면서 신세대 건강 소재 단백질 , 아미노산 전문 브랜드 로 성장 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+코오롱 제약 의 스포츠 뉴트리 션 제품 은 스포츠 발전 을 통해 국민 건강 에 기여한다는 브랜드 철학 아래 출시 전 에 이미 약 2 년 간 의 아미노산 조성물 연구 개발 및 한국 체육 과학 연구원 ( KISS ) 의 인체 임상 실험 을 성공적 으로 수행해 조성물 특허 를 출원 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O
+빈소 는 대구 전문 장례식장 201 호 , 발인 은 28 일 오전 6 시 30 분 . 053 - 961 - 4444 . [ 스포츠 동아 ]	O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O ORG-B ORG-I O
+6 월 9 일 마이애미 전 이후 첫 홈런 을 기록한 박병호 는 “ 자신감 을 유지하 려 노력해 원하 는 결과 를 냈 다 ” 라고 소감 을 말 했 다 .	DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+이번 에 출시되 는 ‘ 삼성 노트북 오디세이 ‘ 는 15.6 형 ( 39.6 cm ) 모델 로 나이츠 블랙 , 스톰 화이트 2 가지 색상 으로 출시된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 경찰 조사 결과 전 국가 대표 J 씨 는 진천 선수촌 사건 외 에 도 비슷한 범행 을 추가 로 저지른 것 으로 밝혀 졌 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+CBS 스포츠 는 “ 한국 에서 50 홈런 을 친 박병호 는 올 시즌 홈런 20 ∼ 25 개 가 예상되 고 , 김현수 는 스트라이크 존 적응력 이 좋 아 팀 선두 타자 가 될 수 도 있 다 ” 고 평가 했 다 .	ORG-B ORG-I O O LOC-B O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O

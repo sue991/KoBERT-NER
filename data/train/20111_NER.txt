@@ -1,16 +1,16 @@
-박한별, 정은우와 결별… 공개 열애 7개월 만 결별 이유알고 보니 .	PER-B PER-B O O O O O O O O O
-올해는 중앙대(서울)가 다군에서 창의ICT공과대학 등 자연계열 선발을 추가 하+여 상위권 학생들이 막판에 몰리+ㄹ 것으로 보이+ㄴ다 .	O LOC-B O O O O O O O O O O O O O O
-인문계 최상위권은 가군에서 서울대를 지원 하+ㄴ 학생이 대체로 나군에서 고려대 경영대와 연세대 경제학부 등에 지원 하+ㄴ다 .	O O O ORG-B O O O O O ORG-B ORG-I ORG-B ORG-I O O O O
-야당이 모두 반대표를 던지었다는 가정 하에 새누리당에서 7표의 반란표가 나오았다고 추정 하+ㄹ 수 있다 .	O O O O O O ORG-B O O O O O O O O
-정의당(5석)은 이날 이 후보자의 인준에 반대하는 뜻으로 본회의에 불참하였다 .	ORG-B O O O O O O O O O
-앞서 새정치연합은 의원총회를 통하+여 양심에 따르 아자유투표에 임하기로 결정, 이완구 인준동의 표결에 참석하였다 .	O ORG-B O O O O O O O PER-B O O O O
-한편 정의당은 이날 오후 의원총회 후 김제남 원내대변인의 브리핑을 통하+여이완구 인준 표결 불참이유를 섦 명+하였다 .	O ORG-B O O O O PER-B O O PER-B O O O O O O
-그는 “이완구 국무총리 후보자는 인사청문회를 통하+여 총리로서의 자격이 없음이 이미 검증되었다 .	O PER-B O O O O O O O O O O
-이로써 가습기 살균제로 인하+ㄴ 피해자 수는 총 258명으로 확정되었다 .	O O O O O O O O O O
-그 이후 구름다리가 조계사에서 관음전으로 통하는 유일하+ㄴ 출입구 +이었다 .	O O O LOC-B O O O O O O
-최근 연습경기에서 임동섭과 김준일이 잘 하+여주+어더 만족스럽었다 .	O O PER-B PER-B O O O O
-KB투자증권과 현대증권을 합하+여자기자본 약 4조원의 업계 3위 증권사를 보유하게 되+ㄴ KB금융지주는 명실상부하+ㄴ종합금융그룹으로 도약하+ㄹ 수 있게 +었다 .	ORG-B ORG-B O O MNY-B O O O O O ORG-B ORG-I O O O O O
-한국 선수 중에서 +ㄴ 김현태(26)가 유일하게 출전하+ㄴ다 .	O O O O PER-B O O O
-이에 윤원형은 “나+ㄴ 지금 난정(박주미)이를 막고 싶다 .	O PER-B O O PER-B O O O
-스티븐 스필버그 감독, 뉴욕 메츠 구단주, 상·하원의원, HSBC 같은 세계적 금융회사들까지 말려들었다 .	PER-B PER-I O ORG-B ORG-I ORG-I O ORG-B O O O O O
-총 32차례의 개막전에서 20승 1무11패로 0.645의 최고 승률을 기록 중이다 .	O O O O O O O O O O O
+박한별 , 정은우 와 결별 … 공개 열애 7 개월 만 결별 이유 알 고 보 니 …	PER-B O PER-B O O O O O O O O O O O O O O O
+올해 는 중앙대 ( 서울 ) 가 다 군 에서 창의 ICT 공과 대학 등 자연 계열 선발 을 추가해 상위권 학생 들 이 막판 에 몰릴 것 으로 보인다 .	O O ORG-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+인문계 최 상위권 은 가군 에서 서울대 를 지원한 학생 이 대체로 나군 에서 고려대 경영 대 와 연세대 경제학 부 등 에 지원한다 .	O O O O O O ORG-B O O O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O
+야당 이 모두 반대표 를 던 졌 다는 가정 하 에 새누리당 에서 7 표 의 반란 표 가 나 왔 다고 추정할 수 있 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+정의당 ( 5 석 ) 은 이날 이 후보자 의 인준 에 반대하 는 뜻 으로 본회의 에 불참 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+앞서 새정치연합 은 의원총회 를 통해 양심 에 따 라 자유 투표 에 임하 기 로 결정 , 이완구 인준 동의 표결 에 참석 했 다 .	O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+한편 정의당 은 이날 오후 의원 총회 후 김제남 원내 대변인 의 브리핑 을 통해 이완구 인준 표결 불참 이유 를 섦명 했 다 .	O ORG-B O O O O O O PER-B O O O O O O PER-B O O O O O O O O O
+그 는 “ 이완구 국무총리 후보자 는 인사 청문회 를 통해 총리 로서 의 자격 이 없 음 이 이미 검증 되 었 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+이 로써 가습기 살균제 로 인한 피해자 수 는 총 258 명 으로 확정 됐 다 .	O O O O O O O O O O O O O O O O O
+그 이후 구름다리 가 조계사 에서 관음전 으로 통하 는 유일한 출입구 였 다 .	O O O O LOC-B O O O O O O O O O O
+최근 연습 경기 에서 임동섭 과 김준일 이 잘해 줘 더 만족스러 웠 다 .	O O O O PER-B O PER-B O O O O O O O O
+KB 투자 증권 과 현대증권 을 합해 자기 자본 약 4 조 원 의 업계 3 위 증권사 를 보유하 게 된 KB 금융 지주 는 명실상부한 종합 금융 그룹 으로 도약할 수 있 게 됐 다 .	ORG-B ORG-I ORG-I O ORG-B O O O O O MNY-B MNY-I MNY-I O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+한국 선수 중 에선 김현태 ( 26 ) 가 유일하 게 출전한다 .	O O O O PER-B O O O O O O O O
+이 에 윤원형 은 “ 난 지금 난정 ( 박주미 ) 이 를 막 고 싶 다 .	O O PER-B O O O O PER-B O PER-B O O O O O O O O
+스티븐 스필버그 감독 , 뉴욕 메츠 구단주 , 상 · 하원 의원 , HSBC 같 은 세계적 금융 회사 들 까지 말려들 었 다 .	PER-B PER-I O O ORG-B ORG-I ORG-I O O O O O O ORG-B O O O O O O O O O O O
+총 32 차례 의 개막 전 에서 20 승 1 무 11 패 로 0.645 의 최고 승률 을 기록 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O

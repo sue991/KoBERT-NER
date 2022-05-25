@@ -1,13 +1,13 @@
-두 포럼에서 나 오+ㄴ 견해를 소개하+ㄴ다.“한반도 통일은 한민족 공동체의 숙명이다 .	O O O O O LOC-B O O O O O
-심장병은 성인 사망 원인 1위 +이다 .	O O O O O O O
-사진은 3차원을 2차원으로 변환하는 매체이다 .	O O O O O O
-영국 과학자 프랜시스 골턴(Francis Galton)은 소의 겉모습만 본 실험 참가자 700명에게 소의 무게를 쪽지에 적어 내도록 하는 실험을 +였다 .	LOC-B O PER-B PER-B PER-I O O O O O O O O O O O O O O O
-정준호 이하 정, 아들 공개… “벌써부터 훈훈하네! .	PER-B O O O O O O O
-검찰의 칼끝이 어디로 향하+ㄹ지 모르는 상황에서 정치권이 ‘성완종 게이트’를 정략적으로 이용하지 말라는 일종의 ‘경고성 메시지’로도 읽히+ㄴ다 .	O O O O O O O O O O O O O O O O O
-이와 관련 하+여 롯데 조원우 감독은 “이대호와 최준석, 그리고 포수강 민호(32)까지 같은 라인업에 쓰는 것이 가능하다”고 못을 박았다. 조 감독이 구상하는 롯데 최상의 시나리오는 포수강 민호, 1루수 이대호, 지명타자 최준석 이 들어가는 카드+이다 .	O O O ORG-B PER-B O PER-B PER-B O O O O O O O O O O PER-B O O ORG-B O O O O O PER-B O PER-B O O O O
-15일 서울 종로구 현대상선 본사에서기자들과 만나 +ㄴ유창근 현대상선 사장(64)의 얘기+이다 .	O LOC-B LOC-B ORG-B LOC-I O PER-B ORG-B O O O
-(국정원 직원 유서 공개) 국정원 직원 유서 공개... ‘노트3장’ 각 장마다 대상 다르아...무슨 내용? 국정원 직원 임모씨의 유서 3장 가운데 당초 공개하지 않은 두 장의 유서가 추가로 공개되었다. 임씨는 가족에게 보내는 내용의 이유서에서 "아내와 두 딸, 그리고 부모님께 짊어 지+ㄹ 짐들이 너무 무겁다 .	ORG-B O O O ORG-B O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
-한전은 남는 전력을 배터리에 충전하+여 에너지를 효율화하는 스마트그리드 등 10개 사업에 대하+여 MOU를 체결하였다 .	ORG-B O O O O O O O O O O O O O O
-하지만 회사명이 바뀌는 마당에 이미 경쟁력을 상실하+ㄴ 야후 브랜드를 끝까지 가져가 +ㄹ 것이 +ㄴ지에 대하+여서는 의견이 분분하다.만약 미국 야후 본사가 포탈 서비스에서도 야후 브랜드를 포기하+ㄴ다면 전 세계에서 거의 유일하게 일본에서만 야후+이라는 이름이 남을 가능성이 크다 .	O O O O O O O ORG-B O O O O O O O O O ORG-B ORG-B O O O ORG-B O O O O O O LOC-B ORG-B O O O O O
-다리 높이는 65m로 현대자동차 수출용 선박(최대 높이 35m) 출입에 방해가 되지 않도록 시공+되었다 .	O O O ORG-B O O O O O O O O O O
-‘아웃포켓 밴딩 스커트’와 매치하면 깨물어주고 싶을 만큼 예쁘+ㄴ스쿨룩 완성.폴로키즈의 ‘배너스트라이프 백팩’은 배너스트라이프, ‘3’ 패치, 빅포니로고가 발랄하+ㄴ 폴로스타일을 만들어 주+ㄴ다 .	O O O O O O O O ORG-B O O O O O O O ORG-B O O O
+두 포럼 에서 나온 견해 를 소개한다 . “ 한반도 통일 은 한민족 공동체 의 숙명 이 다 .	O O O O O O O O O LOC-B O O O O O O O O O
+심장병 은 성인 사망 원인 1 위 다 .	O O O O O O O O O
+사진 은 3 차원 을 2 차원 으로 변환하 는 매체 이 다 .	O O O O O O O O O O O O O O
+영국 과학 자 프랜시스 골턴 ( Francis Galton ) 은 소 의 겉모습 만 본 실험 참가자 700 명 에게 소 의 무게 를 쪽지 에 적 어 내 도록 하 는 실험 을 했 다 .	LOC-B O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정준호 이하정 , 아들 공개 … “ 벌써 부터 훈훈하 네 ! ”	PER-B PER-B O O O O O O O O O O O
+검찰 의 칼끝 이 어디 로 향할지 모르 는 상황 에서 정치권 이 ‘ 성완종 게이트 ’ 를 정략적 으로 이용하 지 말 라는 일종 의 ‘ 경고 성 메시지 ’ 로 도 읽힌다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 와 관련해 롯데 조원우 감독 은 “ 이대호 와 최준석 , 그리고 포수 강민호 ( 32 ) 까지 같 은 라인업 에 쓰 는 것 이 가능하 다 ” 고 못 을 박 았 다 . 조 감독 이 구상하 는 롯데 최상 의 시나리오 는 포수 강민호 , 1 루수 이대호 , 지명 타자 최준석 이 들어가 는 카드 다 .	O O O ORG-B PER-B O O O PER-B O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O ORG-B O O O O O PER-B O O O PER-B O O O PER-B O O O O O O
+15 일 서울 종로구 현대상선 본사 에서 기자 들 과 만난 유창근 현대상선 사장 ( 64 ) 의 얘기 다 .	DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O PER-B ORG-B O O O O O O O O
+( 국정원 직원 유서 공개 ) 국정원 직원 유서 공개 . . . ‘ 노트 3 장 ’ 각 장 마다 대상 달 라 . . . 무슨 내용 ? 국정원 직원 임모 씨 의 유서 3 장 가운데 당초 공개하 지 않 은 두 장 의 유서 가 추가 로 공개 됐 다 . 임 씨 는 가족 에게 보내 는 내용 의 이 유서 에서 " 아내 와 두 딸 , 그리고 부모님 께 짊어질 짐 들 이 너무 무겁 다 .	O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한전 은 남 는 전력 을 배터리 에 충전해 에너지 를 효율 화 하 는 스마트 그리드 등 10 개 사업 에 대해 MOU 를 체결 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 회사 명 이 바뀌 는 마당 에 이미 경쟁력 을 상실한 야후 브랜드 를 끝 까지 가져갈 것 인지 에 대해서 는 의견 이 분분하 다 . 만약 미국 야후 본사 가 포탈 서비스 에서 도 야후 브랜드 를 포기한다면 전 세계 에서 거의 유일하 게 일본 에서 만 야후 라는 이름 이 남 을 가능성 이 크 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O ORG-B O O O O O O O O O LOC-B O O ORG-B O O O O O O O O O O
+다리 높이 는 65 m 로 현대자동차 수출 용 선박 ( 최대 높이 35 m ) 출입 에 방해 가 되 지 않 도록 시공 됐 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+‘ 아웃 포켓 밴딩 스커트 ’ 와 매치하 면 깨물 어 주 고 싶 을 만큼 예쁜 스쿨 룩 완성 . 폴로 키즈 의 ‘ 배너 스트라이프 백팩 ’ 은 배너 스트라이프 , ‘ 3 ’ 패치 , 빅 포니 로고 가 발랄한 폴로 스타일 을 만들 어 준다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O

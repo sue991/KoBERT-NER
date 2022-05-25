@@ -1,15 +1,15 @@
-문의 : 02-3463-9326 <본 자료는 해당 기관에서 제공 하+ㄴ 보도자료 이+ㅂ니다 .	O O O O O O O O O O O O
-하지만 지난해 7월 대표 취임 이후 ‘노련 하+ㄴ 갈등 조율사, 보수혁신의 아이콘’ 이미지로 그는 여권 나+의 선두 자리를 지키고 있다 .	O O O O O O O O O O O O O O O O O O O O O
-다저스는 오프 시즌 동안 핸리라미레스가 FA로 팀을 떠나 +았고, 맷켐프가 샌디에이고 파드리스로 이적하였다 .	ORG-B O O O PER-B ORG-B O O O PER-B ORG-B ORG-I O O
-글로벌 공유 오피스 기업인 ‘위워크’ 등 10여개 업체가 사업을 벌이고 있고, 올해 초 현대카드도 ‘스튜디오 블랙’이란 이름으로 시장에 뛰어들었다 .	O O O O ORG-B O O O O O O O O ORG-B O O O O O O
-“정상회담 시기상조”대북 소신 불변/안무혁-민자의원(요즘 … .	O O O PER-B O O
-김혜원 어린이도 서평론 .	PER-B O O O
-유럽 여러 나라에서 +ㄴ 시리자와 비슷하+ㄴ 주장을 하는 정당이 지지율을 높이어+았다 .	LOC-B O O O ORG-B O O O O O O O
-‘천원 호텔 프로모션’은 올해로 3회를 맞은 익스피디아 대표 할인 이벤트이다 .	O O O O O O ORG-B O O O O
-자신이 개발하+ㄴ소프트웨어에 바흐나 모차르트의 작곡 스타일을 학습시키+ㄴ 뒤 작곡을 의뢰하+ㄴ다 .	O O PER-B PER-B O O O O O O O
-2001년 미국 응급의료 서비스(EMS) 전시회에서 앰뷸런스와 응급구조 장비를 보고 동행 하+ㄴ 임원에게 말하였다 .	O O O O O O O O O O O O O O
-[뉴스클립] SpecialK nowledge＜584 ＞ 생태관 .	O O O O O O
-박 원장은 당류의 단맛, 소금의 짠맛, 지방의 고소 하+ㄴ맛의 적절하+ㄴ 조합이 음식중독자에게 중독으로 가는 쾌미(快味)를 안기+어주+ㄴ다고 설명 하+ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O O
-에코브리지 /분당에 생태계 연결도 .	O LOC-B O O O
-4월 24일 시애틀 전에서 +ㄴ 첫 안타를 신고하기도 +였다 .	O O ORG-B O O O O O O O
-그러나 최지만은 이후 선발보다 +ㄴ 경기 막판 출전하며 좀처럼 타격감을 끌어올리지 못하였다 .	O PER-B O O O O O O O O O O O
+문의 : 02 - 3463 - 9326 < 본 자료 는 해당 기관 에서 제공한 보도 자료 입니다 .	O O O O O O O O O O O O O O O O O O O
+하지만 지난해 7 월 대표 취임 이후 ‘ 노련한 갈등 조율사 , 보수 혁신 의 아이콘 ’ 이미지 로 그 는 여권 내 선두 자리 를 지키 고 있 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다저스 는 오프 시즌 동안 핸리 라미레스 가 FA 로 팀 을 떠났 고 , 맷 켐프 가 샌디에이고 파드리스 로 이적 했 다 .	ORG-B O O O O PER-B PER-I O ORG-B O O O O O O PER-B PER-I O ORG-B ORG-I O O O O O
+글로벌 공유 오피스 기업인 ‘ 위 워크 ’ 등 10 여 개 업체 가 사업 을 벌이 고 있 고 , 올해 초 현대카드 도 ‘ 스튜디오 블랙 ’ 이 란 이름 으로 시장 에 뛰어들 었 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+“ 정상 회담 시기상조 ” 대북 소신 불변 / 안무혁 - 민자 의원 ( 요즘 … )	O O O O O O O O O PER-B O O O O O O O
+김혜원 어린이 도서 평론가	PER-B O O O
+유럽 여러 나라 에선 시리자 와 비슷한 주장 을 하 는 정당 이 지지율 을 높 여 왔 다 .	LOC-B O O O ORG-B O O O O O O O O O O O O O O O
+‘ 천 원 호텔 프로모션 ’ 은 올해 로 3 회 를 맞 은 익 스피디 아 대표 할인 이벤트 이 다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O
+자신 이 개발한 소프트웨어 에 바흐 나 모차르트 의 작곡 스타일 을 학습 시킨 뒤 작곡 을 의뢰한다 .	O O O O O PER-B O PER-B O O O O O O O O O O O
+2001 년 미국 응급 의료 서비스 ( EMS ) 전시회 에서 앰뷸런스 와 응급 구조 장비 를 보 고 동행한 임원 에게 말 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+[ 뉴스 클립 ] Special Knowledge ＜ 584 ＞ 생태 관광	O O O O O O O O O O O
+박 원장 은 당류 의 단맛 , 소금 의 짠맛 , 지방 의 고소한 맛 의 적절한 조합 이 음식 중독자 에게 중독 으로 가 는 쾌미 ( 快味 ) 를 안겨 준다고 설명한다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+에코 브리지 / 분당 에 생태계 연결 도로	O O O LOC-B O O O O
+4 월 24 일 시애틀 전 에선 첫 안타 를 신고하 기 도 했 다 .	DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O O O O O O O
+그러나 최지만 은 이후 선발 보단 경기 막판 출전하 며 좀처럼 타격 감 을 끌어올리 지 못 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-9일 KBS 측에 따르면 김수현과 공효진, 차태현, 아이유가 ‘프로듀사’에 출연하+ㄴ다 .	O ORG-B O O PER-B PER-B PER-B PER-B O O O
-이 중 조형대학은 1단계에서 수능 80%와 학생부 20%로 모집인원의 400%를 선발하+ㄴ다 .	O O O O O O O O O O O O
-그러나 『농약 성분이 남아있는 것으로 나타나 +ㄴ 수입 밀가루보다 믿을 만하다 』『 뒷맛이 구수하다 』며 찾는 사람이 점점 늘고 있다고 우리 밀살리기 운동본부 김지현 사업부장은 말 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I PER-B O O O O
-고객과 꾸준히 소통하고 최상의 관리와 서비스 상태를 유지하고 있는 파크밸리와 신라골프장은 3년 연속, 티클라우드 골프장은 2년 연속 수상에 성공하였다 .	O O O O O O O O O ORG-B ORG-B O O ORG-B ORG-I O O O O O
-2014-15 시즌까지 12시즌 동안 3점 슛성공개수는 37개에 불과하였다 .	O O O O O O O O O
-더욱이 이날은 올 시즌 KLPGA투어를 뜨겁게 달구고 있는 ‘빅3’ 전인지와 이정민(23·비씨카드), 고진영(20·넵스)의 첫 맞대결이 펼쳐지었다 .	O O O O O O O O O PER-B ORG-B ORG-B O O O O
-지난해의 경우 자산 10억달러 이상 중국 억만장자 568명 중 107명이 양회 대표로 전인대에 참석하였다 .	O O O MNY-B O ORG-B MNY-I O O MNY-B O O ORG-B O O
-이에 따르 아추가 수주가 없으면 내년 4월 경군산조선소독이 텅 비게 되+ㄴ다 .	O O O O O O O ORG-B O O O O
-악마의 편집·진행 방식…싹 바꾸+ㄴ ‘슈퍼스타K2016 .	O O O O O O
-경제학 박사로서 한국개발연구원(KDI) 출신 이+ㄴ 유 의원은 국회의원 중에서도 손에 꼽히는 경제 전문가로 통하+ㄴ다 .	O O ORG-B O O PER-B O O O O O O O O O
-서울중앙지법 형사합의29부(부장판사 김수정) 심리로 6일 열리+ㄴ 공판에서 남궁 전 처장은 김 전 학장 관련 1회 공판에 증인으로 출석하+여 김 전 학장으로부터 정씨의 입학 지원 사실을 듣게 되+ㄴ 경위를 증언하였다 .	ORG-B ORG-I PER-B O O O O PER-B O O PER-B O O O O O O O PER-B O O PER-B O O O O O O O O
-특검은 최순실 씨 측으로부터 정씨의 체육특기자 전형 합격을 부탁받은 김 전 학장이 최 전 총장으로부터 이를 승인받은 후 남궁 전 처장에게 이를 지시하+ㄴ 것으로 보고 있다 .	O PER-B PER-I O PER-B O O O O PER-B O O PER-B O O O O O PER-B O O O O O O O O
-남궁 전 처장은 2014년 9월 16일에서 22일 사이에 입학관과 본관 사이 길거리에서 김 전 학장으로부터 정씨가 체육특기생 전형에 지원하였다는 이야기를 듣었다고 주장하였다 .	PER-B O O O O O O O O O O O PER-B O O PER-B O O O O O O O
+9 일 KBS 측 에 따르 면 김수현 과 공효진 , 차태현 , 아이유 가 ‘ 프로듀사 ’ 에 출연한다 .	DAT-B DAT-I ORG-B O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O
+이 중 조형 대학 은 1 단계 에서 수능 80 % 와 학생부 20 % 로 모집 인원 의 400 % 를 선발한다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 『 농약 성분 이 남 아 있 는 것 으로 나타난 수입 밀가루 보다 믿 을 만하 다 』 『 뒷맛 이 구수하 다 』 며 찾 는 사람 이 점점 늘 고 있 다고 우리 밀 살리 기 운동 본부 김지현 사업 부장 은 말한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I PER-B O O O O O
+고객 과 꾸준히 소통하 고 최상 의 관리 와 서비스 상태 를 유지하 고 있 는 파크 밸리 와 신라 골프장 은 3 년 연속 , 티 클라우드 골프장 은 2 년 연속 수상 에 성공 했 다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O DAT-B DAT-I O O ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O
+2014 - 15 시즌 까지 12 시즌 동안 3 점 슛 성공 개수 는 37 개 에 불과 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O
+더욱이 이날 은 올 시즌 KLPGA 투어 를 뜨겁 게 달구 고 있 는 ‘ 빅 3 ’ 전인지 와 이정민 ( 23 · 비씨카드 ) , 고진영 ( 20 · 넵스 ) 의 첫 맞대결 이 펼쳐 졌 다 .	O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O ORG-B O O PER-B O O O ORG-B O O O O O O O O O
+지난해 의 경우 자산 10 억 달러 이상 중국 억만장자 568 명 중 107 명 이 양회 대표 로 전인대 에 참석 했 다 .	O O O O MNY-B MNY-I MNY-I O ORG-B O O O O O O O O O O ORG-B O O O O O
+이 에 따 라 추가 수주 가 없 으면 내년 4 월 경 군산 조선소 독 이 텅 비 게 된다 .	O O O O O O O O O O DAT-B DAT-I DAT-I ORG-B ORG-I O O O O O O O
+악마 의 편집 · 진행 방식 … 싹 바꾼 ‘ 슈퍼스타 K 2016 ’	O O O O O O O O O O O O O O
+경제학 박사 로서 한국 개발 연구원 ( KDI ) 출신 인 유 의원 은 국회의원 중 에서 도 손 에 꼽히 는 경제 전문가 로 통한다 .	O O O ORG-B ORG-I ORG-I O ORG-B O O O PER-B O O O O O O O O O O O O O O O
+서울중앙지법 형사 합의 29 부 ( 부장판사 김수정 ) 심리 로 6 일 열린 공판 에서 남궁 전 처장 은 김 전 학장 관련 1 회 공판 에 증인 으로 출석해 김 전 학장 으로부터 정 씨 의 입학 지원 사실 을 듣 게 된 경위 를 증언 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O O DAT-B DAT-I O O O PER-B O O O PER-B O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O
+특검 은 최순실 씨 측 으로부터 정 씨 의 체육 특기 자 전형 합격 을 부탁 받 은 김 전 학장 이 최 전 총장 으로부터 이 를 승인 받 은 후 남궁 전 처장 에게 이 를 지시한 것 으로 보 고 있 다 .	O O PER-B O O O PER-B PER-I O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O
+남궁 전 처장 은 2014 년 9 월 16 일 에서 22 일 사이 에 입학 관 과 본관 사이 길거리 에서 김 전 학장 으로부터 정 씨 가 체육 특기 생 전형 에 지원 했 다는 이야기 를 들 었 다고 주장 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O

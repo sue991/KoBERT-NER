@@ -1,11 +1,11 @@
-중국은 28일 호주 통신 위성을 성공리에 발사하였다고 관영 신화통신이 보도하였다 .	ORG-B O ORG-B O O O O ORG-B ORG-I O O
-또 국내 민자사회간접자본(SOC) 사업에 초고금리 대출투자는 공공성의 원칙을 무시하+ㄴ 것으로 국민경제를 고려하+여서 운용을 하+여야 하+ㄹ 것으로 생각되+ㄴ다 .	O O ORG-B O O O O O O O O O O O O O O O
-의사들은 우리 몸을 100% 회복시키+ㄹ 수 있다 .	O O O O O O O O
-실제로 특검팀은 유 대사를 조사하기 전 이미 최씨의 인사 개입에 대하+ㄴ 상당 하+ㄴ 증거와 진술을 확보하고 있었던 것으로 전하+여지+ㄴ다 .	O O PER-B O O O O PER-B O O O O O O O O O O O O
-같은 날 오후 11시에 찾은 영등포구 당산동 B아파트도 비슷하+ㄴ 상황이었다 .	O O O O O LOC-B LOC-B LOC-I O O O
-실제로 3D 프린팅 기술은 자동차와 항공기, 우주선, 의약품, 생활용품 등 다양하+ㄴ 분야에서 제조비용과 시간을 줄이는 혁신을 일으키고 있다 .	O O O O O O O O O O O O O O O O O O O
-최민식이 처음으로 그리+어내는 정치인이 어떻게 완성되 +ㄹ지에도 관심이 쏠리+ㄴ다 .	PER-B O O O O O O O O O
-이란을 상대로도 중원에서 크+ㄴ 역할을 하+여주+ㄹ 수 있을 것으로 기대되+ㄴ다 .	ORG-B O O O O O O O O O O
-현지 언론들은 불어나 +ㄴ강물에 다리가 무너지면서 사실상 유일하+ㄴ 통행로가 끊기+ㄴ한 쇼핑센터에 500명이 고립되었으며, 약 6만6000가구의 전기 공급이 끊기+ㄴ 상태+이라고 전하였다 .	O O O O O O O O O O O O O O O O O O O O O
-얼레이 톰 블리+ㄴ 웨스트버지니아 주지사는 24일 기자회견을 열고 “광범위 하+ㄴ 지역에서 심각하+ㄴ 피해가 발생하였다”며 “강의 수위가 높은 것이 가장 크+ㄴ문제”라고 우려하였다 .	PER-B O O LOC-B O O O O O O O O O O O O O O O O O O
-임팔라는 그랜저보다 차체가 19.3cm나 길어 시장에서 어떤 반응을 얻을지 주목되 +ㄴ다 .	O O O O O O O O O O O O
+중국 은 28 일 호주 통신 위성 을 성공리 에 발사 했 다고 관영 신화통신 이 보도 했 다 .	ORG-B O DAT-B DAT-I ORG-B O O O O O O O O ORG-B ORG-I O O O O O
+또 국내 민자 사회 간접 자본 ( SOC ) 사업 에 초 고금리 대출 투자 는 공공성 의 원칙 을 무시한 것 으로 국민 경제 를 고려해서 운용 을 해야 할 것 으로 생각된다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+의사 들 은 우리 몸 을 100 % 회복 시킬 수 있 다 .	O O O O O O O O O O O O O O
+실제로 특검 팀 은 유 대사 를 조사하 기 전 이미 최 씨 의 인사 개입 에 대한 상당한 증거 와 진술 을 확보하 고 있 었 던 것 으로 전해 진다 .	O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+같 은 날 오후 11 시 에 찾 은 영등포구 당산동 B 아파트 도 비슷한 상황 이 었 다 .	O O O TIM-B TIM-I TIM-I O O O LOC-B LOC-B LOC-I LOC-I O O O O O O O
+실제로 3 D 프린팅 기술 은 자동차 와 항공기 , 우주선 , 의약품 , 생활 용품 등 다양한 분야 에서 제조 비용 과 시간 을 줄이 는 혁신 을 일으키 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최민식 이 처음 으로 그려 내 는 정치인 이 어떻 게 완성될 지 에 도 관심 이 쏠린다 .	PER-B O O O O O O O O O O O O O O O O O O
+이란 을 상대 로 도 중원 에서 큰 역할 을 해 줄 수 있 을 것 으로 기대된다 .	ORG-B O O O O O O O O O O O O O O O O O O
+현지 언론 들 은 불어난 강물 에 다리 가 무너지 면서 사실상 유일한 통행로 가 끊긴 한 쇼핑센터 에 500 명 이 고립 됐 으며 , 약 6 만 6000 가구 의 전기 공급 이 끊긴 상태 라고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+얼 레이 톰블린 웨스트버지니아 주 지사 는 24 일 기자 회견 을 열 고 “ 광범위한 지역 에서 심각한 피해 가 발생 했 다 ” 며 “ 강의 수위 가 높 은 것 이 가장 큰 문제 ” 라고 우려 했 다 .	PER-B PER-I PER-I LOC-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+임팔라 는 그랜저 보다 차체 가 19.3 cm 나 길 어 시장 에서 어떤 반응 을 얻 을지 주목된다 .	O O O O O O O O O O O O O O O O O O O O

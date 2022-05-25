@@ -1,10 +1,10 @@
-정부는 현재의 메르스 확산 상황을 ‘관심’ ‘주의’ ‘경계’ ‘심각’ 등 질병 경보의 4단계 중에서 ‘주의’ 단계로 분류하고 문형표 보건복지부 장관에게 중앙사고수습본부장을 맡기었다 .	O O O O O O O O O O O O O O O O O PER-B ORG-B O O O O
-우선 덤덤 라디오, 브릭스 등 인기 밴드가 진행하는 ‘뮤직쇼메가 콘서트’가 열리+ㄹ 예정이며, 중앙광장에서 시계탑까지 ‘메가마켓’이 펼쳐 지+어 유명 푸드트럭과 각종 디자이너 소품들을 만나 +아보+ㄹ 수 있다 .	O ORG-B ORG-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-그러자 손 의원은 "최순실이 위험인물이라는 것+ㄹ 언제 알았느냐.2016년에 +아서 대통령의 가족은 아니지만 가족보다 더 친하게 뭐 +이+ㄴ가 대통령의 주변에서 비선으로 움직이고 있다는 것, 2번부터 9번까지 하+여서 언제+이냐"고 되 묻었다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-'우결' 박나래 양 세찬 출연, 양세형"니네 잘 되면 세상과 이별하겠다" 최근 '우리 결혼하었어요 .	O PER-B O O O PER-B O O O O O O O O
-이렇+ㄹ 경우 재판부의 평의와 결정문 작성 등을 거치+어 이정미 헌재소장 권한대행의 퇴임일(3월 13일) 이전에 최종 결정이 선고되+ㄹ 가능성이 크다는 것+이 법조계의 분석이다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O
-총 8개의 코어를 사용하는 빅리틀 구조+이다 .	O O O O O O O
-이들은 민주당, 국민의당, 정의당이 각자 후보를 배출하는 등 야권이 분열 하+여다자구도를 형성하더라도 여권에게 유리하+ㄴ형 세 가 구축되+ㄹ 수 있다는 추측도 내놓는다 .	O ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O
-8 바늘을 꿰매+었으나 뼈나 인대에는 이상이 없었고, 13일 대표팀 코칭스태프와 상의 하+여아시안게임에 출전하기로 최종 결정하였다 .	O O O O O O O O O O O O O O O O
-[스포츠동아 .	ORG-B O
-KEB하나은행은 “다음달 13일부터 현금자동입출금기(ATM)를 통하+여영업시간 나+의 타행으로 10만원을 초과하+ㄴ 금액을 이체하는 경우 1000원의 수수료를 부과하+ㄹ 예정”이라고 20일 밝히었다 .	ORG-B O O O O O O MNY-B O O O O MNY-B O O O O O O
+정부 는 현재 의 메르스 확산 상황 을 ‘ 관심 ’ ‘ 주의 ’ ‘ 경계 ’ ‘ 심각 ’ 등 질병 경보 의 4 단계 중 에서 ‘ 주의 ’ 단계 로 분류하 고 문형표 보건복지부 장관 에게 중앙 사고 수습 본부 장 을 맡 겼 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O
+우선 덤덤 라디오 , 브릭스 등 인기 밴드 가 진행하 는 ‘ 뮤직 쇼 메가 콘서트 ’ 가 열릴 예정 이 며 , 중앙 광장 에서 시계탑 까지 ‘ 메가 마켓 ’ 이 펼쳐져 유명 푸드 트럭 과 각종 디자이너 소품 들 을 만나 볼 수 있 다 .	O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 자 손 의원 은 " 최순실 이 위험인물 이 라는 걸 언제 알 았 느냐 . 2016 년 에 와서 대통령 의 가족 은 아니 지만 가족 보다 더 친하 게 뭔가 대통령 의 주변 에서 비선 으로 움직이 고 있 다는 것 , 2 번 부터 9 번 까지 해서 언제 냐 " 고 되물 었 다 .	O O PER-B O O O PER-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 우결 ' 박나래 양세찬 출연 , 양세 형 " 니 네 잘되 면 세상 과 이별하 겠 다 " 최근 ' 우리 결혼 했 어요 '	O O O PER-B PER-B O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+이럴 경우 재판부 의 평의 와 결정 문 작성 등 을 거쳐 이정미 헌재 소장 권한 대행 의 퇴임 일 ( 3 월 13 일 ) 이전 에 최종 결정 이 선고될 가능성 이 크 다는 게 법조계 의 분석 이 다 .	O O O O O O O O O O O O PER-B O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O
+총 8 개 의 코어 를 사용하 는 빅 리틀 구조 다 .	O O O O O O O O O O O O O
+이 들 은 민주당 , 국민 의당 , 정의당 이 각자 후보 를 배출하 는 등 야권 이 분열해 다자 구도 를 형성하 더라도 여권 에게 유리한 형세 가 구축될 수 있 다는 추측 도 내놓 는다 .	O O O ORG-B O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8 바늘 을 꿰맸 으나 뼈 나 인대 에 는 이상 이 없 었 고 , 13 일 대표 팀 코칭스태프 와 상의해 아시안 게임 에 출전하 기 로 최종 결정 했 다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+[ 스포츠 동아 ]	O ORG-B ORG-I O
+KEB 하나은행 은 “ 다음 달 13 일 부터 현금 자동 입출금 기 ( ATM ) 를 통해 영업 시간 내 타행 으로 10 만 원 을 초과한 금액 을 이체하 는 경우 1000 원 의 수수료 를 부과할 예정 ” 이라고 20 일 밝 혔 다 .	ORG-B ORG-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O MNY-B MNY-I O O O O O O O DAT-B DAT-I O O O O

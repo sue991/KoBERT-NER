@@ -1,10 +1,10 @@
-윤주영 미래에셋자산운용 ETF본부장은 “저성장 시대에 +ㄴ 전통적 투자상품보다 ETF 같은 파생상품 수요가 늘게 되+ㄴ다”며 “투자업계도 이런 상품에 눈을 돌리+ㄹ 수밖에 없다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O
-유이, 유노윤호 퇴소식 서포착 … 소속사 열애설 반박"절친이라 응원차 참석 .	PER-B PER-B O O O O O O O O O
-양봉 체험장은 박근호(56) 대전 양봉협회장과 대전시가 공동운영 하+ㄴ다 .	O O PER-B O O ORG-B O O O
-블로그에는 제2의 인생 행동 계획을 비롯하+여 50대가 쓰는 ‘노노(老老) 간병’ 연재물, 60대 이후를 다루+ㄴ 도서 등 다양하+ㄴ 정보가 매일 올라 오+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-인천을 왕리 소재의 한 음식점이나 서울 소재의 한 놀이공원·극장·주점 등에서 유리와 오승환이 만나는 모습이 잡히기도 +였다고 보도하였다 .	LOC-B O O O O LOC-B O O O O O PER-B O O O O O O
-이 수첩에는 박 대통령이 최씨의 조카 장시호 씨(37)가 설립을 주도하였던 한국동계스포츠영재센터에 재정지원을 하+여주+ㄹ 것을 알+ㄴ 전 수석에게 지시하는 내용도 있는 것으로 전하여 +지+었다 .	O O PER-B O PER-B O PER-B O O O ORG-B O O O O PER-B O O O O O PER-B O O
-마모루 감독의 영화로 지나 +ㄴ 2007년 개봉하였다 .	PER-B O O O O O O O
-세입자도 한 가구만 상대하면 되+ㄴ다 .	O O O O O O
-캔자스시티는 2일(한국시간) 미국 뉴욕 주 플러싱의 시티필드에서 열리+ㄴ 뉴욕 메츠와의 2015 메이저리그 월드시리즈 5차전에서 12회 연장 끝에 7-2로 승리하였다 .	ORG-B LOC-B LOC-B ORG-B O LOC-B O O ORG-B ORG-I O O O O O O O O O O
-1~2월 두 달간 주택연금 보증 공급액은 2015년 1조1325억원에서 2016년 1조8188억원, 2017년 3조6320억원으로 증가세를 보이고 있다 .	MNY-B O O O O O MNY-B MNY-B MNY-B MNY-B MNY-B MNY-B O O O O
+윤주영 미래에셋자산운용 ETF 본부 장 은 “ 저성장 시대 엔 전통적 투자 상품 보다 ETF 같 은 파생 상품 수요 가 늘 게 된다 ” 며 “ 투자 업계 도 이런 상품 에 눈 을 돌릴 수 밖에 없 다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유이 , 유 노윤호 퇴소 식 서 포착 … 소속 사 열애 설 반박 " 절친 이 라 응원 차 참석 "	PER-B O PER-B PER-I O O O O O O O O O O O O O O O O O O
+양봉 체험 장 은 박근호 ( 56 ) 대 전양봉 협회 장 과 대전시 가 공동 운영한다 .	O O O O PER-B O O O O O O O O ORG-B O O O O
+블로그 에 는 제 2 의 인생 행동 계획 을 비롯해 50 대 가 쓰 는 ‘ 노노 ( 老老 ) 간병 ’ 연재물 , 60 대 이후 를 다룬 도서 등 다양한 정보 가 매일 올라온다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인천 을왕리 소재 의 한 음식점 이나 서울 소재 의 한 놀이 공원 · 극장 · 주점 등 에서 유리 와 오승환 이 만나 는 모습 이 잡히 기 도 했 다고 보도 했 다 .	LOC-B LOC-B O O O O O LOC-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+이 수첩 에 는 박 대통령 이 최 씨 의 조카 장시호 씨 ( 37 ) 가 설립 을 주도 했 던 한국 동계 스포츠 영재 센터 에 재정 지원 을 해 줄 것 을 안 전 수석 에게 지시하 는 내용 도 있 는 것 으로 전해 졌 다 .	O O O O PER-B O O PER-B O O O PER-B O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O PER-B O O O O O O O O O O O O O O
+마모루 감독 의 영화 로 지난 2007 년 개봉 했 다 .	PER-B O O O O O DAT-B DAT-I O O O O
+세입자 도 한 가구 만 상대하 면 된다 .	O O O O O O O O O
+캔자스시티 는 2 일 ( 한국 시간 ) 미국 뉴욕 주 플러싱 의 시티 필드 에서 열린 뉴욕 메츠 와 의 2015 메이저리그 월드 시리즈 5 차 전 에서 12 회 연장 끝 에 7 - 2 로 승리 했 다 .	ORG-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B O LOC-B O O O O O ORG-B ORG-I O O DAT-B O O O O O O O O O O O O O O O O O O O O
+1 ~ 2 월 두 달 간 주택 연금 보증 공급 액 은 2015 년 1 조 1325 억 원 에서 2016 년 1 조 8188 억 원 , 2017 년 3 조 6320 억 원 으로 증가세 를 보이 고 있 다 .	O O O O O O O O O O O O O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O

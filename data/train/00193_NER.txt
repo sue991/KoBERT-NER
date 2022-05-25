@@ -1,13 +1,13 @@
-힘들겠지만 한 단계 더 올라가기 위하+여서 필요하+ㄴ일이었다 .	O O O O O O O O
-▲UR 비준 현황은=1백25개 협상 참가국 중 영국 등 31개국이 비준하였으며 미국 등이 오는 12월 중 비준 절차를 마치 +ㄹ 예정이다 .	O O O O O O ORG-B O O O ORG-B O O O O O O O O O O
-20대 총선을 앞두고 국회의원들의 ‘막말 논란’이 불거지는 가운데 국회에서 지역감정 조장 등의 폭언을 하는 사람들을 처벌하는 내용의 법안이 발의되 +ㄴ 것으로 17일 뒤늦게 확인되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-서울시는 친환경 보일러 보급사업의 확대가 필요하다는 입장이다 .	ORG-B O O O O O O O
-시중은행의 신용대출 평균금리가 현재 3~4% 이+ㄴ 것을 감안하었을 때 이통사의 5.9~6.1%는 과도하다 .	O O O O O O O O O O O O O
-애쓰어 찾아가 +ㄴ 메이저리그를 뒤로 하고 국내 복귀를 결정하는 데는 2012년 팔꿈치 수술이 결정적이었다 .	O O O O O O O O O O O O O O O
-톈궁 2호는 톈궁 1호보다 에너지 공급 등에서 성능이 향상되었다 .	O O O O O O O O O O
-중국은 다음달 중순 발사되 +ㄹ선저우(神舟) 11호 유인 우주선과 도킹 하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O
-3일 폭스뉴스 여론조사에 따르면 민주당 성향 유권자의 지지율에서 클린턴 전 장관이 51%로 1위 +이었고 민주당 성향의 무소속 버니 샌더스 상원의원이 22%, 바이든 부통령이 13%+이었다 .	O O O O ORG-B O O O PER-B O O O O O ORG-B O O PER-B PER-I O O PER-B O O O
-성묘와 나들이를 함께하는 선진국형 가족 묘원을 지향하는 춘천 동산공원은 만남과 휴식이 공존하는 자연의 안식처로 자리 잡았다 .	O O O O O O O LOC-B LOC-I O O O O O O O O
-이미 1996년 8월 아시안컵 축구대회 공동중계를 둘러싸고 MBC와 감정싸움을 벌이+ㄴ KBS는 박찬호 경기중계에 사활을 걸었다 .	O O O O O O O ORG-B O O ORG-B PER-B O O O O
-그는 “1억원은 서울에서 사업을 하는 아버지가 대구 쪽에 갖고 있던 부동산을 매각하+ㄴ돈”이라며 “이달 말 이사하려는 아버지가 새집의 인테리어를 하는데 쓰려고 수표를 준비 하+ 여두 +ㄴ 것”이라고 진술하였다 .	O MNY-B LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
-위카톡의 내용에 따르 아실제로 강 변호사와 A 모씨는 여성중앙기자들과 함께 국립극장 앞에서 만나 +았다 .	O O O O PER-B O PER-B PER-I O O LOC-B O O O O
+힘들 겠 지만 한 단계 더 올라가 기 위해서 필요한 일 이 었 다 .	O O O O O O O O O O O O O O O
+▲ UR 비준 현황 은 = 1 백 25 개 협상 참가국 중 영국 등 31 개국 이 비준 했 으며 미국 등 이 오 는 12 월 중 비준 절차 를 마칠 예정 이 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O ORG-B O O O O DAT-B DAT-I O O O O O O O O O
+20 대 총선 을 앞두 고 국회의원 들 의 ‘ 막말 논란 ’ 이 불거지 는 가운데 국회 에서 지역감정 조장 등 의 폭언 을 하 는 사람 들 을 처벌하 는 내용 의 법안 이 발의 된 것 으로 17 일 뒤늦 게 확인 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+서울시 는 친환경 보일러 보급 사업 의 확대 가 필요하 다는 입장 이 다 .	ORG-B O O O O O O O O O O O O O O
+시중은행 의 신용 대출 평균 금리 가 현재 3 ~ 4 % 인 것 을 감안 했 을 때 이통 사 의 5.9 ~ 6.1 % 는 과도하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+애 써 찾아간 메이저리그 를 뒤로하 고 국내 복귀 를 결정하 는 데 는 2012 년 팔꿈치 수술 이 결정적 이 었 다 .	O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+톈궁 2 호 는 톈궁 1 호 보다 에너지 공급 등 에서 성능 이 향상 됐 다 .	O O O O O O O O O O O O O O O O O O
+중국 은 다음 달 중순 발사될 선저우 ( 神舟 ) 11 호 유인 우주선 과 도킹할 예정 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+3 일 폭스뉴스 여론조사 에 따르 면 민주당 성향 유권자 의 지지율 에서 클린턴 전 장관 이 51 % 로 1 위 였 고 민주당 성향 의 무소속 버니 샌더스 상원 의원 이 22 % , 바이든 부통령 이 13 % 였 다 .	DAT-B DAT-I O O O O O ORG-B O O O O O PER-B O O O O O O O O O O ORG-B O O O PER-B PER-I O O O O O O PER-B O O O O O O O
+성묘 와 나들이 를 함께 하 는 선진국 형 가족묘 원 을 지향하 는 춘천 동산 공원 은 만남 과 휴식 이 공존하 는 자연 의 안식처 로 자리 잡 았 다 .	O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O
+이미 1996 년 8 월 아시안 컵 축구 대회 공동 중계 를 둘러싸 고 MBC 와 감정싸움 을 벌인 KBS 는 박찬호 경기 중계 에 사활 을 걸 었 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O ORG-B O O O O ORG-B O PER-B O O O O O O O O O
+그 는 “ 1 억 원 은 서울 에서 사업 을 하 는 아버지 가 대구 쪽 에 갖 고 있 던 부동산 을 매각한 돈 ” 이 라며 “ 이달 말 이사하 려는 아버지 가 새집 의 인테리어 를 하 는 데 쓰 려고 수표 를 준비해 둔 것 ” 이라고 진술 했 다 .	O O O MNY-B MNY-I MNY-I O LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+위 카톡 의 내용 에 따 라 실제로 강 변호사 와 A 모 씨 는 여성중앙 기자 들 과 함께 국립 극장 앞 에서 만났 다 .	O O O O O O O O PER-B O O PER-B PER-I O O O O O O O LOC-B LOC-I O O O O O

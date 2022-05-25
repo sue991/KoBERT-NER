@@ -1,15 +1,15 @@
-그 결과 인스타그램 등 소셜네트워크 서비스(SNS)에서 게시물이 9000건 이상 쏟아지는 등 네티즌들의 반응이 뜨겁었고 판매와 직결되었다 .	O O O O O O O O O O O O O O O O O
-한편 딘딘은 17일 싱글 앨범 '외롭어서 죽음'을 발표하였다 .	O PER-B O O O O O O O
-특히 아프리카TV와의 결별을 선언하+ㄴ대도서관, 밴쯔 등도 후보에 이름을 올리+어 눈길을 끌었다 .	O ORG-B O PER-B PER-B O O O O O O O
-BJ대상은 방송지표 30%, 시청자 투표 30%, 내부 심사 40%를 기준으로 결정되+ㄴ다 .	O O O O O O O O O O O O
-'아프리카TVBJ 대상'은 12월 15일 코엑스 오디토리움관에서 진행되+ㄹ 예정이다 .	O O O O LOC-B LOC-I O O O
-만일 20대를 군에서 보내+었다면 그 시간은 더욱 길어지+어오랜 기다리+ㅁ이 있었을 것이다 .	O O O O O O O O O O O O
-매년 물가상승률분이+ㄴ 5%가 증액되는 구조+이라 그 다음해는 지급되는 보험금이 매월 210만원으로 오르+ㄴ다 .	O O O O O O O O O O MNY-B O O
-삼성전자가 교환·환불 서비스를 시작하+ㄴ 13일 이후 지금까지 기기를 반납하+ㄴ 소비자는 10% 미만이 +ㄴ 것으로 추정되고 있다 .	ORG-B O O O O O O O O O O O O O O O O
-‘마법의 성’을 만들 +ㄴ ‘더 클래식’의 박용준, ‘들국화’의 베이시스트 민재현, 이승환 밴드의 최기웅, 옥수사진관의 노경보, 이상순, 전제덕 등이 참여하였다 .	O O O O ORG-B ORG-I PER-B ORG-B O PER-B PER-B O PER-B ORG-B PER-B PER-B PER-B O O O
-특히, 최근 대외활동을 하지 않던 이효리의 참여 또한 많은 이들에게 감동을 선사하+ㄴ다 .	O O O O O PER-B O O O O O O O
-돈이 ‘연결형 4번 타자’으로 자리 잡아주면 끊임없이 상대를 압박 하+여빅이닝을 만들기도 수월하다 .	O O O O O O O O O O O O O
-반면 저소득층, 장애학생 등을 대상으로 하는 ‘선별적 교육복지사업’ 투자액은 같은 기간 2조258억원에서 1조8323억원으로 오히려 감소하였다 .	O O O O O O O O O O O MNY-B MNY-B O O O
-정의윤은 1회 말 한화선발 심수창의 6구째를 받아 치+어 왼쪽 담장을 넘기는 만루홈런을 터뜨리었다 .	PER-B O O ORG-B PER-B O O O O O O O O O
-[편집자 주] 윤윤수(72) 휠라코리아 회장에게 휠라는 자식이다 .	O O PER-B ORG-B O ORG-B O O
-관세청의 용역 결과에서 2016년 추가 가능하+ㄴ 매장수는 1개 +이었다 .	ORG-B O O O O O O O O O
+그 결과 인스타그램 등 소셜 네트워크 서비스 ( SNS ) 에서 게시물 이 9000 건 이상 쏟아지 는 등 네티즌 들 의 반응 이 뜨거 웠 고 판매 와 직결 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 딘딘 은 17 일 싱글 앨범 ' 외로 워서 죽 음 ' 을 발표 했 다 .	O PER-B O DAT-B DAT-I O O O O O O O O O O O O O
+특히 아프리카 TV 와 의 결별 을 선언한 대 도서관 , 밴 쯔 등 도 후보 에 이름 을 올려 눈길 을 끌 었 다 .	O ORG-B ORG-I O O O O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O
+BJ 대상 은 방송 지표 30 % , 시청자 투표 30 % , 내부 심사 40 % 를 기준 으로 결정된다 .	O O O O O O O O O O O O O O O O O O O O O O
+' 아프리카 TV BJ 대상 ' 은 12 월 15 일 코엑스 오디토리움 관 에서 진행될 예정 이 다 .	O O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-I LOC-I O O O O O O
+만일 20 대 를 군 에서 보냈 다면 그 시간 은 더욱 길 어 져 오랜 기다림 이 있 었 을 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+매년 물가 상승 률 분 인 5 % 가 증액되 는 구조 라 그 다음 해 는 지급되 는 보험금 이 매월 210 만 원 으로 오른다 .	O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O
+삼성전자 가 교환 · 환불 서비스 를 시작한 13 일 이후 지금 까지 기기 를 반납한 소비자 는 10 % 미만 인 것 으로 추정되 고 있 다 .	ORG-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+‘ 마법 의 성 ’ 을 만든 ‘ 더 클래식 ’ 의 박용준 , ‘ 들국화 ’ 의 베이시스트 민재현 , 이승환 밴드 의 최기웅 , 옥수 사진관 의 노경보 , 이상 순 , 전제덕 등 이 참여 했 다 .	O O O O O O O O ORG-B ORG-I O O PER-B O O ORG-B O O O PER-B O PER-B O O PER-B O ORG-B ORG-I O PER-B O PER-B PER-I O PER-B O O O O O O
+특히 , 최근 대외 활동 을 하 지 않 던 이효리 의 참여 또한 많 은 이 들 에게 감동 을 선사한다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O
+돈 이 ‘ 연결형 4 번 타자 ’ 으로 자리 잡 아 주 면 끊임없이 상대 를 압박해 빅 이닝 을 만들 기 도 수월하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+반면 저소득층 , 장애 학생 등 을 대상 으로 하 는 ‘ 선별적 교육 복지 사업 ’ 투자액 은 같 은 기간 2 조 258 억 원 에서 1 조 8323 억 원 으로 오히려 감소 했 다 .	O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O
+정의윤 은 1 회 말 한화 선발 심수창 의 6 구 째 를 받아쳐 왼쪽 담장 을 넘기 는 만루 홈런 을 터뜨 렸 다 .	PER-B O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O
+[ 편집자 주 ] 윤윤수 ( 72 ) 휠라 코리아 회장 에게 휠라 는 자식 이 다 .	O O O O PER-B O O O ORG-B ORG-I O O O O O O O O
+관세청 의 용역 결과 에서 2016 년 추가 가능한 매장 수 는 1 개 였 다 .	ORG-B O O O O DAT-B DAT-I O O O O O O O O O O

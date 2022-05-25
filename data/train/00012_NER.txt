@@ -1,13 +1,13 @@
-해외 투자자들도 한국의 기술창업에 대하+여주목하고 있으며, 투자 기회를 발굴하기 위하+ㄴ 발걸음이 잦아지고 있다 .	O O ORG-B O O O O O O O O O O O
-20년 전에는 혼인 지속기간이 길 +ㄹ수록 이혼이 줄었으나 최근에는 20년 이상 되+ㄴ 부부의 이혼이 늘어 지난해에는 전체 이혼의 30.4%를 차지하었습니다 .	O O O O O O O O O O O O O O O O O O O O O
-페이스 것+ㄹ 대변인 브래들리 샤베는 “모든 것+ㄴ 5~10분 내에 다 끝나 +ㄴ다”고 말하였다 .	ORG-B ORG-I O PER-B PER-I O O O O O O O O O
-쌀을 주식으로 하는 경우나, 고되+ㄴ육체활동 시 부족하기 쉽었기 때문에 개발 당시 한국인에 꼭 필요하+ㄴ영양제가 되기를 바라는 마음이 아로나민에 담기 +어 있다 .	O O O O O O O O O O O O O O O O O O O O O O
-금융연구원 서병호 연구위원은 “새롭ㄴ 서비스로 무장되+ㄴ 인터넷전문은행이 등장하면 금융소비자의 권리 향상에 도움이 되+ㄹ 것”이라고 말하였다 .	ORG-B PER-B O O O O O O ORG-B O O O O O O O
-강연재 국민의당 부대변인이 문재인 더불어민주당 전 대표 지지자를 향하+여 “진실 왜곡, 반말짓거리.사실 판단 못하고 지령받은 좀비처럼 막말 함부로 지르어대는 짓거리들”이란 비난을 쏟아내+어 논란이다 .	PER-B ORG-B O PER-B ORG-B O O O O O O O O O O O O O O O O O O O
-■MAXFC 남녀 밴텀 급초대 챔피언 김효선 전 슬기상대로 4라운드 KO승 “한국 입식 격투기 널리 알리+ㄹ 것” 이번 ‘MAXFC 05-챔피언의 밤’에서 여성 밴텀급 초대 챔피언이 되+ㄴ 김효선(37인천 정우관)은 원래 하얗+ㄴ 가운이 어울리는 백의의 천사+이었다 .	ORG-B O O O O PER-B PER-B PER-I O O LOC-B O O O O O O ORG-B O O O O O O O ORG-B ORG-I O O O O O O O
-특히 유럽 내 미군이 가장 많은 독일에서 동요가 크다 .	O LOC-B O ORG-B O O LOC-B O O O
-이에 두 사람의 커플 화보가 눈길을 모으+ㄴ다 .	O O O O O O O O
-황정음과 최시원은 패션 매거진 코스모폴리탄 10월호를 통하+여드라마와는 또 다른 매력을 뽐내 +었다 .	PER-B PER-B O O ORG-B O O O O O O O O
-이 화보에서 황정음과 최시원은 책상 위에 눕ㄴ자세로 카메라를 바라보고 있다 .	O O PER-B PER-B O O O O O O O
-민주당은 정부가 이미 조계사 폭력사태 때 「개혁」의 명분을 잃었고, 이 총리 경질로 이제는 「개혁의 주체」가 아니라 「개혁의 대상」으로 바뀌었다고 비판하고 있다 .	ORG-B O PER-B O O O O O O PER-B O O PER-B O O O O O O O O O
-최종 4할은 1982년 백인천이 유일 …그 후 8명만 5월 넘어까지 4할 유 .	O O O PER-B O O O O O O O O O
+해외 투자자 들 도 한국 의 기술 창업 에 대해 주목하 고 있 으며 , 투자 기회 를 발굴하 기 위한 발걸음 이 잦아지 고 있 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+20 년 전 에 는 혼인 지속 기간 이 길수록 이혼 이 줄 었 으나 최근 에 는 20 년 이상 된 부부 의 이혼 이 늘 어 지난해 에 는 전체 이혼 의 30.4 % 를 차지 했 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+페이스 걸 대변인 브래들리 샤베 는 “ 모든 건 5 ~ 10 분 내 에 다 끝난다 ” 고 말 했 다 .	ORG-B ORG-I O PER-B PER-I O O O O O O O O O O O O O O O O O O
+쌀 을 주식 으로 하 는 경우 나 , 고된 육체 활동 시 부족하 기 쉬 웠 기 때문 에 개발 당시 한국인 에 꼭 필요한 영양제 가 되 기 를 바라 는 마음 이 아로 나민 에 담겨 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+금융 연구원 서병호 연구 위원 은 “ 새로 운 서비스 로 무장된 인터넷 전문 은행 이 등장하 면 금융 소비자 의 권리 향상 에 도움 이 될 것 ” 이라고 말 했 다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강연재 국민 의당 부 대변인 이 문재인 더불 어 민주당 전 대표 지지자 를 향해 “ 진실 왜곡 , 반말 짓거리 . 사실 판단 못하 고 지령 받 은 좀비 처럼 막말 함부로 질 러 대 는 짓거리 들 ” 이 란 비난 을 쏟 아 내 논란 이 다 .	PER-B ORG-B ORG-I O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+■ MAX FC 남녀 밴텀급 초대 챔피언 김효선 전 슬기 상대 로 4 라운드 KO 승 “ 한국 입식 격투기 널리 알릴 것 ” 이번 ‘ MAX FC 05 - 챔피언 의 밤 ’ 에서 여성 밴텀급 초대 챔피언 이 된 김효선 ( 37 인천 정우관 ) 은 원래 하얀 가운 이 어울리 는 백의 의 천사 였 다 .	O ORG-B ORG-I O O O O PER-B PER-B PER-I O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O
+특히 유럽 내 미군 이 가장 많 은 독일 에서 동요 가 크 다 .	O LOC-B O ORG-B O O O O LOC-B O O O O O O
+이 에 두 사람 의 커플 화보 가 눈길 을 모은다 .	O O O O O O O O O O O O
+황정 음 과 최시원 은 패션 매거진 코스모 폴리 탄 10 월 호 를 통해 드라마 와 는 또 다른 매력 을 뽐냈 다 .	PER-B PER-I O PER-B O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
+이 화보 에서 황정 음 과 최시원 은 책상 위 에 누 운 자세 로 카메라 를 바라보 고 있 다 .	O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O
+민주당 은 정부 가 이미 조계사 폭력 사태 때 「 개혁 」 의 명분 을 잃 었 고 , 이 총리 경질 로 이제 는 「 개혁 의 주체 」 가 아니 라 「 개혁 의 대상 」 으로 바뀌 었 다고 비판하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최종 4 할 은 1982 년 백인천 이 유일 … 그 후 8 명 만 5 월 넘 어 까지 4 할 유지	O O O O DAT-B DAT-I PER-B O O O O O O O O DAT-B DAT-I O O O O O O

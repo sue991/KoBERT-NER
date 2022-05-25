@@ -1,9 +1,9 @@
-한편 차승원과 유해진은 1999년 영화 ‘주유소 습격사건’을 인연으로 2006년 영화 ‘국경의 남쪽’에서 주연과 조연으로, 2007년 영화 ‘이장과 군수’에서 +ㄴ두 주연으로 본격 콤비로 활약 하+ㄴ바 있다 .	O PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O
-이 과정에서 전설로 내려오는 채연의 사칙연산을 다시 한 번 언급하였다 .	O O O O PER-B O O O O O O
-이것이 바로 인스타그램이 야동의 성지가 되+ㄴ이유+이다 .	O O O O O O O
-‘바느질하는 여자’는 김씨의 일곱 번째 장편이다 .	O O PER-B O O O O
-국내 대형 제조사 유일의 에일맥주이기도 한 퀸즈에일은 차별화되+ㄴ향을 알리기 위하+여지나 +ㄴ8월 초부터 업계 최초로 대형마트에서 시음회가 아니+ㄴ ‘시향회’를 개최하여 좋은 평가를 받았으며, SNS에서 ‘향으로 마시는 맥주’로 바이럴 효과를 톡톡히 보고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한국전력, 새 외국인 선수 ‘얀스토크’ 영입 발표… 스펙은 .	ORG-B O O O PER-B O O O O
-”여자 프로농구청 주 KB스타즈 안덕수(42) 감독은 세상을 다 가지+ㄴ듯 하+ㄴ 표정으로만세를 부르더니 농구 관계자들을 향하+여넙죽 엎드리었다 .	O O O ORG-B PER-B O O O O O O O O O O O O
-9회는 15일 방송되+ㄴ다 .	O O O O
-혈종 부위의 혈액을 단순히 주사기로 뽑아주는 방법도 있지만 재발이 잦고 2차 세균 감염의 가능성이 높아 수술적으로 교정하는 방법을 주로 추천하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O
+한편 차승원 과 유해진 은 1999 년 영화 ‘ 주유소 습격 사건 ’ 을 인연 으로 2006 년 영화 ‘ 국경 의 남쪽 ’ 에서 주연 과 조연 으로 , 2007 년 영화 ‘ 이장 과 군수 ’ 에선 두 주연 으로 본격 콤비 로 활약한 바 있 다 .	O PER-B O PER-B O DAT-B DAT-I O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+이 과정 에서 전설 로 내려오 는 채연 의 사칙 연산 을 다시 한 번 언급 했 다 .	O O O O O O O PER-B O O O O O O O O O O O
+이것 이 바로 인스타그램 이 야동 의 성지 가 된 이유 다 .	O O O O O O O O O O O O O
+‘ 바느질하 는 여자 ’ 는 김 씨 의 일곱 번째 장편 이 다 .	O O O O O O PER-B O O O O O O O O
+국내 대형 제조 사 유일 의 에일 맥주 이 기 도 한 퀸즈 에일 은 차별화된 향 을 알리 기 위해 지난 8 월 초 부터 업계 최초 로 대형 마트 에서 시음 회 가 아닌 ‘ 시 향회 ’ 를 개최하 여 좋 은 평가 를 받 았 으며 , SNS 에서 ‘ 향 으로 마시 는 맥주 ’ 로 바이럴 효과 를 톡톡히 보 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국전력 , 새 외국인 선수 ‘ 얀 스토크 ’ 영입 발표 … 스펙 은 ?	ORG-B O O O O O PER-B PER-I O O O O O O O
+” 여자 프로 농구 청주 KB 스타즈 안덕수 ( 42 ) 감독 은 세상 을 다 가진 듯 한 표정 으로 만세 를 부르 더니 농구 관계자 들 을 향해 넙죽 엎드 렸 다 .	O O O O LOC-B ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9 회 는 15 일 방송된다 .	O O O DAT-B DAT-I O O
+혈종 부위 의 혈액 을 단순히 주사기 로 뽑 아 주 는 방법 도 있 지만 재발 이 잦 고 2 차 세균 감염 의 가능성 이 높 아 수술 적 으로 교정하 는 방법 을 주로 추천한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

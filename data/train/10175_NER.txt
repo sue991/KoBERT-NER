@@ -1,12 +1,12 @@
-김 교수는 유세에서 안 대표의 정치적 고향이 +ㄴ 노원병에 대하+ㄴ애정, 지역구를 떠나지 않았다는 점 등을 부각시키었다고 하+ㄴ다 .	PER-B O O PER-B O O O O O O O O O O O O O O
-김 교수는 이번 총선에서도 거리 유세 등에 부담을 많이 느끼는 것으로 보이었지만 정치인의 아내로 3년여 시간을 보내면서 좀 더 적극적 이+ㄴ 성격으로 바뀌었다는 후문이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-올해로 서비스 시작 10주년을 맞은 글로벌 동영상 플랫폼 유튜브가 ‘유튜브 퍼스트 세대’를 강조하며 자신감을 보이었다 .	O O O O O O O O O O O O O O O O
-2007년 엘시티 민간사업자 공모에 참여하+ㄴ한 관계자는 “이 회장 측이 사업계획 프레젠테이션 때부터 초고층 아파트를 전제로 하+ㄴ 기획안을 가지고 나오아 놀라 +았다”고 밝히었다 .	O ORG-B O O O O PER-B O PER-B O PER-B O O O O O O O O O O O O
-때려치우고 지하철에서 동전이나 줍어야 +하겠어요” +이라며 베네딕트에게 호소하는 모습에서는 학자이기 이전에 한 인 간으로서의 고뇌가 느끼+어지+ㄴ다 .	O O O O O O PER-B O O O O O O O O O O
-“조국가 +아서 죽자” 사투 77시간/필사의 서해밀항 조창호 씨 “오 .	O O O O O LOC-B PER-B O O O
-북한의 무수단 미사일 발사는 이번이 처음이다 .	ORG-B O O O O O O
-물론 이런 이유로 투표가 19금 목록에 들어있는 것은 아니다 .	O O O O O O O O O O
-박지원 대표는 페이스북에 “이제 본선은 국민의당 후보와 문 전 대표의 1대 1 대결이 되+ㄹ 것”이라며 “본선에서 +ㄴ문 전 대표에 대하+ㄴ 피로증과 비교우위론으로 국민의당이 승리하+ㄹ 것”이라고 반색하었다 .	PER-B O O O O ORG-B O PER-B O O O O O O O O PER-B O O O O O ORG-B O O O O
-이어 2016∼2017년 정부 초청 학부 장학생 한국어 연수기관 공모에서도 선정되었다 .	O O O O O O O O O O O
-삼성전자 이재용 부회장의 이름을 민주당 대선 경선에 참여하였던 이재명 성남시장의 이름으로 잘못 부르+ㄴ 것이다 .	ORG-B PER-B O O ORG-B O O O PER-B O O O O O O
-결국 당을 나가 +아따로 평화민주당을 만들었다 .	O O O O ORG-B O O
+김 교수 는 유세 에서 안 대표 의 정치적 고향 인 노원 병 에 대한 애정 , 지역구 를 떠나 지 않 았 다는 점 등 을 부각 시 켰 다고 한다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 교수 는 이번 총선 에서 도 거리 유세 등 에 부담 을 많이 느끼 는 것 으로 보 였 지만 정치인 의 아내 로 3 년 여 시간 을 보내 면서 좀 더 적극적 인 성격 으로 바뀌 었 다는 후문 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올해 로 서비스 시작 10 주년 을 맞 은 글로벌 동영상 플랫폼 유튜브 가 ‘ 유튜브 퍼스트 세대 ’ 를 강조하 며 자신감 을 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2007 년 엘시티 민간 사업자 공모 에 참여한 한 관계자 는 “ 이 회장 측 이 사업 계획 프레젠테이션 때 부터 초고층 아파트 를 전제 로 한 기획 안 을 가지 고 나 와 놀랐 다 ” 고 밝 혔 다 .	DAT-B DAT-I ORG-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+때려치우 고 지하철 에서 동전 이나 주 워야 겠 어요 ” 라며 베네딕트 에게 호소하 는 모습 에서 는 학자 이 기 이전 에 한 인간 으로서 의 고뇌 가 느껴 진다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+“ 조국 가서 죽 자 ” 사투 77 시간 / 필사 의 서해 밀항 조창호 씨 “ 오 !	O O O O O O O O O O O O LOC-B O PER-B O O O O
+북한 의 무수단 미사일 발사 는 이번 이 처음 이 다 .	ORG-B O O O O O O O O O O O
+물론 이런 이유 로 투표 가 19 금 목록 에 들 어 있 는 것 은 아니 다 .	O O O O O O O O O O O O O O O O O O O
+박지원 대표 는 페이스북 에 “ 이제 본선 은 국민 의당 후보 와 문 전 대표 의 1 대 1 대결 이 될 것 ” 이 라며 “ 본선 에선 문 전 대표 에 대한 피로 증 과 비교 우위 론 으로 국민 의 당 이 승리할 것 ” 이라고 반색 했 다 .	PER-B O O O O O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O
+이어 2016 ∼ 2017 년 정부 초청 학부 장학생 한국어 연수 기관 공모 에서 도 선정 됐 다 .	O O O O O O O O O O O O O O O O O O O
+삼성전자 이재용 부회장 의 이름 을 민주당 대선 경선 에 참여 했 던 이재명 성남 시장 의 이름 으로 잘못 부른 것 이 다 .	ORG-B PER-B O O O O ORG-B O O O O O O PER-B O O O O O O O O O O O
+결국 당 을 나가 따로 평화 민주당 을 만들 었 다 .	O O O O O ORG-B ORG-I O O O O O

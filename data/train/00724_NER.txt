@@ -1,13 +1,13 @@
-또 세종테크밸리와 맞닿아 있어 이에 따르+ㄴ 수혜도 예상되 +ㄴ다 .	O LOC-B O O O O O O O O
-한 장관은 회의 말미에 “우리 군의 변함없는 가치는 어떠 하+ㄴ 상황에서도 적과 싸우어 이기는 것”이라며 “이 가치에 기반 하+ㄴ 능력을 구비 하+ㄴ군이야말로 신뢰받는 군이자 최후의 보루”라고 강조하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-권광민에게 무엇보다 빨리 영어를 배우라고 조언하고 싶다”고 덧붙이었다 .	PER-B O O O O O O O O
-MSG가 인체에 크게 해롭다는 루머가 돌았고 미원의 판매는 뚝 떨어지었다 .	O O O O O O O O O O O
-이어 “유엔은 오래전부터 중립성과 도덕적 힘을 잃어버리었다 .	O ORG-B O O O O O O
-28세의 아시아 유학생이 단상에 오르았다 .	O LOC-B O O O O
-“새누리당은 대구가 우습ㄴ가 배(가+아보+아)?막 후보를 아무 데나 넣었 .	ORG-B LOC-B O O O O O O O
-최근 롯데가 (家)의 형제간 경영권 분쟁 탓에 효성의 사례도 종종 보도되+ㄴ다 .	O ORG-B O O O O O ORG-B O O O O
-하지만 현 표준약관에서 사망위자료는 19세 이상 60세 미만이 +ㄴ 피해자는 4500만원, 19세 미만이나 60세 이상은 4000만원을 받는다 .	MNY-I O O O O O O O O O MNY-B O O O O MNY-B O O
-문학의 경우, 현대소설(염상섭의 ‘삼대’)에서 40%의 지문 연계, 고전소설(조위한의 ‘최척전’)에서 작품 연계, 고전시가 (고려속요 ‘동동’」과 ‘가시리’)에서 100%의 지문 연계, 현대시와 수필복합(박두진의 ‘향현’, 강은교의 ‘우리가 물이 되어’, 박이문의 ‘눈’)에서의 한 작품 연계 등에서 확인되듯이 70% 연계율은 변화가 없었다 .	O O PER-B O O O O PER-B O O O O O O O O O O O PER-B O PER-B O O O PER-B O O O O O O O O O O O
-11월 경 입주자를 모집하+ㄹ대림산업의 위례신도시 뉴스테이가 첫 대상이 되+ㄹ 것으로 보이+ㄴ다 .	O O O ORG-B LOC-B LOC-B O O O O O O
-김종호(21·중원대)와 김태윤(22·현대제철)은 광주국제양궁장에서 열리+ㄴ 컴파운드 남자 부준결승에서 비+ㄴ 마주하기 모드즈와디와 (말레이시아)와도 만스키르노(벨기에)를 각각 따돌리고 결승에 진출하였다 .	ORG-B ORG-B LOC-B O O O O PER-B PER-I PER-I ORG-B ORG-B O O O O O
-걸그룹 '포미닛' 현아가 1년 만에 돌아오+ㄴ다 .	O ORG-B O O O O O
+또 세종 테크 밸리 와 맞닿 아 있 어 이 에 따른 수혜 도 예상된다 .	O LOC-B LOC-I LOC-I O O O O O O O O O O O O
+한 장관 은 회의 말미 에 “ 우리 군 의 변함없 는 가치 는 어떠한 상황 에서 도 적 과 싸 워 이기 는 것 ” 이 라며 “ 이 가치 에 기반 한 능력 을 구비한 군 이 야 말 로 신뢰 받 는 군 이 자 최후 의 보루 ” 라고 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+권광민 에게 무엇 보다 빨리 영어 를 배우 라고 조언하 고 싶 다 ” 고 덧붙 였 다 .	PER-B O O O O O O O O O O O O O O O O O O
+MSG 가 인체 에 크 게 해롭 다는 루머 가 돌 았 고 미원 의 판매 는 뚝 떨어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 유엔 은 오래 전 부터 중립성 과 도덕적 힘 을 잃어버 렸 다 .	O O ORG-B O O O O O O O O O O O O O
+28 세 의 아시아 유학생 이 단상 에 올 랐 다 .	O O O LOC-B O O O O O O O O
+“ 새누리당 은 대구 가 우스 운가 배 ( 가 봐 ) ? 막 후보 를 아무 데 나 넣 었 다	O ORG-B O LOC-B O O O O O O O O O O O O O O O O O O
+최근 롯데 가 ( 家 ) 의 형제 간 경영권 분쟁 탓 에 효성 의 사례 도 종종 보도된다 .	O ORG-B ORG-I O O O O O O O O O O ORG-B O O O O O O
+하지만 현 표준 약관 에서 사망 위자료 는 19 세 이상 60 세 미만 인 피해자 는 4500 만 원 , 19 세 미만 이나 60 세 이상 은 4000 만 원 을 받 는다 .	O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O MNY-B MNY-I MNY-I O O O O
+문학 의 경우 , 현대소설 ( 염상섭 의 ‘ 삼대 ’ ) 에서 40 % 의 지문 연계 , 고전 소설 ( 조위한 의 ‘ 최척전 ’ ) 에서 작품 연계 , 고전 시가 ( 고려 속요 ‘ 동동 ’ 」 과 ‘ 가시리 ’ ) 에서 100 % 의 지문 연계 , 현대 시 와 수필 복합 ( 박두진 의 ‘ 향현 ’ , 강은교 의 ‘ 우리 가 물 이 되 어 ’ , 박이문 의 ‘ 눈 ’ ) 에서 의 한 작품 연계 등 에서 확인되 듯이 70 % 연계 율 은 변화 가 없 었 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+11 월 경 입주자 를 모집할 대림산업 의 위례 신도시 뉴 스테이 가 첫 대상 이 될 것 으로 보인다 .	DAT-B DAT-I O O O O ORG-B O LOC-B LOC-I LOC-B LOC-I O O O O O O O O O
+김종호 ( 21 · 중원대 ) 와 김태윤 ( 22 · 현대제철 ) 은 광주국제양궁장 에서 열린 컴파운드 남자 부 준결승 에서 빈 마주 키 모드 즈와디 와 ( 말레이시아 ) 와 도 만 스키 르노 ( 벨기에 ) 를 각각 따돌리 고 결승 에 진출 했 다 .	PER-B O O O ORG-B O O PER-B O O O ORG-B O O LOC-B O O O O O O O PER-B PER-I PER-I PER-I PER-I PER-I O ORG-B O O PER-B PER-I PER-I PER-I O ORG-B O O O O O O O O O O O
+걸그룹 ' 포 미닛 ' 현아 가 1 년 만 에 돌아온다 .	O O ORG-B ORG-I O O O O O O O O O

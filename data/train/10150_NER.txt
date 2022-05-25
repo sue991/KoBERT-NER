@@ -1,12 +1,12 @@
-2030세대는 자기 자녀 세대의 세금 부담이 늘고 (92.4%), 국가재정은 복지부담을 극복하지 못하고 (85.2%), 국민은 국민연금, 건강보험 등의 혜택을 충분히 누리지 못하+ㄹ 것(81.3%)으로 전망하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-친환경 제품이 아니+ㄴ 데도 소비자를 속이거나 소비자가 잘못 알게 하는 과장·허위 광고가 9월 25일부터 금지되 +ㄴ다 .	O O O O O O O O O O O O O O O O O
-유승엽 “마라톤은 배신하지 않는다 .	PER-B O O O O
-하지만 이 벨의 부등식에 많은 허점이 있음이 밝혀지면서 ‘양자 얽히 +ㅁ’을 완전히 설명하지 못하+ㄴ다는 비판이 나오았다 .	O O O O O O O O O O O O O O O O O
-이슬람 율법에 따르 아주류 판매를 금지하는 파키스탄에서 북한 외교관이 술을 팔아 남기는 차액은 상당히 크+ㄴ 것으로 알려지었다 .	O O O O O O LOC-B ORG-B O O O O O O O O O O
-정부는 현재 2017년까지 농축산식품 수출액 100억달러를 달성하겠다는 목표를 세우+ㄴ 상태+이다 .	O O O O O MNY-B O O O O O
-금융공기업 평균 급여 2014년 첫 감 .	O O O O O O O
-28일 대전 한화전에서는 19호 홈런을 터트리며 두산이 팀 홈런 1위(178개)로 올라서는 데 결정적 이+ㄴ 역할을 +였다 .	O O O O O O ORG-B O O O O O O O O O O
-[사진 각 회사] 사진 2제네랄 모터스(GM)는 캐딜락 등 주요 모델에 스마트폰 무선 충전 시스템을 선택 사양으로 포함하였다 .	O O O O ORG-B ORG-B O O O O O O O O O O O O
-중국 공산당은 이를 인정하였으나, 국민당은 인정하지 않았다 .	ORG-B ORG-I O O ORG-B O O O
-특검은 수사기간이 연장되지 않을 것도 고려, 1차 수사 종료일(28일) 전까지 이 부회장에 대하+ㄴ 추가 조사를 마무리하고 기소 하+ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O O O
-제시카 알바 내한"안녕, 한국, 서울 …이번에 +ㄴ 사업차 +았어요~ .	PER-B PER-I O LOC-B LOC-B O O O O O
+2030 세대 는 자기 자녀 세대 의 세금 부담 이 늘 고 ( 92.4 % ) , 국가 재정 은 복지 부담 을 극복하 지 못하 고 ( 85.2 % ) , 국민 은 국민 연금 , 건강 보험 등 의 혜택 을 충분히 누리 지 못할 것 ( 81.3 % ) 으로 전망 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+친환경 제품 이 아닌데 도 소비자 를 속이 거나 소비자 가 잘못 알 게 하 는 과장 · 허위 광고 가 9 월 25 일 부터 금지된다 .	O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O
+유승엽 “ 마라톤 은 배신하 지 않 는다 ”	PER-B O O O O O O O O
+하지만 이 벨 의 부등식 에 많 은 허점 이 있 음 이 밝혀지 면서 ‘ 양자 얽힘 ’ 을 완전히 설명하 지 못한다는 비판 이 나 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이슬람 율법 에 따 라 주류 판매 를 금지하 는 파키스탄 에서 북한 외교관 이 술 을 팔 아 남기 는 차액 은 상당히 큰 것 으로 알려 졌 다 .	O O O O O O O O O O LOC-B O ORG-B O O O O O O O O O O O O O O O O O O
+정부 는 현재 2017 년 까지 농축산 식품 수출액 100 억 달러 를 달성하 겠 다는 목표 를 세운 상태 다 .	O O O DAT-B DAT-I O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+금융 공기업 평균 급여 2014 년 첫 감소	O O O O DAT-B DAT-I O O
+28 일 대전 한화 전 에서 는 19 호 홈런 을 터트리 며 두산 이 팀 홈런 1 위 ( 178 개 ) 로 올라서 는 데 결정적 인 역할 을 했 다 .	DAT-B DAT-I O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+[ 사진 각 회사 ] 사진 2 제 네 랄 모터스 ( GM ) 는 캐딜락 등 주요 모델 에 스마트 폰 무선 충전 시스템 을 선택 사양 으로 포함 했 다 .	O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O
+중국 공산당 은 이 를 인정 했 으나 , 국민당 은 인정하 지 않 았 다 .	ORG-B ORG-I O O O O O O O ORG-B O O O O O O O
+특검 은 수사 기간 이 연장되 지 않 을 것 도 고려 , 1 차 수사 종료 일 ( 28 일 ) 전 까지 이 부회장 에 대한 추가 조사 를 마무리하 고 기소할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+제시카 알바 내한 " 안녕 , 한국 , 서울 … 이번 엔 사업 차 왔 어요 ~ "	PER-B PER-I O O O O LOC-B O LOC-B O O O O O O O O O

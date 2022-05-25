@@ -1,14 +1,14 @@
-민장성 동아오츠카 사장(48)은 동아에스티 사장으로 자리를 옮기었다 .	PER-B ORG-B O ORG-B O O O O
-부산철도청은 수돗물의 악취가 갈수록 심하+여지+ㅁ에 따르 아지나+ㄴ 13일부터 새마을 등 전 열차에 식수로 제공되는 수돗물의 공급을 중단하였고, 일부 부산 시내 생수 판매업체에서는 품귀현상을 빚고 있다 .	LOC-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
-유로존 재무장관들은 전날 심야까지 9시간에 걸치+ㄴ 마라톤 회의를 +였으나 견해차를 좁히지 못하였다 .	LOC-B O O O O O O O O O O O O
-특히 지나 +ㄴ 23일 전남과의 홈경기에서 2골을 몰아치+어팀 승리(5-3)에 힘을 보태+었다 .	O O O O ORG-B O O O O O O O
-1초에 1회 진동하면 1헤르츠(㎐), 1000번 진동하면 1㎑, 100만번 진동하면 1㎒(1000㎑), 10억번 진동하면 1㎓(1000㎒) +이다 .	O O O O O O O O O O O O O O O
-내심 잘 챙기+어주지 못하+ㄴ월이에게 미안하+ㄴ 마음이 있었던 육씨는 크+ㄴ 항의 없이 다음날 A씨로부터 월이를 받기로 하+ㄴ 뒤집으로 돌아가 +았습니다 .	O O O PER-B O O O PER-B O O O O PER-B PER-B O O O O O O
-그런데 집으로 돌아오+ㄴ월이 의 상태가 심상하지 않았습니다 .	O O PER-B O O O O O
-지난달 4차 핵실험 뒤 북한은 정작 잊히고 한미일-중러가 싸우었듯 이번에는 우리끼리 싸우+ㄹ까 걱정이다 .	O O O O ORG-B O O ORG-B O O O O O O
-15일 조사를 받은 조성민은 “다시는 이런 일로 경찰서를 찾는 일이 없었으면 좋겠다”는 바람을 전하였다 .	O O O PER-B O O O O O O O O O O O
-오로지 일 등만을 기억하니 좌우 지간일 등을 하라는 독려(?) +이었다 .	O O O O O O O O O O O
-그러나 에스피는 물러나 +ㄴ 후 자신의 결백을 입증하기 위하+여 법정 투쟁을 벌이겠다고 밝히+어클린턴에 여전히 부담을 주고 있다 .	O PER-B O O O O O O O O O O PER-B O O O O O
-브릭스(BRICs) 국가 중에서는 러시아와 인도가 대표적이다 .	ORG-B O O ORG-B ORG-B O O
-성적은 1패, 방어율 6.88(17이닝 13자 책점)에 그치었다 .	O O O O O O O O
-미국 외교정책에서 크+ㄴ 역할을 차지하는 의회의 여야가 바뀌어 미국 의회의 중요성이 그만큼 커지었다는 것이 전문가들의 지적이다 .	ORG-B O O O O O O O ORG-B ORG-I O O O O O O O
+민 장성 동아오츠카 사장 ( 48 ) 은 동아 에스티 사장 으로 자리 를 옮 겼 다 .	PER-B PER-I ORG-B O O O O O ORG-B ORG-I O O O O O O O O
+부산 철도청 은 수돗물 의 악취 가 갈수록 심해 짐 에 따 라 지난 13 일 부터 새 마을 등 전 열차 에 식수 로 제공되 는 수돗물 의 공급 을 중단 했 고 , 일부 부산 시내 생수 판매 업체 에서 는 품귀 현상 을 빚 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+유로존 재무 장관 들 은 전날 심야 까지 9 시간 에 걸친 마라톤 회의 를 했 으나 견해차 를 좁히 지 못 했 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+특히 지난 23 일 전남 과 의 홈경기 에서 2 골 을 몰아쳐 팀 승리 ( 5 - 3 ) 에 힘 을 보탰 다 .	O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O
+1 초 에 1 회 진동하 면 1 헤르츠 ( ㎐ ) , 1000 번 진동하 면 1 ㎑ , 100 만 번 진동하 면 1 ㎒ ( 1000 ㎑ ) , 10 억 번 진동하 면 1 ㎓ ( 1000 ㎒ ) 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내심 잘 챙겨 주 지 못한 월이 에게 미안한 마음 이 있 었 던 육 씨 는 큰 항의 없이 다음날 A 씨 로부터 월이 를 받 기 로 한 뒤 집 으로 돌아갔 습니다 .	O O O O O O PER-B O O O O O O O PER-B O O O O O O PER-B O O PER-B O O O O O O O O O O O
+그런데 집 으로 돌아온 월이 의 상태 가 심상 치 않 았 습니다 .	O O O O PER-B O O O O O O O O O
+지난달 4 차 핵 실험 뒤 북한 은 정작 잊히 고 한미 일 - 중 러 가 싸 웠 듯 이번 에 는 우리 끼리 싸울까 걱정 이 다 .	O O O O O O ORG-B O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O
+15 일 조사 를 받 은 조성민 은 “ 다시 는 이런 일 로 경찰서 를 찾 는 일 이 없 었 으면 좋 겠 다 ” 는 바람 을 전 했 다 .	DAT-B DAT-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오로지 일등 만 을 기억하 니 좌우지간 일등 을 하 라는 독려 ( ? ) 였 다 .	O O O O O O O O O O O O O O O O O O
+그러나 에스피 는 물러난 후 자신 의 결백 을 입증하 기 위해 법정 투쟁 을 벌이 겠 다고 밝혀 클린턴 에 여전히 부담 을 주 고 있 다 .	O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+브릭스 ( BRICs ) 국가 중 에서 는 러시아 와 인도 가 대표적 이 다 .	ORG-B O ORG-B O O O O O ORG-B O ORG-B O O O O O
+성적 은 1 패 , 방어율 6.88 ( 17 이닝 13 자책점 ) 에 그 쳤 다 .	O O O O O O O O O O O O O O O O O O
+미국 외교 정책 에서 큰 역할 을 차지하 는 의회 의 여야 가 바뀌 어 미국 의회 의 중요성 이 그만큼 커 졌 다는 것 이 전문가 들 의 지적 이 다 .	ORG-B O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O

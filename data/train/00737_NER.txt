@@ -1,14 +1,14 @@
-동반 3인도 30% 할인을 받을 수 있다 .	O O O O O O O O
-따라서 2016년 리우데자네이루 올림픽 예선에 출전하+ㄹ 대표팀에서 리가 하은 주(신한은행) 양지희(우리은행)와 함께 골밑을 지키+어주+ㄴ다면 대표팀 전력이 급상승 하+ㄹ 수 있다 .	O O O O O O O O O ORG-B ORG-B O O O O O O O O O O
-다만 이효희(37), 정대영(36) 등 지금 도로공사의 베테랑 선수들이 마주하+ㄴ 어려움은 누구보다 잘 알+ㄴ다 .	O PER-B PER-B O O ORG-B O O O O O O O O
-김수영에게 이사벨라가 있었다면, 나에게는 바바라가 연인이 되어 북극성처럼 나의 젊은 시절을 이끌어 주었다 .	O ORG-B O O ORG-B O O O O O O O O O
-김선영 서울대 생명과학부 교 .	PER-B ORG-B ORG-I O O
-중국이 요동치고 있는 요즘 시장 여건이 어렵 ㄹ수록 우리는 새롭ㄴ 해외의 먹을거리를 찾아 나가 +아야 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O
-주니어 닥터는 정출연이 보유 하+ㄴ 우수하+ㄴ 연구 인프라를 활용하+여전국 청소년들을 대상으로 여름방학 동안 학교에서 경험하기 어렵ㄴ과학기술 실험·탐구·체험활동을 제공하는 프로그램이다 .	O O ORG-B O O O O O O O O O O O O O O O O O
-1∼2월에 최고조에 이르었다가 3∼5월에 소강상태 +이었던 지난해와는 다르다”고 설명하였다 .	O O O O O O O O O O
-자영업자의 처분가능소득 대비 원리금 상환액 비율은 2015년 30.6%에서 지난해 35.5%로 증가하였다 .	O O O O O O O O O O O O
-한가인 소속사 BH엔터테인먼트의 한 관계자도 이날 뉴스1스타에 “한가인이 임신 중 이+ㄴ 것은 맞다 .	PER-B O ORG-B O O O O PER-B O O O O O O
-이어 “결혼 10년차 주부에 1남1녀를 두고 있다”며 “아이들이 +었을 때 스캔들로 끝이나 +아있으면 엄마에 대하+여오해하+ㄹ 것 같아 한번은 짚고 넘어가고 싶었다”고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-영업이익으로 이자도 내지 못하는 ‘좀비’ 중소기업 105곳이 퇴출되+ㄴ다 .	O O O O O O O O O
-화베이(華北) 지방에서는 라몐이라 불리었지만 화중(華中) 지방에서는 간몐, 화난(華南) 지방에서는 다몐으로 지역마다 부르는 이름이 다르았다 .	LOC-B O O O LOC-B O O LOC-B O O O O O O O
-그러나 삼성전자가 시장의 예상을 뛰어넘은 과감하고 신속하+ㄴ 조치에 나서면서 단기적 이+ㄴ 악재에 그치+ㄹ 것이라는 분석도 적지 않다 .	O ORG-B O O O O O O O O O O O O O O O O
+동반 3 인도 30 % 할인 을 받 을 수 있 다 .	O O O O O O O O O O O O O
+따라서 2016 년 리우데자네이루 올림픽 예선 에 출전할 대표 팀 에서 리 가 하은주 ( 신한은행 ) 양지희 ( 우리은행 ) 와 함께 골 밑 을 지켜 준다면 대표 팀 전력 이 급상승할 수 있 다 .	O DAT-B DAT-I O O O O O O O O O O PER-B O ORG-B O PER-B O ORG-B O O O O O O O O O O O O O O O O O
+다만 이효희 ( 37 ) , 정대영 ( 36 ) 등 지금 도로 공사 의 베테랑 선수 들 이 마주한 어려움 은 누구 보다 잘 안다 .	O PER-B O O O O PER-B O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+김수영 에게 이사벨라 가 있 었 다면 , 나 에게 는 바바라 가 연인 이 되 어 북극성 처럼 나 의 젊 은 시절 을 이끌 어 주 었 다 .	O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+김선영 서울대 생명 과학 부 교수	PER-B ORG-B ORG-I ORG-I ORG-I O
+중국 이 요동치 고 있 는 요즘 시장 여건 이 어려 울수록 우리 는 새로 운 해외 의 먹을거리 를 찾 아 나가야 한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+주니어 닥터 는 정출연 이 보유한 우수한 연구 인프라 를 활용해 전국 청소년 들 을 대상 으로 여름 방학 동안 학교 에서 경험하 기 어려 운 과학 기술 실험 · 탐구 · 체험 활동 을 제공하 는 프로그램 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 ∼ 2 월 에 최고조 에 이르 렀 다가 3 ∼ 5 월 에 소강상태 였 던 지난해 와 는 다르 다 ” 고 설명 했 다 .	DAT-B O DAT-B DAT-I O O O O O O DAT-B O DAT-B DAT-I O O O O O O O O O O O O O O O
+자영업 자 의 처분 가능 소득 대비 원리금 상환액 비율 은 2015 년 30.6 % 에서 지난해 35.5 % 로 증가 했 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+한가인 소속 사 BH 엔터테인먼트 의 한 관계자 도 이날 뉴스 1 스타 에 “ 한가인 이 임신 중 인 것 은 맞 다 .	PER-B O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O O O O O
+이어 “ 결혼 10 년 차 주부 에 1 남 1 녀 를 두 고 있 다 ” 며 “ 아이 들 이 컸 을 때 스캔들 로 끝 이 나 있 으면 엄마 에 대해 오해할 것 같 아 한 번 은 짚 고 넘어가 고 싶 었 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영업이익 으로 이자 도 내 지 못하 는 ‘ 좀비 ’ 중소기업 105 곳 이 퇴출 된다 .	O O O O O O O O O O O O O O O O O O
+화베이 ( 華北 ) 지방 에서 는 라몐 이 라 불 렸 지만 화중 ( 華中 ) 지방 에서 는 간몐 , 화난 ( 華南 ) 지방 에서 는 다몐 으로 지역 마다 부르 는 이름 이 달 랐 다 .	LOC-B O LOC-B O O O O O O O O O O LOC-B O LOC-B O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O
+그러나 삼성전자 가 시장 의 예상 을 뛰어넘 은 과감하 고 신속한 조치 에 나서 면서 단기 적 인 악재 에 그칠 것 이 라는 분석 도 적 지 않 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

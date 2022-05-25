@@ -1,10 +1,10 @@
-질본과 양천구 보건소는 다나의원을 이용하+ㄴ 환자들은 전화(양천구 보건소 02-2620-4920~9, 질병관리본부 국번 없이 109)로 신고하+여주+ㄹ 것을 당부하였다 .	O ORG-B ORG-I ORG-B O O ORG-B ORG-I O ORG-B O O O O O O O
-[미리 보는 오늘] 점입가경이화여대 갈등, 출구 찾을 .	O O O ORG-B O O O O
-"주량은 소주 1병"… 대선주자 5인의 이색 이력 .	O O O O O O O O
-유일하게 합류하지 못하+ㄴ 것은 국제축구연맹(FIFA)의 각국 국가대표 차출 규정이 적용되지 못하+ㄴ8월 동아시안컵이었다 .	O O O O ORG-B O O O O O O O O
-아니 정확히는 오랜만에 친구를 만나는 기회+이라고 하+ㄹ까. 유준상이 그렇었고, 강원래가 그렇었다 .	O O O O O O O PER-B O PER-B O O
-레스터시티가 이루+ㄴ 기적이 반갑은 것도 이 때문이다 .	ORG-B O O O O O O O
-다음카카오는 ‘카카오 게임하기’를 통하+여팔리+ㄴ 유료 게임과 아이템 매출의 21%를 수수료로 받고 있다 .	ORG-B ORG-B O O O O O O O O O O O
-전기차가 비교적 활성화되+ㄴ 제주에는 116대가 있지만 나머지 지역에는 턱없이 부족하다 .	O O O LOC-B O O O O O O O
-정호에게도 충분히 기회가 오+ㄹ 것이다”고 희망 섞이+ㄴ 분석을 내놓았다 .	PER-B O O O O O O O O O
-FIFA는 이정협에 대하+여 “호주, 이라크전에서 골을 넣으며 구자철과 이청용의 부상공백을 메우었다”고 소개하였다 .	ORG-B PER-B O ORG-B ORG-B O O PER-B PER-B O O O O
+질 본과 양천구 보건소 는 다나 의원 을 이용한 환자 들 은 전화 ( 양천구 보건소 02 - 2620 - 4920 ~ 9 , 질병 관리 본부 국번 없이 109 ) 로 신고해 줄 것 을 당부 했 다 .	O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+[ 미리 보 는 오늘 ] 점입가경 이화여대 갈등 , 출구 찾 을까	O O O O O O O ORG-B O O O O O
+" 주량 은 소주 1 병 " … 대선 주자 5 인 의 이색 이력서	O O O O O O O O O O O O O O O
+유일하 게 합류하 지 못한 것 은 국제 축구 연맹 ( FIFA ) 의 각국 국가 대표 차출 규정 이 적용되 지 못한 8 월 동 아시안 컵 이 었 다 .	O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+아니 정확히 는 오랜만 에 친구 를 만나 는 기회 라고 할까 . 유준상 이 그 랬 고 , 강원래 가 그 랬 다 .	O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O
+레스터 시티 가 이룬 기적 이 반가 운 것 도 이 때문 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O
+다음카카오 는 ‘ 카카오 게임 하 기 ’ 를 통해 팔린 유료 게임 과 아이템 매출 의 21 % 를 수수료 로 받 고 있 다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+전기 차 가 비교적 활성화된 제주 에 는 116 대 가 있 지만 나머지 지역 에 는 턱없이 부족하 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O
+정호 에게 도 충분히 기회 가 올 것 이 다 ” 고 희망 섞인 분석 을 내 놨 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+FIFA 는 이정협 에 대해 “ 호주 , 이라크 전 에서 골 을 넣 으며 구자철 과 이청용 의 부상 공백 을 메 웠 다 ” 고 소개 했 다 .	ORG-B O PER-B O O O ORG-B O ORG-B O O O O O O PER-B O PER-B O O O O O O O O O O O O O

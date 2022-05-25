@@ -1,13 +1,13 @@
-선생은 또다시 부인회 간부 42명과 함께 체포되었다 .	O O O O O O O O
-한편 아이유와 박명수의 '레옹'은 음원 공개 이후 15분 만에 각종 음원차트 1위를 차지하는 기염을 토하였다 .	O PER-B PER-B O O O O O O O O O O O O O
-가장 크+ㄴ 변수는 호남이다 .	O O O LOC-B O
-25일 JYP엔터테인먼트 측은 공식 트위터를 통하+여 “미쓰에이 7집 앨범 ‘컬러스’ 티저 이미지, 미쓰에이 컬러스 수지” +이라는 글과 함께 수지의 티저 이미지 여러 장을 올리었다 .	O ORG-B O O O O ORG-B O O O O O ORG-B O PER-B ORG-I O O PER-B O O O O O O
-그리스 정부 “9일까지 IMF에 부채 4억 5800만 유로 갚겠다 .	LOC-B ORG-B O ORG-B O MNY-B MNY-I MNY-I O O
-조지 W 부시 행정부에서 국무장관을 지내+ㄴ콘돌리자 라이스도 트럼프 후보 사퇴를 요구하였다 .	PER-B PER-I PER-I O O PER-B PER-I PER-B O O O O
-그는 SBS 예능 ‘동상이몽’에 유재석 보조MC로 출연하+ 여탁월하+ㄴ 진행능력과 끼를 드러내며 ‘리틀 유재석’이란 수식어를 얻었다 .	O ORG-B O O O O O O O O O PER-B PER-I O O O
-우승 150점, 준우승 80점 등 40위까지 주어지며 메이저대회에서는 두 배의 점수가 부여되 +ㄴ다 .	O O O O O O O O O O O O O O
-재판부는 “가정부에게 수천만원을 빌리고도 제대로 갚지 않고 오히려 유흥업종사자를 동원하+여가정부를 협박하+여 채무를 면제받은 점도 죄책이 가볍지 않은데도 잘못을 반성하지 않고 책임을 회피하는 데 급급하+여엄정 하+ㄴ 처벌이 불가피하다”고 덧붙이었다 .	O O MNY-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-지난해 여름 고명진(28)의 이적과 시즌 종료 후 몰리나(36)와의 계약해지 등으로 공백이 생기+ㄴ미드필드에는 국내 선수를 대거 영입하였다 .	O O PER-B O O O O PER-B O O O O O O O O O
-김선아는 KBS2TV ‘프로듀사’에 출연하면서 시청자에 눈도장을 찍었다 .	PER-B O O O O O O O
-법원은 올해 1월 오전 대표의 배임 혐의 등에 대하+여서는 유죄를 선고하고 주가조작에 대하+여서는 무죄 +이라고 판결하였다 .	ORG-B O O PER-B O O O O O O O O O O O O O
-‘영혼의 집’과 함께 3부작을 잇는 ‘운명의 딸’(1999)과 ‘세피아 빛 초상’(2000)도 비슷하+ㄴ 구조+이다 .	O O O O O O O O O O O O O
+선생 은 또다시 부인회 간부 42 명 과 함께 체포 됐 다 .	O O O O O O O O O O O O O
+한편 아이유 와 박명수 의 ' 레옹 ' 은 음원 공개 이후 15 분 만 에 각종 음원 차트 1 위 를 차지하 는 기염 을 토 했 다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+가장 큰 변수 는 호남 이 다 .	O O O O LOC-B O O O
+25 일 JYP 엔터테인먼트 측 은 공식 트위터 를 통해 “ 미쓰에 이 7 집 앨범 ‘ 컬러스 ’ 티저 이미지 , 미쓰에 이 컬러스 수지 ” 라는 글 과 함께 수지 의 티저 이미지 여러 장 을 올 렸 다 .	DAT-B DAT-I ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O O ORG-B ORG-I O PER-B O O O O O PER-B O O PER-B O O O O O O O
+그리스 정부 “ 9 일 까지 IMF 에 부채 4 억 5800 만 유로 갚 겠 다 ”	LOC-B ORG-B O DAT-B DAT-I O ORG-B O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O
+조지 W 부시 행정부 에서 국무 장관 을 지낸 콘돌리자 라이스 도 트럼프 후보 사퇴 를 요구 했 다 .	PER-B PER-I PER-I O O O O O O PER-B PER-I O PER-B O O O O O O O
+그 는 SBS 예능 ‘ 동상이몽 ’ 에 유재석 보조 MC 로 출연해 탁월한 진행 능력 과 끼 를 드러내 며 ‘ 리틀 유재석 ’ 이 란 수식어 를 얻 었 다 .	O O ORG-B O O O O O PER-B O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O
+우승 150 점 , 준우승 80 점 등 40 위 까지 주어지 며 메이저 대회 에서 는 두 배 의 점수 가 부여된다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+재판부 는 “ 가정부 에게 수천만 원 을 빌리 고도 제대로 갚 지 않 고 오히려 유흥업 종사자 를 동원해 가정부 를 협박해 채무 를 면제 받 은 점 도 죄책 이 가볍 지 않 은데 도 잘못 을 반성하 지 않 고 책임 을 회피하 는 데 급급해 엄정한 처벌 이 불가피하 다 ” 고 덧붙 였 다 .	O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 여름 고명진 ( 28 ) 의 이적 과 시즌 종료 후 몰리나 ( 36 ) 와 의 계약 해지 등 으로 공백 이 생긴 미드필드 에 는 국내 선수 를 대거 영입 했 다 .	O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+김선아 는 KBS 2 TV ‘ 프로듀사 ’ 에 출연하 면서 시청자 에 눈도장 을 찍 었 다 .	PER-B O O O O O O O O O O O O O O O O O O
+법원 은 올해 1 월 오 전 대표 의 배임 혐의 등 에 대해서 는 유죄 를 선고하 고 주가 조작 에 대해서 는 무죄 라고 판결 했 다 .	ORG-B O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 영혼 의 집 ’ 과 함께 3 부 작 을 잇 는 ‘ 운명 의 딸 ’ ( 1999 ) 과 ‘ 세피아 빛 초상 ’ ( 2000 ) 도 비슷한 구조 다 .	O O O O O O O O O O O O O O O O O O O DAT-B O O O O O O O O DAT-B O O O O O O

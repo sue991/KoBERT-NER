@@ -1,15 +1,15 @@
-클린턴의 주적이 트럼프 +이라면 내부의 적은 집요하+ㄴ클린턴 비방공세를 펼치는 샌더스다 .	PER-B O O O O O PER-B O O O O
-샌더스는 23일 AP와의 인터뷰에서 “(7월 말의) 전당대회는 지저분하+여(messy) 질 것”이라고 예고하였다 .	ORG-B O ORG-B O O O O O O O O O
-중국 저가 공습은 위협… R&D로 기술격차 더 벌리+어 .	ORG-B O O O O O O O O
-김일엽과 나혜석은 1896년생 동갑내기.이들은 공통점이 많다 .	PER-B PER-B O O O O O
-미래에셋생명보험, 8일 코스피시장 상 .	ORG-B O O O O
-주승용-김성식 원내대표 경 .	PER-B O O O
-KLPGA팀은 4일 일본 나고야 미요시골프장(파72)에서 열리+ㄴ대회 사흘째 결승 전 싱글 매치 플레이에서 JLPGA 선발팀을 상대로 7승1무를 기록하며 승점 15를 획득 하+여우승하였다 .	ORG-B O LOC-B LOC-B LOC-B O O O O O O O ORG-B ORG-I O O O O O O O O
-디엔컴퍼니의 대표 메디컬 코스메틱 브랜드 이지듀가 대웅제약의 독자 성분이 +ㄴ DW-EGF(sh-Oligopeptide-1)가 함유되 +ㄴ 기능성 크림 ‘이지듀 데일리디더블유이지에프크림’(EasydewdailyDW-EGFC ream)을 출시하+ㄴ다고 28일 밝히었다 .	ORG-B O O O O ORG-B ORG-B O O O O O O O O ORG-B ORG-B O O O O O
-DW-EGF는 대웅제약 순수 기술로 의약품화에 성공하+ㄴ상피세포 성장인자(EGF, Epidermalgrowthfac tor)이다 .	O ORG-B O O O O O O O O
-넥슨은 5명으로 꾸리+어지+ㄴ 소규모 개발팀이 만들 +ㄴ 참신하+ㄴ 모바일게임들을 잇따르 아출시하며 차별화 되+ㄴ게임을 선보이고 있다 .	ORG-B O O O O O O O O O O O O O O O
-이외에 아버지 교육과 맞벌이, 한부모, 조손, 다문화가족 등에 특화되+ㄴ 프로그램도 제공 하+ㄴ다 .	O O O O O O O O O O O O O
-북일고 3학년이던 2009년 시카고 컵스와 계약 하+ㄴ 뒤이듬해 미국으로 건너가 +았지만, 끝내 한국으로 유턴 하+여신인 드래프트에 참가하였다 .	ORG-B O O ORG-B ORG-I O O O LOC-B O O O LOC-B O O O O O
-김동엽은 프리배팅뿐만 아니라, 투수들이 직접 공을 던지는 라이브 배팅에서도 홈런을 펑펑 터트리+ㄹ 정도로 스프링캠프 초반부터 주목받았다 .	PER-B O O O O O O O O O O O O O O O O
-메르스가 확산 조짐을 보이자 국내 코스피지수는 3일 연속 하락하였다 .	O O O O O O O O O O
-“2개 지역 동시 전쟁 때 +ㄴ 유엔 파견 군 철수 하+여야”/미 국 .	O O O O O O ORG-B O O O ORG-B O O
+클린턴 의 주적 이 트럼프 라면 내부 의 적 은 집요한 클린턴 비방 공세 를 펼치 는 샌더스 다 .	PER-B O O O PER-B O O O O O O PER-B O O O O O O O O
+샌더스 는 23 일 AP 와 의 인터뷰 에서 “ ( 7 월 말 의 ) 전당 대회 는 지저분해 ( messy ) 질 것 ” 이라고 예고 했 다 .	ORG-B O DAT-B DAT-I ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+중국 저가 공습 은 위협 … R & D 로 기술 격차 더 벌려라	ORG-B O O O O O O O O O O O O O
+김일엽 과 나혜석 은 1896 년 생 동갑내기 . 이 들 은 공통점 이 많 다 .	PER-B O PER-B O DAT-B DAT-I O O O O O O O O O O O
+미래에셋 생명 보험 , 8 일 코스피 시장 상장	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O
+주승용 - 김성식 원내 대표 경선	PER-B O PER-B O O O
+KLPGA 팀 은 4 일 일본 나고야 미요시 골프장 ( 파 72 ) 에서 열린 대회 사흘 째 결승전 싱글 매치 플레이 에서 JLPGA 선발팀 을 상대 로 7 승 1 무 를 기록하 며 승점 15 를 획득해 우승 했 다 .	ORG-B ORG-I O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+디엔 컴퍼니 의 대표 메디컬 코스메틱 브랜드 이지 듀가 대웅제약 의 독자 성분 인 DW - EGF ( sh - Oligopeptide - 1 ) 가 함유된 기능성 크림 ‘ 이지 듀 데일리 디 더블유 이 지에프 크림 ’ ( Easydew daily DW - EGF Cream ) 을 출시한다고 28 일 밝 혔 다 .	ORG-B ORG-I O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+DW - EGF 는 대웅제약 순수 기술 로 의약품 화 에 성공한 상피 세포 성장 인자 ( EGF , Epidermal growth factor ) 이 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+넥슨 은 5 명 으로 꾸려 진 소규모 개발 팀 이 만든 참신한 모바일 게임 들 을 잇따 라 출시하 며 차별화된 게임 을 선보이 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 외 에 아버지 교육 과 맞벌이 , 한 부모 , 조손 , 다 문화 가족 등 에 특화된 프로그램 도 제공한다 .	O O O O O O O O O O O O O O O O O O O O O O O
+북일 고 3 학년 이 던 2009 년 시카고 컵스 와 계약한 뒤 이듬해 미국 으로 건너갔 지만 , 끝내 한국 으로 유턴해 신인 드래프트 에 참가 했 다 .	ORG-B ORG-I O O O O DAT-B DAT-I ORG-B ORG-I O O O O LOC-B O O O O O LOC-B O O O O O O O O O
+김동엽 은 프리 배팅 뿐 만 아니 라 , 투수 들 이 직접 공 을 던지 는 라이브 배팅 에서 도 홈런 을 펑펑 터트릴 정도 로 스프링 캠프 초반 부터 주목 받 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+메르스 가 확산 조짐 을 보이 자 국내 코스피 지수 는 3 일 연속 하락 했 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O
+“ 2 개 지역 동시 전쟁 땐 유엔 파견 군 철수해야 ” / 미 국방	O O O O O O O ORG-B O O O O O ORG-B O

@@ -1,15 +1,15 @@
-NBA의 평균(4.8m)보다 14cm 이상 높다 .	ORG-B O O O O O
-통영시는 주민들의 요구에 따르 아2015년 7월 전체인버터를 교체하는 공사를 +였다 .	LOC-B O O O O O O O O O O
-하지만 케네디 대통령은 참모들의 다양하+ㄴ의견을 듣어 폭격 대신 쿠바 해역을 봉쇄하는 안을 택하 +ㄴ다 .	O PER-B O O O O O O LOC-B O O O O O O
-8일 박병호는 서울 목동구장에서 케이티 위즈와 치르+ㄴ 시범경기 2차전에 4번 타자 겸 1루수로 선발출장하였다 .	O PER-B LOC-B LOC-B ORG-B ORG-I O O O O O O O O O
-이 보고서는 1903년 고종의 즉위 40주년을 축하하는 사절로 한국에 오+ㄴ 베베르 공사가 그해 4월 러시아 본국에 보내+ㄴ 것으로 러시아 대외 정책 문서 보관소에 보관되+어 있다 .	O O O PER-B O O O O ORG-B O PER-B O O O ORG-B O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O
-한국 남자사격의 간판은 진종오(36·KT) +이다 .	ORG-B O O ORG-B O O
-남자 공기권 총 10m와 50m에서 4개의 세계기록을 보유하고 있는 진종오는 내년 브라질 리우데자네이루 올림픽에서 세대회 연속 금메달에 도전하+ㄴ다 .	O O O O O O O O O PER-B O O O O O O O O O
-제주항공은 객실승무원 100여명을 채용 하+ㄹ 계획이라고 밝히었다 .	ORG-B O O O O O O O
-창업이유에 대하+여서 +ㄴ ‘돈을 많이 벌고 싶어서’+이라는 답변이 25.8%로 가장 많았다 .	O O O O O O O O O O O O
-6일 미래창조과학부가 선정하+ㄴ 8개 ‘소프트웨어(SW) 중심대학’에 관심이 쏠리고 있다 .	O ORG-B O O O O O O O O
-네이처리퍼블릭 측은 “최근 남성들이 기본 보습 외에 안티에이징 등 세부 기능과 성분에도 많은 관심을 보이+ㅁ에 따르 아맞춤형 스킨케어 제품을 출시하였다 “+이면서 “한국 남성 화장품 시장이 글로벌 화장품 브랜드의 주요 전략지로 주목받고 있는 만큼 앞으로도 자연성분을 강화하+ㄴ 다양하+ㄴ 형태의 남성 제품을 선보이+ㄹ 계획이다”라고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-또한 포커페이스의 달이+ㄴ 신디가 팔짱을 끼+ㄴ 채무표정 하+ㄴ 표정으로 앞을 바라보다가 미묘하게 바뀌+ㄴ 표정으로 창밖을 바라보고 있어 그에게 무슨 일이 벌어지었는지 궁금을 불러일으키고 있다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O
-올 초 통전부장으로 자리를 옮기+ㄴ 김영철이 대남 공작을 총괄하던 인민군 정찰총국장을 맡고 있던 지난해 대좌(준장과 대령 사이)가 탈북하+여 한국에 +았다고 정부 당국이 밝히었기 때문이다 .	O O O O O PER-B O O O ORG-B O O O O O O O O LOC-B O O O O O O
-보증금을 9756만원으로 올리면 월세는 10만원으로 내려가 +ㄴ다 .	O MNY-B O O MNY-B O O O
-그러나 류창혁 육단은 한국킬러로 불리는 일본의 요다(의전기기) 구단에 백을 들+이고 불계패하였다 .	O PER-B O O O ORG-B ORG-B O O O O O
+NBA 의 평균 ( 4.8 m ) 보다 14 cm 이상 높 다 .	ORG-B O O O O O O O O O O O O O
+통영시 는 주민 들 의 요구 에 따 라 2015 년 7 월 전체 인버터 를 교체하 는 공사 를 했 다 .	LOC-B O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+하지만 케네디 대통령 은 참모 들 의 다양한 의견 을 들 어 폭격 대신 쿠바 해역 을 봉쇄하 는 안 을 택한다 .	O PER-B O O O O O O O O O O O O LOC-B O O O O O O O O
+8 일 박병호 는 서울 목동구장 에서 케이티 위즈 와 치른 시범 경기 2 차 전 에 4 번 타자 겸 1 루 수 로 선발 출장 했 다 .	DAT-B DAT-I PER-B O LOC-B LOC-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+이 보고서 는 1903 년 고종 의 즉위 40 주년 을 축하하 는 사절 로 한국 에 온 베베르 공사 가 그해 4 월 러시아 본국 에 보낸 것 으로 러시아 대외 정책 문서 보관소 에 보관돼 있 다 .	O O O DAT-B DAT-I PER-B O O O O O O O O O ORG-B O O PER-B O O O DAT-B DAT-I ORG-B O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O
+한국 남자 사격 의 간판 은 진종오 ( 36 · KT ) 다 .	ORG-B O O O O O PER-B O O O ORG-B O O O
+남자 공기 권총 10 m 와 50 m 에서 4 개 의 세계 기록 을 보유하 고 있 는 진종오 는 내년 브라질 리우데자네이루 올림픽 에서 세 대회 연속 금메달 에 도전한다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+제주 항공 은 객실 승무원 100 여 명 을 채용할 계획 이 라고 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
+창업 이유 에 대해선 ‘ 돈 을 많이 벌 고 싶 어서 ’ 라는 답변 이 25.8 % 로 가장 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+6 일 미래 창조 과학 부 가 선정한 8 개 ‘ 소프트웨어 ( SW ) 중심 대학 ’ 에 관심 이 쏠리 고 있 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+네이처리퍼블릭 측 은 “ 최근 남성 들 이 기본 보습 외 에 안티에이징 등 세부 기능 과 성분 에 도 많 은 관심 을 보임 에 따 라 맞춤 형 스킨케어 제품 을 출시 했 다 “ 면서 “ 한국 남성 화장품 시장 이 글로벌 화장품 브랜드 의 주요 전략 지 로 주목 받 고 있 는 만큼 앞 으로 도 자연 성분 을 강화한 다양한 형태 의 남성 제품 을 선보일 계획 이 다 ” 라고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 포커페이스 의 달인 신디 가 팔짱 을 낀 채 무표정한 표정 으로 앞 을 바라보 다가 미묘하 게 바뀐 표정 으로 창 밖 을 바라보 고 있 어 그 에게 무슨 일 이 벌어 졌 는지 궁금 을 불러일으키 고 있 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올 초 통전 부장 으로 자리 를 옮긴 김 영철이 대남 공작 을 총괄하 던 인민군 정찰 총국 장 을 맡 고 있 던 지난해 대좌 ( 준장 과 대령 사이 ) 가 탈북 해 한국 에 왔 다고 정부 당국 이 밝 혔 기 때문 이 다 .	O O O O O O O O PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+보증금 을 9756 만 원 으로 올리 면 월세 는 10 만 원 으로 내려간다 .	O O MNY-B MNY-I MNY-I O O O O O MNY-B MNY-I MNY-I O O O
+그러나 류창혁 육단 은 한국 킬러 로 불리 는 일본 의 요다 ( 의전 기기 ) 구단 에 백을들 고 불계패 했 다 .	O PER-B O O O O O O O ORG-B O PER-B O ORG-B ORG-I O O O O O O O O O

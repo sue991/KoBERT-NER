@@ -1,15 +1,15 @@
-수상자들에게 아낌없이 박수를 보내 +ㄹ 수 있도록 잔치 분위기를 제대로 조성하지 못하+ㄴ한국 프로축구연맹의 미숙 하+ㄴ 리더십에 대하+여우려하는 목소리가 만만하지 않았다 .	O O O O O O O O O O O O O O O O O O O O O
-1층의 고정관 중석은 없애고 이동식 좌석으로 교체하였다 .	O O O O O O O O
-동해남부 앞바다에서 1.0~3.0m로 높게 일다가 낮아지겠다 .	O O O O O O O
-예상 적설(25일 05시부터 24시까지)로는 제주도 산간 :5~10cm, 전라남도, 울릉도.독도 : 1~5cm, 충남 서해안, 전북 서해안, 제주도(산간 제외) : 1~3cm로 예측되었다 .	O O O O LOC-B O O LOC-B LOC-B O O LOC-B LOC-I LOC-B LOC-I LOC-B O O O O O
-한편 제주도에는 난기류(강풍경보 포함)와 대설경보가 이어지며 제주공항 항공기 운항 중단이 이어지고 있다 .	O LOC-B O O O O LOC-B O O O O O O
-한국공항공사는 24일 제주공항 항공기 운항 중단이 연장되면서 25일 결항편이 60편에서 390여편으로 늘어나게 +었다고 전하였다 .	LOC-I O LOC-B O O O O O O O O O O O O
-이에 국토교통부는 제주공항 항공기 운항통제시간을 25일 오후 8시까지 추가 연장 하+ㄴ다고 발표하였다 .	O ORG-B LOC-B O O O O O O O O O O
-국토교통부 측은 “안전하+ㄴ 항공기 운항을 위하+여운항 통제시간을 추가 연장하게 +었다”며 “기상여건이 좋아지는 대로 운항 재개 시간을 앞당기겠다”고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O
-대통령과 부통령을 경호하는 백악관 비밀경호국(SS)로버트 호백 대변인은 18일 CNN과의 인터뷰에서 “사건 당시 자택 안에 있던 경호요원이 총소리를 듣고 밖으로 나가 +았으나 용의 차량이 매우 빠르+ㄴ 속도로 달아나 +아검거에 실패하였다”고 말하였다 .	O O O ORG-B PER-B PER-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-하지만 당의 기반이 +ㄴ 호남에서는 아직 특정 후보가 독주를 벌이는 양상은 아니다 .	O O O O LOC-B O O O O O O O O
-FIFA 윤리위, 정몽준 명예부회장 조사 블래터 최측근 셰이크 살만, 출마 고려블래터 현 회장 영향력 유지 하+ㄹ지 주목공식적으로 차기 국제축구연맹(FIFA) 회장 선거 출마를 선언하+ㄴ 후보들이 줄줄이 위기를 맞고 있다 .	ORG-B ORG-I PER-B O O PER-B O PER-B PER-I O PER-B O O O O O O O ORG-B O O O O O O O O O O
-실제, 컨설팅을 마치 +ㄴ 판매자들은 프로그램 참여 후 전월 대비 매출이 평균 20% 이상 증가하였으며, 일부는 한 달 만에 2배(98%)가까이 매출이 늘었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-5호선 고덕역, 상일동역을 이용하+ㄹ 수 있고 9호선 4단계 연장선(3.80km)의 수혜지역으로 꼽히+ㄴ다 .	O LOC-B LOC-B O O O O O O O O O
-안녕하시+어요 오늘도 다들 즐겁ㄴ 스포츠 게임 라이프를 보내고 계시+ㄴ가요? 10월에는 피파, 위닝일레븐(해외 서비스 명 프로에볼루션 사커), NBA2K 시리즈 등 다양하+ㄴ스포츠 게임의 신작들이 쏟아지+어나오는 만큼 스포츠 게임 팬들의 마음도 점점 부풀고 있을 것이라 생각되+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-현재 조성되는 신도시 중 가장 규모가 크+ㄴ 동탄2신도시에서는 올 가을에만 4000채가 넘는 아파트가 선보이+ㄴ다 .	O O O O O O O LOC-B O O O O O O O
+수상자 들 에게 아낌없이 박수 를 보낼 수 있 도록 잔치 분위기 를 제대로 조성하 지 못한 한국프로축구연맹 의 미숙한 리더십 에 대해 우려하 는 목소리 가 만만 치 않 았 다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+1 층 의 고정 관중석 은 없애 고 이동 식 좌석 으로 교체 했 다 .	O O O O O O O O O O O O O O O O
+동해 남부 앞바다 에서 1.0 ~ 3.0 m 로 높 게 일 다가 낮 아 지 겠 다 .	O O O O O O O O O O O O O O O O O O O
+예상 적설 ( 25 일 05 시 부터 24 시 까지 ) 로 는 제주도 산간 : 5 ~ 10 cm , 전라남도 , 울릉도 . 독도 : 1 ~ 5 cm , 충남 서해안 , 전 북서 해안 , 제주도 ( 산간 제외 ) : 1 ~ 3 cm 로 예측 됐 다 .	O O O DAT-B DAT-I TIM-B TIM-I O TIM-B TIM-I O O O O LOC-B O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O LOC-B LOC-I O LOC-B LOC-I LOC-I O LOC-B O O O O O O O O O O O O O O
+한편 제주도 에 는 난기류 ( 강풍 경보 포함 ) 와 대설 경보 가 이어지 며 제주공항 항공기 운항 중단 이 이어지 고 있 다 .	O LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+한국공항공사 는 24 일 제주 공항 항공기 운항 중단 이 연장되 면서 25 일 결항 편 이 60 편 에서 390 여 편 으로 늘어나 게 됐 다고 전 했 다 .	ORG-B O DAT-B DAT-I LOC-B LOC-I O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+이 에 국토 교통 부 는 제주공항 항공기 운항 통제 시간 을 25 일 오후 8 시 까지 추가 연장한다고 발표 했 다 .	O O ORG-B ORG-I ORG-I O LOC-B O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O
+국토 교통 부 측 은 “ 안전한 항공기 운항 을 위해 운항 통제 시간 을 추가 연장하 게 됐 다 ” 며 “ 기상 여건 이 좋 아 지 는 대로 운항 재개 시간 을 앞당기 겠 다 ” 고 밝 혔 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대통령 과 부통령 을 경호하 는 백악관 비밀 경호 국 ( SS ) 로버트 호백 대변인 은 18 일 CNN 과 의 인터뷰 에서 “ 사건 당시 자택 안 에 있 던 경호 요원 이 총소리 를 듣 고 밖 으로 나갔 으나 용의 차량 이 매우 빠른 속도 로 달아나 검거 에 실패 했 다 ” 고 말 했 다 .	O O O O O O ORG-B O O O O O O PER-B PER-I O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 당 의 기반 인 호남 에서 는 아직 특정 후보 가 독주 를 벌이 는 양상 은 아니 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O
+FIFA 윤리 위 , 정몽준 명예 부회장 조사 블래터 최 측근 셰이크 살만 , 출마 고려 블래터 현 회장 영향력 유지할 지 주목 공식적 으로 차기 국제축구연맹 ( FIFA ) 회장 선거 출마 를 선언한 후보 들 이 줄줄이 위기 를 맞 고 있 다 .	ORG-B ORG-I ORG-I O PER-B O O O PER-B O O PER-B PER-I O O O PER-B O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+실제 , 컨설팅 을 마친 판매자 들 은 프로그램 참여 후 전월 대비 매출 이 평균 20 % 이상 증가 했 으며 , 일부 는 한 달 만 에 2 배 ( 98 % ) 가까이 매출 이 늘 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5 호 선 고덕역 , 상일동역 을 이용할 수 있 고 9 호 선 4 단계 연장선 ( 3.80 km ) 의 수혜 지역 으로 꼽힌다 .	O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O
+안녕하 세요 오늘 도 다 들 즐거 운 스포츠 게임 라이프 를 보내 고 계신가 요 ? 10 월 에 는 피파 , 위닝 일레븐 ( 해외 서비스 명 프로 에볼루션 사커 ) , NBA 2 K 시리즈 등 다양한 스포츠 게임 의 신작 들 이 쏟아져 나오 는 만큼 스포츠 게임 팬 들 의 마음 도 점점 부풀 고 있 을 것 이 라 생각됩니다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 조성되 는 신도시 중 가장 규모 가 큰 동탄 2 신도시 에서 는 올가을 에 만 4000 채 가 넘 는 아파트 가 선보인다 .	O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O

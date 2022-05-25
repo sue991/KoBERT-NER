@@ -1,12 +1,12 @@
-”변호사 신모씨(52)는 2008년 7월 서울 영등포구치소에서 사기 혐의 등으로 구속되+어 있던 오 모 씨를 접견 하+여이같이 말하며 로비 명목으로 1억원을 요구하였다 .	O PER-B O O ORG-B ORG-I O O O O O PER-B PER-I O O O O O O MNY-B O O
-경찰은 A씨에 대하+ㄴ 음주측정 결과 혈중알코올 농도가 면허정지에 해당하는 수치가 나오았다고 밝히었다 .	O PER-B O O O O O O O O O O O
-미국 프로골프(PGA) 투어에서도 다양하+ㄴ스포츠 뉴트리션 제품을 먹으면서 움직이+ㄴ다 .	ORG-B ORG-B O O O O O O O
-랍스터는 5㎞ 이내 연안에서 잡는다 .	O O O O O O
-더미+ㄴ주로 가는 것+ㄹ 언론을 통하+여 알았기 때문에 말리+ㄹ 틈이 없었다 .	ORG-B O O O O O O O O O O
-국민의당 박지원 비상대책위원장 겸 원내대표는 이날 민주당 퇴진운동본부 출범을 두고 “시민사회단체와 연대기구를 만들 +ㄹ 필요성을 못 느끼+ㄴ다”고 선을 긋었다 .	ORG-B PER-B O O O O ORG-B O O O O O O O O O O O O O
-한국 토종 반도체 전문가 이+ㄴ그에게는 늘 ‘세계 최초’+이라는 수식어가 따라다니+ㄴ다 .	ORG-B O O O O O O O O O O
-금강주택 2015년 2355 채 분 .	ORG-B O O O O O
-테마 전시관 ‘이노베이션시티(InnovationCity)’에 전시관을 마련하는 KT의 주제는 ‘5G를 통하+ㄴ 생활혁신(LifeI nnovationby5G)’이다 .	O O O O O ORG-B O O O O O O
-●빠르+ㄴ 투구 템포11일 LG타선을 상대하+ㄴ레일리는 빠르+ㄴ 투구 템포와 간결하+ㄴ 투구폼이 가장 먼저 눈에 띄었다 .	O O O ORG-B PER-B O O O O O O O O O O
-노사연, “심각하+ㄴ 부부 갈등 노래로 회복하였다 .	PER-B O O O O O O
-대체로 유럽 사람들은 성적으로 조숙하였던 것 같다 .	O LOC-B O O O O O O
+” 변호사 신 모 씨 ( 52 ) 는 2008 년 7 월 서울 영등포 구치소 에서 사기 혐의 등 으로 구속돼 있 던 오 모 씨 를 접견해 이 같이 말하 며 로비 명목 으로 1 억 원 을 요구 했 다 .	O O PER-B PER-I O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I ORG-I O O O O O O O O PER-B PER-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+경찰 은 A 씨 에 대한 음주 측정 결과 혈중 알코올 농도 가 면허 정지 에 해당하 는 수치 가 나 왔 다고 밝 혔 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+미국 프로 골프 ( PGA ) 투어 에서 도 다양한 스포츠 뉴트리 션 제품 을 먹 으면서 움직인다 .	ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O
+랍스터 는 5 ㎞ 이내 연안 에서 잡 는다 .	O O O O O O O O O O
+더민 주로 가 는 걸 언론 을 통해 알 았 기 때문 에 말릴 틈 이 없 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+국민 의당 박지원 비상 대책 위원장 겸 원내 대표 는 이날 민주당 퇴진 운동 본부 출범 을 두 고 “ 시민 사회단체 와 연대 기구 를 만들 필요성 을 못 느낀다 ” 고 선 을 그 었 다 .	ORG-B ORG-I PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 토종 반도체 전문가 인 그 에게 는 늘 ‘ 세계 최초 ’ 라는 수식어 가 따라다닌다 .	ORG-B O O O O O O O O O O O O O O O O O
+금강 주택 2015 년 2355 채 분양	ORG-B ORG-I DAT-B DAT-I O O O
+테마 전시관 ‘ 이노베이션 시티 ( Innovation City ) ’ 에 전시관 을 마련하 는 KT 의 주제 는 ‘ 5 G 를 통한 생활 혁신 ( Life Innovation by 5 G ) ’ 이 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+● 빠른 투구 템포 11 일 LG 타선 을 상대한 레일리 는 빠른 투구 템포 와 간결한 투구 폼 이 가장 먼저 눈 에 띄 었 다 .	O O O O DAT-B DAT-I ORG-B O O O PER-B O O O O O O O O O O O O O O O O O
+노사연 , “ 심각한 부부 갈등 노래 로 회복 했 다 ”	PER-B O O O O O O O O O O O
+대체로 유럽 사람 들 은 성적 으로 조숙 했 던 것 같 다 .	O LOC-B O O O O O O O O O O O O

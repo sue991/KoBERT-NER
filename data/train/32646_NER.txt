@@ -1,9 +1,9 @@
-현지 경찰은 현장 감식과 부검을 의뢰하는 한편, 사고 당시 A씨와 함께 술을 마시+ㄴ 한국인 2명을 상대로 조사에 나서 +었다 .	O O O O O O O O O PER-B O O O O O O O O O O
-최고의 내한스타는 한국팬들에게 남기+ㄴ자필 편지 마지막에 삐뚤빼뚤 하+ㄴ한 글로 서명을 하+여주+ㄴ ‘톰형님’(‘미션 임파서블’의 톰 크루즈)이+ㄹ듯.▽베스트 코스튬상=‘매너가 사람을 만들 +ㄴ다’며 양복점에 본부를 차리+ㄴ ‘킹스맨’에서 이미 눈치 채 +었다 .	O O LOC-B O O O O O O O O PER-B O PER-B PER-I O O O O O O O O O O O O O
-웹캠이 켜 +어지+어 피해자가 +었다는 한 여성의 증언이 나오았다 .	O O O O O O O O O O
-BMW가 새해 첫 달부터 글로벌 시장에서 자존심을 구기었다 .	ORG-B O O O O O O O O
-토론회 초반부에 두 후보가 30초간 묻고 40초간 답하는 코너는 답변 시간이 너무 짧아 스치듯 지나가 +아버리+어시간 낭비+이라는 지적도 나오았다 .	O O O O O O O O O O O O O O O O O O O O
-“잘 부르네요. 흐뭇 하+ㅂ니다” +이라는 글과 함께 올라오+ㄴ이 영상 상단에는 ‘아프리카 아이들의 애국가’ +이라는 자막이 보이+ㄴ다 .	O O O O O O O O O O LOC-B O O O O O O
-YTN의 설명에 따르면 유엔 세계관광기구 스텝재단은 지나 +ㄴ 2007년부터 문화체육관광부의 지원을 받아 개발도상국 20개국에 작은 도서관을 짓는 사업을 벌이고 있다 .	ORG-B O O ORG-B ORG-I ORG-I O O O ORG-B O O O O O O O O O O O
-오리온은 ‘합리적 이+ㄴ 가격에 좋은 품질의 제품을 공급하+ㄴ다’는 철학에 따르 아소비자 만족을 최우선으로 하+ㄴ 제품 혁신을 지속하+여가+ㄴ다는 방침이다 .	ORG-B O O O O O O O O O O O O O O O O O O
-이미 자장사익 합동콘서트, 장사익"이미자와 한 무대에서 +어서영광 .	O PER-B O PER-B O O O O
+현지 경찰 은 현장 감식 과 부검 을 의뢰하 는 한편 , 사고 당시 A 씨 와 함께 술 을 마신 한국인 2 명 을 상대 로 조사 에 나섰 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+최고 의 내한 스타 는 한국 팬 들 에게 남긴 자필 편지 마지막 에 삐뚤빼뚤한 한글 로 서명 을 해 준 ‘ 톰 형님 ’ ( ‘ 미션 임파서블 ’ 의 톰 크루즈 ) 일 듯 . ▽ 베스트 코스튬 상 = ‘ 매너 가 사람 을 만든다 ’ 며 양복점 에 본부 를 차린 ‘ 킹스맨 ’ 에서 이미 눈치 챘 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+웹캠 이 켜 져 피해자 가 됐 다는 한 여성 의 증언 이 나 왔 다 .	O O O O O O O O O O O O O O O O O
+BMW 가 새해 첫 달 부터 글로벌 시장 에서 자존심 을 구 겼 다 .	ORG-B O O O O O O O O O O O O O O
+토론회 초반 부 에 두 후보 가 30 초 간 묻 고 40 초 간 답하 는 코너 는 답변 시간 이 너무 짧 아 스치 듯 지나가 버려 시간 낭비 라는 지적 도 나 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 잘 부르 네요 . 흐뭇합니다 ” 라는 글 과 함께 올라온 이 영상 상단 에 는 ‘ 아프리카 아이 들 의 애국가 ’ 라는 자막 이 보인다 .	O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+YTN 의 설명 에 따르 면 유엔 세계 관광 기구 스텝 재단 은 지난 2007 년 부터 문화 체육 관광부 의 지원 을 받 아 개발도상국 20 개국 에 작 은 도서관 을 짓 는 사업 을 벌이 고 있 다 .	ORG-B O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O DAT-B DAT-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+오리온 은 ‘ 합리적 인 가격 에 좋 은 품질 의 제품 을 공급한다 ’ 는 철학 에 따 라 소비자 만족 을 최우선 으로 한 제품 혁신 을 지속해 간다는 방침 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이미자 장사익 합동 콘서트 , 장사익 " 이미자 와 한 무대 에 서서 영광 "	O O O O O PER-B O PER-B O O O O O O O

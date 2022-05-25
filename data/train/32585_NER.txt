@@ -1,13 +1,13 @@
-한국토지주택공사(이하 LH)는 ‘독거노인 말 벗천사’ 서비스를 진행 중이라고 23일 밝히었다 .	ORG-B ORG-B O O O O O O O O O
-LH에 따르면 ‘독거노인 말 벗천사’ 서비스는 성남시 LH영구임대주택에 거주하는 독거노인이 대상이다 .	LOC-B O O O O O LOC-B LOC-B O O O O
-박 교수는 “무엇보다 검찰의 조사 과정에서 받은 상처와 충격이 너무 +었다”고 하+ㄴ다 .	PER-B O O O O O O O O O O O O
-이어 전현무가 김소영을 좋아하었던 것 같다고 추측하+여눈길을 끌었다 .	O PER-B PER-B O O O O O O
-롯데그룹이 진행 중 이+ㄴ지주회사 전환 작업 영향이 크지만 유통 부문의 실적 개선 기대감도 반영되었다 .	ORG-B O O O O O O O O O O O O O O
-26일 국토교통부에 따르면 3월 전국에서 건설인허가를 받은 주택은 6만1750채로 지난해 같은 달(5만2200채)보다 18.3% 증가하였다 .	O ORG-B O O O O O O O O O O O O O
-바이크 어빌리티(Bikeability·자전거 능력) +이란 브랜드로 1단계(9세 이하·기초주행 기술), 2단계(10~11세·도로 주행 및 도로교통법이해), 3단계(중학생 이상·고난도 자전거 타기)로 구성되었고, 각 단계 이수시 합격 배지를 부여하+ㄴ다 .	ORG-B ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O O O O
-이곳에는 주한미군 4만5000여명이 내년 말까지 이주하+ㄹ 예정이다 .	O ORG-B O O O O O O
-제대로 정부 지원금을 +었는지 확인하는 내용부터 대부분의 검증 과정을 세밀하게 기록하+ 여야 하다 보니 아예 인력을 한 명 붙이어야 하는 수준이었다 .	O O O O O O O O O O O O O O O O O O O O O O
-땅콩에는 비타민E, 셀레늄 등의 성분이 풍부하게 들어 있다 .	O O O O O O O O O
-음성 판정을 받은 이들은 지카 바이러스가 아니+ㄴ 감기 증상으로 조사되었다 .	O O O O O O O O O O O
-허 대표는 “프로젝트를 시작하+ㄴ지 10년 만에 상업생산이라는 결실을 눈앞에 두고 있다”며 “우즈베키스탄에서도 국내에서 생산되는 것과 동급의 제품을 생산하+여 중앙아시아는 물론 유럽시장 진출에도 유리 하+ㄴ고지에서 게 +었다”고 밝히었다 .	PER-B O O O O O O O O O O LOC-B O O O O O O LOC-B O LOC-B O O O O O O O
-대만에 첫 공산당 탄생/지방선거 후보 내기 .	ORG-B O ORG-B O O O O
+한국토지주택공사 ( 이하 LH ) 는 ‘ 독거노인 말벗 천사 ’ 서비스 를 진행 중 이 라고 23 일 밝 혔 다 .	ORG-B O O ORG-B O O O O O O O O O O O O O DAT-B DAT-I O O O O
+LH 에 따르 면 ‘ 독거노인 말벗 천사 ’ 서비스 는 성남시 LH 영구 임대 주택 에 거주하 는 독거노인 이 대상 이 다 .	ORG-B O O O O O O O O O O LOC-B LOC-B LOC-I LOC-I LOC-I O O O O O O O O O
+박 교수 는 “ 무엇 보다 검찰 의 조사 과정 에서 받 은 상처 와 충격 이 너무 컸 다 ” 고 한다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+이어 전 현무 가 김소영 을 좋아 했 던 것 같 다고 추측해 눈길 을 끌 었 다 .	O PER-B PER-I O PER-B O O O O O O O O O O O O O O
+롯데 그룹 이 진행 중 인 지주회사 전환 작업 영향 이 크 지만 유통 부문 의 실적 개선 기대감 도 반영 됐 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+26 일 국토 교통 부 에 따르 면 3 월 전국 에서 건설 인 허가 를 받 은 주택 은 6 만 1750 채 로 지난해 같 은 달 ( 5 만 2200 채 ) 보다 18.3 % 증가 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+바이크 어빌리티 ( Bike ability · 자전거 능력 ) 란 브랜드 로 1 단계 ( 9 세 이하 · 기초 주행 기술 ) , 2 단계 ( 10 ~ 11 세 · 도로 주행 및 도로교통법 이해 ) , 3 단계 ( 중학생 이상 · 고난도 자전거 타 기 ) 로 구성 됐 고 , 각 단계 이수시 합격 배지 를 부여한다 .	ORG-B ORG-I O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이곳 에 는 주한 미군 4 만 5000 여 명 이 내년 말 까지 이주할 예정 이 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O
+제대로 정부 지원금 을 썼 는지 확인하 는 내용 부터 대부분 의 검증 과정 을 세밀하 게 기록해야 하 다 보 니 아예 인력 을 한 명 붙 여야 하 는 수준 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+땅콩 에 는 비타민 E , 셀레늄 등 의 성분 이 풍부하 게 들 어 있 다 .	O O O O O O O O O O O O O O O O O O
+음성 판정 을 받 은 이 들 은 지카 바이러스 가 아닌 감기 증상 으로 조사 됐 다 .	O O O O O O O O O O O O O O O O O O O
+허 대표 는 “ 프로젝트 를 시작한 지 10 년 만 에 상업 생산 이 라는 결실 을 눈 앞 에 두 고 있 다 ” 며 “ 우즈베키스탄 에서 도 국내 에서 생산되 는 것 과 동급 의 제품 을 생산해 중앙아시아 는 물론 유럽 시장 진출 에 도 유리한 고지 에 서 게 됐 다 ” 고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O
+대만 에 첫 공산당 탄생 / 지방 선거 후보 내 기 로	ORG-B O O ORG-B O O O O O O O O

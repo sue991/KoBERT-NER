@@ -1,11 +1,11 @@
-그러나 코웨이 측의 해명에도 불구하고 소셜미디어에게시되 +ㄴ 사과문에는 코웨이의 늑장 대응을 비판하는 댓글로 채우어지고 있다 .	O ORG-B O O O O O O ORG-B O O O O O O O
-코웨이 측 사과문에 진정성이 없다는 의견도 보이+ㄴ다 .	ORG-B O O O O O O O
-섐블리가 차량 트렁크에 불을 내는 장면은 인근 감시카메라에 고스란히 포착되었다 .	PER-B O O O O O O O O O O
-엄마를 위하+여아들이 특별 하+ㄴ 이벤트를 준비하는데, 바로 아빠 조관우의 콘서트에서 펼쳐 지+ㄴ다 .	O O O O O O O O PER-B O O O O
-프로스포츠 7개 단체, 27일 마케팅 워크 .	O O O O O O O
-팬들에게 +ㄴ 트레이힐 만 감독이 하 선수단과 악수를 하고, 하이파이브를 하+ㄹ 기회+이다 .	O O PER-B PER-I O O O O O O O O O
-해군사관학교는 28일 본고사 성적 60%, 내신 성적 40%의 비율로 수능시험 성적 반영 없이 신입생을 선발하는 것을 골자로 하는 95학년도 신입생 모집요강을 확정, 발표하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-가장 주목받는 인물은 레오폴 도로페스(44) 민중의 지당 대표 +이다 .	O O O O O O O O O O
-박근혜 대통령의 탄핵에 따르 아2선으로 후퇴하며 몸을 낮추었던 친박(親박근혜)계 인사들이 속속 정치적 활동을 재개하고 있다 .	PER-B O O O O O O O PER-B O O O O O O O
-수요 미식회 간장게장 3대 맛집이 공개되었다 .	O O O O O O O
-이 땅(1237㎡, 374평)은 2002년 이 후보자의 부인을 거치+어 2011년차 남에게 다시 증여되었다 .	PER-B O O O PER-B O O O O O O O O
+그러나 코웨이 측 의 해명 에 도 불구하 고 소셜 미디어 에 게시된 사과문 에 는 코웨이 의 늑장 대응 을 비판하 는 댓글 로 채 워 지 고 있 다 .	O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+코웨이 측 사과문 에 진정 성 이 없 다는 의견 도 보인다 .	ORG-B O O O O O O O O O O O O
+섐블리 가 차량 트렁크 에 불 을 내 는 장면 은 인근 감시 카메라 에 고스란히 포착 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+엄마 를 위해 아들 이 특별한 이벤트 를 준비하 는데 , 바로 아빠 조관우 의 콘서트 에서 펼쳐진다 .	O O O O O O O O O O O O O PER-B PER-I O O O O
+프로 스포츠 7 개 단체 , 27 일 마케팅 워크숍	O O O O O O DAT-B DAT-I O O
+팬 들 에겐 트레이 힐 만 감독 이하 선수단 과 악수 를 하 고 , 하이파이브 를 할 기회 다 .	O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O
+해군 사관 학교 는 28 일 본고사 성적 60 % , 내신 성적 40 % 의 비율 로 수능 시험 성적 반영 없이 신입생 을 선발하 는 것 을 골자 로 하 는 95 학년도 신입생 모집 요강 을 확정 , 발표 했 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가장 주목 받 는 인물 은 레오폴도 로페스 ( 44 ) 민중 의지 당 대표 다 .	O O O O O O PER-B PER-I O O O O O O O O O
+박근혜 대통령 의 탄핵 에 따 라 2 선 으로 후퇴하 며 몸 을 낮 췄 던 친 박 ( 親 박근혜 ) 계 인사 들 이 속속 정치적 활동 을 재개하 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+수요미식회 간장 게장 3 대 맛집 이 공개 됐 다 .	O O O O O O O O O O O
+이 땅 ( 1237 ㎡ , 374 평 ) 은 2002 년 이 후보자 의 부인 을 거쳐 2011 년 차남 에게 다시 증여 됐 다 .	O O O O O O O O O O DAT-B DAT-I PER-B O O O O O DAT-B DAT-I O O O O O O O

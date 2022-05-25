@@ -1,15 +1,15 @@
-포시즌스 호텔그룹의 MIT 프로그램(ManagerinTrainingP rogram)은 리더십과 전문성을 갖추+ㄴ 관리자 배출을 위하+ㄴ 것으로 추후 매니저로 선정되+ㄹ 가능성이 높아 엘리베이터 프로그램으로 불리기도 하+ㄴ다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
-캠프 참가가 신입생 선발 심사 시 가산점 등 혜택으로 작용하지 않지만 학생들이 서울국제고 캠프에 참가 하+ㄴ후 스스로 동기를 부여하+여열심히 공부하였다는 증거+이다 .	O O O O O O O O O O O O O O O O O O O O O O
-‘배’를 다루+ㄴ장에서는 비너스의 볼록하+ㄴ 뱃살에서 출발하+ㄴ 사적사유를 엮었다 .	O O PER-B O O O O O O
-영업이익은 전년 2531억원 적자에서 흑자로 전환하였다 .	O O MNY-B O O O O
-그는 “호텔은 디테일 싸움”이라며 “새너제이 에어포트 호텔은 공항 근처 싸구려 호텔이미지를 바꾸기 위하+여 ‘새너제이 실리콘밸리’로 간판을 바꾸+어달았다 .	O O O O ORG-B ORG-I ORG-I O O O O O O ORG-B ORG-I O O O
-잦아들지 않는 인기에 힘입어 이병헌은 4일 오후 7시 서울 롯데시네마 월드타워에서 관객과 만나 +ㄴ다 .	O O O O PER-B O O O LOC-B LOC-B LOC-I O O O O
-3차례 대회, 스포츠 시청률 1위 “中 CCTV, 경기 늘리+어달라 요청”게임·현지 체육관 등 영역 확대 “1년 나+의 20억달러 가치 브랜드로”종합격투기 ROADFC가 중국에서 가+ㄹ수록 영향력을 확대하고 있다 .	O O O O O ORG-B ORG-I O O O O O O O O O MNY-B O O O ORG-B O O O O O
-그런 토스가 올해 내놓은 서비스 중의 하나가 간편대출이다 .	O ORG-B O O O O O O O
-사고 당시 11호 객차에 타고 있던 강씨는 『 열차가 잠시 정차 하+여 있다가 출발하기 직전 갑자기 꽝하는 소리가 나면서 유리창이 깨지고 열차 내 전기 불이 나 가+았으며 객차가 기우뚱거리며 30m쯤 밀려나가+았다』고 말하였다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-학과는 올해부터 정시와 수시전형을 수능 30% ++실기 70%로 통일하었다 .	O O O O O O O O O O
-전 비서실장은 건설업자들로부터 수의계약 특혜와 관련 하+여 300만원을, 군청 공무원으로부터 인사 연관 300만원을 받은 사실과 박 군수에게 2000만원을 건네+ㄴ 혐의로 기소되었다 .	PER-B O O O O O O MNY-B O O O O MNY-B O O PER-B O MNY-B O O O O
-햇볕을 충분히 쬐면 굳이 식품을 통하+여비타민D를 섭취하+ㄹ 필요가 없다 .	O O O O O O O O O O
-그러면서 그는 “공직선거법을 개정 하+여서 이와 같은 사태가 재발하지 않도록 ‘홍준표 방지법’을 공동 발의 하+ㄹ 계획”이라고 덧붙이었다 .	O O O O O O O O O O O O O O O O O O
-빌리는 트위터(https://twitt er. com/pablo3bands)에 그 장면을 찍은 사진을 올리었다 .	PER-B ORG-B O O O O O O O O
-새누리당은 소속 의원이 의원직을 상실하+ㄴ 인천서-강화을에 집중 하+여 의석을 뺏기지 않겠다는 입장이다 .	ORG-B O O O O LOC-B O O O O O O O
+포시즌스 호텔 그룹 의 MIT 프로그램 ( Manager in Training Program ) 은 리더십 과 전문 성 을 갖춘 관리자 배출 을 위한 것 으로 추후 매니저 로 선정될 가능성 이 높 아 엘리베이터 프로그램 으로 불리 기 도 한다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+캠프 참가 가 신입생 선발 심사 시 가산점 등 혜택 으로 작용하 지 않 지만 학생 들 이 서울 국제 고 캠프 에 참가한 후 스스로 동기 를 부여해 열심히 공부 했 다는 증거 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 배 ’ 를 다룬 장 에서 는 비너스 의 볼록한 뱃살 에서 출발한 사적 사유 를 엮 었 다 .	O O O O O O O O PER-B O O O O O O O O O O O O
+영업 이익 은 전년 2531 억 원 적자 에서 흑자 로 전환 했 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O O O
+그 는 “ 호텔 은 디테일 싸움 ” 이 라며 “ 새너제이 에어포트 호텔 은 공항 근처 싸구려 호텔 이미지 를 바꾸 기 위해 ‘ 새너제이 실리콘밸리 ’ 로 간판 을 바꿔 달 았 다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O
+잦아들 지 않 는 인기 에 힘입 어 이병헌 은 4 일 오후 7 시 서울 롯데시네마 월드 타워 에서 관객 과 만난다 .	O O O O O O O O PER-B O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-B LOC-I LOC-I O O O O O
+3 차례 대회 , 스포츠 시청률 1 위 “ 中 CCTV , 경기 늘려 달 라 요청 ” 게임 · 현지 체육관 등 영역 확대 “ 1 년 내 20 억 달러 가치 브랜드 로 ” 종합 격투기 ROAD FC 가 중국 에서 갈수록 영향력 을 확대하 고 있 다 .	O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O ORG-B O O O O O O O O O
+그런 토스 가 올해 내놓 은 서비스 중 의 하나 가 간편 대출 이 다 .	O ORG-B O O O O O O O O O O O O O O
+사고 당시 11 호 객차 에 타 고 있 던 강 씨 는 『 열차 가 잠시 정차해 있 다가 출발하 기 직전 갑자기 꽝하 는 소리 가 나 면서 유리창 이 깨지 고 열차 내 전기 불 이 나갔 으며 객차 가 기우뚱거리 며 30 m 쯤 밀려나갔 다 』 고 말 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+학과 는 올해 부터 정시 와 수시 전형 을 수능 30 %+ 실기 70 % 로 통일 했 다 .	O O O O O O O O O O O O O O O O O O O O
+전 비서실 장 은 건설 업자 들 로부터 수의 계약 특혜 와 관련해 300 만 원 을 , 군청 공무원 으로부터 인사 연관 300 만 원 을 받 은 사실 과 박 군수 에게 2000 만 원 을 건넨 혐의 로 기소 됐 다 .	PER-B O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O MNY-B MNY-I MNY-I O O O O O PER-B O O MNY-B MNY-I MNY-I O O O O O O O O
+햇볕 을 충분히 쬐 면 굳이 식품 을 통해 비타민 D 를 섭취할 필요 가 없 다 .	O O O O O O O O O O O O O O O O O O
+그러 면서 그 는 “ 공직 선거법 을 개정해서 이 와 같 은 사태 가 재발하 지 않 도록 ‘ 홍준표 방지 법 ’ 을 공동 발의할 계획 ” 이라고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+빌리 는 트위터 ( https : / / twitter . com / pablo 3 bands ) 에 그 장면 을 찍 은 사진 을 올 렸 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+새누리당 은 소속 의원 이 의원 직 을 상실한 인천 서 - 강화 을 에 집중해 의석 을 뺏기 지 않 겠 다는 입장 이 다 .	ORG-B O O O O O O O O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O

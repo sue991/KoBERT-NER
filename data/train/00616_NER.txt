@@ -1,16 +1,16 @@
-[부산/경남]“이바구 자전거 신기하+여요 .	LOC-B ORG-I O O
-북한은 신경 쓰이+ㄹ 수밖에 없다”고 지적하였다 .	ORG-B O O O O O O
-금융감독원과 보험업계는 하반기 시행을 목표로 과제별 방안을 마련하고 일정에 맞추+어 추진하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O
-[차이나조이 2016] 아~덥겠다 .	O O O O
-화제의 영상은 기아자동차가 ‘당신의 Drive를 Re: Design 하+ㅂ니다’+이라는 주제로 진행 하+ㄴ 글로벌 캠페인 ‘GearUp’의 본편 영상이다 .	O O ORG-B O O O O O O O O O O O O O O
-지우+ㄴ 사진을 공개하었고 사진 속에는 차+ㄴ 열의 괴로움이 그대로 드러나 +았다 .	O O O O O PER-B PER-I O O O O O
-김규정 위원은 “상반기 청약에 성공하+ㄴ 사례가 잇따르면서 재건축 투자에 대하+ㄴ기대감이 커지+ㄴ 상황”이라며 “강남권을 중심으로 투자 수요가 유지되 +ㄹ 것”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-서울특별시장애인생활체육대회는 서울시의 연중 최대 장애인 생활체육대회이다 .	O ORG-B O O O O O
-여자축구 국가대표팀이 2일 일본 오사카에서 열리+ㄴ 2016 리우데자네이루 올림픽 아시아 지역 최종 예선 2차전에서 일본과 경기를 치르+ㄴ 곳은 길+ㄴ쵸 스타디움이다 .	O O O ORG-B LOC-B O O O O O O O O O ORG-B O O O O O O
-단지에서 가깝ㄴ 거리에 있는 수원역 주변과 동탄신도시의 대형 쇼핑, 문화시설까지 활용하+ㄹ 수 있어 풍부하+ㄴ 생활 인프라를 동시에 누리+ㄹ 수 있다 .	O O O O LOC-B O LOC-B O O O O O O O O O O O O O O
-LH 오산세교휴먼시아 꿈에그린 11단지 주변에는 녹지가 많아 쾌적 하+ㄴ 주거환경이 제공되 +ㄴ다 .	ORG-B LOC-B LOC-I LOC-I O O O O O O O O O
-현대·기아차 관계자는 “이번 기회를 계기로 우리의 자율주행 기술력을 확인하고 자율주행차에 대하+ㄴ 끊임없는 투자와 연구활동을 통하+여자율주행차 상용화를 위하+여 박차를 가하+ㄹ 것”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-그것+이 가장 고무적이다”고 1차 스프링캠프의 소득을 밝히었다 .	O O O O O O O O
-신씨 휴대전화는 실종 다음날 이+ㄴ 11일 오후 4시30분 경 사체가 발견되+ㄴ 건물 주변에서 신호가 끊기었다 .	PER-B O O O O O O O O O O O O PER-B O O
-김준호 가 뭇 남성들의 시기와 질투를 부르+ㄴ다 .	PER-B O O O O O O O
-곽현화 동의 없이 ‘무삭제 노출판’ 공개 하+ㄴ영화감독 불구속 기 .	PER-B O O O O O O O O O
+[ 부산 / 경남 ] “ 이바구 자전거 신기해요 ”	O LOC-B O LOC-B O O ORG-B ORG-I O O
+북한 은 신경 쓰일 수 밖에 없 다 ” 고 지적 했 다 .	ORG-B O O O O O O O O O O O O O
+금융 감독 원 과 보험업 계 는 하반기 시행 을 목표 로 과제 별 방안 을 마련하 고 일정 에 맞춰 추진할 예정 이 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+[ 차이나 조이 2016 ] 아 ~ 덥 겠 다 ,	O O O DAT-B O O O O O O O
+화제 의 영상 은 기아자동차 가 ‘ 당신 의 Drive 를 Re : Design 합니다 ’ 라는 주제 로 진행한 글로벌 캠페인 ‘ Gear Up ’ 의 본 편 영상 이 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지운 사진 을 공개 했 고 사진 속 에 는 찬 열 의 괴로움 이 그대로 드러났 다 .	O O O O O O O O O O PER-B PER-I O O O O O O O
+김규정 위원 은 “ 상반기 청약 에 성공한 사례 가 잇따르 면서 재건축 투자 에 대한 기대감 이 커진 상황 ” 이 라며 “ 강남 권 을 중심 으로 투자 수요 가 유지될 것 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울특별시 장애인 생활 체육 대회 는 서울시 의 연중 최대 장애인 생활 체육 대회 이 다 .	O O O O O O ORG-B O O O O O O O O O O
+여자 축구 국가 대표 팀 이 2 일 일본 오사카 에서 열린 2016 리우데자네이루 올림픽 아시아 지역 최종 예선 2 차 전 에서 일본 과 경기 를 치른 곳 은 긴 쵸 스타디움 이 다 .	O O O O O O DAT-B DAT-I LOC-B LOC-B O O DAT-B O O O O O O O O O O ORG-B O O O O O O O O O O O O
+단지 에서 가까 운 거리 에 있 는 수원역 주변 과 동탄 신도시 의 대형 쇼핑 , 문화 시설 까지 활용할 수 있 어 풍부한 생활 인프라 를 동시 에 누릴 수 있 다 .	O O O O O O O O LOC-B O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O
+LH 오산 세교 휴먼 시아 꿈에 그린 11 단지 주변 에 는 녹지 가 많 아 쾌적한 주거 환경 이 제공된다 .	ORG-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O
+현대 · 기아차 관계자 는 “ 이번 기회 를 계기 로 우리 의 자율 주행 기술력 을 확인하 고 자율 주행 차 에 대한 끊임없 는 투자 와 연구 활동 을 통해 자율 주행 차 상용 화 를 위해 박차 를 가할 것 ” 이라고 말 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그게 가장 고무적 이 다 ” 고 1 차 스프링캠프 의 소득 을 밝 혔 다 .	O O O O O O O O O O O O O O O O O
+신 씨 휴대 전화 는 실종 다음 날 인 11 일 오후 4 시 30 분 경 사체 가 발견된 건물 주변 에서 신호 가 끊 겼 다 .	PER-B O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O
+김준호 가 뭇 남성 들 의 시기 와 질투 를 부른다 .	PER-B O O O O O O O O O O O
+곽현화 동의 없이 ‘ 무 삭제 노 출판 ’ 공개한 영화감독 불구속 기소	PER-B O O O O O O O O O O O O

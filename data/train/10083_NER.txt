@@ -1,14 +1,14 @@
-‘류현진 선발’ 18일 텍사스 전 선발 등판, "추신수는 아직 발목이 아프아서… .	PER-B O O O O O O PER-B O O O O
-평상·이완과 같은 긍정적 이+ㄴ 감성부터 불쾌·공포와 같은 부정적 이+ㄴ 감성까지 최대 200개까지 분류하+ㄴ다 .	O O O O O O O O O O O O O O
-자칫 방심으로 흐르+ㄹ 수 있는 선수단 분위기를 다잡아 한국시리즈 우승을 이루+어내+어야 하+ㄴ다 .	O O O O O O O O O O O O O
-러­이+ㄹ, 핵폐기 시설 공동건설/「동해 투기」방지 협상 성 .	ORG-B O O O O O O O
-친박(친박근혜)계의 사퇴 압박을 받고 있는 유승민 원내대표는 여권 차기 대선주자 지지도에서 지난달에 비하+여2.0%포인트 상승 하+ㄴ5.4%로 두 계단 오르+ㄴ 4위를 차지하였다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O
-2번 사수는 ‘분위기 메이커’ 구본찬, 3번 사수 자리는 승부 사이승윤이 맡는다 .	O O O O PER-B O O O O PER-B O O
-테슬라는 오랫동안 에디슨의 빛에 가려 지+ㄴ ‘미치+ㄴ과학자’ +이었다 .	PER-B O PER-B O O O O O O
-안창호 헌법재판관도 탄핵심판 결정문에 ‘권력공유형 분권제’ 개헌을 제안하면서 “개헌이 정치세력 간 권력투쟁이나 담합의장으로 전락하+여서 +ㄴ 안 되+ㄴ다”고 경계하+ㄴ바 있다 .	PER-B O O O O O O O O O O O O O O O O O O O
-현지 상주 전문 포토그래를 통하+여오전 또는 오후 3시간 촬영 후보 정컷을 포함하+ㄴ 사진 530컷을 제공하+ㄴ다 .	O O O O O O O O O O O O O O O O
-초기 8개월간 정착 지원금을 제공하며, 매월 등급별 판촉지원금과 6개월 단위로 지급하는 적립 인센티브를 통하+여안정적 이+ㄴ 수익을 지원 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-아울러 판매 네트워크의 음영지역을 해소하고 추가적 이+ㄴ 고객 접점을 확보하기 위하+여오는 2016년까지 전국의 영업소 개수를 200개까지 확대하+여나가 +ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O O O
-쌍용차 오토매니저 공개 모집은 인터넷을 통하+여이루어지며, 자세 하+ㄴ 내용 확인 또는 지원을 원하는 사람은 쌍용차 홈페이지(www.smotor. com) 또는 채용 홈페이지(www.smotorecruit. co.kr)를 방문하면 되+ㄴ다 .	ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O
-이곳도 담수전에는 겨울이면 100여 마리의 두루미가 겨울을 나던 곳이 +ㅂ니다 .	O O O O O O O O O O O
-이어 증거자료로 박보검과 함께 찍은 사진과 프로그램 출연 직전 주고받은 문자 내용을 공개하였다 .	O O PER-B O O O O O O O O O O O
+‘ 류현진 선발 ’ 18 일 텍사스 전 선발 등판 , " 추신수 는 아직 발목 이 아 파서 … "	O PER-B O O DAT-B DAT-I O O O O O O PER-B O O O O O O O O
+평상 · 이완 과 같 은 긍정적 인 감성 부터 불쾌 · 공포 와 같 은 부정적 인 감성 까지 최대 200 개 까지 분류한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+자칫 방심 으로 흐를 수 있 는 선수단 분위기 를 다잡 아 한국 시리즈 우승 을 이뤄 내야 한다 .	O O O O O O O O O O O O O O O O O O O O
+러 ­ 일 , 핵 폐기 시설 공동 건설 / 「 동해 투기 」 방지 협상 성과	ORG-B O ORG-B O O O O O O O O O O O O O O
+친 박 ( 친 박근혜 ) 계 의 사퇴 압박 을 받 고 있 는 유승민 원내 대표 는 여권 차기 대선 주자 지지 도 에서 지난달 에 비해 2.0 % 포인트 상승한 5.4 % 로 두 계단 오른 4 위 를 차지 했 다 .	O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 번 사수 는 ‘ 분위기 메이커 ’ 구본찬 , 3 번 사수 자리 는 승부 사 이승윤 이 맡 는다 .	O O O O O O O O PER-B O O O O O O O O PER-B O O O O
+테슬라 는 오랫동안 에디슨 의 빛 에 가려진 ‘ 미친 과학자 ’ 였 다 .	PER-B O O PER-B O O O O O O O O O O O
+안창호 헌법 재판관 도 탄핵 심판 결정 문 에 ‘ 권력 공유 형 분권 제 ’ 개헌 을 제안하 면서 “ 개헌 이 정치 세력 간 권력 투쟁 이나 담합 의 장 으로 전락해선 안 된다 ” 고 경계한 바 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현지 상주 전문 포토 그래 를 통해 오전 또는 오후 3 시간 촬영 후 보정 컷 을 포함한 사진 530 컷 을 제공한다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+초기 8 개월 간 정착 지원금 을 제공하 며 , 매월 등급 별 판촉 지원금 과 6 개월 단위 로 지급하 는 적립 인센티브 를 통해 안정적 인 수익 을 지원한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아울러 판매 네트워크 의 음영 지역 을 해소하 고 추가적 인 고객 접점 을 확보하 기 위해 오 는 2016 년 까지 전국 의 영업소 개수 를 200 개 까지 확대해 나갈 계획 이 다 .	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+쌍용차 오토 매니저 공개 모집 은 인터넷 을 통해 이뤄지 며 , 자세한 내용 확인 또는 지원 을 원하 는 사람 은 쌍용차 홈페이지 ( www . smotor . com ) 또는 채용 홈페이지 ( www . smotorecruit . co . kr ) 를 방문하 면 된다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이곳 도 담수 전 에 는 겨울 이 면 100 여 마리 의 두루미 가 겨울 을 나 던 곳 입니다 .	O O O O O O O O O O O O O O O O O O O O O O
+이어 증거 자료 로 박보검 과 함께 찍 은 사진 과 프로그램 출연 직전 주고받 은 문자 내용 을 공개 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O

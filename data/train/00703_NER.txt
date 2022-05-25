@@ -1,18 +1,18 @@
-[영상] I 'mYourFath er!' 스타워즈'가 다가오+ㄴ다 .	O O O O O O O
-견본주택은 경기 화성시 방교리 29-1번지에 위치하+여 있으며, 2018년 12월 입주 예정이다 .	O LOC-B LOC-B LOC-B LOC-I O O O O O O O
-중국 인민해방군 해군 소속 함정이 1일 동중국해에서 미사일을 발사하고 있다 .	ORG-B O O O O O LOC-B O O O O
-농협, 1억 보이스피싱 감지범인 검거 돕 .	ORG-B MNY-B O O O O O
-전북 최강희 감독은 후반에 승부수를 띄우었다 .	ORG-B PER-B O O O O O
-하+ㄴ 영화의 배우를 주연과 조연, 단역으로 구분하는 일은 불필요하다 .	O O O O O O O O O O
-그러다가 2012년 대선에서 박근혜, 문재인 후보의 사실상 양자구도가 형성되면서 투표율은 다시 75.8%로 뛰어오르았다 .	O O O PER-B PER-B O O O O O O O O O
-교육부는 “컨설팅단을 구성하+ 여사업 계획부터 추진상황, 실적까지 상시 점검하고 대학이 도움을 받을 수 있도록 하+ㄹ 것”이라며 “진로교육, 취업, 창업지원은 고용노동부, 중소기업청과도 협업하+ㄹ 예정”이라고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O ORG-B ORG-B O O O O
-개혁·개방 30년의 성과로 중국이 다시 굴기(崛起·우뚝 섬) 하+였다는 사실을 세계 만방에 알리는 무대+이었다 .	O O O ORG-B O O O O O O O O O O
-사안의 심각성을 뒤늦게 깨닫은 검찰은 언론 보도로 최씨가 대통령의 연설문마저 사전에 입수하였다는 증거가 드러나자 당황하는 기색이 역력하다 .	O O O O O O O PER-B O O O O O O O O O O
-정세권은 왕십리 일대의 땅을 사들이며 일본의 계획을 막았다 .	PER-B LOC-B O O O ORG-B O O O
-국토부 관계자는 “해당 차량들은 이미 종합시험 운전 등의 완성검사를 모두 거치었으므로 안전운행에 지장이 없을 것으로 보+ㄴ다”고 해명하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-외환위기로 인하+여 한국은행이 동전 거래량을 줄이었기 때문이다 .	O O ORG-B O O O O O
-‘500원 희귀동전’의 도감 가는 5만원에 불과하지만 현재 시세는 70~80만원에 거래되고 있다 .	MNY-B O O O MNY-B MNY-I O O MNY-B O O O
-배우 송혜교가 드라마 사전 제작에 대하+ㄴ 장단점을 밝히었다 .	O PER-B O O O O O O O
-22일 오후 서울 강남 논현동 임피리얼 팰리스 호텔에서는 KBS2TV 새 수목 드라마 ‘태양의 후예’ 제작 발표회가 열리었다 .	O O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O
-이날 송혜교는 “급하게 찍지 않아서 이야기 하+ㄹ 시간이 많아서 좋았다 .	O PER-B O O O O O O O O O
-이 점은 아시아의 다른 신흥국가들에도 문제 이+ㅂ니다 .	O O LOC-B O O O O O
+[ 영상 ] I ' m Your Father ! ' 스타워즈 ' 가 다가온다 !	O O O O O O O O O O O O O O O
+견본 주택 은 경기 화성시 방교리 29 - 1 번지 에 위치해 있 으며 , 2018 년 12 월 입주 예정 이 다 .	O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+중국 인민 해방군 해군 소속 함정 이 1 일 동중국해 에서 미사일 을 발사하 고 있 다 .	ORG-B O O O O O O DAT-B DAT-I LOC-B O O O O O O O O
+농협 , 1 억 보이스 피싱 감지 범인 검거 도 와	ORG-B O MNY-B MNY-I O O O O O O O
+전북 최강희 감독 은 후반 에 승부수 를 띄 웠 다 .	ORG-B PER-B O O O O O O O O O O
+한 영화 의 배우 를 주연 과 조연 , 단역 으로 구분하 는 일 은 불필요하 다 .	O O O O O O O O O O O O O O O O O O
+그러 다가 2012 년 대선 에서 박근혜 , 문재인 후보 의 사실상 양자 구도 가 형성되 면서 투표율 은 다시 75.8 % 로 뛰어올 랐 다 .	O O DAT-B DAT-I O O PER-B O PER-B O O O O O O O O O O O O O O O O O O
+교육부 는 “ 컨설팅 단 을 구성해 사업 계획 부터 추진 상황 , 실적 까지 상시 점검하 고 대학 이 도움 을 받 을 수 있 도록 할 것 ” 이 라며 “ 진로 교육 , 취업 , 창업 지원 은 고용 노동부 , 중소기업청 과 도 협업할 예정 ” 이라고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O
+개혁 · 개방 30 년 의 성과 로 중국 이 다시 굴 기 ( 崛起 · 우뚝 섬 ) 했 다는 사실 을 세계 만방 에 알리 는 무대 였 다 .	O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+사안 의 심각성 을 뒤늦 게 깨달 은 검찰 은 언론 보도 로 최 씨 가 대통령 의 연설문 마저 사전 에 입수 했 다는 증거 가 드러나 자 당황하 는 기색 이 역력하 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+정세권 은 왕십리 일대 의 땅 을 사들이 며 일본 의 계획 을 막 았 다 .	PER-B O LOC-B O O O O O O ORG-B O O O O O O O
+국토 부 관계자 는 “ 해당 차량 들 은 이미 종합 시험 운전 등 의 완성 검사 를 모두 거 쳤 으므로 안전 운행 에 지장 이 없 을 것 으로 본다 ” 고 해명 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+외환 위기 로 인해 한국은행 이 동전 거래량 을 줄 였 기 때문 이 다 .	O O O O ORG-B O O O O O O O O O O O
+‘ 500 원 희귀 동전 ’ 의 도감 가 는 5 만 원 에 불과하 지만 현재 시세 는 70 ~ 80 만 원 에 거래되 고 있 다 .	O MNY-B MNY-I O O O O O O O MNY-B MNY-I MNY-I O O O O O O MNY-B O MNY-B MNY-I MNY-I O O O O O O
+배우 송혜교 가 드라마 사전 제작 에 대한 장단점 을 밝 혔 다 .	O PER-B O O O O O O O O O O O O
+22 일 오후 서울 강남 논현동 임피리얼 팰리스 호텔 에서 는 KBS 2 TV 새 수 목 드라마 ‘ 태양 의 후예 ’ 제작 발표회 가 열 렸 다 .	DAT-B DAT-I O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O
+이날 송혜교 는 “ 급하 게 찍 지 않 아서 이야기 할 시간 이 많 아서 좋 았 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+이 점 은 아시아 의 다른 신흥 국가 들 에 도 문제 입니다 .	O O O LOC-B O O O O O O O O O O

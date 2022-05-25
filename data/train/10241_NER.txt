@@ -1,14 +1,14 @@
-NAS 시장에서 시놀로지의 강세는 앞으로도 한동안 이어지+ㄹ 것 같다 .	ORG-B O O O O O O O O O
-지드래곤은 “지난해 말 소속사와 재계약을 하지 않을 경우 멤버 전원이 다 함께 군대를 가려고 +였다 .	PER-B O O O O O O O O O O O O O O O
-〈 김태익 ­김한수기자 .	O PER-B PER-B O
-그렇다면 8학군 전입생들의 성적은 어떻 +ㄹ까 .	O O O O O O O
-지난해 역대 최다 이+ㄴ 통산 9회 수상기록을 세우었던 그는 10번째 골든글러브를 자신의 장식장에 보관하게 +었다 .	O O O O O O O O O O O O O O O O
-새로텍 관계자는 “프리고 시리즈는 IEEE1394 제품 시리즈부터 이미 검증 받은 제품”이라며 “영상 전문가들을 위하 +ㄴ 강력 하+ㄴ 성능과 확장성을 제공하+ㄴ다”고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-프리고 썬더볼트 2베이레이드 시스템의 가격은 49만9000원(HDD 제외)이다 .	O O O O O MNY-B O O
-대우자동차는 12일 세계적 자동차 시장 조사기관이 +ㄴ JD파워사가 최근 실시하+ㄴ 조사에서 마티즈가 ‘인도 최고의 경차’로 선정되었다고 밝히었다 .	ORG-B O O O O O O ORG-B O O O O ORG-B O O O O O
-남북 고위급 접촉 사흘째 강행군, 北 절박 하+ㄴ 상황?과거와 사뭇 다르+ㄴ 태 .	ORG-B O O O O ORG-B O O O O O O O
-해수부는 본격적 이+ㄴ 수중수색에 앞서 +어 이날 오전부터 작업 선정박 작업을 진행하였다 .	ORG-B O O O O O O O O O O O O
-쓰쓰고 요시토모(요코하마), 마쓰다노부 히로(소프트뱅크) 등이 뒤를 받치 +ㄹ 예정이다 .	PER-B ORG-B PER-B ORG-B O O O O O O
-개성 있는 정장 변요한, 다양하+ㄴ 스타일 강소라… ‘미생’이 대 .	O O O PER-B O O PER-B O O O
-글로벌 아웃도어 브랜드 머렐도 초경량 워킹화 ‘원식스에잇(1SIX8·12만9000원)’을 출시하였다 .	O O O ORG-B O O MNY-B O O
-대로에서 술주정뱅이처럼 미치+ㄴ듯이 소리 지르면 행인들을 방해하였지만 경찰은 “미식축구에서 이기+ㄴ 예일대 학생이+ㄹ 것”이라면서 지나치+ㄴ다 .	O O O O O O O O O O ORG-B O O O O
+NAS 시장 에서 시놀로지 의 강세 는 앞 으로 도 한동안 이어질 것 같 다 .	ORG-B O O O O O O O O O O O O O O O
+지드래곤 은 “ 지난해 말 소속 사 와 재계약 을 하 지 않 을 경우 멤버 전원 이 다 함께 군대 를 가 려고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+〈 김태익 ­ 김한수 기자 〉	O PER-B O PER-B O O
+그렇 다면 8 학군 전입생 들 의 성적 은 어떨까 .	O O O O O O O O O O O
+지난해 역대 최다 인 통산 9 회 수상 기록 을 세 웠 던 그 는 10 번째 골든글러브 를 자신 의 장식장 에 보관하 게 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새로텍 관계자 는 “ 프리 고 시리즈 는 IEEE 1394 제품 시리즈 부터 이미 검증 받 은 제품 ” 이 라며 “ 영상 전문가 들 을 위한 강력한 성능 과 확장 성 을 제공한다 ” 고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+프리 고 썬더볼트 2 베이 레이드 시스템 의 가격 은 49 만 9000 원 ( HDD 제외 ) 이 다 .	O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O
+대우자동차 는 12 일 세계적 자동차 시장 조사 기관 인 JD 파워사 가 최근 실시한 조사 에서 마티즈 가 ‘ 인도 최고 의 경차 ’ 로 선정 됐 다고 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O O ORG-B ORG-I O O O O O O O O ORG-B O O O O O O O O O O O O
+남북 고위급 접촉 사흘 째 강행군 , 北 절박한 상황 ? 과거 와 사뭇 다른 태도	ORG-B O O O O O O ORG-B O O O O O O O O
+해수 부 는 본격적 인 수중 수색 에 앞서 이날 오전 부터 작업선 정박 작업 을 진행 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+쓰쓰 고 요시토 모 ( 요코하마 ) , 마쓰다 노부히로 ( 소프트뱅크 ) 등 이 뒤 를 받칠 예정 이 다 .	PER-B PER-I PER-I PER-I O ORG-B O O PER-B PER-I O ORG-B O O O O O O O O O O
+개성 있 는 정장 변요한 , 다양한 스타일 강소라 … ‘ 미생 ’ 이 대세	O O O O PER-B O O O PER-B O O O O O O
+글로벌 아웃도어 브랜드 머렐 도 초 경량 워킹 화 ‘ 원 식스 에잇 ( 1 SIX 8 · 12 만 9000 원 ) ’ 을 출시 했 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O
+대로 에서 술주정뱅이 처럼 미친 듯이 소리 지르 면 행인 들 을 방해 했 지만 경찰 은 “ 미식축구 에서 이긴 예일대 학생 일 것 ” 이 라면서 지나친다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O

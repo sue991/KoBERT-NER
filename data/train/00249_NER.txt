@@ -1,14 +1,14 @@
-이어 “11.17 말도 안 되는 특검법이 국회를 통과하던 날 제가 ‘촛불은 바람 불면 꺼지+ㄴ다’고 +였다 .	O O O O O O O O O O O O O O O O
-북한은 당시 한국과의 경기에서 2피리어드까지 5골을 몰아넣었다 .	ORG-B O ORG-B O O O O O
-현행 항공보안법에 따르면 약 하+ㄴ 불법행위는 1000만원 이하의 벌금(제50조), 중대 하+ㄴ불법행위는 5년 이하 징역 또는 5000만원 이하 벌금(제49조)에 처하+여지+ㄴ다 .	O O O O O O MNY-B O O O O O O O O MNY-B O O O O
-김광현은 4일 행사가 끝나는 대로 일본으로 출국 하+여 5일 요코하마미나미 공제병원에서 정밀검사를 받는다 .	PER-B O O O O LOC-B O O O ORG-B O O O O
-아리는 "며칠 전에 정산표를 받았는데 수익이라는 것+ㄴ아직 없다 .	PER-B O O O O O O O O
-“김재규와 그때 첫 식사 …내란 방조는 헛소리 .	PER-B O O O O O O O
-하지만 그리 하+여도 결국 죽음을 향하+여가는 과정(삶) 속에서 인간이 지향 하+여야 하+ㄹ 것은 용서가 아니+ㄴ가 생각 하+여요. 우리가 인간이+ㄴ까닭은 용서 하+ㄹ줄 알기 때문이라고 보+아요. 그래서 죽어도 용서 하+ㄹ 수 없다고 생각하지 말고 죽음을 통하+여(우리 모두 죽어가는 존재+이라는 생각을 통하+여)용서 하+ㄹ 수 있지 않을까 생각하었어요.”정호승 시인의 시에는 어둠과 빛, 희망과 절망, 슬픔과 기쁨, 삶과 죽음이 서로 대비되거나 일부 융합 하면서 긴장감을 형성하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
-복면가왕흥 부정체 밝혀지+어…복면가왕 피노키오3라운드 진출 '복면가왕' 흥부 정체는 빅스레오로 밝혀지었다 .	O O O PER-B O O PER-B O ORG-B O O
-'복면가왕' 흥부는 13일 방송되+ㄴ MBC '일밤-복면가왕' 복면가왕 피노키오의 2라운드 대결이 펼쳐지었다 .	O PER-B O O O O O PER-B O O O O
-복면가왕흥부는 조성모 '투헤븐(ToHeaven)'을 열창, 판정단에게 잔잔하+ㄴ울림을 전하였다 .	PER-B PER-B O O O O O O
-1심은 함포 사격 명령과 실제 포격을 한 주체가 모두 미군이라며 한국 정부에 배상책임이 없다고 판결하였다 .	O O O O O O O O O ORG-B ORG-B ORG-I O O O O
-4명이 시작하+여 현재는 20명 가량 근무하는 곳이 되었다 .	O O O O O O O O O
-최 회장은 이번 행사에서 멕시코 고액 기부자 모임이 +ㄴ ‘번영의 소사이어티’ 명예대사로도 위촉되었다 .	PER-B O O O LOC-B O O O O ORG-B ORG-I O O O
-앞으로 중국의 공공부문 개혁과 민영화가 어떻게 되+ㄹ지 확실하지 않다 .	O ORG-B O O O O O O O O
+이어 “ 11.17 말 도 안 되 는 특검 법 이 국회 를 통과하 던 날 제 가 ‘ 촛불 은 바람 불 면 꺼진다 ’ 고 했 다 .	O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 은 당시 한국 과 의 경기 에서 2 피리어드 까지 5 골 을 몰아넣 었 다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O
+현행 항공 보안법 에 따르 면 약한 불법 행위 는 1000 만 원 이하 의 벌금 ( 제 50 조 ) , 중대한 불법 행위 는 5 년 이하 징역 또는 5000 만 원 이하 벌금 ( 제 49 조 ) 에 처해 진다 .	O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+김광현 은 4 일 행사 가 끝나 는 대로 일본 으로 출국해 5 일 요코하마 미나미공제병원 에서 정밀 검사 를 받 는다 .	PER-B O DAT-B DAT-I O O O O O LOC-B O O DAT-B DAT-I ORG-B ORG-I O O O O O O O
+아리 는 " 며칠 전 에 정산표 를 받 았 는데 수익 이 라는 건 아직 없 다 .	PER-B O O O O O O O O O O O O O O O O O O
+“ 김재규 와 그때 첫 식사 … 내란 방조 는 헛소리 ”	O PER-B O O O O O O O O O O
+하 지만 그래도 결국 죽음 을 향해 가 는 과정 ( 삶 ) 속 에서 인간 이 지향해야 할 것 은 용서 가 아닌가 생각해요 . 우리 가 인간 인 까닭 은 용서할 줄 알 기 때문 이 라고 봐요 . 그래서 죽 어도 용서할 수 없 다고 생각하 지 말 고 죽음 을 통해 ( 우리 모두 죽 어 가 는 존재 라는 생각 을 통해 ) 용서할 수 있 지 않 을까 생각 했 어요 . ” 정호승 시인 의 시 에 는 어둠 과 빛 , 희망 과 절망 , 슬픔 과 기쁨 , 삶 과 죽음 이 서로 대비되 거나 일부 융합하 면서 긴장감 을 형성한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+복면 가왕 흥부 정체 밝혀져 … 복면 가왕 피노키오 3 라운드 진출 ' 복면 가왕 ' 흥부 정체 는 빅스 레오로 밝혀 졌 다 .	O O PER-B O O O O O PER-B O O O O O O O PER-B O O ORG-B O O O O O
+' 복면 가왕 ' 흥부 는 13 일 방송된 MBC ' 일 밤 - 복면 가왕 ' 복면 가왕 피노키오 의 2 라운드 대결 이 펼쳐 졌 다 .	O O O O PER-B O DAT-B DAT-I O O O O O O O O O O O PER-B O O O O O O O O O
+복면 가왕 흥부 는 조성모 ' 투 헤븐 ( To Heaven ) ' 을 열창 , 판정 단 에게 잔잔한 울림 을 전 했 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+1 심 은 함포 사격 명령 과 실제 포격 을 한 주체 가 모두 미군 이 라며 한국 정부 에 배상 책임 이 없 다고 판결 했 다 .	O O O O O O O O O O O O O O ORG-B O O ORG-B ORG-I O O O O O O O O O O
+4 명 이 시작해 현재 는 20 명 가량 근무하 는 곳 이 되 었 다 .	O O O O O O O O O O O O O O O O O
+최 회장 은 이번 행사 에서 멕시코 고액 기부자 모임 인 ‘ 번영 의 소사이어티 ’ 명예 대사 로 도 위촉 됐 다 .	PER-B O O O O O LOC-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O
+앞 으로 중국 의 공공 부문 개혁 과 민영화 가 어떻 게 될지 확실 치 않 다 .	O O ORG-B O O O O O O O O O O O O O O O

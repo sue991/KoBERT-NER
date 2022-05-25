@@ -1,11 +1,11 @@
-‘박하선 안영미, 진짜 사나이’ 배우 박하선과 개그우먼 안영미가 ‘진짜 사나이’ 여군특집에 출연하+ㄴ다 .	PER-B PER-B O O O PER-B O PER-B O O O O O
-2일 MBC에 따르면 박하선과 안영미는 MBC ‘일밤-진짜 사나이’ 여군특집 2기 멤버로 발탁되었다 .	O ORG-B O PER-B PER-B ORG-B O O O O O O O
-박하선, 안영미를 제외 하+ㄴ나머지 멤버는 입소하는 날 공개되는 것으로 전하여 +지+었다 .	PER-B PER-B O O O O O O O O O O
-청약 당첨자 발표는 12일이며, 19일부터 21일까지 지정계약일이다 .	O O O O O O O O
-검찰, 심학봉 성폭행 의혹 재수사… “2013년 친고죄 폐지” 이번 사건에 영향은?이미경 한국성폭력상담소 소장이 ‘성폭행 의혹’을 받고 있는 심학봉 의원에 대하+ㄴ 검찰의 재수사 방침을 반기었다 .	O PER-B O O O O O O O O PER-B ORG-B O O O O O PER-B O O O O O O O
-23일 KBS2TV ‘용감 하+ㄴ 가족’이 첫 방송 말미에 공개되+ㄴ 예고편에서 설현이 이 문식이 구하+여온 달걀을 실수로 떨어뜨리었다 .	O O O O O O O O O O PER-B O O O O O O O
-인터파크투어는 8월 19일까지 버즈런처 홈팩 출시를 기념 하+여 이벤트를 진행하+ㄴ다 .	O O O O O O O O O O O
-안철수, 사드 추가 배치 질문에 “만병통치약 아니야 .	PER-B O O O O O O O
-"지나 +ㄴ 2년간 모든 것을 불태우어 게임을 개발하+여+오았다는 두 대표. 실제로 두 대표는 출시일 전날까지 밤을 새우+ㄴ탓이 +ㄴ 지 피곤 하+ㄴ기색이 역력하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-민병헌의 2타점 우전적시타, 김현수의 1타점 우전적시타로4-0까지 달아나 +았다 .	PER-B O O PER-B O O O O O
-'식사하시+었어요' 양동근, "식사 중 정준 생각에 눈물… 이유는? .	O PER-B O O PER-B O O O O
+‘ 박하선 안영미 , 진짜 사나이 ’ 배우 박하선 과 개그우먼 안영미 가 ‘ 진짜 사나이 ’ 여군 특집 에 출연한다 .	O PER-B PER-B O O O O O PER-B O O PER-B O O O O O O O O O O
+2 일 MBC 에 따르 면 박하선 과 안영미 는 MBC ‘ 일 밤 - 진짜 사나이 ’ 여군 특집 2 기 멤버 로 발탁 됐 다 .	DAT-B DAT-I ORG-B O O O PER-B O PER-B O ORG-B O O O O O O O O O O O O O O O O O
+박하선 , 안영미 를 제외한 나머지 멤버 는 입소하 는 날 공개되 는 것 으로 전해 졌 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O
+청약 당첨자 발표 는 12 일 이 며 , 19 일 부터 21 일 까지 지정 계약 일 이 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+검찰 , 심학봉 성폭행 의혹 재수사 … “ 2013 년 친고죄 폐지 ” 이번 사건 에 영향 은 ? 이미경 한국 성폭력 상담소 소장 이 ‘ 성폭행 의혹 ’ 을 받 고 있 는 심학봉 의원 에 대한 검찰 의 재수사 방침 을 반 겼 다 .	O O PER-B O O O O O DAT-B DAT-I O O O O O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O PER-B O O O O O O O O O O O O
+23 일 KBS 2 TV ‘ 용감한 가족 ’ 이 첫 방송 말미 에 공개된 예고편 에서 설현 이 이문식 이 구해 온 달걀 을 실수 로 떨어뜨 렸 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O
+인터파크 투어 는 8 월 19 일 까지 버즈런처 홈팩 출시 를 기념해 이벤트 를 진행한다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+안철수 , 사드 추가 배치 질문 에 “ 만병통치약 아 냐 ”	PER-B O O O O O O O O O O O
+" 지난 2 년 간 모든 것 을 불태 워 게임 을 개발해 왔 다는 두 대표 . 실제로 두 대표 는 출시 일 전날 까지 밤 을 새운 탓 인지 피곤한 기색 이 역력 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+민병헌 의 2 타점 우전 적시타 , 김현수 의 1 타점 우전 적시타 로 4 - 0 까지 달아났 다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O
+' 식사하 셨 어요 ' 양동근 , " 식사 중 정준 생각 에 눈물 … 이유 는 ? "	O O O O O PER-B O O O O PER-B O O O O O O O O

@@ -1,17 +1,17 @@
-“못 보+ㄴ 것로 하시+ㅂ시오.황자님과 이제 만나 +ㄹ 처지가 아니에요” +이라는 해수의 말에도 4황자왕소는 거치+ㅁ이 없었으나, “가장 피하고 싶은 분이 황자님이시+ㄴ 데도요? 만나면 잊고 싶었던 일들이 다 떠오르+ㅂ니다 .	O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O
-우리에게 절실하+ㄴ한국형 전투기(KFX) 개발에 필요하+ㄴ 핵심기술을 미국에서 이전받게 되+ㄴ다면 한미동맹의 특별 하+ㄴ의 미를 대내외에 천명하+ㄹ 수 있을 것이다 .	O O O O O O ORG-B O O ORG-B O O O O O O O O O
-‘뉴스룸’도 올 김용옥 “국정화 교과서, 근원적 발상이 잘못되었다 .	O O O O O O O O O
-이소연, 12일 벤처사업가와 결혼 '화제 .	PER-B O O O O O
-이날 서울 촛불집회를 주최 하+ㄴ민중총궐기 투쟁본부는 다음달 12일 예정되+ㄴ ‘2016 민중총궐기’이전까지 매일 저녁 집회를 열 +ㄹ 계획이다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O
-[카드 뉴스] “사장님, 앞으로 인턴 고용 시 조심하세요 .	O O O O O O O O O
-언어·학비 등 유학생 지원 따로 없어 주립대 이+ㄴ버클리는 캘리포니아 주민을 우선 하+ㄴ다 .	O O O O O O O ORG-B LOC-B O O O O
-김현경희대입학처장은 “결과를 종합하면 수시의 학생부 위주 전형(학종·학생부 교과전형)이 고교 다양성과 지역균형성 확보에 가장 기여 하+ㄴ다고 보+ㄹ 수 있다”고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-2004년 시제품을 생산하려고 보니 그 기업이 판매도 직접 하겠다고 하는 것+이+ㅂ니다 .	O O O O O O O O O O O O
-심재철 의원 “재심사 검토 하+여야 .	PER-B O O O O O
-그런데 민호에게 홈런은 맞지 않을 것”이라며 웃었다 .	O PER-B O O O O O O
-경기도 금오 중 보건교사 박유선씨는 “얼마 전 한 여학생이 심하+ㄴ복통으로 쓰러지었을 때 허리가 조이는 교복을 못 벗기+어 그냥 구급차에 싣어 보내+ㄴ 적이 있다”며 “정상체중이 +ㄴ아이들이 매일 보건실에서 체중을 재며 다이어트를 하고 심하게는 폭식증·거식증 같은 섭식장애에 시달리기도 하+ㄴ다”고 말하였다 .	LOC-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-투르드코리아 조직위원회는 어떤 기준으로 각 코스를 설정하는지 살펴보았다 .	ORG-B ORG-I O O O O O O O
-최지우, ‘꽃보다 할배’ 합류… ‘김장 지우’ 서 ‘보조짐꾼’으로 변 .	PER-B O O O PER-B PER-I O O O O
-아이폰의 판매량 부진도 계속되었다 .	O O O O O
-팀이 하위권으로 떨어지+ㄹ위기에 처하+ㄴ 상황, 강민호는 “팀에 정말 미안하다”고 말하였다 .	O O O O O PER-B O O O O O
-1998년 동산의료원 개원 100주년을 기념 하+여 지금의 자리에 옮기+어심었다 .	O ORG-B O O O O O O O O
+“ 못 본 걸 로 하 십시오 . 황자 님 과 이제 만날 처지 가 아니 에요 ” 라는 해수 의 말 에 도 4 황자 왕소 는 거침 이 없 었 으나 , “ 가장 피하 고 싶 은 분 이 황자 님 이 신데 도 요 ? 만나 면 잊 고 싶 었 던 일 들 이 다 떠오릅니다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리 에게 절실한 한국 형 전투기 ( KFX ) 개발 에 필요한 핵심 기술 을 미국 에서 이전 받 게 된다면 한미 동맹 의 특별한 의미 를 대내외 에 천명할 수 있 을 것 이 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
+‘ 뉴스룸 ’ 도올 김용옥 “ 국정 화 교과서 , 근원 적 발상 이 잘못 됐 다 ”	O O O PER-B PER-I O O O O O O O O O O O O O
+이소연 , 12 일 벤처 사업가 와 결혼 ' 화제 '	PER-B O DAT-B DAT-I O O O O O O O
+이날 서울 촛불 집회 를 주최한 민중 총궐기 투쟁 본부 는 다음 달 12 일 예정된 ‘ 2016 민중 총궐기 ’ 이전 까지 매일 저녁 집회 를 열 계획 이 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O DAT-B DAT-I O O DAT-B O O O O O O O O O O O O O O
+[ 카드 뉴스 ] “ 사장 님 , 앞 으로 인턴 고용 시 조심하 세요 ”	O O O O O O O O O O O O O O O O
+언어 · 학비 등 유학생 지원 따로 없 어 주립대 인 버클리 는 캘리포니아 주민 을 우선한다 .	O O O O O O O O O O O ORG-B O LOC-B O O O O
+김현 경희대 입학 처장 은 “ 결과 를 종합하 면 수시 의 학생 부 위주 전형 ( 학 종 · 학생부 교과 전형 ) 이 고교 다양성 과 지역 균형성 확보 에 가장 기여한다고 볼 수 있 다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2004 년 시제품 을 생산하 려고 보 니 그 기업 이 판매 도 직접 하 겠 다고 하 는 겁니다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+심재철 의원 “ 재심사 검토해야 ”	PER-B O O O O O
+그런데 민호 에게 홈런 은 맞 지 않 을 것 ” 이 라며 웃 었 다 .	O PER-B O O O O O O O O O O O O O O O
+경기도 금오중 보건 교사 박유선 씨 는 “ 얼마 전 한 여학생 이 심한 복통 으로 쓰러 졌 을 때 허리 가 조이 는 교복 을 못 벗겨 그냥 구급차 에 실 어 보낸 적 이 있 다 ” 며 “ 정상 체중 인 아이 들 이 매일 보건 실 에서 체중 을 재 며 다이어트 를 하 고 심하 게 는 폭식증 · 거식증 같 은 섭식 장애 에 시달리 기 도 한다 ” 고 말 했 다 .	LOC-B LOC-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+투르 드 코리아 조직 위원회 는 어떤 기준 으로 각 코스 를 설정하 는지 살펴 봤 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O
+최지우 , ‘ 꽃 보다 할배 ’ 합류 … ‘ 김장 지우 ’ 서 ‘ 보조 짐꾼 ’ 으로 변신	PER-B O O O O O O O O O PER-B PER-I O O O O O O O O
+아이폰 의 판매량 부진 도 계속 됐 다 .	O O O O O O O O O
+팀 이 하위권 으로 떨어질 위기 에 처한 상황 , 강민호 는 “ 팀 에 정말 미안하 다 ” 고 말 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O
+1998 년 동산의료원 개원 100 주년 을 기념해 지금 의 자리 에 옮겨 심 었 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-파리바게뜨는 모든 NBCI 평가 요인에서 상승세를 보이며 리딩 브랜드로서의 입지를 강화하였다 .	ORG-B O O O O O O O O O O O
-방송대 프라임칼리지, 100% 온라인 교육과정으로 평생교육 실 .	ORG-B ORG-I O O O O O O
-오마이비너스, 소지섭-성훈-헨리 ‘한 지붕 세 남자’ 식사 사진 공개 16일 첫 방송 예정이+ㄴ KBS 드라마 ‘오마이비너스’ 소지섭-성훈-헨리의 촬영 현장 모습이 공개되었다 .	O PER-B O O O O O O O O O O PER-B ORG-B O O PER-B O O O O O
-9일 ‘오마이비너스’ 홈페이지에는 소지섭-성훈-헨리가 한 지붕 하+ㄴ 식탁에 둘러앉아 즐겁ㄴ시간을 보내고 있는 모습이 공개되었다 .	O O O PER-B O O O O O O O O O O O
-깔끔하+ㄴ희+ㄴ 셔츠 차림의 소지섭은 부드럽ㄴ 육즙의 스테이크를, 극중 UFC 웰터급 챔피언이 +ㄴ성훈은 고구마와 아스파라거스 등이 곁들이 어지+ㄴ 체중 조절식을, 헨리는 올리브 오일로 맛을 내+ㄴ 먹음직스럽 ㄴ파스타를 앞에 두고 앉아 있는 모습으로 각각의 캐릭터를 표현, 눈길을 끌고 있다 .	O O O PER-B O O O O ORG-B O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
-텀블러 모양의 해당 제품은 500g으로 가볍다 .	O O O O O O O
-[책꽂이] 그리드를 파괴하라 .	O O O O
-2일 탄핵안 처리는 무산되었지만 국민의당이 주장하는 5일이나 본회의가 예정되+ㄴ 9일 탄핵안이 가결되+ㄴ다면 1월 말까지 헌재가 심사 하+ㄹ 기간이 대략 50일이다 .	O O O O ORG-B O O O O O O O O O O O O O O O O
-장원의 경영철학의 뿌리는 모친 윤독정 여사의 ‘깊은 지혜’+이었다 .	PER-B O O O PER-B O O O O
-관상(觀相)으로 보+아도 위하+여(危害)를 당하+ㄹ 호상(虎相)이고, 풍수(風水)로 구미선산의 묘(墓)를 해석하+ 여도왕(王)은 되지만 살신(殺身)이 따르는 명당이기 때문이다 .	O O O O O O LOC-B O O O O O O O O O
-패터슨은 2011년 5월 미국 경찰에 체포되 +어구속되+ㄴ 뒤범죄인 인도 재판에 넘기+어+지었고 2012년 미국 법원에서 범죄인 인도 허가를 결정 하+여국 내 송환이 성사되었다 .	PER-B O O ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O O
-이청용(28·크리스털 팰리스)과 손흥민(24·토트넘)이 나란히 2015∼2016 시즌 잉글랜드 FA컵 16강 무대에 서게 +었다 .	ORG-B ORG-I ORG-B O O O ORG-B ORG-I O O O O O
-전화를 걸 +ㄴ B씨는 “임신 6개월째 이+ㄴ아내(28)가 욕실에서 넘어 지+어 다치었다”고 외치었다 .	O O O PER-B O O O O O O O O O
+파리바게뜨 는 모든 NBCI 평가 요인 에서 상승세 를 보이 며 리딩 브랜드 로서 의 입지 를 강화 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+방송대 프라임 칼리지 , 100 % 온라인 교육 과정 으로 평생 교육 실현	ORG-B ORG-I ORG-I O O O O O O O O O O
+오 마이 비너스 , 소 지섭 - 성훈 - 헨리 ‘ 한 지붕 세 남자 ’ 식사 사진 공개 16 일 첫 방송 예정 인 KBS 드라마 ‘ 오 마이 비너스 ’ 소 지섭 - 성훈 - 헨리 의 촬영 현장 모습 이 공개 됐 다 .	O O O O PER-B PER-I O PER-B O PER-B O O O O O O O O O DAT-B DAT-I O O PER-B PER-I ORG-B O O O O O O PER-B PER-I O PER-B O PER-B O O O O O O O O O
+9 일 ‘ 오 마이 비너스 ’ 홈페이지 에 는 소 지섭 - 성훈 - 헨리 가 한 지붕 한 식탁 에 둘러앉 아 즐거 운 시간 을 보내 고 있 는 모습 이 공개 됐 다 .	DAT-B DAT-I O O O O O O O O PER-B PER-I O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+깔끔한 흰 셔츠 차림 의 소 지섭 은 부드러 운 육즙 의 스테이크 를 , 극 중 UFC 웰터급 챔피언 인 성훈 은 고구마 와 아스파라거스 등 이 곁들 여 진 체중 조절 식 을 , 헨리 는 올리브 오일 로 맛 을 낸 먹음직스러 운 파스타 를 앞 에 두 고 앉 아 있 는 모습 으로 각각 의 캐릭터 를 표현 , 눈길 을 끌 고 있 다 .	O O O O O PER-B PER-I O O O O O O O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+텀블러 모양 의 해당 제품 은 500 g 으로 가볍 다 .	O O O O O O O O O O O O
+[ 책꽂이 ] 그리드 를 파괴하 라 外	O O O O O O O O
+2 일 탄핵 안 처리 는 무산 됐 지만 국민 의 당 이 주장하 는 5 일 이나 본회의 가 예정된 9 일 탄핵 안 이 가결된다면 1 월 말 까지 헌재 가 심사할 기간 이 대략 50 일 이 다 .	DAT-B DAT-I O O O O O O O ORG-B ORG-I ORG-I O O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O
+장원 의 경영 철학 의 뿌리 는 모친 윤독 정 여사 의 ‘ 깊 은 지혜 ’ 였 다 .	PER-B O O O O O O O PER-B PER-I O O O O O O O O O O
+관상 ( 觀相 ) 으로 봐도 위해 ( 危害 ) 를 당할 호상 ( 虎相 ) 이 고 , 풍수 ( 風水 ) 로 구미 선산 의 묘 ( 墓 ) 를 해석해도 왕 ( 王 ) 은 되 지만 살 신 ( 殺身 ) 이 따르 는 명당 이 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+패터슨 은 2011 년 5 월 미국 경찰 에 체포돼 구속된 뒤 범죄인 인도 재판 에 넘겨 졌 고 2012 년 미국 법원 에서 범죄인 인도 허가 를 결정해 국내 송환 이 성사 됐 다 .	PER-B O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O
+이청용 ( 28 · 크리스털 팰리스 ) 과 손흥민 ( 24 · 토트넘 ) 이 나란히 2015 ∼ 2016 시즌 잉글랜드 FA 컵 16 강 무대 에 서 게 됐 다 .	PER-B O O O ORG-B ORG-I O O PER-B O O O ORG-B O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O
+전화 를 건 B 씨 는 “ 임신 6 개월 째 인 아내 ( 28 ) 가 욕실 에서 넘어져 다 쳤 다 ” 고 외 쳤 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O

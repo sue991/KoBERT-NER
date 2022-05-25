@@ -1,15 +1,15 @@
-도로공사 측은 이날 고속도로 통행량이 지난해 광복절 연휴 첫날(15일·금요일)보다 16% 증가하였지만 정체의 길이는 감소하였다고 밝히었다 .	ORG-B O O ORG-B O O O O O O O O O O O O
-3시간 정도 열어 두 +어물기를 말리+ㄴ 다음 필터와 바람나 +아오는 판을 끼우어 넣는다 .	O O O O O O O O O O O O O O
-13일 영국 런던 화이트하트레인에서 끝나 +ㄴ토트넘 홋스퍼와 밀월 FC의 잉글랜드 축구협회(FA) 컵 8강전은 ‘측면 지배자’ 손흥민의 가치를 확인 하+ㄹ 수 있는 무대+이었다 .	O LOC-B LOC-I LOC-I O ORG-B ORG-I ORG-B ORG-I O O O O O O PER-B O O O O O O O
-이를 통하+여대 기업 쪽 부품을 전담하게 되+ㄴ 것.한 영피엔에스가 삼성전자 쪽의 부품을 담당하였고, 한영정공은 동부대우전자 쪽 부품을 담당하게 되었다 .	O O O O O O O ORG-B ORG-I ORG-B O O O ORG-B ORG-B O O O O O
-BCT 응시학생들을 대상으로 베이징에서 중국어 캠프를 운용하고, 베이징의 대외경제무역대학과 강의 프로그램도 운영 하+ㄴ다 .	O O O LOC-B O O O LOC-B O O O O O O
-2위(박혁수, 국우석)는 2711표를 얻는 데 그치었다 .	PER-B ORG-B O O O O O
-모터쇼 기간에 자동차 디자인을 주제로 카를로 팔라자니(전 페라리 디자이너), 데일해로우(영국 왕립예술학교 자동차 디자인학장) 등이 참여하는 ‘CARISART’ 국제 컨퍼런스가 열리+ㄴ다 .	O O O O O PER-B PER-I ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O
-인간의 역사 내내 중요하+ㄴ과 제+이었던 이 주제를 토의하기 위하+여 미국 최고의 학자와 정치인들이 한자리에 모이었다 .	O O O O O O O O O ORG-B O O O O O O
-18일 SBS ‘힐링캠프, 기쁘지 아니 하+ㄴ가’(이하 ‘힐링캠프’)에서는 ‘각시탈’ ‘식객’ ‘타짜’ 등 수많은 히트작을 탄생시키+ㄴ 만화가 허영만과 허영만의 문하생으로 만화계에 입문 하+여 ‘이끼’ ‘내부자들’ ‘미생’을 그리 +ㄴ 만화가 윤태호 가 게스트로 출연하+여 이야기를 나누었다 .	O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O O PER-B O O O O O O
-황교안 대통령 권한대행 국무총리는 우루과이 인근 남대서양 해양에서 한국인 선원 탑승화 물선이 연락 두절 되+ㄴ 사고와 관련 하+여 1일 “우루과이 정부(해경 당국)와 긴밀히 협조 하+여실종 선박 수색 및 우리 선원 구조가 신속히 이루어지도록 하라”고 외교부에 지시하였다 .	PER-B O O O ORG-B O LOC-B LOC-I O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O ORG-B O O
-또 “외교부, 해양수산부, 현지 공관 등 관계부처 합동대책반을 중심으로 사고수습에 최선을 다 하+여달라”고 주문하였다 .	O ORG-B ORG-B O O O O O O O O O O O O
-외교부는 지난달 26일 브라질에서 출발하+여우루과이 인근 해역을 항해 중이던 화물선 ‘스텔라 데이지(StellaDaisy)’ 호가 같은 달 31일 오후 11시20분쯤 (한국시간) 선박 침수 사실을 카카오톡 메시지로 발신하+ㄴ 후 연락 두절 되+ㄴ 사건이 발생하였다고 이날 밝히었다 .	ORG-B O O LOC-B LOC-B O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
-외교부는 오후 1시쯤 재외국민 보호대책반을 긴급 가동하고 국민안전처 등 국내 관계부처와 비상연락체계를 유지하는 한편 주우루과이 대사관을 통하+여우루과이해경 당국에 긴급구조를 요청하였다 .	ORG-B TIM-B TIM-I ORG-B O O O ORG-B O O O O O O ORG-B ORG-I ORG-B O O O O
-(서울=뉴스1 .	LOC-B O
-전날 한중 정상회담에서 박 대통령이 ‘한미중 협의’를 사드 이 견 해소 방식의 하나로 제안하+ㄴ 것과 같은 맥락으로 풀이되 +ㄴ다 .	O ORG-B O PER-B O ORG-B O O O O O O O O O O O O O O
+도로 공사 측 은 이날 고속도로 통행 량 이 지난해 광복절 연휴 첫날 ( 15 일 · 금요일 ) 보다 16 % 증가 했 지만 정체 의 길이 는 감소 했 다고 밝 혔 다 .	ORG-B ORG-I O O O O O O O O DAT-B O O O DAT-B DAT-I O DAT-B O O O O O O O O O O O O O O O O O O
+3 시간 정도 열 어 둬 물기 를 말린다 음 필터 와 바람나 오 는 판 을 끼 워 넣 는다 .	O O O O O O O O O O O O O O O O O O O O O O
+13 일 영국 런던 화이트하트레인 에서 끝난 토트넘 홋스퍼 와 밀월 FC 의 잉글랜드축구협회 ( FA ) 컵 8 강 전 은 ‘ 측면 지배자 ’ 손흥민 의 가치 를 확인할 수 있 는 무대 였 다 .	DAT-B DAT-I LOC-B LOC-I LOC-I O O ORG-B ORG-I O ORG-B ORG-I O ORG-B O O O O O O O O O O O O PER-B O O O O O O O O O O O
+이 를 통해 대기업 쪽 부품 을 전담하 게 된 것 . 한 영피 엔에스 가 삼성전자 쪽 의 부품 을 담당 했 고 , 한영 정공 은 동부 대우전자 쪽 부품 을 담당하 게 되 었 다 .	O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O
+BCT 응시 학생 들 을 대상 으로 베이징 에서 중국어 캠프 를 운용하 고 , 베이징 의 대외 경제 무역 대학 과 강의 프로그램 도 운영한다 .	O O O O O O O LOC-B O O O O O O O LOC-B O O O O O O O O O O O
+2 위 ( 박혁수 , 국우석 ) 는 2711 표 를 얻 는 데 그 쳤 다 .	O O O PER-B O ORG-B O O O O O O O O O O O O
+모터쇼 기간 에 자동차 디자인 을 주제 로 카를로 팔 라 자니 ( 전 페라리 디자이너 ) , 데일 해로우 ( 영국 왕립 예술 학교 자동차 디자인 학장 ) 등 이 참여하 는 ‘ CAR IS ART ’ 국제 컨퍼런스 가 열린다 .	O O O O O O O O PER-B PER-I PER-I PER-I O O ORG-B O O O PER-B PER-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O
+인간 의 역사 내내 중요한 과제 였 던 이 주제 를 토의하 기 위해 미국 최고 의 학자 와 정치인 들 이 한자리 에 모 였 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+18 일 SBS ‘ 힐링 캠프 , 기쁘 지 아니한가 ’ ( 이하 ‘ 힐링 캠프 ’ ) 에서 는 ‘ 각시 탈 ’ ‘ 식객 ’ ‘ 타짜 ’ 등 수많 은 히트 작 을 탄생 시킨 만화가 허영만 과 허영만 의 문하생 으로 만화 계 에 입문해 ‘ 이끼 ’ ‘ 내부 자 들 ’ ‘ 미생 ’ 을 그린 만화 가 윤태호 가 게스트 로 출연해 이야기 를 나 눴 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+황교안 대통령 권한 대행 국무총리 는 우루과이 인근 남 대서양 해양 에서 한국인 선원 탑승 화물선 이 연락 두절된 사고 와 관련해 1 일 “ 우루과이 정부 ( 해경 당국 ) 와 긴밀히 협조해 실종 선박 수색 및 우리 선원 구조 가 신속히 이뤄지 도록 하 라 ” 고 외교 부 에 지시 했 다 .	PER-B O O O O O LOC-B O LOC-B LOC-I LOC-I O O O O O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O
+또 “ 외교부 , 해양수산부 , 현지 공관 등 관계 부처 합동 대책 반 을 중심 으로 사고 수습 에 최선 을 다해 달 라 ” 고 주문 했 다 .	O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+외교 부 는 지난달 26 일 브라질 에서 출발해 우루과이 인근 해역 을 항해 중 이 던 화물선 ‘ 스텔라 데이지 ( Stella Daisy ) ’ 호 가 같 은 달 31 일 오후 11 시 20 분 쯤 ( 한국 시간 ) 선박 침수 사실 을 카카오톡 메시지 로 발신한 후 연락 두절된 사건 이 발생 했 다고 이날 밝 혔 다 .	ORG-B ORG-I O O DAT-B DAT-I LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+외교 부 는 오후 1 시 쯤 재외 국민 보호 대책 반 을 긴급 가동하 고 국민 안전 처 등 국내 관계 부처 와 비상 연락 체계 를 유지하 는 한편 주 우루과이 대사관 을 통해 우루과이 해경 당국 에 긴급 구조 를 요청 했 다 .	ORG-B ORG-I O TIM-B TIM-I TIM-I O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O ORG-B ORG-I ORG-I O O ORG-B O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+전날 한중 정상 회담 에서 박 대통령 이 ‘ 한미 중 협의 ’ 를 사드 이견 해소 방식 의 하나 로 제안한 것 과 같 은 맥락 으로 풀이된다 .	O ORG-B O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O

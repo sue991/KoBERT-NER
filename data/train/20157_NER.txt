@@ -1,17 +1,17 @@
-유럽에서 오+ㄴ 해바라기를 그리던 화가는 생의 마지막 순간까지 태평양 중앙섬에서 눈 내리는 프랑스 마을 풍경을 손질 중이었다지요. “해바라기다 .	LOC-B O O O O O O O LOC-B O O O ORG-B O O O O O O
-감염 가능성을 숨기고 중국에 입국하고 격리를 거부하는 한국인에 대하+ㄴ 비난이 쏟아지+ㄴ다 .	O O O LOC-B O O O O O O O O
-그의 설명처럼 '펜타스톰'은 조작에서 크+ㄴ 강점을 갖고 있다 .	O O O O O O O O O
-김포 풍무 꿈에그린 2차가 위치하+ㄴ 풍무지구는 쾌적하+ㄴ 주거환경을 갖추고 있으며 서울 접근성이 뛰어나 +아주 거선 호도가 높다 .	O LOC-B O O O LOC-B O O O O LOC-B O O O O O O O
-한국문학의 매력에 푹 빠지+어 있는 그에게, 한국 작가들이 해외에 더 많이 알려지기 위하+ㄴ 방편을 묻었다 .	ORG-B O O O O O ORG-B O O O O O O O O O
-두 개의 세탁기가 합치+어지+ㄴ ‘트윈워시’의 원조 .	O O O O O O O
-증권회사 직원들조차 친하+ㄴ사람들에게는 “사기 당하기 싫으면 코스닥 근처에 +ㄴ가지도 말라”고 말하는 분위기+이었다 .	O O O O O O ORG-B O O O O O O
-복면가왕 ‘하와이’ 정체는 홍지민, ‘연필’은 누구?… 소냐·라미란 둘 가운데 한 명 .	O PER-B O PER-B PER-B O PER-B O O O O O
-JDC 김한욱 이사장이 2013년 6월 취임하면서 ‘비상경영’을 선포하+ㄴ 후 조직 축소, 긴축경영, 예산 절감 등으로 얻은 성과+이다 .	ORG-B PER-B O O O O O O O O O O O O O O O O
-박지성은 2014년부터 맨체스터 유나이티드 FC 앰버서더로 활동 중이다 .	PER-B O ORG-B ORG-I ORG-I O O O O
-온라인 중앙일보 [사진 일간스포츠 .	ORG-B ORG-I O O O
-또 박 전 대통령의 현재 상태도 전하여 +지+었다 .	O PER-B O O O O O O O
-제주도는 이날 제2공항 입지로 선정되+ㄴ 성산읍 일대를 토지거래허가구역으로 지정하며 500m ² 이상 농지 등의 땅을 사고팔+ㄹ 때 행정기관의 허가를 받도록 +였다 .	LOC-B O O O O LOC-B O O O O O O O O O O O O O O O O
-그러나 전국에서 멧돼지 서식 밀도가 가장 낮은 경기지역도 km ²당 2.2마리에 이르+ㄴ답니다 .	O O O O O O O LOC-B O O O O O
-지난 하+ㄴ 수색 끝에 미수습자가 발견되더라도 신원 확인에는 최소 3주가 소요되므로 가족들은 애타는 마음으로 해수부의 통보를 기다리+ㄹ 수밖에 없다 .	O O O O O O O O O O O O O O ORG-B O O O O O
-【목포=뉴시스 .	LOC-B O
-아시아 자동차는 내년도 생산대수를 올해 13만8천대보다 44.9% 증가 하+ㄴ 20만대로 잡았다 .	O O O O O O O O O O O O
+유럽 에서 온 해바라기 를 그리 던 화가 는 생 의 마지막 순간 까지 태평양 중앙 섬 에서 눈 내리 는 프랑스 마을 풍경 을 손질 중 이 었 다 지요 . “ 해바라기 다 .	LOC-B O O O O O O O O O O O O O LOC-B O O O O O O ORG-B O O O O O O O O O O O O O O
+감염 가능성 을 숨기 고 중국 에 입국 하 고 격리 를 거부하 는 한국인 에 대한 비난 이 쏟아진다 .	O O O O O LOC-B O O O O O O O O O O O O O O O
+그 의 설명 처럼 ' 펜 타 스톰 ' 은 조작 에서 큰 강점 을 갖 고 있 다 .	O O O O O O O O O O O O O O O O O O O O
+김포 풍 무 꿈에 그린 2 차 가 위치한 풍 무 지구 는 쾌적한 주거 환경 을 갖추 고 있 으며 서울 접근성 이 뛰어나 주거 선호도 가 높 다 .	O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O LOC-B O O O O O O O O O
+한국 문학 의 매력 에 푹 빠져 있 는 그 에게 , 한국 작가 들 이 해외 에 더 많이 알려지 기 위한 방편 을 물 었 다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+두 개 의 세탁기 가 합쳐 진 ‘ 트윈 워시 ’ 의 원조 !	O O O O O O O O O O O O O O
+증권 회사 직원 들 조차 친한 사람 들 에게 는 “ 사기 당하 기 싫 으면 코스닥 근처 엔 가 지 도 말 라 ” 고 말하 는 분위기 였 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+복면 가왕 ‘ 하와이 ’ 정체 는 홍지민 , ‘ 연필 ’ 은 누구 ? … 소냐 · 라미란 둘 가운데 한 명 ?	O O O PER-B O O O PER-B O O PER-B O O O O O PER-B O PER-B O O O O O
+JDC 김한욱 이사장 이 2013 년 6 월 취임하 면서 ‘ 비상 경영 ’ 을 선포한 후 조직 축소 , 긴축 경영 , 예산 절감 등 으로 얻 은 성과 다 .	ORG-B PER-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+박지성 은 2014 년 부터 맨체스터 유나이티드 FC 앰버서더 로 활동 중 이 다 .	PER-B O DAT-B DAT-I O ORG-B ORG-I ORG-I O O O O O O O
+온라인 중앙일보 [ 사진 일간스포츠 ]	ORG-B ORG-I O O O O
+또 박 전 대통령 의 현재 상태 도 전해 졌 다 .	O PER-B O O O O O O O O O O
+제주도 는 이날 제 2 공항 입지 로 선정된 성산읍 일대 를 토지 거래 허가 구역 으로 지정하 며 500 m ² 이상 농지 등 의 땅 을 사고팔 때 행정 기관 의 허가 를 받 도록 했 다 .	LOC-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 전국 에서 멧돼지 서식 밀도 가 가장 낮 은 경기 지역 도 km ² 당 2.2 마리 에 이른답니다 .	O O O O O O O O O O LOC-B O O O O O O O O O O
+지난한 수색 끝 에 미 수습 자 가 발견되 더라도 신원 확인 에 는 최소 3 주 가 소요되 므로 가족 들 은 애타 는 마음 으로 해수 부 의 통보 를 기다릴 수 밖에 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O
+【 목포 = 뉴시스 】	O LOC-B O ORG-B O
+아시아자동차 는 내년도 생산 대수 를 올해 13 만 8 천 대 보다 44.9 % 증가한 20 만 대 로 잡 았 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O

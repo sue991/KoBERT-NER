@@ -1,9 +1,9 @@
-지나+ㄴ 20일 방송되+ㄴ EBS ‘리얼극장’에서는 이파니와 그의 엄마 주미애씨의 이야기가 공개되었다 .	O O O ORG-B O PER-B O O PER-B O O O
-태군이 형과 야수들에게 고맙다”고 말하였다 .	PER-B O O O O O
-2004년 노무현 전 대통령 탄핵심판 때는 윤영철(80) 당시 헌재소장이 결정문을 낭독하였다 .	O PER-B O O O O PER-B O O O O O
-한편, 박명수는 한수민씨와 결혼 후 지나 +ㄴ 2008년 8월 첫 딸 민서양을 얻었다 .	O PER-B PER-B O O O O O O O O PER-B O O
-1957년 EU 출범 이후 첫 탈퇴 협상으로 EU나 영국 모두가 +아보지 못하+ㄴ 여정을 떠나는 셈이다 .	O ORG-B O O O O O ORG-B ORG-B O O O O O O O
-그렇 +ㅁ에도 정부 3.0에 대하+ㄴ국민적인지도는 아직 높지 않은 실정이다 .	O O O O O O O O O O
-백 104. 계속 알파고가 참는데요.이 세돌 9단 역시 흑 105로 계속 따라붙습니다 .	O O O O O O O O O O O O O
-트럼프의 이 같은 주장은 미국 내에서 외교안보 전문가들을 중심으로 강력 하+ㄴ 비판을 받아 +오았다 .	PER-B O O O ORG-B O O O O O O O O O O
-자율주행차를 대량 생산 하+ㄹ 때가 되면 현대차는 과연 어디서 만들 +ㄹ까.생뚱맞은 질문으로 들리+ㄹ 수 있다 .	O O O O O O ORG-B O O O O O O O O O
+지난 20 일 방송된 EBS ‘ 리얼 극장 ’ 에서 는 이파 니와 그 의 엄마 주미애 씨 의 이야기 가 공개 됐 다 .	O DAT-B DAT-I O ORG-B O O O O O O PER-B O O O O PER-B O O O O O O O O
+태 군 이 형 과 야수 들 에게 고맙 다 ” 고 말 했 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O
+2004 년 노무현 전 대통령 탄핵 심판 때 는 윤영철 ( 80 ) 당시 헌재 소장 이 결정 문 을 낭독 했 다 .	DAT-B DAT-I PER-B O O O O O O PER-B O O O O O O O O O O O O O O
+한편 , 박명수 는 한수민 씨 와 결혼 후 지난 2008 년 8 월 첫 딸 민서 양 을 얻 었 다 .	O O PER-B O PER-B O O O O O DAT-B DAT-I DAT-I DAT-I O O PER-B O O O O O O
+1957 년 EU 출범 이후 첫 탈퇴 협상 으로 EU 나 영국 모두 가 보 지 못한 여정 을 떠나 는 셈 이 다 .	DAT-B DAT-I ORG-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+그럼에도 정부 3.0 에 대한 국민적 인지도 는 아직 높 지 않 은 실정 이 다 .	O O O O O O O O O O O O O O O O O
+백 104 . 계속 알 파고 가 참 는데요 . 이세돌 9 단 역시 흑 105 로 계속 따라붙 습니다 .	O O O O O O O O O O PER-B O O O O O O O O O O
+트럼프 의 이 같 은 주장 은 미국 내 에서 외교 안보 전문가 들 을 중심 으로 강력한 비판 을 받 아 왔 다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+자율 주행 차 를 대량 생산할 때 가 되 면 현대차 는 과연 어디 서 만들까 . 생뚱맞 은 질문 으로 들릴 수 있 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O

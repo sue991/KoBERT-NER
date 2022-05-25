@@ -1,16 +1,16 @@
-‘언프리티 랩스타치타’ 래퍼치타가 경쟁 상대 이+ㄴ그룹에이오에이지민의 무대를 보+ㄴ 뒤 소감을 전하였다 .	O PER-B PER-B O O O O O O O O O
-19일 오후 방송되+ㄴ 케이블 채널 Mnet예능 프로그램 ‘언프리티 랩스타’에서는 마지막 6번 트랙을 차지하기 위하+여 여섯 명의 여성 래퍼들이 배틀을 펼치는 모습이 그리 +어+지었다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-이날 섹시하+ㄴ탱크탑의상을 입고 무대에서 +ㄴ지민은 댄서들과 함께 무대를 열었다 .	O O O O PER-B O O O O O
-하버드대에서 생물통계학 박사 학위를 받고 보스턴컨설팅그룹 컨설턴트로 일하+ㄴ 경력도 있는 박유현 대표는 2010년 온라인에서 쏟아지는 음란 광고의 심각성을 느끼+ㄴ 뒤 아이들에게 올바르+ㄴ 디지털 시민의식을 교육하겠다는 생각으로 비정부기구(NGO) 활동을 시작하였다 .	ORG-B O O O O ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O
-박 전 대통령 영장실질심사를 맡은 강부영(43·사법연수원 32기) 영장전담 판사는 사건 기록이 방대하고, 전직 대통령의 뇌물수수+이라는 사건의 중대성을 감안하었을 때 통상적으로 정하+여지는 2일의 준비시간으로는 부족하다고 판단하였다 .	PER-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
-2007년까지는 공휴일이었으나, 2008년부터는 쉬지 않는 국경일로 바뀌었습니다 .	O O O O O O O O
-제헌절은 자유민주주의와 헌법수호의 깊은 뜻을 담고 있습니다 .	O O O O O O O O
-창원시는 돝섬 해피랜드가 공개적으로 문제를 제기하자 뒤늦게 대책 마련에 나서 +었다 .	ORG-B O O O O O O O O O O O
-또 "국정 농락 사태의 주범이+ㄴ 박근혜와 공범자들까지 쓸어버리+어야 하+ㄴ다는 것이 남조선 각계에 서 울리+어나오는 민심의 목소리 "+이라며 "그렇 +ㅁ에 도 보수패거리들은 지금 황당하게 도 서울구치소에 갇히 +어 있는 박근혜에 대하+ㄴ동정 여론을 유포시키려고 돌아치고 있다"고 주장하였다 .	O O O O O PER-B O O O O LOC-B O O O O O O O O O O O O O LOC-B O O O PER-B O O O O O O O
-80년대 초반부터 이다 .	O O O O
-한화테크윈, 에너지장비 기업 GEO il&Gas와 MOU 체 .	ORG-B O O ORG-B ORG-I O O O
-특히 이번 발사는 마이크 펜스 미국 부통령의 방한 직전에 이루어 지+ㄴ 것으로 한반도 긴장감이 더욱 고조되+ㄹ 것으로 보이+ㄴ다 .	O O O PER-B PER-I ORG-B O O O O O O LOC-B O O O O O O
-(서울=뉴스1 .	LOC-B O
-북한의 보통 남자들은 이른바 「말아 초」+이라는 것을 피우+ㄴ다 .	ORG-B O O O O O O O O
-“북의 「핵합의」실행이 중요”/ 방한아호 핀란드 총리인터 .	ORG-B O O O O O O
-한국 모형항공협회에 따르면 현재 국내 드론 대수는 5만대 이상으로 추정되+ㄴ다 .	ORG-B ORG-I O O O O O O O O O
+‘ 언 프리티 랩 스타 치타 ’ 래퍼 치타 가 경쟁 상대 인 그룹 에이 오 에이 지민 의 무대 를 본 뒤 소감 을 전 했 다 .	O O O O O PER-B O O PER-B O O O O O ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O
+19 일 오후 방송된 케이블 채널 Mnet 예능 프로그램 ‘ 언 프리티 랩 스타 ’ 에서 는 마지막 6 번 트랙 을 차지하 기 위해 여섯 명 의 여성 래퍼 들 이 배틀 을 펼치 는 모습 이 그려 졌 다 .	DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 섹시한 탱크탑 의상 을 입 고 무대 에 선 지민 은 댄서 들 과 함께 무대 를 열 었 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O
+하버드대 에서 생물 통계학 박사 학위 를 받 고 보스턴컨설팅 그룹 컨설턴트 로 일한 경력 도 있 는 박유현 대표 는 2010 년 온라인 에서 쏟아지 는 음란 광고 의 심각성 을 느낀 뒤 아이 들 에게 올바른 디지털 시민 의식 을 교육하 겠 다 는 생각 으로 비 정부 기구 ( NGO ) 활동 을 시작 했 다 .	ORG-B O O O O O O O O ORG-B ORG-I O O O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 전 대통령 영장 실질 심사 를 맡 은 강부영 ( 43 · 사법연수원 32 기 ) 영장 전담 판사 는 사건 기록 이 방대하 고 , 전직 대통령 의 뇌물 수수 라는 사건 의 중대성 을 감안 했 을 때 통상 적 으로 정해 지 는 2 일 의 준비 시간 으로 는 부족하 다고 판단 했 다 .	PER-B O O O O O O O O PER-B O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2007 년 까지 는 공휴일 이 었 으나 , 2008 년 부터 는 쉬 지 않 는 국경일 로 바뀌 었 습니다 .	DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+제헌절 은 자유 민주주의 와 헌법 수호 의 깊 은 뜻 을 담 고 있 습니다 .	O O O O O O O O O O O O O O O O O
+창원시 는 돝 섬 해피랜드 가 공개적 으로 문제 를 제기하 자 뒤늦 게 대책 마련 에 나섰 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+또 " 국정 농락 사태 의 주범 인 박근혜 와 공범자 들 까지 쓸어버려야 한다는 것 이 남조선 각계 에서 울려 나오 는 민심 의 목소리 " 라며 " 그럼에도 보수 패거리 들 은 지금 황당하 게 도 서울구치소 에 갇혀 있 는 박근혜 에 대한 동정 여론 을 유포 시키 려고 돌아치 고 있 다 " 고 주장 했 다 .	O O O O O O O O PER-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O LOC-B O O O O PER-B O O O O O O O O O O O O O O O O O O
+80 년대 초반 부터 이 다 .	O O O O O O O
+한화테크윈 , 에너지 장비 기업 GE Oil & Gas 와 MOU 체결	ORG-B O O O O ORG-B ORG-I ORG-I ORG-I O O O
+특히 이번 발사 는 마이크 펜스 미국 부통령 의 방한 직전 에 이뤄진 것 으로 한반도 긴장감 이 더욱 고조될 것 으로 보인다 .	O O O O PER-B PER-I ORG-B O O O O O O O O LOC-B O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O ORG-B ORG-I O
+북한 의 보통 남자 들 은 이른바 「 말 아초 」 라는 것 을 피운다 .	ORG-B O O O O O O O O O O O O O O O
+“ 북 의 「 핵 합의 」 실행 이 중요 ” / 방한 아호 핀란드 총리 인터뷰	O ORG-B O O O O O O O O O O O O O O O
+한국 모형 항공 협회 에 따르 면 현재 국내 드론 대수 는 5 만 대 이상 으로 추정된다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O

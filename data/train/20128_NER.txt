@@ -1,12 +1,12 @@
-그는 ‘캠프 내에서 상황 인식을 어떻게 하고 있냐’는 기자의 질문에는 “지금 세월호 추모식에 다녀오았기 때문에 캠프 상황을 많이 모르+ㄴ다”면서도 “당협위원장들이 이 사실 듣고 부글부글하고 있다고 듣었다”고 강조하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-김 장관은 국제무역협상과 무역기구의 운용면에서 높은 식견과 경륜을 가지었다고 소개하+ㄴ르몽드는 특히 한국이 개발도상국가들에 하나의 모델이라는 점을 강조하였다 .	PER-B O O O O O O O O PER-B O ORG-B O O O O O O
-메르스 현황, 환자 3명 추가 되+어 총 175명 … 사흘 연속 확진자, 환자 발생 계 .	O O O O O O O O O O O O O O O O
-한국여행업협회의 이병기 국장은 『한국은 미국의 10대 주요 교역국 중의 하나이고, 증가하는 인적 유통량을 감당하기 위하+여서는 비자 발급 창구를 늘리+어야 하+ㅁ에도 반대로 줄이어버리+ㄴ 것은 납득하기 어렵다』고 지적하였다 .	ORG-B PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-DNA 인터넷, 초강력 광합성 등 MIT가 제시하+ㄴ 2015년 10대 혁신기 .	O O O O O ORG-B O O O O O
-이와 함께 천안시의 추모공원 화장시설과 아산시의 공설봉안당(납골당) 시설의 이용료를 할인하고 천안·아산 시내버스 단일 요금제 도입도 적극 검토하기로 +였다 .	O O LOC-B O O LOC-B O O O O LOC-B O O O O O O O O
-이병기 대통령 비서실장의 부임과 함께 NSC 상임위원회 의장이+ㄴ 김 실장의 ‘존재감’이 흔들리는 것 아니냐는 분석이 나오는 이유+이다 .	PER-B O O O O ORG-B ORG-I O PER-B O O O O O O O O O
-총리는 어쩌+ㄹ 수 없다고 치고 이미 물러나 +ㄴ다고 밝히+ㄴ 경제부총리를 유임시키+ㄴ다는 것+이 말이 되는가. 정철근 Jpressbiz 대 .	O O O O O O O O O O O O O O PER-B ORG-B O O
-2015년 12월 보건복지부와 협약 하+ㄴ 뒤 전국 4000여곳의 지역아동센터에서 약 7000명의 청소년을 지원하고 있다 .	O O ORG-B O O O O O O O O O O O O
-5일 국회 입법조사처가 발간 하+ㄴ ‘2015국정감사 정책자료’에 따르면 국회 입법조사처는 “방송광고 총량제는 인기 프로그램으로의 방송광고 쏠림이나 광고 단가 하락 같은 부작용이 예상되 +ㄴ다”고 지적하였다 .	O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
-매주 일요일에는 비누·바람개비 등을 만들어보는 체험학습 프로그램이 운영되+ㄴ다 .	O O O O O O O O O
-“잠깐!” 쥬디가 벌떡 몸을 일으키었다 .	O PER-B O O O O
+그 는 ‘ 캠프 내 에서 상황 인식 을 어떻 게 하 고 있 냐 ’ 는 기자 의 질문 에 는 “ 지금 세월호 추모식 에 다녀 왔 기 때문 에 캠프 상황 을 많이 모른다 ” 면서 도 “ 당 협 위원장 들 이 이 사실 듣 고 부글부글 하 고 있 다고 들 었 다 ” 고 강조 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 장관 은 국제 무역 협상 과 무역 기구 의 운용 면 에서 높 은 식견 과 경륜 을 가 졌 다고 소개한 르 몽드 는 특히 한국 이 개발 도상 국가 들 에 하나 의 모델 이 라는 점 을 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O ORG-B O O O O O O O O O O O O O O O O O
+메르스 현황 , 환자 3 명 추가돼 총 175 명 … 사흘 연속 확진 자 , 환자 발생 계속	O O O O O O O O O O O O O O O O O O O
+한국 여행 업 협회 의 이병기 국장 은 『 한국 은 미국 의 10 대 주요 교역 국 중 의 하나 이 고 , 증가하 는 인적 유통량 을 감당하 기 위해서 는 비자 발급 창구 를 늘려야 함 에 도 반대 로 줄 여 버린 것 은 납득하 기 어렵 다 』 고 지적 했 다 .	ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+DNA 인터넷 , 초 강력 광합성 등 MIT 가 제시한 2015 년 10 대 혁신 기술	O O O O O O O ORG-B O O DAT-B DAT-I O O O O
+이 와 함께 천안시 의 추모 공원 화장 시설 과 아산시 의 공 설봉안 당 ( 납골당 ) 시설 의 이용료 를 할인하 고 천안 · 아산 시내버스 단일 요금 제 도입 도 적극 검토하 기 로 했 다 .	O O O LOC-B O O O O O O LOC-B O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O
+이병기 대통령 비서실 장 의 부임 과 함께 NSC 상임 위원회 의장 인 김 실장 의 ‘ 존재감 ’ 이 흔들리 는 것 아니 냐는 분석 이 나오 는 이유 다 .	PER-B O O O O O O O ORG-B ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O
+총리 는 어쩔 수 없 다고 치 고 이미 물러난다고 밝힌 경제 부총리 를 유임 시킨다는 게 말 이 되 는가 . 정철근 Jpressbiz 대표	O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B O
+2015 년 12 월 보건복지부 와 협약한 뒤 전국 4000 여 곳 의 지역 아동 센터 에서 약 7000 명 의 청소년 을 지원하 고 있 다 .	DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+5 일 국회 입법 조사 처 가 발간한 ‘ 2015 국정감사 정책 자료 ’ 에 따르 면 국회 입법 조사 처 는 “ 방송 광고 총량 제 는 인기 프로그램 으로 의 방송 광고 쏠림 이나 광고 단가 하락 같 은 부작용 이 예상된다 ” 고 지적 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O DAT-B O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+매주 일요일 에 는 비누 · 바람개비 등 을 만들 어 보 는 체험 학습 프로그램 이 운영된다 .	O DAT-B O O O O O O O O O O O O O O O O O
+“ 잠깐 ! ” 쥬디 가 벌떡 몸 을 일으 켰 다 .	O O O O PER-B O O O O O O O O

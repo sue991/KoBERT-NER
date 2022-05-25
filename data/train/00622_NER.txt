@@ -1,11 +1,11 @@
-대기업에 다니는 최진영(30·가명)씨는 얼마 전 병원에 다녀오았다 .	O O PER-B O O O O O
-넥센이 상대적으로 빈약하었던 포수 마스크까지 +어야 +였다 .	ORG-B O O O O O O O
-한편 맹기용은 지난해 5월 JTBC ‘냉장고를 부탁하+여’에 출연하+ 여꽁 치샌드위치 ‘맹모닝’을 만들었지만 혹평을 받으면서 자질 논란에 휩싸이었다 .	O PER-B O O ORG-B O O O O O O O O O O O O O
-김민건(56) 범시민대책위 부위원장은 “총탄 1발은 주민 1명과 불과 1m 정도의 가깝ㄴ지점에 떨어지+어 아찔 하+ㄴ 상황이었다”며 “특히 목장 내 주택과도 2m 정도로 근접 하+ㄴ 곳에 총탄이 떨어지었다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-삼시세끼 최지우, ‘잡티 없는’ 뽀얗+ㄴ 민낯 공개… 40대 피부+이라고 .	O PER-B O O O O O O O O
-하지만 최악의 파리 테러가 발생하면서 각국 정상들은 만나자마자 파리 테러 얘기부터 꺼내 +었다고 하+ㄴ다 .	O O LOC-B O O O O O LOC-B O O O O O O
-해군 창설자 이+ㄴ 고(故) 손원일 초대 해군참모총장의 부인 홍은혜 여사가 향년 100세의 나이로 19일 별세하였다 .	O O O O PER-B O O O PER-B O O O O O O O
-건국대 원광대는 각 5명, 동아대는 4명, 군산대 여수수산대 서울시립대 경산대 명지대는 각 1명의 비공인 학위를 인정하지 않기로 공식 결정하였다 .	ORG-B ORG-B O O ORG-B O ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O O
-바로 김상수(27)와 구자욱(24), 그리고 이승엽(41)이다 .	O PER-B PER-B O PER-B O
-김 감독은 올 시즌 선수단 주장으로 김상수를 지목하였다 .	PER-B O O O O O PER-B O O
-13일 대구소방본부 등에 따르면 이날 오전 8시56분께 대구시 달성군 옥포면 강림리88고속도로 광주방향 174㎞지점에서 25t 덤프트럭이 5t 화물차를 추돌하였다 .	O ORG-B O O O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O
+대기업 에 다니 는 최진영 ( 30 · 가명 ) 씨 는 얼마 전 병원 에 다녀 왔 다 .	O O O O PER-B O O O O O O O O O O O O O O O
+넥센 이 상대적 으로 빈약 했 던 포수 마스크 까지 써야 했 다 .	ORG-B O O O O O O O O O O O O O
+한편 맹기 용 은 지난해 5 월 JTBC ‘ 냉장고 를 부탁해 ’ 에 출연해 꽁치 샌드위치 ‘ 맹 모닝 ’ 을 만들 었 지만 혹평 을 받 으면서 자질 논란 에 휩싸 였 다 .	O PER-B PER-I O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김민건 ( 56 ) 범 시민 대책 위 부위원장 은 “ 총탄 1 발 은 주민 1 명 과 불과 1 m 정도 의 가까 운 지점 에 떨어져 아찔한 상황 이 었 다 ” 며 “ 특히 목장 내 주택 과 도 2 m 정도 로 근접한 곳 에 총탄 이 떨어 졌 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼시 세끼 최지우 , ‘ 잡티 없 는 ’ 뽀얀 민 낯 공개 … 40 대 피부 라고 ?	O O PER-B O O O O O O O O O O O O O O O O
+하지만 최악 의 파리 테러 가 발생하 면서 각국 정상 들 은 만나 자마자 파리 테러 얘기 부터 꺼냈 다고 한다 .	O O O LOC-B O O O O O O O O O O LOC-B O O O O O O O
+해군 창설자 인 고 ( 故 ) 손원일 초대 해군 참모 총장 의 부인 홍은혜 여사 가 향년 100 세 의 나이 로 19 일 별세 했 다 .	O O O O O O O PER-B O O O O O O PER-B O O O O O O O O DAT-B DAT-I O O O O
+건국대 원광대 는 각 5 명 , 동아대 는 4 명 , 군산대 여수수산대 서울시립대 경산대 명지대 는 각 1 명 의 비공인 학위 를 인정하 지 않 기 로 공식 결정 했 다 .	ORG-B ORG-B O O O O O ORG-B O O O O ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O
+바로 김상수 ( 27 ) 와 구자욱 ( 24 ) , 그리고 이승엽 ( 41 ) 이 다 .	O PER-B O O O O PER-B O O O O O PER-B O O O O O O
+김 감독 은 올 시즌 선수단 주장 으로 김상수 를 지목 했 다 .	PER-B O O O O O O O PER-B O O O O O
+13 일 대구 소방 본부 등 에 따르 면 이날 오전 8 시 56 분 께 대구시 달성군 옥포면 강림리 88 고속도로 광주 방향 174 ㎞ 지점 에서 25 t 덤프트럭 이 5 t 화물차 를 추돌 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O

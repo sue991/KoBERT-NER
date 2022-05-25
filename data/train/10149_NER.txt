@@ -1,13 +1,13 @@
-보훈처는 대전 현충원 내에 조성되 +ㄴ 장군 묘역이 모두 차+ㄹ 것으로 예상되는 2020년부터는 장군 묘역 규모를 기당 8평(약 26.4m²)에서 장교 및 사병과 같은 규모 이+ㄴ 기당 1평(약 3.3m²)으로 줄이+ㄹ 방침이다 .	ORG-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-(서울=뉴스1 .	LOC-B O
-다음은 일문일답. -문희상 의원 등 당내 중진 의원도 포함되었다 .	O O PER-B O O O O O O O
-김수현이 복동생 김주나 측 "홍보 목적 전혀 없었다 .	PER-B O PER-B O O O O O O
-1979년 총선에 전남 고흥-보성에서 무소속으로 당선하+ㄴ고(故) 김수전 공화당 의원의 아들이다 .	O O LOC-B LOC-B O O PER-B ORG-B O O O
-중저가 대형주 중에서는 아시아 자동차, 쌍용자동차 등이 강세를 유지하였다 .	O O O ORG-B ORG-I ORG-B O O O O
-검찰이 금융기록 등을 통하+ 여 파악하+ㄴ삼성의 지원금액은 지난해 10월까지 280만유로(약 35억원)가량이다 .	O O O O O ORG-B MNY-I O O MNY-B MNY-B O
-당초 삼성은 승마협회로부터 선수 6명을 대상으로 전지훈련비를 지원 하+ㄹ 방침이었으나 이 돈은 사실상 정씨에게만 지원+되었다 .	O ORG-B ORG-B O O O O O O O O O O PER-B O O
-앞서 +어 삼성 측은 협회 차원의 유망주 육성 프로그램의 일환으로 자금을 지원 하+ㄴ 것이 +ㄹ뿐이지 최씨 모녀가 수혜 대상이 모르았다는 취지로 해명하+ㄴ바 있다 .	O O ORG-B O O O O O O O O O O O O PER-B O O O O O O O O
-그렇지만 사정당국과 재계 등에 따르면 삼성은 올해 7월 무렵까지 최씨 모녀가 독일에 세우+ㄴ 법인에 자금을 송금 하+ㄴ 것으로 전하여 +지+었다 .	O O O O O ORG-B O O O PER-B O LOC-B O O O O O O O O O
-현지에서 만나 +ㄴ 야구 관계자와 취재진은 강정호의 레그킥(타격 하+ㄹ 때 왼발을 크게 들었 .	O O O O O O PER-B O O O O O O O
-선종필 대표는 “‘대박’ 같은 과도하+ㄴ 수익률을 기대하기보다 +ㄴ ‘중박’을 목표로 접근하는 것+이 바람직하다”고 말하였다 .	PER-B O O O O O O O O O O O O O O
-보건사회연구원이 20~65세 근로자 2만7492명을 조사하+ㄴ ‘한국근로환경조사(2011년)’를 분석하+ㄴ 결과+이다 .	ORG-B O O O O ORG-B O O O
+보훈 처 는 대 전현 충원 내 에 조성된 장군 묘역 이 모두 찰 것 으로 예상되 는 2020 년 부터 는 장군 묘역 규모 를 기 당 8 평 ( 약 26.4 m ² ) 에서 장교 및 사병 과 같 은 규모 인 기 당 1 평 ( 약 3.3 m ² ) 으로 줄일 방침 이 다 .	ORG-B ORG-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+다음 은 일문일답 . - 문희상 의원 등 당내 중진 의원 도 포함 됐 다 .	O O O O O PER-B O O O O O O O O O O
+김수현 이복동생 김주나 측 " 홍보 목적 전혀 없 었 다 "	PER-B O PER-B O O O O O O O O O
+1979 년 총선 에 전남 고흥 - 보성 에서 무소속 으로 당선한 고 ( 故 ) 김수 전 공화당 의원 의 아들 이 다 .	DAT-B DAT-I O O LOC-B LOC-B O LOC-B O O O O O O O O PER-B O ORG-B O O O O O O
+중저가 대형주 중 에서 는 아시아 자동차 , 쌍용자동차 등 이 강세 를 유지 했 다 .	O O O O O ORG-B ORG-I O ORG-B O O O O O O O O
+검찰 이 금융 기록 등 을 통해 파악한 삼성 의 지원 금액 은 지난해 10 월 까지 280 만 유로 ( 약 35 억 원 ) 가량 이 다 .	O O O O O O O O ORG-B O O O O O DAT-B DAT-I O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O
+당초 삼성 은 승마 협회 로부터 선수 6 명 을 대상 으로 전지훈련 비 를 지원할 방침 이 었 으나 이 돈 은 사실상 정 씨 에게 만 지원 됐 다 .	O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+앞서 삼성 측 은 협회 차원 의 유망주 육성 프로그램 의 일환 으로 자금 을 지원한 것 일 뿐 이 지 최 씨 모녀 가 수혜 대상 이 몰 랐 다는 취지 로 해명한 바 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+그렇지만 사정 당국 과 재계 등 에 따르 면 삼성 은 올해 7 월 무렵 까지 최 씨 모녀 가 독일 에 세운 법인 에 자금 을 송금한 것 으로 전해 졌 다 .	O O O O O O O O O ORG-B O O DAT-B DAT-I O O PER-B O O O LOC-B O O O O O O O O O O O O O
+현지 에서 만난 야구 관계자 와 취재진 은 강정호 의 레그 킥 ( 타격할 때 왼발 을 크 게 들 었 다	O O O O O O O O PER-B O O O O O O O O O O O O O
+선종필 대표 는 “ ‘ 대박 ’ 같 은 과도한 수익률 을 기대하 기 보단 ‘ 중 박 ’ 을 목표 로 접근하 는 게 바람직하 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보건 사회 연구원 이 20 ~ 65 세 근로자 2 만 7492 명 을 조사한 ‘ 한국 근로 환경 조사 ( 2011 년 ) ’ 를 분석한 결과 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O ORG-B O O O O DAT-B DAT-I O O O O O O O

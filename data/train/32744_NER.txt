@@ -1,17 +1,17 @@
-소설가 오정희씨와의 만남을 기다리는 독자들이었다 .	O PER-B O O O O
-부산 삼정 더파크에 있던 시베리아 호랑이를 모델 삼아 카메라와 비디오로 촬영 후 애꾸눈부터 항문까지 꼼꼼하+ㄴ 모델링을 거치었다 .	LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
-중국이 18일 올해 말까지 북한에서 석탄 수입을 전면 금지하+ㄴ 것도 같은 연장선에 있다고 하+ㄹ 수 있다 .	ORG-B O O O ORG-B O O O O O O O O O O O O
-힘들다는 말 한마디 안 하던 연습생 김광림 코치는 2006년 두산에 입단하였던 ‘육성 선수 김현수’를 생생히 기억하고 있다 .	O O O O O O PER-B O O ORG-B O O O PER-B O O O O
-청와대 비아그라 구입? 조국 “비아그라·주사파(注射派) 정권!”비난, 표창원도 .	ORG-B O O PER-B ORG-B O PER-B O
-5일 지+ㄴ 교수는 자신의 트위터 계정에 “정의당에서 이런 XX들 구속시키는 법 좀 만들었으면”이라는 글과 함께 관련 기사를 링크하였다 .	O PER-B O O O O ORG-B O O O O O O O O O O O O
-해당 기사는 정 회장이 기업 공식 홈페이지를 통하+여경비원 폭행에 대하+여공식 사과하였다는 내용이다 .	O O PER-B O O O O O O O O O O
-진 교수는 이어 ‘미스터피자’가맹점주협회가 정 회장의 ‘갑질’을 추가로 폭로하였다는 내용의 기사 하나를 더 소개+였다 .	PER-B O O ORG-B PER-B O O O O O O O O O O
-한편 정 회장은 논란이 가라앉지 않자 이날 ‘미스터피자’ 홈페이지에 “저의 불찰이다 .	O PER-B O O O O O ORG-B O O O O
-새누리당 김영우 수석대변인은 브리핑에서 “참으로 안타깝ㄴ 일”이라며 “최근 정치권이 국정원을 압박하는 상황에서 발생하였다는 점에서 안타깝+ㅁ이 더욱 크다”고 말하였다 .	ORG-B PER-B O O O O O O O ORG-B O O O O O O O O O
-박철(朴哲) 부총재보는 “새해 들어 3년 만기 회사채 등 장기금리가 치솟은 것은 작년까지 억눌리+어 있던 지표금리가 현실화하면서 나타나 +ㄴ 현상”이라며 “적정치에 거의 근접하였기 때문에 채권거래가 다시 활성화되면 장기금리도 조만간 안정을 되찾을 것으로 보+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-현재 피해자 540명이 5건의 소송을 진행하고 있다 .	O O O O O O O O
-하지만 느리+ㄴ 백업 속도, 누적되+ㄴ 불필요하+ㄴ 파일 등으로 새롭ㄴ 맥북에 데이터를 복원 하+ㄹ 때마다 개운하+ㄴ맛이 없었습니다 .	O O O O O O O O O O O O O O O O O
-이번에 타임머신 없이 새롭ㄴ 맥북 세팅을 하+여보면서 느끼었던 부분은 생각하였던 것보다 훨씬 수월하였다는 점이 +ㅂ니다 .	O O O O O O O O O O O O O O O O
-한 지붕 아래 살아가며 아픔과 슬픔은 나누고 행복과 사랑은 키우어 나가+ㄴ다 .	O O O O O O O O O O O O
-‘빅월 페스티벌’은 빅월 클라이밍에 대하+ㄴ국내 등반가들의 도전을 돕기 위 하+여빅월 클라이밍의 다양하+ㄴ 기술들을 도심 속 인공암벽에서 자유롭게 펼치+ㄹ 수 있도록 마련되 +ㄴ거벽 등반가들의 축제+이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-이어 임수향은 "생각하+여보니 저+의 이상형이 섹시하+ㄴ사람이다" +이라며 "그러면서도 재미있어야 되+ㄴ다"고 강조하였다 .	O PER-B O O O O O O O O O O
+소설가 오정희 씨 와 의 만남 을 기다리 는 독자 들 이 었 다 .	O PER-B O O O O O O O O O O O O O
+부산 삼정 더 파크 에 있 던 시베리아 호랑이 를 모델 삼 아 카메라 와 비디오 로 촬영 후 애꾸눈 부터 항문 까지 꼼꼼한 모델링 을 거 쳤 다 .	LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 이 18 일 올해 말 까지 북한 에서 석탄 수입 을 전면 금지한 것 도 같 은 연장선 에 있 다고 할 수 있 다 .	ORG-B O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O
+힘들 다는 말 한마디 안 하 던 연습 생 김광림 코치 는 2006 년 두산 에 입단 했 던 ‘ 육성 선수 김현수 ’ 를 생생히 기억하 고 있 다 .	O O O O O O O O O PER-B O O DAT-B DAT-I ORG-B O O O O O O O PER-B O O O O O O O O
+청와대 비아그라 구입 ? 조국 “ 비아그라 · 주사 파 ( 注射派 ) 정권 ! ” 비난 , 표창원 도 …	ORG-B O O O PER-B O O O ORG-B ORG-I O ORG-B O O O O O O PER-B O O
+5 일 진 교수 는 자신 의 트위터 계정 에 “ 정의당 에서 이런 XX 들 구속 시키 는 법 좀 만들 었 으면 ” 이 라는 글 과 함께 관련 기사 를 링크 했 다 .	DAT-B DAT-I PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+해당 기사 는 정 회장 이 기업 공식 홈페이지 를 통해 경비원 폭행 에 대해 공식 사과 했 다는 내용 이 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O
+진 교수 는 이어 ‘ 미스터피자 ’ 가맹점 주 협회 가 정 회장 의 ‘ 갑 질 ’ 을 추가 로 폭로 했 다는 내용 의 기사 하나 를 더 소개 했 다 .	PER-B O O O O ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+한편 정 회장 은 논란 이 가라앉 지 않 자 이날 ‘ 미스터피자 ’ 홈페이지 에 “ 저 의 불찰 이 다 .	O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O
+새누리당 김영우 수석 대변인 은 브리핑 에서 “ 참으로 안타까 운 일 ” 이 라며 “ 최근 정치권 이 국정원 을 압박하 는 상황 에서 발생 했 다는 점 에서 안타까움 이 더욱 크 다 ” 고 말 했 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+박철 ( 朴哲 ) 부총재 보 는 “ 새해 들 어 3 년 만기 회사채 등 장기 금리 가 치솟 은 것 은 작년 까지 억눌려 있 던 지표 금리 가 현실화하 면서 나타난 현상 ” 이 라며 “ 적정 치 에 거의 근접 했 기 때문 에 채권 거래 가 다시 활성화되 면 장기 금리 도 조만간 안정 을 되찾 을 것 으로 본다 ” 고 말 했 다 .	PER-B O PER-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 피해자 540 명 이 5 건 의 소송 을 진행하 고 있 다 .	O O O O O O O O O O O O O O O
+하지만 느린 백업 속도 , 누적된 불필요한 파일 등 으로 새로 운 맥 북 에 데이터 를 복원할 때 마다 개운한 맛 이 없 었 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 에 타임머신 없이 새로 운 맥 북 세팅 을 해 보 면서 느 꼈 던 부분 은 생각 했 던 것 보다 훨씬 수월 했 다는 점 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 지붕 아래 살아가 며 아픔 과 슬픔 은 나누 고 행복 과 사랑 은 키 워 나간다 .	O O O O O O O O O O O O O O O O O O O
+‘ 빅월 페스티벌 ’ 은 빅월 클라이밍 에 대한 국내 등반 가 들 의 도전 을 돕 기 위해 빅월 클라이밍 의 다양한 기술 들 을 도심 속 인공 암벽 에서 자유롭 게 펼칠 수 있 도록 마련된 거벽 등반 가 들 의 축제 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 임수향 은 " 생각해 보 니 제 이상형 이 섹시한 사람 이 다 " 라며 " 그러 면서 도 재밌 어야 된다 " 고 강조 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,16 +1,16 @@
-팀의 세대교체 바람은 적토마를 빗기+어가지 않았고, 결국 그는 올 시즌 단 한 타석에 만들어서 +ㄴ 채정들+ㄴ그라운드를 떠나 +았다 .	O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 5월 한국과 일본에서 애플 아이폰 앱스토어 마켓의 무료 앱 부문 1위를 차지하였다 .	O O ORG-B ORG-B ORG-B O O O O O O O O O
-이에 김제동이 “그럼 그 남자들은 어떻게 +었느냐”라고 묻자 “나+의 얼굴을 보고 문 워크로 뒷걸음질치 +어도망가 +았다”라고 말 하+ 여웃음을 유발하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O
-포스트 신치용은? 40대 감독들 첫 시험 .	O O O O O O O
-‘크+ㄴ 정치인’ 이미지 구축 포석… 안철수 측 “경쟁 상대 이미 헛발질 .	O O O O O PER-B O O O O O O
-“EXID ‘아예’ 하니 귀엽다 .	ORG-B O PER-B O O
-1일 방송한 3회까지 시청자는 기대 이상의 열연을 보이어 주+ㄴ 준호를 호평하며 향후 활약을 기대하였다 .	O O O O O O O O O PER-B O O O O O
-연료 소비효율은 각각 L당 10.6km와 10.9km+이다 .	O O O O O O O
-미국에서 임팔라 판매가격은 2만6385달러~3만6265달러(약 2953만~4058만원)이지만 국내 출시 가격은 미정이다 .	ORG-B O O MNY-B MNY-B O O O O O
-한국닛산은 오는 10월을 전후로 ‘맥시마’를 도입하+ㄹ 계획이다 .	ORG-B O O O O O O O
-새누리당도 “야당이 헛다리를 짚었다”고 주장 하+ㄴ다 .	ORG-B O O O O O O
-홍승만이 남기+ㄴ 메모지 속에 +ㄴ ‘어머니 형님 등 모두에게 죄송하+ㅂ니다 .	PER-B O O O O O O O O O O
-양쪽 팬들은 SNS에서 두 사람의 결별을 반기는 각종 이벤트를 벌이고 있다 .	O O O O O O O O O O O O
-6월 말 정권을 넘기+어주며 유권자들에게 ‘독재에 맞서라’라고 일갈하였던 아키노 전 대통령은 21일 “앞으로 1년간 현대통령에 대하+ㄴ 비난을 삼가겠다 .	O O O O O O O O PER-B O O O O O O O O O O
-[스포츠7330] 대한체육회 ‘한마음워크숍 .	O ORG-B O O
-이에 따르 아병원 설립까지는 제주도의 공식 허가 절차만 남았다 .	O O O O ORG-B O O O O O
+팀 의 세대교체 바람 은 적토마 를 빗겨 가 지 않 았 고 , 결국 그 는 올 시즌 단 한 타석 에 만 들어선 채 정든 그라운드 를 떠났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 5 월 한국 과 일본 에서 애플 아이폰 앱 스토어 마켓 의 무료 앱 부문 1 위 를 차지 했 다 .	O DAT-B DAT-I ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O
+이 에 김제동 이 “ 그럼 그 남자 들 은 어떻 게 됐 느냐 ” 라고 묻 자 “ 내 얼굴 을 보 고 문 워크 로 뒷걸음질 쳐 도망갔 다 ” 라고 말해 웃음 을 유발 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+포스트 신치용 은 ? 40 대 감독 들 첫 시험대	O O O O O O O O O O
+‘ 큰 정치인 ’ 이미지 구축 포석 … 안철수 측 “ 경쟁 상대 이미 헛발질 ”	O O O O O O O O PER-B O O O O O O O
+“ EXID ‘ 아예 ’ 하 니 귀엽 다 ”	O ORG-B O O O PER-B PER-I O O O
+1 일 방송 한 3 회 까지 시청자 는 기대 이상 의 열연 을 보 여 준 준호 를 호평하 며 향후 활약 을 기대 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+연료 소비 효율 은 각각 L 당 10.6 km 와 10.9 km 다 .	O O O O O O O O O O O O O O
+미국 에서 임팔라 판매 가격 은 2 만 6385 달러 ~ 3 만 6265 달러 ( 약 2953 만 ~ 4058 만 원 ) 이 지만 국내 출시 가격 은 미정 이 다 .	ORG-B O O O O O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O
+한국 닛산 은 오 는 10 월 을 전후 로 ‘ 맥 시마 ’ 를 도입할 계획 이 다 .	ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O O O O O O O
+새누리당 도 “ 야당 이 헛다리 를 짚 었 다 ” 고 주장한다 .	ORG-B O O O O O O O O O O O O O
+홍승만 이 남긴 메모지 속 엔 ‘ 어머니 형님 등 모두 에게 죄송합니다 .	PER-B O O O O O O O O O O O O O
+양쪽 팬 들 은 SNS 에서 두 사람 의 결별 을 반기 는 각종 이벤트 를 벌이 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O
+6 월 말 정권 을 넘겨 주 며 유권자 들 에게 ‘ 독재 에 맞서 라 ’ 라고 일갈 했 던 아키노 전 대통령 은 21 일 “ 앞 으로 1 년 간 현 대통령 에 대한 비난 을 삼가 겠 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+[ 스포츠 7330 ] 대한체육회 ‘ 한마음 워크숍 ’	O O O O ORG-B O O O O
+이 에 따 라 병원 설립 까지 는 제주도 의 공식 허가 절차 만 남 았 다 .	O O O O O O O O ORG-B O O O O O O O O O

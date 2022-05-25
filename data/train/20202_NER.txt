@@ -1,12 +1,12 @@
-20여년 전부터 샌프란시스코 교육국에서 일하+여오+ㄴ 김옥순 박사와 이 지역 한국교포학부모들이 하나로 뜻을 모으+ㄴ 결과 +이며, 한국교포들의 위상을 한층 높이었다는 평가를 받은 일이다 .	O O ORG-B ORG-I O PER-B O O O ORG-B O O O O O ORG-B O O O O O O O
-면세점 품은 신세계 百본점, 13일 오 .	O O ORG-B ORG-I O O O
-슈틸리케 감독도 강 하+ㄴ 체력을 바탕으로 하+ㄴ ‘점유율 축구’를 추구하기는 마찬가지+이다 .	PER-B O O O O O O O O O O O
-3-3이던 6회 초 무사 1·2루에서 좌투수 박정진의 직구를 받아 치+어가운데 담장을 훌쩍 넘기었다 .	O O O O O O PER-B O O O O O O O
-지나+ㄴ 총선 때보다 10%포인트 가까이 빠지었다 .	O O O O O O O
-한편, 10일 방송되+ㄴ‘라디오 스타’에서는 양세형·양세찬 형제와 박나래, 장도연이 출연하+ 여입담을 과시하였다 .	O O O O PER-B PER-I PER-B PER-B O O O O
-이낙연 전남지사도 여수지역의 특성을 감안하+여19일 박근혜 대통령 주재 전국시도지사 간담회에서 2017년 유엔 기후변화총회 여수 개최를 지원 하+여주+ㄹ 것을 건의하였다 .	PER-B O LOC-B O O PER-B O O O O O O O LOC-B O O O O O O
-최순실 사진 공개 하+ㄴ 박범계 "대통령 측 '전문법칙' 적용 주장 … 탄핵 오래 걸리+어 .	PER-B O O O PER-B O O O O O O O O O O
-문체부, 스포츠 기업 상대 ‘크라우드펀딩’ 설명회 개 .	ORG-B O O O O O O O
-400조원대의 ‘슈퍼 추경’이 국회를 통과하+ㄴ지 보름 남짓밖에 안 되었는데 나랏빚을 동원하+ㄴ 내년 상반기 추경 편성에 동의하기도 어렵다 .	MNY-B O O O O O O O O O O O O O O O O O
-지난달 유럽지역 자동차 등록대수가 전년 같은 기간 대비 10.6% 증가 하+ㄴ 160만 4000대를 기록하+ㅁ에 따르 아현대·기아차도 지난해 11월(6.1%) 이후 4개월 만에 점유율 6%선을 회복하였다 .	O LOC-B O O O O O O O O O O O O O ORG-B O O O O O O O O O
-결국 박병호는 6월 1할 대타율을 기록하+ㄴ 후 7월 마이너리그로 내려가 +았다 .	O PER-B O O O O O O ORG-B O O O
+20 여 년 전 부터 샌프란시스코 교육 국 에서 일해 온 김옥순 박사 와 이 지역 한국 교포 학부모 들 이 하나 로 뜻 을 모은 결과 며 , 한국 교포 들 의 위상 을 한층 높 였 다는 평가 를 받 은 일 이 다 .	O O O O O ORG-B ORG-I ORG-I O O O PER-B O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+면세점 품 은 신세계 百 본점 , 13 일 오픈	O O O ORG-B ORG-I O O DAT-B DAT-I O
+슈틸리케 감독 도 강한 체력 을 바탕 으로 한 ‘ 점유율 축구 ’ 를 추구하 기 는 마찬가지 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+3 - 3 이 던 6 회 초 무사 1 · 2 루 에서 좌 투수 박정진 의 직구 를 받아쳐 가운데 담장 을 훌쩍 넘 겼 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+지난 총선 때 보다 10 % 포인트 가까이 빠 졌 다 .	O O O O O O O O O O O O
+한편 , 10 일 방송된 ‘ 라디오스타 ’ 에서 는 양세 형 · 양세찬 형제 와 박나래 , 장도연 이 출연해 입담 을 과시 했 다 .	O O DAT-B DAT-I O O O O O O PER-B PER-I O PER-B O O PER-B O PER-B O O O O O O O O
+이낙연 전남 지사 도 여수 지역 의 특성 을 감안해 19 일 박근혜 대통령 주재 전국 시도 지사 간담회 에서 2017 년 유엔 기후변화 총회 여수 개최 를 지원해 줄 것 을 건의 했 다 .	PER-B O O O LOC-B O O O O O DAT-B DAT-I PER-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+최순실 사진 공개한 박범계 " 대통령 측 ' 전문 법칙 ' 적용 주장 … 탄핵 오래 걸려 "	PER-B O O PER-B O O O O O O O O O O O O O O
+문체부 , 스포츠 기업 상대 ‘ 크라우드 펀딩 ’ 설명 회 개최	ORG-B O O O O O O O O O O O
+400 조 원 대 의 ‘ 슈퍼 추경 ’ 이 국회 를 통과한 지 보름 남짓 밖에 안 됐 는데 나랏빚 을 동원한 내년 상반기 추경 편성 에 동의하 기 도 어렵 다 .	MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난달 유럽 지역 자동차 등록 대수 가 전년 같 은 기간 대비 10.6 % 증가한 160 만 4000 대 를 기록함 에 따 라 현대 · 기아차 도 지난해 11 월 ( 6.1 % ) 이후 4 개월 만 에 점유율 6 % 선 을 회복 했 다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+결국 박병호 는 6 월 1 할 대 타율 을 기록한 후 7 월 마이너리그 로 내려갔 다 .	O PER-B O DAT-B DAT-I O O O O O O O DAT-B DAT-I ORG-B O O O O

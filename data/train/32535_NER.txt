@@ -1,10 +1,10 @@
-하지만 성적표에 분명히 적히 +어 있지 않은가. ‘다음 시험에도 1등을 하+여야 진짜 +이+ㄴ 데…’. 걱정이 스치+어가+ㄴ다 .	O O O O O O O O O O O O O O O O O
-전학오+ㄴ국민이는 첫 시험에서 3등이다 .	PER-B O O O O
-현재 새누리당에서 +ㄴ ‘반기문 대세론’이, 더민주당에서 +ㄴ ‘문재인 대세론’이 나 오+ㄴ다 .	O ORG-B O PER-B O ORG-B O PER-B O O O O
-대상은 패시브셀릭트 기어액츄에이터 아이디어를 내+ㄴ 조형욱 책임연구원이 수상하였다 .	O O O O O PER-B O O O
-10억 상납 받은 前 이사 장기소… 물품 구매대행업체 대표 구 .	MNY-B O O O O O O O O O O
-■리우를 달구+ㄹ 가족올림피언 탁구안재형감독·골프 안병훈 父子비너스·세레나 자매 테니스金 예약 ‘가족의 이름으로 …!’ 올림픽은 전 세계 최고의 체육인들만이 모이는 ‘꿈의 무대’+이다 .	LOC-B O O PER-B PER-B PER-B O O O O O O O O O O O O O O O
-국회 국방위원회 소속 백군기 새정치민주연합 의원은 병무청에서 제출받은 자료에서 확인되 +ㄴ병역기피의 실상을 최근 밝히면서 “고위공직자 어떤 분은 장남, 차남, 삼남이다 병역면제를 받았는데 누구+이+ㄴ지 알느냐”고 병무청장에게 따지+어묻었다 .	ORG-B ORG-I O PER-B ORG-B O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O
-천사들의 합창, 히메나 선생님이 포르노 배우?… 근황 알려지+ .	O O PER-B O O O O O O
-당정은 또 내년 예산 400조5000억원 중 30%를 3월 말 이전에 조기집행 하+여 상반기(1~6월)에 만 전체 예산의 60%를 쓰기로 +였다 .	O O O O MNY-B O O O O O O O O O O O O O O O
-이어 문성민 결혼발표 후 “장충체육관이 50년 만에 리모델링 하+ㄴ 것으로 알+ㄴ다 .	O PER-B O O LOC-B O O O O O O O
+하지만 성적표 에 분명히 적혀 있 지 않 은가 . ‘ 다음 시험 에 도 1 등 을 해야 진짠데 … ’ . 걱정 이 스쳐 간다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전학 온 국민 이 는 첫 시험 에서 3 등 이 다 .	O O PER-B PER-I O O O O O O O O O
+현재 새누리당 에선 ‘ 반기문 대세 론 ’ 이 , 더 민주당 에선 ‘ 문재인 대세 론 ’ 이 나온다 .	O ORG-B O O PER-B O O O O O ORG-B ORG-I O O PER-B O O O O O O
+대상 은 패시브 셀릭 트 기 어 액츄에이터 아이디어 를 낸 조형욱 책임 연구원 이 수상 했 다 .	O O O O O O O O O O O PER-B O O O O O O O
+10 억 상납 받 은 前 이사장 기소 … 물품 구매 대행업체 대표 구속	MNY-B MNY-I O O O O O O O O O O O O
+■ 리우 를 달굴 가족 올림 피언 탁구 안재형 감독 · 골프 안병훈 父子 비너스 · 세레나 자매 테니스 金 예약 ‘ 가족 의 이름 으로 … ! ’ 올림픽 은 전 세계 최고 의 체육인 들 만 이 모이 는 ‘ 꿈 의 무대 ’ 다 .	O LOC-B O O O O O O PER-B O O O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국회 국방 위원회 소속 백군기 새정치민주연합 의원 은 병무청 에서 제출 받 은 자료 에서 확인된 병역 기피 의 실상 을 최근 밝히 면서 “ 고위 공직자 어떤 분 은 장남 , 차남 , 삼남 이 다 병역 면제 를 받 았 는데 누군지 아 느냐 ” 고 병무청 장 에게 따져 물 었 다 .	ORG-B ORG-I ORG-I O PER-B ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+천사 들 의 합창 , 히메 나 선생님 이 포르노 배우 ? … 근황 알려져	O O O O O PER-B PER-I O O O O O O O O
+당정 은 또 내년 예산 400 조 5000 억 원 중 30 % 를 3 월 말 이전 에 조기 집행해 상반기 ( 1 ~ 6 월 ) 에 만 전체 예산 의 60 % 를 쓰 기 로 했 다 .	O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 문성민 결혼 발표 후 “ 장충체육관 이 50 년 만 에 리모델링 한 것 으로 안다 .	O PER-B O O O O LOC-B O O O O O O O O O O O

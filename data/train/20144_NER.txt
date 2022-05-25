@@ -1,11 +1,11 @@
-각 기업의 성격, 연령, 목적에 맞게 프로그램을 추천하+여주고 관리하는 것이죠. 실제로 프로그램에 참여하였던 GWP(GreatW orkPlace) 담당자는 “일상에서 벗어나 +아미술에서 주는 심적으로 힐링의 시간이었고 그룹장과 직원들이 이런 GWP 행사는 처음이었다고 하+ㄴ다”고 전하였습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-NBA 스테픈 커리 ‘만장일치 MVP’ 새 역사 쓰 .	ORG-B PER-B PER-I O O O O O O
-그러니 J여사가 사교계에서 ‘얄밉ㄴX’이란 질시를 한 몸에 받지 않겠는가.J여사는 중년에 접어들었어도 여전히 ‘쭉쭉빵빵’이다 .	O PER-B O O O O O O PER-B O O O O O
-엄마들의 육아카페에는 유치원 추첨을 놓고 “한국을 떠나고 싶다”는 분노의 글이 넘치고 있다 .	O O O O O ORG-B O O O O O O O
-9연승을 내달리+ㄴ 3위 한국전력(53점)은 4위 대한항공(43점)보다 2위 OK저축은행(58점)과의 승점 차이가 적다 .	O O O ORG-B O ORG-B O ORG-B O O O O
-○… 경기도 동두천에 있는 부조종사 유영재 대위의 가족들은 사고가 나 +ㄴ지 6시간이 지나 +ㄴ 뒤에야 군으로부터 사고 소식을 전하+ 여듣고 대성통곡하였다 .	O LOC-B LOC-I O O PER-B O O O O O O O O O O O O O O O O
-문화 분야에서는 「우리가락 우리 문화」「우리의 옛 노래」 외에도 「한국인의 애송 시」「정지용 전집」「윤동주 평전」「좋은 시 94」 등 고전부터 최근작까지 오르아있다 .	O O O O O O O O O O O O O O O O O O O O
-법원이 아내 서정희씨를 폭행하+ㄴ 혐의로 기소되+ㄴ 방송인 겸 목사 서세원씨에게 법원이 징역 6월 집행유예 2년 판결을 내리었다 .	O O PER-B O O O O O O PER-B O O O O O O O O
-스윈튼은 “영화로 관객을 놀라게 하고 싶고, 그 기회가 한국이 되기 +ㄹ바라+ㄴ다”고 애정을 드러내+었다 .	PER-B O O O O O O O ORG-B O O O O O
-EMK의 첫 프로젝트 +이었던 2010 뮤지컬 ‘모차르트!’는 EMK를 지금의 자리에 있게 하+여주+ㄴ 좋은 인연과 기회를 만들어 주+ㄴ 특별 하+ㄴ 작품이+ㅂ니다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O
-25일 실시되 +ㄴ광주·전남·제주 경선 현장투표에서 유권자를 단체로 차량으로 싣어 나르며 특정 후보를 찍으라고 독려하는 정황이 포착되 +ㄴ 것이다 .	O O LOC-B O O O O O O O O O O O O O O O O
+각 기업 의 성격 , 연령 , 목적 에 맞 게 프로그램 을 추천해 주 고 관리하 는 것 이 죠 . 실제로 프로그램 에 참여 했 던 GWP ( Great Work Place ) 담당자 는 “ 일상 에서 벗어나 미술 에서 주 는 심적 으로 힐링 의 시간 이 었 고 그룹 장 과 직원 들 이 이런 GWP 행사 는 처음 이 었 다 고 한다 ” 고 전 했 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+NBA 스테픈 커리 ‘ 만장일치 MVP ’ 새 역사 쓰 다	ORG-B PER-B PER-I O O O O O O O O
+그러 니 J 여사 가 사교계 에서 ‘ 얄미 운 X ’ 이 란 질시 를 한 몸 에 받 지 않 겠 는가 . J 여사 는 중년 에 접어들 었 어도 여전히 ‘ 쭉쭉 빵빵 ’ 이 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+엄마 들 의 육아 카페 에 는 유치원 추첨 을 놓 고 “ 한국 을 떠나 고 싶 다 ” 는 분노 의 글 이 넘치 고 있 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+9 연승 을 내달린 3 위 한국전력 ( 53 점 ) 은 4 위 대한항공 ( 43 점 ) 보다 2 위 OK 저축은행 ( 58 점 ) 과 의 승점 차이 가 적 다 .	O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+○ … 경기 도 동두천 에 있 는 부조종사 유영재 대위 의 가족 들 은 사고 가 난 지 6 시간 이 지난 뒤 에 야 군 으로부터 사고 소식 을 전해 듣 고 대성통곡 했 다 .	O O LOC-B LOC-I LOC-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문화 분야 에서 는 「 우리 가락 우리 문화 」 「 우리 의 옛 노래 」 외 에 도 「 한국인 의 애송시 」 「 정지용 전집 」 「 윤동주 평전 」 「 좋 은 시 94 」 등 고전 부터 최근 작 까지 올 라 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+법원 이 아내 서정희 씨 를 폭행한 혐의 로 기소된 방송인 겸 목사 서세원 씨 에게 법원 이 징역 6 월 집행 유예 2 년 판결 을 내 렸 다 .	O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+스윈튼 은 “ 영화 로 관객 을 놀라 게 하 고 싶 고 , 그 기회 가 한국 이 되 길 바란다 ” 고 애정 을 드러냈 다 .	PER-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+EMK 의 첫 프로젝트 였 던 2010 뮤지컬 ‘ 모차르트 ! ’ 는 EMK 를 지금 의 자리 에 있 게 해 준 좋 은 인연 과 기회 를 만들 어 준 특별한 작품 입니다 .	ORG-B O O O O O DAT-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+25 일 실시된 광주 · 전남 · 제주 경선 현장 투표 에서 유권자 를 단체 로 차량 으로 실 어 나르 며 특정 후보 를 찍 으라고 독려하 는 정황 이 포착된 것 이 다 .	DAT-B DAT-I O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O

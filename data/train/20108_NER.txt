@@ -1,12 +1,12 @@
-버크너는 보스턴이 2004년, 2007년 우승으로 밤비노의 저주를 끊은 후보스턴 팬들과 재회 하+ㄹ 수 있었다 .	PER-B ORG-B O O O O O O ORG-B O O O O O O
-사람은 물론 모든 생명의 가치가 존중받을 수 있는 도시를 만들겠다는 것.최근 정부에서도 반려동물 사업 육성정책을 발표하는 등 반려동물 천만 시대가 도래하+ㄴ만큼 안산시에서도 반려동물 관련 구체적 이+ㄴ 사업을 구상 중이다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O
-시에 따르면 해당 시간대 하루 평균 이용객 수가 버스는 6619명(3.1%), 지하철은 4868명(3.6%) 늘었다 .	O O O O O O O O O O O O O O
-그러나 2012년 SSG푸드마켓이 문을 열며 식문화에 민감하+ㄴ사람들이 모여들었고 이전부터 동네를 지키던 맛집 도 입소문을 타기 시작하였습니다 .	O O ORG-B O O O O O O O O O O O O O O
-지구상의 사람들 대부분은 12개의 작물에 주로 의존하여 먹고 살고 있는데, 이 중에서 밀, 벼, 옥수수와 감자가 60%를 차지하고 있다 .	O O O O O O O O O O O O O O O O O O O O
-캠리 하이브리드의 경우, 배터리 가격이 434만원에 달하+ㄴ다 .	O O O O O O O O
-10일 오전 10시부터 오후 5시까지 창원컨벤션센터(CECO·세코)에서 열리는 ‘경남 노인사회활동 지원 활성화대회’는 노인들의 사회활동 참여를 늘리고 활기차+ㄴ 노년문화를 만들어주는 것이 목표+이다 .	O O O O O LOC-B O O O O O O O O O O O O O O O
-1년 후 달라지 +ㄹ 자신의 모습을 몸통에 표현하+ 여야 하기 때문이 +ㅂ니다 .	O O O O O O O O O O O O O
-공포 확산, 혹시나도?… 메르스 증상은 고열과 기 .	O O O O O O O O
-브리지 사업(BRIDGE·BeyondResearchandI nnovationDevelopm entforGoodE nterp rises)은 대학이 보유 하+ㄴ창의적 아이디어와 기술, 특허 등을 실용화하기 위하+여전국 20개 대학을 선정하+여 연간 150억원씩, 3년간 총 450억원을 지원하는 사업이다 .	O O O O O O O O O O O O O O O O O O O MNY-B O O MNY-B MNY-I O O
-이날 오전 만 하+여도 1차 투표에서 수위를 차지하+ㄴ이 후보의 우세가 점치+어+지었다 .	PER-B O O O O O O PER-B O O O O
-그러나 오후 결선투표의 뚜껑이 열리자 김 후보의 막판 역전극으로 판가름나+았다 .	O O O O O PER-B O O O O O
+버크너 는 보스턴 이 2004 년 , 2007 년 우승 으로 밤비노 의 저주 를 끊 은 후 보스턴 팬 들 과 재회할 수 있 었 다 .	PER-B O ORG-B O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O ORG-B O O O O O O O O O
+사람 은 물론 모든 생명 의 가치 가 존중 받 을 수 있 는 도시 를 만들 겠 다는 것 . 최근 정부 에서 도 반려동물 사업 육성 정책 을 발표하 는 등 반려동물 천만 시대 가 도래한 만큼 안산시 에서 도 반려 동물 관련 구체적 인 사업 을 구상 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+시 에 따르 면 해당 시간 대 하루 평균 이용객 수 가 버스 는 6619 명 ( 3.1 % ) , 지하철 은 4868 명 ( 3.6 % ) 늘 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 2012 년 SSG 푸드 마켓 이 문 을 열 며 식문화 에 민감한 사람 들 이 모여들 었 고 이전 부터 동네 를 지키 던 맛집 도 입 소문 을 타 기 시작 했 습니다 .	O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지구 상 의 사람 들 대부분 은 12 개 의 작물 에 주로 의존하 여 먹고살 고 있 는데 , 이 중 에서 밀 , 벼 , 옥수수 와 감자 가 60 % 를 차지하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+캠리 하이브리드 의 경우 , 배터리 가격 이 434 만 원 에 달한다 .	O O O O O O O O O O O O O O
+10 일 오전 10 시 부터 오후 5 시 까지 창원 컨벤션 센터 ( CECO · 세코 ) 에서 열리 는 ‘ 경남 노인 사회 활동 지원 활성화 대회 ’ 는 노인 들 의 사회 활동 참여 를 늘리 고 활기찬 노년 문화 를 만들 어 주 는 것 이 목표 다 .	DAT-B DAT-I O O O O O O O O LOC-B LOC-I LOC-I O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 년 후 달라질 자신 의 모습 을 몸통 에 표현해야 하 기 때문 입니다 .	O O O O O O O O O O O O O O O O
+공포 확산 , 혹시 나 도 ? … 메르스 증상 은 고열 과 기침	O O O O O O O O O O O O O O
+브리지 사업 ( BRIDGE · Beyond Research and Innovation Development for Good Enterprises ) 은 대학 이 보유한 창의적 아이디어 와 기술 , 특허 등 을 실용화하 기 위해 전국 20 개 대학 을 선정해 연간 150 억 원 씩 , 3 년 간 총 450 억 원 을 지원하 는 사업 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+이날 오전 만 해도 1 차 투표 에서 수위 를 차지한 이 후보 의 우세 가 점쳐 졌 다 .	O O O O O O O O O O O PER-B O O O O O O O O
+그러나 오후 결선투표 의 뚜껑 이 열리 자 김 후보 의 막판 역전극 으로 판가름 났 다 .	O O O O O O O O PER-B O O O O O O O O O

@@ -1,12 +1,12 @@
-역대 마스터스에서 처음 출전하+ㄴ 선수가 우승하+ㄴ 것은 딱 3번뿐이었다 .	O O O O O O O O O O
-2부의 오프닝은 이승환의 「기다리+ㄴ 날도, 지우어 지+ㄴ 날도」와 「제리제리 고고」 .	O O PER-B O O O O O O O O
-2008년 정규시즌 타격왕 김현수(0.357)가 그 해 PS에서 20타수 1안타(0.050)에 그치+ㄴ 것, 지난해 타율 0.318을 기록하였던 최형우(삼성)가 KS에서 21타수 2안타(0.095)로 부진하였던 것도 그 연장선상에 있다 .	O O O PER-B O O O O O O O O O O O ORG-B ORG-B O O O O O O O O
-그러나 지난해 홍콩 프랑스 등에 밀리+어 2009년(9위) 이후 7년 만에 순위가 가장 낮아 지+었죠.4.수출액 감소는 세계무역시장이 위축되고 특히 중국 경기가 둔화되었기 때문이 +ㅂ니다 .	O O ORG-B ORG-B O O O O O O O O O O O O O O ORG-B O O O O O
-일디림 총리는 곧 대통령의 권한을 강화하는 헌법 개정을 추진하겠다고 밝히었다 .	PER-B O O O O O O O O O O
-8살 장애아들 태우고 트럭 운전… 사고로 둘 다 사 .	O O O O O O O O O O
-우리당은 채이배 의원에 의거 하+여서 법안 제출되+어 있기 때문에 어떠하+ㄴ 경우에도 18세 선거연령 인하, 결선투표제 통과를 위하+여각당과 협의를 하고 특히 주 원내대표도 이러하+ㄴ 노력을 하는 것으로 알고 있다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-10~15% 준그룹도 사망률이 2배가량 +었다 .	O O O O O O
-강씨는 “아무리 가상공간이라고 하지만 도를 넘어서 +ㄴ 언어성희롱이 판치+ㄴ다”며 “범죄 이+ㄴ 데도 불구하고 이를 흥밋거리로 삼는 것 같아 불쾌하다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-그는 '나이제 비행기 타+아'+이라는 문자메시지를 보내자 도착 하+ㄴ 답장은 '나 연락 없으면 바로 다시 서울로 가 +아야 해'였다면서 그때가 '이상하였다'고 회상하였다 .	O O O O O O O O O O O O O O LOC-B O O O O O O O
-MBC 최고의 화제작이었던 ‘해를 품은 달’을 잇는 올 여름 단 하나의 판타지 멜로의 향취를 제대로 풍기+어내+ㄴ ‘밤선비’는 23일 밤 10시 6회 가 방송되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-한화-kt 경기는 5개 채널이 중계하였다 .	O O O O O O
+역대 마스터스 에서 처음 출전한 선수 가 우승한 것 은 딱 3 번 뿐 이 었 다 .	O O O O O O O O O O O O O O O O O O
+2 부 의 오프닝 은 이승환 의 「 기다린 날 도 , 지 워 진 날 도 」 와 「 제리 제리 고 고 」 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+2008 년 정규 시즌 타격 왕 김현수 ( 0.357 ) 가 그해 PS 에서 20 타수 1 안타 ( 0.050 ) 에 그친 것 , 지난해 타율 0.318 을 기록 했 던 최형우 ( 삼성 ) 가 KS 에서 21 타수 2 안타 ( 0.095 ) 로 부진 했 던 것 도 그 연장선 상 에 있 다 .	DAT-B DAT-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+그러나 지난해 홍콩 프랑스 등 에 밀려 2009 년 ( 9 위 ) 이후 7 년 만 에 순위 가 가장 낮 아 졌 죠 . # 4 . 수출액 감소 는 세계 무역 시장 이 위축되 고 특히 중국 경기 가 둔화 됐 기 때문 입니다 .	O O ORG-B ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+일 디림 총리 는 곧 대통령 의 권한 을 강화하 는 헌법 개정 을 추진하 겠 다고 밝 혔 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O
+8 살 장애아 들 태우 고 트럭 운전 … 사고 로 둘 다 사망	O O O O O O O O O O O O O O
+우리 당 은 채 이배 의원 에 의거해서 법안 제출돼 있 기 때문 에 어떠한 경우 에 도 18 세 선거 연령 인하 , 결선 투표 제 통과 를 위해 각 당 과 협의 를 하 고 특히 주 원내 대표 도 이러한 노력 을 하 는 것 으로 알 고 있 다 .	ORG-B ORG-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 ~ 15 % 준 그룹 도 사망률 이 2 배 가량 됐 다 .	O O O O O O O O O O O O O O O
+강 씨 는 “ 아무리 가상공간 이 라고 하 지만 도 를 넘어선 언어 성희롱 이 판친다 ” 며 “ 범죄 인데 도 불구하 고 이 를 흥밋거리 로 삼 는 것 같 아 불쾌하 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 ' 나 이제 비행기 타 ' 라는 문자 메시지 를 보내 자 도착한 답장 은 ' 나 연락 없 으면 바로 다시 서울 로 가야 해 ' 였 다 면서 그때 가 ' 이상 했 다 ' 고 회상 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+MBC 최고 의 화제 작 이 었 던 ‘ 해 를 품 은 달 ’ 을 잇 는 올 여름 단 하나 의 판타지 멜로 의 향취 를 제대로 풍겨 낸 ‘ 밤 선비 ’ 는 23 일 밤 10 시 6 회 가 방송된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O
+한화 - kt 경기 는 5 개 채널 이 중계 했 다 .	O O O O O O O O O O O O O

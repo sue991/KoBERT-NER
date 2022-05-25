@@ -1,17 +1,17 @@
-그러나 김희진의 세리머니가 본격 도마 위에 오르+ㄴ 것 +ㄴ올스타전이 끝나 +ㄴ이후부터 +이었다 .	O PER-B O O O O O O O O O O O
-함께 출연하+ㄴ 세월호 변호사, 박주민 더불어민주당 의원도 “(문을 떼+어내 +ㅁ으로 인하+여) 그 사실 여부에 대하+ㄴ 검증이 어렵어지는 것이 있어서 전문가들은 어쩌+ㄹ 수 없이 떼+어내더라도 잠금장치 부분 이런 것+ㄹ 사진을 좀 촬영하+ 여두 +어서 이후에 진상규명할 때 증거로 쓰+ㄹ 수 있게 하+여야 되+ㄴ다는 이야기들을 많이 하고 있다”고 밝히었다 .	O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이랜드타운 힐스가 이처럼 파격적 이+ㄴ 금액으로 분양하는 것은 이랜드그룹의 경영철학을 반영하였기 때문이라고 관계자는 말 하+ㄴ다 .	ORG-B O ORG-B O ORG-B O O O ORG-B O O ORG-B O O O O
-롯데마트(-0.9%) 등 대형마트는 물론 주요 TV홈쇼핑의 매출도 내림세다 .	ORG-B O O O O O O O O
-국민안심병원이+ㄴ한양대구리병원의 경우, 170번 환자를 신속하게 선별진료소로 이동시키었기 때문에 추가 감염 위험은 없다고 방역당국은 보고 있다 .	ORG-B O O O O O O O O O O O O O O O
-“나+ㄴ이 제 서른셋… 낭비 하+ㄹ 시간 없다 .	O O O O O O O O
-성동일, 김성령 때문에 결혼 후회?" 김성령과 부부의 연 맺고 싶었는데 … .	PER-B PER-B O O O PER-B O O O O O O
-말 바꾸기 수준이 아니라 정책을 바꾸고 있다”고 힐난하였고, 문 후보는 “제가 아니라고 하면 아니+ㄴ가보다라고 생각 하+여 달라”며 불만을 표하기도 +였다 .	O O O O O O O O PER-B O O O O O O O O O O O O
-이 후보와 최 후보 사이의 ‘불꽃설전’도 눈길을 끌었다 .	PER-B O PER-B O PER-B O O O O
-지난해 8월 7일 대전 NC 전부터 시작하+여출장하는 경기에서는 적어도 한 타석이 상 출루에 성공하는 놀랍ㄴ기록 행진이다 .	O O O O O O O O O O O O O O O O O
-‘활명수 118주년 한정판’에는 활명수가 탄생하+ㄴ 시기와 같은 19세기 말 작품 ‘나전칠산 수문끊음질이 층롱’의 문양을 새기었다 .	O O O O O O O O O O O O O O O O
-브라질의 한류 열풍은 리우데자네이루에서도 느끼+어+지었다 .	ORG-B O O LOC-B O O
-강원랜드 양성평등 위 하+ㄴ ‘여성위원회’ 운 .	ORG-B O O O O O O
-귀리 효능, "가수 장윤정 출산 후 15kg 감량 성공 "세계 10대 슈퍼푸드로 불리는 귀리의 효능은 무엇이 +ㄹ까 .	O O O PER-B O O O O O O O O O O O O O O
-개별소비세 인하, 향수 기본세율 7% →4.9%으로 낮아 지+어 .	O O O O O O O O O
-특히 지난해 말부터 올해 7월까지 장장 8개월을 끌 .	O O O O O O O O O
-1837년에 +ㄴ독학으로 변호사 자격을 취득하고 변호사 일을 시작하였다 .	O O O O O O O O O
+그러나 김희진 의 세리머니 가 본격 도마 위 에 오른 건 올스타 전 이 끝난 이후 부터 였 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+함께 출연한 세월호 변호사 , 박주민 더불 어 민주당 의원 도 “ ( 문 을 떼 냄 으로 인해 ) 그 사실 여부 에 대한 검증 이 어려 워 지 는 것 이 있 어서 전문가 들 은 어쩔 수 없이 떼 내 더라도 잠금장치 부분 이런 걸 사진 을 좀 촬영해 둬서 이후 에 진상 규명 할 때 증거 로 쓸 수 있 게 해야 된다는 이야기 들 을 많이 하 고 있 다 ” 고 밝 혔 다 .	O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이랜드 타운 힐스 가 이 처럼 파격적 인 금액 으로 분양하 는 것 은 이 랜드 그룹 의 경영 철학 을 반영 했 기 때문 이 라고 관계자 는 말한다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+롯데마트 ( - 0.9 % ) 등 대형 마트 는 물론 주요 TV 홈 쇼핑 의 매출 도 내림세 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+국민 안심 병원 인 한양대 구리병원 의 경우 , 170 번 환자 를 신속하 게 선별 진료소 로 이동 시 켰 기 때문 에 추가 감염 위험 은 없 다고 방역 당국 은 보 고 있 다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 난 이제 서른 셋 … 낭비할 시간 없 다 ”	O O O O O O O O O O O
+성동일 , 김성령 때문 에 결혼 후회 ? " 김성령 과 부부 의 연 맺 고 싶 었 는데 … "	PER-B O PER-B O O O O O O PER-B O O O O O O O O O O O
+말 바꾸 기 수준 이 아니 라 정책 을 바꾸 고 있 다 ” 고 힐난 했 고 , 문 후보 는 “ 제 가 아니 라고 하 면 아닌가 보 다라고 생각해 달 라 ” 며 불만 을 표하 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이 후보 와 최 후보 사이 의 ‘ 불꽃 설전 ’ 도 눈길 을 끌 었 다 .	PER-B O O PER-B O O O O O O O O O O O O O O
+지난해 8 월 7 일 대전 NC 전 부터 시작해 출장하 는 경기 에서 는 적어도 한 타석 이상 출루 에 성공하 는 놀라 운 기록 행진 이 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 활명수 118 주년 한정판 ’ 에 는 활명수 가 탄생한 시기 와 같 은 19 세기 말 작품 ‘ 나전 칠 산수문 끊음질 이층롱 ’ 의 문양 을 새 겼 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+브라질 의 한류 열풍 은 리우데자네이루 에서 도 느껴 졌 다 .	ORG-B O O O O LOC-B O O O O O O
+강원랜드 양성 평등 위한 ‘ 여성 위원회 ’ 운영	ORG-B O O O O O O O O
+귀리 효능 , " 가수 장윤정 출산 후 15 kg 감량 성공 " 세계 10 대 슈퍼 푸드 로 불리 는 귀리 의 효능 은 무엇 일까 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+개별 소비세 인하 , 향수 기본 세율 7 % → 4.9 % 으로 낮 아 져 ↓	O O O O O O O O O O O O O O O O O
+특히 지난해 말 부터 올해 7 월 까지 장장 8 개월 을 끌 다	O O O O O DAT-B DAT-I O O O O O O O
+1837 년 엔 독학 으로 변호사 자격 을 취득하 고 변호사 일 을 시작 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O

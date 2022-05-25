@@ -1,12 +1,12 @@
-조 대위는 지나 +ㄴ 1일 미국에서 하+ㄴ 인터뷰에서 세월호 참사 당일 자신의 근무지를 ‘청와대 의 무동’이라고 +였다가 이날 청문회에서의무실로 정정하었다 .	PER-B O O O O ORG-B O O O O O O O ORG-B O O O O O O O
-그러나 트럼프 대통령 취임 이후 모든 것+이 바뀌었다 .	O PER-B O O O O O O O
-김기호 삼성증권 UX기획팀장은 “홍채정보가 일종의 비밀번호와 같은 역할을 하게 되+ㄴ다”며 “고객들이 편리하게 쓰+ㄹ 수 있도록 다양하+ㄴ 방식의 생체인증 서비스를 도입하+ㄹ 것”이라고 말하였다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
-방탄소년단과 샤이니가 19일 각각 브라질 상파울루, 캐나다 토론토, 슈퍼주니어 규현이 태국 방콕에서 공연을 벌이었다 .	ORG-B ORG-B O O LOC-B LOC-B LOC-B LOC-B ORG-B O LOC-B LOC-B O O O
-박세웅이 아직 기대에 미치지 못하는 원인에 대하+여이 감독은 “아무래도 1군 첫해이 .	PER-B O O O O O PER-B O O O PER-B O
-윤주희·하석진 열애설에 소속사 “사실무근”… 열애설 터지+ㄴ이유는? 배우 하석진과 윤주희가 열애설이 불거지자 소속사측이 진화에 나서 +었다 .	PER-B O O O O O O PER-B PER-B O O O O O O O
-23일 오전 한 매체는 하석진과 윤주희가 연인 사이이라고 보도하었고 이에 두 사람의 소식은 급속도로 퍼지었다 .	O O O O PER-B PER-B O O O O O O O O O O
-하지만 이날 하석진 소속사 측은 “‘윤주희와의 실제 연인 사이’ 보도는 사실무근이다”며 열애설을 부인하였다 .	O O PER-B O O PER-B O O O O O O O O
-두 사람의 열애설은 앞서 +어한기사에서 드라마 내용을 전하는 과정에서 ‘실제 연인 사이’라고 와전되+ㄴ 것으로 알려지었다 .	O O O O O O O O O O O O O O O O
-한편 JTBC 드라마 ‘디데이’에서 하석진은 일반 외과부 교수로, 윤주희는 응급실 간호사로 열연 중이다 .	O ORG-B O O PER-B O O O PER-B O O O O O
-알렉산더가 거기서 인도네시아 재즈 명인들과 교류 하+ㄹ 수 있도록. 그러다 우연히 이국을 찾은 미국 명인들 눈에 띄고 말았다 .	O O ORG-B O O O O O O O O O O ORG-B O O O O O
-군 관계자는 “성군기 위반 사건은 지위고하를 막론하고 책임을 묻겠다는 무관용 원칙에 따르 아A 대령을 긴급체포하였다”며 “A 대령이 직위를 남용하+여 여군에게 성폭력을 행사하였는지 집중 조사 하+ㄹ 방침”이라고 밝히었다 .	O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O
+조 대위 는 지난 1 일 미국 에서 한 인터뷰 에서 세월호 참사 당일 자신 의 근무지 를 ‘ 청와대 의무 동 ’ 이라고 했 다가 이날 청문회 에서 의무실 로 정정 했 다 .	PER-B O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+그러나 트럼프 대통령 취임 이후 모든 게 바뀌 었 다 .	O PER-B O O O O O O O O O
+김기호 삼성증권 UX 기획 팀장 은 “ 홍채 정보 가 일종 의 비밀 번호 와 같 은 역할 을 하 게 된다 ” 며 “ 고객 들 이 편리하 게 쓸 수 있 도록 다양한 방식 의 생체 인증 서비스 를 도입할 것 ” 이라고 말 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방탄소년단 과 샤이니 가 19 일 각각 브라질 상파울루 , 캐나다 토론토 , 슈퍼 주니어 규현이 태국 방콕 에서 공연 을 벌 였 다 .	ORG-B O ORG-B O DAT-B DAT-I O LOC-B LOC-B O LOC-B LOC-B O ORG-B ORG-I O LOC-B LOC-B O O O O O O O
+박세웅 이 아직 기대 에 미치 지 못하 는 원인 에 대해 이 감독 은 “ 아무래도 1 군 첫해 이 다	PER-B O O O O O O O O O O O PER-B O O O O O O O O O
+윤주희 · 하석진 열애 설 에 소속 사 “ 사실무근 ” … 열애 설 터진 이유 는 ? 배우 하석진 과 윤주희 가 열애 설 이 불거지 자 소속 사 측 이 진화 에 나섰 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O
+23 일 오전 한 매체 는 하석진 과 윤주희 가 연인 사 이 라고 보도 했 고 이 에 두 사람 의 소식 은 급속도 로 퍼 졌 다 .	DAT-B DAT-I O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+하지만 이날 하석진 소속 사 측 은 “ ‘ 윤주희 와 의 실제 연인 사이 ’ 보도 는 사실무근 이 다 ” 며 열애 설 을 부인 했 다 .	O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+두 사람 의 열애 설 은 앞서 한 기사 에서 드라마 내용 을 전하 는 과정 에서 ‘ 실제 연인 사이 ’ 라고 와전된 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 JTBC 드라마 ‘ 디데이 ’ 에서 하석진 은 일반 외과 부교수 로 , 윤주희 는 응급실 간호사 로 열연 중 이 다 .	O ORG-B O O O O O PER-B O O O O O O PER-B O O O O O O O O O
+알렉산더 가 거기 서 인도네시아 재즈 명인 들 과 교류할 수 있 도록 . 그러 다 우연히 이국 을 찾 은 미국 명인 들 눈 에 띄 고 말 았 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+군 관계자 는 “ 성 군기 위반 사건 은 지위 고하 를 막론하 고 책임 을 묻 겠 다는 무 관용 원칙 에 따 라 A 대령 을 긴급 체포 했 다 ” 며 “ A 대령 이 직위 를 남용해 여군 에게 성폭력 을 행사 했 는지 집중 조사할 방침 ” 이라고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O

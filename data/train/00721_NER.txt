@@ -1,18 +1,18 @@
-광주환경운동연합 관계자는 “S산업의 TCE 배출량 감소와 공장 이전으로 해결되+ㄹ문제가 아니다”라며 “근로자와 시민의 건강을 위협하고 있으므로 정확하+ㄴ 피해조사가 진행되+어야 하+ㄴ다”고 말하였다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
-2016학년도 전문대 수시모집에서는 전국 137개 전문대에서 18만2297명을 선발하+ㄴ다 .	O O O O O O O O O
-김무성 대표비서실의 허숭 부실장은 김문수 지사와도 오래 일하였다 .	PER-B O PER-B O PER-B O O O O
-2011년 김 모씨(29·여)를 만나 +ㄴ 유씨는 “사업가 이+ㄴ데 강남역 근처에 바를 차리+ㄹ 것이다 .	O PER-B PER-I O O PER-B O O LOC-B O O O O O
-삼성전자가 모바일 메모리 시장에서 처음으로 ‘8GB(기가 바이트) D램 시대’를 열었다 .	ORG-B O O O O O O O O O O
-아들은 고등학생 때 이미 한 살 차이나는 부잣집 아들과외까지 하+여주+ㄹ만큼 공부를 잘하였다 .	O O O O O O O O O O O O O
-베이징의 한 외교 소식통은 “최근 중국이 고고도미사일 방어(THAAD·사드) 체계 배치에 날서+ㄴ 반응을 보이며 한국 정부에 배치 재고를 요구하고 있는 것도 가을로 예정되+ㄴ당대회와 무관하지 않다”고 분석하였다 .	LOC-B O O O O ORG-B O O O O O O O ORG-B ORG-I O O O O O O O O O O O
-4일 부천시에 따르면 ‘콜로설’의 일부 장면이 6일 오후 2시~7일 오전 7시 원미구 소향로 일원에서 촬영되+ㄴ다 .	O ORG-B O O O O O O O O O LOC-B LOC-B O O O
-강남차병원 전지현(소아청소년과) 교수는 “다 태아는 정하+여지+ㄴ자궁 속에서 여러 생명이 함께 생활하기 때문에 조산율이 굉장히 높다”며 “삼둥이들의 경우 체중 1.5㎏ 이하의 극소미숙아가 많다”고 말하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O
-반지름이 4000㎜에서 1800㎜로 줄면서 더 휘었다는 뜻이다 .	O O O O O O O O
-윤창완 제주도 감귤특작과장은 “날씨 때문에 감귤 가격이 크게 떨어지었지만 장기적으로는 저급 감귤을 시장에서 격리 하+여야 경쟁력을 갖추+ㄹ 수 있다”며 “소비자와 시장 중심의 생산과 유통이 구조개혁의 관건”이라고 말하였다 .	PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-제1종 집단 취락지구에 접하+ㄴ토지로 인덕원에 접하+여 있고, 지하철 4호선이+ㄴ 정부청사역 및 신설 예정이+ㄴ 지식정보타운역까지 10분이면 도착 가능하다 .	LOC-B LOC-I LOC-I O LOC-B O O O O LOC-B O O O LOC-B LOC-I O O O
-헌정 사상 첫 대통령 파면이라는 불명예 퇴진과 함께 사법처리를 피하+ㄹ 수 있다면 박 대통령이 ‘하야카드’를 꺼내겠지만 야권이 동의 하+ㄹ 리 없다는 얘기+이다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O
-그 중에서도 메종티시아에서 판매하는 태국 글라스웨어 브랜드 콩타본의 핸드메이드 유리 제품은 그리+ㄴ, 아쿠아 블루 등 시원하+ㄴ 색감과 빈티지한 디자인 덕분에 선반 위에 올리+ㄹ 소품으로도, 실제 사용하는 식기로도 활용하기 좋다 .	O O ORG-B O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-■KPGA 투어 상반기 결산“국내 대회 점점 줄어들어 생계조차 힘들다” 떠밀리듯 해외 진출 서두르는 선수 늘어 허인회 개막전 우승으로 ‘군인 돌풍’ 주도 군산CC 오픈 우승 루키 이수민 기대주로 한국 프로골프(KPGA) 투어가 6월 군산CC 오픈으로 상반기를 마감하였다 .	ORG-B O O O O O O O O O O O O O O PER-B O O O O O O O O O PER-B O ORG-B ORG-B O O O O O O O
-기업 수는 2012년 37개에서 2014년 54개로 증가하였다 .	O O O O O O O O
-보고서는 “중국의 중간재 수입 구조 변화에 대하+여 한국이 적절하+ㄴ 대응을 하지 못하고 있다”고 지적하였다 .	O ORG-B O O O O O ORG-B O O O O O O O
-미국과 일본은 비상을 걸 +ㄴ다 .	ORG-B ORG-B O O O O
+광주 환경 운동 연합 관계자 는 “ S 산업 의 TCE 배출 량 감소 와 공장 이전 으로 해결될 문제 가 아니 다 ” 라며 “ 근로자 와 시민 의 건강 을 위협하 고 있 으므로 정확한 피해 조사 가 진행돼야 한다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I ORG-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2016 학년도 전문대 수시 모집 에서 는 전국 137 개 전문대 에서 18 만 2297 명 을 선발한다 .	DAT-B O O O O O O O O O O O O O O O O O O
+김무성 대표 비서실 의 허숭 부 실장 은 김문수 지사 와 도 오래 일 했 다 .	PER-B O O O PER-B O O O PER-B O O O O O O O O
+2011 년 김 모 씨 ( 29 · 여 ) 를 만난 유 씨 는 “ 사업가 인데 강남역 근처 에 바 를 차릴 것 이 다 .	DAT-B DAT-I PER-B PER-I O O O O O O O O PER-B O O O O O LOC-B O O O O O O O O O
+삼성전자 가 모바일 메모리 시장 에서 처음 으로 ‘ 8 GB ( 기가바이트 ) D 램 시대 ’ 를 열 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+아들 은 고등학생 때 이미 한 살 차이 나 는 부잣집 아들 과외 까지 해 줄 만큼 공부 를 잘 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+베이징 의 한 외교 소식통 은 “ 최근 중국 이 고고도 미사일 방어 ( THAAD · 사드 ) 체계 배치 에 날 선 반응 을 보이 며 한국 정부 에 배치 재고 를 요구하 고 있 는 것 도 가을 로 예정된 당 대회 와 무관 치 않 다 ” 고 분석 했 다 .	LOC-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+4 일 부천시 에 따르 면 ‘ 콜로 설 ’ 의 일부 장면 이 6 일 오후 2 시 ~ 7 일 오전 7 시 원미구 소향 로 일원 에서 촬영된다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-B LOC-I O O O O
+강남 차 병원 전지현 ( 소아 청소년 과 ) 교수 는 “ 다태아 는 정해 진 자궁 속 에서 여러 생명 이 함께 생활하 기 때문 에 조산 율 이 굉장히 높 다 ” 며 “ 삼 둥이 들 의 경우 체중 1.5 ㎏ 이하 의 극소 미숙아 가 많 다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+반지름 이 4000 ㎜ 에서 1800 ㎜ 로 줄 면서 더 휘 었 다 는 뜻 이 다 .	O O O O O O O O O O O O O O O O O O O
+윤창완 제주도 감귤 특작 과장 은 “ 날씨 때문 에 감귤 가격 이 크 게 떨어 졌 지만 장기적 으로 는 저급 감귤 을 시장 에서 격리해야 경쟁력 을 갖출 수 있 다 ” 며 “ 소비자 와 시장 중심 의 생산 과 유통 이 구조 개혁 의 관건 ” 이라고 말 했 다 .	PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+제 1 종 집단 취락 지구 에 접한 토지 로 인덕원 에 접해 있 고 , 지하철 4 호 선 인 정부 청사 역 및 신설 예정 인 지식 정보 타운 역 까지 10 분 이 면 도착 가능하 다 .	LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O LOC-B O O O O O O O O O O LOC-B LOC-I LOC-I O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O
+헌정 사상 첫 대통령 파면 이 라는 불명예 퇴진 과 함께 사법 처리 를 피할 수 있 다면 박 대통령 이 ‘ 하야 카드 ’ 를 꺼내 겠 지만 야권 이 동의할 리 없 다는 얘기 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+그중 에서 도 메종 티시 아 에서 판매하 는 태국 글라스 웨어 브랜드 콩타 본의 핸드 메이드 유리 제품 은 그린 , 아쿠아 블루 등 시원한 색감 과 빈티지 한 디자인 덕분 에 선반 위 에 올릴 소품 으로 도 , 실제 사용하 는 식기 로 도 활용하 기 좋 다 .	O O O ORG-B ORG-I ORG-I O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+■ KPGA 투어 상반기 결산 “ 국내 대회 점점 줄어들 어 생계 조차 힘들 다 ” 떠밀리 듯 해외 진출 서두르 는 선수 늘 어 허인회 개막 전 우승 으로 ‘ 군인 돌풍 ’ 주도 군산 CC 오픈 우승 루키 이수민 기대주 로 한국 프로 골프 ( KPGA ) 투어 가 6 월 군산 CC 오픈 으로 상반기 를 마감 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O PER-B O O ORG-B ORG-I ORG-I O ORG-B O O O DAT-B DAT-I O O O O O O O O O O
+기업 수 는 2012 년 37 개 에서 2014 년 54 개 로 증가 했 다 .	O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O
+보고서 는 “ 중국 의 중간재 수입 구조 변화 에 대해 한국 이 적절한 대응 을 하 지 못하 고 있 다 ” 고 지적 했 다 .	O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+미국 과 일본 은 비상 을 건다 .	ORG-B O ORG-B O O O O O

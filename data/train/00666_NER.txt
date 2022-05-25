@@ -1,14 +1,14 @@
-이번 대회의 명예의장이 +ㄴ 박 대통령은 축사에서 “세계의 평화와 화합의 메시지를 전하는 뜻 깊은 대회가 되기를 기대하+ㄴ다”고 말하였다 .	O O O O PER-B O O O O O O O O O O O O O O
-호르몬이 듣지 않는 상태가 되+어 2013년 10월 항암치료를 받기 시작하였다 .	O O O O O O O O O O O
-더욱이 신분당선 개통 3년을 맞고 분당, 용인 등에서 강남역까지 빠르고 편리하게 왕복이 가능하+여지고 시간이 지나면서 상권이 더욱 안정세를 갖추면서 국내 주요 상권이 +ㄴ 명동역, 종각역 일대 상권과 확연히 비교되는 호황상권으로 자리매기+ㅁ하고 있다 .	O LOC-B O O O LOC-B LOC-B O LOC-B O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O
-골프채를 내려놓은지 몇 개월 후 양희영은 스스로 다시 골프채를 들었다 .	O O O O O PER-B O O O O O
-4호선, 혜화역서 출입문 고장으로 지연… 출근길 ‘날벼락 .	O LOC-B O O O O O O
-이 시스템은 해양과학R&D 동향, 과제이력, 연구성과, 기술거래, 연구자료 등 다섯 가지 분야의 주요 정보를 제공하+ㄴ다 .	O O O O O O O O O O O O O O O O
-이렇게 크레이지 타임은 더 하+여지는 새롭ㄴ 규칙에 추리와 집중력의 요소까지 겸비 하+ㄴ게임이다 .	O O O O O O O O O O O O O
-할리갈리를 닮은 '시간 게임' 크레이지 타임의 기본 규칙은 대중에게 잘 알려지+어 있는 종치기 게임 '할리갈리'와 유사하다 .	O O O O O O O O O O O O O O O O O
-'용감 하+ㄴ 가족'이 문식, "여성분들과 보+ㄹ것 못 보+ㄹ 것 다 보면서… .	O O O O O O O O O O O O
-이것이 오늘의 엔비디아 성공신화를 만들었다고 보+ㄴ다 .	O O ORG-B O O O O
-지포스 10시리즈는 기존 대비 세대 교체를 성공적으로 이루+어 내 +었다고 보+ㄴ다 .	O O O O O O O O O O O O
-김무상 사장은 부친 이+ㄴ 김락준 회장 밑에서 10년 동안 착실하게 경영수업을 받은 뒤 지난해 7월 전면으로 등장하였다 .	PER-B O O O PER-B O O O O O O O O O O O O O
-안 전 대표가 지나 오+ㄴ 삶을 보면 나누+ㅁ에 관심이 많은 것 같아요. 남편이 항상 강조하는 것+이 복지, 정의, 평화, 상생이에요. 그리고 이를 실현하려면 기득권을 내리+어놓+아야 하+ㄴ다는 것이죠. ▼ 지금 이재명 성남시장은 사이이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O
-그런데도 현대차 노조원 평균 연봉(9700만원·성과급 및 격려금 포함)보다 적은 8351만원을 받는다 .	O ORG-B MNY-I O MNY-B O O O O MNY-B O O
+이번 대회 의 명예 의장 인 박 대통령 은 축사 에서 “ 세계 의 평화 와 화합 의 메시지 를 전하 는 뜻깊 은 대회 가 되 기 를 기대한다 ” 고 말 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+호르몬 이 듣 지 않 는 상태 가 돼 2013 년 10 월 항암 치료 를 받 기 시작 했 다 .	O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O
+더욱이 신 분당 선 개통 3 년 을 맞 아 분당 , 용인 등 에서 강남역 까지 빠르 고 편리하 게 왕복 이 가능해 지 고 시간 이 지나 면서 상권 이 더욱 안정세 를 갖추 면서 국내 주요 상권 인 명동역 , 종각역 일대 상권 과 확연히 비교되 는 호황 상권 으로 자리 매김 하 고 있 다 .	O O O O O DAT-B DAT-I O O O LOC-B O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O
+골프채 를 내려놓 은지 몇 개월 후 양희영 은 스스로 다시 골프채 를 들 었 다 .	O O O O DAT-B DAT-I O PER-B O O O O O O O O O
+4 호 선 , 혜화역 서 출입문 고장 으로 지연 … 출근길 ‘ 날벼락 ’	O O O O LOC-B O O O O O O O O O O
+이 시스템 은 해양 과학 R & D 동향 , 과제 이력 , 연구 성과 , 기술 거래 , 연구 자료 등 다섯 가지 분야 의 주요 정보 를 제공한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이렇 게 크레이지 타임 은 더해 지 는 새로 운 규칙 에 추리 와 집중력 의 요소 까지 겸비한 게임 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+할리 갈리 를 닮 은 ' 시간 게임 ' 크레이지 타임 의 기본 규칙 은 대중 에게 잘 알려져 있 는 종치기 게임 ' 할리 갈리 ' 와 유사하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 용감한 가족 ' 이문식 , " 여성 분 들 과 볼 것 못 볼 것 다 보 면서 … "	O O O O PER-B O O O O O O O O O O O O O O O O
+이것 이 오늘 의 엔 비디아 성공 신화 를 만들 었 다고 본다 .	O O O O ORG-B ORG-I O O O O O O O O
+지포스 10 시리즈 는 기존 대비 세대 교체 를 성공적 으로 이뤄 냈 다고 본다 .	O O O O O O O O O O O O O O O O
+김무상 사장 은 부친 인 김락준 회장 밑 에서 10 년 동안 착실하 게 경영 수업 을 받 은 뒤 지난해 7 월 전면 으로 등장 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+안 전 대표 가 지나온 삶 을 보 면 나눔 에 관심 이 많 은 것 같 아요 . 남편 이 항상 강조하 는 게 복지 , 정의 , 평화 , 상생 이 에요 . 그리고 이 를 실현하 려면 기득권 을 내려 놔야 한다는 것 이 죠 . ▼ 지금 이재명 성남 시장 은 사 이 다 ,	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+그런데 도 현대차 노조원 평균 연봉 ( 9700 만 원 · 성과급 및 격려금 포함 ) 보다 적 은 8351 만 원 을 받 는다 .	O O ORG-B O O O O MNY-B MNY-I MNY-I O O O O O O O O O MNY-B MNY-I MNY-I O O O O

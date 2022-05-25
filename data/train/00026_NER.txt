@@ -1,11 +1,11 @@
-각각 KCC·kt꺾고 공동 2위 ‘평행선’ 최종 승패 같다면 동부가 4강 PO 직행동부가 3연패에서 벗어나며 4강 플레이오프(PO) 직행에 다가서 +었다 .	O ORG-B O O O O O O ORG-B O O ORG-B O O O O O O O O
-그는 “과거를 일단락하기 위 하+여서 +ㄴ 일본 정부와 (아베) 총리가 일정 하+ㄴ 행동을 취하+ 여야 하+ㄴ다”며 “한편으로 한국 측도 그것을 정당하게 평가하는 노력이 필요하다”고 강조하였다 .	O O O O O O ORG-B ORG-I PER-B O O O O O O O O ORG-B O O O O O O O O
-미국 도널드 트럼프 정부의 첫 관문은 내각 후보자들의 의회 인준이 되+ㄹ 전망이다 .	ORG-B PER-B PER-I O O O O O O O O O O
-김건희 교원대리는 “전용 태블릿PC를 사용하+여 아이들이 ‘딴 짓’ 없이 집중 하+ㄹ 수 있어 엄마들 사이에서 입소문이나 +았다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O
-‘조세호 김나영’ ‘1대100’ 조세호가 김나영에 호감을 가지+ㄴ 사실을 고백하+여화제이+ㄴ 가운데 동거 중이+ㄴ 개그맨 남창희와 진짜 부부 같다고 밝히+어눈길을 모으았다 .	PER-B PER-B O PER-B PER-B O O O O O O O O PER-B O O O O O O
-조세호는 27일 KBS2TV 방송되+ㄴ ‘1대100’에서 “남창희와 한집에 오래 살다 보니 부부 같다 .	PER-B O O O O PER-B O O O O O O O
-‘중국이 강 하+ㄴ 대북 제재에 나서 +ㄹ 것 같냐’는 질문에 +ㄴ “중국 안에서 ‘김정은을 안고 가면 무슨 일이 벌어 지+ㄹ지 모르+ㄴ다’는 우려가 많다 .	ORG-B O O O O O O O O O O ORG-B O PER-B O O O O O O O O O O
-일명 ‘엘시티 사업’이라 불리+어지+ㄴ 초대형 프로젝트, 문제가 생기+ㄴ 것+ㄴ지나 +ㄴ 7월, 엘시티 사업에 대하+ㄴ각종 특혜 의혹이 불거지며 검찰의 본격적 수사가 진행되면서부터 +이었다 .	O ORG-B ORG-I O O O O O O O O ORG-B ORG-I O O O O O O O O O O
-정개특위 소속 한 새누리당 의원은 “지금까지 당 대표들이 나서+어선거구를 획정 하+ㄴ 전례가 없다”며 “여야 대표가 주고받을 여지가 있는 사안이 아니다”고 말하였다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O
-▲ 박동진= 주변 강대국의 입장과 정책을 냉정히 검토하고 이에 대처하는 것도 필요하+ㅂ니다 .	O PER-B O O O O O O O O O O O
-팔 수술을 담당하였던 최윤락 세브란스병원 정형외과 교수는 “힘줄 근육 2개가 부분 파열되었고, 신경 손상이 일부 있었다”며 “봉합수술을 +였고, 4주 정도 고정하면 기능적으로 크+ㄴ문제는 없을 것”이라고 밝히었다 .	O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
+각각 KCC · kt 꺾 고 공동 2 위 ‘ 평행선 ’ 최종 승패 같 다면 동부 가 4 강 PO 직행 동부 가 3 연패 에서 벗어나 며 4 강 플레이오프 ( PO ) 직행 에 다가섰 다 .	O ORG-B O ORG-B O O O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O
+그 는 “ 과거 를 일단락하 기 위해선 일본 정부 와 ( 아베 ) 총리 가 일정한 행동 을 취해야 한다 ” 며 “ 한편 으로 한국 측 도 그것 을 정당하 게 평가하 는 노력 이 필요하 다 ” 고 강조 했 다 .	O O O O O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+미국 도널드 트럼프 정부 의 첫 관문 은 내각 후보자 들 의 의회 인준 이 될 전망 이 다 .	ORG-B PER-B PER-I O O O O O O O O O O O O O O O O O
+김건희 교원 대리 는 “ 전용 태블릿 PC 를 사용해 아이 들 이 ‘ 딴짓 ’ 없이 집중할 수 있 어 엄마 들 사이 에서 입 소문 이 났 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 조세호 김나영 ’ ‘ 1 대 100 ’ 조세호 가 김나영 에 호감 을 가진 사실 을 고백해 화제 인 가운데 동거 중 인 개그맨 남창희 와 진짜 부부 같 다고 밝혀 눈길 을 모 았 다 .	O PER-B PER-B O O O O O O PER-B O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+조세호 는 27 일 KBS 2 TV 방송된 ‘ 1 대 100 ’ 에서 “ 남창희 와 한 집 에 오래 살 다 보 니 부부 같 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+‘ 중국 이 강한 대북 제재 에 나설 것 같 냐 ’ 는 질문 엔 “ 중국 안 에서 ‘ 김정은 을 안 고 가 면 무슨 일 이 벌어질지 모른다 ’ 는 우려 가 많 다 .	O ORG-B O O O O O O O O O O O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O O O
+일명 ‘ 엘시티 사업 ’ 이 라 불려 진 초대형 프로젝트 , 문제 가 생긴 건 지난 7 월 , 엘시티 사업 에 대한 각종 특혜 의혹 이 불거지 며 검찰 의 본격적 수사 가 진행되 면서 부터 였 다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+정개 특위 소속 한 새누리당 의원 은 “ 지금 까지 당 대표 들 이 나서 선거구 를 획정한 전례 가 없 다 ” 며 “ 여야 대표 가 주고받 을 여지 가 있 는 사안 이 아니 다 ” 고 말 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+▲ 박동진 = 주변 강대국 의 입장 과 정책 을 냉정히 검토하 고 이 에 대처하 는 것 도 필요합니다 .	O PER-B O O O O O O O O O O O O O O O O O O O
+팔 수술 을 담당 했 던 최윤락 세브란스병원 정형외과 교수 는 “ 힘줄 근육 2 개 가 부분 파열 됐 고 , 신경 손상 이 일부 있 었 다 ” 며 “ 봉합 수술 을 했 고 , 4 주 정도 고정하 면 기능적 으로 큰 문제 는 없 을 것 ” 이라고 밝 혔 다 .	O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

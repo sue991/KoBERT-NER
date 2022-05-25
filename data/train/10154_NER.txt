@@ -1,14 +1,14 @@
-남경필 경기도지사가 6일 오전 바른정당 대선 경선 후보로 정식 등록하고 본격적 이+ㄴ 경선 레이스를 시작하였다 .	PER-B ORG-B O O ORG-B O O O O O O O O O O O
-지금은 2가지의 체인지업을 던지+ㄹ 수 있다”고 +였다 .	O O O O O O O O
-또 하나의 이유는 폼교정이다 .	O O O O O
-그렇다면 대통령의 말 한마디 한 마디가 시스템적 여과 과정을 거치+ㅁ이 없이 그대로 외부 세계에 직접 드러나게 되+ㄹ 개연성은 더 크+ㄹ 것이다 .	O O O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 17대 국회에서도 비슷하+ㄴ 내용의 법안이 발의 +되었다 .	O O O O O O O O O
-베이스 모델이 +ㄴS60보다 65mm 높아 지+ㄴ 지상고(201mm)를 지니었다 .	O O O O O O O O O
-이에 따르 아8월 중국 증시 폭락으로 세계 증시가 동반 급락하였던 ‘차이나쇼크’가 재연되+ㄹ 수 있다는 우려가 다시 고개를 들고 있다 .	O O O ORG-B O O O O O O O O O O O O O O O O
-불교신도 10여명이 참여하였다 .	O O O O
-글=이경희기자, 사진=SM엔터테인먼트, 도움말=주선희원광디지털대 얼굴 경영학과 교수 소년중앙구독 신청 바로가기 ◆다른 멤버의 관상 보 .	PER-B ORG-B ORG-B O O O O O O O O O O O
-4년 연속 10승과 2년 연속 15승 이상을 거두+ㄴ 왼손투수로는 그가 팀 최초+이다 .	O O O O O O O O O O O O O
-우리나라는 아직까지 그런 단계에 이르지는 않았지만 적어도 그런 일을 통화정책이라고 하지는 않는다(한국은행법 제28조). 한국은행이 정부를 직접 돕ㄹ수는 있지만 가급적 자제 하+여야 하는 일로 보는 것이다 .	O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O
-실수로 공개되+ㄴ BMW 신형 7시리즈 “국내는 언제 출시? .	O O O O O O O O O
-다행히 마지막 발차기는 득점으로 이어지지 않았고 그대로 김소희의 금메달이 확정되었다 .	O O O O O O O PER-B O O O
-프로필로 164㎝ 이+ㄴ 김소희는 체격 좋은 유럽 선수들과 힘겹ㄴ경기를 펼치었지만 강 하+ㄴ 정신력으로 마침내 우승을 차지하였다 .	O O O PER-B O O LOC-B O O O O O O O O O O
+남경필 경기도 지사 가 6 일 오전 바른 정당 대선 경선 후보 로 정식 등록하 고 본격적 인 경선 레이스 를 시작 했 다 .	PER-B ORG-B O O DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O O O O O O O O
+지금 은 2 가지 의 체인지업 을 던질 수 있 다 ” 고 했 다 .	O O O O O O O O O O O O O O O O
+또 하나 의 이유 는 폼 교정 이 다 .	O O O O O O O O O O
+그렇 다면 대통령 의 말 한마디 한마디 가 시스템 적 여과 과정 을 거침 이 없이 그대로 외부 세계 에 직접 드러나 게 될 개연성 은 더 클 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 17 대 국회 에서 도 비슷한 내용 의 법안 이 발의 됐 다 .	O O O O O O O O O O O O O O O
+베이스 모델 인 S 60 보다 65 mm 높아진 지상고 ( 201 mm ) 를 지 녔 다 .	O O O O O O O O O O O O O O O O O O O
+이 에 따 라 8 월 중국 증시 폭락 으로 세계 증시 가 동반 급락 했 던 ‘ 차이나 쇼크 ’ 가 재연될 수 있 다는 우려 가 다시 고개 를 들 고 있 다 .	O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+불교 신도 10 여 명 이 참여 했 다 .	O O O O O O O O O O
+글 = 이경희 기자 , 사진 = SM 엔터테인먼트 , 도움말 = 주선희 원광 디지털 대 얼굴 경영학 과 교수 소년중앙 구독 신청 바로 가 기 ◆ 다른 멤버 의 관상 보 기	O O PER-B O O O O ORG-B ORG-I O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
+4 년 연속 10 승 과 2 년 연속 15 승 이상 을 거둔 왼손 투수 로 는 그 가 팀 최초 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+우리나라 는 아직 까지 그런 단계 에 이르 지 는 않 았 지만 적어도 그런 일 을 통화정책 이 라고 하 지 는 않 는다 ( 한국은행 법 제 28 조 ) . 한국은행 이 정부 를 직접 도 울 수 는 있 지만 가급적 자제해야 하 는 일 로 보 는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+실수 로 공개된 BMW 신형 7 시리즈 “ 국내 는 언제 출시 ? ”	O O O O O O O O O O O O O O
+다행히 마지막 발차기 는 득점 으로 이어지 지 않 았 고 그대로 김소희 의 금메달 이 확정 됐 다 .	O O O O O O O O O O O O PER-B O O O O O O O
+프로필 로 164 ㎝ 인 김소희 는 체격 좋 은 유럽 선수 들 과 힘겨 운 경기 를 펼 쳤 지만 강한 정신력 으로 마침내 우승 을 차지 했 다 .	O O O O O PER-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-한국당, 첫 대선후보 경선 TV토론회 … 친박-비 박격돌 예 .	ORG-B O O O O O O O O O
-한 온라인 커뮤니티에 게재되 +ㄴ글에는 강정호 선수의 어리+ㄹ적 모습이 담기 +어 있었다 .	O O O O O PER-B O O O O O O O
-올해 금감원 2급 퇴직자가 신협중앙회 감독검사 이사, 유진투자증권 경영임원, 롯데카드·신한금융투자·신한저축은행 감사 등으로 자리를 옮기었다 .	O ORG-B O O ORG-B O O ORG-B O ORG-B O O O O O
-지금 KGC에서 +ㄴ 오세근의 포스트업 공격 옵션이 거의 없다 .	O ORG-B O PER-B O O O O O O
-사진에는 송승헌의 목을 두 손으로 잡은 채진하게 키스하는 유역비의 모습이 담기 +어 있다 .	O PER-B O O O O O O PER-B O O O O O
-중국의 개입은 여러 면에서 북한 김정은 정권에 불리하게 해석되 +ㄹ소지가 많다 .	ORG-B O O O ORG-B PER-B O O O O O O
-최순실씨의 딸 정유라(21)씨가 KEB하나은행으로부터 수억원을 대출받는 과정에 대하+여 검찰이 조사 중이다 .	PER-B O PER-B ORG-B MNY-B O O O O O O O
-서울중앙지검 외사부(강지식 부장검사)는 "하나은행 직원들을 참고인 신분으로 부르어 조사하였다"고 24일 밝히었다 .	ORG-B ORG-I O ORG-B O O O O O O O O
-녹십자는 6월 착공에 들어가 +ㄴ 캐나다 공장의 상업생산 시기에 맞추+어 원료혈장 공급처를 적극적으로 늘리+어나가고 있다 .	ORG-B O O O O LOC-B O O O O O O O O O O
-특히 이 병원은 아내 프리실라 챈이소아과 레지던트 과정을 마치 +ㄴ 곳이라 의미가 깊다 .	O O O O PER-B PER-I O O O O O O O O
-이날 '진짜 사나이'이규한의 활약은 대단하였다 .	O O PER-B O O O
-[최순실 게이트/ 파장 어디까지] TV조선 “2014년 융복합기획안, 최순실 씨 필체와 비슷하+ㄴ글씨로 첨삭… 2016년차은택 이름으로 제출-실행 .	PER-B O O O ORG-B O O PER-B O O O O PER-B O O O
-‘나, 다니엘 블레이크’의 연출자는 사회문제를 주로 그리+어오+ㄴ 노장 켄로치 감독. 지난해 칸 국제영화제 수상 당시 감독은 “우리는 희망의 메시지를 사람들에 보이어주+어야 하+ㄴ다”며 “사람들에게 ‘가난은 너의 잘못’이라고 말하는 우리의 잔인하+ㅁ을 돌아보+아야 하+ㄴ다”고 밝히+어주목 받았다 .	O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+한국당 , 첫 대선 후보 경선 TV 토론회 … 친 박 - 비 박 격돌 예고	ORG-B O O O O O O O O O O O O O O O
+한 온라인 커뮤니티 에 게재된 글 에 는 강정호 선수 의 어릴 적 모습 이 담겨 있 었 다 .	O O O O O O O O PER-B O O O O O O O O O O O
+올해 금감원 2 급 퇴직자 가 신협 중앙 회 감독 검사 이사 , 유진투자증권 경영 임원 , 롯데카드 · 신한금융투자 · 신한 저축은행 감사 등 으로 자리 를 옮 겼 다 .	O ORG-B O O O O ORG-B ORG-I ORG-I O O O O ORG-B O O O ORG-B O ORG-B O ORG-B ORG-I O O O O O O O O O
+지금 KGC 에선 오세근 의 포스트 업 공격 옵션 이 거의 없 다 .	O ORG-B O PER-B O O O O O O O O O O
+사진 에 는 송승헌 의 목 을 두 손 으로 잡 은 채 진하 게 키스하 는 유역 비 의 모습 이 담겨 있 다 .	O O O PER-B O O O O O O O O O O O O O PER-B PER-I O O O O O O O
+중국 의 개입 은 여러 면 에서 북한 김정은 정권 에 불리하 게 해석될 소지 가 많 다 .	ORG-B O O O O O O ORG-B PER-B O O O O O O O O O O
+최순실 씨 의 딸 정유라 ( 21 ) 씨 가 KEB 하나은행 으로부터 수억 원 을 대출 받 는 과정 에 대해 검찰 이 조사 중 이 다 .	PER-B O O O PER-B O O O O O ORG-B ORG-I O MNY-B MNY-I O O O O O O O O O O O O O O
+서울중앙지검 외사부 ( 강지식 부장 검사 ) 는 " 하나 은행 직원 들 을 참고인 신분 으로 불 러 조사 했 다 " 고 24 일 밝 혔 다 .	ORG-B ORG-I O PER-B O O O O O ORG-B ORG-I O O O O O O O O O O O O O DAT-B DAT-I O O O O
+녹십자 는 6 월 착공 에 들어간 캐나다 공장 의 상업 생산 시기 에 맞춰 원료 혈장 공급 처 를 적극적 으로 늘려 나가 고 있 다 .	ORG-B O DAT-B DAT-I O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+특히 이 병원 은 아내 프리실라 챈 이 소아과 레지던트 과정 을 마친 곳 이 라 의미 가 깊 다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O
+이날 ' 진짜 사나이 ' 이규한 의 활약 은 대단 했 다 .	O O O O O PER-B O O O O O O O
+[ 최순실 게이트 / 파장 어디 까지 ] TV 조선 “ 2014 년 융 복합 기획 안 , 최순실 씨 필체 와 비슷한 글씨 로 첨삭 … 2016 년 차은택 이름 으로 제출 - 실행 ”	O PER-B O O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O O PER-B O O O O O O O O DAT-B DAT-I PER-B O O O O O O
+‘ 나 , 다니엘 블레이크 ’ 의 연출자 는 사회 문제 를 주로 그려 온 노장 켄 로치 감독 . 지난해 칸 국제 영화제 수상 당시 감독 은 “ 우리 는 희망 의 메시지 를 사람 들 에 보 여 줘야 한다 ” 며 “ 사람 들 에게 ‘ 가난 은 너 의 잘못 ’ 이라고 말하 는 우리 의 잔인함 을 돌아봐야 한다 ” 고 밝혀 주목 받 았 다 .	O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

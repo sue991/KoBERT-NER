@@ -1,15 +1,15 @@
-이날 오후 영등포 타임스퀘어에서 레드카펫 행사에 참여하+ㄴ 잭 블랙은 21일 MBC 예능 프로그램 ‘무한도전’ 녹화에도 참여하+ㄴ다 .	O O LOC-B LOC-I O O O PER-B PER-I O O O O O O O O
-예컨데 동북공정, 독도 관련 분야는 이 문제를 전담하는 동북아 역사재단에서 원고를 받는 것+이 합당하다고 +았다 .	O O LOC-B O O O O O ORG-B ORG-I O O O O O O
-김 할머니는 위안부 피해자 조사·등록이 시작되+ㄴ 1992년 정부에서 할머니가 다니었던 초등학교의 강제동원 명부를 확인하면서 피해자로 등록되었다 .	PER-B O ORG-B O O O O O O O O O O O O O O
-TPP는 미국의 비준 없이 발효되 +ㄹ 수 없다 .	ORG-B ORG-B O O O O O O O
-그렇지만 아베는 포기하지 않았다 .	O PER-B O O O
-덕산하이메탈과 두산엔진·한국전력기술은 200대 상장사에서 탈락하였다 .	ORG-B ORG-B O O O O
-개척교회 목사활동으로는 축구 꿈나무 이+ㄴ 큰아들과 외국 유학 중 이+ㄴ 둘째 딸, 장래희망이 의사+이었던 숨지+ㄴ이양 등 3남매를 뒷바라지하기가 경제적으로 어렵어 정 교수 승진을 노리었다는 것이다 .	ORG-B O O O PER-B O O O O PER-B O O PER-B PER-B PER-B O O O O O O O O O PER-B O
-한미일 6자 수석대표들은 전날 협의에서 최근 북핵 문제를 둘러싸 +ㄴ한반도 정세가 엄중하게 전개되고 있다는 데 인식을 같이 하+ㄴ 것으로 전하여 +지+었다 .	ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O
-현대자동차는 지난해 12년 만에 1위 탈환 이후 자동차 A/S 부문에서 2년 연속 1위의 성과를 내고 있다 .	ORG-B O O O O O O O O O O O O O O O O
-중국과 러시아를 가르는 국경 역할을 +였던 아무르강이 중·러 교역 통로로 용틀임하고 있다 .	ORG-B ORG-B O O O O LOC-B ORG-B O O O O O
-네피림은 전혀 반응이 없었다 .	ORG-B O O O O
-지금은 국제 테러의 위험 증가와 평창 겨울올림픽을 앞두고 있는 시점이다 .	O O O O O O O O O O O
-글로벌 34위 수준이+ㄴ 더블스타가 금호타이어(글로벌 14위)를 인수하+ㄹ 경우 단번에 10위권으로 치고 나가+ㄹ 수 있다 .	O O O ORG-B ORG-B O O O O O O O O O O
-[스포츠동아오늘의 운세]2015년 8월 20일 목요일(음력 7월7일 .	ORG-B O O O O O O
-하 의원은 “파업에 참여하지 않으면 떠나라고 하는 것은 노조의 월권이 적나라하게 드러나 +ㄴ 행위”라며 “정당 하+ㄴ 파업은 노동자의 권리로 보장받아야 하지만 철도노조의 사례는 법치국가에서 허용되는 수준을 넘어서 +ㄴ 것”이라고 지적하였다 .	PER-B O O PER-B O O PER-B O O O PER-B O O O O PER-B O O O O PER-B O O O O O O O O PER-B O
+이날 오후 영등포 타임스퀘어 에서 레드 카펫 행사 에 참여한 잭 블랙 은 21 일 MBC 예능 프로그램 ‘ 무한도전 ’ 녹화 에 도 참여한다 .	O O LOC-B LOC-I O O O O O O PER-B PER-I O DAT-B DAT-I O O O O O O O O O O O
+예컨대 동북 공정 , 독도 관련 분야 는 이 문제 를 전담하 는 동북아 역사 재단 에서 원고 를 받 는 게 합당하 다고 봤 다 .	O O O O LOC-B O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O
+김 할머니 는 위안부 피해자 조사 · 등록 이 시작된 1992 년 정부 에서 할머니 가 다 녔 던 초등학교 의 강제 동원 명부 를 확인하 면서 피해자 로 등록 됐 다 .	PER-B O O ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+TPP 는 미국 의 비준 없이 발효될 수 없 다 .	ORG-B O ORG-B O O O O O O O O
+그렇지만 아베 는 포기하 지 않 았 다 .	O PER-B O O O O O O O
+덕산 하이메 탈 과 두산 엔진 · 한국전력기술 은 200 대 상장 사 에서 탈락 했 다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I O ORG-B O O O O O O O O O O
+개척 교회 목사 활동 으로 는 축구 꿈나무 인 큰아들 과 외국 유학 중 인 둘째 딸 , 장래 희망 이 의사 였 던 숨진 이 양 등 3 남매 를 뒷바라지하 기 가 경제적 으로 어려 워 정 교수 승진 을 노 렸 다는 것 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+한미 일 6 자 수석 대표 들 은 전날 협의 에서 최근 북 핵 문제 를 둘러싼 한반도 정세 가 엄중하 게 전개되 고 있 다는 데 인식 을 같이한 것 으로 전해 졌 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+현대자동차 는 지난해 12 년 만 에 1 위 탈환 이후 자동차 A / S 부문 에서 2 년 연속 1 위 의 성과 를 내 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 과 러시아 를 가르 는 국경 역할 을 했 던 아무르강 이 중 · 러 교역 통로 로 용틀임 하 고 있 다 .	ORG-B O ORG-B O O O O O O O O LOC-B O ORG-B ORG-I ORG-I O O O O O O O O O
+네피림 은 전혀 반응 이 없 었 다 .	ORG-B O O O O O O O O
+지금 은 국제 테러 의 위험 증가 와 평창 겨울 올림픽 을 앞두 고 있 는 시점 이 다 .	O O O O O O O O O O O O O O O O O O O O
+글로벌 34 위 수준 인 더블 스타 가 금호타이어 ( 글로벌 14 위 ) 를 인수할 경우 단번에 10 위 권 으로 치 고 나갈 수 있 다 .	O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O
+[ 스포츠 동아 오늘 의 운세 ] 2015 년 8 월 20 일 목요일 ( 음력 7 월 7 일 )	O ORG-B ORG-I O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I DAT-B O DAT-B DAT-I DAT-I DAT-I DAT-I O
+하 의원 은 “ 파업 에 참여하 지 않 으면 떠나 라고 하 는 것 은 노조 의 월권 이 적나라하 게 드러난 행위 ” 라며 “ 정당한 파업 은 노동자 의 권리 로 보장 받 아야 하지만 철도 노조 의 사례 는 법치 국가 에서 허용되 는 수준 을 넘어선 것 ” 이라고 지적 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,11 +1,11 @@
-싸이는 10일 오후 자신의 트위터에 "여름 공연이 없어서 근질거리었는데 금주 금요일 해운대에서 간만에 흠뻑 쇼 한 번 하+ㄹ랍니다 .	PER-B O O O O O O O O O O LOC-B O O O O O O O
-이 같은 바운스트램폴린파크의 안전하+ㄴ 시설과 프로그램을 통하+여아이들이 실내에서 보 .	O O LOC-B O O O O O O O
-이번 논문은 명나라 조정의 관보, 양광총독의 상소문, 당시 저술되+ㄴ서적 등을 검토하+여나 오았다 .	O O O O PER-B PER-B O O O O O O O
-김무성 새누리당 대표나 문재인 새정치연합 대표는 결속되 +ㄴ 100만 공무원과 가족표를 의식하면서도 2000만 국민연금 가입자들의 시선이 부담스럽었을 것이다 .	PER-B ORG-B O PER-B ORG-B O O O O O O O O O O O O O O
-대회 최우수선수(MVP)에는 3홈런 10타점으로 경성대 타선을 이끌 +ㄴ이재욱이 선정되었다.[스포츠동아 .	O O O O ORG-B O O PER-B ORG-B O
-검찰이 NH 개발 전 대표 유 모 씨가 협력업체 측 금품수수에 연루되 +ㄴ 정황을 잡고 조만간 소환 하+ㄹ 방침이 +ㄴ 것으로 8일 확인되었다 .	ORG-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
-머스크, 대우조선 선박 6척 추가 계약 안 하기로 조선업계에서는 업체들의 매출이 2017년까지 감소세를 보이+ㄹ 것이라는 예상이 지배적이다 .	PER-B ORG-B O O O O O O O O O O O O O O O O
-JYP엔터테인먼트 "원더걸스컴백?공식 입장 전 하+ㄹ 수 없어 .	ORG-B ORG-B O O O O O O
-북한의 4월은 도발 호재가 차고 넘치는 달이다 .	ORG-B O O O O O O O
-같은 시간 하이쇼핑(현 GS숍)은 TV와 비디오 등 여러 가전제품을 컨트롤 하+ㄹ 수 있다는 ‘만능 리모컨’을 팔았다 .	O O ORG-B ORG-B O O O O O O O O O O O O O
-넥센과 시즌 개막 2연전을 치르고 대전으로 내려가 +아한화의 첫 홈경기를 준비하는 김성근 감독을 만나 +ㄴ적이 있다 .	ORG-B O O O O LOC-B O ORG-B O O O PER-B O O O O O
+싸이 는 10 일 오후 자신 의 트위터 에 " 여름 공연 이 없 어서 근질거 렸 는데 금주 금요일 해운대 에서 간만 에 흠뻑 쇼 한번 할랍니다 !	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O LOC-B O O O O O O O O
+이 같 은 바운스 트램 폴린 파크 의 안전한 시설 과 프로그램 을 통해 아이 들 이 실내 에서 보다	O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O
+이번 논문 은 명나라 조정 의 관보 , 양광 총독 의 상소문 , 당시 저술된 서적 등 을 검토해 나 왔 다 .	O O O O O O PER-B O PER-B O O O O O O O O O O O O O O
+김무성 새누리당 대표 나 문재인 새정치연합 대표 는 결속된 100 만 공무원 과 가족 표 를 의식하 면서 도 2000 만 국민 연금 가입자 들 의 시선 이 부담스러 웠 을 것 이 다 .	PER-B ORG-B O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대회 최우수 선수 ( MVP ) 에 는 3 홈런 10 타점 으로 경성대 타선 을 이끈 이재욱 이 선정 됐 다 . [ 스포츠 동아 ]	O O O O O O O O O O O O O ORG-B O O O PER-B O O O O O O ORG-B ORG-I O
+검찰 이 NH 개발 전 대표 유모 씨 가 협력 업체 측 금품 수수 에 연루된 정황 을 잡 고 조만간 소환할 방침 인 것 으로 8 일 확인 됐 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+머스크 , 대우조선 선박 6 척 추가 계약 안 하 기 로 조선업 계 에서 는 업체 들 의 매출 이 2017 년 까지 감소세 를 보일 것 이 라는 예상 이 지배적 이 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+JYP 엔터테인먼트 " 원더 걸스 컴백 ? 공식 입장 전할 수 없 어 "	ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O
+북한 의 4 월 은 도발 호재 가 차 고 넘치 는 달 이 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O
+같 은 시간 하이 쇼핑 ( 현 GS 숍 ) 은 TV 와 비디오 등 여러 가전제품 을 컨트롤할 수 있 다는 ‘ 만능 리모컨 ’ 을 팔 았 다 .	O O O ORG-B ORG-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+넥센 과 시즌 개막 2 연전 을 치르 고 대전 으로 내려가 한화 의 첫 홈 경기 를 준비하 는 김성근 감독 을 만난 적 이 있 다 .	ORG-B O O O O O O O O LOC-B O O ORG-B O O O O O O O PER-B O O O O O O O O

@@ -1,15 +1,15 @@
-정지상태에서 3.8초 만에 시속 100km까지 속도를 높이 +ㄹ 수 있다 .	O O O O O O O O O O O
-미국이 위대하지 않게 되+ㄴ이유로 피부색이 다르+ㄴ나+의 이웃을 지목하는 것 자체가 통합을 추구하+여오+ㄴ 미국인에게 부담스럽 ㄴ 일이다 .	ORG-B O O O O O O O O O O O ORG-B O O O O
-전기협은 이에 대하+ 여『철도청과 철도노조가 합의 하+ㄴ 잠정안은 기존의 변형근로시간제를 더욱 강화하는 등 노조원들의 열망을 외면하고 있다』고 비난, 파업 강행 의사를 고수하였다 .	ORG-B O O ORG-B ORG-B O O O O O O O O O O O O O O O O O O
-타히티, 레이디스코드 사고 언급“함께 출연하였는데 그날 사고+나았다 .	ORG-B ORG-B O O O O O O
-지하철 8호선 복정역과 5호선 마천역을 연결하는 트램은 트랜짓몰 내에 2개 역이 지나는데, 그 중 한 개역이 ‘송파와이즈 더샵’ 바로 앞으로 운행되+ㄹ 예정이다 .	O O LOC-B O LOC-B O O O O O O O O O O O LOC-B LOC-I O O O O O
-‘슈가맨’ 현승민, 이제 보니 허경환과 닮은꼴 현승민이 11년 만에 TV 무대에 모습을 드러내 +ㄴ 가운데, 허경환과 닮은꼴 비교 사진이 눈길을 끌+ㄴ다.최근 한 온라인 커뮤니티 사이트에 '슈가맨 현승민 닮은꼴'이라는 제목으로 게시물이 게재되었다. 한편, 20일 방송되+ㄴ JTBC ‘투유 프로젝트-슈가맨’ 첫 방송에는 히트곡 ‘잊었니’의 주인공 H현승민이 출연하였다.11년 만에 TV에 출연하+ㄴ 현승민은 “한 3년 전에 싱글을 하나 내+었었다”며 “지금은 금융업에 있다”고 말하였다. 그는 갑자기 활동을 중단하+ㄴ이유에 대하+여“‘잊었니’가 많은 인기를 얻어서 후속 곡을 준비하였었는데 잘 안+되었었다 .	O PER-B O O PER-B O PER-B O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O ORG-B O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-홍 본부장은 “사고력 수학을 표방하는 교재는 많지만, 기존 객관식 문항을 서술형으로 형식만 바꾸+어 문제를 구성하는 등 겉만 사고력 수학일 뿐 실제로는 사고력 수학과 무관하+ㄴ 교재도 많다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-16일 대리로 승진하+ㄴ KEB하나은행 홍지원(37)씨의 사연이다 .	O O O ORG-B PER-B O O
-기존보다 전기요금 납부 일 선택이 크게 확대되+ㄴ 것.하지만 전기요금 납부 일 선택 확대의 대상이 +ㄴ 사용자는 국민 ㆍ신한ㆍ 기업 ㆍ 우리은행과 농협 자동이체 고객에 한정하+ㄴ다. 또한 전기요금 청구서를 인터넷 ㆍ 휴대전화로 받고, 요금을 자동이체하고 있거나 새로 자동이체하는 고객일 필요가 있다 .	O O O O O O O O O O O O O O O O ORG-B ORG-B ORG-B O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O
-또 2004년 도입되+ㄴ ‘접대비 50만원 실명제’가 유명무실 하+여지면서 2009년 폐지되 +ㄴ 사실을 언급하면서 “(현실적으로) 지키+어지기 어렵ㄴ 법은 결국 바뀌게 되+어 있다”고도 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-정경호는 영화 '거북이 달리+ㄴ다'(2009), '롤러코스터'(2013)를 비롯하+여드라마 '순정에 반하다'(2015), '미씽나이+ㄴ'(2017) 등에서 다양하+ㄴ 배역의 연기를 소화하였다 .	PER-B O O O O O O O O O O O O O O
-가족 모두가 바쁘고 즐겁ㄴ 하루+이었다 .	O O O O O O
-이 전 장관은 “별 효과가 없는 5·24 조치 해제를 위하+여 대통령이 결심하기 어렵다면 참모들이 나서+어서 남북 교류를 확대하+ㅁ으로써 대통령의 어깨를 가볍게 하+여야 하+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O
-전반 15분에 터지+ㄴ바르셀로나의 첫 번째 골로 사실상 양 팀의 운명이 가려지었다 .	O O ORG-B O O O O O O O O O
-내외연은 당권과 대권, 서울시장 후보를 이 대표와 정 고문 등 각 계파를 적절히 통제하는 「분할 통치」의 지렛대로 삼아 당내 주도권을 한층 강화하려 하+ㄹ 것으로 보이+ㄴ다 .	O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O PER-B O
+정지 상태 에서 3.8 초 만 에 시속 100 km 까지 속도 를 높일 수 있 다 .	O O O O O O O O O O O O O O O O O O
+미국 이 위대하 지 않 게 된 이유 로 피부색 이 다른 내 이웃 을 지목하 는 것 자체 가 통합 을 추구해 온 미국인 에게 부담스러 운 일 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전기협 은 이 에 대해 『 철도청 과 철도 노조 가 합의한 잠정 안 은 기존 의 변형 근로 시간 제 를 더욱 강화하 는 등 노조원 들 의 열망 을 외면하 고 있 다 』 고 비난 , 파업 강행 의사 를 고수 했 다 .	ORG-B O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+타히티 , 레이디스 코드 사고 언급 “ 함께 출연 했 는데 그날 사 고 났 다 ”	ORG-B O ORG-B ORG-I O O O O O O O O O O O O O
+지하철 8 호 선 복정 역 과 5 호 선 마천역 을 연결하 는 트램 은 트랜 짓몰 내 에 2 개 역 이 지나 는데 , 그중 한 개 역 이 ‘ 송파 와이즈 더샵 ’ 바로 앞 으로 운행될 예정 이 다 .	O O O O LOC-B LOC-I O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O
+‘ 슈가맨 ’ 현승민 , 이제 보 니 허경환 과 닮 은 꼴 현승민 이 11 년 만 에 TV 무대 에 모습 을 드러낸 가운데 , 허경환 과 닮 은 꼴 비교 사진 이 눈길 을 끈다 . 최근 한 온라인 커뮤니티 사이트 에 ' 슈가맨 현승민 닮은꼴 ' 이 라는 제목 으로 게시물 이 게재 됐 다 . 한편 , 20 일 방송된 JTBC ‘ 투유 프로젝트 - 슈가맨 ’ 첫 방송 에 는 히트 곡 ‘ 잊 었 니 ’ 의 주인공 H 현승민 이 출연 했 다 . 11 년 만 에 TV 에 출연한 현승민 은 “ 한 3 년 전 에 싱글 을 하나 냈었 다 ” 며 “ 지금 은 금융업 에 있 다 ” 고 말 했 다 . 그 는 갑자기 활동 을 중단한 이유 에 대해 “ ‘ 잊 었 니 ’ 가 많 은 인기 를 얻 어서 후속 곡 을 준비 했었 는데 잘 안 됐었 다 .	O O O PER-B O O O O PER-B O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+홍 본부 장 은 “ 사고력 수학 을 표방하 는 교재 는 많 지만 , 기존 객관식 문항 을 서술형 으로 형식 만 바꿔 문제 를 구성하 는 등 겉 만 사고력 수학 일 뿐 실제로 는 사고력 수학 과 무관한 교재 도 많 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+16 일 대리 로 승진한 KEB 하나은행 홍지원 ( 37 ) 씨 의 사연 이 다 .	DAT-B DAT-I O O O ORG-B ORG-I PER-B O O O O O O O O O
+기존 보다 전기 요금 납부 일 선택 이 크 게 확대된 것 . 하지만 전기 요금 납부 일 선택 확대 의 대상 인 사용자 는 국민 ㆍ 신한 ㆍ 기업 ㆍ 우리은행 과 농협 자동 이체 고객 에 한정한다 . 또한 전기 요금 청구서 를 인터넷 ㆍ 휴대전화 로 받 고 , 요금 을 자동 이체 하 고 있 거나 새로 자동 이체하 는 고객 일 필요 가 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 2004 년 도입된 ‘ 접대비 50 만 원 실명제 ’ 가 유명무실해 지 면서 2009 년 폐지된 사실 을 언급하 면서 “ ( 현실적 으로 ) 지켜 지 기 어려 운 법 은 결국 바뀌 게 돼 있 다 ” 고 도 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정경호 는 영화 ' 거북이 달린다 ' ( 2009 ) , ' 롤러코스터 ' ( 2013 ) 를 비롯해 드라마 ' 순정 에 반하 다 ' ( 2015 ) , ' 미씽나 인 ' ( 2017 ) 등 에서 다양한 배역 의 연기 를 소화 했 다 .	PER-B O O O O O O O DAT-B O O O O O O DAT-B O O O O O O O O O O O DAT-B O O O O O O O DAT-B O O O O O O O O O O O O
+가족 모두 가 바쁘 고 즐거 운 하루 였 다 .	O O O O O O O O O O O
+이 전 장관 은 “ 별 효과 가 없 는 5 · 24 조치 해제 를 위해 대통령 이 결심하 기 어렵 다면 참모 들 이 나서서 남북 교류 를 확대함 으로써 대통령 의 어깨 를 가볍 게 해야 한다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전반 15 분 에 터진 바르셀로나 의 첫 번째 골 로 사실상 양 팀 의 운명 이 가려 졌 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O
+내외 연 은 당권 과 대권 , 서울 시장 후보 를 이 대표 와 정 고문 등 각 계파 를 적절히 통제하 는 「 분할 통치 」 의 지렛대 로 삼 아 당내 주도권 을 한층 강화하 려 할 것 으로 보인다 .	O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O

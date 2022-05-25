@@ -1,12 +1,12 @@
-스포트라이트팀이 취재 하+ㄴ 결과 2012년부터 서울과 경기도, 경상도에서 집단 감염이 4개 병원에서 발생하+ 여 사망자는 3명, 감염자는 126명에 달하였다 .	O O O O O LOC-B LOC-B LOC-B O O O O O O O O O O O O
-일본 언론에서는 수도권의 요양시설 부족으로 서비스의 질을 담보하+ㄹ 수 없게 되+ㄴ 것이 이번 사건의 근본 원인이라고 분석하+ㄴ다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O
-현재 마이너리그 유망주 중에서도 거포가 없어 장타자가 필요하다 .	O O O O O O O O O
-앞서 +어이들은 같은 방식으로 2014년 7월부터 2015년 9월까지 이 화백 서명이 위조되+ㄴ 그림 4점을 판매 하+여 모두 33억원을 받아 챙기+ㄴ 혐의로 구속 기소되+어 재판을 받고 있다 .	O PER-B O O O O O O PER-B O PER-B O O O O O O MNY-B O O O O O O O O O
-【서울=뉴시스 .	LOC-B O
-‘홍채 인증 ATM’은 고객이 홍채정보를 등록하면 통장이나 카드가 없어도 금융거래를 하+ㄹ 수 있는 방식으로 이날부터 기업은행은 직원을 대상으로 시범운영을 하+ㄴ 뒤 확대 여부를 결정하+ㄹ 계획이다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
-오종택기 .	PER-B O
-한신팬들은 ‘죽음의 방문 경기(死のロ一ド)’ 때문에 한신이 성적을 내기가 어렵다고 항변 하+ㅂ니다 .	ORG-B O O O O ORG-B O O O O O O
-설 특집 파일럿 방송을 시작으로 ‘MLT-06’까지 우승을 차지하였고요. 잠정 하차 후 5개월 만에 나서 +ㄴ ‘MLT-17’에서도 변함없는 인기로 1위를 차지하+ㄴ바 있습니다 .	O O O O O O O O O O O O O O O O O O O O O O
-14차 전 종료 시점까지 상금 1위 선수는 9월 열리는 미국 여자 프로골프(LPGA) 투어 메이저대회 이+ㄴ에비앙 챔피언십 출전권이 주어 지+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-그래서 후배가 1등을 +였다”고 그때 상황을 설명하였다 .	O O O O O O O O
-안현수는 “선배가 나중에 나오아 후배를 부르었는데 헬맷을 쓰고 오라고 하더라. 헬맷을 쓰고 가+았더니 머리를 때리더라.나보다 나+의 후배가 더 많이 맞았다”고 털어놓았다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+스포트라이트 팀 이 취재한 결과 2012 년 부터 서울 과 경기도 , 경상도 에서 집단 감염 이 4 개 병원 에서 발생해 사망자 는 3 명 , 감염자 는 126 명 에 달 했 다 .	O O O O O DAT-B DAT-I O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+일본 언론 에서 는 수도권 의 요양 시설 부족 으로 서비스 의 질 을 담보할 수 없 게 된 것 이 이번 사건 의 근본 원인 이 라고 분석한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 마이너리그 유망주 중 에서 도 거포 가 없 어 장타자 가 필요하 다 .	O O O O O O O O O O O O O O O
+앞서 이 들 은 같 은 방식 으로 2014 년 7 월 부터 2015 년 9 월 까지 이 화백 서명 이 위조된 그림 4 점 을 판매해 모두 33 억 원 을 받 아 챙긴 혐의 로 구속 기소돼 재판 을 받 고 있 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+【 서울 = 뉴시스 】	O LOC-B O O O
+‘ 홍채 인증 ATM ’ 은 고객 이 홍채 정보 를 등록하 면 통장 이나 카드 가 없 어도 금융 거래 를 할 수 있 는 방식 으로 이날 부터 기업은행 은 직원 을 대상 으로 시범 운영 을 한 뒤 확대 여부 를 결정할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+오종택 기자	PER-B O
+한신 팬 들 은 ‘ 죽음 의 방문 경기 ( 死 のロ 一 ド ) ’ 때문 에 한신 이 성적 을 내 기 가 어렵 다고 항변합니다 .	ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+설 특집 파일럿 방송 을 시작 으로 ‘ MLT - 06 ’ 까지 우승 을 차지 했 고 요 . 잠정 하차 후 5 개월 만 에 나선 ‘ MLT - 17 ’ 에서 도 변함없 는 인기 로 1 위 를 차지한 바 있 습니다 .	DAT-B O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+14 차 전 종료 시점 까지 상금 1 위 선수 는 9 월 열리 는 미국 여자 프로 골프 ( LPGA ) 투어 메이저 대회 인 에비앙 챔피언십 출전권 이 주어진다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+그래서 후배 가 1 등 을 했 다 ” 고 그때 상황 을 설명 했 다 .	O O O O O O O O O O O O O O O O O
+안현수 는 “ 선배 가 나중 에 나 와 후배 를 불 렀 는데 헬맷 을 쓰 고 오 라고 하 더라 . 헬맷 을 쓰 고 갔 더니 머리 를 때리 더라 . 나 보다 내 후배 가 더 많이 맞 았 다 ” 고 털어 놨 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

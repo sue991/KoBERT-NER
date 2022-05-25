@@ -1,10 +1,10 @@
-보건복지부에 따르면 국민안심병원은 메르스와 증상이 비슷하+ㄴ 호흡기 질환 환자를 다른 환자와 분리치료 하+여병원 내 감염 위험을 방지하자는 취지+이다 .	ORG-B O O O O O O O O O O O O O O O O O O
-병원을 찾은 호흡기 질환자는 별도의 선별진료소에서 진료를 받고, 입원시 1인실이나 1인 1실로 입원하게 되+ㄴ다 .	O O O O O O O O O O O O O O O
-2013년 출시하+ㄴ 6년근 홍삼정(사진2)의 경우 그해 조기 품절되었고 지난해에는 10만병이상 판매하면서 반값 홍삼 시대를 열 +ㄴ 대표적 이+ㄴ 제품으로 자리 잡았다 .	O O O O O O O O O O O O O O O O O O O O O O
-아스카가 별다르+ㄴ 활약을 펼치지 못하고 LG전에서 패하+ㄴ다면 곧바로 켈리로 교체하+ㄹ 수도 있다 .	PER-B O O O O ORG-B O O PER-B O O O O
-두 번째는 ‘연봉 인상’(33.4%)이었고, ‘결혼·연애’(30.7%)가 3위를 기록하였다 .	O O O O O O O O
-삼성선물 홍성기 선임연구원도 “주요국 통화정책회의, 중국 양회 같은 정책 변수의 영향력이 커지고 있다”면서 “여기에 미국 금리 인상이 늦춰지고, 유가가 반등하+ㄴ 것+이 호재로 작용하였다”고 말하였다 .	ORG-B PER-B O O O O O O O O O O O O ORG-B O O O O O O O O O O
-BBC 패널로 출연하+ㄴ 전 첼시미드필더 프랭크 램 파드도마우리시오 포체티노 토트넘 감독이 손흥민을 윙백으로 활용하+ㄴ 것에 대하+여전술적 실패이자, 패인 중 하나+이라고 지적하였다 .	O O O O ORG-B PER-B PER-I PER-B PER-I ORG-B O PER-B O O O O O O O O O O
-현재 중국에 +ㄴ KFC 점포 5000곳을 포함하+여 약 7100곳에 이르는 얌 브랜드 매장이 있다 .	O LOC-B O ORG-B O O O O O O O O O O O
-올 시즌 첫 맞대결에서 전반까지 11점 차 리드를 지키었지만 3쿼터에서 대량 실점(27점)하며 경기를 내주+ㄴ신한은행은 이날도 3쿼터 이후 열세를 극복하지 못하였다 .	O O O O O O O O O O O O O ORG-B O O O O O O O
-백2로 단수치고 백4로 끊어도 흑5, 7로 두면 백의 무리.흑9로 단수까지 하면 흑의 호조.▽실전 진행=백2로 두고백4로 한 점을 잡는 것이 백의 최선.백 6까지 약간의 실리를 벌면서 살아가 +았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보건복지부 에 따르 면 국민 안심 병원 은 메르스 와 증상 이 비슷한 호흡기 질환 환자 를 다른 환자 와 분리 치료해 병원 내 감염 위험 을 방지하 자는 취지 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+병원 을 찾 은 호흡기 질환 자 는 별도 의 선별 진료소 에서 진료 를 받 고 , 입원 시 1 인실 이나 1 인 1 실 로 입원하 게 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2013 년 출시한 6 년 근 홍삼정 ( 사진 2 ) 의 경우 그해 조기 품절 됐 고 지난해 에 는 10 만 병 이상 판매하 면서 반값 홍삼 시대 를 연 대표적 인 제품 으로 자리 잡 았 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아스카 가 별다른 활약 을 펼치 지 못하 고 LG 전 에서 패한다면 곧바로 켈리 로 교체할 수 도 있 다 .	PER-B O O O O O O O O ORG-B O O O O PER-B O O O O O O O
+두 번째 는 ‘ 연봉 인상 ’ ( 33.4 % ) 이 었 고 , ‘ 결혼 · 연애 ’ ( 30.7 % ) 가 3 위 를 기록 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성선물 홍성기 선임 연구원 도 “ 주요 국 통화 정책 회의 , 중국 양회 같 은 정책 변수 의 영향력 이 커지 고 있 다 ” 면서 “ 여기 에 미국 금리 인상 이 늦춰지 고 , 유가 가 반등한 게 호재 로 작용 했 다 ” 고 말 했 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+BBC 패널 로 출연한 전 첼시 미드필더 프랭크 램 파드 도 마우리시오 포체티노 토트넘 감독 이 손흥민 을 윙백 으로 활용한 것 에 대해 전술적 실패 이 자 , 패인 중 하나 라고 지적 했 다 .	O O O O O ORG-B O PER-B PER-I PER-I O PER-B PER-I ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O
+현재 중국 엔 KFC 점포 5000 곳 을 포함해 약 7100 곳 에 이르 는 얌 브랜드 매장 이 있 다 .	O LOC-B O ORG-B O O O O O O O O O O O O O O O O O O
+올 시즌 첫 맞대결 에서 전반 까지 11 점 차 리드 를 지 켰 지만 3 쿼터 에서 대량 실점 ( 27 점 ) 하 며 경기 를 내준 신한은행 은 이날 도 3 쿼터 이후 열세 를 극복하 지 못 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+백 2 로 단수 치 고 백 4 로 끊 어도 흑 5 , 7 로 두 면 백 의 무리 . 흑 9 로 단수 까지 하 면 흑 의 호조 . ▽ 실전 진행 = 백 2 로 두 고 백 4 로 한 점 을 잡 는 것 이 백 의 최선 . 백 6 까지 약간 의 실리 를 벌 면서 살아갔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

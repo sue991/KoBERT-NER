@@ -1,14 +1,14 @@
-한강살리기 시민운동연합(대표 서영훈)은 강원대 전 상호 교수 등이 한강의 생태계에 대하+ㄴ 발표를 +였다 .	LOC-B ORG-I PER-B ORG-B O O O O LOC-B O O O O O
-나는 39살부터 다른 삶을 살+ㄴ다고 얘기 하+ㄴ다”며 “우리 신랑을 만나 +아서 마인드가 긍정적으로 바뀌었다”고 밝히+어눈길을 끌었다 .	O O O O O O O O O O O O O O O O O
-황혜영은 “그동안 힘들게 살았으니까 앞으로 좀 편하게 살라고 나+에게 주시+ㄴ 선물이라 생각 하+ㄴ다”고 덧붙이었다 .	PER-B O O O O O O O O O O O O O O
-한편 황혜영은 지나 +ㄴ 2011년 10월 민주당 부대변인 출신 김경록 과 결혼, 2013년 12월 아들 쌍둥이를 낳았다 .	O PER-B O O O O ORG-B O O PER-B O O O O O O O O
-이어 최화정은 "그때 +ㄴ도리도 리질 하+었던 것+이 지금은 끄덕끄덕하게 되는 것+이 시간의 힘이 +ㄴ 것 같다"고 말하였다 .	O PER-B O O O O O O O O O O O O O O O O
-이에 남우현은 "맞다 .	O PER-B O O
-국내 메르스(MERS·중동호흡기증후군) 감염자가 5월 30, 31일 3명이 추가로 확인되+어 전체 환자가 15명으로 늘어나 +았다 .	O O O O O O O O O O O O O O O
-'공유경제' 상징 우버(UBER) … 미국에서 운전기사에 거액 배상 위 .	O O ORG-B O ORG-B O O O O O
-오픈 하+ㄴ지 좀 시간이 흐르었고 물가 비싸+ㄴ 일본에서 최저 5만원대의 방값을 유지하다 보니 침구나 객실설비는 썩 좋은 편은 아니다 .	O O O O O O O ORG-B O MNY-B O O O O O O O O O O
-틈만 나면 미국 TV를 보고 또 +았다 .	O O LOC-B O O O O O
-여기에 김해골든루트 일반산업단지, 나전일반산업단지, 김해테크노밸리, 서김해 일반산업단지 등 12개의 산업단지가 조성되 +ㄹ 계획이어서 10만명이 더 늘어나 +ㄴ다 .	O O O LOC-B LOC-I LOC-B LOC-I O O O O O LOC-B O O O O O
-2012년 대선 당시 박근혜 대통령은 문재인 후보를 108만 496표차로 꺾고 당선되었다 .	O O O PER-B O PER-B O O O O O O
-랜달 존스 OECD 사무국 선임 이코노미스트는 16일 기획재정부에서 이런 내용이 담기 +ㄴ ‘2016년 한국경제보고서’를 발표하였다 .	PER-B PER-I ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O
-놀랍 ㄴ점은 미국 프로농구(NBA) 챔피언 결정 전의 브랜드 가치가 ‘파이널 포’보다 떨어지는 10위권 밖이라는 점이다 .	O O ORG-B ORG-B O O O O O O O O O O O O
+한 강 살리 기 시민 운동 연합 ( 대표 서영훈 ) 은 강원대 전상호 교수 등 이 한강 의 생태계 에 대한 발표 를 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B O O ORG-B PER-B O O O LOC-B O O O O O O O O O
+나 는 39 살 부터 다른 삶 을 산다고 얘기한다 ” 며 “ 우리 신랑 을 만나서 마인드 가 긍정적 으로 바뀌 었 다 ” 고 밝혀 눈길 을 끌 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황혜영 은 “ 그동안 힘들 게 살 았 으니까 앞 으로 좀 편하 게 살 라고 내게 주 신 선물 이 라 생각한다 ” 고 덧붙 였 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 황혜영 은 지난 2011 년 10 월 민주당 부 대변인 출신 김경록 과 결혼 , 2013 년 12 월 아들 쌍둥이 를 낳 았 다 .	O PER-B O O DAT-B DAT-I DAT-I DAT-I ORG-B O O O PER-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O
+이어 최화정 은 " 그땐 도리도리 질 했 던 게 지금 은 끄덕끄덕하 게 되 는 게 시간 의 힘 인 것 같 다 " 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 남우현 은 " 맞 다 .	O O PER-B O O O O O
+국내 메르스 ( MERS · 중동 호흡기 증후군 ) 감염자 가 5 월 30 , 31 일 3 명 이 추가 로 확인돼 전체 환자 가 15 명 으로 늘어났 다 .	O O O O O O O O O O O DAT-B DAT-I DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O
+' 공유 경제 ' 상징 우 버 ( UBER ) … 미국 에서 운전기사 에 거액 배상 위기	O O O O O ORG-B ORG-I O ORG-B O O ORG-B O O O O O O
+오픈 한 지 좀 시간 이 흘 렀 고 물가 비싼 일본 에서 최저 5 만 원 대 의 방 값 을 유지하 다 보 니 침구 나 객실 설비 는 썩 좋 은 편 은 아니 다 .	O O O O O O O O O O O ORG-B O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O
+틈 만 나 면 미국 TV 를 보 고 또 봤 다 .	O O O O LOC-B O O O O O O O O
+여기 에 김해 골든 루트 일반 산업 단지 , 나전 일반 산업 단지 , 김해 테크노밸리 , 서 김해 일반 산업 단지 등 12 개 의 산업 단지 가 조성될 계획 이 어서 10 만 명 이 더 늘어난다 .	O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O
+2012 년 대선 당시 박근혜 대통령 은 문재인 후보 를 108 만 496 표 차 로 꺾 고 당선 됐 다 .	DAT-B DAT-I O O PER-B O O PER-B O O O O O O O O O O O O O O
+랜달 존스 OECD 사무국 선임 이코노미스트 는 16 일 기획 재정부 에서 이런 내용 이 담긴 ‘ 2016 년 한국 경제 보고서 ’ 를 발표 했 다 .	PER-B PER-I ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I ORG-B ORG-I O O O O O O DAT-B DAT-I O O O O O O O O O
+놀라 운 점 은 미국 프로 농구 ( NBA ) 챔피언 결정 전 의 브랜드 가치 가 ‘ 파이널 포 ’ 보다 떨어지 는 10 위 권 밖 이 라는 점 이 다 .	O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O

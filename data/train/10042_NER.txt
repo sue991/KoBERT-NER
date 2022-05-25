@@ -1,17 +1,17 @@
-이렇게 되면 세종시 초중고교가 사용하는 농산물 가운데 60%가량이 지역 농산물로 충당되+ㄹ 것으로 전망되+ㄴ다 .	O O LOC-B O O O O O O O O O O O
-위원들의 추궁이 이어지자 “안 전 수석과 가깝ㄴ 사이는 아니었다”는 취지로 말을 바꾸기도 +였다 .	O O O PER-B O O O O O O O O O O
-하지만 80년대 석유가격이 안정세를 유지하며 실제 경제성을 가지+ㄴ대규모 개발로는 이어지지 못하였다 .	O O O O O O O O O O O O
-김무성 새누리당 대표가 24일 오후 부산 자신의 선거사무소 앞 영도대교에서 바다를 바라보고 있다 .	PER-B ORG-B O O O LOC-B O O O LOC-B O O O O
-한국의 노사 문제도 마찬가지 이+ㅂ니다 .	ORG-B O O O O O
-LG워치어베인 LTE는 스크래치와 부식에 강 하+ㄴ스테인리스 스틸 재질의 메탈 바디와 구부러지+ㅁ·땀 등에 강 하+ㄴ 특수고무 재질의 스트랩을 적용하+였다 .	ORG-B O O O O O O O O O O O O O O O O O O
-송휘영 교수는 “외무성의 동영상은 단순하지만 객관적 사실만을 열거하는 느낌”이라며 “반면 외교부 동영상은 어디+이+ㄴ지 다소 감정적 정서에 호소하는 분위기를 조성하+ㄴ다”고 지적하였다 .	PER-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O
-1984년 2월 학교가 강동구 고덕동으로 이전하면서 배재공원이 되고 일부는 대형 빌딩이 들어서 +었다 .	O O O LOC-B LOC-B O LOC-B O O O O O O O
-마지막 ‘우생순’(2004년 아테네 올림픽은메달 주역들의 활약을 그리 +ㄴ 영화 ‘우리 생애 최고의 순간’) 멤버로 지난해 대한 핸드볼협회로부터 최우수선수로 선정되+ㄴ 우선희(삼척시청)가 부상으로 대표팀에서 이탈하였기 때문이다 .	O O LOC-B O O O O O O O O O O O O ORG-B ORG-I O O ORG-B O O O O O
-보이그룹 VAV(브이에이브이)가 스페셜 안 무버 전 영상을 22일 SNS와 유튜브 채널을 통하+여 공개하였다 .	O ORG-B O O O O O O O O O O O O
-공개되+ㄴ 영상 속 VAV 멤버들은 각기 다른 매력으로 첫 등장부터 시선을 끌+ㄴ다 .	O O O ORG-B O O O O O O O O O
-54년 2월 제정되 +ㄴ 전염병 예방법 제2조(전염병의 종류)의 내용이다 .	O O O O O O O O O O
-이에 따르 아 한국마사회는 운영 기준을 강화하+여 내년부터는 실제 경주에서 패드채찍을 의무적으로 사용하도록 +였다 .	O O O ORG-B O O O O O O O O O O O
-골드티어 이상을 획득 하+ㄴ플레이어는 '승리의 마오카이' 스킨을 받을 수 있으며, '마오카이' 챔피언이 없다면 스킨 지급시 챔피언도 함께 제공되 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-랭크팀에 소속되+ㄴ 상태로 직접 플레이하여 10승을 올리+ㄴ 게이머도 해당 팀의 랭크에 따르 아랭크팀와드 스킨을 보상으로 받을 수 있다 .	O O O O O O O O O O O O O O O O O O O
-무릎에 앉은 딸에게 선승은 “고목나무가 차+ㄴ바위에 기대고 서+ㄴ 것 같다 .	O O O PER-B O O O O O O O
-3일 전국은행연합회의 ‘가계대출 금리비교공시’에 따르면 지난해 12월 국내 16개 은행 중 14개 은행의 주택담보대출(만기 10년 이상 분할상환식·신규 취급기준) 평균금리는 3%를 넘었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
+이렇 게 되 면 세종시 초 중 고교 가 사용하 는 농산물 가운데 60 % 가량 이 지역 농산물 로 충당될 것 으로 전망된다 .	O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+위원 들 의 추궁 이 이어지 자 “ 안 전 수석 과 가까 운 사이 는 아니 었 다 ” 는 취지 로 말 을 바꾸 기 도 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+하지만 80 년대 석유 가격 이 안정세 를 유지하 며 실제 경제성 을 가진 대규모 개발 로 는 이어지 지 못 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+김무성 새누리당 대표 가 24 일 오후 부산 자신 의 선거 사무소 앞 영도 대교 에서 바다 를 바라보 고 있 다 .	PER-B ORG-B O O DAT-B DAT-I O LOC-B O O O O O LOC-B LOC-I O O O O O O O O
+한국 의 노사 문제 도 마찬가지 입니다 .	ORG-B O O O O O O O
+LG 워치 어 베인 LTE 는 스크래치 와 부식 에 강한 스테인리스 스틸 재질 의 메탈 바디 와 구부러짐 · 땀 등 에 강한 특수 고무 재질 의 스트랩 을 적용 햇 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+송휘영 교수 는 “ 외무성 의 동영상 은 단순하 지만 객관적 사실 만 을 열거하 는 느낌 ” 이 라며 “ 반면 외교 부 동영상 은 어딘지 다소 감정적 정서 에 호소하 는 분위기 를 조성한다 ” 고 지적 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+1984 년 2 월 학교 가 강동구 고덕동 으로 이전하 면서 배재 공원 이 되 고 일부 는 대형 빌딩 이 들어섰 다 .	DAT-B DAT-I DAT-I DAT-I O O LOC-B LOC-B O O O LOC-B LOC-I O O O O O O O O O O O
+마지막 ‘ 우생 순 ’ ( 2004 년 아테네 올림픽 은메달 주역 들 의 활약 을 그린 영화 ‘ 우리 생애 최고 의 순간 ’ ) 멤버 로 지난해 대한 핸드볼 협회 로부터 최우수 선수 로 선정된 우선희 ( 삼척시 청 ) 가 부상 으로 대표 팀 에서 이탈 했 기 때문 이 다 .	O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O
+보이 그룹 VAV ( 브이 에이브이 ) 가 스페셜 안무 버전 영상 을 22 일 SNS 와 유튜브 채널 을 통해 공개 했 다 .	O O ORG-B O ORG-B ORG-I O O O O O O O DAT-B DAT-I O O O O O O O O O O
+공개된 영상 속 VAV 멤버 들 은 각기 다른 매력 으로 첫 등장 부터 시선 을 끈다 .	O O O ORG-B O O O O O O O O O O O O O O
+54 년 2 월 제정된 전염병 예방법 제 2 조 ( 전염병 의 종류 ) 의 내용 이 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+이 에 따 라 한국 마사회 는 운영 기준 을 강화해 내년 부터 는 실제 경주 에서 패드 채찍 을 의무적 으로 사용 토록 했 다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+골드 티어 이상 을 획득한 플레이어 는 ' 승리 의 마오 카이 ' 스킨 을 받 을 수 있 으며 , ' 마오 카이 ' 챔피언 이 없 다면 스킨 지급 시 챔피언 도 함께 제공된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+랭크 팀 에 소속된 상태 로 직접 플레이 하 여 10 승 을 올린 게이머 도 해당 팀 의 랭크 에 따 라 랭크 팀 와드 스킨 을 보상 으로 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+무릎 에 앉 은 딸 에게 선승 은 “ 고목나무 가 찬 바위 에 기대 고 선 것 같 다 .	O O O O O O PER-B O O O O O O O O O O O O O O
+3 일 전국은행연합회 의 ‘ 가계 대출 금리 비교 공시 ’ 에 따르 면 지난해 12 월 국내 16 개 은행 중 14 개 은행 의 주택 담보대출 ( 만기 10 년 이상 분할 상환 식 · 신규 취급 기준 ) 평균 금리 는 3 % 를 넘 었 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

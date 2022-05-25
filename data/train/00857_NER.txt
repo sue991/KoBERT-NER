@@ -1,10 +1,10 @@
-일본이 원격진료를 허용 하+여 중국 시장을 차지하게 생기었다고 하+여도 의료민영화+이라는 잣대만 들이대며 반대하는 당선자도 있다 .	ORG-B O O O ORG-B O O O O O O O O O O O
-강원도로 통하는 각종 교통망 확충이 호재로 작용하고 있다 .	LOC-B O O O O O O O O
-같은 날 캐나다에서도 판매가 시작되었다 .	O O LOC-B O O O
-1993년 세계선수권대회와 1990년 베이징 아시안게임에서도 정상을 밟았고, 화려 하+ㄴ 선수 생활을 마감하 +ㄴ 뒤 현재는 대표팀 후배들을 키우는 데 주력하고 있다 .	O O O O O O O O O O O O O O O O O O O O O O
-이어 김관기자는 “언론사 사회부, 정치부기자들이 술을 잘 먹지 않느냐”는 질문에 “기자들은 취재원과 빨리 친하+여지고 다양하+ㄴ 얘기를 듣어야 하니 술 마시는 것+이기자한테 +ㄴ 업무의 연장선상이다”이라며 주량은 소주 반병에서 한 병이라고 밝히었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이탈리아 출신 모델 클라우디아로마니의 애정행각이 포착되었다 .	ORG-B O O PER-B O O O
-D 경사는 “스마트폰으로 찍으면 직접 화면을 보고 촬영하+ㄹ 수 있고 필요 없으면 자유롭게 편집·삭제도+였다 .	PER-B O O O O O O O O O O O O O O
-코스피·코스닥은 물론, 세계 주가가 폭락하였습니다 .	ORG-B O O O O O
-이집트 콥트교회 2곳서 IS 소행 연쇄 폭탄 테러 … 최소 45명 사망 140여명 다치+ .	LOC-B LOC-B O ORG-B O O O O O O O O O O O
-이 영화의 주제는 해리가 에그 시에게 신사의 수칙을 가르치는 멘토링 과정에 담기 +어 있다 .	O O O PER-B PER-B PER-I O O O O O O O O O
+일본 이 원격 진료 를 허용해 중국 시장 을 차지하 게 생 겼 다고 해도 의료 민영화 라는 잣대 만 들이대 며 반대하 는 당선자 도 있 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+강원도 로 통하 는 각종 교통 망 확충 이 호재 로 작용하 고 있 다 .	LOC-B O O O O O O O O O O O O O O O
+같 은 날 캐나다 에서 도 판매 가 시작 됐 다 .	O O O LOC-B O O O O O O O O
+1993 년 세계 선수권 대회 와 1990 년 베이징 아시안 게임 에서 도 정상 을 밟 았 고 , 화려한 선수 생활 을 마감한 뒤 현재 는 대표 팀 후배 들 을 키우 는 데 주력하 고 있 다 .	DAT-B DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 김관 기자 는 “ 언론사 사회부 , 정치부 기자 들 이 술 을 잘 먹 지 않 느냐 ” 는 질문 에 “ 기자 들 은 취재원 과 빨리 친해 지 고 다양한 얘기 를 들 어야 하 니 술 마시 는 게 기자 한텐 업무 의 연장선 상 이 다 ” 이 라며 주량 은 소주 반 병 에서 한 병 이 라고 밝 혔 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이탈리아 출신 모델 클라우디아 로마니 의 애정 행각 이 포착 됐 다 .	ORG-B O O PER-B PER-I O O O O O O O O
+D 경사 는 “ 스마트폰 으로 찍 으면 직접 화면 을 보 고 촬영할 수 있 고 필요 없 으면 자유롭 게 편집 · 삭제 도 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+코스피 · 코스닥 은 물론 , 세계 주가 가 폭락 했 습니다 .	O O ORG-B O O O O O O O O O O
+이집트 콥트 교회 2 곳 서 IS 소행 연쇄 폭탄 테러 … 최소 45 명 사망 140 여 명 다쳐	LOC-B LOC-B LOC-I O O O ORG-B O O O O O O O O O O O O O
+이 영화 의 주제 는 해리 가 에그 시 에게 신사 의 수칙 을 가르치 는 멘토링 과정 에 담겨 있 다 .	O O O O O PER-B O PER-B PER-I O O O O O O O O O O O O O O

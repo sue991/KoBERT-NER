@@ -1,9 +1,9 @@
-18일 밤 9시에 함흥에서 혜산으로 가는 기차를 타 +아19일 저녁 5시에 혜산에 도착하였다 .	O O O LOC-B LOC-B O O O O O O LOC-B O O
-(서울=뉴스1 .	LOC-B O
-세계적 이+ㄴ 석학 등 국내외 유명 지식인 21명의 강연을 직접 듣고 2016년 새해를 남다르게 출발하+여보자. ‘그랜드 마스터 클래스: 빅 퀘스 천2016(GRANDMASTERCLASS: BIGQUESTION 2016)’이 2016년 1월 29일(금)∼31일(일) 매일 낮 12시∼오후 8시 서울 동대문구 경희대 평화의전당에서 열리+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I O O
-정치권에서는 5월 9일을 유력 하+ㄴ조기 대선일로 전망하고 있다 .	O O O O O O O O O
-유람선불 10여명 사망/어제 오후/충주호/백34명 승선… 20여명 부 .	O O O LOC-B O O O O
-한편 권다현과 미스라진은 오는 10월 결혼식을 올리+ㄴ다고 하+ㄴ다 .	O PER-B PER-B O O O O O O
-자녀 장려금 1인 최대 50만원 9월 16일께 저소득층에 지 .	O O O O MNY-B O O O O O
-유니온페이 카드는 전 세계적으로 46억장이 발급되었다 .	ORG-B O O O O O O
-본격적 이+ㄴ 추위는 28일부터 시작되+ㄴ다 .	O O O O O O
+18 일 밤 9 시 에 함흥 에서 혜산 으로 가 는 기차 를 타 19 일 저녁 5 시 에 혜산 에 도착 했 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B O LOC-B O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O ORG-B ORG-I O
+세계적 인 석학 등 국내외 유명 지식인 21 명 의 강연 을 직접 듣 고 2016 년 새해 를 남다르 게 출발해 보 자 . ‘ 그랜드 마스터 클래스 : 빅 퀘스천 2016 ( GRAND MASTER CLASS : BIG QUESTION 2016 ) ’ 이 2016 년 1 월 29 일 ( 금 ) ∼ 31 일 ( 일 ) 매일 낮 12 시 ∼ 오후 8 시 서울 동대문구 경희대 평화 의 전당 에서 열린다 .	O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I O O O
+정치권 에서 는 5 월 9 일 을 유력한 조기 대선 일 로 전망하 고 있 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O
+유람선 불 10 여 명 사망 / 어제 오후 / 충주호 / 백 34 명 승선 … 20 여 명부 상	O O O O O O O O O O LOC-B O O O O O O O O O O
+한편 권다현 과 미쓰 라진 은 오 는 10 월 결혼식 을 올린다고 한다 .	O PER-B O PER-B PER-I O O O DAT-B DAT-I O O O O O
+자녀 장려금 1 인 최대 50 만 원 9 월 16 일 께 저소득층 에 지급	O O O O O MNY-B MNY-I MNY-I DAT-B DAT-I DAT-I DAT-I O O O O
+유니온 페이 카드 는 전 세계적 으로 46 억 장 이 발급 됐 다 .	ORG-B ORG-I O O O O O O O O O O O O O
+본격적 인 추위 는 28 일 부터 시작된다 .	O O O O DAT-B DAT-I O O O

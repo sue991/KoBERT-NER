@@ -1,10 +1,10 @@
-‘적폐청산’ 기조 강화 탄핵 국면 이후 ‘적폐청산’을 강조하였던 문 후보는 이날 ‘진짜 정권교체’ 프레임을 꺼내+어들었다 .	O O O O O O O O PER-B O O O O O O O
-문재인의 '공공일자리 공약' 비판 하+ㄴ 박병원 경총 회장“돈 쓰는 일자리 오래 못 가 .	PER-B O O O O PER-B O O O O O O O O
-국토부는 올해 초 8개 선도사업을 발표하+ㄴ 이후, 현재 총 4차에 걸치+어 16개 사업장 3만3000채에 대하+여 공급촉진지구 후보지를 발표하고, 뉴스테이 사업을 추진 중이다. 민간제안사업 민간제안 방식으로 진행되는 뉴스테이 사업은 민간이 보유 하+ㄴ 주택건설 가능 부지 등을 대상으로 민간자본과 기금이 출자하여 추진하는 사업이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-가장 무겁ㄴ 합성원소 발견/ 독 “원자기호 110… 백금과 화학적 유사 .	O O O O O O O O O O O
-강남극 찬 황석정, 서울대 시절 김태희 급인기?별명 듣어보니 ‘헉!’나 혼자 살+ㄴ .	PER-B O PER-B ORG-B O PER-B O O O O O O
-더불어 ‘순(純)스피루리나 프리미엄’은 활성산소로부터 몸을 보호하여 피부 건강과 항산화 등 건강증진에 도움을 주+ㄴ다 .	O O O O O O O O O O O O O O
-지금은 문경시가 철로 자전거를 운영하는 등 관광자원으로 활용하고 있다 .	O LOC-B O O O O O O O O
-최 회장은 “호랑이를 잡으려면 호랑이 굴로 들어가 +아야 하+ㄴ다는 말처럼 수도권의 공략 강화를 위하+여 서울 강남에 신사옥을 마련하게 +었다”고 밝히었다 .	PER-B O O O O O O O O O LOC-B O O O LOC-B LOC-I O O O O O
-두 사람은 지나 +ㄴ 2008년 ‘무릎 팍도사’에서 첫 번째 팔씨름 대결을 벌이어 추성훈이 승리를 거두+ㄴ바 있다 .	O O O O O O O O O O O O PER-B O O O O
-이 아파트형 오피스텔은 1인 가구 증가, 아파트 전세난 등과 맞물리 +어최근 수도권에서 크+ㄴ인기를 누리고 있다 .	O O O O O O O O O O O LOC-B O O O O
+‘ 적폐 청산 ’ 기조 강화 탄핵 국면 이후 ‘ 적폐 청산 ’ 을 강조 했 던 문 후보 는 이날 ‘ 진짜 정권 교체 ’ 프레임 을 꺼내 들 었 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+문재인 의 ' 공공 일자리 공약 ' 비판한 박병원 경총 회장 “ 돈 쓰 는 일자리 오래 못 가 ”	PER-B O O O O O O O PER-B O O O O O O O O O O O
+국토 부 는 올해 초 8 개 선도 사업 을 발표한 이후 , 현재 총 4 차 에 걸쳐 16 개 사업장 3 만 3000 채 에 대해 공급 촉진 지구 후보지 를 발표하 고 , 뉴 스테이 사업 을 추진 중 이 다 . 민간 제안 사업 민간 제안 방식 으로 진행되 는 뉴 스테이 사업 은 민간 이 보유한 주택 건설 가능 부지 등 을 대상 으로 민간 자본 과 기금 이 출자하 여 추진하 는 사업 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가장 무거 운 합성 원소 발견 / 독 “ 원자 기호 110 … 백금 과 화학적 유사 ”	O O O O O O O O O O O O O O O O O O
+강남 극찬 황석정 , 서울대 시절 김태희 급 인기 ? 별명 들 어 보 니 ‘ 헉 ! ’ 나 혼자 산다	PER-B O PER-B O ORG-B O PER-B O O O O O O O O O O O O O O O
+더불 어 ‘ 순 ( 純 ) 스피 루리 나 프리미엄 ’ 은 활성산소 로부터 몸 을 보호하 여 피부 건강 과 항 산화 등 건강 증진 에 도움 을 준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지금 은 문경시 가 철로 자전거 를 운영하 는 등 관광 자원 으로 활용하 고 있 다 .	O O LOC-B O O O O O O O O O O O O O O O
+최 회장 은 “ 호랑이 를 잡 으려면 호랑이 굴 로 들어가야 한다는 말 처럼 수도권 의 공략 강화 를 위해 서울 강남 에 신사옥 을 마련하 게 됐 다 ” 고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O LOC-B O O O O O LOC-B LOC-I O O O O O O O O O O O O O
+두 사람 은 지난 2008 년 ‘ 무릎팍 도사 ’ 에서 첫 번째 팔씨름 대결 을 벌 여 추성훈 이 승리 를 거둔 바 있 다 .	O O O O DAT-B DAT-I O PER-B PER-I O O O O O O O O O PER-B O O O O O O O O
+이 아파트 형 오피스텔 은 1 인 가구 증가 , 아파트 전세 난 등 과 맞물려 최근 수도권 에서 큰 인기 를 누리 고 있 다 .	O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O

@@ -1,14 +1,14 @@
-오에겐 자부로는 일본 현대문학의 초석을 놓은 것으로 평가받는 작가나 쓰메 소세키(1867~1916)의 대표작 ‘마음’에 담기 +ㄴ군국주의적 요소, 야스쿠니 신사 참배행위까지 소설의 삽화로 동원하며 일본 사회의 ‘비정상성’을 문제 삼는다 .	PER-B O ORG-B O O O O O O O O O O O O O ORG-B ORG-I O O O O ORG-B O O O O O
-이미 수상자(2000년 김대중 전 대통령)를 배출하+ㄴ데 .	O O PER-B O O O O
-전날 집회에서는 새누리당 입당원서를 배부하는 등 창당준비를 본격화하였다 .	O O ORG-B O O O O O O
-또 국내 언론에 잘 소개되지+ㄴ 않았지만 동국대 일산병원 가정의학과 오상우 교수팀은 식사에서 나트륨 밀도가 높은 상위 20%가 하위 20%에 비하+여비만의 위험도가 7∼18세의 어린이와 청소년에서 +ㄴ1.8배, 성인에서 +ㄴ(19세 이상) 1.2배 높아지+ㄴ다고 유럽 임상 영양학회지(EuropeanJournalofClinicalNutrition)에 2013년(67권) 발표하였다 .	O O O O O O ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-B O O O
-이씨처럼 노후준비를 고민하는 사람들이 늘고 있다 .	PER-B O O PER-B O O O
-첫 회를 시작으로 13일까지 4일간 총 4회에 걸치+어매+어회 2편씩 총 8편이 공개되+ㄹ 예정이다 .	O O O O O O O O O O O O O O
-트래버모리슨 학장은 로스쿨 학생과 교직원이 바라라 전 검사의 사법정의에 대하+ㄴ 깊이 있는 지식과 경험으로부터 많은 것을 배우+ㄹ 수 있을 것이라고 말하였다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O
-바라라 전 검사는 “미국에서 가장 훌륭하+ㄴ 교육기관 중 한 곳이 +ㄴ 뉴욕대 로스쿨에 합류하게 되+어 영광”이라며 “범죄, 사회정의, 정직하+ㄴ 정부, 국가안보, 시민권, 기업 책임 등 내가 깊은 관심을 보이어 오+ㄴ문제들을 지속적으로 다루+ㄹ 기회를 얻게 되+어 기쁘다”고 소감을 전하였다 .	PER-B O O LOC-B O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
-하버드·콤롬비아 로스쿨을 졸업 하+ㄴ바라라는 뉴욕주 연방검사로 7년간 복무하였으며 당시 ‘월스트리트 저승사자’+이란 별명이 붙을 정도로 굵직굵직하+ㄴ 수사를 진두지휘 하+여 ‘스타 검사’로 유명하다 .	ORG-B ORG-I O PER-B LOC-B O O O O PER-B PER-I O O O O O O O O O O O
-그러나 이달 초 트럼프 대통령의 사직서 제출 요구를 거부하고 맞서 +었다가 해고당하었다 .	O O O PER-B O O O O O O O O O
-(서울=뉴스1 .	LOC-B O
-김범(26)이 오랜만에 드라마 출연을 앞두고 공식석상에 모습을 드러내+었다 .	PER-B O O O O O O O O
-한국 정부가 독자 대북 제재를 발표하+ㄴ날이다 .	ORG-B ORG-I O O O O O
-◆북한, 핵탄두 보유사실이+ㄴ가=노동신문이 공개하+ㄴ사진은 내폭형 핵폭발 장치다 .	ORG-B O O O O O O O
+오에 겐자부로 는 일본 현대 문학 의 초석 을 놓 은 것 으로 평가 받 는 작가 나쓰메 소세키 ( 1867 ~ 1916 ) 의 대표작 ‘ 마음 ’ 에 담긴 군국주의 적 요소 , 야스쿠니 신사 참배 행위 까지 소설 의 삽화 로 동원하 며 일본 사회 의 ‘ 비정상 성 ’ 을 문제 삼 는다 .	PER-B PER-I O LOC-B O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O
+이미 수상자 ( 2000 년 김대중 전 대통령 ) 를 배출한 데 다	O O O DAT-B DAT-I PER-B O O O O O O O
+전날 집회 에서 는 새누리당 입당 원서 를 배부하 는 등 창당 준비 를 본격화 했 다 .	O O O O ORG-B O O O O O O O O O O O O O
+또 국내 언론 에 잘 소개되 진 않 았 지만 동국대 일산 병원 가정 의학 과 오상우 교수 팀 은 식사 에서 나트륨 밀도 가 높 은 상위 20 % 가 하위 20 % 에 비해 비만 의 위험 도 가 7 ∼ 18 세 의 어린이 와 청소년 에선 1.8 배 , 성인 에선 ( 19 세 이상 ) 1.2 배 높아진다고 유럽 임상 영양 학회 지 ( European Journal of Clinical Nutrition ) 에 2013 년 ( 67 권 ) 발표 했 다 .	O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O
+이 씨 처럼 노후 준비 를 고민하 는 사람 들 이 늘 고 있 다 .	PER-B O O O O O O O O O O O O O O O
+첫 회 를 시작 으로 13 일 까지 4 일 간 총 4 회 에 걸쳐 매 회 2 편 씩 총 8 편 이 공개될 예정 이 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+트래버 모리슨 학장 은 로스쿨 학생 과 교직원 이 바라라 전 검사 의 사법 정의 에 대한 깊이 있 는 지식 과 경험 으로부터 많 은 것 을 배울 수 있 을 것 이 라고 말 했 다 .	PER-B PER-I O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+바라라 전 검사 는 “ 미국 에서 가장 훌륭한 교육 기관 중 한 곳 인 뉴욕대 로스쿨 에 합류하 게 돼 영광 ” 이 라며 “ 범죄 , 사회 정의 , 정직한 정부 , 국가 안보 , 시민권 , 기업 책임 등 내 가 깊 은 관심 을 보 여 온 문제 들 을 지속적 으로 다룰 기회 를 얻 게 돼 기쁘 다 ” 고 소감 을 전 했 다 .	PER-B O O O O LOC-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하버드 · 콤 롬 비아 로스쿨 을 졸업한 바라 라는 뉴욕주 연방 검사 로 7 년 간 복무 했 으며 당시 ‘ 월스트리트 저승사자 ’ 란 별명 이 붙 을 정도 로 굵직굵직한 수사 를 진두지휘해 ‘ 스타 검사 ’ 로 유명하 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B O LOC-B O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+그러나 이달 초 트럼프 대통령 의 사직서 제출 요구 를 거부하 고 맞섰 다가 해고 당 했 다 .	O O O PER-B O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O ORG-B ORG-I O
+김범 ( 26 ) 이 오랜만 에 드라마 출연 을 앞두 고 공식 석상 에 모습 을 드러냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+한국 정부 가 독자 대북 제재 를 발표한 날 이 다 .	ORG-B ORG-I O O O O O O O O O O
+◆ 북한 , 핵탄두 보유 사실 인가 = 노동신문 이 공개한 사진 은 내폭 형 핵폭발 장치 다 .	O ORG-B O O O O O O O O O O O O O O O O O

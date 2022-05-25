@@ -1,13 +1,13 @@
-그러나 글로벌 경기가 살아나지 않으면서 중국 내수주를 제외하면 사실상 수주가 없고 그마저도 ‘유령잔량(PhantomO rder)’이라는 의문이 제기되었다 .	O O O O O ORG-B O O O O O O O O O O O
-창원시설관리공단에서 기간제로 주차관리 업무를 하던 A씨는 공단이 노조에 가입되+ㄴ무기계약직 근로자들과 달리 자신에게는 상여금과 명절 휴가비, 교통보조비 등을 지급하지 않자 차별적 처우+이라며 중노위에게서 시정명령을 받아내 +었다 .	ORG-B O O O O PER-B ORG-I O O O O O O O O O O O O O O O O O O O
-1975년 6월 30일 오후 경주 황남대총 발굴 현장에 서 있었던 일이다 .	O O O O LOC-B O O O O O O O
-GTI의 창업진흥센터는 박씨처럼 우수 창업아이템을 발굴하고 사업화를 지원하는 인큐베이터 역할을 하고 있다 .	ORG-B O PER-B O O O O O O O O O O
-미국과 중국은 지나 +ㄴ 6년간 이른바 ‘닭 발 싸움’을 벌이 +어오았다 .	ORG-B ORG-B O O O O O O O O O O
-1화나 이편 1화 ‘나이편’에서는 39세 영애 씨(김현숙 분)가 바닥에 엎드리+어웃는 얼굴을 하고 있다 .	O O O O O PER-B PER-B O O O O O O O
-◆ 홍합밸리=서울연구원은 홍합밸리에 신촌을 더 하+여 ‘신홍합 밸리’ +이라 이름 짓고서대문구 신촌동, 마포구의 대흥동·서강동·합정동·서교동·연남동·상암동을 그 범위에 포함하였다 .	LOC-B LOC-I LOC-I LOC-B O O LOC-B LOC-I O O LOC-B LOC-B LOC-B LOC-B O O O O
-그동안 동북아 질서의 뇌관처럼 되+어 오+ㄴ 남북한 관계가 어떻게 변하느냐에 따르 아동북아에서도 진정 하+ㄴ 탈냉전시대가 도래하+ㄹ 것이 +ㄴ지가 달리 +어 있는 것이다 .	O ORG-B O O O O ORG-B O O O O ORG-B O O O O O O O O O O O
-공개되+ㄴ직캠은 멤버 쯔위를 중심으로 편집되+ㄴ 영상으로, 쯔위는 길+ㄴ 생머리를 날리며 안무에 몰입하고 있다 .	O O PER-B O O O PER-B O O O O O O O
-특히 그룹 내 외모 담당을 맡고 있는 쯔위의 아름답ㄴ 미모와 늘씬하+ㄴ각선미가 눈길을 끌었다 .	O O O O O O O PER-B O O O O O O
-한편 쯔위가 속하+ㄴ트와이스는 지나 +ㄴ 20일 첫 번째 앨범 ‘더 스토리비 긴즈’를 통하+여 가요계에 데뷔하였다 .	O PER-B ORG-B O O O O O O O O O O O O O
-누구나 따르 아하기 쉽ㄴ 김 대표의 신가치 투자 유료 증권방송은 오전 9시부터 10시, 오후 2시부터 3시 하루에 2시간씩 진행되며 문자로도 매수·매도 안내가 발송되+ㄴ다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O
-김현수가 마이너리그 거부권을 행사하+여 MLB에 잔류하자 팬들은 야유를 퍼붓었다 .	PER-B ORG-B O O ORG-B O O O O O
+그러나 글로벌 경기 가 살아나 지 않 으면서 중국 내 수주 를 제외하 면 사실상 수주 가 없 고 그 마저 도 ‘ 유령 잔량 ( Phantom Order ) ’ 이 라는 의문 이 제기 됐 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+창원시 설 관리 공단 에서 기간제 로 주차 관리 업무 를 하 던 A 씨 는 공단 이 노조 에 가입된 무기 계약 직 근로자 들 과 달리 자신 에게 는 상여금 과 명절 휴가비 , 교통 보조비 등 을 지급하 지 않 자 차별적 처우 라며 중노위 에게서 시정 명령 을 받 아 냈 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1975 년 6 월 30 일 오후 경주 황남대총 발굴 현장 에서 있 었 던 일 이 다 .	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O LOC-B O O O O O O O O O O O
+GTI 의 창업 진흥 센터 는 박 씨 처럼 우수 창업 아이템 을 발굴하 고 사업 화 를 지원하 는 인큐베이터 역할 을 하 고 있 다 .	ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+미국 과 중국 은 지난 6 년 간 이른바 ‘ 닭발 싸움 ’ 을 벌 여 왔 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O
+1 화 나이 편 1 화 ‘ 나이 편 ’ 에서 는 39 세 영애 씨 ( 김현숙 분 ) 가 바닥 에 엎드려 웃 는 얼굴 을 하 고 있 다 .	O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O
+◆ 홍합 밸리 = 서울 연구원 은 홍합 밸리 에 신촌 을 더해 ‘ 신 홍합 밸리 ’ 라 이름 짓 고 서대문구 신촌동 , 마포구 의 대흥동 · 서강 동 · 합정동 · 서교동 · 연남동 · 상암동 을 그 범위 에 포함 했 다 .	LOC-B LOC-I LOC-I O O O O ORG-B ORG-I O LOC-B O O O LOC-B LOC-I LOC-I O O O O O LOC-B LOC-B O LOC-B O LOC-B O LOC-B LOC-I O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O
+그동안 동북아 질서 의 뇌관 처럼 돼 온 남 북한 관계 가 어떻 게 변하 느냐 에 따 라 동북아 에서 도 진정한 탈 냉전 시대 가 도래할 것 인지 가 달려 있 는 것 이 다 .	O ORG-B O O O O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+공개된 직 캠 은 멤버 쯔 위 를 중심 으로 편집된 영상 으로 , 쯔 위 는 긴 생머리 를 날리 며 안무 에 몰입하 고 있 다 .	O O O O O PER-B PER-I O O O O O O O PER-B PER-I O O O O O O O O O O O O O
+특히 그룹 내 외모 담당 을 맡 고 있 는 쯔 위 의 아름다 운 미모 와 늘씬한 각선미 가 눈길 을 끌 었 다 .	O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O
+한편 쯔 위 가 속한 트와이스 는 지난 20 일 첫 번째 앨범 ‘ 더 스토리 비긴 즈 ’ 를 통해 가요계 에 데뷔 했 다 .	O PER-B PER-I O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+누구 나 따 라 하 기 쉬 운 김 대표 의 신 가치 투자 유료 증권 방송 은 오전 9 시 부터 10 시 , 오후 2 시 부터 3 시 하루 에 2 시간 씩 진행되 며 문자 로 도 매수 · 매도 안내 가 발송된다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김현수 가 마이너리그 거부권 을 행사해 MLB 에 잔류하 자 팬 들 은 야유 를 퍼부 었 다 .	PER-B O ORG-B O O O ORG-B O O O O O O O O O O O O

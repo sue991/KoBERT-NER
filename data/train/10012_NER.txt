@@ -1,15 +1,15 @@
-‘통일 플랫폼’은 도라산역 1번 승강장 남쪽 240㎡(73평) 공간에 통일을 기원하는 다양하+ㄴ테마를 체험하+ㄹ 수 있도록 만들어 지+ㄴ다 .	O O LOC-B O O O O O O O O O O O O O O
-최 대표와 김명현(21) 김혜진(20·여) 김종수(20) 김산하 씨(20) 등 5명은 올 2월 창업휴학을 하고 서울 강남 한복판에 오피스텔을 얻어 올라오았다 .	PER-B O PER-B PER-B PER-B PER-B O O O O O O O LOC-B LOC-I O O O O O
-서명방법도 3가지 .	O O O
-서울 한양도성은 고려와 고구려의 도성양식을 계승하+ㄴ 건축양식을 가지고 있다 .	LOC-B LOC-B ORG-B ORG-B LOC-I O O O O O
-“내년에 한국거래소의 지주회사 전환을 마무리 짓고 글로벌 거래소로 도약하고자 하+ㅂ니다 .	O ORG-B O O O O O O O O O
-추신수는 27일(한국시간) 미국 로스앤젤레스에 인절 스타디움에서 열리+ㄴ LA에 인절스와의 경기에 결장하였다 .	PER-B LOC-B ORG-B ORG-I O O O ORG-B O O O O
-하지만, 반대로 모바일게임 시장에서는 중국에서 크게 성공하+ㄴ한국 게임은 손에 꼽기도 힘들 +ㄴ 상황이다 .	O O O O ORG-B O ORG-B O O O O O O O
-두테르테는 이를 비판하는 호주와 미국 대사에게 “입을 닥치+어라” +이라면서 외교관계 단절까지 경고하기도 +였다 .	PER-B O O ORG-B ORG-B O O O O O O O O O
-박슬기, 프리랜서의 고민?“일 끊기+ㄹ까보+아제일고민되 +ㄴ다 .	PER-B O O O O O
-그 결과 도 입찬성은 1171명(58.5%)이었고, 반대는 829명(41.5%)이었다 .	O O O O O O O O
-성별로는 남성 1000명 중 465명이 찬성하고 535명이 반대하였다 .	O O O O O O O O O
-인턴들은 화학환경공 학생명과학 바이오동물 등 분야를 전공하+ㄴ 취업준비생들.한국생물안전성 연구소와 대학 및 기업체 화학물질 시험기관(GLP)에서 2, 3개월간 교육을 받은 뒤 관련 기관이나 회사에 지원하게 되+ㄴ다 .	O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
-이정은, 롯데렌터카 오픈 첫날 6언더 선 .	PER-B ORG-B O O O O O
-부산 웨스틴조선호텔은 파노라마 라운지에서 내년 1월 31일까지 라떼 프로모션을 진행하+ㄴ다 .	ORG-B ORG-I O O O O O O O O O
-'알는 형님'써니"오랜만의 예능, 불편하였다면 죄송… 재미있고 좋았다 .	O PER-B O O O O O O
+‘ 통일 플랫폼 ’ 은 도라산역 1 번 승강장 남쪽 240 ㎡ ( 73 평 ) 공간 에 통일 을 기원하 는 다양한 테마 를 체험할 수 있 도록 만들 어 진다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 대표 와 김명현 ( 21 ) 김혜진 ( 20 · 여 ) 김종수 ( 20 ) 김산하 씨 ( 20 ) 등 5 명 은 올 2 월 창업 휴학 을 하 고 서울 강남 한복판 에 오피스텔 을 얻 어 올라 왔 다 .	PER-B O O PER-B O O O PER-B O O O O O PER-B O O O PER-B O O O O O O O O O DAT-B DAT-I O O O O O LOC-B LOC-I O O O O O O O O O O
+서명 방법 도 3 가지 .	O O O O O O
+서울 한양 도성 은 고려 와 고구려 의 도성 양식 을 계승한 건축 양식 을 가지 고 있 다 .	LOC-B LOC-B LOC-I O ORG-B O ORG-B O O O O O O O O O O O O O
+“ 내년 에 한국 거래소 의 지주회사 전환 을 마무리 짓 고 글로벌 거래소 로 도약하 고자 합니다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O
+추신수 는 27 일 ( 한국 시간 ) 미국 로스앤젤레스 에인절 스타디움 에서 열린 LA 에인절스 와 의 경기 에 결장 했 다 .	PER-B O DAT-B DAT-I O LOC-B O O ORG-B ORG-I ORG-I ORG-I O O ORG-B ORG-I O O O O O O O O
+하 지만 , 반대 로 모바일 게임 시장 에서 는 중국 에서 크 게 성공한 한국 게임 은 손 에 꼽 기 도 힘든 상황 이 다 .	O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O
+두테르테 는 이 를 비판하 는 호주 와 미국 대사 에게 “ 입 을 닥쳐라 ” 라면서 외교 관계 단절 까지 경고하 기 도 했 다 .	PER-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+박슬기 , 프리랜서 의 고민 ? “ 일 끊길까 봐 제일 고민 된다 ”	PER-B O O O O O O O O O O O O O
+그 결과 도입 찬성 은 1171 명 ( 58.5 % ) 이 었 고 , 반대 는 829 명 ( 41.5 % ) 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+성별 로 는 남성 1000 명 중 465 명 이 찬성하 고 535 명 이 반대 했 다 .	O O O O O O O O O O O O O O O O O O O
+인턴 들 은 화학 환경 공학 생명과학 바이오 동물 등 분야 를 전공한 취업 준비 생 들 . 한국 생물 안전성 연구소 와 대학 및 기업체 화학물질 시험 기관 ( GLP ) 에서 2 , 3 개월 간 교육 을 받 은 뒤 관련 기관 이나 회사 에 지원하 게 된다 .	O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이정은 , 롯데 렌터카 오픈 첫날 6 언더 선두	PER-B O ORG-B ORG-I O O O O O
+부산 웨스틴조선호텔 은 파노라마 라운지 에서 내년 1 월 31 일 까지 라떼 프로모션 을 진행한다 .	ORG-B ORG-I O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O
+' 아 는 형님 ' 써니 " 오랜만 의 예능 , 불편 했 다면 죄송 … 재밌 고 좋 았 다 "	O O O O O PER-B O O O O O O O O O O O O O O O O

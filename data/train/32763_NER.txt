@@ -1,14 +1,14 @@
-레드닷 어워드는 미국의 'IDEA 디자인 어워드', 독일의 'iF 디자인 어워드'와 함께 세계 3대 디자인상 중 하나이며, JTBC가 이 디자인상에서 상을 받는 것+ㄴ2013년 JTBC 브랜드 아이덴티티 본상 수상에잇어 두 번째 +이다 .	O O LOC-B O O O LOC-B O O O O O O O O O ORG-B O O O O O ORG-B ORG-I ORG-I O O O O O O
-이번에 수상하+ㄴ ‘공간디자인’은 지나 +ㄴ 2015년 상암이전을 맞고 진행되+ㄴ 사옥 리뉴얼의 결과물이다 .	O O O O O O LOC-B O O O O O O
-그해 이상 문학상 대상 수상작이다 .	O O O O O O
-영국은 사회, 문화, 환경 등 다양하+ㄴ이유로 기부가 이루어지고 있고 종교적 기부는 전체 기부액의 14% 정도+이라고 보고서는 설명하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-에이핑크, ‘핑크 메모리’로 8개월 만에 컴백 ‘기대감↑ .	ORG-B ORG-I O O O O O O
-동부는 2002년 김주성(205cm)의 입단 이후 높이의 이점을 십분 활용하+여+오았다 .	ORG-B O PER-B O O O O O O O
-퓨즈TV 측은 “엄청나 +ㄴ 밸런스를 찾아내어 확고하+ㄴ 음악관을 구축하였다”고 평하였다 .	ORG-B O O O O O O O O O O
-특히 한국 시장에 특화되+ㄴ 자율주행 기술시험 및 연구를 진행하+여보 .	O LOC-B O O O O O O O O
-카페에서 서강준을 만나 +ㄴ이국주는 “나살 많이 빠지+ㄴ 것 같아?”라고 묻었다 .	O PER-B O PER-B O O O O O O O
-‘성매매특별법’이전에는 ‘윤락행위 등 방지법’이 있었다 .	O O O O O O
-그립 컨트롤 기능 추가 하+ㄴ ‘QM3RE 시그니처’도 인기 QM3의 높은 실용성에 매력을 느끼면서도 보다 고급화되+ㄴ 모델을 원하는 소비자들을 위하+ 여출시되+ㄴ 최상위 트림QM3RE 시그니처(2570만원)도 인기+이다 .	O O O O O O O O O O O O O O O O O O O O O O MNY-B O O
-카이리어빙(23)이 1차전에서 부상으로 빠지+ㄴ 뒤 홀로 팀을 이끌고 있다 .	PER-B O O O O O O O O O
-따라서 12·12의 주역들도 그들이 이번 검찰의 처분에 대하+여이를 법원의 최종 판단까지 끌고 가+아서 사건의 파장을 계속 시키는 우를 범하지 말기 바라며 고소인 측도 12·12가 유죄 이+ㅁ을 증명받는 것에 비중을 두 +ㄹ 때 그들의 정당 하+ㅁ을 더욱 입증받게 되+ㄹ 것이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한쪽에 2kg 이 넘는 모래주머니를 차고 걷어다니면서 근력을 늘리+ㄹ 계획이었다 .	O O O O O O O O O O O
+레드 닷 어워드 는 미국 의 ' IDEA 디자인 어워드 ' , 독일 의 ' iF 디자인 어워드 ' 와 함께 세계 3 대 디자인 상 중 하나 이 며 , JTBC 가 이 디자인 상 에서 상 을 받 는 건 2013 년 JTBC 브랜드 아이덴티티 본 상 수상 에 이 어 두 번째 다 .	O O O O LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O
+이번 에 수상한 ‘ 공간 디자인 ’ 은 지난 2015 년 상암 이전 을 맞 아 진행된 사옥 리뉴얼 의 결과물 이 다 .	O O O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O
+그해 이상 문학상 대상 수상 작 이 다 .	O O O O O O O O O
+영국 은 사회 , 문화 , 환경 등 다양한 이유 로 기부 가 이루어지 고 있 고 종교 적 기부 는 전체 기부 액 의 14 % 정도 라고 보고서 는 설명 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+에이 핑크 , ‘ 핑크 메모리 ’ 로 8 개월 만 에 컴백 ‘ 기대감 ↑ ’	ORG-B ORG-I O O O O O O O O O O O O O O O
+동부 는 2002 년 김주성 ( 205 cm ) 의 입단 이후 높이 의 이점 을 십분 활용해 왔 다 .	ORG-B O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O
+퓨즈 TV 측 은 “ 엄청난 밸런스 를 찾아내 어 확고한 음악 관 을 구축 했 다 ” 고 평 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+특히 한국 시장 에 특화된 자율 주행 기술 시험 및 연구 를 진행해 보 다	O LOC-B O O O O O O O O O O O O O
+카페 에서 서강준 을 만난 이국주 는 “ 나 살 많이 빠진 거 같 아 ? ” 라고 물 었 다 .	O O PER-B O O PER-B O O O O O O O O O O O O O O O O
+‘ 성 매매 특별법 ’ 이전 에 는 ‘ 윤락 행위 등 방지 법 ’ 이 있 었 다 .	O O O O O O O O O O O O O O O O O O O O
+그립 컨트롤 기능 추가한 ‘ QM 3 RE 시 그니 처 ’ 도 인기 QM 3 의 높 은 실용성 에 매력 을 느끼 면서 도 보다 고급화된 모델 을 원하 는 소비자 들 을 위해 출시된 최 상위 트림 QM 3 RE 시 그니 처 ( 2570 만 원 ) 도 인기 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+카 이리 어빙 ( 23 ) 이 1 차 전 에서 부상 으로 빠진 뒤 홀로 팀 을 이끌 고 있 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O
+따라서 12 · 12 의 주역 들 도 그 들 이 이번 검찰 의 처분 에 대해 이 를 법원 의 최종 판단 까지 끌 고 가서 사건 의 파장 을 계속 시키 는 우 를 범하 지 말 기 바라 며 고소인 측 도 12 · 12 가 유죄 임 을 증명 받 는 것 에 비중 을 둘 때 그 들 의 정당함 을 더욱 입증 받 게 될 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한쪽 에 2 kg 이 넘 는 모래주머니 를 차 고 걸 어 다니 면서 근력 을 늘릴 계획 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-그는 “금융시스템이 어떻게 반응하+ㄹ지 확실히 알+ㄹ 수 없고 시스템적 이+ㄴ 위험이 재발하+ㄹ 가능성도 배제하+ㄹ 수 없다”며 “주요국 중앙은행들이 가지+ㄴ 정책 수단이 2008년 금융위기 때보다 훨씬 적기 때문에 브렉시트 결과가 심각하+ㄹ 수 있다”고 진단하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-닌텐도는 콘솔 게임기를 헤드마운트 디스플레이(HMD)에 장착하+여VR을 즐기+ㄹ 수 있는 기술을 지난해 7월 미국 특허 상표청(USPTO)에 출원하였다 .	ORG-B O O O O O O O O O O O ORG-B ORG-I ORG-B O O
-톨킨은 아버지를 기억하지 못하+ㄴ다 .	PER-B O O O O
-3세트를 23-25로 내주+ㄴ 뒤 4세트에서 무너지었다 .	O O O O O O O
-지하 3층, 지상 13∼20층 6개 동으로 구성되 +ㄴ 단지로, 총 486채 가운데 실수요자 선호도가 높은 전용면적 59∼84m ² 중소형 237가구를 일반에 분양하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-이순신은 본국으로 철수하는 일본군을 노량에서 크게 물리치었다 .	PER-B O O ORG-B LOC-B O O O
-김인경(28·한화)과 카렌이셔(프랑스)가 공동 5위(6언더파 138타)에 자리하였고, 지난해 우승자 렉시톰슨(미국)은 공동 7위(5언더파 139타)에 오르았다 .	ORG-B ORG-B O O O O O O ORG-B O O O O O
-운전기사는 이날 아침 출근시간이 지나 +아도 남재호 지청장이 나오지 않자 집에 들어가 +았다가 숨지+ㄴ 남재호 지청장을 발견하고 119에 신고하였다 .	O O O O O O PER-B O O O O O O O PER-B O O ORG-B O O
-시신이 이송되+ㄴ의 성의 한 병원은 CT(컴퓨터단층촬영)를 찍은 결과 뇌출혈이 사망 원인이라고 밝히었다 .	O O O O O O O O O O O O O
-“아빠, 1등 먹었어.”수화기 너머로 울먹이는 아들의 목소리에 울보아빠는 또다시 눈시울이 뜨거워 지+어 한동안 말을 잇지 못하였다 .	O O O O O O O O O O O O O O O O O
-여자 프로농구 KEB하나은행의 박종천 감독은 13일 부천 실내체육관에서 열리+ㄴ2015~2016KDB생명 여자프로농구플레이오프(PO·3전2선 승제) 3차전 종료 부 저소리가 울리자 눈물을 글썽이었다 .	ORG-B ORG-I ORG-B PER-B O O O O O ORG-B O O O O O O O O O
-지난달 초 부상을 입은 애런 헤인즈의 대체 선수로 합류하었던 존슨은 이날로 계약이 만료되었다 .	O O O O PER-B PER-I O O O PER-B O O O O
-최씨는 “자꾸 정치적 관계로 몰고 가지 말+아라”며 “엉뚱하+ㄴ 정치적 질문을 많이 하는데 의혹 제기로 너무 힘들다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O
-영국도 세기 말까지만 하+여도 유권자들이 후보들에게 손을 벌리는 풍토가 일반화되+어 있었으나 지금은 어림없는 옛날 얘기가 +었다 .	ORG-B O O O O O O O O O O O O O O O O
-또 가야금 명인 황병기의 관현악곡 ‘새봄’을 실내 악곡으로 편곡하+ㄴ ‘봄이 오는 소리’를 김선옥 의 장구, 이수진의 가야금과 협연하+여초연하+ㄴ다 .	O O O PER-B O O O O O O O O PER-B O O PER-B O O O
+그 는 “ 금융 시스템 이 어떻 게 반응할지 확실히 알 수 없 고 시스템 적 인 위험 이 재발할 가능성 도 배제할 수 없 다 ” 며 “ 주요 국 중앙은행 들 이 가진 정책 수단 이 2008 년 금융 위기 때 보다 훨씬 적 기 때문 에 브렉시트 결과 가 심각할 수 있 다 ” 고 진단 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+닌텐도 는 콘솔 게임기 를 헤드 마운트 디스플레이 ( HMD ) 에 장착해 VR 을 즐길 수 있 는 기술 을 지난해 7 월 미국 특허 상표 청 ( USPTO ) 에 출원 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O
+톨킨 은 아버지 를 기억하 지 못한다 .	PER-B O O O O O O O
+3 세트 를 23 - 25 로 내준 뒤 4 세트 에서 무너 졌 다 .	O O O O O O O O O O O O O O O O
+지하 3 층 , 지상 13 ∼ 20 층 6 개 동 으로 구성된 단지 로 , 총 486 채 가운데 실수요자 선호도 가 높 은 전용면적 59 ∼ 84 m ² 중소형 237 가구 를 일반 에 분양 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이순신 은 본국 으로 철수하 는 일본 군 을 노량 에서 크 게 물리 쳤 다 .	PER-B O O O O O ORG-B ORG-I O LOC-B O O O O O O O
+김인경 ( 28 · 한화 ) 과 카렌 이셔 ( 프랑스 ) 가 공동 5 위 ( 6 언더파 138 타 ) 에 자리 했 고 , 지난해 우승 자 렉시 톰슨 ( 미국 ) 은 공동 7 위 ( 5 언더파 139 타 ) 에 올 랐 다 .	PER-B O O O ORG-B O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O
+운전기사 는 이날 아침 출근 시간 이 지나도 남재호 지청 장 이 나오 지 않 자 집 에 들어갔 다가 숨진 남재호 지청 장 을 발견하 고 119 에 신고 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O ORG-B O O O O O
+시신 이 이송된 의성 의 한 병원 은 CT ( 컴퓨터 단층 촬영 ) 를 찍 은 결과 뇌출혈 이 사망 원인 이 라고 밝 혔 다 .	O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+“ 아빠 , 1 등 먹 었 어 . ” 수화기 너머 로 울먹이 는 아들 의 목소리 에 울보 아빠 는 또다시 눈시울 이 뜨거워져 한동안 말 을 잇 지 못 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여자 프로 농구 KEB 하나은행 의 박종천 감독 은 13 일 부천실내체육관 에서 열린 2015 ~ 2016 KDB 생명 여자 프로 농구 플레이오프 ( PO · 3 전 2 선승 제 ) 3 차 전 종료 부저 소리 가 울리 자 눈물 을 글썽 였 다 .	ORG-B ORG-I ORG-I ORG-B ORG-I O PER-B O O DAT-B DAT-I LOC-B O O DAT-B O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난달 초 부상 을 입 은 애런 헤인즈 의 대체 선수 로 합류 했 던 존슨 은 이날 로 계약 이 만료 됐 다 .	O O O O O O PER-B PER-I O O O O O O O PER-B O O O O O O O O O
+최 씨 는 “ 자꾸 정치적 관계 로 몰 고 가 지 마라 ” 며 “ 엉뚱한 정치적 질문 을 많이 하 는데 의혹 제기 로 너무 힘들 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영국 도 세기말 까지 만 해도 유권자 들 이 후보 들 에게 손 을 벌리 는 풍토 가 일반화돼 있 었 으나 지금 은 어림없 는 옛날 얘기 가 됐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 가야금 명인 황병기 의 관현악 곡 ‘ 새봄 ’ 을 실내악 곡 으로 편곡한 ‘ 봄 이 오 는 소리 ’ 를 김선옥 의 장구 , 이수진 의 가야금 과 협연해 초연한다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O

@@ -1,14 +1,14 @@
-시대를 앞서는 발상으로 유명 하+ㄴ 미국의 맥주회사 버드라이트는 최근 “모든 성을 위하+ㄴ 맥주”를 카피로 내세우+ㄴ 광고로 눈길을 끌었다 .	O O O O O LOC-B O ORG-B O O O O O O O O O O O
-즉시 그와 관련 하+ㄴ그래미 상 정보로 이동 하+ㄴ다 .	O O O O O O O O O
-전 세계 평균적으로 생활용품 및 식품 온라인 구매 경험률이 20∼30%대에 머무르고 있는 점을 고려하+ㄹ 때, 중국·한국·인도의 일상 소비재 온라인 구매가 활발히 이루어지고 있는 것으로 분석되었다 .	O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
-vs SM 측 “팀 활동 신중히 결정 하+ㄹ 것” 팽 .	O ORG-B O O O O O O O O O
-그동안 태국 경제는 반정부 시위로 성장에 제동이 걸리었다 .	O ORG-B O O O O O O O
-스가 장관은 또 반기문 유엔 사무총장의 참석을 두고 “쓸데없이 과거에 초점을 맞추+ㄹ일이 아니다 .	PER-B O O PER-B ORG-B O O O O O O O O O
-결별 배두나·짐스터게스 커플, 이유는 자연스럽+ㅁ .	O PER-B O O O O
-원더걸스예은 “잔인하+ㄴ ‘식스틴’, JYP 답지 않아” … 박진영 심사기준 듣어보 .	ORG-B O O ORG-B O O O PER-B O O O
-[오늘의 데이터 뉴스] 아르바이트 2697명에 묻었더 .	O O O O O O O
-우승 상금 1700만원을 받은 심상철은 누적상금 6000만원으로, 시즌 상금 부문 랭킹 1위로 올라서 +었다 .	O O MNY-B O PER-B O MNY-B O O O O O O O O
-물론 월 2회 촉탁의와 대면진료도 받고 있지만 그때를 제외하고 병원가+ㄹ일이 생기면 차로 10분가량 떨어지+ㄴ병원을 직접 방문 하+여야 +였다 .	O O O O O O O O O O O O O O O O O O O
-결국 이달 15일 열리+ㄴ2심 선고에서 재판부는 A군에게 징역 6월, B군과 C군에게 징역 8월에 위자료 총 6만 크로네(약 990만원)를 판결하였다 .	O O O O O O PER-B O MNY-B PER-B PER-B O O O O MNY-B MNY-I MNY-B O O
-짝꿍지 석진도 트위터를 통하+여 “오늘 짝꿍예린이 검색어 1위 축하 축하” +이라는 글을 게재하며 예린을 응원하였다 .	O O O O O PER-B O O O O O O O PER-B O O
-이에 대하+여예린은 “멤버들 없이 첫 지상파 예능이라 많이 떨리었는데 선배님들이 정말 잘 하+여주+어서 행복하고 감사하였다 .	O PER-B O O O O O O O O O O O O O O
+시대 를 앞서 는 발상 으로 유명한 미국 의 맥주 회사 버드라이트 는 최근 “ 모든 성 을 위한 맥주 ” 를 카피 로 내세운 광고 로 눈길 을 끌 었 다 .	O O O O O O O LOC-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+즉시 그 와 관련한 그래미상 정보 로 이동한다 .	O O O O O O O O O
+전 세계 평균적 으로 생활 용품 및 식품 온라인 구매 경험 률 이 20 ∼ 30 % 대 에 머무르 고 있 는 점 을 고려할 때 , 중국 · 한국 · 인도 의 일상 소비재 온라인 구매 가 활발히 이뤄지 고 있 는 것 으로 분석 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O
+vs SM 측 “ 팀 활동 신중히 결정할 것 ” 팽팽	O ORG-B O O O O O O O O O
+그동안 태국 경제 는 반정부 시위 로 성장 에 제동 이 걸 렸 다 .	O ORG-B O O O O O O O O O O O O O
+스가 장관 은 또 반기문 유엔 사무총장 의 참석 을 두 고 “ 쓸데없이 과거 에 초점 을 맞출 일 이 아니 다 .	PER-B O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O
+결별 배두나 · 짐 스터 게스 커플 , 이유 는 자연스러움 ?	O PER-B O PER-B PER-I PER-I O O O O O O
+원더 걸스 예 은 “ 잔인한 ‘ 식스틴 ’ , JYP 답 지 않 아 ” … 박진영 심사 기준 들 어 보 니	ORG-B ORG-I PER-B PER-I O O O O O O ORG-B O O O O O O PER-B O O O O O O
+[ 오늘 의 데이터 뉴스 ] 아르바이트 2697 명 에 물 었 더니	O O O O O O O O O O O O O
+우승 상금 1700 만 원 을 받 은 심상철 은 누적 상금 6000 만 원 으로 , 시즌 상금 부문 랭킹 1 위 로 올라섰 다 .	O O MNY-B MNY-I MNY-I O O O PER-B O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+물론 월 2 회 촉탁의 와 대면 진료 도 받 고 있 지만 그때 를 제외하 고 병원 갈 일 이 생기 면 차 로 10 분 가량 떨어진 병원 을 직접 방문해야 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+결국 이달 15 일 열린 2 심 선고 에서 재판부 는 A 군 에게 징역 6 월 , B 군 과 C 군 에게 징역 8 월 에 위자료 총 6 만 크로네 ( 약 990 만 원 ) 를 판결 했 다 .	O O DAT-B DAT-I O O O O O O O PER-B O O O DAT-B DAT-I O PER-B O O PER-B O O O DAT-B DAT-I O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O
+짝꿍 지석진 도 트위터 를 통해 “ 오늘 짝꿍 예린이 검색어 1 위 축하 축하 ” 라는 글 을 게재하 며 예린 을 응원 했 다 .	O PER-B O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O
+이 에 대해 예린 은 “ 멤버 들 없이 첫 지상파 예능 이 라 많이 떨 렸 는데 선배 님 들 이 정말 잘해 줘서 행복하 고 감사 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

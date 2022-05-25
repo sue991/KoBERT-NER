@@ -1,17 +1,17 @@
-프로야구 두산이 ‘매직 넘버’를 1로 줄이었다 .	O ORG-B O O O O O
-매장은 구로구에 위치하+여 있는 레드불스로카닥워시 서비스와 함께 자동차 틴팅과 블랙박스, 내비게이션 설치 등을 담당하고 있었다 .	O ORG-B O O ORG-B O O O O O O O O O O O
-2000년대 초반 인터넷이 발달하면서 대중들은 포털 사이트와 커뮤니티 게시판 등에 손쉽게 의견을 올리기 시작하였고, 더 직접적이고 빠르+ㄴ의견 개진을 위하+ 여기사에 달리 +ㄴ댓글 기능을 활용하기 시작하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-사고 당시 이창명이 현장을 떠나 +아직 접적이 +ㄴ 음주측정을 하+ㄹ 수 없었기 때문이다 .	O O PER-B O O O O O O O O O O O
-이날 임대호는 노총각이+ㄴ 김현욱 아나운서에 대하+여 “김현욱이 뿌리+어놓은 축의금만 모으아 도 장가를 가+ㄹ 수 있을 것이다”며 “그동안 어마어마하게 뿌리+어놓다”고 말하였다 .	O PER-B O PER-B O O PER-B O O O O O O O O O O O O O O
-이어 “김현욱에게 ‘너축의 금 받아서 집 살+ㄹ 것 같다’고 하+ㄴ적이 있다”는 에피소드를 털어놓+ 아웃음을 자아내 +었다 .	O PER-B O O O O O O O O O O O O O O O
-실제 김현욱 아나운서는 경·조사를 모두 챙기다 보니 최대 천만 원 가량을 지출 하+ㄴ적이 있다고 밝히+어놀라움을 자아내 +었다 .	O PER-B O O O O O O MNY-B MNY-I O O O O O O O O
-특히 김현욱은 “결혼식 사회만 400~500번 +았다”며 “제가 아나운서를 시작하고 사회를 보기 시작하었는데 지금 한 15~16년 +었다”고 말 하+여 눈길을 끌었다 .	O PER-B O O O O O O O O O O O O O O O O O O O
-한편 김현욱은 2000년 KBS 아나운서로 입사 하+여 ‘체험 삶의 현장’, ‘도전 !골든벨’ 등에 출연하였다 .	O PER-B O ORG-B O O O O O O O O O O O
-문화 프로젝트 그룹 ‘결사대’는 31일 “제주시 삼도 2동간 들락 소극장에서 음악인형극 ‘아기 사슴섬천사들’을 공연하+ㄴ다”고 밝히었다 .	O O O O O LOC-B LOC-I LOC-B LOC-I LOC-I O O O O O O
-‘아기 사슴섬천사들’은 모든 연령대의 관람객이 보+ㄹ 수 있는 작품으로 공연시간은 50분이다 .	O O O O O O O O O O O O
-죽령옛길은 소백산 자락길 최고의 인기 코스이기도 하다 .	LOC-B LOC-B O O O O O O
-이후 소방당국은 폭발에 대비 하+여 대형 덤프차 등 소방장비와 인력을 24시간 현장에 배치하였다 .	O ORG-B O O O O O O ORG-B O O O O O
-그러나 한국지질자원연구원의 추가 조사에서 ‘폭발 위험이 없다’는 조사 결과에 따르 아인력을 철수하였다 .	O ORG-B O O O O O O O O O O O
-가스화재가 장기화되자 포항시는 지난달 29일 관계기관과 대책회의를 갖고 현장에 높이 230cm의 철재 펜스를 설치하+여 일반인의 출입을 통제하였다 .	O O ORG-B O O O O O O O O O O O O O O O
-이 내용에서 박기량 씨가 언급되었다 .	O O PER-B O O O
-이에 박기량의 소속사 측은 "해당 루머는 사실무근이다"고 첫 번째 입장을 밝히+ㄴ 뒤, 다음날 바로 고소장을 제출하였다 .	O PER-B O O O O O O O O O O O O O O O
+프로 야구 두산 이 ‘ 매직넘버 ’ 를 1 로 줄 였 다 .	O O ORG-B O O O O O O O O O O O
+매장 은 구로구 에 위치해 있 는 레드 불스 로 카닥 워시 서비스 와 함께 자동차 틴팅 과 블랙박스 , 내비게이션 설치 등 을 담당하 고 있 었 다 .	O O ORG-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+2000 년대 초반 인터넷 이 발달하 면서 대중 들 은 포털 사이트 와 커뮤니티 게시판 등 에 손쉽 게 의견 을 올리 기 시작 했 고 , 더 직접적 이 고 빠른 의견 개진 을 위해 기사 에 달린 댓글 기능 을 활용하 기 시작 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사고 당시 이창명 이 현장 을 떠나 직접적 인 음주 측정 을 할 수 없 었 기 때문 이 다 .	O O PER-B O O O O O O O O O O O O O O O O O O
+이날 임대호 는 노총각 인 김현욱 아나운서 에 대해 “ 김현욱 이 뿌려 놓 은 축의금 만 모 아도 장가 를 갈 수 있 을 것 이 다 ” 며 “ 그동안 어마어마하 게 뿌려 놨 다 ” 고 말 했 다 .	O PER-B O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 김현욱 에게 ‘ 너 축의금 받 아서 집 살 것 같 다 ’ 고 한 적 이 있 다 ” 는 에피소드 를 털어놔 웃음 을 자아냈 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+실제 김현욱 아나운서 는 경 · 조사 를 모두 챙기 다 보 니 최대 천만 원 가량 을 지출한 적 이 있 다고 밝혀 놀라움 을 자아냈 다 .	O PER-B O O O O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O
+특히 김현욱 은 “ 결혼식 사회 만 400 ~ 500 번 봤 다 ” 며 “ 제 가 아나운서 를 시작하 고 사회 를 보 기 시작 했 는데 지금 한 15 ~ 16 년 됐 다 ” 고 말해 눈길 을 끌 었 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 김현욱 은 2000 년 KBS 아나운서 로 입사해 ‘ 체험 삶 의 현장 ’ , ‘ 도전 ! 골든벨 ’ 등 에 출연 했 다 .	O PER-B O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O
+문화 프로젝트 그룹 ‘ 결사대 ’ 는 31 일 “ 제주시 삼도 2 동 간 드 락 소극장 에서 음악 인형극 ‘ 아기 사슴 섬 천사 들 ’ 을 공연한다 ” 고 밝 혔 다 .	O O O O O O O DAT-B DAT-I O LOC-B LOC-I LOC-I LOC-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O
+‘ 아기 사슴 섬 천사 들 ’ 은 모든 연령 대 의 관람객 이 볼 수 있 는 작품 으로 공연 시간 은 50 분 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+죽령 옛길 은 소백산 자락 길 최고 의 인기 코스 이 기 도 하 다 .	LOC-B LOC-I O LOC-B O O O O O O O O O O O O
+이후 소방 당국 은 폭발 에 대비해 대형 덤프차 등 소방 장비 와 인력 을 24 시간 현장 에 배치 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+그러나 한국지질자원연구원 의 추가 조사 에서 ‘ 폭발 위험 이 없 다 ’ 는 조사 결과 에 따 라 인력 을 철수 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+가스 화재 가 장기화되 자 포항시 는 지난달 29 일 관계 기관 과 대책 회의 를 갖 고 현장 에 높이 230 cm 의 철재 펜스 를 설치해 일반인 의 출입 을 통제 했 다 .	O O O O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 내용 에서 박기량 씨 가 언급 됐 다 .	O O O PER-B O O O O O O
+이 에 박기량 의 소속 사 측 은 " 해당 루머 는 사실무근 이 다 " 고 첫 번째 입장 을 밝힌 뒤 , 다음날 바로 고소장 을 제출 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

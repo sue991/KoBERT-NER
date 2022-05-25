@@ -1,15 +1,15 @@
-다음날 행사 참석을 위하+여대전에서 막 올라 오+ㄴ길이라고 +였다 .	O O O LOC-B O O O O O
-“브렉시트(영국의 유럽연합·EU 탈퇴) 협상의 시작을 의미하는 리스본조약 50조를 올해 말에 발동하고 2019년까지는 브렉시트가 이루어 지+ㄹ 것으로 예상 하+ㄴ다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O O
-경실련이 창립되+ㄴ 89년 7월 이후 줄곧 대표를 맡아 오+ㄴ 변형윤 서울대 명예교수는 개인적 사정을 이유로 사임하였다 .	ORG-B O O O O O O O O PER-B ORG-B O O O O O O
-▷시중에는 김 감독과 박근혜 대통령의 리더십이 오버랩 되+ㄴ다는 말들이 나 오+ㄴ다 .	O PER-B O PER-B O O O O O O O O
-이에 재판부는 “에드워드 리도 증인으로 신청되 +어 있다”며 “에드워드 리가 이 사건 목격자 +이라면 진술의 신빙성 여부가 관건이 되+ㄴ다”고 말하였다 .	O O PER-B PER-I O O O O PER-B PER-I O O O O O O O O O O O
-재판부는 이어 “종전에는 리가 진범으로 기소가 +었었고, 패터슨의 목격진술 신빙성이 인정되었다”며 “이번에는 거꾸로 패터슨이 진범으로 기소가 +었고, 리가 목격자가 +었다”고 설명하였다 .	O O O PER-B O O O PER-B O O O O O PER-B O O O PER-B O O O O
-재판부는 이날 당시 피해자 조씨의 부검을 맡았던 이모씨에 대하+ㄴ 증인신문도 진행 하+ㄹ 예정이다 .	O PER-B O O PER-B O O PER-B O O O O PER-B O
-‘이태원 살인사건’ 재판에서 검찰과 변호인 양측이 신청 하+ㄴ 증인은 에드워드 리를 포함하+여 총 31명.에드워드 리와 존 패터슨의 지인, 혈흔 형태 분석가, 도검 전문가 등이 포함되었다 .	O O O O O O O O O PER-B PER-I O O PER-B PER-I PER-B PER-I O O O O O O O O O
-마스터스와 US 오픈이 6오버파로 악명을 높이었고, 디 오픈(4오버파)에잇어바클레이스와 혼다 클래식, 발스파 챔피언십이 3오버파에서 컷오프가 이루어 지+었다 .	O O O O O O O O O O O O O O O O O
-검찰 수사 결과 장씨가 저지르+ㄴ 사건의 실체는 규모와 대상만 다르+ㄹ 뿐 지나 +ㄴ 82년의 재판이었다 .	O O O PER-B O O O O O O O O O O O O
-대회는 일주일에 한 번씩 과제를 받아 총 12번의 미션 수행을 통하+여 점수를 매기+어 최고수를 가리는 방식이다 .	O O O O O O O O O O O O O O O O O
-잇어 김민식도 적시타를 기록, 스코어는 3-0이+었다 .	O PER-B O O O O O
-정찬성, UFC1라운드 KO… “시국 어렵다 .	PER-B O O O O O
-‘한솥 도시락’이 2016 고객 사랑 브랜드 대상도시락 프랜차이즈 부문에서 2년 연속 대상에 선정되었다 .	O O O O O O O O O O O O O O
-지나+ㄴ 1993년 서울 종로구청 주변에 작은 매장으로 시작하+ㄴ한솥 도시락은 23년이 지나 +ㄴ 현재 680여개로 늘었다 .	O O LOC-B LOC-I O O O O O O O O O O O O
+다음 날 행사 참석 을 위해 대전 에서 막 올라온 길 이 라고 했 다 .	O O O O O O LOC-B O O O O O O O O O
+“ 브렉시트 ( 영국 의 유럽 연합 · EU 탈퇴 ) 협상 의 시작 을 의미하 는 리스본 조약 50 조 를 올해 말 에 발동하 고 2019 년 까지 는 브 렉시 트 가 이뤄질 것 으로 예상한다 .	O O O ORG-B O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+경실련 이 창립된 89 년 7 월 이후 줄곧 대표 를 맡 아 온 변형윤 서울대 명예교수 는 개인적 사정 을 이유 로 사임 했 다 .	ORG-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O PER-B ORG-B O O O O O O O O O O O
+▷ 시중 에 는 김 감독 과 박근혜 대통령 의 리더십 이 오버랩 된다는 말 들 이 나온다 .	O O O O PER-B O O PER-B O O O O O O O O O O O
+이 에 재판부 는 “ 에드워드 리 도 증인 으로 신청돼 있 다 ” 며 “ 에드워드 리 가 이 사건 목격자 라면 진술 의 신빙성 여부 가 관건 이 된다 ” 고 말 했 다 .	O O O O O PER-B PER-I O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+재판부 는 이어 “ 종전 에 는 리 가 진범 으로 기소 가 됐 었 고 , 패터슨 의 목격 진술 신빙성 이 인정 됐 다 ” 며 “ 이번 에 는 거꾸로 패터슨 이 진범 으로 기소 가 됐 고 , 리 가 목격자 가 됐 다 ” 고 설명 했 다 .	O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O
+재판부 는 이날 당시 피해자 조 씨 의 부검 을 맡 았 던 이 모 씨 에 대한 증인 신문 도 진행할 예정 이 다 .	O O O O O PER-B O O O O O O O PER-B PER-I O O O O O O O O O O O
+‘ 이태원 살인 사건 ’ 재판 에서 검찰 과 변호인 양측 이 신청한 증인 은 에드워드 리 를 포함해 총 31 명 . 에드워드 리 와 존 패터슨 의 지인 , 혈흔 형태 분석가 , 도검 전문가 등 이 포함 됐 다 .	O O O O O O O O O O O O O O O PER-B PER-I O O O O O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O
+마스터스 와 US 오픈 이 6 오버 파 로 악명 을 높 였 고 , 디 오픈 ( 4 오버파 ) 에 이 어 바클레이스 와 혼다 클래식 , 발스 파 챔피언십 이 3 오버파 에서 컷오프 가 이뤄졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+검찰 수사 결과 장 씨 가 저지른 사건 의 실체 는 규모 와 대상 만 다를 뿐 지난 82 년 의 재판 이 었 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+대회 는 일주일 에 한 번 씩 과제 를 받 아 총 12 번 의 미션 수행 을 통해 점수 를 매겨 최 고수 를 가리 는 방식 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 어 김민식 도 적시타 를 기록 , 스코어 는 3 - 0 이 됐 다 .	O O PER-B O O O O O O O O O O O O O O
+정찬성 , UFC 1 라운드 KO … “ 시국 어렵 다 ,	PER-B O O O O O O O O O O O
+‘ 한 솥 도시락 ’ 이 2016 고객 사랑 브랜드 대상 도시락 프랜차이즈 부문 에서 2 년 연속 대상 에 선정 됐 다 .	O O O O O O DAT-B O O O O O O O O O O O O O O O O O
+지난 1993 년 서울 종로구 청 주변 에 작 은 매장 으로 시작한 한 솥 도시락 은 23 년 이 지난 현재 680 여 개 로 늘 었 다 .	O DAT-B DAT-I LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O

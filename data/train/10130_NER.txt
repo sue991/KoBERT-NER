@@ -1,13 +1,13 @@
-한편 이날 Mnet 측은 정상수의 ‘쇼미더머니6’ 출연 여부에 관하+여 “경찰 조사가 끝나지 않았다 .	O O O O PER-B O O O O O O O O O
-버버리의 헤리티지 체크와 데님, 스웨이드 등 다양하+ㄴ 소재가 특징적이다 .	ORG-B O O O O O O O O O
-― 숙원이었던 환기미술관도 개관이 +었고, 또 이미술관에서 고인의 20주 기 회고전을 열게 되+어 감회가 깊으시겠습니다 .	O O ORG-B O O O O O O O O O O O O O
-동원F&B는 실버베이씨푸드 투자계약 체결과 함께 ‘동원 알래스카 연어’ 4종(‘동원 알래스카 연어살코기’ ‘동원 알래스카 연어 통살’ ‘동원 알래스카 연어 매운 고추’ ‘동원 알래스카 연어 데리야끼’)을 출시하였다 .	ORG-B ORG-B O O O ORG-B O O ORG-B O O ORG-B O O O ORG-B O O O O ORG-B O O O O O
-지나+ㄴ 8일 방송되+ㄴtvN ‘수요 미식회’에서는 씨엔블루 강민혁과 모델이현이가 게스트로 출연하+여 ‘피자’를 주제로 미식토크를 펼치었다 .	O O O O O ORG-B PER-B PER-B O O O O O O O
-연간 12만명이 참여하였으며 11만7000여명을 대상으로 금융교육을 진행하였다 .	O O O O O O O O
-2011년 제15회 카타르 대회 준결승에서 +ㄴ 숙적 일본과 2-2로 비기+ㄴ 뒤 역시 승부차기에서 0-3으로 고개를 숙이었다 .	O O O O O O O ORG-B O O O O O O O O O
-차움 간호사가 최씨에게 이 주사를 놓다가 정맥혈관을 못 찾아서 혈관을 터뜨리+ㄴ 모양이다 .	O O PER-B O O O O O O O O O O
-전체 반려견의 28%는 찰리·잭·루시·데이지 등 완전히 사람 이름과 같았다 .	O O O PER-B O O O O O O
-2007년 시작하+여 매년 3월에 열리+ㄴ다 .	O O O O O O
-반면, 카터의 방북에 갖는 우려도 적지 않다 .	O PER-B O O O O O O
-중간평가지표는 서울대의 연구환경, 발전 현황, 행정 등 총장 직무 수행 전반을 아우르는 내용으로 구성되 +ㄴ다 .	O ORG-B O O O O O O O O O O O O O O
-[양형모의 아이러브스테이지] 아날로그적 감성 필요하+ㄹ 때 +ㄴ ‘벽뚫남’을 찾으시+어 .	O O O O O O O O O O
+한편 이날 Mnet 측 은 정상수 의 ‘ 쇼 미 더머 니 6 ’ 출연 여부 에 관해 “ 경찰 조사 가 끝나 지 않 았 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+버버리 의 헤리티지 체크 와 데님 , 스웨이드 등 다양한 소재 가 특징적 이 다 .	ORG-B O O O O O O O O O O O O O O O
+― 숙원 이 었 던 환기미술관 도 개 관 이 됐 고 , 또 이 미술관 에서 고인 의 20 주기 회고 전 을 열 게 돼 감회 가 깊 으시 겠 습니다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동원 F & B 는 실버 베이 씨푸드 투자 계약 체결 과 함께 ‘ 동원 알래스카 연어 ’ 4 종 ( ‘ 동원 알래스카 연어 살코기 ’ ‘ 동원 알래스카 연어 통살 ’ ‘ 동원 알래스카 연어 매운고추 ’ ‘ 동원 알래스카 연어 데리야끼 ’ ) 을 출시 했 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 8 일 방송된 tvN ‘ 수요미식회 ’ 에서 는 씨엔블루 강민혁 과 모델 이현이 가 게스트 로 출연해 ‘ 피자 ’ 를 주제 로 미식 토크 를 펼 쳤 다 .	O DAT-B DAT-I O O O O O O O ORG-B PER-B O O PER-B O O O O O O O O O O O O O O O O O
+연간 12 만 명 이 참여 했 으며 11 만 7000 여 명 을 대상 으로 금융 교육 을 진행 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+2011 년 제 15 회 카타르 대회 준결승 에선 숙적 일본 과 2 - 2 로 비긴 뒤 역시 승부차기 에서 0 - 3 으로 고개 를 숙 였 다 .	DAT-B DAT-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+차 움 간호사 가 최 씨 에게 이 주사 를 놓 다가 정맥 혈관 을 못 찾 아서 혈관 을 터뜨린 모양 이 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+전체 반려 견 의 28 % 는 찰리 · 잭 · 루시 · 데이지 등 완전히 사람 이름 과 같 았 다 .	O O O O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O O O
+2007 년 시작해 매년 3 월 에 열린다 .	DAT-B DAT-I O O DAT-B DAT-I O O O
+반면 , 카터 의 방북 에 갖 는 우려 도 적 지 않 다 .	O O PER-B O O O O O O O O O O O O
+중간 평가 지표 는 서울대 의 연구 환경 , 발전 현황 , 행정 등 총장 직무 수행 전반 을 아우르 는 내용 으로 구성된다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+[ 양형모 의 아이 러브 스테이지 ] 아날로그 적 감성 필요할 땐 ‘ 벽뚫남 ’ 을 찾 으세요	O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-지난해 브라질 월드컵 때 축구 국가대표팀의 골문을 지키었던 정성룡(30·수원)과 김승규(25·울산)의 일본 J리그 진출이 곧 이루어 지+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O LOC-B LOC-B ORG-B ORG-B O O O O O O O
-일본 삿포로에서 국제야구 소프트볼 연맹(WBSV) 프리미어 12대표팀 훈련을 하 .	LOC-B LOC-B ORG-B ORG-I ORG-B O O O O O
-다빈도암은 입원 기준 위암(4만3654명), 폐암(4만2044명), 유방암(3만8006명), 간암(3만7236명), 갑상선암(3만2002명) 순으로 조사되었으며, 외래는 갑상선암(32만5675명), 유방암(15만2017명), 위암(15만87명), 결장암(7만9933명), 폐암(7만2764명) 순이다 .	O O O O O O O O O O O O O O O O O O
-『21세기 자본』의 저자 이+ㄴ 토마 피케티 파리 경제대 교수가 지적 하+ㄴ ‘세습자본주의’가 고착화하는 모습이다 .	O O O O PER-B PER-I ORG-B ORG-I O O O O O O O
-수입 농산물 44% 병해충 검출/옥수수 75% ­ 참깨 38% 검역불합 .	O O O O O O O O O O O
-500대 기업 신입사원 여성 비율이 41%에 이르+ㄹ 정도로 여풍(女風)이 세+ㄴ 것 같은데 왜 이런 결과가 나오는 것+이+ㄹ까. 몇 년 전 미국발(發) ‘알파것 +ㄹ’ 열풍이 세상을 뒤덮지 않았던가.가 장크+ㄴ 장애물은 ‘유리천장’이다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
-호텔롯데는 19일 금융감독원과 한국거래소에 증권신고서를 제출하면서 본격적 이+ㄴ IPO 실무절차를 시작하+ㄴ다 .	ORG-B O ORG-B ORG-B O O O O O O O O
-강남역 사고로 20대 男 사망… 1시간 가량 내선 방향 운행정지 강남역 사고 서울 지하철 2호선 강남역 서울대입구역 방향 승강장에서 20대 남성 1명이 스크린도어와 전동차 틈에 끼어 사망하는 사고가 발생하였다 .	LOC-B O O O O O O O O O LOC-B O LOC-B O O LOC-B LOC-B O O O O O O O O O O O O O
-29일 오후 7시25분경 강남역에서 발생하+ㄴ이 사고로 삼성역에서 서울대입구역 내 선방향 지하철 운행이 일시 중단되었다가 약 1시간만이+ㄴ 8시30분경부터 다시 정상 운행 +었다 .	O O O LOC-B O O LOC-B LOC-B O O O O O O O O O O O O O O
-강남역에서 발생하+ㄴ사고로 사망 하+ㄴ이 남성은 지하철 시설 정비업체 소속 조모씨(28). 조씨는 이날 오후 6시41분경 강남역 스크린도어 고장 신고를 받고 오후 7시20분경 현장에 도착하+여정비 작업을 진행하다 사고를 당하+ㄴ 것으로 파악되었다 .	LOC-B O O O O O O O O PER-B PER-B O O O LOC-B O O O O O O O O O O O O O O O
-조씨의 시신은 서울 소재 한 의료원 영안실에 안치되 +어 있다 .	PER-B O LOC-B O O O O O O O O
-‘결혼’ 김하늘, “학창시절 친구들과 오해풀지 못하고 홀로 속앓이 .	O PER-B O O O O O O O
-‘엄친아’ 이미지로 유명 하+ㄴ 배우 임시완이 ‘인생술집’에서 제대로 망가지+ㄴ 모습을 보이어 주+ㄴ다 .	O O O O O PER-B O O O O O O O
-김우종 부인, 김준호 협박, '본인 살겠다고 다시 죽이려 하+ㄴ다면 …' 개그맨 김준호가 회사 공금을 횡령 후 잠적 하+ㄴ 김우종 코코엔터테인먼트 전 대표의 부인으로부터 받은 협박 문자를 공개하였다 .	PER-B O PER-B O O O O O O O O PER-B O O O O O O PER-B ORG-B O O O O O O O O
-【뉴델리= AFPAP연합 .	LOC-B O O
+지난해 브라질 월드컵 때 축구 국가 대표 팀 의 골문 을 지 켰 던 정성룡 ( 30 · 수원 ) 과 김승규 ( 25 · 울산 ) 의 일본 J 리그 진출 이 곧 이뤄질 것 으로 보인다 .	O O O O O O O O O O O O O O PER-B O O O LOC-B O O PER-B O O O LOC-B O O ORG-B ORG-B ORG-I O O O O O O O O
+일본 삿포로 에서 국제 야구 소프트볼 연맹 ( WBSV ) 프리미어 12 대표 팀 훈련 을 하 다	LOC-B LOC-B O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O
+다 빈도 암 은 입원 기준 위암 ( 4 만 3654 명 ) , 폐암 ( 4 만 2044 명 ) , 유방암 ( 3 만 8006 명 ) , 간암 ( 3 만 7236 명 ) , 갑상선암 ( 3 만 2002 명 ) 순 으로 조사 됐 으며 , 외래 는 갑상선암 ( 32 만 5675 명 ) , 유방암 ( 15 만 2017 명 ) , 위암 ( 15 만 87 명 ) , 결장암 ( 7 만 9933 명 ) , 폐암 ( 7 만 2764 명 ) 순 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+『 21 세기 자본 』 의 저자 인 토마 피케티 파리 경제 대 교수 가 지적한 ‘ 세습 자본주의 ’ 가 고착화하 는 모습 이 다 .	O O O O O O O O PER-B PER-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+수입 농산물 44 % 병해충 검출 / 옥수수 75 % ­ 참깨 38 % 검역 불합격	O O O O O O O O O O O O O O O O
+500 대 기업 신입 사원 여성 비율 이 41 % 에 이를 정도 로 여풍 ( 女風 ) 이 센 것 같 은데 왜 이런 결과 가 나오 는 걸까 . 몇 년 전 미국 발 ( 發 ) ‘ 알파 걸 ’ 열풍 이 세상 을 뒤덮 지 않 았 던가 . 가장 큰 장애물 은 ‘ 유리 천장 ’ 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+호텔 롯데 는 19 일 금융 감독 원 과 한국거래소 에 증권 신고 서 를 제출하 면서 본격적 인 IPO 실무 절차 를 시작한다 .	ORG-B ORG-I O DAT-B DAT-I ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O
+강남역 사고 로 20 대 男 사망 … 1 시간 가량 내선 방향 운행 정지 강남역 사고 서울 지하철 2 호 선 강남역 서울대입구역 방향 승강장 에서 20 대 남성 1 명 이 스크린 도어 와 전동차 틈 에 끼 어 사망하 는 사고 가 발생 했 다 .	LOC-B O O O O O O O O O O O O O O LOC-B O LOC-B O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+29 일 오후 7 시 25 분 경 강남역 에서 발생한 이 사고 로 삼성역 에서 서울대입구역 내 선 방향 지하철 운행 이 일시 중단 됐 다가 약 1 시간 만 인 8 시 30 분 경 부터 다시 정상 운행 됐 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O
+강남역 에서 발생한 사고 로 사망한 이 남성 은 지하철 시설 정비 업체 소속 조 모 씨 ( 28 ) . 조 씨 는 이날 오후 6 시 41 분 경 강남역 스크린 도어 고장 신고 를 받 고 오후 7 시 20 분 경 현장 에 도착해 정비 작업 을 진행하 다 사고 를 당한 것 으로 파악 됐 다 .	LOC-B O O O O O O O O O O O O O PER-B PER-I O O O O O PER-B O O O TIM-B TIM-I TIM-I TIM-I TIM-I TIM-I LOC-B O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O
+조 씨 의 시신 은 서울 소재 한 의료 원 영안실 에 안치돼 있 다 .	PER-B O O O O LOC-B O O O O O O O O O O
+‘ 결혼 ’ 김하늘 , “ 학창 시절 친구 들 과 오해 풀 지 못하 고 홀로 속앓이 ”	O O O PER-B O O O O O O O O O O O O O O O
+‘ 엄친 아 ’ 이미지 로 유명한 배우 임시완 이 ‘ 인생 술집 ’ 에서 제대로 망가진 모습 을 보 여 준다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O
+김우종 부인 , 김준호 협박 , ' 본인 살 겠 다고 다시 죽이 려 한다면 … ' 개그맨 김준호 가 회사 공금 을 횡령 후 잠적한 김우종 코코 엔터테인먼트 전 대표 의 부인 으로부터 받 은 협박 문자 를 공개 했 다 .	PER-B O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O
+【 뉴델리 = AFP AP 연합 】	O LOC-B O O O O O

@@ -1,13 +1,13 @@
-지나+ㄴ 8일 방송되+ㄴ KBS2'우리는 형제이+ㅂ니다'에서는 하니와 그의 남동생 안태환이 동반 출연하였다 .	O O O O O PER-B O O PER-B O PER-B O
-이날 '우리는 형제이+ㅂ니다'하니는 군대에서 휴가 나 오+ㄴ남동생이 끓이어주+ㄴ라면을 흡입하였다 .	O O PER-B O O O O O O O
-이곳에 한국인 관광객만을 고르아 100엔을 구걸하는 여인이 있다 .	O O O O MNY-B O O O O
-한참 못 미치는 2베크 렐 정도의 수치를 나타내 +었다 .	O O O O O O O O O O
-‘명단 공개’ 여왕처럼 살는 ★강 수정, 홍콩 서초호화 생활에 가사도우미만 6명?“실제로는 … .	O O O O O O LOC-B O O O O O O
-전북도가 누리과정(만 3∼5세 어린이 무상보육) 예산을 긴급 편성·지원하기로 +였다 .	ORG-B O O O O O O O O O
-‘16년 만의 잉글랜드 출신 득점왕이냐, 아궤로의 수성(守城)이냐.’ 2015∼2016 시즌 잉글랜드 프로축구 프리미어리그(EPL) 최고 골잡이는 15일 열리는 최종 38라운드 경기가 끝나 +아야만 알+ㄹ 수 있게 +었다 .	O O LOC-B O O PER-B O O O LOC-B O O O O O O O O O O PER-B O O O O O
-해리케인(토트넘)에게로 기울는 듯 하었던 득점 왕 경쟁의 무게가 37라운드를 통하+여 다시 안개 속으로 들어가 +았기 때문이다 .	ORG-B O O O O O O O O O O O O O O O O
-의사는 “상담자의 30% 이상이 청년”이라며 “박씨처럼 매일 계속되+ㄴ 우울과 분노초라 하+ㅁ 억울하+ㅁ 등 때문에 일상생활이 흔들리는 청년이 대부분이다”라고 말하였다 .	O O O O O PER-B O O O O O O O O O O O O O O
-한국경제의 성장판을 살리려면 부처에 지뢰처럼 흩어 지+어 있는 ‘관성규제’부터 제거 하+여야 하+ㄴ다고 전문가들은 입을 모으+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O
-북한 핵문제를 총괄하고 있는 미 국무부의 로버트 갈루치 차관보는 5일 국무부 회견에서 북한 핵문제를 보는 미국의 「솔직하+ㄴ」 입장을 털어놓았다 .	O O O O O ORG-B PER-B O O O ORG-B O O O O ORG-B O O O O
-비문-비패권 세력 연대를 주도적으로 추진하고 있는 김종인 전 대표와의 회동 가능성에 대하+여서는 “전화통화만 +였고 이번 주에 만나기로 약속하였으나 저의 지방 일정으로 인하+여 다음주에 한번 뵙기로 +였다”며 “(통화에서) 김 전 대표에게 탈당하고 의원직을 버리+ㄴ 결단에 대하+여존경의 말씀을 드리었고 정권교체를 위하+여우리당을 돕아달라는 말을 나누려 +였는데 아직 일정을 못 잡았다”고 +였다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
-이날 오전 김 전 대표가 민주당 및 국민의당 일부 의원들과 조찬 회동을 가지+ㄴ 것으로 알려지+ㄴ데 대하+ 여 박 대표는 “그 자리에 참석하+ㄴ 몇 분의원이 저에게 보고 하+ㄴ바에 의하면 그렇게 특별 하+ㄴ의 미를 두 +ㄹ만 하+ㄴ가치는 없었다고 하+ㄴ다”며 “김 전 대표가 무엇이 +ㄴ .	O O PER-B O O ORG-B O ORG-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O
+지난 8 일 방송된 KBS 2 ' 우리 는 형제 입니다 ' 에서 는 하 니와 그 의 남동생 안태환 이 동반 출연 했 다 .	O DAT-B DAT-I O O O O O O O O O O O PER-B O O O O PER-B O O O O O O
+이날 ' 우리 는 형제 입니다 ' 하니 는 군대 에서 휴가 나온 남동생 이 끓 여 준 라면 을 흡입 했 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O
+이곳 에 한국인 관광객 만 을 골 라 100 엔 을 구걸하 는 여인 이 있 다 .	O O O O O O O O MNY-B MNY-I O O O O O O O O
+한 참 못 미치 는 2 베크렐 정도 의 수치 를 나타냈 다 .	O O O O O O O O O O O O O O
+‘ 명단 공개 ’ 여왕 처럼 사 는 ★ 강수정 , 홍콩 서 초 호화 생활 에 가사 도우미 만 6 명 ? “ 실제로 는 … ”	O O O O O O O O O PER-B O LOC-B O O O O O O O O O O O O O O O O
+전북도 가 누리 과정 ( 만 3 ∼ 5 세 어린이 무상 보육 ) 예산 을 긴급 편성 · 지원하 기 로 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 16 년 만 의 잉글랜드 출신 득점 왕 이 냐 , 아 궤로 의 수성 ( 守城 ) 이 냐 . ’ 2015 ∼ 2016 시즌 잉글랜드 프로 축구 프리미어 리그 ( EPL ) 최고 골잡이 는 15 일 열리 는 최종 38 라운드 경기 가 끝나야 만 알 수 있 게 됐 다 .	O O O O O LOC-B O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+해리 케인 ( 토트넘 ) 에게로 기우 는 듯 했 던 득점 왕 경쟁 의 무게 가 37 라운드 를 통해 다시 안갯 속 으로 들어갔 기 때문 이 다 .	PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+의사 는 “ 상담 자 의 30 % 이상 이 청년 ” 이 라며 “ 박 씨 처럼 매일 계속된 우울 과 분노 초라함 억울함 등 때문 에 일상생활 이 흔들리 는 청년 이 대부분 이 다 ” 라고 말 했 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 경제 의 성장 판 을 살리 려면 부처 에 지뢰 처럼 흩어져 있 는 ‘ 관성 규제 ’ 부터 제거해야 한다고 전문가 들 은 입 을 모은다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 핵 문제 를 총괄하 고 있 는 미 국무부 의 로버트 갈루치 차관보 는 5 일 국무부 회견 에서 북한 핵 문제 를 보 는 미국 의 「 솔직한 」 입장 을 털어 놨 다 .	O O O O O O O O O O O PER-B O O O DAT-B DAT-I ORG-B O O O O O O O O ORG-B O O O O O O O O O O
+비문 - 비 패권 세력 연대 를 주도적 으로 추진하 고 있 는 김종인 전 대표 와 의 회동 가능성 에 대해서 는 “ 전화 통화 만 했 고 이번 주 에 만나 기 로 약속 했 으나 저 의 지방 일정 으로 인해 다음 주 에 한번 뵙 기 로 했 다 ” 며 “ ( 통화 에서 ) 김 전 대표 에게 탈당하 고 의원 직 을 버린 결단 에 대해 존경 의 말씀 을 드 렸 고 정권 교체 를 위해 우리 당 을 도 와 달 라는 말 을 나누 려 했 는데 아직 일정 을 못 잡 았 다 ” 고 했 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 오전 김 전 대표 가 민주당 및 국민 의당 일부 의원 들 과 조찬 회동 을 가진 것 으로 알려진 데 대해 박 대표 는 “ 그 자리 에 참석한 몇 분 의원 이 저 에게 보고한 바 에 의하 면 그렇 게 특별한 의미 를 둘 만한 가치 는 없 었 다고 한다 ” 며 “ 김 전 대표 가 무엇 인가	O O PER-B O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O

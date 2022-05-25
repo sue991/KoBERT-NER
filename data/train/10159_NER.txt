@@ -1,14 +1,14 @@
-차세대 친환경 연료로 각광받고 있는 수소전지 연구자가 대나무 박사가 되+ㄴ이유는 뭐+이+ㄹ까? 박 교수는 2000년 고향지인들에게서 대나무에 무늬를 입히는 기술을 개발하+여달라는 부탁을 받았다 .	O O O O O O O O PER-B O O PER-B O O O O O O O O O O O
-성사되+어도 2016년 이후에나 가 .	O O O O O
-전용식 보험연구원 연구위원은 “중국 모기업의 사업 리스크가 한국의 보험회사로 전이되 +어서는 안 되+ㄴ다”며 “자칫 국내 보험계약자가 피해를 입지 않도록 국내 기업을 인수하려는 중국 금융회사에 대하+ 여면밀하+ㄴ감독을 하+여야 하+ㄴ다”고 말하였다 .	PER-B O O ORG-B O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O
-커피포트 하나를 만들더라도 ‘물끓이는 기능’ 이외에는 그 어느 것도 넣지 않되 가격을 파격적으로 낮추었다 .	O O O O O O O O O O O O O O O
-[알리+ㅂ니다] 12월 1일 ‘명사특강’에 초대하+ㅂ니 .	O O O O O O
-꿈에 그리던 미국 ‘빅리그’에 진출하였지만 성적 부진에 허덕이 .	O O ORG-B O O O O O O
-중국인의 뉴욕 네일숍에서 일하였다 .	O LOC-B O O O
-주가가 1년 새 176% 급등하였다 .	O O O O O O
-경기 후 행사장을 찾은 슈틸리케 감독은 팬들에게 감사 인사를 전하는 한편 더 열성적이+ㄴ 성원을 부탁하였다 .	O O O O PER-B O O O O O O O O O O O
-고아성, 이준과 부부? SBS ‘풍문으로 듣었소’ 엄청나 +ㄴ캐스팅 ‘눈길 .	PER-B PER-B O O O O O O O O
-상반기 중 주택담보대출을 받은 대출자가 실직이나 폐업으로 빚을 갚을 형편이 안 되면 1년간 원금 상환을 유예하+어주는 방안 등이 도입되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-한진그룹 주력 사이+ㄴ 대한항공은 올해 3월 피지 사이클론, 4월 일본 구마모토 지진피해 이재민 구호품을 지원하는 등 활발하+ㄴ 사회공헌활동을 하+여오고 있다 .	ORG-B O O ORG-B O O LOC-B O O LOC-B LOC-B LOC-B O O O O O O O O O
-‘최정윤 남편 윤태준’ 배우 최정윤이 ‘해피투게더3’에 출연하+ 여화제가 되+ㄴ 가운데, 과거 최정윤의 남편 윤태준이 ‘애프터스쿨’ 유이의 열성팬이 +ㅁ을 밝히 +ㄴ 사실이 눈길을 끌고 있다 .	PER-B O PER-B O PER-B O O O O O O PER-B O PER-B ORG-B PER-B O O O O O O O O O
-최정윤과 유이는 2012년 KBS ‘해피투게더3’에게 스트로 출연하+ㄴ적이 있다 .	PER-B PER-B O O O O O O O
+차세대 친환경 연료 로 각광 받 고 있 는 수소 전지 연구자 가 대나무 박사 가 된 이유 는 뭘까 ? 박 교수 는 2000 년 고향 지인 들 에게서 대나무 에 무늬 를 입히 는 기술 을 개발해 달 라는 부탁 을 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+성사돼 도 2016 년 이후 에 나 가능	O O DAT-B DAT-I O O O O
+전용식 보험 연구원 연구 위원 은 “ 중국 모 기업 의 사업 리스크 가 한국 의 보험 회사 로 전 이 돼서 는 안 된다 ” 며 “ 자칫 국내 보험 계약자 가 피해 를 입 지 않 도록 국내 기업 을 인수하 려는 중국 금융 회사 에 대해 면밀한 감독 을 해야 한다 ” 고 말 했 다 .	PER-B O O O O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+커피포트 하나 를 만들 더라도 ‘ 물 끓이 는 기능 ’ 이외 에 는 그 어느 것 도 넣 지 않 되 가격 을 파격적 으로 낮 췄 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 알립니다 ] 12 월 1 일 ‘ 명사 특강 ’ 에 초대합니다	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O
+꿈 에 그리 던 미국 ‘ 빅 리그 ’ 에 진출 했 지만 성적 부진 에 허덕이 다	O O O O ORG-B O O O O O O O O O O O O O
+중국인 의 뉴욕 네일숍 에서 일 했 다 .	O O LOC-B O O O O O O
+주가 가 1 년 새 176 % 급등 했 다 .	O O O O O O O O O O O
+경기 후 행사장 을 찾 은 슈틸리케 감독 은 팬 들 에게 감사 인사 를 전하 는 한편 더 열성적 인 성원 을 부탁 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+고 아성 , 이준 과 부부 ? SBS ‘ 풍문 으로 들 었 소 ’ 엄청난 캐스팅 ‘ 눈길 ’	PER-B PER-I O PER-B O O O O O O O O O O O O O O O O
+상반기 중 주택 담보대출 을 받 은 대출자 가 실직 이나 폐업 으로 빚 을 갚 을 형편 이 안 되 면 1 년 간 원금 상환 을 유예해 주 는 방안 등 이 도입된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한진그룹 주력 사 인 대한항공 은 올해 3 월 피 지 사이클론 , 4 월 일본 구마모토 지진 피해 이재민 구호품 을 지원하 는 등 활발한 사회 공헌 활동 을 해 오 고 있 다 .	ORG-B O O O ORG-B O O DAT-B DAT-I LOC-B LOC-I O O DAT-B DAT-I LOC-B LOC-B O O O O O O O O O O O O O O O O O O O
+‘ 최정윤 남편 윤태준 ’ 배우 최정윤 이 ‘ 해피투게더 3 ’ 에 출연해 화제 가 된 가운데 , 과거 최정윤 의 남편 윤태준 이 ‘ 애프터 스쿨 ’ 유이 의 열성 팬 임 을 밝힌 사실 이 눈길 을 끌 고 있 다 .	O PER-B O PER-B O O PER-B O O O O O O O O O O O O O PER-B O O PER-B O O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O
+최정윤 과 유이 는 2012 년 KBS ‘ 해피투게더 3 ’ 에 게스트 로 출연한 적 이 있 다 .	PER-B O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O

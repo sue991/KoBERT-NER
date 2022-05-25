@@ -1,16 +1,16 @@
-삼성은 지난해 10월 이후 지금까지 ‘도박 정국’에서 헤어나오지 +ㄹ 못하고 있다 .	ORG-B O O O O O O O O O O O
-해외 불법 도박 혐의를 받은 윤성환, 안지만, 임창용 없이 한국시리즈에 들어가 +아야+였고, 두산에 패하+여다 잡은 줄 알았던 우승을 놓치었다 .	O O O O O PER-B PER-B PER-B O O O O ORG-B O O O O O O O
-미국, 일본도 마찬가지 +이다 .	ORG-B ORG-B O O O
-성동조선, 대선 조선, 한진중공업도 채권단 공동관리(자율협약) 후 인력 감축과 자산매각 등 구조조정을 진행하고 있다 .	ORG-B ORG-B ORG-I ORG-B O O O O O O O O O O O
-지난해 이 과정에 참가하+ㄴ 학생들은 ‘늘품나루’+이라는 활동보고서를 묶어 내 +었다 .	O O O O O O O O O O O
-조 의원은 자신의 주장은 개인 생각이라며 확대해석을 경계하였다 .	PER-B O O O O O O O O
-김정은 노동당 제1비서가 참관 하+ㄴ 가운데 북한군이 우리나라를 겨냥하+ㄴ 상륙훈련과 반상륙훈련을 실시하였다 .	PER-B ORG-B O O O O O O O O O O O
-20일 북한 조선중앙통신은 정확하+ㄴ 훈련날짜와 장소 등은 밝히지 않고 “해상기동과 기습적 이+ㄴ 상륙작전 전투조직 및 지휘의 현실성을 검토하고 해안 차단물 극복능력을 높이는 훈련을 +였다”고 보도하였다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-나경원 국회 저출산 고령화 대책특별위원회 위원장(53·새누리당)은 21일 서울 영등포구 국회의원회관에서 가지+ㄴ동아일보와의 인터뷰에서 “우리나라도 프랑스처럼 미혼모나 동거가족으로부터 태어나 +ㄴ 자녀가 법적 결혼으로 출생 하+ㄴ 자녀와 똑같은 복지 혜택을 받는 제도와 이들을 폭넓게 인정하는 문화가 확산되+ㄴ다면 저출산 문제 해결의 실마리가 되+ㄹ 수 있다”며 “특위가 앞장서+어서 제도 도입 등을 추진하겠다”고 밝히었다 .	PER-B LOC-B ORG-B ORG-I ORG-I ORG-B O LOC-B LOC-B LOC-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
-한국과 일본 관광업계 300여명이 참석하였다 .	ORG-B ORG-B O O O O
-대장암 발병률 국가 순위 1위를 차지하+ㄴ 가운데 대장암의 가장 크+ㄴ 비율을 차지하는 원인은 잘못되+ㄴ 생활·식습관이 꼽히었다 .	O O O O O O O O O O O O O O O O O
-한국경제의 체질을 바꾸어야 하는 이러 하+ㄴ 작업은 우리의 생존을 위하+여 반드시 이루어야 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O
-김흥국은 “엑소한 테미안 하지만 그 노래 제목을 모르았다”고 해명하였다 .	PER-B ORG-B O O O O O O O O
-윤종신은 “생선주문하는데 ‘늘푸르+ㄴ 생선’ 달라고 +였다 .	PER-B O O O O O O
-앞서 대구시 업무보고에서는 “올해가 노동개혁의 마지막 기회+이라는 각오로 상생의 합의를 이루+어내+어야 하+ㄴ다 .	O ORG-B O O O O O O O O O O O
-미국의 정권교체기를 틈타 +ㄴ 북한의 대남 도발 위협의 대응조치로 보이+ㄴ다 .	ORG-B O O O ORG-B O O O O O O
+삼성 은 지난해 10 월 이후 지금 까지 ‘ 도 박정국 ’ 에서 헤 어 나오 질 못하 고 있 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+해외 불법 도박 혐의 를 받 은 윤성환 , 안지만 , 임창용 없이 한국 시리즈 에 들어가야 했 고 , 두산 에 패해 다 잡 은 줄 알 았 던 우승 을 놓 쳤 다 .	O O O O O O O PER-B O PER-B O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+미국 , 일본 도 마찬가지 다 .	ORG-B O ORG-B O O O O
+성동조선 , 대선 조선 , 한진중공업 도 채권 단 공동 관리 ( 자율 협약 ) 후 인력 감축 과 자산 매각 등 구조 조정 을 진행하 고 있 다 .	ORG-B O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 이 과정 에 참가한 학생 들 은 ‘ 늘품 나루 ’ 라는 활동 보고서 를 묶 어 냈 다 .	O O O O O O O O O O O O O O O O O O O O O
+조 의원 은 자신 의 주장 은 개인 생각 이 라며 확대 해석 을 경계 했 다 .	PER-B O O O O O O O O O O O O O O O O O
+김정은 노동당 제 1 비서 가 참관한 가운데 북한 군 이 우리나라 를 겨냥한 상륙 훈련 과 반 상륙 훈련 을 실시 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+20 일 북한 조선중앙통신 은 정확한 훈련 날짜 와 장소 등 은 밝히 지 않 고 “ 해상 기동 과 기습적 인 상륙 작전 전투조직 및 지휘 의 현실성 을 검토하 고 해안 차단물 극복 능력 을 높이 는 훈련 을 했 다 ” 고 보도 했 다 .	DAT-B DAT-I ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+나경원 국회 저 출산 고령화 대책 특별 위원회 위원장 ( 53 · 새누리당 ) 은 21 일 서울 영등포구 국회 의원 회관 에서 가진 동아일보 와 의 인터뷰 에서 “ 우리나라 도 프랑스 처럼 미혼모 나 동거 가족 으로부터 태어난 자녀 가 법적 결혼 으로 출생한 자녀 와 똑같 은 복지 혜택 을 받 는 제도 와 이 들 을 폭넓 게 인정하 는 문화 가 확산된다면 저 출산 문제 해결 의 실마리 가 될 수 있 다 ” 며 “ 특위 가 앞장서서 제도 도입 등 을 추진하 겠 다 ” 고 밝 혔 다 .	PER-B O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O ORG-B O O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 과 일본 관광 업계 300 여 명 이 참석 했 다 .	ORG-B O ORG-B O O O O O O O O O O
+대장암 발병률 국가 순위 1 위 를 차지한 가운데 대장암 의 가장 큰 비율 을 차지하 는 원인 은 잘못된 생활 · 식 습관 이 꼽 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 경제 의 체질 을 바꾸 어야 하 는 이러한 작업 은 우리 의 생존 을 위해 반드시 이루 어야 한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+김흥국 은 “ 엑소 한테 미안하 지만 그 노래 제목 을 몰 랐 다 ” 고 해명 했 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O
+윤종신 은 “ 생선 주문하 는데 ‘ 늘 푸른 생선 ’ 달 라고 했 다 .	PER-B O O O O O O O O O O O O O O O
+앞서 대구시 업무 보고 에서 는 “ 올해 가 노동 개혁 의 마지막 기회 라는 각오 로 상생 의 합의 를 이뤄 내야 한다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+미국 의 정권 교체기 를 틈탄 북한 의 대남 도발 위협 의 대응 조치 로 보인다 .	ORG-B O O O O O ORG-B O O O O O O O O O O

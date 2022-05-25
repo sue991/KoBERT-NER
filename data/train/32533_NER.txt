@@ -1,10 +1,10 @@
-2013년 스낵시장에 고구마 스낵으로 허니버터맛을 선보이었던 롯데제과는 올해 꼬깔콘·치토스·레이즈 등 세계적 제품과 함께 꿀 먹은 감자칩도 스낵시장을 대표하는 간판 제품으로 자리 하+ㄹ 것으로 기대하고 있다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-그래서 결혼하+ㄴ후 6년을 쉬었는데, 주부로 살다 보니 다른 생각을 하+ㄹ 여유가 없었어요 .	O O O O O O O O O O O O O
-전국 140여개 전문대학 중 단 21개 전문대학만 오르+ㄹ 수 있는 ‘WCC(WorldClass College)’로 선정되+어 최우수 전문대학이+ㅁ을 입증하였다 .	O O O O O O O O O O O O O O O O O
-그러나 한 지역에서 독점적 이+ㄴ 지위를 누리고 있는 기업이 해당 자치단체에 꼭 부정적 이+ㄴ 영향을 끼치는 것만은 아니다 .	O O O O O O O O O O O O O O O O O O O
-걸그룹 AOA 멤버 이+ㄴ 설현은 8등신 몸매, 거침없는 태도, 천진무구 하+ㄴ 몸동작, 왕성하+ㄴ호기심으로 매력을 뽐내고 있다 .	O ORG-B O O PER-B O O O O O O O O O O O O
-장비는 20명밖에 안 되는 기병에게 말꼬리에 나뭇가지를 묶고 숲속을 달리게 하+여먼지를 일으키도록 하+ㄴ 뒤 홀로 장판교를 사이에 두고 조조군과 대치하+ㄴ다 .	PER-B O O O O O O O O O O O O O O LOC-B O O ORG-B O O
-호프먼은 날이가+ㄹ수록 사람들의 직장이 직주기가 짧아 지+ㄴ다고 +았다 .	PER-B O O O O O O O O
-논문 저자 이+ㄴ이진희 씨(미국 플로리다 주립대 박사과정)는 “지방자치단체의 사회경제적 수준과 건강 관련 정책 등 지역의 건강자원 격차가 지역간 건강 불평등의 원인이 되+ㄹ 수 있다”고 말하였다 .	O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
-이때 선조는 기미상궁 김개시(김여진)가 준 탕약을 마시고 쓰러지+ㄴ 상태. 놀라 +ㄴ 광해군은 “어의를 부르어라”고 외치며 선조의 옆을 지키었다 .	O PER-B O PER-B O O O O O O O PER-B O O O PER-B O O O
-경북경찰청은 지난해 4월 구미시인동에 안심귀가 시범거리를 만들었다 .	ORG-B O O LOC-B O O O O
+2013 년 스낵 시장 에 고구마 스낵 으로 허니버터 맛 을 선보 였 던 롯데제과 는 올해 꼬깔콘 · 치토스 · 레이즈 등 세계적 제품 과 함께 꿀 먹 은 감자 칩 도 스낵 시장 을 대표하 는 간판 제품 으로 자리할 것 으로 기대하 고 있 다 .	DAT-B DAT-I O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그래서 결혼한 후 6 년 을 쉬 었 는데 , 주부 로 살 다 보 니 다른 생각 을 할 여유 가 없 었 어요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+전국 140 여 개 전문대학 중 단 21 개 전문대학 만 오를 수 있 는 ‘ WCC ( World Class College ) ’ 로 선정돼 최우수 전문대학 임 을 입증 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 한 지역 에서 독점적 인 지위 를 누리 고 있 는 기업 이 해당 자치 단체 에 꼭 부정적 인 영향 을 끼치 는 것 만 은 아니 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+걸그룹 AOA 멤버 인 설현 은 8 등신 몸매 , 거침없 는 태도 , 천진무구한 몸동작 , 왕성한 호기심 으로 매력 을 뽐내 고 있 다 .	O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+장비 는 20 명 밖에 안 되 는 기병 에게 말꼬리 에 나뭇가지 를 묶 고 숲 속 을 달리 게 해 먼지 를 일으키 도록 한 뒤 홀로 장판교 를 사이 에 두 고 조조 군 과 대치한다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O ORG-B ORG-I O O O
+호프먼 은 날 이 갈수록 사람 들 의 직장 이직 주기 가 짧아진다고 봤 다 .	PER-B O O O O O O O O O O O O O O O
+논문 저자 인 이진희 씨 ( 미국 플로리다 주립대 박사 과정 ) 는 “ 지방 자치 단체 의 사회 경제적 수준 과 건강 관련 정책 등 지역 의 건강 자원 격차 가 지역 간 건강 불평등 의 원인 이 될 수 있 다 ” 고 말 했 다 .	O O O PER-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이때 선조 는 기미 상궁 김개시 ( 김여진 ) 가 준 탕약 을 마시 고 쓰러진 상태 . 놀란 광해군 은 “ 어의 를 불 러라 ” 고 외치 며 선조 의 옆 을 지 켰 다 .	O PER-B O O O PER-B O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O
+경북 경찰청 은 지난해 4 월 구미시 인동 에 안심 귀 가 시범 거리 를 만들 었 다 .	ORG-B ORG-I O O DAT-B DAT-I LOC-B LOC-B O O O O O O O O O O O

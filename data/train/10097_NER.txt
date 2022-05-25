@@ -1,19 +1,19 @@
-스트라이크 존은 올해 WBC도 공식 후원사로 참여하+ㄴ다 .	O O O O O O O O
-가장 애착이 가는 프로그램으로 ‘KB훈민정음’을 꼽았다 .	O O O O O O O
-현아, ‘잘 나가 +아서 그래’로 컴백…원 더걸스, 사인CD주며 “이뿌니 사랑 하+여 .	PER-B O O O O O O O O O O O
-이날 선발로 예정되+ㄴ이해창(30)이 빗방울을 원망스럽게 쳐다보자 강성 우 배터리 코치는 “(이)해창이너는 경기를 더 뛰어야 하는 입장이니 많이 아쉬워 하+여야 하+ㄴ다”면서 제자의 올바르+ㄴ 자세에 흐뭇하+ㅁ을 나타내기도 +였다 .	PER-I O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O
-김씨는 "적폐청산은 이루어 지+어야 하고, 여기에는 MB정부도 포함되 +ㄴ다"며 "누구나 BBK와 관련 하+여서는 마치 내가 잘못하+ㄴ 것같이 얘기하였지만, 실제로 그것은 한나라당이 잘못하+ㄴ 것이다"고 말하였다 .	PER-B O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O
-충분하+ㄴ 경제적 능력을 갖추+ㄴ남성은 그 나이에 30대 중반~40대 초반 여성과 또 결혼하+여서 늦둥이를 얻는다 .	O O O O O O O O O O O O O O O
-개인 일정으로 한국을 찾았다가 이날 출국 하+ㄴ 중국 배우 쉬웨이저우를 만나려는 한국 팬들이 출국장으로 몰려들었기 때문이다 .	O O ORG-B O O O O ORG-B O PER-B O ORG-B O O O O O
-우리 청소년들의 반일 감정이 일본 청소년들의 반한 감정보다 월등히 높고 우리 청소년들이 일본 청소년들보다 상대국을 훨씬 위협적 이+ㄴ 존재로 느끼고 있는 것으로 나타나 +았다 .	O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O
-'잠적설'에 휩싸이기도 +였던 고영태(41) 전 더블루K 이사가 그동안 박영수 특별검사팀과 연락하며 수사에 협조 하+여오+ㄴ 것으로 알려지었다 .	O O O PER-B O ORG-B O O PER-B O O O O O O O O
-8일 사정당국과 특검 등에 따르면 특검팀은 고씨와 그동안 긴밀히 접촉하며 외부에서 만남을 갖고 최씨의 뇌물수수 공범 혐의와 불법 재산 등 관련 정보를 수집하+여오+ㄴ 것으로 전하여 +지+었다 .	O O O O O O PER-B O O O O O PER-B PER-B O O O O O O O O O O O O O
-고씨는 정식으로 참고인 조사를 받은 적은 없으나 6일 최순실(61)씨 재판에 증인으로 출석하기 전까지 행방이 묘연하였던 기간 동안에도 특검팀과는 전화 또는 외부 접촉을 통하+여수사에 협조하+여오+ㄴ 것으로 알려지었다 .	PER-B O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O
-특검팀 내부 관계자는 "고씨를 사무실로 부르+ㄴ 적은 없지만 의사소통을 하고 있었던 것은 맞다"며 "모처에서 만나 +아고 씨로부터 최씨와 관련 하+여우리가 궁금하+ㄴ 부분과 알고 있는 내용들을 들어 수사에 참조하고 있다"고 말 하+ㄴ 것으로 전하여 +지+었다 .	O O O PER-B O O O O O PER-B O O O O O PER-B O PER-B O O O O PER-B O O O O PER-B PER-B O O O O O O
-이어 "고씨를 범죄 피의자로 수사 대상에 올려놓을 계획은 현재로서 +ㄴ 없다"고 선을 긋었다 .	O PER-B O O O O O O O O PER-B O O O
-특검팀은 고씨로부터 최씨의 재산에 대하+ㄴ 일부 자료도 넘겨받은 것으로 전하여 +지+었다 .	O PER-B PER-B O O O O O O O O O
-한편 고씨는 9일 헌법재판소에서 열리는 12차 변론에 불출석 하+ㄹ 것으로 보이+ㄴ다 .	O PER-B O O O O O O O O O O
-SOFA 부지 공여 절차는 일반적 이+ㄴ부지 공여 절차는 SOFA 합동위의 협상 개시 승인을 시작으로 각 분과 위별 협상을 거치+어 합동위가 최종 공여를 승인하는 순으로 진행되+ㄴ다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-독일 남부에서 +ㄴ 테러가 이어지고 있다 .	LOC-B O O O O O O
-무려 4시간 46분의 격렬 하+ㄴ 잠실벌전투가 끝나는 순간이었다 .	O O O O O LOC-B O O O
-이날 연사로 참가 하+ㄴ필립스 H2H(HospitaltoHospital) 사업부 부사장 겸 최고 의료 책임자, 브라이언 로즌 펠드 박사는 “중환자수는 점차 증가하고 있지만 이들을 관리 하+ㄹ 중환자 전문의와 전문 간호인력은 세계 어느 나라든 부족 하+ㄴ 현실이다” +이라며 “eICU 프로그램을 사용하면 중환자가 어느 지역의 병원에 있든지 관계없이 효율적 이+ㄴ 중환자 관리가 가능하다”고 설명하였다 .	O O O ORG-B ORG-I O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스트라이크존 은 올해 WBC 도 공식 후원 사 로 참여한다 .	O O O O O O O O O O O
+가장 애착 이 가 는 프로그램 으로 ‘ KB 훈민정음 ’ 을 꼽 았 다 .	O O O O O O O O O O O O O O O O
+현아 , ‘ 잘나가서 그래 ’ 로 컴백 … 원더 걸스 , 사인 CD 주 며 “ 이뿌 니 사랑해 ”	PER-B O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+이날 선발 로 예정된 이해창 ( 30 ) 이 빗방울 을 원망스럽 게 쳐다보 자 강성우 배터리 코치 는 “ ( 이 ) 해 창 이 너 는 경기 를 더 뛰 어야 하 는 입장 이 니 많이 아쉬워해야 한다 ” 면서 제자 의 올바른 자세 에 흐뭇함 을 나타내 기 도 했 다 .	O O O O PER-B O O O O O O O O O O PER-B O O O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 씨 는 " 적폐 청산 은 이뤄져야 하 고 , 여기 에 는 MB 정부 도 포함된다 " 며 " 누구 나 BBK 와 관련해서 는 마치 내 가 잘못한 것 같이 얘기 했 지만 , 실제로 그것 은 한나라당 이 잘못한 것 이 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+충분한 경제적 능력 을 갖춘 남성 은 그 나이 에 30 대 중반 ~ 40 대 초반 여성 과 또 결혼해서 늦둥이 를 얻 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+개인 일정 으로 한국 을 찾 았 다가 이날 출국한 중국 배우 쉬웨이저우 를 만나 려는 한국 팬 들 이 출국 장 으로 몰려들 었 기 때문 이 다 .	O O O LOC-B O O O O O O ORG-B O PER-B O O O ORG-B O O O O O O O O O O O O O
+우리 청소년 들 의 반일 감정 이 일본 청소년 들 의 반 한 감정 보다 월등히 높 고 우리 청소년 들 이 일본 청소년 들 보다 상대국 을 훨씬 위협적 인 존재 로 느끼 고 있 는 것 으로 나타났 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+' 잠적 설 ' 에 휩싸이 기 도 했 던 고영태 ( 41 ) 전 더블루 K 이사 가 그동안 박영수 특별 검사 팀 과 연락하 며 수사 에 협조해 온 것 으로 알려 졌 다 .	O O O O O O O O O O PER-B O O O O ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O O
+8 일 사정 당국 과 특검 등 에 따르 면 특검 팀 은 고 씨 와 그동안 긴밀히 접촉하 며 외부 에서 만남 을 갖 고 최 씨 의 뇌물 수수 공범 혐의 와 불법 재산 등 관련 정보 를 수집해 온 것 으로 전해 졌 다 .	DAT-B DAT-I O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+고 씨 는 정식 으로 참고인 조사 를 받 은 적 은 없 으나 6 일 최순실 ( 61 ) 씨 재판 에 증인 으로 출석하 기 전 까지 행방 이 묘연 했 던 기간 동안 에 도 특검 팀 과 는 전화 또는 외부 접촉 을 통해 수사 에 협조해 온 것 으로 알려 졌 다 .	PER-B O O O O O O O O O O O O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특검 팀 내부 관계자 는 " 고 씨 를 사무실 로 부른 적 은 없 지만 의사소통 을 하 고 있 었 던 것 은 맞 다 " 며 " 모처 에서 만나 고 씨 로부터 최 씨 와 관련해 우리 가 궁금한 부분 과 알 고 있 는 내용 들 을 들 어 수사 에 참조하 고 있 다 " 고 말한 것 으로 전해 졌 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 " 고 씨 를 범죄 피의자 로 수사 대상 에 올려놓 을 계획 은 현재 로선 없 다 " 고 선 을 그 었 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+특검 팀 은 고 씨 로부터 최 씨 의 재산 에 대한 일부 자료 도 넘겨받 은 것 으로 전해 졌 다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O O O O
+한편 고 씨 는 9 일 헌법 재판소 에서 열리 는 12 차 변론 에 불출석 할 것 으로 보인다 .	O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O
+SOFA 부지 공여 절차 는 일반적 인 부지 공여 절차 는 SOFA 합동 위 의 협상 개시 승인 을 시작 으로 각 분과 위 별 협상 을 거쳐 합동 위 가 최종 공여 를 승인하 는 순 으로 진행된다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+독일 남부 에선 테러 가 이어지 고 있 다 .	LOC-B O O O O O O O O O
+무려 4 시간 46 분 의 격렬한 잠실벌 전투 가 끝나 는 순간 이 었 다 .	O TIM-B TIM-I TIM-I TIM-I O O LOC-B O O O O O O O O O
+이날 연사 로 참가한 필립스 H 2 H ( Hospital to Hospital ) 사업 부 부사장 겸 최고 의료 책임자 , 브라이언 로즌펠드 박사 는 “ 중환자 수 는 점차 증가하 고 있 지만 이 들 을 관리할 중환자 전문의 와 전문 간호 인력 은 세계 어느 나라 든 부족한 현실 이 다 ” 라며 “ eICU 프로그램 을 사용하 면 중환자 가 어느 지역 의 병원 에 있 든지 관계없이 효율적 인 중환자 관리 가 가능하 다 ” 고 설명 했 다 .	O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-한길은 철로를 넘어 학교·카페·식당이 있는 거리 북쪽으로, 다른 길은 왕복 8차로 도로를 가로지르어도 시 중심가로 이어지었다 .	O O O O O O O O O O O O O O O O O
-◆소규모 생활권도 존재=6개 생활권 안에 섬처럼 구분되는 소규모 생활권도 존재하+ㄴ다는 것+이 연구팀의 설명이다 .	O O O O O O O O O O O O O O
-전체 면적0.32㎢ 중 65%가 임야+이어서 섬 자체가 하나의 거대 하+ㄴ숲을 이루+ㄴ다 .	O O O O O O O O O O O O
-제시는 지나 +ㄴ 7월 2일 방송되+ㄴJTBC ‘알는 형님’에 가수 서인영과 함께 출연, 가요계 대표 ‘센 언니’로 입담을 자랑하였다 .	PER-B O O O O ORG-B O O O PER-B O O O O O O O O O
-8 퍼센트의 이효진 대표는 “사람과 사람이 모이어 함께 만들는 금융생태계를 조성하는 것이 목표”+이라며 “한국의 P2P 대출 패러다임을 새롭게 만들는 기업으로 성장하겠다”고 말하였다 .	ORG-B ORG-I PER-B O O O O O O O O O O LOC-B O O O O O O O O O
-라예지+ㄴ기자 ra. yejin@j oongang. co.kr8퍼센트 ‘쏘카’ 투자자 모집P2P 금융업체 ‘8퍼센트’가 자동차 공유 서비스 기업이 +ㄴ ‘쏘카’의 대출을 진행하+ㄴ다 .	PER-B O O O ORG-B O O O O ORG-B O O O O O O O O O
-이러하+ㄴ 반측성 안면 경련 증상의 특징은 얼굴의 한쪽에서만 증상이 나타나 +ㄴ다는 것이다 .	O O O O O O O O O O O O O
-바로 ‘코미디의 제왕’으로 불리는 주성치의 신작 ‘미인어’이+ㅂ니다 .	O O O O PER-B O O O
-허창수, 1년 새 4차례 전남창조경제센터 찾 .	PER-B O O O ORG-B O O
-칭다오 항판 무역회사의 소유주인 리처드 웨(岳)도 "이란은 회사가 거래하는 많은 국가 중 하나이+ㄴ데 계좌를 동결하는 등 미국의 결정은 불공평 하+ㄴ 것"이라고 항의하였다 .	ORG-B ORG-I ORG-I O PER-B PER-B ORG-B ORG-I O O O O O O O O ORG-B O O O O O O
-국내 TV3사도 총결산 특집을 끝으로 한 달에 걸치+ㄴ 월드컵 특별 편성의 막을 내리었다 .	O O O O O O O O O O O O O O
-전시장을 방문, 응모 하+ㄴ 고객 선착순 6만명에게는 3000원 상당의 해피 콘 모바일 쿠폰을 제공하며, 매주 추첨을 통하+여맥북에어, 아이패드 미니 등 경품 당첨자를 선정, 이를 쉐보레 홈페이지(www. chevrolet. co.kr)를 통하+여공 지하+ㄹ 예정이다 .	O O O O O O O MNY-B O O O O O O O O O O O O O O O O O O O O O O O O
+한 길 은 철로 를 넘 어 학교 · 카페 · 식당 이 있 는 거리 북쪽 으로 , 다른 길 은 왕복 8 차 로 도로 를 가로질 러 도시 중심가 로 이어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+◆ 소규모 생활권 도 존재 = 6 개 생활권 안 에 섬 처럼 구분되 는 소규모 생활권 도 존재한다는 게 연구 팀 의 설명 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전체 면적 0.32 ㎢ 중 65 % 가 임야 여서 섬 자체 가 하나 의 거대한 숲 을 이룬다 .	O O O O O O O O O O O O O O O O O O O O
+제시 는 지난 7 월 2 일 방송된 JTBC ‘ 아 는 형님 ’ 에 가수 서인영 과 함께 출연 , 가요계 대표 ‘ 센 언니 ’ 로 입담 을 자랑 했 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+8 퍼센트 의 이효진 대표 는 “ 사람 과 사람 이 모 여 함께 만드 는 금융 생태계 를 조성하 는 것 이 목표 ” 라며 “ 한국 의 P 2 P 대출 패러다임 을 새롭 게 만드 는 기업 으로 성장하 겠 다 ” 고 말 했 다 .	ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+라예 진 기자 ra . yejin @ joongang . co . kr 8 퍼센트 ‘ 쏘 카 ’ 투자자 모집 P 2 P 금융 업체 ‘ 8 퍼센트 ’ 가 자동차 공유 서비스 기업 인 ‘ 쏘 카 ’ 의 대출 을 진행한다 .	PER-B PER-I O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+이러한 반 측성 안면 경련 증상 의 특징 은 얼굴 의 한쪽 에서 만 증상 이 나타난다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O
+바로 ‘ 코미디 의 제왕 ’ 으로 불리 는 주성치 의 신작 ‘ 미 인어 ’ 입니다 .	O O O O O O O O O PER-B O O O O O O O O
+허창수 , 1 년 새 4 차례 전남 창조 경제 센터 찾 아	PER-B O O O O O O ORG-B ORG-I ORG-I ORG-I O O
+칭다오 항 판 무역 회사 의 소유 주인 리처드 웨 ( 岳 ) 도 " 이란 은 회사 가 거래하 는 많 은 국가 중 하나 인데 계좌 를 동결하 는 등 미국 의 결정 은 불공평한 것 " 이라고 항의 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O O PER-B PER-I O PER-B O O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+국내 TV 3 사 도 총결산 특집 을 끝 으로 한 달 에 걸친 월드컵 특별 편성 의 막 을 내 렸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+전시장 을 방문 , 응모한 고객 선착순 6 만 명 에게 는 3000 원 상당 의 해 피콘 모바일 쿠폰 을 제공하 며 , 매주 추첨 을 통해 맥 북 에어 , 아이패드 미니 등 경품 당첨자 를 선정 , 이 를 쉐보 레 홈페이지 ( www . chevrolet . co . kr ) 를 통해 공지할 예정 이 다 .	O O O O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

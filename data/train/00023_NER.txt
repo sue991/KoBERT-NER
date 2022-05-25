@@ -1,13 +1,13 @@
-성원건설은 1990년대 연매출 4000억원에 달하던 중견 건설기업이었지만 외환위기 직후 이+ㄴ 1999년 부도를 내+ㄴ 뒤 ‘사적화의’를 신청하+여 가까스로 경영권을 사수하였다 .	MNY-I O O MNY-B O O O O O O O O O O O O O O O O
-2008학년도 9월 모의평가 15번 *36회 “절반의 성공 ②영조”펴 +ㄴ문제 86.? 밑줄 친 ‘왕’이 실시하+ㄴ 정책으로 옳은 것은?왕은행차 때 +이면 길에 나오+ㄴ 백성들을 부르어 직접 의견을 듣었다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
-국유림 1천3백 95㏊에 자리잡은 가곡 자연휴양림은 빼어나 +ㄴ 주변 경관을 최대한 활용하+여시설 부지 16㏊에 산막 8채, 합숙소, 야영장, 주차장, 어린이 놀이터, 산림욕장들을 갖추었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-‘에이즈 감염’ 누설 벌금, 1000만원→3000만원 올리+ .	O O O O MNY-B O O
-한편 버버리는 신세계그룹과의 디지털 협업을 통하+여 9일 신세계 온라인몰이+ㄴ SSG.COM(www.ssg. com)에 공식 온라인 스토어를 오픈+하였다 .	O ORG-B ORG-B O O O O ORG-B O O O O O O O O
-임달호 공주대 보건행정학 교수팀이 집계하+ㄴ암 사망률 변화 추이에 따르면 여성의 췌장암 발생률은 1983년 10만명 당 1.61명에서 2012년 8명으로 30년 새 5배가량 늘었다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
-신한은행은 자동차 구매 때 은행 방문 없이 자동차 매장에서 바로 대출이 가능하+ㄴ ‘써니마이카 대출’을 출시하였다 .	ORG-B O O O O O O O O O O O O O O O
-20년 경력의 철권 마니아 남규리가 세계 챔피언 ‘무릎’ 배재민을 철권 7 이벤트 매치에서 제압하였다 .	O O O O PER-B O O PER-B PER-B O O O O O O
-시사인 사이드(7일 오전 10시20분 .	TIM-I O O O O
-이들은 2010년 1월부터 지난해 8월까지 박씨가 담임목사로 있는 교회의 신도와 그들의 지인 등 150여명을 상대로 투자금 명목 197억여원을 가로채+ㄴ 혐의를 받고 있다 .	O O O O O PER-B O O O O O O O O O O O MNY-B O O O O O
-세월호 외벽은 펄과 해양생물 등이 달라붙어 본래 색깔을 가늠하기 어렵었다 .	O O O O O O O O O O O
-나+의 노래 ‘헤어지+ㄴ 다음날’은 어떻냐?”라고 농담을 던지+ㄴ후 거듭 사과인사를 전하+ 여웃음을 자아내 +었다 .	O O O O O O O O O O O O O O
-한편 ‘이현우의 음악앨범’은 매일 오전 9시 KBSCOOLFM(89.1M hz)을 통하+여듣을 수 있으며, 매주 화요일 ‘유부를 부탁하+여’ 코너는 대한민국 대표 유부남권 오중, 심현보와 다양하+ㄴ 결혼생활에 대하+ㄴ 공감 토크로크+ㄴ인기를 얻고 있다 .	O O O O O O O O O O O O O O O O ORG-B O O O PER-B O O O O O O O O
+성원건설 은 1990 년대 연 매출 4000 억 원 에 달하 던 중견 건설 기업 이 었 지만 외환 위기 직후 인 1999 년 부도 를 낸 뒤 ‘ 사적 화의 ’ 를 신청해 가까스로 경영권 을 사수 했 다 .	ORG-B O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+2008 학년도 9 월 모의 평가 15 번 * 36 회 “ 절반 의 성공 ② 영조 ” 편 문제 8 6 . ? 밑줄 친 ‘ 왕 ’ 이 실시한 정책 으로 옳 은 것 은 ? 왕 은 행차 때 면 길 에 나온 백성 들 을 불 러 직접 의견 을 들 었 다 .	DAT-B O DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국유림 1 천 3 백 95 ㏊ 에 자리 잡 은 가곡 자연 휴양림 은 빼어난 주변 경관 을 최대한 활용해 시설 부지 16 ㏊ 에 산막 8 채 , 합숙소 , 야영장 , 주차장 , 어린이 놀이터 , 산림 욕장 들 을 갖 췄 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 에이즈 감염 ’ 누설 벌금 , 1000 만 원 → 3000 만 원 올려	O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O
+한편 버버리 는 신세계 그룹 과 의 디지털 협업 을 통해 9 일 신세계 온라인 몰 인 SSG . COM ( www . ssg . com ) 에 공식 온라인 스토어 를 오픈 했 다 .	O ORG-B O ORG-B ORG-I O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O
+임달호 공주대 보건 행정학 교수 팀 이 집계한 암 사망률 변화 추이 에 따르 면 여성 의 췌장암 발생률 은 1983 년 10 만 명 당 1.61 명 에서 2012 년 8 명 으로 30 년 새 5 배 가량 늘 었 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+신한은행 은 자동차 구매 때 은행 방문 없이 자동차 매장 에서 바로 대출 이 가능한 ‘ 써니 마이카 대출 ’ 을 출시 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+20 년 경력 의 철권 마니아 남규 리 가 세계 챔피언 ‘ 무릎 ’ 배재민 을 철권 7 이벤트 매치 에서 제압 했 다 .	O O O O O O PER-B PER-I O O O O PER-B O PER-B O O O O O O O O O O
+시사 인사이드 ( 7 일 오전 10 시 20 분 )	O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O
+이 들 은 2010 년 1 월 부터 지난해 8 월 까지 박 씨 가 담임 목사 로 있 는 교회 의 신도 와 그 들 의 지인 등 150 여 명 을 상대 로 투자 금 명목 197 억 여 원 을 가로챈 혐의 를 받 고 있 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O
+세월호 외벽 은 펄 과 해양 생물 등 이 달라붙 어 본래 색깔 을 가늠하 기 어려 웠 다 .	O O O O O O O O O O O O O O O O O O O O
+내 노래 ‘ 헤어진 다음날 ’ 은 어떠 냐 ? ” 라고 농담 을 던진 후 거듭 사과 인사 를 전해 웃음 을 자아냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 ‘ 이현우 의 음악 앨범 ’ 은 매일 오전 9 시 KBS COOL FM ( 89.1 Mhz ) 을 통해 들 을 수 있 으며 , 매주 화요일 ‘ 유부 를 부탁해 ’ 코너 는 대한민국 대표 유부남 권오중 , 심현보 와 다양한 결혼 생활 에 대한 공감 토크 로 큰 인기 를 얻 고 있 다 .	O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O DAT-B O O O O O O O ORG-B O O PER-B O PER-B O O O O O O O O O O O O O O O O O

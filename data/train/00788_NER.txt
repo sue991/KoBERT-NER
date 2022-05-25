@@ -1,13 +1,13 @@
-박 대통령은 “최근에는 5차 핵실험을 준비하고 있는 상황이 포착이 되고 있다”며 “북한이 고립 회피와 체제 결속을 위하+여 어떤 돌발적 도발을 감행하+ㄹ지 알+ㄹ 수 없는 상황”이라고 우려하였다 .	PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-검찰은 김 전 차관이 한 달에 두 번씩 장씨를 개별적으로 만나 +아문체부 인사 및 최씨의 각종 사업을 논의하+ㄴ 정황도 포착하였다 .	O PER-B O O O O O O PER-B O O ORG-B O O PER-B O O O O O O
-안정적으로 담을 수 있는 장점이 있다”면서 “결국 두 회사 제품을 선택하+ㄴ 완성차 메이커들의 판도에 따르 아두 회사간 희비도 엇갈리+ㄹ 전망”이라고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O
-선관위 관계자는 이날 통화에서 “다른 정당이 이미 신고 하+ㄴ, 등록하+ㄴ 명칭을 쓰면 안 되+ㄴ다는 규정이 정당법 41조에 있다 .	ORG-B O O O O O O O O O O O O O O O O O O
-휴스가 자살하기 한 달 전에 샌프란시스코 골드만삭스에서 일하던 1년차 애널리스트 사브 슈레슈스 굽타(22)가 스스로 목숨을 끊었다 .	PER-B O O O O LOC-B ORG-B O O O PER-B PER-I PER-I O O O O
-‘여름휴가’를 끝내 +ㄴ 박근혜 대통령의 국정운영 스타일은 ‘속도전’으로 압축되고 있다 .	O O O PER-B O O O O O O O
-2016년 유통키워드는 ‘DISCOVER’ … 숨은 의미 살펴보 .	O O O O O O O O
-북측 함정이나 해안에서 우리 민경대원에게 총포격을 가하는 상황까지 포함되 +ㄴ 것으로 알려지었다 .	O O O O ORG-B O O O O O O O O
-밥 한 공기는 300~350kc al이다 .	O O O O O O
-3탄수화물은 아침부터 오후 3시까지만 먹는다 .	TIM-I O O O O O
-타입별 가구 수는 59㎡A317가구, 59㎡ B142가구, 59㎡ C74가구, 76㎡A175가구, 76㎡ B161가구, 76㎡C88가구, 84㎡A129가구, 84㎡ B75가구, 84㎡C74가구, 125㎡60가구 등으로 구성되었다 .	O O O O O O O O O O O O O O O O O O O O
-문 대표와 가깝ㄴ 한의원은 “문 대표는 대안 없는 사퇴는 무책임하다고 보지만 대안이 마련되면 대표직을 내려놓겠다는 생각”이라고 전하였다 .	PER-B O O O PER-B O O O O O O O O O O O O O
-연구 결과는 ‘네이처’의 자매지 이+ㄴ ‘네이처 커뮤니케이션스’ 1월 13일자 온라인판에 게재되었다 .	O O O O O O O O O O O O
+박 대통령 은 “ 최근 에 는 5 차 핵 실험 을 준비하 고 있 는 상황 이 포착 이 되 고 있 다 ” 며 “ 북한 이 고립 회피 와 체제 결속 을 위해 어떤 돌발적 도발 을 감행할지 알 수 없 는 상황 ” 이라고 우려 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+검찰 은 김 전 차관 이 한 달 에 두 번 씩 장 씨 를 개별적 으로 만나 문체부 인사 및 최 씨 의 각종 사업 을 논의한 정황 도 포착 했 다 .	O O PER-B O O O O O O O O O PER-B O O O O O ORG-B O O PER-B O O O O O O O O O O O O
+안정적 으로 담 을 수 있 는 장점 이 있 다 ” 면서 “ 결국 두 회사 제품 을 선택한 완성 차 메이커 들 의 판도 에 따 라 두 회사 간 희비 도 엇갈릴 전망 ” 이라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+선관위 관계자 는 이날 통화 에서 “ 다른 정당 이 이미 신고한 , 등록한 명칭 을 쓰 면 안 된다는 규정 이 정당법 41 조 에 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+휴스 가 자살하 기 한 달 전 에 샌프란시스코 골드만삭스 에서 일하 던 1 년 차 애널리스트 사브 슈 레 슈스 굽타 ( 22 ) 가 스스로 목숨 을 끊 었 다 .	PER-B O O O O O O O LOC-B ORG-B O O O O O O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O
+‘ 여름휴가 ’ 를 끝낸 박근혜 대통령 의 국정 운영 스타일 은 ‘ 속도전 ’ 으로 압축되 고 있 다 .	O O O O O PER-B O O O O O O O O O O O O O O O
+2016 년 유통 키워드 는 ‘ DISCOVER ’ … 숨 은 의미 살펴보 니	DAT-B DAT-I O O O O O O O O O O O O
+북측 함정 이나 해안 에서 우리 민경 대원 에게 총 포격 을 가하 는 상황 까지 포함된 것 으로 알려 졌 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O
+밥 한 공기 는 300 ~ 350 kcal 이 다 .	O O O O O O O O O O O
+3 탄수화물 은 아침 부터 오후 3 시 까지 만 먹 는다 .	O O O O O TIM-B TIM-I TIM-I O O O O O
+타입 별 가구 수 는 59 ㎡ A 317 가구 , 59 ㎡ B 142 가구 , 59 ㎡ C 74 가구 , 76 ㎡ A 175 가구 , 76 ㎡ B 161 가구 , 76 ㎡ C 88 가구 , 84 ㎡ A 129 가구 , 84 ㎡ B 75 가구 , 84 ㎡ C 74 가구 , 125 ㎡ 60 가구 등 으로 구성 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문 대표 와 가까 운 한 의원 은 “ 문 대표 는 대안 없 는 사퇴 는 무책임하 다고 보 지만 대안 이 마련되 면 대표 직 을 내려놓 겠 다 는 생각 ” 이라고 전 했 다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+연구 결과 는 ‘ 네이처 ’ 의 자매지 인 ‘ 네이처 커뮤니케이션스 ’ 1 월 13 일 자 온라인 판 에 게재 됐 다 .	O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O

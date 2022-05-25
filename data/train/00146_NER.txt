@@ -1,15 +1,15 @@
-붙박이 주전을 노리는 김현수(29·볼티모어 오리올스)가 12경기 연속 출루 행진을 잇어 +가았다 .	O O O ORG-B ORG-I O O O O O O O
-환경과학원 김필제 위해성 평가연구과장은 "환경오염물질이 청소년들에 미치는 위험을 조사하기 위하+여서 +ㄴ 노출기간·빈도 등에 대하+ㄴ표준화되+ㄴ자료가 필요하다 .	ORG-B PER-B O O ORG-B O O O O O O O O O O O
-새정치연합 소속 이상민 국회법사위원장은 “여야가 합의 하+ㄴ 5개 법안 처리가 국회법 위반”이라며 법사위 상정을 거부하였다 .	ORG-B O PER-B ORG-B O O O O O O O O ORG-B O O O
-[책의 향기/150자 서평]중국통사 .	O O O O
-이날 NHK 자체 집계에 따르면 전날 오후 '민들레' 상륙 이후 그 이동경로에 있었던 도쿄도와지바(千葉) 현 등 간토(關東) 지방 8개 광역지방자치단체의 태풍 관련 인명피해신고 건수는 이날 오전 7시 현재까지 사망자 1명에 부상자 61명이 +ㄴ 것으로 집계되었다 .	O ORG-B O O O O O O O O O O O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O O
-특히 빼빼로는 싱가폴, 말레이시아, 필리핀 등에서 크+ㄴ인기를 얻고 있다 .	O O LOC-B LOC-B LOC-B O O O O O
-법무부 “유승준 입국 금지 해제-한국 국적 회복 고려 안해”못 박아 ‘병역기피 논란’으로 입국금지되+ㄴ 가수 유승준(스티브 유)이 19일 인터넷 생방송을 앞두 +ㄴ 가운데, 법무부가 유승준의 입국 금지 해제와 국적 회복 문제 등에 대하+여“고려하고 있지 않다”는 공식 입장을 밝히었다 .	ORG-B PER-B O O O O O O O O O O O O PER-B PER-I O O O O O O ORG-B PER-B O O O O O O O O O O O O O O
-김영철은 26일 자신의 인스타그램을 통하+여무대에서 +ㄴ 소감도 밝히었다 .	PER-B O O O O O O O O
-스마트폰 내비게이션 앱 ‘아틀란 3D 클라우드’ 올해 250만 다운로드 돌파 예 .	O O O O O O O O O O O O
-지나+ㄴ 3일 임기가 끝나 +ㄴ 김근수 전 협회장은 기획재정부 국고국장 출신이었다 .	O O O O O PER-B O O ORG-B O O O
-중앙일보 <2016년 4월5일자>120억원대 주식 대박 사건, 검찰 즉각 수사 하+여야 ‘120억원대 주식 대박 사건’에 대하+ㄴ 법무부 수뇌부의 미온적이+ㄴ 태도는 국민은 물론 법무·검찰 조직원들에게도 크+ㄴ 실망감을 안기+어주고 있다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-[신동아 10월호/ 이영미의 스포츠 Z OOM人 .	O O PER-B O O O O
-나라마다 정도는 다르지만 유럽 왕실의 위상이 옛날 같지 않다 .	O O O ORG-B ORG-I O O O O O
-프리미엄 트림은 기존과 동일하+ㄴ 사양이 유지되었지만 100만원 저렴하+여지+ㄴ 것이 특징이다 .	O O O O O O MNY-B O O O O
-100명 중 16명은 1번을, 나머지 84명은 3번을 선택하였다 .	O O O O O O O O O
+붙박이 주전 을 노리 는 김현수 ( 29 · 볼티모어 오리올스 ) 가 12 경기 연속 출루 행진 을 이 어 갔 다 .	O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O
+환경 과학원 김필제 위해 성 평가 연구 과장 은 " 환경오염 물질 이 청소년 들 에 미치 는 위험 을 조사하 기 위해선 노출 기간 · 빈도 등 에 대한 표준화된 자료 가 필요하 다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새정치연합 소속 이상민 국회 법사 위원장 은 “ 여야 가 합의한 5 개 법안 처리 가 국회법 위반 ” 이 라며 법사위 상정 을 거부 했 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+[ 책 의 향기 / 150 자 서평 ] 중국 통사 外	O O O O O O O O O O O O
+이날 NHK 자체 집계 에 따르 면 전날 오후 ' 민들레 ' 상륙 이후 그 이동 경로 에 있 었 던 도쿄도 와 지바 ( 千葉 ) 현 등 간토 ( 關東 ) 지방 8 개 광역 지방 자치 단체 의 태풍 관련 인명 피해 신고 건수 는 이날 오전 7 시 현재 까지 사망자 1 명 에 부상자 61 명 인 것 으로 집계 됐 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B LOC-I LOC-I LOC-I LOC-I O LOC-B O LOC-B O O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O
+특히 빼빼로 는 싱가폴 , 말레이시아 , 필리핀 등 에서 큰 인기 를 얻 고 있 다 .	O O O LOC-B O LOC-B O LOC-B O O O O O O O O O O
+법무부 “ 유승준 입국 금지 해제 - 한국 국적 회복 고려 안 해 ” 못 박 아 ‘ 병역 기피 논란 ’ 으로 입국 금지된 가수 유승준 ( 스티브 유 ) 이 19 일 인터넷 생방송 을 앞둔 가운데 , 법무부 가 유승준 의 입국 금지 해제 와 국적 회복 문제 등 에 대해 “ 고려하 고 있 지 않 다 ” 는 공식 입장 을 밝 혔 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B PER-I O O DAT-B DAT-I O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김영철 은 26 일 자신 의 인스타그램 을 통해 무대 에 선 소감도 밝 혔 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O
+스마트 폰 내비게이션 앱 ‘ 아 틀 란 3 D 클라우드 ’ 올 해 250 만 다운로드 돌파 예상	O O O O O O O O O O O O O O O O O O O
+지난 3 일 임기 가 끝난 김근수 전 협회 장 은 기획 재정부 국고 국장 출신 이 었 다 .	O DAT-B DAT-I O O O PER-B O O O O ORG-B ORG-I O O O O O O O
+중앙일보 < 2016 년 4 월 5 일자 > 120 억 원 대 주식 대박 사건 , 검찰 즉각 수사해야 ‘ 120 억 원 대 주식 대박 사건 ’ 에 대한 법무부 수뇌부 의 미온적 인 태도 는 국민 은 물론 법무 · 검찰 조직원 들 에게 도 큰 실망감 을 안겨 주 고 있 다 .	O O DAT-B DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 신동아 10 월 호 / 이영미 의 스포츠 ZOOM 人 ]	O O DAT-B DAT-I O O PER-B O O O O O
+나라 마다 정도 는 다르 지만 유럽 왕실 의 위상 이 옛날 같 지 않 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O
+프리미엄 트림 은 기존 과 동일한 사양 이 유지 됐 지만 100 만 원 저렴해 진 것 이 특징 이 다 .	O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+100 명 중 16 명 은 1 번 을 , 나머지 84 명 은 3 번 을 선택 했 다 .	O O O O O O O O O O O O O O O O O O O O O

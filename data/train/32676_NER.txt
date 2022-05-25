@@ -1,13 +1,13 @@
-YG엔터테인먼트 소속의 위너, 아이콘도 모두 리얼리티 프로그램으로 대중에 먼저 인사하었다 .	ORG-B O ORG-B ORG-B O O O O O O O
-익동다방은 골목길과 마당을 포함하+여서 21평 규모 +이지만 실제 사용하는 공간은 15평 정도+이다 .	LOC-B O O O O O O O O O O O O
-‘씨스타’ 효린, 환상적 이+ㄴ 비키니 몸매 공개…구릿빛 피부 ‘눈길 .	ORG-B PER-B O O O O O O O O
-오히려 일본군 위안부 피해자 중에는 “합의 자체는 불가피하였고 받아들이겠다”는 사람도 있다 .	O ORG-B ORG-I O O O O O O O O O
-앞서 죠스떡볶이는 지나 +ㄴ 4월 브랜드와 관련되 +ㄴ 다양하+ㄴ 동영상 콘텐츠를 제작하는 죠스미디어 사업단을 구축하+ㄴ바 있다 .	O ORG-B O O O O O O O O O O ORG-B ORG-I O O O
-시즌5승 사냥과 상금 왕 굳히기에 나서 +었던 전인지는 전날까지 박성현 등과 공동 선두를 달리었지만 3라운드에서 3오버파를 기록하며 최종 합계 7언더파로 공동 11위에 머무르었다 .	O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O
-‘보면서도/ 못 믿겠어. ‘하상욱(35) 시인이 1일 자신의 SNS에 올리+ㄴ시+이다 .	O O O PER-B O O O O O O
-하상욱 단편시집 ‘뉴스’의 구절이다 .	PER-B O O O O
-육군 소위 2명, 여대생 집단 성폭행 혐 .	O O O O O O O O
-소식통은 북한이 취급하는 일제 중고차는 닛산 블루버드와 도요타 캄리, 크라운, 크레시다 등 중고급 승용차들이 주종을 이루고 있으며 대개 출고되+ㄴ지 5∼10년 이+ㄴ이들 승용차들은 중국의 암시장에서 8­9만인 민폐에 거래되고 있다고 밝히었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O MNY-B O O O O O
-황 총리 일행이 등장하자 주민들은 “물러가라” “사드 반대”라고 외치었다 .	PER-B O O O O O O O O O
-두 사람은 단순 하+ㄴ 회사 동료다 .	O O O O O O O
-그러나 중요하+ㄴ 것은 한반도 주변 강국이 모두 남북한에 일정 하+ㄴ 영향력을 행사하+ㄹ 수 있는 상황이 오+ㄹ 때, 이것이 앞으로의 한반도 통일에 어떤 영향을 미치게 되+ㄹ 것이 +ㄴ가 하는 점이다 .	O O O LOC-B O O O LOC-B O O O O O O O O O O O LOC-B O O O O O O O O O O
+YG 엔터테인먼트 소속 의 위너 , 아이콘 도 모두 리얼리티 프로그램 으로 대중 에 먼저 인사 했 다 .	ORG-B ORG-I O O ORG-B O ORG-B O O O O O O O O O O O O
+익 동다방 은 골목길 과 마당 을 포함해서 21 평 규모 지만 실제 사용하 는 공간 은 15 평 정도 다 .	LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O
+‘ 씨스타 ’ 효 린 , 환상적 인 비키니 몸매 공개 … 구릿빛 피부 ‘ 눈길 ’	O ORG-B O PER-B PER-I O O O O O O O O O O O O
+오히려 일본 군 위안부 피해자 중 에 는 “ 합의 자체 는 불가피 했 고 받아들이 겠 다 ” 는 사람 도 있 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+앞서 죠스 떡볶이 는 지난 4 월 브랜드 와 관련된 다양한 동영상 콘텐츠 를 제작하 는 죠스 미디어 사업 단 을 구축한 바 있 다 .	O ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O
+시즌 5 승 사냥 과 상금 왕 굳히 기 에 나섰 던 전인지 는 전날 까지 박성현 등 과 공동 선두 를 달 렸 지만 3 라운드 에서 3 오버 파 를 기록하 며 최종 합계 7 언더 파 로 공동 11 위 에 머물 렀 다 .	O O O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 보 면서 도 / 못 믿 겠 어 . ‘ 하상욱 ( 35 ) 시인 이 1 일 자신 의 SNS 에 올린 시 다 .	O O O O O O O O O O O PER-B O O O O O DAT-B DAT-I O O O O O O O O
+하상욱 단편 시집 ‘ 뉴스 ’ 의 구절 이 다 .	PER-B O O O O O O O O O O
+육군 소위 2 명 , 여대생 집단 성폭행 혐의	O O O O O O O O O
+소식통 은 북한 이 취급하 는 일제 중고차 는 닛산 블루버드 와 도요타 캄리 , 크라운 , 크레시 다 등 중 고급 승용차 들 이 주종 을 이루 고 있 으며 대개 출고된 지 5 ∼ 10 년 인 이 들 승용차 들 은 중국 의 암시장 에서 8 ­ 9 만 인민폐 에 거래되 고 있 다고 밝 혔 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O MNY-B O MNY-B MNY-I MNY-I O O O O O O O O O
+황 총리 일행 이 등장하 자 주민 들 은 “ 물러가 라 ” “ 사드 반대 ” 라고 외 쳤 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+두 사람 은 단순한 회사 동료 다 .	O O O O O O O O
+그러나 중요한 것 은 한반도 주변 강국 이 모두 남 북한 에 일정한 영향력 을 행사할 수 있 는 상황 이 올 때 , 이것 이 앞 으로 의 한반도 통일 에 어떤 영향 을 미치 게 될 것 인가 하 는 점 이 다 .	O O O O LOC-B O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-게다가 제러미 코빈 노동당 대표가 찬성표를 던지라는 지침을 소속 의원들에게 내리+ㅁ으로써 대다수 노동당 의원들의 표까지 더하여 +지+었다 .	O PER-B PER-I ORG-B O O O O O O O O ORG-B O O O O O
-왼쪽에는 ‘사하라’라고 불리는 100야드 거리의 길+ㄴ벙커가 위협적이며 반대편에는 230야드 지점부터 그린까지 4개의 벙커가 도사리고 있다 .	O O O O O O O O O O O O O O O O
-한편, 소녀시대는 다음달 7일 오후 10시 각종 온라인 음원 사이트를 통하+여선행 싱글 ‘파티(PARTY)’ 음원을 공개하고 본격적 이+ㄴ 활동에 나서 +ㄴ다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
-이는 지난해 2월 발표 하+ㄴ 정규 4집 ‘미스터 미스터(Mr. Mr.)’ 이후 약 1년 6개월 만의 국내 컴백이다 .	O O O O O O O O O O O O O O O O O O
-소녀시대는 다채롭 ㄴ 음악과 활동을 선보이고자 선행 싱글 ‘파티’에 이어 ‘라이온 하트(LionHeart)’, ‘유씽크(YouThink)’를 더블 타이틀로 한 정규 앨범을 순차적으로 발표하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-1구(區)에서 20구까지, 구마다 25~30㎞씩 직접 길을 걷었습니다 .	O O O O O O O O
-“비판론자들은 5·31 개혁이 신자유주의를 과도하게 추구하고 경제논리가 교육을 지배하였다고 하+ㄴ다 .	O O O O O O O O O O O
-지나+ㄴ 1일 교토(京都)나 +의 시모가모(下鴨) 신사시설 11곳과 나라(奈良) 현 요시노(吉野町)의 국보긴 푸센+하지(金峯山寺) 등에서도 불분명 액체가 뿌리+어지+ㄴ 사건이 발생하였다 .	LOC-I O LOC-B O LOC-B O O LOC-B O LOC-B O LOC-B O O O O O O O
-지난해 광역시도 중 전입자보다 전출자가 많은 인구 순유 출시도는 서울(-1.4%), 대전(-0.7%), 울산(-0.7%) 등 9개 +이었다 .	O O O O O O O O O LOC-B LOC-B LOC-B O O O O
-해태의 또 다른 외국인 선수에 디피어슨은 나중에 현대에서 뛰었지만 팀 합류를 미루면서 허벅지 부상을 이유로 4월 6일 등록 말소되기도 +였다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O
-『군사정권의 잔재들이 +ㄴ「 호랑이」를 잡으러 민자당에 입당하였다지만, 결국 「호랑이」의 「충직하+ㄴ 개」로 전락하여 「재야」를 욕되게 하고 말았다 .	O O O O O ORG-B O O O O O O O O O O O
-자사가 서비스하고 티노게임즈(대표 김동효)가 개발하+ㄴ 신작 게임 '마제스티아'의 파이널 테스트에 돌입하+ㄴ 것.이번 파이널 테스트는 전 세계 이용자들을 대상으로 게임 내 주요 콘텐츠의 최종 점검을 목적으로 2일(목)부터 6일(월)까지 진행되며, 테스트 기간 동안 이용자들의 랭킹을 실시간으로 업데이트 하+여 전략대전의 묘미이+ㄴ 경쟁 요소를 더욱 강화시키+ㄴ다는 계획이다 .	O O ORG-B PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-'마제스티아'는 지난해 실시하+ㄴ한국, 미국, 일본 CBT(비공개 테스트)를 통하+여 게임성을 강화하+ㄴ후 첫 공개되는 만큼 글로벌 이용자들의 크+ㄴ 관심을 모으고 있으며, 현재 진행 중 이+ㄴ 글로벌 사전 예약을 마치 +ㄴ 안드로이드 기기 이용자+이라면 누구나 테스트에 참여 하+ㄹ 수 있다 .	O O ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-참가자들은 동양, 서양, 올림푸스, 판타지, 암흑 등 5개의 연합으로 구성되 +ㄴ 영웅들을 활용하+여 다양하+ㄴ스킬과 병과 조합 등 폭넓은 전략 플레이를 즐기+ㄹ 수 있으며, 컴투스는 '마제스티아'의 글로벌 정식 출시 전까지 사전 예약을 진행하+ㄴ다는 계획이다 .	O ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+게다가 제러미 코빈 노동당 대표 가 찬성표 를 던지 라는 지침 을 소속 의원 들 에게 내림 으로써 대다수 노동당 의원 들 의 표 까지 더해 졌 다 .	O PER-B PER-I ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+왼쪽 에 는 ‘ 사하라 ’ 라고 불리 는 100 야드 거리 의 긴 벙커 가 위협적 이 며 반대편 에 는 230 야드 지점 부터 그린 까지 4 개 의 벙커 가 도사리 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 소녀 시대 는 다음 달 7 일 오후 10 시 각종 온라인 음원 사이트 를 통해 선행 싱글 ‘ 파티 ( PARTY ) ’ 음원 을 공개하 고 본격적 인 활동 에 나선다 .	O O ORG-B ORG-I O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O
+이 는 지난해 2 월 발표한 정규 4 집 ‘ 미스터 미스터 ( Mr . Mr . ) ’ 이후 약 1 년 6 개월 만 의 국내 컴백 이 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소녀 시대 는 다채로 운 음악 과 활동 을 선보이 고자 선행 싱글 ‘ 파티 ’ 에 이어 ‘ 라이온 하트 ( Lion Heart ) ’ , ‘ 유 씽크 ( You Think ) ’ 를 더블 타이틀 로 한 정규 앨범 을 순차적 으로 발표한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 구 ( 區 ) 에서 20 구 까지 , 구 마다 25 ~ 30 ㎞ 씩 직접 길 을 걸 었 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+“ 비판 론자 들 은 5 · 31 개혁 이 신자유주의 를 과도하 게 추구하 고 경제 논리 가 교육 을 지배 했 다고 한다 .	O O O O O DAT-B DAT-I DAT-I O O O O O O O O O O O O O O O O O O
+지난 1 일 교토 ( 京都 ) 내 시모가 모 ( 下鴨 ) 신사 시설 11 곳 과 나라 ( 奈良 ) 현 요시노 ( 吉野町 ) 의 국보 긴푸센 지 ( 金峯山寺 ) 등 에서 도 불분명 액체 가 뿌려 진 사건 이 발생 했 다 .	O DAT-B DAT-I LOC-B O LOC-B O O LOC-B LOC-I O LOC-B O O O O O O LOC-B O LOC-B O O LOC-B O LOC-B O O O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O
+지난해 광역시 도 중 전입자 보다 전출자 가 많 은 인구 순 유출 시도 는 서울 ( - 1.4 % ) , 대전 ( - 0.7 % ) , 울산 ( - 0.7 % ) 등 9 개 였 다 .	O O O O O O O O O O O O O O O LOC-B O O O O O O LOC-B O O O O O O LOC-B O O O O O O O O O O O
+해태 의 또 다른 외국인 선수 에디 피어슨 은 나중 에 현대 에서 뛰 었 지만 팀 합류 를 미루 면서 허벅지 부상 을 이유 로 4 월 6 일 등록 말소 되 기 도 했 다 .	ORG-B O O O O O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O
+『 군사 정권 의 잔재 들 인 「 호랑이 」 를 잡 으러 민자당 에 입당 했 다지만 , 결국 「 호랑이 」 의 「 충직한 개 」 로 전락하 여 「 재야 」 를 욕되 게 하 고 말 았 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자사 가 서비스하 고 티 노 게임즈 ( 대표 김동효 ) 가 개발한 신작 게임 ' 마제스티 아 ' 의 파이널 테스트 에 돌입한 것 . 이번 파이널 테스트 는 전 세계 이용자 들 을 대상 으로 게임 내 주요 콘텐츠 의 최종 점검 을 목적 으로 2 일 ( 목 ) 부터 6 일 ( 월 ) 까지 진행되 며 , 테스트 기간 동안 이용자 들 의 랭킹 을 실시간 으로 업데이트해 전략 대전 의 묘미 인 경쟁 요소 를 더욱 강화 시킨다는 계획 이 다 .	O O O O ORG-B ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 마제스티 아 ' 는 지난해 실시한 한국 , 미국 , 일본 CBT ( 비공개 테스트 ) 를 통해 게임 성 을 강화한 후 첫 공개되 는 만큼 글로벌 이용자 들 의 큰 관심 을 모으 고 있 으며 , 현재 진행 중 인 글로벌 사전 예약 을 마친 안드로이드 기기 이용자 라면 누구 나 테스트 에 참여할 수 있 다 .	O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+참가자 들 은 동양 , 서양 , 올림푸스 , 판타지 , 암흑 등 5 개 의 연합 으로 구성된 영웅 들 을 활용해 다양한 스킬 과 병 과 조합 등 폭넓 은 전략 플레이 를 즐길 수 있 으며 , 컴투스 는 ' 마제스티 아 ' 의 글로벌 정식 출시 전 까지 사전 예약 을 진행한다는 계획 이 다 .	O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O

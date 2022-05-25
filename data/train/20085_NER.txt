@@ -1,17 +1,17 @@
-쇼타, 세+ㄴ가고다이(이상 23·소프트뱅크), 야수는 야마다 데쓰토(24·야쿠르트), 기쿠치료 스케(26·히로시마), 쓰쓰고 요시토모(24·요코하마)가 대표팀 주축으로 나서 +ㄹ 전망이다 .	PER-B PER-B ORG-B PER-B PER-B ORG-B PER-B ORG-B PER-B ORG-B ORG-B O O O O O
-시드니모닝헤럴드는 "스파이서가 브리핑에서 '턴불(Turnbull)'을 '트런불(Tru nbull)'이라고 두 번이나 잘못 발음하었다"고 꼬집으면서 풀리지 않은 앙금을 드러내+었다 .	ORG-B PER-B PER-I O O O O O O O O O O O O O
-전교조는 반발하고 있다 .	ORG-B O O O
-SBS런닝맨, 자막에 노 전 대통령 비하 ‘일베’ 용어… 오타실수+이라고 .	O O PER-B O O O O O O O
-‘유전자 검사’ 김현중, 앞서 +어자필 편지서 “군대 동료들로부터 용기를 받으며 … .	O O PER-B O O O O O O O O O
-특히 하니는 승무원 복장으로 색다르+ㄴ 매력을 발산하며 눈길을 끌었다 .	O PER-B O O O O O O O O
-한편, 이날 하니 가 출연하+ㄴ JTBC ‘크라임씬2’에서는 초호화 크루즈에서 벌어 지+ㄴ의 문의 살인 사건을 배경으로 치열 하+ㄴ 추리 대결이 펼쳐지었다 .	O O PER-B O PER-B O O O O O O O O O O O PER-B O O O O
-이날 ‘크라임씬2’에서는 ‘센터 크루즈’의 부선장이+ㄴ 유기환이 지하 창고에서 총에 맞아 숨지+ㄴ 채 발견되었다 .	O O O O O PER-B O O O O O O O O
-홍진영, ‘행사 여왕’ 인증… “피크일 때 6~7개 .	PER-B O O O O O O O
-이 병원은 돈 없으면 환자도 내쫓느냐’며 20여분 동안 욕설을 하고 난동을 부리+ㄴ 혐의를 받고 있다 .	O O O O O O O O O O O O O O O O
-경찰 조사 결과, 박씨는 지나 +ㄴ 1월 13일부터 2월 12일까지 모두 10차례에 걸치+어부산 지역 종합병원을 돌아다니며 술에 취하+여행패를 부리+ㄴ 것으로 드러나 +았다 .	O O O PER-B O O O O O O O O LOC-B O O O O O O O O O O
-경찰은 박씨가 술만 마시면 병원에 가+아서 치료를 하+여달라고 떼를 쓰+ㄴ 것으로 보이+ㄴ다고 설명하였다 .	O PER-B O O O O O O O O O O O O
-피해신고를 접수받은 경찰은 병원 진료기록과 폐쇄회로(CC) TV를 통하+여 박씨의 모습을 확인하고 검거하였다 .	O O O O O O O O PER-B O O O O
-황교안 후보자는 이날 증인 참고인 대상 질의에는 출석하지 않도록 특위 차원에서 조정되+어두 사람은 이날 청문회장에서 직접 만나지는 않았다 .	PER-B O O O O O O O O O O O O O O O O O O
-황교안 후보자와 노회찬 전 의원은 경기고 72회 동기동창이다 .	PER-B O PER-B O O ORG-B O O O
-손정의가 얼마에 알리바바 주식을 사들이었는지 (평균 매입가격)는 공개하지 않았다 .	PER-B O ORG-B O O O O O O O
-국민생활체육회는 동계생활체육대축전이 동계스포츠의 활성화와 동계종목에 대하+ㄴ국민적 관심을 불러일으키+ㄹ 것으로 기대하며, 앞으로도 매년 개최 하+ㄹ 예정이다 .	ORG-B ORG-I O O O ORG-B O O O O O O O O O O
+쇼 타 , 센가 고 다이 ( 이상 23 · 소프트뱅크 ) , 야수 는 야마다 데쓰 토 ( 24 · 야쿠르트 ) , 기쿠치 료스케 ( 26 · 히로시마 ) , 쓰쓰 고 요시토 모 ( 24 · 요코하마 ) 가 대표 팀 주축 으로 나설 전망 이 다 .	PER-B PER-I O PER-B PER-I PER-I O O O O ORG-B O O PER-B O PER-B PER-I PER-I O O O ORG-B O O PER-B PER-I O O O ORG-B O O PER-B PER-I PER-I PER-I O O O ORG-B O O ORG-B ORG-I O O O O O O O
+시드니모닝헤럴드 는 " 스파이 서 가 브리핑 에서 ' 턴불 ( Turnbull ) ' 을 ' 트런불 ( Trunbull ) ' 이라고 두 번 이나 잘못 발음 했 다 " 고 꼬집 으면서 풀리 지 않 은 앙금 을 드러냈 다 .	ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전교조 는 반발하 고 있 다 .	ORG-B O O O O O O
+SBS 런닝맨 , 자막 에 노 전 대통령 비하 ‘ 일베 ’ 용어 … 오타 실수 라고 ?	O O O O O PER-B O O O O O O O O O O O O
+‘ 유전자 검사 ’ 김현중 , 앞서 자필 편지 서 “ 군대 동료 들 로부터 용기 를 받 으며 … ”	O O O O PER-B O O O O O O O O O O O O O O O O
+특히 하니 는 승무원 복장 으로 색다른 매력 을 발산하 며 눈길 을 끌 었 다 .	O PER-B O O O O O O O O O O O O O O O
+한편 , 이날 하 니 가 출연한 JTBC ‘ 크라임 씬 2 ’ 에서 는 초 호화 크루즈 에서 벌어진 의문 의 살인 사건 을 배경 으로 치열한 추리 대결 이 펼쳐 졌 다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 ‘ 크라임 씬 2 ’ 에서 는 ‘ 센터 크루즈 ’ 의 부선장 인 유기환 이 지하 창고 에서 총 에 맞 아 숨진 채 발견 됐 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+홍진영 , ‘ 행사 여왕 ’ 인증 … “ 피크 일 때 6 ~ 7 개 ”	PER-B O O O O O O O O O O O O O O O O
+이 병원 은 돈 없 으면 환자 도 내쫓 느냐 ’ 며 20 여 분 동안 욕설 을 하 고 난동 을 부린 혐의 를 받 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 조사 결과 , 박 씨 는 지난 1 월 13 일 부터 2 월 12 일 까지 모두 10 차례 에 걸쳐 부산 지역 종합 병원 을 돌아다니 며 술 에 취해 행패 를 부린 것 으로 드러났 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O
+경찰 은 박 씨 가 술 만 마시 면 병원 에 가서 치료 를 해 달 라고 떼 를 쓴 것 으로 보인다고 설명 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+피해 신고 를 접수 받 은 경찰 은 병원 진료 기록 과 폐쇄 회로 ( CC ) TV 를 통해 박 씨 의 모습 을 확인하 고 검거 했 다 .	O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+황교안 후보자 는 이날 증인 참고인 대상 질의 에 는 출석하 지 않 도록 특위 차원 에서 조정 돼 두 사람 은 이날 청문회 장 에서 직접 만나 지 는 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황교안 후보자 와 노회찬 전 의원 은 경기고 72 회 동기 동창 이 다 .	PER-B O O PER-B O O O ORG-B O O O O O O O
+손정의 가 얼마 에 알리바바 주식 을 사들 였 는지 ( 평균 매입 가격 ) 는 공개하 지 않 았 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O
+국민 생활 체육 회 는 동계 생활 체육 대축전 이 동계 스포츠 의 활성화 와 동계 종목 에 대한 국민적 관심 을 불러일으킬 것 으로 기대하 며 , 앞 으로 도 매년 개최할 예정 이 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

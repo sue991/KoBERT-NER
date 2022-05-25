@@ -1,15 +1,15 @@
-지금까지 유럽은 부채위기에서 시작하+여난민 사태까지, 여러 문제를 해결하는 데 효율적이지 못하였다 .	O ORG-B O O O O O O O O O O
-한·일 관계 타개로 가든, 관리로 가든 두 가지가 서로에 필요하+ㄹ듯 싶다 .	ORG-B O O O O O O O O O O O
-반면 현대제철의 마지막 키커 김정미는 라이벌이자 친구 이+ㄴ 전민경을 완전히 속이며 그물을 가르았다 .	O ORG-B O O PER-B O O O PER-B O O O O O
-야쿠르트 사회공헌활동의 중심에는 전 직원이 입사와 동시에 가입하는 ‘사랑의 손길펴기회’가 있다 .	ORG-B O O O O O O O O O O O
-비교적 침착 하+ㄴ 모습으로 첫 재판에 임하+ㄴ 최순실 씨. 검찰의 기소 혐의를 모두 부인 하+ 여 향후 치열 하+ㄴ 법리 대결을 예고하였다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O
-FA컵준결승전에서 페널티킥을 내주+ㄴ손흥민(25·토트넘)이 축구 매체 ESPNFC로부터 강하+ㄴ 비난을 받았다 .	O O ORG-B O O ORG-B O O O O
-정월대보름 이+ㄴ 24일 『보름달이 왜 저렇게 찌그러지었느냐』는 시민들의 문의전화가 빗발치었다 .	O O O O O O O O O O O
-문화체육관광부는 지난해 1월부터 국민과 국가가 공동창조 하+ㄴ다는 명목의 국가브랜드 사업을 추진하면서 지난해 5월과 9월에 각각 ‘대한민국의 DNA’ ‘한국답+ㅁ의 키워드’ 등 국가브랜드 공모전을 열었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-그러나 당초 정규대학에 들어가겠다는 욕심에 미국으로 +았으나 그 길은 험난하기만 +였다 .	O O O O O LOC-B O O O O O O
-작품 하나가 100만원을 호가하는 꽤 비싸+ㄴ 인형이다 .	O O MNY-B O O O O O
-한 종류의 요격미사일로는 명중률이 10∼20%에 불과하기 때문이다 .	O O O O O O O O
-그러나 전자랜드에는 포웰이 있었다 .	O ORG-B PER-B O O
-대만의 스마트폰 이용자는 전체 인구(2300만명)의 74% 이+ㄴ 1700만명.라인 가입자도 1700만명으로 스마트폰 이용자 수와 비슷하다 .	ORG-B O O O O O O ORG-B O O O O O O O
-그는 남아프리카공화국 출신 유대인이다 .	O ORG-B O O O
-DBCE 지수는 창조경제의 개념을 △아이디어 창출 △아이디어 사업화 △사업 확장 △성공 선순환 등 4단계 구조로 정의하고 각 단계를 총 32개의 핵심 지표로 측정하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+지금 까지 유럽 은 부채 위기 에서 시작해 난민 사태 까지 , 여러 문제 를 해결하 는 데 효율적 이 지 못 했 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+한 · 일 관계 타개 로 가 든 , 관리 로 가 든 두 가지 가 서로 에 필요할 듯싶 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O
+반면 현대제철 의 마지막 키커 김정미 는 라이벌 이 자 친구 인 전민경 을 완전히 속이 며 그물 을 갈 랐 다 .	O ORG-B O O O PER-B O O O O O O PER-B O O O O O O O O O O
+야쿠르트 사회 공헌 활동 의 중심 에 는 전 직원 이 입사 와 동시 에 가입하 는 ‘ 사랑 의 손길 펴기 회 ’ 가 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+비교적 침착한 모습 으로 첫 재판 에 임한 최순실 씨 . 검찰 의 기소 혐의 를 모두 부인해 향후 치열한 법리 대결 을 예고 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+FA 컵 준결승전 에서 페널티 킥 을 내준 손흥민 ( 25 · 토트넘 ) 이 축구 매체 ESPN FC 로부터 강한 비난 을 받 았 다 .	O O O O O O O O PER-B O O O ORG-B O O O O ORG-B ORG-I O O O O O O O O
+정월 대보름 인 24 일 『 보름달 이 왜 저렇 게 찌그러 졌 느냐 』 는 시민 들 의 문의 전화 가 빗발 쳤 다 .	DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+문화 체육 관광부 는 지난해 1 월 부터 국민 과 국가 가 공동 창조한다는 명목 의 국가 브랜드 사업 을 추진하 면서 지난해 5 월 과 9 월 에 각각 ‘ 대한민국 의 DNA ’ ‘ 한국 다움 의 키워드 ’ 등 국가 브랜드 공모전 을 열 었 다 .	ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+그러나 당초 정규 대학 에 들어가 겠 다는 욕심 에 미국 으로 왔 으나 그 길 은 험난하 기 만 했 다 .	O O O O O O O O O O LOC-B O O O O O O O O O O O O
+작품 하나 가 100 만 원 을 호가하 는 꽤 비싼 인형 이 다 .	O O O MNY-B MNY-I MNY-I O O O O O O O O O
+한 종류 의 요격 미사일 로 는 명중률 이 10 ∼ 20 % 에 불과하 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O
+그러나 전자랜드 에 는 포웰 이 있 었 다 .	O ORG-B O O PER-B O O O O O
+대만 의 스마트 폰 이용자 는 전체 인구 ( 2300 만 명 ) 의 74 % 인 1700 만 명 . 라인 가입자 도 1700 만 명 으로 스마트 폰 이용자 수 와 비슷하 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+그 는 남아프리카공화국 출신 유대인 이 다 .	O O ORG-B O O O O O
+DBCE 지수 는 창조 경제 의 개념 을 △ 아이디어 창출 △ 아이디어 사업 화 △ 사업 확장 △ 성공 선순환 등 4 단계 구조 로 정의하 고 각 단계 를 총 32 개 의 핵심 지표 로 측정 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

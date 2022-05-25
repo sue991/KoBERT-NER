@@ -1,12 +1,12 @@
-이 중 100조 달러 가량 이 민간부채+이다 .	O O MNY-B O O O O O
-3-2로 승리하+ㄴ 피츠버그는 시즌 최다 이+ㄴ 8연승을 달리며 39승 27패를 기록하였다 .	O O ORG-B O O O O O O O O O
-저수지 주변으로 1km가량 제주 올레 13코스가 지나 +ㄴ다 .	O O O LOC-B LOC-I LOC-I O O O
-김창근 SK수펙스추구협의회 의장을 비롯하+여 계열사 임직원들이 대거 헌혈 행사에 참여하였다 .	PER-B ORG-B O O O O O O O O O
-남편은 윤정희보다 6세 연상으로 평범 하+ㄴ 회사원.듬직하고자상하+ㄴ 모습에 끌리+어 결혼을 결심하였다고 하+ㄴ다 .	O PER-B O O O O O O O O O O O
-그 규모는 2007년 21억2000만달러+이었지만 지난해 40억8000만달러로 상승하였다 .	O O O MNY-B O MNY-B O O
-―당신의 여러 저서 중 찰스 다윈에게 딱 한 권 선물 하+ㄹ 수 있다면 무엇을 고르+ㄹ터+이+ㄴ가.“‘이기적 유전자’+이다 .	O O O O PER-B PER-I O O O O O O O O O O O
-이는 환적화물 유치로 부산항을 동북아 중심항(HubP ort)으로 발돋움시키는 유일하+ㄴ길이다 .	O O O LOC-B LOC-B LOC-I O O O O
-이 자리에서 한 참석자는 “결국 유 원내대표가 의총에서 목을 쳐달라는 것 아니겠느냐”는 말을 꺼내+었다 .	O O O O O PER-B O O O O O O O O O
-이번 행사는 2017년 새해를 맞아 새롭ㄴ 변화에 부응하고 헤펠레코리아 임직원들의 각오와 마음을 다지면서 지난해 5월 새롭게 부임하+ㄴ이승호 대표이사의 경영방침과 미래전략을 발표하는 자리가 마련되었다 .	O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O
-하지만 무더위가 기승을 부리기 시작하+ㄴ 7월이고비+이었다 .	O O O O O O O
-류 감독은 늘 “주전은 자리를 지키+어야 하고, 백업은 자리를 빼앗아야 하+ㄴ다 .	PER-B O O O O O O O O O O O
+이 중 100 조 달러 가량 이 민간 부채 다 .	O O MNY-B MNY-I O O O O O O O
+3 - 2 로 승리한 피츠버그 는 시즌 최다 인 8 연승 을 달리 며 39 승 27 패 를 기록 했 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+저수지 주변 으로 1 km 가량 제주 올레 13 코스 가 지난다 .	O O O O O O LOC-B LOC-I LOC-I LOC-I O O O
+김창근 SK 수펙스 추구 협의회 의장 을 비롯해 계열사 임직원 들 이 대거 헌혈 행사 에 참여 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O
+남편 은 윤정희 보다 6 세 연상 으로 평범한 회사원 . 듬직하 고 자상한 모습 에 끌려 결혼 을 결심 했 다고 한다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O
+그 규모 는 2007 년 21 억 2000 만 달러 였 지만 지난해 40 억 8000 만 달러 로 상승 했 다 .	O O O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O
+― 당신 의 여러 저서 중 찰스 다윈 에게 딱 한 권 선물할 수 있 다면 무엇 을 고를 텐가 . “ ‘ 이기적 유전자 ’ 다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+이 는 환적 화물 유치 로 부산 항 을 동북아 중심 항 ( Hub Port ) 으로 발돋움 시키 는 유일한 길 이 다 .	O O O O O O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O
+이 자리 에서 한 참석자 는 “ 결국 유 원내 대표 가 의총 에서 목 을 쳐 달 라는 것 아니 겠 느냐 ” 는 말 을 꺼냈 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+이번 행사 는 2017 년 새해 를 맞 아 새로 운 변화 에 부응하 고 헤펠레 코리아 임직원 들 의 각오 와 마음 을 다지 면서 지난해 5 월 새롭 게 부임한 이승호 대표이사 의 경영 방침 과 미래 전략 을 발표하 는 자리 가 마련되 었 다 .	O O O DAT-B DAT-I O O O O O O O O O O PER-B PER-I O O O O O O O O O DAT-B DAT-I DAT-I O O O PER-B O O O O O O O O O O O O O O O O
+하지만 무더위 가 기승 을 부리 기 시작한 7 월 이 고비 였 다 .	O O O O O O O O DAT-B DAT-I O O O O O
+류 감독 은 늘 “ 주전 은 자리 를 지켜야 하 고 , 백업 은 자리 를 빼앗 아야 한다 .	PER-B O O O O O O O O O O O O O O O O O O O O

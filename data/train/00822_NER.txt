@@ -1,7 +1,7 @@
-텃밭을 가꾸 +어보+ㄴ국민들의 국산 농산물 구매 의사는 67.6%로 도시농업을 체험하지 않은 사람보다 7.7%포인트 높은 것으로 나타나 +았다 .	O O O O O O O O O O O O O O O O O O
-[2015 노벨문학상 .	O O O
-공화당은 이제 트럼프를 ‘해고’하기 힘들어지었다 .	ORG-B O PER-B O O O
-전문가들은 “스팩은 상장 이후 본격적으로 M&A에 나서기 때문에 어떤 기업과 합병되+ㄹ지 알+ㄹ 수 없다”며 “따라서 우량기업 인수 경험이 많은 증권사를 찾아야 하고 무엇보다 최대 3년간 자금이 묶이+ㄹ 수 있는 만큼 여윳돈을 갖고 투자 하+여야 하+ㄴ다”고 강조하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-정상회담 실현까지의 시간을 단축시키기 위하여 예비회담에서는 의제는 논의하지 않고 그 대신 예비회담의 토의 안건은 ① 언제 ② 어디서 ③ 어떻게 의 세 가지로 국한시키었으면 하는 것이 우리측의 입장이 +ㄴ 것으로 전하+여지고 있기 때문이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
-―대안을 관철시키는 것+이직언이라고?“민정수석 시절이던 1986년 한강 세모 유람선에 서울시 공무원이 들어가려다 구타당하였다는 신문 기사가 나+았다 .	O O O O O LOC-B LOC-B LOC-I ORG-B O O O O O O O
-이상하다 싶어 직원들에게 알아보라 +였더니 유람선을 운영하는 유병언 삼우트레이딩 대표가 대통령을 팔고 다니+ㄴ다는 것+이었다 .	O O O O O O O PER-B ORG-B O O O O O O
+텃밭 을 가꿔 본 국민 들 의 국산 농산물 구매 의사 는 67.6 % 로 도시 농업 을 체험하 지 않 은 사람 보다 7.7 % 포인트 높 은 것 으로 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 2015 노벨 문학상 ]	O DAT-B O O O
+공화당 은 이제 트럼프 를 ‘ 해고 ’ 하 기 힘들어 졌 다 .	ORG-B O O PER-B O O O O O O O O O O
+전문가 들 은 “ 스팩 은 상장 이후 본격적 으로 M & A 에 나서 기 때문 에 어떤 기업 과 합병 될지 알 수 없 다 ” 며 “ 따라서 우량 기업 인수 경험 이 많 은 증권사 를 찾 아야 하 고 무엇 보다 최대 3 년 간 자금 이 묶일 수 있 는 만큼 여윳돈 을 갖 고 투자해야 한다 ” 고 강조 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정상회담 실현 까지 의 시간 을 단축 시키 기 위하 여 예비 회담 에서 는 의제 는 논의하 지 않 고 그 대신 예비회담 의 토의 안건 은 ① 언제 ② 어디 서 ③ 어떻 게 의 세 가지 로 국한 시 켰 으면 하 는 것 이 우리 측 의 입장 인 것 으로 전해 지 고 있 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+― 대안 을 관철 시키 는 게 직언 이 라고 ? “ 민정 수석 시절 이 던 1986 년 한강 세모 유람선 에 서울시 공무원 이 들어가 려다 구타 당 했 다는 신문 기사 가 났 다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-B LOC-I O ORG-B O O O O O O O O O O O O O O
+이상하 다 싶 어 직원 들 에게 알아보 라 했 더니 유람선 을 운영하 는 유병언 삼우트레이딩 대표 가 대통령 을 팔 고 다닌다는 거 였 다 .	O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O

@@ -1,12 +1,12 @@
-아두치는 김문호 타석 때 곧바로 2루를 훔치었다 .	PER-B PER-B O O O O O O
-한 달간 시범 가동을 거치+어 24시간 가동체계로 전환하였고, 지나 +ㄴ 2월 말 기준 140만t 생산과 124만t 이상의 슬래브 판매를 기록하며 1년도 채 되기 전 하루 7500t을 생산하+ㄹ 수 있는 기반을 다지었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그래서 상당수 사유지가 국유지로 돌변하+여조선총독부 소유가 +었다 .	O O O O ORG-B O O O
-양 감독은 정의윤에 대하+여 “아쉽고, 안타깝ㄴ 선수”라고 표현하였지만, 잠실구장을 쓰는 팀 특성상 수비폭이 넓고 발이 빠르+ㄴ 선수가 더 이득이라는 판단을 내리었다 .	PER-B O PER-B O O O O O LOC-B O O O O O O O O O O O O O
-한국국학진흥원 연구원이+ㄴ 저자 이정철 박사는 『대동법, 조선 최고의 개혁』(2010)을 펴내 +ㄴ 직후부터 이 책을 구상하였다고 하+ㄴ다 .	ORG-B ORG-I O PER-B O O O O O O O O O O O O O
-가석방은 형기의 3분의 1을 채우+ㄴ수형자가 대상이다 .	O O O O O O O
-명문대에 진학 하+ㄴ 구내대학생 선배 78명도 후배들을 돕는 멘토로 나서 +었다 .	O O O O O O O O O O O O
-남은 현금 4100여만원은 회수되었다 .	O O MNY-B O O
-글 ㆍ 영상 김수지 kim.sooji@joongang. co.kr, [영상=광주 북부경찰서 .	O O O PER-B O O ORG-B ORG-I O
-이 재력교육부 사립대 제도과장은 “재정능력과 대학 발전계획의 구체성 등을 평가하+여이르면 5월 중 절차를 마무리 짓게 되+ㄹ 것”이라고 말하였다 .	O ORG-B O O O O O O O O O O O O O O O O O
-10월 수도권문화행사 풍 .	O LOC-B O O
-넷마블의 '나이츠 크로니클', 日 모바일 시장 흥행 조짐 보이+ㄴ .	ORG-B O O LOC-B O O O O O O
+아두치 는 김문호 타석 때 곧바로 2 루 를 훔 쳤 다 .	PER-B O PER-B O O O O O O O O O O
+한 달 간 시범 가동 을 거쳐 24 시간 가동 체계 로 전환 했 고 , 지난 2 월 말 기준 140 만 t 생산 과 124 만 t 이상 의 슬래브 판매 를 기록하 며 1 년 도 채 되 기 전 하루 7500 t 을 생산할 수 있 는 기반 을 다 졌 다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그래서 상당수 사유지 가 국유지 로 돌변해 조선 총독부 소유 가 됐 다 .	O O O O O O O ORG-B ORG-I O O O O O
+양 감독 은 정의윤 에 대해 “ 아쉽 고 , 안타까 운 선수 ” 라고 표현 했 지만 , 잠실구장 을 쓰 는 팀 특성 상 수비 폭 이 넓 고 발 이 빠른 선수 가 더 이득 이 라는 판단 을 내 렸 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 국학 진흥 원 연구원 인 저자 이정철 박사 는 『 대동법 , 조선 최고 의 개혁 』 ( 2010 ) 을 펴낸 직후 부터 이 책 을 구상 했 다고 한다 .	ORG-B ORG-I ORG-I ORG-I O O O PER-B O O O O O O O O O O O DAT-B O O O O O O O O O O O O O
+가석방 은 형기 의 3 분 의 1 을 채운 수형자 가 대상 이 다 .	O O O O O O O O O O O O O O O O
+명문 대 에 진학한 구내 대학생 선배 78 명 도 후배 들 을 돕 는 멘토 로 나섰 다 .	O O O O O O O O O O O O O O O O O O O O
+남 은 현금 4100 여 만 원 은 회수 됐 다 .	O O O MNY-B MNY-I MNY-I MNY-I O O O O O
+글 ㆍ 영상 김수지 kim . sooji @ joongang . co . kr , [ 영상 = 광주 북부 경찰서 ]	O O O PER-B O O O O O O O O O O O O O ORG-B ORG-I ORG-I O
+이재력 교육부 사립대 제도 과장 은 “ 재정 능력 과 대학 발전 계획 의 구체성 등 을 평가해 이르 면 5 월 중 절차 를 마무리 짓 게 될 것 ” 이라고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+10 월 수도권 문화 행사 풍성	DAT-B DAT-I LOC-B O O O
+넷마블 의 ' 나이츠 크로니클 ' , 日 모바일 시장 흥행 조짐 보인다	ORG-B O O O O O O LOC-B O O O O O

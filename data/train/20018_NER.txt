@@ -1,14 +1,14 @@
-이로 인하+ 여실 제 일본 중·고등학생들의 한국 수학여행이 취소되고 있다고 일본 현지 언론도 전하고 있다 .	O O O O ORG-B O LOC-B O O O ORG-B O O O O O
-B여행사도 “일본인 비중이 적은 편이지만 실제 취소 사례가 보고되고 있다”며 “문제는 신규 예약이 저조하+ㄴ 부분”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O
-그 다음부터는 한 놈 한 놈 제치려니 어렵었어요. 시간이 없어 3등으로 졸업하였죠. 방학 두 달 동안 미치+ㄴ듯이 공부하였고 결국 고등학교 때는 반 1등이 +었어요 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-청주구장을 둘러싸 +ㄴ ‘5위 라이벌’ KIA와 한화의 첨예하+ㄴ 신경전이 2일에도 지속되었다 .	LOC-B O O O O ORG-B ORG-B O O O O O
-2월에는 두바이 관계자들을 끊임없이 접촉 하+여 한국경주마의 잠재력과 우수성을 알리었다 .	O ORG-B O O O O LOC-B O O O O
-플러그인수소차는 2016년 메르세데스 벤츠가 GLCF-Cell 개발 계획을 공개하며 생산에 착수하+ㄴ 친환경 차이기도 하다 .	O O ORG-B ORG-I O O O O O O O O O O
-대구시는 대구의료원 신임 원장에 신창규 대구시의사회정책이사(49·사진)를 확정하였다고 27일 밝히었다 .	ORG-B ORG-B O O PER-B ORG-B O O O O
-서씨는 “병원에서는 원인을 모르+ㄴ다는데 좁쌀 같은 두드러기가 부위별로 돌아가면서 계속 나고 가렵 ㄴ 증세까지 계속되니 나중에는 심리적으로 위축되기까지 +였다”고 고백하였다 .	PER-B PER-B O O O O O O PER-B O O O O O O O O O O O O
-윤시윤 해병대 만기 제대, "군 생활 쉽지 않았다" 배우 윤시윤(30) 이 해병대를 만기 제대하였다 .	PER-B ORG-B O O O O O O O PER-B O ORG-B O O O
-윤시윤 전 역현장에는 국내와 일본 등에서 모이+ㄴ 패+ㄴ 500여명이 함께 +였다 .	PER-B O O O ORG-B O O O O O O O
-알코올을 ‘생명의 불꽃’ 삼아 살아가는 안드레아스의 기이하+ㄴ 이야기.7인의 충고 이철희 짓음/답/376쪽/1만5000원의 지도 없고 실력도 없고 단합도 없는 ‘무능하+ㄴ 야당, 못 나 +ㄴ 진보’에서 벗어나는 방법은 무엇이 +ㄹ까 .	O O O O O PER-B O O O PER-B MNY-B O O O O O O O O O O O O O O O O O
-브라운은 이후 병원으로 옮기+어지+어 약물을 사용하+여인 위로 혼수상태를 유도하는 의료진의 ‘인위적 혼수상태’ 치료를 받았지만 의식을 완전히 회복하지는 못하였다 .	PER-B O O O O O O O O O O O O O O O O O O
-대학 측에 따르면 실제 장학금 수혜 여부나 학교생활에 대하+ 여온라인으로 직접 묻을 수 있는 ‘하버드 칼리지 커넥션(HCC)’ 프로그램이 가난하+ㄴ 인재들의 심리적 부담을 허물는데 결정적 역할을 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지지옥션 관계자는 “집터와 토지 모두 개인이 낙찰받아 어떤 용도로 활용하+ㄹ지 알+ㄹ 수 없지만 유형문화재가 들어서 +어 있는 곳이어서 개발하기는 쉽지 않아 보이+ㄴ다”고 설명하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+이 로 인해 실제 일본 중 · 고등학생 들 의 한국 수학여행 이 취소되 고 있 다고 일본 현지 언론 도 전하 고 있 다 .	O O O O ORG-B O O O O O LOC-B O O O O O O ORG-B O O O O O O O O
+B 여행사 도 “ 일본인 비중 이 적 은 편 이 지만 실제 취소 사례 가 보고되 고 있 다 ” 며 “ 문제 는 신규 예약 이 저조한 부분 ” 이라고 말 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 다음 부터 는 한 놈 한 놈 제치 려니 어려 웠 어요 . 시간 이 없 어 3 등 으로 졸업 했 죠 . 방학 두 달 동안 미친 듯이 공부 했 고 결국 고등학교 때 는 반 1 등 이 됐 어요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+청주 구장 을 둘러싼 ‘ 5 위 라이벌 ’ KIA 와 한화 의 첨예한 신경전 이 2 일 에 도 지속 됐 다 .	LOC-B LOC-I O O O O O O O ORG-B O ORG-B O O O O DAT-B DAT-I O O O O O O
+2 월 에 는 두바이 관계자 들 을 끊임없이 접촉해 한국 경주마 의 잠재력 과 우수성 을 알 렸 다 .	DAT-B DAT-I O O ORG-B O O O O O LOC-B O O O O O O O O O O
+플러그인 수소 차 는 2016 년 메르세데스 벤츠 가 GLC F - Cell 개발 계획 을 공개하 며 생산 에 착수한 친환경 차이 기 도 하 다 .	O O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+대구시 는 대구 의료 원 신임 원장 에 신창규 대구시 의사회 정책 이사 ( 49 · 사진 ) 를 확정 했 다고 27 일 밝 혔 다 .	ORG-B O ORG-B ORG-I ORG-I O O O PER-B ORG-B ORG-I O O O O O O O O O O O DAT-B DAT-I O O O O
+서 씨 는 “ 병원 에서 는 원인 을 모른다는 데 좁쌀 같 은 두드러기 가 부위 별 로 돌아가 면서 계속 나 고 가려 운 증세 까지 계속되 니 나중 에 는 심리적 으로 위축되 기 까지 했 다 ” 고 고백 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤시윤 해병대 만기 제대 , " 군 생활 쉽 지 않 았 다 " 배우 윤시윤 ( 30 ) 이 해병대 를 만기 제대 했 다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O ORG-B O O O O O O
+윤시윤 전역 현장 에 는 국내 와 일본 등 에서 모인 팬 500 여 명 이 함께 했 다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O
+알코올 을 ‘ 생명 의 불꽃 ’ 삼 아 살아가 는 안드레아스 의 기이한 이야기 . 7 인 의 충고 이철희 지 음 / 답 / 376 쪽 / 1 만 5000 원 의지 도 없 고 실력 도 없 고 단합 도 없 는 ‘ 무능한 야당 , 못난 진보 ’ 에서 벗어나 는 방법 은 무엇 일까 .	O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+브라운 은 이후 병원 으로 옮겨 져 약물 을 사용해 인위 로 혼수상태 를 유도하 는 의료진 의 ‘ 인위적 혼수상태 ’ 치료 를 받 았 지만 의식 을 완전히 회복하 지 는 못 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대학 측 에 따르 면 실제 장학금 수혜 여부 나 학교 생활 에 대해 온라인 으로 직접 물 을 수 있 는 ‘ 하버드 칼리지 커넥션 ( HCC ) ’ 프로그램 이 가난한 인재 들 의 심리적 부담 을 허무 는 데 결정적 역할 을 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지지옥션 관계자 는 “ 집터 와 토지 모두 개인 이 낙찰 받 아 어떤 용도 로 활용할지 알 수 없 지만 유형 문화재 가 들어서 있 는 곳 이 어서 개발하 기 는 쉽 지 않 아 보인다 ” 고 설명 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-그러면서 "이미 시애틀이 로스터 진입 보너스로 25만 달러를 지급하였고, 타석 당 인센티브로 100만 달러 정도를 더 주게 되겠지만 올 시즌 최고의 헐값 계약"이라고 강조하였다 .	O O ORG-B O O O MNY-B MNY-I O O O O MNY-B MNY-I O O O O O O O O O O O
-무실점 행진을 잇어가고 있는 오승환은 7위에 오르았다 .	O O O O PER-B O O O
-2012년 그 힉스 입자의 ‘유력 후보’를 찾아내 +ㄴ 것이 바로 LHC+이었다 .	O O O O O O O O O O O O
-이는 지금의 김은성을 규정하는 키워드이기도 하다 .	O O PER-B O O O O
-김덕안 기부장은 13일 『지금까지 북한은 7∼20㎏의 플루토늄을 추출하+ㄴ 것으로 추정되+ㄴ 다』며 『따라서 이미 플루토늄 생산 시기(92년 이전)가 상당히 지나 +았고, 계속 하+여서 3천여 명의 핵기술과학자들이 투입되고 있어, 지금쯤은 조잡 하+ㄴ 형태이기+ㄴ하지만 1∼2개의 핵무기 개발이 임박 하+ㄴ 단계에 있는 것으로 추정되+ㄴ 다』고 말하였다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이에 박 전 대통령은 탄핵 반대 세력과 보수 지지층을 결집시키+어 검찰 수사에 영향력을 행사하는 한편, ‘5월 조기 대선’에서 영향력을 가하려는 속내도 있다는 관측이 제기되 +ㄴ다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-또 영상 속에서 수차례 등장하는 ‘혼다 .	O O O O O O O
-또 GTX가 개통되어 신분당선이 연장(예정)되면 강남 접근성(강남 20분대 이용)이 크게 개선되 +ㄹ 것으로 전망되+ㄴ다 .	O O O O O LOC-B LOC-B O O O O O O O O
-더 나아가 +아 국내 2위의 축산 전문기업과 비타민B2 발효 잔여물 공급 계약도 맺었다 .	O O O O O O O O O O O O O O
-2012년 육아정책연구소가 국공립 어린이집 512곳을 대상으로 하+ㄴ 조사에서도 원장의 33.5%가 50대 이상이었다 .	O ORG-B O O O O O O O O O O O
-우리 측은 이번 회의에서 수질관리 분야에서 양국 전문가 간의 교류를 환경공동위의 협력사업으로 추진하자고 제의하였으며, 이에 대하+여 일본 측은 긍정 검토를 약속하+ㄴ 것으로 알려지었다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O
-2013년 허동수 회장의 뒤를 잇어 대표이사로 취임하였다 .	O PER-B O O O O O O
-롯데관광 측은 ‘가는 세월’의 주인공 서유석의 특별 콘서트 ‘너늙어 보+았니?나 젊어 보단다’와 색소포니스트 서정근 교수와 함께하는 4중 주합주 공연 등 한국인 탑승객을 위하+ㄴ 다양하+ㄴ쇼를 마련하+여탑승객들의 재미와 흥을 돋우+ㄹ 예정이다 .	ORG-B O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O
-블라디미르 푸틴 러시아 대통령은 테러 당일 이+ㄴ 3일 테흐놀로기 체스+하기인 스티투트 지하철역을 찾아 입구에 빨갛+ㄴ꽃을 헌화하였다 .	PER-B PER-I ORG-B O O O O O O O O O O O O O O
-이번 번역 작업에 참여하+ㄴ 하원 수성균관대 교수는 “외국전은 역대 중국 왕조가 주변국을 어떻게 인식 하+여+오았는지를 살펴보+ㄹ 수 있는 좋은 기회”라며 “조선전과 이번 외국 전 자료를 통하+여 여러 이민족에 대하+ㄴ 중국의 인식을 비교하+여보+ㄹ 수 있을 것”이라고 밝히었다 .	O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+그러 면서 " 이미 시애틀 이 로스터 진입 보너스 로 25 만 달러 를 지급 했 고 , 타석 당 인센티브 로 100 만 달러 정도 를 더 주 게 되 겠 지만 올 시즌 최고 의 헐값 계약 " 이라고 강조 했 다 .	O O O O ORG-B O O O O O MNY-B MNY-I MNY-I O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O
+무실점 행진 을 이 어 가 고 있 는 오승환 은 7 위 에 올 랐 다 .	O O O O O O O O O PER-B O O O O O O O O
+2012 년 그 힉스 입자 의 ‘ 유력 후보 ’ 를 찾아낸 것 이 바로 LHC 였 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O
+이 는 지금 의 김은성 을 규정하 는 키 워드 이 기 도 하 다 .	O O O O PER-B O O O O O O O O O O O
+김덕 안기부 장 은 13 일 『 지금 까지 북한 은 7 ∼ 20 ㎏ 의 플루토늄 을 추출한 것 으로 추정된다 』 며 『 따라서 이미 플루토늄 생산 시기 ( 92 년 이전 ) 가 상당히 지났 고 , 계속해서 3 천 여 명 의 핵 기술 과학자 들 이 투입되 고 있 어 , 지금 쯤 은 조잡한 형태 이 긴 하 지만 1 ∼ 2 개 의 핵무기 개발 이 임박한 단계 에 있 는 것 으로 추정된다 』 고 말 했 다 .	PER-B O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 박 전 대통령 은 탄핵 반대 세력 과 보수 지지 층 을 결집 시켜 검찰 수사 에 영향력 을 행사하 는 한편 , ‘ 5 월 조기 대선 ’ 에서 영향력 을 가하 려는 속내 도 있 다는 관측 이 제기된다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+또 영상 속 에서 수 차례 등장하 는 ‘ 혼다 ’	O O O O O O O O O O O
+또 GTX 가 개통되 어 신분당선 이 연장 ( 예정 ) 되 면 강남 접근성 ( 강남 20 분 대 이용 ) 이 크 게 개선될 것 으로 전망된다 .	O O O O O O O O O O O O O LOC-B O O LOC-B O O O O O O O O O O O O O
+더 나아가 국내 2 위 의 축산 전문 기업 과 비타민 B 2 발효 잔여물 공급 계약 도 맺 었 다 .	O O O O O O O O O O O O O O O O O O O O O O
+2012 년 육아 정책 연구소 가 국공립 어린이집 512 곳 을 대상 으로 한 조사 에서 도 원장 의 33.5 % 가 50 대 이상 이 었 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+우리 측 은 이번 회의 에서 수질 관리 분야 에서 양국 전문가 간 의 교류 를 환경 공동 위 의 협력 사업 으로 추진하 자고 제의 했 으며 , 이 에 대해 일본 측 은 긍정 검토 를 약속한 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+2013 년 허동수 회장 의 뒤 를 이 어 대표이사 로 취임 했 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O
+롯데 관광 측 은 ‘ 가 는 세월 ’ 의 주인공 서유석 의 특별 콘서트 ‘ 너 늙 어 봤 니 ? 나 젊 어 봤 단다 ’ 와 색소 포니 스트 서정근 교수 와 함께하 는 4 중주 합주 공연 등 한국인 탑승객 을 위한 다양한 쇼 를 마련해 탑승객 들 의 재미 와 흥 을 돋울 예정 이 다 .	ORG-B ORG-I O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+블라디미르 푸틴 러시아 대통령 은 테러 당일 인 3 일 테흐놀로기체스 키 인스티투트 지하철역 을 찾 아 입구 에 빨간 꽃 을 헌화 했 다 .	PER-B PER-I ORG-B O O O O O DAT-B DAT-I LOC-B LOC-I LOC-B LOC-I O O O O O O O O O O O O
+이번 번역 작업 에 참여한 하원수 성균관대 교수 는 “ 외국전 은 역대 중국 왕조 가 주변 국 을 어떻 게 인식해 왔 는지 를 살펴볼 수 있 는 좋 은 기회 ” 라며 “ 조선전 과 이번 외국전 자료 를 통해 여러 이민족 에 대한 중국 의 인식 을 비교해 볼 수 있 을 것 ” 이라고 밝 혔 다 .	O O O O O PER-B ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

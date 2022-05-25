@@ -1,13 +1,13 @@
-도올 김용옥, 역사교과서 국정화 맹비난 “朴 대통령 왜 이렇게 집착 하나 .	PER-B PER-I O O O PER-B O O O O O O
--1순위서만 1071가구 모집에 2443명 몰리며 평균 2.28대 1 나오아-남양산역도보 생활권, 65㎡, 72㎡, 78㎡ 중소형 틈새평면, 특화설계 상품 등으로 수요자들 호평-당첨자 발표 4/2일, 계약은 4/7일(화)~4/9일(목), 3일간 체결 경남 양산신도시에서 선보이+ㄴ ‘양산신도시 3차 EGthe1’에 수많은 청약자가 몰리면서 예견되+ㄴ 청약 성공을 거두었다 .	O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B LOC-B O LOC-B O O O O O O O O O O
-3일 개봉하는 ‘오피스’는 한 음료 회사 영업부에서 벌어지는 연쇄살인사건을 그리었다 .	O O O O O O O O O O O
-○명계남 “안희정은 노무현 업그레이드” ‘노무현을 사랑하는 사람들의 모임’(노사모) 대표를 지내+ㄴ 배우 명계남씨는 최근 한 인터뷰에서 안 지사에 대하+여 “노 전 대통령의 업그레이드 같은 느낌을 받아 가슴이 뜨거워 지+ㄴ다”고 평가하+ㄴ 것으로 알려지었다 .	PER-B PER-B PER-B O PER-B O O ORG-B O O O PER-B O O O PER-B O O PER-B O O O O O O O O O O O O O
-【싱가포르=김병석기자  .	LOC-B O O
-‘K팝스타5’ 유제이, 시즌4 우승자 케이티 김과 닮은꼴? 박진영 “뉴저지 물 먹으면 … .	O PER-B O O PER-B PER-I O PER-B LOC-B O O O O
-알프레드 은 조 남아공 외무장관은 이날 짐 스튜어드 유엔대사와 함께 박수를 받으며 오랫동안 비우어 +두었던 총회 의석으로 돌아오았으며 총회는 잇어 남아공의 신임장을 수락하+ㄹ 것을 건의하는 보고서를 공식 승인하였다 .	PER-B O O ORG-B O O PER-B PER-I O O O O O O O O O O O O ORG-B O O O O O O O O
-맨유는 이날 성소수자 차별 철폐의 메시지를 전달하기 위하+여무지 개색 완장을 택하였다 .	ORG-B O O O O O O O O O O O
-펜스 부통령은 사흘간 서울에 머물며 북한의 도발 억제에 나서 +ㄴ다 .	PER-B O O LOC-B O ORG-B O O O O O
-스타벅스는 평균 B학점 이상 취득하는 모든 파트너에게 ‘스타벅스 장학금’을 통하+여등록금을 전액 지원 하+ㄴ다 .	ORG-B O O O O O O ORG-B O O O O O O
-기상청은 오늘(15일) 서울 최저기온이 영하 8도까지 떨어지는 등 16일까지 전국적으로 올 겨울 들어 가장 강 하+ㄴ 추위가 찾아오겠다고 예보하였다 .	ORG-B O LOC-B O O O O O O O O O O O O O O O O O
-10년 전쯤 금난새는 옷 한 벌을 들고 장씨의 매장을 찾았다 .	O O PER-B O O O O PER-B PER-B O O
-중국이 국제적 테러에 대하+여 ‘원론적이+ㄴ 비난’을 하면서도 군사개입 등 행동에는 신중하+ㄴ자세를 보이는 것은 오랫동안 유지하+여오+ㄴ ‘내정불간 섭 원칙’과 관련이 깊다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+도올 김용옥 , 역사 교과서 국정 화 맹 비난 “ 朴 대통령 왜 이렇 게 집착 하나 ”	PER-B PER-I O O O O O O O O PER-B O O O O O O O
+- 1 순위 서 만 1071 가구 모집 에 2443 명 몰리 며 평균 2.28 대 1 나 와 - 남양 산역 도보 생활권 , 65 ㎡ , 72 ㎡ , 78 ㎡ 중소형 틈새 평면 , 특화 설계 상품 등 으로 수요자 들 호평 - 당첨자 발표 4 / 2 일 , 계약 은 4 / 7 일 ( 화 ) ~ 4 / 9 일 ( 목 ) , 3 일 간 체결 경남 양산 신도시 에서 선보인 ‘ 양산 신도시 3 차 EG the 1 ’ 에 수 많 은 청약 자 가 몰리 면서 예견된 청약 성공 을 거 뒀 다 .	O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O DAT-B DAT-I DAT-I DAT-I O DAT-B O O DAT-B DAT-I DAT-I DAT-I O DAT-B O O O O O O LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 일 개봉하 는 ‘ 오피스 ’ 는 한 음료 회사 영업부 에서 벌어지 는 연쇄 살인 사건 을 그 렸 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+○ 명계남 “ 안희정 은 노무현 업그레이드 ” ‘ 노무현 을 사랑하 는 사람 들 의 모임 ’ ( 노사모 ) 대표 를 지낸 배우 명계남 씨 는 최근 한 인터뷰 에서 안 지사 에 대해 “ 노 전 대통령 의 업그레이드 같 은 느낌 을 받 아 가슴 이 뜨거워진다 ” 고 평가한 것 으로 알려 졌 다 .	O PER-B O PER-B O PER-B O O O O O O O O O O O O O ORG-B O O O O O PER-B O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+【 싱가포르 = 김병석 기자 】	O LOC-B O PER-B O O
+‘ K 팝 스타 5 ’ 유제이 , 시즌 4 우승자 케이티 김 과 닮은꼴 ? 박진영 “ 뉴저지 물먹 으면 … ”	O O O O O O PER-B O O O O PER-B PER-I O O O PER-B O LOC-B O O O O
+알프레드 은조 남아공 외무 장관 은 이날 짐 스튜어드 유엔 대사 와 함께 박수 를 받 으며 오랫동안 비 워 뒀 던 총회 의석 으로 돌아 왔 으며 총회 는 이 어 남아공 의 신임장 을 수락할 것 을 건의하 는 보고서 를 공식 승인 했 다 .	PER-B PER-I ORG-B O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+맨유 는 이날 성 소수자 차별 철폐 의 메시지 를 전달하 기 위해 무지개 색 완장 을 택 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+펜스 부통령 은 사흘 간 서울 에 머물 며 북한 의 도발 억제 에 나선다 .	PER-B O O O O LOC-B O O O ORG-B O O O O O O
+스타벅스 는 평균 B 학점 이상 취득하 는 모든 파트너 에게 ‘ 스타벅스 장학금 ’ 을 통해 등록금 을 전액 지원한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+기상청 은 오늘 ( 15 일 ) 서울 최저 기온 이 영하 8 도 까지 떨어지 는 등 16 일 까지 전국적 으로 올겨울 들 어 가장 강한 추위 가 찾아오 겠 다고 예보 했 다 .	ORG-B O O O DAT-B DAT-I O LOC-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+10 년 전 쯤 금난새 는 옷 한 벌 을 들 고 장 씨 의 매장 을 찾 았 다 .	DAT-B DAT-I O O PER-B O O O O O O O PER-B O O O O O O O O
+중국 이 국제적 테러 에 대해 ‘ 원론적 인 비난 ’ 을 하 면서 도 군사 개입 등 행동 에 는 신중한 자세 를 보이 는 것 은 오랫동안 유지해 온 ‘ 내정 불간섭 원칙 ’ 과 관련 이 깊 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

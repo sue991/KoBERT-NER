@@ -1,13 +1,13 @@
-해커 ‘시즌2승’에이스 본색 … NC2연패 탈 .	PER-B O O O ORG-B O O
-13~14일 의정부 민락2지구에서 나오+ㄴ 점포 겸용 용지는 최고 1352대1, 평균 350대 1의 경쟁률을 기록하였다 .	O LOC-B LOC-I O O O O O O O O O O O O
-▷노무현 정부 초대 법무부 장관이었던 강금실 전 장관은 이임식에서 “진짜 하고 싶은 말은 못하고 떠나는 것+이 이별”이라고 말 하+여여운을 남기었다 .	O O O ORG-B O PER-B O O O O O O O O O O O O O O O
-노소영 “남편 최태원은 피해자, 이혼 없다 .	PER-B O PER-B O O O O
-이에 장윤정은 쑥스럽 ㄴ듯 “앞으로 자주 연락 드리겠습니다 .	O PER-B O O O O O O O
-그러던 중 행동대장 유 모씨(39)가 이씨에게 조직 내 반대파를 공격하라고 지시하였다 .	O O O O O PER-B O O O O O O
-KBO는 엿가락처럼 늘어지는 경기 시간을 줄이기 위 하+여올 시즌5가지 ‘스피드업’ 규정을 마련하+여스프링캠프부터 적용하고 있다 .	ORG-B O O O O O O O O O O O O O O
-또한 코웨이가 8월 초 출시하+ㄴ ‘스스로 살균 정수기 IoC are’는 우리 집 물 사용량을 분석하+여 맞춤 살균주기를 알리+어주+ㅁ에 따르 아보다 위생적이+ㄴ 관리가 가능하여 +지+었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-게다가 찰리(4승 5패, 평균 자책점 5.74)와 이재학(1승 2패, 3.69)의 부진, 마무리 김진성(종아리 부상)과 셋업맨 원종현(대장암)의 이탈은 전혀 예상하지 못하+ㄴ일이었다 .	O PER-B O O O O PER-B O O O O PER-B O O PER-B O O O O O
-대피소는 대체로 금요일과 토요일에 +ㄴ 예약이 꽉 차지만 주중에 +ㄴ한 산하다 .	O O O O O O O O O O O O
-경기도 양평에서 +았다는 주현성(61)씨도 그 중 한 명이었다 .	LOC-B LOC-I O PER-B O O O O O
-제일병원은 난임, 여성암 등 여성질환을 특화하+여 매년 2만5000여명의 외국인 환자를 유치하고 있어 병원을 찾은 환자들을 위하+여정 기적으로 다양하+ㄴ 이벤트를 개최하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-바이올린(김여진), 첼로(백유선), 기타(안형수), 퍼커션(김성광)로맨틱 앙상블로 꾸미+ㄴ ‘러브콘서트’는 제일병원에서 치료받고 있는 외국인 환자와 가족, 직원 150여명을 초청하+여 1시간 30분 동안 다양하+ㄴ 음악을 선물하였다 .	PER-B PER-B PER-B PER-B O O O ORG-B O O O O O O O O O O O O O O O
+해커 ‘ 시즌 2 승 ’ 에이스 본색 … NC 2 연패 탈출	PER-B O O O O O O O O ORG-B O O O
+13 ~ 14 일 의정부 민락 2 지구 에서 나온 점포 겸용 용지 는 최고 1352 대 1 , 평균 350 대 1 의 경쟁률 을 기록 했 다 .	O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O
+▷ 노무현 정부 초대 법무부 장관 이 었 던 강금실 전 장관 은 이임 식 에서 “ 진짜 하 고 싶 은 말 은 못 하 고 떠나 는 게 이별 ” 이라고 말해 여운 을 남 겼 다 .	O O O O ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+노소영 “ 남편 최태원 은 피해자 , 이혼 없 다 ”	PER-B O O PER-B O O O O O O O
+이 에 장윤정 은 쑥스러 운 듯 “ 앞 으로 자주 연락 드리 겠 습니다 ,	O O PER-B O O O O O O O O O O O O O
+그러 던 중 행동 대장 유모 씨 ( 39 ) 가 이 씨 에게 조직 내 반대파 를 공격하 라고 지시 했 다 .	O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O
+KBO 는 엿가락 처럼 늘어지 는 경기 시간 을 줄이 기 위해 올 시즌 5 가지 ‘ 스피드 업 ’ 규정 을 마련해 스프링 캠프 부터 적용하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 코웨이 가 8 월 초 출시한 ‘ 스스로 살균 정수기 IoCare ’ 는 우리 집 물 사용량 을 분석해 맞춤 살균 주 기 를 알려 줌 에 따 라 보다 위생적 인 관리 가 가능해 졌 다 .	O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+게다가 찰리 ( 4 승 5 패 , 평균 자책점 5.74 ) 와 이재학 ( 1 승 2 패 , 3.69 ) 의 부진 , 마무리 김진성 ( 종아리 부상 ) 과 셋업맨 원종현 ( 대장암 ) 의 이탈 은 전혀 예상하 지 못한 일 이 었 다 .	O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O
+대피소 는 대체로 금요일 과 토요일 엔 예약 이 꽉 차 지만 주 중 엔 한산하 다 .	O O O DAT-B O DAT-B O O O O O O O O O O O O
+경기도 양평 에서 왔 다는 주현성 ( 61 ) 씨 도 그중 한 명 이 었 다 .	LOC-B LOC-I O O O PER-B O O O O O O O O O O O O
+제일병원 은 난임 , 여성 암 등 여성 질환 을 특화해 매년 2 만 5000 여 명 의 외국인 환자 를 유치하 고 있 어 병원 을 찾 은 환자 들 을 위해 정기적 으로 다양한 이벤트 를 개최하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+바이올린 ( 김여진 ) , 첼로 ( 백유선 ) , 기타 ( 안형수 ) , 퍼커션 ( 김성광 ) 로맨틱 앙상블 로 꾸민 ‘ 러브 콘서트 ’ 는 제일병원 에서 치료 받 고 있 는 외국인 환자 와 가족 , 직원 150 여 명 을 초청해 1 시간 30 분 동안 다양한 음악 을 선물 했 다 .	O O PER-B O O O O PER-B O O O O PER-B O O O O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

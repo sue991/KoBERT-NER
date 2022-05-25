@@ -1,12 +1,12 @@
-장기 휴재 끝에 웹툰 ‘찌질의 역시 시즌3’를 다시 연재하고 있는 김풍.기다리+어주+ㄴ독자들에게 감사하다는 말을 연 잇어 전하던 그에게 휴재에 대하+ㄴ이야기를 빼놓을 수 없었다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O
-그는 “내가 초심으로 돌아가기에 딱 좋았던 작품이 ‘찌질의 역사’ +이었다 .	O O O O O O O O O O O
-대구관광의 상징이 되+ㄴ근대골목투어의 밤거리를 활용하+ㄴ다 .	LOC-B O O O O O
-하지만 유독 한 건물 앞 200여m 구간 앞에는 전봇대가 하나도 없다 .	O O O O O O O O O O O O
-대부분 86세대+이다 .	O O O
-수도 레이캬비크는 연기를 뜻하는 ‘레이캬’와 비크의 합성어다 .	O LOC-B O O O O O O
-30일 장마전선에서 발달 하+ㄴ저기압 영향으로 전국에 비가 내리+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O
-수수료는 납입금액의 1% .현대증권, 대구은행, 한국투자증권, 유안타증권, 유진투자증권, IBK투자증권에서 가입하+ㄹ 수 있다 .	O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O O
-울랄라세션이라는 그룹을 가지고 이야기를 하+ㄹ 수 있는, 그런 가수가 한국에 존재하었었다고 말 하+ㄹ 수 있는 그런 가수가 되고 싶다고 답하며 인터뷰를 마치었다 .	ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O O
-이 전무는 디자인 석사 학위를 김 사장이 교수를 지내+ㄴ 중앙대 대학원 서받았다 .	PER-B O O O O PER-B PER-B O O ORG-B O O O
-피츠버그로서 +ㄴ 홈이 점을 갖는다 하+ 여도아리에타+이라는 확실하+ㄴ에이스를 보유 하+ㄴ 컵스가 부담스럽 ㄹ 수밖에 없다 .	ORG-B O O O O O PER-B O O O ORG-B O O O O O
-손건영 스포츠동아미국 통신 .	PER-B LOC-B O O
+장기 휴 재 끝 에 웹 툰 ‘ 찌 질의 역시 시즌 3 ’ 를 다시 연재하 고 있 는 김풍 . 기다려 준 독자 들 에게 감사하 다는 말 을 연이 어 전하 던 그 에게 휴재 에 대한 이야기 를 빼놓 을 수 없 었 다 .	O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 내 가 초심 으로 돌아가 기 에 딱 좋 았 던 작품 이 ‘ 찌 질의 역사 ’ 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+대구 관광 의 상징 이 된 근대 골목 투어 의 밤거리 를 활용한다 .	LOC-B O O O O O O O O O O O O O
+하 지만 유독 한 건물 앞 200 여 m 구간 앞 에 는 전봇대 가 하나 도 없 다 .	O O O O O O O O O O O O O O O O O O O O
+대부분 86 세대 다 .	O O O O O
+수도 레이캬비크 는 연기 를 뜻하 는 ‘ 레이 캬 ’ 와 비크 의 합성어 다 .	O LOC-B O O O O O O O O O O O O O O O
+30 일 장마 전선 에서 발달한 저기압 영향 으로 전국 에 비 가 내릴 것 으로 보인다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O
+수수료 는 납입금 액 의 1 % . 현대증권 , 대구은행 , 한국 투자 증권 , 유안타증권 , 유진투자증권 , IBK 투자 증권 에서 가입할 수 있 다 .	O O O O O O O O ORG-B O ORG-B O ORG-B ORG-I ORG-I O ORG-B O ORG-B O ORG-B ORG-I ORG-I O O O O O O
+울랄라 세션 이 라는 그룹 을 가지 고 이야기 를 할 수 있 는 , 그런 가수 가 한국 에 존재 했었 다고 말할 수 있 는 그런 가수 가 되 고 싶 다고 답하 며 인터뷰 를 마 쳤 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+이 전무 는 디자인 석사 학위 를 김 사장 이 교수 를 지낸 중앙대 대학원 서 받 았 다 .	PER-B O O O O O O PER-B O O O O O ORG-B O O O O O O
+피츠버그 로선 홈 이점 을 갖 는다 해도 아리에타 라는 확실한 에이스 를 보유한 컵스 가 부담스러 울 수 밖에 없 다 .	ORG-B O O O O O O O PER-B O O O O O ORG-B O O O O O O O O
+손건영 스포츠 동아 미국 통신원	PER-B ORG-B ORG-I LOC-B O

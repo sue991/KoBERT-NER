@@ -1,10 +1,10 @@
-인구 10만명당 환자 수로 하면 80대 이상이 8836명으로 가장 많았고, 70대가 6103명으로 다음이었다 .	O O O O O O O O O O O O O O
-조씨가 유서를 남기지 않았을 뿐만 아니라 지난해 말부터 탄핵 반대 집회에 참석하+ㄴ다는 이유로 가정 내 불화를 겪고 있다는 정황이 제기되고 있기 때문이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-부천은 루키안(15골·4 도움)-바그닝요(9골·3 도움), 강원은 마테우스(12골)와 클래식 전북 현대 출신의 루이스(7골·4도움)에게 기대를 걸고 있다 .	ORG-B PER-B PER-B O ORG-B PER-B ORG-B ORG-I ORG-I O ORG-B O O O O
-[날씨] 6일, 기온 ‘뚝’ 당분간 강추위… 눈·비 얼어 도로 미 .	O O O O O O O O O O O
-그 밖에는 포항스틸러스(2009년)와 울산 현대(2012년)가 한 차례씩 정상에선 바 있다 .	O O ORG-B ORG-B ORG-I O O O O O O
-재래시장에서 소매치기 하+ㄴ 50대 … 잠복수사에 덜 .	O O O O O O O O
-걸스데이는 오는 7월 6일 쇼케이스를 갖고 공식적 이+ㄴ 활동에 나서 +ㄴ다 .	ORG-B O O O O O O O O O O O
-이밖에도 ‘이별 후 아무렇지 않은 듯 안부를 묻었던 행동(10.2%)’도 높은 비중을 차지하였다 .	O O O O O O O O O O O O O
-한 원장의 남편이+ㄴ 정지연 광원건설 회장은 인천 아너소사이어티82번째 회원이다 .	PER-B O O PER-B ORG-B O ORG-B ORG-I O O
-대한통운 출하 부우인식 차장(38)은 『오늘 하루 3천t의 철강제품이 수송되지 못하+ 여야 적장에 쌓이어 있다』며 『 대책이 없는 한 조업을 단축하+여야 하+ㄹ판』이라고 말하였다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+인구 10 만 명 당 환자 수 로 하 면 80 대 이상 이 8836 명 으로 가장 많 았 고 , 70 대 가 6103 명 으로 다음 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조 씨 가 유서 를 남기 지 않 았 을 뿐 만 아니 라 지난해 말 부터 탄핵 반대 집회 에 참석한다는 이유 로 가정 내 불화 를 겪 고 있 다는 정황 이 제기되 고 있 기 때문 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+부천 은 루키 안 ( 15 골 · 4 도움 ) - 바그닝 요 ( 9 골 · 3 도움 ) , 강원 은 마테우스 ( 12 골 ) 와 클래식 전북 현대 출신 의 루이스 ( 7 골 · 4 도움 ) 에게 기대 를 걸 고 있 다 .	ORG-B O PER-B PER-I O O O O O O O O PER-B PER-I O O O O O O O O ORG-B O PER-B O O O O O ORG-B ORG-I ORG-I O O ORG-B O O O O O O O O O O O O O O O
+[ 날씨 ] 6 일 , 기온 ‘ 뚝 ’ 당분간 강추위 … 눈 · 비 얼 어 도로 미끌	O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+그 밖에 는 포항 스틸러스 ( 2009 년 ) 와 울산 현대 ( 2012 년 ) 가 한 차례 씩 정상 에 선 바 있 다 .	O O O ORG-B ORG-I O DAT-B DAT-I O O ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O
+재래시장 에서 소매치기한 50 대 … 잠복 수사 에 덜미	O O O O O O O O O O
+걸스데이 는 오 는 7 월 6 일 쇼케이스 를 갖 고 공식적 인 활동 에 나선다 .	ORG-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+이 밖 에 도 ‘ 이별 후 아무렇 지 않 은 듯 안부 를 물 었 던 행동 ( 10.2 % ) ’ 도 높 은 비중 을 차지 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 원장 의 남편 인 정지연 광원 건설 회장 은 인천 아너 소사이어티 82 번째 회원 이 다 .	PER-B O O O O PER-B ORG-B ORG-I O O ORG-B ORG-I ORG-I O O O O O O
+대한통운 출하 부 우인식 차장 ( 38 ) 은 『 오늘 하루 3 천 t 의 철강 제품 이 수송 되 지 못해 야적장 에 쌓 여 있 다 』 며 『 대책 이 없 는 한 조업 을 단축해야 할 판 』 이라고 말 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

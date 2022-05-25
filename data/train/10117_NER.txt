@@ -1,16 +1,16 @@
-Ingredients 생미역 ½컵, 달걀 1개, 물 4컵, 닭가슴살 1쪽, 대파 1대(10cm), 마늘 3쪽, 간장 1작은 술, 소금·녹말 물 약간씩 Howtomake 1 미역은 흐르는 물에 씻어 먹기 좋은 크기로 썰 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-2달걀은 풀+ㄴ 뒤체에 내리+ㄴ다 .	O O O O O
-김준일 락앤락 회장(64·사진)이 아시아 국가들의 화합을 도모하기 위하+여 20억원을 출연하+ㄴ 재단법인 아시아 발전재단이 31일 발족하+ㄴ다 .	PER-B ORG-B O ORG-B O O O O MNY-B O O ORG-B ORG-I O O O
-24일 한국자동차협회에 따르면 지나+ㄴ 1월3만302대가 판매되+ㄴ SUV는 매월 수요가 증가하였다 .	O ORG-B O O O O O O O O O
-그런데 윤건이 연세대를 나오았다고 하니까 정말이냐며 '어쩜그렇게 공부도 잘하고 잘 생기고 착하냐'라고 하더라"고 윤건을 향하+ㄴ장모님의 마음을 전하였다 .	O PER-B ORG-B O O O O O O O O O O PER-B O O O O
-상당 하+ㄴ거리를 매일 비행하기가 현재로서 +ㄴ쉽지 않다고 NYT는 지적하였다 .	O O O O O O O ORG-B O O
-화승실업­국제상사 수십년 사업방향 전환 “주목 .	ORG-B O O O O O
-이현희 교수는 『서금 2로 건물은 이동휘 이동녕 신규식 선생 등 임정 요인들이 1919년 4월 10일부터 이틀간 최초의 임시의정원회의를 열는 등 한달여 동안 국호정부조직법 제정 각료 선정 등 임정정부 수립 작업을 벌이+ㄴ장소로 대한민국 정부가 탄생하+ㄴ 역사적 장소 』+이라며 『이 건물에 대하+ㄴ 기록은 조선 민족운동 연감 등 곳곳에 나타나 +아있었으나 49년 이후 본래 명칭(김 신부로)이현주소로 바뀌는 바람에 그동안 일반에 알려지지 않았다』고 말하였다 .	PER-B O LOC-B LOC-I O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O
-이 수만, 양현석, 배용준 등 연예인 주식부자들의 주식자산 평가액이 절반가량 줄었다 .	O O PER-B PER-B O O O O O O O O
-고려대를 비롯하+여 순천향대·인제대백병원 등 전국 20여개 종합병원이 무수혈 수술을 도입하였다 .	ORG-B O ORG-B O O O O O O O O
-하루짜리 유쾌하+ㄴ 휴가+이었다 .	O O O O
-OK저축은행은 챔피언 결정전을 앞두고 외국인 선수 시몬(29)이 수염을, 송명근(23)이 머리를 팀의 상징색이 +ㄴ 노란색으로 염색하였다 .	ORG-B O O O O O PER-B O PER-B O O O O O O O
-박흥식 코치“KIA 타선키맨은 최희섭 .	PER-B ORG-B O PER-B O
-독자들에게도 활짝 미소가 짓어지+ㄹ 만큼 흐뭇 하+ㄴ 선물이 되+ㄹ 것+이에요. 청딱따구리야 그런 사실을 알든 말든. 김혜진 어린이도 서평론 .	O O O O O O O O O O O O O O O PER-B O O O
-A-마운트와 E-마운트, FE-마운트 모두 칼자이 스렌즈가 전체 50%가량을 차지하+ㄹ 정도. 그러나 소니는지-마스터(G-Master)렌즈를 2016년 초에 공개하며 색다르+ㄴ 행보를 잇어나가았다 .	O O O O O O O O O O O ORG-B O O O O O O O
-“광윤사 14일 주주총회 … 신동빈 이사직 해임, 신격호 회장 주식 1주 받아 지분 과반 확보 .	ORG-B O O O PER-B O O PER-B O O O O O O O O
+Ingredients 생미역 ½ 컵 , 달걀 1 개 , 물 4 컵 , 닭 가슴살 1 쪽 , 대 파 1 대 ( 10 cm ) , 마늘 3 쪽 , 간장 1 작 은 술 , 소금 · 녹말 물 약간 씩 How to make 1 미역 은 흐르 는 물 에 씻 어 먹 기 좋 은 크기 로 썬다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 달걀 은 푼 뒤 체 에 내린다 .	O O O O O O O O O
+김준일 락앤락 회장 ( 64 · 사진 ) 이 아시아 국가 들 의 화합 을 도모하 기 위해 20 억 원 을 출연한 재단 법인 아시아 발전 재단 이 31 일 발족한다 .	PER-B ORG-B O O O O O O O LOC-B O O O O O O O O MNY-B MNY-I MNY-I O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O O
+24 일 한국자동차협회 에 따르 면 지난 1 월 3 만 302 대 가 판매된 SUV 는 매월 수요 가 증가 했 다 .	DAT-B DAT-I ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+그런데 윤건 이 연세대 를 나 왔 다고 하 니까 정말 이 냐며 ' 어쩜 그렇 게 공부 도 잘하 고 잘생기 고 착하 냐 ' 라고 하 더라 " 고 윤건 을 향한 장모님 의 마음 을 전 했 다 .	O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+상당한 거리 를 매일 비행하 기 가 현재 로선 쉽 지 않 다고 NYT 는 지적 했 다 .	O O O O O O O O O O O O O ORG-B O O O O O
+화승 실업 ­ 국제상사 수십 년 사업 방향 전환 “ 주목 ”	ORG-B ORG-I O ORG-B O O O O O O O O
+이현희 교수 는 『 서금 2 로 건물 은 이동휘 이동녕 신규식 선생 등 임정 요인 들 이 1919 년 4 월 10 일 부터 이틀 간 최초 의 임시 의정원 회의 를 여 는 등 한 달 여 동안 국호 정부 조직법 제정 각료 선정 등 임정 정부 수립 작업 을 벌인 장소 로 대한민국 정부 가 탄생한 역사적 장소 』 라며 『 이 건물 에 대한 기록 은 조선 민족 운동 연감 등 곳곳 에 나타나 있 었 으나 49 년 이후 본래 명칭 ( 김 신부 로 ) 이 현주소 로 바뀌 는 바람 에 그동안 일반 에 알려지 지 않 았 다 』 고 말 했 다 .	PER-B O O O LOC-B LOC-I LOC-I O O PER-B PER-B PER-B O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O
+이수만 , 양현석 , 배용준 등 연예인 주식 부자 들 의 주식 자산 평가 액 이 절반 가량 줄 었 다 .	PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O
+고려대 를 비롯해 순천향대 · 인제대 백병원 등 전국 20 여 개 종합 병원 이 무 수혈 수술 을 도입 했 다 .	ORG-B O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O
+하루 짜리 유쾌한 휴가 였 다 .	O O O O O O O
+OK 저축은행 은 챔피언 결정 전 을 앞두 고 외국인 선수 시몬 ( 29 ) 이 수염 을 , 송명근 ( 23 ) 이 머리 를 팀 의 상징 색 인 노란색 으로 염색 했 다 .	ORG-B ORG-I O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+박흥식 코치 “ KIA 타선 키 맨 은 최희섭 ”	PER-B O O ORG-B O O O O PER-B O
+독자 들 에게 도 활짝 미소 가 지 어 질 만큼 흐뭇한 선물 이 될 거 예요 . 청딱따구리 야 그런 사실 을 알든 말 든 . 김혜진 어린이 도서 평론가	O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O
+A - 마운트 와 E - 마운트 , FE - 마운트 모두 칼 자 이스 렌즈 가 전체 50 % 가량 을 차지할 정도 . 그러나 소니 는 지 - 마스터 ( G - Master ) 렌즈 를 2016 년 초 에 공개하 며 색다른 행보 를 이 어 나 갔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+“ 광윤사 14 일 주주 총회 … 신동빈 이사 직 해임 , 신격호 회장 주식 1 주 받 아 지분 과반 확보 ”	O ORG-B DAT-B DAT-I O O O PER-B O O O O PER-B O O O O O O O O O O

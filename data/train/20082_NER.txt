@@ -1,15 +1,15 @@
-이번 해양 실크로드 탐사 첫 번째 취재에서 만나 +았던 취안저우의 그 무슬림들이 페르시아만에서 출발하+ㄴ상인의 후예 이+ㄴ 것이다 .	O O O O O O O O O LOC-B O O LOC-B O O O O O
-취안저우를 중심으로 남해 무역으로 명성을 떨치+ㄴ포수경(蒲壽庚·1245~1284)이란 독특하+ㄴ 인물이 있다 .	LOC-B O O O O PER-B O O O O
-2015년 ‘빅3’로 평가받는 허윤경(25·SBI)과 이정민(23·비씨카드), 전인지(21·하이트진로)는 개막전 우승으로 기선제압을 준비하고 있다 .	O ORG-B O ORG-B ORG-B ORG-B O O O O O O
-이후 11을 뜻하는 B, 12를 뜻하는 C로 바뀌었다 .	O O O O O O O O O
-테임즈도 야구우등생답게 부진을 남 탓으로 돌리지 않았고, 자신의 잘못을 고치기 위하+여 남 다르+ㄴ 노력을 기울이었다 .	PER-B O O O O O O O O O O O O O O O
-맨유는 마무리 슈팅에 아쉽 ㄴ 모습을 보이었다 .	ORG-B O O O O O O O
-신한은행 업무 강도 세+ㄴ 만큼 보상 충분, KEB하나은행 연줄보다 실 .	ORG-B O O O O O O ORG-B O O O
-대학 내일 표지 모델로 참여하였던 수많은 대학생 가운데 절대 반박 하+ㄹ 수 있는 '역대급 모델'은 누구 이+ㄹ까 .	O O O O O O O O O O O O O O O O O O
-볼티모어는 시범경기 6승 5패를 기록하였다 .	ORG-B O O O O O
-영국 파운드도 0.4% 상승하였다 .	ORG-B O O O O
-트럼프 대통령은 월스트리트저널(WSJ)와 인터뷰에서 “저금리 정책을 좋아하+ㄴ다”고 말하면서 동시에 “달러화 강세가 미국 경제를 해치+ㄹ 것”이라고 지적하였다 .	PER-B O ORG-B O O O O O O O O ORG-B O O O O O
-실적 1위를 뜻하는 ‘보험왕’ 자리에도 세 차례 나 오르았다고 하+ㅂ니다 .	O O O O O O O O O O O
-“한국이든, 캘리포니아든, 파리든, 세계 어디서도 저+의 노래를 감동을 느끼며 들어주+ㄹ 관객이 있다는 것.황홀하+ㄴ일이죠.” 12일 오전 서울 송파구 올림픽로 롯데호텔월드 스위트룸에서 만나 +ㄴ아트가펑클(74)은 셰익스피어 연극 속 그리스 왕 같았다 .	LOC-B LOC-B LOC-B O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-B O O PER-B O O O LOC-B O O O
-기상청은 “11월 하순과 12월 상순 기온이 평년과 비슷하거나 낮은 경향을 보이+ㄹ 것으로 예상되 +ㄴ다”며 “따라서 김장 적정 시기는 평년과 비슷하+ㄹ 것”이라고 전망하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-덕풍역·스타필드, 역세권 몰세권 ‘하남벨리체’ 이런 가운데 쌍용건설이 하남시 덕풍동 438일원에 덕풍역(예정) 역세권과 스타필드 하남몰세권을 모두 누리는 지역 조합아파트 ‘하남벨리체’를 시공 예정이라 귀추가 주목되고 있다 .	LOC-B LOC-I O O O O ORG-B LOC-B LOC-B LOC-I LOC-B LOC-I O O O O O O O O O O O O O
+이번 해양 실크로드 탐사 첫 번째 취재 에서 만났 던 취안저우 의 그 무슬림 들 이 페르시아 만 에서 출발한 상인 의 후예 인 것 이 다 .	O O O O O O O O O O LOC-B O O O O O LOC-B LOC-I O O O O O O O O O O
+취안저우 를 중심 으로 남해 무역 으로 명성 을 떨친 포수경 ( 蒲壽庚 · 1245 ~ 1284 ) 이 란 독특한 인물 이 있 다 .	LOC-B O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O
+2015 년 ‘ 빅 3 ’ 로 평가 받 는 허윤경 ( 25 · SBI ) 과 이정민 ( 23 · 비씨카드 ) , 전인지 ( 21 · 하이트 진로 ) 는 개막 전 우승 으로 기선 제압 을 준비하 고 있 다 .	DAT-B DAT-I O ORG-B ORG-I O O O O O PER-B O O O ORG-B O O PER-B O O O ORG-B O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O
+이후 11 을 뜻하 는 B , 12 를 뜻하 는 C 로 바뀌 었 다 .	O O O O O O O O O O O O O O O O O
+테임즈 도 야구 우등생 답 게 부진 을 남 탓 으로 돌리 지 않 았 고 , 자신 의 잘못 을 고치 기 위해 남다른 노력 을 기울 였 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+맨유 는 마무리 슈팅 에 아쉬 운 모습 을 보 였 다 .	ORG-B O O O O O O O O O O O O
+신한은행 업무 강도 센 만큼 보상 충분 , KEB 하나은행 연줄 보다 실적	ORG-B O O O O O O O ORG-B ORG-I O O O
+대학 내 일 표지 모델 로 참여 했 던 수많 은 대학생 가운데 절대 반박할 수 있 는 ' 역대 급 모델 ' 은 누구 일까 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+볼티모어 는 시범 경기 6 승 5 패 를 기록 했 다 .	ORG-B O O O O O O O O O O O O
+영국 파운드 도 0.4 % 상승 했 다 .	ORG-B O O O O O O O O
+트럼프 대통령 은 월스트리트저널 ( WSJ ) 와 인터뷰 에서 “ 저금리 정책 을 좋아한다 ” 고 말하 면서 동시 에 “ 달러화 강세 가 미국 경제 를 해칠 것 ” 이라고 지적 했 다 .	PER-B O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+실적 1 위 를 뜻하 는 ‘ 보험 왕 ’ 자리 에 도 세 차례 나 올 랐 다고 합니다 .	O O O O O O O O O O O O O O O O O O O O O
+“ 한국 이든 , 캘리포니아 든 , 파리 든 , 세계 어디 서 도 제 노래 를 감동 을 느끼 며 들어줄 관객 이 있 다는 것 . 황홀한 일 이 죠 . ” 12 일 오전 서울 송파구 올림픽 로 롯데호텔 월드 스위트룸 에서 만난 아트 가펑클 ( 74 ) 은 셰익스피어 연극 속 그리스 왕 같 았 다 .	O LOC-B O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B LOC-B LOC-B LOC-I LOC-B LOC-I O O O PER-B PER-I O O O O O O O LOC-B O O O O O
+기상청 은 “ 11 월 하순 과 12 월 상순 기온 이 평년 과 비슷하 거나 낮 은 경향 을 보일 것 으로 예상된다 ” 며 “ 따라서 김장 적정 시기 는 평년 과 비슷할 것 ” 이라고 전망 했 다 .	ORG-B O O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+덕풍 역 · 스타 필드 , 역세권 몰세 권 ‘ 하남 벨리 체 ’ 이런 가운데 쌍용건설 이 하남시 덕풍동 438 일원 에 덕풍 역 ( 예정 ) 역세권 과 스타 필드 하남 몰세 권 을 모두 누리 는 지역 조합 아파트 ‘ 하남 벨리 체 ’ 를 시공 예정 이 라 귀추 가 주목되 고 있 다 .	LOC-B LOC-I O O O O O O O O O O O O O O ORG-B O LOC-B LOC-B LOC-I O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

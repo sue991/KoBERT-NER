@@ -1,13 +1,13 @@
-'탄'은 정통 FPS 장르의 호쾌하+ㄴ타격감을 갖추+ㄴ 모바일 FPS 게임으로 싱글 스테이지의 스토리 모드와 챌린지 모드, 타워 디펜스, 좀비 웨이브 등 총 24개에 달하는 다양하+ㄴ 모드를 갖추+ㄴ 것이 특징이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지난달 28일부터 8일간 진행하였던 비공개 테스트에서 크게 호평받았으며, 현재 스마일게이트는 서비스를 위하+ㄴ 마지막 담금질을 진행하고 있는 것으로 나타나 +았다 .	O O O O O O O O O ORG-B O O O O O O O O O O
-스마일게이트 메가포트 배영삼 부장은 "'탄'에 대하+ㄴ 많은 고객분들의 성원에 힘입어 정식 출시일을 확정 짓고 마무리 작업에 박차를 가하고 있다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O
-북한은 국제 원자력기구(IAEA)가 입회하지 않은 가운데 핵연료봉 교체 작업에 돌입하였다고 주유엔 북한 대표부가 13일 밝히었다 .	ORG-I ORG-B ORG-B O O O O O O O ORG-B ORG-I ORG-I O O O
-‘오!솔레미오’ ‘산타루치아’ ‘마이웨이’ ‘아리랑’ 등을 부르+ㄴ다 .	O O O O O O O
-김 회장은 국내에서 가장 많은 아파트를 공급하+ㄴ 디벨로퍼다 .	PER-B O O O O O O O O
-뉴욕타임스(NYT)는 지나 +ㄴ 2015년 "아마존의 기업문화는 적자 생존"이라며 아마존 직원들이 서로 간에 무자비 하+ㄴ 생존 경쟁으로 내몰리고 있다고 보도하였다 .	ORG-B O O O ORG-B O O O ORG-B O O O O O O O O O O O
-얼마 전 8.1 버전으로 업데이트 되었는데 이는 모든 8.0 버전 구매자에게 무료로 제공되었다 .	O O O O O O O O O O O O O O
-Q.팍스잇의 기업용 솔루션은 어떤 제품이 +ㄴ가? 어떤 기능을 갖추고 있기에 많은 기업이 찾는 것이 +ㄴ가? A.문서 중앙화 시스템을 구축 하+ㄹ 수 있는 'PDF 툴킷'과 기업의 ERP 시스템 및 솔루션에 PDF 관련 기술을 통합하+ㄹ 수 있도록 지원하는 '팍스잇 PDFSDK(소프트웨어 개발도구)' 등 두 기업용 솔루션 관련 수요가 많다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
-다만 인구 감소와 가구분화 추이를 감안하자. 향후에도 수요가 꾸준하+ㄹ 것으로 보이는 역세권에 전용면적 85㎡ 이하 아파트를 매입하라는 의미+이다 .	O O O O O O O O O O O O O O O O O O O
-1996년 애틀랜타 대회에서는 낙태와 동성애에 반대하는 인물이 폭탄 테러를 저지르어기자를 포함하+여 2명이 숨지고 100여명이 다치었다 .	O ORG-B O O O O O O O O O O O O O O
-국내에서는 구글 지도의 특성상 해당 콘텐츠를 즐기+ㄹ 수 없다 .	O ORG-B O O O O O O O O
-그런데 국민의당 인적 구성이나 정체성이 더불어민주당과 뭐가 다르+ㄴ 것+이+ㄴ지는 도무지 알+ㄹ길이 없다 .	O ORG-B O O O ORG-B O O O O O O O
+' 탄 ' 은 정통 FPS 장르 의 호쾌한 타격 감 을 갖춘 모바일 FPS 게임 으로 싱글 스테이지 의 스토리 모드와 챌린지 모드 , 타워 디펜스 , 좀비 웨이브 등 총 24 개 에 달하 는 다양한 모드 를 갖춘 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난달 28 일 부터 8 일 간 진행 했 던 비공개 테스트 에서 크 게 호평 받 았 으며 , 현재 스마일 게이트 는 서비스 를 위한 마지막 담금질 을 진행하 고 있 는 것 으로 나타났 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+스마일 게이트 메가 포트 배영삼 부장 은 " ' 탄 ' 에 대한 많 은 고객 분 들 의 성원 에 힘 입 어 정식 출시 일 을 확정 짓 고 마무리 작업 에 박차 를 가하 고 있 다 .	ORG-B ORG-I ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 은 국제 원자력 기구 ( IAEA ) 가 입회하 지 않 은 가운데 핵연료 봉 교체 작업 에 돌입 했 다고 주 유엔 북한 대표부 가 13 일 밝 혔 다 .	ORG-B O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O
+‘ 오 ! 솔레 미오 ’ ‘ 산타루치아 ’ ‘ 마이 웨이 ’ ‘ 아리랑 ’ 등 을 부른다 .	O O O O O O O O O O O O O O O O O O O O
+김 회장 은 국내 에서 가장 많 은 아파트 를 공급한 디벨로퍼 다 .	PER-B O O O O O O O O O O O O O
+뉴욕타임스 ( NYT ) 는 지난 2015 년 " 아마존 의 기업 문화 는 적자생존 " 이 라며 아마존 직원 들 이 서로 간 에 무자비한 생존 경쟁 으로 내몰리 고 있 다고 보도 했 다 .	ORG-B O ORG-B O O O DAT-B DAT-I O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+얼마 전 8.1 버전 으로 업데이트되 었 는데 이 는 모든 8.0 버전 구매자 에게 무료 로 제공되 었 다 .	O O O O O O O O O O O O O O O O O O O O O
+Q . 팍스 잇 의 기업 용 솔루션 은 어떤 제품 인가 ? 어떤 기능 을 갖추 고 있 기에 많 은 기업 이 찾 는 것 인가 ? A . 문서 중앙 화 시스템 을 구축할 수 있 는 ' PDF 툴킷 ' 과 기업 의 ERP 시스템 및 솔루션 에 PDF 관련 기술 을 통합할 수 있 도록 지원하 는 ' 팍스 잇 PDF SDK ( 소프트웨어 개발 도구 ) ' 등 두 기업 용 솔루션 관련 수요 가 많 다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다만 인구 감소 와 가구 분화 추이 를 감안하 자 . 향후 에 도 수요 가 꾸준할 것 으로 보이 는 역세권 에 전용면적 85 ㎡ 이하 아파트 를 매입하 라는 의미 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1996 년 애틀랜타 대회 에서 는 낙태 와 동성애 에 반대하 는 인물 이 폭탄 테러 를 저질 러 기자 를 포함해 2 명 이 숨지 고 100 여 명 이 다 쳤 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국내 에서 는 구글 지도 의 특성 상 해당 콘텐츠 를 즐길 수 없 다 .	O O O ORG-B O O O O O O O O O O O O
+그런데 국민 의당 인적 구성 이나 정체성 이 더불 어 민주당 과 뭐 가 다른 건지 는 도무지 알 길 이 없 다 .	O ORG-B ORG-I O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O

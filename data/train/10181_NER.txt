@@ -1,10 +1,10 @@
-이번 행사를 주최 하+ㄴ 한국식품산업협회는 “나트륨 저감화는 전 세계적으로 중요하+ㄴ보건아젠다이자 정부 차원에서도 활발히 추진되고 있는 사업으로 식품업계 역시 다방면으로 지속적 이+ㄴ 노력을 기울이고 있다”며 “이번 행사가 나트륨 저감화에 대하+ㄴ업계와 일반 대중의 관심을 높이는 동시에 실효성 있는 나트륨 저감 방안에 대하+여 모색 하+ㄹ 수 있는 계기가 +었기를 바라+ㄴ다”고 전하였다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘수능 대박떡’은 수험생에게 힘이 되+ㄹ 수 있는 선물이 되+ㄹ 수 있도록 ‘수능 대박’이라는 문구와 그림이 그리 +어지+ㄴ띠지를 붙이어 판매하며 나만의 응원 메시지를 넣어 선물하고 싶은 고객에게는 별도의 무료 스티커 제작을 제공하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-인판티노vs 살만, 세계 축구 대통령 오늘 밤 결정 나+ㄴ .	PER-B PER-B O O O O O O O O
-국세청 관계자는 “상급심에서 좀 더 면밀하+ㄴ법적 검토가 이루어 지+ㄹ 것으로 보이+ㄴ다”라고 말하였다 .	ORG-B O O O O O O O O O O O O
-신수정 crystal@d onga. com/세종=이상훈기 .	PER-B O O LOC-B O
-이동시간이 길어 대부분 경기 2일 전 출발이다 .	O O O O O O O O
-문제는 이번 사건을 겪은 플로리다의 표심이 급격히 보수 성향으로 기울+ㄹ 가능성이다 .	O O O O ORG-B O O O O O O O
-심사위원이 +ㄴ한영규 국어국문학과 교수는 “쉽어 보이지만 까다롭 ㄴ 주제+이었다”며 “외국인들이 단순히 한글 뿐 아니라 한국의 정서까지 이해하고 있어 고무적”이라고 평가하였다 .	O PER-B O O O O O O O O O O O O ORG-B O O O O O O
-국민체육진흥공단은 (KSPO)은 지난해부터 최근까지 실시하+ㄴ 파격적 사내 인사로 관심을 끌었다 .	ORG-B ORG-B O O O O O O O O O
-9일에는 이 의원 측으로부터 먼저 연락이 와 의원실로 찾아가니 이만희, 최교일 새누리당 의원이 함께 있었다고 하+ㄴ다 .	O PER-B O O O PER-B O O O PER-B PER-B ORG-B PER-B O O O O
+이번 행사 를 주최한 한국 식품 산업 협회 는 “ 나트륨 저감 화 는 전 세계적 으로 중요한 보건 아젠다 이 자 정부 차원 에서 도 활발히 추진되 고 있 는 사업 으로 식품 업계 역시 다방면 으로 지속적 인 노력 을 기울이 고 있 다 ” 며 “ 이번 행사 가 나트륨 저감 화 에 대한 업계 와 일반 대중 의 관심 을 높이 는 동시 에 실효성 있 는 나트륨 저감 방안 에 대해 모색할 수 있 는 계기 가 됐 기 를 바란다 ” 고 전 했 다 .	O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 수능 대박 떡 ’ 은 수험생 에게 힘 이 될 수 있 는 선물 이 될 수 있 도록 ‘ 수능 대박 ’ 이 라는 문구 와 그림 이 그려 진 띠지 를 붙 여 판매하 며 나 만 의 응원 메시지 를 넣 어 선물하 고 싶 은 고객 에게 는 별도 의 무료 스티커 제작 을 제공한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인판 티 노 vs 살 만 , 세계 축구 대통령 오늘 밤 결정 난다	PER-B PER-I PER-I O PER-B PER-I O O O O O O O O
+국세청 관계자 는 “ 상급심 에서 좀 더 면밀한 법적 검토 가 이뤄질 것 으로 보인다 ” 라고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+신수정 crystal @ donga . com / 세종 = 이상훈 기자	PER-B O O O O O O LOC-B O PER-B O
+이동 시간 이 길 어 대부분 경기 2 일 전 출발 이 다 .	O O O O O O O O O O O O O O
+문제 는 이번 사건 을 겪 은 플로리다 의 표 심 이 급격히 보수 성향 으로 기울 가능성 이 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O
+심사 위원 인 한영규 국어 국문학 과 교수 는 “ 쉬 워 보이 지만 까다로 운 주제 였 다 ” 며 “ 외국인 들 이 단순히 한글 뿐 아니 라 한국 의 정서 까지 이해하 고 있 어 고무적 ” 이라고 평가 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+국민 체육 진흥 공단 은 ( KSPO ) 은 지난해 부터 최근 까지 실시한 파격적 사내 인사 로 관심 을 끌 었 다 .	ORG-B ORG-I ORG-I ORG-I O O ORG-B O O O O O O O O O O O O O O O O O
+9 일 에 는 이 의원 측 으로부터 먼저 연락 이 와 의원 실 로 찾아가 니 이만희 , 최교일 새누리당 의원 이 함께 있 었 다고 한다 .	DAT-B DAT-I O O PER-B O O O O O O O O O O O O PER-B O PER-B ORG-B O O O O O O O O

@@ -1,12 +1,12 @@
-이후 내년 1월 6일 서울역삼동의 한 예식장에서 가족과 친지, 지인들을 초대하+여 결혼식을 올리+ㄴ다 .	O O O O LOC-B O O O O O O O O O
-임창정은 지나 +ㄴ9월 일반인 여성과 교제 중이라고 인정하였다 .	PER-B O O O O O O O O
-전지훈련 최대 수확을 꼽아달라는 질문에 망설이 +ㅁ 없이 신인 좌완투수 김택형(19)을 치켜세우었다 .	O O O O O O O O O O PER-B O O
-대한민국을 어떻게 혁신하고 어떤 변화를 통하+여 미래를 담아내 +ㄹ 것이 +ㄴ가를 시민 청년들에게 알리는 중요하+ㄴ 선거+이라고 생각하+ㄴ다”면서도 “초반에는 광주에 네거티브, 가짜뉴스가 판을 치는 선거전이 펼쳐지었다”고 설명하였다 .	ORG-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O
-지나+ㄴ 24일 방송되+ㄴ JTBC 금토 드라마 ‘라스트’에서는 펀드매니저 장태호(윤계상)과 박민수(박혁권)가 주식을 조작하는 작전에 실패하면서 위기에 처하+ㄴ 모습이 그리 +어+지었다 .	O O O O O O O O PER-B PER-B O O O O O O O O O O
-조리+ㄴ과장은 “2012년부터 불법 도박사이트를 홍보하거나 개설하+여주는 프로그래머를 포함하+여정보를 제공하는 사람도 처벌을 받도록 법이 개정되었다 .	PER-B O O O O O O O O O O O O O O
-소나무재선충병 방제특별법에 따르 아직 경 2㎝ 이상이+ㄴ소나무류의 이동을 전면 제한하는 조치+이다 .	O O O O O O O O O O O O
-전남도는 기존에 재선충병이 발생하+ㄴ 여수·순천·광양·무안 등 4개 시·군의 피해목은 전량 베어 내+어우드 칩과 톱밥으로 가공하+ 여자원화시키+ㄹ 방침이다 .	LOC-B O O O LOC-B O O O O O O O O O O O O O
-ICT 우수 기술과 문화를 접하+ㄹ 수 있는 ‘호기심 n 사람= 미래교육’ 실 .	O O O O O O O O O O O O O
-1993년 노벨문학상 수상작가 토니모리슨이 내보이는 ‘글쓰기의 비밀’이다 .	O O O PER-B O O O O
-2000년대 초중반 섹시 스타이효리를 메인 모델로 내세우어 ‘이효리 청바지’ 열풍을 이끌었던 데님 브랜드에프 알제이지+ㄴ(FRJJeans)이 제2의 비상을 꿈꾸 +ㄴ다 .	O O O O O O O O O O O O ORG-B ORG-B O O O O O
-블루 차이나 B2B 멤버십커머스 플랫폼 ‘메이메이더’하얼빈 거점 구축 중국 업체와 MOU… 한국우수상품 초기 비용 없이 중국 판매 가능 중국 e-커머스 전문 스타트업 기업 ‘블루차이나’(대표이사 구명길)는 15일 중국 ‘하얼빈 항록길 상무유한공사’(대표 페이종)와 자사 가 운영하는 한-중 B2B 멤버쉽 커머스 플랫폼 ‘메이메이더(美美的/www.mmdbox. com)’의 하얼빈 거점 구축을 위하+ㄴ MOU를 체결하였다 .	ORG-B ORG-I O O O LOC-B O O ORG-B O O LOC-B O O O ORG-B O O ORG-B O O O O ORG-B PER-B O ORG-B LOC-B O O PER-B O O O O O O O O ORG-B O LOC-B O O O O O O
+이후 내년 1 월 6 일 서울 역삼동 의 한 예식장 에서 가족 과 친지 , 지인 들 을 초대해 결혼식 을 올린다 .	O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-I O O O O O O O O O O O O O O O O
+임창정 은 지난 9 월 일반인 여성 과 교제 중 이 라고 인정 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O
+전지훈련 최대 수확 을 꼽 아 달 라는 질문 에 망설임 없이 신인 좌완 투수 김택형 ( 19 ) 을 치켜세 웠 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O
+대한민국 을 어떻 게 혁신하 고 어떤 변화 를 통해 미래 를 담아낼 것 인가 를 시민 청년 들 에게 알리 는 중요한 선거 라고 생각한다 ” 면서 도 “ 초반 에 는 광주 에 네거티브 , 가짜 뉴스 가 판 을 치 는 선거전 이 펼쳐 졌 다 ” 고 설명 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+지난 24 일 방송된 JTBC 금 토 드라마 ‘ 라스트 ’ 에서 는 펀드 매니저 장태호 ( 윤계상 ) 과 박민수 ( 박혁권 ) 가 주식 을 조작하 는 작전 에 실패하 면서 위기 에 처한 모습 이 그려 졌 다 .	O DAT-B DAT-I O O O O O O O O O O O O PER-B O PER-B O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O
+조린 과장 은 “ 2012 년 부터 불법 도박 사이트 를 홍보하 거나 개설해 주 는 프로그래머 를 포함해 정보 를 제공하 는 사람 도 처벌 을 받 도록 법 이 개정 됐 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소나무 재선 충병 방제 특별법 에 따 라 직경 2 ㎝ 이상 인 소나무류 의 이동 을 전면 제한하 는 조치 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+전남 도 는 기존 에 재선 충 병 이 발생한 여수 · 순천 · 광양 · 무안 등 4 개 시 · 군 의 피해 목 은 전량 베 어 내 우드 칩 과 톱밥 으로 가공해 자원 화 시킬 방침 이 다 .	LOC-B LOC-I O O O O O O O O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+ICT 우수 기술 과 문화 를 접할 수 있 는 ‘ 호기심 n 사람 = 미래 교육 ’ 실시	O O O O O O O O O O O O O O O O O O O
+1993 년 노벨 문학상 수상 작가 토니 모리슨 이 내보이 는 ‘ 글쓰기 의 비밀 ’ 이 다 .	DAT-B DAT-I O O O O PER-B PER-I O O O O O O O O O O O
+2000 년대 초 중반 섹시 스타 이효리 를 메인 모델 로 내세 워 ‘ 이효리 청바지 ’ 열풍 을 이끌 었 던 데님 브랜드 에프 알제 이 진 ( FRJ Jeans ) 이 제 2 의 비상 을 꿈꾼다 .	O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I O O O O O O O O O
+블루 차 이나 B 2 B 멤버십 커머스 플랫폼 ‘ 메이 메이더 ’ 하얼빈 거점 구축 중국 업체 와 MOU … 한국 우수 상품 초기 비용 없이 중국 판매 가능 중국 e - 커머스 전문 스타트 업 기업 ‘ 블루 차 이나 ’ ( 대표 이사 구명길 ) 는 15 일 중국 ‘ 하얼빈항록길상무유한공사 ’ ( 대표 페이 종 ) 와 자사 가 운영하 는 한 - 중 B 2 B 멤버 쉽 커머스 플랫폼 ‘ 메이 메이더 ( 美美的 / www . mmdbox . com ) ’ 의 하얼빈 거점 구축 을 위한 MOU 를 체결 했 다 .	ORG-B ORG-I ORG-I O O O O O O O ORG-B ORG-I O LOC-B O O ORG-B O O O O LOC-B O O O O O LOC-B O O ORG-B O O O O O O O O ORG-B ORG-I ORG-I O O O O PER-B O O DAT-B DAT-I ORG-B O ORG-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O LOC-B O O O O O O O O O O

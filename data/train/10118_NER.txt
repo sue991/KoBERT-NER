@@ -1,15 +1,15 @@
-최순실(60·최서원으로 개명)씨의 딸 정유라(20)씨에 대하+ㄴ 특혜 의혹을 겨냥하+여 “나, 어제도 밤새 +었다”로 시작하+ㄴ이 대자보는 “학점은 낮아도 너보다 당당하다” “나+의 벗들과 맞서 +ㄹ 수 있어 기쁘고 자랑스럽다” 등의 표현으로 공감을 사+았다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-《 네팔을 제2의 고향이라고 여기는 산악인들과 기업들이 잇달아 발생하+ㄴ 지진으로 크+ㄴ 피해를 보+ㄴ 네팔 돕기에 나서 +었다 .	O ORG-B O O O O O O O O O O O ORG-B O O O O
-A씨는 “삼성이 자금 집행을 앞두 +ㄴ 시점에 서울 중구의 한 특급호텔에서 장씨와 김 전 차관이 만나 +ㄴ 것으로 알+ㄴ다”고 말하였다 .	PER-B ORG-B O O O O O LOC-B LOC-I O O PER-B PER-B O O O O O O O O
-농구화에 캐주얼 무드를 결합, 90년대 복고향수를 불러일으키면서도 역동적 이+ㄴ 느낌을 주는 디자인이 특징이다 .	O O O O O O O O O O O O O O
-또한 기존 ‘더케이지’의 가죽 패턴과 밑창의 사선 라인은 유지하+ㄴ 채 발목 뒤를 받치+어주는 케이지(Cage, 둥지) 형태의 갑피(Upper) 부분 높이를 4분의 1가량 낮추+어편안하+ㄴ착화감을 더하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O
-컴투스는 ‘컴투스 프로야구 2015’의 정식 출시를 앞두고 있다 .	ORG-B ORG-B O O O O O O O
-창립 90주년 기념식…새 비전 발표 국내 대표적 이+ㄴ 장수제약기업 유한양행(대표 이정희)이 20일 창립 90주년을 맞았다 .	O O O O O O O O O ORG-B PER-B O O O O O
-최진호는 “셋째는 뱃속에서부터 복덩이이었다 .	PER-B O O O O
-검찰도 문제의 태블릿PC 소유주를 최씨로 보고 있다 .	ORG-B O O O PER-B O O O
-송영길도 “나도 낮은 포복”이라고 말하었고 이상훈은 “군대 있을 때가 더 행복하지 않았어?”라고 묻었다 .	PER-B O O O O PER-B O O O O O O O O
-이어 송영길이 이유를 묻자 이상훈은 니글니글 하+ㄴ 표정으로 “여자들이 안 괴롭히니까”라고 답하+ 여웃음을 자아내 +었다 .	O PER-B O O PER-B O O O O O O O O O O O
-한편 이상훈 송영길이 출연하는 ‘니글니글’은 충격적 이+ㄴ 비주얼과 파격 댄스로 강렬 하+ㄴ 존재감을 자랑하고 있다 .	O PER-B PER-B O O O O O O O O O O O O O
-마지막 유니폼은 프랑스 파리 생제르맹에서 벗었지만 베컴도 LA 갤럭시에서 6년을 뛰며 ‘제2의 인생’을 준비하였다 .	O O ORG-B ORG-I ORG-I O PER-B ORG-B ORG-I O O O O O O
-하지만 울산시민행동 등 시민단체는 “친박이미지를 구축하+ㄴ사람이 갑작스럽게 탈당하는 것이 이해되지 않는다”며 진의를 의심하었다 .	O ORG-B O O O O O O O O O O O O
-한편 비박계로 분류되는 김기현 울산시장은 3일 열리+ㄴ 신년간담회에서 자신의 새누리당 탈당에 대하+여 “정세를 지켜보겠다”며 유보 입장을 보이었다 .	O O O PER-B O O O O O ORG-B O O O O O O O O
+최순실 ( 60 · 최서원 으로 개명 ) 씨 의 딸 정유라 ( 20 ) 씨 에 대한 특혜 의혹 을 겨냥해 “ 나 , 어제 도 밤 샜 다 ” 로 시작한 이 대자보 는 “ 학점 은 낮 아도 너 보다 당당하 다 ” “ 내 벗 들 과 맞설 수 있 어 기쁘 고 자랑스럽 다 ” 등 의 표현 으로 공감 을 샀 다 .	PER-B O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+《 네팔 을 제 2 의 고향 이 라고 여기 는 산악인 들 과 기업 들 이 잇달 아 발생한 지진 으로 큰 피해 를 본 네팔 돕 기 에 나섰 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+A 씨 는 “ 삼성 이 자금 집행 을 앞둔 시점 에 서울 중 구 의 한 특급 호텔 에서 장 씨 와 김 전 차관 이 만난 것 으로 안다 ” 고 말 했 다 .	PER-B O O O ORG-B O O O O O O O LOC-B LOC-I LOC-I O O O O O PER-B O O PER-B O O O O O O O O O O O O O
+농구화 에 캐주얼 무드 를 결합 , 90 년대 복고 향수 를 불러일으키 면서 도 역동적 인 느낌 을 주 는 디자인 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 기존 ‘ 더 케이지 ’ 의 가죽 패턴 과 밑창 의 사선 라인 은 유지한 채 발목 뒤 를 받쳐 주 는 케이지 ( Cage , 둥지 ) 형태 의 갑피 ( Upper ) 부분 높이 를 4 분 의 1 가량 낮춰 편안한 착화 감 을 더 했 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+컴투스 는 ‘ 컴투스 프로야구 2015 ’ 의 정식 출시 를 앞두 고 있 다 .	ORG-B O O O O O O O O O O O O O O O
+창립 90 주년 기념식 … 새 비전 발표 국내 대표적 인 장수 제약 기업 유한양행 ( 대표 이정희 ) 이 20 일 창립 90 주년 을 맞 았 다 .	O O O O O O O O O O O O O O ORG-B O O PER-B O O DAT-B DAT-I O O O O O O O O
+최진호 는 “ 셋째 는 뱃속 에서부터 복덩 이 였 다 .	PER-B O O O O O O O O O O O
+검찰 도 문제 의 태블릿 PC 소유주 를 최 씨 로 보 고 있 다 .	ORG-B O O O O O O O PER-B O O O O O O O
+송영길 도 “ 나 도 낮 은 포복 ” 이라고 말 했 고 이상훈 은 “ 군대 있 을 때 가 더 행복하 지 않 았 어 ? ” 라고 물 었 다 .	PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+이어 송영길 이 이유 를 묻 자 이상훈 은 니글니글한 표정 으로 “ 여자 들 이 안 괴롭히 니까 ” 라고 답해 웃음 을 자아냈 다 .	O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+한 편 이상훈 송영길 이 출연하 는 ‘ 니글니글 ’ 은 충격적 인 비주얼 과 파격 댄스 로 강렬한 존재감 을 자랑하 고 있 다 .	O O PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O
+마지막 유니폼 은 프랑스 파리 생제르맹 에서 벗 었 지만 베컴 도 LA 갤럭시 에서 6 년 을 뛰 며 ‘ 제 2 의 인생 ’ 을 준비 했 다 .	O O O ORG-B ORG-I ORG-I O O O O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+하지만 울산 시민 행동 등 시민 단체 는 “ 친 박 이미지 를 구축한 사람 이 갑작스럽 게 탈당하 는 것 이 이해되 지 않 는다 ” 며 진의 를 의심 했 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 비 박 계 로 분류되 는 김기현 울산 시장 은 3 일 열린 신년 간담회 에서 자신 의 새누리당 탈당 에 대해 “ 정세 를 지켜보 겠 다 ” 며 유보 입장 을 보 였 다 .	O O O O O O O PER-B O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O

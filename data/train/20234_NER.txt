@@ -1,14 +1,14 @@
-한편 6.17일 06시 현재, 격리 중 이+ㄴ 사람은 총 6,508명으로 전날보다 922명(17%) 늘었고, 격리가 해제되 +ㄴ사람은 총 3,951명으로 전일 대비 446명(13%) 증가 하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-전체 격리자(6,508명) 중 자가 격리자는 5,910명으로 전날에 비하+여 672명(13%) 늘었으며, 병원 격리자는 전날보다 250명(72%) 늘어나 +ㄴ 598명으로 집계되었다 .	O O O O O O O O O O O O O O O O O O O
-‘야신’ 김성근(73) 감독이 이끌는 프로야구 한화가 넥센에 당하+ㄴ 개막전 패배를 하루 만에 돌려주었다 .	O PER-B O O O ORG-B ORG-B O O O O O O O
-이날 회의에서 +ㄴ “서초갑에서 맞붙은 이혜훈 전 최고위원과 조윤선 전 여성가족부 장관은 둘 다 험지로 보내+어야 하+ㄴ다 .	O O O LOC-B O PER-B O O PER-B O ORG-B O O O O O O O
-“10년 만에 내놓은 영화+이에요. ‘망하지+ㄴ 않겠구나’+였지 이렇게 잘 되+ㄹ줄은 ….” 개봉 23일 만에 600만 관객을 돌파 하+ㄴ영화 ‘럭키’의 이계벽 감독(45)을 7일 서울 종로구의 카페에서 만나 +았다 .	O O O O O O O O O O O O O O O O O O PER-B O O LOC-B LOC-B O O O O
-T포인트는 일반 가맹점에서 활발하게 이용되고 있으며, 일본·중국·괌 등 해외에서도 사용되 +ㄴ다 .	O O O O O O ORG-B O O O O O
-6일 GS칼텍스 전에서도 김 사니의 능수능란 하+ㄴ 배분은 상대의 블로킹을 쉽게 허물었다 .	O ORG-B O PER-B PER-I O O O O O O O O
-여기서 나 오+ㄴ ‘코리아’가 한반도 이+ㄴ지대한민국이 +ㄴ지, 북한이 +ㄴ지는 명확하지 않다 .	O O O O ORG-B ORG-B O ORG-B O O O O
-케이블 채널 tvN의 ‘삼시세끼’를 보며 정선이나만 재도의 느리+ㄴ 삶이 화두가 +었던 것도 같은 맥락이다 .	O O O O O O O O O O O O O O O
-수상자에게는 각 5000만원의 상금과 상패가 주어지었다 .	O O MNY-B O O O O
-배우 류준열은 일베 유저가 아니며 일베와 무관하+ㅁ을 분명히 말씀드리+ㅂ니다 .	O PER-B O O O O O O O O
-정부 실패가 키우+ㄴ 메르스 사 .	O O O O O O
-어머니가 힘을 빼려고철인 3종 경기를 시키+시었다”고 계기를 설명 하+ 여웃음을 자아내 +었다 .	O O O O O O O O O O O O O
-하니는 이날 접영, 자유형, 배영, 평영 등 기본 4종목에잇어피+ㄴ 수영까지 하며 수영 실력을 뽐내 +었다 .	O O O O O O O O O O O O O O O O
+한편 6.17 일 06 시 현재 , 격리 중 인 사람 은 총 6,508 명 으로 전날 보다 922 명 ( 17 % ) 늘 었 고 , 격리 가 해제된 사람 은 총 3,951 명 으로 전일 대비 446 명 ( 13 % ) 증가 했 다 .	O DAT-B DAT-I TIM-B TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전체 격리 자 ( 6,508 명 ) 중 자가 격리 자 는 5,910 명 으로 전날 에 비해 672 명 ( 13 % ) 늘 었 으며 , 병원 격리 자 는 전날 보다 250 명 ( 72 % ) 늘어난 598 명 으로 집계 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 야신 ’ 김성근 ( 73 ) 감독 이 이끄 는 프로 야구 한화 가 넥센 에 당한 개막 전 패배 를 하루 만 에 돌려 줬 다 .	O O O PER-B O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+이날 회의 에선 “ 서초 갑 에서 맞붙 은 이혜훈 전 최고 위원 과 조윤선 전 여성 가족 부 장관 은 둘 다 험지 로 보내야 한다 ”	O O O O LOC-B LOC-I O O O PER-B O O O O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O
+“ 10 년 만 에 내놓 은 영화 예요 . ‘ 망하 진 않 겠 구나 ’ 했 지 이렇 게 잘될 줄 은 … . ” 개봉 23 일 만 에 600 만 관객 을 돌파한 영화 ‘ 럭키 ’ 의 이계벽 감독 ( 45 ) 을 7 일 서울 종로구 의 카페 에서 만났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O DAT-B DAT-I LOC-B LOC-B O O O O O O
+T 포인트 는 일반 가맹점 에서 활발하 게 이용되 고 있 으며 , 일본 · 중국 · 괌 등 해외 에서 도 사용된다 .	O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O
+6 일 GS 칼텍스 전 에서 도 김 사니 의 능수능란한 배분 은 상대 의 블로킹 을 쉽 게 허물 었 다 .	DAT-B DAT-I ORG-B ORG-I O O O PER-B PER-I O O O O O O O O O O O O O O
+여기 서 나온 ‘ 코리아 ’ 가 한반도 인지 대한민국 인지 , 북한 인지 는 명확하 지 않 다 .	O O O O O O O ORG-B O ORG-B O O ORG-B O O O O O O O
+케이블 채널 tvN 의 ‘ 삼시세끼 ’ 를 보 며 정선 이나 만재도 의 느린 삶 이 화두 가 됐 던 것 도 같 은 맥락 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수상자 에게 는 각 5000 만 원 의 상금 과 상패 가 주어 졌 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+배우 류준열 은 일베 유저 가 아니 며 일베 와 무관함 을 분명히 말씀 드립니다 .	O PER-B O O O O O O O O O O O O O O
+정부 실패 가 키운 메르스 사태	O O O O O O
+어머니 가 힘 을 빼 려고 철인 3 종 경기 를 시키 셨 다 ” 고 계기 를 설명해 웃음 을 자아냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+하니 는 이날 접영 , 자유형 , 배영 , 평영 등 기본 4 종목 에 이 어 핀 수영 까지 하 며 수영 실력 을 뽐냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O

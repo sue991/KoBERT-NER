@@ -1,12 +1,12 @@
-[CAR] 5년 만의 페이스 리프트, 역동적이고 날렵하+ㄴ 성능 뽐내+ .	O O O O O O O O O O
-이 당국자는 또 이번 북한의 금강산 관광 투자 유치 성공 가능성이 낮다고 예측하였다 .	O O O O ORG-B LOC-B O O O O O O O O
-첫째는 ‘베어링 고배당 증권 투자회사 (주식)’이다 .	O O O O O O O
-잇어 두 사람이 함께 하룻밤을 묵는 장면까지 전파를 타+았다 .	O O O O O O O O O O
-순간 최고 시청률을 기록하+ㄴ장면은 공심과 안단태가 횟집 사장의 손에 이끌 리+어 같이 사진을 찍는 순간이었다 .	O O O O PER-B PER-B O O O O O O O O O O
-스페인 언론이 이승우(FC 바르셀로나후베닐 A)의 칩슛을 극찬하였다 .	ORG-B O ORG-B ORG-I ORG-I O O O
-북한 정권 자체가 정통성에 의문이 있고 정권을 고수하려는 의지도 강하다 .	ORG-B ORG-I O O O O O O O O O
-아디다스 아웃도어는 무덥ㄴ 여름철 워터 스포츠나 야외활동을 즐기+ㄹ 때 시원하고 쾌적하게 착용 하+ㄹ 수 있는 워터슈즈, 티셔츠 등 ‘보이저 컬렉션’을 새롭게 출시하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-양 교수는 “목과 얼굴선이 잘 구분되지 않는 사람이 옆 턱보형 물성형을 받게 되면 얼굴 윤곽이 확연히 드러나고, 뼈와 보형물을 덮는 조직면적이 늘어나 +아시술 전보다 얼굴 선이 팽팽하+ 여지는 부수적 효과가 나타나 +ㄴ다”고 설명하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-2개의 3점슛을 연거푸 얻어맞아 경기 종료 59.5초를 남기고는 68-70으로 재역전을 허용하였다 .	O O O O O O O O O O O O
-그러나 제한되 +ㄴ 상황에서 등판이 제한되는 불펜은 필연적으로 옵션이 다양하+ㄴ쪽보다 확실하+ㄴ 1명이 절실하+ㄴ 보직이다 .	O O O O O O O O O O O O O O O
-원혜영 “자유한국당, 방송통제하려 들어… 불만이면 김현아 의원 출 당시키라 .	PER-B ORG-B O O O PER-B O O O O
+[ CAR ] 5 년 만 의 페이스리프트 , 역동적 이 고 날렵한 성능 뽐내	O O O DAT-B DAT-I O O O O O O O O O O
+이 당국자 는 또 이번 북한 의 금강산 관광 투자 유치 성공 가능성 이 낮 다고 예측 했 다 .	O O O O O ORG-B O LOC-B O O O O O O O O O O O O
+첫째 는 ‘ 베어링 고 배당 증권 투자 회사 ( 주식 ) ’ 이 다 .	O O O O O O O O O O O O O O O O
+이 어 두 사람 이 함께 하룻밤 을 묵 는 장면 까지 전파 를 탔 다 .	O O O O O O DAT-B O O O O O O O O O O
+순간 최고 시청률 을 기록한 장면 은 공심 과 안단태 가 횟집 사장 의 손 에 이끌려 같이 사진 을 찍 는 순간 이 었 다 .	O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+스페인 언론 이 이승우 ( FC 바르셀로나 후베닐 A ) 의 칩 슛 을 극찬 했 다 .	ORG-B O O PER-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O
+북한 정권 자체 가 정통성 에 의문 이 있 고 정권 을 고수하 려는 의지 도 강하 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O
+아디다스 아웃도어 는 무더 운 여름철 워터 스포츠 나 야외 활동 을 즐길 때 시원하 고 쾌적하 게 착용할 수 있 는 워터 슈즈 , 티셔츠 등 ‘ 보이저 컬렉션 ’ 을 새롭 게 출시 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+양 교수 는 “ 목과 얼굴선 이 잘 구분되 지 않 는 사람 이 옆 턱 보형물 성형 을 받 게 되 면 얼굴 윤곽 이 확연히 드러나 고 , 뼈 와 보형물 을 덮 는 조직 면적 이 늘어나 시술 전 보다 얼굴선 이 팽팽해 지 는 부수적 효과 가 나타난다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 개 의 3 점 슛 을 연거푸 얻어맞 아 경기 종료 59.5 초 를 남기 고는 68 - 70 으로 재 역전 을 허용 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 제한된 상황 에서 등판 이 제한되 는 불펜 은 필연적 으로 옵션 이 다양한 쪽 보다 확실한 1 명 이 절실한 보직 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+원혜영 “ 자유 한국 당 , 방송 통제하 려 들 어 … 불만 이 면 김현아 의원 출당 시키 라 ”	PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O PER-B O O O O O

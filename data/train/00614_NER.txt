@@ -1,12 +1,12 @@
-이에 김제동이 “나도 한번 하+여보자”고 말하자 “손목에 힘 빼고” +이라며 다시 한 번 섹시 하+ㄴ 포즈로 시범을 보이었다 .	O PER-B O O O O O O O O O O O O O O O O O
-옆에 있던 성유리는 최현석 셰프를 보고 “몸에 배어 있는 저 섹시하+ㅁ”이라며 감탄하는 모습을 보이었다 .	O O PER-B PER-B O O O O O O O O O O O
-한편 “음식이 건강에 좋냐?”+이라는 이연복 셰프의 질문에는 “정신건강에 좋다”라고 밝히+어 재미를 전하였다 .	O O O O PER-B O O O O O O O O
-이에 이연복 셰프는 음식을 만들면서 빠져나가 +ㄴ 에너지를 보충하면 되겠다고 말 하+여재미를 전하였다 .	O PER-B O O O O O O O O O O O O
-한국 근무 시절기자간담회 때 ‘한국은 美의준 식민지’ 지적 .	ORG-B O O O ORG-B ORG-B O O O
-2014년 최경주 인비테이셔널이후 1년 7개월 만의 우승이자 프로통산 5승째 +이다 .	O PER-B O O O O O O O O O
-기사 내용대로, YS는 며칠 뒤 38세 최연소원내총무가 되+ㅂ니다 .	O O PER-B O O O O O O
-캐나다와 국내에서 A매치를 갖는 것은 처음이다 .	ORG-B O O O O O O
-1000마력 이상을 내는 917 경주차를 개발하+여 포르셰의 이름을 널리 알리었다 .	O O O O O O ORG-B O O O O
-최종 점수대에서 +ㄴ LG2∼3점-삼성 10점 이상(10++) 예상(7.19%)이 가장 높았다 .	O O O ORG-B O O O O O O
-■스미싱 피해보상과 해외 의료지원까지 …차별적 안심서비스 제공 ‘T시그니처’ 고객은 모바일 금융사고 보장보험을 통하+여스 미싱, 보이스피싱 피하+ 여시 최대 300만원까지 보상받을 수 있다 .	O O O O O O O O O O O O O O O O O O MNY-B O O O O
-남성의 경우 23.2%가 꼽은 ‘유흥가 도우미’, 여성은 25.2%가 선택하+ㄴ ‘학교 동창’이 각각 첫손에 꼽히었다 .	O O O O O O O O O O O O O O O
+이 에 김제동 이 “ 나 도 한 번 해 보 자 ” 고 말하 자 “ 손목 에 힘 빼 고 ” 라며 다시 한 번 섹시한 포즈 로 시범 을 보 였 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+옆 에 있 던 성유리 는 최현석 셰프 를 보 고 “ 몸 에 배 어 있 는 저 섹시함 ” 이 라며 감탄하 는 모습 을 보 였 다 .	O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+한편 “ 음식 이 건강 에 좋 냐 ? ” 라는 이연복 셰프 의 질문 에 는 “ 정신 건강 에 좋 다 ” 라고 밝혀 재미 를 전 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+이 에 이연복 셰프 는 음식 을 만들 면서 빠져나간 에너지 를 보충하 면 되 겠 다고 말해 재미 를 전 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O
+한국 근무 시절 기자 간담회 때 ‘ 한국 은 美 의 준 식민지 ’ 지적 에	ORG-B O O O O O O ORG-B O ORG-B O O O O O O
+2014 년 최경주 인비테이셔널 이후 1 년 7 개월 만 의 우승 이 자 프로 통산 5 승 째 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O
+기사 내용 대로 , YS 는 며칠 뒤 38 세 최 연소 원내 총무 가 됩니다 .	O O O O PER-B O O O O O O O O O O O O
+캐나다 와 국내 에서 A 매치 를 갖 는 것 은 처음 이 다 .	ORG-B O O O O O O O O O O O O O O
+1000 마력 이상 을 내 는 917 경주 차 를 개발해 포르셰 의 이름 을 널리 알 렸 다 .	O O O O O O O O O O O ORG-B O O O O O O O O
+최종 점수 대 에선 LG 2 ∼ 3 점 - 삼성 10 점 이상 ( 10+ ) 예상 ( 7.19 % ) 이 가장 높 았 다 .	O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O
+■ 스 미싱 피해 보상 과 해외 의료 지원 까지 … 차별적 안심 서비스 제공 ‘ T 시 그니 처 ’ 고객 은 모바일 금융 사고 보장 보험 을 통해 스 미싱 , 보이스 피싱 피해 시 최대 300 만 원 까지 보상 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+남성 의 경우 23.2 % 가 꼽 은 ‘ 유흥가 도우미 ’ , 여성 은 25.2 % 가 선택한 ‘ 학교 동창 ’ 이 각각 첫손 에 꼽 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

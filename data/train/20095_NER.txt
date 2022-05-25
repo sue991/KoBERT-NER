@@ -1,10 +1,10 @@
-제프리 색 스 미국 컬럼비아대 교수(경제학)의 기조강연을 비롯하+여 1970년 한국에서 시작하+ 여세계 90여개국으로 퍼지+ㄴ 새마을운동의 성공 요인을 분석하는 행사가 다양하게 펼쳐 지+ㄴ다 .	PER-B O O ORG-B ORG-I O O O O LOC-B O O O O O O O O O O O O O
-그만큼 바이에른 뮌헨은 분데스리가를 넘어 세계 무대까지 독일 축구를 알리는 데 중요하+ㄴ 역할을 담당 하+ 여+오았다 .	O ORG-B ORG-I ORG-B O O O ORG-B ORG-I O O O O O O O O
-그러나 바이에른 뮌헨의 일강체제에는 선수 독점으로 인하+ㄴ 분데스리가 클럽들 사이의 ‘선수 격차’를 만들어 내 +었다는 부정적 견해도 존재하+ㄴ다 .	O ORG-B ORG-I O O O O ORG-B O O O O O O O O O O O
-[톡톡 경제] 무주택 서민, 공공분양-10년 임대주택 관심 .	O O O O O O O O
-남편 황씨는 기자에게 "모든 것은 변호사를 통하+여서 이야기하겠다 .	O PER-B O O O O O O O
-2011년 1월 새 멤버 김예원, 박세미를 영입하+여 새롭ㄴ 음반을 내 +었다 .	O O O O PER-B PER-B O O O O O O
-라이브 피칭 후에 몸에 아무런 이상이 없다면 13일 샌디에이고와의 야간 경기 이+ㄴ 첫 시범경기에 등판 하+ㄹ 예정이다 .	O O O O O O O O ORG-B O O O O O O O O O
-현대건설은 올 시즌 범실 부문 2위에 오르며 메리트 효과를 톡톡히 보고 있다 .	ORG-B O O O O O O O O O O O O
-가사와 수입 노동을 모두 포함하+여 일하는 시간은 맞벌이 여성이 전업주부보다 2시간가량 많았다 .	O O O O O O O O O O O O O
-그러나 대부분의 사람은 1분에 12∼15회씩 얕고 빠르+ㄴ 호흡을 하+ㄴ다 .	O O O O O O O O O O
+제프리 색스 미국 컬럼비아대 교수 ( 경제학 ) 의 기조 강연 을 비롯해 1970 년 한국 에서 시작해 세계 90 여 개국 으로 퍼진 새마을 운동 의 성공 요인 을 분석하 는 행사 가 다양하 게 펼쳐진다 .	PER-B PER-I ORG-B ORG-I O O O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O O O
+그만큼 바이에른 뮌헨 은 분데스리가 를 넘 어 세계 무대 까지 독일 축구 를 알리 는 데 중요한 역할 을 담당해 왔 다 .	O ORG-B ORG-I O ORG-B O O O O O O ORG-B ORG-I O O O O O O O O O O O
+그러나 바이에른 뮌헨 의 일강 체제 에 는 선수 독점 으로 인한 분데스리가 클럽 들 사이 의 ‘ 선수 격차 ’ 를 만들 어 냈 다는 부정적 견해 도 존재한다 .	O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+[ 톡톡 경제 ] 무주택 서민 , 공공 분양 - 10 년 임대 주택 관심 을	O O O O O O O O O O O O O O O O
+남편 황 씨 는 기자 에게 " 모든 것 은 변호사 를 통해서 이야기하 겠 다 .	O PER-B O O O O O O O O O O O O O O O
+2011 년 1 월 새 멤버 김예원 , 박세미 를 영입해 새로 운 음반 을 냈 다 .	DAT-B DAT-I DAT-I DAT-I O O PER-B O PER-B O O O O O O O O O
+라이브 피칭 후 에 몸 에 아무런 이상 이 없 다면 13 일 샌디에이고 와 의 야간 경기 인 첫 시범 경기 에 등판할 예정 이 다 .	O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O
+현대건설 은 올 시즌 범실 부문 2 위 에 오르 며 메리트 효과 를 톡톡히 보 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+가사 와 수입 노동 을 모두 포함해 일하 는 시간 은 맞벌이 여성 이 전업 주부 보다 2 시간 가량 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 대부분 의 사람 은 1 분 에 12 ∼ 15 회 씩 얕 고 빠른 호흡 을 한다 .	O O O O O O O O O O O O O O O O O O O O

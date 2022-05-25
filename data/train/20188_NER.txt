@@ -1,12 +1,12 @@
-대중(對中) 외교와 관련 하+여서는 ‘중국의 역할’을 당부하+ㄴ만큼 시간을 두고 지켜보겠다는 뜻으로 풀이되 +ㄴ다 .	O O O O ORG-B O O O O O O O O O
-미 국무부의 한 관계자는 3일 “민주당 힐러리 클린턴 후보와 공화당 도널드 트럼프 후보 중 누구가 되+어도 이상하지 않은 분위기”+이라며 고개를 젓었다 .	ORG-B ORG-I O O O ORG-B PER-B PER-I O ORG-B PER-B PER-I O O O O O O O O O O
-황교안, 성주군민 4명과 면담中…조희현 청장, 물병 맞아 부 .	PER-B LOC-B O PER-B O O O O O
-올스타전에서 홈런을 치고 바로 다음날 은퇴 발표를 하면서 말로 표현하+ㄹ 수 없는 감정이 밀리+어+았던 기억이나 +ㄴ다 .	O O O O O O O O O O O O O O O O O
-1974년 차 이콥스키 콩쿠르에서 피아노 부문 2위를 차지하며 받은 상금으로 구씨와 카리브해비밀 여행을 감행하기도 +였다 .	O O O O O O O O O O PER-B LOC-B O O O O
-제일모직은 정장에 IT 기술을 접목시키+ㄴ 스마트 슈트를 선보이+ㄴ다 .	ORG-B O O O O O O O O
-신예 강승호(22)가 대신 나서 +었지만 타격에서 15타수 1안타(0.067)로 부진하+ 여비+ㄴ자리를 메우지 못하였다 .	O PER-B O O O O O O O O O O O
-교동제비집에서는 북한 황해도 지역의 풍경을 CCTV를 통하+여 560인치 초대형 스크린으로 만나 +ㄹ 수 있다 .	LOC-B LOC-B LOC-B O O O O O O O O O O O O
-현재 남아있는 잔여가구의 분양가는 3.3㎡당 700만원대로 가격이 합리적 이+ㄴ 수준이다 .	O O O O O MNY-B O O O O O
-2016 리우데자네이루 올림픽에서는 영국이 선전을 거듭하면서 미국과 중국, ‘양강체제’에 균열이 나타나고 있다 .	O O O ORG-B O O ORG-B ORG-B O O O O O
-박병호·황재균, 박찬호·이대호의 길 따르+ㄹ까 .	PER-B PER-B O O O
-한편 18일 방송한 ‘학교’에서는 그룹 엠아이비(M.I.B) 강남, 가수 김정훈, 방송인 정준하, 배우 심형탁이 프로그램 사상 처음으로 재외한국학교 이+ㄴ 일본 동경 한국학교를 찾았다 .	O O O O O ORG-B PER-B O PER-B O PER-B O PER-B O O O O O LOC-B ORG-B ORG-I ORG-I O
+대중 ( 對中 ) 외교 와 관련해서 는 ‘ 중국 의 역할 ’ 을 당부한 만큼 시간 을 두 고 지켜보 겠 다는 뜻 으로 풀이된다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+미 국무부 의 한 관계자 는 3 일 “ 민주당 힐러리 클린턴 후보 와 공화당 도널드 트럼프 후보 중 누 가 돼도 이상하 지 않 은 분위기 ” 라며 고개 를 저 었 다 .	ORG-B ORG-I O O O O DAT-B DAT-I O ORG-B PER-B PER-I O O ORG-B PER-B PER-I O O O O O O O O O O O O O O O O O O
+황교안 , 성주 군민 4 명 과 면담 中 … 조희현 청장 , 물병 맞 아 부상	PER-B O LOC-B O O O O O O O PER-B O O O O O O
+올스타 전 에서 홈런 을 치 고 바로 다음날 은퇴 발표 를 하 면서 말 로 표현할 수 없 는 감정 이 밀려 왔 던 기억 이 난다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1974 년 차이콥스키 콩쿠르 에서 피아노 부문 2 위 를 차지하 며 받 은 상금 으로 구 씨 와 카리브해 비밀 여행 을 감행하 기 도 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O PER-B O O LOC-B O O O O O O O O O
+제일모직 은 정장 에 IT 기술 을 접목 시킨 스마트 슈트 를 선보인다 .	ORG-B O O O O O O O O O O O O O
+신예 강승호 ( 22 ) 가 대신 나섰 지만 타격 에서 15 타수 1 안타 ( 0.067 ) 로 부진해 빈 자리 를 메우 지 못 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교동 제비 집 에서 는 북한 황해도 지역 의 풍경 을 CCTV 를 통해 560 인치 초대형 스크린 으로 만날 수 있 다 .	LOC-B LOC-I LOC-I O O LOC-B LOC-B O O O O O O O O O O O O O O O O O
+현재 남 아 있 는 잔여 가구 의 분양가 는 3.3 ㎡ 당 700 만 원 대 로 가격 이 합리적 인 수준 이 다 .	O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+2016 리우데자네이루 올림픽 에서 는 영국 이 선전 을 거듭하 면서 미국 과 중국 , ‘ 양강 체제 ’ 에 균열 이 나타나 고 있 다 .	DAT-B O O O O ORG-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+박병호 · 황재균 , 박찬호 · 이대호 의 길 따를까 ?	PER-B O PER-B O PER-B O PER-B O O O O
+한편 18 일 방송 한 ‘ 학교 ’ 에서 는 그룹 엠아이 비 ( M . I . B ) 강남 , 가수 김정훈 , 방송인 정준하 , 배우 심형탁 이 프로그램 사상 처음 으로 재외 한국 학교 인 일본 동경 한국 학교 를 찾 았 다 .	O DAT-B DAT-I O O O O O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I O PER-B O O PER-B O O PER-B O O PER-B O O O O O O O O O LOC-B ORG-B ORG-I ORG-I O O O O O

@@ -1,13 +1,13 @@
-이로 인하+ 여 최고 49층 5940가구로 재건축을 추진 중 이+ㄴ은마아파트는 답보상태에 빠지+어 있다 .	O O O O O O O O O LOC-B O O O O
-한 장관의 등장에 지역 주민 100여명이 거세게 항의하였지만 몸싸움은 없었습니다 .	PER-B O O O O O O O O O O
-프로 선수 1명을 만들기 위하+ㄴ 가족의 헌신도 만만하지 않다 .	O O O O O O O O O O
-한편 서울서부지검 형사5부(부장 김도균)는 이날 12개 업체로부터 58억원을 가로채고 회사 돈 23억원을 횡령 하+ㄴ 혐의로 김 부장검사의 고교 동창 김씨를 구속 기소하였다 .	O ORG-B ORG-I PER-B O O O MNY-B O O O MNY-B O O O PER-B ORG-I O O PER-B O O O
-보+ㄴ 발명 제품은, 대한민국, 미국, 중국, 유럽연합에 특허 등록이 되어 있다”고 강 대표는 말하였다 .	O O O ORG-B ORG-B ORG-B ORG-B O O O O PER-B O O O
-입시와 관련되 +ㄴ 잘못되+ㄴ 정보, 혹은 정보 비대칭의 대안으로 팟캐스트를 시작하게 +었다 .	O O O O O O O O O O O O O
-전국 고속도로 터널에서 연잇어 사고 26일 전국의 고속도로 터널에서 무려 5건(잠정 집계)의 사고가 나+았다 .	O O O O O O O O O O O O O O O
-금발의 경리, “여신강림”vs “재연 배우 아니에요”… 홍보에 폭 .	O PER-B O O O O O O O
-이번 퀴즈 이벤트는 롭스와 분다버그 페이스북에서 응모 가능하며, 당첨자는 가깝ㄴ롭스 매장에서 선물을 받을 수 있다 .	O O O ORG-B ORG-B O O O O ORG-B O O O O O O
-성씨는 풀숲에 숨어 있다가 경찰에 붙잡히 었다 .	PER-B O O O O O O O
-이에 SK하이닉스는 고용량 DDR 4시장에서의 주도권을 공고히 하고 날로 중요성이 커지는 서버 부문에서의 고용량 라인업을 통하+여 시장에 적극 대응하+ㄴ다는 계획이다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
-노무현재단(이사장이해찬)은 1일 노 전 대통령 7주기 추모행사의 하나로 경남 김해시 진영읍 봉하마을에 있는 사저를 개방하였다 .	ORG-B O PER-B O O O O O LOC-B LOC-B LOC-B LOC-B O O O O
-세 번째 시리즈 이+ㄴ ‘응답하라 1988’은 올해 하반기 방송 예정이다 .	O O O O O O O O O O O
+이 로 인해 최고 49 층 5940 가구 로 재건축 을 추진 중 인 은마아파트 는 답보 상태 에 빠져 있 다 .	O O O O O O O O O O O O O O LOC-B O O O O O O O O
+한 장관 의 등장 에 지역 주민 100 여 명 이 거세 게 항의 했 지만 몸싸움 은 없 었 습니다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+프로 선수 1 명 을 만들 기 위한 가족 의 헌신 도 만만 치 않 다 .	O O O O O O O O O O O O O O O O O
+한편 서울서부지검 형사 5 부 ( 부장 김도균 ) 는 이날 12 개 업체 로부터 58 억 원 을 가로채 고 회삿 돈 23 억 원 을 횡령한 혐의 로 김 부장 검사 의 고교 동창 김 씨 를 구속 기소 했 다 .	O ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O O MNY-B MNY-I MNY-I O O O O O MNY-B MNY-I MNY-I O O O O PER-B O O O O O PER-B O O O O O O O
+본 발명 제품 은 , 대한민국 , 미국 , 중국 , 유럽연합 에 특허 등록 이 되 어 있 다 ” 고 강 대표 는 말 했 다 .	O O O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O PER-B O O O O O O
+입시 와 관련된 잘못된 정보 , 혹은 정보 비대칭 의 대안 으로 팟캐스트 를 시작하 게 됐 다 .	O O O O O O O O O O O O O O O O O O O
+전국 고속도로 터널 에서 연이 어 사고 26 일 전국 의 고속도로 터널 에서 무려 5 건 ( 잠정 집계 ) 의 사고 가 났 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+금발 의 경리 , “ 여신 강림 ” vs “ 재연 배우 아니 에요 ” … 홍보 에 폭소	O O PER-B O O O O O O O O O O O O O O O O
+이번 퀴즈 이벤트 는 롭스 와 분다 버그 페이스북 에서 응모 가능하 며 , 당첨자 는 가까 운 롭스 매장 에서 선물 을 받 을 수 있 다 .	O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O ORG-B O O O O O O O O O O
+성 씨 는 풀숲 에 숨 어 있 다가 경찰 에 붙잡 혔 다 .	PER-B O O O O O O O O O O O O O O
+이 에 SK 하이닉스 는 고용량 DDR 4 시장 에서 의 주도권 을 공고히 하 고 날 로 중요성 이 커지 는 서버 부문 에서 의 고용량 라인업 을 통해 시장 에 적극 대응한다는 계획 이 다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+노무현 재단 ( 이사장 이해찬 ) 은 1 일 노 전 대통령 7 주기 추모 행사 의 하나 로 경남 김해시 진영읍 봉하마을 에 있 는 사저 를 개방 했 다 .	ORG-B ORG-I O O PER-B O O DAT-B DAT-I PER-B O O O O O O O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O
+세 번째 시리즈 인 ‘ 응답하 라 1988 ’ 은 올해 하반기 방송 예정 이 다 .	O O O O O O O O O O O O O O O O O

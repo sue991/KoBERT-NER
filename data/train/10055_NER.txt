@@ -1,14 +1,14 @@
-김용태 의원도 같은 날 오후 문자메시지를 통하+여 “내일 오전 10시 30분 국회에서 탈당기자회견을 가지+ㄹ 예정"이라고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O
-남경필 지사와 김용태 의원이 가시밭길을 가겠다고 나서 +었지만 동반 탈당 하+ㄹ의원이 많지 않을 것으로 보는 시각이 많다 .	PER-B O PER-B O O O O O O O O O O O O O O O
-당장 비주류 좌장 격이+ㄴ 김무성 전 대표는 탈당에 부정적 이+ㄴ 태도를 보이었고, 대권 후보 이+ㄴ 유승민 의원도 "당이 크게 쪼개지고 분당하고 이런 사태는 정말 없었으면 좋겠다"고 비슷하+ㄴ 입장을 밝히었기 때문.이와 관련 하+여정두언 전 의원은 이날 한 라디오 방송에 출연, “새누리당 의원들이 다 새 가슴이다 .	O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O ORG-B O O O O O
-'무한도전' 극한 알바, 멤버들이번에도 속았다 .	O ORG-B ORG-I O O O
-덕분에 퀘벡 정부의 지원을 받아 ‘레제샤시에드 베생폴(Les EchassiersdeBaie-Saint-Paul, 베생폴의학다리들)’ 공연단을 설립하+ㄹ 수 있었다 .	ORG-I ORG-B ORG-I O O ORG-B ORG-B ORG-I ORG-B O O O O O
-동아제약은 15일 이병국 전무를 계열 수석 농산 대표이사 사장 겸 동아제약 생산기술 고문으로, 이장우 전무를 동아유리 대표이사 사장에 각각 임명하는 등 임원 인사를 단행하였다 .	ORG-B O PER-B O O O O O O O ORG-B O O PER-B O ORG-B O O O O O O O O O
-오늘날 한국의 정치경제 사회 현상을 되돌아 보+ㄹ 때, 20년 전 일본의 방황과 너무나도 비슷하다 .	O ORG-B O O O O O O O O ORG-B O O O O
-주연급이라지만 인간 반기문에게도 약점은 많다 .	O O PER-B O O O
-특히 포르쉐센터 일산은 포르쉐 센터 서초에잇은 국내 두 번째의 포르쉐 익스클루시브 플래그십 딜러(PorscheEx clus iveFlags hipDealer)로 운영되+ㄴ다 .	O ORG-B LOC-B ORG-B O LOC-B O O O ORG-B O O ORG-B O O O O O
-탁재훈 측은 소장에서 “방송인 탁재훈이 ‘이혼소송 기간 중 3명의 여성과 동시에 외도하였고 이들 여성에게 금품을 제공하고 동반하여 해외여행을 다녀오았으며 자녀들에게는 양육비를 지급하지 않았다’는 취지의 기사 내용이 나 오+ㄴ바 있습니다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-우리나라 연간 원목 수입량 7백64만㎥(수입액 11억8천만 달러)의 절반에 육박하는 원목을 시베리아에서 생산하고 있는 셈이다 .	O O O O O MNY-B MNY-I O O O LOC-B O O O O
-박 대통령은 이날 “인성교육진흥법의 시행을 잘 내실화 하+여우리 아이들이 올바르+ㄴ인성과 공동체 의식을 가지고 성장 하+ㄹ 수 있도록 돕아달라”고 당부하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-요즘은 예전 같은 근성은 없는 것 같아요.꿀 딴지곰 : 예전에는 패턴처럼 외우어서 플레이+였었죠. .	O O O O O O O O O O O O O O
-한편, 안젤리나 졸리는 최근 영국 런던에 '전쟁지역 성폭력 방지를 위하+ㄴ센터'를 설립하는 등 어렵 ㄴ 사람들을 위하+ 여돕는 사회적 활동을 활발히 펼치고 있다 .	O PER-B PER-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O
+김용태 의원 도 같 은 날 오후 문자 메시지 를 통해 “ 내일 오전 10 시 30 분 국회 에서 탈당 기자 회견 을 가질 예정 " 이라고 밝 혔 다 .	PER-B O O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O
+남경필 지사 와 김용태 의원 이 가시밭길 을 가 겠 다고 나섰 지만 동반 탈당할 의원 이 많 지 않 을 것 으로 보 는 시각 이 많 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+당장 비주류 좌장 격 인 김무성 전 대표 는 탈당 에 부정적 인 태도 를 보 였 고 , 대권 후보 인 유승민 의원 도 " 당 이 크 게 쪼개지 고 분당 하 고 이런 사태 는 정말 없 었 으면 좋 겠 다 " 고 비슷한 입장 을 밝 혔 기 때문 . 이 와 관련해 정두언 전 의원 은 이날 한 라디오 방송 에 출연 , “ 새누리당 의원 들 이 다 새가슴 이 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O ORG-B O O O O O O O O
+' 무한도전 ' 극한 알바 , 멤버 들 이번 에 도 속 았 다 …	O O O ORG-B ORG-I O O O O O O O O O O
+덕분 에 퀘벡 정부 의 지원 을 받 아 ‘ 레 제 샤시 에 드 베 생폴 ( Les Echassiers de Baie - Saint - Paul , 베 생폴 의 학다리 들 ) ’ 공연 단 을 설립할 수 있 었 다 .	O O ORG-B ORG-I O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O
+동아제약 은 15 일 이병국 전무 를 계열 수석 농산 대표 이사 사장 겸 동아제약 생산 기술 고문 으로 , 이장우 전무 를 동아 유리 대표 이사 사장 에 각각 임명하 는 등 임원 인사 를 단행 했 다 .	ORG-B O DAT-B DAT-I PER-B O O O O O O O O O ORG-B O O O O O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O O
+오늘날 한국 의 정치 경제 사회 현상 을 되돌아볼 때 , 20 년 전 일본 의 방황 과 너무나 도 비슷하 다 .	O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O
+주연 급 이 라지만 인간 반기문 에게 도 약점 은 많 다 .	O O O O O PER-B O O O O O O O
+특히 포르쉐 센터 일산 은 포르쉐 센터 서초 에 이 은 국내 두 번째 의 포르쉐 익스 클루 시 브 플래그십 딜러 ( Porsche Exclusive Flagship Dealer ) 로 운영된다 .	O ORG-B O LOC-B O ORG-B O LOC-B O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O
+탁재훈 측 은 소장 에서 “ 방송인 탁재훈 이 ‘ 이혼 소송 기간 중 3 명 의 여성 과 동시 에 외도 했 고 이 들 여성 에게 금품 을 제공하 고 동반하 여 해외여행 을 다녀 왔 으며 자녀 들 에게 는 양육비 를 지급하 지 않 았 다 ’ 는 취지 의 기사 내용 이 나온바 있 습니다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리나라 연간 원목 수입 량 7 백 64 만 ㎥ ( 수입액 11 억 8 천만 달러 ) 의 절반 에 육박하 는 원목 을 시베리아 에서 생산하 고 있 는 셈 이 다 .	O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O LOC-B O O O O O O O O O
+박 대통령 은 이날 “ 인성 교육 진흥 법 의 시행 을 잘 내실화해 우리 아이 들 이 올바른 인성 과 공동체 의식 을 가지 고 성장할 수 있 도록 도 와 달 라 ” 고 당부 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+요즘 은 예전 같 은 근성 은 없 는 것 같 아요 . 꿀딴지곰 : 예전 에 는 패턴 처럼 외 워서 플레이 했었 죠 . .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+한편 , 안젤리나 졸리 는 최근 영국 런던 에 ' 전쟁 지역 성폭력 방지 를 위한 센터 ' 를 설립하 는 등 어려 운 사람 들 을 위해 돕 는 사회적 활동 을 활발히 펼치 고 있 다 .	O O PER-B PER-I O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

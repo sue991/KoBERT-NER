@@ -1,11 +1,11 @@
-이로써 흰 우유 제품의 63%까지 ‘나 100% 우유’를 적용하게 +었다. 서울우유협동조합은 ‘나 100% 우유’ 보급을 위하+여원 유가격, 물류비, 공장설비 등이 증가하였음에도 기존 제품 가격 그대로 제품 라인업을 확장하고 있다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-계수저수지, 은행천 등 자연환경이 우수하고 수변공간을 활용하+ㄴ 공원과 지구 내외의 풍부하+ㄴ녹지를 연계하+여그린네트워크를 조성, 청정 자연의 생태 전원도시를 조성하+ㄹ 계획이다 .	LOC-B LOC-B O O O O O O O O O O O O O O O O O O
-지난해 결혼 건수가 2003년 이후 최저치를 나타내 +ㄴ 반면 이혼 건수는 3년째 증가하였다 .	O O O O O O O O O O O O O O
-사법시험 2021년까지 폐지 유예[전문]법무부 “사법시험 폐지 2021년까지 유예”, 여론조사 결과 보니? 2017년 예정이었던 사법시험 폐지가 오는 2021년까지 4년 더 유예되 +ㄴ다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O
-청소년 대표 유격수 김혜성을 비롯하+여타격과 기동력이 뛰어나 +ㄴ 선수들이 많다 .	O O O PER-B O O O O O O O
-애플이 수퍼카 회사에 눈독을 들이고 있다. 영국 파이낸셜타임스(FT)는 21일(현지시간) 애플이 영국 수퍼카 회사 이+ㄴ 맥라렌테크놀로지 인수 또는 전략적 투자를 추진하고 있다고 보도하였다 .	ORG-B O O O O O LOC-B ORG-B O ORG-B LOC-B O O O ORG-B O O O O O O O O
-이번 사건이 일어나 +ㄴ 인천시의 경우 도 취득세­ 등록세 등 9개 시세와 재산세를 비롯하+ㄴ 4개 구세 등 모두 13가지 지방세 가운데 자동차 세 ­도시계획 세­재산세 ­ 종합토지세 등 4개 세목에 대하+여서 83년부터 정부 방침에 따르 아단계적으로 전산 처리를 시작하+여 현재 6개 항목의 전산 처리가 완료되었다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-시간급제의 근무시간은 정오에서 오후 6시까지이며 월 124만원이 지급되+ㄴ다 .	TIM-I TIM-I O O O O MNY-B O O
-세월호 인양 첫 수중조사, 수심 약 44m 지점에 좌측면이 바닥에 닿은 채 있 .	O O O O O O O O O O O O O O
-트레이드의 핵심은 사실상 KIA가 원한 새롭ㄴ포수 김민식과 SK가 원한 새 1번 타자 후보 노수광이다. .	PER-B O O ORG-B O O PER-B ORG-B O O O O O PER-B O
-‘무한도전’ 솔비, 바보 어벤져스 우승이끌 +ㄴ ‘촉의 여신’… ‘비결이 뭐 +이야?’ 무한도전 솔비솔비가 ‘무한도전’에서 ‘촉의 여신’으로 놀랍ㄴ 활약을 선보이었다.24일 방송되+ㄴ MBC ‘무한도전’에서는 ‘바보 전쟁 세 번째 이야기’가 펼쳐지었다 .	O PER-B ORG-B ORG-I O O O O O O O O PER-B O O O O O O O ORG-B O ORG-B O O O O O O
+이 로써 흰우유 제품 의 63 % 까지 ‘ 나 100 % 우유 ’ 를 적용하 게 됐 다 . 서울우유 협동조합 은 ‘ 나 100 % 우유 ’ 보급 을 위해 원유 가격 , 물류비 , 공장 설비 등 이 증가 했 음 에 도 기존 제품 가격 그대로 제품 라인업 을 확장하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+계수 저수지 , 은행 천 등 자연환경 이 우수하 고 수변 공간 을 활용한 공원 과 지구 내외 의 풍부한 녹지 를 연계해 그린 네트워크 를 조성 , 청정 자연 의 생태 전원 도시 를 조성할 계획 이 다 .	LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 결혼 건수 가 2003 년 이후 최저치 를 나타낸 반면 이혼 건수 는 3 년 째 증가 했 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+사법 시험 2021 년 까지 폐지 유예 [ 전문 ] 법무부 “ 사법 시험 폐지 2021 년 까지 유예 ” , 여론 조사 결과 보 니 ? 2017 년 예정 이 었 던 사법 시험 폐지 가 오 는 2021 년 까지 4 년 더 유예 된다 .	O O DAT-B DAT-I O O O O O O ORG-B O O O O DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O
+청소년 대표 유격수 김혜성 을 비롯해 타격 과 기동력 이 뛰어난 선수 들 이 많 다 .	O O O PER-B O O O O O O O O O O O O O
+애플 이 수퍼카 회사 에 눈독 을 들이 고 있 다 . 영국 파이낸셜 타임스 ( FT ) 는 21 일 ( 현지 시간 ) 애플 이 영국 수퍼카 회사 인 맥라렌 테크놀로지 인수 또는 전략적 투자 를 추진하 고 있 다고 보도 했 다 .	ORG-B O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O DAT-B DAT-I O O O O ORG-B O LOC-B O O O ORG-B ORG-I O O O O O O O O O O O O O
+이번 사건 이 일어난 인천시 의 경우 도 취득세 ­ 등록세 등 9 개 시세 와 재산세 를 비롯한 4 개 구세 등 모두 13 가지 지방세 가운데 자동차세 ­ 도시 계획 세 ­ 재산세 ­ 종합 토지세 등 4 개 세목 에 대해서 83 년 부터 정부 방침 에 따 라 단계적 으로 전산 처리 를 시작해 현재 6 개 항목 의 전산 처리 가 완료 됐 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+시간급제 의 근무시간 은 정오 에서 오후 6 시 까지 이 며 월 124 만 원 이 지급된다 .	O O O O O O TIM-B TIM-I TIM-I O O O O MNY-B MNY-I MNY-I O O O
+세월호 인양 첫 수중 조사 , 수심 약 44 m 지점 에 좌측면 이 바닥 에 닿 은 채 있 어	O O O O O O O O O O O O O O O O O O O O O
+트레이드 의 핵심 은 사실상 KIA 가 원한 새로 운 포수 김민식 과 SK 가 원한 새 1 번 타자 후보 노수광 이 다 . ●	PER-B O O O O ORG-B O O O O O PER-B O ORG-B O O O O O O O PER-B O O O O
+‘ 무한도전 ’ 솔비 , 바보 어벤져 스 우승 이끈 ‘ 촉의 여신 ’ … ‘ 비결 이 뭐 야 ? ’ 무한도전 솔비 솔비 가 ‘ 무한도전 ’ 에서 ‘ 촉의 여신 ’ 으로 놀라 운 활약 을 선보 였 다 . 24 일 방송된 MBC ‘ 무한도전 ’ 에서 는 ‘ 바보 전쟁 세 번째 이야기 ’ 가 펼쳐 졌 다 .	O O O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O

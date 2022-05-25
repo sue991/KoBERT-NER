@@ -1,12 +1,12 @@
-조준호 LG전자 모바일 커뮤니케이션(MC) 사업본부장(사장)은 “프리미엄 스마트폰의 가치는 카메라와 오디오에서 나 오+ㄴ다”며 “V20은 전작 V10에서 호평을 받은 카메라, 오디오 기능의 완성도를 높이 어 이용자에게 최상의 멀티미디어 경험을 제공하+ㄹ 것”이라고 강조하였다 .	PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
-국산 김치는 2010년 5월까지 중국에 수출되었지만 중국 측이 위생기준(100g당대장균군 30마리 이하)을 엄격하게 적용하며 수출이 완전히 끊기었다 .	O O O O ORG-B O ORG-B O O O O O O O O O O
-‘제국의 위안부’ 박유하 “정영환, 의도적으로나+의 글오독 .	O ORG-B PER-B PER-B O O O
-선거를 통하+여 투표가 이루어지고, 개표 결과를 검사 하+여당선 여부가 결정되죠. 앞서 설명 하+ㄴ대로 지역구 내에서 1위 득표수를 달성하면 국회의원이 되+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O
-사단 측은 이 같은 사실이 뒤늦게 알려지+어장교와 하사관들이 반발하자 지나 +ㄴ 7일 뒤늦게 정 병장을 상관상해 혐의로 구속 기소하고 하사관 2명은 전출 및 벌금형을 내리었으며 김 중위는 불구속 입건하였다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
-경복궁·창경궁 야간개장, 특별관람행사 입장권 오픈…“예매는 어디서? .	LOC-B O O O O O O
-2기는 1기보 .	O O O
-그리고 기본 제품이 +ㄴ 라이젠 1400X 역시 4코어 8쓰레드 구성이며 기본 클럭 3.2G hz, 터보 클럭 3.4GHz로 구동하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-윤증현 전 기획재정부 장관도 10일 열리+ㄴ 한국경영자총협회 연찬회에서 “상법 개정안 통과시 외국 헤지펀드들의 공격에 의하+ㄴ국부 유출이 우려되 +ㄴ다”며 “경제민주화+이라는 이름으로 기업 지배구조를 이런 식으로 가져가 +아서야 되겠는가”라고 비판하였다 .	PER-B O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-연동은 제주에서 1인 가구가 가장 많으면서도 오피스텔 공실률이 제로 이+ㄴ 지역이다 .	LOC-B LOC-B O O O O O O O O O O
-19세기 영국의 책 예술가 윌리엄 모리스와 프랑스 삽화가 귀스타브도레의 작품 전시회와 스타이렌·윌레트·포랭·질 등 19세기 프랑스 풍자 화가 4인의 작품 전 ‘권력과 풍자’가 진행되+ㄴ다 .	O ORG-B O O PER-B PER-I ORG-B O PER-B O O PER-B O O ORG-B O O O O O O O O O
-셋째 나는 능력이 없다 .	O O O O O
+조준호 LG 전자 모바일 커뮤니케이션 ( MC ) 사업 본부 장 ( 사장 ) 은 “ 프리미엄 스마트폰 의 가치 는 카메라 와 오디오 에서 나온다 ” 며 “ V 20 은 전작 V 10 에서 호평 을 받 은 카메라 , 오디오 기능 의 완성도 를 높 여 이용자 에게 최상 의 멀티미디어 경험 을 제공할 것 ” 이라고 강조 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국산 김치 는 2010 년 5 월 까지 중국 에 수출 됐 지만 중국 측 이 위생 기준 ( 100 g 당 대장균 군 30 마리 이하 ) 을 엄격하 게 적용하 며 수출 이 완전히 끊 겼 다 .	O O O DAT-B DAT-I DAT-I DAT-I O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 제국 의 위안부 ’ 박유하 “ 정영환 , 의도 적 으로 내 글 오독 ”	O O O ORG-B O PER-B O PER-B O O O O O O O O
+선거 를 통해 투표 가 이뤄지 고 , 개표 결과 를 검사해 당선 여부 가 결정되 죠 . 앞서 설명한 대로 지역구 내 에서 1 위 득표 수 를 달성하 면 국회 의원 이 됩니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사 단 측 은 이 같 은 사실 이 뒤늦 게 알려져 장교 와 하사관 들 이 반발하 자 지난 7 일 뒤늦 게 정 병장 을 상관 상해 혐의 로 구속 기소하 고 하사관 2 명 은 전출 및 벌금형 을 내 렸 으며 김중위 는 불구속 입건 했 다 .	O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경복궁 · 창경궁 야간 개장 , 특별 관람 행사 입장권 오픈 … “ 예매 는 어디 서 ? ”	LOC-B O LOC-B O O O O O O O O O O O O O O O O
+2 기 는 1 기 보다	O O O O O O
+그리고 기본 제품 인 라이젠 1400 X 역시 4 코어 8 쓰레드 구성 이 며 기본 클럭 3.2 Ghz , 터보 클럭 3.4 GHz 로 구동한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤증현 전 기획 재정부 장관 도 10 일 열린 한국경영자총협회 연찬회 에서 “ 상법 개정 안 통과 시 외국 헤지 펀드 들 의 공격 에 의한 국부 유출 이 우려된다 ” 며 “ 경제민주화 라는 이름 으로 기업 지배 구조 를 이런 식 으로 가져가서 야 되 겠 는가 ” 라고 비판 했 다 .	PER-B O ORG-B ORG-I O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+연동 은 제주 에서 1 인 가구 가 가장 많 으면서 도 오피스텔 공실률 이 제로 인 지역 이 다 .	LOC-B O LOC-B O O O O O O O O O O O O O O O O O O
+19 세기 영국 의 책 예술가 윌리엄 모리스 와 프랑스 삽화 가 귀스타브 도레 의 작품 전시회 와 스타 이렌 · 윌 레트 · 포 랭 · 질 등 19 세기 프랑스 풍자화 가 4 인 의 작품 전 ‘ 권력 과 풍자 ’ 가 진행된다 .	O O ORG-B O O O PER-B PER-I O ORG-B O O PER-B PER-I O O O O PER-B PER-I O PER-B PER-I O PER-B PER-I O PER-B O O O ORG-B O O O O O O O O O O O O O O O
+셋째 나 는 능력 이 없 다 .	O O O O O O O O

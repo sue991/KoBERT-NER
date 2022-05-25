@@ -1,14 +1,14 @@
-그는 “농구는 길거리에서 3대 3 경기를 하+ㄴ다 .	O O O O O O O O
-심포지엄에서는 “키위에도 천연당이 들어있기 때문에 지나치게 많이 먹는 것은 좋지 않지만 하루 두 개는 오히려 혈당 억제에 도움이 되+ㄴ다”는 연구결과가 나오았다 .	O O O O O O O O O O O O O O O O O O O O O O
-사무관 22명 지방근무 거부 /교육행정직… 한 달째 「보 직동의 서」 안 .	O O O O O O O O O O O O
-흡연장에는 들뜨+ㄴ 얼굴의 선배 형사P가 담배를 물고 있었다 .	O O O O PER-B O O O O
-김종필 전 총리 부인 박영옥씨 별세, 1951년 인연 맺은 후 64년간 살뜰하+ㄴ 내 .	PER-B O O O PER-B O O O O O O O O O
-저자는 영화 포스터 디자인 스튜디오 ‘스푸트닉’ 대표이자 아트디렉터다 .	O O O O O ORG-B O O O
-독일 DPA 통신은 17∼20일(현지시간) 스위스 다보스에서 열리는 WEF의 화두가 ‘포퓰리즘’(대중인기영합주의)이 되+ㄹ 것이라고 전망하였다 .	O O O O LOC-B LOC-I O ORG-B O O O O O O
-‘실종느와르M’ 김강우, 훌륭하+ㄴ수트핏 “내복·핫팩이다 .	O PER-B O O O
-희비가 엇갈리+ㄴ 리오넬 메시와 크리스티아누 호날두의 극적이+ㄴ 표정 대비가 생생하게 잡히었다 .	O O PER-B PER-I PER-B PER-I O O O O O O
-지나+ㄴ 23일 방송되+ㄴ JTBC ‘님과 함께 2-최고의 사랑’에서 장서희는 평소 소극적 이+ㄴ 모습과는 달리 윤건에게 적극적 이+ㄴ 애정 공세를 퍼붓어 눈길을 끌었다 .	O O O O O O O O PER-B O O O O O PER-B O O O O O O O O
-FA 몸값 총액은 KBO 리그 역사의 일부 이+ㄴ데, 이 기간 그 역사가 소실되+ㄴ 것과 다름없다 .	O O O ORG-B ORG-I O O O O O O O O O O O
-준 보석으로 만들 +ㄴ 귀걸이, 팔찌나 목걸이를 사도록 하자.순은에 호박 보석은 러시아 차르들이 가장 좋아하+ㄴ 조합이다 .	O O O O O O O O O O O ORG-B O O O O O
-본업은 가수+이지만 작곡과 음반 프로듀싱에 연기까지 하는, 그룹 ‘B1A4’ 리더 진영. ‘열일’하는 그의 다재다능하+ㅁ이 드라마 〈구르미 그리+ㄴ달빛〉을 통하+여제대로 빛을 발하였다 .	O O O O O O O O ORG-B O PER-B O O O O O O O O O O
-브라이언은 2009년 개발 하+ㄴ 세계 최초의 시각장애인용 자동차, 찰리는 2011년 개발하+ㄴ 미국 최초의 휴머노이드 로봇.번뜩이는 상상력과 창의력으로 생명을 부여받은 이 로봇들은 ‘로봇계의 레오나르도 다빈치’로 불리는 홍 교수의 작품이다 .	PER-B O O O O O O O PER-B O O ORG-B PER-I O PER-B O O O O O PER-B PER-B PER-I PER-I O PER-B PER-I O O
+그 는 “ 농구 는 길거리 에서 3 대 3 경기 를 한다 .	O O O O O O O O O O O O O O
+심포지엄 에서 는 “ 키위 에 도 천연 당 이 들 어 있 기 때문 에 지나치 게 많이 먹 는 것 은 좋 지 않 지만 하루 두 개 는 오히려 혈당 억제 에 도움 이 된다 ” 는 연구 결과 가 나 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사무관 22 명 지방 근무 거부 / 교육 행정직 … 한 달 째 「 보직 동의서 」 안내	O O O O O O O O O O O O O O O O O O
+흡연 장 에 는 들뜬 얼굴 의 선배 형사 P 가 담배 를 물 고 있 었 다 .	O O O O O O O O O PER-B O O O O O O O O O
+김종필 전 총리 부인 박영옥 씨 별세 , 1951 년 인연 맺 은 후 64 년 간 살뜰한 내조	PER-B O O O PER-B O O O DAT-B DAT-I O O O O O O O O O
+저자 는 영화 포스터 디자인 스튜디오 ‘ 스푸트닉 ’ 대표 이 자 아트 디렉터 다 .	O O O O O O O ORG-B O O O O O O O O
+독일 DPA 통신 은 17 ∼ 20 일 ( 현지 시간 ) 스위스 다보스 에서 열리 는 WEF 의 화두 가 ‘ 포퓰리즘 ’ ( 대중 인기 영합주의 ) 이 될 것 이 라고 전망 했 다 .	O O O O O O O O O O O O LOC-B LOC-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+‘ 실종 느와르 M ’ 김강우 , 훌륭한 수트 핏 “ 내복 · 핫팩 이 다 ”	O O O O O PER-B O O O O O O O O O O O
+희비 가 엇갈린 리오넬 메시 와 크리스티아누 호날두 의 극적 인 표정 대비 가 생생하 게 잡 혔 다 .	O O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O
+지난 23 일 방송된 JTBC ‘ 님과함 께 2 - 최고 의 사랑 ’ 에서 장서희 는 평소 소극적 인 모습 과 는 달리 윤건 에게 적극적 인 애정 공세 를 퍼부 어 눈길 을 끌 었 다 .	O DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O
+FA 몸값 총액 은 KBO 리그 역사 의 일부 인데 , 이 기간 그 역사 가 소실된 것 과 다름없 다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+준보석 으로 만든 귀걸이 , 팔찌 나 목걸이 를 사 도록 하 자 . 순은 에 호박 보석 은 러시아 차르 들 이 가장 좋아한 조합 이 다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+본업 은 가수 지만 작곡 과 음반 프로듀싱 에 연기 까지 하 는 , 그룹 ‘ B 1 A 4 ’ 리더 진영 . ‘ 열일 ’ 하 는 그 의 다재다능함 이 드라마 〈 구르 미 그린 달빛 〉 을 통해 제대로 빛 을 발 했 다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+브라이언 은 2009 년 개발한 세계 최초 의 시각 장애인 용 자동차 , 찰리 는 2011 년 개발한 미국 최초 의 휴머노이드 로봇 . 번뜩이 는 상상력 과 창의력 으로 생명 을 부여 받 은 이 로봇 들 은 ‘ 로봇 계 의 레오나르도 다빈치 ’ 로 불리 는 홍 교수 의 작품 이 다 .	PER-B O DAT-B DAT-I O O O O O O O O O PER-B O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I PER-I PER-I O O O O PER-B O O O O O O

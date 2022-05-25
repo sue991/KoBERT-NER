@@ -1,13 +1,13 @@
-말로만 듣던 100세 시대가 코앞으로 다가오+ㄴ 것이다 .	O O O O O O O O
-‘NoNoNo’, ‘Mr.Chu’로 2013년과 2014년 연간 차트에서 상위권에 오르아걸그룹 음원 성적 1위를 기록하였다 .	O O O O O O O O O O O O O
-“대전 소닉붐, 사전에 고지하였으면 참 좋았을 터+이+ㄴ데”, “대전 소닉붐, 소방본부도 당황하었을 듯” 등의 반응을 보이었다 .	O O O O O O O O O O O O O O O O
-최자연 인 설리, 외모 콤플렉스 고백…“짝눈이 이라오해받는다”힙합그룹 다이나믹 듀오 멤버 최자가 27일 JTBC ‘투유 프로젝트-슈가맨’에 출연하+ 여화제가 되+ㄴ 가운데, 그의 연인이 +ㄴ그룹 Fx 출신 설리의 과거 발언이 화제+이다 .	PER-B O PER-B O O O O ORG-B ORG-I O PER-B O O O O O O O O O O O ORG-B O PER-B O O O O
-경기가 불안하+ㄹ 때에는 보급형 제품 수요는 줄어들지만 프리미엄 제품 수요에는 크+ㄴ 변화가 없다는 분석에 따르 아삼성전자 제품의 격을 높이어야 하+ㄴ다는 논의도 이어지었다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O
-(www.100sd.co.kr) 010-5257-1020 수지 100세 시대 상가 김성규◇서울 유명대학가대로변 수익용 빌딩 지하철 2분 거리, 대지 270㎡, 연면적 981㎡7층 건물이 보증금 5억5천/ 월 2400만원.1층 커피숍 성업 중, 병원 등이 입점 하+여 있고 유동인구 많다 .	O O O O O O LOC-B O O O O O O O O O O O O O O MNY-B O O O O O O O O O O O
-연기 경험이 많지 않은 신인이지만 자신만의 매력으로 '민우' +이라는 인물을 잘 보이어주+ㄹ 것으로 기대하고 있다"고 전하였다 .	O O O O O O O PER-B O O O O O O O O O
-국토부에 따르면 메르세데스 벤츠코리아 벤츠코리아는 S350d4개 차종(S350d, S350dL, S350d4 메틱, , S350d4 메틱L)의 9단 변속기 차량 총 98대를 제원 통보 없이 지나 +ㄴ 1월 27일부터 판매 하+여+았다 .	ORG-B O O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-고소득층 응답자의 15%는 은퇴 후 소득이 100만원 미만이 +ㄹ 것으로 예상되+어빈곤층으로 전락하+ㄹ 가능성이 크+ㄴ 것으로 나타나 +았다 .	O O O O O O MNY-B MNY-I O O O O O O O O O O
-애플 '럭키백' 받으려다 생기+ㄴ대 참 .	ORG-B O O O O O
-홍콩은행과 홍콩 텔레콤, 스와이어 그룹 등은 지나 +ㄴ 88년 영어교육을 위하+ㄴ 언어개발기금에 2천만 홍콩 달러(한화 20억원)를 쾌척하였다 .	MNY-I MNY-I ORG-I ORG-B ORG-I O O O O O O O MNY-B MNY-I MNY-B MNY-B O O
-아기 손가락만 하+ㄴ 작은 반지가 한 개에 20만원을 호가하였던 것이다 .	O O O O O O O MNY-B O O O
-사고기 기장도 6275시간의 비행기록을 지니 +ㄴ베테랑이다 .	O O O O O O O
+말 로 만 듣 던 100 세 시대 가 코앞 으로 다가온 것 이 다 .	O O O O O O O O O O O O O O O O
+‘ NoNoNo ’ , ‘ Mr . Chu ’ 로 2013 년 과 2014 년 연간 차트 에서 상위권 에 올 라 걸그룹 음원 성적 1 위 를 기록 했 다 .	O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+“ 대전 소닉붐 , 사전 에 고지 했 으면 참 좋 았 을 텐데 ” , “ 대전 소닉붐 , 소방 본부 도 당황 했 을 듯 ” 등 의 반응 을 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최자 연인 설리 , 외모 콤플렉스 고백 … “ 짝눈 이 라 오해 받 는다 ” 힙합 그룹 다이나믹 듀오 멤버 최자 가 27 일 JTBC ‘ 투유 프로젝트 - 슈가맨 ’ 에 출연해 화제 가 된 가운데 , 그 의 연인 인 그룹 Fx 출신 설리 의 과거 발언 이 화제 다 .	PER-B O PER-B O O O O O O O O O O O O O O O ORG-B ORG-I O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O ORG-B O PER-B O O O O O O O
+경기 가 불안할 때 에 는 보급 형 제품 수요 는 줄어들 지만 프리미엄 제품 수요 에 는 큰 변화 가 없 다는 분석 에 따 라 삼성 전자 제품 의 격 을 높 여야 한다는 논의 도 이어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+( www .100 sd . co . kr ) 010 - 5257 - 1020 수지 100 세 시대 상가 김성규 ◇ 서울 유명 대학가 대로변 수익 용 빌딩 지하철 2 분 거리 , 대 지 270 ㎡ , 연면적 981 ㎡ 7 층 건물 이 보증금 5 억 5 천 / 월 2400 만 원 . 1 층 커피숍 성업 중 , 병원 등 이 입점 해 있 고 유동 인구 많 다 .	O O O O O O O O O PH-B PH-I PH-I PH-I PH-I O O O O O PER-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O
+연기 경험 이 많 지 않 은 신인 이 지만 자신 만 의 매력 으로 ' 민우 ' 라는 인물 을 잘 보 여 줄 것 으로 기대하 고 있 다 " 고 전 했 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+국토 부 에 따르 면 메르세데스벤츠코리아 벤츠 코리아 는 S 350 d 4 개 차종 ( S 350 d , S 350 d L , S 350 d 4 메 틱 , , S 350 d 4 메 틱 L ) 의 9 단 변속기 차량 총 98 대 를 제원 통보 없이 지난 1 월 27 일 부터 판매해 왔 다 .	ORG-B ORG-I O O O ORG-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+고소득 층 응답자 의 15 % 는 은퇴 후 소득 이 100 만 원 미만 일 것 으로 예상돼 빈곤층 으로 전락할 가능성 이 큰 것 으로 나타났 다 .	O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O
+애플 ' 럭키 백 ' 받 으려다 생긴 대 참사	ORG-B O O O O O O O O O
+홍콩 은행 과 홍콩 텔레콤 , 스와이어 그룹 등 은 지난 88 년 영어 교육 을 위한 언어 개발 기금 에 2 천만 홍콩 달러 ( 한화 20 억 원 ) 를 쾌척 했 다 .	ORG-B ORG-I O ORG-B ORG-I O ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I O O O O O O
+아기 손가락 만 한 작 은 반지 가 한 개 에 20 만 원 을 호가 했 던 것 이 다 .	O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+사고 기 기장도 6275 시간 의 비행 기록 을 지닌 베테랑 이 다 .	O O O O O O O O O O O O O O

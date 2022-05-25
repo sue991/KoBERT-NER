@@ -1,14 +1,14 @@
-사령부는 공습을 수행하+ㄴ이후 “표적 지역은 사실 시리아 민주군(SDF)의 전진 진지+이었다”는 사실을 알게 +었다고 설명하였다 .	O O O O O O ORG-B ORG-B O O O O O O O
-시리아 바샤르 알 아사드 정권에 반대하+여 일어나 +ㄴ SDF는 IS와의 전투에 있어서 미군과 여러 국제사회의 지원을 받고 있는 반군이다 .	ORG-B PER-B O O O O O O ORG-B ORG-B O O ORG-B O O O O O O O
-사령부는 이에 “연합군은 SDF 대원들과 그 가족들에게 깊은 애도를 표하+ㄴ다”며 “SDF와 밀접하게 연락을 취하고 있다 .	O O O ORG-B O O O O O O ORG-B O O O O O
-하지만 여전히 청와대 압수수색 여부는 불투명 하+ㄴ 상태+이다 .	O O ORG-B O O O O O O
-만두는 11월에 태어나 +ㄹ 저희 아이의 태명”이라고 전하였다 .	PER-B O O O O O O O O
-시장조사업체 이+ㄴ 디지캐피털은 세계 AR 시장이 올해 30억달러에서 2020년 1200억달러(약 136조원)로 40배 규모가 되+ㄹ 것으로 전망 하+ㄴ다 .	MNY-I O ORG-B O O O O MNY-B O MNY-B MNY-B O O O O O O O
-▷여기를 누르면 크게 보+ㄹ 수 있습니다 또 다른 쟁점 법안이 +ㄴ 서비스산업발전기본법안에 대하+여서 +ㄴ 더민주와 국민의당이 “의료영리화에 대하+ㄴ국민 우려가 크+ㄴ만큼 보건·의료 분야는 제외 하+ㄴ 뒤처리 하+여야 하+ㄴ다”고 기존 입장을 고수하였다 .	O O O O O O O O O O O O O O ORG-B ORG-B ORG-I ORG-B O O O O O O O O O O O O O
-저소득층 노인 후원을 위하+여열리+ㄴ ‘화이트데이 파티’ +이었다 .	O O O O O O O O
-반면 3번 매치 윤정호-박준섭 전, 4번매치 황인춘-이형준 전, 5번매치 김병준-모 중경전에서 +ㄴ B선수로 지정되+ㄴ 박준섭(54.65%), 이형준(47.44%), 모 중경(55.55%)이 A선수 윤정호(26.26%), 황인춘(34.09%), 김병준(28.88%)을 맞고 다소 우세하+ㄴ경기를 펼치+ㄹ 것으로 예측되었다 .	O O O PER-B O O PER-B O O PER-B O O O O PER-B PER-B O O O PER-B PER-B PER-B O O O O O O O
-이 연구를 지휘 하+ㄴ 인물은 ‘신발 박사’로 유명 하+ㄴ 조맹섭 전 한국전자통신연구원(ETRI) 책임연구원(64). 그는 “전두환 전 대통령 시절에 표준구두 사이즈 개발을 담당하면서 신발과의 인연이 시작되었다”고 말하였다 .	O O O O O O O O O PER-B O ORG-B ORG-I O PER-B O O O O O O O O O O O O
-강정호 근황 소식이 화제+이다 .	PER-B O O O O
-이후 삼성은 혐의를 인정하+ㄴ 임창용(현 KIA)만 방출하였고, 윤성환과 안지만에게 형식적 사과만 시키고 시즌 출장을 강행시키 .	O ORG-B O O PER-B ORG-B O PER-B PER-B O O O O O O O
-케이팀 김은 YG행을 택하였다 .	PER-B PER-I ORG-B O O
-고졸자 채용 규모는 올해와 비교하+여3.0%, 시간선택제 일자리는 6.7% 각각 늘었다 .	O O O O O O O O O O O
+사령부 는 공습 을 수행한 이후 “ 표적 지역 은 사실 시리아 민주 군 ( SDF ) 의 전진 진지 였 다 ” 는 사실 을 알 게 됐 다고 설명 했 다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O
+시리아 바샤르 알아사드 정권 에 반대해 일어난 SDF 는 IS 와 의 전투 에 있 어서 미군 과 여러 국제 사회 의 지원 을 받 고 있 는 반군 이 다 .	ORG-B PER-B PER-I O O O O ORG-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O
+사령부 는 이 에 “ 연합군 은 SDF 대원 들 과 그 가족 들 에게 깊 은 애도 를 표한다 ” 며 “ SDF 와 밀접하 게 연락 을 취하 고 있 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+하지만 여전히 청와대 압수 수색 여부 는 불투명한 상태 다 .	O O ORG-B O O O O O O O O
+만두 는 11 월 에 태어날 저희 아이 의 태명 ” 이라고 전 했 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O
+시장 조사 업체 인 디지 캐피털 은 세계 AR 시장 이 올해 30 억 달러 에서 2020 년 1200 억 달러 ( 약 136 조 원 ) 로 40 배 규모 가 될 것 으로 전망한다 .	O O O O ORG-B ORG-I O O O O O O MNY-B MNY-I MNY-I O DAT-B DAT-I MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+▷ 여기 를 누르 면 크 게 볼 수 있 습니다 또 다른 쟁점 법안 인 서비스산업 발전 기본법 안 에 대해선 더 민주 와 국민 의 당 이 “ 의료 영리 화 에 대한 국민 우려 가 큰 만큼 보건 · 의료 분야 는 제외한 뒤 처리해야 한다 ” 고 기존 입장 을 고수 했 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+저소득층 노인 후원 을 위해 열린 ‘ 화이트데이 파티 ’ 였 다 .	O O O O O O O O O O O O O
+반면 3 번 매치 윤정호 - 박준섭 전 , 4 번 매치 황인춘 - 이형준 전 , 5 번 매치 김병준 - 모중경 전 에선 B 선수 로 지정된 박준섭 ( 54.65 % ) , 이형준 ( 47.44 % ) , 모중경 ( 55.55 % ) 이 A 선수 윤정호 ( 26.26 % ) , 황인춘 ( 34.09 % ) , 김병준 ( 28.88 % ) 을 맞 아 다소 우세한 경기 를 펼칠 것 으로 예측 됐 다 .	O O O O PER-B O PER-B O O O O O PER-B O PER-B O O O O O PER-B O PER-B O O O O O O PER-B O O O O O PER-B O O O O O PER-B O O O O O O O PER-B O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O
+이 연구 를 지휘한 인물 은 ‘ 신발 박사 ’ 로 유명한 조맹섭 전 한국 전자 통신 연구원 ( ETRI ) 책임 연구원 ( 64 ) . 그 는 “ 전두환 전 대통령 시절 에 표준 구두 사이즈 개발 을 담당하 면서 신발 과 의 인연 이 시작 됐 다 ” 고 말 했 다 .	O O O O O O O O O O O O PER-B O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+강정호 근황 소식 이 화제 다 .	PER-B O O O O O O
+이후 삼성 은 혐의 를 인정한 임창용 ( 현 KIA ) 만 방출 했 고 , 윤성환 과 안지만 에게 형식적 사과 만 시키 고 시즌 출장 을 강행 시키 다	O ORG-B O O O O PER-B O O ORG-B O O O O O O PER-B O PER-B O O O O O O O O O O O O
+케이팀 김 은 YG 행 을 택 했 다 .	PER-B PER-I O ORG-B O O O O O O
+고졸자 채용 규모 는 올해 와 비교해 3.0 % , 시간 선택 제 일자리 는 6.7 % 각각 늘 었 다 .	O O O O O O O O O O O O O O O O O O O O O O

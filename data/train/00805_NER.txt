@@ -1,16 +1,16 @@
-일본 고베에서 태어나 +ㄴ 할야마시다는 아홉 살부터 요리를 시작하였으며, 로스엔젤레스와 멜버른, 쿄토를 비롯하+ㄴ 세계 여러 도시에서 다양하+ㄴ 경험을 쌓았다 .	LOC-B LOC-B O O PER-B O O O O LOC-B LOC-B LOC-B O O O O O O O O
-홍준표 “김평우 ‘막말’ 일부 보도, 과도하+ㄴ 비판 …文 ‘혁명’ 발언이 더 막말 .	PER-B PER-B O O O O O PER-B O O O O O
-[단독]“靑, 어버이연합 등 보수단체 10여곳 찍어 금액까지 구체적으로 못 박아 지원 요구 .	ORG-B ORG-B O O O O O O O O O O O
-한류스타 이민호와 같은 스타하우스 엔터테인먼트 소속이다 .	ORG-B PER-B O ORG-B ORG-I O O
-연간 대상자는 8500명 이 내가 되+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O
-해당 질환자는 승인 의료기관이 +ㄴ 서울대병원, 서울아산병원 등 13개 상급종합병원에서 진료를 받아 등록하면 산정특례를 적용받을 수 있다 .	O O O O O LOC-B LOC-B O O O O O O O O O O O
-적발되자 3억 납부 “의혹 .	O MNY-B O O O
-그 중 타이틀곡이+ㄴ ‘아이윌 올웨이스 러브유(IWillAlways LoveYou)’는 미국 빌보드 싱글차트에서 14주간 연속 1위 +이라는 신기록을 수립하였고, 미국과 영국 외에도 거의 모든 국가의 싱글차트에서 1위를 차지하며 메가톤급 인기를 누리+ㅂ니다 .	O O O O O O O ORG-B O O O O O O O O ORG-B ORG-B O O O O O O O O O O O
-이번 뮤직비디오는 한 사민감독의 작품으로 아이콘 특유의 상큼하고 에너지 넘치는 모습을 담아내 +었다 .	O O O O O ORG-B O O O O O O O O
-가요계는 최근 MBC ‘무한도전’, 엠넷 ‘쇼미더머니’ 등 인기 프로그램에서 선보이+ㄴ 음원들이 차트를 장악하였고 가을을 맞고 가요계 선배가수들이 속속 컴백하고 있는 상황 속에서 신인으로서 아이콘의 차트 올킬은 이례적이란 평가를 하고 있다 .	O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
-아이콘은 앞서 +어음원 공개를 앞두고 14일 진행 하+ㄴ 네이버 V 앱 생중계 ‘취향저격의 밤’에서 “진짜 데뷔하게 +었다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O
-모데랏의 음악은 마치 광활 하+ㄴ늪지대에 묻히+어 있 .	PER-B O O O O O O O
-최 군수는 2002년과 2006년 무소속으로 군수 선거에 출마하+여이학렬 전 군수에게 잇따르 아패하였다 .	PER-B O O O O O O PER-B O O O O O
-또 정보전자소재 부문은 흑자(293억원)로 전환하였다 .	O O O MNY-B O O
-하지만 중국서만 한정 수량 판매되+어 세계 시장 서 크게 주목받지 못하였다 .	O ORG-B O O O O O O O O O O
-MBC ‘나 혼자 살+ㄴ다’도 트렌드에 급급하+ㄴ 모양새+이다 .	ORG-B O O O O O O O
+일본 고베 에서 태어난 할 야마 시다 는 아홉 살 부터 요리 를 시작 했 으며 , 로스엔젤레스 와 멜버른 , 쿄토 를 비롯한 세계 여러 도시 에서 다양한 경험 을 쌓 았 다 .	LOC-B LOC-B O O PER-B PER-I PER-I O O O O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O
+홍준표 “ 김평우 ‘ 막말 ’ 일부 보도 , 과도한 비판 … 文 ‘ 혁명 ’ 발언 이 더 막말 ”	PER-B O PER-B O O O O O O O O O PER-B O O O O O O O O
+[ 단독 ] “ 靑 , 어버이 연합 등 보수 단체 10 여 곳 찍 어 금액 까지 구체적 으로 못 박 아 지원 요구 ”	O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+한류 스타 이민호 와 같 은 스타 하우스 엔터테인먼트 소속 이 다 .	O O PER-B O O O ORG-B ORG-I ORG-I O O O O
+연간 대상자 는 8500 명 이내 가 될 것 으로 예상된다 .	O O O O O O O O O O O O
+해당 질환 자 는 승인 의료 기관 인 서울대병원 , 서울아산병원 등 13 개 상급 종합 병원 에서 진료 를 받 아 등록하 면 산정 특례 를 적용 받 을 수 있 다 .	O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+적발되 자 3 억 납부 “ 의혹 ”	O O MNY-B MNY-I O O O O
+그중 타이틀 곡 인 ‘ 아이 윌 올 웨이스 러브 유 ( I Will Always Love You ) ’ 는 미국 빌보드 싱글 차트 에서 14 주간 연속 1 위 라는 신기록 을 수립 했 고 , 미국 과 영국 외 에 도 거의 모든 국가 의 싱글 차트 에서 1 위 를 차지하 며 메가톤 급 인기 를 누립니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+이번 뮤직 비디오 는 한사민 감독 의 작품 으로 아이콘 특유 의 상큼하 고 에너지 넘치 는 모습 을 담아냈 다 .	O O O O PER-B O O O O ORG-B O O O O O O O O O O O O
+가요계 는 최근 MBC ‘ 무한도전 ’ , 엠넷 ‘ 쇼 미 더머 니 ’ 등 인기 프로그램 에서 선보인 음원 들 이 차트 를 장악 했 고 가을 을 맞 아 가요계 선배 가수 들 이 속속 컴백 하 고 있 는 상황 속 에서 신인 으로서 아이콘 의 차트 올 킬 은 이례적 이 란 평가 를 하 고 있 다 .	O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+아이콘 은 앞서 음원 공개 를 앞두 고 14 일 진행한 네이버 V 앱 생 중계 ‘ 취향 저격 의 밤 ’ 에서 “ 진짜 데뷔하 게 됐 다 .	ORG-B O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O
+모 데 랏 의 음악 은 마치 광활한 늪지대 에 묻혀 있 다	PER-B PER-I PER-I O O O O O O O O O O
+최 군수 는 2002 년 과 2006 년 무소속 으로 군수 선거 에 출마해 이학렬 전 군수 에게 잇따 라 패 했 다 .	PER-B O O DAT-B DAT-I O DAT-B DAT-I O O O O O O PER-B O O O O O O O O O
+또 정보 전자 소재 부문 은 흑자 ( 293 억 원 ) 로 전환 했 다 .	O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+하지만 중국 서 만 한정 수량 판매돼 세계 시장 서 크 게 주목 받 지 못 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O
+MBC ‘ 나 혼자 산다 ’ 도 트렌드 에 급급한 모양새 다 .	ORG-B O O O O O O O O O O O O

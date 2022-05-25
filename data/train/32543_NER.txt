@@ -1,13 +1,13 @@
-이밖에 페루에서도 한국 전용공단으로 30만평을 30년간 무상임대 하+여주겠다는 현지 당국자 제안이 있어 기협 측이 타당성을 분석하고 있다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O
-영장 발부 소식에 눈물…朴, 올림머리 피+ㄴ 빼고 화장지우 .	O O O PER-B O O O O O
-KBS2TV 드라마 ‘연애를 기대하+여’(2013), 영화 ‘빅매치’(2014)에잇어 최근 tvN 예능 프로그램 ‘삼시세끼’에 잇따르 아출연하며 영역을 확대하고 있는 보아는 이로써 데뷔 15주년에 가수로서도 새롭ㄴ 이정표를 세우게 +었다 .	O O O O O O O ORG-B O O O O O O O O PER-B O O O O O O O O O
-정지상태에서 시속 100km까지 도달하는 시간이 +ㄴ ‘제로백’은 7.6초+이다 .	O O O O O O O O O
-20년 이상 장기 가입자의 월평균 수령액은 8840원이 오르아 89만3050원이다 .	O O O O O O MNY-B O MNY-B O
-이 시각 서울 경복궁역 7번 출구 앞 상황이 +ㅂ니다 .	O O LOC-B LOC-I LOC-I LOC-I O O O O
-윤상원은 1980년 5월 마지막까지 총을 들고 싸우 .	PER-B O O O O O O O
-그의 예상대로 1년여가 지나 +ㄴ 지금 전 세계는 4차 산업혁명 시대를 향하+여 빠르게 달려가고 있다 .	O O O O O O O O O O O O O O O O
-광주시내버스 노선 절반 새해 2월부터 바뀌+ㄴ .	LOC-B O O O O O O
-이나모리는 조종사 노조의 퇴직연금부터 30%나 깎아버리었으며 직원 1만명을 해고하고, 사업장의 30%를 폐쇄하였다 .	ORG-B O O O O O O O O O O O O
-이나모리에게 성역은 없었다 .	ORG-B O O O
-신세계백화점이 지나 +ㄴ 2013년부터 지난해까지 휴가철(7∼8월) 매출 비중을 살펴보+ㄴ 결과 2013년 13.8%+이었던 것이 지난해는 16.1%까지 늘었다 .	ORG-B O O O O O O O O O O O O O O O O
-서세원, ‘女동반 홍콩 출국설’ 부인 “명백하+ㄴ 허위-교묘 하+ㄴ 편집” …사진 찍히+ㄴ女는 누구? 서세원 홍콩 출국 방송인 서세원이 한 여성과 함께 홍콩으로 출국하였다는 보도에 대하+여 “매우 화가나 +ㄴ다”며 불쾌하+ㄴ심경을 드러내+었다 .	PER-B O LOC-B O O O O O O O O O PER-B LOC-B O O PER-B O O O LOC-B O O O O O O O O O
+이 밖에 페루 에서 도 한국 전용 공단 으로 30 만 평 을 30 년 간 무상 임대해 주 겠 다는 현지 당국자 제안 이 있 어 기협 측 이 타당성 을 분석하 고 있 다 .	O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영장 발부 소식 에 눈물 … 朴 , 올림머리 핀 빼 고 화장 지 워	O O O O O O PER-B O O O O O O O O
+KBS 2 TV 드라마 ‘ 연애 를 기대해 ’ ( 2013 ) , 영화 ‘ 빅 매치 ’ ( 2014 ) 에 이 어 최근 tvN 예능 프로그램 ‘ 삼시세끼 ’ 에 잇따 라 출연하 며 영역 을 확대하 고 있 는 보아 는 이 로써 데뷔 15 주년 에 가수 로서 도 새로 운 이정표 를 세우 게 됐 다 .	O O O O O O O O O O DAT-B O O O O O O O O DAT-B O O O O O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+정지 상태 에서 시속 100 km 까지 도달하 는 시간 인 ‘ 제로 백 ’ 은 7.6 초 다 .	O O O O O O O O O O O O O O O O O O O O
+20 년 이상 장기 가입자 의 월평균 수령 액 은 8840 원 이 올 라 89 만 3050 원 이 다 .	O O O O O O O O O O MNY-B MNY-I O O O MNY-B MNY-I MNY-I MNY-I O O O
+이 시각 서울 경복궁역 7 번 출구 앞 상황 입니다 .	O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O
+윤상원 은 1980 년 5 월 마지막 까지 총 을 들 고 싸우 다	PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O
+그 의 예상 대로 1 년 여 가 지난 지금 전 세계 는 4 차 산업혁명 시대 를 향해 빠르 게 달려가 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+광주 시내 버스 노선 절반 새해 2 월 부터 바뀐다	LOC-B O O O O O DAT-B DAT-I O O
+이나모리 는 조종사 노조 의 퇴직 연금 부터 30 % 나 깎 아 버 렸 으며 직원 1 만 명 을 해고하 고 , 사업장 의 30 % 를 폐쇄 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이나모리 에게 성역 은 없 었 다 .	ORG-B O O O O O O O
+신세계 백화점 이 지난 2013 년 부터 지난해 까지 휴가철 ( 7 ∼ 8 월 ) 매출 비중 을 살펴본 결과 2013 년 13.8 % 였 던 것 이 지난해 는 16.1 % 까지 늘 었 다 .	ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+서세원 , ‘ 女 동반 홍콩 출국 설 ’ 부인 “ 명백한 허위 - 교묘한 편집 ” … 사진 찍힌 女 는 누구 ? 서세원 홍콩 출국 방송인 서세원이 한 여성 과 함께 홍콩 으로 출국 했 다는 보도 에 대해 “ 매우 화 가 난다 ” 며 불쾌한 심경 을 드러냈 다 .	PER-B O O O O LOC-B O O O O O O O O O O O O O O O O O O PER-B LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O

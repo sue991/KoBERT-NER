@@ -1,12 +1,12 @@
-며칠 동안 음식물 쓰레기 봉투를 구입하지 못하+여집 안에 음식물 쓰레기를 쌓아놓고 있었던 김 모씨(47)도 집에서 멀리 떨어지+ㄴ S마트까지 찾아가 +았지만 헛걸음을 +였다 .	O O O O O O O O O O O O PER-B PER-I O O O LOC-B O O O O O
-하지만 우리은행의 수익성과 건전성이 개선되 +ㄴ점에 투자자들이 좀 더 주목하+ㄴ 것이라는 분석이 나 오+ㄴ다 .	O ORG-B O O O O O O O O O O O O O
-이 분야의 전문가 이+ㄴ㈜ 진학사 청소년 교육연구소 윤동수 이사, 와이즈만 입시전략연구소 유근상 책임연구원에게 학생·학부모에게 전하+여주+ㄹ만 하+ㄴ 조언을 듣어 +보았다 .	O O O ORG-B ORG-I ORG-I ORG-I PER-B O ORG-B ORG-I O O O O O O O O O
-주목 하+ 여야 하+ㄹ 흐름은 .윤동수 이사 “첫째, 이제 수시가 필수가 +었다 .	O O O O O PER-B O O O O O O O
-군인 출신 홍의 선씨와 결혼 하+여 64년 남편과 함께 답십리 영화 촬영소(대한연합 영화 주식회사)를 설립하였으며 ‘부부전쟁’(1964)을 시작으로 여성으로서는 처음으로 영화 제작에 뛰어들었다 .	O O O O O O O O O ORG-B ORG-I ORG-B ORG-I ORG-I O O O O O O O O O
-현대백화점 측은 “내년 2월까지 방문객 600만명을 끌어모으아 1년 매출액 4000억원을 달성하는 것이 목표”라고 밝히었다 .	ORG-B O O O O O O O O MNY-B O O O O O
-결과적으로 인문계열은 등급 합4를, 자연계열은 등급 합5를 맞추면 상위권 대학까지 지원 하+ㄹ 수 있다는 것이 +ㅂ니다 .	O O O O O O O O O O O O O O O O O
-돌 전후 심하다가 2~3세에 사라지 +ㄹ 수 있으며, 20세가 넘어서까지 지속되더라도 대부분 경하+ㄴ 증상을 나타내고 유병율도 낮다 .	O O O O O O O O O O O O O O O O O O
-크라이슬러 200과 피아트 500X은 전방 추돌 경고-플러스 시스템(FCW-Plus)과 전방 추돌 경고 시스템(FCW)으로 불리는 AEB로 각각 최우수(Superior)와 우수(Advanced) 등급을 받으며 탑세이프티픽 플러스 조건을 만족시키었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-이어 허구연 KBO 야구 발전위원장(MBC 스포츠플러스 해설위원), 이재국 한국야구기자회장(스포츠동아), 한만 정 통합추진위원(MBC 스포츠플러스 해설위원)이 토론자로 나서 +었다 .	O PER-B O O O ORG-B O PER-B ORG-B O O O ORG-B O O O O O
-문 대표는 논의 초점을 ‘의원 수 확대’보다 ‘권역별 비례대표제 도입’에 맞추는 데 안간힘을 +었다 .	PER-B O O O O O O O O O O O O O O
-그라나다는 승점 23점으로 19위에 머무르었다 .	O O O O O O
+며칠 동안 음식물 쓰레기 봉투 를 구입하 지 못해 집 안 에 음식물 쓰레기 를 쌓 아 놓 고 있 었 던 김 모 씨 ( 47 ) 도 집 에서 멀리 떨어진 S 마트 까지 찾아갔 지만 헛걸음 을 했 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O LOC-B LOC-I O O O O O O O O
+하지만 우리은행 의 수익성 과 건전성 이 개선된 점 에 투자자 들 이 좀 더 주목한 것 이 라는 분석 이 나온다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O
+이 분야 의 전문가 인 ㈜ 진학사 청소년 교육 연구소 윤동수 이사 , 와이즈만 입시 전략 연구소 유근상 책임 연구원 에게 학생 · 학부모 에게 전해 줄 만한 조언 을 들 어 봤 다 .	O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I PER-B O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+주목해야 할 흐름 은 . 윤동수 이사 “ 첫째 , 이제 수 시가 필수 가 됐 다 .	O O O O O PER-B O O O O O O O O O O O O
+군인 출신 홍의선 씨 와 결혼해 64 년 남편 과 함께 답십리 영화 촬영소 ( 대한 연합 영화 주식회사 ) 를 설립 했 으며 ‘ 부부 전쟁 ’ ( 1964 ) 을 시작 으로 여성 으로서 는 처음 으로 영화 제작 에 뛰어들 었 다 .	O O PER-B O O O DAT-B DAT-I O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O
+현대백화점 측 은 “ 내년 2 월 까지 방문객 600 만 명 을 끌 어 모 아 1 년 매출액 4000 억 원 을 달성하 는 것 이 목표 ” 라고 밝 혔 다 .	ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+결과적 으로 인문 계열 은 등급 합 4 를 , 자연 계열 은 등급 합 5 를 맞추 면 상위권 대학 까지 지원할 수 있 다는 것 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+돌 전후 심하 다가 2 ~ 3 세 에 사라질 수 있 으며 , 20 세 가 넘 어서 까지 지속되 더라도 대부분 경한 증상 을 나타내 고 유병율 도 낮 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+크라이슬러 200 과 피아트 500 X 은 전방 추돌 경고 - 플러스 시스템 ( FCW - Plus ) 과 전방 추돌 경고 시스템 ( FCW ) 으로 불리 는 AEB 로 각각 최우수 ( Superior ) 와 우수 ( Advanced ) 등급 을 받 으며 탑 세이프티 픽 플러스 조건 을 만족 시 켰 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 허구연 KBO 야구 발전 위원장 ( MBC 스포츠 플러스 해설 위원 ) , 이재국 한국 야구 기자 회장 ( 스포츠 동아 ) , 한만정 통합 추진 위 원 ( MBC 스포츠 플러스 해설 위원 ) 이 토론자 로 나섰 다 .	O PER-B O O O O O O O O O O O O PER-B O O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O
+문 대표 는 논의 초점 을 ‘ 의원 수 확대 ’ 보다 ‘ 권역 별 비례 대표 제 도입 ’ 에 맞추 는 데 안간힘 을 썼 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그라나다 는 승점 23 점 으로 19 위 에 머물 렀 다 .	O O O O O O O O O O O O O

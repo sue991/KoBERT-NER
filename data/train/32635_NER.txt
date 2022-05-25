@@ -1,10 +1,10 @@
-이 국장은 또 다음달 중순 경제3시장 설립 준비가 완료되+ㄹ 것이며 이후 전산이나 예탁원 결제 문제에 대하+ㄴ 점검을 거치+어야 하기 때문에 당초 일정보다 늦추+어지+ㄴ 3월 중에 개장되+ㄹ 전망이라고 밝히었다 .	PER-B O O O O O O O O PER-B PER-B PER-B ORG-B O O O O O O O O O O O O O PER-B O O
-김준일기자 jikim@donga. com/세종=박민우·허동준기 .	PER-B O LOC-B O
-정부와 시장이 앞장서는 발전 방식만으로는 한계에 도달하였다는 점, 시민 스스로 바뀌지 않으면 한국 사회가 더 이상 앞으로 나아가 +ㄹ 수 없다는 점이 +ㅂ니다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-더불어민주당 문재인·자유한국당 홍준표·국민의당 안철수·바른정당 유승민·정의당 심상정 대통령 후보들은 오늘 오전 10시부터 2시간 동안 SBS 상암동 공개홀에서 TV토론을 녹화하+ㅂ니다 .	ORG-B ORG-B ORG-B ORG-B ORG-B PER-B O O O O O O O LOC-B LOC-I LOC-I O O O
-최근 경북농업기술원 봉화약초시험장에서는 단삼의 생산량과 약리성분을 약 1.5배 향상시키는 기술을 개발하였다 .	O LOC-B LOC-I O O O O O O O O O
-한편 이날 ‘택시’ 육지담은 윤미래의 ‘검은 행복’ 노래를 듣고 래퍼의 꿈을 키우게 +었다고 밝히었다 .	O O O PER-B PER-B O O O O O O O O O O
-이상일 아젠다센터 대표도 “오늘부로 민주당 경선의 변수는 사실상 사라지었다”며 “문재인 후보의 대세론이 확인되면서 앞으로 남은 영남과 수도권 경선에서는 민주당 지지자들이 더 강하게 문 후보 쪽으로 결집하+ 여 격차가 더 벌어 지+ㄹ 것”이라고 주장하였다 .	PER-B ORG-B O O ORG-B O O O O PER-B O O O O O LOC-B LOC-B O ORG-B O O O PER-B O O O O O O O O O O O
-한편 9일 오후 8시 국내 최대 음악 사이트 멜론을 비롯하+여 1theK 및 로엔트리 유튜브 채널, 써니 힐 공식 페이스북을 통하+여주비와 거미의 콜라보레이션곡 '지우어지지 않는 1'의 리릭 비디오가 일제히 공개되었다 .	O O O O O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O
-카스트로의 타계로 쿠바에서 +ㄴ 경제 분야를 중심으로 개혁·개방에 더욱 힘이 실리+ㄹ 것이라는 전망이 나 오+ㄴ다 .	PER-B O LOC-B O O O O O O O O O O O O O
-윤아는 자신의 현재 위치에서 주어 지+ㄴ 역할을 하고 싶다 .	PER-B O O O O O O O O O
+이 국장 은 또 다음 달 중순 경 제 3 시장 설립 준비 가 완료될 것 이 며 이후 전산 이나 예 탁원 결제 문제 에 대한 점검 을 거쳐야 하 기 때문 에 당초 일정 보다 늦춰 진 3 월 중 에 개장될 전망 이 라고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+김준일 기자 jikim @ donga . com / 세종 = 박민우 · 허동준 기자	PER-B O O O O O O O LOC-B O PER-B O PER-B O
+정부 와 시장 이 앞장서 는 발전 방식 만 으로 는 한계 에 도달 했 다는 점 , 시민 스스로 바뀌 지 않 으면 한국 사회 가 더 이상 앞 으로 나아갈 수 없 다는 점 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+더불 어 민주당 문재인 · 자유 한국 당 홍준표 · 국민 의당 안철수 · 바른 정당 유승민 · 정의당 심상정 대통령 후보 들 은 오늘 오전 10 시 부터 2 시간 동안 SBS 상암동 공개 홀 에서 TV 토론 을 녹화합니다 .	ORG-B ORG-I ORG-I PER-B O ORG-B ORG-I ORG-I PER-B O ORG-B ORG-I PER-B O ORG-B ORG-I PER-B O ORG-B PER-B O O O O O TIM-B TIM-I TIM-I O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O
+최근 경북 농업 기술 원 봉화 약초 시험 장 에서 는 단삼 의 생산량 과 약리 성분 을 약 1.5 배 향상 시키 는 기술 을 개발 했 다 .	O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O
+한편 이날 ‘ 택시 ’ 육지 담 은 윤미래 의 ‘ 검 은 행복 ’ 노래 를 듣 고 래퍼 의 꿈 을 키우 게 됐 다고 밝 혔 다 .	O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O
+이상일 아젠다센터 대표 도 “ 오늘 부 로 민주당 경선 의 변수 는 사실상 사라 졌 다 ” 며 “ 문재인 후보 의 대세 론 이 확인되 면서 앞 으로 남 은 영남 과 수도권 경선 에서 는 민주당 지지자 들 이 더 강하 게 문 후보 쪽 으로 결집해 격차 가 더 벌어질 것 ” 이라고 주장 했 다 .	PER-B ORG-B O O O O O O ORG-B O O O O O O O O O O O PER-B O O O O O O O O O O O LOC-B O LOC-B O O O ORG-B O O O O O O PER-B O O O O O O O O O O O O O O O
+한편 9 일 오후 8 시 국내 최대 음악 사이트 멜론 을 비롯해 1 theK 및 로 엔트리 유튜브 채널 , 써니 힐 공식 페이스북 을 통해 주비 와 거미 의 콜라보레이션 곡 ' 지 워 지 지 않 는 1 ' 의 리릭 비디오 가 일제히 공개 됐 다 .	O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+카스트로 의 타계 로 쿠바 에선 경제 분야 를 중심 으로 개혁 · 개방 에 더욱 힘 이 실릴 것 이 라는 전망 이 나온다 .	PER-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+윤아 는 자신 의 현재 위치 에서 주어진 역할 을 하 고 싶 다 .	PER-B O O O O O O O O O O O O O O

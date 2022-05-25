@@ -1,17 +1,17 @@
-”-기억에 남는 경주를 꼽는다면.“2007년 11월 16일 우수급 데뷔전 1착, 17일 신인왕 전준우승하였는데 18일 특선급에서 오르 아꼴찌를 +었던 순간이었다 .	O O O O O O O O O O O O O O O O O O O
-또 올림픽이 열리는 2년 뒤에는 스키와 스노보드를 즐기+ㄹ 수 있는 최적의 장소+이라고도 강조하였다 .	O O O O O O O O O O O O O O
-앞서 이기권 고용노동부 장관은 지나 +ㄴ 1월 기자간담회에서 “노동절·석가탄신일·어린이날이 모이+ㄴ 5월 첫째주를 연휴로 만들는 방안을 검토하자”고 말하였다 .	O PER-B ORG-B O O O O O O O O O O O O O O O
--일본 기업의 변화를 보이어주는 사례가 있나.“일본의 3대 금융사이+ㄴ 미즈호 금융그룹이 은행 간 순환출자 목적으로 보유 중이+ㄴ 750억엔 규모 주식을 내년 3월까지 매도하기로 +였다 .	ORG-B O O O O ORG-B O O ORG-B ORG-I O O O O O O MNY-B O O O O O O O
-프로야구 두산의 3번 타자 민병헌이 올 시즌 거포의 모습을 뽐내고 있다 .	O ORG-B O O PER-B O O O O O O O
-호날두, 샬+하게 상대로 멀티 골…득점 왕 선 .	PER-B ORG-B O O O O O O
-이번 체결식은 2014년부터 모바일 아카데미에 참여하+ㄴ 10개 대학과 이번에 추가 선정되+ㄴ 2개 대학을 포함하+ㄴ 전국 12개 대학 및 메르세데스-벤츠 사회공헌위원회 관계자들이 참석하+ㄴ 가운데 진행되었다 .	O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O
-한편 일부 네티즌은 "2011년 3월 일어나 +ㄴ 동일본 대지진 전에도 똑같은 일이 있었다"며 "이번 일도 지진의 전조 증상 같다"며 우려하는 모습을 보이었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-A씨는 “괜히 쓸데없는 글을 올리+어멀+ㄴ길 오시게 해죄송하다”고 진술하였다고 하+ㄴ다 .	PER-B O O O O O O O O O
-SK이노베이션과 자회사들은 세계 각지에서 글로벌 파트너링 프로젝트를 추진 중이다 .	ORG-B O O O O O O O O O
-다음달 1일 박근혜 정부 출범 이후 첫 한일 정상회담이 열리+ㄹ 가능성이 높아지었다 .	O O PER-B O O O O ORG-B O O O O O
-소녀시대 썸머파티, 티저 공개 하루 만에 조회수 100만 돌파… ‘인기폭발’걸그룹 소녀시대 ‘썸머 파티’ 티저가 공개되며 누리꾼들의 이목이 집중되고 있다 .	ORG-B O O O O O O O O O ORG-B O O O O O O O O O
-소녀시대는 1일 자정 공식 유튜브 계정을 통하+여소녀시대 TVCF 버전 ‘COMEBACKof Girls'Generation(TVCFver.)’ 티저 영상을 공개하였다 .	ORG-B O O O O O ORG-B O O O O O O O O
-이날 공개되+ㄴ ‘썸머파티’ 티저에서 소녀시대 멤버 윤아, 수영, 효연, 유리, 태연, 티파니, 써니, 서현은 바닷가에서 비키니 상의에 반바지를 입고 하+ㄴ껏 매력을 발산하는 모습도 담기었다 .	O O O O ORG-B O PER-B PER-B PER-B PER-B PER-B PER-B PER-B PER-B O O O O O O O O O O O
-공개되+ㄴ 소녀시대 썸머파티티저 영상은 공개 하루 만에 100만이 넘는 조회수를 기록하며 많은 인기를 얻고 있다 .	O ORG-B O O O O O O O O O O O O O O
-지난해 2월 발표 하+ㄴ 정규 4집 이후 약 1년 6개월 만에 국내 무대에 컴백하는 소녀시대는 오는 7일 오후 10시, 각종 음악 사이트를 통하+여선행 싱글 ‘PARTY(파티)’의 음원을 전격 공개 하+ㄹ 예정이다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
-한편 소녀시대는 선행 싱글 ‘PARTY(파티)’와 ‘LionHeart(라이온 하트)’, ‘YouThink(유씽크)’를 더블 타이틀로 한 정규 앨범을 순차적으로 발표하+여각기 다른 색깔의 3곡으로 활동하+ㄹ 계획으로 알려지었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
+” - 기억 에 남 는 경주 를 꼽 는다면 . “ 2007 년 11 월 16 일 우수 급 데뷔 전 1 착 , 17 일 신인왕 전 준우승 했 는데 18 일 특선 급 에서 올 라 꼴찌 를 했 던 순간 이 었 다 .	O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O DAT-B DAT-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+또 올림픽 이 열리 는 2 년 뒤 에 는 스키 와 스노보드 를 즐길 수 있 는 최적 의 장소 라고 도 강조 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 이기권 고용 노동부 장관 은 지난 1 월 기자 간담회 에서 “ 노동절 · 석가 탄신 일 · 어린이날 이 모인 5 월 첫째 주 를 연휴 로 만드 는 방안 을 검토하 자 ” 고 말 했 다 .	O PER-B ORG-B ORG-I O O O DAT-B DAT-I O O O O DAT-B O DAT-B DAT-I DAT-I O DAT-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+- 일본 기업 의 변화 를 보 여 주 는 사례 가 있 나 . “ 일본 의 3 대 금융 사 인 미즈호 금융 그룹 이 은행 간 순환 출자 목적 으로 보유 중 인 750 억 엔 규모 주식 을 내년 3 월 까지 매도하 기 로 했 다 .	O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O DAT-B DAT-I O O O O O O O
+프로 야구 두산 의 3 번 타자 민병헌 이 올 시즌 거포 의 모습 을 뽐내 고 있 다 .	O O ORG-B O O O O PER-B O O O O O O O O O O O O
+호날두 , 샬 케 상대 로 멀티 골 … 득점 왕 선두	PER-B O ORG-B ORG-I O O O O O O O O
+이번 체결 식 은 2014 년 부터 모바일 아카데미 에 참여한 10 개 대학 과 이번 에 추가 선정된 2 개 대학 을 포함한 전국 12 개 대학 및 메르세데스 - 벤츠 사회 공헌 위원회 관계자 들 이 참석한 가운데 진행 됐 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O
+한편 일부 네티즌 은 " 2011 년 3 월 일어난 동 일본 대지진 전 에 도 똑같 은 일 이 있 었 다 " 며 " 이번 일 도 지진 의 전조 증상 같 다 " 며 우려하 는 모습 을 보 였 다 .	O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+A 씨 는 “ 괜히 쓸데 없 는 글 을 올려 먼 길 오 시 게 해 죄송하 다 ” 고 진술 했 다고 한다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+SK 이노베이션 과 자회사 들 은 세계 각지 에서 글로벌 파트너 링 프로젝트 를 추진 중 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O
+다음 달 1 일 박근혜 정부 출범 이후 첫 한일 정상 회담 이 열릴 가능성 이 높아 졌 다 .	O O DAT-B DAT-I PER-B O O O O ORG-B O O O O O O O O O O
+소녀 시대 썸머 파티 , 티저 공개 하루 만 에 조회 수 100 만 돌파 … ‘ 인기 폭발 ’ 걸그룹 소녀 시대 ‘ 썸머 파티 ’ 티저 가 공개되 며 누리 꾼 들 의 이목 이 집중되 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+소녀 시대 는 1 일 자정 공식 유튜브 계정 을 통해 소녀 시대 TV CF 버전 ‘ COMEBACK of Girls ' Generation ( TV CF ver . ) ’ 티저 영상 을 공개 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+이날 공개된 ‘ 썸머 파티 ’ 티저 에서 소녀 시대 멤버 윤아 , 수영 , 효연 , 유리 , 태연 , 티파니 , 써니 , 서현 은 바닷가 에서 비키니 상의 에 반바지 를 입 고 한 껏 매력 을 발산하 는 모습 도 담 겼 다 .	O O O O O O O O ORG-B ORG-I O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+공개된 소녀 시대 썸머 파티 티저 영상 은 공개 하루 만 에 100 만 이 넘 는 조회 수 를 기록하 며 많 은 인기 를 얻 고 있 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 2 월 발표한 정규 4 집 이후 약 1 년 6 개월 만 에 국내 무대 에 컴백하 는 소녀 시대 는 오 는 7 일 오후 10 시 , 각종 음악 사이트 를 통해 선행 싱글 ‘ PARTY ( 파티 ) ’ 의 음원 을 전격 공개할 예정 이 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O
+한편 소녀 시대 는 선행 싱글 ‘ PARTY ( 파티 ) ’ 와 ‘ Lion Heart ( 라이온 하트 ) ’ , ‘ You Think ( 유 씽크 ) ’ 를 더블 타이틀 로 한 정규 앨범 을 순차적 으로 발표해 각기 다른 색깔 의 3 곡 으로 활동할 계획 으로 알려 졌 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

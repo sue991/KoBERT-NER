@@ -1,10 +1,10 @@
-윤정희, '가을만남'부터 '봄 결혼'까 .	PER-B O O O O
-한국, 이라크 꺾고 결승 진출 하+ㄹ까? 亞 컵 역대 전적 살펴보 .	ORG-B ORG-B O O O O O O O O O O
-탁월하+ㄴ 갈등 중재자 1970~80년대 NFL에서는 선수와 구단 경영진 사이에는 임금 등의 문제로 갈등이 잦았다 .	O O O O O O O O O O O O O O O
-삼성이 지주회사를 설립하는 것+ㄴ 당분간 어렵ㄹ 것+이란 것+이 시장의 전망이다 .	ORG-B O O O O O O O O O O
-온라인 중앙일보 사진 ‘너를 기억하+여’ 방송 화 .	O O O O O O O O
-중국 증시도 2.29% 오르며 이틀째 오름세를 잇어 +가았다 .	ORG-B O O O O O O O O
-아시아에서는 2012년 서울이 개최지로 선정되었다 .	LOC-B O LOC-B O O O
-박 대통령은 현재 하마평에 오르는 인사 외에 ‘제3의 인물’을 물색하고 있는 것으로 알려지었다 .	PER-B O O O O O O O O O O O O O
-이번 후쿠시마 지진 역시 동일본 대지진의 여파로 이어 지+ㄴ 지진이라는 설명이다 .	O LOC-B O O O O O O O O O O
-매일 바이오도마슈노는 가정에서 만들 +ㄴ 것처럼 매일유업이 제대로 만들 +ㄴ플레인 요거트에 과일 알갱이들을 담았다 .	O O O O O O ORG-B O O O O O O O O
+윤정희 , ' 가을 만남 ' 부터 ' 봄 결혼 ' 까지	PER-B O O O O O O O O O O O
+한국 , 이라크 꺾 고 결승 진출할까 ? 亞 컵 역대 전적 살펴보 니	ORG-B O ORG-B O O O O O O O O O O O
+탁월한 갈등 중재자 1970 ~ 80 년대 NFL 에서 는 선수 와 구단 경영진 사이 에 는 임금 등 의 문제 로 갈등 이 잦 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성 이 지주 회사 를 설립하 는 건 당분간 어려 울 거 란 게 시장 의 전망 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+온라인 중앙일보 사진 ‘ 너 를 기억해 ’ 방송 화면	O O O O O O O O O O
+중국 증시 도 2.29 % 오르 며 이틀 째 오름세 를 이 어 갔 다 .	ORG-B O O O O O O DAT-B DAT-I O O O O O O O
+아시아 에서 는 2012 년 서울 이 개최지 로 선정 됐 다 .	LOC-B O O DAT-B DAT-I LOC-B O O O O O O O
+박 대통령 은 현재 하마평 에 오르 는 인사 외 에 ‘ 제 3 의 인물 ’ 을 물색하 고 있 는 것 으로 알려 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 후쿠시마 지진 역시 동 일본 대지진 의 여파 로 이어진 지진 이 라는 설명 이 다 .	O LOC-B O O O O O O O O O O O O O O O O
+매일 바이오 도마슈노 는 가정 에서 만든 것 처럼 매일유업 이 제대로 만든 플레인 요거트 에 과일 알갱이 들 을 담 았 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O

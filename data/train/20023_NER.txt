@@ -1,11 +1,11 @@
-그러자 문 후보는 "예나 안녕?"이라고 인사를 건네+었다 .	O PER-B O PER-B O O O O
-남기일 감독 “빨리 잔류 확정 짓고 싶다 .	PER-B O O O O O O O
-이에 박명수는 “방송에는 나가면 안 되지만 재혼하는 기분이다”고 속내를 밝히+어 다음주부터 진행되 +ㄹ 라오스 편에 대하+ㄴ기대감에 부풀었다 .	O PER-B O O O O O O O O O O O LOC-B O O O O
-군 당국에 따르면 북한은 황해남도 해주시·연안군(서부), 강원도 평강군(중부), 강원도금강산(동부) 등 4곳에서 GPS 교란 전파를 쏘고 있다 .	O O O ORG-B LOC-B LOC-B LOC-B LOC-I LOC-B O O O O O O O O
-검은 돈의 뿌리를 뽑겠다며 1993년 대통령 긴급명령으로 금융실명제를 전격 실시하였다 .	O O O O O O O O O O O
-그동안 보건복지부와 식품의약품안전처 등 주무부처가 넥시아의 과학적·임상적 검증에 소극적으로 대처하면서 수만명의 말기 암 환자들은 혼란에 빠지었다 .	O ORG-B ORG-B O O O O O O O O O O O O O O
-측면은 2열도어 핸들을 ‘히든타입’으로 윈도우 라인 옆에 위치시키+어쿠페와 같이 날렵하고 스포티 하+ㄴ 캐릭터 라인을 표현하였다 .	O O O O O O O O O O O O O O O O
-1일 인천시에 따르면 정부는 2006년 국내 기술로 개발하+ㄴ자기부상열차와 철도시설을 인천공항 주변에 건설하는 사업을 시작하였다 .	O LOC-B O O O O O O O LOC-B O O O O O
-'에이스' 서민지, 사춘기 소녀로 연기 변신…과 거남 태현과 '달콤하+ㄴ 키스신' 눈 .	O PER-B O O O O O O O O O O
-타율 0.345, 장타력 0.500으로 개인 통산 최고의 성적을 기록하였던 2014년보다 좋은 페이스+이다 .	O O O O O O O O O O O O O
-그렇지만 이양의 어머니는 “해경이 13일 가거도 헬기 추락으로 힘들 +ㄹ 것 같은데 여객선이 운항하는 16일 아침까지 기다리+어보자”며 주저하였다 .	O O O O O LOC-B O O O O O O O O O O O O O
+그러 자 문 후보 는 " 예 나 안녕 ? " 이라고 인사 를 건넸 다 .	O O PER-B O O O PER-B PER-I O O O O O O O O O
+남기일 감독 “ 빨리 잔류 확정 짓 고 싶 다 ”	PER-B O O O O O O O O O O
+이 에 박명수 는 “ 방송 에 는 나가 면 안 되 지만 재혼하 는 기분 이 다 ” 고 속내 를 밝혀 다음 주 부터 진행 될 라오스 편 에 대한 기대감 에 부풀 었 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+군 당국 에 따르 면 북한 은 황해남도 해주시 · 연안군 ( 서부 ) , 강원도 평강군 ( 중부 ) , 강원도 금강산 ( 동부 ) 등 4 곳 에서 GPS 교란 전파 를 쏘 고 있 다 .	O O O O O ORG-B O LOC-B LOC-I O LOC-B O O O O LOC-B LOC-I O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O
+검 은 돈 의 뿌리 를 뽑 겠 다 며 1993 년 대통령 긴급 명령 으로 금융실명제 를 전격 실시 했 다 .	O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+그동안 보건복지부 와 식품 의약품 안전 처 등 주무 부처 가 넥 시아 의 과학적 · 임상 적 검증 에 소극적 으로 대처하 면서 수만 명 의 말기 암 환자 들 은 혼란 에 빠 졌 다 .	O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+측면 은 2 열 도어 핸들 을 ‘ 히든 타입 ’ 으로 윈도우 라인 옆 에 위치 시켜 쿠페 와 같이 날렵하 고 스포티한 캐릭터 라인 을 표현 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 일 인천시 에 따르 면 정부 는 2006 년 국내 기술 로 개발한 자기 부상 열차 와 철도 시설 을 인천 공항 주변 에 건설하 는 사업 을 시작 했 다 .	DAT-B DAT-I ORG-B O O O O O DAT-B DAT-I O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O
+' 에이스 ' 서민지 , 사춘기 소녀 로 연기 변신 … 과거 남태현 과 ' 달콤한 키스 신 ' 눈길	O O O PER-B O O O O O O O O PER-B O O O O O O O
+타율 0.345 , 장타력 0.500 으로 개인 통산 최고 의 성적 을 기록 했 던 2014 년 보다 좋 은 페이스 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+그렇지만 이 양 의 어머니 는 “ 해경 이 13 일 가거도 헬기 추락 으로 힘들 것 같 은데 여객선 이 운항하 는 16 일 아침 까지 기다려 보 자 ” 며 주저 했 다 .	O O O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O

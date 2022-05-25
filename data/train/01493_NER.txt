@@ -1,12 +1,12 @@
-그리고 그 정점에서 신 총괄회장이 한·일 양국의 롯데를 총괄하였다. 그러던 중 지난해 말과 올해 초에 걸치+어신 전 부회장이 주요 보직에서 잇따르 아밀려나 +았다 .	O O O PER-B O ORG-B O ORG-B O O O O O O O PER-B O O O O O O O O
-경북 칠곡이 고향이+ㄴ 김루트와는 대구에서 버스킹을 하면서 만나 +았다 .	LOC-B LOC-B O PER-B LOC-B O O O O O
-96년 대통령 표창을 받았다. 유족으로는 부인이정희씨와 재영ㆍ혜원 ㆍ혜경 ㆍ혜준씨 등 1남 3녀가 있다 .	O O O O O PER-B PER-B PER-B PER-B O O O O O
-정씨의 출산 의혹은 그가 페이스북 계정에 2014년 후반기와 지난해 5월 자신의 임신을 암시하는 듯 하+ㄴ 내용의 글을 올리었다가 삭제하면서 급속히 퍼지기 시작하였다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O
-그는 또 내년 10월 1일 이 군대를 창설, 가동 하+ㄹ 준비가 되+어 있으며 또 그렇게 되+ㄹ 것이라고 강조하였다 .	O O O O O O O O O O O O O O O O O O O
-클린턴 전 대통령은 또 “변화를 만들는 최고 적임자”라고 극찬하였다. 뉴욕타임스 칼럼니스트 모린다우드는 클린턴 전 대통령의 연설은 유권자들에게 비호감이미지를 지니 +ㄴ부인 클린턴을 위하+여발 벗고 나서 +ㄴ 것이라고 26일 분석하였다 .	PER-B O O O O O O O O ORG-B O PER-B PER-B O O O O O O O PER-B O O O O O O O O
-글=강태화·이지상기자thkang@j oongang. co.kr사진=김성룡기 .	PER-B O PER-B O
-북측 인사는 "경비가 강하지 않고 다른 경기 때와 똑같은 것을 보면 …"이라고 말하였다 .	O O O O O O O O O O O O O O
-소유진, 백종원에 “여봉보고 시퍼여” 문자 하자 곧바로 … ‘닭살 부부’ 인증 소유 진백종원.둘째 출산을 앞두고 있는 소유진이 백종원과의 행복하+ㄴ 결혼생활을 공개하였다.9일 방송되+ㄴ SBS 러브FM ‘김지선 김일중의 세상을 만나자’에서는 ‘블링블링 스타 특집’ 코너를 통하+여소유진과 전화 인터뷰를 진행하였다 .	PER-B PER-B O O O O O O O O O PER-B PER-B O O O PER-B PER-B O O O O O O O O O O O O O O PER-B O O O O
-2018년 경단지에서 걷어서 통학 하+ㄹ 수 있는 곳에 초중고교가 들어서 +ㄴ다 .	O O O O O O O O O O O O
-호남 출신 법무부 장관이 나오아 지역 안배가 이루어 지+ㄴ데 .	LOC-B O ORG-B O O O O O O O
-그가 입장하자 김무성 대표는 회의 도중 다른 참석자들 자리를 하나씩 옮기게 +였다 .	O O PER-B O O O O O O O O O O
+그리고 그 정점 에서 신 총괄 회장 이 한 · 일 양국 의 롯데 를 총괄 했 다 . 그러 던 중 지난해 말 과 올해 초 에 걸쳐 신 전 부회장 이 주요 보직 에서 잇따 라 밀려났 다 .	O O O O PER-B O O O ORG-B ORG-I ORG-I O O ORG-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+경북 칠곡 이 고향 인 김루트 와 는 대구 에서 버스 킹 을 하 면서 만났 다 .	LOC-B LOC-B O O O PER-B O O LOC-B O O O O O O O O O
+96 년 대통령 표창 을 받 았 다 . 유족 으로 는 부인 이정희 씨 와 재영 ㆍ 혜원 ㆍ 혜경 ㆍ 혜 준 씨 등 1 남 3 녀 가 있 다 .	DAT-B DAT-I O O O O O O O O O O O PER-B O O PER-B O PER-B O PER-B O PER-B PER-I O O O O O O O O O O
+정 씨 의 출산 의혹 은 그 가 페이스북 계정 에 2014 년 후반기 와 지난해 5 월 자신 의 임신 을 암시하 는 듯한 내용 의 글 을 올 렸 다가 삭제하 면서 급속히 퍼지 기 시작 했 다 .	PER-B O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+그 는 또 내년 10 월 1 일 이 군대 를 창설 , 가동할 준비 가 돼 있 으며 또 그렇 게 될 것 이 라고 강조 했 다 .	O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O
+클린턴 전 대통령 은 또 “ 변화 를 만드 는 최고 적임자 ” 라고 극찬 했 다 . 뉴욕타임스 칼럼니스트 모린 다우드 는 클린턴 전 대통령 의 연설 은 유권자 들 에게 비 호감 이미지 를 지닌 부인 클린턴 을 위해 발 벗 고 나선 것 이 라고 26 일 분석 했 다 .	PER-B O O O O O O O O O O O O O O O O O ORG-B O PER-B PER-I O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O DAT-B DAT-I O O O O
+글 = 강태화 · 이지상 기자 thkang @ joongang . co . kr 사진 = 김성룡 기자	O O PER-B O PER-B O O O O O O O O O O PER-B O
+북측 인사 는 " 경비 가 강하 지 않 고 다른 경기 때 와 똑같 은 것 을 보 면 … " 이라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소유진 , 백종원 에 “ 여봉 보고 시퍼 여 ” 문자하 자 곧바로 … ‘ 닭살 부부 ’ 인증 소유진 백종원 . 둘째 출산 을 앞두 고 있 는 소유진 이 백종원 과 의 행복한 결혼 생활 을 공개 했 다 . 9 일 방송된 SBS 러브 FM ‘ 김지선 김일중 의 세상 을 만나 자 ’ 에서 는 ‘ 블 링 블 링 스타 특집 ’ 코너 를 통해 소유 진 과 전화 인터뷰 를 진행 했 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O PER-B O PER-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+2018 년 경 단지 에서 걸 어서 통학할 수 있 는 곳 에 초 중 고교 가 들어선다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O
+호남 출신 법무부 장관 이 나 와 지역 안배 가 이뤄진 데 다	LOC-B O ORG-B O O O O O O O O O O
+그 가 입장하 자 김무성 대표 는 회의 도중 다른 참석자 들 자리 를 하나 씩 옮기 게 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O

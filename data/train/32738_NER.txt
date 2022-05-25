@@ -1,17 +1,17 @@
-해피투게더 3전 현무 합류… 박명수, 진지하+ㄴ 표정으로 “소 같은 유재석, 똥도 버리+ㄹ 것+이 없다 .	O PER-B PER-I O PER-B O O O O PER-B O O O O O
-김고은, ‘성나+ㄴ 변호사’ 서 처음 정삭적 이+ㄴ 역할?… 이유 듣어보니 “피안 묻히+어”배우 김고은, 이선균, 임원희가 9일 오전 서울 강남구 압구정의 한 멀티플렉스에서 열리+ㄴ영화 ‘성나+ㄴ 변호사’ 제작 보고회에 참석하였다 .	PER-B O O O O O O O O O O O PER-B PER-B PER-B O O LOC-B LOC-B LOC-B O O O O O O O O O
-이 자리에서 이선균은 김고은의 따귀 때리는 연기에 대하+여 언급하였다 .	O O PER-B PER-B O O O O O O
-공업도시 울산에서 그리+ㄴ 프리미엄을 만끽 하+ㄹ 수 있는 아파트를 분양하+ㄴ다 .	O LOC-B O O O O O O O O O
-현대캐피탈을 이기면 삼성화재가 가시권 안에 들어오기 때문이었다 .	ORG-B O ORG-B O O O O O
-여성가족부에서 성매매 방지 업무와 여성 고용 활성화 정책 등을 추진하였다 .	ORG-B O O O ORG-B O O O O O O
-영어 내신 합산성적이 154점이면 2학년 내신은 두 학기 모두 A를, 3학년은 2등급 한 개와 3등급 한 개를 받았을 때 점수+이다 .	O O O O O O O O O O O O O O O O O O O O O
-일부 외고에서 중학교 영어 내신 2·3학년 성적이 ‘A·A·2·3’을 받은 학생도 1단계를 통과하였다는 것이다 .	O O O O O O O O O O O O O O
-업계에서는 이 지역에서 하루 220억원대의 매출이 발생하는 것으로 추정 하+ㄴ다 .	O O O O MNY-B O O O O O O
-[연예뉴스스테이션] 엑소 공연 패+ㄴ 몸수색 논란… “신체 접촉 없었다 .	O ORG-B O O O O O O O O
-실제로 김일성은 핵폭탄을 갖는 것이 정권 유지를 보장하는 최선책이라고 믿고 있다 .	O PER-B O O O O O O O O O O
-‘썰전’ 전원책 “반기문, 대선 출마 자격 없어 … 생존자 동상 건립은 독재자일 때 .	O PER-B PER-B O O O O O O O O O O O
-그러나 드웨인웨이드(DwyaneWade) 이름을 놓고 발음을 같지만 철자가 틀리+ㄴ 드웨인(Dway ne)으로 트윗에 잘못 올리었다 .	O ORG-B O O O O O O PER-B O O O O O
-그 중 37년 6월 4일 혜산진 근처 마을이 +ㄴ보천보에 대하+ㄴ 공격이 가장 성공적 이+ㄴ 전투+이었다 .	O O O O O LOC-B O O LOC-B O O O O O O O
-그는 또 『 지금으로서 +ㄴ 통화긴축의 필요성을 느끼지 않는다 』면서, 『당초 목표대로 총통화 증가율을 14∼17% 범위 안에서 신축 운용하되, 서서히 증가율을 낮추+어가 올 연말에는 가능하+ㄴ 14% 쪽에 근접시키+ㄴ다는 방침』이라고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이어 “FBI는 그 테러범의 아이폰 ‘하나’에만 접근하+ㄹ 수 있는 ‘뒷문’을 딱 한 차례만 만들어 달라고 하지만 그런 잠금 해제 기술은 은행이나 가정집 등의 자물쇠 수억개를 따+ㄹ 수 있는 마스터키(만능열쇠) 같은 것”이라고 반박하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-자본주의 물결이 넘실대는 중국에서 청년들이 가장 갖고 싶어하는 것은 무엇이 +ㄹ까 .	O O O ORG-B O O O O O O O O
+해피투게더 3 전 현무 합류 … 박명수 , 진지한 표정 으로 “ 소 같 은 유재석 , 똥 도 버릴 게 없 다 ”	O O PER-B PER-I O O PER-B O O O O O O O O PER-B O O O O O O O O
+김고은 , ‘ 성난 변호사 ’ 서 처음 정삭 적 인 역할 ? … 이유 들 어 보 니 “ 피 안 묻혀 ” 배우 김고은 , 이선균 , 임원희 가 9 일 오전 서울 강남구 압구정 의 한 멀티플렉스 에서 열린 영화 ‘ 성난 변호사 ’ 제작 보고회 에 참석 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B O DAT-B DAT-I O LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O O O
+이 자리 에서 이선균 은 김고은 의 따귀 때리 는 연기 에 대해 언급 했 다 .	O O O PER-B O PER-B O O O O O O O O O O O
+공업 도시 울산 에서 그린 프리미엄 을 만끽할 수 있 는 아파트 를 분양한다 .	O O LOC-B O O O O O O O O O O O O
+현대캐피탈 을 이기 면 삼성화재 가 가시권 안 에 들어오 기 때문 이 었 다 .	ORG-B O O O ORG-B O O O O O O O O O O O
+여성 가족 부 에서 성 매매 방지 업무 와 여성 고용 활성화 정책 등 을 추진 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
+영어 내신 합산 성적 이 154 점 이 면 2 학년 내신 은 두 학기 모두 A 를 , 3 학년 은 2 등급 한 개 와 3 등급 한 개 를 받 았 을 때 점수 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일부 외고 에서 중학교 영어 내신 2 · 3 학년 성적 이 ‘ A · A · 2 · 3 ’ 을 받 은 학생 도 1 단계 를 통과 했 다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+업계 에서 는 이 지역 에서 하루 220 억 원 대 의 매출 이 발생하 는 것 으로 추정한다 .	O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+[ 연예 뉴스 스테이션 ] 엑소 공연 팬 몸수색 논란 … “ 신체 접촉 없 었 다 ”	O O O O O ORG-B O O O O O O O O O O O O
+실제로 김일성 은 핵폭탄 을 갖 는 것 이 정권 유지 를 보장하 는 최선책 이 라고 믿 고 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
+‘ 썰 전 ’ 전원책 “ 반기문 , 대선 출마 자격 없 어 … 생존자 동상 건립 은 독재자 일 때 ”	O O O O PER-B O PER-B O O O O O O O O O O O O O O O
+그러나 드웨인 웨이드 ( Dwyane Wade ) 이름 을 놓 고 발음 을 같 지만 철자 가 틀린 드웨인 ( Dwayne ) 으로 트윗 에 잘못 올 렸 다 .	O PER-B PER-I O ORG-B ORG-I O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O
+그중 37 년 6 월 4 일 혜산진 근처 마을 인 보천보 에 대한 공격 이 가장 성공적 인 전투 였 다 .	O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I LOC-B O O O LOC-B O O O O O O O O O O O
+그 는 또 『 지금 으로선 통화 긴축 의 필요성 을 느끼 지 않 는다 』 면서 , 『 당초 목표 대로 총통화 증가율 을 14 ∼ 17 % 범위 안 에서 신축 운용 하 되 , 서서히 증가율 을 낮춰 가 올 연말 에 는 가능한 14 % 쪽 에 근접 시킨다는 방침 』 이라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ FBI 는 그 테러 범 의 아이폰 ‘ 하나 ’ 에 만 접근할 수 있 는 ‘ 뒷문 ’ 을 딱 한 차례 만 만들 어 달 라고 하 지만 그런 잠 금 해제 기술 은 은행 이나 가정집 등 의 자물쇠 수억 개 를 딸 수 있 는 마스터 키 ( 만능열쇠 ) 같 은 것 ” 이라고 반박 했 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자본주의 물결 이 넘실대 는 중국 에서 청년 들 이 가장 갖 고 싶 어 하 는 것 은 무엇 일까 .	O O O O O ORG-B O O O O O O O O O O O O O O O O

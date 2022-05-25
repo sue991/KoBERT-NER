@@ -1,11 +1,11 @@
-횡단보도를 건너던 30대 남성을 들이받았다 .	O O O O O O
-다행히 정수민(26)이라는 깜짝 스타가 나타나 +아그의 공백을 메우었지만, 에이스 없이 시즌을 치르느라 불펜에 과부하가 걸리었다 .	O PER-B O O O O O O O O O O O O O O
-아마존의 대자연에서 수확 하+ㄴ 희귀 하+ㄴ 천연재료를 베이스로 제조되+ㄴ 다양하+ㄴ 제품이 차세대 히트아이템 등극을 눈앞에 두고 있다 .	ORG-B O O O O O O O O O O O O O O O O O
-한국에서도 먹을 수 있는 오가닉을 고집하는 미국 브랜드가 크+ㄴ인기를 얻고 있다고 듣었다 .	LOC-B O O O O O LOC-B O O O O O O
-새마을운동은 이제 세계적으로 ‘행정한류’를 상징하는 유명 브랜드가 되+어가+아요.여기에 아마 정부 3.0도 새 수출품으로 장착되 +ㄹ 것+이+ㅂ니다 .	O O O O O O O O O O O O O O O O O
-김흥규 아주대 교수는 “지금은 국제질서가 요동치면서 차기 정부에서 나라의 운명이 바뀌+ㄹ 수도 있는 절체절명의 시기”+이라며 “대선주자들이 실리적, 현실적이+ㄴ해법을 고민하는지를 검증 하+여야 하+ㄴ다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
-하지만 톰슨은 10초 71로 가장 먼저 결승선을 통과하며 금메달 후보들을 모두 제치고 ‘깜짝 금메달’의 주인공이 +었다 .	O PER-B O O O O O O O O O O O O O O O
-2010년 데뷔 하+ㄴ 커피 소년은 ‘아메리카노에게’ ‘웃는다 .	O O O PER-B PER-I O O O
--로봇수술이 주목받는 이유는. 김선한 = 다양하+ㄴ 첨단기술과 융합하는 분야 +이다 .	O O O PER-B O O O O O O O
-미국 개이+ㄴ 정치 기부금 1위 +이다 .	LOC-B O O O O O O
-숙련되 +ㄴ 기술을 바탕으로 21건의 특허 등록 등 혁신기술 개발에 실력을 발휘하고 있다 .	O O O O O O O O O O O O O O
+횡단보도 를 건너 던 30 대 남성 을 들이받 았 다 .	O O O O O O O O O O O O
+다행히 정수민 ( 26 ) 이 라는 깜짝 스타 가 나타나 그 의 공백 을 메 웠 지만 , 에이스 없이 시즌 을 치르 느라 불펜 에 과부하 가 걸 렸 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아마존 의 대자연 에서 수확한 희귀한 천연 재료 를 베이스 로 제조된 다양한 제품 이 차세대 히트 아이템 등극 을 눈앞 에 두 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 에서 도 먹 을 수 있 는 오가닉 을 고집하 는 미국 브랜드 가 큰 인기 를 얻 고 있 다고 들 었 다 .	LOC-B O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+새마을 운동 은 이제 세계적 으로 ‘ 행정 한류 ’ 를 상징하 는 유명 브랜드 가 돼 가요 . 여기 에 아마 정부 3.0 도 새 수출품 으로 장착될 겁니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김흥규 아주대 교수 는 “ 지금 은 국제 질서 가 요동치 면서 차기 정부 에서 나라 의 운명 이 바뀔 수 도 있 는 절체절명 의 시기 ” 라며 “ 대선 주자 들 이 실리적 , 현실적 인 해법 을 고민하 는지 를 검증해야 한다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 톰슨 은 10 초 71 로 가장 먼저 결승선 을 통과하 며 금메달 후보 들 을 모두 제치 고 ‘ 깜짝 금메달 ’ 의 주인공 이 됐 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2010 년 데뷔한 커피 소년 은 ‘ 아메리카 노 에게 ’ ‘ 웃 는다 ’	DAT-B DAT-I O PER-B PER-I O O O O O O O O O O
+- 로봇 수술 이 주목 받 는 이유 는 . 김선한 = 다양한 첨단 기술 과 융합하 는 분야 다 .	O O O O O O O O O O PER-B O O O O O O O O O O
+미국 개 인 정치 기부금 1 위 다 .	LOC-B O O O O O O O O
+숙련된 기술 을 바탕 으로 21 건 의 특허 등록 등 혁신 기술 개발 에 실력 을 발휘하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O

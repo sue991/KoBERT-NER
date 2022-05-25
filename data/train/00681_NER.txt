@@ -1,12 +1,12 @@
-‘썰 전 유시민 전원책’ ‘썰전’ 전원책이 유시민 모녀의 불편 하+ㄴ 관계를 폭로하+ 여웃음을 선사하였다 .	O O PER-B PER-B O PER-B PER-B O O O O O O O O
-지나+ㄴ 14일 밤 방송되+ㄴ JTBC ‘썰전’ 1부 시 사 이슈코너에서는 새 패널로 합류하+ㄴ 변호사 전원책, 작가 유시민과 MC 김구라의 토론이 방송 +었다 .	O O O O ORG-B O O O O O O O O O PER-B O PER-B O PER-B O O O O
-이날 김구+이라는 유시민과 전원책을 향하+여 “포털사이트 실시간 검색어 순위에 두 분의 이름이 올라가 +아있더라”고 말하였다 .	O PER-B PER-B PER-B O O O O O O O O O O O O
-지난해 8월 결혼식을 올리+ㄴ 안재욱과 최현주 부부는 추석을 맞고 한복을 입고 사진을 찍은 것이다 .	O O O O PER-B PER-B O O O O O O O O O
-채수빈·구자욱, “이제 시작하는 연인”교제인 .	PER-B O O O O
-이성배 ‘진짜 사나이’ 해병대 입대 앞두고 아들과 함께 시간 보내+어…아들에게 “군대를 아니야? .	PER-B O O O O O O O O O O O O
-??세종은 외교와 전쟁 이동전의 양면이라는 사실을 알고 있었다 .	ORG-B O O O O O O O O
-아모레는 내수 침체와 국내 면세점의 성장 둔화 등을 원인으로 꼽고 있다 .	ORG-B O O O O O O O O O O O
-또 고고도미사일방어(THAAD ㆍ 사드) 체계 배치와 관련 하+ㄴ 중국의 보복 의혹 영향도 받은 것+이 아니냐는 분석도 나 오+ㄴ다 .	O O O O O O O O ORG-B O O O O O O O O O O
-경찰 증거인멸 정황 포착, ‘대장균 떡 유통’ 송학식품 사과문 ‘거짓’으로 드러나 송학식품이 대장균 등이 검출되+ㄴ 180억원 상당의 떡을 시중에 불법 유통시키+ㄴ 혐의로 경찰 수사를 받고 인터넷 홈페이지에 올리+ㄴ 사과문이 거짓 이+ㄴ 것으로 밝혀지었다 .	O O O O O O O ORG-B O O O ORG-B O O O MNY-B O O O O O O O O O O O O O O O O O O
-경찰은 이달 초 언론 보도 등을 통하+여 알려지+ㄴ대장균 검출 떡 유통과 관련 송학식품이 자사 홈페이지에 올리+ㄴ 사과문이 거짓이라고 밝히었다 .	O O O O O O O O O O O O ORG-B O O O O O O O
-당시 송학식품은 사과문을 통하+여 “대장균이 검출되+ㄴ 제품을 지자체의 통보에 따르 아전량 수거 하+여폐 기하였다”며 “대장균이 검출되+ㄴ 제품을 유통시키+ㄴ 사실이 없다”고 혐의 사실을 부인하는 글을 올리었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 썰 전 유시민 전원책 ’ ‘ 썰 전 ’ 전원책 이 유시민 모녀 의 불편한 관계 를 폭로해 웃음 을 선사 했 다 .	O O O PER-B PER-B O O O O O PER-B O PER-B O O O O O O O O O O O O
+지난 14 일 밤 방송된 JTBC ‘ 썰 전 ’ 1 부 시사 이슈 코너 에서 는 새 패널 로 합류한 변호사 전원책 , 작가 유시민 과 MC 김구라 의 토론 이 방송 됐 다 .	O DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O PER-B O O PER-B O O PER-B O O O O O O O
+이날 김구 라는 유시민 과 전원책 을 향해 “ 포털 사이트 실시간 검색어 순위 에 두 분 의 이름 이 올라가 있 더라 ” 고 말 했 다 .	O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+지난해 8 월 결혼식 을 올린 안재욱 과 최현주 부부 는 추석 을 맞 아 한복 을 입 고 사진 을 찍 은 것 이 다 .	O DAT-B DAT-I O O O PER-B O PER-B O O DAT-B O O O O O O O O O O O O O O O
+채수빈 · 구자욱 , “ 이제 시작하 는 연인 ” 교제 인정	PER-B O PER-B O O O O O O O O O
+이성배 ‘ 진짜 사나이 ’ 해병대 입대 앞두 고 아들 과 함께 시간 보내 … 아들 에게 “ 군대 를 아 냐 ? ”	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+? ? 세종 은 외교 와 전쟁 이 동전 의 양면 이 라는 사실 을 알 고 있 었 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O
+아모레 는 내수 침체 와 국내 면세점 의 성장 둔화 등 을 원인 으로 꼽 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+또 고고도 미사일 방어 ( THAAD ㆍ 사드 ) 체계 배치 와 관련한 중국 의 보복 의혹 영향 도 받 은 게 아니 냐는 분석 도 나온다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+경찰 증거 인멸 정황 포착 , ‘ 대장균 떡 유통 ’ 송학 식품 사과문 ‘ 거짓 ’ 으로 드러나 송학 식품 이 대장균 등 이 검출된 180 억 원 상당 의 떡 을 시중 에 불법 유통 시킨 혐의 로 경찰 수사 를 받 고 인터넷 홈페이지 에 올린 사과문 이 거짓 인 것 으로 밝혀 졌 다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O ORG-B ORG-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 은 이달 초 언론 보도 등 을 통해 알려진 대장균 검출 떡 유통 과 관련 송학 식품 이 자사 홈페이지 에 올린 사과문 이 거짓 이 라고 밝 혔 다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
+당시 송학 식품 은 사과문 을 통해 “ 대장균 이 검출된 제품 을 지자체 의 통보 에 따 라 전량 수거해 폐기 했 다 ” 며 “ 대장균 이 검출된 제품 을 유통 시킨 사실 이 없 다 ” 고 혐의 사실 을 부인하 는 글 을 올 렸 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

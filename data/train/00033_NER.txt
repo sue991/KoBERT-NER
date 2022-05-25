@@ -1,14 +1,14 @@
-‘美’ 스타벅스 보상정책, 소비금액 기반 하+여별주+ㄴ 다… 우리나라는 .	ORG-B ORG-B O O O O O O O
-선씨는 “양말한 짝도 못 버리던 내가 양말을 하나씩 버리면서 달라지었다 .	PER-B O O O O O O O O O O
-‘30초 시간을 주겠다’고 +였다 .	O O O O O
-앞서 +어가오씨는 2009년 톈안먼(天安門) 사태 20주년을 맞아 펴내 +ㄴ책 ‘나의 6월4일’에서 중국 당국을 통렬히 비판하기도 +였었다 .	O PER-B O O O O O O O O O ORG-B O O O O O
-그러나 지난해에는 71명으로 감소하였다 .	O O O O O
-27일 해양수산부에 따르면 세월호가 움직이지 않도록 반잠수식 선박과 선체를 고정시키는 작업은 27~28일 이루어 지+ㄴ다 .	O ORG-B O O O O O O O O O O O O O
-중구는 성내 3동과 대신 동일대를 행복마을로 조성하+ㄴ다 .	LOC-B LOC-B LOC-I O O O O O
-실제 19일부터 진행되 +ㄴ 갤럭시노트7 교환비율은 일주일 동안 60%에 그치+어 미국이나 싱가포르에 비하+여턱없이 낮다 .	O O O O O O O O O O ORG-B ORG-B O O O
-전체 660m ²이+ㄴ 현재 송은 아트스페이스의 2배가 넘는 규모로 짓어 지+ㄹ 것으로 보이+ㄴ다 .	O O O O LOC-B LOC-I O O O O O O O O
-작년 3월부터 집단적 자위권 허용을 골자로 하는 안보 관련 법제가 시행되면서 자위대 관련 현안이 늘어나 +ㄴ 것과도 관련이 있는 것으로 보이+ㄴ다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O
-반면 아베 총리의 경제정책, 즉 ‘아베노믹스’와 관련이 있는 재무성 및 경제산업성 차관과의 면담 횟수는 작년에 각각 33회와 8회에 불과하였다 .	O PER-B O O O PER-B O O O O O O O O O O O O O O
-KIA는 27일 기준으로 선발 평균자책점은 2.80(1위)으로 준수하지만, 불펜평균 자책점은 7.88(10위)로 부진하였다 .	ORG-B O O O O O O O O O O O
-SBS 월화 드라마 ‘펀치’의 이태준 검찰총장역을 맡고 있는 조재현(50) 이야기+이다 .	O O O O PER-B O O O PER-B O O
-■주말 드라마 ‘전설의 마녀’ 코믹 열연 아직도 27년 전 광고로 기억하는 분 많아 코믹 캐릭터도 가능하다는 것 알리+어 만족 오현경과는 대본 안 맞추+어보+아도 척이면 척야망을 위하+여서는 사랑하는 여자도 내치+ㄹ 수 있는 남자, 혹은 반듯하+ㄴ정장에 정갈하+ㄴ헤어스타일이 돋보이는 신사. 연기자 이종원(46)이 그동안 대중에게 심어주+ㄴ이미지+이다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O
+‘ 美 ’ 스타벅스 보상 정책 , 소비 금액 기반 해 별 준다 … 우리나라 는 ?	O ORG-B O ORG-B O O O O O O O O O O O O O
+선 씨 는 “ 양말 한 짝 도 못 버리 던 내 가 양말 을 하나 씩 버리 면서 달라 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+‘ 30 초 시간 을 주 겠 다 ’ 고 했 다 .	O O O O O O O O O O O O O
+앞서 가 오 씨 는 2009 년 톈안먼 ( 天安門 ) 사태 20 주년 을 맞 아 펴낸 책 ‘ 나 의 6 월 4 일 ’ 에서 중국 당국 을 통렬히 비판하 기 도 했었 다 .	O PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+그러나 지난해 에 는 71 명 으로 감소 했 다 .	O O O O O O O O O O O
+27 일 해양수산부 에 따르 면 세월호 가 움직이 지 않 도록 반 잠수 식 선박 과 선체 를 고정 시키 는 작업 은 27 ~ 28 일 이뤄진다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O
+중구 는 성내 3 동 과 대신동 일대 를 행복 마을 로 조성한다 .	LOC-B O LOC-B LOC-I LOC-I O LOC-B O O O O O O O
+실제 19 일 부터 진행된 갤럭시 노트 7 교환 비율 은 일주일 동안 60 % 에 그쳐 미국 이나 싱가포르 에 비해 턱없이 낮 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O
+전체 660 m ² 인 현재 송은 아트 스페이스 의 2 배 가 넘 는 규모 로 지 어 질 것 으로 보인다 .	O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
+작년 3 월 부터 집단적 자위권 허용 을 골자 로 하 는 안보 관련 법제 가 시행되 면서 자위대 관련 현안 이 늘어난 것 과 도 관련 이 있 는 것 으로 보인다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+반면 아베 총리 의 경제정책 , 즉 ‘ 아베노믹스 ’ 와 관련 이 있 는 재무 성 및 경제 산업 성 차관 과 의 면담 횟수 는 작년 에 각각 33 회 와 8 회 에 불과 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KIA 는 27 일 기준 으로 선발 평균 자책점 은 2.80 ( 1 위 ) 으로 준수하 지만 , 불펜 평균 자책점 은 7.88 ( 10 위 ) 로 부진 했 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+SBS 월 화 드라마 ‘ 펀치 ’ 의 이태준 검찰 총장 역 을 맡 고 있 는 조재현 ( 50 ) 이야기 다 .	O DAT-B DAT-B O O O O O PER-B O O O O O O O O PER-B O O O O O O
+■ 주말 드라마 ‘ 전설 의 마녀 ’ 코믹 열연 아직 도 27 년 전 광고 로 기억하 는 분 많 아 코믹 캐릭터 도 가능하 다는 것 알려 만족 오현경 과 는 대본 안 맞춰 봐도 척 이 면 척 야망 을 위해서 는 사랑하 는 여자 도 내칠 수 있 는 남자 , 혹은 반듯한 정장 에 정갈한 헤어스타일 이 돋보이 는 신사 . 연기자 이종원 ( 46 ) 이 그동안 대중 에게 심 어 준 이미지 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-2017년 개통하는 성남∼장호원 자동차전용도로 태전 나들목을 통하+여 서울 강남까지 30분대에 닿을 수 있다 .	O O LOC-B O O O O LOC-B LOC-I TIM-B O O O O
-독일 만하임 음대 대학원으로 유학을 떠나 +았다 .	ORG-B ORG-I ORG-I ORG-I O O O O
-우리은행, 3연승으로 ‘통합 5연패’ 달 .	ORG-B O O O O O
-재판부는 ＂ A씨는 B씨의 부정행위 및 폭언 등을 이유로 이혼을 요구하고 있지만 B씨는 이혼을 원하지 않는다는 입장만 밝히+ㄴ 채 관계 개선 노력을 기울이지 않고 있다 ＂고 지적하였다 .	O O PER-B PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O
-전 전 대통령은 이날 운동장에서 동문들과 국밥으로 점심식사를 하고 KTX로 서울에 돌아가 +ㄹ 예정이다 .	PER-B PER-B O O O O O O O O LOC-B O O O O
-하지만 숀윌렌츠 프린스턴대 교수(역사학)는 뉴욕타임스 기고에서 “트럼프는 잭슨 따르 아하기에 나서 +었지만 둘 사이에는 크+ㄴ 차이가 있다 .	O PER-B ORG-B O ORG-B O PER-B PER-B O O O O O O O O O O
-박 대통령은 “2년 전 바이든 부통령 방한 때만 하+ 여도 전 시작전통제권 전환 등 한미 현안이 많았는데 신뢰를 바탕으로 원만히 해결하+ㄴ 것을 뜻깊게 생각하+ㄴ다”며 “한미동맹이 과거 어느 때보다 강력 하+ㄴ 상태”라고 평가하였다 .	PER-B O O O PER-B O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O
-그런데 지난해 매출이 갑자기 3% 넘게 줄었다 .	O O O O O O O O
-모란이 절정에 이르는 5월 1일부터 이틀간 제12회 영랑문학제가 열리+ㄴ다 .	O O O O O O O O O O
-중국이 한류스타의 행사·공연을 취소하고 드라마 방영을 연기하는 등 실력행사에 나서면서 중국 사업 비중이 크+ㄴ 업종의 주가가 하락세를 면하지 못하고 있다 .	ORG-B O O O O O O O O O ORG-B O O O O O O O O O O
-‘북한의 핵실험을 용인하지 않겠다’는 중국의 대외 발언이 ‘립서비스’에 불과하+ㄴ 것 아니냐는 지적이 나오고 있다 .	ORG-B O O O ORG-B O O O O O O O O O O
-나아가 +아조 사장 본인 역시 대한항공이 세계적 이+ㄴ 항공사로 성장 하+ㄹ 수 있도록 무겁ㄴ 책임감을 갖고 힘을 쏟겠다고 밝히었다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O
-최악의 경제상황에 BBQ는 위기를 성장의 발판으로 도약하었다 .	O O ORG-B O O O O O
-대박 터뜨리+ㄴ ‘올리브럭셔리 치킨’ 윤 회장에게 닥치+ㄴ 가장 크+ㄴ시련은 2003년의 AI 파동이었다 .	O O O O PER-B O O O O O O O O
+2017 년 개통하 는 성남 ∼ 장호원 자동차전용도로 태전 나들목 을 통해 서울 강남 까지 30 분 대 에 닿 을 수 있 다 .	DAT-B DAT-I O O LOC-B O LOC-B O O O O O LOC-B LOC-I O TIM-B TIM-I O O O O O O O O
+독일 만하임 음대 대학원 으로 유학 을 떠났 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O
+우리은행 , 3 연승 으로 ‘ 통합 5 연패 ’ 달성	ORG-B O O O O O O O O O O
+재판부 는 ＂ A 씨 는 B 씨 의 부정 행위 및 폭언 등 을 이유 로 이혼 을 요구하 고 있 지만 B 씨 는 이혼 을 원 치 않 는다는 입장 만 밝힌 채 관계 개선 노력 을 기울이 지 않 고 있 다 ＂ 고 지적 했 다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전 전 대통령 은 이날 운동장 에서 동문 들 과 국밥 으로 점심 식사 를 하 고 KTX 로 서울 에 돌아갈 예정 이 다 .	PER-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O
+하지만 숀 윌 렌츠 프린스턴대 교수 ( 역사학 ) 는 뉴욕타임스 기고 에서 “ 트럼프 는 잭슨 따 라 하 기 에 나섰 지만 둘 사이 에 는 큰 차이 가 있 다 .	O PER-B PER-I PER-I ORG-B O O O O O ORG-B O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+박 대통령 은 “ 2 년 전 바이든 부통령 방한 때 만 해도 전시 작전 통제권 전환 등 한미 현안 이 많 았 는데 신뢰 를 바탕 으로 원만히 해결한 것 을 뜻깊 게 생각한다 ” 며 “ 한미 동맹 이 과거 어느 때 보다 강력한 상태 ” 라고 평가 했 다 .	PER-B O O O O O O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+그런데 지난해 매출 이 갑자기 3 % 넘 게 줄 었 다 .	O O O O O O O O O O O O O
+모란 이 절정 에 이르 는 5 월 1 일 부터 이틀 간 제 12 회 영랑 문학 제 가 열린다 .	O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O
+중국 이 한류 스타 의 행사 · 공연 을 취소하 고 드라마 방영 을 연기하 는 등 실력 행사 에 나서 면서 중국 사업 비중 이 큰 업종 의 주가 가 하락세 를 면 치 못하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+‘ 북한 의 핵 실험 을 용인하 지 않 겠 다 ’ 는 중국 의 대외 발언 이 ‘ 립 서비스 ’ 에 불과한 것 아니 냐는 지적 이 나오 고 있 다 .	O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+나아가 조 사장 본인 역시 대한항공 이 세계적 인 항공사 로 성장할 수 있 도록 무거 운 책임감 을 갖 고 힘 을 쏟 겠 다 고 밝 혔 다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+최악 의 경제 상황 에 BBQ 는 위기 를 성장 의 발판 으로 도약 했 다 .	O O O O O ORG-B O O O O O O O O O O O
+대박 터뜨린 ‘ 올리브 럭셔리 치킨 ’ 윤 회장 에게 닥친 가장 큰 시련 은 2003 년 의 AI 파동 이 었 다 .	O O O O O O O PER-B O O O O O O O DAT-B DAT-I O O O O O O O

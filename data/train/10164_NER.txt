@@ -1,11 +1,11 @@
-4·13 총선이 여당의 패배로 결론이 나면서 청와대는 침울 하+ㄴ 분위기+이다 .	O O O O O O ORG-B O O O O
-새누리당 이한구 공천관리위원장은 4·13 총선 후보자 등록을 하루 앞두+ㄴ 23일까지도 유승민 전 원내대표의 공천 문제를 놓고 김무성 대표와 ‘무한 핑퐁게임’만 벌이었다 .	ORG-B PER-B O O O O O O O O PER-B O O O O O PER-B O O O O O
-2009년 8월에는 대우조선이 건조하+ㄴ배의 명명식에 송 전 주필의 부인이 참석하+여기념으로 금도금이 되+ㄴ도끼를 받아 +가았다는 의혹도 제기되 +ㄴ다 .	O O ORG-B O O PER-B O O O O O O O O O O O O
-검찰은 송 전 주필이 청와대 고위 관계자에 고 전 사장의 연임 로비를 시도하+ㄴ 정황도 포착하고 이 부분을 집중 추궁하+ㄹ 계획이다 .	O PER-B O O ORG-B O O O O O O O O O O O O O O O O
-광복절을 앞두고 수도 서울에서 벌어 지+ㄴ이 같은 불법 행태는 한마디로 국민들을 당혹하게 하고 또 우울하게 하는 것이다 .	O O O LOC-B O O O O O O O O O O O O O O
-그는 "2~3월에 빅뱅이 있을 것+이라고 +였지 않나 "+이라며 "반기문 전 유엔 사무총장의 불출마가 빅뱅의 시작이고, 주권회의와 국민의당의 통합도 또 다른 시작"이라고 거듭 강조하였다 .	O O O O O O O O PER-B O ORG-B ORG-I O O O O ORG-B O O O O O O O
-나는 작년 7월 이 칼럼에서 ‘한국의 국운은 한계에 +았나’라고 +었다 .	O O O O O ORG-B O O O O O
-김수현·이홍기보다 일찍 프로볼러도전 하+ㄴ 신수지 “프로 쪽에서 +ㄴ 비교도 안 되+ㄹ 정도로 막내 .	PER-B O O O PER-B O O O O O O O O O
-박샤론 다이어트 비법, 8스푼의 비법… “17kg 빠지+ㄴ다 .	PER-B O O O O O O O
-“미국이 재기하는 모습을 보면서 지구 구석의 저작은 나라들이 희망을 갖기 원하었다”는 오바마의 연설은 역사의 뒷장으로 넘어가 +았다 .	ORG-B O O O O O O O O O O PER-B O O O O O O
-95학년도부터 서울 ­한성 등 서울지역 2개 과학고 신입생 선발에 무시험 전형제가 도입되+ㄴ다 .	O LOC-B LOC-I O LOC-B O O O O O O O O
+4 · 13 총선 이 여당 의 패배 로 결론 이 나 면서 청와대 는 침울한 분위기 다 .	O O O O O O O O O O O O O ORG-B O O O O O
+새누리당 이한구 공천 관리 위원장 은 4 · 13 총선 후보자 등록 을 하루 앞둔 23 일 까지 도 유승민 전 원내 대표 의 공천 문제 를 놓 고 김무성 대표 와 ‘ 무한 핑퐁 게임 ’ 만 벌 였 다 .	ORG-B PER-B O O O O O O O O O O O O O DAT-B DAT-I O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O
+2009 년 8 월 에 는 대우조선 이 건조한 배 의 명명식 에 송 전 주필 의 부인 이 참석해 기념 으로 금 도금 이 된 도끼 를 받 아 갔 다는 의혹 도 제기된다 .	DAT-B DAT-I DAT-I DAT-I O O ORG-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+검찰 은 송 전 주필 이 청와대 고위 관계자 에 고 전 사장 의 연임 로비 를 시도한 정황 도 포착하 고 이 부분 을 집중 추궁할 계획 이 다 .	O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+광복절 을 앞두 고 수도 서울 에서 벌어진 이 같 은 불법 행태 는 한마디 로 국민 들 을 당혹 케 하 고 또 우울 케 하 는 것 이 다 .	DAT-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 " 2 ~ 3 월 에 빅뱅 이 있 을 거 라고 했 지 않 나 " 라며 " 반기문 전 유엔 사무총장 의 불출마 가 빅뱅 의 시작 이 고 , 주권 회의 와 국민 의 당 의 통합 도 또 다른 시작 " 이라고 거듭 강조 했 다 .	O O O DAT-B O DAT-B DAT-I O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+나 는 작년 7 월 이 칼럼 에서 ‘ 한국 의 국운 은 한계 에 왔 나 ’ 라고 썼 다 .	O O O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O
+김수현 · 이홍기 보다 일찍 프로 볼러 도전한 신수지 “ 프로 쪽 에선 비교 도 안 될 정도 로 막내 ”	PER-B O PER-B O O O O O PER-B O O O O O O O O O O O O
+박 샤론 다이어트 비법 , 8 스푼 의 비법 … “ 17 kg 빠진다 ”	PER-B PER-I O O O O O O O O O O O O O
+“ 미국 이 재기하 는 모습 을 보 면서 지구 구석 의 저 작 은 나라 들 이 희망 을 갖 기 원 했 다 ” 는 오바마 의 연설 은 역사 의 뒷장 으로 넘어갔 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+95 학년도 부터 서울 ­ 한성 등 서울 지역 2 개 과학고 신입생 선발 에 무시험 전형 제 가 도입된다 .	O O O LOC-B LOC-I LOC-I O LOC-B O O O O O O O O O O O O O

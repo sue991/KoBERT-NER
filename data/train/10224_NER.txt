@@ -1,17 +1,17 @@
-전작이+ㄴ '고에몽1'의 경우 다소 뻔하+ㄴ 진행으로 뒤로가 +ㄹ수록 약간은 지루하+ㄴ길 찾기 게임이 되+아버리+었습니다만, 이번부터는 다양하+ㄴ스테이지 진행과 보스전 등이 존재하며, 2인 동시 플레이가 가능하+여지+어서!(두둥!) 친구 및 가족들과 재밌게 즐기+ㄹ 수 있습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-새 헌법에 국무위원회는 ‘최고 정책적 지도기관’, 내각은 ‘행정적 집행기관’으로 명시하+여상하 관계 가능성을 시사하였다 .	O O ORG-B O O O O O O O O O O O
-오바마 ‘6000만불의사나이 .	PER-B MNY-B O
-88세 빨갛+ㄴ마 후라, 60년 만에 출 .	O PER-B O O O O O
-하정우 서울대 인지과학연구소 전 연구원은 “사람은 한 분야에서 얻은 정보를 다른 분야에서도 쉽게 활용하+ㄴ다”며 “여러 분야를 넘나들는 ‘범용인공지능’을 개발하는 것이 관건이 되+ㄹ 것”이라고 내다보았다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
-3점 슛 신기 .	O O O O
-26점차역 전승이 심어 주+ㄴ kt의 자신 .	O O O O ORG-B O O
-단 한 번도 별도로 집과 회사의 위치를 입력하지 않았지만 스마트폰은 밤 시간에 주로 있는 공간은 집으로, 일과 시간에 주로 있는 공간은 회사로 인식하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-일본 아베 신조(安倍晋三·사진) 정권을 흔들고 있는 불법 정치자금 논란의 불똥이 아베 총리 본인에게도 튀어 파장이 주목되 +ㄴ다 .	ORG-B PER-B PER-B O O O O O O O PER-B O O O O O O O
-윤상 박진영자이언티, 무한도전 가요제 합류'역대 최강 라인업', 어떤 멤버와 .	PER-B PER-B O O O O O O O O
-이번 콜드플레이 내한공연은 지난해 11월 티켓 예매에서 4만5000석이 수분 만에 팔리+어나가면서 화제가 +었다 .	O ORG-B O O O O O O O O O O O O
-서유리, “어리+ㄹ 때 상처… 떠올리기도 싫을 정도로 집요하+ㄴ 괴롭히 +ㅁ .	PER-B O O O O O O O O O O
-200여년간 자유주의적 근대성은 민주주의를 전진시키었다 .	O O O O O O
-[Money&Life] 핀테크 바람 타고 재도약 ‘리스크 인프라’ 구축 신뢰 회 .	O O O O O O O O O O O
-회사는 A씨가 개인적 이+ㄴ이유로 출장명령을 거부하였다며 해고하였다 .	O PER-B O O O O O O
-브레이크 페달 또는 기어봉에 부착되 +ㄴ 스위치 조작으로 동력을 차단하고, 가속페달의 조작으로 동력을 전달시키+어기 어 변속을 편리하게 하+여주는 동시에 10∼25%의 연료 절감 효과를 내+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-빅토리아, 설리 탈퇴 언급… “4명으로 열심히 활동 하+ㄹ 것 .	PER-B PER-B O O O O O O O O
+전작 인 ' 고 에몽 1 ' 의 경우 다소 뻔한 진행 으로 뒤 로 갈수록 약간 은 지루한 길 찾 기 게임 이 되 버렸 습니다 만 , 이번 부터 는 다양한 스테이지 진행 과 보스 전 등 이 존재하 며 , 2 인 동시 플레이 가 가능해 져서 ! ( 두둥 ! ) 친구 및 가족 들 과 재밌 게 즐길 수 있 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새 헌법 에 국무 위원회 는 ‘ 최고 정책적 지도 기관 ’ , 내각 은 ‘ 행정적 집행 기관 ’ 으로 명시해 상하 관계 가능성 을 시사 했 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+오바마 ‘ 6000 만 불 의 사나이 ’	PER-B O MNY-B MNY-I MNY-I O O O
+88 세 빨간 마후라 , 60 년 만 에 출격	O O PER-B PER-I O O O O O O
+하정우 서울대 인지 과학 연구소 전 연구원 은 “ 사람 은 한 분야 에서 얻 은 정보 를 다른 분야 에서 도 쉽 게 활용한다 ” 며 “ 여러 분야 를 넘나드 는 ‘ 범용 인공 지능 ’ 을 개발하 는 것 이 관건 이 될 것 ” 이라고 내다 봤 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 점 슛 신기록	O O O O
+26 점 차 역전승 이 심 어 준 kt 의 자신감	O O O O O O O O ORG-B O O
+단 한 번 도 별도 로 집 과 회사 의 위치 를 입력하 지 않 았 지만 스마트 폰 은 밤 시간 에 주로 있 는 공간 은 집 으로 , 일 과 시간 에 주로 있 는 공간 은 회사 로 인식 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 아베 신조 ( 安倍晋三 · 사진 ) 정권 을 흔들 고 있 는 불법 정치 자금 논란 의 불똥 이 아베 총리 본인 에게 도 튀 어 파장 이 주목된다 .	ORG-B PER-B PER-I O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+윤상 박진영 자이언티 , 무한도전 가요제 합류 ' 역대 최강 라인업 ' , 어떤 멤버 와 ?	PER-B PER-B PER-B O O O O O O O O O O O O O O
+이번 콜드플레이 내한 공연 은 지난해 11 월 티켓 예매 에서 4 만 5000 석 이 수 분 만 에 팔려 나가 면서 화제 가 됐 다 .	O ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+서유리 , “ 어릴 때 상처 … 떠올리 기 도 싫 을 정도 로 집요한 괴롭힘 ”	PER-B O O O O O O O O O O O O O O O O
+200 여 년 간 자유주의 적 근대성 은 민주주의 를 전진 시 켰 다 .	O O O O O O O O O O O O O O O
+[ Money & Life ] 핀테크 바람 타 고 재 도약 ‘ 리스크 인프라 ’ 구축 신뢰 회복	O O O O O O O O O O O O O O O O O O
+회사 는 A 씨 가 개인적 인 이유 로 출장 명령 을 거부 했 다며 해고 했 다 .	O O PER-B O O O O O O O O O O O O O O O O
+브레이크 페달 또는 기 어 봉 에 부착된 스위치 조작 으로 동력 을 차단하 고 , 가속 페달 의 조작 으로 동력 을 전달 시켜 기어 변속 을 편리하 게 해 주 는 동시 에 10 ∼ 25 % 의 연료 절감 효과 를 낸다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+빅토리아 , 설리 탈퇴 언급 … “ 4 명 으로 열심히 활동할 것 ”	PER-B O PER-B O O O O O O O O O O O

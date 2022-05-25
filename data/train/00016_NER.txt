@@ -1,14 +1,14 @@
-반경 1㎞ 이내 한화(770가구)와 진흥(1900가구 재건축 예정) 아파트 등이 들어서 +ㄹ 예정이다 .	O O O ORG-B ORG-B O O O O O O O O
-‘사람이 재산’이란 생각에 와인 모임을 조직하고 애견 관련 사이트도 개설 하+여 활동하며 500여명의 인맥을 유지하였다 .	O O O O O O O O O O O O O O O O
-허태수(58·사진) GS홈쇼핑 부회장의 중국 패션시장 출사표다 .	PER-B ORG-B O LOC-B O O O
-서동록 서울시 경제진흥본부장은 “세금 성실 납부를 통하+여 해외자본과 한국경제가 같이 성장하고 이익을 나누+ㄴ다는 것을 보이어주는 사례”라고 평가하였다 .	PER-B LOC-B O O O O O O ORG-B O O O O O O O O O
-미국 당국자가 “사드의 한반도 배치가 필요하다 .	ORG-B O O LOC-B O O O
-2015 시즌에도 둘은 새롭ㄴ 세리머니를 준비하였다 .	O O O O O O O
-'수요 미식회'가 떡볶이에 대하+ㄴ이야기를 나누+어 화제+이다 .	O O O O O O O
-침·땀·혈액에 들+ㄴ 단백질 일종 EGF는 1962년 미국 스탠리코 언 박사가 발견 하+ㄴ 피부 재생인자+이다 .	O O O O O O LOC-B PER-B O O O O O O O
-래퍼나다가 “둥글둥글하고 털털하다”며 실제 성격을 언급하였다 .	PER-B O O O O O O
-나다는 6일 방송한 SBS 파워 FM ‘최화정의 파워타임’에 가수 박재정과 함께 게스트로 출연하였다 .	PER-B O O O O O O O O PER-B O O O O
-이날 방송에서 DJ 최화정은 “인상이 세다고 하는데 굉장히 귀엽다”고 운을 떼+었다 .	O O O PER-B O O O O O O O O
-1년 5개월간 백51명 조사…만 6천 쪽 분 .	O O O O O O O O
-1937년 11월, 소련에 있던 캉성(康生·강생)이 옌안으로 돌아오았다 .	O O ORG-B O PER-B LOC-B O O
-김종인 ‘대선 출마’설, 전원책 예언 재조명… “김종인 ‘3년 개헌설’ 주목하라 .	PER-B O O PER-B O O PER-B O O O O
+반경 1 ㎞ 이내 한화 ( 770 가구 ) 와 진흥 ( 1900 가구 재건축 예정 ) 아파트 등 이 들어설 예정 이 다 .	O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O
+‘ 사람 이 재산 ’ 이 란 생각 에 와인 모임 을 조직하 고 애견 관련 사이트 도 개설해 활동하 며 500 여 명 의 인맥 을 유지 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+허태수 ( 58 · 사진 ) GS 홈 쇼핑 부회장 의 중국 패션 시장 출사표 다 .	PER-B O O O O O ORG-B ORG-I ORG-I O O LOC-B O O O O O
+서동록 서울시 경제 진흥 본부 장 은 “ 세금 성실 납부 를 통해 해외 자본 과 한국 경제 가 같이 성장하 고 이익 을 나눈다는 것 을 보 여 주 는 사례 ” 라고 평가 했 다 .	PER-B LOC-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+미국 당국자 가 “ 사드 의 한반도 배치 가 필요하 다 ”	ORG-B O O O O O LOC-B O O O O O
+2015 시즌 에 도 둘 은 새로 운 세리머니 를 준비 했 다 .	DAT-B O O O O O O O O O O O O O
+' 수요미식회 ' 가 떡볶이 에 대한 이야기 를 나눠 화제 다 .	O O O O O O O O O O O O O
+침 · 땀 · 혈액 에 든 단백질 일종 EGF 는 1962 년 미국 스탠리 코언 박사 가 발견한 피부 재생 인 자 다 .	O O O O O O O O O O O DAT-B DAT-I LOC-B PER-B PER-I O O O O O O O O O
+래퍼 나 다가 “ 둥글둥글하 고 털털하 다 ” 며 실제 성격 을 언급 했 다 .	O PER-B O O O O O O O O O O O O O O O
+나 다 는 6 일 방송 한 SBS 파워 FM ‘ 최화정 의 파워 타임 ’ 에 가수 박재정 과 함께 게스트 로 출연 했 다 .	PER-B PER-I O DAT-B DAT-I O O O O O O O O O O O O O PER-B O O O O O O O O
+이날 방송 에서 DJ 최화정 은 “ 인상 이 세 다고 하 는데 굉장히 귀엽 다 ” 고 운 을 뗐 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
+1 년 5 개월 간 백 51 명 조사 … 만 6 천 쪽 분량	DAT-B DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O
+1937 년 11 월 , 소련 에 있 던 캉성 ( 康生 · 강생 ) 이 옌안 으로 돌아 왔 다 .	DAT-B DAT-I DAT-I DAT-I O ORG-B O O O PER-B O PER-B O PER-B O O LOC-B O O O O O
+김종인 ‘ 대선 출마 ’ 설 , 전원책 예언 재조명 … “ 김종인 ‘ 3 년 개헌 설 ’ 주목하 라 ”	PER-B O O O O O O PER-B O O O O PER-B O O O O O O O O O

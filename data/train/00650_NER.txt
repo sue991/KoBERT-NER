@@ -1,13 +1,13 @@
-이 군이 컴퓨터와 처음 인연을 맺은 것은 겨우 1년 전 .	PER-B PER-B O O O O O O O O O
-부산대는 11일 재정위원회 회의를 열고 전체 교수 1190여명이 각자 연간 120만원의 연구비를 사비로 부담하는 방안을 확정하였다 .	ORG-B O O O O O O O O O MNY-B O O O O O O
-의정부지검 고양지청 관계자는 “제보를 받고 수사에 착수하+여마약을 투약하+ㄴ 혐의로 붙잡아 조사하고 있다”고 15일 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O
-고국으로 돌아오+ㄴ 리콴유 전 총리는 1954년 인민행동당(PAP)을 창당하였고, 1959년 PAP가 집권당이 되면서 초대 싱가포르 자치정부 수반이 +었다 .	O O PER-B O O O ORG-B O O ORG-B O O O ORG-B O O O O
-‘대장금’ ‘주몽’ 등 우리 사극 시청률이 80%를 넘기었단다 .	O O O O O O O O O
-이란을 세우+ㄴ사람은 키루스 대왕이다 .	ORG-B O PER-B O O
-두 번째가설은 ‘질 마찰가설’이다 .	O O O O O
-맘 같아서 +ㄴ그 길로 한국으로 돌아오고 싶었다 .	O O O O LOC-B O O O
-티웨이항공은 186∼189석 규모의 보잉 737-800기종을 매주 월, 수, 금, 일요일에 운항하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O
-중국 국무원은 1992년부터 보하이만 해저터널 건설을 구상하였다 .	ORG-B O O O O O O O
-그래서 (누계) 20만명은 못 되+ㄹ 것 같다”면서 “우리가 처음에 (누계) 5만명에서 10만명 잡았는데 그것+이되 +ㄴ다면 상당 하+ㄴ 성공이다”고 말하였다 .	O O O O O O O O O O O O O O O O O O O O
-특히 타우린은 혈액 내 콜레스테롤을 떨어뜨리+어 심장질환을 예방하+ㄴ다 .	O O O O O O O O O
-앞서 박영수(65·사법연수원 10기) 특별검사팀은 지나 +ㄴ 1일 박씨에 대하+ 여 뇌물공여 혐의로 사전구속영장을 청구하였다 .	O ORG-B ORG-I O O O O PER-B O O O O O O O
+이 군 이 컴퓨터 와 처음 인연 을 맺 은 것 은 겨우 1 년 전 .	PER-B O O O O O O O O O O O O DAT-B DAT-I O O
+부산대 는 11 일 재정 위원회 회의 를 열 고 전체 교수 1190 여 명 이 각자 연간 120 만 원 의 연구비 를 사비 로 부담하 는 방안 을 확정 했 다 .	ORG-B O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+의정부지검 고양지청 관계자 는 “ 제보 를 받 고 수사 에 착수해 마약 을 투약한 혐의 로 붙잡 아 조사하 고 있 다 ” 고 15 일 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+고국 으로 돌아온 리콴유 전 총리 는 1954 년 인민행동당 ( PAP ) 을 창당 했 고 , 1959 년 PAP 가 집권당 이 되 면서 초대 싱가포르 자치 정부 수반 이 됐 다 .	O O O PER-B O O O DAT-B DAT-I ORG-B O ORG-B O O O O O O DAT-B DAT-I ORG-B O O O O O O ORG-B O O O O O O O
+‘ 대장금 ’ ‘ 주몽 ’ 등 우리 사극 시청률 이 80 % 를 넘 겼 단다 .	O O O O O O O O O O O O O O O O O O
+이란 을 세운 사람 은 키루스 대왕 이 다 .	ORG-B O O O O PER-B O O O O
+두 번째 가설 은 ‘ 질 마찰 가설 ’ 이 다 .	O O O O O O O O O O O O
+맘 같 아선 그 길 로 한국 으로 돌아오 고 싶 었 다 .	O O O O O O LOC-B O O O O O O O
+티 웨이 항공 은 186 ∼ 189 석 규모 의 보잉 737 - 800 기종 을 매주 월 , 수 , 금 , 일요일 에 운항할 예정 이 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 국무원 은 1992 년 부터 보하이만 해저 터널 건설 을 구상 했 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O
+그래서 ( 누계 ) 20 만 명 은 못 될 것 같 다 ” 면서 “ 우리 가 처음 에 ( 누계 ) 5 만 명 에서 10 만 명 잡 았 는데 그게 된다면 상당한 성공 이 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 타우린 은 혈액 내 콜레스테롤 을 떨어뜨려 심장 질환 을 예방한다 .	O O O O O O O O O O O O O
+앞서 박영수 ( 65 · 사법연수원 10 기 ) 특별 검사 팀 은 지난 1 일 박 씨 에 대해 뇌물 공여 혐의 로 사전 구속 영장 을 청구 했 다 .	O PER-B O O O ORG-B ORG-I ORG-I O O O O O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O

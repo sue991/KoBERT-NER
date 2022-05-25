@@ -1,15 +1,15 @@
-카메라 G4는 후+이면 1600만, 전면 800만의 높은 화소수로 어둡ㄴ 환경에서도 비교적 좋은 사진을 촬영하+ㄹ 수 있었다 .	O O O O O O O O O O O O O O O O O
-근로자 장기 저축 등 12종의 비과세 저축상품 가입자는 이자소득의 2%, 소액가계저축 등 5종의 저율(5%)과 세저축상품 가입자는 이자소득의 1.5%에 해당하는 농특세를 각각 추가로 부담하+여야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-블루투스 기능이 탑재되 +ㄴ기어S2와 기어S2 클래식의 출고가는 각각 33만3300원, 37만4000원이다 .	O O O O O O O O MNY-B MNY-B O
-동국대에 따르면 이 기부자는 동국대 대외협력처장 종호 스님을 방문, 기부의사를 전하였다 .	ORG-B O O O ORG-B O PER-B O O O O O
-맵시 있는 팔 만들기, '에어 트레드밀'과 '스탠딩 슬레드'가 효과적…"어떻게 하는 것+이지? .	O O O O O O O O O O O O
-두 형제는 너무 닮아서 경찰은 여섯 번이나 형의 거짓 진술을 알아차리지 못하였다 .	O O O O O O O O O O O O O
-중앙선관위 측은 『법으로만 보면 이번 통합선거법은 영국이 선거부정을 막기 위 하+여 1883년에 제정하였던 부패방지법에 못하지 않다』고 말 하+ㄴ다 .	O O O O O O ORG-B O O O O O O O O O O O O
-2012년 첫 발을 내디디+ㄴ링크 사업단은 2013년 최우수기관에잇어 지난해 대구·경북·강원권 링크사업단을 추진하는 8개 대학 중 2년 연속 최우수기관으로 선정되+어 52억원의 국고지원금을 확보하였다 .	O O O O O O O O LOC-B O O O O O O O O O MNY-B MNY-I O O
-「이별의 노래」「 출항의 노래」 등의 히트넘버도 흥겹고 서정적이다 .	O O O O O O O O O
-김은영 차장은 “은행의 이미지와 맞지 않는 선정적 이+ㄴ 영화나 잔인하+ㄴ영화는 선정하지 않는다”고 설명하였다 .	PER-B O O O O O O O O O O O O O
-이씨는 대우조선해양의 오만 선상호텔 사업과 서울 영등포구 당산동빌딩사업 등에서 특혜를 받고 회사 돈을 빼돌리+ㄴ 혐의 등을 받고 있다 .	PER-B ORG-B LOC-B LOC-I O LOC-B LOC-B LOC-B O O O O O O O O O O O
-미국 캘리포니아주 롱비치의 퍼시픽 아쿠아리움에 있는 바다사자 마일로가 주인공이다 .	LOC-B LOC-B LOC-B LOC-B LOC-I O O PER-B O O
-서울메트로 “4호선 창동역 하선사당행열차 고장…현재 정상운행中 .	ORG-B O LOC-B LOC-B O O O
-한국은 공장 자동화 과정에서 가장 많은 일자리가 사라지는 국가로도 꼽히었다 .	ORG-B O O O O O O O O O O
-“둘 다 불확실하+ㄴ 미래보다 +ㄴ 현재의 만족을 지향하는 공통점은 있죠. 허나 해외에서 들어 오+ㄴ 개념이 +ㄴ욜로는 어느 정도 경제적 기반이 있는 상태에서 적극적으로 과소비를 추구하는 삶이 +ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+카메라 G 4 는 후 면 1600 만 , 전면 800 만 의 높 은 화소 수 로 어두 운 환경 에서 도 비교적 좋 은 사진 을 촬영할 수 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+근로자 장기 저축 등 12 종 의 비과세 저축 상품 가입자 는 이자 소득 의 2 % , 소액 가계 저축 등 5 종 의 저율 ( 5 % ) 과세 저축 상품 가입자 는 이자 소득 의 1.5 % 에 해당하 는 농특 세 를 각각 추가 로 부담해야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+블루 투스 기능 이 탑재 된 기 어 S 2 와 기 어 S 2 클래식 의 출고 가 는 각각 33 만 3300 원 , 37 만 4000 원 이 다 .	O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I O O O
+동국대 에 따르 면 이 기부자 는 동국대 대외 협력 처장 종호 스님 을 방문 , 기부 의사 를 전 했 다 .	ORG-B O O O O O O ORG-B O O O PER-B O O O O O O O O O O O
+맵시 있 는 팔 만들 기 , ' 에어 트레드 밀 ' 과 ' 스탠딩 슬 레드 ' 가 효과적 … " 어떻 게 하 는 거 지 ? "	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 형제 는 너무 닮 아서 경찰 은 여섯 번 이나 형 의 거짓 진술 을 알아차리 지 못 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+중앙 선관위 측 은 『 법 으로 만 보 면 이번 통합 선거법 은 영국 이 선거 부정 을 막 기 위해 1883 년 에 제정 했 던 부패 방지 법 에 못 지 않 다 』 고 말한다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+2012 년 첫발 을 내디딘 링크 사업단 은 2013 년 최우수 기관 에 이 어 지난해 대구 · 경북 · 강원 권 링크 사업단 을 추진하 는 8 개 대학 중 2 년 연속 최우수 기관 으로 선정돼 52 억 원 의 국고 지원금 을 확보 했 다 .	DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O LOC-B O LOC-B O LOC-B O O O O O O O O O O DAT-B DAT-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+「 이별 의 노래 」 「 출항 의 노래 」 등 의 히트 넘버 도 흥겹 고 서정적 이 다 .	O O O O O O O O O O O O O O O O O O O O O
+김은영 차장 은 “ 은행 의 이미지 와 맞 지 않 는 선정적 인 영화 나 잔인한 영화 는 선정하 지 않 는다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 씨 는 대우조선해양 의 오 만 선상 호텔 사업 과 서울 영등포구 당산동 빌딩 사업 등 에서 특혜 를 받 고 회삿 돈 을 빼돌린 혐의 등 을 받 고 있 다 .	PER-B O O ORG-B O LOC-B LOC-I LOC-I LOC-I O O LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O
+미국 캘리포니아주 롱비치 의 퍼시픽 아쿠아리움 에 있 는 바다사자 마일 로 가 주인공 이 다 .	LOC-B LOC-B LOC-B O LOC-B LOC-I O O O O PER-B PER-I O O O O O
+서울메트로 “ 4 호 선 창동 역 하선 사당 행 열차 고장 … 현재 정상 운행 中 ”	ORG-B O O O O LOC-B LOC-I O LOC-B O O O O O O O O O
+한국 은 공장 자동화 과정 에서 가장 많 은 일자리 가 사라지 는 국가 로 도 꼽 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+“ 둘 다 불확실한 미래 보단 현재 의 만족 을 지향하 는 공통점 은 있 죠 . 허나 해외 에서 들어온 개념 인 욜로 는 어느 정도 경제적 기반 이 있 는 상태 에서 적극적 으로 과소비 를 추구하 는 삶 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,16 +1,16 @@
-사건을 넘기+어받은 전주지법 형사2부는 임씨에게 징역 12년을 선고하였다고 4일 밝히었다 .	O O ORG-B ORG-I PER-B O O O O O O
-박용성의 ‘외우내환’ …檢 “박범훈 외압 개입 정황”소환 방 .	O O O PER-B O O O O O
-외국어나 외래어를 +어야 뭐 +이+ㄴ가 있어 보이는 현상은 언제쯤 사그라지 +ㄹ까.일본은 번역청까지 두며 학문과 언어의 현지화에 애쓰었다 .	O O O O O O O O O O ORG-B O O O O O O O
-특히 헤파필터의 경우, 개당 2,000원 남짓으로 저렴하게 사+ㄹ 수 있어 자주 갈면 공기질관리에도 도움이 되+ㄴ다는 것이 유진로봇 측의 설명이다 .	O O O O MNY-B O O O O O O O O O O O ORG-B O O O
-한국시인협회(회장 최동호)와 재능문화(이사장 박성훈)가 공동 주최하는 제11회 ‘재능시낭송 여름학교’가 13∼15일 전북 군산시 군산청소년수련관에서 2박3일 동안 열리+ㄴ다 .	ORG-B PER-B ORG-B PER-B O O O ORG-B O O LOC-B LOC-B LOC-B O O O O
-이런 것+ㄴ 당국이 시키지 않아도 금융사들이 알아서 잘하는 문제 이+ㄴ데 말이죠.” 16일 취임하+ㄴ 임종룡 신임 금융위원장은 17일 기자간담회에서 ‘규제를 위하+ㄴ 규제’, ‘현장과 유리(遊離) 되+ㄴ 규제’를 대폭 정비하겠다며 부실채권 등 건전성 규제를 그 사례로 언급하였다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
-백주 또가 국아홉동이, 밥 아홉동이의 점심을 밭에 놓고 집으로 돌아가고 소천국은 계속 밭을 가는데, 마침 지나가던 중 이 소천국에게 시장기를 호소하였다 .	PER-B PER-I O O O O O O O O PER-B O O O O O O O PER-B O O O
-반기문 유엔 사무총장의 대선 지지율이 높게 나타나고 있는데 어떻게 보는가? “반 총장이 그동안 세계에서 인정받은 외교력을 국민께서 높이 평가하신 것 같다 .	PER-B ORG-B O O O O O O O O PER-B O O O O O O O O O O O
-미국에서 추모 열기가 이어 지+ㄴ다 .	ORG-B O O O O O
-28일 미국 정책연구기관 미국 외교협회의 분석보고서에 따르면 그리스의 디폴트로 이탈리아 정부의 채무가 350억유로(약 44조원)에서 740억유로(약 91조8000억원)로 급증 하+ㄹ 것으로 추산되었다 .	O O O O O O O ORG-B O ORG-B ORG-I O MNY-B MNY-B MNY-B MNY-B O O O O O
-YG는 어번에서도 가장 선두에 있다 .	ORG-B O O O O O
-은퇴 계획 임성한 작가가 MBC 드라마 ‘압구정 백야’를 끝으로 은퇴를 계획하고 있는 것으로 전하+여지+ㄴ다 .	O O PER-B O ORG-B O O O O O O O O O O
-23일 스타뉴스는 임성한 작가의 매니지먼트를 담당하고 있는 명성당 엔터테인먼트 측이 임성한 작가가 오는 5월 중순 종영되+ㄹ 압구정 백야를 끝으로 드라마 업계에서 떠나 +ㄴ다"고 전하였다고 보도하였다 .	O ORG-B PER-B O O O O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O
-명성당 엔터테인먼트 이호열 대표에 따르면, 임성한 작가는 총 10개의 드라마 작품을 남기고 은퇴하+ㄴ다는 계획을 세우+어오았다 .	ORG-B ORG-I PER-B O O PER-B O O O O O O O O O O
-이날 참석 하+ㄴ 해외바이어 및 셀러브리티들은 “매 시즌 패션 피플들과 컬래보레이션을 진행하는 헤라는 트렌드를 읽고 한발 앞서 +어가는 뷰티 브랜드의 대표주자이다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O
-”+이라며 “특히 이번 ‘헤라 ×니콜라스컬크우드’ 컬렉션의 론칭 행사를 통하+여 한국여성의 아름답+ㅁ을 다시 한 번 느끼+ㄹ 수 있었다 .	O O O ORG-B PER-B O O O O ORG-B O O O O O O O O
+사건 을 넘겨 받 은 전주지법 형사 2 부 는 임 씨 에게 징역 12 년 을 선고 했 다고 4 일 밝 혔 다 .	O O O O O ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O O O DAT-B DAT-I O O O O
+박용성 의 ‘ 외우 내환 ’ … 檢 “ 박범훈 외압 개입 정황 ” 소환 방침	O O O O O O O O O PER-B O O O O O O
+외국어 나 외래어 를 써야 뭔가 있 어 보이 는 현상 은 언제 쯤 사그라질까 . 일본 은 번역 청 까지 두 며 학문 과 언어 의 현지 화 에 애 썼 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+특히 헤파 필터 의 경우 , 개 당 2,000 원 남짓 으로 저렴하 게 살 수 있 어 자주 갈 면 공기 질 관리 에 도 도움 이 된다는 것 이 유진 로봇 측 의 설명 이 다 .	O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O
+한국시인협회 ( 회장 최동호 ) 와 재능 문화 ( 이사장 박성훈 ) 가 공동 주최하 는 제 11 회 ‘ 재능 시 낭송 여름학교 ’ 가 13 ∼ 15 일 전북 군산시 군산 청소년 수련 관 에서 2 박 3 일 동안 열린다 .	ORG-B O O PER-B O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I O O O O O O O O
+이런 건 당국 이 시키 지 않 아도 금융 사 들 이 알 아서 잘 하 는 문제 인데 말 이 죠 . ” 16 일 취임한 임종룡 신임 금융 위원장 은 17 일 기자 간담회 에서 ‘ 규제 를 위한 규제 ’ , ‘ 현장 과 유리 ( 遊離 ) 된 규제 ’ 를 대폭 정비하 겠 다 며 부실 채권 등 건전성 규제 를 그 사례 로 언급 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+백주 또 가 국 아홉 동 이 , 밥 아홉 동이 의 점심 을 밭 에 놓 고 집 으로 돌아가 고 소천국 은 계속 밭 을 가 는데 , 마침 지나가 던 중 이 소천국 에게 시장기 를 호소 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O
+반기문 유엔 사무총장 의 대선 지지율 이 높 게 나타나 고 있 는데 어떻 게 보 는가 ? “ 반 총장 이 그동안 세계 에서 인정받 은 외교 력 을 국민 께서 높이 평가 하신 것 같 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+미국 에서 추모 열기 가 이어진다 .	ORG-B O O O O O O
+28 일 미국 정책 연구 기관 미국 외교 협회 의 분석 보고서 에 따르 면 그리스 의 디폴트 로 이탈리아 정부 의 채무 가 350 억 유로 ( 약 44 조 원 ) 에서 740 억 유로 ( 약 91 조 8000 억 원 ) 로 급증할 것 으로 추산 됐 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O ORG-B O O O ORG-B ORG-I O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O
+YG 는 어번 에서 도 가장 선두 에 있 다 .	ORG-B O O O O O O O O O O
+은퇴 계획 임성한 작가 가 MBC 드라마 ‘ 압구정 백야 ’ 를 끝 으로 은퇴 를 계획하 고 있 는 것 으로 전해 진다 .	O O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O
+23 일 스타 뉴스 는 임성한 작가 의 매니지먼트 를 담당하 고 있 는 명성당 엔터테인먼트 측 이 임성한 작가 가 오 는 5 월 중순 종영될 압구정 백야 를 끝 으로 드라마 업계 에서 떠난다 " 고 전 했 다고 보도 했 다 .	DAT-B DAT-I ORG-B ORG-I O PER-B O O O O O O O O ORG-B ORG-I O O PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+명성당 엔터테인먼트 이호열 대표 에 따르 면 , 임성한 작가 는 총 10 개 의 드라마 작품 을 남기 고 은퇴한다는 계획 을 세 워 왔 다 .	ORG-B ORG-I PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+이 날 참석한 해외 바이어 및 셀러브리티 들 은 “ 매 시즌 패션 피플 들 과 컬 래보 레이션 을 진행하 는 헤라 는 트렌드 를 읽 고 한발 앞서 가 는 뷰티 브랜드 의 대표 주자 이 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+” 라며 “ 특히 이번 ‘ 헤라 × 니콜라스 컬크우드 ’ 컬렉션 의 론칭 행사 를 통해 한국 여성 의 아름다움 을 다시 한 번 느낄 수 있 었 다 .	O O O O O O ORG-B O PER-B PER-I O O O O O O O ORG-B O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-나영석 PD는 지난해 6월 한 매체와의 인터뷰에서 ‘1박2일’ 멤버들과 새롭ㄴ 예능을 준비 하+ㄹ 가능성이 있느냐는 질문에 “승기자주보+ㄴ다 .	PER-B O O O O O O O O O O O O O O O PER-B O
-지금 한국 경제의 전망은 캄캄하다 .	O LOC-B O O O O
-올 초 선다이피차이 최고경영자(CEO) 산하에 신설 하+ㄴ 하드웨어 부문이 이번 사업을 주도하였다 .	O O PER-B O O O O O O O O O O
-2005~2007년 신한은행·국민은행 비롯하+여 연간 순이익 2조원을 달성하는 은행이 속속 등장하였다 .	MNY-B ORG-B O O O MNY-B O O O O O
-메시는 1, 2쿼터에서만 10득점에 14리 바운드 ‘더블더블’을 기록하였다 .	PER-B O O O O O O O O
-세상에서 가장 작은 나라, 인구 900여명의 그곳 … 사용하는 언어 .	O O O O O O O O O O O
-그간 고정식 발사대에서 쏘는 노동·대포동 미사일 등과 달리 이동차량에 싣어 쏘는 방식이라 더 위협적이라는 평가가 이어지었다 .	O O O O O O O O O O O O O O O O O
-심학봉 “제명은 가혹… 마녀사냥은 안 되+어”국회 윤리특위에 소명 .	PER-B O O O O O O O O
-미국 진출 7년 만이자 빅리그 데뷔 7경기 8타 수만에 터지+ㄴ 1호 안타. 최지만의 이번 데뷔 안타는 앞서 나 오+ㄴ 박병호(30·미네소타), 이대호(34·시애틀), 김현수(28·볼티모어)의 첫 안타보다 더 값지고 감격적이다 .	ORG-B O O O O O O O O O O O PER-B O O O O O O ORG-B ORG-B ORG-B O O O O O O
-박찬욱(53) 감독의 ‘아가씨’가 12일 오전, 개봉 12일 만에 300만명을 돌파하였다 .	PER-B O O O O O O O O O O
-사잇돌 대출은 금융당국이 4∼8등급 중저신용자들을 위하+여 내놓은 연 6∼19% 중금리 대출 상품이다 .	O O O O O O O O O O O O O
-정성장 세종연구소 실장은 “한국에서 새 정부가 출범하면 미국하고 만 대화하면서 남한과의 대화는 거부하는 ‘통미배남(通美排南)’ 정책 대신 남한과의 관계 개선을 통하+여북-미 관계 개선으로 나아가는 ‘선남 후미(先南後美)’ 정책을 추구하+ㄹ 것으로 전망되+ㄴ다”고 말하였다 .	PER-B ORG-B O ORG-B O O O ORG-B O O ORG-B O O O O O ORG-B O O ORG-B O O O O O O O O O O O
-여러 명의 선수가 지정되 +ㄴ 레인 없이 400m 트랙16 바퀴를 달리는 매스 스타트는 다른 선수와의 신경전, 자리 다툼에 따르 아순위가 갈리는 점에서 쇼트트랙과 비슷하다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+나영석 PD 는 지난해 6 월 한 매체 와 의 인터뷰 에서 ‘ 1 박 2 일 ’ 멤버 들 과 새로 운 예능 을 준비할 가능성 이 있 느냐는 질문 에 “ 승기 자주 본다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O
+지금 한국 경제 의 전망 은 캄캄하 다 .	O LOC-B O O O O O O O
+올 초 선다 이 피차이 최고 경영자 ( CEO ) 산하 에 신설한 하드웨어 부문 이 이번 사업 을 주도 했 다 .	O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O
+2005 ~ 2007 년 신한은행 · 국민은행 비롯해 연간 순이익 2 조 원 을 달성하 는 은행 이 속속 등장 했 다 .	DAT-B DAT-I DAT-I DAT-I ORG-B O ORG-B O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+메시 는 1 , 2 쿼터 에서 만 10 득점 에 14 리바운드 ‘ 더블 더블 ’ 을 기록 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+세상 에서 가장 작 은 나라 , 인구 900 여 명 의 그곳 … 사용하 는 언어 가	O O O O O O O O O O O O O O O O O O
+그간 고정식 발사대 에서 쏘 는 노동 · 대포동 미사일 등 과 달리 이동 차량 에 실 어 쏘 는 방식 이 라 더 위협적 이 라는 평가 가 이어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+심학봉 “ 제명 은 가혹 … 마녀 사냥 은 안돼 ” 국회 윤리 특위 에 소명 서	PER-B O O O O O O O O O O O O O O O O
+미국 진출 7 년 만 이 자 빅 리그 데뷔 7 경기 8 타수 만 에 터진 1 호 안타 . 최지만 의 이번 데뷔 안타 는 앞서 나온 박병호 ( 30 · 미네소타 ) , 이대호 ( 34 · 시애틀 ) , 김현수 ( 28 · 볼티모어 ) 의 첫 안타 보다 더 값지 고 감격적 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O ORG-B O O PER-B O O O ORG-B O O PER-B O O O ORG-B O O O O O O O O O O O O
+박찬욱 ( 53 ) 감독 의 ‘ 아가씨 ’ 가 12 일 오전 , 개봉 12 일 만 에 300 만 명 을 돌파 했 다 .	PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+사 잇돌 대출 은 금융 당국 이 4 ∼ 8 등급 중 저 신용 자 들 을 위해 내놓 은 연 6 ∼ 19 % 중 금리 대출 상품 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정성장 세종 연구소 실장 은 “ 한국 에서 새 정부 가 출범하 면 미국 하고 만 대화하 면서 남한 과 의 대화 는 거부하 는 ‘ 통 미 배남 ( 通美排南 ) ’ 정책 대신 남한 과 의 관계 개선 을 통해 북 - 미 관계 개선 으로 나아가 는 ‘ 선남 후미 ( 先南後美 ) ’ 정책 을 추구할 것 으로 전망된다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O ORG-B O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+여러 명 의 선수 가 지정된 레인 없이 400 m 트랙 16 바퀴 를 달리 는 매스 스타트 는 다른 선수 와 의 신경전 , 자리다툼 에 따 라 순위 가 갈리 는 점 에서 쇼트트랙 과 비슷하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

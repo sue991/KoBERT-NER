@@ -1,10 +1,10 @@
-지나+ㄴ 19일(현지시각) 캐나다 토론토에서 '머치 뮤직비디오 어워즈'가 열리었다 .	O O LOC-B LOC-I O O O O O
-한림대는 2013년 신설 하+ㄴ창업교육센터를 중심으로 학내 창업 분위기도 확산하고 있다 .	ORG-B O O O O O O O O O O
-[Food&Dining3.0]건강 하+ㄴ한식 메뉴 다양하게 맛보는 ‘본죽&비빔밥 카페 .	ORG-I O O O O ORG-B ORG-I O
-17번홀까지도 2타차 선두 +이었다 .	O O O O O
-라미란은 덕혜옹주의 곁을 지키는 궁녀를 맡았다 .	PER-B PER-B O O O O O
-침구청소기 시장 1위 이+ㄴ데 왜 자책 하나.“2014년 모든 것+이 최고+이었다 .	O O O O O O O O O O O
-해외 체류 귀국자 /휴일도 이삿짐 찾는다/ 내달 2일부터 연중무휴 통 .	O O O O O O O O O O O
-원희룡 제주도지사와 남경필 경기도지사가 상생협력을 위하+여손을 맞잡았다 .	PER-B O PER-B O O O O O
-‘1박2일 문근영’ ‘1박2일’ 문근영이 완벽 하+ㄴ민낯을 공개하+여화제+이다 .	O PER-B O PER-B O O O O
-지나+ㄴ 28일 방송되+ㄴ KBS2 예능 프로그램 ‘1박2일’에서는 멤버들이 문근영, 박보영, 김숙, 신지, 이정현, 민아와 강원도 춘천으로 떠나 +ㄴ두근두근우정여행 마지막 이야기가 전파를 타+았다 .	PER-I O O O O O O O PER-B PER-B PER-B PER-B PER-B PER-B LOC-B LOC-B O O O O O O O
+지난 19 일 ( 현지 시각 ) 캐나다 토론토 에서 ' 머치 뮤직 비디오 어워즈 ' 가 열 렸 다 .	O DAT-B DAT-I O O O O LOC-B LOC-I O O O O O O O O O O O O
+한림대 는 2013 년 신설한 창업 교육 센터 를 중심 으로 학내 창업 분위기 도 확산하 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O
+[ Food & Dining 3.0 ] 건강한 한식 메뉴 다양하 게 맛보 는 ‘ 본죽 & 비빔밥 카페 ’	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O
+17 번 홀 까지 도 2 타 차 선두 였 다 .	O O O O O O O O O O O O
+라미란 은 덕혜 옹주 의 곁 을 지키 는 궁녀 를 맡 았 다 .	PER-B O PER-B PER-I O O O O O O O O O O O
+침구 청소기 시장 1 위 인데 왜 자책 하나 . “ 2014 년 모든 게 최고 였 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O
+해외 체류 귀국 자 / 휴일 도 이삿짐 찾 는다 / 내달 2 일 부터 연중무휴 통관	O O O O O O O O O O O O DAT-B DAT-I O O O
+원희룡 제주 도지사 와 남경필 경기도 지사 가 상생 협력 을 위해 손 을 맞잡 았 다 .	PER-B O O O PER-B O O O O O O O O O O O O O
+‘ 1 박 2 일 문근영 ’ ‘ 1 박 2 일 ’ 문근영 이 완벽한 민낯 을 공개해 화제 다 .	O O O O O PER-B O O O O O O O PER-B O O O O O O O O
+지난 28 일 방송된 KBS 2 예능 프로그램 ‘ 1 박 2 일 ’ 에서 는 멤버 들 이 문근영 , 박보영 , 김숙 , 신 지 , 이정현 , 민아 와 강원도 춘천 으로 떠난 두근두근 우정 여행 마지막 이야기 가 전파 를 탔 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B O PER-B PER-I O PER-B O PER-B O LOC-B LOC-B O O O O O O O O O O O O O

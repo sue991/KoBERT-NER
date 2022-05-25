@@ -1,15 +1,15 @@
-[주말 기획] 삼성 라이온즈파크, 관중석 87% 내+어야 배치… 야구가 생생 하+여지+ㄴ .	O O O O O O O O O O O O
-[대구/경북]대구-경북 ‘청년 일자리 박람회’, 23일 엑스코서… 140개사 참 .	LOC-B O O O O LOC-B O O O
-노 전 국장은 “‘그때 +였으면 조사 제대로 하+ㄹ 수 있었겠냐’고 되묻자 그저 웃더라. 앞으로 이런 일이 반복되지 않는 것+이 중요하지 않겠어요”라고 말을 맺었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-21일 금융권에 따르면 이날 마감되 +ㄴ대우증권 매각 본입찰에 KB금융, 한국투자증권, 미래에셋증권, 대우증권 우리사주조합 등 4곳이 참여하였다 .	O O O O O ORG-B O O ORG-B ORG-B ORG-B ORG-B O O O O O
-전북은 이에 대하+여ECB에 소명자료를 보내+었지만, ECB는 이를 받아들이지 않고 끝내 전북의 새해 챔피언스리그 출전 자격을 제한하였다 .	ORG-B O ORG-B O O ORG-B O O O O ORG-B O O O O O O
-그의 탈세 의혹을 놓곤 “클린턴의 친구 이+ㄴ 워런 버핏도 조지 소로스도 공제를 받았다”며 “(이들과 같은) 많은 이들로부터 받은 돈으로 클린턴이 선거광고를 하고 있다”고 주장하였다 .	O O O O PER-B O O PER-B PER-I PER-B PER-I O O O O O O O O PER-B O O O O O
-곽종빈 서울시 소상공인지원과장은 “노후·불량 전기시설을 관리 하+여영세상인의 재산을 보호하고 시민들이 안심하고 전통시장을 찾을 수 있도록 돕겠다”고 말하였다 .	PER-B LOC-B O O O O O O O O O O O O O O O O
-이수기기 .	PER-B O
-벼룩시장서 1만6000원 주고 사+ㄴ곰인형, 알고 보니 1억짜리 한정판 … 심상하지 않은 인형이+ㅁ을 직감?벼룩시장에서 1억원을 호가하는 곰인형을 발견 하+ㄴ한 커플의 이야기가 화제를 모으고 있다 .	O MNY-B O O O O MNY-B O O O O O O MNY-B O O O O O O O O O O
-최근 영국 일간지 인디펜던트 등 현지 언론은 벼룩시장에서 살+ㄴ 인형 하나로 ‘횡재’를 한 커플의 사연을 소개하였다 .	O ORG-B O O O O O O O O O O O O O O O
-이날 국립서울현충원 김대중 전 대통령 묘소 참배행사에 참석하+ㄴ동교동계 인사들은 “권노갑 상임고문이 새정치연합 후보들을 위하 +ㄴ 지원 유세를 가+아서+ㄴ 안 되+ㄴ다”는 결론을 내리고 권 고문에게 이 같은 뜻을 전달 하+ㄴ 것으로 알려지었다 .	O LOC-B PER-B O O O O O O PER-B O ORG-B O O O O O O O O O O PER-B O O O O O O O O O
-강경석 coolup@d onga. com·배혜림기 .	PER-B O O PER-B O
-경찰 야구단에서 야구를 잇어가면서 밤마다 피땀 어리+ㄴ 재기의 꿈을 +었고, 2군에서 맹활약 하+ㄴ 덕분에 전역 후 2008년 다시 삼성으로 입단하였다 .	ORG-B ORG-I O O O O O O O O ORG-B O O O O O ORG-B O ORG-B O O
-더불어민주당 윤관석 대변인은 “이 대표가 느닷없이 정치공학적으로 호남과 연대하+ㄹ 수 있다고 얘기하는데, 실현되기도 어렵고 진정성도 없다”고 주장하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O O
-윤 교수가 주장하는 현행 국사교과서의 미술사 서술의 문제점은 다음과 같이 요약되+ㄴ다 .	PER-B O O O O O O O O O O O
+[ 주말 기획 ] 삼성라이온즈파크 , 관중석 87 % 내야 배치 … 야구 가 생생해 진다	O O O O ORG-B O O O O O O O O O O O
+[ 대구 / 경북 ] 대구 - 경북 ‘ 청년 일자리 박람회 ’ , 23 일 엑스코 서 … 140 개 사 참여	O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O DAT-B DAT-I LOC-B O O O O O O
+노 전 국장 은 “ ‘ 그때 했 으면 조사 제대로 할 수 있 었 겠 냐 ’ 고 되묻 자 그저 웃 더라 . 앞 으로 이런 일 이 반복되 지 않 는 게 중요하 지 않 겠 어요 ” 라고 말 을 맺 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+21 일 금융 권 에 따르 면 이날 마감 된 대우증권 매각 본 입찰 에 KB 금융 , 한국투자증권 , 미래에셋증권 , 대우증권 우리 사 주 조합 등 4 곳 이 참여 했 다 .	DAT-B DAT-I O O O O O O O O ORG-B O O O O ORG-B ORG-I O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O
+전북 은 이 에 대해 ECB 에 소명 자료 를 보냈 지만 , ECB 는 이 를 받아들이 지 않 고 끝내 전북 의 새해 챔피언스 리그 출전 자격 을 제한 했 다 .	ORG-B O O O O ORG-B O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O
+그 의 탈세 의혹 을 놓 곤 “ 클린턴 의 친구 인 워런 버핏 도 조지 소로스 도 공제 를 받 았 다 ” 며 “ ( 이 들 과 같 은 ) 많 은 이 들 로부터 받 은 돈 으로 클린턴 이 선거 광고 를 하 고 있 다 ” 고 주장 했 다 .	O O O O O O O O PER-B O O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+곽종빈 서울시 소 상공인 지원 과장 은 “ 노후 · 불량 전기 시설 을 관리해 영세 상인 의 재산 을 보호하 고 시민 들 이 안심하 고 전통 시장 을 찾 을 수 있 도록 돕 겠 다 ” 고 말 했 다 .	PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이수기 기자	PER-B O
+벼룩시장 서 1 만 6000 원 주 고 산 곰 인형 , 알 고 보 니 1 억 짜리 한정판 … 심상 치 않 은 인형 임 을 직감 ? 벼룩시장 에서 1 억 원 을 호가하 는 곰 인형 을 발견한 한 커플 의 이야기 가 화제 를 모으 고 있 다 .	O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O
+최근 영국 일간지 인디펜던트 등 현지 언론 은 벼룩시장 에서 산 인형 하나 로 ‘ 횡재 ’ 를 한 커플 의 사연 을 소개 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 국립서울현충원 김대중 전 대통령 묘소 참배 행사 에 참석한 동교동 계 인사 들 은 “ 권노갑 상임 고문 이 새정치연합 후보 들 을 위한 지원 유세 를 가선 안 된다 ” 는 결론 을 내리 고 권 고문 에게 이 같 은 뜻 을 전달한 것 으로 알려 졌 다 .	O LOC-B PER-B O O O O O O O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+강경석 coolup @ donga . com · 배혜림 기자	PER-B O O O O O O PER-B O
+경찰 야구단 에서 야구 를 이 어 가 면서 밤 마다 피땀 어린 재기 의 꿈 을 꿨 고 , 2 군 에서 맹활약한 덕분 에 전역 후 2008 년 다시 삼성 으로 입단 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O DAT-B DAT-I O ORG-B O O O O O
+더불 어 민주당 윤관석 대변인 은 “ 이 대표 가 느닷없이 정치 공학 적 으로 호남 과 연대할 수 있 다고 얘기하 는데 , 실현되 기 도 어렵 고 진정 성 도 없 다 ” 고 주장 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤 교수 가 주장하 는 현행 국사 교과서 의 미술사 서술 의 문제점 은 다음 과 같이 요약된다 .	PER-B O O O O O O O O O O O O O O O O O O

@@ -1,18 +1,18 @@
-그는 “보수우파의 통합 과 정권 재창출, 억지 탄핵의 진실규명과 명예회복이라는 간절하+ㄴ국민여망을 위하+여자유한국당을 탈당하었다”고 말하였다 .	O O O O O O O O O O O ORG-B ORG-I O O
-현대는 최근 보수 작업을 끝내 +ㄴ한남대교의 경우도 안전 여부를 재점검하기로 +였다 .	ORG-B O O O O LOC-B O O O O O O
-앞으로 37경기에서 약 29개의 타점을 추가 하+여 시즌 113타점을 기록하+ㄴ다는 계산이 나 오+ㄴ다 .	O O O O O O O O O O O O O O
-여권의 수습은 사태 발생 다음날 이+ㄴ 4일 아침부터 시작되었다 .	O O O O O O O O O O
-성남시장이재명, 메르스 환자 ‘신상정보’ 공개 하+ㄴ이유는?“억측과 혼란 막고자 .	PER-B O O O O O O O O
-각 조 3위는 플레이오프를 치르+ㄴ 뒤 승자가 북중미·카리브해 지역 최종 예선 4위팀과 본선행 티켓을 다투+ㄴ다 .	O O O O O O O LOC-B O O O O O O O O
-◆“파바로티시대와는 다르아”= 바르가스는 2007년 파바로 티타계 후 ‘제2의 파바로티’로 꽤 자주 거론되었다 .	PER-B O PER-B O O O O O PER-B O O O O
-그에 따르면 모든 북한 외교관들은 자식들 중 한 명을 평양에 인질로 남기+어두도록 강요받는다 .	O O O ORG-B O O O O O LOC-B O O O O
-여기에 전투의 재미를 배가시키+어주는 정령 탄의 활용과 원작의 인기 지역이+ㄴ말하는 섬, 글루딘가 +아도 등의 지역이 그대로 재현되 +ㄴ 것은 물론, 요새 전과 공성전, 혈맹 등 '리니지2'에서 빠지+ㄹ 수 없는 콘텐츠도 마련되었다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
-朴파면 반대 집회 또 과격 시위… 파출소 방화 시 .	PER-B O O O O O O O O O
-백종원의 요리에 윤상은 “비린내, 연기가 없고 대신 맛있는 냄새가 나 +ㄴ다”며 놀라워하었고, 김구라는 “이통조림1,400원짜리+ㄴ데 정말 대단하다”라고 말 하+여시선을 모으았다 .	MNY-I O O O O O O O O O O O PER-B MNY-B O O O O O O
-백종원은 통조림 구이에잇어진 간장과 맛술, 생강을 이용하+여육수를 만들어 ‘일식 스타일 꽁치 간장조림’을 만들었다 .	PER-B O O O O O O O O O O O O O
-KCC(59.45%), 오리온(63.81%), 모비스(76.91%)가 각각 전자랜드(14.01%), KGC(11.49%), SK(8.34%)를 무난히 누르+ㄹ 것으로 예상되었다 .	ORG-B ORG-B ORG-B O ORG-B ORG-B ORG-B O O O O O
-올 초반 총장이 박 대통령의 한일 위안부 합의를 높이 평가하자 “이런 역사의식과 인권의식을 가지+ㄴ 사람을 대선 후보 지지율 1위로 꼽는다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O
-톰슨 로이터는 최근 전문가의 말을 빌리+어 “먹구름이 당장 폭풍우를 일으키+ㄹ듯 하+ㄴ 분위기”라고 전하였다 .	PER-B PER-I O O O O O O O O O O O O
-이번 대회에는 중앙아시아 4개국 20여개 대학에서 추천을 받은 60여명이 참가하였다 .	O O LOC-B O O O O O O O O
-우선 희(38, 삼척시청)가 7골, 심해인(29, 삼척시청)이 6골을 넣으며 분전하였지만 6점차를 뒤집고 역전하기에는 역부족이었다 .	O O ORG-B O PER-B ORG-B O O O O O O O O
-.이 제한국은 11일 오전 7시50분 네덜란드와 3차전을 치르+ㄴ다 .	O ORG-B O O O ORG-B O O O
+그 는 “ 보수 우파 의 통합 과 정권 재 창출 , 억지 탄핵 의 진실 규명 과 명예 회복 이 라는 간절한 국민 여망 을 위해 자유 한국 당 을 탈당 했 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O
+현대 는 최근 보수 작업 을 끝낸 한남 대교 의 경우 도 안전 여부 를 재점검하 기 로 했 다 .	ORG-B O O O O O O LOC-B LOC-I O O O O O O O O O O O O
+앞 으로 37 경기 에서 약 29 개 의 타점 을 추가해 시즌 113 타점 을 기록한다는 계산 이 나온다 .	O O O O O O O O O O O O O O O O O O O O O
+여권 의 수습 은 사태 발생 다음날 인 4 일 아침 부터 시작 됐 다 .	O O O O O O O O DAT-B DAT-I O O O O O O
+성남 시장 이재명 , 메르스 환자 ‘ 신상 정보 ’ 공개한 이유 는 ? “ 억측 과 혼란 막 고자 ”	O O PER-B O O O O O O O O O O O O O O O O O O
+각 조 3 위 는 플레이오프 를 치른 뒤 승자 가 북중미 · 카리브해 지역 최종 예선 4 위 팀 과 본선 행 티켓 을 다툰다 .	O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O
+◆ “ 파바로티 시대 와 는 달 라 ” = 바르가스 는 2007 년 파바로티 타계 후 ‘ 제 2 의 파바로티 ’ 로 꽤 자주 거론 됐 다 .	O O PER-B O O O O O O O PER-B O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O
+그 에 따르 면 모든 북한 외교관 들 은 자식 들 중 한 명 을 평양 에 인질 로 남겨 두 도록 강요받 는다 .	O O O O O ORG-B O O O O O O O O O LOC-B O O O O O O O O O
+여기 에 전투 의 재미 를 배가 시켜 주 는 정령 탄 의 활용 과 원작 의 인기 지역 인 말하 는 섬 , 글 루딘 가도 등 의 지역 이 그대로 재현된 것 은 물론 , 요새전 과 공성전 , 혈맹 등 ' 리니지 2 ' 에서 빠질 수 없 는 콘텐츠 도 마련 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+朴 파면 반대 집회 또 과격 시위 … 파출소 방화 시도	PER-B O O O O O O O O O O
+백종원 의 요리 에 윤상은 “ 비린내 , 연기 가 없 고 대신 맛있 는 냄새 가 난다 ” 며 놀라워 했 고 , 김구라 는 “ 이 통조림 1,400 원 짜린데 정말 대단하 다 ” 라고 말해 시선 을 모 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O MNY-B MNY-I O O O O O O O O O O O O O
+백종원 은 통조림 구이 에 이 어 진간장 과 맛술 , 생강 을 이용해 육수 를 만들 어 ‘ 일식 스타일 꽁치 간장 조림 ’ 을 만들 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KCC ( 59.45 % ) , 오리온 ( 63.81 % ) , 모비스 ( 76.91 % ) 가 각각 전자랜드 ( 14.01 % ) , KGC ( 11.49 % ) , SK ( 8.34 % ) 를 무난히 누를 것 으로 예상 됐 다 .	ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O O ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O
+올 초 반 총장 이 박 대통령 의 한일 위안부 합의 를 높이 평가하 자 “ 이런 역사의식 과 인권 의식 을 가진 사람 을 대선 후보 지지율 1 위 로 꼽 는다 ?	O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+톰슨 로이터 는 최근 전문가 의 말 을 빌려 “ 먹구름 이 당장 폭풍우 를 일으킬 듯한 분위기 ” 라고 전 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+이번 대회 에 는 중앙아시아 4 개국 20 여 개 대학 에서 추천 을 받 은 60 여 명 이 참가 했 다 .	O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+우선희 ( 38 , 삼척시 청 ) 가 7 골 , 심해인 ( 29 , 삼척시 청 ) 이 6 골 을 넣 으며 분전 했 지만 6 점 차 를 뒤집 고 역전하 기 에 는 역부족 이 었 다 .	PER-B O O O ORG-B ORG-I O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+. 이제 한국 은 11 일 오전 7 시 50 분 네덜란드 와 3 차 전 을 치른다 .	O O ORG-B O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I ORG-B O O O O O O O

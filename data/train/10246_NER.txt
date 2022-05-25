@@ -1,16 +1,16 @@
-천안아산역이 나 오송역에서 서울·수서방면 고속열차를 잘못 승차하면 도중에 정차역이 없어 하차하지 못하+ㄹ 수도 있다 .	LOC-B O LOC-B LOC-B O O O O O O O O O O O
-이에 코레일이 대대적 이+ㄴ 홍보에 나서 +었다 .	O ORG-B O O O O O O
-미란다 커는 4월 초 원더브라를 알리기 위하+ㄴ 행사 참석차 한국을 방문하+ㄴ다 .	PER-B PER-I O O ORG-B O O O O LOC-B O O
-내한일정중원 더브라의 명예쇼 호스트 자격으로 GS샵 홈쇼핑 생방송에 출연하고, 새롭게 오픈하는 원더브라 강남점의 명예점장으로서 매장에서 고객을 직접 만나는 등 바쁘+ㄴ일정을 소화하+ㄹ 예정이다 .	O O O O O ORG-B O O O O O ORG-B LOC-B O O O O O O O O O O
-지하철 전동차 안에서 한 여성이 자신을 보며 음란행위를 한 남성의 모습을 영상으로 찍어 소셜미디어에 올리+어 화제가 되고 있다 .	O O O O O O O O O O O O O O O O O O O
-디에나G카터(DeannaG Carter)는 16일(현지시각) 자신의 페이스북에 미국 뉴욕 지하철에서 겪은 황당하+ㄴ일을 영상으로 찍어 올리+었다 .	PER-B PER-I O O O LOC-B LOC-B PER-I O O O O O O
-영상에는 검은색 선글라스와 모자를 쓰+ㄴ흑인 남성이 가방을 허벅지에 올려놓고 카터를 응시하는 모습이 담기었다 .	O O O O O O O O O PER-B O O O O
-당신의 어려움을 청와대에 전달 하+여 잘 해결 하+여주겠다”며 지지를 부탁하였다는 것이다 .	O O ORG-B O O O O O O O O O
-이번 IAC 회의는 지나 +ㄴ 4~6일 아랍에미리트 아부다비에서 있었으며 심사 결과는 7일 발표되+ㄹ 예정이었다 .	O ORG-B O O O O LOC-B LOC-B O O O O O O O
-부산 해운대구 우1동 더샾아델리스 아파트~파크하얏트 부산 사이 해안로 800m에 조성 중 이+ㄴ ‘해운대 영화의 거리’가 그곳이다 .	LOC-I LOC-B LOC-I LOC-B LOC-B LOC-I O O O O O O LOC-B LOC-I LOC-I O O
-‘새롭ㄴ 브로맨스?’'너를 기억하+여' 서인국과 최원영의 묘하+ㄴ 첫 만남이 그리+어지+ㄴ 가운데 비하인드 컷이 공개되었다 .	O O O PER-B PER-B O O O O O O O O O
-나+의 철학은 1~2명이 아니+ㄴ 5명이 모두 함께 뛰는 농구”라고 말하였다 .	O O O O O O O O O O O
-2010년 1월부터 지원법 제정, 조직위 설립, 사무처 발족 등으로 기반을 갖추+ㄴ 광주가 가장 먼저 하+ㄴ일은 자원봉사자 양성을 위하+ㄴ영어스쿨 운영이었다 .	O O O O O O O O O O O ORG-B O O O O O O O O
-가격은 1억4200만원이다 .	O MNY-B O
-G63AMG는 배기량 5461㏄의 가솔린 8기통 터보 엔진에 고성능 차 전문 브랜드 이+ㄴ AMG가 개발하+ㄴ 7단 변속기를 달았다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O
-감리+이란 간단히 말 하+여 전문가가 공사현장에 상주하며 「제3의 눈」으로 부실공사를 감시하는 제도 .	O O O O O O O O O O O O O
+천안아산역 이나 오송역 에서 서울 · 수서 방면 고속 열차 를 잘못 승차하 면 도중 에 정차 역 이 없 어 하차하 지 못할 수 도 있 다 .	LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+이 에 코레일 이 대대적 인 홍보 에 나섰 다 .	O O ORG-B O O O O O O O O
+미란다 커 는 4 월 초 원더 브라 를 알리 기 위한 행사 참석 차 한국 을 방문한다 .	PER-B PER-I O DAT-B DAT-I O ORG-B ORG-I O O O O O O O LOC-B O O O
+내한 일정 중 원더 브라 의 명예 쇼호스트 자격 으로 GS 샵 홈 쇼핑 생방송 에 출연하 고 , 새롭 게 오픈 하 는 원더 브라 강남 점 의 명예 점장 으로서 매장 에서 고객 을 직접 만나 는 등 바쁜 일정 을 소화할 예정 이 다 .	O O O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I LOC-B O O O O O O O O O O O O O O O O O O O O O
+지하철 전동차 안 에서 한 여성 이 자신 을 보 며 음란 행위 를 한 남성 의 모습 을 영상 으로 찍 어 소셜 미디어 에 올려 화제 가 되 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+디 에 나 G 카터 ( Deanna G Carter ) 는 16 일 ( 현지 시각 ) 자신 의 페이스북 에 미국 뉴욕 지하철 에서 겪 은 황당한 일 을 영상 으로 찍 어 올렸 다 .	PER-B PER-I PER-I PER-I PER-I O PER-B PER-I PER-I O O DAT-B DAT-I O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O
+영상 에 는 검은색 선글라스 와 모자 를 쓴 흑인 남성 이 가방 을 허벅지 에 올려놓 고 카터 를 응시하 는 모습 이 담 겼 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+당신 의 어려움 을 청와대 에 전달해 잘 해결해 주 겠 다 ” 며 지지 를 부탁 했 다는 것 이 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O
+이번 IAC 회의 는 지난 4 ~ 6 일 아랍에미리트 아부다비 에서 있 었 으며 심사 결과 는 7 일 발표될 예정 이 었 다 .	O ORG-B O O O O O O O LOC-B LOC-B O O O O O O O DAT-B DAT-I O O O O O O
+부산 해운대구 우 1 동 더 샾 아 델리스 아파트 ~ 파크 하얏트 부산 사이 해안 로 800 m 에 조성 중 인 ‘ 해운대 영화 의 거리 ’ 가 그곳 이 다 .	LOC-B LOC-I LOC-I LOC-I LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O
+‘ 새로 운 브 로맨스 ? ’ ' 너 를 기억해 ' 서인국 과 최원영 의 묘한 첫 만남 이 그려 진 가운데 비하인드 컷 이 공개 됐 다 .	O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O
+내 철학 은 1 ~ 2 명 이 아닌 5 명 이 모두 함께 뛰 는 농구 ” 라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+2010 년 1 월 부터 지원 법 제정 , 조직 위 설립 , 사무처 발족 등 으로 기반 을 갖춘 광주 가 가장 먼저 한 일 은 자원 봉사자 양성 을 위한 영어 스쿨 운영 이 었 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+가격 은 1 억 4200 만 원 이 다 .	O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+G 63 AMG 는 배기량 5461 ㏄ 의 가솔린 8 기통 터보 엔진 에 고성능 차 전문 브랜드 인 AMG 가 개발한 7 단 변속기 를 달 았 다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+감리 란 간단히 말해 전문가 가 공사 현장 에 상주하 며 「 제 3 의 눈 」 으로 부실 공사 를 감시하 는 제도 .	O O O O O O O O O O O O O O O O O O O O O O O O O

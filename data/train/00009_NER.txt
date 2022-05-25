@@ -1,15 +1,15 @@
-'우리 결혼 하+었어요' 송재림-김소은, 터키로 허니문 여행…"깨가 쏟아지+어 .	O O O PER-B LOC-B O O O O
-이로써 그리스와 채권단은 지난달 13일 유로존 정상회의에서 협상 개시에 합의 하+ㄴ지 1개월 만에 협약을 체결하게 +었다 .	O ORG-B O O O ORG-B O O O O O O O O O O O
-신한은행 관계자는 “최근 미국 은행에 김씨의 신원 확인 서류를 보내+었으며 북한 김정은과 전혀 관련이 없으니 최대한 빨리 송금이 이루어지게 하+여달라고 요청하였다”고 말하였다 .	ORG-B O O LOC-B O PER-B O O O O ORG-B PER-B O O O O O O O O O O O
-헬렌은 “그동안에이즈·말라리아에 대하+ㄴ국제 원조는 활발하였지만 상대적으로 안질환에 대하+ㄴ 관심은 떨어지었다 .	PER-B O O O O O O O O O O
-magazineM기자들에게 가장 크+ㄴ 자산은 매주 인터뷰로 국내외 영화계 주역들을 만나는 경험, 그 자체 이+ㅂ니다 .	ORG-B O O O O O O O O O O O O O O
-논쟁의 초점-‘김영란법’으로 불리는 ‘부정청탁 및 금품 등 수수의 금지에 관하+ㄴ 법률’이 우여곡절 끝에 국회 정무위원회를 통과하였으나 논란은 수그러들지 않고 있다 .	O O O O O O O O O O O O O ORG-B ORG-I O O O O O O
-북한의 수령 독재권력은 외부적들의 위협을 강조하며 인민들의 반복되+ㄴ 희생을 강요하면서 체제 결속 과 정권 유지에 주력하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O
-‘암살’ 하정우 “최동훈 감독 전작들에 설레+었다” 기대 .	O PER-B PER-B O O O O O
-김일성 우상화 행사 참석은 외교단도 예외가 아니+ㄴ셈이다 .	PER-B O O O O O O O
-케이블 여성채널 동아TV ‘스타서치’가 당시 대만에서 크+ㄴ인기를 모으던 김완선의 활약상을 담아 방송하였다 .	O O O O O LOC-B O O PER-B O O O O
-넥센 박병호(29)도 타고나 +ㄴ 홈런타자 이+ㄴ 듯하다 .	ORG-B PER-B O O O O O O
-시드릴은 계약에 명시하+ㄴ 기간 안에 시추선을 인도하지 못하+여 계약 취소권을 행사하였다고 밝히었다 .	ORG-B O ORG-B O O ORG-B O O O O O O O
-10.8%.4차 기 대선 후보 비지지도 그러면 다음 대선 후보들 가운데, 절대 투표하지 않을 인물은 누구 이+ㅂ니까? 반기문 25.4% 문재인 22.4% 황교안 10.3% 안철수 5.1% 오세훈 2.3% 이재명 2.0% 박원순 1.9% 유승민 1.3% 김문수 1.1% 남경필 1.1% 기타3.1% 잘 모르겠 .	O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O
-북한이탈주민을 위하+ㄴ창업교육도 하+ㄴ다 .	ORG-B O O O
-검사 결과 얼굴 좌측 광대뼈 3개가 부러지+ㄴ 것으로 나타나 +았다 .	O O O O O O O O O O O
+' 우리 결혼했 어요 ' 송재림 - 김소은 , 터키 로 허니문 여행 … " 깨 가 쏟아져 "	O O O O O PER-B O PER-B O LOC-B O O O O O O O O O
+이 로써 그리스 와 채권 단 은 지난달 13 일 유로존 정상 회의 에서 협상 개시 에 합의한 지 1 개월 만 에 협약 을 체결하 게 됐 다 .	O O ORG-B O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O
+신한은행 관계자 는 “ 최근 미국 은행 에 김 씨 의 신원 확인 서류 를 보냈 으며 북한 김정은 과 전혀 관련 이 없 으니 최대한 빨리 송금 이 이뤄지 게 해 달 라고 요청 했 다 ” 고 말 했 다 .	ORG-B O O O O LOC-B O O PER-B O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+헬렌 은 “ 그동안 에이즈 · 말라리아 에 대한 국제 원조 는 활발 했 지만 상대적 으로 안 질환 에 대한 관심 은 떨어 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+magazine M 기자 들 에게 가장 큰 자산 은 매주 인터뷰 로 국내외 영화계 주역 들 을 만나 는 경험 , 그 자체 입니다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+논쟁 의 초점 - ‘ 김영란 법 ’ 으로 불리 는 ‘ 부정 청탁 및 금품 등 수수 의 금지 에 관한 법률 ’ 이 우여곡절 끝 에 국회 정무 위원회 를 통과 했 으나 논란 은 수그러들 지 않 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+북한 의 수령 독재 권력 은 외부 적 들 의 위협 을 강조하 며 인민 들 의 반복된 희생 을 강요하 면서 체제 결속 과 정권 유지 에 주력하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 암살 ’ 하정우 “ 최동훈 감독 전작 들 에 설렜 다 ” 기대감	O O O PER-B O PER-B O O O O O O O O
+김일성 우상화 행사 참석 은 외교단 도 예외 가 아닌 셈 이 다 .	PER-B O O O O O O O O O O O O O
+케이블 여성 채널 동아 TV ‘ 스타 서치 ’ 가 당시 대만 에서 큰 인기 를 모으 던 김완선 의 활약상 을 담 아 방송 했 다 .	O O O O O O O O O O O LOC-B O O O O O O PER-B O O O O O O O O O
+넥센 박병호 ( 29 ) 도 타고난 홈런 타자 인 듯하 다 .	ORG-B PER-B O O O O O O O O O O O
+시 드릴 은 계약 에 명시한 기간 안 에 시추선 을 인도하 지 못해 계약 취소권 을 행사 했 다고 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+10.8 % # .4 차기 대선 후보 비 지지 도 그러면 다음 대선 후보 들 가운데 , 절대 투표하 지 않 을 인물 은 누구 입니까 ? 반기문 25.4 % 문재인 22.4 % 황교안 10.3 % 안철수 5.1 % 오세훈 2.3 % 이재명 2.0 % 박원순 1.9 % 유승민 1.3 % 김문수 1.1 % 남경필 1.1 % 기타 3.1 % 잘 모르 겠 다	O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B O O PER-B O O PER-B O O PER-B O O PER-B O O PER-B O O PER-B O O PER-B O O PER-B O O O O O O O O O
+북한 이탈 주민 을 위한 창업 교육 도 한다 .	ORG-B O O O O O O O O O
+검사 결과 얼굴 좌측 광대뼈 3 개 가 부러진 것 으로 나타났 다 .	O O O O O O O O O O O O O O

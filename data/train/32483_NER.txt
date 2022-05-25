@@ -1,9 +1,9 @@
-안용준 결혼, 4년 교제 하+ㄴ 9살 연상의 베니와… ‘가수와 배우의 만남’ 배우 안용준과 가수 베니(배소민)의 결혼 소식이 전하여 +지+었다 .	PER-B O O O O O O PER-B O PER-B O PER-B PER-B O PER-B O O O O O
-안용준의 소속사 측은 26일 “안용준과 베니는 오는 9월 19일 라마다 서울 호텔에서 결혼식을 올리+ㄹ 예정”이라고 밝히었다 .	PER-B O O O PER-B PER-B O O O LOC-B LOC-I LOC-I O O O O O
-이어 “두 사람의 행복하+ㄴ 앞날을 따뜻하게 축복하+여주시고, 앞으로도 안용준씨는 배우로서 더 좋은 작품으로 인사드리겠다”고 전하였다 .	O O O O O O O O PER-B O O O O O O O
-약 4년 정도 교제 하+ㄴ 것으로 알려지+ㄴ 안용준과 베니는 양가상견례를 마치 +ㄴ 것으로 알려지었다 .	O O O O O O O PER-B PER-B O O O O O O
-가수 베니는 1978년생으로 1987년에 태어나 +ㄴ 안용준보다 9살이 더 많은 것으로 알려지었다 .	O PER-B O O O O PER-B O O O O O O
-한편 베니는 2004년 상상밴드로 데뷔+였으며, 안용준의 가수 데뷔곡 ‘피터츠송’에 프로듀서로 참여하+ㄴ 것으로 알려지었다 .	O PER-B O ORG-B O PER-B O O O O O O O O
-녹십자가 글로벌 독감백신 시장에서 빠르게 영향력을 키우고 있는 것은 백신사업 역량을 견고히 쌓았기 때문이다 .	ORG-B O O O O O O O O O O O O O O
-녹십자는 다방면 의 사업분석을 토대로 독감백신처럼 경쟁력 있는 백신을 선별 하+여 글로벌 제품으로 키우+ㄴ다는 전략이다 .	ORG-B O O O O O O O O O O O O O O O
-2관에서만 여론을 의식 하+여「서편 제」「고래 사냥」 등 5편의 한국영화를 「걸작 로드쇼 」+이라는 이름으로 재탕 중이다 .	LOC-B O O O O O O O LOC-B O O O O O O O
+안용준 결혼 , 4 년 교제한 9 살 연상 의 베니 와 … ‘ 가수 와 배우 의 만남 ’ 배우 안용준 과 가수 베니 ( 배 소민 ) 의 결혼 소식 이 전해 졌 다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O PER-B O O PER-B O PER-B PER-I O O O O O O O O O
+안용준 의 소속 사 측 은 26 일 “ 안용준 과 베니 는 오 는 9 월 19 일 라마다 서울 호텔 에서 결혼식 을 올릴 예정 ” 이라고 밝 혔 다 .	PER-B O O O O O DAT-B DAT-I O O O PER-B O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-I LOC-I O O O O O O O O O O O
+이어 “ 두 사람 의 행복한 앞날 을 따뜻하 게 축복해 주 시 고 , 앞 으로 도 안용준 씨 는 배우 로서 더 좋 은 작품 으로 인사 드리 겠 다 ” 고 전 했 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+약 4 년 정도 교제한 것 으로 알려진 안용준 과 베니 는 양가 상견례 를 마친 것 으로 알려 졌 다 .	O O O O O O O O PER-B O PER-B O O O O O O O O O O O
+가수 베니 는 1978 년 생 으로 1987 년 에 태어난 안용준 보다 9 살 이 더 많 은 것 으로 알려 졌 다 .	O PER-B O DAT-B DAT-I O O DAT-B DAT-I O O PER-B O O O O O O O O O O O O O
+한편 베니 는 2004 년 상상 밴드 로 데뷔 했 으며 , 안용준 의 가수 데뷔 곡 ‘ 피터 츠 송 ’ 에 프로듀서 로 참여한 것 으로 알려 졌 다 .	O PER-B O DAT-B DAT-I ORG-B ORG-I O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+녹십자 가 글로벌 독감 백신 시장 에서 빠르 게 영향력 을 키우 고 있 는 것 은 백신 사업 역량 을 견고히 쌓 았 기 때문 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+녹십자 는 다방면 의 사업 분석 을 토대 로 독감 백신 처럼 경쟁력 있 는 백신 을 선별해 글로벌 제품 으로 키운다는 전략 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+2 관 에서 만 여론 을 의식해 「 서편제 」 「 고래 사냥 」 등 5 편 의 한국 영화 를 「 걸작 로드쇼 」 라는 이름 으로 재탕 중 이 다 .	LOC-B LOC-I O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-2014년 베트남 유통기업 바오+이람(BAORAM)과 계약을 맺고 베트남 호찌민에 흑삼 브랜드 ‘금흑’을 내 +었다 .	O LOC-B O ORG-B O O LOC-B LOC-B O O O O O O
-한 주민은 지지통신에 “폭발음이 10차례 이상 들리었다”고 말하였다. 미 국방부의 빌어번 대변인은 성명을 통하+여 “이날 자정 직후 사가미하라 미군기지의사가 미 보급창 건물에서 폭발이 일어나 +았다”면서 “아직 부상자는 보고되지 않았다”고 밝히었다 .	O O O O O O O O ORG-B ORG-I PER-B O O O O O O LOC-B ORG-B ORG-B O O O O O O O O O O O
-최영희 위원장은 “반인륜적 전쟁범죄의 피해자 +이었지만 평화·인권운동가로 활약하+ㄴ 위안부 할머니를 상징하는 곳이라고 판단하였다”며 장소 선정 이유를 밝히었다 .	PER-B O O O O O O O ORG-B O O O O O O O O O
-“자유무역협정(FTA) 등 수많은 어려움과 마주하였지만 농협이든든 하+ㄴ버팀목이 되+어+었기에 그리 하+여도 항상 희망을 품을 수 있다고 생각하+ㅂ니다. .	O O O O O ORG-B O O O O O O O O O O O
-ITF는 "초보 운전자와 운전 종사자(택시·버스·화물차 운전자)에 대하+여서는 음주운전 처벌 기준을 강화하는 경향이 대부분 국가에서 나타나고 있다"고 보고하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-화단 곳곳에는 한국전력공사가 임시로 설치하+ㄴ 전기선이 어지럽게 노출되+어 있었다 .	O O ORG-B O O O O O O O
-한국산업기술진흥원 관계자는 “신청서를 내+ㄴ 대학을 모두 밝히 +ㄹ 수는 없지만 상당히 많은 대학이 지원하였기 때문에 이 가운데 일부를 선정하기 위하+ㄴ 심사 절차가 진행 중”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-조선노동당 기관지 이+ㄴ 노동신문 19일자 5면을 보면 기가 막히+ㄴ다 .	ORG-B O O O O O O O O O
-3개 대회를 치르+ㄴ 한국 프로골프(KPGA) 투어에서는 남다르+ㄴ 사연을 지니 +ㄴ ‘아빠골퍼’ 최진호(32), 박상현(33), 모 중경(45)이 차례로 트로피를 안으며 스포트라이트를 받았다 .	O O O ORG-B ORG-B O O O O O O PER-B PER-B O O O O O O O O
-염천교로 돌아가는 길과 숙대입구 교차로를 통과하는 방법이다 .	LOC-B O O LOC-B LOC-I O O O
-경기 후 믹스트존을 지나치던 전북선수들은 한결같이 망연자실 하+ㄴ 표정이었다 .	O O O O ORG-B O O O O O
-앞서 유승준은 LA 총영사관에 한국에 입국하기 위하+ㄴ 비자를 신청하였으나 거부당 하+ㄴ바 있다. 유승준은 2002년 1월 한국국적을 포기하고 미국 시민권을 얻었다 .	O PER-B ORG-B ORG-I ORG-B O O O O O O O PER-B O O ORG-B O ORG-B O O O
-[단독]신동빈 “심려 끼치+어죄송… 수사 협조 .	PER-B O O O O O
-현대자동차그룹은 자립을 꿈꾸는 어렵ㄴ 이웃에게 창업용 차량을 선물하는 ‘기프트카 캠페인 시즌6’를 시작하+ㄴ다고 24일 밝히었다 .	ORG-B O O O O O O O O O O O O O O
-NASA는 “얼굴 패턴을 찾아내는 심리적 현상에 의하+여화성 생명체론이 불거지+ㄴ 것”이라고 말하였다.서태지와 아이들의 94년 악마 음악 논란도 파레이 돌리아 현상으로 해석하+ㄹ 수 있다 .	ORG-B O O O O O LOC-B O O O ORG-B ORG-I O O O O O O O O O O O
+2014 년 베트남 유통 기업 바오 람 ( BAORAM ) 과 계약 을 맺 고 베트남 호찌민 에 흑삼 브랜드 ‘ 금 흑 ’ 을 냈 다 .	DAT-B DAT-I ORG-B O O ORG-B ORG-I O ORG-B O O O O O O LOC-B LOC-B O O O O O O O O O O O
+한 주민 은 지지통신 에 “ 폭발음 이 10 차례 이상 들 렸 다 ” 고 말 했 다 . 미 국방부 의 빌 어번 대변인 은 성명 을 통해 “ 이날 자정 직후 사가 미하라 미군 기지 의 사가미 보급창 건물 에서 폭발 이 일어났 다 ” 면서 “ 아직 부상자 는 보고되 지 않 았 다 ” 고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O PER-B PER-I O O O O O O O TIM-B O ORG-B ORG-I ORG-I ORG-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+최영희 위원장 은 “ 반 인륜 적 전쟁 범죄 의 피해자 였 지만 평화 · 인권 운동가 로 활약한 위안부 할머니 를 상징하 는 곳 이 라고 판단 했 다 ” 며 장소 선정 이유 를 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+“ 자유 무역 협정 ( FTA ) 등 수많 은 어려움 과 마주 했 지만 농협 이 든든한 버팀목 이 돼 줬 기 에 그래도 항상 희망 을 품 을 수 있 다고 생각합니다 . ”	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+ITF 는 " 초보 운전자 와 운전 종사자 ( 택시 · 버스 · 화물차 운전자 ) 에 대해서 는 음주 운전 처벌 기준 을 강화하 는 경향 이 대부분 국가 에서 나타나 고 있 다 " 고 보고 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+화단 곳곳 에 는 한국전력공사 가 임시 로 설치한 전기선 이 어지럽 게 노출돼 있 었 다 .	O O O O ORG-B O O O O O O O O O O O O O
+한국 산업 기술 진흥 원 관계자 는 “ 신청서 를 낸 대학 을 모두 밝힐 수 는 없 지만 상당히 많 은 대학 이 지원 했 기 때문 에 이 가운데 일부 를 선정하 기 위한 심사 절차 가 진행 중 ” 이라고 말 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조선노동당 기관지 인 노동신문 19 일자 5 면 을 보 면 기 가 막힌다 .	ORG-B O O O DAT-B O O O O O O O O O O
+3 개 대회 를 치른 한국 프로 골프 ( KPGA ) 투어 에서 는 남다른 사연 을 지닌 ‘ 아빠 골퍼 ’ 최진호 ( 32 ) , 박상현 ( 33 ) , 모중경 ( 45 ) 이 차례 로 트로피 를 안 으며 스포트라이트 를 받 았 다 .	O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O PER-B O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O
+염천교 로 돌아가 는 길 과 숙대 입구 교차로 를 통과하 는 방법 이 다 .	LOC-B O O O O O LOC-B LOC-I LOC-I O O O O O O O
+경기 후 믹스트 존 을 지나치 던 전북 선수 들 은 한결같이 망연자실한 표정 이 었 다 .	O O O O O O O ORG-B O O O O O O O O O O
+앞서 유승준 은 LA 총영사관 에 한국 에 입국하 기 위한 비자 를 신청 했 으나 거부 당한 바 있 다 . 유승준 은 2002 년 1 월 한국 국적 을 포기하 고 미국 시민권 을 얻 었 다 .	O PER-B O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O PER-B O DAT-B DAT-I DAT-I DAT-I ORG-B O O O O ORG-B O O O O O O
+[ 단독 ] 신동빈 “ 심려 끼쳐 죄송 … 수사 협조 ”	O O O PER-B O O O O O O O O
+현대자동차그룹 은 자립 을 꿈꾸 는 어려 운 이웃 에게 창업 용 차량 을 선물하 는 ‘ 기프트 카 캠페인 시즌 6 ’ 를 시작한다고 24 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+NASA 는 “ 얼굴 패턴 을 찾아내 는 심리적 현상 에 의해 화성 생명체 론 이 불거진 것 ” 이라고 말 했 다 . 서태지 와 아이 들 의 94 년 악마 음악 논란 도 파레 이돌 리아 현상 으로 해석할 수 있 다 .	ORG-B O O O O O O O O O O O LOC-B O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O

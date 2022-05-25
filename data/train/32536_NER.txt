@@ -1,15 +1,15 @@
-이날 오후 11시41분 현재 개표가 90% 완료되+ㄴ 상황에서 고 이하게 후보는 45.1%의 득표율로 다른 후보들을 크게 앞서 +었다 .	O O O O O O O O O O O O O O O O O O O
-교통안전지킴이를 자처하고 나서 +ㄴ 주인공은 화순경찰서 교통관리계 장주성현 경위(57·사진).주 경위는 화순군청을 찾아가 +아 2개월 넘게 설득 하+ㄴ 끝에 화순군 화순읍 일 심리사거리에 차량 영상 검지(檢知) 시스템을 설치하였다 .	O O O O PER-B ORG-B O PER-B PER-B O LOC-B O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O
-가판대는 처참이 부시+어+지었고 어렵게 마련하+ㄴ 저울마저 압수당하였죠. 생계가 막막하+여지+ㄴ 모하메드는 결국 죽음으로 부당하+ㅁ을 알리는 안타깝ㄴ 선택을 하고 말+ㅂ니다 .	O O O O O O O O O PER-B O O O O O O O O O
-모하메드의 분신 자살 영상은 페이스북을 통하+여전국으로 퍼지+어나가았고 이를 지켜보+ㄴ 튀니지 사람들은 부패하+ㄴ독재정권에 대항하+여 민주주의를 외치며 거리로 뛰쳐나 오았습니다 .	PER-B O O O O O O O O LOC-B O O O O O O O O O
-다만 자산 규모가 1000억∼5000억원인 기존 지주회사에 대하+여서는 기존의 기준을 적용하되 제외신청이 있으면 공정거래법상 지주회사에서 즉시 제외되도록 +였다 .	O O O MNY-B O O O O O O O O O O O O O O
-대한항공 날개 꺾은 현대캐피탈의 목적타서브 올 시즌 상대전적에서 3전패를 안기었던 대한항공과의 12일 4라운드 맞대결을 앞두고 현대캐피탈은 목적타서브를 준비하였다 .	ORG-B O O ORG-B O O O O O O ORG-B O O O O ORG-B O O O
-관심을 모으았던 국방예산 증가율은 ‘7% 안팎’으로 제시되 +어 중국 국방비가 사상 처음으로 1조 위안(약 170조원)을 돌파하게 +었다 .	O O O O O O O O ORG-B O O O MNY-B MNY-I MNY-B O O O
-냉장고를 부탁하+여맹기용의 오시지 표절 논란…과거꼬마츄츄 “도용하면 가만 안 둘 것 .	O PER-B O O PER-B PER-I O O O O O
-국생체가 3년 동안 6억원(중소도시형)~9억원(대도시형)을 지원하는 이유+이다 .	ORG-B O O MNY-B MNY-I O O
-문 전 대표의 부인 김정숙 씨는 12일 여기자들과의 간담회에서 “남편이 지난해 11월 한 종편 채널과 길+ㄴ 인터뷰를 하고 +아서 사이다처럼 시원하게 말하지 못하+ㄴ 것을 밤새도록 후회하며 한숨을 쉬었다”는 말을 +였다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-그는 “한국의 정치·교육·사회·문화 등이 모두 기능 장애(dysfunction)에 걸리+어 있다 .	O ORG-B O O O O O O O O
-2NE1 출신 공민지가 KBS '언니들의 슬램덩크' 제작발표회인증샷을 남기었다 .	ORG-B O PER-B ORG-B O O O O O
-2000년 10월 21일 태어나 +ㄴ이토는 올림픽 탁구 사상 최연소 이+ㄴ 만 15세 300일로 시상대에 오르았다 .	O O O O PER-B O O O O O O O O O O O
-[교통사고 사망자 2000명 줄이자] 지난해 교통사고로 4292명 숨지+어… 감소율 7%로 12년 만에 가장 많이 줄 .	O O O O O O O O O O O O O O O O
-21개교 교장단협의회에 참석하+ㄴ학교장들은 불안감을 못 이기+ㄴ 학부모들의 민원전화가 폭주하고 있다며 해당 학교들은 맞벌이 가정 자녀를 위하+여휴교 기간에 임시교육활동을 하기로 +였다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O O
+이날 오후 11 시 41 분 현재 개표 가 90 % 완료된 상황 에서 고이 케 후보 는 45.1 % 의 득표율 로 다른 후보 들 을 크 게 앞섰 다 .	O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+교통안전 지킴이 를 자처하 고 나선 주인공 은 화순 경찰서 교통 관리 계장 주성현 경위 ( 57 · 사진 ) . 주 경위 는 화순 군청 을 찾아가 2 개월 넘 게 설득한 끝 에 화순군 화순읍 일 심리 사거리 에 차량 영상 검지 ( 檢知 ) 시스템 을 설치 했 다 .	O O O O O O O O ORG-B ORG-I O O O PER-B O O O O O O O PER-B O O ORG-B ORG-I O O O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O
+가판대 는 처참 이 부셔 졌 고 어렵 게 마련한 저울 마저 압수 당 했 죠 . 생계 가 막막해 진 모하메드 는 결국 죽음 으로 부당함 을 알리 는 안타까 운 선택 을 하 고 맙니다 .	O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+모하메드 의 분신자살 영상 은 페이스 북 을 통해 전국 으로 퍼져 나 갔 고 이 를 지켜본 튀니지 사람 들 은 부패한 독재 정권 에 대항해 민주주의 를 외치 며 거리 로 뛰쳐나 왔 습니다 .	PER-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+다만 자산 규모 가 1000 억 ∼ 5000 억 원인 기존 지주 회사 에 대해서 는 기존 의 기준 을 적용하 되 제외 신청 이 있 으면 공정거래법 상 지주회사 에서 즉시 제외되 도록 했 다 .	O O O O MNY-B MNY-I O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대한항공 날개 꺾 은 현대캐피탈 의 목적 타 서브 올 시즌 상대 전적 에서 3 전패 를 안 겼 던 대한항공 과 의 12 일 4 라운드 맞대결 을 앞두 고 현대캐피탈 은 목적 타 서브 를 준비 했 다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O ORG-B O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O
+관심 을 모 았 던 국방 예산 증가율 은 ‘ 7 % 안팎 ’ 으로 제시돼 중국 국방비 가 사상 처음 으로 1 조 위안 ( 약 170 조 원 ) 을 돌파하 게 됐 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O
+냉장고 를 부탁해 맹기 용 의 오 시 지 표절 논란 … 과거 꼬마츄츄 “ 도용하 면 가만 안 둘 것 ”	O O O PER-B PER-I O O O O O O O O PER-B O O O O O O O O
+국 생체 가 3 년 동안 6 억 원 ( 중소 도시 형 ) ~ 9 억 원 ( 대도시 형 ) 을 지원하 는 이유 다 .	ORG-B ORG-I O O O O MNY-B MNY-I MNY-I O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O
+문 전 대표 의 부인 김정숙 씨 는 12 일 여기자 들 과 의 간담회 에서 “ 남편 이 지난해 11 월 한 종편 채널 과 긴 인터뷰 를 하 고 와서 사이다 처럼 시원하 게 말하 지 못한 것 을 밤새 도록 후회하 며 한숨 을 쉬 었 다 ” 는 말 을 했 다 .	PER-B O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 한국 의 정치 · 교육 · 사회 · 문화 등 이 모두 기능 장애 ( dysfunction ) 에 걸려 있 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+2 NE 1 출신 공 민지 가 KBS ' 언니 들 의 슬램덩크 ' 제작 발표회 인증 샷 을 남 겼 다 .	ORG-B ORG-I ORG-I O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O
+2000 년 10 월 21 일 태어난 이토 는 올림픽 탁구 사상 최 연소 인 만 15 세 300 일 로 시상대 에 올 랐 다 .	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O PER-B O O O O O O O O O O O O O O O O O O O
+[ 교통사고 사망자 2000 명 줄이 자 ] 지난해 교통사고 로 4292 명 숨져 … 감소율 7 % 로 12 년 만 에 가장 많이 줄 어	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+21 개 교 교장 단 협의회 에 참석한 학교장 들 은 불안감 을 못 이긴 학부모 들 의 민원 전화 가 폭주하 고 있 다며 해당 학교 들 은 맞벌이 가정 자녀 를 위해 휴교 기간 에 임시 교육 활동 을 하 기 로 했 다 .	O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

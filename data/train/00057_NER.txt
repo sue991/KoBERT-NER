@@ -1,13 +1,13 @@
-주성하zsh75@d onga. com·이세형기 .	PER-B O PER-B O
-이중 화상을 입은 21명은 인근 병원으로 후송되+어치료를 받고 있으나 생명에는 지장이 없는 것으로 전하여 +지+었다 .	O O O O O O O O O O O O O O O O
-중앙통신은 목격자 증인을 인용하+여열차가 불에 휩싸이기 전 크+ㄴ 폭음이 들리었다고 전하였다 .	ORG-B O O O O O O O O O O O
-한편, 한국마케팅아카데미는 카페, 지식인, 페이스북, 카카오, 인스타그램 등 다양하+ㄴ 마케팅 도구를 바탕으로 온라인 마케팅 전문교육을 제공하고 있다 .	O ORG-B O O O O O O O O O O O O O O O O
-SM6dCi에 장착되+ㄴ1.5dCi(DirectCommon-railInjection) 엔진은 최고 출력 110마력, 최대 토크 25.5kg.m, 복합공인 연비 17.0km/ℓ(16&17인치타이어 기준)의 성능을 발휘하+ㄴ다 .	O O O O O O O O O O O O O O O O
-2년700만달러의 계약금은 전액 김현수에게 지급하+여야 하+ㄴ다 .	MNY-B O O PER-B O O O
-미국 등 선진시장에서도 이후에 정부가 규제 완화에 나서 +었다 .	ORG-B O O O O O O O O O
-국내에서도 판매 중 이+ㄴ 임팔라가 바로 그 차다 .	O O O O O O O O O
-‘아름답ㄴ 동행’은 2007년 ‘정신분열증병 명 개정을 위하 +ㄴ 서명서’를 의료계에 보내+었고, 4년에 걸치+ㄴ 노력 끝에 ‘조현병’으로 개칭하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O
-경기력 향상위원회는 24명의 대표 선수 예비명단을 확정하고 사령탑 후보로 유재학(모비스), 유도훈(전자랜드) 감독을 결정하였다 .	ORG-B ORG-I O O O O O O O ORG-B ORG-B O O O
-2009년 시작되+ㄴ 오바마 행정부는 지구 온난화와 우주탐사, 보건의료 등의 과제를 해결하기 위하+여과학기술 혁신전략을 펼치+어+오았다 .	O O ORG-B ORG-I O O O O O O O O O O O
-이에 따르 아현시점에 계약하는 소비자는 차량이 출고되+ㄹ 때까지 1~2개월가량 기다리+어야 하+ㄹ 것으로 내다보았다 .	O O O O O O O O O O O O O O
-디트로이트 타이거스의 미겔카 브레라는 베네수엘라 출신이며, 호세 아브레우(시카고 화이트 삭스)는 쿠바에서 망명하였다 .	ORG-B ORG-I PER-B O LOC-B O PER-B ORG-B O O LOC-B O O
+주성 하 zsh 75 @ donga . com · 이세형 기자	PER-B PER-I O O O O O O O PER-B O
+이 중 화상 을 입 은 21 명 은 인근 병원 으로 후송돼 치료 를 받 고 있 으나 생명 에 는 지장 이 없 는 것 으로 전해 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중앙통신 은 목격자 증인 을 인용해 열차 가 불 에 휩싸이 기 전 큰 폭음 이 들 렸 다고 전 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+한편 , 한국 마케팅 아카데미 는 카페 , 지식인 , 페이스북 , 카카오 , 인스타그램 등 다양한 마케팅 도구 를 바탕 으로 온라인 마케팅 전문 교육 을 제공하 고 있 다 .	O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+SM 6 dCi 에 장착된 1.5 dCi ( Direct Common - rail Injection ) 엔진 은 최고 출력 110 마력 , 최대 토크 25.5 kg . m , 복합 공인 연비 17.0 km / ℓ ( 16 & 17 인치 타이어 기준 ) 의 성능 을 발휘한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 년 700 만 달러 의 계약금 은 전액 김현수 에게 지급해야 한다 .	O O MNY-B MNY-I MNY-I O O O O PER-B O O O O
+미국 등 선진 시장 에서 도 이후 에 정부 가 규제 완화 에 나섰 다 .	ORG-B O O O O O O O O O O O O O O O
+국내 에서 도 판매 중 인 임팔라 가 바로 그 차 다 .	O O O O O O O O O O O O O
+‘ 아름다 운 동행 ’ 은 2007 년 ‘ 정신 분열증 병명 개정 을 위한 서명 서 ’ 를 의료계 에 보냈 고 , 4 년 에 걸친 노력 끝 에 ‘ 조현병 ’ 으로 개칭 했 다 .	O ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경기력 향상 위원회 는 24 명 의 대표 선수 예비 명단 을 확정하 고 사령탑 후보 로 유재학 ( 모비스 ) , 유도훈 ( 전자랜드 ) 감독 을 결정 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O PER-B O ORG-B O O PER-B O ORG-B O O O O O O O
+2009 년 시작된 오바마 행정부 는 지구 온난화 와 우주 탐사 , 보건 의료 등 의 과제 를 해결하 기 위해 과학 기술 혁신 전략 을 펼쳐 왔 다 .	DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 현 시점 에 계약하 는 소비자 는 차량 이 출고될 때 까지 1 ~ 2 개월 가량 기다려야 할 것 으로 내다 봤 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+디트로이트 타이거스 의 미겔 카브레라 는 베네수엘라 출신 이 며 , 호세 아브레우 ( 시카고 화이트삭스 ) 는 쿠바 에서 망명 했 다 .	ORG-B ORG-I O PER-B PER-I O LOC-B O O O O PER-B PER-I O ORG-B ORG-I O O LOC-B O O O O O

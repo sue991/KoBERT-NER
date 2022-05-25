@@ -1,12 +1,12 @@
-정치인 출신의 한인사가 “조직 구성이 부족하다”고 비판하자 공식 실무지원팀이+ㄴ 이른바 ‘마포캠프’ 측은 “전문가들을 영입하+여서 준비하고 있는데 무슨 소리+이냐”고 목소리를 높이었다고 하+ㄴ다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O
-팀에서 이정철 감독이 엄하+ㄴ아버지 +이라면 그는 자상 하+ㄴ어머니 역할을 +였다 .	O PER-B O O O O O O O O O
-지금 우리가 경제적으로 곤경에 처하+여 있는 러시아와 새롭ㄴ 이웃 관계를 맺어가는 과정에서 하+ㄹ 수 있고, 하+여야 하는 중요하+ㄴ일은 경제적으로 그들이 안정을 찾는 데 도움이 되+ㄹ 수 있는 방향으로 장기적 안목의 투자를 하면서 그들이 쌓아놓은 지적 ­문화적 역량을 한껏 흡수 하+여오는 것이 아니+ㄴ가 하+ㄴ다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-방송통신위원회가 추진하+ㄴ 인터넷윤리의식 제고 및 청소년 보호정책은 교육문화 분야에서 7위에 그치었다 .	ORG-B O O O O O O O O O O O
-‘대통령 말’ 전문가 “朴 대통령 어법, 괴상망 측… ‘대전은요’ 조작되+ㄴ말 .	O O O PER-B O O O O LOC-B O O
-영업시간 오전 11시~오후 10시 위치 서울시 마포구 독막로 15길3-12문의 02-324-84125달 꽃 크레페 ‘달콤하+ㄴ꽃다발 크레페’ 크레페 맛을 좌우하는 것은 반죽.일본 오사카에서 크레페를 접하고 장사를 시작하기까지 3년의 준비 기간 동안 연구하었다는 사장님만의 반죽은 얇고 바삭 하+ㄴ 것이 특징이다 .	TIM-I TIM-B TIM-I TIM-I O LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O LOC-B LOC-B ORG-I O O O O O O O O O O O O O O O O
-그는 “2007년 결혼하였다 .	O O O O
-하지만 교보생명의 보험금 지급 결정으로 이 생보사는 징계를 피하거나 경징계에 그치+ㄹ 것으로 전망되+ㄴ다 .	O ORG-B O O O O O O O O O O O O
-【서울=뉴시스 .	LOC-B O
-■영화 ‘죽여주는 여자’ 윤여정 몸 팔는 할머니들의 처연하+ㄴ 삶 배우로서 하+ㄹ 수 있는 ‘보시’ 같은 영화 이재용 감독?밉으나 곱으나 밥 친구 배우 윤여정(69)은 “예순이 넘고 나+아서 사치를 하기로 마음먹었다”고 +였다 .	O O O PER-B O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O
-참, 사진은 2인 1조로 이루어 지+ㄴ시승에서 조수석에 앉았을 때 촬영하+ㄴ 것이 +ㅂ니다 .	O O O O O O O O O O O O O
-티볼리 에어는 티볼리 디젤과 동일하게 1597cc 4기통 디젤엔진을 장착하였습니다 .	O O O O O O O O O O
+정치인 출신 의 한 인사 가 “ 조직 구성 이 부족하 다 ” 고 비판하 자 공식 실무 지원 팀 인 이른바 ‘ 마포 캠프 ’ 측 은 “ 전문가 들 을 영입해서 준비하 고 있 는데 무슨 소리 냐 ” 고 목소리 를 높 였 다고 한다 .	O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+팀 에서 이정철 감독 이 엄한 아버지 라면 그 는 자상한 어머니 역할 을 했 다 .	O O PER-B O O O O O O O O O O O O O O
+지금 우리 가 경제적 으로 곤경 에 처해 있 는 러시아 와 새로 운 이웃 관계 를 맺 어 가 는 과정 에서 할 수 있 고 , 해야 하 는 중요한 일 은 경제적 으로 그 들 이 안정 을 찾 는 데 도움 이 될 수 있 는 방향 으로 장기적 안목 의 투자 를 하 면서 그 들 이 쌓 아 놓 은 지적 ­ 문화적 역량 을 한껏 흡수해 오 는 것 이 아닌가 한다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방송 통신 위원회 가 추진한 인터넷 윤리 의식 제고 및 청소년 보호 정책 은 교육 문화 분야 에서 7 위 에 그 쳤 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+‘ 대통령 말 ’ 전문가 “ 朴 대통령 어법 , 괴상망측 … ‘ 대전 은 요 ’ 조작된 말 ”	O O O O O O PER-B O O O O O O LOC-B O O O O O O
+영업시간 오전 11 시 ~ 오후 10 시 위치 서울시 마포구 독막 로 15 길 3 - 12 문의 02 - 324 - 84125 달꽃 크레페 ‘ 달콤한 꽃다발 크레페 ’ 크레페 맛 을 좌우하 는 것 은 반죽 . 일본 오사카 에서 크레페 를 접하 고 장사 를 시작하 기 까지 3 년 의 준비 기간 동안 연구 했 다는 사장 님 만 의 반죽 은 얇 고 바삭한 것 이 특징 이 다 .	O TIM-B TIM-I TIM-I TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 2007 년 결혼 했 다 .	O O O DAT-B DAT-I O O O O
+하지만 교보생명 의 보험금 지급 결정 으로 이 생보사 는 징계 를 피하 거나 경징계 에 그칠 것 으로 전망된다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
+【 서울 = 뉴시스 】	O LOC-B O ORG-B O
+■ 영화 ‘ 죽여주 는 여자 ’ 윤 여 정 몸 파 는 할머니 들 의 처연한 삶 배우 로서 할 수 있 는 ‘ 보시 ’ 같 은 영화 이재용 감독 ? 미 우나 고 우나 밥 친구 배우 윤여정 ( 69 ) 은 “ 예순 이 넘 고 나서 사치 를 하 기 로 마음먹 었 다 ” 고 했 다 .	O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+참 , 사진 은 2 인 1 조 로 이뤄진 시승 에서 조수석 에 앉 았 을 때 촬영한 것 입니다 .	O O O O O O O O O O O O O O O O O O O O O O
+티볼리 에어 는 티볼리 디젤 과 동일하 게 1597 cc 4 기통 디젤 엔진 을 장착 했 습니다 .	O O O O O O O O O O O O O O O O O O O

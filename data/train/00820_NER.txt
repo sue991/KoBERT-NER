@@ -1,13 +1,13 @@
-불에 달구+ㄴ쇠막대기로 고양이를 찌르고 주전자에 담기 +ㄴ 끓는 물을 고양이에게 붓는 학대행위를 동영상으로 촬영하+여유포 하+ㄴ 20대가 경찰에 붙잡히 었다 .	O O O O O O O O O O O O O O O O O O O O
-서울 방배경찰서는 동물보호법상 동물학대 행위, 동물학대 영상물 게시물 위반 혐의로 A씨(25·무직)를 불구속 입건하였다고 14일 밝히었다 .	ORG-B ORG-I O O O O O O O O PER-B O O O O O
-경찰에 따르면 A씨는 충남 천안시 자신의 집에서 길고양이를 잡아 학대하고 이 같은 내용의 영상을 동영상으로 촬영하+여유포 하+ㄴ 혐의를 받고 있다 .	O O PER-B LOC-B LOC-B O O O O O O O O O O O O O O O O
-2월에 발표되+ㄴ표준지 공시지가에 따르면 올해 개별공시지가는 전국 평균 4.14% 상승 하+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O
-2년 전 이+ㄴ 2013년까지 전체 6차 산업 인증 사업자 중 귀농귀촌 하+ㄴ사람은 36.2%+이었다 .	O O O O O O O O O O O O O O
-세종시 관계자는 “지난해부터 매월 5000명 이상이 신도시에 입주하고 있다 .	ORG-B O O O O O O O O O
-관객을 모으며 올해 첫 한국영화 천만관객 돌파 초읽기에 돌입하였다 .	O O O O LOC-B O O O O O
-‘암살’은 1933년 상하이와 경성을 배경으로 친일파 암살 작전을 둘러싸 +ㄴ독립군들과 임시정부대원, 그들을 쫓는 청부살인업자까지 이들의 엇갈리+ㄴ 선택과 예측 하+ㄹ 수 없는 운명을 그리 +ㄴ 작품이다 .	O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O
-‘타격 부진·실책’ 박동원 슬럼프 탈출에 넥센 운명 걸리었 .	O O PER-B O O ORG-B O O O
-지난해 대한장애인체육회가 전국의 초중등 일반학교 및 특수학교 교사를 상대로 실시하+ㄴ ‘통합체육교실’ 프로그램에서 우수교사로 뽑히+ㄴ 교사 4명과 장애인체육회 생활체육부 및 국립특수교육원 직원의 연수현장을 본보가 함께하였다 .	O ORG-B O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O
-리더로서 누구보다도 고생이 많을 터+이+ㄴ 데 항상 웃어주+어서 너무나 고맙고 많은 배우+ㄹ점을 주었던 인형 같은 세리 언니, 나+의 5년 룸메이트로서 누구보다 의지하였고 이제 +ㄴ 눈빛만 보+아도 알 것 같은 나의 앙숙! 아영이, 고등학교 때부터 지금까지 그리고 앞으로도 너무나 예쁘+ㄴ 얼굴만큼 마음도 밝고 맑은 우희, 막내이+ㄴ 데도 언니들부터 챙기고 어른스럽+ㄴ, 그렇지만 너무 철들+ㄴ 모습에 마음도 많이 아프았던, 멤버가 만들 +ㄴ ‘Joker’+이 라는 곡으로 활동하+ㄹ 수 있는 걸그룹계에서는 유일무이하+ㄴ 경험을 하+ㄹ 수 있게 하+여주+ㄴ 수빈이가 어마어마하+ㄴ곡으로 컴백을 앞두고 있으니 기대 많이 하+여주시고 이 친구들이 언제 어떤 무대에 서든 힘내+ㄹ 수 있게 응원도 크게 !많이! 하+여주시 면 너무 감사하+ㄹ 것 같아요 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또 온주완은 “여자분들은 머리가 내려오아 있지 않냐”는 말과 함께 흘러내리+ㄴ조여정의 머릿결을 자연스럽게 넘겨주는 등 특급 노하우를 아끼+ㅁ 없이 전수해 화제를 모으았다 .	O PER-B O O O O O O O PER-B O O O O O O O O O O O O
-한편, 26일 한 매체는 “온 주완과 조보아가 지난해 8월 방송 하+ㄴtvN드라마 ‘잉여공주’에서의 호흡을 계기로 가깝어 +지었다”며 두 사람의 열애설을 제기하였다 이에 온 주완의 소속사 윌엔터테인먼트는 이날 “두 배우가 연인으로 만나고 있음을 확인하였다”고 열애를 공식 인정하였다 .	O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+불 에 달군 쇠막대기 로 고양이 를 찌르 고 주전자 에 담긴 끓 는 물 을 고양이 에게 붓 는 학대 행위 를 동영상 으로 촬영해 유포한 20 대 가 경찰 에 붙잡 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울 방배 경찰서 는 동물 보호 법 상 동물 학대 행위 , 동물 학대 영상물 게시물 위반 혐의 로 A 씨 ( 25 · 무직 ) 를 불구속 입건 했 다고 14 일 밝 혔 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O DAT-B DAT-I O O O O
+경찰 에 따르 면 A 씨 는 충남 천안시 자신 의 집 에서 길 고양이 를 잡 아 학대하 고 이 같 은 내용 의 영상 을 동영상 으로 촬영해 유포한 혐의 를 받 고 있 다 .	O O O O PER-B O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 월 에 발표된 표준지 공시 지가 에 따르 면 올해 개별 공시 지가 는 전국 평균 4.14 % 상승할 것 으로 보인다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+2 년 전 인 2013 년 까지 전체 6 차 산업 인증 사업자 중 귀농 귀촌한 사람 은 36.2 % 였 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+세종시 관계자 는 “ 지난해 부터 매월 5000 명 이상 이 신도시 에 입주하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O
+관객 을 모으 며 올해 첫 한국 영화 천만 관객 돌파 초읽기 에 돌입 했 다 .	O O O O O O LOC-B O O O O O O O O O O
+‘ 암살 ’ 은 1933 년 상하이 와 경성 을 배경 으로 친일파 암살 작전 을 둘러싼 독립군 들 과 임시 정부 대원 , 그 들 을 쫓 는 청부 살인 업자 까지 이 들 의 엇갈린 선택 과 예측할 수 없 는 운명 을 그린 작품 이 다 .	O O O O DAT-B DAT-I LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 타격 부진 · 실책 ’ 박동원 슬럼프 탈출 에 넥센 운명 걸 렸 다	O O O O O O PER-B O O O ORG-B O O O O
+지난해 대한 장애인 체육회 가 전국 의 초 중등 일반 학교 및 특수 학교 교사 를 상대 로 실시한 ‘ 통합 체육 교실 ’ 프로그램 에서 우수 교사 로 뽑힌 교사 4 명 과 장애인 체육 회 생활 체육 부 및 국립 특수 교육 원 직원 의 연수 현장 을 본보 가 함께 했 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O
+리더 로서 누구 보다 도 고생 이 많 을 텐데 항상 웃 어 줘서 너무나 고맙 고 많 은 배울 점 을 주 었 던 인형 같 은 세리 언니 , 내 5 년 룸메이트 로서 누구 보다 의지 했 고 이젠 눈빛 만 봐도 알 것 같 은 나 의 앙숙 ! 아영 이 , 고등학교 때 부터 지금 까지 그리고 앞 으로 도 너무나 예쁜 얼굴 만큼 마음 도 밝 고 맑 은 우희 , 막내 인데 도 언니 들 부터 챙기 고 어른스러운 , 그렇지만 너무 철든 모습 에 마음 도 많이 아 팠 던 , 멤버 가 만든 ‘ Joker ’ 라는 곡 으로 활동할 수 있 는 걸 그룹 계 에서 는 유일무이한 경험 을 할 수 있 게 해 준 수빈이 가 어마어마한 곡 으로 컴백 을 앞두 고 있 으니 기대 많이 해 주 시 고 이 친구 들 이 언제 어떤 무대 에서 든 힘낼 수 있 게 응원 도 크 게 ! 많이 ! 해 주 시 면 너무 감사할 것 같 아요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 온주 완 은 “ 여자 분 들 은 머리 가 내려 와 있 지 않 냐 ” 는 말 과 함께 흘러내린 조여정 의 머릿결 을 자연스럽 게 넘겨주 는 등 특급 노하우 를 아낌 없이 전 수해 화제 를 모 았 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+한편 , 26 일 한 매체 는 “ 온주완 과 조보아 가 지난해 8 월 방송한 tvN 드라마 ‘ 잉여 공주 ’ 에서 의 호흡 을 계기 로 가까 워 졌 다 ” 며 두 사람 의 열애 설 을 제기 했 다 이 에 온주 완 의 소속 사 윌 엔터테인먼트 는 이날 “ 두 배우 가 연인 으로 만나 고 있 음 을 확인 했 다 ” 고 열애 를 공식 인정 했 다 .	O O DAT-B DAT-I O O O O PER-B O PER-B O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O

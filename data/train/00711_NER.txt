@@ -1,15 +1,15 @@
-<호우시절>에서는 중국이라는 외국을 배경으로 촬영하였다 .	O LOC-B O O O O
-박 대통령은 25일 출국 하+여 추석 연휴 기간에 제70차 유엔총회와 유엔 개발 정상회의에 참석하+ㄹ 예정이다 .	PER-B O O O O O O O O ORG-B ORG-B ORG-I ORG-I O O O
-전 전 회장 부부는 회사가 또 한 번의 부도 위기에 놓이었던 2011년 5월, 123억원에 이르는 직원 임금을 체불하고 회사 자산이+ㄴ 골프장을 팔아도 피자금을 마련하+여 미국으로 달아나 +았다 .	PER-B PER-B O O O O O O O O O O O MNY-B O O O O O O O O O O LOC-B O O O
-국내 저비용 항공사 중 처음으로 대형 항공사와 인터라인 협정을 맺은 것으로, 유나이티드 항공의 표를 사는 승객은 유나이티드 항공 노선과 연계되+ㄴ 제주항공 노선의 표를 함께 살+ㄹ 수 있다 .	O O O O O O O O O O O ORG-B ORG-I O O O ORG-B ORG-I O O ORG-B O O O O O O O
-도로공사는 지나 +ㄴ 시즌 정규리그 우승을 차지하였지만 챔피언 결정 전에서는 정규리그 2위 IBK기업은행에 3전전패하며 준우승에 만족하+여야 +였다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O
-소속사 아메바컬쳐는 공식 트위터에 컴백 예고 이미지를 공개하였다 .	O ORG-B O O O O O O O
-그런 까닭으로 20세기 초부터 도태의 길을 걷었다 .	O O O O O O O O
-‘타블로 하루’ 래퍼 사이먼 도미닉(쌈디)의 신곡 뮤직비디오에 타블로와 딸 하루가 출연하+여화제가 되고 있다 .	PER-B PER-B O PER-B PER-B O O PER-B O PER-B O O O O
-지나+ㄴ 6일 강혜정은 인스타그램에 “랩블로락 하루 찬조 출연 쌈디컴백 커밍 쑤+ㄴ”+이라는 글과 함께 사진 한 장을 게재하였다 .	O O PER-B O O O O O O O O O O O O O O O
-그리고 지난해 8월 용인 역북에 공급되+ㄴ 10년 분양전환 임대아파트 ‘용인 역북 우남퍼스트빌(914채)’의 경우 계약 시작 5일 만에 100% 계약을 마치었을 정도+이다 .	O O O LOC-B LOC-B O O O O LOC-B LOC-B LOC-B O O O O O O O O O O
-이어 “그동안 다수의 증거가 수집되었지만 박 전 대통령이 대부분 범죄 혐의에 대하+ 여부인하는 등 향후 증거를 인멸 하+ㄹ 우려가 있다”고 강조하였다 .	O O O O O PER-B O O O O O O O O O O O O O O O O
-그 남자의 연봉, 1억5000만원이 +ㄴ이 유…"정리달인이 연봉도 높다" 설문에 응답하+ㄴ금융회사는 향후 1년 이내에 총 4264명을 추가로 채용 하+ㄹ 계획이라고 밝히었다 .	O O O MNY-B O O O O O O O MNY-B O O O O O O O O O
-서동필 NH투자증권 100세 시대 연구소 수석연구 .	PER-B ORG-B ORG-I ORG-I ORG-I O O
-이어 “18번홀에서 듣은 애국가가 지금까지 듣었던 어떤 노래보다 최고+이었다”라고 덧붙이었다 .	O O O O O O O O O O O
-박인비는 당분간 국내에 머물며 손가락 치료와 재활을 하+ㄴ 뒤 복귀를 준비 하+ㄹ 계획이다 .	PER-B O O O O O O O O O O O O O
+< 호우 시절 > 에서 는 중국 이 라는 외국 을 배경 으로 촬영 했 다 .	O O O O O O LOC-B O O O O O O O O O O
+박 대통령 은 25 일 출국해 추석 연휴 기간 에 제 70 차 유엔 총회 와 유엔 개발 정상 회의 에 참석할 예정 이 다 .	PER-B O O DAT-B DAT-I O DAT-B O O O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I ORG-I O O O O O O
+전 전 회장 부부 는 회사 가 또 한 번 의 부도 위기 에 놓 였 던 2011 년 5 월 , 123 억 원 에 이르 는 직원 임금 을 체불하 고 회사 자산 인 골프장 을 팔 아 도피 자금 을 마련해 미국 으로 달아났 다 .	PER-B O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O LOC-B O O O O
+국내 저 비용 항공사 중 처음 으로 대형 항공사 와 인터 라인 협정 을 맺 은 것 으로 , 유나이티드항공 의 표 를 사 는 승객 은 유나이티드 항공 노선 과 연계된 제주 항공 노선 의 표 를 함께 살 수 있 다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O
+도로 공사 는 지난 시즌 정규 리그 우승 을 차지 했 지만 챔피언 결정 전 에서 는 정규 리그 2 위 IBK 기업은행 에 3 전 전패하 며 준우승 에 만족해야 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+소속 사 아메바 컬쳐 는 공식 트위터 에 컴백 예고 이미지 를 공개 했 다 .	O O ORG-B ORG-I O O O O O O O O O O O O
+그런 까닭 으로 20 세기 초 부터 도태 의 길 을 걸 었 다 .	O O O O O O O O O O O O O O O
+‘ 타블로 하루 ’ 래퍼 사이먼 도미닉 ( 쌈 디 ) 의 신곡 뮤직 비디오 에 타블로 와 딸 하루 가 출연해 화제 가 되 고 있 다 .	O O O O O PER-B PER-I O PER-B PER-I O O O O O O PER-B O O PER-B O O O O O O O O O
+지난 6 일 강혜정 은 인스타그램 에 “ 랩 블로 락하 루 찬조 출연 쌈디컴백 커밍 쑨 ” 라는 글 과 함께 사진 한 장 을 게재 했 다 .	O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+그리고 지난해 8 월 용인 역 북 에 공급된 10 년 분양 전환 임대 아파트 ‘ 용인 역 북 우남퍼스트빌 ( 914 채 ) ’ 의 경우 계약 시작 5 일 만 에 100 % 계약 을 마 쳤 을 정도 다 .	O O DAT-B DAT-I LOC-B LOC-B LOC-I O O O O O O O O O LOC-B LOC-B LOC-I LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 그동안 다수 의 증거 가 수집되 었 지만 박 전 대통령 이 대부분 범죄 혐의 에 대해 부인하 는 등 향후 증거 를 인멸할 우려 가 있 다 ” 고 강조 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+그 남자 의 연봉 , 1 억 5000 만 원 인 이유 … " 정리 달인 이 연봉 도 높 다 " 설문 에 응답한 금융 회사 는 향후 1 년 이내 에 총 4264 명 을 추가 로 채용할 계획 이 라고 밝 혔 다 .	O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서동필 NH 투자 증권 100 세 시대 연구소 수석 연구원	PER-B ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O
+이어 “ 18 번 홀 에서 들 은 애국가 가 지금 까지 들 었 던 어떤 노래 보다 최고 였 다 ” 라고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박인비 는 당분간 국내 에 머물 며 손가락 치료 와 재활 을 한 뒤 복귀 를 준비할 계획 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O

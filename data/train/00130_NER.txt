@@ -1,16 +1,16 @@
-이 의원은 서울대 법대 70학번이 자사법시험 20회 동기 이+ㄴ 여상규 의원과 가장 많은 공통점을 갖고 있다 .	O O ORG-B ORG-I O O O O O PER-B O O O O O O O
-정찬헌은 이날 새벽 서울 강남구 신사동 사거리에서 음주운전을 하 .	PER-B O O LOC-B LOC-B LOC-B LOC-I O O O
-이에 불복하+ㄴ A씨는 항소하였고, 김현중 역시 항소장을 제출하+여 11일 첫 변론기일이 잡히+ㄴ 상태+이다 .	O O PER-B O PER-B O O O O O O O O O
-한편 김현중은 2월 11일 육군 30사단에서 복무를 마치고 제대하+ㄴ다 .	O PER-B O O O O O O O O
-KMTNet은 칠레, 남아프리카공화국, 호주 등 남반구 3개 국가 관측소에 설치되 +어우리은하 중심부를 24시간 연속 관측 하+ㄹ 수 있어 ‘별이 지지 않는 관측소’로도 불리+ㄴ다 .	ORG-B LOC-B LOC-B LOC-B O O O O O O LOC-B O O O O O O O O O O O O O
-『당신을 위하+ㄴ 컬러링 북 프리티 패턴』과 『아트테라피 컬러링 북』은 밑그림에 부분적으로 색이 칠 하+여지+어 있고, 일반적 이+ㄴ 컬러링 북에 비하+ 여색 선택이 쉽어 화려하고 완성도 높은 결과물을 얻을 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-법무부의 사법시험 폐지 유예 발표에 법학전문대학원(로스쿨) 학생들이 집단 반발, 시험 거부 사태까지 우려되었던 제5회 변호사 시험이 4일 전국 6개 고사장에서 시작되었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-38개가 산림청이 운영하는 국립이고, 나머지는 지방자치단체와 개인이 운영하+ㄴ다 .	O ORG-B O O O O O O O
-최승표기자 spchoi@joongang. co.kr※자세 하+ㄴ 내용은 30일자 WEEK&참조 .	PER-B O O O O O O O
-배우 전석호(32)가 10년 동안 사귀+ㄴ 여자친구와 21일 결혼 하+ㄴ다는 소식이 9일 알려지면서 새삼 관심의 시선을 받고 있다 .	O PER-B O O O O O O O O O O O O O O O O
-전석호는 2014년 12월 종영하+ㄴ 케이블 채널tvN드라마 ‘미생’에서 하대리역을 맡아 주인공 못지않은 화제를 모으았다 .	PER-B O O PER-B O O O PER-B O O O O O O
-박근혜 정권이 모으+ㄹ불만과 각성은 널리 +어 있다 .	PER-B O O O O O O O
-엑소는 ‘로또’, ‘럭키원’, ‘몬스터’ 등을 연달아 히트시키었다 .	ORG-B O O O O O O O
-전면은 대형 헥사고나 +ㄹ그릴을 적용되는 등 현대차 패밀리룩을 계승하고 차체의 75% 이상에 고장력 강판과 방청강판 98%, 제동 성능이 우수하+ㄴ 디스크 브레이크, 차체 제어장치(VDC)가 전차종 기본 적용되는 등 안전성을 확보하였다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-일단 2020 도쿄올림픽을 내다보고 대표팀을 구성하+ 여야 하+ㄴ다 .	O O O O O O O O O
-일지, 방위청 연구보고서 폭 .	O ORG-B O O O
+이 의원 은 서울대 법대 70 학번 이 자 사법 시험 20 회 동기 인 여상규 의원 과 가장 많 은 공통점 을 갖 고 있 다 .	O O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O O O O O O O O
+정찬헌 은 이날 새벽 서울 강남구 신사동 사거리 에서 음주 운전 을 하 다	PER-B O O O LOC-B LOC-B LOC-B LOC-I O O O O O O
+이 에 불복한 A 씨 는 항소 했 고 , 김현중 역시 항소장 을 제출해 11 일 첫 변론 기일 이 잡힌 상태 다 .	O O O PER-B O O O O O O PER-B O O O O DAT-B DAT-I O O O O O O O O
+한편 김현중 은 2 월 11 일 육군 30 사단 에서 복무 를 마치 고 제대한다 .	O PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+KMTNet 은 칠레 , 남아프리카공화국 , 호주 등 남반구 3 개 국가 관측소 에 설치돼 우리 은하 중심부 를 24 시간 연속 관측할 수 있 어 ‘ 별 이 지 지 않 는 관측소 ’ 로 도 불린다 .	ORG-B O LOC-B O LOC-B O LOC-B O O O O O O O O LOC-B LOC-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+『 당신 을 위한 컬러링 북 프리티 패턴 』 과 『 아트 테라피 컬러링 북 』 은 밑그림 에 부분적 으로 색 이 칠해 져 있 고 , 일반적 인 컬러링 북 에 비해 색 선택 이 쉬 워 화려하 고 완성도 높 은 결과물 을 얻 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+법무부 의 사법 시험 폐지 유예 발표 에 법학 전문 대학원 ( 로스쿨 ) 학생 들 이 집단 반발 , 시험 거부 사태 까지 우려 됐 던 제 5 회 변호사 시험 이 4 일 전국 6 개 고사장 에서 시작 됐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+38 개 가 산림청 이 운영하 는 국립 이 고 , 나머지 는 지방 자치 단체 와 개인 이 운영한다 .	O O O ORG-B O O O O O O O O O O O O O O O O O
+최승표 기자 spchoi @ joongang . co . kr ※ 자세한 내용 은 30 일자 WEEK & 참조 .	PER-B O O O O O O O O O O O O DAT-B O O O O O
+배우 전석호 ( 32 ) 가 10 년 동안 사귄 여자 친구 와 21 일 결혼한다는 소식 이 9 일 알려지 면서 새삼 관심 의 시선 을 받 고 있 다 .	O PER-B O O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O
+전석호 는 2014 년 12 월 종영한 케이블 채널 tvN 드라마 ‘ 미생 ’ 에서 하 대리 역 을 맡 아 주인공 못지않 은 화제 를 모 았 다 .	PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
+박근혜 정권 이 모을 불만 과 각성 은 널려 있 다 .	PER-B O O O O O O O O O O O
+엑소 는 ‘ 로또 ’ , ‘ 럭키 원 ’ , ‘ 몬스터 ’ 등 을 연달 아 히트 시 켰 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+전면 은 대형 헥 사고 날 그릴 을 적용되 는 등 현대 차 패밀리 룩 을 계승하 고 차체 의 75 % 이상 에 고 장력 강판 과 방청 강판 98 % , 제동 성능 이 우수한 디스크 브레이크 , 차체 제어 장치 ( VDC ) 가 전 차종 기본 적용되 는 등 안전성 을 확보 했 다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일단 2020 도쿄 올림픽 을 내다보 고 대표 팀 을 구성해야 한다 .	O O O O O O O O O O O O O
+일 지 , 방위 청 연구 보고서 폭로	O O O ORG-B ORG-I O O O

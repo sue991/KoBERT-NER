@@ -1,9 +1,9 @@
-6학년 때에는 간단하+ㄴ게임도 혼자 만들었다 .	O O O O O O
-한편 금호타이어는 4월 2일까지 금호아시아나그룹 홈페이지를 통하+여 2015년 상반기 금호아시아나그룹 신입 및 인턴사원 지원서 접수를 진행하+ㄴ다 .	O ORG-B O O ORG-B O O O O ORG-B O O O O O O O
-1980 레이크 플래시 드 동계올림픽 5관왕 에릭 하이든은 스탠퍼드 대학교에서의학박사 학위를 받은 뒤 훗날 미국 스피드스케이팅 대표팀의 팀 닥터를 맡기도 +였다 .	O O O O O O PER-B PER-I ORG-B ORG-I O O O O ORG-B ORG-I ORG-I ORG-I O O O O
-2014년 6월 최양희 장관이 취임하 +ㄴ후 금품·향응 수수, 음주운전, 동료 폭행, 심지어 성 관련 사건으로 징계위원회에 회부되+ㄴ 직원만 5급 사무관에서부터 서기관 부이사관까지 38명에 이르+ㄴ다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O
-그러나 한국을 선진국으로 분류하는 경우는 별로 없다 .	O ORG-B O O O O O O
-기사를 쓰+ㄴ나카노 아키라기자는 올 4월 하순 본보의 취재에도 동행하였었다 .	O PER-B PER-I O O O O O O O
-공립 일반고+이라는 한계를 딛고 최근 서울시교육청으로부터 생활지도 우수학교로 선정되+ㄴ창동고는 교사 연구동호회 ‘웃떠만’을 통하+여교사들이 노하우를 공유하고 서로 격려하는 문화가 있다 .	O O O O O ORG-B O O ORG-B O O ORG-B O O O O O O O O
-남대문경찰서는 명동 일대에 매일 교통경찰2, 3명을 배치하고 있다 .	ORG-B LOC-B O O O O O O O
-금융시장 전문가들은 일자리 증가 규모가 20만명을 넘어서면 이달 미국의 금리인상 가능성이 높을 것으로 전망하였다 .	O O O O O O O O ORG-B O O O O O O
+6 학년 때 에 는 간단한 게임 도 혼자 만들 었 다 .	O O O O O O O O O O O O O
+한편 금호타이어 는 4 월 2 일 까지 금호아시아나 그룹 홈페이지 를 통해 2015 년 상반기 금호아시아나 그룹 신입 및 인턴사원 지원서 접수 를 진행한다 .	O ORG-B O DAT-B DAT-I DAT-I DAT-I O ORG-B ORG-I O O O DAT-B DAT-I O ORG-B ORG-I O O O O O O O O
+1980 레이크플래시드 동계 올림픽 5 관 왕 에릭 하이든 은 스탠퍼드 대학교 에서 의학박사 학위 를 받 은 뒤 훗날 미국 스피드스케이팅 대표 팀 의 팀 닥터 를 맡 기 도 했 다 .	DAT-B O O O O O O PER-B PER-I O ORG-B ORG-I O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O
+2014 년 6 월 최양희 장관 이 취임한 후 금품 · 향응 수수 , 음주 운전 , 동료 폭행 , 심지어 성 관련 사건 으로 징계 위원회 에 회부된 직원 만 5 급 사무관 에서 부터 서기관 부이사관 까지 38 명 에 이른다 .	DAT-B DAT-I DAT-I DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 한국 을 선진국 으로 분류하 는 경우 는 별로 없 다 .	O ORG-B O O O O O O O O O O O
+기사 를 쓴 나카노 아키라 기자 는 올 4 월 하순 본보 의 취재 에 도 동행 했었 다 .	O O O PER-B PER-I O O O DAT-B DAT-I O O O O O O O O O O
+공립 일반 고 라는 한계 를 딛 고 최근 서울시 교육청 으로부터 생활 지도 우수 학교 로 선정된 창동 고 는 교사 연구 동호회 ‘ 웃떠 만 ’ 을 통해 교사 들 이 노하우 를 공유하 고 서로 격려하 는 문화 가 있 다 .	O O O O O O O O O ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+남대문 경찰서 는 명동 일대 에 매일 교통 경찰 2 , 3 명 을 배치하 고 있 다 .	ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O
+금융시장 전문가 들 은 일자리 증가 규모 가 20 만 명 을 넘어서 면 이달 미국 의 금리 인상 가능성 이 높 을 것 으로 전망 했 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-과거 중국에서 김은 일본 식품이라는 인식이 강하였으나 후쿠시마 원전 사고 이후 일본 제품의 안전성이 의심되면서 한국산 김의 위상과 인기가 더욱 높아지게 +었다 .	O LOC-B O ORG-B O O O LOC-B O O O ORG-B O O O O O O O O O O O
-라면과 맥주는 2000만달러 가량의 수출액을 기록하는 등 꾸준히 인기를 끌고 있다 .	O O MNY-B O O O O O O O O O
-라면의 대중국 수출액은 최근 5년간 연평균 36.9%로 크게 성장하였으나 수입 대상국 순위는 오히려 2011년 1위에서 2015년 2위로 낮아 지+어(1위는 타이완) 중국 라면시장에서의 치열하+ㄴ 경쟁 양상을 보이어주고 있다 .	O ORG-B O O O O O O O O O O O O O O O O O ORG-B ORG-B O O O O O O O
-서울 강서경찰서는 2일 자신이 근무하는 국민학교의 학생을 8개월여 동안 성추행 하+여오+ㄴ 혐의로 서울 K국교교사 성승부씨(48·송파구 잠실동)를 구속하였다 .	LOC-B ORG-I O O O O O O O O O O LOC-B ORG-B LOC-B LOC-B O O
-샤이니는 턱시도를 변형 하+ㄴ의상을 입고 원테이크 카메라 워크와 댄서들과 고난도 퍼포먼스 호흡으로 역대급 퍼포먼스를 보이어 +주었다 .	ORG-B O O O O O O O O O O O O O O O O
-실험은 고려대 법의 학교실 신상언 연구강사가 맡았다 .	O ORG-B O O PER-B O O O
-일성리조트가 창립 26주년을 맞고 선보이는 이번 특별회원권은 가입과 동시에 풍성하+ㄴ 혜택을 누리+ㄹ 수 있고 합리적 이+ㄴ 가격으로 분양하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-둘 다 122석 ‘집권당이 중앙’ 합의 …與“대통령 입장 때 양 옆 지키+어”안 .	O O O O O O O O O O O O O
-이밖에도 ‘김천 구성농협 자두’(1.4kgX2 팩)를 1만6900원에, ‘무안 양파 닭갈비’(1kg)는 9900원에 할인 판매 하+ㄴ다 .	O LOC-B LOC-B MNY-B O MNY-B LOC-B O MNY-B MNY-B O O O O
-이 셋 중에서는 가장 중요하+ㄴ 요소가 비거리+이라고 하+ㄹ 수 있다 .	O O O O O O O O O O O
-당시 국무총리제는 프랑스 5공화국 헌법의 총리제와도 다르았다 .	O O ORG-B ORG-I O O O O
-18승을 올리+ㄴ 유희관이 좋지 않은 페이스로 시즌을 마감하었고, 타선의 주축이 +ㄴ 오재원과 민병헌도 극심 하+ㄴ타격 슬럼프에 시달리었다 .	O O PER-B O O O O O O O O PER-B PER-B O O O O O
-FT “총수들 증언생중계, 경제심리 더 악화 .	ORG-B O O O O O O
-KGC가 50-43으로 7점을 앞서 +었다 .	ORG-B O O O O O
+과거 중국 에서 김 은 일본 식품 이 라는 인식 이 강 했 으나 후쿠시마 원전 사고 이후 일본 제품 의 안전성 이 의심되 면서 한국 산 김 의 위상 과 인기 가 더욱 높아지 게 됐 다 .	O LOC-B O O O LOC-B O O O O O O O O LOC-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+라면 과 맥주 는 2000 만 달러 가량 의 수출액 을 기록하 는 등 꾸준히 인기 를 끌 고 있 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+라면 의 대 중국 수출액 은 최근 5 년 간 연평균 36.9 % 로 크 게 성장 했 으나 수입 대상 국 순위 는 오히려 2011 년 1 위 에서 2015 년 2 위 로 낮 아 져 ( 1 위 는 타이완 ) 중국 라면 시장 에서 의 치열한 경쟁 양상 을 보 여 주 고 있 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O
+서울 강서 경찰서 는 2 일 자신 이 근무하 는 국민학교 의 학생 을 8 개월 여 동안 성추행해 온 혐의 로 서울 K 국교 교사 성승부 씨 ( 48 · 송파구 잠실동 ) 를 구속 했 다 .	ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O LOC-B ORG-B O O PER-B O O O O LOC-B LOC-B O O O O O O
+샤이니 는 턱시도 를 변형한 의상 을 입 고 원 테이크 카메라 워크 와 댄서 들 과 고난도 퍼포먼스 호흡 으로 역대 급 퍼포먼스 를 보 여 줬 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+실험 은 고려대 법의학 교실 신상언 연구 강사 가 맡 았 다 .	O O ORG-B ORG-I ORG-I PER-B O O O O O O O
+일성 리조트 가 창립 26 주년 을 맞 아 선보이 는 이번 특별 회원권 은 가입 과 동시 에 풍성한 혜택 을 누릴 수 있 고 합리적 인 가격 으로 분양하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+둘 다 122 석 ‘ 집권당 이 중앙 ’ 합의 … 與 “ 대통령 입장 때 양옆 지켜 ” 안 도	O O O O O O O O O O O O O O O O O O O O O
+이 밖 에 도 ‘ 김천 구성 농협 자두 ’ ( 1.4 kgX 2 팩 ) 를 1 만 6900 원 에 , ‘ 무안 양파 닭 갈비 ’ ( 1 kg ) 는 9900 원 에 할인 판매한다 .	O O O O O LOC-B LOC-B LOC-I O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O LOC-B O O O O O O O O O MNY-B MNY-I O O O O
+이 셋 중 에서 는 가장 중요한 요소 가 비거리 라고 할 수 있 다 .	O O O O O O O O O O O O O O O O
+당시 국무총리 제 는 프랑스 5 공화국 헌법 의 총리 제 와 도 달 랐 다 .	O O O O ORG-B ORG-I ORG-I O O O O O O O O O O
+18 승 을 올린 유희관 이 좋 지 않 은 페이스 로 시즌 을 마감 했 고 , 타선 의 주축 인 오재원 과 민병헌 도 극심한 타격 슬럼프 에 시달 렸 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O
+FT “ 총수 들 증언 생 중계 , 경제 심리 더 악화 ”	ORG-B O O O O O O O O O O O O
+KGC 가 50 - 43 으로 7 점 을 앞섰 다 .	ORG-B O O O O O O O O O O O

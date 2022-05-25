@@ -1,13 +1,13 @@
-”-그렇지 않아도 올해 뮤지컬 ‘헤드윅’ 무대에 처음 오르았는데.“조승우, 조정석 같은 형들은 10년 정도 무대를 지키+어+오았다 .	O O O O ORG-B O O PER-B PER-B O O O O O O O
-크라잉넛의 노래도 만일 요즘 만들어 지+었다면 ‘하나 되+ㄹ 코리아’가 아니라 ‘둘이서 평화롭 ㄴ코리아’가 되었을 것이다 .	ORG-B O O O O O O O O O O O O O O O
-하지만 이미 당시에 +ㄴ 김국진과 강수지가 비밀열애를 하고 있던 상황. 김완선은 “아침에 두 사람의 열애기사를 +았는데 진짜 목부터 소름이 돋더라”고 당시 기분을 묘사하였다 .	O O O O PER-B PER-B O O O O PER-B O O O O O O O O O O O O O
-교육부 산하기관이 +ㄴ 동북아역사재단은 서강대 산학협력단과 동북아역사지도 편찬위원회의 최종보고서 재심 요청을 받아들이지 않겠다고 12일 양측에 통보하였다 .	ORG-B O O ORG-B ORG-B ORG-I ORG-B ORG-I O O O O O O O O O
-SK는 이날 10위kt에 연장 10회에 끝내기 희생플라이를 내주며 9연패의 늪에 빠지었다 .	ORG-B O ORG-B O O O O O O O O O
-장재인은 지나 +ㄴ 2013년 3월 정밀검사를 통하+여근 긴장이상 증진단을 받고 투병생활을 하+여+오았 .	PER-B O O O O O O O O O O O O
-2번 교향곡 3악장의 경우 시작 부분부터 현악기와 관악기의 호흡이 맞지 않고 리듬이 삐걱거리기도+였다 .	O O O O O O O O O O O O O O
-인제 하늘내린은 3위로 떨어지었다 .	ORG-B ORG-I O O O
-방송인 정형돈과 래퍼데프콘이 진행 하+ㄴ다 .	O PER-B PER-B O O O
-폴크스바겐이 안드로이드 오토시스템을 탑재하+ㄴ 차량을 내놓을 것으로 전망되+ㄴ다 .	ORG-B O O O O O O O O
-자신을 ＇성균관대 경제대학 10학번 최○○＇라고 밝히+ㄴ한 학생은 지난달 27일 고내 건물에 ＇ 학교는 안종범 교수를 파면 하+여야 하+ㄴ 다＇는 대자보를 붙이었다 .	O ORG-B O O O O O O O O O O O PER-B O O O O O O O O
-유럽을 제외 하+ㄴ 인터내셔널팀과 미국 팀 간의 남자 프로골프 대항전이 +ㄴ 프레지던츠컵은 6일 공식 연습을 시작으로 본격적 이+ㄴ대회 준비에 들어가 +ㄴ다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O
-문 후보는 "우리 후보들 사이에서는 금도를 잘 지키+어나가았는데 절박 하+ㄴ 마음들 때문에 열의가 지나치+어지지자들 가운데 과도하+ㄴ 일들도 있었다고 생각 하+ㄴ다"고 전하였다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O
+” - 그렇 지 않 아도 올해 뮤지컬 ‘ 헤드윅 ’ 무대 에 처음 올 랐 는데 . “ 조승우 , 조정석 같 은 형 들 은 10 년 정도 무대 를 지켜 왔 다 .	O O O O O O O O O ORG-B O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O
+크라잉넛 의 노래 도 만일 요즘 만들 어 졌 다면 ‘ 하 나 될 코리아 ’ 가 아니 라 ‘ 둘 이서 평화로 운 코리아 ’ 가 되 었 을 것 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 이미 당시 엔 김국진 과 강수지 가 비밀 열애 를 하 고 있 던 상황 . 김완선 은 “ 아침 에 두 사람 의 열애 기사 를 봤 는데 진짜 목 부터 소름 이 돋 더라 ” 고 당시 기분 을 묘사 했 다 .	O O O O PER-B O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교육부 산하 기관 인 동북아 역사 재단 은 서강대 산학 협력 단 과 동북아 역사 지도 편찬 위원회 의 최종 보고서 재심 요청 을 받아들이 지 않 겠 다고 12 일 양측 에 통보 했 다 .	ORG-B O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O DAT-B DAT-I O O O O O O
+SK 는 이날 10 위 kt 에 연장 10 회 에 끝내 기 희생플라이 를 내주 며 9 연패 의 늪 에 빠 졌 다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+장재인 은 지난 2013 년 3 월 정밀 검사 를 통해 근긴장 이상 증 진단 을 받 고 투병 생활 을 해 왔 다	PER-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O
+2 번 교향곡 3 악장 의 경우 시작 부분 부터 현악기 와 관악기 의 호흡 이 맞 지 않 고 리듬 이 삐걱거리 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인제 하늘내 린 은 3 위 로 떨어 졌 다 .	ORG-B ORG-I ORG-I O O O O O O O O
+방송인 정형돈 과 래퍼 데프콘 이 진행한다 .	O PER-B O O PER-B O O O
+폴크스바겐 이 안드로이드 오토 시스템 을 탑재한 차량 을 내놓 을 것 으로 전망된다 .	ORG-B O O O O O O O O O O O O O O
+자신 을 ＇ 성균관대 경제 대학 10 학번 최 ○ ○ ＇ 라고 밝힌 한 학생 은 지난달 27 일 고내 건물 에 ＇ 학교 는 안종범 교수 를 파면해야 한다 ＇ 는 대자보 를 붙 였 다 .	O O O ORG-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O PER-B O O O O O O O O O O O O
+유럽 을 제외한 인터내셔널 팀 과 미국 팀 간 의 남자 프로 골프 대항전 인 프레지던츠 컵 은 6 일 공식 연습 을 시작 으로 본격적 인 대회 준비 에 들어간다 .	LOC-B O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+문 후보 는 " 우리 후보 들 사이 에서 는 금도 를 잘 지켜 나 갔 는데 절박한 마음 들 때문 에 열의 가 지나쳐 지지자 들 가운데 과도한 일 들 도 있 었 다고 생각한다 " 고 전 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

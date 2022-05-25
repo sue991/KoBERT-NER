@@ -1,11 +1,11 @@
-한편 서울시 관계자는 “이번 조례 개정으로 고가주택의 기준이 6억원에서 9억원으로 상향되면서 매매와 전세가 중개보수 역전현상을 해소 하+ㄹ 수 있게 +었다”고 말하였다 .	O LOC-B O O O O O O MNY-B MNY-B O O O O O O O O O O O O
-그렇+어서 이+ㄹ까? 배우 옥주현도 합류하여 이제는 뮤지컬을 홍보하고, 제작하기에 이르었다 .	O O O PER-B O O O O O O O
-이창명, 교통사고 후 매니저에 수습 맡기고 연락 두절? “음주운전 여부 조사中 .	PER-B O O O O O O O O O O O
-●리시브 라인이 고민이 +ㄴ팀들의 사정 삼성화재는 레프트 류윤식과 리베로부용찬이 주 공격수 타이스의 리시브 범위를 최소화시키+어야 하는 중책을 맡고 있다 .	O O O O O ORG-B O PER-B PER-B O O PER-B O O O O O O O O
-동아일보가 예스24와 함께 ‘7번 읽기 공부법’ 독자층을 분석하+ㄴ 결과 10대(1.32%), 20대(19.9%)보다 30대(28.35), 40대(30.4%)가 월등히 많았다 .	ORG-B ORG-B O O O O O O O O O O O O O O
-동아시안컵에서 유쾌하+ㄴ 2-0 승리를 챙기었다 .	O O O O O O
-김광현은 오키나와에서 이미 최고 시속 147㎞의 빠르+ㄴ 공을 던지고 있다 .	PER-B ORG-B O O O O O O O O O
-선수들이 바람이 잦아들 때까지 게이트(출발대) 위에서 기다리거나 출발 대 위치를 조정하는 데 1분 가까이 보내+ㄴ 것이다 .	O O O O O O O O O O O O O O O O O
-하지만 일주일 뒤 북한의 4차 핵실험 직후 한국 측은 여러 차례 직통전화를 요청하였지만 중국 측은 묵묵부답이었다 .	O O O ORG-B O O O ORG-B O O O O O ORG-B O O O
-두 사람은 최근 언론에 노출되+ㄴ 동영상에서 최씨와 함께 대통령을 위하+여 제작 중 이+ㄴ 것으로 보이는 옷과 서류를 살펴보는 모습이 포착되기도 하+ㄴ다 .	O O PER-B O O O PER-B O O O O O O O O O O O O O O O
-한국경제의 ‘뇌관’이+ㄴ 가계 빚이 1300조원을 넘어서자 정부가 그동안 규제의 사각지대 +이었던 집단대출 등에도 손을 대+ㄴ 것이다 .	ORG-B O O O MNY-B O O O O O O O O O O O O
+한편 서울시 관계자 는 “ 이번 조례 개정 으로 고가 주택 의 기준 이 6 억 원 에서 9 억 원 으로 상향 되 면서 매매 와 전세 가 중개 보수 역전 현상 을 해소할 수 있 게 됐 다 ” 고 말 했 다 .	O LOC-B O O O O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O
+그래서 일까 ? 배우 옥주현 도 합류하 여 이제 는 뮤지컬 을 홍보하 고 , 제작하 기 에 이르 렀 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O
+이창명 , 교통사고 후 매니저 에 수습 맡기 고 연락 두절 ? “ 음주 운전 여부 조사 中 ”	PER-B O O O O O O O O O O O O O O O O O O
+● 리시브 라인 이 고민 인 팀 들 의 사정 삼성화재 는 레프트 류윤식 과 리베로 부용찬 이 주 공격수 타이스 의 리시브 범위 를 최소화 시켜야 하 는 중책 을 맡 고 있 다 .	O O O O O O O O O O ORG-B O O PER-B O O PER-B O O O PER-B O O O O O O O O O O O O O O O
+동아일보 가 예스 24 와 함께 ‘ 7 번 읽 기 공부 법 ’ 독자층 을 분석한 결과 10 대 ( 1.32 % ) , 20 대 ( 19.9 % ) 보다 30 대 ( 28.35 ) , 40 대 ( 30.4 % ) 가 월등히 많 았 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동 아시안 컵 에서 유쾌한 2 - 0 승리 를 챙 겼 다 .	O O O O O O O O O O O O O O
+김광현 은 오키나와 에서 이미 최고 시속 147 ㎞ 의 빠른 공 을 던지 고 있 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O
+선수 들 이 바람 이 잦 아들 때 까지 게이트 ( 출발 대 ) 위 에서 기다리 거나 출발 대 위치 를 조정하 는 데 1 분 가까이 보낸 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 일주일 뒤 북한 의 4 차 핵 실험 직후 한국 측 은 여러 차례 직통 전화 를 요청 했 지만 중국 측 은 묵묵부답 이 었 다 .	O O O ORG-B O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O
+두 사람 은 최근 언론 에 노출된 동영상 에서 최 씨 와 함께 대통령 을 위해 제작 중 인 것 으로 보이 는 옷 과 서류 를 살펴보 는 모습 이 포착되 기 도 한다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 경제 의 ‘ 뇌관 ’ 인 가계 빚 이 1300 조 원 을 넘어서 자 정부 가 그동안 규제 의 사각지대 였 던 집단 대출 등 에 도 손 을 댄 것 이 다 .	ORG-B O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,18 +1,18 @@
-잘츠부르크는 남은 6경기 중 1승만 거두+어도 자력 우승이 가능하다 .	ORG-B O O O O O O O O O
-(서울=뉴스1 .	LOC-B O
-‘투수→타자’ 천재성 ++ 노력 결합되+ㄴ걸 출하+ㄴ 외야수 이형종은 원래 투수+이었다 .	O O O O O O O PER-B O O O
-이날 유병재는 제작진이 준비 하+ㄴ 환영인사 1단계부터 경기를 일으키었다 .	O PER-B O O O O O O O O
-미국은 전술핵을 가지+어다가 놓지 않더라도 기존의 핵전력으로 대하+ㄴ(對韓) 핵우산 공약을 이행하는 데 문제가 없다고 보고 있다 .	ORG-B O O O O O O O O O O O O O O O O
-기후협약에 뜨거워지는 친환경 ‘그린본드 .	O O O O O
-10명 중 5명, ‘모바일 앱’으로 부동산 정보 수 .	O O O O O O O O O
-경쟁력을 갖추+ㄴ제약공학과 학생들이 졸업과 동시에 100% 진로 목표를 달성 하+ㄴ다는 계획이 결코 꿈이나 허언이 아니라는 얘기+이다 .	O O O O O O O O O O O O O O O O O
-이들 대행업체는 외국의 인터넷 사이트 등에서 고객이 주문하+ㄴ 물건을 재주문한 뒤 이를 받아 한국 고객에게 배송 하+ㄴ다 .	O O O O O O O O O O O O O ORG-B O O O O
-또 계좌추적 과정에서 7억7000만원의 광고 비 중 수억원이 현금으로 인출되+ㄴ 사실을 확인하고 이 돈이 정 전 총장에게 건너가 +았는지를 캐고 있다 .	O O PER-B MNY-B O O O O O O O O O O PER-B O O O O O O O
-여기에 습윤제 ‘우레아(Urea)’ 첨가로 손발톱의 각질을 부드럽게 하+여주는 각질 연화 작용으로 손발톱에 약효 성분의 침투를 더욱 빠르게 도와주+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-그의 할머니는 서울 강남구에서 30년 넘게 콩 음식점이 +ㄴ ‘피양콩할마니’를 운영하+여오+ㄴ 강산애씨(87)+이다 .	O O LOC-B LOC-I O O O O O O O PER-B O
-‘상상고양이’ 조혜정, 유승호 조언에 “저렇게 옳은 말만 쏙쏙 아프게 하냐”배우 유승호와 조혜정이 출연하+ㄴ드라마 ‘상상고양이’가 첫 전파를 타+았다 .	O PER-B PER-B O O O O O O O PER-B PER-B O O O O O O
-24일 방송되+ㄴ MBC에브리원 ‘상상고양이’에서는 7년째 고양이 복길이와 동거동락하고 있는 유승호(현종 현역)의 모습이 보이어 +었다 .	O O O O O O PER-B O O PER-B O O O O O
-고양이 복길이에게 술주정을 하며 하루 일과를 전하는 유승호는 복길이를 가족이 자연인과 같은 모습으로 대하+ㄴ다 .	O PER-B O O O O O PER-B PER-B O O O O O O
-이날 방송에서 유승호는 실력은 좋지만 대중성이 부족하다는 평가를 받고 있는 웹툰 작가를 연기하였고, 길에서 길고양이에게 사료를 주 .	O O PER-B O O O O O O O O O O O O O O O
-동아비즈닷컴 웹사이트는 이런 벽을 낮추었다 .	O O O O O O
-그 바탕에는 ‘호주 와인의 아버지’로 불리는 앤드루카 이야드(55·위 사진)가 있다 .	O O PER-B PER-I PER-I O PER-B PER-I O O O
+잘츠부르크 는 남 은 6 경기 중 1 승 만 거둬 도 자력 우승 이 가능하 다 .	ORG-B O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+‘ 투수 → 타자 ’ 천재성+ 노력 결합된 걸출한 외야수 이형종 은 원래 투수 였 다 .	O O O O O O O O O O PER-B O O O O O O
+이날 유병재 는 제작진 이 준비한 환영 인사 1 단계 부터 경기 를 일으 켰 다 .	O PER-B O O O O O O O O O O O O O O O
+미국 은 전술 핵 을 갖다 놓 지 않 더라도 기존 의 핵전력 으로 대한 ( 對韓 ) 핵우산 공약 을 이행하 는 데 문제 가 없 다고 보 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+기후 협약 에 뜨거워지 는 친환경 ‘ 그린 본드 ’	O O O O O O O O O O
+10 명 중 5 명 , ‘ 모바일 앱 ’ 으로 부동산 정보 수집	O O O O O O O O O O O O O O
+경쟁력 을 갖춘 제약 공학 과 학생 들 이 졸업 과 동시 에 100 % 진로 목표 를 달성한다는 계획 이 결코 꿈 이나 허언 이 아니 라는 얘기 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 들 대행업체 는 외국 의 인터넷 사이트 등 에서 고객 이 주문한 물건 을 재 주문 한 뒤 이 를 받 아 한국 고객 에게 배송한다 .	O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O
+또 계좌 추적 과정 에서 7 억 7000 만 원 의 광고비 중 수억 원 이 현금 으로 인출된 사실 을 확인하 고 이 돈 이 정 전 총장 에게 건너갔 는지 를 캐 고 있 다 .	O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+여기 에 습윤제 ‘ 우레 아 ( Urea ) ’ 첨가 로 손발톱 의 각질 을 부드럽 게 해 주 는 각질 연화 작용 으로 손발톱 에 약효 성분 의 침투 를 더욱 빠르 게 도와준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 의 할머니 는 서울 강남구 에서 30 년 넘 게 콩 음식점 인 ‘ 피양콩할마 니 ’ 를 운영해 온 강산애 씨 ( 87 ) 다 .	O O O O LOC-B LOC-I O O O O O O O O O O O O O O O PER-B O O O O O O
+‘ 상상 고양이 ’ 조혜정 , 유승호 조언 에 “ 저렇 게 옳 은 말 만 쏙쏙 아프 게 하 냐 ” 배우 유승호 와 조혜정 이 출연한 드라마 ‘ 상상 고양이 ’ 가 첫 전파 를 탔 다 .	O O O O PER-B O PER-B O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O
+24 일 방송된 MBC 에브리원 ‘ 상상 고양이 ’ 에서 는 7 년 째 고양이 복길이 와 동거 동락 하 고 있 는 유승호 ( 현종현 역 ) 의 모습 이 보 여 졌 다 .	DAT-B DAT-I O O O O O O O O O O O O O PER-B O O O O O O O PER-B O PER-B O O O O O O O O O O
+고양이 복길이 에게 술주정 을 하 며 하루 일과 를 전하 는 유승호 는 복길이 를 가족 이 자 연인 과 같 은 모습 으로 대한다 .	O PER-B O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O
+이날 방송 에서 유승호 는 실력 은 좋 지만 대중성 이 부족하 다는 평가 를 받 고 있 는 웹 툰 작가 를 연기 했 고 , 길 에서 길 고양이 에게 사료 를 주 다	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동아 비즈 닷컴 웹사이트 는 이런 벽 을 낮 췄 다 .	O O O O O O O O O O O O
+그 바탕 에 는 ‘ 호주 와인 의 아버지 ’ 로 불리 는 앤드루 카이 야드 ( 55 · 위 사진 ) 가 있 다 .	O O O O O PER-B PER-I PER-I PER-I O O O O PER-B PER-I PER-I O O O O O O O O O O

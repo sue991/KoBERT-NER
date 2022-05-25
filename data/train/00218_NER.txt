@@ -1,13 +1,13 @@
-전승절 행사에 미국이 불참하+ㄴ만큼 박 대통령의 자리가 시 주석의 오른쪽 두 번째 에 마련되 +ㄴ 것이 우리 측의 부담을 덜 아주기 위하+ㄴ 것이란 평가도 나 오+ㄴ다 .	O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
-SUV로 만들어 지+ㄴ이 콘셉트카는 1회 충전으로 800km 이상 주행 하+ㄹ 수 있는 것으로 알려지었다 .	O O O O O O O O O O O O O O O
-먼저 차에서 내리+ㄴ 트럼프는 부인을 챙기지 않고 혼자서 성큼성큼 계단을 올라가 +았고, 멜라니 알는 그런 남편의 뒤 모습을 멍하게 바라보는 상황이 연출+되었다 .	O O O PER-B O O O O O O O O PER-B PER-I O O O O O O O O O
-앞서 배씨는 상주본을 헌책방에서 훔치 +ㄴ 혐의로 기소되+어 실형을 선고받았지만 2014년 5월 대법원에서 무죄를 확정받았다 .	O PER-B O O O O O O O O O O ORG-B O O O
-그런데 대중가요를 듣었던 세대가, 사실 밥 딜런 세대는, 기본적으로 베이비붐 세대+이다 .	O O O O O PER-B PER-I O O O O O
-―대규모 국비 프로젝트 이+ㄴ국립철도박물관 유치를 위하+여전국 11개 도시가 경합 중 이+ㄴ 데….“대전은 1905년 경부선 철도개통과 함께 성장 하+ㄴ 대한민국 대표 철도도시+이다 .	O O O ORG-B O O O O O O O LOC-B O O O O O O ORG-B O O O
-오픈마켓 11번가가 말레이시아에 진출 하+ㄴ다 .	O ORG-B LOC-B O O O
-고양이들의 천국아오시마섬, 사람 17명 …고양이는 수백 마리 ‘고양이들의 천국아오시마섬’ 고양이들의 천국 일본 아오시마 섬에 대하+ㄴ누리꾼들의 관심이 높아지고 있다 .	O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O
-뉴욕 공립학교로 진학 하+여크+ㄴ키와 입담으로 또래 무리를 이끌는 활발하+ㄴ 성격이었다 .	LOC-B O O O O O O O O O O
-선체연령이 이미 40년을 넘기 +ㄴ 2척은 살 전에 배치하지 못하고 대잠수함 부대의 훈련용으로 사용하고 있다 .	O O O O O O O O O O O O O O O O
-국방장관이 일본과 러시아를 공식 방문하는 것은 이번이 처음이다 .	O ORG-B ORG-B O O O O O O
-이 여직원은 지나 +ㄴ 10일 회사에 사표를 내고 출근하지 않고 있다 .	O O O O O O O O O O O O
-컷오프 시간은 작년과 같은 6시간이다 .	O O O O O O
+전승 절 행사 에 미국 이 불참한 만큼 박 대통령 의 자리 가 시 주석 의 오른쪽 두 번째 에 마련된 것 이 우리 측 의 부담 을 덜 아 주 기 위한 것 이 란 평가 도 나온다 .	O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+SUV 로 만들 어 진 이 콘셉트카 는 1 회 충전 으로 800 km 이상 주행할 수 있 는 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+먼저 차 에서 내린 트럼프 는 부인 을 챙기 지 않 고 혼자 서 성큼성큼 계단 을 올라갔 고 , 멜라니 아 는 그런 남편 의 뒷 모습 을 멍하 게 바라보 는 상황 이 연출 됐 다 .	O O O O PER-B O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+앞서 배 씨 는 상주 본 을 헌책방 에서 훔친 혐의 로 기소돼 실형 을 선고 받 았 지만 2014 년 5 월 대법원 에서 무죄 를 확정 받 았 다 .	O PER-B O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O O O O
+그런데 대중가요 를 들 었 던 세대 가 , 사실 밥 딜런 세대 는 , 기본적 으로 베이비 붐 세대 다 .	O O O O O O O O O O PER-B PER-I O O O O O O O O O O
+― 대규모 국비 프로젝트 인 국립 철도 박물관 유치 를 위해 전국 11 개 도시 가 경합 중 인데 … . “ 대전 은 1905 년 경부선 철도 개통 과 함께 성장한 대한민국 대표 철도 도시 다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O LOC-B O DAT-B DAT-I O O O O O O ORG-B O O O O O
+오픈마켓 11 번 가 가 말레이시아 에 진출한다 .	O ORG-B ORG-I ORG-I O LOC-B O O O
+고양이 들 의 천국 아오시마 섬 , 사람 17 명 … 고양이 는 수백 마리 ‘ 고양이 들 의 천국 아오시마 섬 ’ 고양이 들 의 천국 일본 아오시마 섬 에 대한 누리 꾼 들 의 관심 이 높아지 고 있 다 .	O O O O LOC-B LOC-I O O O O O O O O O O O O O O LOC-B LOC-I O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O
+뉴욕 공립학교 로 진학해 큰 키 와 입담 으로 또래 무리 를 이끄 는 활발한 성격 이 었 다 .	LOC-B O O O O O O O O O O O O O O O O O O O
+선체 연령 이 이미 40 년 을 넘긴 2 척 은 살 전 에 배치하 지 못하 고 대잠수함 부대 의 훈련 용 으로 사용하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국방 장관 이 일본 과 러시아 를 공식 방문하 는 것 은 이번 이 처음 이 다 .	O O O ORG-B O ORG-B O O O O O O O O O O O O
+이 여직원 은 지난 10 일 회사 에 사표 를 내 고 출근하 지 않 고 있 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O
+컷오프 시간 은 작년 과 같 은 6 시간 이 다 .	O O O O O O O O O O O O

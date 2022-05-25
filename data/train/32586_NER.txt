@@ -1,13 +1,13 @@
-수요 미식회 피자맛집, 다투+ㄴ 연인도 화해 하+ㄹ맛?“짜증나게 맛있다” 관심 UP↑ ‘수요 미식회’에서 소개되+ㄴ 피자맛집 ‘더 키친 살바토레 쿠오모’가 화제+이다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O
-8일 방송 하+ㄴtvN 예능 프로그램 ‘수요 미식회’에서는 씨엔블루 강민혁과 모델이현이가 게스트로 출연하+여 ‘피자’를 주제로 이야기를 나누었다 .	O O ORG-B O O O O ORG-B PER-B PER-B O O O O O O O
-이날 ‘수요 미식회’에서 출연진은 ‘문 닫기 전에 가+아야 하+ㄹ 식당’ 첫 번째로 선정되+ㄴ 서울 신사동에 위치하+ㄴ 피자맛집 ‘더 키친 살바토레 쿠오모’를 소개하였다 .	O O O O O O O O O O O O O LOC-B LOC-I O O ORG-B ORG-I ORG-I ORG-I O O
-이현이는 “결혼 전 남편과 심하게 싸우고 기분이 나쁘+ㄴ 채로 피자집에 가+았다 .	PER-B O O O O O O O O O O O
-강급 선수 39명 중에서 10명 안팎의 선수가 특별승급 대상자로 평가되 +ㄴ다 .	O O O O O O O O O O O O
-일본 국민은 경제관계 강화(29%), 국민 차원의 교류 확대(15%), 전 후보상(9%) 등을 아시아와의 관계 강화를 위하+ㄴ 방안으로 제시하였다 .	ORG-B O O LOC-B O O O O O O O ORG-B O LOC-B O O O O
-금호타이어 근로자, 공장에서 분신 하+여 숨지+어...쓰러지+어 있는 것 동료가 발 .	ORG-B O O O O O O O O O O
-장 예비후보는 “스포츠 강국에서 스포츠 선진국으로 한 단계 더 성장하기 위하+ㄴ 변화와 혁신이 필요하+ㄴ 시점이다 .	PER-B O O O O O O O O PER-B O O O O O O
-@galleryinarticletag@지 난달 말 러시아에서 발사되 +ㄴ 다목적 실용위성(아리랑) 3A 호가지구를 찍은 시험 촬영 영상이 14일 첫 공개+었다 .	O O O ORG-B O O O O O LOC-B O O O O O O O O
-부산지검 외사부(부장 김도형)는 전북스카우터 A씨(48)로부터 경기 때 유리 하+ㄴ판정을 하+여달라는 청탁과 함께 각각 2, 3차례에 걸치+어 100만원씩을 받은 혐의(국민체육진흥법 위반)로 K리그 소속 심판 B씨(41)와 C씨(36)를 불구속 기소하였다고 23일 밝히었다 .	ORG-B ORG-I PER-B ORG-B PER-B O O O O O O O O O O O MNY-B O O O ORG-B O O PER-B PER-B O O O O O
-국내에는 백두산 호랑이 약 50마리가 전국 동물원에서 사육되고 있다 .	O O O O O O O O O O
-분양가는 3.3㎡당 1200만원대부터 책정되었고 실사용 면적을 극대화 하+ㄴ 특화설계가 적용되었다 .	O O MNY-B O O O O O O O O
-고려개발은 이달 천안시 서북구 두정동 401-1번지 일원에 ‘e편한세상 두정 4차’를 선보이+ㄹ 예정이다 .	ORG-B O LOC-B LOC-B LOC-B LOC-I O O O O O O O
+수요미식회 피자 맛집 , 다툰 연인 도 화해할 맛 ? “ 짜증 나 게 맛있 다 ” 관심 UP ↑ ‘ 수요미식회 ’ 에서 소개된 피자 맛집 ‘ 더 키친 살바토레 쿠오모 ’ 가 화제 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O
+8 일 방송한 tvN 예능 프로그램 ‘ 수요미식회 ’ 에서 는 씨엔블루 강민혁 과 모델 이현이 가 게스트 로 출연해 ‘ 피자 ’ 를 주제 로 이야기 를 나 눴 다 .	DAT-B DAT-I O ORG-B O O O O O O O ORG-B PER-B O O PER-B O O O O O O O O O O O O O O O O
+이날 ‘ 수요미식회 ’ 에서 출연진 은 ‘ 문 닫 기 전 에 가야 할 식당 ’ 첫 번째 로 선정된 서울 신사동 에 위치한 피자 맛집 ‘ 더 키친 살바토레 쿠오모 ’ 를 소개 했 다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O
+이현이 는 “ 결혼 전 남편 과 심하 게 싸우 고 기분 이 나쁜 채 로 피자 집 에 갔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+강급 선수 39 명 중 에서 10 명 안팎 의 선수 가 특별 승급 대상자 로 평가된다 .	O O O O O O O O O O O O O O O O O O
+일본 국민 은 경제 관계 강화 ( 29 % ) , 국민 차원 의 교류 확대 ( 15 % ) , 전후 보상 ( 9 % ) 등 을 아시아 와 의 관계 강화 를 위한 방안 으로 제시 했 다 .	ORG-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+금호타이어 근로자 , 공장 에서 분신해 숨져 . . . 쓰러져 있 는 것 동료 가 발견	ORG-B O O O O O O O O O O O O O O O O
+장 예비 후보 는 “ 스포츠 강국 에서 스포츠 선진국 으로 한 단계 더 성장하 기 위한 변화 와 혁신 이 필요한 시점 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+@ gallery _ in _ article _ tag @ 지난달 말 러시아 에서 발사된 다목적 실용 위성 ( 아리랑 ) 3 A 호 가 지구 를 찍 은 시험 촬영 영상 이 14 일 첫 공개 됐 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O LOC-B O O O O O O O DAT-B DAT-I O O O O O
+부산 지검 외사부 ( 부장 김도형 ) 는 전북 스카우터 A 씨 ( 48 ) 로부터 경기 때 유리한 판정 을 해 달 라는 청탁 과 함께 각각 2 , 3 차례 에 걸쳐 100 만 원 씩 을 받 은 혐의 ( 국민 체육 진흥 법 위반 ) 로 K 리그 소속 심판 B 씨 ( 41 ) 와 C 씨 ( 36 ) 를 불구속 기소 했 다고 23 일 밝 혔 다 .	ORG-B ORG-I ORG-I O O PER-B O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O ORG-B ORG-I O O PER-B O O O O O PER-B O O O O O O O O O DAT-B DAT-I O O O O
+국내 에 는 백두산 호랑이 약 50 마리 가 전국 동물원 에서 사육되 고 있 다 .	O O O O O O O O O O O O O O O O O
+분양가 는 3.3 ㎡ 당 1200 만 원 대 부터 책정 됐 고 실 사용 면적 을 극대화한 특화 설계 가 적용 됐 다 .	O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+고려개발 은 이달 천안시 서북구 두정동 401 - 1 번지 일원 에 ‘ e 편한세상 두정 4 차 ’ 를 선보일 예정 이 다 .	ORG-B O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O

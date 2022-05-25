@@ -1,16 +1,16 @@
-그들에게 신문은 무엇이 +ㄴ지, 그들이 바라보는 기성 언론은 어떤 모습이 +ㄹ지. 우리가 몸담았던 고대 신문·부대 신문·연세춘 추편집국 학생기자들이 5월 13일자 중앙일보 1면을 새로 만들어 +았다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O ORG-B O O O O O
-정임수 imsoo@d onga. com·박희창기 .	PER-B O O PER-B O
-가족이 그를 싫어(hate) 하+ㄴ다”고 말하였다고 11일(현지시간) 보도하였다 .	O O O O O O O O
-파디파와즈는 조지 마이클의 동성연인으로 조지 마이클 사망의 최초 목격자이다 .	PER-B PER-B PER-I O PER-B PER-I O O O O
-신영숙은 정말 얄밉지만 고개가 끄덕이 어지는 카를로타를 창조하였다 .	PER-B O O O O O O O O
-제천시는 2010년 국제한방바이오엑스포를 성공적으로 개최 하+ㄴ 뒤 해마다 한방바이오엑스포를 열며 전국 최고 한방 도시로 자리매기+ㅁ하고 있다 .	LOC-B O O O O O O O O O O O O O O O O
-‘수화영상도서 전문가’이+ㄴ 구철영 위례 스터디연구소 원장(42)의 이야기+이다 .	O O PER-B ORG-B ORG-I O O O
-문의 02-3463-9780 온라인 뉴스 .	O O O O O
-박지빈, JYJ 김재중과 같은 해 입대…과 거투샷 보니 '나이 차이가? .	PER-B ORG-B PER-B O O O O O O O O
-‘아름답ㄴ교실’ 프로젝트, 베트남 ‘사랑의 집짓기’, 캄보디아 ‘행복학교’, 필리핀 아이따족 주거환경 개선 및 자립지원 활동 등 글로벌 사회공헌활동에 앞장서+어오+ㄴ점이 높이 평가되었다 .	O O ORG-B O O PER-B O ORG-B O O O O O O O O O O O O O
-하+ㄴ보수당 지지자가 메이와 함께 구두 쇼핑을 하+ㄴ다는데 1만7500(약 2600만원) 파운드를 것 +ㄴ일도 있다 .	O O PER-B O O O O MNY-B MNY-B O O O O O
-배우 스테파니 리가 뉴욕에서 에릭남의 인기를 언급하+여 눈길을 끌었다 .	O PER-B PER-I LOC-B PER-B O O O O O
-지나+ㄴ 3일 방송되+ㄴ ‘해피투게더3’에는 ‘미쿡에서 +았어요’ 특집으로 이현우, 윤상, 존박, 에릭남, 스테파니리가 출연하였다 .	O O O O O O O PER-B PER-B PER-B PER-B PER-B O O
-이날 방송에서 스테파니 리는 “어떻게 모델이 되+ㄴ 것+이+ㄴ가?” +이란 질문에 “보스턴 작은 섬에서 자라 +았는데 그때 +ㄴ패션 쪽에 아예 관심이 없었다”며 “가끔 주변에서는 못생기었다고 놀리기도 +였다”고 답하였다 .	O O PER-B PER-I O O O O O O LOC-B O O O O O O O O O O O O O O O O O
-스테파니 리는 “친구들은 ‘키도 크고 못생기었으니 너+ㄴ 하+ㄹ 것+이 모델밖에 없다’고 +였다”고 밝히+ 어웃음을 선사하였다 .	PER-B PER-I O O O O O O O O O O O O O O
-또한 스테파니 리는 제이미 폭스에게 러브콜을 받은 에릭남의 이야기를 듣던 중 “뉴욕에 일하고 있는 모델 친구들 중에 에릭남을 좋아하는 친구들이 많다”고 밝히었다 .	O PER-B PER-I PER-B PER-I O O PER-B O O O LOC-B O O O O O PER-B O O O O O
+그 들 에게 신문 은 무엇 인지 , 그 들 이 바라보 는 기성 언론 은 어떤 모습 일지 . 우리 가 몸담 았 던 고대신문 · 부대 신문 · 연세춘추 편집국 학생 기자 들 이 5 월 13 일자 중앙일보 1 면 을 새로 만들 어 봤 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O ORG-B ORG-I O O O O DAT-B DAT-I DAT-I O ORG-B O O O O O O O O O
+정임수 imsoo @ donga . com · 박희창 기자	PER-B O O O O O O PER-B O
+가족 이 그 를 싫 어 ( hate ) 한다 ” 고 말 했 다고 11 일 ( 현지 시간 ) 보도 했 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+파디 파 와즈 는 조지 마이클 의 동성 연인 으로 조지 마이클 사망 의 최초 목격자 이 다 .	PER-B PER-I PER-I O PER-B PER-I O O O O PER-B PER-I O O O O O O O
+신영숙 은 정말 얄밉 지만 고개 가 끄덕 여 지 는 카를로 타 를 창조 했 다 .	PER-B O O O O O O O O O O O O O O O O O
+제천시 는 2010 년 국제 한방 바이오 엑스포 를 성공적 으로 개최한 뒤 해 마다 한방 바이오 엑스포 를 열 며 전국 최고 한방 도시 로 자리 매김 하 고 있 다 .	LOC-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 수화 영상 도서 전문가 ’ 인 구철영 위례 스터디 연구소 원장 ( 42 ) 의 이야기 다 .	O O O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O
+문의 02 - 3463 - 9780 온라인 뉴스 팀	O O O O O O O O O
+박지빈 , JYJ 김재중 과 같 은 해 입대 … 과거 투샷 보 니 ' 나이 차이 가 ? '	PER-B O ORG-B PER-B O O O O O O O O O O O O O O O O
+‘ 아름다 운 교실 ’ 프로젝트 , 베트남 ‘ 사랑 의 집 짓 기 ’ , 캄보디아 ‘ 행복 학교 ’ , 필리핀 아이 따 족 주거 환경 개선 및 자립 지원 활동 등 글로벌 사회 공헌 활동 에 앞장서 온 점 이 높이 평가 됐 다 .	O O O O O O O ORG-B O O O O O O O O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+한 보수당 지지자 가 메이 와 함께 구두 쇼핑 을 한다는 데 1 만 7500 ( 약 2600 만 원 ) 파운드 를 건 일 도 있 다 .	O O O O PER-B O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O
+배우 스테파니 리 가 뉴욕 에서 에릭 남 의 인기 를 언급해 눈길 을 끌 었 다 .	O PER-B PER-I O LOC-B O PER-B PER-I O O O O O O O O O O
+지난 3 일 방송된 ‘ 해피투게더 3 ’ 에 는 ‘ 미 쿡 에서 왔 어요 ’ 특집 으로 이현우 , 윤상 , 존 박 , 에릭 남 , 스테파니 리 가 출연 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B PER-I O PER-B PER-I O PER-B PER-I O O O O O
+이날 방송 에서 스테파니 리 는 “ 어떻 게 모델 이 된 건가 ? ” 란 질문 에 “ 보스턴 작 은 섬 에서 자랐 는데 그땐 패션 쪽 에 아예 관심 이 없 었 다 ” 며 “ 가끔 주변 에서 는 못생 겼 다고 놀리 기 도 했 다 ” 고 답 했 다 .	O O O PER-B PER-I O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스테파니 리 는 “ 친구 들 은 ‘ 키 도 크 고 못생 겼 으니 넌 할 게 모델 밖에 없 다 ’ 고 했 다 ” 고 밝혀 웃음 을 선사 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 스테파니 리 는 제이미 폭스 에게 러브콜 을 받 은 에릭 남 의 이야기 를 듣 던 중 “ 뉴욕 에 일하 고 있 는 모델 친구 들 중 에 에릭 남 을 좋아하 는 친구 들 이 많 다 ” 고 밝 혔 다 .	O PER-B PER-I O PER-B PER-I O O O O O PER-B PER-I O O O O O O O LOC-B O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O

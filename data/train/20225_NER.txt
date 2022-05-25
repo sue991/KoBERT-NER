@@ -1,18 +1,18 @@
-‘태티서’ 멤버서현, 붉은 롱드레스 입고 ‘쭉 뻗은 각선미’ 자랑… ‘고혹적’ 매 .	ORG-B ORG-I O O O O O O O O O O
-마이크 매시니 세인트루이스 감독은 지나 +ㄴ 23일 애리조나 다이아몬드백스전을 앞두고 "마무리 투수 트레버 로젠탈에게 휴식을 주+ㄹ 것이다 .	PER-B PER-I PER-I O O O O O O O O O PER-B PER-I O O O O
-경주환경운동연합은 빠르+ㄴ시일 내에 대응 방안을 마련하+여강경 투쟁을 잇어가+ㄹ 방침이라고 27일 밝히었다 .	ORG-B O O O O O O O O O O O
-지난해 2월 사망 하+ㄴ 앤터닌 스캘리아 대법관 후임으로 지명되+ㄴ고서치가 대법관이 되면 대법원의 이념 지형은 보수 5대 진보 4로 트럼프에게 유리하게 형성되 +ㄴ다 .	O O O O PER-B PER-I O O PER-B O O O O O O O O O PER-B O O O O
-사우디는 이란 무슬림의 메카와 메디나 성지순례는 허용하기로 +였다 .	ORG-B ORG-B ORG-I LOC-B LOC-B O O O O
-삼성전자, 2014년 3조4000억 납세 ‘역대 최대 .	ORG-B O MNY-B O O O O
-마거릿 채+ㄴ 세계보건기구(WHO) 사무총장은 “음모론은 바이러스 확산을 막는데 전혀 도움이 되지 않는다”고 목소리를 높이었다 .	PER-B PER-I ORG-B O O O O O O O O O O O O
-KBS 미디어가 내놓은 상품과 다르게 강모연을 연기하+ㄴ 송혜교와 유시진 역 송 중기의 캐리커처 등이 들어가 +ㄹ 부분이라 배우측과 초상권 사용과 관련 하+ㄴ 논의를 진행 중이다 .	ORG-B ORG-I O O O PER-B O PER-B PER-B O O O O O O O O O O O O O O O O O
-또 2018년 이후 정년을 65세로 늘리고, 노인 연령 기준을 65세에서 70세로 상향하는 방안도 추진되 +ㄴ다 .	O O O O O O O O O O O O O O O O
-차유람은 “딱 그렇게 하+여서 사귀게 되+ㄴ 것+ㄴ 아니다 .	PER-B O O O O O O O O
-‘재벌 2세 열애설’ 남보라, “저+ㄴ 남친이 바람 피우어서 헤어지+어”과거 발언 다시 보니? ‘헉!’ 배우 남보라(27)가 재벌 2세와 열애설에 휩싸이+ㄴ 가운데, 과거 연애사가 재조명 받았다 .	O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O
-참혹하고 끔찍 하+ㄴ 결과는 알라가 허락하지 않을 것+이+ㅂ니다 .	O O O O PER-B O O O O
-샤넬의 2008년 ‘모바일 아트 프로젝트’에서 하디드가 전시관을 짓었다 .	PER-B O O O O PER-B O O O
-그동안 최씨는 악플로 인하+여정신적 고통을 겪어 +오았다"며 "자세 하+ㄴ 진행 상황에 대하+여서는 말 하+ㄹ 수 없다"고 전하였다 .	O PER-B O O O O O O O O O O O O O O O O
-최씨는 지난해 8월 김현중을 폭행 혐의로 서울 송파경찰서에 고소하였다가 9월 "김현중의 진정성 있는 사과를 받았다" +이라며 고소를 취하하였고, 경찰은 김현중은 기소 의견으로 검찰에 송치하였다 .	PER-B O O PER-B O O LOC-B ORG-B O O PER-B O O O O O O O O PER-B O O O O O
-‘슈가맨’ 정유경, ‘스톰’ 히트 이유가 “나이트클럽서…” ‘슈가맨’에 루머스 정유경이 출연하+여 근황을 밝히었다 .	ORG-B PER-B O O O O ORG-B ORG-B PER-B O O O O
-지나+ㄴ 15일 방송되+ㄴ JTBC ‘투유 프로젝트-슈가맨’에 출연하+ㄴ 정유경은 “연예계를 완전히 떠나 +ㄴ 것은 아니었다”고 근황을 밝히었다 .	O O O O O O O PER-B O O O O O O O O O
-정유경은 “어느 날 뮤지컬을 보러 가+았는데, 그때는 연예인들이 뮤지컬을 많이 하던 시기가 아니었다 .	PER-B O O O O O O O O O O O O O
+‘ 태티 서 ’ 멤버 서현 , 붉 은 롱 드레스 입 고 ‘ 쭉 뻗 은 각선미 ’ 자랑 … ‘ 고혹적 ’ 매력	O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O
+마이크 매 시 니 세인트루이스 감독 은 지난 23 일 애리조나 다이아몬드백스 전 을 앞두 고 " 마무리 투수 트레버 로젠탈 에게 휴식 을 줄 것 이 다 .	PER-B PER-I PER-I PER-I PER-I O O O DAT-B DAT-I O O O O O O O O O PER-B PER-I O O O O O O O O
+경주환경운동연합 은 빠른 시일 내 에 대응 방안 을 마련해 강경 투쟁 을 이 어 갈 방침 이 라고 27 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+지난해 2 월 사망한 앤터닌 스캘리아 대법관 후임 으로 지명된 고서 치 가 대법관 이 되 면 대법원 의 이념 지형 은 보수 5 대 진보 4 로 트럼프 에게 유리하 게 형성된다 .	O DAT-B DAT-I O PER-B PER-I O O O O PER-B PER-I O O O O O O O O O O O O O O O O PER-B O O O O O
+사우디 는 이 란 무슬림 의 메카 와 메디나 성지 순례 는 허용 키 로 했 다 .	ORG-B O ORG-B ORG-I ORG-I O LOC-B O LOC-B O O O O O O O O O
+삼성전자 , 2014 년 3 조 4000 억 납세 ‘ 역대 최대 ’	ORG-B O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I O O O O O
+마거릿 챈 세계보건기구 ( WHO ) 사무총장 은 “ 음모 론 은 바이러스 확산 을 막 는 데 전혀 도움 이 되 지 않 는다 ” 고 목소리 를 높 였 다 .	PER-B PER-I ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KBS 미디어 가 내놓 은 상품 과 다르 게 강모연 을 연기한 송혜교 와 유시진 역 송중기 의 캐리커처 등 이 들어갈 부분 이 라 배우 측 과 초상권 사용 과 관련한 논의 를 진행 중 이 다 .	ORG-B ORG-I O O O O O O O PER-B O O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+또 2018 년 이후 정년 을 65 세 로 늘리 고 , 노인 연령 기준 을 65 세 에서 70 세 로 상향하 는 방안 도 추진된다 .	O DAT-B DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+차유람 은 “ 딱 그렇 게 해서 사귀 게 된 건 아니 다 .	PER-B O O O O O O O O O O O O O
+‘ 재벌 2 세 열애 설 ’ 남보라 , “ 전 남친 이 바람 피 워서 헤어져 ” 과거 발언 다시 보 니 ? ‘ 헉 ! ’ 배우 남보라 ( 27 ) 가 재벌 2 세 와 열애 설 에 휩싸인 가운데 , 과거 연애 사 가 재조명 받 았 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+참혹하 고 끔찍한 결과 는 알라 가 허락 치 않 을 겁니다 .	O O O O O PER-B O O O O O O O
+샤넬 의 2008 년 ‘ 모바일 아트 프로젝트 ’ 에서 하디드 가 전시관 을 지 었 다 .	PER-B O DAT-B DAT-I O O O O O O PER-B O O O O O O O
+그동안 최 씨 는 악 플로 인해 정신적 고통 을 겪 어 왔 다 " 며 " 자세한 진행 상황 에 대해서 는 말할 수 없 다 " 고 전 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 씨 는 지난해 8 월 김현중 을 폭행 혐의 로 서울 송파 경찰서 에 고소 했 다가 9 월 " 김현중 의 진정 성 있 는 사과 를 받 았 다 " 라며 고소 를 취하 했 고 , 경찰 은 김현중 은 기소 의견 으로 검찰 에 송치 했 다 .	PER-B O O O DAT-B DAT-I PER-B O O O O LOC-B ORG-B ORG-I O O O O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+‘ 슈가맨 ’ 정유경 , ‘ 스톰 ’ 히트 이유 가 “ 나이트 클럽 서 … ” ‘ 슈가맨 ’ 에 루머스 정유경 이 출연해 근황 을 밝 혔 다 .	O ORG-B O PER-B O O O O O O O O O O O O O O ORG-B O O ORG-B PER-B O O O O O O O O
+지난 15 일 방송된 JTBC ‘ 투유 프로젝트 - 슈가맨 ’ 에 출연한 정유경 은 “ 연예계 를 완전히 떠난 것 은 아니 었 다 ” 고 근황 을 밝 혔 다 .	O DAT-B DAT-I O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+정유경 은 “ 어느 날 뮤지컬 을 보 러 갔 는데 , 그때 는 연예인 들 이 뮤지컬 을 많이 하 던 시기 가 아니 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

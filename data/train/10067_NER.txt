@@ -1,14 +1,14 @@
-아우디폭스바겐코리아가 판매 하+ㄴ티구안 등 4개 차종 승용차는 어린이 보호 잠금장치 부품 결함으로 안전사고 가능성이 있는 것으로 나타나 +았다 .	ORG-B O O O O O O O O O O O O O O O O O O
-중국 국가여유국은 최근 베이징 일대 상위 20개 여행사 관계자들을 소집하+여 한국여행상품 판매 중단을 지시하였다 .	ORG-B O O LOC-B O O O O O O LOC-B O O O O
-지금은 대척점에서 +어 있지만 유 의원을 따라가다 보면 박 대통령이 보이+ㄴ다 .	O O O O PER-B O O O PER-B O O O
-‘1988년생 동갑내기’이 보미, 김하늘, 신지애, 그리고 베테랑 전 미정(35)과 이지희(38)가 여전히 건재하다 .	O O O PER-B PER-B O O O O PER-B O O O
-佛작전 지원… 2차대전 후 최대 규 .	ORG-B O O O O O O
-그는 “그릿은 한계지점에 다다르았을 때 한 발짝, 두 걸음 더 버티는 인내력”이라고 정의하였다 .	O O O O O O O O O O O O O O
-신 교수는 “엄청나 +ㄴ 충격과 상처를 받은 시민들은 마음의 근력이 단단하었기에 상처를 건강하게 극복 하+ㅁ과 동시에 새롭ㄴ문화를 만들어 내 +ㄹ 수 있었다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-시민들의 건강한 그릿은 대통령 퇴진 시위를 평화의 축제로, 형식적 민주주의에 머무르었던 87년 체제를 민주주의의 완성으로 일구+어내 +었다 .	O O O O O O O O O O O O O O O O O O
-[부산/경남/동서남북]홍준표-안상수 ‘상생의 길’로가 +아 .	LOC-B O O O O
-이 때문에 각 구단은 점점 2군 선수 육성과 유망주 발굴에 신경 쓰기 시작하였다 .	O O O O O O O O O O O O O O
-더불어민주당과 치열하+ㄴ 경쟁 끝에 국민의당이 결국 호남을 품었다 .	ORG-B O O O ORG-B O LOC-B O O
-살아남은 더민주당 의원들은 예고되+ㄴ ‘2차 공습’ 때문에 웃지 못하고 있고, 새누리당과 국민의당 현역 의원들도 곧 닥치+ㄹ 태풍에 떨고 있다 .	O ORG-B O O O O O O O O ORG-B ORG-B O O O O O O O O
-맥도날드 본사에서도 그녀의 공로를 인정하+여 세계맥도날드 직원 1백90만여명 중 0.01%만이 선정되+ㄴ다는 ‘프레지던트 어워드’를 수여하였다 .	ORG-B O O O O ORG-B O O O O O O O O O
-[인사]한국거래소 .	ORG-B O
+아우디 폭스바겐 코리아 가 판매한 티 구안 등 4 개 차종 승용차 는 어린이 보호 잠금장치 부품 결함 으로 안전 사고 가능성 이 있 는 것 으로 나타났 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 국가여유국 은 최근 베이징 일대 상위 20 개 여행사 관계자 들 을 소집해 한국 여행 상품 판매 중단 을 지시 했 다 .	ORG-B O O O LOC-B O O O O O O O O O LOC-B O O O O O O O O O
+지금 은 대척점 에 서 있 지만 유 의원 을 따라가 다 보 면 박 대통령 이 보인다 .	O O O O O O O PER-B O O O O O O PER-B O O O O
+‘ 1988 년 생 동갑내기 ’ 이보미 , 김하늘 , 신지애 , 그리고 베테랑 전미정 ( 35 ) 과 이지희 ( 38 ) 가 여전히 건재하 다 .	O O O O O O PER-B O PER-B O PER-B O O O PER-B O O O O PER-B O O O O O O O O
+佛 작전 지원 … 2 차 대전 후 최대 규모	ORG-B O O O O O O O O O
+그 는 “ 그릿 은 한계 지점 에 다다 랐 을 때 한 발짝 , 두 걸음 더 버티 는 인내력 ” 이라고 정의 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신 교수 는 “ 엄청난 충격 과 상처 를 받 은 시민 들 은 마음 의 근력 이 단단 했 기 에 상처 를 건강하 게 극복함 과 동시 에 새로 운 문화 를 만들 어 낼 수 있 었 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시민 들 의 건강 한 그릿 은 대통령 퇴진 시위 를 평화 의 축제 로 , 형식적 민주주의 에 머물 렀 던 87 년 체제 를 민주주의 의 완성 으로 일궈 냈 다 .	O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+[ 부산 / 경남 / 동서남북 ] 홍준표 - 안상수 ‘ 상생 의 길 ’ 로 가야	O LOC-B O LOC-B O O O PER-B O PER-B O O O O O O O
+이 때문 에 각 구단 은 점점 2 군 선수 육성 과 유망주 발굴 에 신경 쓰 기 시작 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+더불 어 민주당 과 치열한 경쟁 끝 에 국민 의 당 이 결국 호남 을 품 었 다 .	ORG-B ORG-I ORG-I O O O O O ORG-B ORG-I ORG-I O O LOC-B O O O O O
+살아남 은 더 민주당 의원 들 은 예고된 ‘ 2 차 공습 ’ 때문 에 웃 지 못하 고 있 고 , 새누리당 과 국민 의당 현역 의원 들 도 곧 닥칠 태풍 에 떨 고 있 다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O
+맥도날드 본사 에서 도 그녀 의 공로 를 인정해 세계 맥도날드 직원 1 백 90 만 여 명 중 0.01 % 만 이 선정된다는 ‘ 프레지던트 어워드 ’ 를 수여 했 다 .	ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+[ 인사 ] 한국거래소 外	O O O ORG-B O

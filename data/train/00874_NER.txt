@@ -1,11 +1,11 @@
-동봉되 +ㄴ 120mm 냉각팬 2개를 라디에이터에 달고, 사용자의 CPU 규격에 맞는 블래킷만 워터블록에 결합하면 시스템에 수냉쿨러를 달 준비가 끝나 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O
-우리나라의 1인당 국민총소득(GNI)이 11년째 3만달러의 벽을 넘지 못하였다 .	O O O O MNY-B O O O O
-백재현 男 성추행 혐의, "사우나서자고 있는 틈을 타 +아... .	PER-B O O O O O O O O O
-그는 김한길-안철수 갈등설에 대하+여서 +ㄴ “언론에서 조금 과장 하+여서 보도하는 측면도 있는 것 같다”면서도 “부부 사이에도 갈등이 있고 그런 갈등을 대화로 풀어나가지 않나? 두 분이 어떻든지 간에 총선, 대선에 대하+ㄴ 철학과 방향이 완벽하게 같을 수는 없기에 그런 부분을 계속 조율하는 과정에 있다”고 말 하+ 여사실상 두 사람이 갈등설을 시인하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-서울대 의대 법의학연구소는 연세대와 이화여대, 성균관대, 신라문화유산연구원 등과 함께 신라시대의 여성 유골을 토대로 최첨단 컴퓨터 기법을 활용하+여당시 얼굴 모습을 처음으로 복원하였다고 8일 밝히었다 .	ORG-B ORG-I ORG-I ORG-B ORG-B ORG-B ORG-B O O ORG-B O O O O O O O O O O O O O O
-77년 첫 번째 에피소드 개봉 당시에는 베트남전패전 등으로 우울하였던 미국 사회에 희망을 던지+어주기도 +였다 .	O O O O O O ORG-B O O ORG-B O O O O O
-이동국은 또 “아이들을 키우+ㄹ 때 +ㄴ 힘들지만 쑥쑥 크는 모습을 보면 ‘다섯 명을 낳기 +ㄹ 참 잘하였다’는 생각이 들+ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O O O
-최홍만, 억대 사기 혐의 체포영장…“돈 마련하고 있다 .	PER-B MNY-B O O O O O O
-특히 19세기 민주주의의 핵심 주체로 동학농민전쟁을 이끌 +ㄴ 민중과 개화파 엘리트를 꼽았다 .	O O O O O O O O O O O O O
-서울시청과 잠실을 비롯하+ 여경기, 천안, 오산, 평택 등에서 새벽부터 5개 노선의 셔틀버스를 운행하고 교통체증 없는 고속도로를 따르 아묵호항이나 강릉항에 도착하+여울릉도 여행을 시작하게 되+ㄴ다 .	LOC-B LOC-B O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O LOC-B LOC-B LOC-B O O O O
-1945년 제2차 세계대전의 종전으로 막을 내리+ㄴ 제국주의 시대의 성격과, 특히 일본 군국주의가 자아내+ㄴ 한·일 관계의 파탄에 대하+ㄴ 인식이나 반성 없이 손쉽게 양국 관계를 ‘정상화’ 하+ㄴ다고 생각하였다면 이는 역사의 엄중 하+ㅁ을 간과하+ㄴ 처사+이었다고 지적되+ㄹ 수밖에 없다 .	O O O O O O O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+동봉 된 120 mm 냉각 팬 2 개 를 라디에이터 에 달 고 , 사용자 의 CPU 규격 에 맞 는 블래킷 만 워터 블록 에 결합하 면 시스템 에 수 냉 쿨러 를 달 준비 가 끝난다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리나라 의 1 인 당 국민 총소득 ( GNI ) 이 11 년 째 3 만 달러 의 벽 을 넘 지 못 했 다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+백재현 男 성추행 혐의 , " 사우나 서 자 고 있 는 틈 을 타 . . . "	PER-B O O O O O O O O O O O O O O O O O O
+그 는 김 한길 - 안철수 갈등 설 에 대해선 “ 언론 에서 조금 과장해서 보도하 는 측면 도 있 는 것 같 다 ” 면서 도 “ 부부 사이 에 도 갈등 이 있 고 그런 갈등 을 대화 로 풀 어 나가 지 않 나 ? 두 분 이 어떻 든지 간 에 총선 , 대선 에 대한 철학 과 방향 이 완벽하 게 같 을 수 는 없 기에 그런 부분 을 계속 조율하 는 과정 에 있 다 ” 고 말해 사실상 두 사람 이 갈등 설 을 시인 했 다 .	O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울대 의대 법의학 연구소 는 연세대 와 이화여대 , 성균관대 , 신라 문화유산 연구원 등 과 함께 신라 시대 의 여성 유골 을 토대 로 최첨단 컴퓨터 기법 을 활용해 당시 얼굴 모습 을 처음 으로 복원 했 다고 8 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B O ORG-B O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+77 년 첫 번째 에피소드 개봉 당시 에 는 베트남 전 패전 등 으로 우울 했 던 미국 사회 에 희망 을 던져 주 기 도 했 다 .	DAT-B DAT-I O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O
+이동국 은 또 “ 아이 들 을 키울 땐 힘들 지만 쑥쑥 크 는 모습 을 보 면 ‘ 다섯 명 을 낳 길 참 잘 했 다 ’ 는 생각 이 든다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최홍만 , 억 대 사기 혐의 체포 영장 … “ 돈 마련하 고 있 다 ”	PER-B O MNY-B MNY-I O O O O O O O O O O O O
+특히 19 세기 민주주의 의 핵심 주체 로 동학 농민 전쟁 을 이끈 민중 과 개화파 엘리트 를 꼽 았 다 .	O O O O O O O O O O O O O O O O O O O O O O
+서울 시청 과 잠실 을 비롯해 경기 , 천안 , 오산 , 평택 등 에서 새벽 부터 5 개 노선 의 셔틀버스 를 운행하 고 교통 체증 없 는 고속도로 를 따 라 묵호 항 이나 강릉 항 에 도착해 울릉도 여행 을 시작하 게 된다 .	LOC-B LOC-I O LOC-B O O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O LOC-B LOC-I O O LOC-B O O O O O O
+1945 년 제 2 차 세계 대전 의 종전 으로 막 을 내린 제국주의 시대 의 성격 과 , 특히 일본 군국주의 가 자아낸 한 · 일 관계 의 파탄 에 대한 인식 이나 반성 없이 손쉽 게 양국 관계 를 ‘ 정상화 ’ 한다고 생각 했 다면 이 는 역사 의 엄중함 을 간과한 처사 였 다고 지적될 수 밖에 없 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O ORG-B O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

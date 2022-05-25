@@ -1,14 +1,14 @@
-오늘날에 +아서 에르메스의 오렌지색은 유행에 휩쓸리지 않는 클래식하고 고급스럽 ㄴ색으로 바뀌었죠. 주얼리 브랜드 '티파니'의 에메랄드 그린 색상자는 상자만으로도 청혼을 떠올리게 하+ㄹ 정도 이+ㅂ니다 .	O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O
-나노신소재 분야에서는 고분자공학과가 전국 16개 동일학과 중 최초로 공학인증을 받았다 .	O O O O O O O O O O O
-전세가, 집값 84% 전국 최고… “또 짐싸나” 군포의 한 .	O O O O O O O ORG-B O O
-“중3 때 아버지가 요들 클럽활동을 하는데 아코디언 연주자가 없다며 피아노를 하+여보+ㄴ+에게 연주 하+여달라고 하더군요 .	O O O O O O O O O O O O O O O
-마오의 잘못이 부각되면 자연히 당의 위상이 떨어지기 때문이다 .	PER-B O O O O O O O O
-홍석천 “정창욱은 전형적 이+ㄴ 나쁘+ㄴ 남자 스타일 …男女인기 많아” 힐링캠프 홍석천 냉장고를 부탁하+여정 창욱 방송인이자 요식업자 이+ㄴ 홍석천이 절친 이+ㄴ 요리사 정창욱에 대하+여 여자뿐만 아니라 게 이들에게도 인기가 있다고 밝히었다 .	PER-B PER-B O O O O O O O O PER-B O O O O O O PER-B O O O PER-B O O O O O O O O O
-17일 오후 방송되+ㄴ SBS ‘힐링캠프’에서는 홍석천이 게스트로 출연하+여 재치 있는 입담을 뽐내 +었다 .	O O O O O PER-B O O O O O O O O
-이날 방송에서는 홍석천의 절친으로 정창욱 셰프가 깜짝 등장하+여 모두를 놀라게 +였다 .	O O PER-B O PER-B O O O O O O O
-홍석천은 절친정창욱 셰프에 대하+여 “상남자 매력이 가득하다 .	PER-B PER-B O O O O O O
-안 후보는 이날 손학규 전 대표와 저녁식사를 하면서 공동선거대책위원장을 맡아달라고 요청하+ㄴ 것으로 알려지었다 .	PER-B O O PER-B O O O O O O O O O O
-최군은 지난달 7일 어린이집에서 점심식사를 하+ㄴ 뒤 다른 원생들과 함께 낮잠을 자던 중 호흡곤란 상태로 A씨에게 발견되+어 병원으로 옮기+어+지었지만 숨지었다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O
-이슬람 국가(IS) 최고지도자 아부 바크르바그다디(46·사진)가 이라크 국경지대에서 이라크군의 폭격으로 심각 하+ㄴ부상을 입었다고 이라크 현지 매체가 보도하였다 .	ORG-B ORG-B O PER-B PER-I ORG-B O ORG-B O O O O ORG-B O O O O
-남상욱 양산부산대 어린이병원장은 “소아과는 힘들고 대우는 못 받는다는 생각이 의료진 사이에 깔리+어 있다”고 말하였다 .	PER-B O O O O O O O O O O O O O O
-“신씨는 (나처럼) 비즈니스로 문제 되+ㄴ 것+이 아니 +지 않나. 신씨가 (변양균 전 청와대 정책실장을) 정말 사랑 하+ㄴ 것 같다 .	PER-B O O O O O O O O PER-B PER-B O ORG-B O O O O O O O
+오늘날 에 와서 에르메스 의 오렌지색 은 유행 에 휩쓸리 지 않 는 클래식 하 고 고급스러 운 색 으로 바뀌 었 죠 . 주얼리 브랜드 ' 티파니 ' 의 에메랄드 그린 색 상자 는 상자 만 으로 도 청혼 을 떠올리 게 할 정도 입니다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+나노 신소재 분야 에서 는 고분자 공학 과 가 전국 16 개 동일 학과 중 최초 로 공학 인증 을 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+전세 가 , 집값 84 % 전국 최고 … “ 또 짐싸 나 ” 군포 의 한숨	O O O O O O O O O O O O O O ORG-B O O
+“ 중 3 때 아버지 가 요들 클럽 활동 을 하 는데 아코디언 연주자 가 없 다며 피아노 를 해 본 제게 연주해 달 라고 하 더군 요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+마오 의 잘못 이 부각되 면 자연히 당 의 위상 이 떨어지 기 때문 이 다 .	PER-B O O O O O O O O O O O O O O O O
+홍석천 “ 정창욱 은 전형적 인 나쁜 남 자 스타일 … 男女 인기 많 아 ” 힐링 캠프 홍석천 냉장고 를 부탁해 정창욱 방송인 이 자 요식 업자 인 홍석천 이 절친 인 요리사 정창욱 에 대해 여자 뿐 만 아니 라 게이 들 에게 도 인기 가 있 다고 밝 혔 다 .	PER-B O PER-B O O O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O
+17 일 오후 방송된 SBS ‘ 힐링 캠프 ’ 에서 는 홍석천 이 게스트 로 출연해 재치 있 는 입담 을 뽐냈 다 .	DAT-B DAT-I TIM-B O O O O O O O O PER-B O O O O O O O O O O O O
+이날 방송 에서 는 홍석천 의 절친 으로 정창욱 셰프 가 깜짝 등장해 모두 를 놀라 게 했 다 .	O O O O PER-B O O O PER-B O O O O O O O O O O O
+홍석천 은 절친 정창욱 셰프 에 대해 “ 상 남자 매력 이 가득하 다 .	PER-B O O PER-B O O O O O O O O O O O
+안 후보 는 이날 손학규 전 대표 와 저녁 식사 를 하 면서 공동 선거 대책 위원장 을 맡 아 달 라고 요청한 것 으로 알려 졌 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+최 군 은 지난달 7 일 어린이집 에서 점심 식사 를 한 뒤 다른 원생 들 과 함께 낮잠 을 자 던 중 호흡 곤란 상태 로 A 씨 에게 발견돼 병원 으로 옮겨 졌 지만 숨 졌 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+이슬람 국가 ( IS ) 최고 지도자 아부 바크르 바그 다디 ( 46 · 사진 ) 가 이라크 국경 지대 에서 이라크 군 의 폭격 으로 심각한 부상 을 입 었 다고 이라크 현지 매체 가 보도 했 다 .	ORG-B ORG-I O ORG-B O O O PER-B PER-I PER-I PER-I O O O O O O ORG-B O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O
+남상욱 양산 부산대 어린이 병원장 은 “ 소아과 는 힘들 고 대우 는 못 받 는다는 생각 이 의료진 사이 에 깔려 있 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 신 씨 는 ( 나 처럼 ) 비즈니스 로 문제 된 게 아니 잖 나 . 신 씨 가 ( 변양균 전 청와대 정책 실장 을 ) 정말 사랑한 거 같 다 .	O PER-B O O O O O O O O O O O O O O O PER-B O O O PER-B O ORG-B O O O O O O O O O O

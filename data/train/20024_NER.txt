@@ -1,16 +1,16 @@
-최순실씨(61) 딸 정유라씨(21)와 조카 장시호씨(38)씨의 학사관리 특혜 의혹이 체육특기자 제도로 확산되자 교육부는 지난해 12월 26일부터 지나 +ㄴ 2월23일까지 이들 대학을 현장조사하였다 .	PER-B O PER-B O PER-B O O O O O O ORG-B O O O O O O O O O O
-2013년에는 개봉 10주년 행사가 열리기도 +였다 .	O O O O O O O
-베이징 덕을 제대로 맛보려면 베이징으로 가+아야 하+ㄴ다 .	LOC-B O O O LOC-B O O O
-박찬종 대표 측은 공식 언급은 회피하였으나, 한 측근은 『김 대표가 대표직을 갖고 있기가 더욱 어렵게 되+ㄴ셈』이라고 간접적 이+ㄴ의중을 드러내 +었다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O
-슈퍼모델 지지 하디드의 화보 현장이 공개되었다 .	O PER-B PER-I O O O O
-CKD-504는 헌팅턴 질환 치료제로 올해 미국 임상 1상에 진입하+ㄹ 계획이다 .	O O O O O LOC-B O O O O O
-남가촌은 한때 등소평의 시장경제 전환에 발맞추어 초과 생산물의 처분권을 개인에게 넘겨주는 생산 책임제를 시행하였으나 모두 실패하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O
-무라야마 총리는 이날 사회당 출신 총리로서 처음 G7 정상회담에 참석하는 점을 감안, 『지금까지의 외교안보 기본정책을 계승 발전시키+ㄴ 다』는 의사를 분명히 표명하기로 +였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-박성현은 지난해 비회원으로 LPGA투어 7경기에 출전하+여 약 68만 달러의 상금을 획득하였다 .	PER-B O O O O O O MNY-B MNY-I O O O
-주 12.2회 먹는 ‘이것 .	O O O O O
-국내 스타트업 기업이나 혁신 중소기업, 소상공인에 대하+여서 +ㄴ 최소 3년간 규제 적용을 유예하는 방안도 검토 중이다 .	O O O O O O O O O O O O O O O O O
-김현정 디스쿨 대표는 “당시에 +ㄴ ‘특목고 합격=페르마학원’이라는 공식이 공공연하게 회자되었다”고 얘기하였다 .	PER-B ORG-B O O O O O O O O O O
-‘변호사 보좌관 및 비서관 채용 요청’ 공문 보내+ㄴ 대한변호사협회.[중앙포토] 변협은 23일 국회 의원회관 사무실에 변협 회장 명의의 ‘변호사 보좌관 및 비서관 채용 요청’이란 제목의 공문을 팩스로 발송하였다 .	O O O O O O O O ORG-B ORG-B O O O O ORG-B O O O O O O O O O O O O O
-변협은 공문에서 “변협은 법률 전문가 이+ㄴ 변호사가 국회의원 보좌관 또는 비서관으로 진출하+여귀의원실의 입법과정을 보좌하+ㅁ으로써 국회 입법 활동과 법치주의 정착에 도움이 되도록 하는 한편 청년변호사를 위하+ㄴ일자리 창출에도 기여하고자 하+ㄴ다”며 “보좌관 ㆍ 비서관을 희망하는 회원을 모집하+여 인력풀을 구성하고 있으니 준비되+ㄴ 인재를 원하는 의원께서는 협회 사무국으로 연락을 바라+ㄴ다”고 밝히었다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-현재 한국은 3국의 대응에서 교훈을 얻는 복합적 처방이 필요하다는 지적이다 .	O ORG-B O O O O O O O O O
-앞으로 10년 동안 해마다 2조~3조원 이상 투자를 하고 매년 1만명 이상 채용하는 등 내수 경기 활성화에 기여하는 것이 주요 골자+이다 .	O O O O MNY-B O O O O O O O O O O O O O O O O
+최순실 씨 ( 61 ) 딸 정유라 씨 ( 21 ) 와 조카 장시호 씨 ( 38 ) 씨 의 학사 관리 특혜 의혹 이 체육 특기 자 제도 로 확산되 자 교육부 는 지난해 12 월 26 일 부터 지난 2 월 23 일 까지 이 들 대학 을 현장 조사 했 다 .	PER-B O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O ORG-B O O DAT-B DAT-I DAT-I DAT-I O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+2013 년 에 는 개봉 10 주년 행사 가 열리 기 도 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O
+베이징 덕 을 제대로 맛보 려면 베이징 으로 가야 한다 .	O O O O O O LOC-B O O O O
+박찬종 대표 측 은 공식 언급 은 회피 했 으나 , 한 측근 은 『 김 대표 가 대표 직 을 갖 고 있 기 가 더욱 어렵 게 된 셈 』 이라고 간접적 인 의중 을 드러냈 다 .	PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+슈퍼 모델 지지 하디드 의 화보 현장 이 공개 됐 다 .	O O PER-B PER-I O O O O O O O O
+CKD - 504 는 헌팅턴 질환 치료제 로 올해 미국 임상 1 상 에 진입할 계획 이 다 .	O O O O O O O O O LOC-B O O O O O O O O O
+남가 촌 은 한때 등소평 의 시장 경제 전환 에 발맞추 어 초과 생산물 의 처분권 을 개인 에게 넘겨주 는 생산 책임 제 를 시행 했 으나 모두 실패 했 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+무라야마 총리 는 이날 사회당 출신 총리 로서 처음 G 7 정상회담 에 참석하 는 점 을 감안 , 『 지금 까지 의 외교 안보 기본 정책 을 계승 발전 시킨다 』 는 의사 를 분명히 표명 키 로 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박성현 은 지난해 비회원 으로 LPGA 투어 7 경기 에 출전해 약 68 만 달러 의 상금 을 획득 했 다 .	PER-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+주 12.2 회 먹 는 ‘ 이것 ’	O O O O O O O O
+국내 스타트 업 기업 이나 혁신 중소기업 , 소 상공인 에 대해선 최소 3 년 간 규제 적용 을 유예하 는 방안 도 검토 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김현정 디스 쿨 대표 는 “ 당시 엔 ‘ 특목 고 합격 = 페르마 학원 ’ 이 라는 공식 이 공공연하 게 회자 됐 다 ” 고 얘기 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 변호사 보좌관 및 비서관 채용 요청 ’ 공문 보낸 대한변호사협회 . [ 중앙 포토 ] 변협 은 23 일 국회 의원 회관 사무실 에 변협 회장 명의 의 ‘ 변호사 보좌관 및 비서관 채용 요청 ’ 이 란 제목 의 공문 을 팩스 로 발송 했 다 .	O O O O O O O O O O ORG-B O O O O O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+변협 은 공문 에서 “ 변협 은 법률 전문가 인 변호사 가 국회 의원 보좌관 또는 비서관 으로 진출해 귀 의원 실 의 입법 과정 을 보좌함 으로써 국회 입법 활동 과 법치주의 정착 에 도움 이 되 도록 하 는 한편 청년 변호사 를 위한 일자리 창출 에 도 기여하 고자 한다 ” 며 “ 보좌관 ㆍ 비서관 을 희망하 는 회원 을 모집해 인력 풀 을 구성하 고 있 으니 준비된 인재 를 원하 는 의원 께서 는 협회 사무국 으로 연락 을 바란다 ” 고 밝 혔 다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 한국 은 3 국 의 대응 에서 교훈 을 얻 는 복합적 처방 이 필요하 다는 지적 이 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
+앞 으로 10 년 동안 해마다 2 조 ~ 3 조 원 이상 투자 를 하 고 매년 1 만 명 이상 채용하 는 등 내수 경기 활성화 에 기여하 는 것 이 주요 골자 다 .	O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O

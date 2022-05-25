@@ -1,11 +1,11 @@
-아랍 국가들은 기습 공격을 가하+여허를 찌르었다 .	LOC-B O O O O O O
-흥미롭고, 말로 표현하+ㄹ 수 없는 특별 하+ㄴ 무어+이+ㄴ가가 있어요.” 좋아하는 한국영화나 영화인을 묻자 그는 임권택 감독의 ‘취화선’을 극찬하였다 .	O O O O O O O O O O LOC-B O O O PER-B O O O O
-지난해 7월 탈북 하+ㄴ태영호 전 주영국 북한대사관 공사는 미 CBS 방송의 시사프로그램 ‘60분(60minutes)’과의 인터뷰에서 “김정은이 당신을 살해하+ㄹ 수도 있을 것 같으냐”는 질문에 “물론이다 .	O O O PER-B O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O PER-B O O O O O O O O O
-전반적으로 세계 하위권(세계 최고의 42.2%) 평가를 면하지 못하였다 .	O O O O O O O O O
-NC 박석민(31)은 독특하+ㄴ타격폼을 가지고 있다 .	ORG-B PER-B O O O O
-그러나 트럼프 대통령은 12일 “자국민을 화학무기로 공격 하+ㄴ아사드 대통령은 도살자” +이라며 “아사드 정권은 결국 축출되+ㄹ 것”이라며 사실상 헤일리 대사의 손을 들어 주+었다 .	O PER-B O O O O O PER-B O O O PER-B O O O O O PER-B O O O O O
-북한 문제 해결을 위하+여서, 한국은 중국을 어떻게 활용하+여야 하+ㄹ까 .	ORG-B O O O ORG-B ORG-B O O O O
-대학 3학년이+ㄴ 이종현은 서장훈, 김주성과 자주 비교되 +ㄴ다 .	O O PER-B PER-B PER-B O O O O
-인천시립박물관은 14일 이달 중으로 한국이 민사박물관에 대하+ㄴ상표등록을 출원하+ㄹ 계획이라고 밝히었다 .	ORG-B O O O ORG-B ORG-I O O O O O
-변호사법은 법무법인을 징계하도록 하고 있지만, 김앤장은 공동법률사무소+이어서 담당 변호사가 징계를 받았다 .	O O O O O ORG-B O O O O O O
-한국에서 힐로공항까지 바로 가는 항공편은 없다 .	LOC-B LOC-B O O O O O
+아랍 국가 들 은 기습 공격 을 가해 허 를 찔 렀 다 .	LOC-B O O O O O O O O O O O O O
+흥미롭 고 , 말 로 표현할 수 없 는 특별한 무언가 가 있 어요 . ” 좋아하 는 한국 영화 나 영화인 을 묻 자 그 는 임권택 감독 의 ‘ 취화선 ’ 을 극찬 했 다 .	O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O PER-B O O O O O O O O O O
+지난해 7 월 탈 북 한 태영호 전 주 영국 북한 대사관 공사 는 미 CBS 방송 의 시사 프로그램 ‘ 60 분 ( 60 minutes ) ’ 과 의 인터뷰 에서 “ 김정은 이 당신 을 살해할 수 도 있 을 것 같 으냐 ” 는 질문 에 “ 물론 이 다 .	O DAT-B DAT-I O O O PER-B O ORG-B ORG-I ORG-I ORG-I O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+전반적 으로 세계 하위권 ( 세계 최고 의 42.2 % ) 평가 를 면 치 못 했 다 .	O O O O O O O O O O O O O O O O O O O
+NC 박석민 ( 31 ) 은 독특한 타격 폼 을 가지 고 있 다 .	ORG-B PER-B O O O O O O O O O O O O O
+그러나 트럼프 대통령 은 12 일 “ 자국민 을 화학 무기 로 공격한 아사드 대통령 은 도살자 ” 라며 “ 아사드 정권 은 결국 축출될 것 ” 이 라며 사실상 헤일리 대사 의 손 을 들 어 줬 다 .	O PER-B O O DAT-B DAT-I O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O
+북한 문제 해결 을 위해서 , 한국 은 중국 을 어떻 게 활용해야 할까 .	ORG-B O O O O O ORG-B O ORG-B O O O O O O
+대학 3 학년 인 이종현 은 서장훈 , 김주성 과 자주 비교된다 .	O O O O PER-B O PER-B O PER-B O O O O
+인천 시립 박물관 은 14 일 이달 중 으로 한국 이민 사 박물관 에 대한 상표 등록 을 출원할 계획 이 라고 밝 혔 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O
+변호사법 은 법무 법인 을 징계하 도록 하 고 있 지만 , 김 앤 장 은 공동 법률 사무소 여서 담당 변호사 가 징계 를 받 았 다 .	O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+한국 에서 힐로 공항 까지 바로 가 는 항공편 은 없 다 .	LOC-B O LOC-B LOC-I O O O O O O O O O

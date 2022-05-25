@@ -1,15 +1,15 @@
-리츠칼튼 서울은 코코샤넬 콘셉트룸으로 알려지+ㄴ 프라이빗 다이닝룸에서 로맨틱 하+ㄴ 디너를 즐기+ㄹ 수 있는 ‘언포게터을 모먼트(U nforg etta bleMoment) 패키지’를 론칭하였다 .	ORG-B ORG-I ORG-B O O O O O O O O O O O O O O O O O O
-노원·도봉구에 K팝 공연장 건설 부천 원미구는 준공업지역으로 특화 경기 제반형으로 선정되+ㄴ 서울 노원·도봉구는 관내 창동차량기지 부지에 바이오메디컬 특화산업단지와 2만석 규모의 K팝 공연장을 건설 하+ㄹ 계획이다 .	LOC-B O O O LOC-B LOC-B O O O O O LOC-B LOC-B O O O O O O O O O O O O O
-모두 한 압력용기 안에 들어있는 것이 특징이다 .	O O O O O O O O
-그래서 이번 환부는 부득이하게 미국의 피해자 환 부 절차를 활용하+여 집행하게 되+ㄴ다 .	O O O O ORG-B O O O O O O O O
-【아가왐(미 매사추세츠주)=AP/뉴시스 .	LOC-B LOC-B O
-한 채 진도 27일 KB스타즈 전 도중 상대 팔꿈치에 맞아 이마 왼쪽이 찢어 지+어피를 흘리었다 .	O O O O ORG-B O O O O O O O O O O O
-최씨는 또 같은 해 10월 자신의 휴대전화가 고장나자 A씨에게 ＇너 때문 ＇이라며 겁을 주+어91만7000원짜리 휴대전화를 받아내 +ㄴ 혐의(공갈)도 받고 있다 .	PER-B O O O O O O O PER-B O O O O MNY-B O O O O O O O
-반면 체코 헝가리 폴란드 등 동구의 국내총생산은 일부 국가를 제외하곤 -7∼-10%의 마이너스 성장에 머물고 있다 .	O ORG-B O ORG-B O O O O O O O O O O O O
-자세 하+ㄴ사항은 공식 홈페이지를 참조하거나 경기관광공사(031-956-8307)로 문의하면 되+ㄴ다 .	O O O O O ORG-B O O O
-그런데 최근 강정호가 계속 모바일 메신저로 김현수를 꼬드기는 모양이다 .	O O PER-B O O O PER-B O O O
-시민들이 인근 구로공구상가, 고척공구상가, 중앙유통상가, 롯데마트 등에 주차하+ㄹ 수 있도록 협의를 마치었다 .	O O LOC-B LOC-B LOC-B LOC-B O O O O O O O
-‘나+의 나이가 어떻+어서’ 정준하, 몸짱 시절 ‘그립어’ “이때로 돌아가고 싶다”나 +의 나이가 어떻+어서 정준하 ‘나+의 나이가 어떻+어서’에 출연하+ㄴ 정준하가 화제이+ㄴ 가운데 자신의 소셜미디어에 올리+ㄴ 사진도 주목을 끌고 있다 .	O O O PER-B O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O
-정준하는 지난달 31일 개인소셜미디어에 “이때로 돌아가고 싶다…”는 글과 함께 사진 한 장을 올리었다 .	PER-B O O O O O O O O O O O O O
-공개되+ㄴ 사진 속 정준하는 나이를 무색하게 만들 +ㄹ 정도로 훌륭하+ㄴ 근육질 상반신을 뽐내 +었다 .	O O O PER-B O O O O O O O O O O O
-이 사진은 과거 MBC 예능 프로그램 ‘무한도전’에서 진행되었던 밀라노 특집 때 촬영하+ㄴ 것으로 보이+ㄴ다 .	O O O ORG-B O O O O LOC-B O O O O O O
+리츠칼튼 서울 은 코코 샤넬 콘셉트 룸 으로 알려진 프라이빗 다이닝 룸 에서 로맨틱한 디너 를 즐길 수 있 는 ‘ 언 포 게터 블 모먼트 ( Unforgettable Moment ) 패키지 ’ 를 론 칭 했 다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+노원 · 도봉구 에 K 팝 공연장 건설 부천 원미구 는 준 공업지역 으로 특화 경기 제반 형 으로 선정된 서울 노원 · 도봉구 는 관내 창동 차량 기지 부지 에 바이오 메디컬 특화 산업 단지 와 2 만석 규모 의 K 팝 공연장 을 건설할 계획 이 다 .	LOC-B O LOC-B O O O O O LOC-B LOC-B O O O O O O O O O O LOC-B LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+모두 한 압력 용기 안 에 들 어 있 는 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O
+그래서 이번 환부 는 부득이하 게 미국 의 피해자 환부 절차 를 활용해 집행하 게 된다 .	O O O O O O ORG-B O O O O O O O O O O
+【 아가왐 ( 미 매사추세츠주 ) = AP / 뉴시스 】	O LOC-B O LOC-B LOC-B O O ORG-B O ORG-B O
+한채진 도 27 일 KB 스타즈 전 도중 상대 팔꿈치 에 맞 아 이마 왼쪽 이 찢어져 피 를 흘 렸 다 .	PER-B O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O
+최 씨 는 또 같 은 해 10 월 자신 의 휴대전화 가 고장 나 자 A 씨 에게 ＇ 너 때문 ＇ 이 라며 겁 을 줘 91 만 7000 원 짜리 휴대전화 를 받 아 낸 혐의 ( 공갈 ) 도 받 고 있 다 .	PER-B O O O O O O DAT-B DAT-I O O O O O O O PER-B O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O
+반면 체코 헝가리 폴란드 등 동구 의 국내 총 생산 은 일부 국가 를 제외하 곤 - 7 ∼ - 10 % 의 마이너스 성장 에 머물 고 있 다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자세한 사항 은 공식 홈페이지 를 참조하 거나 경기 관광 공사 ( 031 - 956 - 8307 ) 로 문의하 면 된다 .	O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O
+그런데 최근 강정호 가 계속 모바일 메신저 로 김현수 를 꼬드기 는 모양 이 다 .	O O PER-B O O O O O PER-B O O O O O O O
+시민 들 이 인근 구로 공구 상가 , 고척 공구 상가 , 중앙 유통 상가 , 롯데마트 등 에 주차할 수 있 도록 협의 를 마 쳤 다 .	O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O LOC-B O O O O O O O O O O O O
+‘ 내 나이 가 어때서 ’ 정준하 , 몸 짱 시절 ‘ 그리 워 ’ “ 이때 로 돌아가 고 싶 다 ” 내 나이 가 어때서 정준하 ‘ 내 나이 가 어때서 ’ 에 출연한 정준하 가 화제 인 가운데 자신 의 소셜 미디어 에 올린 사진 도 주목 을 끌 고 있 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+정준하 는 지난달 31 일 개인 소셜 미디어 에 “ 이때 로 돌아가 고 싶 다 … ” 는 글 과 함께 사진 한 장 을 올 렸 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+공개된 사진 속 정준하 는 나이 를 무색하 게 만들 정도 로 훌륭한 근육질 상반신 을 뽐냈 다 .	O O O PER-B O O O O O O O O O O O O O O O
+이 사진 은 과거 MBC 예능 프로그램 ‘ 무한도전 ’ 에서 진행 됐 던 밀라노 특집 때 촬영한 것 으로 보인다 .	O O O O ORG-B O O O O O O O O O LOC-B O O O O O O O

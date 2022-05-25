@@ -1,11 +1,11 @@
-트럼프의 ‘보호무역 강화’ 틈노리+어中주도 무역블록 구축의 지드러내+ .	PER-B O O LOC-B O O O O
-그는 “성 회장의 아들(정수씨)도 여러 차례 비슷하+ㄴ 요청을 해 혼쭐을 내 +었다”며 “그렇었더니 미 뉴욕까지 건너가 +아나+의 아들 (주현씨)을 만나 +아부탁 하+ㄴ 모양”이라고 말하였다 .	O PER-B O PER-B O O O O O O O O O LOC-B LOC-I O O O PER-B O O O O O O
-당시 박 대통령은 아시아·유럽 정상회의(ASEM) 참석 차 이탈리아를 방문 중이었다 .	O PER-B O ORG-B ORG-I O O LOC-B O O O
-북한의 김정일도 올 여름이전에 중국을 방문하+ㄹ 예정이라고 홍콩의 외교 소식통들이 25일 말하였다 .	ORG-B PER-B O O LOC-B O O LOC-B O O O O O
-오바마 “한국 교사, 의사만큼 돈벌+ㄴ다”… 한국교사 “현실성 없는 이야기 .	PER-B ORG-B O O O ORG-B O O O O
-평택시에서는 현대건설이 ‘힐스테이트 평택 2차’를 공급하고 있다 .	LOC-B ORG-B LOC-B LOC-I O O O O
-‘송민호 제작진 실수’ 케이블 채널 엠넷의 ‘쇼미더머니4’ 제작진이 출연진의 랩이 여성 비하구설에 오르+ㄴ데 대하+여공식 사과하였다 .	PER-B O O O O ORG-B O O O O O O O O O O
-‘쇼미더머니4’ 제작진은 13일 보도자료를 통하+여 “가사 논란은 명백하+ㄴ 제작진의 실수”+이라며 “편집에 더욱 더 신중을 기하겠다 .	O O O O O O O O O O O O O O O O
-문재인 측 “대통령의 특검 요구, 전형적 이+ㄴ ‘물타기’ .	PER-B O O O O O O O O
-때문에 오는 17~18일 열리+ㄹ대우조선해양 사채권자 집회에서도 정부의 구조조정 추진 방안에 대하+ㄴ 찬성 결정이 나 오+ㄹ 가능성이 높아지었다 .	O O O O O O O O O O O O O O O O O O
-터보 3인조 컴백, 김정남 탈퇴 이유는 이경규? 김종국 “이형예 전부터 야망이 있었다 .	ORG-B O O PER-B O O PER-B PER-B O O O O O
+트럼프 의 ‘ 보호 무역 강화 ’ 틈 노려 中 주도 무역 블록 구축 의지 드러내	PER-B O O O O O O O O LOC-B O O O O O O
+그 는 “ 성 회장 의 아들 ( 정수 씨 ) 도 여러 차례 비슷한 요청 을 해 혼쭐 을 냈 다 ” 며 “ 그 랬 더니 미 뉴욕 까지 건너가 내 아들 ( 주현 씨 ) 을 만나 부탁한 모양 ” 이라고 말 했 다 .	O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O PER-B O O O O O O O O O O O O
+당시 박 대통령 은 아시아 · 유럽 정상 회의 ( ASEM ) 참석 차 이탈리아 를 방문 중 이 었 다 .	O PER-B O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O LOC-B O O O O O O O
+북한 의 김정일 도 올 여름 이전 에 중국 을 방문할 예정 이 라고 홍콩 의 외교 소식통 들 이 25 일 말 했 다 .	ORG-B O PER-B O O O O O LOC-B O O O O O LOC-B O O O O O DAT-B DAT-I O O O O
+오바마 “ 한국 교사 , 의사 만큼 돈 번다 ” … 한국 교사 “ 현실성 없 는 이야기 ”	PER-B O ORG-B O O O O O O O O ORG-B O O O O O O O
+평택시 에서 는 현대건설 이 ‘ 힐스테이트 평택 2 차 ’ 를 공급하 고 있 다 .	LOC-B O O ORG-B O O LOC-B LOC-I O O O O O O O O O
+‘ 송민호 제작진 실수 ’ 케이블 채널 엠넷 의 ‘ 쇼 미 더머 니 4 ’ 제작진 이 출연진 의 랩 이 여성 비하 구설 에 오른 데 대해 공식 사과 했 다 .	O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 쇼 미 더머 니 4 ’ 제작진 은 13 일 보도 자료 를 통해 “ 가사 논란 은 명백한 제작진 의 실수 ” 라며 “ 편집 에 더욱 더 신중 을 기하 겠 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+문재인 측 “ 대통령 의 특검 요구 , 전형적 인 ‘ 물 타 기 ’ ”	PER-B O O O O O O O O O O O O O O O
+때문 에 오 는 17 ~ 18 일 열릴 대우조선해양 사채권자 집회 에서 도 정부 의 구조 조정 추진 방안 에 대한 찬성 결정 이 나올 가능성 이 높아 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+터보 3 인 조 컴백 , 김정남 탈퇴 이유 는 이경규 ? 김종국 “ 이 형 예전 부터 야망 이 있 었 다 ”	ORG-B O O O O O PER-B O O O PER-B O PER-B O O O O O O O O O O O

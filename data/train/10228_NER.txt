@@ -1,14 +1,14 @@
-처벌 수준을 현행 최고 1억원 벌금에서 2년 이하 징역으로 높이고 해외 계열사 현황을 의무적으로 공시하도록 하는 내용이다 .	O O O O MNY-B O O O O O O O O O O O O O
-「당근 ­ 채찍」 병행…분규손실 75%나 줄 .	O O O O O O O
-또 눈에는 보이지 않지만 우주 공간의 대부분을 채우고 있는 암흑물질에 관하+ㄴ 정보도 얻을 수 있다 .	O O O O O O O O O O O O O O O O
-세계적 이+ㄴ이론 물리학자 스티븐 호킹 박사는 “중력파를 검출 하+ㄹ 수 있는 능력은 우주를 바라보는 완전히 새롭ㄴ 방법을 제공하+ㄴ다”며 “눈에 보이지 않는 암흑물질과 빅뱅 이론 등이전까지는 알+ㄹ 수 없었던 미지의 우주를 밝혀내는 데 크게 기여하+ㄹ 것”이라고 말하였다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-뿐만 아니라 중력파는 여러 힘의 결합, 중력 연결 양자 이론과 같은 물리학에서의 중요하+ㄴ문제들을 해결하는 데도 도움이 되+ㄹ 전망이다 .	O O O O O O O O O O O O O O O O O O O
-단즈만 교수는 “힉스 입자 발견 이래 과학계에서 가장 중요하+ㄴ 진전을 이루었다”며 “중력파의 관측은 새롭ㄴ 연구 대상으로서의 우주를 열어 주+ㄹ 것”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-박수련·심새 롬기 .	PER-B O O
-향후 남북대화 국면이 조성되면 김영철 이 물꼬를 트는 역할을 하+ㄹ 수 있다는 것이다 .	O ORG-B O O PER-B O O O O O O O O O
-tvN 관계자는 26일 “방송사 대표 콘텐츠 이+ㄴ 만큼 이전보다 더 많은 시청자를 확보하기 위하+여생중계를 기획하였다”며 “최근 중국을 포함하+여아시아권 시청자가 출연자의 이름에 휩쓸리지 않고 다양하+ㄴ 콘텐츠를 찾는 추세이기도 하다”고 밝히었다 .	O O O O O O O O O O O O O O O O ORG-B LOC-B O O O O O O O O O O O O
-이날 유가증권시장에서는 외국인과 개인이 각각 364억원, 185억원을 순매수하였다 .	O O O O O MNY-B MNY-B O O
-이날 방송에서 백종원은 떡볶이 소스로 설탕 한 컵, 굵은 고춧가루 한 컵(고추장 맛을 내는 효과), 고추장 2/3컵, 진간장 반컵, 물 한 컵을 넣고 섞어서 만들었다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-백종원은 떡국 떡두컵을 준비 하+여헹구+어주+ㄴ후 부재료로 파, 어묵을 준비하였다 .	PER-B O O O O O O O O O
-이로써 그는 일본과 미국 프로야구를 합치+어 개인 통산 1968번째 득점을 기록하였다 .	O O ORG-B ORG-B O O O O O O O O
-또 전원책이 “연말에 연예 대상에서 신인상 들어오지 않을까?”라고 묻자 유시민은 “‘복면가왕’ 한번 나오았다고 심사 대상이 되지는 않는다”고 답하+ 여웃음을 자아내 +었다 .	O PER-B O O O O O O O PER-B O O O O O O O O O O O O
+처벌 수준 을 현행 최고 1 억 원 벌금 에서 2 년 이하 징역 으로 높이 고 해외 계열사 현황 을 의무적 으로 공시 토록 하 는 내용 이 다 .	O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O
+「 당근 ­ 채찍 」 병행 … 분규 손실 75 % 나 줄 어	O O O O O O O O O O O O O O
+또 눈 에 는 보이 지 않 지만 우주 공간 의 대부분 을 채우 고 있 는 암흑 물질 에 관한 정보 도 얻 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세계적 인 이론 물리학자 스티븐 호킹 박사 는 “ 중력파 를 검출할 수 있 는 능력 은 우주 를 바라보 는 완전히 새로 운 방법 을 제공한다 ” 며 “ 눈 에 보이 지 않 는 암흑 물질 과 빅뱅 이론 등 이전 까지 는 알 수 없 었 던 미지 의 우주 를 밝혀내 는 데 크 게 기여할 것 ” 이라고 말 했 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+뿐 만 아니 라 중력파 는 여러 힘 의 결합 , 중력 연결 양자 이론 과 같 은 물리학 에서 의 중요한 문제 들 을 해결하 는 데 도 도움 이 될 전망 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+단즈 만 교수 는 “ 힉스 입자 발견 이래 과학계 에서 가장 중요한 진전 을 이 뤘 다 ” 며 “ 중력파 의 관측 은 새로 운 연구 대상 으로서 의 우주 를 열 어 줄 것 ” 이라고 말 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박수련 · 심새롬 기자	PER-B O PER-B O
+향후 남북 대화 국면 이 조성되 면 김 영철이 물꼬 를 트 는 역할 을 할 수 있 다는 것 이 다 .	O ORG-B O O O O O PER-B O O O O O O O O O O O O O O O
+tvN 관계자 는 26 일 “ 방송사 대표 콘텐츠 인 만큼 이전 보다 더 많 은 시청자 를 확보하 기 위해 생 중계 를 기획 했 다 ” 며 “ 최근 중국 을 포함해 아시아 권 시청자 가 출연자 의 이름 에 휩쓸리 지 않 고 다양한 콘텐츠 를 찾 는 추세 이 기 도 하 다 ” 고 밝 혔 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 유가증권시장 에서 는 외국인 과 개인 이 각각 364 억 원 , 185 억 원 을 순 매수 했 다 .	O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O O O
+이날 방송 에서 백종원 은 떡볶이 소스 로 설탕 한 컵 , 굵 은 고춧가루 한 컵 ( 고추장 맛 을 내 는 효과 ) , 고추장 2 / 3 컵 , 진간장 반 컵 , 물 한 컵 을 넣 고 섞 어서 만들 었 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+백종원 은 떡국 떡 두 컵 을 준비해 헹궈 준 후 부 재료 로 파 , 어묵 을 준비 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+이 로써 그 는 일본 과 미국 프로 야구 를 합쳐 개인 통산 1968 번째 득점 을 기록 했 다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O O O O
+또 전원책 이 “ 연말 에 연예 대상 에서 신인 상 들어오 지 않 을까 ? ” 라고 묻 자 유시민 은 “ ‘ 복면 가왕 ’ 한 번 나 왔 다고 심사 대상 이 되 지 는 않 는다 ” 고 답해 웃음 을 자아냈 다 .	O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

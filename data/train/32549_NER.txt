@@ -1,10 +1,10 @@
-동강대 사회복지과 김철-조경희씨 …손주돌보며 2년간 결석한 번 안하+ .	ORG-B ORG-I PER-B O O O O O O
-1988년에 관하+ㄴ고증과 관련 하+여 “맞다” .	O O O O O O
-취재팀과 함께 논문을 검토하+ㄴ 서울사립대 A교수는 “학계의 암묵적 관행을 고려하+ 여보+아도 죄질이 나쁘다”고 전하였다 .	O O O O ORG-B ORG-I O O O O O O O O O
-영동고속도로 신갈∼이천 간 37.8㎞의 4차 선임시 개방도 15일까지 2주간 연장하기로 +였다 .	LOC-B LOC-B O O O O O O O O O O
-정씨, 변호사 교체…이의 소송 준 .	PER-B O O O O O
-“중증 대권병 걸리+ㄴ 야권”이날 새누리당 긴급 의원총회에서 이정현 대표는 “정세균 국회의장의 근본 목적은 내년 대선이다 .	O O O O ORG-B ORG-I ORG-I PER-B O PER-B O O O O O O
-1인당 해외 경비의 55.8%를 쇼핑으로 사용 하+ㄴ다 .	O O O O O O O O
-2015년 한국을 방문하+ㄴ 중국인은 약 600만명으로 추산되+ㄴ다 .	O LOC-B O O O O O O
-기둥만 있고 사방이 트이+ㄴ 구조(필로티 구조)의 주차장 오토바이에서 오전 9시 15분 불이 붙은 뒤 바람을 타고 옆 드림타운 Ⅱ로 번지었다 .	O O O O O O O O O O O O O O O O O LOC-B LOC-I O O
-그는 덴마크와 이스라엘의 집단농업체제를 공부하+ㄴ 유일하+ㄴ 전문가+이었다 .	O ORG-B ORG-B O O O O O
+동강대 사회 복지 과 김철 - 조경희 씨 … 손주 돌보 며 2 년 간 결석 한 번 안 해	ORG-B ORG-I ORG-I ORG-I PER-B O PER-B O O O O O O O O O O O O O
+1988 년 에 관한 고증 과 관련해 “ 맞 다 ” ,	DAT-B DAT-I O O O O O O O O O O
+취재 팀 과 함께 논문 을 검토한 서울 사립대 A 교수 는 “ 학계 의 암묵 적 관행 을 고려해 봐도 죄질 이 나쁘 다 ” 고 전 했 다 .	O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+영동 고속도로 신갈 ∼ 이천 간 37.8 ㎞ 의 4 차선 임시 개방 도 15 일 까지 2 주간 연장 키 로 했 다 .	LOC-B LOC-I LOC-B LOC-I LOC-I O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+정 씨 , 변호사 교체 … 이의 소송 준비	PER-B O O O O O O O O
+“ 중증 대권 병 걸린 야권 ” 이날 새누리당 긴급 의원총회 에서 이정현 대표 는 “ 정세균 국회 의장 의 근본 목적 은 내년 대선 이 다 .	O O O O O O O O ORG-B ORG-I ORG-I O PER-B O O O PER-B O O O O O O O O O O O
+1 인 당 해외 경비 의 55.8 % 를 쇼핑 으로 사용한다 .	O O O O O O O O O O O O O
+2015 년 한국 을 방문한 중국인 은 약 600 만 명 으로 추산된다 .	DAT-B DAT-I LOC-B O O O O O O O O O O O
+기둥 만 있 고 사방 이 트인 구조 ( 필로티 구조 ) 의 주차장 오토바이 에서 오전 9 시 15 분 불 이 붙 은 뒤 바람 을 타 고 옆 드림 타운 Ⅱ 로 번 졌 다 .	O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O
+그 는 덴마크 와 이스라엘 의 집단 농업 체제 를 공부한 유일한 전문가 였 다 .	O O ORG-B O ORG-B O O O O O O O O O O O

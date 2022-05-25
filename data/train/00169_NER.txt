@@ -1,12 +1,12 @@
-그 대신 매년 1억원을 받는다 .	O O O MNY-B O O
-게다가 새누리당 지지층 가운데 나+의 지지자가 꽤 많이 생기었다 .	O ORG-B O O O O O O O O
-강동은 김녕수산 대표(71)는 “일반 양식장에 비하+여성장 속도가 1개월가량 더디+ㄴ 단점이 있지만 항생제를 쓰지 않는 친환경 양식을 하기 때문에 가격은 일반 양식장보다 높다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
-오승환, ‘승률 1위’ 컵스 상대로 호투… 9경기 연속 무실 .	PER-B O O O O O O O O O
-전년(2014년)보다 1위 품목이 128개 나 늘어나 +ㄴ 중국은 세계시장 점유율을 빠르게 끌어올리고 있다 .	O O O O O O O ORG-B O O O O O O
-G5에는 용량 2800mA h의 배터리가 장착되+어 있는데 카메라 모듈을 장착하면 배터리 사용 시간이 1.5배 가까이 늘어나 +았다 .	O O O O O O O O O O O O O O O O O O
-낮에도 일부 지역을 제외하고는 영하 6도에서 0도에 머물+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O O O
-국내 최초 사이버대학이 +ㄴ 경희사이버대의 특징과 입학정보 등을 알아보았다 .	O O O O ORG-B O O O O O
-이대성(45)씨는 전문대학을 졸업하고 1999년 헤드헌터 업계에 뛰어들었다 .	PER-B O O O O O O O
-입찰 신청은 오는 20일 LH 온라인 청약센터에서 가능하며, 22일~24일 계약체결 예정이다 .	O O O O ORG-B O O O O O O O
-한국, 사회복지 지출 OECD 최하위권 … 복지국가가 +ㄹ길 멀었 .	ORG-B O O ORG-B O O O O O O
-주최는 경남예총(회장 공병철)이며 주관은 부산의 KNN 방송이다 .	O ORG-B PER-B O ORG-B ORG-B ORG-I O
+그 대신 매년 1 억 원 을 받 는다 .	O O O MNY-B MNY-I MNY-I O O O O
+게다가 새누리당 지지 층 가운데 내 지지자 가 꽤 많이 생 겼 다 .	O ORG-B O O O O O O O O O O O O
+강동은 김녕수 산 대표 ( 71 ) 는 “ 일반 양식장 에 비해 성장 속도 가 1 개월 가량 더딘 단점 이 있 지만 항생제 를 쓰 지 않 는 친환경 양식 을 하 기 때문 에 가격 은 일반 양식장 보다 높 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오승환 , ‘ 승률 1 위 ’ 컵스 상대 로 호투 … 9 경기 연속 무실점	PER-B O O O O O O O O O O O O O O O
+전년 ( 2014 년 ) 보다 1 위 품목 이 128 개 나 늘어난 중국 은 세계 시장 점유율 을 빠르 게 끌어올리 고 있 다 .	O O DAT-B DAT-I O O O O O O O O O O ORG-B O O O O O O O O O O O O
+G 5 에 는 용량 2800 mAh 의 배터리 가 장착돼 있 는데 카메라 모듈 을 장착하 면 배터리 사용 시간 이 1.5 배 가까이 늘어났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+낮 에 도 일부 지역 을 제외하 고는 영하 6 도 에서 0 도 에 머물 것 으로 예상된다 .	O O O O O O O O O O O O O O O O O O O O
+국내 최초 사이버 대학 인 경희 사이버 대 의 특징 과 입학 정보 등 을 알아 봤 다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O
+이대성 ( 45 ) 씨 는 전문대학 을 졸업하 고 1999 년 헤드 헌터 업계 에 뛰어들 었 다 .	PER-B O O O O O O O O O DAT-B DAT-I O O O O O O O O
+입찰 신청 은 오 는 20 일 LH 온라인 청약 센터 에서 가능하 며 , 22 일 ~ 24 일 계약 체결 예정 이 다 .	O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O
+한국 , 사회 복지 지출 OECD 최 하위권 … 복지 국가 갈 길 멀 었 다	ORG-B O O O O ORG-B O O O O O O O O O O
+주최 는 경남 예총 ( 회장 공병철 ) 이 며 주관 은 부산 의 KNN 방송 이 다 .	O O ORG-B ORG-I O O PER-B O O O O O ORG-B O ORG-B ORG-I O O O

@@ -1,12 +1,12 @@
-‘업무재부팅(RebootingW ork)’의 저자 메이너드 웹은 이렇게 말하+ㄴ다 .	O O O PER-B PER-I O O O
-2005년 이후 외부 FA 영입은 없었지만, 꼭 필요하+ㄴ 내부 선수에게는 대형 계약을 안기며 강 하+ㄴ 저력을 유지하+여+오았다 .	O O O O O O O O O O O O O O O O O O
-그러나 영원하+ㄹ 것 같았던 부자구단 삼성은 스스로 변화를 시작하였다 .	O O O O O ORG-B O O O O
-서울지검 형사3부(최효진 부장검사)는 3일 탁명환 씨 피살 사건을 서울경찰청으로부터 송치받아 이 사건의 범인으로 구속되 +ㄴ임 홍천 씨(26)의 범행 동기와 대성교회 설립자 이+ㄴ 박윤식 목사의 사전 공모 여부 등의 문점을 밝히기 위하+ㄴ 보강수사에 들어가 +았다 .	ORG-B ORG-I ORG-I ORG-I PER-B O O O ORG-B O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O O O O
-이런 현장을 보면서 언젠가 일본에 +아 일본 말 속에 살아 움직이는 우리 조상들의 언어를 발견하는 작업에 몰두 하+ 여보는 일도 좋겠다는 생각을 하+여보았다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
-하지만 다른 예민하+ㄴ 질문에 대하+여서는 트럼프가 대답을 회피하였기 때문에 언론의 관심을 받지 못하였을 뿐이다 .	O O O O O PER-B O O O O O O O O O
-국민연금 기금운용본부는 17일 "지나 +ㄴ 3월 23일 발표되+ㄴ대우조선해양의 자율적 채무조정 방안에 대하여 찬성 결정을 내리었다"고 밝히었다 .	O O O O O O O ORG-B O O O O O O O O O
-일본 부동산그룹도 큐랜드가 ‘도쿄의 랜드마크’를 표방하며 건물 외관을 일본 전통 유리공예인 ‘에도 기리코 양식’으로 꾸미+어개장 전부터 관심을 끌는 곳이다 .	ORG-B O O LOC-B ORG-I O O O ORG-B O O O O O O O O O O O
-박 회장은 이 자리에서 최씨의 국정농단 의혹과 관련 하+여참담 하+ㄴ 심경을 드러내 +었다고 하+ㄴ다 .	PER-B O O O PER-B O O O O O O O O O O
-GoogleStreetView의 시리즈로 잘 알려지+ㄴ 예술가+이다 .	O O O O O O
-지난해 운송회사에서 근무하는 A씨는 화물차를 운전하다 주차장에 주차되+어 있던 2002년 식 BMW 7 시리즈 차량의 측면을 들이받았다 .	O O O PER-B O O O O O O O O O O O O O O
-해당 사고에 대하+여보험 처리를 하+ㄴ A씨는 보험금 지급 내역을 확인하고 깜짝 놀라 +았다 .	O O O O O PER-B O O O O O O O O
+‘ 업무 재 부팅 ( Rebooting Work ) ’ 의 저자 메 이너드 웹 은 이렇 게 말한다 .	O O O O O O O O O O O PER-B PER-I PER-I O O O O O
+2005 년 이후 외부 FA 영입 은 없 었 지만 , 꼭 필요한 내부 선수 에게 는 대형 계약 을 안기 며 강한 저력 을 유지해 왔 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 영원할 것 같 았 던 부자 구단 삼성 은 스스로 변화 를 시작 했 다 .	O O O O O O O O ORG-B O O O O O O O O
+서울 지검 형사 3 부 ( 최효진 부장검사 ) 는 3 일 탁명환 씨 피살 사건 을 서울 경찰청 으로부터 송치 받 아 이 사건 의 범인 으로 구속된 임홍천 씨 ( 26 ) 의 범행 동기 와 대성 교회 설립자 인 박윤식 목사 의 사전 공모 여부 등 의문점 을 밝히 기 위한 보강 수사 에 들어갔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O PER-B O O O DAT-B DAT-I PER-B O O O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O
+이런 현장 을 보 면서 언젠가 일본 에 와 일본 말 속 에 살 아 움직이 는 우리 조상 들 의 언어 를 발견하 는 작업 에 몰두해 보 는 일 도 좋 겠 다는 생각 을 해 보 았 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 다른 예민한 질문 에 대해서 는 트럼프 가 대답 을 회피 했 기 때문 에 언론 의 관심 을 받 지 못 했 을 뿐 이 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+국민 연금 기금 운용 본부 는 17 일 " 지난 3 월 23 일 발표된 대우조선해양 의 자율적 채무 조정 방안 에 대하 여 찬성 결정 을 내 렸 다 " 고 밝 혔 다 .	O O O O O O DAT-B DAT-I O O DAT-B DAT-I DAT-I DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O
+일본 부동산 그룹 도큐 랜드 가 ‘ 도쿄 의 랜드마크 ’ 를 표방하 며 건물 외관 을 일본 전통 유리 공예 인 ‘ 에 도 기 리코 양식 ’ 으로 꾸며 개장 전 부터 관심 을 끄 는 곳 이 다 .	ORG-B O O ORG-B ORG-I O O LOC-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+박 회장 은 이 자리 에서 최 씨 의 국정 농단 의혹 과 관련해 참담한 심경 을 드러냈 다고 한다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O O
+Google Street View 의 시리즈 로 잘 알려진 예술가 다 .	O O O O O O O O O O O
+지난해 운송 회사 에서 근무하 는 A 씨 는 화물차 를 운전하 다 주차장 에 주차 돼 있 던 2002 년 식 BMW 7 시리즈 차량 의 측면 을 들이받 았 다 .	O O O O O O PER-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+해당 사고 에 대해 보험 처리 를 한 A 씨 는 보험금 지급 내역 을 확인하 고 깜짝 놀랐 다 .	O O O O O O O O PER-B O O O O O O O O O O O O

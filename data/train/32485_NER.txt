@@ -1,18 +1,18 @@
-자율주행 차량은 고성능 센서망, 강력 하+ㄴ탐지 및 센서 융합시스템과 클라우드 연결, 선도업체와의 효율적 이+ㄴ 시스템 제휴가 필요하다 .	O O O O O O O O O O O O O O O O O O
-이내영 고려대 정치외교학과 교 .	PER-B ORG-B ORG-I O O
-16일 오후 3시에 생방송되는 중앙일보 인터넷 방송 ‘명의가 보+ㄴ기적’(이하 ‘명의’) 14회에 +ㄴ한미약품 강자훈 상무가 출연하였다 .	O O O O ORG-B O O O O O O ORG-B PER-B O O O
-IT 전문가 이+ㄴ 박용후 피와이에이치 대표는 “스마트폰은 하드웨어와 소프트웨어 경쟁을 동시에 벌이는 분야 이+ㄴ데플렉시블 만큼 강력 하+ㄴ 하드웨어 혁신은 없다”며 “경쟁사에 폴더을·롤러블을 먼저 내주는 결정은 쉽게 내리지 못하+ㄹ 것”이라고 말하였다 .	O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘이동휘와 열애’ 정호연, ‘매끈’ 비키니 뒤태 보니 …男心 초토화 배우 이동휘(30)와 열애 중 이+ㄴ 모델 정호연(21)의 무보정 뒤 태사진이 재조명 받고 있다 .	PER-B O PER-B O O O O O O O PER-B O O O O PER-B O O O O O O O
-정호연은 과거 자신의 소셜미디어에 비키니 자태가 담기 +ㄴ 사진 한 장을 공개하였다 .	PER-B O O O O O O O O O O O O
-사진 속 정호연은 해변가를 배경으로 하늘을 향하+여포즈를 취하고 있다 .	O O PER-B O O O O O O O
-7월 MVP 이+ㄴ 양현종에게는 상금 200만원이 수여되며, KBO는 3일 광주-기아 챔피언스필드에서 열리는 한화와의 경기에 앞서 +어시상식을 가지+ㄹ 예정이다 .	O O O PER-B O MNY-B O ORG-B O O O O ORG-B O O O O O O
-동아닷컴 디지털뉴스팀 기사 제보 dnews@donga. co .	ORG-B ORG-I O O O O O
-청와대에서 합병과 관련 하+여 모종의 신호를 주는 것 아니냐는 오해를 불식하기 위하+여서라도 M&A 심사 기준부터 먼저 밝히+어야 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O
-4년 뒤 이+ㄴ 2005년 쌍둥이를 임신하였는데, 성별검사 결과 또 여아로 밝혀지자 B씨와 시아버지는 A씨에게 임신 중절 수술을 요구하였고, A씨는 이를 받아들이어 낙태하였다 .	O O O O O O O O O O O PER-B O PER-B O O O O PER-B O O O O
-중동 등에 의료서비스 수출 본격화 … 신약 개발 유전체 연구 360억 투 .	LOC-B O O O O O O O O O MNY-B O O
-그는 김정은, 운동권 그리고 경제, 이 세 가지에 승부를 걸었다 .	O PER-B O O O O O O O O O
-웹젠은 KT와 제휴 협력을 맺고 모바일게임 ‘뮤오리진’의 지적재산권(IP) 사업 다각화에 나서 +ㄴ다 .	ORG-B ORG-B O O O O O O O O O O O
-2014년 10월 21일 74㎜가 내리+ㄴ이후 1년째 비다운비가 없었다 .	O O O O O O O O O
-지나+ㄴ 2012년 리잉즈 성형 2년 후 공개되+ㄴ 충격적 이+ㄴ 근황에 하+ㄴ 중국 매체는 "2년간의 성형약발이 끝나 +아가고 있다"며 비판하였다 .	O O PER-B O O O O O O O O LOC-B O O O O O O O O
-우즈는 부상에서 회복 하+여 점점 좋아 지+ㄹ 것이다 .	PER-B O O O O O O O O
-올해는 중국 경기 둔화, 저유가 장기화 등으로 경제 불확실성이 커지면서 3%대 성장률 달성에 빨갛+ㄴ불이 들어 오+ㄴ 상황이다 .	O ORG-B O O O O O O O O O O O O O O O O
+자율 주행 차량 은 고성능 센서 망 , 강력한 탐지 및 센서 융합 시스템 과 클라우드 연결 , 선도 업체 와 의 효율적 인 시스템 제휴 가 필요하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이내영 고려대 정치 외교 학과 교수	PER-B ORG-B ORG-I ORG-I ORG-I O
+16 일 오후 3 시 에 생방송 되 는 중앙일보 인터넷 방송 ‘ 명의 가 본 기적 ’ ( 이하 ‘ 명의 ’ ) 14 회 엔 한미약품 강자훈 상무 가 출연 했 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I O O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O
+IT 전문가 인 박용후 피와 이 에이치 대표 는 “ 스마트 폰 은 하드웨어 와 소프트웨어 경쟁 을 동시 에 벌이 는 분야 인 데 플렉시블 만큼 강력한 하드웨어 혁신 은 없 다 ” 며 “ 경쟁사 에 폴더 블 · 롤러 블 을 먼저 내주 는 결정 은 쉽 게 내리 지 못할 것 ” 이라고 말 했 다 .	O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 이동휘 와 열애 ’ 정호연 , ‘ 매끈 ’ 비키니 뒤태 보 니 … 男心 초토화 배우 이동휘 ( 30 ) 와 열애 중 인 모델 정호연 ( 21 ) 의 무보 정 뒤태 사진 이 재조명 받 고 있 다 .	O PER-B O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O
+정호연 은 과거 자신 의 소셜 미디어 에 비키니 자태 가 담긴 사진 한 장 을 공개 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+사진 속 정호연 은 해변 가 를 배경 으로 하늘 을 향해 포즈 를 취하 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O
+7 월 MVP 인 양현종 에게 는 상금 200 만 원 이 수여되 며 , KBO 는 3 일 광주 - 기아 챔피언스필드 에서 열리 는 한화 와 의 경기 에 앞서 시상식 을 가질 예정 이 다 .	DAT-B DAT-I O O PER-B O O O MNY-B MNY-I MNY-I O O O O ORG-B O DAT-B DAT-I O O O O O O O ORG-B O O O O O O O O O O O O
+동아닷컴 디지털 뉴스 팀 기사 제보 dnews @ donga . com	ORG-B ORG-I ORG-I ORG-I O O O O O O O
+청와대 에서 합병 과 관련해 모종 의 신호 를 주 는 것 아니 냐는 오해 를 불식하 기 위해서 라도 M & A 심사 기준 부터 먼저 밝혀야 한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4 년 뒤 인 2005 년 쌍둥이 를 임신 했 는데 , 성별 검사 결과 또 여아 로 밝혀지 자 B 씨 와 시아버지 는 A 씨 에게 임신 중절 수술 을 요구 했 고 , A 씨 는 이 를 받아들 여 낙태 했 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O
+중동 등 에 의료 서비스 수출 본격화 … 신약 개발 유전체 연구 360 억 투입	LOC-B O O O O O O O O O O O MNY-B MNY-I O
+그 는 김정은 , 운동권 그리고 경제 , 이 세 가지 에 승부 를 걸 었 다 .	O O PER-B O O O O O O O O O O O O O O O
+웹젠 은 KT 와 제휴 협력 을 맺 고 모바일 게임 ‘ 뮤 오리진 ’ 의 지적 재산 권 ( IP ) 사업 다각화 에 나선다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+2014 년 10 월 21 일 74 ㎜ 가 내린 이후 1 년 째 비 다운 비 가 없 었 다 .	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+지난 2012 년 리잉 즈 성형 2 년 후 공개된 충격적 인 근황 에 한 중국 매체 는 " 2 년 간 의 성형 약발 이 끝나 가 고 있 다 " 며 비판 했 다 .	O DAT-B DAT-I PER-B PER-I O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+우즈 는 부상 에서 회복해 점점 좋 아 질 것 이 다 .	PER-B O O O O O O O O O O O O
+올해 는 중국 경기 둔화 , 저 유가 장기화 등 으로 경제 불확실성 이 커지 면서 3 % 대 성장률 달성 에 빨간 불 이 들어온 상황 이 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-지난해까지는 사람들 앞에서 ‘눈물 젖은 두만강’한 자락을 구성지게 뽑아내 +었지만 최근 건강이 급격히 나빠지었다 .	O O O O O O O O O O O O O O O
-앞서 최민용은 KBS2 '해피투게더3'에 출연하+여"19살 길에서 우연히 이상형을 마주치었는데 6개월 후 별관대 본 리딩실에서 그 사람을 다시 만나 +았다"며 "그때나 +ㄴ 주인공이 아니었고 그분은 여자 주인공이었다"고 첫사랑을 언급하+ㄴ바 있다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러나 여소야대 상황에서 국회가 마비되 +ㄴ다면 더민주당에 크+ㄴ 책임이 돌아가 +ㄴ다 .	O O O O O O ORG-B O O O O O
-법에 따르면 획정위는 총선 6개월 전(10월 13일)까지 획정안을 국회에 제출하도록 되+어 있다 .	O O ORG-B O O O O ORG-B ORG-B O O O O
-윤지민씨(41)는 “가뜩이나 집에만 있어서 세상과 단절되+ㄴ 느낌 때문에 괴롭ㄴ데 경단녀 +이라고 부르면 더 위축되는 것+이 사실이다”라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O
-우리나라의 양육법을 소개하+ㄴ 단원의 제목은 '강하+여지는 법을 배우는 한국의 아이들'이+ㅂ니다 .	O O O O O O O O O O O
-왕복 5.6km의 레일바이크 선로 설치 작업은 마무리 단계이며, 시범 운영에 사용되 +ㄹ 4인승 레일바이크 차량 5대를 제작 중이다 .	O O O O O O O O O O O O O O O O O O O
-평균 배당률은 서울 1224배, 제주 2270배, 부경 388배+이었다 .	O O ORG-B O ORG-B O ORG-B O O
-중도금(분양가의 60%)이자, 발코니 확장비, 인기 옵션(중문, 빌트인 오븐, 전기쿡탑) 비용을 지원 하+ㄴ다 .	O O O O O O O O O O O O O
-전경련은 또 이날 성명을 내고 『일부 계층에서 생필품 사재기가 일고 있지만 기업들의 생필품 생산능력이 충분하므로 국민들이 동요하지 말고 냉정하게 대처 하+여달라 』고 당부하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-두 팔로 수리의 두 다리를 붙잡고 있던 사비가 죽어가는 목소리로 수리를 부르었다 .	O O PER-B O O O O PER-B O O PER-B O O
-“버티기 힘들어. 손을 놓을 것 같아, 수리야.” 사비는 눈동자에 가늘+ㄴ 핏줄이 돋았다 .	O O O O O O O PER-B O O O O O
-한국시리즈가 11월까지 넘어가면 문제가 생기+ㄹ 수 있다 .	ORG-B O O O O O O O
-국립발레단 단원들은 이번 작품에서 ‘내숭’을 벗고 ‘천방지축’을 온몸으로 드러내 +ㄹ 예정이다 .	ORG-B ORG-I O O O O O O O O O O
+지난해 까지 는 사람 들 앞 에서 ‘ 눈물 젖 은 두만강 ’ 한 자락 을 구성지 게 뽑아냈 지만 최근 건강 이 급격히 나빠 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 최민용 은 KBS 2 ' 해피투게더 3 ' 에 출연해 " 19 살 길 에서 우연히 이상형 을 마주 쳤 는데 6 개월 후 별관 대본 리딩 실 에서 그 사람 을 다시 만났 다 " 며 " 그때 난 주인공 이 아니 었 고 그분 은 여자 주인공 이 었 다 " 고 첫사랑 을 언급한 바 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 여 소 야 대 상황 에서 국회 가 마비된다면 더 민주당 에 큰 책임 이 돌아간다 .	O O O O O O O O O O ORG-B ORG-I O O O O O O
+법 에 따르 면 획정 위 는 총선 6 개월 전 ( 10 월 13 일 ) 까지 획정 안 을 국회 에 제출하 도록 돼 있 다 .	O O O O ORG-B ORG-I O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O ORG-B O O O O O O O
+윤지민 씨 ( 41 ) 는 “ 가뜩이나 집 에 만 있 어서 세상 과 단절된 느낌 때문 에 괴로 운데 경단 녀 라고 부르 면 더 위축되 는 게 사실 이 다 ” 라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리나라 의 양육법 을 소개한 단원 의 제목 은 ' 강해 지 는 법 을 배우 는 한국 의 아이 들 ' 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+왕복 5.6 km 의 레일 바이크 선로 설치 작업 은 마무리 단계 이 며 , 시범 운영 에 사용될 4 인 승 레일 바이크 차량 5 대 를 제작 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+평균 배당률 은 서울 1224 배 , 제주 2270 배 , 부경 388 배 였 다 .	O O O ORG-B O O O ORG-B O O O ORG-B O O O O O
+중도금 ( 분양 가 의 60 % ) 이자 , 발코니 확장 비 , 인기 옵션 ( 중문 , 빌트인 오븐 , 전기쿡탑 ) 비용 을 지원한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전경련 은 또 이날 성명 을 내 고 『 일부 계층 에서 생필품 사재기 가 일 고 있 지만 기업 들 의 생필품 생산 능력 이 충분하 므로 국민 들 이 동요 치 말 고 냉정하 게 대처해 달 라 』 고 당부 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 팔 로 수리 의 두 다리 를 붙잡 고 있 던 사비 가 죽 어 가 는 목소리 로 수리 를 불 렀 다 .	O O O PER-B O O O O O O O O PER-B O O O O O O O PER-B O O O O O
+“ 버티 기 힘들 어 . 손 을 놓 을 것 같 아 , 수리야 . ” 사비 는 눈동자 에 가는 핏줄 이 돋 았 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+한국 시리즈 가 11 월 까지 넘어가 면 문제 가 생길 수 있 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O
+국립 발레 단 단원 들 은 이번 작품 에서 ‘ 내숭 ’ 을 벗 고 ‘ 천방지축 ’ 을 온몸 으로 드러낼 예정 이 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,16 +1,16 @@
-이태훈 원 .	PER-B O O
-또한 미슐랭 2스타를 받은 임정식 셰프의 레스토랑 ‘정식’에서는 5명이 모이어 한식 중심의 프리가르 아디너도 열 +ㄴ다 .	O O O O ORG-B O O ORG-B O O O O O O O O O
-사드가 현재로서는 북의 핵미사일을 탐지, 요격 하+ㄹ 수 있는 최상의 수단이라는 점을 알리며 설득 하+여야 하+ㄴ다 .	O O LOC-B O O O O O O O O O O O O O O
-미국 증시의 폭락(1929년 10월 24일)으로 대공황이 시작되+ㄴ지 얼마 되지 않아 뉴욕 현대미술관(MoMA·모마)이 문을 열었다 .	LOC-B O O O O O O O O O O ORG-B O O O
-'2016 전국장애학생 e페스티벌' 지역 예선 성 .	O O O O O O O
-실무에 밝은 중도 노선으로 당내 개혁파와 보수파 양쪽으로부터 지지를 받았던 그는 89년6·4천안문 사태 때 강경진압에 적극 동의하지 않고 의견 표명을 보류하였다 .	O O O O O O O O O O O O O O O O O O O O O O
-아시아나항공 현직 기내 승무원 4명도 함께 참여 하+ㄴ 와인 선정회는 프랑스, 이탈리아, 미국, 오스트레일리아 등 다양하+ㄴ 산지의 와인 292종을 대상으로 블라인드 테이스팅(와인 이름과 레이블을 가리고 시음)으로 진행하였다 .	ORG-B O O O O O O O O O LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O O O
-함윤경 대표, 깐깐하+ㄴ 소비자에서 디자이너 CEO로 파스텔 톤의 다양하+ㄴ 색상과 독특하+ㄴ 소재도 길리백팩이 센세이션을 일으키는 데 한몫 +하였다 .	PER-B O O O O O O O O O O O O O O O O O O
-매년 로봇 수요는 30% 가까이 증가하고 있다 .	O O O O O O O O
-24일 선보이+ㄴ 뒤 어제 오후 6시까지의 승인액이 12조원을 넘었다 .	O O O O O O O MNY-B O O
-입학본부는 전국의 군 지역을 대상으로 ‘찾아가는 전형안내’도 실시하고 있다 .	ORG-B O O O O O O O O O
-2-0으로 앞서 +ㄴ 제주는 이때까지 성남 원정에서 0-0으로 맞서 +ㄴ 인천과 골득실차를 1골(인천+3, 제주+2)까지 좁히었다 .	O O O ORG-B O LOC-B O O O O ORG-B O ORG-B ORG-B O O
-▲오후 2시33분 &2시 47분 서울 원정에 나서 +ㄴ 전남이종호 가 득점에 성공하였고, 전국 6개 경기장이하프타임에 돌입하였다 .	TIM-B TIM-B TIM-B TIM-I LOC-B O O O ORG-B O O O O O O O O
-견본주택은 오늘(21일) 문열 +ㄴ다 .	O O O O O
-1981년 연세대 경영학과를 졸업하고 미국 워싱턴대세인트루이스 경영대학원에 입학, MBA에 도전하였다 .	O ORG-B ORG-I O LOC-B ORG-B ORG-I O ORG-B O O
-당초 토트넘은 ‘손흥민이 발을 다치었고 의료진이 상태를 확인하고 있다’며 자세 하+ㄴ부상 정도를 밝히지 않았다 .	O ORG-B PER-B O O O O O O O O O O O O
+이태훈 원장	PER-B O
+또한 미슐랭 2 스타 를 받 은 임정식 셰프 의 레스토랑 ‘ 정식 ’ 에서 는 5 명 이 모 여 한식 중심 의 프리 갈 라 디너 도 연다 .	O O O O O O O PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O
+사드 가 현재 로서 는 북 의 핵 미사일 을 탐지 , 요격할 수 있 는 최상 의 수단 이 라는 점 을 알리 며 설득해야 한다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+미국 증시 의 폭락 ( 1929 년 10 월 24 일 ) 으로 대공황 이 시작된 지 얼마 되 지 않 아 뉴욕현대미술관 ( MoMA · 모마 ) 이 문 을 열 었 다 .	LOC-B O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O
+' 2016 전국 장애 학생 e 페스티벌 ' 지역 예선 성료	O DAT-B O O O O O O O O O
+실무 에 밝 은 중도 노선 으로 당내 개혁파 와 보수파 양쪽 으로부터 지지 를 받 았 던 그 는 89 년 6 · 4 천안문 사태 때 강경 진압 에 적극 동의하 지 않 고 의견 표명 을 보류 했 다 .	O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+아시아나항공 현직 기내 승무원 4 명 도 함께 참여한 와인 선정회 는 프랑스 , 이탈리아 , 미국 , 오스트레일리아 등 다양한 산지 의 와인 292 종 을 대상 으로 블라인드 테이 스팅 ( 와인 이름 과 레이블 을 가리 고 시음 ) 으로 진행 했 다 .	ORG-B O O O O O O O O O O O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+함윤경 대표 , 깐깐한 소비자 에서 디자이너 CEO 로 파스텔 톤 의 다양한 색상 과 독특한 소재 도 길리 백팩 이 센세이션 을 일으키 는 데 한몫 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+매년 로봇 수요 는 30 % 가까이 증가하 고 있 다 .	O O O O O O O O O O O O
+24 일 선보인 뒤 어제 오후 6 시 까지 의 승인 액 이 12 조 원 을 넘 었 다 .	DAT-B DAT-I O O O TIM-B TIM-I TIM-I O O O O O MNY-B MNY-I MNY-I O O O O O
+입학 본부 는 전국 의 군 지역 을 대상 으로 ‘ 찾아가 는 전형 안내 ’ 도 실시하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+2 - 0 으로 앞선 제주 는 이 때 까지 성남 원정 에서 0 - 0 으로 맞선 인천 과 골 득실 차 를 1 골 ( 인천 + 3 , 제주 + 2 ) 까지 좁 혔 다 .	O O O O O ORG-B O O O O LOC-B O O O O O O O ORG-B O O O O O O O O ORG-B O O O ORG-B O O O O O O O O
+▲ 오후 2 시 33 분 & 2 시 47 분 서울 원정 에 나선 전남 이종호 가 득점 에 성공 했 고 , 전국 6 개 경기장 이 하프타임 에 돌입 했 다 .	O TIM-B TIM-I TIM-I TIM-I TIM-I O TIM-B TIM-I TIM-I TIM-I LOC-B O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O
+견본 주택 은 오늘 ( 21 일 ) 문 연다 .	O O O O O DAT-B DAT-I O O O O
+1981 년 연세대 경영학 과 를 졸업하 고 미국 워싱턴 대 세인트루이스 경영 대학원 에 입학 , MBA 에 도전 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O LOC-B ORG-B ORG-I ORG-I ORG-I ORG-I O O O ORG-B O O O O O
+당초 토트넘 은 ‘ 손흥민 이 발 을 다 쳤 고 의료진 이 상태 를 확인하 고 있 다 ’ 며 자세한 부상 정도 를 밝히 지 않 았 다 .	O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O

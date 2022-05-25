@@ -1,12 +1,12 @@
-[경제브리핑] 도미노피자, 씨푸드 퐁듀 세트 출 .	O ORG-B O O O O O
-●젊은 연기자부터 아이돌 그룹 멤버까지 ‘배우 A씨의 몸캠 영상’은 한 남성이 알몸 상태로 음란행위를 하는 모습이 담기 +어 있다 .	O O O O O O PER-B O O O O O O O O O O O O O
-그렇다면 미국은 실제 제국주의 국가 이+ㄴ가.이 책은 한때 제국으로 불리+ㄴ로마와 몽골, 영국, 스페인, 포르투갈, 네덜란드, 미국의 사례를 풍부하게 검토 하+ㄴ 뒤 제국과 제국주의는 분명 다르다고 결론을 내리+ㄴ다 .	O ORG-B O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O
-거제경찰서 교통조사계 관계자는 “당시 이 사고는 인적 피해는 없고 물적 피해만 있는 상황이라 사건을 접수받지도 못하였다”면서 “보험회사에서 고소하+여오면 조사 결과를 인계받아 사건 수사에 착수하+ㄹ 계획”이라 밝히었다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
-현대엔지니어링이 짓는 마곡13단지 힐스테이트 마스터(조감도) +이다 .	ORG-B O LOC-B LOC-I LOC-I O O
-2008년 동북고 시절 대한축구협회의 우수선수 해외유학 프로젝트의 일환으로 분데스리가 함부르크로 유학을 떠나 +ㄴ그는 함부르크 유스팀에서 돋보이는 활약을 펼치면서 성인팀으로 스카우트되었다 .	O ORG-B O ORG-B O O O O ORG-B ORG-B O O O ORG-B ORG-I O O O O O O
-더불어민주당은 20일 지역구 6곳의 전략공천 후보를 확정짓었지만 공천 배제 후 탈당하+ㄴ이 해찬의원 지역구 이+ㄴ 세종시 후보 발표는 또 미루었다 .	ORG-B O O O O O O O O O O O O O LOC-B O O O O O
-지난해 7월 부상으로 SK에서 퇴출되+ㄴ밴와트는 올해 kt유니폼을 입었다 .	O O O ORG-B PER-B O ORG-B O O
-동시에 서울제약이 생산하고 있는 의약품의 정제와 필름제의 제형을 의미하+ㄴ다 .	O ORG-B O O O O O O O O
-그러다 US 여자 오픈에서 9홀 최소 타기록을 세우었다 .	O O O O O O O O O
-이는 미국 중앙정보국(CIA)·지리협회 등에서도 오래전부터 공인되+ㄴ 것이다 .	O ORG-B ORG-B O O O O O
-한·일 프로리그의 유망주들이 어떤 활약을 펼치느냐에 따르 아이번 대회 우승의 향방이 가려지+ㄹ 전망이다 .	O O O O O O O O O O O O O O
+[ 경제 브리핑 ] 도미노 피자 , 씨푸드 퐁듀 세트 출시	O O O O ORG-B ORG-I O O O O O
+● 젊 은 연기자 부터 아이돌 그룹 멤버 까지 ‘ 배우 A 씨 의 몸 캠 영상 ’ 은 한 남성 이 알몸 상태 로 음란 행위 를 하 는 모습 이 담겨 있 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+그렇 다면 미국 은 실제 제국주의 국가 인가 . 이 책 은 한때 제국 으로 불린 로마 와 몽골 , 영국 , 스페인 , 포르투갈 , 네덜란드 , 미국 의 사례 를 풍부하 게 검토한 뒤 제국 과 제국주의 는 분명 다르 다고 결론 을 내린다 .	O O ORG-B O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+거제경찰서 교통 조사 계 관계자 는 “ 당시 이 사고 는 인적 피해 는 없 고 물적 피해 만 있 는 상황 이 라 사건 을 접수 받 지 도 못 했 다 ” 면서 “ 보험 회사 에서 고소해 오 면 조사 결과 를 인계 받 아 사건 수사 에 착수할 계획 ” 이라 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현대엔지니어링 이 짓 는 마곡 13 단지 힐스테이트 마스터 ( 조감도 ) 다 .	ORG-B O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O
+2008 년 동북고 시절 대한축구협회 의 우수 선수 해외 유학 프로젝트 의 일환 으로 분데스리가 함부르크 로 유학 을 떠난 그 는 함부르크 유스 팀 에서 돋보이 는 활약 을 펼치 면서 성인 팀 으로 스카우트 됐 다 .	DAT-B DAT-I ORG-B O ORG-B O O O O O O O O O ORG-B ORG-I O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+더불 어 민주당 은 20 일 지역구 6 곳 의 전략 공천 후보 를 확정 지 었 지만 공천 배제 후 탈당한 이해찬 의원 지역구 인 세종시 후보 발표 는 또 미 뤘 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O PER-B O O O LOC-B O O O O O O O O
+지난해 7 월 부상 으로 SK 에서 퇴출 된 밴 와트 는 올해 kt 유니폼 을 입 었 다 .	O DAT-B DAT-I O O ORG-B O O O PER-B PER-I O O ORG-B O O O O O O
+동시 에 서울 제약 이 생산하 고 있 는 의약품 의 정제 와 필름 제의 제형 을 의미한다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O
+그러 다 US 여자 오픈 에서 9 홀 최소 타 기록 을 세 웠 다 .	O O O O O O O O O O O O O O O O
+이 는 미국 중앙정보국 ( CIA ) · 지리 협회 등 에서 도 오래 전 부터 공인된 것 이 다 .	O O ORG-B ORG-I O ORG-B O O ORG-B ORG-I O O O O O O O O O O O
+한 · 일 프로 리그 의 유망주 들 이 어떤 활약 을 펼치 느냐 에 따 라 이번 대회 우승 의 향방 이 가려질 전망 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O

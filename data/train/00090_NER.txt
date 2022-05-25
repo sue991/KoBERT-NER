@@ -1,14 +1,14 @@
-때문에 조사 결과는 미국 소비자가 자동차 구매 기준으로 적극 활용하+ㄹ뿐만 아니라 업체별 품질 경쟁력을 가늠하는 지표로도 활용되+ㄴ다 .	O O O LOC-B O O O O O O O O O O O O O O
-이번 신차 품질조사는 지난해 11월부터 올해 2월까지 미국에서 판매되+ㄴ 신차를 구입하+ㄴ이들을 대상으로 구입 후 3개월이 지나 +ㄴ 시점에 233개 항목에 대하+ㄴ 품질 만족도를 조사하+여 판매자동차 100대당 불만건수로 나타내 +ㄴ 결과를 토대로 하+ㄴ다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
-투자자들 입장에서는 실투자금 최저 6000만원대(60%대 출시), 중도금 무이자를 비롯하+여골든 튤립 네트워크 이용 시 준회원 대우, 위탁운영 10년 계약, 부가세 신고 무료 대행 등 실속 있는 분양조건이 눈길을 끌+ㄴ다 .	O O O O MNY-B O O O O O O O O O O O O O O O O O O O O O O O O
-‘신동엽과 총각파티’ 김종민, ‘부비부비’ 댄스 추나+였더니 ‘부담 부담’ 민 .	O O PER-B O O O O O O O
-포미닛 해체 이후 온전하+ㄴ 홀로서기에 나서는 현아는 8월 1일 첫 번째 솔로 앨범을 내놓는다 .	ORG-B O O O O O PER-B O O O O O O O O
-프로골퍼의 꿈을 갖고 있는 김유빈(3학년) 학생도 “그동안 골프볼은 선생님이나 주위의 동료들이 추천하+ㄴ 제품을 사용하+여+오았다 .	O O O O PER-B O O O O O O O O O O
-한국수출산업을 주도하는 현대자동차와 포스코의 실적 전망치도 잇따르 아하향 조정되고 있다 .	LOC-B O ORG-B ORG-B O O O O O O O
-최대한 공을 앞까지 끌고 나오아 던지는데, 공궤적이 그렇게 낮게 깔리+어 들어오는 것+ㄴ 처음 +았어요.” 스트라이크 존 모서리에서 꺾이고, 가라앉고, 휘어지고, 솟구치는 변화무쌍 하+ㄴ ‘핀포인트 컨트롤’과 ‘팔색 변화구’.“왜 유희관의 공을 못 치냐”고 타자들에게 물어보면, 십중팔구 박경완과 비슷하+ㄴ 얘기를 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O
-서초구에서는 저층 재건축 아파트가 많은 반포동(27.6%) 잠원동(6.3%) 등의 증가세가 꾸준하였다 .	LOC-B O O O O LOC-B LOC-B O O O O
-아마존 ‘원클릭 페이(OneClickPay)’, 이베이 ‘페이팔(PayPal)’, 알리바바 ‘알리페이(AliPay)’, 구글 ‘체크아웃(Checkout)’, 애플 ‘애플페이(Applepay)’ 등 다양하다 .	ORG-B O O ORG-B O ORG-B O ORG-B O ORG-B ORG-B O O O
-OurHistory 페이스북에 잠깐 오시+어서 '좋아요'를 꾸욱 누르어주시+어요! 홍대 닭곰 .	O O O O O O O LOC-B O O
-다음은 세계 34개 지역 해외 공보관들이 직접 보고 느끼+ㄴ, 부끄럽 ㄴ 한국인의 모습들이다 .	O O O O O O O O O O O O O O
-대상 수상 후 지성은 “배우의 꿈을 안고 경비들을 피하+여서 MBC 드라마 대본을 몰래 훔치고, 어둡 ㄴ 세트장에서 선배님들 연기하는 것을 보면서 배우었던 저에게 이런 대상을 주+시었다”고 말문을 열었다 .	O O O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-훨씬 더 +어서 156평 방 마일의 예상을 깨고 그 3배 이상 이+ㄴ 460평방 마일을 불태우었다고 말하였다 .	O O O O O O O O O O O O O O O O O
+때문 에 조사 결과 는 미국 소비자 가 자동차 구매 기준 으로 적극 활용할 뿐 만 아니 라 업체 별 품질 경쟁력 을 가늠하 는 지표 로 도 활용된다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+이번 신차 품질 조사 는 지난해 11 월 부터 올해 2 월 까지 미국 에서 판매된 신차 를 구입한 이 들 을 대상 으로 구입 후 3 개월 이 지난 시점 에 233 개 항목 에 대한 품질 만족도 를 조사해 판매 자동차 100 대 당 불만 건수 로 나타낸 결과 를 토대 로 한다 .	O O O O O O DAT-B DAT-I O O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+투자자 들 입장 에서 는 실 투자 금 최저 6000 만 원 대 ( 60 % 대출 시 ) , 중도금 무이자 를 비롯해 골든 튤립 네트워크 이용 시 준회원 대우 , 위탁 운영 10 년 계약 , 부가세 신 고 무료 대행 등 실속 있 는 분양 조건 이 눈길 을 끈다 .	O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 신동엽 과 총각 파티 ’ 김종민 , ‘ 부비부비 ’ 댄스 추나 했 더니 ‘ 부담 부담 ’ 민망	O O O O O O PER-B O O O O O O O O O O O O O
+포 미닛 해체 이후 온전한 홀로 서 기 에 나서 는 현아 는 8 월 1 일 첫 번째 솔로 앨범 을 내놓 는다 .	ORG-B ORG-I O O O O O O O O O PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O
+프로 골퍼 의 꿈 을 갖 고 있 는 김유빈 ( 3 학년 ) 학생 도 “ 그동안 골프 볼 은 선생님 이나 주위 의 동료 들 이 추천한 제품 을 사용해 왔 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 수출 산업 을 주도하 는 현대자동차 와 포스코 의 실적 전망 치 도 잇따 라 하향 조정되 고 있 다 .	LOC-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+최대한 공 을 앞 까지 끌 고 나 와 던지 는데 , 공 궤적 이 그렇 게 낮 게 깔려 들어오 는 건 처음 봤 어요 . ” 스트라이크 존 모서리 에서 꺾이 고 , 가라앉 고 , 휘어지 고 , 솟구치 는 변화무쌍한 ‘ 핀 포인트 컨트롤 ’ 과 ‘ 팔 색 변화구 ’ . “ 왜 유희관 의 공 을 못 치 냐 ” 고 타자 들 에게 물어보 면 , 십중팔구 박경완 과 비슷한 얘기 를 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O
+서초구 에서 는 저층 재건축 아파트 가 많 은 반포동 ( 27.6 % ) 잠원동 ( 6.3 % ) 등 의 증가세 가 꾸준 했 다 .	LOC-B O O O O O O O O LOC-B O O O O LOC-B O O O O O O O O O O O O
+아마존 ‘ 원클릭페이 ( OneClickPay ) ’ , 이베이 ‘ 페이 팔 ( PayPal ) ’ , 알리바바 ‘ 알리 페이 ( AliPay ) ’ , 구글 ‘ 체크아웃 ( Checkout ) ’ , 애플 ‘ 애플 페이 ( Applepay ) ’ 등 다양하 다 .	ORG-B O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O
+Our History 페이스북 에 잠깐 오 셔서 ' 좋 아요 ' 를 꾸욱 눌 러 주 세요 ! 홍대 닭곰탕	O O O O O O O O O O O O O O O O O O LOC-B O
+다음 은 세계 34 개 지역 해외 공보관 들 이 직접 보 고 느낀 , 부끄러 운 한국인 의 모습 들 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+대상 수상 후 지성 은 “ 배우 의 꿈 을 안 고 경비 들 을 피해서 MBC 드라마 대본 을 몰래 훔치 고 , 어두 운 세트 장 에서 선배 님 들 연기하 는 것 을 보 면서 배 웠 던 저 에게 이런 대상 을 주 셨 다 ” 고 말문 을 열 었 다 .	O O O PER-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+훨씬 더 커서 156 평방 마일 의 예상 을 깨 고 그 3 배 이상 인 460 평방 마일 을 불태 웠 다고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O

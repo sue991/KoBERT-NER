@@ -1,18 +1,18 @@
-서울대가 올해 자연과학대학 신입생을 대상으로 글쓰기 능력평가를 실시하+ㄴ다 .	ORG-B O O O O O O O O
-3월 출시되 +ㄴ ‘크로스퍼터’(Cross Putter·사진)는 편안하고 쉽ㄴ어드레스와 정확하+ㄴ 퍼팅이 기본 콘셉트다 .	O O O O O O O O O O O O
-방송이 나가고 2주 뒤 이+ㄴ 지나 +ㄴ9월 19일, 한상훈 셰프가 ‘조용히’ 운영 중이라는 신사동 레스토랑에서 그를 만나 +았다 .	O O O O O O O O PER-B O O O O LOC-B O O O O O
-최씨는 지난해 여름 수도권과 강원도의 워터파크 3곳과 야외 수영장 1곳의 샤워실에서 여성들이 샤워하는 모습을 몰래 촬영하+ㄴ 혐의가 있다 .	PER-B O O LOC-B LOC-B O O O O O O O O O O O O O O
-동영상에는 여성, 아동 등 100여명의 얼굴과 신체가 그대로 노출되었으며 ‘워터파크 몰카’라 불리며 유포되 +어 논란이 커지었다 .	O O O O O O O O O O O O O O O O O
-미 국 채권과 달러 등 유동성에도 투자 하+ㄴ다 .	O O O O O O O O O
-아베 신조 내각은 주한 대사 일시 귀국 등 강경 조치 이후 지지율이 올라가 +ㄴ 것에 고무되 +어 있다 .	PER-B PER-I O O O O O O O O O O O O O O O O O
-‘악스트’는 주요 문학 출판사들의 문예지와 맞먹는 판매부수로 돌풍을 일으키+어 화제가 +었다 .	O O O O O O O O O O O O
-블룸버그는 “무엇보다 캐머런은 EU 신규 규제가 주는 충격을 완화하+ㄹ 수 있는 장치를 따+아내 +었다”고 보도하였다 .	PER-B O PER-B ORG-B O O O O O O O O O O O O
-우즈 역시 여전히 자신의 건강상태에 대하+ 여확신을 못하는 상황에서 허리 통증 없이 대회를 치르는 것을 최우선 과제로 삼았다 .	PER-B O O O O O O O O O O O O O O O O O O
-中관광객 주문 폭주에 싱글벙 .	ORG-B O O O O
-0%대 지지율을 보유 하+ㄴ나머지 좀비 후보들로 답이 보이나” +이라며 “자유당 정권 재창출을 위하+ㄴ 가장 파격적 이+ㄴ 인재, 좌파에게서도 표를 가져 오+ㄹ 수 있는 가장 강력 하+ㄴ 확장성, 김용민 외에 답이 있나? 저는 자유당의 안희정”이라고 주장하였다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O ORG-B PER-B O O
-김씨는 “자유당이 계속 제명 조치를 고집하+ㄴ다면 법적 소송을 통하+여당원 지위를 회복하겠다”고 재차 강조하며 “자력으로 자유당의 희망을 만들겠다”고 +였다 .	PER-B ORG-B O O O O O O O O O O O O ORG-B O O O O
-김씨는 지나 +ㄴ 17일 자유한국당에 입당하였다가 이날 오후 8시 입당 8시간에 ‘제명’ 처리를 당하였다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O
-구글은 올해 1년차 운영 과정에서 얻은 피드백을 바탕으로 스타트업의 성장에 실질적으로 도움이 되는 프로그램들을 확충하+여나가 +ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O O O O O O
-브라운스커피는 △근로계약서 작성 △초과근무 수당 지급 △정규직 전환 기회 마련 등을 준수하고 있다 .	PER-B O O O O O O O O O O O O O
-미국과 일본 프로야구를 거치며 이름을 날리+ㄴ 갈베스는 5월 대체선수로 입단 하+여 15경기서 10승 4패 방어율 2.47을 기록하며 승승장구 하었다 .	ORG-B ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O
-2. 최소한 원서 마감 1시간 전에는 마무리하자 대학원 서 접수는 9일(수)부터 15일(화) 사이에 3일 이상 진행 하+ㄴ다는 공동 원칙만 있을 뿐 접수기간, 마감시간 등은 대학 자율적으로 결정 하+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울대 가 올해 자연 과학 대학 신입생 을 대상 으로 글쓰기 능력 평가 를 실시한다 .	ORG-B O O O O O O O O O O O O O O O
+3 월 출시된 ‘ 크로스 퍼터 ’ ( Cross Putter · 사진 ) 는 편안하 고 쉬 운 어드레스 와 정확한 퍼팅 이 기본 콘셉트 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+방송 이 나가 고 2 주 뒤 인 지난 9 월 19 일 , 한상훈 셰프 가 ‘ 조용히 ’ 운영 중 이 라는 신사동 레스토랑 에서 그 를 만났 다 .	O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O PER-B O O O O O O O O O LOC-B O O O O O O O
+최 씨 는 지난해 여름 수도권 과 강원도 의 워터파크 3 곳 과 야외 수영장 1 곳 의 샤워 실 에서 여성 들 이 샤워하 는 모습 을 몰래 촬영한 혐의 가 있 다 .	PER-B O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동영상 에 는 여성 , 아동 등 100 여 명 의 얼굴 과 신체 가 그대로 노출 됐 으며 ‘ 워터 파크 몰카 ’ 라 불리 며 유포돼 논란 이 커 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 채권 과 달러 등 유동성 에 도 투자한다 .	ORG-B O O O O O O O O O
+아베 신조 내각 은 주한 대사 일시 귀국 등 강경 조치 이후 지지율 이 올라간 것 에 고무돼 있 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O
+‘ 악 스트 ’ 는 주요 문학 출판사 들 의 문예지 와 맞먹 는 판매 부수 로 돌풍 을 일으켜 화제 가 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+블룸버그 는 “ 무엇 보다 캐머런 은 EU 신규 규제 가 주 는 충격 을 완화할 수 있 는 장치 를 따 냈 다 ” 고 보도 했 다 .	PER-B O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+우즈 역시 여전히 자신 의 건강 상태 에 대해 확신 을 못하 는 상황 에서 허리 통증 없이 대회 를 치르 는 것 을 최우선 과제 로 삼 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+中 관광객 주문 폭주 에 싱글벙글	ORG-B O O O O O
+0 % 대 지지율 을 보유한 나머지 좀비 후보 들 로 답 이 보이나 ” 라며 “ 자유당 정권 재 창출 을 위한 가장 파격적 인 인재 , 좌파 에게서 도 표 를 가져올 수 있 는 가장 강력한 확장 성 , 김용민 외 에 답 이 있 나 ? 저 는 자유당 의 안희정 ” 이라고 주장 했 다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O ORG-B O PER-B O O O O O O
+김 씨 는 “ 자유당 이 계속 제명 조치 를 고집한다면 법적 소송 을 통해 당원 지위 를 회복하 겠 다 ” 고 재차 강조하 며 “ 자력 으로 자유당 의 희망 을 만들 겠 다 ” 고 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+김 씨 는 지난 17 일 자유 한국 당 에 입당 했 다가 이날 오후 8 시 입당 8 시간 에 ‘ 제명 ’ 처리 를 당 했 다 .	PER-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O
+구글 은 올해 1 년 차 운영 과정 에서 얻 은 피드백 을 바탕 으로 스타트 업 의 성장 에 실질적 으로 도움 이 되 는 프로그램 들 을 확충해 나갈 예정 이 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+브라운스 커피 는 △ 근로 계약서 작성 △ 초과 근무 수당 지급 △ 정규직 전환 기회 마련 등 을 준수하 고 있 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+미국 과 일본 프로야구 를 거치 며 이름 을 날린 갈베스 는 5 월 대체 선수 로 입단해 15 경기 서 10 승 4 패 방어율 2.47 을 기록하 며 승승장구 했 다 .	ORG-B O ORG-B ORG-I O O O O O O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+2 . 최소한 원서 마감 1 시간 전 에 는 마무리 하자 대학 원서 접수 는 9 일 ( 수 ) 부터 15 일 ( 화 ) 사이 에 3 일 이상 진행한다는 공동 원칙 만 있 을 뿐 접수 기간 , 마감 시간 등 은 대학 자율적 으로 결정합니다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I O DAT-B O O DAT-B DAT-I O DAT-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O

@@ -1,16 +1,16 @@
-트럼프의 실언?시진핑 속내?… 한국에 대하+ㄴ 시각 드러내+ .	PER-B PER-B O ORG-B O O O O
-이런 마당에 북핵을 머리에 이고 있는 한국이 국회법 문제를 놓고 아웅다웅 하+ㄴ다는 것이 한가롭게 보이지 않는가 .	O O O O O O ORG-B O O O O O O O O O O
-집에서도 이 나니와 우동을 맛보+ㄹ 수 있도록 면과 소스를 판매하고 있다 .	O O O O O O O O O O O O
-하루 10~15 그릇의 ‘점심 한정 특선 메뉴’를 판매 하+ㄴ다 .	O O O O O O O O O O
-대한산부인과의 사회 “산부인과처럼 다벌리+어?성적 모욕감”…송민호 사과 심경은? 대한산부인과의 사회가 케이블 채널 엠넷의 ‘쇼미더머니4’에 등장하+ㄴ랩 가사에 유감을 표명하고 사과를 요구하였다 .	ORG-B ORG-I O O PER-B O O ORG-B ORG-I O O ORG-B O O O O O O O O
-[부고]최 내정별 세·지현나 현 부친상·남경인 장인 .	O O PER-B O PER-B O O
-다산 정약용은 ‘경세유표’에서 ‘왕골과 미나리를 심었을 경우 그 이익을 벼와 비교하면 두어 갑절되+ㄴ다 .	O PER-B O O O O O O O O O O O O
-그러다 1974년 서울과 인천을 오가는 전철이 개통되면서 손님이 점점 줄었고 지금은 저희까지 포함하+여 5곳이 명맥을 유지하고 있어요. 책방은 단순 하+ㄴ 가게가 아니라 지식의 통로+이에요.지키고 있다는 데 의의를 두 +ㅂ니다 .	O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-또한 소속사는 “오윤아씨는 차기작을 준비하고 있다”고 덧붙이었다 .	O O PER-B O O O O O
-대리 이하도 200만원 이상 … 완성차 추석 상여 ‘기아> 현대>한국GM .	O O MNY-B O O O O O ORG-B ORG-B O
-하니는 스스로 ‘메모 중독’이라고 밝히+ㄴ 만큼 꼼꼼하게 메모를 하며 찾은 단서들로 놀랍ㄴ 활약을 펼치었다 .	PER-B O O O O O O O O O O O O O O
-7일 서울중앙지법 형사합의27부(부장판사 김진동) 심리로 열리+ㄴ이 부회장 등 5명의 뇌물공여 등 혐의 1차 공판에서 양재식 특검보는 “최씨는 며칠 전 (재판에서) 삼성이 선의로 지원하였다고 하고 이 부회장은 강요에 의하+여(지원이) 어쩌+ㄹ 수 없다고 하+ㄴ다”며 이같이 밝히었다 .	O ORG-B ORG-I PER-B O PER-B ORG-I O O O O O O O PER-B O PER-B O O O ORG-B O O O PER-B ORG-I O PER-B O O O O PER-B O O
-일례로 2011년 연체이자 8763만원을 부담하고 있던 대구의 A대리점은 한 달 평균 53대밖에 팔지 못하였지만 월평균 57대를 사도록 강요받았다 .	O O O MNY-B O O LOC-B ORG-B O O O O O O O O O O O
-반면 1년 미만 근속자 비율은 좋은 일자리 근로자가 5.3%로 그렇지 않은 일자리 근로자(54.6%)의 10분의 1에 불과하였다 .	O O O O O O O O O O O O O O O O O
-김 팀장은 “이러하+ㄴ 차이로 인하+여당연히 청년 구직자들은 대기업, 정규직, 유노조 직장을 선호하지만 이 부문의 일자리 양은 전체의 7.6%에 불과하다”며 청년들이 원하는 좋은 일자리가 부족하다고 지적하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-특히 좋은 일자리의 1년 미만 근속자 비율이 5.3%+이라는 것은 이 부문에서 매년 전체 근로자의 5%만을 신규 채용 하+ㄴ다는 것이 +ㄴ데 전체 근로자 수(143만명)에 대입 하+여보면 7만6000명에 불과하다는 설명이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+트럼프 의 실언 ? 시진핑 속내 ? … 한국 에 대한 시각 드러내	PER-B O O O PER-B O O O ORG-B O O O O
+이런 마당 에 북 핵 을 머리 에 이 고 있 는 한국 이 국회법 문제 를 놓 고 아웅다웅 한다는 것 이 한가롭 게 보이 지 않 는가 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+집 에서 도 이나니 와우동 을 맛볼 수 있 도록 면 과 소스 를 판매하 고 있 다 .	O O O O O O O O O O O O O O O O O O O
+하루 10 ~ 15 그릇 의 ‘ 점심 한정 특선 메뉴 ’ 를 판매한다 .	O O O O O O O O O O O O O O O
+대한 산부인과의 사회 “ 산부인과 처럼 다 벌려 ? 성적 모욕감 ” … 송민호 사과 심경 은 ? 대한 산부인과의 사회 가 케이블 채널 엠넷 의 ‘ 쇼 미 더머 니 4 ’ 에 등장한 랩 가사 에 유감 을 표명하 고 사과 를 요구 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O PER-B O O O O ORG-B ORG-I ORG-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+[ 부고 ] 최내정 별세 · 지현 나현 부친상 · 남경인 장인상	O O O PER-B O O PER-B PER-B O O PER-B O
+다산 정약용 은 ‘ 경세유표 ’ 에서 ‘ 왕골 과 미나리 를 심 었 을 경우 그 이익 을 벼 와 비교하 면 두어 갑절 된다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 다 1974 년 서울 과 인천 을 오가 는 전철 이 개통되 면서 손님 이 점점 줄 었 고 지금 은 저희 까지 포함해 5 곳 이 명맥 을 유지하 고 있 어요 . 책방 은 단순한 가게 가 아니 라 지식 의 통로 예요 . 지키 고 있 다는 데 의의 를 둡니다 .	O O DAT-B DAT-I LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 소속 사 는 “ 오윤아 씨 는 차기 작 을 준비하 고 있 다 ” 고 덧붙 였 다 .	O O O O O PER-B O O O O O O O O O O O O O O O
+대리 이하 도 200 만 원 이상 … 완성 차 추석 상여 ‘ 기아 > 현대 > 한국 GM ’	O O O MNY-B MNY-I MNY-I O O O O DAT-B O O ORG-B O ORG-B O ORG-B ORG-I O
+하니 는 스스로 ‘ 메모 중독 ’ 이라고 밝힌 만큼 꼼꼼하 게 메모 를 하 며 찾 은 단서 들 로 놀라 운 활약 을 펼 쳤 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 일 서울중앙지법 형사 합의 27 부 ( 부장판사 김진동 ) 심리 로 열린 이 부회장 등 5 명 의 뇌물 공여 등 혐의 1 차 공판 에서 양재식 특검 보 는 “ 최 씨 는 며칠 전 ( 재판 에서 ) 삼성 이 선의 로 지원 했 다고 하 고 이 부회장 은 강요 에 의해 ( 지원 이 ) 어쩔 수 없 다고 한다 ” 며 이같이 밝 혔 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O ORG-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+일례 로 2011 년 연체이자 8763 만 원 을 부담하 고 있 던 대구 의 A 대리점 은 한 달 평균 53 대 밖에 팔 지 못 했 지만 월 평균 57 대 를 사 도록 강요받 았 다 .	O O DAT-B DAT-I O MNY-B MNY-I MNY-I O O O O O LOC-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+반면 1 년 미만 근속 자 비율 은 좋 은 일자리 근로자 가 5.3 % 로 그렇 지 않 은 일자리 근로자 ( 54.6 % ) 의 10 분 의 1 에 불과 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 팀장 은 “ 이러한 차이 로 인해 당연히 청년 구직자 들 은 대기업 , 정규직 , 유 노조 직장 을 선호하 지만 이 부문 의 일자리 양 은 전체 의 7.6 % 에 불과하 다 ” 며 청년 들 이 원하 는 좋 은 일자리 가 부족하 다고 지적 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 좋 은 일자리 의 1 년 미만 근속 자 비율 이 5.3 % 라는 것 은 이 부문 에서 매년 전체 근로자 의 5 % 만 을 신규 채용한다는 것 인데 전체 근로자 수 ( 143 만 명 ) 에 대입해 보 면 7 만 6000 명 에 불과하 다는 설명 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

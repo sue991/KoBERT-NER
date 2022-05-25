@@ -1,12 +1,12 @@
-영국 나+의 펀드 운용자산 중 ISA 자산의 비중은 2006년 13.8%에서 2013년 22.9%로 높아지었다 .	ORG-B O O O O ORG-B O O O O O O O O
-보건복지부는 올해 초 20대 아버지가 생후 2개월 되+ㄴ 자녀를 숨지게 하는 등 구체적 이+ㄴ 사례를 근거로 게임과몰입 문제를 지적하고 있으며, 지나 +ㄴ 2월 열리+ㄴ 제78회 국가정책조정회의에서 인터넷 중독에 대하+ㄴ 질병코드를 신설하겠다고 밝히기도 +였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-임대료를 개인이 아니+ㄴ미군 주택과에서 지급하기 때문에 안정적이고, SOFA 협정에 의하+여 2060년까지 전체 주한미군이 유지하도록 되어 있어 향후 40∼50년간 공실 걱정이 없고 지속적 고수익 창출이 가능하다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
-주한미군 평택 이전 내년까지 시설 준공 및 이주예정 요즘 수도권 남부의 신성장 경제도시 이+ㄴ 평택시의 부동산 개발 열기가 뜨겁다 .	ORG-B LOC-B O O O O O O O O O O O O LOC-B O O O O O
-한국은 사상 첫 4강을 목표로 이 대회에 나서 +ㄴ다 .	ORG-B O O O O O O O O O
-오늘 녹화 분위기 정말 좋았다”며 강승현의 존재를 빛내 +었다 .	O O O O O PER-B O O O O
-주승용 의원은 “혁신위에 대하+ㄴ 실패평가가 나오면 문 대표 사퇴론도 나오+ㄹ 수 있다”고 +였다 .	PER-B O O O O O PER-B O O O O O O O
-진학자 가운데 101명은 서울의 유명 국·사립대, 지역 국립대, 과학기술 특목대, 경찰대, 육군사관학교 등에 합격하였다 .	O O O LOC-B O O O O O O ORG-B ORG-B O O O
-기혼 직장인이 평균 3640원 덜 쓰는 것이다 .	O O O MNY-B O O O O
-가입자의 90%는 은행의 ISA를 선택하+ㄴ 것으로 나타나 +았지만 1인당 평균 가입금액은 증권사가 263만원으로 은행(50만원)보다 5배 넘게 많았다 .	O O O O O O O O O O O O MNY-B MNY-B O O O O
-매년 로열발레학교 출신 무용수 30여명 중 2, 3명만이 로열발레단에 입단 하+ㄴ다 .	O ORG-B O O O O O O ORG-B ORG-I O O
-朴 대통령 “메르스는 중동식 독감” 수업 재개초등학교 방문…학부모 및 교사간담회 진행“메르스(중동호흡기증후군) +이라는 것+이 어떻게 보면 중동식 독감이라고 하+ㄹ 수 있다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+영국 내 펀드 운용 자산 중 ISA 자산 의 비중 은 2006 년 13.8 % 에서 2013 년 22.9 % 로 높아 졌 다 .	ORG-B O O O O O ORG-B O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O
+보건 복지 부 는 올해 초 20 대 아버지 가 생후 2 개월 된 자녀 를 숨지 게 하 는 등 구체적 인 사례 를 근거 로 게임 과 몰입 문제 를 지적하 고 있 으며 , 지난 2 월 열린 제 78 회 국가 정책 조정 회의 에서 인터넷 중독 에 대한 질병 코드 를 신설하 겠 다고 밝히 기 도 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+임대료 를 개인 이 아닌 미군 주택 과 에서 지급하 기 때문 에 안정적 이 고 , SOFA 협정 에 의해 2060 년 까지 전체 주한 미군 이 유지하 도록 되 어 있 어 향후 40 ∼ 50 년 간 공실 걱정 이 없 고 지속적 고수익 창출 이 가능하 다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O DAT-B DAT-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+주한 미군 평택 이전 내년 까지 시설 준공 및 이주 예정 요즘 수도권 남부 의 신 성장 경제 도시 인 평택시 의 부동산 개발 열기 가 뜨겁 다 .	ORG-B ORG-I LOC-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O
+한국 은 사상 첫 4 강 을 목표 로 이 대회 에 나선다 .	ORG-B O O O O O O O O O O O O O
+오늘 녹화 분위기 정말 좋 았 다 ” 며 강승현 의 존재 를 빛냈 다 .	O O O O O O O O O PER-B O O O O O O
+주승용 의원 은 “ 혁신 위 에 대한 실패 평가 가 나오 면 문 대표 사퇴 론 도 나올 수 있 다 ” 고 했 다 .	PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+진학 자 가운데 101 명 은 서울 의 유명 국 · 사립대 , 지역 국립대 , 과학 기술 특목 대 , 경찰대 , 육군 사관 학교 등 에 합격 했 다 .	O O O O O O LOC-B O O O O O O O O O O O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O
+기혼 직장인 이 평균 3640 원 덜 쓰 는 것 이 다 .	O O O O MNY-B MNY-I O O O O O O O
+가입자 의 90 % 는 은행 의 ISA 를 선택한 것 으로 나타났 지만 1 인 당 평균 가입 금액 은 증권사 가 263 만 원 으로 은행 ( 50 만 원 ) 보다 5 배 넘 게 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+매년 로열 발레 학교 출신 무용수 30 여 명 중 2 , 3 명 만 이 로열 발레 단 에 입단한다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O
+朴 대통령 “ 메르스 는 중동 식 독감 ” 수업 재개 초등학교 방문 … 학부모 및 교사 간담회 진행 “ 메르스 ( 중동 호흡기 증후군 ) 라는 게 어떻 게 보 면 중동 식 독감 이 라고 할 수 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

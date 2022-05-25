@@ -1,15 +1,15 @@
-C교사가 여학생을 성추행 하+ㄴ 것으로 알려지+ㄴ과학실은 그 안에 별도의 방이 있다 .	PER-B O O O O O O O O O O O
-또 소방관 11년차+이라는 한 청중의 사연을 듣고, 그의 아버지까지 두 사람을 무대로 초대하+여 즉흥곡을 함께 연주하+ㄴ다 .	O O O O O O O O O O O O O O O O O
-그러나 학생 수가 급감하면서 폐교되었고, 2005년 완도군이 1억여원에 매입하+여고 금요 양원으로 변모시키었다 .	O O O O O O LOC-B MNY-B MNY-I O O O O
-간혹 너구리에서 통다시마가 두 장씩 나오기도 하는데 이는 소비자들 사이에서 행운의 상징으로도 여기 +어지+ㄴ다 .	O O O O O O O O O O O O O O O
-서울행정법원 행정1부(부장판사 이승택)는 “A씨의 사망과 업무와의 인과관계가 인정되+ㄴ다”며 “유족급여 및 장의비를 지급하라”고 원고 승소 판결하였다고 10일 밝히었다 .	ORG-B ORG-I PER-B PER-B O O O O O O O O O O O O O O
-1975년에 중고교생이었던 이들이 이제는 부모 세대가 되었습니다 .	O O O O O O O O
-조씨는 박근혜 대통령과 친분관계가 있는 것처럼 과시하고 대기업에 실제로 취업해 고액 연봉을 받고 근무하+ㄴ 혐의로 기소되+어 지난해 12월 1심에서 징역 10개월을 선고받았다 .	PER-B PER-B O O O O O O O O O O O O O O O O O O O O O
-여성의용소방대원은 치마를 입도록 한 정복 규정도 치마 또는 바지로 수정하였다 .	O O O O O O O O O O O
-이 정도로 노인성 난청이 진행되면 본인도 본인이지만 가족들이나 주변 사람들과의 문제가 시작되+ㄴ다 .	O O O O O LOC-B LOC-B O O O O O O
-기본짜장면부터 간짜장·삼선짜장·삼선 간짜장·납작짜장·납짝고추 짜장·고추 짜장·볶음 짜장 등 8종류의 다양하+ㄴ짜장면이 있다 .	O O O O O O O O O O O
-외국인이 7일 연속 사들이 +ㄴ 주식은 2조250억원에 달하+ㄴ다 .	O O O O O O MNY-B O O
-추신수 9월 타율 4할… ‘이달의 MVP’ 보이+ㄴ .	PER-B O O O O O O O
-서울 웨스틴조선호텔 중식당 홍연은 3월 2일(월)부터 31일(화)까지 한 달간 봄날의 화창하+ㄴ 기운을 담은 ‘춘풍화기(春風和氣)’ 특선을 선보이+ㄴ다 .	LOC-B LOC-I O ORG-B O O O O O O O O O O O O O
-그렇 +ㅁ에도 김인식 대표팀 감독(70)이 각각 2회의 연습경기와 평가전에서 손아섭을 모두 선발로 내보내+ㄴ 것+ㄴ 공격력에 대하+ㄴ 믿음 때문이었다 .	O O PER-B ORG-B O O O O O PER-B O O O O O O O O O
-후배들이 마린스키 발레단과 러시아에 오더라도 어깨를 펴고 뿌듯하게 맞아 주+ㄹ 수 있을 것 같다 .	O ORG-B ORG-I ORG-B O O O O O O O O O O O
+C 교사 가 여학생 을 성추행한 것 으로 알려진 과학 실 은 그 안 에 별도 의 방 이 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+또 소방관 11 년 차 라는 한 청중 의 사연 을 듣 고 , 그 의 아버지 까지 두 사람 을 무대 로 초대해 즉흥곡 을 함께 연주한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 학생 수 가 급감하 면서 폐교 됐 고 , 2005 년 완도군 이 1 억 여 원 에 매입해 고금 요양원 으로 변모 시 켰 다 .	O O O O O O O O O O DAT-B DAT-I LOC-B O MNY-B MNY-I MNY-I MNY-I O O ORG-B ORG-I O O O O O O
+간혹 너구리 에서 통 다시마 가 두 장 씩 나오 기 도 하 는데 이 는 소비자 들 사이 에서 행운 의 상징 으로 도 여겨 진다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울 행정 법원 행정 1 부 ( 부장판사 이승택 ) 는 “ A 씨 의 사망 과 업무 와 의 인과 관계 가 인정된다 ” 며 “ 유족 급여 및 장의 비 를 지급하 라 ” 고 원고 승소 판결 했 다고 10 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+1975 년 에 중 고교생 이 었 던 이 들 이 이제 는 부모 세대 가 되 었 습니다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+조 씨 는 박근혜 대통령 과 친분 관계 가 있 는 것 처럼 과시하 고 대기업 에 실제로 취업 해 고액 연봉 을 받 고 근무한 혐의 로 기소돼 지난해 12 월 1 심 에서 징역 10 개월 을 선고 받 았 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+여성 의용 소방대원 은 치마 를 입 도록 한 정복 규정 도 치마 또는 바지 로 수정 했 다 .	O O O O O O O O O O O O O O O O O O O O
+이 정도 로 노인성 난청 이 진행되 면 본인 도 본인 이 지만 가족 들 이나 주변 사람 들 과 의 문제 가 시작된다 .	O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O
+기본 짜장면 부터 간 짜장 · 삼선짜장 · 삼선 간 짜장 · 납작 짜장 · 납짝 고 추 짜장 · 고추 짜장 · 볶음 짜장 등 8 종류 의 다양한 짜장면 이 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+외국인 이 7 일 연속 사들인 주식 은 2 조 250 억 원 에 달한다 .	O O DAT-B DAT-I O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+추신수 9 월 타율 4 할 … ‘ 이달 의 MVP ’ 보인다	PER-B DAT-B DAT-I O O O O O O O O O O
+서울 웨스틴조선호텔 중 식당 홍연 은 3 월 2 일 ( 월 ) 부터 31 일 ( 화 ) 까지 한 달 간 봄날 의 화창한 기운 을 담 은 ‘ 춘풍화기 ( 春風和氣 ) ’ 특선 을 선보인다 .	LOC-B LOC-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그럼에도 김인식 대표 팀 감독 ( 70 ) 이 각각 2 회 의 연습 경기 와 평가전 에서 손아섭 을 모두 선발 로 내보낸 건 공격력 에 대한 믿음 때문 이 었 다 .	O PER-B ORG-B ORG-I O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+후배 들 이 마린스키 발레 단 과 러시아 에 오 더라도 어깨 를 펴 고 뿌듯하 게 맞 아 줄 수 있 을 것 같 다 .	O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O

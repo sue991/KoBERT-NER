@@ -1,12 +1,12 @@
-전년 대비 2000원 정도 떨어지+ㄴ 수준이다 .	O O MNY-B O O O O
-최 회장은 2006년 11월 남편(고조수호 한진해운 회장)이 작고하자 이듬해부터 8년간 한진해운을 경영하었다 .	PER-B O O O PER-B ORG-B O O O O ORG-B O O
-기자가 직접 운전 하+ㄴ 구간은 김포에서 -잠실로 돌아오는 편도 52km 구간이다 .	O O O O O LOC-B LOC-B O O O O O
-15일 KBS2TV 새월화 드라마 '너를 기억하+여'(극본권기영, 연출 노상훈, 김진원 제작 CJ E&M)가 이준영역으로 특별출연하는 도경수사진을 공개하였다 .	O O O O O PER-B O PER-B PER-B O ORG-B ORG-I PER-B O PER-B O O
-중국 유명 록그룹의 기타리스트 출신 이+ㄴ그는 “한국에 특별 하+ㄴ 관심이 없다”고 말하였다 .	ORG-B O O O O O LOC-B O O O O O O
-최근 쇼핑몰 G마켓이 대도서관·씬님·밴쯔 등 유명 크리에이터 12명을 출연시키+ㄴ 홍보 영상 ‘쇼핑 어벤G스’로 제품 판매량을 6배 이상 올리면서 ‘커머스 크리에이터’ 분야도 주목받고 있다 .	O O ORG-B PER-B O O O O O O O O ORG-B O O O O O O O O O O O
-이씨는 우연히 SNS에 올라 오+ㄴ일출 사진을 보고 지나 +ㄴ5월 마지막 멤버로 합류하였다 .	PER-B O O O O O O O O O O O O
-김정남은 북한의 세습에 반대하+ㄴ다고 말하면서 온몸에 진땀을 흘리며 괴롭ㄴ기 색이었다 .	PER-B ORG-B O O O O O O O O O
-안영명의 어깨 부상과 쉐인 유먼의 방출로 구멍 나+ㄴ 선발진을 메우어야 하+ㄹ 임무를 안고 28일 두산 전에 등판하었다 .	PER-B O O PER-B PER-I O O O O O O O O O O O O O
-당국은 이 섬에 영향력을 미치고 있는 이슬람계 반군이 +ㄴ아부사야프의 소행으로 추정 하+ㄴ바 있다 .	O O O O O O ORG-B O ORG-B O O O O O
-외교부는 지나 +ㄴ 1일 “우리 국민(홍씨)으로 추정되는 시신이 발견되+어 필리핀 당국과 가족이 현지에서 확인 절차를 진행 중”이라면서 “정확하+ㄴ 사실이 파악되는 대로 공개하+ㄹ 예정”이라고 전하였다 .	ORG-B O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O
-이달 초 한 시민단체가 신한사태 때 지주 부사장으로 일하였던 위 내정자가 라응찬 전 그룹 회장을 돕기 위 하+여위증을 +였다며 고발하는 소동도 벌어지었다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O
+전년 대비 2000 원 정도 떨어진 수준 이 다 .	O O MNY-B MNY-I O O O O O O
+최 회장 은 2006 년 11 월 남편 ( 고 조수호 한진해운 회장 ) 이 작고하 자 이듬해 부터 8 년 간 한진해운 을 경영 했 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O O O PER-B ORG-B O O O O O O O O O O ORG-B O O O O O
+기자 가 직접 운전한 구간 은 김포 에서 - 잠실 로 돌아오 는 편도 52 km 구간 이 다 .	O O O O O O LOC-B O O LOC-B O O O O O O O O O O
+15 일 KBS 2 TV 새 월 화 드라마 ' 너 를 기억해 ' ( 극본 권기영 , 연출 노상훈 , 김진원 제작 CJ E & M ) 가 이준영 역 으로 특별 출연 하 는 도경수 사진 을 공개 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O PER-B O O PER-B O PER-B O ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O PER-B O O O O O O
+중국 유명 록 그룹 의 기타리스트 출신 인 그 는 “ 한국 에 특별한 관심 이 없 다 ” 고 말 했 다 .	ORG-B O O O O O O O O O O LOC-B O O O O O O O O O O O O
+최근 쇼핑몰 G 마켓 이 대 도서관 · 씬 님 · 밴 쯔 등 유명 크리에이터 12 명 을 출연 시킨 홍보 영상 ‘ 쇼핑 어 벤 G 스 ’ 로 제품 판매량 을 6 배 이상 올리 면서 ‘ 커머스 크리에이터 ’ 분야 도 주목 받 고 있 다 .	O O ORG-B ORG-I O PER-B PER-I O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 씨 는 우연히 SNS 에 올라온 일출 사진 을 보 고 지난 5 월 마지막 멤버 로 합류 했 다 .	PER-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+김정남 은 북한 의 세습 에 반대한다고 말하 면서 온몸 에 진땀 을 흘리 며 괴로 운 기색 이 었 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O
+안영명 의 어깨 부상 과 쉐인 유먼 의 방출 로 구멍 난 선발 진 을 메 워야 할 임무 를 안 고 28 일 두산 전 에 등판 했 다 .	PER-B O O O O PER-B PER-I O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+당국 은 이 섬 에 영향력 을 미치 고 있 는 이슬람 계 반군 인 아부사야프 의 소행 으로 추정한 바 있 다 .	O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O
+외교 부 는 지난 1 일 “ 우리 국민 ( 홍 씨 ) 으로 추정되 는 시신 이 발견돼 필리핀 당국 과 가족 이 현지 에서 확인 절차 를 진행 중 ” 이 라면서 “ 정확한 사실 이 파악되 는 대로 공개할 예정 ” 이라고 전 했 다 .	ORG-B ORG-I O O DAT-B DAT-I O O O O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이달 초 한 시민 단체 가 신한 사태 때 지주 부사장 으로 일 했 던 위 내정자 가 라응찬 전 그룹 회장 을 돕 기 위해 위증 을 했 다며 고발하 는 소동 도 벌어 졌 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O

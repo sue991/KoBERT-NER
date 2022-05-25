@@ -1,9 +1,9 @@
-나른 하+여지는 5월의 디저트로티 라미수를 추천하+ㄴ다 .	O O O O O O O
-이탈리아를 대표하는 디저트 이+ㄴ 티라미수는 커피와 카카오의 향이 마스카포네 치즈와 잘 어우러지+어환상의 맛을 내+ㄴ다 .	ORG-B O O O O O O O O O O O O O O
-기재부 관계자는 “전국에서 진행되는 모든 사업을 면밀하게 확인하지 못하+ㄴ 것+ㄴ 사실”이라고 인정하였다 .	ORG-B O O O O O O O O O O O O
-체외진단의료기기 전문기업 피씨엘이 23일 기술특례를 통하+여코스닥에 상장하+ㄴ다 .	O O ORG-B O O ORG-B O O
-정민군은 이러하+ㄴ 동화와 같은 스토리부터 아이템, 규칙 그리고 직접 그리+ㄴ 그림을 토대로 하+ㄴ 디자인 등을 게임에 담아내 +었습니다 .	O O O O O O O O O O O O O O O O O O O
-고속·교통순찰차로는 기아자동차의 캐피탈이 사용되었다 .	O ORG-B O O O
-미국인 53% “대북 무력 사용 지지”… “북핵 문제 외교로 풀 수 있다 .	O O O O O O O O O O O O O
-그나마 서비스 생산은 0.1% 증가하였다 .	O O O O O O
-‘인간의사’의 결론은 항암제 치료가 필요하다는 것.백 교수는 ‘왓슨’ 홈페이지에 접속하였다 .	O O O O O PER-B O O O O O
+나른해 지 는 5 월 의 디저트 로 티라미수 를 추천한다 .	O O O DAT-B DAT-I O O O O O O O
+이탈리아 를 대표하 는 디저트 인 티라미수 는 커피 와 카카오 의 향 이 마스 카포네 치즈 와 잘 어우러져 환상 의 맛 을 낸다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+기재부 관계자 는 “ 전국 에서 진행되 는 모든 사업 을 면밀하 게 확인하 지 못한 건 사실 ” 이라고 인정 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+체외 진단 의료 기기 전문 기업 피씨엘 이 23 일 기술 특례 를 통해 코스닥 에 상장한다 .	O O O O O O ORG-B O DAT-B DAT-I O O O O ORG-B O O O
+정민군 은 이러한 동화 와 같 은 스토리 부터 아이템 , 규칙 그리고 직접 그린 그림 을 토대 로 한 디자인 등 을 게임 에 담아냈 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고속 · 교통 순찰차 로 는 기아자동차 의 캐피탈 이 사용 됐 다 .	O O O O O O ORG-B O O O O O O O
+미국인 53 % “ 대북 무력 사용 지지 ” … “ 북 핵 문제 외교 로 풀 수 있 다 ”	O O O O O O O O O O O O O O O O O O O O O
+그나마 서비스 생산 은 0.1 % 증가 했 다 .	O O O O O O O O O O
+‘ 인간 의사 ’ 의 결론 은 항암제 치료 가 필요하 다는 것 . 백 교수 는 ‘ 왓슨 ’ 홈페이지 에 접속 했 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O

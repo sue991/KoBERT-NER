@@ -1,15 +1,15 @@
-특히 지난달 27일에는 동굴 내 특설링에서 세계 최초로 타이틀매치도 열리었다 .	O O O O O O O O O O O
-한·일 국교정상화가 이루어 지+었던 65년 양국의 상호 방문자는 연간 1만명도 되지 않았습니다 .	ORG-B O O O O O O O O O O O O
-병약하었던 문종은 재위 3년을 채우지 못하고 사망하였다 .	O O O O O O O O
-잇어 재개되+ㄴ경기에서 한국은 3골차 리드를 지키며 승리를 따+아내 +었다 .	O LOC-B ORG-B O O O O O O O
-미국은 23일 미국 캘리포니아주 LA 다저스타디움에서 열리+ㄴ 2017WBC 결승에서 푸에르토리코를 8-0으로 이기었다 .	LOC-B O LOC-B LOC-I LOC-B LOC-I O O O ORG-B O O O
-올해 시즌부터 미네소타에 둥지를 틀게 되+ㄴ 홈런왕 박병호의 애칭은 ‘파크뱅(ParkBang)’이다 .	O O ORG-B O O O O PER-B O PER-B O
-임대료는 연간 상승률이 5% 이하로 묶이+ㄴ다 .	O O O O O O O
-‘무단횡단 사망사고’ 운전자 무죄, 블랙박스 영상 보니 무리하게 무단횡단 40대 운전자가 무단횡단하는 보행자를 치어 숨지게 하+ㄴ 혐의로 기소되었으나 무죄를 선고받았다 .	O O O O O O O O O O O O O O O O O O O O O
-그 항목은 과연 무엇이 +ㄹ까요?김 과장은 그 생각을 한참하고 있다가 작은 목소리로 이렇게 뇌까리었습니다 .	O O O O PER-B O O O O O O O O O O
-국토부는 이처럼 단절 구간을 연결하고 기존 노선을 급행화하는 데 총 2조1565억원이 들+ㄹ 것으로 추산하였다 .	ORG-B O O O O O O O O O MNY-B O O O O
-26일(현지시각) AP통신 등 외신에 따르면 보스턴에 있는 RR옥션은 케네디 전 대통령의 일기장을 경매에 부치+어 71만8750달러에 낙찰되었다고 밝히었다 .	O O O O O ORG-B O ORG-B PER-B O O O O O MNY-B O O O
-그렇게 하+여서 두 달간 15kg을 빼+었다”고 밝히+어놀라움을 자아내 +었다 .	O O O O O O O O O O
-한편 올해 부산국제영화제는 총 11개 부문 75개국의 영화 304편을 영화의전당과 해운대 메가박스·센텀시티롯데시네마·남포동 부산극장 등 6개 극장 41개 스크린에서 만나 +아보+ㄹ 수 있다 .	O O LOC-B O O O O LOC-B O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O
-이번 부산국제영화제의 개막 작품은 모제스싱 감독의 장편 데뷔작 ‘주바안’, 폐막작은 중국 래리 양 감독의 ‘산이 울다’가 상영되 +ㄴ다 .	O O O O PER-B O O O O O ORG-B PER-B PER-I O O O O O O
-이 사장은 기자에게 “일본 학교에서 +ㄴ 조선 침략의 역사에 대하+여제대로 가르치지 않는다” +이라며 “이렇게라도 찾아오는 학생들을 보면 뿌듯하다”라고 말하였다 .	O O O ORG-B O O ORG-B O O O O O O O O O O O O O
+특히 지난달 27 일 에 는 동굴 내 특설 링 에서 세계 최초 로 타이틀 매치 도 열 렸 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+한 · 일 국교 정상화 가 이뤄졌 던 65 년 양국 의 상호 방문 자 는 연간 1 만 명 도 되 지 않 았 습니다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+병약 했 던 문종은 재위 3 년 을 채우 지 못하 고 사망 했 다 .	O O O O O O O O O O O O O O O O
+이 어 재개된 경기 에서 한국 은 3 골 차 리드 를 지키 며 승리 를 따 냈 다 .	O O O LOC-B O ORG-B O O O O O O O O O O O O O O
+미국 은 23 일 미국 캘리포니아주 LA 다저스타디움 에서 열린 2017 WBC 결승 에서 푸에르토리코 를 8 - 0 으로 이 겼 다 .	ORG-B O DAT-B DAT-I LOC-B LOC-I LOC-B LOC-I O O O O O O ORG-B O O O O O O O O O
+올해 시즌 부터 미네소타 에 둥지 를 틀 게 된 홈런 왕 박병호 의 애칭 은 ‘ 파크 뱅 ( ParkBang ) ’ 이 다 .	O O O ORG-B O O O O O O O O PER-B O O O O PER-B PER-I O PER-B O O O O O
+임대료 는 연간 상승 률 이 5 % 이하 로 묶 인다 .	O O O O O O O O O O O O O
+‘ 무단 횡단 사망 사고 ’ 운전자 무죄 , 블랙박스 영상 보 니 무리하 게 무단 횡단 40 대 운전자 가 무단 횡단 하 는 보행자 를 치 어 숨지 게 한 혐의 로 기소 됐 으나 무죄 를 선고 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 항목 은 과연 무엇 일까 요 ? 김 과장 은 그 생각 을 한참 하 고 있 다가 작 은 목소리 로 이렇 게 뇌까 렸 습니다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+국토 부 는 이 처럼 단절 구간 을 연결하 고 기존 노선 을 급행 화 하 는 데 총 2 조 1565 억 원 이 들 것 으로 추산 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O
+26 일 ( 현지 시각 ) AP 통신 등 외신 에 따르 면 보스턴 에 있 는 RR 옥션 은 케네디 전 대통령 의 일기장 을 경매 에 부쳐 71 만 8750 달러 에 낙찰 됐 다고 밝 혔 다 .	DAT-B DAT-I O O O O O O O O O O O ORG-B O O O ORG-B ORG-I O PER-B O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O
+그렇 게 해서 두 달 간 15 kg 을 뺐 다 ” 고 밝혀 놀라움 을 자아냈 다 .	O O O O O O O O O O O O O O O O O O O
+한편 올해 부산 국제영화제 는 총 11 개 부문 75 개국 의 영화 304 편 을 영화 의 전당 과 해운대 메가박스 · 센텀시티 롯데시네마 · 남포동 부산극장 등 6 개 극장 41 개 스크린 에서 만나 볼 수 있 다 .	O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O
+이번 부산 국제 영화제 의 개막 작품 은 모제스 싱 감독 의 장편 데뷔작 ‘ 주 바안 ’ , 폐막 작 은 중국 래리 양 감독 의 ‘ 산 이 울 다 ’ 가 상영된다 .	O O O O O O O O PER-B PER-I O O O O O O O O O O O O ORG-B PER-B PER-I O O O O O O O O O O O
+이 사장 은 기자 에게 “ 일본 학교 에선 조선 침략 의 역사 에 대해 제대로 가르치 지 않 는다 ” 라며 “ 이렇 게 라도 찾아오 는 학생 들 을 보 면 뿌듯하 다 ” 라고 말 했 다 .	O O O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

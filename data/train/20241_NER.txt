@@ -1,11 +1,11 @@
-한편 하춘화는 6살 이+ㄴ 1961년에 노래 ‘효녀 심청되오리다’로 데뷔 하+여 ‘난생 처음’ ‘우리사랑 가슴으로’ ‘연인의 부르스’ 등의 히트곡을 남기었다 .	O PER-B O O O O O O O O O O O O O O O O O O
-컴백 앞두 +ㄴ EXID ‘팬이 먼저 +이다 .	O O O ORG-B O O O O
-반면 현장세가 하락 하+여지수가 9백선에 이르+ㄹ 경우에는 적극적 이+ㄴ 매수를 권하고 싶다 .	O O O O O O O O O O O O O
-KBS2TV 월화 드라마 ‘뷰티풀 마인드’(극본 김태희, 연출모완이+ㄹ, 이재훈, 제작래 몽래 이+ㄴ)에서 그 어떤 어렵 ㄴ 수술도 도맡아 해내는 실력파의 사장혁이 열리었던 마음의 문을 다시 닫았다 .	O O O O O PER-B PER-B PER-B O O O O O O O O O O O PER-B O O O O O O
-시민들은 지난해 12월 ‘섬진강 두꺼비 지키기 추진위원회’를 구성하는 등 보호활동에 나서 +었다 .	O O O ORG-B ORG-I ORG-I ORG-I O O O O O O
-소방당국의 계산대로 +이라면 점포 당 피해액이 440여만원에 불과하기 때문이다 .	O O O O O O MNY-B O O O
-소방당국은 추가 조사를 벌이어 피해액을 16억7000여만원으로 다시 산정하였지만 상인들은 여전히 “70억원대 피해가 나 +았다”며 받아들이지 않고 있다 .	ORG-B O O O O MNY-B O O O O MNY-B O O O O O O O
-그렇건만 자연과학에서 전체의 1%밖에 안 되는 5명의 수상자만 내+었다는 것을 부끄러워하고 있다 .	O O O O O O O O O O O O O
-‘불금’이 대박 나+아서, 올가을에는 꼭 가족들과 함께 지내기+ㄹ빌+ㄴ다”고 전하였다 .	O O O O O O O O O O
-김흥국은 “아내와 아이들이 처음 미국으로 가+ㄹ 당시 나도 아예 함께 가+아버리자는 생각을 +였는데, 벌어놓은 수입이 순식간에 소진지고 있었다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O
-박정원 두산그룹 회장은 신년사에서 사업의 근원적 경쟁력 확보를 통하+여 시장 점유율을 지속적으로 확대하고 신규 사업 및 시장을 선도적으로 개척 하+여나가자고 당부하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O
+한편 하춘화 는 6 살 인 1961 년 에 노래 ‘ 효녀 심청 되 오리다 ’ 로 데뷔해 ‘ 난생 처음 ’ ‘ 우리 사랑 가슴 으로 ’ ‘ 연인 의 부르스 ’ 등 의 히트 곡 을 남 겼 다 .	O PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+컴백 앞둔 EXID ‘ 팬 이 먼저 다 ’	O O ORG-B O O O O O O
+반면 현장 세 가 하락해 지수 가 9 백 선 에 이를 경우 에 는 적극적 인 매수 를 권하 고 싶 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+KBS 2 TV 월 화 드라마 ‘ 뷰티풀 마인드 ’ ( 극본 김태희 , 연출 모 완 일 , 이재훈 , 제작 래몽래 인 ) 에서 그 어떤 어려 운 수술 도 도맡 아 해내 는 실력파 의사 장혁 이 열 렸 던 마음 의 문 을 다시 닫 았 다 .	O O O DAT-B DAT-B O O O O O O O PER-B O O PER-B PER-I PER-I O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+시민 들 은 지난해 12 월 ‘ 섬진강 두꺼비 지키 기 추진 위원회 ’ 를 구성하 는 등 보호 활동 에 나섰 다 .	O O O O DAT-B DAT-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O
+소방 당국 의 계산 대로 라면 점포 당 피해액 이 440 여 만 원 에 불과하 기 때문 이 다 .	O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O
+소방 당국 은 추가 조사 를 벌 여 피해액 을 16 억 7000 여 만 원 으로 다시 산정 했 지만 상인 들 은 여전히 “ 70 억 원 대 피해 가 났 다 ” 며 받아들이 지 않 고 있 다 .	ORG-B ORG-I O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+그렇 건만 자연 과학 에서 전체 의 1 % 밖에 안되 는 5 명 의 수상자 만 냈 다는 것 을 부끄러워하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 불금 ’ 이 대박 나서 , 올가을 에 는 꼭 가족 들 과 함께 지내 길 빈다 ” 고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+김흥국 은 “ 아내 와 아이 들 이 처음 미국 으로 갈 당시 나 도 아예 함께 가 버리 자는 생각 을 했 는데 , 벌 어 놓 은 수입 이 순식간 에 소진 지 고 있 었 다 .	PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박정원 두산그룹 회장 은 신년사 에서 사업 의 근원 적 경쟁력 확보 를 통해 시장 점유율 을 지속적 으로 확대하 고 신규 사업 및 시장 을 선도적 으로 개척해 나가 자고 당부 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

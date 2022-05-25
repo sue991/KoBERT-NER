@@ -1,15 +1,15 @@
-그는 “실제로 김정은이 암살을 +였는지는 밝혀지+ㄴ 것은 아직 없습니다만 상당히 엽기적 이+ㄴ 사건이 추가되 +ㄴ 것”이라며 “어쨌든 참 계속 하+여서 북한 관련 하+여서 희한하+ㄴ 사건이 계속 생기니까 ‘이것+이도대체 뭐 +이야’ 염증 같은 것+이 생기+ㄴ다 .	O O PER-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
-계란 평균 소매가(30개들이 특란 기준)가 지난달 중순부터 다시 오르기 시작하+여 5일 7509원까지 오르았다 .	O O O O O O O O O O O MNY-B O O
-강화도의 갯끈 풀군락이 규모가 제일+어 심각하다 .	LOC-B O O O O O O
-아들의 생명나눔 증서(장기기증 증서)를 묘지에 놓아두며 “짧았던 인생 중 가장 크+ㄴ보람이었기를 바라+ㄴ다”고 당부하는 한 아버지, 남편이 세상을 떠나 +ㄴ지 266시간이 +었다며 “명품 가방은 필요 없으니 혼자서 아이를 꿋꿋이 키우+ㄹ 수 있도록 지켜보+아달라”고 말하는 아내….이들이 고인에게 공통적으로 덧붙이 +ㄴ말은 “슬픔보다 더 크+ㄴ 기쁨을 누구 +이+ㄴ가에게 남기고 가+았으니 편안히 눈감아달라”는 것이었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 단지는 두류역 초역세권으로 입지가 뛰어나다 .	O O LOC-B O O O O
-사드가 대북 안보를 위하+여 필요하다는 점을 설득하는데 최선을 다 하+ 여야 하+ㄴ다 .	O O O O O O O O O O O O O
-자유한국당 홍준표 후보와 바른정당 유승민 후보가 10% 안팎의 지지율을 두고 제로섬 게임을 벌이는 탓이다 .	ORG-B PER-B O ORG-B PER-B O O O O O O O O O O
-이회창 전 대표의 전례도 있고, 안 전 대법관이 비록 전관예우 문제로 총리 후보에서 낙마하였지만 지나고 보니 그만 하+ㄴ 인물도 없다는 공감대가 형성되+어 있다는 것.김무성 대표에 미래와 관련 하+여서 +ㄴ 김 대표가 박 대통령에 ‘굴복’ 하+여직을 유지하+ㄴ 채 총선을 치르+ㄹ 수도 있지만 그렇 +ㄹ 가능성은 매우 낮고 연말께 어쩌+ㄹ 수 없이 자진 사퇴하거나 서청원 김을동 김태호 등 친박 최고위원들의 집단 사퇴로 지도부를 붕괴시키는 방식도 있을 수 있다고 내다보았다  .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O PER-B PER-B PER-B O PER-B O O O O O O O O O O O O
-약간장으로 만들는 음식으로 ‘홍게 간장’도 있다 .	O O O O O O O
-물가에 연동, 해마다 2월이면 조정하+여오+ㄴ표준건축비는 올해의 경우 상반기 물가관리 차원에서 하반기로 조정시기를 미루었으나, 건설부가 표준건축비를 빨리 조정하+여주+어야 주택가격의 안정에 도움이 되+ㄴ다고 요청, 앞당기기로 하+ㄴ 것이다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-시민단체를 누구가 얘기 하+ㄴ적이 있었나.” 김 의원이 속하+ㄴ 정무위는 김영란 법 정부 원안을 받아 손질을 가하였다 .	O O O O O PER-B O O ORG-B PER-B O O O O O O O
-경찰박물관은 행사장 주변에 배치되 +ㄴ 경찰특공대 등 경찰관에게 스탬프를 받아오면 선착순 800명에게 기념품도 제공 하+ㄴ다 .	ORG-B O O O O ORG-B O ORG-B O O O O O O O O
-인질극을 벌이는 이 아파트는 박씨의 친구(21·대학생) 집으로 친구가 외출하+ㄴ 사이 들어가 +아황씨를 감금 하+ㄴ 것으로 알려지었다 .	O O O O PER-B O O O O O O PER-B O O O O O
-블로킹으로만 21점을 올리+ㄴ 현대캐피탈(13승 15패)은 승점 3점을 추가 하+여 4위대한항공(14승 13패)과 승점(43점)에서 어깨를 나란히 +였다 .	O O O ORG-B O O O O O ORG-B O O O O O O
-NH농협생명·신한생명·미래에셋생명이 각각 70점으로 공동 4위로 나타나 +았다 .	ORG-B O O O O O O O
+그 는 “ 실제로 김정은 이 암살 을 했 는지 는 밝혀진 것 은 아직 없 습니다 만 상당히 엽기적 인 사건 이 추가된 것 ” 이 라며 “ 어쨌든 참 계속해서 북한 관련해서 희안한 사건 이 계속 생기 니까 ‘ 이게 도대체 뭐 야 ’ 염증 같 은 게 생긴다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+계란 평균 소매 가 ( 30 개 들 이 특란 기준 ) 가 지난달 중순 부터 다시 오르 기 시작해 5 일 7509 원 까지 올 랐 다 .	O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I MNY-B MNY-I O O O O O
+강화도 의 갯끈풀 군락 이 규모 가 제일 커 심각하 다 .	LOC-B O O O O O O O O O O O
+아들 의 생명 나눔 증서 ( 장기 기증 증서 ) 를 묘지 에 놓아두 며 “ 짧 았 던 인생 중 가장 큰 보람 이 었 기 를 바란다 ” 고 당부하 는 한 아버지 , 남편 이 세상 을 떠난 지 266 시간 이 됐 다며 “ 명품 가방 은 필요 없 으니 혼자 서 아이 를 꿋꿋이 키울 수 있 도록 지켜봐 달 라 ” 고 말하 는 아내 … . 이 들 이 고인 에게 공통적 으로 덧붙인 말 은 “ 슬픔 보다 더 큰 기쁨 을 누군가 에게 남기 고 갔 으니 편안히 눈 감 아 달 라 ” 는 것 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 단지 는 두류역 초 역세권 으로 입지 가 뛰어나 다 .	O O O LOC-B O O O O O O O O
+사드 가 대북 안보 를 위해 필요하 다는 점 을 설득하 는 데 최선 을 다해야 한다 .	O O O O O O O O O O O O O O O O O O
+자유 한국 당 홍준표 후보 와 바른 정당 유승민 후보 가 10 % 안팎 의 지지율 을 두 고 제로섬 게임 을 벌이 는 탓 이 다 .	ORG-B ORG-I ORG-I PER-B O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O
+이회창 전 대표 의 전례 도 있 고 , 안 전 대법관 이 비록 전관예우 문제 로 총리 후보 에서 낙마 했 지만 지나 고 보 니 그만한 인물 도 없 다는 공감대 가 형성돼 있 다는 것 . 김무성 대표 에 미래 와 관련해선 김 대표 가 박 대통령 에 ‘ 굴복 ’ 해 직 을 유지한 채 총선 을 치를 수 도 있 지만 그럴 가능성 은 매우 낮 고 연말 께 어쩔 수 없이 자진 사퇴하 거나 서청원 김을동 김태호 등 친 박 최고 위원 들 의 집단 사퇴 로 지도부 를 붕괴 시키 는 방식 도 있 을 수 있 다고 내다 봤 다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+약간 장 으로 만드 는 음식 으로 ‘ 홍 게 간장 ’ 도 있 다 .	O O O O O O O O O O O O O O O O
+물가 에 연동 , 해마다 2 월 이 면 조정해 온 표준 건축비 는 올해 의 경우 상반기 물가 관리 차원 에서 하반기 로 조정 시기 를 미 뤘 으나 , 건설부 가 표준 건축비 를 빨리 조정해 줘야 주택 가격 의 안정 에 도움 이 된다고 요청 , 앞당기 기 로 한 것 이 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+시민 단체 를 누 가 얘기한 적 이 있 었 나 . ” 김 의원 이 속한 정무 위 는 김영란 법 정부 원안 을 받 아 손질 을 가 했 다 .	O O O O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O
+경찰 박물관 은 행사장 주변 에 배치된 경찰 특공대 등 경찰관 에게 스탬프 를 받 아 오 면 선착순 800 명 에게 기념품 도 제공한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+인질극 을 벌이 는 이 아파트 는 박 씨 의 친구 ( 21 · 대학생 ) 집 으로 친구 가 외출한 사이 들어가 황 씨 를 감금한 것 으로 알려 졌 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+블로킹 으로 만 21 점 을 올린 현대캐피탈 ( 13 승 15 패 ) 은 승점 3 점 을 추가해 4 위 대한항공 ( 14 승 13 패 ) 과 승점 ( 43 점 ) 에서 어깨 를 나란히 했 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+NH 농협 생명 · 신한 생명 · 미래에셋 생명 이 각각 70 점 으로 공동 4 위 로 나타났 다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O

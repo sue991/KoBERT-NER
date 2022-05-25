@@ -1,14 +1,14 @@
-개인연금 제5월 시행/재무부 발표/은행 ­보험에 10년 이상 불 .	O O ORG-B O O O O O O
-▷스타급 선수들이 해외에 진출하+ㄹ 때마다 K리그를 걱정하는 목소리가 나 오+ㄴ다 .	O O O O O ORG-B O O O O O
-경찰청이 100일 동안 집중 단속 하+ㄴ 결과 랜덤 채팅 앱을 통하+ㄴ 성매매 건수는 총 1972건, 검거되+ㄴ사람은 8502명이 +ㅂ니다 .	ORG-B O O O O O O O O O O O O O O O O O O
-.한국청소년정책연구원이 지난해 1월 발표 하+ㄴ＇ 스마트 시대 대중매체를 통하+ㄴ청소년의 성상품화 대응 방안 연구＇에 따르면 전국 중·고교생 4189명 중 14.2%(594명)가 스마트폰에서 주로 이용하는 앱으로 ＇랜덤 채팅＇을 꼽았습니다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-.그런데 랜덤 채팅 앱에 가입하+ 여자신을 여성 청소년으로 설정 하+여놓으면 가입하자마자 조건만남을 암시하는 메시지가 수두룩하게 쏟아지죠..10 방송통신심의위원회는 랜덤 채팅 앱 사후 심의를 하고 있습니다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
-＂성기 노출 사진이나 성매수를 직접 언급하는 글 등이 아니면 삭제 요구가 어렵 ㄴ 것이 현실 ＂-정혜정 방송통신심의위원회 유해정보팀장.미리 익명의 대화 속 유해성 여부를 심의 하+여 범죄를 예방하면 좋겠지만 그러려면 타인의 사적이+ㄴ 대화 내용을 감청 하+여야 해 통신비밀보호법을 위반하게 되+ㅂ니다 .	O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-신고를 접수 하+ㄴ 경찰은 부산역 인근 폐쇄회로(CC) TV를 분석하+여 김씨 등 4명의 인상착의를 파악하고 이들을 차례로 검거하였다 .	O O O O LOC-B O O O O PER-B O O O O O O O O
-(부산ㆍ경남=뉴스1 .	LOC-B O
-견본주택은 세종특별자치시대 평동264-1번지에 들어서며 입주 예정일은 2018년 8월 예정이다 .	O LOC-B LOC-I O O O O O O O
-권미진 다이어트 접시표절 논란 '블로그에서 접시 판매? .	PER-B O O O O O O O
-국립발레단의 2015년 신작 ‘말괄량이 길들이기’가 29일 예술의전당 오페라극장 무대에 오르+ㄴ다 .	LOC-I O O O O O LOC-B O O O O
-청와대 핵심 관계자는 “박 대통령의 진심은 외면 하+ㄴ 채 정치적 계산만 하는 것에 기가 막히+ㄴ다”고 비판하였다 .	ORG-B O O PER-B O O O O O O O O O O O O O
-[대전/충남]충남 서천에 20년 만에 영화관생기+ .	LOC-B LOC-B O O O O
-부산을 상징하는 갈매기의 영문이 +ㄴ＇ SEA(SW, Esta blishment, Accelerator) GULL(Global, UnLim itedLeading) ＇은 지역 SW 창업을 가속화시키며, 무한하+ㄴ창의성을 기반으로 글로벌 선도기업으로 성장 하+ㄴ다는 의미로, 아이디어 발굴부터 육성, 사업화, 투자까지 성장단계별로 원스톱 창업을 지원 하+ㄴ다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+개인연금 제 5 월 시행 / 재무부 발표 / 은행 ­ 보험 에 10 년 이상 불입	O O DAT-B DAT-I O O ORG-B O O O O O O O O O O
+▷ 스타 급 선수 들 이 해외 에 진출할 때 마다 K 리그 를 걱정하 는 목소리 가 나온다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O O
+경찰청 이 100 일 동안 집중 단속한 결과 랜덤 채팅 앱 을 통한 성 매매 건수 는 총 1972 건 , 검거된 사람 은 8502 명 입니다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+# . 한국 청소년 정책 연구원 이 지난해 1 월 발표한 ＇ 스마트 시대 대중 매체 를 통한 청소년 의 성 상품화 대응 방안 연구 ＇ 에 따르 면 전국 중 · 고교생 4189 명 중 14.2 % ( 594 명 ) 가 스마트 폰 에서 주로 이용하 는 앱 으로 ＇ 랜덤 채팅 ＇ 을 꼽 았 습니다 .	O O ORG-B ORG-I ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+# . 그런데 랜덤 채팅 앱 에 가입해 자신 을 여성 청소년 으로 설정해 놓 으면 가 입 하 자마자 조건 만남 을 암시하 는 메시지 가 수두룩하 게 쏟아지 죠 . # .10 방송 통신 심의 위원회 는 랜덤 채팅 앱 사후 심의 를 하 고 있 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O
+＂ 성기 노출 사진 이나 성 매수 를 직접 언급하 는 글 등 이 아니 면 삭제 요구 가 어려 운 것 이 현실 ＂ - 정혜정 방송 통신 심의 위원회 유해 정보 팀장 # . 미리 익명 의 대화 속 유해성 여부 를 심의해 범죄 를 예방하 면 좋 겠 지만 그러 려면 타인 의 사적 인 대화 내용 을 감청해야 해 통신 비밀 보호 법 을 위반하 게 됩니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신고 를 접수한 경찰 은 부산역 인근 폐쇄 회로 ( CC ) TV 를 분석해 김 씨 등 4 명 의 인상착의 를 파악하 고 이 들 을 차례 로 검거 했 다 .	O O O O O LOC-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+( 부산 ㆍ 경남 = 뉴스 1 )	O LOC-B O LOC-B O O O O
+견본 주택 은 세종 특별 자치 시 대평동 264 - 1 번지 에 들어서 며 입주 예정일 은 2018 년 8 월 예정 이 다 .	O O O LOC-B LOC-I LOC-I LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O
+권미진 다이어트 접시 표절 논란 ' 블로그 에서 접시 판매 ? '	PER-B O O O O O O O O O O O
+국립 발레 단 의 2015 년 신작 ‘ 말괄량이 길들이 기 ’ 가 29 일 예술 의 전당 오페라 극장 무대 에 오른다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O DAT-B DAT-I LOC-B LOC-I LOC-I O O O O O O
+청와대 핵심 관계자 는 “ 박 대통령 의 진심 은 외면한 채 정치적 계산 만 하 는 것 에 기 가 막힌다 ” 고 비판 했 다 .	ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+[ 대전 / 충남 ] 충남 서천 에 20 년 만 에 영화관 생겨	O LOC-B O LOC-B O LOC-B LOC-B O O O O O O O
+부산 을 상징하 는 갈매기 의 영문 인 ＇ SEA ( SW , Establishment , Accelerator ) GULL ( Global , UnLimited Leading ) ＇ 은 지역 SW 창업 을 가속화 시키 며 , 무한한 창의성 을 기반 으로 글로벌 선도 기업 으로 성장한다는 의미 로 , 아이디어 발굴 부터 육성 , 사업 화 , 투자 까지 성장 단계 별 로 원스톱 창업 을 지원한다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

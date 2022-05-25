@@ -1,10 +1,10 @@
-패전일에 +ㄴ ‘가미카제’ 비행장 방문…한일 우호 발언 하더니 극우 행 .	O O O O ORG-B O O O O O O
-공식 시판일은 다음달 24일.1차 출시국은 미국 호주 캐나다 중국 프랑스 독일 홍콩 일본 영국으로, 한국은 빠지었다 .	O O O O O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O
-한편, 누리꾼들은 2라운드에 진출하+ㄴ 가수들의 정체에 대하+여추측하고 나서 +었다 .	O O O O O O O O O O
-정용화는 침대에서 일어나 +ㄴ후의 문의 은색 구두를 손에 잡았다 .	PER-B O O O O O O O O O
-29기까지 배출되+ㄴ 6급 남성 공무원 연수교육에는 시설 미비 등을 이유로 여성을 받아들이지 않았기 때문이다 .	O O O O O O O O O O O O O O O
-한재훈 LS산전 사장은 “아직 수익모델이 불분명 하+ㄴ 만큼 정부가 초기 기술 개발과 투자를 지원하고 규제와 제도를 획기적으로 개선하+ 여야 하+ㄴ다”며 “예를 들어 전력저장장치를 비상발전기로 사용하기 위하+여서는 소방법, 건축법 등 많은 규제를 함께 풀어야 하+ㄴ다”고 지적하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이날 오후 송 의원은 안 의원을 따르 아탈당하지 않고 새정치연합 잔류를 선언하였다 .	O O PER-B O PER-B O O O O O O O O
-‘컬투쇼’ 심형탁은 “겨드랑이 털도 없고 대체적으로 몸에 털이 없는 편이다 .	O PER-B O O O O O O O O O
-노년층의 입원질환 1위 백내장은 매년 진료받는 환자가 늘어나고 있는 추세+이다 .	O O O O O O O O O O O
-DJI 케어는 아시아 전체에 적용하+ㄹ 예정이라 조금만 더 기다리+어달라”고 언급하였다 .	ORG-B ORG-I LOC-B O O O O O O O O
+패전 일 엔 ‘ 가미카제 ’ 비행장 방문 … 한일 우호 발언 하 더니 극우 행보	DAT-B DAT-I O O O O O O O ORG-B O O O O O O
+공식 시판 일 은 다음 달 24 일 . 1 차 출시 국 은 미국 호주 캐나다 중국 프랑스 독일 홍콩 일본 영국 으로 , 한국 은 빠 졌 다 .	O O O O O O DAT-B DAT-I O O O O O O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O O O
+한편 , 누리 꾼 들 은 2 라운드 에 진출한 가수 들 의 정체 에 대해 추측하 고 나섰 다 .	O O O O O O O O O O O O O O O O O O O O O
+정용화 는 침대 에서 일어난 후 의문 의 은색 구두 를 손 에 잡 았 다 .	PER-B O O O O O O O O O O O O O O O O
+29 기 까기 배출된 6 급 남성 공무원 연수 교육 에 는 시설 미비 등 을 이유 로 여성 을 받아들이 지 않 았 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한재훈 LS 산전 사장 은 “ 아직 수익 모델 이 불분명한 만큼 정부 가 초기 기술 개발 과 투자 를 지원하 고 규제 와 제도 를 획기적 으로 개선해야 한다 ” 며 “ 예 를 들 어 전력 저장 장치 를 비상 발전기 로 사용하 기 위해서 는 소방법 , 건축법 등 많 은 규제 를 함께 풀 어야 한다 ” 고 지적 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 오후 송 의원 은 안 의원 을 따 라 탈당하 지 않 고 새정치연합 잔류 를 선언 했 다 .	O O PER-B O O PER-B O O O O O O O O O O O O O O O
+‘ 컬투쇼 ’ 심형탁 은 “ 겨드랑이 털 도 없 고 대체적 으로 몸 에 털 이 없 는 편 이 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O
+노년 층 의 입원 질환 1 위 백내장 은 매년 진료 받 는 환자 가 늘어나 고 있 는 추세 다 .	O O O O O O O O O O O O O O O O O O O O O O
+DJI 케어 는 아시아 전체 에 적용할 예정 이 라 조금 만 더 기다려 달 라 ” 고 언급 했 다 .	ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O O

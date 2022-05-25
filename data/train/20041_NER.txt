@@ -1,16 +1,16 @@
-서현진, 광고비 하인드 컷…감탄자 아내+ㄴ미모[화보 .	PER-B O O O O O
-그런데도 철도시설공단은 지난달 ‘일반·고속열차용 열차제어시스템 국산화 개발과제 제작사 공모’의 제작사에 또다시 L사를 포함시키었다 .	O O O O O O O O O O O O O O
-오바마 대통령은 그렇 +ㅁ에도 “동맹국들을 감히 공격 하+ㄹ 수는 없다”는 말로 군사적 도발은 파멸이+ㅁ을 시사하였다 .	PER-B O O O O O O O O O O O O O O O
-유선통신기술 발달이 가져오+ㄴ ‘통신혁명’ 안데르센의 동화 중에 ‘거대 하+ㄴ바다 뱀(TheG reatSeaSerpent)’이 있다 .	O O O O PER-B O O O O O O O O
-1987년 시민항쟁에서 승리 하+ㄴ 후 국력을 모으아 분열을 막았으면 지금과 같은 지역주의 또한 없었을 것+이+ㅂ니다 .	O O O O O O O O O O O O O O O O
-사고 당시 소득이 없었다는 점을 고려하+ 여보통 인 부 노임단가(월 193만원)를 적용하였다 .	O O O O O O O O O O O O O
-그것+이 정부에서 받아들이어 지+어 2018학년도부터 통합교육과정이 시행되+ㄴ다 .	O ORG-B O O O O O O
-그렇 +ㄴ가 하면 하이테크, 우주항공 등 첨단산업은 10%를 웃돌는 성장세를 보이고 있다 .	O O O O O O O O O O O O O
-중국 통신업체들과 협력 하+여서 대규모의 유저를 커버하는 방법도 있다"이 어래리왕은 "중국에서 가장 효율적 이+ㄴ 것은 iOS 광고+이다"라고 귀띔하며, 유료 게임 랭킹을 활용하+ㄹ 것을 방법으로 제시하였다 .	ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-"안드로이드는 각각 분산되어 있지만, 아이폰은 그렇지 않기 때문에 보다 효율적으로 마케팅을 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O
-오락실에서 하+여+보았던 미니퍼즐게임 모음을 얘기 하+ㄹ 때 빠지지 않는 게임이죠. '비시바시 챔프' 시리즈는 언제 한 번 깊이 다루+어 보고 싶은 게임이 +ㄴ데, 이번에 소개가 되었네요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-KAIST, 충남대, 목원대 등 각 대학도 다양하+ㄴ대회를 주관 하+ㄴ다 .	ORG-B ORG-B ORG-B O O O O O O O
-레니 감독은 참가자들의 프로필을 보지 않고 현장에서 확인 하+ㄴ 실력만으로 선수를 뽑았다 .	PER-B O O O O O O O O O O O O
-일본에서는 늙거나 아프+ㄴ 가족을 돌보기 위하+여회사를 그만두는 이른바 ‘가족돌보+ㅁ(개호)이직’이 골칫거리+이다 .	ORG-B O O O O O O O O O O
-문 대표의 새정치연합이 정부와 여당의 실패에 따르+ㄴ 반사이익에 만 기대+ㄹ 경우 국민에게 희망을 주+ㄹ 수 없다 .	PER-B O O O O O O O O O O O O O O O O
-강남권 등이 투기과열지구로 지정하면 조합설립인 .	LOC-B O O O O O
+서현진 , 광고 비하인드 컷 … 감탄 자아낸 미모 [ 화보 ]	PER-B O O O O O O O O O O O
+그런데 도 철도 시설 공단 은 지난달 ‘ 일반 · 고속 열차 용 열차 제어 시스템 국산화 개발 과제 제작사 공모 ’ 의 제작사 에 또다시 L 사 를 포함 시 켰 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오바마 대통령 은 그럼에도 “ 동맹국 들 을 감히 공격할 수 는 없 다 ” 는 말 로 군사적 도발 은 파멸 임 을 시사 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유선 통신 기술 발달 이 가져온 ‘ 통신 혁명 ’ 안데르센 의 동화 중 에 ‘ 거대한 바다뱀 ( The Great Sea Serpent ) ’ 이 있 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+1987 년 시민 항쟁 에서 승리한 후 국력 을 모 아 분열 을 막 았 으면 지금 과 같 은 지역주의 또한 없 었 을 겁니다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+사고 당시 소득 이 없 었 다는 점 을 고려해 보통 인부 노임 단가 ( 월 193 만 원 ) 를 적용 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+그게 정부 에서 받아들 여 져 2018 학년도 부터 통합 교육 과정 이 시행된다 .	O ORG-B O O O O DAT-B O O O O O O O O
+그런가 하 면 하이테크 , 우주 항공 등 첨단 산업 은 10 % 를 웃도 는 성장세 를 보이 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+중국 통신 업체 들 과 협력해서 대규모 의 유저 를 커버하 는 방법 도 있 다 " 이어 래리 왕 은 " 중국 에서 가장 효율적 인 것 은 iOS 광고 다 " 라고 귀띔하 며 , 유료 게임 랭킹 을 활용할 것 을 방법 으로 제시 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 안드로이드 는 각각 분산되 어 있 지만 , 아이폰 은 그렇 지 않 기 때문 에 보다 효율적 으로 마케팅 을 할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오락실 에서 해 봤 던 미니 퍼즐 게임 모음 을 얘기할 때 빠지 지 않 는 게임 이 죠 . ' 비시 바시 챔프 ' 시리즈 는 언제 한 번 깊히 다뤄 보 고 싶 은 게임 인데 , 이번 에 소개 가 되 었 네 요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KAIST , 충남대 , 목원대 등 각 대학 도 다양한 대회 를 주관한다 .	ORG-B O ORG-B O ORG-B O O O O O O O O O
+레니 감독 은 참가자 들 의 프로필 을 보 지 않 고 현장 에서 확인한 실력 만 으로 선수 를 뽑 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+일본 에서 는 늙 거나 아픈 가족 을 돌보 기 위해 회사 를 그만두 는 이른바 ‘ 가족 돌봄 ( 개호 ) 이직 ’ 이 골칫거리 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문 대표 의 새정치연합 이 정부 와 여당 의 실패 에 따른 반사 이익 에 만 기댈 경우 국민 에게 희망 을 줄 수 없 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+강남 권 등 이 투기 과열 지구 로 지정하 면 조합 설립 인가	LOC-B LOC-I O O O O O O O O O O O

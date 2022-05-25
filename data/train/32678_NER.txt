@@ -1,13 +1,13 @@
-『 앞으로 닥치+ㄹ 미래가 있는데 인간이 이미 기계 같은 삶을 살고 있다면, 기계한 테 100% 지+ㅂ니다 .	O O O O O O O O O O O O O O O O O
-재건축 아파트 역시 호가가 오르며 매매가격이 0.18% 상승하였다 .	O O O O O O O O O
-회사 관계자는 “몬테소리 수학 원리와 최신 초등수학 교과과정이 반영되 +ㄴ초등 수학이 조합되+어 감각적이고 체계적 이+ㄴ 수학 프로그램을 완성하였다”면서 “41년의 노하우로 전문화되+ㄴ 홈스쿨 교사의 수업으로 아이들의 수학능력을 키우어 주+ㄹ 것”이라고 말하였다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘신축 10년 이내 ++소형++중저가’ 조건을 맞추+ㄹ 경우 공실을 최소화 하+ㄹ 수 있다 .	O O O O O O O O O O O O O
-아이빌 스튜디오(대표 이선재)는 중요하+ㄴ 기념일을 챙기+어주는 애플 아이폰용 어플리케이션 '더 데이비포(TheDay Before)'를 출시하+ㄴ다고 12일 밝히었다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O
-KOTRA는 1일 “지난달 30일 경기 고양시 킨텍스에서 열리+ㄴ붐업코리아에 정보통신기술, 소재부품, 서비스 등 다양하+ㄴ 분야의 국내 기업 940여 곳과 해외 바이어 350여 업체가 참여하였다”며 이같이 밝히었다 .	ORG-B O O O LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O
-오피스텔은 2개 동에 전용 84㎡ 이+ㄴ 282실이 들어서 +ㄴ다 .	O O O O O O O O O O
-기아도 영업소에 아벨라 1대씩 공 .	ORG-B O O O O O
-그 밖에 「SKC중학영어」(옥소리)「 앵무새 영어 첫걸음」(세광데이터테크) 「오성식 생활영어」「액티브 잉글리시」(삼성전자) 「민병철 매직잉글리시」(〃) 등 어학 학습용 시 디롬타이틀들도 꾸준하+ㄴ 판매 신장세를 보이고 있다 .	O O ORG-B O O ORG-B O O ORG-B O O O O O O O O O O O O O
-팝송 ‘원서머 나이트’와 영화 ‘사랑의 스잔나(원제 추하·秋霞·1976)’의 주인공천추샤(陳秋霞·진추하·58)는 한국 7080세대에게 지금도 영원 하+ㄴ 뮤즈다 .	O O O O O O O PER-B LOC-B O O O O O O
-‘한번 더 생각하+여보시라’며 만류하었지만, 지나 +ㄴ 주말 ‘뜻을 바꾸+ㄹ 생각이 없다’는 최종 통고가 +았다 .	O O O O O O O O O O O O O O O
-인텔은 IoT 환경에 최적화되+ㄴ네트워크용 게이트웨이, 우표만 하+ㄴ 크기의 PC 이+ㄴ 인텔 에디슨(IntelEdison), 단추만 하+ㄴ PC 이+ㄴ 인텔 큐리(IntelCurie) 등을 이미 발표하였다 .	ORG-B O O O O O O O O O ORG-B O O O O O ORG-B O O O O O
-이런 노력 덕분에 대륭 정밀은 최근 한국능률협회 국제화 대상을 받은 것을 비롯, 매년 크+ㄴ상을 한두 개씩 받고 있으며, 50%를 출자하+ㄴ 자회사격이+ㄴ 기륭전자 역시 올해 무역의 날에 포상을 받았다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+『 앞 으로 닥칠 미래 가 있 는데 인간 이 이미 기계 같 은 삶 을 살 고 있 다면 , 기계 한테 100 % 집니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+재건축 아파트 역시 호가 가 오르 며 매매 가격 이 0.18 % 상승 했 다 .	O O O O O O O O O O O O O O O O
+회사 관계자 는 “ 몬테소리 수학 원리 와 최신 초등 수학 교과 과정 이 반영된 초등 수학 이 조합돼 감각적 이 고 체계적 인 수학 프로그램 을 완성 했 다 ” 면서 “ 41 년 의 노하우 로 전문화된 홈스쿨 교사 의 수업 으로 아이 들 의 수학 능력 을 키 워 줄 것 ” 이라고 말 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 신축 10 년 이내+ 소형+ 중저가 ’ 조건 을 맞출 경우 공실 을 최소화할 수 있 다 .	O O O O O O O O O O O O O O O O O O O
+아이빌 스튜디오 ( 대표 이선재 ) 는 중요한 기념일 을 챙겨 주 는 애플 아이폰 용 어플리케이션 ' 더데이 비포 ( The Day Before ) ' 를 출시한다고 12 일 밝 혔 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+KOTRA 는 1 일 “ 지난달 30 일 경기 고양시 킨 텍스 에서 열린 붐 업 코리아 에 정보 통신 기술 , 소재 부품 , 서비스 등 다양한 분야 의 국내 기업 940 여 곳 과 해외 바이어 350 여 업체 가 참여 했 다 ” 며 이같이 밝 혔 다 .	ORG-B O DAT-B DAT-I O O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오피스텔 은 2 개 동 에 전용 84 ㎡ 인 282 실 이 들어선다 .	O O O O O O O O O O O O O O O
+기아 도 영업소 에 아벨라 1 대 씩 공급	ORG-B O O O O O O O O
+그 밖에 「 SKC 중학 영어 」 ( 옥소리 ) 「 앵무새 영어 첫걸음 」 ( 세광 데이터 테크 ) 「 오성식 생활 영어 」 「 액티브 잉글리시 」 ( 삼성전자 ) 「 민병철 매직 잉글리시 」 ( 〃 ) 등 어학 학습 용 시디롬 타이틀 들 도 꾸준한 판매 신장세 를 보이 고 있 다 .	O O O O O O O O ORG-B O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+팝송 ‘ 원 서머 나이트 ’ 와 영화 ‘ 사랑 의 스잔나 ( 원제 추하 · 秋霞 · 1976 ) ’ 의 주인공 천 추샤 ( 陳秋霞 · 진추하 · 58 ) 는 한국 7080 세대 에게 지금 도 영원한 뮤즈 다 .	O O O O O O O O O O O O O O O O O O DAT-B O O O O PER-B PER-I O PER-B O PER-B O O O O LOC-B O O O O O O O O O
+‘ 한 번 더 생각해 보 시 라 ’ 며 만류 했 지만 , 지난 주말 ‘ 뜻 을 바꿀 생각 이 없 다 ’ 는 최종 통고 가 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인텔 은 IoT 환경 에 최적화된 네트워크 용 게이트웨이 , 우표 만 한 크기 의 PC 인 인텔 에디슨 ( Intel Edison ) , 단추 만 한 PC 인 인텔 큐 리 ( Intel Curie ) 등 을 이미 발표 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이런 노력 덕분 에 대륭정밀 은 최근 한국 능률 협회 국제화 대상 을 받 은 것 을 비롯 , 매년 큰 상 을 한두 개 씩 받 고 있 으며 , 50 % 를 출자한 자회사 격 인 기륭전자 역시 올해 무역 의 날 에 포상 을 받 았 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O DAT-B DAT-I DAT-I O O O O O O O

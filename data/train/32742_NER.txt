@@ -1,16 +1,16 @@
-‘X스크린’은 제품 후면을 글래스 느낌의 소재를 적용하+여고 급감을 높이었다 .	O O O O O O O O O O
-보도 하루 만에 너무 빨리 박 대통령이 최씨 역할을 직접 언급하+ 여 사 태 악화를 불러오았다는 판단에서 +이었다 .	O O O O O PER-B O PER-B O O O O O O O O O O O
-박 대통령이 자진 사퇴 하+여탄핵만은 피하는 방법도 있었다 .	PER-B O O O O O O O O
-이전까지 +ㄴ 좌파 진영은 ‘중도좌파 대좌익블록·공산당·녹색당’ 구도로 가르아서 서로 앙앙불락(怏怏不樂) +하였다 .	O O O O ORG-B ORG-B O O O O O O
-최근 사드 배치와 관련 하+여 한·중 간 정치외교적 마찰이 커지고 있는 가운데 중국 현지 진출과 창업을 돕는 프로그램이 소개되+어 주목을 받고 있다 .	O O O O O ORG-B O O O O O O ORG-B O O O O O O O O O O
-그 이틀 후 호소카와가 사임을 발표하+ㄴ 것 .	O O O PER-B O O O O
-올 시즌7 경기에서 모두 승리를 챙기+ㄴ 우리은행은 단독 1위 자리를 굳건히 지키+ㄴ 반면 시즌 첫 홈패배를 떠안은 KDB생명은 2연승에서 멈추+어서며 3승 4패를 기록하였다 .	O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O
-컵스는 7차전까지 가는 접전 끝에 기적적으로 ‘염소의 저주’를 풀었다 .	ORG-B O O O O O O O O O
-그러나 클리블랜드는 또다시 눈물을 흘리었다 .	O ORG-B O O O O
-예를 들어 직장에서도 아들 대학 졸업식이다, 부모님 회갑이다, 집안 행사가 있으면 직장 일도 말다 하고 가+아보는데 이런 일은 일본에서는 없어요 .	O O O O O O O O O O O O O O O O O O LOC-B O O
-[바스켓 볼브레이크] 개막 2연전 6개 팀이 1승 1패… 중위권 싸움의 서 .	O O O O O O O O O O O O
-교통과 통신, 전기 분야 등에서 대대적 이+ㄴ 민영화를 취하였던 레이건 전 대통령과 대처 전 총리의 방식과는 다르다 .	O O O O O O O O O PER-B O O PER-B O O O O O
-한편 경찰청과 중앙일보(주관중앙일보 플러스, 후원네이버)는 15일 서울 순화동 호암아트홀에서 ‘제1회 대한민국 범죄예방 대상’ 시상식을 열 +ㄴ다 .	O O ORG-B ORG-I ORG-B O LOC-B LOC-B LOC-I O O O O O O O O
-구 부회장은 또 LG전자 자동차 부품(VC) 사업부로부터 관련 보고를 받고 스마트카와 관련 하+ㄴ 다른 회사들의 전시 부스들도 꼼꼼히 둘러보았다 .	PER-B ORG-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O
-군 관계자는 언론을 통하+여 “북한군이 대남 확성기 방송을 시작하였지만 방송시설이 좋지 않아 소리가 뜨문뜨문 들리+어 내용 파악이 어렵다”고 말하였다 .	ORG-I O O O ORG-B O O O O O O O O O O O O O O O
-그러면서 “북한군 도 우리 군의 확성기 방송이 많이 거슬리+ㄹ 것”이라며 “북한군 자체적으로 방송을 시작하+ㄴ 것 같다”고 말하였다 .	O ORG-B O O O O O O O O ORG-B O O O O O O O
+‘ X 스크린 ’ 은 제품 후면 을 글래스 느낌 의 소재 를 적용해 고급 감 을 높 였 다 .	O O O O O O O O O O O O O O O O O O O O O
+보도 하루 만 에 너무 빨리 박 대통령 이 최 씨 역할 을 직접 언급해 사태 악화 를 불러 왔 다는 판단 에서 였 다 .	O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O
+박 대통령 이 자진 사퇴해 탄핵 만 은 피하 는 방법 도 있 었 다 .	PER-B O O O O O O O O O O O O O O O
+이전 까진 좌파 진영 은 ‘ 중도 좌파 대 좌익 블록 · 공산당 · 녹색당 ’ 구도 로 갈 라서 서로 앙앙불락 ( 怏怏不樂 ) 했 다 .	O O O O O O ORG-B ORG-I O ORG-B ORG-I O ORG-B O ORG-B O O O O O O O O O O O O O
+최근 사드 배치 와 관련해 한 · 중 간 정치 외교적 마찰 이 커지 고 있 는 가운데 중국 현지 진출 과 창업 을 돕 는 프로그램 이 소개돼 주목 을 받 고 있 다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+그 이틀 후 호소카와 가 사임 을 발표한 것 .	O O O PER-B O O O O O O
+올 시즌 7 경기 에서 모두 승리 를 챙긴 우리은행 은 단독 1 위 자리 를 굳건히 지킨 반면 시즌 첫 홈 패배 를 떠안 은 KDB 생명 은 2 연승 에서 멈춰 서 며 3 승 4 패 를 기록 했 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+컵스 는 7 차 전 까지 가 는 접전 끝 에 기적적 으로 ‘ 염소 의 저주 ’ 를 풀 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+그러나 클리블랜드 는 또다시 눈물 을 흘 렸 다 .	O ORG-B O O O O O O O O
+예 를 들 어 직장 에서 도 아들 대학 졸업식 이 다 , 부모님 회갑 이 다 , 집안 행사 가 있 으면 직장 일 도 마 다 하 고 가 보 는데 이런 일 은 일본 에서 는 없 어요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O
+[ 바스켓 볼 브레이크 ] 개막 2 연전 6 개 팀 이 1 승 1 패 … 중위 권 싸움 의 서막	O O O O O O O O O O O O O O O O O O O O O O
+교통 과 통신 , 전기 분야 등 에서 대대적 인 민영화 를 취 했 던 레이건 전 대통령 과 대처 전 총리 의 방식 과 는 다르 다 .	O O O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O
+한편 경찰청 과 중앙일보 ( 주관 중앙일보 플러스 , 후원 네이버 ) 는 15 일 서울 순화동 호암아트홀 에서 ‘ 제 1 회 대한민국 범죄 예방 대상 ’ 시상식 을 연다 .	O O O ORG-B O O ORG-B ORG-I O O ORG-B O O DAT-B DAT-I LOC-B LOC-B LOC-I O O O O O O O O O O O O O O
+구 부회장 은 또 LG 전자 자동차 부품 ( VC ) 사업 부 로부터 관련 보고 를 받 고 스마트 카 와 관련한 다른 회사 들 의 전시 부스 들 도 꼼꼼히 둘러 봤 다 .	PER-B O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+군 관계자 는 언론 을 통해 “ 북한 군 이 대남 확성기 방송 을 시작 했 지만 방송 시설 이 좋 지 않 아 소리 가 뜨문뜨문 들려 내용 파악 이 어렵 다 ” 고 말 했 다 .	O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 “ 북한 군 도 우리 군 의 확성기 방송 이 많이 거슬릴 것 ” 이 라며 “ 북한 군 자체 적 으로 방송 을 시작한 것 같 다 ” 고 말 했 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O

@@ -1,11 +1,11 @@
-한편, 박유천-신세경의 ‘냄새를 보는 소녀’ 속 호흡 비결이 공개되었다 .	O PER-B O O O O O O O O
-유승민 의원, 대구사무실의 박 대통령 사진 떼+어내 +었 .	PER-B O LOC-B PER-B O O O O O
-원학동의 한 가운데가 위천면이+ㄴ 데이곳에 황금원숭이 마을(상천마을)이 있다 .	LOC-B O O LOC-B O LOC-B LOC-B O O
-박근혜 대통령은 후보 시절에 “집권 후에는 4년 중임제와 국민기본권 강화를 포함하+ㄴ 여러 과제에 대하+여충분히 논의하겠다”고 말하었으나 대통령이 되고 나+아서는 개헌론이 불거지+ㄹ 때마다 ‘국정의 블랙홀’을 들먹이며 제동을 걸었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그에게 朴은 꼭 뭐 +이+ㄴ가 보이어+주었던 선수… 본인이 필요하 .	O PER-B O O O O O O O O
-산림청은 경북 봉화군에 있는 국립백두대간 수목원 ‘호랑이숲’에 백두산 호랑이 3마리를 6~7월 경 추가 도입하기로 +였다고 12일 밝히었다 .	ORG-B LOC-B LOC-B O O O O O O O O O O O O O O O
-대법원 전원합의체(주심 김소영 대법관)는 이날 오후 2시 서울 서초구 대법원 대법정에서 살인 및 살인미수, 수난구조법 위반 등의 혐의로 기소되+ㄴ이준석 선장에 대하+ㄴ상고심에서 무기징역을 선고하+ㄴ 원심을 확정하였다 .	ORG-B O PER-B O O O O LOC-B LOC-B ORG-B O O O O O O O O PER-B O O O O O O O
-함께 기소되+ㄴ 선원 14명에 대하+여서도 징역 1년 6개월~12년을 선고하+ㄴ 원심을 확정하였다 .	O O O O O O O O O O O O
-1심 재판부는 세월호 이준석 선장에게 살인죄를 적용하지 않고, 유기치사죄를 인정하+여 징역 36년을 선고 하+ㄴ바 있다 .	O O O PER-B O O O O O O O O O O O O
-하지만 2심 재판부는 이 선장에게 살인의 미필적 고의가 있었다고 인정하+여무기징역을 선고하였다 .	O O O O O O O O O O O O
-조호성이 은퇴하+ㄴ 뒤 노태경, 이욱동으로 대표되는 세대교체, 4점대 이상의 고기어 추세에 적응하지 못하며 2010년 10승으로 성적이 곤두박질 치었다 .	PER-B O O PER-B PER-B O O O O O O O O O O O O O O
+한편 , 박유천 - 신세경 의 ‘ 냄새 를 보 는 소녀 ’ 속 호흡 비결 이 공개 됐 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O O O
+유승민 의원 , 대구 사무실 의 박 대통령 사진 떼 냈 다	PER-B O O LOC-B O O PER-B O O O O O
+원 학동 의 한 가운데 가 위천면 인데 이 곳 에 황금 원숭이 마을 ( 상천 마을 ) 이 있 다 .	LOC-B LOC-I O O O O LOC-B O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I O O O O O
+박근혜 대통령 은 후보 시절 에 “ 집권 후 에 는 4 년 중임 제 와 국민 기본권 강화 를 포함한 여러 과제 에 대해 충분히 논의하 겠 다 ” 고 말 했 으나 대통령 이 되 고 나서 는 개헌 론 이 불거질 때 마다 ‘ 국정 의 블랙홀 ’ 을 들먹이 며 제동 을 걸 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 에게 朴 은 꼭 뭔가 보 여 줬 던 선수 … 본인 이 필요하 다	O O PER-B O O O O O O O O O O O O O
+산림청 은 경북 봉화군 에 있 는 국립 백두대간 수목원 ‘ 호랑이 숲 ’ 에 백두산 호랑이 3 마리 를 6 ~ 7 월 경 추가 도입 키 로 했 다고 12 일 밝 혔 다 .	ORG-B O LOC-B LOC-B O O O O O O O O O O O O O O O O DAT-B O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O
+대법원 전원 합의체 ( 주심 김소영 대법관 ) 는 이날 오후 2 시 서울 서초구 대법원 대법정 에서 살인 및 살인 미수 , 수난 구조 법 위반 등 의 혐의 로 기소된 이준석 선장 에 대한 상고심 에서 무기 징역 을 선고한 원심 을 확정 했 다 .	ORG-B O O O O PER-B O O O O TIM-B TIM-I TIM-I LOC-B LOC-B ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+함께 기소된 선원 14 명 에 대해서 도 징역 1 년 6 개월 ~ 12 년 을 선고한 원심 을 확정 했 다 .	O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O
+1 심 재판부 는 세월호 이준석 선장 에게 살인죄 를 적용하 지 않 고 , 유기 치사죄 를 인정해 징역 36 년 을 선고한 바 있 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+하지만 2 심 재판부 는 이 선장 에게 살인 의 미필 적 고의 가 있 었 다고 인정해 무기 징역 을 선고 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+조호성 이 은퇴한 뒤 노태경 , 이욱동 으로 대표 되 는 세대 교체 , 4 점 대 이상 의 고기 어 추세 에 적응하 지 못하 며 2010 년 10 승 으로 성적 이 곤두박질 쳤 다 .	PER-B O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O

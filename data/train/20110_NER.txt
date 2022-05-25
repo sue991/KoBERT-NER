@@ -1,13 +1,13 @@
-국가보훈처는 “임정기념관 건립이 필요하다는 데 동의 하+ㄴ다 .	ORG-B LOC-B O O O O O O
-이런 협력은 위협이 아니+ㅁ에도 오히려 미국과 그 동맹국은 위협이라고 상상 하+ㄴ다 .	O O O O O ORG-B O O O O O O
-국내 지지율 탄탄하+ㄴ 4강 정상 트럼프는 자신의 지지층이 +ㄴ성나+ㄴ 백인 남성(앵그리 화이트맨)과 공화당 지지자들이 요구하는 강력 하+ㄴ대외 정책을 밀어붙이+ㄹ 기반을 탄탄하게 마련하였다 .	O O O O O PER-B O O ORG-B ORG-I ORG-B ORG-I ORG-B O O O O O O O O O O
-또 인천경인항 전망대에서는 6개월 내 전국의 터널·항만·옹벽·댐·하천 등을 대상으로 안전진단을 하+ㄴ 뒤 노후인프라 재건 5개년 계획을 세우+ㄴ다는 내용의 ‘경제살리기 뉴딜플랜’을 발표하였다 .	O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O
-농촌진흥청이 11월의 식재료로 무·쌀과 함께 배추를 선정하+ㄴ 것은 그리 하+여서 +이다 .	ORG-B O O O O O O O O O O O
-9월에만 3할 에 오르았다가 이튿날 바로 2 하+ㄹ대로 떨어지+ㄴ 것이 3번.20일 사직 삼성전에서 9월 들어 4번째로 3할 고지를 밟았다 .	O O O O O O O O O O O LOC-B O O O O O O O O
-이 회의의 의장이 +ㄴ아베 신조(安倍晋三) 총리의 승인을 얻은 뒤 전문가 회의와 여론 수렴 절차를 거치+어 본격적으로 조정이 이루어 지+ㄹ 것으로 전망되+ㄴ다 .	O O O PER-B PER-B O O O O O O O O O O O O O O O O O
-이 유리하차하는 '세 바퀴', 비+ㄴ 자리 대신 하+ㄹ새 MC는 .	O O O O O O O O O O
-특검팀이 최근 최씨 측근에 대하+ㄴ 조사에서 이 같은 진술을 확보하였다고 보도하였다 .	O PER-B PER-B O O O O O O O O O
-주변에 23만㎡ 규모의 롯데타운이 들어서 +ㄴ다 .	O O O LOC-B O O O
-높은 미래가치에 600만원대의 합리적 이+ㄴ 분양가도 주목하+ㄹ만 하다 .	O O MNY-B O O O O O O
-국방부 요직에서 복무하였던 복수의 퇴역 장성에 따르면 “김 실장이 군인사에 매우 깊이 개입하고 있다는 것을 알+ㄹ만 하+ㄴ사람은 다알+ㄴ다”며 “도발하면 원점까지 타격하겠다고 호언장담하더니 정작 북핵 도발에 대하+여서 +ㄴ 전략이 없다”고 +였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또한 SM측은 “유노윤호가 조용히 입대하기를 희망하는 만큼, 본인의 의사를 존중하+ 여입대 장소 및 시간은 공개하지 않는다”고 덧붙이었다 .	O ORG-B PER-B O O O O O O O O O O O O O O O
+국가 보훈 처 는 “ 임정 기념관 건립 이 필요하 다는 데 동의한다 .	ORG-B ORG-I ORG-I O O LOC-B LOC-I O O O O O O O
+이런 협력 은 위협 이 아님에도 오히려 미국 과 그 동맹국 은 위협 이 라고 상상한다 .	O O O O O O O ORG-B O O O O O O O O O
+국내 지지율 탄탄한 4 강 정상 트럼프 는 자신 의 지지 층 인 성난 백인 남성 ( 앵그리 화이트 맨 ) 과 공화당 지지자 들 이 요구하 는 강력한 대외 정책 을 밀어붙일 기반 을 탄탄하 게 마련 했 다 .	O O O O O O PER-B O O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O ORG-B O O O O O O O O O O O O O O O O O O
+또 인천 경인 항 전망대 에서 는 6 개월 내 전국 의 터널 · 항만 · 옹벽 · 댐 · 하천 등 을 대상 으로 안전 진단 을 한 뒤 노후 인프라 재건 5 개년 계획 을 세운다는 내용 의 ‘ 경제 살리 기 뉴딜 플랜 ’ 을 발표 했 다 .	O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+농촌 진흥 청 이 11 월 의 식 재료 로 무 · 쌀 과 함께 배추 를 선정한 것 은 그래서 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+9 월 에 만 3 할 에 올 랐 다가 이튿날 바로 2 할 대로 떨어진 것 이 3 번 . 20 일 사직 삼성 전 에서 9 월 들 어 4 번째 로 3 할 고지 를 밟 았 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B O O O DAT-B DAT-I O O O O O O O O O O O O O
+이 회의 의 의장 인 아베 신조 ( 安倍晋三 ) 총리 의 승인 을 얻 은 뒤 전문가 회의 와 여론 수렴 절차 를 거쳐 본격적 으로 조정 이 이뤄질 것 으로 전망된다 .	O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이유리 하차하 는 ' 세 바퀴 ' , 빈 자리 대신할 새 MC 는 ?	PER-B O O O O O O O O O O O O O O
+특검 팀 이 최근 최 씨 측근 에 대한 조사 에서 이 같 은 진술 을 확보 했 다고 보도 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
+주변 에 23 만 ㎡ 규모 의 롯데 타운 이 들어선다 .	O O O O O O O LOC-B LOC-I O O O
+높 은 미래 가치 에 600 만 원 대 의 합리적 인 분양가 도 주목할 만하 다 .	O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+국방부 요직 에서 복무 했 던 복수 의 퇴역 장성 에 따르 면 “ 김 실장 이 군 인사 에 매우 깊이 개입하 고 있 다는 것 을 알 만한 사람 은 다 안다 ” 며 “ 도발하 면 원점 까지 타격하 겠 다고 호언장담하 더니 정작 북 핵 도발 에 대해선 전략 이 없 다 ” 고 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 SM 측 은 “ 유노 윤호 가 조용히 입대하 기 를 희망하 는 만큼 , 본인 의 의사 를 존중해 입대 장소 및 시간 은 공개하 지 않 는다 ” 고 덧붙 였 다 .	O ORG-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

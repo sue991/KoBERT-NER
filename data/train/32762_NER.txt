@@ -1,14 +1,14 @@
-7년 전 아우디·폴크스바겐코리아 사장이었던 그는 폴크스바겐의 TDI(터보 직 분사) 디젤 엔진 전 차종 미디어 시승행사에서기자에게 이렇게 말하였다 .	O O ORG-B O O ORG-B O O O O O O O O O O O O
-[사설] 롯데 ‘황제경영’ 막으려면 김종인 상법 제대로 논의 하+ 여 .	O ORG-B O O PER-B O O O O O O
-“디스패치클라라, 진실은 무엇이 +ㄴ가요?” 등의 반응을 보이었다 .	ORG-B O O O O O O O
-힐링캠프 성유리, XX욕설女 학생에 복수혈전?“교복 보면 움찔!” 알고 보니 … ‘힐링캠프’ 성유리가 과거 안티팬에게 통쾌하+ㄴ 복수를 +였던 일화를 공개하였다 .	O PER-B O O O O O O O O O PER-B O O O O O O O O
-20일 방송되+ㄴ SBS ‘힐링캠프, 기쁘지 아니 하+ㄴ가’(이하 ‘힐링캠프’)에서는 배우 성유리와 정려원이 일본으로 힐링 여행을 떠나는 모습이 그리 +어+지었다 .	O O ORG-B O O O O O O PER-B PER-B LOC-B O O O O O O O
-이날 ‘힐링캠프’에서 성유리와 정려원은 기차를 타고 예약하+ㄴ 숙소로 이동하던 중 전성기의 추억을 떠올리었다 .	O O PER-B PER-B O O O O O O O O O O
-성유리는 과거 안티팬에 대하+ㄴ 기억을 꺼내며 “어디+ㄹ가+아나욕을 먹었다 .	PER-B O O O O O O O O
-통합 씨름협회(회장 박팔용)가 주최하고, 문화체육관광부와 국민체육진흥공단이 재정 후원을 하는 ‘2016 추석 장사 씨름대회’가 13일부터 18일까지 6일간 장충체육관에서 열리+ㄴ다 .	ORG-B ORG-I PER-B O ORG-B ORG-B O O O O O O O O O O LOC-B O O
-이에 대하+여 한국 외교부는 10일 “우리 입장은 이미 공개적으로 여러 차례 밝히+ㄴ바 있고 이제 중요하+ㄴ 것은 일본이 발언문에서 국제사회에 약속하+ㄴ대로 이행하는 것”이라며 정면 대응을 피하였다 .	O O ORG-B ORG-I O O O O O O O O O O O O ORG-B O O O O O O O O O
-1961년생 호주 작곡가 브렛딘의 ‘성가시+ㅁ과 헌신(Vexationsanddevotions)’.음악은 군중의 소음으로 시작하+ㄴ다 .	O LOC-B O PER-B O O O O O O
-위스키 더 글렌리벳 ‘더(THE) 캠페인 .	O O O O O O
-지뢰가 폭발하+ 여두다리를 잃는 중상을 입었다 .	O O O O O O O
-17세기부터 현대까지 폭넓은 레퍼토리를 자랑하는 그는 자신만의 독창적 이+ㄴ 악보 해석법으로 유명하다 .	O O O O O O O O O O O O O
-이들은 “지상으로 올라 오+ㄴ 세월호의 수습 작업이 드디어 시작되었지만 국민의 여망과 우리들의 간절하+ㄴ바람에도 불구하고 미수습자 수습을 위하 +ㄴ 작업은 전혀 진척이 이루어지지 않고 있다”며 “미수습자 수습을 시작하+ㄴ 지 사흘이 지나 +았지만 작업은 한 발짝도 못나+아가고 있다”고 지적하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 년 전 아우디 · 폴크스바겐 코리아 사장 이 었 던 그 는 폴크스바겐 의 TDI ( 터보 직분 사 ) 디젤 엔진 전 차종 미디어 시승 행사 에서 기자 에게 이렇 게 말 했 다 .	O O O ORG-B ORG-I ORG-I ORG-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+[ 사설 ] 롯데 ‘ 황제 경영 ’ 막 으려면 김종인 상법 제대로 논의해야	O O O ORG-B O O O O O O PER-B O O O
+“ 디스 패치 클라라 , 진실 은 무엇 인가 요 ? ” 등 의 반응 을 보 였 다 .	O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O
+힐링 캠프 성유리 , XX 욕설 女 학생 에 복수 혈전 ? “ 교복 보 면 움찔 ! ” 알 고 보 니 … ‘ 힐링 캠프 ’ 성유리 가 과거 안티 팬 에게 통쾌한 복수 를 했 던 일화 를 공개 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+20 일 방송된 SBS ‘ 힐링 캠프 , 기쁘 지 아니한가 ’ ( 이하 ‘ 힐링 캠프 ’ ) 에서 는 배우 성유리 와 정려원 이 일본 으로 힐링 여행 을 떠나 는 모습 이 그려 졌 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O PER-B O PER-B O LOC-B O O O O O O O O O O O O
+이날 ‘ 힐링 캠프 ’ 에서 성유리 와 정려원 은 기차 를 타 고 예약한 숙소 로 이동하 던 중 전성기 의 추억 을 떠올 렸 다 .	O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O
+성유리 는 과거 안티 팬 에 대한 기억 을 꺼내 며 “ 어딜 가나 욕 을 먹 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+통합 씨름 협회 ( 회장 박팔용 ) 가 주최하 고 , 문화 체육 관광부 와 국민 체육 진흥 공단 이 재정 후원 을 하 는 ‘ 2016 추석 장사 씨름 대회 ’ 가 13 일 부터 18 일 까지 6 일 간 장충체육관 에서 열린다 .	ORG-B ORG-I ORG-I O O PER-B O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O DAT-B O O O O O O O O O O O O O O O LOC-B O O O
+이 에 대해 한국 외교 부 는 10 일 “ 우리 입장 은 이미 공개적 으로 여러 차례 밝힌 바 있 고 이제 중요한 것 은 일본 이 발언 문 에서 국제 사회 에 약속한 대로 이행하 는 것 ” 이 라며 정면 대응 을 피 했 다 .	O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+1961 년 생 호주 작곡가 브렛 딘 의 ‘ 성가심 과 헌신 ( Vexations and devotions ) ’ . 음악 은 군중 의 소음 으로 시작한다 .	DAT-B DAT-I O LOC-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+위스키 더 글렌 리벳 ‘ 더 ( THE ) 캠페인 ’	O O O O O O O O O O O
+지뢰 가 폭발해 두 다리 를 잃 는 중상 을 입 었 다 .	O O O O O O O O O O O O O O
+17 세기 부터 현대 까지 폭넓 은 레퍼토리 를 자랑하 는 그 는 자신 만 의 독창적 인 악보 해석법 으로 유명하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+이 들 은 “ 지상 으로 올라온 세월호 의 수습 작업 이 드디어 시작 됐 지만 국민 의 여망 과 우리 들 의 간절한 바람 에 도 불구하 고 미 수습 자 수습 을 위한 작업 은 전혀 진척 이 이뤄지 지 않 고 있 다 ” 며 “ 미 수습 자 수습 을 시작한 지 사흘 이 지났 지만 작업 은 한 발짝 도 못나 가 고 있 다 ” 고 지적 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

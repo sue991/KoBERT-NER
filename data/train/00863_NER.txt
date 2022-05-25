@@ -1,15 +1,15 @@
-구글은 5월 한 개발자회의에서 ‘구글 나우’ 서비스를 통하+여렌터카를 쓰는 여행객에게 연료를 채우어야 하+ㄹ 시점과 근처 주유소를 알리+어주는 기능을 만들었다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O
-헤드페이스에는 단조하이코어 CSP-700티타늄, 보디 부분에는 6-4 티타늄을 사용하+여초 고강도 헤드로 제작하였다 .	O O O O O O O O O O O O
-한편, 스타벅스는 청년인재 양성 프로그램을 위하+여초록 우산어린이재단과 함께 청년인재로 선발되+ㄴ대학생들에게 4년간 매년 500만원의 장학금을 지원하고, 이들의 리더십 개발을 위하+ㄴ 유스리더십 캠프, 명사 초청 워크숍, 지역사회 봉사활동 등의 프로그램을 진행하고 있다 .	O ORG-B O O O ORG-B ORG-I O O O O O MNY-B O O O O O O O O O O O O O O O O O O
-에볼라 구호대 귀국, 4주간 의료활동 완 .	O O O O O O O
-이날 마크 리퍼트 주한 미국대사는 세종문화회관에서 열리+ㄴ 조찬강연행사 중 ‘우리마당’ 김기종 씨가 휘두르+ㄴ 흉기(약 25cm 길이의 과도)에 피습 받았다 .	O PER-B PER-I O O LOC-B O O O ORG-B PER-B O O O O O O O O O
-늦은 오후 전국으로 비, 남해상에서 북상하는 기압골 영향 … 예상 강수량은 .	O O O O LOC-B O O O O O O O
-여기에 +ㄴ ‘리스트 8명’에 대하+ㄴ 수사단서는 물론이고 의외의 인물에 대하+ㄴ 수사단서도 있을 것으로 검찰은 보고 있다 .	O O O O O O O O O O O O O O O O O
-30억유로의 세금을 지방에 내리+어 보내겠다는 공약을 들고 나오았다 .	MNY-B O O O O O O O O
-골프장을 5개나 갖고 있지만 골프를 치지 않는다 .	O O O O O O O O
-지나+ㄴ덕유산 산행의 여파가 생각보다 +었나 보다 .	LOC-B O O O O O O
-함께 하었던 일행 9명 가운데 1명은 무릎 연골을 수술하고 (오래전부터 예정되었던 것+이었지만), 또 한 명은 발목 인대를 다치+어 아직까지 병원을 오가며 재활치료를 받고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-'SNL7' 양정원, 크루들과 인증샷 "평생 남을 추억 .	ORG-B PER-B O O O O O O
-하지만 이매화는 수명이 100년 안팎으로 추정되는 꽃으로, 모양이 마치 용이 눕어 있는 것 같다고 하+여서 '와룡매'로 불리+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-박카스 F는 박카스 D에 소화 기능과 심장 활력 증대 등에 효과가 있는 카르니틴을 추가 하+ㄴ 제품이다 .	O O O O O O O O O O O O O O O O O
-일요일 오후 +이었지만 좌석 200여개가 모두 차+아간 이의자를 놓아야 하+ㄹ 정도+이었다 .	O O O O O O O O O O O O
+구글 은 5 월 한 개발자 회의 에서 ‘ 구글 나우 ’ 서비스 를 통해 렌터카 를 쓰 는 여행객 에게 연료 를 채 워야 할 시점 과 근처 주유소 를 알려 주 는 기능 을 만들 었 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+헤드 페이스 에 는 단조 하이 코어 CSP - 700 티타늄 , 보디 부분 에 는 6 - 4 티타늄 을 사용해 초 고강도 헤드 로 제작 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 스타벅스 는 청년 인재 양성 프로그램 을 위해 초록 우산 어린이 재단 과 함께 청년 인재 로 선발된 대학생 들 에게 4 년 간 매년 500 만 원 의 장학금 을 지원하 고 , 이 들 의 리더십 개발 을 위한 유스 리더십 캠프 , 명사 초청 워크숍 , 지역 사회 봉사 활동 등 의 프로그램 을 진행하 고 있 다 .	O O ORG-B O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+에볼라 구호대 귀국 , 4 주간 의료 활동 완료	O O O O O O O O O
+이날 마크 리퍼트 주한 미국 대사 는 세종문화회관 에서 열린 조찬 강연 행사 중 ‘ 우리 마당 ’ 김기종 씨 가 휘두른 흉기 ( 약 25 cm 길이 의 과도 ) 에 피습 받 았 다 .	O PER-B PER-I O O O O LOC-B O O O O O O O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O O O O
+늦 은 오후 전국 으로 비 , 남해 상 에서 북상하 는 기압골 영향 … 예상 강수량 은 ?	O O O O O O O LOC-B O O O O O O O O O O O
+여기 엔 ‘ 리스트 8 명 ’ 에 대한 수사 단서 는 물론 이 고 의외 의 인물 에 대한 수사 단서 도 있 을 것 으로 검찰 은 보 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+30 억 유로 의 세금 을 지방 에 내려 보내 겠 다는 공약 을 들 고 나 왔 다 .	MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+골프장 을 5 개 나 갖 고 있 지만 골프 를 치 지 않 는다 .	O O O O O O O O O O O O O O O O
+지난 덕유산 산행 의 여파 가 생각 보다 컸 나 보 다 .	O LOC-B O O O O O O O O O O O
+함께 했 던 일행 9 명 가운데 1 명 은 무릎 연골 을 수술하 고 ( 오래전 부터 예정 됐 던 거 였 지만 ) , 또 한 명 은 발목 인대 를 다쳐 아직 까지 병원 을 오가 며 재활 치료 를 받 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' SNL 7 ' 양정원 , 크루 들 과 인증 샷 " 평생 남 을 추억 "	O ORG-B ORG-I O PER-B O O O O O O O O O O O O
+하지만 이 매화 는 수명 이 100 년 안팎 으로 추정되 는 꽃 으로 , 모양 이 마치 용 이 누 워 있 는 것 같 다고 해서 ' 와룡 매 ' 로 불린다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박카스 F 는 박카스 D 에 소화 기능 과 심장 활력 증대 등 에 효과 가 있 는 카르니틴 을 추가한 제품 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+일요일 오후 였 지만 좌석 200 여 개 가 모두 차 간이 의자 를 놓 아야 할 정도 였 다 .	DAT-B O O O O O O O O O O O O O O O O O O O O

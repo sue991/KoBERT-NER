@@ -1,17 +1,17 @@
-금융감독원 등 6개 공공기관과 협업 하+여정부 3.0 ‘안심상속 원스톱 서비스’도 제공 하+ㄴ다 .	ORG-B O O O O O O O O O O O O
-‘호남과 연정하는 자세로 호남 민심을 끌어안겠다’는 자세를 보이고 있다” +이면 “호남 민심이 확실하게 돌아오+ㄹ 수 있도록 정성을 다하고 노력 하+ㄹ 것”이라고 밝히었다 .	LOC-B O O LOC-B O O O O O O LOC-B O O O O O O O O O O O O
-송 의원은 이날 오전 BBS 라디오 ‘전영신의 아침저널’과 인터뷰에서 “호남 민심은 올바르+ㄴ 정권교체의 희망과 비전을 누구가 제시하는가를 바라는 문제”+이라면서 이같이 말하였다 .	PER-B O O O O O O O O LOC-B O O O O O O O O O O O O
-그러면서 송 의원은 “호남 민심에 대하+ㄴ문재인 전 대표의 희망과 비전을 구체적으로 연결하는 역할을 하겠다”고 강조하였다 .	O PER-B O LOC-B O PER-B O O O O O O O O O O
-MS 등 글로벌 클라우드 서비스 업체들은 이미 규모의 경제를 구축하+여 클라우드 서비스의 가격을 지속적으로 낮추고 있다 .	ORG-B O O O O O O O O O O O O O O O O
-기업 고객들은 저렴하+ㄴ 가격에 자사 상황에 맞는 최적의 서비스를 구축 하+ㄹ 수 있도록 MS뿐만 아니라 MS의 파트너사에게도 지원을 받을 수 있다 .	O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O
-또 국산 농수산물을 이용하+여 연간 80억달러를 수출하면서 한식을 알리고 농민을 돕는 중요하+ㄴ 산업으로서 그 소임을 다하고 있다 .	O O O O O MNY-B O O O O O O O O O O O O
-신동화 한국식품안전협회 신동화 회 .	PER-B ORG-B PER-B O O
-한 건은 양 대법원장, 다른 한 건은 춘천지법원장 시절 최성준 방송통신위원장에 관하+ㄴ 내용이었다 .	O O PER-B O O O O O O PER-B O O O O
-조 전 사장은 해당 문건이 2014년 1월 6일자 ‘정윤회-십상시(十常侍) 회동’ 문건과 함께 청와대에서 유출되 +ㄴ문건으로, 같은 해 11월 말 세계일보의 정윤회 문건 보도 당시 공개하지 않았던 8건 중 2건이라고 소개하였다 .	PER-B O O O O O O O PER-B O O O ORG-B O O O O O O ORG-B PER-B O O O O O O O O O O
-8.2011년쯤에+ㄴ 교장 지시로 동성애자 색출설문지를 돌리었다는 학교 얘기가 떠들썩하였습니 .	O O O O O O O O O O
-배용준과 박수진 의 결혼식에 참석하+ㄴ한 관계자는 “왕지혜가 부케를 받았다”면서 “화기애애하+ㄴ 분위기 속 예식이 이루어 지+었다”고 현장 분위기를 전하였다 .	PER-B PER-B O O O O PER-B O O O O O O O O O O O O
-한편 배용준과 박수진은 오늘(28일) 소속 사 식구들과 함께 신혼여행을 떠나 +ㄴ다 .	O PER-B PER-B O O O O O O O O O
-서 판사는 ＂이씨 등은 김씨의 사회적 평판을 저하시키+ㄹ만 하+ㄴ댓글을 달아 김씨를 모욕하였다＂며 ＂ 김씨가 입은 정신적 피해를 배상하+ㄹ 책임이 있다 ＂고 판단하였다 .	PER-B O PER-B O PER-B O O O O O PER-B O O PER-B O O O O PER-B O O O O
-매입임대주택은 다가구주택 등을 매입하여 생계·의료급여 수급자 등에게 공급하는 임대주택으로 올해 9000가구가 나오+ㄴ다 .	O O O O O O O O O O O O O
-한씨는 개인택시 4대에 승차거부를 당하+ㄴ후에 야간신히 택시를 잡아 타+ㄹ 수 있었다 .	PER-B O O O O O O O O O O O
-김경숙 전 신산업융합대학장에잇어 최경희 전 총장도 소환되+ㄴ다 .	PER-B O O PER-B O O O O
+금융 감독 원 등 6 개 공공 기관 과 협업해 정부 3.0 ‘ 안심 상속 원스톱 서비스 ’ 도 제공한다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+‘ 호남 과 연정하 는 자세 로 호남 민심 을 끌어안 겠 다 ’ 는 자세 를 보이 고 있 다 ” 면 “ 호남 민심 이 확실하 게 돌아올 수 있 도록 정성 을 다하 고 노력할 것 ” 이라고 밝 혔 다 .	O LOC-B O O O O O LOC-B O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+송 의원 은 이날 오전 BBS 라디오 ‘ 전영신 의 아침 저널 ’ 과 인터뷰 에서 “ 호남 민심 은 올바른 정권 교체 의 희망 과 비전 을 누 가 제시하 는가 를 바라 는 문제 ” 라면서 이같이 말 했 다 .	PER-B O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 송 의원 은 “ 호남 민심 에 대한 문재인 전 대표 의 희망 과 비전 을 구체적 으로 연결하 는 역할 을 하 겠 다 ” 고 강조 했 다 .	O O PER-B O O O LOC-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+MS 등 글로벌 클라우드 서비스 업체 들 은 이미 규모 의 경제 를 구축해 클라우드 서비스 의 가격 을 지속적 으로 낮추 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+기업 고객 들 은 저렴한 가격 에 자사 상황 에 맞 는 최적 의 서비스 를 구축할 수 있 도록 MS 뿐 만 아니 라 MS 의 파트너 사 에게 도 지원 을 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O
+또 국산 농수산물 을 이용해 연간 80 억 달러 를 수출하 면서 한식 을 알리 고 농민 을 돕 는 중요한 산업 으로서 그 소임 을 다하 고 있 다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O
+신동화 한국 식품 안전 협회 신동화 회장	PER-B ORG-B ORG-I ORG-I ORG-I PER-B O
+한 건 은 양 대법원장 , 다른 한 건 은 춘천 지법 원장 시절 최성준 방송 통신 위원장 에 관한 내용 이 었 다 .	O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O
+조 전 사장 은 해당 문건 이 2014 년 1 월 6 일자 ‘ 정윤회 - 십상시 ( 十常侍 ) 회동 ’ 문건 과 함께 청와대 에서 유출된 문건 으로 , 같 은 해 11 월 말 세계일보 의 정윤회 문건 보도 당시 공개하 지 않 았 던 8 건 중 2 건 이 라고 소개 했 다 .	PER-B O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I O O PER-B O O O O O O O O O O ORG-B O O O O O O O O DAT-B DAT-I O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O
+8.2011 년 쯤 엔 교장 지시 로 동성애자 색출 설문지 를 돌 렸 다는 학교 얘기 가 떠들썩 했 습니다	DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+배용준 과 박수진 의 결혼식 에 참석한 한 관계자 는 “ 왕지혜 가 부케 를 받 았 다 ” 면서 “ 화기애애한 분위기 속 예식 이 이뤄졌 다 ” 고 현장 분위기 를 전 했 다 .	PER-B O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 배용준 과 박수진 은 오늘 ( 28 일 ) 소속 사 식구 들 과 함께 신혼여행 을 떠난다 .	O PER-B O PER-B O O O DAT-B DAT-I O O O O O O O O O O O
+서 판사 는 ＂ 이 씨 등 은 김 씨 의 사회적 평판 을 저하 시킬 만한 댓글 을 달 아 김 씨 를 모욕 했 다 ＂ 며 ＂ 김 씨 가 입 은 정신적 피해 를 배상할 책임 이 있 다 ＂ 고 판단 했 다 .	PER-B O O O PER-B O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+매입 임대 주택 은 다가구주택 등 을 매입하 여 생계 · 의료 급여 수급 자 등 에게 공급하 는 임대주택 으로 올해 9000 가구 가 나온다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 씨 는 개인 택시 4 대 에 승차 거부 를 당한 후 에 야 간신히 택시 를 잡아탈 수 있 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+김경숙 전 신 산업 융합 대학 장 에 이 어 최경희 전 총장 도 소환된다 .	PER-B O O O O O O O O O PER-B O O O O O

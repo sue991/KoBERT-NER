@@ -1,13 +1,13 @@
-박 총장도 이 모임에 참석, 파장을 불러일으키+ㄴ이 번 발언의 경위와 배경을 설명 하+ㄹ 예정이다 .	PER-B O O O O O O O O O O O O O O
-1985년 아버지의 화과자 전문점이 도산하였다 .	O O O O O O
-누리과정 예산과 역사교과서 국정화 등 주요 현안을 두고 교육부와 대립각을 세우었던 것과는 달라 지+ㄴ 모습이다 .	O O O O O O O O ORG-B O O O O O O O
-심지어는 헐리우드로 가+아버리+ㄴ 배우도 초밥을 먹기위 하+여헬기를 타고 스튜디오로 돌아오+ㄴ다 .	O ORG-B O O O O O O O O O
-모싯잎 송편으로 유명 하+ㄴ 전남 영광군에 있는 사회적기업 ‘산머루 마을’이 설 명절을 앞두고서+ㄹ·추석절기 음식 등을 함께 담은 선물세트를 준비하였다 .	O O O O LOC-B LOC-B O O ORG-B ORG-I O O O O O O O O O O
-테크니션 40은 당일 산행 및 중거리 산행에 적합하+ㄴ 40리터짜리 배낭으로 밀레가 자체 개발하+여 특허를 출원하+ㄴ젤 컴포트(GelComfort) 시스템을 장착하였다 .	O O O O O O O O O O ORG-B O O O O O O O O
-자세 하+ㄴ사항은 홈페이지(www. ybmcall. com) 참조 .	O O O O O O O
-이처럼 경영효율성과 투명성을 함께 높이는 노력에 힘입어 지난해 부채 7500억원을 줄이고 2476억원의 순이익을 내+었다 .	O O O O O O O O O MNY-B O MNY-B O O O
-광복 70주년이 다가오+ㄴ다 .	O O O O
-이에 이수근은 “채아 다음 주에 다른 사람이랑 열애설 나면 ? 우리 항상 그렇었잖아”라고 말하였다 .	O PER-B PER-B O O O O O O O O O O O O
-매주 목요일, 전 경기 판정에 대하+ㄴ 평가 메일 수신 모든 경기심판들의 판정평가 평균과 자신의 평점만 공개 잘 하+ㄴ 부분, 못하+ㄴ 부분에 대하+ 여세세히코멘트 전달 프로축구 심판들에게 목요일은 달갑지 않다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-박 대통령이 물러나고 사드 배치에 부정적 입장을 보이어 오+ㄴ 야당이 정권을 잡으면 변화가 있을 수 있다는 판단에서 +이다 .	PER-B O O O O O O O O O O O O O O O O O O
-이 때문에 최근 한국을 찾는 중국 학자들은 시간을 벌기 위 하+여이구동성으로 한국이 사드 배치를 서두르지 말아야 하+ㄴ다고 목청을 높이 +ㄴ다 .	O O O ORG-B O ORG-B O O O O O ORG-B O O O O O O O O O
+박 총장 도 이 모임 에 참석 , 파장 을 불러일으킨 이번 발언 의 경위 와 배경 을 설명할 예정 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+1985 년 아버지 의 화 과자 전문점 이 도산 했 다 .	DAT-B DAT-I O O O O O O O O O O
+누리 과정 예산 과 역사 교과서 국정 화 등 주요 현안 을 두 고 교육부 와 대립각 을 세 웠 던 것 과 는 달라진 모습 이 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+심지어 는 헐리우드 로 가 버린 배우 도 초밥 을 먹 기 위해 헬기 를 타 고 스튜디오 로 돌아온다 .	O O ORG-B O O O O O O O O O O O O O O O O O O
+모싯잎 송편 으로 유명한 전남 영광군 에 있 는 사회적 기업 ‘ 산머루 마을 ’ 이 설 명절 을 앞두 고 설 · 추석 절기 음식 등 을 함께 담 은 선물 세트 를 준비 했 다 .	O O O O LOC-B LOC-B O O O O O O ORG-B ORG-I O O DAT-B O O O O DAT-B O DAT-B O O O O O O O O O O O O O O
+테크니션 40 은 당일 산행 및 중거리 산행 에 적합한 40 리터 짜리 배낭 으로 밀레 가 자체 개발해 특허 를 출원한 젤 컴포트 ( Gel Comfort ) 시스템 을 장착 했 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+자세한 사항 은 홈페이지 ( www . ybmcall . com ) 참조 .	O O O O O O O O O O O O O
+이 처럼 경영 효율 성 과 투명 성 을 함께 높이 는 노력 에 힘입 어 지난해 부채 7500 억 원 을 줄이 고 2476 억 원 의 순이익 을 냈 다 .	O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O O
+광복 70 주년 이 다가온다 .	O O O O O O
+이 에 이수근 은 “ 채 아 다음 주 에 다른 사람 이랑 열애 설 나 면 ? 우리 항상 그 랬 잖아 ” 라고 말 했 다 .	O O PER-B O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+매주 목요일 , 전 경기 판정 에 대한 평가 메일 수신 모든 경기 심판 들 의 판정 평가 평균 과 자신 의 평점 만 공개 잘한 부분 , 못한 부분 에 대해 세세히 코멘트 전달 프로 축구 심판 들 에게 목요일 은 달갑 지 않 다 .	O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B O O O O O O
+박 대통령 이 물러나 고 사드 배치 에 부정적 입장 을 보 여 온 야당 이 정권 을 잡 으면 변화 가 있 을 수 있 다는 판단 에서 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 때문 에 최근 한국 을 찾 는 중국 학자 들 은 시간 을 벌 기 위해 이구동성 으로 한국 이 사드 배치 를 서두르 지 말 아야 한다고 목청 을 높인다 .	O O O O ORG-B O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O

@@ -1,9 +1,9 @@
-상선에서 일본을 제치었듯이 특화시키+ㄹ만 하+ㄴ 것을 찾아야 하+ㄴ다는 것이다 .	O ORG-B O O O O O O O O
-그러므로 선진국 영향 하에 있는 신흥국들은 영향을 덜 받고 중국에 대하+ㄴ 시각은 최근에 급격하게 추락하는 느낌이다 .	O O O O O O O O O ORG-B O O O O O O O
-‘억대 사기 혐의로 기소’이주노, 피해자에게서태지 언급하였다 .	O O O PER-B PER-B O O
-[신공항 대신 ‘김해공항 확장’] 공항 확장 배경-향후 일 .	LOC-I O LOC-B O O O O O O
-‘라디오 스타’가 독특하+ㄴ 개성의 네 사람을 한데 모으아웃음꽃을 피우어 내 +었다 .	O O O O O O O O O O O O
-재판부는 김씨에게 적용되 +ㄴ살인미수와 외국 사절 폭행, 업무방해 혐의는 유죄로 인정하면서도 국가보안법 위반 혐의는 무죄로 +았다 .	O PER-B O O O O O O O O O O O O O O O
-현역 시절 레알에서 뛰는 동안(2001∼2006년) 루이스 피구, 데이비드 베컴, 호나우두 등과 함께 ‘갈락티 코레알’의 중심을 이루었던 지단이 레알을 바꾸+어놓을 수 있을지에 관심이 쏠리+ㄴ다 .	O O ORG-B O O PER-B PER-I PER-B PER-I PER-B O O O ORG-B O O PER-B ORG-B O O O O O O
-국민안전처는 지난해 11월부터 1년간 ‘석촌호수 주변 안전관리 전담팀’을 운영하+ㄴ 결과 지반 침하나 도로 침몰 등 지반 안전에 이상이 없는 것으로 조사되었다고 3일 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-현경 교수는 스스로를 ‘살림이스트’라 부르+ㄴ다 .	PER-B O O O O O
+상선 에서 일본 을 제 쳤 듯이 특화 시킬 만한 것 을 찾 아야 한다는 것 이 다 .	O O ORG-B O O O O O O O O O O O O O O O O
+그러므로 선진국 영향 하 에 있 는 신흥 국 들 은 영향 을 덜 받 고 중국 에 대한 시각 은 최근 에 급격하 게 추락하 는 느낌 이 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+‘ 억 대 사기 혐의 로 기소 ’ 이주노 , 피해자 에게 서태지 언급 했 다 ?	O O O O O O O O PER-B O O O PER-B O O O O
+[ 신 공항 대신 ‘ 김해 공항 확장 ’ ] 공항 확장 배경 - 향후 일정	O O O O O LOC-B LOC-I O O O O O O O O O
+‘ 라디오스타 ’ 가 독특한 개성 의 네 사람 을 한 데 모 아 웃음꽃 을 피 워 냈 다 .	O O O O O O O O O O O O O O O O O O O O O
+재판부 는 김 씨 에게 적용된 살인 미수 와 외국 사절 폭행 , 업무 방해 혐의 는 유죄 로 인정하 면서 도 국가 보안법 위반 혐의 는 무죄 로 봤 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현역 시절 레알 에서 뛰 는 동안 ( 2001 ∼ 2006 년 ) 루이스 피구 , 데이비드 베컴 , 호나우두 등 과 함께 ‘ 갈락티코 레알 ’ 의 중심 을 이 뤘 던 지단 이 레알 을 바꿔 놓 을 수 있 을지 에 관심 이 쏠린다 .	O O O O O O O O O O O O O PER-B PER-I O PER-B PER-I O PER-B O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O
+국민안전처 는 지난해 11 월 부터 1 년 간 ‘ 석촌 호수 주변 안전 관리 전담 팀 ’ 을 운영한 결과 지반 침 하나 도로 침몰 등 지반 안전 에 이상 이 없 는 것 으로 조사 됐 다고 3 일 밝 혔 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+현경 교수 는 스스로 를 ‘ 살림 이스트 ’ 라 부른다 .	PER-B O O O O O O O O O O O

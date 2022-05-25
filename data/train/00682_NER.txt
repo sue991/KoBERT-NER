@@ -1,16 +1,16 @@
-또한 경찰은 송학식품 측이 회사 사무실에 남아있는 증거를 없애려 한 정황이 포착되었으며, 송학식품 측이 이번 사건이 붉어지고 퇴사하려는 직원들에게 경찰 진술을 번복하라고 지시하였다고 밝히었다 .	O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O
-한편 송학식품은 3년 연속 떡 부문 시장 점유율 1위로 연간 매출 규모는 500억원대인 것으로 알려지었다 .	O ORG-B O O O O O O O O O O MNY-B O O O
-러시아 출신 팝스타나 디아볼리아노바의란제리 차림이 포착되었다 .	ORG-B O O O O O O
-평소 트위터를 통하+여소통을 잘하기로 유명 하+ㄴ이 시장은 황의 조의 요청에도 어김없이 응답하였다 .	O ORG-B O O O PER-B O O O O PER-B O O
-건강보험심사평가원과 대한한방병원협회에 따르면 의료기관 종별 교통사고 후유증 진료건수는 한방병원이 전년 대비 27%, 한의원은 22.8% 증가 하+ㄴ 것으로 나타나 +았다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O O O
-자생한방병원이 교통사고 후유증 치료를 위하+여내 원하+ㄴ 환자 859명을 대상으로 설문조사를 실시하+ㄴ 결과 교통사고로 인하+ㄴ 통증 발생 부위는 목(81%), 허리(79%), 어깨(48%), 무릎(18%) 순으로 나타나 +았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-그리고 더 까탈스럽어 +지었더라”며 “배우가 편하게 연기하는 꼴을 못 보더라.200%를 넘어서 바닥에 있는 것까지 털어서 쓰더라”는 말로 웃음을 +었다 .	O O O O O O O O O O O O O O O O O O O O
-정우성은 영화 ‘아수라’에서 말기 암 환자 이+ㄴ아내의 병원비를 핑계로 돈 되는 일은 뭐든지 하는 강력계 형사한도 경역을 맡았다 .	PER-B O O O O O O O O O O O O O O O O O O
-법무부는 특히 마이크로웨이브와 레이더트랜스미션, 라디오와 기타 엔진 작동에 관계되는 장치 등 제트항공기의 전자부품 조립 공정에 문제가 있는 것으로 추정하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-▼ 많은 한국인은 솔트레이크 올림픽에서 김동성 선수가 안톤 오노의 할리우드 액션 탓에 금메달을 빼앗기었다고 여기 +ㄴ다 .	O O O LOC-B O PER-B O PER-B PER-I O O O O O O O O
-특급 오키드 리조트의 풀장과 바, 키즈클럽 등 다양하+ㄴ부대시설을 이용하+ㄹ 수 있어 여행이 조금 더 고급스럽어 지+ㄴ다 .	O ORG-B ORG-I O O O O O O O O O O O O O O
-권노갑 12일 더민주 탈당하+ㄹ .	PER-B O ORG-B O O
-그러나 박 의원은 이에 대하+여서도 “허위사실 유포행위가 없어지는 것은 아니다 .	O PER-B O O O O O O O O O
-복면가왕 무대에서 변진섭의 ‘너무 늦었+지 않아요’와 소유 X정기고의 ‘썸’을 다비하지 강민경과 호흡을 맞추+어 들려주며 각종 음원 사이트와 포털사이트의 실시간 검색어 순위 1위를 차지하는 등 네티즌들의 열렬 하+ㄴ 관심을 받은 바 있다 .	O O PER-B O O O ORG-B ORG-I O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O
-한국여행사에 다니었던 어머니 김난(59)씨가 한국 국적을 얻으면서 그도 한국인으로 다시 태어나 +았다 .	ORG-B O O PER-B ORG-B O O O ORG-B O O O O
-술에 취하+ 여자녀를 학대 하+ㄴ 50대 아버지에게도 징역형과 함께 집행유예가 선고되었다 .	O O O O O O O O O O O O
+또한 경찰 은 송학 식품 측 이 회사 사무실 에 남 아 있 는 증거 를 없애 려 한 정황 이 포착 됐 으며 , 송학 식품 측 이 이번 사건 이 붉어지 고 퇴사하 려는 직원 들 에게 경찰 진술 을 번복하 라고 지시 했 다고 밝 혔 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+한편 송학 식품 은 3 년 연속 떡 부문 시장 점유율 1 위 로 연간 매출 규모 는 500 억 원대인 것 으로 알려 졌 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O MNY-B MNY-I O O O O O O O
+러시아 출신 팝 스타 나디아 볼 리 아 노바 의 란제리 차림 이 포착 됐 다 .	ORG-B O O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O
+평소 트위터 를 통해 소통 을 잘 하 기 로 유명한 이 시장 은 황의조 의 요청 에 도 어김없이 응답 했 다 .	O ORG-B O O O O O O O O O PER-B O O O O O O O O O O O O
+건강보험 심사 평가 원 과 대한한방병원협회 에 따르 면 의료 기관 종별 교통사고 후유증 진료 건수 는 한방 병원 이 전년 대비 27 % , 한의원 은 22.8 % 증가한 것 으로 나타났 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자생한방병원 이 교통사고 후유증 치료 를 위해 내원 한 환자 859 명 을 대상 으로 설문 조사 를 실시한 결과 교통사고 로 인한 통증 발생 부위 는 목 ( 81 % ) , 허리 ( 79 % ) , 어깨 ( 48 % ) , 무릎 ( 18 % ) 순 으로 나타났 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그리고 더 까탈스러 워 졌 더라 ” 며 “ 배우 가 편하 게 연기하 는 꼴 을 못 보 더라 . 200 % 를 넘 어서 바닥 에 있 는 것 까지 털 어서 쓰 더라 ” 는 말 로 웃음 을 줬 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정우성 은 영화 ‘ 아수라 ’ 에서 말기 암 환자 인 아내 의 병원 비 를 핑계 로 돈 되 는 일 은 뭐 든지 하 는 강력계 형사 한도경 역 을 맡 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
+법무부 는 특히 마이크 로 웨이브 와 레이더 트랜스미션 , 라디오 와 기타 엔진 작동 에 관계되 는 장치 등 제트 항공기 의 전자 부품 조립 공정 에 문제 가 있 는 것 으로 추정하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+▼ 많 은 한국인 은 솔트 레이크 올림픽 에서 김동성 선수 가 안톤 오노 의 할리우드 액션 탓 에 금메달 을 빼앗 겼 다고 여긴다 .	O O O O O LOC-B LOC-I O O PER-B O O PER-B PER-I O O O O O O O O O O O O
+특급 오키드 리조트 의 풀장 과 바 , 키즈 클럽 등 다양한 부대시설 을 이용할 수 있 어 여행 이 조금 더 고급스러 워 진다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+권노갑 12 일 더 민주 탈당할 듯	PER-B DAT-B DAT-I ORG-B ORG-I O O
+그러나 박 의원 은 이 에 대해서 도 “ 허위 사실 유포 행위 가 없어지 는 것 은 아니 다 .	O PER-B O O O O O O O O O O O O O O O O O O O
+복면 가왕 무대 에서 변진섭 의 ‘ 너무 늦 었 잖 아요 ’ 와 소유 X 정기 고 의 ‘ 썸 ’ 을 다비 치 강민경 과 호흡 을 맞춰 들려주 며 각종 음원 사이트 와 포털 사이트 의 실시간 검색어 순위 1 위 를 차지하 는 등 네티즌 들 의 열렬한 관심 을 받 은 바 있 다 .	O O O O PER-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 여행사 에 다 녔 던 어머니 김난 ( 59 ) 씨 가 한국 국적 을 얻 으면서 그 도 한국인 으로 다시 태어났 다 .	ORG-B O O O O O O PER-B O O O O O ORG-B O O O O O O O O O O O O
+술 에 취해 자녀 를 학대한 50 대 아버지 에게 도 징역형 과 함께 집행 유예 가 선고 됐 다 .	O O O O O O O O O O O O O O O O O O O O O

@@ -1,16 +1,16 @@
-윤지연 아나운서, 방송 중 조우종 아나운서에게 짝사랑 고백… “그 사람이 조우종이다 .	PER-B O O O PER-B O O O O O PER-B O
-경찰의 「범죄 소탕 1백80일 작전」이 시작되+ㄴ 작년부터 일선 경찰관의 과로사가 크게 늘어나 +ㄴ 것으로 밝혀지었다 .	O O O O O O O O O O O O O O O O
-외교부 당국자는 회담 직후 일부에서 제기되는 6자회담 등 향후 대화 재개 가능성에 대하+여 “조셉 윤 대표는 우다웨이(武大偉) 중국 6자회담 수석대표와의 만남에서 북한으로부터 지금 변화를 감지하+ㄹ만 하+ㄴ 신호가 전혀 없으며 지금은 대화 하+ㄹ 때가 아니라는 점을 분명히 +였다”며 “우 대표도 이 같은 점을 인정하였다”고 설명하였다 .	ORG-B O O O O O O O O O O O O PER-B PER-I O PER-B ORG-B O O O ORG-B O O O O O O O O O O O O O O O PER-B O O O O O O O
-민족 중흥회 출신 김인주씨는 “형제애를 거부하니, 그 업보로 최순실이 비선실세로 설치+어대지 않았느냐. 설날, 추석에 박 대통령이 쌍둥이 조카를 안고 있었다면 그 모습이 얼마나 따뜻하게 보이었을까”라고 +였다 .	O O O PER-B O O O O PER-B O O O O O PER-B O O O O O O O O O O O O
-박지만은 “누나가 나를 안 부르겠지만, 부르어도 청와대에 들어가지 않는다”고 +였다 .	PER-B O O O O O ORG-B O O O O
-또 올해 4월부터는 CISO가 다른 직책을 겸직하지 못하+ㄴ다 .	O O O ORG-B O O O O O
-그는 서울대 전기공학과를 졸업하고 1982년 금성사 중앙연구소, 1986년 대우중공업 연구소, 1988년 코리아레이저를 거치+어 1989년이 오테크닉스를 설립하였다 .	O ORG-B ORG-I O O ORG-B ORG-I O ORG-B ORG-I O ORG-B O O O O O
-정의당, 19대 대선 선대위 발족… ‘대선 체제 돌입 .	ORG-B O O O O O O O O
-이번 대회는 행정자치부, 환경부, 해양수산부, 국민안전처, 인천시, 충남도, 인천시교육청, 충남도교육청, 인천경제자유구역청, 인천도시공사, 인천 중구·동구·서구, 충남 서천군 등이 후원하였다 .	O O ORG-B ORG-B ORG-B ORG-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O
-한국문화콘텐츠를 담은 한글의 세계 보급도 여전히 부족하다 .	ORG-B O O O O O O O
-2013년 6월 경록히드마틴은 막바지 가격 입찰을 앞두고 F-35A를 차기 전투기 기종으로 선정하+여주면 군사통신위성 제작은 물론이고 발사까지 지원하겠다고 발표하였다 .	O O ORG-B O O O O O O O O O O O O O O O O
-[시선집중] 연 손실 4조2000억 … 불법 스포츠 도박 확산 방지책 시 .	ORG-B O O MNY-B O O O O O O O O
-한국국제협력단(KOICA)이 공적개발원조 자금 104억원을 투입하었고, 한국공항공사는 교육과정 설계, 현지 강사진 교육·육성 등을 맡았다 .	ORG-B MNY-I O MNY-B O ORG-B O O O O O O O O
-아직 정식 개원전이지만 센터 안에는 한국공항공사에서 파견 나오+ㄴ 교수 4명이 현지 교육생들에게 관제 기술 등을 가르치고 있었다 .	O O O O O ORG-B O O O O O O O O O O O O
-삼육대 총장“‘남을 위하는 행복’ 알는 인재로 키우어야죠 .	ORG-B O O O O O O O
-안 후보는 28일 기자들이 “나머지 예언도 맞을 것+이라고 보냐”고 묻자 “당연하다”고 답하였습니다 .	PER-B O O O O O O O O O O O O
+윤지연 아나운서 , 방송 중 조우종 아나운서 에게 짝사랑 고백 … “ 그 사람 이 조우종 이 다 ”	PER-B O O O O PER-B O O O O O O O O O PER-B O O O
+경찰 의 「 범죄 소탕 1 백 80 일 작전 」 이 시작된 작년 부터 일선 경찰관 의 과로 사 가 크 게 늘어난 것 으로 밝혀 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+외교부 당국자 는 회담 직후 일부 에서 제기되 는 6 자 회담 등 향후 대화 재개 가능성 에 대해 “ 조셉 윤 대표 는 우다웨이 ( 武大偉 ) 중국 6 자 회담 수석대표 와 의 만남 에서 북한 으로부터 지금 변화 를 감지할 만한 신호 가 전혀 없 으며 지금 은 대화할 때 가 아니 라는 점 을 분명히 했 다 ” 며 “ 우 대표 도 이 같 은 점 을 인정 했 다 ” 고 설명 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O PER-B PER-I O O PER-B O PER-B O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+민족중흥 회 출신 김인주 씨 는 “ 형제애 를 거부하 니 , 그 업보 로 최순실 이 비선 실세 로 설쳐 대 지 않 았 느냐 . 설날 , 추석 에 박 대통령 이 쌍둥이 조카 를 안 고 있 었 다면 그 모습 이 얼마나 따뜻하 게 보 였 을까 ” 라고 했 다 .	ORG-B ORG-I O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O DAT-B O DAT-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+박지만 은 “ 누나 가 나 를 안 부르 겠 지만 , 불 러도 청와대 에 들어가 지 않 는다 ” 고 했 다 .	PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+또 올해 4 월 부터 는 CISO 가 다른 직책 을 겸직하 지 못한다 .	O O DAT-B DAT-I O O ORG-B O O O O O O O O
+그 는 서울 대 전기 공학 과 를 졸업하 고 1982 년 금성사 중앙 연구소 , 1986 년 대우중공업 연구소 , 1988 년 코리아 레이저 를 거쳐 1989 년 이오테크닉스 를 설립 했 다 .	O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O DAT-B DAT-I ORG-B ORG-I ORG-I O DAT-B DAT-I ORG-B ORG-I O DAT-B DAT-I ORG-B ORG-I O O DAT-B DAT-I ORG-B O O O O O
+정의당 , 19 대 대선 선대위 발족 … ‘ 대선 체제 돌입 ’	ORG-B O O O O O O O O O O O O
+이번 대회 는 행정 자치 부 , 환경부 , 해양수산부 , 국민 안전 처 , 인천시 , 충남도 , 인천시교육청 , 충남 도 교육청 , 인천 경제 자유 구역 청 , 인천도시공사 , 인천 중 구 · 동 구 · 서 구 , 충남 서천군 등 이 후원 했 다 .	O O O ORG-B ORG-I ORG-I O ORG-B O ORG-B O ORG-B ORG-I ORG-I O ORG-B O ORG-B O ORG-B O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B O LOC-B LOC-B LOC-I O LOC-B LOC-I O LOC-B LOC-I O LOC-B LOC-B O O O O O O
+한국 문화 콘텐츠 를 담 은 한글 의 세계 보급 도 여전히 부족하 다 .	ORG-B O O O O O O O O O O O O O O
+2013 년 6 월 경 록히드마틴 은 막바지 가격 입찰 을 앞두 고 F - 35 A 를 차기 전투기 기종 으로 선정해 주 면 군사 통신 위성 제작 은 물론 이 고 발사 까지 지원하 겠 다고 발표 했 다 .	DAT-B DAT-I DAT-I DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 시선 집중 ] 연 손실 4 조 2000 억 … 불법 스포츠 도박 확산 방지 책 시급	O ORG-B ORG-I O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O
+한국국제협력단 ( KOICA ) 이 공적 개발 원조 자금 104 억 원 을 투입 했 고 , 한국공항공사 는 교육 과정 설계 , 현지 강사진 교육 · 육성 등 을 맡 았 다 .	ORG-B O ORG-B O O O O O O MNY-B MNY-I MNY-I O O O O O ORG-B O O O O O O O O O O O O O O O O
+아직 정식 개원 전 이 지만 센터 안 에 는 한국공항공사 에서 파견 나온 교수 4 명 이 현지 교육 생 들 에게 관제 기술 등 을 가르치 고 있 었 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+삼육대 총장 “ ‘ 남 을 위하 는 행복 ’ 아 는 인재 로 키 워야 죠 ”	ORG-B O O O O O O O O O O O O O O O O O
+안 후보 는 28 일 기자 들 이 “ 나머지 예언 도 맞 을 거 라고 보 냐 ” 고 묻 자 “ 당연하 다 ” 고 답 했 습니다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-“5전승 우리은행, KB스타즈꺾는다 .	O ORG-B ORG-B O
-공학2동 2층 단백질 공학실험실 .	O O O O O
-보사부는 28일 「한국방문의 해」를 맞고 외국인의 출입이 잦은 관광호텔 내 부대시설의 영업시간 규제를 대폭 완화하기로 하고, 세부 지침 마련 작업에 들어가 +았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-[부고]최금란 별세·김정후정은 정윤용희모 친상·최수현 장모 .	PER-B PER-B PER-B PER-B O O
-이대호는 8일 미국 미주리주 캔자스시티 카우프먼스타디움에서 열리+ㄴ 캔자스시티 로열스와 원정경기에 5번 타자·1루수로 선발 출전, 3타수 1안타·1득점을 기록하였다 .	PER-B O LOC-B LOC-B ORG-B LOC-B O ORG-B ORG-I O O O O O O O O O
-LG화학은 1차 협력사 위주 동반성장 활동에 머물지 않고 2차 협력회사의 경쟁력 또한 제고되+ㄹ 수 있도록 상생결제시스템을 도입하+ 여운용하는 등 지원 확대 방안을 실행하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-이런 소형 프로젝터와는 비교가 되지 않는 수준이며, 홈씨어터용 시장에서 꾸준히 팔리+ㄴ다는 벤큐 W1210ST 같은 모델이 2200안 시 루멘이라는 점을 생각하+여보+ㄴ다면 엡손 EB-U 04이 얼마나 고광도 제품이 +ㄴ지 짐작이가+ㄹ 것이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-주며 “누나”라고 부르는 모습에 결국 하나 역시 조금씩 흔들리는 모습을 보이었다 .	O O O O O PER-B O O O O O O
-특히 국내 정부기관이나 기업체 등에서 4∼16주간 현장체험을 하면 학점을 인정하+여주는 ‘현장실습 학점인증제도’는 학생들로부터 “취업과학점의 두 마리 토끼를 다잡을 수 있다”는 호평을 받고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-창업선도대학 선정 60억 지원 숭실대는 최근 중소기업청이 주관하는 창업선도대학으로 뽑히+어 3년간 60억원을 지원받는 등 창업교육에서도 앞서 +어가고 있다 .	O O MNY-B MNY-I ORG-B O ORG-B O O O O MNY-B MNY-I O O O O O O
-김 전 원장은 2007년과 2011년에도 같은 혐의로 검찰 조사를 받고 각각 입건유예와 기소유예 처분을 받았다 .	PER-B O O O O O O O O O O O O O O O
-또한 ‘이팝(ePoP)’에 탑재되 +ㄴ 20나노급 3기가 바이트(GB) 모바일 D램은 PCD램과 같은 초당 1866 메가비트의 빠르+ㄴ 속도로 동작 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-트럼프, 내각에 軍 출신 잇달 +ㄴ 중용… 15개 부처 장관 중 9명 인 선 완 .	PER-B O O O O O O O O O O O O O O O
-아우크스부르크가 12일(한국시간) 메르크 슈타디온 암뵐 렌팔 토어에서 열리+ㄴ 다름슈타트와의 2015∼2016 시즌 독일 분데스리가 26라운드 원정경기에서 2-2로 비기었다 .	ORG-B LOC-B LOC-B LOC-I LOC-I O O O O O O ORG-B ORG-I O O O O O
-잇어 △임진각(파주·580만명) △킨텍스(고양·521만8000명) △서울대공원(과천·470만6000명) 등이었다 .	O LOC-B LOC-B LOC-B O O
+“ 5 전승 우리은행 , KB 스타즈 꺾 는다 ”	O O O ORG-B O ORG-B ORG-I O O O
+공학 2 동 2 층 단백질 공학 실험실 .	O O O O O O O O O
+보사부 는 28 일 「 한국 방문 의 해 」 를 맞 아 외국인 의 출입 이 잦 은 관광호텔 내 부대시설 의 영업 시간 규제 를 대폭 완화 키 로 하 고 , 세부 지침 마련 작업 에 들어갔 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 부고 ] 최금란 별세 · 김정후 정 은 정윤 용희 모친상 · 최수현 장모상	O O O PER-B O O PER-B PER-B PER-I PER-B PER-B O O PER-B O
+이대호 는 8 일 미국 미주리주 캔자스시티 카우프먼 스타디움 에서 열린 캔자스시티 로열스 와 원정 경기 에 5 번 타자 · 1 루수 로 선발 출전 , 3 타수 1 안타 · 1 득점 을 기록 했 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-B LOC-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+LG 화학 은 1 차 협력 사 위주 동반 성장 활동 에 머물 지 않 고 2 차 협력 회사 의 경쟁력 또한 제고될 수 있 도록 상생 결제 시스템 을 도입해 운용하 는 등 지원 확대 방안 을 실행하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이런 소형 프로젝터 와 는 비교 가 되 지 않 는 수준 이 며 , 홈 씨어터 용 시장 에서 꾸준히 팔린다는 벤 큐 W 1210 ST 같 은 모델 이 2200 안시 루멘 이 라는 점 을 생각해 본다면 엡손 EB - U 04 이 얼마나 고광도 제품 인지 짐작 이 갈 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주 며 “ 누나 ” 라고 부르 는 모습 에 결국 하나 역시 조금 씩 흔들리 는 모습 을 보 였 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O
+특히 국내 정부 기관 이나 기업체 등 에서 4 ∼ 16 주 간 현장 체험 을 하 면 학점 을 인정해 주 는 ‘ 현장 실습 학점 인증 제도 ’ 는 학생 들 로부터 “ 취업 과 학점 의 두 마리 토끼 를 다 잡 을 수 있 다 ” 는 호평 을 받 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+창업 선도 대학 선정 60 억 지원 숭실대 는 최근 중소기업청 이 주관하 는 창업 선도 대학 으로 뽑혀 3 년 간 60 억 원 을 지원 받 는 등 창업 교육 에서 도 앞서 가 고 있 다 .	O O O O MNY-B MNY-I O ORG-B O O ORG-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+김 전 원장 은 2007 년 과 2011 년 에 도 같 은 혐의 로 검찰 조사 를 받 고 각각 입건 유예 와 기소 유예 처분 을 받 았 다 .	PER-B O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+또한 ‘ 이팝 ( ePoP ) ’ 에 탑재 된 20 나노 급 3 기가바이트 ( GB ) 모바일 D 램 은 PC D 램 과 같 은 초 당 1866 메가비트 의 빠른 속도 로 동작한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+트럼프 , 내각 에 軍 출신 잇단 중용 … 15 개 부처 장관 중 9 명 인선 완료	PER-B O O O O O O O O O O O O O O O O O
+아우크스부르크 가 12 일 ( 한국 시간 ) 메르크 슈 타 디온 암 뵐렌팔토어 에서 열린 다름슈타트 와 의 2015 ∼ 2016 시즌 독일 분데스리가 26 라운드 원정 경기 에서 2 - 2 로 비 겼 다 .	ORG-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O ORG-B O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+이 어 △ 임진각 ( 파주 · 580 만 명 ) △ 킨 텍스 ( 고양 · 521 만 8000 명 ) △ 서울 대공원 ( 과천 · 470 만 6000 명 ) 등 이 었 다 .	O O O LOC-B O LOC-B O O O O O O LOC-B LOC-I O LOC-B O O O O O O O LOC-B LOC-I O LOC-B O O O O O O O O O O O

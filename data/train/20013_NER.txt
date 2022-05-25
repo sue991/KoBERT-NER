@@ -1,14 +1,14 @@
-코스콤은 2011년 자매결연 이후 쪽방촌 주민 김장김치 및 냉방용품 지원과 저소득 계층을 위하+ㄴ 명절 음식 구입에 필요하+ㄴ 물품 등을 15차례에 걸치+어 대신 시장에서 사+았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-20개월 되+ㄴ딸을 두 +ㄴ이윤영씨(32·서울 성북구 성북동)는 “순하지도 않는 별나 +ㄴ 손녀 키우느라 외출 한번 못하는 친정 엄마가 건강이 나빠지+어 요즘 병원에 다니+ㄴ다”며 “애한테 소홀 하+여지+어서 오히려 나+에게 미안하다고 하는 것+ㄹ보고 가슴이 찡하였다”고 말하였다 .	O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-계약금은 분양가의 10%이며 중도금은 무이자로 대출받을 수 있다 .	O O O O O O O O O
-서울시 관계자는 “특히 입주상점이자 주 바뀌는 번화가 주상복합건물에서 주민의 민원과 갈등이 많다”고 말하였다 .	ORG-B O O O O O O O O O O O O O
-부산 깡통시장 야시장(부산 중구 중구로 33번길 32, 매일 오후 7시30분~자정) 부산 깡통시장은 피난시절 깡통 제품을 많이 판매 하+여붙이어지+ㄴ 이름이라고 하+ㄴ다 .	ORG-B ORG-I ORG-B LOC-B LOC-B LOC-I LOC-I O O O ORG-B ORG-I O O O O O O O O O
-검찰은 이날 오후 현철 스님로부터 넘겨받은 대불공사 지출 영수증 등 관련 장부의 일부를 공개하였으며, 11일쯤 80억원 사용처에 대하+ㄴ 수사결과를 발표하+ㄹ 예정이다 .	O O O PER-B O O O O O O O O O O O MNY-B O O O O O O
-한편 카쉐어링 서비스는 10분 단위로 차량 이용이 가능하+여전기차를 쉽게 경험하+ㄹ 수 있고, 전기차가 배차되 +ㄴ그린존(차고지)에 충전기를 설치하기 때문에 충전 인프라 확대에도 기여 하+여국 내 친환경차의 테스트베드(TestBed)로써 각광받고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-특히 이번 그린카의 제주 ‘아이오닉 일렉트릭’ 이용 데이터 분석으로 전기차의 주행거리가 길어지고 향후 충전 인프라가 확대되면 장거리 운행에 도 전기차가 활용되+ㄹ 것으로 기대되+ㄴ다 .	O O ORG-B LOC-B O O O O O O O O O O O O O O O O O O O O
-교회가 공공매입 의사를 시에 전달 하+ㄴ 시점은 지난해 7월 .시의 실무자는 탁상감정가(상권을 고려하지 않은 매매가)로 26억원을 전달하였다 .	O O O O O O O O O O O O O O O MNY-B O O
-7세 용상상 리더 2단계는 ‘낱말 쓰기’, ‘문장 완성하기’ 단원을 통하+여초등학교 입학 전기 초국어실력을 다지+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O
-1970년대 핀란드는 원전을 세우면서 미국과 프랑스의 원자력 폐기물 관리 기술을 빠르게 접목시키었다 .	O ORG-B O O ORG-B ORG-B O O O O O O O
-전자담배를 이용하는 남성의 비율은 7.1%로 2014년(4.4%)보다 오히려 2.7%포인트 증가하였다 .	O O O O O O O O O O
-커튼 뒤의 김태형 리더십은 더 힘을 받을 것이다 .	O O PER-B O O O O O O
-김식 야구팀장 seek@j oongang. co.kr◆관련 기사[김식의 야구노트]팀워크 깨면 불리+어가+ㄴ다 .	PER-B O O O O PER-B O O O O
+코스콤 은 2011 년 자매결연 이후 쪽방 촌 주민 김장 김치 및 냉방 용품 지원 과 저소득 계층 을 위한 명절 음식 구입 에 필요한 물품 등 을 15 차례 에 걸쳐 대신 시장 에서 샀 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+20 개월 된 딸 을 둔 이윤영 씨 ( 32 · 서울 성북구 성북동 ) 는 “ 순하 지 도 않 는 별난 손녀 키우 느라 외출 한 번 못하 는 친정 엄마 가 건강 이 나빠져 요즘 병원 에 다닌다 ” 며 “ 애 한테 소홀해 져서 오히려 내게 미안하 다고 하 는 걸 보 고 가슴 이 찡 했 다 ” 고 말 했 다 .	O O O O O O PER-B O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+계약금 은 분양가 의 10 % 이 며 중도금 은 무이자 로 대출 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O
+서울시 관계자 는 “ 특히 입주 상점 이 자주 바뀌 는 번화가 주상 복합 건물 에서 주민 의 민원 과 갈등 이 많 다 ” 고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+부산 깡통 시장 야시장 ( 부산 중 구 중 구 로 33 번 길 32 , 매일 오후 7 시 30 분 ~ 자정 ) 부산 깡통 시장 은 피난 시절 깡통 제품 을 많이 판매해 붙 여 진 이름 이 라고 한다 .	LOC-B O O O O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
+검찰 은 이날 오후 현철 스님 로부터 넘겨받 은 대불 공사 지출 영수증 등 관련 장부 의 일부 를 공개 했 으며 , 11 일 쯤 80 억 원 사용 처 에 대한 수사 결과 를 발표할 예정 이 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+한편 카쉐어링 서비스 는 10 분 단위 로 차량 이용 이 가능해 전기 차 를 쉽 게 경험할 수 있 고 , 전기 차 가 배차된 그린존 ( 차고 지 ) 에 충전기 를 설치하 기 때문 에 충전 인프라 확대 에 도 기여해 국내 친환경 차 의 테스트 베드 ( Test Bed ) 로써 각광 받 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 이번 그린 카 의 제주 ‘ 아이오닉 일렉트릭 ’ 이용 데이터 분석 으로 전기 차 의 주행 거리 가 길 어 지 고 향후 충전 인프라 가 확대되 면 장거리 운행 에 도 전 기차 가 활용될 것 으로 기대된다 .	O O ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교회 가 공공 매입 의사 를 시 에 전달한 시점 은 지난해 7 월 . 시 의 실무자 는 탁상 감정가 ( 상권 을 고려하 지 않 은 매매 가 ) 로 26 억 원 을 전달 했 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+7 세용 상상 리더 2 단계 는 ‘ 낱말 쓰 기 ’ , ‘ 문장 완성하 기 ’ 단원 을 통해 초등학교 입학 전 기초 국어 실력 을 다질 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1970 년대 핀란드 는 원전 을 세우 면서 미국 과 프랑스 의 원자력 폐기물 관리 기술 을 빠르 게 접목 시 켰 다 .	O O ORG-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+전자 담배 를 이용하 는 남성 의 비율 은 7.1 % 로 2014 년 ( 4.4 % ) 보다 오히려 2.7 % 포인트 증가 했 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+커튼 뒤 의 김태형 리더십 은 더 힘 을 받 을 것 이 다 .	O O O PER-B O O O O O O O O O O O
+김 식 야구팀 장 seek @ joongang . co . kr ◆ 관련 기사 [ 김 식 의 야구 노트 ] 팀워크 깨 면 불려 간다 ,	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O

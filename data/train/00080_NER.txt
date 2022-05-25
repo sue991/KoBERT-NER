@@ -1,11 +1,11 @@
-최호열기자|honeypapa@d onga. com<이 기사는 신동아｜11월호에 실리+ㄴ 기사 이+ㅂ니다 .	PER-B O O O O O O O O
-과학철학 입문서 이+ㄴ이 책의원제는 ‘과학의 의미(TheMeaningofScience)’이다 .	O O O O O O O
-현대과학철학의 토대를 놓은 오스트리아 출신 영국 철학자 칼포퍼(1902~1994)의 이야기로부터 책은 시작하+ㄴ다 .	O O O LOC-B O ORG-B O PER-B O O O O
-염 명배 충남대 경제학과 교수는 “영리를 목적으로 하는 기업의 의사결정을 지자체가 ‘이리 하+여라 저리 하+여라’하기+ㄴ 어렵다”며 “기업이나가는 것+ㄹ막기 위 하+ㄴ 인센티브 제공과 지역경제 회복 방안을 마련하+ 여야 하+ㄴ다”고 말하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-자체 시설로 경기 군포시 청소년쉼터 하나로, 온누리요양센터, 온누리농업실습지(남한산성, 경기 안성)를 운영하고 있고 정부 수탁시설로 시립동부노인전문요양센터, 시립용산노인종합복지관, 청파노인복지센터, 번동코이노니아(장애인 보호작업장)를 운영하고 있습니다 .	O O LOC-B LOC-B ORG-B ORG-I ORG-B LOC-B LOC-B LOC-I O O O O ORG-B ORG-B ORG-B PER-B O O O O
-박정민은 지나 +ㄴ 1일 방송되+ㄴtvN '현장토크쇼 택시'에서 배우 문근영과 호흡을 맞추었던 연극로 미오와 줄리엣에 얽히+ㄴ 비화를 공개하였다 .	PER-B O O O O O O O PER-B O O O O O O O O O
-바로 이틀 전 이+ㄴ 6일의 서울 최고기온은 28.9도+이었다 .	O O O O O LOC-B O O O
-프랑스 수학자 파스칼(B.Pas cal, 1623~1662)은 톱니바퀴를 이용하+ㄴ 계산기를 만들었다 .	ORG-B O PER-B O O O O O O O
-분위기가 심상하지 않게 돌아가자 새누리당 정 원내대표는 긴급 원내대표단 간담회를 소집하였다 .	O O O O ORG-B PER-B O O O O O O
-(서울·고양=뉴스1 .	LOC-B O
-2일 경북 상주경찰서에 따르면 지나+ㄴ 1일 오후 11시23분 경 북상주의 한 주점에서 후배 A씨(53)를 흉기로 찌르어 중태에 빠뜨리+ㄴ 혐의로 B씨(상해치사)(58)를 붙잡아 조사를 벌이고 있다 .	O LOC-B LOC-B O O O O O O LOC-B O O O PER-B O O O O O PER-B O O O O O
+최호열 기자 | honeypapa @ donga . com < 이 기사 는 신동아 ｜ 11 월 호 에 실린 기사 입니다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+과학 철학 입문서 인 이 책 의 원제 는 ‘ 과학 의 의미 ( The Meaning of Science ) ’ 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+현대 과학 철학 의 토대 를 놓 은 오스트리아 출신 영국 철학자 칼 포퍼 ( 1902 ~ 1994 ) 의 이야기 로부터 책 은 시작한다 .	O O O O O O O O LOC-B O ORG-B O PER-B PER-I O O O O O O O O O O O O
+염명배 충남대 경제학 과 교수 는 “ 영리 를 목적 으로 하 는 기업 의 의사 결정 을 지자체 가 ‘ 이래라 저래라 ’ 하 긴 어렵 다 ” 며 “ 기업 이 나가 는 걸 막 기 위한 인센티브 제공 과 지역 경제 회복 방안 을 마련해야 한다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자체 시설 로 경기 군포시 청소년 쉼터 하나 로 , 온누리 요양 센터 , 온누리 농업 실습지 ( 남한산성 , 경기 안성 ) 를 운영하 고 있 고 정부 수탁 시설 로 시립 동부 노인 전문 요양 센터 , 시립 용산 노인 종합 복지 관 , 청파 노인복지 센터 , 번동 코이 노 니아 ( 장애인 보호 작업장 ) 를 운영하 고 있 습니다 .	O O O LOC-B LOC-B ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O LOC-B O LOC-B LOC-I O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O PER-B PER-I PER-I PER-I O O O O O O O O O O O
+박정민 은 지난 1 일 방송된 tvN ' 현장 토크쇼 택시 ' 에서 배우 문근영 과 호흡 을 맞 췄 던 연극 로미오 와 줄리엣 에 얽힌 비화 를 공개 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+바로 이틀 전 인 6 일 의 서울 최고 기온 은 28.9 도 였 다 .	O O O O DAT-B DAT-I O LOC-B O O O O O O O O
+프랑스 수학자 파스칼 ( B . Pascal , 1623 ~ 1662 ) 은 톱니바퀴 를 이용한 계산기 를 만들 었 다 .	ORG-B O PER-B O PER-B PER-I PER-I O O O O O O O O O O O O O O O
+분위기 가 심상 치 않 게 돌아가 자 새누리당 정 원내 대표 는 긴급 원내 대표 단 간담회 를 소집 했 다 .	O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O
+( 서울 · 고양 = 뉴스 1 )	O LOC-B O LOC-B O ORG-B ORG-I O
+2 일 경북 상주 경찰서 에 따르 면 지난 1 일 오후 11 시 23 분 경북 상주 의 한 주점 에서 후배 A 씨 ( 53 ) 를 흉기 로 찔 러 중태 에 빠뜨린 혐의 로 B 씨 ( 상해 치사 ) ( 58 ) 를 붙잡 아 조사 를 벌이 고 있 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I LOC-B LOC-B O O O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O

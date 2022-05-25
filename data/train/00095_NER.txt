@@ -1,14 +1,14 @@
-매일 바이오는 지난달 백도과육과 블루베리를 담은 프리미엄 드링킹 요거트도 마슈노 ‘백도요거트’와 ‘블루베리 요거트’도 새로 출시하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O
-23분이 되자 네티즌들은 “사격 중지”를 외치며 채팅창에 2를 쓰기를 멈추었다 .	TIM-B O O O O O O O O O O
-미국 부통령 움직이+ㄴ 성폭행 피해 여성의 용 .	ORG-B O O O O O O O
-미국이 거세게 반발하였지만 이미 두 나라 사이를 갈라놓기에는 늦은 상황이었다 .	ORG-B O O O O O O O O O O
-전체 아파트 소유자 516명 중 4분의 3 이상의 동의를 받았지만 5개 동 중 1개 동이 문제+이었다 .	O O O O O O O O O O O O O O O O O
-워치페어 기간 매장을 방문하+여 상담하는 고객에게는 론진펜을, 골드워치를 사거나 웨딩 커플워치를 700만원 이상 사+ㄴ 고객에게는 인천 쉐라톤 호텔 숙박권이나 고급 엘리게이터(악어) 시곗줄을 주+ㄴ다 .	O O O O O O ORG-B O O O O MNY-B O O O LOC-B LOC-I LOC-I O O O O O O
-하지만 일찍이 진생베리의 탁월하+ㄴ 효능을 발견 하+ㄴ아모레퍼시픽은 50년 이상인 삼연구에 매진하며 그 효능을 과학적으로 입증하고 체계화 하+여+오았던 경험을 바탕으로, 진생베리의 효능을 집중 연구, 제품화시키는 데 성공하였다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-1991년 아시아인으로는 처음으로 MTV상을 받은 그는 1993년에 +ㄴ 영화 ‘베이징 녀석들’의 주연으로 로카르노 영화제에서 특별상을 품에 안기도+였다 .	O O O O O O O O O O O O O O O O O O
-검찰 수사 과정에서 이 회장의 조세포탈 혐의 액수는 크게 줄어들었지만 그 대신 회사돈 횡령과 배임 혐의가 새로 추가되었다 .	O O O PER-B O O O O O O O O O O O O O O O
-대검찰청 관계자는 6일 “현재 대법원 선고가 남아있는 상황이다 .	ORG-B O O O O O O O O
-그리고 여섯 달 뒤 알카에다 이름으로 대규모 테러를 저지르었다고 주장 하+ㄴ 것이다 .	O O O O O O O O O O O O O
-스페인 일간지 마르카는 "카시야스는 떠나지만 그가 남기+ㄴ영광과 활약은 영원히 남을 것이다 .	LOC-B O O PER-B O O O O O O O O
--모듈 트랜스포터 1축당 35톤까지 들+ㄹ 수 있다고 하+ㄴ다 .	O O O O O O O O O
-전국 3만여명 UR대회/집회 ­가두 행진 크+ㄴ 충돌 없 .	O O O O O O O O O
+매일 바이오 는 지난달 백도 과육 과 블루베리 를 담 은 프리미엄 드링킹 요거트 도마 슈 노 ‘ 백도 요거트 ’ 와 ‘ 블루베리 요거트 ’ 도 새로 출시 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+23 분 이 되 자 네티즌 들 은 “ 사격 중지 ” 를 외치 며 채팅 창 에 2 를 쓰 기 를 멈 췄 다 .	TIM-B TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 부통령 움직인 성폭행 피해 여성 의 용기	ORG-B O O O O O O O
+미국 이 거세 게 반발 했 지만 이미 두 나라 사이 를 갈라놓 기 에 는 늦 은 상황 이 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+전체 아파트 소유 자 516 명 중 4 분 의 3 이상 의 동의 를 받 았 지만 5 개 동 중 1 개 동 이 문제 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+워치 페어 기간 매장 을 방문해 상담하 는 고객 에게 는 론진 펜 을 , 골드 워치 를 사 거나 웨딩 커플 워치 를 700 만 원 이상 산 고객 에게 는 인천 쉐라톤 호텔 숙박 권 이나 고급 엘리 게이 터 ( 악어 ) 시곗줄 을 준다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O
+하지만 일찍이 진생 베리 의 탁월한 효능 을 발견한 아모레퍼시픽 은 50 년 이상 인삼 연구 에 매진하 며 그 효능 을 과학적 으로 입증하 고 체계화 해 왔 던 경험 을 바탕 으로 , 진생 베리 의 효능 을 집중 연구 , 제품화 시키 는데 성공 했 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1991 년 아시아 인 으로 는 처음 으로 MTV 상 을 받 은 그 는 1993 년 엔 영화 ‘ 베이징 녀석 들 ’ 의 주연 으로 로카르노 영화제 에서 특별상 을 품 에 안 기 도 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+검찰 수사 과정 에서 이 회장 의 조세 포탈 혐의 액수 는 크 게 줄어들 었 지만 그 대신 회삿 돈 횡령 과 배임 혐의 가 새로 추가 됐 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+대검찰청 관계자 는 6 일 “ 현재 대법원 선고 가 남 아 있 는 상황 이 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O
+그리고 여섯 달 뒤 알카에다 이름 으로 대규모 테러 를 저질 렀 다고 주장한 것 이 다 .	O O O O O O O O O O O O O O O O O O
+스페인 일간지 마르카 는 " 카시야스 는 떠나 지만 그 가 남긴 영광 과 활약 은 영원히 남 을 것 이 다 .	LOC-B O O O O PER-B O O O O O O O O O O O O O O O O O
+- 모듈 트랜스 포터 1 축 당 35 톤 까지 들 수 있 다고 한다 .	O O O O O O O O O O O O O O O O
+전국 3 만 여 명 UR 대회 / 집회 ­ 가두 행진 큰 충돌 없 어	O O O O O O O O O O O O O O O O

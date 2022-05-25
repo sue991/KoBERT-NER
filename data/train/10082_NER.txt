@@ -1,11 +1,11 @@
-남북 하나재단 이사에 현성일-현인애… 설립 이래 첫 탈북민 임 .	ORG-B ORG-I O PER-B O O O O O O
-작년 11월 이준, 천둥이 계약 만료로 떠나 +ㄴ 엠블랙도 상반기 새 음반을 내놓는다 .	O O PER-B PER-B O O O O ORG-B O O O O O
-지나+ㄴ 2014년까지 10% 넘게 감소하다 지난해 감소율은 6.8%로 낮아 지+었다 .	O O O O O O O O O O O
-원주인에게 돌아가는 비율은 2010년 10.6%에서 꾸준히 상승, 지난해 25.3%까지 높아지었다 .	O O O O O O O O O O O
-연구는 프랑스 파리에서 주로 이루어지지만 전 세계에서 발표되는 흥미롭 ㄴ 연구 결과에도 늘 촉각을 곤두세우고 있다 .	O LOC-B LOC-I O O O O O O O O O O O O O O
-르노삼성은 뒤 잇어 SM5D를 내놓았다 .	ORG-B O O O O O
-외제냉장고 과외제 에어컨은 올해 1∼7월 사이 각각 2천6백98만달러와 2백22만 달러어치가 수입되+어 작년에 비하+여 1백13%와 1백66% 증가하였고, 컬러 TV와 VCR 수입도 크게 늘어나 +았다 .	O O O O O O O MNY-B MNY-B MNY-I O O O O O O O O O O O O O O
-지난해 신동우 화백의 20주기를 맞아 아들이 +ㄴ 신찬섭씨가 부친의 이름으로 페이스북 페이지(https://www.facebook. com/chadolbawee)를 개설하였다 .	O PER-B O O O O O PER-B O O O O O O O
-여기에 25일에는 시리아 내전을 다루+ㄴ 후보작 “화이트 헬멧”의 촬영 기사 이+ㄴ 21세의 영화인의 입국이 이민국에 의하+여금지 되었다는 소식도 전하여 +지+었다 .	O O ORG-B O O O O O O O O O O O O O O O O O O
-제과, 음료로 시작하+여 1970년대 호텔과 유통, 화학, 건설로 영역을 확장하였다 .	O O O O O O O O O O O
-활용 아이디어 10월 14일까지 공 .	O O O O O O
+남북 하나 재단 이사 에 현성일 - 현인애 … 설립 이래 첫 탈 북 민 임명	ORG-B ORG-I ORG-I O O PER-B O PER-B O O O O O O O O
+작년 11 월 이준 , 천둥 이 계약 만료 로 떠난 엠 블랙 도 상반기 새 음반 을 내놓 는다 .	O DAT-B DAT-I PER-B O PER-B O O O O O ORG-B ORG-I O O O O O O O O
+지난 2014 년 까지 10 % 넘 게 감소하 다 지난해 감소율 은 6.8 % 로 낮 아 졌 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+원주인 에게 돌아가 는 비율 은 2010 년 10.6 % 에서 꾸준히 상승 , 지난해 25.3 % 까지 높아 졌 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+연구 는 프랑스 파리 에서 주로 이뤄지 지만 전 세계 에서 발표되 는 흥미로 운 연구 결과 에 도 늘 촉각 을 곤두세우 고 있 다 .	O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+르노삼성 은 뒤이 어 SM 5 D 를 내 놨 다 .	ORG-B O O O O O O O O O O O
+외제 냉장고 과 외제 에어컨 은 올해 1 ∼ 7 월 사이 각각 2 천 6 백 98 만 달러 와 2 백 22 만 달러 어치 가 수입돼 작년 에 비해 1 백 13 % 와 1 백 66 % 증가 했 고 , 컬러 TV 와 VCR 수입 도 크 게 늘어났 다 .	O O O O O O O DAT-B O DAT-B DAT-I O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 신동우 화백 의 20 주기 를 맞 아 아들 인 신찬섭 씨 가 부친 의 이름 으로 페이스북 페이지 ( https : / / www . facebook . com / chadolbawee ) 를 개설 했 다 .	O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 에 25 일 에 는 시리아 내전 을 다룬 후보작 “ 화이트 헬멧 ” 의 촬영 기사 인 21 세 의 영화인 의 입국 이 이민국 에 의해 금지되 었 다 는 소식 도 전해 졌 다 .	O O DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+제과 , 음료 로 시작해 1970 년대 호텔 과 유통 , 화학 , 건설 로 영역 을 확장 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+활용 아이디어 10 월 14 일 까지 공모	O O DAT-B DAT-I DAT-I DAT-I O O

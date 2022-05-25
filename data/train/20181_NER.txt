@@ -1,11 +1,11 @@
-울산바위를 휘감으며 밀려오는 운해(雲海)가 미시령 허리춤에 걸치+어지+ㄴ다 .	LOC-B O O O LOC-B O O O
-B: 11시 5분 전 이오 .	O O O O O O
-한 최고위원은 “최고위원 5명 중 ‘3대2’로 찬성이 많았다 .	O O O O O O O O O
-LG그룹은 LG화학이 배터리를 생산하면 LG전자가 이를 받아 배터리팩으로 조립하+여완성차 업체에 공급하는 유기적 생산체계를 갖추겠다는 그림을 그리고 있다 .	ORG-B ORG-B O O ORG-B O O O O O O O O O O O O O
-아름답ㄴ 나의 신부 김무열, 약혼녀 고성희 실종… 어떻게 전개되+ㄹ까 .	O O O PER-B O PER-B O O O O
-그럼 5회, 6회로 편하게 지나가 +ㄴ다는 말이었다 .	O O O O O O O O
-추천하+ㄹ만 하+ㄴ 책은 앞서 말 하+ㄴ빌 브라이슨의 『거의 모든 것의 역사』이+ㅂ니다 .	O O O O O PER-B PER-I O O O O O
-손발을 맞추+ㄹ 수 있는 시간이 많지는 않지만 김신욱과 김보경 등이 A매치에서 좋은 활약을 보이어주며 컨디션을 끌어올리었기에 분위기는 좋다 .	O O O O O O O PER-B PER-B O O O O O O O O O O
-보건복지부는 27일 국회에서 열리+ㄴ 당정간담회에서 이 같은 내용이 포함되 +ㄴ어린이집 아동학대근절 대책을 보고하였다 .	ORG-B O O O O O O O O O O O O O
-공연 기획 가이자 판소리를 기반으로 하+ㄴ 뮤지컬이+ㄴ 창극 연출가 정도 연감독(45).2004년 ‘수궁가’를 무대에 올리면서 국내 최초의 여성 창극 연출가가 되+ㄴ 후 2010년 3인 창극 ‘심청전’ 등으로 실력을 인정받았다 .	PER-I O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
-문화재청은 15일 “‘정선용 소동굴(旌善龍沼洞窟)’을 국가지정문화재 천연기념물 제549호로 지정 하+ㄴ다”고 밝히었다 .	ORG-B O O O O O O O O O O
+울산바위 를 휘감 으며 밀려오 는 운해 ( 雲海 ) 가 미시령 허리춤 에 걸쳐 진다 .	LOC-B O O O O O O O O O O LOC-B O O O O O
+B : 11 시 5 분전 이 오 .	O O TIM-B TIM-I TIM-I O O O O
+한 최고 위원 은 “ 최고 위원 5 명 중 ‘ 3 대 2 ’ 로 찬성 이 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O O
+LG 그룹 은 LG 화학 이 배터리 를 생산하 면 LG 전자 가 이 를 받 아 배터리 팩 으로 조립해 완성 차 업체 에 공급하 는 유기적 생산 체계 를 갖추 겠 다는 그림 을 그리 고 있 다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아름다 운 나 의 신부 김무열 , 약혼녀 고성희 실종 … 어떻 게 전개될까 ?	O O O O O PER-B O O PER-B O O O O O O
+그럼 5 회 , 6 회 로 편하 게 지나간다는 말 이 었 다 .	O O O O O O O O O O O O O O O
+추천할 만한 책 은 앞서 말한 빌 브라 이슨 의 『 거의 모든 것 의 역사 』 입니다 .	O O O O O O PER-B PER-I PER-I O O O O O O O O O O
+손발 을 맞출 수 있 는 시간 이 많 지 는 않 지만 김신욱 과 김보경 등 이 A 매치 에서 좋 은 활약 을 보 여 주 며 컨디션 을 끌어올 렸 기에 분위기 는 좋 다 .	O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+보건복지부 는 27 일 국회 에서 열린 당정 간담회 에서 이 같 은 내용 이 포함된 어린이집 아동 학대 근절 대책 을 보고 했 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+공연 기획 가 이 자 판소리 를 기반 으로 한 뮤지컬 인 창극 연출가 정도 연 감독 ( 45 ) . 2004 년 ‘ 수궁가 ’ 를 무대 에 올리 면서 국내 최초 의 여성 창극 연출가 가 된 후 2010 년 3 인 창극 ‘ 심청전 ’ 등 으로 실력 을 인정받 았 다 .	O O O O O O O O O O O O O O PER-B PER-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+문화재청 은 15 일 “ ‘ 정선 용소 동굴 ( 旌善 龍沼洞窟 ) ’ 을 국가 지정 문화재 천연기념물 제 549 호 로 지정한다 ” 고 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O

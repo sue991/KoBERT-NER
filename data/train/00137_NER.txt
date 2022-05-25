@@ -1,14 +1,14 @@
-또한 임 감독은 대한핸드볼협회의 도움으로 본선에서 만나 +ㄹ상대국들의 전력정보를 다각적으로 받아 세밀하게 맞추+ㅁ전술을 세우+ㄹ 수 있었다 .	O PER-B O ORG-B O O O O O O O O O O O O O
-판매를 기록하였고, 모하비 더 출시되+ㄴ지 두 달 만이었던 2008년 3월(1159대) 이후 최대 판매 실적이 +ㄴ 1198대가 판매되+어신차 효과에 버금가는 인기를 잇어가고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O
-‘파주 LG디스플레이’ LG디스플레이 파주공장에서 누출되+ㄴ 질소가스에 질식되+ㄴ 협력업체 직원 문모씨(33) 등 2명이 사망하였다 .	LOC-B ORG-B ORG-B LOC-B O O O O O PER-B O O O O
-오늘 모로코 마라케시에서는 7년을 넘게 끌어오+ㄴ우루과이 라운드 협상이 공식 마무리되 +ㄴ다 .	O LOC-B LOC-I O O O O O O O O O
-박민지는 16일 경기도 용인에 위치하+ㄴ 88 컨트리클럽(파72·6583야드)에서 열리+ㄴ 마지막 4라운드에서 버디 6개와 보기 4개로 2언더파 70타를 적어 내 +었다 .	PER-B O LOC-B LOC-B O LOC-B LOC-I O O O O O O O O O O O O O
-3라운드까지 9언더파 207 타로 공동 선두를 지키+ㄴ 박민지는 최종 합계 11언더파 277 타로 공동 1위에 오르았다 .	O O O O O O O PER-B O O O O O O O O O
-KB스타즈에 71-63 승리 … 배혜윤·토마스43점 합작용 병 2명 득점합계에서 26-23으로 근소하게 리드 삼성생명이 KB스타즈를 꺾고 2연승을 거두었다 .	ORG-B O O O PER-B O O O O O O O ORG-B ORG-B O O O O
-삼성생명은 7일 청주체육관에서 벌어 지+ㄴ ‘삼성생명 2016~2017 여자 프로농구’ 1라운드 원정경기에서 43점을 합작하+ㄴ 엘리사 토마스(20점)와 배혜윤(23점)을 앞세우어 KB스타즈를 71-63으로 제압하였다 .	ORG-B O LOC-B O O ORG-B O O O O O O O PER-B PER-I PER-B O ORG-B O O O
-얼마 전 시골에서 올라 오+ㄴ 친척들과 63빌딩 구경을 가+았다 .	O O O O O O LOC-B O O O
-돌아오는 길에 안내원에게 주차권에 대하+여 묻으니 전망대 아이맥스 수족관 등 세 가지를 관람하는 1만4400원짜리 표 한 장에 3시간의 주차를 허용 하+ㄴ다는 설명이었다 .	O O O O O O O O O O O O O MNY-B O O O O O O O O O
-문우람은 앞서 +어 승부조작 혐의를 부인하면서 “이 태양은 내친 누나와 결혼을 약속하+ㄴ 연인 사이”라며 “내가 매형이 되+ㄹ지 모르는 사람에게 어떻게 승부조작을 시키었겠느냐”고 주장하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-한편, 5일 창원지방법원 제4형사단독(구 광현 부장판사) 심리로 열리+ㄴ이 태양과 브로커 조모씨, 스포츠 도박 베팅방 운영자 최모씨에 대하+ㄴ 첫 공판에서 검찰은 국민체육진흥법 위반(승부조작) 혐의로 기소되+ㄴ이 태양에게 징역 1년, 집행유예 2년, 추징금 2000만원을 구형하였다 .	O O O O O O O O O O PER-B O O O O PER-B O O O O O PER-B O O O O O O O O MNY-B O O
-‘택시’ 김새롬-이찬오, 방송 中딥키스 “우리 드디어 결혼 하+여” 하트뿅뿅… 분위기 후끈 .	O PER-B O O O O O O O O O O
-안재욱 최현주 결혼설 뮤지컬배우 커플 안재욱과 최현주가 5월 결혼설을 부인하였다 .	PER-B PER-B O O O PER-B PER-B O O O O
+또한 임 감독 은 대한 핸드볼 협회 의 도움 으로 본선 에서 만날 상대국 들 의 전력 정보 를 다각적 으로 받 아 세밀하 게 맞춤 전술 을 세울 수 있 었 다 .	O PER-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+판매 를 기록 했 고 , 모하비 더 출시된 지 두 달 만 이 었 던 2008 년 3 월 ( 1159 대 ) 이후 최대 판매 실적 인 1198 대 가 판매돼 신차 효과 에 버금가 는 인기 를 이 어 가 고 있 다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 파주 LG 디스플레이 ’ LG 디스플레이 파주 공장 에서 누출된 질소 가스 에 질식된 협력 업체 직원 문 모 씨 ( 33 ) 등 2 명 이 사망 했 다 .	O LOC-B ORG-B ORG-I O ORG-B ORG-I LOC-B O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O
+오늘 모로코 마라케시 에서 는 7 년 을 넘 게 끌어온 우루과이 라운드 협상 이 공식 마무리된다 .	O LOC-B LOC-I O O O O O O O O O O O O O O O
+박민지 는 16 일 경기도 용인 에 위치한 88 컨트리클럽 ( 파 72 · 6583 야드 ) 에서 열린 마지막 4 라운드 에서 버디 6 개 와 보기 4 개 로 2 언더파 70 타 를 적 어 냈 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 라운드 까지 9 언더파 207 타 로 공동 선두 를 지킨 박민지 는 최종 합계 11 언더파 277 타 로 공동 1 위 에 올 랐 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+KB 스타즈 에 71 - 63 승리 … 배혜윤 · 토마스 43 점 합작 용병 2 명 득점 합계 에서 26 - 23 으로 근소하 게 리드 삼성생명 이 KB 스타즈 를 꺾 고 2 연승 을 거 뒀 다 .	ORG-B ORG-I O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O
+삼성생명 은 7 일 청주체육관 에서 벌어진 ‘ 삼성생명 2016 ~ 2017 여자 프로 농구 ’ 1 라운드 원정 경기 에서 43 점 을 합작한 엘리사 토마스 ( 20 점 ) 와 배혜윤 ( 23 점 ) 을 앞세 워 KB 스타즈 를 71 - 63 으로 제압 했 다 .	ORG-B O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O PER-B O O O O O O O ORG-B ORG-I O O O O O O O O O
+얼마 전 시골 에서 올라온 친척 들 과 63 빌딩 구경 을 갔 다 .	O O O O O O O O LOC-B LOC-I O O O O O
+돌아오 는 길 에 안내원 에게 주차권 에 대해 물 으니 전망대 아이맥스 수족관 등 세 가지 를 관람하 는 1 만 4400 원 짜리 표 한 장 에 3 시간 의 주차 를 허용한다는 설명 이 었 다 .	O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O TIM-B TIM-I O O O O O O O O O
+문우람 은 앞서 승부 조작 혐의 를 부인하 면서 “ 이태양 은 내 친 누나 와 결혼 을 약속한 연인 사이 ” 라며 “ 내 가 매형 이 될지 모르 는 사람 에게 어떻 게 승부 조작 을 시 켰 겠 느냐 ” 고 주장 했 다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 5 일 창원 지방 법원 제 4 형사 단독 ( 구광현 부장 판사 ) 심리 로 열린 이태양 과 브로커 조 모 씨 , 스포츠 도박 베팅 방 운영 자 최 모 씨 에 대한 첫 공판 에서 검찰 은 국민 체육 진흥 법 위반 ( 승부 조작 ) 혐의 로 기소된 이태양 에게 징역 1 년 , 집행 유예 2 년 , 추징금 2000 만 원 을 구형 했 다 .	O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B O O O O O O PER-B O O PER-B PER-I O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+‘ 택시 ’ 김새롬 - 이찬오 , 방송 中 딥 키스 “ 우리 드디어 결혼해 ” 하트 뿅뿅 … 분위기 후끈 ?	O O O PER-B O PER-B O O O O O O O O O O O O O O O O
+안재욱 최현주 결혼 설 뮤지컬 배우 커플 안재욱 과 최현주 가 5 월 결혼 설 을 부인 했 다 .	PER-B PER-B O O O O O PER-B O PER-B O DAT-B DAT-I O O O O O O O

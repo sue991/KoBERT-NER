@@ -1,14 +1,14 @@
-두 전형의 가장 크+ㄴ 차이는 최전방스트라이커 바로 뒤를 받치는 2선 공격수(좌우 측면 공격수 제외)의 수다 .	O O O O O O O O O O O O O O O O
-朴 대통령 지지율 상승… 국가위기시 ‘국기주위로 결집’ 효 .	PER-B O O O O O O O O
-‘택시’ 박진희, 휴대폰 한참 뒤지더니 “여보, 미안하+여” … 무슨 일?택시에 출연하+ㄴ 박진희가 5살 연하의 남편과의 러브스토리를 공개하며 결국 딸 바보 이+ㅁ을 인증하였다 .	O PER-B O O O O O O O O O PER-B O O O O O O O O O O O
-8일 방송되+ㄴtvN ‘현장토크쇼-택시’에서는 ‘일탈도우미’ 특집으로 배우 박진희가 출연하+여재미를 전하였다 .	O ORG-B O O O O PER-B O O O
-이날 방송에서 박진희는 남편과의 첫 만남을 공개하며, 첫 만남에 대하+여 밝히었다 .	O O PER-B O O O O O O O O O
-박진희는 “드라마 스케줄로 3개월 정도만남이 미루+어+지었다”며 “갑자기 드라마 촬영이 1주일 정도 스케줄이 없어지었다”고 말 하+ 여운 명적 만남을 전하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-강진주퍼스널이미지연구소 소장은 “다른 후보가 말을 하+ㄹ 때 입을 벌리고 있는 때가 많았는데 꽉 다 물어야 카리스마 있게 보이+ㄴ다”며 “파란색 셔츠로 ‘블루칼라(현장 노동자)’ 이미지, 넉넉하+ㄴ 양복으로 소탈·소박 하+ㄴ 인상을 +었지만 격식과 품위는 덜하였다”고 짚었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-동급 최대 차체 길이와 최고 수준 연비·출력 9년 만에 풀체인지 …준중형 세단 새 기준 제시 9년 만에 풀체인지되+ㄴ 쉐보레올 뉴 크루즈가 17일 서울 영등포에 위치하+ㄴ 대선 제분 문래공장에서 열리+ㄴ 신차발표회를 통하+여공개되었다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O LOC-B LOC-B O LOC-B LOC-I LOC-I O O O O
-코블록을 쌓아야 하는 사람들은 모두 이야기 주제 카드 더미에서 카드를 1장씩 뽑는다 .	O O O O O O O O O O O O O
-오픈문고와 그룹 스터디룸, 1대 1 스터디가 가능하+ㄴ 별도의 방, 열람실 등이 조성되 +ㄹ 계획이다 .	O O O O O O O O O O O O O O O
-그러나 주도권을 둘러싸 +ㄴ 환경부와 국토부간의 신경전 속에 논의는 중단되다시피 하+ㄴ 상태+이다 .	O O O O ORG-B ORG-B O O O O O O O
-미래에셋글로벌 ETF 순자산 100억달러 돌파 ▼ 미래에셋자산운용은 한국, 미국, 캐나다 등 세계 6개국에 상장되+ㄴ 미래에셋 상장지수펀드(ETF)의 순자산총액이 지난달 말 현재 100억달러(약 11조5590억원)를 넘어서 +었다고 23일 밝히었다 .	ORG-B ORG-B O MNY-B O O ORG-B ORG-B ORG-B ORG-B O O O O ORG-B ORG-B O O O O MNY-B MNY-B O O O O O
-그것도 열 +ㄴ 2주째 계속되는 더위+이다 .	O O O O O O O
-이날 방송에서 이서진은 이동 중 최지우에게 "친하+ㄴ사람 얼마 안 되지 않냐"고 묻어 은근하+ㄴ 신경전을 펼치었다 .	O O PER-B O O PER-B O O O O O O O O O O
+두 전형 의 가장 큰 차이 는 최전방 스트라이커 바로 뒤 를 받치 는 2 선 공격수 ( 좌우 측면 공격수 제외 ) 의 수다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+朴 대통령 지지율 상승 … 국가 위기 시 ‘ 국기 주위 로 결집 ’ 효과	PER-B O O O O O O O O O O O O O O
+‘ 택시 ’ 박진희 , 휴대폰 한참 뒤지 더니 “ 여보 , 미안해 ” … 무슨 일 ? 택시 에 출연한 박진희 가 5 살 연하 의 남편 과 의 러브 스토리 를 공개하 며 결국 딸 바보 임 을 인증 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+8 일 방송된 tvN ‘ 현장 토크쇼 - 택시 ’ 에서 는 ‘ 일탈 도우미 ’ 특집 으로 배우 박진희 가 출연해 재미 를 전 했 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O PER-B O O O O O O O O
+이날 방송 에서 박진희 는 남편 과 의 첫 만남 을 공개하 며 , 첫 만남 에 대해 밝 혔 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
+박진희 는 “ 드라마 스케줄 로 3 개월 정도 만남 이 미뤄 졌 다 ” 며 “ 갑자기 드라마 촬영 이 1 주일 정도 스케줄 이 없어 졌 다 ” 고 말해 운명적 만남 을 전 했 다 .	PER-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강진주 퍼스널 이미지 연구소 소장 은 “ 다른 후보 가 말 을 할 때 입 을 벌리 고 있 는 때 가 많 았 는데 꽉 다물 어야 카리스마 있 게 보인다 ” 며 “ 파란색 셔츠 로 ‘ 블루칼라 ( 현장 노동자 ) ’ 이미지 , 넉넉한 양복 으로 소탈 · 소박한 인상 을 줬 지만 격식 과 품위 는 덜 했 다 ” 고 짚 었 다 .	PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동급 최대 차체 길이 와 최고 수준 연비 · 출력 9 년 만 에 풀 체인지 … 준 중형 세단 새 기준 제시 9 년 만 에 풀 체인지 된 쉐보 레 올 뉴 크루즈 가 17 일 서울 영등포 에 위치한 대선 제분 문래 공장 에서 열린 신차 발표회 를 통해 공개 됐 다 .	O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O DAT-B DAT-I O O O O O ORG-B ORG-I O O O O DAT-B DAT-I LOC-B LOC-B O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O
+코 블록 을 쌓 아야 하 는 사람 들 은 모두 이야기 주제 카드 더미 에서 카드 를 1 장 씩 뽑 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+오픈 문고 와 그룹 스터디 룸 , 1 대 1 스터디 가 가능한 별도 의 방 , 열람실 등 이 조성될 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 주도권 을 둘러싼 환경부 와 국토 부 간 의 신경전 속 에 논의 는 중단되 다시피 한 상태 다 .	O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O
+미래에셋 글로벌 ETF 순 자산 100 억 달러 돌파 ▼ 미래에셋자산운용 은 한국 , 미국 , 캐나다 등 세계 6 개국 에 상장된 미래에셋 상장 지수 펀드 ( ETF ) 의 순 자산 총액 이 지난달 말 현재 100 억 달러 ( 약 11 조 5590 억 원 ) 를 넘어섰 다고 23 일 밝 혔 다 .	ORG-B ORG-I ORG-I O O MNY-B MNY-I MNY-I O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O DAT-B DAT-I O O O O
+그것 도 연 2 주 째 계속되 는 더위 다 .	O O O O O O O O O O O
+이날 방송 에서 이서진 은 이동 중 최지우 에게 " 친한 사람 얼마 안 되 지 않 냐 " 고 물 어 은근한 신경전 을 펼 쳤 다 .	O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O

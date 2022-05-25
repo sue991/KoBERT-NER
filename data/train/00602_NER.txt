@@ -1,15 +1,15 @@
-이 교수는 “애정 어리+ㄴ 조언과 과도하+ㄴ 개입을 구분하+ㄹ 필요가 있다”고 말하였다 .	PER-B O O O O O O O O O O O
-에이스헤인즈가 막히면서 공격이 원활하게 풀리지 않아 5-12까지 뒤지었다 .	PER-B O O O O O O O O
-LA 총영사 측은 지난달 11일 유승준의 병역기피에 대하+ㄴ고의 성을 입증하려는 취지로 유승준의 과거 MBC 방송분에 대하+ㄴ 사실조회를 법원에 신청하기도 +였다 .	ORG-B ORG-I O O O PER-B O O O O O PER-B O ORG-B O O O O O O O
-그러나 휴대전화기가 울리+ㄹ 때마다 수면을 방해받기 쉽으며, 특히 스마트폰에서 나오는 인공의 파랗+ㄴ빛은 뇌를 각성시키고 잠을 유도하는 호르몬이+ㄴ멜라토닌 분비에 지장을 주+ㅁ으로써 잠들는 것을 어렵게 만들 +ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-항소심에서 3년형으로 감형되+어 1년 6개월 복역 중 사면으로 풀려나 +ㄴ어머니는 고문 후유증에 시달리었다 .	O O O O O O O O O O O O O O
-‘이태임 논란’ 배우 이태임이 MBC ‘띠동갑 내기 과외하기’에서 하차하+ㄴ 가운데, 이태임의 과거 방송 모습이 새삼 재조명되고 있다 .	PER-B O O PER-B ORG-B O O O O O PER-B O O O O O O O
-지난해 12월 방송 하+ㄴ SBS ‘정글의 법칙in코스타리카’에서는 김병만 -류담-박정철-임창정-서지석 -이태임-이창민 등이 출연하+여다 마스 해안가에서 생존하는 모습이 전파를 타+았다 .	O O O O ORG-B O O PER-B PER-B PER-B O O O O O O O O O
-이날 방송에서 모기에 물리+어퉁퉁붓은 자신의 얼굴을 확인 하+ㄴ이태임은 “(얼굴이) 마음에 안들+ㄴ다”며 눈물을 흘리었다 .	O O O O O O O PER-B O O O O O O
-이에 서지석은 “남자친구가 싫어하면 어떡하냐”고 농담하자, 이태임은 “남자친구 없다니까!”라고 발끈하었다 .	O PER-B O O O O PER-B O O O O
-이어서지석과 박정철은 이태임에게 “그런데 왜 울냐?”, “너무 보고 싶어서?”라고 장난을 +었고, 결국 이태임은 미소를 보이었다 .	PER-B PER-B PER-B O O O O O O O O O PER-B O O O
-한편 3일 이태임의 소속사 측은 “이태임이 드라마와 예능 프로그램 촬영을 병행하며 건강에 이상을 느끼+어지나 +ㄴ 2월 24일 ‘띠동갑 내기 과외하기’ 촬영을 마치고 병원에 입원하였다 .	O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O
-북구 흥해읍 죽천리 일대 421만m ²에 조성하는 영일만 4일반산업단지는 2017년까지 1단계 사업이 마무리되+ㄹ 계획이다 .	LOC-B LOC-B LOC-B O O O O O O O O O O O O
-일전에 독일 앙겔라 메르켈 총리는 일본의 침략사에 대하+ㄴ 반성을 공개적으로 요구하며 이례적으로 아사히신문사를 방문하기도 +였다 .	O LOC-B PER-B PER-I O ORG-B O O O O O O ORG-B O O O
-한국과 대일 과거사 공조를 하던 시진핑 중국 국가주석은 지난달 22일 인도네시아에서 열리+ㄴ아시아-아프리카 회의에서 아베 총리에게 미소를 보이며 손을 내밀었다 .	ORG-B O O O O PER-B ORG-B O O O ORG-B O O PER-B O O O O O O
-비양도를 소개하는 자료를 보면 ‘막내섬’이라는 표현이 수시로 등장하+ㄴ다 .	LOC-B O O O O O O O O
+이 교수 는 “ 애정 어린 조언 과 과도한 개입 을 구분할 필요 가 있 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+에이스 헤인즈 가 막히 면서 공격 이 원활하 게 풀리 지 않 아 5 - 12 까지 뒤 졌 다 .	O PER-B O O O O O O O O O O O O O O O O O O O
+LA 총영사 측 은 지난달 11 일 유승준 의 병역 기피 에 대한 고의 성 을 입증하 려는 취지 로 유승준 의 과거 MBC 방송 분 에 대한 사실 조회 를 법원 에 신청하 기 도 했 다 .	ORG-B ORG-I O O O DAT-B DAT-I PER-B O O O O O O O O O O O O PER-B O O ORG-B O O O O O O O O O O O O O O O
+그러나 휴대 전화기 가 울릴 때 마다 수면 을 방해 받 기 쉬 우며 , 특히 스마트폰 에서 나오 는 인공 의 파란 빛 은 뇌 를 각성 시키 고 잠 을 유도하 는 호르몬 인 멜라토닌 분비 에 지장 을 줌 으로써 잠드 는 것 을 어렵 게 만들 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+항소심 에서 3 년 형 으로 감형돼 1 년 6 개월 복역 중 사면 으로 풀려난 어머니 는 고문 후유증 에 시달 렸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 이태임 논란 ’ 배우 이태임 이 MBC ‘ 띠 동갑내기 과외 하 기 ’ 에서 하차한 가운데 , 이태임 의 과거 방송 모습 이 새삼 재조명 되 고 있 다 .	O PER-B O O O PER-B O ORG-B O O O O O O O O O O O PER-B O O O O O O O O O O O O
+지난해 12 월 방송한 SBS ‘ 정글 의 법칙 in 코스타리카 ’ 에서 는 김병만 - 류 담 - 박정철 - 임창정 - 서지석 - 이태임 - 이창민 등 이 출연해 다마스 해안가 에서 생존하 는 모습 이 전파 를 탔 다 .	O O O O ORG-B O O O O O O O O O PER-B O PER-B PER-I O PER-B O PER-B O PER-B O PER-B O PER-B O O O LOC-B LOC-I O O O O O O O O O O
+이날 방송 에서 모기 에 물려 퉁퉁 부 은 자신 의 얼굴 을 확인한 이태임 은 “ ( 얼굴 이 ) 마음 에 안 든다 ” 며 눈물 을 흘 렸 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+이 에 서지석 은 “ 남자 친구 가 싫어하 면 어떡하 냐 ” 고 농담하 자 , 이태임 은 “ 남자 친구 없 다니까 ! ” 라고 발끈 했 다 .	O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+이어 서지석 과 박정철 은 이태임 에게 “ 그런데 왜 우 냐 ? ” , “ 너무 보 고 싶 어서 ? ” 라고 장난 을 쳤 고 , 결국 이태임 은 미소 를 보 였 다 .	O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+한편 3 일 이태임 의 소속 사 측 은 “ 이태임 이 드라마 와 예능 프로그램 촬영 을 병행하 며 건강 에 이상 을 느껴 지난 2 월 24 일 ‘ 띠 동갑내기 과외 하 기 ’ 촬영 을 마치 고 병원 에 입원 했 다 .	O DAT-B DAT-I PER-B O O O O O O PER-B O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O
+북구 흥해읍 죽천리 일대 421 만 m ² 에 조성하 는 영일만 4 일반 산업 단지 는 2017 년 까지 1 단계 사업 이 마무리될 계획 이 다 .	LOC-B LOC-B LOC-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+일전 에 독일 앙겔라 메르켈 총리 는 일본 의 침략 사 에 대한 반성 을 공개적 으로 요구하 며 이례적 으로 아사히신문사 를 방문하 기 도 했 다 .	O O LOC-B PER-B PER-I O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O
+한국 과 대일 과거사 공조 를 하 던 시진핑 중국 국가주석 은 지난달 22 일 인도네시아 에서 열린 아시아 - 아프리카 회의 에서 아베 총리 에게 미소 를 보이 며 손 을 내밀 었 다 .	ORG-B O O O O O O O PER-B ORG-B O O O DAT-B DAT-I ORG-B O O O O O O O PER-B O O O O O O O O O O O O
+비양도 를 소개하 는 자료 를 보 면 ‘ 막내 섬 ’ 이 라는 표현 이 수시 로 등장한다 .	LOC-B O O O O O O O O O O O O O O O O O O O

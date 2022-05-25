@@ -1,9 +1,9 @@
-18세기 중반증기기관의 발명이 1차 산업혁명을 이끌었다면 2차 산업혁명은 전기의 발견과 대량생산 체제 구축이다 .	O O O O O O O O O O O O O O
-올 상반기에는 569건을 적발하+여과태료 8000만원을 부과하였다 .	O O O O MNY-B O O
-김태희(35)가 촬영보다 사전 홍보에 열을 올리고 있다 .	PER-B O O O O O O O
-대조적이+ㄴ 인물 설정은 다윗과 골리앗을 보는 듯 하+여 좋은 캐스팅이란 느낌 .	O O O PER-B PER-B O O O O O O O
-효성의 브라질 진출은 지역경제 활성화에도 도움을 주고 있다 .	ORG-B ORG-B O O O O O O O
-[비즈스토리]소백산맥 청정지역서 키우+ㄴ 가을 천마… 고혈압·편두통 등 개선에 효 .	LOC-B O O O O O O O O O
-㈜ 뽀로로파크 관계자는 “애니메이션 속에 나오+ㄴ 공간을 테마파크에서 충실히 재현하+여 만족도를 높이었다”며 “해외도 같은 전략으로 애니메이션을 통하+여먼저인지도를 높이 +ㄴ 뒤 소규모 테마파크로 접근하는 것을 원칙으로 +였다”고 말하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
-바스프는 코오롱플라스틱이 POM 생산 경험과 노하우를 갖추고 있다는 점을 고려하+여합작을 결정하였다 .	PER-B ORG-B O O O O O O O O O O
-이 역시 프랑스의 25세 이하 실업률이 2008년(18%)보다 더 높아 지+ㄴ 25%에 달하는 점이 주요인이다 .	O O ORG-B O O O O O O O O O O O O
+18 세기 중반 증기 기관 의 발명 이 1 차 산업 혁명 을 이끌 었 다면 2 차 산업 혁명 은 전기 의 발견 과 대량 생산 체제 구축 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올 상반기 에 는 569 건 을 적발해 과태료 8000 만 원 을 부과 했 다 .	O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+김태희 ( 35 ) 가 촬영 보다 사전 홍보 에 열 을 올리 고 있 다 .	PER-B O O O O O O O O O O O O O O O O
+대조적 인 인물 설정 은 다윗 과 골리앗 을 보 는 듯해 좋 은 캐스팅 이 란 느낌 .	O O O O O PER-B O PER-B O O O O O O O O O O O
+효성 의 브라질 진출 은 지역 경제 활성화 에 도 도움 을 주 고 있 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O
+[ 비즈 스토리 ] 소백산맥 청정 지역 서 키운 가을 천마 … 고혈압 · 편두통 등 개선 에 효과	O O O O LOC-B O O O O O O O O O O O O O O
+㈜ 뽀로로 파크 관계자 는 “ 애니메이션 속 에 나온 공간 을 테마파크 에서 충실히 재현해 만족도 를 높 였 다 ” 며 “ 해외 도 같 은 전략 으로 애니메이션 을 통해 먼저 인지도 를 높인 뒤 소규모 테마파크 로 접근하 는 것 을 원칙 으로 했 다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+바스프 는 코오롱 플라스틱 이 POM 생산 경험 과 노하우 를 갖추 고 있 다는 점 을 고려해 합작 을 결정 했 다 .	PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+이 역시 프랑스 의 25 세 이하 실업률 이 2008 년 ( 18 % ) 보다 더 높아진 25 % 에 달하 는 점 이 주 요인 이 다 .	O O ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O

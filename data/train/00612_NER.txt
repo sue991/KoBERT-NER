@@ -1,16 +1,16 @@
-지난해 확실하+ㄴ 믿음(?)을 +었던 한화가 달라지었기 때문이죠 .	O O O O ORG-B O O O
-“토종 먹거리로 국민 밥상 사수” 315억 기부 등 사회공헌도 앞 .	O O O O O MNY-B O O O O O
-대전을 ‘강하게 만들 +ㄴ’, 또 ‘항상 사력을 다 하+ㄴ’ 그런 선수로 각인되+ㄹ 것이다 .	LOC-B O O O O O O O O O O O O O
-NS홈쇼핑(대표이사도 상철·www. nsmall. com)은 4월 23일 서울 양재동 aT센터(농수산물유통공사)에서 ‘제8회 우리 먹거리 요리경연축제’를 열 +ㄴ다고 5일 밝히었다 .	ORG-B O O O O O LOC-B LOC-B LOC-B O O O O O O O O O
-수입품을 전문 취급하는 기무라야 체인에서는 역수입 하+ㄴ 세이코 시계가 국내 가격보다 훨씬 싸게 팔리+ㄴ다 .	O O O ORG-B ORG-I O O ORG-B O O O O O O O
-호날두, 멀티 골득점하였으나 팀은 패배… 그리 하+여도 8강 .	PER-B O O O O O O O O
-국내 자동차 브랜드 9개사와 수입자동차 브랜드 18개사 등 총 27개 완성차 브랜드에서 총 32종의 신차를 공개하+ㄴ다 .	O O O O O O O O O O O O O O O O O
-이에 정부는 청년취업난 해소를 위하+ㄴ 다양하+ㄴ 정책과 방안을 내놓고 있는데 그 중 하나가 바로 청년 취업 인턴제+이다 .	O O O O O O O O O O O O O O O O O O
-청년취업인턴제는 고용노동부 주관 고용지원사업으로 취업난과 반대로 구인난을 겪고 있는 중소기업의 고충을 해소하고 청년취업문제를 해결하는 일석이조의 효과를 거두고 있다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O
-이에 경기 경영자총협회는 중소기업 청년취업인턴제를 적극 추진하고 있어 좋은 평가를 받고 있다 .	O ORG-B ORG-I O O O O O O O O O O
-중소기업 청년인턴제는 상시근로자 5인 이상의 기업이면 참여하+ㄹ 수 있으며, 청년인턴 참여 희망구직자의 경우 만 15세 이상 만 34세 이하의 청년층 미취업자는 누구나 참여하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-참여 기업에는 3개월의 인턴기간 동안 월 60만원씩, 180만원의 인건비를 정부에서 지원하며, 청년인턴이 정규직 근로자로 전환되 +ㄹ 경우 정규직 전환 지원금 390만원을 추가로 지원 하+ㄴ다 .	O O O O O O MNY-B MNY-B O O O O O O O O O O O O MNY-B O O O O
-인턴 채용 한도는 최초 협약이 +ㄹ 기준, 기업 규모와 관계없이 본사와 지사의 근로자 수를 더 하+ㄴ수에 채용 하+ㄴ도(20% 이내, 강소기업 30%)를 곱 하+ㄴ인원으로 선발하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-현재 고용노동부인가 경제단체 이+ㄴ경기 경영자총협회에서는 협회 회원사 및 청년인턴제 참여기업을 대상으로 무료 잡매칭 활동과 인사노무 관련 무료 컨설팅 서비스를 적극적으로 추진하고 있다 .	O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
-무엇보다 중소기업 청년취업인턴제는 고용노동부가 주관하는 국가사업으로 기업의 경우 별도의 비용 없이 우수하+ㄴ인력을 확보하+ㄹ 수 있는 사업이라는 장점이 있어 기업에서는 이를 적극적으로 활용하+ㄹ만 하다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-한편, 경기경영자총협회는 지나 +ㄴ 2009년부터 청년인턴제 및 고용노동부 일자리지원사업을 지속적으로 추진하+여오고 있으며, 인턴 수료생 대비 정규직 전환율 95%(고용노동부 고용안전정보망 2015.5.31. 입력 기준)의 우수하+ㄴ 실적을 거두고 있다 .	O ORG-B O O O O O ORG-B O O O O O O O O O ORG-B ORG-B O O O O O O O O
+지난해 확실한 믿음 ( ? ) 을 줬 던 한화 가 달라 졌 기 때문 이 죠 .	O O O O O O O O O ORG-B O O O O O O O O
+“ 토종 먹거리 로 국민 밥상 사수 ” 315 억 기부 등 사회 공헌 도 앞장	O O O O O O O O MNY-B MNY-I O O O O O O
+대전 을 ‘ 강하 게 만든 ’ , 또 ‘ 항상 사력 을 다한 ’ 그런 선수 로 각인될 것 이 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O
+NS 홈 쇼핑 ( 대표 이사 도상철 · www . nsmall . com ) 은 4 월 23 일 서울 양재동 aT 센터 ( 농수산물 유통 공사 ) 에서 ‘ 제 8 회 우리 먹거리 요리 경연 축제 ’ 를 연다고 5 일 밝 혔 다 .	ORG-B ORG-I ORG-I O O O PER-B O O O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-B LOC-B LOC-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+수입품 을 전문 취급 하 는 기무라 야 체인 에서 는 역수입한 세이코 시계 가 국내 가격 보다 훨씬 싸 게 팔린다 .	O O O O O O ORG-B ORG-I ORG-I O O O ORG-B O O O O O O O O O O
+호날두 , 멀티 골 득점 했 으나 팀 은 패배 … 그래도 8 강 행	PER-B O O O O O O O O O O O O O O
+국내 자동차 브랜드 9 개 사 와 수입 자동차 브랜드 18 개 사 등 총 27 개 완성 차 브랜드 에서 총 32 종 의 신차 를 공개한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 정부 는 청년 취업 난 해소 를 위한 다양한 정책 과 방안 을 내놓 고 있 는데 그중 하나 가 바로 청년 취업 인턴 제 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+청년 취업 인턴 제 는 고용 노동부 주관 고용 지원 사업 으로 취업 난 과 반대 로 구인난 을 겪 고 있 는 중소기업 의 고충 을 해소하 고 청년 취업 문제 를 해결하 는 일석이조 의 효과 를 거두 고 있 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 경기 경영자 총 협회 는 중소기업 청년 취업 인턴 제 를 적극 추진하 고 있 어 좋 은 평가 를 받 고 있 다 .	O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+중소기업 청년 인턴 제 는 상시 근로자 5 인 이상 의 기업 이 면 참여할 수 있 으며 , 청년 인턴 참여 희망 구직자 의 경우 만 15 세 이상 만 34 세 이하 의 청년층 미 취업자 는 누구 나 참여할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+참여 기업 에 는 3 개월 의 인턴 기간 동안 월 60 만 원 씩 , 180 만 원 의 인건비 를 정부 에서 지원하 며 , 청년 인턴 이 정규직 근로자 로 전환될 경우 정규직 전환 지원금 390 만 원 을 추가 로 지원한다 .	O O O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+인턴 채용 한도 는 최초 협약 일 기준 , 기업 규모 와 관계없이 본사 와 지사 의 근로자 수 를 더한 수 에 채용한 도 ( 20 % 이내 , 강소기 업 30 % ) 를 곱한 인원 으로 선발할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 고용 노동부 인가 경제 단체 인 경기 경영자 총 협회 에서 는 협회 회원 사 및 청년 인턴 제 참여 기업 을 대상 으로 무료 잡 매칭 활동 과 인사 노무 관련 무료 컨설팅 서비스 를 적극적 으로 추진하 고 있 다 .	O ORG-B ORG-I O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+무엇 보다 중소기업 청년 취업 인턴 제 는 고용 노동부 가 주관하 는 국가사업 으로 기업 의 경우 별도 의 비용 없이 우수한 인력 을 확보할 수 있 는 사업 이 라는 장점 이 있 어 기업 에서 는 이 를 적극적 으로 활용할 만하 다 .	O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 경기 경영자 총 협회 는 지난 2009 년 부터 청년 인턴 제 및 고용 노동부 일자리 지원 사업 을 지속적 으로 추진해 오 고 있 으며 , 인턴 수료생 대비 정규직 전환 율 95 % ( 고용 노동부 고용 안전 정보망 2015.5.31 . 입력 기준 ) 의 우수한 실적 을 거두 고 있 다 .	O O ORG-B ORG-I ORG-I ORG-I O O DAT-B DAT-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O O O O O O

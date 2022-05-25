@@ -1,12 +1,12 @@
-부대장 한 개철 대령은 『 예비군들에게 부대 내 오­폐수 처리시스템을 보이어주면, 백 마디 말보다 더 효과가 크다』며, 『요즘에는 훈련이 끝나 +ㄴ 뒤 훈련장에 쓰레기가 발견되는 일이 거의 없다』고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-남경필 지사가 취임 직후 도입 하+ㄴ 연정이 새롭ㄴ 바람을 일으키+ㄴ 것이 대표적이다 .	PER-B O O O O O O O O O O O O
-반면 김 대표는 지난해 7월 당 대표 당선 후 숨가쁘게 달려오았지만, 뚜렷하+ㄴ 성과를 거두지 못하고 있다 .	O PER-B O O O O O O O O O O O O O O O
-연사로 참여하+ㄴ 현대차의 권문식 부회장은 지나 +ㄴ 1일 저녁 벡스코 컨벤션홀에서 열리+ㄴ미디어 초청 갈라디너에서 현대기아차의 능동적이고 안전하+ㄴ 자율주행 기술개발에 대하+ㄴ 강연을 펼치었으며, 미래기술의 키워드로 ‘친환경, 안전, 커넥티비티(연결성), 모빌리티(이동성)’를 제시하며 2030년까지 이 가치를 담은 자율주행차 보편화에 나서겠다고 밝히었다 .	O O ORG-B PER-B O O O O O LOC-B LOC-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-두 번째 연사로 나서 +ㄴ 메르세데스 벤츠 R&D센터의 알워드니스트로 CEO는 ‘디지털 혁명과 자동차 산업의 성공’에 대하+여이야기하면서 벤츠가 추구하는 미래형 자율주행차 ‘F015’를 소개하였다 .	O O O O O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O
-이어 그는 트와이스 팬들뿐만 아니라 다른 사람들 사이에서도 반응이 좋지 않다고 덧붙이었다 .	O O ORG-B O O O O O O O O O O
-7일 텍사스주 휴스턴에서 27시간 머물는 동안에는 트럼프 당선인 측과 만나지 않았으나 13일 귀국길에 캘리포니아주 샌프란시스코를 방문하는 동안 어떤 식으로든 접촉이 이루어지면 중국은 ‘하나의 중국’ 원칙을 침해당 하+ㄴ 것으로 간주하+여강하게 반발하+ㄹ 가능성이 크다 .	O LOC-B LOC-B O O O PER-B O O O O O O LOC-B LOC-B O O O O O O ORG-B O ORG-B O O O O O O O O O
-지난해 1월 새롭ㄴ 하청업체가 서울시의 일감을 맡았지만 ‘미운털’이 박히+ㄴ 백씨 등은 다시 일터로 돌아가지 못하였다 .	O O O O ORG-B O O O O PER-B O O O O O O
-'캡틴 아메리카 시 빌워' 스칼렛 요한슨 이 코푼 휴지, 700만원에 낙 .	O O O O PER-B PER-I O O O MNY-B O O
-수재와 영재들이 미국과 유럽에서 미술 공부를 하고 돌아오았고 1년에 몇 백억원 단위의 미술품이 거래되는 서울이다 .	O O LOC-B LOC-B O O O O O O O O O O LOC-B O
-출범 1년 만에 국내 고급차 시장의 절반에 가깝ㄴ 점유율을 차지하며 국내 고급차 판매 의 견인차 역할을 하+ㄴ 것이다 .	O O O O O O O O O O O O O O O O O O O
-현대차 관계자는 “개인 고객 비중이 증가하고 신규 고객이 증가하는 등 고급차 시장의 저변이 확대되 +ㄴ 것도 제네시스 브랜드의 고무적 이+ㄴ 성과”라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+부대장 한개철 대령 은 『 예비군 들 에게 부대 내 오 ­ 폐수 처리 시스템 을 보 여 주 면 , 백 마디 말 보다 더 효과 가 크 다 』 며 , 『 요즘 에 는 훈련 이 끝난 뒤 훈련장 에 쓰레기 가 발견되 는 일 이 거의 없 다 』 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남경필 지사 가 취임 직후 도입한 연정 이 새로 운 바람 을 일으킨 것 이 대표적 이 다 .	PER-B O O O O O O O O O O O O O O O O O O
+반면 김 대표 는 지난해 7 월 당 대표 당선 후 숨 가쁘 게 달려 왔 지만 , 뚜렷한 성과 를 거두 지 못하 고 있 다 .	O PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+연사 로 참여한 현대차 의 권문식 부회장 은 지난 1 일 저녁 벡스코 컨벤션 홀 에서 열린 미디어 초청 갈라 디너 에서 현대 기아차 의 능동적 이 고 안전한 자율 주행 기술 개발 에 대한 강연 을 펼 쳤 으며 , 미래 기술 의 키워드 로 ‘ 친환경 , 안전 , 커넥티비티 ( 연결 성 ) , 모빌리티 ( 이동성 ) ’ 를 제시하 며 2030 년 까지 이 가치 를 담 은 자율 주행 차 보편화 에 나서 겠 다고 밝 혔 다 .	O O O ORG-B O PER-B O O O DAT-B DAT-I O LOC-B LOC-I LOC-I O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+두 번째 연사 로 나선 메르세데스 벤츠 R & D 센터 의 알 워드 니스 트로 CEO 는 ‘ 디지털 혁명 과 자동차 산업 의 성공 ’ 에 대해 이야기 하 면서 벤츠 가 추구하 는 미래 형 자율 주행 차 ‘ F 015 ’ 를 소개 했 다 .	O O O O O ORG-B ORG-I O O O O O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 그 는 트와이스 팬 들 뿐 만 아니 라 다른 사람 들 사이 에서 도 반응 이 좋 지 않 다고 덧붙 였 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+7 일 텍사스 주 휴스턴 에서 27 시간 머무 는 동안 에 는 트럼프 당선인 측 과 만나 지 않 았 으나 13 일 귀국 길 에 캘리포니아 주 샌프란시스코 를 방문하 는 동안 어떤 식 으로 든 접촉 이 이뤄지 면 중국 은 ‘ 하나 의 중국 ’ 원칙 을 침해 당한 것 으로 간주해 강하 게 반발할 가능성 이 크 다 .	DAT-B DAT-I LOC-B LOC-I LOC-B O O O O O O O O PER-B O O O O O O O O DAT-B DAT-I O O O LOC-B LOC-I LOC-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+지난해 1 월 새로 운 하청 업체 가 서울시 의 일감 을 맡 았 지만 ‘ 미운털 ’ 이 박힌 백 씨 등 은 다시 일터 로 돌아가 지 못 했 다 .	O DAT-B DAT-I O O O O O ORG-B O O O O O O O O O O O PER-B O O O O O O O O O O O O
+' 캡틴 아메리카 시빌 워 ' 스칼렛 요한슨 이 코 푼 휴지 , 700 만 원 에 낙찰	O O O O O O PER-B PER-I O O O O O MNY-B MNY-I MNY-I O O
+수재 와 영재 들 이 미국 과 유럽 에서 미술 공부 를 하 고 돌아 왔 고 1 년 에 몇 백 억 원 단위 의 미술품 이 거래되 는 서울 이 다 .	O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O
+출범 1 년 만 에 국내 고급 차 시장 의 절반 에 가까 운 점유율 을 차지하 며 국내 고급 차 판매 의 견인차 역할 을 한 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현대차 관계자 는 “ 개인 고객 비중 이 증가하 고 신규 고객 이 증가하 는 등 고급 차 시장 의 저변 이 확대된 것 도 제네시스 브랜드 의 고무적 인 성과 ” 라고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

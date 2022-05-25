@@ -1,10 +1,10 @@
-열혈강호 온라인과 나이트 온라인이 좀 더 시간을 벌어 주+ㄴ 것은 사실이나, 엠게임에 새롭ㄴ 성장동력이 필요하다는 것은 올해도 변함없는 사실이다 .	O O O O O O O O O O O ORG-B O O O O O O O O
-유희열은 “보+ㄹ수록 (유제이가) 케이티 김과 닮았다 .	PER-B O PER-B PER-B PER-I O O
-지난해에는 각종 행사에서 6차례 만나 +았다 .	O O O O O O O
--졸업 후 아크네 스튜디오에 합류하+ㄴ 계기는.“나도 골드먼삭스나 매킨지 같은 크+ㄴ 회사에 가고 싶었다 .	O O ORG-B ORG-I O O ORG-B ORG-B O O O O O O
-코스트코는 가장 많은 11개를 운영하고 있다 .	ORG-B O O O O O O
-박 회장은 현지 동포들이 여의도 트럼프월드를 1300만 달러(약 150억원) 어치를 구입하면서 외환위기 당시 외화유입에도 기여하였다고 +였다 .	PER-B O O O LOC-B LOC-B MNY-B MNY-I MNY-B O O O O O O O O
-이 캐릭터보다 더 세+ㄹ 수+ㄴ 없다”라고 다른 악역과의 비교를 거부하+ㄴ만큼 충무로 최강의 악역 캐릭터가 탄생하+ㄹ 수 있을지에 대하+ㄴ기대감도 뜨겁다 .	O O O O O O O O O O O O O O O O O O O O
-한편 ‘살인 의뢰’는 3월 12일 개봉하+ㄹ 예정이다 .	O O O O O O O O
-2박3일간의 호남 일정을 잇어가고 있는 안 지사는 전날 전북 전주에잇어 이날 광주지역 민심을 훑을 예정이었다 .	O LOC-B O O O PER-B O O LOC-B LOC-I O LOC-B O O O O
-이에 메르스 환자는 35명이 +었다 .	O O O O O O
+열혈 강호 온라인 과 나이트 온라인 이 좀 더 시간 을 벌 어 준 것 은 사실 이나 , 엠게임 에 새로 운 성장 동력 이 필요하 다는 것 은 올해 도 변함없 는 사실 이 다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+유희열 은 “ 볼수록 ( 유제이 가 ) 케이티 김 과 닮 았 다 .	PER-B O O O O PER-B O O PER-B PER-I O O O O O
+지난해 에 는 각종 행사 에서 6 차례 만났 다 .	O O O O O O O O O O O
+- 졸업 후 아크 네 스튜디오 에 합류한 계기 는 . “ 나 도 골드먼삭스 나 매킨지 같 은 큰 회사 에 가 고 싶 었 다 .	O O O ORG-B ORG-I ORG-I O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O
+코스트코 는 가장 많 은 11 개 를 운영하 고 있 다 .	ORG-B O O O O O O O O O O O O
+박 회장 은 현지 동포 들 이 여의도 트럼프월드 를 1300 만 달러 ( 약 150 억 원 ) 어치 를 구입하 면서 외환 위기 당시 외화 유입 에 도 기여 했 다고 했 다 .	PER-B O O O O O O LOC-B LOC-B O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+이 캐릭터 보다 더 셀 순 없 다 ” 라고 다른 악역 과 의 비교 를 거부한 만큼 충무로 최강 의 악역 캐릭터 가 탄생할 수 있 을지 에 대한 기대감 도 뜨겁 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 ‘ 살인 의뢰 ’ 는 3 월 12 일 개봉할 예정 이 다 .	O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+2 박 3 일 간 의 호남 일정 을 이 어 가 고 있 는 안 지사 는 전날 전북 전주 에 이 어 이날 광주 지역 민심 을 훑 을 예정 이 었 다 .	O O O O O O LOC-B O O O O O O O O PER-B O O O LOC-B LOC-I O O O O LOC-B O O O O O O O O O O
+이 에 메르스 환자 는 35 명 이 됐 다 .	O O O O O O O O O O O

@@ -1,13 +1,13 @@
-가학적 영상물+어나르+ㄴ 누리꾼에 1건당 50만원 합의 종 .	O O O O MNY-B O O O
-특히 임지연은 특별출연을 위하+여양궁 연습을 하는 등 노력을 기울이는 등 치명적 이+ㄴ 매력을 자아내는 소식이 전하+여지+어눈길을 끌고 있다 .	O PER-B O O O O O O O O O O O O O O O O O
-한편 임지연은 과거 자신의 인스타그램에 사진을 게시, 치명적 이+ㄴ 미모를 자랑하였다 .	O PER-B O O O O O O O O O O
-온라인 중앙일보 [사진임지연인스타그램 .	O ORG-B PER-B O
-이 실험은 2015년 7월 후판 공장에서 시작되었다 .	O O O O O O O O
-지자체 74곳인 건비 못 대…“정부 재원, 지방으로 이전을 .	O O O O O O O O O
-다수당이+ㄴ 사회당, 의회주의자들은 기습을 당하였다 .	O ORG-B O O O O
-사드 보복, 자국 산업 보호를 위하+ㄴ각종 규제 및 육성책으로 인하+ 여변수가 많아 지었다 .	O O O O O O O O O O O O O O
-3m 끊기+ㄴ '점자블록' … 걸음마저 뺏기+ㄴ아들 .	O O O O O O O
-어린이들을 위하 +ㄴ RC카 조종체험, 4D레이싱, 회전목마 등 놀이시설 10종도 선보이+ㄴ다 .	O O O O O O O O O O O O
-당시 멤버들은 "'위 아래'로 기회+이라는 크+ㄴ 선물을 받았다 .	O O O O O O O O O
-고래 두 마리가 치고받기 일보 직전 이+ㄴ데 근처에 있는 새우 걱정 하+ㄹ이유도 없다 .	O O O O O O O O O O O O O O
-대중 관계를 돌아보면 한국의 지경학(地經學)적 우세가 중국 특수를 가져오았다면 사드(THAAD) 배치 결정 이후에는 지정학(地政學)적 리스크로 다가오았다 .	O O O ORG-B O O ORG-B O O O O O O O O O O
+가학적 영상물 퍼 나른 누리 꾼 에 1 건 당 50 만 원 합의 종용	O O O O O O O O O O MNY-B MNY-I MNY-I O O
+특히 임지연 은 특별 출연 을 위해 양궁 연습 을 하 는 등 노력 을 기울이 는 등 치명적 인 매력 을 자아내 는 소식 이 전해 져 눈길 을 끌 고 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 임지연 은 과거 자신 의 인스타그램 에 사진 을 게시 , 치명적 인 미모 를 자랑 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+온라인 중앙일보 [ 사진 임지연 인스타그램 ]	O ORG-B O O PER-B O O
+이 실험 은 2015 년 7 월 후판 공장 에서 시작 됐 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O
+지자체 74 곳 인건비 못대 … “ 정부 재원 , 지방 으로 이전 을 ”	O O O O O O O O O O O O O O O
+다수당 인 사회당 , 의회주의 자 들 은 기습 을 당 했 다 .	O O ORG-B O O O O O O O O O O O
+사드 보복 , 자국 산업 보호 를 위한 각종 규제 및 육성 책 으로 인해 변수 가 많아 졌 다 .	O O O O O O O O O O O O O O O O O O O O O
+3 m 끊긴 ' 점자 블록 ' … 걸음 마저 뺏긴 아들 아	O O O O O O O O O O O O O
+어린이 들 을 위한 RC 카 조종 체험 , 4 D 레이싱 , 회전목마 등 놀이 시설 10 종 도 선보인다 .	O O O O O O O O O O O O O O O O O O O O O O
+당시 멤버 들 은 " ' 위아래 ' 로 기회 라는 큰 선물 을 받 았 다 .	O O O O O O O O O O O O O O O O O O
+고래 두 마리 가 치 고 받 기 일보 직전 인데 근처 에 있 는 새우 걱정 할 이유 도 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+대중 관계 를 돌아보 면 한국 의 지경 학 ( 地經學 ) 적 우세 가 중국 특수 를 가져 왔 다면 사드 ( THAAD ) 배치 결정 이후 에 는 지정학 ( 地政學 ) 적 리스크 로 다가 왔 다 .	O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O

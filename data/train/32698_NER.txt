@@ -1,18 +1,18 @@
-더블케이에게 음악도 들려주고. 그렇게 여기까지 +았다”고 힘들었던 과거를 회상하였다 .	PER-B O O O O O O O O O
-‘도끼’ 소식에 누리꾼들은 “4가지 쇼도끼, 성공 하+ㄴ거 축하 하+ㄴ다” .	PER-B O O O PER-B O O O O O
-멜서더스조차 그녀를 『오직 돈과 섹스, 음식과 잠자는 것에만 관심을 보이+ㄴ 다』고 빈정거리었다 .	PER-B O O O O O O O O O O O O
-지나+ㄴ 2012년 5월 개관 하+ㄴ 예울마루는 1021석의 대극장, 302석의 소극장, 기획전시장, 해안산책로 등을 갖추고 있다 .	O O O O O O O O O O O O O O O O
-하지만 지금 주소는 37-5번 지+이다 .	O O O LOC-B O O
-한탄…고 전개그 ‘오글오글’ 방송인 강호동이 ‘신서유기’에서 오버액션을 선보이었다 .	O O O O PER-B O O O O
-11일 네이버 TV캐스트를 통하+여 방송 하+ㄴ 예능 프로그램 ‘신서유기’ 6화에서는 본격적 이+ㄴ삼장법사레이스를 펼치는 강호동, 이수근, 은지원, 이승기 등의 모습이 그리 +어+지었다 .	O O O O O O O O O O O O O PER-B PER-B PER-B PER-B O O O O O
-이날 ‘신서유기’에서 강호동과 이수근은 목적지 이+ㄴ 호텔에 도착하+ 여기 뻐하였다 .	O O PER-B PER-B O O O O O O O
-어제는 현재 살고 있는 브리즈번로건 시티의 시장님이 주민들과 축하 파티를 열어 주+어 함께 +였다 .	O O O O LOC-B LOC-I O O O O O O O O O
-”호주에 +ㄴ 언제 이민을 가+았나.“서울 영등포에서 태어나 +아이후 인천에서 살았다 .	LOC-B O O O LOC-B LOC-I O O LOC-B O O
-지난달 롯데제과는 국내에서는 처음으로 김치 유산균이 첨가되 +ㄴ초콜릿 2종을 내놓았다 .	O ORG-B O O O O O O O O O
-유 부총리는 박근혜 전 대통령 파면 이후 처음 가지+ㄴ기자 간담회에서 박근혜 정부의 경제목표 이+ㄴ ‘4·7·4’를 달성하지 못하+ㄴ점은 인정하면서도 “공공부문 개혁, 4대 보험개혁 등 정책의 기본 방향 설정은 잘 되었고 일부 목표는 달성하였다”고 강조하였다 .	PER-B O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-영화 ‘함정’에 출연하+ㄴ 배우 마동석이 SNS가 아니+ㄴ 배달 어플리케이션(이하 배달앱)을 통하+ 여맛집을 찾는다고 밝히었다 .	O O O O PER-B O O O O O O O O O O
-4일 서울 압구정 CGV에서 영화 ‘함정’(감독권형진) 제작 보고회가 열리었다 .	O LOC-B LOC-I LOC-I O PER-B O O O O
-이 자리에 참석하+ㄴ 마동석은 “SNS을 통하+여맛집을 찾아가 +아보+ㄴ 적이 있느냐”는 질문을 받았다 .	O O O PER-B O O O O O O O O O
-이에 마동석은 “SNS을 하+ㄹ줄 모르아서 이를 이용하+여맛집을 찾아 보+ㄴ 적은 없다”고 답하였다 .	O PER-B O O O O O O O O O O O
-이어 마동석은 “하지만 배달앱이 있기 때문에 이를 통하+여해결하고 있다”고 말 하+여크+ㄴ 웃음을 자아내 +었다 .	O PER-B O O O O O O O O O O O O O
-마동석은 현재 배달앱 광고모델로 활동 중이다 .	PER-B O O O O O O
+더블 케이 에게 음악 도 들려주 고 . 그렇 게 여기 까지 왔 다 ” 고 힘들 었 던 과거 를 회상 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+‘ 도끼 ’ 소식 에 누리 꾼 들 은 “ 4 가지 쇼 도끼 , 성공한 거 축하한다 ” ,	O PER-B O O O O O O O O O O O PER-B O O O O O O
+멜 서 더스 조차 그녀 를 『 오직 돈 과 섹스 , 음식 과 잠자 는 것 에 만 관심 을 보인다 』 고 빈정거 렸 다 .	PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 2012 년 5 월 개관한 예울마루 는 1021 석 의 대 극장 , 302 석 의 소극장 , 기획 전시장 , 해안 산책로 등 을 갖추 고 있 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 지금 주소 는 37 - 5 번지 다 .	O O O O LOC-B LOC-I LOC-I LOC-I O O
+한탄 … 고전 개그 ‘ 오글오글 ’ 방송인 강호동 이 ‘ 신 서유기 ’ 에서 오버액션 을 선보 였 다 .	O O O O O O O O PER-B O O O O O O O O O O O O
+11 일 네이버 TV 캐스트 를 통해 방송한 예능 프로그램 ‘ 신 서유기 ’ 6 화 에서 는 본격적 인 삼장 법사 레이스 를 펼치 는 강호동 , 이수근 , 은지원 , 이승기 등 의 모습 이 그려 졌 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O O
+이날 ‘ 신 서유기 ’ 에서 강호동 과 이수근 은 목적지 인 호텔 에 도착해 기뻐 했 다 .	O O O O O O PER-B O PER-B O O O O O O O O O O
+어제 는 현재 살 고 있 는 브리즈번 로건 시티 의 시장 님 이 주민 들 과 축하 파티 를 열 어 줘 함께 했 다 .	O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O
+” 호주 엔 언제 이민 을 갔 나 . “ 서울 영등포 에서 태어나 이후 인천 에서 살 았 다 .	O LOC-B O O O O O O O O LOC-B LOC-I O O O LOC-B O O O O O
+지난달 롯데제과 는 국내 에서 는 처음 으로 김치 유산균 이 첨가된 초콜릿 2 종 을 내놓 았 다 .	O ORG-B O O O O O O O O O O O O O O O O O O
+유 부총리 는 박근혜 전 대통령 파면 이후 처음 가진 기자 간담회 에서 박근혜 정부 의 경제 목표 인 ‘ 4 · 7 · 4 ’ 를 달성하 지 못한 점 은 인정하 면서 도 “ 공공 부문 개혁 , 4 대 보험 개혁 등 정책 의 기본 방향 설정 은 잘 됐 고 일부 목표 는 달성 했 다 ” 고 강조 했 다 .	PER-B O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영화 ‘ 함정 ’ 에 출연한 배우 마동석 이 SNS 가 아닌 배달 어플리케이션 ( 이하 배달 앱 ) 을 통해 맛집 을 찾 는다고 밝 혔 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+4 일 서울 압구정 CGV 에서 영화 ‘ 함정 ’ ( 감독 권형진 ) 제작 보고회 가 열 렸 다 .	DAT-B DAT-I LOC-B LOC-I LOC-I O O O O O O O PER-B O O O O O O O O
+이 자리 에 참석한 마동석 은 “ SNS 을 통해 맛집 을 찾아가 본 적 이 있 느냐 ” 는 질문 을 받 았 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+이 에 마동석 은 “ SNS 을 할 줄 몰 라서 이 를 이용해 맛집 을 찾아본 적 은 없 다 ” 고 답 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+이어 마동석 은 “ 하지만 배달 앱 이 있 기 때문 에 이 를 통해 해결하 고 있 다 ” 고 말해 큰 웃음 을 자아냈 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+마동석 은 현재 배달 앱 광고 모델 로 활동 중 이 다 .	PER-B O O O O O O O O O O O O

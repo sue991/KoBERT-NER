@@ -1,17 +1,17 @@
-전기안전 전문가 이+ㄴ 스티브 커틀러는 “스마트폰이나 노트북 등의 전압은 높지 않은 편이지만 전원 플러그가 연결되+ㄴ 채로 물기가 닿으면 위험하+ㄹ 수 있다”고 경고하였다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
-한편, 지나+ㄴ 2015년에도 24세의 러시아 여성이 욕실에서 충전 중 아이폰을 쓰다가 감전사하였다는 보도가 있었고, 2013년에도 중국 남방항공 소속 20대 여성 승무원이 샤워를 마치고 나오아 충전 중 이+ㄴ 아이폰으로 통화하 .	O O O O LOC-B O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
-[동아포토] 한복 입은 동심 " 새해 복 많이 받으시+어요 .	O O O O O O O O O O
-이번 주도 책 신청 많이 하+여주세요.정리=이세라기자 slwitch@j oongang. co.kr『 마인드스쿨15.너만 보면 떨리+어!』 천근아 기획, 김미영 글, 도도 그림, 180쪽, 고릴라 박스, 9500원.인 성만화『 마인드스쿨』 시리즈의 마지막 권이야기+이다 .	O O O O O PER-B O O O O O O PER-B O PER-B O PER-B O O ORG-B ORG-I MNY-B O O O O O O
-한편 노홍철은 최근 자전거를 타고 이동하는 모습이 포착되 +ㄴ바 있다 .	O PER-B O O O O O O O O O
-‘끝까지가+ㄴ다’는 스타5인과 100인의 방청객이 함께하는 노래 대결 프로그램으로 매주 화요일 오후 9시 40분 방송되+ㄴ다 .	O O O O O O O O O O O O O O O
-이 소식에 네티즌들은 "노홍철, 그 녀석 보고 싶네" "노홍철, 식스맨보다 노홍철 “"노홍철, 이제 +ㄴ 복귀하세요“ 등의 반응을 보이었다 .	O O O PER-B O O O O PER-B O PER-B PER-B O O O O O O O
-그는 “미국의 군사력은 튼튼 하+ㄴ 경제를 기반으로 하는 것”이라며 “TPP는 (참여국간의) 동맹과 파트너십을 더욱 강화하는 것은 물론이고 아태지역에 대하+ㄴ 우리의 지속적 이+ㄴ 책무를 강조하는 것이다 .	O ORG-B O O O O O O O ORG-B O O O O O O O LOC-B O O O O O O O O
-‘박영규 수상 소감, 아들 언급’ 배우 박영규가 먼저 떠나 +ㄹ아들에 대하+ㄴ그리움을 수상 소감에 담았다 .	PER-B O O O O O PER-B O O O O O O O O
-박영규는 지난달 31일 생방송으로 진행되+ㄴ ‘2014KBS 연기 대상’에서 장편 드라마 부문의 우수 연기상을 수상하였다 .	PER-B O O O O O O O O O O O O O O
-이날 박영규는 “시골에서 올라오아 배우를 꿈꾸며 열심히 살았다 .	O PER-B O O O O O O O
-소릉복위는 무산되었지만 무소불위의 공신 세력에 정면에서 맞서 +ㄹ 수 있는 신진정치세력이 등장하고 있음을 보이어 주+ㄴ사건이었다 .	PER-B O O O O O O O O O O O O O O O
-회추위가 역대 회장에게 후보들에 대하+ㄴ 평판을 모두 듣고 심층 분석하였을 정도로 선출 과정이 만만하지 않았다고 +였다 .	ORG-B O ORG-B O O O O O O O O O O O O O O
-베저스 CEO는 “다른 실리콘밸리 기업 흉내 내다가+ㄴ 우리+ㄴ 망하+ㄴ다”고 말 하+여+오았다 .	ORG-B O O LOC-B O O O O O O O O
-‘하루 11억’ 테일러 스위프트, 세계에서 가장 돈 많이 벌는 가 .	O MNY-B PER-B PER-I O O O O O O O
-부조리극의 일부 같은 이 모습은 ‘살림 의료복지사회적 협동조합’이 운영하는 ‘살림의원’에서 열리+ㄴ갑상샘 질환 환자들의 반상회 이+ㄴ ‘갑들의 모임’의 한 장면이다 .	ORG-I O O O O ORG-B ORG-I ORG-I O ORG-B ORG-B O O O O ORG-B ORG-I O O O
-카라 5월 컴백, 구하라 가슴 향하+ㄴ ' 나쁘+ㄴ손' 기습에 '화들짝 .	ORG-B O O PER-B O O O O O O O
+전기 안전 전문가 인 스티브 커틀러 는 “ 스마트 폰 이나 노트북 등 의 전압 은 높 지 않 은 편 이 지만 전원 플러그 가 연결된 채 로 물기 가 닿 으면 위험할 수 있 다 ” 고 경고 했 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 지난 2015 년 에 도 24 세 의 러시아 여성 이 욕실 에서 충전 중 아이폰 을 쓰 다가 감전사 했 다는 보도 가 있 었 고 , 2013 년 에 도 중국 남방 항공 소속 20 대 여성 승무원 이 샤워 를 마치 고 나 와 충전 중 인 아이폰 으로 통화하 다	O O O DAT-B DAT-I O O O O O LOC-B O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+[ 동아 포토 ] 한복 입 은 동심 " 새해 복 많이 받 으세요 "	O O O O O O O O O O O O O O O
+이번 주도 책 신청 많이 해 주 세요 . 정리 = 이세라 기자 slwitch @ joongang . co . kr 『 마인드 스쿨 15 . 너 만 보 면 떨려 ! 』 천 근 아 기획 , 김미영 글 , 도도 그림 , 180 쪽 , 고릴라 박스 , 9500 원 . 인성 만화 『 마인드 스쿨 』 시리즈 의 마지막 권 이야기 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O PER-B O O PER-B O O O O O ORG-B ORG-I O MNY-B MNY-I O O O O O O O O O O O O O O
+한편 노홍철 은 최근 자전거 를 타 고 이동하 는 모습 이 포착된 바 있 다 .	O PER-B O O O O O O O O O O O O O O O
+‘ 끝 까지 간다 ’ 는 스타 5 인 과 100 인 의 방청객 이 함께하 는 노래 대결 프로그램 으로 매주 화요일 오후 9 시 40 분 방송된다 .	O O O O O O O O O O O O O O O O O O O O O O DAT-B TIM-B TIM-I TIM-I TIM-I TIM-I O O
+이 소식 에 네티즌 들 은 " 노홍철 , 그 녀석 보 고 싶 네 " " 노홍철 , 식스 맨 보다 노홍철 “ " 노홍철 , 이젠 복귀하 세요 “ 등 의 반응 을 보 였 다 .	O O O O O O O PER-B O O O O O O O O O PER-B O O O O PER-B O O PER-B O O O O O O O O O O O O O
+그 는 “ 미국 의 군사력 은 튼튼한 경제 를 기반 으로 하 는 것 ” 이 라며 “ TPP 는 ( 참여국 간 의 ) 동맹 과 파트너십 을 더욱 강화하 는 것 은 물론 이 고 아태 지역 에 대한 우리 의 지속적 인 책무 를 강조하 는 것 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+‘ 박영규 수상 소감 , 아들 언급 ’ 배우 박영규 가 먼저 떠난 아들 에 대한 그리움 을 수상 소감 에 담 았 다 .	O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O
+박영규 는 지난달 31 일 생방송 으로 진행된 ‘ 2014 KBS 연기 대상 ’ 에서 장편 드라마 부문 의 우수 연기 상 을 수상 했 다 .	PER-B O O DAT-B DAT-I O O O O DAT-B O O O O O O O O O O O O O O O O O
+이날 박영규 는 “ 시골 에서 올라 와 배우 를 꿈꾸 며 열심히 살 았 다 .	O PER-B O O O O O O O O O O O O O O O
+소릉 복위 는 무산되 었 지만 무소불위 의 공신 세력 에 정면 에서 맞설 수 있 는 신진 정치 세력 이 등장하 고 있 음 을 보 여 준 사건 이 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+회 추위 가 역대 회장 에게 후보 들 에 대한 평판 을 모두 듣 고 심층 분석 했 을 정도 로 선출 과정 이 만만 치 않 았 다고 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+베 저스 CEO 는 “ 다른 실리콘밸리 기업 흉내 내 다간 우린 망한다 ” 고 말해 왔 다 .	ORG-B ORG-I O O O O LOC-B O O O O O O O O O O O O
+‘ 하루 11 억 ’ 테일러 스위프트 , 세계 에서 가장 돈 많이 버 는 가수	O O MNY-B MNY-I O PER-B PER-I O O O O O O O O O
+부조리극 의 일부 같 은 이 모습 은 ‘ 살림 의료 복지 사회적 협동조합 ’ 이 운영하 는 ‘ 살림 의원 ’ 에서 열린 갑상 샘 질환 환자 들 의 반상회 인 ‘ 갑 들 의 모임 ’ 의 한 장면 이 다 .	O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O
+카라 5 월 컴백 , 구하 라 가슴 향한 ' 나쁜 손 ' 기습 에 ' 화들짝 '	ORG-B DAT-B DAT-I O O PER-B PER-I O O O O O O O O O O O

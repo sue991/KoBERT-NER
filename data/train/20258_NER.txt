@@ -1,14 +1,14 @@
-고려대 경영대학 이 명문 비즈니스스쿨연합이+ㄴ CEMS 정회 원 자격을 획득 하+ㅁ에 따르 아GMBA&MIM도 새롭게 선보이었다 .	ORG-B ORG-I O O O ORG-B O O O O O O O O O O
-美 국무부 “수사 지켜보+아야” 신중…어 산지 “힐러리 측의 물타기 .	ORG-B ORG-I O O O O PER-B O O O
-3G 만에 멀티골… 14골 정 조국 추격성 남FC티아고(23)가 중동 리그로 이적하면서 득점왕을 향하+ㄴ광주FC 정조국(32)의 독주체제에 힘이 실리었다 .	O O O O O O O O ORG-B ORG-I O O ORG-B PER-B O O O O
-7일 상하이 주가지수는 전날보다 1.29% 빠지+ㄴ3, 727.13을 기록하였고 선전지수는 무려 5.80% 하락 하+ㄴ 11, 375.60으로 떨어지었다 .	O ORG-B O O O O O O O O O O O O O O O
-소속 사이든 나인의 한 관계자는 5월 31일 “‘신과 함께’가 현재 시나리오 작업 중 이+ㄴ 만큼 완성되 +ㄴ 내용을 확인하고 출연 여부를 최종 확정 하+ㄹ 계획”이라고 밝히었다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
-평소 가장 존경하는 배우로 송강호, 전도연을 말하+여오+ㄴ문근영은 “송강호 선배가 캐스팅+었다는 이야기를 듣고 대본을 읽기 전부터 꼭 이 작품을 하고 싶다고 생각하였다 .	O O O O PER-B PER-B PER-B PER-B O O O O O O O O O O O O O O
-또 진찰도 제대로 받지 않고 비싸+ㄴ분유부터 구입하였는데 설명을 들어보니 그렇 +ㄹ 필요가 없었네요.제가 아이를 늦게 낳아서 더 비싸고 좋은 것 +ㄹ 하+여주고 싶은 마음이 있는데, 비싸 +ㄴ 것 +ㄹ 하+여주는 것이 아이에게 꼭 좋은 것만은 아니었네요.”(송씨) 소아아토피 예방과 치료법·전문의 진료에 따르+ㄴ 약물요법은 환자에게 도움이 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
-30대 초반 배우들 가운데 그만큼 흥행력과 대중성을 갖추+ㄴ이도 흔하지 않기 때문이다 .	O O O O O O O O O O O O
-메타포 뮬러 홈페이지에서 제품의 구매부터 복용까지 SNS를 이용하+여의사와 대화를 주고받을 수 있어 소비자들에게 믿음을 주고 있다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
-임기 중에 권력 누수 없이 주어 지+ㄴ 권한을 100% 행사하는 것+이 대통령의 철학이라는 것이다 .	O O O O O O O O O O O O O O O
-이 중 70-80%가 옥시 피해자 +이다 .	O O O ORG-B O O O
-이미 2012년 개정되+ㄴ 헌법에서 핵보유국이 +ㅁ을 천명하+ㄴ 만큼 이번 당규약에서 +ㄴ 구체적 실천방안이 +ㄴ 핵·경제병진노선을 강조하고 나서 +ㄴ 것이다 .	O O O O O O O O O O O O O O O O O O O O
-다시는 안보+ㄹ 것처럼 크+ㄴ 다툼이었다”며 “실제로 2~3년 정도는 엄마와 보+ㄹ 수 없을 정도로 지내+었다 .	O O O O O O O O O O O O O O O
-행사 당일 이+ㄴ 3일에는 물청소차 22대가 오전 8시부터 창안제뿐 아니라 중심가 58개 도로 314km 구간에 걸치+어바닥물청소를 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O
+고려대 경영 대학 이 명문 비즈니스 스쿨 연합 인 CEMS 정회원 자격 을 획득함 에 따 라 GMBA & MIM 도 새롭 게 선보 였 다 .	ORG-B ORG-I ORG-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+美 국무부 “ 수사 지켜봐야 ” 신중 … 어산 지 “ 힐러리 측 의 물타기 ”	ORG-B ORG-I O O O O O O PER-B PER-I O PER-B O O O O
+3 G 만 에 멀티 골 … 14 골 정조국 추격 성남 FC 티아고 ( 23 ) 가 중동 리그 로 이적하 면서 득점 왕 을 향한 광주 FC 정조국 ( 32 ) 의 독주 체제 에 힘 이 실 렸 다 .	O O O O O O O O O PER-B O ORG-B ORG-I PER-B O O O O ORG-B ORG-I O O O O O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O
+7 일 상하이 주가 지수 는 전날 보다 1.29 % 빠진 3,727.13 을 기록 했 고 선전 지수 는 무려 5.80 % 하락한 11,375.60 으로 떨어 졌 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+소속 사 이든 나인 의 한 관계자 는 5 월 31 일 “ ‘ 신 과 함께 ’ 가 현재 시나리오 작업 중 인 만큼 완성된 내용 을 확인하 고 출연 여부 를 최종 확정할 계획 ” 이라고 밝 혔 다 .	O O ORG-B ORG-I O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+평소 가장 존경하 는 배우 로 송강호 , 전도연 을 말해 온 문근영 은 “ 송강호 선배 가 캐스팅 됐 다는 이야기 를 듣 고 대본 을 읽 기 전 부터 꼭 이 작품 을 하 고 싶 다고 생각 했 다 .	O O O O O O PER-B O PER-B O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 진찰 도 제대로 받 지 않 고 비싼 분유 부터 구입 했 는데 설명 을 들 어 보 니 그럴 필요 가 없 었 네요 . 제 가 아이 를 늦 게 낳 아서 더 비싸 고 좋 은 걸 해 주 고 싶 은 마음 이 있 는데 , 비싼 걸 해 주 는 것 이 아이 에게 꼭 좋 은 것 만 은 아니 었 네요 . ” ( 송 씨 ) 소아 아토피 예방 과 치료 법 · 전문의 진료 에 따른 약물 요법 은 환자 에게 도움 이 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+30 대 초반 배우 들 가운데 그만큼 흥행 력 과 대중성 을 갖춘 이도 흔 치 않 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O
+메타포 뮬러 홈페이지 에서 제품 의 구매 부터 복용 까지 SNS 를 이용해 의사 와 대화 를 주고받 을 수 있 어 소비자 들 에게 믿음 을 주 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+임기 중 에 권력 누수 없이 주어진 권한 을 100 % 행사하 는 게 대통령 의 철학 이 라는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+이 중 70 - 80 % 가 옥시 피해자 다 .	O O O O O O O ORG-B O O O
+이미 2012 년 개정된 헌법 에서 핵보유국 임 을 천명한 만큼 이번 당 규약 에선 구체적 실천 방안 인 핵 · 경제 병진 노선 을 강조하 고 나선 것 이 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+다시 는 안 볼 것 처럼 큰 다툼 이 었 다 ” 며 “ 실제로 2 ~ 3 년 정도 는 엄마 와 볼 수 없 을 정도 로 지냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+행사 당일 인 3 일 에 는 물 청소차 22 대 가 오전 8 시 부터 창안 제 뿐 아니 라 중심가 58 개 도로 314 km 구간 에 걸쳐 바닥 물청소 를 한다 .	O O O DAT-B DAT-I O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O

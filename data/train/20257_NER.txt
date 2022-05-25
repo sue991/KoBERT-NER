@@ -1,19 +1,19 @@
-이에 김준현은 윤종신에게 “우리 이런 사람에게 진행을 당하+ 여야 하냐”며 장난스럽+ㄴ불만을 토로+였다 .	O PER-B PER-B O O O O O O O O O O
-윤종신은 제작진에게 “CJ E&M에 MC 연수는 없냐. 김풍연 수 좀 시키+어라”라고 제안하+ 여좌 중을 폭소하게 +였다 .	PER-B O O O O O O PER-B O O O O O O O O O
-8월 13일 첫 방송되+ㄴ올리브TV '비법'은 쉽고, 맛있고, 재현 가능 하+ㄴ나만의 비법이 있는 대한민국 국민이라면 누구나 참여하+ㄹ 수 있는 대국민 참여 레시피 프로그램이다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O
-전 세계 150개국 1,700만 다운로드를 달성 하+ㄴ 모바일 RPG(역할 수행 게임) '헬로히어로'와 '엔젤스톤'을 출시하며 글로벌 게임사로 빠르게 성장 하+여+았다 .	O O O O O O O O O O O O O O O O O O O O
-이번 투자로 핀콘은 제2의 도약을 위하+ㄴ 재원을 마련하게 +었다 .	O O ORG-B O O O O O O O
-이탈리아 디자인의 시계는 느리+ㄴ듯하지만, 옛 것만을 고수하지 않는다 .	ORG-B O O O O O O O O
-특히 전 가구가 소비자들의 선호도가 높은 전용 84㎡면적으로 구성되 +ㄴ 것이 특징이다 .	O O O O O O O O O O O O O
-현재 중소기업 장기근속자(중기자) 특별공급 신청을 받고 있으며 중소기업에서 5년 이상 근무하+ㄴ 근로자를 대상으로 특별공급 청약을 받고 있다 .	O O O O O O O O O O O O O O O O O O
-하만이 글로벌 고객사에 공급하는 인포테인먼트 부품은 반도체, 디스플레이, 통신 모듈 등 삼성이 생산하는 제품군과 겹치+ㄴ다 .	O O O O O O O O O O O ORG-B O O O O
-그는 또한 미국이 보복 조치를 취하+ㄹ 경우에는 작년에 타결되+ㄴ 우루과이 라운드 무역협정에 따르 아가트(관세무역 일반협정)에 제소하는 방안을 강구하게 되+ㄹ 것이라고 강조하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O
-‘또 오해영’, ‘유종의미’ 남기+ㄴ .	O O O O O
-닝수 캐나다 웨스턴 온타리오 대 경영대학원 교수 등이 기업 혁신을 이루기 위 하+ㄴ IT 아웃소싱 전략에 대하+ 여설명하였다 .	PER-B ORG-B ORG-I ORG-I ORG-I ORG-I PER-I O O O O O O O O O O O O
-존 리옥시 전 대표, 검찰 출석 “정말 가슴이 아프다 .	PER-B ORG-B O O O O O O O O
-당시 KIA 3 루수+이었던 이범호는 “2009년 이후 다시 세계적으로 유명하여 +지+었다”며 웃었다 .	O ORG-B O O PER-B O O O O O O O O
-@galleryinarticletag@“산나물과 독초를 혼동하지 말세요.” 산림청은 3일 “독초를 산나물로 잘못 알고 채취하+여먹는 일이 잇따르고 있어 주의가 필요하다”고 밝히었다 .	O O O O ORG-B O O O O O O O O O O O O O
-김대길 KBSN 해설위원은 “김신욱은 정통 파센터 포워드로 대체 불가하+ㄴ 매력적이+ㄴ 카드+이다”라고 말하였다 .	PER-B ORG-B O PER-B O O O O O O O O O
-특히 중국의 인민일보가 전쟁 발발 48시간 후에 이 사실을 보도하였다는 것도 바로 중국의 무지설을 뒷받침하+여주는 정황 증거로 이용되었다 .	O ORG-B O O O O O O O O O O ORG-B O O O O O O
-이르면 올 하반기(7∼12월)부터 최대 53인승 크기의 광역급행버스(M버스·사진)가 수도권에서 운행을 시작하+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O LOC-B O O O O O
-엘리트 코스를 밟지 않았음에도 꾸준히 성장 하+여 탄탄하+ㄴ 선수층을 자랑하는 전북의 당당 하+ㄴ 주전이 +었다 .	O O O O O O O O O O ORG-B O O O O O
+이 에 김준현 은 윤종신 에게 “ 우리 이런 사람 에게 진행 을 당해야 하 냐 ” 며 장난스런 불만 을 토로 했 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O
+윤종신 은 제작진 에게 “ CJ E & M 에 MC 연수 는 없 냐 . 김풍 연수 좀 시켜라 ” 라고 제안해 좌중 을 폭소 케 했 다 .	PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+8 월 13 일 첫 방송된 올리브 TV ' 비법 ' 은 쉽 고 , 맛있 고 , 재현 가능한 나 만 의 비법 이 있 는 대한민국 국민 이 라면 누구 나 참여할 수 있 는 대 국민 참여 레시피 프로그램 이 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+전 세계 150 개국 1,700 만 다운로드 를 달성한 모바일 RPG ( 역할 수행 게임 ) ' 헬로 히어로 ' 와 ' 엔젤 스톤 ' 을 출시하 며 글로벌 게임 사 로 빠르 게 성장해 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 투자 로 핀콘 은 제 2 의 도약 을 위한 재원 을 마련하 게 됐 다 .	O O O ORG-B O O O O O O O O O O O O O O
+이탈리아 디자인 의 시계 는 느린 듯하 지만 , 옛것 만 을 고수하 지 않 는다 .	ORG-B O O O O O O O O O O O O O O O O
+특히 전 가구 가 소비자 들 의 선호도 가 높 은 전용 84 ㎡ 면적 으로 구성된 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+현재 중소기업 장기 근속 자 ( 중 기자 ) 특별 공급 신청 을 받 고 있 으며 중소기업 에서 5 년 이상 근무한 근로자 를 대상 으로 특별 공급 청약 을 받 고 있 다 .	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+하만 이 글로벌 고객 사 에 공급하 는 인포테인먼트 부품 은 반도체 , 디스플레이 , 통신 모듈 등 삼성 이 생산하 는 제품 군 과 겹친다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+그 는 또한 미국 이 보복 조치 를 취할 경우 에 는 작년 에 타결된 우루과이 라운드 무역협정 에 따 라 가트 ( 관세 무역 일반 협정 ) 에 제소하 는 방안 을 강구하 게 될 것 이 라고 강조 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 또 오해영 ’ , ‘ 유종 의 미 ’ 남긴다	O O O O O O O O O O O
+닝 수 캐나다 웨스턴 온타리오 대 경영 대학원 교수 등 이 기업 혁신 을 이루 기 위한 IT 아웃소싱 전략 에 대해 설명 했 다 .	PER-B PER-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+존 리 옥시 전 대표 , 검찰 출석 “ 정말 가슴 이 아프 다 ”	PER-B PER-I ORG-B O O O O O O O O O O O O
+당시 KIA 3 루수 였 던 이범호 는 “ 2009 년 이후 다시 세계적 으로 유명해 졌 다 ” 며 웃 었 다 .	O ORG-B O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O
+@ gallery _ in _ article _ tag @ “ 산나물 과 독초 를 혼동하 지 마 세요 . ” 산림청 은 3 일 “ 독초 를 산나물 로 잘못 알 고 채취해 먹 는 일 이 잇따르 고 있 어 주의 가 필요하 다 ” 고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김대길 KBSN 해설 위원 은 “ 김신욱 은 정통파 센터 포워드 로 대체 불가한 매력적 인 카드 다 ” 라고 말 했 다 .	PER-B ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O
+특히 중국 의 인민일보 가 전쟁 발발 48 시간 후 에 이 사실 을 보도 했 다는 것 도 바로 중국 의 무지 설 을 뒷받침해 주 는 정황 증거 로 이용 됐 다 .	O ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+이르 면 올 하반기 ( 7 ∼ 12 월 ) 부터 최대 53 인 승 크기 의 광역 급행 버스 ( M 버스 · 사진 ) 가 수도권 에서 운행 을 시작할 것 으로 보인다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O
+엘리트 코스 를 밟 지 않 았 음 에 도 꾸준히 성장해 탄탄한 선수 층 을 자랑하 는 전북 의 당당한 주전 이 됐 다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O

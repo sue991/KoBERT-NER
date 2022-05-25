@@ -1,13 +1,13 @@
-”-올 시즌 투·타의 키플레이어를 꼽는다면.“지난해까지는 3∼4점을 주+어도 우리가 6점을 뽑았으니 걱정이 없었다 .	O O O O O O O O O O O O O
-그는 “마음을 달래기 위 하+여 제주도로 여행을 +았다 .	O O O O O LOC-B O O O
-한 매체는 ‘슈스+하게 5’에서 동기로 만나 +ㄴ 두 사람이 프로그램 종영 후 커플로 발전, 1년째 열애 중이라고 보도하였다 .	O O O O O O O O O O O O O O O O O O O
-현재 수익률은 연 7% .기대를 웃돌는 성적표에 팔까 하는 생각도 +였지만 미국 기준금리가 더 오르+ㄹ 때까지 참고 계속 돈을 넣기로 +였다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O
-3일 현지 언론에 따르면 올해 들어 8월 중순까지 말레이시아에서 발생하+ㄴ뎅 기열 환자는 7만5천795명으로 작년 같은 기간보다 26.8% 급증하였다 .	O O O O O O O O LOC-B O O O O O O O O O O
-허창수 회장“미르 설립 사전 보고 안 받아 .	PER-B ORG-B O O O O O O
-성별로 살펴보면, '여성'(46.4%)이 '남성'(37.8%)보다 열대야 증후군을 더 많이 겪고 있었다 .	O O O O O O O O O O O
-2월 2일에는 폴 라이언 하원의장과 매코널을 백악관으로 초대하+여 스테이크를 썰면서 환태평양경제동반자협정(TPP)의 의회비준 문제를 협의하였다 .	O O PER-B PER-I O PER-B ORG-B O O O O O O O O
-‘위클리스탠더드’이 선엡 스타인 부편집장은 7일 인터넷판에서 위안부 문제와 강제노역, 독도 문제 등과 관련되 +ㄴ 일본의 잘못되+ㄴ 주장을 조목조목 지적하였다 .	O O O O O O O O O LOC-B O O O O ORG-B O O O O O
-김 감독이 “급하+ㄹ 때는 (신성현을 유격수로) +어야 하+ㄴ다”고 조심스럽게 말하+ㄴ 것도 그 연장선상에 있다 .	PER-B O O O PER-B O O O O O O O O O O
-‘유격수 신성현’ 카드가 통하+ㄴ다면 공격력 강화 측면에서 크+ㄴ 효과를 기대하+ㄹ 수 있다 .	O PER-B PER-B O O O O O O O O O O
-서울 등 수도권에서 나오는 건강에 치명적 이+ㄴ 초미세먼지는 경유차에서 배출되는 양이 가장 많다 .	LOC-B O O O O O O O O O O O O O
-비중이 29% 정도 되+ㄴ다 .	O O O O O
+” - 올 시즌 투 · 타 의 키 플레이어 를 꼽 는다면 . “ 지난해 까지 는 3 ∼ 4 점 을 줘도 우리 가 6 점 을 뽑 았 으니 걱정 이 없 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 마음 을 달래 기 위해 제주도 로 여행 을 왔 다 .	O O O O O O O O LOC-B O O O O O O
+한 매체 는 ‘ 슈스 케 5 ’ 에서 동기 로 만난 두 사람 이 프로그램 종영 후 커플 로 발전 , 1 년 째 열애 중 이 라고 보도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 수익률 은 연 7 % . 기대 를 웃도 는 성적표 에 팔 까 하 는 생각 도 했 지만 미국 기준 금리 가 더 오를 때 까지 참 고 계속 돈 을 넣 기 로 했 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+3 일 현지 언론 에 따르 면 올해 들 어 8 월 중순 까지 말레이시아 에서 발생한 뎅기열 환자 는 7 만 5 천 795 명 으로 작년 같 은 기간 보다 26.8 % 급증 했 다 .	DAT-B DAT-I O O O O O O O O DAT-B DAT-I O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+허창수 회장 “ 미르 설립 사전 보고 안 받 아 ”	PER-B O O ORG-B O O O O O O O
+성별 로 살펴보 면 , ' 여성 ' ( 46.4 % ) 이 ' 남성 ' ( 37.8 % ) 보다 열대야 증후군 을 더 많이 겪 고 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 월 2 일 에 는 폴 라이언 하원 의장 과 매코 널 을 백악관 으로 초대해 스테이크 를 썰 면서 환태평양 경제 동반자 협정 ( TPP ) 의 의회 비준 문제 를 협의 했 다 .	DAT-B DAT-I DAT-I DAT-I O O PER-B PER-I O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+‘ 위클리 스탠더드 ’ 이선 엡스타인 부 편집장 은 7 일 인터넷 판 에서 위안부 문제 와 강제 노역 , 독도 문제 등 과 관련된 일본 의 잘못된 주장 을 조목조목 지적 했 다 .	O O O O PER-B PER-I O O O DAT-B DAT-I O O O O O O O O O LOC-B O O O O ORG-B O O O O O O O O O
+김 감독 이 “ 급할 때 는 ( 신성현 을 유격수 로 ) 써야 한다 ” 고 조심스럽 게 말한 것 도 그 연장선 상 에 있 다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+‘ 유격수 신성현 ’ 카드 가 통한다면 공격력 강화 측면 에서 큰 효과 를 기대할 수 있 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O
+서울 등 수도권 에서 나오 는 건강 에 치명적 인 초 미세 먼지 는 경유 차 에서 배출되 는 양 이 가장 많 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+비중 이 29 % 정도 된다 .	O O O O O O O

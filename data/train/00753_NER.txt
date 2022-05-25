@@ -1,12 +1,12 @@
-열심히 일 하+여 많은 돈을 벌며 살 수도 있지만 그것+ㄴ 친구나 가족들과 함께하는 행복과 비교 하+ㄹ 수 없다”고 말을 잇었다 .	O O O O O O O O O O O O O O O O O O O O O
-마지막으로 제임스는 “또한 스스로에게 새롭ㄴ 경험을 주+ㄹ 기회들도 놓치지 말라. 올해에 +ㄴ 새롭ㄴ도전을 하거나 새롭ㄴ 기회를 가지+어라. 인생은 새롭ㄴ 경험과 미지의 것들로 가득 차+아있다”고 당부하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-휴대폰 인증은 당시 완전히 새롭ㄴ 영역이었다 .	O O O O PER-B O O
-아시아나항공 미주, 구주, 대양주 장거리 노선 퍼스트클래스와 비즈니스 클래스에서 제공되 +ㄴ다 .	ORG-B O O O O O O O O O O O
-검찰, 최경환 의원에 내달 2일 소환 통보 민주당 빼+ㄴ 여야 3당 “개헌 단일안 만들 +ㄹ 것” 국민의당 ‘사드 배치 반대’ 당론 유지하기로 중국 “북한산 석탄 수입 중단, 김정남과 무관”중국이 19일부터 북한산 석탄 수입을 전면 중단하+ㄴ 것은 유엔 안전보장이사회 대북제재 결의 상하+ㄴ 기준금액에 근접하였기 때문이며 김정남 피살 사건 등과 무관하+ㄴ 것으로 확인되었다 .	O PER-B O O O O O ORG-B O O O O O O O O ORG-B O O O O O ORG-B O O O O PER-B ORG-B O O O O O O O ORG-B ORG-I O O O O O O PER-B O O O O O O O
-특검 연장 거부… '총리 교체 반대' 문재인에 불똥 튀 .	O O O O O O PER-B O O O
-대통령이 이 정도로 세심하게 챙기+ㄹ줄 모르았고, (중소기업을 삼성과 동일하게 보+아달라는 주문을) 잊지 않고 있다 .	O O O O O O O ORG-B O O O O O O O
-그러나 정수빈에게 2016 시즌은 그 어느 때보다 혹독하었다 .	O PER-B O O O O O O O
-특히 신형 i30를 통하+여 현대차가 향후 선보이+ㄹ 신차들의 콘셉트를 일부 유추하+여보+ㄹ 수 있게 +었다 .	O O O O ORG-B O O O O O O O O O O
-이 대표는 이날 정견발표 때 “우리 당 뿐만 아니라 정부의 인사도 탕평 인사, 유능하+ㄴ사람들이 발탁되는 능력 인사, 어렵고 힘들 +ㄴ사람을 배려하는 배려 인사를 하+ㄹ 수 있도록 확실히 관여하고 개입하겠다”고 말하기도 +였다 .	PER-B O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
-지난해에는 1~9월에만 453억엔(약 4666억원)을 기록하였다 .	O O MNY-B MNY-B O O
-고소를 접수 하+ㄴ 경찰은 바니양과 이 남성의 통화 내용을 통하+여 바니양이 울면서 성관계를 거부하였다는 내용을 확인하였다 .	O O O O PER-B O O O O O PER-B O O O O O O
+열심히 일해 많 은 돈 을 벌 며 살수 도 있 지만 그건 친구 나 가족 들 과 함께 하 는 행복 과 비교 할 수 없 다 ” 고 말 을 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+마지막 으로 제임스 는 “ 또한 스스로 에게 새로 운 경험 을 줄 기회 들 도 놓치 지 말 라 . 올해 엔 새로 운 도전 을 하 거나 새로 운 기회 를 가져라 . 인생 은 새로 운 경험 과 미지 의 것 들 로 가득 차 있 다 ” 고 당부 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+휴대폰 인증 은 당시 완전히 새로 운 영역 이 었 다 .	O O O O O PER-B PER-I O O O O O
+아시아나항공 미주 , 구주 , 대양주 장거리 노선 퍼스트 클래스 와 비즈니스 클래스 에서 제공된다 .	ORG-B O O O O O O O O O O O O O O O
+검찰 , 최경환 의원 에 내달 2 일 소환 통보 민주당 뺀 여야 3 당 “ 개헌 단일 안 만들 것 ” 국민 의당 ‘ 사드 배치 반대 ’ 당론 유지 키 로 중국 “ 북한산 석탄 수입 중단 , 김정남 과 무관 ” 중국 이 19 일 부터 북한 산 석탄 수입 을 전면 중단한 것 은 유엔 안전 보장 이사회 대북 제재 결의 상한 기준 금액 에 근접 했 기 때문 이 며 김정남 피살 사건 등 과 무관한 것 으로 확인 됐 다 .	O O PER-B O O O DAT-B DAT-I O O ORG-B O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O PER-B O O O ORG-B O DAT-B DAT-I O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+특검 연장 거부 … ' 총리 교체 반대 ' 문재인 에 불똥 튀 나	O O O O O O O O O PER-B O O O O
+대통령 이 이 정도 로 세심하 게 챙길 줄 몰 랐 고 , ( 중소기업 을 삼성 과 동일하 게 봐 달 라는 주문 을 ) 잊 지 않 고 있 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+그러나 정수빈 에게 2016 시즌 은 그 어느 때 보다 혹독 했 다 .	O PER-B O O O O O O O O O O O O
+특히 신형 i 30 를 통해 현대차 가 향후 선보일 신차 들 의 콘셉트 를 일부 유추해 볼 수 있 게 됐 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+이 대표 는 이날 정견 발표 때 “ 우리 당 뿐 만 아니 라 정부 의 인사 도 탕평 인사 , 유능한 사람 들 이 발탁되 는 능력 인사 , 어렵 고 힘든 사람 을 배려하 는 배려 인사 를 할 수 있 도록 확실히 관여하 고 개입하 겠 다 ” 고 말하 기 도 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 에 는 1 ~ 9 월 에 만 453 억 엔 ( 약 4666 억 원 ) 을 기록 했 다 .	O O O DAT-B O DAT-B DAT-I O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O
+고소 를 접수한 경찰 은 바니 양 과 이 남성 의 통화 내용 을 통해 바니 양 이 울 면서 성관계 를 거부 했 다는 내용 을 확인 했 다 .	O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O

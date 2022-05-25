@@ -1,16 +1,16 @@
-대전시는 미래창조과학부와 특허청, 신세계 등 관련 기관과 기업들이 사이언스 콤플렉스의 핵심 시설 가운데 하나이+ㄴ 사이언스센터 조성비 500억원에 대하+ㄴ 분담 협상을 최종 타결 짓었다고 17일 밝히었다 .	ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O MNY-B O O O O O O O O O
-2권에서는 6·25 전쟁에 참전 하+여 인천상륙작전을 지휘하+ㄴ과정을 다루었다 .	O O O O O O O O O
-자유한국당 “사드 배치 시작 환영 …野, 반대 여론부 추기지 말아야 .	ORG-B O O O O O O O O O O
-불과 20년 전만 하+여도 돈을 주고 물을 사+아마시는 것+ㄴ 상상하기 어렵ㄴ 일이었지만 현실이 +었듯이 제 깨끗하+ㄴ 공기도 사+아서 숨 쉬는 시대가 오+ㄹ 것으로 전망되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-블레어는 전임자 이+ㄴ스미스와 같이 「현대화주의」를 제창, 노동당에 대하+ㄴ 노조의 영향력 제한을 꾀 하+ㄹ 것으로 보이며 유럽 통합에 대하+여서도 적극적 이+ㄴ 지지 입장을 표명하는 등 노동당 내 우파적 이+ㄴ 성향을 띠+ㄴ 인물로 꼽히+ㄴ다 .	PER-B O PER-B O O O ORG-B O O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O
-개장 시간은 오후 1시부터 5시까지 +이며 디자인존, 푸드존, 공연존, 이벤트존으로 나뉘어 진행되+ㄴ다 .	O O O O O O O O O O O O O
-朴 대통령 “체코의 체제 전환 경험, 北에 분명 하+ㄴ 메시지 .	PER-B O ORG-B O O O ORG-B O O O O
-재일교포 3세 이+ㄴ 홍정국 전 도쿄대 특임교수(전 IBM 리서치 도쿄 기초연구소 원장)는 “일본에 오+ㄴ 한국인 유학생 중에서 매년 150∼160명의 이공계 박사가 배출되는데 3분의 2 정도 이+ㄴ 100여명이 일본에 남는다는 통계가 있다”고 말하였다 .	O O O PER-B O O O ORG-B ORG-I ORG-I ORG-I O LOC-B O O O O O O O O O O O O O O LOC-B O O O O O
-북한은 핵문제로 몰리는 상황 속에서 카터+이라는 메신저를 통하+여정상회담의사를 전달하였다 .	ORG-B O O O O O O O O O
-아울러 제16기 겨울 태권도 평화봉사단 발대식도 개최하였다 .	O O O O O O O O
-이후 검찰은 집회에서 경찰관을 폭행하+ㄴ 민변 변호사 5명을 기소하고 수사를 방해하+ㄴ 민변 변호사 2명을 징계하+여달라고 변협에 요구하였다 .	O O O O O O O O O O O O O O O ORG-B O O
-2000년 시작하+ㄴ 신용카드 소득공제는 그간 6차례 일몰 기한이 연장되면서 수차례 공제율과 기준이 변경되었다 .	O O O O O O O O O O O O O O
-이 가운데 우리 국민은 3911만명이 고 외국인은 2726만명이었다 .	O O O O O O O O O
-“하루 신문 10개 탐독… 관객과 자연스럽게 수 .	O O O O O O O O
-지난달 말 현재 220개사의 제품이 우수 벤처·창업기업 상품으로 1차 지정되었다 .	O O O O O O O O O O O
-지난해 12월 22일 오전 11시경.기자가 이 극장 앞을 지나 +ㄹ 때 +이었다 .	O O O O O O O O O O O O O
+대전시 는 미래 창조 과학 부 와 특허청 , 신세계 등 관련 기관 과 기업 들 이 사이언스 콤플렉스 의 핵심 시설 가운데 하나 인 사이언스 센터 조성 비 500 억 원 에 대한 분담 협상 을 최종 타결 지 었 다 고 17 일 밝 혔 다 .	ORG-B O ORG-B ORG-I ORG-I ORG-I O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O DAT-B DAT-I O O O O
+2 권 에서 는 6 · 25 전쟁 에 참전해 인천 상륙 작전 을 지휘한 과정 을 다 뤘 다 .	O O O O O O O O O O O O O O O O O O O O O
+자유 한국 당 “ 사드 배치 시작 환영 … 野 , 반대 여론 부추기 지 말 아야 ”	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
+불과 20 년 전 만 해도 돈 을 주 고 물 을 사 마시 는 건 상상하 기 어려 운 일 이 었 지만 현실 이 됐 듯 이제 깨끗한 공기 도 사서 숨 쉬 는 시대 가 올 것 으로 전망된다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+블레어 는 전임자 인 스미스 와 같이 「 현대 화 주의 」 를 제창 , 노동당 에 대한 노조 의 영향력 제한 을 꾀할 것 으로 보이 며 유럽 통합 에 대해서 도 적극적 인 지지 입장 을 표명하 는 등 노동당 내 우파 적 인 성향 을 띤 인물 로 꼽힌다 .	PER-B O O O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+개장 시간 은 오후 1 시 부터 5 시 까지 며 디자인 존 , 푸드 존 , 공연 존 , 이벤트 존 으로 나뉘 어 진행된다 .	O O O TIM-B TIM-I TIM-I O TIM-B TIM-I O O O O O O O O O O O O O O O O O O
+朴 대통령 “ 체코 의 체제 전환 경험 , 北 에 분명한 메시지 ”	PER-B O O ORG-B O O O O O ORG-B O O O O
+재일 교포 3 세 인 홍정국 전 도쿄 대 특임 교수 ( 전 IBM 리서치 도쿄 기초 연구소 원장 ) 는 “ 일본 에 온 한국인 유학생 중 에서 매년 150 ∼ 160 명 의 이공 계 박사 가 배출되 는데 3 분 의 2 정도 인 100 여 명 이 일본 에 남 는다는 통계 가 있 다 ” 고 말 했 다 .	O O O O O PER-B O ORG-B ORG-I O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+북한 은 핵 문제 로 몰리 는 상황 속 에서 카터 라는 메신저 를 통해 정상 회담 의사 를 전달 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+아울러 제 16 기 겨울 태권도 평화 봉사 단 발대식 도 개최 했 다 .	O O O O O O O O O O O O O O O
+이후 검찰 은 집회 에서 경찰관 을 폭행한 민변 변호사 5 명 을 기소하 고 수사 를 방해한 민변 변호사 2 명 을 징계해 달 라고 변협 에 요구 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O
+2000 년 시작한 신용카드 소득 공제 는 그간 6 차례 일몰 기한 이 연장되 면서 수차례 공제 율 과 기준 이 변경 됐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+이 가운데 우리 국민 은 3911 만 명 이 고 외국인 은 2726 만 명 이 었 다 .	O O O O O O O O O O O O O O O O O O O
+“ 하루 신문 10 개 탐독 … 관객 과 자연스럽 게 수다	O O O O O O O O O O O O
+지난달 말 현재 220 개 사 의 제품 이 우수 벤처 · 창업 기업 상품 으로 1 차 지정 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O
+지난해 12 월 22 일 오전 11 시 경 . 기자 가 이 극장 앞 을 지날 때 였 다 .	O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O

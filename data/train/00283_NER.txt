@@ -1,13 +1,13 @@
-IT서비스에 민감하+ㄴ 30, 40대들이 주력 소비자가 되면서 건설사들 역시 최첨단 서비스를 갖추+ㄴ아파트를 선보이고 있다 .	O O O O O O O O O O O O O O O
-대우건설이 경기도 고양시 일산서구 탄현동 100-1번지 일대에 공급하는 ‘일산에듀포레 푸르지오’는 최첨단 시스템을 갖추+ㄴ아파트로 실수요자들의 관리비 부담을 줄이는 데 주력하였다 .	ORG-B LOC-B LOC-B LOC-B LOC-B LOC-I O O LOC-B O O O O O O O O O O O
-DJ 김광한 별세, 과거 “황금보다 음악, 인류애 느끼+어지+어”뭉클 하+ㄴ 발언 팝송 전문 DJ 겸팝 칼럼니스트 김광한 이향년 69세 나이로 9일 별세하였다 .	O PER-B O O O O O O O O O O O O O PER-B O O O O O O
-가평 8경 중 으뜸으로 치는 운악산 초입에 위치하+ㄴ ‘화인스톤빌리지’는 탁월하+ㄴ 입지 여건과 다양하고 안정성 있는 수익형 상품으로 투자자들의 주목을 받고 있다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O
-7일 국민의당과 통합을 선언하+ㄴ손학규 국민주권개혁회의 의장은 "김종인 저+ㄴ 더불어민주당 대표가 '먼저 가+아서 잘하라'고 말하였다"며 합류 기대를 드러내+었다 .	O ORG-B O PER-B ORG-B ORG-I PER-B O ORG-B O O O O O O O O O
-손 의장은 이날 오전 국회에서 국민의당과의 통합 발표기자회견 직후기자들과 만나 +아"김종인 저+ㄴ 더불어민주당 대표에게도 통합을 선언하+ㄴ다고 미리 말하였다"며 이같이 밝히었다 .	PER-B ORG-I O O O ORG-B O O O O PER-B O ORG-B O O O O O O O O
-그는 "(김 전 대표가) 오+ㄴ다는 얘기나 이런 것+ㄴ 적절하지 않다"면서도 "통합이라고 하는 개혁세력의 결집이 곧 이루어 지+ㄹ 것이라 기대 하+ㄴ다"고 말하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
-하지만 김 전 대표는 이날 본회의에 참석하+ㄴ 뒤 '손 의장과 국민의당의 통합으로 판도에 변화가 있겠냐?'는 기자들의 질문에 "무슨 변화가 있겠냐"고 답하였다 .	O PER-B O O O O O O PER-B ORG-I ORG-B O O O O O O O O O O O
-김 전 대표는 또 '제3지대에서 (김 전 대표가) 역할을 하+ㄹ 것이라는 기대가 많다'는 말에도 "자기네들끼리 하+ㄴ다는데 그것+ㄹ내가 뭐 +이라고 그렇겠냐"고 시큰둥 하+ㄴ 반응을 보이었다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O
-여야 대선주자들은 추석 연휴 동안 밥상 민심을 공략하기 위하+여분주하게 움직이었다 .	O O O O O O O O O O O
-그러나 미국이 2008년 글로벌 금융위기 같은 경기침체에 빠지+ㄹ 확률은 낮다고 전망하였다 .	O ORG-B O O O O O O O O O O
-“바람-햇볕 덕에 전기료 80% 뚝 .	O O O O O O
-유노윤호 입대, ‘시간·장소 공개 NO 조용히 입대’ 2세대 아이돌입대 잇따르 아유노윤호가 다음달 21일 입대하+ㄴ다 .	PER-B O O O O O O O O O PER-B O O O O
+IT 서비스 에 민감한 30 , 40 대 들 이 주력 소비자 가 되 면서 건설 사 들 역시 최첨단 서비스 를 갖춘 아파트 를 선보이 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대우건설 이 경기도 고양시 일산 서구 탄현동 100 - 1 번지 일대 에 공급하 는 ‘ 일산 에듀 포레 푸르지오 ’ 는 최첨단 시스템 을 갖춘 아파트 로 실수요자 들 의 관리비 부담 을 줄이 는 데 주력 했 다 .	ORG-B O LOC-B LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+DJ 김광한 별세 , 과거 “ 황금 보다 음악 , 인류애 느껴 져 ” 뭉클한 발언 팝송 전문 DJ 겸 팝 칼럼니스트 김광한 이 향년 69 세 나이 로 9 일 별세 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O DAT-B DAT-I O O O O
+가평 8 경중 으뜸 으로 치 는 운악산 초입 에 위치한 ‘ 화인 스톤 빌리 지 ’ 는 탁월한 입지 여건 과 다양하 고 안정성 있 는 수익 형 상품 으로 투자자 들 의 주목 을 받 고 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 일 국민 의 당 과 통합 을 선언한 손학규 국민주권 개혁 회의 의장 은 " 김종인 전 더불 어 민주당 대표 가 ' 먼저 가서 잘 하 라 ' 고 말 했 다 " 며 합류 기대 를 드러냈 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O O PER-B ORG-B ORG-I ORG-I O O O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+손 의장 은 이날 오전 국회 에서 국민 의 당 과 의 통합 발표 기자 회견 직후 기자 들 과 만나 " 김종인 전 더불 어 민주당 대표 에게 도 통합 을 선언한다고 미리 말 했 다 " 며 이같이 밝 혔 다 .	PER-B O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
+그 는 " ( 김 전 대표 가 ) 온다는 얘기 나 이런 건 적절하 지 않 다 " 면서 도 " 통합 이 라고 하 는 개혁 세력 의 결집 이 곧 이뤄질 것 이 라 기대한다 " 고 말 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 김 전 대표 는 이날 본회의 에 참석한 뒤 ' 손 의장 과 국민 의 당 의 통합 으로 판도 에 변화 가 있 겠 냐 ? ' 는 기자 들 의 질문 에 " 무슨 변화 가 있 겠 냐 " 고 답 했 다 .	O PER-B O O O O O O O O O PER-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 전 대표 는 또 ' 제 3 지대 에서 ( 김 전 대표 가 ) 역할 을 할 것 이 라는 기대 가 많 다 ' 는 말 에 도 " 자기 네 들 끼리 한다는 데 그걸 내 가 뭐 라고 그렇 겠 냐 " 고 시큰둥한 반응 을 보 였 다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여야 대선 주자 들 은 추석 연휴 동안 밥상 민심 을 공략하 기 위해 분주하 게 움직 였 다 .	O O O O O DAT-B O O O O O O O O O O O O O O
+그러나 미국 이 2008 년 글로벌 금융 위기 같 은 경기 침체 에 빠질 확률 은 낮 다고 전망 했 다 .	O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+“ 바람 - 햇볕 덕 에 전기료 80 % 뚝 ”	O O O O O O O O O O O
+유 노윤호 입대 , ‘ 시간 · 장소 공개 NO 조용히 입대 ’ 2 세대 아이돌 입대 잇따 라유 노윤호 가 다음 달 21 일 입대한다 .	PER-B PER-I O O O O O O O O O O O O O O O O PER-B PER-I O O O DAT-B DAT-I O O

@@ -1,14 +1,14 @@
-백악관은 이날 버락 오바마 대통령이 지명 하+ㄴ 주요 공직 인사를 발표하였다 .	ORG-B O PER-B PER-I O O O O O O O O
-50만년 전에 등장하+ㄴ후기 아슐리아도구는 초기 도구에 정교하+ㅁ이 더 하여 +지+었다 .	O O O O O O O O O O O
-높지만, 반대로 평균 실점에서 +ㄴ LG(80.0점)가 KGC(88.3점)보다 낫다 .	O O O O O ORG-B ORG-B O O
-현지 언론에 따르면 멕시코에서 지나 +ㄴ 10년간 암살되었거나 암살 협박을 받은 시장만 100여명. 상당수 중앙정치인과 장관급 인사도 괴한의 습격을 받고 목숨을 잃었다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O
-영수회담/꼬이+ㄴ 여야 관계 복원 겨냥/만남 자체로 “상징적 의미” 공 .	O O O O O O O O O O
-‘야심차+ㄴ’ 몸매 자랑정 아름, “이것이 나의 야심차+ㄴ 레드비키니! .	O O O O O O O O O
-이어 152번(수유~시흥·4만96명), 272번(면목~남가좌·3만7820명), 153번(우이~신림·3만6532명), 160번(도봉~온수·3만4172명) 버스 순이었다 .	O LOC-B LOC-B LOC-B LOC-B O O O
-현재 롯데마트에서 +ㄴ 800g 기준으로 1만9900원에 냉동복분자를 팔고 있다 .	O O O O O MNY-B O O O O
-》주지 이+ㄴ 원담 스님에게 +ㄴ 먹는 것도 수행이다 .	O O PER-B O O O O O O
-예은, 스페인어-토론 실력까지 ‘공부돌’ 탄생? 이준석 극찬그룹 원더걸스 예은이 남다르+ㄴ학구열을 선보이었다 .	PER-B O O O O PER-B O ORG-B PER-B O O O
-서울시내의 사설체육관은 물론이고 각 자치구가 지역주민을 위하+여 운영하는 호신술교실에도 여성들의 발길이 끊이지 않고 있다 .	LOC-B O O O O O O O O O O O O O O
-아직까지 기차와 버스 등으로 여행하는 것이 대중적 이+ㄴ 대한민국에는 잘 알려지+어 있지는 않지만 이미 마니아층이 형성되어 있다 .	O O O O O O O O LOC-B O O O O O O O O O
-국정원 해킹 의혹, 여야 원내대표 21일 오후 회동 … 사망 하+ㄴ 직원 유서 내용 보니?여야 원내대표가 ‘국가정보원 해킹 프로그램’ 의혹과 관련 하+여 회동을 갖는다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-임기가 3년도 넘게 남은 국회의원들을 절차도 무시하+ㄴ 채인위적으로 몰아내는 것은 ‘올바르+ㄴ 쇄신의 길’은 아니+ㄹ 것이 +ㅂ니다 .	O O O O O O O O O O O O O O O O O
+백악관 은 이날 버락 오바마 대통령 이 지명한 주요 공직 인사 를 발표 했 다 .	ORG-B O O PER-B PER-I O O O O O O O O O O O
+50 만 년 전 에 등장한 후기 아 슐 리아 도구 는 초기 도구 에 정교함 이 더해 졌 다 .	O O O O O O O O O O O O O O O O O O O O O
+높 지만 , 반대 로 평균 실점 에선 LG ( 80.0 점 ) 가 KGC ( 88.3 점 ) 보다 낫 다 .	O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O
+현지 언론 에 따르 면 멕시코 에서 지난 10 년 간 암살 됐 거나 암살 협박 을 받 은 시장 만 100 여 명 . 상당수 중앙 정치인 과 장관 급 인사 도 괴한 의 습격 을 받 고 목숨 을 잃 었 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영수 회담 / 꼬인 여야 관계 복원 겨냥 / 만남 자체 로 “ 상징적 의미 ” 공감	O O O O O O O O O O O O O O O O O
+‘ 야심 찬 ’ 몸매 자랑 정아름 , “ 이것 이 나 의 야심 찬 레드 비키니 ! ”	O O O O O O PER-B O O O O O O O O O O O O
+이어 152 번 ( 수유 ~ 시흥 · 4 만 96 명 ) , 272 번 ( 면목 ~ 남가좌 · 3 만 7820 명 ) , 153 번 ( 우이 ~ 신림 · 3 만 6532 명 ) , 160 번 ( 도봉 ~ 온수 · 3 만 4172 명 ) 버스 순 이 었 다 .	O O O O LOC-B O LOC-B O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O
+현재 롯데마트 에선 800 g 기준 으로 1 만 9900 원 에 냉동 복분자 를 팔 고 있 다 .	O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O
+》 주지 인 원담 스님 에겐 먹 는 것 도 수행 이 다 .	O O O PER-B O O O O O O O O O O
+예 은 , 스페인 어 - 토론 실력 까지 ‘ 공부 돌 ’ 탄생 ? 이준석 극찬 그룹 원더 걸스 예은이 남다른 학구열 을 선보 였 다 .	PER-B PER-I O O O O O O O O O O O O O PER-B O O ORG-B ORG-I O O O O O O O O
+서울 시내 의 사설 체육관 은 물론 이 고 각 자치구 가 지역 주민 을 위해 운영하 는 호신술 교실 에 도 여성 들 의 발길 이 끊이 지 않 고 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아직 까지 기차 와 버스 등 으로 여행하 는 것 이 대중적 인 대한민국 에 는 잘 알려져 있 지 는 않 지만 이미 마니아 층 이 형성되 어 있 다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+국정원 해킹 의혹 , 여야 원내 대표 21 일 오후 회동 … 사망한 직원 유서 내용 보 니 ? 여야 원내 대표 가 ‘ 국가정보원 해킹 프로그램 ’ 의혹 과 관련해 회동 을 갖 는다 .	ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+임기 가 3 년 도 넘 게 남 은 국회의원 들 을 절차 도 무시한 채 인위적 으로 몰아내 는 것 은 ‘ 올바른 쇄신 의 길 ’ 은 아닐 것 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

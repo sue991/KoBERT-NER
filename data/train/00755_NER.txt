@@ -1,13 +1,13 @@
-이상훈, 6세 연하 일반인과 내년 결혼… ‘품절남되+ㄴ다 .	PER-B O O O O O O O
-천갱 협곡 속에는 당나라 때 설치 하+ㄴ역참 유적지가 있다 .	O O O O O O O O O O
-휴롬은 2012년 주스카페 ‘휴롬팜’을 오픈, 국내 4개 매장과 해외 12개 매장을 직접 운영하고 있다 .	ORG-B O O ORG-B O O O O O O O O O O O
-소녀시대 컴백, 7월 7일 ‘PARTY’ 공개… ‘제시카 제외 8인조로컴백 .	ORG-B O O O O O PER-B O O O
-박씨는 “대학생처럼 보이었는데 나와 눈이 마주치자 멋쩍게 웃더니 골목 밖으로 사라지었다”며 “큰 길도 가까이 있는데 무슨 용기가 나+아서 그렇었는지 모르겠다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-“경복궁사인회 때도 많은 분들이 오+시었+지 않아요.제가 인사를 하면 더 열렬히 좋아하+여주시는데 그렇 +ㄹ 때 사고가 나기 쉽어요.” 차기작에 대하+여서는 이런 기대를 전하였다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O
-쿠바 음악가들이 백악관에서 공연을 하+ㄴ 것은 50여년 만에 처음이다 .	ORG-B O LOC-B O O O O O O O
-원유 개발 시작 초기에는 유가가 급등하였지만 1860년대에 접어들면서 공급과잉 우려가 나타나기 시작하였다 .	O O O O O O O O O O O O O
-최순실 “고영태에 완전히 이용당하였다… 협박도 있었다 .	PER-B PER-B O O O O O
-“근로자 평균 월급 264만원, 고소득자들 진짜 부럽네요”, “근로자 평균 월급 264만원, 7배+이라니 너무 충격이다 .	O O O MNY-B O O O O O O MNY-B O O O O
-인천 마대속 여성 시신 사건 현상금 1000만원으로 인 .	LOC-B O O O O O MNY-B O O
-민 대변인은 “대통령의 업무 복귀 시점은 아직 판단하기 이르다”며 “향후 일정은 건강 회복 정도를 지켜보면서 결정 하+ㄹ 것”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-또 저희의 엄마로 살았다면 이제는 그냥 서정희가 되+ㄴ 것 같다 .	O O O O O O PER-B O O O O
+이상훈 , 6 세 연하 일반인 과 내년 결혼 … ‘ 품절 남 된다 ’	PER-B O O O O O O O O O O O O O O
+천갱협곡 속 에 는 당나라 때 설치한 역참 유적지 가 있 다 .	LOC-B O O O O O O O O O O O O
+휴롬 은 2012 년 주스 카페 ‘ 휴롬팜 ’ 을 오픈 , 국내 4 개 매장 과 해외 12 개 매장 을 직접 운영하 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+소녀 시대 컴백 , 7 월 7 일 ‘ PARTY ’ 공개 … ‘ 제시카 제외 8 인 조 로 컴백 ’	ORG-B ORG-I O O DAT-B DAT-I DAT-I DAT-I O O O O O O PER-B O O O O O O O
+박 씨 는 “ 대학생 처럼 보 였 는데 나 와 눈 이 마주치 자 멋쩍 게 웃 더니 골목 밖 으로 사라 졌 다 ” 며 “ 큰길 도 가까이 있 는데 무슨 용기 가 나서 그 랬 는지 모르 겠 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 경복궁 사인회 때 도 많 은 분 들 이 오 셨 잖 아요 . 제 가 인사 를 하 면 더 열렬히 좋아해 주 시 는데 그럴 때 사고 가 나 기 쉬 워요 . ” 차기 작 에 대해서 는 이런 기대 를 전 했 다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+쿠바 음악가 들 이 백악관 에서 공연 을 한 것 은 50 여 년 만 에 처음 이 다 .	ORG-B O O O LOC-B O O O O O O O O O O O O O O O
+원유 개발 시작 초기 에 는 유가 가 급등 했 지만 1860 년대 에 접어들 면서 공급 과잉 우려 가 나타나 기 시작 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+최순실 “ 고영태 에 완전히 이용 당 했 다 … 협박 도 있 었 다 ”	PER-B O PER-B O O O O O O O O O O O O O
+“ 근로자 평균 월급 264 만 원 , 고소득 자 들 진짜 부럽 네요 ” , “ 근로자 평균 월급 264 만 원 , 7 배 라니 너무 충격 이 다 ”	O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+인천 마대 속 여성 시신 사건 현상금 1000 만 원 으로 인상	LOC-B O O O O O O MNY-B MNY-I MNY-I O O
+민 대변인 은 “ 대통령 의 업무 복귀 시점 은 아직 판단하 기 이르 다 ” 며 “ 향후 일정 은 건강 회복 정도 를 지켜보 면서 결정할 것 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 저희 의 엄마 로 살 았 다면 이제 는 그냥 서정희 가 된 것 같 다 .	O O O O O O O O O O O PER-B O O O O O O

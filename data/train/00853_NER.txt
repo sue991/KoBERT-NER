@@ -1,14 +1,14 @@
-팔레스타인과 오슬로 평화협정 주 .	ORG-B LOC-B O O O
-예산 대비 채무비율은 37.5%로 광역시·도중 가장 높다 .	O O O O O O O O
-이번 사태를 계기로 삼성그룹의 체질을 완전히 바꾸+어야 하+ㄴ다는 생각이 강하다는 것이다 .	O O O ORG-B O O O O O O O O
-배크만은 “『오베…』를 출간하였던 출판사가 『 할머니 …』를 출간하려 하지 않아서 출판사를 바꾸+어내 +었다 .	PER-B O O O O O O O O O O O O O
-유상영 ‘더블루K’ 부장과 김수현 고은기획 대표 간 사적 담화에 ‘걔’는 놀랍게도 대통령이었다 .	PER-B ORG-B O PER-B ORG-B O O O O O O O O
-이후 트레이드 밀위에서 가볍ㄴ러닝을 하는 동안 특별 제작되+ㄴ센서가 발의 착지 형태 및 쏠림과 기울임을 2차적으로 분석하+ 여러 너에게 가장 최적화되+ㄴ 제품을 추천하+여주+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O
-행진과 별도로 연단에서 이어지던 행사는 오후 6시께 끝나 +았다 .	O O O O O O O O O O
-서울의 한 경찰서장은 “다른 곳에 비하+여 강남은 일이 몇 배나 많다 보니 나이들 +ㄴ 경찰관들은 체력적으로 힘들어 기피 하+ㄴ다”고 귀띔하였다 .	LOC-B O O O O O LOC-B O O O O O O O O O O O O O O
-이날 토론에서는 안 후보를 상대로 햇볕정책의 공(功)을 묻는 질문에서부터 부인 김미경 교수의 국회의원 사무실 보좌진 사적지시 논란을 비판하는 목소리까지 다양하+ㄴ 공세가 있었다 .	O O PER-B O O O O O O O PER-B O O O O O O O O O O O O
-박 교수는 유방암의 최신 진료기법을 적극 활용하고 유방 촬영 진단을 위하+ㄴ＇ 최신 유방 초음파＇의학서를 발간하는 등 유방암 분야에서 활발하+ㄴ 연구활동을 벌이+어오았고, ＇과학기술 논문 인용색인(SCI) ＇ 학술지에도 다수의 논문을 등재하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-B O O O O O O
-정은지는 ‘복면가왕’에서 ‘어머니는 자외선이 싫다고 하+시었어’가 면을 쓰고 컴퓨터 보컬이란 극찬을 듣으며 활약하였다 .	PER-B O PER-B PER-I PER-I PER-I O O O O O O O O
-‘복면가왕’ 출연 당시 정은지는 보라색 일바지에 면장갑, 슬리퍼를 신고 무대에 오르아호소력 짙은 목소리와 여유 있는 무대 매너로 많은 판정단들의 마음을 사로잡았다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
-이 군은 “실제로 시험이 끝나 +ㄴ후 TV 실컷보다가 다시 공부하려고 교과서를 펴면 글자들이 머릿속에서 튕기+어지+어나가는 것처럼 집중이 안 되+ㄴ다”고 말하였다 .	PER-B O O PER-B O O O O O O O O PER-B O O O PER-B O O O O
-전의를 상실하+ㄴ 조상우는 폭투까지 내주며 1점을 추가 실점하었다 .	O O PER-B O O O O O O
+팔레스타인 과 오슬로 평화 협정 주도	ORG-B O LOC-B O O O
+예산 대비 채무 비율 은 37.5 % 로 광역시 · 도 중 가장 높 다 .	O O O O O O O O O O O O O O O O
+이번 사태 를 계기 로 삼성그룹 의 체질 을 완전히 바꿔야 한다는 생각 이 강하 다는 것 이 다 .	O O O O O ORG-B O O O O O O O O O O O O O O
+배크 만 은 “ 『 오베 … 』 를 출간 했 던 출판사 가 『 할머니 … 』 를 출간하 려 하 지 않 아서 출판사 를 바꿔 냈 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유상영 ‘ 더 블루 K ’ 부장 과 김수현 고은 기획 대표 간 사적 담화 에 ‘ 걔 ’ 는 놀랍 게 도 대통령 이 었 다 .	PER-B O ORG-B ORG-I ORG-I O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O
+이후 트레이드 밀 위 에서 가벼 운 러닝 을 하 는 동안 특별 제작된 센서 가 발 의 착지 형태 및 쏠림 과 기울임 을 2 차 적 으로 분석해 러너 에게 가장 최적화된 제품 을 추천해 준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+행진 과 별도 로 연단 에서 이어지 던 행사 는 오후 6 시 께 끝났 다 .	O O O O O O O O O O TIM-B TIM-I TIM-I O O O O
+서울 의 한 경찰 서장 은 “ 다른 곳 에 비해 강남 은 일 이 몇 배 나 많 다 보 니 나이 든 경찰관 들 은 체력 적 으로 힘들 어 기피한다 ” 고 귀띔 했 다 .	LOC-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 토론 에서 는 안 후보 를 상대 로 햇볕 정책 의 공 ( 功 ) 을 묻 는 질문 에서부터 부인 김미경 교수 의 국회 의원 사무실 보좌 진 사적 지시 논란 을 비판하 는 목소리 까지 다양한 공세 가 있 었 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+박 교수 는 유방암 의 최신 진료 기법 을 적극 활용하 고 유방 촬영 진단 을 위한 ＇ 최신 유방 초음파 ＇ 의학서 를 발간하 는 등 유방암 분야 에서 활발한 연구 활동 을 벌 여 왔 고 , ＇ 과학 기술 논문 인용 색인 ( SCI ) ＇ 학술지 에 도 다수 의 논문 을 등재 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O
+정은지 는 ‘ 복면 가왕 ’ 에서 ‘ 어머니 는 자외선 이 싫 다고 하 셨 어 ’ 가면 을 쓰 고 컴퓨터 보컬 이란 극찬 을 들 으며 활약 했 다 .	PER-B O O O O O O O PER-B PER-I PER-I PER-I PER-I PER-I PER-I PER-I PER-I O O O O O O O O O O O O O O O O
+‘ 복면 가왕 ’ 출연 당시 정은지 는 보라색 일 바지 에 면장갑 , 슬리퍼 를 신 고 무대 에 올 라 호소력 짙 은 목소리 와 여유 있 는 무대 매너 로 많 은 판정 단 들 의 마음 을 사로잡 았 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 군 은 “ 실제로 시험 이 끝난 후 TV 실컷 보 다가 다시 공부하 려고 교과서 를 펴 면 글자 들 이 머릿속 에서 튕겨 져 나가 는 것 처럼 집중 이 안 된다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전의 를 상실한 조상우 는 폭투 까지 내주 며 1 점 을 추가 실점 했 다 .	O O O PER-B O O O O O O O O O O O O O

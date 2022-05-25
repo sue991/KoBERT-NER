@@ -1,10 +1,10 @@
-‘사내유보금 중 실제 현금성 자산은 15%도 안 되+ㄴ다’고 반발하면서도 투자와 배당을 늘리겠다며 한발 물러서 +었죠. 물론 기업이 투자와 배당을 늘리면 경제활성화에 도움이 되+ㄹ 것+이+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-황정음은 자신도 모르는 사이 세상을 떠나 +ㄹ아들의 존재를 알고는 오열하는 연기로 많은 시청자들을 놀라게 +였다 .	PER-B O O O O O O O O O O O O O O O
-성신양회와 삼성SDI 청주사업장의 ‘에너지 혁신’ 성공이면에는 든든하+ㄴ 에너지관리지원군이 있었다 .	ORG-B ORG-B O O O O O O O O
-NHL도크+ㄴ기대를 걸고 있다”고 말하였다 .	O O O O O
-혼자 먹는 것은 쉽지 않고 2명은 너무 적다 .	O O O O O O O O O
-8인제 경주의 주목 하+ㄹ만 하+ㄴ 특징 두 가지 첫째, 7명의 경주에 익숙하+ㄴ 선수들에게 약 2미터 더 길어지+ㄴ 대열이 심리적으로 영향을 주+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-9조원 중 6조원은 국산 장비, 3조원은 해외 장비 도입 비용으로 쓰이+ㄹ 예정이다 .	MNY-B O MNY-B O O MNY-B O O O O O O O
-배우 황정음의 과거 사진이 새삼 화제+이다 .	O PER-B O O O O O
-공개되+ㄴ 사진에는 화장기 없는 민낯으로 거실에 엎드리+어 있는 황정음의 모습이 담기 +어 있다 .	O O O O O O O O PER-B O O O O O
-‘몸매종결자’ 유승옥, “어리+ㄹ 때부터 통통 … 안 하+여보+ㄴ 운동이 없다 .	O PER-B O O O O O O O O O
+‘ 사내 유보 금 중 실제 현금성 자산 은 15 % 도 안 된다 ’ 고 반발하 면서 도 투자 와 배당 을 늘리 겠 다며 한 발 물러섰 죠 . 물론 기업 이 투자 와 배당 을 늘리 면 경제 활성화 에 도움 이 될 겁니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황정 음 은 자신 도 모르 는 사이 세상 을 떠난 아들 의 존재 를 알 고는 오열하 는 연기 로 많 은 시청자 들 을 놀라 게 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+성신양회 와 삼성 SDI 청주 사업장 의 ‘ 에너지 혁신 ’ 성공 이면 에 는 든든한 에너지 관리 지원군 이 있 었 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+NHL 도 큰 기대 를 걸 고 있 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O
+혼자 먹 는 것 은 쉽 지 않 고 2 명 은 너무 적 다 .	O O O O O O O O O O O O O O O O
+8 인 제 경주 의 주목할 만한 특징 두 가지 첫째 , 7 명 의 경주 에 익숙한 선수 들 에게 약 2 미터 더 길 어 진 대열 이 심리적 으로 영향 을 준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9 조 원 중 6 조 원 은 국산 장비 , 3 조 원 은 해외 장비 도입 비용 으로 쓰일 예정 이 다 .	MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+배우 황정 음 의 과거 사진 이 새삼 화제 다 .	O PER-B PER-I O O O O O O O O
+공개된 사진 에 는 화장기 없 는 민낯 으로 거실 에 엎드려 있 는 황정 음 의 모습 이 담겨 있 다 .	O O O O O O O O O O O O O O PER-B PER-I O O O O O O O
+‘ 몸매 종결 자 ’ 유승옥 , “ 어릴 때 부터 통통 … 안 해 본 운동 이 없 다 ”	O O O O O PER-B O O O O O O O O O O O O O O O

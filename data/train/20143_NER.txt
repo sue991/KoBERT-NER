@@ -1,13 +1,13 @@
-노트 한 권만으로 시험 대비가 가능하게 말이다 .	O O O O O O O O
-삼성 측은 “이번 투명 OLED는 일반 유리에 가깝ㄴ 투과율을 자랑하+ㄴ다”고 설명하였다 .	ORG-B O O O O O O O O O O O
-향후 서울 전 지역 복지관으로의 확대를 목표로 하고 있다는 것이 한국암웨이 측의 설명이다 .	O LOC-B O O O O O O O O ORG-B O O O
-신흥국과 중국의 경제 불안 등 불안요소가 있어 기업들이 보수적 이+ㄴ 채용계획을 세우고 있다”고 말하였다 .	O ORG-B O O O O O O O O O O O O O
-독일은 외국 자본이 프로축구 구단의 지분을 49%까지만 소유 하+ㄹ 수 있도록 하고, 외국자본이 운영하+ㄴ 뒤 20년이 지나 +아야지분 51% 이상을 가지+ㄹ 수 있도록 규정하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-아모레퍼시픽 ‘뷰티풀 라이프’, 여성 가장 지원에 30억원 기 .	ORG-B O O O O O MNY-B O O
-1년이 채 지나지 않았지만 규제개혁의 효과는 신상품 개발, 그림자 규제 축소, 소비자 보호 강화로 나타나 +아긍정적이다 .	O O O O O O O O O O O O O O O O O
-그때는 부산이냐, 진주+이냐로 충돌하였다 .	O LOC-B LOC-B O O
-김현중 전 여친 측 "출산 후, 친자확인 준비 중 .	PER-B O O O O O O O O O
-관람료는 경복궁 3000원, 창경궁 1000원으로 일반 관람과 같다 .	O LOC-B MNY-B LOC-B MNY-B O O O O
-“대우조선, 前 임원 대주주 이+ㄴ 회사에 6년간 일감 2300억원 어치몰아주 .	ORG-B O O O O O O O MNY-B O O
-미국 CNN은 당국이 사망자가 73명에 이르+ㄴ다고 현지 언론에 전하였다고 보도하였다 .	ORG-B ORG-B O O O O O O O O O
-제2회 한국영화제작가협회상은 kth, k쇼핑, 명필름, 명필름 아트센터의 후원으로 치르어 +지었다 .	O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-I O O O O
+노트 한 권 만 으로 시험 대비 가 가능하 게 말 이 다 .	O O O O O O O O O O O O O O
+삼성 측 은 “ 이번 투명 OLED 는 일반 유리 에 가까 운 투과율 을 자랑한다 ” 고 설명 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+향후 서울 전 지역 복지 관 으로 의 확대 를 목표 로 하 고 있 다는 것 이 한국 암웨이 측 의 설명 이 다 .	O LOC-B O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O
+신흥 국 과 중국 의 경제 불안 등 불안 요소 가 있 어 기업 들 이 보수적 인 채용 계획 을 세우 고 있 다 ” 고 말 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+독일 은 외국 자본 이 프로 축구 구단 의 지분 을 49 % 까지 만 소유할 수 있 도록 하 고 , 외국 자본 이 운영한 뒤 20 년 이 지나야 지분 51 % 이상 을 가질 수 있 도록 규정하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아모레퍼시픽 ‘ 뷰티풀 라이프 ’ , 여성 가장 지원 에 30 억 원 기탁	ORG-B O O O O O O O O O MNY-B MNY-I MNY-I O
+1 년 이 채 지나 지 않 았 지만 규제 개혁 의 효과 는 신상품 개발 , 그림자 규제 축소 , 소비자 보호 강화 로 나타나 긍정적 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그때 는 부산 이 냐 , 진주 냐 로 충돌 했 다 .	O O LOC-B O O O LOC-B O O O O O O
+김현중 전 여 친 측 " 출산 후 , 친자 확인 준비 중 "	PER-B O O O O O O O O O O O O O
+관람료 는 경복궁 3000 원 , 창경궁 1000 원 으로 일반 관람 과 같 다 .	O O LOC-B MNY-B MNY-I O LOC-B MNY-B MNY-I O O O O O O O
+“ 대우조선 , 前 임원 대주주 인 회사 에 6 년 간 일감 2300 억 원 어치 몰아줘 ”	O ORG-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O
+미국 CNN 은 당국 이 사망자 가 73 명 에 이른다고 현지 언론 에 전 했 다고 보도 했 다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O O O O
+제 2 회 한국영화제작가협회 상 은 kth , k 쇼핑 , 명필름 , 명필름 아트센터 의 후원 으로 치 러 졌 다 .	O O O ORG-B O O ORG-B O ORG-B ORG-I O ORG-B O ORG-B ORG-I O O O O O O O O

@@ -1,15 +1,15 @@
-남아공 열차 탈선 63명 사망/부상자도 3백70여명 … 피하+여더 늘어나 +ㄹ .	O O O O O O O O O O O
-첫 번째는 김 차장의 아버지 이+ㄴ 김기택 전 영남대 총장과 박근혜 대통령의 악연이다 .	O O PER-B O O O PER-B O ORG-B O PER-B O O O
-미국의 제조업 일자리가 쇠락하는 데 있어 나쁘+ㄴ 무역협정들이 중요하+ㄴ 요인이 +었다”(지난해 5월 허핑턴포스트 기고) 고 주장 하+ㄴ다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O
-트럼프의 외교정책이 ‘미국 우선주의’ +이라면 샌더스의 경제정책은 ‘미국 일자리 우선’으로 압축되 +ㄴ다 .	PER-B O ORG-B O O PER-B O ORG-B O O O O O
-올해 국내총생산(GDP) 대비 공적연금(국민연금++기초연금)은 1.9% 수준이다 .	O O O O O O O
-쿠사마야요이와 장샤오강은 일본과 중국의 현대거장이다 .	PER-B PER-B ORG-B ORG-B ORG-B O
-조 회장은 “대한항공을 아끼+어주시+ㄴ 모든 국민께 사과 하+ㄴ다” +이라며 “이유와 관계없이 조 전 부사장이 승무원을 비행기에 내리게 하+ㄴ 것은 잘못”이라고 진술하였다 .	PER-B O ORG-B O O O O O O O O PER-B O O O O O O O O O O
-흑이 중앙을 받으면 우변 흑 3점을 잡겠다는 뜻.흑의 묘수가 필요하다 .	O O O O O O O O O O O
-DIA는 지나 +ㄴ 10여년간 북한은 지상군을 기동성을 높이고 기계화 수준을 향상시키기 위하+여 꾸준히 탱크와 자주포, 장갑차의 숫자를 늘리+어+오았다고 전하였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O
-모레티 감독은 마르게리타가 겪는 사소하+ㄴ 순간의 감정을 차곡차곡 쌓아 올리며 이야기를 끌어가 +ㄴ다 .	PER-B O PER-B O O O O O O O O O O O
-어머니가 같은 형제 중형 한 구 씨는 남한에서 사망하였고 동생 낙구는 서울대 상대를 졸업하+ㄴ 뒤 6·25 때 인민군에 입대하였다가 월북하였다 .	O O O O O O O ORG-B O O PER-B ORG-B ORG-I O O O O O O O O
-교육부는 위원장을 선임하+ㄴ 뒤 곧바로 위원장과 위원 선임 작업에 착수하였다 .	ORG-B O O O O O O O O O O
-진짜 사나이 최유진, 팔뚝 얇아 혈압 측정 불가… 어떻게 이런 일이 .	O O PER-B O O O O O O O O O
-방역전쟁이 가장 요란하였던 곳은 13∼14일 서울 방이동 올림픽공원 체조경기장에서 열리+ㄴ 동방신기 공연이었다 .	O O O O O LOC-B LOC-B LOC-B LOC-I O ORG-B O O
-지난해 국내 흰줄숲모기는 4055마리가 채집되면서 전체 채집모기(21만2695 마리) 중 1.9%를 차지하였다 .	O O O O O O O O O O O O
+남아공 열차 탈선 63 명 사망 / 부상자 도 3 백 70 여 명 … 피해 더 늘어날 듯	O O O O O O O O O O O O O O O O O O O
+첫 번째 는 김 차장 의 아버지 인 김기택 전 영남대 총장 과 박근혜 대통령 의 악연 이 다 .	O O O PER-B O O O O PER-B O ORG-B O O PER-B O O O O O O
+미국 의 제조업 일자리 가 쇠락하 는 데 있 어 나쁜 무역 협정 들 이 중요한 요인 이 됐 다 ” ( 지난해 5 월 허핑턴포스트 기고 ) 고 주장한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O
+트럼프 의 외교 정책 이 ‘ 미국 우선주의 ’ 라면 샌더스 의 경제 정책 은 ‘ 미국 일자리 우선 ’ 으로 압축된다 .	PER-B O O O O O ORG-B O O O PER-B O O O O O ORG-B O O O O O O
+올해 국내 총 생산 ( GDP ) 대비 공적 연금 ( 국민 연금+ 기초 연금 ) 은 1.9 % 수준 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+쿠 사마 야요이 와 장 샤오 강 은 일본 과 중국 의 현대 거장 이 다 .	PER-B PER-I PER-I O PER-B PER-I PER-I O ORG-B O ORG-B O ORG-B O O O O
+조 회장 은 “ 대한항공 을 아껴 주 신 모든 국민 께 사과한다 ” 라며 “ 이유 와 관계없이 조 전 부사장 이 승무원 을 비행기 에 내리 게 한 것 은 잘못 ” 이라고 진술 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+흑 이 중앙 을 받 으면 우변 흑 3 점 을 잡 겠 다는 뜻 . 흑 의 묘수 가 필요하 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+DIA 는 지난 10 여 년 간 북한 은 지상군 을 기동성 을 높이 고 기계화 수준 을 향상 시키 기 위해 꾸준히 탱크 와 자주포 , 장갑차 의 숫자 를 늘려 왔 다고 전 했 다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+모레티 감독 은 마르 게리 타 가 겪 는 사소한 순간 의 감정 을 차곡차곡 쌓 아 올리 며 이야기 를 끌어간다 .	PER-B O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O
+어머니 가 같 은 형제 중 형 한구 씨 는 남한 에서 사망 했 고 동생 낙구 는 서울대 상대 를 졸업한 뒤 6 · 25 때 인민군 에 입대 했 다가 월북 했 다 .	O O O O O O O PER-B O O ORG-B O O O O O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O
+교육부 는 위원장 을 선임한 뒤 곧바로 위원장 과 위원 선임 작업 에 착수 했 다 .	ORG-B O O O O O O O O O O O O O O O O
+진짜 사나이 최유진 , 팔뚝 얇 아 혈압 측정 불가 … 어떻 게 이런 일 이 ?	O O PER-B O O O O O O O O O O O O O O
+방역 전쟁 이 가장 요란 했 던 곳 은 13 ∼ 14 일 서울 방이동 올림픽 공원 체조 경기장 에서 열린 동방신기 공연 이 었 다 .	O O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I O O ORG-B O O O O O
+지난해 국내 흰줄숲모기 는 4055 마리 가 채집되 면서 전체 채집 모기 ( 21 만 2695 마리 ) 중 1.9 % 를 차지 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O

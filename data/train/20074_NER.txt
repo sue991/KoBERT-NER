@@ -1,15 +1,15 @@
-2008년 구글에서 페이스북으로 이직한 한 엔지니어는 ‘월스트리트저널’ 인터뷰에서 “구글의 규모가 커지면서 관리자의 역할 비중이 커지고, 구성원의 자율성이 위축되며, 조직 운영 방식이 점점 경직되는 현상이 나타나 +았다 .	O ORG-B ORG-B O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
-취업준비생 전미경씨는 “결혼하려면 커플 당 평균 2억4000만원이 들어가 +ㄴ다는데 취업이 어렵어지면서 부담만 커지고, 그러다 보니 연애 자체를 포기하는 청년들도 늘고 있다”고 말하였다 .	O PER-B O O O O MNY-B O O O O O O O O O O O O O O O O
-진화하는 할리우드 영화 시리즈가 그렇듯 ‘엑스맨’도 편수를 더 하+ㄹ수록 점차 강 하+ㄴ 악당이 등장하+ㄴ다 .	O O O O O O O O O O O O O O O
-1970년대 한국은 시장도, 기술도 없는 상태에서 반도체와 조선(造船) 강국의 기적을 일구었다 .	O ORG-B O O O O O O O O O O
-이번 조사는 2월 1일부터 이달 15일까지 최근 5년 이내 초·중학교 미취학 아동과 3년 이내 장기결석 중학생 등 모두 2892명을 대상으로 실시되었다 .	O O O O O O O O O O O O O O O O O O O O O O
-‘결혼상담소’의 여주인공은 낯설+ㄴ남자가 소리 죽이어 흐느끼고 있는 모습을 보곤 그에게 얼 그레이 홍차를 한 잔 보내곤 생각 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-이번 주 예정되+ㄴ 제임스 매티스 미 국방장관의 방한과 관련 하+여서도 트럼프 대통령은 ＂양국 간 동맹의 연합방위 능력 강화와 북핵 공조 방안에 대하+ㄴ 긴밀 하+ㄴ 협의가 이루어지기 +ㄹ기대 하+ㄴ 다＂고 덧붙이었다 .	O O O PER-B PER-I PER-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O
-개 +ㄹ스턴은 시리아 내전에 대하+ㄴ미온적대처는 국제적 난민 사태로 이어지었고, 러시아의 크림반도 합병을 막지 못하+ㄴ 것은 제2차 세계대전 직전 독일 나치 정권에 대하+ㄴ 유화정책을 떠올리게 하+ㄴ다고 오바마를 맹공하였다 .	O O O O O O O O O ORG-B O O O O O O O O ORG-B ORG-B ORG-I O O O O PER-B O O
-또 경찰은 김정남으로 추정되는 시신의 신원을 밝히기 위하+여 김정남의 아들 김한솔이 말레이시아를 방문하였다는 주장에 대하+여서는 “아직까지 사망자의 가족이 시신의 확인을 위하+여 연락을 취하+여오+ㄴ바 없다”고 간접적으로 부인하였다 .	O O PER-B O O O O O PER-B O PER-B LOC-B O O O O O O O O O O O O O O O
-■이지스한의원 최혁준 원 장관절 통증이 생기는 원인을 ‘나이가 들어서’라고 생각하는 사람들이 많다 .	ORG-B PER-B O O O O O O O O O O O
-세계랭킹 1위조던 스피스(미국), 2위 제이슨 데이(호주)….‘필드의 별’들이 소속 국가와 대륙의 자존심을 것+ㄴ대결에 들어가 +ㄴ다 .	O PER-B ORG-B O PER-B ORG-B O O O O O O O O O
-이렇게 생산되+ㄴ꿀은 한국양봉협회 품질검사 결과 맛과 영양이 우수하+ㄴ꿀로 인정받았다 .	O O ORG-B O O O O O O O
-김현웅 내정자보다 기수가 아래 이+ㄴ 데 .	PER-B O O O O O O
-이규철 특검보는 지나 +ㄴ 3일 서울 강남구 대치동 특검 사무실 인근의 한 식당에서 열리+ㄴ기자단과의 오찬에서 “박 대통령 차명폰은 근거가 확실하다 .	PER-B ORG-B O O O LOC-B LOC-B LOC-B ORG-B O O O O O O PER-B O O O O O
-[현장 리포트]한국 야구 사상 첫 독립 리그 열리던  .	O ORG-B ORG-I O O O O O O O
+2008 년 구글 에서 페이스북 으로 이직한 한 엔지니어 는 ‘ 월스트리트저널 ’ 인터뷰 에서 “ 구글 의 규모 가 커지 면서 관리자 의 역할 비중 이 커지 고 , 구성원 의 자율성 이 위축되 며 , 조직 운영 방식 이 점점 경직되 는 현상 이 나타났 다 .	DAT-B DAT-I ORG-B O ORG-B O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+취업 준비 생 전미경 씨 는 “ 결혼하 려면 커플 당 평균 2 억 4000 만 원 이 들어간다 는데 취업 이 어려 워 지 면서 부담 만 커지 고 , 그러 다 보 니 연애 자체 를 포기하 는 청년 들 도 늘 고 있 다 ” 고 말 했 다 .	O O O PER-B O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+진화하 는 할리우드 영화 시리즈 가 그렇 듯 ‘ 엑스맨 ’ 도 편 수 를 더할수록 점차 강한 악당 이 등장한다 .	O O O O O O O O O O O O O O O O O O O O O O
+1970 년대 한국 은 시장 도 , 기술 도 없 는 상태 에서 반도체 와 조선 ( 造船 ) 강국 의 기적 을 일 궜 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+이번 조사 는 2 월 1 일 부터 이달 15 일 까지 최근 5 년 이내 초 · 중학교 미취학 아동 과 3 년 이내 장기 결석 중학생 등 모두 2892 명 을 대상 으로 실시 됐 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 결혼 상담소 ’ 의 여주인공 은 낯선 남자 가 소리 죽 여 흐느끼 고 있 는 모습 을 보 곤 그 에게 얼 그레이 홍차 를 한 잔 보내 곤 생각한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 주 예정된 제임스 매 티스 미 국방 장관 의 방한 과 관련해서 도 트럼프 대통령 은 ＂ 양국 간 동맹 의 연합 방위 능력 강화 와 북 핵 공조 방안 에 대한 긴밀한 협의 가 이루어지 길 기대한다 ＂ 고 덧붙 였 다 .	O O O PER-B PER-I PER-I PER-I O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+갤 스턴 은 시리아 내전 에 대한 미온적 대처 는 국제적 난민 사태 로 이어 졌 고 , 러시아 의 크림 반도 합병 을 막 지 못한 것 은 제 2 차 세계 대전 직전 독일 나치 정권 에 대한 유화 정책 을 떠올리 게 한다고 오바마 를 맹공 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-B ORG-I O O O O O O O O PER-B O O O O O
+또 경찰 은 김정남 으로 추정되 는 시신 의 신원 을 밝히 기 위해 김정남 의 아들 김한솔 이 말레이시아 를 방문 했 다는 주장 에 대해서 는 “ 아직 까지 사망자 의 가족 이 시신 의 확인 을 위해 연락 을 취해 온 바 없 다 ” 고 간접적 으로 부인 했 다 .	O O O PER-B O O O O O O O O O O PER-B O O PER-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+■ 이지스 한의원 최혁준 원장 관절 통증 이 생기 는 원인 을 ‘ 나이 가 들 어서 ’ 라고 생각하 는 사람 들 이 많 다 .	O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O
+세계 랭킹 1 위 조던 스피스 ( 미국 ) , 2 위 제이슨 데이 ( 호주 ) … . ‘ 필드 의 별 ’ 들 이 소속 국가 와 대륙 의 자존심 을 건 대결 에 들어간다 .	O O O O PER-B PER-I O ORG-B O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+이렇 게 생산된 꿀 은 한국 양봉 협회 품질 검사 결과 맛 과 영양 이 우수한 꿀 로 인정받 았 다 .	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
+김현웅 내정자 보다 기수 가 아래 인 데 다	PER-B O O O O O O O O
+이규철 특검 보 는 지난 3 일 서울 강남구 대치동 특검 사무실 인근 의 한 식당 에서 열린 기자 단 과 의 오찬 에서 “ 박 대통령 차명 폰 은 근거 가 확실하 다 .	PER-B ORG-B ORG-I O O DAT-B DAT-I LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+[ 현장 리포트 ] 한국 야구 사상 첫 독립 리그 열리 던 날	O O O O ORG-B ORG-I O O O O O O O

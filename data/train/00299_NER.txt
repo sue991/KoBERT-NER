@@ -1,16 +1,16 @@
-이날 ‘해피투게더’ 방송에서 김슬기는 욕쟁이 캐릭터가 생기었다고 고백하며, 박명수의 요청에 “염X하고자 빠지었네”라고 시원하+ㄴ대사를 날리기도 +였다 .	O O O PER-B O O O O PER-B O O O O O O O
-이날 방송을 시청 하+ㄴ네티즌들은 대체로 ‘국민 욕동생’ 김슬기의 매력과 미모를 재발견하였다는 반응이다 .	O O O O O O O PER-B O O O O O
-이들은 관련 기사 댓글란에 “슬기 저렇게 이쁘었음? 진짜 이쁘 .	O O O O PER-B O O O O O
-‘더 지니어스4’ 장동민우승 …상금은 1억3200만원, 소감은 "개그맨들 높게 평가+되었으면 .	O O PER-B O MNY-B O O O O O
-실제로 지난달 13일 관세청이 공개하+ㄴ 수출입 무역통계에 따르면 렌틸콩 수입량은 2013년 366톤에서 2014년 1만2196톤으로 33배 급증하였다 .	O O MNY-B ORG-B O O O O O O MNY-B MNY-I MNY-B MNY-B O O O
-정재철 의원(이런 제안 .	PER-B O O O
-메리어트 호텔 체인의 럭셔리 브랜드 이+ㄴ 리츠칼튼은 12월 15일까지 숙박일로부터 15일 전에 예약하는 고객에게 할인을 제공하는 얼리버드 프로모션 ‘얼리 익스피리언스’(Early Experience)를 실시하+ㄴ다 .	ORG-B ORG-I O O O O ORG-B O O O O O O O O O O O O O O O O
-장윤정을 다음 타자로 지목하+여크+ㄴ 웃음을 안기었다 .	PER-B O O O O O O
-장윤정과 칠순택시 서병순 의무대는 안방극장에 폭풍 눈물을 안기며 크+ㄴ감동을 선사하였다 .	PER-B O PER-B O O O O O O O O
-레전드'에서는 그동안 출연하였던 참가자 중 다시 보고 싶은 8팀이 선정되+어갈라쇼를 꾸미었다 .	O O O O O O O O O O O O
-시즌의 첫 단추를 중시하는 김 감독이 선택하+ㄹ 수 있는 최적의 카드+이다 .	O O O O PER-B O O O O O O O
-한미동맹 탄탄 … 미래 걱정 안해 .	ORG-B O O O O O O
-종합에너지 전문그룹이 +ㄴ 현대오일뱅크는 2011년부터 5년 연속 프로축구 메인스폰서를 맡으며 한국 축구의 발전과 저변 확대에 중추적 역할을 하게 +었다 .	O O O ORG-B O O O O O O O O O O O O O O O O
-수강료는 월 40만원.애견 미용사 취업 희망자, 애견 미용실 창업 희망자, 애견센터 창업 희망자를 대상으로 동물과 사람 하남캠퍼스에서 수업이 진행되 +ㄴ다 .	O O MNY-B O O O O O O O O O O O O O O O O O O
-지나+ㄴ 1년여간 ‘핀테크(Fintech)’는 금융계의 최대 화두+이었다 .	O O O O O O O
-'둘이서'를 부르어 +주었다"고 밝히었다 .	O O O O O
+이날 ‘ 해피투게더 ’ 방송 에서 김슬기 는 욕쟁이 캐릭터 가 생 겼 다고 고백하 며 , 박명수 의 요청 에 “ 염 X 하고 자빠 졌 네 ” 라고 시원한 대사 를 날리 기 도 했 다 .	O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+이날 방송 을 시청한 네티즌 들 은 대체로 ‘ 국민 욕 동생 ’ 김슬기 의 매력 과 미모 를 재발견 했 다는 반응 이 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+이 들 은 관련 기사 댓글 란 에 “ 슬기 저렇 게 이 뻤 음 ? 진짜 이쁘 다	O O O O O O O O O PER-B O O O O O O O O O
+‘ 더 지니 어스 4 ’ 장동민 우승 … 상금 은 1 억 3200 만 원 , 소감 은 " 개그맨 들 높 게 평가 됐 으면 "	O O O O O O PER-B O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O
+실제로 지난달 13 일 관세청 이 공개한 수출입 무역 통계 에 따르 면 렌틸콩 수입 량 은 2013 년 366 톤 에서 2014 년 1 만 2196 톤 으로 33 배 급증 했 다 .	O O DAT-B DAT-I ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I O O O O O O O
+정재철 의원 ( 이런 제안 )	PER-B O O O O O
+메리어트 호텔 체인 의 럭셔리 브랜드 인 리츠칼튼 은 12 월 15 일 까지 숙박 일 로부터 15 일 전 에 예약하 는 고객 에게 할인 을 제공하 는 얼리버드 프로모션 ‘ 얼리 익스피리언스 ’ ( Early Experience ) 를 실시한다 .	ORG-B ORG-I O O O O O ORG-B O DAT-B DAT-I DAT-I DAT-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+장윤정 을 다음 타자 로 지목해 큰 웃음 을 안 겼 다 .	PER-B O O O O O O O O O O O O
+장윤정 과 칠순 택시 서병순 의 무대 는 안방극장 에 폭풍 눈물 을 안기 며 큰 감동 을 선사 했 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O
+레전드 ' 에서 는 그동안 출연 했 던 참가자 중 다시 보 고 싶 은 8 팀 이 선정돼 갈라 쇼 를 꾸 몄 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+시즌 의 첫 단추 를 중시하 는 김 감독 이 선택할 수 있 는 최적 의 카드 다 .	O O O O O O O PER-B O O O O O O O O O O O
+한미 동맹 탄탄 … 미래 걱정 안 해 ”	ORG-B O O O O O O O O
+종합 에너지 전문 그룹 인 현대오일뱅크 는 2011 년 부터 5 년 연속 프로 축구 메인 스폰서 를 맡 으며 한국 축구 의 발전 과 저변 확대 에 중추적 역할 을 하 게 됐 다 .	O O O O O ORG-B O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+수강료 는 월 40 만 원 . 애견 미용사 취업 희망자 , 애견 미용실 창업 희망자 , 애견 센터 창업 희망자 를 대상 으로 동물 과 사람 하남 캠퍼스 에서 수업 이 진행된다 .	O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 1 년 여 간 ‘ 핀테크 ( Fintech ) ’ 는 금융계 의 최대 화두 였 다 .	O O O O O O O O O O O O O O O O O O O
+' 둘 이서 ' 를 불 러 줬 다 " 고 밝 혔 다 .	O O O O O O O O O O O O O O O

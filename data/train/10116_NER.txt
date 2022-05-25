@@ -1,13 +1,13 @@
-우연히 법대에 진학하였는데 한 번도 듣+지도보+지도 못하+ㄴ 공부를 하게 +었다”고 밝히기도 +였다 .	O O O O O O O O O O O O O
-[사설] 자원외교 국정조사, 이상득 박영준 소환 불가피하 .	O O O PER-B PER-B O O O
-2일 증시는 중소형 개별 종목들이 강세를 보이어 상한가 종목이 1백50개에 육박하였지만, 금융주가 부진하+여지수 상승은 소폭에 그치었다 .	O O O O O O O O O O O O O O O O O
-이날 단둥~평양 노선 개통으로 중국인 관광객과 사업가 50여명은 고려항공을 타고 평양 순안국제공항에 환대를 받으며 도착하였다고 하+ㄴ다 .	O LOC-B O O O O O O ORG-B O LOC-B LOC-I O O O O O
-우병우 수사를 대충 하면 여론과 다음 정권이 가만히 두지 않을 것이고 샅샅이 뒤지자니 검찰 내부의 두 자릿수 정도 고위 간부들이 연루되 +어서 그것도 여론의 지탄 대상이 되+ㄹ 것 아니+ㄴ가”라며 “깊은 한숨과 고뇌가 지금 검찰 수뇌 부분위기+이라고 하+ㄴ다”고 전하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-김어준은 자신의 추측이라는 전제를 달며 “아마도, 검찰총장의 사퇴 카드 고민이 이 문제 때문 아니겠는 .	PER-B O O O O O O O O O O O O O O
-다국적 관광객 10명과 함께 비행기에 올라타 +았다 .	O O O O O O O O
-안내+었다 … 장근석 미스터 .	O O PER-B O O
-이날 농식품부는 올해 국내에서 스마트팜을 도입하+ㄴ농지 규모가 364ha로 지난해(60ha)의 6배 수준이었다고 보고하였다 .	O ORG-B O O O ORG-B O O O O O O O
-89년 창립되+ㄴ후기 미술 작가협회의 멤버이기도 +였던 불모의 회원들은 모더니즘 미술과 민중미술로 양분되+ㄴ 미술계에서 제3의 길을 걸어 오+ㄴ 것으로 평가되 +ㄴ다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
-이와 함께 의식­조직 정비를 통하+여기업의 유연성을 제고하고, 행정규제 완화도 중요 전략의 하나+이다 .	O O O O O O O O O O O O O
-극장가에서는 김명민·오달 수주연의 ‘조선명 탐정: 사라지+ㄴ놉의 딸’(조선명 탐정2)이 흥행 1위에 오르았다 .	O PER-B O O O O O O O O O O
-일요일부터 목요일까지 주중 객실 1박과 조·석식에 온천사우나 프리패스를 두 명에게 제공 하+ㄴ다 .	O O O O O O O O O O O O O
+우연히 법대 에 진학 했 는데 한 번 도 듣 도 보 도 못한 공부 를 하 게 됐 다 ” 고 밝히 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 사설 ] 자원 외교 국정 조사 , 이상득 박영준 소환 불가피하 다	O O O O O O O O PER-B PER-B O O O
+2 일 증시 는 중소형 개별 종목 들 이 강세 를 보 여 상한가 종목 이 1 백 50 개 에 육박 했 지만 , 금융 주 가 부진해 지수 상승 은 소폭 에 그 쳤 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 단둥 ~ 평양 노선 개통 으로 중국인 관광객 과 사업가 50 여 명 은 고려항공 을 타 고 평양 순안 국제공항 에 환대 를 받 으며 도착 했 다고 한다 .	O LOC-B O LOC-B O O O O O O O O O O O ORG-B O O O LOC-B LOC-I LOC-I O O O O O O O O O O
+우병우 수사 를 대충 하 면 여론 과 다음 정권 이 가만히 두 지 않 을 것 이 고 샅샅이 뒤지 자니 검찰 내부 의 두 자릿수 정도 고위 간부 들 이 연루돼서 그것 도 여론 의 지탄 대상 이 될 것 아닌가 ” 라며 “ 깊 은 한숨 과 고뇌 가 지금 검찰 수뇌부 분위기 라고 한다 ” 고 전 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김어준 은 자신 의 추측 이 라는 전제 를 달 며 “ 아마도 , 검찰 총장 의 사퇴 카드 고민 이 이 문제 때문 아니 겠 는가	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+다국적 관광객 10 명 과 함께 비행기 에 올라탔 다 .	O O O O O O O O O O O
+안 냈 다 … 장근석 미스터리	O O O O PER-B O
+이날 농 식품 부 는 올해 국내 에서 스마트 팜 을 도입한 농지 규모 가 364 ha 로 지난해 ( 60 ha ) 의 6 배 수준 이 었 다고 보고 했 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+89 년 창립된 후기 미술 작가 협회 의 멤버 이 기 도 했 던 불모 의 회원 들 은 모더니즘 미술 과 민중 미술 로 양분된 미술계 에서 제 3 의 길 을 걸어온 것 으로 평가된다 .	DAT-B DAT-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 와 함께 의식 ­ 조직 정비 를 통해 기업 의 유연성 을 제고하 고 , 행정 규제 완화 도 중요 전략 의 하나 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+극장가 에서 는 김명민 · 오달수 주연 의 ‘ 조선 명탐정 : 사라진 놉 의 딸 ’ ( 조선 명탐정 2 ) 이 흥행 1 위 에 올 랐 다 .	O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+일요일 부터 목요일 까지 주 중 객실 1 박 과 조 · 석식 에 온천 사우나 프리 패스 를 두 명 에게 제공한다 .	DAT-B O DAT-B O O O O O O O O O O O O O O O O O O O O O

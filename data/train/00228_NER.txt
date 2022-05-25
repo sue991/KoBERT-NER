@@ -1,13 +1,13 @@
-자신이 진행하던 종편 프로그램에서 ‘5·18 북한군 개입설’을 방송 하+여 논란을 빚은 장성민 전 새천년민주당 의원이 21일 “5·18 폄훼 발언은 전혀 사실무근”이라고 반박하였다 .	O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O
-딸과 사위는 A 할머니의 봉양을 B씨에게 요구하였다 .	O O PER-B O O PER-B O O
-‘다지나가+ㄹ 일들’이라며 .누리꾼들의 고민을 읽다 보니 최근 방영되 +ㄴ MBC 무한도전 ‘나쁘+ㄴ 기억지우개’ 편이 떠오르았습니다 .	O O O O O O O O O O O O O O O O
-51층은 옥상정원이 +ㄴ데, 이곳 텃밭에서 키우+ㄴ 채소들은 고객의 식탁에도 올라가 +ㄴ다 .	O O O O O O O O O O O O
-‘세계 대통령’ 유엔 차기 총장 선거 모 .	O O ORG-B O O O O O
-소설가 신경숙의 반대편에서 +어 있는 분들도 오늘의 이 사태를 사적 복수의 기회나 분노의 하수구로 이용하는 일이 없기를 간곡히 부탁드리+ㄴ다 .	O PER-B O O O O O O O O O O O O O O O O O O
-이날 이종호(왼쪽) 재단 이사장은 수상자 이+ㄴ조병국(오른쪽) 홀트아동복지회 부속의원 명예원장에게 상금 1억원과 상패를 수여하였다 .	O PER-B O O O PER-B O O O O MNY-B O O O
-1984년도에 김일융 선배상대로 홈런치던 장면이 생생하+ㄴ 데…”+이라며 ”오랫동안 함께하지+ㄴ 않았지만, 굉장히 열심히 +였던 선수로 기억하+ㄴ다 .	O PER-B O O O O O O O O O O O O O O
-이에 권진영은 “김숙씨와는 커플링도 8년 전에 맞추+어+았다 .	O PER-B PER-B O O O O O
-김숙씨는 남자, 나는 여자 반지를 맞추었다”고 응수하였다 .	PER-B O O O O O O O
-1년 전, 그는 후배들이 선망하는 잘나가는 대기업 부장이었다 .	O O O O O O O O O
-커는 전 남편 올랜도 블룸을 언급하며 "블룸과 첫 키스까지 6개월이 걸리었다"고 말하기도 +였다 .	PER-B O O PER-B PER-B O PER-B O O O O O O O
-이것이 마지막 1군 등판이었다 .	O O O O O
+자신 이 진행하 던 종편 프로그램 에서 ‘ 5 · 18 북한 군 개입 설 ’ 을 방송해 논란 을 빚 은 장성민 전 새천년 민주당 의원 이 21 일 “ 5 · 18 폄훼 발언 은 전혀 사실무근 ” 이라고 반박 했 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O
+딸 과 사위 는 A 할머니 의 봉양 을 B 씨 에게 요구 했 다 .	O O O O PER-B O O O O PER-B O O O O O O
+‘ 다 지나갈 일 들 ’ 이 라며 . 누리 꾼 들 의 고민 을 읽 다 보 니 최근 방영된 MBC 무한도전 ‘ 나쁜 기억 지우개 ’ 편 이 떠올 랐 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+51 층 은 옥상 정원 인데 , 이곳 텃밭 에서 키운 채소 들 은 고객 의 식탁 에 도 올라간다 .	O O O O O O O O O O O O O O O O O O O O O
+‘ 세계 대통령 ’ 유엔 차기 총장 선거 모드	O O O O ORG-B O O O O
+소설가 신경숙 의 반대편 에 서 있 는 분 들 도 오늘 의 이 사태 를 사적 복수 의 기회 나 분노 의 하수구 로 이용하 는 일 이 없 기 를 간곡히 부탁 드린다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 이종호 ( 왼쪽 ) 재단 이사장 은 수상자 인 조병국 ( 오른쪽 ) 홀트아동복지회 부속 의원 명예 원장 에게 상금 1 억 원 과 상패 를 수여 했 다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+1984 년도 에 김일융 선배 상대 로 홈런 치 던 장면 이 생생한데 … ” 라며 ” 오랫동안 함께하 진 않 았 지만 , 굉장히 열심히 했 던 선수 로 기억한다 .	DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 권진영 은 “ 김숙 씨 와 는 커플링 도 8 년 전 에 맞춰 놨 다 .	O O PER-B O O PER-B O O O O O O O O O O O O O
+김숙 씨 는 남자 , 나 는 여자 반지 를 맞 췄 다 ” 고 응수 했 다 .	PER-B O O O O O O O O O O O O O O O O O O
+1 년 전 , 그 는 후배 들 이 선망하 는 잘 나가 는 대기업 부장 이 었 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+커 는 전 남편 올랜도 블룸 을 언급하 며 " 블룸 과 첫 키스 까지 6 개월 이 걸 렸 다 " 고 말하 기 도 했 다 .	PER-B O O O PER-B PER-I O O O O PER-B O O O O O O O O O O O O O O O O O O
+이것 이 마지막 1 군 등판 이 었 다 .	O O O O O O O O O O

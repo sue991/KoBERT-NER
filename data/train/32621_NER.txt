@@ -1,15 +1,15 @@
-자동차 제작사는 차량 소유자의 배출가스 관련 부품 결함시정 요구 건수 50건 이상, 결함시정 요구율 4% 이상이+ㄹ 때 환경부에 보고하도록 되어 있다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O
-[2016 한국시니어산업 대상] 건강하고 활력 넘치는 노후생 .	O O O O O O O O
-MBC「시 사 토론」 핵심 벗어나 +아 혼 .	ORG-B O O O O O O O
-오히려 우리가 초점을 두어야 하+ㄹ 정책은 4차 산업혁명과 관련되 +ㄴ 것이다 .	O O O O O O O O O O O O
-경영권 승계 문제로 내홍을 겪고 있는 롯데그룹은 연잇은 주가 하락으로 20여일 만에 2조원가량의 시가총액이 증발하였다 .	O O O O O O ORG-B O O O MNY-B O MNY-B O O O
-대학생은 본인과 부모의 월평균 소득합계 기준, 사회초년생은 본인의 월평균소득 기준으로 전년도 도시근로자가구당 월평균소득의 70%(약 337만원 수준) 이하+이어야 하+ㄴ다 .	O O O O O O O O O O O O O O MNY-B O O O O
-운영기관은 시중 전세가격의 50% 이하 범위 내에서 입주자에게 공급 하+여야 하고 최초 임대차 기간은 2년, 재계약은 2년 단위로 체결하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-지원이가 노래연습하는 것+ㄹ 듣어+보았는데 정말 잘 하+여서 놀라 +았다”고 당시를 떠올리었다 .	PER-B O O O O O O O O O O O
-이어 정재형은 서 지원에 대하+여 “아프+ㄴ 손가락이다 .	O PER-B O O O O O O
-결국 정씨는 111명 중 6명을 선발하는 체육특기자 전형 종합평가에서 6등으로 합격하였다 .	O PER-B O O O O O O O O O O
-김구라 합의 이혼“어머니 입장도 고려하지 않을 수 없었다” 개그맨 김구라가 결혼 18년 만에 합의 이혼+였다 .	PER-B O O O O O O O O PER-B O O O O O O
-김구+이라는 25일 오후 소속 사이+ㄴ 라인엔터테인먼트를 통하+여 “저희 부부는 금일 25일 법원이 정하+여주+ㄴ 숙려기간을 거치+어 18년의 결혼생활을 합의 이혼으로 마무리하게 되었습니다”라고 이혼 소식을 전하였다 .	PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-김구라는 “우선, 많은 분들이 어렵 ㄴ 상황 속에서도 가정을 지키+ㄴ다고 응원 하+여주+시었는데, 실망스럽ㄴ 소식 전 하+여드리게 되어서 죄송하+ㅂ니다”라고 유감을 표하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-아들 동현의 양육과 관련 하+여서 +ㄴ “현재 고2인 동현이는 성인이 되+ㄹ 때까지 저와 함께 생활하+ㄹ 것이 +ㅂ니다 .	O PER-B O O O O O O PER-B O O O O O O O O O
-짧은 섬광같은 이미지가 영화의 한 장면 같이 나오기도 하고, 아주 디테일하게 그날의 일들을 복기하+ㄴ다 .	O O O O O O O O O O O O O O O
+자동차 제작사 는 차량 소유자 의 배출 가스 관련 부품 결함 시정 요구 건수 50 건 이상 , 결함 시정 요구 율 4 % 이상 일 때 환경부 에 보고하 도록 되 어 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+[ 2016 한국 시니어 산업 대상 ] 건강하 고 활력 넘치 는 노후 생활	O DAT-B O O O O O O O O O O O O
+MBC 「 시사 토론 」 핵심 벗어나 혼란	ORG-B O O O O O O O
+오히려 우리 가 초점 을 두 어야 할 정책 은 4 차 산업 혁명 과 관련된 것 이 다 .	O O O O O O O O O O O O O O O O O O O O
+경영권 승계 문제 로 내홍 을 겪 고 있 는 롯데그룹 은 연이 은 주가 하락 으로 20 여 일 만 에 2 조 원 가량 의 시가 총액 이 증발 했 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+대학생 은 본인 과 부모 의 월평균 소득 합계 기준 , 사회 초년생 은 본인 의 월평균 소득 기준 으로 전년도 도시 근로자 가구 당 월평균 소득 의 70 % ( 약 337 만 원 수준 ) 이하 여야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+운영 기관 은 시중 전세 가격 의 50 % 이하 범위 내 에서 입주자 에게 공급해야 하 고 최초 임대차 기간 은 2 년 , 재계약 은 2 년 단위 로 체결한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지원이 가 노래 연습하 는 걸 들 어 봤 는데 정말 잘해서 놀랐 다 ” 고 당시 를 떠올 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+이어 정재형 은 서지원 에 대해 “ 아픈 손가락 이 다 .	O PER-B O PER-B O O O O O O O O
+결국 정 씨 는 111 명 중 6 명 을 선발하 는 체육 특기 자 전형 종합 평가 에서 6 등 으로 합격 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+김구라 합의 이혼 “ 어머니 입장 도 고려하 지 않 을 수 없 었 다 ” 개그맨 김구라 가 결혼 18 년 만 에 합의 이혼 했 다 .	PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+김구 라는 25 일 오후 소속 사 인 라인 엔터테인먼트 를 통해 “ 저희 부부 는 금일 25 일 법원 이 정해 준 숙려 기간 을 거쳐 18 년 의 결혼 생활 을 합의 이혼 으로 마무리 하 게 되 었 습니다 ” 라고 이혼 소식 을 전 했 다 .	PER-B O DAT-B DAT-I O O O O ORG-B ORG-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김구라 는 “ 우선 , 많 은 분 들 이 어려 운 상황 속 에서 도 가정 을 지킨다고 응원해 주 셨 는데 , 실망스러 운 소식 전해 드리 게 되 어서 죄송합니다 ” 라고 유감 을 표 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아들 동현 의 양육 과 관련해선 “ 현재 고 2 인 동현이 는 성인 이 될 때 까지 저 와 함께 생활할 것 입니다 .	O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O
+짧 은 섬광 같 은 이미지 가 영화 의 한 장면 같이 나오 기 도 하 고 , 아주 디테일하 게 그날 의 일 들 을 복기한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O

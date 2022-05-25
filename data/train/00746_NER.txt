@@ -1,10 +1,10 @@
-롯데백화점과 현대백화점도 쇼핑·휴식·패션·취미를 한 곳에서 즐기+ㄹ 수 있는 남성 편집매장을 운영하+ㄴ다 .	ORG-B ORG-B O O O O O O O O O O
-화장품 코너>다양하+ㄴ 제품 한 곳에 그루밍족에게 화장품은 필수+이다 .	O O O O O O O O O
-카카오는 “앞으로 커뮤니케이션과 온디맨드(주문형 서비스), 핀테크, 사물인터넷, 콘텐트, 커머스 등 모바일 주요 서비스 영역 전반에서 변화와 혁신을 지속하겠다”고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-이날 이사회에서 +ㄴ 지나 +ㄴ8월 신임 대표에 내정되었던 임지훈(35) 내정자를 대표이사 및 사내이사로 선임하였다 .	O O O O O O O O PER-B O O O O O O
-6월 17일 열리+ㄴ 밴드 장미여관의 공연에는 1000여명이 몰리었다 .	O O O O ORG-B O O O O
-오래전부터 장거리 연애를 하+여 지금은 한국에 있다는 것 자체가 너무 가깝ㄴ 거+이다” +이라며 애정을 드러내+었다 .	O O O O O LOC-B O O O O O O O O O O
-이 총재는 22일 주요 기관 및 학계 인사들과 경제동향간담회를 열고 “대내외 경제여건의 불확실성이 점차 높아지고 있다”며 이같이 말하였다 .	PER-B O O O O O O O O O O O PER-B O O O PER-B O O
-송 변호사는 "특검은 문형표 전 보건복지부 장관이 삼성물산 합병대가로 국민연금이사장에 임명되었다고 주장하고 있다"며 "정말 당시에 이와 관련되 +ㄴ보도가 있었는가?"라고 묻었다 .	PER-B O O PER-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O
-전국 31개 중진공 지역본부와 지부에 등록되+ㄴ방대 하+ㄴ중기의 상품정보를 활용하+여 상품의 참신성과 품질을 기준으로 우수상품을 선정하+ㄴ다 .	O O ORG-B O O O O O O O O O O O O O
-통일원에 건 .	ORG-B O O
+롯데백화점 과 현대백화점 도 쇼핑 · 휴식 · 패션 · 취미 를 한곳 에서 즐길 수 있 는 남성 편집 매장 을 운영한다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+화장품 코너 > 다양한 제품 한곳 에 그루밍족 에게 화장품 은 필수 다 .	O O O O O O O O O O O O O O
+카카오 는 “ 앞 으로 커뮤니케이션 과 온 디맨드 ( 주문 형 서비스 ) , 핀테크 , 사물 인터넷 , 콘텐트 , 커머스 등 모바일 주요 서비스 영역 전반 에서 변화 와 혁신 을 지속하 겠 다 ” 고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 이사회 에선 지난 8 월 신임 대표 에 내정 됐 던 임지훈 ( 35 ) 내정자 를 대표 이사 및 사내 이사 로 선임 했 다 .	O O O O DAT-B DAT-I O O O O O O PER-B O O O O O O O O O O O O O O O
+6 월 17 일 열린 밴드 장미여관 의 공연 에 는 1000 여 명 이 몰 렸 다 .	DAT-B DAT-I DAT-I DAT-I O O ORG-B O O O O O O O O O O O O
+오래 전 부터 장거리 연애 를 해 지금 은 한국 에 있 다는 것 자체 가 너무 가까 운 거 다 ” 라며 애정 을 드러냈 다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+이 총재 는 22 일 주요 기관 및 학계 인사 들 과 경제 동향 간담회 를 열 고 “ 대내외 경제 여건 의 불확실성 이 점차 높아지 고 있 다 ” 며 이같이 말 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+송 변호사 는 " 특검 은 문형표 전 보건복지부 장관 이 삼성물산 합병 대가 로 국민 연금 이 사장 에 임명 됐 다고 주장하 고 있 다 " 며 " 정말 당시 에 이 와 관련된 보도 가 있 었 는가 ? " 라고 물 었 다 .	PER-B O O O O O PER-B O ORG-B O O ORG-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전국 31 개 중진공 지역 본부 와 지부 에 등록된 방대한 중기 의 상품 정보 를 활용해 상품 의 참신성 과 품질 을 기준 으로 우수 상품 을 선정한다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+통일원 에 건 의	ORG-B O O O

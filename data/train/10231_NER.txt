@@ -1,13 +1,13 @@
-강씨는 “처음에 계약해지를 당하고 굉장히 허탈하고 억울하였다”며 “나중에 김씨가 저+의 자리에 +아있더라. 분노를 느끼었다”고 +였다 .	PER-B O O O O O O O PER-B O O O O O O O
-중앙수비형 미드필더로 출전하+여전반수비에치중하였던 기성용도 후반에는 적극적으로 공격에 가담하며 몇 차례 위협적 이+ㄴ 장면을 연출하였다 .	O O O PER-B O O O O O O O O O O O
-‘8세 나이차’ 김지원-유연석 열애설, 모임동석++애정표현?“사실무근”부인++일 .	O O PER-B O O O
-하지만 교육부는 등급 상향 조정을 하지 않았다 .	O ORG-B O O O O O O
-캐나다의 경우 1976년 사형제를 없애+ㄴ후 살인율이 44% 감소하었다는 연구보고서를 근거로 하+ㄴ 것이다 .	ORG-B O O O O O O O O O O O O
-또 제품에 포함되 +ㄴ 카모밀레·라타니아·몰약 등 3가지 생약성분이 붓고 피나는 잇몸에 직접 작용 하+여 약효 발현이 신속하+ㄴ 것이 특징이다 .	O O O O O O O O O O O O O O O O O O O O
-온라인 중앙일보 jstar@j oongang. co.kr레드벨벳 [사진 인스타그램캡처 .	O O O O ORG-B O O O
-PC로 불리는 ‘정치적 올바르+ㅁ’은 인종차별, 종교적 편견 등을 금기시하는 일종의 사회문화적 운동으로 지나 +ㄴ 20∼30년간 미국에서 보편적이+ㄴ 불문율로 인식되+어+았다 .	O O O O O O O O O O O O O O O ORG-B O O O O
-그렇 +ㅁ에도 특히 미국에서의 수요는 더 이상 방치하+ㄹ 수 없을 정도로 늘었다 .	O O O ORG-B O O O O O O O O O
-그의 유작은 작고 1년 전, 국립극단 ‘백성희장민호극장’의 개관작으로 오르+ㄴ 연극 ‘3월의 눈’이다 .	O O O O O ORG-B ORG-B O O O O O O
-만약 이 같은 분석이 사실이라면, 인류가 지구상에서 어떻게 흩어 지+어 거주하게 +었는지에 대하+ㄴ 기존 학설이 근본적으로 바뀌게 되+ㄹ 것으로 뉴욕타임스는 지적하였다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O
-전남도와 여수시 공무원들은 지난해 7월 경남지역 어민들이 어선 400여 척을 동원하+여벌이+ㄴ 해상시위 때부터 상대 측에 대하+ㄴ 정보 수집과 재판준비, 의견서 제출, 보고서 작성 등에 시달리고 있다 .	LOC-B LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
-수도권 규제 완화에 대하+ㄴ 전향적 이+ㄴ 입장도 밝히었다 .	LOC-B O O O O O O O O
+강 씨 는 “ 처음 에 계약 해지 를 당하 고 굉장히 허탈하 고 억울 했 다 ” 며 “ 나중 에 김 씨 가 제 자리 에 와 있 더라 . 분노 를 느 꼈 다 ” 고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+중앙 수비 형 미드필더 로 출전해 전반 수비 에 치중 했 던 기성용 도 후반 에 는 적극적 으로 공격 에 가담하 며 몇 차례 위협적 인 장면 을 연출 했 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+‘ 8 세 나이 차 ’ 김지원 - 유연석 열애 설 , 모임 동석+ 애정 표현 ? “ 사실무근 ” 부인+ 일축	O O O O O O PER-B O PER-B O O O O O O O O O O O O O
+하지만 교육부 는 등급 상향 조정 을 하 지 않 았 다 .	O ORG-B O O O O O O O O O O O
+캐나다 의 경우 1976 년 사형 제 를 없앤 후 살인 율 이 44 % 감소 했 다는 연구 보고서 를 근거 로 한 것 이 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+또 제품 에 포함된 카모밀레 · 라타 니아 · 몰약 등 3 가지 생약 성분 이 붓 고 피나 는 잇몸 에 직접 작용해 약효 발현 이 신속한 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+온라인 중앙일보 jstar @ joongang . co . kr 레드 벨벳 [ 사진 인스타그램 캡처 ]	O O O O O O O O O ORG-B ORG-I O O O O O
+PC 로 불리 는 ‘ 정치적 올바름 ’ 은 인종 차별 , 종교적 편견 등 을 금기 시 하 는 일종 의 사회 문화적 운동 으로 지난 20 ∼ 30 년 간 미국 에서 보편적 인 불문율 로 인식돼 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+그럼에도 특히 미국 에서 의 수요 는 더 이상 방치할 수 없 을 정도 로 늘 었 다 .	O O ORG-B O O O O O O O O O O O O O O O O
+그 의 유작 은 작 고 1 년 전 , 국립 극단 ‘ 백성희 장민호 극장 ’ 의 개관 작 으로 오른 연극 ‘ 3 월 의 눈 ’ 이 다 .	O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
+만약 이 같 은 분석 이 사실 이 라면 , 인류 가 지구 상 에서 어떻 게 흩어져 거주하 게 됐 는지 에 대한 기존 학설 이 근본적 으로 바뀌 게 될 것 으로 뉴욕타임스 는 지적 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O
+전남 도 와 여수시 공무원 들 은 지난해 7 월 경남 지역 어민 들 이 어선 400 여 척 을 동원해 벌인 해상 시위 때 부터 상대 측 에 대한 정보 수집 과 재판 준비 , 의견서 제출 , 보고서 작성 등 에 시달리 고 있 다 .	LOC-B LOC-I O LOC-B O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수도권 규제 완화 에 대한 전향적 인 입장 도 밝 혔 다 .	LOC-B O O O O O O O O O O O O

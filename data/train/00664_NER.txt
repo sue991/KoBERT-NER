@@ -1,15 +1,15 @@
-‘풍문으로 듣었소’이준-고아성, 19금 베드신에 혼전 임신… 파격 vs 막장 ‘아슬아슬 .	O PER-B O O O O O O O O O
-배창호 프러덕션은 신은경에게 이미 지급 하+ㄴ 출연료 5천만원을 포함하+여도 중 하차로 빚어 지+ㄴ 금전적 손실배상을 청구하+ㄹ 방침이며 원만 하+ㄴ 합의가 이루어지지 않을 경우 법적 대응도 불사하겠다고 밝히었다 .	ORG-B ORG-I PER-B O O O O MNY-B O O O O O O O O O O O O O O O O O O O O
-당시 팬스타 라인닷컴은 구호물자를 무료로 수송하였다 .	O ORG-B ORG-I O O O O
-게비아는 이날 강연에서 공유경제를 “사람과 사람을 연결하는 사업”이라고 정의하였다 .	PER-B O O O O O O O O O
-‘우물쭈물하다 나+의 이렇+ㄹ줄 알았지.’ 버나드쇼의 묘비명으로 널리 알려지+어 있다 .	O O O O PER-B O O O O O
-수비 논란으로 촉발되 +ㄴ 전북과 서울의 신경전 서울 최용수 감독과 전북 최강희 감독은 지난해 11월 날카롭 ㄴ신경전을 벌이었다 .	O O O O ORG-B ORG-B O ORG-B PER-B O ORG-B PER-B O O O O O O O
-처음 립스틱을 접하였을 때부터 붉은색만 쓰다 보니 새롭ㄴ 색깔이 유행 하+ 여도 선뜻 도전하기가 두렵ㄴ 립스틱 계위정 척사(?)파.▼네개 브랜드 제품평▼○ 디올 어딕트립스틱 266 딜라이트(4만1000원/ 3.5g) 디올은 한번 바르기만 하+ 여도 생기 넘치는 입술을 연출 하+ㄹ 수 있는 어딕트립스틱을 선보이었다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O O MNY-B O ORG-B O O O O O O O O O O O O O O
-메모리카드는 국내 최대 용량이 +ㄴ 512GB까지 지원하며, 보기 편하+ㄴ 직관적 이+ㄴ GUI와 세계 각국 언어의 음성 안내, 자체 포맷, 포맷 프리 기능을 갖추고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-홍라온(김유정)의 춤이 왕세자 이영(박보검)을 위기로부터 구하였다 .	PER-B O O PER-B O O O
-15일 붙잡히 +ㄴ 흐엉은 범행을 저지르기 며칠 전부터 쿠알라룸푸르 공항 일대 호텔을 전전하였으며 13일 공항에서 김정남을 살해하+ㄴ 뒤돌아오아호텔 체크아웃을 하+ㄴ 것으로 알려지었다 .	O O O PER-B O O O O LOC-B LOC-I O O O O O PER-B O O O O O O O
-기업은행은 최근 핀테크벤처기업인 ㈜비바리퍼블리카와 모바일 송금 결제 서비스 이+ㄴ ‘토스(TOSS)’를 지원하는 업무협약을 체결하였다 .	ORG-B O O ORG-B O O O O O O O O O O
-특히 대졸 근로자의 임금이 7.9% 줄어 전문대졸(―6.7%), 고졸(―5.5%), 중졸 이하(―3.9%)에 비하+여임금 감소폭이 +었다 .	O O O O O O O O O O O O O O
-박근혜 대통령이 12일 신년기자회견에서 비핵화 과제를 이같이 설명하였다 .	PER-B O O O O O O O O
-오랜 세월을 건너+어다시 만나 +ㄴ 두 사람의 궁합은 좋다 .	O O O O O O O O O O
-그러나 APEC이 공동시장을 갖추+ㄴ 폐쇄적 이+ㄴ 경제공동체로 확고하게 자리 잡으려면 풀어야 하+ㄹ 숙제들이 산더미처럼 쌓이어 있다 .	O ORG-B O O O O O O O O O O O O O O O
+‘ 풍문 으로 들 었 소 ’ 이준 - 고 아성 , 19 금 베드 신 에 혼전 임신 … 파격 vs 막장 ‘ 아슬아슬 ’	O O O O O O O PER-B O PER-B PER-I O O O O O O O O O O O O O O O
+배창호 프러덕션 은 신은경 에게 이미 지급한 출연료 5 천만 원 을 포함해 도중하차 로 빚어진 금전 적 손실 배상 을 청구할 방침 이 며 원만한 합의 가 이뤄지 지 않 을 경우 법적 대응 도 불사하 겠 다고 밝 혔 다 .	ORG-B ORG-I O PER-B O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당시 팬스타 라인 닷컴 은 구호물자 를 무료 로 수송 했 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O
+게비 아 는 이날 강연 에서 공유 경제 를 “ 사람 과 사람 을 연결하 는 사업 ” 이라고 정의 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O
+‘ 우물쭈물하 다 내 이럴 줄 알 았 지 . ’ 버나드 쇼 의 묘비명 으로 널리 알려져 있 다 .	O O O O O O O O O O O PER-B PER-I O O O O O O O O
+수비 논란 으로 촉발된 전북 과 서울 의 신경전 서울 최용수 감독 과 전북 최강희 감독 은 지난해 11 월 날카로 운 신경전 을 벌 였 다 .	O O O O ORG-B O ORG-B O O ORG-B PER-B O O ORG-B PER-B O O O DAT-B DAT-I O O O O O O O O
+처음 립스틱 을 접 했 을 때 부터 붉은색 만 쓰 다 보 니 새로 운 색깔 이 유행해도 선뜻 도전하 기 가 두려 운 립스틱 계 위정척사 ( ? ) 파 . ▼ 네 개 브랜드 제품 평 ▼ ○ 디올 어딕트 립스틱 266 딜 라이트 ( 4 만 1000 원 / 3.5 g ) 디올 은 한 번 바르 기 만 해도 생기 넘치 는 입술 을 연출할 수 있 는 어딕트 립스틱 을 선보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+메모리 카드 는 국내 최대 용량 인 512 GB 까지 지원하 며 , 보 기 편한 직관적 인 GUI 와 세계 각국 언어 의 음성 안내 , 자체 포맷 , 포맷 프리 기능 을 갖추 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+홍 라온 ( 김유정 ) 의 춤 이 왕세자 이영 ( 박 보검 ) 을 위기 로부터 구 했 다 .	PER-B PER-I O PER-B O O O O O PER-B O PER-B PER-I O O O O O O O O
+15 일 붙잡힌 흐엉 은 범행 을 저지르 기 며칠 전 부터 쿠알라룸푸르 공항 일대 호텔 을 전전 했 으며 13 일 공항 에서 김정남 을 살해한 뒤 돌아 와 호텔 체크아웃 을 한 것 으로 알려 졌 다 .	DAT-B DAT-I O PER-B O O O O O O O O LOC-B LOC-I O O O O O O DAT-B DAT-I O O PER-B O O O O O O O O O O O O O O O
+기업은행 은 최근 핀테크 벤처 기업인 ㈜ 비바리 퍼블리카 와 모바일 송금 결제 서비스 인 ‘ 토스 ( TOSS ) ’ 를 지원하 는 업무 협약 을 체결 했 다 .	ORG-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+특히 대졸 근로자 의 임금 이 7.9 % 줄 어 전문대 졸 ( ― 6.7 % ) , 고졸 ( ― 5.5 % ) , 중졸 이하 ( ― 3.9 % ) 에 비해 임금 감소 폭 이 컸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박근혜 대통령 이 12 일 신년 기자 회견 에서 비 핵 화 과제 를 이같이 설명 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O
+오랜 세월 을 건너 다시 만난 두 사람 의 궁합 은 좋 다 .	O O O O O O O O O O O O O O
+그러나 APEC 이 공동 시장 을 갖춘 폐쇄적 인 경제 공동체 로 확고하 게 자리 잡 으려면 풀 어야 할 숙제 들 이 산더미 처럼 쌓 여 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O

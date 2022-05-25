@@ -1,12 +1,12 @@
-또한 이날로만 21세 1개월 24일이 되+ㄴ 김시우는 1978년 세베바예스테로(20세 11개월 24일) 이후 역대 두 번째 최연소 우승기록을 세우었다 .	O O O O O O PER-B O PER-B O O O O O O O O O O
-넥슨 일본법인은 넥슨코리아를 통하+여일렉트로닉 아츠(EA)와 리스폰 엔터테인먼트가 개발하+ㄴ일인칭 슈팅(FPS) 게임 ‘EA 타이탄폴’의 온라인 버전 개발 및 아시아 지역 퍼블리싱 계약을 체결하였다고 29일 밝히었다 .	ORG-B ORG-I ORG-B ORG-B ORG-B ORG-B ORG-I O O O ORG-B O O O O O LOC-B O O O O O O O
-구단의 미래를 위하+여유소년지도 경험이 많은 최 감독이 적임자+이라고 판단하였다”고 설명하였다 .	O O O O O PER-B O O O O O
-동시에 너무 유명 하+ㄴ 남편 빌 클린턴(69) 전 대통령과 여론을 피하+여 꼭 꼭 숨어 오+ㄴ젭 부시 전 지사의 아내 콜룸 바 부시(62) 간의 극과 극배우자 대결이 숨어 있다 .	O O O O O PER-B PER-I O O O O O O O PER-B PER-I O O O PER-B O O O O O O O O O
-짐머맨은 “오늘 경기의 유일하+ㄴ 실수+이었다”고 말하였다 .	PER-B O O O O O O
-동시에 서울시는 해당 경유차 차주에게 저공해 장비 장착을 위하+ㄴ보조금을 지급하+ㄴ다 .	O ORG-B O O O O O O O O O
-2년 연속 200안타도 전도 그렇게 끝나 +았다 .	O O O O O O O O
-크기나 가격에 상관없이 자동차는 일반적으로 4개의 타이어를 통하+여지면과 접촉 하+ㄴ다 .	O O O O O O O O O O O
-성공을 자신하는 근거가 무엇이 +ㄴ가. 한국은 선진 산업국이다 .	O O O O O ORG-B O O O
-과거 유럽 지역의 은행 4곳은 현금자동인출 기 부품과 유지보수 서비스 구매를 위하+ㄴ컨소시엄을 구성하+ 여 통합구매를 진행하면서 비용을 25% 줄이었다 .	O LOC-B O O O O O O O O O O O O O O O O O O
-수비력은 검증되었다는 평의 박지규(24) 역시 타석에서는 횟수가 늘면서 타율(0.292)도 3할에 가깝어+지었다 .	O O O PER-B O O O O O O O O
-개점 하+ㄴ지 3년밖에 되지 않았으나 벌써부터 외국인 밀집주거지역이+ㄴ 인근의 트렌드세터들이 즐기+어 찾는 음식 한류의 명소로 자리매기+ㅁ+하었다 .	O O O O O O O O O O O O O O O O O
+또한 이날 로 만 21 세 1 개월 24 일 이 된 김시우 는 1978 년 세베 바예스테 로 ( 20 세 11 개월 24 일 ) 이후 역대 두 번째 최연소 우승 기록 을 세 웠 다 .	O O O O O O O O O O O O PER-B O DAT-B DAT-I PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O
+넥슨 일본 법인 은 넥슨 코리아 를 통해 일렉트로닉 아츠 ( EA ) 와 리스 폰 엔터테인먼트 가 개발한 일 인칭 슈팅 ( FPS ) 게임 ‘ EA 타이탄 폴 ’ 의 온라인 버전 개발 및 아시아 지역 퍼블리싱 계약 을 체결 했 다고 29 일 밝 혔 다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I O O ORG-B ORG-I O ORG-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O DAT-B DAT-I O O O O
+구단 의 미래 를 위해 유소년 지도 경험 이 많 은 최 감독 이 적임자 라고 판단 했 다 ” 고 설명 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+동시 에 너무 유명한 남편 빌 클린턴 ( 69 ) 전 대통령 과 여론 을 피해 꼭꼭 숨 어 온 젭 부시 전 지사 의 아내 콜 룸바 부시 ( 62 ) 간 의 극 과 극 배우자 대결 이 숨 어 있 다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O PER-B PER-I O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O
+짐머맨 은 “ 오늘 경기 의 유일한 실수 였 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O
+동시 에 서울시 는 해당 경유 차 차주 에게 저 공해 장비 장착 을 위한 보조금 을 지급한다 .	O O ORG-B O O O O O O O O O O O O O O O O
+2 년 연속 200 안타 도전 도 그렇 게 끝났 다 .	O O O O O O O O O O O O
+크기 나 가격 에 상관 없이 자동차 는 일반적 으로 4 개 의 타이어 를 통해 지면 과 접촉한다 .	O O O O O O O O O O O O O O O O O O O O
+성공 을 자신하 는 근거 가 무엇 인가 . 한국 은 선진 산업 국 이 다 .	O O O O O O O O O ORG-B O O O O O O O
+과거 유럽 지역 의 은행 4 곳 은 현금 자동 인출기 부품 과 유지 보수 서비스 구매 를 위한 컨소시엄 을 구성해 통합 구매 를 진행하 면서 비용 을 25 % 줄 였 다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수비력 은 검증 됐 다는 평 의 박지규 ( 24 ) 역시 타석 에 서 는 횟수 가 늘 면서 타율 ( 0.292 ) 도 3 할 에 가까 워 졌 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+개점한 지 3 년 밖에 되 지 않 았 으나 벌써 부터 외국인 밀집 주거 지역 인 인근 의 트렌드 세터 들 이 즐겨 찾 는 음식 한류 의 명소 로 자리 매김 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

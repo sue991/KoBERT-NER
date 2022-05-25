@@ -1,14 +1,14 @@
-지구 곳곳 “어글리코리언”/ 공보처 해외 사례 모으아 발 .	LOC-B O O O O O O O O
-언론과 각종 자료를 통하+여중국과 대만 관계를 뜻하는 ‘양안 관계’(兩岸關係)에 대하+여 알아보았다 .	O O O ORG-B ORG-B O O O O O O O
-쟁점과 토론지금의 중국(중화인민공화국)과 대만(중화민국)은 하나 이면서도 둘이다 .	O O ORG-B ORG-B O O O O
-21일부터 22일까지 이틀간 산악스키 동호인 50여명이 참석하+ㄴ 가운데 빅토리아, 아폴로 등 6면의 슬로프에서 산악 스키 훈련과 병행 하+ㄴ 시범 운영을 실시하였다 .	O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O
-버물리는 출시 이후 벌레 물림치료제 시장의 부동의 1위 제품이기도 하다 .	O O O O O O O O O O O
-한편 2016 올해의 차는 현대차 ‘EQ900’과 ‘아반떼’, 기아차 ‘스포티지’, 쌍용차 ‘티볼리’, 한국GM ‘임팔라’, 렉서스 ‘ES300h’, BMW 7 시리즈와 ‘i8’, 재규어 ‘XE’, 랜드로버 ‘디스커버리 스포츠’ 등 10개 모델이 최종 후보에 오르 아경합을 벌이었다 .	O O O O ORG-B O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O ORG-B O ORG-B O O O O O O O O O O O
-그러면서민 의원은 “그 분은 수없이 많은 공약을 얘기하었지만 그 공약을 지키려는 진전이 없었고, 이행 하+ㄴ바도 없다”며 “정말 그분이 경남도지사로 있는 것도 경남도민들한테는 불행”이라고 비난하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O
-세계 2위 수출대국으로 자동차와 환경을 중시하는 독일은 수출이 국내총생산(GDP)의 45.6%를 차지하며, 일자리 5개 가운데 1개가 자동차 산업과 관련이 있다 .	O O O O O O ORG-B O O O O O O O O O O O O O
-보+ㄴ인양은 마무리까지 1분 1초가 예민하+ㄴ 작업이다 .	O O O O O O O
-오송은 질병관리본부가 있는 충북 청주시 흥덕구 오송읍을 가리키+ㄴ다 .	LOC-B ORG-B O LOC-B LOC-B LOC-B LOC-B O O
-특히 질염은 나이에 상관없이 여성이라면 흔히 걸리+ㄹ 수 있는 질환이기 때문에 청소년뿐만 아니라 소아, 임신부, 수유부 등 모든 여성에게 질나+의 유익균 증식을 위하+ㄴ 유산균 섭취는 필수+이라는 점을 잊지 말자. Editor’sPick▼유산균 증식을 통하+여 여성질 건강에 도움을 주는 ‘엘레나’ ▼ 여성질환 예방을 위하+ㄴ 멀티 유산균 유한양행 엘레나는 국내 최초로 식약처에서 질 건강에 도움을 주는 기능을 인정받은 ‘UREX 프로바이오틱스’를 원료로 사용 하+여 효과적이고 안전하다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-시즌 타율은 이치로 답지 않은 2할 2푼9리로 끝내 +었다 .	O O PER-B O O O O O O O
-결국 복면을 벗은 솜사탕은 그룹 다 비하지 멤버 강민경이었다 .	O O O PER-B O O O O PER-B O
-특히 민소매와 반팔 티셔츠, 비니 등 편안하+ㄴ 차림에도 스타일리쉬한 분위기를 풍기는 방탄소년들 멤버들의 모습이 시선을 사로잡는다 .	O O O O O O O O O O O ORG-B ORG-I O O O O
+지구 곳곳 “ 어글리 코리언 ” / 공보 처 해외 사례 모 아 발표	LOC-B O O O O O O O O O O O O O
+언론 과 각종 자료 를 통해 중국 과 대만 관계 를 뜻하 는 ‘ 양안 관계 ’ ( 兩岸關係 ) 에 대해 알아 봤 다 .	O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+쟁점 과 토론 지금 의 중국 ( 중화 인민공화국 ) 과 대만 ( 중화민국 ) 은 하나 이 면서 도 둘 이 다 .	O O O O O ORG-B O ORG-B ORG-I O O ORG-B O ORG-B O O O O O O O O O O
+21 일 부터 22 일 까지 이틀 간 산악 스키 동호인 50 여 명 이 참석한 가운데 빅토리아 , 아폴로 등 6 면 의 슬로프 에서 산악 스키 훈련 과 병행한 시범 운영 을 실시 했 다 .	O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O
+버물리 는 출시 이후 벌레 물림 치료제 시장 의 부동 의 1 위 제품 이 기 도 하 다 .	O O O O O O O O O O O O O O O O O O O O
+한편 2016 올해 의 차 는 현대차 ‘ EQ 900 ’ 과 ‘ 아반떼 ’ , 기아차 ‘ 스포티지 ’ , 쌍용차 ‘ 티볼리 ’ , 한국 GM ‘ 임팔라 ’ , 렉서스 ‘ ES 300 h ’ , BMW 7 시리즈 와 ‘ i 8 ’ , 재규어 ‘ XE ’ , 랜드로버 ‘ 디스커버리 스포츠 ’ 등 10 개 모델 이 최종 후보 에 올 라 경합 을 벌 였 다 .	O DAT-B O O O O ORG-B O O O O O O O O O ORG-B O O O O ORG-B O O O O ORG-B ORG-I O O O O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+그러 면서 민 의원 은 “ 그분 은 수없이 많 은 공약 을 얘기 했 지만 그 공약 을 지키 려는 진전 이 없 었 고 , 이행한 바 도 없 다 ” 며 “ 정말 그분 이 경남 도지사 로 있 는 것 도 경남 도민 들 한테 는 불행 ” 이라고 비난 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세계 2 위 수출 대국 으로 자동차 와 환경 을 중시하 는 독일 은 수출 이 국내총생산 ( GDP ) 의 45.6 % 를 차지하 며 , 일자리 5 개 가운데 1 개 가 자동차 산업 과 관련 이 있 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+본 인양 은 마무리 까지 1 분 1 초 가 예민한 작업 이 다 .	O O O O O O O O O O O O O O O
+오송은 질병 관리 본부 가 있 는 충북 청주시 흥덕구 오송 읍 을 가리킨다 .	O ORG-B ORG-I ORG-I O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O
+특히 질염 은 나이 에 상관없이 여성 이 라면 흔히 걸릴 수 있 는 질환 이 기 때문 에 청소년 뿐 만 아니 라 소아 , 임신부 , 수유 부 등 모든 여성 에게 질 내 유익 균 증식 을 위한 유산균 섭취 는 필수 라는 점 을 잊 지 말 자 . Editor ’ s Pick ▼ 유산균 증식 을 통해 여성 질 건강 에 도움 을 주 는 ‘ 엘레나 ’ ▼ 여성 질환 예방 을 위한 멀티 유산균 유한양행 엘레나 는 국내 최초 로 식약처 에서 질 건강 에 도움 을 주 는 기능 을 인정받 은 ‘ UREX 프로바이오틱스 ’ 를 원료 로 사용해 효과적 이 고 안전하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시즌 타율 은 이치 로 답지 않 은 2 할 2 푼 9 리 로 끝냈 다 .	O O O PER-B PER-I O O O O O O O O O O O O O
+결국 복면 을 벗 은 솜사탕 은 그룹 다비 치 멤버 강민경 이 었 다 .	O O O O O PER-B O O ORG-B ORG-I O PER-B O O O O
+특히 민소매 와 반팔 티셔츠 , 비니 등 편안한 차림 에 도 스타 일리 쉬 한 분위기 를 풍기 는 방탄 소년 들 멤버 들 의 모습 이 시선 을 사로잡 는다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O

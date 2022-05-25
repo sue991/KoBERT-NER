@@ -1,12 +1,12 @@
-이들의 울컥 하+ㄴ 마음을 트럼프가 파고들 +ㄴ 것이다 .	O O O O PER-B O O O O
-23일 임씨는 자신의 소셜네트워크 서비스(SNS)에 "1103일 만이 +ㄴ 어제 엄마 품에 돌아오+ㄴ 외동아들 승현이의 캐리어와 지갑"이라며 사진 다섯 장을 게재하였다 .	O PER-B O O O O O O O O O O O PER-B O O O O O O O
-골드만삭스 등 투자은행에도 직접 전화를 걸어 의견을 구하였다 .	ORG-B O O O O O O O O
-단둥 하+ㅁ은 이 사건 직후에도 남중국해 융수자 오(永暑礁) 인근에서 순찰 도중 미국의 9200t급 구축함이 +ㄴ라센함에도 경고 후 돌진하+여들어가 +았으며 라센함도 ＂ 잘못 들어 오았다 ＂는 신호를 남기고 떠나 +았다고 밍보는 전하였다 .	O O O O O LOC-B LOC-B LOC-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-경기 전신바람을 내+었던 스완 지시티팬들은 경기 시작 후에는 갑자기 심각 하+여지며 조용하여 +지+었다 .	O O O O O O O O O O O O O O
-시장에서는 8월 사업재편과 선제적 구조조정을 지원하는 기업활력제고특별법(일명 원샷법) 시행에 발맞추+어 작업이 진행되+ㄹ 가능성을 높게 보고 있다 .	O O O O O O O O O O O O O O O O O
-“한국 술 독립운동을 하+여야 +하겠다고 작정 하+ㄴ지 15년 만의 결단”이었다고 하+ㄴ다 .	ORG-B O O O O O O O O O O O
-“1990년 회사에서 스코틀랜드로 2년간 유학을 보내+어주어요. 양조학 석사과정이었는데 파티 때 지도교수가 자기 나라의 술을 가져오라고 하더라고요.인 삼주를 갖고 가+았죠. 그 양반이 ‘한국 사람들은 술과약을 구분하고서 +ㄴ 마시나’고 농담을 던지었는데, 학생들이 배를 잡고 웃더라고요. 유학생 중에 +ㄴ 일본 아사히·산토리 소속 친구들도 있었는데 일본 사케와 위스키는 훌륭하다고들 +였죠. 자존심이 정말 상하었습니다 .	O O LOC-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B ORG-B O O O ORG-B O O O O O O O O
-우리가 40여년 만에 이루+ㄴ 전기혁명을 아프리카에 수출 하+ㄴ다면 미래 성장의 교두보를 확보하+ㄹ 수 있다 .	O O O O O LOC-B O O O O O O O O O
-집에 들어가니까 또 다른 가면 쓰+ㄴ분이 기타 치고 '너+ㄹ 사랑하겠어'를 부르어 +주었다 .	O O O O O O O O O O O O O
-[Money&Life]삼성자산운용, 13개 ELS에 분산투자 효과로 안정적 수익 .	ORG-B O O O O O O O
-박찬숙 파산신청, 돈 빌리+어주+ㄴ 채권자 “소득 있으면서 채무회피하고 있다 .	PER-B O O O O O O O O O
+이 들 의 울컥한 마음 을 트럼프 가 파고든 것 이 다 .	O O O O O O PER-B O O O O O O
+23 일 임 씨 는 자신 의 소셜 네트워크 서비스 ( SNS ) 에 " 1103 일 만 인 어제 엄마 품 에 돌아온 외동아들 승현이 의 캐리어 와 지갑 " 이 라며 사진 다섯 장 을 게재 했 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+골드만삭스 등 투자 은행 에 도 직접 전화 를 걸 어 의견 을 구 했 다 .	ORG-B O O O O O O O O O O O O O O O O
+단둥 함 은 이 사건 직후 에 도 남중국해 융 수자 오 ( 永暑礁 ) 인근 에서 순찰 도중 미국 의 9200 t 급 구축함 인 라센함 에 도 경고 후 돌진해 들어갔 으며 라센함 도 ＂ 잘못 들어 왔 다 ＂ 는 신호 를 남기 고 떠났 다고 밍 보 는 전 했 다 .	O O O O O O O O LOC-B LOC-B LOC-I LOC-I O LOC-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경기 전 신바람 을 냈 던 스완지시티 팬 들 은 경기 시작 후 에 는 갑자기 심각해 지 며 조용해 졌 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O
+시장 에서 는 8 월 사업 재편 과 선제 적 구조 조정 을 지원하 는 기업 활력 제고 특별법 ( 일명 원샷 법 ) 시행 에 발맞춰 작업 이 진행될 가능성 을 높 게 보 고 있 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 한국 술 독립운동 을 해야 겠 다고 작정한 지 15 년 만 의 결단 ” 이 었 다고 한다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
+“ 1990 년 회사 에서 스코틀랜드 로 2 년 간 유학 을 보내 줬 어요 . 양조 학 석사 과정 이 었 는데 파티 때 지도 교수 가 자기 나라 의 술 을 가져오 라고 하 더라고요 . 인삼주 를 갖 고 갔 죠 . 그 양반 이 ‘ 한국 사람 들 은 술 과 약 을 구분하 고선 마시 나 ’ 고 농담 을 던 졌 는데 , 학생 들 이 배 를 잡 고 웃 더라고요 . 유학생 중 엔 일본 아사히 · 산토리 소속 친구 들 도 있 었 는데 일본 사케 와 위스키 는 훌륭하 다고 들 했 죠 . 자존심 이 정말 상 했 습니다 .	O DAT-B DAT-I O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+우리 가 40 여 년 만 에 이룬 전기 혁명 을 아프리카 에 수출한다면 미래 성장 의 교두보 를 확보할 수 있 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O
+집 에 들어가 니까 또 다른 가면 쓴 분 이 기타 치 고 ' 널 사랑하 겠 어 ' 를 불 러 줬 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+[ Money & Life ] 삼성 자산 운용 , 13 개 ELS 에 분산 투자 효과 로 안정적 수익 外	O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O
+박찬숙 파산 신청 , 돈 빌려 준 채권자 “ 소득 있 으면서 채무 회피하 고 있 다 ”	PER-B O O O O O O O O O O O O O O O O O

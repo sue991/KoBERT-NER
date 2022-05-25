@@ -1,12 +1,12 @@
-클린턴 후보가 주도하는 판세를 뒤엎으려면 지지층 결집만이 해법이라고 판단하+ㄴ듯 하었다 .	PER-B O O O O O O O O O O
-SPC그룹이노베이션랩의 손병근 상무는 “최근 들어 간식 정도로 인식하었던 식빵을 식사 대용으로 활용하는 소비자가 증가하였고 이 때문에 건강까지 생각 하+ㄴ 잡곡식빵에 대하+ㄴ 관심이 증가하는 분위기”라고 설명하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-SK, 9년의 꿈이 이루어 지+ㄴ 순간 SK는 31일 창단 15주년을 맞았다 .	ORG-B O O O O O ORG-B O O O O O
-지난해까지는 그 점을 감안하+여등 판 간격을 조절하었다”며 “올해 박정진은 전혀 다르더라. 모두가 그의 한계+이라고 생각하+ㄴ 지점을 뛰어넘었다”고 설명하였다 .	O O O O O O O O PER-B O O O O O O O O O O
-인하대병원은 정부 산하 국립장기이식센터가 지정 하+ㄴ ‘뇌사판정 대상자 관리병원’이다 .	ORG-B O O O O O O O O O
-28일 대구구장에서 열리+ㄴ 선두삼성과의 방문 경기.4-3으로 앞서 +ㄴ 4회초 1사 2, 3루에서 kt마르테는 삼성의 선발 투수 차우찬이 던지+ㄴ 공을 왼쪽으로 때리+어 경기장 밖으로 날리+어버리었다 .	O LOC-B O ORG-B O O O O O O O O ORG-B ORG-B O O PER-B O O O O O O O O
-동아닷컴 디지털뉴스팀 기사 제보 dnews@donga. com론 .	ORG-B ORG-I O O O O O
-창당대회 아르바이트 생부터 시작하+ㄴ 정치이지만 13년이 지나 +았으면 생계를 고민하게 되지 않느냐는 질문이었다 .	O O O O O O O O O O O O O O
-박인비 반려견 위하+여다음 경기 출전포기 하+ㄴ .	PER-B O O O O O O
-LG전자, ‘스타일러스2플러스’ 글로벌 출시 …펜 타입 5.7인치 대화면 스마트 .	ORG-B O O O O O O O O O
-1일 서울의 최저기온이 영하 10도에 달하+ㄹ 정도로 한파가 몰려 오+ㄴ 가운데 ‘겨울 장염’이 기승을 부리고 있다 .	O LOC-B O O O O O O O O O O O O O O O
-주부 김진아(36·강남구 역삼동)씨는 최근 초등학교 1학년 아들을 위하+여 3만원짜리 미니드론을 구매하였다 .	O LOC-B LOC-B O O O O O MNY-B O O O
+클린턴 후보 가 주도하 는 판세 를 뒤엎 으려면 지지층 결집 만 이 해법 이 라고 판단한 듯 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+SPC 그룹 이노베이션 랩 의 손병근 상무 는 “ 최근 들 어 간식 정도 로 인식 했 던 식빵 을 식사 대용 으로 활용하 는 소비자 가 증가 했 고 이 때문 에 건강 까지 생각한 잡곡 식빵 에 대한 관심 이 증가하 는 분위기 ” 라고 설명 했 다 .	ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+SK , 9 년 의 꿈 이 이뤄진 순간 SK 는 31 일 창단 15 주년 을 맞 았 다 .	ORG-B O DAT-B DAT-I O O O O O ORG-B O DAT-B DAT-I O O O O O O O O
+지난해 까지 는 그 점 을 감안해 등판 간격 을 조절 했 다 ” 며 “ 올해 박정진 은 전혀 다르 더라 . 모두 가 그 의 한계 라고 생각한 지점 을 뛰어넘 었 다 ” 고 설명 했 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+인하대병원 은 정부 산하 국립 장기 이식 센터 가 지정한 ‘ 뇌사 판정 대상자 관리 병원 ’ 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+28 일 대구구장 에서 열린 선두 삼성 과 의 방문 경기 . 4 - 3 으로 앞선 4 회 초 1 사 2 , 3 루 에서 kt 마르테 는 삼성 의 선발 투수 차우찬 이 던진 공 을 왼쪽 으로 때려 경기장 밖 으로 날려 버 렸 다 .	DAT-B DAT-I LOC-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O ORG-B O O O PER-B O O O O O O O O O O O O O O O
+동아닷컴 디지털 뉴스 팀 기사 제보 dnews @ donga . com 론다	ORG-B ORG-I ORG-I ORG-I O O O O O O O O
+창당 대회 아르바이트 생 부터 시작한 정치 이 지만 13 년 이 지났 으면 생계 를 고민하 게 되 지 않 느냐는 질문 이 었 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+박인비 반려 견 위해 다음 경기 출전 포기한다	PER-B O O O O O O O
+LG 전자 , ‘ 스타일러스 2 플러스 ’ 글로벌 출시 … 펜 타입 5.7 인치 대화면 스마트 폰	ORG-B ORG-I O O O O O O O O O O O O O O O O
+1 일 서울 의 최저 기온 이 영하 10 도 에 달할 정도 로 한파 가 몰려온 가운데 ‘ 겨울 장염 ’ 이 기승 을 부리 고 있 다 .	DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주부 김진아 ( 36 · 강남구 역삼동 ) 씨 는 최근 초등학교 1 학년 아들 을 위해 3 만 원 짜리 미니 드론 을 구매 했 다 .	O PER-B O O O LOC-B LOC-B O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O

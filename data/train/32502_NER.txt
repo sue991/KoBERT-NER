@@ -1,13 +1,13 @@
-한밤이태임, 5개월 침묵 깨고 예원 언급… “지나 +ㄹ수록 후회가 많이 +었다 .	PER-B O O O PER-B O O O O O O O
-광산가동률도 대부분 50%에 미치지 못하고 있는데 .	O O O O O O O
-2년 뒤 인근 아파트 단지에 김포도시철도도 개통하면 여의도는 20분이면 충분히 가+ㄹ 것으로 보이+ㅂ니다 .	O O O O O LOC-B O LOC-B O O O O O O
-”23일 송희용 한화건설 분양소장은 경기도 김포시 풍무5지구 3~5블록 일원에 들어서 +ㄹ ‘김포풍무 꿈에그린 2차’가 분양가격과 서울 접근성 측면에서 수요자들의 만족도를 높이어주+ㄹ 것이라고 강조하였다 .	LOC-I PER-B ORG-B O LOC-B LOC-B LOC-I LOC-I O O O LOC-B LOC-I LOC-I O LOC-B O O O O O O O O
-민자당의 곽영달 의원 등은 『김일성의 사주를 받는 집단이사회 혼란을 야기하는 것도 크+ㄴ문제』+이라며 최근 한총련 등의 친북용 공언행을 우려하였다 .	ORG-B PER-B O O PER-B O O O O O O O O ORG-B O O O O O
-지난주(0.01%)보다 오름폭이 소폭 커지었다 .	O O O O O
-시청률은 2.238%(전국유료방송 가구 기준)를 기록하였다 .	O O O O O O
-그는 18세기 풍의 엔티크 소파를 구입하+ 여 수많은 색깔의 점을 찍었습니다 .	O O O O O O O O O O O O
-오스트리아 비엔나 대학에서 실시하+ㄴ 연구에 따르면 매일 약 200g 정도의 요거트를 섭취하+ㄹ 경우, 면역력 증진을 위하 +ㄴ약을 먹는 것과 같은 효과를 보+ㄹ 수 있다고 하+ㄴ다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
-강원지역 대학을 졸업 하+ㄴ 뒤 2014년 12월 중소기업에 취업하+ㄴ 김씨는 잦은 출장과 낮은 임금으로 인하+여퇴사를 결심하였다 .	LOC-B O O O O O O O O PER-B O O O O O O O
-홍혜선, “자기가 원하+여서 피난 … 자신들이 불안하+여서 가+ㄴ 것 .	PER-B O O O O O O O O O
-주목 하+ㄹ점은 영업정지 첫날 SK텔레콤의 가입자 수 감소가 6066명에 그치었다는 것이다 .	O O O O ORG-B O O O O O O O
-남녀 공용 색상은 카키 1가지며 남성용 색상은 네이비 1가지 +이다 .	O O O O O O O O O O O
+한밤 이태임 , 5 개월 침묵 깨 고 예원 언급 … “ 지날수록 후회 가 많이 됐 다 ”	O PER-B O O O O O O PER-B O O O O O O O O O O
+광산 가동률 도 대부분 50 % 에 미치 지 못하 고 있 는 데 다	O O O O O O O O O O O O O O O
+2 년 뒤 인근 아파트 단지 에 김포 도시 철도 도 개통하 면 여의도 는 20 분 이 면 충분히 갈 것 으로 보입니다 .	O O O O O O O LOC-B LOC-I LOC-I O O O LOC-B O O O O O O O O O O O
+” 23 일 송희용 한화 건설 분양 소장 은 경기도 김포시 풍 무 5 지구 3 ~ 5 블록 일원 에 들어설 ‘ 김포 풍 무 꿈에 그린 2 차 ’ 가 분양 가격 과 서울 접근성 측면 에서 수요자 들 의 만족도 를 높 여 줄 것 이 라고 강조 했 다 .	O DAT-B DAT-I PER-B ORG-B ORG-I O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+민자당 의 곽영달 의원 등 은 『 김일성 의 사주 를 받 는 집단 이 사회 혼란 을 야기하 는 것 도 큰 문제 』 라며 최근 한총련 등 의 친 북 용공 언행 을 우려 했 다 .	ORG-B O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+지난주 ( 0.01 % ) 보다 오름폭 이 소폭 커 졌 다 .	O O O O O O O O O O O O O
+시청률 은 2.238 % ( 전국 유료 방송 가구 기준 ) 를 기록 했 다 .	O O O O O O O O O O O O O O O O
+그 는 18 세기 풍 의 엔 티크 소파 를 구입해 수많 은 색깔 의 점 을 찍 었 습니다 .	O O O O O O O O O O O O O O O O O O O O O
+오스트리아 비엔나 대학 에서 실시한 연구 에 따르 면 매일 약 200 g 정도 의 요거트 를 섭취할 경우 , 면역력 증진 을 위한 약 을 먹 는 것 과 같 은 효과 를 볼 수 있 다고 한다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강원 지역 대학 을 졸업한 뒤 2014 년 12 월 중소기업 에 취업한 김 씨 는 잦 은 출장 과 낮 은 임금 으로 인해 퇴사 를 결심 했 다 .	LOC-B O O O O O DAT-B DAT-I DAT-I DAT-I O O O PER-B O O O O O O O O O O O O O O O O O
+홍혜선 , “ 자기 가 원해서 피난 … 자신 들 이 불안해서 간 것 ”	PER-B O O O O O O O O O O O O O O
+주목할 점 은 영업정지 첫날 SK 텔레콤 의 가입자 수 감소 가 6066 명 에 그 쳤 다는 것 이 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+남녀 공용 색상 은 카키 1 가지 며 남성 용 색상 은 네이비 1 가지 다 .	O O O O O O O O O O O O O O O O O

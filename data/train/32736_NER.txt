@@ -1,11 +1,11 @@
-이 기회에 김일성도 이미 온 세계가 다짐작하게 되+ㄴ 핵전략에 있어 솔직하+여지+ㄹ 필요가 있다 .	O O PER-B O O O O O O O O O O O
-석유시추 장비 계약 줄줄이 취소 … 해외건설 2015년 수주액 31% 줄 .	O O O O O O O O O O O O
-시카고 태생의 오바마는 지난해 WS에서 고향 팀 컵스를 응원하였다 .	LOC-B O PER-B O O O O ORG-B O O
-삼성은 "정책 및 경영환경 변화에 맞추+어 다양하+ㄴ 가능성을 열고 검토를 진행 중"이라고 밝히었으며 여러 공장 후보지를 놓고 조율하고 있는 단계 이+ㄴ 것으로 알려지었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-케이로스 감독은 매경기 선발 출전 명단에 변화를 +었다 .	PER-B O O O O O O O O
-미국에서 가장 부유 하+ㄴ 개인은 82억달러를 지니 +ㄴ 마이크로소프트 사 창업자 빌 게이츠로 종합순위 6위에 랭크되었다 .	ORG-B O O O O MNY-B O O O O O PER-B PER-I O O O O
-이하늬는 "언니가 더 예쁘다 .	PER-B O O O O
-기존 아파트의 40% 정도에 해당하는 새 아파트가 올해부터 2018년까지 차례로 완공되+ㄴ다 .	O O O O O O O O O O O O
-이 사건을 수사하+여오+ㄴ부산지검은 그동안 이 아파트 개발회사(시행사)이 +ㄴ 엘시티의 실질 소유주 이영복 회장과 현기환 전 청와대 정무수석, 배덕광 새누리당 의원, 전기룡 전 부산시 경제특보 등을 뇌물공여·수수 혐의로 구속기소하였습니다 .	O O ORG-B O O O O O O O O PER-B O O O ORG-B O PER-B ORG-B O PER-B O ORG-B O O O O O O
-인프라웨어는 iOS, 안드로이드용 무료 오피스 앱이+ㄴ 폴라리스 오피스(www.pol arisoffice. com)를 통하+여 전 세계 8억명에 달하는 이용자를 확보하였으며, 지나 +ㄴ 1월, PC버전 폴라리스 오피스 2015을 발표, 한층 다양하+ㄴ 플랫폼으로 시장 확대를 노리고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-폴라리스 오피스의 가장 크+ㄴ 경쟁력은 폭넓은 문서 호환성이다 .	PER-B PER-I O O O O O O O
+이 기회 에 김일성 도 이미 온 세계 가 다 짐작하 게 된 핵전략 에 있 어 솔직해 질 필요 가 있 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O
+석유 시추 장비 계약 줄줄이 취소 … 해외 건설 2015 년 수주 액 31 % 줄 어	O O O O O O O O O DAT-B DAT-I O O O O O O
+시카고 태생 의 오바마 는 지난해 WS 에서 고향 팀 컵스 를 응원 했 다 .	LOC-B O O PER-B O O O O O O ORG-B O O O O O
+삼성 은 " 정책 및 경영 환경 변화 에 맞춰 다양한 가능성 을 열 고 검토 를 진행 중 " 이라고 밝 혔 으며 여러 공장 후보지 를 놓 고 조율하 고 있 는 단계 인 것 으로 알려 졌 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+케이 로스 감독 은 매 경기 선발 출전 명단 에 변화 를 줬 다 .	PER-B PER-I O O O O O O O O O O O O O
+미국 에서 가장 부유한 개인 은 82 억 달러 를 지닌 마이크로소프트사 창업자 빌 게이츠 로 종합 순위 6 위 에 랭크 됐 다 .	ORG-B O O O O O MNY-B MNY-I MNY-I O O ORG-B O PER-B PER-I O O O O O O O O O O
+이하늬 는 " 언니 가 더 예쁘 다 .	PER-B O O O O O O O O
+기존 아파트 의 40 % 정도 에 해당하 는 새 아파트 가 올해 부터 2018 년 까지 차례 로 완공된다 .	O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+이 사건 을 수사해 온 부산 지검 은 그동안 이 아파트 개발 회사 ( 시행 사 ) 인 엘시티 의 실질 소유주 이영복 회장 과 현기환 전 청와대 정무 수석 , 배덕광 새누리당 의원 , 전기룡 전 부산 시 경제 특보 등 을 뇌물 공여 · 수수 혐의 로 구속 기소 했 습니다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O PER-B O O O PER-B O O O O ORG-B O O O PER-B ORG-B O O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O
+인프라 웨어 는 iOS , 안드로이드 용 무료 오피스 앱 인 폴라리스 오피스 ( www . polarisoffice . com ) 를 통해 전 세계 8 억 명 에 달하 는 이용자 를 확보 했 으며 , 지난 1 월 , PC 버전 폴라리스 오피스 2015 을 발표 , 한층 다양한 플랫폼 으로 시장 확대 를 노리 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O DAT-B O O O O O O O O O O O O O O O
+폴라리스 오피스 의 가장 큰 경쟁력 은 폭넓 은 문서 호환성 이 다 .	PER-B PER-I O O O O O O O O O O O O

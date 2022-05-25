@@ -1,10 +1,10 @@
-한진해운 미주노선을 인수하기로 한 대한해운은 한진해운이 보유 하+ㄴ 미국 롱비치터미널 지분(54%)을 현대상선과 나누+어인수하는 방안을 검토하고 있다 .	ORG-B O O O ORG-B ORG-B O O ORG-B ORG-I O ORG-B O O O O O
-육지에 있는 7752.5 ㎞ 해안선중인공해안선은 3982.4㎞로 51.4%를 차지하였다 .	O O O O O O O O O
-앞서 안희정 충남지사 대선캠프는 당 경선 과정에서 문재인 대선캠프의 조직적 이+ㄴ 댓글과 문자폭탄 공격을 지나 +ㄴ 대선에서의 박근혜 전 대통령을 위하 +ㄴ댓글부대 이+ㄴ ‘십알단’에 비유하며 비판 하+ㄴ바 있다 .	O PER-B O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O
-【서울=뉴시스 .	LOC-B O
-이듬해에는 카를로스벨트란이 트레이드되자 좌익수로 이동하였다 .	O PER-B O O O O
-공개되+ㄴ 사진 속에 +ㄴ 21개월 되+ㄴ율이가 밥을 먹다가 아빠를 빤히 바라보는 모습이 담기 +어 있다 .	O O O O O PER-B O O O O O O O O O O
-1906년 전국의 인구는 1천3백2만3천29명으로 94년 남한의 4천4백 45만명의 3분의 1에 못 미치는 수준이었다 .	O O O O O ORG-B O O O O O O O O
-아이더 ‘비톨라 트레이닝 팬츠’는 우븐스트레치 소재를 사용하+여 다양하+ㄴ 움직임에 도 착용감이 우수하+ㄴ바지다 .	ORG-B O O O O O O O O O O O O
-복수의 미 정부 당국자는 최근 한국 측에 “4일 한국을 방문하+ㄴ 제임스 클래퍼 미 국 가정보국장(DNI)이 북-미가 +ㄴ 평화협정 논의 때 한국이 양해 하+ㄹ 수 있느냐는 취지로 말 하+ㄴ 것으로 일각에서 알려지었지만 이는 사실과 다르다”면서 “설령 클래퍼가 그렇게 말하였다 손 치더라도 현재로서 +ㄴ크+ㄴ의 미를 두기 어렵다”고 밝히+ㄴ 것으로 9일(현지시간) 전하여 +지+었다 .	O O O O O ORG-B O O ORG-B O PER-B PER-B ORG-I O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
-”- 얼마나 먹어야 건강과 노화 방지에 도움이 되는지.“레스베라트롤을 예로 들면적 포도주에 함유되 +ㄴ양으로 신체에 직접 도움을 주려면 하루 600잔은 마시+어야 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
+한진해운 미주 노선 을 인수하 기 로 한 대한해운 은 한진해운 이 보유한 미국 롱비치 터미널 지분 ( 54 % ) 을 현대상선 과 나눠 인수하 는 방안 을 검토하 고 있 다 .	ORG-B O O O O O O O ORG-B O ORG-B O O ORG-B ORG-I ORG-I O O O O O O ORG-B O O O O O O O O O O O
+육지 에 있 는 7752.5 ㎞ 해안선 중 인공 해안선 은 3982.4 ㎞ 로 51.4 % 를 차지 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+앞서 안희정 충남 지사 대선 캠프 는 당 경선 과정 에서 문재인 대선 캠프 의 조직적 인 댓글 과 문자 폭탄 공격 을 지난 대선 에서 의 박근혜 전 대통령 을 위한 댓글 부대 인 ‘ 십 알단 ’ 에 비유하 며 비판한 바 있 다 .	O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+【 서울 = 뉴시스 】	O LOC-B O ORG-B O
+이듬해 에 는 카를로스 벨트 란 이 트레이드 되 자 좌익수 로 이동 했 다 .	O O O PER-B PER-I PER-I O O O O O O O O O O
+공개된 사진 속 엔 21 개월 된 율 이 가 밥 을 먹 다가 아빠 를 빤히 바라보 는 모습 이 담겨 있 다 .	O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+1906 년 전국 의 인구 는 1 천 3 백 2 만 3 천 29 명 으로 94 년 남한 의 4 천 4 백 45 만 명 의 3 분 의 1 에 못 미치 는 수준 이 었 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O
+아이더 ‘ 비톨라 트레이닝 팬츠 ’ 는 우븐 스트레치 소재 를 사용해 다양한 움직임 에 도 착용감 이 우수한 바지 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+복수 의 미 정부 당국자 는 최근 한국 측 에 “ 4 일 한국 을 방문한 제임스 클 래퍼 미 국가 정보국 장 ( DNI ) 이 북 - 미 간 평화 협정 논의 때 한국 이 양해할 수 있 느냐는 취지 로 말한 것 으로 일각 에서 알려 졌 지만 이 는 사실 과 다르 다 ” 면서 “ 설령 클 래퍼 가 그렇 게 말 했 다손 치 더라도 현재 로선 큰 의미 를 두 기 어렵 다 ” 고 밝힌 것 으로 9 일 ( 현지 시간 ) 전해 졌 다 .	O O ORG-B ORG-I O O O LOC-B O O O DAT-B DAT-I LOC-B O O PER-B PER-I PER-I ORG-B O O O O O O O ORG-B ORG-I ORG-I O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+” - 얼마나 먹 어야 건강 과 노화 방지 에 도움 이 되 는지 . “ 레스 베라 트롤 을 예 로 들 면 적포도주 에 함유된 양 으로 신체 에 직접 도움 을 주 려면 하루 600 잔 은 마셔야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

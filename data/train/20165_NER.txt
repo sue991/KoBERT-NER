@@ -1,7 +1,7 @@
-반도체 종목은 지난해 초 이후 거의 3배 오르았다 .	O O O O O O O O O
-수도권 대중교통 이용 시 지하철 ↔버스 환승 이용객이 511만5000명으로 가장 많았고 지하철 ↔지하철 환승이용객은 437만3000명으로 뒤따르았다 .	LOC-B O O O O O O O O O O O O O O O O
-페이코는 이전에도 가수 이진아, 지코, 우쿨렐레피크닉 등을 앞세우+ㄴ ‘니나노송’ 광고로 브랜드를 각인시키+ㄴ바 있다 .	ORG-B O O PER-B ORG-I ORG-B O O O O O O O O
-한국에서 던지지 않았던 포크볼은 시속 141km까지 나오았다 .	LOC-B O O O O O O O
-210만원을 다 받은 대구의 한 50대는 맞벌이로 재산이 1억원 이하에 연봉이 1300만원 이하 +이었다 .	MNY-B O O LOC-B O O O O MNY-B O O MNY-B O O O
-남북한 남녀 평균 수명 11년차이, 2060년까지 유 .	ORG-B ORG-B O O O O O O
-10월 진행 하+ㄴ ‘넥슨아티스트’ 공모전을 통하+여선발되+ㄴ 67개 팀 유저들이 참여하+여메이플스토리, ‘메이플스토리2’, ‘마비노기’ ‘마비노기 영웅전’, ‘던전앤파이터’, ‘사이퍼즈’ 등 넥슨의 인기 게임 IP를 활용하+ㄴ독특하고 개성 넘치는 유저 제작 굿즈와 팬아트를 만나 +ㄹ 수 있다 .	O O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+반도체 종목 은 지난해 초 이후 거의 3 배 올 랐 다 .	O O O O O O O O O O O O O
+수도권 대중교통 이용 시 지하철 ↔ 버스 환승 이용객 이 511 만 5000 명 으로 가장 많 았 고 지하철 ↔ 지하철 환승 이용객 은 437 만 3000 명 으로 뒤따 랐 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+페이 코 는 이전 에 도 가수 이진아 , 지코 , 우쿨렐레 피크닉 등 을 앞세운 ‘ 니나 노송 ’ 광고 로 브랜드 를 각인 시킨 바 있 다 .	ORG-B ORG-I O O O O O PER-B O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+한국 에서 던지 지 않 았 던 포크볼 은 시속 141 km 까지 나 왔 다 .	LOC-B O O O O O O O O O O O O O O O O
+210 만 원 을 다 받 은 대구 의 한 50 대 는 맞벌이 로 재산 이 1 억 원 이하 에 연봉 이 1300 만 원 이하 였 다 .	MNY-B MNY-I MNY-I O O O O LOC-B O O O O O O O O O MNY-B MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O O O O
+남 북한 남녀 평균 수명 11 년 차이 , 2060 년 까지 유지	ORG-B ORG-I O O O O O O O DAT-B DAT-I O O
+10 월 진행한 ‘ 넥슨 아티스트 ’ 공모전 을 통해 선발된 67 개 팀 유저 들 이 참여해 메이플 스토리 , ‘ 메이플 스토리 2 ’ , ‘ 마비 노기 ’ ‘ 마비 노기 영웅전 ’ , ‘ 던전 앤 파이터 ’ , ‘ 사이퍼즈 ’ 등 넥슨 의 인기 게임 IP 를 활용한 독특하 고 개성 넘치 는 유저 제작 굿즈 와 팬 아트 를 만날 수 있 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O

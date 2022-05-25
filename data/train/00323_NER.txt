@@ -1,15 +1,15 @@
-김하늘은 SBS ‘신사의 품격’ 이후 4년 만 안방극장 복귀작으로 ‘공항 가는 길’을 선택하였다 .	PER-B ORG-B O O O O O O O O O O O O
-새누리당 정우택 원내대표는 3일 "대한민국의 백년대계와 국가 시스템 재설계를 위하+ㄴ 대선 전 개헌을 합의하+여야 하+ㄴ다"며 '여야 대선주자 개헌 연석회의' 구성을 제안하였다 .	ORG-B PER-B O O ORG-B O O O O O O O O O O O O O O O O O
-정 원내대표는 2월 임시국회 교섭단체 대표연설에서 "개헌은 현 시점에서 정치권이 하+ㄹ 수 있는 최고의 정치개혁"이라며 "여야 대선주자들 모두가 나라와 국민을 위하 +ㄴ 애국심을 갖고 있다면 어떤 사심도 없이 대선 전 개헌에 합의 하+ㄹ 것"이라고 말하였다 .	PER-B O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
-그는 더불어민주당을 겨냥하+여"대통령에 당선되면 개헌하겠다는 지키지도 않을 약속을 하거나, 시간이 없어 못하+ㄴ다는 무책임하+ㄴ 자세에서 벗어나 +아야 하+ㄴ다"며 "국회의원들이 결단만 내리+ㄴ다면 개헌은 두어 달이면 이루+어 내 +ㄹ 수 있다"고 강조하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-정 원내대표가 대선 전 개헌을 요구하+ㄴ 것은 탄핵 정국에서 수세에 몰리었던 분위기를 반전하고 대선 국면에서 개헌 이슈를 주도하면서 정권 재창출의 계기를 만들려는 움직임으로 보이+ㄴ다 .	PER-B O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O
-정 원내대표는 또 "국회와 정치권은 복합적 이+ㄴ 위기에 대하+여서만은 여와 야라는 도식적 대결을 넘어 거국적으로, 초당적으로 힘을 합치+ㄹ 때는 합치+어야만 하+ㄴ다"며 "여야 각 당에서 분야별로 최고의 전문성을 갖추+ㄴ의원을 뽑아 '초당적 정책 컨소시엄' 형태의 공동연구체를 구성하자"고 제안하였다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
-이어 "이 컨소시엄에서는 외교, 안보, 국제경제 등 국가적 차원의 대응과 관리가 필요하+ㄴ 현안과제를 놓고 초당적 지혜와 아이디어를 모으+ㄹ 것"이라며 "대한민국 최고 브레인과 경험자들의 자문도 받아 이 국가적 위기 속에서 우리가 선택하고 개척 하+여나가+ㄹ길을 거국적으로 모색 하+ㄹ 수 있기를 바라+ㄴ다"고 기대하였다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
-통상 1월은 대출비수기로 꼽히+ㄴ다 .	O O O O O
-류정한, 뮤지컬 ‘레베카’ 공연 티켓 기부… 따뜻하+ㄴ나누+ㅁ 활 .	PER-B O O O O O O O O
-사거리가 300km가 넘는 것으로 알려지+ㄴYJ-62는 중국 해군의 052C급 구축함에서 운용되는 것으로 알려지었다 .	O O O O O LOC-B O O O O O O O
-장윤정 엄마, “도경완, 사위라고 참 어색 하+ㄴ 얘기+이+ㄴ데 부족하+ㄴ 윤정이 보듬어 주 감사 .	PER-B O PER-B O O O O O O O O O O O
-‘미생시즌2’ 연재...윤태호 “시즌1과 이어지는 모습 그리+ㄴ다 .	O PER-B O O O O O
-서울 남대문시장은 그의 주요 범행 장소+이었다 .	LOC-B LOC-I O O O O O
-이 과정에서 김 실장과 김 수석의 ‘감정’이 쌓이어 +았고, 9일 사건의 한 배경이 되었다는 것이다 .	O O PER-B O PER-B O O O O O O O O O O O
-20분의 1가격으로 전문가가 찍은 사진을 얻은 것이다 .	O O O O O O O O
+김하늘 은 SBS ‘ 신사 의 품격 ’ 이후 4 년 만 안방극장 복귀 작 으로 ‘ 공항 가 는 길 ’ 을 선택 했 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+새누리당 정우택 원내 대표 는 3 일 " 대한민국 의 백년대계 와 국가 시스템 재설계 를 위한 대선 전 개헌 을 합의해야 한다 " 며 ' 여야 대선 주자 개헌 연석회의 ' 구성 을 제안 했 다 .	ORG-B PER-B O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정 원내 대표 는 2 월 임시 국회 교섭 단체 대표 연설 에서 " 개헌 은 현시점 에서 정치권 이 할 수 있 는 최고 의 정치 개혁 " 이 라며 " 여야 대선 주자 들 모두 가 나라 와 국민 을 위한 애국심 을 갖 고 있 다면 어떤 사심 도 없이 대선 전 개헌 에 합의할 것 " 이라고 말 했 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 더불 어 민주당 을 겨냥해 " 대통령 에 당선되 면 개헌하 겠 다는 지키 지 도 않 을 약속 을 하 거나 , 시간 이 없 어 못한다는 무책임한 자세 에서 벗어나야 한다 " 며 " 국회의원 들 이 결단 만 내린다면 개헌 은 두어 달 이 면 이뤄 낼 수 있 다 " 고 강조 했 다 .	O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정 원내 대표 가 대선 전 개헌 을 요구한 것 은 탄핵 정국 에서 수세 에 몰 렸 던 분위기 를 반전 하 고 대선 국면 에서 개헌 이슈 를 주도하 면서 정권 재 창출 의 계기 를 만들 려는 움직임 으로 보인다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정 원내 대표 는 또 " 국회 와 정치권 은 복합적 인 위기 에 대해서 만 은 여 와 야라 는 도식적 대결 을 넘 어 거국적 으로 , 초 당적 으로 힘 을 합칠 때 는 합쳐야 만 한다 " 며 " 여야 각 당 에서 분야 별 로 최고 의 전문 성 을 갖춘 의원 을 뽑 아 ' 초당 적 정책 컨소시엄 ' 형태 의 공동 연구 체 를 구성하 자 " 고 제안 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 " 이 컨소시엄 에서 는 외교 , 안보 , 국제 경제 등 국가적 차원 의 대응 과 관리 가 필요한 현안 과제 를 놓 고 초당 적 지혜 와 아이디어 를 모을 것 " 이 라며 " 대한민국 최고 브레인 과 경험자 들 의 자문 도 받 아 이 국가 적 위기 속 에서 우리 가 선택하 고 개척해 나갈 길 을 거국적 으로 모색할 수 있 기 를 바란다 " 고 기대 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+통상 1 월 은 대출 비수기 로 꼽힌다 .	O DAT-B DAT-I O O O O O O
+류정한 , 뮤지컬 ‘ 레베카 ’ 공연 티켓 기부 … 따뜻한 나눔 활동	PER-B O O O O O O O O O O O O
+사거리 가 300 km 가 넘 는 것 으로 알려진 YJ - 62 는 중국 해군 의 052 C 급 구축함 에서 운용되 는 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+장윤정 엄마 , “ 도경완 , 사위 라고 참 어색한 얘긴데 부족한 윤정이 보듬 어 줘 감사 ”	PER-B O O O PER-B O O O O O O O O O O O O O
+‘ 미생 시즌 2 ’ 연재 . . . 윤태호 “ 시즌 1 과 이어지 는 모습 그린다 ”	O O O O O O O O O PER-B O O O O O O O O O
+서울 남대문 시장 은 그 의 주요 범행 장소 였 다 .	LOC-B LOC-I LOC-I O O O O O O O O O
+이 과정 에서 김 실장 과 김 수석 의 ‘ 감정 ’ 이 쌓 여 왔 고 , 9 일 사건 의 한 배경 이 되 었 다는 것 이 다 .	O O O PER-B O O PER-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+20 분 의 1 가격 으로 전문가 가 찍 은 사진 을 얻 은 것 이 다 .	O O O O O O O O O O O O O O O O O O

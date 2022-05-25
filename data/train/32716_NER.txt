@@ -1,16 +1,16 @@
-그래서 한국어가 서툴+ㄴ 사람처럼 보이도록 말도 어눌하게 하고 발음도 굴리려고 노력하였던 기억이 나는데, 사실 저도 다니엘처럼 해외 여기저기로 돌아다니는 것+ㄹ 좋아하+여요. 한국에서는 그것+ㄹ ‘역마살’이라고 하더군요 .	O LOC-B O O O O O O O O O O O O O PER-B O O O O O LOC-B O O O O
-1입을 크게 벌리고 턱밑을 주먹으로 누르+ㄴ다 .	O O O O O O O
-14일 서울 동작경찰서는 서울 영등포구 여의도동에 있는 30m 높이의 LG화학 광고탑에서 고공시위를 하던 이준서(51) 공공운수노조 화물연대 울산지부장과 신기맹(40) CJ대한통운 택배분회 부분 회장이 13일 오후 7시25분경 농성을 해제하였다고 밝히었다 .	O LOC-B ORG-I LOC-B LOC-B LOC-B O O O LOC-B LOC-I TIM-I O PER-B ORG-B ORG-I O PER-B ORG-B ORG-I TIM-I O O O O O O O O
-독일 동북부 지역이+ㄴ작센주의 날씨가 영하 31.4도까지 떨어지었고, 스위스 라브레 방 지역은 영하 29.9도를 기록하+여 1987년 1월 이후 가장 춥ㄴ 날씨를 보이었다 .	LOC-B LOC-I LOC-B O O O O LOC-B O O O O O O O O O O O O O O
-성형외과 전문의도 아니+ㄴ 김 원장이 지난해 7월 서울대병원 강남센터 성형외과에 외래교수로 위촉되었다가 2주 만에 해촉+되었던 배경도 의문이다 .	ORG-I O O PER-B O O O ORG-B ORG-I ORG-I O O O O O O O O
-카자흐 한국문화원장 “日대사관 보+ㄹ 수 있 .	ORG-B O PER-B O O O O
-세느강 유람선 탑승권은 50%, 파리 전경을 한눈에 보+ㄹ 수 있는 몽파르나 스타워 입장권은 30%, 파리뮤지엄 패스는 3% 할인되+ㄴ 가격에 판매 하+ㄴ다 .	LOC-B O O O LOC-B O O O O O O O O O LOC-B O O O O O O O
-서초보금자리지구에서 자영업을 하는 B씨는 “외제차가 즐비 하+ㄴ 지하주차장을 보면 이미 주민이 ‘물갈이’ 되+었다는 생각이 들+ㄴ다”고 말하였다 .	LOC-B O O PER-B O O O O O O O O O O O O O
-코스타 빅토리아호는 실내외 수영장부터 카지노·면세점·레스토랑 를 갖추고 있다 .	O O O O O O O O O
-차량은 180도 회전을 하+ㄴ다 .	O O O O O
-경영대학원(MBA) 졸업생의 37%는 여학생이지만 500대 기업 중 여성 CEO는 4%에 불과하다 .	O O O O O O O O O O O O
-[Health&Beauty] ‘설탕과의 전쟁’ … 대체 감미료 사카린을 재조명 하+ㄴ .	O O O O O O O O O O
-김소영 아나운서는 평소에도끼가 많은 ‘아나테이너’로 지난해 7월 MBC ‘일밤-복면가왕’에 비 내리는 호남선으로 등장하+여 뛰어나 +ㄴ 노래 실력을 뽐내 +었다 .	PER-B PER-I O O O O O ORG-B O PER-B PER-I PER-I O O O O O O O O
-복면가왕에 출연하+ㄴ 연예인들은 그 누구도 호남선이 김소영 아나운서일 것+이라고는 예측하지 못하였으며 평소 지적이고 다소곳하+ㄴ이미지의 김소연 아나운서 역시 그동안의 보이어주지 못하+ㄴ 모습을 선보이었다 .	O O O O O PER-B PER-B O O O O O O O PER-B O O O O O O O O
-김소영 아나운서는 복면을 벗고 사람들에게 얼굴을 공개 후 출연 소감을 말하며 김성주 MC의 부탁으로 뉴스 마무리멘트 “여러분 저는 내일 다시 찾아오겠습니 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O
-28일 전국이 대체로 맑다가 중부지방은 오후부터 구름이 많아지겠다 .	O O O O O O O O O
+그래서 한국어 가 서툰 사람 처럼 보이 도록 말 도 어눌하 게 하 고 발음 도 굴리 려고 노력 했 던 기억 이 나 는데 , 사실 저 도 다니엘 처럼 해외 여기저기 로 돌아다니 는 걸 좋아해요 . 한국 에서 는 그걸 ‘ 역마살 ’ 이라고 하 더군 요 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O LOC-B O O O O O O O O O O O
+1 입 을 크 게 벌리 고 턱밑 을 주먹 으로 누른다 .	O O O O O O O O O O O O O
+14 일 서울 동작 경찰서 는 서울 영등포구 여의도동 에 있 는 30 m 높이 의 LG 화학 광고탑 에서 고공 시위 를 하 던 이준서 ( 51 ) 공공 운수 노조 화물 연대 울산 지부 장 과 신 기맹 ( 40 ) CJ 대한통운 택배 분회 부분 회장 이 13 일 오후 7 시 25 분 경 농성 을 해제 했 다고 밝 혔 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O LOC-B LOC-B LOC-B O O O O O O O LOC-B LOC-I LOC-I O O O O O O PER-B O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O PER-B PER-I O O O ORG-B ORG-I ORG-I ORG-I O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O
+독일 동북부 지역 인 작센 주 의 날씨 가 영하 31.4 도 까지 떨어 졌 고 , 스위스 라브레방 지역 은 영하 29.9 도 를 기록해 1987 년 1 월 이후 가장 추 운 날씨 를 보 였 다 .	LOC-B LOC-I O O LOC-B LOC-I O O O O O O O O O O O LOC-B LOC-I O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+성형외과 전문의 도 아닌 김 원장 이 지난해 7 월 서울대병원 강남 센터 성형외과 에 외래 교수 로 위촉 됐 다 가 2 주 만 에 해촉 됐 던 배경 도 의문 이 다 .	O O O O PER-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+카자흐 한국 문화 원장 “ 日 대사관 볼 수 있 다	ORG-B O O O O PER-B PER-I O O O O
+세느강 유람선 탑승권 은 50 % , 파리 전경 을 한 눈 에 볼 수 있 는 몽파르나스 타워 입장권 은 30 % , 파리 뮤지엄 패스 는 3 % 할인된 가격 에 판매한다 .	LOC-B O O O O O O LOC-B O O O O O O O O O LOC-B LOC-I O O O O O LOC-B O O O O O O O O O O
+서초 보금자리 지구 에서 자영업 을 하 는 B 씨 는 “ 외제 차 가 즐비한 지하 주차장 을 보 면 이미 주민 이 ‘ 물갈이 ’ 됐 다는 생각 이 든다 ” 고 말 했 다 .	LOC-B LOC-I LOC-I O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+코스타 빅토리아호 는 실내 외 수영장 부터 카지노 · 면세점 · 레스토랑 를 갖추 고 있 다 .	O O O O O O O O O O O O O O O O O O
+차량 은 180 도 회전 을 한다 .	O O O O O O O O
+경영 대학원 ( MBA ) 졸업생 의 37 % 는 여학생 이 지만 500 대 기업 중 여성 CEO 는 4 % 에 불과하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ Health & Beauty ] ‘ 설탕 과 의 전쟁 ’ … 대체 감미료 사카린 을 재조명한다	O O O O O O O O O O O O O O O O O
+김소영 아나운서 는 평소 에 도 끼 가 많 은 ‘ 아나 테이 너 ’ 로 지난해 7 월 MBC ‘ 일 밤 - 복면 가왕 ’ 에 비 내리 는 호남선 으로 등장해 뛰어난 노래 실력 을 뽐냈 다 .	PER-B O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O PER-B PER-I PER-I PER-I O O O O O O O O O
+복면 가왕 에 출연한 연예인 들 은 그 누구 도 호남선 이 김소영 아나운서 일 거 라고 는 예측하 지 못 했 으며 평소 지적 이 고 다소곳한 이미지 의 김소연 아나운서 역시 그동안 의 보 여 주 지 못한 모습 을 선보 였 다 .	O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+김소영 아나운서 는 복면 을 벗 고 사람 들 에게 얼굴 을 공개 후 출연 소감 을 말하 며 김성주 MC 의 부탁 으로 뉴스 마무리 멘트 “ 여러분 저 는 내일 다시 찾아오 겠 습니다	PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+28 일 전국 이 대체로 맑 다가 중부 지방 은 오후 부터 구름 이 많아지 겠 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O

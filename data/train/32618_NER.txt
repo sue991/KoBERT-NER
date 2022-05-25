@@ -1,15 +1,15 @@
-이에 따르 아풀무원 생활건강은 품질 개선 차원에서 자발적으로 홍삼키즈업의 판매를 중단하기로 +였다 .	O O ORG-B ORG-I O O O O O O O O O
-[사랑방] 최중경 한국공인회계사회 신임 회 .	O PER-B ORG-B O O O
-당시 경찰은 손씨가 빗길에 급 브레이크를 밟은 뒤 중심을 잃고 반대편 차량과 충돌 하+ㄴ 것으로 추정하였다 .	O O PER-B O O O O O O O O O O O O O O
-앞서 강동원의 소속사 계약 만료 시점을 앞두고 여러 대형 기획사업계 관계자들이 그의 영입을 두고 물밑 접촉 중 이+ㄴ 것으로 전하+여지+ㄴ바 있다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
-포럼은 이종영 교수(한국체육대학교)의 ‘한국체육발전을 위하 +ㄴ체육단체 통합방향’ 주제발표로 문을 열었다 .	O PER-B LOC-B LOC-B O O O O O O O
-1920년 동아일보를 창간 하+ㄴ인촌 김성수 선생 60주기이기도 하+ㅂ니다 .	O O O O PER-B O O O O
-유인상위원(뉴 고려병원 의료원장)은 “병원 직원의 처우와 복지를 생각하지 않는 경영은 결과가 좋지 못하고 지속가능하 .	ORG-B ORG-I O O O O O O O O O O O O O
-태호는 작전이 계획대로 진행되고 있다고 판단하고 지하조직의 1인자 이+ㄴ 곽흥삼(이범수분)에게 정 사장에 대하+여보고 하+ㄴ다 .	PER-B O O O O O O O O PER-B PER-B O O O O
-실습 과정에서 +ㄴ 북한 내부에서 사용하는 프로그램까지 활용하+ㄴ다고 하+ㄴ다 .	O O O LOC-B O O O O O O
-이들에게는 전체 공모주의 20% 물량이 배정되+ㄴ다 .	O O O O O O O
-누아르의 김혜수와 액션의 김옥빈이 어느 정도 성과를 내+ㄴ다면 여배우의 활동 무대가 확장되+ㄹ 것이라는 영화계의 기대감도 커지고 있다 .	O PER-B O PER-B O O O O O O O O O O O O O O
-지난해 주목받은 신예 김태리의 도약도 눈여겨 보+ㄹ만 하다 .	O O O PER-B O O O O O
-워낙 부상이 많아서 은퇴를 원하였지만 신치용 삼성화재 감독은 그의 은퇴를 만류하었었다 .	O O O O O PER-B ORG-B O O O O O
-오후 7시에는 선수들이 코엑스 몰라이브 플라자에서 올스타 전 홍보에 나서 +ㄴ다 .	TIM-B TIM-I O O O O O O O O O O
-김 의원을 배려하+ㄴ 상임위 배정이라는 얘기+이었다 .	PER-B O O O O O O
+이 에 따 라 풀무원 생활 건강 은 품질 개선 차원 에서 자발적 으로 홍삼 키즈 업 의 판매 를 중단하 기 로 했 다 .	O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+[ 사랑방 ] 최중경 한국공인회계사회 신임 회장	O O O PER-B ORG-B O O
+당시 경찰 은 손 씨 가 빗길 에 급브레이크 를 밟 은 뒤 중심 을 잃 고 반대편 차량 과 충돌한 것 으로 추정 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+앞서 강동원 의 소속 사 계약 만료 시점 을 앞두 고 여러 대형 기획 사 업계 관계자 들 이 그 의 영입 을 두 고 물밑 접촉 중 인 것 으로 전해 진 바 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+포럼 은 이종영 교수 ( 한국체육대학교 ) 의 ‘ 한국 체육 발전 을 위한 체육 단체 통합 방향 ’ 주제 발표 로 문 을 열 었 다 .	O O PER-B O O ORG-B O O O LOC-B O O O O O O O O O O O O O O O O O O
+1920 년 동아일보 를 창간한 인촌 김성수 선생 60 주기 이 기 도 합니다 .	DAT-B DAT-I O O O O PER-B O O O O O O O O
+유인상 위원 ( 뉴 고려 병원 의료 원장 ) 은 “ 병원 직원 의 처우 와 복지 를 생각하 지 않 는 경영 은 결과 가 좋 지 못하 고 지속 가능하 지	PER-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+태호 는 작전 이 계획 대로 진행되 고 있 다고 판단하 고 지하 조직 의 1 인 자 인 곽흥삼 ( 이범수 분 ) 에게 정 사장 에 대해 보고한다 .	PER-B O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O PER-B O O O O O
+실습 과정 에선 북한 내부 에서 사용하 는 프로그램 까지 활용한다고 한다 .	O O O LOC-B O O O O O O O O O
+이 들 에게 는 전체 공모주 의 20 % 물량 이 배정된다 .	O O O O O O O O O O O O O
+누아르 의 김혜수 와 액션 의 김옥빈 이 어느 정도 성과 를 낸다면 여배우 의 활동 무대 가 확장될 것 이 라는 영화계 의 기대감 도 커지 고 있 다 .	O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 주목 받 은 신예 김태리 의 도약 도 눈여겨볼 만하 다 .	O O O O O PER-B O O O O O O O
+워낙 부상 이 많 아서 은퇴 를 원 했 지만 신치용 삼성화재 감독 은 그 의 은퇴 를 만류 했었 다 .	O O O O O O O O O O PER-B ORG-B O O O O O O O O O O
+오후 7 시 에 는 선수 들 이 코엑스몰 라이브 플라자 에서 올스타 전 홍보 에 나선다 .	TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O
+김 의원 을 배려한 상임위 배정 이 라는 얘기 였 다 .	PER-B O O O O O O O O O O O

@@ -1,14 +1,14 @@
-가희가 명품 복근을 공개하였다 .	PER-B O O O O
-26일 가희는 JTBC ‘냉장고를 부탁하+여’에게 스트로 출연하+ 여입담을 자랑하였다 .	O PER-B O O O O O O O O
-이날 가희는 냉장고를 부탁하+ㄴ이유에 대하+여 “싱글녀가 시크하게 먹을 수 있는 브런치가 있을까 싶어 부탁드리었다 .	O PER-B O O O O O O O O O O O O O
-강남 일반의 원서 지방이식 20대 女 수술이틀 만에 ‘패혈성 쇼크’로 숨지+ .	LOC-B O O O O O O O O O O O
-블링컨 부장관은 19일 서울로와 추가 논의를 하+ㄴ 뒤 20일 베이징을 방문하+여미 중 협의를 갖는다 .	PER-B O O LOC-B O O O O O LOC-B O O O O O
-고등학교 때부터 지도 하+여주고 계시는 조범수 프로님이 오+시었다 .	O O O O O PER-B O O O
-LG양상문 감독은 “도핑테스트 횟수를 늘리+어야 하+ㄴ다”고 주장하였다 .	ORG-B O O O O O O O
-오방낭은 음양오행의 원리를 담은 전통주머니로 우주 와 인간을 잇어주며 복을 기원하는 의미를 담고 있다고 하+ㄴ다 .	O O O O O O O O O O O O O O O O
-[최순실 7차 청문회] 우병우·조윤선 등 빠지+ㄴ 마지막 ‘맹탕’ 청문회 시 .	PER-B O O PER-B O O O O O O O
-북한의 핵과 미사일 위협이 갈수록 고조되고 있다 .	ORG-B O O O O O O O
-고든은 올 시즌 처음 한국 무대에 발을 들여놓은 선수+이다 .	O O O O LOC-B O O O O O
-그동안 남자 프로농구에서 +ㄴ 시즌 개막 이전 감독의 신뢰를 받지 못하+ㄴ 채기량을 제대로 발휘하+ 여보지도 못하고 짐을 싸+ㄴ 선수들이 수두룩하였다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-월출산 바람폭포길은 천황사에서 통천문으로 이어지는 바람계곡의 중심에 있어 마치 이 폭포를 중심으로 좌우 능선이 +ㄴ 장군봉·사자봉 등이 성채를 이루+ㄴ듯하다 .	LOC-B LOC-I LOC-B LOC-B O O O O O O O O O O O LOC-B O O O O
-한편 도심에서 가족과 함께 연휴를 즐기+ㄹ 수 있는 탐방로로는 ▶ 북한산 우이령길▶ 계룡산갑사길이 있다 .	O O O O O O O O O O LOC-B LOC-I LOC-B O O
+가희 가 명품 복근 을 공개 했 다 .	PER-B O O O O O O O O
+26 일 가희 는 JTBC ‘ 냉장고 를 부탁해 ’ 에 게스트 로 출연해 입담 을 자랑 했 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O
+이날 가희 는 냉장고 를 부탁한 이유 에 대해 “ 싱글 녀 가 시크 하 게 먹 을 수 있 는 브런치 가 있 을까 싶 어 부탁 드 렸 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강남 일반 의원 서 지방 이식 20 대 女 수술 이틀 만 에 ‘ 패혈성 쇼크 ’ 로 숨져	LOC-B O O O O O O O O O O O O O O O O O O
+블 링컨 부 장관 은 19 일 서울 로 와 추가 논의 를 한 뒤 20 일 베이징 을 방문해 미 중 협의 를 갖 는다 .	PER-B PER-I O O O DAT-B DAT-I LOC-B O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O
+고등학교 때 부터 지도해 주 고 계시 는 조범수 프로 님 이 오 셨 다 .	O O O O O O O O PER-B O O O O O O O
+LG 양상문 감독 은 “ 도핑 테스트 횟수 를 늘려야 한다 ” 고 주장 했 다 .	ORG-B PER-B O O O O O O O O O O O O O O O
+오방낭 은 음양오행 의 원리 를 담 은 전통 주머니 로 우주 와 인간 을 이 어 주 며 복 을 기원하 는 의미 를 담 고 있 다고 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 최순실 7 차 청문회 ] 우병우 · 조윤선 등 빠진 마지막 ‘ 맹탕 ’ 청문회 시작	O PER-B O O O O PER-B O PER-B O O O O O O O O
+북한 의 핵 과 미사일 위협 이 갈수록 고조되 고 있 다 .	ORG-B O O O O O O O O O O O O
+고든은 올 시즌 처음 한국 무대 에 발 을 들여놓 은 선수 다 .	O O O O LOC-B O O O O O O O O O
+그동안 남자 프로 농구 에선 시즌 개막 이전 감독 의 신뢰 를 받 지 못한 채 기량 을 제대로 발휘해 보 지 도 못하 고 짐 을 싼 선수 들 이 수두룩 했 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+월출산 바람폭포 길 은 천황사 에서 통 천문 으로 이어지 는 바람계곡 의 중심 에 있 어 마치 이 폭포 를 중심 으로 좌우 능선 인 장군봉 · 사자봉 등 이 성채 를 이룬 듯하 다 .	LOC-B LOC-I LOC-I O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O
+한편 도심 에서 가족 과 함께 연휴 를 즐길 수 있 는 탐방 로 로 는 ▶ 북한산 우이령 길 ▶ 계룡산 갑사 길이 있 다 .	O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I O O O O

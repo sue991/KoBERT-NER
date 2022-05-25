@@ -1,14 +1,14 @@
-8월 전월세 거래량 12만5228건…전년比6.8% .	O O O O O
-음악 중심 씨스타, '애처럼 굴지 말', '쉐이크 잇' 어떤 곡들이 +ㄴ 지자세히 보면 .	O O ORG-B O O O O O O O O O O O
-중국, 유명 관광지 셀카봉 사용 금지… “금지되+ㄴ곳, 또 어디 있나? .	ORG-B O O O O O O O O O O
-‘MBC 연기 대상’ 4관왕 박서준, 취중 수상 소감 SNS에 올리+어… “자축하는 의미에서 .	O O O O PER-B O O O O O O O O
-고산문화재단 이사장 영담 스님은 “조계종 수행가 풍을 선양하기 위하+여 ‘육조단경’으로 쌍계총림 신서 발간을 시작하였다”며 “계율정신으로 돌아가자는 취지에서 ‘범망경’을 음력 3월 쌍계사 보살계법회에 맞추+어 발간하고, 조계종 소의 경전이 +ㄴ ‘금강경’을 풀이하 +ㄴ ‘금강경 오가해’를 차례로 펴내 +ㄹ 것”이라고 +였다 .	ORG-B O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
-싼타페 더 프라임 출시, 수많은 힘들 +ㄴ 첨단 기능 …가격은 얼마 .	O O O O O O O O O O O O
-임종룡 금융위원장이 금융위원회가 2015년 이후 삼성그룹의 계열사 합병과 상장 등 지배구조 개편 과정에서 특혜를 +었다는 의혹을 전면 부인하였다 .	PER-B ORG-B ORG-B O O ORG-B O O O O O O O O O O O O O
-서울시, ‘시민문화 캐스터’ 모집하+여 공연·전시소개… 역할 보 .	LOC-B O O O O O O O
-본계약은 7월 경맺을 예정이다 .	O O O O O
-서민 갑부(10일 오후 9시50분 .	ORG-B ORG-I TIM-B TIM-I O
-‘마리텔’이 타 예능과 다른 이 .	O O O O O O
-류승룡은 우연히 염력을 얻게 되+ㄴ아버지 ‘석헌’ 역을, 심은경은 예상하지 못하+ㄴ 사건에 휘말리게 되+ㄴ딸 ‘루미’ 역을 맡았다 .	PER-B O O O O PER-B O PER-B O O O O O PER-B O O O
-한편 이날 한은이 경제전망을 또다시 크게 수정하면서 기존 전망치의 오류에 대하+ㄴ 비판도 커지고 있다 .	O O ORG-B O O O O O O O O O O O O
-3일 토론회의 최대 관심사는 ‘빅2’로 꼽히는 나경원(오른쪽 사진) 의원과 정진석(왼쪽) 당선자의 불꽃튀+ㄹ설전이다 .	O O O O O O PER-B O O PER-B O O O
+8 월 전 월세 거래량 12 만 5228 건 … 전년 比 6.8 % ↑	DAT-B DAT-I O O O O O O O O O O O O O
+음악 중심 씨스타 , ' 애 처럼 굴 지 마 ' , ' 쉐이크 잇 ' 어떤 곡 들 인지 자세히 보 면 ?	O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+중국 , 유명 관광지 셀카봉 사용 금지 … “ 금지된 곳 , 또 어디 있 나 ? ”	ORG-B O O O O O O O O O O O O O O O O O
+‘ MBC 연기 대상 ’ 4 관 왕 박서준 , 취중 수상 소감 SNS 에 올려 … “ 자축하 는 의미 에서 ”	O O O O O O O O PER-B O O O O O O O O O O O O O O
+고산 문화 재단 이사장 영담 스님 은 “ 조계종 수행 가풍 을 선양하 기 위해 ‘ 육조단경 ’ 으로 쌍계총림신 서 발간 을 시작 했 다 ” 며 “ 계율 정신 으로 돌아가 자는 취지 에서 ‘ 범망경 ’ 을 음력 3 월 쌍계사 보살계 법회 에 맞춰 발간하 고 , 조계종 소의 경전 인 ‘ 금강경 ’ 을 풀이한 ‘ 금강경오가해 ’ 를 차례 로 펴낼 것 ” 이라고 했 다 .	ORG-B ORG-I ORG-I O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+싼타페 더 프라임 출시 , 수 많 은 힘든 첨단 기능 … 가격 은 얼마 ?	O O O O O O O O O O O O O O O O
+임종룡 금융 위원장 이 금융 위원회 가 2015 년 이후 삼성그룹 의 계열사 합병 과 상장 등 지배 구조 개편 과정 에서 특혜 를 줬 다는 의혹 을 전면 부인 했 다 .	PER-B O O O ORG-B ORG-I O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+서울시 , ‘ 시민 문화 캐스터 ’ 모집해 공연 · 전시 소개 … 역할 보 니	LOC-B O O O O O O O O O O O O O O O
+본계약 은 7 월 경 맺 을 예정 이 다 .	O O DAT-B DAT-I O O O O O O O
+서민 갑부 ( 10 일 오후 9 시 50 분 )	ORG-B ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O
+‘ 마리 텔 ’ 이 타 예능 과 다른 이유	O O O O O O O O O O
+류승룡 은 우연히 염력 을 얻 게 된 아버지 ‘ 석헌 ’ 역 을 , 심은경 은 예상하 지 못한 사건 에 휘말리 게 된 딸 ‘ 루미 ’ 역 을 맡 았 다 .	PER-B O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O
+한편 이날 한은 이 경제 전망 을 또다시 크 게 수정하 면서 기존 전망 치 의 오류 에 대한 비판 도 커지 고 있 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+3 일 토론회 의 최대 관심사 는 ‘ 빅 2 ’ 로 꼽히 는 나경원 ( 오른쪽 사진 ) 의원 과 정진석 ( 왼쪽 ) 당선자 의 불꽃 튈 설전 이 다 .	DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O

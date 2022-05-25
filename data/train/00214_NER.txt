@@ -1,13 +1,13 @@
-10일 나오+ㄴ ‘갤럭시S6’와 ‘갤럭시S6 엣지’가 그 결과물이다 .	O O O O O O O O
-이에 시진은 “살리+어요. 당신은 의사로서 당신의 일을 하+여요” +이라며 “죽이어야 하+ㄹ 상황이 생기면 죽이는 것+ㄴ내가 하+ㄹ터+이니까”라고 말 하+ 여두 사람이 이 고비를 어떻게 넘기+ㄹ지에 대하+ 여기 대가 높아지고 있다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-3일에는 서울 용산구 국방부 청사에서 한민구 장관 및 이순진 합참의장과 한미 국방장관 회담을 열고 북핵 및 미사일 문제 등 한미동맹과 관련 하+ㄴ 주요 현안에 대하+여 논의 하+ㄴ 뒤 일본으로 출국 하+ㄹ 예정이다 .	O LOC-B LOC-B LOC-B LOC-I PER-B O O PER-B O ORG-B O O O O O O O O ORG-B O O O O O O O O LOC-B O O O O
-“창조경제고나 발이고 남의 밥그릇에 숟가락 얹는 것+이 무슨 놈의 창조경제야?” 지나 +ㄴ 25일 국회의원회관에서 열리+ㄴ ‘자동차 온라인 거래제도 개선 방안 정책토론회’도 중 고성이 터지+어나오았다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-행촌권 도시농업을 총괄 관리하는 고창고창록씨는 “도심 속에서 농업기술교육과 모종생산, 재배와 판매까지 이루어지는 도시농업의 전형적 이+ㄴ 사례”라고 설명하였다 .	O O O O LOC-B O O O O O O O O O O O O O
-MC 김성주가 “YG가 연애 금지령으로 유명 하+ㄴ데 악동뮤지션도 연애금지 조항 같은 것+이 있냐?”고 질문하였다 .	O PER-B ORG-B O O O O ORG-B O O O O O O O
-TK 맹주로 자리잡는다면 보수진영의 표심을 단합시키+ㄹ 수 있고 진보진영과 보수진영의 1대 1 구도에서 보수표가 자신에게 몰리+ㄹ 것이라는 계산 때문이다 .	O O O O O O O O O O O O O O O O O O O O
-부하 직원들에게 승진 청탁 명목으로 뇌물을 받고 근무성적을 조작하+ㄴ 혐의로 재판에 넘기+어지+ㄴ나근형 전 인천시교육감(76)에게 징역 1년6월이 확정되었다 .	O O O O O O O O O O O PER-B O O O O O O
-티켓은 2만원이며 예매는 인터파크 티켓에서 하+ㄹ 수 있다 .	ORG-I MNY-B O ORG-B ORG-I O O O O
-앞서 +어지나 +ㄴ 2001년 3월 시작하였던 홍대 라이브 글럽데이는 2011년 1월 공연을 끝으로 잠정 중단되었다가 이번에 부활하게 +었다 .	O O O O O O O O O O O O O O O O O O O
-새롭ㄴ 홍대 라이브클럽 데이에 +ㄴ클럽 FF, 에반스, 프리버드 등 홍대를 대표하는 라이브 클럽 10곳과 40여 팀의 뮤지션들이 참여하+여마니아들의 기대감을 높이었다 .	O LOC-B ORG-B O ORG-B ORG-I ORG-B ORG-B O LOC-B O O ORG-B O O O O O O O O
-문송희 한국여성단체협의회 사무총장은 “개인 간의 문제를 국가가 관리 하+ㄴ다는 것은 시대에 맞지 않아 헌재의 결정을 환영하+ㄴ다”면서도 “아직도 우리 사회의 약자 이+ㄴ 여성들 사이에 +ㄴ 간통죄 존속을 원하는 목소리도 상당하다”고 전하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-플레이어는 5대 5로 계속 하+여서 선택의 순간을 맞이하게 되+ㄹ 것이고, 팀과 개인이 어떠하+ㄴ 선택을 하냐에 따르 아전투의 향방은 크게 달라지게 되+ㄹ 것이다 .	O O O O O O O O O O O O O O O O O O O O O O O
+10 일 나온 ‘ 갤럭시 S 6 ’ 와 ‘ 갤럭시 S 6 엣지 ’ 가 그 결과물 이 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+이 에 시진 은 “ 살려요 . 당신 은 의사 로서 당신 의 일 을 해요 ” 라며 “ 죽 여야 할 상황 이 생기 면 죽이 는 건 내 가 할 테 니까 ” 라고 말해 두 사람 이 이 고비 를 어떻 게 넘길지 에 대해 기대 가 높아지 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 일 에 는 서울 용산구 국방부 청사 에서 한민구 장관 및 이순진 합참 의장 과 한미 국방 장관 회담 을 열 고 북 핵 및 미사일 문제 등 한미 동맹 과 관련한 주요 현안 에 대해 논의한 뒤 일본 으로 출국할 예정 이 다 .	DAT-B DAT-I O O LOC-B LOC-B LOC-B LOC-I O PER-B O O PER-B O O O ORG-B O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O LOC-B O O O O O O
+“ 창조 경제 고 나발 이 고 남 의 밥그릇 에 숟가락 얹 는 게 무슨 놈 의 창조 경제 야 ? ” 지난 25 일 국회 의원 회관 에서 열린 ‘ 자동차 온라인 거래 제도 개선 방안 정책 토론회 ’ 도중 고성 이 터져 나 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O
+행촌 권 도시 농업 을 총괄 관리하 는 고창 고창록 씨 는 “ 도심 속 에서 농업 기술 교육 과 모종 생산 , 재배 와 판매 까지 이뤄지 는 도시 농업 의 전형적 인 사례 ” 라고 설명 했 다 .	O O O O O O O O LOC-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+MC 김성주 가 “ YG 가 연애 금지 령 으로 유명한데 악동 뮤지션 도 연애 금지 조항 같 은 게 있 냐 ? ” 고 질문 했 다 .	O PER-B O O ORG-B O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+TK 맹주 로 자리 잡 는다 면 보수 진영 의 표 심 을 단합 시킬 수 있 고 진보 진영 과 보수 진영 의 1 대 1 구도 에서 보수 표 가 자신 에게 몰릴 것 이 라는 계산 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+부하 직원 들 에게 승진 청탁 명목 으로 뇌물 을 받 고 근무 성적 을 조작한 혐의 로 재판 에 넘겨 진 나근형 전 인천시 교육감 ( 76 ) 에게 징역 1 년 6 월 이 확정 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+티켓 은 2 만 원 이 며 예매 는 인터파크 티켓 에서 할 수 있 다 .	O O MNY-B MNY-I MNY-I O O O O ORG-B ORG-I O O O O O O
+앞서 지난 2001 년 3 월 시작 했 던 홍대 라이브 글 럽 데이 는 2011 년 1 월 공연 을 끝 으로 잠정 중단 됐 다가 이번 에 부활하 게 됐 다 .	O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+새로 운 홍대 라이브 클럽 데이 엔 클럽 FF , 에반스 , 프리 버드 등 홍대 를 대표하 는 라이브 클럽 10 곳 과 40 여 팀 의 뮤지션 들 이 참여해 마니아 들 의 기대감 을 높 였 다 .	O O O O O O O ORG-B ORG-I O ORG-B O ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+문송희 한국 여성 단체 협의회 사무총장 은 “ 개인 간 의 문제 를 국가 가 관리한다는 것 은 시대 에 맞 지 않 아 헌재 의 결정 을 환영한다 ” 면서 도 “ 아직 도 우리 사회 의 약자 인 여성 들 사이 엔 간통죄 존속 을 원하 는 목소리 도 상당하 다 ” 고 전 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+플레이어 는 5 대 5 로 계속해서 선택 의 순간 을 맞이하 게 될 것 이 고 , 팀 과 개인 이 어떠한 선택 을 하 냐 에 따 라 전투 의 향방 은 크 게 달라지 게 될 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

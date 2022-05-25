@@ -1,13 +1,13 @@
-이 전 의원은 "여기 왜 오+ㄴ지 모르겠다고 하+시었는데 이제 좀 알게 되+시었냐"는 기자들의 질문에 "조금 피곤하지만 여러 가지를 열심히 분명히 밝히었다"고 말하였다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O
-앞서 IS는 뮐러가 요르단 폭격기의 공습을 받아 숨지었다고 주장하였고, 미국 정보 당국도 뮐러가지난해 사망하였고 사인은 알지 못하+ㄴ다고 공식 발표하였다 .	O ORG-B PER-B ORG-B O O O O O ORG-B O O PER-B O O O O O O O
-하지만 뒤늦게 이 동영상이 공개되+어뮐러의 생존 가능성에 무게가 실리+ㄴ다 .	O O O O PER-B O O O O O
-이들이 위치하+ㄴ 곳은 오늘날의 싱가포르, 휴양지 로 널리 알려지+ㄴ센토사 섬으로 넘어가는 길목이다 .	O O O O LOC-B O O O LOC-B LOC-I O O O
-울릉도에 최근 사흘간 무려 380㎜의 폭우가 내리면서 터널이 무너지고 산사태가 발생하는 등 곳곳에서 인명과 재산피해가 속출하였다 .	LOC-B O O O O O O O O O O O O O O O O
-30일에+ㄴ울릉읍도동리 울릉초등학교 인근 건설현장 주변에서 오후 4시20분쯤 산사태가 발생하+여 건설현장과 가정집 일부를 덮치었다 .	LOC-B LOC-B O O O O O O O O O O O O
-대화명은 ‘뚫비 3000원’으로 설정하였다 .	O O O O O
-매주 1시간씩 독서·토론·국악 등 16개 동아리에서 활동하는 것도 자랑거리+이다 .	O O O O O O O O O O
-모두투어리츠는 모두투어의 인지도를 토대로 투자 및 자금조달에서 안정성을 확보하고, 모두 스테이는 호텔 운영에서 연간 관광객 200만명을 해외로 내보내는 모두투어의 도움을 받을 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-‘이영돈과 열애’ 황정음, 과거 성형 고백 “코에 보형물 넣었다가 빼+었다 .	PER-B O PER-B O O O O O O O O
-국민 여러분께서도 좌절감을 느끼+시었겠지만, 박근혜 정부의 초대 총리를 지내+ㄴ 제가 갖는 참담하+ㅁ은 이루 말 하+ㄹ 수 없습니다 .	O O O O PER-B O O O O O O O O O O O O O
-그는 그 조약이 일본을 미국의 속국으로 만들었다고 믿었기 때문에 이를 개정하는 데 온 힘을 쏟았다 .	O O O ORG-B ORG-B O O O O O O O O O O O
-또한 시기 면에서도 북한 측은 모두를 양보하+ㄴ 것만은 아니+ㄴ 것 같다 .	O O O ORG-B O O O O O O O O
+이 전 의원 은 " 여기 왜 온 지 모르 겠 다고 하 셨 는데 이제 좀 알 게 되 셨 냐 " 는 기자 들 의 질문 에 " 조금 피곤하 지만 여러 가지 를 열심히 분명히 밝 혔 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 IS 는 뮐러 가 요르단 폭격기 의 공습 을 받 아 숨 졌 다고 주장 했 고 , 미국 정보 당국 도 뮐러 가 지난해 사망 했 고 사인 은 알 지 못한다고 공식 발표 했 다 .	O ORG-B O PER-B O ORG-B O O O O O O O O O O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O
+하지만 뒤늦 게 이 동영상 이 공개돼 뮐러 의 생존 가능성 에 무게 가 실린다 .	O O O O O O O PER-B O O O O O O O O
+이 들 이 위치한 곳 은 오늘날 의 싱가포르 , 휴양지 로 널리 알려진 센토사 섬 으로 넘어가 는 길목 이 다 .	O O O O O O O O LOC-B O O O O O LOC-B LOC-I O O O O O O O
+울릉도 에 최근 사흘 간 무려 380 ㎜ 의 폭우 가 내리 면서 터널 이 무너지 고 산사태 가 발생하 는 등 곳곳 에서 인명 과 재산 피해 가 속출 했 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+30 일 엔 울릉읍 도동리 울릉초등학교 인근 건설 현장 주변 에서 오후 4 시 20 분 쯤 산사태 가 발생해 건설 현장 과 가정집 일부 를 덮 쳤 다 .	DAT-B DAT-I O LOC-B LOC-B LOC-B O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O
+대화 명 은 ‘ 뚫비 3000 원 ’ 으로 설정 했 다 .	O O O O O O O O O O O O O
+매주 1 시간 씩 독서 · 토론 · 국악 등 16 개 동아리 에서 활동하 는 것 도 자랑거리 다 .	O O O O O O O O O O O O O O O O O O O O O
+모두투어 리츠 는 모두투어 의 인지도 를 토대 로 투자 및 자금 조달 에서 안정성 을 확보하 고 , 모두 스테이 는 호텔 운영 에서 연간 관광객 200 만 명 을 해외 로 내보내 는 모두투어 의 도움 을 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 이영돈 과 열애 ’ 황 정음 , 과거 성형 고백 “ 코 에 보형물 넣 었 다가 뺐 다 ”	O PER-B O O O PER-B PER-I O O O O O O O O O O O O O O
+국민 여러분 께서 도 좌절감 을 느끼 셨 겠 지만 , 박근혜 정부 의 초대 총리 를 지낸 제 가 갖 는 참담함 은 이루 말할 수 없 습니다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+그 는 그 조약 이 일본 을 미국 의 속국 으로 만들 었 다고 믿 었 기 때문 에 이 를 개정하 는 데 온 힘 을 쏟 았 다 .	O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+또한 시기 면 에서 도 북한 측 은 모두 를 양보한 것 만 은 아닌 것 같 다 .	O O O O O ORG-B O O O O O O O O O O O O O

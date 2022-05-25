@@ -1,15 +1,15 @@
-한국의 경우 북한과 달리 국방백서를 통하+여 인건비·유지비·무기체계 비용을 공개하고 개별 사업별 구체적 이+ㄴ 규모도 드러내+ㄴ다 .	ORG-B O ORG-B O O O O O O O O O O O O O
-배우 탕웨이의 무대난 입이 새삼 화제+이다 .	O PER-B O O O O O
-앞서 +어지난달 방송되+ㄴ SBS '한밤의 TV 연예'에서는 탕웨이의 서울 나들이 소식을 전하였다 .	O O O ORG-B O O O PER-B LOC-B O O O O
-당시 탕웨이는 서울의 한 파티장에 모습을 드러내+어 이목을 집중시키+ㄴ바 있다 .	O PER-B LOC-B O O O O O O O O
-내가 캠프를 하+여야 하는 이유에 대하+ 여 잘 좀 +어달라고 가족에게 부탁하였답니다 .	O O O O O O O O O O O O O
-이용자 수도 전년 대비 15.9% 증가 하+ㄴ 5.28억억명을 기록하는 등 폭발적 이+ㄴ 성장세를 보이고 있다 .	O O O O O O O O O O O O O O O O
-정부가 IMF에 쫓아가기 일주일 전에는 전국경제인연합회가 위기 극복을 위하+여 3년간 임금 동결을 제안하며 근로자에게 무(無)분규운동을, 정치권에는 정쟁 자제를 촉구하였지만 노정(勞政)은 듣은 척도 하지 않았다 .	O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O
-둘째, 그의 방북 중 유엔 안보리에서 본격 논의되+ㄹ 대북 제재 결의안이 결코 허장성 세가 아니+ㅁ을 분명히 주지시키+어야 하+ㄴ다는 점이다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O
-LH 관계자는 “그린주차장 공법을 완성시키+ㄴ후, 민·관 공동투자 기술 개발사업과 연계하해 독창적 이+ㄴ 브랜드로 발전시키+어나가 +ㄹ 계획”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-추신수의 시즌 타율은 0.200에서 0.235(34타수 8안타)로 올라가 +았다 .	PER-B O O O O O O O O
-추신수는 1회 초상대선발 카를로스 마르티네스의 시속 98마일(약 158㎞) 짜리 4구째 직구를 노리+어치+어우전 안타를 뽑아내 +었다 .	PER-B O O PER-B PER-I O O O O O O O O O O O
-놀라+ㄴ은 빈은 수연을 밀치+어 내려고 +였지만 이내 껴안았다 .	O O O O O O O O O
-솜사탕과 고추아가씨 두 여성 보컬리스트는 각각 가수 장혜진의 ‘1994년 어느 늦은 밤’과 김 추자의 ‘님은 멀+ㄴ 곳에’를 부르었다 .	PER-B PER-B O O O O O PER-B O O O O O O O O O O O
-[이훈범의 생각하지도] 배신은 가깝ㄴ 곳에서 시작되+ㄴ .	O O O O O O O
-새로 설치 하+ㄴ 조형물은 다음달 3일까지 매일 오후 6시부터 10시까지 밤을 밝히게 되+ㄴ다 .	O O O O O O O O O O O O O O
+한국 의 경우 북한 과 달리 국방백서 를 통해 인건비 · 유지비 · 무기 체계 비용 을 공개하 고 개별 사업 별 구체적 인 규모 도 드러낸다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+배우 탕 웨이 의 무대 난입 이 새삼 화제 다 .	O PER-B PER-I O O O O O O O O
+앞서 지난달 방송된 SBS ' 한밤 의 TV 연예 ' 에서 는 탕 웨이 의 서울 나들이 소식 을 전 했 다 .	O O O ORG-B O O O O O O O O PER-B PER-I O LOC-B O O O O O O O
+당시 탕 웨이 는 서울 의 한 파티 장 에 모습 을 드러내 이목 을 집중 시킨 바 있 다 .	O PER-B PER-I O LOC-B O O O O O O O O O O O O O O O O
+내 가 캠프 를 해야 하 는 이유 에 대해 잘 좀 써 달 라고 가족 에게 부탁 했 답니다 .	O O O O O O O O O O O O O O O O O O O O O
+이용자 수 도 전년 대비 15.9 % 증가한 5.28 억 억 명 을 기록하 는 등 폭발적 인 성장세 를 보이 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+정부 가 IMF 에 쫓아가 기 일주일 전 에 는 전국경제인연합회 가 위기 극복 을 위해 3 년 간 임금 동결 을 제안하 며 근로자 에게 무 ( 無 ) 분규 운동 을 , 정치권 에 는 정쟁 자제 를 촉구 했 지만 노정 ( 勞政 ) 은 들 은 척 도 하 지 않 았 다 .	O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+둘째 , 그 의 방북 중 유엔 안보리 에서 본격 논의될 대북 제재 결의안 이 결코 허장성세 가 아님 을 분명히 주지 시켜야 한다는 점 이 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+LH 관계자 는 “ 그린 주차장 공법 을 완성 시킨 후 , 민 · 관 공동 투자 기술 개발 사업 과 연계 하 해 독창적 인 브랜드 로 발전 시켜 나갈 계획 ” 이라고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+추신수 의 시즌 타율 은 0.200 에서 0.235 ( 34 타수 8 안타 ) 로 올라갔 다 .	PER-B O O O O O O O O O O O O O O O O O
+추신수 는 1 회 초 상대 선발 카를로스 마르티네스 의 시속 98 마일 ( 약 158 ㎞ ) 짜리 4 구 째 직구 를 노려 쳐 우전 안타 를 뽑아냈 다 .	PER-B O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+놀란 은빈 은 수연 을 밀쳐 내 려고 했 지만 이내 껴안 았 다 .	O PER-B O O O O O O O O O O O O O
+솜사탕 과 고추 아가씨 두 여성 보컬리스트 는 각각 가수 장혜진 의 ‘ 1994 년 어느 늦 은 밤 ’ 과 김추자 의 ‘ 님 은 먼 곳 에 ’ 를 불 렀 다 .	PER-B O PER-B PER-I O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O
+[ 이훈범 의 생각 지 도 ] 배신 은 가까 운 곳 에서 시작된다	O O O O O O O O O O O O O O
+새로 설치한 조형 물 은 다음 달 3 일 까지 매일 오후 6 시 부터 10 시 까지 밤 을 밝히 게 된다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O

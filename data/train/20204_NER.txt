@@ -1,12 +1,12 @@
-영화 '파라노 말 액티비티'에서 나오는 이 같은 "심령 현상을 겪었다"는 영국 여성이 나타나 +았다 .	O O O O O O O O O O ORG-B O O O O
-김한별은 힘이 좋아 상대의 빅맨 수비도 곧잘 해내+ㄴ다 .	PER-B O O O O O O O O
-충격을 딛고 재빨리 카메라를 180도 돌리면 !촬영용 소프트키들이 같이 아래로 내려오는 설계 이+ㅂ니다 .	O O O O O O O O O O O O O O
-여러설이 있지만 소동파가 항저우(杭州)의 지주로 있을 때 삼겹살 조림이 +ㄴ훙 사오러우(紅燒肉)를 자신의 취향대로 만들었다는 설이 유력하다 .	O O PER-B LOC-B O O O O O O O O O O O O O
-항저우식은 삼겹살을 두툼 하+ㄴ 사각 덩어리로 내+ㄴ다 .	LOC-B O O O O O O O
-김씨는 센터의 이구건 상담사에게 “나이 탓이 +ㄴ지 새 직장을 찾기 쉽지 않다”고 털어놓았다 .	PER-B O PER-B O O O O O O O O O O O
-OK저축은행 김정훈의 서브를 현대캐피탈이 문성민의 백어택으로 연결하였다 .	ORG-B PER-B O ORG-B PER-B O O O
-조코비치는 경기 후정현에 대하+여 “좀 더 경험과 시간이 필요하+ㄹ 것”이라면서도 “향후 최고 수준의 선수가 되+ㄹ만 하+ㄴ 잠재력을 갖추었다는 평가를 받는 선수 중 한 명이다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
-그러나 이후 야당 측이 2004년이나다가 모리토모 측을 변호하었던 법정기록을 제시하자 말을 바꾸었다 .	O PER-B O PER-B PER-B PER-I O O O O O O O
-야노시호, 유치원 사진 … 어리+ㄹ적부터 미모 남다르 .	PER-B O O O O O O O
-앞서 +어러시아 병사들은 탈출하였다(사진2).[유튜브 캡처 .	O ORG-B O O O O
-쓴맛을 줄이고 깊은 풍미를 살리기 위하+여아라비카 원두를 100% 사용하고 미세 분쇄 원두 함유량을 10%로 증량 하+여질과 맛 모두 업그레이드 하+ㄴ 것이 특징이다 .	O O O O O O O O O O O O O O O O O O O O O O O
+영화 ' 파라노 말 액티비티 ' 에서 나오 는 이 같 은 " 심령 현상 을 겪 었 다 " 는 영국 여성 이 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O
+김한별 은 힘 이 좋 아 상대 의 빅맨 수비 도 곧잘 해낸다 .	PER-B O O O O O O O O O O O O O
+충격 을 딛 고 재빨리 카메라 를 180 도 돌리 면 ! 촬영 용 소프트 키 들 이 같이 아래 로 내려오 는 설계 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+여러 설 이 있 지만 소동파 가 항저우 ( 杭州 ) 의 지주 로 있 을 때 삼겹살 조림 인 훙사오러 우 ( 紅燒肉 ) 를 자신 의 취향 대로 만들 었 다는 설 이 유력하 다 .	O O O O O PER-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+항저우 식 은 삼겹살 을 두툼한 사각 덩어리 로 낸다 .	LOC-B O O O O O O O O O O
+김 씨 는 센터 의 이구건 상담 사 에게 “ 나이 탓 인지 새 직장 을 찾 기 쉽 지 않 다 ” 고 털어 놨 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+OK 저축은행 김정훈 의 서브 를 현대캐피탈 이 문성민 의 백 어택 으로 연결 했 다 .	ORG-B ORG-I PER-B O O O ORG-B O PER-B O O O O O O O O
+조코 비치 는 경기 후 정현 에 대해 “ 좀 더 경험 과 시간 이 필요할 것 ” 이 라면서 도 “ 향후 최고 수준 의 선수 가 될 만한 잠재력 을 갖 췄 다는 평가 를 받 는 선수 중 한 명 이 다 .	PER-B PER-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 이후 야당 측 이 2004 년 이 나다 가 모리 토모 측 을 변호 했 던 법정 기록 을 제시하 자 말 을 바 꿨 다 .	O O O O O DAT-B DAT-I PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O O O O O O
+야노 시 호 , 유치원 사진 … 어릴 적 부터 미모 남달 라	PER-B PER-I PER-I O O O O O O O O O O
+앞서 러시아 병사 들 은 탈출 했 다 ( 사진 2 ) . [ 유튜브 캡처 ]	O ORG-B O O O O O O O O O O O O O O O
+쓴맛 을 줄이 고 깊 은 풍미 를 살리 기 위해 아라비카 원두 를 100 % 사용하 고 미세 분쇄 원두 함유량 을 10 % 로 증량해 질 과 맛 모두 업그레이드한 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

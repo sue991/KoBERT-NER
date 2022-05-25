@@ -1,16 +1,16 @@
-전원합의체 사건을 형사, 민사, 특별(행정 및 특허) 사건 3가지로 나누+어 분석 하+ㄴ 결과 대표적 진보그룹으로 분류되 +ㄴ 김영란 전수안 박시환이 홍훈김 지형 전 대법관은 형사사건에서 진보성향(1,2, 3,5, 6위)이 뚜렷하였지만 민사에서는 이합집산하였고, 행정사건에서는 오히려 보수적 이+ㄴ 색채(1,2, 3,4, 8위)를 보이었다 .	O O O O O O O O O O O O O O O O O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O
-이날 김상훈의 현장검증을 보러 모이+ㄴ 인파 속에는 부인 A씨와 사망 하+ㄴ 전 남편 B씨 사이에서 태어나 +ㄴ아들도 모습을 지켜보고 있었다 .	O PER-B O O O O O O O O O O O O O O O O O O O
-이 주상복합에는 ‘트럼프월드’ +이란 이름에 걸맞게 국내에서 처음으로 ‘트럼프식 주거서비스’가 도입되었습니다 .	O O PER-B O O O O O PER-B O O O
-그때 총리제의를 받은 일이 있는 지 세 차례나 물어보았다 .	O O O O O O O O O O
-한편 바이든 부통령은 이날 조지 워싱턴대학에서 열리+ㄴ대담에서 2011년 오사마 빈 라덴 사살 작전을 설명하면서 리언 패네타 당시 중앙정보국(CIA) 국장과 로버트 게이츠 국방장관 등 2명만이 오바마 대통령에게 작전 수행 여부에 대하+ㄴ 명확 하+ㄴ 입장을 밝히었다고 공개하였다 .	O PER-B O O O O O O PER-B PER-I PER-I O O O PER-B PER-I O ORG-B O PER-B PER-I O O O PER-B O O O O O O O O O O O
-쥬라기 월드, 14년 만에 스케일로 승부 전 세계를 강타하었던 ‘쥬라기 공원’ 시리즈의 네 번째 작품 ‘쥬라기 월드’가 오는 6월 국내 개봉을 앞두고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-정씨는 부산으로 압송되었다 .	PER-B LOC-B O O
-권아솔 “아오르꺼러랑 붙고 싶다” -이 둘희와 SNS 설전을 많이 벌이었는데 솔직하+ㄴ 심정은.“나는 로드FC 라이트급 챔피언이다 .	PER-B PER-B O O PER-B PER-I O O PER-B PER-B O O O PER-B PER-B O
-국회의 대통령 탄핵소추안 가결을 환영하는 시국대회와 촛불집회가 10일 대전과 세종·충남지역 곳곳에서 열리었다 .	O O O O O O O O LOC-B LOC-B O O O
-이날 오후 5시 대전시 서구 둔산동 갤러리아타임월드 앞에서 열리+ㄴ ‘박근혜 퇴진 4차대전 10만시국대회’에는 1만여명의 시민이 동참하였다 .	O O O LOC-B LOC-B LOC-B LOC-B LOC-B O PER-B O LOC-B TIM-I O O O O
-그 다음은 엄마가 나보다 예쁘고, 3대 중 내가 제일 못생기었다”라고 말 하+ㄴ바 있다 .	O O O O O O O O O O O O O O
-한편, 5일 중국의 한 연예매체는 “유역비와 송승헌 이 사랑에 빠지었다”면서 “영화를 촬영하며 인연을 맺었고 현재 열애 중”이라고 보도하였다 .	O O ORG-B O O PER-B PER-B O O O O O O O O O O O O
-대관령 눈꽃축제 9일 개막, 평창동계올림픽 성공 기원 ‘눈나라의 꿈 .	O O O O LOC-B O O O O O
-“우아하+ㄴ D라인”…장 윤주, 톱 모델의 수영복만 삭 화 .	O O O O O O O O O
-실제 KT&G의 주가는 외국산 담배사들의 저가 전략이 가시화되+ㄴ 지나 +ㄴ 8일 이후 5.9% 내리었다 .	O ORG-B O O O O O O O O O O O O O
-장동건조 카유민포함되 +ㄴ멜로디 데이, 두 번째 싱글 앨범으로 컴 .	PER-B PER-B ORG-B ORG-I O O O O O O
+전원 합의체 사건 을 형사 , 민사 , 특별 ( 행정 및 특허 ) 사건 3 가지 로 나눠 분석한 결과 대표적 진보 그룹 으로 분류된 김영란 전수안 박시환 이홍훈 김지형 전 대법관 은 형사사건 에서 진보 성향 ( 1 , 2 , 3 , 5 , 6 위 ) 이 뚜렷 했 지만 민사 에서 는 이합 집산 했 고 , 행정 사건 에서 는 오히려 보수적 인 색채 ( 1 , 2 , 3 , 4 , 8 위 ) 를 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-B PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 김상훈 의 현장검증 을 보 러 모인 인파 속 에 는 부인 A 씨 와 사망한 전남편 B 씨 사이 에서 태어난 아들 도 모습 을 지켜보 고 있 었 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 주상 복합 에 는 ‘ 트럼프월드 ’ 란 이름 에 걸맞 게 국내 에서 처음 으로 ‘ 트럼프 식 주거 서비스 ’ 가 도입 됐 습니다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+그때 총리 제의 를 받 은 일 이 있 는지 세 차례 나 물어 봤 다 .	O O O O O O O O O O O O O O O O O
+한편 바이든 부통령 은 이날 조지워싱턴 대학 에서 열린 대담 에서 2011 년 오사마 빈 라덴 사살 작전 을 설명하 면서 리언 패 네 타 당시 중앙 정보국 ( CIA ) 국장 과 로버트 게이츠 국방 장관 등 2 명 만 이 오바마 대통령 에게 작전 수행 여부 에 대한 명확한 입장 을 밝 혔 다고 공개 했 다 .	O PER-B O O O ORG-B ORG-I O O O O DAT-B DAT-I PER-B PER-I PER-I O O O O O PER-B PER-I PER-I PER-I O ORG-B ORG-I O ORG-B O O O PER-B PER-I O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+쥬라기 월드 , 14 년 만 에 스케일 로 승부 전 세계 를 강타 했 던 ‘ 쥬라기 공원 ’ 시리즈 의 네 번째 작품 ‘ 쥬라기 월드 ’ 가 오 는 6 월 국내 개봉 을 앞두 고 있 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+정 씨 는 부산 으로 압송 됐 다 .	PER-B O O LOC-B O O O O O
+권 아솔 “ 아 오르 꺼 러 랑 붙 고 싶 다 ” - 이 둘 희 와 SNS 설전 을 많이 벌 였 는데 솔직한 심정 은 . “ 나 는 로드 FC 라이트급 챔피언 이 다 .	PER-B PER-I O PER-B PER-I PER-I PER-I O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O
+국회 의 대통령 탄핵 소추 안 가결 을 환영하 는 시국 대회 와 촛불 집회 가 10 일 대전 과 세종 · 충남 지역 곳곳 에서 열 렸 다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B O LOC-B O LOC-B O O O O O O O
+이날 오후 5 시 대전시 서 구 둔산동 갤러리아 타임 월드 앞 에서 열린 ‘ 박근혜 퇴진 4 차 대전 10 만 시국 대회 ’ 에 는 1 만 여 명 의 시민 이 동참 했 다 .	O TIM-B TIM-I TIM-I LOC-B LOC-B LOC-I LOC-B LOC-B LOC-I LOC-I O O O O PER-B O O O LOC-B O O O O O O O O O O O O O O O O O O
+그다음 은 엄마 가 나 보다 예쁘 고 , 3 대 중 내 가 제일 못생 겼 다 ” 라고 말한 바 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 5 일 중국 의 한 연예 매체 는 “ 유역 비 와 송승헌 이 사랑 에 빠 졌 다 ” 면서 “ 영화 를 촬영하 며 인연 을 맺 었 고 현재 열애 중 ” 이라고 보도 했 다 .	O O DAT-B DAT-I ORG-B O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대관령 눈꽃 축제 9 일 개막 , 평창 동계 올림픽 성공 기원 ‘ 눈 나라 의 꿈 ’	O O O DAT-B DAT-I O O LOC-B O O O O O O O O O O
+“ 우아한 D 라인 ” … 장윤주 , 톱모델 의 수영복 만삭 화보	O O O O O O PER-B O O O O O O
+실제 KT & G 의 주가 는 외국산 담배 사 들 의 저가 전략 이 가시화된 지난 8 일 이후 5.9 % 내 렸 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+장동건 조카 유민 포함된 멜로디 데이 , 두 번 째 싱글 앨범 으로 컴백	PER-B O PER-B O ORG-B ORG-I O O O O O O O O

@@ -1,14 +1,14 @@
-그는 스스로 “나+의 휴대전화 컬러링처럼 ‘거위의 꿈’을 이루었다”라고 말하기도 +였다 .	O O O O O O O O O O O
-지하철 분당선 고장, 150여명 승객 2시간 가까이 공포 속에 … “현재 정상 운행”22일 지하철 분당선 고장으로 150여명의 승객들이 2시간 가까이 불꺼지+ㄴ 전동차의 어둠 속에서 공포에 떨었다 .	O LOC-B O O O O O O O O O O O O LOC-B O O O O O O O O O O O O
-이날 오후 3시34분께 분당선 왕십리행 열차가 서울숲역에서 멈추+어서는 사고가 있었다 .	O O O LOC-B O O LOC-B O O O O
-안내자는 평소 한여름에도 14도를 넘지 않는다고 +였다 .	O O O O O O O O
-동생이 먼저 2012년부터 대표팀을 2년간 지도하였고 형은 2015년부터 대표팀을 맡아 국제 경쟁력을 키우고 있다 .	O O O O O O O O O O O O O O O
-그의 표현을 빌자면 “통계청 통계를 가장 많이 이용하던 수혜자가 통계의 공급자가 되+ㄴ 셈”이다 .	O O O ORG-B O O O O O O O O O O
-취임 100여일을 맞은 유 청장의 가장 크+ㄴ 관심사는 13일을 기준으로 49일 앞으로 다가오+ㄴ ‘2015인구주택총조사’+이다 .	O O O O O O O O O O O O O O O
-김정남 암살 사건으로 체포되 +ㄴ 두 명의 여성 중 한 명이 +ㄴ 베트남의 도안티 흐엉이 사건 전에 자신의 페이스북에 다 그녀의 범죄 현장 CCTV 트레이드 마크가 되+ㄴ “LOL”셔츠 차림 사진을 올리+ㄴ 것으로 보이어지+ㄴ다 .	PER-B O O O O O O O O O O O ORG-B PER-B PER-I O O O O O O O O O O O O O O O O O O O
-최윤소, '내반반'이태임대역 21회부터 확정… 제작사 "대체가 옳은 선택 .	PER-B PER-B O O O O O O O
-이런 식으로 중국·일본·미국과 국내에서 연인원 300여명이 참여하는 글로벌 네트워크를 구성하+ㄹ 수 있었고, 프로젝트가 끝나면 결과물을 책으로 발간하는 원칙을 세우었다 .	O O ORG-B O O O O O O O O O O O O O O O O O
-고주파수핵감압술과 경추신경성형술은 둘 다 시술시간이 20분가량 걸리+어 당일 치료가 가능하다 .	O O O O O O O O O O O
-연암대, 취업멘토링 프로그램 ‘세발자전거’ 운 .	ORG-B O O O O O
-매니저가 보+ㄴ드라마 ‘프로듀사’ KBS2TV 드라마 ‘프로듀사’가 방송사 예능국이야기를 사실적으로 그리고 있다는 연예계 안팎의 평가 속에서 아이유가 맡은 극중 인기가수 ‘신디’와 그 주변인의 사실성에 대하+ㄴ 궁금증도 커지고 있다 .	O O O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O O O
-NH투자증권은 저금리, 고령화시대에 초과수익과 노후자산까지 대비 하+ㄹ 수 있는 금융상품으로 대표적 이+ㄴ 연금상품이 +ㄴ 연금저축계좌와 개인형 퇴직연금(IRP)을 꼽았다 .	ORG-B O O O O O O O O O O O O O O O O O O
+그 는 스스로 “ 내 휴대 전화 컬러링 처럼 ‘ 거위 의 꿈 ’ 을 이 뤘 다 ” 라고 말하 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+지하철 분당 선 고장 , 150 여 명 승객 2 시간 가까이 공포 속 에 … “ 현재 정상 운행 ” 22 일 지하철 분당 선 고장 으로 150 여 명 의 승객 들 이 2 시간 가까이 불 꺼진 전동차 의 어둠 속 에서 공포 에 떨 었 다 .	O LOC-B LOC-I O O O O O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 오후 3 시 34 분 께 분당 선 왕십리 행 열차 가 서울 숲 역 에서 멈춰 서 는 사고 가 있 었 다 .	O TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-I O O O O LOC-B LOC-I LOC-I O O O O O O O O O O
+안내자 는 평소 한여름 에 도 14 도 를 넘 지 않 는다고 했 다 .	O O O O O O O O O O O O O O O O
+동생 이 먼저 2012 년 부터 대표 팀 을 2 년 간 지도 했 고 형 은 2015 년 부터 대표 팀 을 맡 아 국제 경쟁력 을 키우 고 있 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+그 의 표현 을 빌 자면 “ 통계청 통계 를 가장 많이 이용하 던 수혜자 가 통계 의 공급자 가 된 셈 ” 이 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+취임 100 여 일 을 맞 은 유 청장 의 가장 큰 관심사 는 13 일 을 기준 으로 49 일 앞 으로 다가온 ‘ 2015 인구 주택 총 조사 ’ 다 .	O DAT-B DAT-I DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O DAT-B O O O O O O O
+김정남 암살 사건 으로 체포된 두 명 의 여성 중 한 명 인 베트남 의 도안 티 흐엉 이 사건 전 에 자신 의 페이스북 에다 그녀 의 범죄 현장 CCTV 트레이드 마크 가 된 “ LOL ” 셔츠 차림 사진 을 올린 것 으로 보 여 진다 .	PER-B O O O O O O O O O O O O ORG-B O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최윤소 , ' 내 반반 ' 이태임 대역 21 회 부터 확정 … 제작사 " 대체 가 옳 은 선택 "	PER-B O O O O O PER-B O O O O O O O O O O O O O O
+이런 식 으로 중국 · 일본 · 미국 과 국내 에서 연인원 300 여 명 이 참여하 는 글로벌 네트워크 를 구성할 수 있 었 고 , 프로젝트 가 끝나 면 결과물 을 책 으로 발간하 는 원칙 을 세 웠 다 .	O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고주파 수핵 감압 술 과 경추 신경 성형술 은 둘 다 시술 시간 이 20 분 가량 걸려 당일 치료 가 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+연암 대 , 취업 멘토링 프로그램 ‘ 세발자전거 ’ 운영	ORG-B ORG-I O O O O O O O O
+매니저 가 본 드라마 ‘ 프로듀사 ’ KBS 2 TV 드라마 ‘ 프로듀사 ’ 가 방송사 예능 국 이야기 를 사실적 으로 그리 고 있 다는 연예계 안팎 의 평가 속 에서 아이유 가 맡 은 극 중 인기 가수 ‘ 신디 ’ 와 그 주변인 의 사실성 에 대한 궁금증 도 커지 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O
+NH 투자 증권 은 저금리 , 고령화 시대 에 초과 수익 과 노후 자산 까지 대비할 수 있 는 금융 상품 으로 대표적 인 연금 상품 인 연금 저축 계좌 와 개인 형 퇴직 연금 ( IRP ) 을 꼽 았 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,17 +1,17 @@
-금융당국, 대형 증권사들 기업대출 한도 확대하기 .	ORG-B O O O O O O
-◆여당 “총리 인준안 17일까지 +이 처리 하+ 여야” = 유승민 원내대표는 이날 당 최고위원회의에서 “18일 대정부질문이 시작되는 만큼 17일까지 +이 황교안 국무총리 후보자에 대하+ㄴ인준안을 처리하+ 여야 하+ㄴ다”고 강조하였다 .	O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O
-나르+ㅁ 조절 하+여능 수능란하게 빠져나 오+ㄹ줄 알았는데 그렇지 않더라.”한계는 2일 종영하+ㄴ MBC 일일드라마 ‘소원을 말하+여보+아’ 이후 절정에 다다르았다 .	O O O O O O O O O O O ORG-B O O O O O O O
-차두리, 손흥민에게 쐐기골 패스, 중계석 “저런 선수가 왜 브라질 월드컵 때 해설을 …”손흥민에게 쐐기골을 어시스트 하+여주+ㄴ차두리가 화제의 중심으로 떠오르았다 .	PER-B PER-B O O O O O O O O O O PER-B O O PER-B O O O O
-대한민국 축구대표팀이 우지베키스탄과 2015AFC 호주 아시안컵 8강전에서 2-0으로 승리를 거두+ㄴ 가운데 차두리와 손흥민에 대하+ㄴ 관심이 집중되었다 .	ORG-B ORG-I ORG-B O O O O O O O O PER-B PER-B O O O O
-지나+ㄴ 22일 오후 대표팀은 ‘2015AFC 아시안컵’ 8강 우즈베키스탄(이하 우즈벡)과의 8강 경기에서 연장 접전을 벌이어 2대0으로 승리하였다 .	O O O O O O O LOC-B LOC-B O O O O O O O O
-한국과 우즈벡은 연장 승부에서 손흥민의 2골에 힘입어 준결승에 지출하였다 .	ORG-B ORG-B O O PER-B O O O O O
-이날 대표팀은 손흥민의 연장 전반 14분 헤딩골로 1대0으로 앞서 +어나가 +았다 .	O O PER-B O O O O O O O O O
-후반 14분에는 차두리가 오른쪽 측면을 단독으로 돌파 하+ㄴ 뒤 수비수를 제치고 골문 앞으로 달려들는 손승민에게 정확하+ㄴ패스를 잇어쐐기골을 만들었다 .	O O PER-B O O O O O O O O O O O PER-B O O O O
-이 과정에서 중계석에서는 “저런 선수가 왜 브라질 월드컵 때 해설을 하+ㄴ지 모르겠다”며 은퇴를 앞두 +ㄴ차두리를 언급하며 의미심장 하+ㄴ말을 남기었다 .	O O O O O O O O O O O O O O PER-B O O O O O
-이 작업에 앞으로 4~5일 정도가 걸리+ㄹ 예정이다 .	O O O O O O O O
-상황이 이런데도 개헌을 추진하는 이들의 움직임에 정치권이 주목하는 것은 ‘개헌 카드’가 반(反)문재인 진영을 결속하는 핵심적 명분으로 떠오르+ㄹ 수 있기 때문이다 .	O O O O O O O O O O O PER-B O O O O O O O O O
-1998년 1월 생이승우는 내년 1월이면 징계가 끝나 +ㄴ다 .	O O PER-B O O O O O O
-뇌물 혐의는 지금까지 박 대통령이 받고 있는 혐의 가운데 법정 형량이 가장 무겁다 .	O O O PER-B O O O O O O O O O O
-테크노밸리와 시너지를 유도하+여판교를 한국판 실리콘밸리로 키우겠다는 취지의 정부 계획이 지난해 6월 처음 발표되었고, 1단계 용지(도로공사 이전지 22만3000m²)는 같은 해 11월 도시첨단산단으로 지정되었다 .	LOC-B O LOC-B LOC-B LOC-I O O O O O O O O O ORG-B O O O O O O O O
-아모레퍼시픽그룹 해외 관광객 유치에 나서 +었 .	ORG-B O O O O O O
-이승우 IBK투자증권 연구원은 “리콜로 인하+ㄴ손실도 비용이지만 향후 스마트폰 판매에 미치+ㄹ 영향과 중장기 브랜드 가치 훼손 등을 감안하면 현 단계에서 +ㄴ 추가 손실액을 예측하기가 어렵다”고 분석하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+금융 당국 , 대형 증권사 들 기업 대출 한도 확대 키 로	ORG-B ORG-I O O O O O O O O O O
+◆ 여당 “ 총리 인준 안 17 일 까진 처리해야 ” = 유승민 원내 대표 는 이날 당 최고 위원 회의 에서 “ 18 일 대 정부 질문 이 시작되 는 만큼 17 일 까진 황교안 국무총리 후보자 에 대한 인준 안 을 처리해야 한다 ” 고 강조 했 다 .	O O O O O O DAT-B DAT-I O O O O PER-B O O O O O O O O O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O
+나름 조절해 능수능란하 게 빠져나올 줄 알 았 는데 그렇 지 않 더라 . ” 한계 는 2 일 종영한 MBC 일일 드라마 ‘ 소원 을 말해 봐 ’ 이후 절정 에 다다 랐 다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O
+차두리 , 손흥민 에게 쐐기 골 패스 , 중계 석 “ 저런 선수 가 왜 브라질 월드컵 때 해설 을 … ” 손흥민 에게 쐐기 골 을 어시스트 해 준 차두리 가 화제 의 중심 으로 떠올 랐 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O
+대한민국 축구 대표 팀 이 우지 베 키스 탄 과 2015 AFC 호주 아시안 컵 8 강 전 에서 2 - 0 으로 승리 를 거둔 가운데 차두리 와 손흥민 에 대한 관심 이 집중 됐 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O DAT-B O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O
+지난 22 일 오후 대표 팀 은 ‘ 2015 AFC 아시안 컵 ’ 8 강 우즈베키스탄 ( 이하 우즈벡 ) 과 의 8 강 경기 에서 연장 접전 을 벌 여 2 대 0 으로 승리 했 다 .	O DAT-B DAT-I O O O O O DAT-B O O O O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O
+한국 과 우즈벡 은 연장 승부 에서 손흥민 의 2 골 에 힘입 어 준결승 에 지출 했 다 .	ORG-B O ORG-B O O O O PER-B O O O O O O O O O O O O
+이날 대표 팀 은 손흥민 의 연장 전반 14 분 헤딩 골 로 1 대 0 으로 앞서 나갔 다 .	O O O O PER-B O O O O O O O O O O O O O O O O
+후반 14 분 에 는 차두리 가 오른쪽 측면 을 단독 으로 돌파한 뒤 수비수 를 제치 고 골문 앞 으로 달려드 는 손승민 에게 정확한 패스 를 이 어 쐐기 골 을 만들 었 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+이 과정 에서 중계 석 에서 는 “ 저런 선수 가 왜 브라질 월드컵 때 해설 을 한 지 모르 겠 다 ” 며 은퇴 를 앞둔 차두리 를 언급하 며 의미심장한 말 을 남 겼 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+이 작업 에 앞 으로 4 ~ 5 일 정도 가 걸릴 예정 이 다 .	O O O O O DAT-B O DAT-B DAT-I O O O O O O O
+상황 이 이런 데 도 개헌 을 추진하 는 이 들 의 움직임 에 정치권 이 주목하 는 것 은 ‘ 개헌 카드 ’ 가 반 ( 反 ) 문재인 진영 을 결속하 는 핵심적 명분 으로 떠오를 수 있 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+1998 년 1 월 생 이승우 는 내년 1 월 이 면 징계 가 끝난다 .	DAT-B DAT-I DAT-I DAT-I O PER-B O O DAT-B DAT-I O O O O O O
+뇌물 혐의 는 지금 까지 박 대통령 이 받 고 있 는 혐의 가운데 법정 형량 이 가장 무겁 다 .	O O O O O PER-B O O O O O O O O O O O O O O O
+테크노밸리 와 시너지 를 유도해 판교 를 한국 판 실리콘밸리 로 키우 겠 다는 취지 의 정부 계획 이 지난해 6 월 처음 발표 됐 고 , 1 단계 용지 ( 도로 공사 이전지 22 만 3000 m ² ) 는 같 은 해 11 월 도시 첨단 산단 으로 지정 됐 다 .	LOC-B O O O O LOC-B O LOC-B LOC-I LOC-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+아모레퍼시픽 그룹 해외 관광객 유치 에 나섰 다	ORG-B ORG-I O O O O O O
+이승우 IBK 투자 증권 연구원 은 “ 리콜 로 인한 손실 도 비용 이 지만 향후 스마트 폰 판매 에 미칠 영향 과 중 장기 브랜드 가치 훼손 등 을 감안하 면 현 단계 에선 추가 손실액 을 예측하 기 가 어렵 다 ” 고 분석 했 다 .	PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

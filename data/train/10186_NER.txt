@@ -1,15 +1,15 @@
-메이저리그 동양인 최다승(124승)에 빛나는 박찬호의 경험을 듣는 것만 하+여도 어리+ㄴ 선수들에게는 엄청나 +ㄴ 간접 체험이다 .	O O O O PER-B O O O O O O O O O O O
-그는 19세기 유럽과 미국 역사의 동인을 '자유'와 '조직'으로 설명 하+ㄴ다 .	O O ORG-B ORG-B O O O O O O O
-한국소비자원에서 추천하+ㄴ 일반인을 심사위원단에 포함하고, 추가 인력이 필요하+ㄹ 경우 과거 호텔 근무 경력 여부를 일반인 심사위원의 자격요건으로 삼겠다는 것이다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-당시 이명박 후보의 독주체제 속에 보수진영은 이명박이회창 후보로, 진보진영은 정동영 문국현 권영길 후보로 표심이 갈리었다 .	O PER-B O O O O PER-B O O PER-B PER-B PER-B O O O O
-포지션은 2루수. 주전 유격수는 올해 초 뉴욕 양키스에 입단 하+ㄴ 1년 후배 박효준에게 넘기었다 .	O O O O O O ORG-B ORG-I O O O O PER-B O O
-하지만 1973~2011년에는 생산성은 94% 증가하였는데 시간당 임금은 9%만 오르았다 .	O O O O O O O O O O
-친구들과 함께 전주관광을 +았다는 이현정(39·서울)씨는 "갖가지 나물 향이 은은하+여서 좋다 .	O O LOC-B O LOC-B O O O O O O
-[2016 한국산업대상/ 글로벌 부문]신기술 레이저 용접법, 선진국에 수 .	O O O O O O O O O
-세터이효희와 염혜선은 안정적 이+ㄴ토스로 상대 블로킹 벽을 허물었다 .	PER-B PER-B O O O O O O O
-가구소득에 따르+ㄴ 사교육비 양극화는 2015년보다 심화한 것으로 나타나 +았다 .	O O O O O O O O O O
-교육부와 통계청은 이 같은 내용을 담은 ‘2016년 초·중·고사 교육비 조사’를 14일 발표하였다 .	ORG-B ORG-B O O O O O O O O O O O
-우리나라의 경우 연평균 3300명의 자궁경부암 환자가 발생하고 900여명이 사망 하+ㄴ다 .	O O O O O O O O O O O
-에셋플러스자산운용은 2013년부터 경기 성남시 분당구로, 메리츠자산운용은 2014년 서울 종로구 북촌로로 자리를 옮기었다 .	ORG-B O LOC-B LOC-I LOC-B ORG-B O LOC-B LOC-B LOC-B O O O
-이틀 전 이+ㄴ 27일 트럼프 대통령의 반(反)이민 행정명령으로 분노하+ㄴ 시민들은 ＇ 환하게 웃고 있는 이 둘 ＇을 맹비난하였다고 미 언론들이 전하였다 .	O O O O PER-B O O O O O O O O O O O O O O O O O
-이수근 ‘냉장고를 부탁하+여’ 정형돈 대체 객원 MC 발 .	PER-B O O PER-B O O O O O
+메이저리그 동양인 최 다승 ( 124 승 ) 에 빛나 는 박찬호 의 경험 을 듣 는 것 만 해도 어린 선수 들 에게 는 엄청난 간접 체험 이 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+그 는 19 세기 유럽 과 미국 역사 의 동인 을 ' 자유 ' 와 ' 조직 ' 으로 설명한다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O O O O
+한국소비자원 에서 추천한 일반인 을 심사 위원단 에 포함하 고 , 추가 인력 이 필요할 경우 과거 호텔 근무 경력 여부 를 일반인 심사 위원 의 자격 요건 으로 삼 겠 다는 것 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당시 이명박 후보 의 독주 체제 속 에 보수 진영 은 이명박 이회창 후보 로 , 진보 진영 은 정동영 문국현 권영길 후보 로 표 심 이 갈 렸 다 .	O PER-B O O O O O O O O O PER-B PER-B O O O O O O PER-B PER-B PER-B O O O O O O O O O
+포지션 은 2 루수 . 주전 유격수 는 올해 초 뉴욕 양키스 에 입단한 1 년 후배 박효준 에게 넘 겼 다 .	O O O O O O O O O O ORG-B ORG-I O O O O O PER-B O O O O O
+하지만 1973 ~ 2011 년 에 는 생산성 은 94 % 증가 했 는데 시간 당 임금 은 9 % 만 올 랐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+친구 들 과 함께 전주 관광 을 왔 다는 이현정 ( 39 · 서울 ) 씨 는 " 갖가지 나물 향 이 은은해서 좋 다 .	O O O O LOC-B O O O O PER-B O O O LOC-B O O O O O O O O O O O O
+[ 2016 한국 산업 대상 / 글로벌 부문 ] 신기술 레이저 용접 법 , 선진국 에 수출	O O O O O O O O O O O O O O O O O
+세터 이효희 와 염혜선 은 안정적 인 토스 로 상대 블로킹 벽 을 허물 었 다 .	O PER-B O PER-B O O O O O O O O O O O O O
+가구 소득 에 따른 사교육비 양극화 는 2015 년 보다 심화 한 것 으로 나타났 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O
+교육부 와 통계청 은 이 같 은 내용 을 담 은 ‘ 2016 년 초 · 중 · 고 사교육비 조사 ’ 를 14 일 발표 했 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+우리나라 의 경우 연평균 3300 명 의 자궁 경부 암 환자 가 발생하 고 900 여 명 이 사망한다 .	O O O O O O O O O O O O O O O O O O O O
+에셋 플러스 자산 운용 은 2013 년 부터 경기 성남시 분당구 로 , 메리츠 자산 운용 은 2014 년 서울 종로구 북촌 로로 자리 를 옮 겼 다 .	ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O LOC-B LOC-I LOC-B O O ORG-B ORG-I ORG-I O DAT-B DAT-I LOC-B LOC-B LOC-B O O O O O O O
+이틀 전 인 27 일 트럼프 대통령 의 반 ( 反 ) 이민 행정 명령 으로 분노한 시민 들 은 ＇ 환하 게 웃 고 있 는 이 둘 ＇ 을 맹 비난 했 다고 미 언론 들 이 전 했 다 .	O O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이수근 ‘ 냉장고 를 부탁해 ’ 정형돈 대체 객원 MC 발탁	PER-B O O O O O PER-B O O O O

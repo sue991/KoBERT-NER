@@ -1,13 +1,13 @@
-이미 LG베테랑타자 박용택이 A형 인플루엔자 판정을 받아 1군 엔트리에서 제외되었다 .	O ORG-B PER-B O O O O ORG-B O O O
-이래저래 따지면 정치권에서 한 회장과 안 닿는 의원이 별로 없다는 얘기도 들리+ㄴ다 .	O O O PER-B O O O O O O O O O
-올해 가장 작았던 3월의 달보다 지름이 14% 크다 .	O O O O O O O O O
-충남, 미세먼지 火電에 ‘火’나 +았 .	ORG-B O O O O O
-몸무게의 약 900배에 이르는 압력에서 그들은 완전히 납작하여 +지+었다가 곧바로 원상을 회복하였다 .	O O O O O O O O O O O O O
-양국이 1886년 조·불 수호 통상조약 체결 이후 130년 만에 열리는 첫 전략대화+이라는 것 외에도 특별 하+ㄴ점이 있었다 .	O O O O O O O O O O O O O O O O O O
-윤병세 외교부 장관과 장 마르크에로 프랑스 외교 국제개발부 장관이 만나 +ㄴ 장소가 관심을 끌었다 .	PER-B ORG-B PER-B PER-B PER-I ORG-B ORG-I ORG-I PER-B O O PER-B O O O
-박 대표는 “당시 경제인이나 전문가들은 정 명예회장이 정식 교육을 못 배우어서 뭣모르고 사업을 밀어붙이 +ㄴ다고 생각하였다”며 “하지만 결국 이런 획기적 이+ㄴ 사업으로 한국 경제가 급속도로 발전하+ㄹ 수 있었다”고 평가하였다 .	PER-B O O O O PER-B O PER-B O O O O O O O O O O O O O O ORG-B O O O O O O O
-한편 박보영은 최근 종영하+ㄴ JTBC '힘쎈여자 도봉순‘에서 정의롭 ㄴ 일을 위하+여 힘을 아끼지 않으며 귀엽ㄴ 매력을 선보이+ㄴ '도봉순' 역할을 맡아 시청자들의 크+ㄴ사랑을 받았다 .	O PER-B O O ORG-B O PER-B O O O O O O O O O O PER-B O O O O O O
-안 견의 ‘몽유도원도’는 조선 초기 산수화 이+ㅂ니다 .	O O O ORG-B O O O O
-‘로드FC’ 최홍만, 징역 1년 집행유예 2년 구형… “특별히 말 하+ㄹ 것+이 없다” 사기 혐의로 기소되+ㄴ 최홍만이 집행유예를 구형받았다 .	O PER-B O O O O O O O O O O O O O PER-B O O O
-17일 서울 동부지법 형사9단독 강수정 판사 심리로 열리+ㄴ 최홍만에 대하+ㄴ 결심공판에서 검찰은 최씨에게 사기죄를 적용, 징역 1년에 집행유예 2년을 구형하였다 .	O O O O PER-B O O O PER-B O O O PER-B O O O O O O O O
-최홍만의 변호인은 최종 변론에서 “돈을 빌리었을 때 최씨의 경제적 상황이 좋지 않았던 점, 편취하려는 적극적 의사가 있었던 것이 아니라 미필적 고의+이었다는 점을 고려하+여달라”고 말하였다 .	PER-B O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O
+이미 LG 베테랑 타자 박용택 이 A 형 인플루엔자 판정 을 받 아 1 군 엔트리 에서 제외 됐 다 .	O ORG-B O O PER-B O O O O O O O O ORG-B ORG-I O O O O O O
+이래저래 따지 면 정치권 에서 한 회장 과 안 닿 는 의원 이 별로 없 다는 얘기 도 들린다 .	O O O O O PER-B O O O O O O O O O O O O O O
+올해 가장 작 았 던 3 월 의 달 보다 지름 이 14 % 크 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O
+충남 , 미세 먼지 火電 에 ‘ 火 ’ 났 다	ORG-B O O O O O O O O O O
+몸무게 의 약 900 배 에 이르 는 압력 에서 그 들 은 완전히 납작해 졌 다가 곧바로 원상 을 회복 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+양국 이 1886 년 조 · 불 수호 통상 조약 체결 이후 130 년 만 에 열리 는 첫 전략 대화 라는 것 외 에 도 특별한 점 이 있 었 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤병세 외교부 장관 과 장 마르크 에로 프랑스 외교 국제 개발 부 장관 이 만난 장소 가 관심 을 끌 었 다 .	PER-B ORG-B O O PER-B PER-I PER-I ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O
+박 대표 는 “ 당시 경제인 이나 전문가 들 은 정 명예 회장 이 정식 교육 을 못 배 워서 뭣 모르 고 사업 을 밀어붙인다고 생각 했 다 ” 며 “ 하지만 결국 이런 획기적 인 사업 으로 한국 경제 가 급속도 로 발전할 수 있 었 다 ” 고 평가 했 다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+한편 박보영 은 최근 종영한 JTBC ' 힘쎈여자 도봉순 ‘ 에서 정의로 운 일 을 위해 힘 을 아끼 지 않 으며 귀여 운 매력 을 선보인 ' 도봉순 ' 역할 을 맡 아 시청자 들 의 큰 사랑 을 받 았 다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+안견 의 ‘ 몽유도원도 ’ 는 조선 초기 산수화 입니다 .	PER-B O O O O O ORG-B O O O O
+‘ 로드 FC ’ 최홍만 , 징역 1 년 집행 유예 2 년 구형 … “ 특별히 말할 게 없 다 ” 사기 혐의 로 기소된 최홍만 이 집행 유예 를 구형 받 았 다 .	O O O O PER-B O O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O PER-B O O O O O O O O O
+17 일 서울동부지법 형사 9 단독 강수정 판사 심리 로 열린 최홍만 에 대한 결심 공판 에서 검찰 은 최 씨 에게 사기죄 를 적용 , 징역 1 년 에 집행 유예 2 년 을 구형 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I PER-B O O O O PER-B O O O O O O O PER-B O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O
+최홍만 의 변호인 은 최종 변론 에서 “ 돈 을 빌 렸 을 때 최 씨 의 경제적 상황 이 좋 지 않 았 던 점 , 편취하 려는 적극적 의사 가 있 었 던 것 이 아니 라 미필 적 고의 였 다는 점 을 고려해 달 라 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

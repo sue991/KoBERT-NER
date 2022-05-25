@@ -1,12 +1,12 @@
-정의신은 이번 창극의 무대 설치와 캐스팅도 파격적으로 선택하였다 .	PER-B O O O O O O O O
-안희정 “지도자는 철학이 중요 …시혜 성 공약 안되+어 .	PER-B O O O O O O O O
-일본 정부는 이를 위하+여 3차 추경 예산에 경기대책재원을 반영하고 토지 유동화를 위하+ㄴ 규제 완화와 주택세제 감면 확대 등은 94년 예산(94년 4월∼95년 3월)에 반영하+ㄹ 계획이 +ㄴ 것으로 알려지었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
-이인제에게 영남지방에서 뜨겁ㄴ지지를 보이면 충청 대망론의 불꽃을 피우고 불꽃개혁을 바탕으로 꼭 승리하겠다”고 말하였다 .	PER-B LOC-B O O LOC-B O O O O O O O O O
-인근 갤러리아 포레 전용 170㎡는 현재 33억~35억원에 시세가 형성되+어 있다 .	O LOC-B LOC-I O O O MNY-B O O O O
-65세 미만 중·장년도 면역력이 떨어지면 얼마든지 위험군에 포함되 +ㄹ 수 있다 .	O O O O O O O O O O O O
-청와대 관계자는 물론, 민자당 현역 의원에 이르기까지 무려 40명 정도를 증인 소환 리스트에 올려놓고 있다 .	ORG-B O O ORG-B O O O O O O O O O O O O
-미 의회 예산국은 『현 상황에서 원거리 지역 분쟁이 발생하+ㄴ다면, 미군이 배치되는데 소요되는 기간은 약 석 달 』이+ㄹ 것이라고 분석하고 있다 .	ORG-B ORG-I ORG-I O O O O O O ORG-B O O O O O O O O O O O
-지난해 무주와 지리산 리조트 객실시설을 리모델링 +하였고 내년 봄에 나머지 50%를 리모델링할 계획이다 .	O LOC-B LOC-B O O O O O O O O O O O
-올해 산업별 1위 조사는 총 79개 산업군(제조부문 25개, 서비스 부문 35개, 공공부문 19개)에 대하+여진행되었다 .	O O O O O O O O O O O O O O O
-하지만 평택성모병원의 병실은 배기구가 없고 창문이 좁았다 .	O ORG-B O O O O O O
-시험이 +ㄴ 양 결과가 성공적이라는 판단이 들고 기상 상황이 양호하+ㄹ 것으로 예상되면 본격적으로 세월호를 끌어올리는 본인양에 착수하+ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O O
+정의 신 은 이번 창극 의 무대 설치 와 캐스팅 도 파격적 으로 선택 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O
+안희정 “ 지도자 는 철학 이 중요 … 시 혜성 공약 안돼 ”	PER-B O O O O O O O O O O O O
+일본 정부 는 이 를 위해 3 차 추경 예산 에 경기 대책 재원 을 반영하 고 토지 유동 화 를 위한 규제 완화 와 주택 세제 감면 확대 등 은 94 년 예산 ( 94 년 4 월 ∼ 95 년 3 월 ) 에 반영할 계획 인 것 으로 알려 졌 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+이인제 에게 영남 지방 에서 뜨거 운 지지 를 보이 면 충청 대망 론 의 불꽃 을 피우 고 불꽃 개혁 을 바탕 으로 꼭 승리하 겠 다 ” 고 말 했 다 .	PER-B O LOC-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+인근 갤러리아 포레 전용 170 ㎡ 는 현재 33 억 ~ 35 억 원 에 시세 가 형성돼 있 다 .	O LOC-B LOC-I O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O
+65 세 미만 중 · 장년 도 면역력 이 떨어지 면 얼마 든지 위험 군 에 포함될 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O
+청와대 관계자 는 물론 , 민자당 현역 의원 에 이르 기 까지 무려 40 명 정도 를 증인 소환 리스트 에 올려놓 고 있 다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+미 의회 예산 국 은 『 현 상황 에서 원거리 지역 분쟁 이 발생한다면 , 미군 이 배치되 는데 소요되 는 기간 은 약 석 달 』 일 것 이 라고 분석하 고 있 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 무주 와 지리산 리조트 객실 시설 을 리모델링 했 고 내년 봄 에 나머지 50 % 를 리모델링 할 계획 이 다 .	O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O
+올해 산업 별 1 위 조사 는 총 79 개 산업 군 ( 제조 부문 25 개 , 서비스 부문 35 개 , 공공 부문 19 개 ) 에 대해 진행 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 평택성모병원 의 병실 은 배기구 가 없 고 창문 이 좁 았 다 .	O ORG-B O O O O O O O O O O O O O
+시험 인 양 결과 가 성공적 이 라는 판단 이 들 고 기상 상황 이 양호할 것 으로 예상되 면 본격적 으로 세월호 를 끌어올리 는 본인 양 에 착수할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

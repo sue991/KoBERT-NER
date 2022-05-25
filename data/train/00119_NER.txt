@@ -1,15 +1,15 @@
-중일 정상회담을 집요하게 타진하는 동시에 9월 3일 항일 전승절에도 참석 하+ㄹ 가능성이 높다는 일본 신문의 보도가 나오았다 .	ORG-B O O O O O O O O O O O O LOC-B O O O O
-벡스코는 2001년 개관 이후 연간 10건 이상의 국제전시회를 주관하며 전문성과 국내외 네트워크 등을 인정받고 있다 .	ORG-B O O O O O O O O O O O O O O O
-위 감독 밑에서 우리은행 선수들은 난생 처음 남자 고교 선수들과의 연습 경기로 거칠 +ㄴ몸싸움을 견디+어야 +였다 .	PER-B O O ORG-B O O O O O O O O O O O O O
-일러스트 테마는 연하장, 크리스마스, 생일/초대장, 사랑/우정, 시험, 감사, 사과 등이다 .	O O O O O O O O O O O
-한국토지주택공사(LH)와 인천도시공사가 8조원을 들이어 조성하고 있는 인천 중구 영종도 영종하늘도시(1930만4000m²)에 대하+ㄴ투자자들의 관심이 달아오르고 있다 .	ORG-B LOC-B MNY-B O O O LOC-B LOC-B LOC-B LOC-I O O O O O
-김혜선은 과거 방송에서 두 번째 남편과 헤어지며 양육권과 친권을 얻기 위하+여 17억원의 빚을 떠안은 사실을 공개하였다 .	PER-B O O O O O O O O O O MNY-B O O O O O
-22일부터는 한정판 ‘핑크빈’ 피규어를 받을 수 있는 메이플스토리도시락 6종도 선보이+ㄴ다 .	O O O O O O O O O O O
-올 들어서 21일까지 11.3% 오르았다 .	O O O O O O
-현대차는 현재까지 국내 출시 계획은 밝히지 않고 있다 .	ORG-B O O O O O O O O
-완공의 2017년 .‘도봉역 디지털 엠파이어 지식산업센터’는 도봉동 일대에 지하 2층~지상 13층 규모로 IT 관련 업종 R＆D(연구소), 벤처기업 등 지식형 산업공간으로 조성되며 8월 말 착공하+ㄹ 예정이다 .	O O LOC-B LOC-I LOC-I LOC-I LOC-B O O O O O O O O O O O O O O O O O O O
-서정주·황순원·조연현 등대가들을 ‘현대의 신라인’들로 분류하며 문단질서의 재편을 시도하였다(장석주, 『나는 문학이 다』) .	PER-B O O O O O O PER-B O O O O
-서울대병원 관계자는 "함께 있던 최자가 매우 걱정스럽ㄴ 표정으로 설리 곁을 지키었다"고 말하였다 .	ORG-B O O O PER-B O O O PER-B O O O O
-24일 설리가 손목 부상을 당하였다는 소식이 전 하+여지자 온라인상에서는 최자와의 불화설 등 각종 루머가 확산되었다 .	O PER-B O O O O O O O PER-B O O O O O O
-[메디컬 아시아 2016] 목&허리디스크 부문-21세기병 .	O O O O O O
-여해가 은주의 책꽂이를 보며, 학생들이 형식의 책장을 살피며 그러하였듯이 책장을 통하+여 그 주인을 짐작하+ㄹ 수 있다 .	PER-B PER-B O O O O O O O O O O O O O O O
+중 일 정상회담 을 집요하 게 타진하 는 동시 에 9 월 3 일 항일 전승 절 에 도 참석할 가능성 이 높 다는 일본 신문 의 보도 가 나 왔 다 .	ORG-B ORG-I O O O O O O O O DAT-B DAT-I DAT-I DAT-I O DAT-B DAT-I O O O O O O O LOC-B O O O O O O O O
+벡스코 는 2001 년 개관 이후 연간 10 건 이상 의 국제 전시회 를 주관하 며 전문성 과 국내외 네트워크 등 을 인정받 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+위 감독 밑 에서 우리은행 선수 들 은 난생처음 남자 고교 선수 들 과 의 연습 경기 로 거친 몸싸움 을 견뎌야 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+일러스트 테마 는 연하장 , 크리스마스 , 생일 / 초대장 , 사랑 / 우정 , 시험 , 감사 , 사과 등 이 다 .	O O O O O DAT-B O O O O O O O O O O O O O O O O O O
+한국토지주택공사 ( LH ) 와 인천도시공사 가 8 조 원 을 들 여 조성하 고 있 는 인천 중 구 영종도 영종 하늘 도시 ( 1930 만 4000 m ² ) 에 대한 투자자 들 의 관심 이 달아오르 고 있 다 .	ORG-B O ORG-B O O ORG-B O MNY-B MNY-I MNY-I O O O O O O O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O
+김혜선 은 과거 방송 에서 두 번째 남편 과 헤어지 며 양육 권 과 친권 을 얻 기 위해 17 억 원 의 빚 을 떠안 은 사실 을 공개 했 다 .	PER-B O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+22 일 부터 는 한정판 ‘ 핑크 빈 ’ 피규어 를 받 을 수 있 는 메이플 스토리 도시락 6 종 도 선보인다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+올 들 어서 21 일 까지 11.3 % 올 랐 다 .	O O O DAT-B DAT-I O O O O O O O
+현대차 는 현재 까지 국내 출시 계획 은 밝히 지 않 고 있 다 .	ORG-B O O O O O O O O O O O O O O
+완공 의 2017 년 . ‘ 도봉역 디지털 엠파이어 지식 산업 센터 ’ 는 도봉동 일대 에 지하 2 층 ~ 지상 13 층 규모 로 IT 관련 업종 R ＆ D ( 연구소 ) , 벤처기업 등 지식 형 산업 공간 으로 조성되 며 8 월 말 착공할 예정 이 다 .	O O DAT-B DAT-I O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+서정주 · 황순원 · 조연현 등 대가 들 을 ‘ 현대 의 신라 인 ’ 들 로 분류하 며 문단 질서 의 재편 을 시도 했 다 ( 장석주 , 『 나 는 문학 이 다 』 ) .	PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+서울대 병원 관계자 는 " 함께 있 던 최자 가 매우 걱정스러 운 표정 으로 설리 곁 을 지 켰 다 " 고 말 했 다 .	ORG-B ORG-I O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O
+24 일 설리 가 손목 부상 을 당 했 다는 소식 이 전해 지 자 온라인 상 에서 는 최자 와 의 불화 설 등 각종 루머 가 확산 됐 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+[ 메디컬 아시아 2016 ] 목 & 허리 디스크 부문 - 21 세기 병원	O O O O O O O O O O O O O O
+여해 가 은주 의 책꽂이 를 보 며 , 학생 들 이 형식 의 책장 을 살피 며 그러 했 듯이 책장 을 통해 그 주인 을 짐작할 수 있 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

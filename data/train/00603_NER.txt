@@ -1,13 +1,13 @@
-‘참을 인자셋이면 살인도면 하+ㄴ다’고 +였다 .	O O O O O O
-169개에 달하는 세부 목표 이행을 정부에만 맡기+어두+ㄹ 수 없어 시민사회와 민간기업 등 모든 이해관계자가 참여하도록 포용성을 키우+ㄴ 것도 특징이다 .	O O O O O O O O O O O O O O O O O O O O
-“박근혜 대통령 사퇴문, 수정 하+여주세요” 충북대 이색 대자 .	PER-B O O O O ORG-B O O O
-레바인 박사는 미국 최고의 종합병원 메이요 클리닉의 내분비학을 전공 하+ㄴ의사로 애리조나주립대비만센터의 총책임자를 맡고 있다 .	PER-B O LOC-B O O ORG-B ORG-I O O O ORG-B O O O O
-17세 이하 대표팀을 시작으로 20세, 23세 등 각급 연령별 대표팀을 거치며 유망주로 성장하였고 결국 2001년 22살의 나이로 ‘사커루’(호주 축구대표팀 애칭)의 일원이 +었다 .	O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O
-많은 중소기업과 스타트업이 연 매출의 20%에 달하는 피해를 정보 유출로 인하+ 여입고 있다 .	O O O O O O O O O O O O O O
-오피스 365는 이러 하+ㄴ 정보 유출을 방지하+ㄹ 수 있도록 5가지 핵심 보안 기능을 제공하+ㄴ다 .	ORG-B ORG-I O O O O O O O O O O O O O
-다만 FT 소속 기자들 사이에서는 편집권의 독립성이 훼손되는 것 아니냐는 우려가 확산되고 있다 .	O ORG-B O O O O O O O O O O O O
-그러나 개그계 동료들은 윤정수의 등장에 짓궂은 장난을 +었다 .	O O O PER-B O O O O O
-강예원은 지난해 촬영을 마치 +ㄴ 주연 영화 ‘연애의 맛’이 최근 개봉일을 확정하는 ‘행운’을 얻었다 .	PER-B O O O O O O O O O O O O O O
-또 다른 주연이 준기가 코뼈 부상을 입은 데 잇은 사고+이다 .	O O O O O O O O O O O
-한국에 생소하+ㄴ 하이브리드 모델이+ㅁ에도 예상을 깨고 소형 SUV 분야에서 좋은 성적을 거두었다 .	ORG-B O O O O O O O O O O O O
-'발칙하게 고고' 정은지 이원근, 달콤 살벌 하+ㄴ케미보이어 주+ㄹ까?… 벌써부터 기대만  .	O O PER-B PER-B O O O O O O O O
+‘ 참 을 인자 셋 이 면 살인 도 면한다 ’ 고 했 다 .	O O O O O O O O O O O O O O O
+169 개 에 달하 는 세부 목표 이행 을 정부 에 만 맡겨 둘 수 없 어 시민사회 와 민간 기업 등 모든 이해관계 자 가 참여하 도록 포용성 을 키운 것 도 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 박근혜 대통령 사퇴 문 , 수정해 주 세요 ” 충북대 이색 대자보	O PER-B O O O O O O O O ORG-B O O
+레바인 박사 는 미국 최고 의 종합 병원 메이요 클리닉 의 내분비학 을 전공한 의사 로 애리조나주립대 비만 센터 의 총책임자 를 맡 고 있 다 .	PER-B O O LOC-B O O O O ORG-B ORG-I O O O O O O ORG-B ORG-I ORG-I O O O O O O O O
+17 세 이하 대표 팀 을 시작 으로 20 세 , 23 세 등 각급 연령 별 대표 팀 을 거치 며 유망주 로 성장 했 고 결국 2001 년 22 살 의 나이 로 ‘ 사커 루 ’ ( 호주 축구 대표 팀 애칭 ) 의 일원 이 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O ORG-B ORG-I O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O
+많 은 중소기업 과 스타트 업 이 연 매출 의 20 % 에 달하 는 피해 를 정보 유출 로 인해 입 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+오피스 365 는 이러한 정보 유출 을 방지할 수 있 도록 5 가지 핵심 보안 기능 을 제공한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O
+다만 FT 소속 기자 들 사이 에서 는 편집권 의 독립성 이 훼손되 는 것 아니 냐는 우려 가 확산되 고 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+그러나 개그계 동료 들 은 윤정수 의 등장 에 짓궂 은 장난 을 쳤 다 .	O O O O O PER-B O O O O O O O O O O
+강예원 은 지난해 촬영 을 마친 주연 영화 ‘ 연애 의 맛 ’ 이 최근 개봉 일 을 확정하 는 ‘ 행운 ’ 을 얻 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 다른 주연 이준기 가 코뼈 부상 을 입 은 데 이 은 사고 다 .	O O O PER-B O O O O O O O O O O O O
+한국 에 생소한 하이브리드 모델 임에도 예상 을 깨 고 소형 SUV 분야 에서 좋 은 성적 을 거 뒀 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+' 발칙하 게 고고 ' 정은지 이원근 , 달콤 살벌한 케미 보 여 줄까 ? … 벌써 부터 기대 만발	O O O O O PER-B PER-B O O O O O O O O O O O O O

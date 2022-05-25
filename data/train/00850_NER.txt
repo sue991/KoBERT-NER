@@ -1,18 +1,18 @@
-1999년 드라마 ‘해피투게더’에서 가녀리고 사슴 같은 눈망울로 눈도장을 받은 이후 그 마력은 여전히 유효하+ㄴ듯 보이+ㄴ다 .	O O O O O O O O O O O O O O O O
-2014년 주택 투자 비중은 15.9%에 불과하었지만 지난해 26.2%로 뛰었다 .	O O O O O O O O O O
-프랑스에서 +ㄴ 2022년 대선에서 온건파 무슬림이 대통령이 되는 소설까지 등장하였다 .	LOC-B O O O O O O O O O O
-정책의 패러다임은 ‘왜 한부모가 +었는지’ 등의 도덕적 판단을 빼고 중립적이어야 하+ㄴ다 .	O O O O O O O O O O O O
-민족비극 씨앗 뿌리+ㄴ “6·25 전범 .	O O O O O O
-화려하+ㄴ 모습보다 +ㄴ 바쁘게 이동하는 차 안에서 김밥 한 줄 먹었던 기억이 더 많이나 +ㄴ다 .	O O O O O O O O O O O O O O O O
-"귀국 하+ㄴ다면 ‘가수 유승준’으로 부르고 싶은 첫 노래는."연예활동을 하고자 들어가는 것+ㄴ 아니다 .	O O O PER-B O O O O O O O O O
-첫째, 아이에게 미안하다 .	O O O O
-대우조선해양은 13,14일 양일간 거제조선소에 근무하는 조합원 6980명을 대상으로 파업 찬반투표를 벌이+ㄴ다 .	ORG-B O O ORG-B O O O O O O O O
-또 "조합원에 가입하고자 하+ㄹ 때는 토지 매입, 시공자, 시행사 등을 꼼꼼히 따지+어보고 신중하+ 여야 하+ㄴ다”고 당부하였다 이러 하+ㄴ 관점에서 오는 4월 충북 옥천에서 한국자산신탁이 시행하고 양우건설이 시공하는 ‘옥천 양우나 +의안애’ 일반분양이 눈길을 끌+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B ORG-B O LOC-B O LOC-B LOC-B LOC-I ORG-I O O O
-마크롱이 당선되 +ㄴ다면 5공화국에서 공화당과 사회당 집권만 경험 하+여보+ㄴ 프랑스로서는 초유의 일이 되+ㄴ다 .	PER-B O O ORG-B ORG-B ORG-B O O O ORG-B O O O O
-이 교수도 ＂지자체마다 제각각이+ㄴ 조례의 법적 근거를 마련하+ 여야 논란이 해소되+ㄹ 것＂이라고 강조하였다 .	PER-B O O PER-B O O O O O PER-B O PER-B O O
-문의는 인터넷(www.PLX24. com)·전화(1588-4930).[스포츠동아 .	O O ORG-B O
-AJ렌터카, 고척돔서 직장인 야구대회 개최 … 입장료는 무 .	ORG-B LOC-B O O O O O O O
-최근에 +ㄴ JTBC 드라마 ‘이번 주 아내가 바람을 피+ㅂ니다’에 출연하+ 여배우로서의 가능성도 인정받았다 .	O O ORG-B O O O O O O O O O O O
-황선홍 FC서울감독도 “일부러 이렇게 짜+아놓은 것 같다”고 헛웃음을 짓었을 정도의 강팀들이다 .	PER-B ORG-B O O O O O O O O O O
-학부생 신분이지만 SCI(국제과학논문색인) 급 저널에 1저자로 논문을 내+ㄴ 친구들도 있다 .	O O O O O O O O O O O
-그러자 신기하게도 그동안 잊고 살았던 어리+ㄴ 시절의 모든 것들이 마치 물에 색종이를 넣으면 온갖 모양의 꽃이 피어오르는 일본 종이 놀이처럼 찻잔에서 솟아오르았다 .	O O O O O O O O O O O O O O O O O LOC-B O O O O O
+1999 년 드라마 ‘ 해피투게더 ’ 에서 가녀리 고 사슴 같 은 눈망울 로 눈도장 을 받 은 이후 그 마력 은 여전히 유효한 듯 보인다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+2014 년 주택 투자 비중 은 15.9 % 에 불과 했 지만 지난해 26.2 % 로 뛰 었 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+프랑스 에선 2022 년 대선 에서 온건파 무슬림 이 대통령 이 되 는 소설 까지 등장 했 다 .	LOC-B O DAT-B DAT-I O O O O O O O O O O O O O O O
+정책 의 패러다임 은 ‘ 왜 한 부모 가 됐 는지 ’ 등 의 도덕적 판단 을 빼 고 중립적 이 어야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+민족 비극 씨앗 뿌린 “ 6 · 25 전범 ”	O O O O O O O O O O
+화려한 모습 보단 바쁘 게 이동하 는 차 안 에서 김밥 한 줄 먹 었 던 기억 이 더 많이 난다 .	O O O O O O O O O O O O O O O O O O O O O O
+" 귀국한다면 ‘ 가수 유승준 ’ 으로 부르 고 싶 은 첫 노래 는 . " 연예 활동 을 하 고자 들어가 는 건 아니 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+첫째 , 아이 에게 미안하 다 .	O O O O O O O
+대우조선해양 은 13 , 14 일 양일 간 거제 조선소 에 근무하 는 조합원 6980 명 을 대상 으로 파업 찬반 투표 를 벌인다 .	ORG-B O DAT-B O DAT-B DAT-I O O ORG-B ORG-I O O O O O O O O O O O O O O O
+또 " 조합원 에 가입하 고자 할 때 는 토지 매입 , 시공자 , 시 행사 등 을 꼼꼼히 따져 보 고 신중해야 한다 ” 고 당부 했 다 이러한 관점 에서 오 는 4 월 충북 옥천 에서 한국 자산 신탁 이 시행하 고 양우건설 이 시공하 는 ‘ 옥천 양우 내 안 애 ’ 일반 분양 이 눈길 을 끈다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-B O ORG-B ORG-I ORG-I O O O ORG-B ORG-I O O O LOC-B LOC-B LOC-I LOC-I LOC-I O O O O O O O O
+마크 롱이 당선된다면 5 공화국 에서 공화당 과 사회당 집권 만 경험해 본 프랑스 로서 는 초유 의 일 이 된다 .	PER-B O O ORG-B ORG-I O ORG-B O ORG-B O O O O ORG-B O O O O O O O O
+이 교수 도 ＂ 지자체 마다 제각각 인 조례 의 법적 근거 를 마련해야 논란 이 해소될 것 ＂ 이라고 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+문의 는 인터넷 ( www . PLX 24 . com ) · 전화 ( 1588 - 4930 ) . [ 스포츠 동아 ]	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O
+AJ 렌터카 , 고척돔 서 직장인 야구 대회 개최 … 입장료 는 무료	ORG-B ORG-I O LOC-B O O O O O O O O O
+최근 엔 JTBC 드라마 ‘ 이번 주 아내 가 바람 을 핍니다 ’ 에 출연해 배우 로서 의 가능성 도 인정받 았 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+황선홍 FC 서울 감독 도 “ 일부러 이렇 게 짜 놓 은 것 같 다 ” 고 헛웃음 을 지 었 을 정도 의 강팀 들 이 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+학부 생 신분 이 지만 SCI ( 국제 과학 논문 색인 ) 급 저널 에 1 저자 로 논문 을 낸 친구 들 도 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 자 신기하 게 도 그동안 잊 고 살 았 던 어린 시절 의 모든 것 들 이 마치 물 에 색종이 를 넣 으면 온갖 모양 의 꽃 이 피어오르 는 일본 종이 놀이 처럼 찻잔 에서 솟아올 랐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O

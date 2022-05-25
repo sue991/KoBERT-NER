@@ -1,10 +1,10 @@
-세계 첫 원형 시스템에어 .	O O O O O
-‘비선실세’로 지목되 +ㄴ 최순실(60)씨가 31일 오후 3시 검찰에 피의자 신분으로 출석하였다 .	O O O PER-B TIM-I TIM-B TIM-I O O O O O
-오후 2시58분쯤 최씨는 검은색 구형에쿠스 차량에서 내리+어 검찰 특별수사본부(본부장 이영렬 서울중앙지검장)가 차리+어지+ㄴ 서울중앙지검 청사로 걸어가+았다 .	TIM-B TIM-I PER-B O O O O O O PER-B LOC-B O LOC-B O O O
-국산 준중형 중 가장 높은 수준이며 이전과 비교하+여 10% 이상 상승하였다 .	O O O O O O O O O O O O
-힘도 이전보다 6~7% 늘어나 +았다 .	O O O O O O
-버락 오바마 대통령은 취임 후 이미 도장을 찍었던 한·미 자유무역협정(FTA)의 조정을 요구하였고 결국 이명박 정부는 추가 협상을 하+여야 +였다 .	PER-B PER-I O O O O O O O O O O O PER-B O O O O O O
-엑소레이기자회견 불참"중국서 영상통화로 인사"왜 .	ORG-B LOC-B O O O
-김혜은 배우에게 솔직하+ㄴ 답변을 원하+ㄴ다고 하자 거침없이 대답하었다 .	PER-B O O O O O O O O
-최소 1만년 전에 살았던 것으로 추정되는 털 매머드의 두개골·상아·피부 화석 등 30여 점을 보+ㄹ 수 있어요. 이번 전시는 박희원 일본 나가노현고생물학 박물관장이 기증 하+ㄴ신생대빙하기포유동물 화석표본 1300점 중 털매머드 핵심 표본만 공개하+ㄴ 특별전이 +ㅂ니다 .	O O O O O O O O O O O O O O O O O O PER-B LOC-B LOC-B O O O O O O O O O O O O O
-유엔을 비난하기 위하+ㄴ 목적이 담기 +ㄴ 성명이었다 .	ORG-B O O O O O O O
+세계 첫 원형 시스템 에어컨	O O O O O
+‘ 비선 실세 ’ 로 지목된 최순실 ( 60 ) 씨 가 31 일 오후 3 시 검찰 에 피의자 신분 으로 출석 했 다 .	O O O O O O PER-B O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O
+오후 2 시 58 분 쯤 최 씨 는 검은색 구형 에쿠스 차량 에서 내려 검찰 특별 수사본부 ( 본부 장 이영렬 서울중앙지검 장 ) 가 차려 진 서울 중앙 지검 청사 로 걸어갔 다 .	TIM-B TIM-I TIM-I TIM-I TIM-I O PER-B O O O O O O O O O O O O O O PER-B O O O O O O LOC-B LOC-B LOC-I O O O O O
+국산 준 중형 중 가장 높 은 수준 이 며 이전 과 비교해 10 % 이상 상승 했 다 .	O O O O O O O O O O O O O O O O O O O O
+힘 도 이전 보다 6 ~ 7 % 늘어났 다 .	O O O O O O O O O O O
+버락 오바마 대통령 은 취임 후 이미 도장 을 찍 었 던 한 · 미 자유 무역 협정 ( FTA ) 의 조정 을 요구 했 고 결국 이명박 정부 는 추가 협상 을 해야 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+엑소 레이 기자 회견 불참 " 중국 서 영상 통화 로 인사 " 왜 ?	ORG-B PER-B O O O O LOC-B O O O O O O O O
+김혜은 배우 에게 솔직한 답변 을 원한다고 하 자 거침없이 대답 했 다 .	PER-B O O O O O O O O O O O O O
+최소 1 만 년 전 에 살 았 던 것 으로 추정되 는 털 매머드 의 두개골 · 상아 · 피부 화석 등 30 여 점 을 볼 수 있 어요 . 이번 전시 는 박희원 일본 나가노 현 고생물학 박물관 장 이 기증한 신생대 빙하기 포유동물 화석 표본 1300 점 중 털 매머드 핵심 표본 만 공개한 특별 전 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+유엔 을 비난하 기 위한 목적 이 담긴 성명 이 었 다 .	ORG-B O O O O O O O O O O O O

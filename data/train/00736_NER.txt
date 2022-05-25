@@ -1,15 +1,15 @@
-한전 입찰 전산시스템 10년간 구 .	ORG-B O O O O O
-이 대학에서 +ㄴ매학기 시작 전 교수들이 모이어 강의 계획을 함께 점검하고 학생들의 수업 몰입도를 높이 +ㄹ 수 있도록 교습법을 배우며, 학생 열 명 중 아홉(90.5%)은 지나 +ㄴ학기에 교수와 수업내용·과제를 상담하+ㄴ 경험이 있다고 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-기가인터넷, 출시 9개월 만에 50만명 가 .	O O O O O O O
-또 2002년 용만 회장 취임 당시부터 다음은 정원회장이라는 것이 공공연하여 +지+었던 터+이라 그룹 내부에서도 별다르+ㄴ 동요는 없다 .	O O PER-B O O O ORG-B PER-B O O O O O O O O O O
-2010년 원심분리기 공개 이후 우라늄 농축이 지속되고 있고, 최근에 +ㄴ 영변 핵시설이 재가동되면서 플루토늄 추출도 가능하여 +지+었다 .	O O O O O O O O O O LOC-B O O O O O O O
-불면증에 시달리었던 마켈은 결국 개인사까지 겹치면서 1경기도 뛰지 못하+ㄴ 채 한국을 떠나 +았다 .	O O PER-B O O O O O O O LOC-B O O O
-“어르신들이 2시간 넘게 오페라를 보+ㄴ다는 것 +ㄴ쉽지 않기도 하+여서 아예 찾아가 +아서 한국 독일가곡 등을 부르는 공연을 마련하였어요 .	O O O O O O O O O O O O LOC-B LOC-B O O O O O
-누리꾼들은 “코푼 휴지나 화장실 용 변닦은 휴지도 재활용품이냐”며 “1회용 비닐봉투, 장갑까지 다 분리 배출하면 애완견 배변 봉투나 다쓰+ㄴ 여성용품을 담은 오염되 +ㄴ 비닐도 재활용 대상이 +ㄴ 셈”이라며 비판하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-정답이라고 확신하+ㄴ A양은 성적표를 보고 놀라 +았다 .	O O PER-B O O O O O
-해당 문제가 오답 처리되 +어 5점이나 깎였던 것.‘불꽃 반응’이라는 정확하+ㄴ 단어 대신 A양이 ‘반응’이라고 표현하였기 때문이었다 .	O O O O O O O O O O O O PER-B O O O O
-하지만 1년이라는 공백이나 자신에게는 틀에 갇히 +ㄴ나+의 삶을 깨트리+ㄹ 수 있는 충격을 +었다 .	O O O O O O O O O O O O O O
-가장 쉽ㄴ4등급은 경사도 5%에서 2km이거나 경사도 2∼3%에서 5km 이하의 구간이고, 3등급은 경사도 10%에서 1.5km이거나 경사도 5%에서 8km 이하의 구간이다 .	O O O O O O O O O O O O O O O O O O O O
-인제대가 높은 취업률과 다양하+ㄴ 취업지원 프로그램으로 관심을 끌고 있다 .	ORG-B O O O O O O O O O
-KBL “KGC 전창진 감독등록보류하겠다 .	ORG-B ORG-B PER-B O O
-그는 반기문 유엔 사무총장에 대하+여서는 “아주 친미(親美)적이고 유능하+ㄴ 외교관료”+이라며 “외교관료 가운데 주류 중의 주류”라고 +였다 .	O PER-B ORG-B O O O O O O O O O O O O O
+한전 입찰 전산 시스템 10 년 간 구멍	ORG-B O O O O O O O
+이 대학 에선 매 학기 시작 전 교수 들 이 모 여 강의 계획 을 함께 점검하 고 학생 들 의 수업 몰입 도 를 높일 수 있 도록 교습 법 을 배우 며 , 학생 열 명 중 아홉 ( 90.5 % ) 은 지난 학기 에 교수 와 수업 내용 · 과제 를 상담한 경험 이 있 다고 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+기 가 인터넷 , 출시 9 개월 만 에 50 만 명 가입	O O O O O O O O O O O O O
+또 2002 년 용만 회장 취임 당시 부터 다음 은 정원 회장 이 라는 것 이 공공연해 졌 던 터 라 그룹 내부 에서 도 별다른 동요 는 없 다 .	O DAT-B DAT-I PER-B O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O
+2010 년 원심 분리기 공개 이후 우라늄 농축 이 지속되 고 있 고 , 최근 엔 영변 핵 시설 이 재가동 되 면서 플루토늄 추출 도 가능해 졌 다 .	DAT-B DAT-I O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+불면증 에 시달 렸 던 마켈 은 결국 개인 사 까지 겹치 면서 1 경기도 뛰 지 못한 채 한국 을 떠났 다 .	O O O O O PER-B O O O O O O O O O O O O O LOC-B O O O O
+“ 어르신 들 이 2 시간 넘 게 오페라 를 본다는 건 쉽 지 않 기 도 해서 아예 찾아가서 한국 독일 가곡 등 을 부르 는 공연 을 마련 했 어요 .	O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O
+누리 꾼 들 은 “ 코 푼 휴지 나 화장실 용변 닦 은 휴지 도 재활용품 이 냐 ” 며 “ 1 회 용 비닐 봉투 , 장갑 까지 다 분리 배출하 면 애완견 배변 봉투 나 다 쓴 여성 용품 을 담 은 오염된 비닐 도 재활용 대상 인 셈 ” 이 라며 비판 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정답 이 라고 확신한 A 양 은 성적표 를 보 고 놀랐 다 .	O O O O PER-B O O O O O O O O O
+해당 문제 가 오답 처리 돼 5 점 이나 깎 였 던 것 . ‘ 불꽃 반응 ’ 이 라는 정확한 단어 대신 A 양 이 ‘ 반응 ’ 이라고 표현 했 기 때문 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+하지만 1 년 이 라는 공백 이 나 자신 에게 는 틀 에 갇힌 내 삶 을 깨트릴 수 있 는 충격 을 줬 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+가장 쉬 운 4 등급 은 경사도 5 % 에서 2 km 이 거나 경사도 2 ∼ 3 % 에서 5 km 이하 의 구간 이 고 , 3 등급 은 경사도 10 % 에서 1.5 km 이 거나 경사도 5 % 에서 8 km 이하 의 구간 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인제대 가 높 은 취업률 과 다양한 취업 지원 프로그램 으로 관심 을 끌 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O
+KBL “ KGC 전창진 감독 등록 보류하 겠 다 ”	ORG-B O ORG-B PER-B O O O O O O
+그 는 반기문 유엔 사무총장 에 대해서 는 “ 아주 친 미 ( 親美 ) 적 이 고 유능한 외교 관료 ” 라며 “ 외교 관료 가운데 주류 중 의 주류 ” 라고 했 다 .	O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

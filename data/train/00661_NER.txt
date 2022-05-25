@@ -1,13 +1,13 @@
-그 후 서울시교육청은 13년 동안 특수학교를 세우려 +였지만 번번이 건립 예정지역 주민들의 반대에 부딪히었다 .	O O ORG-B O O O O O O O O O O O O
-김태준 원장은 “임질에 감염되 +ㄴ후 증상이 없다고 괜찮은 것+이 아니다”며 “이 같은 문제로 사람이 죽고 살는 정도는 아니지만 불임을 유발하는 등 심각 하+ㄴ문제로 이어 지+ㄹ 소지가 있다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그로저는 1세트에만 10점을 올리었고, 공격 성공률은 무려 90%에 달하였다 .	PER-B O O O O O O O O O
-4일 목함지뢰 도발로 촉발되 +ㄴ 남북 대치가 25일 새벽 극적이+ㄴ 남북 합의로 일단락되었다 .	O O O O O ORG-B O O O O ORG-B O O O
-중국의 정전위 철수(사설 .	ORG-B O O O
-주요 언론도 백악관 입장을 지지하는 듯 하+ㄴ 분위기+이다 .	O O ORG-B O O O O O O
-신문은 선천성 청각장애인이 +ㄴ 다무라 사토시(田村聰·51·사진)씨가 21일 오전 7시15분경(현지시간) 세계 최고봉 정상을 밟아 세계 최초의 청각장애인에베레스트 등 정가로 기록되+ㄹ 가능성이 크다고 전하였다 .	O O O O PER-B PER-B O O O O O O O O O PER-B O O O O O O O
-자연유래 성분이 98.8%를 차지하고 있으며, 피부 유해성분 19가지를 첨가하지 않아 소비자 사이에서 친환경 상품으로 알려지+어 있다 .	O O O O O O O O O O O O O O O O O
-글로벌 캠핑레저 기업 코베아가 신제품 텐트 이+ㄴ퀀텀 Ⅲ 출시를 기념 하+여블루투스 스피커 증정 이벤트(사진)를 열 +ㄴ다 .	O O O ORG-B O O O O O O O O O O O O O
-썰 전 강용석, 국정원 직원에 대하+여 “극단적 선택을 하면서 오히려 논란이 커지지 않을까…” 강용석이 ‘썰전’에서 ‘국정원 해킹 의혹’에 대하+여 언급하였다 .	O O PER-B ORG-B O O O O O O O O O PER-B O ORG-B O O O O O
-지나+ㄴ 23일 방송되+ㄴ JTBC ‘썰전’에서는 국정원 해킹 의혹을 주제로 강용석, 이철희, 김구라가 토론을 벌이었다 .	O O O ORG-B O ORG-B O O O PER-B PER-B PER-B O O O
-이날 김구라는 “안철수 의원이 보안 전문가로서 발 빠르게 스마트폰을 가지고 해킹 시연을 +였다 .	O PER-B PER-B O O O O O O O O O O O
-소위 ‘고스펙이 모님’, 즉토익 900점 이상에 운전면허까지 있는 한국인도우미는 월 300만원을 호가 하+ㄴ다 .	O O O O O O O O O O MNY-B O O O
+그 후 서울시교육청 은 13 년 동안 특수학교 를 세우 려 했 지만 번번이 건립 예정 지역 주민 들 의 반대 에 부딪 혔 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+김태준 원장 은 “ 임질 에 감염된 후 증상 이 없 다고 괜찮 은 게 아니 다 ” 며 “ 이 같 은 문제 로 사람 이 죽 고 사 는 정도 는 아니 지만 불임 을 유발하 는 등 심각한 문제 로 이어질 소지 가 있 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그로저 는 1 세트 에 만 10 점 을 올 렸 고 , 공격 성공률 은 무려 90 % 에 달 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+4 일 목함지뢰 도발 로 촉발된 남북 대치 가 25 일 새벽 극적 인 남북 합의 로 일단락 됐 다 .	DAT-B DAT-I O O O O ORG-B O O DAT-B DAT-I O O O ORG-B O O O O O O
+중국 의 정전 위 철수 ( 사설 )	ORG-B O O O O O O O
+주요 언론 도 백악관 입장 을 지지하 는 듯한 분위기 다 .	O O O ORG-B O O O O O O O O
+신문 은 선천성 청각 장애인 인 다무라 사토시 ( 田村聰 · 51 · 사진 ) 씨 가 21 일 오전 7 시 15 분 경 ( 현지 시간 ) 세계 최고봉 정상 을 밟 아 세계 최초 의 청각 장애인 에베레스트 등정 가로 기록될 가능성 이 크 다고 전 했 다 .	O O O O O O PER-B PER-I O PER-B O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+자연 유래 성분 이 98.8 % 를 차지하 고 있 으며 , 피부 유해 성분 19 가지 를 첨가하 지 않 아 소비자 사이 에서 친환경 상품 으로 알려져 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+글로벌 캠핑 레저 기업 코베아 가 신제품 텐트 인 퀀텀 Ⅲ 출시 를 기념해 블루 투스 스피커 증정 이벤트 ( 사진 ) 를 연다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+썰 전 강용석 , 국정원 직원 에 대해 “ 극단적 선택 을 하 면서 오히려 논란 이 커지 지 않 을까 … ” 강용석 이 ‘ 썰 전 ’ 에서 ‘ 국정원 해킹 의혹 ’ 에 대해 언급 했 다 .	O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O ORG-B O O O O O O O O O
+지난 23 일 방송된 JTBC ‘ 썰 전 ’ 에서 는 국정원 해킹 의혹 을 주제 로 강용석 , 이철희 , 김구라 가 토론 을 벌 였 다 .	O DAT-B DAT-I O ORG-B O O O O O O ORG-B O O O O O PER-B O PER-B O PER-B O O O O O O O
+이날 김구라 는 “ 안철수 의원 이 보안 전문가 로서 발 빠르 게 스마트폰 을 가지 고 해킹 시연 을 했 다 .	O PER-B O O PER-B O O O O O O O O O O O O O O O O O O
+소위 ‘ 고 스펙 이모님 ’ , 즉 토익 900 점 이상 에 운전 면허 까지 있 는 한국인 도우미 는 월 300 만 원 을 호가한다 .	O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O

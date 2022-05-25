@@ -1,15 +1,15 @@
-“허블 우주 망원경 25주년, 신기하다” 등의 반응을 보이었다 .	O O O O O O O O O
-동아닷컴 영상뉴스 .	O O O
-이 교수는 학생들이 서로 통역실력을 평가하는 객관적 이+ㄴ 기준을 세우어보라고 주문하+ㄴ다 .	PER-B O PER-B O O O O PER-B O O O O
-소프트톱 형태의 루프는 시속 30km 이하에서 18초 만에 개폐가 가능하다 .	O O O O O O O O O O O
-오영호 공학한림원 회장은 “이번 미래도전 기술 선정연구는 공학계 리더들이 바라보+ㄴ 20년 후 한국의 미래 먹거리 기술”이라며 “지속적 이+ㄴ 성장을 위하+여우리나라가 집중 하+여야 하+ㄹ 기술개발 방향을 제시하기 위하+ㄴ 것”이라고 설명하였다 .	PER-B ORG-B O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O
-앞서 탤런트 김성민은 이날 마약 투약 혐의로 체포되었다 .	O O PER-B O O O O O O
-그동안 원장은 로버트 윌슨(우월순), 엘머 보이어(보이열), 스탠리 토플(도성래) 등이 맡았다 .	O O PER-B PER-B PER-B PER-B PER-B PER-B O O O
-울리슈틸리케 축구 대표팀 감독이 대표팀 나+의 기강 확립에 나서 +었다 .	PER-B O O O O O O O O O O
-추 의원은 전날 광주에서 “대선 승리를 이끌 +ㄹ 준비되+ㄴ 정당을 만들어 ‘새롭ㄴ 10년’을 열겠다”고 +였다 .	PER-B O O LOC-B O O O O O O O O O O O O
-올해로 89회째 이+ㄴ 피티우오모는 1972년부터 매년 1월과 6월 두 차례씩 열리는 세계 최대 남성복 전시회+이다 .	O O O PER-B O O O O O O O O O O O O
-[부고]김춘근 모친 .	PER-B O O
-지난달 29일 더불어민주당이 여야 원내대표 합의를 깨고 기업활력제고특별법(일명 원샷법)과 북한인권법 처리를 무산시키+ㄴ 뒤 주말 동안 여야가 +ㄴ 어떤 협상이나 대화도 없었다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O
-또 SBS 기상캐스터 이+ㄴ신소연은 1987년생으로 숭실대학교 언론홍보학과를 졸업 후 고려대학교 언론홍보학과 대학원에서 석사과정을 마치었다 .	O O O PER-B O ORG-B O O O ORG-B O O O O O
-‘신소연강민호’ 소식을 접하+ㄴ네티즌들은 “신소연 강민호, 축하드리+어요”, “신소연 강민호, 둘이 잘 어울리+ㄴ다” .	PER-B O O PER-B PER-B O PER-B PER-B O O O O
--미국은 부상하는 중국을 봉쇄하려 하는가 .	ORG-B O ORG-B O O O
+“ 허블 우주 망원경 25 주년 , 신기하 다 ” 등 의 반응 을 보 였 다 .	O O O O O O O O O O O O O O O O O O
+동아닷컴 영상 뉴스 팀	O O O O
+이 교수 는 학생 들 이 서로 통역 실력 을 평가하 는 객관적 인 기준 을 세 워 보 라고 주문한다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+소프트 톱 형태 의 루프 는 시속 30 km 이하 에서 18 초 만 에 개폐 가 가능하 다 .	O O O O O O O O O O O O O O O O O O O O
+오영호 공학 한림원 회장 은 “ 이번 미래 도전 기술 선정 연구 는 공학 계 리더 들 이 바라본 20 년 후 한국 의 미래 먹거리 기술 ” 이 라며 “ 지속적 인 성장 을 위해 우리나라 가 집중해야 할 기술 개발 방향 을 제시하 기 위한 것 ” 이라고 설명 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 탤런트 김성민 은 이날 마약 투약 혐의 로 체포 됐 다 .	O O PER-B O O O O O O O O O O
+그동안 원장 은 로버트 윌슨 ( 우월순 ) , 엘머 보이 어 ( 보이 열 ) , 스탠리 토플 ( 도성래 ) 등 이 맡 았 다 .	O O O PER-B PER-I O PER-B O O PER-B PER-I PER-I O PER-B PER-I O O PER-B PER-I O PER-B O O O O O O O
+울리 슈틸리케 축구 대표 팀 감독 이 대표 팀 내 기강 확립 에 나섰 다 .	PER-B PER-I O O O O O O O O O O O O O O
+추 의원 은 전날 광주 에서 “ 대선 승리 를 이끌 준비된 정당 을 만들 어 ‘ 새로 운 10 년 ’ 을 열 겠 다 ” 고 했 다 .	PER-B O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+올해 로 89 회 째 인 피티 우오모 는 1972 년 부터 매년 1 월 과 6 월 두 차례 씩 열리 는 세계 최대 남성복 전시회 다 .	O O O O O O PER-B PER-I O DAT-B DAT-I O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O
+[ 부고 ] 김춘근 모친상	O O O PER-B O
+지난달 29 일 더불 어 민주당 이 여야 원내 대표 합의 를 깨 고 기업 활력 제고 특별법 ( 일명 원샷 법 ) 과 북한 인권 법 처리 를 무산 시킨 뒤 주말 동안 여야 간 어떤 협상 이나 대화 도 없 었 다 .	O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 SBS 기상 캐스터 인 신소연 은 1987 년 생 으로 숭실대학교 언론 홍보 학과 를 졸업 후 고려 대학교 언론 홍보 학과 대학원 에서 석사 과정 을 마 쳤 다 .	O O O O O PER-B O O O O O ORG-B O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+‘ 신소연 강민호 ’ 소식 을 접한 네티즌 들 은 “ 신소연 강민호 , 축하 드려요 ” , “ 신소연 강민호 , 둘 이 잘 어울린다 ” ,	O PER-B PER-B O O O O O O O O PER-B PER-B O O O O O O PER-B PER-B O O O O O O O
+- 미국 은 부상하 는 중국 을 봉쇄하 려 하 는가 .	O ORG-B O O O ORG-B O O O O O O

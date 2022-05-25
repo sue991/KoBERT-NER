@@ -1,12 +1,12 @@
-창업공간 ‘드림엔터’ 개관 1年… 7만5099명발 .	O ORG-B O O O O
-또 소셜네트워크서비스(SNS)이+ㄴ 카카오톡도 3위에 오르았다 .	O O O O O O
-그런데 우리 입장에서 +ㄴ ‘우연히’ 일본 환율이 올라가면서 우리보다 생산단가가 30%에서 많게는 50%까지 비싸+아지+었어요 .	O O O O O ORG-B O O O O O O O O O
-다음해 이+ㄴ 2010년의 설날 연휴는 토·일·월요일이었다 .	O O O O O O O
-미국 통계 사이트 ‘steamerprojections. com’은 강정호가 빅리그 3년차 이+ㄴ 내년 시즌 21개의 홈런과 73타점을 기록하+ㄹ 것으로 내다보았다 .	ORG-B O O O O PER-B O O O O O O O O O O O O
-폭파 협박범은 롯데월드몰에 840㎏의 폭발물을 설치하였다고 주장 하+ㄴ 것으로 알려지었다 .	O O LOC-B O O O O O O O O
-백신 수출로만 1000억원대를 바라보는 녹십자의 비결은 다국적 제약사와 어깨를 나란히 하+ㄹ 정도의 세계적 이+ㄴ 기술력에 있다 .	O O MNY-B O O O O O O O O O O O O O O
-이러하+ㄴ 체제 아래 준 PO에서 승리 하+ㄴ 16개 팀 중 절반에 해당하는 8팀이나 KS 진출에 성공하+ㄴ 것을 보면, 정규시즌2위팀과 비교하+여갖는 장점이 분명하었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-그러나 준 PO 체제가 5전 3선 승제로 변화하면서 이러하+ㄴ이점은 줄어들었다 .	O O O O O O O O O O O
-지나+ㄴ 1990년 출시되 +ㄴ왕뚜껑은 기존의 컵라면 보다 푸짐 하+ㄴ양과 시원하+ㄴ맛으로 25년간 14억개가 판매되+ㄴ팔도의 대표적 이+ㄴ 효자라면이다 .	O O O O O O O O O O O O ORG-B O O O O
-가수 에릭 남이 최근 방한한 할리우드 여배우 클로이 모레츠에 대하+여 언급하+ㄴ 가운데, 에릭남의 과거 발언도 재조명 받았다 .	O PER-B PER-I O O LOC-B O PER-B PER-I O O O PER-B O O O O O
-에릭남은 지난해 6월 SBS 파워 FM ‘김창렬의 올드스쿨’에 출연하+여클로이 모레츠와의 친분에 대하+여 언급하였다 .	PER-B O O O O O O O PER-B PER-I O O O O
+창업 공간 ‘ 드림 엔터 ’ 개관 1 年 … 7 만 5099 명 발길	O O O ORG-B ORG-I O O O O O O O O O O
+또 소셜 네트워크 서비스 ( SNS ) 인 카카오톡 도 3 위 에 올 랐 다 .	O O O O O O O O O O O O O O O O O
+그런데 우리 입장 에선 ‘ 우연히 ’ 일본 환율 이 올라가 면서 우리 보다 생산 단가 가 30 % 에서 많 게 는 50 % 까지 비싸 졌 어요 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+다음 해 인 2010 년 의 설날 연휴 는 토 · 일 · 월요일 이 었 다 .	O O O DAT-B DAT-I O DAT-B O O DAT-B O DAT-B O DAT-B O O O O
+미국 통계 사이트 ‘ steamerprojections . com ’ 은 강정호 가 빅 리그 3 년 차 인 내년 시즌 21 개 의 홈런 과 73 타점 을 기록할 것 으로 내다 봤 다 .	ORG-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+폭파 협박범 은 롯데월드 몰 에 840 ㎏ 의 폭발물 을 설치 했 다고 주장한 것 으로 알려 졌 다 .	O O O LOC-B LOC-I O O O O O O O O O O O O O O O O
+백신 수출 로 만 1000 억 원 대 를 바라보 는 녹십자 의 비결 은 다국적 제약 사 와 어깨 를 나란히 할 정도 의 세계적 인 기술력 에 있 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O
+이러한 체제 아래 준 PO 에서 승리한 16 개 팀 중 절반 에 해당하 는 8 팀 이나 KS 진출 에 성공한 것 을 보 면 , 정규 시즌 2 위 팀 과 비교해 갖 는 장점 이 분명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 준 PO 체제 가 5 전 3 선승 제 로 변화하 면서 이러한 이점 은 줄어들 었 다 .	O O O O O O O O O O O O O O O O O O O O
+지난 1990 년 출시된 왕 뚜껑 은 기존 의 컵라면 보다 푸짐한 양 과 시원한 맛 으로 25 년 간 14 억 개 가 판매된 팔도 의 대표적 인 효자 라면 이 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+가수 에릭 남 이 최근 방한 한 할리우드 여배우 클로이 모 레츠 에 대해 언급한 가운데 , 에릭 남 의 과거 발언 도 재조명 받 았 다 .	O PER-B PER-I O O O O LOC-B O PER-B PER-I PER-I O O O O O PER-B PER-I O O O O O O O O O
+에릭 남 은 지난해 6 월 SBS 파워 FM ‘ 김창렬 의 올드 스쿨 ’ 에 출연해 클로이 모레츠 와 의 친분 에 대해 언급 했 다 .	PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O PER-B PER-I O O O O O O O O O

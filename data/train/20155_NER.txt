@@ -1,12 +1,12 @@
-▲ 지코는 말 하+ㄴ다 .	O PER-B O O O
-고양이를 일시적으로 몰아내+ㄴ 어느 아파트 단지에서는 1층 베란다와 거실까지 쥐가 들어오았다 .	O O O O O O O O O O O O
-터키 교민 유지은씨 또한 터키 남성들이 여성들을 “하룻밤 잠자리 상대로 생각하는 경우가 있다고 하더라”라고 설명하였다 .	ORG-B O PER-B O ORG-B O O O O O O O O O O O
-[뷰티 정보] 토니모리, 인기 캐릭터와 만나다! ‘포켓몬 에디션’ 출시 .	O O ORG-B O O O O O O O
-사정이 이렇다 보니 업계 내부에서 +ㄴ올해 안에 국내 주요 4개 정유사 중 한 곳이 매물로 나오+ㄹ 수 있다는 우울하+ㄴ 전망까지 나돌 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O
-롯데월드타워 100층 돌파, 국내 100층 첫 돌파… ‘안전사항은? .	O O O O O O O O O
-현아는 “천우희 씨 역할이었다 .	PER-B PER-B O O O
-문재인, 10대 공약서 ‘사드 국회 비준’ 제 .	PER-B O O O O O O O
-미­ 이+ㄹ 안보협, 북핵 대응 논의/11일 동경 .	ORG-B ORG-B O O O O O O
-국립생물자원관은 이호랑이가 북한이나 시베리아에 살는 것과 같은 종이이지만 지형적 여건으로 덩치, 무늬, 체중에 약간의 차이가 있다고 판단하였다 .	ORG-B O LOC-B LOC-B O O O O O O O O O O O O O O
-자유한국당 친박계 의원들은 31일 박근혜 전 대통령이 구속되 +ㄴ데 대하+ 여망연자실 하+ㄴ 표정이다 .	ORG-B O O O PER-B O O O O O O O O O
-최초 분양가의 14% 할인 적용되+ㄴ 매매가격으로 계약금 10%는 2016년 1월 28일까지 정액분납제(최초 계약금 2천만원)로 받는다 .	O O O O O O O O MNY-B O MNY-B O O MNY-B O O
+▲ 지코 는 말한다 .	O PER-B O O O
+고양이 를 일시적 으로 몰아낸 어느 아파트 단지 에서 는 1 층 베란다 와 거실 까지 쥐 가 들어 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O
+터키 교민 유지은 씨 또한 터키 남성 들 이 여성 들 을 “ 하룻밤 잠자리 상대 로 생각하 는 경우 가 있 다고 하 더라 ” 라고 설명 했 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 뷰티 정보 ] 토니모리 , 인기 캐릭터 와 만나 다 ! ‘ 포켓몬 에디션 ’ 출시 外	O O O O ORG-B O O O O O O O O O O O O O
+사정 이 이렇 다 보 니 업계 내부 에선 올해 안 에 국내 주요 4 개 정유 사 중 한 곳 이 매물 로 나올 수 있 다는 우울한 전망 까지 나돈다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데월드 타워 100 층 돌파 , 국내 100 층 첫 돌파 … ‘ 안전 사항 은 ? ’	O O O O O O O O O O O O O O O O O O
+현아 는 “ 천우희 씨 역할 이 었 다 .	PER-B O O PER-B O O O O O O
+문재인 , 10 대 공약 서 ‘ 사드 국회 비준 ’ 제외	PER-B O O O O O O O O O O O
+미 ­ 일 안보 협 , 북 핵 대응 논의 / 11 일 동경 서	ORG-B O ORG-B O O O O O O O O DAT-B DAT-I O O
+국립 생물자원 관 은 이 호랑이 가 북한 이나 시베리아 에 사 는 것 과 같 은 종 이 지만 지형 적 여건 으로 덩치 , 무늬 , 체중 에 약간 의 차이 가 있 다고 판단 했 다 .	ORG-B ORG-I ORG-I O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자유 한국 당 친 박 계 의원 들 은 31 일 박근혜 전 대통령 이 구속된 데 대해 망연자실한 표정 이 다 .	ORG-B ORG-I ORG-I O O O O O O DAT-B DAT-I PER-B O O O O O O O O O O O
+최초 분양가 의 14 % 할인 적용된 매매가격 으로 계약금 10 % 는 2016 년 1 월 28 일 까지 정액 분납 제 ( 최초 계약금 2 천만 원 ) 로 받 는다 .	O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O MNY-B MNY-I MNY-I O O O O O

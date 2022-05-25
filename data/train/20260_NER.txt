@@ -1,14 +1,14 @@
-허 위원장도 학생들의 소원을 듣어주기 위하+여분주히 뛰었다 .	PER-B O O O O O O O
-CEO 스코어는 지난해 4분기(10∼12월)와 올 1월 임원 인사를 단행하+ㄴ삼성 현대자동차 LG 등 10개 그룹 신규 임원 623명에 대하+ㄴ 조사도 병행하였다 .	ORG-B ORG-I O O O O O O ORG-B ORG-B ORG-B O O O O O O O O O O
-금융권 관계자는 "직장이 없는 20대와 재취업이 어렵ㄴ 60대의 개인회생 신청자가 늘어나는 점은 우려스럽ㄴ 부분"이라며 "자칫 범죄 등 사회문제로 이어 지+ㄹ 수 있다"고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-‘한 살 연 하 사업가와 열애’ 김하늘, 내년 초 결혼… “최근 프러포즈 받아” ‘사업가와 열애’ 김하늘 결혼 배우 김하늘(37·사진)이 열애 중이+ㄴ한 살 연하의 사업가와 내년 초 결혼 하+ㄴ다 .	O O O O O O PER-B O O O O O O O O PER-B O O PER-B O O O O O O O O O O
-24일 스포츠동아에 따르면, 김하늘은 올해 초 지인의 소개로 만나 +아열애중이+ㄴ 사업가 남자친구와 내년 초 결혼하기로 +였다고 한 측근이 전하였다 .	O ORG-B O PER-B O O O O O O O O O O O O O O O O
-7회 중심 타선과의 대결은 “6회와 크게 다르+ㄹ 것은 없었지만 중심 타자들은 실투 하나가 홈런으로 연결되기 때문에 조심스럽다 .	O O O O O O O O O O O O O O O O O O
-서부지구 샌프란시스코, 동부지구 마이에미, 중부지구 피츠버그와 승률을 다투+어야 하+ㄴ다 .	O ORG-B O ORG-B O ORG-B O O O O
-기아자 잇어대우중 ­대우자도 타결 임 .	O ORG-B ORG-B O O O
-트럼프 대통령은 지나 +ㄴ 2월 기자들에게 상을 수여하고, 학생들에게 장학금을 주고, 대통령직에 대하+ㄴ존경심을 표하는 기자단과의 정례적 이+ㄴ 만찬을 생략 하+ㄹ 것이라고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-레제프 타이이프 에르도안 터키 대통령은 이번 쿠데타의 배후로 정적 펫훌라흐 귈레+ㄴ(75)을 지목하고 미국 정부에 “귈렌을 미국에서 추방하거나 터키로 인도하라”고 요구하였다 .	PER-B PER-I PER-I ORG-B O O O O O PER-B PER-I O ORG-B ORG-I PER-B ORG-B O ORG-B O O O
-평균임금을 다른 기아차 국내 사업장의 70% 이+ㄴ 4000만원 정도로 하면 원가경쟁력이 생기+ㄴ다 .	O O ORG-B O O O O MNY-B O O O O O
-1970년 대 악명 높은 유신 시절 선생님은 늘 후배들 앞장에서 +었습니다 .	O O O O O O O O O O O O
-3 선발로 휴스턴과의 아메리칸리그 디비전 시리즈 3차전에 출격하였지만, 5.2 이닝3 실점으로 패전투수가 +었다 .	O O ORG-B O O O O O O O O O O O
-박근혜 정부는 공공기관 개혁을 부르짖지만 공기업 낙하산 인사는 과거 정권보다 더하면 더하였지덜 하지 않다 .	PER-B O O O O O O O O O O O O O O
+허 위원장 도 학생 들 의 소원 을 들 어 주 기 위해 분주히 뛰 었 다 .	PER-B O O O O O O O O O O O O O O O O O
+CEO 스코어 는 지난해 4 분기 ( 10 ∼ 12 월 ) 와 올 1 월 임원 인사 를 단행한 삼성 현대 자동차 LG 등 10 개 그룹 신규 임원 623 명 에 대한 조사 도 병행 했 다 .	ORG-B ORG-I O O O O O O O O O O O O DAT-B DAT-I O O O O ORG-B ORG-B ORG-I ORG-B O O O O O O O O O O O O O O O O
+금융 권 관계자 는 " 직장 이 없 는 20 대 와 재 취업 이 어려 운 60 대 의 개인 회생 신청자 가 늘어나 는 점 은 우려스러 운 부분 " 이 라며 " 자칫 범죄 등 사회 문제 로 이어질 수 있 다 " 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 한 살 연하 사업가 와 열애 ’ 김하늘 , 내년 초 결혼 … “ 최근 프러포즈 받 아 ” ‘ 사업가 와 열애 ’ 김하늘 결혼 배우 김하늘 ( 37 · 사진 ) 이 열애 중 인 한 살 연하 의 사업가 와 내년 초 결혼한다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O
+24 일 스포츠 동아 에 따르 면 , 김하늘 은 올해 초 지인 의 소개 로 만나 열애 중 인 사업 가 남자 친구 와 내년 초 결혼하 기 로 했 다고 한 측근 이 전 했 다 .	DAT-B DAT-I ORG-B ORG-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 회 중심 타선 과 의 대결 은 “ 6 회 와 크 게 다를 것 은 없 었 지만 중심 타자 들 은 실투 하나 가 홈런 으로 연결되 기 때문 에 조심스럽 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서부 지구 샌프란시스코 , 동부 지구 마이 에미 , 중부 지구 피츠버그 와 승률 을 다퉈 야 한다 .	O O ORG-B O O O ORG-B ORG-I O O O ORG-B O O O O O O O
+기아자 이 어 대우 중 ­ 대우자 도 타결 임박	O O O ORG-B ORG-I O ORG-B O O O
+트럼프 대통령 은 지난 2 월 기자 들 에게 상 을 수여하 고 , 학생 들 에게 장학금 을 주 고 , 대통령 직 에 대한 존경심 을 표하 는 기자 단 과 의 정례적 인 만찬 을 생략할 것 이 라고 밝 혔 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+레제프 타이이프 에르도안 터키 대통령 은 이번 쿠데타 의 배후 로 정적 펫훌라흐 귈렌 ( 75 ) 을 지목하 고 미국 정부 에 “ 귈렌 을 미국 에서 추방하 거나 터키 로 인도하 라 ” 고 요구 했 다 .	PER-B PER-I PER-I ORG-B O O O O O O O O PER-B PER-I O O O O O O ORG-B ORG-I O O PER-B O ORG-B O O O ORG-B O O O O O O O O O
+평균 임금 을 다른 기아차 국내 사업장 의 70 % 인 4000 만 원 정도 로 하 면 원가 경쟁력 이 생긴다 .	O O O O ORG-B O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+1970 년대 악명 높 은 유신 시절 선생님 은 늘 후배 들 앞장 에 섰 습니다 .	O O O O O O O O O O O O O O O O O
+3 선발 로 휴스턴 과 의 아메리칸 리그 디비전 시리즈 3 차 전 에 출격 했 지만 , 5.2 이닝 3 실점 으로 패전투수 가 됐 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+박근혜 정부 는 공공 기관 개혁 을 부르짖 지만 공기업 낙하산 인사 는 과거 정권 보다 더하 면 더 했 지 덜하 지 않 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O

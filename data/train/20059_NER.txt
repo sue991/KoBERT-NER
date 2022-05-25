@@ -1,8 +1,8 @@
-10일 박진희는 '기억' 제작발표회'에서 "결혼, 출산으로 오래 쉬면서 복귀작을 고민하던 중 감독님이 작품을 주시+어서 뒤도 안 돌아보고 선택하였다"고 말하였다 .	O PER-B O O O O O O O O O O O O O O O O O O
-‘기억’은 알츠하이머를 선고받은 로펌 변호사 박태석이 남은 인생 전부를 걸고 펼치는 마지막 변론기이자, 가슴 뜨겁ㄴ 가족애를 담았다 .	O O O O O PER-B O O O O O O O O O O O O
-반면 이영현은 “나+ㄴ 공복 상태에서는 노래를 못하+ㄴ다 .	O PER-B O O O O O O
-예매율만 놓고 보면 2위 이+ㄴ ‘스물’과의 격차가 두 배에 가깝다 .	O O O O O O O O O O O
-김영배 성북구청장은 “아동학대는 가족뿐 아니라 전체 지역사회가 나서+어야 하+ㄹ문제”라며 “아동의 권리보장을 행정에 반영하+여오+ㄴ 경험을 적극적으로 공유하겠다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O
-백44로 가장 크+ㄴ 끝내기가 백의 손에 돌아오았다 .	O O O O O O O O
-한화그룹은 지난해 6월 삼성테크윈(현 한화테크윈)과 삼성탈레스(현 한화시스템), 올해 두산DST(현 한화디펜스) 인수를 통하+여 기존 탄약·정밀유도무기 중심에서 자주포 및 항공기·함정용 엔진과 레이더 등의 방산전자부문까지 방산사업 영역을 확대하+여 글로벌 종합방산기업으로 도약하+ㄹ 수 있는 성장기반을 마련하였다 .	ORG-B O O ORG-B ORG-B ORG-B ORG-B O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-테니스의 경우 10대의 카메라가 동원되+ㄴ다 .	O O O O O O
+10 일 박진희 는 ' 기억 ' 제작 발표회 ' 에서 " 결혼 , 출산 으로 오래 쉬 면서 복귀 작 을 고민하 던 중 감독 님 이 작품 을 주 셔서 뒤 도 안 돌아보 고 선택 했 다 " 고 말 했 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 기억 ’ 은 알츠하이머 를 선고 받 은 로펌 변호사 박태석 이 남 은 인생 전부 를 걸 고 펼치 는 마지막 변론 기 이 자 , 가슴 뜨거 운 가족 애 를 담 았 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+반면 이영현 은 “ 난 공복 상태 에서 는 노래 를 못 한다 .	O PER-B O O O O O O O O O O O O
+예매 율 만 놓 고 보 면 2 위 인 ‘ 스물 ’ 과 의 격차 가 두 배 에 가깝 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+김영배 성북구 청장 은 “ 아동 학대 는 가족 뿐 아니 라 전체 지역 사회 가 나서야 할 문제 ” 라며 “ 아동 의 권리 보장 을 행정 에 반영해 온 경험 을 적극적 으로 공유하 겠 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+백 44 로 가장 큰 끝내 기 가 백 의 손 에 돌아 왔 다 .	O O O O O O O O O O O O O O O O
+한화그룹 은 지난해 6 월 삼성테크윈 ( 현 한화테크윈 ) 과 삼성 탈레스 ( 현 한 화 시스템 ) , 올해 두산 DST ( 현 한화 디펜스 ) 인수 를 통해 기존 탄약 · 정밀 유도 무기 중심 에서 자주포 및 항공기 · 함정용 엔진 과 레이더 등 의 방 산 전자 부문 까지 방산 사업 영역 을 확대해 글로벌 종합 방산 기업 으로 도약할 수 있 는 성장 기반 을 마련 했 다 .	ORG-B O O DAT-B DAT-I ORG-B O O ORG-B O O ORG-B ORG-I O O ORG-B ORG-I ORG-I O O O ORG-B ORG-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+테니스 의 경우 10 대 의 카메라 가 동원된다 .	O O O O O O O O O O

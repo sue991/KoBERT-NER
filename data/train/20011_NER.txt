@@ -1,12 +1,12 @@
-인근 중국(1만4679원)만 하+여도 자국 삼겹살이 우리의 절반 수준이다 .	O MNY-B O O O O O O O
-이 문옥 전 감사관의 복직 판결 소식을 접하+ㄴ 27일 오후 중앙부처 공무원들은 다양하+ㄴ 반응을 보이었다 .	O O O O O O O O O O O O O O O O
-의사표시는 하+ㄹ 수 있지만 시위를 파괴적 이+ㄴ 방향으로 몰고 가거나 청와대를 점령하자고 하는 것+ㄴ 헌법에 보장되+ㄴ 표현의 자유와는 거리가 멀다 .	O O O O O O O O O O ORG-B O O O O O O O O O O
-7146억원에 사+ㄴASML 지분 중 절반… 4년 만에 6000억원대에 되팔 .	MNY-B ORG-B O O O O O MNY-B O O
-수출 회복 등으로 지난달 제조업 취업자 감소폭이 9만2000명으로 줄어들 +ㄴ점도 강조하였다 .	O O O O O O O O O O O O
-서울메트로가 지하철 2호선에 투입 하+ㄹ 전동차 200량을 제작하+ㄹ 업체로 로윈·다원시스 컨소시엄을 선정하+ㄴ 것을 두고 입찰에 참여하였던 현대로템이 입찰 후속 절차 금지 가처분 신청을 제기하는 등 잡음이 끊이지 않고 있다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
-‘시럽 페이’의 2분기(4∼6월) 결제 거래액 과 거래건수가 전분기(1∼3월) 대비 모두 70% 이상 증가하였다 .	ORG-B ORG-I O O O O O O O O O O O O
-HDBaseT 기술을 지원하는 기기가 아직 많지 않고, 고가의 전문가용 제품 위주로 만나오아 있지만, 그렇기 때문에 이런 전문가용 프로젝터가 필요하+ㄴ 것이기도 하다 .	O O O O O O O O O O O O O O O O O O O O O O
-자체적 이+ㄴ 콘텐츠 재생능력 부재, 무난하+ㄴ 리모컨 참고로 옵토마ZU510T의 USB 포트는 외부 기기에 전력을 공급하는 용도로 쓰며, USB 메모리나 외장하드를 연결하+ 여자체적으로 콘텐츠(동영상, 사진, 음악 등)를 재생하는 기능은 없다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-나+의 딸 금사월 전인화.‘나+의 딸 금사월’전인화“며느리로 절대 안 받아들이어”… 박세영, 결국 무릎 전인화가 나 +의 딸 금사월에서 박세영의 악행을 폭로하였다 .	O O O PER-B O PER-B O O O PER-B O O PER-B O O O O PER-B O O O
-19일 방송되+ㄴ MBC ‘나+의 딸 금사월’에서 +ㄴ혜상(박세영)이 강찬빈(윤현민 분)의 집에 무단으로 들어가 +아가족들이 먹을 식사를 준비하는 모습이 그리 +어+지었다 .	O O O O O O PER-B PER-B O O O O O O O O O O O O
-이 모습을 지켜보+ㄴ득예(전인화 분)는 혜상에게 “찬빈이가 너한테 눈곱만큼도 관심이 없는데 부끄럽은 줄 알아야지”라고 말하였다 .	O O PER-B O PER-B PER-B O O O O O O O O O
+인근 중국 ( 1 만 4679 원 ) 만 해도 자국 삼겹살 이 우리 의 절반 수준 이 다 .	O ORG-B O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O
+이문옥 전 감사관 의 복직 판결 소식 을 접한 27 일 오후 중앙 부처 공무원 들 은 다양한 반응 을 보 였 다 .	PER-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+의사 표시 는 할 수 있 지만 시위 를 파괴적 인 방향 으로 몰 고 가 거나 청와대 를 점령하 자고 하 는 건 헌법 에 보장된 표현 의 자유 와 는 거리 가 멀 다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+7146 억 원 에 산 ASML 지분 중 절반 … 4 년 만 에 6000 억 원 대 에 되팔 아	MNY-B MNY-I MNY-I O O ORG-B O O O O O O O O MNY-B MNY-I MNY-I O O O O
+수출 회복 등 으로 지난달 제조업 취업자 감소 폭 이 9 만 2000 명 으로 줄어든 점 도 강조 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+서울메트로 가 지하철 2 호 선 에 투입할 전동차 200 량 을 제작할 업체 로 로 윈 · 다원 시스 컨소시엄 을 선정한 것 을 두 고 입찰 에 참여 했 던 현대 로템 이 입찰 후속 절차 금지 가처분 신청 을 제기하 는 등 잡음 이 끊이 지 않 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+‘ 시럽 페이 ’ 의 2 분기 ( 4 ∼ 6 월 ) 결제 거래 액 과 거래 건수 가 전 분기 ( 1 ∼ 3 월 ) 대비 모두 70 % 이상 증가 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+HDBaseT 기술 을 지원하 는 기기 가 아직 많 지 않 고 , 고가 의 전문 가용 제품 위주 로 만 나 와 있 지만 , 그렇 기 때문 에 이런 전문 가용 프로젝터 가 필요한 것 이 기 도 하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자체 적 인 콘텐츠 재생 능력 부재 , 무난한 리모컨 참고 로 옵 토마 ZU 510 T 의 USB 포트 는 외부 기기 에 전력 을 공급하 는 용도 로 쓰 며 , USB 메모리 나 외장 하드 를 연결해 자체 적 으로 콘텐츠 ( 동영상 , 사진 , 음악 등 ) 를 재생하 는 기능 은 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내 딸 금 사월 전인화 . ‘ 내 딸 금 사월 ’ 전인화 “ 며느리 로 절대 안 받아들 여 ” … 박세영 , 결국 무릎 전인화 가 내 딸 금사 월 에서 박세영 의 악행 을 폭로 했 다 .	O O O O PER-B O O O O O O O PER-B O O O O O O O O O PER-B O O O PER-B O O O O O O PER-B O O O O O O O
+19 일 방송된 MBC ‘ 내 딸 금 사월 ’ 에선 혜 상 ( 박세영 ) 이 강 찬빈 ( 윤현민 분 ) 의 집 에 무단 으로 들어가 가족 들 이 먹 을 식사 를 준비하 는 모습 이 그려 졌 다 .	DAT-B DAT-I O O O O O O O O O PER-B PER-I O PER-B O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+이 모습 을 지켜본 득 예 ( 전인화 분 ) 는 혜 상 에게 “ 찬빈 이 가 너 한테 눈곱 만큼 도 관심 이 없 는데 부끄러 운 줄 알 아야지 ” 라고 말 했 다 .	O O O O O O O PER-B O O O PER-B PER-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O

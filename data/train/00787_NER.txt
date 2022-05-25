@@ -1,12 +1,12 @@
-신규 면세점들이 주차장 확보 계획을 제대로 이행하지 않는다면 불이익을 주는 등 사후관리 방안을 관세청에 건의하+ㄹ 예정이다 .	O O O O O O O O O O O O O ORG-B O O O
-초코파이를 통하+여 마음을 전하+ㄹ 수 있는 따뜻하+ㄴ 프로모션을 지속적으로 전개하+ㄹ 예정”이라고 말하였다 .	O O O O O O O O O O O O O
-15일 오전 울산 동구 현대중공업 특수선독에서 해군의 차기 상륙함 2벌+ㄴ다하+ㅁ이+ㄴ ‘천자봉함’이진수식을 통하+여 위용을 드러내고 있다 .	O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O
-”사고 직후 서울메트로 관계자는 김씨 어머니에게 “보고를 제대로 하지 않고 작업을 하+ㄴ 아이의 과실”이라고 말하었다고 하+ㄴ다 .	O O ORG-B O PER-B O O O O O O O O O O O O
-아르침볼 돌는 막시밀리안 2세의 공식 초상화 화가로 일하던 시절 역사학자 볼프강라지우스(WolfgangLazius)의 초상화를 그리었다 .	PER-B PER-I PER-B PER-I O O O O O O PER-B O O O
-재무부는 9일 외국보험중개회사 이+ㄴ 미국의 알렉산더 앤알렉산더(Alexander&Alexander)사와 영국의 윌리 스페이버앤 두 마스(Willis Faber&Dumas)사 등 2개사의 국내 보험대리점업을 내 허가 +하였다고 밝히었다 .	ORG-B O O O ORG-B ORG-I ORG-I ORG-B O O O ORG-B ORG-I O O O O O O O O O
-SBS 보도에 따르면 이 의원은 정규직 전환을 요구하는 학교급식 노동자들의 파업과 관련 하+ㄴ기자의 질문에 비정규직 노동자들을 "미친 놈들", "그냥 밥 하는 동네 아줌마들"이라고 표현하였다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O
-江南通新이 사람들이 좋아하는 요리와 이 요리로 입소문 나+ㄴ 유명 맛집을 선정하+여서 소개하는 ‘레드스푼 5’를 시작하+ㅂ니다 .	O O O O O O O O O O O O O O O O
-프로야구 NC는 “이재학은 결백을 주장하고 있으나 사안이 중대해 객관적 이+ㄴ 사실관계가 확인되 +ㄹ 때까지 1군에서 제외하는 것이 선수를 위하+ㄴ 최선의 조치+이라 판단하였다”고 밝히었다 .	O ORG-B PER-B O O O O O O O O O O O ORG-B O O O O O O O O O
-롯데건설 관계자는 “고덕 재건축 단지는 서울에 조성하는 신도시급 지역으로 강남과 이어지는 입지여건 때문에 미래가치가 높다 .	ORG-B O LOC-B O O LOC-B O O O LOC-B O O O O O O
-하지만 김구+이라는 빚 17억원이 다가 아니었다며 “17억원 빚과 별개로 집에 가압류가 들어오았다”고 설명하였다 .	O PER-B O MNY-B O O MNY-B O O O O O O O
-■세종사이버대 세종사이버대는 6월 1일부터 7월 2일까지 2015학년도 후기 신입생·편입생을 모집하+ㄴ다 .	ORG-B ORG-B O O O O O O O O O
+신규 면세점 들 이 주차장 확보 계획 을 제대로 이행하 지 않 는다면 불이익 을 주 는 등 사후 관리 방안 을 관세청 에 건의할 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+초코파이 를 통해 마음 을 전할 수 있 는 따뜻한 프로모션 을 지속적 으로 전개할 예정 ” 이라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+15 일 오전 울산 동 구 현대중공업 특수선 독 에서 해군 의 차기 상륙함 2 번 함 인 ‘ 천자 봉함 ’ 이 진수식 을 통해 위용 을 드러내 고 있 다 .	DAT-B DAT-I O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O
+” 사고 직후 서울메트로 관계자 는 김 씨 어머니 에게 “ 보고 를 제대로 하 지 않 고 작업 을 한 아이 의 과실 ” 이라고 말 했 다고 한다 .	O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+아르 침 볼 도 는 막시밀리안 2 세 의 공식 초상화 화가 로 일하 던 시절 역사학 자 볼프강 라지 우스 ( Wolfgang Lazius ) 의 초상화 를 그 렸 다 .	PER-B PER-I PER-I PER-I O PER-B PER-I PER-I O O O O O O O O O O PER-B PER-I PER-I O PER-B PER-I O O O O O O O O
+재무부 는 9 일 외국 보험 중개 회사 인 미국 의 알렉산더 앤 알렉산더 ( Alexander & Alexander ) 사 와 영국 의 윌리스 페이버 앤 두마스 ( Willis Faber & Dumas ) 사 등 2 개 사 의 국내 보험 대리점 업 을 내허가 했 다고 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O ORG-B O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O ORG-B O ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+SBS 보도 에 따르 면 이 의원 은 정규직 전환 을 요구하 는 학교 급식 노동자 들 의 파업 과 관련한 기자 의 질문 에 비정규 직 노동자 들 을 " 미친놈 들 " , " 그냥 밥하 는 동네 아줌마 들 " 이라고 표현 했 다 .	ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+江南通新 이 사람 들 이 좋아하 는 요리 와 이 요리 로 입 소문 난 유명 맛집 을 선정해서 소개하 는 ‘ 레드 스푼 5 ’ 를 시작합니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+프로 야구 NC 는 “ 이재학 은 결백 을 주장하 고 있 으나 사안 이 중대 해 객관적 인 사실 관계 가 확인될 때 까지 1 군 에서 제외하 는 것 이 선수 를 위한 최선 의 조치 라 판단 했 다 ” 고 밝 혔 다 .	O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+롯데건설 관계자 는 “ 고덕 재건축 단지 는 서울 에 조성하 는 신도시 급 지역 으로 강남 과 이어지 는 입지 여건 때문 에 미래 가치 가 높 다 .	ORG-B O O O LOC-B O O O LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O
+하지만 김구 라는 빚 17 억 원 이 다 가 아니 었 다 며 “ 17 억 원 빚 과 별개 로 집 에 가압류 가 들어 왔 다 ” 고 설명 했 다 .	O PER-B O O MNY-B MNY-I MNY-I O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+■ 세종 사이버 대 세종 사이버 대 는 6 월 1 일 부터 7 월 2 일 까지 2015 학년도 후기 신입생 · 편입생 을 모집한다 .	O ORG-B ORG-I ORG-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O

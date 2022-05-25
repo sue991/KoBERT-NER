@@ -1,15 +1,15 @@
-40kg 대+이었다 .	O O O
-김 교무 부장은 “청소년판 유엔(UN)이라 부르어도 손색이 없을 정도로 토론의 수준이 높다”고 강조하였다 .	PER-B O O O ORG-B O O O O O O O O O
-김성태 한국개발연구원(KDI) 거시경제연구부 연구위원은 “기초생활보장제도가 근로유인을 저해하는 원인으로 작용하+ㄴ 측면이 있다”며 기초생활보장제도의 수급기간을 제한하고 근로장려금 지급 대상 및 지급액을 늘리는 식의 제도 개선이 필요하다고 +았다 .	PER-B ORG-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ9월 북한이 5차 핵실험을 강행하자 국제사회에서 석탄 수출을 완전 봉쇄 하+여야 하+ㄴ다는 여론이 일었다 .	O ORG-B O O O O O O O O O O O O O
-2010년 17세 이하 월드컵에서 우승을 이끌었던 선수들도 포함되었다 .	O O O O O O O O O
-결선투표가 가시화되+ㄹ 경우 경선 내내 2위 다툼도 치열하+여지+ㄹ 것으로 예상되 +ㄴ다 .	O O O O O O O O O O O O
-외국 학교와 정규 수업시간에 1대1로 매칭해 진행하는 화상수업시스템은 전국에서 유일하게 대구에 있다 .	O O O O O O O O O O LOC-B O O
-대구시 동구율금초, 남구 대구 중 등대구 19개 초·중학교는 이날 학정 초수업을 시작으로 12월까지 호주 빅토리아주에 있는 21개 초·중학교와 각각 4시간 이상 함께 수업 하+ㄴ다 .	LOC-B LOC-B LOC-B LOC-B O LOC-B O O O O O O O LOC-B LOC-B O O O O O O O O O O
-더 에이미디어송희원 대표는 “검색광고 수익을 제휴사들과 공유하는 상생 모델이 호응을 얻으면서 제휴의 폭이 넓어지고 있다”며 “텍스트가 존재하는 모든 곳에 톡톡 검색의 터치 검색 기능을 적용하겠다”고 다부지+ㄴ각오를 전하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
-.두산에 강 하+ㄴ투수를 찾아 4선발로 운용하겠다 .	ORG-B O O O O O O
-”◆양상문 LG 감독 “확실히 1·2위팀과 우리 팀은 실력에서 차이가 있다 .	PER-B ORG-B O O O O O O O O O
-용역을 수행하+ㄹ 수 있다며 한 번에 7건이나 계약을 맺고 돈을 받고 정작 기한이 다가오자 7건 모두 보고서를 내기 어렵다고 하+ㄴ 것이다 .	O O O O O O O O O O O O O O O O O O O O O O
-검찰 측은 “이렇게 미르와 계약을 체결하+ㄴ 것 +ㄹ일방적으로 미루었다는 것+ㄴ 정상적 이+ㄴ 계약이 아니다”라며 “사실상 미르와 플레이그라운드를 최씨가 장악하였기에 가능하+ㄴ 것”이라고 말하였다 .	O O O ORG-B O O O O O O O O O O O ORG-B ORG-B PER-B O O O O O
-세계는 9월 유엔을 주축으로 지속가능하+ㄴ 소비와 생산 등 지속가능하+ㄴ 발전을 향하+ㄴ 정책에 매진하고 있다 .	O O ORG-B O O O O O O O O O O O O
-13명이 모두 모이자 길+ㄴ테이블에 두르어 앉아 통닭·초밥 등 준비 하+ㄴ 음식과 술을 풀었다 .	O O O O O O O O O O O O O O
+40 kg 대 였 다 .	O O O O O O
+김 교무 부장 은 “ 청소년 판 유엔 ( UN ) 이 라 불 러도 손색 이 없 을 정도 로 토론 의 수준 이 높 다 ” 고 강조 했 다 .	PER-B O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+김성태 한국개발연구원 ( KDI ) 거시 경제 연구 부 연구 위원 은 “ 기초 생활 보장 제도 가 근로 유인 을 저해하 는 원인 으로 작용한 측면 이 있 다 ” 며 기초 생활 보장 제도 의 수급 기간 을 제한하 고 근로 장려금 지급 대상 및 지급액 을 늘리 는 식 의 제도 개선 이 필요하 다고 봤 다 .	PER-B ORG-B O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 9 월 북한 이 5 차 핵실험 을 강행하 자 국제사회 에서 석탄 수출 을 완전 봉쇄해야 한다는 여론 이 일 었 다 .	O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O
+2010 년 17 세 이하 월드컵 에서 우승 을 이끌 었 던 선수 들 도 포함 됐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O
+결선투표 가 가시화될 경우 경선 내내 2 위 다툼 도 치열해 질 것 으로 예상된다 .	O O O O O O O O O O O O O O O O
+외국 학교 와 정규 수업 시간 에 1 대 1 로 매칭 해 진행하 는 화상 수업 시스템 은 전국 에서 유일하 게 대구 에 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O
+대구시 동 구 율 금초 , 남 구 대구중 등 대구 19 개 초 · 중학교 는 이날 학정 초 수업 을 시작 으로 12 월 까지 호주 빅토리아주 에 있 는 21 개 초 · 중학교 와 각각 4 시간 이상 함께 수업한다 .	LOC-B LOC-B LOC-I ORG-B ORG-I O LOC-B LOC-I ORG-B O LOC-B O O O O O O O O O O O O O DAT-B DAT-I O LOC-B LOC-B O O O O O O O O O O O O O O O O
+더 에이 미디어 송희원 대표 는 “ 검색 광고 수익 을 제휴 사 들 과 공유하 는 상생 모델 이 호응 을 얻 으면서 제휴 의 폭 이 넓어지 고 있 다 ” 며 “ 텍스트 가 존재하 는 모든 곳 에 톡톡 검색 의 터치 검색 기능 을 적용하 겠 다 ” 고 다부진 각오 를 전 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+. 두산 에 강한 투수 를 찾 아 4 선발 로 운용하 겠 다 .	O ORG-B O O O O O O O O O O O O O
+” ◆ 양상문 LG 감독 “ 확실히 1 · 2 위 팀 과 우리 팀 은 실력 에서 차이 가 있 다 .	O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O
+용역 을 수행할 수 있 다며 한 번 에 7 건 이나 계약 을 맺 고 돈 을 받 고 정작 기한 이 다가오 자 7 건 모두 보고서 를 내 기 어렵 다고 한 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+검찰 측 은 “ 이렇 게 미르 와 계약 을 체결한 걸 일방적 으로 미 뤘 다는 건 정상적 인 계약 이 아니 다 ” 라며 “ 사실상 미르 와 플레이 그라운드 를 최 씨 가 장악 했 기에 가능한 것 ” 이라고 말 했 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O PER-B O O O O O O O O O O O O O
+세계 는 9 월 유엔 을 주축 으로 지속 가능한 소비 와 생산 등 지속 가능한 발전 을 향한 정책 에 매진하 고 있 다 .	O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O
+13 명 이 모두 모이 자 긴 테이블 에 둘 러 앉 아 통닭 · 초밥 등 준비한 음식 과 술 을 풀 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O

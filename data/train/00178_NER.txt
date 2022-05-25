@@ -1,12 +1,12 @@
-이번 러시아의 사과 요구는 지나 +ㄴ 7일 북한의 장거리 로켓 발사 직후 긴급 소집되+ㄴ국회 정보위원화 전체회의에서 국가정보원이 북한이 발사하+ㄴ 로켓의 주요 부품이 대부분 러시아에서 공급되+ㄴ 것으로 보이+ㄴ다고 보고 하+ㄴ 것으로 알려지며 나오+ㄴ 발언이다 .	O ORG-B O O O O O ORG-B O O O O O O O O ORG-B ORG-B O O O O O ORG-B O O O O O O O O O O
-당시 드미트리 로고진 러시아 부총리는 자국 언론과의 인터뷰에서 “러시아가 북한에 로켓 생산 기술을 제공하였다는 한국 정부의 지적은 전혀 현실에 부합하지 않는 완전 하+ㄴ헛 소리”+이라며 목소리를 높이었다 .	O PER-B PER-I ORG-B O O O O ORG-B ORG-B O O O O ORG-B ORG-I O O O O O O O O O O O
-한편 윤병세 외교장관은 지나 +ㄴ 10일(수)러시아 블라디미르 샤프론코프 차석대사와 면담하여, 북한의 4차 핵실험 및 장거리 미사일 발사 등 도발에 대하+ㄴ 유엔 안보리 대응 방안에 대하+여협의하였다 .	O PER-B O O O ORG-B PER-B PER-I O O ORG-B O O O O O O O O O ORG-B ORG-I O O O O
-김현수(28·볼티모어)도 안방 경기에서 뉴욕 양키스를 맞고 2루타 한 방을 때리+어내며 11경기 연속 출루에 성공하였다 .	ORG-B O O ORG-B ORG-I O O O O O O O O O O
-교육을 받던 권 하늘(27·여)씨가 공이 어디로 날아가 +았는지를 놓치었다 .	O O PER-B PER-I O O O O O O
-지난해 오피스텔 시장에 10조원… 10년 만에 최대 .	O O O MNY-B MNY-B O O O
-100% 국내산 계란만을 사용하+ㄴ 담백하+ㄴ빵에 단팥과 슈크림으로 속을 채우어 다양하+ㄴ맛을 즐기+ㄹ 수 있는 것이 특징이다 .	O O O O O O O O O O O O O O O O
-제3경인고속도로, 영동고속도로, 서해안고속도로, 정왕나들목 등을 이용하+ㄹ 수 있다 .	LOC-B LOC-B LOC-B LOC-B O O O O O
-세계적 이+ㄴ 카지노 복합관광단지와 관광휴양신도시로 개발 중 이+ㄴ 인천 영종도에 세계 1위 호텔 기업 브랜드가 들어서 +ㄴ다 .	O O O O O O O O LOC-B LOC-B O O O O O O O O
-오히려 그날은 30대 재벌의 여신 동결이라는 「악재」가 등장하었는데도 주가는 오르았다 .	O O O O O O O O O O O
-아이들이 알게 되+ㄹ까 걱정되+어 일부러 집에서 70km 떨어지+ㄴ의 정부로 버스를 두 번 갈아타고 다니며 일을 +였다 .	O O O O O O O O O O O O O O O O O
-최근 부산에서 LCC를 타고 오사카를 다녀오+ㄴ 최아영(28)씨는 “단거리 노선에서 굳이 인천까지 가+아서 FSC를 타+ㄹ이유가 없다”며 “해외 단거리 여행을 떠나 +ㄹ 때 +ㄴ 부산에서 출발하는 LCC를 이용하는 경우가 많다”고 말하였다 .	O LOC-B O O LOC-B O PER-B O O O LOC-B O O O O O O O O O O O LOC-B O O O O O O O
+이번 러시아 의 사과 요구 는 지난 7 일 북한 의 장거리 로켓 발사 직후 긴급 소집된 국회 정보 위원 화 전체 회의 에서 국가 정보 원 이 북한 이 발사한 로켓 의 주요 부품 이 대부분 러시아 에서 공급된 것 으로 보인다고 보고한 것 으로 알려지 며 나온 발언 이 다 .	O ORG-B O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+당시 드미트리 로고진 러시아 부총리 는 자국 언론 과 의 인터뷰 에서 “ 러시아 가 북한 에 로켓 생산 기술 을 제공 했 다는 한국 정부 의 지적 은 전혀 현실 에 부합하 지 않 는 완전한 헛소리 ” 라며 목소리 를 높 였 다 .	O PER-B PER-I ORG-B O O O O O O O O O ORG-B O ORG-B O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+한편 윤병세 외교 장관 은 지난 10 일 ( 수 ) 러시아 블라디미르 샤프론 코프 차석 대사 와 면담하 여 , 북한 의 4 차 핵 실험 및 장거리 미사일 발사 등 도발 에 대한 유엔 안보리 대응 방안 에 대해 협의 했 다 .	O PER-B O O O O DAT-B DAT-I O DAT-B O ORG-B PER-B PER-I PER-I O O O O O O ORG-B O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O
+김현수 ( 28 · 볼티모어 ) 도 안방 경기 에서 뉴욕 양키스 를 맞 아 2 루 타 한방 을 때려 내 며 11 경기 연속 출루 에 성공 했 다 .	PER-B O O O ORG-B O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+교육 을 받 던 권 하늘 ( 27 · 여 ) 씨 가 공 이 어디 로 날아갔 는지 를 놓 쳤 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+지난해 오피스텔 시장 에 10 조 원 … 10 년 만 에 최대치	O O O O MNY-B MNY-I MNY-I O O O O O O
+100 % 국내 산 계란 만 을 사용한 담백한 빵 에 단팥 과 슈크림 으로 속 을 채 워 다양한 맛 을 즐길 수 있 는 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+제 3 경인고속도로 , 영동고속도로 , 서해안고속도로 , 정왕 나들목 등 을 이용할 수 있 다 .	LOC-B LOC-I LOC-I O LOC-B O LOC-B O LOC-B LOC-I O O O O O O O
+세계적 인 카지노 복합 관광 단지 와 관광 휴양 신도시 로 개발 중 인 인천 영종도 에 세계 1 위 호텔 기업 브랜드 가 들어선다 .	O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O
+오히려 그날 은 30 대 재벌 의 여신 동결 이 라는 「 악재 」 가 등장 했 는데 도 주가 는 올 랐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+아이 들 이 알 게 될까 걱정돼 일부러 집 에서 70 km 떨어진 의정부 로 버스 를 두 번 갈아타 고 다니 며 일 을 했 다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+최근 부산 에서 LCC 를 타 고 오사카 를 다녀온 최아영 ( 28 ) 씨 는 “ 단거리 노선 에서 굳이 인천 까지 가서 FSC 를 탈 이유 가 없 다 ” 며 “ 해외 단거리 여행 을 떠날 땐 부산 에서 출발하 는 LCC 를 이용하 는 경우 가 많 다 ” 고 말 했 다 .	O LOC-B O O O O O LOC-B O O PER-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O

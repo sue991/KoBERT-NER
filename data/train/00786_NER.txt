@@ -1,19 +1,19 @@
-12일(현지시간) 미국 월스트리트저널 유료 기사에 실리+ㄴ 해당 부분은 현재 많은 주목을 받고 있다 .	O ORG-B ORG-I O O O O O O O O O O O
-가수 송대관과 그 외에 인기가수들이 함께 하+ㄹ이번 중국 페리 여행의 특별공연은 이번 여행 고객들을 위하+여 새해의 설레+ㅁ과 여행의 흥겹+ㅁ을 담당 하+ㄹ 예정이다 .	O PER-B O O O O O LOC-B O O O O O O O O O O O O O O O
-현대차와 기아차는 올 하반기에 각각 아이오닉 하이브리드 및 전기자동차, 니로 하이브리드 판매를 시작하+ㄴ다 .	ORG-B ORG-B O O O O O O O O O O O O
-그러나 병원 응급실에서 김태현 이사장의 충혈되+ㄴ 눈과 당혹 허탈분노가 교착하는 표정을 보며 ‘현실’을 깨닫았다 .	O O O PER-B O O O O O O O O O O O
-송씨의 결론이다 .	PER-B O O
-사회봉사단은 지난해 6, 7월 지니데이 때 여수지역아동센터 12곳에 자동 손소독기를 제공하였다 .	ORG-B O O O O O LOC-B O O O O O
-그런데 2015 시즌도중 샌디에이고 측으로부터 “2016년 캠프 지사용이 곤란하게 +었다”는 통보를 받았다 .	O O O ORG-B O O O O O O O O O
-박나래, 성형언급“강남에서 만들어 주+시었다 .	PER-B LOC-B O O O
-최씨가 직접 인터넷에서 기업 경영 관련 교육자료를 찾아보려고 하지만 일상 업무에 쫓기다 보니 따로 시간을 내기가 어렵다 .	PER-B O O O O O O O O O O O O O O O O O
-영국은 이 도전을 어떻게 헤치+어나가 +ㄹ까요? 고정애 런던 특파 .	ORG-B O O O O O PER-B LOC-B O O
-호성적이었지만 37초 39를 기록하+ㄴ고 다이라 나오(일본)에게 밀리+어 2위를 차지하였다 .	O O O PER-B PER-I ORG-B O O O O
-[Hom e&D ream] 현대영농㈜, 태안기업도시 주요 입지 매각 .	O O O ORG-B LOC-B O O O O
-6월 기준금리 인상은 물 건너가+ㄴ 셈이다 .	O O O O O O O
-체코가 국제 펜클럽의 세계대회를 주최하는 것은 지나 +ㄴ 38년 16차 대회에잇어 이번이 두 번째이다 .	ORG-B O O O O O O O O O O O O O O
-1위 1556년 1월 23일 중국산시성 지진: 사망자 83만명 중국산시성에서 일어나 +ㄴ 규모 8의 지진은 83만명의 사망자를 기록하였다 .	O O O O LOC-B O O O LOC-B O O O O O O O O O
-1999년부터 2003년까지 5년 연속 ‘20-20 클럽’ 즉, 상장사 중 매출과 순이익 증가율이 매년 20% 이상 오르+ㄴ 기업에 선정되었고, 포브스지 선정 아시아 200대 강 하+ㄴ 중견기업(2006년), 제약사 최초로 노동부로부터 노사 상생양보교섭 인증 기업 선정(2009년), 혁신형 제약기업 선정(2012년) 등 경영성과를 통하+여견실 하+ㄴ 성장을 이끌고 있다 .	O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O ORG-B O O O O O O O O O O O O O O O O
-탈북자들의 증언에 따르면 백두산 인근 이+ㄴ 양강도 삼지연군의 경우 2015년경 200세대 정도가 당국에 의하+여 강제 이주되 +었다 .	O O O LOC-B O O LOC-B LOC-B O O O O O O O O O O
-영국에서는 1970년대 초반보다 혼자 지내는 사람의 수가 두 배 이상 늘었다 .	LOC-B O O O O O O O O O O O
-캐세이패시픽, 한-홍콩 구간 마일리지 3배 프로모 .	ORG-B LOC-B O O O O O
+12 일 ( 현지 시간 ) 미국 월스트리트 저널 유료 기사 에 실린 해당 부분 은 현재 많 은 주목 을 받 고 있 다 .	DAT-B DAT-I O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
+가수 송대관 과 그 외 에 인기 가수 들 이 함께할 이번 중국 페리 여행 의 특별 공연 은 이번 여행 고객 들 을 위해 새해 의 설렘 과 여행 의 흥겨움 을 담당할 예정 이 다 .	O PER-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+현대차 와 기아차 는 올 하반기 에 각각 아이오닉 하이브리드 및 전기 자동차 , 니로 하이브리드 판매 를 시작한다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+그러나 병원 응급실 에서 김태현 이사장 의 충혈된 눈 과 당혹 허탈 분노 가 교착하 는 표정 을 보 며 ‘ 현실 ’ 을 깨달 았 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+송 씨 의 결론 이 다 .	PER-B O O O O O O
+사회 봉사 단 은 지난해 6 , 7 월 지니 데이 때 여수 지역 아동 센터 12 곳 에 자동 손소 독기 를 제공 했 다 .	ORG-B ORG-I ORG-I O O DAT-B O DAT-B DAT-I O O O LOC-B O O O O O O O O O O O O O O
+그런데 2015 시즌 도중 샌디에이고 측 으로부터 “ 2016 년 캠프 지 사용 이 곤란하 게 됐 다 ” 는 통보 를 받 았 다 .	O O O O ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+박나래 , 성형 언급 “ 강남 에서 만들 어 주 셨 다 ”	PER-B O O O O LOC-B O O O O O O O
+최 씨 가 직접 인터넷 에서 기업 경영 관련 교육 자료 를 찾아보 려고 하 지만 일상 업무 에 쫓기 다 보 니 따로 시간 을 내 기 가 어렵 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영국 은 이 도전 을 어떻 게 헤쳐 나갈까 요 ? 고정애 런던 특파원	ORG-B O O O O O O O O O O PER-B LOC-B O
+호성적 이 었 지만 37 초 39 를 기록한 고 다이라 나오 ( 일본 ) 에게 밀려 2 위 를 차지 했 다 .	O O O O O O O O O PER-B PER-I PER-I O ORG-B O O O O O O O O O O
+[ Home & Dream ] 현대 영농 ㈜ , 태안 기업 도시 주요 입 지 매각 外	O O O O O ORG-B ORG-I ORG-I O LOC-B O O O O O O O
+6 월 기준 금리 인상 은 물 건너간 셈 이 다 .	DAT-B DAT-I O O O O O O O O O O
+체코 가 국제 펜클럽 의 세계 대회 를 주최하 는 것 은 지난 38 년 16 차 대회 에 이 어 이번 이 두 번째 이 다 .	ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+1 위 1556 년 1 월 23 일 중국 산시성 지진 : 사망자 83 만 명 중국 산시성 에서 일어난 규모 8 의 지진 은 83 만 명 의 사망자 를 기록 했 다 .	O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I LOC-B LOC-B O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O
+1999 년 부터 2003 년 까지 5 년 연속 ‘ 20 - 20 클럽 ’ 즉 , 상장 사 중 매출 과 순이익 증가율 이 매년 20 % 이상 오른 기업 에 선정되 었 고 , 포브스지 선정 아시아 200 대 강한 중견 기업 ( 2006 년 ) , 제약 사 최초 로 노동부 로부터 노사 상생 양보 교섭 인증 기업 선정 ( 2009 년 ) , 혁신 형 제약 기업 선정 ( 2012 년 ) 등 경영 성과 를 통해 견실한 성장 을 이끌 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O DAT-B DAT-I O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+탈북자 들 의 증언 에 따르 면 백두산 인근 인 양강도 삼지연군 의 경우 2015 년 경 200 세대 정도 가 당국 에 의해 강제 이주 됐 다 .	O O O O O O O LOC-B O O LOC-B LOC-B O O DAT-B DAT-I O O O O O O O O O O O O O
+영국 에서 는 1970 년대 초반 보다 혼자 지내 는 사람 의 수 가 두 배 이상 늘 었 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
+캐세이패시픽 , 한 - 홍콩 구간 마일리지 3 배 프로모션	ORG-B O LOC-B O LOC-B O O O O O

@@ -1,10 +1,10 @@
-조성호는 지난달 13일 오전 1시쯤 인천시 연수구 집에서 최씨의 머리를 둔기로 때리+어살해 하+ㄴ 뒤 시신을 10여일 동안 화장실에 방치하였다 .	PER-B O O O O LOC-B LOC-B O PER-B PER-B O O O O O O O O O O
-12일부터 휴가를 내는 직장인을 감안하면 추석을 맞고 공항을 이용하는 여행객은 더 많을 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O
-아름답ㄴ 외모와 쭉 뻗은 몸매 이+ㄴ 알레나는 지나 +ㄴ 2012년 미스 USA 선발대회에서 '미스오리건'이 +었다 .	O O O O O O PER-B PER-I O O O O O O O O
-[부고]민경찬 부친상·김선숙 시부 .	PER-B PER-B O O
-황해도 장연군에 살다 6·25 때 월남 하+ㄴ강재희씨(77·인천시 중구 송월동)와 이보다 앞서 +어 1940년만주로 이주하였던 여동생 강재렬 씨(74·중국 흑룡강성 밀산시 거주) 등 오누이가 22일 오후 김포공항에서 54년 만에 극적으로 상봉하였다 .	LOC-B LOC-B O O O O LOC-B LOC-B LOC-B O O O LOC-B O O PER-B LOC-B LOC-B LOC-B O O O O O LOC-B O O O O O
-전 가구가 위례신도시에서 희소성이 높은 전용 84㎡ 단일면적으로 공급되며, 뉴스테이 최초로 테라스와 다락방 특화상품으로 조성되 +ㄴ다 .	O O LOC-B O O O O O O O O O O O O O O
-2013년에는 92.2%로 단 5년 만에 폭증 하+ㄴ바 있다 .	O O O O O O O O O
-화보에서 공유가 착용 하+ㄴ 컬러블럭 액티브래쉬가드는 액티브 하+ㄴ 절개와 컬러블럭 포인트로 다양하+ㄴ 스타일로 믹스매치하기에 최적화 되+ㄴ 아이템이다 .	O PER-B O O O O O O O O O O O O O O O O
-김준일은 “지나 +ㄴ 시즌팀에 신인으로 들어오아 한 시즌을 치르면서 형들하고 많이 친하여 +지+었는데 (임)동섭이 형은 부상 때문에 함께 하+ㄹ 시간이 적었다 .	PER-B O O O O O O O O O O O O PER-B O O O O O O O O
-한국노인빈곤율 1위, 65세 이상 노인층 상대적 빈곤율 가장 높아 한국이 OECD 회원국 중노인 빈곤율이 1위 이+ㄴ 것으로 드러나 +았다 .	ORG-B O O O O O O O O ORG-B ORG-B O O O O O O O O O
+조성호 는 지난달 13 일 오전 1 시 쯤 인천시 연수구 집 에서 최 씨 의 머리 를 둔기 로 때려 살해한 뒤 시신 을 10 여 일 동안 화장실 에 방치 했 다 .	PER-B O O DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B LOC-B O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O
+12 일 부터 휴가 를 내 는 직장인 을 감안하 면 추석 을 맞 아 공항 을 이용하 는 여행객 은 더 많 을 것 으로 보인다 .	DAT-B DAT-I O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O
+아름다 운 외모 와 쭉 뻗 은 몸매 인 알레 나 는 지난 2012 년 미스 USA 선발 대회 에서 ' 미스 오리건 ' 이 됐 다 .	O O O O O O O O O PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O
+[ 부고 ] 민경찬 부친상 · 김선숙 시 부상	O O O PER-B O O PER-B O O
+황해도 장연군 에 살 다 6 · 25 때 월남한 강재희 씨 ( 77 · 인천시 중 구 송월동 ) 와 이 보다 앞서 1940 년 만주 로 이주 했 던 여동생 강재렬 씨 ( 74 · 중국 흑룡강성 밀산 시 거주 ) 등 오누이 가 22 일 오후 김포 공항 에서 54 년 만 에 극적 으로 상봉 했 다 .	LOC-B LOC-B O O O O O O O O PER-B O O O O LOC-B LOC-B LOC-I LOC-B O O O O O DAT-B DAT-I LOC-B O O O O O PER-B O O O O LOC-B LOC-B LOC-B LOC-I O O O O O DAT-B DAT-I O LOC-B LOC-I O O O O O O O O O O O
+전 가구 가 위례 신도시 에서 희소성 이 높 은 전용 84 ㎡ 단 일면적 으로 공급되 며 , 뉴 스테이 최초 로 테라스 와 다락방 특화 상품 으로 조성된다 .	O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+2013 년 에 는 92.2 % 로 단 5 년 만 에 폭증 한 바 있 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O
+화보 에서 공유 가 착용한 컬러 블럭 액티브 래쉬가드 는 액티브 한 절개 와 컬러 블럭 포인트 로 다양한 스타일 로 믹스 매치 하 기 에 최적화된 아이템 이 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김준일 은 “ 지난 시즌 팀 에 신인 으로 들어 와 한 시즌 을 치르 면서 형 들 하 고 많이 친해 졌 는데 ( 임 ) 동섭이 형 은 부상 때문 에 함께할 시간 이 적 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+한국 노인 빈곤 율 1 위 , 65 세 이상 노인 층 상대적 빈곤 율 가장 높 아 한국 이 OECD 회원국 중 노인 빈곤 율 이 1 위 인 것 으로 드러났 다 .	ORG-B O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O

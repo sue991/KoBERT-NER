@@ -1,11 +1,11 @@
-2008년 베이징 올림픽을 앞두고 열리+ㄴ 80회 동아수영대회에서는 자유형 400m에서 3분43초 59로, 자유형 200m에서 1분46초 73으로 아시아 신기록을 세우었다 .	O O O O O O O O O O O O O O O LOC-B O O O
-유희관은 올스타전을 앞두고 “어제 늦게 잠들었는데 아침에 눈이 일찍 +어+지었다 .	PER-B O O O O O O O O O O
-유 후보는 그런 진 전 장관을 두고 “장관을 지내+시었고 우리 캠프의 가장 크+ㄴ 누나”라고 설명하고 있다 .	PER-B O O PER-B O O O O O O O O O O O O O
-대한무역투자진흥공사(코트라)에 지원 신청을 하+ 여받아들이어 +지었다 .	ORG-B O O O O O O
-남북한의 다양하+ㄴ 생활·문화 차이를 소개하는 프로그램이+ㄴ이만 갑에 출연 중 이+ㄴ신은하씨(28)는 네이버 사진·동영상 전용 소셜네트워크 서비스(SNS) 폴라에 16일 강원 춘천시 소양강댐을 찾아가 +아찍은 사진을 올리었다 .	ORG-B O O O O O O O O PER-B O O O O ORG-B O O LOC-B LOC-I LOC-I O O O O O
-실은 이 기사를 쓰고 있는 키보드 옆에도 커피 한 잔이 놓이어 있다 .	O O O O O O O O O O O O O
-15호 태풍 북상… 24일부터 영향권 북상 중 이+ㄴ 제15호 태풍 ‘고니’가 25일 낮 일본 규슈에 상륙하+ㄴ 뒤 26일 동해로 진출 하+ㄹ 전망이다 .	O O O O O O O O O O O O O LOC-B LOC-I O O O LOC-B O O O O
-생선 요리는 한쪽 면을 먹은 뒤 다른 쪽을 들기 위 하+ 여 뒤집지 않도록 하+ㄴ다 .	O O O O O O O O O O O O O O O O
-박수련기 .	PER-B O
-채용계획 확정 못하+ㄴ삼성·현대차 …대기업 31%는 "줄이겠다 .	O O ORG-B O O O O
-내년부터 도시가스 요금 9% 인하, 가구당 월평균 3500원 ↓기 .	O O O O O O O MNY-B O O
+2008 년 베이징 올림픽 을 앞두 고 열린 80 회 동아 수영 대회 에서 는 자유 형 400 m 에서 3 분 43 초 59 로 , 자유 형 200 m 에서 1 분 46 초 73 으로 아시아 신기록 을 세 웠 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O
+유희관 은 올스타 전 을 앞두 고 “ 어제 늦 게 잠들 었 는데 아침 에 눈 이 일찍 떠 졌 다 .	PER-B O O O O O O O O O O O O O TIM-B O O O O O O O O
+유 후보 는 그런 진 전 장관 을 두 고 “ 장관 을 지내 셨 고 우리 캠프 의 가장 큰 누나 ” 라고 설명하 고 있 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+대한무역투자진흥공사 ( 코트라 ) 에 지원 신청 을 해 받아들 여 졌 다 .	ORG-B O ORG-B O O O O O O O O O O O
+남 북한 의 다양한 생활 · 문화 차이 를 소개하 는 프로그램 인 이만갑 에 출연 중 인 신은하 씨 ( 28 ) 는 네이버 사진 · 동영상 전용 소셜 네트워크 서비스 ( SNS ) 폴라 에 16 일 강원 춘천시 소양강 댐 을 찾아가 찍 은 사진 을 올 렸 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O ORG-B O O O DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O
+실은 이 기사 를 쓰 고 있 는 키보드 옆 에 도 커피 한 잔 이 놓 여 있 다 .	O O O O O O O O O O O O O O O O O O O O O
+15 호 태풍 북상 … 24 일 부터 영향 권 북상 중 인 제 15 호 태풍 ‘ 고니 ’ 가 25 일 낮 일본 규슈 에 상륙한 뒤 26 일 동해 로 진출할 전망 이 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B LOC-I O O O DAT-B DAT-I LOC-B O O O O O O
+생선 요리 는 한쪽 면 을 먹 은 뒤 다른 쪽 을 들 기 위해 뒤집 지 않 도록 한다 .	O O O O O O O O O O O O O O O O O O O O O
+박수련 기자	PER-B O
+채용 계획 확정 못한 삼성 · 현대차 … 대기업 31 % 는 " 줄이 겠 다 "	O O O O ORG-B O ORG-B O O O O O O O O O O
+내년 부터 도시가스 요금 9 % 인하 , 가구 당 월 평균 3500 원 ↓ 기대	O O O O O O O O O O O O MNY-B MNY-I O O

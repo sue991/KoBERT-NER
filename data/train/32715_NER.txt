@@ -1,12 +1,12 @@
-SK신인노관현의 패 .	ORG-B O O
-골프채를 먼저 잡은 것+ㄴ 동생 윤정호다 .	O O O O O PER-B O
-국내 최대 규모, 대한민국을 대표하는 환경 그림 공모전으로 홈플러스 e파란재단과 유엔 환경계획(UNEP) 한국위원회가 주최하고 환경부, 교육부, 기상청, 산림청, 글로벌녹색성장기구, 중앙일보, 중앙SUNDAY, 서울대학교 등 총 73개 기관 이 후원하+ㄴ다 .	O O O ORG-B O O O O ORG-B ORG-I ORG-B ORG-I ORG-I O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O
-마타, 리그컵 4강 1차 전결승골 포함 … 최근 15경기 무패기간 4골 맹활 .	PER-B O O O O O O O O O O O O
-아베 총리가 집권 하+ㄴ이후에는 과거 행동에 대하+ㄴ 구실 찾기에 그치지 않고 아예 과거를 덮으려는 시도로까지 나아가고 있다 .	PER-B O O O O O O O O O O O O O O O O O
-김 교수와 주 회장의 집안은 서로 잘 알고 지내던 사이이었다 .	PER-B O PER-B O O O O O O O O
-“30개월 안 되+ㄴ아이가 스마트폰 쓰면 수학·과학지능 손상은 물론 … .	O O O O O O O O O O
-유 후보가 “캠프의 정책본부장하고 이야기하라는 오만하+ㄴ토론 태도가 어디 있느냐”고 지적하자, 곧바로 문 후보는 “제 발언 시간을 다 뺏어 +가았다”며 불만을 감추지 않았다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O O
-송군은 “나를 믿고 아들처럼 대하+여주+어서 너무 고맙었다”며 “그 덕에 남들과는 조금 다르+ㄴ길을 가+아도 괜찮겠다는, 하+여보+ㄹ 수 있겠다는 자신감을 가지+ㄹ 수 있었다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-지난해 1년 동안 201명이 이수하였고 올 1학기에 +ㄴ 145명이 뛰어들었다 .	O O O O O O O O O O O
-지나 +아해운대로 돌아오는 어선들의 풍경을 이르는 말이다 .	O LOC-B O O O O O O
-19∼35세+이면 누구나 지원 하+ㄹ 수 있지만 1, 2기생들은 주로 대학생과 직장인이었다 .	O O O O O O O O O O O O
+SK 신인 노관현 의 패기	ORG-B O PER-B O O
+골프채 를 먼저 잡 은 건 동생 윤정호 다 .	O O O O O O O PER-B O O
+국내 최대 규모 , 대한민국 을 대표하 는 환경 그림 공모전 으로 홈플러스 e 파란 재단 과 유엔 환경 계획 ( UNEP ) 한국 위원회 가 주최하 고 환경부 , 교육부 , 기상청 , 산림청 , 글로벌 녹색 성장 기구 , 중앙일보 , 중앙 SUNDAY , 서울대학교 등 총 73 개 기관 이 후원한다 .	O O O O ORG-B O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B ORG-I ORG-I ORG-I O ORG-B O ORG-B ORG-I O ORG-B O O O O O O O O
+마타 , 리그 컵 4 강 1 차 전 결승 골 포함 … 최근 15 경기 무패 기간 4 골 맹활약	PER-B O O O O O O O O O O O O O O O O O O O O
+아베 총리 가 집권한 이후 에 는 과거 행동 에 대한 구실 찾 기 에 그치 지 않 고 아예 과거 를 덮 으려는 시도 로 까지 나아가 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 교수 와 주 회장 의 집안 은 서로 잘 알 고 지내 던 사 이 였 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O
+“ 30 개월 안 된 아이 가 스마트 폰 쓰 면 수학 · 과학 지능 손상 은 물론 … ”	O O O O O O O O O O O O O O O O O O O O
+유 후보 가 “ 캠프 의 정책 본부 장 하 고 이야기하 라는 오만한 토론 태도 가 어디 있 느냐 ” 고 지적하 자 , 곧바로 문 후보 는 “ 제 발언 시간 을 다 뺏 어 갔 다 ” 며 불만 을 감추 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+송 군 은 “ 나 를 믿 고 아들 처럼 대해 줘서 너무 고마 웠 다 ” 며 “ 그 덕 에 남 들 과 는 조금 다른 길 을 가도 괜찮 겠 다는 , 해 볼 수 있 겠 다는 자신감 을 가질 수 있 었 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 1 년 동안 201 명 이 이수 했 고 올 1 학기 엔 145 명 이 뛰어들 었 다 .	O O O O O O O O O O O O O O O O O O O O O
+지나 해운대 로 돌아오 는 어선 들 의 풍경 을 이르 는 말 이 다 .	O LOC-B O O O O O O O O O O O O O O
+19 ∼ 35 세 면 누구 나 지원할 수 있 지만 1 , 2 기 생 들 은 주로 대학생 과 직장인 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-추신수(35·텍사스 레인저스)가 시범경기에서 선발로 출장하였지만 무안타에 그치었다 .	ORG-B ORG-I O O O O O O
-추신수는 2일(이하 한국시간) 미국 애리조나 주템페디아블로스타디움에서 열리+ㄴ 2017 메이저리그 시범경기 LA에 인절스전에서 2번 타자 우익수로 선발출장 하+여2 타수 무안타1삼진을 기록하였다 .	PER-B O LOC-B LOC-B O LOC-B O O O O ORG-B O O O O O O O O O O
-지난달 28일 밀워키 브루어스 전에서 시범경기 첫 안타를 신고 하+ㄴ 뒤 한 경기를 쉬었던 추신수는 기세를 잇어 가지 못하였다 .	O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O
-크레용 팝소율 “10대 얼짱 출신 …생일이면 여기저기 축하 벽보 붙어” 깜 .	ORG-B ORG-I O O O O O O O O O O
-1963년 존 F케네디 대통령 때 신설되 +ㄴ자유의 메달은 미국의 이익이나 세계 평화, 문화 등 각 분야에서 두드러지+ㄴ 공을 세우+ㄴ 시민에게 주어지는 대통령 훈장이다 .	O PER-B PER-I O O O O O ORG-B O O O O O O O O O O O O O O O
-지나치게 수동적이고 기계적 이+ㄴ 평양 시민의 모습에 섬뜩하+ㅁ도 느끼었지만 환대 분위기+이었다 .	O O O O LOC-B O O O O O O O
-잇어 27일부터 29일까지 3일간 해당 채널을 통하+여서 +ㄹ 특집 '레드벨벳의 럭키포켓'을 방영하+ㄴ다 .	O O O O O O O O O O O O O
-통일부는 올해 9, 10월경이면 국내에 입국하는 탈북민이 총 3만명을 돌파 하+ㄹ 것으로 전망하였다 .	ORG-B O O O O O O O O O O O O O
-말레이시아 출신 중국계 무용수류 융셴 … 17일 막내리+ㄴ ‘나티보스’ 서맹활 .	ORG-B O ORG-B O O O O O O O O
-‘주거환경 개선을 통하+ㄴ인류 발전에 공헌’하는 모기업 한샘의 사명을 이어받아 본격적으로 사무용 가구 브랜드 VIITZ를 론칭, 국내 사무환경 개선을 통하+ㄴ 고객 워크 스타일의 변화를 선도하+여가고 있다 .	O O O O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O
-나+의 밑의 직원도 지난해 황씨에게 계를 들었는데 결혼식을 앞두고 곗돈을 태우어주지 않는 바람에 결혼이 무산되기까지 +였다 .	O O O O PER-B O O O O O O O O O O O O
-‘트로트 후계자’ 우승 후 류원정은 많은 기획사에서 러브콜을 받았지만, “인간미 있고 가족적 이+ㄴ 분위기의”현 소속사 대표와 손을 잡았다 .	O O O O PER-B O O O O O O O O O O O O O O
-수많은 작가의 마음이 다녀가 +ㄴ 파타고니아는 상상력으로 이루어 지+ㄴ 물결처럼 이곳에서 저곳으로 번지+어+가았다 .	O O O O O LOC-B O O O O O O O O
-미국산 중저가 브랜드 ‘미셸 특수 .	ORG-B O O ORG-B O O
-전북의 공식 홈페이지도 갑작스럽 ㄴ 폭주로 한동안 마비되었다 .	ORG-B O O O O O O O O
+추신수 ( 35 · 텍사스 레인저스 ) 가 시범 경기 에서 선발 로 출장 했 지만 무안타 에 그 쳤 다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+추신수 는 2 일 ( 이하 한국 시간 ) 미국 애리조나주 템페 디아블로 스타디움 에서 열린 2017 메이저리그 시범 경기 LA 에인절스 전 에서 2 번 타자 우익수 로 선발 출장해 2 타수 무안타 1 삼진 을 기록 했 다 .	PER-B O DAT-B DAT-I O O LOC-B O O LOC-B LOC-B LOC-B LOC-I LOC-I O O DAT-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+지난달 28 일 밀워키 브루어스 전 에서 시범 경기 첫 안타 를 신고한 뒤 한 경기 를 쉬 었 던 추신수 는 기세 를 이 어 가 지 못 했 다 .	O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+크레용 팝 소 율 “ 10 대 얼짱 출신 … 생일 이 면 여기저기 축하 벽보 붙 어 ” 깜짝	ORG-B ORG-I PER-B PER-I O O O O O O O O O O O O O O O O
+1963 년 존 F 케네디 대통령 때 신설된 자유 의 메달 은 미국 의 이익 이나 세계 평화 , 문화 등 각 분야 에서 두드러진 공 을 세운 시민 에게 주어지 는 대통령 훈장 이 다 .	DAT-B DAT-I PER-B PER-I PER-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+지나치 게 수동적 이 고 기계적 인 평양 시민 의 모습 에 섬뜩함 도 느 꼈 지만 환대 분위기 였 다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O
+이 어 27 일 부터 29 일 까지 3 일 간 해당 채널 을 통해 설 특집 ' 레드 벨벳 의 럭키 포켓 ' 을 방영한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+통일부 는 올해 9 , 10 월 경 이 면 국내 에 입국하 는 탈 북 민 이 총 3 만 명 을 돌파할 것 으로 전망 했 다 .	ORG-B O O DAT-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+말레이시아 출신 중국 계 무용수 류융셴 … 17 일 막 내린 ‘ 나티 보스 ’ 서 맹활약	ORG-B O ORG-B O O PER-B O DAT-B DAT-I O O O O O O O O
+‘ 주거 환경 개선 을 통한 인류 발전 에 공헌 ’ 하 는 모 기업 한샘 의 사명 을 이어받 아 본격적 으로 사무 용 가구 브랜드 VIITZ 를 론칭 , 국내 사무 환경 개선 을 통한 고객 워크 스타일 의 변화 를 선도해 가 고 있 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+내 밑 의 직원 도 지난해 황 씨 에게 계 를 들 었 는데 결혼식 을 앞두 고 곗돈 을 태 워 주 지 않 는 바람 에 결혼 이 무산되 기 까지 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 트로트 후계자 ’ 우승 후 류원정 은 많 은 기획 사 에서 러브콜 을 받 았 지만 , “ 인간미 있 고 가족적 인 분위기 의 ” 현 소속 사 대표 와 손 을 잡 았 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수많 은 작가 의 마음 이 다녀간 파타고니아 는 상상력 으로 이루어진 물결 처럼 이곳 에서 저곳 으로 번져 갔 다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O
+미국 산 중저가 브랜드 ‘ 미셸 특수 ’	ORG-B O O O O ORG-B O O
+전북 의 공식 홈페이지 도 갑작스러 운 폭주 로 한동안 마비 됐 다 .	ORG-B O O O O O O O O O O O O O

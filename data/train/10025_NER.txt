@@ -1,10 +1,10 @@
-가장 외롭었던 경찰, 황량하+ㄴ 사막에서 10년간 홀로… 4년 前 만나 +ㄴ 사람이 끝?올해 말 제복을 벗는 40년 경력의 호주 경찰관 닐 맥 셰인(60)이 언론에 소개되+어며 눈길을 끌고 있다 .	O O O O O O O O O O O O O O O O O O ORG-B O PER-B PER-I PER-I O O O O O O
-그린 유목민왕정훈, ‘진주왕자’ .	O PER-B O O
-3월 10일 또는 13일 탄핵심판 선 .	O O O O O O O
-[부고]정철수 아들 .	PER-B O O
-에디의 생사 여부는 아직 파악되지 않고 있다 .	PER-B O O O O O O O
-2박3일에 60만원 …사회 문제 부르 .	O MNY-B O O O O
-LCD 핵심 광학 필름업계 ‘샛별’ 창업 첫해부터 100만달러 수 .	O O O O O O O MNY-B O O
-‘사랑도 통역이 되나요?’(2003년)로 베니스 영화제 감독상과 아카데미 각본상을 수상하였고 ‘썸웨어’(2010년)로 같은 영화제 황금사자상을 받았다 .	O O O LOC-B O O ORG-B O O O O O O O O
-레임덕의 금융개혁은 불가능하였나: 김영삼 정부가 추진하+ㄴ금융개혁은 기아 사태 해결 지연으로 인하+여저하되 +ㄴ대외신인도를 회복 하+ㄹ 마지막 기회가 +었다 .	O O O PER-B O O O O O O O O O O O O O O
-당시 존슨은 호주 북부 다윈에서 비행을 마치었으며 11년 후 영국에서 비행사고로 숨지었다 .	O PER-B LOC-B LOC-I LOC-I O O O O LOC-B O O O
+가장 외로 웠 던 경찰 , 황량한 사막 에서 10 년 간 홀로 … 4 년 前 만난 사람 이 끝 ? 올해 말 제복 을 벗 는 40 년 경력 의 호주 경찰관 닐 맥 셰인 ( 60 ) 이 언론 에 소개 돼 며 눈길 을 끌 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O PER-B PER-I PER-I O O O O O O O O O O O O O O O O
+그린 유목민 왕정훈 , ‘ 진주 왕자 ’ 로	O O PER-B O O O O O O
+3 월 10 일 또는 13 일 탄핵 심판 선고	DAT-B DAT-I DAT-I DAT-I O DAT-B DAT-I O O O
+[ 부고 ] 정철수 아들 상	O O O PER-B O O
+에디 의 생사 여부 는 아직 파악되 지 않 고 있 다 .	PER-B O O O O O O O O O O O O
+2 박 3 일 에 60 만 원 … 사회 문제 불 러	O O O O O MNY-B MNY-I MNY-I O O O O O
+LCD 핵심 광학 필름 업계 ‘ 샛별 ’ 창업 첫해 부터 100 만 달러 수출	O O O O O O O O O O O MNY-B MNY-I MNY-I O
+‘ 사랑 도 통역 이 되 나요 ? ’ ( 2003 년 ) 로 베니스 영화제 감독 상 과 아카데미 각본 상 을 수상 했 고 ‘ 썸 웨어 ’ ( 2010 년 ) 로 같 은 영화제 황금 사자 상 을 받 았 다 .	O O O O O O O O O O DAT-B DAT-I O O LOC-B O O O O ORG-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+레임덕 의 금융 개혁 은 불가능 했 나 : 김영삼 정부 가 추진한 금융 개혁 은 기아 사태 해결 지연 으로 인해 저하된 대외 신인 도 를 회복할 마지막 기회 가 됐 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+당시 존슨 은 호주 북부 다윈 에서 비행 을 마 쳤 으며 11 년 후 영국 에서 비행 사고 로 숨 졌 다 .	O PER-B O LOC-B LOC-I LOC-I O O O O O O DAT-B DAT-I O LOC-B O O O O O O O O

@@ -1,15 +1,15 @@
-에코 트래블 백 만들기, 소녀시대도 패션으로 이용하며 화 .	O O O O ORG-B O O O O
-제주항공 FIT(FreeI ndependentTour) 라운지는 현지 가이드의 역할을 담당 하+ㄴ다 .	ORG-B O O O O O O O O O
-김씨는 남편의 동의 없이 소 취하서와 위임장을 위조, 위조 하+ㄴ 위임장으로 주민센터에서 인감증명서까지 발급받는 대범 하+ㅁ을 보이었다 .	PER-B O O O O O O O O O O O O O O O O O
-결국 검찰은 지나 +ㄴ 11일 김씨를 문서 위조 사용 혐의로 재판에 넘기었다 .	O O O O O PER-B O O O O O O O
-김씨의 첫 재판은 다음달 6일 열리+ㄹ 예정이다 .	PER-B O O O O O O O
-30mL8만원, 100mL18만5000원 .불가리아쿠아디비나 오드투왈렛비너스의 신성하+ㄴ 아름답+ㅁ에서 영감을 받아 만들어 지+ㄴ 향수.톡 쏘는 시트러스 향에 목련의 우아하고 감미롭 ㄴ향이 더 하+여지+어 여성미를 강조하+여주+ㄴ다 .	MNY-B MNY-B ORG-B O O O O O O O O O O O O O O O O O O O O
-한편 유병재는 현재 ‘SNL코리아’의 작가로 활동하는 유병재는 Mnet ‘유세윤의 아트비디오’에 참여하면서 방송계에 입문 하+ㄴ바 있다 .	O PER-B O O O O PER-B O O O O O O O O O
-이 문형산업연구원(KIET) 북경지원장은 “중국은 기존 화석연료 자동차 개발 분야는 선진국을 추월하기 어렵다고 보고 기술격차를 줄이는 것을 목표로 하고 있다”며 “전기차 분야에서는 선도국으로 부상하+ㄴ다는 계획을 갖고 개발에 지원을 아끼지 않는다”고 말하였다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-황교익은 “일본 짬뽕 스타일과 비슷하다”며 “숙주를 쓰는 것도 비슷하다 .	PER-B LOC-B O O O O O O O O
-김명연 새누리당 의원은 “정치인뿐만 아니라 지역주민들도 ‘녹취가 일상화되+어 신경이 쓰이어서 사람 만나는 맛이나지 않는다’고 하더라”고 전하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O
-1990년대에 +ㄴ몬스터닷컴 같은 온라인 웹사이트에 구인란이 생기면서 전 세계 직업을 검색 가능하게 +었다 .	O ORG-B O O O O O O O O O O O O
-또 ‘포괄적 뇌물죄’ 대신 ‘제3자 뇌물죄’ 적용을 검토하고 있다 .	O O O O O O O O O O
-지난해 말 12개 은행의 저원가성 예금 비중보다 1.6배 높다 .	O O O O O O O O O O
-왜냐하면 한 번 넓어 지+ㄴ모공은 단시간에 좁히+어지지 않기 때문이다 .	O O O O O O O O O O
-'한국 이름은 예나' +이라는 대답을 받았다 .	O O PER-B O O O O
+에코 트래블 백 만들 기 , 소녀 시대 도 패션 으로 이용하 며 화제	O O O O O O ORG-B ORG-I O O O O O O
+제주 항공 FIT ( Free Independent Tour ) 라운지 는 현지 가이드 의 역할 을 담당한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
+김 씨 는 남편 의 동의 없이 소 취하 서 와 위임장 을 위조 , 위조한 위임장 으로 주민 센터 에서 인감 증명서 까지 발급 받 는 대범함 을 보 였 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+결국 검찰 은 지난 11 일 김 씨 를 문서 위조 사용 혐의 로 재판 에 넘 겼 다 .	O O O O DAT-B DAT-I PER-B O O O O O O O O O O O O O
+김 씨 의 첫 재판 은 다음 달 6 일 열릴 예정 이 다 .	PER-B O O O O O O O DAT-B DAT-I O O O O O
+30 mL 8 만 원 , 100 mL 18 만 5000 원 . 불가리 아쿠아 디비나 오 드 투 왈 렛 비너스 의 신성한 아름다움 에서 영감 을 받 아 만들 어 진 향수 . 톡 쏘 는 시트러스 향 에 목련 의 우아하 고 감미로 운 향 이 더해 져 여성미 를 강조해 준다 .	O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 유병재 는 현재 ‘ SNL 코리아 ’ 의 작가 로 활동하 는 유병재 는 Mnet ‘ 유세윤 의 아트 비디오 ’ 에 참여하 면서 방송 계 에 입문한 바 있 다 .	O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+이문형 산업 연구원 ( KIET ) 북경 지원 장 은 “ 중국 은 기존 화석 연료 자동차 개발 분야 는 선진국 을 추월하 기 어렵 다고 보 고 기술 격차 를 줄이 는 것 을 목표 로 하 고 있 다 ” 며 “ 전기 차 분야 에서 는 선도 국 으로 부상한다는 계획 을 갖 고 개발 에 지원 을 아끼 지 않 는다 ” 고 말 했 다 .	PER-B O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황교익 은 “ 일본 짬뽕 스타일 과 비슷하 다 ” 며 “ 숙주 를 쓰 는 것 도 비슷하 다 .	PER-B O O LOC-B O O O O O O O O O O O O O O O O O
+김명연 새누리당 의원 은 “ 정치인 뿐 만 아니 라 지역 주민 들 도 ‘ 녹취 가 일상화돼 신경 이 쓰 여서 사람 만나 는 맛 이 나 지 않 는다 ’ 고 하 더라 ” 고 전 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1990 년대 엔 몬스터 닷컴 같 은 온라인 웹사이트 에 구인란 이 생기 면서 전 세계 직업 을 검색 가능하 게 됐 다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+또 ‘ 포괄적 뇌물 죄 ’ 대신 ‘ 제 3 자 뇌물죄 ’ 적용 을 검토하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O
+지난해 말 12 개 은행 의 저 원가 성 예금 비중 보다 1.6 배 높 다 .	O O O O O O O O O O O O O O O O O
+왜냐하면 한 번 넓어진 모공 은 단시간 에 좁혀 지 지 않 기 때문 이 다 .	O O O O O O O O O O O O O O O O O
+' 한국 이름 은 예 나 ' 라는 대답 을 받 았 다 .	O O O O PER-B PER-I O O O O O O O O

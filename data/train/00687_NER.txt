@@ -1,18 +1,18 @@
-반기문 유엔 총장 박지원 “반기문 유엔 총장 방북, 굉장히 좋은 일”반기문 유엔 사무총장이 이번 주 내 방북 하+ㄹ 것으로 알려지었다는 보도가 나 오+ㄴ 가운데, 박지원 새정치민주연합 의원은 “만약 (반기문 유엔 총장의 방북이) 확정되+ㄴ다면 굉장히 좋은 일”이라고 기대감을 나타내 +었다 .	PER-B ORG-B O PER-B PER-B ORG-B O O O O PER-B ORG-B O O O O O O O O O O O O PER-B ORG-B O O PER-B ORG-B O O O O O O O O O O
-박 의원은 16일 YTN 라디오와 인터뷰에서 “반기문 유엔 총장은 햇볕정책 지지자”+이라면서 “지금 남북관계가 꼬이어 있는 상태 이+ㄴ데 유엔 사무총장이 평양을 방문하+여서 풀어나가는, 그래서 종국적으로는 한반도에서 전쟁을 피하고 북한 핵문제도 해결하는, 그러하+ㄴ일을 반기문 사무총장이 하+여주면 너무 좋은 일”이라고 말하였다 .	PER-B O O ORG-B O O PER-B ORG-B O O O O ORG-B O O O O ORG-B O LOC-B O O O O LOC-B O O ORG-B O O O PER-B O O O O O O O
-박 의원은 2년 전 반기문 유엔 총장 측으로부터 “내년쯤 평양을 방문하+여 김정은 위원장과 회담 하+ㄹ 계획이라는 얘기를 듣었다”고 덧붙이었다 .	PER-B PER-I O O PER-B ORG-B O O O LOC-B O PER-B O O O O O O O O
-앞서 연합뉴스는 유엔 고위 소식통을 인용하+여반기문 유엔 총장이 이번 주 내에 북한 평양을 전격적으로 방문하+ㄹ 것으로 알려지었다고 단독 보도하였다 .	O ORG-B ORG-B O O PER-B ORG-B O O O O ORG-B LOC-B O O O O O O O
-이 매체는 한국인 유엔 사무총장이 북한을 방문하는 것은 이번이 처음이고 역대 유엔 사무총장 자격으로는 세 번째 +이라고 설명하였다 .	O O O ORG-B O ORG-B O O O O O ORG-B O O O O O O O
-다만 반 총장의 이번 방북이 반 총장 쪽의 요청에 의하+ㄴ 것이 +ㄴ지, 아니면 북한 쪽의 초청에 따르+ㄴ 것이 +ㄴ지는 아직 확인되지 않았으나 어떤 경우에도 반 총장이 이번 평양 방문에서 김정은 북한 국방위원회 제1위원장을 만나 +ㄹ 것으로 보이+ㄴ다고다고 이 매체는 덧붙이었다 .	O PER-B O O O PER-B O O O O O O O ORG-B O O O O O O O O O O PER-B O O LOC-B O PER-B ORG-B O O O O O O O O O O
-반 총장은 지나 +ㄴ 5월 서울을 방문하는 중에 북한 개성공단을 방문하기로 예정되었으나, 방문 직 전 북한의 거부로 취소되었다 .	PER-B O O O O LOC-B O O ORG-B LOC-B O O O O O ORG-B O O O
-이와 관련 하+여정준희 통일부 대변인은 정례브리핑에서 반기문 유엔 총장의 방북 보도에 대하+여 “정부로서는 드리+ㄹ 말씀이 없다”며 “필요하+ㄴ 내용이 있다면 유엔에서 발표 하+ㄹ 것”이라고 밝히었다 .	O O PER-B ORG-B O O PER-B ORG-B O O O O O O O O O O O ORG-B O O O O O
-청와대도 반기문 유엔 총장의 방북 보도 관련 질문에 “처음 듣는 얘기”+이라며 구체적 이+ㄴ 언급을 피하였다 .	ORG-B PER-B O O O O O O O O O O O O O O
-터키 안탈리아에서 박근혜 대통령의 주요 20개국(G20) 정상회의 일정을 수행 중 이+ㄴ 김규현 청와대 외교안보수석은 현지시간으로 이날 새벽기자들과 만나 +ㄴ 자리에서 반 총장이 이번 주 안에 북한을 방문하는 것이 사실이냐는 질문에 대하+여이같이 답하였다 .	LOC-B LOC-B PER-B O O O O O O O O PER-B ORG-B O O O O O O O PER-B O O O O LOC-B O O O O O O O
-반 총장이 방북과 관련 하+ 여청와대나 정부에 언질한 것이 있었냐는 질문에도 “그것에 대하+여서 알는 것+이 없다”면서 “이 단계에서 제가 드리+ㄹ 말씀이 없다”고 말하였다 .	PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O
-녹음 스케줄이 있었는데 옮기는 것+이과연 옳을까 생각하였다” +이라며 임수정과의 만남과 스케줄을 두고 고민하었다고 털어놓았다 .	O O O O O O O O PER-B O O O O O O
-김씨는 “총 매출의 10%가 전단지 배포 덕분이라고 생각하+ㄴ다”면서 “일종의 자극제 이+ㄴ 전단지가 당장 오늘은 아니어도 내일 손님을 불러 오+ㄹ 수 있다고 보+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-현재 단위 발전량 당세금 부과액은 원자력과 유연탄이 액화천연가스(LNG)보다 낮다 .	O O O O O O O O O O
-(서울=연합뉴스) 장현구기자= 두산베어스가 이번에도 넥센 히어로즈 좌완앤디밴헤켄(38)의 올가미에서 빠져나오지 못하였다 .	LOC-B PER-B ORG-B O ORG-B ORG-I PER-B O O O O
-그의 굳은 다짐과 조언 속에서 을지전기의 저력과 성공이유를 다시 한 번 확인 하+ㄹ 수 있었다 .	O O O O O ORG-B O O O O O O O O O O
-현대차 관계자는 “쏠라티 리무진은 차별화되+ㄴ 디자인과 최첨단 편의사양을 합리적 이+ㄴ 가격으로 만나 +ㄹ 수 있는 국산 최고급 리무진 배+ㄴ”이라며 “‘움직이는 VIP 라운지’라고 지칭 하+ㄹ 수 있을 만큼 탑승객에게 품격 있는 휴식공간과 똑똑하+ㄴ 업무공간이 되+어주는 국내 대표적 이+ㄴ 리무진 밴이 되+ㄹ 것”이라고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-몬스터 육성 방식은 도탑 전기스타일에 가깝며, 레벨과 별도로 친밀도를 올리+어몬스터의 능력을 올리+ㄹ 수도 있다 .	O O O O O O O O O O O O O O O
+반기문 유엔 총장 박지원 “ 반기문 유엔 총장 방북 , 굉장히 좋 은 일 ” 반기문 유엔 사무총장 이 이번 주 내 방북할 것 으로 알려 졌 다는 보도 가 나온 가운데 , 박지원 새정치민주연합 의원 은 “ 만약 ( 반기문 유엔 총장 의 방북 이 ) 확정된다면 굉장히 좋 은 일 ” 이라고 기대감 을 나타냈 다 .	PER-B O O PER-B O PER-B O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O O
+박 의원 은 16 일 YTN 라디오 와 인터뷰 에서 “ 반기문 유엔 총장 은 햇볕 정책 지지자 ” 라면서 “ 지금 남북 관계 가 꼬 여 있 는 상태 인데 유엔 사무총장 이 평양 을 방문해서 풀 어 나가 는 , 그래서 종국적 으로 는 한반도 에서 전쟁 을 피하 고 북한 핵 문제 도 해결하 는 , 그러한 일 을 반기문 사무총장 이 해 주 면 너무 좋 은 일 ” 이라고 말 했 다 .	PER-B O O DAT-B DAT-I ORG-B O O O O O PER-B ORG-B O O O O O O O O O ORG-B O O O O O O O O ORG-B O O LOC-B O O O O O O O O O O O LOC-B O O O O O ORG-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+박 의원 은 2 년 전 반기문 유엔 총장 측 으로부터 “ 내년 쯤 평양 을 방문해 김정 은 위원장 과 회담할 계획 이 라는 얘기 를 들 었 다 ” 고 덧붙 였 다 .	PER-B O O DAT-B DAT-I O PER-B ORG-B O O O O O O LOC-B O O PER-B PER-I O O O O O O O O O O O O O O O O O
+앞서 연합뉴스 는 유엔 고위 소식통 을 인용해 반기문 유엔 총장 이 이번 주 내 에 북한 평양 을 전격적 으로 방문할 것 으로 알려 졌 다고 단독 보도 했 다 .	O ORG-B O ORG-B O O O O PER-B ORG-B O O DAT-B DAT-I O O ORG-B LOC-B O O O O O O O O O O O O O O
+이 매체 는 한국인 유엔 사무총장 이 북한 을 방문하 는 것 은 이번 이 처음 이 고 역대 유엔 사무총장 자격 으로 는 세 번째 라고 설명 했 다 .	O O O O ORG-B O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O
+다만 반 총장 의 이번 방북 이 반 총장 쪽 의 요청 에 의한 것 인지 , 아니 면 북한 쪽 의 초청 에 따른 것 인지 는 아직 확인되 지 않 았 으나 어떤 경우 에 도 반 총장 이 이번 평양 방문 에서 김정은 북한 국방위원회 제 1 위원장 을 만날 것 으로 보인다고 다고 이 매체 는 덧붙 였 다 .	O PER-B O O O O O PER-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O PER-B O O O LOC-B O O PER-B ORG-B O O O O O O O O O O O O O O O O O
+반 총장 은 지난 5 월 서울 을 방문하 는 중 에 북한 개성 공단 을 방문하 기 로 예정 됐 으나 , 방문 직전 북한 의 거부 로 취소 됐 다 .	PER-B O O O DAT-B DAT-I LOC-B O O O O O LOC-B LOC-B LOC-I O O O O O O O O O O ORG-B O O O O O O O
+이 와 관련해 정준희 통일부 대변인 은 정례 브리핑 에서 반기문 유엔 총장 의 방북 보도 에 대해 “ 정부 로서 는 드릴 말씀 이 없 다 ” 며 “ 필요한 내용 이 있 다면 유엔 에서 발표할 것 ” 이라고 밝 혔 다 .	O O O PER-B ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+청와대 도 반기문 유엔 총장 의 방북 보도 관련 질문 에 “ 처음 듣 는 얘기 ” 라며 구체적 인 언급 을 피 했 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+터키 안탈리아 에서 박근혜 대통령 의 주요 20 개국 ( G 20 ) 정상 회의 일정 을 수행 중 인 김규현 청와대 외교 안보 수석 은 현지 시간 으로 이날 새벽 기자 들 과 만난 자리 에서 반 총장 이 이번 주 안 에 북한 을 방문하 는 것 이 사실 이 냐는 질문 에 대해 이같이 답 했 다 .	LOC-B LOC-B O PER-B O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O PER-B O O O O O O LOC-B O O O O O O O O O O O O O O O O
+반 총장 이 방북 과 관련해 청와대 나 정부 에 언질 한 것 이 있 었 냐는 질문 에 도 “ 그것 에 대해서 아 는 게 없 다 ” 면서 “ 이 단계 에서 제 가 드릴 말씀 이 없 다 ” 고 말 했 다 .	PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+녹음 스케줄 이 있 었 는데 옮기 는 게 과연 옳 을까 생각 했 다 ” 라며 임수정 과 의 만남 과 스케줄 을 두 고 고민 했 다고 털어 놨 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+김 씨 는 “ 총 매출 의 10 % 가 전단 지 배포 덕분 이 라고 생각한다 ” 면서 “ 일종 의 자극제 인 전단 지 가 당장 오늘 은 아니 어도 내일 손님 을 불러올 수 있 다고 본다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 단위 발전량 당 세금 부과액 은 원자력 과 유연탄 이 액화 천연가스 ( LNG ) 보다 낮 다 .	O O O O O O O O O O O O O O O O O O O O
+( 서울 = 연합뉴스 ) 장현구 기자 = 두산 베어스 가 이번 에 도 넥센 히어로즈 좌완 앤디 밴헤켄 ( 38 ) 의 올가미 에서 빠져나오 지 못 했 다 .	O LOC-B O ORG-B O PER-B O O ORG-B ORG-I O O O O ORG-B ORG-I O PER-B PER-I O O O O O O O O O O O O
+그 의 굳 은 다짐 과 조언 속 에서 을지 전기 의 저력 과 성공 이유 를 다시 한 번 확인할 수 있 었 다 .	O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+현대차 관계자 는 “ 쏠 라티 리무진 은 차별화된 디자인 과 최첨단 편의 사양 을 합리적 인 가격 으로 만날 수 있 는 국산 최고급 리무진 밴 ” 이 라며 “ ‘ 움직이 는 VIP 라운지 ’ 라고 지칭할 수 있 을 만큼 탑승객 에게 품격 있 는 휴식 공간 과 똑똑한 업무 공간 이 돼 주 는 국내 대표적 인 리무진 밴 이 될 것 ” 이라고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+몬스터 육성 방식 은 도 탑전기 스타일 에 가까우 며 , 레벨 과 별도 로 친밀 도 를 올려 몬스터 의 능력 을 올릴 수 도 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

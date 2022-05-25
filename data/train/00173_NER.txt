@@ -1,12 +1,12 @@
-실내는 1~2인 가구 수요에 맞추+ㄴ소형으로 구성되 +어 있고, 빌트인 가구 적용으로 효율적 이+ㄴ 공간 활용이 가능하다 .	O O O O O O O O O O O O O O O O O
-롯데주류는 ‘주피터 마일드 블루 17’이 신제품이니 만큼 소비자들 사이에 인지도를 높이는 데 중점을 두고 다양하+ㄴ 채널을 활용하+여마케팅 활동을 펼치+ㄹ 계획이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-대구사회연구소와 대한정치학회는 대구의 정신 등을 주제로 포럼과 학술행사를 열+ㄴ다 .	ORG-B ORG-B ORG-B O O O O O O O
-모두가 짐을 챙기+어도서관을 나서는 시각. 육중 하+ㄴ 도서관문을 밀고 들어서 +ㄴ 다섯 명의 청춘이 있었으니 ….청춘리포트는 이들을 도서관에 몰아넣고 12시간 동안 강제로 책을 읽도록 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-1박2일 김빛이라기자, 정새 배기자에 군기…“어떤 것+이 까나리야? ‘서늘 .	O PER-B PER-B O O O O O O
-국세청은 조사 결과 수입금액을 누락하+ㄴ 혐의가 발견되면 수입금액을 고치+어신고하도록 하고 수입금액 누락 혐의자는 오는 5월 소득세 신고 때도 계속 관리 하+ㄹ 방침이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-30대 초반으로 나이도 많지 않다 .	O O O O O O
-24일 열리+ㄴ2015FA 컵 4강대 진추첨 결과 울산은 FC서울과 맞붙게 +었다 .	O O O O O O ORG-B ORG-B O O O
-농림축산식품부와 대한상공회의소는 2014년 이런 문제를 해결하기 위하+여 ‘농식품 상생협력 추진본부’를 세우었다 .	ORG-B ORG-B O O O O O O O O O O
-네덜란드 바세나르 협약이나 독일의 하르츠 개혁, 뉴질랜드의 노동개혁 같은 방식이다 .	ORG-B O O ORG-B O O ORG-B O O O O
-강찬수 논설위원·환경전문기 .	PER-B O O
-출근 준비가 끝나 +ㄹ 때쯤이면 주방 알람에서 18분이 지나 +았다고 알리+어주+ㅂ니다 .	O O O O O O O O O O O O
+실내 는 1 ~ 2 인 가구 수요 에 맞춘 소형 으로 구성돼 있 고 , 빌트인 가구 적용 으로 효율적 인 공간 활용 이 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데주류 는 ‘ 주피터 마일드 블루 17 ’ 이 신제품 이 니만큼 소비자 들 사이 에 인지도 를 높이 는 데 중점 을 두 고 다양한 채널 을 활용해 마케팅 활동 을 펼칠 계획 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대구사회연구소 와 대한 정치 학회 는 대구 의 정신 등 을 주제 로 포럼 과 학술 행사 를 연다 .	ORG-B O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O
+모두 가 짐 을 챙겨 도서관 을 나서 는 시각 . 육중한 도서관 문 을 밀 고 들어선 다섯 명 의 청춘 이 있 었 으니 … . 청춘 리포트 는 이 들 을 도서관 에 몰아넣 고 12 시간 동안 강제 로 책 을 읽 도록 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O TIM-B TIM-I O O O O O O O O O O
+1 박 2 일 김 빛 이 라 기자 , 정 새배 기자 에 군기 … “ 어떤 게 까나리 야 ? ‘ 서늘 ’	O O O O PER-B PER-I PER-I PER-I O O PER-B PER-I O O O O O O O O O O O O O
+국세청 은 조사 결과 수입 금액 을 누락한 혐의 가 발견되 면 수입 금액 을 고쳐 신고 토록 하 고 수입 금액 누락 혐의자 는 오 는 5 월 소득세 신고 때 도 계속 관리할 방침 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+30 대 초반 으로 나이 도 많 지 않 다 .	O O O O O O O O O O O
+24 일 열린 2015 FA 컵 4 강 대진 추첨 결과 울산 은 FC 서울 과 맞붙 게 됐 다 .	DAT-B DAT-I O DAT-B O O O O O O O ORG-B O ORG-B ORG-I O O O O O O
+농림 축산식품 부 와 대한 상공 회의소 는 2014 년 이런 문제 를 해결하 기 위해 ‘ 농 식품 상생 협력 추진 본부 ’ 를 세 웠 다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+네덜란드 바세나르 협약 이나 독일 의 하르츠 개혁 , 뉴질랜드 의 노동 개혁 같 은 방식 이 다 .	ORG-B O O O ORG-B O O O O ORG-B O O O O O O O O O
+강찬수 논설위원 · 환경 전문 기자	PER-B O O O O O
+출근 준비 가 끝날 때 쯤 이 면 주방 알람 에서 18 분 이 지났 다고 알려 줍니다 .	O O O O O O O O O O O O O O O O O O O

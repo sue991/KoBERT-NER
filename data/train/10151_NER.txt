@@ -1,15 +1,15 @@
-한편 대한민국 벤처를 대표하는 인물로는 이민화 창조경제연구회 이사장, 김범수 카카오 의장, 이해진 네이버 의장(각 6명) 등이 뽑히 었다 .	O ORG-B O O O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O O O O O O
-글=최은경·김태윤기자 chin1chuk@j oongang. co.kr사진=오상민기자 김강석 블루홀 대표, 김기석 더불어플랫폼 대표 김대연 윈스 대표, 김상철 한글과컴퓨터 회장 김성혁 리니어 허브 대표, 김영달 아이디스 대표 김일호 오콘 대표, 김재천 코스맥스 사장 남민우 다산네트웍스 대표, 박상준 엑시콘 대표 신혜성 와디즈 대표, 양윤선 메디포스트 대표 양인 찬에셋플러스자산운용 대표이기 성지스마트글로벌 대표, 이기원 네오위즈 대표 이상 근유 비쿼스 대표, 이상산·이진수 핸디소프트 공동대표 이상헌 MDS테크놀로지 대표, 이 선진 엔 키아 대표 이형우 마이다스아이티 대표, 전윤호 SK플래닛 기술 책임자 정재웅 아토리서치 대표, 정준쏠리드 대표 조형섭 램스웨이 대표, 최종일 아이코닉스 대표 최창호 하나마이크론 대표, 하영재 동방데이타테크놀러지 대표한 경택넥슨 최고재무책임자(CFO) 황을 문서린바이오사이언스 대표, 황철주 주성엔지니어링 대 .	PER-B O O PER-B PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B ORG-I O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O O ORG-B PER-B ORG-B O PER-B ORG-B O PER-B PER-I O O PER-B ORG-B O PER-B ORG-B O PER-B O O O O PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B O ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O ORG-B O O ORG-B O PER-B ORG-B O O
-당장 13일부터 4주 동안 현대카드·캐피탈 직원들은 남다르+ㄴ쿨맵시로 개성을 마음껏 표현하+ㄹ 수 있다 .	O O O O ORG-B O O O O O O O O
-지나+ㄴ 7월 트레이드를 통하+여SK 유니폼을 입은 정의윤은 김용희 감독의 전폭적 이+ㄴ 신뢰를 받고 있다 .	O O O ORG-B O O PER-B PER-B O O O O O O O
-‘힐링’ 유준상, 자작곡선 뵈+어… 양현석의 평가는?“편곡은 나쁘지 않은데 …” 폭소 21일 방송되+ㄴ SBS ‘힐링캠프-500인’에는 배우 유준상이 게스트로 출연하였다 .	O PER-B O O PER-B O O O O O O O O O O PER-B O O O
-이날 방송에서 ‘K팝스타’의 심사위원이 +ㄴ 양현석과 유희열에게 유준상의 자작곡평을 부탁하였다 .	O O O O O PER-B PER-B PER-B O O O
-‘2016~2017NH 농협 V리그올스타전’ 출전 선수와 감독을 선정하는 팬 투표가 20일부터 다음달 1일까지 13일간 네이버 모바일에서 진행되+ㄴ다 .	O O O O O O O O O O O O O ORG-B O O O
-화재로 하루 1명 꼴로 사망하고 5명이 부상하+ㄴ다 .	O O O O O O O O
-하하는 공식 발표 전 정형돈의 불안장애 심각성을 이미 알고 이 같은 응원 글을 남기+ㄴ 것으로 보이+ㄴ다 .	PER-B O O O PER-B O O O O O O O O O O O O
-한편 이날 FNC엔터테인먼트는 공식 보도자료를 통하+여 “자사 소속 방송인정형돈씨가 건강상의 이유로 당분간 방송활동을 중단하+ㄹ 예정”이라고 발표하였다 .	O O ORG-B O O O O O PER-B O O O O O O O O
-결국 김씨는 단원생활을 접고 고려아연·현대중공업 등에서 직장생활을 +였다 .	O PER-B O O ORG-B O O O O
-그런데 지나 +ㄴ달 22일 대통령 직속 규제개혁위원회(규개위)가 제동을 걸었다 .	O O O O O O O O O O
-이방카는 목과 어깨가 드러나 +ㄴ 검정색 원피스를 입었다 .	PER-B O O O O O O O O
-올해 1분기까지 전국에 1000가구가 넘는 대단지 아파트 3만여 가구가 쏟아 지+ㄹ 예정이다 .	O O O O O O O O O O O O O
-부동산114에 따르면 오는 3월까지 대단지 아파트는 전국 21곳, 3만3487가구가 분양을 앞두고 있다 .	ORG-B O O O O O O O O O O O O
+한편 대한민국 벤처 를 대표하 는 인물 로 는 이민화 창조 경제 연구회 이사장 , 김범수 카카오 의장 , 이해진 네이버 의장 ( 각 6 명 ) 등 이 뽑 혔 다 .	O ORG-B O O O O O O O PER-B ORG-B ORG-I ORG-I O O PER-B ORG-B O O PER-B ORG-B O O O O O O O O O O O O
+글 = 최은경 · 김태윤 기자 chin 1 chuk @ joongang . co . kr 사진 = 오상민 기자 김강석 블루 홀 대표 , 김기석 더불 어 플랫폼 대표 김대연 윈스 대표 , 김상철 한글과컴퓨터 회장 김성혁 리니어 허브 대표 , 김영달 아이 디스 대표 김일호 오콘 대표 , 김재천 코스맥스 사장 남민우 다산네트웍스 대표 , 박상준 엑시 콘 대표 신혜성 와디 즈 대표 , 양윤선 메디 포스트 대표 양인찬 에셋 플러스 자산 운용 대표 이 기성 지 스마트 글로벌 대표 , 이기원 네오위즈 대표 이상 근 유비쿼스 대표 , 이상 산 · 이진수 핸디소프트 공동대표 이상헌 MDS 테크놀로지 대표 , 이선진 엔키아 대표 이형우 마이다스 아이티 대표 , 전윤호 SK 플래닛 기술 책임자 정재웅 아토 리서치 대표 , 정 준 쏠리드 대표 조형섭 램스 웨이 대표 , 최종일 아이 코닉스 대표 최창호 하나 마이크론 대표 , 하영재 동방 데이타 테크놀러지 대표 한경택 넥슨 최고 재무 책임자 ( CFO ) 황을문 서린 바이오 사이언스 대표 , 황철주 주성엔지니어링 대표	O O PER-B O PER-B O O O O O O O O O O O O PER-B O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I ORG-I O PER-B ORG-B O O PER-B ORG-B O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I O PER-B ORG-B O O PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B ORG-I O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I O PER-B ORG-B ORG-I ORG-I ORG-I O PER-B PER-I ORG-B ORG-I ORG-I O O PER-B ORG-B O PER-B PER-I ORG-B O O PER-B PER-I O PER-B ORG-B O PER-B ORG-B ORG-I O O PER-B ORG-B O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I O O PER-B PER-I ORG-B O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I O PER-B ORG-B ORG-I O O PER-B ORG-B ORG-I ORG-I O PER-B ORG-B O O O O O O PER-B ORG-B ORG-I ORG-I O O PER-B ORG-B O
+당장 13 일 부터 4 주 동안 현대카드 · 캐피탈 직원 들 은 남다른 쿨 맵시 로 개성 을 마음껏 표현할 수 있 다 .	O DAT-B DAT-I O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
+지난 7 월 트레이드 를 통해 SK 유니폼 을 입 은 정의윤 은 김용희 감독 의 전폭적 인 신뢰 를 받 고 있 다 .	O DAT-B DAT-I O O O ORG-B O O O O PER-B O PER-B O O O O O O O O O O O
+‘ 힐링 ’ 유준상 , 자작곡 선봬 … 양현석 의 평가 는 ? “ 편곡 은 나쁘 지 않 은데 … ” 폭소 21 일 방송된 SBS ‘ 힐링 캠프 - 500 인 ’ 에 는 배우 유준상 이 게스트 로 출연 했 다 .	O O O PER-B O O O O PER-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O
+이날 방송 에서 ‘ K 팝 스타 ’ 의 심사 위원 인 양현석 과 유희열 에게 유준상 의 자작곡 평 을 부탁 했 다 .	O O O O O O O O O O O O PER-B O PER-B O PER-B O O O O O O O O
+‘ 2016 ~ 2017 NH 농협 V 리그 올스타 전 ’ 출전 선수 와 감독 을 선정하 는 팬 투표 가 20 일 부터 다음 달 1 일 까지 13 일 간 네이버 모바일 에서 진행된다 .	O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O ORG-B O O O O
+화재 로 하루 1 명 꼴 로 사망하 고 5 명 이 부상한다 .	O O O O O O O O O O O O O O
+하하 는 공식 발표 전 정형돈 의 불안 장애 심각성 을 이미 알 고 이 같 은 응원 글 을 남긴 것 으로 보인다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O
+한편 이날 FNC 엔터테인먼트 는 공식 보도 자료 를 통해 “ 자사 소속 방송인 정형돈 씨 가 건강 상 의 이유 로 당분간 방송 활동 을 중단할 예정 ” 이라고 발표 했 다 .	O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+결국 김 씨 는 단원 생활 을 접 고 고려아연 · 현대중공업 등 에서 직장 생활 을 했 다 .	O PER-B O O O O O O O ORG-B O ORG-B O O O O O O O O
+그런데 지난 달 22 일 대통령 직속 규제 개혁 위원회 ( 규 개위 ) 가 제동 을 걸 었 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+이방 카 는 목 과 어깨 가 드러난 검정 색 원피스 를 입 었 다 .	PER-B PER-I O O O O O O O O O O O O O O
+올해 1 분기 까지 전국 에 1000 가구 가 넘 는 대 단지 아파트 3 만 여 가구 가 쏟아질 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+부동산 114 에 따르 면 오 는 3 월 까지 대 단지 아파트 는 전국 21 곳 , 3 만 3487 가구 가 분양 을 앞두 고 있 다 .	ORG-B ORG-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O

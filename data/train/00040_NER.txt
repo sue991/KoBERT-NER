@@ -1,13 +1,13 @@
-지나+ㄴ 21일 방송되+ㄴ JTBC ‘백인 백곡-끝까지가+ㄴ다’에는 과거 그룹 씨야에서 메인 보컬로 활동하였던 가수 김연지가 출연하+여화제를 모으았다 .	O O O O O O O O ORG-B O O O O PER-B O O O
-이날 4년 만에 솔로로 돌아오+ㄴ 김연지는 박정현의 ‘꿈에’를 열창하였다 .	O O O O O PER-B PER-B O O O
-남아공 월드컵 직전 이+ㄴ 2010년 6월을 마지막으로 한 번도 1위에 오르지 못하였던 브라질은 6년 10개월 만에 왕좌를 되찾았다 .	O O O O O O O O O O O O ORG-B O O O O O O
-트레더 티셔츠는 멜란지 소재와 메시 원단을 사용하+여 바람이 잘 통하+ㄴ다 .	ORG-B ORG-I O O O O O O O O O
-한국은 세계 무대에서 당당히 경쟁 하+ㄹ 수 있는 높은 수준의 의료와 IT를 보유하고 있다 .	ORG-B O O O O O O O O O O O O O O
-실제 고향이 드라마 촬영지인 강원도 태백이라는 사실까지 화제가 되+ㄹ 정도+이었다 .	O O O O LOC-B LOC-I O O O O O
-금성출판사에서는 LA지사장, 상무이사를 거치었고 교과서 회사 이+ㄴ(주)캠프를 설립하+여 현재 사장을 겸하고 있다 .	ORG-B O O O O O ORG-B O O O O O O
-러시아는 사이버 공간 전쟁에 얼마나 준비되+어 있는가 .	ORG-B O O O O O O O
-이로써 차범근(64) 전 감독이 보유 하+ㄴ한국 선수의 유럽 무대한 시즌 최다 골 기록(19골) 경신도 다음 경기로 미루게 +었다 .	O PER-B O O O O O LOC-B O O O O O O O O O O O
-고소인들은 우경윤합수 부수사2국장의 피격이 총장 공관원이 총격을 가하 +ㄴ 것이 아니라 합수부 연행조수사관의 오인사격에 기인 하+ㄴ 것이라는 등 합수부의 연행조가 먼저 발포하+ㄴ 것으로 주장하고 있다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-"21일 오후 전북 전주시 관통로에서 열리+ㄴ '제11차 전북도민 총궐기대회 '무대에서 +ㄴ 방송인 김제동(43)씨는 "앞으로 대한민국에서 누구가 대통령이 되든 일하는 사람들이 누구+이+ㄴ가의 엄마이고, 아빠이고, 누나 이고, 매형이라는 사실을 잊지 않고 경제정책을 +였으면 좋겠다"며 이같이 밝히었다 .	O O LOC-B LOC-B LOC-B O O LOC-B O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O
-미국 수석대표 이+ㄴ 피터 콜린스 미 무역대표부(USTR) 부대표 보는 『자동차는 그 나라의 경제 개방 정도에 관하+ㄴ 인상에서 가장 크+ㄴ 영향을 미치는 품목』이라고 지적하기도 +였다 .	ORG-B O O PER-B PER-I ORG-B ORG-B O O O O O O O O O O O O O ORG-B O O O O
-지나+ㄴ 2012~2013 시즌스 완지 유니폼을 입은 기성용은 3시즌 만에 100경기 출전기록을 세우게 +었다 .	O O O O O O PER-B O O O O O O O
+지난 21 일 방송된 JTBC ‘ 백인 백곡 - 끝 까지 간다 ’ 에 는 과거 그룹 씨야 에서 메인 보컬 로 활동 했 던 가수 김연지 가 출연해 화제 를 모 았 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O ORG-B O O O O O O O O PER-B O O O O O O O O
+이날 4 년 만 에 솔로 로 돌아온 김연지 는 박정현 의 ‘ 꿈 에 ’ 를 열창 했 다 .	O O O O O O O O PER-B O PER-B O O O O O O O O O O
+남아공 월드컵 직전 인 2010 년 6 월 을 마지막 으로 한 번 도 1 위 에 오르 지 못 했 던 브라질 은 6 년 10 개월 만 에 왕좌 를 되찾 았 다 .	O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+트레 더 티셔츠 는 멜 란 지 소재 와 메시 원단 을 사용해 바람 이 잘 통한다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
+한국 은 세계무대 에서 당당히 경쟁할 수 있 는 높 은 수준 의 의료 와 IT 를 보유하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+실제 고향 이 드라마 촬영 지인 강원도 태백 이 라는 사실 까지 화제 가 될 정도 였 다 .	O O O O O O LOC-B LOC-I O O O O O O O O O O O
+금성출판사 에서 는 LA 지사장 , 상무 이사 를 거 쳤 고 교과서 회사 인 ( 주 ) 캠프 를 설립해 현재 사장 을 겸하 고 있 다 .	ORG-B O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O
+러시아 는 사이버 공간 전쟁 에 얼마나 준비돼 있 는가 ?	ORG-B O O O O O O O O O O
+이 로써 차범근 ( 64 ) 전 감독 이 보유한 한국 선수 의 유럽 무대 한 시즌 최다 골 기록 ( 19 골 ) 경신 도 다음 경기 로 미루 게 됐 다 .	O O PER-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+고소인 들 은 우경윤 합수부 수사 2 국장 의 피격 이 총장 공관 원 이 총격 을 가한 것 이 아니 라 합수부 연행 조 수사관 의 오인 사격 에 기인한 것 이 라 는 등 합수부 의 연행 조 가 먼저 발포한 것 으로 주장하 고 있 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 21 일 오후 전북 전주시 관 통로 에서 열린 ' 제 11 차 전북 도민 총궐기 대회 ' 무대 에 선 방송인 김제동 ( 43 ) 씨 는 " 앞 으로 대한민국 에서 누 가 대통령 이 되 든 일하 는 사람 들 이 누군가 의 엄마 이 고 , 아빠 이 고 , 누나 이 고 , 매형 이 라는 사실 을 잊 지 않 고 경제 정책 을 했 으면 좋 겠 다 " 며 이같이 밝 혔 다 .	O DAT-B DAT-I O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 수석대표 인 피터 콜린스 미 무역 대표부 ( USTR ) 부 대표 보 는 『 자동차 는 그 나라 의 경제 개방 정도 에 관한 인상 에서 가장 큰 영향 을 미치 는 품목 』 이라고 지적하 기 도 했 다 .	ORG-B O O PER-B PER-I ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 2012 ~ 2013 시즌 스완지 유니폼 을 입 은 기성용 은 3 시즌 만 에 100 경기 출전 기록 을 세우 게 됐 다 .	O O O O O O O O O O PER-B O DAT-B DAT-I O O O O O O O O O O O O

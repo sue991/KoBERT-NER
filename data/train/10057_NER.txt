@@ -1,16 +1,16 @@
-강원지방기상청에 따르면, 설악산 중청봉의 아침 기온이 영하로 떨어지면서 이날 오전 7시께부터 산발적으로 눈이 날리었다 .	ORG-B O LOC-B LOC-B O O O O O O O O O O O
-지나+ㄴ 27일 방송되+ㄴ SBS '달의 연인보보경심려'에서 해수(아이유분)는 누명을 덮어쓰+ㄴ 오상궁(우희진 분)의 죽음을 막기 위 하+여석고대죄하는 장면이 나오았다 .	O O O O O O PER-B O O PER-B O O O O O O PER-B O
-올 시즌 수원은 역대 최악의 상황에 처하였다 .	O O ORG-B O O O O O
-홍 지사에게 1억원을 전달하였다고 성 회장이 지목 하+ㄴ 윤모 전 경남기업 부사장(52)과 2013년 충남 부여-청양 국회의원 재선거 당시 이 전 총리-성 회장 간 독대를 목격하였다고 주장 하+여오+ㄴ이 전 총리의 운전기사 윤모씨 중 누구가 먼저 소환되느냐에 따르 아두 정치인의 소환 순서도 정하+여지+ㄹ 것으로 보이+ㄴ다 .	PER-B O MNY-B O PER-B PER-B O O PER-B O ORG-B O MNY-B LOC-B LOC-B MNY-I O O PER-B O PER-B O O O O O PER-B O O O PER-B O O O O O O O O O O O PER-B O
-1호선 부평역 사고.동인천∼부천역 전철 운행 중단 1호선 부평역 크레인 사고, 동인천∼부천역 전철 운행 중단... 복구 지연되는 이유는?지하철 1호선 인천 부평역 철로에 건설용 크레인이 넘어지는 사고가 발생하+여동 인천∼부천역 전철 운행이 중단되었다 .	O LOC-B LOC-B O O O O LOC-B O O LOC-B O O O O O O O LOC-B LOC-B O O O O O O LOC-B O O O O
-16일 오후 2시35분께 인천시 부평역에서 백운역 방면 전철 선로에 크레인이 덮치+어 전기가 끊어 지+어 양방향 운행이 모두 중단되었다 .	O O O LOC-B LOC-I LOC-B O O O O O O O O O O O O O
-이 사고로 크레인 운전자 1명과 인부 2명이 부상을 입고 인근 병원으로 옮기+어지+어 치료를 받고 있으나 생명에는 지장이 없는 것으로 알려지었다 .	O O O O O O O O O O O O O O O O O O O O O
-현재 서울~인천방향은 서울 오류역까지, 인천~서울 방향은 주안역까지 운행하고 있으며 부천 온수~인천간석까지는 운행이 중단되+ㄴ 상태+이다 .	O O O O O O LOC-B O O LOC-B LOC-I O O O O
-하지만 정전 이사장은 이날 최씨의 호칭과 관련 “주변에서다 최 회장으로 부르었다”고 증언하기도 +였다 .	O PER-B O O PER-B O O O PER-B O O O O O
-문재인은 대선 패배의 반성문 격이 +ㄴ『 1219 끝이 시작이다 』에서 “노무현을 넘어서는 것이 그의 마지막 부탁이라는 것을 알+ㄴ다 .	PER-B O O O O O O O O O PER-B O O O O O O O O
-익산 지진, 새벽 4시31분에 규모 3.5 지진 발생 … 서울에서도 지진 느끼+어오늘(22일) 오전 전라북도 익산시 인근에서 지진이 발생하였다 .	LOC-B O O O O O O O O LOC-B O O O LOC-B LOC-B O O O O
-기상청은 이날 지진통보를 통하+여04시 31분 25초에 익산시 북쪽 8km 지역에서 규모 3.5의 지진이 발생하였다고 밝히었다 .	ORG-B O O O O O LOC-B O O O O O O O O O
-이에 전북지역에서 지진동이 감지되었으며, 인근 주민들이 놀라 +았다 .	O LOC-B O O O O O O O
-지진 발생 당시 인근에는 10여 초 가량 지진파가 감지되었으며, 아파트 등에는 건물과 창문이 흔들리는 현상이 발생하였다 .	O O O O O O O O O O O O O O O O O
-한편 이번 지진은 지나 +ㄴ 8월 제주도 성산남동쪽 22km 해역에서 발생하+ㄴ 규모 3.7의 지진에잇어올 들어 두 번째로 규모가 크+ㄴ 지진으로 기록되었으며, 진원지와 150km 이상 떨어지+ㄴ 서울 일부 지역에서도 지진을 느끼었다는 제보가 들어오았다 .	O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
-‘천재소년’ 송유근 국내 최연소 박사 .	O PER-B O O O O
+강원 지방 기상청 에 따르 면 , 설악산 중청봉 의 아침 기온 이 영하 로 떨어지 면서 이날 오전 7 시 께 부터 산발적 으로 눈 이 날 렸 다 .	ORG-B ORG-I ORG-I O O O O LOC-B LOC-B O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O
+지난 27 일 방송된 SBS ' 달 의 연인 보보 경심 려 ' 에서 해수 ( 아이유 분 ) 는 누명 을 덮어쓴 오 상궁 ( 우희진 분 ) 의 죽음 을 막 기 위해 석고대죄 하 는 장면 이 나 왔 다 .	O DAT-B DAT-I O O O O O O O O O O O PER-B O PER-B O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O
+올 시즌 수원 은 역대 최악 의 상황 에 처 했 다 .	O O ORG-B O O O O O O O O O O
+홍 지사 에게 1 억 원 을 전달 했 다고 성 회장 이 지목한 윤 모 전 경남기업 부사장 ( 52 ) 과 2013 년 충남 부여 - 청양 국회의원 재선거 당시 이 전 총리 - 성 회장 간 독대 를 목격 했 다고 주장해 온 이 전 총리 의 운전기사 윤 모 씨 중 누 가 먼저 소환되 느냐 에 따 라 두 정치인 의 소환 순서 도 정해 질 것 으로 보인다 .	PER-B O O MNY-B MNY-I MNY-I O O O O PER-B O O O PER-B PER-I O ORG-B O O O O O DAT-B DAT-I LOC-B LOC-B O LOC-B O O O PER-B O O O PER-B O O O O O O O O O PER-B O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+1 호 선 부평역 사고 . 동인천 ∼ 부천역 전철 운행 중단 1 호 선 부평역 크레인 사고 , 동인천 ∼ 부천역 전철 운행 중단 . . . 복구 지연되 는 이유 는 ? 지하철 1 호 선 인천 부평 역 철로 에 건설 용 크레인 이 넘어지 는 사고 가 발생해 동인천 ∼ 부천역 전철 운행 이 중단 됐 다 .	O O O LOC-B O O LOC-B LOC-I LOC-I O O O O O O LOC-B O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O
+16 일 오후 2 시 35 분 께 인천시 부평역 에서 백운역 방면 전철 선로 에 크레인 이 덮쳐 전기 가 끊어져 양 방향 운행 이 모두 중단 됐 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O O
+이 사고 로 크레인 운전자 1 명 과 인부 2 명 이 부상 을 입 고 인근 병원 으로 옮겨 져 치료 를 받 고 있 으나 생명 에 는 지장 이 없 는 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 서울 ~ 인천 방향 은 서울 오류역 까지 , 인천 ~ 서울 방향 은 주안역 까지 운행하 고 있 으며 부천 온수 ~ 인천 간석 까지 는 운행 이 중단된 상태 다 .	O LOC-B LOC-I LOC-I O O LOC-B LOC-I O O LOC-B LOC-I LOC-I O O LOC-B O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O
+하지만 정 전 이사장 은 이날 최 씨 의 호칭 과 관련 “ 주변 에서 다 최 회장 으로 불 렀 다 ” 고 증언하 기 도 했 다 .	O PER-B O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O
+문재인 은 대선 패배 의 반성문 격 인 『 1219 끝 이 시작 이 다 』 에서 “ 노무현 을 넘어서 는 것 이 그 의 마지막 부탁 이 라는 것 을 안다 .	PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+익산 지진 , 새벽 4 시 31 분 에 규모 3.5 지진 발생 … 서울 에서 도 지진 느껴 오늘 ( 22 일 ) 오전 전라북도 익산시 인근 에서 지진 이 발생 했 다 .	LOC-B O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O LOC-B O O O O O O DAT-B DAT-I O O LOC-B LOC-B O O O O O O O O
+기상청 은 이날 지진 통보 를 통해 04 시 31 분 25 초 에 익산시 북쪽 8 km 지역 에서 규모 3.5 의 지진 이 발생 했 다고 밝 혔 다 .	ORG-B O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I TIM-I O LOC-B O O O O O O O O O O O O O O O O O
+이 에 전북 지역 에서 지진동 이 감지되 었 으며 , 인근 주민 들 이 놀랐 다 .	O O LOC-B O O O O O O O O O O O O O O O
+지진 발생 당시 인근 에 는 10 여 초 가량 지진파 가 감지되 었 으며 , 아파트 등 에 는 건물 과 창문 이 흔들리 는 현상 이 발생 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 이번 지진 은 지난 8 월 제주도 성산 남동쪽 22 km 해역 에서 발생한 규모 3.7 의 지진 에 이 어 올 들 어 두 번째 로 규모 가 큰 지진 으로 기록되 었 으며 , 진원지 와 150 km 이상 떨어진 서울 일부 지역 에서 도 지진 을 느 꼈 다는 제보 가 들어 왔 다 .	O O O O O DAT-B DAT-I LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+‘ 천재 소년 ’ 송유근 국내 최 연소 박사 로	O O O O PER-B O O O O O

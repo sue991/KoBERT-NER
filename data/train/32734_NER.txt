@@ -1,14 +1,14 @@
-10년 전 출범 때와 달리 요즘은 SNS가 비슷하+ㄴ 역할을 하+ㄴ다 .	O O O O O O O O O O O
-[함께 읽는 동아일보/ 우도형] 유능사원 아끼는 근무 .	O O O PER-B O O O O
-당정은 21일 국회에서 연말정산 관련 긴급 당정협의를 갖고 “이번 연말정산이 완료되는 대로 3월 말까지 그 결과를 면밀히 분석하여 소득구간 가+ㄴ 세 부담 증감 및 형평등을 고려하여 세부담이 적정화되도록 구체적 이+ㄴ보완대책을 마련하기로 +였다”고 합의 내용을 발표하였다 .	O O O LOC-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-새누리당은 보완대책과 관련 하+ㄴ 소득세법 개정안을 4월 국회에서 처리하고, 연말정산 귀속분에 대하+여서도 소급 적용하는 방안을 야당과 협의 하+ 여 입법조치를 추진하+ㄹ 방침이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-당정이 추진하기로 하+ㄴ 구체적 이+ㄴ 보완대책은 총 다섯 가지 +이다 .	O O O O O O O O O O O
-첫째, 종전 다자녀 추가공제, 6세 이하 자녀 양육비 소득공제가 이번에 자녀 세액공제로 전환되+ㅁ에 따르 아서 다자녀 가구의 경우 세부담이 일부 증가되 +ㄹ 수 있다는 점을 감안하+여서 자녀세액공제 1인당 15만원, 3인 이상 20만원의 수준을 상향 조정하기로 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B O O MNY-B O O O O O
-둘째, 종전 출생 입양공제 100만원이 자녀세액공제로 통하+ㅁ되+ㅁ에 따르 아서 폐지하기로 한 자녀 출생 입양에 대하+ㄴ 세액공제를 신설 하+ㄴ다 .	O O O O MNY-B O O O O O O O O O O O O O O
-셋째, 독신 근로자의 경우 다가구 근로자보다 특별공제 혜택 적용 여지가 크지 않은 점을 감안하+여서 표준세액공제 12만원을 상향 조정 하+ㄴ다 .	O O O O O O O O O O O O O O O MNY-B O O O O
-넷째, 국민들의 노후생활 보장을 지원하기 위하+여서 공제율이 상대적으로 낮은 연금보험료 세액공제 12%를 확대하+ㄴ다 .	O O O O O O O O O O O O O O
-당정은 이번 연말정산 개정 세법에 대하+여 “지나 +ㄴ 2013년 국회에서 여야 합의로 세법이 개정되+ㄹ 당시에 과세 형평성 제고를 위하+여서 소득공제를 세액공제로 전환하+ㄴ 소득세법 개정의 적정성과 세법개정을 통하+여서 마련되 +ㄴ 약 9300억원의 재원이 올해부터 자녀 양육지원 및 근로장려금 확대 재원 1조4000억원의 일부로 저소득층 지원을 위하+여서 쓰이+ㄹ 수 있도록 설계되+ㄴ점에 대하+여서는 충분히 공감을 +였다”고 밝히었다 .	O O O O O O O O MNY-B O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O O O O O O O MNY-B O O O O O O O O O O O O O O
-이어 “다만 중산 서민층의 세부담 증가를 최소화하도록 설계 하+ㄴ다고 +였지만 근로자 수가 전체 1600만명이나 많은 관계로 공제항목 또는 부양가족 수 등에 따르 아서 개인별로 세 부담의 차이가 발생하+ㄹ 수가 있고, 특히 금년 연말정산시에는 2012년 9월 경제활력 제고를 위하+여서 적게 걷고 적게 돌려받는 방식으로 개정 하+ㄴ 간이 세액 계산표의 개정 효과와 맞물리+어서 연말정산을 통하+ㄴ소위 13월의 월급이 줄어들 +ㄹ 수 있는 측면이 있다는 국민의 우려에 대하+여서 인식을 같이 +였다”고 연말정산 세금폭탄 비판을 수용하+여 보완책을 마련하기로 하+ㄴ 배경을 설명하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-발표에 앞서 +어 당정협의에 참석하+ㄴ 최경환 경제부총리 겸 재정경제부 장관은 “지금 한창 진행 중 이+ㄴ 연말정산 문제로 많은 국민께 불편을 드리고 부담을 드리게 되+ㄴ점에 대하+여서 대단히 송구스럽다는 말씀을 먼저 드리+ㄴ다”고 사과하였다 .	O O O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-이날 당정협의에는 새누리당에서 이완구 원내대표, 주호영 정책위의장, 김재원 원내수석부대표, 나성린 정책수석부의장 등이 정부에서는 최경환 경제부총리 등이 참석하였다 .	O O ORG-B PER-B O PER-B O PER-B O PER-B O O O PER-B O O O O
-당정협의 내용은 주호영 정책위의장이 발표하였다 .	O O PER-B O O O
+10 년 전 출범 때 와 달리 요즘 은 SNS 가 비슷한 역할 을 한다 .	O O O O O O O O O O O O O O O O
+[ 함께 읽 는 동아일보 / 우도형 ] 유능 사원 아끼 는 근무 제	O O O O O O PER-B O O O O O O O
+당정 은 21 일 국회 에서 연말 정산 관련 긴급 당정 협의 를 갖 고 “ 이번 연말정산 이 완료되 는 대로 3 월 말 까지 그 결과 를 면밀히 분석하 여 소득 구간 간 세 부담 증감 및 형평 등 을 고려하 여 세 부담 이 적정 화 되도록 구체적 인 보완 대책 을 마련하 기 로 했 다 ” 고 합의 내용 을 발표 했 다 .	O O DAT-B DAT-I O O O LOC-B O O O O O O O O O LOC-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새누리당 은 보완 대책 과 관련한 소득세법 개정안 을 4 월 국회 에서 처리하 고 , 연말 정산 귀속 분 에 대해서 도 소급 적용 하 는 방안 을 야당 과 협의해 입법 조치 를 추진할 방침 이 다 .	ORG-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당정 이 추진하 기 로 한 구체적 인 보완 대책 은 총 다섯 가지 다 .	O O O O O O O O O O O O O O O O
+첫째 , 종전 다자녀 추가 공제 , 6 세 이하 자녀 양육비 소득 공제 가 이번 에 자녀 세액 공제 로 전환됨 에 따 라서 다자녀 가구 의 경우 세 부담 이 일부 증가될 수 있 다는 점 을 감안해서 자녀 세액 공제 1 인 당 15 만 원 , 3 인 이상 20 만 원 의 수준 을 상향 조정하 기 로 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+둘째 , 종전 출생 입양 공제 100 만 원 이 자녀 세액공제 로 통함 됨 에 따 라서 폐지 키 로 한 자녀 출생 입양 에 대한 세액공제 를 신설한다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O
+셋째 , 독신 근로자 의 경우 다 가구 근로자 보다 특별 공제 혜택 적용 여지 가 크 지 않 은 점 을 감안해서 표준 세액 공제 12 만 원 을 상향 조정한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O
+넷째 , 국민 들 의 노후 생활 보장 을 지원하 기 위해서 공제 율 이 상대적 으로 낮 은 연금 보험 료 세액 공제 12 % 를 확대한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당정 은 이번 연말 정산 개정 세법 에 대해 “ 지난 2013 년 국회 에서 여야 합의 로 세법 이 개정될 당시 에 과세 형평성 제고 를 위해서 소득공제 를 세액공제 로 전환한 소득세법 개정 의 적정성 과 세법 개정 을 통해서 마련된 약 9300 억 원 의 재원 이 올해 부터 자녀 양육 지원 및 근로 장려금 확대 재원 1 조 4000 억 원 의 일부 로 저소득층 지원 을 위해서 쓰일 수 있 도록 설계된 점 에 대해서 는 충분히 공감 을 했 다 ” 고 밝 혔 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 다만 중산 서민층 의 세 부담 증가 를 최소화 하 도록 설계한다고 했 지만 근로자 수 가 전체 1600 만 명 이나 많 은 관계 로 공제 항목 또는 부양 가족 수 등 에 따 라서 개인별 로 세 부담 의 차이 가 발생할 수 가 있 고 , 특히 금년 연말 정산 시 에 는 2012 년 9 월 경제 활력 제고 를 위해서 적 게 걷 고 적 게 돌려받 는 방식 으로 개정한 간이 세액 계산표 의 개정 효과 와 맞물려서 연말 정산 을 통한 소위 13 월 의 월급 이 줄어들 수 있 는 측면 이 있 다는 국민 의 우려 에 대해서 인식 을 같이 했 다 ” 고 연말 정산 세금 폭탄 비판 을 수용해 보완 책 을 마련 키 로 한 배경 을 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+발표 에 앞서 당정 협의 에 참석한 최경환 경제 부총리 겸 재정경제부 장관 은 “ 지금 한창 진행 중 인 연말 정산 문제 로 많 은 국민 께 불편 을 드리 고 부담 을 드리 게 된 점 에 대해서 대단히 송구스럽 다는 말씀 을 먼저 드린다 ” 고 사과 했 다 .	O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 당정 협의 에 는 새누리당 에서 이완구 원내 대표 , 주호영 정책 위 의장 , 김재원 원내 수석 부 대표 , 나성린 정책 수석 부의장 등 이 정부 에서 는 최경환 경제 부총리 등 이 참석 했 다 .	O O O O O ORG-B O PER-B O O O PER-B O O O O PER-B O O O O O PER-B O O O O O O O O PER-B O O O O O O O O
+당정 협의 내용 은 주호영 정책 위 의장 이 발표 했 다 .	O O O O PER-B O O O O O O O O

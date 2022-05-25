@@ -1,14 +1,14 @@
-OK저축은행은 송명근(24득점) 한 명의 활약으로는 팀 현대캐피탈을 이기+ㄹ 수 없었다 .	ORG-B PER-B O O O O ORG-B O O O O
-한편 화성실내체육관에서 열리+ㄴ 여자부에서는 최하위도로 공사가 IBK기업은행을 세트스코어 3-2(25-1526-2825-1728-3015-10)로 잡는 파란을 연출하며 9연 패악몽에서 벗어나 +았다 .	O LOC-B O O ORG-B ORG-I ORG-B O O O O O O O O O O
-1936년 베를린 올림픽 마라톤에서 금메달을 목에 걸었지만 가슴에 붙은 일장기 탓에 고개숙이어야 +였던 고 손기정 선생.친선특급에 참가하는 손 선생의 외손자 이준 승손기 정기념재단 사무총장(48)은 “손 선생은 베를린 올림픽에 참가하기 위하+여시베리아 횡단열차를 타+았다 .	O O O O O O O O O O O O O O ORG-B O O PER-B O PER-B O PER-B ORG-I O PER-B O O O O O O O O
-A씨는 관광버스 회사 소속으로 이 학교 셔틀버스만 15년째 운행 하+ㄴ 것으로 조사되었다 .	PER-B O O O O O O O O O O O O
-재계가 철도기관사에잇은 전노대의 연대파업에 대비, 이번 주 초 긴급 경제5단체장 회의를 갖기로 하는 등 대응책 마련에 나서 +었다 .	O O ORG-B O O O O O O O O O O O O O O O O
-대한축구협회에는 안방에서 열리는 국제대회에서 좋은 성적을 거두기 위하+여일찌감치 대표팀을 가동하였다 .	ORG-B O O O O O O O O O O
-89채에 불과하+ㄴ 전용면적 109㎡(89채)형만 1순위에서 마감을 마치지 못하였다 .	O O O O O O O O O
-원자력연은 이번 운송을 포함하+여 올해 총 5회에 걸치+어폐기물 800드럼을 경주 방폐장으로 운송 하+ㄹ 예정이다 .	ORG-B O O O O O O O O LOC-B O O O O O
-첫 곡 ‘Burn’부터 스피커 앞으로 모여들는 콘트라베이스, 피아노, 오르간의 소리 입자들이 커튼 자락처럼 낮게 스미+어커피 색 안개를 형성하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-비아이지, 오는 17일 컴백… “팬들과 빠르+ㄴ 만 남위 하+여 .	ORG-B O O O O O O O O O
-‘피고인’에서 지성(박정우 역)의 감방 식 구성규 역을 맡은 김민석은 지난달 30일 자신의 인스타그램에 “대기실에서 피고인 보게 생기었네! 우리 다 같이 보+아요!” +이라며 ‘피고인’의 본방 사수를 독려하였다 .	O PER-B O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O
-생일맞은 이보영, 패+ㄴ 초대 하+여 점심식사 '미니팬 미팅 .	O PER-B O O O O O O O
-그러나 중국과 뉴욕증시에 동시 상장하고 있는 중국 상하이 페트로케미칼사의 주가는 뉴욕과 상해가 약 20%의 격차를 보이었다 .	O ORG-B ORG-B O O O ORG-B ORG-I ORG-I O ORG-B ORG-B O O O O O
-국회로 들어 오+ㄴ성나+ㄴ 표정의 민주당 의원들은 아마도 김 위원장의 예결위원회로 가장 먼저 들이닥치 +ㄹ 것이다 .	O O O O ORG-B O O PER-B O O O O O O O O
+OK 저축은행 은 송명근 ( 24 득점 ) 한 명 의 활약 으로 는 팀 현대캐피탈 을 이길 수 없 었 다 .	ORG-B ORG-I O PER-B O O O O O O O O O O O ORG-B O O O O O O O
+한편 화성실내체육관 에서 열린 여자 부 에서 는 최 하위 도로 공사 가 IBK 기업은행 을 세트스코어 3 - 2 ( 25 - 15 26 - 28 25 - 17 28 - 30 15 - 10 ) 로 잡 는 파란 을 연출하 며 9 연패 악몽 에서 벗어났 다 .	O LOC-B O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1936 년 베를린 올림픽 마라톤 에서 금메달 을 목 에 걸 었 지만 가슴 에 붙 은 일장기 탓 에 고개 숙 여야 했 던 고 손기정 선생 . 친선 특급 에 참가하 는 손 선생 의 외손자 이준승 손기정 기념 재단 사무총장 ( 48 ) 은 “ 손 선생 은 베를린 올림픽 에 참가하 기 위해 시베리아 횡단 열차 를 탔 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O PER-B ORG-B ORG-I ORG-I O O O O O O PER-B O O O O O O O O O O O O O O O
+A 씨 는 관광 버스 회사 소속 으로 이 학교 셔틀버스 만 15 년 째 운행한 것 으로 조사 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+재계 가 철도 기관사 에 이 은 전노대 의 연대 파업 에 대비 , 이번 주초 긴급 경제 5 단체장 회의 를 갖 기 로 하 는 등 대응책 마련 에 나섰 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+대한축구협회 에 는 안방 에서 열리 는 국제 대회 에서 좋 은 성적 을 거두 기 위해 일찌감치 대표 팀 을 가동 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+89 채 에 불과한 전용면적 109 ㎡ ( 89 채 ) 형 만 1 순위 에서 마감 을 마치 지 못 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+원자력연 은 이번 운송 을 포함해 올해 총 5 회 에 걸쳐 폐기물 800 드럼 을 경주 방 폐장 으로 운송할 예정 이 다 .	ORG-B O O O O O O O O O O O O O O O LOC-B O O O O O O O O
+첫 곡 ‘ Burn ’ 부터 스피커 앞 으로 모여드 는 콘트라베이스 , 피아노 , 오르간 의 소리 입자 들 이 커튼 자락 처럼 낮 게 스며 커피색 안개 를 형성한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+비아이지 , 오 는 17 일 컴백 … “ 팬 들 과 빠른 만남 위해 ”	ORG-B O O O DAT-B DAT-I O O O O O O O O O O
+‘ 피고인 ’ 에서 지성 ( 박정우 역 ) 의 감방 식구 성규 역 을 맡 은 김민석 은 지난달 30 일 자신 의 인스타그램 에 “ 대기실 에서 # 피고인 보 게 생 겼 네 ! 우리 다 같이 봐요 ! ” 라며 ‘ 피고인 ’ 의 본방 사수 를 독려 했 다 .	O O O O PER-B O PER-B O O O O O PER-B O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+생일 맞 은 이보영 , 팬 초대해 점심 식사 ' 미니 팬 미팅 '	O O O PER-B O O O O O O O O O O
+그러나 중국 과 뉴욕 증시 에 동시 상장 하 고 있 는 중국 상하이 페트로 케미칼 사 의 주가 는 뉴욕 과 상해 가 약 20 % 의 격차 를 보 였 다 .	O ORG-B O ORG-B O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O ORG-B O ORG-B O O O O O O O O O O O
+국회 로 들어온 성난 표정 의 민주당 의원 들 은 아마도 김 위원장 의 예결 위원회 로 가장 먼저 들이닥칠 것 이 다 .	O O O O O O ORG-B O O O O PER-B O O O O O O O O O O O O

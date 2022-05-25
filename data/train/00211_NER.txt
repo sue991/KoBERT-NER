@@ -1,12 +1,12 @@
-헌법재판소도 탄핵심판에 속도를 내는 상황이 +ㄴ 만큼 이달에 박 대통령의 운명이 걸리+어 있는 셈이다 .	ORG-B O O O O O O O PER-B O O O O O O
-범인은 사망 하+ㄴ조카의 친모이자로 잘레스의 언니 이+ㄴ 제이미+이었다 .	O O O PER-B PER-I O O PER-B O
-하늘소리의 한 관계자는 9일 “이미 자씨가 공연 출연료를 축소신고하게 하고, 소득 관련 원천징수액 3.3%를 떼지 않고 지급하도록 (기획사에) 강요하+여+오았다”며 “그간 이씨의 출연료를 축소신고하는 바람에 하늘소리는 법인세를 더 내오았고, 공연적자와 함께 크+ㄴ 손해를 +았다 .	O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
-김 차관은 이 부분이 당­정 협의 과정과 농림수산위 법률회부 때까지는 물론, 법안심사소위의 축조심의 때까지도 법조문에 들어있지 않았다고 밝히었다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O
-7년차 직장인 문모(36)씨는 “매칭은 불확실하지만 짧은 시간에 많은 수의 다양하+ㄴ이 성과 압축적이+ㄴ 대화를 하+ㄹ 수 있어 신선하었다”고 말하였다 .	O O PER-B O O O O O O O O O O O O O O O O
-역대 모든 구단의 신임 감독 연봉은 100만달러를 넘은 적이 없다 .	O O O O O O MNY-B O O O O
-후속 타자의 안타로 득점까지 성공하였고 밀워키는 2-0으로 앞서 +었다 .	O O O O O ORG-B O O O O
-‘선행반’ 등록 2015년 70% 수준 그치+ .	O O O O O O O
-‘터널’ 하정우, 이번에 +ㄴ ‘개사료 먹방 .	O PER-B O O O O O
-공정위는 “이번 조치를 통하+여불리 하+ㄴ 구매 후기를 감추는 등 기만적 이+ㄴ 방법으로 소비자를 유인하는 행위가 감소하고, 소비자가 청약철회 등에 관하+ㄴ사항을 미리 알+ㄹ 수 있게 되+어 소비자 권익 보호가 강화되+ㄹ 것으로 기대되+ㄴ다”고 설명하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-YK 법률사무소 이경민 변호사는 “부부 경제권은 어느 한쪽이 일방적으로 휘두르어서는 안 되+ㄴ다”며 “경제적 문제로 상대방에게 크+ㄴ 고통을 주+ㄴ다면 민법 840조 6호(기타혼인을 계속하기 어렵ㄴ중대 하+ㄴ 사유가 있을 때)에 의거 하+여 이혼 사유가 되+ㄴ다”고 말하였다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-가수 이승기가 2월 1일 육군 현역병 입대를 앞두고 신곡 ‘나군대가 +ㄴ다’를 발표하+ㄴ 가운데, 과거나 영석 PD의 발언이 재조명 +었다 .	O PER-B O O O O O O O O O O O O O O O O O O
+헌법 재판소 도 탄핵 심판 에 속도 를 내 는 상황 인 만큼 이달 에 박 대통령 의 운명 이 걸려 있 는 셈 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+범인 은 사망한 조카 의 친모 이 자 로 잘 레스 의 언니 인 제이미 였 다 .	O O O O O O O O PER-B PER-I PER-I O O O PER-B O O O
+하늘 소리 의 한 관계자 는 9 일 “ 이미자 씨 가 공연 출연료 를 축소 신고하 게 하 고 , 소득 관련 원천 징수 액 3.3 % 를 떼 지 않 고 지급하 도록 ( 기획 사 에 ) 강요해 왔 다 ” 며 “ 그간 이 씨 의 출연료 를 축소 신고하 는 바람 에 하늘 소리 는 법인세 를 더 내 왔 고 , 공연 적자 와 함께 큰 손해 를 봤 다 ”	O O O O O O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 차관 은 이 부분 이 당 ­ 정 협의 과정 과 농림 수산 위 법률 회부 때 까지 는 물론 , 법안 심사 소위 의 축조심의 때 까지 도 법조문 에 들 어 있 지 않 았 다고 밝 혔 다 .	PER-B O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 년 차 직장인 문 모 ( 36 ) 씨 는 “ 매칭 은 불확실하 지만 짧 은 시간 에 많 은 수 의 다양한 이성 과 압축 적 인 대화 를 할 수 있 어 신선 했 다 ” 고 말 했 다 .	O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+역대 모든 구단 의 신임 감독 연봉 은 100 만 달러 를 넘 은 적 이 없 다 .	O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+후속 타자 의 안타 로 득점 까지 성공 했 고 밀워키 는 2 - 0 으로 앞섰 다 .	O O O O O O O O O O ORG-B O O O O O O O O
+‘ 선행 반 ’ 등록 2015 년 70 % 수준 그쳐	O O O O O DAT-B DAT-I O O O O
+‘ 터널 ’ 하정우 , 이번 엔 ‘ 개 사료 먹방 ’	O O O PER-B O O O O O O O O
+공정 위 는 “ 이번 조치 를 통해 불리한 구매 후기 를 감추 는 등 기만 적 인 방법 으로 소비자 를 유인하 는 행위 가 감소하 고 , 소비자 가 청약 철회 등 에 관한 사항 을 미리 알 수 있 게 돼 소비자 권익 보호 가 강화될 것 으로 기대된다 ” 고 설명 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+YK 법률 사무소 이경민 변호사 는 “ 부부 경제권 은 어느 한쪽 이 일방적 으로 휘둘 러서 는 안 된다 ” 며 “ 경제적 문제 로 상대방 에게 큰 고통 을 준다면 민법 840 조 6 호 ( 기타 혼인 을 계속하 기 어려 운 중대한 사유 가 있 을 때 ) 에 의거해 이혼 사유 가 된다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가수 이승기 가 2 월 1 일 육군 현역병 입대 를 앞두 고 신곡 ‘ 나 군대 간다 ’ 를 발표한 가운데 , 과거 나영석 PD 의 발언 이 재조명 됐 다 .	O PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O PER-B O O O O O O O O

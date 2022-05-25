@@ -1,15 +1,15 @@
-‘바로크 가구’가 2016 고객 사랑 브랜드 대상 가구 부문 대상을 차지하였다 .	O O O O O O O O O O O O
-바로크가구는 1978년 창업 이래 38년 동안 고객의 사랑을 받아오고 있다 .	ORG-B O O O O O O O O O O
-또 경제범죄 사범 등 10여명도 변호인 접견을 1년에 1000번 이상 하는 등 이른바 ‘황제 접견’이 심각하+ㄴ 수준이 +ㄴ 것으로 나타나 +았다 .	O O O O O O O O O O O O O O O O O O O O O O
-10일 본지가 주광덕(새누리당) 의원실을 통하+여 법무부의 ‘전국구치소·교도소 수용자의 변호인 접견 현황’을 입수하+여 분석 하+ㄴ 결과 지나 +ㄴ 2013년 이후 접견을 가장 많이 한 재소자는 서울구치소에 수감 중 이+ㄴ 주 전 회장이다 .	O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O LOC-B O O O PER-B O O O
-편평사마귀 유행, 바이러스성으로 사마귀만 지고 다른 곳만 지면 전염 최근 20대 여성을 중심으로 편평사마귀가 유행처럼 번지고 있어 화제+이다 .	O O O O O O O O O O O O O O O O O O O
-편평사마귀는 사마귀의 한 종류로, 표면이 편평하다고 하+여서 붙이어지+ㄴ 이름으로 얼굴의 이마, 턱, 코, 입주위와 손등에 잘 발생하+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-편평사마귀는 주로 어린이와 청년에 흔히 발생하는 것으로 알려지었으며 원인이 되는 HPV 유형은 3,10, 28, 49형으로 알려지었다 .	O O O O O O O O O O O O O O O O O
-특히 바이러스성이 +ㄴ편평사마귀는 사마귀가나 +ㄴ 곳을 손으로 만지면 다른 곳으로 퍼지며, 속도도 빠르+ㄴ 것으로 전하여 +지+었다 .	O O O O O O O O O O O O O O O O O
-그는 애런 헤인즈, 조 잭슨, 이승현 등 든든하+ㄴ 동료들의 조력자로서 첫 챔프전 우승에 도전하+ㄴ다 .	O PER-B PER-I PER-B PER-I PER-B O O O PER-B O O O O O
-정부는 인터넷전문은행의 본격 출범을 앞두고 지난해 12월부터 은행권에 비대면 본인 확인을 허용하였다 .	O O O O O O O O O O O O O
-서울지검 공안2부(정진규 부장검사)는 15일 일본 마이니치(매일) 신문과의 인터뷰에서 북한에 초청되 +어장학금을 받은 학생이 한국에 돌아오아 대학 교수가 되+ㄴ 사례가 있다고 폭로 하+ㄴ 박홍서강대 총장이 미국에서 귀국 하+ㅁ에 따르 아박 총장을 상대로 사실 확인 작업에 착수하였다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O ORG-B O O O O LOC-B O O O O O O O O ORG-B O ORG-B O O O PER-B O O O O O O O
-이날 토마스 데메지에르 내무장관은 지난해 난민 신청자가 총 109만 1894명이었다는 공식 통계를 발표하였다 .	O PER-B PER-I O O O O O O O O O O O
-이에 대하+여커티스 교수는 “공동방위 문제에서 한국이나 일본 그리고 북대서양조약기구(NATO) 국가들에 대하+ㄴ 압박이 커지+ㄹ 것으로 보+ㄴ다”며 “앞으로 누구가 미국 대통령이 되든 간에 동맹국의 역할을 요구하는 미국의 목소리는 커지+ㄹ 수밖에 없다”고 설명하였다 .	O PER-B O O O ORG-B ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O ORG-B O O O O O O
-커티스 교수는 “아베 신조 총리는 금융완화·재정 확대·구조개혁이라는 ‘3개의 화살’을 +았지만 경제구조 개혁이 충분히 이루어지지 못하였다”며 “2017년으로 연기하+ㄴ 물가상승률 2%도 달성하기 어렵어 보이+ㄴ다”고 진단하였다 .	PER-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
-물가 등을 감안하+ㄴ국민소득의 실질구매력을 나타내는 실질 GNI 증가율은 전년보다 3.8% 증가하였다 .	O O O O O O O O O O O O
+‘ 바로크가구 ’ 가 2016 고객 사랑 브랜드 대상 가구 부문 대상 을 차지 했 다 .	O ORG-B O O DAT-B O O O O O O O O O O O O
+바로크가구 는 1978 년 창업 이래 38 년 동안 고객 의 사랑 을 받 아 오 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O
+또 경제 범죄 사범 등 10 여 명 도 변호인 접견 을 1 년 에 1000 번 이상 하 는 등 이른바 ‘ 황제 접견 ’ 이 심각한 수준 인 것 으로 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 일 본지 가 주광덕 ( 새누리당 ) 의원 실 을 통해 법무부 의 ‘ 전국 구치소 · 교도소 수용자 의 변호인 접견 현황 ’ 을 입수해 분석한 결과 지난 2013 년 이후 접견 을 가장 많이 한 재소자 는 서울구치소 에 수감 중 인 주 전 회장 이 다 .	DAT-B DAT-I O O PER-B O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O LOC-B O O O O PER-B O O O O O
+편평 사마귀 유행 , 바이러스 성 으로 사마귀 만지 고 다른 곳 만지 면 전염 최근 20 대 여성 을 중심 으로 편평 사마귀 가 유행 처럼 번지 고 있 어 화제 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+편평 사마귀 는 사마귀 의 한 종류 로 , 표면 이 편평하 다고 해서 붙 여 진 이름 으로 얼굴 의 이마 , 턱 , 코 , 입 주위 와 손등 에 잘 발생한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+편평 사마귀 는 주로 어린이 와 청년 에 흔히 발생하 는 것 으로 알려 졌 으며 원인 이 되 는 HPV 유형 은 3 , 10 , 28 , 49 형 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 바이러스 성 인 편평 사마귀 는 사마귀 가 난 곳 을 손 으로 만지 면 다른 곳 으로 퍼지 며 , 속도 도 빠른 것 으로 전해 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 애런 헤인즈 , 조 잭슨 , 이승현 등 든든한 동료 들 의 조력자 로서 첫 챔프 전 우승 에 도전한다 .	O O PER-B PER-I O PER-B PER-I O PER-B O O O O O O O O O O O O O O
+정부 는 인터넷 전문 은행 의 본격 출범 을 앞두 고 지난해 12 월 부터 은행 권 에 비 대면 본인 확인 을 허용 했 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+서울 지검 공안 2 부 ( 정진규 부장검사 ) 는 15 일 일본 마이니치 ( 매일 ) 신문 과 의 인터뷰 에서 북한 에 초청돼 장학금 을 받 은 학생 이 한국 에 돌아 와 대학교수 가 된 사례 가 있 다고 폭로한 박홍 서강대 총장 이 미국 에서 귀국함 에 따 라 박 총장 을 상대 로 사실 확인 작업 에 착수 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O PER-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O ORG-B O O O O O O O O LOC-B O O O O O O O O O O O PER-B ORG-B O O ORG-B O O O O O PER-B O O O O O O O O O O O O
+이날 토마스 데메지에르 내무 장관 은 지난해 난민 신청자 가 총 109 만 1894 명 이 었 다는 공식 통계 를 발표 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+이 에 대해 커티스 교수 는 “ 공동 방위 문제 에서 한국 이나 일본 그리고 북대서양조약기구 ( NATO ) 국가 들 에 대한 압박 이 커질 것 으로 본다 ” 며 “ 앞 으로 누 가 미국 대통령 이 되 든 간 에 동맹국 의 역할 을 요구하 는 미국 의 목소리 는 커질 수 밖에 없 다 ” 고 설명 했 다 .	O O O PER-B O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+커티스 교수 는 “ 아베 신조 총리 는 금융 완화 · 재정 확대 · 구조 개혁 이 라는 ‘ 3 개 의 화살 ’ 을 쐈 지만 경제 구조 개혁 이 충분히 이뤄지 지 못 했 다 ” 며 “ 2017 년 으로 연기한 물가 상승 률 2 % 도 달성하 기 어려 워 보인다 ” 고 진단 했 다 .	PER-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+물가 등 을 감안한 국민 소득 의 실질 구매력 을 나타내 는 실질 GNI 증가율 은 전년 보다 3.8 % 증가 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O

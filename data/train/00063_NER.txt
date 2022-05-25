@@ -1,16 +1,16 @@
-김원진은 저돌적 공격으로 지도 2장을 더 얻어내며 우세승을 거두었다 .	PER-B O O O O O O O O O
-이번 대회는 2016 리우데자네이루 올림픽의 전초전 성격을 갖는다 .	O O O O O O O O O
-염 감독은 “박동원은 올 시즌을 통하+여팀의 기둥으로 자리잡아야 하는 선수+이다 .	PER-B O PER-B O O O O O O O O
-미국은 투자이민 ‘EB-5’ 프로그램을 운영하고 있다 .	ORG-B O O O O O O
-2014년 이란의 국내총생산(GDP)은 4041억달러로 사우디아라비아에잇어 중동 2위 +이다 .	O ORG-B O MNY-B ORG-B LOC-B O O O
-김이 메모에 적히 +ㄴ사람들을 직접 만나 +ㄴ 사실이 없으며 복수를 준비 하+ㄴ 흔적도 없다는 것이다 .	PER-B O O O O O O O O O O O O O O O
-3일 통계청에 따르면 2월 소비자물가 상승률은 지난해 같은 달보다 0.5% 오르는데 그치었다 .	O ORG-B O O O O O O O O O O O
-하지만 이날 상하이 증시는 이틀 연속 하락세를 잇어가며 전날에 비하+여 3% 하락 하+ㄴ 3805.7에 거래를 마치었다 .	O O LOC-B O O O O O O O O O O O O O O
-용인외고, BHCS 국제학교, 단국대학교 등이 2km 반경에 있다 .	ORG-B ORG-B ORG-I ORG-B O O O O O
-아베-푸틴 16번째 정상회담 “쿠릴 4개 섬-경협 솔직하+ㄴ 대화 .	PER-B O O LOC-B O O O O O
-킴스클럽 우선협상대상자로 선정 美계사모투자펀드 KKR, 어떤 기업 .	ORG-B O O ORG-B ORG-B O O O
-프랑크푸르트 지역 한인회와 파독 간호사가 정착 50주년 기념행사를 열면서 한국의 시각장애인 교향악단이 +ㄴ ‘한빛예술단’을 초청하+여 음악회를 열 +ㄴ 것이다 .	LOC-B O O O O O O O O LOC-B O O O O O O O O O O
-특히 역시 헬스트레이너 출신으로 미국에서 머물+ㄴ 적이 +ㄴ 있는 마동석은 운동과 영어 등 공통의 관심사를 통하+ 여사랑을 이었다 .	O O O O LOC-B O O O O PER-B O O O O O O O O O
-30ml2만원.4 케라시스 프로폴리스 샤인트리트먼트 천연 비타민과 미네랄이 풍부하+ㄴ 프로폴리스 성분이 모발에 유·수분 보습막을 형성 하+ 여 손상 되+ㄴ 모발을 촉촉하고 건강하게 유지하+ㄴ다 .	MNY-B O O O O O O O O O O O O O O O O O O O O O O
-이후에는 고급 자율기능이 탑재되는데, 4단계가 되면 모든 주행환경에서 차량이 직접 도로 조건을 감시하고 안전 관련 기능을 제어하는 등 고급 기능을 갖추었다 .	O O O O O O O O O O O O O O O O O O O O O O
-현재 대다수 자율주행차 기술개발사는 이 4단계를 목표로 달려가는 중이다 .	O O O O O O O O O O
+김원진 은 저돌적 공격 으로 지도 2 장 을 더 얻 어 내 며 우세승 을 거 뒀 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+이번 대회 는 2016 리우데자네이루 올림픽 의 전초전 성격 을 갖 는다 .	O O O O O O O O O O O O O
+염 감독 은 “ 박동원 은 올 시즌 을 통해 팀 의 기둥 으로 자리 잡 아야 하 는 선수 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O
+미국 은 투자 이민 ‘ EB - 5 ’ 프로그램 을 운영하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O
+2014 년 이란 의 국내총생산 ( GDP ) 은 4041 억 달러 로 사우디아라비아 에 이 어 중동 2 위 다 .	DAT-B DAT-I ORG-B O O O O O O MNY-B MNY-I MNY-I O ORG-B O O O LOC-B O O O O
+김 이 메모 에 적힌 사람 들 을 직접 만난 사실 이 없 으며 복수 를 준비한 흔적 도 없 다는 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+3 일 통계청 에 따르 면 2 월 소비자 물가 상승 률 은 지난해 같 은 달 보다 0.5 % 오르 는데 그 쳤 다 .	DAT-B DAT-I ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+하지만 이날 상하이 증시 는 이틀 연속 하락세 를 이 어 가 며 전날 에 비해 3 % 하락한 3805.7 에 거래 를 마 쳤 다 .	O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+용인 외고 , BHCS 국제 학교 , 단국대학교 등 이 2 km 반 경 에 있 다 .	ORG-B ORG-I O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O
+아베 - 푸틴 16 번째 정상 회담 “ 쿠릴 4 개 섬 - 경협 솔직한 대화 ”	PER-B O PER-B O O O O O LOC-B O O O O O O O O
+킴스클럽 우선 협상 대상자 로 선정 美 계 사모 투자 펀드 KKR , 어떤 기업 ?	ORG-B O O O O O ORG-B O O O O ORG-B O O O O
+프랑크푸르트 지역 한인 회 와 파독 간호사 가 정착 50 주년 기념행사 를 열 면서 한국 의 시각 장애인 교향악단 인 ‘ 한빛 예술단 ’ 을 초청해 음악회 를 연 것 이 다 .	LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+특히 역시 헬스 트레이너 출신 으로 미국 에서 머문 적 인 있 는 마동석 은 운동 과 영어 등 공통 의 관심사 를 통해 사랑 을 이 었 다 .	O O O O O O LOC-B O O O O O O PER-B O O O O O O O O O O O O O O O O
+30 ml 2 만 원 . 4 케라시스 프로 폴리스 샤인 트리트먼트 천연 비타민 과 미네랄 이 풍부한 프로 폴리스 성분 이 모발 에 유 · 수분 보습 막 을 형성해 손상된 모발 을 촉촉하 고 건강하 게 유지한다 .	O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 에 는 고급 자율 기능 이 탑재 되 는데 , 4 단계 가 되 면 모든 주행 환경 에서 차량 이 직접 도로 조건 을 감시하 고 안전 관련 기능 을 제어하 는 등 고급 기능 을 갖 췄 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 대다수 자율 주행 차 기술 개발 사 는 이 4 단계 를 목표 로 달려가 는 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O

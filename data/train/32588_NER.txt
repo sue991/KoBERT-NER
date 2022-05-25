@@ -1,8 +1,8 @@
-김우진 선수를 검색하면 김태우가 자동 검색어로 따라 오+ㄹ 정도+이다 .	PER-B O O PER-B O O O O O O
-엔소닉 멤버들은 지나 +ㄴ 7일, 8일 양일간 일본 콘서트를 마치고 9일 한국으로 귀국 하+ㄴ 뒤 멤버 전원이 연락을 끊고 잠적하였다 .	ORG-B O O O O O O LOC-B O O O LOC-B O O O O O O O O O
-썰 전 김구라, 강용석 언급… “처음 시작하+ㄹ 때 나오는 인형 중 하나가 빠지었다 .	O O PER-B PER-B O O O O O O O O O O
-김동준 정재은 열애설 나오자 … 소속사 “사실이 아니다 .	PER-B PER-B O O O O O O O
-2번 중견수로 선발출장한 김강민은 2타수 무안타 1삼진 1볼넷을 기록하였다 .	O O O PER-B O O O O O O
-분양 관계자는 “(가칭) 천안 신부동 코오롱하늘채 지역주택조합 아파트는 지역주택조합의 합리적 분양가격으로 고객들의 호응이 높았다”며 “특히 삼성디스플레이 천안사업장, 외국인 전용산업단지 등 대규모 공단이 지속적으로 개발되며 배후수요가 탄탄하다는 점이 입소문을 타며 실수요자 위주로 방문객들의 발길이 이어지었다”고 설명하였다 .	O O O O O O O O O O O O O O O LOC-B LOC-I LOC-B LOC-I O O O O O O O O O O O O O O O O O
-(가칭) 천안 신부동 코오롱하늘채 지역주택조합 아파트 주택전시관은 천안시 서북구 두정동 858번지에 마련되어 있다 .	O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-B LOC-B LOC-B LOC-I O O O
-문의 041-905-2300 온라인 뉴스 .	O O O O O
+김우진 선수 를 검색하 면 김태우 가 자동 검색어 로 따라올 정도 다 .	PER-B O O O O PER-B O O O O O O O O
+엔 소닉 멤버 들 은 지난 7 일 , 8 일 양일 간 일본 콘서트 를 마치 고 9 일 한국 으로 귀국한 뒤 멤버 전원 이 연락 을 끊 고 잠적 했 다 .	ORG-B ORG-I O O O O DAT-B DAT-I O DAT-B DAT-I O O LOC-B O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O
+썰 전 김구라 , 강용석 언급 … “ 처음 시작할 때 나오 는 인형 중 하나 가 빠 졌 다 ”	O O PER-B O PER-B O O O O O O O O O O O O O O O O
+김동준 정재은 열애 설 나오 자 … 소속 사 “ 사실 이 아니 다 ”	PER-B PER-B O O O O O O O O O O O O O
+2 번 중견수 로 선발 출장 한 김강민 은 2 타수 무안타 1 삼진 1 볼넷 을 기록 했 다 .	O O O O O O O PER-B O O O O O O O O O O O O O
+분양 관계자 는 “ ( 가칭 ) 천안 신부동 코오롱 하늘채 지역 주택조합 아파트 는 지역 주택조합 의 합리적 분양 가격 으로 고객 들 의 호응 이 높 았 다 ” 며 “ 특히 삼성디스플레이 천안 사업장 , 외국인 전용 산업 단지 등 대규모 공단 이 지속적 으로 개발되 며 배후 수요 가 탄탄하 다는 점 이 입 소문 을 타 며 실수요자 위주 로 방문객 들 의 발길 이 이어 졌 다 ” 고 설명 했 다 .	O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+( 가칭 ) 천안 신부동 코오롱 하늘채 지역 주택조합 아파트 주택 전시관 은 천안시 서북구 두정동 858 번지 에 마련되 어 있 다 .	O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O
+문의 041 - 905 - 2300 온라인 뉴스 팀	O O O O O O O O O

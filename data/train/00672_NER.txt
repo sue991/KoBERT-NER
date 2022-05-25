@@ -1,14 +1,14 @@
-볼트의 유일하+ㄴ 약점은 출발이 느리다는 것이다 .	PER-B O O O O O O
-“사람을 죽이+ㄴ다면 제일 먼저 아버지를 죽이겠다”고 말 하+ㄴ길 모어+이었지만 어리었을 때에는 한때 성직자가 되고 싶다는 열망을 품었었다 .	O O O O O O O O O O O O O O O O O O
-어머니가 예수 그리스도 후기성도교회(모르몬교) 신자, 아버지는 가톨릭이었다 .	O O O ORG-B O O O O
-하지만 허리디스크의 경우 가만히 앉아 있거나 서+어 있을 때 통증이 심하고, 허리를 앞으로 숙이면 다리나 엉덩이에 통증이나 당기+ㅁ 증상이 증가하+ㄴ다는 점에서 척추관협착증과는 다르다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-한국GM, 크루즈 부분 변경 모델 발 .	ORG-B PER-B O O O O O
-이날 황교안 권한대행의 시계가 논란이 되면서 ‘대통령 권한대행 국무총리 황교안’이라고 적히 +ㄴ 명패가 재조명 받기도 +였다 .	O PER-B O O O O O O O PER-B O O O O O O O
-최 회장은 '편지'에서 노 관장과의 ‘10년 넘게 깊은 골’이 있었다고 해 결혼 관계 파탄이 꽤 오래되+ㄴ일이+ㅁ을 드러내고 있으나 법적으로 이혼 청구가 '이유 있다'고 평가되기 +ㄴ 어렵다는 것+이 법조계의 일반적 평가+이다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-정 연구원이 닐슨에 들어오아가 장 활발하게 이용하고 있는 프로그램은 ‘오픈 클래스’ +이다 .	PER-B O ORG-B O O O O O O O O O O
-그런데 A씨는 고소 당시 사기죄로 구치소에 수감되 +ㄴ 상태+이었던 것으로 전하여 +지+었다 .	O PER-B O O O O O O O O O O O
-‘복면가왕’ 사모님은 쇼핑 중, 알고 보니 1987년 강변가요제 대상 출신 배우 문희경 ‘복면가왕’ 사모님은 쇼핑 중 의 정체가 배우 문희경으로 드러나 +았다 .	O PER-B PER-I PER-I O O O O O O O PER-B O PER-B PER-I PER-I O O O PER-B O O O
-28일 방송 하+ㄴ MBC ‘일밤-복면가왕’에서는 사모님은 쇼핑 중과나 +의 칼을 받아라 낭만자객의 1라운드 대결이 펼쳐지었다 .	O O O ORG-B O PER-B PER-I PER-I O O O O O O O O
-사모님은 쇼핑 중과나 +의 칼을 받아라 낭만자객은 한영애의 ‘누구 없소’를 완벽하게 소화하었지만 사모님은 쇼핑 중은 낭만자객에 패하고 말았다 .	PER-B PER-I PER-I O O O PER-B PER-B O O O O PER-B PER-I PER-I PER-B O O O
-이후 공개되+ㄴ 사모님은 쇼핑 중 의 정체는 배우 문희경으로 드러나 +아놀라움을 자아내 +었다 .	O O PER-B PER-I PER-I O O O PER-B O O O O O
-이어 문희경이 1987년 ‘그리움은 빗물처럼’을 부르+ㄹ 당시의 모습이 공개되+어 눈길을 끌었다 .	O PER-B O O O O O O O O O O
+볼트 의 유일한 약점 은 출발 이 느리 다는 것 이 다 .	PER-B O O O O O O O O O O O O
+“ 사람 을 죽인다면 제일 먼저 아버지 를 죽이 겠 다 ” 고 말한 길모어 였 지만 어 렸 을 때 에 는 한때 성직자 가 되 고 싶 다는 열망 을 품 었었 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+어머니 가 예수그리스도 후기 성도 교회 ( 모르몬교 ) 신자 , 아버지 는 가톨릭 이 었 다 .	O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O
+하지만 허리 디스크 의 경우 가만히 앉 아 있 거나 서 있 을 때 통증 이 심하 고 , 허리 를 앞 으로 숙이 면 다리 나 엉덩이 에 통증 이나 당김 증상 이 증가한다는 점 에서 척추관 협착증 과 는 다르 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 GM , 크루즈 부분 변경 모델 발표	ORG-B ORG-I O PER-B O O O O
+이날 황교안 권한 대행 의 시계 가 논란 이 되 면서 ‘ 대통령 권한 대행 국무총리 황교안 ’ 이라고 적힌 명패 가 재조명 받 기 도 했 다 .	O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+최 회장 은 ' 편지 ' 에서 노 관장 과 의 ‘ 10 년 넘 게 깊 은 골 ’ 이 있 었 다고 해 결혼 관계 파탄 이 꽤 오래된 일 임 을 드러내 고 있 으나 법적 으로 이혼 청구 가 ' 이유 있 다 ' 고 평가 되 긴 어렵 다는 게 법조계 의 일반적 평가 다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정 연구원 이 닐슨 에 들어 와 가장 활발하 게 이용하 고 있 는 프로그램 은 ‘ 오픈 클래스 ’ 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O
+그런데 A 씨 는 고소 당시 사기죄 로 구치소 에 수감된 상태 였 던 것 으로 전해 졌 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+‘ 복면 가왕 ’ 사모님 은 쇼핑 중 , 알 고 보 니 1987 년 강변 가요제 대상 출신 배우 문희경 ‘ 복면 가왕 ’ 사모님 은 쇼핑 중 의 정체 가 배우 문희경 으로 드러났 다 .	O O O O PER-B PER-I PER-I PER-I O O O O O DAT-B DAT-I O O O O O PER-B O O O O PER-B PER-I PER-I PER-I O O O O PER-B O O O O
+28 일 방송한 MBC ‘ 일 밤 - 복면 가왕 ’ 에서 는 사모님 은 쇼핑 중 과 내 칼 을 받 아라 낭만자객 의 1 라운드 대결 이 펼쳐 졌 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O PER-B PER-I PER-I PER-I O PER-B PER-I PER-I PER-I PER-I PER-I O O O O O O O O O
+사모님 은 쇼핑 중 과 내 칼 을 받 아라 낭만자객 은 한영애 의 ‘ 누구 없 소 ’ 를 완벽하 게 소화 했 지만 사모님 은 쇼핑 중 은 낭만자객 에 패하 고 말 았 다 .	PER-B PER-I PER-I PER-I O PER-B PER-I PER-I PER-I PER-I PER-I O PER-B O O O O O O O O O O O O PER-B PER-I PER-I PER-I O PER-B O O O O O O O
+이후 공개된 사모님 은 쇼핑 중 의 정체 는 배우 문희경 으로 드러나 놀라움 을 자아냈 다 .	O O PER-B PER-I PER-I PER-I O O O O PER-B O O O O O O O
+이어 문희경 이 1987 년 ‘ 그리움 은 빗물 처럼 ’ 을 부를 당시 의 모습 이 공개돼 눈길 을 끌 었 다 .	O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O

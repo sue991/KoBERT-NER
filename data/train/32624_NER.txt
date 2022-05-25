@@ -1,12 +1,12 @@
-목포축구센터에서 3경기 모두를 소화하+ㄴ다 .	LOC-B O O O O
-토성위성해저온천은 지름 약 500㎞ 크기의 엔켈라두스는 표면이 두껍 ㄴ 얼음층으로 덮이어 있다고 연구팀은 주장하였다 .	O O O O O LOC-B O O O O O O O O O
-앞서 마이너스 금리를 도입하+ㄴ 유럽의 경우도 반드시 효과적이지는 않았다 .	O O O O LOC-B O O O O O
-공격수 오군지미는 국제축구연맹(FIFA) 1위 이+ㄴ 벨기에의 국가대표 출신이다 .	O PER-B ORG-B O O ORG-B O O O
-전반 25분 프리킥 상황에서 히로시마지바가 쓰히코에게 헤딩슛으로 골을 허용하였다 .	TIM-B TIM-I O O ORG-B PER-I O O O O
-이중 이휘재는 물고기에 부쩍 관심이 생기+ㄴ 쌍둥이를 위하+여수산시장 나들이 +였다 .	O PER-B O O O O O O O O O
-그러나 송호정 한국교원대 역사교육과 교수는 이날 대회에서 “하가 점 하층 문화는 채색토기나 나무판재로 무덤곽을 짜+아서 매장하는 등 비교적 중원문화와 유사성을 보이며, 지석묘나석관묘를 주로 만들 +ㄴ예맥족의 문화나 한반도 지역의 문화와는 다르+ㄴ 특성을 보이+ㄴ다”고 말하였다 .	O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
-최 건축가는 “사람은 자신의 기억으로 미래를 만들 +ㄴ다”고 강조하였다 .	PER-B O O O O O O O O O
-[사진 각 회사] 사진 5메르세데스-벤츠가 선보이+ㄴ 전기차. 차고 바닥에 설치 하+ㄴ 무선충전장치 위에 주차하면 충전이 되+ㄴ다 .	O O O O ORG-B O O O O O O O O O O O O
-하지만 A씨의 혈액과 소변이 국립보건연구원에 도착하+ㄴ 것은 사흘이나 지나 +ㄴ 26일이었다 .	O PER-B O O ORG-B O O O O O O O
-선두주자는 「아 이후 루홈테크놀로지」 .	O O O O O
-“김성규, 목소리가 너무 좋네요, 잘 +었으면” 등의 반응을 보이었다 .	PER-B O O O O O O O O O
+목포 축구 센터 에서 3 경기 모두 를 소화한다 .	LOC-B LOC-I LOC-I O O O O O O O
+토성 위성 해저 온천 은 지름 약 500 ㎞ 크기 의 엔켈라두스 는 표면 이 두꺼 운 얼음 층 으로 덮 여 있 다고 연구 팀 은 주장 했 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+앞서 마이너스 금리 를 도입한 유럽 의 경우 도 반드시 효과적 이 지 는 않 았 다 .	O O O O O LOC-B O O O O O O O O O O O O
+공격수 오군 지미 는 국제축구연맹 ( FIFA ) 1 위 인 벨기에 의 국가 대표 출신 이 다 .	O PER-B PER-I O ORG-B O ORG-B O O O O ORG-B O O O O O O O
+전반 25 분 프리킥 상황 에서 히로시마 지바 가쓰 히코 에게 헤딩슛 으로 골 을 허용 했 다 .	TIM-B TIM-I TIM-I O O O ORG-B PER-B PER-I PER-I O O O O O O O O O
+이 중 이휘재 는 물고기 에 부쩍 관심 이 생긴 쌍둥이 를 위해 수산 시장 나들이 했 다 .	O O PER-B O O O O O O O O O O O O O O O O
+그러나 송 호정 한국교원대 역사 교육 과 교수 는 이날 대회 에서 “ 하가 점 하층 문화 는 채색 토기 나 나무 판재 로 무덤곽 을 짜서 매장하 는 등 비교적 중원 문화 와 유사성 을 보이 며 , 지석묘 나 석관묘 를 주로 만든 예맥족 의 문화 나 한반도 지역 의 문화 와 는 다른 특성 을 보인다 ” 고 말 했 다 .	O PER-B PER-I ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+최 건축가 는 “ 사람 은 자신 의 기억 으로 미래 를 만든다 ” 고 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O
+[ 사진 각 회사 ] 사진 5 메르세데스 - 벤츠 가 선보인 전기 차 . 차 고 바닥 에 설치한 무선 충전 장치 위 에 주차하 면 충전 이 된다 .	O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+하지만 A 씨 의 혈액 과 소변 이 국립 보건 연구원 에 도착한 것 은 사흘 이나 지난 26 일 이 었 다 .	O PER-B O O O O O O ORG-B ORG-I ORG-I O O O O O O O DAT-B DAT-I O O O O
+선두 주자 는 「 아이 후 루 홈 테크놀로지 」 .	O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O
+“ 김성규 , 목소리 가 너무 좋 네요 , 잘 됐 으면 ” 등 의 반응 을 보 였 다 .	O PER-B O O O O O O O O O O O O O O O O O O O

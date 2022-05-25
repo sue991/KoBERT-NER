@@ -1,13 +1,13 @@
-아울러 우승자에게는 상금 5,000만원과 게임 나+의 해당 선수의 구단 정보를 바탕으로 하+ㄴ '우승자팀 컬러' 적용 영예가 주어지며, 준우승자에게는 2,000만원의 상금이 지급되+ㄴ다.개막 경기부터 흥미롭 ㄴ대전이 이어 지+ㄴ다 .	O O O MNY-B O O O O O O O O O O O O O O MNY-B O O O O O O O O
-다시 말 하+ 여러시아의 식량 부족이 결코 날씨 때문이 아니란 점이 분명 하+여지고 있다 .	O O O LOC-B O O O O O O O O O O O
-그렇다고 지금 동교동의 「정신적이고 실제적 이+ㄴ」 소유주가 나서 +ㄹ 입장은 못 되+ㄴ다 .	O O LOC-B O O O O O O O O O O
-슈가 맨 파파야주 연정 “보험설계사”, 조은 새 “트로트 가수 활동”…고 나은은? ‘배우 활동 .	O O ORG-B PER-I O PER-B PER-I O O O O O O O
-상주~영덕 고속도로 뚫리면 … 내륙 오지청송·영양 ‘천지개벽 .	LOC-B O O O O LOC-B O O
-콘텐트로는 ‘라인망가(일본식 만화)’와 ‘라인뉴스’ ‘라인 뮤직’‘라인 TV’‘라인 라이브’ 등이 풍부하게 제공되+어라인을 쓰면서 그대로 TV나 뉴스를 보거나, 음악을 듣을 수 있다 .	O O O O O O O O O O O O O O O O O O O O O
-심지어는 4% 이하로 보는 전문가도 있다고 전하였다 .	O O O O O O O O
-이번 행사는 내야지 정석과 4층 스카이존, 외야잔 디자유석에 한 하+ㄴ다. LA 타임스 “류현진 27일 불펜피칭 가능”왼쪽 어깨통증으로 재활 중 이+ㄴ 류현진(28·LA 다저스)이 본격적으로 복귀 수순을 밟을 전망이다 .	O O O O O O O O O O ORG-B O PER-B O O O O O O O ORG-B ORG-I O O O O O O
-고소득자 이+ㅁ에도 직장가입자의 피부양자로 등록되면 건강보험료를 한 푼도 안내는 등 무임승차하는 사람이 많기 때문이다 .	O O O O O O O O O O O O O O O
-35년에 걸치+ㄴ 식민통치 시대는 제국주의 시대의 팽창정책이 낳은 예외적 기간이며 한·일 국교정상화는 양국 간 수천 년에 걸치+ㄴ 오랜 국제관계가 정상화 또는 복원되+ㄴ 것이 +ㅁ을 50주년을 맞는 이번 기회에 재인식 하+ㄹ 필요가 있다.2차대전 종전 50주년이 되던 1995년, 무라야마 총리는 한국에 대하+ㄴ식민통치와 중국침략을 일본 제국주의의 잘못으로 일괄 사과하였다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O LOC-B O O O O PER-B O ORG-B O ORG-B ORG-B O O O O O
-“속으로 ‘저자가 웬 일이지’라고 생각하는 사람이 많을 것”이라는 농담으로 말문을 열 +ㄴ그는 트럼프를 향하+ㄴ독설을 날리기 시작하였다 .	O O O O O O O O O O O O PER-B O O O O
-2012년 이명박 전 대통령의 내곡동 사저 부지 의혹 사건을 수사하였던 특검팀은 서울 통의동 금융감독원 연수원에서 사저부지 매입계약 등과 관련되 +ㄴ자료를 임의제출 형식으로 제출받았다 .	O PER-B O O LOC-B O O O O O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O
-풍납토성의 백제 왕성진위를 떠나 +아주민들에게 먼저 적절하+ㄴ 조치가 이루어 지+어야 하+ㄴ다 .	LOC-B LOC-B LOC-I O O O O O O O O O
+아울러 우승자 에게 는 상금 5,000 만 원 과 게임 내 해당 선수 의 구단 정보 를 바탕 으로 한 ' 우승자 팀 컬러 ' 적용 영예 가 주어지 며 , 준 우승자 에게 는 2,000 만 원 의 상금 이 지급된다 . 개막 경기 부터 흥미로 운 대전 이 이어진다 .	O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+다시 말해 러시아 의 식량 부족 이 결코 날씨 때문 이 아니 란 점 이 분명해 지 고 있 다 .	O O LOC-B O O O O O O O O O O O O O O O O O O
+그렇 다고 지금 동교동 의 「 정신적 이 고 실제 적 인 」 소유주 가 나설 입장 은 못된다 .	O O O LOC-B O O O O O O O O O O O O O O O O
+슈가맨 파파야 주 연정 “ 보험 설계사 ” , 조은 새 “ 트로트 가수 활동 ” … 고나 은은 ? ‘ 배우 활동 ’	O ORG-B PER-B PER-I O O O O O PER-B PER-I O O O O O O PER-B O O O O O O
+상주 ~ 영덕 고속도로 뚫리 면 … 내륙 오지 청송 · 영양 ‘ 천지개벽 ’	LOC-B O LOC-B O O O O O O LOC-B O LOC-B O O O
+콘텐트 로 는 ‘ 라인 망가 ( 일본식 만화 ) ’ 와 ‘ 라인 뉴스 ’ ‘ 라인 뮤직 ’ ‘ 라인 TV ’ ‘ 라인 라이브 ’ 등 이 풍부하 게 제공돼 라인 을 쓰 면서 그대로 TV 나 뉴스 를 보 거나 , 음악 을 들 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+심지어 는 4 % 이하 로 보 는 전문가 도 있 다고 전 했 다 .	O O O O O O O O O O O O O O O O
+이번 행사 는 내야 지정석 과 4 층 스카이 존 , 외야 잔디 자유 석 에 한한다 . LA 타임스 “ 류현진 27 일 불펜 피칭 가능 ” 왼쪽 어깨 통증 으로 재활 중 인 류현진 ( 28 · LA 다저스 ) 이 본격적 으로 복귀 수순 을 밟 을 전망 이 다 .	O O O O O O O O O O O O O O O O O O O O O PER-B DAT-B DAT-I O O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O
+고소득 자 임에도 직장 가입자 의 피 부양 자 로 등록되 면 건강 보험료 를 한 푼 도 안 내 는 등 무임승차하 는 사람 이 많 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+35 년 에 걸친 식민 통치 시대 는 제국주의 시대 의 팽창 정책 이 낳 은 예외적 기간 이 며 한 · 일 국교 정상화 는 양국 간 수천 년 에 걸친 오랜 국제 관계 가 정상화 또는 복원된 것 임 을 50 주년 을 맞 는 이번 기회 에 재인식할 필요 가 있 다 . 2 차 대전 종전 50 주년 이 되 던 1995 년 , 무라야마 총리 는 한국 에 대한 식민 통치 와 중국 침략 을 일본 제국주의 의 잘못 으로 일괄 사과 했 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O DAT-B DAT-I O PER-B O O ORG-B O O O O O ORG-B O O ORG-B O O O O O O O O O
+“ 속 으로 ‘ 저 자 가 웬일 이 지 ’ 라고 생각하 는 사람 이 많 을 것 ” 이 라는 농담 으로 말문 을 연 그 는 트럼프 를 향한 독설 을 날리 기 시작 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+2012 년 이명박 전 대통령 의 내곡동 사저 부지 의혹 사건 을 수사 했 던 특검 팀 은 서울 통의동 금융감독원 연수원 에서 사저 부지 매입 계약 등 과 관련된 자료 를 임의 제출 형식 으로 제출 받 았 다 .	DAT-B DAT-I PER-B O O O LOC-B O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O
+풍납 토성 의 백제 왕 성 진위 를 떠나 주민 들 에게 먼저 적절한 조치 가 이뤄져야 한다 .	LOC-B LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O

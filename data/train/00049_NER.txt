@@ -1,12 +1,12 @@
-與 “우리 힘 확인” 투쟁만 강조 …野 다수당 책임 잊고 조롱 .	O ORG-B O O O O O O O O O O
-시애틀 쿼터백 러셀 윌슨은 “왜 패싱을 하라고 +였는지 이해가 안 되+ㄴ다”며 작전을 지시하+ㄴ 오펜시브 코치를 우회적으로 비난하였다 .	ORG-B O PER-B PER-I O O O O O O O O O O O O O O
-김용희 감독은 “한화가 스파르타+이라면, SK는 아테네”라고 비유하+ㄴ적이 있다 .	PER-B O ORG-B O ORG-B LOC-B O O O
-고 사장은 “먼저 제품을 받은 소비자들의 물량을 교체하+ㄴ 뒤부터 다시 판매를 재개하겠다”고 말하였다 .	PER-B O O O O O O O O O O PER-B O O
-문제는 의령뿐 아니라 다른 군 지역도 비슷하다는 점이다 .	O LOC-B O O O O O O O
-16, 17대 총선 법조인들의 4년 뒤, 8년 뒤 생존율도 전체 직업군 평균 생존율보다 높았다 .	O O O O O O O O O O O O O O O
-32년 전 수도원에 들어가 +ㄴ이래쉬 +ㅁ 없이 시를 +어오+ㄴ 장수녀가 수녀원 소식지에 실을 자신의 시에 김 화백의 그림을 +어도 괜찮겠느냐고 연락 하+ㄴ 것이다 .	O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O
-고병원성 AI 여부는 4일 최종 결과에서 알게 되+ㄹ 것으로 전망되+ㄴ다 .	O O O O O O O O O O O
-나이트 스파 연중 운영, 매일 밤 11시까지 나이트 스파로 낭만 가득 하+ㄴ 가을밤을 보내세요~또한, 매주 금, 토, 일요일 그리고 휴일 전날, 밤 11시까지 야간에도 스파를 즐기+ㄹ 수 있는 ‘나이트 스파’ 가 운영되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-[시승기] 쌍용차 티볼리 에어 ‘++50kg, +245mm, -0.8km/ L .	O ORG-B O O O O O O O
-KB국민카드는 ‘KB국민훈·민·정·음카드’ 등 한글 브랜드 상품을 지나 +ㄴ 2013년 12월 처음 선보이었다 .	ORG-B ORG-B O O O O O O O O O O O
-세계 1위”라고 소개하였다 .	O O O O
+與 “ 우리 힘 확인 ” 투쟁 만 강조 … 野 다수당 책임 잊 고 조롱 만	O O ORG-B O O O O O O O O O O O O O O
+시애틀 쿼터백 러셀 윌슨 은 “ 왜 패싱 을 하 라고 했 는지 이해 가 안 된다 ” 며 작전 을 지시한 오펜시브 코치 를 우회적 으로 비난 했 다 .	ORG-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김용희 감독 은 “ 한화 가 스파르타 라면 , SK 는 아테네 ” 라고 비유한 적 이 있 다 .	PER-B O O O ORG-B O O O O ORG-B O LOC-B O O O O O O O O
+고 사장 은 “ 먼저 제품 을 받 은 소비자 들 의 물량 을 교체한 뒤 부터 다시 판매 를 재개하 겠 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문제 는 의령 뿐 아니 라 다른 군 지역 도 비슷하 다는 점 이 다 .	O O LOC-B O O O O O O O O O O O O O
+16 , 17 대 총선 법조인 들 의 4 년 뒤 , 8 년 뒤 생존 율 도 전체 직업 군 평균 생존 율 보다 높 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+32 년 전 수도원 에 들어간 이래 쉼 없이 시 를 써 온 장 수녀 가 수녀원 소식지 에 실 을 자신 의 시 에 김 화백 의 그림 을 써도 괜찮 겠 느냐고 연락한 것 이 다 .	DAT-B DAT-I O O O O O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+고병원 성 AI 여부 는 4 일 최종 결과 에서 알 게 될 것 으로 전망된다 .	O O O O O DAT-B DAT-I O O O O O O O O O O
+나이트 스파 연중 운영 , 매일 밤 11 시 까지 나이트 스파로 낭만 가득한 가을밤 을 보내 세요 ~ 또한 , 매주 금 , 토 , 일요일 그리고 휴일 전날 , 밤 11 시 까지 야간 에 도 스파 를 즐길 수 있 는 ‘ 나이트 스파 ’ 가 운영된다 .	O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O DAT-B O DAT-B O DAT-B O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O
+[ 시승 기 ] 쌍용차 티볼리 에어 ‘+ 50 kg , + 245 mm , - 0.8 km / L ’	O O O O ORG-B O O O O O O O O O O O O O O O O
+KB 국민카드 는 ‘ KB 국민 훈 · 민 · 정 · 음 카드 ’ 등 한글 브랜드 상품 을 지난 2013 년 12 월 처음 선보 였 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+세계 1 위 ” 라고 소개 했 다 .	O O O O O O O O O

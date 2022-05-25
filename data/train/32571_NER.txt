@@ -1,16 +1,16 @@
-이를 보+ㄴ네티즌들은 “김세정은 도대체 못하는 것+이 뭐 +이냐” “마치 적토 마같다” 등의 반응을 보이며 미모뿐만 아니라 운동신경까지 갖추+ㄴ김세정에게 감탄하는 반응을 보이었다 .	O O PER-B O O O O O O O O O O O O O O PER-B O O O O
-열정과 도전정신으로 네트워크 장비 시장을 선도하는 기업을 일구+어내+ㄴ이 대표는 새롭ㄴ 도약을 준비하고 있다 .	O O O O O O O PER-B O O O O O O
-9회 말 선두 타자로 나서+어서도 2루타를 때리었다 .	O O O O O O O O
-박성현은 살짝 기대를 보이었다 .	PER-B O O O O
-방송들은 긴급 속보 체제로 전환하였고 일정부도 25일 새벽 긴급 각료회의를 소집하+여 대응책을 논의하였다 .	O O O O O ORG-B ORG-B O O O O O O O
-팬택, 마침내 회생…법원 회생계획안 인 .	ORG-B O O O O O
-2004년 중국 베이징(北京) 공항에서 우연히 만나 +ㄴ 뒤 2011년 1월과 5월에 총 7시간대면 인터뷰를 +였고 150회가량 이메일로 교신하였다 .	O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
-김 이사장은 “몇 년 후 아이들이 중국에 돌아가더라도 잘 적응하+ㄹ 수 있도록 언어교육에 힘쓰+ㄴ다”고 말하였다 .	PER-B O O O O O LOC-B O O O O O O O O O
-그는 전반 10분 만에 이 반라키티+하지(27)의 패스를 헤딩 골로 연결하+여선제골을 넣었다 .	O O O O O O O O O O O O
-외교관 1명이 담당하는 국민수를 비교하면 오히려 우리 사정이 더 낫다 .	O O O O O O O O O O O
-권씨는 재판에서 “합의 하에 성관계를 해 성적 학대가 아니다”고 주장하였다 .	PER-B O O O O O O O O O O
-年 300개 찢고 분해하+여 불량품 검 .	O O O O O O O
-구서진은 윤태주(성준 분)를 찾았고 그에게서 자신의 주인 격이 소멸되 +ㄹ 수도 있는 상황이 +ㅁ을 인지하였다 .	PER-B PER-B O O O O O O O O O O O O O O
-백화점들이 본격적 이+ㄴ 추석 선물세트 판매에 나서 +ㄴ다 .	O O O O O O O O O
-도은영 ‘다시 시작, 가수 도 은영’, 생전 마지막 글에 안타깝ㅁ 커지+어… 사망 원인은?가 수도 은영이 새 앨범을 준비하던 중 사망하였다는 소식이 전하여 +지+었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-평소 도은영과 친분이 있던 가수 연규성은 지나 +ㄴ 4일자신의 페이스북에 “노래를 너무나 잘하는, 정말 아끼고 사랑하던 동생도 은영이 어제 하늘나라로 가+았다”며 도은영의 사망 소식을 알리었다 .	O PER-B O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O
+이 를 본 네티즌 들 은 “ 김세정 은 도대체 못하 는 게 뭐 냐 ” “ 마치 적토마 같 다 ” 등 의 반응 을 보이 며 미모 뿐 만 아니 라 운동 신경 까지 갖춘 김세정 에게 감탄하 는 반응 을 보 였 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+열정 과 도전 정신 으로 네트워크 장비 시장 을 선도하 는 기업 을 일궈 낸 이 대표 는 새로 운 도약 을 준비하 고 있 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+9 회 말 선두 타자 로 나서서 도 2 루 타 를 때 렸 다 .	O O O O O O O O O O O O O O O O
+박성현 은 살짝 기대 를 보 였 다 .	PER-B O O O O O O O O
+방송 들 은 긴급 속보 체제 로 전환 했 고 일 정부 도 25 일 새벽 긴급 각료 회의 를 소집해 대응책 을 논의 했 다 .	O O O O O O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O
+팬택 , 마침내 회생 … 법원 회생 계획안 인가	ORG-B O O O O O O O O
+2004 년 중국 베이징 ( 北京 ) 공항 에서 우연히 만난 뒤 2011 년 1 월 과 5 월 에 총 7 시간 대 면 인터뷰 를 했 고 150 회 가량 이메일 로 교신 했 다 .	DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O DAT-B DAT-I DAT-I DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+김 이사장 은 “ 몇 년 후 아이 들 이 중국 에 돌아가 더라도 잘 적응할 수 있 도록 언어 교육 에 힘쓴다 ” 고 말 했 다 .	PER-B O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+그 는 전반 10 분 만 에 이반 라키티 치 ( 27 ) 의 패스 를 헤딩 골 로 연결해 선제골 을 넣 었 다 .	O O TIM-B TIM-I TIM-I O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O
+외교관 1 명 이 담당하 는 국민 수 를 비교하 면 오히려 우리 사정 이 더 낫 다 .	O O O O O O O O O O O O O O O O O O O
+권 씨 는 재판 에서 “ 합의 하 에 성 관계 를 해 성적 학대 가 아니 다 ” 고 주장 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+年 300 개 찢 고 분해해 불량품 검사	O O O O O O O O
+구서진 은 윤태주 ( 성준 분 ) 를 찾 았 고 그 에게서 자신 의 주인격 이 소멸될 수 도 있 는 상황 임 을 인지 했 다 .	PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+백화점 들 이 본격적 인 추석 선물 세트 판매 에 나선다 .	O O O O O DAT-B O O O O O O
+도은영 ‘ 다시 시작 , 가수 도은영 ’ , 생전 마지막 글 에 안타까 움 커져 … 사망 원인 은 ? 가수 도은영 이 새 앨범 을 준비하 던 중 사망 했 다는 소식 이 전해 졌 다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+평소 도은영 과 친분 이 있 던 가수 연규성 은 지난 4 일 자신 의 페이스북 에 “ 노래 를 너무나 잘하 는 , 정말 아끼 고 사랑하 던 동생 도은영 이 어제 하늘나라 로 갔 다 ” 며 도은영 의 사망 소식 을 알 렸 다 .	O PER-B O O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O

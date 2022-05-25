@@ -1,16 +1,16 @@
-4년 만에 60대 이상 남성의 화장품 구매는 72.8%, 여성은 100.3% 급증하였다 .	O O O O O O O O O O O O
-이상문학상, 동인문학상 수상작가 권지예가 사임당의 삶과 예술을 문학이라는 새롭ㄴ 화폭 위에 그리+어내+ㄴ 소설 ‘사임당의 붉은 비단보’를 출간하였다 .	O O O PER-B PER-B O O O O O O O O PER-B O O O O
-“근엄하고 현숙하+ㄴ 표정으로 낡은 초상화 속에 들어앉은 여자, 케케묵은 신화 속에 박제되 +ㄴ 여자, 누구나 알지만 아무도 모르는 그 여자.권지예가 그 여자를 여기, 불러내 +었다 .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
-”정이 현 소설가의 ‘추천의 말’처럼 권지예 소설가는 우상으로서만 존재하던 사임당을 온기와 숨결을 가지+ㄴ 따뜻하+ㄴ한 인간으로 호명하고 있다 .	O O O O O PER-B O O O PER-B O O O O O O O O
-[아파트 미리보기] “서울 도심 30분대”출퇴근족에 손 .	O O LOC-B O O O O
-내년 개통 예정이+ㄴ KTX 수서역과 문정지구의 풍부하+ㄴ 배후수요를 갖추고 있다 .	O O O LOC-B LOC-I LOC-B O O O O O
-이어 노 전 감독은 “끝까지 하+여야 하+ㄴ다”는 말로 제자를 응원하였다 .	O PER-B O O O O O O O O O
-박태환은 자유형 200m와 100m, 1500m 출전을 남기+어두고 있다 .	PER-B O O O O O O O O
-남산 예장자락. 남산예장자락, 공원으로 탈바꿈… 남산잇는 곤돌라 설치 계획도 남산 예장자락 2만2330㎡ 부지가 공원으로 탈바꿈하+ㄴ다 .	LOC-B LOC-B LOC-B O O LOC-B O O O LOC-B LOC-B O O O O O
-서울시는 15일 조선시대 군사들의 무예훈련장이 있었던 예장자락 2만2330㎡ 부지를 공원으로 복원하는 내용의 ‘남산예장자락 재생사업계획안’을 마련하였다고 밝히었다 .	LOC-B O O O O O LOC-B O O O O O LOC-B O O O O
-미나는 류필립과의 첫 만남을 떠올리며 “류필립이제국의 아이들 회사 후배+이다 .	PER-B PER-B O O O ORG-B ORG-I O O O
-2013년 2월에 배출되+ㄴ ‘마이스터고 1기’ 졸업생들(3560명) 이 산업현장에 복귀하고 있다 .	ORG-I O O ORG-B ORG-I O O O O O O
-세계적 이+ㄴ 프로축구 클럽 레알 마드리드가 이강인(16) 선수 영입에 관심을 보이고 있다는 보도가 나 오+ㄴ 가운데, 그의 과거가 화제+이다 .	O O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O
-고급스럽+ㄴ 느낌에 초점…기아차 신형 K7 공 .	O O O O O O O
-이 때문에 수험생들의 불안이 가중되고 있는 상황.수능을 120여일 앞두고 혼란스럽어 하는 학생들을 위하+여 김봉소 고문이 지금 당장 챙기+어야 하+ㄹ 효율적 이+ㄴ국어 학습전략을 제시하였다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O
-경전철 민간투자기관(대주단)은 운영적자대책이 연말까지 마련되지 않으면 사업 중도 해지권을 발동하+ㄴ다는 계획이다 .	O ORG-B O O O O O O O O O O
+4 년 만 에 60 대 이상 남성 의 화장품 구매 는 72.8 % , 여성 은 100.3 % 급증 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+이상 문학상 , 동인 문학상 수상 작가 권지예 가 사임당 의 삶 과 예술 을 문학 이 라는 새로 운 화폭 위 에 그려 낸 소설 ‘ 사임당 의 붉 은 비단보 ’ 를 출간 했 다 .	O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 근엄하 고 현숙한 표정 으로 낡 은 초상화 속 에 들어앉 은 여자 , 케케묵 은 신화 속 에 박제된 여자 , 누구 나 알 지만 아무 도 모르 는 그 여자 . 권지예 가 그 여자 를 여기 , 불러냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+” 정이현 소설가 의 ‘ 추천 의 말 ’ 처럼 권지예 소설가 는 우상 으로서 만 존재하 던 사임당 을 온기 와 숨결 을 가진 따뜻한 한 인간 으로 호명하 고 있 다 .	O PER-B O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O
+[ 아파트 미리 보 기 ] “ 서울 도심 30 분 대 ” 출퇴근 족 에 손짓	O O O O O O O LOC-B O O O O O O O O O
+내년 개통 예정 인 KTX 수서역 과 문정 지구 의 풍부한 배후 수요 를 갖추 고 있 다 .	O O O O LOC-B LOC-I O LOC-B O O O O O O O O O O O
+이어 노 전 감독 은 “ 끝 까지 해야 한다 ” 는 말 로 제자 를 응원 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+박태환 은 자유 형 200 m 와 100 m , 1500 m 출전 을 남겨 두 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+남산 예장 자락 . 남산 예장 자락 , 공원 으로 탈바꿈 … 남산 잇 는 곤돌라 설치 계획도 남산 예장 자락 2 만 2330 ㎡ 부지 가 공원 으로 탈바꿈한다 .	LOC-B LOC-B LOC-I O LOC-B LOC-B LOC-I O O O O O LOC-B O O O O O LOC-B LOC-B LOC-I O O O O O O O O O O
+서울시 는 15 일 조선 시대 군사 들 의 무예 훈련장 이 있 었 던 예장 자락 2 만 2330 ㎡ 부지 를 공원 으로 복원하 는 내용 의 ‘ 남산 예장 자락 재생 사업 계획안 ’ 을 마련 했 다고 밝 혔 다 .	LOC-B O DAT-B DAT-I O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미나 는 류 필립 과 의 첫 만남 을 떠올리 며 “ 류 필립 이 제 국의 아이 들 회사 후배 다 .	PER-B O PER-B PER-I O O O O O O O O PER-B PER-I O ORG-B ORG-I ORG-I ORG-I O O O O
+2013 년 2 월 에 배출된 ‘ 마이스터 고 1 기 ’ 졸업생 들 ( 3560 명 ) 이 산업 현장 에 복귀하 고 있 다 .	DAT-B DAT-I DAT-I DAT-I O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O
+세계적 인 프로 축구 클럽 레알 마드리드 가 이강인 ( 16 ) 선수 영입 에 관심 을 보이 고 있 다는 보도 가 나온 가운데 , 그 의 과거 가 화제 다 .	O O O O O ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+고급스런 느낌 에 초점 … 기아차 신형 K 7 공개	O O O O O O O O O O
+이 때문 에 수험생 들 의 불안 이 가중되 고 있 는 상황 . 수능 을 120 여 일 앞두 고 혼란스러 워 하 는 학생 들 을 위해 김봉소 고문 이 지금 당장 챙겨야 할 효율적 인 국어 학습 전략 을 제시 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+경전철 민간 투자 기관 ( 대주 단 ) 은 운영 적자 대책 이 연말 까지 마련되 지 않 으면 사업 중도 해지 권 을 발동한다는 계획 이 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O

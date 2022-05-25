@@ -1,14 +1,14 @@
-하지만 일본 언론이 정부 측 자금 지원 움직임을 보도하+ㅁ에 따르 아이미 도시바와 공장을 공동 운영 중 이+ㄴ 미국 웨스턴디지털이 인수에 유리하+ㄹ 것이란 관측이 업계에서 설득력을 얻고 있다 .	O ORG-B ORG-I ORG-B O O O O O O O ORG-B O O O O O ORG-B ORG-I O O O O O O O O O
-한국세라믹 기술원, 국가인적자원개발 컨소시엄 사업으로 맞춤형 장비 교육 실시..세라믹 전문가 양 .	ORG-B ORG-I ORG-B ORG-I O O O O O O O O
-당시 두 사람은 "친하+ㄴ 동료 이+ㄹ 뿐"이라도 보도를 일축하였다 .	O O O O O O O O O O
-즉, 데얀의 영입은 몰리나의 거취와 연결되+어 있다 .	O PER-B O PER-B O O O O
-윤무현 포항공대 물리학과 주임교수는 “한국물리학계를 대표하는 임 교수의 영입으로 포항공대 내 다른 연구자와의 시너지 효과가 기대되+ㄴ다 .	PER-B ORG-B ORG-I PER-B ORG-B O PER-B O O ORG-B O O O O O O O
-" 또다시 성사되+ㄴ 통신사 매치!", LCK 스프링 결승전 빅매치 성 .	O O O O O O O O O O O
-이제 권위주의 중심의 구체제를 말끔히 뜯어고치겠다는 문민정부가 들어서 +ㄴ 지도 2년이 지나 +았다 .	O O O O O O ORG-B O O O O O O O
-50위 이내에는 23명이나 되+ㄴ 다＂고 분석하였다 .	O O O O O O O
-세계문화유산 다라하라 붕괴 180여명 숨지+ .	O O O O O O
-최경환 “김무성 자작극”비박“아니 때 +ㄴ 굴뚝에 연기나 나 .	PER-B PER-B O O O O O O O
-항간에서는 연간 운영비로 약 500억원을 사용하+ㄴ다고 보+ㄴ다 .	O O O O MNY-B O O O
-본보 등 15개 언론사-서울대 손잡고 가짜뉴스 가려내 +ㄴ .	O O O ORG-B O O O O O
-누리꾼들은 그의 6시간 콘서트 공연 도전성공 소식에 뜨겁ㄴ 반응을 보이었다 .	O O O O O O O O O O O
-월 6만원 이상 고가 요금제 가입비율을 일부 낮추+ㄴ 효과가 있기 +ㄴ+였지만 초반 홍보가 미흡하다 보니 휴대전화 소비자들의 반발을 사고 이동통신 업계가 위축되는 부작용을 낳았다 .	O MNY-B O O O O O O O O O O O O O O O O O O O O O O O
+하지만 일본 언론 이 정부 측 자금 지원 움직임 을 보도함 에 따 라 이미 도시바 와 공장 을 공동 운영 중 인 미국 웨스턴 디지털 이 인수 에 유리할 것 이 란 관측 이 업계 에서 설득력 을 얻 고 있 다 .	O ORG-B ORG-I O ORG-B O O O O O O O O O O ORG-B O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+한국 세라믹 기술원 , 국가 인적자원 개발 컨소시엄 사업 으로 맞춤 형 장비 교육 실시 . . 세라믹 전문가 양성	ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O
+당시 두 사람 은 " 친한 동료 일 뿐 " 이라도 보도 를 일축 했 다 .	O O O O O O O O O O O O O O O O O
+즉 , 데얀 의 영입 은 몰리나 의 거취 와 연결돼 있 다 .	O O PER-B O O O PER-B O O O O O O O
+윤무현 포항공대 물리학 과 주임 교수 는 “ 한국 물리학계 를 대표하 는 임 교수 의 영입 으로 포항공대 내 다른 연구자 와 의 시너지 효과 가 기대된다 .	PER-B ORG-B ORG-I ORG-I O O O O ORG-B O O O O PER-B O O O O ORG-B O O O O O O O O O O
+" 또 다시 성사된 통신사 매치 ! " , LCK 스프링 결승전 빅 매치 성사	O O O O O O O O O O O O O O O
+이제 권위주의 중심 의 구체제 를 말끔히 뜯어고치 겠 다는 문민정부 가 들어선지 도 2 년 이 지났 다 .	O O O O O O O O O O ORG-B O O O O O O O O O
+50 위 이내 에 는 23 명 이나 된다 ＂ 고 분석 했 다 .	O O O O O O O O O O O O O O O
+세계 문화유산 다라하라 붕괴 180 여 명 숨져	O O O O O O O O
+최경환 “ 김무성 자작극 ” 비 박 “ 아니 땐 굴뚝 에 연기 나 나 ”	PER-B O PER-B O O O O O O O O O O O O O
+항간 에서 는 연간 운영비 로 약 500 억 원 을 사용한다고 본다 .	O O O O O O O MNY-B MNY-I MNY-I O O O O
+본보 등 15 개 언론사 - 서울대 손잡 고 가짜 뉴스 가려낸다	O O O O O O ORG-B O O O O O
+누리 꾼 들 은 그 의 6 시간 콘서트 공연 도전 성공 소식 에 뜨거 운 반응 을 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O
+월 6 만 원 이상 고가 요금 제 가입 비율 을 일부 낮춘 효과 가 있 긴 했 지만 초반 홍보 가 미흡하 다 보 니 휴대 전화 소비자 들 의 반발 을 사 고 이동 통신 업계 가 위축되 는 부작용 을 낳 았 다 .	O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

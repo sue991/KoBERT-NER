@@ -1,13 +1,13 @@
-지금은 국민연금 보험료를 40년 내면 40%를 받게 되+어 있다 .	O O O O O O O O O O
-탄핵심판을 받고 있는 박근혜 대통령이 헌법재판소에 제출하+ㄴ 답변서에서 “최순실 국정관여는 1% 미만”이라고 주장 하+ㄴ 것과 같은 맥락이다 .	O O O PER-B O O O O PER-B O O O O O O O O O
-불과 2009년 5월 의료법이 부분 개정되+ㄴ후 7년간 벌어지고 있는 폭발적 이+ㄴ 성장세이+ㄴ 것이다 .	O O O O O O O O O O O O O O
-공원장은 “옮기려면 부지 구입비와 시설비로 3억~4억원이 필요하다”며 “1억7000만원 빚을 걸 머지 +ㄴ 상태+이라 이런 이 전 비용 마련은 엄두도 못 내고 있다”고 말하였다 .	MNY-I O O O O MNY-B O MNY-B O O O O O O O O O O O O O O O O
-이로 인하+여중도금과 잔금대출의 원금 상환 시점이 5년 앞당기+어지+ㄴ다 .	O O O O O O O O O
-GDP 규모를 고려하면 싱가포르가 우리보다 21배나 많은 외국인 투자를 유치하고 있는 셈이다 .	O O O ORG-B ORG-B O O O O O O O O
-트럼프는 미국의 낙후되 +ㄴ 인프라를 지적하며 “중국·두바이·카타르에 있는 공항에 있다가 미국 공항에 도착하면 ‘우리나라가 제3세계 국가가 +었다’는 생각이 들+ㄴ다”고 말하였다 .	PER-B LOC-B O O O O LOC-B O O O LOC-B O O O O O O O O O O
-이달 공식 출시에 앞서 +어지나 +ㄴ 2월부터 사전계약에 돌입하+ㄴ SM6는 영업일 기준 17일 만에 1만1000대가 계약되며 ‘돌풍’을 예견하+ 여+았다 .	O O O O O O O O O O O O O O O O O O O O
-공부에 대하+ㄴ 열망이 꺾이지 않은 조 할머니는 75세이던 지나 +ㄴ 2011년 일성여중고에 입학하+여대학 진학의 꿈을 키우+어오았다 .	O O O O O PER-B O O O O O O O O O O O
-조 할머니는 수능 전날 한 방송과 인터뷰에서 “대학에 가고 싶고 또 가+ㄹ 것+이다 .	PER-B O O O O O O O O O O O O O
-19대 총선 때는 대구에서 12명의 현역 의원 중 7명이 공천에서 배제되었었다 .	O O O LOC-B O O O O O O O O
-정두홍조차 "무리+이다"라고 혀를 내두르는 액션신을 류 감독은 어떻게든 해내고야말 +ㄴ다 .	PER-B O O O O PER-B O O O O O
-또 사드(고고도미사일방어) 체계 배치에 반대하는 야당 등을 향하+여 “대안 없는 정치공세에서 벗어나라”고 주문하고, 관련 정부 부처에 “국내 불순세력이나 사회 불안 조성자들에 대하+ㄴ 철저하+ㄴ 감시”를 지시하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+지금 은 국민 연금 보험료 를 40 년 내 면 40 % 를 받 게 돼 있 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O
+탄핵 심판 을 받 고 있 는 박근혜 대통령 이 헌법 재판소 에 제출한 답변서 에서 “ 최순실 국정 관여 는 1 % 미만 ” 이라고 주장한 것 과 같 은 맥락 이 다 .	O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+불과 2009 년 5 월 의료법 이 부분 개정된 후 7 년 간 벌어지 고 있 는 폭발적 인 성장세 인 것 이 다 .	O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O
+공 원장 은 “ 옮기 려면 부지 구입 비 와 시설 비 로 3 억 ~ 4 억 원 이 필요하 다 ” 며 “ 1 억 7000 만 원 빚 을 걸머진 상태 라 이런 이전 비용 마련 은 엄두 도 못 내 고 있 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O
+이 로 인해 중도금 과 잔금 대출 의 원금 상환 시점 이 5 년 앞당겨 진다 .	O O O O O O O O O O O O DAT-B DAT-I O O O
+GDP 규모 를 고려하 면 싱가포르 가 우리 보다 21 배 나 많 은 외국인 투자 를 유치하 고 있 는 셈 이 다 .	O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+트럼프 는 미국 의 낙후된 인프라 를 지적하 며 “ 중국 · 두바이 · 카타르 에 있 는 공항 에 있 다가 미국 공항 에 도착하 면 ‘ 우리나라 가 제 3 세계 국가 가 됐 다 ’ 는 생각 이 든다 ” 고 말 했 다 .	PER-B O ORG-B O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이달 공식 출시 에 앞서 지난 2 월 부터 사전 계약 에 돌입한 SM 6 는 영업 일 기준 17 일 만 에 1 만 1000 대 가 계약되 며 ‘ 돌풍 ’ 을 예견해 왔 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공부 에 대한 열망 이 꺾이 지 않 은 조 할머니 는 75 세 이 던 지난 2011 년 일성 여중 고 에 입학해 대학 진학 의 꿈 을 키 워 왔 다 .	O O O O O O O O O PER-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+조 할머니 는 수능 전날 한 방송 과 인터뷰 에서 “ 대학 에 가 고 싶 고 또 갈 거 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+19 대 총선 때 는 대구 에서 12 명 의 현역 의원 중 7 명 이 공천 에서 배제 됐었 다 .	O O O O O LOC-B O O O O O O O O O O O O O O O O
+정두홍 조차 " 무리 다 " 라고 혀 를 내두르 는 액션 신 을 류 감독 은 어떻 게 든 해내 고 야 만다 .	PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O
+또 사드 ( 고고도 미사일 방어 ) 체계 배치 에 반대하 는 야당 등 을 향해 “ 대안 없 는 정치 공세 에서 벗어나 라 ” 고 주문하 고 , 관련 정부 부처 에 “ 국내 불순 세력 이나 사회 불안 조성 자 들 에 대한 철저한 감시 ” 를 지시 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

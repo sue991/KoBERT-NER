@@ -1,16 +1,16 @@
-한국은행 관계자는 “기업이 본격적으로 김영란법을 영업 예산에 반영하는 올해 초부터 법카 사용 추이에 변동이 생기+ㄹ 수 있다”고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O
-더스틴 니퍼트~마이클 보우덴~유희관~장원준까지 선발 4명은 꽉 차+ㄴ 두산이다 .	PER-B PER-B PER-B O O O O ORG-B O
-나는 ‘이번에 북한에 가지 못하면 앞으로 많이 후회하+ㄹ 것 같다 .	O O LOC-B O O O O O O O O
-호주 정부는 과거 인도네시아 대통령 등 최고위 인사들의 전화를 도청하였다는 의혹을 받았다 .	ORG-B ORG-I O ORG-B O O O O O O O O O
-이 전 총리가 퇴임하면서 남기+ㄴ「워낙 언론을 잘 알는 분들이 되+어놓+아서 …」+이란 말도 한동안 정­관가에서 회자되었다 .	PER-B O O O O O O O PER-B O PER-B O O O O O
-카키색 점퍼와 황토색 바지를 입고 경찰서로 호송되 +ㄴ 김은 범행 동기를 묻는 기자들의 질문에 “집사람과 싸우다가 그렇게 +었다”고 말하였다 .	O O O O O O O O PER-B O O O O O O O O O O O
-경찰은 이번 박 대통령 탄핵 찬반 집회에서 불법행위 등이 발생하+ㄹ 경우 엄정 대처 하+ㄹ 방침이다 .	O O PER-B O O O O O O O O O O O O O
-디저트 역사문명 사회태동 때 시작 …고대 그리스 철학자 시인들이 즐기+ .	O O O O O O ORG-B O O O O
-자원개발 자산을 석유공사에서 가스공사로 보내거나, 아예 두 기관을 통합하+여 규모의 경제를 이루+ㄴ다는 계산이다 .	O O ORG-B ORG-B O O O O O O O O O O
-장영진 산업부 에너지자원정책관은 “해외 주요 에너지 기업의 경우에도 유통구조에서도매와 소매를 모두 갖고 있는 경우 서로 완충작용을 하면서 효과를 내+ㄴ다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O
-‘메르스 확진자 사흘째0’ 메르스 신규 확진 환자가 사흘째 0명을 기록하고 있다 .	O O O O O O O O O O O O
-지난해 박병호의 빅리그 성적은 타율 0.191에 12홈런 24타점을 기록하였다 .	O PER-B O O O O O O O O
-‘빅뱅 루저 베베’ 그룹 빅뱅이루저 베베 등의 신곡으로 컴백과 함께 국내외 음원 차트를 석권하며 폭발적 이+ㄴ 반응을 이끌어내 +었다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O
-1일 0시에 공개되+ㄴ빅뱅의 신곡 ‘루저’(LOSER)와 ‘베베’(BAEBAE)는 멜론, 벅스, 엠넷닷컴 등 국내 10개 음원차트를 1, 2위를 모두 올 킬하며 위력을 발휘하였다 .	O O ORG-B O O O ORG-B ORG-B ORG-B O O O O O O O O O O O O
-부산 아이파크는 지속적으로 접수를 진행하+여연 2만여명의 어린이들이 참가하+ㄹ 수 있도록 하+ㄹ 계획이다 .	ORG-B ORG-I O O O O O O O O O O O
-[스포츠동아 .	ORG-B O
+한국은행 관계자 는 “ 기업 이 본격적 으로 김영란 법 을 영업 예산 에 반영하 는 올해 초 부터 법 카 사용 추이 에 변동 이 생길 수 있 다 ” 고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+더스틴 니퍼트 ~ 마이클 보우 덴 ~ 유희관 ~ 장원준 까지 선발 4 명 은 꽉 찬 두산 이 다 .	PER-B PER-I O PER-B PER-I PER-I O PER-B O PER-B O O O O O O O ORG-B O O O
+나 는 ‘ 이번 에 북한 에 가 지 못하 면 앞 으로 많이 후회할 것 같 다 ’	O O O O O LOC-B O O O O O O O O O O O O O
+호주 정부 는 과거 인도네시아 대통령 등 최고 위 인사 들 의 전화 를 도청 했 다는 의혹 을 받 았 다 .	ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O O O O O O
+이 전 총리 가 퇴임하 면서 남긴 「 워낙 언론 을 잘 아 는 분 들 이 돼 놔서 … 」 란 말 도 한동안 정 ­ 관가 에서 회자 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+카키색 점퍼 와 황토색 바지 를 입 고 경찰서 로 호송된 김 은 범행 동기 를 묻 는 기자 들 의 질문 에 “ 집사람 과 싸우 다가 그렇 게 됐 다 ” 고 말 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+경찰 은 이번 박 대통령 탄핵 찬반 집회 에서 불법 행위 등 이 발생할 경우 엄정 대처할 방침 이 다 .	O O O PER-B O O O O O O O O O O O O O O O O O
+디저트 역사 문명사회 태동 때 시작 … 고대 그리스 철학자 시인 들 이 즐겨	O O O O O O O O ORG-B O O O O O
+자원 개발 자산 을 석유 공사 에서 가스 공사 로 보내 거나 , 아예 두 기관 을 통합해 규모 의 경제 를 이룬다는 계산 이 다 .	O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+장영진 산업 부 에너지 자원 정책 관 은 “ 해외 주요 에너지 기업 의 경우 에 도 유통 구조 에서 도매 와 소매 를 모두 갖 고 있 는 경우 서로 완충 작용 을 하 면서 효과 를 낸다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 메르스 확진 자 사흘 째 0 ’ 메르스 신규 확진 환자 가 사흘 째 0 명 을 기록하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+지난해 박병호 의 빅 리그 성적 은 타율 0.191 에 12 홈런 24 타점 을 기록 했 다 .	O PER-B O O O O O O O O O O O O O O O O O
+‘ 빅뱅 루저 베베 ’ 그룹 빅뱅 이 루저 베베 등 의 신곡 으로 컴백 과 함께 국내 외 음원 차트 를 석권하 며 폭발적 인 반응 을 이끌 어 냈 다 .	O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 일 0 시 에 공개된 빅뱅 의 신곡 ‘ 루저 ’ ( LOSER ) 와 ‘ 베베 ’ ( BAE BAE ) 는 멜론 , 벅스 , 엠넷 닷컴 등 국내 10 개 음원 차트 를 1 , 2 위 를 모두 올킬 하 며 위력 을 발휘 했 다 .	DAT-B DAT-I TIM-B TIM-I O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+부산 아이파크 는 지속적 으로 접수 를 진행해 연 2 만 여 명 의 어린이 들 이 참가할 수 있 도록 할 계획 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+[ 스포츠 동아 ]	O ORG-B ORG-I O

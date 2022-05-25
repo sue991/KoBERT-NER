@@ -1,8 +1,8 @@
-이에 따르 아 일본 고베대학병원에서 수술을 받기로 결정하였다 .	O O O ORG-B ORG-I O O O O
-경남 합천군의 안명기 보건소장도 “우리 지역에서 +ㄴ미취학 아이들을 다 모으아도 500명 정도뿐이라 수요가 부족하+여소아과가 거의 없다”고 소개하였다 .	LOC-B LOC-B PER-B O O O O O O O O O O O O O O O
-‘무한도전 엑스포’ 19일 킨텍스 서 열리+어… ‘현장예매 불가’ 예약방법은? ‘무한도전 엑스포’가 개최되 +ㄴ다 .	O O O LOC-B O O O O O O O O O O
-MBC ‘무한도전’에서 2015년 특별기획 아이템으로 제안되었던 ‘무한도전 엑스포’가 오는 12월 19일 일산 킨텍스에서 열리+ㄴ다 .	O O O O O O O O O O O LOC-B LOC-I O O
-‘무한도전 엑스포’는 ‘무한도전’ 방송 중 하하와 광희가 ‘무한도전’ 10주년을 기념하는 동시에 시청자들과 소통 하+ㄹ 수 있는 공간을 마련하자는 취지로 기획하+ㄴ 프로젝트+이다 .	O O O O O PER-B PER-B O O O O O O O O O O O O O O O
-‘무한도전 엑스포’는 ‘무한도전’의 시초 이+ㄴ ‘무모하+ㄴ도전’ 시절부터 현재의 ‘무한도전’까지 직접 보고 체험 하+ㄹ 수 있는 공간으로 구성되 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-‘특별시민’은 서울시장 선거를 앞두고 벌어지는 정치계의 이면을 다루+ㄴ 영화.류혜영에 앞서 +어 최민식, 곽도원, 심은경이 출연을 확정하+여화제를 모으+ㄴ바 있다 .	O O O O O O O O PER-B O O PER-B PER-B PER-B O O O O O
-자유학기제는 ‘중 11학기부터 중 22학기 사이’+이라는 제한이 있지만 진로교육 집중학년·학기제는 초중고교 전학년 중 각 지역의 교육환경에 따르 아자유롭게 선택하+ 여운영 하+ㄹ 수 있도록 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 일본 고베 대학 병원 에서 수술 을 받 기 로 결정 했 다 .	O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O
+경남 합천군 의 안명기 보건소 장 도 “ 우리 지역 에선 미취학 아이 들 을 다 모 아도 500 명 정도 뿐 이 라 수요 가 부족해 소아과 가 거의 없 다 ” 고 소개 했 다 .	LOC-B LOC-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 무한도전 엑스포 ’ 19 일 킨텍스 서 열려 … ‘ 현장 예매 불가 ’ 예약 방법 은 ? ‘ 무한도전 엑스포 ’ 가 개최된다 .	O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O
+MBC ‘ 무한도전 ’ 에서 2015 년 특별 기획 아이템 으로 제안 됐 던 ‘ 무한도전 엑스포 ’ 가 오 는 12 월 19 일 일산 킨 텍스 에서 열린다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-I LOC-I O O O
+‘ 무한도전 엑스포 ’ 는 ‘ 무한도전 ’ 방송 중 하하 와 광희 가 ‘ 무한도전 ’ 10 주년 을 기념하 는 동시 에 시청자 들 과 소통할 수 있 는 공간 을 마련하 자는 취지 로 기획한 프로젝트 다 .	O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 무한도전 엑스포 ’ 는 ‘ 무한도전 ’ 의 시초 인 ‘ 무모한 도전 ’ 시절 부터 현재 의 ‘ 무한도전 ’ 까지 직접 보 고 체험할 수 있 는 공간 으로 구성된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 특별 시민 ’ 은 서울 시장 선거 를 앞두 고 벌어지 는 정치계 의 이면 을 다룬 영화 . 류혜영 에 앞서 최민식 , 곽도원 , 심은경 이 출연 을 확정해 화제 를 모은 바 있 다 .	O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B O PER-B O PER-B O O O O O O O O O O O
+자유 학기제 는 ‘ 중 1 1 학기 부터 중 2 2 학기 사이 ’ 라는 제한 이 있 지만 진로 교육 집중 학년 · 학기제 는 초 중 고교 전 학년 중 각 지역 의 교육 환경 에 따 라 자유롭 게 선택해 운영할 수 있 도록 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

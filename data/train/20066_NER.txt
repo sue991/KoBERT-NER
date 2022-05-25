@@ -1,10 +1,10 @@
-이 말은 향후 전개되 +ㄹ한·중경협의 새롭ㄴ 패러다임을 단적으로 보이어주+ㄴ다 .	O O O O ORG-B O O O O O
-인천도시농업네트워크 주최의 이 축제에서는 막걸리 빚기, 흙 속 미생물 관찰, 생태화장실 등을 체험하+ㄹ 수 있다 .	ORG-B O O O O O O O O O O O O O O O
-박 PD는 “하지만 15주년 특집에 녹이기에 +ㄴ 시기적 무리가 있었다”고 말하였다 .	PER-B O O O O O O O O O O O
-김 회장은 “지난해 해외 매출 비중이 2.5%+이었는데, 올해 15%까지 끌어올리+ㄹ 것”이라고 밝히었다 .	PER-B O O O O O O O O O O O O
-89년부터 끌어오+ㄴ교육부와 보사부간의 지리 하+ㄴ 논쟁이 이제 두 부처 담당자들 간의 감정싸움으로까지 치닫고 있다 .	O ORG-B ORG-B O O O O O O O O O O O O
-잇어나 오+ㄴ 윤지웅~김지용~진해 수~정찬헌~임정우가 4.2 이닝을 무실점으로 틀어막으면서 1점 차 승리를 가져 오+ㄹ 수 있었다 .	O O PER-B PER-B O O O O O O O O O O O O
-2회 실책성 플레이를 하+ㄴ 오지환에 대하+ㄴ 믿음도 굳건하였다 .	O O O O O O O O O
-조선업 장기 침체로 강력 하+ㄴ 구조조정이 필요하+ㄴ 현대중에서 처우개선을 요구하는 배짱이 놀랍다 .	O O O O O O O ORG-B O O O O O
-경찰은 김씨가 라이터로 가열 하+ㄹ 때 전선 피복이 녹아 전기합선이 일어나면서 불꽃이 발생하+ㄴ 것으로 추정하고 있다 .	O PER-B O O O O O O O O O O O O O O O
-'우리는 형제이+ㅂ니다 하니' '우리는 형제이+ㅂ니다'하니의 먹방에 남동생도 놀라 +았다 .	O O PER-B O PER-B O O O O O
+이 말 은 향후 전개될 한 · 중 경협 의 새로 운 패러다임 을 단적 으로 보 여 준다 .	O O O O O ORG-B O ORG-B O O O O O O O O O O O O
+인천 도시 농업 네트워크 주최 의 이 축제 에서 는 막걸리 빚 기 , 흙 속 미생물 관찰 , 생태 화장실 등 을 체험할 수 있 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+박 PD 는 “ 하지만 15 주년 특집 에 녹이 기 엔 시기적 무리 가 있 었 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+김 회장 은 “ 지난해 해외 매출 비중 이 2.5 % 였 는데 , 올해 15 % 까지 끌어올릴 것 ” 이라고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+89 년 부터 끌어온 교육부 와 보사부 간 의 지리한 논쟁 이 이제 두 부처 담당자 들 간 의 감정 싸움 으로 까지 치닫 고 있 다 .	DAT-B DAT-I O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+이 어 나온 윤지웅 ~ 김지용 ~ 진해수 ~ 정찬헌 ~ 임정우 가 4.2 이닝 을 무실점 으로 틀어막 으면서 1 점 차 승리 를 가져올 수 있 었 다 .	O O O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O
+2 회 실책 성 플레이 를 한 오지환 에 대한 믿음 도 굳건 했 다 .	O O O O O O O O O O O O O O O O
+조선업 장기 침체 로 강력한 구조 조정 이 필요한 현대 중 에서 처우 개선 을 요구하 는 배짱 이 놀랍 다 .	O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+경찰 은 김 씨 가 라이터 로 가열할 때 전선 피복 이 녹 아 전기 합선 이 일어나 면서 불꽃 이 발생한 것 으로 추정하 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 우리 는 형제 입니다 하 니 ' ' 우리 는 형제 입니다 ' 하니 의 먹방 에 남동생 도 놀랐 다 .	O O O O O PER-B PER-I O O O O O O O PER-B O O O O O O O O

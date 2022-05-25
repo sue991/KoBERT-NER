@@ -1,13 +1,13 @@
-렉서스 브랜드에서는 RC350, GS350, LS460, GX460, LX570, RX450 h가 각각 1위에 오르았다 .	ORG-B O O O O O O O O O O O O
-표창원, 설 전 영상SNS 게재…장제원 “악의적 편집” 표창원 “편집 불가능 .	PER-B O O O PER-B O O PER-B O O O
-이 위원은 3경기 연속으로 무 4사구 피칭을 하고 있는 NC손민한을 예로 들며 “맞히 +어잡는 피칭을 하기 때문에 야수들이 항상 긴장을 하게 되+ㄴ다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O
-▽ 김다은= 소설 밖 한글은 서류, 정보, 지식을 구성하고 전달하는 도구+이다 .	O PER-B O O O O O O O O O O
-NIA 빅데이터 전략센터 신신애 부장은 “영세 슈퍼의 경우 간단하고 직관적 이+ㄴ 판매 정보를 원하지만 얻을 수 있는 기회가 없었다”며 “이번 빅데이터 분석 결과는 올해 상반기 인터넷을 통하+여공개 하+ㄴ다”고 밝히었다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘김포공항 4번 게이트 결혼식’은 임씨가 25일 자신의 소셜네트워크서비스(SNS)인 스타그램에 사진을 올리면서 알려지었다 .	LOC-B O O O PER-B O O O O O O O O
-박 대통령은 취임 후 지나 +ㄴ 3년 동안 매번 여름 휴가를 다녀오아 청와대나 내각의 인적 개편을 하+여+오았다 .	PER-B O O O O O O O O O O O ORG-B O O O O O
-최 감독은 “K리그에는 타깃형 공격수가 꼭 필요하다는데, (이) 근호만의 장점이 있다 .	PER-B O ORG-B O O O O PER-B PER-I PER-I O O
-또 통합문화바우처 이+ㄴ ‘문화누리카드’ 대상자를 전년 대비 7.6% 늘리+어 155만명 이상의 기초·차상위 계층이 문화예술 관람의 혜택을 받게 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-‘문화가 있는 날 확대’ 소식을 접하+ㄴ누리꾼들은 “문화가 있는 날 확대, 좋은 생각이 +ㅂ니다” .	O O O O O O O O O O O O O O
-이번 미국과의 합의는 이런 북한의 사정이 나타나 +ㄴ 것이죠 .	O ORG-B O O ORG-B O O O O O
-복층형(56실)과 원룸형(56실) 2개로 선호도가 높은 전용면적(17.8940m ²)이다 .	O O O O O O O O
-中사업협력-투자 확대 논 .	ORG-B O O O
+렉서스 브랜드 에서 는 RC 350 , GS 350 , LS 460 , GX 460 , LX 570 , RX 450 h 가 각각 1 위 에 올 랐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+표창원 , 설전 영상 SNS 게재 … 장제원 “ 악의 적 편집 ” 표창원 “ 편집 불가능 ”	PER-B O O O O O O PER-B O O O O O PER-B O O O O
+이 위원 은 3 경기 연속 으로 무 4 사구 피칭 을 하 고 있 는 NC 손민한 을 예 로 들 며 “ 맞혀 잡 는 피칭 을 하 기 때문 에 야수 들 이 항상 긴장 을 하 게 된다 .	O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+▽ 김다은 = 소설 밖 한글 은 서류 , 정보 , 지식 을 구성하 고 전달하 는 도구 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+NIA 빅 데이터 전략 센터 신신애 부장 은 “ 영세 슈퍼 의 경우 간단하 고 직관적 인 판매 정보 를 원하 지만 얻 을 수 있 는 기회 가 없 었 다 ” 며 “ 이번 빅 데이터 분석 결과 는 올해 상반기 인터넷 을 통해 공개한다 ” 고 밝 혔 다 .	ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 김포공항 4 번 게이트 결혼식 ’ 은 임 씨 가 25 일 자신 의 소셜 네트워크 서비스 ( SNS ) 인스타그램 에 사진 을 올리 면서 알려 졌 다 .	O LOC-B O O O O O O PER-B PER-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+박 대통령 은 취임 후 지난 3 년 동안 매번 여름휴가 를 다녀 와 청와대 나 내각 의 인적 개편 을 해 왔 다 .	PER-B O O O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O
+최 감독 은 “ K 리그 에 는 타깃 형 공격수 가 꼭 필요하 다는데 , ( 이 ) 근호 만 의 장점 이 있 다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O O PER-B PER-I PER-I PER-I O O O O O O O
+또 통합 문화 바우처 인 ‘ 문화 누리 카드 ’ 대상자 를 전년 대비 7.6 % 늘려 155 만 명 이상 의 기초 · 차 상위 계층 이 문화 예술 관람 의 혜택 을 받 게 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 문화 가 있 는 날 확대 ’ 소식 을 접한 누리 꾼 들 은 “ 문화 가 있 는 날 확대 , 좋 은 생각 입니다 ” ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 미국 과 의 합의 는 이런 북한 의 사정 이 나타난 것 이 죠 .	O ORG-B O O O O O ORG-B O O O O O O O O
+복 층 형 ( 56 실 ) 과 원룸 형 ( 56 실 ) 2 개 로 선호도 가 높 은 전용면적 ( 17.8940 m ² ) 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+中 사업 협력 - 투자 확대 논의	ORG-B O O O O O O

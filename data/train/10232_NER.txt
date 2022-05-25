@@ -1,13 +1,13 @@
-한국미술품감정협회에 따르면 인기 있는 여인상은 5호 크기가 이미 4억원선에 거래되고 있다 .	ORG-B O O O O O O O MNY-B O O O
-성적으로 왜곡되+ㄴ 인식을 가지+ㄴ 후견인 밑에서 자라 +ㄴ 일본인 히데코를 연기하+ㄴ 김민희는 배우가 어디까지도 전 하+ㄹ 수 있는지, 그 한계를 스스로 부수+ㄴ다 .	O O O O O O O O O PER-B O PER-B O O O O O O O O O O O
-경찰이 확인 하+ㄴ 결과 신씨는 공무집행방해 등 전과 20범이었다 .	O O O O O O O O O O
-신씨는 경찰에서 "음주단속에 적발되+어면허가 취소되+ㄴ 상태+이라 경찰에 불만이 많았다"며 "경찰이 전과자를 만들는 것 같아서 화가 나 +아서 그렇었다"고 진술하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-2013년 당시는 암 환자 30명의 유전체 정보만이 저장되+ㄴ 상황으로 초기 단계+이었다 .	O O O O O O O O O O O O
-우수작으로는 ‘스마일’(김중혁) ‘나를 혐오하게 되+ㄹ 박창수에게’(이기호) ‘부루마블에 평양이 있다면’(윤고은) ‘눈 속의 사람’(조해진) ‘코드번호 1021’(한지수)이 선정되었다 .	O PER-B O O O PER-B O O PER-B O O PER-B O PER-B O O
-다섯 살 때 엄마·아빠가 남남으로 갈라서 +ㄴ 뒤 나는 쭉 아빠와 살았다 .	O O O O O O O O O O O O O
-그러면서 “재단법인 미르와 K스포츠 설립, 최씨의 이권 개입에 직간접적으로 도움을 주+ㄴ 대통령의 행위는 기업의 재산권을 침해하였을 뿐만 아니라, 기업 경영의 자유를 침해하+ㄴ 것”이라며 “박 대통령의 지시 또는 방치에 따르 아직 무상비밀에 해당하는 많은 문건이 최씨에게 유출되+ㄴ점은 국가공무원법의 비밀 엄수의무를 위배하였다”고 단언하였다 .	O O ORG-B ORG-B O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O
-박씨가 지니+ㄴ 두 개의 직함 역시 봉제공장과 사랑채의 아이러니 못잖게 아름답ㄴ 부조화+이다 .	PER-B O O O O O O O O O O O O
-AP에 따르면 바그다드 남동부나흐라완 지역에서 폭탄을 싣은 3t짜리 트럭이 폭발하+여 최소 21명이 숨지고 42명이 다치었다 .	O O LOC-B LOC-B O O O O O O O O O O O O
-10년 동안 국내외에서 1500번 무대에서 +었다 .	O O O O O O O
-본선 출전국이 32개국에서 48개국으로 늘어나 +ㄴ 만큼 한 국가가 홀로 대회를 개최하는 것은 버겁다”고 FIFA 내부 분위기를 전하였다 .	O O O O O O O O O O O O O O ORG-B O O O O
-<2> 문제의 근원을 공략하 .	O O O O O
+한국 미술품 감정 협회 에 따르 면 인기 있 는 여인상 은 5 호 크기 가 이미 4 억 원 선 에 거래되 고 있 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+성적 으로 왜곡된 인식 을 가진 후견인 밑 에서 자란 일본인 히데코 를 연기한 김민희 는 배우 가 어디 까지 도전할 수 있 는지 , 그 한계 를 스스로 부순다 .	O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O
+경찰 이 확인한 결과 신 씨 는 공무 집행 방해 등 전과 20 범 이 었 다 .	O O O O O O O O O O O O O O O O O O
+신 씨 는 경찰 에서 " 음주 단속 에 적발돼 면허 가 취소된 상태 라 경찰 에 불만 이 많 았 다 " 며 " 경찰 이 전과자 를 만드 는 것 같 아서 화 가 나서 그 랬 다 " 고 진술 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2013 년 당시 는 암 환자 30 명 의 유전체 정보 만 이 저장된 상황 으로 초기 단계 였 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+우수 작 으로 는 ‘ 스마일 ’ ( 김중혁 ) ‘ 나 를 혐오하 게 될 박창수 에게 ’ ( 이기호 ) ‘ 부루 마블 에 평양 이 있 다면 ’ ( 윤 고은 ) ‘ 눈 속 의 사람 ’ ( 조해진 ) ‘ 코드 번호 1021 ’ ( 한 지수 ) 이 선정 됐 다 .	O O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O PER-B PER-I O O O O O O O O PER-B O O O O O O O PER-B PER-I O O O O O O
+다섯 살 때 엄마 · 아빠 가 남남 으로 갈라선 뒤 나 는 쭉 아빠 와 살 았 다 .	O O O O O O O O O O O O O O O O O O O O
+그러 면서 “ 재단 법인 미르 와 K 스포츠 설립 , 최 씨 의 이권 개입 에 직간접 적 으로 도움 을 준 대통령 의 행위 는 기업 의 재산권 을 침해하 였 을 뿐 만 아니 라 , 기업 경영 의 자유 를 침해한 것 ” 이 라며 “ 박 대통령 의 지시 또는 방치 에 따 라 직무 상 비밀 에 해당하 는 많 은 문건 이 최 씨 에게 유출된 점 은 국가 공무원 법 의 비밀 엄수 의무 를 위배 했 다 ” 고 단언 했 다 .	O O O O O ORG-B O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+박 씨 가 지닌 두 개 의 직함 역시 봉제 공장 과 사랑채 의 아이러니 못잖 게 아름다 운 부조화 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+AP 에 따르 면 바그다드 남동 부 나흐라완 지역 에서 폭탄 을 실 은 3 t 짜리 트럭 이 폭발해 최소 21 명 이 숨지 고 42 명 이 다 쳤 다 .	O O O O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+10 년 동안 국내외 에서 1500 번 무대 에 섰 다 .	O O O O O O O O O O O O
+본선 출전 국 이 32 개국 에서 48 개국 으로 늘어난 만큼 한 국가 가 홀로 대회 를 개최하 는 것 은 버겁 다 ” 고 FIFA 내부 분위기 를 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+< 2 > 문제 의 근원 을 공략하 다	O O O O O O O O O

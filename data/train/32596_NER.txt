@@ -1,13 +1,13 @@
-예고 없이 닥치+ㄴ 위기 앞에 주춤거리며 소통에 실패하는 바람에 벼랑 끝까지 내몰리었던 5개월 전 광우병 사태에 대하+ㄴ 반성에서 +이었다 .	O O O O O O O O O O O O O O O O O O O O
-메르스 부실 대처로 방미 연기 지난해 세월호 침몰 앞에 우왕좌왕하였던 박근혜 정부는 메르스 사태에서는 무엇이 달라지었나. 바레인에서 농작물을 재배하던 1번 환자에 대하+ 여병원의사가 질병관리본부에 확진검사를 요청하였으나 질병관리본부는 “바레인은 메르스 발생국이 아니다”며 거부하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이영덕 국무총리와 박관용 대통령 비서실장은 수시로 김 대통령에게 업무보고를 하+ㄹ 예정이다 .	PER-B O PER-B O O O PER-B O O O O O
-아마존은 이를 통하+여 2013년 총 18만 종의 책을 출간하였다 .	ORG-B O O O O O O O O O
-보현윈드오케스트라는 박기웅 보현의집 자활센터장(41)과 영등포구가 노숙인의 자활의지를 북돋아주기 위하+여구성하였다 .	ORG-B PER-B ORG-B O ORG-B ORG-I ORG-I O O O
-한편 경기 중반 공동선두로 나서+어 통산 4승째를 노린 홍란(30·삼천리)은 1타가 모자라 +아정슬기(21·PNS 창호)와 함께 공동 2위(10언더파 209타)로 마무리하였다 .	O O O O O O O O ORG-B O O ORG-B ORG-I O O O O O O
-‘석촌호수 수위 저하’ 서울시가 송파구 석촌호수의 물 빠짐 현상을 제2롯데월드와 지하철 9호선을 비롯하+ㄴ 주변 대형 건축물 8곳의 공사 영향을 복합적으로 받은 것으로 최종 결론 짓었다 .	LOC-I O O ORG-B LOC-B LOC-I O O O LOC-B LOC-B LOC-I O O O O O O O O O O O O O O
-서울시는 지난해 8월 한국농어촌공사에 의뢰하+ㄴ ‘석촌호수 수위 저하 원인 조사 및 평가’ 용역 결과를 6일 이같이 밝히었다 .	ORG-B O O ORG-B O LOC-B O O O O O O O O O O O O
-공정위는 명절 피해를 입지 않으려면 ▶최소 1주일 이상 시간을 두고 배송 주문을 하고 ▶운송장에 물품 종류와 수량, 가격을 정확히 기재하라고 조언하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-이코노미 클래스 증후군의 의학적 병명은 ‘심부정맥혈전증’(DVT, DeepVeinThrom bos is)이다 .	O O O O O O O O O O
-단 5년 후에 +ㄴ저+의 발로 걷어서 나가+아야 하+ㄴ다 .	O O O O O O O O O
-한국거래소는 올해 2월까지 코스피의 일중 변동성 평균이 0.65%+이었다고 13일 발표하였다 .	ORG-B O O O O O O O O O O
-한 부장검사는 파견 직전까지 대우조선해양 비리를 수사하였다 .	PER-B O O O ORG-B O O O
+예고 없이 닥친 위기 앞 에 주춤거리 며 소통 에 실패하 는 바람 에 벼랑 끝 까지 내몰 렸 던 5 개월 전 광우병 사태 에 대한 반성 에서 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+메르스 부실 대처 로 방 미 연기 지난해 세월호 침몰 앞 에 우왕좌왕 했 던 박근혜 정부 는 메르스 사태 에서 는 무엇 이 달라 졌 나 . 바레인 에서 농작물 을 재배하 던 1 번 환자 에 대해 병원 의사 가 질병 관리 본부 에 확진 검사 를 요청 했 으나 질병 관리 본부 는 “ 바레인 은 메르스 발생 국 이 아니 다 ” 며 거부 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이영덕 국무총리 와 박관용 대통령 비서실 장 은 수시로 김 대통령 에게 업무 보고 를 할 예정 이 다 .	PER-B O O PER-B O O O O O PER-B O O O O O O O O O O
+아마존 은 이 를 통해 2013 년 총 18 만 종 의 책 을 출간 했 다 .	ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O
+보현 윈드 오케스트라 는 박기웅 보현 의 집 자활 센터 장 ( 41 ) 과 영등포구 가 노숙인 의 자활 의지 를 북돋 아 주 기 위해 구성 했 다 .	O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O ORG-B O O O O O O O O O O O O O O O
+한편 경기 중반 공동 선두 로 나서 통산 4 승째를노린 홍란 ( 30 · 삼천리 ) 은 1 타가 모자라 정슬기 ( 21 · PNS 창호 ) 와 함께 공동 2 위 ( 10 언더파 209 타 ) 로 마무리 했 다 .	O O O O O O O O O O PER-B O O O ORG-B O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+‘ 석촌호수 수위저하 ’ 서울시 가 송파구 석촌호수 의 물 빠짐 현상 을 제 2 롯데월드 와 지하철 9 호 선 을 비롯한 주변 대형 건축물 8 곳 의 공사 영향 을 복합적 으로 받 은 것 으로 최종 결론 지 었 다 .	O LOC-B O O ORG-B O LOC-B LOC-I O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+서울시 는 지난해 8 월 한국 농어촌 공사 에 의뢰한 ‘ 석촌호수 수위저하 원인 조사 및 평가 ’ 용역 결과 를 6 일 이 같이 밝 혔 다 .	ORG-B O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O LOC-B O O O O O O O O O DAT-B DAT-I O O O O O O
+공정 위 는 명절 피해 를 입 지 않 으려면 ▶ 최소 1 주일 이상 시간 을 두 고 배송 주문 을 하 고 ▶ 운송장 에 물품 종류 와 수량 , 가격 을 정확히 기재하 라고 조언 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이코노미 클래스 증후군 의 의학적 병명 은 ‘ 심 부정맥 혈전증 ’ ( DVT , Deep Vein Thrombosis ) 이 다 .	O O O O O O O O O O O O O O O O O O O O O O
+단 5 년 후 엔 제 발 로 걸 어서 나가야 한다 .	O O O O O O O O O O O O O
+한국거래소 는 올해 2 월 까지 코스피 의 일 중 변동성 평균 이 0.65 % 였 다고 13 일 발표 했 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I O O O O
+한 부장 검사 는 파견 직전 까지 대우조선해양 비리 를 수사 했 다 .	PER-B O O O O O O ORG-B O O O O O O

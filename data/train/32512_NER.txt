@@ -1,9 +1,9 @@
-이기권 고용노동부 장관(58·사진)은 19일 동아일보와의 인터뷰에서 “고용률 70% 이상, 1인당 국민소득 3만달러 이상이+ㄴ 국가들은 자녀 양육 시기에 부모 한 명이 시간선택제로 일하면서 아이를 돌보는 고용구조가 자리 잡았다”며 이같이 말하였다 .	PER-B ORG-B O O O O ORG-B O O O O MNY-B O O O O O O O O O O O O ORG-B O O O O O
-[베이스볼 브레이크] 손아섭, ML에어필 하+ㄹ 확실 하+ㄴ 무기 없었 .	O O PER-B ORG-B O O O O O O
-1세트에 주춤하였던 마틴은 2세트에만 7점을 올리며 공격을 주도하였다 .	O O PER-B O O O O O O
-지프 브랜드의 SUV 라인업을 완성하는 올-뉴 레니게이드는 지프 최초의 모델 윌리스 MB와 최강의 오프로더 랭글러의 피를 이어받은 정통 소형 SUV 모델이다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O
-2015년 3월 22일 일요일 맑음.목, 숨.150SonghoyBlues ‘Sou bour’(2013년) 캐나다록 밴드러쉬의 노래 ‘2112’(1976년)는 음악판 ‘1984’(조지 오웰) +이다 .	O O O O O O O O LOC-B ORG-B O O O PER-B PER-I O O
-광복절 당일 이+ㄴ 15일에는 815 콜라(250ml·30개)를 815개 한정수량으로 준비 하+여 반값 수준이 +ㄴ 8550원에 판매 하+ㄴ다 .	O O O O O O O O O O O O O MNY-B O O O
-장우혁은 전날 밤 지인들과 술자리를 가지었다고 알려지었다 .	PER-B O O O O O O O
-적극 투자형의 수수료는 0.7%+이다 .	O O O O O
-대우증권은 자산배분 결정위원회의 의견과 랩(Wrap) 운용부가 자체 개발하+ㄴ자산배분 모델을 결합하+여 모델 포트폴리오를 구성하였다 .	ORG-B ORG-B ORG-I O ORG-B ORG-I O ORG-B O O O O O O
+이기권 고용 노동부 장관 ( 58 · 사진 ) 은 19 일 동아일보 와 의 인터뷰 에서 “ 고용 률 70 % 이상 , 1 인 당 국민 소득 3 만 달러 이상 인 국가 들 은 자녀 양육 시기 에 부모 한 명 이 시간 선택 제 로 일하 면서 아이 를 돌보 는 고용 구조 가 자리 잡 았 다 ” 며 이같이 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 베이스볼 브레이크 ] 손아 섭 , ML 에 어필할 확실한 무기 없 었 다	O O O O PER-B PER-I O ORG-B O O O O O O O
+1 세트 에 주춤 했 던 마틴 은 2 세트 에 만 7 점 을 올리 며 공격 을 주도 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O
+지프 브랜드 의 SUV 라인업 을 완성하 는 올 - 뉴 레니게이드 는 지프 최초 의 모델 윌리스 MB 와 최강 의 오 프로 더 랭글러 의 피 를 이어받 은 정통 소형 SUV 모델 이 다 .	ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+2015 년 3 월 22 일 일요일 맑 음 . 목 , 숨 . # 150 Songhoy Blues ‘ Soubour ’ ( 2013 년 ) 캐나다 록 밴드 러쉬 의 노래 ‘ 2112 ’ ( 1976 년 ) 는 음악 판 ‘ 1984 ’ ( 조지 오웰 ) 다 .	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I DAT-B O O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B O O ORG-B O O O O O O DAT-B DAT-I O O O O O O O O PER-B PER-I O O O
+광복절 당일 인 15 일 에 는 815 콜라 ( 250 ml · 30 개 ) 를 815 개 한정 수량 으로 준비해 반값 수준 인 8550 원 에 판매한다 .	DAT-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O O O
+장우혁 은 전날 밤 지인 들 과 술자리 를 가 졌 다고 알려 졌 다 .	PER-B O O O O O O O O O O O O O O O
+적극 투자 형 의 수수료 는 0.7 % 다 .	O O O O O O O O O O
+대우증권 은 자산 배분 결정 위원 회의 의견 과 랩 ( Wrap ) 운용 부 가 자체 개발한 자산 배분 모델 을 결합해 모델 포트폴리오 를 구성 했 다 .	ORG-B O ORG-B ORG-I ORG-I ORG-I O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O

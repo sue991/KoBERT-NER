@@ -1,13 +1,13 @@
-‘범죄의 여왕’은 1989년 연기를 시작하+ㄴ 박지영이 보이어주는 가장 과감하 +ㄴ 연기로 기억되+ㄹ 가능성이 크다 .	O O O O O PER-B O O O O O O O O O
-샘넌 위원장과 미 상원 외교위 소속 이+ㄴ 리처드 루거의원은 이날 일본 방문을 마치고 한국으로 떠나기 앞서 주일 미 대사관에서기자회견을 갖고 이 같은 입장을 밝히면서 외교적 노력을 통하+여 북한이 2개 미신고 핵시설에 대하+ㄴ국제원자력기구(IAEA)의 사찰을 수락하도록 만들어야 하+ㄹ 것이라며 외교를 통하+ㄴ 사태 해결방안을 지지하였다 .	PER-B ORG-I LOC-I ORG-I ORG-I O O PER-B PER-I O LOC-B O O LOC-B O O LOC-B LOC-I LOC-I O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O
-노 전 국장이 진짜 나쁘다는 것 +ㄴ 아니고, 박근혜 대통령의 표현을 빌리자면 그렇다는 것+이+ㅂ니다 .	PER-B O O O O O O O PER-B O O O O O O
-이 신임 이사장은 교육인적자원부 차관, 가톨릭관동대 총장 등을 역임하였다 .	PER-B O PER-B ORG-B O ORG-B O O O O
-투병중 별세 김상순, "다시 태어나 +아도 배우로 살고 싶다" 원로배우 김상순이 25일 별세하였다 .	O O PER-B O O O O O O O PER-B O O O
-‘대출 한 달 뒤 예금 강요’ … 금감원, 편법적 ‘꺾기’ 점검나서+ㄴ .	O O O O O O O ORG-B O O O O
-정의윤은 2일 경기 홈런의 좋은 기억을 안고, 3일에도 친정팀에 비수를 꽂았다 .	PER-B O O O O O O O O O O O
-공화당 대선 후보 도널드 트럼프가 최근 북대서양 조약기구(NATO·나토) 회원국이 러시아의 공격을 받더라도 미국은 ‘자동 개입’하지 않겠다고 주장 하+ㄴ 것과 관련 하+여 그는 “트럼프의 발언은 미국과 동맹국들의 깊은 우려를 자아내고 있다 .	ORG-B O O PER-B PER-B O O ORG-B O ORG-B O O ORG-B O O O O O O O O O PER-B O ORG-B O O O O O O
-블랙야크(대표 강태선)가 지나 +ㄴ 2013년 9월 블랙야크 강태선 나눔재단(사)과 블랙야크 강태선 장학재단(재)을 출범시키었다 .	ORG-B ORG-I O O O O ORG-B ORG-I ORG-I ORG-B ORG-I ORG-I O O
-‘YG괴물 신인’ 아이콘, 데뷔와 함께 음원차트 8곳에서 1위 ‘싹쓸이 .	ORG-B O ORG-B O O O O O O O
-<내부자들>에서는 조폭 두목 안상구(이병헌 분)가 검사 우장훈(조승우 분)으로 하여금 내부에 침투하도록 계획 하+ㄴ다 .	O O O PER-B O O PER-B O O O O O O O
-이 학교는 매월 한 차례 특별활동 시간에 학부모와 함께 폐식용유로 재생비누를 만들 +ㄴ다 .	O O O O O O O O O O O O O O
-또 안씨의 어머니 이+ㄴ이 사장 김모씨(91)와 돈을 주고 채용되+ㄴ교사, 브로커 등 21명을 불구속 기소하였다 .	O PER-B O O O PER-B O O O O O O O O O
+‘ 범죄 의 여왕 ’ 은 1989 년 연기 를 시작한 박지영 이 보 여 주 는 가장 과감한 연기 로 기억될 가능성 이 크 다 .	O O O O O O DAT-B DAT-I O O O PER-B O O O O O O O O O O O O O O O
+샘 넌 위원장 과 미 상원 외교 위 소속 인 리처드 루거 의원 은 이날 일본 방문 을 마치 고 한국 으로 떠나 기 앞서 주일 미 대사관 에서 기자 회견 을 갖 고 이 같 은 입장 을 밝히 면서 외교적 노력 을 통해 북한 이 2 개 미신고 핵 시설 에 대한 국제 원자력 기구 ( IAEA ) 의 사찰 을 수락 토록 만들 어야 할 것 이 라며 외교 를 통한 사태 해결 방안 을 지지 했 다 .	PER-B PER-I O O ORG-B ORG-I ORG-I ORG-I O O PER-B PER-I O O O LOC-B O O O O LOC-B O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+노 전 국장 이 진짜 나쁘 다는 건 아니 고 , 박근혜 대통령 의 표현 을 빌리 자면 그렇 다는 겁니다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O
+이 신임 이사장 은 교육 인적자원 부 차관 , 가톨릭관동대 총장 등 을 역임 했 다 .	PER-B O O O ORG-B ORG-I ORG-I O O ORG-B O O O O O O O
+투병 중 별세 김상순 , " 다시 태어나도 배우 로 살 고 싶 다 " 원로 배우 김상순 이 25 일 별세 했 다 .	O O O PER-B O O O O O O O O O O O O O PER-B O DAT-B DAT-I O O O O
+‘ 대출 한 달 뒤 예금 강요 ’ … 금감원 , 편법 적 ‘ 꺾기 ’ 점검 나선다	O O O O O O O O O ORG-B O O O O O O O O
+정의윤 은 2 일 경기 홈런 의 좋 은 기억 을 안 고 , 3 일 에 도 친정 팀 에 비수 를 꽂 았 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+공화당 대선 후보 도널드 트럼프 가 최근 북대서양조약기구 ( NATO · 나토 ) 회원국 이 러시아 의 공격 을 받 더라도 미국 은 ‘ 자동 개입 ’ 하 지 않 겠 다고 주장한 것 과 관련해 그 는 “ 트럼프 의 발언 은 미국 과 동맹국 들 의 깊 은 우려 를 자아내 고 있 다 .	ORG-B O O PER-B PER-I O O ORG-B O ORG-B O ORG-B O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O
+블랙 야크 ( 대표 강태선 ) 가 지난 2013 년 9 월 블랙야크강태선나눔재단 ( 사 ) 과 블랙 야크 강태선 장학 재단 ( 재 ) 을 출범 시 켰 다 .	ORG-B ORG-I O O PER-B O O O DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O
+‘ YG 괴물 신인 ’ 아이콘 , 데뷔 와 함께 음원 차트 8 곳 에서 1 위 ‘ 싹쓸이 ’	O ORG-B O O O ORG-B O O O O O O O O O O O O O O
+< 내부 자 들 > 에서 는 조폭 두목 안상구 ( 이병헌 분 ) 가 검사 우장훈 ( 조승우 분 ) 으로 하여금 내부 에 침투하 도록 계획한다 .	O O O O O O O O O PER-B O PER-B O O O O PER-B O PER-B O O O O O O O O O O
+이 학교 는 매월 한차례 특별 활동 시간 에 학부모 와 함께 폐 식용유 로 재생 비누 를 만든다 .	O O O O O O O O O O O O O O O O O O O O
+또 안 씨 의 어머니 인 이사장 김 모 씨 ( 91 ) 와 돈 을 주 고 채용된 교사 , 브로커 등 21 명 을 불구속 기소 했 다 .	O PER-B O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O

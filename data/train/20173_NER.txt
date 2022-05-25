@@ -1,14 +1,14 @@
-미국 주도의 국제동맹군은 이틀 동안이라크 북부 유전지대를 9차례, 시리아 코바니 등지를 3차례 공습하면서 IS를 압박하였다 .	ORG-B O O O ORG-B O O O LOC-B LOC-I O O O ORG-B O O
-한국감정원이 2013년 4분기부터 2016년 2분기까지 조사하+ㄴ 상업용 부동산 공실률에 따르면 10.7%(2013년 4분기)를 기록하+ㄴ이래 13.4%(2016년 2분기)로 계속 상승 중이다 .	ORG-B O O O O O O O O O O O O O O O O O O
-23~24일 국내 최초 국제공인 승마대 .	O O O O O O
-다음 한 수는 어디 이+ㄹ까.해설=김승준 9단·글=윤양섭 전문기자 온라인 기보, 대국실, 생중계는 동아바둑(badu k. donga. com .	O O O O PER-B PER-B O O O O O O O O O O
-‘만능 오일’ 백 선생, 과거 쏟아지는 CF 거절 하+ㄴ이유는 .	O O PER-B PER-I O O O O O O
-서초구 반포동 반포자 이·서초동 아크로비스타, 강남구 청담동 휴먼스타빌·엘지빌라도 월세가 1000만원이 넘었다 .	LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O MNY-B O O
-군사정보 관계자는 “인민을 먹이+ㄹ옥수수를 사+ㄹ 수 있는 자금을 남침 조짐이 한국 측에 발각되는 시간을 늘리는 데 투자하였다”고 평가하였다 .	O O O O O O O O O O ORG-B O O O O O O O O
-○ 체첸 공정부 함락부 .	O O O O O
-드라이브샷의 페어웨이 적중률은 100%로 끝내 +었다 .	O O O O O O O
-쩔쩔매는 두 개그맨 유민상·김대성의 반응, 그렇+ㅁ에도 밀어붙이는 진행자 박영진의 리듬이 웃음을 낳는다 .	O O O PER-B O O O O PER-B O O O O
-또 라면은 공급능력이 연간 58억개 이+ㄴ 데 비 하+ 여수 요량은 연간 37억개, 햄은 공급능력이 연간 11만6천t 이+ㄴ 데 비 하+ 여수 요량은 8만1천t에 그치+어 각각 공급능력이 수요량의 1백60%와 1백40%에 달하고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘해피투게더빅뱅’ KBS 2 ‘해피투게더3’에 빅뱅이 출연을 예고하+ 여화제+이다 .	ORG-B O O O ORG-B O O O O
-‘해피투게더3’ 측은 11일 인기 남성그룹 빅뱅 멤버 전원이 프로그램에 출연하+ㄴ다고 전하였다 .	O O O O O ORG-B O O O O O O
-빅뱅은 최근 신곡 ‘루저(los er)’와 ‘베베(BaeBae)’로 컴백하였지만, 음악 프로그램 외 방송 출연은 하고 있지 않은 상황이다 .	ORG-B O O O O O O O O O O O O O O O O
+미국 주도 의 국제 동맹군 은 이틀 동안 이라크 북부 유전 지대 를 9 차례 , 시리아 코바 니 등지 를 3 차례 공습하 면서 IS 를 압박 했 다 .	ORG-B O O O O O O O ORG-B O O O O O O O LOC-B LOC-I LOC-I O O O O O O ORG-B O O O O O
+한국감정원 이 2013 년 4 분기 부터 2016 년 2 분기 까지 조사한 상업 용 부동산 공실률 에 따르 면 10.7 % ( 2013 년 4 분기 ) 를 기록한 이래 13.4 % ( 2016 년 2 분기 ) 로 계속 상승 중 이 다 .	ORG-B O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+23 ~ 24 일 국내 최초 국제 공인 승마 대회	O O O O O O O O O O
+다음 한 수 는 어디 일까 . 해설 = 김승준 9 단 · 글 = 윤양섭 전문 기자 온라인 기보 , 대국 실 , 생 중계 는 동아 바둑 ( baduk . donga . com )	O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+‘ 만능 오일 ’ 백 선생 , 과거 쏟아지 는 CF 거절한 이유 는 ?	O O O O PER-B PER-I O O O O O O O O O
+서초구 반포동 반포 자이 · 서초동 아크로 비스타 , 강남구 청담동 휴먼 스타 빌 · 엘지 빌라도 월세 가 1000 만 원 이 넘 었 다 .	LOC-B LOC-B LOC-B LOC-I O LOC-B LOC-B LOC-I O LOC-B LOC-B LOC-B LOC-I LOC-I O LOC-B O O O MNY-B MNY-I MNY-I O O O O O
+군사 정보 관계자 는 “ 인민 을 먹일 옥수수 를 살 수 있 는 자금 을 남침 조짐 이 한국 측 에 발각되 는 시간 을 늘리 는 데 투자 했 다 ” 고 평가 했 다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+○ 체첸공 정부 함락 부인	O ORG-B O O O
+드라이브 샷 의 페어웨이 적중률 은 100 % 로 끝냈 다 .	O O O O O O O O O O O O
+쩔쩔매 는 두 개그맨 유민상 · 김대성 의 반응 , 그럼에도 밀어붙이 는 진행자 박영진 의 리듬 이 웃음 을 낳 는다 .	O O O O PER-B O PER-B O O O O O O O PER-B O O O O O O O O
+또 라면 은 공급 능력 이 연간 58 억 개 인데 비해 수요량 은 연간 37 억 개 , 햄 은 공급 능력 이 연간 11 만 6 천 t 인데 비해 수요량 은 8 만 1 천 t 에 그쳐 각각 공급 능력 이 수요량 의 1 백 60 % 와 1 백 40 % 에 달하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 해피투게더 빅뱅 ’ KBS 2 ‘ 해피투게더 3 ’ 에 빅뱅 이 출연 을 예고해 화제 다 .	O O ORG-B O O O O O O O O ORG-B O O O O O O O
+‘ 해피투게더 3 ’ 측 은 11 일 인기 남성 그룹 빅뱅 멤버 전원 이 프로그램 에 출연한다고 전 했 다 .	O O O O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O
+빅뱅 은 최근 신곡 ‘ 루저 ( loser ) ’ 와 ‘ 베베 ( Bae Bae ) ’ 로 컴백 했 지만 , 음악 프로그램 외 방송 출연 은 하 고 있 지 않 은 상황 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

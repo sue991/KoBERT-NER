@@ -1,12 +1,12 @@
-스마일게이트 메가포트는 모바일 역할 수행 게임(RPG) ‘드래곤 페이트’가 출시 4주 만에 50만 다운로드를 돌파하였다고 20일 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
-영국에서 태어나 +아4살 때 미국으로 이민한 마크는 영국식 정원을 가꾸는 한편 뜰한 구석에 포도나무를 심어 해마다 포도주를 담그+ㄴ다 .	LOC-B O O O LOC-B O PER-B LOC-B O O O O O O O O O O O
-국회 예산정책처의 ‘장기재정전망 보고서’에 따르면 2014년부터 2060년까지 정부의 총수입은 연평균 3.6% 증가하는 데 비하+여 총지출은 매년 4.6%씩 늘어나 +아적자가 갈수록 커지+ㄹ 수밖에 없다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O
-조석래 회장, 해외 BW차명거래로 ‘차익 19억’ 챙기+ㄴ 사실 추가로 드러나 + .	PER-B O O O O MNY-B O O O O O O
-그러나 김정은은 글라스를 다 비우려 하지 않았다 .	O PER-B O O O O O O
-2분기(4~6월)에는 전분기 대비 증가세를 기록하였지만 업체간 경쟁 심화 등 경영환경 밝지만은 않아 어려움이 지속되 +ㄹ 전망이다 .	O O O O O O O O O O O O O O O O O
-나나는 21일 방송되+ㄴ MBC ‘진짜 사나이’에 출연, 그동안 보+ㄹ 수 없었던 나나만의 털털 매력을 발산하며 시청자들의 눈길을 사로잡았다 .	PER-B O O O O O O O O O O PER-B O O O O O O O
-나나는 전장의 수호천사로 거듭나기 위하+ 여기 본 간호교육을 비롯하+ㄴ 실제 전장 상황에서 응급치료를 하는 등 의무부사관이 되기 위하+ㄴ혹독하+ㄴ 훈련을 받기 위하+ 여입소를 준비하는 모습을 보이어 주었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-맹기용 셰프는 22일 방송되+ㄴ종합편성채널 JTBC '냉장고를 부탁하+여'에 출연하+여그룹 소녀시대 써니의 '고기보다 맛있는 해산물 요리' 대결에서 오징어를 사용하+ㄴ '오시지' 요리를 선보이었다 .	PER-B O O O O O O O ORG-B PER-B O O O O O O O O O O O
-이주열, 국책銀 ‘자본확충펀드’의 .	PER-B O O O
-‘독도는 한국땅’ 벨기에서 특별 .	O O LOC-B O O
-김기춘 전 대통령 비서실장(78)의 이른바 '문화·예술인 블랙리스트' 관련 과거 발언이 1일 공개되었다 .	PER-B O O O O O O O O O O O O
+스마일 게이트 메가 포트 는 모바일 역할 수행 게임 ( RPG ) ‘ 드래곤 페이트 ’ 가 출시 4 주 만 에 50 만 다운로드 를 돌파 했 다고 20 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+영국 에서 태어나 4 살 때 미국 으로 이민 한 마크 는 영국 식 정원 을 가꾸 는 한편 뜰 한구석 에 포도 나무 를 심 어 해마다 포도주 를 담근다 .	LOC-B O O O O O LOC-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+국회 예산 정책 처 의 ‘ 장기 재정 전망 보고서 ’ 에 따르 면 2014 년 부터 2060 년 까지 정부 의 총수입 은 연평균 3.6 % 증가하 는 데 비해 총지출 은 매년 4.6 % 씩 늘어나 적자 가 갈수록 커질 수 밖에 없 다 .	ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+조석래 회장 , 해외 BW 차명 거래 로 ‘ 차익 19 억 ’ 챙긴 사실 추가 로 드러나	PER-B O O O O O O O O O MNY-B MNY-I O O O O O O
+그러나 김정은 은 글라스 를 다 비우 려 하 지 않 았 다 .	O PER-B O O O O O O O O O O O O
+2 분기 ( 4 ~ 6 월 ) 에 는 전 분기 대비 증가세 를 기록 했 지만 업체 간 경쟁 심화 등 경영 환경 밝 지 만 은 않 아 어려움 이 지속될 전망 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+나나 는 21 일 방송된 MBC ‘ 진짜 사나이 ’ 에 출연 , 그 동안 볼 수 없 었 던 나 나 만 의 털털 매력 을 발산하 며 시청자 들 의 눈길 을 사로잡 았 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+나나 는 전장 의 수호천사 로 거듭나 기 위해 기본 간호 교육 을 비롯한 실제 전장 상황 에서 응급 치료 를 하 는 등 의무 부사관 이 되 기 위한 혹독한 훈련 을 받 기 위해 입소 를 준비하 는 모습 을 보 여 주 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+맹기 용 셰프 는 22 일 방송된 종합 편성 채널 JTBC ' 냉장고 를 부탁해 ' 에 출연해 그룹 소녀 시대 써니 의 ' 고기 보다 맛있 는 해산물 요리 ' 대결 에서 오징어 를 사용한 ' 오 시 지 ' 요리 를 선보 였 다 .	PER-B PER-I O O DAT-B DAT-I O O O O O O O O O O O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이주열 , 국책 銀 ‘ 자본 확충 펀드 ’ 의미	PER-B O O O O O O O O O
+‘ 독도 는 한국 땅 ’ 벨기 에서 특별 전	O O O O O O LOC-B O O O
+김기춘 전 대통령 비서실 장 ( 78 ) 의 이른바 ' 문화 · 예술인 블랙리스트 ' 관련 과거 발언 이 1 일 공개 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O

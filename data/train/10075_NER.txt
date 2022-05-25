@@ -1,16 +1,16 @@
-시진핑의 친민형 상다지기는 시각적으로도 계속 되+ㄴ다 .	PER-B O O O O O O
-경찰은 종합교통정보센터 폐쇄회로(CC) TV를 통하+ㄴ 24시간 모니터링과 신속대응팀 활동을 강화하+ㄹ 계획이다 .	O O O O O O O O O O O O
-현재 말라카 해협을 통하+여세계 해상무역의 40%가 이루어지고 있다 .	O LOC-B LOC-I O O O O O O
-이는 전문가들이 핵심 안건들에 대하+여심층적으로 의견을 교환하고 해결방안을 제시하기 위하+ㄴ 행사 이+ㄴ데, 이번 GEC+DAEGU가 명실상부하게 처음으로 개최되는 행사이다 .	O O O O O O O O O O O O O O O O O O O
-문제는 일자리의 질 한국은 중장년 고용률이 높은 국가로 꼽히+ㄴ다 .	O O O ORG-B O O O O O O
-장씨는 골동품 및 부동산을 처분하+ 여돈을 마련하려고 필사적 이+ㄴ 노력을 하고 있으나 삼보금고 등에 약속하+ㄴ 결제 시한 이+ㄴ 21일을 또 넘기고 말았다 .	PER-B O O O O O O O O O O O ORG-B O O O O O O O O O O
-복면가왕 해바라기, 도끼 꺾고 2라운드 진출 …도끼는 이단옆 차기 '화제 .	O PER-B PER-B O O O PER-B PER-B PER-I O O
-이 지역에 살는 한 학부모는 “대치동은 한 반에 의사 부모가 10명이 넘을 정도+이고, 그 중에 +ㄴ삼성서울병원의사도 상당수+이라 아이들의 감염이 우려되 +ㄴ다는 이야기가 많았다”고 말하였다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
-올해도 SUV 시장 판매 1위로 인기를 잇어가고 있다 .	O O O O O O O O O
-이 제품은 ‘2015 한국 굿디자인’ 및 ‘2016 독일 iF 디자인 어워드’에서도 본상을 수상하며 디자인 우수성을 입증받은 제품이다 .	O O O O O O O O O O O O O O O O O O
-정택균 금호타이어 연구기술본부 전무는 "이번 일본 굿디자인 어워드 수상을 통하+여 세계 4대 디자인 어워드를 모두 석권하며 금호타이어의 디자인 경쟁력을 인정받았다”며 “앞으로도 첨단 기술력과 품질을 바탕으로 제품 및 디자인 역량을 강화하여 글로벌 타이어 메이커로서의 위상을 높이어가겠다”라고 말하였다 .	PER-B ORG-B O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-앞서 1999년 경마공원 건설 당시 부산시, 경남도와 체결하+ㄴ 합의서에는 고객 수송 수단 지원이 들어 있었다 .	O O LOC-B O O ORG-B ORG-B O O O O O O O O O
-연출은 영화 '용의자' '세븐데이즈'의 원신연 감독이 맡는다 .	O O O O PER-B O O O
-강원FC 조태룡 대표이사는 넥센 히어로즈 단장을 지내+었던 인물이라, 이번 강원랜드와의 네이밍스폰서 계약에도 크+ㄴ 역할을 담당하였을 것으로 보이+ㄴ다 .	ORG-B PER-B O ORG-B ORG-I O O O O ORG-B O O O O O O O O
-그 결과, 외식 하+ㄹ 때는 집에서 보다 평균 205㎉ 더 섭취하고 설탕·포화지방·소금은 각각 3.95g, 2.52g, 451㎎ 더 섭취하는 것으로 나타나 +았다 .	O O O O O O O O O O O O O O O O O O O O O O
-도시락이 건강에 좋은 이유 김 교수는 “외국의 국민건강영양조사 자료를 이용하+ㄴ 연구에서도 집밥을 평균 주 1회 이하로 먹는 사람은 주 6~7회 먹는 사람에 비하+여식사의 질이 낮고, 지방이나 단순당 섭취량이 유의하게 더 많았다”고 강조하였다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시진핑 의 친 민 형상 다지기 는 시각적 으로 도 계속된다 .	PER-B O O O O O O O O O O O
+경찰 은 종합 교통정보 센터 폐쇄 회로 ( CC ) TV 를 통한 24 시간 모니터링 과 신속 대응 팀 활동 을 강화할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 말라카 해협 을 통해 세계 해상 무역 의 40 % 가 이뤄지 고 있 다 .	O LOC-B LOC-I O O O O O O O O O O O O O O
+이 는 전문가 들 이 핵심 안건 들 에 대해 심층 적 으로 의견 을 교환하 고 해결 방안 을 제시하 기 위한 행사 인데 , 이번 GEC + DAEGU 가 명실상부하 게 처음 으로 개최되 는 행사 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문제 는 일자리 의 질 한국 은 중 장년 고용 률 이 높 은 국가 로 꼽힌다 .	O O O O O ORG-B O O O O O O O O O O O O
+장 씨 는 골동품 및 부동산 을 처분해 돈 을 마련하 려고 필사적 인 노력 을 하 고 있 으나 삼보 금고 등 에 약속한 결제 시한 인 21 일 을 또 넘기 고 말 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O DAT-B DAT-I O O O O O O O O
+복면 가왕 해바라기 , 도끼 꺾 고 2 라운드 진출 … 도끼 는 이단 옆 차기 ' 화제 '	O O PER-B O PER-B O O O O O O PER-B O PER-B PER-I PER-I O O O
+이 지역 에 사 는 한 학부모 는 “ 대치동 은 한 반 에 의사 부모 가 10 명 이 넘 을 정도 고 , 그 중 엔 삼성서울병원 의사 도 상당수 라 아이 들 의 감염 이 우려된다는 이야기 가 많 았 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+올해 도 SUV 시장 판매 1 위 로 인기 를 이 어 가 고 있 다 .	O O O O O O O O O O O O O O O O O
+이 제품 은 ‘ 2015 한국 굿 디자인 ’ 및 ‘ 2016 독일 iF 디자인 어워드 ’ 에서 도 본 상 을 수상하 며 디자인 우수성 을 입증 받 은 제품 이 다 .	O O O O DAT-B O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O
+정택균 금호타이어 연구 기술 본부 전무 는 " 이번 일본 굿디자인 어워드 수상 을 통해 세계 4 대 디자인 어워드 를 모두 석권하 며 금호타이어 의 디자인 경쟁력 을 인정받 았 다 ” 며 “ 앞 으로 도 첨단 기술력 과 품질 을 바탕 으로 제품 및 디자인 역량 을 강화하 여 글로벌 타이어 메이커 로서 의 위상 을 높 여 가 겠 다 ” 라고 말 했 다 .	PER-B ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 1999 년 경마 공원 건설 당시 부산 시 , 경남도 와 체결한 합의서 에 는 고객 수송 수단 지원 이 들 어 있 었 다 .	O DAT-B DAT-I LOC-B LOC-I O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O
+연출 은 영화 ' 용의자 ' ' 세븐 데이즈 ' 의 원신연 감독 이 맡 는다 .	O O O O O O O O O O O PER-B O O O O O
+강원 FC 조태룡 대표 이사 는 넥센 히어로즈 단장 을 지냈 던 인물 이 라 , 이번 강원랜드 와 의 네이밍 스폰서 계약 에 도 큰 역할 을 담당 했 을 것 으로 보인다 .	ORG-B ORG-I PER-B O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+그 결과 , 외식할 때 는 집 에서 보다 평균 205 ㎉ 더 섭취하 고 설탕 · 포화 지방 · 소금 은 각각 3.95 g , 2.52 g , 451 ㎎ 더 섭취하 는 것 으로 나타났 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+도시락 이 건강 에 좋 은 이유 김 교수 는 “ 외국 의 국민 건강 영양 조사 자료 를 이용한 연구 에서 도 집 밥 을 평균 주 1 회 이하 로 먹 는 사람 은 주 6 ~ 7 회 먹 는 사람 에 비해 식사 의 질 이 낮 고 , 지방 이나 단순 당 섭취 량 이 유의하 게 더 많 았 다 ” 고 강조 했 다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

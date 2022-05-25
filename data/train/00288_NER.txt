@@ -1,14 +1,14 @@
-총지 점수는 30개로 늘어나 +ㄴ다 .	O O O O O O
-6월부터는 외국환은행의 업무 자율화도 크게 확대되+어갑­을 류제도가 폐지되고 일정 규모 이상 각 은행들의 해외 차입 및 해외 대출 업무가 당국과의 사전협의에서 사전보고로 바뀌게 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-카디자는 매춘부, 마약상들이 우글거리는 거리의 쓰레기 더미에서 살았지만 아침마다 헝클어지+ㄴ 머리를 다듬어 깨끗하+ㄴ 모습으로 학교에 가+았다고 하+ㅂ니다 .	PER-B O O O O O O O O O O O O O O O O O
-독도, 한국의 외교 실패 vs 일본 ‘노이즈 마케팅’ 일본의 독도 도발에 대하+여다쿠보 교수는 “전쟁하자는 것+이 아니다 .	LOC-B ORG-B O O O ORG-B O O ORG-B LOC-B O PER-B O O O O O
-서울 수서경찰서 등에 따르면 박삼봉 사법연수원장은 22일 오전 6시35분쯤 서울 강남구 대모산을 등산하+ㄴ 뒤 자택으로 가기 위 하+여수서역 부근에서 도로를 건너 .	LOC-B ORG-I O O PER-B O O O O LOC-B LOC-B LOC-B O O O O O LOC-B O O O O
-환자의 생명을 위하+여 규모보다는 내실을 다지+어오+ㄴ 고려대 안암병원이 첨단의학을 선도하는 정상급의 의료기관으로서 역량을 과시하고 있다 .	O O O O O O ORG-B ORG-I O O O O O O O O
-한국에 대하+ㄴ호기심이 참 많은 프랑스 청년 로빈과 내가 그 시간을 잇어 걷었다 .	ORG-B O O O ORG-B O PER-B O O O O O O
-때문에 타이어 공기압을 평소보다 약 10% 높게 조정하면 평소와 비슷하+ㄴ 상태를 유지하+ㄹ 수 있게 되+ㄴ다 .	O O O O O O O O O O O O O O O O
-사상 처음 기준금리 1% 시대에 접어들면서, 은행 금리보다 높은 수익률이 가능하+ㄴ 수익형 소형 오피스텔의 투자에 대하+ㄴ가치가 높아지고 있다 .	O O O O O O O O O O O O O O O O O O O
-최근 금융계에 따르면, 서울 오피스텔 평균 임대수익률은 평균 5.57%로 시중은행에 보 .	O O O LOC-B O O O O O O O O
-GS칼텍스 신인 강소휘에게 2차례 서브에이스를 내주는 등 강력 하+ㄴ서브에 흔들리며 12점을 뽑는데 그치었다 .	ORG-B O PER-B O O O O O O O O O O O
-현대건설에는 라이트 황연주가 있었다 .	ORG-B O PER-B O O
-단지 경기가 끝나 +ㄴ 다음날인 월요일은 완전하+ㄴ 휴식을 취하려 애쓰+ㅂ니다 .	O O O O O O O O O O O
-강민호는 삼성뿐만 아니라 kt에도 가장 강 하+ㄴ타자 이+ㅂ니다 .	PER-B ORG-B O ORG-B O O O O O
+총 지점 수 는 30 개 로 늘어난다 .	O O O O O O O O O
+6 월 부터 는 외국환 은행 의 업무 자율 화 도 크 게 확대돼 갑 ­ 을류 제도 가 폐지되 고 일정 규모 이상 각 은행 들 의 해외 차입 및 해외 대출 업무 가 당국 과 의 사전 협의 에서 사전 보고 로 바뀌 게 된다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+카디자 는 매춘부 , 마약상 들 이 우글거리 는 거리 의 쓰레기 더미 에서 살 았 지만 아침 마다 헝클어진 머리 를 다듬 어 깨끗한 모습 으로 학교 에 갔 다고 합니다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+독도 , 한국 의 외교 실패 vs 일본 ‘ 노이즈 마케팅 ’ 일본 의 독도 도발 에 대해 다쿠 보 교수 는 “ 전쟁하 자는 게 아니 다 .	LOC-B O ORG-B O O O O ORG-B O O O O ORG-B O LOC-B O O O PER-B PER-I O O O O O O O O O
+서울 수서 경찰서 등 에 따르 면 박삼봉 사법 연수원 장 은 22 일 오전 6 시 35 분 쯤 서울 강남구 대모산 을 등산한 뒤 자택 으로 가 기 위해 수서역 부근 에서 도로 를 건너 다	ORG-B ORG-I ORG-I O O O O PER-B O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B O O O O O O O O LOC-B O O O O O O
+환자 의 생명 을 위해 규모 보다 는 내실 을 다져 온 고려대 안암병원 이 첨단 의학 을 선도하 는 정상급 의 의료 기관 으로서 역량 을 과시하 고 있 다 .	O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+한국 에 대한 호기심 이 참 많 은 프랑스 청년 로빈 과 내 가 그 시간 을 이 어 걸 었 다 .	ORG-B O O O O O O O ORG-B O PER-B O O O O O O O O O O O O
+때문 에 타이어 공기압 을 평소 보다 약 10 % 높 게 조정하 면 평소 와 비슷한 상태 를 유지할 수 있 게 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+사상 처음 기준 금리 1 % 시대 에 접어들 면서 , 은행 금리 보다 높 은 수익률 이 가능한 수익 형 소형 오피스텔 의 투자 에 대한 가치 가 높아지 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 금융계 에 따르 면 , 서울 오피스텔 평균 임대 수익률 은 평균 5.57 % 로 시중 은행 에 보다	O O O O O O LOC-B O O O O O O O O O O O O O
+GS 칼텍스 신인 강소휘 에게 2 차례 서브 에이스 를 내주 는 등 강력한 서브 에 흔들리 며 12 점 을 뽑 는 데 그 쳤 다 .	ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+현대건설 에 는 라이트 황연주 가 있 었 다 .	ORG-B O O O PER-B O O O O O
+단지 경기 가 끝난 다음 날인 월요일 은 완전한 휴식 을 취하 려 애씁니다 .	O O O O O O DAT-B O O O O O O O O
+강민호 는 삼성 뿐 만 아니 라 kt 에 도 가장 강한 타자 입니다 .	PER-B O ORG-B O O O O ORG-B O O O O O O O

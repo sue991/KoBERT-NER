@@ -1,17 +1,17 @@
-넥센은 3라운드에서도 타임을 부르었다 .	ORG-B O O O O
-르노삼성은 전국 468개의 직영 및 협력정비 네트워크를 보유하고 있으며, 각 A/S네트워크 당 관리차량 대수는 2014년 말 기준으로 전체 등록대수 중 2966대로 나타나 +았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-2012년 9월 정부 부처의 세종시 이전이 시작되+ㄴ지 이달로만 3년이 되면서 서울-세종으로 이원화 되+ㄴ 조직의 문제점이 속속 드러나고 있다 .	O O O O LOC-B O O O O O LOC-B O O O O O O O O
-‘케이콘 2016일본(KCON 2016Japan)’의 하이라이트를 장식 하+ㄹ '엠카운트 다운' 스페셜 MC가 확정되었다 .	O O O O O O O O O O O O
-9일부터 10일까지 일본 지바현의 대형 컨벤션센터 마쿠하 리멧세에서 열리는 'KCON 2016Japan' 엠카운트 다운의 스페셜 MC로 설현과 우영, 택연이 낙점되었다 .	O O LOC-B LOC-I O O O O O O O ORG-B O O O O PER-B PER-B O O
-'리니지2 레볼루션'은 원작 '리니지2'의 감성과 다양하+ㄴ 콘텐츠를 모바일에 그대로 구현하+ㄴ 것이 강점이 +ㄴ 모바일 MMORPG+이다 .	O O O O O O O O O O O O O O O O
-더불어민주당과 국민의당도 이미 불체포특권 포기를 위하+ㄴ 입법에 나서겠다고 밝히+ㄴ 상황에서 원내 1당(129석)이+ㄴ집권여당이 당론으로 국회법 개정에 나서겠다고 결정 하+ㄴ만큼 진도가 나가+ㄹ 가능성이 있다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O
-새누리당 비대위는 이외에도 ‘의원특권 내려놓기’ 차원의 안건을 여러 건의결하였다 .	ORG-B ORG-I O O O O O O O O
-김자봉 한국금융연구원 연구위원은 “한국 경제가 지속가능하+ㄴ 성장을 하려면 건강하고 역량 있는 젊은 세대가 뒷받침 되+어야 하는데 한국의 20대가 ‘금융 실패’에 직면하면서 성장 모멘텀을 상실하+ㄹ 수 있다”고 지적하였다 .	PER-B ORG-B O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-그는 4위로 들어오았으나 3위로 들어오았던 한티앤위(중국)가 실격 처리되면서 메달을 목에 걸 +ㄹ 수 있었다 .	O O O O O ORG-B O O O O O O O O O
-스피드스케이팅 장거리 여자 간판 스타 김보름(24·강원도청)은 여자 3000m에 출전하+여 4분 7초 80의 기록으로 2위를 차지하였다 .	O O O O O ORG-B O O O O O O O O O O
-육룡이 나르샤조말 생조 말 생과 이방원이 만나 +았다 .	O O O O O PER-B O O O
-윤 상무는 “삼성전자는 인도 빈곤지역의 지역사회 시설을 건립하는 등 취약하+ㄴ 마을의 지속가능하+ㄴ 성장을 위하+여지속적으로 사회공헌활동을 전개하+여오고 있다”면서 “앞으로도 이 지역 아동들이 안전하고 개선되 +ㄴ 환경에서 교육을 받음으로써 발달과 잠재력을 실현하+ㄹ 수 있도록 지원 하+여나가+ㄹ 것”이라고 말하였다 .	PER-B O ORG-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-특검법에 명시되 +ㄴ우 전 수석의 직무유기 혐의 부분도 조사하였다 .	O O PER-B O O O O O O O
-특히 군사정권 이후 가장 기대하였던 경제성장도 성과를 내지 못하면서 국민의 실망감은 커지고 있다 .	O ORG-B O O O O O O O O O O O O
-아파트에 수납공간이 4개 들어가 +ㄴ다 .	O O O O O O
-곽 교장은 “토론회의 핵심은 최근의 탄핵 사태가 과거 광우병 파동이나 미군 장갑차 사건처럼 비이성적이고 잘못되+ㄴ 정보에 의하+여 많은 시행착오를 거치+ㄴ 것에 대하+여 반성하고 실수를 되풀이하지 않도록 학생들에게 정보를 제공하는 데 (목적이) 있다”고 설명하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+넥센 은 3 라운드 에서 도 타임 을 불 렀 다 .	ORG-B O O O O O O O O O O O
+르노삼성 은 전국 468 개 의 직영 및 협력 정비 네트워크 를 보유하 고 있 으며 , 각 A / S 네트워크 당 관리 차량 대수 는 2014 년 말 기준 으로 전체 등록 대수 중 2966 대 로 나타났 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+2012 년 9 월 정부 부처 의 세종시 이전 이 시작된 지 이달 로 만 3 년 이 되 면서 서울 - 세종 으로 이원화된 조직 의 문제점 이 속속 드러나 고 있 다 .	DAT-B DAT-I DAT-I DAT-I O O O LOC-B O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O
+‘ 케이 콘 2016 일본 ( KCON 2016 Japan ) ’ 의 하이라이트 를 장식할 ' 엠 카운트다운 ' 스페셜 MC 가 확정 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+9 일 부터 10 일 까지 일본 지바 현 의 대형 컨벤션 센터 마쿠하리 멧세 에서 열리 는 ' KCON 2016 Japan ' 엠 카운트다운 의 스페셜 MC 로 설현 과 우영 , 택 연이 낙점 됐 다 .	O O O O O O LOC-B LOC-I LOC-I O O O O LOC-B LOC-I O O O O O O O O ORG-B ORG-I O O O O PER-B O PER-B O PER-B O O O O O
+' 리니지 2 레볼루션 ' 은 원작 ' 리니지 2 ' 의 감성 과 다양한 콘텐츠 를 모바일 에 그대로 구현한 것 이 강점 인 모바일 MMORPG 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+더불 어 민주당 과 국민 의 당 도 이미 불 체포 특권 포기 를 위한 입법 에 나서 겠 다고 밝힌 상황 에서 원내 1 당 ( 129 석 ) 인 집권 여당 이 당론 으로 국회법 개정 에 나서 겠 다고 결정한 만큼 진도 가 나갈 가능성 이 있 다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+새누리당 비대위 는 이외 에 도 ‘ 의원 특권 내려놓 기 ’ 차원 의 안건 을 여러 건 의결 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+김자봉 한국금융연구원 연구 위원 은 “ 한국 경제 가 지속 가능한 성장 을 하 려면 건강하 고 역량 있 는 젊 은 세대 가 뒷받침돼야 하 는데 한국 의 20 대 가 ‘ 금융 실패 ’ 에 직면하 면서 성장 모멘텀 을 상실할 수 있 다 ” 고 지적 했 다 .	PER-B ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 4 위 로 들어 왔 으나 3 위 로 들어 왔 던 한 티 앤 위 ( 중국 ) 가 실격 처리되 면서 메달 을 목 에 걸 수 있 었 다 .	O O O O O O O O O O O O O O PER-B PER-I PER-I PER-I O ORG-B O O O O O O O O O O O O O O O
+스피드스케이팅 장거리 여자 간판스타 김보름 ( 24 · 강원도청 ) 은 여자 3000 m 에 출전해 4 분 7 초 80 의 기록 으로 2 위 를 차지 했 다 .	O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+육룡 이 나 르샤 조말생 조말생 과 이방원 이 만났 다 .	O O O O PER-B PER-B O PER-B O O O O
+윤 상무 는 “ 삼성전자 는 인도 빈곤 지역 의 지역 사회 시설 을 건립하 는 등 취약한 마을 의 지속 가능한 성장 을 위해 지속적 으로 사회 공헌 활동 을 전개해 오 고 있 다 ” 면서 “ 앞 으로 도 이 지역 아동 들 이 안전하 고 개선된 환경 에서 교육 을 받 음 으로써 발달 과 잠재력 을 실현할 수 있 도록 지원해 나갈 것 ” 이라고 말 했 다 .	PER-B O O O ORG-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특검 법 에 명시된 우 전 수석 의 직무 유기 혐의 부분 도 조사 했 다 .	O O O O PER-B O O O O O O O O O O O O
+특히 군사 정권 이후 가장 기대 했 던 경제 성장 도 성과 를 내 지 못하 면서 국민 의 실망감 은 커지 고 있 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+아파트 에 수납공간 이 4 개 들어간다 ?	O O O O O O O O
+곽 교장 은 “ 토론회 의 핵심 은 최근 의 탄핵 사태 가 과거 광우병 파동 이나 미군 장갑차 사건 처럼 비이성적 이 고 잘못된 정보 에 의해 많 은 시행착오 를 거친 것 에 대해 반성하 고 실수 를 되풀이 하 지 않 도록 학생 들 에게 정보 를 제공하 는 데 ( 목적 이 ) 있 다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

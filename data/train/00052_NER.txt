@@ -1,16 +1,16 @@
-독일이 사실상(defacto)의 패권을 차지하도록 길을 열어 주+ㄴ 것은 독일에게 EU+이라는 굴레를 씌우려고 하+ㄴ 프랑스의 꼼수다 .	ORG-B O O O O O O O ORG-B ORG-B O O O ORG-B O O
-13일 오후 5시에 방송되+ㄴ MBC 예능'우리 결혼하었어요4'에서는 시암리집에서 새롭ㄴ 미션지를 받는 송재림과 김소은의 가상 부부 마지막 종지부를 찍는 모습이 그리 +어+지었다 .	O O O O O O O LOC-B O O O PER-B PER-B O O O O O O O O O
-국민저항 총궐기 운동(탄기국) 경남본부와 자유통일해방본부는 2일 오후 2시 봉하마을 앞에서 집회 신고를 하고 집회를 열 +ㄹ 예정이다 .	ORG-B ORG-I ORG-I ORG-I ORG-B TIM-I TIM-B TIM-I LOC-B O O O O O O O O O
-최근 6개 대회에서 4승을 거두+ㄴ 데이는 2000년대 초반 최고 전성기 때의 타이거 우즈를 능가하+ㄴ다는 평가를 받고 있다 .	O O O O O O O O O O O PER-B PER-I O O O O O
-KGC는 13일 부산 사직체육관에서 열리+ㄴ kt와의 2016∼2017KCC 프로농구 방문경기에서 117-77로 대승을 거두었다 .	ORG-B O LOC-B LOC-I O ORG-B ORG-B O O O O O O
-학생들 가운데는 오스카와일드도끼이어 있었다 .	O O PER-B O O
-국립종축원은 젖소를 번식시키는 데 필요하+ㄴ 인공수정용 정액을 생산하는 한국형 젖소 종모우를 탄생시키는 데 성공하였다고 18일 발표하였다 .	ORG-B O O O O O O O O O O O O O O O O
-“나+의 살기+ㄹ내가 찾는다”… 수능 끝나자 토익학원 고3스펙얼리버드족은 수능이 끝나 +ㄴ후도 분주하다 .	O O O O O O O O O O O O
-불법 스포츠 도박 3명, 쇼트트랙 대표팀 서 제 .	O O O O O O O O O
-생활용품 코너에서 +ㄴ ‘3M 막대걸레++정전기포 100매++물걸레 60매’를 반값 이+ㄴ 1만9800원에 판매 하+ㄴ다 .	O O O ORG-B O MNY-B O O O MNY-B O O O
-국정원을 움직이어 투자동향을 알아보라는 지시를 그에게 내리+ㄴ 또 다른 누구+이+ㄴ가가 있었는지도 궁금하다 .	ORG-B O O O O O O O O O O O O
-그로부터 8년이 지나 +았다 .	O O O O O
-재정적 이+ㄴ 기부와 노력봉사에서 한발 더 나아가 +아삼성전자가 지니+ㄴ 핵심 역량이 +ㄴ ‘인재’와 ‘기술’을 바탕으로 사회공헌활동을 추진하+여오+ㄴ 것이다 .	O O O O O O O ORG-B O O O O O O O O O O O
-학과의 2015학년도 수시 일반전형 최종 등록자의 학생부 등급은 4.56등급이었고, 정시는 4.1등급이었다 .	O O O O O O O O O O O O
-이후 공은 장백호의 머리 뒤로 넘어가 +았고, 공이 떨어지+ㄴ 곳 부근에 있던 북한 수비수들도 공을 차 내리+어하지 않았다 .	O O PER-B O O O O O O O O O ORG-B O O O O O O
-50번까지 하+ㄴ문제도 틀리지 않았지만 위기가 없었던 것은 아니었다 .	O O O O O O O O O
+독일 이 사실상 ( de facto ) 의 패권 을 차지하 도록 길 을 열 어 준 것 은 독일 에게 EU 라는 굴레 를 씌우 려고 한 프랑스 의 꼼수 다 .	ORG-B O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O ORG-B O O O O
+13 일 오후 5 시 에 방송된 MBC 예능 ' 우리 결혼 했 어요 4 ' 에서 는 시암리 집 에서 새로 운 미션지 를 받 는 송재림 과 김소은 의 가상 부부 마지막 종지부 를 찍 는 모습 이 그려 졌 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O LOC-B O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O
+국민 저항 총궐기 운동 ( 탄기 국 ) 경남 본부 와 자유 통일 해방 본부 는 2 일 오후 2 시 봉하 마을 앞 에서 집회 신고 를 하 고 집회 를 열 예정 이 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-I O O O O O O O O O O O O O O
+최근 6 개 대회 에서 4 승 을 거둔 데이 는 2000 년대 초반 최고 전성기 때 의 타이거 우즈 를 능가한다는 평가 를 받 고 있 다 .	O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O
+KGC 는 13 일 부산 사직 체육관 에서 열린 kt 와 의 2016 ∼ 2017 KCC 프로 농구 방문 경기 에서 117 - 77 로 대승 을 거 뒀 다 .	ORG-B O DAT-B DAT-I LOC-B LOC-I LOC-I O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O
+학생 들 가운데 는 오스카 와일드 도 끼 여 있 었 다 .	O O O O PER-B PER-I O O O O O O O
+국립 종축 원 은 젖소 를 번식 시키 는 데 필요한 인공 수정 용 정액 을 생산하 는 한국 형 젖소 종모우 를 탄생 시키 는데 성공 했 다고 18 일 발표 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+“ 내 살 길 내 가 찾 는다 ” … 수능 끝나 자 토익 학원 고 3 스펙 얼리버드 족 은 수능 이 끝난 후 도 분주하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+불법 스포츠 도박 3 명 , 쇼트트랙 대표 팀 서 제외	O O O O O O O O O O O
+생활 용품 코너 에선 ‘ 3 M 막대 걸레+ 정전기 포 100 매+ 물걸레 60 매 ’ 를 반값 인 1 만 9800 원 에 판매한다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O
+국정원 을 움직 여 투자 동향 을 알아보 라는 지시 를 그 에게 내린 또 다른 누군가 가 있 었 는지 도 궁금하 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+그 로부터 8 년 이 지났 다 .	O O O O O O O O
+재정적 인 기부 와 노력 봉사 에서 한발 더 나아가 삼성전자 가 지닌 핵심 역량 인 ‘ 인재 ’ 와 ‘ 기술 ’ 을 바탕 으로 사회 공헌 활동 을 추진해 온 것 이 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+학과 의 2015 학년도 수시 일반 전형 최종 등록 자 의 학생부 등급 은 4.56 등급 이 었 고 , 정시 는 4.1 등급 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 공 은 장백호 의 머리 뒤 로 넘어갔 고 , 공 이 떨어진 곳 부근 에 있 던 북한 수비수 들 도 공 을 차 내려 하 지 않 았 다 .	O O O PER-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+50 번 까지 한 문제 도 틀리 지 않 았 지만 위기 가 없 었 던 것 은 아니 었 다 .	O O O O O O O O O O O O O O O O O O O O O O

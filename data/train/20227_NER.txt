@@ -1,13 +1,13 @@
-이미 1980년대부터 세계의 공학교육 선진국들은 공학교육 인증제도를 실시하+여오고 있었으며, 이러하+ㄴ 인증제도를 통하+여국제적으로 공히 인정하+ㄹ 수 있는 기준을 설정하고 이러하+ㄴ 기준에 부합하+ㄴ다면 국가의 장벽 없이 진학이나 취업이 가능하+ㄹ 수 있도록 ‘어코드’(Accord) +이라는 협의체를 설립하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-국내에도 삼성, LG, 현대 등 대기업이 개별 연구소를 운영하고 있다 .	O ORG-B ORG-B ORG-B O O O O O O O
-4월 17일(현지시간) 미 태평양사령부=“칼빈슨 하+ㅁ은 서태평양을 통과하고 있다 .	O O ORG-B ORG-I O LOC-B O O O
-롯데 조원우 감독이 선택하+ㄴ 첫 경기선발 투수는 또 박세웅(21·사진)이었다 .	ORG-B PER-B O O O O O O PER-B O
-이병헌 협박女이모씨 징역 1년 2월 김 모씨 징역 1년 실형 선 .	PER-B PER-B O O O PER-B PER-I O O O O O
-앞서 고영욱은 지나 +ㄴ 2010년 7월부터 2012년 12월까지 자신의 오피스텔과 승용차 등에서 미성년자 3명을 총 4차례에 걸치+어 성폭행 및 강제추행 하+ㄴ 혐의로 구속 기소되+ㄴ바 있다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-한편 ‘오늘 출소’고영욱은 앞으로 신상정보 공개 고지 5년, 위치추적 전자장치(전자발찌) 부착 3년이 추가 시행되+ㄴ다 .	O O PER-B O O O O O O O O O O O O
-정부 관계자들은 「구체적 증거」를 제시하지 못하지만, 적어도 김정일이 김일성 추도대회 이후 지금까지 30일간 전혀 모습을 보이지 않고 있다는 점을 중시하+ㄴ다 .	O O O O O O O PER-B PER-B O O O O O O O O O O O O
-박근혜 대통령의 비선실세로 지목받고 있는 최순실(60)씨가 구치소로 이감되었다 .	PER-B O O O O PER-B O O O
-송 신임 사장은 인터콤, 중앙 애드컴 등을 거치+어 1998년 중앙 유엠에스에 입사하였다 .	PER-B O O ORG-B ORG-B ORG-I O O O ORG-B ORG-I O O
-조선시대 이정, 김정희부터 근대의 장우성과 이상범, 현대의 조환, 이이남을 아우르지만 시대 순으로 정리하+여 같은 소재를 표현하는 방법의 변화를 살피도록 하+ㄴ 것 +ㄴ 아니다 .	O PER-B PER-B O PER-B PER-B O PER-B PER-B O O O O O O O O O O O O O O O
-관세청은 이를 막기 위 하+여지나 +ㄴ 1월 지식재산권을 침해 하+ㄴ짝퉁 상품을 특급탁송과 국제우편을 이용하+여국 내에 소량 반입하는 것을 단속하기 시작하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-한국은 1-3으로 +었다 .	ORG-B O O O
+이미 1980 년대 부터 세계 의 공학 교육 선진국 들 은 공학 교육 인증 제도 를 실시해 오 고 있 었 으며 , 이러한 인증 제도 를 통해 국제적 으로 공히 인정할 수 있 는 기준 을 설정하 고 이러한 기준 에 부합한다면 국가 의 장벽 없이 진학 이나 취업 이 가능할 수 있 도록 ‘ 어코드 ’ ( Accord ) 라는 협의 체 를 설립하 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국내 에 도 삼성 , LG , 현대 등 대기업 이 개별 연구소 를 운영하 고 있 다 .	O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O
+4 월 17 일 ( 현지 시간 ) 미 태평양 사령부 = “ 칼 빈슨 함 은 서태평양 을 통과하 고 있 다 .	DAT-B DAT-I DAT-I DAT-I O O O O ORG-B ORG-I ORG-I O O O O O O LOC-B O O O O O O
+롯데 조원우 감독 이 선택한 첫 경기 선발 투수 는 또 박세웅 ( 21 · 사진 ) 이 었 다 .	ORG-B PER-B O O O O O O O O O PER-B O O O O O O O O O
+이병헌 협박 女 이 모 씨 징역 1 년 2 월 김 모 씨 징역 1 년 실형 선고	PER-B O O PER-B PER-I O O DAT-B DAT-I DAT-I DAT-I PER-B PER-I O O O O O O
+앞서 고영욱 은 지난 2010 년 7 월 부터 2012 년 12 월 까지 자신 의 오피스텔 과 승용차 등 에서 미성년자 3 명 을 총 4 차례 에 걸쳐 성폭행 및 강제 추행한 혐의 로 구속 기소된 바 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 ‘ 오늘 출소 ’ 고영욱 은 앞 으로 신상 정보 공개 고지 5 년 , 위치 추적 전자장치 ( 전자 발찌 ) 부착 3 년 이 추가 시행된다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+정부 관계자 들 은 「 구체적 증거 」 를 제시하 지 못하 지만 , 적어도 김정일 이 김일성 추도 대회 이후 지금 까지 30 일 간 전혀 모습 을 보이 지 않 고 있 다는 점 을 중시한다 .	O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+박근혜 대통령 의 비선 실세 로 지목 받 고 있 는 최순실 ( 60 ) 씨 가 구치소 로 이감 됐 다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O O
+송 신임 사장 은 인터콤 , 중앙 애드컴 등 을 거쳐 1998 년 중앙 유 엠에스 에 입사 했 다 .	PER-B O O O ORG-B O ORG-B ORG-I O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O
+조선 시대 이정 , 김정희 부터 근대 의 장우성 과 이상범 , 현대 의 조환 , 이이남 을 아우르 지만 시대 순 으로 정리해 같 은 소재 를 표현하 는 방법 의 변화 를 살피 도록 한 건 아니 다 .	DAT-B DAT-I PER-B O PER-B O O O PER-B O PER-B O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+관세청 은 이 를 막 기 위해 지난 1 월 지식재산권 을 침해한 짝퉁 상품 을 특급 탁송 과 국제 우편 을 이용해 국내 에 소량 반입하 는 것 을 단속하 기 시작 했 다 .	ORG-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 은 1 - 3 으로 졌 다 .	ORG-B O O O O O O O O

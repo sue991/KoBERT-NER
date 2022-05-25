@@ -1,15 +1,15 @@
-이 총선에서 히스 총리는 파업에 나서 +ㄴ 강성 탄광 노조에 맞서 +어 ‘누구가 영국을 지배하는가’를 묻는 조기총선을 소집하였다 .	O O PER-B O O O O O O O O O O ORG-B O O O O O
-오늘 정월대보름, 해운대 달맞이 온천축제…"해운팔경 '보러 오세요 .	O O LOC-B O O O O O
-수도권 5개 신도시 건설 물량 26만9천 가구 가운데 7월 말까지 전체의 53% 이+ㄴ 14만4천 가구만 입주하였다 .	LOC-B O O O O O O O O O O O O O O O O
-올해는 개인 기부액이 69억6000여만원으로 전체의 60%를 차지하였다 .	O O O MNY-B O O O O
-서울시는 아파트 관리온라인 투표제를 전체 아파트(약 140만 가구)의 25% 이+ㄴ 36만 가구로 확대하+ㄴ다고 30일 밝히었다 .	ORG-B O O O O O O O O O O O O O O O
-스타벅스의 고급스럽 ㄴ 정체성과 한국 특유의 정서를 함께 담음으로써 성공하+ㄴ 것”이라고 말하였다 .	ORG-B O O O ORG-B O O O O O O O O
-▶LIVE 논설위원실◀ 미국이 호주와 일본 등 동맹국들에게 미사일 요격 계획을 통보하였습니다 .	O O ORG-B ORG-B ORG-B O O O O O O O
-그리고 이 노선은 결국 북정권을 붕괴의 길에 이르게 하+ㄹ 것이다 .	O O O O ORG-B O O O O O O
-얼굴 천재+이라 불리는 차은우는 현재 아스트로 소속 가수로 활동하고 있으며, ‘쇼!음악 중심’의 메인 MC로도 활약 중이다 .	O O O PER-B O O O O O O O O O O O O O
-김도연과 최유정은 최근 아이오아이의 활동을 끝마치고 개인 스케줄 및 휴식시간을 보내고 있는 예비 스타+이다 .	PER-B PER-B O ORG-B O O O O O O O O O O O
-블루마운틴은 라이프스타일의 편안하+ㅁ과 기능성을 겸비 하+ㄴ패션 슈즈로, 2017S/S시즌에는 젊음(youth), 도전(challenge), 열정(passion)이란 3가지 키워드로 ‘catchthedream’을 외치며 새롭ㄴ 모델이 +ㄴ 차은우, 김도연, 최유정, 공명에게 그들만의 유니크 하+ㅁ을 더하였다 .	ORG-B O O O O O O O O O O O O O O O O O PER-B PER-B PER-B PER-B O O O O O
-유니크하고 내츄럴한 공명 그리+ㄴ, 시원하고 시크 하+ㄴ 차은우블루, 열정적이며 도전적 이+ㄴ 김도연 레드, 큐트하고 러블리한 최유정 핑크로 모델들만의 특별 하+ㄴ 컬러를 입히었다 .	O O PER-B O O O O PER-B O O O PER-B O O O PER-B O O O O O O O
-2017S/S시즌 블루마운틴은 패션에 민감하+ㄴ 10대~20대의 타깃에 맞추어 151가지 컬러와 기존 6가지의 라인에 새롭ㄴ 패턴라인이 +ㄴ도트, 크로스, 글리터, 블랜드 4가지 신규 라인을 더 하+여 총 10가지의 라인으로 2월 말에 출시되 +ㄹ 예정이다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-2016년에 +ㄴ 50만족을 판매 하+ㄴ블루마운틴은 신제품과 새롭ㄴ 모델에 힘입어 2017년에는 100만족의 판매량을 예상하고 있으며 신제품과 새롭ㄴ 모델들 자세 하+ㄴ이미지는 3월 초에 리뉴얼 되는 블루마운틴 공식 홈페이지에서 만나 +아보+ㄹ 수 있다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
-두 번째 고민은 다른 후보들이 ‘트럼프들러리’가 되+ㄹ 공산이 크다는 점이다 .	O O O O O PER-B O O O O O
+이 총선 에서 히스 총리 는 파업 에 나선 강성 탄광 노조 에 맞서 ‘ 누 가 영국 을 지배하 는가 ’ 를 묻 는 조기 총선 을 소집 했 다 .	O O O PER-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+오늘 정월 대보름 , 해운대 달맞이 온천 축제 … " 해운 팔경 ' 보 러 오 세요 "	O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O
+수도권 5 개 신도시 건설 물량 26 만 9 천 가구 가운데 7 월 말 까지 전체 의 53 % 인 14 만 4 천 가구 만 입주 했 다 .	LOC-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+올해 는 개인 기부 액 이 69 억 6000 여 만 원 으로 전체 의 60 % 를 차지 했 다 .	O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O
+서울시 는 아파트 관리 온라인 투표 제 를 전체 아파트 ( 약 140 만 가구 ) 의 25 % 인 36 만 가구 로 확대한다고 30 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+스타벅스 의 고급스러 운 정체성 과 한국 특유 의 정서 를 함께 담 음 으로써 성공한 것 ” 이라고 말 했 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O
+▶ LIVE 논설 위원 실 ◀ 미국 이 호주 와 일본 등 동맹국 들 에게 미사일 요격 계획 을 통보 했 습니다 .	O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O
+그리고 이 노선 은 결국 북 정권 을 붕괴 의 길 에 이르 게 할 것 이 다 .	O O O O O ORG-B O O O O O O O O O O O O O
+얼굴 천재 라 불리 는 차은우 는 현재 아스트로 소속 가수 로 활동하 고 있 으며 , ‘ 쇼 ! 음악 중심 ’ 의 메인 MC 로 도 활약 중 이 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김도연 과 최유정 은 최근 아이오 아이 의 활동 을 끝마치 고 개인 스케줄 및 휴식 시간 을 보내 고 있 는 예비 스타 다 .	PER-B O PER-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+블루마운틴 은 라이프 스타일 의 편안함 과 기능성 을 겸비한 패션 슈즈 로 , 2017 S / S 시즌 에 는 젊 음 ( youth ) , 도전 ( challenge ) , 열정 ( passion ) 이 란 3 가지 키워드 로 ‘ catch the dream ’ 을 외치 며 새로 운 모델 인 차은우 , 김도연 , 최유정 , 공명 에게 그 들 만 의 유니크함 을 더 했 다 .	ORG-B O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O
+유니크 하 고 내츄럴 한 공명 그린 , 시원하 고 시크 한 차은우 블루 , 열정적 이 며 도전적 인 김도연 레드 , 큐트 하 고 러블리 한 최유정 핑크 로 모델 들 만 의 특별한 컬러 를 입 혔 다 .	O O O O O PER-B O O O O O O PER-B O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O
+2017 S / S 시즌 블루마운틴 은 패션 에 민감한 10 대 ~ 20 대 의 타깃 에 맞추 어 151 가지 컬러 와 기존 6 가지 의 라인 에 새로 운 패턴 라인 인 도트 , 크로스 , 글리터 , 블랜드 4 가지 신규 라인 을 더해 총 10 가지 의 라인 으로 2 월 말 에 출시될 예정 이 다 .	DAT-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+2016 년 엔 50 만족 을 판매한 블루마운틴 은 신제품 과 새로 운 모델 에 힘입 어 2017 년 에 는 100 만족 의 판매량 을 예상하 고 있 으며 신제품 과 새로 운 모델 들 자세한 이미지 는 3 월 초 에 리뉴얼 되 는 블루마운틴 공식 홈페이지 에서 만나 볼 수 있 다 .	DAT-B DAT-I O O O O O ORG-B O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O ORG-B O O O O O O O O O
+두 번째 고민 은 다른 후보 들 이 ‘ 트럼프 들러리 ’ 가 될 공산 이 크 다는 점 이 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O

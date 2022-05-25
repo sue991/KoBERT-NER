@@ -1,15 +1,15 @@
-‘진짜 사나이 여군 특집 3’ /jstar@j oongang. co.kr[사진 MBC 예능연구소 페이스북 .	O O O O O O O O O O O O
-남성 밴드씨엔블루(정용화 이종현 강민혁 이 정신)가 신곡 ‘이렇게 예쁘었나’로 돌아오+ㄴ다 .	O ORG-B PER-B PER-B O O O O O O O
-국방백서는 과거에는 '주적'이라고 규정하였으나, 최근에는 '우리의 적'이라고 표현하고 있다 .	O O O O O O O O O O
-이에 기자들이 '우리의 적'이라는 표현이 '주적'과 같은 뜻이냐?고 재차 묻자 문 대변인은 "그렇게 이해하시+어도 되+ㄴ다 .	O O O O O O O O O O PER-B O O O O O
-한편 정부·여당의 역사교과서 국정화 논란 정국 당시 자유경제원 사무총장이었던 전 의원은 국정화 찬성 여론전에 앞장서+어 여권에서 ‘전 다르크’ +이라는 별명을 얻었다 .	O O O O O O O ORG-B O PER-B ORG-I O O PER-B O O PER-B O O O O O
-‘해피투게더 서인영 서해영’ ‘해피투게더’ 서인 영동생 서해영이 누리꾼들의 뜨겁ㄴ 관심을 받고 있다 .	O PER-B PER-B O O O PER-B O O O O O O
-지나+ㄴ 30일 방송되+ㄴ KBS2 ‘해피투게더3’에서는 ‘대단하+ㄴ 유전자’ 특집으로 꾸미+어지+어, 신성록-신제록, 서인영-서해영, 오상진-오민정이 출연하였다 .	O O O O O O O O O PER-B PER-B PER-B O O
-이날 방송에서 유재석이 서인영과 동생 서해영에게 “웃는 모습이 참 닮았네”라고 말하며 “지금도 닮기+ㄴ 닮았는데 좀 다르네요”라고 평가하였다 .	O O PER-B PER-B O PER-B O O O O O O O O O O O O
-이어 박명수가 서해영을 바라보며 “동생이 더 착하+여보이어”라고 말 하+여 현장을 웃음바다로 만들었다 .	O PER-B PER-B O O O O O O O O O O
-서인영 동생 서해영은 연예인 못하지 않은 외모와 단아 하+ㄴ 매력으로 시청자들의 마음을 사로잡았다 .	PER-B O PER-B O O O O O O O O O O O
-한편 서해영은 잠실 ‘얼짱’ 출신으로, 서인영 아버지 회사에서 디자인 마케팅 일하고 있다 .	O PER-B LOC-B O O PER-B O O O O O O O
-전라북도 정읍에서 유복하+ㄴ집안의 5남매 중 둘째로 태어나 +ㄴ 박근형의 꿈은 의사+이었다 .	LOC-B LOC-B O O O O O O PER-B O O O
-‘마이리틀 텔레비전 서 유리 열파 참’ ‘마이 리틀 텔레비전’ 서유리가 화제이+ㄴ 가운데, 과거 그의 맥심 화보가 네티즌들의 시선을 사로잡고 있다 .	O O O O O O O O O PER-B O O O O O O O O O O O
-서유리는 과거 자신의 트위터를 통하+여 “코스프레만 하고 살고 싶다 .	PER-B O O O O O O O O O
-전국이 차차 맑아지는 가운데 강원과 충북 북부, 경북지역에는 낮까지 비가 내리+ㄹ 것으로 관측되+ㄴ다 .	O O O O LOC-B LOC-B LOC-B LOC-B O O O O O O
+‘ 진짜 사나이 여군 특집 3 ’ / jstar @ joongang . co . kr [ 사진 MBC 예능 연구소 페이스북 ]	O O O O O O O O O O O O O O O O O O O O O O
+남성 밴드 씨엔블루 ( 정용화 이종현 강민혁 이정신 ) 가 신곡 ‘ 이렇 게 예 뻤 나 ’ 로 돌아온다 .	O O ORG-B O PER-B PER-B PER-B PER-B O O O O O O O O O O O O O
+국방백서 는 과거 에 는 ' 주적 ' 이라고 규정 했 으나 , 최근 에 는 ' 우리 의 적 ' 이라고 표현하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 기자 들 이 ' 우리 의 적 ' 이 라는 표현 이 ' 주적 ' 과 같 은 뜻 이 냐 ? 고 재차 묻 자 문 대변인 은 " 그렇 게 이해하 셔도 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+한편 정부 · 여당 의 역사 교과서 국정 화 논란 정국 당시 자유 경제 원 사무총장 이 었 던 전 의원 은 국정 화 찬성 여론 전 에 앞장서 여권 에서 ‘ 전 다르크 ’ 라는 별명 을 얻 었 다 .	O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+‘ 해피투게더 서인영 서해영 ’ ‘ 해피투게더 ’ 서인영 동생 서해영 이 누리 꾼 들 의 뜨거 운 관심 을 받 고 있 다 .	O O PER-B PER-B O O O O PER-B O PER-B O O O O O O O O O O O O O O
+지난 30 일 방송된 KBS 2 ‘ 해피투게더 3 ’ 에서 는 ‘ 대단한 유전자 ’ 특집 으로 꾸며 져 , 신성록 - 신제 록 , 서인영 - 서해영 , 오상진 - 오민정 이 출연 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O PER-B O PER-B PER-I O PER-B O PER-B O PER-B O PER-B O O O O O
+이날 방송 에서 유재석 이 서인영 과 동생 서해영 에게 “ 웃 는 모습 이 참 닮 았 네 ” 라고 말하 며 “ 지금 도 닮 긴 닮 았 는데 좀 다르 네 요 ” 라고 평가 했 다 .	O O O PER-B O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 박명수 가 서해영 을 바라보 며 “ 동생 이 더 착해 보 여 ” 라고 말해 현장 을 웃음바다 로 만들 었 다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+서인영 동생 서해영 은 연예인 못 지 않 은 외모 와 단아한 매력 으로 시청자 들 의 마음 을 사로잡 았 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O
+한편 서해영 은 잠실 ‘ 얼짱 ’ 출신 으로 , 서인영 아버지 회사 에서 디자인 마케팅 일하 고 있 다 .	O PER-B O LOC-B O O O O O O PER-B O O O O O O O O O O
+전라북도 정읍 에서 유복한 집안 의 5 남매 중 둘째 로 태어난 박근형 의 꿈 은 의사 였 다 .	LOC-B LOC-B O O O O O O O O O O PER-B O O O O O O O
+‘ 마이 리틀 텔레비전 서유리 열파 참 ’ ‘ 마이 리틀 텔레비전 ’ 서유리 가 화제 인 가운데 , 과거 그 의 맥심 화보 가 네티즌 들 의 시선 을 사로잡 고 있 다 .	O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+서유리 는 과거 자신 의 트위터 를 통해 “ 코스 프레 만 하 고 살 고 싶 다 .	PER-B O O O O O O O O O O O O O O O O O O
+전국 이 차차 맑아지 는 가운데 강원 과 충북 북부 , 경북 지역 에 는 낮 까지 비 가 내릴 것 으로 관측된다 .	O O O O O O LOC-B O LOC-B LOC-B O LOC-B O O O O O O O O O O O O

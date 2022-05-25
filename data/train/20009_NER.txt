@@ -1,13 +1,13 @@
-“지금은 몸매 좋다란 얘기를 듣지만, 나 역시 4년 전만 하+ 여도 콤플렉스 덩어리+이었다 .	O O O O O O O O O O O O O O
-삼성물산은 이에 대하+여 지난해 33조7000억원이었던 매출액이 시너지 효과에 힘입어 2020년에는 60조원 수준으로 확대되 +ㄹ 것이라고 자신한 바 있다 .	ORG-B O O O MNY-B O O O O O MNY-B O O O O O O O O
-그리고 아무래도 아이폰의 경우에는 메탈 API 때문에 더욱 부드럽게 구동되+ㄴ다 .	O O O O O O O O O O O
-12개월 뒤 동급 신차를 구입하+ 여도 계속 하+여서 무이자 할부 혜택을 받을 수 있다 .	O O O O O O O O O O O O O O O
-소비자 입장에서는 1년 전에 만들어 지+ㄴ차를 제값을 다 주고 사+아야 하기 때문이다 .	O O O O O O O O O O O O O
-현대카드는 새롭ㄴ 자체 미디어를 통하+여자신들의 철학이 담기 +ㄴ 영상 컨텐트를 직접 제공 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O
-다양하+ㄴ 스타일의 5개 프로그램으로 구성되 +어 있다 .	O O O O O O O O
-‘나누+ㅁ딜라이트’ 발광다이오드(LED) 테이블 조명은 폴리에스테르 부직포로 제작되+ㄴ 전 등갓이 13단계로 다채롭게 변화하고 그에 따르 아조도 도 달라지+어 다양하+ㄴ 분위기 연출이 가능하다 .	O O O O O O O O O O O O O O O O O O O O O O
-하지만 감사원은 “실제 해외자원개발 사업을 통하+ㄴ자원 확보량은 미미하었다”고 밝히었다 .	O ORG-B O O O O O O O O
-분양가는 3.3㎡당 평균 999만원이다 .	O O O MNY-B O
-지나+ㄴ 50년 이후 미국에서는 모두 12차례의 중간선거가 치르어 +지었다 .	O O O ORG-B O O O O O O
-중학교 자유학기제 기간 시범 운영 댄스·서킷 프로그램 등 총 14주대 한체육회(회장 김정행·강영중)가 ‘미드림(美Dream) 스포츠 프로그램’을 운영하+ㄴ다 .	O O O O O O O O O O O PER-B O O O O O
-그동안 탐방로가 단조롭어 한정되+ㄴ경관을 보이어 +주었지만 백록담 남벽분기점에서 정상까지 남벽 구간(0.7km)이 재개방되면 한라산 탐방이 ‘사통팔달’로 열리+ㄴ다 .	O O O O O O LOC-B LOC-I O O O O LOC-B O O O O
+“ 지금 은 몸매 좋 다란 얘기 를 듣 지만 , 나 역시 4 년 전 만 해도 콤플렉스 덩어리 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+삼성물산 은 이 에 대해 지난해 33 조 7000 억 원 이 었 던 매출액 이 시너지 효과 에 힘입 어 2020 년 에 는 60 조 원 수준 으로 확대될 것 이 라고 자신 한 바 있 다 .	ORG-B O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O DAT-B DAT-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+그리고 아무래도 아이폰 의 경우 에 는 메탈 API 때문 에 더욱 부드럽 게 구동 된다 .	O O O O O O O O O O O O O O O O O
+12 개월 뒤 동급 신차 를 구입해도 계속해서 무이자 할부 혜택 을 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O O
+소비자 입장 에서 는 1 년 전 에 만들 어 진 차 를 제값 을 다주 고 사야 하 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+현대카드 는 새로 운 자체 미디어 를 통해 자신 들 의 철학 이 담긴 영상 컨텐트 를 직접 제공한다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+다양한 스타일 의 5 개 프로그램 으로 구성돼 있 다 .	O O O O O O O O O O O
+‘ 나눔 딜 라이트 ’ 발광 다이오드 ( LED ) 테이블 조명 은 폴리에스테르 부직포 로 제작된 전등갓 이 13 단계 로 다채롭 게 변화하 고 그 에 따 라 조도도 달라져 다양한 분위기 연출 이 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 감사원 은 “ 실제 해외 자원 개발 사업 을 통한 자원 확보 량 은 미미 했 다 ” 고 밝 혔 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+분양가 는 3.3 ㎡ 당 평균 999 만 원 이 다 .	O O O O O O MNY-B MNY-I MNY-I O O O
+지난 50 년 이후 미국 에서 는 모두 12 차례 의 중간 선거 가 치 러 졌 다 .	O O O O ORG-B O O O O O O O O O O O O O O
+중학교 자유 학기제 기간 시범 운영 댄스 · 서킷 프로그램 등 총 14 주 대한체육회 ( 회장 김정행 · 강영중 ) 가 ‘ 미 드림 ( 美 Dream ) 스포츠 프로그램 ’ 을 운영한다 .	O O O O O O O O O O O O O O ORG-B O O PER-B O PER-B O O O O O O O O O O O O O O O
+그동안 탐방 로 가 단조로 워 한정된 경관 을 보 여 줬 지만 백록담 남 벽 분기점 에서 정상 까지 남 벽 구간 ( 0.7 km ) 이 재 개방되 면 한라산 탐방 이 ‘ 사통팔달 ’ 로 열린다 .	O O O O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O LOC-B O O O O O O O O

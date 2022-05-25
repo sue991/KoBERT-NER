@@ -1,12 +1,12 @@
-식사비용은 현행 공무원 행동강령(3만원)을 그대로 적용하였다 .	O O O MNY-B O O O
-지난해 하반기 SK그룹 계열사에 입사하+ㄴ 홍모(27)씨는 “그룹·프레젠테이션·인성 등 세 종류의 면접을 8시간 동안 몰아서 보고, 최종 임원 면접은 부문장 7명이 참석 하+ㄴ 가운데 +았다”고 말하였다 .	O O ORG-B O O PER-B ORG-I O O O O O O O O O O O O O O O O O O O
-취업포털 사람인의 임민욱 팀장은 “10번 이상 면접을 보고 채용 하+ㄴ다는 구글 같은 글로벌 기업 식 채용 방침을 국내 대기업들도 받아들이는 추세”+이라며 “채용 규모를 줄이지 않는 대신 채용을 신중하게 해 퇴사자를 막는 방식으로 전체 비용을 절감하겠다는 전략”이라고 +였다 .	O ORG-B PER-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-10대 그룹 공채는 다음달 초에 시작되+ㄴ다 .	O O O O O O O
-3년 전 서울에서 외국계 회사에 다니 .	O O LOC-B O O O O
-더민주당 김부겸 예비후보가 총선 관련 여론조사에서 한동안 앞서 +어가며 ‘당선 가능성’을 보이어 주+ㄴ 것.김 후보는 2012년 4월 19대 총선 당시 수성갑에 출마하+여 40% 넘는 득표율을 기록하며 가능성을 보이어 +주었고, 2014년 6월 전국동시지방선거 당시 대구시장 선거에 출마하였다 .	ORG-B PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-[연예뉴스스테이션]가수 싸이, 개인 방송 서 신곡 일부 첫 공 .	O PER-B O O O O O O O O
-국왕 수행인원은 왕자와 각료, 기업 간부 등 1000명을 넘어 비행기 10기에 나누+어타고 방일 하+ㄴ 것으로 파악되었다 .	O O O O O O O O O O O O O O O O O
-삼성의 금융계열사들은 삼성전자 지분을 총 8.87%(삼성생명 7.55%, 삼성화재1.32%) 갖고 있다 .	ORG-B O ORG-B O O ORG-B O ORG-B O O O
-매년 2500억∼2800억원의 매출에 200억원이 넘는 영업이익을 올리+어포상휴가를 다녀오+ㄴ 것 아니냐는 지적에 옥시 관계자는 “태국 지사와의 비즈니스 미팅이었다”고 해명하였다 .	O MNY-B O MNY-B O O O O O O O ORG-B O ORG-B O O O O O
-세계 30개국 지도자와 19개국 정부 대표, 유엔 등 10개 국제기구 수장들이 지켜보는 가운데 중국은 1만2000명의 정예 병력과 최첨단 미사일과 전투기를 총출동시키+어 중국의 물리적 힘을 과시하게 되+ㄴ다 .	O O O O O O ORG-B O O O O O O ORG-B O O O O O O O ORG-B O O O O O
-이와 함께 전기차 핵심 부품이+ㄴ 배터리를 생산하는 LG화학은 세계 최고 기술력과 신뢰성을 바탕으로 세계 10대 완성차 업체 중 6곳을 고객사로 확보하였으며, 20여곳의 완성차 업체로부터 수백만대의 차량에 탑재하+ㄹ 배터리 공급 계약을 체결하+ㄴ 상태+이다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+식사 비용 은 현행 공무원 행동 강령 ( 3 만 원 ) 을 그대로 적용 했 다 .	O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+지난해 하반기 SK 그룹 계열사 에 입사한 홍모 ( 27 ) 씨 는 “ 그룹 · 프레젠테이션 · 인성 등 세 종류 의 면접 을 8 시간 동안 몰 아서 보 고 , 최종 임원 면접 은 부문장 7 명 이 참석한 가운데 봤 다 ” 고 말 했 다 .	O O ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+취업 포털 사람 인 의 임민욱 팀장 은 “ 10 번 이상 면접 을 보 고 채용한다는 구글 같 은 글로벌 기업 식 채용 방침 을 국내 대기업 들 도 받아들이 는 추세 ” 라며 “ 채용 규모 를 줄이 지 않 는 대신 채용 을 신중하 게 해 퇴사 자 를 막 는 방식 으로 전체 비용 을 절감하 겠 다는 전략 ” 이라고 했 다 .	O O ORG-B ORG-I O PER-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 대 그룹 공채 는 다음 달 초 에 시작된다 .	O O O O O O O O O O O
+3 년 전 서울 에서 외국 계 회사 에 다니 다	O O O LOC-B O O O O O O O
+더 민주당 김부겸 예비 후보 가 총선 관련 여론 조사 에서 한동안 앞서 가 며 ‘ 당선 가능성 ’ 을 보 여 준 것 . 김 후보 는 2012 년 4 월 19 대 총선 당시 수성 갑 에 출마해 40 % 넘 는 득표율 을 기록하 며 가능성 을 보 여 줬 고 , 2014 년 6 월 전국 동시 지방 선거 당시 대구 시장 선거 에 출마 했 다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O
+[ 연예 뉴스 스테이션 ] 가수 싸이 , 개인 방송 서 신곡 일부 첫 공개	O O O O O O PER-B O O O O O O O O
+국왕 수행 인원 은 왕자 와 각료 , 기업 간부 등 1000 명 을 넘 어 비행기 10 기 에 나눠 타 고 방 일 한 것 으로 파악 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성 의 금융 계열사 들 은 삼성전자 지분 을 총 8.87 % ( 삼성생명 7.55 % , 삼성화재 1.32 % ) 갖 고 있 다 .	ORG-B O O O O O ORG-B O O O O O O ORG-B O O O ORG-B O O O O O O O O
+매년 2500 억 ∼ 2800 억 원 의 매출 에 200 억 원 이 넘 는 영업이익 을 올려 포상 휴가 를 다녀온 것 아니 냐는 지적 에 옥시 관계자 는 “ 태국 지사 와 의 비즈니스 미팅 이 었 다 ” 고 해명 했 다 .	O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O
+세계 30 개국 지도자 와 19 개국 정부 대표 , 유엔 등 10 개 국제기구 수장 들 이 지켜보 는 가운데 중국 은 1 만 2000 명 의 정예 병력 과 최첨단 미사일 과 전투기 를 총출동 시켜 중국 의 물리적 힘 을 과시하 게 된다 .	O O O O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+이 와 함께 전기 차 핵심 부품 인 배터리 를 생산하 는 LG 화학 은 세계 최고 기술력 과 신뢰성 을 바탕 으로 세계 10 대 완성 차 업체 중 6 곳 을 고객 사 로 확보 했 으며 , 20 여 곳 의 완성 차 업체 로부터 수백만 대 의 차량 에 탑재할 배터리 공급 계약 을 체결한 상태 다 .	O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

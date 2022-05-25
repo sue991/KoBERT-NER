@@ -1,14 +1,14 @@
-특히 잔뜩 찌푸리+ㄴ 광희의 표정이 눈길을 끌+ㄴ다 .	O O O PER-B O O O O
-앞서 광희는 21일 오후 방송되+ㄴ ‘무한도전’의 ‘자선 경매 쇼무도 드리+ㅁ’에서 230만원에 ‘그린 실버 고향이 좋다’팀에 낙찰되었다 .	O PER-B O O O O O O O O MNY-B O O O O O O
-광희가 출연하+ㄴ MBC ‘그린 실버 고향이 좋다’는 이날 오전 11시에 전파를 타+았다 .	PER-B O ORG-B O O O O O O O O O O
-37개 기관에서 귀농기초반부터 귀농심화반까지 42개 과정을 열어 교육을 하고 있다 .	O O O O O O O O O O O
-우선 지하철 1호선 명학역 바로 앞에 들어서는 초역세권 아파트 +이다 .	O O O LOC-B O O O O O O O
-맞은편 남자는 이씨를 따르 아두 팔을 번쩍 들었다 .	O O PER-B O O O O O O
-결혼 2년차 이+ㄴ 차미진씨(32·여)는 2주일에 한 번 꼴로 대형마트를 찾아 반(半) 건조생선을 사+ㄴ다 .	O O O PER-B O O O O O O O O O O
-당초 재활 등판을 총 5회 소화 하+ㄴ 뒤 6월 11∼13일 샌프란시스코 원정 3연전에서 복귀가 점치+어+지었으나, 롱토스 단계로 다시 돌아가 +ㄴ 것이다 .	O O O O O O O O O O LOC-B O O O O O O O O O O O
-이재명 시장, 15분간 원고 없이 술술 강 .	PER-B O O O O O O O
-[부고]최영민 영선영동영부 친상·이종헌 장인 .	PER-B O PER-B O O
-한편 6회 마지막에서는 혜정이 부탁하+ㄴ 할머니 말순의 수술 자료를 건네+ㄴ지홍이 빗 속에서 혜정에게 입맞춤하는 장면으로 끝을 맺으며 ‘닥터스’ 팬들의 화요일 밤을 잠 못 이루는 밤으로 만들었다 .	O O O PER-B O O PER-B O O PER-B O O PER-B O O O O O O O O O O O O O O
-보는 사람의 심장도 떨리게 만들는 김래원, 박신혜의 강력 하+ㄴ케미와 가슴을 파고들는 공감 가는 대사로 회를 거듭 하+ㄹ수록 사랑받고 있는 ‘닥터스’는 7월 11일 월요일 밤 10시 7회 가 방송되+ㄴ다 .	O O O O O PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O
-20여 칸의 룸이 미로처럼 얽히+어 있었다 .	O O O O O O O
-포탄은 장산곶서북쪽 해상에 떨어지+어서해 북방한계선(NLL)을 넘어오지는 않았다 .	O LOC-B O O O O O O
+특히 잔뜩 찌푸린 광희 의 표정 이 눈길 을 끈다 .	O O O PER-B O O O O O O O
+앞서 광희 는 21 일 오후 방송된 ‘ 무한도전 ’ 의 ‘ 자선 경매 쇼 무도 드림 ’ 에서 230 만 원 에 ‘ 그린 실버 고향 이 좋 다 ’ 팀 에 낙찰 됐 다 .	O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+광희 가 출연한 MBC ‘ 그린 실버 고향 이 좋 다 ’ 는 이날 오전 11 시 에 전파 를 탔 다 .	PER-B O O ORG-B O O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O
+37 개 기관 에서 귀농 기초 반 부터 귀농 심화 반 까지 42 개 과정 을 열 어 교육 을 하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+우선 지하철 1 호 선 명학 역 바로 앞 에 들어서 는 초 역세권 아파트 다 .	O O O O O LOC-B LOC-I O O O O O O O O O O
+맞은편 남자 는 이 씨 를 따 라 두 팔 을 번쩍 들 었 다 .	O O O PER-B O O O O O O O O O O O O
+결혼 2 년 차 인 차미진 씨 ( 32 · 여 ) 는 2 주일 에 한 번 꼴 로 대형 마트 를 찾 아 반 ( 半 ) 건조 생선 을 산다 .	O DAT-B DAT-I O O PER-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+당초 재활 등판 을 총 5 회 소화한 뒤 6 월 11 ∼ 13 일 샌프란시스코 원정 3 연전 에서 복귀 가 점쳐 졌 으나 , 롱 토스 단계 로 다시 돌아간 것 이 다 .	O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+이재명 시장 , 15 분 간 원고 없이 술술 강연	PER-B O O O O O O O O O
+[ 부고 ] 최영민 영선 영동 영 부친상 · 이종헌 장인상	O O O PER-B O O O O O PER-B O
+한편 6 회 마지막 에서 는 혜정이 부탁한 할머니 말순 의 수술 자료 를 건넨 지홍 이 빗속 에서 혜정 에게 입맞춤하 는 장면 으로 끝 을 맺 으며 ‘ 닥터 스 ’ 팬 들 의 화요일 밤 을 잠 못 이루 는 밤 으로 만들 었 다 .	O O O O O O O O O PER-B O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보 는 사람 의 심장 도 떨리 게 만드 는 김래원 , 박신혜 의 강력한 케미 와 가슴 을 파고드 는 공감 가 는 대사 로 회 를 거듭할수록 사랑 받 고 있 는 ‘ 닥터 스 ’ 는 7 월 11 일 월요일 밤 10 시 7 회 가 방송된다 .	O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I O O O O O
+20 여 칸 의 룸 이 미로 처럼 얽혀 있 었 다 .	O O O O O O O O O O O O O
+포탄 은 장산곶 서북쪽 해상 에 떨어져 서해 북방 한계선 ( NLL ) 을 넘어오 지 는 않 았 다 .	O O LOC-B O O O O O O O O O O O O O O O O O O

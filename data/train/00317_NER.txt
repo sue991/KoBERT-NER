@@ -1,10 +1,10 @@
-김종성 한국학습 진로테라피 연구소장은 “임금피크제로 생기+ㄴ 재원으로 청년 채용이 늘어나는 선순환 구조가 만들어 지+ㄹ지의문이 많다”며 “단기적으로 청년고용할당제를 고려하+ 여야 하+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-김혜수"김고은 연기가 나에게 자극을 주+ㄴ 다 .	PER-B O O O O O O
-부둥켜안은 두 사람의 뺨에서 눈물이 주르르 흐르었다 .	O O O O O O O O
-아주 어리+ㄹ 적 어머니가 머리맡에서 하+여주시던 그림자놀이를 재현하면서 유아인은 주문처럼 중얼거리+ㄴ다 .	O O O O O O O O PER-B O O O
-이밖에 19일 끝나 +ㄴ 호주 여자 오픈에서 시즌 첫 승을 신고 하+ㄴ장하나(25·BC카드)는 태국에서 2연속 우승을 겨냥하+ㄴ다 .	O O O O O O O O O O O ORG-B LOC-B O O O O
-요즘 꽂히 +ㄴ 남자는 류준열 씨+이다"라고 말하였다 .	O O O O PER-B O O O
-석면가루는 폐에 암이나 악성 종양을 유발하+ㄹ 수 있어 세계보건기구(WHO) 산하의 국제암연구소(IARC)에서 1급 발암물질로 지정하였다 .	O O O O O O O O ORG-B O ORG-B O O O O
-서강대의 현장실습 프로그램은 기업에서 제공되는 직무분야를 포괄적으로 경험하게 되는 ‘일반 현장실습’과 전공교과과정을 기반으로 전공 실무능력 강화에 초점을 두 +ㄴ ‘전공현장실습’의 두 가지 유형별 프로그램을 운영하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-“Say Charles, WhereShouldIStartinKoreanLiterature? Whatyous houldreadreallydependsonwhatyoulike.(찰스에게 말하세요, 한국문학을 어디서부터 시작하면 되나요? 당신이 무엇을 읽어야 하+ㄹ지는 당신이 무엇+ㄹ 좋아하느냐에 달리었습니다 .	O PER-B ORG-B O PER-B O ORG-B O O O O O O O O O O O O
-과거와 같은 중국 특수의 단물을 기대하기는 어렵다는 것이다 .	O O ORG-B O O O O O O
+김종성 한국학 습진 로 테라피 연구소 장 은 “ 임금 피크 제 로 생긴 재원 으로 청년 채용 이 늘어나 는 선순환 구조 가 만들 어 질지 의문 이 많 다 ” 며 “ 단기적 으로 청년 고용 할당제 를 고려해야 한다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김혜수 " 김고은 연기 가 나 에게 자극 을 준다 …	PER-B O PER-B O O O O O O O O
+부둥켜안 은 두 사람 의 뺨 에서 눈물 이 주르르 흘 렀 다 .	O O O O O O O O O O O O O O
+아주 어릴 적 어머니 가 머리맡 에서 해 주 시 던 그림자놀이 를 재현하 면서 유아 인 은 주문 처럼 중얼거린다 .	O O O O O O O O O O O O O O O PER-B PER-I O O O O O
+이 밖에 19 일 끝난 호주 여자 오픈 에서 시즌 첫 승 을 신고한 장하나 ( 25 · BC 카드 ) 는 태국 에서 2 연속 우승 을 겨냥한다 .	O O DAT-B DAT-I O O O O O O O O O O PER-B O O O ORG-B ORG-I O O LOC-B O O O O O O O
+요즘 꽂힌 남자 는 류준열 씨 다 " 라고 말 했 다 .	O O O O PER-B O O O O O O O O
+석면 가루 는 폐 에 암 이나 악성 종양 을 유발할 수 있 어 세계 보건 기구 ( WHO ) 산하 의 국제암연구소 ( IARC ) 에서 1 급 발암물질 로 지정 했 다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O ORG-B O ORG-B O O O O O O O O O O
+서강대 의 현장 실습 프로그램 은 기업 에서 제공되 는 직무 분야 를 포괄적 으로 경험하 게 되 는 ‘ 일반 현장 실습 ’ 과 전공 교과과정 을 기반 으로 전공 실무 능력 강화 에 초점 을 둔 ‘ 전공 현장 실습 ’ 의 두 가지 유형 별 프로그램 을 운영하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ Say Charles , Where Should I Start in Korean Literature ? What you should read really depends on what you like . ( 찰스 에게 말하 세요 , 한국 문학 을 어디 서부터 시작하 면 되 나요 ? 당신 이 무엇 을 읽 어야 할지 는 당신 이 뭘 좋아하 느냐 에 달 렸 습니다 .	O O PER-B O O O O O O ORG-B O O O O O O O O O O O O O O PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+과거 와 같 은 중국 특수 의 단물 을 기대하 기 는 어렵 다는 것 이 다 .	O O O O ORG-B O O O O O O O O O O O O O

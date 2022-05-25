@@ -1,14 +1,14 @@
-그는 당 대회에 참가 하+ㄴ 총 5054명에게 4만달러씩 들어가 +았다고 추정하였다 .	O O O O O O MNY-B MNY-B O O O O
-농심켈로그 콘푸로스트는 최근 ‘아빠와 함께 나가+아서 놀자’는 메시지를 담은 광고를 선보이었다 .	ORG-B O O O O O O O O O O O
-정 전 의원은 23일 자신의 트위터를 통하+여"250개 투표소에서 각 캠프 투표 참관인들이 결과를 알+ㄹ 수 있어서 예견되+ㄴ 사고+이었다"고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O O
-한화그룹은 63빌딩 시내면세점을 서두르 어오는 12월에 오픈 하+ㄴ다는 목표로 준비에 돌입, 지나 +ㄴ9월부터 본격적 이+ㄴ 공사를 진행하고 있다 .	ORG-B LOC-B LOC-I O O O O O O O O O O O O O O O O
-창사 63년에 63빌딩 면세점 따+아내+어 성적이 꼴찌를 달리던 프로야구단 한화이글스도 올해 들어 몰라 보+ㄹ 정도로 환골탈태하였다 .	O LOC-B LOC-B LOC-I O O O O O ORG-B O O O O O O O
-새누리당 43석, 더불어민주당 40석, 국민의당 13석, 정의당 5석, 무소속 5석이 할당되었다 .	ORG-B O ORG-B O ORG-B O ORG-B O O O O O
-13석을 할당받은 국민의당은 더 많은 이들이 표결 과정을 보+ㄹ 수 있도록 방청인을 네 개조로 나누+어서 탄핵안 표결 과정을 보+ㄹ 수 있도록 하기로 방침을 정하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-몇몇 중소기업이 0.5t 또는 1t급의 기존 화물차를 전기차로 개조하는 수준에 머물고 있다 .	O O O O O O O O O O O O O
-이런 이유로 환경부와 산업통상자원부도 전기화물차 개발·지원에 적극 나서고 있다 .	O O ORG-B ORG-B O O O O O O
-하지만 1분 뒤 레알 수비수 세르히오 라모스가 자책골을 기록하+여1-2로 후반을 마치었고, 1, 2차전 합계 3-3으로 동률을 이루+어 양팀이 연장전에 나서 +었다 .	O O O ORG-B O PER-B PER-I O O O O O O O O O O O O O O O
-안 후보의 발언 중 사립 유치원 측이 크게 주목하는 대목은 바로 ‘독립운영 보장’과 ‘시설 특성에 따르+ㄴ 운영을 인정하+ㄴ다’는 부분이다 .	PER-B O O O O O O O O O O O O O O O O O O O
-마이애미 히트 시절 2차례(2011∼2012, 2012∼2013 시즌)에 걸치+어파이 널 우승을 차지하였지만, 그를 승자로 기억하는 이는 많지 않다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
-영턱스클럽 임성은, 연하남편 공개…"운명처럼 사랑에 빠지+어 .	ORG-B PER-B O O O O O
-미국 금리연동형 상품에 주목하라 전문가들은 연준이 이달 금리 인상을 시작하+여 2년 뒤 2%대 중반까지 금리를 올리+ㄹ 것으로 내다보고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+그 는 당 대회 에 참가한 총 5054 명 에게 4 만 달러 씩 들어갔 다고 추정 했 다 .	O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+농심 켈로그 콘 푸로스트 는 최근 ‘ 아빠 와 함께 나가서 놀 자 ’ 는 메시지 를 담 은 광고 를 선보 였 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+정 전 의원 은 23 일 자신 의 트위터 를 통해 " 250 개 투표소 에서 각 캠프 투표 참관인 들 이 결과 를 알 수 있 어서 예견된 사고 였 다 " 고 밝 혔 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한화그룹 은 63 빌딩 시내 면세점 을 서둘 러 오 는 12 월 에 오픈 한다는 목표 로 준비 에 돌입 , 지난 9 월 부터 본격적 인 공사 를 진행하 고 있 다 .	ORG-B O LOC-B LOC-I LOC-I LOC-I O O O O O DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+창사 63 년 에 63 빌딩 면세점 따 내 성적 이 꼴찌 를 달리 던 프로 야구단 한화 이글스 도 올해 들 어 몰라볼 정도 로 환골탈태 했 다 .	O DAT-B DAT-I O LOC-B LOC-I LOC-I O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+새누리당 43 석 , 더불 어 민주당 40 석 , 국민 의당 13 석 , 정의당 5 석 , 무소속 5 석 이 할당 됐 다 .	ORG-B O O O ORG-B ORG-I ORG-I O O O ORG-B ORG-I O O O ORG-B O O O O O O O O O O O
+13 석 을 할당 받 은 국민 의 당 은 더 많 은 이 들 이 표결 과정 을 볼 수 있 도록 방청인 을 네 개 조 로 나눠서 탄핵 안 표결 과정 을 볼 수 있 도록 하 기 로 방침 을 정 했 다 .	O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+몇몇 중소기업 이 0.5 t 또는 1 t 급 의 기존 화물차 를 전기 차 로 개조하 는 수준 에 머물 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+이런 이유 로 환경부 와 산업 통상 자원 부 도 전기 화물차 개발 · 지원 에 적극 나서 고 있 다 .	O O O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O
+하지만 1 분 뒤 레알 수비수 세르히오 라모스 가 자책골 을 기록해 1 - 2 로 후반 을 마 쳤 고 , 1 , 2 차 전 합계 3 - 3 으로 동률 을 이뤄 양 팀 이 연장전 에 나섰 다 .	O O O O ORG-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+안 후보 의 발언 중 사립 유치원 측 이 크 게 주목하 는 대목 은 바로 ‘ 독립 운영 보장 ’ 과 ‘ 시설 특성 에 따른 운영 을 인정한다 ’ 는 부분 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+마이애미 히트 시절 2 차례 ( 2011 ∼ 2012 , 2012 ∼ 2013 시즌 ) 에 걸쳐 파이널 우승 을 차지 했 지만 , 그 를 승자 로 기억하 는 이 는 많 지 않 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영턱스 클럽 임성은 , 연하 남편 공개 … " 운명 처럼 사랑 에 빠져 "	ORG-B ORG-I PER-B O O O O O O O O O O O O
+미국 금리 연동 형 상품 에 주목하 라 전문가 들 은 연준 이 이달 금리 인상 을 시작해 2 년 뒤 2 % 대 중반 까지 금리 를 올릴 것 으로 내다보 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-대한민국의 정체성을 훼손하+ㄴ사람, 법안 하나 제대로 발의하지 못하+ㄴ사람, 국회 절차와 규칙을 무시하면서 돌출행동을 일삼았던 사람, 갑질하고 막말 하+ㄴ사람, 실력 없이 권력에 줄서+어고아 첨하+ㄴ사람, 부패와 성희롱에 연루되었던 사람, 폭력시위에 참여하+여선동에 앞장서 +었던 사람들에 대하+여신상필벌의 원칙을 세우어 심판 하+여야 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-콜버스는 심야에 스마트폰 애플리케이션(앱)을 통하+여 목적지와 탑승시간을 입력하면 비슷하+ㄴ 경로의 승객을 모으아 운행하는 교통서비스+이다 .	ORG-B O O O O O O O O O O O O O O
-강력 하+ㄴ군사력을 바탕으로 미국이 ‘불량국가’를 관리 하+ 여야 하+ㄴ다는 주장을 펴 +었다 .	O O O ORG-B O O O O O O O O O
-2008년 민주당 버락 오바마 대통령이 당선되면서 공화당에 티파티 세력이 새롭게 등장하였다 .	O ORG-B PER-B PER-I O O ORG-B PER-B O O O O
-2011 시즌1.81의 방어율로 홀드왕에 오르았고, 2012년 마무리로도 실력을 입증(30세 이브·방어율 2.20) 하+ㄴ 뒤 커리어의 전성기에 입대하+ 여야 +였기에 아쉬움이 더욱 크+ㄹ 법 하었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-그러나 2년의 공백을 딛고 돌아오+ㄴ 2015년 정우람은 SK의 불펜에이스로 전반기 1.65의 놀랍ㄴ 방어율을 기록하였다 .	O O O O O O PER-B ORG-B O O O O O O O
-박병호기자회견 “미네소타와의 계약, 기분 좋게 사인하였다 .	PER-B ORG-B O O O O O
-최저임금 근로자의 소득대체율이 90% 수준에 이르어 과도하였던 측면도 개선되 +어야 하+ㄴ다 .	O O O O O O O O O O O O
-킴카다시안 "나+의 블랙베리가 드디어… .	PER-B O O O O
-임 상무는 1998년 삼성전자 이재용(47) 부회장과 결혼하였다가 2009년 합의 이혼하었다 .	PER-B O O ORG-B PER-B O O O O O O
-이날 행사에서 가스안전과 산업 발전에 기여하+ㄴ 공로로 김상범 화성가스 대표이사가 철탑산업훈장을 받았다 .	O O O O O O O PER-B ORG-B O O O O
-배성우 배성재, 영화 ‘특종’ VIP 시사회 동행…해피투게더 녹화에서 +ㄴ 디스 .	PER-B PER-B O O O O O O O O O
-그리 하+여도 60여 년 전처럼 한국 사회를 도와주려고 노력하고 있다 .	O O O O O ORG-B O O O O O
+대한민국 의 정체성 을 훼손한 사람 , 법안 하나 제대로 발의하 지 못한 사람 , 국회 절차 와 규칙 을 무시하 면서 돌출 행동 을 일삼 았 던 사람 , 갑 질 하 고 막말한 사람 , 실력 없이 권력 에 줄 서 고 아첨한 사람 , 부패 와 성희롱 에 연루되 었 던 사람 , 폭력 시위 에 참여해 선동 에 앞장섰 던 사람 들 에 대해 신상필벌 의 원칙 을 세 워 심판해야 한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+콜버스 는 심야 에 스마트 폰 애플리케이션 ( 앱 ) 을 통해 목적지 와 탑승 시간 을 입력하 면 비슷한 경로 의 승객 을 모 아 운행하 는 교통 서비스 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강력한 군사력 을 바탕 으로 미국 이 ‘ 불량 국가 ’ 를 관리해야 한다는 주장 을 폈 다 .	O O O O O ORG-B O O O O O O O O O O O O O
+2008 년 민주당 버락 오바마 대통령 이 당선되 면서 공화당 에 티 파티 세력 이 새롭 게 등장 했 다 .	DAT-B DAT-I ORG-B PER-B PER-I O O O O ORG-B O PER-B PER-I O O O O O O O O
+2011 시즌 1.81 의 방어율 로 홀드 왕 에 올 랐 고 , 2012 년 마무리 로 도 실력 을 입증 ( 30 세이브 · 방어율 2.20 ) 한 뒤 커리어 의 전성기 에 입대해야 했 기에 아쉬움 이 더욱 클 법 했 다 .	DAT-B DAT-I O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 2 년 의 공백 을 딛 고 돌아온 2015 년 정우람 은 SK 의 불펜 에이스 로 전반기 1.65 의 놀라 운 방어율 을 기록 했 다 .	O O O O O O O O O DAT-B DAT-I PER-B O ORG-B O O O O O O O O O O O O O O O
+박병호 기자 회견 “ 미네소타 와 의 계약 , 기분 좋 게 사인 했 다 ”	PER-B O O O ORG-B O O O O O O O O O O O
+최저임금 근로자 의 소득 대체 율 이 90 % 수준 에 이르 러 과도 했 던 측면 도 개선돼야 한다 .	O O O O O O O O O O O O O O O O O O O O O
+킴 카다시안 " 내 블랙베리 가 드디어 … "	PER-B PER-I O O O O O O O
+임 상무 는 1998 년 삼성전자 이재용 ( 47 ) 부회장 과 결혼 했 다가 2009 년 합의 이혼 했 다 .	PER-B O O DAT-B DAT-I ORG-B PER-B O O O O O O O O DAT-B DAT-I O O O O O
+이날 행사 에서 가스 안전 과 산업 발전 에 기여한 공로 로 김상범 화성 가스 대표 이사 가 철탑 산업 훈장 을 받 았 다 .	O O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O
+배 성우 배성재 , 영화 ‘ 특종 ’ VIP 시사회 동행 … 해피투게더 녹화 에선 디스 ?	PER-B PER-I PER-B O O O O O O O O O O O O O O
+그래도 60 여 년 전 처럼 한국 사회 를 도와주 려고 노력하 고 있 다 .	O O O O O O ORG-B O O O O O O O O O

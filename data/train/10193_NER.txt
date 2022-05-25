@@ -1,15 +1,15 @@
-NBCI 평균은 72점으로 전년에 비하+여전체적으로 2점 상승하였다 .	ORG-B O O O O O O O
-동훈 전 국토통일원(현 통일부) 차관은 “‘마이웨이’ 일변도로 가는 북한 정권을 길들이기 위하+여서라도 필요하+ㄴ 조치” +이라며 “지금까지의 악순환을 끊기 위 하+여서 +ㄴ강 하+ㄴ 인식을 주+ㄹ 필요가 있다”고 말하였다 .	PER-B O ORG-B ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-정세현 전 통일부 장관은 “압박만으로 북한의 비핵화+이라는 목표를 달성하는 것은 현실적으로 어렵다”고 우려하였다 .	PER-B O ORG-B O O ORG-B O O O O O O O O
-박 대통령은 우간다를 비롯하+여에티오피아와 케냐 등 아프리카 3개국을 국빈 방문하고 프랑스를 방문하+ㄹ 예정이다 .	PER-B O LOC-B LOC-B LOC-B O LOC-B O O O LOC-B O O O
-중구에 있는 대구시청을 도청 자리로 옮기는 방안도 포함되 +ㄴ다 .	LOC-B O ORG-B O O O O O O O
-경단녀가 되+ㄴ 경우, 임의가입 형태로 3년을 더 납부하+여 10년을 채우어야 +였다 .	O O O O O O O O O O O O
-현재 개발되+ㄴ게이트 맨 블루투스키 4.0 버전은 안드로이드 계열은 4.3젤리빈이상에서, 아이폰 계열은 4S, iOS7.0 이상에서 활용 가능하다 .	O O O O O O O O ORG-B O O O O ORG-B O O O
-서울 서초구 옛 청사와 경기도 포천시 산정호수 가족호텔, 대구시 달성군 화원읍사무소와 제주시청 제5별관 등이 선정되었다 .	LOC-B LOC-I O O LOC-B LOC-I LOC-I LOC-I LOC-B LOC-I LOC-I ORG-B O O O O
-특히 방치기간만 18년 4개월 이+ㄴ 우정병원의 정비사업은 관련 채무액이 수백억원으로 추산되+어 향후 처리에 관심이 모이고 있다 .	O O O O O ORG-B O O O O O O O O O O O
-우선 게임 플레이의 경우 웨스트우드의 명작 ‘듄2’와 거의 흡사 하+여 ‘판타지듄’이라는 비아냥을 받았고, 캐릭터의 모델링이 중에서도 메인 종족이 +ㄴ 오크는 워해머에서 등장하+ㄴ 오크의 특징을 그대로 사용하였다는 지적을 받기도 +였다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-하지만 '워크래프트 : 오크와 인간'은 듄, 레드얼 럿 등 당시 크+ㄴ붐이 일던 실시간 전략 시뮬레이션 게임(이하 RTS) 장르에 전성기를 이끌며 많은 판매고를 올리었고, 이러하+ㄴ 성과는 블리자드가 중소 게임사를 넘어 개발, 퍼블리싱 등을 아우르는 거대 기업으로 성장 하+ㄹ 수 있는 발판을 마련하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
-특히, 블리자드는 이때부터 멀티플레이 모드를 지원하였는데, 당시 캠페인과 자유게임으로만 이루어 지+어 있던 전략 시뮬레이션 게임 장르에크+ㄴ 변화를 주기도 +였으며, 멀티플레이가 핵심 콘텐츠로 성장 하+ㄹ 것을 많은 이들이 게일 깨우어주기도 +였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-1편으로 크+ㄴ 자신감을 얻은 블리자드는 1년 뒤 이+ㄴ 1995년 속편 ‘워크래프트2: 어둠의 파도’를 발매하+ㄴ다 .	O O O O ORG-B O O O O O O O O O O
-현재 청주종합경기장의 규모는 가로64m, 세로 105m로, 국제축구경기 장 기준이+ㄴ 68m, 105m에 못 미치+ㄴ다 .	O LOC-B O O O O O O O O O O O O
-또, 기공개 하+ㄴ바 있는 '더 쉽고 똑똑하+여지+ㄴ UX4.0'의 티저 영상도 함께 공개하였다 .	O O O O O O O O O O O O O
+NBCI 평균 은 72 점 으로 전년 에 비해 전체적 으로 2 점 상승 했 다 .	ORG-B O O O O O O O O O O O O O O O O
+동훈 전 국토 통일원 ( 현 통일부 ) 차관 은 “ ‘ 마이 웨이 ’ 일변도 로 가 는 북한 정권 을 길들이 기 위해서 라도 필요한 조치 ” 라며 “ 지금 까지 의 악순환 을 끊 기 위해선 강한 인식 을 줄 필요 가 있 다 ” 고 말 했 다 .	PER-B O ORG-B ORG-I O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정세현 전 통일부 장관 은 “ 압박 만 으로 북한 의 비 핵 화 라는 목표 를 달성하 는 것 은 현실적 으로 어렵 다 ” 고 우려 했 다 .	PER-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+박 대통령 은 우간다 를 비롯해 에티오피아 와 케냐 등 아프리카 3 개국 을 국빈 방문하 고 프랑스 를 방문할 예정 이 다 .	PER-B O O LOC-B O O LOC-B O LOC-B O LOC-B O O O O O O LOC-B O O O O O O
+중구 에 있 는 대구 시청 을 도청 자리 로 옮기 는 방안 도 포함된다 .	LOC-B O O O ORG-B ORG-I O O O O O O O O O O
+경단 녀 가 된 경우 , 임의 가입 형태 로 3 년 을 더 납부해 10 년 을 채 워야 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+현재 개발된 게이트맨 블루 투스 키 4.0 버전 은 안드로이드 계열 은 4.3 젤 리빈 이상 에서 , 아이폰 계열 은 4 S , iOS 7.0 이상 에서 활용 가능하 다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+서울 서초구 옛 청사 와 경기도 포천시 산정호수 가족호텔 , 대구시 달성군 화원읍 사무소 와 제주 시청 제 5 별관 등 이 선정 됐 다 .	LOC-B LOC-I O O O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O ORG-B ORG-I O O O O O O O O O
+특히 방치 기간 만 18 년 4 개월 인 우정병원 의 정비 사업 은 관련 채무 액 이 수백 억 원 으로 추산돼 향후 처리 에 관심 이 모이 고 있 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+우선 게임 플레이 의 경우 웨스트우드 의 명작 ‘ 듄 2 ’ 와 거의 흡사해 ‘ 판타지 듄 ’ 이 라는 비아냥 을 받 았 고 , 캐릭터 의 모델링 이 중 에서 도 메인 종족 인 오크 는 워 해머 에서 등장한 오크 의 특징 을 그대로 사용 했 다는 지적 을 받 기 도 했 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 ' 워크래프트 : 오크 와 인간 ' 은 듄 , 레드얼럿 등 당시 큰 붐 이 일 던 실시간 전략 시뮬레이션 게임 ( 이하 RTS ) 장르 에 전성기 를 이끌 며 많 은 판매고 를 올 렸 고 , 이러한 성과 는 블리자드 가 중소 게임 사 를 넘 어 개발 , 퍼블리싱 등 을 아우르 는 거대 기업 으로 성장할 수 있 는 발판 을 마련 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 , 블리자드 는 이때 부터 멀티 플레이 모드 를 지원 했 는데 , 당시 캠페인 과 자유 게임 으로 만 이뤄져 있 던 전략 시뮬레이션 게임 장르 에 큰 변화 를 주 기 도 했 으며 , 멀티 플레이 가 핵심 콘텐츠 로 성장할 것 을 많 은 이 들 이 게 일깨 워 주 기 도 했 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 편 으로 큰 자신감 을 얻 은 블리자드 는 1 년 뒤 인 1995 년 속편 ‘ 워크래프트 2 : 어둠 의 파도 ’ 를 발매한다 .	O O O O O O O O ORG-B O O O O O DAT-B DAT-I O O O O O O O O O O O O
+현재 청주 종합 경기장 의 규모 는 가로 64 m , 세로 105 m 로 , 국제 축구 경기장 기준 인 68 m , 105 m 에 못 미친다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 , 기 공개한 바 있 는 ' 더 쉽 고 똑똑해 진 UX 4.0 ' 의 티저 영상 도 함께 공개 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O

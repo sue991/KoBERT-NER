@@ -1,13 +1,13 @@
-대통령의 장녀 이방카 트럼프도 일조 하+ㄴ 것으로 전하+여지+ㄴ다 .	O O PER-B PER-I O O O O O
-도널드 트럼프 미국 대통령은 15일(현지시간) 하와이 연방법원이 반(反)이민수 정 행정명령 발효를 하루 앞두고 관련 법안의 효력을 일시적으로 중단하라는 판결을 내리+ㄴ데 대하+여강하게 비판하였다 .	PER-B PER-I ORG-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O
-○… 재무부는 4일 오전 홍재형 장관이 기획원 부총리로 발탁 사실이 발표되자 사무실마다 일제히 함성이 터지는 등 온통 축제 분위기 .	O ORG-B O O PER-B O O O O O O O O O O O O O O O
-공화당이 합의 무력화를 시도하거나 새롭ㄴ이란 제재 법안을 밀어붙이+ㄹ 가능성이 있기 때문이다 .	ORG-B O O O ORG-B O O ORG-B ORG-B O ORG-B O
-국민의당은 문재인 더불어민주당 전 대표가 4차 산업혁명 화두와 관련 하+ 여자당 안철수 전 상임 공동대표와 비슷하+ㄴ 행보를 보이는 것에 3일 "문 전 대표는 '안철수 따르 아+ㅁ쟁이' +이란 별명을 가볍게 넘기지 말라"고 비난하였다 .	ORG-B PER-B ORG-B O O O O O O O O PER-B O O O O O O O O PER-B O O PER-B PER-I PER-I O O O O O O O
-김경록 대변인은 이날 논평에서 "문 전 대표의 '안철수 따르 아하기'가 도를 넘고 있다"며 "남의 뒤꽁무니만 쫓는 대통령 후보에게 미래를 맡기 +ㄹ국민은 없다"고 주장하였다 .	PER-B O O O PER-B O O PER-B O O O O O O O O O O O O O O O O
-김 대변인은 "문 전 대표는 개헌에 부정적 입장을 내놓다가 안 전 대표가 '2018년 지방선거 때 국민투표에 부치자'는 구체적 실현 계획을 내놓+아호평 받자 슬그머니 똑같은 주장을 따르+아하였다"며 "박근혜 대통령 퇴진과 탄핵 요구도 안 전 대표가 먼저 나서+어 정치권 흐름을 이끌면 어느새 +이+ㄴ가 비슷하+ㄴ말을 하며 뒤를 쫓았다"고 주장하였다 .	PER-B O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O
-이어 "안 전 대표가 이미 방문하였던 장소를 찾아 유사하+ㄴ 행사와 발언을 하는 일도 한두 번이 아니다"고 문 전 대표의 이날 팹랩 방문을 겨냥하였다 .	O PER-B O O O PER-B O O O O O O O O O O PER-B O O O ORG-B PER-B O O
-훌리건의 과격 하+ㄴ 응원이 난무하었던 이번 대회에서 아이슬란드 팬들은 신사적 이+ㄴ 응원으로 화제를 모으았다 .	O O O O O O O ORG-B O O O O O O O
-투애니원과 블랙 핑크, 굳이 “차별화하지 않았다”고 하+ㄴ 만큼 두 그룹은 여러 면에서 ‘닮은꼴’을 완성하+ㄴ다 .	ORG-B ORG-B ORG-I O O O O O O O O O O O O
-‘카카오톡 감청 논란’, ‘국세청 세무조사’ 등 이슈가 끊이지 않았다 .	O O O ORG-B O O O O O O
-인구 10만명 당보행자 사망률은 OECD 국가평균(1.2명)의 3배 이상이다 .	O O O O ORG-B O O O O
-또한 한층 고급스럽어 지+ㄴ 내장 디자인과 1643리터의 동급 최강의 적재공간, 합리적 가격 경쟁력 등이 특징이다 .	O O O O O O O O O O O O O O O O
+대통령 의 장녀 이 방카 트럼프 도 일조한 것 으로 전해 진다 .	O O O PER-B PER-I PER-I O O O O O O O
+도널드 트럼프 미국 대통령 은 15 일 ( 현지 시간 ) 하와이 연방 법원 이 반 ( 反 ) 이민 수정 행정명령 발효 를 하루 앞두 고 관련 법안 의 효력 을 일시적 으로 중단하 라는 판결 을 내린 데 대해 강하 게 비판 했 다 .	PER-B PER-I ORG-B O O DAT-B DAT-I O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+○ … 재무부 는 4 일 오전 홍재형 장관 이 기획 원 부총리 로 발탁 사실 이 발표되 자 사무실 마다 일제히 함성 이 터지 는 등 온통 축제 분위기 .	O O ORG-B O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+공화당 이 합의 무력 화 를 시도하 거나 새로 운 이 란 제재 법안 을 밀어붙일 가능성 이 있 기 때문 이 다 .	ORG-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O
+국민 의 당 은 문재인 더불 어 민주당 전 대표 가 4 차 산업혁명 화두 와 관련해 자당 안철수 전 상임 공동 대표 와 비슷한 행보 를 보이 는 것 에 3 일 " 문 전 대표 는 ' 안철수 따 라 쟁이 ' 란 별명 을 가볍 게 넘기 지 말 라 " 고 비난 했 다 .	ORG-B ORG-I ORG-I O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O PER-B O O O O O O O O O O O O DAT-B DAT-I O PER-B O O O O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O
+김경록 대변인 은 이날 논평 에서 " 문 전 대표 의 ' 안철수 따 라 하 기 ' 가 도 를 넘 고 있 다 " 며 " 남 의 뒤꽁무니 만 쫓 는 대통령 후보 에게 미래 를 맡길 국민 은 없 다 " 고 주장 했 다 .	PER-B O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 대변인 은 " 문 전 대표 는 개헌 에 부정적 입장 을 내놓 다가 안 전 대표 가 ' 2018 년 지방 선거 때 국민 투표 에 부치 자 ' 는 구체적 실현 계획 을 내놔 호평 받 자 슬그머니 똑같 은 주장 을 따 라 했 다 " 며 " 박근혜 대통령 퇴진 과 탄핵 요구 도 안 전 대표 가 먼저 나서 정치권 흐름 을 이끌 면 어느샌가 비슷한 말 을 하 며 뒤 를 쫓 았 다 " 고 주장 했 다 .	PER-B O O O PER-B O O O O O O O O O O PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 " 안 전 대표 가 이미 방문 했 던 장소 를 찾 아 유사한 행사 와 발언 을 하 는 일 도 한두 번 이 아니 다 " 고 문 전 대표 의 이날 팹랩 방문 을 겨냥 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O ORG-B O O O O O O
+훌리건 의 과격한 응원 이 난무 했 던 이번 대회 에서 아이슬란드 팬 들 은 신사적 인 응원 으로 화제 를 모 았 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+투 애니원 과 블랙 핑크 , 굳이 “ 차별화하 지 않 았 다 ” 고 한 만큼 두 그룹 은 여러 면 에서 ‘ 닮은꼴 ’ 을 완성한다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 카카오톡 감청 논란 ’ , ‘ 국세청 세무 조사 ’ 등 이슈 가 끊이 지 않 았 다 .	O O O O O O O ORG-B O O O O O O O O O O O O
+인구 10 만 명 당 보행자 사망률 은 OECD 국가 평균 ( 1.2 명 ) 의 3 배 이상 이 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O
+또한 한층 고급스러 워 진 내장 디자인 과 1643 리터 의 동급 최강 의 적재 공간 , 합리적 가격 경쟁력 등 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O

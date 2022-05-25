@@ -1,15 +1,15 @@
-도올 김용옥, 국정화 교과서맹비난 “헬조선 탈출하는 방법 아니다 .	PER-B PER-B O O O O O O O
-메이지(明治) 대국제일본 학부 후지모토 유카리(藤本由香里) 교수는 “예전에 +ㄴ ‘손을 잡는다’가 연애의 첫걸음이었던 것처럼 이제 +ㄴ가베동이 그런 상징이 +었다”고 풀이하였다 .	ORG-B O O PER-B PER-B O O O O O O O O O O O O O O O
-오후 6시 달집고사(황해도 평산소놀음굿)에잇어 주민들이 직접 만들 +ㄴ 소원지를 달아 쌓은 달 집에 불을 지피는 달집태우기 행사가 열리+ㄴ다 .	TIM-B TIM-I O O O O O O O O O O O O O O O O O
-김환기의 뉴욕 시기 전면 점화는 그 전보다 훨씬 거대 하+여지+ㄴ화폭에 무수하+ㄴ점들이 나타나 +ㄴ다 .	PER-B O O O O O O O O O O O O O
-아사히신문은 “신설대회에서 초대 챔피언을 맹세 하+ㄴ ‘사무라이 재팬’이 숙적한국을 상대로 ‘너무도 잔혹 하+ㄴ 역전패’를 당하였다”며 안타까워하였다 .	ORG-B O O O O O ORG-B ORG-I ORG-B O O O O O O O O
-이재명 성남시장은 6일 국정원의 헌법재판소 사찰 의혹에 대하+여 “박근혜 정부는 헌법재판소뿐만 아니라 음지에서 온갖 불법행위를 대대적으로 벌이고 있을 것”이라고 주장하였다 .	PER-B O O ORG-B O O O O ORG-B O O O O O O O O O O O O
-이에 대하+ 여기업인들의 해외 원정도박을 수사 중 이+ㄴ 서울중앙지검 강력부는 16일 “프로야구 선수들의 도박 의혹에 대하+여서 검찰이 확인 하+ㄴ 내용과 진술은 없다”고 밝히었다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-티모테 우습 회트 게스도이치텔레콤 회장은 이날 간담회에 깜짝 방문 하+여 협력 배경에 대하+ 여설명하였다 .	PER-B PER-I O ORG-B O O O O O O O O O O O
-檢, 조만간 南前사장 소환조 .	O O PER-B O O
-연출은 고전 비틀기의 귀재로 불리는 고선웅이 맡아 고전 이야기를 현대적 감각으로 재해석 하+ㄴ다 .	O O O O O PER-B O O O O O O O O
-꽃의 비밀 2017년 2월 5일까지, 대명문화공장 1관비발디파크홀, 3만5000~5만5000원, 문의02-766-6506 장진감독이 대본을 쓰고 연출에 참여하+ㄴ 작품이다 .	O O O O MNY-B LOC-B LOC-I MNY-B MNY-B PER-B LOC-B O O O O O
-자세히 알아보면 20세기 마지막 해이+ㄴ 1999년에는 동성결혼을 합법화 하+ㄴ 국가가 한 곳도 없었다 .	O O O O O O O O O O O O O O
-우리는 초등 3학년부터 매년 선거를 하+여+오았습니다 .	O O O O O O O
-이가곡집은 슈만이 시인하인리히 하이네의 시집 ‘서정간 주곡’ 중에서 순서 없이 몇 개의 시를 가져오아곡을 붙이+ㄴ 것이 +ㅂ니다 .	O PER-B PER-B PER-I O O O O O O O O O O O O O O
-이 경우 유사시 한미 양국의 북한 핵·미사일 기지에 대하+ㄴ 선제타격이 성공하기 힘들고, 북한의 핵능력이 더는 제어하+ㄹ 수 없는 단계까지 나가+았다는 인식이 대내외적으로 확산되+ㄹ 수 있다 .	O O O ORG-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O
+도올 김용옥 , 국정 화 교과서 맹 비난 “ 헬 조선 탈출하 는 방법 아니 다 ”	PER-B PER-B O O O O O O O O O O O O O O O
+메이지 ( 明治 ) 대 국제 일본 학부 후지모토 유카리 ( 藤本由香里 ) 교수 는 “ 예전 엔 ‘ 손 을 잡 는다 ’ 가 연애 의 첫걸음 이 었 던 것 처럼 이젠 가베 동이 그런 상징 이 됐 다 ” 고 풀이 했 다 .	ORG-B O ORG-B O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오후 6 시 달집 고사 ( 황해도 평산 소놀음굿 ) 에 이 어 주민 들 이 직접 만든 소 원지 를 달 아 쌓 은 달집 에 불 을 지피 는 달집태우기 행사 가 열린다 .	TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김환기 의 뉴욕 시기 전면 점화 는 그전 보다 훨씬 거대해 진 화폭 에 무수한 점 들 이 나타난다 .	PER-B O O O O O O O O O O O O O O O O O O O
+아사히신문 은 “ 신설 대회 에서 초대 챔피언 을 맹세한 ‘ 사무라이 재팬 ’ 이 숙적 한국 을 상대 로 ‘ 너무 도 잔혹한 역전패 ’ 를 당 했 다 ” 며 안타까워 했 다 .	ORG-B O O O O O O O O O O ORG-B ORG-I O O O ORG-B O O O O O O O O O O O O O O O O O O O
+이재명 성남 시장 은 6 일 국정원 의 헌법 재판소 사찰 의혹 에 대해 “ 박근혜 정부 는 헌법재판소 뿐 만 아니 라 음지 에서 온갖 불법행위 를 대대적 으로 벌이 고 있 을 것 ” 이라고 주장 했 다 .	PER-B O O O DAT-B DAT-I ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 대해 기업인 들 의 해외 원정 도박 을 수사 중 인 서울중앙지검 강력부 는 16 일 “ 프로 야구 선수 들 의 도박 의혹 에 대해서 검찰 이 확인한 내용 과 진술 은 없 다 ” 고 밝 혔 다 .	O O O O O O O O O O O O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+티모 테 우스 회트게스 도이치 텔레콤 회장 은 이날 간담회 에 깜짝 방문해 협력 배경 에 대해 설명 했 다 .	PER-B PER-I PER-I PER-I ORG-B ORG-I O O O O O O O O O O O O O O O
+檢 , 조만간 南 前 사장 소환 조사	O O O PER-B O O O O
+연출 은 고전 비틀기 의 귀재 로 불리 는 고선웅 이 맡 아 고전 이야기 를 현대적 감각 으로 재해석한다 .	O O O O O O O O O PER-B O O O O O O O O O O O
+꽃 의 비밀 2017 년 2 월 5 일 까지 , 대 명문화 공장 1 관 비발디 파크 홀 , 3 만 5000 ~ 5 만 5000 원 , 문의 02 - 766 - 6506 장진 감독 이 대본 을 쓰 고 연출 에 참여한 작품 이 다 .	O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I O O O O O O O PER-B O O O O O O O O O O O O O
+자세히 알아보 면 20 세기 마지막 해 인 1999 년 에 는 동성 결혼 을 합법화한 국가 가 한 곳 도 없 었 다 .	O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+우리 는 초등 3 학년 부터 매년 선거 를 해 왔 습니다 .	O O O O O O O O O O O O O
+이 가곡집 은 슈만 이 시인 하인리히 하이네 의 시집 ‘ 서정 간주곡 ’ 중 에서 순서 없이 몇 개 의 시 를 가져 와 곡 을 붙인 것 입니다 .	O O O PER-B O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+이 경우 유사시 한미 양국 의 북한 핵 · 미사일 기지 에 대한 선제타격 이 성공하 기 힘들 고 , 북한 의 핵 능력 이 더 는 제어할 수 없 는 단계 까지 나갔 다는 인식 이 대내외적 으로 확산될 수 있 다 .	O O O ORG-B O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O

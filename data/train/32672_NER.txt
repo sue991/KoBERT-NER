@@ -1,15 +1,15 @@
-‘더민주 ++국민의당’도 179억4000만원을 수령 하+ㄹ 수 있지만 금액 면에서 +ㄴ 손해+이다 .	ORG-B ORG-B MNY-B O O O O O O O O O
-북한은 이후 모의 탄 해상수직 발사 사출시험(2014년)과 모의 탄 수중 사 출 시험(2015년)에잇어 이달 8일 모의 탄 수중 잠수함사 출시험까지 실시하며 SLBM 개발에 한층 더 다가가 +았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-902명 중 212명(23.5%)만 가족과 이주하+ㄴ한국도로공사, 312명 중 50명(16.6%) 이 동반 이주하+ㄴ 중소기업진흥공단도 상황은 마찬가지+이다 .	O O O O ORG-B O O O O O O ORG-B O O O
-절반 이상 떨어지+ㄴ석박사 여성 결혼 하+ㄹ 확률 … 어쩌 .	O O O O O O O O O O
-소비자가격은 80만원.●골프존 카운티, 설맞이 이벤트 골프존 카운티는 설을 맞아 풍성하+ㄴ 이벤트를 준비하였다 .	O MNY-B ORG-I O O ORG-B ORG-I O O O O O O
-중국 관료사회의 춘절 선물 풍속은 1930년대 이미 드러나 +았다 .	LOC-B O O O O O O O O O
-4년 유예는 미봉책에 불과하며, 정부 정책의 신뢰도에도 나쁘+ㄴ 영향을 미치었다는 비판이 나오는 이유+이다 .	O O O O O O O O O O O O O O
-‘자유선임 6년++선택 지정 3년’이 원칙이다 .	O O O O O O
-기획단은 보고서에서 국과연이 말하는 ‘핵심기술 90% 보유’ 주장은 “이해관계가 있는 연구자와 업체 관계자에 대하+ㄴ 설문조사 결과에 불과하+ㄴ 것으로 객관적 이+ㄴ 기술평가도 아니다”라며 “2014년 한국과학기술기획평가원(KISTEP) 주관 하에 시행되+ㄴ항전장비에 대하+ㄴ 객관적 기술성숙도 평가 결과 AESA(능동형 위상 배열) 레이더 자체의 국내 기술 수준이 14%에 불과하+여체계 개발 가능성이 어렵ㄴ 것으로 평가되었는데도 이 사실 을은폐하였다”고 주장하였다 .	ORG-I O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-방사청은 이튿날 AESA 레이더 기술 수준에 대하+ㄴ 해당 평가는 “국내 일부 업체의 자체 기술 수준 정도를 조사하+ㄴ 것으로 국과연을 포함하+ㄴ국내 보유기술을 전체적으로 조사하+ㄴ 결과가 아니다”라고 해명하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-이후 성완종 리스트 파문과 메르스(MERS·중동호흡기증후군) 사태로 연타를 맞은 끝에 올해 6월 29%까지 떨어지었다 .	O O O O O O O O O O O O O O
-사실 여부와 관계없이 대통령 측근들이 정윤회 감찰 문건 유출 배후가 김무성 대표와 유 의원이라고 믿는다면 박 대통령 역시 그렇게 보고받고 그렇게 믿고 있을 가능성이 높다 .	O O O O O PER-B O O PER-B O PER-B O PER-B O O PER-B O O O O O O O O O O
-2016년 20대 총선에서도 친노계 핵심이 +ㄴ문재인 대표 하에서, 이들은 오히려 지분을 더 확대하였다 .	O O O O O PER-B O O O O O O O O
-2차전에서 2골 차 이상으로 승리하+ 여야 8강에 오르+ㄹ 수 있다 .	O O O O O O O O O O O
-출생아수에서 사망자 수를 빼+ㄴ 자연 증가는 12만5300명으로 증가 규모가 1970년 이후로 가장 적었다 .	O O O O O O O O O O O O O O
+‘ 더 민주+ 국민 의당 ’ 도 179 억 4000 만 원 을 수령할 수 있 지만 금액 면 에선 손해 다 .	O ORG-B O ORG-B ORG-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O
+북한 은 이후 모의탄 해상 수직 발사 사출 시험 ( 2014 년 ) 과 모의탄 수중 사출 시험 ( 2015 년 ) 에 이 어 이달 8 일 모의탄 수중 잠수함 사출 시험 까지 실시하 며 SLBM 개발 에 한층 더 다가갔 다 .	ORG-B O O O O O O O O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+902 명 중 212 명 ( 23.5 % ) 만 가족 과 이주한 한국도로공사 , 312 명 중 50 명 ( 16.6 % ) 이 동반 이주한 중소기업 진흥 공단 도 상황 은 마찬가지 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O
+절반 이상 떨어진 석 박사 여성 결혼할 확률 … 어쩌다	O O O O O O O O O O
+소비자 가격 은 80 만 원 . ● 골프존 카운티 , 설맞이 이벤트 골프존 카운티 는 설 을 맞 아 풍성한 이벤트 를 준비 했 다 .	O O O MNY-B MNY-I MNY-I O O ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O O O
+중국 관료 사회 의 춘절 선물 풍속 은 1930 년대 이미 드러났 다 .	LOC-B O O O DAT-B O O O O O O O O O
+4 년 유예 는 미봉책 에 불과하 며 , 정부 정책 의 신뢰도 에 도 나쁜 영향 을 미 쳤 다는 비판 이 나오 는 이유 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 자유 선임 6 년+ 선택 지정 3 년 ’ 이 원칙 이 다 .	O O O O O O O O O O O O O O O
+기획 단 은 보고서 에서 국과 연 이 말하 는 ‘ 핵심 기술 90 % 보유 ’ 주장 은 “ 이해관계 가 있 는 연구자 와 업체 관계자 에 대한 설문 조사 결과 에 불과한 것 으로 객관적 인 기술 평가 도 아니 다 ” 라며 “ 2014 년 한국 과학 기술 기획 평가 원 ( KISTEP ) 주관 하 에 시행된 항전 장비 에 대한 객관적 기술 성숙 도 평가 결과 AESA ( 능동형 위상 배열 ) 레이더 자체 의 국내 기술 수준 이 14 % 에 불과해 체계 개발 가능성 이 어려 운 것 으로 평가 됐 는데 도 이 사실 을 은폐 했 다 ” 고 주장 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방사 청 은 이튿날 AESA 레이더 기술 수준 에 대한 해당 평가 는 “ 국내 일부 업체 의 자체 기술 수준 정도 를 조사한 것 으로 국과 연 을 포함한 국내 보유 기술 을 전체적 으로 조사한 결과 가 아니 다 ” 라고 해명 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 성완종 리스트 파문 과 메르스 ( MERS · 중동 호흡기 증후군 ) 사태 로 연타 를 맞 은 끝 에 올해 6 월 29 % 까지 떨어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+사실 여부 와 관계없이 대통령 측근 들 이 정윤회 감찰 문건 유출 배후 가 김무성 대표 와 유 의원 이 라고 믿 는다면 박 대통령 역시 그렇 게 보고 받 고 그렇 게 믿 고 있 을 가능성 이 높 다 .	O O O O O O O O PER-B O O O O O PER-B O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O
+2016 년 20 대 총선 에서 도 친 노계 핵심 인 문재인 대표 하 에서 , 이 들 은 오히려 지분 을 더 확대 했 다 .	DAT-B DAT-I O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+2 차 전 에서 2 골 차 이상 으로 승리해야 8 강 에 오를 수 있 다 .	O O O O O O O O O O O O O O O O O O
+출생아 수 에서 사망자 수 를 뺀 자연 증가 는 12 만 5300 명 으로 증가 규모 가 1970 년 이후 로 가장 적 었 다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O

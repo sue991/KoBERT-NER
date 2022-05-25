@@ -1,15 +1,15 @@
-앞차거리 유지 등 운전 편의 향상 9단 자동변속기에 4륜구동 채택 E3004MATIC에는 4기통 2.0 리터가솔린 터보 엔진과 9단 자동변속기, 4륜구동장치가 결합되+어 있다 .	O O O O O O O O O O O O O O O O O O O O O O
-앞서 +ㄴ 북한의 도발 때마다 “관련국이 긴장을 고조하는 행위를 자제하+여달라”는 입장을 반복적으로 내놓았던 것에 비하+여, 북한에 대하+ㄴ 비난 수위가 한층 높아지+ㄴ 것이다 .	O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O
-트럼프 대통령은 후보 시절부터 “북한의 비핵화에 중국이 기여 하+ㄴ바가 없다”는 발언 등을 하며 북핵 문제를 중국을 압박하는 방식으로 해결하+ㄹ 뜻을 내비치+어+오았다 .	PER-B O O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O
-시간을 돌리+ㄹ 수 있다면 만년부장에 머무르겠다고 답하+ㄴ 임원은 100명 중 10명에 그치었다 .	O O O O O O O O O O O O O
-회사(법인)에서 최고의 자리 이+ㄴ CEO에 오르+ㄴ 여성은 1863명으로 2009년 1126명보다 737명 늘어나 +았다 .	O O O O O O O O O O O O O O
-마동석은 "극중 백숙집을 운영하는 캐릭터를 맡았는데 실제로 닭을 잡아서 삶고 끝까지 +였다"며 "살아있는 닭을 잡아야 하니까, 저와 체질이 안 맞는다"고 고개를 젓었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-홍순만한국철도공사(코레일) 신임 사장(60·사진) 이 전날 전동차 궤도 이탈 사고가 나 +ㄴ 서울 지하철 1호선 노량진역을 10일 오전 방문하는 것으로 첫 업무를 시작하였다 .	ORG-B O O O O O O O O O O LOC-B O O LOC-B O O O O O O O O
-청주에서 전주로 이동하는 기차에서도시락으로 점심을 해결하기도 +였다 .	LOC-B LOC-B O O O O O O
-자발적 리콜 캠페인은 전국 25개 아우디 공식 서비스센터에서 2016년 10월 2일까지 1년 6개월 동안 실시되며 해당 고객에게는 자동차 안전연구원(KATRI)을 통하+여 개별 안내문이 우편발송+되었다 .	O O O O O O O O O O O O O O O O O ORG-B ORG-B O O O O O
-가령 핵탄두 미사일 10기 중 발사 준비 단계에서 90%를 제거하+ 여도 한 개는 날아오+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O
-서울은 15~27도로 예보되었다 .	LOC-B O O O
-취재진이 하도 찾아오아이들 부부가 피하+여다니 고문도 안 열어 주+ㄴ다는 얘기를 주민들로부터 이미 듣은 터+이라, 인기 척도 내지 않고 조심스럽게 문을 따고 들어가는 원빈의 부모와 절묘하+ㄴ타이밍에 마주치었음에도 모질게 내치+ㄹ까 싶어 내심 걱정이 앞서 +었다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
-그들이 아니었다면 우리는 나라 예산의 3분의 1을 쓰는 군대가 강건하고 훌륭하게 잘 나가고 있는 것으로 속지 않았겠느냐. .	O O O O O O O O O O O O O O O O O O
-아시아 축구연맹(AFC) 챔피언스리그 +이라는 클럽대항전으로 또 2018년 러시아 월드컵 출전을 위하+ㄴ아시아 지역 최종 예선이라는 국가 대항전으로 바쁘게 맞붙는다 .	LOC-B ORG-B O O O O O O O O LOC-B O O O O O O O O
-반면 2000년 6월 아시아 거래소 중 가장 먼저 기업공개(IPO)에 나서 +ㄴ 홍콩거래소는 빠르+ㄴ 속도로 덩치를 불리었다 .	O O O LOC-B ORG-I O O O O O O ORG-B O O O O O
+앞차 거리 유지 등 운전 편의 향상 9 단 자동 변속기 에 4 륜 구동 채택 E 300 4 MATIC 에 는 4 기통 2.0 리터 가솔린 터보 엔진 과 9 단 자동 변속기 , 4 륜 구동 장치 가 결합돼 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞선 북한 의 도발 때 마다 “ 관련 국 이 긴장 을 고조하 는 행위 를 자제해 달 라 ” 는 입장 을 반복 적 으로 내 놨 던 것 에 비해 , 북한 에 대한 비난 수위 가 한층 높아진 것 이 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+트럼프 대통령 은 후보 시절 부터 “ 북한 의 비 핵 화 에 중국 이 기여한 바 가 없 다 ” 는 발언 등 을 하 며 북 핵 문제 를 중국 을 압박하 는 방식 으로 해결할 뜻 을 내비쳐 왔 다 .	PER-B O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+시간 을 돌릴 수 있 다면 만 년 부장 에 머물 겠 다고 답한 임원 은 100 명 중 10 명 에 그 쳤 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+회사 ( 법인 ) 에서 최고 의 자리 인 CEO 에 오른 여성 은 1863 명 으로 2009 년 1126 명 보다 737 명 늘어났 다 .	O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+마동석 은 " 극 중 백숙 집 을 운영하 는 캐릭터 를 맡 았 는데 실제로 닭 을 잡 아서 삶 고 끝 까지 했 다 " 며 " 살 아 있 는 닭 을 잡 아야 하 니까 , 저 와 체질 이 안 맞 는다 " 고 고개 를 저 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+홍순만 한국철도공사 ( 코레일 ) 신임 사장 ( 60 · 사진 ) 이 전날 전동차 궤도 이탈 사고 가 난 서울 지하철 1 호 선 노량진역 을 10 일 오전 방문하 는 것 으로 첫 업무 를 시작 했 다 .	PER-B ORG-B O ORG-B O O O O O O O O O O O O O O O O LOC-B O O O O LOC-B O DAT-B DAT-I O O O O O O O O O O O O
+청주 에서 전주 로 이동하 는 기차 에서 도시락 으로 점심 을 해결하 기 도 했 다 .	LOC-B O LOC-B O O O O O O O O O O O O O O O
+자발적 리콜 캠페인 은 전국 25 개 아우디 공식 서비스 센터 에서 2016 년 10 월 2 일 까지 1 년 6 개월 동안 실시되 며 해당 고객 에게 는 자동차 안전 연구원 ( KATRI ) 을 통해 개별 안내문 이 우편 발송 됐 다 .	O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O
+가령 핵탄두 미사일 10 기 중 발사 준비 단계 에서 90 % 를 제거해도 한 개 는 날아올 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O
+서울 은 15 ~ 27 도 로 예보 됐 다 .	LOC-B O O O O O O O O O O
+취재진 이 하도 찾아 와 이 들 부부 가 피해 다니 고 문 도 안 열 어 준다는 얘기 를 주민 들 로부터 이미 들 은 터 라 , 인기척 도 내 지 않 고 조심스럽 게 문 을 따 고 들어가 는 원빈 의 부모 와 절묘한 타이밍 에 마주 쳤 음 에 도 모질 게 내칠까 싶 어 내심 걱정 이 앞섰 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+그 들 이 아니 었 다면 우리 는 나라 예산 의 3 분 의 1 을 쓰 는 군대 가 강건하 고 훌륭하 게 잘 나가 고 있 는 것 으로 속 지 않 았 겠 느냐 . 」	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아시아축구연맹 ( AFC ) 챔피언스 리그 라는 클럽 대항전 으로 또 2018 년 러시아 월드컵 출전 을 위한 아시아 지역 최종 예선 이 라는 국가 대항전 으로 바쁘 게 맞붙 는다 .	ORG-B O ORG-B O O O O O O O O DAT-B DAT-I O O O O O LOC-B O O O O O O O O O O O O O
+반면 2000 년 6 월 아시아 거래소 중 가장 먼저 기업 공개 ( IPO ) 에 나선 홍콩 거래소 는 빠른 속도 로 덩치 를 불 렸 다 .	O DAT-B DAT-I DAT-I DAT-I LOC-B O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O

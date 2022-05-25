@@ -1,15 +1,15 @@
-‘최순실 국정조사’ 특별위원회 위원이 +ㄴ 하태경 새누리당 의원은 8일 JTBC ‘뉴스룸’ 측이 ‘최순실 태블릿PC’ 입수 배경을 밝히기로 하+ㄴ 결정을 환영하며 “한 점의 의혹도 남기지 않고 깨끗이 해명하기를 기대하+ㄴ다”고 말하였다 .	ORG-B ORG-I ORG-I O O PER-B ORG-B O O ORG-B ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O
-레퓨레에서 출시하+ㄴ ‘순수간장’과 ‘순수된장’은 저염도 기능성 소금이 +ㄴ리염과 국산 콩을 사용하+ㄴ 제품이다 .	ORG-B O O O O O O O O O O O O
-춘천시는 관람객의 보행 편의를 위하+여일시 입장객을 200명 이내로 제한하+ㄹ 방침이다 .	ORG-B O O O O O O O O O O
-최근 킴카다시안은 자신의 인스타그램에 거울 앞에 옆으로서+어서 찍은 누드 사진을 게재하였다 .	O PER-B O O O O O O O O O O
-〈대한변호사협회 사무총장 .	ORG-B O O
-또 백화점 대형마트 온라인 쇼핑몰 등에서도 최대 5%를 캐시백해주고 있어 신용카드 못지않은 혜택을 누리+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O
-시진핑 소통 리더십 … 현서기 102명과 악 .	PER-B O O O O O O O
-아프리카TV는 25일부터 2016 미국 메이저리그(MLB) 생중계를 진행하+ㄴ다 .	ORG-B O O O O O O O
-피아트크라이슬러 오토모빌(FCA)코리아는 9월 중형 스포츠 유틸리티 차량(SUV) 이+ㄴ 2016년 형 ‘지프체로키 디젤’ 인증을 신청하였으나 절차가 중단되었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O
-두 사람의 선거캠프도 뉴욕에 있다 .	O O O LOC-B O O
-또 다른 관계자는 “야권 전통적 지지층에서 안 지사에 대하+ㄴ 반감이 확실히 커지었다”며 ‘안 지사의 지지율이 한번 꺾이+ㄴ 상태에서 상승의 계기를 마련하기가 쉽지 않다“고 언급하였다 .	O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O
-크리스마스 고정 TV 프로, '나홀로 집에' 어느 채널에 .	O O O O O O O O O
-김씨 등은 검찰과 국정원의 수사과정에서 대한민국을 ‘적’으로 지칭하고 조사에 일절 응하지 않고 있다 .	PER-B O O O O ORG-B O O O O O O O O
-새누리당 서울시당 위원장이+ㄴ 김용태 의원은 1일 서울 용산 출마를 선언하+ㄴ강용석 전 의원의 복당(復黨)과 관련 하+여 “당으로서는 크+ㄴ부담”이라며 부정적 이+ㄴ 입장을 밝히었다 .	ORG-B LOC-B O PER-B O O LOC-B LOC-B O PER-B O O O O O O O O O O O O
-호기심 많은 곰 ‘붐바’와 과격하고 성마르+ㄴ 호랑이 ‘툼바’가 주인공이다 .	O O O PER-B O O O PER-B O O
+‘ 최순실 국정 조사 ’ 특별 위원회 위원 인 하태경 새누리당 의원 은 8 일 JTBC ‘ 뉴스룸 ’ 측 이 ‘ 최순실 태블릿 PC ’ 입수 배경 을 밝히 기 로 한 결정 을 환영하 며 “ 한 점 의 의혹 도 남기 지 않 고 깨끗이 해명하 기 를 기대한다 ” 고 말 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B ORG-B O O DAT-B DAT-I ORG-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+레퓨레 에서 출시한 ‘ 순수 간장 ’ 과 ‘ 순수 된장 ’ 은 저 염 도 기능성 소금 인 리 염과 국산 콩 을 사용한 제품 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+춘천시 는 관람객 의 보행 편의 를 위해 일시 입장객 을 200 명 이내 로 제한할 방침 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+최근 킴 카다시안 은 자신 의 인스타그램 에 거울 앞 에 옆 으로 서서 찍 은 누드 사진 을 게재 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+〈 대한 변호사 협회 사무총장 〉	O ORG-B ORG-I ORG-I O O
+또 백화점 대형 마트 온라인 쇼핑몰 등 에서 도 최대 5 % 를 캐시백 해 주 고 있 어 신용 카드 못지않 은 혜택 을 누릴 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시진핑 소통 리더십 … 현 서기 102 명 과 악수	PER-B O O O O O O O O O
+아프리카 TV 는 25 일 부터 2016 미국 메이저리그 ( MLB ) 생 중계 를 진행한다 .	ORG-B ORG-I O DAT-B DAT-I O DAT-B O O O O O O O O O O
+피아트 크라이슬러 오토모빌 ( FCA ) 코리아 는 9 월 중형 스포츠 유틸리티 차량 ( SUV ) 인 2016 년 형 ‘ 지프 체로키 디젤 ’ 인증 을 신청 했 으나 절차 가 중단 됐 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O DAT-B DAT-I O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+두 사람 의 선거 캠프 도 뉴욕 에 있 다 .	O O O O O O LOC-B O O O O
+또 다른 관계자 는 “ 야권 전통적 지지 층 에서 안 지사 에 대한 반감 이 확실히 커 졌 다 ” 며 ‘ 안 지사 의 지지율 이 한번 꺾인 상태 에서 상승 의 계기 를 마련하 기 가 쉽 지 않 다 “ 고 언급 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+크리스마스 고정 TV 프로 , ' 나 홀로 집 에 ' 어느 채널 에서	DAT-B O O O O O O O O O O O O O
+김 씨 등 은 검찰 과 국정원 의 수사 과정 에서 대한민국 을 ‘ 적 ’ 으로 지칭하 고 조사 에 일절 응하 지 않 고 있 다 .	PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+새누리당 서울시 당 위원장 인 김용태 의원 은 1 일 서울 용산 출마 를 선언한 강용석 전 의원 의 복당 ( 復黨 ) 과 관련해 “ 당 으로서 는 큰 부담 ” 이 라며 부정적 인 입장 을 밝 혔 다 .	ORG-B O O O O PER-B O O DAT-B DAT-I LOC-B LOC-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+호기심 많 은 곰 ‘ 붐바 ’ 와 과격하 고 성마른 호랑이 ‘ 툼 바 ’ 가 주인공 이 다 .	O O O O O PER-B O O O O O O O PER-B PER-I O O O O O O

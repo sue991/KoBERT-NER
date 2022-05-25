@@ -1,13 +1,13 @@
-소속사 없이 독립적으로 활동하던 김용만과 노홍철은 FNC와 계약을 맺으면서 새롭ㄴ 방송 활동에 나서 +ㄹ 예정이다 .	O O O O PER-B PER-B ORG-B O O O O O O O O O
-한편, FNC에는 이외에도 FT아일랜드, 씨엔블루 AOA, 주니엘, 엔플라잉 등 가수를 비롯하+ 여배우이다해, 이동건, 박광현, 정우, 조재윤, 윤진서, 김민서 등이 소속되+어 있다 .	O ORG-B O O O O PER-B O O O O PER-B PER-B PER-B PER-B PER-B PER-B PER-B O O O O
-이미 앞서 짓어 지+ㄴ 종암 아파트(1958년)에도 연탄보일러를 도입하고도방은 온돌식 난방을 유지하였다 .	O O O O LOC-B LOC-I O O O O O O
-대법원 3부(주심 박보영 대법관)는 1조3000억원대 사기성 기업어음(CP)과 회사채를 발행하+여투자자 4만여명에게 손해를 끼치+ㄴ 혐의(특정경제범죄가중처벌법상 사기) 등으로 재판에 넘기+어지+ㄴ 현재 현 전 동양그룹 회장(66)에게 15일 징역 7년을 확정하였다 .	MNY-I ORG-I PER-B O MNY-B O O O O O O O O O O O O O O O ORG-B O MNY-B O O O O
-박소담이 재벌 삼형제와의 동거를 시작하였다 .	PER-B O O O O O
-백 22로 중앙 백대마를 보강하면서 반상은 잠시 소강상태에 들어가 +았다 .	O O O O O O O O O O O
-과거에도 쉽지 +ㄴ 않았지만, 2018 러시아 월드컵으로 향하는 길은 유난히 멀고 험난하+ㄴ 느낌이다 .	O O O O O O O O O O O O O O
-서울 동작구 신대방동 현대아파트에 살는 주부 허정자(51)씨는 여름철이면 급증하는 전기요금 때문에 걱정이다 .	LOC-B LOC-B LOC-B LOC-B O O PER-B O O O O O O
-최준선 성균관대 법학전문대학원 교수(전상사법학회장)은 “집중투표제와 근로자 사외이사제가 도입되면 경영정보 유출 등으로 대주주 경영권과 재산권이 침해되+ㄹ 수 있다”고 강조하였다 .	PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
-프로의 꿈을 완성하+ㄹ 마지막 관문은 드리+ㅁ(2부) 투어다 .	O O O O O O O O
-장 실장은 ADAS 개발실장을 맡아 미래 자동차 신기술로 꼽히는 자율주행 기술을 연구하고 있다 .	PER-B PER-B O PER-B O O O O O O O O O O
-20대 중후반등 젊은 층의 구매 비율이 서울보다 높다는 것이 특징이다 .	O O O O O O LOC-B O O O O
-영국 대법원장은 판결을 내리면서 “브렉시트 국민투표는 정치적으로 엄청나 +ㄴ의 미를 갖지만 법적 권한은 분명히 의회에 있다”고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O
+소속 사 없이 독립적 으로 활동하 던 김용만 과 노홍철 은 FNC 와 계약 을 맺 으면서 새로 운 방송 활동 에 나설 예정 이 다 .	O O O O O O O PER-B O PER-B O ORG-B O O O O O O O O O O O O O O O
+한편 , FNC 에 는 이외 에 도 FT 아일랜드 , 씨엔블루 AOA , 주니엘 , 엔플라잉 등 가수 를 비롯해 배우 이다해 , 이동건 , 박광현 , 정우 , 조재윤 , 윤진서 , 김민서 등 이 소속돼 있 다 .	O O ORG-B O O O O O O O O O O O PER-B O O O O O O O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O
+이미 앞서 지 어 진 종암 아파트 ( 1958 년 ) 에 도 연탄보일러 를 도입하 고 도 방 은 온돌 식 난방 을 유지 했 다 .	O O O O O LOC-B LOC-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+대법원 3 부 ( 주심 박보영 대법관 ) 는 1 조 3000 억 원 대 사기 성 기업 어음 ( CP ) 과 회사채 를 발행해 투자자 4 만 여 명 에게 손해 를 끼친 혐의 ( 특정 경제 범죄 가중 처벌 법 상 사기 ) 등 으로 재판 에 넘겨 진 현재현 전 동양 그룹 회장 ( 66 ) 에게 15 일 징역 7 년 을 확정 했 다 .	ORG-B ORG-I ORG-I O O PER-B O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O DAT-B DAT-I O O O O O O O O
+박소담 이 재벌 삼 형제 와 의 동거 를 시작 했 다 .	PER-B O O O O O O O O O O O O
+백 22 로 중앙 백 대마 를 보강하 면서 반상은 잠시 소강상태 에 들어갔 다 .	O O O O O O O O O O O O O O O O
+과거 에 도 쉽 진 않 았 지만 , 2018 러시아 월드컵 으로 향하 는 길 은 유난히 멀 고 험난한 느낌 이 다 .	O O O O O O O O O DAT-B O O O O O O O O O O O O O O O
+서울 동작구 신대방동 현대 아파트 에 사 는 주부 허정자 ( 51 ) 씨 는 여름철 이 면 급증하 는 전기 요금 때문 에 걱정 이 다 .	LOC-B LOC-B LOC-B LOC-B LOC-I O O O O PER-B O O O O O O O O O O O O O O O O O O
+최준선 성균관대 법학 전문 대학원 교수 ( 전 상사법 학 회장 ) 은 “ 집중 투표 제 와 근로자 사외 이사 제 가 도입되 면 경영 정보 유출 등 으로 대주주 경영권 과 재산권 이 침해 될 수 있 다 ” 고 강조 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+프로 의 꿈 을 완성할 마지막 관문 은 드림 ( 2 부 ) 투어 다 .	O O O O O O O O O O O O O O O O
+장 실장 은 ADAS 개발 실장 을 맡 아 미래 자동차 신기술 로 꼽히 는 자율 주행 기술 을 연구하 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+20 대 중 후반 등 젊 은 층 의 구매 비율 이 서울 보다 높 다는 것 이 특징 이 다 .	O O O O O O O O O O O O LOC-B O O O O O O O O O
+영국 대법원장 은 판결 을 내리 면서 “ 브렉시트 국민 투표 는 정치적 으로 엄청난 의미 를 갖 지만 법적 권한 은 분명히 의회 에 있 다 ” 고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

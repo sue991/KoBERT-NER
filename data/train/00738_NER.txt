@@ -1,11 +1,11 @@
-입학설명회 참가 희망자는 사이버한국외대 홈페이지에서 신청 가능하며, 2017-1학기 2차 신·편입생 모집에 대하+ㄴ자세 하+ㄴ요강 및 절차는 입학지원센터 홈페이지 혹은 전화로 확인 하+ㄹ 수 있다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-19일 전남 전골은 그의 클래식 1호골이자, 제주 이적 후 첫 골이다 .	O ORG-B O O O O ORG-B O O O O O
-수지의 '예스노 메이비'는 20대 초반 여성이 사랑의 아픔에 눈 뜨며 혼란스럽어 하는 복잡 하+ㄴ 마음이 담기 +어 있다 .	PER-B O O O O O O O O O O O O O O O O O O
-고대 그리스의 시인 호메로스의 『일리아드 』는 참을 수 없는 아킬레우스의 분노로 시작하+ㄴ다 .	O ORG-B O PER-B O O O O O PER-B O O O
-그리스 최고의 영웅 아킬레우스.신들의 은총을 받는 아킬레우스.그의 분노는 어디에서 오는 것이 +ㄹ까? 사랑하는 노예브리세이스를 연합군사령관 아가멤 논에게 빼앗기+ㄴ아킬레우스는 전쟁 참여를 거부하+ㄴ다 .	ORG-B O O PER-B O O PER-B O O O O O O PER-B O O O PER-B O O O O
-말씀 자료 중 ‘지배구조 안정화를 바라+ㄴ다’고 기재하+ㄴ 내용도 윤인대 행정관이 ‘이 정도는 말씀하시+어도 되겠다 .	O O O O O O O O PER-B O O O O O O
-정 대표는 “유명 하+ㄴ 식당에서 토종 식재료를 많이 쓰+ㄹ수록 국산 농산물에 대하+ㄴ가치는 높아지고 판매에 도움이 되+ㄴ다”며 반기었다 .	PER-B O O O O O O O O O O O O O O O O O
-박씨가 “아빠가 구의원이면 더 잘하고 다니+어야지 이러면 어떻게 하느냐”고 맞서자 정씨는 욕설을 퍼붓으며 박씨의 뺨을 두 대 때리었다 .	PER-B O O O O O O O O O PER-B O O PER-B O O O O O
-정의당은 변함없고 무당층 비율은 4%포인트 늘었다 .	ORG-B O O O O O O
-한편 이번 조사는 지나 +ㄴ 10일부터 12일까지 전국 성인 1005명을 대상으로 휴대전화 RDD 표본 프레임에서 무작위 추출하+여전화 조사원 인터뷰 방식으로 진행하였고, 응답률은 24%(총통화 4274명 중 1005명 응답 완료)에 표본오차는 95% 신뢰 수준에 3.1%p+이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-금융위원회가 26일 ‘금융위 옴부즈만 활동이 성공적이었다’는 자화자 찬성 결산 자료를 발표하였다 .	ORG-B O ORG-B O O O O O O O O O
+입학 설명 회 참가 희망자 는 사이버 한국외대 홈페이지 에서 신청 가능하 며 , 2017 - 1 학기 2 차 신 · 편입생 모집 에 대한 자세한 요강 및 절차 는 입학 지원 센터 홈페이지 혹은 전화 로 확인할 수 있 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+19 일 전남 전 골 은 그 의 클래식 1 호 골 이 자 , 제주 이적 후 첫 골 이 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O ORG-B O O O O O O O
+수지 의 ' 예스 노 메이비 ' 는 20 대 초반 여성 이 사랑 의 아픔 에 눈뜨 며 혼란스러 워 하 는 복잡한 마음 이 담겨 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고대 그리스 의 시인 호메로스 의 『 일리아드 』 는 참 을 수 없 는 아킬레우스 의 분노 로 시작한다 .	O ORG-B O O PER-B O O O O O O O O O O PER-B O O O O O
+그리스 최고 의 영웅 아킬레우스 . 신 들 의 은총 을 받 는 아킬레우스 . 그 의 분노 는 어디 에서 오 는 것 일까 ? 사랑하 는 노예 브리 세이스 를 연합군 사령관 아가멤논 에게 빼앗긴 아킬레우스 는 전쟁 참여 를 거부한다 .	ORG-B O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B PER-I O O O PER-B O O PER-B O O O O O O
+말씀 자료 중 ‘ 지배 구조 안정화 를 바란다 ’ 고 기재한 내용 도 윤인대 행정관 이 ‘ 이 정도 는 말씀하 셔도 되 겠 다 ’	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+정 대표 는 “ 유명한 식당 에서 토종 식 재료 를 많이 쓸수록 국산 농산물 에 대한 가치 는 높아지 고 판매 에 도움 이 된다 ” 며 반 겼 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 씨 가 “ 아빠 가 구 의원 이 면 더 잘하 고 다녀야지 이러 면 어떻 게 하 느냐 ” 고 맞서 자 정 씨 는 욕설 을 퍼부 으며 박 씨 의 뺨 을 두 대 때 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O
+정의당 은 변함없 고 무당 층 비율 은 4 % 포인트 늘 었 다 .	ORG-B O O O O O O O O O O O O O O
+한편 이번 조사 는 지난 10 일 부터 12 일 까지 전국 성인 1005 명 을 대상 으로 휴대전화 RDD 표본 프레임 에서 무작위 추출해 전화 조사 원 인터뷰 방식 으로 진행 했 고 , 응답 률 은 24 % ( 총 통화 4274 명 중 1005 명 응답 완료 ) 에 표본 오차 는 95 % 신뢰 수준 에 3.1 % p 다 .	O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+금융 위원회 가 26 일 ‘ 금융위 옴부즈만 활동 이 성공적 이 었 다 ’ 는 자화자찬 성 결산 자료 를 발표 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O

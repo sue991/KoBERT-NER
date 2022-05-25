@@ -1,12 +1,12 @@
-지난해 초 현대차에 입사하였다 .	O O ORG-B O O
-방송인 박수홍이 문신과 왁싱에 관심을 보이었다 .	O PER-B O O O O O
-추진력은 80t이며 200초간 연소시험을 +였다”고 주장하였다 .	O O O O O O O
-교육부와 국사편찬위원회가 국정 역사교과서 공개 이후 접수되+ㄴ 오류 13건을 최종본에 반영하기로 +였다 .	ORG-B ORG-B O O O O O O O O O O O
-▼대한전문건설 協 신임 회장 신홍균 씨 ▼대한전문건설협회는 30일 임시총회를 열고 신홍균 대홍에이스건업 대표를 신임 회장으로 선출하였다고 밝히었다 .	ORG-B ORG-I O O PER-B O ORG-B O O O PER-B ORG-B O O O O O O
-올 4월 공동출입문 자동 개폐시스템이 +ㄴ IoTPass를 출시하+ㄹ 예정이며 조만간 IoT 카메라도 선보이+ㄹ 방침이다 .	O O O O O O O O O O O O O O O
-지나+ㄴ 8월 요기요에서비스 고도화를 목표로 투자 하+ㄴ 419억원을 포함하+여 총 659억원을 투입하였다 .	O O ORG-B O O O O MNY-B O O MNY-B O O
-이번 평가는 △지난해 매출액 증가율 △최근 3년간 연평균 매출 성장률 대비 지난해 초과성장률 △자기자본이익률 △부채비율 △고용 증가율 등 5개 항목별 점수를 매기+ㄴ 뒤 모두 더하는 방식으로 진행되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지난주 급제동이 걸리었던 고진영은 “컷 탈락하였던 것+이 아니라 그 대회에 출전하지 않았다고 생각하였다 .	O O O PER-B O O O O O O O O O O
-나 혼자 살+ㄴ 다 황석정…"19금 매력발산? 영화도 19금 영화만?' 반전에 반전 .	O O O O PER-B O O O O O O O
-북한이 모든 핵무기와 핵 프로그램을 포기하겠다는 2005년 9·19 공동성명이 깨지+ㄴ이유가 미국의 BDA 금융제재에 있다고 보는 중국이 이번에 +ㄴ 미국의 세컨더리 보이콧에 찬성하+ㄹ지 주목되+ㄴ다 .	ORG-B O O O O O O O O O ORG-B O O O O ORG-B O O ORG-B O O O O O
-오리온의 김병철 코치에게 ‘영업비밀’을 단도직입적으로 묻으니 “직선 스텝”이라는 답이 돌아오았다 .	ORG-B PER-B O O O O O O O O O
+지난해 초 현대차 에 입사 했 다 .	O O ORG-B O O O O O
+방송인 박수홍 이 문신 과 왁싱 에 관심 을 보 였 다 .	O PER-B O O O O O O O O O O O
+추진력 은 80 t 이 며 200 초 간 연소 시험 을 했 다 ” 고 주장 했 다 .	O O O O O O O O O O O O O O O O O O O O
+교육부 와 국사 편찬 위원회 가 국정 역사 교과서 공개 이후 접수된 오류 13 건 을 최종 본 에 반영하 기 로 했 다 .	ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+▼ 대한 전문 건설 協 신임 회장 신홍균 씨 ▼ 대한 전문 건설 협회 는 30 일 임시 총회 를 열 고 신홍균 대홍 에이스 건업 대표 를 신임 회장 으로 선출 했 다고 밝 혔 다 .	O ORG-B ORG-I ORG-I ORG-I O O PER-B O O ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O
+올 4 월 공동 출입문 자동 개폐 시스템 인 IoT Pass 를 출시할 예정 이 며 조만간 IoT 카메라 도 선보일 방침 이 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+지난 8 월 요기요 에 서비스 고도화 를 목표 로 투자한 419 억 원 을 포함해 총 659 억 원 을 투입 했 다 .	O DAT-B DAT-I ORG-B O O O O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O
+이번 평가 는 △ 지난해 매출액 증가율 △ 최근 3 년 간 연평균 매출 성장률 대비 지난해 초과 성장률 △ 자기 자본 이익률 △ 부채비율 △ 고용 증가율 등 5 개 항목 별 점수 를 매긴 뒤 모두 더하 는 방식 으로 진행 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난주 급제동 이 걸 렸 던 고진영 은 “ 컷 탈락 했 던 게 아니 라 그 대회 에 출전하 지 않 았 다고 생각 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+나 혼자 산다 황석정 … " 19 금 매력 발산 ? 영화 도 19 금 영화 만 ? ' 반전 에 반전 '	O O O PER-B O O O O O O O O O O O O O O O O O O O
+북한 이 모든 핵무기 와 핵 프로그램 을 포기하 겠 다는 2005 년 9 · 19 공동 성명 이 깨진 이유 가 미국 의 BDA 금융 제재 에 있 다고 보 는 중국 이 이번 엔 미국 의 세컨 더 리 보이콧 에 찬성할지 주목된다 .	ORG-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O
+오리온 의 김병철 코치 에게 ‘ 영업 비밀 ’ 을 단도직입적 으로 물 으니 “ 직선 스텝 ” 이 라는 답 이 돌아 왔 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O

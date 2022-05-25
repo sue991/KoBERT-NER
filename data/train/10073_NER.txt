@@ -1,14 +1,14 @@
-수리와 모나는 철갑기계들과 함께 뛰었다 .	PER-B PER-B O O O O
-“그런데 어디로 나가 +아?” 모나가 수리에게 묻었다 .	O O O O PER-B PER-B O O
-“아메티스트 !어디+이야?” 수리가 부르었다 .	LOC-B O PER-B O O
-서울시 적정택시 총량은 6만여 대다 .	ORG-B O O O O O
-운행 중 이+ㄴ 택시는 약 7만여 대다 .	O O O O O O O O
-직선 400m를 경주 하+여 순위를 정하+ㄴ다 .	O O O O O O O
-월남전에 참전하었다는 김정명씨와 간첩 혐의로 끌려오았다는 서울 출신 장덕, 서정복 씨, 일본으로 밀항하였다가 다시 북한으로 들어 오+ㄴ 김영원, 강덕현씨 가족 등이 있었다 .	O O PER-B O O O LOC-B O PER-B PER-B O ORG-B O O ORG-B O O PER-B PER-B O O O O
-21%에 불과하+ㄴ 호남이 주목받는 것은 야권의 텃밭이+ㄴ 데 .	O O LOC-B O O O O O O
-1992년 평화은행 인가 이후 24년 만에 다시 은행 인가가나 +ㄴ 것이다 .	O O O O O O O O O O O O
-신임 사외이사는 한승수 전 국무총리, 윤증현 전 기획재정부 장관, 박병원 전 대통령 경제수석비서관, 김대기 전 대통령실 정책실장으로 모두 고위 관료 출신이다 .	O O PER-B O O PER-B O ORG-B O PER-B O O O PER-B O O O O O O O O
-이대호 홈런, 11호 홈런… '빅보이'가 완벽하게 돌아오았 .	PER-B O O O O O O O
-이에 ‘라디오 스타’ MC들은 “초능력을 보이어 달라”고 요구하였다 .	O O O O O O O O O
-특히 중남미 핵심 좌파 국가 이+ㄴ 볼리비아의 다비드 초께 우앙까쎄스뻬 데스 외교장관과 만나 +아 북핵 문제 해결을 위하 +ㄴ 지지를 당부하였다 .	O LOC-B O O O O ORG-B PER-B PER-I PER-I O O O O O O O O O O O O
-[간추리+ㄴ뉴스/단신]본 도시락, 모바일 상품권 50% 할 .	O O O O O O O
+수리 와 모나 는 철갑 기계 들 과 함께 뛰 었 다 .	PER-B O PER-B O O O O O O O O O O
+“ 그런데 어디 로 나가 ? ” 모나 가 수리 에게 물 었 다 .	O O O O O O O PER-B O PER-B O O O O O
+“ 아메티 스트 ! 어디 야 ? ” 수리 가 불 렀 다 .	O LOC-B LOC-I O O O O O PER-B O O O O O
+서울시 적정 택시 총량 은 6 만 여 대 다 .	ORG-B O O O O O O O O O O
+운행 중 인 택시 는 약 7 만 여 대 다 .	O O O O O O O O O O O O
+직선 400 m 를 경주해 순위 를 정한다 .	O O O O O O O O O
+월남 전 에 참전 했 다는 김정명 씨 와 간첩 혐의 로 끌려 왔 다는 서울 출신 장덕 , 서정복 씨 , 일본 으로 밀항 했 다가 다시 북한 으로 들어온 김 영원 , 강덕현 씨 가족 등 이 있 었 다 .	O O O O O O PER-B O O O O O O O O LOC-B O PER-B O PER-B O O ORG-B O O O O O ORG-B O O PER-B PER-I O PER-B O O O O O O O O
+21 % 에 불과한 호남 이 주목 받 는 것 은 야권 의 텃밭 인 데 다	O O O O LOC-B O O O O O O O O O O O O
+1992 년 평화 은행 인가 이후 24 년 만 에 다시 은행 인가 가 난 것 이 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O
+신임 사외 이사 는 한승수 전 국무총리 , 윤증현 전 기획 재정부 장관 , 박 병원 전 대통령 경제 수석 비서관 , 김대기 전 대통령 실 정책 실장 으로 모두 고위 관료 출신 이 다 .	O O O O PER-B O O O PER-B O ORG-B ORG-I O O PER-B PER-I O O O O O O PER-B O O O O O O O O O O O O O
+이대호 홈런 , 11 호 홈런 … ' 빅 보이 ' 가 완벽하 게 돌아 왔 다	PER-B O O O O O O O O O O O O O O O O
+이 에 ‘ 라디오스타 ’ MC 들 은 “ 초능력 을 보 여 달 라 ” 고 요구 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+특히 중남미 핵심 좌파 국가 인 볼리비아 의 다비드 초 께 우 앙 까 쎄스뻬데스 외교 장관 과 만나 북 핵 문제 해결 을 위한 지지 를 당부 했 다 .	O LOC-B O O O O ORG-B O PER-B PER-I PER-I PER-I PER-I PER-I PER-I O O O O O O O O O O O O O O O O
+[ 간추린 뉴스 / 단신 ] 본도 시락 , 모바일 상품권 50 % 할인	O O O O O O O O O O O O O O

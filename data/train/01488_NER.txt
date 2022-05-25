@@ -1,16 +1,16 @@
-동계훈련은 어떻게 하고 있나.“집이 인천이라 오전에 팔당 팀 선수들과 스피돔에서 트랙 훈련을 하고 오후에는 아라뱃길 도로 훈련을 하+ㄴ다 .	O O O O LOC-B O ORG-B ORG-I O LOC-B O O O O O O O O O
-키라라우쉬는 키 173㎝에 초록 눈동자와 금발이 매력적이+ㄴ 러시아 출신의 모델이다 .	PER-B O O O O O O LOC-B O O O
-오나미는 지나 +ㄴ 12일 방송되+ㄴ JTBC ‘님과 함께 시즌2-최고(高)의 사랑’에서 “꿈을 이루었다”고 밝히었다. 오나미는 “8년간 허경환씨를 짝사랑하였다 .	PER-B O O O O ORG-B O O O O O O O PER-B O PER-B O O
-또한 전시가 이루어지는 기간 동안 사전 시승 예약되+ㄴ 고객은 물론 VIP 고객을 대상으로 DB9볼란테에 대하+ㄴ시 승 체험행사도 펼쳐 지+ㄴ다. 크레송오토모티브가 참여하고 있는 행사는 롯데백화점에비뉴얼 월드타워점이 11일까지 펼쳐지는 브리티 시위크를 맞이하 +여 펼쳐지는 행사와 함께하는 전시 일환으로 영국 전통 스포츠카를 럭셔리 브랜드를 찾는 고객들과 함께하는 영국의 멋을 알+ㄹ 수 있는 공간으로 구성을 +였다 .	O O O O O O O O O O O O O O O O O O O ORG-B O O O LOC-B LOC-I O O O O O O O O O O O LOC-B O O O O O O O LOC-B O O O O O O O O
-총 13명의 구성되 +ㄴ마운드를 선발 4명, 제2선발 5명, 구원 4명으로 운용 하+ㄴ다는 뜻이다 .	O O O O O O O O O O O O O O
-이밖에 저우샤오촨은 “위안화 가치가 거의 안정되고 있다”고 말하였다 .	O PER-B O O O O O O O
-중국은 이미 세계 최대의 로봇 시장이다 .	LOC-B O O O O O O
-올림픽으로 성장 하+ㄴ 대한민국의 모습을 알리+ㄴ 그 여세로 세계시장을 공략하자는 전략이었다 .	O O O ORG-B O O O O O O O O
-한국공항공사 청주지사 측은 이 같은 청주공항의 성장 배경을 △2008년 시작되+ㄴ 24시간 공항 운영 △지난해 4월부터 시행 하+ㄴ 120시간 무비자 환승 공항 지정에 따르+ㄴ 중국인 관광객 지속 증가 △중국 정기노선 3개에서 7개로 확대 △홍콩 노선 정기노선화 △진에어제주노선 신규 취항 등을 꼽고 있다 .	ORG-B ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O LOC-B O O O LOC-B O O O O LOC-B O O LOC-B O O O O O O
-새 시스템에 대하+ㄴ호기심이 크다. 브라질에서 오+ㄴ 2명의 코치가 훈련을 리드 하+ㄴ다 .	O O O O LOC-B O O O O O O O
-당시 러시아의 중앙은행은 개혁군주 알렉산드르 2세의 사재로 설립되+ㄴ 내각의 부속기구+이었으며, 국고금관리에 초점이 맞추어 지+어 있었다 .	O LOC-B ORG-B O PER-B PER-I O O O O O O O O O O
-‘리멤버’ 남궁민, 도로 위에서 골프채 난동 ‘섬뜩 .	O PER-B O O O O O O
-신한은행 본점 앞은 지난번 보도에서 승객 대기 행렬이 길어 보행자 불편이 심하+ㄴ 곳으로 지적되 +ㄴ 곳이다 .	ORG-B O O O O O O O O O O O O O O O O
-정부가 EU와 최종 합의 전 반드시 의회 승인을 받아야 하+ㄴ다는 얘기+이다 .	O ORG-B O O O O O O O O O O
-대한민국은 지금 과잉복지와 증세 논쟁으로 전쟁 중이다 .	ORG-B O O O O O O O
-김 전 대표는 반문(反文) 기치를 분명히 하면서 “이번 대선은 힘을 합치+어보겠다는 유능(有能)과 혼자 하겠다는 무능(無能)의 대결이라고 말 하+ 여자 강론자 이+ㄴ 안철수 국민의당 후보도에두르어 비판하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O
+동계 훈련 은 어떻 게 하 고 있 나 . “ 집 이 인천 이 라 오전 에 팔당 팀 선수 들 과 스피돔 에서 트랙 훈련 을 하 고 오후 에 는 아라 뱃길 도로 훈련 을 한다 .	O O O O O O O O O O O O O LOC-B O O O O ORG-B ORG-I O O O LOC-B O O O O O O O O O O O O O O O O
+키라 라우 쉬 는 키 173 ㎝ 에 초록 눈동자 와 금발 이 매력적 인 러시아 출신 의 모델 이 다 .	PER-B PER-I PER-I O O O O O O O O O O O O LOC-B O O O O O O
+오나미 는 지난 12 일 방송된 JTBC ‘ 님 과 함께 시즌 2 - 최고 ( 高 ) 의 사랑 ’ 에서 “ 꿈 을 이루 었 다 ” 고 밝 혔 다 . 오나미 는 “ 8 년 간 허경환 씨 를 짝사랑 했 다 .	PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O
+또한 전시 가 이뤄지 는 기간 동안 사전 시승 예약된 고객 은 물론 VIP 고객 을 대상 으로 DB 9 볼란테 에 대한 시승 체험 행사 도 펼쳐진다 . 크레송 오토모티브 가 참여하 고 있 는 행사 는 롯데백화점 에비 뉴얼 월드 타워 점 이 11 일 까지 펼쳐지 는 브리티시 위크 를 맞이해 펼쳐지 는 행사 와 함께 하 는 전시 일환 으로 영국 전통 스포츠카 를 럭셔리 브랜드 를 찾 는 고객 들 과 함께 하 는 영국 의 멋 을 알 수 있 는 공간 으로 구성 을 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+총 13 명 의 구성된 마운드 를 선발 4 명 , 제 2 선발 5 명 , 구원 4 명 으로 운용한다는 뜻 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 밖 에 저우샤오촨 은 “ 위안 화 가치 가 거의 안정되 고 있 다 ” 고 말 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O
+중국 은 이미 세계 최대 의 로봇 시장 이 다 .	LOC-B O O O O O O O O O O
+올림픽 으로 성장한 대한민국 의 모습 을 알린 그 여세 로 세계 시장 을 공략하 자는 전략 이 었 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O
+한국공항공사 청주 지사 측 은 이 같 은 청주 공항 의 성장 배경 을 △ 2008 년 시작된 24 시간 공항 운영 △ 지난해 4 월 부터 시행한 120 시간 무 비자 환승 공항 지정 에 따른 중국인 관광객 지속 증가 △ 중국 정기 노선 3 개 에서 7 개 로 확대 △ 홍콩 노선 정기 노선 화 △ 진 에어 제주 노선 신규 취항 등 을 꼽 고 있 다 .	ORG-B ORG-I ORG-I O O O O O ORG-B ORG-I O O O O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O LOC-B O O O O O ORG-B ORG-I LOC-B O O O O O O O O O O
+새 시스템 에 대한 호기심 이 크 다 . 브라질 에서 온 2 명 의 코치 가 훈련 을 리드한다 .	O O O O O O O O O LOC-B O O O O O O O O O O O
+당시 러시아 의 중앙은행 은 개혁 군주 알렉산드르 2 세 의 사재 로 설립된 내각 의 부속 기구 였 으며 , 국고금 관리 에 초점 이 맞추 어 져 있 었 다 .	O LOC-B O ORG-B O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O
+‘ 리멤버 ’ 남궁민 , 도로 위 에서 골프채 난동 ‘ 섬뜩 ’	O O O PER-B O O O O O O O O O
+신한은행 본점 앞 은 지난번 보도 에서 승객 대기 행렬 이 길 어 보행자 불편 이 심한 곳 으로 지적된 곳 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+정부 가 EU 와 최종 합의 전 반드시 의회 승인 을 받 아야 한다는 얘기 다 .	O O ORG-B O O O O O O O O O O O O O O
+대한민국 은 지금 과잉 복지 와 증세 논쟁 으로 전쟁 중 이 다 .	ORG-B O O O O O O O O O O O O O
+김 전 대표 는 반 문 ( 反文 ) 기치 를 분명히 하 면서 “ 이번 대선 은 힘 을 합쳐 보 겠 다는 유능 ( 有能 ) 과 혼자 하 겠 다는 무능 ( 無能 ) 의 대결 이 라고 말해 자강 론 자 인 안철수 국민 의당 후보 도 에둘 러 비판 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O

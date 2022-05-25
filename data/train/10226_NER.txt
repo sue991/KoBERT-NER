@@ -1,17 +1,17 @@
-불교와 힌두, 그리고 그리스 양식이 융합적으로 메콩강에서 만나 +아새롭 ㄴ 해양문명을 만들어 내 +ㄴ 것이다 .	O O O O O O LOC-B O O O O O O O O O
-해상왕국으로 한때 번성을 누리던 푸난은 5세기부터 쇠퇴하기에 이르+ㄴ다 .	O O O O ORG-B O O O O
-딜러들은 향후 18개월에 걸치+어딜러 1곳당 평균 185만달러(약 20억4000만원)을 받게 되+ㄴ다 .	O O O O O O MNY-B MNY-B O O O
-폴크스바겐은 지난해 9월 미국에서 소형 디젤 엔진을 장착하+ㄴ 약 60만대 차량이 현지 배출가스 규제를 피하기 위하+여저감장치를 조작하+ㄴ 사실이 적발되었다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O O
-애경산업 ‘사랑과 존경’으로 생활용품 선물세트 시장 업그레이드 1954년 애경유지공업 주식회사로 생활용품 사업을 시작하면서 탄생하+ㄴ애경그룹은 생활용품 사업부문을 1985년 설립되 +ㄴ애경산업에 넘기게 되+ㄴ다 .	ORG-B O O O O O O O O O O O O ORG-B O O O O ORG-B O O O
-얼마 전 어깨 수술을 받아 그동안 LA 다저스 경기에서 보+ㄹ 수 없었던 류현진은 이날 특별히 경기장에 나오아 평창올림픽 홍보대사 이+ㄴ 추신수와 함께 올림픽 엠블럼이 인쇄되+ㄴ 티셔츠를 들고 기념촬영을 +였다 .	O O O O O O ORG-B ORG-I O O O O PER-B O O O O O O O PER-B O O O O O O O O O
-전원책 변호사 역시 “계급이 깡패+이라는 말이 맞는 사건”이라고 강도 높게 비판하였다 .	PER-B O O O O O O O O O O O
-박 회장은 소문나 +ㄴ ‘기부천사‘이기도 하다 .	PER-B O O O O O O
-예원은 당시 논란에 대하+여스스럼없이 언급하는 분위기에 당황하며 “대+어놓고 막 이야기를 하네요? 다들 쉬쉬 하+ㄹ줄 알았는데 놀라 +았다”고 밝히+ㄴ 뒤 스스로 뒷이야기를 털어놓았다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-그는 “항공분야에서도 새롭ㄴ 시대가 열리면서 보잉이나 록히드마틴과 같은 전통적 이+ㄴ 항공업체뿐 아니라 구글, 아마존 등 기존에는 전혀 관련이 없었던 기업과의 협업이 늘었다”고 설명하였다 .	O O O O O ORG-B ORG-B O O O O O ORG-B ORG-B O O O O O O O O O O
-한경연, 올해 성장률 2.7% →2.4% 하향… 내년 2.6% 예 .	ORG-B O O O O O O O O O
-파리발이집트 여객기 추락…이집트 “테러 가능성 크다 .	LOC-B O LOC-B O O O O
-박 대통령은 “기업인들과 소통”하+ㄴ 것이라고 표현하였지만 세간의 인식과는 차이가 있다는 지적이 나 오+ㄴ다 .	PER-B O O O O O O O O O O O O O
-이 때문에 조달청은 기획재정부와의 논의를 거치+어 조달분야 법정 전문연구기관이+ㄴ ‘한 구조달 정책연구원’의 설립을 원하고 있다 .	O O ORG-B ORG-B O O O O O O O O O O O O
-숭모회는 “유묵의 글귀는 논어 ‘위령 공편’에 나오며 ‘높은 뜻을 가지+ㄴ 선비와 어질 +ㄴ사람은 옳은 일을 위하+ 여목숨을 버리+ㄴ다’는 뜻”이라고 설명하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-전용 84㎡전셋값이 4억~4억3000만원대+이다 .	O MNY-B MNY-B O
-도심권에서 +ㄴ종로구 교남동 경희궁 자이가 눈길을 끌+ㄴ다 .	O LOC-B LOC-I LOC-I LOC-I O O O
+불교 와 힌두 , 그리고 그리스 양식 이 융합 적 으로 메콩강 에서 만나 새로 운 해양 문명 을 만들 어 낸 것 이 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+해상 왕국 으로 한때 번성 을 누리 던 푸난 은 5 세기 부터 쇠퇴하 기 에 이른다 .	O O O O O O O O ORG-B O O O O O O O O O
+딜러 들 은 향후 18 개월 에 걸쳐 딜러 1 곳 당 평균 185 만 달러 ( 약 20 억 4000 만 원 ) 을 받 게 된다 .	O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O
+폴크스바겐 은 지난해 9 월 미국 에서 소형 디젤 엔진 을 장착한 약 60 만 대 차량 이 현지 배출 가스 규제 를 피하 기 위해 저감 장치 를 조작한 사실 이 적발 됐 다 .	ORG-B O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+애경산업 ‘ 사랑 과 존경 ’ 으로 생활 용품 선물 세트 시장 업그레이드 1954 년 애경유지 공업 주식회사 로 생활 용품 사업 을 시작하 면서 탄생한 애경그룹 은 생활 용품 사업 부문 을 1985 년 설립된 애경산업 에 넘기 게 된다 .	ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O ORG-B O O O O O O DAT-B DAT-I O ORG-B O O O O O
+얼마 전 어깨 수술 을 받 아 그동안 LA 다저스 경기 에서 볼 수 없 었 던 류현진 은 이날 특별히 경기장 에 나 와 평창 올림픽 홍보 대사 인 추신수 와 함께 올림픽 엠블럼 이 인쇄된 티셔츠 를 들 고 기념 촬영 을 했 다 .	O O O O O O O O ORG-B ORG-I O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+전원책 변호사 역시 “ 계급 이 깡패 라는 말 이 맞 는 사건 ” 이라고 강도 높 게 비판 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+박 회장 은 소문난 ‘ 기부 천사 ‘ 이 기 도 하 다 .	PER-B O O O O O O O O O O O O O
+예원 은 당시 논란 에 대해 스스럼없이 언급하 는 분위기 에 당황하 며 “ 대 놓 고 막 이야기 를 하 네요 ? 다 들 쉬쉬할 줄 알 았 는데 놀랐 다 ” 고 밝힌 뒤 스스로 뒷이야기 를 털어 놨 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 항공 분야 에서 도 새로 운 시대 가 열리 면서 보잉 이나 록히드마틴 과 같 은 전통적 인 항공 업체 뿐 아니 라 구글 , 아마존 등 기존 에 는 전혀 관련 이 없 었 던 기업 과 의 협업 이 늘 었 다 ” 고 설명 했 다 .	O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+한경연 , 올해 성장률 2.7 % → 2.4 % 하향 … 내년 2.6 % 예상	ORG-B O O O O O O O O O O O O O O
+파리 발 이집트 여객기 추락 … 이집트 “ 테러 가능성 크 다 ”	LOC-B O LOC-B O O O LOC-B O O O O O O
+박 대통령 은 “ 기업인 들 과 소통 ” 한 것 이 라고 표현 했 지만 세간 의 인식 과 는 차이 가 있 다는 지적 이 나온다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 때문 에 조달청 은 기획 재정부 와 의 논의 를 거쳐 조달 분야 법정 전문 연구 기관 인 ‘ 한구 조달 정책 연구원 ’ 의 설립 을 원하 고 있 다 .	O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+숭모 회 는 “ 유묵 의 글귀 는 논어 ‘ 위령 공 편 ’ 에 나오 며 ‘ 높 은 뜻 을 가진 선비 와 어진 사람 은 옳 은 일 을 위해 목숨 을 버린다 ’ 는 뜻 ” 이라고 설명 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전용 84 ㎡ 전셋값 이 4 억 ~ 4 억 3000 만 원 대 다 .	O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+도심 권 에선 종로구 교남동 경희궁 자이 가 눈길 을 끈다 .	O O O LOC-B LOC-I LOC-I LOC-I O O O O O

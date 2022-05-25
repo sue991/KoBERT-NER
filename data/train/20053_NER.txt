@@ -1,19 +1,19 @@
-송도2교를 사이에 두고 송도와 연수동 사이에 있는 동춘동에 들어서는 이 단지는 송도생활권을 누리면서 연수동의 생활편의시설까지 이용하+ㄹ 수 있다 .	LOC-B O O LOC-B LOC-B O O LOC-B O O O LOC-B O LOC-B O O O O O
-당시 그들이 내세우+ㄴ 전기요금 인하 요구의 근거는 “2014년 이후 연료 가격 하락을 감안하+ㄹ 때 지난해 한전 의원가회수율은 100%를 상회 하+ㄹ 것으로 추정되+ㄴ다”는 것.“산업용 전기, 원가 이상 공급”이라는 산자부의 8월 9일 발언이 무엇에 근거하+ㄴ 것이 +ㄴ지를 알+ㄹ 수 있는 대목이다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-소찬휘 '무한도전-토토가'… "유재석 덕에 본명 '김경희' 찾았다 .	PER-B O PER-B O O PER-B O O
-이번 시즌 여성 선수로는 처음 ‘8월 베스트 플레이어’가 되+ㄴ문안나에게 트로피와 상금 150만원을 +었다 .	O O O O O O O O O O O MNY-B O O
-통상 소주의 알코올 도수가 16∼18도로 17도 안팎이라는 점을 감안하였다 .	O O O O O O O O O O
-반면 새정치민주연합은 “우리가 선제적으로 5·24 조치를 해제하면 국제사회에서 명분을 얻는 것은 물론이고 남북 협상에서도 주도권을 쥐는 실리를 취하+ㄹ 수 있다”며 정부에 5·24 조치의 해제를 요구하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-방위사업청은 4월 21일 4개 핵심기술을 이전 하+ㄹ 수 없다는 미국의 통보를 받았으나 6월 8일에야 청와대에 보고하였다 .	O O O O O O O O O ORG-B O O O O ORG-B O O
-[내일의 경기/6월 7일] 프로야구 .	O O O O O
-발렌티나 셰브첸코, ‘前 챔프’ 홀리홈 잡았다… 심판 전원 일치 판정 .	PER-B PER-I O O O O O O O O O
-새 앨범 ‘화양연화pt.1’으로 컴백 하+ㄴ방탄소년단이 ‘스타캐스트’를 통하+여팬들을 만나 +았다 .	O O O O ORG-B O O O O O
-29일 네이버 ‘스타캐스트’를 통하+여생중계되+ㄴ방탄소년단의 ‘INEEDU, BTSONAIR’에서는 최근 새 앨범 ‘화양연화pt.1’으로 컴백 하+ㄴ그룹 방탄소년단이 출연하+여새 앨범에 대하+ㄴ 다양하+ㄴ이야기를 나누었다 .	O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O
-이날 ‘스타캐스트’에서 랩몬스터는 세 번째 미니앨범 ‘화양연화pt.1’에 대하+여 “우리 팀은 다양하+ㄴ 연령대가 있다 .	O O PER-B O O O O O O O O O O O
-엘시 혼자가 편하여 +지+었어 홀로서기에 도전하+ㄴ티아라은정이 화제이+ㄴ 가운데 은정이 과거 티아라 전 멤버화영의 왕따 사건에 대하+ 여입을 열었다 .	PER-B O O O O ORG-B O O O O ORG-B O PER-B O O O O O O
-지나+ㄴ 28일 오후 방송되+ㄴ 케이블 채널 Mnet예능 프로그램 '4가지 쇼시즌2'에는 티아라 은정이 출연하였다 .	O O O O O O O O O O ORG-B O O O
-독자위원들은 중앙일보 지면을 모니터링하고 e메일 설문, 정례회의 등을 통하+여지면 제작에 대하+ㄴ의견을 제시하게 되+ㄴ다 .	O O O O O O O O O O O O O O
-앞줄 왼쪽부터 이준한 인천대 정치외교학과 교수, 박한준 국제도시 송도 입주자연합회 회장, 이수범 인천대신문방송학과 교수(위원장), 이상용 경인 해운항공 대표, 천준호 인천시 정책기획관. 뒷줄 왼쪽부터 이주하+ㄴ 중앙일보 조사연구팀장, 남윤호 중앙일보 뉴스룸 국장, 유준호 인천시 홍보기획팀장, 김종해 계산고 교사, 어석원 가림초교사, 장세정 중앙일보 지역 뉴스부장.원혜옥 인하대 법학전문대학원 교수와 김송원 인천경실련 사무처장, 이종린 인천변 호사협회 부회장, 오진규 가천대 길병원 교수는 개인 사정으로 불참하였다 .	O O PER-B ORG-B ORG-I O PER-B O ORG-B ORG-I O PER-B ORG-B O PER-B ORG-B ORG-I O PER-B ORG-B ORG-I O O PER-B ORG-B O PER-B ORG-B O O PER-B ORG-B ORG-I PER-B ORG-B O PER-B ORG-B PER-B ORG-B O PER-B ORG-B ORG-I O PER-B ORG-B O PER-B ORG-B ORG-I O PER-B ORG-B ORG-I O O O O O
-박종근기 .	PER-B O
-안 후보는 문 후보 지지층의 문자폭탄 등을 겨냥, “화력은 문 후보 쪽이 제일 좋다 .	PER-B O PER-B O O PER-B O O O PER-B O O O O O
-많은 공간 내에서 (문 후보와) 가깝게 있는 분들이 상처를 입는다”고 맞서 +었다 .	O O O PER-B O O O O O O O O O
+송도 2 교 를 사이 에 두 고 송도 와 연수동 사이 에 있 는 동춘동 에 들 어서 는 이 단지 는 송도 생활권 을 누리 면서 연수동 의 생활 편의 시설 까지 이용할 수 있 다 .	LOC-B LOC-I LOC-I O O O O O LOC-B O LOC-B O O O O LOC-B O O O O O O O LOC-B O O O O LOC-B O O O O O O O O O O
+당시 그 들 이 내세운 전기 요금 인하 요구 의 근거 는 “ 2014 년 이후 연료 가격 하락 을 감안할 때 지난해 한전 의 원가 회수 율 은 100 % 를 상회할 것 으로 추정된다 ” 는 것 . “ 산업용 전기 , 원가 이상 공급 ” 이 라는 산자부 의 8 월 9 일 발언 이 무엇 에 근거한 것 인지 를 알 수 있 는 대목 이 다 .	O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+소찬휘 ' 무한도전 - 토토 가 ' … " 유재석 덕 에 본명 ' 김경희 ' 찾 았 다 "	PER-B O O O O O O O O PER-B O O O O PER-B O O O O O
+이번 시즌 여성 선수 로 는 처음 ‘ 8 월 베스트 플레이어 ’ 가 된 문안나 에게 트로피 와 상금 150 만 원 을 줬 다 .	O O O O O O O O DAT-B DAT-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O
+통상 소주 의 알코올 도수 가 16 ∼ 18 도 로 17 도 안팎 이 라는 점 을 감안 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+반면 새정치민주연합 은 “ 우리 가 선제 적 으로 5 · 24 조치 를 해제하 면 국제 사회 에서 명분 을 얻 는 것 은 물론 이 고 남북 협상 에서 도 주도권 을 쥐 는 실리 를 취할 수 있 다 ” 며 정부 에 5 · 24 조치 의 해제 를 요구 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방위 사업 청 은 4 월 21 일 4 개 핵심 기술 을 이전할 수 없 다는 미국 의 통보 를 받 았 으나 6 월 8 일 에 야 청와대 에 보고 했 다 .	O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O ORG-B O O O O O O DAT-B DAT-I DAT-I DAT-I O O ORG-B O O O O O
+[ 내일 의 경기 / 6 월 7 일 ] 프로 야구 外	O O O O O DAT-B DAT-I DAT-I DAT-I O O O O
+발렌티나 셰브첸코 , ‘ 前 챔프 ’ 홀리 홈 잡 았 다 … 심판 전원 일치 판정승	PER-B PER-I O O O O O O O O O O O O O O O
+새 앨범 ‘ 화양연화 pt .1 ’ 으로 컴백한 방탄소년단 이 ‘ 스타 캐스트 ’ 를 통해 팬 들 을 만났 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O
+29 일 네이버 ‘ 스타 캐스트 ’ 를 통해 생 중계된 방탄소년단 의 ‘ I NEED U , BTS ON AIR ’ 에서 는 최근 새 앨범 ‘ 화양연화 pt .1 ’ 으로 컴백한 그룹 방탄소년단 이 출연해 새 앨범 에 대한 다양한 이야기 를 나 눴 다 .	DAT-B DAT-I ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+이날 ‘ 스타 캐스트 ’ 에서 랩 몬스터 는 세 번째 미니 앨범 ‘ 화양연화 pt .1 ’ 에 대해 “ 우리 팀 은 다양한 연령 대 가 있 다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+엘시 혼자 가 편해 졌 어 홀로 서 기 에 도전한 티아라 은정이 화제 인 가운데 은정이 과거 티아라 전 멤버 화영 의 왕따 사건 에 대해 입 을 열 었 다 .	PER-B O O O O O O O O O O ORG-B O O O O O O ORG-B O O PER-B O O O O O O O O O O O
+지난 28 일 오후 방송된 케이블 채널 Mnet 예능 프로그램 ' 4 가지 쇼 시즌 2 ' 에 는 티아라 은정이 출연 했 다 .	O DAT-B DAT-I TIM-B O O O O O O O O O O O O O O O ORG-B O O O O O
+독자 위원 들 은 중앙 일보 지면 을 모니터링 하 고 e 메일 설문 , 정례 회의 등 을 통해 지면 제작 에 대한 의견 을 제시하 게 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞줄 왼쪽 부터 이준한 인천대 정치 외교 학과 교수 , 박한준 국제도시 송도 입주자 연합회 회장 , 이수범 인천대 신문 방송학 과 교수 ( 위원장 ) , 이상용 경인 해운 항공 대표 , 천준호 인천시 정책 기획 관 . 뒷줄 왼쪽 부터 이주한 중앙일보 조사 연구 팀 장 , 남윤호 중앙일보 뉴스룸 국장 , 유준호 인천시 홍보 기획 팀장 , 김종해 계산고 교사 , 어석원 가림 초 교사 , 장세정 중앙일보 지역 뉴스 부장 . 원혜옥 인하대 법학 전문 대학원 교수 와 김송원 인천 경실련 사무 처장 , 이종린 인천 변호사 협회 부회장 , 오진규 가천대 길병원 교수 는 개인 사정 으로 불참 했 다 .	O O O PER-B ORG-B ORG-I ORG-I ORG-I O O PER-B O ORG-B ORG-I ORG-I O O PER-B ORG-B ORG-I ORG-I ORG-I O O O O O PER-B ORG-B ORG-I ORG-I O O PER-B ORG-B ORG-I ORG-I ORG-I O O O O PER-B ORG-B O O O O O PER-B ORG-B O O O PER-B O O O O O PER-B ORG-B O O PER-B ORG-B ORG-I O O PER-B ORG-B O O O O PER-B ORG-B ORG-I ORG-I ORG-I O O PER-B ORG-B ORG-I O O O PER-B ORG-B ORG-I ORG-I O O PER-B ORG-B ORG-I O O O O O O O O O
+박종근 기자	PER-B O
+안 후보 는 문 후보 지지 층 의 문자 폭탄 등 을 겨냥 , “ 화력 은 문 후보 쪽 이 제일 좋 다 .	PER-B O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O
+많 은 공간 내 에서 ( 문 후보 와 ) 가깝 게 있 는 분 들 이 상처 를 입 는다 ” 고 맞섰 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O

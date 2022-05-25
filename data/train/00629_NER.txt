@@ -1,11 +1,11 @@
-118명의 치매 노인과 보호자·자원봉사자 등 350여명이 한데 모이어 민요를 따르 아배우 고사물놀이에 맞추+어춤을 추+ㄴ다 .	O O O O O O O O O O O O O O O
-지난해 12월에는 현대백화점 부천 중동점 지하에서 모녀 고객이 아르바이트 주차담당 직원에게 30분 동안 무릎을 꿇게 하+ㄴ 뒤 폭언을 하고 뺨을 때리+어 결국 모녀는 폭행 혐의로 경찰에 입건되기도 +였다 .	O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O
-롯데리아, 50만개 한정 판매라면 버거 출 .	ORG-B O O O O O O
-대표이자 시인이+ㄴ 김민정씨가 보기에 에세이를 잘 쓰는 저자 군은 ‘평론가’ +이란다 .	O O PER-B O O O O O O O O O
-연해주한인들이 그의 덕행을 기리+어 ‘최페치카(난로)’라 부르+ㄹ만 하다 .	LOC-B O O O PER-B O O O
-최재형 선생의 일대기를 연구 하+ㄴ 박환수원대 교수는 “연해 주 독립운동가들은 볼셰비키 활동 등으로 붉게 채색되+어 외면당하거나 뒤늦게 조명되었다”고 안타까워하였다 .	PER-B O O O O ORG-B O O O O ORG-B O O O O O O O O O
-하지만 적어도 스미스를 있는 그대로 보+ㄹ 필요가 있다는 저자의 주장에 +ㄴ 귀 기울이+ㄹ 필요가 있다 .	O O PER-B O O O O O O O O O O O O O
-미­ 쿠바 2차 난민 협상 /1차 회담선이 .	ORG-B ORG-B O O O O O O
-지난해 12월 프로로 전향 하+ㄴ 헨더슨은 그동안 만 18세 연령 제한 규정에 묶이어 LPGA투어 정식 회원이 되+ㄹ 수 없었지만 이번 우승으로 투어 직행의 길을 열었다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
-이어 독일(638개), 미국(607개), 이탈리아(201개), 일본(175개)이 전년과 같이 2~5위 자리를 유지하였다 .	O ORG-B ORG-B ORG-B ORG-B O O O O O O
-SKT ‘루나스마트폰’, 고스펙++합리적 이+ㄴ 가격으로 ‘관심 UP .	ORG-B O O O O O O O
+118 명 의 치매 노인 과 보호자 · 자원 봉사자 등 350 여 명 이 한데 모 여 민요 를 따 라 배우 고 사물놀이 에 맞춰 춤 을 춘다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 12 월 에 는 현대백화점 부천 중동 점 지하 에서 모녀 고객 이 아르바이트 주차 담당 직원 에게 30 분 동안 무릎 을 꿇 게 한 뒤 폭언 을 하 고 뺨 을 때려 결국 모녀 는 폭행 혐의 로 경찰 에 입건되 기 도 했 다 .	O DAT-B DAT-I O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데리아 , 50 만 개 한정 판매 라면 버거 출시	ORG-B O O O O O O O O O
+대표 이 자 시인 인 김 민정 씨 가 보 기 에 에세이 를 잘 쓰 는 저자 군 은 ‘ 평론가 ’ 란다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+연해주 한인 들 이 그 의 덕행 을 기려 ‘ 최 페치카 ( 난로 ) ’ 라 부를 만하 다 .	LOC-B O O O O O O O O O PER-B PER-I O O O O O O O O O
+최재형 선생 의 일대기 를 연구한 박환 수원대 교수 는 “ 연해주 독립 운동가 들 은 볼셰비키 활동 등 으로 붉 게 채색돼 외면 당하 거나 뒤늦 게 조명 됐 다 ” 고 안타까워 했 다 .	PER-B O O O O O PER-B ORG-B O O O LOC-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+하지만 적어도 스미스 를 있 는 그대로 볼 필요 가 있 다는 저자 의 주장 엔 귀 기울일 필요 가 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O
+미 ­ 쿠바 2 차 난민 협상 / 1 차 회담 선 이견	ORG-B O ORG-B O O O O O O O O O O
+지난해 12 월 프로 로 전향한 헨더슨 은 그동안 만 18 세 연령 제한 규정 에 묶 여 LPGA 투어 정식 회원 이 될 수 없 었 지만 이번 우승 으로 투어 직행 의 길 을 열 었 다 .	O DAT-B DAT-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 독일 ( 638 개 ) , 미국 ( 607 개 ) , 이탈리아 ( 201 개 ) , 일본 ( 175 개 ) 이 전년 과 같이 2 ~ 5 위 자리 를 유지 했 다 .	O ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+SKT ‘ 루나 스마트 폰 ’ , 고 스펙+ 합리적 인 가격 으로 ‘ 관심 UP ’	ORG-B O O O O O O O O O O O O O O O O

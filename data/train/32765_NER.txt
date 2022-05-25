@@ -1,17 +1,17 @@
-반경 2km 내에 천안고속버스터미널도 있다 .	O O O LOC-B O O
-가장 넓은 공급면적 239㎡의 경우 25~28억원에 시세가 형성되+어 있다 .	O O O O O MNY-B O O O O
-DVD와 블루레이의 내용이 정확히 겹치지만 함께 담기+어디스크 수가 늘어나 +ㄴ점, 80만원대(정가기준)에 이르는 높은 가격은 옥에 티다 .	O O O O O O O O O O MNY-B O O O O O O
-이날 비는 밤이 되면서 점차 서쪽지방과 강원 영서, 경남 서부로 확대되 +ㄹ 것으로 보이+ㄴ다 .	O O O O O O LOC-B LOC-B LOC-B O O O O O O
-프랑스의 이슬람 문화자문위원회는 당시 잡지에 대하+ㄴ 판매 금지와 함께 작가들이 무함마드 캐리커쳐를 그리는 것을 막아야 하+ㄴ다는 소송을 제기하였지만 법원에서 기각되었다 .	ORG-B ORG-B ORG-I O O O O O O O PER-B O O O O O O O O O O
-오토모빌리 람보르기니 CEO 스테파노도미니 칼리는 “우라칸스파이더 및 후륜 구동 우라칸 글로벌 출시를 포함하+ㄴ 우라칸 패밀리의 전반적 이+ㄴ 성장세로 2016년 상반기 사상 최대 실적을 달성 하+ㄹ 수 있었다”며, “우라칸뿐만 아니라, 12기 통아벤타도르 모델에 대하+ㄴ 견고 하+ㄴ 수요를 기반으로 하반기에는 보 .	ORG-B ORG-I O PER-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-[콤팩트 뉴스]김석연, SK잔류군 야수 총괄코치 선임 .	O PER-B ORG-B O O O O
-슈틸리케호 ‘수문장 3총사’ 누구가 기회 잡을까 .	PER-B O O O O O O
-유엔 제재 결의 다음날 포 사격 참관…北“南이 여성들 납치”유엔에서  .	ORG-B O O O O O ORG-B O ORG-B O O
-사당3동 지역주택조합(가칭)은 서울 동작구 사당3동155-4일 대 지역주택 아파트 조합원을 모집 중이다 .	LOC-B O LOC-B LOC-B LOC-B O O O O O O O
-‘집밥백 선생’ 백종원, 짬뽕 레시피 공개… “중국집 짬뽕의 비밀은 MSG? .	O O PER-B O O O O O O O O
-로비에서는 '스스로 연주하는 피아노' 공연도 진행되+ㄴ다 .	O O O O O O O
-르완다 반군 휴전 합의 / 오늘 공식 성명 발 .	ORG-B ORG-I O O O O O O O O
-명품 브랜드 루이비통이 서울을 포함하 +ㄴ 25개 도시를 소개하는 ‘2016 루이비통 시티가이드(Lou is VuittonCity Guide)’ 출간을 맞고 해당 콘텐츠를 모바일로 확인 가능하+ㄴ 애플리케이션을 5일 선보이+ㄴ다 .	O O ORG-B LOC-B O O O O O O ORG-B O O O O O O O O O O O O O O O
-미국에서 +ㄴ 대통령을 국민이 직접 뽑지 않는다는 알고 계시었나요?야 구도 규칙을 알아야 제대로 즐기+ㄹ 수 있죠. 미 대선도 마찬가지 +이+ㅂ니다 .	LOC-B O O O O O O O O O O O O O O O LOC-B O O O O
-미국의 여대 중에는 남성의 몸이라도 자신을 여성으로 인식하거나, 여성의 몸이지만 자신을 남성으로 인식하는 경우 등 ‘다양하+ㄴ 여성’의 입학을 허용하는 곳이 있는 것으로 알려지었다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O
-최 교수는 “각종 과일과 채소에서 우러나 오+ㄴ 다양하+ㄴ맛이 나트륨에 길들 +ㄴ뇌를 속이는 효과가 있다”며 “첨가물에 약 하+ㄴ 노약자나 어린이·임신부·질환자 등은 나트륨이 적고 항산화 성분이 풍부하+ㄴ집 간장을 이용하는 것+이 좋을 것”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+반경 2 km 내 에 천안고속버스터미널 도 있 다 .	O O O O O LOC-B O O O O
+가장 넓 은 공급 면적 239 ㎡ 의 경우 25 ~ 28 억 원 에 시세 가 형성돼 있 다 .	O O O O O O O O O MNY-B O MNY-B MNY-I MNY-I O O O O O O O
+DVD 와 블루 레이 의 내용 이 정확히 겹치 지만 함께 담겨 디스크 수 가 늘어난 점 , 80 만 원 대 ( 정가 기준 ) 에 이르 는 높 은 가격 은 옥 에 티 다 .	O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+이날 비 는 밤 이 되 면서 점차 서쪽 지방 과 강원 영서 , 경남 서부 로 확대될 것 으로 보인다 .	O O O O O O O O O O O LOC-B LOC-B O LOC-B O O O O O O O
+프랑스 의 이슬람 문화 자문 위원회 는 당시 잡지 에 대한 판매 금지 와 함께 작가 들 이 무함마드 캐리커쳐 를 그리 는 것 을 막 아야 한다는 소송 을 제기 했 지만 법원 에서 기각 됐 다 .	ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+오토모빌 리 람보르기니 CEO 스테파노 도미니 칼리 는 “ 우라칸 스파이더 및 후륜 구동 우라칸 글로벌 출시 를 포함한 우라칸 패밀리 의 전반적 인 성장세 로 2016 년 상반기 사상 최대 실적 을 달성할 수 있 었 다 ” 며 , “ 우라칸 뿐 만 아니 라 , 12 기통 아 벤타 도르 모델 에 대한 견고한 수요 를 기반 으로 하반기 에 는 보다	ORG-B ORG-I ORG-I O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 콤팩트 뉴스 ] 김석연 , SK 잔류군 야수 총괄 코치 선임 外	O O O O PER-B O ORG-B O O O O O O
+슈틸리케 호 ‘ 수문장 3 총사 ’ 누 가 기회 잡 을까 ?	PER-B PER-I O O O O O O O O O O O
+유엔 제재 결의 다음날 포사격 참관 … 北 “ 南 이 여성 들 납치 ” 유엔 에 서한	ORG-B O O O O O O ORG-B O ORG-B O O O O O ORG-B O O
+사당 3 동 지역 주택조합 ( 가칭 ) 은 서울 동작구 사당 3 동 155 - 4 일대 지역 주택 아파트 조합원 을 모집 중 이 다 .	O O O O O O O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O
+‘ 집 밥 백 선생 ’ 백종원 , 짬뽕 레시피 공개 … “ 중국집 짬뽕 의 비밀 은 MSG ? ”	O O O O O O PER-B O O O O O O O O O O O O O O
+로비 에서 는 ' 스스로 연주하 는 피아노 ' 공연 도 진행된다 .	O O O O O O O O O O O O O
+르완다 반군 휴전 합의 / 오늘 공식 성명 발표	ORG-B ORG-I O O O O O O O
+명품 브랜드 루이 비통 이 서울 을 포함한 25 개 도시 를 소개하 는 ‘ 2016 루이 비통 시티 가이드 ( Louis Vuitton City Guide ) ’ 출간 을 맞 아 해당 콘텐츠 를 모바일 로 확인 가능한 애플리케이션 을 5 일 선보인다 .	O O ORG-B ORG-I O LOC-B O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O
+미국 에선 대통령 을 국민 이 직접 뽑 지 않 는다는 알 고 계 셨 나 요 ? 야구 도 규칙 을 알 아야 제대로 즐길 수 있 죠 . 미 대선 도 마찬가집니다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O
+미국 의 여대 중 에 는 남성 의 몸 이라도 자신 을 여성 으로 인식하 거나 , 여성 의 몸 이 지만 자신 을 남성 으로 인식하 는 경우 등 ‘ 다양한 여성 ’ 의 입학 을 허용하 는 곳 이 있 는 것 으로 알려 졌 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 교수 는 “ 각종 과일 과 채소 에서 우러나온 다양한 맛 이 나트륨 에 길든 뇌 를 속이 는 효과 가 있 다 ” 며 “ 첨가물 에 약한 노약자 나 어린이 · 임신부 · 질환 자 등 은 나트륨 이 적 고 항 산화 성분 이 풍부한 집 간장 을 이용하 는 게 좋 을 것 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

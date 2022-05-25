@@ -1,16 +1,16 @@
-하나의 광산에서 채취하+ㄴ광물에서 어떠 하+ㄴ 자원을 활용하+ㄹ 수 있는지를 꼼꼼하게 따지었다는 것이다 .	O O O O O O O O O O O O O
-제2차 세계대전 당시 훈련용으로 쓰이던 이 경비행기의 조종사는 미국 국민배우 해리슨 포드(72).미 CNN은 이날 사고로 포드가 비행기 파편에 머리를 맞아 크게 다치었다고 전하였다 .	O O O O O O O O ORG-B O PER-B ORG-B ORG-I O O O O O O O O O O O
-양국은 또 처음으로 “우주에서도 손을 잡는다”고 명기하였다 .	O O O O O O O O
-현재 이곳에 +ㄴ 일본인 1715명이 살고 있다 .	O O O O O O O O
-여기에 김치 등 다른 반찬과 소주 한두 잔이면 800~900kc al하는 일반 가정식보다 훨씬 많은 열량을 먹게 되+ㅂ니다 .	O O O O O O O O O O O O O O O O O O
-싸고 푸짐하고 맛있는 대표적 이+ㄴ 남도 음식 중 하나가 웃장국밥이다 .	O O O O O LOC-B O O O O O
-이후 H.O. T.의 재결합 가능성에 대하+여묻자 그는 “아직 디테일하게 협의되 +ㄴ 것+이 없어요”라고 아쉬움을 드러내며 “되+ㄹ 가능성도 있지만 안 되+ㄹ 수도 있기 때문에 조심스럽어요”라고 신중하게 재결합에 대하+ㄴ의견을 밝히+어 모두의 귀를 쫑긋하게 만들었다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-진중 하+ㄴ 얘기 뒤 강타는 과거 한예능 프로그램에서 빅토리아에게 호감을 표시하+ㄴ후 사이가 점점 멀어 지+었던 사연을 공개하며 웃음 폭탄을 터트리기도 +였다 .	O O O O PER-B O O O PER-B O O O O O O O O O O O O O
-두 가지가 확연히 차이나 +ㄴ다 .	O O O O O O
-코스피 황제주로 불리는 아모레퍼시픽은 10.07% 급락 하+여38만4000원에 거래를 마치었다 .	O O O ORG-B O O MNY-B O O O
-이에 대하+여 일부 네티즌들 사이에서 +ㄴ “안철수 국민의당 후보에게 유리하+ㄹ 수 있는 이야기를 일부러 쓰+ㄹ 필요가 있느냐”거나 “굳이 15년 전 선거 슬로건까지 꺼내+어비교하는 이유가 뭐 +이냐”는 반응이 나오았다 .	O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O
-매체는 법조계 관계자 말을 인용하+여 “서울중앙지방법원 재판부는 지나 +ㄴ 1월 18일 정보통신망 이용촉진 및 보호 등에 관하+ㄴ 법률 위반(명예훼손)으로 문씨와 그의 지인이+ㄴ 여가수손모씨(26)에 각각 징역 6월을 선고하였다”며 “다만 재판부는 피고에 대하+ㄴ 집행을 1년 유예, 두 사람 모두 구속은 면하였다”고 전하였다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O PER-B PER-B O O PER-B O O O O O O O O O O O O O O O O O O
-김무성 대표는 이날 당인재 영입위원회 임명장 수여식에서 “(오늘 회의에서 두 의원이 논쟁 하+ㄴ) 바로 이런 것들이 민주정당의 모습”이라고 파문 진화에 나서 +었다 .	PER-B O O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O
-롯데주류 관계자는 “클라우드는 국내에 판매 중 이+ㄴ라거 맥주로는 유일하게 맥주 본고장 독일의 정통 제조방법이 +ㄴ오리지널 그래비티 공법으로 만들 +ㄴ 프리미엄 맥주” +이라며 “올해 클라우드 출시 2주년과 맥주 순수령 500주년을 축하하기 위하+여 다양하+ㄴ 소비자 이벤트를 진행하+ㄴ다”고 밝히었다 .	ORG-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
-롯데주류는 기존 클라우드 캔 제품보다 용량을 늘리+ㄴ 대용량 클라우드를 출시하였다 .	ORG-B O O O O O O O O O O
-지나+ㄴ9월 초 베트남 하노이 인근 박장 시에서 아이의 가족이 타+ㄴ 승용차가 트레일러 차량과 충돌하였다 .	O O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O
+하나 의 광산 에서 채취한 광물 에서 어떠한 자원 을 활용할 수 있 는지 를 꼼꼼하 게 따 졌 다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+제 2 차 세계 대전 당시 훈련 용 으로 쓰이 던 이 경비행기 의 조종사 는 미국 국민 배우 해리슨 포드 ( 72 ) . 미 CNN 은 이날 사고 로 포드 가 비행기 파편 에 머리 를 맞 아 크 게 다 쳤 다고 전 했 다 .	O O O O O O O O O O O O O O O O ORG-B O O PER-B PER-I O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+양국 은 또 처음 으로 “ 우주 에서 도 손 을 잡 는다 ” 고 명기 했 다 .	O O O O O O O O O O O O O O O O O O O
+현재 이곳 엔 일본인 1715 명 이 살 고 있 다 .	O O O O O O O O O O O O
+여기 에 김치 등 다른 반찬 과 소주 한두 잔 이 면 800 ~ 900 kcal 하 는 일반 가정 식 보다 훨씬 많 은 열량 을 먹 게 됩니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+싸 고 푸짐하 고 맛있 는 대표적 인 남도 음식 중 하나 가 웃 장국밥 이 다 .	O O O O O O O O LOC-B O O O O O O O O O
+이후 H . O . T . 의 재 결합 가능성 에 대해 묻 자 그 는 “ 아직 디테일하 게 협의 된 게 없 어요 ” 라고 아쉬움 을 드러내 며 “ 될 가능성 도 있 지 만 안 될 수 도 있 기 때문 에 조심스러 워요 ” 라고 신중하 게 재결합 에 대한 의견 을 밝혀 모두 의 귀 를 쫑긋하 게 만들 었 다 .	O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+진중한 얘기 뒤 강타 는 과거 한 예능 프로그램 에서 빅토리아 에게 호감 을 표시한 후 사이 가 점점 멀 어 졌 던 사연 을 공개하 며 웃음 폭탄 을 터트리 기 도 했 다 .	O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+두 가지 가 확연히 차이 난다 .	O O O O O O O
+코스피 황제 주 로 불리 는 아모레퍼시픽 은 10.07 % 급락해 38 만 4000 원 에 거래 를 마 쳤 다 .	O O O O O O ORG-B O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O
+이 에 대해 일부 네티즌 들 사이 에선 “ 안철수 국민 의당 후보 에게 유리할 수 있 는 이야기 를 일부러 쓸 필요 가 있 느냐 ” 거나 “ 굳이 15 년 전 선거 슬로건 까지 꺼내 비교하 는 이유 가 뭐 냐 ” 는 반응 이 나 왔 다 .	O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+매체 는 법조계 관계자 말 을 인용해 “ 서울중앙지방법원 재판부 는 지난 1 월 18 일 정보 통신망 이용 촉진 및 보호 등 에 관한 법률 위반 ( 명예 훼손 ) 으로 문 씨 와 그 의 지인 인 여 가수 손 모 씨 ( 26 ) 에 각각 징역 6 월 을 선고 했 다 ” 며 “ 다만 재판부 는 피고 에 대한 집행 을 1 년 유예 , 두 사람 모두 구속 은 면 했 다 ” 고 전 했 다 .	O O O O O O O O ORG-B ORG-I O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B PER-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김무성 대표 는 이날 당 인재 영입 위원회 임명장 수여식 에서 “ ( 오늘 회의 에서 두 의원 이 논쟁한 ) 바로 이런 것 들 이 민주 정당 의 모습 ” 이라고 파문 진화 에 나섰 다 .	PER-B O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+롯데주류 관계자 는 “ 클라우드 는 국내 에 판매 중 인 라거 맥주 로 는 유일하 게 맥주 본고장 독일 의 정통 제조 방법 인 오리지널 그래비티 공법 으로 만든 프리미엄 맥주 ” 라며 “ 올해 클라우드 출시 2 주년 과 맥주 순수 령 500 주년 을 축하하 기 위해 다양한 소비자 이벤트 를 진행한다 ” 고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데주류 는 기존 클라우드 캔 제품 보다 용량 을 늘린 대용량 클라우드 를 출시 했 다 .	ORG-B O O O O O O O O O O O O O O O O
+지난 9 월 초 베트남 하노이 인근 박장 시 에서 아이 의 가족 이 탄 승용차 가 트레일러 차량 과 충돌 했 다 .	O DAT-B DAT-I O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O O

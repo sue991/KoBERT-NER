@@ -1,17 +1,17 @@
-일본 이와쿠니에 배치되 +ㄴ 10대의 수직이착륙스텔스 전투기 F-35B는 6월이 되+어야 16대로 늘어나 +ㄴ다고 하+ㄴ다 .	LOC-B LOC-I O O O O O O O O O O O O O
-김현수(29·볼티모어 오리올스)도 타점을 기록하는 등 연속 경기출루 행진을 잇어 +가았다 .	ORG-B ORG-I O O O O O O O O O
-나오+ㄴ이태임에게 “언니, 춥지 않아요?”라고 묻자, 1분간 정적이 흐르+ㄴ 뒤 이태임이 심하+ㄴ욕을 하기 시작하였다는 것. 또 “(이태임이) 심지어 때리려고 자세를 취하+여스태프들이 뜯어 말리었다”고 B씨는 이 매체에 말하였다 .	PER-B O O O O O O O O PER-B O O O O O PER-B O O O O O O PER-B O O O O
-그가 1888년 특허를 내+ㄴ ‘교류(AC) 인덕션 모터’ 기술로 스포츠카를 만들겠다는 것+이 테슬라의 당초 목표+이었다 .	O O O O O O O O O O O ORG-B O O O
-안 대표와 박 원내대표 등은 즉각 강력 하+ㄴ 조치가 필요하다고 +였지만 다수 의원이 당헌당규에 따르+ㄴ ‘원칙 처리’를 주장하+ㄴ 것으로 전하여 +지+었다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O
-2012년 6월 대법원에서 전 소속사에 15억원을 배상하라는 판결을 받았다 .	O O O O O MNY-B O O O O
-이후 인터스테이지는 박씨가 수차례 재산 추적과 압류조치에도 15억원을 배상하지 않고, 새 소속사로부터 받은 계약금도 은닉 하+여 강제집행을 피하려 +였다고 주장하며 2013년 12월 박효신을 고소하였다 .	O ORG-B PER-B O O O O MNY-B O O O O O O O O O O O O O O PER-B O O
-박효신 측은 당시 “배상 판결이 확정되+ㄴ이 후 배상금과 법정이자를 도저히 개인적으로 변제하+ㄹ 수 없어 개인회생 신청을 +였으나 부결되었다”며 이후 현 소속사의 도움을 받아 채무를 갚았다는 점을 들어 은닉의 도가 없었다고 주장하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한편, 선고공판은 오는 30일 서부지법에서 열리+ㄹ 예정이다 .	O O O O O O O O
-태연, 홀로서기도 성공적 … 멤버들 응원 속 ‘아이(I)’ 음원차트 올킬 소녀시대의 태연이 첫 솔로 앨범을 공개하며 차트줄 세우기에 나서 +었다 .	PER-B O O O O O O O O O ORG-B PER-B O O O O O O O O O
-7일 오전 태연의 솔로 앨범 타이틀곡 ‘아이(I)’는 국내 최대 음원 사이트 멜론을 비롯하+여엠넷, 벅스, 올레뮤직, 지니, 네이버 뮤직, 소리바다 등에서 1위를 차지하였다 .	O O PER-B O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-B ORG-I ORG-B O O O O
-또 앨범의 다른 수록곡들 또한 상위권에 자리 잡아 이른바 차트 ‘줄세우기’에 성공하였다 .	O PER-B O O O O O O O O O O O
-‘아이’는 태연이 데뷔 후 처음으로 작사에 참여하+ㄴ곡이며, 힙합 뮤지션버벌 진트가 랩 피처링에 참여하였다 .	O O O O O O O O O O O O O O
-태연의 이번 앨범은 개인 첫 솔로 앨범이자 소녀시대 멤버 중 처음으로 발매하+ㄴ 솔로 앨범이다 .	PER-B O O O O O O ORG-B O O O O O O O
-태연은 8일 Mnet ‘엠카운트 다운’을 시작으로 9일 KBS ‘뮤직뱅크’, 10일 MBC ‘쇼!음악 중심’ 등 각종 음악 프로그램에서 신곡 무대를 선보이며 본격적 이+ㄴ 활동을 잇어가+ㄹ 예정이다 .	PER-B O ORG-B O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O
-출시 첫날 이+ㄴ 24일부터 누적액은 6조7430억원(5만8393건)이다 .	O O O O O MNY-B O
-지금까지 나이스 평가정보와 코리아크레딧 뷰로 등 신용조회회사(CB)는 개인의 신용등급을 산정하+ㄹ 때 신용카드 현금서비스 한도 소진율을 평가요소로 활용하+여+았다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O
+일본 이와쿠니 에 배치된 10 대 의 수직 이착륙 스텔스 전투기 F - 35 B 는 6 월 이 돼야 16 대 로 늘어난다고 한다 .	LOC-B LOC-I O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+김현수 ( 29 · 볼티모어 오리올스 ) 도 타점 을 기록하 는 등 연속 경기 출루 행진 을 이 어 갔 다 .	PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+나온 이태임 에게 “ 언니 , 춥 지 않 아요 ? ” 라고 묻 자 , 1 분 간 정적 이 흐른 뒤 이태임 이 심한 욕 을 하 기 시작 했 다는 것 . 또 “ ( 이태임 이 ) 심지어 때리 려고 자세 를 취해 스태프 들 이 뜯 어 말 렸 다 ” 고 B 씨 는 이 매체 에 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+그 가 1888 년 특허 를 낸 ‘ 교류 ( AC ) 인덕 션 모터 ’ 기술 로 스포츠카 를 만들 겠 다는 게 테슬라 의 당초 목표 였 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+안 대표 와 박 원내 대표 등 은 즉각 강력한 조치 가 필요하 다고 했 지만 다수 의원 이 당헌 당규 에 따른 ‘ 원칙 처리 ’ 를 주장한 것 으로 전해 졌 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2012 년 6 월 대법원 에서 전 소속 사 에 15 억 원 을 배상하 라는 판결 을 받 았 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O
+이후 인터 스테이지 는 박 씨 가 수차례 재산 추적 과 압류 조치 에 도 15 억 원 을 배상하 지 않 고 , 새 소속 사 로부터 받 은 계약금 도 은닉해 강제 집행 을 피하 려 했 다고 주장하 며 2013 년 12 월 박효신 을 고소 했 다 .	O ORG-B ORG-I O PER-B O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I PER-B O O O O O
+박효신 측 은 당시 “ 배상 판결 이 확정된 이후 배상금 과 법정 이자 를 도저히 개인적 으로 변제할 수 없 어 개인 회생 신청 을 했 으나 부결 됐 다 ” 며 이후 현 소속 사 의 도움 을 받 아 채무 를 갚 았 다는 점 을 들 어 은닉 의도 가 없 었 다고 주장 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 선고 공판 은 오 는 30 일 서부 지법 에서 열릴 예정 이 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O
+태연 , 홀로 서 기 도 성공적 … 멤버 들 응원 속 ‘ 아이 ( I ) ’ 음원 차트 올 킬 소녀 시대 의 태연이 첫 솔로 앨범 을 공개하 며 차트 줄 세우 기 에 나섰 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+7 일 오전 태연 의 솔로 앨범 타이틀 곡 ‘ 아이 ( I ) ’ 는 국내 최대 음원 사이트 멜론 을 비롯해 엠넷 , 벅스 , 올레 뮤직 , 지니 , 네이버 뮤직 , 소리 바다 등 에서 1 위 를 차지 했 다 .	DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O ORG-B O O ORG-B O ORG-B O ORG-B ORG-I O ORG-B O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O
+또 앨범 의 다른 수록 곡 들 또한 상위권 에 자리 잡 아 이른바 차트 ‘ 줄 세우 기 ’ 에 성공 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+‘ 아이 ’ 는 태연이 데뷔 후 처음 으로 작사 에 참여한 곡 이 며 , 힙합 뮤지션 버벌진트 가 랩 피처링 에 참여 했 다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+태연 의 이번 앨범 은 개인 첫 솔로 앨범 이 자 소녀 시대 멤버 중 처음 으로 발매한 솔로 앨범 이 다 .	PER-B O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+태연 은 8 일 Mnet ‘ 엠 카운트다운 ’ 을 시작 으로 9 일 KBS ‘ 뮤직 뱅크 ’ , 10 일 MBC ‘ 쇼 ! 음악 중심 ’ 등 각종 음악 프로그램 에서 신곡 무대 를 선보이 며 본격적 인 활동 을 이 어 갈 예정 이 다 .	PER-B O DAT-B DAT-I ORG-B O O O O O O O DAT-B DAT-I ORG-B O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+출시 첫날 인 24 일 부터 누적 액 은 6 조 7430 억 원 ( 5 만 8393 건 ) 이 다 .	O O O DAT-B DAT-I O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O
+지금 까지 나이스 평가 정보 와 코리아크레딧뷰로 등 신용 조회 회사 ( CB ) 는 개인 의 신용 등급 을 산정할 때 신용카드 현금 서비스 한도 소진율 을 평가 요소 로 활용해 왔 다 .	O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O

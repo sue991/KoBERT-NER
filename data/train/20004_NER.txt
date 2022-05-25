@@ -1,15 +1,15 @@
-지나+ㄴ 85년과 87년에도 똑같은 사안을 놓고 양측 간에 치열 하+ㄴ 공방이 벌어지었었고 이때마다 서적상의 주장이 관철되었다 .	O O O O O O O O O O O O O O O O O
-베이루트 서 연쇄 자폭 테러, 270여명 사상… IS 소셜미디어 보니? ‘충격 .	LOC-B O O O O O O ORG-B O O O O
-김 회장은 올 5월부터 2년간 수석부회장을 맡은 후, 년 6월부터 2년간 IAA 회장직을 수행하게 되+ㄴ다 .	PER-B O O O O O O O O O O ORG-B O O O O
-‘돈 벌려고 하는 것+이 아니다’는 거+이었겠죠. 신 감독은 “녹화와 편집을 거치면 유승준이 전하고자 하는 의미가 왜곡되 +ㄹ 수 있기 때문”에 생중계를 택하였다고 +였습니다 .	O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O
-프로배구 포스트시즌은 여자 부 플레이 오프 1차전(18일 오후 2시·화성실내체육관)으로 막을 올리+ㄴ다 .	O O O O O O O O LOC-B O O O
-나인뮤지스, ‘소녀시대-걸스데이-씨 쓰타’ 컴백과 비슷…치열 하+ㄴ 경 .	ORG-B ORG-B O O O O O O
-이날 남궁민이 “드라마키스신을 어떻게 하는지 알리+어주+ㄹ까” +이라며 홍진영을 리드하었다 .	O PER-B O O O O O PER-B O O
-8월 2일 잠실 LG전에서 9회 초 2사 1·3루에서 김하성 타석에 대타로 나서 +었고, 신승현을 상대로 중전적 시타를 때리었다 .	O O O O O O O O PER-B O O O O PER-B O O O O O
-타이틀곡 ‘아끼+ㄴ다’를 포함하+여, MBC 뮤직 ‘세븐틴 프로젝트-데뷔 대작전’을 통하+여공개되+어크+ㄴ사랑을 받았던 ‘샤이닝 다이아몬드’, 풋풋 하+ㄴ 사랑의 감성을 듬뿍 담은 보컬 유닛곡 ‘20’, 힙합 유닛의 에너지를 담은 노래 ‘아예’, 퍼포먼스 유닛의 드라마틱 하+ㄴ 안무가 인상적이+ㄴ ‘잼잼’ 등이 실리+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한국개발연구원(KDI)은 올해 우리 경제가 수출 증가와 투자 회복 등으로 당초 예상 성장률 7%보다 높은 7.6%의 성장을 보이+ㄹ 것으로 수정 전망하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-일본은 올해 초 아베 신조 총리가 미라이 ‘1호 수소차’를 인도받을 만큼 적극적 지원사격을 펴고 있다 .	ORG-B O O PER-B PER-I O O O O O O O O O O O
-‘혼술 남녀’ 하석진 박하선의 다정하+ㄴ셀카가 눈길을 끌고 있다 .	O O PER-B PER-B O O O O O
-하석진은 13일 자신의 인스타그램에 “사진 퀄리티는 떨어지지만 박 하나(박하선) 교수와 함께” +이라는 글과 한 장의 사진을 게재하였다 .	PER-B O O O O O O O PER-B O O O O O O O O O
-공개되+ㄴ 사진 속 하석진과 박하선은 차량 안에서 활짝 미소를 짓으며 카메라를 응시하고 있다 .	O O O PER-B PER-B O O O O O O O O O
-이를 통하+여기 아차는 유가 인상 등 대외 경영환경 변화에 능동적으로 대응하는 등 기업의 경쟁력 향상에 기여하+ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O
+지난 85 년 과 87 년 에 도 똑같 은 사안 을 놓 고 양측 간 에 치열한 공방 이 벌어 졌었 고 이때 마다 서적상 의 주장 이 관철 됐 다 .	O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+베이루트 서 연쇄 자폭 테러 , 270 여 명 사상 … IS 소셜 미디어 보 니 ? ‘ 충격 ’	LOC-B O O O O O O O O O O ORG-B O O O O O O O O
+김 회장 은 올 5 월 부터 2 년 간 수석 부회장 을 맡 은 후 , 년 6 월 부터 2 년 간 IAA 회장 직 을 수행하 게 된다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I O O O O ORG-B O O O O O O O
+‘ 돈 벌 려고 하 는 게 아니 다 ’ 는 거 였 겠 죠 . 신 감독 은 “ 녹화 와 편집 을 거치 면 유승준 이 전하 고자 하 는 의미 가 왜곡될 수 있 기 때문 ” 에 생 중계 를 택 했 다고 했 습니다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+프로 배구 포스트 시즌 은 여자 부 플레이오프 1 차 전 ( 18 일 오후 2 시 · 화성실내체육관 ) 으로 막 을 올린다 .	O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B O O O O O O
+나인 뮤지스 , ‘ 소녀 시대 - 걸스데이 - 씨쓰타 ’ 컴백 과 비슷 … 치열한 경쟁	ORG-B ORG-I O O ORG-B ORG-I O ORG-B O ORG-B O O O O O O O
+이날 남궁민 이 “ 드라마 키스 신 을 어떻 게 하 는지 알려 줄까 ” 라며 홍진영 을 리드 했 다 .	O PER-B O O O O O O O O O O O O O O PER-B O O O O O
+8 월 2 일 잠실 LG 전 에서 9 회 초 2 사 1 · 3 루 에서 김하성 타석 에 대타 로 나섰 고 , 신승현 을 상대 로 중전 적시타 를 때 렸 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O
+타이틀 곡 ‘ 아낀다 ’ 를 포함해 , MBC 뮤직 ‘ 세븐틴 프로젝트 - 데뷔 대작전 ’ 을 통해 공개돼 큰 사랑 을 받 았 던 ‘ 샤이닝 다이아몬드 ’ , 풋풋한 사랑 의 감성 을 듬뿍 담 은 보컬 유닛 곡 ‘ 20 ’ , 힙합 유닛 의 에너지 를 담 은 노래 ‘ 아 예 ’ , 퍼포먼스 유닛 의 드라마틱 한 안무가 인상적 인 ‘ 잼잼 ’ 등 이 실린다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국개발연구원 ( KDI ) 은 올해 우리 경제 가 수출 증가 와 투자 회복 등 으로 당초 예상 성장률 7 % 보다 높 은 7.6 % 의 성장 을 보일 것 으로 수정 전망 했 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 은 올해 초 아베 신조 총리 가 미 라이 ‘ 1 호 수소 차 ’ 를 인도 받 을 만큼 적극적 지원 사격 을 펴 고 있 다 .	ORG-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 혼 술 남녀 ’ 하석진 박하선 의 다정한 셀카 가 눈길 을 끌 고 있 다 .	O O O O O PER-B PER-B O O O O O O O O O O O
+하석진 은 13 일 자신 의 인스타그램 에 “ 사진 퀄리티 는 떨어지 지만 박하나 ( 박하선 ) 교수 와 함께 ” 라는 글 과 한 장 의 사진 을 게재 했 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+공개된 사진 속 하석진 과 박하선 은 차량 안 에서 활짝 미소 를 지 으며 카메라 를 응시하 고 있 다 .	O O O PER-B O PER-B O O O O O O O O O O O O O O O O
+이 를 통해 기아차 는 유가 인상 등 대외 경영 환경 변화 에 능동적 으로 대응하 는 등 기업 의 경쟁력 향상 에 기여할 계획 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O

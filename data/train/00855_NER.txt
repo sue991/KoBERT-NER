@@ -1,18 +1,18 @@
-‘함부로 애틋하게’는 ‘마스터-국수의 신’ 후속으로 7월 6일 첫 방송되+ㄹ 예정이다 .	O O O O O O O O O O O
-2014년 인천아시안게임 대표팀에서 금메달 획득에 일조하였고, 2015년 동아시안컵 대표팀 우승에도 크게 기여하였다 .	O O O O O O O O O O O O O
-이종호는 “최고의 팀에 입단하게 되+어 흥분되 +ㄴ다”며 “빨리 팀에 합류하+여 내년 시즌을 준비하고 싶다 .	PER-B O O O O O O O O O O O O O O
-양 상무는 전남 화순 출신으로 광주여상을 졸업하고 삼성전자 연구보조원으로 시작하+여 ‘샐러리맨의 꿈’으로 불리는 삼성전자 상무에 오르+ㄴ 입지전적 인물이다 .	PER-B O LOC-B LOC-B O ORG-B O ORG-B O O O O O ORG-B O O O O O
-양 상무는 이날 당 대표실에서 열리+ㄴ 입당식에서 각종 차별을 이기+어내 +었던 자신의 삶을 되돌아보는 내용의 회견문을 읽어내려가던 도중 눈물을 흘리었다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-최순실(60·구속)씨의 국정농단 관련 의혹이 잇따르 아나오던 지나 +ㄴ9월 말 돌연 중국으로 출국 하+여 잠적 하+ㄴ지 39일 만이다 .	PER-B O O O O O O O O O LOC-B O O O O O O O
-차씨는 입국 직후 공항에서 ‘안종범(57·구속) 전 청와대 정책조정수석을 알느냐’는 기자들 질문에 “그냥 조금 알고 있다”고 말하였다 .	PER-B O O O PER-B O ORG-B O O O O O O O O O O
-그는 “100년 기업으로 가기 위 하+여 노력 하+ㄹ 것”이라며 “어묵의 세계화까지 추진하겠다”는 포부도 밝히었습니다 .	O O O O O O O O O O O O O O O
-남북대화 재개시 한 명 시 안해/북핵「미 최종안 .	ORG-B O O O O ORG-B O O
-결국 데뷔 이후 가장 높은 타율(0.280)로 정규시즌을 마치었고, LG 유격수로는 처음으로 20홈런을 달성하였다 .	O O O O O O O O ORG-B O O O O O
-이에 네티즌들은 노 전 부장의 신변보호를 주장하고 있다 .	O O PER-B O O O O O O
-라디오 스타 배수정, 영국 런던 ‘빅3’ 대학 출신 … “운이 좋아서 정경대에 입학하였다”라디오 스타에 출연하+ㄴ배수정이 놀랍ㄴ스펙으로 출연진들의 관심을 집중시키었다 .	O O PER-B LOC-B LOC-B O O O O O O ORG-B O O PER-B O O O O O
-29일 방송되+ㄴ MBC 황금어장-라디오 스타에서는 ‘묻지 말+아과거 특집!니 옛날에 뭐 +하였노?’를 주제로 셰프 정창욱, 배우 강예빈, 가수 하각, 배수정이 출연하+여재미를 전하였다 .	O O ORG-B O O O O O O O O O O PER-B O PER-B O PER-B PER-B O O O
-이날 배수정은 MC 규현이 “‘위대하+ㄴ 탄생’ 이후 안 보이었다”며 “어디에서 무엇+ㄹ+였냐?” 묻자 “회계사 자격증 때문에 영국으로 돌아가 +았다”며 “다시 한국으로 들어오아 작곡가 활동을 +였다”고 밝히었다 .	O PER-B O O O O O O O O O O O O O LOC-B O O O LOC-B O O O O O O
-이어 “제일 최근에 나오+ㄴ곡이씨스타의 ‘굿타임’이다”며 “미쓰에이의 ‘스턱’도 작곡하였다”고 말 하+ 여출연진들은 배수정의 재능에 놀라움을 보이었다 .	ORG-I O O ORG-B ORG-I ORG-B O O O O O PER-B O O O O
-또한 이날 배수정은 영국에서 런던 정치경제대학을 나오았다고 알려지며 눈길을 끌었다 .	O O PER-B LOC-B ORG-B ORG-I O O O O O
-MC 김구+이라는 정경대를 소개하며 “런던대학 랭킹빅3”라고 소개하였고, 배수정은 “학교에 다니+ㄹ 때 상위 5%+이었다”고 말하며 “운이 좋아서 정경대에 입학하였다”고 밝히었다 .	O PER-B ORG-B O LOC-B O O PER-B O O O O O O O O ORG-B O O O
-이어 배수정은 “입학심사 당시 내가 읽었던 책을 적었는데, 운이 좋게 당시 심사교수가 쓰+ㄴ 책이었다”고 말 하+ 여웃음을 전하였다 .	O PER-B O O O O O O O O O O O O O O O O O
+‘ 함부로 애틋하 게 ’ 는 ‘ 마스터 - 국수 의 신 ’ 후속 으로 7 월 6 일 첫 방송 될 예정 이 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O
+2014 년 인천 아시안 게임 대표 팀 에서 금메달 획득 에 일조 했 고 , 2015 년 동 아시안 컵 대표 팀 우승 에 도 크 게 기여 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+이종호 는 “ 최고 의 팀 에 입단하 게 돼 흥분된다 ” 며 “ 빨리 팀 에 합류해 내년 시즌 을 준비하 고 싶 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+양 상무 는 전남 화순 출신 으로 광주 여상 을 졸업하 고 삼성전자 연구 보조원 으로 시작해 ‘ 샐러리맨 의 꿈 ’ 으로 불리 는 삼성전자 상무 에 오른 입지전 적 인물 이 다 .	PER-B O O LOC-B LOC-B O O ORG-B ORG-I O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O
+양 상무 는 이날 당 대표 실 에서 열린 입당 식 에서 각종 차별 을 이겨 냈 던 자신 의 삶 을 되돌아보 는 내용 의 회견 문 을 읽 어 내려가 던 도중 눈물 을 흘 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최순실 ( 60 · 구속 ) 씨 의 국정 농단 관련 의혹 이 잇따 라 나오 던 지난 9 월 말 돌연 중국 으로 출국해 잠적한 지 39 일 만 이 다 .	PER-B O O O O O O O O O O O O O O O O O DAT-B DAT-I O O LOC-B O O O O O O O O O O
+차 씨 는 입국 직후 공항 에서 ‘ 안종범 ( 57 · 구속 ) 전 청와대 정책 조정 수석 을 아 느냐 ’ 는 기자 들 질문 에 “ 그냥 조금 알 고 있 다 ” 고 말 했 다 .	PER-B O O O O O O O PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 100 년 기업 으로 가 기 위해 노력할 것 ” 이 라며 “ 어묵 의 세계화 까지 추진하 겠 다 ” 는 포부 도 밝 혔 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남북 대화 재개 시한 명시 안 해 / 북 핵 「 미 최종 안 」	ORG-B O O O O O O O O O O ORG-B O O O
+결국 데뷔 이후 가장 높 은 타율 ( 0.280 ) 로 정규 시즌 을 마 쳤 고 , LG 유격수 로 는 처음 으로 20 홈런 을 달성 했 다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+이 에 네티즌 들 은 노 전 부장 의 신변 보호 를 주장하 고 있 다 .	O O O O O PER-B O O O O O O O O O O O
+라디오스타 배수정 , 영국 런던 ‘ 빅 3 ’ 대학 출신 … “ 운 이 좋 아서 정경 대 에 입학 했 다 ” 라디오 스타 에 출연한 배수정 이 놀라 운 스펙 으로 출연진 들 의 관심 을 집중 시 켰 다 .	O PER-B O LOC-B LOC-B O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+29 일 방송된 MBC 황금 어장 - 라디오스타 에서 는 ‘ 묻 지 마 과거 특집 ! 니 옛날 에 뭐 했 노 ? ’ 를 주제 로 셰프 정창욱 , 배우 강 예빈 , 가수 하각 , 배수정 이 출연해 재미 를 전 했 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B PER-I O O PER-B O PER-B O O O O O O O O
+이날 배수정 은 MC 규현이 “ ‘ 위대한 탄생 ’ 이후 안 보 였 다 ” 며 “ 어디 에서 뭘 했 냐 ? ” 묻 자 “ 회계사 자격증 때문 에 영국 으로 돌아갔 다 ” 며 “ 다시 한국 으로 들어 와 작곡가 활동 을 했 다 ” 고 밝 혔 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O
+이어 “ 제일 최근 에 나온 곡 이 씨스타 의 ‘ 굿 타임 ’ 이 다 ” 며 “ 미쓰에 이 의 ‘ 스턱 ’ 도 작곡 했 다 ” 고 말해 출연진 들 은 배수정 의 재능 에 놀라움 을 보 였 다 .	O O O O O O O O ORG-B O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O PER-B O O O O O O O O O
+또한 이날 배수정 은 영국 에서 런던 정치 경제 대학 을 나 왔 다고 알려지 며 눈길 을 끌 었 다 .	O O PER-B O LOC-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O
+MC 김구 라는 정경 대 를 소개하 며 “ 런던 대학 랭킹 빅 3 ” 라고 소개 했 고 , 배수정 은 “ 학교 에 다닐 때 상위 5 % 였 다 ” 고 말하 며 “ 운 이 좋 아서 정경 대 에 입학 했 다 ” 고 밝 혔 다 .	O PER-B O ORG-B ORG-I O O O O LOC-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+이어 배수정 은 “ 입학 심사 당시 내 가 읽 었 던 책 을 적 었 는데 , 운 이 좋 게 당시 심사 교수 가 쓴 책 이 었 다 ” 고 말해 웃음 을 전 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

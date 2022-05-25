@@ -1,10 +1,10 @@
-NC는 그의 야구인생에서 전환점이었다 .	ORG-B O O O O
-김영철이 "왜 식초를 넣냐"고 묻자 이찬오는 "식초를 넣어야 수란이 굳는다"며 팁을 전수하였다 .	PER-B O O O O PER-B O O O O O O O
-한편 화보와 함께 진행되+ㄴ 인터뷰에서 김유정은 고3 수험생의 고충에 대하+여"고민이 없을 것+이라 생각하였는데, 신기하게도 그렇지 않다"며 "고민 끝에는 항상 공통점이 있는데 바로 김유정 나 자신을 찾는 일이다"라고 밝히었다 .	O O O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O
-이때 최 민정이나서+었다 .	O O O O
-국내 기업들의 경우 공통점이 하나 있다 .	O O O O O O O
-이날 황석정은 한밤중 TV를 보며 19금 영화를 자연스럽게 시청하는 모습으로 시청자들의 눈길을 모으았다 .	O PER-B O O O O O O O O O O O O
-중국 도심 한복판 서 정확하+ㄴ 신분 확인 요구도 무시하+ㄴ 채 자신을 공안(중국 경찰)이라 밝히+ㄴ 정체불명의 사내들에게 둘러싸이어 힘으로 제압당하였다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O
-이날 외환당국은 중국의 움직임을 긴밀하게 관찰하되 상황을 좀 더 지켜보는 쪽을 택하였다 .	O O ORG-B O O O O O O O O O O
-금·토요일은 오후 7시부터 자정까지 연중무휴 영업 하+ㄴ다 .	O O O O O O O O
-우연찮게 2012년 케이블 채널드라마 ‘아이러브 이태리’에 단역으로 출연하였는데, 그때 이후로 더 포기 하+ㄹ 수 없었다 .	O O O O O O O O O O O O O O O O
+NC 는 그 의 야구 인생 에서 전환점 이 었 다 .	ORG-B O O O O O O O O O O O
+김 영철이 " 왜 식초 를 넣 냐 " 고 묻 자 이찬오 는 " 식초 를 넣 어야 수란이 굳 는다 " 며 팁 을 전수 했 다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+한편 화보 와 함께 진행된 인터뷰 에서 김유정 은 고 3 수험생 의 고충 에 대해 " 고민 이 없 을 거 라 생각 했 는데 , 신기하 게 도 그렇 지 않 다 " 며 " 고민 끝 에 는 항상 공통점 이 있 는데 바로 김유정 나 자신 을 찾 는 일 이 다 " 라고 밝 혔 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+이 때 최민정 이 나섰 다 .	O O PER-B O O O O
+국내 기업 들 의 경우 공통점 이 하나 있 다 .	O O O O O O O O O O O
+이날 황석정 은 한밤 중 TV 를 보 며 19 금 영화 를 자연스럽 게 시청하 는 모습 으로 시청자 들 의 눈길 을 모 았 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 도심 한복판 서 정확한 신분 확인 요구 도 무시한 채 자신 을 공안 ( 중국 경찰 ) 이 라 밝힌 정체불명 의 사내 들 에게 둘러싸 여 힘 으로 제압당 했 다 .	LOC-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+이날 외환 당국 은 중국 의 움직임 을 긴밀하 게 관찰하 되 상황 을 좀 더 지켜보 는 쪽 을 택 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+금 · 토요일 은 오후 7 시 부터 자정 까지 연중무휴 영업한다 .	DAT-B O DAT-B O O O O O O O O O O
+우연찮 게 2012 년 케이블 채널 드라마 ‘ 아이 러브 이태리 ’ 에 단역 으로 출연 했 는데 , 그때 이후 로 더 포기할 수 없 었 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O

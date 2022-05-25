@@ -1,13 +1,13 @@
-주요 시장조사업체들은 2020년까지 전 세계 수십억 명이 수백억 개기기를 통하+여 인터넷에 연결되+ㄹ 것으로 전망하는데, 이 막대하+ㄴ 시장을 겨낭한 업체간 경쟁이 벌써부터 뜨겁게 달아오르고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-당과 후보 지지율에서 압도적 1위를 달리고 있는 더불어민주당은 27일 호남 경선이 중대 분수령이 되+ㄹ 전망이다 .	O O O O O O O ORG-B O LOC-B O O O O O O
-아버지 선조의 질시와 배척 속에서도 왕위에 오르는 인물을 맡았다 .	O PER-B O O O O O O O O
-NYT에 따르면 각종 경제정책 강화와 국유기업 및 은행에 대하+ㄴ 당의 통제는 외국 투자자들의 우려를 깊게 하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O
-‘이것+이 뭐 +이지’ 궁금증을 불러일으키는 것이죠. 엘리베이터 문이 열리면 10개의 말풍선이 가볍게 인사 하+ㄹ 때의 각도(15~30도)에서 보이+ㅂ니다 .	O O O O O O O O O O O O O O O O O O
-에이치플러스 양지병원 내분 비과가 직접 준비하는 이 프로그램은 19일 당뇨 환자와 보호자를 대상으로 하는 질환관리 특강 ‘당뇨교실’로 이어 지+ㄴ다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-그렇다면, 국내 펀드 시장을 주름잡는 가치투자 대가들은 어떤 방식으로 투자를 하+ㄹ까? 2008년 결성되 +ㄴ ‘가치투자포럼’ 회원 6명으로부터 비법을 들었다 .	O O O O O ORG-B O O O O O O O O ORG-B O O O O O
-1985년 . 당시 농구 국가대표 선수+이었던 허재전 KCC감독의 발길이는 275mm, 축구 국가대표 선수+이었던 허정무 한국프로축구연맹 부총재는 270mm+이었다 .	O O O O O O PER-B ORG-B O O O O O PER-B ORG-B O O O
-지난해 말보다 소폭 하락하였고 작년 동일 기간(6.7%) 대비 0.5% p 하락하였다 .	O O O O O O O O O O O O
-‘클린 디젤’을 홍보 하+ 여경 유차 수요를 폭발적으로 키우+ㄴ그동안의 정책에 대하+여윤성규 환경부 장관은 이날 “중대하+ㄴ 시행착오가 있지 않았나 생각 하+ㄴ다”며 유감이라고 말하였다 .	O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O
-이어 “전국적으로 격리 대상자에 대하+여서 +ㄴ 격리통지서가 발급되는데 격리통지서를 받은 수험생은 서울시에 알리+어달라”고 요청하였다 .	O O O O O O O O O O O ORG-B O O O
-이번 공연에서 초록마녀 엘파바역은 박혜나와 차지연, 금발마녀 글리+ㄴ .	O O O PER-B PER-B PER-B O O O
-우선 장서각이 소장 하+ㄴ『군 영등록(軍營謄錄) 』의 세계기록유산 등재가 본격 추진되 +ㄴ다 .	O ORG-B O O O O O O O O O O
+주요 시장 조사 업체 들 은 2020 년 까지 전 세계 수십 억 명 이 수백 억 개 기기 를 통해 인터넷 에 연결될 것 으로 전망하 는데 , 이 막대한 시장 을 겨 낭한 업체 간 경쟁 이 벌써 부터 뜨겁 게 달아오르 고 있 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당 과 후보 지지율 에서 압도적 1 위 를 달리 고 있 는 더불 어 민주당 은 27 일 호남 경선 이 중대 분수령 이 될 전망 이 다 .	O O O O O O O O O O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I LOC-B O O O O O O O O O O
+아버지 선조 의 질시 와 배척 속 에서 도 왕위 에 오르 는 인물 을 맡 았 다 .	O PER-B O O O O O O O O O O O O O O O O O
+NYT 에 따르 면 각종 경제 정책 강화 와 국유 기업 및 은행 에 대한 당 의 통제 는 외국 투자자 들 의 우려 를 깊 게 하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 이게 뭐 지 ’ 궁금증 을 불러일으키 는 것 이 죠 . 엘리베이터 문 이 열리 면 10 개 의 말 풍선 이 가볍 게 인사할 때 의 각도 ( 15 ~ 30 도 ) 에서 보입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+에이치 플러스 양지병원 내분비 과 가 직접 준비하 는 이 프로그램 은 19 일 당뇨 환자 와 보호자 를 대상 으로 하 는 질환 관리 특강 ‘ 당뇨 교실 ’ 로 이어진다 .	ORG-B ORG-I ORG-I O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+그렇 다면 , 국내 펀드 시장 을 주름잡 는 가치 투자 대가 들 은 어떤 방식 으로 투자 를 할까 ? 2008 년 결성된 ‘ 가치 투자 포럼 ’ 회원 6 명 으로부터 비법 을 들 었 다 .	O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O ORG-B ORG-I ORG-I O O O O O O O O O O O
+1985 년 . 당시 농구 국가 대표 선수 였 던 허재 전 KCC 감독 의 발 길이 는 275 mm , 축구 국가 대표 선수 였 던 허정무 한국프로축구연맹 부총재 는 270 mm 였 다 .	DAT-B DAT-I O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O
+지난해 말 보다 소폭 하락 했 고 작년 동일 기간 ( 6.7 % ) 대비 0.5 % p 하락 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+‘ 클린 디젤 ’ 을 홍보해 경유 차 수요 를 폭발적 으로 키운 그동안 의 정책 에 대해 윤성규 환경부 장관 은 이날 “ 중대한 시행착오 가 있 지 않 았 나 생각한다 ” 며 유감 이 라고 말 했 다 .	O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 전국적 으로 격리 대상자 에 대해선 격리 통지서 가 발급되 는 데 격리 통지서 를 받 은 수험생 은 서울시 에 알려 달 라 ” 고 요청 했 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+이번 공연 에서 초록 마녀 엘파 바 역 은 박 혜나 와 차지연 , 금발 마녀 글린다	O O O O O PER-B PER-I O O PER-B PER-I O PER-B O O O O
+우선 장서각 이 소장한 『 군영 등록 ( 軍營謄錄 ) 』 의 세계 기록 유산 등재 가 본격 추진된다 .	O ORG-B O O O O O O O O O O O O O O O O O O

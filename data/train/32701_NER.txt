@@ -1,14 +1,14 @@
-한편 노스페이스는 연잇은 국제광고제 수상을 기념 하+여 6월 28일까지 노스페이스 공식 페이스북(www.facebook. com/TheN orthFaceKR)과 인스타그램(@thenorthf ace＿ kr)을 통하+여 ‘다시 탐험 속으로 공유 이벤트’를 진행하+ㄴ다 .	O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O
-이 낯설고 음습하+ㄴ 세계의 긴장되+ㄴ고요, 들끓는 정적을 집요하게 추적하는 박성준은 ‘어쩌자고’ 무당 같다 .	O O O O O O O O O PER-B O O O O
-고소영 활용 정도도 드라마 인기를 높이는 하나의 요인이 되+ㄹ 것으로 보이+ㄴ다 .	PER-B O O O O O O O O O O O
-그 생존 방안을 찾는 두 명의 농부가 여기 있다 .	O O O O O O O O O O
-보지 않아도 목소리의 임자가 1층 여자+이라는 것을 알+ㄹ 수 있었다 .	O O O O O O O O O O O
-소속사 측은 이날 “서울 강남의 한 산부인과에서 아들을 낳았다 .	O O O LOC-B LOC-I O O O O O
-영남대 로스쿨이 올해 합격률 1위를 차지하+ㄴ데 대하+여 일부에서는 “사법시험에 1차 합격 하+ㄴ 학생들을 데려가 +았기 때문에 합격률이 잘 나 오+ㄴ 것”이라는 말이 나 오+ㄴ다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
-최씨는 “물을 마시+어도 소변이 안 나 오+ㄹ 만큼 덥었다”고 돌이키었다 .	PER-B O O O O O O O O O O
-홍종현-유라, 하차 앞두고 이별 여행 ?남이섬 ‘의미심장’ …막방은 .	PER-B O O O O LOC-B O O O
-이 연구소가 지목하+ㄴ 침수지역에 미국 뉴욕은 물론 중국 상하이, 인도 뭄바이, 호주 시드니 도 포함되었다 .	O O O O LOC-B LOC-I O LOC-B LOC-I LOC-B LOC-I LOC-B LOC-I O O O
-이에 대하+여오바마 대통령은 이날 주례 연설에서 “과거의 모든 무역협상이 애초 기대만큼 효과를 발휘하+ㄴ 것은 아니다”라고 인정하면서도 “그렇다고 우리가 스스로 빗장을 걸어 잠그고 새롭ㄴ 기회를 저버리면 안 되+ㄴ다”고 강조하였다 .	O PER-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
-27일 오전 미국 보스턴 하버드대 케네디스쿨에서 열리+ㄴ아베 총리의 강연과 위안부 피해자 이용수 할머니(87)의 항의를 전하면서 국내 몇몇 언론이 이같이 보도하였다 .	O O ORG-B ORG-I ORG-I ORG-I PER-B O O O O PER-B O O O O O O O O O
-박 대통령은 진지하게 경청하였다고 하+ㄴ다 .	PER-B O O O O O
-클래스픽, Fitness 분야의 신개념 통합운동 멤버쉽 서비스 '화제 .	ORG-B O O O O O O O O
+한편 노 스페이스 는 연이 은 국제 광고 제 수상 을 기념해 6 월 28 일 까지 노 스페이스 공식 페이스북 ( www . facebook . com / TheNorthFaceKR ) 과 인스타그램 ( @ thenorthface ＿ kr ) 을 통해 ‘ # 다시 탐험 속 으로 공유 이벤트 ’ 를 진행한다 .	O ORG-B ORG-I O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 낯설 고 음습한 세계 의 긴장된 고요 , 들끓 는 정적 을 집요하 게 추적하 는 박성준 은 ‘ 어쩌 자고 ’ 무당 같 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+고소영 활용 정도 도 드라마 인기 를 높이 는 하나 의 요인 이 될 것 으로 보인다 .	PER-B O O O O O O O O O O O O O O O O O
+그 생존 방안 을 찾 는 두 명 의 농부 가 여기 있 다 .	O O O O O O O O O O O O O O O
+보 지 않 아도 목소리 의 임자 가 1 층 여자 라는 것 을 알 수 있 었 다 .	O O O O O O O O O O O O O O O O O O O O
+소속 사 측 은 이날 “ 서울 강남 의 한 산부인과 에서 아들 을 낳 았 다 .	O O O O O O LOC-B LOC-I O O O O O O O O O O
+영남대 로스쿨 이 올해 합격률 1 위 를 차지한 데 대해 일부 에서 는 “ 사법 시험 에 1 차 합격한 학생 들 을 데려갔 기 때문 에 합격률 이 잘 나온 것 ” 이 라는 말 이 나온다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 씨 는 “ 물 을 마셔도 소변 이 안 나올 만큼 더 웠 다 ” 고 돌이 켰 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+홍종현 - 유라 , 하차 앞두 고 이별 여행 ? 남이섬 ‘ 의미심장 ’ … 막 방 은 ?	PER-B O PER-B O O O O O O O LOC-B O O O O O O O O
+이 연구소 가 지목한 침수 지역 에 미국 뉴욕 은 물론 중국 상하이 , 인도 뭄바이 , 호주 시드니 도 포함 됐 다 .	O O O O O O O LOC-B LOC-I O O LOC-B LOC-I O LOC-B LOC-I O LOC-B LOC-I O O O O O
+이 에 대해 오바마 대통령 은 이날 주례 연설 에서 “ 과거 의 모든 무역 협상 이 애초 기대 만큼 효과 를 발휘한 것 은 아니 다 ” 라고 인정하 면서 도 “ 그렇 다고 우리 가 스스로 빗장 을 걸 어 잠그 고 새로 운 기회 를 저버리 면 안 된다 ” 고 강조 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+27 일 오전 미국 보스턴 하버드대 케네디스쿨 에서 열린 아베 총리 의 강연 과 위안부 피해자 이용수 할머니 ( 87 ) 의 항의 를 전하 면서 국내 몇몇 언론 이 이같이 보도 했 다 .	DAT-B DAT-I O ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+박 대통령 은 진지하 게 경청 했 다고 한다 .	PER-B O O O O O O O O O
+클래스 픽 , Fitness 분야 의 신 개념 통합 운동 멤버 쉽 서비스 ' 화제 '	ORG-B ORG-I O O O O O O O O O O O O O O

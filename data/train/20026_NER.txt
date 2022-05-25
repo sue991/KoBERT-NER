@@ -1,14 +1,14 @@
-박 대통령은 지난달 29일 수석비서관회의를 주재하+ㄴ 이후 공식 일정 없이 참모진과 순방 준비에 전념하는 것으로 전하여 +지+었다 .	PER-B O O O O O O O O O O O O O O O O O
-견본주택은 용인시 기흥구 중동 1110번지에 마련되 +ㄹ 예정이다 .	O LOC-B LOC-B LOC-B LOC-I O O O O
-A씨는 “임원 쪽으로 굴러가는 공을 막으려는 사람, 다른 지원자에게 공을 던지+ㄴ 사람 등 면접장이 한순간 아수라장이 +었다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O
-타임슬립 드라마 집필… 5월 방송 예정 스타 작가로 꼽히는 ‘홍자매’ 홍정은·홍미란 작가가 ‘타임슬립’(Tim eslip) 드라마를 선보이+ㄴ다 .	O O O O O O O O O O PER-B O O O O O O
-「전설 의무도인」쓰러지다/ 일가라데 총수 최영의 씨 사 .	O O ORG-B O PER-B O O O
-머스크는 저커버그의 글이 트위터에 올라 오+ㄴ 뒤 25일(현지시간) "나는 마크와 이것에 관하+여 얘기를 나누었었다 .	PER-B PER-B O O O O O O O PER-B O O O O O
-백은 이 같은 약점을 의식 하+여서 두르어 78, 80을 선수 하+여상 변백을 보강하였다 .	PER-B O O O O O O O O O O PER-B O O
-또 지난해 8월에는 보관 중 이+ㄴ쌀 2500포대에나방애벌레가 대량 발생하자, 폐기처분하는 대신 맹독성 살충제로 박멸하+ㄴ 뒤 유통시키+ㄴ 사실도 적발되 +ㄴ바 있다 .	O O O O O O O O O O O O O O O O O O O O O
-무엇보다 출장 기회가 줄어들면서 타격감이 눈에 띄게 떨어지었고, 9월 24일 잠실한 화전에서 +ㄴ 결정적 이+ㄴ 실책을 저지르며 패배의 빌미를 제공하기도 +였다 .	O O O O O O O O O O LOC-B O O O O O O O O O O O
-결국 정주현은 30일 1군 엔트리에서 말소되었다 .	O PER-B O O O O O
-20대 초반보다 몸 상태가 더 좋다”며 메달 획득에 자신감을 보이었다 .	O O O O O O O O O O O
-법원은 또 24시간의 성폭력 치료 프로그램 이 수도 함께 요청하였다 .	O O O O O O O O O O O
-도신우씨는 현재 패션쇼 제작 및 대행업 등을 하는 회사를 운영 중이다 .	PER-B O O O O O O O O O O O
-서울시 서울광장의 사용 및 관리에 관하+ㄴ 조례는 ‘규칙으로 정하는 사용자의 준수사항을 위반하는 경우’에 서울시장이 광장 사용을 정지하게 하+ㄹ 수 있도록 하고 있다 .	LOC-B LOC-B O O O O O O O O O O O LOC-B O O O O O O O O O
+박 대통령 은 지난달 29 일 수석 비서관 회의 를 주재한 이후 공식 일정 없이 참모 진 과 순방 준비 에 전념하 는 것 으로 전해 졌 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+견본 주택 은 용인시 기흥구 중동 1110 번지 에 마련될 예정 이 다 .	O O O LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O
+A 씨 는 “ 임원 쪽 으로 굴러가 는 공 을 막 으려는 사람 , 다른 지원자 에게 공 을 던진 사람 등 면접 장 이 한순간 아수라장 이 됐 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+타임 슬립 드라마 집필 … 5 월 방송 예정 스타 작가 로 꼽히 는 ‘ 홍 자매 ’ 홍정은 · 홍미란 작가 가 ‘ 타임 슬립 ’ ( Time slip ) 드라마 를 선보인다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O
+「 전설 의 무도 인 」 쓰러지 다 / 일 가라데 총수 최영의 씨 사망	O O O O O O O O O ORG-B O O PER-B O O
+머스크 는 저커버그 의 글 이 트위터 에 올라온 뒤 25 일 ( 현지 시간 ) " 나 는 마크 와 이것 에 관해 얘기 를 나 눴었 다 .	PER-B O PER-B O O O O O O O DAT-B DAT-I O O O O O O O PER-B O O O O O O O O O O
+백 은 이 같 은 약점 을 의식해 서둘 러 78 , 80 을 선수해 상변 백 을 보강 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+또 지난해 8 월 에 는 보관 중 인 쌀 2500 포대 에 나방 애벌레 가 대량 발생하 자 , 폐기 처분 하 는 대신 맹독성 살충제 로 박멸한 뒤 유통 시킨 사실 도 적발된 바 있 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+무엇 보다 출장 기회 가 줄어들 면서 타격 감 이 눈 에 띄 게 떨어 졌 고 , 9 월 24 일 잠실 한화 전 에선 결정적 인 실책 을 저지르 며 패배 의 빌미 를 제공하 기 도 했 다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B O O O O O O O O O O O O O O O O O O O
+결국 정주현 은 30 일 1 군 엔트리 에서 말소 됐 다 .	O PER-B O DAT-B DAT-I O O O O O O O O
+20 대 초반 보다 몸 상태 가 더 좋 다 ” 며 메달 획득 에 자신감 을 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O
+법원 은 또 24 시간 의 성폭력 치료 프로그램 이수도 함께 요청 했 다 .	O O O O O O O O O O O O O O O
+도신우 씨 는 현재 패션쇼 제작 및 대행 업 등 을 하 는 회사 를 운영 중 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+서울시 서울광장 의 사용 및 관리 에 관한 조례 는 ‘ 규칙 으로 정하 는 사용자 의 준수 사항 을 위반하 는 경우 ’ 에 서울 시장 이 광장 사용 을 정지하 게 할 수 있 도록 하 고 있 다 .	LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

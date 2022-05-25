@@ -1,14 +1,14 @@
-축구통계 전문 사이트 후스코어드닷컴은 손흥민에게 양팀 출전선수를 통틀어 가장 낮은 평점이+ㄴ 5.8점을 +었다 .	O O O O PER-B O O O O O O O O O
-토트넘은 전반 26분 선제골을 내주었다 .	ORG-B TIM-B TIM-I O O O
-앞서 +어지난해 12월 11일과 올해 3월 11일 모집을 끝내 +ㄴ 같은 전형의 경쟁률은 각각 4.4대 1, 4.8대 1이었다 .	O O O O O O O O O O O O O O O O O O O
-유해는 화장 뒤 고향이+ㄴ 미국 세인트루이스로 보내지+ㄹ 예정이다 .	O O O O LOC-B LOC-I O O O
-빌 클린턴 전 미국 대통령의 문담으로는 중산층 육성을 뜻하는 ‘미들아웃 경제학’이란 용어를 만들 +ㄴ 에릭류(47)가 유명하다 .	PER-B PER-I O ORG-B O O O O O O O O O O PER-B O O
-7~9월 석 달간 국내 주식형 펀드에서 4조3629억원이 빠져나가 +ㄴ 것으로 집계되었다 .	O O O O O O MNY-B O O O O O
-대우전자는 최근 조직개편을 통하+여 영상미디어 부문을 신설하고 산하의 영상음반사업부에 제작 전담인력을 확보, 「대우시네마네트워크」 작품 1호로 김유민 감독의 「커피카피코피」를 제작하+ㄴ다고 14일 밝히었다 .	ORG-B O O O O O O O O O O O ORG-B O O PER-B O O O O O O
-가락시장, 새벽 피크타임 차량 400대 몰리는  .	LOC-B O O O O O O O
-국내 누리꾼들의 반응은 어떻 +ㄹ까? “우리나라 집무실은 관저”, “눈사람도 훔쳐 보+ㄹ 수 있는 열리+ㄴ 백악관”, “박근혜 대통령이었다면 ‘저런 나쁘+ㄴ 눈사람’ 같은 어쩌 구하려나”, “오바마 대통령을 보면 나도 모르게 따뜻하+ㄴ정을 느끼게 되+ㄴ다 .	O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O PER-B O O O O O O O O
-유영하 변호사는 29일 오후 박 전 대통령 자택에 약 2시간 동안 머무르었다 .	PER-B O O O PER-B O O O O O O O O
-1990년 아키히토 일왕은 “통석(痛惜)의 염(念)을 금하+ㄹ 수 없다”는 문장을 +었다 .	O PER-B O O O O O O O O O
-‘김해 여고생 살해 사건’가 담가해자여중생 징역 6~9년 확 .	O O O O O O O O O
-인천공항공사는 지난해 2월 정일 영 사장 취이 이후 수하물과 보안 분야의 혁신대책뿐 아니라, 여객 불편사항이 집중되는 분야를 중심으로 48개의 개선과제를 담은 서비스 개선 종합대책을 수립하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-이동형 체크인 카운터 운영, 보안검색대증설 등 신속하+ㄴ 출입국 수속 추진, 캡슐호텔 개발, 면세품 인도장 확충, 어린이 놀이시설 및 유아휴게실 개선 등 여객 편의시설 개선을 비롯하+여주차 편의 증대, 대중교통 이용 편의 강화, 공항나+의 안내 강화 등을 개선하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+축구 통계 전문 사이트 후 스코어 드 닷컴 은 손흥민 에게 양 팀 출전 선수 를 통틀어 가장 낮 은 평점 인 5.8 점 을 줬 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+토트넘 은 전반 26 분 선제골 을 내 줬 다 .	ORG-B O TIM-B TIM-I TIM-I O O O O O O
+앞서 지난해 12 월 11 일 과 올해 3 월 11 일 모집 을 끝낸 같 은 전형 의 경쟁률 은 각각 4.4 대 1 , 4.8 대 1 이 었 다 .	O O DAT-B DAT-I DAT-I DAT-I O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O
+유해 는 화장 뒤 고향 인 미국 세인트루이스 로 보내 질 예정 이 다 .	O O O O O O LOC-B LOC-I O O O O O O O
+빌 클린턴 전 미국 대통령 의 문담 으로 는 중산층 육성 을 뜻하 는 ‘ 미들 아웃 경제학 ’ 이 란 용어 를 만든 에릭 류 ( 47 ) 가 유명하 다 .	PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O
+7 ~ 9 월 석 달 간 국내 주식 형 펀드 에서 4 조 3629 억 원 이 빠져나간 것 으로 집계 됐 다 .	O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O
+대우전자 는 최근 조직 개편 을 통해 영상 미디어 부문 을 신설하 고 산하 의 영상 음반 사업 부 에 제작 전담 인력 을 확보 , 「 대우시네마 네트워크 」 작품 1 호 로 김유민 감독 의 「 커피 카피 코피 」 를 제작한다고 14 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O PER-B O O O O O O O O O DAT-B DAT-I O O O O
+가락시장 , 새벽 피크 타임 차량 400 대 몰리 는데	LOC-B O O O O O O O O O
+국내 누리 꾼 들 의 반응 은 어떨까 ? “ 우리나라 집무실 은 관저 ” , “ 눈사람 도 훔쳐볼 수 있 는 열린 백악관 ” , “ 박근혜 대통령 이 었 다면 ‘ 저런 나쁜 눈사람 ’ 같 은 어쩌 구 하 려나 ” , “ 오바마 대통령 을 보 면 나 도 모르 게 따뜻한 정 을 느끼 게 된다 ”	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+유영하 변호사 는 29 일 오후 박 전 대통령 자택 에 약 2 시간 동안 머물 렀 다 .	PER-B O O DAT-B DAT-I O PER-B O O O O O O O O O O O O
+1990 년 아키히토 일 왕 은 “ 통석 ( 痛惜 ) 의 염 ( 念 ) 을 금할 수 없 다 ” 는 문장 을 썼 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 김해 여고생 살해 사건 ’ 가담 가해자 여중생 징역 6 ~ 9 년 확정	O O O O O O O O O O O O O O O
+인천공항공사 는 지난해 2 월 정일영 사장 취이 이후 수하물 과 보안 분야 의 혁신 대책 뿐 아니 라 , 여객 불편 사항 이 집중되 는 분야 를 중심 으로 48 개 의 개선 과제 를 담 은 서비스 개선 종합 대책 을 수립 했 다 .	ORG-B O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이동 형 체크인 카운터 운영 , 보안 검색 대 증설 등 신속한 출입국 수속 추진 , 캡슐 호텔 개발 , 면세품 인도 장 확충 , 어린이 놀이 시설 및 유아 휴게실 개선 등 여객 편의 시설 개선 을 비롯해 주차 편의 증대 , 대중교통 이용 편의 강화 , 공항 내 안내 강화 등 을 개선 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

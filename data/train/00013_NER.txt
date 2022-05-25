@@ -1,13 +1,13 @@
-그는 “목표 달성 여부를 꾸준히 분석하다 보면 한 시즌 결과를 명확하게 돌아보+ㄹ 수 있고, 다음 시즌에 무엇을 준비 하+여야 하는지 답이 나 오+ㄴ다”며 기록의 중요성을 설명하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-KIA 내야 수서동욱(32)이 노력 탓에 억울하+ㄴ 오해를 받았다 .	ORG-B O PER-B O O O O O O
-서동욱은 11일 고척 넥센 전 이후 억울하+ㄴ 상황에 처하였다 .	PER-B O O O O O O O O O
-사업체를 운영하는 김모(53·서울 서초구)씨는 6~7개월 전부터 부쩍 의욕이 없고 밤에 잠이 오지 않는 경우가 잦아지었다 .	O O LOC-B LOC-B O O O O O O O O O O O O
-현대차는 7일(현지시간) 스위스에서 열리+ㄴ ‘2017 제네바 모터쇼’를 통하+여 ‘i30 왜건’을 월드프리미어로 공개하였다 .	ORG-B O LOC-B O O O O O O O O O O
-i30 왜건은 지난해 출시되 +ㄴ신형 i305도어를 기반으로 트렁크 공간을 늘리+ㄴ 모델이다 .	O O O O O O O O O O O O
-日프로야구 불멸의 기록들… 한국인 빼놓곤 설명이 안 되+ .	LOC-B O O O O O O O O
-하지만 이 같은 보도에 대하+여안 재욱의 소속사는 “아직 두 사람이 교제를 시작하+ㄴ지 얼마 되지 않았는데 결혼 이야기를 꺼내는 것+ㄴ성급하다”며 이 같은 사실을 부인하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-2008년 필라델피아와 템파베이가 맞붙은 월드시리즈에서 오바마는 ＂(응원팀이+ㄴ) 화이트 삭스가 플레이오프 진출에 실패 하+여필라델피아를 응원하러 +았다＂며 필라델피아 응원석에 앉아 경기를 +았다 .	O ORG-B ORG-B O O PER-B O ORG-B ORG-I O O O ORG-B O O ORG-B O O O O O
-조승연 작가가 ‘말하는 대로’에 출연하+ 여입담을 뽐내 +ㄴ 가운데 그의 경력이 주목받고 있다 .	PER-B O O O O O O O O O O O O O
-앞서 MBC ‘황금어장-라디오 스타’, tvN ‘비밀 독서단’, ‘대학토론 배틀시즌6’, JTBC ‘차이나는 도올’ 등 여러 방송을 통하+여 얼굴을 알리+ㄴ조승연 작가는 미국 뉴욕대학교 경영학과를 졸업하고 프랑스 루브르 대학교 미술사학, 박물학을 공부하다 중퇴하였다 .	O O O O O O O O O O O O O O O O O PER-B O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O
-또 그는 한국어를 포함, 영어, 프랑스어, 이탈리아어, 독일어, 중국어, 라틴어 등 7개 국어가 가능하다고 밝히+ㄴ바 있다 .	O O O O O O O O O O O O O O O O O
-작가로서는 ‘그물망 공부법’, ‘공부 기술’, ‘생각기술’ 등 25권의 책을 내기도 +였다 .	O O O O O O O O O O O O
+그 는 “ 목표 달성 여부 를 꾸준히 분석하 다 보 면 한 시즌 결과 를 명확하 게 돌아볼 수 있 고 , 다음 시즌 에 무엇 을 준비해야 하 는지 답 이 나온다 ” 며 기록 의 중요성 을 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KIA 내야수 서동욱 ( 32 ) 이 노력 탓 에 억울한 오해 를 받 았 다 .	ORG-B O PER-B O O O O O O O O O O O O O O
+서동욱 은 11 일 고척 넥센 전 이후 억울한 상황 에 처 했 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O
+사업체 를 운영하 는 김 모 ( 53 · 서울 서초구 ) 씨 는 6 ~ 7 개월 전 부터 부쩍 의욕 이 없 고 밤 에 잠 이 오 지 않 는 경우 가 잦아 졌 다 .	O O O O PER-B O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현대차 는 7 일 ( 현지 시간 ) 스위스 에서 열린 ‘ 2017 제네바 모터쇼 ’ 를 통해 ‘ i 30 왜건 ’ 을 월드 프리미어 로 공개 했 다 .	ORG-B O DAT-B DAT-I O O O O LOC-B O O O DAT-B O O O O O O O O O O O O O O O O O O
+i 30 왜건 은 지난해 출시된 신형 i 30 5 도어 를 기반 으로 트렁크 공간 을 늘린 모델 이 다 .	O O O O O O O O O O O O O O O O O O O O O O
+日 프로 야구 불멸 의 기록 들 … 한국인 빼놓 곤 설명 이 안돼	LOC-B O O O O O O O O O O O O O
+하지만 이 같 은 보도 에 대해 안재욱 의 소속 사 는 “ 아직 두 사람 이 교제 를 시작한 지 얼마 되 지 않 았 는데 결혼 이야기 를 꺼내 는 건 성급하 다 ” 며 이 같 은 사실 을 부인 했 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2008 년 필라델피아 와 템파베이 가 맞붙 은 월드 시리즈 에서 오바마 는 ＂ ( 응원 팀 인 ) 화이트 삭스 가 플레이오프 진출 에 실패해 필라델피아 를 응원하 러 왔 다 ＂ 며 필라델피아 응원석 에 앉 아 경기 를 봤 다 .	DAT-B DAT-I ORG-B O ORG-B O O O O O O PER-B O O O O O O O ORG-B ORG-I O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O
+조승연 작가 가 ‘ 말하 는 대로 ’ 에 출연해 입담 을 뽐낸 가운데 그 의 경력 이 주목 받 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+앞서 MBC ‘ 황금 어장 - 라디오스타 ’ , tvN ‘ 비밀 독서 단 ’ , ‘ 대학 토론 배틀 시즌 6 ’ , JTBC ‘ 차이 나 는 도올 ’ 등 여러 방송 을 통해 얼굴 을 알린 조승연 작가 는 미국 뉴욕 대학교 경영학 과 를 졸업하 고 프랑스 루브르 대학교 미술 사학 , 박물학 을 공부하 다 중퇴 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O ORG-B ORG-I ORG-I O O O O O O O O O O O
+또 그 는 한국어 를 포함 , 영어 , 프랑스 어 , 이탈리아 어 , 독일어 , 중국어 , 라틴 어 등 7 개 국어 가 가능하 다고 밝힌 바 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+작가 로서 는 ‘ 그물망 공부 법 ’ , ‘ 공부 기술 ’ , ‘ 생각 기술 ’ 등 25 권 의 책 을 내 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

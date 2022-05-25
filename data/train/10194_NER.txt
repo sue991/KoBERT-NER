@@ -1,15 +1,15 @@
-김 코치는 전력 분석 전문가로 각 분야 코치를 돕는 것+이주 업무 이+ㄴ데, 오히려 코치들을 주도하려고 하+ㄴ다는 것+이 풍문의 내용이다 .	PER-B O O O O O O O O O O O O O O O O O O O
-미국은 지금 북한을 독자적 외교 대상으로 여기고 협상하려 하+ㄴ다 .	ORG-B O ORG-B O O O O O O O
-[유재영기자의 보너스 원샷] 근육 불끈불끈 … 센터들, 헐크되겠 .	PER-B O O O O O O O O
-유가증권담보대출자 1만9000여명 신용등급 오르+ㄴ .	O O O O O
-증권가 등에서는 이미 삼성그룹 지배구조 재편의 다음 작업에 관심이 집중되고 있다 .	O O O ORG-B O O O O O O O O
-전 세계 이슬람권에서 자원한 무자히 딘(mujahidin·성전참여자)에게 소련의 군 시설을 공격하기 위하+ㄴ 다양하+ㄴ테러 기술도 전수되었다 .	O O O O O ORG-B ORG-B O O O O O O O O
-새롭게 출시하+ㄴ 안타티카는 기본 배색형에 안타티카리미티드와 솔리드 스타일을 추가 하+여 남녀 각 3가지 스타일로 출시되었다 .	O O O O O O O O O O O O O O O O
-“저+의 할아버지, 할머니는 르펜을 두려워 하+여요. 너무 극단적이고 그녀가 뽑히면 전쟁이 일어나 +ㄹ 지도 모르+ㄴ다고요. 나는 이렇게 말하고 싶어요 .	O O O PER-B O O O O O O O O O O O O O O O O
-‘빅3’는 17일부터 경기도 안산의 아일랜드 골프장에서 열리는 시즌2번째 대회 이+ㄴ 삼천리투게더 여자 오픈에서 시즌 첫 승을 향하+ㄴ 두 번째 시험 무대에 오르+ㄴ다 .	ORG-B O LOC-B LOC-I LOC-B LOC-I O O O O O O O O O O O O O O O O O
-1997년 외환위기와 2008년 금융위기를 거치면서 한국의 상위 10% 소득 집중도가 세계 주요 국가 중 가장 빠르게 높아 지+ㄴ 것으로 나타나 +았다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O
-“아사히, 삿포로, 기린… 마음껏 고르세요.4 캔에 8000원이+ㅂ니다 .	ORG-B ORG-B ORG-B O O O MNY-B O
-전남도선거관리위원회는 5월 9일 치르어지는 제19대 대통령 선거를 앞두고 연간 400만명이 다녀가는 순천만 국가정원에 농한기 들판의 건초 더미이+ㄴ 곤포사일리지를 활용하+ㄴ 조형물을 설치하였다 .	ORG-B O O O O O O O O O O LOC-B LOC-I O O O O O O O O O
-미국은 낮은 물가 수준 때문에 그동안 금리 인상을 주저하+여+았고, 미국 보수파의 신(新) 고립주의는 산유량 증가에 따르+ㄴ 경제적 자신감에 뿌리를 두고 있다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O
-뭇타 의 장점은 언제나 낙천적이라는 것.특출 하+ㄴ 재능이 보이지는 않지만 언제나 자기 일에 열심이고, 엉뚱하지만 목표를 향하+ㄴ길을 잃지 않는 꾸준하+ㅁ이 무기+이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-영화배우 남궁원 안성기, 가수 김수철, 영화감독 장선우씨 등 20여명의 연예인들도 빈소를 찾아 영화배우 이+ㄴ문 목사의 셋째 아들 성근씨를 위로하였다 .	O PER-B PER-B O PER-B O PER-B O O O O O O PER-B O O O PER-B O O
+김 코치 는 전력 분석 전문가 로 각 분야 코치 를 돕 는 게 주 업무 인데 , 오히려 코치 들 을 주도하 려고 한다는 게 풍문 의 내용 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 은 지금 북한 을 독자적 외교 대상 으로 여기 고 협상하 려 한다 .	ORG-B O O ORG-B O O O O O O O O O O O
+[ 유재영 기자 의 보너스 원 샷 ] 근육 불끈불끈 … 센터 들 , 헐크 되 겠 네	O PER-B O O O O O O O O O O O O O O O O
+유가증권 담보 대출 자 1 만 9000 여 명 신용 등급 오른다	O O O O O O O O O O O O
+증권가 등 에서 는 이미 삼성 그룹 지배 구조 재편 의 다음 작업 에 관심 이 집중되 고 있 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
+전 세계 이슬람권 에서 자원 한 무자히딘 ( mujahidin · 성전 참여 자 ) 에게 소련 의 군 시설 을 공격하 기 위한 다양한 테러 기술 도 전수 됐 다 .	O O O O O O ORG-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O
+새롭 게 출시한 안타 티카 는 기본 배색 형 에 안타 티카 리미티드 와 솔리드 스타일 을 추가해 남녀 각 3 가지 스타일 로 출시 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 제 할아버지 , 할머니 는 르펜 을 두려워해요 . 너무 극단적 이 고 그녀 가 뽑히 면 전쟁 이 일어날지 도 모른다고 요 . 나 는 이렇 게 말하 고 싶 어요 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 빅 3 ’ 는 17 일 부터 경기도 안산 의 아일랜드 골프장 에서 열리 는 시즌 2 번째 대회 인 삼천리 투게더 여자 오픈 에서 시즌 첫 승 을 향한 두 번째 시험 무대 에 오른다 .	O ORG-B ORG-I O O DAT-B DAT-I O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O
+1997 년 외환 위기 와 2008 년 금융 위기 를 거치 면서 한국 의 상위 10 % 소득 집중 도 가 세계 주요 국가 중 가장 빠르 게 높아진 것 으로 나타났 다 .	DAT-B DAT-I O O O DAT-B DAT-I O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+“ 아사히 , 삿포로 , 기린 … 마음껏 고르 세요 . 4 캔 에 8000 원 입니다 .	O ORG-B O ORG-B O ORG-B O O O O O O O O MNY-B MNY-I O O
+전남 도 선거관리위원회 는 5 월 9 일 치 러 지 는 제 19 대 대통령 선거 를 앞두 고 연간 400 만 명 이 다녀가 는 순천만 국가 정원 에 농한기 들판 의 건초 더미 인 곤포 사일리지 를 활용한 조형 물 을 설치 했 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O
+미국 은 낮 은 물가 수준 때문 에 그동안 금리 인상 을 주저해 왔 고 , 미국 보수파 의 신 ( 新 ) 고립주의 는 산유 량 증가 에 따른 경제적 자신감 에 뿌리 를 두 고 있 다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+뭇 타의 장점 은 언제나 낙천적 이 라는 것 . 특출한 재능 이 보이 지 는 않 지만 언제나 자기 일 에 열심 이 고 , 엉뚱하 지만 목표 를 향한 길 을 잃 지 않 는 꾸준함 이 무기 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영화배우 남궁원 안성기 , 가수 김수철 , 영화감독 장선우 씨 등 20 여 명 의 연예인 들 도 빈소 를 찾 아 영화배우 인 문 목사 의 셋째 아들 성근 씨 를 위로 했 다 .	O PER-B PER-B O O PER-B O O PER-B O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O

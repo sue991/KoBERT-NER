@@ -1,15 +1,15 @@
-두 사람은 기억을 더듬으며 노홍철의 과거 짝사랑 상대에 대하+여서도 이야기를 나누었다 .	O O O O PER-B O O O O O O O
-맑은 물리조트 앞을 흐르는 내린천에서는 래프팅이, 리조트 중앙에 위치하+ㄴ 수영장에서는 내린천을 바라보며 즐기는 야외 수영을 즐기+ㄹ 수 있고, 생생 하+ㄴ 손맛을 즐기+ㄹ 수 있는 내린천에서의 낚시까지 더하면 여름철 3색 물놀이가 가능하+ㄴ 1석 3조 리조트+이다 .	O O O O LOC-B O O O O O LOC-B O O O O O O O O O O O O O LOC-B O O O O O O O O O O
-당시 부리람에서 뛰+ㄴ오스마르는 올해 서울의 주장 완장을 차고 있다 .	O ORG-B PER-B O LOC-B O O O O O
-지난해까지 출연하+ㄴ MBC 예능 프로그램 ‘우리 결혼하었어요’에서 선보이+ㄴ 솔직하+ㄴ 매력을 인정받아 드라마와 리얼리티 콘셉트를 합치+ㄴ ‘연극이 끝나고 나+ㄴ 뒤’에 출연하게 +었다 .	O O O O O O O O O O O O O O O O O O O O O O
-현재 태국에서 촬영 중이며 연기자 하석진, 윤소희 등과 함께 참여하고 있다 .	O LOC-B O O O PER-B PER-B O O O O O
-소속 사드림티 엔터테인먼트 관계자는 “멤버들이 가지+ㄴ 매력이 전혀 다르+ㄴ 만큼 다양하+ㄴ 무대에서 활약 하+ㄹ 계획이다”고 말하였다 .	O ORG-B ORG-I O O O O O O O O O O O O O O
-닐스티븐슨은 과학지식을 바탕으로 하면서도 풍부하+ㄴ 상상력을 겸비하+ㄴ 공상과학소설을 쓰는 것으로 유명하다 .	PER-B O O O O O O O O O O O
-유토피아 책에 푹 빠지+ㄴ 피터 틸 최근 방한한 페이팔 창업자 피터틸(PeterThiel)은 자산 22억달러(약 2조4000억원)를 보유 하+ㄴ자산가이자 『제로투원(Zerotoone) 』의 저자이기도 하+ㄴ ‘뇌섹남(뇌가 섹시하+ㄴ 남자)’이다 .	O O O O PER-B PER-I O O O O PER-B O MNY-B MNY-B O O O O O O O O O O
-그러면서 "가상레모네이드를 먹으면 진짜 레모네이드를 먹는 경험을 하지만, 칼로리는 0이 되+ㄹ 수 있다"고 덧붙이었다 .	O O O O O O O O O O O O O O O
-영화 ‘트랜스포머’의 주인공 샘 윗위키도 중고차 매장에서 평생의 로봇 친구 범블비를 만나지 않았던가. 국내 최대 중고차 판매업체 SK엔카와 함께 20대 가 구입을 고려하+ 여보+ㄹ만 하+ㄴ 중고차를 Q&A로 풀어보다 .	O O O PER-B PER-I O O O O O PER-B O O O O O O ORG-B O O O O O O O O O O O
-배우 유지태가 아내 김효진을 향하+ㄴ애정을 과시하였다 .	O PER-B O PER-B O O O
-이와 관련 하+여 11일 국회 안전행정위원회 국정감사에 이해진 네이버 의장과 김범수 다음카카오 의장이 증인으로 나오+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O PER-B ORG-B O PER-B ORG-B O O O O O O
-또 1백만 원까지는 연대보증인 없이 무보증으로 대출을 하+여주고 대출금액이 1백만 원 이상이+ㄹ 경우에 +ㄴ한 사람만 보증인으로 세우면 대출을 받을 수 있다 .	O MNY-B MNY-I O O O O O O MNY-B MNY-I O O O O O O O O O O O
-수능 D-100일 이+ㄴ 지나 +ㄴ 8월9일부터 촬영되+ㄴ이 영상은 도교육청 미디어팀 직원 5명과 유치원생부터 초등학생, 교직원, 학부모, 페이스북 팔로워까지 100여명의 시민이 ‘잘 보든 못 보든’을 부르는 모습이 담기었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 영상에는 ‘얘들아 간절히 원하면 우주가 도와주+ㄹ’, ‘너무 덥어 혼이 비정상’, ‘이러려고 맨 앞에서 +었나 자괴감 들고 괴롭어’ 등 최근 박근혜 대통령이 발표하+ㄴ 담화문을 패러디하+ㄴ자막이 함께 담기 +어 눈길을 끌고 있다 .	O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+두 사람 은 기억 을 더듬 으며 노홍철 의 과거 짝사랑 상대 에 대해서 도 이야기 를 나 눴 다 .	O O O O O O O PER-B O O O O O O O O O O O O O
+맑 은 물 리조트 앞 을 흐르 는 내린천 에서 는 래프팅 이 , 리조트 중앙 에 위치한 수영장 에서 는 내린천 을 바라보 며 즐기 는 야외 수영 을 즐길 수 있 고 , 생생한 손맛 을 즐길 수 있 는 내린천 에서 의 낚시 까지 더하 면 여름철 3 색 물놀이 가 가능한 1 석 3 조 리조트 다 .	O O O O O O O O LOC-B O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+당시 부리 람 에서 뛴 오스 마르 는 올해 서울 의 주장 완장 을 차 고 있 다 .	O ORG-B ORG-I O O PER-B PER-I O O LOC-B O O O O O O O O O
+지난해 까지 출연한 MBC 예능 프로그램 ‘ 우리 결혼 했 어요 ’ 에서 선보인 솔직한 매력 을 인정받 아 드라마 와 리얼리티 콘셉트 를 합친 ‘ 연극 이 끝나 고 난 뒤 ’ 에 출연하 게 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 태국 에서 촬영 중 이 며 연기자 하석진 , 윤소희 등 과 함께 참여하 고 있 다 .	O LOC-B O O O O O O PER-B O PER-B O O O O O O O O
+소속 사 드림 티 엔터테인먼트 관계자 는 “ 멤버 들 이 가진 매력 이 전혀 다른 만큼 다양한 무대 에서 활약할 계획 이 다 ” 고 말 했 다 .	O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+닐 스티븐슨 은 과학 지식 을 바탕 으로 하 면서 도 풍부한 상상력 을 겸비한 공상 과학 소설 을 쓰 는 것 으로 유명하 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+유토피아 책 에 푹 빠진 피터 틸 최근 방한 한 페이 팔 창업자 피터 틸 ( Peter Thiel ) 은 자산 22 억 달러 ( 약 2 조 4000 억 원 ) 를 보유한 자산가 이 자 『 제로 투 원 ( Zero to one ) 』 의 저자 이 기 도 한 ‘ 뇌섹남 ( 뇌 가 섹시한 남자 ) ’ 이 다 .	O O O O O PER-B PER-I O O O O O O PER-B PER-I O PER-B PER-I O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 " 가상 레모네이드 를 먹 으면 진짜 레모네이드 를 먹 는 경험 을 하 지만 , 칼로리 는 0 이 될 수 있 다 " 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영화 ‘ 트랜스포머 ’ 의 주인공 샘 윗위키 도 중고차 매장 에서 평생 의 로봇 친구 범 블 비 를 만나 지 않 았 던가 . 국내 최대 중고차 판매 업체 SK 엔카 와 함께 20 대 가 구입 을 고려해 볼 만한 중고차 를 Q & A 로 풀 어 봤 다 .	O O O O O O PER-B PER-I O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+배우 유지태 가 아내 김효진 을 향한 애정 을 과시 했 다 .	O PER-B O O PER-B O O O O O O O O
+이 와 관련해 11 일 국회 안전 행정위원회 국정 감사 에 이해진 네이버 의장 과 김범수 다음카카오 의장 이 증인 으로 나올 것 으로 보인다 .	O O O DAT-B DAT-I O O O O O O PER-B ORG-B O O PER-B ORG-B O O O O O O O O O
+또 1 백만 원 까지 는 연대 보증인 없이 무 보증 으로 대출 을 해 주 고 대출 금액 이 1 백만 원 이상 일 경우 엔 한 사람 만 보증인 으로 세우 면 대출 을 받 을 수 있 다 .	O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O
+수능 D - 100 일 인 지난 8 월 9 일 부터 촬영된 이 영상 은 도 교육청 미디어 팀 직원 5 명 과 유치원생 부터 초등학생 , 교직원 , 학부모 , 페이스북 팔로워 까지 100 여 명 의 시민 이 ‘ 잘 보 든 못 보 든 ’ 을 부르 는 모습 이 담 겼 다 .	O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 영상 에 는 ‘ 얘 들 아 간절히 원하 면 우주 가 도와줄 ’ , ‘ 너무 더 워 혼 이 비정상 ’ , ‘ 이러 려고 맨 앞 에 섰 나 자괴감 들 고 괴로 워 ’ 등 최근 박근혜 대통령 이 발표한 담화문 을 패러디 한 자막 이 함께 담겨 눈길 을 끌 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O

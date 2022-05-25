@@ -1,472 +1,472 @@
-부상 중이+ㄴ 데이비드 베컴 외에는 베스트라인업을 대부분 가동 하+ㄴ 레알 마드리드는 수중전으로 그라운드 컨디션이 나쁘아 초반부터 고전하다 선제골을 내주었다 .	O O PER-B PER-I O O O O O ORG-B ORG-I O O O O O O O O O
-"다음 대회에는 성남일화가 아니라 전년도 K-리그 우승팀이 출전하+ㄹ 수 있도록 하겠습니다. .	O O ORG-B O O O O O O O O O
-곽 위원장은 "자체적으로 올해 대회가 성공적으로 진행되었다는 평가를 내리었다"며 "지출이 어림잡아 150억원 넘게 들어가 +았는데 원래부터 재정적으로 남는 장사는 아니었다"고 말하였다 .	PER-B MNY-I O O O O O O O O O MNY-B O O O O O O O O O O
-최태욱은 지나 +ㄴ 2003년 10월을 마지막으로 태극마크를 달지 못하였다.이 천수도 독일 월드컵 최종 예선 우즈베키스탄-쿠웨이트 원정에서 배제되었다 .	PER-B O O O O O O O O O O O O O LOC-B O O O
-이천수는 "아주고참이 되+ㄴ 것은 아니지만 대표팀에 새롭ㄴ 선수들이 많으므로 후배들을 이끌어 나가겠다"고 밝히었다 .	PER-B O O O O O O O O O O O O O
-잉글랜드의 토튼 햄핫스퍼가 프랑스의 자존심 올림피크 리옹을 꺾고 2005 피스컵 코리아 국제클럽 축구대회 정상에 오르았다 .	LOC-B O O LOC-B O ORG-B ORG-I O O O O O O O O O
-'킥앤드 러시'의 정통 스타일을 구사하+ㄴ토튼햄의 창이 프랑스 대표 미드필더진이 대거 포진 하+ㄴ 리옹의 방패를 뚫었다 .	O O O O ORG-B PER-B LOC-B O O O O O ORG-B O O O
-리옹은 프랑스 대표실뱅윌 토르, 시드니 고부, 플로랑 말루다를 중심으로 반격에 나서 +었으나 잉글랜드 대표 앤서니가드너, 레들리킹이 벽을 쌓은 토튼 햄 수비진은 호락호락하지 않았다 .	ORG-B LOC-B PER-B O PER-B PER-I PER-B PER-I O O O O LOC-B O PER-B PER-B O O O O O O O O
-부상 중이+ㄴ 박주영, 보카주니어스 전 못 뛰+ㄹ .	O O PER-B O O O O O
-31일 개막하는 동아시아연맹 축구선수권 첫 경기 이+ㄴ 중국 전출 전 여부는 재활 결과를 좀 더 지켜보+아야 하+ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-미국 축구대표팀이 2005북중 미골드컵에서 연장 혈투와 승부차기 끝에 파나마를 꺾고 우승하였다 .	LOC-B O O O O O O O ORG-B O O O
-일본 축구구보, 동아시아 선수권 결 .	LOC-B PER-B O O O O
-프로축구 FC서울이 아르헨티나의 대표적 이+ㄴ 명문 클럽 보카 주니어스와일전을 치르+ㄴ다 .	O ORG-B LOC-B O O O O ORG-B ORG-I O O
-K리그 득점 1위(8골)를 달리는 '천재 스트라이커' 박주영과 백지훈, 김승용으로 구성되 +ㄴ FC서울의 청소년 대표 3인방과 2005세계 청소년 축구선수권대회에서 조국 아르헨티나의 우승을 합작하+ㄴ네리카르도소, 페르난도 가고, 훌리오 바로 소의 영건 트리오 대결이 흥미를 돋우고 있는 것 .	O O O O O O PER-B PER-B PER-B O O ORG-B PER-I O O O O O O ORG-B O PER-B PER-B PER-I PER-B PER-I PER-I O O O O O O O O
-펠레`가정사'로 방콕 자선 축구대회 무기 연 .	PER-B O O O O O O
-펠레의 아들 에딩요는 지난달 브라질에서 마약 밀매 혐의 등으로 체포되었다 .	PER-B O PER-B O LOC-B O O O O O O
-일본 신문 스포츠호치도 브라질 현지 언론 보도를 인용, "알바레스 감독이 도쿄 베르디를 맡기 위 하+ 여폰테프레타 지휘봉을 놓는다고 말하였다"면서 "계약조건은 올 시즌 종료 때까지 월봉 10만 달러(약 1억300만원)이며, 이후 성적에 따르 아내년 말까지 재계약하는 옵션 조항을 달았다"고 밝히었다 .	LOC-B O O LOC-B O O O O PER-B O ORG-B ORG-I O O O ORG-B O O O O O O O O O MNY-B MNY-I MNY-B O O O O O O O O O O O
-"지금 상태로는 뛰기 힘들다. 잘못하면 부상기간이 길어지+ㄹ 수도 있다"(대표팀 코칭스태프.의무팀) "우리 팀의 무진의 판단으로는 뛰는데 무리가 없다. 풀타임은 힘들겠지만 팬들에게 선을 보이어야 되지 않겠느냐"(FC서울) 부상 중이+ㄴ '천재 골잡이' 박주영(FC서울)이 26일 상암벌에서 열리는 FC서울과 보카주니어스(아르헨티나)의 친선전에 출전하+ㄹ 수 있을지 여부를 놓고 논란이 일고 있다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O ORG-B O LOC-B O ORG-B LOC-B O O O O O O O O O O
-본 프레레 감독은 "현재로서는 경기를 뛰기에는 무리"라고 +였고 최 주영의무팀장은 "26일 경기는 무리+이다.심하면 수술을 하+여야 하는 부상"이라고 +였다 .	O O O O O O O O O O O O O O O O O O O
-이준하 부산 사장은 "K-리그와 AFC(아시아축구연맹) 챔피언스리그 석권이라는 올 시즌 목표를 이루+어내는 데 도움을 주+ㄹ 선수를 영입하였다. 어렵 ㄴ 결정을 내리+어주+ㄴ 성남 구단에 감사드리+ㄴ다"고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O
-맨체스터 유나이티드의 '신형 엔진' 박지성(24)이 4경기 연속 선발 출전 하+ㄴ다 .	ORG-B ORG-I O O PER-B O O O O O O
-한편 부상 중 ㄴ데다 퍼거슨 감독과의 설전으로 관계가 불편 하+여지+ㄴ 중앙미드필더로 이킨을 대체하+ㄹ 선수로는 앨런 스미스가 꼽히고 있다 .	O O O O PER-B O O O O O O O O O PER-B PER-I O O O
-대한축구협회는 이미 북한 선수단의 요청을 예상 하+여 훈련 장소를 미리 물색 하+여놓은 턱에 무리 없이 훈련장을 제공하였다 .	ORG-B O LOC-B O O O O O O O O O O O O O O O
-또 남, 북한 남녀 국가대표 축구 경기와 북한 대 일본(여자) 경기가 열리는 8월 4일에는 전주시 축구협회가 이들 노선을 포함하+ㄴ 5개 노선에 셔틀버스 50대를 투입, 관람객을 무료로 싣어나르+ㄹ 예정이다 .	O O ORG-B O O O O ORG-B O ORG-B O O O O ORG-B ORG-I O O O O O O O O O O O O O
-아사히TV 등 일본 취재진도 보이었다 .	O O ORG-B O O O
-잠시 사진 촬영을 위하+여 대형을 갖추+ㄴ 북한 선수단은 입국 소감을 묻는 한국 취재진의 요구에 묵묵부답으로 일관하였다 .	O O O O O O LOC-B O O O O ORG-B O O O O O
-박지성(24)이 마침내 맨체스터 유나이티드 데뷔골을 터뜨리었다 .	PER-B O ORG-B ORG-I O O O
-프랑스 출신의 트루시에는 다음 달부터 97년 잇 어 두 번째로 나이지리아 사령탑을 맡아 2006 독일 월드컵 아프리카 예선을 지휘하기로 이미 보도되+ㄴ바 있다 .	LOC-B O PER-B O O O O O O O ORG-B O O O O O O O O O O O O
-다비즈, 토튼햄에 새 둥 .	PER-B ORG-B O O O
-北올림픽-中연변 축구팀 3차례 친선경 .	ORG-B ORG-I O O O
-중국에서 갑급팀은 원정경기, 외국인 선수 선발, 전지훈련 등을 위하+여 매년 최소 1천500만 위안(약 18억원)의 예산이 필요하지만 연변팀은 만성적이+ㄴ 자금난을 겪고 있는 실정이다 .	LOC-B ORG-B MNY-I O O O O O O O O MNY-B MNY-I MNY-B O O ORG-B MNY-I O O O O O
-가시마는 J리그를 4차례나 제패하+ㄴ 명문으로 공격수 스즈키 다카유키, 미드필더 오가사와 라미츠오, 수비수 나라하시아키라 등 일본 국가대표 출신들이 대거 포진 하+ㄴ 강호다 .	ORG-B O O O O O PER-B PER-I O O O O PER-B O LOC-B O O O O O O O
-박지성은 두 차례 연습경기 포함, 입단 후 치르+ㄴ 4경기에 모두 선발 출전하며 착실히 알렉스 퍼거슨 감독의 신임을 쌓아가고 있다 .	PER-B O O O O O O O O O O O O PER-B PER-I O O O O O
-경찰 200여명의 삼엄하+ㄴ 경비 속에 펼쳐 지+ㄴ이날 훈련에서 북한 여자팀은 본격적 이+ㄴ 트레이닝보다는 가볍ㄴ스트레칭과 패스 훈련으로 간단하+ㄴ 몸 풀기를 +였다 .	O O O O O O O O LOC-B O O O O O O O O O O O O
-그러나 간판 스트라이커진 별희는 몸 상태가 그렇게 좋지 않은 듯 활발하+ㄴ 움직임을 보이어주지는 못하였다 .	O O PER-B PER-I O O O O O O O O O O O
-한편 북한 선수단은 이날 오전 훈련 후 오후 5시부터 장소를 고양종합운동장으로 옮기+어 오후 훈련을 실시하+ㄴ다 .	O LOC-B O O O O O O O O LOC-B O O O O O
-정경호는 본 프레레 감독이 조커로서 주로 기용하고 있는 대하+여"선발 출전에 대하+ㄴ 욕심은 누구나 가지고 있다"고 운을 떼+ㄴ 뒤 "선발로 뛰면 기회가 더 많이 오겠지만 주어 지+ㄴ 임무에 맞추+어 실력을 보이어주는 것+이 가장 중요하다"고 강조하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-본 프레레 감독, "박주영 출전 여부는 29일 결정 .	O O O PER-B O O O O O
-한편 대표팀은 이날 건국대와 3세트로 나누+어서 진행되+ㄴ 연습경기에서 김진용과 이동국, 백지훈이 나란히 골을 터트리+어3-0 승리를 거두었다 .	O O O ORG-B O O O O PER-B PER-B PER-B O O O O O O
-부상 중이+ㄴ '축구천재' 박주영(20. FC서울)이 제2회 동아시아연맹 축구선수권대회 최종 엔트리23명 명단에 포함되었다 .	O O O PER-B ORG-B O O O O O O O O
-27일 건국대와의 연습경기에서도 다른 선수들과 별도로 최 주영의무팀장과 함께 축구화 대신 운동화를 신고 러닝과 가볍 ㄴ 달리기로 몸을 풀었던 박주영은 여전히 부상 부위에 통증을 느끼고 있는 상황이다 .	O ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
-올 시즌부터 지휘봉을 잡은 고든 스트라 천 셀틱 감독은 데뷔 전부터 악몽을 경험하었고, 최근 셀틱으로 이적하+ㄴ 일본 축구대표팀 주전 미드필더나카무라 순스케는 이날 출장하지 않았다 .	O O O O PER-B O O ORG-B O O O O O O ORG-B O ORG-B O O PER-B PER-I O O O O
-김동진은 28일 파주 NFC(대표팀 트레이닝센터)에서 축구대표팀 오후 훈련에 앞서 +어취재진과 인터뷰를 갖고 "이번 대회 3경기 가운데 북한과의 경기가 가장 기대되+ㄴ다.2002년에 한번 북한과의 경기에 뛰+ㄴ적이 있다"고 밝히었다 .	PER-B O LOC-B LOC-I O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O
-김동진은 또 북한 축구에 대하+여 "그때 북한은 체력은 우세하였지만 기술적으로는 좀 부족하었다. 하지만 이번 월드컵 아시아 예선을 보니 기술이 많이 향상되었고 조직력도 좋아 지+ㄴ 것 같다. 많이 향상되었다는 생각이다. 북한 축구는 아시아에서 상위 클래스"며 칭찬하기도 +였다 .	PER-B O LOC-B O O O LOC-B O O O O O O O O LOC-B O O O O O O O O O O O O O LOC-B O LOC-B O O O O O
-김진용은 우즈베키스탄-쿠웨이트로 이어지는 본 프레레호의 '죽음의 원정' 2연 전에서 벤치만을 지키며 자신감과 실전 감각을 모두 잃어버리+ㄴ 반면, 라이벌 박주영은 A매치 데뷔골과 연속골을 맛보며 스포트라이트를 모두 빼앗아가+ㄴ 것 .	PER-B LOC-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
-한편 울산으로 돌아오+ㄴ이 천수에 대하+여 김진용은 "현 대표팀 공격수 가운데 천수형이 가장 경쟁력이 있는 선수+이라고 보+ㄴ다 .	O ORG-B O PER-B O PER-B O O O O PER-B O O O O O O
-28일 파주 NFC(대표팀 트레이닝센터)에서 박주영을 데리고 재활훈련을 실시하+ㄴ 최주영 국가대표팀의 무팀장은 "아직까지 네 번째 발가락에 힘이 들어가면 찌릿찌릿 하+ㄴ 통증을 느끼는 상태+이다. 오늘 저녁 본 프레레 감독께 박주영은 중국 전 이후 본격적으로 팀 훈련에 합류하게 하+여달라고 건의하겠다"고 밝히었다 .	O LOC-B LOC-I O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
-오는 31일 중국과 제2회 동아시아연맹 축구선수권대회 개막전을 갖는 본 프레레호의 공격진이 윤곽을 드러내 +었다 .	O O LOC-B O O O O O O O O O O O O
-이날 본 프레레 감독은 끊임없이 소리를 지르며 선수들에게 작전 지시를 내리었고, 마음에 들지 않는 장면이 나 오+ ㄹ 때마다 경기를 중단시키고 직접 시범을 보이며 '호랑이 선생님' 역할을 톡톡히 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-2005 동아시아축구대회를 눈앞에 두고 있는 한국 여자 대표팀이 호주를 완파하였다 .	O O O O O ORG-B O O ORG-B O O
-남북통일축구, 한반도기달고 뛰+ㄴ .	ORG-B O O O
-이날 회의에서 남북 양측은 각각의 유니폼을 입되 가슴에는 한반도기를 달고 뛰기로 합의하였으며, 체재비용과 심판진은 남측에서 제공하기로 결정하였다 .	O O ORG-B O O O O O O O O O O O O O O O
-이날 박지성은 후반 39분께 골키퍼와 부딪히면서 왼쪽 눈두덩이 부근이 찢어지는 부상을 입은 뒤 경기를 포기하였다 .	O PER-B O O O O O O O O O O O O O O
-K리그 출신 외 잘란, 독일 쾰른 입 .	ORG-B O O O ORG-B ORG-I O O
-외 잘란은 지나 +ㄴ 2003년 잉글랜드와의 유로 2004 예선에서는 잉글랜드의 주장 데이비드 베컴과 마찰을 빚으며 팬들의 비난에 시달리기도 +였다 .	O O O O O LOC-B O O O LOC-B O PER-B PER-I O O O O O O O
-'백전노장'에 드밀 손은 프로축구연맹이 1일 마감하+ㄴ국내 및 외국인 선수 등록 명단에 이름을 올리면서 부상으로 K리그를 떠나 +ㄴ지 1년여 만에 국내 축구팬들에게 다시 인사하게 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-백 국장은 "풀타임 출전은 아직 힘들지만 45분은 충분히 소화하+ㄹ 수 있어 조커로서 활약을 기대하+ㄴ다"며 "감독의 결정에 따르겠지만 개막전출전도 가능하+ㄴ 상태"라고 강조하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-FC메스2군 소속의 청소년 대표 출신 강진욱(19)은 대선 배 안정환과 호흡을 맞추는 영광을 누리었다 .	ORG-B O O O O PER-B O O PER-B O O O O O
-프랑스 축구 아카데미 측은 "강진욱은 최근 코칭스태프로부터 기량이 일취월장하였다는 평가를 받고 있다. 조만간 1군 무대 데뷔도 기대되+ㄴ다"고 밝히었다 .	ORG-B ORG-I ORG-I O PER-B O O O O O O O O ORG-B O O O O O
-지나+ㄴ 2월 치르어 지+ㄴ '2005통영컵 국제프로축구대회'에 참가하였던 오이타는 전남과 인연을 맺은 뒤 지나 +ㄴ 6월 전남 유소년팀이 오이타를 방문하면서 본격적 이+ㄴ팀 간 교류의 물꼬를 +었고 오는 4일 공식 자매결연을 하게 되+ㄴ다 .	O O O O O O O ORG-B ORG-B O O O O O O ORG-B ORG-I ORG-B O O O O O O O O O O O O O O
-오는 4일 오후 8시 전주 월드컵경기장에서 열리는 남북한 A매치는 2005 동아시아연맹(EAAF) 축구선수권대회의 백미로 팬들의 가슴을 설레게 하고 있다 .	O O O O O O O O O O O O O O O O O O O
-남북 대결의 의미보다는 1승을 챙기고 무기력증에서 탈피하는 것+이 선결과제 .	ORG-B O O O O O O O O O
-강철 체력과 정신력으로 무장하+ㄴ 북한은 일본 전에서 보이어주+ㄴ 압박과 기동력을 살리+어 또 한번 일을 내겠다는 기세+이다 .	O O O O ORG-B O O O O O O O O O O O O
-AFC, 파드 사우디 국왕 서거에 조 .	ORG-B PER-B LOC-B O O O O
-50만 평방미터에 8만명을 수용 하+ㄹ 수 있는, 세계에서 가장 크고 아름답ㄴ축구장 중의 하나로 손꼽히는 킹파드 스타디움을 세우+ㄴ 것도 파드 국왕이었다 .	O O O O O O O O O O O O O O LOC-B LOC-I O O PER-B O O
-EAFF 상벌위원회는 지나 +ㄴ 1일 비디오 분석 결과 리웨이펑이 전반 5분 몸싸움에서 유경렬을 의도적으로 손바닥으로 가격 하+ㄴ데다 후반 40분 과격 하+ㄴ 언행으로 레드카드를 받아 남은 두 경기의 출전을 금지하+ㄴ다고 밝히었다 .	ORG-B ORG-I O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O
-우루과이의 청소년 축구선수가 경기 중심 하+ㄴ 두통을 호소하+ㄴ 뒤 돌연 사+하였다 .	LOC-B O O O O O O O O O O O
-이천수(24.울산 현대)가 미스코리아 출신 탤런트 김 모양과 결혼 하+ㄹ 것으로 알려지었다는 일부 언론 보도에 대하+여 그의 에이전트가 2일 사실무근이라고 밝히었다 .	ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O
-잉글랜드 축구협회가 프리미어리그 개막을 앞두고 경기 중심판에게 욕설을 퍼붓는 선수들에 대하+ㄴ 중징계 처분을 담은 새롭ㄴ 규정 발표를 눈앞에 두고 있다 .	O O O O O O O O O O O O O O O O O O O O O
-'영원하+ㄴ리베로' 홍명보 대한축구협회 이사가 한.일 축구 친선대사로 활동하+ㄴ다 .	PER-B PER-B LOC-B O LOC-B ORG-I O O O
-홍 이사는 현재 중앙선거관리위원회 공명선거 홍보대사, 국제축구연맹(FIFA) 선정 인종차별 반대 홍보대사 등을 맡고 있다 .	PER-B O O ORG-B ORG-I PER-B ORG-B O O O PER-B O O O O
-KBS 스포츠 중계 제작팀이동현 팀장은 "3사가 합의 하+ㄴ 기본원칙은 공동으로 대처하는 것"이라며 "방송위에서도 이미 영국이나 독일에서 규정하고 있는 '유니버설 액세스권'에 대하+여 검토하고 있다"고 말하였다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O ORG-B O ORG-B ORG-B O O O O O O O O O
-발가락 부상(족 저건 막염)으로 지나 +ㄴ 31일 중국 전에 출장하지 않은 박주영이 4일 전주 월드컵경기장에서 열리는 북한과의 경기에서도 벤치를 지키게 +었다 .	O O O O O O O O O O O PER-B O O O O LOC-B O O O O O
-전북경찰청 관계자는 "폭염 때문에 외곽 경계를 서는 것이 힘들다"며 "외곽 경계 병력은 교대로 그늘로 보내+어 오랫동안 햇볕에 노출되는 것을 피하도록 조치하였다"고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-200여명의 붉은악마 응원단이 한국 대표팀을 응원하였지만 반대편에서는 흰색 옷을 입은 800여명의 응원단이 남북 선수들에게 다 같이 환호성을 보내+었다 .	O ORG-B ORG-I ORG-B O O O O O O O O ORG-B O O O O O O
-전남 순천에서 두 아이를 데리고 멀+ㄴ 걸음을 하+ㄴ 윤상혁(40)씨는 "손님 대접 삼아 북한이 이기었으면 좋겠다"며 "승부보다는 남북이 하나 되+ㄹ 수 있는 자리가 +었으면 하+ㄴ다"고 웃음 짓었다 .	LOC-B LOC-B O O O O O O PER-B O O O ORG-B O O O ORG-B O O O O O O O O O O
-하지만 구단 관계자들의 설득에 한발 물러서 +ㄴ티터+이 감독은 지나 +ㄴ 4일 주중 경기에 다시 나서+었지만 팀이 리그 최하위팀과 비기자 미련 없이 5일 만에 또 한 번 사표를 던지고 말았다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-지단은 5일(한국시간) 프랑스 방송 카날플뤼스와의 인터뷰에서 "나+ㄴ 잃어버리었던 의욕을 다시 찾았다. 최고의 자리를 지키려면 항상 긴장 상태에 있을 필요가 있다. 그것이 바로 내가 원하는 것이다"고 밝히었다 .	O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
-전 대표팀 사령탑이+ㄴ 제라르 울리에 올림피크 리옹 감독은 "그가 최상의 컨디션을 유지하+ㄴ다면 브라질을 포함하+ 여세계 어느 팀과도 상대하+ㄹ 수 있다"고 +였고, 레이몽도 메네크 현 대표팀 감독도 "최고의 선수들에게 경기를 맡기는 것이 소원"이라며 기쁨을 감추지 못하였다 .	O O O PER-B PER-I ORG-B ORG-I O O O O O ORG-B O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
-한편 MBCTV를 통하+여 이날 오후 5시 방송되+ㄴ 한국과 북한의 여자축구 시청률은 5.8%+이었다 .	O O O O O O O ORG-B ORG-B O O O O
-코린티안스 구단주 이+ㄴ알베르토 두 알리브의 손녀카를라 두 알리브 가 운영하는 SMA는 "코린티안스가 삼성과 후원 계약을 맺은 것은 SMA에서 비롯되 +ㄴ 것이므로 코린티안스가 받을 2년간 후원액 3천만 헤알(1천200만달러 상당)의 10%를 커미션으로 받아야 하+ㄴ다"고 주장하고 있다 .	ORG-B O PER-B PER-I PER-I PER-B PER-I PER-I O O ORG-B ORG-B ORG-B O O O O ORG-B O O O ORG-B O O O MNY-B MNY-B O MNY-B O O O O O O
-2003대 구 하계유니버시아드 때 북한 대표팀을 응원하기 위하+여대 구 달성군민들로 조직되었던 북한 서포터스(Supporters)가 동아시아 축구선수권대회 대구경기를 앞두고 다시 뭉치었다 .	O O O O ORG-B O O O O O O ORG-B ORG-I O O LOC-B O O O O
-한편 동아시아축구선수권대회 대구경기를 앞두고 달성군민으로 구성되 +ㄴ 북한 서포터스 이외에 중국 팀 응원을 위하+여서는 수성구 범어1-3동 및 만촌동 주민이, 일본 팀응원을 위하+여서는 수성구 범어동 4동 주민들이 각각 서포터스를 구성하였다 .	O O LOC-B O O O O ORG-B ORG-I O O O O O LOC-B LOC-B O O O O O O LOC-B LOC-B LOC-I O O O O O
-축구 전문가들은 4일 경기가 끝나 +ㄴ 뒤 "도대체 전술이라는 것을 찾아 보+ㄹ 수 없다"며 불만을 토로하였다 .	O O O O O O O O O O O O O O O O O
-때문에 본 프레레 감독과 지코 감독은 7일 경기에서는 총력전을 펼치+ㄹ 수밖에 없는 처지+이다 .	O O O O PER-B O O O O O O O O O
-"선수들에게 단고기(개고기)나 한번 실컷 먹이어보으면 하는 마음이 굴뚝 같아요."요즘 탈북 축구인 윤명찬(57)씨는 남다르+ㄴ감회에 젖어 있다 .	O O O O O O O O O O O PER-B O O O O
-윤씨는 만만찮은 팀들을 상대로 결코 밀리지 않는 전력을 보이어주고 있는 북측 선수들과 감독에 대하+ 여칭찬을 아끼지 않았다 .	PER-B O O O O O O O O O O O O O O O O O
-한국 남자대학 대표팀이 하계유니버시아드 대회에서 강호 브라질과 예선에서 맞붙는다 .	ORG-B O O O O O LOC-B O O O
-5일 저녁 대구 월드컵경기장에서 치르어 지+ㄴ 남자 대표팀 훈련에서 본 프레레 감독은 이동국의 부담감을 떨치+어주기 위하+ㄴ 특별 하+ㄴ자리를 마련하였다 .	O O O O O O O O O O O O PER-B O O O O O O O
-반면 오른쪽 무릎을 삐끗하었던 김두현은 러닝과 길+ㄴ 패스 훈련을 소화하+ 여내면서 일본 전출 전에 대하+ㄴ 가능성을 높이어 '중원의 해결사'로 복귀 하+ㄹ 채비를 마치었다 .	O O O O PER-B O O O O O O O O O O O O PER-B PER-I O O O O O
-그러나 에인트 호벤은 1-2로 역전패하였다 .	O O O O O O
-한국여자, '원년 우승' 영 .	ORG-B O O O O
-차연희-한송이를 투톱으로 내세우+ㄴ 3-5-2 전술로 일본을 맞이하 +ㄴ한국은 전반 5분과 전반 9분이 어지+ㄴ 안도 코주에와 오타니 미오의 강력 하+ㄴ 슈팅을 GK 김미정이 선방하면서 초반 위기를 극복하였다 .	PER-B O O O O ORG-B O ORG-B O O O O O PER-B PER-I PER-B PER-I O O O O PER-B O O O O O
-결국 90분간의 혈전은 득점 없이 마무리되었지만 한국은 대회 '원년 우승'이라는 달콤하+ㄴ 열매를 품에 안았다 .	O O O O O O ORG-B O O O O O O O O
-북한이 남한에게 패배 하+ㄴ 체육경기를 이례적으로 중계 하+여 눈길을 끌고 있다 .	ORG-B ORG-B O O O O O O O O O O
-이날 경기 해설을 맡은 리동규 체육과학연구소 부소장은 "남조선 팀이 아시아 강팀으로 알려지+ㄴ 중국팀을 2대0으로 이기었다"면서 "(남북) 두 팀의 지나 +ㄴ 시기 경기를 보+아서 우리가 여러 경기에서 이기고 있었는데 최근 들어 남조선 여자축구가 일정 하+ㄴ 수준에 오르았다"고 평가하였다 .	O O O O PER-B ORG-B O LOC-B O LOC-B O O LOC-B O O LOC-B O O O O O O O ORG-B O O O O O O LOC-B O O O O O O O
-한국으로서도 7일 막을 내리는 2005 동아시아연맹 선수권대회에서 최하위로 내몰리+ㄴ다면 다음 대회부터는 예선부터 나서+어야 하는 부끄럽 ㄴ 상황을 맞을 수도 있게 되+ㄴ 셈이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-북한 축구, 화합의 남북 재대결 다 .	LOC-B O O ORG-B O O O
-하지만 이날 중국에 0-2로 패하+여우승꿈이 좌절되+ㄴ데 대하+여서는 다소 아쉽ㄴ표정. 전날까지 1승1무를 기록하던 북한이 만약 이날 중국을 누르었다면 자력으로 우승을 확정짓을 수 있는 상황이었다 .	O O ORG-B O O O O O O O O O ORG-B O O ORG-B O O O O O O O O
-심판 판정에 대하+ㄴ아쉬움도 있었고 주전 포인트가드 표명 일의 지나치+ㄴ의욕에 대하+ㄴ불만도 있었다 .	O O O O O O PER-B PER-I O O O O
-동부의 주전 5명 전원이 두자릿수 득점을 올리며 고르+ㄴ 득점력을 자랑하였다 .	ORG-B O O O O O O O O O O
-레더를 막기 위 하+ㄴ 특단의 조치를 준비하었을까 .	PER-B O O O O O O O
-삼성으로서는 레더를 활용하+ㄹ 수밖에 없다 .	ORG-B PER-B O O O O
-레더는 4차전에서도 크게 활약하였다 .	PER-B O O O O
-레더는 이날 오코사와 김주성을 파울 트러블로 몰아넣지 못하였다 .	PER-B O PER-B PER-B O O O O O
-신지애는 "슬라이스 바람이 강하게 불어 OB가나 +았다"며 "조금 아쉬움은 남지만 크게 실망하지 않는다"고 말하였다 .	PER-B O O O O O O O O O O O O O O
-이번 행사는 오는 28일 클로즈베타 테스트, 5월 27일 오픈베타 테스트를 앞두고, 게임에 대하+ㄴ 정식 소개와 향후 일정 및 계획을 공개하는 시간으로 채우어 +지었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-또 NBA의 실제 선수들만 게임에서 만나 +아보+ㄹ 수 있는데, KBL선수들도 게임에 넣을 계획이 있냐는 질문에는 “계획은 없지만 유저가 상상하는 모든 것은 하+ㄹ 계획이다”는 말로 유저들의 다양하+ㄴ의 견과 제안을 충분히 수용해 나가겠다는 의지를 내비치었다 .	O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-올 시즌 삼성의 고질적이+ㄴ문제 이+ㄴ 실책이 막바지로 치닫고 있는 챔피언 결정 전 최대 변수 중 하나로 떠오르았다 .	O O ORG-B O O O O O O O O O O O O O O O
-안 감독의 말마따나 이기+ㄹ 수 없는 경기+이었다 .	PER-B O O O O O O O
-장원삼의 기록은 1년 7개월 만에 나오+ㄴ 기록 .	PER-B O O O O O O O
-이어 2회 초에 연속 밀어내기와 정성훈, 브룸바의 잇따르+ㄴ2타점 적시타로 대거 6점을 올리+어 일찌감치 승부를 가르았다 .	O O O O O PER-B PER-B O O O O O O O O O
-선발 전병두가제 구력 불안으로 들쭉날쭉하+ㄴ 성적을 내는 것을 두고) ● 안타가구슬이면 주루는 꿰는 것이야 .	O PER-B O O O O O O O O O O O O O
-LG김재박 감독의 'SK내야 수 더 티플레이' 발언에 자신의 이름이 언급되었지만 신경 쓰지 않고 깨끗하+ㄴ플레이를 보이어주겠다며) ●우리 선수들 이름 외우기도 바쁘아요 .	ORG-B O ORG-B O O O O O O O O O O O O ORG-B O O O O O
-(대구구장 삼성선동열 감독 .	LOC-B ORG-B O O
-'김주성 펄펄' 동부, 통합 우승 눈 .	PER-B O ORG-B O O O O
-1~2차 전풀타임을 뛰며 가뜩이나 약 하+ㄴ 체력이 우려되던 시점이 +ㄴ 3차전에 파울아웃을 당하며 30분 뛰는데 그치었던 것이 '전화위복'이 +었다  .	O O O O O O O O O O O O O O O O O O O O O
-동부는 4쿼터를 75-62, 15점차로 시작하+여딕슨의 3점포와 김주성의 덩크가 폭발하+ㄴ경기 종료 4분 24초 전 88-70으로 앞서며 승부에 쐐기를 박았다  .	ORG-B O O O PER-B O PER-B O O O O O O O O O O O O O
-두산주장 김동주는 23일 대구 삼성전에 앞서 +어타격 훈련을 위하+여배팅케이지 옆에서 대기하다가 뒤쪽에서 토스배팅을 하던 김재환이 놓치 +ㄴ 배트에 오른쪽 팔꿈치를 맞고 쓰러지었다  .	ORG-B PER-B O O O O O O O O O O O O PER-B O O O O O O O O O
-그런데 최준석은 볼카운트2-2에서 삼성 선발 배영수의 133㎞짜리 슬라이더를 받아 치+어 자신의 시즌 첫 홈런을 왼쪽 담장 너머로 보내+어버리+었다  .	O PER-B O ORG-B O PER-B O O O O O O O O O O O O O O
-순수 하+ㄴ의 미의 '1회대타 홈런'은 최준석이 처음이라고 하+ㄹ 수 있다 .	O O O O O PER-B O O O O O
-롯데 선발 장원준이 극심하+ㄴ제 구력난조에 빠지+어볼넷 4개를 허용하는 바람에 SK는 손끝 하나 움직이지 않고 밀어내기로 선취점을 뽑았다 .	ORG-B O PER-B O O O O O O ORG-B O O O O O O O O
-이대호가 중전 안타로 출루하+여 2사 1루 상황에서 강민호가 SK선발채병용의 7구째 133km짜리 한가운데 슬라이더를 잡아당기+어투런 홈런(비거리 120m)으로 연결하+ㄴ 것 .	PER-B O O O O O O PER-B ORG-B O O O O O O O O O O
-[3회 초 2루 도루를 시도하는 롯데 박기혁을 SK2 루수모창민이 태그아웃시키고 있다(사진위) .	O O O O O ORG-B PER-B ORG-B PER-B O O O
-SK의 장기가 빛나+ㄴ한 판이었다 .	ORG-B O O O O
-다음 타자 김강민의 좌전 안타 때 정수근이 무리하게 홈으로 던지었지만 포수가 잡을 수 없는 곳으로 흐르고 말았다 .	O O PER-B O O O PER-B O O O O O O O O O O O
-'감정싸움' LG "하+ㄹ말 +였을 뿐"vs SK"명유격 수 출신이 그것도 모르나? .	O ORG-B O O O ORG-B O O O O O
-김 감독은 22일 "SK선수들이 2루 베이스 커버에 들어 오+ㄹ 때 베이스 위에 올라가 +아무 릎을 꿇고 마치 포수처럼 블로킹을 하고 있다"며 "주자가 헤드퍼스트 슬라이딩을 하다 다치+ㄹ 우려가 있고, 다리가 먼저 들어가면 해당 수비수가 다치+ㄹ 위험이 있어도루를 하+ㄹ 수 없다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-우리는 SK와 게임을 하+ㄹ 때 이 대형 등 도루를 하는 선수들에게 절대 헤드퍼스트 슬라이딩을 하지 말라고 주문하였다"며 "도루 하나로 성적이 좌우되는 것도 아니+ㄴ 데크+ㄴ 부상을 당하+ㄹ까 염려하+여서 +이었다"고 밝히었다  .	ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-"김재박 감독의 발언이 알려지+ㄴ 뒤 SK 구단 관계자들은 23일 오전 대책회의를 열고 대응책 마련에 나서 +었다  .	PER-B O O O O ORG-B O O O O O O O O O O O O
-베이스 앞에서 받으면 태그하는 데 시간이 걸리기 때문에 베이스를 양가랑이 사이에 넣고 테그 하+ㄴ다"면서 "SK뿐만 아니라 야구를 하는 모든 내야 수는 같은 방식으로 지도를 받는 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-국내 프로야구에서 108번째 기록이지만, 정규 이닝을 기준으로 +였을 때 지나 +ㄴ 2005년 9월 8일 한화송진우가 SK를 상대로 거두+ㄴ이후 2년 7개월여 만에 나오+ㄴ귀하+ㄴ 기록이 다 .	O O O O O O O O O O O O O O ORG-B ORG-B O O O O O O O O O
-우리 이광환 감독은 감격 하+ㄴ 눈치+이었다  .	ORG-B PER-B O O O O O O
-하지만 정작 채병용 본인은 자신의 투구 내용이 썩맘에 들지 않는 모양이었다 .	O O PER-B O O O O O O O O O
-장원삼이 너무 잘 던지었다  .	PER-B O O O O O
-그 사이 1루 주자가 홈을 밟아 이병규는 타점을 올리었다 .	O O O O O O PER-B O O O
-야쿠르트 스왈로스의 마무리 투수 임창용은 히로시마도 요카프와 방문 경기가 비로 취소되는 바람에 등판하지 않았다 .	ORG-B ORG-I O O PER-B ORG-B O O O O O O O O O
-롯데 송승준에잇어 시즌 2호 완봉승이자 시즌 첫 무사사구 완봉승이 다 .	ORG-B PER-B O O O O O O O O O
-롯데강민호는 4회 시즌 5호 좌월 2점 홈런을 터뜨리+어 롯데팬들을 위로하였다  .	ORG-B O O O O O O O ORG-B O O O
-잠실에서는 한화가 9회초고동진의 역전 결승타와 김태균의 싹쓸이 쐐기 2루타 등으로 대거 6점을 뽑으며 8-4로 짜릿 하+ㄴ 역전승을 거두었다  .	LOC-B ORG-B PER-B O O PER-B O O O O O O O O O O O O O O
-동부선수들은 3차전 패배 후 “욕심을 버리고 평상시 플레이를 하라”는 전창진 감독의 지시를 100% 받아들이어 정규리그 최소 실점에 빛나는 그물망 수비를 펼치었다 .	ORG-B O O O O O O O O PER-B O O O O O O O O O O O O
-동부는 3차전 5반칙 퇴장을 당하였던 김주성이 초반부터 노련 하+ㄴ 파울관리능력을 보이며 상대 수비를 따돌리었다 .	ORG-B O O O O PER-B O O O O O O O O O
-그렇다면 삼성은 장기 이+ㄴ 스피드를 살리는 데 성공하였을까 .	O ORG-B O O O O O O O
-동부에게 삼성은 껄끄럽ㄴ상대 이+ㅁ이 분명하었다 .	ORG-B ORG-B O O O O
-그렇다면 동부가 이번 챔피언 결정 전에서 속공을 무기화 하+ㄹ 수 있었던 이유는 .	O ORG-B O O O O O O O O O O O
-삼성가드들의 수비 전환 속도와 위치 선정은 수준급이라 상대의 1차 속공을 저지하는 데 능하다 .	ORG-B O O O O O O O O O O O O O
-그 가운데 하나가 바로 한 시즌 36 경기완 투다 .	O O O O O O O O O O
-장명부의 한 시즌 36 경기완 투기록에 비하면 그나마 낫은 편이기+ㄴ하지만 이 역시 불멸에 가깝 ㄴ 기록이 되+어가고 있다 .	PER-B O O O O O O O O O O O O O O O O O O
-1983년에는 팀당 1경기에 평균 1.9명의 투수를 등판시키었지만, 2007년에는 평균 4.2명의 투수가 등판하었다 .	O O O O O O O O O O O O O
-거기에 며칠 사이 LG 김재박 감독까지 끼어들었다 .	O O O ORG-B PER-B O O O
-올 시즌 초에도 대표팀에서 돌아오+ㄴ 김광현의 투구폼을 두고 한 차례 맞붙은 바 있다 .	O O O O O PER-B O O O O O O O O
-더티하+ㄴ 수비를 가르치+ㄴ 인물로 지목받은 후쿠하라 수비코치는 아예 기자들을 부르어 놓고 "내야수가공을 받을 때 베이스 앞에서 받으면 태그하는데 시간이 걸리+ㄴ다 .	PER-I O O O O PER-B O O O O O O O O O O O O O O O
-인기 야구게임 '마구마구', 일본에 정식 서비스 되+ㄴ .	O O O LOC-B O O O O
-CJ인터넷의 정영종 대표는 "'마구마구'는 선수 데이터를 활용하+여실제감과 게임성의 두 가지 요소를 균형적으로 갖추었으며, 야구의 관심이 높은 일본 시장에서도 성공적이+ㄴ 서비스를 진행하+ㄹ 수 있을 것으로 기대 하+ㄴ다"고 말하였다 .	ORG-B PER-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
-제일과 한양에잇어 김포와 천룡, 자유 등 지역과 상관없는 하락세가 곳곳에서 나타나고 있다 .	ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O
-“도루왕은 나다”정수근 의무섭 ㄴ도 .	O PER-B O O O
-덕수상고를 나오아 1995년 OB에 입단 하+ㄴ 정수근은 심정수, 김상호, 장원진이 포진하고 있던 팀의 외야수한 자리를 꿰차고 고교 출신으로 117 게임에 나오아 25개의 도루를 성공시키었다 .	ORG-B O O ORG-B O O PER-B PER-B PER-B PER-B O O O O O O O O O O O O O O O
-당시 이종범이 28개의 도루로 형제 사이에 끼+ㄴ 것이 이채롭었다 .	O PER-B O O O O O O O O
-스포츠토토 온라인 발매 사이트 이+ㄴ 베트맨(www.betm an.co.kr)은 25일(이하 한국시간)부터 26일까지 벌어지는 국내 프로야구 4경기, 미 프로야구 메이저리그 10경기 등 총 14경기를 대상으로 하+ㄴ 야구토토승 1패 4회차 투표율 중간 집계 결과 전체 참가자의 절반이 넘는 58.35%가 올 시즌 돌풍의 팀 롯데의 승리를 예상하고 있는 것으로 나타나 +았다 .	O O O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
-내셔널리그에서는 박찬호가 불펜투수로 활약하고 있는 서부지구 4위팀 LA 다저스(49.15%)가 같은 지구 2위 콜로라도(37.03%)를 상대로 승리를 챙기+ㄹ 것이라는 전망이 다수를 차지하였다 .	O PER-B O O O ORG-B O ORG-B ORG-I O O O ORG-B O O O O O O O O
-부산의 안정환(32)과 롯데의 마해영(38)은 유니폼을 교환 하+ㄴ다 .	ORG-B PER-B ORG-B PER-B O O O O
-올해 각각 친정팀으로 돌아오+ㄴ 뒤에는 부산의 프로스포츠 바람을 주도하고 있다 .	O O O O O ORG-B O O O O O
-한화가 브라운을 살리었다 .	ORG-B PER-B O O
-용병들의 영양 가 얘기가 나 오+ㄹ 때마다 브라운의 이름이 거론되었고 .	O O O O O O O PER-B O O O
-로이스터 감독 "불방망이 .	PER-B O O O
-이것이 롯데의 득점 공식”이라고 강조하였다 .	O ORG-B O O O O
-롯데제리로이스터(56) 감독은 올 시즌 처음 한국 땅을 밟은 외국인이고 KIA 조범현(48) 감독은 김성근 감독의 제자+이라는 관계 때문에 특별 하+ㄴ 색깔을 내고 있지는 않다 .	ORG-B O O O O O O O O ORG-B PER-B O PER-B O O O O O O O O O O O
-지난해부터 계속 되+ㄴ 김성근 감독과의 신경전을 생각하+여보면 가만히 있는 그 자체가 김성근 감독의 편을 들어주는 인상이다 .	O O O PER-B O O O O O O O PER-B O O O O O
-대통령 배 전국 고교 야구대회 25일 개 .	O O O O O O O O
-황금사자기에서도 정상에 오르+ㄴ광주일고는 대통령배까지 휩쓸어 올해 고교 무대 최강자 이+ㅁ을 입증하겠다는 기세+이다 .	O O ORG-B O O O O O O O O O O
-이밖에 크+ㄴ키에서 내리꽂는 강속구가 일품이 +ㄴ 홍영현을 앞세우+ㄴ 배명고와 좌완강윤구의 구위가 뛰어나 +ㄴ장충고도 언제든 우승을 노리+ㄹ 수 있는 탄탄하+ㄴ 전력을 자랑하+ㄴ다 .	O O O O O O PER-B O ORG-B PER-B O O ORG-B O O O O O O O O O
-하지만 이 자리에서 김씨는 박 단장에게 “아들의 의사가 가장 중요하다 .	O O O O PER-B O O O O O O
-박 단장은 조만간 미국에 건너가 +아 김병현의 에이전트 이+ㄴ 제프 보리스를 만나 +ㄹ 계획이다 .	PER-B O O LOC-B O O PER-B O O PER-B PER-I O O O O
-4차전에서 무려 20개의 실책을 저지르+ㄴ 것도 삼성의 반격을 기대하기 어렵게 만들 +ㄴ다 .	O O O O O O ORG-B O O O O O O
-◇진행 중 이+ㄴ 마무리의 역사오승환 최소 경기(180 경기) 및 최소 시즌(3년) 100세 이브 달성 .	O O O O PER-B O O O O O O O O O O
-2006년 10억을 받고 KIA에 입단 하+ㄴ한기주는 ‘선발 최소 10승’이라는 기대와 달리 단조롭 ㄴ 구질과 미숙 하+ㄴ 마운드 운영으로 지난해 마무리 투수로 전업하었다 .	O MNY-B O ORG-B O PER-B O O MNY-B O O O O O O O O O O O O O O
-◇터프 하+ㄴ 마무리 우규민 지난해 30세 이브를 기록하며 정상급 마무리 투수의 가능성을 보이어 주+ㄴ 우규민은 타자를 압도하는 직구는 없다 .	O O O PER-B O O O O O O O O O O PER-B O O O O O
-◇타이밍의 귀재정 대현지난해 정상에 오르았고 올 시즌도 선두를 달리고 있는 SK의 중심에는 마무리 정대현이 있다 .	O O O O O O O O O O ORG-B O O PER-B O O
+부상 중 인 데이비드 베컴 외 에 는 베스트 라인업 을 대부분 가동한 레알 마드리드 는 수중 전 으로 그라운드 컨디션 이 나 빠 초반 부터 고전하 다 선제골 을 내 줬 다 .	O O O PER-B PER-I O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+" 다음 대회 에 는 성남 일화 가 아니 라 전년도 K - 리그 우승 팀 이 출전할 수 있 도록 하 겠 습니다 . "	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+곽 위원장 은 " 자체 적 으로 올해 대회 가 성공적 으로 진행 됐 다는 평가 를 내 렸 다 " 며 " 지출 이 어림잡 아 150 억 원 넘 게 들어갔 는데 원래 부터 재정적 으로 남 는 장사 는 아니 었 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O
+최태욱 은 지난 2003 년 10 월 을 마지막 으로 태극 마크 를 달 지 못 했 다 . 이천수 도 독일 월드컵 최종 예선 우즈베키스탄 - 쿠웨이트 원정 에서 배제 됐 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O PER-B O O O O O LOC-B O LOC-B O O O O O O
+이천수 는 " 아주 고참 이 된 것 은 아니 지만 대표 팀 에 새로 운 선수 들 이 많 으므로 후배 들 을 이끌 어 나가 겠 다 " 고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+잉글랜드 의 토튼햄 핫스퍼 가 프랑스 의 자존심 올림 피크 리옹 을 꺾 고 2005 피스 컵 코리아 국제 클럽 축구 대회 정상 에 올 랐 다 .	LOC-B O ORG-B ORG-I O LOC-B O O ORG-B ORG-I ORG-I O O O DAT-B O O O O O O O O O O O O O
+' 킥 앤드 러시 ' 의 정통 스타일 을 구사한 토튼햄 의 창 이 프랑스 대표 미드필더 진 이 대거 포진한 리옹 의 방패 를 뚫 었 다 .	O O O O O O O O O O ORG-B O PER-B O LOC-B O O O O O O ORG-B O O O O O O O
+리옹 은 프랑스 대표 실뱅 윌토르 , 시드니 고부 , 플로 랑 말루 다 를 중심 으로 반격 에 나섰 으나 잉글랜드 대표 앤서니 가드너 , 레 들리 킹 이 벽 을 쌓 은 토튼햄 수비진 은 호락호락하 지 않 았 다 .	ORG-B O LOC-B O PER-B PER-I O PER-B PER-I O PER-B PER-I PER-I PER-I O O O O O O O LOC-B O PER-B PER-I O PER-B PER-I PER-I O O O O O ORG-B O O O O O O O O
+부상 중 인 박주영 , 보카 주니어스 전 못 뛸 듯	O O O PER-B O O O O O O O
+31 일 개막하 는 동아시아 연맹 축구 선수권 첫 경기 인 중국전 출전 여부 는 재활 결과 를 좀 더 지켜봐야 할 것 으로 보인다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+미국 축구 대표 팀 이 2005 북중미 골드 컵 에서 연장 혈투 와 승부차기 끝 에 파나마 를 꺾 고 우승 했 다 .	LOC-B O O O O DAT-B O O O O O O O O O O ORG-B O O O O O O O
+일본 축구 구보 , 동아시아 선수권 결장	LOC-B O PER-B O O O O
+프로 축구 FC 서울 이 아르헨티나 의 대표적 인 명문 클럽 보카 주니어스 와 일전 을 치른다 .	O O ORG-B ORG-I O LOC-B O O O O O ORG-B ORG-I O O O O O
+K 리그 득점 1 위 ( 8 골 ) 를 달리 는 ' 천재 스트라이커 ' 박주영 과 백지훈 , 김승용 으로 구성된 FC 서울 의 청소년 대표 3 인 방 과 2005 세계 청소년 축구 선수권 대회 에서 조국 아르헨티나 의 우승 을 합작한 네리 카르도소 , 페르난도 가 고 , 훌리오 바로 소 의 영건 트리오 대결 이 흥미 를 돋우 고 있 는 것 .	O O O O O O O O O O O O O O O O PER-B O PER-B O PER-B O O ORG-B ORG-I O O O O O O O DAT-B O O O O O O O ORG-B O O O O PER-B PER-I O PER-B PER-I PER-I O PER-B PER-I PER-I O O O O O O O O O O O O O
+펠레 ` 가정사 ' 로 방콕 자선 축구 대회 무기 연기	PER-B O O O O O O O O O O
+펠레 의 아들 에 딩 요 는 지난달 브라질 에서 마약 밀매 혐의 등 으로 체포 됐 다 .	PER-B O O PER-B PER-I PER-I O O LOC-B O O O O O O O O O O
+일본 신문 스포츠 호치 도 브라질 현지 언론 보도 를 인용 , " 알바레스 감독 이 도쿄 베르디 를 맡 기 위해 폰테 프레 타 지휘봉 을 놓 는다고 말 했 다 " 면서 " 계약 조건 은 올 시즌 종료 때 까지 월봉 10 만 달러 ( 약 1 억 300 만 원 ) 이 며 , 이후 성적 에 따 라 내년 말 까지 재계약하 는 옵션 조항 을 달 았 다 " 고 밝 혔 다 .	LOC-B O O O O LOC-B O O O O O O O PER-B O O ORG-B ORG-I O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 지금 상태 로 는 뛰 기 힘들 다 . 잘못하 면 부상 기간 이 길 어 질 수 도 있 다 " ( 대표 팀 코칭스태프 . 의무 팀 ) " 우리 팀 의무진 의 판단 으로 는 뛰 는 데 무리 가 없 다 . 풀타임 은 힘들 겠 지만 팬 들 에게 선 을 보 여야 되 지 않 겠 느냐 " ( FC 서울 ) 부상 중 인 ' 천재 골잡이 ' 박주영 ( FC 서울 ) 이 26 일 상암 벌 에서 열리 는 FC 서울 과 보카 주니어스 ( 아르헨티나 ) 의 친선 전 에 출전할 수 있 을 지 여부 를 놓 고 논란 이 일 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O PER-B O ORG-B ORG-I O O DAT-B DAT-I LOC-B LOC-I O O O ORG-B ORG-I O ORG-B ORG-I O LOC-B O O O O O O O O O O O O O O O O O O O O O
+본프레레 감독 은 " 현재 로서 는 경기 를 뛰 기 에 는 무리 " 라고 했 고 최주영 의무 팀장 은 " 26 일 경기 는 무리 다 . 심하 면 수술 을 해야 하 는 부상 " 이라고 했 다 .	PER-B O O O O O O O O O O O O O O O O O PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+이준하 부산 사장 은 " K - 리그 와 AFC ( 아시아축구연맹 ) 챔피언스 리그 석권 이 라는 올 시즌 목표 를 이뤄 내 는 데 도움 을 줄 선수 를 영입 했 다 . 어려 운 결정 을 내려 준 성남 구단 에 감사 드린다 " 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+맨체스터 유나이티드 의 ' 신형 엔진 ' 박지성 ( 24 ) 이 4 경기 연속 선발 출전한다 .	ORG-B ORG-I O O O O O PER-B O O O O O O O O O O
+한편 부상 중 인데 다 퍼거슨 감독 과 의 설전 으로 관계 가 불편해 진 중앙 미드필더 로이 킨 을 대체할 선수 로 는 앨런 스미스 가 꼽히 고 있 다 .	O O O O O PER-B O O O O O O O O O O O PER-B PER-I O O O O O PER-B PER-I O O O O O O
+대한축구협회 는 이미 북한 선수단 의 요청 을 예상해 훈련 장소 를 미리 물색해 놓 은 턱 에 무리 없이 훈련장 을 제공 했 다 .	ORG-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+또 남 , 북한 남녀 국가 대표 축구 경기 와 북한 대 일본 ( 여자 ) 경기 가 열리 는 8 월 4 일 에 는 전주시 축구 협회 가 이 들 노선 을 포함한 5 개 노선 에 셔틀버스 50 대 를 투입 , 관람객 을 무료 로 실 어 나를 예정 이 다 .	O O O LOC-B O O O O O O ORG-B O ORG-B O O O O O O O DAT-B DAT-I DAT-I DAT-I O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아사히 TV 등 일본 취재진 도 보 였 다 .	O O O ORG-B O O O O O O
+잠시 사진 촬영 을 위해 대형 을 갖춘 북한 선수단 은 입국 소감 을 묻 는 한국 취재진 의 요구 에 묵묵부답 으로 일관 했 다 .	O O O O O O O O LOC-B O O O O O O O ORG-B O O O O O O O O O O
+박지성 ( 24 ) 이 마침내 맨체스터 유나이티드 데뷔 골 을 터뜨 렸 다 .	PER-B O O O O O ORG-B ORG-I O O O O O O O
+프랑스 출신 의 트루시에 는 다음 달 부터 97 년 이 어 두 번째 로 나이지리아 사령탑 을 맡 아 2006 독일 월드컵 아프리카 예선 을 지휘하 기 로 이미 보도된 바 있 다 .	LOC-B O O PER-B O O O O DAT-B DAT-I O O O O O ORG-B O O O O DAT-B O O O O O O O O O O O O O O
+다비즈 , 토튼햄 에 새 둥지	PER-B O ORG-B O O O
+北 올림픽 - 中 연변 축구팀 3 차례 친선 경기	ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O
+중국 에서 갑 급 팀 은 원정 경기 , 외국인 선수 선발 , 전지훈련 등 을 위해 매년 최소 1 천 500 만 위안 ( 약 18 억 원 ) 의 예산 이 필요하 지만 연변 팀 은 만성적 인 자금난 을 겪 고 있 는 실정 이 다 .	LOC-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+가시마 는 J 리그 를 4 차례 나 제패한 명문 으로 공격수 스즈키 다카유키 , 미드필더 오가사와라 미츠오 , 수비수 나라 하 시 아키라 등 일본 국가 대표 출신 들 이 대거 포진한 강호 다 .	ORG-B O O O O O O O O O O O PER-B PER-I O O PER-B PER-I O O PER-B PER-I PER-I PER-I O LOC-B O O O O O O O O O O
+박지성 은 두 차례 연습 경기 포함 , 입단 후 치른 4 경기 에 모두 선발 출전하 며 착실히 알렉스 퍼거슨 감독 의 신임 을 쌓 아 가 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O
+경찰 200 여 명 의 삼엄한 경비 속 에 펼쳐진 이날 훈련 에서 북한 여자 팀 은 본격적 인 트레이닝 보다 는 가벼 운 스트레칭 과 패스 훈련 으로 간단한 몸 풀 기 를 했 다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+그러나 간판 스트라이커 진 별 희 는 몸 상태 가 그렇 게 좋 지 않 은 듯 활발한 움직임 을 보 여 주 지 는 못 했 다 .	O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O
+한편 북한 선수단 은 이날 오전 훈련 후 오후 5 시 부터 장소 를 고양종합운동장 으로 옮겨 오후 훈련 을 실시한다 .	O LOC-B O O O O O O TIM-B TIM-I TIM-I O O O LOC-B O O O O O O O
+정경호 는 본프레레 감독 이 조커 로서 주로 기용하 고 있 는 대해 " 선발 출전 에 대한 욕심 은 누구 나 가지 고 있 다 " 고 운 을 뗀 뒤 " 선발 로 뛰 면 기회 가 더 많이 오 겠 지만 주어진 임무 에 맞춰 실력 을 보 여 주 는 게 가장 중요하 다 " 고 강조 했 다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+본프레레 감독 , " 박주영 출전 여부 는 29 일 결정 "	PER-B O O O PER-B O O O DAT-B DAT-I O O
+한편 대표 팀 은 이날 건국대 와 3 세트 로 나눠서 진행된 연습 경기 에서 김진용 과 이동국 , 백지훈 이 나란히 골 을 터트려 3 - 0 승리 를 거 뒀 다 .	O O O O O ORG-B O O O O O O O O O PER-B O PER-B O PER-B O O O O O O O O O O O O O O
+부상 중 인 ' 축구 천재 ' 박주영 ( 20 . FC 서울 ) 이 제 2 회 동아시아 연맹 축구 선수권 대회 최종 엔트리 23 명 명단 에 포함 됐 다 .	O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+27 일 건국대 와 의 연습 경기 에서 도 다른 선수 들 과 별도 로 최주영 의무 팀장 과 함께 축구 화 대신 운동화 를 신 고 러닝 과 가벼 운 달리 기 로 몸 을 풀 었 던 박주영 은 여전히 부상 부위 에 통증 을 느끼 고 있 는 상황 이 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+올 시즌 부터 지휘봉 을 잡 은 고든 스트라천 셀틱 감독 은 데뷔 전 부터 악몽 을 경험 했 고 , 최근 셀틱 으로 이적한 일본 축구 대표 팀 주전 미드필더 나카무라 순 스케 는 이날 출장하 지 않 았 다 .	O O O O O O O PER-B PER-I ORG-B O O O O O O O O O O O O ORG-B O O ORG-B O O O O O PER-B PER-I PER-I O O O O O O O O
+김동진 은 28 일 파주 NFC ( 대표 팀 트레이닝 센터 ) 에서 축구 대표 팀 오후 훈련 에 앞서 취재진 과 인터뷰 를 갖 고 " 이번 대회 3 경기 가운데 북한 과 의 경기 가 가장 기대된다 . 2002 년 에 한 번 북한 과 의 경기 에 뛴 적 이 있 다 " 고 밝 혔 다 .	PER-B O DAT-B DAT-I LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O
+김동진 은 또 북한 축구 에 대해 " 그때 북한 은 체력 은 우세 했 지만 기술적 으로 는 좀 부족 했 다 . 하지만 이번 월드컵 아시아 예선 을 보 니 기술 이 많이 향상 됐 고 조직력 도 좋 아 진 것 같 다 . 많이 향상 됐 다는 생각 이 다 . 북한 축구 는 아시아 에서 상위 클래스 " 며 칭찬하 기 도 했 다 .	PER-B O O LOC-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O LOC-B O O O O O O O O O O O
+김진용 은 우즈베키스탄 - 쿠웨이트 로 이어지 는 본프레레 호의 ' 죽음 의 원정 ' 2 연전 에서 벤치만 을 지키 며 자신감 과 실전 감각 을 모두 잃어버린 반면 , 라이벌 박주영 은 A 매치 데뷔 골 과 연속 골 을 맛보 며 스포트라이트 를 모두 빼앗 아 간 것 .	PER-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+한편 울산 으로 돌아온 이천수 에 대해 김진용 은 " 현 대표 팀 공격수 가운데 천수 형 이 가장 경쟁력 이 있 는 선수 라고 본다 .	O ORG-B O O PER-B O O PER-B O O O O O O O PER-B O O O O O O O O O O O
+28 일 파주 NFC ( 대표 팀 트레이닝 센터 ) 에서 박주영 을 데리 고 재활 훈련 을 실시한 최주영 국가 대표 팀 의무 팀장 은 " 아직 까지 네 번째 발가락 에 힘 이 들어가 면 찌릿찌릿한 통증 을 느끼 는 상태 다 . 오늘 저녁 본프레레 감독 께 박주영 은 중국 전 이후 본격적 으로 팀 훈련 에 합류하 게 해 달 라고 건의하 겠 다 " 고 밝 혔 다 .	DAT-B DAT-I LOC-B LOC-I O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+오 는 31 일 중국 과 제 2 회 동아시아 연맹 축구 선수권 대회 개막 전 을 갖 는 본프레레 호 의 공격진 이 윤곽 을 드러냈 다 .	O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+이날 본프레레 감독 은 끊임없이 소리 를 지르 며 선수 들 에게 작전 지시 를 내 렸 고 , 마음 에 들 지 않 는 장면 이 나올 때 마다 경기 를 중단 시키 고 직접 시범 을 보이 며 ' 호랑이 선생님 ' 역할 을 톡톡히 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2005 동아시아 축구 대회 를 눈앞 에 두 고 있 는 한국 여자 대표 팀 이 호주 를 완파 했 다 .	DAT-B O O O O O O O O O O ORG-B O O O O ORG-B O O O O O
+남북 통일 축구 , 한반도 기 달 고 뛴다	ORG-B O O O O O O O O
+이날 회의 에서 남북 양측 은 각각 의 유니폼 을 입 되 가슴 에 는 한반도 기 를 달 고 뛰 기 로 합의 했 으며 , 체재 비용 과 심판 진 은 남측 에서 제공하 기 로 결정 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 박지성 은 후반 39 분 께 골키퍼 와 부딪히 면서 왼쪽 눈두덩 이 부근 이 찢어지 는 부상 을 입 은 뒤 경기 를 포기 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+K 리그 출신 외잘란 , 독일 쾰른 입단	ORG-B ORG-I O PER-B O ORG-B ORG-I O
+외잘란 은 지난 2003 년 잉글랜드 와 의 유로 2004 예선 에서 는 잉글랜드 의 주장 데이비드 베컴 과 마찰 을 빚 으며 팬 들 의 비난 에 시달리 기 도 했 다 .	PER-B O O DAT-B DAT-I LOC-B O O O DAT-B O O O LOC-B O O PER-B PER-I O O O O O O O O O O O O O O O O
+' 백전노장 ' 에드밀손 은 프로 축구 연맹 이 1 일 마감한 국내 및 외국인 선수 등록 명단 에 이름 을 올리 면서 부상 으로 K 리그 를 떠난 지 1 년 여 만 에 국내 축구 팬 들 에게 다시 인사하 게 됐 다 .	O O O PER-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+백 국장 은 " 풀타임 출전 은 아직 힘들 지만 45 분 은 충분히 소화할 수 있 어 조커 로서 활약 을 기대한다 " 며 " 감독 의 결정 에 따르 겠 지만 개막 전 출전 도 가능한 상태 " 라고 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+FC 메스 2 군 소속 의 청소년 대표 출신 강진욱 ( 19 ) 은 대선배 안정환 과 호흡 을 맞추 는 영광 을 누 렸 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O PER-B O O O O O PER-B O O O O O O O O O O O
+프랑스 축구 아카데미 측 은 " 강진욱 은 최근 코칭스태프 로부터 기량 이 일취월장 했 다는 평가 를 받 고 있 다 . 조만간 1 군 무대 데뷔 도 기대된다 " 고 밝 혔 다 .	ORG-B ORG-I ORG-I O O O PER-B O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+지난 2 월 치 러 진 ' 2005 통영 컵 국제 프로 축구 대회 ' 에 참가 했 던 오이타 는 전남 과 인연 을 맺 은 뒤 지난 6 월 전남 유소년 팀 이 오이타 를 방문하 면서 본격적 인 팀 간 교류 의 물꼬 를 텄 고 오 는 4 일 공식 자매결연 을 하 게 된다 .	O DAT-B DAT-I O O O O DAT-B O O O O O O O O O O O ORG-B O ORG-B O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O
+오 는 4 일 오후 8 시 전주월드컵경기장 에서 열리 는 남 북한 A 매치 는 2005 동아시아 연맹 ( EAAF ) 축구 선수권 대회 의 백미 로 팬 들 의 가슴 을 설레 게 하 고 있 다 .	O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O
+남북 대결 의 의미 보다 는 1 승 을 챙기 고 무기력 증 에서 탈피하 는 게 선결 과제 .	ORG-B O O O O O O O O O O O O O O O O O O O
+강철 체력 과 정신력 으로 무장한 북한 은 일본 전 에서 보 여 준 압박 과 기동력 을 살려 또 한 번 일 을 내 겠 다는 기세 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+AFC , 파드 사우디 국왕 서거 에 조 의	ORG-B O PER-B LOC-B O O O O O
+50 만 평방미터 에 8 만 명 을 수용할 수 있 는 , 세계 에서 가장 크 고 아름다 운 축구장 중 의 하나 로 손꼽히 는 킹 파드 스타디움 을 세운 것 도 파드 국왕 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O PER-B O O O O O
+EAFF 상벌 위원회 는 지난 1 일 비디오 분석 결과 리웨이펑 이 전반 5 분 몸싸움 에서 유경렬 을 의도 적 으로 손바닥 으로 가격한 데 다 후반 40 분 과격한 언행 으로 레드카드 를 받 아 남 은 두 경기 의 출전 을 금지한다고 밝 혔 다 .	ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우루과이 의 청소년 축구 선수 가 경기 중 심한 두통 을 호소한 뒤 돌연사 했 다 .	LOC-B O O O O O O O O O O O O O O O O
+이천수 ( 24 . 울산 현대 ) 가 미스코리아 출신 탤런트 김 모 양 과 결혼할 것 으로 알려 졌 다는 일부 언론 보도 에 대해 그 의 에이전트 가 2 일 사실 무근 이 라고 밝 혔 다 .	PER-B O O O ORG-B ORG-I O O O O O PER-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+잉글랜드축구협회 가 프리미어 리그 개막 을 앞두 고 경기 중 심판 에게 욕설 을 퍼붓 는 선수 들 에 대한 중징계 처분 을 담 은 새로 운 규정 발표 를 눈앞 에 두 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 영원한 리베로 ' 홍명보 대한 축구 협회 이사 가 한 . 일 축구 친선 대사 로 활동한다 .	O PER-B PER-I O PER-B ORG-B ORG-I ORG-I O O LOC-B O LOC-B O O O O O O
+홍 이사 는 현재 중앙 선거 관리 위원회 공명선거 홍보 대사 , 국제축구연맹 ( FIFA ) 선정 인종 차별 반대 홍보 대사 등 을 맡 고 있 다 .	PER-B O O O ORG-B ORG-I ORG-I ORG-I O O O O ORG-B O ORG-B O O O O O O O O O O O O O O
+KBS 스포츠 중계 제작 팀 이동현 팀장 은 " 3 사 가 합의한 기본 원칙 은 공동 으로 대처하 는 것 " 이 라며 " 방송 위 에서 도 이미 영국 이나 독일 에서 규정하 고 있 는 ' 유니버설 액세스권 ' 에 대해 검토하 고 있 다 " 고 말 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+발가락 부상 ( 족저 건막 염 ) 으로 지난 31 일 중국전 에 출장하 지 않 은 박주영 이 4 일 전주월드컵경기장 에서 열리 는 북한 과 의 경기 에서 도 벤치 를 지키 게 됐 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O PER-B O DAT-B DAT-I LOC-B O O O LOC-B O O O O O O O O O O O O
+전북 경찰청 관계자 는 " 폭염 때문 에 외곽 경계 를 서 는 것 이 힘들 다 " 며 " 외곽 경계 병력 은 교대 로 그늘 로 보내 오랫동안 햇볕 에 노출되 는 것 을 피하 도록 조치 했 다 " 고 말 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+200 여 명 의 붉 은 악마 응원단 이 한국 대표 팀 을 응원 했 지만 반대편 에서 는 흰색 옷 을 입 은 800 여 명 의 응원단 이 남북 선수 들 에게 다 같이 환호성 을 보냈 다 .	O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+전남 순천 에서 두 아이 를 데리 고 먼 걸음 을 한 윤상혁 ( 40 ) 씨 는 " 손님 대접 삼 아 북한 이 이 겼 으면 좋 겠 다 " 며 " 승부 보다 는 남북 이 하나 될 수 있 는 자리 가 됐 으면 한다 " 고 웃음 지 었 다 .	LOC-B LOC-B O O O O O O O O O O PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+하지만 구단 관계자 들 의 설득 에 한 발 물러선 티 테 감독 은 지난 4 일 주 중 경기 에 다시 나섰 지만 팀 이 리그 최 하위 팀 과 비기 자 미련 없이 5 일 만 에 또 한 번 사표 를 던지 고 말 았 다 .	O O O O O O O O O O PER-B PER-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지단 은 5 일 ( 한국 시간 ) 프랑스 방송 카날 플뤼스 와 의 인터뷰 에서 " 난 잃어버 렸 던 의욕 을 다시 찾 았 다 . 최고 의 자리 를 지키 려면 항상 긴장 상태 에 있 을 필요 가 있 다 . 그것 이 바로 내 가 원하 는 것 이 다 " 고 밝 혔 다 .	O O DAT-B DAT-I O LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전 대표 팀 사령탑 인 제라르 울리 에 올림 피크 리옹 감독 은 " 그 가 최상 의 컨디션 을 유지한다면 브라질 을 포함해 세계 어느 팀 과 도 상대할 수 있 다 " 고 했 고 , 레이몽 도메 네크 현 대표 팀 감독 도 " 최고 의 선수 들 에게 경기 를 맡기 는 것 이 소원 " 이 라며 기쁨 을 감추 지 못 했 다 .	O O O O O PER-B PER-I PER-I ORG-B ORG-I ORG-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 MBC TV 를 통해 이날 오후 5 시 방송된 한국 과 북한 의 여자 축구 시청률 은 5.8 % 였 다 .	O O O O O O TIM-B TIM-I TIM-I O ORG-B O ORG-B O O O O O O O O O O
+코린티안스 구단주 인 알베르토 두 알 리브 의 손녀 카를라 두 알 리브가 운영하 는 SMA 는 " 코린티안스 가 삼성 과 후원 계약 을 맺 은 것 은 SMA 에서 비롯된 것 이 므로 코린티안스 가 받 을 2 년 간 후원 액 3 천만 헤알 ( 1 천 200 만 달러 상당 ) 의 10 % 를 커미션 으로 받 아야 한다 " 고 주장하 고 있 다 .	ORG-B O O PER-B PER-I PER-I PER-I O O PER-B PER-I PER-I O O O ORG-B O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+2003 대구 하계 유니버시아드 때 북한 대표 팀 을 응원하 기 위해 대구 달성 군민 들 로 조직 됐 던 북한 서포터스 ( Supporters ) 가 동아시아 축구 선수권 대회 대구 경기 를 앞두 고 다시 뭉 쳤 다 .	DAT-B O O O O LOC-B O O O O O O LOC-B O O O O O O O ORG-B ORG-I O O O O O O O O LOC-B O O O O O O O O O
+한편 동아시아 축구 선수권 대회 대구 경기 를 앞두 고 달성군 민 으로 구성된 북한 서포터스 이외 에 중국 팀 응원 을 위해서 는 수성구 범어 1 - 3 동 및 만촌동 주민 이 , 일본 팀 응원 을 위해서 는 수성구 범어동 4 동 주민 들 이 각각 서포터스 를 구성 했 다 .	O O O O O LOC-B O O O O O O O O ORG-B ORG-I O O O O O O O O LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O
+축구 전문가 들 은 4 일 경기 가 끝난 뒤 " 도대체 전술 이 라는 것 을 찾아볼 수 없 다 " 며 불만 을 토로 했 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+때문 에 본프레레 감독 과 지코 감독 은 7 일 경기 에서 는 총력전 을 펼칠 수 밖에 없 는 처지 다 .	O O PER-B O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O
+" 선수 들 에게 단고기 ( 개고기 ) 나 한 번 실컷 먹 여 봤 으면 하 는 마음 이 굴뚝같 아요 . " 요즘 탈 북 축구 인 윤명찬 ( 57 ) 씨 는 남다른 감회 에 젖 어 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+윤 씨 는 만만찮 은 팀 들 을 상대 로 결코 밀리 지 않 는 전력 을 보 여 주 고 있 는 북 측 선수 들 과 감독 에 대해 칭찬 을 아끼 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 남자 대학 대표 팀 이 하계 유니버시아드 대회 에서 강호 브라질 과 예선 에서 맞붙 는다 .	ORG-B O O O O O O O O O O LOC-B O O O O O O
+5 일 저녁 대구월드컵경기장 에서 치 러 진 남자 대표 팀 훈련 에서 본프레레 감독 은 이동국 의 부담감 을 떨쳐 주 기 위한 특별한 자리 를 마련 했 다 .	DAT-B DAT-I O LOC-B O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O
+반면 오른쪽 무릎 을 삐끗 했 던 김두현 은 러닝 과 긴 패스 훈련 을 소화해 내 면서 일본 전 출전 에 대한 가능성 을 높 여 ' 중원 의 해결사 ' 로 복귀할 채비 를 마 쳤 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O
+그러나 에인트호벤 은 1 - 2 로 역전패 했 다 .	O ORG-B O O O O O O O O O
+한국 여자 , ' 원년 우승 ' 영광	ORG-B O O O O O O O
+차연희 - 한 송이 를 투톱 으로 내세운 3 - 5 - 2 전술 로 일본 을 맞이한 한국 은 전반 5 분 과 전반 9 분 이어진 안 도 코 주 에 와 오타니 미오 의 강력한 슈팅 을 GK 김미정 이 선방하 면서 초반 위기 를 극복 했 다 .	PER-B O PER-B PER-I O O O O O O O O O O O ORG-B O O ORG-B O O O O O O O O O PER-B PER-I PER-I PER-I PER-I O PER-B PER-I O O O O O PER-B O O O O O O O O O O
+결국 90 분 간 의 혈전 은 득점 없이 마무리 됐 지만 한국 은 대회 ' 원년 우승 ' 이 라는 달콤한 열매 를 품 에 안 았 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+북한 이 남한 에게 패배한 체육 경기 를 이례적 으로 중계해 눈길 을 끌 고 있 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O
+이날 경기 해설 을 맡 은 리동규 체육 과학 연구소 부 소장 은 " 남조선 팀 이 아시아 강팀 으로 알려진 중국 팀 을 2 대 0 으로 이 겼 다 " 면서 " ( 남북 ) 두 팀 의 지난 시기 경기 를 봐서 우리 가 여러 경기 에서 이기 고 있 었 는데 최근 들 어 남 조선 여자 축구 가 일정한 수준 에 올 랐 다 " 고 평가 했 다 .	O O O O O O PER-B ORG-B ORG-I ORG-I O O O O LOC-B O O LOC-B O O O LOC-B O O O O O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O
+한국 으로서 도 7 일 막 을 내리 는 2005 동아시아 연맹 선수권대회 에서 최 하위 로 내몰린다면 다음 대회 부터 는 예선 부터 나서야 하 는 부끄러 운 상황 을 맞 을 수 도 있 게 된 셈 이 다 .	ORG-B O O DAT-B DAT-I O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 축구 , 화합 의 남북 재 대결 다짐	LOC-B O O O O ORG-B O O O
+하지만 이날 중국 에 0 - 2 로 패해 우승 꿈 이 좌절된 데 대해서 는 다소 아쉬 운 표정 . 전날 까지 1 승 1 무 를 기록하 던 북한 이 만약 이날 중국 을 눌 렀 다면 자력 으로 우승 을 확정 지 을 수 있 는 상황 이 었 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O
+심판 판정 에 대한 아쉬움 도 있 었 고 주전 포인트 가드 표명 일 의 지나친 의욕 에 대한 불만 도 있 었 다 .	O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O
+동부 의 주전 5 명 전원 이 두 자릿수 득점 을 올리 며 고른 득점력 을 자랑 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+레더 를 막 기 위한 특단 의 조치 를 준비 했 을까 ?	PER-B O O O O O O O O O O O O
+삼성 으로서 는 레더 를 활용할 수 밖에 없 다 .	ORG-B O O PER-B O O O O O O O
+레더 는 4 차 전 에서 도 크 게 활약 했 다 .	PER-B O O O O O O O O O O O O
+레더 는 이날 오코사 와 김주성 을 파울 트러블 로 몰아넣 지 못 했 다 .	PER-B O O PER-B O PER-B O O O O O O O O O O
+신지애 는 " 슬라이스 바람 이 강하 게 불 어 OB 가 났 다 " 며 " 조금 아쉬움 은 남 지만 크 게 실망하 지 않 는다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 행사 는 오 는 28 일 클로즈 베타 테스트 , 5 월 27 일 오픈 베타 테스트 를 앞두 고 , 게임 에 대한 정식 소개 와 향후 일정 및 계획 을 공개하 는 시간 으로 채 워 졌 다 .	O O O O O DAT-B DAT-I O O O O DAT-B DAT-I DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 NBA 의 실제 선수 들 만 게임 에서 만나 볼 수 있 는데 , KBL 선수 들 도 게임 에 넣 을 계획 이 있 냐는 질문 에 는 “ 계획 은 없 지만 유저 가 상상하 는 모든 것 은 할 계획 이 다 ” 는 말 로 유저 들 의 다양한 의견 과 제안 을 충분히 수 용해 나가 겠 다는 의지 를 내비 쳤 다 .	O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올 시즌 삼성 의 고질적 인 문제 인 실책 이 막바지 로 치닫 고 있 는 챔피언 결정 전 최대 변수 중 하나 로 떠올 랐 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+안 감독 의 말 마따나 이길 수 없 는 경기 였 다 .	PER-B O O O O O O O O O O O O
+장원삼 의 기록 은 1 년 7 개월 만 에 나온 기록 .	PER-B O O O O O O O O O O O O
+이어 2 회 초 에 연속 밀어내기 와 정성훈 , 브룸바 의 잇따른 2 타점 적시타 로 대거 6 점 을 올려 일찌감치 승부 를 갈 랐 다 .	O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O
+선발 전병두 가 제구 력 불안 으로 들쭉날쭉한 성적 을 내 는 것 을 두 고 ) ● 안타 가 구슬 이 면 주루 는 꿰 는 것 이 야 ．	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+LG 김재박 감독 의 ' SK 내야수 더티 플레이 ' 발언 에 자신 의 이름 이 언급 됐 지만 신경 쓰 지 않 고 깨끗한 플레이 를 보 여 주 겠 다며 ) ● 우리 선수 들 이름 외우 기 도 바 빠요 ．	ORG-B PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+( 대구구장 삼성 선동열 감독 ．	O LOC-B ORG-B PER-B O O
+' 김주성 펄펄 ' 동부 , 통합 우승 눈앞	O PER-B O O ORG-B O O O O
+1 ~ 2 차 전 풀타임 을 뛰 며 가뜩이나 약한 체력 이 우려되 던 시점 인 3 차 전 에 파울 아웃 을 당하 며 30 분 뛰 는데 그 쳤 던 것 이 ' 전화위복 ' 이 됐 다 ．	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동부 는 4 쿼터 를 75 - 62 , 15 점 차 로 시작해 딕슨 의 3 점 포 와 김주성 의 덩크 가 폭발한 경기 종료 4 분 24 초 전 88 - 70 으로 앞서 며 승부 에 쐐기 를 박 았 다 ．	ORG-B O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+두산 주장 김동주 는 23 일 대구 삼성 전 에 앞서 타격 훈련 을 위해 배팅 케이지 옆 에서 대기하 다가 뒤쪽 에서 토스 배팅 을 하 던 김재환 이 놓친 배트 에 오른쪽 팔꿈치 를 맞 고 쓰러 졌 다 ．	ORG-B O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+그런데 최준석 은 볼 카운트 2 - 2 에서 삼성 선발 배영수 의 133 ㎞ 짜리 슬라이더 를 받아쳐 자신 의 시즌 첫 홈런 을 왼쪽 담장 너머 로 보내 버렸 다 ．	O PER-B O O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+순수한 의미 의 ' 1 회 대타 홈런 ' 은 최준석 이 처음 이 라고 할 수 있 다 ．	O O O O O O O O O O PER-B O O O O O O O O O
+롯데 선발 장원준 이 극심한 제구 력 난조 에 빠져 볼넷 4 개 를 허용하 는 바람 에 SK 는 손끝 하나 움직이 지 않 고 밀어내 기 로 선취점 을 뽑 았 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+이대호 가 중전 안타 로 출루해 2 사 1 루 상황 에서 강민호 가 SK 선발 채병용 의 7 구 째 133 km 짜리 한가운데 슬라이더 를 잡아당겨 투런 홈런 ( 비거리 120 m ) 으로 연결한 것 .	PER-B O O O O O O O O O O O PER-B O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+[ 3 회 초 2 루 도루 를 시도하 는 롯데 박기혁 을 SK 2 루수 모창민 이 태그 아웃 시키 고 있 다 ( 사진 위 ) .	O O O O O O O O O O ORG-B PER-B O ORG-B O O PER-B O O O O O O O O O O O O
+SK 의 장기 가 빛난 한판 이 었 다 .	ORG-B O O O O O O O O O
+다음 타자 김강민 의 좌전 안타 때 정수근 이 무리하 게 홈 으로 던 졌 지만 포수 가 잡 을 수 없 는 곳 으로 흐르 고 말 았 다 .	O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+' 감정싸움 ' LG " 할 말 했 을 뿐 " vs SK " 명 유격수 출신 이 그것 도 모르 나 ? "	O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O
+김 감독 은 22 일 " SK 선수 들 이 2 루 베이스 커버 에 들어올 때 베이스 위 에 올라가 무릎 을 꿇 고 마치 포수 처럼 블로킹 을 하 고 있 다 " 며 " 주자 가 헤드 퍼스트 슬라이딩 을 하 다 다칠 우려 가 있 고 , 다리 가 먼저 들어가 면 해당 수비수 가 다칠 위험 이 있 어 도루 를 할 수 없 다 ．	PER-B O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리 는 SK 와 게임 을 할 때 이대형 등 도루 를 하 는 선수 들 에게 절대 헤드 퍼스트 슬라이딩 을 하 지 말 라고 주문 했 다 " 며 " 도루 하나 로 성적 이 좌우되 는 것 도 아닌데 큰 부상 을 당할까 염려해서 였 다 " 고 밝 혔 다 ．	ORG-B O ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 김재박 감독 의 발언 이 알려진 뒤 SK 구단 관계자 들 은 23 일 오전 대책 회의 를 열 고 대응책 마련 에 나섰 다 ．	O PER-B O O O O O O ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O
+베이스 앞 에서 받 으면 태그하 는 데 시간 이 걸리 기 때문 에 베이스 를 양 가랑이 사이 에 넣 고 테그 한다 " 면서 " SK 뿐 만 아니 라 야구 를 하 는 모든 내야수 는 같 은 방식 으로 지도 를 받 는다 ．	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+국내 프로 야구 에서 108 번째 기록 이 지만 , 정규 이닝 을 기준 으로 했 을 때 지난 2005 년 9 월 8 일 한화 송진우 가 SK 를 상대 로 거둔 이후 2 년 7 개월 여 만 에 나온 귀한 기록 이 다 ．	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I ORG-B PER-B O ORG-B O O O O O O O O O O O O O O O O O O
+우리 이광환 감독 은 감격한 눈치 였 다 ．	ORG-B PER-B O O O O O O O
+하지만 정작 채병용 본인 은 자신 의 투구 내용 이 썩 맘 에 들 지 않 는 모양 이 었 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O
+장원삼 이 너무 잘 던 졌 다 ．	PER-B O O O O O O O
+그 사이 1 루 주자 가 홈 을 밟 아 이병규 는 타점 을 올 렸 다 .	O O O O O O O O O O PER-B O O O O O O O
+야쿠르트 스왈로스 의 마무리 투수 임창용 은 히로시마 도요카프 와 방문 경기 가 비 로 취소되 는 바람 에 등판하 지 않 았 다 .	ORG-B ORG-I O O O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O O O
+롯데 송승준 에 이 어 시즌 2 호 완봉 승 이 자 시즌 첫 무사 사구 완봉 승 이 다 ．	ORG-B PER-B O O O O O O O O O O O O O O O O O O O
+롯데 강민호 는 4 회 시즌 5 호 좌월 2 점 홈런 을 터뜨려 롯데 팬 들 을 위로 했 다 ．	ORG-B PER-B O O O O O O O O O O O O ORG-B O O O O O O O
+잠실 에서 는 한화 가 9 회 초 고동진 의 역전 결승 타 와 김태균 의 싹쓸이 쐐기 2 루 타 등 으로 대거 6 점 을 뽑 으며 8 - 4 로 짜릿한 역전승 을 거 뒀 다 ．	LOC-B O O ORG-B O O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+동부 선수 들 은 3 차 전 패배 후 “ 욕심 을 버리 고 평상시 플레이 를 하 라 ” 는 전창진 감독 의 지시 를 100 % 받아들 여 정규 리그 최소 실점 에 빛나 는 그물망 수비 를 펼 쳤 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+동부 는 3 차 전 5 반칙 퇴장 을 당 했 던 김주성 이 초반 부터 노련한 파울 관리 능력 을 보이 며 상대 수비 를 따돌 렸 다 .	ORG-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+그렇 다면 삼성 은 장기 인 스피드 를 살리 는 데 성공 했 을까 ?	O O ORG-B O O O O O O O O O O O O
+동부 에게 삼성 은 껄끄러 운 상대 임 이 분명 했 다 .	ORG-B O ORG-B O O O O O O O O O O
+그렇 다면 동부 가 이번 챔피언 결정 전 에서 속공 을 무기화할 수 있 었 던 이유 는 ?	O O ORG-B O O O O O O O O O O O O O O O O
+삼성 가드 들 의 수비 전환 속도 와 위치 선정 은 수준급 이 라 상대 의 1 차 속공 을 저지하 는데 능하 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+그 가운데 하나 가 바로 한 시즌 36 경기 완투 다 .	O O O O O O O O O O O O
+장명부 의 한 시즌 36 경기 완투 기록 에 비하 면 그나마 나 은 편 이 긴 하 지만 이 역시 불멸 에 가까 운 기록 이 돼 가 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1983 년 에 는 팀 당 1 경기 에 평균 1.9 명 의 투수 를 등판 시 켰 지만 , 2007 년 에 는 평균 4.2 명 의 투수 가 등판 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+거기 에 며칠 사이 LG 김재박 감독 까지 끼어들 었 다 .	O O O O ORG-B PER-B O O O O O O
+올 시즌 초 에 도 대표 팀 에서 돌아온 김광현 의 투구 폼 을 두 고 한차례 맞붙 은 바 있 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O
+더티 한 수비 를 가르친 인물 로 지목 받 은 후쿠 하 라 수비 코치 는 아예 기자 들 을 불 러 놓 고 " 내야수 가 공 을 받 을 때 베이스 앞 에서 받 으면 태그하 는데 시간 이 걸린다 .	O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인기 야구 게임 ' 마구 마구 ' , 일본 에 정식 서비스 된다	O O O O O O O O LOC-B O O O O
+CJ 인터넷 의 정영종 대표 는 " ' 마구 마구 ' 는 선수 데이터 를 활용해 실제 감 과 게임 성 의 두 가지 요소 를 균형적 으로 갖 췄 으며 , 야구 의 관심 이 높 은 일본 시장 에서 도 성공적 인 서비스 를 진행할 수 있 을 것 으로 기대한다 " 고 말 했 다 .	ORG-B ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+제일 과 한양 에 이 어 김포 와 천룡 , 자유 등 지역 과 상관없 는 하락세 가 곳곳 에서 나타나 고 있 다 .	ORG-B O ORG-B O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O
+“ 도루 왕 은 나 다 ” 정수근 의 무서 운 도전	O O O O O O O PER-B O O O O
+덕수상고 를 나 와 1995 년 OB 에 입단한 정수근 은 심정수 , 김상호 , 장원진 이 포진하 고 있 던 팀 의 외야수 한자리 를 꿰차 고 고교 출신 으로 117 게임 에 나 와 25 개 의 도루 를 성공 시 켰 다 .	ORG-B O O O O O ORG-B O O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당시 이종범 이 28 개 의 도루 로 형제 사이 에 낀 것 이 이채로 웠 다 .	O PER-B O O O O O O O O O O O O O O O O
+스포츠토토 온라인 발매 사이트 인 베트맨 ( www . betman . co . kr ) 은 25 일 ( 이하 한국 시간 ) 부터 26 일 까지 벌어지 는 국내 프로 야구 4 경기 , 미 프로 야구 메이저리그 10 경기 등 총 14 경기 를 대상 으로 한 야구 토토 승 1 패 4 회 차 투표율 중간 집계 결과 전체 참가자 의 절반 이 넘 는 58.35 % 가 올 시즌 돌풍 의 팀 롯데 의 승리 를 예상하 고 있 는 것 으로 나타났 다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I O O LOC-B O O O DAT-B DAT-I O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+내셔널리그 에서 는 박찬호 가 불펜 투수 로 활약하 고 있 는 서부 지구 4 위 팀 LA 다저스 ( 49.15 % ) 가 같 은 지구 2 위 콜로라도 ( 37.03 % ) 를 상대 로 승리 를 챙길 것 이 라는 전망 이 다수 를 차지 했 다 .	O O O PER-B O O O O O O O O ORG-B ORG-I O O O ORG-B ORG-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+부산 의 안정환 ( 32 ) 과 롯데 의 마해영 ( 38 ) 은 유니폼 을 교환한다 .	ORG-B O PER-B O O O O ORG-B O PER-B O O O O O O O O
+올해 각각 친정 팀 으로 돌아온 뒤 에 는 부산 의 프로 스포츠 바람 을 주도하 고 있 다 .	O O O O O O O O O ORG-B O O O O O O O O O O
+한화 가 브라운 을 살 렸 다 ?	ORG-B O PER-B O O O O O
+용병 들 의 영양가 얘기 가 나올 때 마다 브라운 의 이름 이 거론 됐 고 .	O O O O O O O O O PER-B O O O O O O O
+로이스터 감독 " 불방망이 ?	PER-B O O O O
+이것 이 롯데 의 득점 공식 ” 이라고 강조 했 다 .	O O ORG-B O O O O O O O O O
+롯데 제리 로이스터 ( 56 ) 감독 은 올 시즌 처음 한국 땅 을 밟 은 외국인 이 고 KIA 조범현 ( 48 ) 감독 은 김성근 감독 의 제자 라는 관계 때문 에 특별한 색깔 을 내 고 있 지 는 않 다 .	ORG-B PER-B PER-I O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O
+지난해 부터 계속된 김성근 감독 과 의 신경전 을 생각해 보 면 가만히 있 는 그 자체 가 김성근 감독 의 편 을 들어주 는 인상 이 다 .	O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+대통령 배 전국 고교 야구 대회 25 일 개막	O O O O O O DAT-B DAT-I O
+황금 사자 기 에서 도 정상 에 오른 광주일고 는 대통령 배 까지 휩쓸 어 올해 고교 무대 최 강자 임 을 입증하 겠 다는 기세 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+이 밖에 큰 키 에서 내리꽂 는 강속구 가 일품 인 홍영현 을 앞세운 배명고 와 좌완 강윤구 의 구위 가 뛰어난 장충고 도 언제 든 우승 을 노릴 수 있 는 탄탄한 전력 을 자랑한다 .	O O O O O O O O O O O PER-B O O ORG-B O O PER-B O O O O ORG-B O O O O O O O O O O O O O O
+하지만 이 자리 에서 김 씨 는 박 단장 에게 “ 아들 의 의사 가 가장 중요하 다 .	O O O O O O O PER-B O O O O O O O O O O O
+박 단장 은 조만간 미국 에 건너가 김병현 의 에이전트 인 제프 보리스 를 만날 계획 이 다 .	PER-B O O O LOC-B O O PER-B O O O PER-B PER-I O O O O O O
+4 차 전 에서 무려 20 개 의 실책 을 저지른 것 도 삼성 의 반격 을 기대하 기 어렵 게 만든다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O
+◇ 진행 중 인 마무리 의 역사 오승환 최소 경기 ( 180 경기 ) 및 최소 시즌 ( 3 년 ) 100 세이브 달성 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+2006 년 10 억 을 받 고 KIA 에 입단한 한기주 는 ‘ 선발 최소 10 승 ’ 이 라는 기대 와 달리 단조로 운 구질 과 미숙한 마운드 운영 으로 지난해 마무리 투수 로 전업 했 다 .	DAT-B DAT-I MNY-B MNY-I O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+◇ 터프 한 마무리 우규민 지난해 30 세이브 를 기록하 며 정상급 마무리 투수 의 가능성 을 보 여 준 우규민 은 타자 를 압도하 는 직구 는 없 다 .	O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+◇ 타이밍 의 귀재 정대현 지난해 정상 에 올 랐 고 올 시즌 도 선두 를 달리 고 있 는 SK 의 중심 에 는 마무리 정대현 이 있 다 .	O O O O PER-B O O O O O O O O O O O O O O O ORG-B O O O O O PER-B O O O O
 이종범 .	PER-B O
-한 경기 최다 탈삼진은 선동열 삼성감독이 해태 시절 이+ㄴ 91년 6월 19일 광주 빙그레전에서 기록하+ㄴ 18개 +이다 .	O O O O PER-B ORG-B ORG-B O O O O O O O O O O O
-일본은 1957년 한 큐브레이브스의 가지 모토 다카오가 기록하+ㄴ9 타자가 최다이다 .	LOC-B O O O PER-B PER-I PER-I O O O O
-지나+ㄴ 16일 왼쪽 무릎 수술을 받은 우즈는 퇴원 후 곧바로 재활훈련에 돌입하+ㄴ 상태+이다 .	O O O O O O PER-B O O O O O O O
-무릎 통증이 사라지 +ㄴ 우즈가 얼마나 대단하+ㄴ경기력을 발휘하였는지를 보이어주는 대목이다 .	O O O O PER-B O O O O O O
-정신력을 갖추+ㄴ 선수가 우즈+이라는 것+이 병원 관계자들의 말이다 .	O O O PER-B O O O O O
-"SK투수 김원형이 허탈하게 웃으며 묻었다 .	ORG-B PER-B O O O O
-대호한테 얘기하니까 "형님 거기서 맞히는 사람이 어디+ 있습니까 .	PER-B O O O O O O O O
-"그때 최정이 도루(20일 잠실 SK-두산전) +하였다고도 뭐 +이라 하+ㄴ다면서요 .	O PER-B O O O O O O O O
-부산과 포항과의 2008 삼성 하우젠 정규리그 7라운드 경기에서 '야구계의 히딩크' +이라 불리는 롯데의 로이스터 감독이 시축을 하는 가운데 부산과 롯데 양구단의 아이콘이+ㄴ 안정환과 마혜영의 유니폼 교환식도 함께 열리+ㄹ 예정이다 .	ORG-B ORG-B O O O O O O PER-B PER-I O O ORG-B PER-B O O O O ORG-B ORG-B PER-I O PER-B PER-B O O O O O O
-올 시즌에도 한화의 시선은 정확하었다 .	O O ORG-B O O O
-하와이 전지훈련에서 실시하+ㄴ 자체 연습경기에서도 타격은 기대에 못 미치었다 .	LOC-B O O O O O O O O O
-클락을 뽑아 오+ㄴ이유가 있을 것이라고 생각하고 일단은 타격 부분에 전혀 손을 대지 않고 (특별하+ㄴ 지도나 조언없이) 자신의 스타일대로 위기를 벗어나 +ㄹ 수 있도록 기회를 +었다"면서 클락이 기다리+ㅁ 끝에 얻은 타자+이라고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
-코비' 49점 10도움 .	PER-B O O O
-덴버는 지나 +ㄴ 1차전과 마찬가지로 케넌 마틴을 비롯하+ㄴ장신 선수로 하여금 브라이언트를 막게 +였지만 소용없었다 .	PER-B O O O O PER-B PER-I O O O PER-B O O O O
-포우가 솔은 18점 10리 바운드로 브라이언트와 나란히 '더블 더블'을 기록하였고 식스맨 루크월튼은 18점7리 바운드5 어시스트를 올리었다 .	PER-B O O O O PER-B O O O O O PER-B O O O O O
-'팀 연봉 꼴찌, 성적은 1등' 플로리다, 예상 밖 깜짝 돌 .	O O O O O ORG-B O O O O O
-하지만 플로리다는 1990년대 이후 월드시리즈 우승을 2번(1997, 2003년)이나 이루+ㄴ팀이다 .	O ORG-B O O O O O O O O
-2위 이+ㄴ 뉴욕 메츠를 1.5 경기차로 앞서 +어 있다 .	O O ORG-B ORG-I O O O O O O
-2005년 탬파베이 시절 28홈런으로 한 시즌 반짝 하였다가 추락의 쓴맛을 +았던 호르헤칸 투 역시 플로리다 유니폼을 입고 다시 부활 하+여팀에 크+ㄴ 힘이 되고 있다 .	O ORG-B O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O
-그렇다 하더라도 적절하+ㄴ트레이드와 팜 시스템 운영으로 젊은 유망주들을 잘 키우어 적은 비용으로 크+ㄴ 효과를 내+ㄴ달는 것은 플로리다 만의 강점임에 틀림없다 .	O O O O O O O O O O O O O O O O ORG-B O O O O
-[한들의 친구야구] 슨 일만 생기면 박찬호.. .	PER-B O O O O PER-B O
-불펜에서 7개의 공을 던지고 마운드에 올라 오+ㄴ 박찬호는 나오자마자 연속 안타를 맞았습니다 .	O O O O O O O PER-B O O O O O
-궈홍치가 탈삼 진 능력이 있는 반면 로아이자와 박찬호는 이제 더 이상 삼진을 잡아내는 투수도 아니고, 불펜투수로서 경험도 적어 몸이 빨리 안 풀리는 스타일이라는 것이 +ㅂ니다 .	PER-B O O O O O PER-B PER-B O O O O O O O PER-B O O O O O O O O O O
-이로써 쿠비얀은 올 시즌 프로야구 퇴출용 병 1호로 기록되었다 .	O PER-B O O O O O O O O
-배구연맹(KOVO) 차기 집행부 수순 밟나 .	ORG-B O O O O O
-2008~2009 시즌부터 적용되는 새롭ㄴ 규정에 따르면 남녀 구단의 최대 선수 정원은 각각 15명, 16명으로 줄고, 샐러리 캡(연봉총액 상한선)은 15억원, 8억5000만원으로 각각 늘어나 +았다 .	MNY-B O O O O O O O O O O O MNY-B O O O O O MNY-B MNY-B O O O O
-마지막 18번홀에서 +ㄴ벙커샷이 '홈런볼'로 연결되며 그린을 넘어가+았다 .	O O O O O O O O
-한화고동진"그런 실수는 저도 처음이에요 .	ORG-B O O O O
-하지만 두 번째 상황에 대하+여서는 "(이) 여상이가 잡았어야 하는 타구+이었다 .	O O O O O PER-B PER-B O O PER-B O
-선두 타자 이진영이 중전 안타로 출루하+ㄴ 뒤 2루 도루를 성공시키었고 박재상의 희생번트까지 더 하+여 1사 3루가 +었다 .	O O PER-B O O O O O O O PER-B O O O O O O O
-구원투수 조웅천의 136km짜리 가운데 높은 패스트볼을 받아 치+어큼지막 하+ㄴ타구를 날리었다 .	O PER-B O O O O O O O O O
-김원형은 베테랑답게 노련미 넘치는 완급조절로 롯데타자들의 허를 찌르며 쿠비얀의 퇴출로 선발진에 공백이 생기+ㄴ SK마운드에 활기를 불어넣었다 .	PER-B O O O O ORG-B O O PER-B O O O O ORG-B O O O
-SK짠물 야구 '부산 갈매기 잡다'.. .	ORG-B O O O O O
-SK는 조웅천이 가르시아에게 우중 월 솔로 홈런을 얻어 맞아 1점차로 다시 쫓기었지만 정우람 정대현의 완벽계투로 승부를 매조지+하였다 .	ORG-B PER-B PER-B O O O O O O O O O PER-B PER-B O O O O
-그만큼 김원형으로서 +ㄴ의미있고 값지+ㄴ 승리+이었다 .	O PER-B O O O O
-모처럼 선발 투수로 출전하였지만 단짝 포수 박경완과 호흡은 여전히 절묘하게 맞아 떨어지었다 .	O O O O O O PER-B O O O O O O
-박경완이 '여러 가지 패턴을 다양하게 돌리겠다'고 말하였는데 잘 먹히 +ㄴ 것 같다"고 말하였다 .	PER-B O O O O O O O O O O O O O
-박 단장은 지나 +ㄴ 23일 광주에서 김병현의 아버지 김연수씨를 만나 +아영입의사를 타진하였지만 별다르+ㄴ 성과를 얻지 못하였다 .	PER-B O O O O LOC-B PER-B O PER-B O O O O O O O O
-한국에 돌아오+ㄹ 생각은 아직 없는 것 같다"고 말하였다  .	LOC-B O O O O O O O O O
-박 단장은 "김병현이 좋은 소식이 전 하+여오기 +ㄹ기다리겠다"는 입장이 다 .	PER-B O PER-B O O O O O O O O
-(문학구장 SK김성근 감독 .	LOC-B ORG-B O O
-(문학구장 롯데로이스터 감독 .	LOC-B ORG-B O O
-SK 경기 때 위험하+ㄴ2 루수비를 경험하+ㄴ 적 있냐는 질문에 농담으로 늘 2루에 안 서고 3루까지 달리 +어서 잘 모르겠다며) ●자꾸 꼬이네 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-[10번 타자] 두산투수 이승학, 도너츠5 박스 선물 받아 .	O O ORG-B PER-B O O O O O
-또 성심학교 야구부원들은 경기에 앞서 +어이날 오후 경산 볼파크에서 2군 코칭스태프와 선수들로부터 야구 클리닉을 받았다  .	O ORG-B O O O O O LOC-B LOC-I ORG-B O O O O O O O
-전주원은 마운드 앞에서 시구를 하는 보통 여성시구자들과 달리 마운드 위에서 공을 던지+어관중들의 박수를 받았다 .	PER-B O O O O O O O O O O O O O O
--주소창에 '스포츠'만치시 면 스포츠서울닷컴 기사가 한눈에 .	O O O O O O O
-이어 3회초에는 선두 타자 최현종의 2루타를 포함, 안타 4개와 상대 실책을 더 하+여대거 3점을 추가 하+여4-0으로 달아나 +았다 .	O O O O PER-B O O O O O O O O O O O O O O
-하지만 히어로즈의 저력도 만만하지 않았다 .	O ORG-B O O O O
-타석에는 KIA의 중심 타자 이현곤이 들어서 +었다 .	O ORG-B O O PER-B O O O
-17년차 SK 김원형"선발 떨리+어서 잠 안+오았다 .	O ORG-B PER-B O O O O
-지난해에는 5승 4패 4홀드에 평균 자책점 4．15를 얻는 데 그치었지만 주장을 맡아 30년 가까이 그의 볼을 받아 주+ㄴ '친구' 박경완과 함께 팀의 창단 첫 우승을 이끌었다  .	O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
-롯데카림 가르시아는 시즌 7호 홈런을 터트리며 한 화덕클락과 함께 홈런 공동 1위로 나서 +었다  .	ORG-B PER-I O O O O O PER-B O O O O O O O O
-한화 김태균은 5회 1사 3루서 LG박명환을 상대로 투런 홈런을 쏘아 올리며 시즌 6호를 기록, 홈런더비 3위로 뛰어오르았다 .	ORG-B PER-B O O O ORG-B O O O O O O O O O O O O
-SK 최정은 21연속 경기출루 기록을 잇어 +가았고 SK는 홈8연승의 휘파람을 불었다  .	ORG-B O O O O O O ORG-B O O O O O
-전창진 동부감독은 프로농구 사상 정규리그 최단 경기 200승 기록과 최소 경기 정규리그 우승에잇어 감독으로는 신선우 감독과 함께 가장 많은 세 번째 우승을 이루게 되+ㄴ다 .	PER-B ORG-B O O O O O O O O O O O O PER-B O O O O O O O O O O
--어린이날을 맞이하 +여고양시별 무리주경기장에서 각종 묘기 선보이+ㄹ터 .	O O LOC-B LOC-I O O O O
-(문의) 서울시 영등포구 영등포동 618-271연일빌딩 5층/전화(02) 844-9238 팩스(02) 844-923 .	O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O
-열성팬이 가장 많은 롯데 선수들의 이름이 먼저 떠오르고 이후 각 팀별 주축 선수나 프랜차이즈 스타들이 생각나 +ㄹ 것이다 .	O O O ORG-B O O O O O O O O O O O O O O O
-김인식 한화감독은 "솔직히 팀이 계속 지면서 태균이 생각이 많이 나더라"고 털어놓은 바 있다 .	PER-B ORG-B O O O O PER-B PER-I PER-I O O O O O
-몇 가지를 소개하+여보면 김태균이 자기소개란에 별명을 '장동건, 얼짱, 꽃미남'이라고 적은 것을 빗대 +ㄴ '김얼짱', 유니폼 위단추를 많이 풀어헤치고 달리+ㄴ다고 하+여서 '김펄럭' 등이 있다 .	O O O PER-B O O PER-B PER-I O O O O O PER-B O O O O O O PER-B O O O
-[WHY++] 잘나가던 롯데, 공격 야구한계 맞았나 .	O O ORG-B O O O O
-올 시즌 롯데 타선의 가장 크+ㄴ 특징은 ‘공격적 이+ㄴ타격’이었다 .	O O ORG-B O O O O O O O
-김주찬을 대신 하+여나서 +ㄴ이승화는 수비가 발군이지만 타격감이 썩 좋지 못하다 .	PER-B O O PER-B O O O O O O O
-정규시즌 개막과 함께 맹타를 휘두르던 롯데 타자들의 타격페이스가 영원히 지속되 +ㄹ 수는 없다 .	O O O O O ORG-B O O O O O O O O
-김 코치는 “이승엽의 기분이 많이 좋아지고 있다 .	PER-B O PER-B O O O O O
-이후 며칠간은 경기가 없어 새달 3일부터 나실전에 투입되+ㄹ 전망이다 .	O O O O O O O O O O
-오승환의 체력 .	PER-B O O
-일단 삼성 오승환을 보고 웨이트 트레이닝에 열을 올리게 +었다 .	O ORG-B PER-B O O O O O O O
-봉중근은 “규민이는 후배 +이지만 팀에서 마인드가 가장 좋은 친구+이다 .	PER-B PER-B O O O O O O O O
-“마이너리그 시절만 되살리면 되+ㄹ터+이+ㄴ 데… .	O O O O O O
-유 위원은 “메이저리그 후반기에 부진하였던 것은 스윙 때 숙이던 상체를 바로 세우면서 힘과 정확성을 잃었기 때문”이라면서 “다시 방망이를 짧게 잡고 .	PER-B O O O O O O O O O O O O O O O O O O O O
-서장훈(KCC)의 미들슛과 현주엽(LG)의 어시스트 능력이 결합되었다 .	ORG-B O ORG-B O O O O
-바로 현주엽(LG)의 어시스트 능력을 연상시키는 장면들이 플레이오프와 챔프전에서 계속 나오고 있다 .	O ORG-B O O O O O O O O O O
-김영(28) 이 미국 여자 프로골프(LPGA) 투어 스탠포드 인터내셔널 프로암(총상금 200만달러)에서 공동 선두에 오르며 리더보드를 점령하였다 .	PER-B O O O O O LOC-B LOC-I LOC-I MNY-B O O O O O O
-이미나(27·KTF)와 배경은 (23·CJ)은 소퍼코스에서 나란히 2언더파 69타를 기록하+여아니카 소렌스탐(스웨덴 .	ORG-B PER-B ORG-B O O O O PER-B LOC-B O
-김초롱(24)과 함께 공동 11위로 출발하였다 .	PER-B O O O O O
-워싱턴 팬들은 하얀색 옷을 입고 마치 집회가 열리는 듯 하+ㄴ 분위기를 연출 하+여 클리블랜드에 압박감을 심어 주+었다 .	ORG-B O O O O O O O O O O O O ORG-B O O O O
-아레나스는 경기 개시 전 중계 테이블에 올라가 +아직 접팬들의 함성을 유도하였다 .	PER-B O O O O O O O O O O O
-제임스는 22점7리 바운드를 기록하며 자신이 과대평가되+ㄴ 선수가 아니라는 사실을 증명하였다 .	PER-B O O O O O O O O O O
-▶르브론 제임스, 50득점 10도움 대활 .	PER-B PER-I O O O O
-예선전은 플레이플(Playple. com)에서 5주간 실시간 온라인으로 중계되+ㄴ다 .	O O O O O O O O
-김형성은 25일 제주세인트프레드 골프장(파72ㆍ7466야드)에서 이어 지+ㄴ 둘째 날 경기에서 보기 없이 4개의 버디를 솎아내며 이날 만 4언더파, 합계 3언더파 141 타로 본격적 이+ㄴ 우승진군에 돌입하였다 .	PER-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O
-당초 이 대회 '우승 후보 0순위'로 지목되었던 강경남(25ㆍ 삼화저축은행)은 한편 1언더파를 보태+어 공동 12위(5오버파 149타)로 순위를 끌어올리며 3라운드를 기약하였다 .	O O O O O O O PER-B PER-B O O O O O O O O O O O
-지나+ㄴ 2005년 전 신TG에서 동부로 재창단 하+ㄴ후거두+ㄴ 첫 우승이라는 점에서 기쁨이 더욱 크다 .	O O O ORG-B ORG-B O O O O O O O O O
-궁지에 몰리+ㄴ삼성은 이상민과 이규섭 대신 이원수와 박훈근을 주전으로 내세우는 변칙 전술로 경기를 개시하였다 .	O ORG-B PER-B PER-B O PER-B PER-B O O O O O O O
-삼성은 크게 벌어지었던 점수 차를 10점 내외로 좁히는 데 성공하였다 .	ORG-B O O O O O O O O O O
-삼성은 마지막까지 최선을 다하였지만 동부는 안정되+ㄴ 수비로 추격을 봉쇄하였다 .	ORG-B O O O ORG-B O O O O O
-지나+ㄴ06-07 시즌서장훈과 이규섭이도 하아시안게임 대표팀에 차출되는 사이 강혁-이정석-이원수를 바탕으로 하는 가드농구로 쏠쏠하+ㄴ 재미를 +았다 .	O PER-B PER-B O O O O PER-B O O O O O O O
-그 어느 때보다 변화가 많았던 올 시즌이지만 삼성의 목표는 명확하였다 .	O O O O O O O ORG-B O O O
-삼성은 3차전에서 대접전 끝에 1승을 만회하었지만 전반적으로 동부에 역부족이었다 .	ORG-B O O O O O O ORG-B O O
-동부는 지나 +ㄴ06-07 시즌 5년 만에 처음으로 포스트시즌에 탈락하였다 .	ORG-B O O O O O O O O O
-이원희 나사 제거수술 한국유도의 간판 스타 이원희(25·KRA)가 지난해 5월 수술받은 오른쪽 발목의 뼈를 고정시키+ㄴ나사를 제거하는 수술을 받은 것으로 확인되었다  .	PER-B O O ORG-B O O ORG-B O O O O O O O O O O O O O O
-이신미(익산시청)는 여자 사브르에서 준결승까지 오르았으나 후앙하이양(중국)에게 13-15로 패하+여동 메달에 그치었다 .	ORG-B O O O O LOC-B O O O O O
-1년 만에 팀을 통합 우승으로 이끌며 정상에 오르았다 .	O O O O O O O O O
-김주성은 지나 +ㄴ04-05 시즌에잇어 개인 통산 두번째 챔프전 MVP를 차지하였다 .	PER-B O O O O O O O O O O
-오는 5월 결혼식을 올리+ㄹ 신부와 합의가 되+ㄴ 사항이냐고 묻는 질문에 "아직 얘기 하+여보+ㄴ 적이 없다 .	O O O O O O O O O O O O O O O O
-김주성 의원 주동부가 서울 삼성을 꺾고 2005년 창단 이후 처음이자, 전신 TG 시절 포함 세 번째로 챔피언에 등극하였다  .	PER-B O O ORG-B ORG-I O O O O O O ORG-B O O O O O O O O
-만장일치 MVP는 지나 +ㄴ 시즌 모비스 양동근에잇어 두 번째 +이다 .	O O O O O ORG-B PER-B O O O O
-백업요원이 +ㄴ이 원수와 이정석 박훈근을 선발로 내세우는 삼성의 깜짝 승부수에 잠시 당황하는 듯 +였으나 1쿼터 중반 강혁이규섭 이상민 등주전들이 복귀하는 순간부터 보란듯이 힘을 발휘하+여 1쿼터를 28-11로 마치며 일찌감치 승기를 잡았다  .	O O O PER-B PER-B O O ORG-B O O O O O O O O PER-B PER-B O O O O O O O O O O O O O O
-강원도민의 뜨겁ㄴ 성원이 원주 동부 프로미를 챔프에 오르게 +었다는 성 단장은 “다음 시즌에는 도민과 원주시민들을 위하 +ㄴ 다양하+ㄴ 이벤트와 좋은 내용을 갖고 다시 만나 +ㄹ 것”이라며 “도민의 열렬 하+ㄴ 사랑이 있어 빠르+ㄴ시일 내에 프로농구를 제패하+ㄹ 수 있는 원동력이었다”고 감사하+ㅁ을 전하였다 .	O O PER-B LOC-B ORG-I ORG-I O O O PER-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-선수들은 전 감독의 세심 하+ㄴ 배려에 감동을 받을 때가 많다고 입을 모으았다 .	O PER-B O O O O O O O O O O O
-창단 3년 만에 통합 우승을 차지하는 데 있어서 가장 크+ㄴ 원동력이 +ㅁ이 분명하다 .	O O O O O O O O O O O O O O
-▶포스트시즌서 빛나는 전창진 감독의 역발 .	O O PER-B O O O
-김주성 '정확하+ㄴ미들슛' 딕슨' 파워풀한덩 크슛 .	PER-B O PER-B O O O
-이상민 '빨리 움직이어' 힘 빠지+ㄴ삼성 치어리드 3점 슛성공시키고 독특하+ㄴ 세레모니하는 딕슨 쐐기를 박는 3점 슛성공시키+ㄴ강대협이 환호하고 있다 .	PER-B O O O ORG-B ORG-I O O O O PER-B O O O PER-B O O O
-내쉬가 전성기를 누리던 지나 +ㄴ 3년간 전문가들은 "내쉬를 직접 막는 것은 어렵다 .	PER-B O O O O O O PER-B O O O O O
-오닐은 총 17개의 자유투를 던지+어 9개 성공에 그치었다 .	PER-B O O O O O O O O
-댈러스는 지나 +ㄴ 97-98 시즌 이후 뉴올리언스(전신샬 럿 시절 포함)에 단 한 번도 홈경기에서 패하+ㄴ적이 없다 .	PER-B O O O O O ORG-B O O O O O O O O O O
-▶ "르브론은 과대평가 되었다? .	O PER-B O O O
-"저, 반칙하였어요"샌안토니오는 2007-08 플레이오프 서부 컨퍼런스 1 라운드에서 '핵-어-샤크'로 재미를 보고 있다 .	O ORG-B O O O O O O O O O O O
-돈 넬슨 감독이 댈러스 매버릭스를 지도하던 시절 처음으로 시도하였고 이후 여러 팀들이 이와 같은 전술로 레이커스에 맞서 +었다 .	PER-B PER-I O ORG-B ORG-I O O O O O O O O O O ORG-B O O O
-'핵-어-샤크' 전술이 시도되+ㄹ 때 오닐이 자유투 2개를 모두 놓치 +ㄴ 경우는 그리 많지 않다 .	O O O O PER-B O O O O O O O O O O
-따라서 '핵-어-샤크' 전술은 피닉스의 주요 공격 옵션을 애초에 차단 하+여 공격리듬을 무너뜨리는 효과를 낳고 있다 .	O O O ORG-B O O O O O O O O O O O O
-피닉스는 지나 +ㄴ 2월 전반적으로 골밑이 강 하+ㄴ서부 컨퍼런스에서 살아남기 위하+여, 또한 고질적이+ㄴ 약점이던 골밑수 비력을 끌어올리기 위하+여팀 전술의 핵심이 +ㄴ숀 매리언을 포기하고 오닐을 영입하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O PER-B PER-I O PER-B O O
-샌안토니오에도 자유투가 형편없는 선수들이 많다 .	ORG-B O O O O O
--저스틴 레너드, 션오헤어, 양용은 등 ‘승’ 기록 …배당률 385.0배나 오 .	PER-B PER-I PER-B PER-B O O O O O O O
-전날 단독 선두에 나서+어 '한국낭자군'의 올 시즌 첫승에 대하+ㄴ '기대치'를 높이었던 김영은 27일(한국시간) 미국 플로리다 주 마이애미 인근 페어몬트턴베리아일골프장소퍼 코스(파71ㆍ6244야드)에서 끝나 +ㄴ 셋째 날 경기에서 2타를 잃어 '여제' 아니카 소렌스탐(스웨덴)에게 선두 자리를 내주었다 .	O O O O LOC-B O O O O O O PER-B LOC-B LOC-B O O LOC-B O LOC-B LOC-I O O O O O O O O PER-B ORG-B O O O O
-김영은 12번홀(파4)과 14번홀(파4)에서 보기 2개를 더 하+여 결국 선두권에서 밀려나 +았다 .	PER-B O O O O O O O O O O O
-미국 프로농구(NBA)의 수퍼스타트레이 시 맥그래디(휴스턴 로케츠)의 표정이 점점 어둡어지고 있다 .	O O O O ORG-B ORG-I O O O O O
-그러나 이때 메멧오쿠어가 결정적 이+ㄴ 공격리바운드를 잡아내면서 양 팀의 명암이 엇갈리었다 .	O O PER-B O O O O O O O O O
-한편, LA레이커스와 올랜도 매직 역시 2라운드 진출에 1승만을 남기+어+두었다 .	O ORG-B ORG-B ORG-I O O O O O O
-농구 3점 슛라인 0.5m 멀어 지+ㄴ 다… 한국도 내년 가을 도 .	O O O O O O O ORG-B O O O O
-당초 미국 프로농구(NBA)처럼 7.25m까지 늘리자는 의견도 있었으나 다수가 완만 하+ㄴ 변화를 지지하+여 0.5m를 늘리는 선에서 결정되었다 .	O O O O O O O O O O O O O O O O O
-애틀랜타 호크스가 2007~2008 미국 프로농구(NBA)의 강력 하+ㄴ 우승 후보 이+ㄴ보스턴을 잡는 이변을 연출하였다 .	ORG-B ORG-I O O O O O O O ORG-B O O O O
-그리고 애+ㄹ 호퍼드(17점) 등 주 전 선수들이 고르+ㄴ 활약을 펼치었다 .	O PER-B PER-I O O O O O O O O
-올랜도 매직은 토론토랩터스를 106-94 유타 재즈는 휴스턴 로케츠를 86-82로 꺾고 각각 3승 1패를 만들어 1승만 보태면 4강 플레이오프에 나가게 되+ㄴ다 .	ORG-B ORG-I ORG-B O ORG-B ORG-I ORG-B ORG-I O O O O O O O O O O O O O
-2002년 3월 12일 제33대 김운용 회장이 중도사퇴하면서 회장 직무대행직을 맡아 그해 5월 29일 제34대 이연택 회장이 취임하+ㄹ 때까지 회장 직무대행직을 수행하+ㄴ바 있다 .	O O O O PER-B O O O O O O O O O PER-B O O O O O O O O
-박현순 상벌위원장은 “국내 개막전이었기 때문에 언론과 팬들의 이목이 집중되 +ㄴ 경기+이었고 송보배는 주최사로부터 초청을 받은 선수+이었다”며 “다른 선수들에게 모범을 보이어야 하+ .	PER-B O O O O O O O O O O O O O O O O O O O O O
-내심 우승을 노리었으나 ‘탱크’ 최경주(38·나이키골프)와의 동반 라운드(3라운드)가 문제+이었다 .	O O O O ORG-B O O O O
-그리고 일요일이+ㄴ 27일 제주도세인트포 골프＆리조트 프레드코스(파72·7466야드)에서 열리+ㄴ대회 최종 라운드 .	O O O LOC-B LOC-I LOC-I O O O O
-2006년 KPGA 선수권 우승 후 18개월 만에 생애 두 번째 우승에 성공하+ㄴ 김형성은 우승 상금 6000만원을 차지하+여 시즌 상금을 9713만원으로 늘리며 상금 랭킹 2위로 뛰어오르았다 .	O O O O O O O O O O O O PER-B O O MNY-B O O O MNY-B O O O O O O
-이틀 연속 4언더파 67타를 때리+어 단독 선두를 달리 +ㄴ 김영은 ‘무빙 데이’이+ㄴ 3라운드에서 오버파를 기록하+여우승 경쟁에서 한발 물러나 +았다 .	O O O O O O O O O PER-B O O O O O O O O O O
-김미현(31·KTF)은 합계 이븐파 212 타로 공동 10위에 자리하었다 .	ORG-B O O O O O O O O
-○… 챔프 전 MVP까지 섭렵하+ 여 최초의 한 시즌 MVP3관왕에 오르+ㄴ 김주성의 가족과 약혼녀 박지선씨도 이날 행사에 참석하였다  .	O O O O O O O O O O O PER-B O O PER-B O O O O O
-○… 선수단은 지역구이계진 국회의원(한나라당)이 챔프전 우승팀에 것+ㄴ 횡성한우 한마디를 어떻게 처리 하+ㄹ까 행복하+ㄴ 고민을 +였다  .	O O PER-B ORG-B O O O LOC-B O O O O O O O O O
-양구에서 체력과 정신력 강화 위주의 전지훈련을 실시하+ㄴ 우리은행 선수들은 이날 처음으로 볼을 만지며 실전 감각을 조율하였다 .	LOC-B O O O O O O ORG-B O O O O O O O O O
-29일부터 순차적발매 마 .	O O O O
-[NBA뉴스] 샌안토니오, 피닉스와의 경기 서 첫 패 .	O ORG-B ORG-B O O O O O
-하지만 NBA 7전 4선 승제 플레이오프 사상 3연패 하+ㄴ팀이 상 위 라운드에 오르+ㄴ 것은 한 차례도 없다 .	O O O O O O O O O O O O O O O O O O
-프로농구 원주 동부가 통합우승 후 실제적 이+ㄴ 고민에 빠지었다 .	O ORG-B ORG-I O O O O O O O
-이 때문에 지나 +ㄴ 시즌 연봉 2억원 이상 받은 선수 27명 가운데 동부선수는 김주성 한 명밖에 없었다 .	O O O O O O MNY-B O O O MNY-B O ORG-B PER-B O O O O
-새롭게 프로에 뛰어들는 신이+ㄴ 윤호영의 연봉으로 1억원 언저리를 지급하면 ‘땡처리’가 되는 처지+이다 .	O O O O PER-B O MNY-B O O O O O O
-피닉스의 반격 … 샌안토니오 꺾고 기 사회 .	ORG-B O O ORG-B O O O O
-피닉스는 초반부터 벨의 득점이 활발하게 터지+ㄴ 데 힘입어 1쿼터를 34-13으로 마치 +어승기를 잡았다 .	ORG-B O PER-B O O O O O O O O O O O
-시즌 첫 우승을 위하+여 공격적 이+ㄴ플레이를 펼치+ㄹ 안선주에게 힘이 실리+ㄴ다 .	O O O O O O O PER-B O O O
-김혜정 도 지난해 4언더파를 기록하였을 정도로 코스와 궁합이 좋다 .	PER-B O O O O O O O O O
-김창윤-김형성(3그룹) .	ORG-B O
-장정-루이제프리베리(2그룹) .	ORG-B O
-한편 승무패 10, 11회 차 게임은 오는 29일(화)과 30일(수)오후 11시50분에 각각 발매 마감되며 .	O O O O O O O ORG-B TIM-B TIM-I O O O O
-크리머는 경기 후 티샷에 대하+여 “부주의 하+ㄴ샷”이라고 후회하였다 .	PER-B O O O O O O O O
-개막전이+ㄴ SBS 오픈 우승 후 시즌 두 번째 우승에 성공하+ㄴ소렌스탐은 연장전전적에서도 22전 16승 6패를 기록하였다 .	O O O O O O O O O PER-B O O O O O O
-지은희(22·휠라코리아)와 박희영(21·이수건설)이 나란히 합계 2언더파 281 타로 공동 9위를 각각 기록하였다 .	ORG-B ORG-B O O O O O O O O O O
-스캇은 18번홀(파4)에서 치르+ㄴ 연장세 번째 홀에서 티샷을 벙커에 빠뜨리+어패색이 짙었으나 두 번째 샷을 그린 에 올리+ㄴ 후 15m 거리의 장거리 버디퍼트를 성공시키+어 대 반전을 이끌어내 +었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-양용은(36·테일러메이드)과 나상욱(24·코브라 골프)은 나란히 합계 7오버파 287 타로 공동 50위를 기록하였다 .	ORG-B ORG-B ORG-I O O O O O O O O O
-장 선수는 볼이 움직이었음에도 불구하고 원위치시키지 않고 퍼팅을 +였고 몇 홀이 지나 +아경기 위원에게 그 상황을 문의하게 +었다 .	PER-B O O O O O O O O O O O O O O O O O O
-고충남(대한골프협회 경기위원 .	ORG-B O O
-10년 만에 거두+ㄴ 승리의 의미는 +었다 .	O O O O O O O
-급격히 무너지+ㄴ 댈러스는 다시는 경기 양상을 대등하게 만들지 못하였다 .	O O PER-B O O O O O O O
-제이씨엔터테인먼트(대표 김양신, www.jceworld. com)는 자사가 개발 및 서비스하는 농구 온라인게임 '프리스타일'의 게이머들을 초청하+여'FS클럽 파티'를 진행하였다고 금일(28일) 밝히었다 .	ORG-B PER-B O O O O O O O O O O O O O O O O
-정부는 현재 부가되고 있는 개별소비세(특별소비세)와 체육진흥기금은 폐지하고 골프장에 대하+ㄴ종합부동산세, 재산세, 취득세 등은 경감시키+어줌으로서 1인 기준 그린피가 3만, 5만원 인하되는 효과가 발생하+ㄹ 것으로 전망하고 있다 .	O O O O O O O O O O O O O O O O MNY-B MNY-B O O O O O O O
-특히 올 시즌에는 농구토토매치 게임에서만 1천만 참여자를 돌파하는 등 어느 때보다 다양하+ㄴ 기록이 쏟아지며 그 인기를 실감하게 +였다 .	O O O O O O O O O O O O O O O O O O O
-국내 프로농구 및 미국 프로농구 NBA게임을 대상으로 발행되+ㄴ 농구토토승5패 게임은 모두 17개 회차에서 134만 2, 751명이 게임에 참여하였다 .	O O O O O O O O O O O O O O O O O O O
-장정은 승부욕이 강 하+ㄴ 선수+이다 .	PER-B O O O O O
--주소창에 '스포츠'만치시 면 스포츠서울닷컴 기사가 한눈에 .	O O O O O O O
-누가 보+아도 김형성의 우세다 .	O O PER-B O O
-반면 지나 +ㄴ 겨울 교통사고로 부상을 당하였던 최광수(동아제약)는 아직 완전 하+ㄴ 상태가 아니다 .	O O O O O O O ORG-B O O O O O O
-이지영(하이마트)은 장타력이 빛을 발하+ㄹ대회+이다 .	ORG-B O O O O
-구단 사장직은 계속 유지하기로 한 라일리 전 감독은 “스폴스트+이라는 최근 보기 드물+ㄴ 젊고 능력 있는 지도자 +이다 .	O O O O O PER-B O O PER-B O O O O O O O O O
-NBA 8년차 베테랑이+ㄴ 그는 올랜도의 전 경기에 선발로 출장 .	O O O O ORG-B O O O O O
-남자 프로농구 한 경기를 대상으로 모두 79개 회차가 발행되+ㄴ 농구토토매치 게임은 올 시즌 1000만 참여자를 돌파하였다 .	O O O O O O O O O O O O O O O O O
-누적 참여 인원에서도 2007 시즌 겨울리그(386만 3932명)에 비하+여 209.5％가 늘어나 +ㄴ 809만 5265명이 게임에 참가하는 등 WKBL에 대하+ㄴ인기와 관심을 높이는 데크+ㄴ 역할을 담당하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-8개 구단 31명이 FA가 되는 올해에는 거물급으로는 전희철(35·SK).우 지원(35·모비스). 김병철(35·오리온스) .	O O O O O O O ORG-B ORG-B ORG-B O
-이 가운데 우 지원. 김병철은 연봉 20위 내 선수들이기 때문에 이적시 보상선수 1명 연봉 100％ 또는 연봉 300％를 원 소속 구단에 물어야 하는 걸림돌도 부담이 되+ㄹ 전망이다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-◆골프 유망주정지호 .	O PER-B O
-다음달 22일 몽골에서 열리는 제4회 동아시아보디빌딩 ＆ 휘트니스 선수권대회 대표선수 선발 전도 겸 하+ㄴ다 .	O O LOC-B O O O O O O O O O O O O
-보스턴은 3쿼터까지 75-65로 앞서 +었으나 애틀랜타는 4쿼터 시작과 함께 존슨과 스미스의 외곽포를 앞세우어 순식간에 점수 차를 3점으로 좁히었다 .	ORG-B O O O O ORG-B O O O PER-B PER-B O O O O O O O O
-당초 보스턴의 압도적 이+ㄴ 우세가 예상되었으나 애틀랜타가 홈 2연전을 독식하면서 반격의 발판을 마련하였다 .	O ORG-B O O O O ORG-B O O O O O O O
-레이커스는 29일(한국시간) 콜로라도 주 덴버펩시센터에서 열리+ㄴ 2007-08 플레이오프 서부 컨퍼런스 1 라운드 4차전에서 31점 7리 바운드6 어시스트를 올리+ㄴ 브라이언트를 앞세우어 107-101로 승리, 4연승으로 2라운드 진출을 확정짓었다 .	ORG-B LOC-B O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O
-파우가 솔은 21점 7리 바운드 4블록슛으로 활약하였다 .	PER-B O O O O O O O
-현재 유타가 3승 1패로 앞서 +어 있어 2라운드 진출이 유력 하+ㄴ 상황이다 .	O ORG-B O O O O O O O O O O O
-속초고가 중·고연맹 회장배 대회에서 우승을 차지하+ㄴ 적은 아직 없다 .	ORG-B O O O O O O O O O
-원주 동부챔피언 감동 ‘한번 더 .	ORG-B ORG-I O O O O
-이병덕(37·원주시 원동)씨는 “프로농구를 통하+여원주가 전국적으로 유명 하+ㄴ도시가 되+ㄴ 것은 부인 하+ㄹ 수 없는 일”이라며 “더욱이 원주 동부가 프로농구 최고의 자리에 오르+ㄴ만큼 행사 당일 꼭 참석 하+여 모든 원주시민과 함께 기쁨을 나누고 싶다”고 +였다 .	LOC-B LOC-B O ORG-B O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O LOC-B O O O O O O
-뉴올리언스는 올 시즌 56승 26 패를 기록하+여전 신샬 럿 시절을 포함, 창단 이래 최고 승률을 기록하였다 .	ORG-B O O O O O O O O O O O O O O O O
-올해의 감독상 트로피의 명칭이+ㄴ 레드아워벅 감독은 1950~60년대 보스턴 왕조를 이끌며 NBA 역대 공동 최다 이+ㄴ 통산 9회 우승(필잭슨 LA레이커스 감독과 타이)을 차지하+ㄴ 명장이다 .	O O O O PER-B O O ORG-B O O O O O O O O O PER-B ORG-B O O O O O
-김경태는 1일 경기도 성남시 남서울골프장(파72ㆍ6961야드)에서 개막하는 이번 대회를 앞두고 "짧지만 깊었던 슬럼프는 이제 완전히 극복하였다"면서 강 하+ㄴ 자신감을 드러내+었다 .	PER-B O LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O
-남서울 골프장 소속 이+ㄴ 김경태로써는 코스를 손바닥 들여다보듯이 세밀하게 알고 있다는 것도 든든하다 .	ORG-B ORG-I O O PER-B O O O O O O O O O
-재기를 노리는 김대섭(27ㆍ SK텔레콤)과 김형태(31.테일러 메이드) 등이 '복병'으로 지목되고 있다 .	O O PER-B ORG-B PER-B O O O O O O
-특히 이 게임은 최근 게임과 같은 주인공이 +ㄴ '랫소'가 활약하는 애니메이션 '미운 오리새끼와 랫소의 모험'이 출시되+어시너지 효과를 얻고 있다 .	O O O O O O O O PER-B O O O O PER-B O O O O O O
-지정선수별 1라운드 예상 스코어는 필 미켈슨과 비제이싱의 경우 모두 3~4언더를 기록하+ㄹ 것이라는 전망이 각각 38.55%, 29.37%로 가장 많았다 .	O O O O PER-B PER-I PER-B O O O O O O O O O O O O
-한편 골프토토 스페셜26, 27회 차 게임은 다음달 1일 오후 6시50분, 7시 50분에 각각 발매가 마감되 +ㄴ다 .	O O O O O O O O O O O O O O O O O
-그랜드 차이나 에어LPGA는 아시아 시리즈의 일환으로 열리+ㄴ다 .	O O O LOC-B O O O O
-미국 프로농구(NBA) 샌 안토니오 스퍼스가 피닉스선즈를 따돌리고 서부 컨퍼런스 플레이오프 2라운드에 진출하였다 .	ORG-B ORG-B O O O ORG-B O O O O O O O
-이로써 피닉스는 작년에잇어 올해 플레이오프에서도 샌안토니오의 벽을 넘지 못하였다 .	O ORG-B O O O ORG-B O O O O
-샌안토이오는 이날 댈러스 매버릭스를 99-94로 누르고 4승 1패로 2라운드 진출을 결정짓은 뉴올리언스 호네츠와 서부 컨퍼런스 결승 진출을 놓고 맞붙는다 .	ORG-B ORG-I ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O
-제1회 외발자전거 전국대회를 열는 것+이 계기로 앞으로 많은 사람들이 관심을 가지+어주시고 또 1년여밖에 안 되었는데 이렇게 시합을 하+ㄹ 수 있게끔 크게 번창하였습니다 .	O O O O O O O O O O O O O O O O O O O O O O O
-1번홀에서 출발하+ㄴ 원윤정도 14번홀까지 버디 6개를 잡아 단독 선두를 달리었으나 파3홀 이+ㄴ 15번홀에서 3온1 퍼트로보기를 범하+여 공동 선두에 만족 하+여야 +였다  .	O O PER-B O O O O O O O O O O O O O O O O O O O O
-속초고는 지난달 30일 단양문화체육센터에서 열리+ㄴ남고 부 결승전에서 강호남성고를 맞아 불꽃 튀는 접전 끝에 세트스코어 2대 3으로 역전을 허용하며 정상 문턱에서 고배를 마시었다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O
-송추(사진)가 6000만원이나 떨어지는 등 가격대를 막론하고 일제히 급락세다 .	ORG-B MNY-B O O O O O O O
-태영에잇어 남서울과 뉴서울, 태광, 기흥 등 수도권 근교의 이른바 '근거리 골프장'들이 모두 하락세+이다 .	ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O O
-로레이나 오초아(멕시코)가 재충전을 마치고 필드에 복귀하였다 .	PER-B ORG-B O O O O O
-오초아는 또한 아이언샷의 정확성을 보이어주는 그린 적중률도 81％로 1위를 달리고 있어 1라운드부터 몰아치기에 나서 +ㄹ 가능성이 높다 .	PER-B O O O O O O O O O O O O O O O O O
-김미현은 오초아, 폴라크 리머(미국)와 함께 1, 2라운드를 치르+ㄴ다 .	PER-B PER-B PER-B ORG-B O O O O O
-골프대회의 부침이 심하+ㄴ한국에서 27년째 한결같이 열리는 대회가 있다는 것도 의미가 있지만 첫 대회부터 27년간 연속 출전기록을 세우+ㄴ 최상호의 골프 인생 역시 놀랍기는 마찬가지+이다 .	O O LOC-B O O O O O O O O O O O O O O PER-B O O O O O O
-오랜 시간 남서울 CC의 헤드프로로 재직 중 이+ㄴ 최상호는 남서울의 ‘터줏대감’으로 불리+ㄹ 정도로 페어웨이와 러프의 잔디 특성이나 그린의 라인을 손금 보듯 훤히 알고 있다 .	O O ORG-B ORG-I O O O O PER-B ORG-B O O O O O O O O O O O O O O O
-국가대표 출신 기대주 이+ㄴ 노승열이다 .	O O O O PER-B O
-4차전 도중 알호포드에게 위협적 이+ㄴ 동작을 취하+여2만5000달러의 벌금을 물게 되+ㄴ 폴피어스는 이날 22점7리 바운드6 어시스트로 활약하였고 케빈 가넷은 20점 7어 시스트5리 바운드를 올리었다 .	O O PER-B O O O MNY-B O O O PER-B O MNY-B O O O PER-B PER-I MNY-B O O O O O
-9홀스트로크 플레이 대결로 진행되는 이 프로그램에서 김 회장은 1989년 고정주영 회장과 함께 첫 방북을 하면서 맺게 되+ㄴ 북한과의 인연, 이후 소떼 방북으로 시작되+ㄴ 대북사업의 역사와 앞으로의 대북사업계획 등을 밝히+ㄴ다 .	O O O O O O PER-B O O PER-B O O O O O O O ORG-B O O O O O O O O O O O O
-이 매장은 김영주 골프에서 선정 하+ㄴ VIP 고객 위주의 멤버십 형태로 운영되+ㄴ다 .	O O ORG-B ORG-I O O O O O O O O O
-강지만은 당시 최경주(38ㆍ나이키골프)가 출전하였던 신한동 해 오픈 우승 이외에 '내셔널 타이틀' 한국 오픈 준우승과 KPGA 선수권 4위 등 '크+ㄴ대회'에 강하+ㄴ 면모를 보이며 상금 랭킹 3위까지 오르았던 선수+이다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-[스포츠토토] 골프토토 스페셜 5월 한 달간 19차례 시 .	O O O O O O O O O
-스포츠토토 관계자는 “녹음이 찾아오는 5월에 골프토토게임이 스페셜 11차례, 승무패 8차례 등 모두 19차례 국내 골프 팬들을 찾아가 +ㄴ다”며 “지나 +ㄴ 4월 첫 선을 보이+ㄴ 승무패 게임이 모두 12개 회차가 진행되+ㄴ 가운데 골프팬들의 크+ㄴ 관심과 사랑을 받아 골프토토게임 참여 열기가 더욱 뜨겁ㄹ 것으로 보이+ㄴ다”고 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-일주일 휴식 후 5연승에 도전장을 던지+ㄴ오초아는 2오버파73 타로 부진하+여 공동 14위로 출발하였다 .	O O O O O PER-B O O O O O O O
-한편 베스베이더(미국)는 14번 홀까지 박희영과 공동 선두를 달리었으나 16~18번홀에서 3연속 보기를 범하+여 결국 1오버파 72타 .	O LOC-B O O PER-B O O O O O O O O O O O
-김주성과 찰떡궁합을 이루었던 동부의 용병 레지오코사는 최우수 외국인 선수상과 베스트5의 주인공이 +었으며 삼성의 가드 이상민이 우수 선수상을 받았다 .	PER-B O O ORG-B O PER-B O O O O O O ORG-B O PER-B O O O O
-신인왕 김하늘, 휘닉스파크 클래식 첫 우 .	O PER-B O O O O O
-14번 홀버디로 선두 김하늘을 1타차까지 압박 하+ㄴ 신지애는 나머지 네홀에서 모두 버디 기회를 만들었으나 퍼팅이 따르 아주지 않아 준 우승에 만족 하+여야 +였다  .	O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O
-황인춘은 2일 경기도 성남시 남서울골프장(파72ㆍ6961야드)에서 이어 지+ㄴ 둘째 날 경기에서 무려 8개의 버디(보기 1개, 더블보기 1개)를 솎아내 +었다 .	PER-B O LOC-B LOC-B LOC-B O O O O O O O O O O O O O O
-'디펜딩 챔프' 김경태(22ㆍ신한은행)는 한편 아이언샷의 그린 적중률이 절반으로 떨어지는 난 조 속에서도 1언더파를 추가 하+여 공동 7위(4언더파 140타)에서 '대회 2연패'를 향하+여 어렵ㄴ 진군을 거듭하고 있다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-이로써 클리블랜드는 3년 연속 워싱턴과의 플레이오프 시리즈를 승리로 장식하였다 .	O ORG-B O O ORG-B O O O O O
-하지만 저비악의 3점슛과 제임스의 앨리 웁덩크가 터지면서 클리블랜드의 기세는 더욱 오르았고 워싱턴이 승부를 뒤집기는 역부족이었다 .	O PER-B O PER-B O O O ORG-B O O O ORG-B O O O O
-정규시즌 37승 45패, 5할승률도 채 되지 않는 성적으로 플레이오프 막차에 탑승 하+ㄴ 애틀랜타가 66승 16패로 전체 1위에 오르+ㄴ보스턴을 상대로 7차전까지가+ㄹ 것으로 예상 하+ㄴ사람은 없었다 .	O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O
-흐름을 되돌리+ㄴ 애틀랜타는 86-89로 뒤지+ㄴ4쿼터 중반 연속 7점을 몰아넣어 전세를 뒤집었다 .	O O ORG-B O O O O O O O O O
-애틀랜타는 주전 5명을 비롯하+여 총 6명의 선수가 두 자릿수 득점을 기록하였다 .	ORG-B O O O O O O O O O O O
-이로써 맥그래디는 개인 통산 7번째 플레이오프 무대에서도 1라운드의 벽을 넘지 못하였다 .	O PER-B O O O O O O O O O O
-부저는 19점 13리 바운드를 기록하였고 윌리엄스는 팀 내 최다 이+ㄴ 25점 9어 시스트를 올리었다 .	PER-B O O O O PER-B O O O O O O O O O
-뉴올리언스는 올 시즌 창단 최고 승률이 +ㄴ 56승 26 패를 기록하+여샌 안토니오, 휴스턴 로케츠, 댈러스 매버릭스 등 쟁쟁하+ㄴ 라이벌들을 제치고 사우스웨스트지구 정상을 차지하였다 .	ORG-B O O O O O O O O O O O ORG-B ORG-I ORG-B ORG-I O O O O ORG-B O O O
-한편, 필라델피아 세븐티식 서스를 힘겹게 따돌리고 동부 컨퍼런스 4강에 오르+ㄴ 디트로이트 피스톤스는 올랜도 매직을 91-73으로 대파하고 먼저 1승을 따 +아내 +었다 .	O ORG-B O O O O O O O O ORG-B ORG-I ORG-B ORG-I O O O O O O O O
-반면 노승열은 드라이버 샷이 페어웨이 오른쪽 나무 근처에 떨어지+어 위기를 자초하+ㄴ 뒤 두 번째 샷도 길어 그린을 넘기었고 칩샷 후 남기+ㄴ 3m 거리의 파퍼트마저 놓치었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-그러나 17번홀(파3)에서 티샷 실수로 그린을 놓치 +ㄴ 뒤 어 프로치샷마저 짧아 결국 5m 거리의 파퍼트를 남기었고 이를 넣지 못하+여 연장 승부로 끌리+어 들어가 +아야 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-앤서이니 김생애 첫 우승 기 .	PER-B PER-I O O O O
-앤서니 김이 이 대회에서 우승하+ㄴ다면 세계톱 랭커들과 어깨를 나란히 하게 되+ㄴ다 .	PER-B PER-I O O O O O O O O O O
-이강래기자-주소창에 '스포츠'만치시 면 스포츠서울닷컴 기사가 한눈에 .	PER-B O O O O O O
-○…테일러 메이드-아디다스 골프는 보+ㄹ스피드와 비거리를 높이 +ㄴ ‘투어 버너 아이언’을 출시하였다 .	O ORG-B ORG-I O O O O O O O O O
--주소창에 '스포츠'만치시 면 스포츠서울닷컴 기사가 한눈에 .	O O O O O O O
-지나+ㄴ 주 남 서울 CC에서 열리+ㄴ매경 오픈에서 발생하였던 사례+이다 .	O O O O O O O O O O
-만일 강경남 선수가 경기위원의 도움을 받지 않고 왼쪽으로 구제를 받아 플레이하였다면 오소에서의 플레이로 벌을 받을 수도 있었던 상황이었다 .	O PER-B O O O O O O O O O O O O O O O O O
--주소창에 '스포츠'만치시 면 스포츠서울닷컴 기사가 한눈에 .	O O O O O O O
-크리머는 4일 오전(한국시간) 미국 오클라호마 주털사 인근 시더리지 CC(파71·6602 야드)에서 열리+ㄴ대회 3라운드에서 2타를 줄이어 합계 3언더파 210타로 줄리잉 스터(미국)를 2타차로 앞서 +었다 .	PER-B O LOC-B LOC-B O LOC-B O LOC-B LOC-I O O O O O O O O PER-B LOC-B O O O O
-첫날 선두+이었던 루키 박희영(21·이수건설)은 버디 1개에 보기 8개 더블보기 1개를 쏟아내는 난 조 끝에 9타를 잃어 합계 11오버파 224 타로 공동 40위로 내려앉았다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-황인춘은 4일 경기도 성남시 남서울골프장(파72ㆍ6961야드)에서 끝나 +ㄴ 매경 오픈(총상금 6억원) 최종일4언더파 68타를 치+어합계 9언더파 279타로 노승열(17ㆍ타이틀리스트)과 동타를 이루+ㄴ 뒤 18번홀(파4)에서 속개되+ㄴ 연장 첫 번째 홀에서 천금 같은 우승 파세이브로 기어코 우승컵을 품에 안았다 .	PER-B O LOC-B LOC-B LOC-B O O O O MNY-B O MNY-B O O O ORG-B O O O O O O O O O O O O O O O O O O
-2005년 13세 8개월의 나이로 최연소 국가대표에선발되었던 노승열은 중학교 2학년 당시 한국아마추어 골프선수권을 제패하는 등 '천재골퍼'로 두각을 나타내 +었던 선 .	O O O O O O PER-B O O O O O O O O O O O O O
-'핑크공주' 폴라크 리머(미국 ㆍ사진)가 연장 혈투 끝에 '시즌2승'을 일구+어내 +었다 .	O PER-B ORG-B O O O O O O O O
-최고령 우승에 도전하였던 잉스터는 반면 지난해에잇어 2년 연속 연장전패배+이라는 진기록을 남기었다 .	O O O PER-B O O O O O O O O
-'골프 황제' 타이거 우즈(미국)의 부재를 틈타 +아 '넘버2' 필 미켈슨(이상) 등 빅스타들이 오래전부터 군침을 삼키었던 대회+이다 .	O O PER-B ORG-B O O O O PER-B ORG-B O O O O O O O
-앤서니 김은 이날 전반에만 4개의 버디를 솎아내며 일찌감치 우승을 확정짓었다 .	PER-B PER-I O O O O O O O O O
-1985년 미국 LA에서 태어나 +ㄴ 앤서니 김(한국명 김하진)이 본격적으로 골프를 시작하+ㄴ 것은 네 살 때 +이었다 .	O LOC-B LOC-B O O PER-B PER-I PER-B O O O O O O O O O
-우들리 등 LA 인근 퍼블릭 코스에서 아들과 함께 라운드하며 골프의 세계로 이끌어주+었다 .	PER-B O LOC-B O LOC-B LOC-I O O O O O O O
-앤서니 김은 대학 3학년 때 이+ㄴ 2006년 7월 US아마퍼블릭 링크 챔피언십 준우승을 끝으로 프로로 전향하었다 .	PER-B PER-I O O O O O O O O O O O O O O
-평균 299.8야드를 기록하+여아담스캇(297.7야드)이나 필 미켈슨(293.0 야드) .	O O PER-B PER-B PER-I O O
-한동안 고민에 빠지+어 있던 앤서니 김의 결론은 “더 이상 코스에서도박을 하지 말자”+이었다 .	O O O O PER-B PER-I O O O O O O O
-투어 경력이 풍부하+ㄴ베테랑 캐디를 영입하+ㄴ 후한 결플레이가 안정감을 찾게 +었고 2주 전 버라이즌 헤리티 +하지 준우승에잇어 이번 주와 코비아 챔피언십 우승을 거두는 절대적 이+ㄴ 힘이 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-아시안(APGA) 투어에 '노승열 바람'이 불고 있다 .	O O PER-B O O O O
-아시아무대의 경험을 바탕으로 올 가을에는 KPGA 투어는 물론 일본 무대 진출을 계획하고 있다 .	LOC-B O O O O O O O LOC-B O O O O O
-8일 발매 마 .	O O O O
-승무패 게임이 시작되+ㄴ 4월의 골프토토발매를 살펴보면 그 구분이 명확하다 .	O O O O O O O O O O
-국내 팬들은 이에 따르 아내년에는 특히 마스터스가 열리는 오거스타 내셔널 골프장에서 '탱크' 최경주(38ㆍ나이키 골프)와 함께 두 명의 한국(계) 선수들이 활약하는 모습을 보+ㄹ 수 있게 +었다 .	O O O O O O O O LOC-B LOC-I LOC-I O PER-B O O O O ORG-B O O O O O O O O
-5일(한국시간) 벌어 지+ㄴ 최종 라운드도 다르지 않았다 .	LOC-B O O O O O O O
-앤서니 김은 지난해 이 대회 1, 2라운드에서 78-83 타를 치+어 예선 탈락하였다 .	PER-B PER-I O O O O O O O O O O O
-승무패 게임이 시작되+ㄴ 4월의 골프토토발매를 살펴보면 그 구분이 명확하다 .	O O O O O O O O O O
-코스 특성상 장타력이 위력을 발휘하기 때문에 오초아가보다 많은 버디를 잡을 것으로 예상되 +ㄴ다 .	O O O O O O PER-B O O O O O O O
-이선화(CJ)는 우승 경험이 있지만 테레사루(대만)는 그렇지 못하다 .	ORG-B O O O ORG-B O O O
-중국 상하이에서 열리+ㄴ KEB인 비테이셔널에서 배상문(22·캘러웨이)이 개막전 우승의 영예를 안았고 잇어 일본에서 열리+ㄴ에머슨퍼시픽 돗토리현 오픈에서는 이승호(22·투어 스테이지)가 정상에 오르았다 .	LOC-B LOC-B O O O ORG-B O O O O O LOC-B O O O ORG-B ORG-I O O O
-신지애는 지난해 12월 열리+ㄴ 2008 시즌 개막전이+ㄴ 차이나레이디스 오픈과 우리투자증권 레이디스 챔피언십에서 우승하+여 올 시즌 유일하게 2승을 기록 중이지만 ‘어떤 대회든 나가기만 하면 우승하+ㄹ 것 같았던’ 기세는 한풀 꺾이었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이강래기자-주소창에 '스포츠'만치시 면 스포츠서울닷컴 기사가 한눈에 .	PER-B O O O O O O
-김혜정과 윤슬아 모두 대회 코스에서 언더파를 기록하+ㄹ 수 있는 선수들이다 .	PER-B PER-B O O O O O O O O O
-썩 나쁘지 않은 성적 같아 보이지만 챈들러의 수비에 막히+어 경기 내내 이렇다 하+ㄹ 영향력을 발휘하지 못하였다 .	O O O O O O PER-B O O O O O O O O O O
-당시 샌안토니오는 서부 컨퍼런스 결승에서 LA 레이커스에 4전전패를 당하였다 .	O ORG-B O O O ORG-B ORG-I O O O
-대한농구협회는 6일 2008베이징 올림픽 최종 예선(7월14~20일 그리스 아테네)에 출전하+ㄹ 남자 농구대표팀 엔트리12명을 확정 발표하였다  .	ORG-B O O O O O LOC-B LOC-B O O O O O O O O
-대표팀은 6일부터 경기도 용인 KCC체육관에서 오후에만 훈련을 하+ㄴ 뒤 13일부터 김천에서 1주일간 전지훈련을 하+ㄴ 다 .	O O LOC-B LOC-B LOC-B O O O O O LOC-B O O O O O
-브라이언트는 올 시즌 전 경기에 출전, 평균 28.3점 6.3리 바운드 5.4어 시스트를 기록하+여팀을 8년 만에 처음으로 서부 컨퍼런스 정규시즌 1위에 올려놓았다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-[스포츠토토] 골프팬 60% '오초아, 소렌스 탐물리치 +ㄹ 것 .	O O O PER-B O O O O O
-안선주(8위)와 조영란(17위)의 매치에서 전체 참가자의 58.64%가 안선주의 우세를 예상 하+ㄴ반면 조영란을 지지하+ㄴ 비율은 31.61%에 머무르었다 .	PER-B PER-B O O O O PER-B O O O PER-B O O O O O
-프로 입단은 정영삼이 1년 먼저 +이지만 대표팀에서는 중앙대 시절 태극마크를 달았던 강병현이 선배+이다 .	O O PER-B O O O O ORG-B O O O PER-B O O
-작년 아시아 선수권대회에서 3위에 머무르어 우승팀에게 주어지는 자력 진출 기회를 놓치었다 .	O O O O O O O O O O O O
-강병현은 "형들을 돕아야 하는 위치+이다 .	PER-B O O O O O
-김혁규 총재는 프로배구가 출범 하+ㄴ 2004년 10월 18일 창립총회 때 공식 선출되+ㄴ 뒤 지금까지 총재직을 맡아 +오았다 .	PER-B O O O O O O O O O O O O O O O O O
-이들 외에 올 시즌 우승 하+ㄴ 선수는 루이제프리베리(마스터카드 클래식)뿐이다 .	O O O O O O O ORG-B ORG-I O
-강수연은 목디스크로 개점휴업 상태이고 이정연은 왼손 엄지의 인대 부상으로 보호대를 착용하+ㄴ 채경기에 나서고 있다 .	PER-B O O O PER-B O O O O O O O O O O
-쳉야니(267.1야드)는 드라이버 샷 평균거리가 260야드를 넘는 장타자들이다 .	PER-B O O O O O O O
-한국 선수들이 ‘끼리끼리’ 몰려다니는 동안 외국 선수들은 눈에 불을 켜고 훈련하고 있다 .	ORG-B O O O O O O O O O O O O
-*보+ㄴ자료는 에이케이커뮤니케이션즈㈜에서 운영하는 게임 전문 쇼핑몰이 +ㄴ에이케이게임몰(www.akgam emall. co.kr)이 인터파크, CJ몰, GS홈쇼핑, d&s hop, 롯데닷컴, 옥션, G마켓 등 국내 대형 온라인 쇼핑몰과 오프라인 매장의 판매 통계를 조사하+여이를 기준으로 작성하였습니다 .	O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-서울시, 국제배구연맹(FIVB), 대한배구협회가 주최하는 이 행사에는 29개국 64개 팀이 참가하+여 총 상금 17만여 불을 놓고 5일간 모래위 혈전을 벌이+ㄴ다 .	ORG-B ORG-B ORG-B O O O O O O O O O MNY-B MNY-I O O O O O O
-한강을 무대로 하+ㄴ 대표적 이+ㄴ국제스포츠 이벤트 이+ㄴ 만큼 경품과 축하 행사도 수준급이다 .	LOC-B O O O O O O O O O O O O
-지난해에는 나흘간 94명이 볼을 워터해저드에 빠뜨리었는데 최종 라운드에서 선두 필 미켈슨(미국)을 2타차로 추격 중이던 숀오헤어(미국)는 이 홀에서 두 차례나 볼을 물로 보내는 바람에 공동 11위로 추락하였다 .	O O O O O O O O O PER-B LOC-B O O O LOC-B O O O O O O O O O O O O
-평범 하+ㄴ그린을 만들려고 땅을 파고 있었는데 이 장면을 우연히 지켜보+ㄴ 그의 아내가 “이 홀은 아일랜드 그린으로 만들면 어떻+어요?”라고 말 하+여 악명 높은 홀이 탄생하게 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-빌럽스는 8일(이하 한국시간) 플로리다주 올랜도 암웨이 아레나에서 열리+ㄴ올랜도 매직과의 3차 전개 시 4분 만에 우측 햄스트링 부상을 당하+여쓰러지었다 .	PER-B O LOC-B LOC-B ORG-B LOC-B LOC-I ORG-B ORG-I O O O O O O O O O O
-올랜도는 1쿼터를 30-16으로 마치었다 .	ORG-B O O O O
-해밀턴은 이날 24점6리 바운드를 올리었다 .	PER-B O O O O O
-이로써 레이커스는 덴버너 게츠와의 1라운드를 4전 전승으로 마치 +ㄴ 데 잇어2라운드 홈 2연전을 독식 하+여플레이 오프 6연승 행진을 달리었다 .	O ORG-B PER-B O O O O O O O O O O O O O O O O O
-유타는 파워포워드 카를로스 부저가 경기 초반부터 파울 트러블에 빠지면서 고전을 면하지 못하였다 .	PER-B O PER-B PER-I O O O O O O O O O
-[뉴스플러스] 배구 대표팀 불응 하+ㄴ 정대영-황연주 1년 출전 정지 .	O O O O O PER-B O O O O
+한 경기 최다 탈 삼진 은 선동열 삼성 감독 이 해태 시절 인 91 년 6 월 19 일 광주 빙그레 전 에서 기록한 18 개 다 .	O O O O O O PER-B ORG-B O O ORG-B O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O
+일본 은 1957 년 한큐 브레이브스 의 가지 모토 다카오 가 기록한 9 타자 가 최다 이 다 .	LOC-B O DAT-B DAT-I ORG-B ORG-I O PER-B PER-I PER-I O O O O O O O O O
+지난 16 일 왼쪽 무릎 수술 을 받 은 우즈 는 퇴원 후 곧바로 재활 훈련 에 돌입한 상태 다 .	O DAT-B DAT-I O O O O O O PER-B O O O O O O O O O O O
+무릎 통증 이 사라진 우즈 가 얼마나 대단한 경기력 을 발휘 했 는 지 를 보 여 주 는 대목 이 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
+정신력 을 갖춘 선수 가 우즈 라는 게 병원 관계자 들 의 말 이 다 .	O O O O O PER-B O O O O O O O O O O
+" SK 투수 김원형 이 허탈하 게 웃 으며 물 었 다 .	O ORG-B O PER-B O O O O O O O O O
+대호 한테 얘기하 니까 " 행님 거기 서 맞히 는 사람 이 어딨 습니까 .	PER-B O O O O O O O O O O O O O O
+" 그때 최정이 도루 ( 20 일 잠실 SK - 두산 전 ) 했 다고 도 뭐 라 한다면서 요 .	O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O
+부산 과 포항 과 의 2008 삼성 하우젠 정규 리그 7 라운드 경기 에서 ' 야구 계 의 히딩크 ' 라 불리 는 롯데 의 로이스터 감독 이 시축 을 하 는 가운데 부산 과 롯데 양 구단 의 아이콘 인 안정환 과 마혜영 의 유니폼 교환 식 도 함께 열릴 예정 이 다 .	ORG-B O ORG-B O O DAT-B O O O O O O O O O PER-B PER-I PER-I PER-I O O O O ORG-B O PER-B O O O O O O O ORG-B O ORG-B O O O O O PER-B O PER-B O O O O O O O O O O O
+올 시즌 에 도 한화 의 시선 은 정확 했 다 .	O O O O ORG-B O O O O O O O
+하와이 전지훈련 에서 실시한 자체 연습 경기 에서 도 타격 은 기대 에 못 미 쳤 다 .	LOC-B O O O O O O O O O O O O O O O O O
+클락 을 뽑 아 온 이유 가 있 을 것 이 라고 생각하 고 일단 은 타격 부분 에 전혀 손 을 대 지 않 고 ( 특별한 지도 나 조언 없이 ) 자신 의 스타일 대로 위기 를 벗어날 수 있 도록 기회 를 줬 다 " 면서 클락 이 기다림 끝 에 얻 은 타자 라고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+코비 ' 49 점 10 도움 '	PER-B O O O O O O
+덴버 는 지난 1 차 전 과 마찬가지 로 케넌 마틴 을 비롯한 장신 선수 로 하여금 브라이언트 를 막 게 했 지만 소용없 었 다 .	PER-B O O O O O O O O PER-B PER-I O O O O O O PER-B O O O O O O O O O
+포우 가솔 은 18 점 10 리바운드 로 브라이언트 와 나란히 ' 더블 더블 ' 을 기록 했 고 식스 맨 루크 월튼 은 18 점 7 리바운드 5 어시스트 를 올 렸 다 .	PER-B PER-I O O O O O O PER-B O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O
+' 팀 연봉 꼴찌 , 성적 은 1 등 ' 플로리다 , 예상 밖 깜짝 돌풍	O O O O O O O O O O ORG-B O O O O O
+하지만 플로리다 는 1990 년대 이후 월드 시리즈 우승 을 2 번 ( 1997 , 2003 년 ) 이나 이룬 팀 이 다 .	O ORG-B O O O O O O O O O O O DAT-B O DAT-B DAT-I O O O O O O O
+2 위 인 뉴욕 메츠 를 1.5 경기 차 로 앞서 있 다 .	O O O ORG-B ORG-I O O O O O O O O O
+2005 년 탬파베이 시절 28 홈런 으로 한 시즌 반짝 했 다가 추락 의 쓴맛 을 봤 던 호르헤 칸 투 역시 플로리다 유니폼 을 입 고 다시 부활해 팀 에 큰 힘 이 되 고 있 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O O O O O
+그렇 다 하 더라도 적절한 트레이드 와 팜시스템 운영 으로 젊 은 유망주 들 을 잘 키 워 적 은 비용 으로 큰 효과 를 낸 다 는 것 은 플로리다 만 의 강점임 에 틀림없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+[ 한 들 의 친구 야구 ] 뭔 일 만 생기 면 박찬호 . . .	O PER-B PER-I O O O O O O O O O PER-B O O O
+불펜 에서 7 개 의 공 을 던지 고 마운드 에 올라온 박찬호 는 나오 자마자 연속 안타 를 맞 았 습니다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O
+궈홍치 가 탈 삼진 능력 이 있 는 반면 로 아이자와 박찬호 는 이제 더 이상 삼진 을 잡아내 는 투수도 아니 고 , 불펜 투수 로서 경험 도 적 어 몸 이 빨리 안 풀리 는 스타일 이 라는 것 입니다 .	PER-B O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 로써 쿠비얀 은 올 시즌 프로 야구 퇴출 용병 1 호 로 기록 됐 다 .	O O PER-B O O O O O O O O O O O O O O
+배구 연맹 ( KOVO ) 차기 집행부 수순 밟 나 ?	O O O ORG-B O O O O O O O
+2008 ~ 2009 시즌 부터 적용되 는 새로 운 규정 에 따르 면 남녀 구단 의 최대 선수 정원 은 각각 15 명 , 16 명 으로 줄 고 , 샐러리 캡 ( 연봉 총액 상한선 ) 은 15 억 원 , 8 억 5000 만 원 으로 각각 늘어났 다 ．	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O
+마지막 18 번 홀 에선 벙커 샷 이 ' 홈런 볼 ' 로 연결되 며 그린 을 넘어갔 다 ．	O O O O O O O O O O O O O O O O O O O O
+한화 고동진 " 그런 실수 는 저 도 처음 이 예요 "	ORG-B PER-B O O O O O O O O O O
+하지만 두 번째 상황 에 대해서 는 " ( 이 ) 여상이 가 잡 았 어야 하 는 타구 였 다 .	O O O O O O O O O PER-B O PER-B O O O O O O O O O O
+선두 타자 이진영 이 중전 안타 로 출루한 뒤 2 루 도루 를 성공 시 켰 고 박재상 의 희생번트 까지 더해 1 사 3 루 가 됐 다 .	O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+구원 투수 조웅천 의 136 km 짜리 가운데 높 은 패스트볼 을 받아쳐 큼지막한 타구 를 날 렸 다 .	O O PER-B O O O O O O O O O O O O O O O O O
+김원형 은 베테랑 답 게 노련미 넘치 는 완급 조절 로 롯데 타자 들 의 허 를 찌르 며 쿠비얀 의 퇴출 로 선발 진 에 공백 이 생긴 SK 마운드 에 활기 를 불어넣 었 다 .	PER-B O O O O O O O O O O ORG-B O O O O O O O PER-B O O O O O O O O O ORG-B O O O O O O O O
+SK 짠물 야구 ' 부산 갈매기 잡 다 ' . . .	ORG-B O O O O O O O O O O O
+SK 는 조웅천 이 가르시아 에게 우중월 솔로 홈런 을 얻어맞 아 1 점 차 로 다시 쫓 겼 지만 정우람 정대현 의 완벽 계투 로 승부 를 매조지 했 다 .	ORG-B O PER-B O PER-B O O O O O O O O O O O O O O O PER-B PER-B O O O O O O O O O O
+그만큼 김원형 으로선 의미 있 고 값진 승리 였 다 .	O PER-B O O O O O O O O O
+모처럼 선발투수 로 출전 했 지만 단짝 포수 박경완 과 호흡 은 여전히 절묘하 게 맞 아 떨어 졌 다 .	O O O O O O O O PER-B O O O O O O O O O O O O
+박경완 이 ' 여러 가지 패턴 을 다양하 게 돌리 겠 다 ' 고 말 했 는데 잘 먹힌 것 같 다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 단장 은 지난 23 일 광주 에서 김병현 의 아버지 김연수 씨 를 만나 영입 의사 를 타진 했 지만 별다른 성과 를 얻 지 못 했 다 ．	PER-B O O O DAT-B DAT-I LOC-B O PER-B O O PER-B O O O O O O O O O O O O O O O O O O
+한국 에 돌아올 생각 은 아직 없 는 것 같 다 " 고 말 했 다 ．	LOC-B O O O O O O O O O O O O O O O O
+박 단장 은 " 김병현 이 좋 은 소식 이 전해 오 길 기다리 겠 다 " 는 입장 이 다 ．	PER-B O O O PER-B O O O O O O O O O O O O O O O O O
+( 문학 구장 SK 김성근 감독 ．	O LOC-B LOC-I ORG-B PER-B O O
+( 문학 구장 롯데 로이스터 감독 ．	O LOC-B LOC-I ORG-B PER-B O O
+SK 경기 때 위험한 2 루 수비 를 경험한 적 있 냐는 질문 에 농담 으로 늘 2 루 에 안 서 고 3 루 까지 달려서 잘 모르 겠 다며 ) ● 자꾸 꼬이 네 ．	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 10 번 타자 ] 두산 투수 이승학 , 도너츠 5 박스 선물 받 아 外	O O O O O ORG-B O PER-B O O O O O O O O
+또 성심 학교 야구 부원 들 은 경기 에 앞서 이날 오후 경산 볼 파크 에서 2 군 코칭스태프 와 선수 들 로부터 야구 클리닉 을 받 았 다 ．	O ORG-B ORG-I O O O O O O O O O LOC-B LOC-I LOC-I O ORG-B ORG-I O O O O O O O O O O O O
+전주원 은 마운드 앞 에서 시구 를 하 는 보통 여성 시구 자 들 과 달리 마운드 위 에서 공 을 던져 관중 들 의 박수 를 받 았 다 ．	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+- 주소 창 에 ' 스포츠 ' 만 치 시 면 스포츠서울 닷컴 기사 가 한눈 에 !	O O O O O O O O O O O O O O O O O O
+이어 3 회 초 에 는 선두 타자 최현종 의 2 루 타 를 포함 , 안타 4 개 와 상대 실책 을 더해 대거 3 점 을 추가해 4 - 0 으로 달아났 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 히어로즈 의 저력 도 만만 치 않 았 다 .	O ORG-B O O O O O O O O O
+타석 에 는 KIA 의 중심 타자 이현곤 이 들어섰 다 .	O O O ORG-B O O O PER-B O O O O
+17 년 차 SK 김원형 " 선발 떨려서 잠 안 왔 다 "	O O O ORG-B PER-B O O O O O O O O
+지난해 에 는 5 승 4 패 4 홀드 에 평균 자책점 4 ． 15 를 얻 는 데 그 쳤 지만 주장 을 맡 아 30 년 가까이 그 의 볼 을 받 아 준 ' 친구 ' 박경완 과 함께 팀 의 창단 첫 우승 을 이끌 었 다 ．	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+롯데 카림 가르시아 는 시즌 7 호 홈런 을 터트리 며 한화 덕 클락 과 함께 홈런 공동 1 위 로 나섰 다 ．	ORG-B PER-B PER-I O O O O O O O O ORG-B PER-B PER-I O O O O O O O O O O
+한화 김태균 은 5 회 1 사 3 루 서 LG 박명환 을 상대 로 투런 홈런 을 쏘 아 올리 며 시즌 6 호 를 기록 , 홈런 더비 3 위 로 뛰어올 랐 다 ．	ORG-B PER-B O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+SK 최정은 21 연속 경기 출루 기록 을 이 어 갔 고 SK 는 홈 8 연승 의 휘파람 을 불 었 다 ．	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O
+전창진 동부 감독 은 프로 농구 사상 정규 리그 최단 경기 200 승 기록 과 최소 경기 정규 리그 우승 에 이 어 감독 으로 는 신선우 감독 과 함께 가장 많 은 세 번째 우승 을 이루 게 된다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+- 어린이날 을 맞이해 고양시 별 무리 주 경기장 에서 각종 묘기 선 보일 터 -	O DAT-B O O LOC-B LOC-B LOC-I LOC-I LOC-I O O O O O O O
+( 문의 ) 서울시 영등포구 영등포동 618 - 271 연일 빌딩 5 층 / 전화 ( 02 ) 844 - 9238 팩스 ( 02 ) 844 - 9231	O O O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O
+열성 팬 이 가장 많 은 롯데 선수 들 의 이름 이 먼저 떠오르 고 이후 각 팀 별 주축 선수 나 프랜차이즈 스타 들 이 생각날 것 이 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+김인식 한화 감독 은 " 솔직히 팀 이 계속 지 면서 태 균 이 생각 이 많이 나 더라 " 고 털어놓 은 바 있 다 .	PER-B ORG-B O O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O
+몇 가지 를 소개해 보 면 김태균 이 자기 소개 란 에 별명 을 ' 장동건 , 얼짱 , 꽃 미남 ' 이라고 적 은 것 을 빗댄 ' 김 얼짱 ' , 유니폼 윗 단추 를 많이 풀 어 헤치 고 달린다고 해서 ' 김 펄럭 ' 등 이 있 다 .	O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O PER-B PER-I O O O O O O
+[ WHY+ ] 잘나가 던 롯데 , 공격 야구 한계 맞 았 나 ?	O O O O O ORG-B O O O O O O O O
+올 시즌 롯데 타선 의 가장 큰 특징 은 ‘ 공격적 인 타격 ’ 이 었 다 .	O O ORG-B O O O O O O O O O O O O O O O
+김주찬 을 대신해 나선 이승화 는 수비 가 발군 이 지만 타격 감 이 썩 좋 지 못하 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O
+정규 시즌 개막 과 함께 맹타 를 휘두르 던 롯데 타자 들 의 타격 페이스 가 영원히 지속될 수 는 없 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O
+김 코치 는 “ 이승엽 의 기분 이 많이 좋 아 지 고 있 다 .	PER-B O O O PER-B O O O O O O O O O O O
+이후 며칠 간 은 경기 가 없 어 새달 3 일 부터 나 실전 에 투입될 전망 이 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+오승환 의 체력 .	PER-B O O O
+일단 삼성 오승환 을 보 고 웨이트 트레이닝 에 열 을 올리 게 됐 다 .	O ORG-B PER-B O O O O O O O O O O O O O
+봉중근 은 “ 규 민이 는 후배 지만 팀 에서 마인드 가 가장 좋 은 친구 다 .	PER-B O O PER-B PER-I O O O O O O O O O O O O O
+“ 마이너 리그 시절 만 되살리 면 될 텐데 … .	O O O O O O O O O O O
+유 위원 은 “ 메이저 리그 후반기 에 부진 했 던 것 은 스윙 때 숙이 던 상체 를 바로 세우 면서 힘 과 정확성 을 잃 었 기 때문 ” 이 라면서 “ 다시 방망이 를 짧 게 잡 고 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서장훈 ( KCC ) 의 미들 슛 과 현주엽 ( LG ) 의 어시스트 능력 이 결합 됐 다 !	PER-B O ORG-B O O O O O PER-B O ORG-B O O O O O O O O O
+바로 현주엽 ( LG ) 의 어시스트 능력 을 연상 시키 는 장면 들 이 플레이오프 와 챔프 전 에서 계속 나오 고 있 다 .	O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+김영 ( 28 ) 이 미국 여자 프로 골프 ( LPGA ) 투어 스탠포드 인터내셔널 프로암 ( 총 상금 200 만 달러 ) 에서 공동 선두 에 오르 며 리더 보드 를 점령 했 다 .	PER-B O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+이미나 ( 27 · KTF ) 와 배경 은 ( 23 · CJ ) 은 소퍼 코스 에서 나란히 2 언더 파 69 타 를 기록해 아니카 소렌스탐 ( 스웨덴 )	PER-B O O O ORG-B O O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O PER-B PER-I O LOC-B O
+김초롱 ( 24 ) 과 함께 공동 11 위 로 출발 했 다 .	PER-B O O O O O O O O O O O O O
+워싱턴 팬 들 은 하얀색 옷 을 입 고 마치 집회 가 열리 는 듯한 분위기 를 연출해 클리블랜드 에 압박감 을 심 어 줬 다 .	ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+아레나스 는 경기 개시 전 중계 테이블 에 올라가 직접 팬 들 의 함성 을 유도 했 다 .	PER-B O O O O O O O O O O O O O O O O O O
+제임스 는 22 점 7 리바운드 를 기록하 며 자신 이 과대평가된 선수 가 아니 라는 사실 을 증명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+▶ 르브론 제임스 , 50 득점 10 도움 대활약	O PER-B PER-I O O O O O O
+예선전 은 플레이 플 ( Playple . com ) 에서 5 주간 실시간 온라인 으로 중계된다 .	O O O O O O O O O O O O O O O O O
+김형성 은 25 일 제주 세인트 프레드 골프장 ( 파 72 ㆍ 7466 야드 ) 에서 이어진 둘째 날 경기 에서 보 기 없 이 4 개 의 버디 를 솎 아 내 며 이날 만 4 언더파 , 합계 3 언더파 141 타 로 본격적 인 우승진 군 에 돌입 했 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당초 이 대회 ' 우승 후보 0 순위 ' 로 지목 됐 던 강경남 ( 25 ㆍ 삼화 저축은행 ) 은 한편 1 언더 파 를 보태 공동 12 위 ( 5 오버파 149 타 ) 로 순위 를 끌어올리 며 3 라운드 를 기약 했 다 .	O O O O O O O O O O O O O PER-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 2005 년 전신 TG 에서 동부 로 재 창단한 후 거둔 첫 우승 이 라는 점 에서 기쁨 이 더욱 크 다 .	O DAT-B DAT-I O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+궁지 에 몰린 삼성 은 이상민 과 이규섭 대신 이원수 와 박훈근 을 주전 으로 내세우 는 변칙 전술 로 경기 를 개시 했 다 .	O O O ORG-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O O O O
+삼성 은 크 게 벌어 졌 던 점수 차 를 10 점 내외 로 좁히 는데 성공 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+삼성 은 마지막 까지 최선 을 다 했 지만 동부 는 안정된 수비 로 추격 을 봉쇄 했 다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O O
+지난 06 - 07 시즌 서장훈 과 이규섭 이 도하 아시안 게임 대표 팀 에 차출되 는 사이 강혁 - 이정석 - 이원수 를 바탕 으로 하 는 가드 농구 로 쏠쏠한 재미 를 봤 다 .	O O O O O PER-B O PER-B O O O O O O O O O O PER-B O PER-B O PER-B O O O O O O O O O O O O O O
+그 어느 때 보다 변화 가 많 았 던 올 시즌 이 지만 삼성 의 목표 는 명확 했 다 .	O O O O O O O O O O O O O ORG-B O O O O O O O
+삼성 은 3 차 전 에서 대접전 끝 에 1 승 을 만회 했 지만 전반적 으로 동부 에 역부족 이 었 다 .	ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O
+동부 는 지난 06 - 07 시즌 5 년 만 에 처음 으로 포스트 시즌 에 탈락 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+이원희 나사 제거 수술 한국 유도 의 간판스타 이원희 ( 25 · KRA ) 가 지난해 5 월 수술 받 은 오른쪽 발목 의 뼈 를 고정 시킨 나사 를 제거하 는 수술 을 받 은 것 으로 확인 됐 다 ．	PER-B O O O ORG-B O O O PER-B O O O ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+이신미 ( 익산 시청 ) 는 여자 사브르 에서 준결승 까지 올 랐 으나 후앙 하 이양 ( 중국 ) 에게 13 - 15 로 패해 동메달 에 그 쳤 다 .	PER-B O ORG-B ORG-I O O O O O O O O O O PER-B PER-I PER-I O LOC-B O O O O O O O O O O O O O
+1 년 만 에 팀 을 통합 우승 으로 이끌 며 정상 에 올 랐 다 .	O O O O O O O O O O O O O O O O O
+김주성 은 지난 04 - 05 시즌 에 이 어 개인 통산 두 번째 챔프 전 MVP 를 차지 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+오 는 5 월 결혼식 을 올릴 신부 와 합의 가 된 사항 이 냐고 묻 는 질문 에 " 아직 얘기해 본 적 이 없 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+김주성 의 원주 동부 가 서울 삼성 을 꺾 고 2005 년 창단 이후 처음 이 자 , 전신 TG 시절 포함 세 번째 로 챔피언 에 등극 했 다 ．	PER-B O ORG-B ORG-I O ORG-B ORG-I O O O DAT-B DAT-I O O O O O O O ORG-B O O O O O O O O O O O
+만장일치 MVP 는 지난 시즌 모비스 양동근 에 이 어 두 번째 다 ．	O O O O O ORG-B PER-B O O O O O O O
+백업 요원 인 이원수 와 이정석 박훈근 을 선발 로 내세우 는 삼성 의 깜짝 승부수 에 잠시 당황하 는 듯 했 으나 1 쿼터 중반 강혁 이규섭 이상민 등 주전 들 이 복귀하 는 순간 부터 보 란 듯이 힘 을 발휘해 1 쿼터 를 28 - 11 로 마치 며 일찌감치 승기 를 잡 았 다 ．	O O O PER-B O PER-B PER-B O O O O O ORG-B O O O O O O O O O O O O O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강원도 민 의 뜨거 운 성원 이 원주 동부 프로 미 를 챔프 에 오르 게 했 다는 성 단장 은 “ 다음 시즌 에 는 도민 과 원주 시민 들 을 위한 다양한 이벤트 와 좋 은 내용 을 갖 고 다시 만날 것 ” 이 라며 “ 도민 의 열렬한 사랑 이 있 어 빠른 시일 내 에 프로 농구 를 제패할 수 있 는 원동력 이 었 다 ” 고 감사함 을 전 했 다 .	O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O PER-B O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+선수 들 은 전 감독 의 세심한 배려 에 감동 을 받 을 때 가 많 다고 입 을 모 았 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O
+창단 3 년 만 에 통합 우승 을 차지하 는 데 있 어서 가장 큰 원동력 임 이 분명하 다 .	O O O O O O O O O O O O O O O O O O O O O
+▶ 포스트 시즌 서 빛나 는 전창진 감독 의 역 발상	O O O O O O PER-B O O O O
+김주성 ' 정확한 미들 슛 ' 딕슨 ' 파워풀 한 덩크 슛 '	PER-B O O O O O PER-B O O O O O O
+이상민 ' 빨리 움직 여 ' 힘 빠진 삼성 치어 리드 3 점 슛 성공 시키 고 독특한 세레모니 하 는 딕슨 쐐기 를 박 는 3 점 슛 성공 시킨 강대협 이 환호하 고 있 다 .	PER-B O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O
+내쉬 가 전성기 를 누리 던 지난 3 년 간 전문가 들 은 " 내쉬 를 직접 막 는 것 은 어렵 다 .	PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O
+오닐 은 총 17 개 의 자유투 를 던져 9 개 성공 에 그 쳤 다 .	PER-B O O O O O O O O O O O O O O O O
+댈러스 는 지난 97 - 98 시즌 이후 뉴올리언스 ( 전신 샬럿 시절 포함 ) 에 단 한 번 도 홈경기 에서 패한 적 이 없 다 .	PER-B O O O O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O
+▶ " 르브론 은 과대평가 됐 다 ? "	O O PER-B O O O O O O
+" 저 , 반칙 했 어요 " 샌안토니오 는 2007 - 08 플레이오프 서부 컨퍼런스 1 라운드 에서 ' 핵 - 어 - 샤크 ' 로 재미 를 보 고 있 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+돈 넬슨 감독 이 댈러스 매버릭스 를 지도하 던 시절 처음 으로 시도 했 고 이후 여러 팀 들 이 이 와 같 은 전술 로 레이커스 에 맞섰 다 .	PER-B PER-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O ORG-B O O O O
+' 핵 - 어 - 샤크 ' 전술 이 시도될 때 오닐 이 자유투 2 개 를 모두 놓친 경우 는 그리 많 지 않 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+따라서 ' 핵 - 어 - 샤크 ' 전술 은 피닉스 의 주요 공격 옵션 을 애초 에 차단해 공격 리듬 을 무너뜨리 는 효과 를 낳 고 있 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+피닉스 는 지난 2 월 전반적 으로 골 밑 이 강한 서부 컨퍼런스 에서 살아남 기 위해 , 또한 고질적 인 약점 이 던 골 밑 수비력 을 끌어올리 기 위해 팀 전술 의 핵심 인 숀 매리언 을 포기하 고 오닐 을 영입 했 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O PER-B O O O O O
+샌안토니오 에 도 자유투 가 형편없 는 선수 들 이 많 다 .	ORG-B O O O O O O O O O O O O
+- 저스틴 레너드 , 션 오 헤어 , 양용은 등 ‘ 승 ’ 기록 … 배당률 385.0 배 나 와	O PER-B PER-I O PER-B PER-I PER-I O PER-B O O O O O O O O O O O
+전날 단독 선두 에 나서 ' 한국 낭자군 ' 의 올 시즌 첫 승 에 대한 ' 기대치 ' 를 높 였 던 김영 은 27 일 ( 한국 시간 ) 미국 플로리다주 마이애미 인근 페어몬트 턴베리 아일 골프장 소퍼 코스 ( 파 71 ㆍ 6244 야드 ) 에서 끝난 셋째 날 경기 에서 2 타 를 잃 어 ' 여제 ' 아니카 소렌스탐 ( 스웨덴 ) 에게 선두 자리 를 내 줬 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O PER-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-B O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O
+김영 은 12 번 홀 ( 파 4 ) 과 14 번 홀 ( 파 4 ) 에서 보기 2 개 를 더해 결국 선두권 에서 밀려났 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미국 프로 농구 ( NBA ) 의 수퍼 스타 트레이시 맥그래디 ( 휴스턴 로케츠 ) 의 표정 이 점점 어두 워 지 고 있 다 .	O O O O O O O O O PER-B PER-I O ORG-B ORG-I O O O O O O O O O O O O
+그러나 이때 메멧 오쿠 어 가 결정적 인 공격 리바운드 를 잡아내 면서 양 팀 의 명암 이 엇갈 렸 다 .	O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O
+한편 , LA 레이커스 와 올랜도 매직 역시 2 라운드 진출 에 1 승만 을 남겨 뒀 다 .	O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O
+농구 3 점 슛 라인 0.5 m 멀 어 진다 … 한국 도 내년 가을 도입	O O O O O O O O O O O ORG-B O O O O
+당초 미국 프로 농구 ( NBA ) 처럼 7.25 m 까지 늘리 자는 의견 도 있 었 으나 다수 가 완만한 변화 를 지지해 0.5 m 를 늘리 는 선 에서 결정 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+애틀랜타 호크스 가 2007 ~ 2008 미국 프로 농구 ( NBA ) 의 강력한 우승 후보 인 보스턴 을 잡 는 이변 을 연출 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+그리고 앨 호 퍼드 ( 17 점 ) 등 주전 선수 들 이 고른 활약 을 펼 쳤 다 .	O PER-B PER-I PER-I O O O O O O O O O O O O O O O O
+올랜도 매직 은 토론토 랩터스 를 106 - 94 유타 재즈 는 휴스턴 로케츠 를 86 - 82 로 꺾 고 각각 3 승 1 패 를 만들 어 1 승 만 보태 면 4 강 플레이오프 에 나가 게 된다 .	ORG-B ORG-I O ORG-B ORG-I O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2002 년 3 월 12 일 제 33 대 김운용 회장 이 중도 사퇴하 면서 회장 직무 대행 직 을 맡 아 그해 5 월 29 일 제 34 대 이연택 회장 이 취임할 때 까지 회장 직무 대행 직 을 수행한 바 있 다 .	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O PER-B O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O PER-B O O O O O O O O O O O O O O O
+박현순 상벌 위원장 은 “ 국내 개막 전 이 었 기 때문 에 언론 과 팬 들 의 이목 이 집중된 경기 였 고 송 보배 는 주최 사 로부터 초청 을 받 은 선수 였 다 ” 며 “ 다른 선수 들 에게 모범 을 보 여야 할	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내심 우승 을 노 렸 으나 ‘ 탱크 ’ 최경주 ( 38 · 나이키골프 ) 와 의 동반 라운드 ( 3 라운드 ) 가 문제 였 다 .	O O O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O
+그리고 일요일 인 27 일 제주도 세인트 포 골프 ＆ 리조트 프레드 코스 ( 파 72 · 7466 야드 ) 에서 열린 대회 최종 라운드 .	O DAT-B O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O
+2006 년 KPGA 선수권 우승 후 18 개월 만 에 생애 두 번째 우승 에 성공한 김형성 은 우승 상금 6000 만 원 을 차지해 시즌 상금 을 9713 만 원 으로 늘리 며 상금 랭킹 2 위 로 뛰 어 올 랐 다 .	DAT-B DAT-I O O O O O O O O O O O O O O PER-B O O O MNY-B MNY-I MNY-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+이틀 연속 4 언더파 67 타 를 때려 단독 선두 를 달린 김영 은 ‘ 무빙 데이 ’ 인 3 라운드 에서 오버 파 를 기록해 우승 경쟁 에서 한 발 물러났 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+김미현 ( 31 · KTF ) 은 합계 이븐 파 212 타 로 공동 10 위 에 자리 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O
+○ … 챔프 전 MVP 까지 섭렵해 최초 의 한 시즌 MVP 3 관 왕 에 오른 김주성 의 가족 과 약혼녀 박지선 씨 도 이날 행사 에 참석 했 다 ．	O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O
+○ … 선수단 은 지역구 이계진 국회의원 ( 한나라당 ) 이 챔프 전 우승 팀 에 건 횡성 한우 한마디 를 어떻 게 처리할까 행복한 고민 을 했 다 ．	O O O O O PER-B O O ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O
+양구 에서 체력 과 정신력 강화 위주 의 전지훈련 을 실시한 우리은행 선수 들 은 이날 처음 으로 볼 을 만지 며 실전 감각 을 조율 했 다 .	LOC-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+29 일 부터 순차적 발매 마감	DAT-B DAT-I O O O O
+[ NBA 뉴스 ] 샌안토니오 , 피닉스 와 의 경기 서 첫 패배	O O O O ORG-B O ORG-B O O O O O O
+하지만 NBA 7 전 4 선승 제 플레이오프 사상 3 연패한 팀 이 상위 라운드 에 오른 것 은 한차례 도 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+프로 농구 원주 동부 가 통합 우승 후 실제 적 인 고민 에 빠 졌 다 .	O O ORG-B ORG-I O O O O O O O O O O O O O
+이 때문 에 지난 시즌 연봉 2 억 원 이상 받 은 선수 27 명 가운데 동부 선수 는 김주성 한 명 밖에 없 었 다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O ORG-B O O PER-B O O O O O O O
+새롭 게 프로 에 뛰어드 는 신 인 윤호영 의 연봉 으로 1 억 원 언저리 를 지급하 면 ‘ 땡 처리 ’ 가 되 는 처지 다 .	O O O O O O O O PER-B O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+피닉스 의 반격 … 샌안토니오 꺾 고 기사회생	ORG-B O O O ORG-B O O O
+피닉스 는 초반 부터 벨 의 득점 이 활발하 게 터진 데 힘입 어 1 쿼터 를 34 - 13 으로 마쳐 승기 를 잡 았 다 .	ORG-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+시즌 첫 우승 을 위해 공격적 인 플레이 를 펼칠 안선주 에게 힘 이 실린다 .	O O O O O O O O O O PER-B O O O O O
+김혜정 도 지난해 4 언더 파 를 기록 했 을 정도 로 코스 와 궁합 이 좋 다 .	PER-B O O O O O O O O O O O O O O O O O O
+김창윤 - 김형성 ( 3 그룹 ) .	PER-B O PER-B O ORG-B ORG-I O O
+장정 - 루이제 프리 베리 ( 2 그룹 ) .	PER-B O PER-B PER-I PER-I O ORG-B ORG-I O O
+한편 승 무패 10 , 11 회 차 게임 은 오 는 29 일 ( 화 ) 과 30 일 ( 수 ) 오후 11 시 50 분 에 각각 발매 마감되 며 .	O O O O O O O O O O O O DAT-B DAT-I O ORG-B O O DAT-B DAT-I O DAT-B O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O
+크리머 는 경기 후 티샷 에 대해 “ 부주의한 샷 ” 이라고 후회 했 다 .	PER-B O O O O O O O O O O O O O O O
+개막 전 인 SBS 오픈 우승 후 시즌 두 번째 우승 에 성공한 소렌스탐 은 연장전 전적 에서 도 22 전 16 승 6 패 를 기록 했 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+지은희 ( 22 · 휠라코리아 ) 와 박희영 ( 21 · 이수건설 ) 이 나란히 합계 2 언더 파 281 타 로 공동 9 위 를 각각 기록 했 다 .	PER-B O O O ORG-B O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O
+스캇 은 18 번 홀 ( 파 4 ) 에서 치른 연장 세 번째 홀 에서 티샷 을 벙커 에 빠뜨려 패색 이 짙 었 으나 두 번째 샷 을 그린 에 올린 후 15 m 거리 의 장거리 버디 퍼트 를 성공 시켜 대 반전 을 이끌 어 냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+양용은 ( 36 · 테일러메이드 ) 과 나상욱 ( 24 · 코브라 골프 ) 은 나란히 합계 7 오버파 287 타 로 공동 50 위 를 기록 했 다 .	PER-B O O O ORG-B O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+장 선수 는 볼 이 움직 였 음 에 도 불구하 고 원위치 시키 지 않 고 퍼팅 을 했 고 몇 홀 이 지나 경기 위원 에게 그 상황 을 문의하 게 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고충남 ( 대한골프협회 경기 위원 )	PER-B O ORG-B O O O
+10 년 만 에 거둔 승리 의 의미 는 컸 다 .	O O O O O O O O O O O O
+급격히 무너진 댈러스 는 다시 는 경기 양상 을 대등하 게 만들 지 못 했 다 .	O O PER-B O O O O O O O O O O O O O O
+제이씨 엔터테인먼트 ( 대표 김양신 , www . jceworld . com ) 는 자사 가 개발 및 서비스 하 는 농구 온라인 게임 ' 프리스타일 ' 의 게이머 들 을 초청해 ' FS 클럽 파티 ' 를 진행 했 다고 금일 ( 28 일 ) 밝 혔 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+정부 는 현재 부가되 고 있 는 개별 소비세 ( 특별 소비세 ) 와 체육 진흥 기금 은 폐지하 고 골프장 에 대한 종합 부동산 세 , 재산세 , 취득세 등 은 경감 시켜 줌 으로서 1 인 기준 그린피 가 3 만 , 5 만 원 인하되 는 효과 가 발생할 것 으로 전망하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+특히 올 시즌 에 는 농구토토 매치 게임 에서 만 1 천만 참여 자 를 돌파하 는 등 어느 때 보다 다양한 기록 이 쏟아지 며 그 인기 를 실감 케 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국내 프로 농구 및 미국 프로 농구 NBA 게임 을 대상 으로 발행된 농구토토 승 5 패 게임 은 모두 17 개 회차 에서 134 만 2,751 명 이 게임 에 참여 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장정 은 승부 욕 이 강한 선수 다 .	PER-B O O O O O O O O
+- 주소 창 에 ' 스포츠 ' 만 치 시 면 스포츠서울 닷컴 기사 가 한눈 에 !	O O O O O O O O O O O O O O O O O O
+누가 봐도 김형성 의 우세 다 .	O O PER-B O O O O
+반면 지난 겨울 교통사고 로 부상 을 당 했 던 최광수 ( 동아제약 ) 는 아직 완전한 상태 가 아니 다 .	O O O O O O O O O O PER-B O ORG-B O O O O O O O O O
+이지영 ( 하이마트 ) 은 장타력 이 빛 을 발할 대회 다 .	PER-B O ORG-B O O O O O O O O O O
+구단 사장 직 은 계속 유지하 기 로 한 라일리 전 감독 은 “ 스 폴 스트 라는 최근 보 기 드문 젊 고 능력 있 는 지도자 다 .	O O O O O O O O O PER-B O O O O PER-B PER-I PER-I O O O O O O O O O O O O O
+NBA 8 년 차 베테랑 인 그 는 올랜도 의 전 경기 에 선발 로 출장 .	O O O O O O O O ORG-B O O O O O O O O
+남자 프로 농구 한 경기 를 대상 으로 모두 79 개 회차 가 발행된 농구토토 매치 게임 은 올 시즌 1000 만 참여 자 를 돌파 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+누적 참여 인원 에서 도 2007 시즌 겨울 리그 ( 386 만 3932 명 ) 에 비해 209.5 ％ 가 늘어난 809 만 5265 명 이 게임 에 참가하 는 등 WKBL 에 대한 인기 와 관심 을 높이 는 데 큰 역할 을 담당 했 다 .	O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8 개 구단 31 명 이 FA 가 되 는 올해 에 는 거물급 으로 는 전희철 ( 35 · SK ) . 우지원 ( 35 · 모비스 ) . 김병철 ( 35 · 오리온스 ) .	O O O O O O O O O O O O O O O O PER-B O O O ORG-B O O PER-B O O O ORG-B O O PER-B O O O ORG-B O O
+이 가운데 우지원 . 김병철 은 연봉 20 위 내 선수 들 이 기 때문 에 이적시 보상 선수 1 명 연봉 100 ％ 또는 연봉 300 ％ 를 원 소속 구단 에 물 어야 하 는 걸림돌 도 부담 이 될 전망 이 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+◆ 골프 유망주 정지호 .	O O O PER-B O
+다음 달 22 일 몽골 에서 열리 는 제 4 회 동아시아 보디빌딩 ＆ 휘트니스 선수권 대회 대표 선수 선발전 도 겸한다 .	O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O
+보스턴 은 3 쿼터 까지 75 - 65 로 앞섰 으나 애틀랜타 는 4 쿼터 시작 과 함께 존슨 과 스미스 의 외곽 포 를 앞세 워 순식간 에 점수 차 를 3 점 으로 좁 혔 다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O
+당초 보스턴 의 압도적 인 우세 가 예상 됐 으나 애틀랜타 가 홈 2 연전 을 독식하 면서 반격 의 발판 을 마련 했 다 .	O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+레이커스 는 29 일 ( 한국 시간 ) 콜로라도주 덴버 펩시 센터 에서 열린 2007 - 08 플레이오프 서부 컨퍼런스 1 라운드 4 차 전 에서 31 점 7 리바운드 6 어시스트 를 올린 브라이언트 를 앞세 워 107 - 101 로 승리 , 4 연승 으로 2 라운드 진출 을 확정 지 었 다 .	ORG-B O DAT-B DAT-I O LOC-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+파우 가솔 은 21 점 7 리바운드 4 블록 슛 으로 활약 했 다 .	PER-B PER-I O O O O O O O O O O O O O
+현재 유타 가 3 승 1 패 로 앞서 있 어 2 라운드 진출 이 유력한 상황 이 다 .	O ORG-B O O O O O O O O O O O O O O O O O O
+속초고 가 중 · 고 연맹 회장 배 대회 에서 우승 을 차지한 적 은 아직 없 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+원주 동부 챔피언 감동 ‘ 한 번 더 ’	ORG-B ORG-I O O O O O O O
+이병덕 ( 37 · 원주시 원동 ) 씨 는 “ 프로 농구 를 통해 원주 가 전국적 으로 유명한 도시 가 된 것 은 부인할 수 없 는 일 ” 이 라며 “ 더욱이 원주 동부 가 프로 농구 최고 의 자리 에 오른 만큼 행사 당일 꼭 참석해 모든 원주 시민 과 함께 기쁨 을 나누 고 싶 다 ” 고 했 다 .	PER-B O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+뉴올리언스 는 올 시즌 56 승 26 패 를 기록해 전신 샬럿 시절 을 포함 , 창단 이래 최고 승률 을 기록 했 다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+올해 의 감독 상 트로피 의 명칭 인 레드 아워 벅 감독 은 1950 ~ 60 년대 보스턴 왕조 를 이끌 며 NBA 역대 공동 최다 인 통산 9 회 우승 ( 필 잭슨 LA 레이커스 감독 과 타이 ) 을 차지한 명장 이 다 .	O O O O O O O O PER-B PER-I PER-I O O O O O O ORG-B O O O O O O O O O O O O O O PER-B PER-I ORG-B ORG-I O O O O O O O O O O
+김경태 는 1 일 경기도 성남시 남서울 골프장 ( 파 72 ㆍ 6961 야드 ) 에서 개막하 는 이번 대회 를 앞두 고 " 짧 지만 깊 었 던 슬럼프 는 이제 완전히 극복 했 다 " 면서 강한 자신감 을 드러냈 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남서울 골프장 소속 인 김경태 로써 는 코스 를 손바닥 들여다보 듯이 세밀하 게 알 고 있 다는 것 도 든든하 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O
+재기 를 노리 는 김대섭 ( 27 ㆍ SK 텔레콤 ) 과 김형태 ( 31 . 테일러메이드 ) 등 이 ' 복병 ' 으로 지목되 고 있 다 .	O O O O PER-B O O O ORG-B ORG-I O O PER-B O O O ORG-B O O O O O O O O O O O O
+특히 이 게임 은 최근 게임 과 같 은 주인공 인 ' 랫 소 ' 가 활약하 는 애니메이션 ' 미운 오리 새끼 와 랫소 의 모험 ' 이 출시돼 시너지 효과 를 얻 고 있 다 .	O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+지정 선수 별 1 라운드 예상 스코어 는 필 미켈슨 과 비제이 싱 의 경우 모두 3 ~ 4 언더 를 기록할 것 이 라는 전망 이 각각 38.55 % , 29.37 % 로 가장 많 았 다 .	O O O O O O O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 골프 토토 스페셜 26 , 27 회 차 게임 은 다음 달 1 일 오후 6 시 50 분 , 7 시 50 분 에 각각 발매 가 마감된다 .	O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O TIM-B TIM-I TIM-I TIM-I O O O O O O
+그랜드 차이나 에어 LPGA 는 아시아 시리즈 의 일환 으로 열린다 .	O O O O O LOC-B O O O O O O
+미국 프로 농구 ( NBA ) 샌안토니오 스퍼스 가 피닉스 선즈 를 따돌리 고 서부 컨퍼런스 플레이오프 2 라운드 에 진출 했 다 .	ORG-B ORG-I ORG-I O ORG-B O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O
+이 로써 피닉스 는 작년 에 이 어 올해 플레이오프 에서 도 샌안토니오 의 벽 을 넘 지 못 했 다 .	O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O
+샌 안토 이 오 는 이날 댈러스 매버릭스 를 99 - 94 로 누르 고 4 승 1 패 로 2 라운드 진출 을 결정지 은 뉴올리언스 호네츠 와 서부 컨퍼런스 결승 진출 을 놓 고 맞붙 는다 .	ORG-B ORG-I ORG-I ORG-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+제 1 회 외발 자전거 전국 대회 를 여 는 게 계기 로 앞 으로 많 은 사람 들 이 관심 을 가져 주 시 고 또 1 년 여 밖 에 안 됐 는데 이렇 게 시합 을 할 수 있 게끔 크 게 번창 했 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 번 홀 에서 출발한 원윤정 도 14 번 홀 까지 버디 6 개 를 잡 아 단독 선두 를 달 렸 으나 파 3 홀 인 15 번 홀 에서 3 온 1 퍼트 로 보기 를 범해 공동 선두 에 만족해야 했 다 ．	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+속초고 는 지난달 30 일 단양 문화 체육 센터 에서 열린 남 고 부 결승전 에서 강호 남성고 를 맞 아 불꽃 튀 는 접전 끝 에 세트스코어 2 대 3 으로 역전 을 허용하 며 정상 문턱 에서 고배 를 마 셨 다 .	ORG-B O O DAT-B DAT-I DAT-B DAT-I DAT-I DAT-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+송추 ( 사진 ) 가 6000 만 원 이나 떨어지 는 등 가격대 를 막론하 고 일제히 급락세 다 .	ORG-B O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+태영 에 이 어 남서울 과 뉴서울 , 태광 , 기흥 등 수도권 근교 의 이른바 ' 근거리 골프장 ' 들 이 모두 하락세 다 .	ORG-B O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O
+로레 이나 오초아 ( 멕시코 ) 가 재충전 을 마치 고 필드 에 복귀 했 다 .	PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O
+오초아 는 또한 아이언 샷 의 정확성 을 보 여 주 는 그린 적중률 도 81 ％ 로 1 위 를 달리 고 있 어 1 라운드 부터 몰아치 기 에 나설 가능성 이 높 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김미현 은 오초아 , 폴라 크리머 ( 미국 ) 와 함께 1 , 2 라운드 를 치른다 .	PER-B O PER-B O PER-B PER-I O ORG-B O O O O O O O O O O
+골프 대회 의 부침 이 심한 한국 에서 27 년 째 한결같이 열리 는 대회 가 있 다는 것 도 의미 가 있 지만 첫 대회 부터 27 년 간 연속 출전 기록 을 세운 최상호 의 골프 인생 역시 놀랍 기 는 마찬가지 다 .	O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+오랜 시간 남서울 CC 의 헤드 프로 로 재직 중 인 최상호 는 남서울 의 ‘ 터줏대감 ’ 으로 불릴 정도 로 페어웨이 와 러프 의 잔디 특성 이나 그린 의 라인 을 손금 보 듯 훤히 알 고 있 다 .	O O ORG-B ORG-I O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국가 대표 출신 기대주 인 노승열 이 다 .	O O O O O PER-B O O O
+4 차 전 도중 알 호 포드 에게 위협적 인 동작 을 취해 2 만 5000 달러 의 벌금 을 물 게 된 폴 피어스 는 이날 22 점 7 리바운드 6 어시스트 로 활약 했 고 케빈 가넷 은 20 점 7 어시스트 5 리바운드 를 올 렸 다 .	O O O O O PER-B PER-I O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O PER-B PER-I O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O
+9 홀 스트로크 플레이 대결 로 진행되 는 이 프로그램 에서 김 회장 은 1989 년 고 정주영 회장 과 함께 첫 방북 을 하 면서 맺 게 된 북한 과 의 인연 , 이후 소 떼 방북 으로 시작 된 대북 사업 의 역사 와 앞 으로 의 대북 사업 계획 등 을 밝힌다 .	O O O O O O O O O O O PER-B O O DAT-B DAT-I O PER-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 매장 은 김영주 골프 에서 선정한 VIP 고객 위주 의 멤버십 형태 로 운영된다 .	O O O ORG-B ORG-I O O O O O O O O O O O
+강지만 은 당시 최경주 ( 38 ㆍ 나이키골프 ) 가 출전 했 던 신한 동해 오픈 우승 이외 에 ' 내셔널 타이틀 ' 한국 오픈 준우승 과 KPGA 선수권 4 위 등 ' 큰 대회 ' 에 강한 면모 를 보이 며 상금 랭킹 3 위 까지 올 랐 던 선수 다 .	PER-B O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 스포츠토토 ] 골프 토토 스페셜 5 월 한 달 간 19 차례 시행	O O O O O O DAT-B DAT-I O O O O O O
+스포츠토토 관계자 는 “ 녹음 이 찾아오 는 5 월 에 골프 토토 게임 이 스페셜 11 차례 , 승 무패 8 차례 등 모두 19 차례 국내 골프 팬 들 을 찾아간다 ” 며 “ 지난 4 월 첫 선 을 보인 승 무패 게임 이 모두 12 개 회차 가 진행된 가운데 골프 팬 들 의 큰 관심 과 사랑 을 받 아 골프 토토 게임 참여 열기 가 더욱 뜨거 울 것 으로 보인다 ” 고 밝 혔 다 .	O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일주일 휴식 후 5 연승 에 도전장 을 던진 오초아 는 2 오버 파 73 타 로 부진해 공동 14 위 로 출발 했 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+한편 베스 베이더 ( 미국 ) 는 14 번 홀 까지 박희영 과 공동 선두 를 달 렸 으나 16 ~ 18 번 홀 에서 3 연속 보기 를 범해 결국 1 오버 파 72 타 .	O PER-B PER-I O LOC-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+김주성 과 찰떡궁합 을 이 뤘 던 동부 의 용병 레지 오코사 는 최우수 외국인 선수 상 과 베스트 5 의 주인공 이 됐 으며 삼성 의 가드 이상민 이 우수 선수 상 을 받 았 다 .	PER-B O O O O O O ORG-B O O PER-B PER-I O O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O
+신인왕 김하늘 , 휘닉스파크 클래식 첫 우승	O PER-B O O O O O
+14 번 홀 버디 로 선두 김하늘 을 1 타 차 까지 압박한 신지애 는 나머지 네 홀 에서 모두 버디 기회 를 만들 었 으나 퍼팅 이 따 라 주 지 않 아 준우승 에 만족해야 했 다 ．	O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+황인춘 은 2 일 경기도 성남시 남서울 골프장 ( 파 72 ㆍ 6961 야드 ) 에서 이어진 둘째 날 경기 에서 무려 8 개 의 버디 ( 보 기 1 개 , 더블 보기 1 개 ) 를 솎 아 냈 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 디펜딩 챔프 ' 김경태 ( 22 ㆍ 신한은행 ) 는 한편 아이언 샷 의 그린 적중률 이 절반 으로 떨어지 는 난조 속 에서 도 1 언더 파 를 추가해 공동 7 위 ( 4 언더파 140 타 ) 에서 ' 대회 2 연패 ' 를 향해 어려 운 진군 을 거듭하 고 있 다 .	O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 로써 클리블랜드 는 3 년 연속 워싱턴 과 의 플레이오프 시리즈 를 승리 로 장식 했 다 .	O O ORG-B O O O O ORG-B O O O O O O O O O O O
+하지만 저비 악의 3 점 슛 과 제임스 의 앨리웁 덩크 가 터지 면서 클리블랜드 의 기세 는 더욱 올 랐 고 워싱턴 이 승부 를 뒤집 기 는 역부족 이 었 다 .	O PER-B O O O O O PER-B O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O
+정규 시즌 37 승 45 패 , 5 할 승률 도 채 되 지 않 는 성적 으로 플레이오프 막차 에 탑승한 애틀랜타 가 66 승 16 패 로 전체 1 위 에 오른 보스턴 을 상대 로 7 차 전 까지 갈 것 으로 예상한 사람 은 없 었 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+흐름 을 되돌린 애틀랜타 는 86 - 89 로 뒤진 4 쿼터 중반 연속 7 점 을 몰아넣 어 전세 를 뒤집 었 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+애틀랜타 는 주전 5 명 을 비롯해 총 6 명 의 선수 가 두 자릿수 득점 을 기록 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+이 로써 맥그래디 는 개인 통산 7 번째 플레이오프 무대 에서 도 1 라운드 의 벽 을 넘 지 못 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O
+부저 는 19 점 13 리바운드 를 기록 했 고 윌리엄스 는 팀 내 최다 인 25 점 9 어시스트 를 올 렸 다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O
+뉴올리언스 는 올 시즌 창단 최고 승률 인 56 승 26 패 를 기록해 샌안토니오 , 휴스턴 로케츠 , 댈러스 매버릭스 등 쟁쟁한 라이벌 들 을 제치 고 사우스 웨스트 지구 정상 을 차지 했 다 .	ORG-B O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O ORG-B ORG-I O O O O O O O ORG-B ORG-I ORG-I O O O O O O
+한편 , 필라델피아 세븐티식서스 를 힘겹 게 따돌리 고 동부 컨퍼런스 4 강 에 오른 디트로이트 피스톤스 는 올랜도 매직 을 91 - 73 으로 대파하 고 먼저 1 승 을 따 냈 다 .	O O ORG-B ORG-I O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O
+반면 노승열 은 드라이버 샷 이 페어웨이 오른쪽 나무 근처 에 떨어져 위기 를 자초한 뒤 두 번째 샷 도 길 어 그린 을 넘 겼 고 칩 샷 후 남긴 3 m 거리 의 파 퍼트 마저 놓 쳤 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 17 번 홀 ( 파 3 ) 에서 티샷 실수 로 그린 을 놓친 뒤 어프로치 샷 마저 짧 아 결국 5 m 거리 의 파 퍼트 를 남 겼 고 이 를 넣 지 못해 연장 승부 로 끌려 들어가야 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앤서 이 니 김 생애 첫 우승 기회	PER-B PER-I PER-I PER-I O O O O
+앤서니 김 이 이 대회 에서 우승한다면 세계 톱 랭커 들 과 어깨 를 나란히 하 게 된다 .	PER-B PER-I O O O O O O O O O O O O O O O O O
+이강래 기자 - 주소 창 에 ' 스포츠 ' 만 치 시 면 스포츠서울 닷컴 기사 가 한눈 에 !	PER-B O O O O O O O O O O O O O O O O O O O
+○ … 테일러메이드 - 아디다스 골프 는 볼 스피드 와 비거리 를 높인 ‘ 투어 버너 아이언 ’ 을 출시 했 다 .	O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+- 주소 창 에 ' 스포츠 ' 만 치 시 면 스포츠서울 닷컴 기사 가 한눈 에 !	O O O O O O O O O O O O O O O O O O
+지난 주 남서울 CC 에서 열린 매경 오픈 에서 발생 했 던 사례 다 .	O O ORG-B ORG-I O O O O O O O O O O O
+만일 강경남 선수 가 경기 위원 의 도움 을 받 지 않 고 왼쪽 으로 구제 를 받 아 플레이 하 였 다면 오소 에서 의 플레이 로 벌 을 받 을 수 도 있 었 던 상황 이 었 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+- 주소 창 에 ' 스포츠 ' 만 치 시 면 스포츠서울 닷컴 기사 가 한눈 에 !	O O O O O O O O O O O O O O O O O O
+크리머 는 4 일 오전 ( 한국 시간 ) 미국 오클라호마주 털사 인근 시더 리지 CC ( 파 71 · 6602 야드 ) 에서 열린 대회 3 라운드 에서 2 타 를 줄 여 합계 3 언더파 210 타 로 줄리 잉스터 ( 미국 ) 를 2 타 차 로 앞섰 다 .	PER-B O DAT-B DAT-I O O LOC-B O O LOC-B LOC-B LOC-B O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O LOC-B O O O O O O O O O
+첫날 선두 였 던 루키 박희영 ( 21 · 이수건설 ) 은 버디 1 개 에 보 기 8 개 더블 보기 1 개 를 쏟 아 내 는 난조 끝 에 9 타 를 잃 어 합계 11 오버 파 224 타 로 공동 40 위 로 내려앉 았 다 .	O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황인춘 은 4 일 경기도 성남시 남서울 골프장 ( 파 72 ㆍ 6961 야드 ) 에서 끝난 매경 오픈 ( 총 상금 6 억 원 ) 최종일 4 언더 파 68 타 를 쳐 합계 9 언더파 279 타 로 노승열 ( 17 ㆍ 타이틀 리스트 ) 과 동타 를 이룬 뒤 18 번 홀 ( 파 4 ) 에서 속개된 연장 첫 번째 홀 에서 천금 같 은 우승 파 세이브 로 기어코 우승컵 을 품 에 안 았 다 .	PER-B O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2005 년 13 세 8 개월 의 나이 로 최 연소 국가 대표 에 선발 됐 던 노승열 은 중학교 2 학년 당시 한국 아마추어 골프 선수권 을 제패하 는 등 ' 천재 골퍼 ' 로 두각 을 나타냈 던 선수	DAT-B DAT-I O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+' 핑크 공주 ' 폴라 크리머 ( 미국 ㆍ 사진 ) 가 연장 혈투 끝 에 ' 시즌 2 승 ' 을 일궈 냈 다 .	O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O O
+최 고령 우승 에 도전 했 던 잉스터 는 반면 지난해 에 이 어 2 년 연속 연장전 패배 라는 진 기록 을 남 겼 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+' 골프 황제 ' 타이거 우즈 ( 미국 ) 의 부재 를 틈 타 ' 넘버 2 ' 필 미켈슨 ( 이상 ) 등 빅 스타 들 이 오래 전 부터 군침 을 삼 켰 던 대회 다 .	O O O O PER-B PER-I O ORG-B O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O O O O O
+앤서니 김 은 이날 전반 에 만 4 개 의 버디 를 솎 아 내 며 일찌감치 우승 을 확정 지 었 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O
+1985 년 미국 LA 에서 태어난 앤서니 김 ( 한국 명 김하진 ) 이 본격적 으로 골프 를 시작한 것 은 네 살 때 였 다 .	DAT-B DAT-I LOC-B LOC-B O O PER-B PER-I O O O PER-B O O O O O O O O O O O O O O O
+우들리 등 LA 인근 퍼블릭 코스 에서 아들 과 함께 라운드 하 며 골프 의 세계 로 이끌 어 줬 다 .	PER-B O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O
+앤서니 김 은 대학 3 학년 때 인 2006 년 7 월 US 아마 퍼블릭 링크 챔피언십 준우승 을 끝 으로 프로 로 전향 했 다 .	PER-B PER-I O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+평균 299.8 야드 를 기록해 아담 스캇 ( 297.7 야드 ) 이나 필 미켈슨 ( 293.0 야드 ) .	O O O O O PER-B PER-I O O O O O PER-B PER-I O O O O O
+한동안 고민 에 빠져 있 던 앤서니 김 의 결론 은 “ 더 이상 코스 에서 도박 을 하 지 말 자 ” 였 다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+투어 경력 이 풍부한 베테랑 캐디 를 영입한 후 한결 플레이 가 안정감 을 찾 게 됐 고 2 주 전 버라이즌헤리티 지 준우승 에 이 어 이번 주 와코비아 챔피언십 우승 을 거두 는 절대적 인 힘 이 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아시안 ( APGA ) 투어 에 ' 노승열 바람 ' 이 불 고 있 다 .	O O O O O O O PER-B O O O O O O O O
+아시아 무대 의 경험 을 바탕 으로 올 가을 에 는 KPGA 투어 는 물론 일본 무대 진출 을 계획하 고 있 다 .	LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O O O
+8 일 발매 마감	DAT-B DAT-I O O
+승 무패 게임 이 시작된 4 월 의 골프 토토 발매 를 살펴보 면 그 구분 이 명확하 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+국내 팬 들 은 이 에 따 라 내년 에 는 특히 마스터스 가 열리 는 오거스타 내셔널 골프장 에서 ' 탱크 ' 최경주 ( 38 ㆍ 나이키골프 ) 와 함께 두 명 의 한국 ( 계 ) 선수 들 이 활약하 는 모습 을 볼 수 있 게 됐 다 .	O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O PER-B O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+5 일 ( 한국 시간 ) 벌어진 최종 라운드 도 다르 지 않 았 다 .	O O O LOC-B O O O O O O O O O O O O
+앤서니 김 은 지난해 이 대회 1 , 2 라운드 에서 78 - 83 타 를 쳐 예선 탈락 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+승 무패 게임 이 시작된 4 월 의 골프 토토 발매 를 살펴보 면 그 구분 이 명확하 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+코스 특성 상 장타력 이 위력 을 발휘하 기 때문 에 오초아 가 보다 많 은 버디 를 잡 을 것 으로 예상된다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O
+이선화 ( CJ ) 는 우승 경험 이 있 지만 테레사 루 ( 대만 ) 는 그렇 지 못하 다 .	PER-B O ORG-B O O O O O O O PER-B PER-I O ORG-B O O O O O O O
+중국 상하이 에서 열린 KEB 인비테이셔널 에서 배상문 ( 22 · 캘러웨이 ) 이 개막 전 우승 의 영예 를 안 았 고 이 어 일본 에서 열린 에머슨 퍼시픽 돗토리현 오픈 에서 는 이승호 ( 22 · 투어 스테이지 ) 가 정상 에 올 랐 다 .	LOC-B LOC-B O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O LOC-B O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O
+신지애 는 지난해 12 월 열린 2008 시즌 개막 전 인 차이나 레이디스 오픈 과 우리투자증권 레이디스 챔피언십 에서 우승해 올 시즌 유일하 게 2 승 을 기록 중 이 지만 ‘ 어떤 대회 든 나가 기 만 하 면 우승할 것 같 았 던 ’ 기세 는 한풀 꺾 였 다 .	PER-B O O DAT-B DAT-I O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이강래 기자 - 주소 창 에 ' 스포츠 ' 만 치 시 면 스포츠서울 닷컴 기사 가 한눈 에 !	PER-B O O O O O O O O O O O O O O O O O O O
+김혜정 과 윤슬 아 모두 대회 코스 에서 언더 파 를 기록할 수 있 는 선수 들 이 다 .	PER-B O PER-B PER-I O O O O O O O O O O O O O O O O
+썩 나쁘 지 않 은 성적 같 아 보이 지만 챈들러 의 수비 에 막혀 경기 내내 이렇 다 할 영향력 을 발휘하 지 못 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+당시 샌안토니오 는 서부 컨퍼런스 결승 에서 LA 레이커스 에 4 전 전패 를 당 했 다 .	O ORG-B O O O O O ORG-B ORG-I O O O O O O O O O
+대한 농구 협회 는 6 일 2008 베이징 올림픽 최종 예선 ( 7 월 14 ~ 20 일 그리스 아테네 ) 에 출전할 남자 농구 대표 팀 엔트리 12 명 을 확정 발표 했 다 ．	ORG-B ORG-I ORG-I O DAT-B DAT-I DAT-B O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O
+대표 팀 은 6 일 부터 경기도 용인 KCC 체육관 에서 오후 에 만 훈련 을 한 뒤 13 일 부터 김천 에서 1 주일 간 전지훈련 을 한다 ．	O O O DAT-B DAT-I O LOC-B LOC-B LOC-B LOC-I O O O O O O O O DAT-B DAT-I O LOC-B O O O O O O O O
+브라이언트 는 올 시즌 전 경기 에 출전 , 평균 28.3 점 6.3 리바운드 5.4 어시스트 를 기록해 팀 을 8 년 만 에 처음 으로 서부 컨퍼런스 정규 시즌 1 위 에 올려놓 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 스포츠토토 ] 골프 팬 60 % ' 오초아 , 소렌스탐 물리칠 것 '	O O O O O O O O PER-B O PER-B O O O
+안선주 ( 8 위 ) 와 조영란 ( 17 위 ) 의 매치 에서 전체 참가자 의 58.64 % 가 안선주 의 우세 를 예상한 반면 조영란 을 지지한 비율 은 31.61 % 에 머물 렀 다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O O O O
+프로 입단 은 정영삼 이 1 년 먼저 지만 대표 팀 에서 는 중앙 대 시절 태극 마크 를 달 았 던 강병현 이 선배 다 .	O O O PER-B O O O O O O O O O ORG-B ORG-I O O O O O O O PER-B O O O O
+작년 아시아 선수권 대회 에서 3 위 에 머물 러 우승 팀 에게 주어지 는 자력 진출 기회 를 놓 쳤 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+강병현 은 " 형 들 을 도 와야 하 는 위치 다 .	PER-B O O O O O O O O O O O O
+김혁규 총재 는 프로 배구 가 출범한 2004 년 10 월 18 일 창립 총회 때 공식 선출된 뒤 지금 까지 총재 직 을 맡 아 왔 다 .	PER-B O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+이 들 외 에 올 시즌 우승한 선수 는 루이제 프리 베리 ( 마스터카드 클래식 ) 뿐 이 다 .	O O O O O O O O O PER-B PER-I PER-I O ORG-B ORG-I O O O O O
+강수연 은 목 디스크 로 개점휴업 상태 이 고 이정연 은 왼손 엄지 의 인대 부상 으로 보호대 를 착용한 채 경기 에 나서 고 있 다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+쳉 야니 ( 267.1 야드 ) 는 드라이버 샷 평균 거리 가 260 야드 를 넘 는 장타자 들 이 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+한국 선수 들 이 ‘ 끼리끼리 ’ 몰려다니 는 동안 외국 선수 들 은 눈 에 불 을 켜 고 훈련하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+* 본 자료 는 에이 케이 커뮤니케이션즈 ㈜ 에서 운영하 는 게임 전문 쇼핑몰 인 에이 케이 게임 몰 ( www . akgamemall . co . kr ) 이 인터파크 , CJ 몰 , GS 홈 쇼핑 , d & shop , 롯데닷컴 , 옥션 , G 마켓 등 국내 대형 온라인 쇼핑몰 과 오프라인 매장 의 판매 통계 를 조사해 이 를 기준 으로 작성 했 습니다 .	O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울시 , 국제배구연맹 ( FIVB ) , 대한배구협회 가 주최하 는 이 행사 에 는 29 개국 64 개 팀 이 참가해 총 상금 17 만 여 불 을 놓 고 5 일 간 모래 위 혈전 을 벌인다 .	ORG-B O ORG-B O ORG-B O O ORG-B ORG-I O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O
+한강 을 무대 로 한 대표적 인 국제 스포츠 이벤트 인 만큼 경품 과 축하 행사 도 수준급 이 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
+지난해 에 는 나흘 간 94 명 이 볼 을 워터 해저드 에 빠뜨 렸 는데 최종 라운드 에서 선두 필 미켈슨 ( 미국 ) 을 2 타 차 로 추격 중 이 던 숀 오 헤어 ( 미국 ) 는 이 홀 에서 두 차례 나 볼 을 물 로 보내 는 바람 에 공동 11 위 로 추락 했 다 .	O O O O O O O O O O O O O O O O O O O O PER-B PER-I O LOC-B O O O O O O O O O O PER-B PER-I PER-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+평범한 그린 을 만들 려고 땅 을 파 고 있 었 는데 이 장면 을 우연히 지켜본 그 의 아내 가 “ 이 홀 은 아일랜드 그린 으로 만들 면 어때요 ? ” 라고 말해 악명 높 은 홀 이 탄생하 게 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+빌럽스 는 8 일 ( 이하 한국 시간 ) 플로리다주 올랜도 암웨이 아레나 에서 열린 올랜도 매직 과 의 3 차 전 개시 4 분 만 에 우측 햄스트링 부상 을 당해 쓰러 졌 다 .	PER-B O DAT-B DAT-I O O LOC-B O O LOC-B LOC-B LOC-B LOC-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+올랜도 는 1 쿼터 를 30 - 16 으로 마 쳤 다 .	ORG-B O O O O O O O O O O O O
+해밀턴 은 이날 24 점 6 리바운드 를 올 렸 다 .	PER-B O O O O O O O O O O O
+이 로써 레이커스 는 덴버 너게츠 와 의 1 라운드 를 4 전 전승 으로 마친 데 이 어 2 라운드 홈 2 연전 을 독식해 플레이오프 6 연승 행진 을 달 렸 다 .	O O ORG-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유타 는 파워 포워드 카를로스 부저 가 경기 초반 부터 파울 트러블 에 빠지 면서 고전 을 면 치 못 했 다 .	PER-B O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+[ 뉴스 플러스 ] 배구 대표 팀 불응한 정대영 - 황연주 1 년 출전 정지 外	O O O O O O O O PER-B O PER-B O O O O O

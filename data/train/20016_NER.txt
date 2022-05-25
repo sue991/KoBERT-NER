@@ -1,12 +1,12 @@
-메시지는 태릉선수촌과 진천선수촌에 설치되 +ㄴ 응원담벼락을 통하+여선수들에게 바로 전달되+ㄴ다 .	O LOC-B LOC-B O O O O O O O
-RFA “북, 탄핵 이후 진보세력 집권 돕ㄹ 것” 보 .	O ORG-B O O O O O O O O
-칵스의 다섯 멤버는 호원대 실용학과에서 만나 +았다 .	PER-B O O ORG-B ORG-I O O O
-영주시는 앞으로도 풍기인삼을 현장체험, 관광, 가공 등 다양하+ㄴ 분야에 접목시키+어 6차 산업으로서의 부가가치를 극대화하는 데 주력 하+ㄹ 방침이다 .	LOC-B O O O O O O O O O O O O O O O O O O
-광희라디오 쇼, "유재석 VS박명수"… 누구 선택하였나 보 .	PER-B O PER-B PER-B O O O O
-이를테면 ‘Don‘tHurtYourself’는 합작하+ㄴ잭 화이트의 앨범에 실리었대+어도 이상 하+ㄹ 것+이 없다 .	O O PER-B PER-I O O O O O O O
-▲ 서중석(성균관대 교수)=당시 서로 대립적 이+ㄴ 관계에 있었던 개화사상, 동학사상, 위정척사 사상을 모두 민족주의로 보+ㄹ 수 있는가 .	O ORG-B O O O O O O O O O O O O O O O O
-경륜훈련원 MTB코스는 국내 최초 MTB 전용 코스로 한국산악자전거연맹 공인 1등급 코스+이다 .	O O O O O O O ORG-B O O O O
-황교안 국무총리 후보자가 18일 박근혜 대통령에게서 임명장을 받고 44대 총리로 취임하였다 .	PER-B O O O PER-B O O O O O O O
-도별로는 평안북도 951개, 경기 844개, 함경남도 817개, 경남 707개, 충남 697개, 강원 652개, 전남 629개 등으로 드러나 +았다 .	O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O O O O O
-경찰은 황씨에게 경범죄 처벌법상 불안감 조성 혐의로 통고 처분을 +였으며 범칙금 5만원을 매기었다 .	O PER-B O O O O O O O O O MNY-B O O
-지나+ㄴ 9일(수) 진행되+ㄴ 1순위 청약 접수 결과 총 573가구(특별공급 제외) 모집에 2040명이 몰리면서 전 주택형이 마감되었다 .	O O O O O O O O O O O O O O O O O
+메시지 는 태릉 선수촌 과 진천 선수촌 에 설치된 응원 담벼락 을 통해 선수 들 에게 바로 전달된다 .	O O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O
+RFA “ 북 , 탄핵 이후 진보 세력 집권 도 울 것 ” 보도	O O ORG-B O O O O O O O O O O O
+칵스 의 다섯 멤버 는 호원대 실용 학과 에서 만났 다 .	PER-B O O O O ORG-B ORG-I ORG-I O O O O
+영주시 는 앞 으로 도 풍기 인삼 을 현장 체험 , 관광 , 가공 등 다양한 분야 에 접목 시켜 6 차 산업 으로서 의 부가 가치 를 극대화 하 는 데 주력할 방침 이 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+광희 라디오 쇼 , " 유재석 VS 박명수 " … 누구 선택 했 나 보 니	PER-B O O O O PER-B O PER-B O O O O O O O O
+이를테면 ‘ Don ‘ t Hurt Yourself ’ 는 합작한 잭 화이트 의 앨범 에 실 렸 대도 이상할 게 없 다 .	O O O O O O O O O O PER-B PER-I O O O O O O O O O O O
+▲ 서중석 ( 성균관대 교수 ) = 당시 서로 대립적 인 관계 에 있 었 던 개화사상 , 동학사상 , 위정척사 사상 을 모두 민족주의 로 볼 수 있 는가 .	O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경륜 훈련원 MTB 코스 는 국내 최초 MTB 전용 코스 로 한국 산악자전거 연맹 공인 1 등급 코스 다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O
+황교안 국무총리 후보자 가 18 일 박근혜 대통령 에게서 임명장 을 받 고 44 대 총리 로 취임 했 다 .	PER-B O O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O
+도 별 로 는 평안북도 951 개 , 경기 844 개 , 함경남도 817 개 , 경남 707 개 , 충남 697 개 , 강원 652 개 , 전남 629 개 등 으로 드러났 다 .	O O O O LOC-B O O O LOC-B O O O LOC-B O O O LOC-B O O O LOC-B O O O LOC-B O O O LOC-B O O O O O O O
+경찰 은 황 씨 에게 경범죄 처벌 법 상 불안감 조성 혐의 로 통고 처분 을 했 으며 범칙금 5 만 원 을 매 겼 다 .	O O PER-B O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+지난 9 일 ( 수 ) 진행된 1 순위 청약 접수 결과 총 573 가구 ( 특별 공급 제외 ) 모집 에 2040 명 이 몰리 면서 전 주택 형 이 마감 됐 다 .	O DAT-B DAT-I O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

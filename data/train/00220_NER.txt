@@ -1,10 +1,10 @@
-스페인 출신의 한미술품 딜러가 첸씨의 재주를 눈여겨보고 ‘위작을 그리 +어보자’고 제안하+ㄴ 것.이 딜러는 크뇌들러 갤러리에 15년간 첸씨가 그리 +ㄴ위작 40여 점을 팔았다 .	LOC-B O O O PER-B O O O O O O O O ORG-B ORG-I O PER-B O O O O O O
-국내 양대 미술품 경매회사 이+ㄴ 서울·K옥션의 낙찰가 총액은 2011년 532억원에서 단색화가 본격적으로 거래되기 시작하+ㄴ 2015년에는 1746억원으로 껑충 뛰었다 .	O O O O O ORG-B O O O MNY-B O O O O O MNY-B O O O
-[정상화·하종현·정창섭·김기린 화백 등 인기]오+ㄹ 연말에도 단색화 경매는 뜨겁ㄹ 전망이다 .	PER-B O O O O O O O O O
-선체조사위 활동 기간은 6개월 이내로, 필요하+ㄹ 때 1회에 한 하+여 4개월 이내 범위에서 한 차례 연장 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O
-모하비는 지난해 1월부터 8월까지 8401대가 팔리+어 전년 동기 대비 19.4% 판매가 증가하는 등 생산 중단 전까지 크+ㄴ 인기를 끌었고, 한때 정의선 현대차 부회장이 타고 다니면서 ‘정의선차’로 불리기도 +였다 .	O O O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O PER-B O O O
-국립수목원은 2011년 102억원을 들이어 DMZ 자생식물원 건립에나+아서 2013년 국립수목원 분원으로 시설을 완공 하+ㄴ 뒤 그동안 8개 전시원을 조성하+여+았습니다 .	MNY-I O MNY-B O LOC-B MNY-I O O O O O O O O O O O O O
-식물원은 해발 630m 고지대에 위치하+여펀치볼 일대 전경이 내리+어다 보이+ㅂ니다 .	O O O O O O O O O O
-박 교수에 따르면 3·1운동 이후 1920년 북간도 지역 독립군들의 무기 보유 현황은 놀랍ㄴ 수준이다 .	PER-B O O O O O LOC-B O O O O O O O O
-이곳에서 200m 정도 떨어지+ㄴ남창원 농협 대남지점 도 장애인이 이용하는 데 불편하기는 마찬가지+이었다 .	O O O O ORG-B O O O O O O O O
-김인식(70) 대표팀 감독은 지나 +ㄴ 21일 일본 전지훈련을 마무리하면서 "태극마크를 처음 달 +ㄴ 선수들의 활약이 중요하다"고 밝히었다 .	PER-B ORG-B O O O O LOC-B O O O O O O O O O O O
+스페인 출신 의 한 미술품 딜러 가 첸 씨 의 재주 를 눈여겨보 고 ‘ 위작 을 그려 보 자 ’ 고 제안한 것 . 이 딜러 는 크뇌들러 갤러리 에 15 년 간 첸 씨 가 그린 위작 40 여 점 을 팔 았 다 .	LOC-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O PER-B O O O O O O O O O O O O
+국내 양대 미술품 경매 회사 인 서울 · K 옥션 의 낙찰가 총액 은 2011 년 532 억 원 에서 단색화 가 본격적 으로 거래되 기 시작한 2015 년 에 는 1746 억 원 으로 껑충 뛰 었 다 .	O O O O O O ORG-B O ORG-B ORG-I O O O O DAT-B DAT-I MNY-B MNY-I MNY-I O O O O O O O O DAT-B DAT-I O O MNY-B MNY-I MNY-I O O O O O O
+[ 정상화 · 하종현 · 정창섭 · 김기린 화백 등 인기 ] 올 연말 에 도 단색화 경매 는 뜨거 울 전망 이 다 .	O PER-B O PER-B O PER-B O PER-B O O O O O O O O O O O O O O O O O
+선체 조사 위 활동 기간 은 6 개월 이내 로 , 필요할 때 1 회 에 한해 4 개월 이내 범위 에서 한 차례 연장할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+모하비 는 지난해 1 월 부터 8 월 까지 8401 대 가 팔려 전년 동기 대비 19.4 % 판매 가 증가하 는 등 생산 중단 전 까지 큰 인기 를 끌 었 고 , 한때 정의선 현대차 부회장 이 타 고 다니 면서 ‘ 정의선 차 ’ 로 불리 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O
+국립 수목원 은 2011 년 102 억 원 을 들 여 DMZ 자생 식물원 건립 에 나서 2013 년 국립 수목원 분원 으로 시설 을 완공한 뒤 그동안 8 개 전시원 을 조성해 왔 습니다 .	ORG-B ORG-I O DAT-B DAT-I MNY-B MNY-I MNY-I O O O LOC-B O O O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O
+식물원 은 해발 630 m 고지대 에 위치해 펀치 볼 일대 전경 이 내려다 보입니다 .	O O O O O O O O O O O O O O O O
+박 교수 에 따르 면 3 · 1 운동 이후 1920 년 북간도 지역 독립군 들 의 무기 보유 현황 은 놀라 운 수준 이 다 .	PER-B O O O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O
+이곳 에서 200 m 정도 떨어진 남 창원 농협 대남 지점 도 장애인 이 이용하 는 데 불편하 기 는 마찬가지 였 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+김인식 ( 70 ) 대표 팀 감독 은 지난 21 일 일본 전지훈련 을 마무리하 면서 " 태극 마크 를 처음 단 선수 들 의 활약 이 중요하 다 " 고 밝 혔 다 .	PER-B O O O ORG-B ORG-I O O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O O O O O O O O

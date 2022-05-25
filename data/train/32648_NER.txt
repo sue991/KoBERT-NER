@@ -1,15 +1,15 @@
-블라터 前 FIFA 회장, 여자월드컵 일정 불참하+ㄴ이유는?'알고 보니 … .	PER-B O ORG-B O O O O O O O
-현대기아차는 급변하는 경영환경 속에서 미래 자동차 시장을 선도하기 위하+ㄴ 핵심 사업 분야로 친환경차 분야를 강화하고 있다 .	ORG-B O O O O O O O O O O O O O O O O
-현대기아차는 이미 2014년 말 ‘2020년까지 현대기아차의 평균 연비를 25% 향상시키겠다’는 내용을 뼈대로 하는 ‘2020 연비 향상 로드맵’을 발표하였다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O
-옥주현은 “나+의 손이 굉장히 거칠고 건조하다 .	PER-B O O O O O O
-특히 지난해 CU의 도시락 구매자 연령은 30대 이상이 58.6%로 10~20대(41.4%)를 크게 앞서 +었다 .	O O ORG-B O O O O O O O O O O O
-CU 관계자는 “편의점 도시락 시장은 2014년 2000억원에서 올해 5000억원 이상으로 커지+ㄹ 것”이라고 전망하였다 .	ORG-B O O O O O MNY-B O MNY-B O O O O O
-반면 1기 신도시 이+ㄴ 일산이 있는 경기 고양시의 경우 중심상업지역이 침체되+ㄴ점이 반영되+어덕양구(-0.04%), 일산서구(0.20%), 일산동구(0.83%) 등이 전국 시군구 중 변동률 최하위 10위권에 들었다 .	O O O O LOC-B O LOC-B LOC-B O O O LOC-B LOC-B LOC-B O O O O O O O O O
-택시 홍수 아 “추자현 中 여신, 회당 출연료 1억 정도”… 인기 이 정도+이었어? 배우 홍수아가 중국에서 추자현의 인기를 언급하였다 .	O O O PER-B LOC-B O O O MNY-B O O O O O PER-B LOC-B PER-B O O O
-병사들 전역 연기, 50여명 연기 희망… “마지막까지 책임 다 하+ㄹ 기회 주어 지+ㄴ 것에 감사”북한의 군사도발로 한반도의 긴장감이 높아 지+ㄴ 가운데, 전역을 미루는 육군 장병들이 늘고 있다 .	O O O O O O O O O O O O O O ORG-B O LOC-B O O O O O O O O O O O
-육군에 따르면 24일 오전 7시까지 50명의 장병들이 전역 연기를 희망하였으며, 현 상황이 종료되+ㄹ 때까지 전역 연기 신청자는 늘어나 +ㄹ 전망이다 .	O O O O O O O O O O O O O O O O O O O O O
-육군 15사단에 근무 중이던 강범석(22) 병장은 “북한의 목함지뢰 도발을 보면서 전역 연기를 생각하였다 .	ORG-B ORG-I O O PER-B O ORG-B O O O O O O O
-오늘부터 경정 그랑프리 포인트 3차 대회 이번 주(12∼13일) 미사리 경정장은 말복 더위보다 더 뜨겁게 달아오르+ㄹ 전망이다 .	O O O O O O O O LOC-B LOC-I O O O O O O O
-신차의 제원은 아직 밝혀지지 않은 가운데 최근 엑센트를 시작으로 벨로스터, i30, i40에 순차적으로 들어가 +ㄴ 7단 더블 클러치 트랜스미션(DCT, Dou bleClutchTransmission)의 탑재가 유력하다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-애플의 ‘아이폰7’과 ‘아이폰7플러스’의 출시 당일과 이튿날의 번호이동 건수가 총 6만건을 넘은 것으로 나타나 +았다 .	ORG-B O O O O O O O O O O O O O O
-주말 디저트 뷔페에서는 낮 12시부터 5시까지 리치앤 망고슈, 망고앤코코넛크럼을, 리치 파나코타, 패션크림 롤케이크, 망고 앤리치티라미수 등 리치와 망고로 만들 +ㄴ 디저트를 즐기+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+블라터 前 FIFA 회장 , 여자 월드컵 일정 불참한 이유 는 ? ' 알 고 보 니 … '	PER-B O ORG-B O O O O O O O O O O O O O O O O
+현대기아차 는 급변하 는 경영 환경 속 에서 미래 자동차 시장 을 선도하 기 위한 핵심 사업 분야 로 친환경 차 분야 를 강화하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현대기아차 는 이미 2014 년 말 ‘ 2020 년 까지 현대 기아차 의 평균 연비 를 25 % 향상 시키 겠 다 ’ 는 내용 을 뼈대 로 하 는 ‘ 2020 연비 향상 로드맵 ’ 을 발표 했 다 .	ORG-B O O DAT-B DAT-I O O DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O DAT-B O O O O O O O O O
+옥주현 은 “ 내 손 이 굉장히 거칠 고 건조하 다 .	PER-B O O O O O O O O O O O
+특히 지난해 CU 의 도시락 구매자 연령 은 30 대 이상 이 58.6 % 로 10 ~ 20 대 ( 41.4 % ) 를 크 게 앞섰 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+CU 관계자 는 “ 편의점 도시락 시장 은 2014 년 2000 억 원 에서 올해 5000 억 원 이상 으로 커질 것 ” 이라고 전망 했 다 .	ORG-B O O O O O O O DAT-B DAT-I MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O
+반면 1 기 신도시 인 일산 이 있 는 경기 고양시 의 경우 중심 상업 지역 이 침체된 점 이 반영돼 덕양구 ( - 0.04 % ) , 일산 서구 ( 0.20 % ) , 일산동구 ( 0.83 % ) 등 이 전국 시 군 구 중 변동 률 최 하위 10 위 권 에 들 었 다 .	O O O O O LOC-B O O O LOC-B LOC-B O O O O O O O O O O LOC-B O O O O O O LOC-B LOC-I O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+택시 홍수아 “ 추자현 中 여신 , 회당 출연료 1 억 정도 ” … 인기 이 정도 였 어 ? 배우 홍수아 가 중국 에서 추자현 의 인기 를 언급 했 다 .	O PER-B O PER-B LOC-B O O O O MNY-B MNY-I O O O O O O O O O O PER-B O LOC-B O PER-B O O O O O O O
+병사 들 전역 연기 , 50 여 명 연기 희망 … “ 마지막 까지 책임 다할 기회 주어진 것 에 감사 ” 북한 의 군사 도발 로 한반도 의 긴장감 이 높아진 가운데 , 전역 을 미루 는 육군 장병 들 이 늘 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+육군 에 따르 면 24 일 오전 7 시 까지 50 명 의 장병 들 이 전역 연기 를 희망 했 으며 , 현 상황 이 종료될 때 까지 전역 연기 신청자 는 늘어날 전망 이 다 .	O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+육군 15 사단 에 근무 중 이 던 강범석 ( 22 ) 병장 은 “ 북한 의 목함지뢰 도발 을 보 면서 전역 연기 를 생각 했 다 .	ORG-B ORG-I ORG-I O O O O O PER-B O O O O O O ORG-B O O O O O O O O O O O O O
+오늘 부터 경정 그랑프리 포인트 3 차 대회 이번 주 ( 12 ∼ 13 일 ) 미사리 경정 장 은 말복 더위 보다 더 뜨겁 게 달아오를 전망 이 다 .	O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O DAT-B O O O O O O O O O O
+신차 의 제원 은 아직 밝혀지 지 않 은 가운데 최근 엑센트 를 시작 으로 벨로스 터 , i 30 , i 40 에 순차적 으로 들어간 7 단 더블 클러치 트랜스미션 ( DCT , Double Clutch Transmission ) 의 탑재 가 유력하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+애플 의 ‘ 아이폰 7 ’ 과 ‘ 아이폰 7 플러스 ’ 의 출시 당일 과 이튿날 의 번호 이동 건수 가 총 6 만 건 을 넘 은 것 으로 나타났 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주말 디저트 뷔페 에서 는 낮 12 시 부터 5 시 까지 리치 앤 망고 슈 , 망고 앤 코코넛 크럼 블 , 리치 파나 코타 , 패션 크림 롤 케이크 , 망고 앤 리치 티라미수 등 리치 와 망고 로 만든 디저트 를 즐길 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

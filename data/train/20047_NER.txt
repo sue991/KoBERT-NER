@@ -1,9 +1,9 @@
-국방부는 또 정전협정이 유엔군사령관, 조선인민군 최고사령관, 중국 인민지원 군사령관 등 3자의 상호 합의로 쳬결되+ㄴ 것이기 때문에 상호 합의가 없는 북한 측의 일방적 이+ㄴ 철수는 의미가 없고 정전협정 체제는 계속 유효하다는 점을 강조하고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 장치가 빛을 보+ㄴ 것은 다르+ㅁ 아니+ㄴ 2차 세계대전이었다 .	O O O O O O O O O O
-그런 뒤 국영 언론매체를 찾아가 +ㄴ 것+ㄴ창간쯔의 다음 순서로 비간쯔를 휘어잡는 작업에 착수하+ㄴ 것으로 받아들이어 지+ㄴ다 .	O O O O O O ORG-B O O ORG-B O O O O O O O
-비시즌 기간에 가드훈련을 받은 것으로 알려지+ㄴ 포워드함지훈은 24일까지 정규시즌 어시스트 1위 프로야구(평균 7개)를 달리고 있다 .	O O O O O O O O O O O O O O O O
-쾌적하+ㄴ 백화점형 시장… “원주 최고 멋과 맛다모이었어요 .	O O O LOC-B O O O O
-이길여 총장은 강의를 듣기 위 하+여 언덕을 오르내리+어야 하는 여학생들의 불편을 해소 하+ㄹ 방법이 없을까 고민하다가 ‘재미도 있고 타 +아보고 싶은 예쁘+ㄴ버스를 만들어보자’는 생각에서 딱정벌 레버스의 아이디어를 내+었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-공산당 기관지 런민(人民) 일보가 발행하는 잡지인 민논단(人民論壇)이 최신호에서 시 주석을 마오쩌둥(毛澤東) 전 주석이 후 처음으로 ‘영수(領袖·우두머리)’로 찬양하였다고 홍콩의 사우스차이나모닝포스트(SCMP)가 23일 보도하였다 .	O O ORG-B O O O ORG-B O PER-B O PER-B O O O O O O LOC-B ORG-B O O O
-북한의 만원 관 중이 열띠+ㄴ 응원을 펼치+ㄹ 것으로 보이+ㄴ다 .	ORG-B O O O O O O O O O
-주진우기자, D대 관련 기사에 “취재 욕심이 불끈 솟습니다 .	PER-B O O O O O O O O
+국방부 는 또 정전 협정 이 유엔군 사령관 , 조선 인민군 최고 사령관 , 중국 인민 지원군 사령관 등 3 자 의 상호 합의 로 쳬결 된 것 이 기 때문 에 상호 합의 가 없 는 북한 측 의 일방적 인 철수 는 의미 가 없 고 정전 협정 체제 는 계속 유효하 다는 점 을 강조하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 장치 가 빛 을 본 것 은 다름 아닌 2 차 세계 대전 이 었 다 .	O O O O O O O O O O O O O O O O O O
+그런 뒤 국영 언론 매체 를 찾아간 건 창간 쯔 의 다음 순서 로 비 간쯔 를 휘어잡 는 작업 에 착수한 것 으로 받아들 여 진다 .	O O O O O O O O ORG-B ORG-I O O O O ORG-B ORG-I O O O O O O O O O O O O
+비 시즌 기간 에 가드 훈련 을 받 은 것 으로 알려진 포워드 함지훈 은 24 일 까지 정규 시즌 어시스트 1 위 프로야구 ( 평균 7 개 ) 를 달리 고 있 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+쾌적한 백화점 형 시장 … “ 원주 최고 멋 과 맛 다 모 였 어요 ”	O O O O O O LOC-B O O O O O O O O O
+이길여 총장 은 강의 를 듣 기 위해 언덕 을 오르내려야 하 는 여학생 들 의 불편 을 해소할 방법 이 없 을까 고민하 다가 ‘ 재미 도 있 고 타 보 고 싶 은 예쁜 버스 를 만들 어 보 자 ’ 는 생각 에서 딱정벌레 버스 의 아이디어 를 냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공산당 기관지 런 민 ( 人民 ) 일보 가 발행하 는 잡지 인민 논단 ( 人民論壇 ) 이 최신 호 에서 시 주석 을 마오쩌둥 ( 毛澤東 ) 전 주석 이후 처음 으로 ‘ 영수 ( 領袖 · 우두머리 ) ’ 로 찬양 했 다고 홍콩 의 사우스차이나모닝포스트 ( SCMP ) 가 23 일 보도 했 다 .	O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O PER-B O O PER-B O PER-B O O O O O O O O O O O O O O O O O O LOC-B O ORG-B O ORG-B O O DAT-B DAT-I O O O O
+북한 의 만 원 관중 이 열띤 응원 을 펼칠 것 으로 보인다 .	ORG-B O O O O O O O O O O O O O
+주진우 기자 , D 대 관련 기사 에 “ 취재 욕심 이 불끈 솟 습니다 ”	PER-B O O O O O O O O O O O O O O O

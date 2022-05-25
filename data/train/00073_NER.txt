@@ -1,15 +1,15 @@
-슬픔 연관어를 분석하+여보면 ‘힘들다(11.4%)’는 단어가 눈에 띄+ㄴ다 .	O O O O O O O O
-또한 에스카다는 이번 시즌 봄 기운이 물씬 느끼+어지는 다양하+ㄴ 플로럴 컬렉션을 선보이+ㄴ다 .	O ORG-B O O O O O O O O O O O
-이원영 중앙대 유아교육과 명예교수는 “존댓말을 사용하면 상대방뿐 아니라 모두에게 좋은 결과를 가져 오+ㄴ다”고 강조하였다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O
-이날 목욕탕을 찾은 김민혁 씨(29)는 “주말이면 항상 냉탕안은 떠들고 장난치는 아이들로 넘치는데 목욕탕 특성 때문에 소리가 더 크게 울리는 데 .	O O O PER-B O O O O O O O O O O O O O O O O O
-하지만 1라운드 경연에서 마시+ㄹ+어나오+ㄴ 솜사탕에 아쉽게 패하+ 여도전을 멈추었고 가면을 벗어 '사랑의 배터리가 다 +었나 보+아요'가 가수 정재욱이었음을 밝히었다 .	O O O O O O O O O O O O O O O O O PER-B O O
-완주군의 인구가 급증하+ㄴ 가장 크+ㄴ 요인은 전주시 반월동과 완주군이 서면에 걸치+어 있는 전북혁신도시에 아파트 입주가 본격화 하+ㄴ 결과 +이다 .	LOC-B O O O O O LOC-B LOC-B LOC-B O O O LOC-B O O O O O O O
-이 가운데 설리로 추정되는 한 계정의 사용자가 “예쁘다 예쁘다 예쁘 .	O O PER-B O O O O O O O O
-홍진호 레이디제인, ‘기습 입술 뽀뽀’… 홍진호 “이 설레+ㅁ이 진짜 이+ㄴ지, 가짜 이+ㄴ지…” 홍진호 레이디 제인의 키스가 ‘비즈니스’가 아니+ㄴ ‘썸’으로 연결되었다 .	PER-B PER-B O O O PER-B O O O O O O PER-B PER-B PER-I O O O O O O
-9일 방송되+ㄴJTBC ‘5일간의 썸머’에서는 홍진호 레이디제인이 프라하를 여행하고 최종 선택을 하는 모습이 방송되었다 .	O O O O PER-B PER-B LOC-B O O O O O O O
-이날 홍진호는 레이디제인에게 “나 소원권 있지 않냐” +이라며 “여기서 뽀뽀 하+여”라고 말하였다 .	O PER-B PER-B O O O O O O O O O O
-이에 레이디제인은 “뭐 +이라고? 정말로?” +이라며 “무슨 소리+ 이야”라고 당황하는 모습을 보이었다 .	O PER-B O O O O O O O O O O O
-하지만 홍진호는 “이 설레+ㅁ이 진짜 이+ㄴ지, 가짜 이+ㄴ지 확실하게 판단 하+여야 하+ㄴ다”고 말하며 “내가 못 되+ㄴ 남자 +이라면 다 집에 가라고 하+ 여놓고 소원을 말하+ㄹ 수도 있다”는 말로 레이디 제인의 뽀뽀를 받아내 +었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O
-당시 레이디 제인이 홍진호에게 뽀뽀하려는 순간, 홍진호는 얼굴을 돌리+어레이디 제인과 입술을 맞추었고 이에 레이디 제인은 “아~” 소리를 내며 주저앉는 모습을 보이었다 .	O PER-B PER-I PER-B O O PER-B O PER-B PER-I O O O PER-B PER-I O O O O O O O
-한편 최종 ‘비즈니스’와 ‘썸’을 선택하는 자리에서는 홍진호는 반지를 끼고 나오아 ‘썸’을 선택하었지만, 레이디 제인의 양손 어디에도 반지가 보이지 않았다 .	O O O O O O PER-B O O O O O PER-B PER-I O O O O O O
-이에 홍진호는 아쉽ㄴ표정이 역력하었지만, 레이디 제인은 “반지가 너무 +어서 끼고 나오지 못 +였다”면서 목걸이에 걸고 나오+ㄴ 반지를 보이어주며 ‘썸’을 선택하었다는 것을 홍진호에게 알리었다 .	O PER-B O O PER-B PER-I O O O O O O O O O O O O O O O PER-B O O
+슬픔 연관 어 를 분석해 보 면 ‘ 힘들 다 ( 11.4 % ) ’ 는 단어 가 눈 에 띈다 .	O O O O O O O O O O O O O O O O O O O O O O
+또한 에스카다 는 이번 시즌 봄기운 이 물씬 느껴 지 는 다양한 플로럴 컬렉션 을 선보인다 .	O ORG-B O O O O O O O O O O O O O O O
+이원영 중앙대 유아 교육 과 명예교수 는 “ 존댓말 을 사용하 면 상대방 뿐 아니 라 모두 에게 좋 은 결과 를 가져온다 ” 고 강조 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+이날 목욕탕 을 찾 은 김민혁 씨 ( 29 ) 는 “ 주말 이 면 항상 냉탕 안 은 떠들 고 장난치 는 아이 들 로 넘치 는데 목욕탕 특성 때문 에 소리 가 더 크 게 울리 는 데 다	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 1 라운드 경연 에서 마실 나온 솜사탕 에 아쉽 게 패해 도전 을 멈 췄 고 가면 을 벗 어 ' 사랑 의 배터리 가 다 됐 나 봐요 ' 가 가수 정재욱 이 었 음 을 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+완주군 의 인구 가 급증한 가장 큰 요인 은 전주시 반월동 과 완주군 이서면 에 걸쳐 있 는 전북 혁신 도시 에 아파트 입주 가 본격화한 결과 다 .	LOC-B O O O O O O O O LOC-B LOC-B O LOC-B LOC-B O O O O LOC-B LOC-I LOC-I O O O O O O O O
+이 가운데 설리 로 추정되 는 한 계정 의 사용자 가 “ 예쁘 다 예쁘 다 예쁘 다	O O PER-B O O O O O O O O O O O O O O O
+홍진호 레이디 제인 , ‘ 기습 입술 뽀뽀 ’ … 홍진호 “ 이 설렘 이 진짜 인지 , 가짜 인지 … ” 홍진호 레이디 제인 의 키스 가 ‘ 비즈니스 ’ 가 아닌 ‘ 썸 ’ 으로 연결 됐 다 .	PER-B PER-B PER-I O O O O O O O PER-B O O O O O O O O O O O PER-B PER-B PER-I O O O O O O O O O O O O O O O O
+9 일 방송된 JTBC ‘ 5 일 간 의 썸머 ’ 에서 는 홍진호 레이디 제인 이 프라하 를 여행하 고 최종 선택 을 하 는 모습 이 방송 됐 다 .	DAT-B DAT-I O O O O O O O O O O O PER-B PER-B PER-I O LOC-B O O O O O O O O O O O O O O
+이날 홍진호 는 레이디 제인 에게 “ 나 소원 권 있 지 않 냐 ” 라며 “ 여기 서 뽀뽀해 ” 라고 말 했 다 .	O PER-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O
+이 에 레이디 제인 은 “ 뭐 라고 ? 정말로 ? ” 라며 “ 무슨 소리 야 ” 라고 당황하 는 모습 을 보 였 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+하지만 홍진호 는 “ 이 설렘 이 진짜 인지 , 가짜 인지 확실하 게 판단해야 한다 ” 고 말하 며 “ 내 가 못된 남자 라면 다 집 에 가 라고 해 놓 고 소원 을 말할 수 도 있 다 ” 는 말 로 레이디 제인 의 뽀뽀 를 받 아 냈 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+당시 레이디 제인 이 홍진호 에게 뽀뽀 하 려는 순간 , 홍진호 는 얼굴 을 돌려 레이디 제인 과 입술 을 맞 췄 고 이 에 레이디 제인 은 “ 아 ~ ” 소리 를 내 며 주저앉 는 모습 을 보 였 다 .	O PER-B PER-I O PER-B O O O O O O PER-B O O O O PER-B PER-I O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+한편 최종 ‘ 비즈니스 ’ 와 ‘ 썸 ’ 을 선택하 는 자리 에서 는 홍진호 는 반지 를 끼 고 나 와 ‘ 썸 ’ 을 선택 했 지만 , 레이디 제인 의 양손 어디 에 도 반지 가 보이 지 않 았 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
+이 에 홍진호 는 아쉬 운 표정 이 역력 했 지만 , 레이디 제인 은 “ 반지 가 너무 커서 끼 고 나오 지 못 했 다 ” 면서 목걸이 에 걸 고 나온 반지 를 보 여 주 며 ‘ 썸 ’ 을 선택 했 다는 것 을 홍진호 에게 알 렸 다 .	O O PER-B O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O

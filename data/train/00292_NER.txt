@@ -1,15 +1,15 @@
-연구소 조사에 따르면 지나 +ㄴ 여름 약 20일 동안 영국과 스코틀랜드의 도로에서 폴크스바겐과 아우디를 비롯하+ㄴ 주요 인기 브랜드 4개 업체, 300대 차량을 대상으로 배출가스량을 조사하+ㄴ 결과 평균 1km 당 0.08g 이상의 질소산화물(NOx)이 배출되+어 현행 유로6 기준을 모두 만족하지 않는 것으로 조사되었다 .	O O O O O O O O O LOC-B LOC-B O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-북한과 중국 주민들의 무관세 교역 구역으로 양국 국경 지역 반경 20km 이내 거주자+이라면 누구나 하루 8000위안(약 143만원)이하의 상품을 관세 없이 사고팔+ㄹ 수 있다 .	ORG-B ORG-B O O O O O O O O O O O O O MNY-B MNY-B O O O O O O O
-박 대통령 지지율, TK에서도 부정적 평가가 긍정 평가 앞서 + .	PER-B O O O O O O O O O O
-또 공무목적이거나 국제기구와 비정부기구(NGO) 활동, 취재목적의 방문자도 불이익을 받지 않도록 배려하고 있다 .	O O O ORG-B O O O O O O O O O
-환경부는 지난해 11월부터 올해 6월까지 레인지로버 이보크2.2D 차량 9대를 선정하+여수시 검사를 실시하였다 .	ORG-B O O O O ORG-B O O O O O O O
-[단독]2년 지나 +ㄴ 식재료 버무리+어… 양심불량 요양원 밥 .	O O O O O O O O O
-서울에서 6시간이나 걸리는 멀+ㄴ 곳이라 빡빡 하+ㄴ일정을 맞추기 위하+여 그야말로 날 다시피 다녀오았다 .	LOC-B TIM-B O O O O O O O O O O O O
-그는 새롭ㄴ 삶의 터전에서 천안함 사건에 의문을 품은 사람들을 만나면서 속으로 눈물을 훔치 +ㄴ적이 한두 번이 아니라고 전하였다 .	O O O O O O O O O O O O O O O O O O O
-가디언은 2011년 미국판, 2013년 호주판을 만들었다 .	ORG-B O LOC-B O LOC-B O O
-자영업자 대출이 가장 취약하+ㄴ고리 서울 동대문구에 살는 박모씨(58)는 지난해 30여년간 다니던 직장을 그만두고 동대문 쪽에 김밥집을 차리었다 .	O O O O LOC-B LOC-B O PER-B O O O O O LOC-B O O O O
-IS는 에미르를 회의장에 데려오면서 휴대전화 등 전자기기를 모두 압수하+여미 정보기관의 추적을 피하였다 .	ORG-B PER-B O O O O O O O O O O O
-교육부의 대학 구조개혁평가에서 D, E등급을 받은 대학들은 당장 다음 주로 다가오+ㄴ 2016학년도 수시모집 원서접수에서 지원율이 뚝 떨어지+ㄹ 것을 가장 걱정하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-재단은 어려움을 겪는 복지빈곤층 20가구에 월세 보증금 200만원을 무이자로 빌리+어+주었다 .	O O O O O O O MNY-B O O O
-선거기간 내내 트럼프에 대하+ㄴ 부정적 기사를 쏟아내 +ㄴ NYT가 당선인과 의 회동 조건도 일방적으로 바꾸었다는 뉘앙스+이었다 .	O O PER-B O O O O O ORG-B O O O O O O O O
-이어 트럼프 당선인은 NYT를 상대로 ‘망하+여가는’이라는 형용사를 계속 붙이었다 .	O PER-B O ORG-B O O O O O O
+연구소 조사 에 따르 면 지난 여름 약 20 일 동안 영국 과 스코틀랜드 의 도로 에서 폴크스바겐 과 아우디 를 비롯한 주요 인기 브랜드 4 개 업체 , 300 대 차량 을 대상 으로 배출 가스 량 을 조사한 결과 평균 1 km 당 0.08 g 이상 의 질소 산화물 ( NOx ) 이 배출돼 현행 유로 6 기준 을 모두 만족하 지 않 는 것 으로 조사 됐 다 .	O O O O O O O O DAT-B DAT-I O LOC-B O LOC-B O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 과 중국 주민 들 의 무관세 교역 구역 으로 양국 국경 지역 반경 20 km 이내 거주자 라면 누구 나 하루 8000 위안 ( 약 143 만 원 ) 이하 의 상품 을 관세 없이 사고팔 수 있 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+박 대통령 지지율 , TK 에서 도 부정적 평가 가 긍정 평가 앞서	PER-B O O O O O O O O O O O O
+또 공무 목적 이 거나 국제기구 와 비 정부 기구 ( NGO ) 활동 , 취재 목적 의 방문자 도 불이익 을 받 지 않 도록 배려하 고 있 다 .	O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O
+환경부 는 지난해 11 월 부터 올해 6 월 까지 레인지 로버 이보크 2.2 D 차량 9 대 를 선정해 수시 검사 를 실시 했 다 .	ORG-B O O DAT-B DAT-I O O DAT-B DAT-I O ORG-B ORG-I O O O O O O O O O O O O O O O
+[ 단독 ] 2 년 지난 식 재료 버무려 … 양심 불량 요양원 밥상	O O O DAT-B DAT-I O O O O O O O O O
+서울 에서 6 시간 이나 걸리 는 먼 곳 이 라 빡빡한 일정 을 맞추 기 위해 그야말로 날 다시피 다녀 왔 다 .	LOC-B O TIM-B TIM-I O O O O O O O O O O O O O O O O O O O O
+그 는 새로 운 삶 의 터전 에서 천안 함 사건 에 의문 을 품 은 사람 들 을 만나 면서 속 으로 눈물 을 훔친 적 이 한두 번 이 아니 라고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가디언 은 2011 년 미국 판 , 2013 년 호주 판 을 만들 었 다 .	ORG-B O DAT-B DAT-I LOC-B O O DAT-B DAT-I LOC-B O O O O O O
+자영업 자 대출 이 가장 취약한 고리 서울 동대문구 에 사 는 박 모 씨 ( 58 ) 는 지난해 30 여 년 간 다니 던 직장 을 그만두 고 동대문 쪽 에 김밥 집 을 차 렸 다 .	O O O O O O O LOC-B LOC-B O O O PER-B PER-I O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+IS 는 에미르 를 회의장 에 데려오 면서 휴대 전화 등 전자 기기 를 모두 압수해 미 정보기관 의 추적 을 피 했 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+교육부 의 대학 구조 개혁 평가 에서 D , E 등급 을 받 은 대학 들 은 당장 다음 주로 다가온 2016 학년도 수시 모집 원서 접수 에서 지원 율 이 뚝 떨어질 것 을 가장 걱정하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+재단 은 어려움 을 겪 는 복지 빈곤 층 20 가구 에 월세 보증금 200 만 원 을 무이자 로 빌려 줬 다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+선거 기간 내내 트럼프 에 대한 부정적 기사 를 쏟 아 낸 NYT 가 당선인 과 의 회동 조건 도 일방적 으로 바 꿨 다는 뉘앙스 였 다 .	O O O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+이어 트럼프 당선인 은 NYT 를 상대 로 ‘ 망해 가 는 ’ 이 라는 형용사 를 계속 붙 였 다 .	O PER-B O O ORG-B O O O O O O O O O O O O O O O O O

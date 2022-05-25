@@ -1,16 +1,16 @@
-▷홍준표 경남도지사는 작년 3월 부인을 동반 하+ㄴ 미국 출장이 논란이 되자 “정치를 시작하+ㄴ 뒤 해외 출장 때 대부분 사비를 들이어 집 사람과 같이 가+ㄴ다”고 말하였다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-배씨는 헌납을 결심하+ㄴ 가장 크+ㄴ이유로 해례본 보존문제를 들었다 .	PER-B O O O O O O O O
-‘모르+ㅁ/무응답’은 1.7%p 감소 하+ㄴ 13.7%.이번 주간 집계는 전화면접(CATI) 및 자동응답(ARS) 방식으로 무선전화(50%)와 유선전화(50%) 병행 RDD 방법으로 조사하었고, 응답률은 전화면접 방식은 15.7%, 자동응답 방식은 6.3%+이었으며 표본오차는 95% 신뢰 수준에서 ±2.0%p이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러나 실제 소유주가 누구 이+ㄴ지를 놓고 배씨와 골동품 판매업자 A씨(2012년 사망) 사이에서 소송이 벌어지기도 +였다 .	O O O O O O PER-B O O PER-B O O O O O O
-1977년 설립되 +ㄴ 국내 최초의 컨테이너 전용선사가 역사 속으로 사라지었다 .	O O O O O O O O O O O
-2월 지구단위계획 신청을 시작으로 5월 지구단위 본심의 통과 및 서울시 건축심의, 12월 조합설립을 진행하+ㄹ 예정이다 .	O O O O O O O O O LOC-B O O O O O O
-랭킹 2위 시즌 마감 “평창선 자신 .	O O O O LOC-B O O
-전체 순위 12위까지 오르면서 주위 지인들로부터 축하 전화를 많이 받았다 .	O O O O O O O O O O O
-신씨는 지난해 3월 집에 서울는 아기를 달래다가 울음을 그치지 않자 화를 참지 못하고 배를 주먹으로 4회 때 리+어 숨지게 하+ㄴ 혐의로 기소되었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-김무성 “연대 고리 역할 하겠다 .	PER-B O O O O O
-유 감독이 질문하자 대답하+ㄴ 추 감독은 “서로에게 질문하지 않기로 하+여놓고서 +ㄴ저러+ㄴ다”라고 핀잔을 +었다 .	PER-B O O O O O O O O O O O O O
-2005년 이후 기록들을 살펴보니 2005년 이후로 좁히+어보면 전문 투수가 안타를 기록하+ㄴ 것은 4차례 +이었다 .	O O O O O O O O O O O O O O O
-미국을 필두로 세계 각국이 금리를 올리면 한국의 금리 인상도 시간문제 이+ㄹ뿐이다 .	ORG-B O O O O O ORG-B O O O O O
-이태일은 ‘매일 밤’과 ‘어떤 날’의 싱글 재킷에도 동일하게 등장하+ㄴ다 .	PER-B O O O O O O O O O
-애프터나잇 프로젝트 소속사 팝뮤직은 “애프터나 잇 프로젝트의 음악적 정서를 가장 잘 표현하+ㄹ 수 있는 영상과 각 곡의 뮤직비디오를 연속성 있는 하나의 이야기로 담아내 +ㅁ으로써 대중들에게 지속적 이+ㄴ 궁금증을 불러일으키+ㄹ 수 있는 형식의 기획”이라고 설명하였다 .	ORG-B ORG-I O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또 이번 ‘어떤 날’에 대하+여서는 “연인과 헤어지+ㄴ 후에 느끼는 슬픔, 늦은 저녁 홀로 퇴근길에서 느끼는 쓸쓸하+ㄴ 감성, 계절의 변화와 함께 찾아오는 공허하+ㅁ 같은 누구나 경험하+ㄹ 수 있는 ‘보통의외로움’을 담은 곡”이라고 설명하고 “이 노래를 통하+여 많은 분들에게 공감과 위로가 전달되기 +ㄹ바라+ㄴ다”고 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+▷ 홍준표 경남 도지사 는 작년 3 월 부인 을 동반한 미국 출장 이 논란 이 되 자 “ 정치 를 시작한 뒤 해외 출장 때 대부분 사비 를 들 여 집사람 과 같이 간다 ” 고 말 했 다 .	O PER-B O O O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+배 씨 는 헌납 을 결심한 가장 큰 이유 로 해례 본 보존 문제 를 들 었 다 .	PER-B O O O O O O O O O O O O O O O O O O
+‘ 모름 / 무 응답 ’ 은 1.7 % p 감소한 13.7 % . 이번 주간 집계 는 전화 면접 ( CATI ) 및 자동 응답 ( ARS ) 방식 으로 무선전화 ( 50 % ) 와 유선전화 ( 50 % ) 병행 RDD 방법 으로 조사 했 고 , 응답 률 은 전화 면접 방식 은 15.7 % , 자동 응답 방식 은 6.3 % 였 으며 표본 오차 는 95 % 신뢰 수준 에서 ± 2.0 % p 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 실제 소유주 가 누구 인지 를 놓 고 배 씨 와 골동품 판매업자 A 씨 ( 2012 년 사망 ) 사이 에서 소송 이 벌어지 기 도 했 다 .	O O O O O O O O O PER-B O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O O
+1977 년 설립된 국내 최초 의 컨테이너 전용 선사 가 역사 속 으로 사라 졌 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O
+2 월 지구 단위 계획 신청 을 시작 으로 5 월 지구 단위 본 심의 통과 및 서울 시 건축 심의 , 12 월 조합 설립 을 진행할 예정 이 다 .	DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O LOC-B LOC-I O O O DAT-B DAT-I O O O O O O O O
+랭킹 2 위 시즌 마감 “ 평창 선 자신 ”	O O O O O O LOC-B O O O
+전체 순위 12 위 까지 오르 면서 주위 지인 들 로부터 축하 전화 를 많이 받 았 다 .	O O O O O O O O O O O O O O O O O O O
+신 씨 는 지난해 3 월 집 에서 우 는 아기 를 달래 다가 울음 을 그치 지 않 자 화 를 참 지 못하 고 배 를 주먹 으로 4 회 때려 숨지 게 한 혐의 로 기소 됐 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김무성 “ 연대 고리 역할 하 겠 다 ”	PER-B O O O O O O O O
+유 감독 이 질문하 자 대답한 추 감독 은 “ 서로 에게 질문하 지 않 기 로 해 놓 고선 저런다 ” 라고 핀잔 을 줬 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2005 년 이후 기록 들 을 살펴보 니 2005 년 이후 로 좁혀 보 면 전문 투수 가 안타 를 기록한 것 은 4 차례 였 다 .	DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+미국 을 필두 로 세계 각국 이 금리 를 올리 면 한국 의 금리 인상 도 시간문제 일 뿐 이 다 .	ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O
+이태일 은 ‘ 매일 밤 ’ 과 ‘ 어떤 날 ’ 의 싱글 재킷 에 도 동일하 게 등장한다 .	PER-B O O O O O O O O O O O O O O O O O O O
+애프터 나잇 프로젝트 소속 사 팝 뮤직 은 “ 애프터 나잇 프로젝트 의 음악 적 정서 를 가장 잘 표현할 수 있 는 영상 과 각 곡 의 뮤직 비디오 를 연속성 있 는 하나 의 이야기 로 담 아 냄 으로써 대중 들 에게 지속적 인 궁금증 을 불러일으킬 수 있 는 형식 의 기획 ” 이라고 설명 했 다 .	ORG-B ORG-I ORG-I O O ORG-B ORG-I O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 이번 ‘ 어떤 날 ’ 에 대해서 는 “ 연인 과 헤어진 후 에 느끼 는 슬픔 , 늦 은 저녁 홀로 퇴근길 에서 느끼 는 쓸쓸한 감성 , 계절 의 변화 와 함께 찾아오 는 공허함 같 은 누구 나 경험할 수 있 는 ‘ 보통 의 외로움 ’ 을 담 은 곡 ” 이라고 설명하 고 “ 이 노래 를 통해 많 은 분 들 에게 공감 과 위로 가 전달 되 길 바란다 ” 고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

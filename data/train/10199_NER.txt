@@ -1,14 +1,14 @@
-올스타 15회 선정되+ㄴ 농구계 전설“여정을 함께 하+여고 맙었다”며 작별 또한 명의 미국 프로농구(NBA) 전설이 코트를 떠나 +ㄴ다 .	O O O O O O O O O O O ORG-B ORG-B O O O O O
-황씨는 “근처에 버섯 종균을 사러 +았다가 나뭇가지 사이에 흰색 물체가 움직이는 것+이 보이어서 조용히 다가가 +아살펴보니 참새 +이었다”며 “흰색 참새는 태어나 +아서 처음 보는 것이라 신기하었고, 한동안 참새가 움직이지 않아 찍을 수 있었다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-96세. 총 모자란 조선시대 관모의 하나이+ㄴ갓의 모자 부분이다 .	O O O O O O O O O
-조정교부금 배분 기준도 재정력지수 반영비율을 20%에서 30%로 높이고 징수실적 비율은 30%에서 20%로 낮추기로 +였다 .	O O O O O O O O O O O O O O O
-정정순 행자부지방재정세제실장은 “지난해의 경우 경기도 조정교부금 2조6000억원 중 1조4000억원을 6개 시가 우선 가져가고 나머지 1조2000억원을 25개 시·군이나 누+어가지었다”며 “이로 인하+여지자체 간 양극화가 더욱 심하+여지고 있다는 것+이 정부의 판단”이라고 설명하였다 .	PER-B ORG-B O O ORG-B MNY-I MNY-B O MNY-B O O O O O MNY-B MNY-B O O O O O O O O O O O O O O
-익명을 원하+ㄴ업계 관계자는 “2011년 동일본 대지진 이후 ‘원전 방사능 공포’가 어느 정도 사라지면서 홋카이도 산 생크림을 듬뿍 쓰+ㄴ 제품에 대하+ㄴ 거부감이 줄어들 +ㄴ 것도 영향을 미치었다”고 말하였다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
-공연 때마다 ‘하+ㄹ 수 있을까’ 생각하였는데 올해는 ‘열심히 하+여야지’ +이라는 생각만 들어요.” 같은 국립발레단의 수석무용수 이+ㄴ 박슬기(31), 김리회(30)와 나이차는 꽤나 +ㄴ다 .	O O O O O O O O O O O O O ORG-B O O PER-B PER-B O O O O
-CJ는 기업으로 국가에 보답하+ㄴ다는 ‘사업보국(事業報國)’의 정신으로 출발하+ㄴ 기업답게 밀가루와 식용유, 조미료 등 다양하+ㄴ 제품의 국산화에 성공하였다 .	ORG-B O O O O O O O O O O O O O O O O
-물론 수치만 놓고 보면 코리아세일 페스타가 얼어붙은 소비심리를 다소 간 녹이+ㄴ 측면은 있다 .	O O O O O O O O O O O O O O
-박상민 교수는 “현재 한국인들의 하루 평균 커피 소비량이 +ㄴ 0.7잔은 건강을 염려하+ㄹ 수준이 아니다”며 “하루 3잔 미만의 커피는 폐경기 여성들의 골절을 예방하고 뼈를 건강하게 하+ㄹ 수 있다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이번 논문은 미국 국립과학도서관에서 발행하는 국제학술지 이+ㄴ ‘플로스원(PlosOne)’ 최신호에 발표되었다 .	O O ORG-B O O O O O O O O
-국정화 반대 여론 중에는 “한 종의 국정교과서는 국가가 역사해석을 독점하는 것”이란 우려가 반영되+어 있다 .	O O O O O O O O O O O O O O O
-홍상수 X김민희 ‘밤의 해변에서 혼자’ 청 불판정 “불륜, 청소년에 유해 .	PER-B PER-B O O O O O O O O O
-게이트맨, 더 견고 하+ㄴ ‘아이언 후크 시리즈’ 출시 디지털 도어록 게이트맨은 디자인과 구조를 혁신적으로 향상시키+ㄴ ‘아이언 후크(IH, IronH ook) 시리즈’를 출시하였다고 6일 밝히었다 .	ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O O
+올스타 15 회 선정된 농구 계 전설 “ 여정 을 함께해 고마 웠 다 ” 며 작별 또 한 명 의 미국 프로 농구 ( NBA ) 전설 이 코트 를 떠난다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O
+황 씨 는 “ 근처 에 버섯 종균 을 사 러 왔 다가 나뭇가지 사이 에 흰색 물체 가 움직이 는 게 보 여서 조용히 다가가 살펴보 니 참새 였 다 ” 며 “ 흰색 참새 는 태어나서 처음 보 는 것 이 라 신기 했 고 , 한동안 참새 가 움직이 지 않 아 찍 을 수 있 었 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+96 세 . 총모자 란 조선 시대 관모 의 하나 인 갓 의 모자 부분 이 다 .	O O O O O O O O O O O O O O O O O O
+조정 교부금 배분 기준 도 재정 력 지수 반영 비율 을 20 % 에서 30 % 로 높이 고 징수 실적 비율 은 30 % 에서 20 % 로 낮추 기 로 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정정순 행자부 지방 재정 세제 실장 은 “ 지난해 의 경우 경기 도 조정 교부금 2 조 6000 억 원 중 1 조 4000 억 원 을 6 개 시 가 우선 가져가 고 나머지 1 조 2000 억 원 을 25 개 시 · 군 이 나눠 가 졌 다 ” 며 “ 이 로 인해 지자체 간 양극화 가 더욱 심해 지 고 있 다는 게 정부 의 판단 ” 이라고 설명 했 다 .	PER-B ORG-B O O O O O O O O O ORG-B ORG-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+익명 을 원한 업계 관계자 는 “ 2011 년 동 일본 대지진 이후 ‘ 원전 방사능 공포 ’ 가 어느 정도 사라지 면서 홋카이도 산 생 크림 을 듬뿍 쓴 제품 에 대한 거부감 이 줄어든 것 도 영향 을 미 쳤 다 ” 고 말 했 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+공연 때 마다 ‘ 할 수 있 을까 ’ 생각 했 는데 올해 는 ‘ 열심히 해야지 ’ 라는 생각 만 들 어요 . ” 같 은 국립 발레 단 의 수석 무용수 인 박슬기 ( 31 ) , 김리 회 ( 30 ) 와 나이 차 는 꽤 난다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O PER-B O O O O PER-B PER-I O O O O O O O O O O
+CJ 는 기업 으로 국가 에 보답한다는 ‘ 사업 보국 ( 事業報國 ) ’ 의 정신 으로 출발한 기업 답 게 밀가루 와 식용유 , 조미료 등 다양한 제품 의 국산화 에 성공 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+물론 수치 만 놓 고 보 면 코리아 세일 페스타 가 얼어붙 은 소비 심리 를 다소간 녹인 측면 은 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+박상민 교수 는 “ 현재 한국인 들 의 하루 평균 커피 소비량 인 0.7 잔 은 건강 을 염려할 수준 이 아니 다 ” 며 “ 하루 3 잔 미만 의 커피 는 폐경기 여성 들 의 골절 을 예방하 고 뼈 를 건강하 게 할 수 있 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 논문 은 미국 국립 과학 도서관 에서 발행하 는 국제 학술지 인 ‘ 플로스 원 ( Plos One ) ’ 최신 호 에 발표 됐 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+국정 화 반대 여론 중 에 는 “ 한 종 의 국정 교과서 는 국가 가 역사 해석 을 독점하 는 것 ” 이 란 우려 가 반영돼 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+홍상수 X 김민희 ‘ 밤 의 해변 에서 혼자 ’ 청불 판정 “ 불륜 , 청소년 에 유해 ”	PER-B O PER-B O O O O O O O O O O O O O O O O
+게이트맨 , 더 견고한 ‘ 아이언 후크 시리즈 ’ 출시 디지털 도어록 게이트맨 은 디자인 과 구조 를 혁신적 으로 향상 시킨 ‘ 아이언 후크 ( IH , Iron Hook ) 시리즈 ’ 를 출시 했 다고 6 일 밝 혔 다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O

@@ -1,14 +1,14 @@
-유 감독이 전략적으로 키우어 오+ㄴ이 대성(25)은 군에 입대하+ㄹ 예정이다 .	PER-B O O O O O O O O O
-‘복면가왕’고 추아가 씨 정체는 멜로디 데이 여은… “진심으로 사과드리+ㅂ니다” ‘복면가왕’에 출연하+ㄴ 맵ㄴ 맛을 보이어 주마고추아가씨의 정체는 걸그룹 멜로디 데이의 여은이었다 .	O O O O ORG-B ORG-I PER-B O O O O O O O PER-B O O ORG-B ORG-I PER-B O
-BMW, 벤츠 등 자동차 업체와 SK텔레콤 같은 통신사들까지 모두 선보이+ㄴ 커넥티드 카 기술 역시 대용량 정보의 빠르+ㄴ 전달과 지연시간을 단축시키는 5G 기술의 상용화를 전제로 하+ㄴ다 .	ORG-B ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-방송사 카메라가 강 여사 자택 앞으로 몰려들었으나 대문은 한 번도 열리지 않았다 .	O O PER-B O O O O O O O O O O
-‘이성경’ 배우 이성경이 ‘2015 서울 드라마 어워즈’에 참석하+여과감 하+ㄴ 디자인의 의상을 선보이어 화제가 되고 있다 .	PER-B O PER-B O O O O O O O O O O O O O
-10원이라도 더 싸게 팔려는 가격 경쟁 대신 ‘품질혁신’에 주력 하+ㄹ 계획이다 .	MNY-B O O O O O O O O O O O
-잠실에서는 NC가 8-2로 두산을 물리치며 3연패에서 벗어나 +았다 .	LOC-B ORG-B O ORG-B O O O O O
-본부제 폐지로 서비스 1본부장이던 한성숙 이사는 서비스 총괄을, 송창현 NaverLabs 연구소장은 최고 기술 책임자(CTO)를 맡게 +었다 .	O O O O PER-B O O O PER-B O O O O O O O O
-경찰, 인천 북구청 전 계장 구 .	O O O O O O O
-고졸 출신의 박 변호사가 국선변호인으로 억울하게 범인으로 몰리+ㄴ 사회적 약자를 돕는다는 소문을 듣었기 때문이다 .	O O PER-B O O O O O O O O O O O O
-앞서 +어한 매체는 방송 관계자의 말을 인용하+여 김소연-곽시양, 육성재-조이가 ‘우결’에서 동반 하차 하+ㄴ다고 보도하였다 .	O O O O O O O PER-B PER-B O O O O O O
-이밖에 저자는 「우주의 나이는 1백50억 살 」「 왜 미래를 기억하+ㄹ 수 없을까 」「아인슈타인 박사의 독백」 등의 글을 통하+여 딱딱하+ㄴ 물리학을 부드럽게 만들어버리+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O
-그는 이어 “정치외교 경제 등 다양하+ㄴ과제에 대하+여이야기하는 것은 양국 국민과 세계가 바라고 있는 것이며, 협력 하+여대처 하+여야 하+ㄹ국제적 이+ㄴ과 제도 있다”고 덧붙이었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-경제협력개발기구(OECD) 국가들은 전문대·기술대 등의 고등직업교육기관 59%가 국·공립이+ㅂ니다 .	ORG-B O O O O O O O
+유 감독 이 전략적 으로 키 워 온 이대성 ( 25 ) 은 군 에 입대할 예정 이 다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O
+‘ 복면 가왕 ’ 고추 아가씨 정체 는 멜로디 데이 여 은 … “ 진심 으로 사과드립니다 ” ‘ 복면 가왕 ’ 에 출연한 매 운 맛 을 보 여 주 마 고추 아가씨 의 정체 는 걸그룹 멜로디 데이 의 여 은 이 었 다 .	O O O O PER-B PER-I O O ORG-B ORG-I PER-B PER-I O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O ORG-B ORG-I O PER-B PER-I O O O O
+BMW , 벤츠 등 자동차 업체 와 SK 텔레콤 같 은 통신사 들 까지 모두 선보인 커넥티드 카 기술 역시 대용량 정보 의 빠른 전달 과 지연 시간 을 단축 시키 는 5 G 기술 의 상용 화 를 전제 로 한다 .	ORG-B O ORG-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방송사 카메라 가 강 여사 자택 앞 으로 몰려들 었 으나 대문 은 한 번 도 열리 지 않 았 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
+‘ 이성경 ’ 배우 이성경 이 ‘ 2015 서울 드라마 어워즈 ’ 에 참석해 과감한 디자인 의 의상 을 선보 여 화제 가 되 고 있 다 .	O PER-B O O PER-B O O DAT-B O O O O O O O O O O O O O O O O O O O O
+10 원 이라도 더 싸 게 팔 려는 가격 경쟁 대신 ‘ 품질 혁신 ’ 에 주력할 계획 이 다 .	MNY-B MNY-I O O O O O O O O O O O O O O O O O O O
+잠실 에서 는 NC 가 8 - 2 로 두산 을 물리치 며 3 연패 에서 벗어났 다 .	LOC-B O O ORG-B O O O O O ORG-B O O O O O O O O O
+본부 제 폐지 로 서비스 1 본부 장 이 던 한 성숙 이사 는 서비스 총괄 을 , 송창현 Naver Labs 연구소 장 은 최고 기술 책임자 ( CTO ) 를 맡 게 됐 다 .	O O O O O O O O O O PER-B PER-I O O O O O O PER-B O O O O O O O O O O O O O O O O O
+경찰 , 인천북구청 전 계장 구속	O O ORG-B O O O
+고졸 출신 의 박 변호사 가 국선 변호인 으로 억울하 게 범인 으로 몰린 사회적 약자 를 돕 는다는 소문 을 들 었 기 때문 이 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 한 매체 는 방송 관계자 의 말 을 인용해 김소연 - 곽시 양 , 육성재 - 조이 가 ‘ 우결 ’ 에서 동반 하차한다고 보도 했 다 .	O O O O O O O O O O PER-B O PER-B PER-I O PER-B O PER-B O O O O O O O O O O O
+이 밖에 저자 는 「 우주 의 나이 는 1 백 50 억 살 」 「 왜 미래 를 기억할 수 없 을까 」 「 아인슈타인 박사 의 독백 」 등 의 글 을 통해 딱딱한 물리학 을 부드럽 게 만들 어 버린다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 이어 “ 정치 외교 경제 등 다양한 과제 에 대해 이야기하 는 것 은 양국 국민 과 세계 가 바라 고 있 는 것 이 며 , 협력해 대처해야 할 국제적 인 과제 도 있 다 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경제 협력 개발 기구 ( OECD ) 국가 들 은 전문 대 · 기술대 등 의 고등 직업 교육기관 59 % 가 국 · 공립 입니다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O

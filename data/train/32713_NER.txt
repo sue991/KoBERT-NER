@@ -1,13 +1,13 @@
-여기에는 롯데케미칼 연구소 인력도 합류하+여 식품 포장 소재 등에 대하+ㄴ 공동연구도 진행 하+ㄴ다 .	O ORG-B ORG-I O O O O O O O O O O O
-게다가 이제는 그를 알아보는 시청자보다 그의 이름 석 자조차 모르는 시청자가 더 많다 .	O O O O O O O O O O O O O O
-미국 대통령 선거 정국에 ‘TV토론 개조론’이 거세게 일고 있다 .	ORG-B O O O O O O O O O
-이번 커버영상은 효린과 소유가 소속사 동료 케이윌의 신곡 ‘꽃이 피+ㄴ다’를 응원하기 위하+ㄴ 취지로 진행되었다 .	O O PER-B O O O PER-B O O O O O O O O
-지상파 3사 진출 여지 남기+어 논 .	O O O O O O O
-전현준 동북아평화협력연구원장은 “류 상무위원이 가+ㄴ다는 것은 북한이 당 창건 70주년 기념일 전에는 미사일 발사 실험을 하지 않겠다고 중국과 사전 조율하였다는 뜻이 +ㄹ 수 있다 .	PER-B O PER-B O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O
-금감원 의 원칙 없는 제도 마련으로 전문성을 살리+ㄴ다는 애초의 목표가 퇴색되었기 때문이다 .	ORG-B O O O O O O O O O O O O
-이에 따르 아이부진 사장이 승소하+ㄴ 1심은 무효가 되고, 사건은 1심부터 다시 시작되+ㄴ다 .	O O PER-B O O O O O O O O O O
-20일 수원지법 가정법원 가사항소 2부(부장판사 조미연)는 “1심 판결을 취소하고 사건을 서울가정법원으로 이송하+ㄴ다”고 선고하였다 .	ORG-I ORG-B ORG-I ORG-I ORG-I PER-B O O O O ORG-B O O O
-김씨 등이 얘기 하+ㄴ 1.5t 컨테이너를 열어 보+ㄴ 수사팀은 깜짝 놀라 +았다 .	PER-B O O O O O O O O O O O O
-챌린지 1위로 자동 승격 하+ㄴ대전시티즌(36실점)보다 1골적은 35골을 내주었다 .	O O O O ORG-B O O O O
-그러다가 1970년대 중반 천관 우 선생(1925∼1991) 한테 된통 혼이나 +았다 .	O O O O O O O O O O O
-또 담당 형사가 “금연구역에서 흡연하+ㄴ 사진을 찍어두었다고 하는데, 신고 하+여보+아야 과태료 1~2만원 내는 것+이전 부+이니 일을 너무 크게 만들지 않는 것+이 좋겠다”며 “해코지를 하면 어쩌려고 그러느냐”고 제안하였다고 하기도 +였다 .	O O O O O O O O O O O MNY-B O O O O O O O O O O O O O O O O O O
+여기 에 는 롯데케미칼 연구소 인력 도 합류해 식품 포장 소재 등 에 대한 공동 연구 도 진행한다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O
+게다가 이제 는 그 를 알아보 는 시청자 보다 그 의 이름 석 자 조차 모르 는 시청자 가 더 많 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+미국 대통령 선거 정국 에 ‘ TV 토론 개조 론 ’ 이 거세 게 일 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+이번 커버 영상 은 효린 과 소유 가 소속 사 동료 케이 윌 의 신곡 ‘ 꽃 이 핀다 ’ 를 응원하 기 위한 취지 로 진행 됐 다 .	O O O O PER-B O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O
+지상파 3 사 진출 여지 남겨 논란	O O O O O O O
+전현준 동북아 평화 협력 연구원 장 은 “ 류 상무위원 이 간다는 것 은 북한 이 당 창건 70 주년 기념일 전 에 는 미사일 발사 실험 을 하 지 않 겠 다고 중국 과 사전 조율 했 다는 뜻 일 수 있 다 ”	PER-B O O O O O O O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+금감원 의 원칙 없 는 제도 마련 으로 전문 성 을 살린다는 애초 의 목표 가 퇴색 됐 기 때문 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 이부진 사장 이 승소한 1 심 은 무효 가 되 고 , 사건 은 1 심 부터 다시 시작된다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O
+20 일 수원지법 가정 법원 가사 항소 2 부 ( 부장판사 조미연 ) 는 “ 1 심 판결 을 취소하 고 사건 을 서울 가정 법원 으로 이송한다 ” 고 선고 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O
+김 씨 등 이 얘기한 1.5 t 컨테이너 를 열 어 본 수사 팀 은 깜짝 놀랐 다 .	PER-B O O O O O O O O O O O O O O O O O O
+챌린지 1 위 로 자동 승격한 대전 시티즌 ( 36 실점 ) 보다 1 골 적 은 35 골 을 내 줬 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+그러 다가 1970 년대 중반 천관우 선생 ( 1925 ∼ 1991 ) 한테 된통 혼 이 났 다 .	O O O O O PER-B O O O O O O O O O O O O O
+또 담당 형사 가 “ 금연 구역 에서 흡연한 사진 을 찍 어 두 었 다고 하 는데 , 신고해 봐야 과태료 1 ~ 2 만 원 내 는 게 전부 니 일 을 너무 크 게 만들 지 않 는 게 좋 겠 다 ” 며 “ 해코지 를 하 면 어쩌 려고 그러 느냐 ” 고 제안 했 다고 하 기 도 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

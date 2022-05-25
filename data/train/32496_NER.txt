@@ -1,18 +1,18 @@
-현재 배석검사 1명, 참여수사관 1명과 함께 박 전 대통령을 상대로 미르·케이스포츠재단 설립 경위 등을 캐묻고 있다 .	O O O O O O PER-B O O O ORG-B O O O O O O
-김 대표는 이번 사태가 장기화 하+ㄹ 경우 여권이 공멸 하+ㄹ 수 있다는 점을 심각하게 우려하고 있다 .	PER-B O O O O O O O O O O O O O O O O
-2~30분만 투자 하+여도…"라고 말을 줄이어 이혁을 진땀 흘리게 만들었다 .	O O O O O PER-B O O O O
-중앙 또한 “차이잉원의 당선 배경에 +ㄴ대만 경제의 침체”가 있다고 평가하+ㄴ다 .	ORG-B O PER-B O O ORG-B O O O O O
-대만 경제의 어려움을 낳은 원인을 분석하+ㅁ에 있어서도 두 사설의 입장은 비슷하다 .	ORG-B O O O O O O O O O O O
-8년 전 대만 대선에서 국민당 마잉주(馬英九) 후보는 “양안 모두 이익을 얻기 위하+ㄴ 출발점은 경제와 문화교류 정상화”에 있다고 호소하였다 .	O O ORG-B O ORG-B PER-B O O O O O O O O O O O O O
-힙합 프로듀서 ‘랍티미스트’의 작업실에서 여러 노래를 듣 .	O O PER-B O O O O O
-전직 농구선수 현주엽, 가수 김태우 등 ‘거인’ 머슴들은 주인의 명령에 쉬+ㄹ 새 없이 사과를 따+ㄴ다 .	O O PER-B O PER-B O O O O O O O O O O O
-YES24와 함께하는 독자 서 .	ORG-B O O O O
-2007년 성남이 개막 후 15경기(11승 4무) 연속 패하지 않았던 것이 이 부문 최다 기록이다 .	O O O O O O O O O O O O O O O
-콘서트 이외에도 행사 당일 서울광장 일대에서는 다양하+ㄴ 이벤트가 열리+ㄴ다 .	O O O O LOC-B O O O O O
-국세청은 A씨 집에서 백남준의 작품 외에도 사진작가 김중만의 사진 등을 추가로 찾아내+어 압류하였다 .	ORG-B PER-B O PER-B O O O PER-B O O O O O O
-중원군이 농가소득 증대사업으로 꿩 사육을 장려 하+ㄴ 때문이다 .	ORG-B O O O O O O O O
-기자의 질문에 응하+ㄴ 12명 중 9명은 “투표 하+ㄹ사람이 없다”거나 “투표하기 싫다”고 손사래를 치며 대화를 시작하였다 .	O O O O O O O O O O O O O O O O
-제제음모살인이 뒤얽히 +ㄴ 세계를 음산하게 그리+ㄴ움베르토 에코의 신작 소설 ‘창간 준비호’(열린책들)도 6월경 만나 +ㄹ 수 있다 .	O O O O O PER-B PER-I O O O ORG-B O O O O O O
-실제 수능 등급이 어떻게 나오+ㄹ지 예상하며 두근거리고 있을 고3들이 마음을 다잡기 위하+여 ‘쓴소리 동영상’을 찾고 있지는 않을까 .	O O O O O O O O O O O O O O O O O O
-오즈번 장관은 “탄산음료가 아이들을 살찌게 하고 병들게 하면서 적잖은 사회적 비용을 유발하고 있다”고 비판하였다 .	PER-B O O O O O O O O O O O O O O
-롯데문규현, 2연속 경기 끝내 .	ORG-B O O O O
+현재 배석 검사 1 명 , 참여 수사 관 1 명 과 함께 박 전 대통령 을 상대 로 미르 · 케이 스포츠 재단 설립 경위 등 을 캐묻 고 있 다 .	O O O O O O O O O O O O O PER-B O O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O
+김 대표 는 이번 사태 가 장기화할 경우 여권 이 공멸할 수 있 다는 점 을 심각하 게 우려하 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+2 ~ 30 분 만 투자해도 … " 라고 말 을 줄 여 이혁 을 진땀 흘리 게 만들 었 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O
+중앙 또한 “ 차이 잉원 의 당선 배경 엔 대만 경제 의 침체 ” 가 있 다고 평가한다 .	ORG-B O O PER-B PER-I O O O O ORG-B O O O O O O O O O
+대만 경제 의 어려움 을 낳 은 원인 을 분석함 에 있 어서 도 두 사설 의 입장 은 비슷하 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+8 년 전 대만 대선 에서 국민 당 마잉주 ( 馬英九 ) 후보 는 “ 양안 모두 이익 을 얻 기 위한 출발점 은 경제 와 문화 교류 정상화 ” 에 있 다고 호소 했 다 .	O O O ORG-B O O ORG-B ORG-I PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+힙합 프로듀서 ‘ 랍 티 미스트 ’ 의 작업실 에서 여러 노래 를 듣 다	O O O PER-B PER-I PER-I O O O O O O O O O
+전직 농구 선수 현주엽 , 가수 김태우 등 ‘ 거인 ’ 머슴 들 은 주인 의 명령 에 쉴 새 없이 사과 를 딴다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O
+YES 24 와 함께하 는 독자 서평	ORG-B ORG-I O O O O O
+2007 년 성남이 개막 후 15 경기 ( 11 승 4 무 ) 연속 패하 지 않 았 던 것 이 이 부문 최다 기록 이 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+콘서트 이외 에 도 행사 당일 서울광장 일대 에서 는 다양한 이벤트 가 열린다 .	O O O O O O LOC-B O O O O O O O O
+국세청 은 A 씨 집 에서 백남준 의 작품 외 에 도 사진 작가 김중만 의 사진 등 을 추가 로 찾아내 압류 했 다 .	ORG-B O PER-B O O O PER-B O O O O O O O PER-B O O O O O O O O O O O
+중원군 이 농가 소득 증대 사업 으로 꿩 사육 을 장려한 때문 이 다 .	ORG-B O O O O O O O O O O O O O O
+기자 의 질문 에 응한 12 명 중 9 명 은 “ 투표할 사람 이 없 다 ” 거나 “ 투표하 기 싫 다 ” 고 손사래 를 치 며 대화 를 시작 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+정치 음모 살인 이 뒤얽힌 세계 를 음산하 게 그린 움베르토 에코 의 신작 소설 ‘ 창간 준비 호 ’ ( 열린책들 ) 도 6 월 경 만날 수 있 다 .	O O O O O O O O O O PER-B PER-I O O O O O O O O O ORG-B O O DAT-B DAT-I O O O O O O
+실제 수능 등급 이 어떻 게 나올지 예상하 며 두근거리 고 있 을 고 3 들 이 마음 을 다잡 기 위해 ‘ 쓴소리 동영상 ’ 을 찾 고 있 지 는 않 을까 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+오즈번 장관 은 “ 탄산음료 가 아이 들 을 살찌 게 하 고 병들 게 하 면서 적잖 은 사회적 비용 을 유발하 고 있 다 ” 고 비판 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데 문규현 , 2 연속 경기 끝내 기	ORG-B PER-B O O O O O O

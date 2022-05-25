@@ -1,14 +1,14 @@
-주 5회(월·목·금·토·일) 인천∼호놀룰루 노선을 운행 하+ㄴ다 .	O O LOC-B O O O O
-이치로가 40개를 남기+어두+ㄴ 3000안타고지는 140년 메이저리그 역사에서도 단 29명만이 밟은 대기록이다 .	PER-B O O O O ORG-B O O O O O O
-2020년에 완공되면 50인승 소형 비행기가 착륙 하+ㄹ 수 있다 .	O O O O O O O O O O
-유재석은 방송에서 “새해부터는 더 열심히 달리겠다 .	PER-B O O O O O O
-31일 코레일에 따르면 지난달 30일 오후 9시 경 서울 용산역에서 출발하+여익산으로 향하던 무궁화호 열차 5호 칸 출입문이 운행 도중 열리었다 .	O ORG-B O O O O O O LOC-B LOC-I LOC-B O O O O O O O O O O
-일각에서는 류준열과 제작진과의 불화설을 제기하기도 +였다 .	O PER-B O O O O O
-금호산업은 2016년 연결재무제표 기준으로 매출액 1조3683억, 영업이익 428억, 당기순이익 376억원을 기록하였다고 9일 밝히었다 .	ORG-B MNY-B O O O MNY-B O MNY-B O MNY-B O O O O
-한국야구 대표팀, 베네수엘라에 콜드게임 승…가장 눈에 띄+ㄴ타자는 .	ORG-B ORG-I ORG-B O O O O O
-엔화 계속 절하/달러당 백5엔대 .	MNY-I O O MNY-B O
-박근혜 대통령이 한·불수교 130주년을 기념 하+여 열리+ㄴ 프랑스 미식주간 마스터 클래스 행사에 참석하였다 .	PER-B O ORG-B O O O O O O O O O O O
-박 대통령은 24일 오전 서울 신라호텔에서 열리+ㄴ 행사에서 “프랑스 음식과, 많은 전통을 가지+ㄴ한국음식이 서로 잘 조화를 이루+어 세계인들의 입맛을 사로잡는 음식이 만들어지면 얼마나 좋을까 하고 기대 하+ㄴ다”며 “한나라의 음식은 단순 하+ㄴ 먹거리 차원을 넘어서 그 나라의 자연, 사람들의 생활방식, 철학 등을 잘 녹이 어내 +ㄴ문화 자체”라고 말하였다 .	PER-B O O O LOC-B LOC-I O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이제는 이 규모가 은행과 저축은행이 각 9000억원, 상호금융 2000억원, 채무조정자용 1500억원 등 총 2조1500억원으로 늘어나 +ㄴ다 .	O O O O O O MNY-B O MNY-B MNY-I MNY-I O O MNY-B O O O
-말(言)의 건축전.28일(현지시간) 개막 하+여11월 27일까지 이어지는 제15회 이탈리아 베니스 비엔날레 건축전은 현재의 건축에 대하+ㄴ온갖 말의도가니로 구현되었다 .	O O O O O O O O O O O O O O O O O
-4월달에 엄마되는 이민정 “가족을 위하+여 마음을 다잡고 최선을 다 하+여보려 하+ㅂ니다 .	O O PER-B O O O O O O O O O
+주 5 회 ( 월 · 목 · 금 · 토 · 일 ) 인천 ∼ 호놀룰루 노선 을 운행한다 .	O O O O DAT-B O DAT-B O DAT-B O DAT-B O DAT-B O LOC-B O LOC-B O O O O
+이치로 가 40 개 를 남겨 둔 3000 안타 고지 는 140 년 메이저리그 역사 에서 도 단 29 명 만 이 밟 은 대기록 이 다 .	PER-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+2020 년 에 완공되 면 50 인 승 소형 비행기 가 착륙할 수 있 다 .	DAT-B DAT-I O O O O O O O O O O O O O O
+유재석 은 방송 에서 “ 새해 부터 는 더 열심히 달리 겠 다 .	PER-B O O O O O O O O O O O O O
+31 일 코레일 에 따르 면 지난달 30 일 오후 9 시 경 서울 용산역 에서 출발해 익산 으로 향하 던 무궁화 호 열차 5 호 칸 출입문 이 운행 도중 열 렸 다 .	DAT-B DAT-I ORG-B O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B LOC-I O O LOC-B O O O O O O O O O O O O O O O O O
+일각 에서 는 류준열 과 제작진 과 의 불화 설 을 제기하 기 도 했 다 .	O O O PER-B O O O O O O O O O O O O O
+금호산업 은 2016 년 연결 재무제표 기준 으로 매출액 1 조 3683 억 , 영업 이익 428 억 , 당기 순이익 376 억 원 을 기록 했 다고 9 일 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O MNY-B MNY-I MNY-I MNY-I O O O MNY-B MNY-I O O O MNY-B MNY-I MNY-I O O O O DAT-B DAT-I O O O O
+한국 야구 대표 팀 , 베네수엘라 에 콜드게임 승 … 가장 눈 에 띈 타자 는 ?	ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O
+엔 화 계속 절하 / 달러 당 백 5 엔 대 로	O O O O O O O MNY-B MNY-I MNY-I O O
+박근혜 대통령 이 한 · 불 수교 130 주년 을 기념해 열린 프랑스 미식 주간 마스터 클래스 행사 에 참석 했 다 .	PER-B O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O
+박 대통령 은 24 일 오전 서울 신라호텔 에서 열린 행사 에서 “ 프랑스 음식 과 , 많 은 전통 을 가진 한국 음식 이 서로 잘 조화 를 이뤄 세계인 들 의 입맛 을 사로잡 는 음식 이 만들 어 지 면 얼마나 좋 을까 하 고 기대한다 ” 며 “ 한 나라 의 음식 은 단순한 먹거리 차원 을 넘 어서 그 나라 의 자연 , 사람 들 의 생활 방식 , 철학 등 을 잘 녹 여 낸 문화 자체 ” 라고 말 했 다 .	PER-B O O DAT-B DAT-I O LOC-B LOC-I O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이제 는 이 규모 가 은행 과 저축은행 이 각 9000 억 원 , 상호 금융 2000 억 원 , 채무 조정 자 용 1500 억 원 등 총 2 조 1500 억 원 으로 늘어난다 .	O O O O O O O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+말 ( 言 ) 의 건축 전 . 28 일 ( 현지 시간 ) 개막해 11 월 27 일 까지 이어지 는 제 15 회 이탈리아 베니스 비엔날레 건축 전 은 현재 의 건축 에 대한 온갖 말 의 도가니 로 구현 됐 다 .	O O O O O O O O DAT-B DAT-I O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+4 월 달 에 엄마 되 는 이민정 “ 가족 을 위해 마음 을 다잡 고 최선 을 다해 보 려 합니다 ”	DAT-B DAT-I O O O O O PER-B O O O O O O O O O O O O O O O

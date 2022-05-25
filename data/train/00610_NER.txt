@@ -1,12 +1,12 @@
-코코본드는 은행권에서 올 상반기에만 2조원 넘게 발행되었다 .	O O O O MNY-B O O O
-상금으로 5만달러(약 6000만원)를 받았다 .	O MNY-B MNY-B O O
-아버지 김재춘(52)씨는 “처음 RC헬기를 배우+ㄹ 때도 따로 가르치+어주지 않았는데도 혼자 컴퓨터 시뮬레이션 프로그램을 통하+여 조종법을 터득하였다”며 “이번에도 다른 선수들의 비행 기술을 유심히 보더니 즉석에서 기술을 조합하+여비행하는 모습을 보고 나도 놀라 +았다”고 말하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-김군은 지난달 23일 중국 상하이에서 열리+ㄴ드론 레이싱 대회 ‘아시아 컵상하이’에서도 55초 56의 기록으로 초대 챔피언에 오르았다 .	PER-B O O LOC-B LOC-B O O O O LOC-B O O O O O O O
-최근 주가가 300만원을 돌파 하+ 여파 죽지세이+ㄴ아모레퍼시픽의 서경배 회장은 44억3578억원을 받아 연봉이 두 배 가량으로 늘었다 .	O O MNY-B O O O ORG-B PER-B O MNY-B O O O O O O O
-『거래의 기술 : 트럼프는 어떻게 원하는 것을 얻는 가』(도널드 트럼프 짓음, 이재호 옮기+ㅁ, 살림출판사, 2016)이 책에는 트럼프가 어떻게 사업을 꾸리+어가는지를 비롯하+ㄴ 그의 활동 내역이 적나라하게 담기 +어 있다 .	O O O PER-B O O O O PER-B PER-B O PER-B O ORG-B O O PER-B O O O O O O O O O O O O
-지금 확산 추세에 있는 북한의 장마당에 바깥바람을 불어넣어야 하+ㄴ다 .	O O O O ORG-B O O O O O
-연해주에 제2의 개성공단을 세우는 것도 실천 가능 하+ㄴ 방안의 하나+이다 .	LOC-B O O O O O O O O O O
-국제적 이+ㄴ 경제 제재를 받고 있는 북한 지도부는 벌써 고난의 행군을 말하고 있다 .	O O O O O O ORG-B O O O O O O O
-피습으로 현지 경찰관 세 명 가운데 두 명이 숨지고, 한 명이 크게 다치었다 .	O O O O O O O O O O O O O O
-사건 발생 두 시간 뒤 “이슬람 극단주의 무장단체 이+ㄴ IS와 연계되었다”고 주장하는 ‘킬라파의 군대’ +이라는 단체가 트위터에 자신들의 소행이라고 밝히었다 .	O O O O O ORG-B ORG-I ORG-I O ORG-B O O ORG-B ORG-I O O O O O O O
-정부는 IS의 소행으로 추정되는 이번 공격이 한국을 겨냥하+ㄴ 것이 +ㄴ지는 아직 예단 하+ㄹ 수 없다며 신중하+ㄴ 반응을 보이었다 .	O ORG-B O O O O ORG-B O O O O O O O O O O O O
+코코 본드 는 은행 권 에서 올 상반기 에 만 2 조 원 넘 게 발행 됐 다 .	O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+상금 으로 5 만 달러 ( 약 6000 만 원 ) 를 받 았 다 .	O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O
+아버지 김재춘 ( 52 ) 씨 는 “ 처음 RC 헬기 를 배울 때 도 따로 가르쳐 주 지 않 았 는 데 도 혼자 컴퓨터 시뮬레이션 프로그램 을 통해 조종 법 을 터득 했 다 ” 며 “ 이번 에 도 다른 선수 들 의 비행 기술 을 유심히 보 더니 즉석 에서 기술 을 조합해 비행하 는 모습 을 보 고 나 도 놀랐 다 ” 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 군 은 지난달 23 일 중국 상하이 에서 열린 드론 레이싱 대회 ‘ 아시아 컵 상하이 ’ 에서 도 55 초 56 의 기록 으로 초대 챔피언 에 올 랐 다 .	PER-B O O O DAT-B DAT-I LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 주가 가 300 만 원 을 돌파해 파죽지세 인 아모레퍼시픽 의 서경배 회장 은 44 억 3578 억 원 을 받 아 연봉 이 두 배 가량 으로 늘 었 다 .	O O O MNY-B MNY-I MNY-I O O O O ORG-B O PER-B O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O
+『 거래 의 기술 : 트럼프 는 어떻 게 원하 는 것 을 얻 는가 』 ( 도널드 트럼프 지 음 , 이재호 옮김 , 살림출판사 , 2016 ) 이 책 에 는 트럼프 가 어떻 게 사업 을 꾸려 가 는지 를 비롯한 그 의 활동 내역 이 적나라하 게 담겨 있 다 .	O O O O O O O O O O O O O O O O O PER-B PER-I O O O PER-B O O ORG-B O DAT-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+지금 확산 추세 에 있 는 북한 의 장마당 에 바깥바람 을 불어넣 어야 한다 .	O O O O O O ORG-B O O O O O O O O O
+연해주 에 제 2 의 개성 공단 을 세우 는 것 도 실천 가능한 방안 의 하나 다 .	LOC-B O O O O O O O O O O O O O O O O O O
+국제적 인 경제 제재 를 받 고 있 는 북한 지도부 는 벌써 고난 의 행군 을 말하 고 있 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O
+피습 으로 현지 경찰관 세 명 가운데 두 명 이 숨지 고 , 한 명 이 크 게 다 쳤 다 .	O O O O O O O O O O O O O O O O O O O O O O
+사건 발생 두 시간 뒤 “ 이슬람 극단주의 무장 단체 인 IS 와 연계 됐 다 ” 고 주장하 는 ‘ 킬라 파 의 군대 ’ 라는 단체 가 트위터 에 자신 들 의 소행 이 라고 밝 혔 다 .	O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O
+정부 는 IS 의 소행 으로 추정되 는 이번 공격 이 한국 을 겨냥한 것 인지 는 아직 예단할 수 없 다며 신중한 반응 을 보 였 다 .	O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O

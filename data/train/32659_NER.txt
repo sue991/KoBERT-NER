@@ -1,14 +1,14 @@
-실제 5일 청문회에 참석하+ㄴ이선우 청와대의무실장은 국조위원들의 질의에 “의료법상 환자 정보는 공개하+ㄹ 수 없다”고 반박하+ㄴ바 있다 .	O O O PER-B ORG-B O O O O O O O O O O O
-환경부 관계자는 “연말 프랑스 파리에서 열리는 기후변화협약 총회를 앞두고 미국과 EU, 스위스가 탄소배출 감축 계획을 제출하였다 .	ORG-B O O LOC-B LOC-I O O O O ORG-B ORG-B ORG-B O O O O O
-또 20여년 방송활동을 하며 범죄심리를 비롯하+여 일상생활 심리까지 꿰뚫어 오+ㄴ 사회심리학 전문가 최창호 박사는 결심과 포기를 반복하는 인간의 ‘결심중독’을 지적하며 힐링의 시대를 넘어 리빙(ReBeing)의 시대를 열어 가+ㄹ 수 있는 마음가짐을 소개하였다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
-이듬해 베르디 국제음악콩쿠르에서 1위에 오르며 국제적 이+ㄴ 명성을 얻었다 .	O O O O O O O O O O
-홍콩의 한 IB 관계자는 “오너 리스크가 더욱 부각되+어 사업에까지 영향을 미치+ㄴ다면 한국의 재벌 구조를 안 좋게 바라보는 해외 투자자들 입장에서 +ㄴ(상장에 대하+ㄴ) 부정적 이+ㄴ 시각이 커지+ㄹ 수밖에 없다”고 말하였다 .	ORG-B O ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
-이에 대하+여 롯데 관계자는 “호텔롯데 상장은 그룹 차원의 핵심 과제이자 성장전략으로, 일정이 늦춰지기 +ㄴ+였으나 계획대로 진행되+ㄹ 것”이라고 밝히었다 .	O O ORG-B O ORG-B O O O O O O O O O O O O O O
-화선지에 조선풍속화도 그리었고 ‘지장보살도’ 같은 불교 그림에도 손을 대+었다 .	O ORG-B O O O ORG-B O O O O
-유네스코 세계기록유산 ‘동의보감’, 보물에서 국보로 승격 지정 문화재청은 국가지정문화재 보물이 자 유네스코 세계기록유산이+ㄴ ‘동의보감’ 3건을 국가지정 문화재국 보 제319-1호, 제319-2호, 제319-3호로 승격 지정하였다 .	ORG-B O O O O O ORG-B ORG-I ORG-B O O ORG-B O O O ORG-B ORG-I O O O O O ORG-B O
-문화재청(청장 나선화)은 “이번에 보물에서 국보로 승격 지정되+ㄴ 동의보감 3건은 1613년 최초로 간행되 +ㄴ 내 의원 목판본으로, 전하+여지는 사례가 드물어 우리나라의 학사와 서지학적으로 매우 중요하+ㄴ자료”라고 밝히었다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-개인보다는 비즈니스호텔이나 기업을 덱스의 주요 타깃층으로 보고 있다 .	O O O ORG-B O O O O O
-개그맨 송준근이 췌장암 말기 아버지를 두 +ㄴ한 학생의 사연을 듣고, 아버지의 마지막 결혼기념일을 특별하게 꾸미+어주+ㄴ사실이 전 하+여지+어이목을 모으고 있다 .	O PER-B O O O O O O O O O O O O O O O O O O
-4일 사우디아라비아와의 평가전에서 출전 시간이 길었던 선수들은 컨디션 회복에 집중하였다 .	O ORG-B O O O O O O O O O
-서울의 뉴타운 및 재개발 지역은 총 683곳이 선정되었으나 경기 악화, 주민이견 등으로 239곳은 이미 해제되 +ㄴ 상황이다 .	LOC-B O O O O O O O O O O O O O O O O O
-에잇세컨즈, 중국 상하이에 첫 매 .	ORG-B LOC-B LOC-I O O O
+실제 5 일 청문회 에 참석한 이선우 청와대 의무 실장 은 국조 위원 들 의 질의 에 “ 의료 법 상 환자 정보 는 공개할 수 없 다 ” 고 반박한 바 있 다 .	O DAT-B DAT-I O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+환경부 관계자 는 “ 연말 프랑스 파리 에서 열리 는 기후변화 협약 총회 를 앞두 고 미국 과 EU , 스위스 가 탄소 배출 감축 계획 을 제출 했 다 .	ORG-B O O O O LOC-B LOC-I O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O
+또 20 여 년 방송 활동 을 하 며 범죄 심리 를 비롯해 일상생활 심리 까지 꿰뚫 어 온 사회 심리학 전문가 최창호 박사 는 결심 과 포기 를 반복하 는 인간 의 ‘ 결심 중독 ’ 을 지적하 며 힐링 의 시대 를 넘 어 리빙 ( ReBeing ) 의 시대 를 열 어 갈 수 있 는 마음가짐 을 소개 했 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이듬해 베르디 국제 음악 콩쿠르 에서 1 위 에 오르 며 국제적 인 명성 을 얻 었 다 .	O O O O O O O O O O O O O O O O O O O
+홍콩 의 한 IB 관계자 는 “ 오너 리스크 가 더욱 부각돼 사업 에 까지 영향 을 미친다면 한국 의 재벌 구조 를 안 좋 게 바라보 는 해외 투자자 들 입장 에선 ( 상장 에 대한 ) 부정적 인 시각 이 커질 수 밖에 없 다 ” 고 말 했 다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 대해 롯데 관계자 는 “ 호텔롯데 상장 은 그룹 차원 의 핵심 과제 이 자 성장 전략 으로 , 일정 이 늦춰지 긴 했 으나 계획 대로 진행될 것 ” 이라고 밝 혔 다 .	O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+화선지 에 조선 풍속화 도 그 렸 고 ‘ 지장보살 도 ’ 같 은 불교 그림 에 도 손 을 댔 다 .	O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O
+유네스코 세계 기록 유산 ‘ 동의보감 ’ , 보물 에서 국보 로 승격 지정 문화재 청 은 국가 지정 문화재 보물 이 자 유네스코 세계 기록 유산 인 ‘ 동의보감 ’ 3 건 을 국가 지정 문화재 국보 제 319 - 1 호 , 제 319 - 2 호 , 제 319 - 3 호 로 승격 지정 했 다 .	ORG-B O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문화재청 ( 청장 나선화 ) 은 “ 이번 에 보물 에서 국보 로 승격 지정된 동의보감 3 건 은 1613 년 최초 로 간행된 내의원 목판본 으로 , 전해 지 는 사례 가 드물 어 우리나라 의학사 와 서지학 적 으로 매우 중요한 자료 ” 라고 밝 혔 다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+개인 보다 는 비즈니스호텔 이나 기업 을 덱스 의 주요 타깃 층 으로 보 고 있 다 .	O O O O O O O ORG-B O O O O O O O O O O
+개그맨 송준근 이 췌장암 말기 아버지 를 둔 한 학생 의 사연 을 듣 고 , 아버지 의 마지막 결혼기념일 을 특별하 게 꾸며 준 사실 이 전해 져 이목 을 모으 고 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4 일 사우디아라비아 와 의 평가전 에서 출전 시간 이 길 었 던 선수 들 은 컨디션 회복 에 집중 했 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O
+서울 의 뉴 타운 및 재개발 지역 은 총 683 곳 이 선정 됐 으나 경기 악화 , 주민 이견 등 으로 239 곳 은 이미 해제된 상황 이 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+에잇 세컨즈 , 중국 상하이 에 첫 매장	ORG-B ORG-I O LOC-B LOC-I O O O

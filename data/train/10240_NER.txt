@@ -1,17 +1,17 @@
-당시 채국희는 극중 마카오 박(김윤석 분)과 손을 잡고 사기를 치는 사모님 역할을 맡아 눈길을 모으았다 .	O PER-B O PER-B PER-B O O O O O O O O O O O
-한편 4일 오전 한 매체는 두 사람 측근의 말을 인용하+여 “오달수와 채국희가 오랜 연인이며 연극계 쪽에서는 유명 하+ㄴ 커플”이라고 보도하였다 .	O O O O O O O O O O PER-B PER-B O O O O O O O O O
-그저 흥분, 혼란을 원하+ㄴ다”며 “개인적으로 푸틴이 에 스토니아를 집어먹어도 나는 숙면을 취하+ㄹ 수 있을 것이다 .	O O O O O PER-B O O O O O O O O O O
-중국은 류옌둥(劉延東) 국무위원을 단장으로 왕안순(王安順) 베이징시장, 농구스타야오밍(姚明)과 스키 선수 출신의 리니나(李(니, 이) 娜), IOC 위원 양양(楊揚) 등 12명의 대표단을 지난달 25일 현지에 파견 하+여 막판 득표활동을 벌이었다 .	ORG-B PER-B O O PER-B ORG-B PER-B O O O PER-B PER-I PER-I ORG-B O PER-B O O O O O O O O O O O O
-방한 佛대통령 만찬 때 맛보+아화 .	O ORG-B O O O O
-25-18의 일방적 이+ㄴ스코어 +이었다 .	O O O O O
-4K 촬영이 가능하다 .	O O O O
-11일 우정사업본부에 따르면 4일 우체국이 기본요금을 없애+ㄴ 휴대전화 요금제를 선보이+ㄴ이후 5일 동안 3만9595명이 신규 가입 하+여, 하루 평균 약 8000명이 가입하였다 .	O O O O O O O O O O O O O O O O O O O O O O
-‘인기가요’ 싸이, 컴백과 동시에 1위… “YG 식구 들 고맙다”가수 싸이가 컴백과 동시에 ‘인기가요’ 1위에 오르았다 .	O PER-B O O O ORG-B O O O PER-B O O O O O O
-박근혜 대통령이 내각에 다시 ‘개인 행보’ 자제를 요구하였다 .	PER-B O O O O O O O O
-이날 나는 가수+이다 3에는 소찬휘와 스윗소로우, 양파와 하동균, 박정현과 나윤권 그리고 김경호가 새롭게 합류하였다 .	O O O O PER-B ORG-B PER-B PER-B PER-B PER-B O PER-B O O O
-지난해 폭발적 이+ㄴ 호응에 힘입어 올해는 약 3개월간 전국 7개 매장에서 확대 운영 하+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O
-박용택은 “대학 3학년 때 배트가 알루미늄에서 나무로 바뀌었다 .	PER-B O O O O O O O O
-투자 대비 성과 없는 배구 인프라 구축 시스템 프로구단과 KOVO가 10년간 유소년 배구 육성을 위하+여 많은 돈을 투자하였지만 현실은 심각하였다 .	O O O O O O O O O ORG-B O O O O O O O O O O O
-런던 지하철 24시간 운행은 칸 시장의 전임자 이+ㄴ 보수당 소속 보리스 존슨 전시장이 추진하였던 사업이다 .	ORG-B ORG-I O O PER-B O O O ORG-B O PER-B PER-I O O O O
-행복주택의 경우 신혼부부 대학생 위주로 다양하+ㄴ 분양지원이 이루어지고 있지만 수백채의 대형 단지로 건립되고 있다 .	O O O O O O O O O O O O O O O
-2008년에는 매출 100억위안을 돌파하며 코카콜라의 아성을 무너뜨리었다 .	O O MNY-B O ORG-B O O O
+당시 채국희 는 극 중 마카오 박 ( 김윤석 분 ) 과 손 을 잡 고 사기 를 치 는 사모님 역할 을 맡 아 눈길 을 모 았 다 .	O PER-B O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O
+한편 4 일 오전 한 매체 는 두 사람 측근 의 말 을 인용해 “ 오달수 와 채국희 가 오랜 연인 이 며 연극계 쪽 에서 는 유명한 커플 ” 이라고 보도 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+그저 흥분 , 혼란 을 원한다 ” 며 “ 개인적 으로 푸틴 이 에스토니아 를 집 어 먹 어도 나 는 숙면 을 취할 수 있 을 것 이 다 .	O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O
+중국 은 류옌둥 ( 劉延東 ) 국무 위원 을 단장 으로 왕안순 ( 王安順 ) 베이징 시장 , 농구 스타 야오밍 ( 姚明 ) 과 스키 선수 출신 의 리니 나 ( 李 ( 니 , 이 ) 娜 ) , IOC 위원 양양 ( 楊揚 ) 등 12 명 의 대표단 을 지난달 25 일 현지 에 파견해 막판 득표 활동 을 벌 였 다 .	ORG-B O PER-B O PER-B O O O O O O PER-B O PER-B O ORG-B O O O O PER-B O PER-B O O O O O O PER-B PER-I PER-I PER-I PER-I PER-I PER-I PER-I PER-I PER-I PER-I O ORG-B O PER-B O PER-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+방한 佛 대통령 만찬 때 맛봐 화제	O ORG-B O O O O O
+25 - 18 의 일방적 인 스코어 였 다 .	O O O O O O O O O O
+4 K 촬영 이 가능하 다 .	O O O O O O O
+11 일 우정 사업 본부 에 따르 면 4 일 우체국 이 기본요금 을 없앤 휴대 전화 요금 제 를 선보인 이후 5 일 동안 3 만 9595 명 이 신규 가입해 , 하루 평균 약 8000 명 이 가입 했 다 .	DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+‘ 인기 가요 ’ 싸이 , 컴백 과 동시 에 1 위 … “ YG 식구 들 고맙 다 ” 가수 싸이 가 컴백 과 동시 에 ‘ 인기 가요 ’ 1 위 에 올 랐 다 .	O O O O PER-B O O O O O O O O O ORG-B O O O O O O PER-B O O O O O O O O O O O O O O O O
+박근혜 대통령 이 내각 에 다시 ‘ 개인 행보 ’ 자제 를 요구 했 다 .	PER-B O O O O O O O O O O O O O O O
+이날 나 는 가수 다 3 에 는 소찬휘 와 스윗 소로우 , 양파 와 하동균 , 박정현 과 나윤권 그리고 김경호 가 새롭 게 합류 했 다 .	O O O O O O O O PER-B O ORG-B ORG-I O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O O
+지난해 폭발적 인 호응 에 힘입 어 올해 는 약 3 개월 간 전국 7 개 매장 에서 확대 운영할 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+박용택 은 “ 대학 3 학년 때 배트 가 알루미늄 에서 나무 로 바뀌 었 다 .	PER-B O O O O O O O O O O O O O O O O
+투자 대비 성과 없 는 배구 인프라 구축 시스템 프로 구단 과 KOVO 가 10 년 간 유소년 배구 육성 을 위해 많 은 돈 을 투자 했 지만 현실 은 심각 했 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+런던 지하철 24 시간 운행 은 칸 시장 의 전임자 인 보수당 소속 보리스 존슨 전 시장 이 추진 했 던 사업 이 다 .	ORG-B ORG-I O O O O PER-B O O O O ORG-B O PER-B PER-I O O O O O O O O O O
+행복 주택 의 경우 신혼부부 대학생 위주 로 다양한 분양 지원 이 이뤄지 고 있 지만 수백 채 의 대형 단지 로 건립되 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2008 년 에 는 매출 100 억 위안 을 돌파하 며 코카콜라 의 아성 을 무너뜨 렸 다 .	DAT-B DAT-I O O O MNY-B MNY-I MNY-I O O O ORG-B O O O O O O O

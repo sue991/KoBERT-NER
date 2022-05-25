@@ -1,13 +1,13 @@
-오후 1시에 열리+ㄴ 14일 SK전부터 대략 1500여명의 팬들이 사직구장을 찾았다 .	TIM-B TIM-I O O O O O O LOC-B O O
-한번이라도 방콕을 다녀오+ㄴ사람이라면 그 익숙하고 편안하+ㄴ촌스럽+ㅁ에 다시 방콕 여행을 오+ㄴ듯 착각 하+ㄹ 법하다 .	O LOC-B O O O O O LOC-B O O O O O O
-신동와인은 FTA 발효 직후 이+ㄴ 지난달 중순 ‘로즈마운트’와 ‘토브렉’의 소비자 가격을 13∼15% 인하하였다 .	ORG-B O O O O O O O O O O O O O
-‘아벨콰르텟’ ‘노부스 콰르텟’ 공 .	ORG-B ORG-B ORG-I O O
-도라지 위스키가 국산 양주 상표 이름이었기 때문이다 .	O O O O O O O O
-김씨는 특수강간 혐의로 이미 2차례에 걸치+어 10년간 복역 하+ㄴ바 있다 .	PER-B O O O O O O O O O O
-산업통상자원부가 1일 발표 하+ㄴ ‘수출입 동향’에 따르면 8월 수출액은 393억3000만달러(약 46조원)로 전년 동월 대비 14.7% 감소하였다 .	MNY-I O O O O O O O O MNY-B MNY-B O O O O O O
-[안영배 전 문기자의 풍수와 삶] ‘뻥’ 풍수는 이제 그만 .	O O O O O O O O O O
-다행히 수치로 나타나 +ㄴ 공격력에서 +ㄴ한국이 스페인을 앞서 +ㄴ다 .	O O O O O ORG-B ORG-B O O O
-가전사업을 하는 HA(홈어플라이언스) 사업본부의 매출액과 영업이익은 2조8803억원과 850억원이었다 .	ORG-I O ORG-B ORG-I O O MNY-B MNY-B O
-35세 이상육상동 호인이 참가해 2년마다 열리+ㄴ다 .	O O O O O O O
-“네이버에서 일하다가 오+ㄴ 친구도 있고, 막노동을 하다가 들어 오+ㄴ 직원도 있다 .	ORG-B O O O O O O O O O O O
-일본 교도통신은 15일 체포 당시 '도안티 흐엉' 이름의 베트남 여권을 소지하+ㄴ 여성이 사건 수일 전부터 공항 부근의 호텔을 혼자 전 전하였다고 16일 보도하였다 .	ORG-B ORG-I O O O PER-B PER-I O LOC-B O O O O O O O O O O O O O O O
+오후 1 시 에 열린 14 일 SK 전 부터 대략 1500 여 명 의 팬 들 이 사직구장 을 찾 았 다 .	TIM-B TIM-I TIM-I O O DAT-B DAT-I O O O O O O O O O O O LOC-B O O O O O
+한 번 이라도 방콕 을 다녀온 사람 이 라면 그 익숙하 고 편안한 촌스러움 에 다시 방콕 여행 을 온 듯 착각할 법 하 다 .	O O O LOC-B O O O O O O O O O O O O LOC-B O O O O O O O O O
+신동 와인 은 FTA 발효 직후 인 지난달 중순 ‘ 로즈 마운트 ’ 와 ‘ 토브렉 ’ 의 소비자 가격 을 13 ∼ 15 % 인하 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 아벨 콰르텟 ’ ‘ 노부스 콰르텟 ’ 공연	O ORG-B ORG-I O O ORG-B ORG-I O O
+도라지 위스키 가 국산 양주 상표 이름 이 었 기 때문 이 다 .	O O O O O O O O O O O O O O
+김 씨 는 특수 강간 혐의 로 이미 2 차례 에 걸쳐 10 년 간 복역한 바 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+산업 통상 자원 부 가 1 일 발표한 ‘ 수출입 동향 ’ 에 따르 면 8 월 수출액 은 393 억 3000 만 달러 ( 약 46 조 원 ) 로 전년 동월 대비 14.7 % 감소 했 다 .	ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O O O O O O O O DAT-B DAT-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O
+[ 안영배 전문 기자 의 풍수 와 삶 ] ‘ 뻥 ’ 풍수 는 이제 그만 !	O O O O O O O O O O O O O O O O O
+다행히 수치 로 나타난 공격력 에선 한국 이 스페인 을 앞선다 .	O O O O O O ORG-B O ORG-B O O O
+가전 사업 을 하 는 HA ( 홈 어 플 라이언스 ) 사업 본부 의 매출액 과 영업 이익 은 2 조 8803 억 원 과 850 억 원 이 었 다 .	O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O
+35 세 이상 육상 동호인 이 참가 해 2 년 마다 열린다 .	O O O O O O O O O O O O O
+“ 네이버 에서 일하 다가 온 친구 도 있 고 , 막노동 을 하 다가 들어온 직원 도 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
+일본 교도통신 은 15 일 체포 당시 ' 도안 티 흐 엉 ' 이름 의 베트남 여권 을 소지한 여성 이 사건 수일 전 부터 공항 부근 의 호텔 을 혼자 전전 했 다고 16 일 보도 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O O PER-B PER-I PER-I PER-I O O O LOC-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O

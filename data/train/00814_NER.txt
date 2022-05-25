@@ -1,14 +1,14 @@
-영국 런던에서 발간되는 과학 학술지 네이처는 11일(현지시간) 미국 볼더 콜로라도 대쉬샹 원 교수가 이끌는 다국적 연구팀의 논문을 게재하였다 .	LOC-B LOC-B O O O O O ORG-B ORG-B O O O O O O O O O O
-2005년 제일은행을 인수하+ㄹ 때부터 한국SC은행을 키우는 데 공을 들이+ㄴ 것+이 샌즈 전 회장이었기 때문이다 .	O ORG-B O O ORG-B O O O O O PER-B O O O O
-리그 순위는 2위(14승 8무 3패, 승점 50점, 골득실 28)를 지키었지만 허+ㄹ시티를 꺾은 아스널(15승 5무 5패, 승점 50점, 골득실 26)에 겨우 골득실에서 앞서 +ㄴ 순위 +이다 .	O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
-두 손을 모으+ㄴ 모습에서는 상대를 설득하려는 '의지'가 읽히었지만, 양손을 늘어뜨리+ㄴ 모습에서는 떨어지+ㄴ 자신감이 엿보이기까지 +였다 .	O O O O O O O O O O O O O O O O
-[스마트 컨슈머] 하나뿐인 생명 9988㈜ ‘강화약쑥’, 수족냉증 잡고 혈액순환 개 .	O O ORG-B ORG-I ORG-I O O O O O O
-11일에는 아베 신조 일본 총리와 골프장에서 정상회담을 하기도 +였다 .	O PER-B PER-I ORG-B O O O O O O
-한국은 이번 대회 전까지 올림픽 예선 29경기에서 21승 8무로 한 차례도 지지 않았다 .	ORG-B O O O O O O O O O O O O O
-실제로 요즘 재미있고 편리하+ㄴ 플랫폼 서비스 앱이 속속 등장하고 있는데요. 예를 들어, 기존 포장이사 서비스의 불편 하+ㄴ점을 개선하+ㄴ 서비스 앱은 1인 가구를 대상으로 단출하+ㄴ짐을 배달하고 정리하+여주는 맞춤형 앱을 내놓+아인기를 끌고 있습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 25년간 퇴임하+ㄴ대법관 53명(배석 전 대법관 제외) 중 45명(85%)이 퇴임 후 변호사 활동을 +였다 .	O O O PER-B O O O O O O O O O O O
-17일 라오스전, 누가 누구가 뛰나 보+ㅂ시 .	O LOC-B O O O O O
-시장경제의 세계화란 역사의 추세에 동승하겠다는 그의 선택은 공산당 통치와 전체주의 독재를 자동적으로 연계시키었던 관행을 바꾸어야 하+ㄹ새시대가 +았음을 알리+어주었다 .	O O O O O O O ORG-B O O O O O O O O O O O
-덩샤오핑이 이끌는 중국은 더 이상 유일지도체제가 아니며 외부로부터 차단되+ㄴ 폐쇄 사회나 경제가 아니+ㄴ새 실험을 진행하는 나라가 되+ㄴ 것이다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O
-일본 여자 프로골프(JLPGA) 투어에서 뛰고 있는 이보 미(26·마스터스GC)의 스승 조범수(63) 코치는 ‘호랑이 선생님’으로 통하+ㄴ다 .	ORG-B ORG-I ORG-B O O O O ORG-B O PER-B O O O O O
-몸 상태를 회복하고 올랜도에서 샷 훈련에 집중 하+ㄴ 뒤 2월 초 코츠챔피언십으로 첫 대회를 치르+ㄴ다 .	O O O LOC-B O O O O O O O O O O O O
+영국 런던 에서 발간되 는 과학 학술지 네이처 는 11 일 ( 현지 시간 ) 미국 볼더 콜로라도대 쉬샹원 교수 가 이끄 는 다국적 연구 팀 의 논문 을 게재 했 다 .	LOC-B LOC-B O O O O O O O DAT-B DAT-I O O O O ORG-B ORG-B ORG-I PER-B O O O O O O O O O O O O O O
+2005 년 제일은행 을 인수할 때 부터 한국 SC 은행 을 키우 는 데 공 을 들인 게 샌즈 전 회장 이 었 기 때문 이 다 .	DAT-B DAT-I ORG-B O O O O ORG-B ORG-I ORG-I O O O O O O O O PER-B O O O O O O O O O
+리그 순위 는 2 위 ( 14 승 8 무 3 패 , 승점 50 점 , 골 득실 28 ) 를 지 켰 지만 헐 시티 를 꺾 은 아스널 ( 15 승 5 무 5 패 , 승점 50 점 , 골 득실 26 ) 에 겨우 골 득실 에서 앞선 순위 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+두 손 을 모은 모습 에서 는 상대 를 설득하 려는 ' 의지 ' 가 읽 혔 지만 , 양손 을 늘어뜨린 모습 에서 는 떨어진 자신감 이 엿보이 기 까지 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 스마트 컨슈머 ] 하나 뿐 인 생명 9988 ㈜ ‘ 강화 약쑥 ’ , 수족 냉증 잡 고 혈액 순환 개선	O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O
+11 일 에 는 아베 신조 일본 총리 와 골프장 에서 정상 회담 을 하 기 도 했 다 .	DAT-B DAT-I O O PER-B PER-I ORG-B O O O O O O O O O O O O O
+한국 은 이번 대회 전 까지 올림픽 예선 29 경기 에서 21 승 8 무 로 한 차례 도 지 지 않 았 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+실제로 요즘 재미있 고 편리한 플랫폼 서비스 앱 이 속속 등장하 고 있 는데요 . 예 를 들 어 , 기존 포장 이사 서비스 의 불편한 점 을 개선한 서비스 앱 은 1 인 가구 를 대상 으로 단출한 짐 을 배달하 고 정리해 주 는 맞춤 형 앱 을 내놔 인기 를 끌 고 있 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 25 년 간 퇴임한 대법관 53 명 ( 배석 전 대법관 제외 ) 중 45 명 ( 85 % ) 이 퇴임 후 변호사 활동 을 했 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+17 일 라오스 전 , 누가 누 가 뛰 나 봅시다	DAT-B DAT-I LOC-B O O O O O O O O
+시장 경제 의 세계화 란 역사 의 추세 에 동승하 겠 다는 그 의 선택 은 공산당 통치 와 전체주의 독재 를 자동적 으로 연계 시 켰 던 관행 을 바꾸 어야 할 새 시대 가 왔 음 을 알려 주 었 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+덩샤오핑 이 이끄 는 중국 은 더 이상 유일 지도 체제 가 아니 며 외부 로부터 차단된 폐쇄 사회 나 경제 가 아닌 새 실험 을 진행하 는 나라 가 된 것 이 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 여자 프로 골프 ( JLPGA ) 투어 에서 뛰 고 있 는 이보미 ( 26 · 마스터스 GC ) 의 스승 조범수 ( 63 ) 코치 는 ‘ 호랑이 선생님 ’ 으로 통한다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O PER-B O O O ORG-B ORG-I O O O PER-B O O O O O O O O O O O O
+몸 상태 를 회복하 고 올랜도 에서 샷 훈련 에 집중한 뒤 2 월 초 코츠 챔피언십 으로 첫 대회 를 치른다 .	O O O O O LOC-B O O O O O O DAT-B DAT-I O O O O O O O O O

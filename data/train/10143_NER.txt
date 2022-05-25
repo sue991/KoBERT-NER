@@ -1,11 +1,11 @@
-지나+ㄴ 2011년 SBS 드라마 '폼나게 살+ㄹ 것+이야'로 데뷔 하+ㄴ 윤세인은 MBC '아들 녀석들', SBS '잘 키우+ㄴ딸 하나'에 출연하였다 .	O O O O O O O O O PER-B O O O O O O O O O
-포항과 안방 대결에서 16승9무 11패로우 위를 점 하+ㄴ다고는 하+여도 위안을 삼기 어렵다 .	LOC-B O O O O O O O O O O O O
-전용면적별 일반분양 가구 수는 △59㎡84가구 △84㎡123가구 △107㎡11가구 △110㎡4가구+이다 .	O O O O O O O O O
-준결승 1국 ２보(22∼33 .	O O O O
-전북 제일고가 핸드볼 명문교로 자리매기+ㅁ하기까지는 지도자의 연구와 노력이 숨어 있다 .	ORG-B ORG-I O O O O O O O O O
-세계적 이+ㄴ 여성 참정권 운동가 이+ㄴ에 멀라이+ㄴ팽크 허스트의 증손녀와 고손녀 등 수백 명의 정치인 배우 등 명사들이 동참하였다 .	O O O O O O O O O O O O O O O O O O O
-문재인 대표는 이날 모두발언을 통하+여 “지금은 다투+ㄹ 때가 아니라 문제 해결에 힘을 모으+ㄹ 때 +이다 .	PER-B O O O O O O O O O O O O O O O
-로테이션 순서 상 정규시즌 마지막 경기 이+ㄴ 10월 5일 샌디에이고파드리스전에도 나서 +ㄹ 수 있지만, 다저스가 지구 우승을 확정짓을 경우 포스트시즌에 대비하기 위하+여 그레인 키를 내세우지 않을 가능성이 높다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
-특히 2013년 말 차세대 모바일 D램 규격이 +ㄴ LPDDR4 제품 개발에잇어 지난해 8Gb(기가비트)의 LPDDR4 제품을 스마트폰에 탑재하+여 상용화하는 등 모바일 제품 경쟁력을 강화하고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-또 독도에서 긴급 하+ㄴ 재난상황이 닥치었을 경우에도 LTE를 사용하+ㄹ 수 없게 되+ㄴ다는 지적이 계속 있어 +오았다 .	O LOC-B O O O O O O O O O O O O O O O
-지역은 수원, 용인, 남양주, 화성, 군포, 김포, 광주 등에서 1석이 증가하+ㄴ다 .	O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O O
+지난 2011 년 SBS 드라마 ' 폼 나 게 살 거 야 ' 로 데뷔한 윤세인 은 MBC ' 아들 녀석 들 ' , SBS ' 잘 키운 딸 하나 ' 에 출연 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+포항 과 안방 대결 에서 16 승 9 무 11 패 로 우위 를 점한다고 는 해도 위안 을 삼 기 어렵 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+전용면적 별 일반 분양 가구 수 는 △ 59 ㎡ 84 가구 △ 84 ㎡ 123 가구 △ 107 ㎡ 11 가구 △ 110 ㎡ 4 가구 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+준결승 1 국 ２ 보 ( 22 ∼ 33 )	O O O O O O O O O O
+전북 제일고 가 핸드볼 명문교 로 자리 매김 하 기 까지 는 지도자 의 연구 와 노력 이 숨 어 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+세계적 인 여성 참정권 운동가 인 에멀라 인 팽크허스트 의 증손녀 와 고손녀 등 수백 명 의 정치인 배우 등 명사 들 이 동참 했 다 .	O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O
+문재인 대표 는 이날 모두 발언 을 통해 “ 지금 은 다툴 때 가 아니 라 문제 해결 에 힘 을 모을 때 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+로테이션 순서 상 정규 시즌 마지막 경기 인 10 월 5 일 샌디에이고 파드리스 전 에 도 나설 수 있 지만 , 다저스 가 지구 우승 을 확정 지 을 경우 포스트 시즌 에 대비하 기 위해 그레인키 를 내세우 지 않 을 가능성 이 높 다 .	O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+특히 2013 년 말 차세대 모바일 D 램 규격 인 LPDDR 4 제품 개발 에 이 어 지난해 8 Gb ( 기가 비트 ) 의 LPDDR 4 제품 을 스마트 폰 에 탑재해 상용 화 하 는 등 모바일 제품 경쟁력 을 강화하 고 있 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 독도 에서 긴급한 재난 상황 이 닥 쳤 을 경우 에 도 LTE 를 사용할 수 없 게 된다는 지적 이 계속 있 어 왔 다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+지역 은 수원 , 용인 , 남양주 , 화성 , 군포 , 김포 , 광주 등 에서 1 석 이 증가한다 .	O O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O

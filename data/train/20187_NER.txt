@@ -1,15 +1,15 @@
-송일국은 가수 김장훈, 록밴드 피아(옥요하+ㄴ, 헐랭), 한국체대 학생 40명과 함께 2박3일 동안 릴레이로 경북 울진군 죽변항과 독도 사이 직선거리 220km를 수영하였다 .	PER-B O PER-B O ORG-B PER-B ORG-B O O O O O O LOC-B LOC-B LOC-B LOC-B O O O PER-B O
-그런데 4개월이 지나가고 있지만 매각 협상은 교착상태에 빠지+어 있다 .	O O O O O O O O O O
-구속이 140km 대중후반까지 나오고 있고, 어느 해보다 뛰어나 +ㄴ구위가 돋보이+ㄴ다 .	O O O O O O O O O O O
-드라마의 성공 여부가 미지수 이+ㄴ 상황에서 12부작으로 초기 제작비를 적게 들이어 나중에 실패 하+여도 부담을 줄이자는 뜻이 있다는 것이다 .	O O O O O O O O O O O O O O O O O O O O
-전문 클래식 공연공간으로 403석 규모의 객석과 전문시설을 보유하고 있다 .	O O O O O O O O O O
-업계 관계자에 따르면 안산을 비롯하+여 인근 경기지역에서 거주하는 전세민들의 계약자가 상당하다 .	O O O LOC-B O O LOC-B O O O O O
-지나+ㄴ 한 달을 타율 0.227, 6홈런 8타점으로 마무리 하+ㄴ 박병호는 팀내 홈런 선두, 아메리칸리그 신인 중 홈런, 장타력 1위로 5월을 맞이하였다 .	O O O O O O O O O PER-B O O O O O O O O O O O O
-한일 전 승리 하+ㄴ 여자축구대표팀, 북한만 넘으면 우승 … 경기는 언제 .	O O O O ORG-B ORG-B O O O O O O
-7일(한국시간) 휴스턴 전에서 +ㄴ 자신이 기록하+ㄴ 39점 중 17점을 4쿼터에 쏟아붓었고, 경기 막판에는 하든의 레이 업슛을 블록하기도 +였다 .	LOC-B O O O O PER-B O O O O O O O PER-B O O PER-B O O
-송비는 생이별 후 출가를 +였는데 시녀 셋이 더불어 삭발, 한 여승은 곁에서 송비의 시중을 들고 다른 두 여승은 동냥을 하여 송비의 끼니를 잇었다 하+ㄴ다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O
-양 검사는 먼저 하씨에게 질문을 던지었다 .	PER-B O O PER-B O O O
-이규태 회장 녹취록 공개, 논란 일파만파… “중정에 있었다 .	PER-B O O O O O O O O
-개신교 CATV 운영 주체 내정/「기독교 유선방송 설립위」에 허가권 주기 .	ORG-B O O O ORG-B ORG-I ORG-I O O O
-다만 우려되는 것은 사드 배치에 반대하+여오+ㄴ 중국의 몽니가 더욱 극렬 하+여지+ㄹ 것+이라는 점이다 .	O O O O O O ORG-B O O O O O O O
-국내 개최는 지나 +ㄴ 1989년 세계대회에잇어 두 번째 +이다 .	O O O O O O O O O O
+송일국 은 가수 김장훈 , 록 밴드 피아 ( 옥요한 , 헐랭 ) , 한국체대 학생 40 명 과 함께 2 박 3 일 동안 릴레이 로 경북 울진군 죽변 항 과 독도 사이 직선거리 220 km 를 수영 했 다 .	PER-B O O PER-B O O O ORG-B O PER-B O PER-B O O ORG-B O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I O LOC-B O O O O O PER-B O O O
+그런데 4 개월 이 지나가 고 있 지만 매각 협상 은 교착 상태 에 빠져 있 다 .	O O O O O O O O O O O O O O O O O O
+구속 이 140 km 대 중 후반 까지 나오 고 있 고 , 어느 해 보다 뛰어난 구위 가 돋보인다 .	O O O O O O O O O O O O O O O O O O O O O
+드라마 의 성공 여부 가 미지수 인 상황 에서 12 부 작 으로 초기 제작비 를 적 게 들 여 나중 에 실패해도 부담 을 줄이 자는 뜻 이 있 다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전문 클래식 공연 공간 으로 403 석 규모 의 객석 과 전문 시설 을 보유하 고 있 다 .	O O O O O O O O O O O O O O O O O O O
+업계 관계자 에 따르 면 안산 을 비롯해 인근 경기 지역 에서 거주하 는 전세민 들 의 계약자 가 상당하 다 .	O O O O O LOC-B O O O LOC-B O O O O O O O O O O O O
+지난 한 달 을 타율 0.227 , 6 홈런 8 타점 으로 마무리한 박병호 는 팀 내 홈런 선두 , 아메리칸 리그 신인 중 홈런 , 장타력 1 위 로 5 월 을 맞이 했 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+한 일 전 승리한 여자 축구 대표 팀 , 북한 만 넘 으면 우승 … 경기 는 언제 ?	O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O
+7 일 ( 한국 시간 ) 휴스턴 전 에선 자신 이 기록한 39 점 중 17 점 을 4 쿼터 에 쏟 아 부 었 고 , 경기 막판 에 는 하 든 의 레이업슛 을 블록 하 기 도 했 다 .	DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O
+송 비 는 생이별 후 출가 를 했 는데 시녀 셋 이 더불 어 삭발 , 한 여승 은 곁 에서 송 비 의 시중 을 들 고 다른 두 여승 은 동냥 을 하 여 송 비 의 끼니 를 이 었 다 한다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+양 검사 는 먼저 하 씨 에게 질문 을 던 졌 다 .	PER-B O O O PER-B O O O O O O O O
+이규태 회장 녹취 록 공개 , 논란 일파만파 … “ 중정 에 있 었 다 ”	PER-B O O O O O O O O O O O O O O O
+개신교 CATV 운영 주체 내정 / 「 기독교 유선 방송 설립 위 」 에 허가 권 주 기 로	ORG-B O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O
+다만 우려되 는 것 은 사드 배치 에 반대해 온 중국 의 몽니 가 더욱 극렬해 질 거 라는 점 이 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O
+국내 개최 는 지난 1989 년 세계 대회 에 이 어 두 번째 다 .	O O O O DAT-B DAT-I O O O O O O O O O

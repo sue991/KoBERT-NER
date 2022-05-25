@@ -1,14 +1,14 @@
-기존 대표선수들 중에서도 김선형(28·SK)이 한 단계 또 발전하며 팀을 이끌어가는 모습을 보이어 +주었다 .	O O O ORG-B O O O O O O O O O O
-'민화협 리퍼트' 마크 리퍼트(42) 주한 미국대사가 5일 민족화해협력범국민협의회(이하 민화협) 주최 강연을 위하+여 준비하는 도중 괴한의 공격을 받고 부상당하+여강북삼성병원으로 긴급 후송되는 사건이 일어나 +았다 .	ORG-B PER-I PER-B PER-I O O O ORG-B ORG-B O O O O O O O O ORG-B O O O O O O
-여행상품 외에도 실제 여행지를 방문하+ㄴ이들이 남기+ㄴ 리뷰 역시 2만5000개가 넘어 여행 일정 계획 시 참고 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O
-스웨덴에서는 (사이토 카인 요법을) 더 이상 사용하지 않는다 .	ORG-B O O O O O O O O
-2012년 업계의 불투명 하+ㄴ 전망으로 평균 투자 규모가 축소되+ㄴ 가운데서도 투자를 늘리+어 3조8500억원을 집행하였고 이후에도 매년 3조원대 대규모 투자를 단행하였다 .	O O O O O O O O O O O O MNY-B O O O MNY-B O O O O
-특히 2013년에는 사상 최초로 연구개발비에만 1조원 이상을 투입하였다 .	O MNY-B O O O MNY-B O O O
-[분양 하이라이트]삼성이 오는 고덕신도시에 저렴하+ㄴ '자이'나오+ㄴ .	O ORG-B O O O O O
-배우 김태희(37)의 신인 시절 인터뷰가 눈길을 모으고 있다 .	O PER-B O O O O O O O
-18일 한 온라인 커뮤니티에는 김태희의 2003년 SBS 드라마 '스크린' 촬영 당시의 인터뷰가 올라오았다 .	O O O O PER-B O O O O O O O O O
-김태희는 인터뷰에서 자신이 '깍쟁이' 이미지를 가지고 있는 것을 두고 "목소리의 톤이 높은 것+이 한몫하는 것 같다"며 "(나는) 곰같이 둔 하+ㄴ편"이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-김태희는 당시 남자친구가 있다는 사실도 공개하였다 .	PER-B O O O O O O
-홍재무 밝히+ .	PER-B O O
-이 행정관은 작년 12월 국회 국정조사특별위원회 청문회에 무단 불출석 하+ㄴ 혐의(국회에서의 증언·감정 등에 관하+ㄴ 법률 위반)도 받는다 .	PER-B O O O ORG-B ORG-I O O O O ORG-B O O O O O O O
-이를 계기로 중국 슈퍼리그 주요 빅클럽들이 관심을 표명하+여+오았다 .	O O O O O O O O O
+기존 대표 선수 들 중 에서 도 김선형 ( 28 · SK ) 이 한 단계 또 발전하 며 팀 을 이끌 어 가 는 모습 을 보 여 줬 다 .	O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+' 민화협 리퍼트 ' 마크 리퍼트 ( 42 ) 주한 미국 대사 가 5 일 민족 화해 협력 범 국민 협의회 ( 이하 민화협 ) 주최 강연 을 위해 준비하 는 도중 괴한 의 공격 을 받 고 부상 당해 강북삼성병원 으로 긴급 후송되 는 사건 이 일어났 다 .	O ORG-B PER-B O PER-B PER-I O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+여행 상품 외 에 도 실제 여행지 를 방문한 이 들 이 남긴 리뷰 역시 2 만 5000 개 가 넘 어 여행 일정 계획 시 참고할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스웨덴 에서 는 ( 사이토카인 요법 을 ) 더 이상 사용하 지 않 는다 .	ORG-B O O O O O O O O O O O O O O
+2012 년 업계 의 불투명한 전망 으로 평균 투자 규모 가 축소된 가운데 서 도 투자 를 늘려 3 조 8500 억 원 을 집행 했 고 이후 에 도 매년 3 조 원 대 대규모 투자 를 단행 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+특히 2013 년 에 는 사상 최초 로 연구 개발비 에 만 1 조 원 이상 을 투입 했 다 .	O DAT-B DAT-I O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+[ 분양 하이라이트 ] 삼성 이 오 는 고덕 신도시 에 저렴한 ' 자이 ' 나온다	O O O O ORG-B O O O O O O O O O O O
+배우 김태희 ( 37 ) 의 신인 시절 인터뷰 가 눈길 을 모으 고 있 다 .	O PER-B O O O O O O O O O O O O O O O
+18 일 한 온라인 커뮤니티 에 는 김태희 의 2003 년 SBS 드라마 ' 스크린 ' 촬영 당시 의 인터뷰 가 올라 왔 다 .	DAT-B DAT-I O O O O O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O
+김태희 는 인터뷰 에서 자신 이 ' 깍쟁이 ' 이미지 를 가지 고 있 는 것 을 두 고 " 목소리 의 톤 이 높 은 게 한 몫 하 는 것 같 다 " 며 " ( 나 는 ) 곰 같이 둔한 편 " 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김태희 는 당시 남자 친구 가 있 다는 사실 도 공개 했 다 .	PER-B O O O O O O O O O O O O O
+홍 재무 밝혀	PER-B O O
+이 행정관 은 작년 12 월 국회 국정 조사 특별 위원회 청문회 에 무단 불출석 한 혐의 ( 국회 에서 의 증언 · 감정 등 에 관한 법률 위반 ) 도 받 는다 .	PER-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O ORG-B O O O O O O O O O O O O O O O
+이 를 계기 로 중국 슈퍼 리그 주요 빅 클럽 들 이 관심 을 표명해 왔 다 .	O O O O O O O O O O O O O O O O O O

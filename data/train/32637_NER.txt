@@ -1,13 +1,13 @@
-트리에 시 주민들도 중국이 마르크스 동산을 선물 하+ㄴ 것에 대하+여다 소엉뚱하다는 반응을 보이고 있다 .	LOC-B LOC-I O ORG-B LOC-B LOC-I O O O O O O O O O
-주말 민중총궐기를 앞두고 일단 위기를 모면하려는 의도+이라면 박 대통령은 아직도 사태의 위중 하+ㅁ을 모르+ㄴ다는 얘기+이다 .	O O O O O O O PER-B O O O O O O O O
-미국 대사관은 곧바로 트위터에 “이 사건을 인지하고 있다”며 자국민에게 외출을 삼가 +아달라고 당부하였다 .	ORG-B ORG-I O O O O O O O O O O O O
-40대 교수와 여제자 간의 온갖 성적 실험을 다루+ㄴ이 연극에서 여배우 하경연은 환하+ㄴ 조명 아래서라스트 10여분 동안 옷을 벗어던지+ㄴ 채 노골적정 사 장면을 연기하+여 관객들에게 충격을 던지었다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
-경북·대구지역 무역상사 등 기업에서 조언을 얻기 위하+ㄴ 경쟁을 벌이는 가운데, 지역 무역상사협의회 등에서 +ㄴ 중역이자 크+ㄴ어른으로 대접하는 분위기도 보이+ㄴ다 .	LOC-B ORG-I O O O O O O O O ORG-B ORG-I O O O O O O O O
-5월 29일 1군 엔트리 제외 후 함평에서 재활에 전념 복귀 시점 단정 하+ㄹ 수 없지만 팀 위 하+여돌아오겠다는 다짐 KIA 최희섭(36)은 전남 함평의 KIA 챌린저스필드에서 머물고 있다 .	O O ORG-B O O O LOC-B O O O O O O O O O O O O ORG-B PER-B LOC-B LOC-B ORG-B ORG-I O O O
-바르셀로나, at마드 리드 상대로 챔피언스리그 8강 1차전 勝…수아레스 ‘2골 .	ORG-B ORG-B O O O O O PER-B O O
-곡성군은 정례조회와 직원 교육을 모두 취소하고 고인을 추모하였다 .	ORG-B O O O O O O O O
-2009년 준우승하였지만 2010년 다시 정상에 오르았다 .	O O O O O O O
-녹색연합 한만형 활동가는 "겨울철 폭설로 2월 말에서 3월 중순 사이에 산양이 폐사하는 경우가 흔하다"며 "탈진하+ㄴ산양의 신속하+ㄴ 구조를 위하+여울지+ㄴ·삼척지역에도 산양을 보호·관리 하+ㄹ 전문시설이 필요하다"고 말하였다 .	ORG-B PER-B O LOC-B O O O O O O O O O O O O O LOC-B O O O O O O O
-앞서 하루 전날 이+ㄴ 17일 그는 공항에서 무리하게 자신을 촬영하며 다른 팬들에게 피해를 주+ㄴ한 팬의 사진을 올리며 “오늘 공항에서 당신은 10여명의 발을 밟고 짐을 넘어뜨리고 몸을 부딪치었습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-교감과 3학년 담임, 1·2학년 부장교사 등으로 구성되 +ㄴ이협의체는 대학이 요구하는 인재상을 연구 하+ㄴ다 .	O O O O O O O O O O O O O O
-이미 명왕성의 위성이 +ㄴ 카론(저승의 강나룻 배사공)에게 다음 세상으로 가는 뱃삯을 지불하였지만, 태양계의 다음 세상이 +ㄴ 인터스텔라로 접어들기까지는 길+ㄴ 여정이 남아 있다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
+트리에 시 주민 들 도 중국 이 마르크스 동산 을 선물한 것 에 대해 다소 엉뚱하 다는 반응 을 보이 고 있 다 .	LOC-B LOC-I O O O ORG-B O LOC-B LOC-I O O O O O O O O O O O O O O O
+주말 민중 총궐기 를 앞두 고 일단 위기 를 모면하 려는 의도 라면 박 대통령 은 아직 도 사태 의 위중함 을 모른다는 얘기 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+미국 대사관 은 곧바로 트위터 에 “ 이 사건 을 인지하 고 있 다 ” 며 자국민 에게 외출 을 삼가 달 라고 당부 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+40 대 교수 와 여 제자 간 의 온갖 성적 실험 을 다룬 이 연극 에서 여배우 하경연 은 환한 조명 아래 서 라스트 10 여 분 동안 옷 을 벗 어 던진 채 노골적 정사 장면 을 연기해 관객 들 에게 충격 을 던 졌 다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경북 · 대구 지역 무역 상사 등 기업 에서 조언 을 얻 기 위한 경쟁 을 벌이 는 가운데 , 지역 무역 상사 협의회 등 에선 중역 이 자 큰 어른 으로 대접하 는 분위기 도 보인다 .	LOC-B O LOC-B O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O
+5 월 29 일 1 군 엔트리 제외 후 함평 에서 재활 에 전념 복귀 시점 단정할 수 없 지만 팀 위해 돌아오 겠 다는 다짐 KIA 최희섭 ( 36 ) 은 전남 함평 의 KIA 챌린저 스 필드 에서 머물 고 있 다 .	DAT-B DAT-I DAT-I DAT-I ORG-B ORG-I O O O LOC-B O O O O O O O O O O O O O O O O ORG-B PER-B O O O O LOC-B LOC-B O ORG-B ORG-I ORG-I ORG-I O O O O O O
+바르셀로나 , at 마드리드 상대 로 챔피언스 리그 8 강 1 차 전 勝 … 수아레스 ‘ 2 골 ’	ORG-B O ORG-B ORG-I O O O O O O O O O O O PER-B O O O O
+곡성군 은 정례 조회 와 직원 교육 을 모두 취소하 고 고인 을 추모 했 다 .	ORG-B O O O O O O O O O O O O O O O O
+2009 년 준우승 했 지만 2010 년 다시 정상 에 올 랐 다 .	DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O
+녹색연합 한만형 활동가 는 " 겨울철 폭설 로 2 월 말 에서 3 월 중순 사이 에 산양 이 폐사하 는 경우 가 흔하 다 " 며 " 탈진한 산양 의 신속한 구조 를 위해 울 진 · 삼척 지역 에 도 산양 을 보호 · 관리할 전문 시설 이 필요하 다 " 고 말 했 다 .	ORG-B PER-B O O O O O O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O O
+앞서 하루 전날 인 17 일 그 는 공항 에서 무리하 게 자신 을 촬영하 며 다른 팬 들 에게 피해 를 준 한 팬 의 사진 을 올리 며 “ 오늘 공항 에서 당신 은 10 여 명 의 발 을 밟 고 짐 을 넘어뜨리 고 몸 을 부딪 쳤 습니다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교감 과 3 학년 담임 , 1 · 2 학년 부장 교사 등 으로 구성된 이 협의 체 는 대학 이 요구하 는 인재 상 을 연구한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이미 명왕성 의 위성 인 카론 ( 저승 의 강 나룻배 사공 ) 에게 다음 세상 으로 가 는 뱃삯 을 지불 했 지만 , 태양계 의 다음 세상 인 인터스텔라 로 접어들 기 까지 는 긴 여정 이 남 아 있 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

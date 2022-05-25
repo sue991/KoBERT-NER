@@ -1,17 +1,17 @@
-판문점을 통하+여귀국 하+ㄴ 뒤 바로 국가보안법 위반(잠입 탈출)죄로 수감되었다 .	ORG-B O O O O O O O O O
-노 대통령= (환하게 웃으며) “그 아이는 그쪽에서 부탁하기 전에, 나+의 딸이오.나한테 맡기+어놓으시오.”연 총리= “감사 하+ㅂ니다 .	PER-B O O O O O O O O O O PER-B O O O O
-”노 대통령 =“다른 부탁은 없소?”연 총리 = (잠시 사이) “유엔 가입을 보류하+여주시+ㅂ시오.” 88년 남북 고위급 회담 제안 이후, 92년까지 남북한 총리는 일곱 차례 서울과 평양을 오가+았다 .	PER-B O O O PER-B O O O O ORG-B O O O ORG-B O O O O O ORG-B O O O LOC-B LOC-B O O
-91년 말에 +ㄴ 남북관계장전이라 불리는 ‘기본합의서’와 ‘한반도 비핵화 공동선언’이 채택되었다 .	O O O ORG-B O O O O O O O
-핵폐기물 재처리 허용, 원화-달러간 통화스와프 체결, 1단계 위성 발사체 기술이전, 3000t급 핵잠수함 건조 허용, 800㎞로 묶이어 있는 미사일 사거리 확장, 이 다섯 가지를 얻어내면 나르+ㅁ의미있다고 보+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-”주한미군 철수가 이루어지면 어떻게 하+ 여야 하나.“미국이 빼더라도 본토 아니+ㄴ괌으로 이전 하+ㄹ 것이다 .	ORG-B O O O O O ORG-B O O O O O O O
-또 총학생회는 “재발방지 대책 수립을 위하+여신입생 2350명을 대상으로 익 명 설문조사를 진행하겠다”고 덧붙이었다 .	O O O O O O O O O O O O O O
-성별로는 여성 81%, 남성 55%가 각각 불만족을 표시하였고, 원하는 체중감량 정도는 평균 7.2kg이었다 .	O O O O O O O O O O O O O O
-체중감량 희망이유는 ‘전반적 이+ㄴ 건강증진을 위하+여’(93%·복수 응답)와 ‘더 날렵하+ㄴ 느낌을 가지려고’(91%) 등을 들었다 .	O O O O O O O O O O O O O O
-한국인의 스트레스 지수도 6.6점으로 아·태 지역 평균(6.2점)보다 높았다 .	O O O O LOC-B LOC-I O O O
-근로자 10명 중 7명“시도 때도 없이 업무지시 받아 스트레스 .	O O O O O O O O O O
-‘김나영 결혼’ 김나영이 결혼 소감을 올리+어 화제+이다 .	PER-B O PER-B O O O O O
-김나영은 27일 자신의 SNS에 멋스럽ㄴ 흰색 원피스를 입고 환하게 웃고 있는 사진과 함께 “2년 조금 모자라 +ㄴ 시간 동안 한결같은 모습으로 저+의 옆에서 응원 하+여주는 짝꿍”으로 시작하는 글을 게재하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이어 김나영은 “평소 함께 어울리는 즐겁ㄴ 저희들의 친구 열 명과 함께 평소보다 조금 근사 하+ㄴ 옷을 차려입고 평소보다 조금 근사 하+ㄴ 저녁을 먹으며 그들 앞에서 결혼 약속을 하려 하+여요” +이라며 “아무렇지도 않을 것+이라 생각하였는데 오묘하+ㄴ 기분에 발가락도 손가락도 간질간질하네요. 저희는 오늘 결혼서약을 마치고 아름답ㄴ 제주도에서 며칠간 신혼여행이라는 것도 친구들과 함께 즐기 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
-대한승마협회와 국민체육진흥공단이 후원하고 프랑스, 일본, 싱가포르 등의 국내외 승마 선수 20여명이 참가하+ㄴ다 .	ORG-B ORG-B O ORG-B ORG-B ORG-B O O O O O O O
-C씨는 이 말에 너무나도 크+ㄴ 충격을 받아 말을 잊었으며, 말이 비수보다 더 날카롭 ㄴ 폭력이 되고, 말 때문에 죽을 수도 있다는 것을 알게 +었다고 하+ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-바로 전날 이+ㄴ 지난해 9월 29일 서울 압구정 CGV에서는 신작 ‘지금은 맞고 그때는 틀리다’ 감독과의 대화가 진행되었다 .	O O O O O O LOC-B LOC-B LOC-I O O O O O O O O O
+판문점 을 통해 귀국한 뒤 바로 국가 보안법 위반 ( 잠입 탈출 ) 죄 로 수감 됐 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+노 대통령 = ( 환하 게 웃 으며 ) “ 그 아이 는 그쪽 에서 부탁하 기 전 에 , 내 딸 이 오 . 나 한테 맡겨 놓 으시 오 . ” 연 총리 = “ 감사합니다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O
+” 노 대통령 = “ 다른 부탁 은 없 소 ? ” 연 총리 = ( 잠시 사이 ) “ 유엔 가입 을 보류해 주 십시오 . ” 88 년 남북 고위급 회담 제안 이후 , 92 년 까지 남 북한 총리 는 일곱 차례 서울 과 평양 을 오갔 다 .	O PER-B O O O O O O O O O O PER-B O O O O O O O ORG-B O O O O O O O DAT-B DAT-I ORG-B O O O O O DAT-B DAT-I O ORG-B ORG-B O O O O LOC-B O LOC-B O O O O
+91 년 말 엔 남북 관계 장전 이 라 불리 는 ‘ 기본 합의서 ’ 와 ‘ 한반도 비핵화 공동 선언 ’ 이 채택 됐 다 .	DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+핵폐기물 재처리 허용 , 원화 - 달러 간 통화 스와프 체결 , 1 단계 위성 발사 체 기술 이전 , 3000 t 급 핵 잠수함 건조 허용 , 800 ㎞ 로 묶 여 있 는 미사일 사거리 확장 , 이 다섯 가지 를 얻 어 내 면 나름 의미 있 다고 본다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+” 주한 미군 철수 가 이뤄지 면 어떻 게 해야 하 나 . “ 미국 이 빼 더라도 본토 아닌 괌 으로 이전할 것 이 다 .	O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+또 총학생회 는 “ 재발 방지 대책 수립 을 위해 신입생 2350 명 을 대상 으로 익명 설문 조사 를 진행하 겠 다 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+성별 로 는 여성 81 % , 남성 55 % 가 각각 불만족 을 표시 했 고 , 원하 는 체중 감량 정도 는 평균 7.2 kg 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+체중 감량 희망 이유 는 ‘ 전반적 인 건강 증진 을 위해 ’ ( 93 % · 복수 응답 ) 와 ‘ 더 날렵한 느낌 을 가지 려고 ’ ( 91 % ) 등 을 들 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국인 의 스트레스 지수 도 6.6 점 으로 아 · 태 지역 평균 ( 6.2 점 ) 보다 높 았 다 .	O O O O O O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O
+근로자 10 명 중 7 명 “ 시 도 때 도 없이 업무 지시 받 아 스트레스 ”	O O O O O O O O O O O O O O O O O O
+‘ 김나영 결혼 ’ 김나영 이 결혼 소감 을 올려 화제 다 .	O PER-B O O PER-B O O O O O O O O
+김나영 은 27 일 자신 의 SNS 에 멋스러 운 흰색 원피스 를 입 고 환하 게 웃 고 있 는 사진 과 함께 “ 2 년 조금 모자란 시간 동안 한결같 은 모습 으로 제 옆 에서 응원해 주 는 짝꿍 ” 으로 시작하 는 글 을 게재 했 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 김나영 은 “ 평소 함께 어울리 는 즐거 운 저희 들 의 친구 열 명 과 함께 평소 보다 조금 근사한 옷 을 차려입 고 평소 보다 조금 근사한 저녁 을 먹 으며 그 들 앞 에서 결혼 약속 을 하 려 해요 ” 라며 “ 아무렇 지 도 않 을 거 라 생각 했 는데 오묘한 기분 에 발가락 도 손가락 도 간질간질하 네요 . 저희 는 오늘 결혼 서약 을 마치 고 아름다 운 제주도 에서 며칠 간 신혼여행 이 라는 것 도 친구 들 과 함께 즐기 다	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
+대한 승마 협회 와 국민 체육 진흥 공단 이 후원하 고 프랑스 , 일본 , 싱가포르 등 의 국내 외 승마 선수 20 여 명 이 참가한다 .	ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O
+C 씨 는 이 말 에 너무나 도 큰 충격 을 받 아 말 을 잊 었 으며 , 말 이 비수 보다 더 날카로 운 폭력 이 되 고 , 말 때문 에 죽 을 수 도 있 다는 것 을 알 게 됐 다고 한다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+바로 전날 인 지난해 9 월 29 일 서울 압구정 CGV 에서 는 신작 ‘ 지금 은 맞 고 그때 는 틀리 다 ’ 감독 과 의 대화 가 진행 됐 다 .	O O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O

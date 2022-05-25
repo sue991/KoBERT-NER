@@ -1,15 +1,15 @@
-불과 반년 사이에 분위기가 확 바뀌었다 .	O O O O O O O
-노트 엣지처럼 측면 사이즈가 돌출하+ㄴ 형태가 아니어서 그립감, 즉 한 손으로 쥐고 쓰+ㄹ 수 있기 편리하여 +지+었다 .	O O O O O O O O O O O O O O O O O O
-서울지방경찰청에서도 김재규 홍보담당관 등 6명이 승진하였다 .	ORG-B PER-B O O O O O
-박지원 대표도 있고, 안철수 전 대표도 있다 .	PER-B O O PER-B O O O O
-그동안 엑소 브레인은 백과사전과 국어 사전, 일반 상식 등도서 12만권 분량에 해당하는 지식 데이터로 훈련하+여+았다 .	O O O O O O O O O O O O O O O O
-벤츠코리아는 최근 마이바흐 S클래스 라인업에 사륜구동 모델이+ㄴ ‘뉴메르세데스-마이바흐 S5004 매틱’을 더하였다 .	ORG-B O O O O O O O O O O O
-미네소타전 1안타1타점 시범경기 처음 외야 안타 김현수(28·볼티모어·사진)가 메이저리그 시범 경기에서 3연속 경기 안타를 잇어 +가았다 .	ORG-B O O O O O ORG-B O O O O O O O O O
-20대 후반부터 『아직도 결혼을 안+하였느냐』는 사회적 압력에 시달리+어+았다는 윤씨는 우리 사회의 독신여성 문제를 정리하+여보+ㄴ다는 의미에서 책을 쓰게 +었다고 밝히었다 .	O O O O O O O O PER-B O O O O O O O O O O O
-이 때문에 대우경제연구소는 내년 총통화 증가율이 평잔 기준 14∼15%가 되+ㄹ 것으로 전망하였다 .	O O ORG-B O O O O O O O O O O
-대구의 한옥은 1만754 채이다 .	LOC-B O O O O
-지나+ㄴ 6일, 경찰청은 2월부터 한 달간 '데이트 폭력 집중 신고 기간'을 운영하+ㄴ 결과 전국에서 1, 279건을 접수하였다고 밝히었다 .	O O ORG-B O O O O O O O O O O O O O O O O
-의료계에서는 수도병원 간호장교의 출장이 없었더라도 세월호 참사 당일 청와대에서 의료행위 자체가 없었다고는 장담하기 힘들다는 지적이 나 오+ㄴ다 .	O ORG-B O O O O O O ORG-B O O O O O O O O O
-박한별-정은우 결별...'돌아오+ㄴ 황금복' 때문에 사이 멀어 지+었다 .	PER-B O O O O O O O
-거의 30분 이상 몸을 풀+ㄴ다 .	O O O O O O
-임수경 의원은 운동권 출신으로 주류 쪽 목소리를 내오았다 .	PER-B O O O O O O O O
+불과 반년 사이 에 분위기 가 확 바뀌 었 다 .	O O O O O O O O O O O
+노트 엣지 처럼 측면 사이즈 가 돌출한 형태 가 아니 어서 그립 감 , 즉 한 손 으로 쥐 고 쓸 수 있 기 편리해 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울지방경찰청 에서 도 김재규 홍보 담당관 등 6 명 이 승진 했 다 .	ORG-B O O PER-B O O O O O O O O O O
+박지원 대표 도 있 고 , 안철수 전 대표 도 있 다 .	PER-B O O O O O PER-B O O O O O O
+그동안 엑소 브레인 은 백과사전 과 국어사전 , 일반 상식 등 도서 12 만 권 분량 에 해당하 는 지식 데이터 로 훈련해 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+벤츠 코리아 는 최근 마이 바흐 S 클래스 라인업 에 사륜 구동 모델 인 ‘ 뉴 메르세데스 - 마이 바흐 S 500 4 매 틱 ’ 을 더 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미네소타 전 1 안타 1 타점 시범 경기 처음 외야 안타 김현수 ( 28 · 볼티모어 · 사진 ) 가 메이저리그 시범 경기 에서 3 연속 경기 안타 를 이 어 갔 다 .	ORG-B O O O O O O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O
+20 대 후반 부터 『 아직 도 결혼 을 안 했 느냐 』 는 사회적 압력 에 시달려 왔 다는 윤 씨 는 우리 사회 의 독신 여성 문제 를 정리해 본다는 의미 에서 책 을 쓰 게 됐 다고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+이 때문 에 대우경제연구소 는 내년 총통화 증가율 이 평잔 기준 14 ∼ 15 % 가 될 것 으로 전망 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O
+대구 의 한옥 은 1 만 754 채 이 다 .	LOC-B O O O O O O O O O O
+지난 6 일 , 경찰청 은 2 월 부터 한 달 간 ' 데이트 폭력 집중 신고 기간 ' 을 운영한 결과 전국 에서 1,279 건 을 접수 했 다고 밝 혔 다 .	O DAT-B DAT-I O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+의료계 에서 는 수도 병원 간호 장교 의 출장 이 없 었 더라도 세월호 참사 당일 청와대 에서 의료 행위 자체 가 없 었 다고 는 장담하 기 힘들 다는 지적 이 나온다 .	O O O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+박한별 - 정은우 결별 . . . ' 돌아온 황금복 ' 때문 에 사이 멀 어 졌 다 ?	PER-B O PER-B O O O O O O O O O O O O O O O O
+거의 30 분 이상 몸 을 푼다 .	O O O O O O O O
+임수경 의원 은 운동권 출신 으로 주류 쪽 목소리 를 내 왔 다 .	PER-B O O O O O O O O O O O O O

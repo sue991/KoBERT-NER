@@ -1,18 +1,18 @@
-하지만 영업본부가 매출 부담이 없는 오전 2시에 방송을 내보내기로 결정하자 세 사람을 중심으로 쇼호스트, 마케팅, 카메라, 무대 디자인 등 각 부서의 막내 급사원들이 모이어 방송 준비에 들어가 +았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-임지연 vs 이유영 '간신'에서… "김강우를 뺏어라? .	PER-B O PER-B O PER-B O O
-체감온도가 영하 20도까지 떨어지+ㄴ 가운데 칼바람이 얼굴을 때리었다 .	O O O O O O O O O
-스스로 대학생활의 95%를 테니스에 바치었다고 말 하+ㄹ 정도+이었다 .	O O O O O O O O O
-MBC 복귀 노홍철 근황보니, 스페인-포르투갈 여행 포착… ‘나홀로 여행’ 모습 보니 ?음주 운전 파문으로 자숙 중이던 방송인 노홍철(36)의 복귀 소식이 전하여 +지+었다 .	ORG-B O PER-B O LOC-B O O O O O O O O O O O O PER-B O O O O O
-북한의 천안함 폭침 사건으로 한반도가 초비상 상태+이었던 2010년 5월 초 미국 워싱턴 주미대사관 소속이던 한 고위정보 당국자가 한인 퇴폐업소에서 마사지를 받으려 순서를 기다리다가 현장에 출동하+ㄴ 미국 경찰에 붙잡히 +ㄴ 뒤 서울로 추방되기도 +였다 .	ORG-B O O O LOC-B O O O O O LOC-B ORG-I ORG-I O O O O O O O O O O O O LOC-B O O O O LOC-B O O O
-지난해 7월 결혼 3년 만에 임신 소식을 알리+어 화제를 모으았다 .	O O O O O O O O O O O
-이런 상황에서 북한이 나진 ­선봉 지역에 한국의 무역진흥공사 무역사무소를 유치하는 것은 대외적으로 얼마든지 설명 하+ㄹ 수 있는 명분을 갖게 되는 셈이다 .	O O ORG-B LOC-B LOC-I LOC-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O
-체질에 맞는 운동법 …2015년 다이어트 성공하려 .	O O O O O O O
-이런 모든 것들이 출범 초기 단계 이+ㄴ 아시아나항공에 모델이 되고 있다 .	O O O O O O O ORG-B O O O O
-최병우 건국대 글로컬캠퍼스 입학처장은 “학생들이 이론과 실무지식을 겸비하+여 미래산업을 선도하+ㄹ 수 있도록 현장 중심의 전공교육을 강화하는 한편 인성 및 진로교육, 글로벌 역량 강화교육 등을 제공하+ㄹ 것”이라고 밝히었다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
-박 시장은 “시장이기 전에 한 인간으로서 느끼는 무력감으로 부끄럽다”고 자책하었다 .	PER-B O O O O O O O O O O
-‘다시, 첫사랑’ 명세빈, 화장기 없어도 ‘청순’ … 셀피로 근황 공 .	O O PER-B O O O O O O O O
-마오의 후계자로 낙점되+ㄴ 화궈펑(華國鋒)을 실각시키고 천윈(陳雲) 등 보수파들과의 노선투쟁에서 이기+어 1인자로서의 입지를 확고히 굳히 +ㄴ 뒤+이었다 .	PER-B O O PER-B O PER-B O O O O O O O O O O O
-1권 ‘마스든 저택의 비밀’은 탐정이 되+어미스터리 한 사건을 파헤치는 내용이다 .	O O O O O O O O O O O
-이러하+ㄴ 것을 보고 하상욱이만우절 상식을 재치 있게 쓰+ㄴ 것.하상욱은 짧지만 공감가는 시를 통하+여SNS 시인으로 크+ㄴ인기를 받았다 .	O O O PER-B O O O O PER-B O O O O O O O O
-리우 올림픽에는 12개국이 출전하+ㄴ다 .	O O O O O
-우리는 2박3일 동안 그곳에서 지내+었다 .	O O O O O O
+하지만 영업 본부 가 매출 부담 이 없 는 오전 2 시 에 방송 을 내보내 기 로 결정하 자 세 사람 을 중심 으로 쇼 호스트 , 마케팅 , 카메라 , 무대 디자인 등 각 부서 의 막내 급 사원 들 이 모 여 방송 준비 에 들어갔 다 .	O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+임지연 vs 이유영 ' 간신 ' 에서 … " 김강우 를 뺏 어라 ? "	PER-B O PER-B O O O O O O PER-B O O O O O
+체감 온도 가 영하 20 도 까지 떨어진 가운데 칼바람 이 얼굴 을 때 렸 다 .	O O O O O O O O O O O O O O O O O
+스스로 대학 생활 의 95 % 를 테니스 에 바 쳤 다고 말할 정도 였 다 .	O O O O O O O O O O O O O O O O O
+MBC 복귀 노홍철 근황 보 니 , 스페인 - 포르투갈 여행 포착 … ‘ 나 홀로 여행 ’ 모습 보 니 ? 음주 운전 파문 으로 자숙 중 이 던 방송인 노홍철 ( 36 ) 의 복귀 소식 이 전해 졌 다 .	ORG-B O PER-B O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+북한 의 천안함 폭침 사건 으로 한반도 가 초비상 상태 였 던 2010 년 5 월 초 미국 워싱턴 주미 대사관 소속 이 던 한 고위 정보 당국자 가 한인 퇴폐 업소 에서 마사지 를 받 으려 순서 를 기다리 다가 현장 에 출동한 미국 경찰 에 붙잡힌 뒤 서울 로 추방되 기 도 했 다 .	ORG-B O O O O O LOC-B O O O O O DAT-B DAT-I DAT-I DAT-I O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O LOC-B O O O O O O O
+지난해 7 월 결혼 3 년 만 에 임신 소식 을 알려 화제 를 모 았 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O
+이런 상황 에서 북한 이 나진 ­ 선봉 지역 에 한국 의 무역 진흥 공사 무역 사무소 를 유치하 는 것 은 대외적 으로 얼마 든지 설명할 수 있 는 명분 을 갖 게 되 는 셈 이 다 .	O O O ORG-B O LOC-B LOC-I LOC-I LOC-I O ORG-B O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+체질 에 맞 는 운동 법 … 2015 년 다이어트 성공하 려면	O O O O O O O DAT-B DAT-I O O O
+이런 모든 것 들 이 출범 초기 단계 인 아시아나항공 에 모델 이 되 고 있 다 .	O O O O O O O O O ORG-B O O O O O O O O
+최병우 건국대 글 로컬 캠퍼스 입학 처장 은 “ 학생 들 이 이론 과 실무 지식 을 겸비해 미래 산업 을 선도할 수 있 도록 현장 중심 의 전공 교육 을 강화하 는 한편 인성 및 진로 교육 , 글로벌 역량 강화 교육 등 을 제공할 것 ” 이라고 밝 혔 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 시장 은 “ 시장 이 기 전 에 한 인간 으로서 느끼 는 무력감 으로 부끄럽 다 ” 고 자책 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+‘ 다시 , 첫사랑 ’ 명세빈 , 화장기 없 어도 ‘ 청순 ’ … 셀 피로 근황 공개	O O O O O PER-B O O O O O O O O O O O O
+마오 의 후계자 로 낙점된 화궈펑 ( 華國鋒 ) 을 실각 시키 고 천윈 ( 陳雲 ) 등 보수파 들 과 의 노선 투쟁 에서 이겨 1 인자 로서 의 입지 를 확고히 굳힌 뒤 였 다 .	PER-B O O O O PER-B O PER-B O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O
+1 권 ‘ 마스 든 저택 의 비밀 ’ 은 탐정 이 돼 미스터리 한 사건 을 파헤치 는 내용 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+이러한 것 을 보 고 하상욱 이 만우절 상식 을 재치 있 게 쓴 것 . 하상욱 은 짧 지만 공감 가 는 시 를 통해 SNS 시인 으로 큰 인기 를 받 았 다 .	O O O O O PER-B O DAT-B O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+리우 올림픽 에 는 12 개국 이 출전한다 .	O O O O O O O O O
+우리 는 2 박 3 일 동안 그곳 에서 지냈 다 .	O O O O O O O O O O O O

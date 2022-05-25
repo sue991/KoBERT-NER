@@ -1,14 +1,14 @@
-마트서 3만5000원 쌀, 4만2000원에 사라는 김밥집 본 .	O MNY-B O MNY-B O O O O
-‘마음의 소리’ 작가 조석, “아!딸이 +ㅂ니다” .	O O O PER-B O O O
-이승환은 “그냥 ‘도와주세요’가 아니라 남을 돕고 함께하는 것+이 축제+이라고 생각하+ㄴ다”면서 “이 기쁘고 행복하+ㄴ일에 동참하고 싶다고 만들게 콘텐츠를 개발하고 있다”고 향후 계획을 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-1986년 ‘88 서울예술단’으로 출발하+ㄴ 서울예술단은 그동안 공연계에서 입지가 모호하었다 .	O ORG-B ORG-B O ORG-B O O O O O
-김영세 연세대 기획실장도 “본교 기준으로 학생들이 내는 등록금 총액은 3000억원 수준에 불과하지만 학교에서는 연간 6000억원 가량의 예산을 쓰고 있고 용도에 따르 아나뉘+ㄴ 적립금은 장기발전계획에 따르 아+어야 하+ㄹ돈”이라고 말하였다 .	PER-B ORG-B O O O O O O O MNY-B O O O O MNY-B O O O O O O O O O O O O O O
-안 의원은 두 달 전문 대표의 재신임 파문 때 혁신만 요구 하+ㄹ뿐 혁신위원장 제안을 받지도 않았다 .	PER-B O O O PER-B O O PER-B O O O O O PER-B O O O
-리퍼트 대사는 “첫 아들을 한국에서 출산하였고 여러 가지로 배려하+여주+어고맙다”며 “둘째 아이도 한국에서 낳고 싶다”는 내용의 담소를 나누고 있었다 .	PER-B O O O LOC-B O O O O O O LOC-B O O O O O O O
-지나+ㄴ기에잇어 박정환 9단과 조한승 9단이 다시 마주 앉았다 .	O PER-B O PER-B O O O O O
-향후 추가 탈당이 이루어 지+ㄴ다면 이 그룹이 김종인 저+ㄴ 더불어민주당 비상대책위원회 대표, 정의화 전 국회의장, 손학규 전 민주당 고문 등과 탄핵 및 개헌을 매개로 손을 잡는 시나리오 +이다 .	O O O O O O O PER-B O ORG-B O O PER-B O O PER-B O ORG-B O O O O O O O O O O O
+마트 서 3 만 5000 원 쌀 , 4 만 2000 원 에 사 라는 김밥 집 본사	O O MNY-B MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I O O O O O O
+‘ 마음 의 소리 ’ 작가 조석 , “ 아 ! 딸 입니다 ” …	O O O O O O PER-B O O O O O O O O
+이승환 은 “ 그냥 ‘ 도와주 세요 ’ 가 아니 라 남 을 돕 고 함께 하 는 게 축제 라고 생각한다 ” 면서 “ 이 기쁘 고 행복한 일 에 동참하 고 싶 다고 만들 게 콘텐츠 를 개발하 고 있 다 ” 고 향후 계획 을 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1986 년 ‘ 88 서울예술단 ’ 으로 출발한 서울예술단 은 그동안 공연 계 에서 입지 가 모호 했 다 .	DAT-B DAT-I O ORG-B ORG-I O O O ORG-B O O O O O O O O O O O
+김영세 연세대 기획 실장 도 “ 본교 기준 으로 학생 들 이 내 는 등록금 총액 은 3000 억 원 수준 에 불과하 지만 학교 에서 는 연간 6000 억 원가량 의 예산 을 쓰 고 있 고 용도 에 따 라 나뉜 적립금 은 장기 발전 계획 에 따 라 써야 할 돈 ” 이라고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+안 의원 은 두 달 전 문 대표 의 재 신임 파문 때 혁신 만 요구할 뿐 혁신 위원장 제안 을 받 지 도 않 았 다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+리퍼트 대사 는 “ 첫아들 을 한국 에서 출산 했 고 여러 가지 로 배려해 줘 고맙 다 ” 며 “ 둘째 아이 도 한국 에서 낳 고 싶 다 ” 는 내용 의 담소 를 나누 고 있 었 다 .	PER-B O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O
+지난 기 에 이 어 박정환 9 단 과 조한승 9 단 이 다시 마주 앉 았 다 .	O O O O O PER-B O O O PER-B O O O O O O O O O
+향후 추가 탈당 이 이뤄진다면 이 그룹 이 김종인 전 더불 어 민주당 비상 대책 위원회 대표 , 정의화 전 국회 의장 , 손학규 전 민주당 고문 등 과 탄핵 및 개헌 을 매개 로 손 을 잡 는 시나리오 다 .	O O O O O O O O PER-B O ORG-B ORG-I ORG-I O O O O O PER-B O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O
 한 지붕 두 살림 .	O O O O O
-‘힐링캠프’에 터보 김종국과 김정남이 출연하였다 .	O ORG-B PER-B PER-B O O
-알리, ‘내가, 나에게’ 최초 무대 선보이+ㄴ 다… SNS 셀프 홍보열 중 가수 알리가 음악 감상회를 통하+여새 앨범의 신곡을 선보이+ㄹ 예정이다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O O
-알리는 15일 자정 네 번째 미니앨범 ‘화이트홀(WhiteHole)’ 발매를 앞두고 오늘(14일) 서울의 한 콘서트홀에서 음악 감상회를 갖는다 .	PER-B O O O O O O O O O LOC-B O O O O O O
-알리는 이번 음악 감상회를 통하+여 ‘내가, 나에게’를 최초로 라이브 무대로 선보이며, 앨범 수록곡에 대하+ㄴ의미에 대하+여서도 직접 소개 하+ㄹ 예정이다 .	PER-B O O O O O O O O O O O O O O O O O O O
+‘ 힐링 캠프 ’ 에 터보 김종국 과 김정남 이 출연 했 다 .	O O O O O ORG-B PER-B O PER-B O O O O O
+알리 , ‘ 내 가 , 나 에게 ’ 최초 무대 선보인다 … SNS 셀프 홍보 열중 가수 알리 가 음악 감상회 를 통해 새 앨범 의 신곡 을 선보일 예정 이 다 .	PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+알리 는 15 일 자정 네 번째 미니 앨범 ‘ 화이트 홀 ( White Hole ) ’ 발매 를 앞두 고 오늘 ( 14 일 ) 서울 의 한 콘서트홀 에서 음악 감상회 를 갖 는다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B O O O O O O O O O O
+알리 는 이번 음악 감상회 를 통해 ‘ 내 가 , 나 에게 ’ 를 최초 로 라이브 무대 로 선보이 며 , 앨범 수록 곡 에 대한 의미 에 대해서 도 직접 소개할 예정 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-김 매니저는 “저축성보험금리가 현재 3% 중, 후반대이며 최저보증이율도 2% 중반대+이라 다른 확정금리 상품보다 유리하다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O
-이보미는 “모두 열심히 달려오았고 최선을 다하였다 .	PER-B O O O O O O
-스켑슐트의 매력 포인트는 100% 스웨덴 산주철을 장인이 수작업으로 만들어 프라이팬, 그릴팬, 웍 등 모든 제품이 고급스럽다는 것.한국에 상륙하자마자 요리 마니아들 사이에서 이미 애장템으로 등극하였을 정도로 인기를 끌고 있다 .	ORG-B O O O ORG-B O O O O O O O O O O ORG-B LOC-B O O O O O O O O O O O O
-지나+ㄴ 시즌 연봉은 문태종이 3억8500만원, 허일영이 2억5000만원, 김강선 1억1000만원이었다 .	O O O PER-B MNY-B PER-B MNY-B PER-B MNY-B O
-대검은 27일 수사과정에서의 가혹행위를 뿌리뽑기 위 하+여 앞으로 검사나 수사관이 가혹행위를 하+ㄹ 경우 당사자는 엄중 문책하고 소속 부장 및 지검장 ­지청장 등 상급자들도 지휘 책임을 묻어 징계 또는 인사 조치 하+ㄹ 방침이라고 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-주요 조선사들의 2015년 8월 말 주가는 2007년 고점 대비 평균 7분의 1 토막이나 +았다 .	O O O O O O O O O O O O O O O
-프랑스 보졸레에서 사용되는 이 방식은 레드와인을 만들 +ㄹ 때 포도알을 파쇄하지 않고 그대로 통에 넣어 발효하는 방식이다 .	LOC-B LOC-I O O O O O O O O O O O O O O O O
-그는 1992년 집권 후 야당 탄압과 부정선거 논란에 휩싸이었고 2011년 미국 시사주간지 타임이 선정 하+ㄴ 10대 독재자에 북한 김정일 국방위원장과 함께 선정되었다 .	O O O O O O O O O O ORG-B O ORG-B O O O O ORG-B PER-B O O O O
-한·일 관계가 사상 최악이라고 불리는 이 시점에 왜 이들만 다르았을까요. 문화와 청소년 교류의 힘이 +ㅂ니다 .	ORG-B O O O O O O O O O O O O O O O
-아이유 양과 조정석씨를 비롯 제 언행으로 불편하+시었을 많은 배우 분들과 시청자분들께도 사죄의 마음을 전하+ㅂ니다 .	PER-B O PER-B O O O O O O O O O O O O
-나가수 3이 수아내린, "인생의 친구 같은 느낌으로 대하+ㄴ다 .	O O PER-B O O O O O O
-대림산업이 지나 +ㄴ 12일 견본주택 문을 열고 분양에 들어가 +ㄴ 원주시 태장동 e편한세상 원주태장(조감도)이다 .	ORG-B O O O O O O O O O LOC-B LOC-I O O O
-또한 최신 USB3.0 인터페이스 채택으로 대용량 자료를 전송하+ㄹ 경우, 최대 5Gb/s의 파일 전송을 지원 하+ㄴ다 .	O O O O O O O O O O O O O O O O
-120g의 초경량 디자인으로 휴대성을 높이었으며, 한 손에 들어오는 부드럽 ㄴ그립감을 가지었다 .	O O O O O O O O O O O O
+김 매니저 는 “ 저축 성 보험 금리 가 현재 3 % 중 , 후반 대 이 며 최저 보증 이율 도 2 % 중반 대 라 다른 확정 금리 상품 보다 유리하 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이보미 는 “ 모두 열심히 달려 왔 고 최선 을 다 했 다 .	PER-B O O O O O O O O O O O O O
+스 켑 슐트 의 매력 포인트 는 100 % 스웨덴 산 주철 을 장인 이 수작업 으로 만들 어 프라이팬 , 그릴 팬 , 웍 등 모든 제품 이 고급스럽 다는 것 . 한국 에 상륙하 자마자 요리 마니아 들 사이 에서 이미 애 장 템 으로 등극 했 을 정도 로 인기 를 끌 고 있 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 시즌 연봉 은 문태종 이 3 억 8500 만 원 , 허일영 이 2 억 5000 만 원 , 김강선 1 억 1000 만 원 이 었 다 .	O O O O PER-B O MNY-B MNY-I MNY-I MNY-I MNY-I O PER-B O MNY-B MNY-I MNY-I MNY-I MNY-I O PER-B MNY-B MNY-I MNY-I MNY-I MNY-I O O O O
+대검 은 27 일 수사 과정 에서 의 가혹 행위 를 뿌리 뽑 기 위해 앞 으로 검사 나 수사관 이 가혹 행위 를 할 경우 당사자 는 엄중 문책하 고 소속 부장 및 지검 장 ­ 지청 장 등 상급자 들 도 지휘 책임 을 물 어 징계 또는 인사 조치할 방침 이 라고 밝 혔 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주요 조선사 들 의 2015 년 8 월 말 주가 는 2007 년 고점 대비 평균 7 분 의 1 토막 이 났 다 .	O O O O DAT-B DAT-I DAT-I DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O
+프랑스 보졸레 에서 사용되 는 이 방식 은 레드 와인 을 만들 때 포도 알 을 파쇄하 지 않 고 그대로 통 에 넣 어 발효하 는 방식 이 다 .	LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 1992 년 집권 후 야당 탄압 과 부정 선거 논란 에 휩싸 였 고 2011 년 미국 시사 주간지 타임 이 선정한 10 대 독재자 에 북한 김정일 국방 위원장 과 함께 선정 됐 다 .	O O DAT-B DAT-I O O O O O O O O O O O O DAT-B DAT-I ORG-B O O ORG-B O O O O O O ORG-B PER-B O O O O O O O O
+한 · 일 관계 가 사상 최악 이 라고 불리 는 이 시점 에 왜 이 들 만 달 랐 을까 요 . 문화 와 청소년 교류 의 힘 입니다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아이 유 양 과 조정석 씨 를 비롯 제 언행 으로 불편하 셨 을 많 은 배우 분 들 과 시청자 분 들 께 도 사죄 의 마음 을 전합니다 .	PER-B PER-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+나가수 3 이수 아내 린 , " 인생 의 친구 같 은 느낌 으로 대한다 "	O O PER-B O PER-B O O O O O O O O O O O
+대림산업 이 지난 12 일 견본 주택 문 을 열 고 분양 에 들어간 원주시 태장동 e 편한세상 원주태 장 ( 조감도 ) 이 다 .	ORG-B O DAT-B DAT-I DAT-I O O O O O O O O O LOC-B LOC-I O O O O O O O O O O
+또한 최신 USB 3.0 인터페이스 채택 으로 대용량 자료 를 전송할 경우 , 최대 5 Gb / s 의 파일 전송 을 지원한다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+120 g 의 초 경량 디자인 으로 휴대 성 을 높 였 으며 , 한 손 에 들어오 는 부드러 운 그립 감 을 가 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,12 +1,12 @@
-통산0.311,566홈런, 1715타점을 기록 중 이+ㄴ LA에 인절스의 1루수 앨버트 푸홀스는 1999년 13라운드 402번으로 세인트루이스 카디널스에 뽑히 었다 .	O O O O O ORG-B O O PER-B PER-I O O O ORG-B ORG-I O O O
-MBC 스포츠플러스 메이저리그 해설위 .	O O ORG-B O O
-카오디오 관련 제품을 생산 수출하는 대성엘텍은 중국·일본·유럽 등 16개국에 수출하는 대성엘텍의 김용식 전무는 “고객 다변화를 하+여야 하는데 해외에 거점을 갖고 마케팅을 하기가 쉽지 않다”며 “정부가 해외 네트워크를 가지+ㄴ에 이전트와 시장 등과의 네트워크를 구축하+여주면 도움이 되+ㄹ 것”이라고 말하였다 .	O O O O O ORG-B LOC-B O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-사업차 중국 베이징에 머물고 있는 자오씨는 “믿기지 않는다 .	O LOC-B LOC-B O O PER-B O O O
-집 자리 근처에서 50여m 떨어지+ㄴ 레고랜드 사업부지에서는 터파기 공사가 한창이었다 .	O O O O O O O O O O O
-이어 김구라는 “도로 통행료 잔액이 부족하+여서 얼마 전에 바쁘+ㄴ 데 은행에 가+아서 960원을 내고 +았다 .	O PER-B O O O O O O O O O O MNY-B O O O
-2004년 36위이던 재계 순위(자산기준)은 지난해 19위로 뛰었다 .	O O O O O O O O
-등 2가지 내용이 추가로 담기+어 있었다 .	O O O O O O O
-김연아 무풍쏭은 바람 없이도 실내를 쾌적하고 시원하게 만들어주는 무풍에어컨 Q9500의 혁신가치를 효과적으로 전하기 위하+여뮤직비디오 콘셉트로 제작되+ㄴ 영상이다 .	PER-B O O O O O O O O O O O O O O O O O
-BMW와 미니의 경우 총 72개 항목의 정밀점검을 통과하+ㄴ 차량만 매물로 내놓고 관련 정비 이력도 제공 하+ㄴ다 .	ORG-B ORG-B O O O O O O O O O O O O O O O
-중등도 및 중증 주사 환자를 대상으로 52주 넘게 1일 1회 도포되는 미르바소의 장기안전성을 평가하+ㄴ 결과, 안면홍반의 효능 측정 수치 이+ㄴ CEA(ClinicianErythemaAssessment) 및 PAS(PatientSelf-Assessment)가 유의하게 개선되었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-이날 간담회에 참석하+ㄴ조소연 서울 보라매병원 피부과 교수는 “기존 파록세틴 성분의 경구제 등 치료약제가 있지만 항우울 제 성분이라는 점등 한계가 존재하였다”며 “반면 브리모니딘은 레이저 시술과 병용하거나 시술 전요법으로 기대되는 약제”라고 설명하였다 .	O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+통산 0.311 , 566 홈런 , 1715 타점 을 기록 중 인 LA 에인절스 의 1 루수 앨버트 푸홀스 는 1999 년 13 라운드 402 번 으로 세인트루이스 카디널스 에 뽑 혔 다 .	O O O O O O O O O O O O ORG-B ORG-I O O O PER-B PER-I O DAT-B DAT-I O O O O O ORG-B ORG-I O O O O O
+MBC 스포츠 플러스 메이저리그 해설 위원	O O O ORG-B O O
+카 오디오 관련 제품 을 생산 수출하 는 대성엘텍 은 중국 · 일본 · 유럽 등 16 개국 에 수출하 는 대성엘텍 의 김용식 전무 는 “ 고객 다변화 를 해야 하 는데 해외 에 거점 을 갖 고 마케팅 을 하 기 가 쉽 지 않 다 ” 며 “ 정부 가 해외 네트워크 를 가진 에이전트 와 시장 등 과 의 네트워크 를 구축해 주 면 도움 이 될 것 ” 이라고 말 했 다 .	O O O O O O O O ORG-B O LOC-B O LOC-B O LOC-B O O O O O O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사업 차 중국 베이징 에 머물 고 있 는 자오 씨 는 “ 믿기 지 않 는다 .	O O LOC-B LOC-B O O O O O PER-B O O O O O O O O
+집자리 근처 에서 50 여 m 떨어진 레고 랜드 사업 부지 에서 는 터 파 기 공사 가 한창 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+이어 김구라 는 “ 도로 통행료 잔액 이 부족해서 얼마 전 에 바쁜데 은행 에 가서 960 원 을 내 고 왔 다 .	O PER-B O O O O O O O O O O O O O O MNY-B MNY-I O O O O O O
+2004 년 36 위 이 던 재계 순위 ( 자산 기준 ) 은 지난해 19 위 로 뛰 었 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+등 2 가지 내용 이 추가 로 담겨 있 었 다 .	O O O O O O O O O O O O
+김연아 무풍쏭 은 바람 없이 도 실내 를 쾌적하 고 시원하 게 만들 어 주 는 무풍 에어컨 Q 9500 의 혁신 가치 를 효과적 으로 전하 기 위해 뮤직 비디오 콘셉트 로 제작된 영상 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BMW 와 미니 의 경우 총 72 개 항목 의 정밀 점검 을 통과한 차량 만 매물 로 내놓 고 관련 정비 이력 도 제공한다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+중 등도 및 중증 주사 환자 를 대상 으로 52 주 넘 게 1 일 1 회 도포 되 는 미르 바소 의 장기 안전성 을 평가한 결과 , 안면 홍반 의 효능 측정 수치 인 CEA ( Clinician Erythema Assessment ) 및 PAS ( Patient Self - Assessment ) 가 유의하 게 개선 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 간담회 에 참석한 조소연 서울 보라매병원 피부과 교수 는 “ 기존 파록세틴 성분 의 경구 제 등 치료 약제 가 있 지만 항우울제 성분 이 라는 점 등 한계 가 존재 했 다 ” 며 “ 반면 브리모니딘 은 레이저 시술 과 병용하 거나 시술 전 요법 으로 기대되 는 약제 ” 라고 설명 했 다 .	O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

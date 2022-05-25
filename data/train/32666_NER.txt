@@ -1,15 +1,15 @@
-영화에도 출연하며 여러 방면에서 활동 하+ㄴ 위키리는 1992년 미국으로 건너가 +아교포 방송 KATV에서 ‘굿이브닝코리안’을 진행하는 등 미국에서 거주하였다 .	O O O O O O O O LOC-B O O O ORG-B O O O LOC-B O O
-이 산업단지가 30년이 넘었다 .	O O O O O
-2013년 5월 비대위원장을 마치고 물러나 +ㄹ 때 +ㄴ ‘F’ 학점을 매기었으나 두 번째에는 훨씬 후하여 +지+었다 .	O O O O O O O O O O O O O O O O O
-“스마트폰 기술과 비슷 … 한국세계톱10”드론은 경제현장뿐만 아니라 개인의 삶 속에도 깊숙이 들어 오+ㄹ 준비를 마치었다 .	O O O O ORG-B O O O O O O O O O O O
-1일 아이오와 코커스 개표 결과를 지켜보던 공화당 대선주자 테드 크루즈 상원의원(46)은 1등이 확실하+여지자 이렇게 말하였다 .	O LOC-B LOC-I O O O ORG-B O PER-B PER-I O O O O O O
-최 회장은 당시 CEO들에게 “관습의 틀을 깨는 발상의 전환으로 각사 비즈니스 환경에 맞는 최적의 사업·조직·문화의 구체적 이+ㄴ 변화와 실천계획을 CEO 세미나 때까지 정하고 실행하라”고 주문하였다 .	PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O
-신씨 역시 TV 시청 간에 이러하+ㄴ 자세를 유지하었고 결국 목 관절 건강이 악화되어 디스크 탈출로 이어 지+ㄴ 사례+이다 .	PER-B O O O O O O O O O O O O O O O O O O
-최한석 목포대 기획처장은 “등록금 수입 과 정부 지원의 감소로 인하+여필수적이+ㄴ 대학 운영비를 내기에도 버겁ㄴ 것+이 현실”이라며 “사립대에 유리하+ㄴ 정부 재정지원사업 선정 기준을 개편하고 ‘국립대학 지원특별법’(가칭)과 같은 제도개선이 필요하다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-본인 명의 재산 1511억3500만원대 부분이 웹젠 주식(1410억5300만원)이다 .	O O O MNY-B O ORG-B MNY-B O
-이 그림은 흑이 크게 망하+ㄴ꼴. 그러나 실전 흑83으로 두는 것도 마음에 들지 않는다 .	O O O O O O O O O O O O O O
-택시 강소라, "변요한 해병대 출신이+ㄴ 줄...지금까지 속고 있었다" 택시 강소라변 요한 강소라가 변요한 의 거짓말에 속았다 .	O PER-B PER-B ORG-B O O O O O PER-B O PER-B PER-B O O O O
-지나+ㄴ 2일 방송되+ㄴtvN ‘현장토크쇼 택시’에는 신년회 특집으로 강소라와 변요한을 비롯하+ㄴ드라마 `미생`주역들이 출연하+ 여입담을 벌이었다 .	O O ORG-B O O O O PER-B PER-B O O O O O O
-이날 방송에서 강소라는 변요한 이해병대 출신 이+ㅁ을 언급하였다 .	O O PER-B PER-B ORG-B O O O O
-물 부족 국가에 전하+ㄴ물 규모는 총 1250만 L로, 1700여명의 어린이가 한 해 동안 마시+ㄹ 수 있는 양이다 .	O O O O O O O O O O O O O O O O O O
-사드 방어 범위 안에 2000만여명이 살고 있다는 것.③ 서울 등 수도권 방어는 어떻게 ? 북한이 가장 많이 보유 하+ㄴ 스커드 미사일(사거리 300∼1000km)은 서울과 수도권에서 100∼200km 떨어지+ㄴ 곳에 집중적으로 배치되 +어 있다 .	O O O O O O O O LOC-B O LOC-B O O O ORG-B O O O O O O O LOC-B LOC-B O O O O O O O O
+영화 에 도 출연하 며 여러 방면 에서 활동한 위키리 는 1992 년 미국 으로 건너가 교포 방송 KATV 에서 ‘ 굿 이브닝 코리안 ’ 을 진행하 는 등 미국 에서 거주 했 다 .	O O O O O O O O O O O DAT-B DAT-I LOC-B O O O O ORG-B O O O O O O O O O O LOC-B O O O O O
+이 산업 단지 가 30 년 이 넘 었 다 .	O O O O O O O O O O O
+2013 년 5 월 비대위 원장 을 마치 고 물러날 땐 ‘ F ’ 학점 을 매 겼 으나 두 번째 에 는 훨씬 후해 졌 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+“ 스마트 폰 기술 과 비슷 … 한국 세계 톱 10 ” 드론 은 경제 현장 뿐 만 아니 라 개인 의 삶 속 에 도 깊숙이 들어올 준비 를 마 쳤 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 일 아이오와 코커스 개표 결과 를 지켜보 던 공화당 대선 주자 테드 크루즈 상원 의원 ( 46 ) 은 1 등 이 확실해 지 자 이렇 게 말 했 다 .	DAT-B DAT-I LOC-B LOC-I O O O O O ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+최 회장 은 당시 CEO 들 에게 “ 관습 의 틀 을 깨 는 발상 의 전환 으로 각 사 비즈니스 환경 에 맞 는 최적 의 사업 · 조직 · 문화 의 구체적 인 변화 와 실천 계획 을 CEO 세미나 때 까지 정하 고 실행하 라 ” 고 주문 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신 씨 역시 TV 시청 간 에 이러한 자세 를 유지 했 고 결국 목 관절 건강 이 악화되 어 디스크 탈출 로 이어진 사례 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+최한석 목포대 기획 처장 은 “ 등록금 수입 과 정부 지원 의 감소 로 인해 필수적 인 대학 운영비 를 내기 에 도 버거 운 게 현실 ” 이 라며 “ 사립대 에 유리한 정부 재정 지원 사업 선정 기준 을 개편하 고 ‘ 국립 대학 지원 특별법 ’ ( 가칭 ) 과 같 은 제도 개선 이 필요하 다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+본인 명의 재산 1511 억 3500 만 원 대부분 이 웹젠 주식 ( 1410 억 5300 만 원 ) 이 다 .	O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O ORG-B O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O
+이 그림 은 흑 이 크 게 망한 꼴 . 그러나 실전 흑 83 으로 두 는 것 도 마음 에 들 지 않 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+택시 강소라 , " 변요한 해병대 출신 인 줄 . . . 지금 까지 속 고 있 었 다 " 택시 강소라 변요한 강소라 가 변요한 의 거짓말 에 속 았 다 .	O PER-B O O PER-B ORG-B O O O O O O O O O O O O O O O PER-B PER-B PER-B O PER-B O O O O O O O
+지난 2 일 방송된 tvN ‘ 현장 토크쇼 택시 ’ 에 는 신년 회 특집 으로 강소라 와 변요한 을 비롯한 드라마 ` 미생 ` 주역 들 이 출연해 입담 을 벌 였 다 .	O DAT-B DAT-I O ORG-B O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O
+이날 방송 에서 강소라 는 변요한 이 해병대 출신 임 을 언급 했 다 .	O O O PER-B O PER-B O ORG-B O O O O O O O
+물 부족 국가 에 전한 물 규모 는 총 1250 만 L 로 , 1700 여 명 의 어린이 가 한 해 동안 마실 수 있 는 양 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사드 방어 범위 안 에 2000 만 여 명 이 살 고 있 다는 것 . ③ 서울 등 수도권 방어 는 어떻 게 ? 북한 이 가장 많이 보유한 스커드 미사일 ( 사거리 300 ∼ 1000 km ) 은 서울 과 수도권 에서 100 ∼ 200 km 떨어진 곳 에 집중적 으로 배치돼 있 다 .	O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O ORG-B O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-이에 따르 아메르스 2차 감염자가 많이 발생하지 않을 것이라고 예상하였다 .	O O O O O O O O O O O
-김 대변인은 “(홍 지사는) 이제 당비도 내+ㄹ 수 있다”며 “정지를 풀어달라는 본인의 요청이 있고 2심 무죄 판결이 있기 때문에 그런 것들이 작용하였다”며 홍 지사의 대선주자 출마 자격 여부에 대하+여서도 “자격이 되+ㄴ다”고 말하였다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
-전분기 대비 37.4%, 전년 동기 대비 337.9% 증가 하+ㄴ 수치+이다 .	O O O O O O O O O O O
-4분기에는 카카오 드라이버 등 다양하+ㄴ 서비스 마케팅에 따르+ㄴ 광고선전비 증가와 커머스 매출 상승에 의하+ㄴ 지급수수료 증가로 총 4, 157억원의 영업비용이 발생하였다 .	O O O O O O O O O O O O O O O O O O O O O O
-카카오는 4분기 영업이익은 전분기 대비 26.1%, 전년 동기 대비 85.1% 증가 하+ㄴ 382억원으로 영업이익률은 8.4%+이다 .	ORG-B O O O O O O O O O O O MNY-B O O O
-이에 속은 김씨는 면회오+ㄴ 동생(47)을 통하+여 지난해 11월부터 지나 +ㄴ 1월까지 3차례에 걸치+어 사례비 명목으로 1300만원을 신씨에게 건네+었다 .	O O PER-B O O O O O O O O O O O O MNY-B PER-B O O
-미국 야구장서 또 추락사, 15m 아래로 ‘뚝’ … 구단 측, 경기 중단 안 하+ㄴ 채 수습?‘비난↑’ 미국 야구장서 또 추락사 미국 프로야구(MLB) 경기장에서 또다시 추락사가 발생, 경기장의 안전 문제가 도마 위에 오르았다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O O ORG-B ORG-B O O O O O O O O O O O
-이달 경기도 포천에서 개최되는 제9회 옥수수 가족환경캠프는 광동제약이 주최하고 좋은 세상 바라기가 주관하는 친환경 가족체험행사로, 지나+ㄴ 2008년부터 시작되어 올해 9회째 열리고 있다 .	O LOC-B LOC-I O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O
-벌써 세대가 하나 바뀌었네요 .	O O O O O
-앞서 +어 검찰은 지난해 10월 금융위로부터 사건을 접수 하+여 이달 20일 홍씨를 체포하고 홍씨의 주거지와 부산에 있는 H사를 압수수색하였다 .	O O O O O ORG-B ORG-I O O O O PER-B O PER-B O LOC-B O ORG-B O O
-열애 공식 인정…샹그랄 +이라호텔은, 사실 .	O O O O O O
-김정은 "핵탄두 폭발시험 빠르+ㄴ시일 내 하+여야 .	PER-B O O O O O O
-하지만 유커를 바라보는 지방자치단체들의 표정이 다소 엇갈리+ㄴ다 .	O ORG-B O O O O O O
-사회당 등이 협력을 약속하+ㄴ 구내각의 작품이+ㄴ 예산안이 통과되면 바로 내각 불신임­총선거 등 「위기설」이 돌는 6월 .	O O O O O O O O O O O O O O O O
-자말 베노마르 예멘 주재 유엔 특사의 중재로 후티와 예멘 각 정파 간 협상이 4일까지 열리었지만 후티에 반대하는 정파가 불참하면서 성과 없이 끝나 +았다 .	PER-B PER-I LOC-B O ORG-B O O PER-B LOC-B O O O O O O PER-B O O O O O O O O
+이 에 따 라 메르스 2 차 감염자 가 많이 발생하 지 않 을 것 이 라고 예상 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+김 대변인 은 “ ( 홍 지사 는 ) 이제 당비 도 낼 수 있 다 ” 며 “ 정지 를 풀 어 달 라는 본인 의 요청 이 있 고 2 심 무죄 판결 이 있 기 때문 에 그런 것 들 이 작용 했 다 ” 며 홍 지사 의 대선 주자 출마 자격 여부 에 대해서 도 “ 자격 이 된다 ” 고 말 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+전 분기 대비 37.4 % , 전년 동기 대비 337.9 % 증가한 수치 다 .	O O O O O O O O O O O O O O O
+4 분기 에 는 카카오 드라이버 등 다양한 서비스 마케팅 에 따른 광고 선전 비 증가 와 커머스 매출 상승 에 의한 지급 수수료 증가 로 총 4,157 억 원 의 영업 비용 이 발생 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+카카오 는 4 분기 영업 이익 은 전 분기 대비 26.1 % , 전년 동기 대비 85.1 % 증가한 382 억 원 으로 영업 이익률 은 8.4 % 다 .	ORG-B O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+이 에 속 은 김 씨 는 면회 온 동생 ( 47 ) 을 통해 지난해 11 월 부터 지난 1 월 까지 3 차례 에 걸쳐 사례 비 명목 으로 1300 만 원 을 신 씨 에게 건넸 다 .	O O O O PER-B O O O O O O O O O O O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O MNY-B MNY-I MNY-I O PER-B O O O O O
+미국 야구장 서 또 추락사 , 15 m 아래 로 ‘ 뚝 ’ … 구단 측 , 경기 중단 안 한 채 수습 ? ‘ 비난 ↑ ’ 미국 야구장 서 또 추락사 미국 프로 야구 ( MLB ) 경기장 에서 또 다시 추락사 가 발생 , 경기장 의 안전 문제 가 도마 위 에 올 랐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+이달 경기도 포천 에서 개최되 는 제 9 회 옥수수 가족 환경 캠프 는 광동 제약 이 주최하 고 좋은 세상 바라 기 가 주관하 는 친환경 가족 체험 행사 로 , 지난 2008 년 부터 시작되 어 올해 9 회 째 열리 고 있 다 .	O LOC-B LOC-I O O O O O O O O O O O ORG-B ORG-I O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+벌써 세대 가 하나 바뀌 었 네요 .	O O O O O O O O
+앞서 검찰 은 지난해 10 월 금융 위 로부터 사건 을 접수해 이달 20 일 홍 씨 를 체포하 고 홍 씨 의 주거지 와 부산 에 있 는 H 사 를 압수 수색 했 다 .	O O O O DAT-B DAT-I ORG-B ORG-I O O O O O DAT-B DAT-I PER-B O O O O PER-B O O O O LOC-B O O O ORG-B ORG-I O O O O O O
+열애 공식 인정 … 샹그랄 라 호텔 은 , 사실 ?	O O O O ORG-B ORG-I ORG-I O O O O
+김정 은 " 핵탄두 폭발 시험 빠른 시일 내 해야 "	PER-B PER-I O O O O O O O O O
+하지만 유커 를 바라보 는 지방 자치 단체 들 의 표정 이 다소 엇갈린다 .	O ORG-B O O O O O O O O O O O O O
+사회당 등 이 협력 을 약속한 구 내각 의 작품 인 예산안 이 통과되 면 바로 내각 불신임 ­ 총선거 등 「 위기 설 」 이 도 는 6 월 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O
+자말 베노 마르 예멘 주재 유엔 특사 의 중재 로 후티 와 예멘 각 정파 간 협상 이 4 일 까지 열 렸 지만 후티 에 반대하 는 정파 가 불참하 면서 성과 없이 끝났 다 .	PER-B PER-I PER-I LOC-B O ORG-B O O O O PER-B O O O O O O O DAT-B DAT-I O O O O PER-B O O O O O O O O O O O O

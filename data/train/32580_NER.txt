@@ -1,14 +1,14 @@
-중국 프로축구팀들은 시진핑 국가주석이 2013년 취임하+ㄴ 뒤 거액을 쏟아붓고 있다 .	LOC-B O PER-B O O O O O O O O
-알+ㄹ리가 녹음 하+ㄴ 노래는 김태우의 신곡 ‘시원하+여’로 T-WITH 프로젝트의 다섯 번째 콜라보 작품 중 두 번째 신곡이다 .	PER-B O O O PER-B O O O O O O O O O O O O O
-심형탁이 화제+이다 .	PER-B O O
-‘명동 호텔 전쟁’이 새해부터 뜨거워 지+ㄴ다 .	LOC-B O O O O O O
-일본 총무성의 사회생활조사에 따르면 일본인이 교제에 들이는 시간은 2011년 하루 19분으로 10년 전보다 약 30% 줄었다 .	ORG-B ORG-I O O ORG-B O O O O O O O O O O O O
-“모터달 +ㄴ바퀴… VR 내비… 현대모비스가 만들 +ㄹ 것 .	O O O O ORG-B O O O O
-그 결과 ‘참여 하+ㄹ의사가 있다’는 응답자가 91.5%로 대부분을 차지하였다 .	O O O O O O O O O O
-프린스의 왕자, 신예우혁vs FT아일랜드 최종훈…'누구가 진 자왕자가 되+ㄹ까 .	O O PER-B O PER-B O O O O
-박 대통령이 대통령 선거 공약으로 현직 검사의 청와대 파견을 금지하겠다는 약속을 하게 되+ㄴ 것도 이런 이유에서 +이다 .	PER-B O O O O O O ORG-B O O O O O O O O O O
-'출발 드림팀' 유승옥, 섹시하+ㄴ 룸바댄스…요염하+ㄴ 몸짓에 男心 '후끈 .	O O PER-B O O O O O O
-데뷔 3년차 이+ㄴ 배선우(21)가 생애 첫 우승을 노리었지만 역부족이었다 .	O O O PER-B O O O O O O
-실업급여 인상, 실직전 평균임금의 50% →60% …지급 요건-절차는 엄격하+여지+ㄴ다?실업급여 인상사회보장성 강화 측면에서 실업급여의 지급 수준은 올라가고 지급기간도 늘어나지만 지급요건은 까다롭어 지+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O
-고용노동부는 지난달 새누리당이 노동개혁 5대 법안의 하나로 발의 하+ㄴ ‘고용보험법 개정안’이 이 같은 내용을 주 골자로 하고 있다고 6일 밝히었다 .	ORG-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O
-구직급여 상한액은 하루 4만3000원에서 5만원으로 높이었다 .	O O O MNY-B MNY-B O O
+중국 프로 축구 팀 들 은 시진핑 국가주석 이 2013 년 취임한 뒤 거액 을 쏟 아 붓 고 있 다 .	LOC-B O O O O O PER-B O O DAT-B DAT-I O O O O O O O O O O O
+알 리 가 녹음한 노래 는 김태우 의 신곡 ‘ 시원해 ’ 로 T - WITH 프로젝트 의 다섯 번째 콜라 보 작품 중 두 번째 신곡 이 다 .	PER-B PER-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+심형탁 이 화제 다 .	PER-B O O O O
+‘ 명동 호텔 전쟁 ’ 이 새해 부터 뜨거워진다 .	O LOC-B O O O O O O O O
+일본 총무 성의 사회 생활 조사 에 따르 면 일본인 이 교제 에 들이 는 시간 은 2011 년 하루 19 분 으로 10 년 전 보다 약 30 % 줄 었 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+“ 모터 단 바퀴 … VR 내비 … 현대모비스 가 만들 것 ”	O O O O O O O O ORG-B O O O O
+그 결과 ‘ 참여할 의사 가 있 다 ’ 는 응답자 가 91.5 % 로 대부분 을 차지 했 다 .	O O O O O O O O O O O O O O O O O O O O O
+프린스 의 왕자 , 신예 우혁 vs FT 아일랜드 최종훈 … ' 누 가 진자 왕자 가 될까 '	O O O O O PER-B O O O PER-B O O O O O O O O O
+박 대통령 이 대통령 선거 공약 으로 현직 검사 의 청와대 파견 을 금지하 겠 다는 약속 을 하 게 된 것 도 이런 이유 에서 다 .	PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+' 출발 드림 팀 ' 유승옥 , 섹시한 룸바 댄스 … 요염한 몸짓 에 男心 ' 후끈 '	O O O O O PER-B O O O O O O O O O O O O
+데뷔 3 년 차인 배선우 ( 21 ) 가 생애 첫 우승 을 노 렸 지만 역부족 이 었 다 .	O O O O PER-B O O O O O O O O O O O O O O O O
+실업 급여 인상 , 실직 전 평균 임금 의 50 % → 60 % … 지급 요건 - 절차 는 엄격해 진다 ? 실업 급여 인상 사회 보장 성 강화 측면 에서 실업 급여 의 지급 수준 은 올라가 고 지급 기간 도 늘어나 지만 지급 요건 은 까다로 워 진다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고용 노동부 는 지난달 새누리당 이 노동 개혁 5 대 법안 의 하나 로 발의한 ‘ 고용 보험법 개정안 ’ 이 이 같 은 내용 을 주 골자 로 하 고 있 다고 6 일 밝 혔 다 .	ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+구직 급여 상한 액 은 하루 4 만 3000 원 에서 5 만 원 으로 높 였 다 .	O O O O O O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O O

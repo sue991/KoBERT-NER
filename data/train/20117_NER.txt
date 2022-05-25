@@ -1,12 +1,12 @@
-경찰에 따르면 달톤에게 범죄 경력은 없고, 범행 동기는 아직까지 밝혀지지 않았다 .	O O PER-B O O O O O O O O O
-지나+ㄴ 4월 21일 2015 여름 첫 시즌 프로모션을 개시하면서 6주 만에 100만잔 판매를 돌파하며 많은 인기를 얻고 있다 .	O O O O O O O O O O O O O O O O O O O
-스타벅스는 오는 22일까지 ‘마이스타벅스 리워드’ 그린과 골드 레벨 회원이 스타벅스 카드로 ‘믹스베리 피지오’, ‘유자 아이스 쉐이크+ㄴ티피지오’, ‘쿨라임 피지오’ 등 피지오 음료를 구매하면 한 잔당별 3개를 추가 증정하며, 스타벅스 여름 프로모션 웹사이트(www. istarbucks. co.kr/2015summer)에서 음료 이름을 맞추는 퀴즈 이벤트를 통하+여 총 1000명에게 무료 여름 음료 e-쿠폰을 증정하+ㄴ다 .	ORG-B O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-수도권 지하철 신분당선 판교역에서 걷어서 3분 거리 이+ㄴ경기도 성남 판교신도시의 중심상업지구(알파돔시티).오는 11월 이곳에 입주하는 복합단지 이+ㄴ 판교 알파리움 아파트 분양권을 사려면 웃돈(프리미엄) 2억원 이상을 주+어야 하는데도 부동산 중개업소를 찾는 손님은 꾸준하다 .	LOC-B O LOC-B LOC-B O O O LOC-B LOC-B LOC-B LOC-B O O O O O LOC-B LOC-B LOC-I O O O MNY-B O O O O O O O O O
-올 4월 첫 아이 출산을 앞두고 있는 그는 출산 준비에도 ‘미니멀리즘’을 실천 중이다 .	O O O O O O O O O O O O O O
-난자 채취를 하는 그날, 하루 휴가를 내+ㄹ 수 있었다 .	O O O O O O O O O O
-90kW h의 배터리 용량을 지니 +ㄴ 모델S 90D 도슈처차저에서는 완충까지 1시간이 걸리지 않는다 .	O O O O O O O O O O O O O O
-하지만 지금 홍 지사의 애매하+ㄴ 발언에 국민들의 궁금증은 커지고 있다 .	O O PER-B O O O O O O O O
-헤지펀드는 1백 명 미만의 거액 투자가들의 돈을 대신 운용 하+여주는 일종의 투자신탁회사로 작년에 수십억달러에 달하는 투자액의 수익률은 70%에 달하+ㄴ 것으로 알려지었다 .	ORG-B O O O O O O O O O O O O MNY-B O O O O O O O O
-이 지역에서 지나 +ㄴ 30년간 지역민의 크고 작은 아픔을 보살피며 ‘인간 중심의 참병원’을 추구하+여오+ㄴ 의료기관이 있다 .	O O O O O O O O O O O O O O O O O
-뉴욕의 윈덤 뉴요커 호텔 3층 홀에서의 13분간 승복 연설에서 그는 몇 번이고 복받치 +어오르는 감정을 억누르었다 .	LOC-B LOC-B LOC-I LOC-I O O MNY-B O O O O O O O O O O
-이를 위하+ 여 촬영 때마다 4시간이 소요되는 특수분장에도 나서 +었다 .	O O O O O O O O O O O
+경찰 에 따르 면 달톤 에게 범죄 경력 은 없 고 , 범행 동기 는 아직 까지 밝혀지 지 않 았 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
+지난 4 월 21 일 2015 여름 첫 시즌 프로모션 을 개시하 면서 6 주 만 에 100 만 잔 판매 를 돌파하 며 많 은 인기 를 얻 고 있 다 .	O DAT-B DAT-I DAT-I DAT-I DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스타벅스 는 오 는 22 일 까지 ‘ 마이 스타벅스 리워드 ’ 그린 과 골드 레벨 회원 이 스타벅스 카드 로 ‘ 믹스 베리 피지오 ’ , ‘ 유자 아이스 쉐이 큰 티 피지오 ’ , ‘ 쿨 라임 피지오 ’ 등 피지오 음료 를 구매하 면 한 잔당 별 3 개 를 추가 증정하 며 , 스타벅스 여름 프로모션 웹사이트 ( www . istarbucks . co . kr / 2015 summer ) 에서 음료 이름 을 맞추 는 퀴즈 이벤트 를 통해 총 1000 명 에게 무료 여름 음료 e - 쿠폰 을 증정한다 .	ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수도권 지하철 신분당선 판교역 에서 걸 어서 3 분 거리 인 경기도 성남 판교 신도시 의 중심 상업 지구 ( 알파 돔 시티 ) . 오 는 11 월 이곳 에 입주하 는 복합 단지 인 판교 알 파리 움 아파트 분양 권 을 사 려면 웃돈 ( 프리미엄 ) 2 억 원 이상 을 줘야 하 는데 도 부동산 중개 업소 를 찾 는 손님 은 꾸준하 다 .	LOC-B O LOC-B LOC-B O O O O O O O LOC-B LOC-B LOC-B LOC-I O O O O O LOC-B LOC-I LOC-I O O O O DAT-B DAT-I O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+올 4 월 첫아이 출산 을 앞두 고 있 는 그 는 출산 준비 에 도 ‘ 미니멀리즘 ’ 을 실천 중 이 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+난자 채취 를 하 는 그날 , 하루 휴가 를 낼 수 있 었 다 .	O O O O O O O O O O O O O O O O
+90 kWh 의 배터리 용량 을 지닌 모델 S 90 D 도 슈 처 차저 에서 는 완충 까지 1 시간 이 걸리 지 않 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 지금 홍 지사 의 애매한 발언 에 국민 들 의 궁금증 은 커지 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O
+헤지 펀드 는 1 백 명 미만 의 거액 투자가 들 의 돈 을 대신 운용해 주 는 일종 의 투자 신탁 회사 로 작년 에 수십 억 달러 에 달하 는 투자액 의 수익률 은 70 % 에 달한 것 으로 알려 졌 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O
+이 지역 에서 지난 30 년 간 지역민 의 크 고 작 은 아픔 을 보살피 며 ‘ 인간 중심 의 참병원 ’ 을 추구해 온 의료 기관 이 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+뉴욕 의 윈덤 뉴요커 호텔 3 층 홀 에서 의 13 분 간 승복 연설 에서 그 는 몇 번 이 고 복받쳐 오르 는 감정 을 억눌 렀 다 .	LOC-B O LOC-B LOC-I LOC-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+이 를 위해 촬영 때 마다 4 시간 이 소요되 는 특수 분장 에 도 나섰 다 .	O O O O O O O O O O O O O O O O O O

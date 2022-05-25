@@ -1,14 +1,14 @@
-29일 관계자에 따르면 애니메이션 ‘쿵푸팬더3’ 홍보차 내년 1월 20일 내한하는 잭 블랙이 ‘무한도전’ 출연을 논의 중이다 .	O O O O O O O O O O PER-B PER-I O O O O O
-관계자는 “잭 블랙의 ‘무한도전’ 출연이 아직 확정되+ㄴ 것은 아니다 .	O PER-B PER-I O O O O O O O
-총 6.3km의 구간이 확인되었다 .	O O O O O
-유길준은 사실 미국 유학 시절부터 자신의 서양 견문을 토대로 책을 쓰+ㄹ 계획을 세우고 꼼꼼히 준비를 하고 있었다 .	PER-B O LOC-B O O O O O O O O O O O O O O O
-'오늘부터 사랑 하+여' 박진우, 평범 하+ㄴ 아빠에서 연기로 전환… '도전 .	O O O PER-B O O O O O O O
-김병익 문학과지 성사 상임고문(당시 대표)이 쓰+ㄴ초판해설은 “한강의 상상력은 한 세대전의 세계 속으로 거스르어올라가 +아거기서 움직이고 있다”고 +였다 .	PER-B O O O O O PER-B O O O O O O O O O O O
-윤활유 사업은 국내 시장에서의 경쟁력을 바탕으로 중국·인도·러시아·동남아 등 해외시장에 진출하였다 .	O O O O O O LOC-B O O O O
-올해는 20년간 일반에 공개하지 않았던 비밀 정원숲속 산책로를 21일 처음 오픈하+ㄴ다 .	O O O O O O O O O O O O
-이에 대하+여 조 감독은 “냉혹 하+ㄴ 승부의 세계에서 살더라도 정과의리는 있어야 하+ㄴ다 .	O O PER-B O O O O O O O O O O
-청와대 관계자는 16일 “박근혜 정부 초대 뉴미디어 비서관이+ㄴ 민병호 비서관이 개인 사정으로 사직을 하고 후임에 오영규 전 SK커뮤니케이션즈 상무가 내정되었다”고 밝히었다 .	ORG-B O O PER-B O O O O PER-B O O O O O O PER-B O ORG-B O O O O
-노사는 회의에서 현재 울산5공장에서 생산하는 신형 투싼과 향후 울산 3공장에서 생산 예정이+ㄴ 아반떼 후속차를 울산 2공장에서도 공동 생산하는데 합의하였다 .	O O O O O O O O O O O O O O O O O O O O
-올해 초 부산관광공사의 관광 프로젝트 공모를 통하+여 시작되+ㄴ 새롭ㄴ 숙박 형태 +이다 .	O O ORG-B ORG-I O O O O O O O O O
-방송에서 신세경은 봄과 잘 어울리는 플라워 패턴의 유니크 하+ㄴ점퍼를 매치 하+여세련되고 페미닌한 스타일을 완성하였다 .	O PER-B O O O O O O O O O O O O O
-온라인 중앙일보 jstar@j oongang. co.kr블루종뜻[사진 SBS 방송 화면 캡처 .	O O O O O O O O O O
+29 일 관계자 에 따르 면 애니메이션 ‘ 쿵푸 팬더 3 ’ 홍보 차 내년 1 월 20 일 내한하 는 잭 블랙 이 ‘ 무한도전 ’ 출연 을 논의 중 이 다 .	DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O PER-B PER-I O O O O O O O O O O O
+관계자 는 “ 잭 블랙 의 ‘ 무한도전 ’ 출연 이 아직 확정된 것 은 아니 다 .	O O O PER-B PER-I O O O O O O O O O O O O O
+총 6.3 km 의 구간 이 확인 됐 다 .	O O O O O O O O O O
+유길준 은 사실 미국 유학 시절 부터 자신 의 서양 견문 을 토대 로 책 을 쓸 계획 을 세우 고 꼼꼼히 준비 를 하 고 있 었 다 .	PER-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 오늘 부터 사랑해 ' 박진우 , 평범한 아빠 에서 연기 로 전환 … ' 도전 '	O O O O O PER-B O O O O O O O O O O O
+김병익 문학과지성사 상임 고문 ( 당시 대표 ) 이 쓴 초판 해설 은 “ 한강 의 상상력 은 한 세대 전 의 세계 속 으로 거슬 러 올라가 거기 서 움직이 고 있 다 ” 고 했 다 .	PER-B ORG-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+윤활유 사업 은 국내시장 에서 의 경쟁력 을 바탕 으로 중국 · 인도 · 러시아 · 동남아 등 해외 시장 에 진출 했 다 .	O O O O O O O O O O LOC-B O LOC-B O LOC-B O LOC-B O O O O O O O O
+올해 는 20 년 간 일반 에 공개하 지 않 았 던 비밀 정원 숲 속 산책로 를 21 일 처음 오픈 한다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+이 에 대해 조 감독 은 “ 냉혹한 승부 의 세계 에서 살 더라도 정 과 의리 는 있 어야 한다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
+청와대 관계자 는 16 일 “ 박근혜 정부 초대 뉴미디어 비서관 인 민병호 비서관 이 개인 사정 으로 사직 을 하 고 후임 에 오영규 전 SK 커뮤니케이션즈 상무 가 내정 됐 다 ” 고 밝 혔 다 .	ORG-B O O DAT-B DAT-I O PER-B O O O O O PER-B O O O O O O O O O O O PER-B O ORG-B ORG-I O O O O O O O O O O O
+노사 는 회의 에서 현재 울산 5 공장 에서 생산하 는 신형 투싼 과 향후 울산 3 공장 에서 생산 예정 인 아반떼 후속 차 를 울산 2 공장 에서 도 공동 생산하 는데 합의 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올해 초 부산 관광 공사 의 관광 프로젝트 공모 를 통해 시작된 새로 운 숙박 형태 다 .	O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+방송 에서 신세경 은 봄 과 잘 어울리 는 플라워 패턴 의 유니크 한 점퍼 를 매치해 세련되 고 페미닌 한 스타일 을 완성 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+온라인 중앙일보 jstar @ joongang . co . kr 블루종 뜻 [ 사진 SBS 방송 화면 캡처 ]	O O O O O O O O O O O O O O O O O O

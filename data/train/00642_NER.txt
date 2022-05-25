@@ -1,12 +1,12 @@
-이에 백령도 일대에서 +ㄴ 주민 대피 준비 방송이 나가+았고, 조업통제 지시에 따르 아조업 중이던 어선 수십여 척도 철수 하+ㄴ 것으로 전하여 +지+었다 .	O LOC-B O O O O O O O O O O O O O O O O O O O O O
-군 관계자는 “현재 추가 특이 동향은 식별되지 않고 있으며, NLL 인근에 대하+ㄴ감시를 강화하+ㄴ 가운데 만반의 대비태세를 갖추고 있다”고 말하였다 .	O O O O O O O O O LOC-B O O O O O O O O O O
-새정치민주연합 문재인 대표는 역사교과서 국정화와 관련 새누리당이 ‘김일성 주체사상을 우리 아이들이 배우고 있습니다’ +이라는 내용의 현수막을 내걸 +ㄴ 것에 대하+여 “그것+이 사실이라면 박근혜 정권이 책임지고 물러나 +아야 하+ㄴ다”고 지적하였다 .	ORG-B PER-B O O O O ORG-B PER-B O O O O O O O O O O O O O O PER-B O O O O O O O
-문 대표는 13일 밤 자신의 트위터를 통하+여 ‘김일성 주체사상을 우리 아이들이 배우고 있습니다’+이라는 현수막 내용을 소개하면서 “새누리당의 18번 이 또 나오았습니다 .	PER-B O O O O O O PER-B O O O O O O O O ORG-B O O O O O
-도매유통업자 C씨는 해외자원을 개발하겠다며 영국령 버진아일랜드에 페이퍼컴퍼니를 만들고 회사 자금을 송금하였다 .	O PER-B O O O LOC-B O O O O O O
-공동 우승 하+ㄴ 것+ㄴ 역대 6번째이지만, 2014년부터 연달아 인도계 미국인 2명이 영광의 주인공이 +었다 .	O O O O O O O O O O O O O O O
-美바이든 부통령 대선 불출마 선언"시간이 부족하다"… 힐러리 유력 하+여지 .	ORG-B O O O O O PER-B O O O
-이 기간 쏘나타(3997대)의 경우 각각 35.6%·44.9% 떨어지었고, 아반떼(5064대)도 27.6%·35.1% 감소하였다 .	O O O O O O O O O O O
-‘무한도전’ 릴레이툰, 윤태호·가스파드·무적핑크·이말년·주호민·기안 84누구 .	O O PER-B PER-I O
-11일 귀국길에 오르+ㄴ 강수일은 “콧수염이나지 않아 선물 받은 발모제를 얼굴에 바르았다”고 해명하+ㄴ바 있다 .	O O O PER-B O O O O O O O O O O
-특히 "깨끗하고 바르+ㄴ 정치로 새누리당과의 차별화를 실현하+여보수의 새롭ㄴ 중심이 되겠다"고 주장 하+ㄹ 계획이다 .	O O O O ORG-B O O O O O O O O O
-이런 개념과 방법론은 김위찬·르네마 보안 프랑스인시아드 경영대학원 교수, 게리 하멜런던 비즈니스스쿨 객원교수, 그리고 마이클 포터 하버드대 교수 등이 한 전문지에 싣었던 글에서 나오았다 .	O O O PER-B PER-I ORG-B ORG-I O PER-B ORG-B ORG-I O O PER-B PER-I ORG-B O O O O O O O O
+이 에 백령도 일대 에선 주민 대피 준비 방송 이 나갔 고 , 조업 통제 지시 에 따 라 조업 중 이 던 어선 수십 여 척도 철수한 것 으로 전해 졌 다 .	O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+군 관계자 는 “ 현재 추가 특이 동향 은 식별되 지 않 고 있 으며 , NLL 인근 에 대한 감시 를 강화한 가운데 만반 의 대비 태세 를 갖추 고 있 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+새정치민주연합 문재인 대표 는 역사 교과서 국정 화 와 관련 새누리당 이 ‘ 김일성 주체사상 을 우리 아이 들 이 배우 고 있 습니다 ’ 라는 내용 의 현수막 을 내건 것 에 대해 “ 그게 사실 이 라면 박근혜 정권 이 책임지 고 물러나야 한다 ” 고 지적 했 다 .	ORG-B PER-B O O O O O O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+문 대표 는 13 일 밤 자신 의 트위터 를 통해 ‘ 김일성 주체사상 을 우리 아이 들 이 배우 고 있 습니다 ’ 라는 현수막 내용 을 소개하 면서 “ 새누리당 의 18 번 이 또 나 왔 습니다 .	PER-B O O DAT-B DAT-I O O O O O O O PER-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+도매 유통 업자 C 씨 는 해외 자원 을 개발하 겠 다며 영국 령 버진아일랜드 에 페이퍼 컴퍼니 를 만들 고 회사 자금 을 송금 했 다 .	O O O PER-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+공동 우승한 건 역대 6 번째 이 지만 , 2014 년 부터 연달 아 인도 계 미국인 2 명 이 영광 의 주인공 이 됐 다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+美 바이든 부통령 대선 불출마 선언 " 시간 이 부족하 다 " … 힐러리 유력해 지 나	ORG-B PER-B O O O O O O O O O O O PER-B O O O
+이 기간 쏘나타 ( 3997 대 ) 의 경우 각각 35.6 % · 44.9 % 떨어 졌 고 , 아반떼 ( 5064 대 ) 도 27.6 % · 35.1 % 감소 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 무한도전 ’ 릴레이 툰 , 윤태호 · 가스 파드 · 무적 핑크 · 이말년 · 주호민 · 기안 84 누구 ?	O O O O O O PER-B O PER-B PER-I O PER-B PER-I O PER-B O PER-B O PER-B PER-I O O
+11 일 귀국 길 에 오른 강수일 은 “ 콧수염 이 나 지 않 아 선물 받 은 발모제 를 얼굴 에 발 랐 다 ” 고 해명한 바 있 다 .	DAT-B DAT-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 " 깨끗하 고 바른 정치 로 새누리당 과 의 차별화 를 실현해 보수 의 새로 운 중심 이 되 겠 다 " 고 주장할 계획 이 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+이런 개념 과 방법론 은 김위찬 · 르네 마보 안 프랑스 인 시 아드 경영 대학원 교수 , 게리 하멜 런던 비즈니스 스쿨 객원 교수 , 그리고 마이클 포터 하버드대 교수 등 이 한 전문지 에 실 었 던 글 에서 나 왔 다 .	O O O O O PER-B O PER-B PER-I PER-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B PER-I ORG-B ORG-I ORG-I O O O O PER-B PER-I ORG-B O O O O O O O O O O O O O O O

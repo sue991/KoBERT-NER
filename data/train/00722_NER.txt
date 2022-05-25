@@ -1,15 +1,15 @@
-배심원 7명은 만장일치로 유죄로 판단하였다 .	O O O O O O
-검찰은 박씨가 사건 전날 화투를 치다가 심하게 다투었다는 피해자 진술, 피고인 옷과 전동 휠체어, 지팡이 등 21곳에서 농약 성분이 검출되+ㄴ점, 집에서 농약 성분이 들+ㄴ드링크제 병이 나 오+ㄴ점 등을 증거로 제시하였다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또한 50여분 동안 사건 현장에 있으면서 구조 노력을 하지 않는 등 범행 전후 미심쩍은 행동 등 도박 할머니를 범인으로 지목하+ㄴ이 유+이라고 검찰은 설명하였다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O
-피고인 측 변호인단은 1, 2심에서 범행 동기, 농약 투입 시기, 고독성 살충제 구입 경로 등 직접 증거가 없다고 이를 반박하였다 .	O O O O O O O O O O O O O O O O O O O O O
-변호인단은 앞서 +어 결심 공판에서 “80대 노인이 당황하+ㄴ 상황에서 전화 다이얼을 누르어 구조요청을 하기는 쉽지 않다”며 “피고인이 잘못되+ㄴ 판단으로 구조가 지연되+ㄴ 것은 사실이나 판단 착오를 비난 하+ㄹ 수는 있어도 범인으로 몰+ㄹ 수는 없다”고 주장하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-박 할머니는 앞서 +어항소심 결심 공판 최후 진술에서 “나는 절대로 농약을 넣지 않았다 .	PER-B O O O O O O O O O O O O O
-통계청이 발표하+ㄴ ‘2016년 양곡소비량 조사결과’에 따르면 지난해 우리 국민 1인당 연간 쌀 소비량은 61.9kg으로 1인당 하루 쌀 소비량은 169.6g이었다고 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-동아전람이 주최하는 이번 행사에는 가전과 주방용품, 욕실용품, 홈인테리어, 가정용품, 가구, 차(茶)·공예품, 판촉 및 선물용품, 기타 생활용품 등이 전시되 +ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-출연자 노유민은 아내 이명천과 전화통화를 시도하였다 .	O PER-B O PER-B O O O
-올해 1월에 열리+ㄴ SIHH에서도 고급 시계들은 새롭ㄴ 무브먼트(시계 작동장치), 투르비옹 기술(중력으로 생기는 오차를 보정하는 장치), 퍼페추어 +ㄹ 캘린더(윤년·윤달까지 잡아내는 날짜 자동 계산장치) 등 신기술을 앞세우어 경쟁하었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-0.6%p 상승 하+ㄴ 23.7%의 지지율을 보이며 7주 연속 1위를 지키었다 .	O O O O O O O O O O O
-25일 오후 고향이+ㄴ 전 남 곡성에서 먼저 체포되 +ㄴ 최씨는 27일 구속영장이 발부되 +어수감되었다 .	O O O O O LOC-B O O O PER-B O O O O O
-필요하면 최근 귀국 하+ㄴ신씨를 소환하+ㄹ 방침이다 .	O O O PER-B O O O
-신한금융지주와 우리은행은 4일 차기 CEO 인선 작업을 시작하였다 .	ORG-B ORG-B O O O O O O O
-그는 2011년 12월 김정일 이 사망하자 사이버 분향소를 설치하고 “김정일은 민족의 위대하+ㄴ 지도자”+이라는 취지의 애도글을 올리+ㄴ 혐의 등으로 지난해 6월 징역 1년 집행유예 2년이 확정되+ㄴ바 있다 .	O O O PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O
+배심원 7 명 은 만장일치 로 유죄 로 판단 했 다 .	O O O O O O O O O O O O
+검찰 은 박 씨 가 사건 전날 화투 를 치 다가 심하 게 다 퉜 다 는 피해자 진술 , 피고인 옷 과 전동 휠체어 , 지팡이 등 21 곳 에서 농약 성분 이 검출된 점 , 집 에서 농약 성분 이 든 드링크제 병 이 나온 점 등 을 증거 로 제시 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 50 여 분 동안 사건 현장 에 있 으면서 구조 노력 을 하 지 않 는 등 범행 전후 미심쩍 은 행동 등 도 박 할머니 를 범인 으로 지목한 이유 라고 검찰 은 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+피고인 측 변호인 단 은 1 , 2 심 에서 범행 동기 , 농약 투입 시기 , 고 독성 살충제 구입 경로 등 직접 증거 가 없 다고 이 를 반박 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+변호인 단 은 앞서 결심 공판 에서 “ 80 대 노인 이 당황한 상황 에서 전화 다이얼 을 눌 러 구조 요청 을 하 기 는 쉽 지 않 다 ” 며 “ 피고인 이 잘못된 판단 으로 구조 가 지연된 것 은 사실 이나 판단 착오 를 비난할 수 는 있 어도 범인 으로 몰 수 는 없 다 ” 고 주장 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 할머니 는 앞서 항소심 결심 공판 최후 진술 에서 “ 나 는 절대로 농약 을 넣 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+통계청 이 발표한 ‘ 2016 년 양곡 소비량 조사 결과 ’ 에 따르 면 지난해 우리 국민 1 인 당 연간 쌀 소비량 은 61.9 kg 으로 1 인 당 하루 쌀 소비량 은 169.6 g 이 었 다고 한다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동아 전람 이 주최하 는 이번 행사 에 는 가전 과 주방 용품 , 욕실 용품 , 홈 인테리어 , 가정용품 , 가구 , 차 ( 茶 ) · 공예품 , 판촉 및 선물 용품 , 기타 생활 용품 등 이 전시된다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+출연자 노 유민 은 아내 이명천 과 전화 통화 를 시도 했 다 .	O PER-B PER-I O O PER-B O O O O O O O O
+올해 1 월 에 열린 SIHH 에서 도 고급 시계 들 은 새로 운 무브먼트 ( 시계 작동 장치 ) , 투르 비옹 기술 ( 중력 으로 생기 는 오차 를 보정하 는 장치 ) , 퍼페추얼 캘린더 ( 윤년 · 윤달 까지 잡아내 는 날짜 자동 계산 장치 ) 등 신기술 을 앞세 워 경쟁 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0.6 % p 상승한 23.7 % 의 지지율 을 보이 며 7 주 연속 1 위 를 지 켰 다 .	O O O O O O O O O O O O O O O O O O O O O
+25 일 오후 고향 인 전남 곡성 에서 먼저 체포된 최 씨 는 27 일 구속 영장 이 발부돼 수감 됐 다 .	DAT-B DAT-I O O O LOC-B LOC-B O O O PER-B O O DAT-B DAT-I O O O O O O O O
+필요하 면 최근 귀국한 신 씨 를 소환할 방침 이 다 .	O O O O PER-B O O O O O O O
+신한금융지주 와 우리은행 은 4 일 차기 CEO 인선 작업 을 시작 했 다 .	ORG-B O ORG-B O DAT-B DAT-I O O O O O O O O O
+그 는 2011 년 12 월 김정일 이 사망하 자 사이버 분향소 를 설치하 고 “ 김정일 은 민족 의 위대한 지도자 ” 라는 취지 의 애 도 글 을 올린 혐의 등 으로 지난해 6 월 징역 1 년 집행 유예 2 년 이 확정된 바 있 다 .	O O DAT-B DAT-I DAT-I DAT-I PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O DAT-B DAT-I O O O O O O

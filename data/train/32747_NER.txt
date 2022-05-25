@@ -1,12 +1,12 @@
-“넘버원 다이버, 다시 돌아오+ㄹ 것.” “넘버원 다이버, 돌아가겠음.” 지나 +ㄴ 2일 경남 진해의 해군 해난구조대(SSU) 기지 앞바다 .	O O O O O O O O O O O LOC-B LOC-B ORG-B ORG-B O O O
-한편 최 전 의장은 24일 검찰에 소환되+어 2012년 와일드캣 시험평가를 담당하였던 박모 소장(57·구속기소)과 대질하면서 혐의를 부인하+ㄴ 것으로 전하여 +지+었다 .	O PER-B O O O O O O ORG-B O O PER-B O O O O O O O O
-경찰은 아파트 창을 부수+ㄴ심씨에 대하+여재물손괴 혐의로 입건하+ㄹ지 여부를 검토하고 있다 .	O O O PER-B O O O O O O O
-배우들의 명연기, 재미, 감동이 삼박자를 이루는 유쾌, 경쾌하+ㄴ 분위기의 작품이 탄생하+ㄹ 것이라 생각 하+ㄴ다”며 “좋은 배우들이 확신을 갖고 선택하+ㄴ드라마 이+ㄴ 만큼 ‘복면 검사’에 대하+ 여기대감을 갖고 지켜보+아주 +시었으면 좋겠다”고 당부하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-주상욱과 김선아가 호흡을 맞추+ㄹ드라마 ‘복면 검사’는 검사+이라는 신분으로도 해결하+ㄹ 수 없는 일을 주먹으로 해결하는 한 남자의 이야기를 그리 +ㄴ 작품으로 현재 방송 중 이+ㄴ ‘착하지 않은 여자들’에 이어 5월 안방극장을 찾는다 .	PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘성완종 게이트’ 불똥이 정치권을 넘어 언론계로 튀었다 .	O O O O O O O O
-기존 설비는 약 50년이 지나 +아노 후 하+ㄴ 상태+이었다 .	O O O O O O O O O O
-삼성 삼성이 승엽이승엽(40)은 10일 10일 대전 한화생명이글스파크에서 열리+ㄴ한화전 한화전에서 선제 결승 솔로 홈런을 포함하+여5 타수 4안타1볼넷 3타점 2득점을 올리면서 팀 승리를 이끌었다 .	ORG-B ORG-B PER-B O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O
-남북 남북 고위급 접촉 정회, 北동향은?“병력 늘고 있다”… 대북 확성기 타격노리+ㄴ 움직임도 .	ORG-B ORG-B O O O ORG-B O O O O O O O
-노엘리차드 막스(RichardNoelM arx·53)의 아내가 20일 20일 겪은 대한항공 기내 난동과 관련 "막스가 난동 승객을 제압하기 위하+여나서 +ㄴ 첫 번째 사람"이라고 자랑스럽어 +였다 .	PER-B PER-B O O O O O O O O O PER-B O O O O O O O O O O O
-미국 미국의 유명 VJ이자 막스의 아내 이+ㄴ 데이지 푸엔테스(DaisyFuentes·55)는 이날 남편과 함께 하+ㄴ 비행길에서 겪은 대한항공 기내 난동 사건을 전하며 이같이 밝히었다 .	ORG-B ORG-B O O PER-B O O PER-B PER-B O O O O O O O O O O O O O O
-푸엔테스는 페이스북 페이스북에 "옆줄에 앉아 있던 남자가 승객과 승무원을 공격하기 시작하였다 .	ORG-B O O O O O O O O O O O
+“ 넘버 원 다이버 , 다시 돌아올 것 . ” “ 넘버 원 다이버 , 돌아가 겠 음 . ” 지난 2 일 경남 진해 의 해군 해난 구조대 ( SSU ) 기지 앞바다 .	O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-B O ORG-B ORG-I ORG-I O ORG-B O O O O
+한편 최 전 의장 은 24 일 검찰 에 소환돼 2012 년 와일드캣 시험 평가 를 담당 했 던 박 모 소장 ( 57 · 구속 기소 ) 과 대질하 면서 혐의 를 부인한 것 으로 전해 졌 다 .	O PER-B O O O DAT-B DAT-I O O O DAT-B DAT-I ORG-B O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+경찰 은 아파트 창 을 부순 심 씨 에 대해 재물 손괴 혐의 로 입건할지 여부 를 검토하 고 있 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O
+배우 들 의 명연기 , 재미 , 감동 이 삼박자 를 이루 는 유쾌 , 경쾌한 분위기 의 작품 이 탄생할 것 이 라 생각한다 ” 며 “ 좋 은 배우 들 이 확신 을 갖 고 선택한 드라마 인 만큼 ‘ 복면검사 ’ 에 대해 기대감 을 갖 고 지켜봐 주 셨 으면 좋 겠 다 ” 고 당부 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주상욱 과 김선아 가 호흡 을 맞출 드라마 ‘ 복면검사 ’ 는 검사 라는 신분 으로 도 해결할 수 없 는 일 을 주먹 으로 해결하 는 한 남자 의 이야기 를 그린 작품 으로 현재 방송 중 인 ‘ 착하 지 않 은 여자 들 ’ 에 이어 5 월 안방극장 을 찾 는다 .	PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+‘ 성완종 게이트 ’ 불똥 이 정치권 을 넘 어 언론계 로 튀 었 다 .	O O O O O O O O O O O O O O O O
+기존 설비 는 약 50 년 이 지나 노후한 상태 였 다 .	O O O O O O O O O O O O O
+삼성 삼성 이승엽 이승엽 ( 40 ) 은 10 일 10 일 대전 한화 생명 이글스파크 에서 열린 한화 전 한화 전 에서 선제 결승 솔로 홈런 을 포함해 5 타수 4 안타 1 볼넷 3 타점 2 득점 을 올리 면서 팀 승리 를 이끌 었 다 .	ORG-B ORG-B PER-B PER-B O O O O DAT-B DAT-I DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남북 남북 고위급 접촉 정회 , 北 동향 은 ? “ 병력 늘 고 있 다 ” … 대북 확성기 타격 노린 움직임 도 ?	ORG-B ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O
+노엘 리차드 막스 ( Richard Noel Marx · 53 ) 의 아내 가 20 일 20 일 겪 은 대한항공 기내 난동 과 관련 " 막스 가 난동 승객 을 제압하 기 위해 나선 첫 번 째 사람 " 이라고 자랑스러 워 했 다 .	PER-B PER-I PER-I O PER-B PER-I PER-I O O O O O O DAT-B DAT-I DAT-B DAT-I O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+미국 미국 의 유명 VJ 이자 막스 의 아내 인 데이지 푸엔테스 ( Daisy Fuentes · 55 ) 는 이날 남편 과 함께한 비행길 에서 겪 은 대한항공 기내 난동 사건 을 전하 며 이같이 밝 혔 다 .	ORG-B ORG-B O O O O PER-B O O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+푸엔테스 는 페이스북 페이스북 에 " 옆줄 에 앉 아 있 던 남자 가 승객 과 승무원 을 공격하 기 시작 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O

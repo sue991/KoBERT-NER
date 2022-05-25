@@ -1,15 +1,15 @@
-한편 지난해 데뷔 하+ㄴ 애프터나잇 프로젝트는 작사, 작곡, 편곡, 프로듀싱까지 소화하는 1인 프로젝트+이다 .	O O O O ORG-B ORG-I O O O O O O O O
-아너 소사이어티+이라는 단체를 소개하는 책자+이었다 .	ORG-B ORG-I O O O O
-손연재 개인종합사상 첫 우승… 72.55점, 4종목 모두 18점 넘 .	PER-B O O O O O O O O O
-한성식품의 할랄 인증김치는 9월 열리는 대한민국 식품대전에서 직접 확인 하+ㄹ 수 있다 .	ORG-B O O O O ORG-B O O O O O O O
-단말기 유통구조 개선법, 이른바 단통법이 시행되+ㄴ 지도 1년 반이 넘었다 .	O O O O O O O O O O O
-올해는 태하가 아이스하키를 배우고 있어서 조금 다른 시선으로, 더 재미있게 보+ㄹ 수 있을 것 같아요.”아빠처럼 축구선수 꿈꾸는 아들 ‘사람이 오+ㄴ다는 걸 +ㄴ실은 어마어마 하+ㄴ일이다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-중국을 포함하+여아시아 5개국 박스오피스 1위에 오르았고, 영국과 프랑스 등 89개국에 판매되기도 +였다 .	ORG-B LOC-B O O O O ORG-B ORG-B O O O O O
-무어의 법칙이란 인텔의 창립자 '고든 무어'가 제안하+ㄴ CPU 성능 발전 이론이다 .	PER-I O O O PER-B PER-I O O O O O O
-차준환은 “인생 최고의 연기를 펼치+ㄴ 것 같다 .	PER-B O O O O O O O
-대구(229대1) 충남(223.4대1) 광주(221.7대1) 전북(210대1)도 200대1이 넘는 경쟁률을 보이었다 .	ORG-B ORG-B ORG-B ORG-B O O O O O
-통영을 찾는 여행객들이 꼭 한 번은 먹고 가+ㄴ다는 통영충무김밥 맛+의 집 찾고 있다면 전통의 맛이 깊은 이곳에서 충무김밥의 진수를 맛보는 것은 어떻 +ㄹ까.<보+ㄴ자료는 해당 기관에서 제공 하+ㄴ보도자료 이+ㅂ니다 .	LOC-B O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
-울산 반구대 암각화 보존대책이 3년간 28억원의 국가예산만 낭비 하+ㄴ 채 실패로 끝나 +ㄴ 것도 크+ㄴ문제+이었다 .	LOC-B O O O O MNY-B O O O O O O O O O O
-아프리카 남수단 출신 산티노뎅(SantinoDeng·32)씨+이다 .	LOC-B LOC-I O PER-B O
-삼성 다니는 Z까지 부르어서 밥 한 끼같이 하며 등 한번 치+어주시면 되+ㅂ니다 .	ORG-B O PER-B O O O O O O O O O O
-수능 점수 1백91.8점을 받은 최군은 인문계 수석보다 높은 점수 이+ㄴ 9백36.9점(1천점 만점)을 얻어 실질적이+ㄴ 전체 수석 합격자+이다 .	O O O O O O O O O O O O O O O O O O
+한편 지난해 데뷔한 애프터 나잇 프로젝트 는 작사 , 작곡 , 편곡 , 프로듀싱 까지 소화하 는 1 인 프로젝트 다 .	O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
+아너 소사이어티 라는 단체 를 소개하 는 책자 였 다 .	ORG-B ORG-I O O O O O O O O O
+손연재 개인 종합 사상 첫 우승 … 72.55 점 , 4 종목 모두 18 점 넘 어	PER-B O O O O O O O O O O O O O O O O
+한성식품 의 할랄 인증 김치 는 9 월 열리 는 대한민국 식품 대전 에서 직접 확인할 수 있 다 .	ORG-B O O O O O DAT-B DAT-I O O ORG-B O O O O O O O O O
+단말기 유통 구조 개선 법 , 이른바 단통 법 이 시행된 지 도 1 년 반 이 넘 었 다 .	O O O O O O O O O O O O O O O O O O O O O
+올해 는 태하 가 아이스하키 를 배우 고 있 어서 조금 다른 시선 으로 , 더 재미있 게 볼 수 있 을 것 같 아요 . ” 아빠 처럼 축구 선수 꿈꾸 는 아들 ‘ 사람 이 온다는 건 실은 어마어마한 일 이 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 을 포함해 아시아 5 개국 박스오피스 1 위 에 올 랐 고 , 영국 과 프랑스 등 89 개국 에 판매되 기 도 했 다 .	ORG-B O O LOC-B O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O
+무어 의 법칙 이 란 인텔 의 창립자 ' 고든 무어 ' 가 제안한 CPU 성능 발전 이론 이 다 .	O O O O O O O O O PER-B PER-I O O O O O O O O O O
+차준환 은 “ 인생 최고 의 연기 를 펼친 것 같 다 .	PER-B O O O O O O O O O O O O
+대구 ( 229 대 1 ) 충남 ( 223.4 대 1 ) 광주 ( 221.7 대 1 ) 전북 ( 210 대 1 ) 도 200 대 1 이 넘 는 경쟁률 을 보 였 다 .	ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+통영 을 찾 는 여행객 들 이 꼭 한번 은 먹 고 간다는 통영 충무 김밥 맛 집 찾 고 있 다면 전통 의 맛 이 깊 은 이 곳 에서 충무 김밥 의 진수 를 맛보 는 것 은 어떨까 . < 본 자료 는 해당 기관 에서 제공한 보도 자료 입니다 .	LOC-B O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+울산 반구대 암각화 보존 대책 이 3 년 간 28 억 원 의 국가 예산 만 낭비한 채 실패 로 끝난 것 도 큰 문제 였 다 .	LOC-B O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O
+아프리카 남수단 출신 산티 노 뎅 ( Santino Deng · 32 ) 씨 다 .	LOC-B LOC-I O PER-B PER-I PER-I O PER-B PER-I O O O O O O
+삼성 다니 는 Z 까지 불 러서 밥 한 끼 같이하 며 등 한 번 쳐 주 시 면 됩니다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O
+수능 점수 1 백 91.8 점 을 받 은 최 군 은 인문계 수석 보다 높 은 점수 인 9 백 36.9 점 ( 1 천점만 점 ) 을 얻 어 실질적 인 전체 수석 합격자 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

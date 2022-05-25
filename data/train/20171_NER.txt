@@ -1,13 +1,13 @@
-권선택 시장은 “오늘은 집안에 있던 물건들이 새 주인을 만나는 날”이라며 “시민참여가 많을수록 기부액이 많아 지+ㄴ다”며 참가를 독려하였다 .	PER-B O O O O O O O O O O O O O O O O O
-대구시 중구 국채보상운동 기념공원에서 열리+ㄴ대구위아자 나눔장터는 ‘어린이상인’들로 북적거리었다 .	LOC-B LOC-B O O LOC-B O O O O
-영등포(0.19%), 서대문구(0.19%) 등 중소형 주택이 많은 지역의 상승폭도 전달보다 커지었다 .	LOC-B LOC-B O O O O O O O O O
-과거 MBC ‘무한도전’에서는 멤버들이 ‘브라질 월드컵’ 한국 대표팀을 응원하기 위하+여브라질을 방문하기 전에 포르투갈어를 배우는 모습이 그리 +어+지었다 .	O O O O LOC-B O ORG-B ORG-I O LOC-B O O O O O O O O
-당국은 이러하+ㄴ 지표상의 성과가 금융실명제 실시와 우루과이 라운드(UR) 협상 타결이라는 변혁의와중에서 이룩되 +ㄴ 것이라는 점에서 더 크+ㄴ의 미를 부여하고 있다 .	O O O O O O O O O O O O O O O O O O O O O
-당시 구스만의 체포는 2012년부터 집권 하+ㄴ니에토 정부의 최대 성과로 평가되기도 +였다 .	O PER-B O O O PER-B O O O O O O
-2016년 2월 상가 경매, 수익형 부동산 투자 전문가들이 설립하+ㄴ소딧(SODIT)은 "모두가 웃을 수 있는 금융", 금융의 사회적 역할에 충실하+ㄴ다는 Social Credit의 줄이+ㅁ말을 사명으로 택하였다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-최고 시속은 200㎞고, 멈추+ㄴ 상태에서 시속 100㎞까지 도달하는데 5초밖에 걸리지 않는다 .	O O O O O O O O O O O O
-이번 연휴 기간 중 지난해보다 30%가량 늘어나 +ㄴ 약 21만명의 중국인 관광객이 한국을 찾을 것으로 기대되면서 화장품 여행 등 관련 업종들이 상승세를 잇어 +가았다 .	O O O O O O O O O O O O LOC-B O O O O O O O O O O O O
-뉴욕타임스도 4일 익명의 수사 관계자를 인용하+ 여파룩이 ‘국제테러리즘’ 혐의로 연방수사국(FBI)의 수사를 받아 +오았던 인물과 소셜네트워크 서비스(SNS)를 통하+여 접촉하며 ‘소프트 커넥션(약하+ㄴ 연계)’을 형성하였다고 보도하였다 .	ORG-B O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
-▲ 이것은 원고와 피고 신정휴간의 두 사람 사이에서의 문제이므로 제3자가 알기 어렵고, 또 어떠 하+ㄴ 행위가 있었느냐 없었느냐의 문제에 그치지 않고 어떠 하+ㄴ의 미에서 그러하+ㄴ 행위가 있었느냐 하는 것을 파악하는 것이어서 상당히 고민하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-100% 자연산 모짜렐라 치즈로 만들어지는 치즈롤카츠는 커팅 시 자연스럽게 흘러내리는 치즈의 모습으로 시각적 즐거움을 선사하+ㄴ다 .	O O O O O O O O O O O O O O O O
-우발적 사고 이+ㄴ지, 베트남 선원의 계획적 범행이+ㄴ지는 아직 밝혀지지 않았다 .	O O O ORG-B O O O O O O O
+권선택 시장 은 “ 오늘 은 집안 에 있 던 물건 들 이 새 주인 을 만나 는 날 ” 이 라며 “ 시민 참여 가 많 을수록 기부 액 이 많아진다 ” 며 참가 를 독려 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대구시 중 구 국채보상운동기념공원 에서 열린 대구 위 아자 나눔 장터 는 ‘ 어린이 상인 ’ 들 로 북적거 렸 다 .	LOC-B LOC-B LOC-I LOC-B O O LOC-B O O O O O O O O O O O O O O O
+영등포 ( 0.19 % ) , 서대문구 ( 0.19 % ) 등 중소형 주택 이 많 은 지역 의 상승 폭 도 전달 보다 커 졌 다 .	LOC-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+과거 MBC ‘ 무한도전 ’ 에서 는 멤버 들 이 ‘ 브라질 월드컵 ’ 한국 대표 팀 을 응원하 기 위해 브라질 을 방문하 기 전 에 포르투갈 어 를 배우 는 모습 이 그려 졌 다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O LOC-B O O O O O O O O O O O O O O O O
+당국 은 이러한 지표 상 의 성과 가 금융 실명제 실시 와 우루과이 라운드 ( UR ) 협상 타결 이 라는 변혁 의 와중 에서 이룩된 것 이 라는 점 에서 더 큰 의미 를 부여하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당시 구스만 의 체포 는 2012 년 부터 집권한 니에토 정부 의 최대 성과 로 평가되 기 도 했 다 .	O PER-B O O O DAT-B DAT-I O O PER-B O O O O O O O O O O O
+2016 년 2 월 상가 경매 , 수익 형 부동산 투자 전문가 들 이 설립한 소딧 ( SODIT ) 은 " 모두 가 웃 을 수 있 는 금융 " , 금융 의 사회적 역할 에 충실 한다는 Social Credit 의 줄임 말 을 사명 으로 택 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최고 시속 은 200 ㎞ 고 , 멈춘 상태 에서 시속 100 ㎞ 까지 도달하 는 데 5 초 밖에 걸리 지 않 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 연휴 기간 중 지난해 보다 30 % 가량 늘어난 약 21 만 명 의 중국인 관광객 이 한국 을 찾 을 것 으로 기대되 면서 화장품 여행 등 관련 업종 들 이 상승세 를 이 어 갔 다 .	O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+뉴욕타임스 도 4 일 익명 의 수사 관계자 를 인용해 파 룩 이 ‘ 국제 테러리즘 ’ 혐의 로 연방 수사 국 ( FBI ) 의 수사 를 받 아 왔 던 인물 과 소셜 네트워크 서비스 ( SNS ) 를 통해 접촉하 며 ‘ 소프트 커넥션 ( 약한 연계 ) ’ 을 형성 했 다고 보도 했 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+▲ 이것 은 원고 와 피고 신정휴 간 의 두 사람 사이 에서 의 문제 이 므로 제 3 자 가 알 기 어렵 고 , 또 어떠한 행위 가 있 었 느냐 없 었 느냐 의 문제 에 그치 지 않 고 어떠한 의미 에서 그러한 행위 가 있 었 느냐 하 는 것 을 파악하 는 것 이 어서 상당히 고민하 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+100 % 자연산 모짜렐라 치즈 로 만들 어 지 는 치즈 롤 카츠 는 커팅 시 자연스럽 게 흘러내리 는 치즈 의 모습 으로 시각적 즐거움 을 선사한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우발적 사고 인지 , 베트남 선원 의 계획적 범행 인지 는 아직 밝혀지 지 않 았 다 .	O O O O ORG-B O O O O O O O O O O O O O

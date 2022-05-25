@@ -1,13 +1,13 @@
-메르스에 얽히+ㄴ병원 명단이 뒤늦게 발표되었다 .	O O O O O O
-과학과 예술의 시각이 근본을 탐구하+ㄴ다는 점에서 일맥상통 하+ㄴ다는 사실을 깨닫았죠.”릴릴 씨가 꼭 해외로만 눈을 돌리는 것+ㄴ 아니다 .	O O O O O O O O O O O O O O O O O O
-주택도시보증공사는 지난해 7월 주택도시기금법이 시행되며 주택도시기금을 운용하게 +었다 .	ORG-B O O ORG-B O ORG-B O O O
-가산보너스에 고소득 ‘감액’도 피해 신청 급증… 작년 1만2471명이 늦추+어 연기연금의 또 다른 장점은 감액을 피하는 수단이라는 점이다 .	O O O O O O O O O O O O O O O O O O
-취임하+ㄴ지 1년도 안+었던 노 전 대통령은 “대통령이 재신임을 받고 그 결과에 책임을 지고 물러나겠다 .	O O O PER-B O O O O O O O O O O O
-차량을 판매하는 영업사원 대신 태블릿PC를 들고 제품 사용법과 특징을 설명하는 직원 6명이 눈에 띄었다 .	O O O O O O O O O O O O O O O
-7명만으로 동아시아 최고 수준의 국제도로 사이클을 치르는 것은 무리+이라는 우려의 목소리도 있었지만 이들은 지난해에잇어 올해 대회도 성공적으로 치르어내며 확실하+ㄴ 존재감을 보이어 +주었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-방사청은 “현재까지 평가를 진행하+ㄴ 결과 혹한의 환경과 산악지형을 포함하+ㄴ 험로기동 등을 통하+여 기존 차량 대비 탁월하+ㄴ 성능을 입증하였다”고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-디스패치는 8일 오전 “아이유와 장기하가지나 +ㄴ 3월부터 열애 중이다”고 전하였다 .	ORG-B O O PER-B PER-B O O O O O O
-보도에 따르면 두 사람은 서울 마포에 있는 장기하의 집과 용산에 위치하+ㄴ 아이유의 집에서 데이트를 즐기고 있다 .	O O O O LOC-B LOC-I O PER-B O LOC-B O PER-B O O O O O
-양자령은 지나 +ㄴ해조건부 시드를 받아 12개 대회 밖에 출전하지 못하였다 .	PER-B O O O O O O O O O O
-KEB하나은행은 명실상부 하+ㄴ 대한민국 자산 1위 은행으로 국내를 넘어 글로벌 일류은행으로 도약하는 새롭ㄴ 기회를 맞고 있다 .	ORG-B O O ORG-B O O O O O O O O O O O O O
-한편 정은우와 박한별은 한 매체에 데이트 현장이 포착되 +어, 지난해 12월 24일 열애를 공식 인정하였다 .	O PER-B PER-B O O O O O O O O O O O O O
+메르스 에 얽힌 병원 명단 이 뒤늦 게 발표 됐 다 .	O O O O O O O O O O O O
+과학 과 예술 의 시각 이 근본 을 탐구한다는 점 에서 일맥상통한다는 사실 을 깨달 았 죠 . ” 릴 릴 씨 가 꼭 해외 로 만 눈 을 돌리 는 건 아니 다 .	O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O
+주택도시 보증 공사 는 지난해 7 월 주택 도시 기금 법 이 시행되 며 주택 도시 기금 을 운용하 게 됐 다 .	ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+가산 보너스 에 고소득 ‘ 감액 ’ 도 피해 신청 급증 … 작년 1 만 2471 명 이 늦춰 연기 연금 의 또 다른 장점 은 감액 을 피하 는 수단 이 라는 점 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+취임한 지 1 년 도 안 됐 던 노 전 대통령 은 “ 대통령 이 재 신임 을 받 고 그 결과 에 책임 을 지 고 물러나 겠 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+차량 을 판매하 는 영업 사원 대신 태블릿 PC 를 들 고 제품 사용법 과 특징 을 설명하 는 직원 6 명 이 눈 에 띄 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 명 만 으로 동아시아 최고 수준 의 국제 도로 사이클 을 치르 는 것 은 무리 라는 우려 의 목소리 도 있 었 지만 이 들 은 지난해 에 이 어 올해 대회 도 성공적 으로 치 러 내 며 확실한 존재감 을 보 여 줬 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방사 청 은 “ 현재 까지 평가 를 진행한 결과 혹한 의 환경 과 산악 지형 을 포함한 험로 기동 등 을 통해 기존 차량 대비 탁월한 성능 을 입증 했 다 ” 고 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+디스 패치 는 8 일 오전 “ 아이유 와 장기하 가 지난 3 월 부터 열애 중 이 다 ” 고 전 했 다 .	ORG-B ORG-I O DAT-B DAT-I O O PER-B O PER-B O O DAT-B DAT-I O O O O O O O O O O O
+보도 에 따르 면 두 사람 은 서울 마포 에 있 는 장기하 의 집 과 용산 에 위치한 아이유 의 집 에서 데이트 를 즐기 고 있 다 .	O O O O O O O LOC-B LOC-I O O O PER-B O O O LOC-B O O PER-B O O O O O O O O O O
+양자 령 은 지난 해 조건부 시드 를 받 아 12 개 대회 밖에 출전하 지 못 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O
+KEB 하나은행 은 명실상부한 대한민국 자산 1 위 은행 으로 국내 를 넘 어 글로벌 일류 은행 으로 도약하 는 새로 운 기회 를 맞 고 있 다 .	ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+한편 정은우 와 박한별 은 한 매체 에 데이트 현장 이 포착돼 , 지난해 12 월 24 일 열애 를 공식 인정 했 다 .	O PER-B O PER-B O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O

@@ -1,17 +1,17 @@
-몸이 완전하지 않아 경기에 뛰지+ㄴ 못하였어도 올스타전에 임하는 자세를 실천 하+ㄴ 김희진이다 .	O O O O O O O O O O O PER-B O
-레버쿠젠에 남았다면 류승우는 또다시 벤치에 머물는 시간이 길었을 것이다 .	ORG-B O PER-B O O O O O O O
-‘하와’의 더블 타이틀 곡 중 하나이+ㄴ ‘애플(Apple)’은 음원 발매 후 멜론, 엠넷닷컴, 올레뮤직, 지니, 네이버 뮤직 등에서 정상을 차지하였다 .	O O O O O O O O O O ORG-B ORG-B ORG-B ORG-B ORG-B ORG-I O O O O
-특히 이날 공개되+ㄴ'파라다이스로스트' 뮤직비디오에서 가인은 몸매가 강조되+ㄴ의상을 입고 바닥에 엎드리는 등 과감하 +ㄴ 안무를 선보이며 섹시미를 발산하였다 .	O O O O O O O O O O O O O O O O O O
-여기서 제외되는 것은 은행 요구불예금 금리(4단계로 예정)뿐이다 .	O O O O O O O O
-이런 상황에서 방송제작진이 출판사에 공문을 보내 +ㄴ 것은 동아일보의 관련 보도(11월 17일자 A26면)에 대하+ㄴ해명의 의미를 담고 있다 .	O O O O O O O O O O O O O O O O O O
-현재 MBC 월화 드라마 ‘빛나거나 미치거나’에 출연 중 이+ㄴ장혁은 바쁘+ㄴ 촬영 일정에도 아내와 함께 출산을 준비 중이다 .	O O O O O O O O PER-B O O O O O O O O O
-박 반장은 “운동경기를 좋아하는 연예인이스트레스를 해소하기 위하+여재 미삼아 시작하지만 결국 도박에 중독되는 사례가 심심찮다”면서 “하지 않는 것+이 최선”이라고 다시 한번 강조하였다 .	PER-B O O O O O O O O O PER-B O O O O O O O O O O O
-63ml2만 1천원. H ITITEM은 파우더룸(cafe. naver. com/cosmania)과 여성 동아페이스북(www.facebook. com/thewomandonga)에서도 보시+ㄹ 수 있습니다 .	MNY-B MNY-I O O O O O O O O O O O O
-사진제공랑콤(080-022-3332) 메이크업포에버(080-514-8942) 바비 브라운(02-3440-2781) 스킨푸드(080-012-7878) 아리땁+ㅁ(02-6080-9966)에 스쁘아(080-619-8888) 유리아주(070-7091-6635)이니스프리(080-380-0114) 입생로랑(080-347-0089) 페리 페라(080-080-1510) 디자인이 지은 edi tor최은초롱기 .	ORG-B ORG-B ORG-B ORG-I ORG-B ORG-B ORG-I ORG-B ORG-B ORG-B ORG-I O O O PER-B O
-팬들은 십시일반 정성을 모으고 그 위에 이보미가 온정을 더 하+여 주변의 어렵ㄴ 이웃들에게 나누+ㅁ을 실천 하+ㄴ다 .	O O O O O O PER-B O O O O O O O O O O
-2008년 문화재청과 천연기념물 지킴이 협약을 맺고 수달, 두루미, 어름치, 장수하늘소 등 멸종위기 보호종을 선정하+여 전문단체의 보호 및 연구활동을 지원하고 있다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
-히딩크 감독은 지나 +ㄴ 2009년에도 첼시의 임시 감독으로 2009-2010 시즌 FA(잉글랜드 축구협회) 컵 우승을 이끌었다 .	PER-B O O O O ORG-B O O O O ORG-B O O O O O
-온라인 중앙일보 [사진 다음카카오 제공] '다음카카오 .	O ORG-B O ORG-B O ORG-B O
-지난달 ‘북한 테러 지원국 재지정’ 법안을 발의 하+ㄴ미 하원 외교위원회 테드 포공화당 의원도 최근 “김정남 암살의 배후가 북한으로 드러나면 즉각 테러지원국으로 재지정하는 절차에 나서+어야 하+ㄴ다”고 압박하였다 .	O ORG-B O O O O O ORG-B ORG-I ORG-I PER-B ORG-B O O PER-B O O ORG-B O O O O O O O O O
-1차관보 임창렬 씨/2차관보신명호씨 /재무부 인 .	O PER-B PER-B ORG-B O O
-따라서 제3자 뇌물이 성립하려면 박 전 대통령과 최씨 사이에 경제공동체 관계가 성립하고, 최씨가 재단의 돈을 개인 용도로 마음대로 꺼내+어쓰+ㄹ 수 있다는 두 가지 전제가 충족되+어야 하+ㄴ다 .	O O O O PER-B O O PER-B O O O O PER-B O O O O O O O O O O O O O O
+몸 이 완전 치 않 아 경기 에 뛰 진 못 했 어도 올스타 전 에 임하 는 자세 를 실천한 김희진 이 다 .	O O O O O O O O O O O O O O O O O O O O O PER-B O O O
+레버쿠젠 에 남 았 다면 류승우 는 또 다시 벤치 에 머무 는 시간 이 길 었 을 것 이 다 .	ORG-B O O O O PER-B O O O O O O O O O O O O O O O O
+‘ 하와 ’ 의 더블 타이틀 곡 중 하나 인 ‘ 애플 ( Apple ) ’ 은 음원 발매 후 멜론 , 엠넷 닷컴 , 올레 뮤직 , 지니 , 네이버 뮤직 등 에서 정상 을 차지 했 다 .	O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O ORG-B ORG-I O ORG-B O ORG-B ORG-I O O O O O O O O
+특히 이날 공개된 ' 파라다이스 로스트 ' 뮤직 비디오 에서 가인 은 몸매 가 강조된 의상 을 입 고 바닥 에 엎드리 는 등 과감한 안무 를 선보이 며 섹시 미 를 발산 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 서 제외되 는 것 은 은행 요구불 예금 금리 ( 4 단계 로 예정 ) 뿐 이 다 .	O O O O O O O O O O O O O O O O O O O O
+이런 상황 에서 방송 제작진 이 출판사 에 공문 을 보낸 것 은 동아일보 의 관련 보도 ( 11 월 17 일자 A 26 면 ) 에 대한 해명 의 의미 를 담 고 있 다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I O O O O O O O O O O O O O O O O
+현재 MBC 월 화 드라마 ‘ 빛나 거나 미치 거나 ’ 에 출연 중 인 장혁 은 바쁜 촬영 일정 에 도 아내 와 함께 출산 을 준비 중 이 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+박 반장 은 “ 운동 경기 를 좋아하 는 연예인 이 스트레스 를 해소하 기 위해 재미 삼 아 시작하 지만 결국 도박 에 중독되 는 사례 가 심심찮 다 ” 면서 “ 하 지 않 는 게 최선 ” 이라고 다시 한 번 강조 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+63 ml 2 만 1 천 원 . HIT ITEM 은 파우더 룸 ( cafe . naver . com / cosmania ) 과 여성동아 페이스북 ( www . facebook . com / thewomandonga ) 에서 도 보 실 수 있 습니다 .	O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사진 제공 랑콤 ( 080 - 022 - 3332 ) 메이크업포에버 ( 080 - 514 - 8942 ) 바비 브라운 ( 02 - 3440 - 2781 ) 스킨 푸드 ( 080 - 012 - 7878 ) 아리따움 ( 02 - 6080 - 9966 ) 에스 쁘 아 ( 080 - 619 - 8888 ) 유리 아주 ( 070 - 7091 - 6635 ) 이니스프리 ( 080 - 380 - 0114 ) 입생 로랑 ( 080 - 347 - 0089 ) 페리 페라 ( 080 - 080 - 1510 ) 디자인 이지은 editor 최은 초롱 기자	O O ORG-B O O O O O O O ORG-B O O O O O O O ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O ORG-B O O O O O O O ORG-B ORG-I ORG-I O O O O O O O ORG-B ORG-I O O O O O O O ORG-B O O O O O O O ORG-B ORG-I O O O O O O O ORG-B ORG-I O O O O O O O O PER-B O PER-B PER-I O
+팬 들 은 십시일반 정성 을 모으 고 그 위 에 이보미 가 온정 을 더해 주변 의 어려 운 이웃 들 에게 나눔 을 실천한다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+2008 년 문화재청 과 천연기념물 지킴이 협약 을 맺 고 수달 , 두루미 , 어름치 , 장수하늘소 등 멸종 위기 보호 종 을 선정해 전문 단체 의 보호 및 연구 활동 을 지원하 고 있 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+히딩크 감독 은 지난 2009 년 에 도 첼시 의 임시 감독 으로 2009 - 2010 시즌 FA ( 잉글랜드축구협회 ) 컵 우승 을 이끌 었 다 .	PER-B O O O DAT-B DAT-I O O ORG-B O O O O O O O O ORG-B O ORG-B O O O O O O O O
+온라인 중앙일보 [ 사진 다음카카오 제공 ] ' 다음카카오 '	O ORG-B O O ORG-B O O O ORG-B O
+지난달 ‘ 북한 테러 지원 국 재 지정 ’ 법안 을 발의한 미 하원 외교 위원회 테드 포 공화당 의원 도 최근 “ 김정남 암살 의 배후 가 북한 으로 드러나 면 즉각 테러 지원 국 으로 재 지정 하 는 절차 에 나서야 한다 ” 고 압박 했 다 .	O O ORG-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I PER-B PER-I ORG-B O O O O PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+1 차관보 임창렬 씨 / 2 차관보 신명호 씨 / 재무부 인사	O O PER-B O O O O PER-B O O ORG-B O
+따라서 제 3 자 뇌물 이 성립하 려면 박 전 대통령 과 최 씨 사이 에 경제 공동체 관계 가 성립하 고 , 최 씨 가 재단 의 돈 을 개인 용도 로 마음대로 꺼내 쓸 수 있 다는 두 가지 전제 가 충족돼야 한다 .	O O O O O O O O PER-B O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O

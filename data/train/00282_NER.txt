@@ -1,16 +1,16 @@
-외국인 주민은 조사를 처음 시행 하+ㄴ 2006년(53만6627명)에 비하+여 10년 동안 3배 이상 증가하였다 .	O O O O O O O O O O O O O O
-김태현 금융위 자본시장국장은 “대우조선해양, 대우건설 등 굴지의 대기업이 분식회계를 하고, 국내 2위 이+ㄴ 안진회계법인이 대규모 부실감사에 연루되 +ㄴ점을 감안하+ㄹ 때 현행 회계제도의 대폭적 이+ㄴ 변화가 불가피하다”고 취지를 설명하였다 .	PER-B ORG-B O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-박 대통령의 대구 방문이 불명확 하+ㄹ 때 한 여권 인사는 확신에 차+아 이렇게 말하였다 .	PER-B O LOC-B O O O O O O O O O O O O
-플랜 관계자는 “전 세계적으로 여기저기 떠돌거나 망명을 신청하는 사람들은 122명 중 1명 꼴”이라며 “이 숫자를 나라의 인구로 계산하+ㄴ다면 세계에서 24번째 크+ㄴ나라”라고 피력하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-요시 이 마사토니혼햄 투수코치가 “계속 저런식(시속 165km)으로 던지다가는 부상을 당하거나 체력이 크게 소진되 +ㄹ 수 있다 .	O O ORG-B O O O O O O O O O O O O O O
-직원 251명 참여… 9개 작품 시 .	O O O O O O O
-박씨는 “백화점을 찾았다가 인터넷에서 똑같은 모델이 3만원이나 더 싸+ㄴ 것 +ㄹ 알게 +었다”며 “굳이 백화점 구매를 고집하+ㄹ 필요는 없지 않냐”고 말하였다 .	PER-B O O O O O MNY-B O O O O O O O O O O O O O O O
-인터넷 결제 시스템페이팔로 억만장자가 되+ㄴ그는 테슬라와 우주 발사체 스페이스X, 재생에너지 기업이+ㄴ 솔라시티를 창업하였다 .	O O ORG-B O O ORG-B O O ORG-B O O ORG-B O O
-「매춘」 파동으로 활동이 정지되었던 극단 바탕골이 6년 만에 부활, 의욕적으로 무대에 올리+ㄴ이번 작품은 무용과 연극이라는 두 인접 장르가 모처럼 만에 서로 상승 효과를 내면서 성공적으로 어울리고 있다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-4위 정몽구 현대차그룹 회장은 올해 자산이 17.0%(9억8000만달러)나 줄어 48억달러(5조6000억원)에 그치었다 .	O PER-B ORG-B O O O MNY-B O MNY-B O O
-2011년에는 서 교수 연구실이 글로벌 핵심 선도연구센터(GCRC)로 선정되기도 +였다 .	O PER-B O O O O O O O O
-관정이 종환 교육재단은 이 명예회장이 2000년부터 사재 1조원을 출연하+여일구+ㄴ 국내 최대 규모의 장학재단이다 .	ORG-B O O PER-B PER-B O O MNY-B O O O O O O
-한국 롯데그룹은 지난해 4월 기준 총자산 91조7000억원으로 국내 재계 서열 7위를 차지하+ㄴ 반면 일본 롯데는 한국 롯데 규모의 10분의 1 수준이+ㄴ 것으로 추정되+ㄴ다 .	ORG-B ORG-I O O O O MNY-B O O O O O O ORG-B ORG-I ORG-B ORG-I O O O O O O O
-돌체앤가바나의 이번 2015FW 컬렉션은 어머니에서 영감을 얻었다 .	ORG-B O O O O O O O
-실제로 주변 아파트의 공실률은 1.33% 불과하다 .	O O O O O O O
-최근 증상이 호전되었고 21일 상무와 퓨처스 경기에 출전하+여3 타수 2안타를 기록하였다 .	O O O O ORG-B O O O O O O O
+외국인 주민 은 조사 를 처음 시행한 2006 년 ( 53 만 6627 명 ) 에 비해 10 년 동안 3 배 이상 증가 했 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+김태현 금융 위 자본 시장 국장 은 “ 대우조선해양 , 대우 건설 등 굴지 의 대기업 이 분식 회계 를 하 고 , 국내 2 위 인 안진회계법인 이 대규모 부실 감사 에 연루된 점 을 감안할 때 현행 회계 제도 의 대폭적 인 변화 가 불가피하 다 ” 고 취지 를 설명 했 다 .	PER-B ORG-B ORG-I O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 대통령 의 대구 방문 이 불명확할 때 한 여권 인사 는 확신 에 차 이렇 게 말 했 다 .	PER-B O O LOC-B O O O O O O O O O O O O O O O O O
+플랜 관계자 는 “ 전 세계 적 으로 여기저기 떠돌 거나 망명 을 신청하 는 사람 들 은 122 명 중 1 명 꼴 ” 이 라며 “ 이 숫자 를 나라 의 인구 로 계산한다면 세계 에서 24 번째 큰 나라 ” 라고 피력 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+요시이 마사토 니혼햄 투수 코치 가 “ 계속 저런 식 ( 시속 165 km ) 으로 던지 다가 는 부상 을 당하 거나 체력 이 크 게 소진될 수 있 다 .	PER-B PER-I ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+직원 251 명 참여 … 9 개 작품 시상	O O O O O O O O O
+박 씨 는 “ 백화점 을 찾 았 다가 인터넷 에서 똑같 은 모델 이 3 만 원 이나 더 싼 걸 알 게 됐 다 ” 며 “ 굳이 백화점 구매 를 고집할 필요 는 없 지 않 냐 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인터넷 결제 시스템 페이 팔 로 억만장자 가 된 그 는 테슬라 와 우주 발사 체 스페이스 X , 재생 에너지 기업 인 솔 라 시 티 를 창업 했 다 .	O O O ORG-B ORG-I O O O O O O ORG-B O O O O ORG-B ORG-I O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O
+「 매춘 」 파동 으로 활동 이 정지 됐 던 극단 바탕골 이 6 년 만 에 부활 , 의욕적 으로 무대 에 올린 이번 작품 은 무용 과 연극 이 라는 두 인접 장르 가 모처럼 만 에 서로 상승효과 를 내 면서 성공적 으로 어울리 고 있 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4 위 정몽구 현대차 그룹 회장 은 올해 자산 이 17.0 % ( 9 억 8000 만 달러 ) 나 줄 어 48 억 달러 ( 5 조 6000 억 원 ) 에 그 쳤 다 .	O O PER-B ORG-B ORG-I O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O
+2011 년 에 는 서 교수 연구실 이 글로벌 핵심 선도 연구 센터 ( GCRC ) 로 선정되 기 도 했 다 .	DAT-B DAT-I O O PER-B O O O O O O O O O O O O O O O O O O
+관정 이종환 교육 재단 은 이 명예 회장 이 2000 년 부터 사재 1 조 원 을 출연해 일군 국내 최대 규모 의 장학 재단 이 다 .	ORG-B ORG-I ORG-I ORG-I O PER-B O O O DAT-B DAT-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+한국 롯데그룹 은 지난해 4 월 기준 총 자산 91 조 7000 억 원 으로 국내 재계 서열 7 위 를 차지한 반면 일본 롯데 는 한국 롯데 규모 의 10 분 의 1 수준 인 것 으로 추정된다 .	ORG-B ORG-I O DAT-B DAT-I DAT-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O
+돌체 앤 가바나 의 이번 2015 FW 컬렉션 은 어머니 에서 영감 을 얻 었 다 .	ORG-B ORG-I ORG-I O O DAT-B O O O O O O O O O O O
+실제로 주변 아파트 의 공실률 은 1.33 % 불과하 다 .	O O O O O O O O O O O
+최근 증상 이 호전 됐 고 21 일 상무 와 퓨처스 경기 에 출전해 3 타수 2 안타 를 기록 했 다 .	O O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O

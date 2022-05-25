@@ -1,13 +1,13 @@
-수시 선발이 증가하면서 정시모집 인원은 지난해와 비교하+여 98명이 줄었다 .	O O O O O O O O O O
-한국은 탈북자 등 인적 정보(HUMINT)와 군사분계선 일대에서 포착하+ㄴ 대북 감청 정보를 일본에 제공하+ㄹ 수 있다 .	ORG-B O O O O O O O O O O ORG-B O O O O
-지나+ㄴ 시즌 첼시를 이끌다가 선수들과의 불화로 중도 사퇴하+ㄴ모리뉴 감독은 치욕적 이+ㄴ 패배를 당하면서 복수에 실패하였다 .	O O ORG-B O O O O PER-B O O O O O O O O
-상반기 중 국내 12만대 팔리+어 세계 1위… 구매자-제조사에 대규모 보조 .	O O O O O O O O O O O
-대리기사 폭행 혐의 김현 의원 기 .	O O O PER-B O O O
-▲ 강=『 북한 핵은 서방에서 보듯이 협상 카드용이 아니다 .	O PER-B ORG-B O O O O O O O
-차량에는 오션 멤버들과 매니저 등 5명이 탑승 하+여 있었다 .	O ORG-B O O O O O O O O
-“서울메트로 임직원 30명, 은성PSD 서억대 상품권 받아 .	ORG-B O O ORG-B O O O O
-kt가 자랑하는 불펜투수들은 각각 다른 공을 던지는 것처럼 사연도 제각각이다 .	ORG-B O O O O O O O O O O
-○… 국회 노동위 「돈 봉투」사건과 관련, 서울 서대문구 미근동에 살는 시민 김수영씨(48)가 29일 관련 의원들과 (주)한국자동차보험 간부들을 뇌물수수 등 혐의로 서울지검에 고발하였다 .	O ORG-B ORG-I O O O ORG-B LOC-B LOC-B O O ORG-B O O O ORG-B O O O O ORG-B O O
-왼손투수 상대 타율(0.294)보다 오른손 투수를 상대하+ㄴ 기록이 오히려 좋지 않다 .	O O O O O O O O O O O
-같은 기간 중국인의 소득 상승폭을 살펴보자. 중국 국가통계국에 따르면, 중국 도시지역의 평균 연봉은 2001년 10834위안에서 2015년 62029위안으로 늘었다 .	O O LOC-B O O O LOC-B ORG-I O LOC-B O O O O MNY-B O MNY-B O O
-야생진드기, 의료진 2차 감염 확진… 심폐소생술 중 .	O O O O O O O O
+수시 선발 이 증가하 면서 정시 모집 인원 은 지난해 와 비교해 98 명 이 줄 었 다 .	O O O O O O O O O O O O O O O O O O O
+한국 은 탈북자 등 인적 정보 ( HUMINT ) 와 군사 분계선 일대 에서 포착한 대북 감청 정보 를 일본 에 제공할 수 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+지난 시즌 첼시 를 이끌 다가 선수 들 과 의 불화 로 중도 사퇴한 모 리뉴 감독 은 치욕적 인 패배 를 당하 면서 복수 에 실패 했 다 .	O O ORG-B O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O
+상반기 중국 내 12 만 대 팔려 세계 1 위 … 구매자 - 제조사 에 대규모 보조금	O ORG-B O O O O O O O O O O O O O O O
+대리 기사 폭행 혐의 김현 의원 기소	O O O O PER-B O O
+▲ 강 = 『 북한 핵 은 서방 에서 보 듯이 협상 카드 용이 아니 다 .	O PER-B O O ORG-B O O O O O O O O O O O O
+차량 에 는 오션 멤버 들 과 매니저 등 5 명 이 탑승해 있 었 다 .	O O O ORG-B O O O O O O O O O O O O O
+“ 서울메트로 임직원 30 명 , 은성 PSD 서 억 대 상품권 받 아 ”	O ORG-B O O O O ORG-B ORG-I O O O O O O O
+kt 가 자랑하 는 불펜 투수 들 은 각각 다른 공 을 던지 는 것 처럼 사연 도 제각각 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+○ … 국회 노동 위 「 돈 봉투 」 사건 과 관련 , 서울 서대문구 미근동 에 사 는 시민 김수영 씨 ( 48 ) 가 29 일 관련 의원 들 과 ( 주 ) 한국자동차보험 간부 들 을 뇌물 수수 등 혐의 로 서울 지검 에 고발 했 다 .	O O ORG-B ORG-I ORG-I O O O O O O O O LOC-B LOC-B LOC-B O O O O PER-B O O O O O DAT-B DAT-I O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O ORG-B ORG-I O O O O O
+왼손 투수 상대 타율 ( 0.294 ) 보다 오른손 투수 를 상대한 기록 이 오히려 좋 지 않 다 .	O O O O O O O O O O O O O O O O O O O O
+같 은 기간 중국인 의 소득 상승 폭 을 살펴보 자 . 중국 국가 통계 국 에 따르 면 , 중국 도시 지역 의 평균 연봉 은 2001 년 10834 위안 에서 2015 년 62029 위안 으로 늘 었 다 .	O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O LOC-B O O O O O O DAT-B DAT-I MNY-B MNY-I O DAT-B DAT-I MNY-B MNY-I O O O O O
+야생 진드기 , 의료진 2 차 감염 확진 … 심폐 소생 술 중 에	O O O O O O O O O O O O O O

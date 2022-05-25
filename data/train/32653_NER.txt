@@ -1,12 +1,12 @@
-일본은 49.1로 지난해 순위 27위를 유지하였다 .	ORG-B O O O O O O
-이처럼 중국에서 뜨겁었던 인기를 안고 서울로 컴백 하+여 개최 하+ㄴ대회는 성공하였다 .	O LOC-B O O O LOC-B O O O O O O
-이세돌 5국, 黑으로 마지막 승부… 알파고의 ‘res ign(포기)’ 기 .	PER-B O O O O O O O O O
-삼성전자는 커넥티드 카용 전장사업에 적용하+ㄹ 수 있는 IT·모바일 기술과 각종 부품 사업을 보유하고 있지만 전장사업에 대하+ㄴ 노하우, 고객관계, 프로세스 등의 역량은 부족하+ㄴ편이었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-KCC가 소비자들이 페인트 색상을 쉽게 고르+ㄹ 수 있도록 안내하는 책자를 내놓았다 .	ORG-B O O O O O O O O O O O
-김관진 청와대 국가안보실장은 23일 한국형 전투기(KF-X) 사업과 관련, 미국으로부터 핵심 기술 이전이 안 되+ㄴ다는 사실을 보고받은 것+이 지난해 6월 이후 +이라고 밝히었다 .	PER-B ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O
-의무실장은 “환자의 상태와 여건, 의료진의 선호에 따르 아그약제의 선택은 다르+ㄹ 수 있을 것”이라며 “청와대의무실에서는 만약의 경우를 대비하여 응급상황에 신속히 처치 하+ㄹ 수 있도록 응급약품을 상황별 세트화시키+어휴대하고 보관하고 있다”고 전하였다 .	ORG-I ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
-피부 미용 시술에 사용되 +ㄴ다는 의혹을 받고 있는 리도카인에 대하+여서 +ㄴ열상 등 외상처치 시 통증 감소를 위하+ㄴ국소마취 용이라고 밝히었다 .	O O O O O O O O O O O O O O O O O O O O
-특히 청와대의무실장은 “리도카인은 대표적 이+ㄴ국소마취제”+이라면서 “피부 미용 시술에 더 자주 사용되 +ㄴ다는 말씀은 죄송하지만 저+의 소견으로는 납득하기 어렵으며 의무실에서는 피부미용 시술을 하+ㄹ 수도 없고 능력도 없다”고 강조하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-●확 달라 지+ㄴ 디자인과 주행 감성 ‘뉴 X1’ 이름 빼고 거의 모든 것이 바뀌+ㄴ 뉴 X1의 가장 크+ㄴ 변화 중 하나는 바로 디자인이다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-이후 네티즌들은 포털사이트 등에서 소진의 학력에 대하+ㄴ 검색을 +였고 이 과정에서 소진의 수시 합격인터뷰 기사가 현재 제기되 +ㄴ 의혹의 대상이 되+ㄴ 것이다 .	O O O O PER-B O O O O O O PER-B O O O O O O O O O O O
-한국 중견기업의 기술을 무단 도용하였다거나 기술자들과 기업을 통째로 사들이었다는 소식이 끊이지 않는다 .	LOC-B O O O O O O O O O O O O
+일본 은 49.1 로 지난해 순위 27 위 를 유지 했 다 .	ORG-B O O O O O O O O O O O O
+이 처럼 중국 에서 뜨거 웠 던 인기 를 안 고 서울 로 컴백해 개최한 대회 는 성공 했 다 .	O O LOC-B O O O O O O O O LOC-B O O O O O O O O O
+이세돌 5 국 , 黑 으로 마지막 승부 … 알파 고의 ‘ resign ( 포기 ) ’ 기대	PER-B O O O O O O O O O O O O O O O O O
+삼성전자 는 커넥티드 카 용 전장 사업 에 적용할 수 있 는 IT · 모바일 기술 과 각종 부품 사업 을 보유하 고 있 지만 전장 사업 에 대한 노하우 , 고객 관계 , 프로세스 등 의 역량 은 부족한 편 이 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KCC 가 소비자 들 이 페인트 색상 을 쉽 게 고를 수 있 도록 안내하 는 책자 를 내 놨 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+김관진 청와대 국가 안보 실장 은 23 일 한국 형 전투기 ( KF - X ) 사업 과 관련 , 미국 으로부터 핵심 기술 이전 이 안 된다는 사실 을 보고 받 은 게 지난해 6 월 이후 라고 밝 혔 다 .	PER-B ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+의무 실장 은 “ 환자 의 상태 와 여건 , 의료진 의 선호 에 따 라 그 약제 의 선택 은 다를 수 있 을 것 ” 이 라며 “ 청와대 의무실 에서 는 만약 의 경우 를 대비하 여 응급 상황 에 신속히 처치할 수 있 도록 응급 약품 을 상황 별 세트 화 시켜 휴대하 고 보관하 고 있 다 ” 고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+피부 미용 시술 에 사용된다는 의혹 을 받 고 있 는 리도카인 에 대해선 열상 등 외상 처치 시 통증 감소 를 위한 국소 마취 용 이 라고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 청와대 의무 실장 은 “ 리도카인 은 대표적 인 국소 마취제 ” 라면서 “ 피부 미용 시술 에 더 자주 사용된다는 말씀 은 죄송하 지만 제 소견 으로 는 납득하 기 어려 우며 의무실 에서 는 피부 미용 시술 을 할 수 도 없 고 능력 도 없 다 ” 고 강조 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+● 확 달라진 디자인 과 주행 감성 ‘ 뉴 X 1 ’ 이름 빼 고 거의 모든 것 이 바뀐 뉴 X 1 의 가장 큰 변화 중 하나 는 바로 디자인 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 네티즌 들 은 포털 사이트 등 에서 소진 의 학력 에 대한 검색 을 했 고 이 과정 에서 소진 의 수시 합격 인터뷰 기사 가 현재 제기된 의혹 의 대상 이 된 것 이 다 .	O O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+한국 중견 기업 의 기술 을 무단 도용 했 다 거나 기술자 들 과 기업 을 통째 로 사들 였 다는 소식 이 끊이 지 않 는다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

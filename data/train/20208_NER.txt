@@ -1,13 +1,13 @@
-견본주택은 서울 삼성동 지하철 9호선 삼성중앙역(5번 출구) 인근에서 이달 11일 문을 열 +ㄴ다 .	O LOC-B LOC-B O O LOC-B O O O O O O O O
-실제 신동주 전 부회장과 누나 신영자 롯데재단 이사장, 육촌형 신동인 롯데자이언츠 구단주 직무대행은 신동빈 회장이 일본 롯데홀딩스 대표이사에 오르+ㄴ 지난달 15일 서울 롯데호텔에 모이어 신동주 전 부회장 체제로 롯데그룹을 재편하자는 데 합의 하+ㄴ 것으로 확인되었다 .	O PER-B O O O PER-B ORG-B O O PER-B ORG-B O O PER-B O ORG-B ORG-B O O O O LOC-B LOC-I O PER-B O O O ORG-B O O O O O O O
-총 투구 수는 62개, 직구 최고 구속은 147km+이었다 .	O O O O O O O O O
-박씨는 “이번 여행은 (사진을) 찍기 위하+여떠나는 여행”이라며 “인생샷이 여러 장 나오면 페이스북을 시작하+ㄹ 생각”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O
-연구팀은 ＂설날에는 ＇새해 다이어트 결심 ＇을 하+ㄴ사람이 많았던 반면 추석은 상대적으로 다이어트를 잇어가기 어렵ㄴ 시기 때문 ＂이라고 분석하였습니다 .	O O O O O O O O O O O O O O O O O O O
-미 국무부는 16일 18억3000만달러(약 2조1594억원) 규모의 무기를 대만에 판매하기로 하고 의회에 통보하였다 .	ORG-B ORG-I O MNY-B MNY-B O O O O O O O O
-‘백종원 된장찌개’ 요리연구가 백종원의 된장찌개 레시피가 화제+이다 .	PER-B O O PER-B O O O O
-지나+ㄴ 23일 오후 방송되+ㄴtvN ‘집밥백 선생’에서 백종원은 4명의 제자에게 된장찌개 비법을 전수하였다 .	O O O O O O PER-B O O O O O O
-이날 백종원은 “된장찌개? 어렵게 생각하지 말+아라”면서 “만능된 장베이스를 충분히 끓이어+았다가 +어서 쓰시면 되+ㄴ다”고 밝히었다 .	O PER-B O O O O O O O O O O O O O
-또한 전북 군산과 울산에는 세계 조선업계 1위 이+ㄴ 현대중공업이 있다 .	O LOC-B LOC-B LOC-B O O O O ORG-B O O
-지난해 나경원·신의진 의원 도움으로 국회에서 토론회도 열었다 .	O PER-B O O O O O O
-한편 ‘프로듀사’는 야근은 일상, 밤샘은 옵션, 눈치와 체력으로 무장하+ㄴ KBS 예능국 PD들의 모습을 담은 100% 리얼 예능 드라마다 .	O O O O O O O O O ORG-B O O O O O O O O O
-오는 5월 15일 오후 9시 15분에 첫 방송되+ㄴ다 .	O O O O O O O O O
+견본 주택 은 서울 삼성동 지하철 9 호 선 삼성 중앙역 ( 5 번 출구 ) 인근 에서 이달 11 일 문 을 연다 .	O O O LOC-B LOC-B O O O O LOC-B LOC-I O O O O O O O O DAT-B DAT-I O O O O
+실제 신동주 전 부회장 과 누나 신영자 롯데 재단 이사장 , 육촌 형 신동인 롯데 자이언츠 구단주 직무 대행 은 신동빈 회장 이 일본 롯데홀딩스 대표이사 에 오른 지난달 15 일 서울 롯데호텔 에 모 여 신동주 전 부회장 체제 로 롯데그룹 을 재편하 자는 데 합의한 것 으로 확인 됐 다 .	O PER-B O O O O PER-B ORG-B ORG-I O O O O PER-B ORG-B ORG-I O O O O PER-B O O ORG-B ORG-I O O O O DAT-B DAT-I LOC-B LOC-I O O O PER-B O O O O ORG-B O O O O O O O O O O O
+총 투구 수 는 62 개 , 직구 최고 구속 은 147 km 였 다 .	O O O O O O O O O O O O O O O O
+박 씨 는 “ 이번 여행 은 ( 사진 을 ) 찍 기 위해 떠나 는 여행 ” 이 라며 “ 인생 샷 이 여러 장 나오 면 페이스북 을 시작할 생각 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+연구 팀 은 ＂ 설날 에 는 ＇ 새해 다이어트 결심 ＇ 을 한 사람 이 많 았 던 반면 추석 은 상대적 으로 다이어트 를 이 어 가 기 어려 운 시기 때문 ＂ 이라고 분석 했 습니다 .	O O O O DAT-B O O O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O
+미 국무부 는 16 일 18 억 3000 만 달러 ( 약 2 조 1594 억 원 ) 규모 의 무기 를 대만 에 판매하 기 로 하 고 의회 에 통보 했 다 .	ORG-B ORG-I O DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O ORG-B O O O O O O O O O O O O
+‘ 백종원 된장찌개 ’ 요리 연구가 백종원 의 된장찌개 레시피 가 화제 다 .	O PER-B O O O O PER-B O O O O O O O
+지난 23 일 오후 방송된 tvN ‘ 집 밥 백 선생 ’ 에서 백종원 은 4 명 의 제자 에게 된장찌개 비법 을 전수 했 다 .	O DAT-B DAT-I O O O O O O O O O O PER-B O O O O O O O O O O O O O
+이날 백종원 은 “ 된장찌개 ? 어렵 게 생각하 지 마라 ” 면서 “ 만능 된장 베이스 를 충분히 끓 여 놨 다가 퍼서 쓰 시 면 된다 ” 고 밝 혔 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 전북 군산 과 울산 에 는 세계 조선 업계 1 위 인 현대중공업 이 있 다 .	O LOC-B LOC-B O LOC-B O O O O O O O O ORG-B O O O O
+지난해 나경원 · 신의진 의원 도움 으로 국회 에서 토론회 도 열 었 다 .	O PER-B O PER-B O O O O O O O O O O O
+한편 ‘ 프로듀사 ’ 는 야근 은 일상 , 밤샘 은 옵션 , 눈치 와 체력 으로 무장한 KBS 예능 국 PD 들 의 모습 을 담 은 100 % 리얼 예능 드라마 다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+오 는 5 월 15 일 오후 9 시 15 분 에 첫 방송된다 .	O O DAT-B DAT-I DAT-I DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O

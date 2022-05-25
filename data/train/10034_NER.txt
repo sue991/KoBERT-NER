@@ -1,10 +1,10 @@
-조승국 대한전공의협의회(이하 대전협) 정책이 사의 반박이다 .	PER-B ORG-B ORG-B O O O O
-장기 수출신 국내 미전향자와 북한 가족사이에 현재 2건의 서신교환이 이루어지고 있는 것으로 밝혀지었다 .	O O O O ORG-B O O O O O O O O O
-이 경우, 당내 개혁파들은 민주화 세력들과 제휴, 보수파를 타도 하+ㄹ 가능성이 있으며, 이에 따르 아중국이 민주화의 길로 나아가 +ㄹ 가능성이 높다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O
-나영석 PD는 “눈빛만 보+아도서로의 생각을 알아채는 출연자들의 4박5일간 즐겁ㄴ 여행이 생생하게 담기 +ㄹ 예정이다” +이라며 “시청자들이 함께 편하게 즐기+ㄹ 수 있는 콘텐츠를 선보이기 위 하+여 노력하고 있다”라고 설명하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-3회 말과 5회 말 각각 2루수 땅볼과 삼진으로 물러나며 숨을 고르았지만, 4-5로 뒤지+ㄴ 7회 말에는 상대 우완투수 루크 호체바의 3구째 몸쪽 낮은 너클커브를 +어올리+어우익수 앞에 떨어지는 안타를 뽑았다 .	O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O
-‘최순실 세리머니’ 김희진 선수에 비난 확산… “한심하다” vs “비방 말+이라 .	O O PER-B O O O O O O O O
-한국의 학생운동이 이처럼 하나의 사상에 사로잡히 +어 인간을 도구화시키+ㄴ 것은 처음 있는 일이었습니다 .	ORG-B O O O O O O O O O O O O O
-[Money&Life] 교보생명, 노후자금 부족 하+ㄹ 때 +ㄴ? 사망보험금 미리 받아쓰자 .	O ORG-B O O O O O O O O O
-성소수자는 물론 그들과 연대하고 지지하는 이들은 트위터와 페이스북에 끝도 없는 검증의 글을 써내 +ㄹ 것이고, 언론들은 ‘트렌스젠더란 무엇이 +ㄴ가’ .	O O O O O O O O O O O O O O O O O O O O
-문재인 지지자들도 넘은 공격 …문재인 선대위 ‘안철수 비방지침’ 논란 .	PER-B O O O PER-B O PER-B O O O
+조승국 대한 전공의 협의회 ( 이하 대전 협 ) 정책 이사 의 반박 이 다 .	PER-B ORG-B ORG-I ORG-I O O ORG-B ORG-I O O O O O O O O
+장기수 출신 국내 미 전향 자 와 북한 가족 사이 에 현재 2 건 의 서신 교환 이 이루어지 고 있 는 것 으로 밝혀 졌 다 .	ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+이 경우 , 당내 개혁파 들 은 민주화 세력 들 과 제휴 , 보수파 를 타도할 가능성 이 있 으며 , 이 에 따 라 중국 이 민주화 의 길 로 나아갈 가능성 이 높 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+나영석 PD 는 “ 눈빛 만 봐도 서로 의 생각 을 알아채 는 출연자 들 의 4 박 5 일 간 즐거 운 여행 이 생생하 게 담길 예정 이 다 ” 라며 “ 시청자 들 이 함께 편하 게 즐길 수 있 는 콘텐츠 를 선보이 기 위해 노력하 고 있 다 ” 라고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 회 말 과 5 회 말 각각 2 루 수 땅볼 과 삼진 으로 물러나 며 숨 을 골 랐 지만 , 4 - 5 로 뒤진 7 회 말 에 는 상대 우완 투수 루크 호체바 의 3 구 째 몸 쪽 낮 은 너클 커브 를 퍼 올려 우익수 앞 에 떨어지 는 안타 를 뽑 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 최순실 세리머니 ’ 김희진 선수 에 비난 확산 … “ 한심하 다 ” vs “ 비방 말 라 ”	O O O O PER-B O O O O O O O O O O O O O O O
+한국 의 학생 운동 이 이 처럼 하나 의 사상 에 사로잡혀 인간 을 도구 화 시킨 것 은 처음 있 는 일 이 었 습니다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ Money & Life ] 교보생명 , 노후 자금 부족할 땐 ? 사망 보험금 미리 받 아 쓰 자 !	O O O O O ORG-B O O O O O O O O O O O O O O
+성 소수 자 는 물론 그 들 과 연대하 고 지지하 는 이 들 은 트위터 와 페이스북 에 끝 도 없 는 검증 의 글 을 써낼 것 이 고 , 언론 들 은 ‘ 트렌스젠더 란 무엇 인가 ’ ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문재인 지지자 들 도 넘 은 공격 … 문재인 선대위 ‘ 안철수 비방 지침 ’ 논란 도	PER-B O O O O O O O PER-B O O PER-B O O O O O

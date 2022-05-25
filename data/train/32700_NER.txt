@@ -1,15 +1,15 @@
-이 같은 상황에서 486급 노트북PC의 대거 등장은 노트북PC도 데스크탑 못하지 않은 고도의 성능을 갖추기 시작하었다는 것을 의미하+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-반성 끝이라는 한국당, 金배지 반환 .	O O ORG-B O O O
-상장 종목(1500여개) 중 1000여개 종목이 하한가(하루 변동제한폭±10%)를 기록하였다 .	O O O O O O O O O
-[MagazineD/Money&Bus iness] 폭염이 기+ㄴ 상생 마케 .	O O O O O O O
-정인아스카이다이빙 사고, "낙하산 펴지었으나 육지 착륙 못하고 수면으로 떨어지+어익사 .	PER-B O O O O O O O O O
-이렇게 생산하+ㄴ미역 2t가량을 판매 하+여 어촌계 회원가구당 평균 400만원 정도의 수입을 받는다 .	O O O O O O O O MNY-B O O O O
-“고민하+ㄹ 필요가 없었다”는 삼성이상 민 감독의 말처럼 라틀리프는 대부분의 구단이 뽑고 싶어 한 선수+이다 .	O O O ORG-B O O O PER-B O O O O O O O
-미래창조과학부는 28일 ‘2016년 국가연구개발 성과 평가 유공’ 포상 수여식을 경기국립과천과학관 상상홀에서 열고 과학기술인 97명과 3개 기관에 훈장과 포장을 수여하였다 .	ORG-B O O O O O O O O LOC-B LOC-I O O O O O O O O O
-프로야구 원년부터 지난해까지 7전 4선 승제로 치르어지는 한국시리즈에서 1, 2, 3차전을 연거푸 이기+ㄴ 경우는 7차례로 모두 3연승을 거두+ㄴ팀들이 한국시리즈 우승컵을 차지하였다 .	O O O O O O O LOC-B O O O O O O O O O O LOC-B O O O
-318전 179승 69무 70패승률 56.3%를 기록하면서 2차례 독일 분데스리가와 3번의 독일 프로축구 리그(DFL) 슈퍼컵, 독일 축구협회(DFB) 포칼 우승 1회로 팀을 이끌었다 .	O O O O O O O ORG-B ORG-I O ORG-B O O O ORG-B O O O O O O O
-꿈을 이루지 못하고 방황하는 젊은 층이 많은 것은 중국도 예외가 아니다 .	O O O O O O O O ORG-B O O O
-강원랜드는 17년 동안 도박중독과 그로 인하+ㄴ 사회적폐해를 줄이려고 심하+여+았다 .	ORG-B O O O O O O O O O
-은밀하+ㄴ 신체 부위를 보이어주는 음란 채팅을 하자고 속이 +ㄴ 뒤 대화 내용을 지인들에게 공개하겠다고 협박 하+여 돈을 받아내는 ‘몸캠 피싱’ 피해자가 이번에는 피의자가 되+어 같은 방법으로 250명이 넘는 남성들을 ‘낚아’ 오 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-효성 측은 2015년 신규 분양은 이달 말 광명역세권 오피스텔 616실을 시작으로 충남 공주에 아파트 476세대, 용인서천에 2개 단지 1071세대 등 전국에 1만여 세대 분양이 목표+이라고 밝히었다 .	ORG-B O O O O O O LOC-B O O O LOC-B LOC-B O O LOC-B O O O O O O O O O O O
-조사 대상이+ㄴ 당산, 잠실, 동호, 동작철교 등 4개의 지하철 전용 한 강철교는 서울교통의 핏줄이+ㄴ 지하철이 매일 오가는 교량들 .	O O LOC-B LOC-B LOC-B LOC-B O O O O O O LOC-B O O O O O O
+이 같 은 상황 에서 486 급 노트북 PC 의 대거 등장 은 노트북 PC 도 데스크탑 못 지 않 은 고도 의 성능 을 갖추 기 시작 했 다는 것 을 의미한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+반성 끝 이 라는 한국당 , 金 배 지 반환 쇼	O O O O ORG-B O O O O O O
+상장 종목 ( 1500 여 개 ) 중 1000 여 개 종목 이 하한가 ( 하루 변동 제한 폭 ± 10 % ) 를 기록 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ Magazine D / Money & Business ] 폭염 이긴 상생 마케팅	O O O O O O O O O O O O
+정인 아 스카이다이빙 사고 , " 낙하산 펴 졌 으나 육지 착륙 못하 고 수면 으로 떨어져 익사 "	PER-B PER-I O O O O O O O O O O O O O O O O O
+이렇 게 생산한 미역 2 t 가량 을 판매해 어촌계 회원 가구 당 평균 400 만 원 정도 의 수입 을 받 는다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+“ 고민할 필요 가 없 었 다 ” 는 삼성 이상민 감독 의 말 처럼 라틀리프 는 대부분 의 구단 이 뽑 고 싶 어 한 선수 다 .	O O O O O O O O O ORG-B PER-B O O O O PER-B O O O O O O O O O O O O O
+미래 창조 과학 부 는 28 일 ‘ 2016 년 국가 연구 개발 성과 평가 유공 ’ 포상 수여식 을 경기 국립 과천 과학관 상상 홀 에서 열 고 과학 기술인 97 명 과 3 개 기관 에 훈장 과 포장 을 수여 했 다 .	ORG-B ORG-I ORG-I ORG-I O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O
+프로 야구 원년 부터 지난해 까지 7 전 4 선승 제 로 치 러 지 는 한국 시리즈 에서 1 , 2 , 3 차 전 을 연거푸 이긴 경우 는 7 차례 로 모두 3 연승 을 거둔 팀 들 이 한국 시리즈 우승컵 을 차지 했 다 .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O
+318 전 179 승 69 무 70 패 승률 56.3 % 를 기록하 면서 2 차례 독일 분데스리가 와 3 번 의 독일 프로 축구 리그 ( DFL ) 슈퍼 컵 , 독일 축구 협회 ( DFB ) 포 칼 우승 1 회 로 팀 을 이끌 었 다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+꿈 을 이루 지 못하 고 방황하 는 젊 은 층 이 많 은 것 은 중국 도 예외 가 아니 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O
+강원랜드 는 17 년 동안 도박 중독 과 그 로 인한 사회적 폐해 를 줄이 려 고심해 왔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+은밀한 신체 부위 를 보 여 주 는 음란 채팅 을 하 자고 속인 뒤 대화 내용 을 지인 들 에게 공개하 겠 다고 협박해 돈 을 받 아 내 는 ‘ 몸캠피싱 ’ 피해자 가 이번 에 는 피의자 가 돼 같 은 방법 으로 250 명 이 넘 는 남성 들 을 ‘ 낚 아 ’ 오 다	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+효성 측 은 2015 년 신규 분양 은 이달 말 광명 역세권 오피스텔 616 실 을 시작 으로 충남 공주 에 아파트 476 세대 , 용인 서천 에 2 개 단지 1071 세대 등 전국 에 1 만 여 세대 분양 이 목표 라고 밝 혔 다 .	ORG-B O O DAT-B DAT-I O O O O O LOC-B O O O O O O O LOC-B LOC-B O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O
+조사 대상 인 당산 , 잠실 , 동호 , 동작 철교 등 4 개 의 지하철 전용 한강철교 는 서울 교통 의 핏줄 인 지하철 이 매일 오가 는 교량 들 .	O O O LOC-B O LOC-B O LOC-B O LOC-B LOC-I O O O O O O LOC-B O LOC-B O O O O O O O O O O O O

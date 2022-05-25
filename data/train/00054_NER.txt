@@ -1,11 +1,11 @@
-미국의 MR 전문 스타트업 매직 리프는 2014년 구글과 퀄컴 등으로부터 5억4200만달러를 투자받은 데 잇어 지나 +ㄴ 2월 중국의 알리바바 등으로부터 IT기업 역사상 최대 규모 이+ㄴ 7억9350만달러(약 9000억원)를 추가 유치하였다 .	LOC-B O O O ORG-B ORG-I O ORG-B ORG-B O MNY-B O O O O O O LOC-B ORG-B O O O O O O MNY-B MNY-B O O O
-이혜훈 의원은 국정농단 사태가 언론에서 제기되 +ㄴ이후 청와대가 10월 22일 작성 하+ㄴ 대응 문건을 보이어주며 "문건에서 '미르와 K스포츠재단은 법적 문제가 없으니 전면 부인하라'고 하는데 이는 위증을 교사하고 사실을 은폐하+ㄴ 것"이라고 추궁하였다 .	PER-B O O O O O O ORG-B O O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O O
-잠시 뒤 중절모를 쓰고 오른손에 지팡이를 쥐 +ㄴ 70대 남성이 모텔에서 나오자 여성이 다가가 +았다 .	O O O O O O O O O O O O O O O O
-생태지평 연구소명호 사무처장은 “새만금호수 수질개선이 정말 가능하+ㄴ지엄밀하게 분석하+ㄴ 다음 불가능하다면 해수 유통을 전제로 개발계획을 다시 짜+아야 하+ㄹ 때”라고 지적하였다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-주용기 전북대 전임 연구원은 “우리나라가 과거처럼 급속하+ㄴ 경제성장을 계속 하+ㄹ 것으로 기대하기 어렵ㄴ 만큼 새만금에서 대규모 개발사업을 한꺼번에 진행하기보다는 경제상황에 맞게 그때그때 소규모로 필요하+ㄴ만큼 사업을 진행하+여나가 +ㄹ 필요가 있다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-킥보드에서는 납이 기준치보다 최대 160배 넘게 나오았다 .	O O O O O O O O
-이는 최근 5년간 같은 기간 대비 가장 많은 물량으로 2012년부터 2016년까지의 1분기 평균 분양 물량이 +ㄴ 4만 943가구보다 약 3만4000여 가구가 많다 .	O O O O O O O O O O O O O O O O O O O O O O O
-김정남의 ‘두 집 살림’과 관련, 이 원장은 “김정남은 (여전히) 상당 하+ㄴ자산가”라고 보고하였다고 하+ㄴ다 .	PER-B O O O O PER-B O PER-B O O O O O O
-이철우 국회 정보위원장도 브리핑에서 “김정남이 그전(장성택 처형 전)에 많이 준비 하+ 여자금 문제는 불편 하+ㄴ점이 없었을 것”이라고 말하였다 .	PER-B O O O PER-B PER-B O O O O O O O O O O O O O
-‘1966년 6월 어느 날.조중훈은 베트남 퀴 논항에서 미국 화물선의 하역을 지켜보며 넋을 잃었다 .	O O O PER-B LOC-B O O ORG-B O O O O O O
-경남도는 과거에도 정년을 조금 남기+어두거나 퇴직하+ㄴ 공무원을 도립대 총장으로 보내+어 비판을 받았다 .	ORG-B O O O O O O O O O O O O
+미국 의 MR 전문 스타트 업 매직 리프 는 2014 년 구글 과 퀄컴 등 으로부터 5 억 4200 만 달러 를 투자 받 은 데 이 어 지난 2 월 중국 의 알리바바 등 으로부터 IT 기업 역사상 최대 규모 인 7 억 9350 만 달러 ( 약 9000 억 원 ) 를 추가 유치 했 다 .	LOC-B O O O O O ORG-B ORG-I O DAT-B DAT-I ORG-B O ORG-B O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O DAT-B DAT-I LOC-B O ORG-B O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O
+이혜훈 의원 은 국정 농단 사태 가 언론 에서 제기된 이후 청와대 가 10 월 22 일 작성한 대응 문건 을 보 여 주 며 " 문건 에서 ' 미르 와 K 스포츠 재단 은 법적 문제 가 없 으니 전면 부인하 라 ' 고 하 는데 이 는 위증 을 교사 하 고 사실 을 은폐한 것 " 이라고 추궁 했 다 .	PER-B O O O O O O O O O O ORG-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+잠시 뒤 중절모 를 쓰 고 오른손 에 지팡이 를 쥔 70 대 남성 이 모텔 에서 나오 자 여성 이 다가갔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+생태 지평 연구소 명호 사무처 장 은 “ 새만금 호수 수질 개선 이 정말 가능한지 엄밀하 게 분석한 다음 불가능하 다면 해수 유통 을 전제 로 개발 계획 을 다시 짜야 할 때 ” 라고 지적 했 다 .	ORG-B ORG-I ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주용기 전북대 전임 연구원 은 “ 우리나라 가 과거 처럼 급속한 경제 성장 을 계속할 것 으로 기대하 기 어려 운 만큼 새만금 에서 대규모 개발 사업 을 한꺼번에 진행하 기 보다 는 경제 상황 에 맞 게 그때그때 소규모 로 필요한 만큼 사업 을 진행해 나갈 필요 가 있 다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+킥보드 에서 는 납 이 기준치 보다 최대 160 배 넘 게 나 왔 다 .	O O O O O O O O O O O O O O O O
+이 는 최근 5 년 간 같 은 기간 대비 가장 많 은 물량 으로 2012 년 부터 2016 년 까지 의 1 분기 평균 분양 물량 인 4 만 943 가구 보다 약 3 만 4000 여 가구 가 많 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김정남 의 ‘ 두 집 살림 ’ 과 관련 , 이 원장 은 “ 김정남 은 ( 여전히 ) 상당한 자산가 ” 라고 보고 했 다고 한다 .	PER-B O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O
+이철우 국회 정보 위원장 도 브리핑 에서 “ 김정남 이 그전 ( 장성택 처형 전 ) 에 많이 준비해 자금 문제 는 불편한 점 이 없 었 을 것 ” 이라고 말 했 다 .	PER-B O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+‘ 1966 년 6 월 어느 날 . 조중훈 은 베트남 퀴논 항 에서 미국 화물선 의 하역 을 지켜보 며 넋 을 잃 었 다 .	O DAT-B DAT-I DAT-I DAT-I O O O PER-B O LOC-B LOC-B LOC-I O ORG-B O O O O O O O O O O O O
+경남도 는 과거 에 도 정년 을 조금 남겨 두 거나 퇴직한 공무원 을 도립 대 총장 으로 보내 비판 을 받 았 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O

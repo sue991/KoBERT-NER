@@ -1,16 +1,16 @@
-광복군이 독립을 염원하며 서명하+ㄴ 임시의정원 태극기를 재현하+여애국선열에 대하+ㄴ감사, 통일에 대하+ㄴ염원 등 시민들의 메시지가 적히 +어 있다 .	ORG-B O O O O O O O O O O O O O O O O
-[멘털 갑] 최태웅 감독은 어떻게 선수 마음을 사로잡았 .	O O PER-B O O O O O O
-1차 캠프를 마무리 하+ㄴ이 감독은 “훈련 때 예의와 자세 등의 중요성에 대하+여서 항상 강조하고 있는데 선수들이 잘 이해하+여주고 행동으로 보이어주고 있다 .	O O O PER-B O O O O O O O O O O O PER-B O LOC-B O O O O
-[비즈 칼럼] 면세점 시장 독과점, 경쟁구조로 바꾸 .	O O O O O O O O
-5회에도 2사 후에 2루수 땅볼로, 2-11로 뒤지+ㄴ 8회에는 선두 타자로 타석에 들어서+어2루수 땅볼로 아웃+되었다 .	O O O O O O O O O O O O O O O
-해양수산부가 주최하고 채널A와 동아일보가 주관 하+ㄴ이 행사에서 항만 개발 전문가들의 열띠+ㄴ토론이 이어지었다 .	ORG-B O ORG-B O O O O O O O O O O
-피해자에 1억여원 규모 요금 감 .	O MNY-B O O O O
-아베 내각의 지지율은 최근 여론조사에서 61%(요미우리신문), 66%(니혼게이자이신문) 등으로 60%대의 고공행진을 잇어가고 있다 .	ORG-B ORG-I O O O ORG-B ORG-B O O O O O O
-지금까지 11곳의 분만시설이 선정되었다 .	O O O O O
-이들 기업 최고경영자(CEO)가 37개 모든 학과별로 산학협의체에 참여하+ㄴ다 .	O O O O O O O O O
-한편, 17일 방송되+ㄴ ‘히든싱어4’에서는 ‘노래방 대통령’ 버즈의 보컬 민경훈 편이 전파를 타+았다 .	O O O O O O ORG-B O PER-B O O O O
-10년 전 SK에 입단 하+ㄴ 첫해 그는 ‘1’ 하+ㄹ(0.193) 타자+이었다 .	O O ORG-B O O O O O O O O
-9월 2~4일 訪中…한중 정상회 .	O O ORG-B O O
-특히 한국처럼 비정규직 비율(올해 3월 기준 32%)이 높아 노동시장의 이중구조가 심하+ㄴ 국가 이+ㄹ수록 개혁으로 인하+ㄴ 단기적 고용손실이 작다는 분석도 나오았다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
-북한이 열병식에 전략무기들을 총동원 하+ㄴ 것은 도널드 트럼프 미국 행정부의 거세지는 대북 압박에 굴복하지 않겠다는 의지와 대미(對美) 군사적 대결을 불사하겠다는 메시지를 대내외에 과시하고 내부 결속을 다지려는 의도로 보이+ㄴ다 .	ORG-B O O O O O PER-B PER-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
-당시 박경림이 이상형 월드컵을 제안하자고준희는 수많은 미남스타들을 제치고 최종적으로 여진구를 선택하였다.이에 박경림은 "여진구를 뽑은 이유가 뭐 +이냐"고 묻었고 고준희는 "나이가 어리+ㄴ 데도 남자 느낌이나 +ㄴ다"고 답하였다 .	O PER-B O O PER-B O O O O PER-B O PER-B PER-B O O O O O PER-B O O O O O O O O
+광복군 이 독립 을 염원하 며 서명한 임시 의정원 태극기 를 재현해 애국선열 에 대한 감사 , 통일 에 대한 염원 등 시민 들 의 메시지 가 적혀 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 멘털 갑 ] 최태웅 감독 은 어떻 게 선수 마음 을 사로잡 았 나	O O O O PER-B O O O O O O O O O O
+1 차 캠프 를 마무리한 이 감독 은 “ 훈련 때 예의 와 자세 등 의 중요성 에 대해서 항상 강조하 고 있 는데 선수 들 이 잘 이해해 주 고 행동 으로 보 여 주 고 있 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O
+[ 비즈 칼럼 ] 면세점 시장 독과점 , 경쟁 구조 로 바꾸 자	O O O O O O O O O O O O O
+5 회 에 도 2 사 후 에 2 루 수 땅볼 로 , 2 - 11 로 뒤진 8 회 에 는 선두 타자 로 타석 에 들어서 2 루 수 땅볼 로 아웃 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+해양수산부 가 주최하 고 채널 A 와 동아일보 가 주관한 이 행사 에서 항만 개발 전문가 들 의 열띤 토론 이 이어 졌 다 .	ORG-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+피해자 에 1 억 여 원 규모 요금 감면	O O MNY-B MNY-I MNY-I MNY-I O O O
+아베 내각 의 지지율 은 최근 여론 조사 에서 61 % ( 요미우리신문 ) , 66 % ( 니혼게이자이신문 ) 등 으로 60 % 대 의 고공 행진 을 이 어 가 고 있 다 .	ORG-B ORG-I O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O
+지금 까지 11 곳 의 분만 시설 이 선정 됐 다 .	O O O O O O O O O O O O
+이 들 기업 최고 경영자 ( CEO ) 가 37 개 모든 학과 별 로 산학 협의 체 에 참여한다 .	O O O O O O O O O O O O O O O O O O O O O
+한편 , 17 일 방송된 ‘ 히든 싱어 4 ’ 에서 는 ‘ 노래방 대통령 ’ 버즈 의 보컬 민경훈 편 이 전파 를 탔 다 .	O O DAT-B DAT-I O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O
+10 년 전 SK 에 입단한 첫 해 그 는 ‘ 1 ’ 할 ( 0.193 ) 타자 였 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O
+9 월 2 ~ 4 일 訪中 … 한중 정상 회담	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O ORG-B O O
+특히 한국 처럼 비정규 직 비율 ( 올해 3 월 기준 32 % ) 이 높 아 노동시장 의 이중 구조 가 심한 국가 일수록 개혁 으로 인한 단기 적 고용 손실 이 작 다는 분석 도 나 왔 다 .	O ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+북한 이 열병식 에 전략 무기 들 을 총동원한 것 은 도널드 트럼프 미국 행정부 의 거세지 는 대북 압박 에 굴복하 지 않 겠 다는 의지 와 대미 ( 對美 ) 군사적 대결 을 불사하 겠 다는 메시지 를 대내외 에 과시하 고 내부 결속 을 다지 려는 의도 로 보인다 .	ORG-B O O O O O O O O O O PER-B PER-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당시 박경림 이 이상형 월드컵 을 제안하 자 고준희 는 수많 은 미남 스타 들 을 제치 고 최종적 으로 여진구 를 선택 했 다 . 이 에 박경림 은 " 여진구 를 뽑 은 이유 가 뭐 냐 " 고 물 었 고 고준희 는 " 나이 가 어린데 도 남자 느낌 이 난다 " 고 답 했 다 .	O PER-B O O O O O O PER-B O O O O O O O O O O O PER-B O O O O O O O PER-B O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O

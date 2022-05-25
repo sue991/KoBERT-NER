@@ -1,11 +1,11 @@
-한편 ‘휴먼다큐’는 매년 사랑이라는 주제를 통하+여 인간 내면의 가치와 진정 하+ㄴ 삶의 의미를 되새기는 프로그램으로 올해 총 5부작으로 기획되었다 .	O O O O O O O O O O O O O O O O O O O O
-뉴코아 강남점 화재 진화 완료… 700여명 긴급 대피·인부 2명 병원 이 .	LOC-B LOC-I O O O O O O O O O O
-‘비정상회담’ 진중권 “이슬라모포비아 방지, 테러대책 되+ㄹ 수 있다 .	O O O O O O O O O
-경비단은 특히 지난달 1일부터 캔류재활용을 위하+여휴게실, 연무관, 식당 등 캔 수요가 많은 5곳에 캔 자동 압축기를 설치하였고 지난달 5일부터는 우유팩과 폐지도 따로 모으아 열흘 만에 1백60여㎏을 수거하는 실적을 올리었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-한 화면에 여러 개의 스티커 메모를 생성하는 것도 가능하다 .	O O O O O O O O O O
-2PM '우리집' 뮤비 속 신데렐라는 미코 출신 김유미… '콜라병 몸매' 후 .	ORG-B O O O O O O PER-B O O O O
-그는 『서울에서 너무 떨어지면 주택 분양이 곤란하+여지는 문제가 있으므로 가깝ㄴ 곳에 5백만∼6백만평이+ㄴ 분당이나 일산보다 크게 건설하는 것+이 바람직하다』고 말하였다 .	O LOC-B O O O O O O O O O O LOC-B LOC-B O O O O O O
-현재는 의회가 국민 고통에 답을 주지 못하고 상대를 향하+여미움과 저주 퍼붓는 나라가 대한민국이다 .	O O O O O O O O O O O O ORG-B O
-강예원의 지인들은 “눈 안 보이고, 귀 안 들리는 것 걱정되+ㄴ다 .	PER-B O O O O O O O O O O
-혼자 살는 아들(월수입 160만원)은 어머니를 챙기지 못하+ㄴ다 .	O O O MNY-B O O O O
-슈틸리케호, 월드컵 최종 예선톱시드 확보 실 .	ORG-B O O O O O O
+한편 ‘ 휴먼 다큐 ’ 는 매년 사랑 이 라는 주제 를 통해 인간 내면 의 가치 와 진정한 삶 의 의미 를 되새기 는 프로그램 으로 올해 총 5 부 작 으로 기획 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+뉴코아 강남 점 화재 진화 완료 … 700 여 명 긴급 대피 · 인부 2 명 병원 이송	LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O
+‘ 비정상 회담 ’ 진중권 “ 이슬라 모 포비아 방지 , 테러 대책 될 수 있 다 ”	O O O O O O O O O O O O O O O O O O
+경비 단 은 특히 지난달 1 일 부터 캔 류 재활용 을 위해 휴게실 , 연무관 , 식당 등 캔 수요 가 많 은 5 곳 에 캔 자동 압축기 를 설치 했 고 지난달 5 일 부터 는 우유 팩 과 폐지 도 따로 모 아 열흘 만 에 1 백 60 여 ㎏ 을 수거하 는 실적 을 올 렸 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 화면 에 여러 개 의 스티커 메모 를 생성하 는 것 도 가능하 다 .	O O O O O O O O O O O O O O O O
+2 PM ' 우리 집 ' 뮤 비 속 신데렐라 는 미코 출신 김유미 … ' 콜라 병 몸매 ' 후끈	ORG-B ORG-I O O O O O O O O O O O PER-B O O O O O O O
+그 는 『 서울 에서 너무 떨어지 면 주택 분양 이 곤란해 지 는 문제 가 있 으므로 가까 운 곳 에 5 백만 ∼ 6 백만 평 인 분당 이나 일산 보다 크 게 건설하 는 게 바람직하 다 』 고 말 했 다 .	O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O
+현재 는 의회 가 국민 고통 에 답 을 주 지 못하 고 상대 를 향해 미움 과 저주 퍼붓 는 나라 가 대한민국 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O
+강예원 의 지인 들 은 “ 눈 안 보이 고 , 귀 안 들리 는 거 걱정된다 .	PER-B O O O O O O O O O O O O O O O O O
+혼자 사 는 아들 ( 월 수입 160 만 원 ) 은 어머니 를 챙기 지 못한다 .	O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+슈틸리케 호 , 월드컵 최종 예선 톱 시드 확보 실패	ORG-B ORG-I O O O O O O O O

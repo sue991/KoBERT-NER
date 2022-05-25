@@ -1,14 +1,14 @@
-현대모비스는 글로벌 핵심 인재 육성을 목표로 유능하+ㄴ 직원을 조기에 선발하+여 업무와 외국어 능력을 집중적으로 향상시키+어 해외 주재원으로 보내고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-2019년까지 융합 신제품 개발계 .	O O O O O
-미래에 +ㄴ 후원금 5000만원, 책 2260권 기 증월드비전은 지나 +ㄴ 24일 교육출판기업 미래엔으로부터 후원금 5000만원과 책 2260권을 받는 행사를 열었다 .	O O O MNY-B O O O ORG-B O O O O ORG-B MNY-I MNY-B O O O O O O
-GS25도 PB제품이+ㄴ ‘유어 스얼음컵’, ‘유어스 함 박웃음 맑은샘물’(2L)이 1위와 2위를 차지하였다 .	ORG-B O O O O O O O O O O O
-자본주의가 무엇이 +ㄴ지 이해하+ 여빈혈에 걸리+ㄴ 한국경제가 다시 힘을 얻도록 노력 하+여주기+ㄹ바라는 마음으로 책을 +었습니다 .	O O O O O O LOC-B O O O O O O O O O
-이는 그리스 국내총생산(GDP)의 1.51%에 해당 하+ㄴ다 .	O ORG-B O O O O O
-치사율은 1% 미만이지만 확산력이 높다 .	O O O O O O
-감염 경로감염되+ㄴ사람의 기침·재채기 등을 통하+여 약 2m 이내에서 전파되는 것이 일반적이다 .	O O O O O O O O O O O O
-‘냉장고를 부탁하+여’ 오세득-최현석, 상의 탈의 하+ㄴ 채팔+ㄴ다 -호랑이 마스크팩… ‘매력 돋네’ ‘냉장고를 부탁하+여’가 새롭ㄴ 셰프오세득의 등장을 예고하+ㄴ 가운데, 오세득 셰프와 최현석 셰프의 마스크 팩 인증샷이 주목받았다 .	O O PER-B O O O O O O O O O O O PER-B O O O PER-B O PER-B O O O O O O
-최현석은 11일 자신의 인스타그램에 “판 .	PER-B O O O O O
-이번 지진으로 보령 인근 지역이+ㄴ 부여를 비롯하+여홍성, 태안, 서천과 80㎞가량 떨어지+ㄴ 당진지역을 비롯하+여나아가 +아경기 남부지역이+ㄴ이천, 안산, 용인 등에서 진동을 느끼었다는 신고가 접수되었다 .	LOC-B O LOC-B O LOC-B LOC-B LOC-B LOC-B LOC-B O O LOC-B O LOC-B LOC-B LOC-B LOC-B O O O O O O
-상반기 은행 업무 이익 2조9백억 / 작년 비88% 늘 .	O O O O MNY-B O O O O O
-21일 서울중앙지법에서 조영남의 그림대작사기 혐의 2차 공판이 진행되었다 .	O ORG-B PER-B O O O O O O
-이에 따르 아이들 사건에 대하+ㄴ 용어나 설명은 6월 말까지 마련되는 최종 준거안에서는 빠지게 +었다 .	O O O O O O O O O O O O O O O
+현대모비스 는 글로벌 핵심 인재 육성 을 목표 로 유능한 직원 을 조기 에 선발해 업무 와 외국어 능력 을 집중적 으로 향상 시켜 해외 주재원 으로 보내 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2019 년 까지 융합 신제품 개발 계획	DAT-B DAT-I O O O O O
+미래 엔 후원금 5000 만 원 , 책 2260 권 기증 월드비전 은 지난 24 일 교육 출판 기업 미래엔 으로부터 후원금 5000 만 원 과 책 2260 권 을 받 는 행사 를 열 었 다 .	O O O MNY-B MNY-I MNY-I O O O O O ORG-B O DAT-B DAT-I DAT-I O O O ORG-B O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O
+GS 25 도 PB 제품 인 ‘ 유어스 얼음 컵 ’ , ‘ 유어스 함박웃음 맑은샘 물 ’ ( 2 L ) 이 1 위 와 2 위 를 차지 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자본주의 가 무엇 인지 이해해 빈혈 에 걸린 한국 경제 가 다시 힘 을 얻 도록 노력해 주 길 바라 는 마음 으로 책 을 썼 습니다 .	O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+이 는 그리스 국내총생산 ( GDP ) 의 1.51 % 에 해당한다 .	O O ORG-B O O O O O O O O O O
+치사율 은 1 % 미만 이 지만 확산 력 이 높 다 .	O O O O O O O O O O O O O
+감염 경로 감염된 사람 의 기침 · 재채기 등 을 통해 약 2 m 이내 에서 전파되 는 것 이 일반적 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 냉장고 를 부탁해 ’ 오세득 - 최현석 , 상 의 탈의한 채 판다 - 호랑이 마스크 팩 … ‘ 매력 돋 네 ’ ‘ 냉장고 를 부탁해 ’ 가 새로 운 셰프 오세득 의 등장 을 예고한 가운데 , 오세득 셰프 와 최현석 셰프 의 마스크 팩 인증 샷 이 주목 받 았 다 .	O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O PER-B O O PER-B O O O O O O O O O O O O
+최현석 은 11 일 자신 의 인스타그램 에 “ 판다	PER-B O DAT-B DAT-I O O O O O O
+이번 지진 으로 보령 인근 지역 인 부여 를 비롯해 홍성 , 태안 , 서천 과 80 ㎞ 가량 떨어진 당진 지역 을 비롯해 나아가 경기 남부 지역 인 이 천 , 안산 , 용인 등 에서 진동 을 느 꼈 다는 신고 가 접수 됐 다 .	O O O LOC-B O O O LOC-B O O LOC-B O LOC-B O LOC-B O O O O O LOC-B O O O O LOC-B O O O LOC-B LOC-I O LOC-B O LOC-B O O O O O O O O O O O O O
+상반기 은행 업무 이익 2 조 9 백 억 / 작년 비 88 % 늘 어	O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O
+21 일 서울중앙지법 에서 조영남 의 그림 대작 사기 혐의 2 차 공판 이 진행 됐 다 .	DAT-B DAT-I ORG-B O PER-B O O O O O O O O O O O O O
+이 에 따 라 이 들 사건 에 대한 용어 나 설명 은 6 월 말 까지 마련되 는 최종 준거 안 에서 는 빠지 게 됐 다 .	O O O O O O O O O O O O O DAT-B DAT-I DAT-I O O O O O O O O O O O O O

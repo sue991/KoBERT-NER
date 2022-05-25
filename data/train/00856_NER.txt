@@ -1,12 +1,12 @@
-한편 이날 배수정은 ‘ThinkingOutLoud’ 노래를 부르며 출연진들을 감동시키었다 .	O O PER-B O O O O O O
-입학 하+ㄴ 뒤에도 20여 가지의 장학 및 보훈혜택이 마련되어 있다 .	O O O O O O O O O O O
-23일 시민단체 ‘사교육걱정없는세상(사걱세)’은 ‘개정 수학 교과서 현장검토본 분석 결과’ 기자회견을 열고 “졸속으로 개발되+ㄴ 현행 검토본의 내용을 대폭 수정하라”고 요구하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O
-안 전 대표는 지나 +ㄴ 5월 3일부터 매주 3회씩 의원들과 ‘공부 모임’ 성격의 워크숍을 진행하+여+았다 .	PER-B O O O O O O O O O O O O O O O
-최 감독은 “이번 대회를 치르면 우리가 지니+ㄴ 약점이 더욱 극명하게 드러나 +ㄹ 것이다 .	PER-B O O O O O O O O O O O O O
-기타사항으로 상을 받은 것+ㄴ13명이었다 .	O O O O O
-한편 보건복지부는 6일 효행자 등 37명(단체 2곳 포함)에게 훈ㆍ포장을 수여하+ㄴ다고 밝히었다 .	O ORG-B O PER-B O O O O O O O O
-그 결과 17분 이상 걸리는 사람은 일찍 잠들+ㄴ사람보다 고혈압에 걸리+ㄹ 확률이 무려 4배나 더 높은 것으로 나타나 +았다 .	O O O O O O O O O O O O O O O O O O O
-"인테리어·가구 분야까지 확산 다양 하+ㄴ 소재, 개성 넘치는 디자인 실용성 갖추+ㄴ 제품 속속 선뵈+어"지나 +ㄴ 22일 오전 서울대흥동의 한 상가건물 2층.20~30대 여성들이 탁자에 둘러앉아 아이디어 회의를 +였다 .	O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
-그는 선거 때 새누리당 김문수 후보에 대하+ㄴ 지지선언을 +였다 .	O O O ORG-B PER-B O O O O O
-IFAB의 결정에 따르 아FIFA도 지나 +ㄴ 7월 국제축구대회에서 GPS를 자율적으로 사용하도록 +였다 .	ORG-B O O ORG-B O O O O O O O O O
-“무한도전 최시원 포춘쿠키, 깜짝 놀라 +았다” 등의 반응을 보이었다 .	O PER-B O O O O O O O O
+한편 이날 배수정 은 ‘ Thinking Out Loud ’ 노래 를 부르 며 출연진 들 을 감동 시 켰 다 .	O O PER-B O O O O O O O O O O O O O O O O O O
+입학한 뒤 에 도 20 여 가지 의 장학 및 보훈 혜택 이 마련되 어 있 다 .	O O O O O O O O O O O O O O O O O O
+23 일 시민 단체 ‘ 사 교육 걱정 없 는 세상 ( 사 걱세 ) ’ 은 ‘ 개정 수학 교과서 현장 검토 본 분석 결과 ’ 기자 회견 을 열 고 “ 졸속 으로 개발된 현행 검토 본 의 내용 을 대폭 수정하 라 ” 고 요구 했 다 .	DAT-B DAT-I O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+안 전 대표 는 지난 5 월 3 일 부터 매주 3 회 씩 의원 들 과 ‘ 공부 모임 ’ 성격 의 워크숍 을 진행해 왔 다 .	PER-B O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O
+최 감독 은 “ 이번 대회 를 치르 면 우리 가 지닌 약점 이 더욱 극명하 게 드러날 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+기타 사항 으로 상 을 받 은 건 13 명 이 었 다 .	O O O O O O O O O O O O O O
+한편 보건복지부 는 6 일 효행 자 등 37 명 ( 단체 2 곳 포함 ) 에게 훈 ㆍ 포장 을 수여한다고 밝 혔 다 .	O ORG-B O DAT-B DAT-I PER-B PER-I O O O O O O O O O O O O O O O O O O O
+그 결과 17 분 이상 걸리 는 사람 은 일찍 잠 든 사람 보다 고혈압 에 걸릴 확률 이 무려 4 배 나 더 높 은 것 으로 나타났 다 .	O O TIM-B TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" 인테리어 · 가구 분야 까지 확산 다양한 소재 , 개성 넘치 는 디자인 실용성 갖춘 제품 속속 선봬 " 지난 22 일 오전 서울 대흥동 의 한 상가 건물 2 층 . 20 ~ 30 대 여성 들 이 탁자 에 둘러앉 아 아이디어 회의 를 했 다 .	O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 선거 때 새누리당 김문수 후보 에 대한 지지 선언 을 했 다 .	O O O O ORG-B PER-B O O O O O O O O O
+IFAB 의 결정 에 따 라 FIFA 도 지난 7 월 국제 축구 대회 에서 GPS 를 자율적 으로 사용하 도록 했 다 .	ORG-B O O O O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O
+“ 무한도전 최시원 포춘 쿠키 , 깜짝 놀랐 다 ” 등 의 반응 을 보 였 다 .	O O PER-B O O O O O O O O O O O O O O O

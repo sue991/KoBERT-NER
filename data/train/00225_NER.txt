@@ -1,11 +1,11 @@
-또 자동차 정비업체들에만 허용하던 튜닝을 12일부터 자동차 제작자도 하+ㄹ 수 있도록 +였다 .	O O O O O O O O O O O O O
-정보고속도로는 21세기 국가경쟁력강화의 핵심 열쇠 .	O O O O O O
-티웨이항공도 23일 신규 취항하는 인천~사이판 노선을 편도 총액 13만6270원부터 판매 하+ㄴ다 .	ORG-B O O O LOC-B O O O MNY-B O O O
-김 회장은 향후에도 이번 뇌물공여 혐의 외 넥슨 관련 배임 등 전반의 의혹에 대하+여 검찰 수사를 받게 되+ㄴ다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O
-한편 넥슨은 이날 선정성 논란을 빚었던 신작 게임 ‘서든어택2’ 서비스를 9월까지 순차적으로 중단하+ㄴ다고 밝히었다 .	O ORG-B O O O O O O O O O O O O O
-이날 서울지방경찰청 사이버수사대에 따르면 지난달 30일 새누리당 소속 송 모 양평군의원 지지모임 SNS에 ‘박근혜 대통령 탄핵 반대 결사대’를 모집하는 글이 처음 오르았다 .	O ORG-B ORG-I O O O ORG-B O PER-B PER-I O O O ORG-B ORG-I ORG-I ORG-I ORG-I PER-I O O O O
-영화계 한 관계자는 2일 “얼마 전 대략적 이+ㄴ이야기 구성안이 나오았다 .	O O O O O O O O O O O
-그는 1971년 가업을 물려받은 후 ‘이슈 메이킹(화제몰이)’으로 투자자들의 이목을 끌는 전략을 적극 +어+오았다 .	O O O O O O O O O O O O O O
-A씨는 삼성서울병원 방문 후 17일간 예식장 등 다중이용시설을 이용하였다 .	PER-B ORG-B O O O O O O O O
-서강준, ‘나홀로 연애중’ 첫 男게스트로 출연 … 팬들 기대감 ‘UP .	PER-B O O O O O O O O O O
-주택 1만여 가구가 건립되고 2만5000여명이 살게 되+ㄴ다 .	O O O O O O O O
+또 자동차 정비 업체 들 에 만 허용하 던 튜닝 을 12 일 부터 자동차 제작자 도 할 수 있 도록 했 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+정보 고속도로 는 21 세기 국가 경쟁력 강화 의 핵심 열쇠 .	O O O O O O O O O O O O
+티웨이항공 도 23 일 신규 취항하 는 인천 ~ 사이판 노선 을 편도 총액 13 만 6270 원 부터 판매한다 .	ORG-B O DAT-B DAT-I O O O LOC-B O LOC-B O O O O MNY-B MNY-I MNY-I MNY-I O O O
+김 회장 은 향후 에 도 이번 뇌물 공여 혐의 외 넥슨 관련 배임 등 전반 의 의혹 에 대해 검찰 수사 를 받 게 된다 .	PER-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+한편 넥슨 은 이날 선정성 논란 을 빚 었 던 신작 게임 ‘ 서든어택 2 ’ 서비스 를 9 월 까지 순차적 으로 중단한다고 밝 혔 다 .	O ORG-B O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+이날 서울 지방 경찰청 사이버 수사대 에 따르 면 지난달 30 일 새누리당 소속 송 모 양평군 의원 지지 모임 SNS 에 ‘ 박근혜 대통령 탄핵 반대 결사대 ’ 를 모집하 는 글 이 처음 올 랐 다 .	O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O DAT-B DAT-I ORG-B O PER-B PER-I O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O
+영화계 한 관계자 는 2 일 “ 얼마 전 대략적 인 이야기 구성 안 이 나 왔 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O
+그 는 1971 년 가업 을 물려받 은 후 ‘ 이슈 메이킹 ( 화제 몰이 ) ’ 으로 투자자 들 의 이목 을 끄 는 전략 을 적극 써 왔 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+A 씨 는 삼성서울병원 방문 후 17 일 간 예식장 등 다중 이용 시설 을 이용 했 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O
+서강준 , ‘ 나 홀로 연애 중 ’ 첫 男 게스트 로 출연 … 팬 들 기대감 ‘ UP ’	PER-B O O O O O O O O O O O O O O O O O O O
+주택 1 만 여 가구 가 건립되 고 2 만 5000 여 명 이 살 게 된다 .	O O O O O O O O O O O O O O O O O O

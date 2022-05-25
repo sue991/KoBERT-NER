@@ -1,16 +1,16 @@
-산들 통 배고는 무엇보다 방부제, 설탕, 색소, 향료 등의 첨가물이 전혀 들어가지 않기 때문에 돌 지나 +ㄴ아이부터 고령의 어르신까지 안전하게 복용이 가능하다 .	O O O O O O O O O O O O O O O O O O O O O O O
-디스+이냐?안정환과 이을용의 치열 하+ㄴ 족구매치가 공개되었다 .	PER-B PER-B O O O O O
-중국 본토 및 홍콩, 국내 공모주 등에 분산 투자 하+여안정적 이+ㄴ 수익을 추구하는 것+이 특징이다 .	ORG-B O O ORG-B O O O O O O O O O O O O
-[중앙SUNDAY가 만나 +ㄴ 사람] 싱가포르 성장 비결은 출신·배경안 따지는 능력주 .	O O O O ORG-B O O O O O O
-김 의원은 대표적 이+ㄴ 친박계로 자숙하였어야 하+ㄴ다는 지적에 대하+여서는 “그런 비판이 주로 바른정당 지도부 또는 대통령 후보가 많이 +였고, 지역에서도 그런 비판이 많이 제기가 +었다”며 “그러나 저+의 스스로 민심이 어디 있는지를 보이어주고 싶었다”고 설명하였다 .	PER-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-지난해 코스닥시장을 통하+ㄴ 기업들의 자금조달 규모가 2000년 이후 가장 많았던 것으로 집계되었다 .	O O O O O O O O O O O O O
-경찰은 ‘투쟁대회’ 당시 불법 시위를 주도 하+ㄴ 혐의 등으로 이영주 민주노총 사무총장의 주거지를 24일 압수수색하였다 .	O O O O O O O O O PER-B ORG-B O O O O O
-해당 매체는 “피츠버그는 지난해 12월 강정호를 영입하게 위하+ 여입찰액으로 500만 2015달러(약 59억7200만원)를 제시하였다”며 “당시 구단이 500만달러에 2015달러를 얹은 것은 강정호로 인하+여 올해 피츠버그가 특별 하+ㄴ한 해를 보내기+ㄹ바라는 마음에서 +이었다”고 설명하였다 .	O O ORG-B O O PER-B O O O MNY-B MNY-B MNY-B O O O MNY-B MNY-B O O PER-B O O ORG-B O O O O O O O O
-매체는 “구단이 원하었던 대로 강정호는 틀림없이 특별하다”며 “이날 경기에서 그가 터뜨리+ㄴ 연속 홈런과 스탈링 마르테가 만들 +ㄴ 끝내기 홈런으로 피츠버그가 샌프란시스코를 3대 2로 제압하+ㄹ 수 있었다”고 전하였다 .	O O O O PER-B O O O O O O O O PER-B PER-I O O O O ORG-B ORG-B O O O O O O O
-또 롯데팬이 ‘마!’라고 공격하면 NC팬은 ‘산!’이라고 대응 하+ㄴ다 .	O ORG-B O O ORG-B O O O O
-아마존은 2012년 무인자동화 로봇 생산업체 키바시스템스를 인수하는 등 관련 기술력을 직접 확보하+ㅁ으로써 물류 서비스를 혁신하였다는 평가를 받고 있다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O
-아마존은 연회비 99달러를 내는 유료 회원을 상대로 ‘프라임 나우’ +이라는 당일 배송 서비스를 시행 중이다 .	ORG-B O MNY-B O O O O O O O O O O O O O
-유승준 입국 가능 하+ㄹ까? 병무청 “착각, 논하+ㄹ가치無” 선 긋기 … 여론도 ‘갑론을박 .	PER-B O O O ORG-B O O O O O O O O
-미국도 “사드는 방어적 무기로 북한 위협에 대응하는 용도이지 다른 나라를 겨냥하는 것+이 아니다”라고 받아 치었다 .	ORG-B O O O ORG-B O O O O O O O O O O O
-22일 통계청이 발표하+ㄴ ‘2016년 11월 국내 인구 이동’에 따르면 지난달 서울의 인구는 1만4582명(전출 14만4748명, 전입 13만166명) 감소하였다 .	O ORG-B O O O O O O O O LOC-B O O O O O O O
-한화생명이 시니어 고객층에 적합하+ㄴ 보장을 저렴하+ㄴ 보험료로 가입하+ㄹ 수 있는 종신보험이 +ㄴ ‘한화생명 시니어종합보험’을 7일 출시하였다 .	ORG-B O O O O O O O O O O O ORG-B O O O O
+산 들 통배 고 는 무엇 보다 방부제 , 설탕 , 색소 , 향료 등 의 첨가물 이 전혀 들어가 지 않 기 때문 에 돌 지난 아이 부터 고령 의 어르신 까지 안전하 게 복용 이 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+디스 냐 ? 안정환 과 이을용 의 치열한 족구 매치 가 공개 됐 다 .	O O O PER-B O PER-B O O O O O O O O O
+중국 본토 및 홍콩 , 국내 공모주 등 에 분산 투자해 안정적 인 수익 을 추구하 는 게 특징 이 다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O
+[ 중앙 SUNDAY 가 만난 사람 ] 싱가포르 성장 비결 은 출신 · 배경 안 따지 는 능력주의	O O O O O O O ORG-B O O O O O O O O O O
+김 의원 은 대표적 인 친 박 계 로 자숙 했 어야 한다는 지적 에 대해서 는 “ 그런 비판 이 주로 바른 정당 지도부 또는 대통령 후보 가 많이 했 고 , 지역 에서 도 그런 비판 이 많이 제기 가 됐 다 ” 며 “ 그러나 제 스스로 민심 이 어디 있 는지 를 보 여 주 고 싶 었 다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 코스닥 시장 을 통한 기업 들 의 자금 조달 규모 가 2000 년 이후 가장 많 았 던 것 으로 집계 됐 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+경찰 은 ‘ 투쟁 대회 ’ 당시 불법 시위 를 주도한 혐의 등 으로 이영주 민주노총 사무총장 의 주거지 를 24 일 압수 수색 했 다 .	O O O O O O O O O O O O O O PER-B ORG-B O O O O DAT-B DAT-I O O O O O
+해당 매체 는 “ 피츠버그 는 지난해 12 월 강정호 를 영입하 게 위해 입찰액 으로 500 만 2015 달러 ( 약 59 억 7200 만 원 ) 를 제시 했 다 ” 며 “ 당시 구단 이 500 만 달러 에 2015 달러 를 얹 은 것 은 강정호 로 인해 올해 피츠버그 가 특별한 한 해 를 보내 길 바라 는 마음 에서 였 다 ” 고 설명 했 다 .	O O O O ORG-B O O DAT-B DAT-I PER-B O O O O O O MNY-B MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O MNY-B MNY-I MNY-I O MNY-B MNY-I O O O O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O
+매체 는 “ 구단 이 원 했 던 대로 강정호 는 틀림없이 특별하 다 ” 며 “ 이날 경기 에서 그 가 터뜨린 연속 홈런 과 스탈링 마르테 가 만든 끝내 기 홈런 으로 피츠버그 가 샌프란시스코 를 3 대 2 로 제압할 수 있 었 다 ” 고 전 했 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O
+또 롯데 팬 이 ‘ 마 ! ’ 라고 공격하 면 NC 팬 은 ‘ 산 ! ’ 이라고 대응한다 .	O ORG-B O O O O O O O O O ORG-B O O O O O O O O O
+아마존 은 2012 년 무인 자동화 로봇 생산 업체 키바 시스템스 를 인수하 는 등 관련 기술력 을 직접 확보함 으로써 물류 서비스 를 혁신 했 다는 평가 를 받 고 있 다 .	ORG-B O DAT-B DAT-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+아마존 은 연회비 99 달러 를 내 는 유료 회원 을 상대 로 ‘ 프라임 나우 ’ 라는 당일 배송 서비스 를 시행 중 이 다 .	ORG-B O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O
+유승준 입국 가능할까 ? 병무청 “ 착각 , 논할 가치 無 ” 선 긋 기 … 여론 도 ‘ 갑론을박 ’	PER-B O O O ORG-B O O O O O O O O O O O O O O O O
+미국 도 “ 사드 는 방어적 무기 로 북한 위협 에 대응하 는 용도 이 지 다른 나라 를 겨냥하 는 게 아니 다 ” 라고 받아 쳤 다 .	ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+22 일 통계청 이 발표한 ‘ 2016 년 11 월 국내 인구 이동 ’ 에 따르 면 지난달 서울 의 인구 는 1 만 4582 명 ( 전출 14 만 4748 명 , 전입 13 만 166 명 ) 감소 했 다 .	DAT-B DAT-I ORG-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+한화생명 이 시니어 고객 층 에 적합한 보장 을 저렴한 보험료 로 가입할 수 있 는 종신 보험 인 ‘ 한화생명 시니어 종합 보험 ’ 을 7 일 출시 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O

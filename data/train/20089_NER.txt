@@ -1,16 +1,16 @@
-이선희 ‘바람꽃’ 각종 음원차트 상위권 “‘푸르+ㄴ바다의 전설’과 잘 어울리+어 .	PER-B O O O O O O O O O
-3 루수 황재균의 2루수 보 직 변경 또는 플래툰 기용 가능성이 점치+어지는 이유+이다 .	O O PER-B O O O O O O O O O O O
-탈퇴 후에도 자신의 목소리가 들어가 +ㄴ곡을 그대로 사용하며 무대 위에서 립싱크를 +였기 때문. 채리나는 4일 자신의 인스타그램 계정에 “인간적으로 디바 노래를 나오아서 부르+ㄹ 것+이면 나+의 목소리는 좀 빼고 ‘왜 불러’를 부르든 가립 싱크를 하+ㄹ 것+이면 돈들이어서 다시 편곡 작업 하+여서 부르든가 …불쾌하다…아주”+이라며 불쾌감을 드러내+었다 .	O O O O O O O O O O O O O PER-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-세계적 이+ㄴ 클래식 음반 레이블도이체 그라모폰(DG)의 추천 앨범에서 그의 이름은 빠지지 않는다 .	O O O O ORG-B ORG-B O O O O O O O
-오바마 “위스키 한 잔합시다” … 야당 지도부와 수시로 대 .	PER-B O O O O O O O O O
-청와대의지를 미리 알고 기업에 간섭하였다면 기업은 위축되 +ㄹ 수밖에 없었을 것+이라는 것이다 .	ORG-B O O O O O O O O O O O O
-괴체는 지난해 10월 벌어 지+ㄴ 유로2016D 조예선 9차전 아일랜드 원정경기에서 사타구니 부상을 당하+여전반기까지 결장하였다 .	PER-B O O O O O O O LOC-B O O O O O O
-FT는 “올해에도 관행(ritu al)대로 다가오+ㄹ한 해를 전망하였다”며 문답 형식으로 새해 이슈를 분석하였다 .	ORG-B O O O O O O O O O O O O
-일본의 주간지나 TV에서는 언제나 집중 공격 하+ㄹ ‘악인’을 필요로 하는데 국내에서 그 대상을 상실하+ㄴ 상황에서 때마침 강력 하+ㄴ 반일 인사로서 한국의 박근혜 대통령이 포착되었다 .	ORG-B O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O
-박수홍의 어머니는 시작에 앞서 +어 "우리 아들 착하다"고 +였지만, 그간 젠틀+하였던 이미지와 달리 하루 종일 TV 앞에 있거나 굿나잇인사를 하+ㄴ 뒤 클럽 가+ㄹ 준비를 하는 모습이 공개되+어 어머니에게 크+ㄴ 충격을 안기었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-묶어놓거나 가두어 키우는 경우에는 매일 30분 이상 운동을 시키+어주+어스트레스를 받지 않는다 .	O O O O O O O O O O O O
-에너지관리공단은 타이어의 회전저항이 10% 개선되 +ㄹ 때 연비가 약 1.74%가 향상되 +ㄴ다고 설명 하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O
-지나+ㄴ 7일에는 김기춘 전 대통령 비서실장(78)과 조윤선 전 문화체육관광부 장관(51) 김상률 전 청와대 교육문화수석(57), 김소영 전 청와대 문화체육비서관(50) 등 4인 이 재판에 넘기+어+지었다 .	O O PER-B O O O PER-B O ORG-B O PER-B O ORG-B ORG-B PER-B O ORG-B ORG-B O O O O O O
-1월 12일에는 신동철 전 청와대 정무비서관(56), 김종덕 전 문체부 장관(60), 정관주 전 문체부 1차관(53) 등 3인이 구속 기소+었다 .	O O PER-B O ORG-B O PER-B O ORG-B O PER-B O ORG-B O O O O O O
-해리슨 포드 경비행기 사고 중상, 제2차 세계대전 당시 사용되+ㄴ 경비행기를 직접 몰아 미국의 영화배우 해리슨 포드가 경비행기 사고로 중상을 입었다는 소식이 전하여 +지+었다 .	PER-B PER-I O O O O O O O O O O O O PER-B PER-I O O O O O O O O
-로이터 등 외신에 따르면 6일(현지시간) 오후 2시께 해리슨 포드는 자신의 경비행기를 몰고 LA 외곽의 골프 코스를 돌다가 사고가 나 +ㄴ 것으로 전하여 +지+었다 .	ORG-B O O O O O O PER-B PER-I O O O LOC-B O O O O O O O O O O O
+이선희 ‘ 바람꽃 ’ 각종 음원 차트 상위권 “ ‘ 푸른 바다 의 전설 ’ 과 잘 어울려 ”	PER-B O O O O O O O O O O O O O O O O O O
+3 루수 황재균 의 2 루수 보직 변경 또는 플래툰 기용 가능성 이 점쳐 지 는 이유 다 .	O O PER-B O O O O O O O O O O O O O O O O
+탈퇴 후 에 도 자신 의 목소리 가 들어간 곡 을 그대로 사용하 며 무대 위 에서 립싱크 를 했 기 때문 . 채리나 는 4 일 자신 의 인스타그램 계정 에 “ 인간적 으로 디바 노래 를 나 와서 부를 거 면 내 목소리 는 좀 빼 고 ‘ 왜불러 ’ 를 부르 든가 립싱크 를 할 거 면 돈 들 여서 다시 편곡 작업해서 부르 든가 … 불쾌하 다 … 아주 ” 라며 불쾌감 을 드러냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B O DAT-B DAT-I O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세계적 인 클래식 음반 레이블 도이체 그라모폰 ( DG ) 의 추천 앨범 에서 그 의 이름 은 빠지 지 않 는다 .	O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O
+오바마 “ 위스키 한잔합시다 ” … 야당 지도부 와 수시로 대화	PER-B O O O O O O O O O O
+청와대 의지 를 미리 알 고 기업 에 간섭 했 다면 기업 은 위축될 수 밖에 없 었 을 거 라는 것 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+괴체 는 지난해 10 월 벌어진 유로 2016 D 조 예선 9 차 전 아일랜드 원정 경기 에서 사타구니 부상 을 당해 전반기 까지 결장 했 다 .	PER-B O O DAT-B DAT-I O O DAT-B O O O O O O LOC-B O O O O O O O O O O O O O
+FT 는 “ 올해 에 도 관행 ( ritual ) 대로 다가올 한 해 를 전망 했 다 ” 며 문답 형식 으로 새해 이슈 를 분석 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 의 주간지 나 TV 에서 는 언제나 집중 공격할 ‘ 악인 ’ 을 필요 로 하 는데 국내 에서 그 대상 을 상실한 상황 에서 때마침 강력한 반일 인사 로서 한국 의 박근혜 대통령 이 포착되 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O PER-B O O O O O O
+박수홍 의 어머니 는 시작 에 앞서 " 우리 아들 착하 다 " 고 했 지만 , 그간 젠틀 했 던 이미지 와 달리 하루 종일 TV 앞 에 있 거나 굿 나잇 인사 를 한 뒤 클럽 갈 준비 를 하 는 모습 이 공개돼 어머니 에게 큰 충격 을 안 겼 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+묶 어 놓 거나 가두 어 키우 는 경우 에 는 매일 30 분 이상 운동 을 시켜 줘 스트레스 를 받 지 않 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+에너지 관리 공단 은 타이어 의 회전 저항 이 10 % 개선될 때 연비 가 약 1.74 % 가 향상된다고 설명한다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+지난 7 일 에 는 김기춘 전 대통령 비서실 장 ( 78 ) 과 조윤선 전 문화 체육 관광부 장관 ( 51 ) 김상률 전 청와대 교육 문화 수석 ( 57 ) , 김소영 전 청와대 문화 체육 비서관 ( 50 ) 등 4 인 이 재판 에 넘겨 졌 다 .	O DAT-B DAT-I O O PER-B O O O O O O O O PER-B O ORG-B ORG-I ORG-I O O O O PER-B O ORG-B O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O
+1 월 12 일 에 는 신동철 전 청와대 정무 비서관 ( 56 ) , 김종덕 전 문체 부 장관 ( 60 ) , 정관주 전 문체 부 1 차관 ( 53 ) 등 3 인 이 구속 기소 됐 다 .	DAT-B DAT-I DAT-I DAT-I O O PER-B O ORG-B O O O O O O PER-B O ORG-B ORG-I O O O O O PER-B O ORG-B ORG-I O O O O O O O O O O O O O O
+해리슨 포드 경비행기 사고 중상 , 제 2 차 세계 대전 당시 사용된 경비행기 를 직접 몰 아 미국 의 영화배우 해리슨 포드 가 경비행기 사고 로 중상 을 입 었 다는 소식 이 전해 졌 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O
+로이터 등 외신 에 따르 면 6 일 ( 현지 시간 ) 오후 2 시 께 해리슨 포드 는 자신 의 경비행기 를 몰 고 LA 외곽 의 골프 코스 를 돌 다가 사고 가 난 것 으로 전해 졌 다 .	ORG-B O O O O O DAT-B DAT-I O O O O TIM-B TIM-I TIM-I O PER-B PER-I O O O O O O O LOC-B O O O O O O O O O O O O O O O O

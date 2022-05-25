@@ -1,17 +1,17 @@
-물론 이들 모두가 리우로 향하는 것은 아니다 .	O O O LOC-B O O O O
-첨단 건축공법총망라수직 도시를 향하+ㄴ 인간의 도전은 언제까지 지속되 +ㄹ까. 하늘을 찌르며 스카이라인을 바꾸는 초고층 빌딩 건설에 한국 기업의 발걸음이 당차다 .	O O O O O O O O O O O O O O O O ORG-B O O O O
-현역 시절 신 감독도 뛰어나 +ㄴ 리더십을 갖추+ㄴ 주장으로 활약하+ㄴ바 있어 연제민이 올림픽 대표팀에서도 많은 사랑을 받고 있음을 알+ㄹ 수 있다 .	O O PER-B O O O O O O O O PER-B O O O O O O O O O O
-제일 알고 싶었던 것+ㄴ 역시나 김성근 한화감독이 계약 마지막 해이+ㄴ올해 명예회복에 성공하+ㄹ 수 있을지 여부. 약 1만원을 투자 하+여토 정비결을 알리+어주는 스마트폰 애플리케이션(앱)을 내리+어받아 한국 야구위원회(KBO) 홈페이지에 나오아 있는 김성근 감독의 생년월일을 입력하였습니다 .	O O O O O PER-B ORG-B O O O O O O O O O MNY-B O O O O O O O ORG-B MNY-I O O O PER-B O O O O
-“내년 2월 열리는 뉴저지주 바둑대회에 나가 +아 여성 부 우승하는 것+이 목표 이+ㅂ니다 .	O O O LOC-B O O O O O O O O O O
-처음부터 러시아 측은 의약품, 카자흐스탄 측은 차량 부품의 병행수입을 허용하자고 제안하였다는 것이다 .	O ORG-B O O ORG-B O O O O O O O O
-바쿰은 “위안화 절하가 당분간 (신흥국에서의 자본 이탈 속도를 증가시키는) 촉매 구실을 하+ㄹ 수 있다”고 설명하였다 .	PER-B O O O O O O O O O O O O O O O
-이 행사는 M포인트의 적립, 사용이 가능하+ㄴ 모든 현대카드 소지 고객이라면 누구나 참여하+ㄹ 수 있다 .	O O O O O O O ORG-B O O O O O O O
-정 후보자는 24일 인사청문회에서 복지비 전문가+이라는 여론의 비판을 의식하+ㄴ듯 “저출산 문제를 해결하겠다”라고 공언하였다 .	PER-B O O O O O O O O O O O O O
-[동서남북]부산시민이 롯데에바라는  .	ORG-B ORG-B O O
-나이보다 젊고 건강 하+여보이시는데 어떻게 건강관리를 하시는지요. 모질+ㄴ(이하모) 회사를 운영하는 대표로, 또 세 아이의 엄마로 회사와 가정을 조화롭게 이끌어가기 위하+여서는 건강관리가 중요하지요 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O
-한국 등 비자면제협정을 맺고 있는 70여개국의 손님들은 간단하+ㄴ 입국카드와 함께 여권을 한 번 보이어주는 것으로 모든 절차가 끝나 +ㄴ다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-아니 아이역(기타아키타시)에서 택시로 25분 소요. www. aniski.jp 공식 사이트 △아키타현: http://akita. or.kr △일본 정부관광국 : www.welcometojapan.or.kr아키타 맛 △눈이 많이 내리는 지역에 +ㄴ 맛있는 쌀이나 +ㄴ다 .	LOC-B LOC-B LOC-I O O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O
-김경환 국토부 1차관과 백규석 환경부 기획조정실장, 이정무 한국물포럼 총재, 우효섭 광주과학기술원 환경공학부 교수 등이 참석하였다 .	PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B ORG-I O O O O
-“지금은 2015년이니까요!(Itis2015!)” 캐나다에서 +ㄴ 지금 정치가 인기+이다 .	O O ORG-B O O O O O
-문체부 안은 엘리트 체육과 생활체육이 선순환을 이루는 스포츠 선진국 시스템을 함께 고민하고 양 단체 간 이견으로 통합 논의가 파행되지 않도록 하기 위 하+여 다양성을 고려하+ㄴ 것이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-전날 다저스 2선 발 잭 그레인 키에게 시즌 첫 패배의 쓰+ㄴ잔을 건네+ㄴ 콜로라도 타선을 맞고 변화무쌍 하+ㄴ 변화구와 날카롭 ㄴ제 구력을 앞세우어 3안타 2 볼넷만 허용하는 인상적 이+ㄴ 투구를 +였다 .	O ORG-B O O PER-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+물론 이 들 모두 가 리우 로 향하 는 것 은 아니 다 .	O O O O O LOC-B O O O O O O O O
+첨단 건축 공법 총망라 수직 도시 를 향한 인간 의 도전 은 언제 까지 지속될까 . 하늘 을 찌르 며 스카이라인 을 바꾸 는 초고층 빌딩 건설 에 한국 기업 의 발걸음 이 당차 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O
+현역 시절 신 감독 도 뛰어난 리더십 을 갖춘 주장 으로 활약한 바 있 어 연제민 이 올림픽 대표 팀 에서 도 많 은 사랑 을 받 고 있 음 을 알 수 있 다 .	O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+제일 알 고 싶 었 던 건 역시 나 김성근 한화 감독 이 계약 마지막 해 인 올해 명예 회복 에 성공할 수 있 을지 여부 . 약 1 만 원 을 투자해 토정비결 을 알려 주 는 스마트 폰 애플리케이션 ( 앱 ) 을 내려 받 아 한국 야구 위원회 ( KBO ) 홈페이지 에 나 와 있 는 김성근 감독 의 생년월일 을 입력 했 습니다 .	O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O PER-B O O O O O O O O
+“ 내년 2 월 열리 는 뉴저지 주 바둑 대회 에 나가 여성 부 우승하 는 게 목표 입니다 .	O O DAT-B DAT-I O O LOC-B LOC-I O O O O O O O O O O O O
+처음 부터 러시아 측 은 의약품 , 카자흐스탄 측 은 차량 부품 의 병행 수입 을 허용하 자고 제안 했 다는 것 이 다 .	O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O
+바쿰 은 “ 위안 화 절하 가 당분간 ( 신흥 국 에서 의 자본 이탈 속도 를 증가 시키 는 ) 촉매 구실 을 할 수 있 다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 행사 는 M 포인트 의 적립 , 사용 이 가능한 모든 현대 카드 소지 고객 이 라면 누구 나 참여할 수 있 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+정 후보자 는 24 일 인사 청문회 에서 복지 비전문가 라는 여론 의 비판 을 의식한 듯 “ 저 출산 문제 를 해결하 겠 다 ” 라고 공언 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 동서남북 ] 부산 시민 이 롯데 에 바라 는 것	O O O ORG-B O O ORG-B O O O O
+나이 보다 젊 고 건강해 보이 시 는데 어떻 게 건강 관리 를 하 시 는 지요 . 모진 ( 이하 모 ) 회사 를 운영하 는 대표 로 , 또 세 아이 의 엄마 로 회사 와 가정 을 조화롭 게 이끌 어 가 기 위해서 는 건강 관리 가 중요하 지요 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 등 비자 면제 협정 을 맺 고 있 는 70 여 개국 의 손님 들 은 간단한 입국 카드 와 함께 여권 을 한 번 보 여 주 는 것 으로 모든 절차 가 끝난다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아니 아 이 역 ( 기타 아키타 시 ) 에서 택시 로 25 분 소요 . www . aniski . jp 공식 사이트 △ 아키타 현 : http : / / akita . or . kr △ 일본정부관광국 : www . welcometojapan . or . kr 아키타 맛 △ 눈 이 많이 내리 는 지역 엔 맛있 는 쌀 이 난다 .	LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+김경환 국토 부 1 차관 과 백 규석 환경부 기획 조정 실장 , 이정무 한국 물 포럼 총재 , 우효섭 광주 과학 기술원 환경 공학부 교수 등 이 참석 했 다 .	PER-B ORG-B ORG-I O O O PER-B PER-I ORG-B O O O O PER-B ORG-B ORG-I ORG-I O O PER-B ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O
+“ 지금 은 2015 년 이 니까요 ! ( It is 2015 ! ) ” 캐나다 에선 지금 정치 가 인기 다 .	O O O DAT-B DAT-I O O O O O O DAT-B O O O ORG-B O O O O O O O
+문체부 안 은 엘리트 체육 과 생활 체육 이 선순환 을 이루 는 스포츠 선진국 시스템 을 함께 고민하 고 양 단체 간 이견 으로 통합 논의 가 파행되 지 않 도록 하 기 위해 다양성 을 고려한 것 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전날 다저스 2 선발 잭 그레인키 에게 시즌 첫 패배 의 쓴 잔 을 건넨 콜로라도 타선 을 맞 아 변화무쌍한 변화구 와 날카로 운 제구 력 을 앞세 워 3 안타 2 볼넷 만 허용하 는 인상적 인 투구 를 했 다 .	O ORG-B O O PER-B PER-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O

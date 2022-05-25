@@ -1,13 +1,13 @@
-하지만 아동보호전문기관은 A양의 심리적 안정에 악영향을 미치+ㄹ 것으로 판단, 면담을 불허하+ㄴ 것으로 알려지었다 .	O O PER-B O O O O O O O O O O O
-검찰과 아동보호전문기관은 B씨가 아들이 +ㄴ A 양의 아버지에게 유리하도록 진술을 끌어내려고 하+ㄹ 수도 있는 만큼 직접적 이+ㄴ만남이 아니+ㄴ B씨와 A양, 아동보호기관 등의 3자 면담을 추진하+ㄹ 방침이다 .	O O PER-B O O PER-B O O O O O O O O O O O O PER-B PER-B O O O O O O O
-또, 친권에 대하+여서도 B씨의 의사에 대하+ㄴ 진위를 확인 하+ㄴ 뒤 A양의 의사 등을 고려하+여법적 절차에 따르 아 결정 하+ㄹ 계획이다 .	O O O PER-B O O O O O O PER-B O O O O O O O O O O
-경찰에 따르면, 이날까지도 A양의 어머니에게서는 어떠 하+ㄴ 연락도 없었다 .	O O O PER-B O O O O O O
-그는 "알아바디 총리와 이라크 국민에게 축하를 보내 +ㄴ다"면서 "이번 승리는 이라크 정부군 주도하에 이루어 지+ㄴ(IS 격퇴를 위하+ㄴ) 국제적 노력의 성공을 강조하+여주는 것"이라고 밝히었다 .	O PER-B O ORG-B O O O O O O ORG-B ORG-I O O ORG-B O O O O O O O O O
-그렇다면 스페인 이탈리아 그리스처럼 비교적 겨울 추위가 매섭지 않은 곳에서만 베란 .	O LOC-B LOC-B LOC-B O O O O O O O O
-경기도 분당에 살는 회사원 김모(40)씨는 얼마 전 연말 송년회에서 술과 고기를 배불리 먹었다 .	LOC-B LOC-I O O PER-B O O O O O O O O O
-힐러리 대선 출마 선언, SNS에 “내가 챔피언 되+ㄹ 것 .	PER-B O O O O O O O O O
-가수 김장훈과 배우 최민수가 25일 서울 홍익대 대학로 아트센터에서 합동공연을 열 +ㄴ다 .	O PER-B O PER-B O LOC-B LOC-I LOC-I LOC-I O O O O
-허억가천대도시계획학과 교수는 “보행자 가 운전자와 눈을 맞추는 것만으로도 운전자를 단속하는 효과가 매우 크다”고 강조하였다 .	ORG-B O O O O O O O O O O O O O O
-트럼프, "KKK 멤버가 클린턴 멘토"…인종주의 공방 가 .	PER-B ORG-B O PER-B O O O O
-결승선을 1위로 통과하였지만 우사인 볼트(30·자메이카·사진)의 얼굴에는 아쉬움이 가득하였다 .	O O O PER-B ORG-B O O O O
-A씨는 머리를 심하게 다치+ㄴ 상태+이었으며 발견 당시 이미 숨지+ㄴ 상태+이었던 것으로 알려지었다 .	PER-B O O O O O O O O O O O O
+하지만 아동 보호 전문 기관 은 A 양 의 심리적 안정 에 악영향 을 미칠 것 으로 판단 , 면담 을 불허한 것 으로 알려 졌 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+검찰 과 아동 보호 전문 기관 은 B 씨 가 아들 인 A 양 의 아버지 에게 유리하 도록 진술 을 끌어내 려고 할 수 도 있 는 만큼 직접적 인 만남 이 아닌 B 씨 와 A 양 , 아동 보호 기관 등 의 3 자 면담 을 추진할 방침 이 다 .	O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O
+또 , 친권 에 대해서 도 B 씨 의 의사 에 대한 진위 를 확인한 뒤 A 양 의 의사 등 을 고려해 법적 절차 에 따 라 결정할 계획 이 다 .	O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+경찰 에 따르 면 , 이날 까지 도 A 양 의 어머니 에게서 는 어떠한 연락 도 없 었 다 .	O O O O O O O O PER-B O O O O O O O O O O O O
+그 는 " 알 아바디 총리 와 이라크 국민 에게 축하 를 보낸다 " 면서 " 이번 승리 는 이라크 정부 군 주도 하 에 이뤄진 ( IS 격퇴 를 위한 ) 국제적 노력 의 성공 을 강조해 주 는 것 " 이라고 밝 혔 다 .	O O O PER-B PER-I O O ORG-B O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+그렇 다면 스페인 이탈리아 그리스 처럼 비교적 겨울 추위 가 매섭 지 않 은 곳 에서 만 베란다	O O LOC-B LOC-B LOC-B O O O O O O O O O O O O O
+경기도 분당 에 사 는 회사원 김 모 ( 40 ) 씨 는 얼마 전 연말 송년회 에서 술 과 고기 를 배불리 먹 었 다 .	LOC-B LOC-I O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+힐러리 대선 출마 선언 , SNS 에 “ 내 가 챔피언 될 것 ”	PER-B O O O O O O O O O O O O O
+가수 김장훈 과 배우 최민수 가 25 일 서울 홍익대 대학로 아트센터 에서 합동 공연 을 연다 .	O PER-B O O PER-B O DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I O O O O O O
+허억 가천대 도시 계획 학 과 교수 는 “ 보행자 가 운전자 와 눈 을 맞추 는 것 만 으로 도 운전자 를 단속하 는 효과 가 매우 크 다 ” 고 강조 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+트럼프 , " KKK 멤버 가 클린턴 멘토 " … 인종주의 공방 가열	PER-B O O ORG-B O O PER-B O O O O O O
+결승선 을 1 위 로 통과 했 지만 우사인 볼트 ( 30 · 자메이카 · 사진 ) 의 얼굴 에 는 아쉬움 이 가득 했 다 .	O O O O O O O O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O
+A 씨 는 머리 를 심하 게 다친 상태 였 으며 발견 당시 이미 숨진 상태 였 던 것 으로 알려 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O

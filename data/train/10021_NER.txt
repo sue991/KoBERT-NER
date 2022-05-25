@@ -1,13 +1,13 @@
-인천 북구청에잇어 남구청과 동구청에서도 가짜 영수증이 발견되었다 .	LOC-B LOC-I LOC-B LOC-B O O O O
-차 없는 지상은 소규모 공원과 연결녹지 등을 조성하고 중심광장·잔디마당·커뮤니티 광장·휴게마당 등 4개의 테마공간을 꾸미+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O
-벼룩시장 1억 곰 인형, 1만6000원 주고사+았는데 …로 또 맞았네 .	O MNY-B O O MNY-B O O O O O
-첫째, 중국은 한국의 최대 수출 시장으로 대중국 수출은 연간 국내총생산(GDP)의 10% 이상, 전체 수출의 약 25%를 차지하+ㄴ다 .	O ORG-B ORG-B O O O ORG-B O O O O O O O O O O O
-수사에 나서 +ㄴ 전남 나주경찰서는 영아시신이 수건과 검정색 체육복에 싸이어 있는 것을 확인하였다 .	O O O ORG-B ORG-I O O O O O O O O O
-―한국에 처음 오+시었지요 .	LOC-B O O O
-외교부는 어제 위안부 피해자 할머니들이 살고 있는 서울 마포구 한국정신대문제대책협의회 쉼터와 경기 광주나누+ㅁ의 집에 각각 1, 2차관을 보내+어 경위를 설명하었지만 “어느 나라 외교부 +이냐”는 거세+ㄴ 비판만 들었다 .	ORG-B O ORG-B O O O O LOC-B LOC-I ORG-B O LOC-B LOC-I O O O O O O O O O ORG-B O O O O O
-나연은 "정연이 잘 돌아오았다 .	PER-B PER-B O O O
-과천 국립현대미술관 ‘김봉태전 .	LOC-B ORG-B O O
-그의 성공을 지켜보+ㄴ퀴라소 아이들은 야구를 통하+여아메리칸 드림을 꿈꾸고 있다 .	O O LOC-B O O O O O O O
-하지만 중·일 사이에 불는 훈풍을 기자는 지나 +ㄴ 20일 중국 본토에서 이미 체감하였다 .	O ORG-B O O O O O O O ORG-B O O O O
-명수 비수 출신답게 최 감독은 ‘무실점’을 항상 강조하였다 .	O O O PER-B O O O O O
-그렇다면 하늘을 날는 자동차의 가격은 과연 얼마 이+ㄹ까? 외신들은 "처음에 +ㄴ 부유층을 대상으로 하+ㄴ 2인승 모델이+ㄴ 만큼 10만 달러가 되+ㄹ 것으로 보이+ㄴ다"고 전하였다 .	O O O O O O O O O O O O O O O O O MNY-B MNY-I O O O O O
+인천 북 구청 에 이 어 남 구청 과 동 구청 에서 도 가짜 영수증 이 발견 됐 다 .	LOC-B LOC-I LOC-I O O O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O
+차 없 는 지상 은 소규모 공원 과 연결 녹지 등 을 조성하 고 중심 광장 · 잔디 마당 · 커뮤니티 광장 · 휴게 마당 등 4 개 의 테마 공간 을 꾸밀 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+벼룩시장 1 억 곰 인형 , 1 만 6000 원 주 고 샀 는데 … 로또 맞 았 네 !	O MNY-B MNY-I O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O
+첫째 , 중국 은 한국 의 최대 수출 시장 으로 대 중국 수출 은 연간 국내총생산 ( GDP ) 의 10 % 이상 , 전체 수출 의 약 25 % 를 차지한다 .	O O ORG-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+수사 에 나선 전남 나주 경찰서 는 영아 시신 이 수건 과 검정 색 체육복 에 싸 여 있 는 것 을 확인 했 다 .	O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+― 한국 에 처음 오 셨 지요 .	O LOC-B O O O O O O
+외교 부 는 어제 위안부 피해자 할머니 들 이 살 고 있 는 서울 마포구 한국정신대문제대책협의회 쉼터 와 경기 광주 나눔 의 집 에 각각 1 , 2 차관 을 보내 경위 를 설명 했 지만 “ 어느 나라 외교 부 냐 ” 는 거센 비판 만 들 었 다 .	ORG-B ORG-I O O ORG-B O O O O O O O O LOC-B LOC-I ORG-B O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+나연 은 " 정연 이 잘 돌아 왔 다 .	PER-B O O PER-B O O O O O O
+과천 국립현대미술관 ‘ 김봉태 전 ’	LOC-B ORG-B O O O O
+그 의 성공 을 지켜본 퀴 라소 아이 들 은 야구 를 통해 아메리칸 드림 을 꿈꾸 고 있 다 .	O O O O O LOC-B LOC-I O O O O O O O O O O O O O O
+하지만 중 · 일 사이 에 부 는 훈풍 을 기자 는 지난 20 일 중국 본토 에서 이미 체감 했 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O DAT-B DAT-I ORG-B O O O O O O O
+명 수비수 출신 답 게 최 감독 은 ‘ 무실점 ’ 을 항상 강조 했 다 .	O O O O O PER-B O O O O O O O O O O O
+그렇 다면 하늘 을 나 는 자동차 의 가격 은 과연 얼마 일까 ? 외신 들 은 " 처음 엔 부유층 을 대상 으로 한 2 인 승 모델 인 만큼 10 만 달러 가 될 것 으로 보인다 " 고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O

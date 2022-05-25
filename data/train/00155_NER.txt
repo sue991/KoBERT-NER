@@ -1,12 +1,12 @@
-“어떻게 통영에서 출판사를 하게 되+ㄴ 것+이에요?”자주 받는 질문이어서 평소처럼 우리의 이야기를 조곤조곤나누었더니 다시 질문이 날아오+ㄴ다 .	O LOC-B O O O O O O O O O O O O O O
-키 188cm, 몸무게 79kg의 단단 하+ㄴ 체격을 갖추+ㄴ 안준수는 2013년 9월 처음 태극마크를 단 이후 지난해 4월 프랑스에서 열리+ㄴ 몬디알풋볼몽테 규대회, 9월 방콕서 개최되 +ㄴ아시아축구연맹(AFC) U-16 챔피언십, 그리고 올 9월 수원 컨티넨탈 컵 등 최진철 감독 밑에서 줄곧 골문을 지키었다 .	O O O O O O O O PER-B O O O O O O O O LOC-B O O O O LOC-B O ORG-B O O O O O O O O O PER-B O O O O O O
-하산 로하니 이란 대통령이 박근혜 대통령과의 공동기자회견에서 “어떤 핵개발도 반대하+ㄴ다”고 말하였다 .	PER-B PER-I ORG-B O PER-B O O O O O O O
-서강준을 모델로 하+ㄴ카스 라이트 광고는 업무와 학업 등으로 치열 하+ㄴ한 주를 보내 +ㄴ 청춘들이 집에 모이어 일상에 지치+ㄴ 몸과 마음을 카스 라이트 맥주로 달래며 스트레스를 해소 하+ㄴ다는 스토리. 격식을 차리지 않고 캐주얼 하+ㄴ 분위기에서 친구들과 함께 맥주를 즐기는 일상 그대로의 모습을 광고에 녹이 어내+어 참가자들의 공감을 이끌어내 +었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-기상청은 이번 지진으로 인하+ㄴ 피해는 없다고 밝히었다 .	ORG-B O O O O O O O
-교육부는 시안을 토대로 전문가와 관련 학회의견을 수렴하+여이달 말 역사교과서 집필 기준을 확정하+ㄹ 방침이다 .	ORG-B O O O O O O O O O O O O O
-핵심 기능은 강화하되 불필요하+ㄴ 기능을 과감히 생략 하+ㄴ 디버전스형 제품으로, 국내 침구 청소기의 시중 가격이 10만∼30만원대 고가에 형성되+어 있다는 점에 착안하+여가성비를 극대화 하+ㄴ 것이 특징이다 .	O O O O O O O O O O O O O O O MNY-B O O O O O O O O O O
-전반 3분 루 옹고가 올리+ㄴ 코너킥크로스를 세인즈버리가 헤딩 슈팅으로 연결하며 첫 골을 기록하였다 .	TIM-B TIM-I O O O O PER-B O O O O O O O
-호주는 공세를 계속하였고, 결국 11분 후 결승골을 터트리었다 .	ORG-B O O O O O O O O
-울며 겨자 먹기 식으로 등기에 필요하+ㄴ 서류를 제출하고 나+ㄴ 직후 A 변호사의 놀라 +ㄴ 가슴은 한 번 더 쿵+하였다 .	O O O O O O O O O O PER-B O O O O O O O O O
-최근까지만 하+여도 이완구(행시) 원내대표와 주호영 정책위의장(사시), 김재원(사시) 원내수석부대표가 고시 출신이었다 .	O O PER-B O PER-B O PER-B O O O O
-내 연금 홈페이지(csa.nps. or.kr)에서 자신의 국민연금 정보와 개인연금 및 퇴직연금 정보를 확인 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O
+“ 어떻 게 통영 에서 출판사 를 하 게 된 거 예요 ? ” 자주 받 는 질문 이 어서 평소 처럼 우리 의 이야기 를 조곤조곤 나누 었 더니 다시 질문 이 날아온다 .	O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+키 188 cm , 몸무게 79 kg 의 단단한 체격 을 갖춘 안준수 는 2013 년 9 월 처음 태극 마크 를 단 이후 지난해 4 월 프랑스 에서 열린 몬 디알 풋볼 몽테 규 대회 , 9 월 방콕 서 개최된 아시아축구연맹 ( AFC ) U - 16 챔피언십 , 그리고 올 9 월 수원 컨티넨탈 컵 등 최진철 감독 밑 에서 줄곧 골문 을 지 켰 다 .	O O O O O O O O O O O O PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O O DAT-B DAT-I LOC-B O O ORG-B O ORG-B O O O O O O O O DAT-B DAT-I O O O O PER-B O O O O O O O O O O
+하산 로 하 니 이란 대통령 이 박근혜 대통령 과 의 공동 기자회견 에서 “ 어떤 핵 개발 도 반대한다 ” 고 말 했 다 .	PER-B PER-I PER-I PER-I ORG-B O O PER-B O O O O O O O O O O O O O O O O O O
+서강준 을 모델 로 한 카스 라이트 광고 는 업무 와 학업 등 으로 치열한 한 주 를 보낸 청춘 들 이 집 에 모 여 일상 에 지친 몸 과 마음 을 카스 라이트 맥주 로 달래 며 스트레스 를 해소한다는 스토리 . 격식 을 차리 지 않 고 캐주얼한 분위기 에서 친구 들 과 함께 맥주 를 즐기 는 일상 그대로 의 모습 을 광고 에 녹 여 내 참가자 들 의 공감 을 이끌 어 냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+기상청 은 이번 지진 으로 인한 피해 는 없 다고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O
+교육부 는 시안 을 토대 로 전문가 와 관련 학회 의견 을 수렴해 이달 말 역사 교과서 집필 기준 을 확정할 방침 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+핵심 기능 은 강화하 되 불필요한 기능 을 과감히 생략한 디 버전 스 형 제품 으로 , 국내 침구 청소기 의 시중 가격 이 10 만 ∼ 30 만 원 대 고가 에 형성돼 있 다는 점 에 착안해 가성비 를 극대화 한 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O
+전반 3 분 루옹 고가 올린 코너킥 크로스 를 세인즈버리 가 헤딩 슈팅 으로 연결하 며 첫 골 을 기록 했 다 .	TIM-B TIM-I TIM-I PER-B O O O O O PER-B O O O O O O O O O O O O O
+호주 는 공세 를 계속 했 고 , 결국 11 분 후 결승 골 을 터트 렸 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+울 며 겨자 먹 기 식 으로 등기 에 필요한 서류 를 제출하 고 난 직후 A 변호사 의 놀란 가슴 은 한 번 더 쿵 했 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+최근 까지 만 해도 이완구 ( 행시 ) 원내 대표 와 주호영 정책 위 의장 ( 사시 ) , 김재원 ( 사시 ) 원내 수석 부 대표 가 고시 출신 이 었 다 .	O O O O PER-B O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O
+내 연금 홈페이지 ( csa . nps . or . kr ) 에서 자신 의 국민 연금 정보 와 개인 연금 및 퇴직 연금 정보 를 확인할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

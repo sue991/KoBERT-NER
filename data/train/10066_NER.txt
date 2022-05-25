@@ -1,15 +1,15 @@
-이날 연준 성명과 옐런 의장의 회견에는 시장을 안심시키려는 노력이 뚜렷이 반영되었다 .	O O O PER-B O O O O O O O O
-이어 2004~2006년 헌재 헌법연구관으로 근무하였다 .	O O O O O O
-이 지명자는 이후 2006년 법무법인 화우에서 변호사로 활동하+여+오았는데 다양하+ㄴ 재판에 관여하+여 이론과 실무에 능통하다는 평이다 .	PER-B O PER-B O ORG-B ORG-I O O O O O PER-B O O PER-B O
-지나+ㄴ 22일 현대차는 인천 송도 도심 서킷나+의 특설 자동차 영화관을 마련하고 쏘나타 보유고객 600명을 초청하+여올 여름 최고 기대작을 상영하는 ‘쏘나타 30주년 기념, 자동차극장 영화 관람 초청 이벤트’를 마련하였다 .	O O ORG-B LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
-박한별정은 우결별, 5월 제주도 데이트 후 관계 소원? 당시 모습 보니 … 관심 .	PER-B O O LOC-B O O O O O O O O O O
-현재 여자 대표팀 23명 가운데 6명이 고교생이다 .	O O O O O O O O
-2만 1000원 .복지의 배신(송제숙 짓음·이후)=외환위기(1997∼2001년) 시기에 만들어 지+ㄴ 한국의 신자유주의적 복지에 대하+ㄴ 연구서. 당시 노숙이+ㄴ문제와 청년실업 문제를 중점적으로 다루며 한국식 보편적 복지의 시작점에 대하+여탐 구하였다 .	MNY-B MNY-I O PER-B MNY-B O O O ORG-B O O O O O O O O O O ORG-B O O O O O O
-대당 가격은 80여억 원 .	O O MNY-B MNY-I O
-미국 유명 방송인 킴카다시안(34)이 남편에게 보내+었던 19금 수준의 사진 일부가 영국 매체 데일리스타를 통하+여공개되었다 .	ORG-B O O PER-B O O O O O O ORG-B O O O O
-이 매체는 킴예(킴카다시 안++카니예 웨스트) 부부가 섹시하+ㅁ을 잃지 않고 살는 습관들이 궁금하였던 사람들이 있다면 이 기사를 꼭 확인하라며 1일 해당 사진들을 단독 소개하였다 .	O O PER-B PER-B PER-I O O O O O O O O O O O O O O O O O O O
-2010년 12월의 어느 날.속으로 생각하였다 .	O O O O O O
-한편 이금희 아나운서는 1988년부터 진행 하+여 오+ㄴ ‘아침마당’에서 30일 하차하였다 .	O PER-B O O O O O O O O O
-그러면 오래도록 영속하는 기업의 공통점은 무엇이 +ㄹ까. '장수기업이 많은 나라'로 유명하+ㄴ 일본의 쿠보타쇼우이치호우세이(法政)대 교수는 건강하+ㄴ장수기업의 특징으로 ▶명확 하+ㄴ 기업이념과 경영원칙을 세우어 준수▶장기적 관점에서 기업을 경영▶전통을 중시하면서도 혁신을 추구▶회사 종업원을 소중히 여기+ㅁ이란 네 가지 공통점을 꼽았다 .	O O O O O O O O O O O LOC-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-이후 원룸에서 이를 재포장, 서울에 있는 인출책에게 보내+었다 .	O O O O LOC-B O O O O
-이로 인하+여원유 등 광산품 중심이 +ㄴ 원재료 가격은 전달보다 9.8% 내리었고 석탄·석유제품 가격은 14.6% 급락하였다 .	O O O O O O O O O O O O O O O O
+이날 연준 성명 과 옐런 의장 의 회견 에 는 시장 을 안심 시키 려는 노력 이 뚜렷이 반영 됐 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O
+이어 2004 ~ 2006 년 헌재 헌법 연구관 으로 근무 했 다 .	O O O O O O O O O O O O O
+이 지명자 는 이후 2006 년 법무 법인 화우 에서 변호사 로 활동해 왔 는데 다양한 재판 에 관여해 이론 과 실무 에 능통하 다는 평 이 다 .	PER-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+지난 22 일 현대차 는 인천 송도 도심 서킷 내 특설 자동차 영화관 을 마련하 고 쏘나타 보유 고객 600 명 을 초청해 올 여름 최고 기대 작 을 상영하 는 ‘ 쏘나타 30 주년 기념 , 자동차 극장 영화 관람 초청 이벤트 ’ 를 마련 했 다 .	O DAT-B DAT-I ORG-B O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박한별 정은우 결별 , 5 월 제주도 데이트 후 관계 소원 ? 당시 모습 보 니 … 관심 ↑	PER-B PER-B O O DAT-B DAT-I LOC-B O O O O O O O O O O O O
+현재 여자 대표 팀 23 명 가운데 6 명 이 고교생 이 다 .	O O O O O O O O O O O O O O
+2 만 1000 원 . 복지 의 배신 ( 송제숙 지 음 · 이후 ) = 외환 위기 ( 1997 ∼ 2001 년 ) 시기 에 만들 어 진 한국 의 신자유주의 적 복지 에 대한 연구 서 . 당시 노숙 인 문제 와 청년 실업 문제 를 중점적 으로 다루 며 한국 식 보편적 복지 의 시작점 에 대해 탐구 했 다 .	MNY-B MNY-I MNY-I MNY-I O O O O O PER-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+대 당 가격 은 80 여 억 원 .	O O O O MNY-B MNY-I MNY-I MNY-I O
+미국 유명 방송인 킴 카다시안 ( 34 ) 이 남편 에게 보냈 던 19 금 수준 의 사진 일부 가 영국 매체 데일리 스타 를 통해 공개 됐 다 .	ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+이 매체 는 킴 예 ( 킴 카다시안+ 카니 예 웨스트 ) 부부 가 섹시함 을 잃 지 않 고 사 는 습관 들 이 궁금 했 던 사람 들 이 있 다면 이 기사 를 꼭 확인하 라며 1 일 해당 사진 들 을 단독 소개 했 다 .	O O O O O O PER-B O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+2010 년 12 월 의 어느 날 . 속 으로 생각 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+한편 이금희 아나운서 는 1988 년 부터 진행해 온 ‘ 아침마당 ’ 에서 30 일 하차 했 다 .	O PER-B O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O
+그러면 오래도록 영속하 는 기업 의 공통점 은 무엇 일까 . ' 장수 기업 이 많 은 나라 ' 로 유명한 일본 의 쿠보타 쇼우 이치 호우 세이 ( 法政 ) 대 교수 는 건강한 장수 기업 의 특징 으로 ▶ 명확한 기업 이념 과 경영 원칙 을 세 워 준수 ▶ 장기적 관점 에서 기업 을 경영 ▶ 전통 을 중시하 면서 도 혁신 을 추구 ▶ 회사 종업원 을 소중히 여김 이 란 네 가지 공통점 을 꼽 았 다 .	O O O O O O O O O O O O O O O O O O O O O LOC-B O ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 원룸 에서 이 를 재 포장 , 서울 에 있 는 인출 책 에게 보냈 다 .	O O O O O O O O LOC-B O O O O O O O O O
+이 로 인해 원유 등 광산 품 중심 인 원재료 가격 은 전달 보다 9.8 % 내 렸 고 석탄 · 석유 제품 가격 은 14.6 % 급락 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

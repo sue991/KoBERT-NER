@@ -1,8 +1,8 @@
-지금까지 한국은 OFP를 대부분 외국에서 사들이었다 .	O ORG-B O O O O O
-조정석 ♥박보영 오나귀 흥행질주… 종편 동시간대 1위 '수성 .	PER-B PER-B O O O O O O O
-샤오미, UHDTV-나인봇 미니 출시 가격 거품 ‘뚝↓’ … 샤오미 캐리어는 얼마 .	ORG-B O O O O O O O ORG-B O O O
-2015년 고36월 모의고사 등급컷, 영어 1등급은 100점 예상 …수학은 .	O O O O O O O O O O
-지나+ㄴ해까지만 하+여도 부스별로 2장 정도씩 바이어를 위하+ㄴ 예비비표를 +었는데 올해는 없어지었다고 하+ㄴ다 .	O O O O O O O O O O O O O
-“쌍둥이 같다”는 말을 듣을 정도로 흡사 하+ㄴ 외모가 주목받은 것.공개되+ㄴ 사진 속 두 사람은 얼핏 보아서는 분간하기 어렵ㄹ 정도로 빼닮은 외모를 자랑하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-소유는 최근 tvN드라마 '도깨비' OST에 참여하는 등 개인활동에 주력하고 있다 .	PER-B O ORG-B O O O O O O O O
-삼성·쌍용“본격 시동”/승용차 시장 / 5파전 예 .	ORG-B O O O O O O
+지금 까지 한국 은 OFP 를 대부분 외국 에서 사들 였 다 .	O O ORG-B O O O O O O O O O O
+조정석 ♥ 박보영 오 나귀 흥행 질주 … 종편 동 시간대 1 위 ' 수성 '	PER-B O PER-B O O O O O O O O O O O O O
+샤오미 , UHD TV - 나인 봇 미니 출시 가격 거품 ‘ 뚝 ↓ ’ … 샤오미 캐리어 는 얼마 ?	ORG-B O O O O O O O O O O O O O O O O O O O O
+2015 년 고 3 6 월 모의고사 등급 컷 , 영어 1 등급 은 100 점 예상 … 수학 은 ?	DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O
+지난 해 까지 만 해도 부스 별로 2 장 정도 씩 바이어 를 위한 예비 비표 를 줬 는데 올해 는 없어 졌 다고 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 쌍둥이 같 다 ” 는 말 을 들 을 정도 로 흡사한 외모 가 주목 받 은 것 . 공개된 사진 속 두 사람 은 얼핏 보 아서 는 분간하 기 어려 울 정도 로 빼닮 은 외모 를 자랑 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소유 는 최근 tvN 드라마 ' 도깨비 ' OST 에 참여하 는 등 개인 활동 에 주력하 고 있 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O
+삼성 · 쌍용 “ 본격 시동 ” / 승용차 시장 / 5 파 전 예고	ORG-B O ORG-B O O O O O O O O O O O O

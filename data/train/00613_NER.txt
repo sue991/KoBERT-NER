@@ -1,14 +1,14 @@
-중소기업 청년취업인턴제에 참여하고자 하는 기업이나 청년 구직자는 경기경영자총협회 홈페이지(www.gyef.or.kr)에서 별도의 회원가입이나 회비 납부 등의 절차 없이 신청 하+ㄹ 수 있다 .	O O O O O O O ORG-B O O O O O O O O O O O O O
-연수 후 올해의원연수를 주관 하+ㄴ한 교육업체가 참가자들에게 2만원 상당의 멸치를 기념품으로 건네+었고, 이를 김영란법 고민 없이 그대로 받은 것이다 .	O O O O O O O MNY-B O O O O O O O O O O O O
-이경근 고령군의회의 사과장은 "연수 프로그램 중 염전 체험 같은 별도의 체험 프로그램이 있는데, 이것+이 올해는 열리지 않았다 .	PER-B ORG-B O O O O O O O O O O O O O O O O
-이로써 러데키는 2013년 스페인 바르셀로나 대회부터 이 종목에서 3회 연속 금메달을 목에 걸었다 .	O PER-B O O O O O O O O O O O O
-김정일의 앞날을 보면서 자녀를 진정 행복하게 만들는 길을 생각하+여보+ㅁ직하다 .	PER-B O O O O O O O O O
-올해 2분기(4∼6월) 한국의 전분기 대비 경제성장률은 0.3%로 그리스(0.6%), 스페인(1.0%) 등 남유럽 국가들보다 낮았다 .	O O ORG-B O O O O ORG-B ORG-B O O O O O
-마진이 크지 않고 재고 부담이 많은 유통구조, 중국 당국의 통크+ㄴ 면세점 투자로 인하+ㄴ 경쟁 심화, 엔저에 따르+ㄴ 일본 업계의 경쟁력 강화 등 면세점 내부의 경쟁도 만만찮다 .	O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O
-신용진은 “1988년 6월 10일 프로가 +었다 .	PER-B O O O O O O
-▷서울은 2012년 정규리그에서 우승하였다 .	ORG-B O O O O
-최경환 경제부총리 겸 기획재정부 장관이 한계기업 구조조정에 직접 나서겠다고 선언하였다 .	PER-B O O O O O O O O O O
-힐링캠프 최현석 ‘여심생포크림’ 공개, 섹시하+ㄴ 표정과 함께 …여 심 저격 최현석 셰프가 여심 생포크림의 레시피를 공개하+여화제+이다 .	O PER-B O O O O O O O O PER-B O O O O O O
-15일 방송되+ㄴ SBS ‘힐링캠프’에서는 최근 많은 인기를 끌고 있는 이연복 셰프와 최현석 셰프가 출연하+여시청자들에게 재미를 전하였다 .	O O ORG-B O O O O O O PER-B O PER-B O O O O O
-이날 최현석 셰프는 여심을 저격하는 요리로 ‘여심 생포크림’의 레시피를 공개하며 섹시하+ㄴ 모습을 보이었다 .	O PER-B O O O O O O O O O O O O
-최현석 셰프는 포도주스를 졸 이+ㄴ다는 말로 “‘DOWN’시키+ㄴ다는 표현을 사용하+ㄴ다”며 “DOWN”이라는 발음을 하며 섹시하+ㄴ 표정을 짓었다 .	PER-B O O O O O O O O O O O O O O O
+중소기업 청년 취업 인턴 제 에 참여하 고자 하 는 기업 이나 청년 구직자 는 경기 경영자 총 협회 홈페이지 ( www . gyef . or . kr ) 에서 별도 의 회원 가입 이나 회비 납부 등 의 절차 없이 신청할 수 있 다 .	O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+연수 후 올해 의원 연수 를 주관한 한 교육 업체 가 참가자 들 에게 2 만 원 상당 의 멸치 를 기념품 으로 건넸 고 , 이 를 김영란 법 고민 없이 그대로 받 은 것 이 다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O
+이경근 고령군 의회 의사 과장 은 " 연수 프로그램 중 염전 체험 같 은 별도 의 체험 프로그램 이 있 는데 , 이게 올해 는 열리 지 않 았 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 로써 러데키 는 2013 년 스페인 바르셀로나 대회 부터 이 종목 에서 3 회 연속 금메달 을 목 에 걸 었 다 .	O O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+김정일 의 앞날 을 보 면서 자녀 를 진정 행복하 게 만드 는 길 을 생각해 봄 직하 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+올해 2 분기 ( 4 ∼ 6 월 ) 한국 의 전 분기 대비 경제 성장률 은 0.3 % 로 그리스 ( 0.6 % ) , 스페인 ( 1.0 % ) 등 남유럽 국가 들 보다 낮 았 다 .	O O O O O O O O O ORG-B O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O
+마진 이 크 지 않 고 재고 부담 이 많 은 유통 구조 , 중국 당국 의 통 큰 면세점 투자 로 인한 경쟁 심화 , 엔 저 에 따른 일본 업계 의 경쟁력 강화 등 면세점 내부 의 경쟁 도 만만찮 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+신용진 은 “ 1988 년 6 월 10 일 프로 가 됐 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O
+▷ 서울 은 2012 년 정규 리그 에서 우승 했 다 .	O ORG-B O DAT-B DAT-I O O O O O O O
+최경환 경제 부총리 겸 기획 재정부 장관 이 한계 기업 구조 조정 에 직접 나서 겠 다고 선언 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+힐링 캠프 최현석 ‘ 여심 생포 크림 ’ 공개 , 섹시한 표정 과 함께 … 여심 저격 최현석 셰프 가 여심 생포 크림 의 레시피 를 공개해 화제 다 .	O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+15 일 방송된 SBS ‘ 힐링 캠프 ’ 에서 는 최근 많 은 인기 를 끌 고 있 는 이연복 셰프 와 최현석 셰프 가 출연해 시청자 들 에게 재미 를 전 했 다 .	DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O
+이날 최현석 셰프 는 여심 을 저격하 는 요리 로 ‘ 여심 생포 크림 ’ 의 레시피 를 공개하 며 섹시한 모습 을 보 였 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+최현석 셰프 는 포도 주스 를 졸인다는 말 로 “ ‘ DOWN ’ 시킨다는 표현 을 사용한다 ” 며 “ DOWN ” 이 라는 발음 을 하 며 섹시한 표정 을 지 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

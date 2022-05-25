@@ -1,13 +1,13 @@
-김윤진은 “나이들 +ㄴ 미희는 건강 하+ㄴ 상태가 아니었기에 목소리나 걸음걸이를 더 효과적으로 표현하려고 많은 고민하였다”며 “단지 미스터리한 이야기로만 머물지 않고 가족의 의미를 되돌아 보+ㄹ 수 있는 작품”이라고 밝히었다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-홍라희 전 삼성미술관장, 아들이재용 부회장 20분 면 .	PER-B O O PER-B O O O O
-최순실 정국에 시대를 다시 읽는 .	PER-B O O O O O
-당시 요르단 정부는 협상을 거부하였다 .	O ORG-B ORG-I O O O
-2분기에도 서울(2046 실), 경기(3735실), 부산(1384실) 등 전국에 총 7455실이 공급되+ㄹ 예정이어서 공급과잉 우려도 있어 ‘옥석 가리기’를 하+여야 하+ㄴ다는 지적이 나 오+ㄴ다 .	O LOC-B O LOC-B LOC-B O O O O O O O O O O O O O O O O O
-연암대, 2주기 전문대학 기관 평가인증에서 ‘교육품질인증대학’ 재선 .	ORG-B O O O O O O O
-신용카드 발급 수가 1억장 밑으로 떨어지+ㄴ 것은 2008년 말(9624만매) 이후 처음이다 .	O O O O O O O O O O O O
-실제 삼성 계열사 인수, 한화솔라원과 한화큐셀간 합병 등 굵직하+ㄴ의사결정은 지난해 김 회장이 경영에 복귀 하+ㄴ 시점에 이루어 지+었다 .	O ORG-B O O ORG-B ORG-B O O O O PER-B O O O O O O O O
-분기별 수치를 보더라도 2분기 이익 전망치가 35조2000억원, 3분기 37조8000억원, 4분기 34조1000억원으로 1분기를 제외 하+ㄴ 3개 분기 모두 이익이 작년보다 15% 이상 늘어나 +ㄹ 것로 전망하고 있다 .	O O O O O O MNY-B O MNY-B O MNY-B O O O O O O O O O O O O O O O O
-이익이 늘어나면 주가도 그만큼 오르+ㄹ까? 삼성전자와 LG전자의 실적 예상치가 나오던 4월 말부터 상장기업 전체 실적이 생각보다 괜찮을 것+이란 전망이 있었지만 종합주가지수가 오르지 못하였다 .	O O O O O ORG-B ORG-B O O O O O O O O O O O O O O O O O
-이밖에도 단체관광을 통하+ㄴ 북한 방문이 아니+ㄹ 경우 반드시 평양 주재 영국대사관에 북한 여행 사실을 공지하+ 여야 하+ㄴ다고 주의를 당부하기도 +였다 .	O O O LOC-B O O O O ORG-B ORG-I ORG-I LOC-B O O O O O O O O O
-버락 오바마 미국 대통령은 “역사의 진정 하+ㄴ거인, 싱가포르의 아버지, 아시아의 위대하+ㄴ 전략가의 한 사람으로 기억되+ㄹ 것”이라고 평가하였고, 토니 애벗 호주 총리는 “그의 지도력 때문에 싱가포르는 세계의 가장 번영되 +ㄴ 국가, 금융강국이 +었다”고 전하였다 .	PER-B PER-I ORG-B O O O O LOC-B O LOC-B O O O O O O O PER-B PER-I ORG-B O O O O LOC-B O O O O O O O O O
-리콴유 전 총리는 현대 싱가포르의 원형을 만들 +ㄴ사람으로 평가받는다 .	PER-B O O ORG-B ORG-B O O O O O
+김윤진 은 “ 나이 든 미희 는 건강한 상태 가 아니 었 기에 목소리 나 걸음걸이 를 더 효과적 으로 표현하 려고 많 은 고민 했 다 ” 며 “ 단지 미스터리 한 이야기 로 만 머물 지 않 고 가족 의 의미 를 되돌아볼 수 있 는 작품 ” 이라고 밝 혔 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+홍라희 전 삼성 미술관 장 , 아들 이재용 부회장 20 분 면회	PER-B O O O O O O PER-B O O O O
+최순실 정국 에 시대 를 다시 읽 는다	PER-B O O O O O O O
+당시 요르단 정부 는 협상 을 거부 했 다 .	O ORG-B ORG-I O O O O O O O
+2 분기 에 도 서울 ( 2046 실 ) , 경기 ( 3735 실 ) , 부산 ( 1384 실 ) 등 전국 에 총 7455 실 이 공급될 예정 이 어서 공급 과잉 우려 도 있 어 ‘ 옥석 가리 기 ’ 를 해야 한다는 지적 이 나온다 .	O O O O LOC-B O O O O O LOC-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+연암 대 , 2 주기 전문대학 기관 평가 인증 에서 ‘ 교육 품질 인증 대학 ’ 재 선정	ORG-B ORG-I O O O O O O O O O O O O O O O O
+신용카드 발급 수 가 1 억 장 밑 으로 떨어진 것 은 2008 년 말 ( 9624 만 매 ) 이후 처음 이 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+실제 삼성 계열사 인수 , 한화 솔라 원 과 한화 큐셀 간 합병 등 굵직한 의사 결정 은 지난해 김 회장 이 경영 에 복귀한 시점 에 이뤄졌 다 .	O ORG-B O O O ORG-B ORG-I ORG-I O ORG-B ORG-I O O O O O O O O PER-B O O O O O O O O O O
+분기 별 수치 를 보 더라도 2 분기 이익 전망 치 가 35 조 2000 억 원 , 3 분기 37 조 8000 억 원 , 4 분기 34 조 1000 억 원 으로 1 분기 를 제외한 3 개 분기 모두 이익 이 작년 보다 15 % 이상 늘어날 걸 로 전망하 고 있 다 .	O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O
+이익 이 늘어나 면 주가 도 그만큼 오를까 ? 삼성전자 와 LG 전자 의 실적 예상 치 가 나오 던 4 월 말 부터 상장 기업 전체 실적 이 생각 보다 괜찮 을 거 란 전망 이 있 었 지만 종합 주가 지수 가 오르 지 못 했 다 .	O O O O O O O O O ORG-B O ORG-B ORG-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 밖 에 도 단체 관광 을 통한 북한 방문 이 아닐 경우 반드시 평양 주재 영국 대사관 에 북한 여행 사실 을 공지해야 한다고 주의 를 당부하 기 도 했 다 .	O O O O O O O O LOC-B O O O O O ORG-B ORG-I ORG-I ORG-I O LOC-B O O O O O O O O O O O O O
+버락 오바마 미국 대통령 은 “ 역사 의 진정한 거인 , 싱가포르 의 아버지 , 아시아 의 위대한 전략가 의 한 사람 으로 기억될 것 ” 이라고 평가 했 고 , 토니 애벗 호주 총리 는 “ 그 의 지도력 때문 에 싱가포르 는 세계 의 가장 번영 된 국가 , 금융 강국 이 됐 다 ” 고 전 했 다 .	PER-B PER-I ORG-B O O O O O O O O ORG-B O O O LOC-B O O O O O O O O O O O O O O O PER-B PER-I ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+리콴유 전 총리 는 현대 싱가포르 의 원형 을 만든 사람 으로 평가 받 는다 .	PER-B O O O ORG-B ORG-B O O O O O O O O O O

@@ -1,17 +1,17 @@
-미사일은 500여km를 날아 동해상에 낙하하였다 .	O O O LOC-B O O
-우리 군은 “북한의 탄도미사일 발사는 또다시 유엔 안보리 결의를 정면으로 위반 하+ㄴ도발 행위로 북한의 핵 및 미사일 능력을 과시하+ㅁ으로써 관심을 유도하고 미국 신행정부의 대북 강경 기조에 맞대응하기 위 하+ㄴ 무력시위의 일환으로 평가되 +ㄴ다”고 분석하였다 .	O O ORG-B O O O ORG-B ORG-I O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O
-국방부는 올해 초부터 북한이 미국 트럼프 신행정부 출범을 전후하+여 언제든 핵실험이나 탄도미사일 발사 등 추가 도발을 하+ㄹ 것으로 예상 하+여+았다 .	ORG-B O O ORG-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
-선거법이 개정되기 이전에 행하+여지+ㄴ 서울시내 4개 구청장의 선심행위와는 다르+ㄴ 것이다 .	O O O O LOC-B O O O O O O
-통화승수란 한은이 금융회사에 공급 하+ㄴ돈에 비하+여시 중 통화량이 얼마나 증가하였는지를 보이어주는 지표+이다 .	O ORG-B O O O O O O O O O O O
-아베 총리는 부인 아키에(昭惠) 여사와 1시간여에 걸치+어 기념관을 둘러보았다 .	PER-B O O PER-B O O O O O O
-김 감독은 “세 선수의 시너지를 기대하+ㄴ다 .	PER-B O O O O O O
-KOTRA 워싱턴 무역관은 “반덤핑 조사 대상 업체가 충분하+ㄴ 정보를 제공하지 않을 경우 불리하+ㄴ판정을 받을 수 있기 때문에 적극적 이+ㄴ 대응이 필요하다”고 조언하였다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
-보건당국과 국방부는 A 일병이 8번 환자를 만나 +았던 시기가 8번 환자가 1번 환자를 진료하기 전이었지만 만일의 사태를 대비하+여A 일병을 일단 격리하였다 .	ORG-B ORG-B PER-B O O O O O O O O O O O O O O PER-B O O O O
-컬투쇼에 출연하+ㄴ아웃사이더가 결혼식 축가로 '외톨이'를 부르+ㄴ다고 말 하+여놀라움을 자아내 +었다 .	O ORG-B O O O O O O O O O
-31일 방송되+ㄴ SBS 파워FM '두 시탈출 컬투쇼'에는 아웃사이더가 출연하였다 .	O O O O O O O PER-B O O
-이날 아웃사이더는 "결혼식 축가를 자주 하+ㄴ다"며 "신부들이 '외톨이'를 부르어 달라고 하+ㄴ다"고 말하였다 .	O PER-B O O O O O O O O O O O
-그는 "결혼식 당시 눈물을 흘리지 않느냐.가족과 헤어지+어야 하는 허전 하+ㅁ을 달래고 싶어서 '외톨이'를 부르어 달라고 하+ㄴ다"고 그 이유를 설명하였다 .	O O O O O O O O O O O O O O O O O O O O
-아웃사이더는 잇어"마이크 잭슨의 '유어 낫 얼론'을 힙합으로 리믹스 하+여서 부르어 주+ㄴ다 .	PER-B PER-B PER-I O O O O O O O O O
-여성 앵커 성추행 논란에 휩싸이+ㄴ 미국 폭스뉴스의 회장이 +ㄴ로저에일스(76)가 자리에서 물러나 +ㄴ다 .	O O O O O ORG-B ORG-I O PER-B O O O O
-폭스뉴스의 모기업이+ㄴ 21세기 폭스는 21일(현지시간)에일스가 폭스뉴스·폭스 비즈니스 네트워크의 회장 겸 최고경영자(CEO), 폭스TV 회장직에서 즉각 사퇴하+ㄴ다고 공식 발표하였다 .	ORG-B O ORG-B ORG-B ORG-B ORG-B ORG-I ORG-I O O O ORG-B O O O O O O
-○… 롯데주류는 ‘클라우드’ 출시 2주년을 기념 하+ 여기존 355㎖캔 제품보다 용량을 65㎖ 늘리+ㄴ 420㎖한정판 클라우드 대용량 캔 제품을 출시하+ㄴ다고 15일 밝히었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
+미사일 은 500 여 km 를 날 아 동해 상 에 낙하 했 다 .	O O O O O O O O LOC-B O O O O O O
+우리 군 은 “ 북한 의 탄도 미사일 발사 는 또 다시 유엔 안보리 결의 를 정면 으로 위반한 도발 행위 로 북한 의 핵 및 미사일 능력 을 과시함 으로써 관심 을 유도하 고 미국 신 행정부 의 대북 강경 기조 에 맞대응하 기 위한 무력시위 의 일환 으로 평가된다 ” 고 분석 했 다 .	O O O O ORG-B O O O O O O O ORG-B ORG-I O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+국방부 는 올해 초 부터 북한 이 미국 트럼프 신 행정부 출범 을 전후해 언제 든 핵 실험 이나 탄도 미사일 발사 등 추가 도발 을 할 것 으로 예상해 왔 다 .	ORG-B O O O O ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+선거법 이 개정되 기 이전 에 행해 진 서울 시내 4 개 구청장 의 선심 행위 와 는 다른 것 이 다 .	O O O O O O O O LOC-B O O O O O O O O O O O O O O
+통화승수 란 한은 이 금융회사 에 공급한 돈 에 비해 시중 통화량 이 얼마나 증가 했 는지 를 보 여 주 는 지표 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+아베 총리 는 부인 아키에 ( 昭惠 ) 여사 와 1 시간 여 에 걸쳐 기념관 을 둘러 봤 다 .	PER-B O O O PER-B O PER-B O O O O O O O O O O O O O O
+김 감독 은 “ 세 선수 의 시너지 를 기대한다 .	PER-B O O O O O O O O O O
+KOTRA 워싱턴 무역 관 은 “ 반덤핑 조사 대상 업체 가 충분한 정보 를 제공하 지 않 을 경우 불리한 판정 을 받 을 수 있 기 때문 에 적극적 인 대응 이 필요하 다 ” 고 조언 했 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보건 당국 과 국방부 는 A 일병 이 8 번 환자 를 만났 던 시기 가 8 번 환자 가 1 번 환자 를 진료 하 기 전 이 었 지만 만일 의 사태 를 대비해 A 일병 을 일단 격리 했 다 .	ORG-B ORG-I O ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+컬투쇼 에 출연한 아웃사이더 가 결혼식 축가 로 ' 외톨이 ' 를 부른다고 말해 놀라움 을 자아냈 다 .	O O O ORG-B O O O O O O O O O O O O O O O
+31 일 방송된 SBS 파워 FM ' 두 시 탈출 컬투쇼 ' 에 는 아웃사이더 가 출연 했 다 .	DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O
+이날 아웃사이더 는 " 결혼식 축가 를 자주 한다 " 며 " 신부 들 이 ' 외톨이 ' 를 불 러 달 라고 한다 " 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 " 결혼식 당시 눈물 을 흘리 지 않 느냐 . 가족 과 헤어져야 하 는 허전함 을 달래 고 싶 어서 ' 외톨이 ' 를 불 러 달 라고 한다 " 고 그 이유 를 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아웃사이더 는 이 어 " 마이크 잭슨 의 ' 유어 낫 얼론 ' 을 힙합 으로 리믹스 해서 불 러 준다 .	PER-B O O O O PER-B PER-I O O O O O O O O O O O O O O O
+여성 앵커 성추행 논란 에 휩싸인 미국 폭스뉴스 의 회장 인 로저 에일 스 ( 76 ) 가 자리 에서 물러난다 .	O O O O O O ORG-B ORG-I O O O PER-B PER-I PER-I O O O O O O O O
+폭스뉴스 의 모 기업 인 21 세기 폭스 는 21 일 ( 현지 시간 ) 에일 스가 폭스뉴스 · 폭스 비즈니스 네트워크 의 회장 겸 최고 경영자 ( CEO ) , 폭스 TV 회장 직 에서 즉각 사퇴한다고 공식 발표 했 다 .	ORG-B O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O PER-B O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+○ … 롯데주류 는 ‘ 클라우드 ’ 출시 2 주년 을 기념해 기존 355 ㎖ 캔 제품 보다 용량 을 65 ㎖ 늘린 420 ㎖ 한정판 클라우드 대용량 캔 제품 을 출시한다고 15 일 밝 혔 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O

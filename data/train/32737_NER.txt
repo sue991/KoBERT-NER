@@ -1,15 +1,15 @@
-정도 6백 년을 맞아 「정도 6백 년 서울 야화」(KBS1TV 밤 11시20분)도 마련되+어 있다 .	O O O O O O O O O O O O O O
-특히 고인의 오랜 지기 이+ㄴ 송해는 눈물을 머금고 손인사를 전하+여보는 이들의 마음을 울컥하게 +였다 .	O O O O O PER-B O O O O O O O O O
-축구선수 크리스티아누 호날두를 국내 팬들이 애정과 친근하+ㅁ의 표시로 ‘우리형’으로 부르는 것처럼 말이다 .	O PER-B PER-I O O O O O O O O O O
-가는데 2박3일, 오는데 2박3일 걸리는 길이다 .	O O O O O O O
-1위 더민주 김병관 의원을 제외하면 19억1408만4000원이었다 .	O ORG-B PER-B O O O O
-임시공휴일이+ㄴ 데다 고속도로 통행료가 면제되었던 14일 518만대의 차량이 고속도로를 이용하+ㄴ 것으로 집계되었다 .	O O O O O O O O O O O O O
-소속사 JYP엔터테인먼트는 지나 +ㄴ 3일 정오 공식 홈페이지, 유튜브, 원더걸스 공식 채널 등에 정규 3집 앨범 ‘REBOOT’ 타이틀곡 ‘IFeelYou의 뮤직비디오를 게재하였다 .	O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O
-성장 과정에서 엔지니어+이었던 양아버지의 영향을 받아 베조스는 기계 쪽을 더 깊게 파고들 +ㄹ 수 있었다 .	O O O O O O PER-B O O O O O O O O O
-이제 갓 고등학교를 졸업하고 실업으로 직행하+ㄴ 최종우(19)가 그 주인공이다 .	O O O O O O PER-B O O O
-그는 조희팔과 수시로 전화 연락을 +였고 수입차를 몰고 다니며 사업가 행세도 +였다 .	O PER-B O O O O O O O O O O O
-북경시 당국은 뒤늦게 야「한 ­ 중항공협정이 체결되었으니 이제는 국적기 이+ㄴ 대한항공의 북 경 사무소 간판을 사용하+여도 좋다」는 통보를 +였다 .	ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O ORG-B O O O O O O O O O
-왜냐하면 우리가 이기+ㄹ 것+이니까요.”이재인 박사(49·사진)의 목소리는 결연하었다 .	O O O PER-B O O O O
-2016년을 기준으로 약 1981명이 대학원에 진학하여 졸업생 대비 약 10%가 진학하였다 .	O O O O O O O O O O O O
-‘평택 파인힐타운’은 회사가 주택의 임대·매매·운영·관리까지 체계적으로 대행 하+여주+ㄴ다 .	O O O O O O O O O
-또한 롯데백화점은 국내 최초로 7월 ‘3D 발사이즈 측정기’를 올해 본점 구두매장에 도입하였다 .	O ORG-B O O O O O O O O O O O
+정도 6 백 년 을 맞 아 「 정도 6 백 년 서울 야화 」 ( KBS 1 TV 밤 11 시 20 분 ) 도 마련돼 있 다 .	O O O O O O O O O O O O O O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O
+특히 고인 의 오랜 지기 인 송해 는 눈물 을 머금 고 손 인사 를 전해 보 는 이 들 의 마음 을 울컥하 게 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+축구 선수 크리스티아누 호날두 를 국내 팬 들 이 애정 과 친근함 의 표시 로 ‘ 우리 형 ’ 으로 부르 는 것 처럼 말 이 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+가 는 데 2 박 3 일 , 오 는 데 2 박 3 일 걸리 는 길 이 다 .	O O O O O O O O O O O O O O O O O O O O O
+1 위 더 민주 김병관 의원 을 제외하 면 19 억 1408 만 4000 원 이 었 다 .	O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O
+임시 공휴일 인데 다 고속도로 통행료 가 면제 됐 던 14 일 518 만 대 의 차량 이 고속도로 를 이용한 것 으로 집계 됐 다 .	O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+소속 사 JYP 엔터테인먼트 는 지난 3 일 정오 공식 홈페이지 , 유튜브 , 원더 걸스 공식 채널 등 에 정규 3 집 앨범 ‘ REBOOT ’ 타이틀 곡 ‘ I Feel You 의 뮤직 비디오 를 게재 했 다 .	O O ORG-B ORG-I O O DAT-B DAT-I O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+성장 과정 에서 엔지니어 였 던 양아버지 의 영향 을 받 아 베조스 는 기계 쪽 을 더 깊 게 파고들 수 있 었 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+이제 갓 고등학교 를 졸업하 고 실업 으로 직행한 최종우 ( 19 ) 가 그 주인공 이 다 .	O O O O O O O O O PER-B O O O O O O O O O
+그 는 조희팔 과 수시로 전화 연락 을 했 고 수입 차 를 몰 고 다니 며 사업가 행세도 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O
+북경시 당국 은 뒤늦 게 야 「 한 ­ 중 항공 협정 이 체결 됐 으니 이제 는 국적 기 인 대한항공 의 북경 사무소 간판 을 사용해도 좋 다 」 는 통보 를 했 다 .	ORG-B ORG-I O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O
+왜냐하면 우리 가 이길 거 니까요 . ” 이재인 박사 ( 49 · 사진 ) 의 목소리 는 결연 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O
+2016 년 을 기준 으로 약 1981 명 이 대학원 에 진학하 여 졸업생 대비 약 10 % 가 진학 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+‘ 평택 파인힐 타운 ’ 은 회사 가 주택 의 임대 · 매매 · 운영 · 관리 까지 체계적 으로 대행해 준다 .	O O O O O O O O O O O O O O O O O O O O O O O
+또한 롯데백화점 은 국내 최초 로 7 월 ‘ 3 D 발 사이즈 측정기 ’ 를 올해 본점 구두 매장 에 도입 했 다 .	O ORG-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O

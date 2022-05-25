@@ -1,17 +1,17 @@
-지난달 북한 금강산 지역에서 열리+ㄴ 남북 이산가족 상봉 행사에 참여하+ㄴ한국 측 가족 가운데 24%가 일회성 상봉으로 인하+ㄴ후유증을 겪고 있는 것으로 30일 나타나 +았다 .	O LOC-B LOC-I O O O O O O ORG-B O O O O O O O O O O O O O O
-이한구 공천관리위원장은 “11일 오전에 3차 경선지역 및 대상자, 단수추천지역 60여곳을 발표하겠다”고 10일 예고하였다 .	PER-B O O O O O O O O O O O O O
-공사 직원은 1800여명, 협력업체 직원은 3500여명이다 .	O O O O O O O
-초심으로 돌아가기 위하+여 브랜드 정체성을 스포츠 활동에 집중 하+ㄴ ‘스타일리시 퍼포먼스’로 정의하고, 이와 관계없는 상품 라인을 과감히 정리하였다 .	O O O O O O O O O O O O O O O O O O O
-그런 뒤 전날 밤을 지내+ㄴ 술집으로 돌아오아 수차례 총격을 추가로 가하였으며, 차를 훔치+어 공항으로 향하었다. 베+ㄴ 벨가셈의 부친은 아들이 처음 경찰에 총을 쏘+ㄴ 뒤 자신에게 전화해 “용서 하+여달라.내가 경찰을 +았다”고 말하였다고 설명하였다. 베+ㄴ발기 셈은 파리 연쇄 테러가 발생하+ㄴ 2015년 급진주의 의혹으로 자택 수사 대상에 오르았지만, 결정적 이+ㄴ 증거가 발견되지 않았고 고위험군 명단에도 오르지 않았다.(서울=뉴스1 .	O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O LOC-B O
-윤여정은 "나+ㄴ 정말 JTBC '뉴스룸'의 팬이다 .	PER-B O O ORG-B O O O
-영화는 그동안 폭군의 이미지로만 소비되었던 사도의 다른 모습들, 예컨데 유약하거나 고뇌하는 모습 등을 다각도로 조명하였다 .	O O O O O PER-B O O O O O O O O O O
-최근에는 구글을 벤치마킹 하+ 여자유롭ㄴ 업무 환경을 제공하고 스타트업 마인드에 초점을 맞추+ㄴ 기업문화를 조성하기 위하+여 노력하고 있다 .	O ORG-B O O O O O O O O O O O O O O O O
-입주기업에 선정되면 내년 10월까지 사무실 및 집기, 홍보·투자 등의 비용을 지원받는다 .	O O O O O O O O O O O O
-그러면서 예원과 의 욕설 논란에 대하+여 “일단은 많이 부끄럽고, 그 친구에게 미안하+ㄴ 마음도 많이 생기었다”면서 “시간이 지나면 지나 +ㄹ수록 후회가 많이 되더라”고 밝히었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O
-내년 봄 일본 주요 기업의 대졸 채용 인원이 올해 대비 9.7% 증가 하+ㄹ 전망이라고 니혼게이자이신문(닛케이)이 21일 보도하였다 .	O O ORG-B O O O O O O O O O O O ORG-B O O O
-또한 멀티 리더기 기능을 제공하+여 스마트폰, 디지털카메라, 블랙박스 등에 많이 사용되는 SD카드, 마이크로SD카드 등의 데이터를 쉽게 확인 하+ㄹ 수 있다. 특히 PC 없이도 ‘위보 에 어디스크에’에 영화, 음악 파일을 다운로드 받고 곧바로 감상 하+ㄹ 수 있는 비트토렌토 기능을 제공하며, 다음 달부터는 펌웨어 업그레이드를 통하+여네트워크 스토리지(NAS) 기능을 지원 하+여데이터 활용의 편리성을 강화하+ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또 ‘제3회 문화데이터 경진대회’ 우수상을 수상하+ㄴ악트그룹 역시 전통 문양을 활용하여 탈부착식 아트가구를 생산하여 많은 사랑을 받고 있다 .	O O O O O ORG-B O O O O O O O O O O O O
-정식 이름은 ‘샬럿 엘리자베스 다이애나’.샬 럿 공주는 오빠 이+ㄴ 조지 왕자(3)의 뒤를 잇어 왕위 계승 순위 4위 +이다 .	O O PER-B PER-I PER-I O O O O PER-B PER-I O O O O O O O O
-민주당 대선 후보 이+ㄴ 힐러리 클린턴은 즉각 “소름이 끼치+ㄴ다 .	ORG-B O O O PER-B PER-I O O O O
-모델하우스는 송산신도시 내에 위치하+ㄴ다 .	ORG-B LOC-B O O O
-그동안 KB손해보험 배구의 모든 문제점은 세터로부터 비롯되었다고 구단은 믿었다 .	O ORG-B O O O O O O O O
+지난달 북한 금강산 지역 에서 열린 남북 이산가족 상봉 행사 에 참여한 한국 측 가족 가운데 24 % 가 일회성 상봉 으로 인한 후유증 을 겪 고 있 는 것 으로 30 일 나타났 다 .	O LOC-B LOC-I O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O
+이한구 공천 관리 위원장 은 “ 11 일 오전 에 3 차 경선 지역 및 대상자 , 단수 추천 지역 60 여 곳 을 발표하 겠 다 ” 고 10 일 예고 했 다 .	PER-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+공사 직원 은 1800 여 명 , 협력 업체 직원 은 3500 여 명 이 다 .	O O O O O O O O O O O O O O O O O
+초심 으로 돌아가 기 위해 브랜드 정체성 을 스포츠 활동 에 집중한 ‘ 스타 일리 시 퍼포먼스 ’ 로 정의하 고 , 이 와 관계없 는 상품 라인 을 과감히 정리 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그런 뒤 전날 밤 을 지낸 술집 으로 돌아 와 수차례 총격 을 추가 로 가 했 으며 , 차 를 훔쳐 공항 으로 향 했 다 . 벤 벨가셈 의 부친 은 아들 이 처음 경찰 에 총 을 쏜 뒤 자신 에게 전화 해 “ 용서해 달 라 . 내 가 경찰 을 쐈 다 ” 고 말 했 다고 설명 했 다 . 벤 발기 셈 은 파리 연쇄 테러 가 발생한 2015 년 급진주의 의혹 으로 자택 수사 대상 에 올 랐 지만 , 결정적 인 증거 가 발견되 지 않 았 고 고 위험 군 명단 에 도 오르 지 않 았 다 . ( 서울 = 뉴스 1 )	O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O ORG-B ORG-I O
+윤여정 은 " 난 정말 JTBC ' 뉴스룸 ' 의 팬 이 다 .	PER-B O O O O ORG-B O O O O O O O O
+영화 는 그동안 폭군 의 이미지 로 만 소비 됐 던 사도 의 다른 모습 들 , 예컨대 유약하 거나 고뇌하 는 모습 등 을 다각도 로 조명 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+최근 에 는 구글 을 벤치마킹 해 자유로 운 업무 환경 을 제공하 고 스타트 업 마인드 에 초점 을 맞춘 기업 문화 를 조성하 기 위해 노력하 고 있 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+입주 기업 에 선정되 면 내년 10 월 까지 사무실 및 집기 , 홍보 · 투자 등 의 비용 을 지원 받 는다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+그러 면서 예원 과 의 욕설 논란 에 대해 “ 일단 은 많이 부끄럽 고 , 그 친구 에게 미안한 마음 도 많이 생 겼 다 ” 면서 “ 시간 이 지나 면 지날수록 후회 가 많이 되 더라 ” 고 밝 혔 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내년 봄 일본 주요 기업 의 대졸 채용 인원 이 올해 대비 9.7 % 증가할 전망 이 라고 니혼게이자이신문 ( 닛케이 ) 이 21 일 보도 했 다 .	O O ORG-B O O O O O O O O O O O O O O O ORG-B O ORG-B O O DAT-B DAT-I O O O O
+또한 멀티 리더 기 기능 을 제공해 스마트 폰 , 디지털 카메라 , 블랙박스 등 에 많이 사용되 는 SD 카드 , 마이크로 SD 카드 등 의 데이터 를 쉽 게 확인할 수 있 다 . 특히 PC 없이 도 ‘ 위보 에어 디스크 에 ’ 에 영화 , 음악 파일 을 다운로드 받 고 곧 바로 감상할 수 있 는 비트 토 렌토 기능 을 제공하 며 , 다음 달 부터 는 펌웨어 업그레이드 를 통해 네트워크 스토리지 ( NAS ) 기능 을 지원해 데이터 활용 의 편리성 을 강화할 계획 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 ‘ 제 3 회 문화 데이터 경진 대회 ’ 우수 상 을 수상한 악트 그룹 역시 전통 문양 을 활용하 여 탈 부착 식 아트 가구 를 생산하 여 많 은 사랑 을 받 고 있 다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+정식 이름 은 ‘ 샬럿 엘리자베스 다이애나 ’ . 샬럿 공주 는 오빠 인 조지 왕자 ( 3 ) 의 뒤 를 이 어 왕위 계승 순위 4 위 다 .	O O O O PER-B PER-I PER-I O O PER-B O O O O PER-B PER-I O O O O O O O O O O O O O O O
+민주당 대선 후보 인 힐러리 클린턴 은 즉각 “ 소름 이 끼친다 .	ORG-B O O O PER-B PER-I O O O O O O O
+모델 하우스 는 송산 신도시 내 에 위치한다 .	ORG-B ORG-I O LOC-B LOC-I O O O O
+그동안 KB 손해보험 배구 의 모든 문제점 은 세터 로부터 비롯 됐 다고 구단 은 믿 었 다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O

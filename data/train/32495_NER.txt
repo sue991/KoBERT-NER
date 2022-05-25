@@ -1,15 +1,15 @@
-앞서 +어 북한의 중앙방송은 13일 아나운서가 낭송 하+ㄴ 김일성 추모방송을 통하+여 북한군은 『세상이 열백번 변하+ㄴ다하+여도 추호의 동요 없이 최고사령관의 영도를 충성으로 받들어 나가+ㄹ 것이며 총대로 최고사령관을 결사 옹위 하+ㄹ 것』이라고 주장하였다 .	O O ORG-B ORG-B O O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O
-일본의 4월 중 경상수지 흑자가 지난해 같은 기간에 비하+여22.6% 증가 하+ㄴ 1백39억8천만 달러를 기록하였다고 일본 대장성이 3일 밝히었다 .	ORG-B O O O O O O O O O O MNY-B MNY-I O ORG-B ORG-I O O O
-기업에 228억 가치 기술이전… 76년 실용학 풍꽃 피우었 .	O MNY-B O O O O O O O
-오바마 대통령은 “한국은 교사들에게 의사만큼 봉급을 주고, 교육(교사)을 최고의 직업으로 여기 +ㄴ다”고 말하였다 .	PER-B O ORG-B O O O O O O O O O O O
-자유한국당 “문재인회의록 거짓말, 형사고발 추진 하+ㄹ 것 .	ORG-B PER-B O O O O O O
-애플은 이용자가 사진을 찍으면 위성 위치 확인 시스템(GPS) 데이터베이스를 바탕으로 사진을 촬영하+ㄴ 위치를 함께 기록하는 데 애플은 참석자가 촬영하+ㄴ 사진의 장소를 일본 오키노시마로 표시하였다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O O O LOC-B LOC-I O O
-외국계 증권사가 지난해 내놓은 보고서 중 17.7%가 ‘매도’ 의견을 보이+ㄴ 것과 크게 비교되 +ㄴ다 .	O O O O O O O O O O O O O O O
-쉐눕뷔페는 천연식자재를 사용하여 기름에 튀기지 않고 삶거나 그릴에 직접 구은조리법과 100% 엑스트라버진 올리브 오일을 사용하는 웰빙 요리를 갖추고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-‘모범납세자 선정’ 송승헌-윤아, 대통령 표창 수상하고 ‘찰칵’ …그 모습은 .	O O PER-B O O O O O O O
-슬럼프가 미치는 영향(복수응답)은 어떻 +ㄹ까? 응답자 74.7%는 슬럼프로 인하+ 여직장 생활에 지장을 받고 있다고 입을 모으았다 .	O O O O O O O O O O O O O O O O O
-서울지방경찰청 국제범죄수사대는 해외에서 발급되+ㄴ 신용카드로 국내 인터넷 쇼핑몰에서 금이나 홍삼 등을 구입하+여싸게 되팔는 수법으로 약 16억원을 챙기+ㄴ 혐의(특정경제범죄가중처벌법상 사기 등)로 조직 총책 정모씨(41) 등 8명을 구속하고 알선 담당 공모씨(43) 등 10명을 불구속하였다고 25일 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O MNY-B O O O O O O PER-B O O O O O PER-B O O O O O O
-또 기업들을 매달 한자리에 모으아 양성평등 실천 내용을 발표하고, 성과를 공유하도록 하죠. 기업 간 경쟁을 유도하+여참여도를 높이기 위 하+ㄴ 조치+이죠.”의무와 권리▼ 직장문화+이라고 하니 ‘맨스플레인’이 떠오르네요. 정치권은 특히 맨스플레인이 강 하+ㄹ 것 같은데 어떻게 처신하였습니까 (맨스플레인은 ‘남자(man)’와 ‘설명하다(explain)’를 결합하+ㄴ 신조어로, 남성이 여성에게 항상 가르치듯 설명하는 것을 뜻하+ㄴ다) .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-시 주석과 블라디미르 푸틴 러시아 대통령은 지난달 정상회담에서도 사드 배치에 반대하였다 .	PER-B O PER-B PER-I ORG-B O O O O O O O
-이석수가 감찰 내용을 누설 하+ㄴ 것도 법 위반 차원을 떠나 +아보기에 좋지 않다 .	PER-B O O O O O O O O O O O O O
-“학자도 언론도 왜 이 문제에 대하+여고민이 없나.” 한 두 번이 아니었다 .	O O O O O O O O O O O O
+앞서 북한 의 중앙방송 은 13 일 아나운서 가 낭송한 김일성 추모 방송 을 통해 북한 군 은 『 세상 이 열 백 번 변한다 해도 추호 의 동요 없이 최고 사령관 의 영도 를 충성 으로 받들 어 나갈 것 이 며 총대 로 최고 사령관 을 결사 옹위할 것 』 이라고 주장 했 다 .	O ORG-B O ORG-B O DAT-B DAT-I O O O PER-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 의 4 월 중 경상 수지 흑자 가 지난해 같 은 기간 에 비해 22.6 % 증가한 1 백 39 억 8 천만 달러 를 기록 했 다고 일본 대장성 이 3 일 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O O O ORG-B ORG-I O DAT-B DAT-I O O O O
+기업 에 228 억 가치 기술이전 … 76 년 실용 학풍 꽃 피 웠 다	O O MNY-B MNY-I O O O DAT-B DAT-I O O O O O O
+오바마 대통령 은 “ 한국 은 교사 들 에게 의사 만큼 봉급 을 주 고 , 교육 ( 교사 ) 을 최고 의 직업 으로 여긴다 ” 고 말 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자유 한국 당 “ 문재인 회의록 거짓말 , 형사 고발 추진할 것 ”	ORG-B ORG-I ORG-I O PER-B O O O O O O O O
+애플 은 이용자 가 사진 을 찍 으면 위성 위치 확인 시스템 ( GPS ) 데이터베이스 를 바탕 으로 사진 을 촬영한 위치 를 함께 기록하 는 데 애플 은 참석자 가 촬영한 사진 의 장소 를 일본 오키노시마 로 표시 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O LOC-B LOC-I O O O O O
+외국 계 증권사 가 지난해 내놓 은 보고서 중 17.7 % 가 ‘ 매도 ’ 의견 을 보인 것 과 크 게 비교된다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+쉐 누 뷔페 는 천연 식 자재 를 사용하 여 기름 에 튀기 지 않 고 삶 거나 그릴 에 직접 구은 조리법 과 100 % 엑스트라 버진 올리브 오일 을 사용하 는 웰빙 요리 를 갖추 고 있 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 모범 납세자 선정 ’ 송승헌 - 윤아 , 대통령 표창 수상하 고 ‘ 찰칵 ’ … 그 모습 은 ?	O O O O O PER-B O PER-B O O O O O O O O O O O O O
+슬럼프 가 미치 는 영향 ( 복수 응답 ) 은 어떨까 ? 응답자 74.7 % 는 슬럼프 로 인해 직장 생활 에 지장 을 받 고 있 다고 입 을 모 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울 지방 경찰청 국제 범죄 수사대 는 해외 에서 발급된 신용카드 로 국내 인터넷 쇼핑몰 에서 금 이나 홍삼 등 을 구입해 싸 게 되파 는 수법 으로 약 16 억 원 을 챙긴 혐의 ( 특정 경제 범죄 가중 처벌 법 상 사기 등 ) 로 조직 총책 정 모 씨 ( 41 ) 등 8 명 을 구속하 고 알선 담당 공모 씨 ( 43 ) 등 10 명 을 불구속 했 다고 25 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O PER-B O O O O O O O O O O O DAT-B DAT-I O O O O
+또 기업 들 을 매달 한자리 에 모 아 양성 평등 실천 내용 을 발표하 고 , 성과 를 공유하 도록 하 죠 . 기업 간 경쟁 을 유도해 참여 도 를 높이 기 위한 조치 죠 . ” 의무 와 권리 ▼ 직장 문화 라고 하 니 ‘ 맨스 플레인 ’ 이 떠오르 네요 . 정치권 은 특히 맨스 플레인 이 강할 거 같 은 데 어떻 게 처신 했 습니까 ( 맨스 플레인 은 ‘ 남자 ( man ) ’ 와 ‘ 설명하 다 ( explain ) ’ 를 결합한 신조어 로 , 남성 이 여성 에게 항상 가르치 듯 설명하 는 것 을 뜻한다 ) .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+시 주석 과 블라디미르 푸틴 러시아 대통령 은 지난달 정상 회담 에서 도 사드 배치 에 반대 했 다 .	PER-B O O PER-B PER-I ORG-B O O O O O O O O O O O O O O
+이석수 가 감찰 내용 을 누설한 것 도 법 위반 차원 을 떠나 보 기 에 좋 지 않 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+“ 학자 도 언론 도 왜 이 문제 에 대해 고민 이 없 나 . ” 한두 번 이 아니 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O

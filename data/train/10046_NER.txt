@@ -1,14 +1,14 @@
-하지만 모하맛니잔 북한 주재 말레이시아 대사는 김정남 암살 사건에 따르+ㄴ 본국의 소환명령으로 이미지나 +ㄴ 2월 21일 평양을 떠나 +아귀국 하+ㄴ 상태이다 .	O PER-B ORG-B O LOC-B O PER-B O O O O O O O O O LOC-B O O O O O
-하지만 이미 청춘의 때를 지나 오+ㄴ 70~80대 어르신들은 “꿈꾸+ㄹ 수 있다는 것만으로도 청춘은 아름답다”고 말하였다 .	O O O O O O O O O O O O O O O O
-세계에서 가장 아름답 ㄴ 얼굴 나나, 상반신 누드 화보? 강렬 하+ㄴ 섹시미 ‘눈이 번쩍!’ 걸그룹 애프터스쿨과 오렌지캬라멜의 멤버나 나가 ‘세계에서 가장 아름답 ㄴ 얼굴’ 1위로 선정되+ㄴ 가운데, 과거 상반신 누드 사진이 눈길을 모으았다 .	O O O O O PER-B O O O O O O O O O ORG-B ORG-B PER-I PER-I O O O O O O O O O O O O O O O
-포철 관계자는 『개방화에 대비 하+ㄴ 탄력 있는 조직을 만들기 위하+여이 같은 방안을 도입하기로 +였다 』면서 『 앞으로 기업 경영의 분권화와 자율화를 계속 추진하+ㄹ 방침 』이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘섬의 날’을 제정하+여 관광객 유치에 힘쓰고 있는 신안군은 관광객 500만을 목표로 새천년대교와 흑산공항 건설을 추진 중이다 .	O O O O O O O ORG-B O O O LOC-B LOC-B O O O O
-영화 말미에 박 병장의 생전 인터뷰 영상이 스크린에 흐르었다 .	O O PER-B O O O O O O O
-거대하고 무겁고 움직이지 않는 바위! 알다시피 박 대통령은 아버지 생전 18년 동안 권력의 울타리 안에서 닫히+ㄴ 생활을 +였다 .	O O O O O O PER-B O O O O O O O O O O O O
-보통 사람도 청와대에서 그렇게 길 +ㄴ 세월 닫히+ㄴ 생활을 하면 공주나 왕자 스타일이 체질화되+ㄹ 법하다 .	O O ORG-B O O O O O O O O O O O O O
-세계적 음반사도이치 그라모폰(DG)이 그 실력을 알아보았다 .	O O ORG-B O O O O
-노련 하+ㄴ경기 경험과 수비가 담 능력을 지니 +ㄴ구자철과, 좁은 공간에서의 순간 돌파가 장점이 +ㄴ이 청용이 빠지+ㄴ 것은 대표팀에는 치명타+이다 .	O O O O O O O PER-B O O O O O O O O O O O O
-지점까지 포함하면, 1100명의 직원 중 200명이 이날 조선은행을 떠나 +았다 .	O O O O O O O ORG-B O O O
-이에 따르 아시장 조사업체 B3는 세계 전기차(하이브리드차, 플러그인 하이브리드차, 순수 전기차 모두 포함) 판매량은 지난해 678만대에서 2020년 1000만대 이상으로 연평균 30% 이상 증가 하+ㄹ 것으로 전망하였다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-이는 2013년보다 2계단이 나 오르+ㄴ 순위로 알려지었다 .	O O O O O O O O
-2006년 드라마 ‘소문나 +ㄴ칠 공주’의연하남 역할로 데뷔 하+ㄴ 박해진은 ‘에덴의 동쪽’(2008), ‘나+의 딸 서영이’(2012), ‘별에서 오+ㄴ그대’(2013) 등에 출연하였다 .	O O O O O O O O PER-B O O O O O O O O O O
+하지만 모 하맛 니잔 북한 주재 말레이시아 대사 는 김정남 암살 사건 에 따른 본국 의 소환 명령 으로 이미 지난 2 월 21 일 평양 을 떠나 귀국한 상태 이 다 .	O PER-B PER-I PER-I ORG-B O LOC-B O O PER-B O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B O O O O O O O
+하지만 이미 청춘 의 때 를 지나온 70 ~ 80 대 어르신 들 은 “ 꿈꿀 수 있 다는 것 만 으로 도 청춘 은 아름답 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세계 에서 가장 아름다 운 얼굴 나 나 , 상반신 누드 화보 ? 강렬한 섹시 미 ‘ 눈 이 번쩍 ! ’ 걸그룹 애프터 스쿨 과 오렌지 캬라멜 의 멤버 나나 가 ‘ 세계 에서 가장 아름다 운 얼굴 ’ 1 위 로 선정된 가운데 , 과거 상반신 누드 사진 이 눈길 을 모 았 다 .	O O O O O O PER-B PER-I O O O O O O O O O O O O O O O ORG-B ORG-I O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+포철 관계자 는 『 개방화 에 대비한 탄력 있 는 조직 을 만들 기 위해 이 같 은 방안 을 도입 키 로 했 다 』 면서 『 앞 으로 기업 경영 의 분권화 와 자율 화 를 계속 추진할 방침 』 이라고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 섬 의 날 ’ 을 제정해 관광객 유치 에 힘쓰 고 있 는 신안군 은 관광객 500 만 을 목표 로 새천년 대교 와 흑산 공항 건설 을 추진 중 이 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O LOC-B LOC-I O LOC-B LOC-I O O O O O O O
+영화 말미 에 박 병장 의 생전 인터뷰 영상 이 스크린 에 흘 렀 다 .	O O O PER-B O O O O O O O O O O O O
+거대하 고 무겁 고 움직이 지 않 는 바위 ! 알 다시피 박 대통령 은 아버지 생전 18 년 동안 권력 의 울타리 안 에서 닫힌 생활 을 했 다 .	O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+보통 사람 도 청와대 에서 그렇 게 긴 세월 닫힌 생활 을 하 면 공주 나 왕자 스타일 이 체질 화 될 법하 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+세계적 음반 사 도이치그라모폰 ( DG ) 이 그 실력 을 알아 봤 다 .	O O O ORG-B O ORG-B O O O O O O O O O
+노련한 경기 경험 과 수비 가담 능력 을 지닌 구자철 과 , 좁 은 공간 에서 의 순간 돌파 가 장점 인 이청용 이 빠진 것 은 대표 팀 에 는 치명타 다 .	O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O
+지점 까지 포함하 면 , 1100 명 의 직원 중 200 명 이 이날 조선 은행 을 떠났 다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O O
+이 에 따 라 시장 조사 업체 B 3 는 세계 전기 차 ( 하이브리드 차 , 플러그인 하이브리드 차 , 순수 전기 차 모두 포함 ) 판매량 은 지난해 678 만 대 에서 2020 년 1000 만 대 이상 으로 연평균 30 % 이상 증가할 것 으로 전망 했 다 .	O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+이 는 2013 년 보다 2 계단 이나 오른 순위 로 알려 졌 다 .	O O DAT-B DAT-I O O O O O O O O O O O
+2006 년 드라마 ‘ 소문난 칠 공주 ’ 의 연하 남 역할 로 데뷔한 박해진 은 ‘ 에덴 의 동쪽 ’ ( 2008 ) , ‘ 내 딸 서영이 ’ ( 2012 ) , ‘ 별 에서 온 그대 ’ ( 2013 ) 등 에 출연 했 다 .	DAT-B DAT-I O O O O O O O O O O O O PER-B O O O O O O O DAT-B O O O O O O O O DAT-B O O O O O O O O O DAT-B O O O O O O O

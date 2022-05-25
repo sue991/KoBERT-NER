@@ -1,12 +1,12 @@
-[단독] 집값 부담에 서울 등지는 3040…인구 1000만 유지비 .	O O O LOC-B O O O O O
-반면 안 후보 지지자 중 토론회를 잘 하+ㄴ 후보로 안 후보를 꼽은 비율은 20%에 그치었다 .	O PER-B O O O O O O O PER-B O O O O O O
-한국갤럽은 이번 여론조사에서 TV토론회 이후 대선 후보에 대하+ㄴ이미지가 전보다 좋아 지+었는지 여부도 묻었다 .	ORG-B O O O O O O O O O O O O O
-‘전보다 좋아 지+었다’는 응답은 심 후보가 52%로 가장 많았고 유 후보가 33%로 그 뒤를 잇었다 .	O O O O PER-B O O O O PER-B O O O O O O
-마세라티 공식 수입사 FMK 관계자는 “’ 마세라티를 타+ㄴ다는 것+ㄴ곧 신뢰를 타는 것’이라는 의미를 전달하고자 마련하+ㄴ이번 프로모션을 통하+여 많은 고객들이 중고차 감가율에 대하+ㄴ 고민 없이 마세라티를 마음껏 즐기 +ㄹ 수 있기 +ㄹ바라+ㄴ다”고 밝히었다 .	ORG-B O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
-한편 이번 프로모션은 기블리 및 콰트로포르테 전 모델을 대상으로 한정적으로 진행되며, 자세 하+ㄴ 내용은 전국 총 8개의 마세라티 전시장 및 고객센터를 통하+여 상담받을 수 있다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
-심혜진은 자신과 동갑이+ㄴ 백종원을 소개하+여주+ㄴ에피소드를 전하였다 .	PER-B O O PER-B O O O
-관련 기사 국회 “꼬리 이+ㄴ 시행령이 머리 흔들어”vs 청와대 “정부 입법 권한 침해”정부 시행령에 대하+ㄴ국회의 수정 요구 권한을 강화하+ㄴ국회법 개정안은 위헌(違憲)이+ㄹ까 .	O O O O O O O O ORG-B O O O O O O O O O O O O O
-이를 트레드 패턴(treadpattern)이라고 하는데, 트레드 패턴의 가장 중요하+ㄴ 기능 중 하나가 바로 빗길에서의 배수 기능이다 .	O O O O O O O O O O O O O O O O
-메르켈은 이후 이를 만회하려는 듯 적극적으로 친난민 정책을 펼치었고 림과 그의 가족도 당국으로부터 거주 허가증을 발급받아 독일에 계속 체류 하+ㄹ 수 있게 +었다 .	PER-B O O O O O O O O O O O O O O O LOC-B O O O O O O O
-주촌면의 경우 전체 주민 5614명 중 2006명 이 외국인 근로자다 .	LOC-B O O O O O O O O O O
-대표팀은 11일(한국시간) 테헤란 아자디스타디움에서 벌어 지+ㄴ 2018 러시아 월드컵 아시아 최종 예선 A조 4차 전원 정 경기에서 숙적이란에 0-1로 패하였다 .	O LOC-B LOC-B LOC-I O O O O O LOC-B O O O O O O O ORG-B O O O
+[ 단독 ] 집값 부담 에 서울 등지 는 3040 … 인구 1000 만 유지 비상	O O O O O O LOC-B O O O O O O O O O
+반면 안 후보 지지자 중 토론회 를 잘한 후보 로 안 후보 를 꼽 은 비율 은 20 % 에 그 쳤 다 .	O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O
+한국갤럽 은 이번 여론 조사 에서 TV 토론회 이후 대선 후보 에 대한 이미지 가 전 보다 좋 아 졌 는지 여부 도 물 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 전 보다 좋 아 졌 다 ’ 는 응답 은 심 후보 가 52 % 로 가장 많 았 고 유 후보 가 33 % 로 그 뒤 를 이 었 다 .	O O O O O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O
+마세라티 공식 수입 사 FMK 관계자 는 “ ’ 마세라티 를 탄다는 건 곧 신뢰 를 타 는 것 ’ 이 라는 의미 를 전달하 고자 마련한 이번 프로모션 을 통해 많 은 고객 들 이 중고차 감가 율 에 대한 고민 없이 마세라티 를 마음껏 즐길 수 있 길 바란다 ” 고 밝 혔 다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 이번 프로모션 은 기블리 및 콰트로 포르테 전 모델 을 대상 으로 한정적 으로 진행되 며 , 자세한 내용 은 전국 총 8 개 의 마세라티 전시장 및 고객 센터 를 통해 상담 받 을 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+심혜진 은 자신 과 동갑 인 백종원 을 소개해 준 에피소드 를 전 했 다 .	PER-B O O O O O PER-B O O O O O O O O O
+관련 기사 국회 “ 꼬리 인 시행령 이 머리 흔들 어 ” vs 청와대 “ 정부 입법 권한 침해 ” 정부 시행령 에 대한 국회 의 수정 요구 권한 을 강화한 국회법 개정안 은 위헌 ( 違憲 ) 일까 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 를 트레드 패턴 ( tread pattern ) 이라고 하 는데 , 트레드 패턴 의 가장 중요한 기능 중 하나 가 바로 빗길 에서 의 배수 기능 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+메르켈 은 이후 이 를 만회하 려는 듯 적극적 으로 친 난민 정책 을 펼 쳤 고 림 과 그 의 가족 도 당국 으로부터 거주 허가증 을 발급 받 아 독일 에 계속 체류할 수 있 게 됐 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+주촌면 의 경우 전체 주민 5614 명 중 2006 명 이 외국인 근로자 다 .	LOC-B O O O O O O O O O O O O O O
+대표 팀 은 11 일 ( 한국 시간 ) 테헤란 아자디 스타디움 에서 벌어진 2018 러시아 월드컵 아시아 최종 예선 A 조 4 차 전 원정 경기 에서 숙적 이란 에 0 - 1 로 패 했 다 .	O O O DAT-B DAT-I O LOC-B O O LOC-B LOC-I LOC-I O O O O O LOC-B O O O O O O O O O O O ORG-B O O O O O O O O O

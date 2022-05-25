@@ -1,13 +1,13 @@
-LH에 따르면 임대조건은 임대보증금 5000만원, 월 임대료 48만원이다 .	ORG-B O O O MNY-B O O MNY-B O
-중국에 있는 북한 탈출자들의 처리 문제에 대하+여한 장관은 『우선적으로 시베리아 벌목공 처리 문제가 진행되고 있다』며 『중국에서는 아직 러시아에서와 같은 귀순 요청이 없기 때문에 탈북자들의 귀순을 받아들이+ㄹ 계획이 없다』고 덧붙이었다 .	ORG-B O ORG-B O O O O O O LOC-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O
-폭로전문 사이트 위키리크스가 지난달 21일부터 2일까지 26차례에 걸치+어폭로 하+ㄴ포데스타의 e메일은 총 4만3000여건에 이르+ㄴ다 .	O O ORG-B O O O O O PER-B O O O O O
-“이것 +ㄴ 뭐+ 이야? 주문 더 들어오았어?”“아니, 이것 +ㄴ나+의 것+이야. 어리었을 때 밤이면 엄마 몰래 냉장고에서 꺼내+어먹던 것+이 있었어.이거+이었어. 치즈와 햄.”애쉬는 크로크 무슈를 우적 우적 씹었다 .	O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O
-중국은 세 가지 이유를 들어 강력 반발하였다 .	ORG-B O O O O O O O
-3회째를 맞는 이번 대회는 10개 프로팀과 상무, 대학상위 5개 팀 정예 선수가 총출동 하+ㄴ다 .	O O O O O O O O O O O O O O O
-‘암살’과 ‘베테랑’이 맞붙었던 여름처럼 ‘히말라야’와 ‘대호’가 16일 나란히 개봉하+ㄴ다 .	O O O O O O O O O O
-[2017 대학가는 길] 수능 백분위 점수 활용 … 교차지원 가 .	O O O O O O O O O O O
-K팝과 국내 드라마가 중국과 일본을 포함하+ㄴ 해외에서 꾸준히 인기를 끌고 있어 여행지 선호도에도 긍정적 이+ㄴ 영향을 끼치 +ㄴ 것으로 분석되+ㄴ다 .	O O O ORG-B ORG-B O O O O O O O O O O O O O O O O
-김효진 교보증권 책임연구원은 “원유 공급과잉이 근본적으로 해소되기 전에는 유가가 상승세로 돌아서+ㄹ 가능성은 낮다”며 “당분간 유가 변동성이 커지+ㄹ 것”이라고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O
-이민화 KAIST 교수는 “인류는 과학기술의 발전에 힘입어 수퍼맨으로 가는 초기 단계에 진입하였다”며 “그 시작은 바로 스마트폰의 등장”이라고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O
-10대 기업을 제외하면 대부분 기업이 기부에 인색하고 특히 개인 기부 문화가 여전히 취약하다고 지적하였다 .	O O O O O O O O O O O O O O O
-179cm의 크+ㄴ키에서 뿜어 지+어나오는 장타를 앞세우 어드림 투어 4승을 기록하+ㄴ 유망주 +이다 .	O O O O O O O O O O O O O
+LH 에 따르 면 임대 조건 은 임대 보증금 5000 만 원 , 월 임대료 48 만 원 이 다 .	ORG-B O O O O O O O O MNY-B MNY-I MNY-I O O O MNY-B MNY-I MNY-I O O O
+중국 에 있 는 북한 탈출 자 들 의 처리 문제 에 대해 한 장관 은 『 우선적 으로 시베리아 벌목공 처리 문제 가 진행되 고 있 다 』 며 『 중국 에서 는 아직 러시아 에서 와 같 은 귀순 요청 이 없 기 때문 에 탈북자 들 의 귀순 을 받아들일 계획 이 없 다 』 고 덧붙 였 다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+폭로 전문 사이트 위키리크스 가 지난달 21 일 부터 2 일 까지 26 차례 에 걸쳐 폭로한 포데스타 의 e 메일 은 총 4 만 3000 여 건 에 이른다 .	O O O ORG-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+“ 이건 뭐 야 ? 주문 더 들어 왔 어 ? ” “ 아니 , 이건 내 거 야 . 어 렸 을 때 밤 이 면 엄마 몰래 냉장고 에서 꺼내 먹 던 게 있 었 어 . 이거 였 어 . 치즈 와 햄 . ” 애쉬 는 크로 크 무슈 를 우적우적 씹 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+중국 은 세 가지 이유 를 들 어 강력 반발 했 다 .	ORG-B O O O O O O O O O O O O
+3 회 째 를 맞 는 이번 대회 는 10 개 프로 팀 과 상무 , 대학 상위 5 개 팀 정예 선수 가 총출동한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 암살 ’ 과 ‘ 베테랑 ’ 이 맞붙 었 던 여름 처럼 ‘ 히말라야 ’ 와 ‘ 대호 ’ 가 16 일 나란히 개봉한다 .	O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O
+[ 2017 대학가 는 길 ] 수능 백분위 점수 활용 … 교차 지원 가능	O DAT-B O O O O O O O O O O O O
+K 팝 과 국내 드라마 가 중국 과 일본 을 포함한 해외 에서 꾸준히 인기 를 끌 고 있 어 여행지 선호도 에 도 긍정적 인 영향 을 끼친 것 으로 분석된다 .	O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+김효진 교보증권 책임 연구원 은 “ 원유 공급 과잉 이 근본적 으로 해소되 기 전 에 는 유가 가 상승세 로 돌아설 가능성 은 낮 다 ” 며 “ 당분간 유가 변동성 이 커질 것 ” 이라고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이민화 KAIST 교수 는 “ 인류 는 과학 기술 의 발전 에 힘입 어 수퍼맨 으로 가 는 초기 단계 에 진입 했 다 ” 며 “ 그 시작 은 바로 스마트폰 의 등장 ” 이라고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 대 기업 을 제외하 면 대부분 기업 이 기부 에 인색하 고 특히 개인 기부 문화 가 여전히 취약하 다고 지적 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+179 cm 의 큰 키 에서 뿜 어 져 나오 는 장타 를 앞세 워 드림 투어 4 승 을 기록한 유망주 다 .	O O O O O O O O O O O O O O O O O O O O O O O O

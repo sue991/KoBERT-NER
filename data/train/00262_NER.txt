@@ -1,13 +1,13 @@
-조응천 “검찰, 朴 전 대통령 출국금지부터 하+ㄹ 것 .	PER-B ORG-B PER-B O O O O O O
-그렇게 신격화시키+ㄴ 공백에 그의 후계자가 차지하고도 남는 북한 백성들의 마음속의 그 방대 하+ㄴ 여백을 무엇으로 어떻게 메우+ㄹ지가 문제 이+ㄴ 것이다 .	O O O O O O O ORG-B O O O O O O O O O O O O O
-후반에도 6개의 슈팅 중 유효슈팅은 1개뿐이었다 .	O O O O O O O
-중국은 물론 베트남, 인도네시아 같은 후발 신흥국은 ‘세계의 공장’으로 부상하였다 .	ORG-B O ORG-B ORG-B O O O O O O O
-한국인 마음 온도와 관련 하+여각 세대가 겪고 있는 각종 사회·경제적 상황들로 인하+ㄴ 마음의 온도는 더 낮아 지+ㄹ 것이라는 응답은 79.1%에 달하였다. 성별로 보+ㄴ 경우 고교생 여성그룹과 대학생 여성그룹이 각각 영하 18.1도로 응답하+여가장 낮았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이 가운데 그의 과거 발언도 화제+이다.황치열은 과거 레이디 경향과 인터뷰를 진행하였다 .	O O O O O PER-B O O O O O O
-동아일보와 특허정보회사 광개토연구소가 2005년부터 10년간 미국에서 제기되 +ㄴ 특허소송을 분석하+ㄴ 결과 NPE의 국내 기업 특허 공격 범위가 넓어 지+어 지난해에는 중소·중견기업이 4곳이나 포함되 +ㄴ 것으로 나타나 +았다 .	O O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-올해부터 KPGA투어에 새롭게 둥지를 틀었다 .	O O O O O O
-지난해 대학수학능력시험이 예상을 뒤엎고 ‘불수능(어렵ㄴ 수능)’으로 출제되 +ㄴ점과 최근 포화상태에 이르는 등 치과병원 운영이 갈수록 어렵ㄴ 것 아니냐는 일부의 우려가 복합적으로 작용하+ㄴ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-싱가포르 중소기업 대표 탄쳉호의 경우는 이러 하+ㄴ 경향을 잘 보이어주+ㄴ다 .	LOC-B O O PER-B O O O O O O O
-그러나 상인 255명은 신시장 입주를 거부하+ㄴ다 .	O O O O O O O
-동남아에 새롭ㄴ 국가 하나가 건설되고 있다 .	LOC-B O O O O O O
-행정자치부는 이와 같은 개인정보보호법 개정안이 6일 국회 본회의를 통과하였다고 7일 밝히었다 .	ORG-B O O O O O ORG-B O O O O O
+조응천 “ 검찰 , 朴 전 대통령 출국 금지 부터 할 것 ”	PER-B O ORG-B O PER-B O O O O O O O O
+그렇 게 신격화 시킨 공백 에 그 의 후계자 가 차지하 고도 남 는 북한 백성 들 의 마음속 의 그 방대한 여백 을 무엇 으로 어떻 게 메울지 가 문제 인 것 이 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+후반 에 도 6 개 의 슈팅 중 유효 슈팅 은 1 개 뿐 이 었 다 .	O O O O O O O O O O O O O O O O O O
+중국 은 물론 베트남 , 인도네시아 같 은 후발 신흥 국 은 ‘ 세계 의 공장 ’ 으로 부상 했 다 .	ORG-B O O ORG-B O ORG-B O O O O O O O O O O O O O O O O
+한국인 마음 온도 와 관련해 각 세대 가 겪 고 있 는 각종 사회 · 경제적 상황 들 로 인한 마음 의 온도 는 더 낮 아 질 것 이 라는 응답 은 79.1 % 에 달 했 다 . 성별 로 본 경우 고교생 여성 그룹 과 대학생 여성 그룹 이 각각 영하 18.1 도 로 응답해 가장 낮 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 가운데 그 의 과거 발언 도 화제 다 . 황치열 은 과거 레이디경향 과 인터뷰 를 진행 했 다 .	O O O O O O O O O O PER-B O O O O O O O O O O
+동아일보 와 특허 정보 회사 광개토 연구소 가 2005 년 부터 10 년 간 미국 에서 제기된 특허 소송 을 분석한 결과 NPE 의 국내 기업 특허 공격 범위 가 넓어져 지난해 에 는 중소 · 중견 기업 이 4 곳 이나 포함된 것 으로 나타났 다 .	O O O O O ORG-B ORG-I O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올해 부터 KPGA 투어 에 새롭 게 둥지 를 틀 었 다 .	O O O O O O O O O O O O O
+지난해 대학 수학 능력 시험 이 예상 을 뒤엎 고 ‘ 불 수능 ( 어려 운 수능 ) ’ 으로 출제된 점 과 최근 포화 상태 에 이르 는 등 치과 병원 운영 이 갈수록 어려 운 것 아니 냐는 일부 의 우려 가 복합적 으로 작용한 것 으로 보인다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+싱가포르 중소기업 대표 탄쳉호 의 경우 는 이러한 경향 을 잘 보 여 준다 .	LOC-B O O PER-B O O O O O O O O O O O
+그러나 상인 255 명 은 신 시장 입주 를 거부한다 .	O O O O O O O O O O O
+동남아 에 새로 운 국가 하나 가 건설되 고 있 다 .	LOC-B O O O O O O O O O O O
+행정자치부 는 이 와 같 은 개인 정보 보호 법 개정안 이 6 일 국회 본회의 를 통과 했 다고 7 일 밝 혔 다 .	ORG-B O O O O O O O O O O O DAT-B DAT-I ORG-B O O O O O DAT-B DAT-I O O O O

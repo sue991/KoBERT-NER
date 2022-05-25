@@ -1,11 +1,11 @@
-협력업체 등에서 공급받은 부품을 조립하+여전투기를 만들는 조립공장(항공기동)은 길이 180m, 폭 120m 규모 +이다 .	O O O O O O O O O O O O O O
-이를 위하+여저탄소 에너지 기술에 매년 4조∼6조원을 투자 하+ㄹ 방침이다 .	O O O O O MNY-B O O O O
-넓은 개방감을 통하+여 답답하+ㅁ 없는 실내 공간을 연출하었고, 다양하게 변형 가능하+ㄴ 2열 좌석도 갖추었다 .	O O O O O O O O O O O O O O O
-하지만 강산도 바뀌+ㄴ다는 10년 이상의 세월이 흐르+ㄴ 사건을 수사하다 보니 자주 벽에 부딪히 +ㄴ다 .	O O O O O O O O O O O O O O O
-혹은 하지 않겠다는 결심을 하+ㄹ 수 있는데 굳이 12월과 1월을 기다리고 있다는 데에 생각이 미치었다 .	O O O O O O O O O O O O O O O O
-그리스 신전을 연상하게 하는 기둥들이 줄 짓어서 +ㄴ 회랑 형태로 되+어 있다 .	LOC-B O O O O O O O O O O O O
-황정음은 2월 5일 서울 강남구 청담동에 있는 박술녀 한복을 찾아 한복 촬영을 진행하기도 +였다 .	PER-B O O LOC-B LOC-I LOC-I O ORG-B ORG-I O O O O O O
-'인기가요' 유승옥, 딱 붙는 원피스에 몸매 드러나자 …男心 '철렁' ‘인기가요’ 유승옥이니엘의 ‘못되+ㄴ 여자’ 무대에 등장하+여화제+이다 .	O PER-B O O O O O O O O PER-B O O O O O
-다만 박 대통령이 정치권에서 결정 하+ㄴ일정에 따르 아물러나는 것은 정치적 결단이다 .	O PER-B O O O O O O O O O O
-오로지 저 문재인의 정권교체가 두렵어서 정권 연장을 획책하는 것이라 생각 하+ㄴ다”면서 “전 두렵지 않다 .	O O PER-B O O O O O O O O O O O O
-송승헌과 유역빌는 중국 베스트셀러 ‘제3종의 애정’을 원작으로 하+ㄴ영화 ‘제3의 사랑’(감독이 재한)의 주인공으로 인연을 맺은 후 연인으로 발전하였다 .	PER-B PER-B LOC-B O O O O O O O O O O O O O O O
+협력 업체 등 에서 공급 받 은 부품 을 조립해 전투기 를 만드 는 조립 공장 ( 항공기 동 ) 은 길 이 180 m , 폭 120 m 규모 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 를 위해 저탄소 에너지 기술 에 매년 4 조 ∼ 6 조 원 을 투자할 방침 이 다 .	O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O
+넓 은 개방 감 을 통해 답답함 없 는 실내 공간 을 연출 했 고 , 다양하 게 변형 가능한 2 열 좌석 도 갖 췄 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 강산 도 바뀐다는 10 년 이상 의 세월 이 흐른 사건 을 수사하 다 보 니 자주 벽 에 부딪힌다 .	O O O O O O O O O O O O O O O O O O O O O O
+혹은 하 지 않 겠 다는 결심 을 할 수 있 는데 굳이 12 월 과 1 월 을 기다리 고 있 다는 데 에 생각 이 미 쳤 다 .	O O O O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O
+그리스 신전 을 연상 케 하 는 기둥 들 이 줄지 어 선 회랑 형태 로 돼 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O O
+황정 음 은 2 월 5 일 서울 강남구 청담동 에 있 는 박술녀 한복 을 찾 아 한복 촬영 을 진행하 기 도 했 다 .	PER-B PER-I O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-I LOC-I O O O ORG-B ORG-I O O O O O O O O O O O O
+' 인기 가요 ' 유승옥 , 딱 붙 는 원피스 에 몸매 드러나 자 … 男心 ' 철렁 ' ‘ 인기 가요 ’ 유승옥 이 니엘 의 ‘ 못된 여자 ’ 무대 에 등장해 화제 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O
+다만 박 대통령 이 정치권 에서 결정한 일정 에 따 라 물러나 는 것 은 정치적 결단 이 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+오로지 저 문재인 의 정권 교체 가 두려 워서 정권 연장 을 획책하 는 것 이 라 생각한다 ” 면서 “ 전 두렵 지 않 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+송승헌 과 유역 비 는 중국 베스트셀러 ‘ 제 3 종 의 애정 ’ 을 원작 으로 한 영화 ‘ 제 3 의 사랑 ’ ( 감독 이재한 ) 의 주인공 으로 인연 을 맺 은 후 연인 으로 발전 했 다 .	PER-B O PER-B PER-I O LOC-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O

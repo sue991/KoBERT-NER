@@ -1,13 +1,13 @@
-리카즈씨는 미국이 양적완화를 통하+ 여사실상 환율전쟁에 뛰어들었던 만큼 당분간 금리를 올리기 어렵ㄹ 것이라며 연내 미국의 금리 인상은 없을 것이라고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O ORG-B O O O O O O
-김병원(63·사진) 제23대 농협중앙회 회장이 14일 공식 취임하+ㄴ다 .	PER-B O ORG-B ORG-I O O O O
-영국 케임브리지대의 존 던 교수, 라종일 경희대 교수, 드에이지에르 전 동독총리, 한상진 서울대 교수가 주제발표를 하며 제임스 릴리 전 주한 미 대사, 양지에 민중국 평화연구원 수석연구위원, 폴망글라푸스 전 필리핀 외무장관 등 국내외 전문가 20여명이 토론에 참여하+ㄴ다 .	ORG-B ORG-I PER-B PER-I O PER-B ORG-B O PER-B O ORG-B PER-B ORG-B O O O PER-B PER-I O O ORG-B O PER-B ORG-B ORG-I O PER-B O ORG-B O O O O O O O O
-갑자기 한 달의 시간이 흐르었고, 오연주는 서도윤(이태환 분)을 찾아가 +아강철을 만나게 하+여달라고 부탁하였다 .	O O O O O O PER-B O O O O O O O
-온성수용소는 이후 91년 3월 폐쇄되었다 .	ORG-B O O O O O
-28년 만에 다호리 발굴 현장을 다시 찾은 그에게 혹여 아쉬움으로 남는 것+이 있는지 묻었다 .	O O LOC-B LOC-I LOC-I O O O O O O O O O O
-11~12월 금융권 신용공여액 500억원 이상 대기업 368곳 대상으로 실시하+ㄴ 평가+이다 .	O O O MNY-B O O O O O O O
-그는 재작년 사법연수원에 입소하+여꼬박 2년을 두껍ㄴ법 전과 씨름하였다 .	O O ORG-B O O O O O O
-탑승객은 항공사로부터 항공료를 최고 75%까지 할인받아 좋고, 화물을 부치는 사람은 일반 항공화물보다 훨씬 빠르고 분실이나 파손의 위험도 적은데다 운임 요율도 싸+아누이 좋고 매부 좋은 격 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-올 3분기 출시하+ㄹ 예정이+ㄴ 안드로이드 M은 애플리케이션(이하 앱)에 대하+ㄴ 접근 권한 설정을 단순화 하+ㄴ 것이 특징이다 .	O O O O O O O O O O O O O O O O O
-피렌체 근처 구찌 할인매장의 직원에게 전체 매출액 가운데 중국인이 차지하는 비율이 어느 정도 이+ㄴ지 물어보았다 .	LOC-B O ORG-B O O O O O O O O O O O O O
-남아있던 연료를 이용하+여산소와 수소를 준비하고 이를 합치+어서 물을 만들어 밭에 물을 주죠. 아무리 화성이라 하+여도 빛은 있기 때문에 다른 영양분만 있다면 식물은 자라나 +ㅂ니다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
-1998년 핑클로데뷔 하+ㄴ이효리는 2003년 솔로가수로 나서면서 숨기+어+두었던 섹시미를 한껏 발산하였고, 털털 하+ㄴ 성격이 크+ㄴ 호감을 얻으며 2000년대 중후반 ‘효리광풍’을 일으키기도 +였다 .	O ORG-B PER-B O O O O O O O O O O O O O O O O O O O
+리카즈 씨 는 미국 이 양적 완화 를 통해 사실상 환율 전쟁 에 뛰어들 었 던 만큼 당분간 금리 를 올리 기 어려 울 것 이 라며 연내 미국 의 금리 인상 은 없 을 것 이 라고 말 했 다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+김 병원 ( 63 · 사진 ) 제 23 대 농협 중앙 회 회장 이 14 일 공식 취임한다 .	PER-B PER-I O O O O O O O O ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O
+영국 케임브리지대 의 존 던 교수 , 라종일 경희대 교수 , 드 에이지 에르 전 동독 총리 , 한상진 서울대 교수 가 주제 발표 를 하 며 제임스 릴리 전 주한 미 대사 , 양 지 에민 중국 평화 연구원 수석 연구 위원 , 폴 망글 라 푸 스 전 필리핀 외무 장관 등 국내외 전문가 20 여 명 이 토론 에 참여한다 .	ORG-B ORG-I O PER-B PER-I O O PER-B ORG-B O O PER-B PER-I PER-I O ORG-B O O PER-B ORG-B O O O O O O O PER-B PER-I O O ORG-B O O PER-B PER-I PER-I ORG-B ORG-I ORG-I O O O O PER-B PER-I PER-I PER-I PER-I O ORG-B O O O O O O O O O O O O O
+갑자기 한 달 의 시간 이 흘 렀 고 , 오연주 는 서도윤 ( 이태환 분 ) 을 찾아가 강철 을 만나 게 해 달 라고 부탁 했 다 .	O DAT-B DAT-I O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O
+온성 수용소 는 이후 91 년 3 월 폐쇄 됐 다 .	ORG-B ORG-I O O DAT-B DAT-I DAT-I DAT-I O O O O
+28 년 만 에 다호리 발굴 현장 을 다시 찾 은 그 에게 혹여 아쉬움 으로 남 는 게 있 는지 물 었 다 .	O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O
+11 ~ 12 월 금융 권 신용공여 액 500 억 원 이상 대기업 368 곳 대상 으로 실시한 평가 다 .	O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+그 는 재작년 사법연수원 에 입소해 꼬박 2 년 을 두꺼 운 법전 과 씨름 했 다 .	O O O ORG-B O O O O O O O O O O O O O O
+탑승객 은 항공사 로부터 항공료 를 최고 75 % 까지 할인 받 아 좋 고 , 화물 을 부치 는 사람 은 일반 항공 화물 보다 훨씬 빠르 고 분실 이나 파손 의 위험 도 적 은 데 다 운임 요율 도 싸 누이 좋 고 매부 좋 은 격 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올 3 분기 출시할 예정 인 안드로이드 M 은 애플리케이션 ( 이하 앱 ) 에 대한 접근 권한 설정 을 단순화한 것 이 특징 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+피렌체 근처 구찌 할인 매장 의 직원 에게 전체 매출액 가운데 중국인 이 차지하 는 비율 이 어느 정도 인지 물어 봤 다 .	LOC-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+남 아 있 던 연료 를 이용해 산소 와 수소 를 준비하 고 이 를 합쳐서 물 을 만들 어 밭 에 물 을 주 죠 . 아무리 화성 이 라 해도 빛 은 있 기 때문 에 다른 영양분 만 있 다면 식물 은 자라납니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+1998 년 핑클 로 데뷔한 이효리 는 2003 년 솔로 가수 로 나서 면서 숨겨 뒀 던 섹시 미 를 한껏 발산 했 고 , 털털한 성격 이 큰 호감 을 얻 으며 2000 년대 중 후반 ‘ 효리 광풍 ’ 을 일으키 기 도 했 다 .	DAT-B DAT-I ORG-B O O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-하지만 의대가 적성이 맞지 않아서 사법고시를 준비하려는 찰나에, 이대영 문과에 다니던 친누나가 같은 과 새내기 후배를 소개시키+어주었어요 .	O O O O O O O O ORG-B ORG-I O O O O O O O O
-리더십과 조직 건강도 전문가 이+ㄴ 패트릭 렌시오니는 일반적으로 신뢰에 대하+여 ‘서로 빨리 상대의 의도를 알아차리+ㄹ 수 있는 예측 가능성’으로 오해하+ㄴ다고 지적하+ㄴ다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O
-신 부장은 “수학·과학성적에서 모두 A를 받았다고 하+여도 다른 교과 성적이 들쑥날쑥하면 과목 편애가 심하고 학교생활에 충실하지 못하였다는 인상을 주+ㄹ 수 있다”고 주의를 +었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-‘5·31 교육개혁 그리고 20년’ 책 내+ㄴ 안병영前교육부 장 .	O O O O O O PER-B O O
-공정위, 글로벌 은행 6곳 환율조작 혐의 조 .	ORG-B O O O O O O O
-‘하늘은 나+ㄹ 더러 구름이 되라하고/ 땅은 나+ㄹ 더러 바람이 되라하네…(중략) … 하늘은 나+ㄹ 더러 바람이 되라하고/산은 나+ㄹ 더러 잔돌이 되라하네.’(신경림 시 ‘목계장터’) 충북 충주를 대표하는 민속축제 이+ㄴ ‘목계별 신제’가 조선시대 수운(水運) 물류 중심지+이었던 충주시 엄정면 목계리 일원에서 23,24일 열리+ㄴ다 .	O O O O O O O O O O O O O O O O O O O PER-B O O LOC-B LOC-I O O O O O O O O O LOC-B LOC-B LOC-B O O O O
-특히 이번 시즌에 출시되+ㄴ 신제품에는 소재 자체의 통기 기능과 함께 땀이 많이 배출되는 부위에 구멍을 뚫어 통기성을 극대화 하+ㄴ ‘에어패널’ 디자인을 적용하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-전임자 이+ㄴ플린이 취임 전부터 미국 주재 러시아 대사와 만나 +아대러 제재 해제를 논의하였다는 사실 때문에 물러나 +ㄴ 상황에서, 외부 인사와의 비슷하+ㄴ스캔들 전력이 있는 퍼트레이어스를 트럼프가 안보보좌관으로 낙점 하+ㄹ지는 미지수이다 .	O PER-B O O LOC-B O ORG-B O O O O O O O O O O O O O O O O PER-B PER-B O O O O O
-엘리엇은 심리가 끝나 +ㄴ후에도 “경찰은 내가 서+어서 운전하였다고 주장하는 데 차량에 비하+여나+의 키가 +었을 뿐”이라며 “나+ㄴ 운전 실력이 굉장히 뛰어나다”고 주장하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-보쉬 자동차부품 애프터마켓 사업부는 장거리 운행에는 배터리, 브레이크 패드, 엔진오일 등의 점검이 각별히 필요하다고 조언 하+ㄴ다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O
-2015 동아필리핀 영어캠프는 초3∼중 3대 상 ‘스파르타 영어캠프’와 초1∼중 3이 어머니와 함께 참가하는 ‘엄마와 함께 가족캠프’로 나뉘어 진행되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-롯데렌터카는 고객만족을 최고 가치로 정하고 차별화되+ㄴ 서비스와 혜택을 제공하고 있다 .	ORG-B O O O O O O O O O O
-이외에도 지나 +ㄴ 6월 착공에 들어가 +ㄴ 24만 7749㎡ 규모, 근무인력 2000여명에 달하는 하나금융타운 내전산센터(7층 규모) 및 개발센터(16층 규모)가 오는 2016년 말 완공되고, 16만5000여㎡ 규모의 위락, 쇼핑, 레저공간을 갖추+ㄴ 신세계 복합쇼핑몰도 오는 2017년 완공되+ㄹ 예정이다 .	O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O
-이날 김소연은 수줍은 소녀 같은 제스처와 “빨리 안건~”이라는 애교 섞이 +ㄴ 재촉으로 G12를 열광하게 +였다 .	O PER-B O O O O O O O O O O ORG-B O O O
+하지만 의대 가 적성 이 맞 지 않 아서 사법 고시 를 준비하 려는 찰나 에 , 이대 영문 과 에 다니 던 친 누나 가 같 은 과 새내기 후배 를 소개 시켜 주 었 어요 .	O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+리더십 과 조직 건강 도 전문가 인 패트릭 렌 시오 니 는 일반적 으로 신뢰 에 대해 ‘ 서로 빨리 상대 의 의도 를 알아차릴 수 있 는 예측 가능성 ’ 으로 오해한다고 지적한다 .	O O O O O O O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O
+신 부장 은 “ 수학 · 과학 성적 에서 모두 A 를 받 았 다고 해도 다른 교과 성적 이 들쑥날쑥하 면 과목 편애 가 심하 고 학교생활 에 충실하 지 못 했 다는 인상 을 줄 수 있 다 ” 고 주의 를 줬 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 5 · 31 교육 개혁 그리고 20 년 ’ 책 낸 안병영 前 교육부 장관	O O O O O O O O O O O O PER-B O O O
+공정위 , 글로벌 은행 6 곳 환율 조작 혐의 조사	ORG-B O O O O O O O O O
+‘ 하늘 은 날 더러 구름 이 되 라 하 고 / 땅 은 날 더러 바람 이 되 라 하 네 … ( 중략 ) … 하늘 은 날 더러 바람 이 되 라 하 고 / 산은 날 더러 잔돌 이 되 라 하 네 . ’ ( 신경림 시 ‘ 목계 장터 ’ ) 충북 충주 를 대표하 는 민속 축제 인 ‘ 목계별신제 ’ 가 조선 시대 수운 ( 水運 ) 물류 중심지 였 던 충주시 엄정면 목계리 일원 에서 23 , 24 일 열린다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O LOC-B LOC-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O LOC-B LOC-B LOC-B O O DAT-B O DAT-B DAT-I O O
+특히 이번 시즌 에 출시된 신제품 에 는 소재 자체 의 통기 기능 과 함께 땀 이 많이 배출되 는 부위 에 구멍 을 뚫 어 통기성 을 극대화한 ‘ 에어 패널 ’ 디자인 을 적용 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전임자 인 플린 이 취임 전 부터 미국 주재 러시아 대사 와 만나 대 러 제재 해제 를 논의 했 다는 사실 때문 에 물러난 상황 에서 , 외부 인사 와 의 비슷한 스캔들 전력 이 있 는 퍼 트레이 어스 를 트럼프 가 안보 보좌관 으로 낙점할지 는 미지수 이 다 .	O O PER-B O O O O LOC-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O PER-B O O O O O O O O O O
+엘리엇 은 심리 가 끝난 후 에 도 “ 경찰 은 내 가 서서 운전 했 다고 주장하 는데 차량 에 비해 내 키 가 컸 을 뿐 ” 이 라며 “ 난 운전 실력 이 굉장히 뛰어나 다 ” 고 주장 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보쉬 자동차 부품 애프터 마켓 사업 부 는 장거리 운행 에 는 배터리 , 브레이크 패드 , 엔진 오일 등 의 점검 이 각별히 필요하 다고 조언한다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+2015 동아 필리핀 영어 캠프 는 초 3 ∼ 중 3 대상 ‘ 스파르타 영어 캠프 ’ 와 초 1 ∼ 중 3 이 어머니 와 함께 참가하 는 ‘ 엄마 와 함께 가족 캠프 ’ 로 나뉘 어 진행된다 .	DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데 렌터카 는 고객 만족 을 최고 가치 로 정하 고 차별화된 서비스 와 혜택 을 제공하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+이외 에 도 지난 6 월 착공 에 들어간 24 만 7749 ㎡ 규모 , 근무 인력 2000 여 명 에 달하 는 하나 금융 타운 내 전산 센터 ( 7 층 규모 ) 및 개발 센터 ( 16 층 규모 ) 가 오 는 2016 년 말 완공되 고 , 16 만 5000 여 ㎡ 규모 의 위락 , 쇼핑 , 레저 공간 을 갖춘 신세계 복합 쇼핑몰 도 오 는 2017 년 완공될 예정 이 다 .	O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O DAT-B DAT-I O O O O O
+이날 김소연 은 수줍 은 소녀 같 은 제스처 와 “ 빨리 안건 ~ ” 이 라는 애교 섞인 재촉 으로 G 12 를 열광 케 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O

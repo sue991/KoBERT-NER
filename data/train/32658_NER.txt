@@ -1,10 +1,10 @@
-김 팀장은 “20대의 1개 연령의 평균 경제활동인구 수가 약 40만명이 +ㄴ 것을 고려하면 약 19% 내외의 취업 희망자만이 이 부문에 들어가 +ㄹ 수 있다”면서 “많은 청년들이 졸업과 취업을 유예하면서 공무원, 공공기관, 대기업 입사시험 준비에 매달리는 것도 이 때문”이라고 진단하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-SSRIs의 효과는 분명하지만, 전문의와 예상되는 효과와 부작용에 대하+ㄴ 상담 이후 투약을 결정하여야 하+ㄴ다 .	O O O O O O O O O O O O O O
-마리텔 박지우, 미모의 아내와 커플댄스 선보이어… '유쾌 .	O PER-B O O O O O O
-이 신문이 안보법 성립 전 이+ㄴ 2014년 5월 실시하+ㄴ 조사에서 +ㄴ 찬성이 47%로 반대(34%)를 크게 웃돌았다 .	O O O O O O O O O O O O O O O O O
-지난달 26일 미국 시카고의 ‘네이비 피어 컨벤션센터’에서 열리+ㄴ 시상식에서 한국맥도날드의 최현정 메뉴팀장과 김수미 부동산개발팀 시니어 컨설턴트는 각각 검은색, 흰색 옷을 입고 화려하+ㄴ 조명 아래 주인공으로서 +었다 .	O O LOC-B LOC-B LOC-B LOC-I LOC-I O O ORG-B PER-B O PER-B O O O O O O O O O O O O O O
-박근혜 대통령이 최순실 씨 문제로 두 번째 대국민 사과를 +였다 .	PER-B O PER-B O O O O O O O O
-박 대통령은 4일 청와대 춘추관에서 발표 하+ㄴ대국민담화에서 “이번 최순실씨 사건으로 이루말 하+ㄹ 수 없는 크+ㄴ 실망과 염려를 끼치+어드리+ㄴ점 다시 한번 진심으로 사과드리+ㄴ다”며 “이 모든 사태는 저의 잘못이고 저의 불찰로 일어나 +ㄴ 일”이라고 말하였다 .	PER-B O O LOC-B LOC-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-더욱이 전북에는 지난해 제주에서 맹활약 하+ㄴ 측면 공격수로 페즈(브라질)가 버티고 있다 .	O ORG-B O ORG-B O O O O LOC-B O O O
-이제는 4선 발을 +어야 하+ㄴ다 .	O O O O O O
-A팀이 올해 홈3연전(원정1경기)을 치르면, 다음해에는 원정 3연 전(홈1경기)을 가져가는 식이다 .	ORG-B O O O O O O O O O O
+김 팀장 은 “ 20 대 의 1 개 연령 의 평균 경제 활동 인구 수 가 약 40 만 명 인 것 을 고려하 면 약 19 % 내외 의 취업 희망자 만 이 이 부문 에 들어갈 수 있 다 ” 면서 “ 많 은 청년 들 이 졸업 과 취업 을 유예하 면서 공무원 , 공공 기관 , 대기업 입사 시험 준비 에 매달리 는 것 도 이 때문 ” 이라고 진단 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+SSRIs 의 효과 는 분명하 지만 , 전문의 와 예상되 는 효과 와 부작용 에 대한 상담 이후 투약 을 결정하 여야 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+마리 텔 박지우 , 미모 의 아내 와 커플 댄스 선보 여 … ' 유쾌 '	O O PER-B O O O O O O O O O O O O O
+이 신문 이 안보 법 성립 전 인 2014 년 5 월 실시한 조사 에선 찬성 이 47 % 로 반대 ( 34 % ) 를 크 게 웃돌 았 다 .	O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O
+지난달 26 일 미국 시카고 의 ‘ 네이비 피 어 컨벤션 센터 ’ 에서 열린 시상식 에서 한국 맥도날드 의 최현정 메뉴 팀장 과 김수미 부동산 개발 팀 시니어 컨설턴트 는 각각 검은색 , 흰색 옷 을 입 고 화려한 조명 아래 주인공 으로 섰 다 .	O DAT-B DAT-I LOC-B LOC-B O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O ORG-B ORG-I O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+박근혜 대통령 이 최순실 씨 문제 로 두 번째 대 국민 사과 를 했 다 .	PER-B O O PER-B O O O O O O O O O O O O
+박 대통령 은 4 일 청와대 춘추관 에서 발표한 대 국민 담화 에서 “ 이번 최순실 씨 사건 으로 이루 말할 수 없 는 큰 실망 과 염려 를 끼쳐 드린 점 다시 한 번 진심 으로 사과드린다 ” 며 “ 이 모든 사태 는 저 의 잘못 이 고 저 의 불찰 로 일어난 일 ” 이라고 말 했 다 .	PER-B O O DAT-B DAT-I LOC-B LOC-I O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+더욱이 전북 에 는 지난해 제주 에서 맹활약한 측면 공격수 로페즈 ( 브라질 ) 가 버티 고 있 다 .	O ORG-B O O O ORG-B O O O O PER-B O LOC-B O O O O O O O
+이제 는 4 선발 을 써야 한다 .	O O O O O O O O
+A 팀 이 올해 홈 3 연전 ( 원정 1 경기 ) 을 치르 면 , 다음 해 에 는 원정 3 연전 ( 홈 1 경기 ) 을 가져가 는 식 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

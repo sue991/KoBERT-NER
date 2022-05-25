@@ -1,13 +1,13 @@
-‘클라라폴라리스, 디스패치’ 디스 패치가 클라라와 소속사 폴라리스 L 회장 사이 오고가+ㄴ문자를 공개하+여 논란이 일고 있다 .	ORG-B ORG-B ORG-B ORG-I PER-B O ORG-B PER-B O O O O O O O O
-반 전 총장을 돕ㄴ이상이+ㄹ 전 의원은 반 전 총장이 불출마를 선언하자 소설 ‘주홍글씨’를 인용하+여 이런 글을 남기었다 .	PER-B O O PER-B O O PER-B O O O O O O O O O O O
-군 위안부 문제를 확실하게 해결하는 것이 바람직하다 .	O O O O O O O O
-케이블 채널 tvN드라마 ‘응답하라 1997’(응칠), ‘응답하라 1994’(응사), ‘응답하라 1988’(응팔)까지 세 편의 시리즈가 각기 다르+ㄴ 세대를 이야기하면서도 공통적으로 여주인공의 ‘남편 찾기’ 장치를 통하+여 ‘두 남자 간의 대결’을 부각시키+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또한 지창욱 역시 그런 박민영을 뚫어 지+ㄹ듯 애절 하+ㄴ 눈빛으로 바라보고 있어 눈길을 끌었다 .	O PER-B O O PER-B O O O O O O O O O O
-함께 공개되+ㄴ 다른 사진에서는 박민영이 눈물을 흘리며 어디+이+ㄴ가에 시선을 고정하고 있어 두 사람의 가슴저리+ㄴ 상황을 짐작하게 +였다 .	O O O O PER-B O O O O O O O O O O O O O
-한편, 지창욱과 박민영이 열연 중이+ㄴ드라마 ‘힐러’는 정치나 사회, 정의 같은 것 +ㄴ그저 재수 없는 단어+이라고 생각하며 살던 청춘들이 부모 세대가 남기+어놓은 세상과 맞싸우는 통쾌하고 발칙 하+ㄴ 액션 로맨스드라마+이다 .	O PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-영결식에는 고인의 차남 이재환 재산커뮤니케이션즈 대표와 이재용 삼성전자 부회장, 이부진 호텔신라 사장, 이서현 제일모직 사장 등범 삼성가 친인척이 참석하였다 .	O O O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O O O O O O
-그리고 이들은 취재여행 중에 오랜 기간 마음속에 있던 사과를 건네+ㄴ 것으로 알고 있다”고 밝히+ㄴ 후 “두 사람은 상남자답게 사과도 터프+하였다 .	O O O O O O O O O O O O O O O O O O O O O
-새로 출범하는 차이잉원 정부의 고민은 중국이 내밀는 당근을 덥석 물+ㄹ 수도 없지만 그렇다고 중국이 무차별적으로 내려치는 채찍을 오랫동안 견디+ㄹ만 하+ㄴ맷집 또한 없다는 점이다 .	O O ORG-B ORG-I O ORG-B O O O O O O O ORG-B O O O O O O O O O O
-포천은 12월 삼성이 이 회장의 건강상태에 관계없이 이 부회장을 대표이사로 선임하는 등 사실상의 승계 작업을 완료하+ㄹ 가능성이 있다고 전하였다 .	LOC-B O ORG-B PER-B O O PER-B PER-B O PER-B O O O O O O PER-B O O O
-여기서 우리는 이미 150년 전, 자본주의의 참상을 노동자의 소외를 통하+여갈파 하+ㄴ 선생의 혜안을 새삼 되새기게 되+ㅂ니다 .	O O O O O O O O O O O O O O O O O
-“원래는 청담동에 조그맣+ㄴ 땅이 있어 거기에 짓으려 +였다 .	O LOC-B O O O O O O O
+‘ 클라라 폴라리스 , 디스 패치 ’ 디스 패치 가 클라라 와 소속 사 폴라리스 L 회장 사이 오 고 간 문자 를 공개해 논란 이 일 고 있 다 .	O PER-B ORG-B O ORG-B ORG-I O ORG-B ORG-I O PER-B O O O ORG-B PER-B O O O O O O O O O O O O O O O
+반 전 총장 을 도 운 이상 일 전 의원 은 반 전 총장 이 불출마 를 선언하 자 소설 ‘ 주홍글씨 ’ 를 인용해 이런 글 을 남 겼 다 .	PER-B O O O O O PER-B PER-I O O O PER-B O O O O O O O O O O O O O O O O O O O O
+군 위안부 문제 를 확실하 게 해결하 는 것 이 바람직하 다 ”	O O O O O O O O O O O O O
+케이블 채널 tvN 드라마 ‘ 응답하 라 1997 ’ ( 응칠 ) , ‘ 응답하 라 1994 ’ ( 응사 ) , ‘ 응답하 라 1988 ’ ( 응 팔 ) 까지 세 편 의 시리즈 가 각기 다른 세대 를 이야기 하 면서 도 공통적 으로 여주인공 의 ‘ 남편 찾 기 ’ 장치 를 통해 ‘ 두 남자 간 의 대결 ’ 을 부각 시킨다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 지창욱 역시 그런 박민영 을 뚫어질 듯 애절한 눈빛 으로 바라보 고 있 어 눈길 을 끌 었 다 .	O PER-B O O PER-B O O O O O O O O O O O O O O O O
+함께 공개된 다른 사진 에서 는 박민영 이 눈물 을 흘리 며 어딘가 에 시선 을 고정하 고 있 어 두 사람 의 가슴 저린 상황 을 짐작 케 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 지창욱 과 박민영 이 열연 중 인 드라마 ‘ 힐러 ’ 는 정치 나 사회 , 정의 같 은 건 그저 재수 없 는 단어 라고 생각하 며 살 던 청춘 들 이 부모 세대 가 남겨 놓 은 세상 과 맞싸우 는 통쾌하 고 발칙한 액션 로맨스 드라마 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영결식 에 는 고인 의 차남 이재환 재산 커뮤니케이션즈 대표 와 이재용 삼성전자 부회장 , 이부진 호텔신라 사장 , 이서현 제일모직 사장 등 범 삼성 가 친인척 이 참석 했 다 .	O O O O O O PER-B ORG-B ORG-I O O PER-B ORG-B O O PER-B ORG-B O O PER-B ORG-B O O O O O O O O O O O
+그리고 이 들 은 취재 여행 중 에 오랜 기간 마음 속 에 있 던 사과 를 건넨 것 으로 알 고 있 다 ” 고 밝힌 후 “ 두 사람 은 상 남자 답 게 사과 도 터프 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새로 출범하 는 차이 잉원 정부 의 고민 은 중국 이 내미 는 당근 을 덥석 물 수 도 없 지만 그렇 다고 중국 이 무차별적 으로 내려치 는 채찍 을 오랫동안 견딜 만한 맷집 또한 없 다는 점 이 다 .	O O O ORG-B ORG-I ORG-I O O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+포천 은 12 월 삼성 이 이 회장 의 건강 상태 에 관계없이 이 부회장 을 대표이사 로 선임하 는 등 사실상 의 승계 작업 을 완료할 가능성 이 있 다고 전 했 다 .	LOC-B O DAT-B DAT-I ORG-B O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+여기 서 우리 는 이미 150 년 전 , 자본주의 의 참상 을 노동자 의 소외 를 통해 갈파한 선생 의 혜안 을 새삼 되새기 게 됩니다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+“ 원래 는 청담동 에 조그만 땅 이 있 어 거기 에 지 으려 했 다 .	O O O LOC-B O O O O O O O O O O O O O

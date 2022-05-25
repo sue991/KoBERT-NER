@@ -1,16 +1,16 @@
-“무슨 일을 하시죠?” “맨해튼 월가 금융기관에서 일하+ㅂ니다 .	O O O LOC-B O O O O
-[오늘의 운세/12월 28일 .	O O O O
-또 마약 판매대금 20만~173만원을 각각 추징하였다 .	O O O MNY-B O O O
-삼국유사 목판 판각 완료…삼국유사가치 높이었 .	O O O O O O
-국민의당 경선, 총 18만4,000여명 참여로 마무 .	ORG-B O O O O O O
-홍콩 현지 학생이 많은 기숙사동은 거의 의무적으로 기숙사 동아리 활동에 참가 하+여야 하+ㄹ 정도로 단체 활동을 강조하는 분위기 이+ㄴ 반면 국제유학생 비율이 높은 기숙사동은 좀 더 자유롭고 개인적 이+ㄴ 분위기가 많다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-황석정은 이어 "그러다 무작정 연극을 보고는 '아, 저런 세계에 있어야 +겠다' +이라는 생각을 +였다 .	PER-B O O O O O O O O O O O O O O
-참여를 원하는 신규 고객은 이달부터 4월 사이에 보건소에서 운영하는 금연클리닉에 참여하+여금연을 시작하고 4~7월 중에 3개월 이상 금연에 성공하였다는 금연 성공 확인증을 풀무원녹즙일이+ㄹ배달 판매사원이+ㄴ모닝스텝에게 제출하면 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O
-도널드 트럼프가 의료기록을 공개하지 않아 완전히 확실하+ㄹ 수는 없지만 말이다"라고 주장하였다 .	PER-B PER-I O O O O O O O O O O
-클린턴 후보는 지나 +ㄴ 11일 열리+ㄴ9·11 테러 15주년 추모식에서 휘청이는 모습을 보이어 건강이상설을 증폭시키었으며, 클린턴 캠프는 이후 후보가 폐렴에 걸리었다고 발표하였다 .	PER-B O O O O O O O O O O O O O PER-B PER-I O O O O O O
-남편이 +ㄴ 클린턴 전 대통령은 이에 대하+여 "그가 비틀거리+ㄴ 것은 단순히 탈수 증상 때문"이라고 설명하였다 .	O O PER-B O O O O O O O O O O O O O
-또 클린턴 후보가 수행원들의 부축을 받으며 차량에 올라타 +ㄴ 것에 대하+여서는 "만약 그녀의 건강상태가 심각하다면 나뿐 아니라 의사들에게도 미스터리일 것"이라며 "클린턴 후보는 국무장관뿐만 아니라 상원의원 시절에도 왕성하게 활동하였다"고 전하였다 .	O PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
-클린턴 전 대통령은 13일 캘리포니아에서 열리+ㄴ 후원 행사에 클린턴 후보를 대신 하+여 참석하기도 +였다 .	PER-B O O O LOC-B O O O PER-B O O O O O O
-좋은 취지로 하는 것+이라 10명 중 1명만 참여를 하+여주시+어도 저희는 계속 거리에 나오+ㄹ 것 같아요.”―허운 씨(25·대학 연합 봉사동아리 ‘나우’) “격주마다 서울역 근처 거리에 노숙인을 위하+여 찾아오는 밥차가 있습니다 .	O O O O O O O O O O O O O O PER-B O O O ORG-B O LOC-B O O O O O O O O
-소유는 평소 몸무게를 재지 않는다고 밝히었다 .	PER-B O O O O O O
-즉 최대 22억5000만개의 씨앗을 보관 하+ㄹ 수 있다는 계산이 나 오+ㄴ다 .	O O O O O O O O O O O O
+“ 무슨 일 을 하 시 죠 ? ” “ 맨해튼 월가 금융 기관 에서 일합니다 .	O O O O O O O O O O LOC-B O O O O O O
+[ 오늘 의 운세 / 12 월 28 일 ]	O O O O O DAT-B DAT-I DAT-I DAT-I O
+또 마약 판매 대금 20 만 ~ 173 만 원 을 각각 추징 했 다 .	O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O
+삼국유사 목판 판각 완료 … 삼국유사 가치 높 였 다	O O O O O O O O O O
+국민 의당 경선 , 총 18 만 4,000 여 명 참여 로 마무리	ORG-B ORG-I O O O O O O O O O O O
+홍콩 현지 학생 이 많 은 기숙사 동 은 거의 의무적 으로 기숙사 동아리 활동 에 참가해야 할 정도 로 단체 활동 을 강조하 는 분위기 인 반면 국제 유학생 비율 이 높 은 기숙사 동 은 좀 더 자유롭 고 개인적 인 분위기 가 많 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황석정 은 이어 " 그러 다 무작정 연극 을 보 고는 ' 아 , 저런 세계 에 있 어야 겠 다 ' 라는 생각 을 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+참여 를 원하 는 신규 고객 은 이달 부터 4 월 사이 에 보건소 에서 운영하 는 금연 클리닉 에 참여해 금연 을 시작하 고 4 ~ 7 월 중 에 3 개월 이상 금연 에 성공 했 다는 금연 성공 확인 증 을 풀무원 녹즙 일 일 배달 판매 사원 인 모닝 스텝 에게 제출하 면 된다 .	O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+도널드 트럼프 가 의료 기록 을 공개하 지 않 아 완전히 확실할 수 는 없 지만 말 이 다 " 라고 주장 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+클린턴 후보 는 지난 11 일 열린 9 · 11 테러 15 주년 추모식 에서 휘청이 는 모습 을 보 여 건강 이상 설 을 증폭 시 켰 으며 , 클린턴 캠프 는 이후 후보 가 폐렴 에 걸 렸 다고 발표 했 다 .	PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
+남편 인 클린턴 전 대통령 은 이 에 대해 " 그 가 비틀거린 것 은 단순히 탈수 증상 때문 " 이라고 설명 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+또 클린턴 후보 가 수행원 들 의 부축 을 받 으며 차량 에 올라탄 것 에 대해서 는 " 만약 그녀 의 건강 상태 가 심각하 다면 나 뿐 아니 라 의사 들 에게 도 미스테리 일 것 " 이 라며 " 클린턴 후보 는 국무 장관 뿐 만 아니 라 상원 의원 시절 에 도 왕성하 게 활동 했 다 " 고 전 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+클린턴 전 대통령 은 13 일 캘리포니아 에서 열린 후원 행사 에 클린턴 후보 를 대신해 참석하 기 도 했 다 .	PER-B O O O DAT-B DAT-I LOC-B O O O O O PER-B O O O O O O O O O
+좋 은 취지 로 하 는 거 라 10 명 중 1 명 만 참여 를 해 주 셔도 저희 는 계속 거리 에 나올 것 같 아요 . ” ― 허운 씨 ( 25 · 대학 연합 봉사 동아리 ‘ 나우 ’ ) “ 격주 마다 서울역 근처 거리 에 노숙인 을 위해 찾아오 는 밥 차 가 있 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O ORG-B O O O O O LOC-B O O O O O O O O O O O O O O
+소유 는 평소 몸무게 를 재 지 않 는다고 밝 혔 다 .	PER-B O O O O O O O O O O O O
+즉 최대 22 억 5000 만 개 의 씨앗 을 보관할 수 있 다는 계산 이 나온다 .	O O O O O O O O O O O O O O O O O O

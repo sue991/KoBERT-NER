@@ -1,9 +1,9 @@
-프로골퍼 장 하나가 ‘파4홀 인원’이라는 진기록을 세우었다 .	O O O O O O O O
-'복면가왕' 윤형빈, 상상초월가 창력 어떻+ㄴ가+았더니 '복면가왕' 바람의 정체는 윤형빈으로 밝혀지었다 .	O PER-B O O O O PER-B O PER-B O O
-특히 28일 방송되+ㄴ 최종화에서는 도경이해영을 번쩍 들고도 경의방이곳저곳에서 키스를 나누는 장면으로 눈길을 모으았다 .	O O O O PER-B O O O O O O O O O
-중앙선거관리위원회와 중앙일보가 ‘참여하는 시민, 꽃피는 민주주의’를 주제로 강연 콘테스트를 개최 하+ㅂ니다 .	ORG-B ORG-B O O O O O O O O O O
-최씨는 돈을 벌기 시작하+ㄴ 14년 전부터 저축을 거르 +ㄴ적이 없다 .	PER-B O O O O O O O O O O
-김 교수가 학생들 고민상담 중 꼭 던지는 질문은 “네가 원하는 것은 무엇이냐?”+이라는 것이다 .	PER-B O O O O O O O O O O O O O
-한편, 김씨는 경찰 조사에서 남북대화를 가로막는 '전쟁훈련'을 중단시키고 전시작전통제권을 환수시키기 위하+ 여리퍼트 대사를 공격하였다며 이번 범행을 열흘간 혼자 준비하었다고 진술 하+ㄴ 것으로 전하여 +지+었다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O
-김씨는 지나 +ㄴ 5일 오전 7시 40분께 서울 종로구 세종문화회관 세종홀에서 열리+ㄴ민족화해협력범국민협의회 주최 조찬 강연회장에서 25㎝길이의 흉기로 리퍼트 대사의 얼굴과 왼쪽 손목 등을 찌르고 현장에서 검거되었다 .	PER-B O O O O O O LOC-B LOC-B LOC-I LOC-I ORG-B O O O O O PER-B O O O O O O O O O
-네티즌들은 ‘경찰 김기종 사무실 압수수색’ 소식에 “경찰 김기종 사무실 압수수색, 다 밝히+어주시기+ㄹ”, “경찰 김기종 사무실 압수수색, 단독범행?”, “경찰 김기종 사무실 압수수색, 리퍼트 대사 쾌유하세요” 등의 반응을 보이었다 .	O O PER-B O O O O PER-B O O O O O PER-B O O O O PER-B O O PER-B O O O O O O
+프로 골퍼 장하나 가 ‘ 파 4 홀인원 ’ 이 라는 진 기록 을 세 웠 다 .	O O PER-B O O O O O O O O O O O O O O O
+' 복면 가왕 ' 윤형빈 , 상상 초월 가창력 어떤가 봤 더니 ' 복면 가왕 ' 바람 의 정체 는 윤형빈 으로 밝혀 졌 다 .	O O O O PER-B O O O O O O O O O O O PER-B O O O PER-B O O O O O
+특히 28 일 방송된 최종화 에서 는 도경이 해영 을 번쩍 들 고 도경 의 방 이곳저곳 에서 키스 를 나누 는 장면 으로 눈길 을 모 았 다 .	O DAT-B DAT-I O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O
+중앙선거관리위원회 와 중앙일보 가 ‘ 참여하 는 시민 , 꽃피 는 민주주의 ’ 를 주제 로 강연 콘테스트 를 개최합니다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O
+최 씨 는 돈 을 벌 기 시작한 14 년 전 부터 저축 을 거른 적 이 없 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+김 교수 가 학생 들 고민 상담 중 꼭 던지 는 질문 은 “ 네 가 원하 는 것 은 무엇 이 냐 ? ” 라는 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 김 씨 는 경찰 조사 에서 남북 대화 를 가로막 는 ' 전쟁 훈련 ' 을 중단 시키 고 전시 작전 통제권 을 환수 시키 기 위해 리퍼트 대사 를 공격 했 다며 이번 범행 을 열흘 간 혼자 준비 했 다고 진술한 것 으로 전해 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+김 씨 는 지난 5 일 오전 7 시 40 분 께 서울 종로구 세종문화회관 세종홀 에서 열린 민족 화해 협력 범 국민 협의회 주최 조찬 강연 회장 에서 25 ㎝ 길이 의 흉기 로 리퍼트 대사 의 얼굴 과 왼쪽 손목 등 을 찌르 고 현장 에서 검거 됐 다 .	PER-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-I LOC-I O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+네티즌 들 은 ‘ 경찰 김기종 사무실 압수 수색 ’ 소식 에 “ 경찰 김기종 사무실 압수 수색 , 다 밝혀 주 시 길 ” , “ 경찰 김기종 사무실 압수 수색 , 단독 범행 ? ” , “ 경찰 김기종 사무실 압수 수색 , 리퍼트 대사 쾌유하 세요 ” 등 의 반응 을 보 였 다 .	O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-최저임금 밤샘 협상 결렬, 8100원 vs5715원… “노사 양측 합의점 찾지 못하였다” 내년도 최저임금 협상이 밤샘회의로 이어지었지만 노동계와 경영계 양측의 입장 차이가 +어 결국 협상이 결렬되었다 .	O O O O MNY-B MNY-B O O O O O O O O O O O O O O O O O O O O
-최저임금위원회는 7일 저녁부터 8일 새벽까지 11차 전원회의를 열어 근로자위원들과 사용자위원들이 제시하+ㄴ 내년도 최저임금 인상안 절충 작업을 벌이었다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O
-캐나다 한인 임 목사는 북한에 들어가 +ㄴ 뒤 가족이나 지인에게도 연락이 닿지 않고 있다 .	LOC-B O PER-B O LOC-B O O O O O O O O O O
-아리따부리는 아모레퍼시픽이 추구하는 단아하고 지적이 +ㄴ 멋이 풍기는 현대적 이+ㄴ 여성의 아름답+ㅁ을 담아내 +ㄴ글꼴이다 .	O ORG-B O O O O O O O O O O O O O
-황정음, 2월 결혼… 결정적 이+ㄴ 계기는 .	PER-B O O O O O O
-캐리어 냉장은 냉장 냉동 전문기업으로 상업용 쇼케이스 및 유통물류센터용 저온냉장 설비 등의 제품을 국내외에 판매하고 있다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O
-김용진 교수는 “고혈압·당뇨병·고지혈증은 혈관 건강을 악화시키+어고환에서 정자를 생성하는데 악영향을 미치+ㄴ다”고 설명하였다 .	PER-B O O O O O O O O O O O
-김정남 암살 이후 김정남은 '김철'이라는 이름으로 되+ㄴ 외교관 신분의 여권을 소지하고 있었던 사실이 알려지었다 .	PER-B O O PER-B PER-B O O O O O O O O O O
-또 새마을운동협의회에는 96년부터 예산지원을 중단하고, 95년에는 지원 예산의 50%를 줄이기로 +였다 .	O ORG-B O O O O O O O O O O
-LG, 두산이 최소 1000억원씩 감당하는 시나리오는 경제상황을 고려하+ㄹ 때그룹 차원에서도 부담을 느끼+ㄹ 규모 +이다 .	ORG-B ORG-B O MNY-B O O O O O O O O O O O
-그렇다고 제3의 사업자가 들어오면 추후 야구장 운영 수익 배분이 복잡하+여지+ㄴ다 .	O O O O O O O O O O O
-1991년 4월 국립현대미술관의 ‘움직이는 미술관’ 전시에 공개되었 .	O O ORG-B O O O O O
-또 다른 소식통은 “북한 보위부원으로 추정되는 인물이 한 목사를 살해하고 그의 소지품을 모두 가져가 +았다”고 말하였다 .	O O O ORG-B O O O O O O O O O O O O O
+최저 임금 밤샘 협상 결렬 , 8100 원 vs 5715 원 … “ 노사 양측 합의점 찾 지 못 했 다 ” 내년도 최저 임금 협상 이 밤샘 회의 로 이어 졌 지만 노동계 와 경영 계 양측 의 입장 차이 가 커 결국 협상 이 결렬 됐 다 .	O O O O O O MNY-B MNY-I O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최저 임금 위원회 는 7 일 저녁 부터 8 일 새벽 까지 11 차 전원회의 를 열 어 근로자 위원 들 과 사용자 위원 들 이 제시한 내년도 최저 임금 인상 안 절충 작업 을 벌 였 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+캐나다 한인 임 목사 는 북한 에 들어간 뒤 가족 이나 지인 에게 도 연락 이 닿 지 않 고 있 다 .	LOC-B O PER-B O O LOC-B O O O O O O O O O O O O O O O O O
+아리따 부리 는 아모레퍼시픽 이 추구하 는 단아하 고 지적 인 멋 이 풍기 는 현대적 인 여성 의 아름다움 을 담아낸 글 꼴 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+황 정음 , 2 월 결혼 … 결정적 인 계기 는 ?	PER-B PER-I O DAT-B DAT-I O O O O O O O
+캐리어 냉장 은 냉장 냉동 전문 기업 으로 상업 용 쇼케이스 및 유통 물류 센터 용 저온 냉장 설비 등 의 제품 을 국내외 에 판매하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김용진 교수 는 “ 고혈압 · 당뇨병 · 고지혈증 은 혈관 건강 을 악화 시켜 고환 에서 정자 를 생성하 는 데 악영향 을 미친다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김정남 암살 이후 김정남 은 ' 김철 ' 이 라는 이름 으로 된 외교관 신분 의 여권 을 소지하 고 있 었 던 사실 이 알려 졌 다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+또 새마을 운동 협의회 에 는 96 년 부터 예산 지원 을 중단하 고 , 95 년 에 는 지원 예산 의 50 % 를 줄이 기 로 했 다 .	O ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+LG , 두산 이 최소 1000 억 원 씩 감당하 는 시나리오 는 경제 상황 을 고려할 때 그룹 차원 에서 도 부담 을 느낄 규모 다 .	ORG-B O ORG-B O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O
+그렇 다고 제 3 의 사업자 가 들어오 면 추후 야구장 운영 수익 배분 이 복잡해 진다 .	O O O O O O O O O O O O O O O O O O
+1991 년 4 월 국립현대미술관 의 ‘ 움직이 는 미술관 ’ 전시 에 공개 됐 다	DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O O O O O O O
+또 다른 소식통 은 “ 북한 보위 부원 으로 추정되 는 인물 이 한 목사 를 살해하 고 그 의 소지품 을 모두 가져갔 다 ” 고 말 했 다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O

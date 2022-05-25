@@ -1,11 +1,11 @@
-‘트레이드 파문’ KOVO 사무총장-사무국장 징 .	O O ORG-B O O O
-헌재가 박 대통령 측과 국회 측에 23일까지 최종 의견서 제출을 주문하+ㅁ에 따르 아탄 핵심 판 결정은 3월 초에 내려 지+ㄹ 가능성이 유력 하+여지고 있다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
--기업형 임대주택 최초 기가 인프라 등 KT그룹의 ICT 솔루션 집 .	O O O O O O ORG-B O O O O
-13일 경기 첫 타석에서 우 전 안타를 치+어 2000안타에 2개만을 남기+어+두었던 홍성흔은 쉼표 한 번 없이 곧바로 대기록을 작성하였다 .	O O O O O O O O O O O PER-B O O O O O O O O
-알파고는 우선 백42로 상변 백이 언제든지 사+ㄹ 수 있는 근거를 확보하+ㄴ 뒤 백44로 흑의 엷은 곳을 끊어 가+ㄴ다 .	O O O O O O O O O O O O O O O O O O O
-이날 ‘복면가왕’고 추아가 씨는 수준급의 가창력으로 9대가 왕자리에 오르았다 .	O O O O O O O O O O
-상품화 전략이 뛰어나 +아오늘의 위치를 이루었다는 일본의 경우도 2차대전이나 +ㄴ줄도 모르고 연구실에만 박히+어 있었다는 교수의 일화가 보이어주듯 길+ㄴ 호흡의 기초연구 지원 정책이 있었습니다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-의원은 아베 총리를 크게 꾸짖었습니다 .	O PER-B O O O O
-"일본은 왜 미국 대통령에게 사과하느냐" 사과를 받아야 하+ㄹ사람은 일본군이 존엄성을 짓밟은 위안부(성노예) 피해자 할머니들이라는 것이었죠..11 그는 2000년 첫 당선 이래 2014년 선거까지 하원 8선에 성공하었습니다 .	ORG-B O ORG-B O O O O O ORG-B O O ORG-B O O O O O O O O O O O O O O
-올 11월 선거에서 9선 고지를 앞두고 “한반도를 위하+여아직 하+ㄹ일이 많다”고 포부를 밝히었지만 낙선하고 말았죠 .	O O O O O O LOC-B O O O O O O O O
-김하늘은 “성적보다는 적응하면서 안정적이고 즐겁ㄴ 투어 생활을 하고 싶다”고 밝히었다 .	PER-B O O O O O O O O O O
+‘ 트레이드 파문 ’ KOVO 사무총장 - 사무국 장 징계	O O O O ORG-B O O O O O
+헌재 가 박 대통령 측 과 국회 측 에 23 일 까지 최종 의견서 제출 을 주문함 에 따 라 탄핵 심판 결정 은 3 월 초 에 내려질 가능성 이 유력해 지 고 있 다 .	O O PER-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+- 기업 형 임대주택 최초 기 가 인프라 등 KT 그룹 의 ICT 솔루션 집약	O O O O O O O O O ORG-B ORG-I O O O O
+13 일 경기 첫 타석 에서 우전 안타 를 쳐 2000 안타 에 2 개 만 을 남겨 뒀 던 홍성흔 은 쉼표 한 번 없이 곧바로 대기록 을 작성 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O
+알파 고 는 우선 백 42 로 상변 백 이 언제 든지 살 수 있 는 근거 를 확보한 뒤 백 44 로 흑 의 엷 은 곳 을 끊 어 간다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이날 ‘ 복면 가왕 ’ 고추 아가씨 는 수준급 의 가창력 으로 9 대 가왕 자리 에 올 랐 다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O
+상품화 전략 이 뛰어나 오늘 의 위치 를 이루 었 다는 일본 의 경우 도 2 차 대전 이 난 줄 도 모르 고 연구실 에 만 박혀 있 었 다는 교수 의 일화 가 보 여 주 듯 긴 호흡 의 기초 연구 지원 정책 이 있 었 습니다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+의원 은 아베 총리 를 크 게 꾸짖 었 습니다 .	O O PER-B O O O O O O O O
+" 일본 은 왜 미국 대통령 에게 사과하 느냐 " 사과 를 받 아야 할 사람 은 일본 군 이 존엄성 을 짓밟 은 위안부 ( 성 노예 ) 피해자 할머니 들 이 라는 것 이 었 죠 . # .11 그 는 2000 년 첫 당선 이래 2014 년 선거 까지 하원 8 선 에 성공 했 습니다 .	O ORG-B O O ORG-B O O O O O O O O O O O O ORG-B ORG-I O O O O O ORG-B O O O O O O O O O O O O O O O DAT-B O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O
+올 11 월 선거 에서 9 선 고지 를 앞두 고 “ 한반도 를 위해 아직 할 일 이 많 다 ” 고 포부 를 밝 혔 지만 낙선하 고 말 았 죠 .	O DAT-B DAT-I O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+김하늘 은 “ 성적 보다 는 적응하 면서 안정적 이 고 즐거 운 투어 생활 을 하 고 싶 다 ” 고 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O

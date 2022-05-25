@@ -1,13 +1,13 @@
-업계에서는 안전성을 높이기 위 하+ 여두가지 이상의 바이오인식 기술을 통합시키는 다중바이오인식 기술을 개발하려는 움직임도 포착되 +ㄴ다 .	O O O O O O O O O O O O O O O O O
-산업용 로봇 제조사인 일본의 화낙, 수술용 로봇 전문회사 미국인 튜이티브서지컬 등 세계산업, 의료, 소비자 로봇 관련 기술을 가지+ㄴ 회사에 투자 하+ㄴ다 .	O O O LOC-B ORG-B O O O ORG-B ORG-I O O O O O O O O O O O O
-이씨는 평생 남앞에서 자신 있게 웃어 보+ㄴ 경험이 없다고 +였다 .	PER-B O O O O O O PER-B O O O
-최승진 포항공대 컴퓨터공학과 교수도 비슷하+ㄴ 입장이다 .	PER-B ORG-B ORG-I O O O O
-어리+ㄹ 적 포켓몬에 빠지었던 사람들이라면 주목.영국의 아티스트가 만들 +ㄴ 포켓몬 상품이 화제+이다 .	O O O O O LOC-B O O O O O O O
-송중기는 이날 오전 8시 강원도 고성군 22사단에서 전역신고를 하+ㄴ 후 부대 앞에서 팬들을 만나 +았다 .	PER-B O O O LOC-B LOC-I O O O O O O O O O O
-한편 기존 환자 가운데 8번(46ㆍ여), 27번(55), 33번(47), 41번(70ㆍ여) 등 4명이 퇴원하였다 .	O O O O O O O O O O O O
-최근 5연승 행진 속에 2위 NC와 5게임차로 벌리며 단독 선두를 질주하였다 .	O O O O O ORG-B O O O O O O
-석유제품 31.1%, 전기요금 42.4%, 철도요금 39%가 오르았다 .	O O O O O O O O
-최초의 남북대화 장면은 남북의 지도자가 놓치+어서+ㄴ 안 되+ㄹ 대목이다 .	O ORG-B O ORG-B O O O O O O
-두 개의 빌딩에 100여개가 넘는 숍들이 입점 하+여 있고, 가운데 넓은 광장에는 홍콩의 크고 작은 이벤트가 항상 열리+ㄴ다 .	O O O O O O O O O O O O LOC-B O O O O O O
-JTBC ‘학교 다녀오겠습니다 .	ORG-B O O O
-“시골에서 직장을 찾으려고 차비 만 들고 부산으로 +았는데, 처음 하+ㄴ일이 건설회사 관리감독 일이었어요 .	O O O O O O LOC-B O O O O O O O
+업계 에서 는 안전성 을 높이 기 위해 두 가지 이상 의 바이오 인식 기술 을 통합 시키 는 다중 바이오 인식 기술 을 개발하 려는 움직임 도 포착된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+산업용 로봇 제조 사인 일본 의 화 낙 , 수술 용 로봇 전문 회사 미국 인튜이티브 서지컬 등 세계 산업 , 의료 , 소비자 로봇 관련 기술 을 가진 회사 에 투자한다 .	O O O O LOC-B O ORG-B ORG-I O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O
+이 씨 는 평생 남 앞 에서 자신 있 게 웃 어 본 경험 이 없 다고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+최승진 포항공대 컴퓨터 공학 과 교수 도 비슷한 입장 이 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O
+어릴 적 포켓몬 에 빠 졌 던 사람 들 이 라면 주목 . 영국 의 아티스트 가 만든 포켓몬 상품 이 화제 다 .	O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+송중기 는 이날 오전 8 시 강원도 고성군 22 사단 에서 전역 신고 를 한 후 부대 앞 에서 팬 들 을 만났 다 .	PER-B O O TIM-B TIM-I TIM-I LOC-B LOC-I O O O O O O O O O O O O O O O O O
+한편 기존 환자 가운데 8 번 ( 46 ㆍ 여 ) , 27 번 ( 55 ) , 33 번 ( 47 ) , 41 번 ( 70 ㆍ 여 ) 등 4 명 이 퇴원 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 5 연승 행진 속 에 2 위 NC 와 5 게임차 로 벌리 며 단독 선두 를 질주 했 다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O
+석유 제품 31.1 % , 전기 요금 42.4 % , 철도 요금 39 % 가 올 랐 다 .	O O O O O O O O O O O O O O O O O O O
+최초 의 남북 대화 장면 은 남북 의 지도자 가 놓쳐선 안 될 대목 이 다 .	O O ORG-B O O O ORG-B O O O O O O O O O O
+두 개 의 빌딩 에 100 여 개 가 넘 는 숍 들 이 입점 해 있 고 , 가운데 넓 은 광장 에 는 홍콩 의 크 고 작 은 이벤트 가 항상 열린다 .	O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+JTBC ‘ 학교 다녀오 겠 습니다 ’	ORG-B O O O O O O
+“ 시골 에서 직장 을 찾 으려고 차비 만 들 고 부산 으로 왔 는데 , 처음 한 일 이 건설 회사 관리 감독 일 이 었 어요 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O

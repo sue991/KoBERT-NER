@@ -1,16 +1,16 @@
-미국은 지난해 여름 이후 세 차례에 걸치+어 미국인 인질 구출을 위하+ㄴ 특수작전을 전개하였지만 모두 실패하였다 .	ORG-B O O O O O O ORG-B O O O O O O O O
-그래서 사인 시디를 두고 +았다고 말하니까 같이 술 먹으면서 사인 시디 하나 더 주겠다고 말 하+여 바로 다음날 또 술을 먹게 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O
-지나+ㄴ 30일 2만3천명 출국 “최고 .	O O O O O O
-이전에도 중국은 2차례에 걸치+어서 대규모 국유기업 개혁을 실시하+ㄴ적이 있다 .	O ORG-B O O O O O O O O
-‘여의도 비밀 벙커’ 땅속에 화장실·샤워장까지...대통령 긴급 피신용 .	LOC-B O O O O O O O
-설득과 모욕에 쫓겨나는 40대 금융권 밖으로 눈을 돌리+어도 현실이 팍팍하기는 마찬가지 +이다 .	O O O O O O O O O O O O O
-경기도는 폴루스의 1세대 바이오의약품 생산공장을 유치하+ㅁ으로써 인천 송도에잇어 대규모 글로벌 바이오시밀러의약품 생산 거점을 확보하게 되며, 이를 통하+여도내 1000여명 가깝ㄴ 고용창출 효과를 기대하+ㄴ다고 밝히었다 .	ORG-B ORG-B O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O
-프러포즈 반지를 전달 하+ㄴ ‘사랑의 큐피드’는 무인비행기(드론)+이었다 .	O O O O O PER-B O O
-김상우 감독이 하 선수들은 ‘다시는 이 멤버로 뭉치+어서 배구를 하기 어렵ㄹ 수 있다’는 생각 속에서 우리카드가 만년하위팀으로 기억되지 않을, 어쩌면 마지막 기회를 움켜잡고 있다 .	PER-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O
-2016~2017 시즌을 마치면 우리카드는 에이스 최홍석, 간판센터 박상하 그리고 살림꾼 신으뜸이 프리에이전트(FA)로 풀리+ㄴ다 .	O O O ORG-B O PER-B O PER-B O O PER-B O O O
-‘코리아 문화수도’는 해마다 한 도시를 ‘문화수도’로 선정하+여전국의 문화예술자원과 역량을 1년 내내 집중시키는 문화운동이다 .	O O O O O O O O O O O O O O
-한글자도쓰+ㄹ 수 없었다 .	O O O O
-서울 2회 공연에 부산2회 추가 소녀시대 태연(사진)이 한 차례 미루었던 단독 콘서트를 여름에 개최 하+ㄴ다 .	LOC-B O O LOC-B O ORG-B PER-B O O O O O O O O O
-‘예술가-컨설턴트- 대화’의 일명 ‘예컨데’ 프로젝트로 청년 예술창업팀의 스타트업 재정지원과 관련 전문가의 집중 멘토링을 제공하+ㄴ다 .	ORG-I O O O O ORG-B ORG-I O O O O O O O O
-최근 포항스틸러스의 분위기는 어수선하다 .	O ORG-B O O O
-삼성은 경영권 승계 과정에서 국민에게 지+ㄴ크+ㄴ 빚을 결코 잊어서는 안 되+ㄴ다 .	ORG-B O O O O O O O O O O O
+미국 은 지난해 여름 이후 세 차례 에 걸쳐 미국인 인질 구출 을 위한 특수 작전 을 전개 했 지만 모두 실패 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+그래서 사인 시디 를 두 고 왔 다고 말하 니까 같이 술 먹 으면서 사인 시디 하나 더 주 겠 다고 말해 바로 다음날 또 술 을 먹 게 됐 다 "	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 30 일 2 만 3 천 명 출국 “ 최고 ”	O DAT-B DAT-I O O O O O O O O O
+이전 에 도 중국 은 2 차례 에 걸쳐서 대규모 국유 기업 개혁 을 실시한 적 이 있 다 .	O O O ORG-B O O O O O O O O O O O O O O O O
+‘ 여의도 비밀 벙커 ’ 땅속 에 화장실 · 샤워 장 까지 . . . 대통령 긴급 피 신용 ?	O LOC-B O O O O O O O O O O O O O O O O O O
+설득 과 모욕 에 쫓겨나 는 40 대 금융 권 밖 으로 눈 을 돌려도 현실 이 팍팍하 기 는 마찬가지 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+경기도 는 폴 루스 의 1 세대 바이오 의약품 생산 공장 을 유치함 으로써 인천 송도 에 이 어 대규모 글로벌 바이오 시 밀러 의약품 생산 거점 을 확보하 게 되 며 , 이 를 통해 도내 1000 여 명 가까 운 고용 창출 효과 를 기대한다고 밝 혔 다 .	ORG-B O ORG-B ORG-I O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+프러포즈 반지 를 전달한 ‘ 사랑 의 큐피드 ’ 는 무인 비행기 ( 드론 ) 였 다 .	O O O O O O O PER-B O O O O O O O O O O
+김상우 감독 이하 선수 들 은 ‘ 다시 는 이 멤버 로 뭉쳐서 배구 를 하 기 어려 울 수 있 다 ’ 는 생각 속 에서 우리카드 가 만년 하위 팀 으로 기억되 지 않 을 , 어쩌면 마지막 기회 를 움켜잡 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+2016 ~ 2017 시즌 을 마치 면 우리카드 는 에이스 최홍석 , 간판 센터 박상하 그리고 살림꾼 신으뜸 이 프리에이전트 ( FA ) 로 풀린다 .	O O O O O O O ORG-B O O PER-B O O O PER-B O O PER-B O O O O O O O O
+‘ 코리아 문화 수도 ’ 는 해 마다 한 도시 를 ‘ 문화 수도 ’ 로 선정해 전국 의 문화 예술 자원 과 역량 을 1 년 내내 집중 시키 는 문화 운동 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 글자 도 쓸 수 없 었 다 .	O O O O O O O O O
+서울 2 회 공연 에 부산 2 회 추가 소녀 시대 태연 ( 사진 ) 이 한 차례 미 뤘 던 단독 콘서트 를 여름 에 개최한다 .	LOC-B O O O O LOC-B O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O
+‘ 예술가 - 컨설턴트 - 대화 ’ 의 일명 ‘ 예컨대 ’ 프로젝트 로 청년 예술 창업 팀 의 스타트 업 재정 지원 과 관련 전문가 의 집중 멘토링 을 제공한다 .	O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O
+최근 포항 스틸러스 의 분위기 는 어수선하 다 .	O ORG-B ORG-I O O O O O O
+삼성 은 경영권 승계 과정 에서 국민 에게 진 큰 빚 을 결코 잊 어서 는 안 된다 .	ORG-B O O O O O O O O O O O O O O O O O O

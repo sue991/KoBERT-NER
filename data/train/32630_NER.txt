@@ -1,17 +1,17 @@
-엄격하고 칭찬에 다소 인색 하+ㄴ 부모님 밑에서 자라면서 이동하는 스스로 자존감이 낮았다고 돌아보았다 .	O O O O O O O O PER-B O O O O O
-본격적으로 반항기가 시작되+ㄴ 것은 고교 1학년 시절. 학업에는 손을 떼고 집에 들어가지 않는 적도 수차례 +이었다 .	O O O O O O O O O O O O O O O O O
-‘도은영 다시 시작’가 수도 은영이 사망하기 전 ‘다시 시작’이라며 재기를 꿈꾸었다 .	PER-B O O O O O O O O O O O
-도은영은 최근 자신의 인스타그램을 통하+여 “다시 시작 가수도 은영”이라고 올리+ㄴ바 있다 .	PER-B O O O O O O O O O O O
-당초 새누리당은 김용하(금융보험학) 순천향대 교수가 제시하+ㄴ ‘기여율 10%, 지급률 1.65%’를 수지 균형 안으로 +았다 .	O ORG-B PER-B ORG-B O O O O O O O O O O O
-중국인 멤버차오루는 ‘사랑’이라는 단어를 ‘살랑’으로 발음하는 경우가 많아 틈틈이 한국어 수업을 듣으며 시간나+ㄹ 때마다 노래 연습과 발음 연습에 열중하+ㄴ다고 +였다 .	O PER-B O O O O O O O O O O O O O O O O O O O
-동서식품은 이번 패키지 리뉴얼 및 초콜릿 모카리뉴얼 출시에 맞추+어 10일 신규 TV 광고를 론칭하였다 .	ORG-B O O O O O O O O O O O O O O
-그러나 네덜란드의 미래에 대하+여서는 그다지 좋은 평가를 하지 않았다 .	O ORG-B O O O O O O O O
-송중기 제대, 초등동창류근지 “군인이 +ㄴ 데도 잘 생기+어, 나+ㄴ 오징어도 아니+ㄴ 괴물” 배우 송중기가 26일 제대하는 가운데, 송중기의 초등학교 동창이+ㄴ 개그맨 류근지의 발언이 재조명 받았다 .	PER-B O PER-B O O O O O O O O O O PER-B O O O PER-B O O O PER-B O O O O
-최근 류근지는 TV 리포트와 인터뷰에서 “초등학교 동창이+ㄴ 송중기의 외모는 원래 유명하였나” +이라 “+이라는 질문을 받았다 .	O PER-B O O O O O PER-B O O O O O O O O
-이에 류근지는 “어리+ㄹ 때부터 꽃미남이었다 .	O PER-B O O O O
-[오늘의 경기/7월 2일] 프로야구 .	O O O O O
-에이미 커티스 씨는 “대선 때의 트럼프보다 +ㄴ 지금의 트럼프가 그나마 나아지었다”며 “미국이 대통령 혼자 마음대로 하+ㄹ 수 있는 나라가 아니 +ㅁ을 트럼프도 알게 되+ㄹ 것”이라고 +였다 .	PER-B PER-I O O O PER-B O O PER-B O O ORG-B O O O O O O O O O PER-B O O O O O
-이는 1960년 13%에 비하+여 10%포인트가 높아 지+ㄴ 것이다 .	O O O O O O O O O
-앞서 박영수(65·사법연수원 10기) 특별검사팀의 구속영장 청구에서 ‘한판승’을 거두+ㄴ우 전 수석은 이번에도 검찰과 치열 하+ㄴ 법리 공방을 벌이+ㄹ 것으로 예상되 +ㄴ다 .	O ORG-B O O O O O PER-B O O O O O O O O O O O O O
-유네스코 세계기록유산 ‘동의보감’, 보물에서 국보로 승격 지 .	ORG-B O O O O O O O
-뿐만 아니라 식약처는 아리땁+ㅁ의 ‘아리땁ㅁ 볼륨업 오일틴트 2호’, ‘아리땁ㅁ 볼륨업 오일틴트 5호’ 등 2품목을 제조하+ㄴ씨앤씨 인터내셔널에 한 달의 제조업무정지 처분을 내리었다 .	O O ORG-B ORG-B ORG-B ORG-I ORG-I ORG-I ORG-B ORG-I ORG-I ORG-I O O ORG-B ORG-I O O O O O O
+엄격하 고 칭찬 에 다소 인색한 부모님 밑 에서 자라 면서 이동하 는 스스로 자존 감 이 낮 았 다 고 돌아 봤 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+본격적 으로 반항기 가 시작된 것 은 고교 1 학년 시절 . 학업 에 는 손 을 떼 고 집 에 들어가 지 않 는 적 도 수차례 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 도은영 다시 시작 ’ 가수 도은영 이 사망하 기 전 ‘ 다시 시작 ’ 이 라며 재기 를 꿈 꿨 다 .	O PER-B O O O O PER-B O O O O O O O O O O O O O O O O
+도은영 은 최근 자신 의 인스타그램 을 통해 “ 다시 시작 가수 도은영 ” 이라고 올린 바 있 다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O
+당초 새누리당 은 김용하 ( 금융 보험학 ) 순천향대 교수 가 제시한 ‘ 기여 율 10 % , 지급 률 1.65 % ’ 를 수지 균형 안 으로 봤 다 .	O ORG-B O PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+중국인 멤버 차오 루 는 ‘ 사랑 ’ 이 라는 단어 를 ‘ 살랑 ’ 으로 발음하 는 경우 가 많 아 틈틈이 한국어 수업 을 들 으며 시간 날 때 마다 노래 연습 과 발음 연습 에 열중한다고 했 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동서식품 은 이번 패키지 리뉴얼 및 초콜릿 모카 리뉴얼 출시 에 맞춰 10 일 신규 TV 광고 를 론 칭 했 다 .	ORG-B O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+그러나 네덜란드 의 미래 에 대해서 는 그다지 좋 은 평가 를 하 지 않 았 다 .	O ORG-B O O O O O O O O O O O O O O O O
+송중기 제대 , 초등 동창 류근지 “ 군인 인데 도 잘생겨 , 난 오징어 도 아닌 괴물 ” 배우 송중기 가 26 일 제대하 는 가운데 , 송중기 의 초등학교 동창 인 개그맨 류근지 의 발언 이 재조명 받 았 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O PER-B O DAT-B DAT-I O O O O PER-B O O O O O PER-B O O O O O O O O
+최근 류근지 는 TV 리포트 와 인터뷰 에서 “ 초등학교 동창 인 송중기 의 외모 는 원래 유명 했 나 ” 라 “ 라는 질문 을 받 았 다 .	O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+이 에 류근지 는 “ 어릴 때 부터 꽃 미남 이 었 다 .	O O PER-B O O O O O O O O O O O
+[ 오늘 의 경기 / 7 월 2 일 ] 프로 야구 外	O O O O O DAT-B DAT-I DAT-I DAT-I O O O O
+에이미 커티스 씨 는 “ 대선 때 의 트럼프 보단 지금 의 트럼프 가 그나마 나아 졌 다 ” 며 “ 미국 이 대통령 혼자 마음 대로 할 수 있 는 나라 가 아님 을 트럼프 도 알 게 될 것 ” 이라고 했 다 .	PER-B PER-I O O O O O O PER-B O O O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O PER-B O O O O O O O O O O
+이 는 1960 년 13 % 에 비해 10 % 포인트 가 높아진 것 이 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O
+앞서 박영수 ( 65 · 사법연수원 10 기 ) 특별 검사 팀 의 구속 영장 청구 에서 ‘ 한판승 ’ 을 거둔 우 전 수석 은 이번 에 도 검찰 과 치열한 법리 공방 을 벌일 것 으로 예상된다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+유네스코 세계 기록 유산 ‘ 동의보감 ’ , 보물 에서 국보 로 승격 지정	ORG-B O O O O O O O O O O O O O
+뿐 만 아니 라 식약처 는 아리따움 의 ‘ 아리따 움 볼륨 업 오일 틴트 2 호 ’ , ‘ 아리따 움 볼륨 업 오일 틴트 5 호 ’ 등 2 품목 을 제조한 씨앤씨 인터내셔널 에 한 달 의 제조 업무 정지 처분 을 내 렸 다 .	O O O O ORG-B O ORG-B O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O

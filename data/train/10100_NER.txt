@@ -1,12 +1,12 @@
-아이유, 제제 논란에 묵묵부답?… 해명 없이 팬미팅 공지에 일부 누리꾼 ‘비난’ 아이유의 신곡 ‘제제’가 논란이 되고 있는 가운데 ‘나의 라임오렌지나무’ 출판사 ‘동녘’ 측이 입장을 밝히었다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O ORG-B O O O O
-동 녘측 관계자는 한 매체와를 통하+여 “페이스북 글 게재 후 아이유 측에서 연락 오+ㄴ 것은 없다 .	O O O O O O O O O O PER-B O O O O O O
-지난해 한국에서 소비되+ㄴ 명태 약 25만t 중 90%는 러시아 등에서 수입되었다 .	O LOC-B O O O O O O LOC-B O O O
-이렇게 한국 연근해에서 씨가 마르았던 명태가 다시 살아나 +았다 .	O LOC-B O O O O O O O O
-달콤하+ㄴ의 전에 더 신경 쓰고, 나+의 임기 동안 무엇+이+ㄴ가를 하+여서 성과를 인정받겠다는 그런 생각만 버리+ㄴ다면 V리그는 지금보다 더 발전 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O ORG-B O O O O O O O
-30만원대 초반의 출고가에도 64GB의 마이크로SD카드를 끼우어 주+ㄴ다 .	MNY-B O O O O O O O
-SK텔레콤이 추천하+ㄴ삼성전자의 갤럭시와이드는 가격 대비 화면 크기(5.5인치)가 가장 크다 .	ORG-B ORG-B O O O O O O O O
-차재경과 사제는 경기를 관장하는 심판처럼 둘이나누어 지+어버리+ㄴ 공간을 차지하+ㄴ 채의미를 알+ㄹ 수 없는 미소를 주고받았다 .	PER-B O O O O O O O O O O O O O O O
-'예비군' '북한 도발' '군 진돗개 하나 발령 휴가 장병 복귀' 북한의 서부전선 포격 도발로 한반도에 긴장감이 고조되고 있는 가운데, '예비군 소집' 내용을 담은 허위 문자가 유포되 +ㄴ 사실이 알려지+어분노를 사고 있다 .	O ORG-B O O O O O O O O ORG-B O O O LOC-B O O O O O O O O O O O O O O O O O
-한편 노마는 시드니에 앞서 +어지난해에+ㄴ 일본 도쿄에서 팝업 레스토랑을 운영하였다 .	O PER-B LOC-B O O ORG-B LOC-B O O O O
-윤병세 외교장관 “북한 핵·미사일 위협, 가장 중대 하+ㄴ도전 .	PER-B O ORG-B O O O O O O
-‘위례·우남역 퍼스트시티’는 우남역세권 내 상업시설 중에서도 맨 앞자리에 위치하+여 있어 고객 접근성이 가장 뛰어나 +ㄹ 것으로 예상되 +ㄴ다 .	LOC-B O LOC-B O O O O O O O O O O O O O O O O
+아이유 , 제제 논란 에 묵묵부답 ? … 해명 없이 팬 미팅 공지 에 일부 누리 꾼 ‘ 비난 ’ 아이유 의 신곡 ‘ 제제 ’ 가 논란 이 되 고 있 는 가운데 ‘ 나 의 라임 오렌지 나무 ’ 출판사 ‘ 동녘 ’ 측 이 입장 을 밝 혔 다 .	PER-B O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+동녘 측 관계자 는 한 매체 와 를 통해 “ 페이스북 글 게재 후 아이유 측 에서 연락 온 것 은 없 다 .	ORG-B O O O O O O O O O O O O O PER-B O O O O O O O O O
+지난해 한국 에서 소비된 명태 약 25 만 t 중 90 % 는 러시아 등 에서 수입 됐 다 .	O LOC-B O O O O O O O O O O O LOC-B O O O O O O
+이렇 게 한국 연근해 에서 씨 가 말 랐 던 명태 가 다시 살아났 다 .	O O LOC-B O O O O O O O O O O O O O
+달콤한 의전 에 더 신경 쓰 고 , 내 임기 동안 무언가 를 해서 성과 를 인정받 겠 다는 그런 생각 만 버린다면 V 리그 는 지금 보다 더 발전할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O
+30 만 원 대 초반 의 출고 가 에 도 64 GB 의 마이크로 SD 카드 를 끼 워 준다 .	MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+SK 텔레콤 이 추천한 삼성전자 의 갤럭시 와이드 는 가격 대비 화면 크기 ( 5.5 인치 ) 가 가장 크 다 .	ORG-B ORG-I O O ORG-B O O O O O O O O O O O O O O O O O
+차재경 과 사제 는 경기 를 관장하 는 심판 처럼 둘 이 나누 어 져 버린 공간 을 차지한 채 의미 를 알 수 없 는 미소 를 주고받 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 예비군 ' ' 북한 도발 ' ' 군 진돗개 하나 발령 휴가 장병 복귀 ' 북한 의 서부 전선 포격 도발 로 한반도 에 긴장감 이 고조되 고 있 는 가운데 , ' 예비군 소집 ' 내용 을 담 은 허위문자 가 유포된 사실 이 알려져 분노 를 사 고 있 다 .	O O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 노마 는 시드니 에 앞서 지난해 엔 일본 도쿄 에서 팝업 레스토랑 을 운영 했 다 .	O PER-B O LOC-B O O O O ORG-B LOC-B O O O O O O O O
+윤병세 외교 장관 “ 북한 핵 · 미사일 위협 , 가장 중대한 도전 ”	PER-B O O O ORG-B O O O O O O O O O
+‘ 위례 · 우남 역 퍼스트 시티 ’ 는 우남 역세권 내 상업 시설 중 에서 도 맨 앞자리 에 위치해 있 어 고객 접근성 이 가장 뛰어날 것 으로 예상된다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O

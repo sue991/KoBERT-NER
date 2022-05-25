@@ -1,13 +1,13 @@
-또한 호텔, 별장, 임대수익을 모두 보장받아 투자자의 자유롭 ㄴ 객실 이용이 가능하+ㄴ 강점과, 10년간 연 12% 임대수익과 4%의 이자를 지급하며, 5년 후원분양가격++@로 환매가 가능하+ㄴ 안심보장제도를 실시하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-영국 텔레그래프는 “아델의 깜짝 고백으로 팬들의 (아델 트위터 계정 찾기) 탐정놀이가 시작되었다”고 15일(현지시간) 보도하였다 .	O O PER-B O O O PER-B O O O O O O O O
-드물게 바이러스에 의하+여치명적이+ㄴ 급성 신경계 증상으로 진행되+ㄹ 수 있고, 이 가운데 20~30%는 사망에 이르기도 하+ㄴ다 .	O O O O O O O O O O O O O O O O
-희망자는 아름답+ㄴ재단 홈페이지에서 지원서를 내리+어받아 접수 기간에 우편이나 방문 접수하면 되+ㄴ다 .	O ORG-B O O O O O O O O O O
-'트렌디타운'은 이노스파크가 그동안 서비스 하+여오+ㄴ '드래곤 프렌즈'와 '히어로스카이'에잇은 주력 신작으로, SNG와 MMORPG를 섞은 차세대 MMOSNG+이다 .	O ORG-B O O O O O O O O O O O O O O
-국토부 “건설업 고부가가치화 기여 .	ORG-B O O O O
-【워싱턴 ­타바(이집트)= AFPAP로이터 연합 .	LOC-B LOC-B ORG-I ORG-I O
-‘꽃보다 할배’ 최지우, 과거 예능 출연작 보니 … 잡티 없는 민낯 피부 ‘40대 맞+고? .	O O PER-B O O O O O O O O O O O O
-참가 학생들은 학교장의 추천을 받은 안전하+ㄴ 홈스테이가정에서 머무르며 미국 사립학교의 정규 수업을 듣습니다 .	O O O O O O O O LOC-B O O O O O
-이 제도는 일정 소득 이하이+ㄴ 저소득층에 생계비, 교육비, 주거비, 의료비를 모두 지원하던 방식에서 각각의 지급기준을 두는 방식으로 7월부터 개편+되었다 .	O O O O O O O O O O O O O O O O O O O O
-서정춘 시인은 ‘이경철 시인!’하고 자신이 선창하면 각자의 판단에 따르 아 ‘통과!’ ‘퇴출!’을 각각 외치자는 건배사 제안을 +였다 .	PER-B O PER-B O O O O O O O O O O O O O O O
-코미 국장은 이날 열리+ㄴ ‘러시아 커넥션 의혹 규명 청문회’의 모두발언에서 “트럼프 캠프 일원과 러시아 정부 사이에 어떤 연관성이 있는지는 물론 캠프와 러시아 측 공모 가능성 모두를 수사 중”이라고 말하였다 .	PER-B O O O ORG-B O O O O O PER-B O O ORG-B ORG-I O O O O O O ORG-B O O O O O O O O
-내리막길을 걷던 신촌·인사 동상 권 권리금은 오름세+이다 .	O O LOC-B O O O O O
+또한 호텔 , 별장 , 임대 수익 을 모두 보장 받 아 투자자 의 자유로 운 객실 이용 이 가능한 강점 과 , 10 년 간 연 12 % 임대 수익 과 4 % 의 이자 를 지급하 며 , 5 년 후 원 분양 가격+ @ 로 환매 가 가능한 안심 보장 제도 를 실시한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+영국 텔레그래프 는 “ 아델 의 깜짝 고백 으로 팬 들 의 ( 아델 트위터 계정 찾 기 ) 탐정 놀이 가 시작 됐 다 ” 고 15 일 ( 현지 시간 ) 보도 했 다 .	O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+드물 게 바이러스 에 의해 치명적 인 급성 신경계 증상 으로 진행될 수 있 고 , 이 가운데 20 ~ 30 % 는 사망 에 이르 기 도 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+희망자 는 아름다운 재단 홈페이지 에서 지원서 를 내려 받 아 접수 기간 에 우편 이나 방문 접수하 면 된다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+' 트렌디 타운 ' 은 이노 스파크 가 그동안 서비스 해 온 ' 드래곤 프렌즈 ' 와 ' 히어로 스카이 ' 에 이 은 주력 신작 으로 , SNG 와 MMORPG 를 섞 은 차세대 MMOSNG 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국토 부 “ 건설업 고 부가 가치 화 기여 ”	ORG-B ORG-I O O O O O O O O
+【 워싱턴 ­ 타바 ( 이집트 ) = AFP AP 로이터 연합 】	O LOC-B LOC-I LOC-I O LOC-B O ORG-B ORG-I ORG-I ORG-I ORG-I O
+‘ 꽃 보다 할배 ’ 최지우 , 과거 예능 출연 작 보 니 … 잡티 없 는 민 낯 피부 ‘ 40 대 맞아 ? ’	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+참가 학생 들 은 학교장 의 추천 을 받 은 안전한 홈스테이 가정 에서 머무르 며 미국 사립 학교 의 정규 수업 을 듣 습니다 .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+이 제도 는 일정 소득 이하 인 저소득층 에 생계비 , 교육비 , 주거비 , 의료비 를 모두 지원하 던 방식 에서 각각 의 지급 기준 을 두 는 방식 으로 7 월 부터 개편 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+서정춘 시인 은 ‘ 이경철 시인 ! ’ 하 고 자신 이 선창하 면 각자 의 판단 에 따 라 ‘ 통과 ! ’ ‘ 퇴출 ! ’ 을 각각 외치 자 는 건배 사 제안 을 했 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+코미 국장 은 이날 열린 ‘ 러시아 커넥션 의혹 규명 청문회 ’ 의 모두 발언 에서 “ 트럼프 캠프 일원 과 러시아 정부 사이 에 어떤 연관성 이 있 는지 는 물론 캠프 와 러시아 측 공모 가능성 모두 를 수사 중 ” 이라고 말 했 다 .	PER-B O O O O O ORG-B O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+내리막길 을 걷 던 신촌 · 인사동 상권 권리금 은 오름세 다 .	O O O O LOC-B O LOC-B O O O O O O

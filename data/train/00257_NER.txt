@@ -1,14 +1,14 @@
-현대차, 테이트 모던에서 ‘현대커미션 2015’ 개 .	ORG-B LOC-B LOC-I O O O O
-정성택 neone@donga. com/울릉=장영훈기자·국방부 공동취재 .	PER-B O LOC-B O O
-국어새 유형에 지문 길어 변별력 … 전체 난이도는 6월 모평과 비 .	O O O O O O O O O O O O
-이 소식을 접하+ㄴ네티즌들은 "조혜정 귀엽다 .	O O O PER-B O O
-SM스테이션, 레드벨벳 ‘Wou ldU’ 공개… 아이린·김민재 뮤비서 ‘풋풋’ 케 .	ORG-B ORG-B O O O PER-B O O O O
-③ 3단계-60가지 동물 캐릭터표를 보고 나의 캐릭터를 확인 하+ㄴ다 .	O O O O O O O O O O
-차기 호위함은 현재 동·서·남해에서 운용 중 이+ㄴ호위 하+ㅁ과 초계함의 후속 전력으로 2020년까지 총 20여 척이 건조되+ㄹ 예정이다 .	O O O LOC-B O O O O O O O O O O O O O O
-오후에는 중국의 최대 포털이+ㄴ바이두(百度)를 방문하+여 바이보(白伯) 부사장 등을 만나 +았다 .	O ORG-B O ORG-B O PER-B O O O O O
-평양에서 아파트가 고층이 +ㄹ수록 가격이 떨어지고 20층 이상이 되면 입주하지 않으려 하는 현상이 나타나는 가장 크+ㄴ 원인도 바로 수돗물 때문이다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
-타지키스탄 등의 신생아들에게 전달되+ㄹ 예정이다 .	LOC-B O O O O O
-앞으로도 한국 축구의 힘이 +ㄴ K리그 많이 사랑 하+여주+시었으면 좋겠다"고 소감을 밝히었다. 남녀 프로농구 양동근(모비스)과 박혜진(우리은행), 남녀 프로배구 문성민(현대캐피탈)과 김희진(IBK기업은행), 남녀 프로골프 최진호(현대제철)와 박성현(넵스)도 종목별 올해의 선수로 뽑히 었다 .	O ORG-B O O O ORG-B O O O O O O O O ORG-B ORG-B O O ORG-B ORG-B O O ORG-B ORG-B O O O O O O
-올해 행사에 +ㄴ 세계적 이+ㄴ 베스트셀러 작가 이+ㄴ 알랭 드 보통이 공동감독을 맡아 특별전을 열고 공예와 철학, 문학의 만남을 주제로 하+ㄴ 작품을 관람객들에게 선사 하+ㄴ다 .	O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O
-이어 봉해령은 "두 사람 사이 알고 있었다 .	O PER-B O O O O O O
-CNN은 “유럽에는 총 120∼180명이 가담 하+ㄴ 잠복조직 20개가 있으며 이들은 프랑스·독일·벨기에·네덜란드 등을 공격 하+ㄹ 수 있다”고 보도하였다 .	O LOC-B O O O O O O O O ORG-B O O O O O O O
+현대차 , 테이트 모던 에서 ‘ 현대 커미션 2015 ’ 개최	ORG-B O LOC-B LOC-I O O O O O O O
+정성택 neone @ donga . com / 울릉 = 장영훈 기자 · 국방부 공동 취재 단	PER-B O O O O O O LOC-B O PER-B O O ORG-B O O O
+국어 새 유형 에 지문 길 어 변별력 … 전체 난이도 는 6 월모평 과 비슷	O O O O O O O O O O O O O O O O
+이 소식 을 접한 네티즌 들 은 " 조혜정 귀엽 다 "	O O O O O O O O PER-B O O O
+SM 스테이션 , 레드 벨벳 ‘ Would U ’ 공개 … 아이린 · 김민재 뮤 비서 ‘ 풋풋 ’ 케미	ORG-B ORG-I O ORG-B ORG-I O O O O O O PER-B O PER-B O O O O O O
+③ 3 단계 - 60 가지 동물 캐릭터 표 를 보 고 나 의 캐릭터 를 확인한다 .	O O O O O O O O O O O O O O O O O O
+차기 호위함 은 현재 동 · 서 · 남해 에서 운용 중 인 호위함 과 초계함 의 후속 전력 으로 2020 년 까지 총 20 여 척 이 건조될 예정 이 다 .	O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+오후 에 는 중국 의 최대 포털 인 바이두 ( 百度 ) 를 방문해 바이 보 ( 白伯 ) 부사장 등 을 만났 다 .	O O O ORG-B O O O O ORG-B O ORG-B O O O PER-B PER-I O PER-B O O O O O O O
+평양 에서 아파트 가 고 층 일수록 가격 이 떨어지 고 20 층 이상 이 되 면 입주하 지 않 으려 하 는 현상 이 나타나 는 가장 큰 원인 도 바로 수돗물 때문 이 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+타지키스탄 등 의 신생아 들 에게 전달될 예정 이 다 .	LOC-B O O O O O O O O O O
+앞 으로 도 한국 축구 의 힘 인 K 리그 많이 사랑해 주 셨 으면 좋 겠 다 " 고 소감 을 밝 혔 다 . 남녀 프로 농구 양동근 ( 모비스 ) 과 박혜진 ( 우리은행 ) , 남녀 프로 배구 문성민 ( 현대캐피탈 ) 과 김희진 ( IBK 기업은행 ) , 남녀 프로 골프 최진호 ( 현대제철 ) 와 박성현 ( 넵스 ) 도 종목별 올해 의 선수 로 뽑 혔 다 .	O O O ORG-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O PER-B O ORG-B O O PER-B O ORG-B O O O O O PER-B O ORG-B O O PER-B O ORG-B ORG-I O O O O O PER-B O ORG-B O O PER-B O ORG-B O O O O O O O O O O O
+올해 행사 엔 세계적 인 베스트셀러 작가 인 알랭 드 보통 이 공동 감독 을 맡 아 특별 전 을 열 고 공예 와 철학 , 문학 의 만남 을 주제 로 한 작품 을 관람객 들 에게 선사한다 .	O O O O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 봉해령 은 " 두 사람 사이 알 고 있 었 다 .	O PER-B O O O O O O O O O O O
+CNN 은 “ 유럽 에 는 총 120 ∼ 180 명 이 가담한 잠복 조직 20 개 가 있 으며 이 들 은 프랑스 · 독일 · 벨기에 · 네덜란드 등 을 공격할 수 있 다 ” 고 보도 했 다 .	O O O LOC-B O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O

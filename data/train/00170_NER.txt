@@ -1,7 +1,7 @@
-특히 무사1루서 고종욱에게 역전 2점 홈런을 맞고 고개를 숙이었는데, 이 감독은 박세웅에게 자신감을 강조하였다 .	O O PER-B O O O O O PER-B PER-B O PER-B O O O
-우리에게도 삼국시대 중국을 통하+여유교가 들어오면서 ‘의’가 널리 퍼지었다 .	O O ORG-B ORG-B O O O O O
-김 의원은 27일 자신의 SNS에 "황 권한대행 특검 연장 거부. 당연하+ㄴ 결정이지만 환영하+ㄴ다"며 황 권한대행의 거부 결정에 대하+여지 지하였다 .	PER-B O O O O PER-B O O O O O O O PER-B O O O O O O
-한편 이날 ‘학교 다녀오겠습니다’에는 이 아현 외에도 조영남, 가인, 태민, 은지원 등이 출연하였다 .	O O O O O O O PER-B PER-B PER-B PER-B O O O
-“우리 후원·봉사자의 95%는 미국인이다 .	O O O O O
-[연예뉴스스테이션] ‘차트 역주행’ 백아연, 내일 대학로서 라이 .	O O O PER-B O O O O
-아시아경제 측은 17일, 박 전경정을 편집국 자문위원으로 영입하였다며 "민정ㆍ사정 분야에 대하+ㄴ 다양하+ㄴ 경험과 학식을 바탕으로 각종 사회문제에 대하+ㄴ 진정성 있는 대안을 제시하는 역할을 담당하게 되+ㄴ다"고 밝히었다 .	ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+특히 무사 1 루 서 고종욱 에게 역전 2 점 홈런 을 맞 고 고개 를 숙 였 는데 , 이 감독 은 박세웅 에게 자신감 을 강조 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O
+우리 에게 도 삼국 시대 중국 을 통해 유교 가 들어오 면서 ‘ 의 ’ 가 널리 퍼 졌 다 .	O O O O O ORG-B O O ORG-B O O O O O O O O O O O O
+김 의원 은 27 일 자신 의 SNS 에 " 황 권한 대행 특검 연장 거부 . 당연한 결정 이 지만 환영한다 " 며 황 권한 대행 의 거부 결정 에 대해 지지 했 다 .	PER-B O O DAT-B DAT-I O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+한편 이날 ‘ 학교 다녀오 겠 습니다 ’ 에 는 이아현 외 에 도 조영남 , 가인 , 태민 , 은지원 등 이 출연 했 다 .	O O O O O O O O O O PER-B O O O PER-B O PER-B O PER-B O PER-B O O O O O O
+“ 우리 후원 · 봉사자 의 95 % 는 미국인 이 다 .	O O O O O O O O O O O O O
+[ 연예 뉴스 스테이션 ] ‘ 차트 역 주행 ’ 백 아연 , 내일 대학로 서 라이브	O O O O O O O O O O PER-B PER-I O O O O O
+아시아 경제 측 은 17 일 , 박 전 경정 을 편집국 자문 위원 으로 영입 했 다며 " 민정 ㆍ 사정 분야 에 대한 다양한 경험 과 학식 을 바탕 으로 각종 사회 문제 에 대한 진정 성 있 는 대안 을 제시하 는 역할 을 담당하 게 된다 " 고 밝 혔 다 .	ORG-B ORG-I O O DAT-B DAT-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

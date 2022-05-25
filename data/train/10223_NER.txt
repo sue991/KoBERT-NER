@@ -1,13 +1,13 @@
-제과제빵 반윤두남(42) 교사가 김씨를 맞았다 .	O PER-B O PER-B O O
-인천지검 부천지청 형사2부(부장 최영운)는 상표법 위반 혐의로 온라인 쇼핑몰 운영자 A씨(38) 등 5명을 구속하고 B씨(48·여) 등 10명을 불구속하였다고 11일 밝히었다 .	ORG-B ORG-I ORG-I PER-B O O O O O O PER-B O O O PER-B O O O O O O
-미국 기준금리 동결로 진정되는 듯 +였던 신흥국 화폐가치 하락세가 재연되면서 낙폭이 크+ㄴ 브라질과 말레이시아 등에서 외환위기 우려가 나오고 있다고 블룸버그, 파이낸셜타임스(FT) 등이 23일 보도하였다 .	ORG-B O O O O O O O O O O O ORG-B ORG-B O O O O O O O O O O O
-여성은 남성의 1.8%에 불과하다 .	O O O O O
-이에 따르 아FNC는 국내뿐 아니라 유재석의 해외활동에 대하+ㄴ 적극적 이+ㄴ 지원을 약속하였다 .	O O ORG-B O O PER-B O O O O O O O
-이를 위하+여 FNC는 그동안 쌓아 오+ㄴ 현지 인프라 등을 적극 활용하+ㄹ 방침이다 .	O O ORG-B O O O O O O O O O O
-어제 최양희 미래창조과학부 장관은 AI 연구의 현주소 파악을 위하+여 삼성전자 서울연구개발(R&D) 캠퍼스와 LG전자 서초R&D캠퍼스를 찾았다 .	O PER-B ORG-B O O O O O O ORG-B LOC-B O ORG-B LOC-B O O
-배우 서정희의 동안 미모가 화제+이다 .	O PER-B O O O O
-여야는 26일부터 10월 15일까지 열리는 2016년 국정감사에서 피감기관 691개를 대상으로 기관증인 3256명, 일반증인 104명을 부르어 실시하+ㄹ 계획이었으나 파행이 예상되 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O
-자본금(8054억원)을 거의 잠식 하+ㄴ 상태가 +었다 .	MNY-B O O O O O O
-사우디아라비아-우즈베키스탄(이상 1승 1패) 경기 승자는 2승 1패로 중국과 승점이 같아지지만 중국에 패하었기 때문에 조 2위가 되+ㄴ다 .	ORG-B O O O O O O ORG-B O O ORG-B O O O O O O
-전국의 생활체육지도자 2600여명이 소외계층을 위하+ㄴ 찾아가는 서비스를 제공하+ㄴ다 .	O O O O O O O O O
-김정은 참수작전을 수행하+ㄹ 수 있는 F-35B 스텔스 전투기 10대도 올 1월이 기지에 배치하였다 .	PER-B O O O O O O O O O O O O O
+제과 제빵 반 윤두남 ( 42 ) 교사 가 김 씨 를 맞 았 다 .	O O O PER-B O O O O O PER-B O O O O O O
+인천 지검 부천 지청 형사 2 부 ( 부장 최영운 ) 는 상표법 위반 혐의 로 온라인 쇼핑몰 운영 자 A 씨 ( 38 ) 등 5 명 을 구속하 고 B 씨 ( 48 · 여 ) 등 10 명 을 불구속 했 다고 11 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O DAT-B DAT-I O O O O
+미국 기준 금리 동결 로 진정되 는 듯 했 던 신흥 국 화폐 가치 하락세 가 재연되 면서 낙폭 이 큰 브라질 과 말레이시아 등 에서 외환 위기 우려 가 나오 고 있 다고 블룸버그 , 파이낸셜타임스 ( FT ) 등 이 23 일 보도 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+여성 은 남성 의 1.8 % 에 불과하 다 .	O O O O O O O O O O
+이 에 따 라 FNC 는 국내 뿐 아니 라 유재석 의 해외 활동 에 대한 적극적 인 지원 을 약속 했 다 .	O O O O ORG-B O O O O O PER-B O O O O O O O O O O O O O
+이 를 위해 FNC 는 그동안 쌓 아 온 현지 인프라 등 을 적극 활용할 방침 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O
+어제 최양희 미래 창조 과학 부 장관 은 AI 연구 의 현주소 파악 을 위해 삼성전자 서울 연구 개발 ( R & D ) 캠퍼스 와 LG 전자 서초 R & D 캠퍼스 를 찾 았 다 .	O PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O ORG-B LOC-B O O O O O O O O O ORG-B ORG-I LOC-B O O O O O O O O O
+배우 서정희 의 동안 미모 가 화제 다 .	O PER-B O O O O O O O
+여야 는 26 일 부터 10 월 15 일 까지 열리 는 2016 년 국정감사 에서 피감 기관 691 개 를 대상 으로 기관 증인 3256 명 , 일반 증인 104 명 을 불 러 실시할 계획 이 었 으나 파행 이 예상된다 .	O O DAT-B DAT-I O DAT-B DAT-I DAT-I DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자본금 ( 8054 억 원 ) 을 거의 잠식한 상태 가 됐 다 .	O O MNY-B MNY-I MNY-I O O O O O O O O O
+사우디아라비아 - 우즈베키스탄 ( 이상 1 승 1 패 ) 경기 승자 는 2 승 1 패 로 중국 과 승점 이 같아지 지만 중국 에 패 했 기 때문 에 조 2 위 가 된다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O
+전국 의 생활 체육 지도자 2600 여 명 이 소외 계층 을 위한 찾아가 는 서비스 를 제공한다 .	O O O O O O O O O O O O O O O O O O O
+김정 은 참수 작전 을 수행할 수 있 는 F - 35 B 스텔스 전투기 10 대 도 올 1 월 이 기지 에 배치 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O

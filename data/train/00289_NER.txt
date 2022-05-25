@@ -1,14 +1,14 @@
-이어 그는 “김보아+이라는 사람이 노래하는 것을 봐 주+시었으면 좋겠다” +이라며 “저는 죽을 때까지 노래 하+ㄹ 것+이다 .	O O PER-B O O O O O O O O O O O O O O
-지나+ㄴ 시즌스리백으로 재미를 보+ㄴ 서울은 올 시즌을 앞두고 공격적 축구를 위하+여포백으로 수비라인을 재편하였다 .	O O O O LOC-B O O O O O O O O O
-[오늘의 채널A] 25년간 문명멀리 하+ㄴ 부 .	O ORG-B O O O O O
-'잡밥백 선생' 백종원 닭갈비 양념장, "지가 꿀 팁 알리+어드리+ㄹ 것+이유 .	O O PER-B O O O O O O O O
-두 대는 항상 붙어서 다니+ㄴ다 .	O O O O O O
-선수층을 보니 레귤러(주전선수)들이 대부분 30대 중반이고, 20대가 없다 .	O O O O O O O O O
-고용석 국토부 철도건설과장은 “수서동과 경기 화성시 동탄신도시, 평택시에 고속철도역이 생기+어수도권 남부 주민들이 편리하게 고속철도를 이용하+ㄹ 수 있게 +었다”고 말하였다 .	PER-B ORG-B O LOC-B LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O
-서울중앙지검 특수1부(임관혁 부장검사)는 해외자원개발업체를 부실 인수 하+여 수천억원의 국고를 낭비 하+ㄴ 혐의(특정경제범죄가중처벌법상 배임)로 강영원(64) 전 한국석유공사 사장을 구속하였다고 30일 전하였다 .	ORG-B ORG-I ORG-I MNY-I ORG-I O O MNY-B O O O O O O O ORG-B O O O O O
-2012년 본격적 이+ㄴ시도도 한번 있었다 .	O O O O O O
-몸도 낫았고 머리로만 이해하던 금강경의 뜻도 가슴에 들어오았다 .	O O O O O O O O O
-유격수는 박한결 등 어리+ㄴ 선수들을 기용 하+여서 키우어 보겠다”고 말하였다 .	O PER-B O O O O O O O O O
-▷경향신문은 최근 한명숙 전 총리 유죄 확정과 관련 하+여대법원 판결을 정치재판이라고 비판하는 사설을 +었다 .	ORG-B O PER-B O O O O O ORG-B O O O O O O
-보수언론은 말 하+ㄹ 것도 없고 한겨레신문까지 대법원 판결을 인정하는 사설을 쓰자 경향신문만 ‘나홀로’ 현실과 동떨어지+ㄴ 주장을 하+ㄴ꼴이 되+어버리었다 .	O O O O O ORG-B ORG-B O O O O ORG-B O O O O O O O
-신규 조사 대상이 +ㄴ 현대Hmall도 1위 이+ㄴ 롯데닷컴과 2점 차이를, CJmall과 동일하+ㄴ 점수로 공동 3위를 기록하+ㄹ 만큼 브랜드 경쟁력 수준이 박빙이다 .	O O O O ORG-B O O ORG-B O O ORG-B O O O O O O O O O O O
+이어 그 는 “ 김보아 라는 사람 이 노래하 는 것 을 봐주 셨 으면 좋 겠 다 ” 라며 “ 저 는 죽 을 때 까지 노래할 거 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 시즌 스리 백 으로 재미 를 본 서울 은 올 시즌 을 앞두 고 공격적 축구 를 위해 포백 으로 수비 라인 을 재편 했 다 .	O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+[ 오늘 의 채널 A ] 25 년 간 문명 멀리한 부부	O O O ORG-B ORG-I O O O O O O O
+' 잡 밥 백 선생 ' 백종원 닭 갈비 양념장 , " 지 가 꿀 팁 알려 드릴 게 유 "	O O O O O O PER-B O O O O O O O O O O O O O O
+두 대 는 항상 붙 어서 다닌다 .	O O O O O O O O
+선수 층 을 보 니 레귤러 ( 주전 선수 ) 들 이 대부분 30 대 중반 이 고 , 20 대 가 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+고용석 국토 부 철도 건설 과장 은 “ 수서동 과 경기 화성시 동탄 신도시 , 평택시 에 고속 철도 역 이 생겨 수도권 남부 주민 들 이 편리하 게 고속 철도 를 이용할 수 있 게 됐 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O LOC-B O LOC-B LOC-B LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울중앙지검 특수 1 부 ( 임관혁 부장 검사 ) 는 해외 자원 개발 업체 를 부실 인수해 수천 억 원 의 국고 를 낭비한 혐의 ( 특정 경제 범죄 가중 처벌 법 상 배임 ) 로 강영원 ( 64 ) 전 한국 석유 공사 사장 을 구속 했 다고 30 일 전 했 다 .	ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O PER-B O O O O ORG-B ORG-I ORG-I O O O O O DAT-B DAT-I O O O O
+2012 년 본격적 인 시도 도 한 번 있 었 다 .	DAT-B DAT-I O O O O O O O O O O
+몸 도 나 았 고 머리 로 만 이해하 던 금강경 의 뜻 도 가슴 에 들어 왔 다 .	O O O O O O O O O O O O O O O O O O O O
+유격수 는 박 한결 등 어린 선수 들 을 기용해서 키 워 보 겠 다 ” 고 말 했 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O
+▷ 경향신문 은 최근 한명숙 전 총리 유죄 확정 과 관련해 대법원 판결 을 정치 재판 이 라고 비판하 는 사설 을 썼 다 .	O ORG-B O O PER-B O O O O O O ORG-B O O O O O O O O O O O O O
+보수 언론 은 말할 것 도 없 고 한겨레신문 까지 대법원 판결 을 인정하 는 사설 을 쓰 자 경향신문 만 ‘ 나 홀로 ’ 현실 과 동떨어진 주장 을 한 꼴 이 돼 버 렸 다 .	O O O O O O O O ORG-B O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+신규 조사 대상 인 현대 Hmall 도 1 위 인 롯데닷컴 과 2 점 차이 를 , CJmall 과 동일한 점수 로 공동 3 위 를 기록할 만큼 브랜드 경쟁력 수준 이 박빙 이 다 .	O O O O ORG-B ORG-I O O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O

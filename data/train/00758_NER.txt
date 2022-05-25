@@ -1,15 +1,15 @@
-작전실에는 각각 다른 빛깔과 모양을 가지+ㄴ 세 개의 마더박스 소품이 전시되 +어 있었다 .	O O O O O O O O O O O O O O
-윤 전 장관은 정책 분야를 총괄하고 권 대사가 기획 등을 맡을 가능성이 높다 .	PER-B O O O O O PER-B O O O O O O O
-이씨 등이 넘겨받은 환자는 모두 1200여명에 이르+ㄴ다 .	PER-B PER-B O O O O PER-B O
-미국의 공화당 대선 후보 트럼프도 페미니스트를 적대 세력으로 삼아 백인 하층민의 울분을 돋우+ㄴ다 .	ORG-B ORG-B O O PER-B O O O O O O O O O
-따라서 합참은 둘을 하나로 묶어 민사·심리전 참모부를 두었다 .	O ORG-B O O O O O O O
-이 때문에 30초 기준 광고 집행료는 350만 달러(약 37억8150만원)에 달하+ㄴ다 .	O O O O O O MNY-B MNY-I MNY-B O O
-아직 완전하게 드러나지 않았지만 그 유골의 다리뼈길이만 하+여도 2m는 넘어 보이었다 .	O O O O O O O O O O O O
-“무려 42개의 유골이다 .	O O O O
-루빈스타인 총장은 이를 부인하였으나 이스라엘 정가에서는 와이즈만이 최대한 ‘품위 있게’ 물러나기 위하+ㄴ 방안으로 이 같은 제안을 +였을 것으로 보고 있다 .	PER-B O O O ORG-B ORG-I PER-B O O O O O O O O O O O O O O
-특히 제시의 개미허리는 풍만 하+ㄴ 가슴을 더욱 볼륨감 있게 보이도록 하+ㅁ으로써 남자 팬들을 '심쿵'하게 +였다 .	O PER-B O O O O O O O O O O O O O O
-이 의원 측은 “성 회장에게서 1원도 받은 적이 없다”며 강력 반발하고 있다 .	PER-B MNY-I O PER-B O MNY-B O PER-B O O O O O
-“나+의 연구실에서 공부하+ㄴ사람은 교수보다는 현장에 더 적합하다”며 창업에 힘을 싣어주던 전 교수의 학풍이 몸에 배었다 .	O O O O O O O O O O PER-B O O O O O
-황리 알리는 비타민b1의 체내 흡수를 높이는 작용을 해 불안 해소, 신진대사 촉진, 피로회복, 콜레스테롤 억제에 도움을 주+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-동아일보는 국회 예산정책처가 발행하는 중앙정부와 지자체 예산 자료 중 2006년부터 지난해까지 최근 10년간의 수치를 분석하였다 .	ORG-B ORG-B ORG-I O O O O O O O O O O O O O
-2001년 업계 최초로 무인발권시스템을 도입하고, 2009년 오페라 상영, 2014년 프리미엄 시네마 ‘더부티크’를 오픈하는 등 소비자 만족을 위하+여 힘쓰어 +오았다 .	O O O O O O O O O O O O O O O O O O O O
+작전 실 에 는 각각 다른 빛깔 과 모양 을 가진 세 개 의 마더 박스 소품 이 전시돼 있 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+윤 전 장관 은 정책 분야 를 총괄하 고 권 대사 가 기획 등 을 맡 을 가능성 이 높 다 .	PER-B O O O O O O O O PER-B O O O O O O O O O O O O
+이 씨 등 이 넘겨받 은 환자 는 모두 1200 여 명 에 이른다 .	PER-B O O O O O O O O O O O O O O
+미국 의 공화당 대선 후보 트럼프 도 페미니스트 를 적대 세력 으로 삼 아 백인 하층민 의 울분 을 돋운다 .	ORG-B O ORG-B O O PER-B O O O O O O O O O O O O O O O
+따라서 합참 은 둘 을 하나 로 묶 어 민사 · 심리전 참모부 를 두 었 다 .	O ORG-B O O O O O O O O O O O O O O O O
+이 때문 에 30 초 기준 광고 집행 료 는 350 만 달러 ( 약 37 억 8150 만 원 ) 에 달한다 .	O O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O
+아직 완전하 게 드러나 지 않 았 지만 그 유골 의 다리뼈 길이 만 해도 2 m 는 넘 어 보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+“ 무려 42 개 의 유골 이 다 .	O O O O O O O O O
+루빈스타인 총장 은 이 를 부인 했 으나 이스라엘 정가 에서 는 와이즈만 이 최대한 ‘ 품위 있 게 ’ 물러나 기 위한 방안 으로 이 같 은 제안 을 했 을 것 으로 보 고 있 다 .	PER-B O O O O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 제시 의 개미 허리 는 풍만한 가슴 을 더욱 볼륨 감 있 게 보이 도록 함 으로써 남자 팬 들 을 ' 심 쿵 ' 하 게 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 의원 측 은 “ 성 회장 에게서 1 원 도 받 은 적 이 없 다 ” 며 강력 반발하 고 있 다 .	PER-B O O O O PER-B O O MNY-B MNY-I O O O O O O O O O O O O O O O
+“ 내 연구실 에서 공부한 사람 은 교수 보다 는 현장 에 더 적합하 다 ” 며 창업 에 힘 을 실 어 주 던 전 교수 의 학풍 이 몸 에 배 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+황리 알리 는 비타민 b 1 의 체내 흡수 를 높이 는 작용 을 해 불안 해소 , 신진대사 촉진 , 피로 회복 , 콜레스테롤 억제 에 도움 을 준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+동아일보 는 국회 예산 정책 처 가 발행하 는 중앙 정부 와 지자체 예산 자료 중 2006 년 부터 지난해 까지 최근 10 년 간 의 수치 를 분석 했 다 .	ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+2001 년 업계 최초 로 무인 발권 시스템 을 도입하 고 , 2009 년 오페라 상영 , 2014 년 프리미엄 시네마 ‘ 더 부티크 ’ 를 오픈 하 는 등 소비자 만족 을 위해 힘 써 왔 다 .	DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O

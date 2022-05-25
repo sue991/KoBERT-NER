@@ -1,17 +1,17 @@
-이와 함께 80여개 운동법 동영상도 함께 제공되 +ㄴ다 .	O O O O O O O O O
-한편 이용녀는 최근 tvN ‘초인시대’, 웹드라마 ‘6인실’, 영화 ‘아빠가 돌아오았다 .	O PER-B O ORG-B O O O O O O O
-“보고 싶다”고 다시 허경환에게 메시지를 보내+었고, 허경환은 “안 보이어주고 싶다”고 단호하게 자르아 말하였다 .	O O O PER-B O O PER-B O O O O O O O
-박지선은 “아니 오빠+ㄴ나+ㄹ 보고 싶다 .	PER-B O O O O O
-국민의당에게 기회를 주시+ㄴ다면 작은 변화라도 꼭 돌리+어드리겠습니다 .	ORG-B O O O O O O O
-‘2016 글로벌 국토대장정’에 참가 하+ㄴ성균관대, 중국 베이징대·상하이 쟈오퉁(交通) 대학생들이 13일 서울 성곽길을 걷고 있다 .	O O O O ORG-B ORG-B ORG-B ORG-I ORG-I O LOC-B LOC-I O O O
-”-학창시절 기억에 남는 경기가 있다면.“고 3 때(2004년)나가+았던 대통령 배 개막전이다 .	O O O O O O O O O O O
-과거 챔피언스리그에서 4번 만나 +아모두 +었다 .	O O O O O O O
-크리시타이겐은 정말 속옷을 하나도 갖고 있지 않는 것이 +ㄹ 수도 있다”며 해당 영상을 소개하기도 +였다 .	PER-B O O O O O O O O O O O O O O O
-그러나 지난해 1군 투수들의 현란 하+ㄴ 변화구에 적응하지 못하였고, 크고 작은 부상마저 겪었다 .	O O ORG-B O O O O O O O O O O O
-전 메이저리거 데릭지터가 은퇴 직후 개설 하+ㄴ플레이어 스트리뷴은 야구·농구·미식축구 등 전·현직 프로스포츠 선수 약 400명이 자신의 글을 직접 올리는 곳이다 .	O O PER-B O O O O O O O O O O O O O O O O O O
-유동인구와 정착 인구를 늘리고 젊은 사람이 고성에 거주하+ㄹ 수 있는 환경을 만들는데 가장 크+ㄴ 힘을 쏟겠다 .	O O O O O O LOC-B O O O O O O O O O O
-흰색 참새가 발견되+ㄴ 것은 2011년 9월 전남 신안군도 초도에서 3마리가 발견되+ㄴ이후 4년 만이다 .	O O O O O O LOC-B LOC-B O O O O O O
-크라우드펀딩 사이트 ‘인디고고’는 사용자가 직접 3D 프린트로 자신만의 독특하+ㄴ 자동차 모형을 만들고, 스마트폰을 이용하+여이를 직접 조작하+ㄹ 수 있는 게임 ‘3D 레이서’를 소개하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-나머지 금액은 이씨가 이용하고 있는 신용카드의 ‘국내 동반자 왕복 항공권 무료’ 혜택으로 처리하였다 .	O O PER-B PER-B O O O O O O O O O O
-외식을 하+ㄹ터+이+ㄴ데 사람 많은 곳에 17개월 되+ㄴ딸을 데리고 가기가 찜찜하었다 .	O O O O O O O O O O O
-법적으로 유·무죄 이+ㄴ가를 판단하기 전에 민주주의 사회에서 선거의 공정성과 투명성, 그리고 국정원의 역할을 다시 한번 돌아보는 계기로 삼아야 하는 사건이다 .	O O O O O O O O O O O ORG-B O O O O O O O O O
+이 와 함께 80 여 개 운동 법 동영상 도 함께 제공된다 .	O O O O O O O O O O O O O
+한편 이용녀 는 최근 tvN ‘ 초인 시대 ’ , 웹 드라마 ‘ 6 인실 ’ , 영화 ‘ 아빠 가 돌아 왔 다 ’	O PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O
+“ 보 고 싶 다 ” 고 다시 허경환 에게 메시지 를 보냈 고 , 허경환 은 “ 안 보 여 주 고 싶 다 ” 고 단호하 게 잘 라 말 했 다 .	O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+박지선 은 “ 아니 오빤 날 보 고 싶 다 .	PER-B O O O O O O O O O O
+국민 의 당 에게 기회 를 주 신다면 작 은 변화 라도 꼭 돌려 드리 겠 습니다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
+‘ 2016 글로벌 국토 대장정 ’ 에 참가한 성균관대 , 중국 베이징 대 · 상하이 쟈오 퉁 ( 交通 ) 대 학생 들 이 13 일 서울 성곽 길 을 걷 고 있 다 .	O DAT-B O O O O O O ORG-B O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O DAT-B DAT-I LOC-B LOC-I LOC-I O O O O O O
+” - 학창 시절 기억 에 남 는 경기 가 있 다면 . “ 고 3 때 ( 2004 년 ) 나갔 던 대통령 배 개막 전 이 다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+과거 챔피언스 리그 에서 4 번 만나 모두 졌 다 .	O O O O O O O O O O O
+크리 시 타이 겐 은 정말 속옷 을 하나 도 갖 고 있 지 않 는 것 일 수 도 있 다 ” 며 해당 영상 을 소개하 기 도 했 다 .	PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 지난해 1 군 투수 들 의 현란한 변화구 에 적응하 지 못 했 고 , 크 고 작 은 부상 마저 겪 었 다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
+전 메이저리거 데릭 지터 가 은퇴 직후 개설한 플레이어스 트리뷴 은 야구 · 농구 · 미식축구 등 전 · 현직 프로 스포츠 선수 약 400 명 이 자신 의 글 을 직접 올리 는 곳 이 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유동 인구 와 정착 인구 를 늘리 고 젊 은 사람 이 고성 에 거주할 수 있 는 환경 을 만드 는 데 가장 큰 힘 을 쏟 겠 다 .	O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O
+흰색 참새 가 발견된 것 은 2011 년 9 월 전남 신안군 도초도 에서 3 마리 가 발견된 이후 4 년 만 이 다 .	O O O O O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-B LOC-B O O O O O O O O O O O O
+크라우드 펀딩 사이트 ‘ 인디고고 ’ 는 사용자 가 직접 3 D 프린트 로 자신 만 의 독특한 자동차 모형 을 만들 고 , 스마트 폰 을 이용해 이 를 직접 조작할 수 있 는 게임 ‘ 3 D 레이서 ’ 를 소개 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+나머지 금액 은 이 씨 가 이용하 고 있 는 신용 카드 의 ‘ 국내 동반자 왕복 항공권 무료 ’ 혜택 으로 처리 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+외식 을 할 텐데 사람 많 은 곳 에 17 개월 된 딸 을 데리 고 가 기 가 찜찜 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+법적 으로 유 · 무죄 인가 를 판단하 기 전 에 민주주의 사회 에서 선거 의 공정성 과 투명 성 , 그리고 국정원 의 역할 을 다시 한 번 돌아보 는 계기 로 삼 아야 하 는 사건 이 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O

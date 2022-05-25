@@ -1,14 +1,14 @@
-그러나 IM(IT&모바일) 사업의 경우 갤럭시S6를 본격 출시하였지만, 중저가 스마트폰 판매량 감소와 신제품 출시에 따르+ㄴ 마케팅 비용 증가로 실적 개선이 제한되었다 .	O O O O O O O O O O O O O O O O O O O O O
-“중국 경제가 관 주도이고, 국내 기업이 가지+ㄴ 중국의 인적 네트워크가 충분하지 않다 .	LOC-B O O O O O O LOC-B O O O O O
-그러면서 한씨는 “그런 그가 돈을 받고 순결을 팔겠다고 하+ㄹ 정도이니 그가 얼마나 간절하게 돈이 필요하+ㄴ지 알+ㄹ 수 있다”고 설명하였다 .	O PER-B O O O O O O O O O O O O O O O O O O
-수상작은 각각 시 ‘슬픔의 뼈대’, 평론집 ‘1980년대의 북극 꽃들아, 뿔고둥을 불어라’.편 운문학상은 조병화 시인(1921∼2003)을 기리기 위하+여 제정되었다 .	O O O O O O O O O O O O PER-B O O O O O
-토마스 바흐 IOC 위원장은 이번 결정이 ‘반도핑 강화’의지에 역행하는 것이 아니+ㅁ을 강조하며 “러시아는 자국 선수들이 금지 약물을 복용하지 않았음을 철저히 입증 하+여야 하+ㄴ다”고 덧붙이었다 .	PER-B PER-I ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O
-올 시즌 프로야구 10번째 구단으로 뛰어들 +ㄴ신생kt는 첫 승에 대하+ㄴ 갈증에 시달리고 있다 .	O O O O O O ORG-B O O O O O O O
-결국 김씨는 14일 인사처가 있는 서울 종로구 정부서울청사를 직접 찾을 예정이다 .	O PER-B O O O LOC-B LOC-B LOC-B O O O O
-2015년 연봉 총액에서 메이저리그 30개 구단 중 18위에 머무르었지만, ‘통크+ㄴ’ 베팅으로 박병호의 가치를 인정하였다 .	O O O ORG-B O O O O O O O PER-B O O O
-숭실사이버대학교, ‘콘텐츠 제공 서비스 품질인증’ 획 .	ORG-B O O O O O O
-모사드는 이스라엘 총리의 유엔 연설 약 한 달 뒤 이+ㄴ 2012년 10월 22일 SSA와 공유 하+ㄴ 기밀문서에서 이란이 핵무기 개발에 필요하+ㄴ 활동을 벌이고 있지 않다는 입장을 밝히었다 .	PER-B ORG-B O ORG-B O O O O O O O O O ORG-B O O O ORG-B O O O O O O O O O O
-우리 사회가 자격증, 그 종이 한 장을 중시하는 사회이기 때문이란 생각을 +였다 .	O O O O O O O O O O O O O
-그날을 돌아보며 ‘산과 동무 하+여나 여기서 +어 있다’고 키 작은 소년이 오십척 거인이 되어 ‘천둥과 번개의 힘까지 끌어’ 모으+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-수도권 마지막 택지 아파트 ‘송산신도시 반도유보라 아이비파크’ 분양 마감 임 .	O O O O LOC-B LOC-I LOC-I O O O O
-현대자동차그룹 정몽구 그룹 회장과 정의선 현대자동차 부회장 부자가 현대글로비스 지분 매각에 성공하였다 .	ORG-B PER-B O O PER-B ORG-B O O ORG-B O O O O
+그러나 IM ( IT & 모바일 ) 사업 의 경우 갤럭시 S 6 를 본격 출시 했 지만 , 중저가 스마트 폰 판매량 감소 와 신제품 출시 에 따른 마케팅 비용 증가 로 실적 개선 이 제한 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 중국 경제 가 관 주도 이 고 , 국내 기업 이 가진 중국 의 인적 네트워크 가 충분 치 않 다 .	O LOC-B O O O O O O O O O O O LOC-B O O O O O O O O O
+그러 면서 한 씨 는 “ 그런 그 가 돈 을 받 고 순결 을 팔 겠 다고 할 정도 이 니 그 가 얼마나 간절하 게 돈 이 필요한지 알 수 있 다 ” 고 설명 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수상 작 은 각각 시 ‘ 슬픔 의 뼈대 ’ , 평론집 ‘ 1980 년대 의 북극 꽃 들 아 , 뿔고둥 을 불 어라 ’ . 편운 문학상 은 조병화 시인 ( 1921 ∼ 2003 ) 을 기리 기 위해 제정 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+토마스 바흐 IOC 위원장 은 이번 결정 이 ‘ 반 도핑 강화 ’ 의지 에 역행하 는 것 이 아님 을 강조하 며 “ 러시아 는 자국 선수 들 이 금지 약물 을 복용하 지 않 았 음 을 철저히 입증해야 한다 ” 고 덧붙 였 다 .	PER-B PER-I ORG-B O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+올 시즌 프로 야구 10 번째 구단 으로 뛰어든 신생 kt 는 첫 승 에 대한 갈증 에 시달리 고 있 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O
+결국 김 씨 는 14 일 인사처 가 있 는 서울 종로구 정부서울청사 를 직접 찾 을 예정 이 다 .	O PER-B O O DAT-B DAT-I O O O O LOC-B LOC-B LOC-I O O O O O O O O
+2015 년 연봉 총액 에서 메이저리그 30 개 구단 중 18 위 에 머물 렀 지만 , ‘ 통 큰 ’ 베팅 으로 박병호 의 가치 를 인정 했 다 .	DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+숭실 사이버 대학교 , ‘ 콘텐츠 제공 서비스 품질 인증 ’ 획득	ORG-B ORG-I ORG-I O O O O O O O O O
+모사드 는 이스라엘 총리 의 유엔 연설 약 한 달 뒤 인 2012 년 10 월 22 일 SSA 와 공유한 기밀문서 에서 이란 이 핵무기 개발 에 필요한 활동 을 벌이 고 있 지 않 다는 입장 을 밝 혔 다 .	PER-B O ORG-B O O ORG-B O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+우리 사회 가 자격증 , 그 종이 한 장 을 중시하 는 사회 이 기 때문 이 란 생각 을 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+그날 을 돌아보 며 ‘ 산 과 동무해 나 여기 서 있 다 ’ 고 키 작 은 소년 이 오십 척 거인 이 되 어 ‘ 천둥 과 번개 의 힘 까지 끌 어 ’ 모은다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+수도권 마지막 택지 아파트 ‘ 송산 신도시 반도유보라 아이비파크 ’ 분양 마감 임박	O O O O O LOC-B LOC-I LOC-I LOC-I O O O O
+현대자동차그룹 정몽구 그룹 회장 과 정의선 현대자동차 부회장 부자 가 현대 글로 비스 지분 매각 에 성공 했 다 .	ORG-B PER-B O O O PER-B ORG-B O O O ORG-B ORG-I ORG-I O O O O O O O

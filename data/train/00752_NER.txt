@@ -1,14 +1,14 @@
-북한과 같은 단순 하+ㄴ 권력구조 속에서 5개월이 넘도록 당과 국가의 수반 자리가 공석으로 있다는 것은 어느 모로 나 이해하기 힘들다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-모두가 불빛을 좇는 세상. 화려 하+ㄴ스포트라이트를 받는 프로야구가 그립지 않을까. 박철순은 “에이, 타이밍이 늦었지.이제 저는 야인이 +ㅂ니다” +이라며 손사래를 +었다 .	O O O O O O O O O O PER-B O O O O O O O O O O
-장관석 jks@donga. com·조동주·정윤철기 .	PER-B O PER-B O
-6위에 오르+ㄴ수지만 이 무대와 방송을 넘나들며 ‘원조 아이돌’ 명맥을 유지하였다 .	O PER-B O O O O O O O O O
-지난해 3월 인공지능 알파고와 세기의 대결을 펼치며 화제를 모으+ㄴ바둑기사이세돌은 15위에 오르았다 .	O O O O O O O O PER-B O O O
-당시에는 KIA가 2승 1패의 위닝시리즈를 점하였다 .	O ORG-B O O O O O
-외교부 “트럼프 反 이민정책한 인사회 영향 예의주시 .	ORG-B PER-B O O O O O O
-우태희 산업통상자원부 통상차관보는 16일 동아일보와의 통화에서 “박 대통령의 발언은 TPP의 중요성을 원론적 수준에서 강조 하+ㄴ 것”이라고 말하였다 .	PER-B ORG-B ORG-I O ORG-B O PER-B O O O O O O O O O O O
-사고 지점은 횡단보도로부터 20∼30ｍ 떨어지+ㄴ 곳으로 조사되었다 .	O O O O O O O O
-이는 농협 대출 이용자 57만5000명(8월 말 기준) 중에서 가장 낮은 것이었다 .	O ORG-B O O O O O O O O O O
-이 프로그램은 대학생들의 배낭여행을 후원하+여 그들이 글로벌 인재가 되는데 도움을 주는 것으로 매년 7월 2주 동안 진행되+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-이밖에도 하나투어는 지난해 일본 규슈지역에서 일본 법인과 공동으로 면세점을 운영하고 있다 .	O ORG-B O ORG-B LOC-B ORG-B O O O O O O
-과학발전으로 나라에 보답하+ㄴ다는 ‘보국(報國)’ 정신도 우주방의 트레이드 마크다 .	O O O O O ORG-B O O O
-주차비용 비싸+ㄴ 공항"영국 공항이 상위권에… .	O O ORG-B O O O
+북한 과 같 은 단순한 권력 구조 속 에서 5 개월 이 넘 도록 당 과 국가 의 수반 자리 가 공석 으로 있 다는 것 은 어느 모 로 나 이해하 기 힘들 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+모두 가 불빛 을 좇 는 세상 . 화려한 스포트라이트 를 받 는 프로 야구 가 그립 지 않 을까 . 박철순 은 “ 에이 , 타이밍 이 늦 었 지 . 이제 저 는 야인 입니다 ” 라며 손사래 를 쳤 다 .	O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+장관 석 jks @ donga . com · 조동주 · 정윤철 기자	PER-B PER-I O O O O O O PER-B O PER-B O
+6 위 에 오른 수지 만 이 무대 와 방송 을 넘나들 며 ‘ 원조 아이돌 ’ 명맥 을 유지 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O
+지난해 3 월 인공 지능 알 파고 와 세기 의 대결 을 펼치 며 화제 를 모은 바둑 기사 이세돌 은 15 위 에 올 랐 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+당시 에 는 KIA 가 2 승 1 패 의 위닝시리즈 를 점 했 다 .	O O O ORG-B O O O O O O O O O O O O
+외교 부 “ 트럼프 反 이민 정책 한인 사회 영향 예의 주시 ”	ORG-B ORG-I O PER-B O O O O O O O O O
+우태희 산업 통상 자원 부 통상 차관보 는 16 일 동아일보 와 의 통화 에서 “ 박 대통령 의 발언 은 TPP 의 중요성 을 원론적 수준 에서 강조한 것 ” 이라고 말 했 다 .	PER-B ORG-B ORG-I ORG-I ORG-I O O O DAT-B DAT-I ORG-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+사고 지점 은 횡단보도 로부터 20 ∼ 30 ｍ 떨어진 곳 으로 조사 됐 다 .	O O O O O DAT-B O O O O O O O O O O
+이 는 농협 대출 이용자 57 만 5000 명 ( 8 월 말 기준 ) 중 에서 가장 낮 은 것 이 었 다 .	O O ORG-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+이 프로그램 은 대학생 들 의 배낭여행 을 후원해 그 들 이 글로벌 인재 가 되 는 데 도움 을 주 는 것 으로 매년 7 월 2 주 동안 진행된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+이 밖 에 도 하나 투어 는 지난해 일본 규슈 지역 에서 일본 법인 과 공동 으로 면세점 을 운영하 고 있 다 .	O O O O ORG-B ORG-I O O LOC-B LOC-B O O ORG-B O O O O O O O O O O O
+과학 발전 으로 나라 에 보답한다는 ‘ 보국 ( 報國 ) ’ 정신 도 우주 방 의 트레이드 마크다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O O
+주차 비용 비싼 공항 " 영국 공항 이 상위권 에 … "	O O O O O ORG-B O O O O O O

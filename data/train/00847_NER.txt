@@ -1,13 +1,13 @@
-“코딱지(김 원장이 생각하는 아이들이 가장 좋아하는 단어)” 한 마디에 2030 코딱지세대는 열광하였다 .	PER-B O O O O O O O O O O O O
-중국에서 제일 넓다는 이분 재원에는 400년이나 되+ㄴ보물분재를 비롯하+여20여명의 관리원이 600여개의 분재를 정성껏 가꾸+ㄴ다 .	LOC-B O O O O O O O O O O O O O
-한편 IIHS 관계자는 “자동차 제조업체들에게 운전석과 조수석에 비슷하+ㄴ 수준의 안전 수준을 제공하+ㄹ 것을 강조하며 이르면 오는 2018년부터 탑세이프티픽 플러스 기준에 조수석 안전항목을 포함시키+ㄹ 계획이다”라고 밝히었다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-신격호(94) 롯데그룹 총괄회장과 사실혼 관계 이+ㄴ 서미경(57)씨와 딸 신유미(33)씨가 보유 하+ㄴ 롯데홀딩스 지분이 검찰 수사에서 확인되면서 +이다 .	PER-B ORG-B O O O O PER-B O PER-B O O ORG-B O O O O O O
-박종철 사건 수사 당시 검찰 간부 +이었던 한 변호사는 “당시 수사에 대하+ㄴ 진상조사를 하+여보니 박 후보자가 비록 말단 검사+이었지만 사건이 은폐되지 않도록 하+여야 +하겠다는 의지가 강하었다”고 전하였다 .	PER-B O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O
-2012년 런던올림픽 때도 세계 랭킹 1위로 대회 2연패에 대하+ㄴ기대가 높았다 .	O O O O O O O O O O O
-‘담다디’의 이상은 보 .	O PER-B O O
-냉장고를 부탁하+여, 먹방돌 소유위하+ㄴ 샘킴vs 최현석의 대결… 소유는 누구 편 .	O O O PER-B PER-B PER-B O PER-B O O O
-‘대한민국 알프스 하동’에서 제20회 하동 야생차문화축제가 펼쳐 지+ㄴ다 .	LOC-B LOC-B LOC-B O LOC-B O O O O
-드라마 ‘처용2’ 하연주 “액션 연기 보이어드리+ㄹ 수 있어 기쁘다 .	O O PER-B O O O O O O O
-이런 상황이라면 1분기 말에는 영업사원이 의욕을 잃거나 혹은 1분기 매출 일부를 2분기로 늦추는, 이른바 ‘밀어내기’ +이라는 편법을 쓰게 되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-교직원이 컴퓨터를 켜면 악성코드로 인하+여금융감독원을 사칭 하+ㄴ보안 강화 팝업창이 +었고, 다시 가짜 은행 사이트로 접속하게 해 금융정보를 빼내는 방식이었다 .	ORG-I O O O ORG-B O O O O O O O O O O O ORG-B O O O
-서울대 건축과를 나오아 외국계 금융사 컨설턴트로 일하던 김 대표가 그만두고 학원을 차리+ㄴ 시점이다 .	ORG-B ORG-I O O O O O PER-B O O O O O O
+“ 코딱지 ( 김 원장 이 생각하 는 아이 들 이 가장 좋아하 는 단어 ) ” 한 마디 에 2030 코딱지 세대 는 열광 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+중국 에서 제일 넓 다는 이 분재 원 에 는 400 년 이나 된 보물 분재 를 비롯해 20 여 명 의 관리원 이 600 여 개 의 분재 를 정성껏 가꾼다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 IIHS 관계자 는 “ 자동차 제조 업체 들 에게 운전석 과 조수석 에 비슷한 수준 의 안전 수준 을 제공할 것 을 강조하 며 이르 면 오 는 2018 년 부터 탑 세이프티 픽 플러스 기준 에 조수석 안전 항목 을 포함 시킬 계획 이 다 ” 라고 밝 혔 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+신격호 ( 94 ) 롯데 그룹 총괄 회장 과 사실혼 관계 인 서미경 ( 57 ) 씨 와 딸 신유미 ( 33 ) 씨 가 보유한 롯데홀딩스 지분 이 검찰 수사 에서 확인되 면서 다 .	PER-B O O O ORG-B ORG-I O O O O O O PER-B O O O O O O PER-B O O O O O O ORG-B O O O O O O O O O
+박종철 사건 수사 당시 검찰 간부 였 던 한 변호사 는 “ 당시 수사 에 대한 진상 조사 를 해 보 니 박 후보자 가 비록 말단 검사 였 지만 사건 이 은폐되 지 않 도록 해야 겠 다는 의지 가 강 했 다 ” 고 전 했 다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2012 년 런던 올림픽 때 도 세계 랭킹 1 위 로 대회 2 연패 에 대한 기대 가 높 았 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+‘ 담다디 ’ 의 이상 은 보다	O O O O PER-B PER-I O
+냉장고 를 부탁해 , 먹방 돌 소유 위한 샘킴 vs 최현석 의 대결 … 소유 는 누구 편 ?	O O O O O O PER-B O PER-B O PER-B O O O PER-B O O O O
+‘ 대한민국 알프스 하동 ’ 에서 제 20 회 하동 야생 차 문화 축제 가 펼쳐진다 .	O LOC-B LOC-B LOC-B O O O O O O O O O O O O O
+드라마 ‘ 처용 2 ’ 하연주 “ 액션 연기 보 여 드릴 수 있 어 기쁘 다 ”	O O O O O PER-B O O O O O O O O O O O O
+이런 상황 이 라면 1 분기 말 에 는 영업 사원 이 의욕 을 잃 거나 혹은 1 분기 매출 일부 를 2 분기로 늦추 는 , 이른바 ‘ 밀어내 기 ’ 라는 편법 을 쓰 게 된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교직원 이 컴퓨터 를 켜 면 악성 코드 로 인해 금융 감독 원 을 사칭한 보안 강화 팝업 창 이 떴 고 , 다시 가짜 은행 사이트 로 접속하 게 해 금융 정보 를 빼내 는 방식 이 었 다 .	O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울대 건축 과 를 나 와 외국 계 금융 사 컨설턴트 로 일하 던 김 대표 가 그만두 고 학원 을 차린 시점 이 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O PER-B O O O O O O O O O O O

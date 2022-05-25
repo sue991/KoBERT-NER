@@ -1,12 +1,12 @@
-3D 프린터부터 드론까지 전자상가 14동은 ‘3D 프린팅의 중심지’로 진화 중이다 .	O O O O O O O O O O O
-이 실장 등은 취임 인사차 여야 지도부도 예방하기로 +였다고 박지원 국민의당 원내대표가 전하였다 .	PER-B O O O O O O O O PER-B ORG-B O O O
-지난해 1월 고용노동부·보건복지부·행정자치부 등과 협력 하+여행 정기관과 민간 전문가가 참여하+ㄴ 고용복지플러스센터를 전국 처음으로 설치하였다 .	O O ORG-B O O O O O O O ORG-B O O O O
-미국의 여성운동가 글로리아 스타이넘과가수 마돈나를 비롯하+ 여배우 스칼릿조 핸슨, 애슐리저드 등 유명인들도 다수 동참하+ㄴ 것으로 알려지었다 .	ORG-B O PER-B PER-I PER-B O O PER-B PER-I PER-B O O O O O O O
-이 행사에 워싱턴DC에서만 최소 50만명이, 미국 전역에서는 200만명 이상이 참여하+ㄴ 것으로 추정되+ㄴ다 .	O O LOC-B O O ORG-B O O O O O O O
-이후 김영애는 라이프스타일 매거진 ‘얼루어 코리아 2014년 3월호’에서 자신의 연기 인생과 췌장암 투병에 대하+ 여입을 열었다 .	O PER-B O O O O O O O O O O O O O O O
-김 전 대표는 헌법재판소의 탄핵이 결정되 +ㄴ 다음날 이+ㄴ 11일 인명진 자유한국당 비상대책위원장, 윤여준 전 환경부 장관을 만나 +아 개헌과 향후 대선 정국에 대하+여 논의하였다 .	PER-B O O ORG-B O O O O O O PER-B ORG-B O PER-B O ORG-B O O O O O O O O O O
-“외국인 선수 코트니 심스가 허리 부상을 입어 치료 중이라 경기장에 데려오지 못하였다 .	O O PER-B PER-I O O O O O O O O O
-1998년 팜파일럿(PalmPilot) 등 당시 유행 하+ㄴ 휴대용 컴퓨터에 암호화되+ㄴ 정보를 저장하는 필드링크(Fieldlink) +이라는 보안서비스 아이디어를 사업화하고 싶어 +였다 .	O O O O O O O O O O O O O O O O O O O
-그러었냐’며 5000만원을 요구하였다”고 밝히었다 .	O MNY-B O O O
-황철순은 “잘못하+ㄴ 것에 대하+여서 +ㄴ 언제든 반성하고 벌을 감수하고 있지만 조금 알려지었다고 이용하는 것+ㄴ가만 있지 않겠다”며 “이렇+ㄹ 때만 허위와 과장으로 공인, 방송인이라고 들먹이는데 안 하고 말+ㄴ다”며 불쾌감을 숨기지 않았다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘정글의 법칙’ PD “왕지혜, 손에 꼽히는 인성 보이어+주었다 .	O O O PER-B O O O O O
+3 D 프린터 부터 드론 까지 전자 상가 14 동 은 ‘ 3 D 프린팅 의 중심지 ’ 로 진화 중 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+이 실장 등 은 취임 인사 차 여야 지도부 도 예방 키 로 했 다고 박지원 국민 의당 원내 대표 가 전 했 다 .	PER-B O O O O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O
+지난해 1 월 고용 노동부 · 보건복지부 · 행정자치부 등 과 협력해 행정 기관 과 민간 전문가 가 참여한 고용 복지 플러스 센터 를 전국 처음 으로 설치 했 다 .	O DAT-B DAT-I ORG-B ORG-I O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+미국 의 여성 운동가 글로리아 스타이넘 과 가수 마돈나 를 비롯해 배우 스칼릿 조 핸슨 , 애슐리 저드 등 유명 인 들 도 다수 동참한 것 으로 알려 졌 다 .	ORG-B O O O PER-B PER-I O O PER-B O O O PER-B PER-I PER-I O PER-B PER-I O O O O O O O O O O O O O
+이 행사 에 워싱턴 DC 에서 만 최소 50 만 명 이 , 미국 전역 에서 는 200 만 명 이상 이 참여한 것 으로 추정된다 .	O O O LOC-B LOC-I O O O O O O O O ORG-B O O O O O O O O O O O O O
+이후 김영애 는 라이프 스타일 매거진 ‘ 얼 루어 코리아 2014 년 3 월 호 ’ 에서 자신 의 연기 인생 과 췌장암 투병 에 대해 입 을 열 었 다 .	O PER-B O O O O O O O O DAT-B DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O
+김 전 대표 는 헌법 재판소 의 탄핵 이 결정된 다음날 인 11 일 인명진 자유 한국 당 비상 대책 위원장 , 윤여준 전 환경부 장관 을 만나 개헌 과 향후 대선 정국 에 대해 논의 했 다 .	PER-B O O O ORG-B ORG-I O O O O O O DAT-B DAT-I PER-B ORG-B ORG-I ORG-I O O O O PER-B O ORG-B O O O O O O O O O O O O O O
+“ 외국인 선수 코트니 심스 가 허리 부상 을 입 어 치료 중 이 라 경기장 에 데려오 지 못 했 다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+1998 년 팜 파일럿 ( Palm Pilot ) 등 당시 유행한 휴대용 컴퓨터 에 암호화된 정보 를 저장하 는 필드 링크 ( Fieldlink ) 라는 보안 서비스 아이디어 를 사업 화 하 고 싶 어 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 랬 냐 ’ 며 5000 만 원 을 요구 했 다 ” 고 밝 혔 다 .	O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+황철순 은 “ 잘못한 것 에 대해선 언제 든 반성하 고 벌 을 감수하 고 있 지만 조금 알려 졌 다고 이용하 는 건 가만있 지 않 겠 다 ” 며 “ 이럴 때 만 허위 와 과장 으로 공인 , 방송인 이 라고 들먹이 는데 안 하 고 만다 ” 며 불쾌감 을 숨기 지 않 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 정글 의 법칙 ’ PD “ 왕지혜 , 손 에 꼽히 는 인성 보 여 줬 다 ”	O O O O O O O PER-B O O O O O O O O O O O

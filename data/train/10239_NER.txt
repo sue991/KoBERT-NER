@@ -1,16 +1,16 @@
-“네팔에 병원과 보육원·학교를 설립하+ㄹ 계획이 +ㅂ니다 .	ORG-B O O O O O O
-알리바바그룹은 자사(自社) 온라인 쇼핑몰 티몰에서 한국은 전 세계 국가 중 총 거래액 기준으로 일본과 미국에잇어 매출 3위 +이었다고 13일 밝히었다 .	ORG-B O O O O ORG-B O O O O O O O ORG-B ORG-B O O O O O O
-강동원의 최신 흥행작 두 편이 방송되+ㄴ다 .	PER-B O O O O O O
-레스터는 "우리가 맥주를 마시었던 것+ㄴ9회+이었다 .	PER-B O O O O O
-2014년 12월에는 공황장애로 방송을 그만두+ㄹ위기에 처하기도 +였다 .	O O O O O O O O
-그런데도 1996년 이후 일정 간격을 두고 교체 주장이 나 오+ㄴ다 .	O O O O O O O O O O O
-유호정-이재룡, 딸 예빈 양 최초 공개… ‘밝은 웃음++예의 바르+ㄴ 행동’훈 .	PER-B O PER-B O O O O O O O O
-하지만 한국은 지나 +ㄴ 10년 동안 이른바 ‘황우석 트라우마’에 갇히 +어줄기세포 연구를 한 걸음도 진전시키지 못하였다고 하+여도 과언이 아니다 .	O ORG-B O O O O O PER-B O O O O O O O O O O O O
-노르웨이 고등어가 ‘국민 생선’의 자리를 노리고 있다 .	LOC-B O O O O O O O
-한편 남 지사는 이날 ‘연정(聯政)’이 흔들리+ㄴ다는 우려에 대하+여서 “살다 보면 가족은 물론이고 사랑하는 사람끼리도 다툼과 위기가 오+ㄹ 수 있다 .	O PER-B O O O O O O O O O O O O O O O O O O
-9일 미국 캘리포니아주 오클랜드에서 도널드 트럼프의 대통령 당선에 항의하는 젊은이들의 시위가 벌어지고 있다 .	O LOC-B LOC-I LOC-I PER-B PER-I O O O O O O O O
-추자현, 中드라마 회당 출연료 1억원… “우효광부 럽어~ .	PER-B ORG-B O O MNY-B PER-B O O
-추첨을 통하+여선정되+ㄴ이들에게는 5월 7일 공연하는 ‘별이 빛나는 밤에’ 티켓을 제공하+ㄴ다 .	O O O O O O O O O O O
-15일 개장하는 대구신세계백화점은 당초 대대적 이+ㄴ 개장행사를 열 +ㄹ 계획이었으나 행사를 축소하고 서문시장을 돕는 방안을 찾고 있다 .	O O ORG-B O O O O O O O O O ORG-B O O O O O
-이영자는 치타에게 행사비가 예전에 10원이었다면 지금은 얼마를 받냐고 구체적으로 묻었다 .	PER-B PER-B O O MNY-B O O O O O O
-보람상조는 유족들을 위하 +ㄴ고 이+ㄴ 전용 리무진 서비스를 업계 최초로 도입하였으며, 장례용품의 가격 정찰제를 시행하는 등 고객을 먼저 생각하는 서비스들을 지속적으로 선보이어 +았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+“ 네팔 에 병원 과 보육원 · 학교 를 설립할 계획 입니다 .	O ORG-B O O O O O O O O O O O
+알리바바 그룹 은 자사 ( 自社 ) 온라인 쇼핑몰 티몰 에서 한국 은 전 세계 국가 중 총 거래 액 기준 으로 일본 과 미국 에 이 어 매출 3 위 였 다고 13 일 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O O O O ORG-B O ORG-B O O O O O O O O DAT-B DAT-I O O O O
+강동원 의 최신 흥행작 두 편 이 방송된다 .	PER-B O O O O O O O O
+레스터 는 " 우리 가 맥주 를 마 셨 던 건 9 회 였 다 .	PER-B O O O O O O O O O O O O O O O
+2014 년 12 월 에 는 공황 장애 로 방송 을 그만둘 위기 에 처하 기 도 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+그런데 도 1996 년 이후 일정 간격 을 두 고 교체 주장 이 나온다 .	O O DAT-B DAT-I O O O O O O O O O O O
+유호정 - 이재룡 , 딸 예빈 양 최초 공개 … ‘ 밝 은 웃음+ 예의 바른 행동 ’ 훈훈	PER-B O PER-B O O PER-B O O O O O O O O O O O O O
+하지만 한국 은 지난 10 년 동안 이른바 ‘ 황우석 트라우마 ’ 에 갇혀 줄기 세포 연구 를 한 걸음 도 진전 시키 지 못 했 다고 해도 과언 이 아니 다 .	O ORG-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+노르웨이 고등어 가 ‘ 국민 생선 ’ 의 자리 를 노리 고 있 다 .	LOC-B O O O O O O O O O O O O O O
+한편 남 지사 는 이날 ‘ 연정 ( 聯政 ) ’ 이 흔들린다는 우려 에 대해서 “ 살 다 보 면 가족 은 물론 이 고 사랑하 는 사람 끼리 도 다툼 과 위기 가 올 수 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9 일 미국 캘리포니아주 오클랜드 에서 도널드 트럼프 의 대통령 당선 에 항의하 는 젊은이 들 의 시위 가 벌어지 고 있 다 .	DAT-B DAT-I LOC-B LOC-I LOC-I O PER-B PER-I O O O O O O O O O O O O O O O O
+추자현 , 中 드라마 회당 출연료 1 억 원 … “ 우 효광 부러 워 ~ ”	PER-B O ORG-B O O O MNY-B MNY-I MNY-I O O PER-B PER-I O O O O
+추첨 을 통해 선정된 이 들 에게 는 5 월 7 일 공연하 는 ‘ 별 이 빛나 는 밤 에 ’ 티켓 을 제공한다 .	O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O
+15 일 개장하 는 대구 신세계백화점 은 당초 대대적 인 개장 행사 를 열 계획 이 었 으나 행사 를 축소하 고 서문시장 을 돕 는 방안 을 찾 고 있 다 .	DAT-B DAT-I O O ORG-B ORG-I O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+이영자 는 치타 에게 행사 비 가 예전 에 10 원 이 었 다면 지금 은 얼마 를 받 냐고 구체적 으로 물 었 다 .	PER-B O PER-B O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O
+보람 상 조 는 유족 들 을 위한 고인 전용 리무진 서비스 를 업계 최초 로 도입 했 으며 , 장례 용품 의 가격 정찰 제 를 시행하 는 등 고객 을 먼저 생각하 는 서비스 들 을 지속적 으로 선보 여 왔 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

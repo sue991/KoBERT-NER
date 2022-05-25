@@ -1,17 +1,17 @@
-가격대가 비교적 높은 패션 브랜드 이+ㄴ ‘베라왕’에서 10만원대에 내놓은 캐시미어 제품도 8위에 오르았다 .	O O O O O O ORG-B MNY-B O O O O O O
-스펜서는 1946년 미국 보스턴에 레스토랑을 개업하고 자신이 개발하+ㄴ 전자레인지 이+ㄴ ‘레이더 레인지(raderrange)’를 이용하+ㄴ 음식을 소비자들에게 선보이었다 .	O O LOC-B LOC-I O O O O O O O O O O O O O
-“우리 노래, 진짜 좋은데”… ‘걸스데이’ 혜리, 셀프 홍 .	O O O O ORG-B PER-B O O O
-8회 선두 타자로 나오아 좌익수 플라이로 아웃+되었던 이승엽은 타자일 순후 다시 타석에서 +어 3점 홈런을 뽑았다 .	O O O O O O O PER-B O O O O O O O O O
-김효정, 이세돌 vs 알파고 중계… 그는 누구? 바둑 프로팀 감독으로도 활 .	PER-B PER-B O O O O O O O O O O
-설악산∼동해안을 찾는 피서객들이 몰리+ㄴ영동고속도로는 호법 인터체인 지∼남한강교(신갈기점 56㎞) 구간에서 시속 10㎞ 정도로 정체되는 등 곳곳에서 극심 하+ㄴ 정체 현상을 빚어 평소 4시간 걸리던 서울∼강릉 구간이 10시간이나 소요되었다 .	LOC-B O O LOC-B LOC-B O LOC-B O O O O O O O O O O O O O O O O LOC-B O O O O
-서울시교육청이 친일인명사전 구입이 적절하지 않다며 관련 예산을 반납하겠다는 일선 학교의 의사를 무시하고 예산을 반드시 집행하라고 다시 한번 압박 하+여 논란이 일고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-지긋지긋 하+ㄴ무좀?‘핀포인트 풋레이저’로 고민 끝 .	O O O O O O
-수성구·동구 금연클리닉의 1개월 성공선물은 칫솔세트다 .	LOC-B O O O O O
-지나+ㄴ 여름 대구보선의 경우, 「돈과 혼탁선거」+이라는 뒷말이 무성하었다 .	O O LOC-B O O O O O O
-“다당제로 치르어 지+ㄴ 총선에서 제1당이 과반을 하+ㄴ적이 없다”는 요즘 여의도 정가에서 가장 많이 회자되는 얘기 중 하나+이다 .	O O O O O O O O O LOC-B O O O O O O O O
-새누리당은 단일 대오고, 야권은 더불어민주당과 국민의당으로 분열되었는데도 아이러니하게 여야 없이 이런 얘기들을 하고 있다 .	ORG-B O O O ORG-B ORG-B O O O O O O O O O
-3인조 그룹에 픽하이(타블로미스+이라투컷)가 미국 ‘코첼라 밸리뮤직 앤드아츠 페스티벌’(이하 코첼라)에서 올해 일으키+ㄴ 선풍 말이다 .	O O O LOC-B PER-I O O O O O O O O O
-또 “부품을 납품 하+여야 하는 경기지역 대기업 공장 인근에 공장을 하나 더 짓겠다니까 주위에서 다들 미치었다고 하+ㄴ다”며 “특별 하+ㄴ이유가 아니라면 한국에서는 생산량을 늘리지 않을 방침”이라고 말하였다 .	O O O O O LOC-B O O O O O O O O O O O O O O LOC-B O O O O O O
-지난달 25일 숨지+ㄴ 쿠바의 공산혁명 지도자 피델 카스트로의 묘비는 커다랗+ㄴ둥글+ㄴ 암석에 ‘피델’이라는 이름만 달랑 붙이+ㄴ소박 하+ㄴ 형태+이다 .	O O O ORG-B O O PER-B PER-I O O O PER-B O O O O O O
-국민생활체육회가 주최하고 전국 국학기공연합회(회장 권영주)가 주관하는 전통 스포츠 보급 사업이 +ㄴ국학기공교실이 전국 34개 초·중·고등학교에서 열리+ㄴ다 .	ORG-B O ORG-B ORG-I PER-B O O O O O O ORG-B O O O O
-새롭게 넥센유니폼을 입게 되+ㄴ 채태인은 오는 23일 롯데자이언츠와의 시범경기가 펼쳐지는 고척스카이돔에서 넥센에 합류하+ㄹ 예정이다 .	O ORG-B O O PER-B O O ORG-B O O LOC-B ORG-B O O O
+가격대 가 비교적 높 은 패션 브랜드 인 ‘ 베라 왕 ’ 에서 10 만 원 대 에 내놓 은 캐시미어 제품 도 8 위 에 올 랐 다 .	O O O O O O O O O ORG-B ORG-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+스펜서 는 1946 년 미국 보스턴 에 레스토랑 을 개업하 고 자신 이 개발한 전자레인지 인 ‘ 레이더 레인지 ( raderrange ) ’ 를 이용한 음식 을 소비자 들 에게 선보 였 다 .	O O DAT-B DAT-I LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 우리 노래 , 진짜 좋 은데 ” … ‘ 걸스데이 ’ 혜리 , 셀프 홍보	O O O O O O O O O O ORG-B O PER-B O O O
+8 회 선두 타자 로 나 와 좌익수 플라이 로 아웃 됐 던 이승엽 은 타자 일순 후 다시 타석 에 서 3 점 홈런 을 뽑 았 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+김효정 , 이세돌 vs 알파 고 중계 … 그 는 누구 ? 바둑 프로 팀 감독 으로 도 활약	PER-B O PER-B O O O O O O O O O O O O O O O O
+설악산 ∼ 동해안 을 찾 는 피서객 들 이 몰린 영동 고속도로 는 호법 인터체인지 ∼ 남한강 교 ( 신갈 기점 56 ㎞ ) 구간 에서 시속 10 ㎞ 정도 로 정체되 는 등 곳곳 에서 극심한 정체 현상 을 빚 어 평소 4 시간 걸리 던 서울 ∼ 강릉 구간 이 10 시간 이나 소요 됐 다 .	LOC-B LOC-I LOC-I O O O O O O O LOC-B LOC-I O LOC-B LOC-I O LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O
+서울시 교육청 이 친일인명사전 구입 이 적절 치 않 다며 관련 예산 을 반납하 겠 다는 일선 학교 의 의사 를 무시하 고 예산 을 반드시 집행하 라고 다시 한 번 압박해 논란 이 일 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지긋지긋한 무좀 ? ‘ 핀 포인트 풋 레이저 ’ 로 고민 끝 !	O O O O O O O O O O O O O
+수성구 · 동 구 금연 클리닉 의 1 개월 성공 선물 은 칫솔 세트 다 .	LOC-B O LOC-B LOC-I O O O O O O O O O O O O
+지난 여름 대구 보선 의 경우 , 「 돈 과 혼탁 선거 」 라는 뒷말 이 무성 했 다 .	O O LOC-B O O O O O O O O O O O O O O O O O
+“ 다당제 로 치 러 진 총선 에서 제 1 당 이 과반 을 한 적 이 없 다 ” 는 요즘 여의도 정가 에서 가장 많이 회자되 는 얘기 중 하나 다 .	O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
+새누리당 은 단일 대오 고 , 야권 은 더불 어 민주당 과 국민 의 당 으로 분열 됐 는데 도 아이러니하 게 여야 없이 이런 얘기 들 을 하 고 있 다 .	ORG-B O O O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+3 인 조 그룹 에픽 하이 ( 타블로 미쓰 라 투 컷 ) 가 미국 ‘ 코첼라 밸리 뮤직 앤드 아츠 페스티벌 ’ ( 이하 코첼라 ) 에서 올해 일으킨 선풍 말 이 다 .	O O O O ORG-B ORG-I O PER-B PER-B PER-I PER-B PER-I O O LOC-B O O O O O O O O O O O O O O O O O O O O
+또 “ 부품 을 납품해야 하 는 경기 지역 대기업 공장 인근 에 공장 을 하나 더 짓 겠 다니까 주위 에서 다 들 미 쳤 다고 한다 ” 며 “ 특별한 이유 가 아니 라면 한국 에서 는 생산량 을 늘리 지 않 을 방침 ” 이라고 말 했 다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+지난달 25 일 숨진 쿠바 의 공산 혁명 지도자 피델 카스트로 의 묘비 는 커다란 둥근 암석 에 ‘ 피델 ’ 이 라는 이름 만 달랑 붙인 소박한 형태 다 .	O DAT-B DAT-I O ORG-B O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+국민 생활 체육 회 가 주최하 고 전국 국학 기공 연합회 ( 회장 권영주 ) 가 주관하 는 전통 스포츠 보급 사업 인 국학 기공 교실 이 전국 34 개 초 · 중 · 고등학교 에서 열린다 .	ORG-B ORG-I ORG-I ORG-I O O O ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+새롭 게 넥센 유니폼 을 입 게 된 채 태인 은 오 는 23 일 롯데 자이언츠 와 의 시범 경기 가 펼쳐지 는 고척스카이돔 에서 넥센 에 합류할 예정 이 다 .	O O ORG-B O O O O O PER-B PER-I O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O LOC-B O ORG-B O O O O O O

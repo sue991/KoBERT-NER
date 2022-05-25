@@ -1,13 +1,13 @@
-그는 그러면서 "다만 박 정부의 창조경제 중건지+ㄹ 부분이 있으면 그것+ㄹ건지면서 가자"고 덧붙이었다 .	O O O PER-B O O O O O O O O O
-【서울=뉴시스 .	LOC-B O
-허신행 전 장관 “안철수, 영입 취소 인격살인사과하라 .	PER-B O O PER-B O O O O
-그러나 곰리의 작품으로 확정, 설치되기까지 걸리+ㄴ 4년의 기간 동안 이에 대하+ㄴ 찬반 논의는 도시 전체를 시끄럽게 +였다 .	O PER-B O O O O O O O O O O O O O O O O
-전 세계 언어 장벽을 없애려는 구글의 야심이 점점 더 완성에 가깝어지고 있다 .	O O O O O ORG-B O O O O O O O
-“알파고가 아직 상수+이라고 생각하지 않는다 .	O O O O O O
-적어도 10년 앞 한반도의 운명은 현 시점, 한국 이 외교좌표를 어떻게 설정하고 대응하느냐에 따르 아달리었다 .	O O O LOC-B O O O ORG-B O O O O O O O O
-세계 싱크탱크들이 2017년 국제정세전망에서 확실하게 예측하+ㄴ 것+ㄴ “예측이 불가능하다”는 것이다 .	O O O O O O O O O O O
-청약 일정은 9월 2일(수)특별공급, 3일(목) 1순위, 4일(금) 2순위이며, 10일(목) 당첨자 발표, 16일(수)~18일(금) 3일간 계약접수를 진행하+ㄴ다 .	O O O O O O O O O O O O O O O O
-에버랜드 리조트는 2006년 미국 포브스지가 선정 하+ㄴ 세계 4대 테마파크에 랭크되 +ㄴ바 있으며, 2008년에는 캐리비안 베이가 세계 테마파크 협회(IAAPA)에서 전 세계 최고의 워터파크에 수여하는 ‘Must-see 워터파크’에 선정되었다 .	ORG-B ORG-I O ORG-B O O O ORG-B O O O O O O O O ORG-B ORG-I ORG-B O ORG-B O O O O O O O
-그러나 지난해 하반기 매출액이 1천만∼1천8백만 원이+ㄴ 음식 ­숙박업, 부동산 임대업자와 1천5백만∼1천8백만 원이+ㄴ 기타 업종 사업자, 과세자료가 1백% 노출되는 화장품 외판원 등은 일반사업자처럼 매출실적대로 신고하+여야 하+ㄴ다 .	O O O O MNY-B MNY-I O O O O MNY-B MNY-I O O O O MNY-B O O O O O O O O O
-최근 소비량이 빠르게 늘고 있는 수입맥주는 조사 대상 8개 모두 한국이 비싸 +ㄴ 순으로 4위 안에 들었다 .	O O O O O O O O O O ORG-B O O O O O O O
-하이네켄한 캔(2016원)은 원산지 네덜란드에서 팔리는 값(729원)의 2.7배, 밀러(2203원)는 미국(960원)의 2.3배+이다 .	O MNY-B MNY-I LOC-B O MNY-B O MNY-B LOC-B O O
+그 는 그러 면서 " 다만 박 정부 의 창조 경제 중 건질 부분 이 있 으면 그걸 건지 면서 가 자 " 고 덧붙 였 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+【 서울 = 뉴시스 】	O LOC-B O ORG-B O
+허신행 전 장관 “ 안철수 , 영입 취소 인격 살인 사과하 라 ”	PER-B O O O PER-B O O O O O O O O
+그러나 곰 리 의 작품 으로 확정 , 설치되 기 까지 걸린 4 년 의 기간 동안 이 에 대한 찬반 논의 는 도시 전체 를 시끄럽 게 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전 세계 언어 장벽 을 없애 려는 구글 의 야심 이 점점 더 완성 에 가까 워 지 고 있 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O
+“ 알 파고 가 아직 상수 라고 생각하 지 않 는다 .	O O O O O O O O O O O O
+적어도 10 년 앞 한반도 의 운명 은 현 시점 , 한국 이 외교 좌표 를 어떻 게 설정하 고 대응하 느냐 에 따 라 달 렸 다 .	O O O O LOC-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+세계 싱크 탱크 들 이 2017 년 국제 정세 전망 에서 확실하 게 예측한 건 “ 예측 이 불가능하 다 ” 는 것 이 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+청약 일정 은 9 월 2 일 ( 수 ) 특별 공급 , 3 일 ( 목 ) 1 순위 , 4 일 ( 금 ) 2 순위 이 며 , 10 일 ( 목 ) 당첨자 발표 , 16 일 ( 수 ) ~ 18 일 ( 금 ) 3 일 간 계약 접수 를 진행한다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O DAT-B DAT-I O O O O O O DAT-B DAT-I O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+에버랜드 리조트 는 2006 년 미국 포브스지 가 선정한 세계 4 대 테마파크 에 랭크된 바 있 으며 , 2008 년 에 는 캐리비안 베이 가 세계 테마파크 협회 ( IAAPA ) 에서 전 세계 최고 의 워터 파크 에 수여하 는 ‘ Must - see 워터파크 ’ 에 선정되 었 다 .	ORG-B ORG-I O DAT-B DAT-I ORG-B O O O O O O O O O O O O O DAT-B DAT-I O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+그러나 지난해 하반기 매출액 이 1 천만 ∼ 1 천 8 백만 원 인 음식 ­ 숙박업 , 부동산 임대 업자 와 1 천 5 백만 ∼ 1 천 8 백만 원 인 기타 업종 사업자 , 과세 자료 가 1 백 % 노출되 는 화장품 외판원 등 은 일반 사업자 처럼 매출 실적 대로 신고해야 한다 .	O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 소비량 이 빠르 게 늘 고 있 는 수입 맥주 는 조사 대상 8 개 모두 한국 이 비싼 순 으로 4 위 안 에 들 었 다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+하이네켄 한 캔 ( 2016 원 ) 은 원산지 네덜란드 에서 팔리 는 값 ( 729 원 ) 의 2.7 배 , 밀러 ( 2203 원 ) 는 미국 ( 960 원 ) 의 2.3 배 다 .	O O O O MNY-B MNY-I O O O LOC-B O O O O O MNY-B MNY-I O O O O O O O MNY-B MNY-I O O LOC-B O MNY-B MNY-I O O O O O O

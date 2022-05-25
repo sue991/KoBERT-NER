@@ -1,11 +1,11 @@
-주요 그룹 가운데 영업이익이 줄어들 +ㄴ 곳은 현대차와 현대중공업 두 곳에 그치었다 .	O O O O O O O ORG-B ORG-B O O O O
-경제계 관계자는 “주요 대기업들이 최근 2~3년간 덩치를 키우기보다는 내실을 다지는 데 주력하였다”며 “지난해 세계 경제 성장률 부진에도 불구하고 양호하+ㄴ 실적을 기록하였다”고 설명하였다 .	O O O O O O O O O O O O O O O O O O O O O O O
-이들은 왜 어른도 도전하기 힘들 +ㄴ스포츠에 빠지+ㄴ 것+이+ㄹ까요?지나 +ㄴ5월에 열리+ㄴ 제12회 삼성출판사 배 어린이 트라이애슬론대회에서 종합우승을 거머쥐+ㄴ과 천 어린이철인 교실 선수 6인을 만나 +아트라이애슬론의 숨기+어지+ㄴ 매력을 듣어 +보았습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-tri(3가지)와 athlon(경기)이라는 라틴어가 합치+어지+ㄴ트라이애슬론은 수영·사이클·달리기를 혼자서 완주하는 스포츠 이+ㅂ니다 .	O O O O O O O O O O
-2015년 기준으로 GDP의 0.7% 이+ㄴ 190억달러를 세계 곳곳에 공여하였다 .	O O O O O MNY-B O O O O
-민주당 기 원내대변인은 “현직 장관이 구속되는 역사상 전례 없는 일이 벌어지었다 .	ORG-B PER-B O O O O O O O O O O
-또한 타이틀곡 ‘INEEDU’는 물론 앨범 ‘화양연화pt.1’이 갖고 있는 정서를 이해하는 데 도움이 되+ㄹ 것”이라고 전하였다 .	O O O O O O O O O O O O O O O O
-방탄소년단은 지난달 29일 새 앨범 ‘화양연화pt.1’을 공개, 타이틀곡 ‘INEEDU’로 KBS 2 ‘뮤직뱅크’를 비롯하+여SBSMTV ‘덥쇼’와 M.net ‘엠카운트 다운’에서 1위를 차지하며 크+ㄴ 사랑을 받고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-한편, 10일 오후 방송되+ㄴ SBS ‘인기가요’에서는 최근 컴백하며 크+ㄴ인기를 끌고 있는 그룹 방탄소년단과 빅뱅이 1위 후보에 오르았다 .	O O O O ORG-B O O O O O O O ORG-B ORG-B O O O O
-바로는 최근 “닮았어. 윤지.나+의 동생”이라는 글과 사진을 올리+어 동생을 소개하+ㄴ바 있다 .	O O O PER-B O O O O O O O O
-박 전 원장은 올해 2월 평생 법관제에 대하+ㄴ소신에 따르 아사법연수원장 임기를 마치면 법원장으로는 처음으로 시군법원 판사로 근무하+ㄹ 예정이었지만 사고로 뜻을 이루지 못하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+주요 그룹 가운데 영업 이익 이 줄어든 곳 은 현대차 와 현대중공업 두 곳 에 그 쳤 다 .	O O O O O O O O O ORG-B O ORG-B O O O O O O O
+경제계 관계자 는 “ 주요 대기업 들 이 최근 2 ~ 3 년 간 덩치 를 키우 기 보다 는 내실 을 다지 는 데 주력 했 다 ” 며 “ 지난해 세계 경제 성장률 부진 에 도 불구하 고 양호한 실적 을 기록 했 다 ” 고 설명 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O
+이 들 은 왜 어른 도 도전하 기 힘든 스포츠 에 빠진 걸까 요 ? 지난 5 월 에 열린 제 12 회 삼성출판사 배 어린이 트라이애슬론 대회 에서 종합 우승 을 거머쥔 과천 어린이 철인 교실 선수 6 인 을 만나 트라이애슬론 의 숨겨 진 매력 을 들 어 봤 습니다 .	O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O
+tri ( 3 가지 ) 와 athlon ( 경기 ) 이 라는 라틴 어 가 합쳐 진 트라이애슬론 은 수영 · 사이클 · 달리기 를 혼자 서 완주하 는 스포츠 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2015 년 기준 으로 GDP 의 0.7 % 인 190 억 달러 를 세계 곳곳 에 공여 했 다 .	DAT-B DAT-I O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+민주당 기 원내 대변인 은 “ 현직 장관 이 구속되 는 역사상 전례 없 는 일 이 벌어 졌 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O
+또한 타이틀 곡 ‘ I NEED U ’ 는 물론 앨범 ‘ 화양연화 pt .1 ’ 이 갖 고 있 는 정서 를 이해하 는 데 도움 이 될 것 ” 이라고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+방탄소년단 은 지난달 29 일 새 앨범 ‘ 화양연화 pt .1 ’ 을 공개 , 타이틀 곡 ‘ I NEED U ’ 로 KBS 2 ‘ 뮤직 뱅크 ’ 를 비롯해 SBS MTV ‘ 더 쇼 ’ 와 M . net ‘ 엠 카운트다운 ’ 에서 1 위 를 차지하 며 큰 사랑 을 받 고 있 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 편 , 10 일 오후 방송된 SBS ‘ 인기 가요 ’ 에서 는 최근 컴백하 며 큰 인기 를 끌 고 있 는 그룹 방탄소년단 과 빅뱅 이 1 위 후보 에 올 랐 다 .	O O O DAT-B DAT-I O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O
+바로 는 최근 “ 닮 았 어 . 윤지 . 내 동생 ” 이 라는 글 과 사진 을 올려 동생 을 소개한 바 있 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+박 전 원장 은 올해 2 월 평생 법관 제 에 대한 소신 에 따 라 사법 연수원 장 임기 를 마치 면 법원장 으로 는 처음 으로 시 군 법원 판사 로 근무할 예정 이 었 지만 사고 로 뜻 을 이루 지 못 했 다 .	PER-B O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

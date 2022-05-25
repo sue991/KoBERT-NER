@@ -1,17 +1,17 @@
-“삼풍백화점 붕괴되+ㄴ 날…” 전설적 ‘가위손’이 목회자 되+ㄴ이유 .	O O O O O O O O
-소속팀에서 최전방 공격수로 뛰는 3명(이정협·이종호·김승대)을 동시에 내세우었다 .	O O O O PER-B O O O
-위에 언급하+ㄴ 6개의 제2외국어 중에서 하나를 중학에서부터 자유로 선택 하+ㄹ 수 있는 교육환경을 만들어주는 것이 지금 가속적으로 진전되고 있는 국제화, 세계화에 지혜롭게 대응하는 교육입안자들의 의무이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-소비자물가는 이듬해부터 10% 언저리로 뚝 떨어지었다 .	O O O O O O O
-69년 취임하+ㄴ 김학렬 경제부총리는 명석 하+ㄴ 두뇌로 실무를 꿰뚫었다 .	O O PER-B O O O O O O O
-이번 사태로 중국 관광객에 취하+여 있던 우리의 부끄럽 ㄴ민낯이 드러나 +았습니다 .	O O ORG-B O O O O O O O O O
-‘KB골든라이프 110LTC 건강보험’은 110세까지 노인장기요양보험에서 지급하는 급여와 별개로 간병비를 보장하+여주는 상품이다 .	O O O O O O O O O LOC-B O O
-나 같은 사람이 한 명 만나 +의 밑에 있으면 좋으련만. 왜 나는 나+의 선배들 같은 운이 없는 것+이+ㄹ까? 김 부장은 분명 유능하+ㄴ사람이었다 .	O O O O O O O O O O O O O O O O O O PER-B O O O O
-책의 한 면에는 "강준이 같은 애들은 나라에서 보호하+ 여야 되+어.아무도 못 데려가게 국보로~, 나+의 마음의 국보 111111호"라고 쓰이어 있다 .	O O O O O O O O O O O O O O O O O O O O
-파71인 코스의 전장은 7128야드(남자부)와 6245야드(여자부)로 미국 남녀 프로골프 투어보다 짧다 .	O O O O O ORG-B O O O O O
-떨는 아줌마“나+의 남편은 핑크색을 끔찍이 싫어 하+여. 근데, 핑크색 팬티는 사+아주면 잘 입어.” “언니 한테 보이어주려고 입은 것 아니야?” “우리+ㄴ 팬티는 안보는데 ….” 4일 오전 10시 반 서울 구로구의 한 팟캐스트 스튜디오.팟 캐스트 ‘엄마와 라디오’를 녹음하기 위하+여 모이+ㄴ아줌마들의 걸쭉하+ㄴ 수다가 한창이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O
-집단대출 급증세가 지난해 하반기(7∼12월)부터 시작되+ㄴ점을 감안하면 1년이나 뒤늦게 대책이 마련되 +ㄴ 셈이다 .	O O O O O O O O O O O O O
-음성군은 철저하+ㄴ 선별을 통하+여등급별로 판매하고 타 지역 고추가 유입되지 않도록 관내 고추농가를 위하+ㄴ 직거래용 포장재를 제작하였다 .	LOC-B O O O O O O O O O O O O O O O O
-현지 언론과 시민단체들은 러시아와 시리아 정부군이 알레포 공격을 잠시 멈추+ㄴ대신 목표를 바꾸+어 공격하였다고 주장하였다 .	O O O ORG-B ORG-B ORG-I O O O O O O O O O
-3.자신의 체력을 고려하+ㄴ 페달링이 중요하 .	O O O O O O
-최 전 총장 측 역시 혐의를 부인하였다 .	PER-B O O O O O O O
-배우 이정재가 31일 모교 이+ㄴ 서울 압구정동 현대고등학교를 방문하+여 후배들의 일이+ㄹ 멘토로 변신, 즐겁ㄴ 대화의 장을 열었다 .	O PER-B O O O LOC-B LOC-B LOC-B O O O O O O O O O O
+“ 삼풍백화점 붕괴된 날 … ” 전설적 ‘ 가위손 ’ 이 목회 자 된 이유 ?	O O O O O O O O O O O O O O O O
+소속 팀 에서 최전방 공격수 로 뛰 는 3 명 ( 이정협 · 이종호 · 김승대 ) 을 동시 에 내세 웠 다 .	O O O O O O O O O O O PER-B O PER-B O PER-B O O O O O O O O
+위 에 언급한 6 개 의 제 2 외국어 중 에서 하나 를 중학 에서 부터 자유 로 선택할 수 있 는 교육 환경 을 만들 어 주 는 것 이 지금 가속 적 으로 진전되 고 있 는 국제 화 , 세계화 에 지혜롭 게 대응하 는 교육 입안자 들 의 의무 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+소비자 물가 는 이듬해 부터 10 % 언저리 로 뚝 떨어 졌 다 .	O O O O O O O O O O O O O O
+69 년 취임한 김학렬 경제 부총리 는 명석한 두뇌 로 실무 를 꿰뚫 었 다 .	DAT-B DAT-I O PER-B O O O O O O O O O O O O
+이번 사태 로 중국 관광객 에 취해 있 던 우리 의 부끄러 운 민낯 이 드러났 습니다 .	O O O ORG-B O O O O O O O O O O O O O O
+‘ KB 골든 라이프 110 LTC 건강 보험 ’ 은 110 세 까지 노인 장기 요양 보험 에서 지급하 는 급여 와 별개 로 간병 비 를 보장해 주 는 상품 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O
+나 같 은 사람 이 한 명 만 내 밑 에 있 으면 좋 으련만 . 왜 나 는 내 선배 들 같 은 운 이 없 는 걸까 ? 김 부장 은 분명 유능한 사람 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+책 의 한 면 에 는 " 강준이 같 은 애 들 은 나라 에서 보호해야 돼 . 아무 도 못 데려가 게 국보 로 ~ , 내 마음 의 국보 111111 호 " 라고 쓰 여 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+파 71 인 코스 의 전장 은 7128 야드 ( 남자 부 ) 와 6245 야드 ( 여자 부 ) 로 미국 남녀 프로 골프 투어 보다 짧 다 .	O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+떠 는 아줌마 “ 내 남편 은 핑크 색 을 끔찍이 싫어해 . 근데 , 핑크 색 팬티 는 사 주 면 잘 입 어 . ” “ 언니 한테 보 여 주 려고 입 은 거 아니 야 ? ” “ 우린 팬티 는 안 보 는데 … . ” 4 일 오전 10 시 반 서울 구로구 의 한 팟캐스트 스튜디오 . 팟캐스트 ‘ 엄마 와 라디오 ’ 를 녹음하 기 위해 모인 아줌마 들 의 걸쭉한 수다 가 한창 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+집단 대출 급증 세 가 지난해 하반기 ( 7 ∼ 12 월 ) 부터 시작된 점 을 감안하 면 1 년 이나 뒤늦 게 대책 이 마련된 셈 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+음성군 은 철저한 선별 을 통해 등급 별 로 판매하 고 타 지역 고추 가 유입되 지 않 도록 관내 고추 농가 를 위한 직거래 용 포장재 를 제작 했 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현지 언론 과 시민 단체 들 은 러시아 와 시리아 정부군 이 알레포 공격 을 잠시 멈춘 대신 목표 를 바꿔 공격 했 다고 주장 했 다 .	O O O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+3 . 자신 의 체력 을 고려한 페달 링 이 중요하 다	O O O O O O O O O O O O
+최 전 총장 측 역시 혐의 를 부인 했 다 .	PER-B O O O O O O O O O O
+배우 이정재 가 31 일 모교 인 서울 압구정동 현대 고등학교 를 방문해 후배 들 의 일 일 멘토 로 변신 , 즐거 운 대화 의 장 을 열 었 다 .	O PER-B O DAT-B DAT-I O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O

@@ -1,16 +1,16 @@
-상대 배터리 입장에서 +ㄴ 4번 타자 김태균이 버티고 있으니 송광민을 쉽게 거르+ㄹ 수도 없다 .	O O O O O O PER-B O O PER-B O O O O O
-가수 신승훈이 ‘네오아티스트’(Neo-A rtist)+이라는 이름으로 신인 가수 제작에 나서 +ㄴ다 .	O PER-B PER-B O O O O O O O O
-3명의 총리 후보자가 검증 과정에서 낙마 하+ㄴ 데 .	O O O O O O O O O
-또 해상도 0.55ｍ급전자 광학카메라를 갖추고 있어 가로세로 각각 55㎝짜리 물체를 한 점으로 인식하는 정밀도를 갖추었다 .	O O O O O O O O O O O O O O O O
-스가 요시히데(菅義偉) 일본 관방장관은 24일 기자회견에서 “국회 상황 등을 근거로 판단하였다”고 결정 이유를 말하였다 .	PER-B PER-B ORG-B O O O O O O O O O O O O
-문화체육관광부(이하 문체부)는 23일 추가경정예산(이하 추경) 관련 관광진흥개발기금 특별융자금을 추가로 긴급 배정 하+여 시행 하+ㄴ다고 발표하였다 .	ORG-B ORG-B O O O O O O O O O O O O O O
-운동장에는 학부모로 보이는 성인 10여명이 서+어 있었다 .	O O O O O O O O
-▼ 다음은 이세영 자필 편지 전문 ▼ 안녕하세요.이세영이+ㅂ니다 .	O O PER-B O O O O PER-B O
-SNL코리아에서 저의 잘못되+ㄴ 행동으로 많은 분께 심려를 끼치+어드리+어서 죄송하+ㅂ니 .	O O O O O O O O O O
-박 대통령은 최근 있었던 이세돌 9단과 알파고의 대국을 예로 들며 “인공지능의 발전상을 확인하며 충격을 받았다 .	PER-B O O O PER-B O O O O O O O O O O O
-남주혁은 자신만만하게 앨범을 펼치었지만, 한동안 앨범을 뒤지+ㄴ 끝에 찾아내 +ㄹ 수 있었다 .	PER-B O O O O O O O O O O O O
-한국철도도시공단에 따르면 우선 오는 12월 수서-평택 구간을 우선 개통하+ㄴ다고 밝히었다 .	ORG-B O O O O LOC-B O O O O O
-대체로 5분이 채 안 걸리는 짧은 발언이지만 매번 그룹 안팎의 상황에 맞는 적절하+ㄴ 방향을 제시하+ㄴ다는 평가를 받았다 .	O O O O O O O O O O O O O O O O O O
-이제 해외 진출에도전장을 던지+ㄴ FA 선수는 내야 수황 재균만 남았다 .	O O O O O O O O O O O
-2016 시즌 종료 이후 황재균의 시선은 미국을 향하+여 있었다 .	O O O O PER-B O ORG-B O O O
-첫 번째는 미세먼지 제거 필터를 장착하+ㄴ드론 수십∼수백대를 특정 지역 상공에 띄우어 미세먼지를 빨아들이는 것이다 .	O O O O O O O O O O O O O O O
+상대 배터리 입장 에선 4 번 타자 김태균 이 버티 고 있 으니 송광민 을 쉽 게 거를 수 도 없 다 .	O O O O O O O PER-B O O O O O PER-B O O O O O O O O O
+가수 신승훈 이 ‘ 네오 아티스트 ’ ( Neo - Artist ) 라는 이름 으로 신인 가수 제작 에 나선다 .	O PER-B O O PER-B PER-I O O PER-B PER-I PER-I O O O O O O O O O O
+3 명 의 총리 후보자 가 검증 과정 에서 낙마한 데 다	O O O O O O O O O O O O
+또 해상도 0.55 ｍ 급 전자광학 카메라 를 갖추 고 있 어 가로세로 각각 55 ㎝ 짜리 물체 를 한 점 으로 인식하 는 정밀도 를 갖 췄 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스가 요시히데 ( 菅義偉 ) 일본 관방 장관 은 24 일 기자 회견 에서 “ 국회 상황 등 을 근거 로 판단 했 다 ” 고 결정 이유 를 말 했 다 .	PER-B PER-I O PER-B O ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+문화 체육 관광부 ( 이하 문체부 ) 는 23 일 추가 경정예산 ( 이하 추경 ) 관련 관광 진흥 개발 기금 특별 융자금 을 추가 로 긴급 배정해 시행한다고 발표 했 다 .	ORG-B ORG-I ORG-I O O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+운동장 에 는 학부모 로 보이 는 성인 10 여 명 이 서 있 었 다 .	O O O O O O O O O O O O O O O O O
+▼ 다음 은 이세영 자필 편지 전문 ▼ 안녕하 세요 . 이세영 입니다 .	O O O PER-B O O O O O O O PER-B O O
+SNL 코리아 에서 저 의 잘못된 행동 으로 많 은 분 께 심려 를 끼쳐 드려서 죄송합니다	O O O O O O O O O O O O O O O O O
+박 대통령 은 최근 있 었 던 이세돌 9 단 과 알파 고의 대국 을 예 로 들 며 “ 인공 지능 의 발전상 을 확인하 며 충격 을 받 았 다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+남주혁 은 자신만만하 게 앨범 을 펼 쳤 지만 , 한동안 앨범 을 뒤진 끝 에 찾아낼 수 있 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+한국 철도 도시 공단 에 따르 면 우선 오 는 12 월 수서 - 평택 구간 을 우선 개통한다고 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O DAT-B DAT-I LOC-B O LOC-B O O O O O O O O
+대체로 5 분 이 채 안 걸리 는 짧 은 발언 이 지만 매번 그룹 안팎 의 상황 에 맞 는 적절한 방향 을 제시한다는 평가 를 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이제 해외 진출 에 도전장 을 던진 FA 선수 는 내야수 황재균 만 남 았 다 .	O O O O O O O O O O O PER-B O O O O O
+2016 시즌 종료 이후 황재균 의 시선 은 미국 을 향해 있 었 다 .	O O O O PER-B O O O ORG-B O O O O O O
+첫 번째 는 미세 먼지 제거 필터 를 장착한 드론 수십 ∼ 수백 대 를 특정 지역 상공 에 띄 워 미세 먼지 를 빨아들이 는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

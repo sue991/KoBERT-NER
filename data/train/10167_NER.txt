@@ -1,15 +1,15 @@
-줄리엔강, 3살 연하 모델 장성희와 열애설 소속사 "조모 상당 하+ 여부산에 있다 .	PER-B O O O PER-B O O O O O LOC-B O O
-4·13 총선 새누리당 지역구 초선 당선자 중 유일하+ㄴ 여성이 +ㄴ 김정재 당선자(50·경북 포항 북·사진)의 ‘이것만은 반드시 지키겠다’는 대국민 약속이다 .	O O ORG-B O O O O O O O PER-B LOC-B LOC-I O O O O O O O
-브룬싱의 영상 앞에 놓이어 있는 양현정씨의 서울벤치리서치 메모는 이 ‘징벤치’가 멀+ㄴ나라 얘기가 아니+ㅁ을 보이어 주+ㄴ다 .	PER-B O O O O PER-B LOC-B O O O O O O O O O
-2000년대 들어 SM, YG, JYP 등 아이돌 가수를 양성하는 대형 기획사가 시장을 틀어쥐면서 재야에 묻히+ㄴ싱어송라이터나 밴드가 주목을 받을 기회가 준 가운데 ‘큐레이션의 대물림’이 이어지는 셈이다 .	O O ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O
-그러곤 유스호스텔에 묵고 있는 전남 무안군 해제중학교 학생과 교사들을 찾아 "멀리 전라도서 여기까지 수학여행을 +아주+어 참 반갑고 고맙 심더" +이라며 황남빵 등을 전달하였다 .	O O O O LOC-B LOC-B ORG-B O O O O LOC-B O O O O O O O O O O O O
-9월 12일 규모 5.8의 경주 지진 발생 후 처음으로 경주에 전라도 수학여행단이 나타나 +았다 .	O O O O LOC-B O O O O LOC-B LOC-B O O O O
-다음 타 자트래비스 다노는 우월 솔로포를 터뜨리+어 1회에만 4점을 만들었다 .	O O PER-B PER-I O O O O O O O
-두다는 2회에도 바뀌+ㄴ 2사 1, 2루에서 우중간을 가르는 2타점 2 루타를 날리+어 점수를 6점차로 벌리었다 .	PER-B O O O O O O O O O O O O O O O
-반면 컵스는 4회말 무사 만루찬스를 만들었지만 카스트로 가 라인드라이브 아웃으로 물러나 +ㄴ 후카일 슈와버가 1루수 땅 볼 때 3루 주자 호르헤 솔레르가 홈으로 들어오며 1점을 올리는 데 그치었다 .	O ORG-B O O O O PER-B O O O O O PER-B PER-I O O O O O O PER-B PER-I O O O O O O O
-이후 8회 초 2사 1루 상황에 타석에 들어서 +ㄴ대니얼 머피가 상대 투수 페르난도 로드니를 상대로 비거리 128m의 중월 홈런을 쏘아 올리며 쐐 기점을 올리었다 .	O O O O O O O O PER-B PER-I O O PER-B PER-I O O O O O O O O O O O
-정치적 불확실성, 늘어나는 가계부채, 수출 여건 악화, 북한 위험 등 첩첩산 중 난제들에 대하+ㄴ 질문이 쏟아지었다 .	O O O O O O O ORG-B O O O O O O O O O
-저 여덟 책상에서 요즘 청춘들의 다양하+ㄴ 꿈빛깔을 확인 하+ㄹ 수 있었습니다 .	O O O O O O O O O O O O
-정강현 청춘리포트 팀장foneo@j oongang. co.kr여경의 책상“치안활동 첫걸음떼는 장소” 손 남정(27·여·동대문서청 회파출소 순경) 동네치안을 책임지고 있는 순경이+ㅂ니다 .	PER-B O O O O O O O O ORG-B ORG-I O O O O O O
-LS산전의 주력 사업 분야는 전력과 자동화 부문이다 .	ORG-B O O O O O O O
-브렉시트는 ‘단발’이 아니라 ‘연쇄 폭탄’이 되+ㄹ 가능성이 +어 추가 파장이 우려되는 상황이다 .	O O O O O O O O O O O O O
+줄리 엔강 , 3 살 연하 모델 장성희 와 열애 설 소속 사 " 조모 상 당해 부산 에 있 다 "	PER-B PER-I O O O O O PER-B O O O O O O O O O LOC-B O O O O
+4 · 13 총선 새누리당 지역구 초선 당선자 중 유일한 여성 인 김정재 당선자 ( 50 · 경북 포항 북 · 사진 ) 의 ‘ 이것 만 은 반드시 지키 겠 다 ’ 는 대 국민 약속 이 다 .	O O O O ORG-B O O O O O O O PER-B O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O
+브룬싱 의 영상 앞 에 놓 여 있 는 양현정 씨 의 서울 벤치 리서치 메모 는 이 ‘ 징 벤치 ’ 가 먼 나라 얘기 가 아님 을 보 여 준다 .	PER-B O O O O O O O O PER-B O O LOC-B O O O O O O O O O O O O O O O O O O O O
+2000 년대 들 어 SM , YG , JYP 등 아이 돌 가수 를 양성하 는 대형 기획 사 가 시장 을 틀어쥐 면서 재야 에 묻힌 싱어송라이터 나 밴드 가 주목 을 받 을 기회 가 준 가운데 ‘ 큐 레이션 의 대물림 ’ 이 이어지 는 셈 이 다 .	O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 곤 유스호스텔 에 묵 고 있 는 전남 무안군 해제 중학교 학생 과 교사 들 을 찾 아 " 멀리 전라도 서 여게 까지 수학여행 을 와 줘 참 반갑 고 고맙 심더 " 라며 황남 빵 등 을 전달 했 다 .	O O O O O O O O LOC-B LOC-B ORG-B ORG-I O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+9 월 12 일 규모 5.8 의 경주 지진 발생 후 처음 으로 경주 에 전라도 수학여행 단 이 나타났 다 .	DAT-B DAT-I DAT-I DAT-I O O O LOC-B O O O O O LOC-B O LOC-B O O O O O O
+다음 타자 트래비스 다노 는 우월 솔로 포 를 터뜨려 1 회 에 만 4 점 을 만들 었 다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O
+두 다는 2 회 에 도 바뀐 2 사 1 , 2 루 에서 우중간 을 가르 는 2 타점 2 루 타 를 날려 점수 를 6 점 차 로 벌 렸 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+반면 컵스 는 4 회 말 무사 만루 찬스 를 만들 었 지만 카스트로 가 라인 드라이브 아웃 으로 물러난 후 카일 슈와버 가 1 루 수 땅볼 때 3 루 주자 호르헤 솔레르 가 홈 으로 들어오 며 1 점 을 올리 는데 그 쳤 다 .	O ORG-B O O O O O O O O O O O PER-B O O O O O O O PER-B PER-I O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O
+이후 8 회 초 2 사 1 루 상황 에 타석 에 들어선 대니얼 머피 가 상대 투수 페르난도 로드니 를 상대 로 비거리 128 m 의 중월 홈런 을 쏘 아 올리 며 쐐기 점 을 올 렸 다 .	O O O O O O O O O O O O O PER-B PER-I O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O
+정치적 불확실성 , 늘어나 는 가계 부채 , 수출 여건 악화 , 북한 위험 등 첩첩산중 난제 들 에 대한 질문 이 쏟아 졌 다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+저 여덟 책상 에서 요즘 청춘 들 의 다양한 꿈 빛깔 을 확인할 수 있 었 습니다 .	O O O O O O O O O O O O O O O O O O
+정강현 청춘 리포트 팀장 foneo @ joongang . co . kr 여경 의 책상 “ 치안 활동 첫걸음 떼 는 장소 ” 손남정 ( 27 · 여 · 동대문서 청회 파출소 순경 ) 동네 치안 을 책임지 고 있 는 순경 입니다 .	PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O
+LS 산전 의 주력 사업 분야 는 전력 과 자동화 부문 이 다 .	ORG-B ORG-I O O O O O O O O O O O O
+브렉시트 는 ‘ 단발 ’ 이 아니 라 ‘ 연쇄 폭탄 ’ 이 될 가능성 이 커 추가 파장 이 우려되 는 상황 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O

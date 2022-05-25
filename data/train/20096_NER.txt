@@ -1,13 +1,13 @@
-이같이 남북정상이 모두 대화에 적극 나서겠다는 뜻을 피력하였지만 현실의 벽은 여전히 높다 .	O ORG-B O O O O O O O O O O O
-일각에서는 오는 5월 치르어지는 조기 대선에 미치는 영향을 최소화하고 수사 결과에 대하+ㄴ 논란을 피하고자 검찰이 속도를 내+ㄹ 것이라는 관측도 내놓고 있다 .	O O O O O O O O O O O O O O O O O O O O O O
-인근 주민이 당구선수 김경률을 발견 하+ 여경찰에 신고하였다 .	O O O PER-B O O O O O
-신기성 감독 “하은주와 이야기 나 누+ㄹ 것” 신한은행은 1일 신기성(41) 전 KEB하나은행 코치를 신임 감독으로 임명하였다 .	PER-B O PER-B O O O O ORG-B O PER-B O ORG-B O O O O O
-이 외박람회 현장에서도 ‘G마켓, 옥션과 함께하는 경기 그랜드세일과 +ㄴ’ 부스를 운영하고 레져큐에서 판매하는 ‘에버랜드’, ‘아쿠아리움’ 등의 레저시설 입장권과 ‘양평 행복한 뜰 펜션’, ‘헤이리 석죽재 체험상품’ 등을 할인 판매 하+ㄴ다 .	O O O ORG-B ORG-B O O O O O O O O ORG-B LOC-I O O O LOC-B O O O LOC-B LOC-B O O O O O O
-부산(4월)·대전(5월)·광주(6월)·대구(9월)에잇어 지나 +ㄴ 9일에+ㄴ 서울 여의도 공원에서 개최되었다 .	LOC-B O O O LOC-B LOC-B LOC-I O O
-미국 존스홉킨스대학 산하 한미연구소의 북한 전문 웹사이트 38노스는 12일 촬영 하+ㄴ 풍계리 핵실험장의 위성사진을 분석하+ㄴ 결과, 핵실험을 위하+ㄴ “준비를 마치 +ㄴ(PrimedandReady)” 상태로 보이+ㄴ다고 분석하였다 .	ORG-B ORG-I O O ORG-B O O O O O O LOC-B O O O O O O O O O O O O O
-주민들은 8월 17일 진행되+ㄴ 공청회에서 매연과 소음 문제를 들고 나오았다 .	O O O O O O O O O O O
-그는 1990년 소프트웨어 개발자로 퀄컴에 입사하+ㄴ 뒤 수석 부사장, 무선인터넷그룹 사장 등을 두루 거치며 경영실력을 인정받았다 .	O O O O ORG-B O O O O O O O O O O O O
-박 대통령은 “보건의료는 한국 최고 인재들이 모이어 있는 분야”+이라며 “병원 수출을 통하+여 고품질의료서비스로 세계인의 건강을 향상시키면서 국부(國富)와 일자리 창출에도 기여하고 있다”고 이들을 격려하였다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O O O O
-LG화학은 미래 시장을 선도하+ㄹ 차세대 신성장동력을 지속적으로 육성하기 위하+여 연구개발(R&D) 부문에 대하+ㄴ투자를 강화하고 있다 .	ORG-B O O O O O O O O O O O O O O
-지나+ㄴ 25일 발생하+ㄴ 헤브론회 교학살 사건과 관련되+ㄴ 것으로 보이는 폭탄 테러가 27일 베이루트 북부 유니에시의 한 가톨릭교회에서 발생, 최소 10명이 사망하고 60여명이 부상당하였다 .	O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O
-이날 협약식을 통하+여다니엘 헤니를 비롯하+ㄴ 참석 연예인들은 개발도상국 아동지원에 함께 하+ㄹ 것을 약속하고, 아이들의 마을에 필요하+ㄴ부대시설 설립과 개선사업에도 힘을 보태기로 +였다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+이같이 남북 정상 이 모두 대화 에 적극 나서 겠 다는 뜻 을 피력 했 지만 현실 의 벽 은 여전히 높 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+일각 에서 는 오 는 5 월 치 러 지 는 조기 대선 에 미치 는 영향 을 최소화하 고 수사 결과 에 대한 논란 을 피하 고자 검찰 이 속도 를 낼 것 이 라는 관측 도 내놓 고 있 다 .	O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인근 주민 이 당구 선수 김경률 을 발견해 경찰 에 신고 했 다 .	O O O O O PER-B O O O O O O O O
+신기성 감독 “ 하은주 와 이야기 나눌 것 ” 신한은행 은 1 일 신기성 ( 41 ) 전 KEB 하나은행 코치 를 신임 감독 으로 임명 했 다 .	PER-B O O PER-B O O O O O ORG-B O DAT-B DAT-I PER-B O O O O ORG-B ORG-I O O O O O O O O O
+이외 박람회 현장 에서 도 ‘ G 마켓 , 옥션 과 함께하 는 경기 그랜드 세일 관 ’ 부스 를 운영하 고 레져큐 에서 판매하 는 ‘ 에버랜드 ’ , ‘ 아쿠아리움 ’ 등 의 레저 시설 입장권 과 ‘ 양평 행복 한 뜰 펜션 ’ , ‘ 헤이 리 석죽 재 체험 상품 ’ 등 을 할인 판매한다 .	O O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O LOC-B O O O O O O O LOC-B LOC-I LOC-B LOC-I O O O O O O O O
+부산 ( 4 월 ) · 대전 ( 5 월 ) · 광주 ( 6 월 ) · 대구 ( 9 월 ) 에 이 어 지난 9 일 엔 서울 여의도 공원 에서 개최 됐 다 .	LOC-B O DAT-B DAT-I O O LOC-B O DAT-B DAT-I O O LOC-B O DAT-B DAT-I O O LOC-B O DAT-B DAT-I O O O O O DAT-B DAT-I O LOC-B LOC-B LOC-I O O O O O
+미국 존스홉킨스대학 산하 한미 연구소 의 북한 전문 웹사이트 38 노스 는 12 일 촬영한 풍계리 핵 실험장 의 위성사진 을 분석한 결과 , 핵 실험 을 위한 “ 준비 를 마친 ( Primed and Ready ) ” 상태 로 보인다고 분석 했 다 .	ORG-B ORG-I O O O O ORG-B O O O O O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+주민 들 은 8 월 17 일 진행된 공청회 에서 매연 과 소음 문제 를 들 고 나 왔 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O
+그 는 1990 년 소프트웨어 개발자 로 퀄컴 에 입사한 뒤 수석 부사장 , 무선 인터넷 그룹 사장 등 을 두루 거치 며 경영 실력 을 인정받 았 다 .	O O DAT-B DAT-I O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+박 대통령 은 “ 보건 의료 는 한국 최고 인재 들 이 모 여 있 는 분야 ” 라며 “ 병원 수출 을 통해 고품질 의료 서비스 로 세계인 의 건강 을 향상 시키 면서 국부 ( 國富 ) 와 일자리 창출 에 도 기여하 고 있 다 ” 고 이 들 을 격려 했 다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+LG 화학 은 미래 시장 을 선도할 차세대 신 성장 동력 을 지속적 으로 육성하 기 위해 연구 개발 ( R & D ) 부문 에 대한 투자 를 강화하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난 25 일 발생한 헤브론 회교 학살 사건 과 관련된 것 으로 보이 는 폭탄 테러 가 27 일 베이루트 북부 유니에시 의 한 가톨릭교회 에서 발생 , 최소 10 명 이 사망하 고 60 여 명 이 부상 당 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O DAT-B DAT-I LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O
+이날 협약 식 을 통해 다니엘 헤니 를 비롯한 참석 연예인 들 은 개발도상국 아동 지원 에 함께할 것 을 약속하 고 , 아이 들 의 마을 에 필요한 부대 시설 설립 과 개선 사업 에 도 힘 을 보태 기 로 했 다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-방송인 김기수가 과거 지인에게 배신당 하+ㄴ 전말을 털어놓는다 .	O PER-B O O O O O O O
-4일 방송되는 SBS플러스 ‘나+의 말 좀 듣어주+어’에는 최근 뷰티 크리에이터로 거듭나며 제2의 전성기를 펼치고 있는 김기수가 출연하+여굴곡지+ㄴ 인생사를 밝히+ㄴ다 .	O O O O O O O O O O O O O O O PER-B O O O O
-김기수는 “이런 얘기를 여기서 하는 것+이 더럽었던 과거를 들춰내는 것 같아 기분이 좋지 않지만 내가 시원하+여지려고 얘기를 꺼내 +ㄹ까 하+ㄴ다”고 말문을 열 +ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-전 교수는 “우리나라는 명절에 친가에 모이는 문화가 있다”면서 “외가보다 친가 친척과 오랜 시간을 보내는 문화가 영향을 미치+ㄴ 것”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O
-21일 열리+ㄴ ‘2017년 과학ㆍ정보통신의 날 기념식’에서 미래창조과학부 최양희 장관이 1965년 이정문(76) 화백이 발표 하+ㄴ ‘서기 2000년대 생활의 이모저모’를 언급하였다 .	O O O O O O ORG-B PER-B O O PER-B O O O O O O O O O
-가톨릭대가 전국 고교생을 대상으로 진행하는 전공 체험행사가 크+ㄴ 호응을 얻고 있다 .	ORG-B O O O O O O O O O O O
-영국 가디언은 “5000여명의 이재민이 발생하였다”고 전하였다 .	ORG-B O O O O O O
-보아의 SNS를 종종 방문하였던 팬이라면 그의 취미가 골프+이라는 사실은 알고 있을 터. 박인비의 깜짝 초대에 보아는 “실제로 만나니 너무나 매력적이고 아름답ㄴ 그녀” +이라며 “영광이다”고 인사를 남기었다 .	PER-B O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O
-[매거진 M] '분노' 이상이+ㄹ 감독, 그의 영화 세 .	O O O PER-B O O O O O
-결국 집을 줄이면서 집값이 더 싸+ㄴ 수도권이나 아예 지방으로 이주하는 대안도 검토 하+ㄹ 수밖에 없을 것으로 보이+ㄴ다 .	O O O O O O LOC-B O O O O O O O O O O O
-3년 전 업계 처음으로 기술연구소를 세우었고, 올해는 기술개발 투자액이 매출액의 10.1%나 되게 책정하+ㄴ 것도 바로 그런 이유 때문이지요. .	O O O O O O O O O O O O O O O O O O O
-조단역이라고 하+여도 15년차 연기 경력에 비하+여 얼굴과 이름이 그만큼 알려지지 않은 것이 아쉽ㄹ 뿐이다 .	O O O O O O O O O O O O O O O
-조사 결과 김씨의 혈중 알코올 농도는 면허 취소 기준을 넘는 0.188%+이었다 .	O O PER-B O O O O O O O O O
+방송인 김기수 가 과거 지인 에게 배신 당한 전말 을 털어놓 는다 .	O PER-B O O O O O O O O O O O
+4 일 방송되 는 SBS 플러스 ‘ 내 말 좀 들 어 줘 ’ 에 는 최근 뷰티 크리에이터 로 거듭나 며 제 2 의 전성기 를 펼치 고 있 는 김기수 가 출연해 굴곡진 인생 사 를 밝힌다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+김기수 는 “ 이런 얘기 를 여기 서 하 는 게 더러 웠 던 과거 를 들춰내 는 것 같 아 기분 이 좋 지 않 지만 내 가 시원해 지 려고 얘기 를 꺼낼까 한다 ” 고 말문 을 연다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전 교수 는 “ 우리나라 는 명절 에 친가 에 모이 는 문화 가 있 다 ” 면서 “ 외가 보다 친가 친척 과 오랜 시간 을 보내 는 문화 가 영향 을 미친 것 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+21 일 열린 ‘ 2017 년 과학 ㆍ 정보 통신 의 날 기념식 ’ 에서 미래 창조 과학 부 최양희 장관 이 1965 년 이정문 ( 76 ) 화백 이 발표한 ‘ 서기 2000 년대 생활 의 이모저모 ’ 를 언급 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I PER-B O O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O
+가톨릭대 가 전국 고교생 을 대상 으로 진행하 는 전공 체험 행사 가 큰 호응 을 얻 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+영국 가디언 은 “ 5000 여 명 의 이재민 이 발생 했 다 ” 고 전 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O
+보아 의 SNS 를 종종 방문 했 던 팬 이 라면 그 의 취미 가 골프 라는 사실 은 알 고 있 을 터 . 박인비 의 깜짝 초대 에 보아 는 “ 실제로 만나 니 너무나 매력적 이 고 아름다 운 그녀 ” 라며 “ 영광 이 다 ” 고 인사 를 남 겼 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 매거진 M ] ' 분노 ' 이상 일 감독 , 그 의 영화 세계	O O O O O O O PER-B PER-I O O O O O O
+결국 집 을 줄이 면서 집값 이 더 싼 수도권 이나 아예 지방 으로 이주하 는 대안 도 검토할 수 밖에 없 을 것 으로 보인다 .	O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O
+3 년 전 업계 처음 으로 기술 연구소 를 세 웠 고 , 올해 는 기술 개발 투자 액 이 매출액 의 10.1 % 나 되 게 책정한 것 도 바로 그런 이유 때문 이 지요 . 』	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조단역 이 라고 해도 15 년 차 연기 경력 에 비해 얼굴 과 이름 이 그만큼 알려지 지 않 은 것 이 아쉬 울 뿐 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조사 결과 김 씨 의 혈중 알코올 농도 는 면허 취소 기준 을 넘 는 0.188 % 였 다 .	O O PER-B O O O O O O O O O O O O O O O O O

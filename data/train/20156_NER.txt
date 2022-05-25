@@ -1,11 +1,11 @@
-그러나 유먼의 공이 보+ㄹ 판정을 받았기 때문에 이 상황은 인플레이 상황이었고, 정범모가 홈을 비우+ㄴ 사이 2루 주자 정성훈까지 그 틈을 파고들어 홈으로 향하었다 .	O PER-B O O O O O O O O O PER-B O O O O O PER-B O O O O O O
-특히, 3on3 프리스타일은 B2C 전시관에 부스를 마련하 +ㄴ소니의 플레이스테이션 부스에서도 시연되며 중국 콘솔게임 마니아들을 사로잡았다 .	O O O O O O O ORG-B O O O ORG-B O O O O
-오랜 기간 한국의 온라인게임을 서비스 하+여오+ㄴ 세기천성은 한국 게임을 대거 선보이었다 .	O O ORG-B O O O ORG-B ORG-B O O O O
-이에 이번 ‘삐콤씨 액티브’ 출시로 진화하+ㄴ 제품력은 물론 소비자의 변화하는 성향에 따르+ㄴ 선택의 폭을 한층 넓히게 되+ㄴ 것이다 .	O O O O O O O O O O O O O O O O O O O
-법원이 신격호 롯데그룹 총괄회장(94·사진)의 한정후견 개시 결정을 내리었다 .	O PER-B ORG-B O O O O O O
-[열리+ㄴ시선/홍익태] 피서철 바닷가 안전사고 철저히 막아 .	PER-B O O O O O O
-일을 시작하고 체중이 4kg이 나빠지었다 .	O O O O O O
-전업 작가가 되면 현실 문제로부터 유리되 +ㄹ까 걱정이라면서도, 2013년 전업 작가가 +었다 .	O O O O O O O O O O O O O
-4대 개혁 완수 다짐으로 화답하+ㄴ 새누리당 박 대통령과 함께 헤드테이블에 앉은 새누리당 지도부는 일제히 박 대통령에게 힘을 싣어 + 주었다 .	O O O O O ORG-B PER-B O O O O ORG-B O O PER-B O O O O O O
-게다가 이번 수상에 직접 관계되 +ㄴ 김경인의 근래의 주목 하+ㄹ만 하+ㄴ 변신의 작품들이 +ㄴ「소나무 」연작의 사념성 짙은 표현주의 작업에서도 기묘하+ㄴ인 연 관계가 말하+여지+ㄹ만 하다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O
-보훈처 감사 결과 … 인사 비리 사실 .	ORG-B O O O O O O O
+그러나 유먼 의 공 이 볼 판정 을 받 았 기 때문 에 이 상황 은 인 플레이 상황 이 었 고 , 정범모 가 홈 을 비운 사이 2 루 주자 정성훈 까지 그 틈 을 파고들 어 홈 으로 향 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O O
+특히 , 3 on 3 프리스타일 은 B 2 C 전시관 에 부스 를 마련한 소니 의 플레이스테이션 부스 에서 도 시연되 며 중국 콘솔 게임 마니아 들 을 사로잡 았 다 .	O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O
+오랜 기간 한국 의 온라인 게임 을 서비스해 온 세기 천성 은 한국 게임 을 대거 선보 였 다 .	O O ORG-B O O O O O O ORG-B ORG-I O ORG-B O O O O O O O
+이 에 이번 ‘ 삐콤씨 액티브 ’ 출시 로 진화한 제품력 은 물론 소비자 의 변화하 는 성향 에 따른 선택 의 폭 을 한층 넓히 게 된 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+법원 이 신격호 롯데 그룹 총괄 회장 ( 94 · 사진 ) 의 한정 후견 개시 결정 을 내 렸 다 .	O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O
+[ 열린 시선 / 홍익태 ] 피서 철 바닷가 안전사고 철저히 막 아야	O O O O PER-B O O O O O O O O
+일 을 시작하 고 체중 이 4 kg 이나 빠 졌 다 .	O O O O O O O O O O O O O
+전업 작가 가 되 면 현실 문제 로부터 유리될까 걱정 이 라면서 도 , 2013 년 전업 작가 가 됐 다 .	O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+4 대 개혁 완수 다짐 으로 화답한 새누리당 박 대통령 과 함께 헤드 테이블 에 앉 은 새누리당 지도부 는 일제히 박 대통령 에게 힘 을 실 어 줬 다 .	O O O O O O O ORG-B PER-B O O O O O O O O ORG-B O O O PER-B O O O O O O O O O
+게다가 이번 수상 에 직접 관계된 김경인 의 근래 의 주목할 만한 변신 의 작품 들 인 「 소나무 」 연작 의 사념 성 짙 은 표현주의 작업 에서 도 기묘한 인연 관계 가 말해 질 만하 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+보훈 처 감사 결과 … 인사 비리 사실 로	ORG-B ORG-I O O O O O O O

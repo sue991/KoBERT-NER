@@ -1,15 +1,15 @@
-재계에서 +ㄴ이 부회장이 추후 삼성전자 이사회 의장은 맡되 대표이사(CEO)는 맡지 않을 것이란 추측도 나오+ㄴ다 .	O PER-B PER-B O ORG-B ORG-I O O PER-B O O PER-B O O O
-인도 최대 기업 중 하나이+ㄴ 릴라이언스 인더스트리(RelianceI ndustries) 의 무케시 암바니 회장은 “다수 종업원을 대상으로 양질의 교육을 전파하는 가장 효율적 이+ㄴ 수단은 바로 기술”이라고 말하였다 .	LOC-B O O O O ORG-B ORG-B O O PER-B PER-I O O O O O O O O O O O O O O O
-2016 코파아메리카와 유로2016 우승국 간의 대결성사 여부는 불투명하다 .	O O O O O O O O O
-하지만 두 달 후 이+ㄴ 8월에 롯데홀딩스 최대 지분(28.1%)을 가지+ㄴ 광윤사 대표이사에 오르고, 아버지 신격호 총괄회장이 “후계자는 신동주”라고 말하는 위임 메시지 동영상을 공개하는 등 이번 주총을 준비 하+여+았다 .	O O O O O O ORG-B O O O ORG-B O O O PER-B O O PER-B O O O O O O O O O O O
-말레이시아는 협상을 통하+여출국 금지자들을 맞교환 하+ㄴ 후 북한과 외교를 단절하려 +였다 .	ORG-B O O O O O O ORG-B O O O O
-경찰은 오후 1시 수색견을 동원하였고 군 특공대도 투입시키었다 .	O O O O O ORG-B ORG-I TIM-I O
-인천시는 14, 15일 100년 전 근대 건축물이 몰리+어 있는 중구 인천아트플랫폼 일대에서 ‘개항장 문화지구 근대거리 페스티벌’을 열 +ㄴ다 .	LOC-I O O O O O O O O LOC-B LOC-I O O O O O O O O
-보고서는 “북한 당국은 생존 조건이 잔혹하고 수용자들에게 강제노동을 시키며 살아나 오+ㄹ 것으로 기대 하+ㄹ 수 없는 정치범 수용소를 운영하고 있다”고 지적하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O
-본보기집은 태전동산4-1번지에 마련되+어 있다 .	O LOC-B O O O
-이후 7월 한국과 함께 중국 동영상 사이트에서 동시 공개하기 위하+여 지난달 30일 현지 방송담당 정책부서 이+ㄴ 국가신문출판광전총국에 10회 분의 제작완료분을 전달하였다 .	O O LOC-B O LOC-B O O O O O O O O O O O ORG-B O O O O O
-발행인이+ㄴ성낙인 총장 등으로 구성되 +ㄴ 운영위원회는 “사칙상 편집권이 누구에게도 귀속되+어 있지 않아 편집권 침해는 성립되+ㄹ 수 없다”고 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O
-울리슈틸리케(62·독일) 대표팀 감독은 11일 천안에서 펼쳐 지+ㄴ 캐나다와의 친선 경기 후반 21분 황희찬을 교체로 투입하였다 .	LOC-B O O O LOC-B O O ORG-B O O O O PER-B O O O
-‘힐링캠프’ 유준상, “이 방송은 유재석에게 바치는 방송”왜 .	O PER-B O O PER-B O O O
-특히 4대강 사업지 이+ㄴ 충남 공주보와 경북 상주보의 물을 인근 저수지에 보내기 위하+여747억원 규모의 도수로 (導水路) 공사를 올해 새로 시작하기로 +였다 .	O O O O LOC-B LOC-I LOC-B LOC-I O O O O MNY-B O O O O O O O O O
-이렇듯 삼성전자 호재가 있는 평택에 총 5705가구 미니신도시급 규모의 ‘자이’ 아파트가 들어서 +ㄴ다 .	O ORG-B O O LOC-B O O O O O O O O O
+재계 에선 이 부회장 이 추후 삼성전자 이사회 의장 은 맡 되 대표 이사 ( CEO ) 는 맡 지 않 을 것 이 란 추측 도 나온다 .	O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+인도 최대 기업 중 하나 인 릴 라이언스 인더스트리 ( Reliance Industries ) 의 무 케시 암 바니 회장 은 “ 다수 종업원 을 대상 으로 양질 의 교육 을 전파하 는 가장 효율적 인 수단 은 바로 기술 ” 이라고 말 했 다 .	LOC-B O O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I O O PER-B PER-I PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2016 코파 아메리카 와 유로 2016 우승 국 간 의 대결 성사 여부 는 불투명하 다 .	DAT-B O O O O DAT-B O O O O O O O O O O O
+하지만 두 달 후 인 8 월 에 롯데홀딩스 최대 지분 ( 28.1 % ) 을 가진 광윤사 대표이사 에 오르 고 , 아버지 신격호 총괄 회장 이 “ 후계자 는 신동주 ” 라고 말하 는 위임 메시지 동영상 을 공개하 는 등 이번 주총 을 준비해 왔 다 .	O O O O O DAT-B DAT-I O ORG-B O O O O O O O O ORG-B O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+말레이시아 는 협상 을 통해 출국 금지 자 들 을 맞교환한 후 북한 과 외교 를 단절하 려 했 다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O
+경찰 은 오후 1 시 수색견 을 동원 했 고 군 특공대 도 투입 시 켰 다 .	O O TIM-B TIM-I TIM-I O O O O O ORG-B ORG-I O O O O O O
+인천시 는 14 , 15 일 100 년 전 근대 건축물 이 몰려 있 는 중 구 인천 아트 플랫폼 일대 에서 ‘ 개항장 문화 지구 근대 거리 페스티벌 ’ 을 연다 .	ORG-B O DAT-B O DAT-B DAT-I O O O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O
+보고서 는 “ 북한 당국 은 생존 조건 이 잔혹하 고 수용자 들 에게 강제 노동 을 시키 며 살 아 나올 것 으로 기대할 수 없 는 정치범 수용소 를 운영하 고 있 다 ” 고 지적 했 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+본보기 집 은 태전동 산 4 - 1 번지 에 마련돼 있 다 .	O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O
+이후 7 월 한국 과 함께 중국 동영상 사이트 에서 동시 공개하 기 위해 지난달 30 일 현지 방송 담당 정책 부서 인 국가 신문 출판 광전 총국 에 10 회 분 의 제작 완료 분 을 전달 했 다 .	O DAT-B DAT-I LOC-B O O LOC-B O O O O O O O O DAT-B DAT-I O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O
+발행인 인 성낙인 총장 등 으로 구성된 운영 위원회 는 “ 사칙 상 편집권 이 누구 에게 도 귀속돼 있 지 않 아 편집권 침해 는 성립될 수 없 다 ” 고 밝 혔 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+울리 슈틸리케 ( 62 · 독일 ) 대표 팀 감독 은 11 일 천안 에서 펼쳐진 캐나다 와 의 친선 경기 후반 21 분 황희찬 을 교체 로 투입 했 다 .	PER-B PER-I O O O LOC-B O O O O O DAT-B DAT-I LOC-B O O ORG-B O O O O TIM-B TIM-I TIM-I PER-B O O O O O O O
+‘ 힐링 캠프 ’ 유준상 , “ 이 방송 은 유재석 에게 바치 는 방송 ” 왜 ?	O O O O PER-B O O O O O PER-B O O O O O O O
+특히 4 대 강 사업 지 인 충남 공주 보 와 경북 상 주보 의 물 을 인근 저수지 에 보내 기 위해 747 억 원 규모 의 도수로 ( 導水路 ) 공사 를 올해 새로 시작하 기 로 했 다 .	O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O
+이렇 듯 삼성전자 호재 가 있 는 평택 에 총 5705 가구 미니 신도시 급 규모 의 ‘ 자이 ’ 아파트 가 들어선다 .	O O ORG-B O O O O LOC-B O O O O O O O O O O O O O O O O

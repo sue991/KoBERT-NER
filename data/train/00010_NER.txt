@@ -1,14 +1,14 @@
-살로몬 아웃도어, XAPRO 3D 한정판 출 .	ORG-B ORG-I O O O O O
-세상에는 최순실처럼 사기성이 농후 하+ㄴ사람이 없지 않지만 활개를 치고 살기 +ㄴ 힘들다 .	O PER-B O O O O O O O O O O O
-JTBC ‘썰전’에서는 박근혜 대통령의 광복절 경축사 논란과 전기요금 누진제 등에 대하+여이야기 하+ㄴ다 .	O O PER-B O O O O O O O O O O
-빈지노, 스테파니 미초바와 열애… “공공연 하+ㄴ 사실 .	PER-B PER-B PER-I O O O O O
-정부는 올해 12월 31일까지만 가습기 살균제 관련 피해신고를 받겠다고 밝히었다 .	ORG-B O O O O O O O O O O
-이 기술의 우수성으로 이 회사는 130개국에서 1400여개 제품이 출품되+ㄴ 세계 양봉대회 ‘WBA 아피몬디아 콘테스트’의 프로폴리스 부문에서 그랑프리 금상을 수상하였다 .	O O O O O O O O O O O O O O O O O O O O
-레이디스코드 ‘아프아 도 웃을래’ 발표, 타히티 아리 “장례식장서 어머니가…” 과거 발언 재조명 그룹 레이디스코드가 1년 만에 신곡 ‘아프아 도 웃을래’를 발표하며 전 멤버+이었던 고(故)은 비와 권리세를 추모하였다 .	PER-B O O O O ORG-B PER-B O O O O O O PER-B O O O O O O O O O O O PER-B O O
-1871년 미국은 제너럴셔먼 호 사건을 구실로 통상을 요구하+여+오았다 .	O ORG-B O O O O O O O
-그 중에서도 현재 분양홍보관을 오픈 중 이+ㄴ 두산더랜드파크(가칭)가 마곡 최고의 최적의 입지로 주목받고 있다 .	O O O O O O O ORG-B LOC-B O O O O O O
-1996년 설립하+ㄴ익스피디 알는 마이크로소프트 사내 온라인 여행 서비스 조직으로 시작하+여독립 하+ㄴ 회사로 현재 전 세계 30개국에서 공식 웹사이트를 운영하고 있다 .	O ORG-B ORG-I ORG-B O O O O O O O O O O O O O O O O O
-두산 김태형 감독은 3일 안규영과 4일 이현호를 선발로 예고하였고, 8일 LG전에 ‘판타스틱4’라 불리는 더스틴 니퍼트와 마이클 보우덴~장원준~유희관, 4명의 선발 투수를 모두 투입하겠다고 공언하였다 .	ORG-B PER-B O O PER-B ORG-I PER-B O O O ORG-B ORG-B O PER-B PER-I PER-B PER-B ORG-I O O O O O O
-솔로곡으로 산울림의 ‘회상’을 부르면서 가면을 벗은 얼음 공주 조혜련은 눈물을 흘리며 곡을 열창하+여보는 이들의 마음을 감동시키었다 .	O ORG-B O O O O PER-B PER-I PER-B O O O O O O O O
-슈퍼리그 우승팀이+ㄴ 광저우에 버그란데는 2013년과 2015년 ACL 정상에 오르+ㄴ 중국 최강의 팀이다 .	O O ORG-B ORG-I O O ORG-B O O ORG-B O O O
-로이터 박사는 ‘순환경제4.0’의 또 다른 대표주자로 핀란드의 아우토테크를 들었다 .	PER-B O O O O O ORG-B ORG-B O O
+살로몬 아웃도어 , XA PRO 3 D 한정판 출시	ORG-B ORG-I O O O O O O O
+세상 에 는 최순실 처럼 사기 성 이 농후한 사람 이 없 지 않 지만 활개 를 치 고 살 긴 힘들 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O O
+JTBC ‘ 썰 전 ’ 에서 는 박근혜 대통령 의 광복절 경축사 논란 과 전기 요금 누진제 등 에 대해 이야기한다 .	O O O O O O O PER-B O O DAT-B O O O O O O O O O O O
+빈지 노 , 스테파니 미초 바 와 열애 … “ 공공연한 사실 ”	PER-B PER-I O PER-B PER-I PER-I O O O O O O O
+정부 는 올해 12 월 31 일 까지 만 가습기 살균제 관련 피해 신고 를 받 겠 다고 밝 혔 다 .	ORG-B O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O
+이 기술 의 우수성 으로 이 회사 는 130 개국 에서 1400 여 개 제품 이 출품된 세계 양봉 대회 ‘ WBA 아피몬디 아 콘테스트 ’ 의 프로 폴리스 부문 에서 그랑프리 금상 을 수상 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+레이디스 코드 ‘ 아 파도 웃 을래 ’ 발표 , 타히티 아리 “ 장례식장 서 어머니 가 … ” 과거 발언 재조명 그룹 레이디스 코드 가 1 년 만 에 신곡 ‘ 아 파도 웃 을래 ’ 를 발표하 며 전 멤버 였 던 고 ( 故 ) 은비 와 권리 세 를 추모 했 다 .	ORG-B ORG-I O O O O O O O O ORG-B PER-B O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B PER-I O O O O O
+1871 년 미국 은 제너럴셔먼호 사건 을 구실 로 통상 을 요구해 왔 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O
+그중 에서 도 현재 분양 홍보 관 을 오픈 중 인 두산 더 랜드 파크 ( 가칭 ) 가 마곡 최고 의 최적 의 입지 로 주목 받 고 있 다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O LOC-B O O O O O O O O O O O O
+1996 년 설립한 익 스피디 아 는 마이크로소프트 사내 온라인 여행 서비스 조직 으로 시작해 독립 한 회사 로 현재 전 세계 30 개국 에서 공식 웹 사이트 를 운영하 고 있 다 .	DAT-B DAT-I O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+두산 김태형 감독 은 3 일 안규영 과 4 일 이현호 를 선발 로 예고 했 고 , 8 일 LG 전 에 ‘ 판타스틱 4 ’ 라 불리 는 더스틴 니퍼트 와 마이클 보우 덴 ~ 장원준 ~ 유희관 , 4 명 의 선발 투수 를 모두 투입하 겠 다고 공언 했 다 .	ORG-B PER-B O O DAT-B DAT-I PER-B O DAT-B DAT-I PER-B O O O O O O O DAT-B DAT-I ORG-B ORG-I O O ORG-B ORG-I O O O O PER-B PER-I O PER-B PER-I PER-I O PER-B O PER-B O O O O O O O O O O O O O O O
+솔로 곡 으로 산울림 의 ‘ 회상 ’ 을 부르 면서 가면 을 벗 은 얼음 공주 조혜련 은 눈물 을 흘리 며 곡 을 열창해 보 는 이 들 의 마음 을 감동 시 켰 다 .	O O O ORG-B O O O O O O O O O O O PER-B PER-I PER-B O O O O O O O O O O O O O O O O O O O O
+슈퍼 리그 우승 팀 인 광저우 에버 그란데 는 2013 년 과 2015 년 ACL 정상 에 오른 중국 최강 의 팀 이 다 .	O O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O DAT-B DAT-I ORG-B O O O ORG-B O O O O O O
+로이터 박사 는 ‘ 순환 경제 4.0 ’ 의 또 다른 대표 주자 로 핀란드 의 아우토 테크 를 들 었 다 .	PER-B O O O O O O O O O O O O O ORG-B O ORG-B ORG-I O O O O O

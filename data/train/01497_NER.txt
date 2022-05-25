@@ -1,15 +1,15 @@
-늘어나는 관광객 수에 비하+여 제주나 +의 숙박시설은 부족하+ㄴ 실정이다 .	O O O O LOC-B O O O O O
-서성건 변호사(56·17기) 손범규 변호사(50·28기) 채명성 변호사(38·36기) 등 4명이 선임계를 내+었고 전직 헌법재판관 등 중량감 있는 인사도 참여하+ㄹ 예정이다 .	PER-B O PER-B O PER-B O O O O O O O O O O O O O O
-새정치민주연합이 ‘트리플 딜레마’에 빠지+어 있다 .	ORG-B O O O O O
-금강제화는 1일 서울 중구 명동 본점에서 ‘로얄 에디션’ 등 신제품 출시를 기념하는 행사를 가지었다 .	ORG-B O LOC-B LOC-B LOC-B O O O O O O O O O O
-그 중에서도 터키와 아이슬란드는 국정교과서와 민간 발행 교과서를 혼용하고 있다 .	O O LOC-B LOC-B O O O O O O O
-광복 이후 70년간 한국의 소비자물가는 급격하+ㄴ 변동을 겪었다 .	O O O ORG-B O O O O O
-앞서 중앙일보가 지난해 초 진행 하+ㄴ ‘올해의 차’(CarofTheYear)에서도 같은 차량을 수상작으로 뽑았다. 최근에 +ㄴ 친환경 자동차의 관심이 높아지는 흐름을 감안하+여2006년부터 ‘올해의 친환경차(GreenCaroftheYear)’ 시상도 등장하였다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-나렌드라 모디 인도 총리(사진)가 12일 사흘간 이어지는 영국 국빈 방문 일정을 시작하였다 .	PER-B PER-I LOC-B O O O O LOC-B O O O O O
-낮 12시30분부터 시작되+ㄴ이 날 행사에는 어린이 환우 70명과 가족들이 참가하+여 즐겁ㄴ시간을 보내+었다 .	TIM-B TIM-I TIM-I O O O O O O O O O O
-국내에도 소개되+ㄴ ‘호밀 빵 햄 샌드위치’에서도 작가의 이런 철학을 엿보+ㄹ 수 있다 .	O O O O O O O O O O O O O
-부디 박 대통령이 일본의 경험을 살펴보았으면 하+ㄴ다 .	O PER-B O ORG-B O O O O
-이로서 메시는 4경기 연속 골을 성공시키었다 .	O PER-B O O O O O
-초대형 럭셔리 세단 『EQ900』 출 .	O O O O O O
-NC나 성범이 투수와 타자 양쪽에 재능을 가지고 있지만 김경문 감독은 타자로 전념하기를 원하였습니다 .	ORG-B O O O O O O O PER-B O O O O O
-미 연방수사국(FBI)은 “해킹되+ㄴ 내용에 기밀정보는 없다”며 진화에 나서 +었다 .	ORG-B ORG-B O O O O O O O O
+늘어나 는 관광객 수 에 비해 제주 내 숙박 시설 은 부족한 실정 이 다 .	O O O O O O LOC-B O O O O O O O O O
+서성건 변호사 ( 56 · 17 기 ) 손범규 변호사 ( 50 · 28 기 ) 채명성 변호사 ( 38 · 36 기 ) 등 4 명 이 선임 계 를 냈 고 전직 헌법 재판관 등 중량감 있 는 인사 도 참여할 예정 이 다 .	PER-B O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+새정치민주연합 이 ‘ 트리플 딜레마 ’ 에 빠져 있 다 .	ORG-B O O O O O O O O O O
+금강제화 는 1 일 서울 중 구 명동 본점 에서 ‘ 로얄 에디션 ’ 등 신제품 출시 를 기념하 는 행사 를 가 졌 다 .	ORG-B O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-B O O O O O O O O O O O O O O O O O O
+그중 에서 도 터키 와 아이슬란드 는 국정 교과서 와 민간 발행 교과서 를 혼용하 고 있 다 .	O O O LOC-B O LOC-B O O O O O O O O O O O O O
+광복 이후 70 년 간 한국 의 소비자 물가 는 급격한 변동 을 겪 었 다 .	DAT-B O O O O ORG-B O O O O O O O O O O O
+앞서 중앙일보 가 지난해 초 진행한 ‘ 올해 의 차 ’ ( Car of The Year ) 에서 도 같 은 차량 을 수상 작 으로 뽑 았 다 . 최근 엔 친환경 자동차 의 관심 이 높아지 는 흐름 을 감안해 2006 년 부터 ‘ 올해 의 친환경 차 ( Green Car of the Year ) ’ 시상 도 등장 했 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+나렌드라 모디 인도 총리 ( 사진 ) 가 12 일 사흘 간 이어지 는 영국 국빈 방문 일정 을 시작 했 다 .	PER-B PER-I LOC-B O O O O O DAT-B DAT-I O O O O LOC-B O O O O O O O O
+낮 12 시 30 분 부터 시작된 이날 행사 에 는 어린이 환우 70 명 과 가족 들 이 참가해 즐거 운 시간 을 보냈 다 .	TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O
+국내 에 도 소개된 ‘ 호 밀 빵 햄 샌드위치 ’ 에서 도 작가 의 이런 철학 을 엿볼 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+부디 박 대통령 이 일본 의 경험 을 살펴 봤 으면 한다 .	O PER-B O O ORG-B O O O O O O O O
+이 로서 메시 는 4 경기 연속 골 을 성공 시 켰 다 .	O O PER-B O O O O O O O O O O O
+초대형 럭셔리 세단 『 EQ 900 』 출시	O O O O O O O O
+NC 나성범 이 투수 와 타자 양 쪽 에 재능 을 가지 고 있 지만 김경문 감독 은 타자 로 전념하 기 를 원 했 습니다 .	ORG-B PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O
+미 연방 수사 국 ( FBI ) 은 “ 해킹 된 내용 에 기밀 정보 는 없 다 ” 며 진화 에 나섰 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O

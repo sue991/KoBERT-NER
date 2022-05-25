@@ -1,11 +1,11 @@
-이준석 “사람들이 정훈이 형보다 수학 못하+ㄹ까 걱정” ‘학교 다녀오겠습니다’에 출연하+ㄴ이준석이 SAT 성적을 공개하였다 .	PER-B O PER-B O O O O O O PER-B O O O O
-20일 방송되+ㄴ JTBC ‘학교 다녀오겠습니다’에서는 청심국제고등학교로 전학 간 김정훈, 이준석, 후지이미나, 샘 해밍턴, 예은, 강남, 혜이니가 이야기를 꾸미었다 .	O O ORG-B O O ORG-B O O PER-B PER-B PER-B PER-B PER-I PER-B PER-B PER-B O O O
-이날 출연자들은 하버드 경제학과 출신 이준석이 등장하자 깜짝 놀라 +았다 .	O O ORG-B ORG-I O PER-B O O O O O
-한편 허각은 지나 +ㄴ 17일 신곡 '사월의 눈'을 발표하고 본격적 이+ㄴ 방송 활동에 나서 +었다 .	O PER-B O O O O O O O O O O O O O O
-또 이번에 +ㄴ 고속도로 진입 구간이+ㄴ 강남고속버스터미널∼반포 IC, 남부시외버스터미널∼서초IC 등에 버스전용 차선제를 추가 하+ㄹ 예정이어서 버스와 자가용 승용차 간의 운행시간은 크+ㄴ 차이를 보이+ㄹ 전망이다 .	O O O O O O LOC-B LOC-I LOC-B O O O O O O O O O O O O O O O O
-최순실 국정농단 사태를 다루는 북한 관영 매체의 입이 거칠어지고 있습니다 .	PER-B O O O ORG-B O O O O O O
-올해에+ㄴ 환경부로부터 녹색기술인증도 받았다 .	O ORG-B O O O
-지나+ㄴ 주 열리+ㄴ 준결승에서 문성원(26·팀에이서)을 꺾고 결승 무대에 선착하+ㄴ원이삭(20·yFW)과 18일 열리+ㄹ 예정이+ㄴ 준결승의 승자가 맞붙는다 .	O O O O ORG-B O O O ORG-B O O O O O O O
-36.9%는 ‘환율 변동보험’, 25.0%는 ‘선물환(先物換·미래 시점에 이루어 지+ㄹ 계약환율을 미리 정하+ 여두는 것)’으로 위험에 대응하고 있다고 답하였다 .	O O O O O O O O O O O O O O O O O O
-더불어민주당과 새누리당, 국민의당, 바른정당 등 여야 4당 원내대표와 원내수석부대표는 7일 만찬 회동을 갖고 경제활성화법과 18세 선거권 등에 대하+여 논의하였지만 합의점을 찾지는 못하였다 .	ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O
-이관희가 잘못하였지만, 이정현이 상대를 자극하는 플레이를 하+ㄴ 측면도 있다 .	PER-B O PER-B O O O O O O O
+이준석 “ 사람 들 이 정훈이 형 보다 수학 못할까 걱정 ” ‘ 학교 다녀오 겠 습니다 ’ 에 출연한 이준석 이 SAT 성적 을 공개 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O PER-B O O O O O O O O
+20 일 방송된 JTBC ‘ 학교 다녀오 겠 습니다 ’ 에서 는 청심 국제 고등학교 로 전학 간 김정훈 , 이준석 , 후지이 미나 , 샘 해 밍 턴 , 예 은 , 강남 , 혜 이니 가 이야기 를 꾸 몄 다 .	DAT-B DAT-I O ORG-B O O O O O O O O ORG-B ORG-I ORG-I O O O PER-B O PER-B O PER-B PER-I O PER-B PER-I PER-I PER-I O PER-B PER-I O PER-B O PER-B PER-I O O O O O O O
+이날 출연자 들 은 하버드 경제학 과 출신 이준석 이 등장하 자 깜짝 놀랐 다 .	O O O O ORG-B ORG-I ORG-I O PER-B O O O O O O O
+한편 허각 은 지난 17 일 신곡 ' 사월 의 눈 ' 을 발표하 고 본격적 인 방송 활동 에 나섰 다 .	O PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+또 이번 엔 고속도로 진입 구간 인 강남 고속버스 터미널 ∼ 반포 IC , 남부시외버스터미널 ∼ 서초 IC 등 에 버스 전용 차선 제 를 추가할 예정 이 어서 버스 와 자가용 승용차 간 의 운행 시간 은 큰 차이 를 보일 전망 이 다 .	O O O O O O O LOC-B LOC-I LOC-I O LOC-B LOC-I O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최순실 국정 농단 사태 를 다루 는 북한 관영 매체 의 입 이 거칠어지 고 있 습니다 .	PER-B O O O O O O ORG-B O O O O O O O O O O
+올해 엔 환경부 로부터 녹색 기술 인증 도 받 았 다 .	O O ORG-B O O O O O O O O O
+지난 주 열린 준결승 에서 문성원 ( 26 · 팀 에이서 ) 을 꺾 고 결승 무대 에 선착한 원 이삭 ( 20 · yFW ) 과 18 일 열릴 예정 인 준결승 의 승자 가 맞붙 는다 .	O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O PER-B PER-I O DAT-B O ORG-B O O DAT-B DAT-I O O O O O O O O O O
+36.9 % 는 ‘ 환율 변동 보험 ’ , 25.0 % 는 ‘ 선물환 ( 先物換 · 미래 시점 에 이뤄질 계약 환율 을 미리 정해 두 는 것 ) ’ 으로 위험 에 대응하 고 있 다고 답 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+더불 어 민주당 과 새누리당 , 국민 의당 , 바른 정당 등 여야 4 당 원내 대표 와 원내 수석 부 대표 는 7 일 만찬 회동 을 갖 고 경제 활성화 법 과 18 세 선거권 등 에 대해 논의 했 지만 합의점 을 찾 지 는 못 했 다 .	ORG-B ORG-I ORG-I O ORG-B O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이관희 가 잘못 했 지만 , 이정현 이 상대 를 자극하 는 플레이 를 한 측면 도 있 다 .	PER-B O O O O O PER-B O O O O O O O O O O O O O

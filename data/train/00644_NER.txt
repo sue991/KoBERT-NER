@@ -1,12 +1,12 @@
-폴크스바겐파이낸셜 서비스코리아가 BNP파리바 카디프생명보험과 함께 고객의 예기하지 못하+ㄴ 사고 발생 시 할부금 잔액을 대신 상환 하+여주는 ‘세이프 플랜’ 서비스를 출시하고, 이를 기념 하+여 7월 한 달간 특별 무이자 할부 프로모션을 실시하+ㄴ다고 13일 밝히었다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-만약 경제가 죽어가고 있다면 문민정부의 존재 이유도, 개혁과 변화도, 개방화 및 세계화도별 의미를 지니 +ㄹ 수 없기 때문이다 .	O O O O ORG-B O O O O O O O O O O O O O O
-매티스 장관은 이날 오후 황교안 대통령 권한대행을 만나 +아“주한미군의 사드 배치는 계획대로 추진하+여나가 +ㄹ 것”이라고 말하였다 .	PER-B O O O PER-B O O O ORG-B O O O O O O O O
-10개 구단 가운데 외국인 선수를 뽑기 위 하+여가장 많은 돈을 쓰+ㄴ 곳은 한화다 .	O O O O O O O O O O O O ORG-B O
-박진영은 평소 배용준과 절친하+ㄴ 사이로 이날 결혼식 축가를 맡았다 .	PER-B O PER-B O O O O O O O
-안재현은 “응, 여보 춥ㄹ까보+아”+이라 답하였다 .	PER-B O O O O O
-또 안재현의 양치제안에 구혜선은 “싫어, 언제부터 양치하였다고.이 보이어보라.내가 봐주겠다”고 말 하+ㄴ 뒤, 안재현의 치아 상태를 확인하였고 “많이 +었네”라고 너스레를 떨어 시청자들에게 웃음을 안기었다 .	O PER-B PER-B PER-B O O O O O O O O PER-B O O O O O O O O O PER-B O
-안재현과 함께 화장실로 가면서도 구혜선은 “싫어, 나양치안 하+ㄹ 것+이야. 양치하면 못 먹잖아”라고 말 하+여 폭 소하게 +였다 .	PER-B O O O PER-B O PER-B O O O O O O O O O O O
-천안시도 지나 +ㄴ 19일 홈페이지를 통하+여 ‘고속도로 조기 건설을 촉구하는 1만명 서명운동’을 시작하였다 .	ORG-B O O O O O O O O O O O O O
-문병인이 대목동병원 유방암·갑상선암센터 .	PER-B O O O
-두 달 전 CCTV에 찍히+ㄴ 것+ㄴ 다른 집 아이이었지만, 국회에서 무시당 하+ㄴ 것 +ㄴ나와나 +의 아이기 때문이다 .	O O O ORG-B O O O O O O O O O O O O O O
-더욱이 실내 식물은 새집증후군을 일으키는 휘발성 유기물질과 미세먼지를 잡는다 .	O O O O O O O O O O
+폴크스바겐 파이낸셜 서비스 코리아 가 BNP 파리바 카디프 생명 보험 과 함께 고객 의 예기 치 못한 사고 발생 시 할부금 잔액 을 대신 상환해 주 는 ‘ 세이프 플랜 ’ 서비스 를 출시하 고 , 이 를 기념해 7 월 한 달 간 특별 무이자 할부 프로모션 을 실시한다고 13 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O DAT-B DAT-I O O O O
+만약 경제 가 죽 어 가 고 있 다면 문민정부 의 존재 이유 도 , 개혁 과 변화 도 , 개방화 및 세계화 도 별 의미 를 지닐 수 없 기 때문 이 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+매 티스 장관 은 이날 오후 황교안 대통령 권한 대행 을 만나 “ 주한 미군 의 사드 배치 는 계획 대로 추진해 나갈 것 ” 이라고 말 했 다 .	PER-B PER-I O O O O PER-B O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+10 개 구단 가운데 외국인 선수 를 뽑 기 위해 가장 많 은 돈 을 쓴 곳 은 한화 다 .	O O O O O O O O O O O O O O O O O O ORG-B O O
+박진영 은 평소 배용준 과 절친한 사이 로 이날 결혼식 축가 를 맡 았 다 .	PER-B O O PER-B O O O O O O O O O O O O
+안 재현 은 “ 응 , 여보 추 울까 봐 ” 라 답 했 다 .	PER-B PER-I O O O O O O O O O O O O O O
+또 안 재현 의 양치 제안 에 구혜선 은 “ 싫 어 , 언제 부터 양치 했 다고 . 이 보 여 보 라 . 내 가 봐주 겠 다 ” 고 말한 뒤 , 안 재현 의 치아 상태 를 확인 했 고 “ 많이 꼈 네 ” 라고 너스레 를 떨 어 시청자 들 에게 웃음 을 안 겼 다 .	O PER-B PER-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+안 재현 과 함께 화장실 로 가 면서 도 구혜선 은 “ 싫 어 , 나 양치 안 할 거 야 . 양치하 면 못 먹 잖아 ” 라고 말해 폭소 케 했 다 .	PER-B PER-I O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+천안시 도 지난 19 일 홈페이지 를 통해 ‘ 고속도로 조기 건설 을 촉구하 는 1 만 명 서명 운동 ’ 을 시작 했 다 .	ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+문병인 이대목동병원 유방암 · 갑상선암 센터 장	PER-B ORG-B O O O O O
+두 달 전 CCTV 에 찍힌 건 다른 집 아 이 였 지만 , 국회 에서 무시 당한 건 나 와 내 아이 기 때문 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+더욱이 실내 식물 은 새집 증후군 을 일으키 는 휘발성 유기 물질 과 미세 먼지 를 잡 는다 .	O O O O O O O O O O O O O O O O O O O

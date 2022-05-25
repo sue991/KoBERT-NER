@@ -1,14 +1,14 @@
-세율은 증여가액에서 5억원을 공제하+ㄴ 액수에 대하+여 10%로 적용되 +ㄴ다 .	O O MNY-B O O O O O O O
-청와대는 앞으로 개헌 논의를 주도하+여나가겠다는 뜻도 밝히었다 .	ORG-B O O O O O O O
-이에 앞서 +어여야가 합의하였던 국회 규칙안에는 2일 실무기구 합의문이 첨부되+어 있었지만 새 합의에는 첨부되지 않는다 .	O O O O O O O O O O O O O O O O
-전체 공격 성공률도 57%를 마크 하+여수치만 따지자면 공격 성공률 56%, 속공 점유율 8%의 현대캐피탈을 압도하였지만 경기는 완패+이었다 .	O O O O O O O O O O O O O ORG-B O O O O
-타격에 전념 하+ㄹ 수 있는 포지션의 특성상 3루수로 바꾸+ㄹ이유가 없어 보이+ㄴ다 .	O O O O O O O O O O O O
-새누리 “2014년 만들 +ㄴ상설특검 활용”민주“MB사저 때처럼 별도 특검을 .	O O O O ORG-B O O O O
-하지만 이종현은 코트가 아니+ㄴ스탠드로 올라가 +아경기를 지켜보았다 .	O PER-B O O O O O O
-‘라디오 스타’ 박나래“양세찬, 나+의 맘 알고 ‘나한테 고백하지 말+아’ 하더라” 개그우먼 박나래가 ‘라디오 스타’에서 과거 개그맨 양세찬을 짝사랑하였던 과거를 털어놓았다 .	O O PER-B O O O O O O O O PER-B O O O O PER-B O O O O
-23일 오후 방송 하+ㄴ MBC 예능 프로그램 ‘라디오 스타’에는 오세득 셰프, 개그맨 윤정수, 박나래, 작곡가 유재환이 게스트로 출연하+여 ‘입담 베테랑 특집’을 꾸미었다 .	O O O O ORG-B O O O O PER-B O O PER-B PER-B O PER-B O O O O O O O
-이날 ‘라디오 스타’에서 박나래는 “양세찬이나 보다 한 살 어리+ㄴ 친구 이+ㄴ 데 너무 괜찮고 어른스럽더라”며 후배 개그맨 양세찬을 언급하였다 .	O O O PER-B PER-B O O O O O O O O O O O O PER-B O O
-박나래는 “(양세찬을 향하+ㄴ) 마음을 숨기었다고 생각하었는데 그것+이 안 숨기+어지더라.술만 마시면 그렇게 연락을 +였다”며 “양세찬도 말은 안+였는데 나+의 마음을 알고 있었다”고 털어놓았다 .	PER-B PER-B O O O O O O O O O O O PER-B O O O O O O O O
-박나래는 이어 “고백을 하기로 결심하였는데 양세찬이 그것+ㄹ 느끼었는지 ‘나한테 고백하지 말+아’라고 하더라.‘고백하면 후회하+ㄹ거+이야. 우리 사이가 이상 하+여지+ㄴ다’고 +였다”고 말하였다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O
-박나래는 또 “동료 개그우먼 김지민이 양세찬과 통화 중 ‘나래하고 무슨 일 있었냐’고 묻었는데 양세찬이 ‘더 이상 엮지 말라.박나래 있으면 안 가+ㄹ게’라고 하더라”고 전하였다 .	PER-B O O O PER-B PER-B O O O O O O O PER-B O O O PER-B O O O O O O
-한편, 이날 방송에서 또 김상혁은 자신의 10년 전 실수 이후 자신을 믿어주지 않는 가족들에 대하+ㄴ서운하+ㄴ 마음도 고백하였다 .	O O O O PER-B O O O O O O O O O O O O O
+세율 은 증여 가액 에서 5 억 원 을 공제한 액수 에 대해 10 % 로 적용된다 .	O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+청와대 는 앞 으로 개헌 논의 를 주도해 나가 겠 다는 뜻 도 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O
+이 에 앞서 여야 가 합의 했 던 국회 규칙 안 에 는 2 일 실무 기구 합의 문 이 첨부돼 있 었 지만 새 합의 에 는 첨부되 지 않 는다 .	O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+전체 공격 성공률 도 57 % 를 마크해 수치 만 따지 자면 공격 성공률 56 % , 속공 점유율 8 % 의 현대캐피탈 을 압도 했 지만 경기 는 완패 였 다 .	O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+타격 에 전념할 수 있 는 포지션 의 특성 상 3 루수 로 바꿀 이유 가 없 어 보인다 .	O O O O O O O O O O O O O O O O O O O O
+새누리 “ 2014 년 만든 상설 특검 활용 ” 민주 “ MB 사저 때 처럼 별도 특검 을 ”	O O DAT-B DAT-I O O O O O ORG-B O PER-B O O O O O O O
+하지만 이종현 은 코트 가 아닌 스탠드 로 올라가 경기 를 지켜 봤 다 .	O PER-B O O O O O O O O O O O O O
+‘ 라디오스타 ’ 박나래 “ 양세찬 , 내 맘 알 고 ‘ 나 한테 고백하 지 마 ’ 하 더라 ” 개그우먼 박나래 가 ‘ 라디오스타 ’ 에서 과거 개그맨 양세찬 을 짝사랑 했 던 과거 를 털어 놨 다 .	O O O PER-B O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O
+23 일 오후 방송한 MBC 예능 프로그램 ‘ 라디오스타 ’ 에 는 오세득 셰프 , 개그맨 윤정수 , 박나래 , 작곡가 유재환 이 게스트 로 출연해 ‘ 입담 베테랑 특집 ’ 을 꾸 몄 다 .	DAT-B DAT-I TIM-B O ORG-B O O O O O O O PER-B O O O PER-B O PER-B O O PER-B O O O O O O O O O O O O O O
+이날 ‘ 라디오스타 ’ 에서 박나래 는 “ 양세찬 이 나 보다 한 살 어린 친구 인데 너무 괜찮 고 어른스럽 더라 ” 며 후배 개그맨 양세찬 을 언급 했 다 .	O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O
+박나래 는 “ ( 양세찬 을 향한 ) 마음 을 숨 겼 다고 생각 했 는데 그게 안 숨겨 지 더라 . 술 만 마시 면 그렇 게 연락 을 했 다 ” 며 “ 양세찬 도 말 은 안 했 는데 내 마음 을 알 고 있 었 다 ” 고 털어 놨 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O
+박나래 는 이어 “ 고백 을 하 기 로 결심 했 는데 양세찬 이 그걸 느 꼈 는지 ‘ 나 한테 고백하 지 마 ’ 라고 하 더라 . ‘ 고백하 면 후회할 거 야 . 우리 사이 가 이상해 진다 ’ 고 했 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박나래 는 또 “ 동료 개그우먼 김지민 이 양세찬 과 통화 중 ‘ 나래 하 고 무슨 일 있 었 냐 ’ 고 물 었 는데 양세찬 이 ‘ 더 이상 엮 지 말 라 . 박나래 있 으면 안 갈게 ’ 라고 하 더라 ” 고 전 했 다 .	PER-B O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O
+한편 , 이날 방송 에서 또 김상혁 은 자신 의 10 년 전 실수 이후 자신 을 믿 어 주 지 않 는 가족 들 에 대한 서운한 마음 도 고백 했 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

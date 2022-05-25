@@ -1,13 +1,13 @@
-트루디, 절친문수아와 대+어놓고 신경전…"뒤통수치는 것+이+ㄴ가 "트루디가 절친 문수아를 다음 트랙 미션 제외자로 지목하+여눈길을 끌고 있다 .	PER-B PER-B O O O PER-B O PER-B O O O O O O O O
-고교 시절 미국에서 아버지와 극적으로 상봉하였지만 우울하+ㅁ에서 벗어나지 못하+ㄴ그는 한상담교사를 만나 +아시와 예술에 눈을 +었다 .	O O LOC-B O O O O O O O O O O O O O
-'냉장고' 소유진, 냉장고의 '끝판왕' …집에 푸아그라도 있어?' 충격 .	O PER-B O O O O O O O
-보스니아 내 세르비아계 지도자라도 반카라지치는 18일 세르비아계는 북대서양조약기구(나토) 측이 정하+ㄴ사라예보 일원의 중화기 철수 시한보다 하루 이르+ㄴ 19일까지 모든 중화기를 철수시키+ㄹ 것이라고 밝히었다 .	LOC-B O ORG-B O O O ORG-B ORG-B O LOC-B O O O O O O O O O O O O O
-두 사람은 지난해 12월 결혼하였다 .	O O O O O O
-한편 조니 뎁의 아내 엠버 허드는 23일 이혼신청을 내 +었으며 가정폭력 혐의로 조니 뎁을 고소하기도 +였다 .	O PER-B PER-I O PER-B PER-I O O O O O O PER-B PER-I O O O
-이와 관련, 엠버 허드는 조니 뎁이 자신의 얼굴에 휴대전화를 던지고 뺨과 눈을 때리었다고 재판부에 증언 하+ㄴ 것으로 알려지었다 .	O O PER-B PER-I PER-B PER-I O O O O O O O O O O O O O
-평균 연봉은 3000만~4000만원으로 국내 대기업 수준이다 .	O O MNY-B O O O O
-선진화법에 +ㄴ 매년 11월 30일까지 여야가 예산안 심사를 마치지 못하면 그 다음날 본회의에 자동부의 하도록 되+어 있다 .	O O O O O O O O O O O O O O O O O O
-이어 “피아니스트로서 어떠 하+ㄴ이유로든 무대 위에서 100점짜리 공연을 하지 못하였으면 어떠 하+ㄴ 해석도 허황되 +ㄴ 것이라는 것”이라며 “여러분의 가르침에 감사의 뜻을 전하+ㄴ다”고 덧붙이었다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-이준기 ‘밤선비’ 촬영 중 코뼈 골절, 10일 수 .	PER-B O O O O O O O O
-그렇 +ㅁ에 도 내년 2월 물러나겠다고 밝히+ㄴ허 회장은 쇄신안을 마련하고 새 회장도 물색하겠다고 하+ㄴ다 .	O O O O O O PER-B O O O O O O O O
-한국의 대표적 이+ㄴ힙합 아티스트 42인이 2권에 걸치+어진 솔 하+ㄴ 이야기를 들려 주+ㄴ다 .	LOC-B O O O O O O O O O O O O
+트루디 , 절친 문수아 와 대 놓 고 신경전 … " 뒤통수 치 는 건가 " 트루디 가 절친 문수아 를 다음 트랙 미션 제외 자 로 지목해 눈길 을 끌 고 있 다 .	PER-B O O PER-B O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O
+고교 시절 미국 에서 아버지 와 극적 으로 상봉 했 지만 우울함 에서 벗어나 지 못한 그 는 한 상담 교사 를 만나 시 와 예술 에 눈 을 떴 다 .	O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 냉장고 ' 소유진 , 냉장고 의 ' 끝판 왕 ' … 집 에 푸아그라 도 있 어 ? ' 충격 '	O O O PER-B O O O O O O O O O O O O O O O O O O
+보스니아 내 세르비아 계 지도자 라도반 카라지치 는 18 일 세르비아 계 는 북대서양조약기구 ( 나토 ) 측 이 정한 사라예보 일원 의 중화기 철수 시한 보다 하루 이른 19 일 까지 모든 중화기 를 철수 시킬 것 이 라고 밝 혔 다 .	LOC-B O ORG-B O O PER-B PER-I O DAT-B DAT-I ORG-B O O ORG-B O ORG-B O O O O LOC-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+두 사람 은 지난해 12 월 결혼 했 다 .	O O O O DAT-B DAT-I O O O O
+한편 조니 뎁 의 아내 엠버 허드 는 23 일 이혼 신청 을 냈 으며 가정 폭력 혐의 로 조니 뎁 을 고소하 기 도 했 다 .	O PER-B PER-I O O PER-B PER-I O DAT-B DAT-I O O O O O O O O O PER-B PER-I O O O O O O O
+이 와 관련 , 엠버 허드 는 조니 뎁 이 자신 의 얼굴 에 휴대전화 를 던지 고 뺨 과 눈 을 때 렸 다고 재판부 에 증언한 것 으로 알려 졌 다 .	O O O O PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O
+평균 연봉 은 3000 만 ~ 4000 만 원 으로 국내 대기업 수준 이 다 .	O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O
+선진화 법 엔 매년 11 월 30 일 까지 여야 가 예산안 심사 를 마치 지 못하 면 그 다음 날 본회의 에 자동 부의하 도록 돼 있 다 .	O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 피아니스트 로서 어떠한 이유 로 든 무대 위 에서 100 점 짜리 공연 을 하 지 못 했 으면 어떠한 해석 도 허황된 것 이 라는 것 ” 이 라며 “ 여러분 의 가르침 에 감사 의 뜻 을 전한다 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이준기 ‘ 밤 선비 ’ 촬영 중 코뼈 골절 , 10 일 수술	PER-B O O O O O O O O O DAT-B DAT-I O
+그럼에도 내년 2 월 물러나 겠 다고 밝힌 허 회장 은 쇄신 안 을 마련하 고 새 회장 도 물색하 겠 다고 한다 .	O O DAT-B DAT-I O O O O PER-B O O O O O O O O O O O O O O O
+한국 의 대표적 인 힙합 아티스트 42 인 이 2 권 에 걸쳐 진솔한 이야기 를 들려준다 .	LOC-B O O O O O O O O O O O O O O O O O

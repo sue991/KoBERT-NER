@@ -1,10 +1,10 @@
-하지만 양쪽 탈구가 진행되면 엉거주춤 걷을 뿐 외형상 특별 하+ㄴ 이상이 없어 발견하기가 쉽지 않다 .	O O O O O O O O O O O O O O O O
-BMWi전시장은 1층에서 시작되+어 개방되+ㄴ 공간을 거치+어 2층의 BMWi8 프레젠테이션까지 이어지+ㄴ다 .	O O O O O O O O O O O
-이들이 권력형 부패사건을 파헤치는 ‘멕시코 리크스’ +이라는 독립언론단체에 참여하면서 허락 없이 회사로고를 노출하였다는 이유+이었다 .	O O O O ORG-B ORG-I O O O O O O O O O
-필자의 경우 웹툰을 1화부터 차례대로 독파하는 '정주행'을 하+ㄹ 때 상당히 유용하였다 .	O O O O O O O O O O O O
-신씨는 그때 현금 5000만원을 갖고 있었지만 파워보트는 시가 1억원 정도+이었다 .	PER-B O O MNY-B O O O O MNY-B O O
-박 E&M은 “본사는 송가연 선수의 파이터로서의 기량 향상을 위하+여 최선을 다하였다” .	PER-B ORG-B O PER-B O O O O O O O O
-조훈현의 스승 이+ㄴ 세고에겐 사쿠(瀨越憲作)는 조훈현이 빨리 두면서도 핵심을 잘 짚어내자 최고의 재능이라고 감탄하였다 .	PER-B O O PER-B PER-B PER-B O O O O O O O O O
-스파스토리 이+ㄴ 설악온천호텔은 A∼G타입까지 12타입으로 구성되어 있으며 그 중 E타입은 1억5000만원대이다 .	O O O O MNY-B O O O O O MNY-B O
-올레길 키오스크에 쓰이+ㄴ한 줄의 문장이 내내 입안에 맴돌+ㅂ니다 .	O O O O O O O O O
-GBU-43은 미군이 베트남전과 아프간전에서 쓰+ㄴ BLU-82(데이티커터)를 개량 하+여 화력을 40% 이상 늘리었다 .	O ORG-B O O O O O O O O O O O
+하지만 양쪽 탈구 가 진행되 면 엉거주춤 걸 을 뿐 외형 상 특별한 이상 이 없 어 발견하 기 가 쉽 지 않 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+BMW i 전시장 은 1 층 에서 시작돼 개방된 공간 을 거쳐 2 층 의 BMW i 8 프레젠테이션 까지 이어진다 .	O O O O O O O O O O O O O O O O O O O O O O
+이 들 이 권력 형 부패 사건 을 파헤치 는 ‘ 멕시코 리크 스 ’ 라는 독립 언론 단체 에 참여하 면서 허락 없이 회사 로고 를 노출 했 다는 이유 였 다 .	O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+필자 의 경우 웹 툰 을 1 화 부터 차례 대로 독파하 는 ' 정주행 ' 을 할 때 상당히 유용 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+신 씨 는 그때 현금 5000 만 원 을 갖 고 있 었 지만 파워 보트 는 시가 1 억 원 정도 였 다 .	PER-B O O O O MNY-B MNY-I MNY-I O O O O O O O O O O MNY-B MNY-I MNY-I O O O O
+박 E & M 은 “ 본사 는 송가 연 선수 의 파이터 로서 의 기량 향상 을 위해 최선 을 다 했 다 ” ,	PER-B ORG-B ORG-I ORG-I O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+조훈현 의 스승 인 세고 에 겐 사쿠 ( 瀨越憲作 ) 는 조훈현 이 빨리 두 면서 도 핵심 을 잘 짚 어 내 자 최고 의 재능 이라고 감탄 했 다 .	PER-B O O O PER-B PER-I PER-I PER-I O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O
+스파 스토리 인 설악 온천 호텔 은 A ∼ G 타입 까지 12 타입 으로 구성되 어 있 으며 그 중 E 타입 은 1 억 5000 만 원 대 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I O O O
+올레 길 키오스크 에 쓰인 한 줄 의 문장 이 내내 입 안 에 맴돕니다 .	O O O O O O O O O O O O O O O O
+GBU - 43 은 미군 이 베트남 전 과 아프간 전 에서 쓴 BLU - 82 ( 데이 티 커터 ) 를 개량해 화력 을 40 % 이상 늘 렸 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

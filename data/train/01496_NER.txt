@@ -1,11 +1,11 @@
-자연스럽게 이듬해 출전 경기 수가 90경기로 늘어나 +았다 .	O O O O O O O O O
-4월 초까지 도쿄돔, 오사카 교세라돔, 도쿄 돔 앙코르까지 바쁘+ㄴ 일정이다 .	O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O
-당일에만 댓글과 좋아요 의총합수가 1만 건 이상을 기록하였다 .	O O O O O O O O O
-― 일본인들의 반한 감정이 일본 자체나 +의 문제가 반영되 +ㄴ 측면이 있다는 뜻이 +ㄴ가요. ▽강= 한국의 경제력은 상승 하+어+오았는데 일본은 오랜 침체를 거치며 위축이 많이 되었지요 .	O ORG-B O O ORG-B O O O O O O O O O PER-B ORG-B O O O ORG-B O O O O O O O
-재규어 랜드로버는 미래전략을 보이어 주+ㄹ 최신 라인업을 통하+여시대를 이끌어가는 디자인 감각과 세계 최고 수준의 테크놀로지를 선보이+ㄴ다는 계획이다. 지난해 9월 프랑크푸르트 모터쇼를 통하+여세계 최초 공개되+ㄴ바 있는 재규어 F-페이스는 재규어의 아름답ㄴ 디자인, 뛰어나 +ㄴ 주행 성능에 실용성까지 모두 집약 하+ㄴ 퍼포먼스크로스오버 차량으로 차체의 80%를 경량 알루미늄으로 구성하+여단단하고, 강성이 높으며 콘셉트카 C-X17에서선 보이+ㄴ 디자인 비전을 구현하였다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-하지만 일부 연기자에 국한되 +ㄹ 뿐 주로 영화감독이나 방송사 PD 등이 강의에 나서 +었다는 점에서 1990년대와 차이가 있다 .	O O O O O O O O O O O O O O O O O O O
-이명희 신세계그룹 회장의 딸이+ㄴ 정유경 신세계백화점 총괄 부사장(43)이 신세계백화점 부문 총괄사장으로 승진하였다 .	PER-B ORG-B O O PER-B ORG-B O O ORG-B O O O O
-‘YG 전속계약’ 원펀치원, 도끼-빈지노와 친분과 시…원 펀치 해체? 남성 듀오원 펀치의원(정제원)이 소속사 YG엔터테인먼트와 전속계약 소식으로 화제를 모으았다 .	ORG-B O O PER-B O PER-B ORG-I O O PER-B ORG-I O ORG-B O O O O O
-미네소타 산하 트리플A로체스터 레드윙스 소속으로 31경기에 출전하+여 10홈런, 19타점을 올리었다 .	ORG-B O ORG-B ORG-I O O O O O O O
-같은 날이 고르코나 셴코프 러시아 국방부 대변인은 “IS 지휘센터와 탄약고를 포함하+여 IS 관련 목표물 12곳을 파괴하었다”고 밝히었다 .	O O O O ORG-B ORG-I O ORG-B O O O ORG-B O O O O O O
-공정위는 이 같은 내용의 ‘2013년 기준시장 구조조사’ 결과를 17일 발표하였다 .	ORG-B O O O O O O O O O O
+자연스럽 게 이듬해 출전 경기 수 가 90 경기 로 늘어났 다 .	O O O O O O O O O O O O O
+4 월 초 까지 도쿄 돔 , 오사카 교세라 돔 , 도쿄 돔 앙코르 까지 바쁜 일정 이 다 .	DAT-B DAT-I O O LOC-B LOC-I O LOC-B LOC-B LOC-I O LOC-B LOC-I O O O O O O O
+당일 에 만 댓글 과 좋아요 의 총합 수 가 1 만 건 이상 을 기록 했 다 .	O O O O O O O O O O O O O O O O O O O
+― 일본인 들 의 반 한 감정 이 일본 자체 내 문제 가 반영된 측면 이 있 다는 뜻 인가 요 . ▽ 강 = 한국 의 경제력 은 상승해 왔 는데 일본 은 오랜 침체 를 거치 며 위축 이 많이 되 었 지요 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O
+재규어 랜드로버 는 미래 전략 을 보 여 줄 최신 라인업 을 통해 시대 를 이끌 어 가 는 디자인 감각 과 세계 최고 수준 의 테크놀로지 를 선보인다는 계획 이 다 . 지난해 9 월 프랑크푸르트 모터쇼 를 통해 세계 최초 공개된 바 있 는 재규어 F - 페이스 는 재규어 의 아름다 운 디자인 , 뛰어난 주행 성능 에 실용성 까지 모두 집약한 퍼포먼스 크로스오버 차량 으로 차체 의 80 % 를 경량 알루미늄 으로 구성해 단단하 고 , 강성 이 높 으며 콘셉트카 C - X 17 에서 선보인 디자인 비전 을 구현 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 일부 연기자 에 국한될 뿐 주로 영화감독 이나 방송 사 PD 등 이 강의 에 나섰 다는 점 에서 1990 년대 와 차이 가 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이명희 신세계그룹 회장 의 딸 인 정유경 신세계백화점 총괄 부사장 ( 43 ) 이 신세계백화점 부문 총괄 사장 으로 승진 했 다 .	PER-B ORG-B O O O O PER-B ORG-B O O O O O O ORG-B O O O O O O O O
+‘ YG 전속 계약 ’ 원 펀치 원 , 도끼 - 빈지 노 와 친분 과시 … 원 펀치 해체 ? 남성 듀오 원 펀치 의 원 ( 정제원 ) 이 소속 사 YG 엔터테인먼트 와 전속 계약 소식 으로 화제 를 모 았 다 .	O ORG-B O O O ORG-B ORG-I PER-B O PER-B O PER-B PER-I O O O O ORG-B ORG-I O O O O ORG-B ORG-I O PER-B O PER-B O O O O ORG-B ORG-I O O O O O O O O O O O
+미네소타 산하 트리플 A 로체스터 레드윙스 소속 으로 31 경기 에 출전해 10 홈런 , 19 타점 을 올 렸 다 .	ORG-B O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O
+같 은 날 이고르 코나셴코프 러시아 국방부 대변인 은 “ IS 지휘 센터 와 탄약고 를 포함해 IS 관련 목표물 12 곳 을 파괴 했 다 ” 고 밝 혔 다 .	O O O PER-B PER-I ORG-B ORG-I O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O
+공정 위 는 이 같 은 내용 의 ‘ 2013 년 기준 시장 구조 조사 ’ 결과 를 17 일 발표 했 다 .	ORG-B ORG-I O O O O O O O DAT-B DAT-I O O O O O O O DAT-B DAT-I O O O O

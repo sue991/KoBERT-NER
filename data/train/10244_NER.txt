@@ -1,14 +1,14 @@
-우편은 1884년 우정총국의 설립으로 우편 물건 수가 1900년 이후 10년 동안 48배 증가하였다 .	O O ORG-B O O O O O O O O O O O
-허버드 전 대사는 또 “리처드 닉슨 전 미국 대통령은 벌어 지+ㄴ 상황을 인정하고 퇴진을 받아들이었다 .	PER-B O O O PER-B PER-I O ORG-B O O O O O O O O
-이준기와 전혜빈은 지나 +ㄴ 4일 열애 사실을 공식 인정하였다 .	PER-B PER-B O O O O O O O O
-하나은행 PB센터 안에 외환은행의 FDI센터가 금융복합점포로 들어서 +ㄴ 것은 이번이 처음이다 .	ORG-B ORG-I O ORG-B ORG-I O O O O O O O
-레오나르도 트라산드(LeonardoT rasande) 박사는 “플라스틱 용기 사용이 만연하+ㄴ나라에서는 이 이 병들의 발병률이 높을 것”이라고 언급하였다 .	PER-B PER-B O O O O O O O O O O O O O O
-흡연 욕구는 5분 정도만 견디면 사라지+ㄴ다 .	O O O O O O O
-이와 함께 20일 가족과 함께하는 ‘떡메치기’ ‘다식과 떡국 만들어 먹기’ ‘전통차 마시기’ ‘추억의 옥수수 뻥튀기’ 등 민속음식 체험행사를 열 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O
-노스페이스(대표 성기학)는 휴가철을 맞아 여행 중 소지품을 안전하게 보관 하+ㄹ 수 있고 사용공간을 확장하+ㄹ 수 있어 폭넓게 활용 가능 하+ㄴ트래블 백팩 3종(TRAVELDG80~82)을 출시하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O
-또한 호남의 개혁 돌풍을 일으키며 ‘더 크+ㄴ광주’를 만들 +ㄹ적임자”라고 평가하였다 .	O ORG-B O O O O ORG-B O O O O
-김 대변인은 승리 가능성에 대하+여 “충분히 경쟁력이 있기 때문에 승산이 있다고 보고 전략공천한 것”이라며 “처음에는 인지도가 낮고 기존의 현역 의원들에 비하+여 떨어지게 나오+ㄴ 것+이 사실이지만 시간이 지나 +ㄹ수록 충분히 하+여보+ㄹ만 하+ㄴ 상황”이라고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-허윤서강대 국제대학원장은 “개별 국가들과의 FTA 추진은 크+ㄴ틀에서 맞는 방향이지만 한·중·일 FTA의 경우 중국이 워낙 낮은 수준의 FTA를 요구 하+여실익이 떨어지는 만큼 차라리 한·미·일 FTA를 추진하는 것이 더 낫다”고 말하였다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-바른정당 유승민 후보는 이날 인천 연수구 인천상륙작전기념관에서 출정식을 열고 “기적의 역전 드라마를 만들겠다”고 강조하였다 .	ORG-B PER-B O O LOC-B LOC-I LOC-B O O O O O O O O
-반면, 사우디는 12월 일 평균 26만 배럴 줄어들 +ㄴ 1046만 배럴을 생산, 러시아에 최대 산유국 지위를 내주었다 .	O ORG-B O O O O O O O O O O ORG-B O O O O O
-최근 백산수는 건강에 좋은 백두산 천연 광천수+이라는 입소문 덕에 소비자들이 먼저 찾는 생수로 각광받고 있다 .	O O O O LOC-B O O O O O O O O O O O
+우편 은 1884 년 우정총국 의 설립 으로 우편물 건수 가 1900 년 이후 10 년 동안 48 배 증가 했 다 .	O O DAT-B DAT-I ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O
+허 버드 전 대사 는 또 “ 리처드 닉슨 전 미국 대통령 은 벌어진 상황 을 인정하 고 퇴진 을 받아들 였 다 .	PER-B PER-I O O O O O PER-B PER-I O ORG-B O O O O O O O O O O O O O
+이준기 와 전 혜빈 은 지난 4 일 열애 사실 을 공식 인정 했 다 .	PER-B O PER-B PER-I O O DAT-B DAT-I O O O O O O O O
+하나은행 PB 센터 안 에 외환은행 의 FDI 센터 가 금융 복합 점포 로 들어선 것 은 이번 이 처음 이 다 .	ORG-B ORG-I ORG-I O O ORG-B O O O O O O O O O O O O O O O O O
+레오나르도 트라산드 ( Leonardo Trasande ) 박사 는 “ 플라스틱 용기 사용 이 만연한 나라 에서 는 이 이 병 들 의 발병률 이 높 을 것 ” 이라고 언급 했 다 .	PER-B PER-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+흡연 욕구 는 5 분 정도 만 견디 면 사라진다 .	O O O O O O O O O O O
+이 와 함께 20 일 가족 과 함께하 는 ‘ 떡메 치 기 ’ ‘ 다식과 떡국 만들 어 먹 기 ’ ‘ 전통 차 마시 기 ’ ‘ 추억 의 옥수수 뻥튀기 ’ 등 민속 음식 체험 행사 를 연다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+노 스페이스 ( 대표 성기학 ) 는 휴가철 을 맞 아 여행 중 소지품 을 안전하 게 보관할 수 있 고 사용 공간 을 확장할 수 있 어 폭넓 게 활용 가능한 트래블 백팩 3 종 ( TRAVEL DG 80 ~ 82 ) 을 출시 했 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 호남 의 개혁 돌풍 을 일으키 며 ‘ 더 큰 광주 ’ 를 만들 적임자 ” 라고 평가 했 다 .	O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O
+김 대변인 은 승리 가능성 에 대해 “ 충분히 경쟁력 이 있 기 때문 에 승산 이 있 다고 보 고 전략 공천 한 것 ” 이 라며 “ 처음 에 는 인지도 가 낮 고 기존 의 현역 의원 들 에 비해 떨어지 게 나온 게 사실 이 지만 시간 이 지날 수록 충분히 해 볼 만한 상황 ” 이라고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+허윤 서강대 국제 대학 원장 은 “ 개별 국가 들 과 의 FTA 추진 은 큰 틀 에서 맞 는 방향 이 지만 한 · 중 · 일 FTA 의 경우 중국 이 워낙 낮 은 수준 의 FTA 를 요구해 실익 이 떨어지 는 만큼 차라리 한 · 미 · 일 FTA 를 추진하 는 것 이 더 낫 다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+바른 정당 유승민 후보 는 이날 인천 연수구 인천 상륙 작전 기념관 에서 출정식 을 열 고 “ 기적 의 역전 드라마 를 만들 겠 다 ” 고 강조 했 다 .	ORG-B ORG-I PER-B O O O LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O
+반면 , 사우디 는 12 월 일평균 26 만 배럴 줄어든 1046 만 배럴 을 생산 , 러시아 에 최대 산유국 지위 를 내 줬 다 .	O O ORG-B O DAT-B DAT-I O O O O O O O O O O O ORG-B O O O O O O O O O
+최근 백산 수 는 건강 에 좋 은 백두산 천연 광천수 라는 입 소문 덕 에 소비자 들 이 먼저 찾 는 생수 로 각광 받 고 있 다 .	O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O

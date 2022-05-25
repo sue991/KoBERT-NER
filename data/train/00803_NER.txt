@@ -1,16 +1,16 @@
-그때는 퇴계와 율곡이 활약하+ㄴ유교문화의 전성기+이었다 .	O PER-B PER-B O O O
-방송 당시 연기자 소속 사레드라인 엔터테인먼트의 연습생으로 출연하+ 여이목을 끌기도 +였다 .	O O O O ORG-B ORG-I O O O O O O
-다음은 S&P 엔터테인먼트의 공식 입장 전문. 현재 S&P 소속 연예인이+ㄴ 김소혜는 '프로듀스 101'에서 5위의 성적으로 데뷔 하+여그룹 I.O. I의 멤버로써 활동 중에 있습니다 .	O ORG-B ORG-I O O O O ORG-B O O PER-B O O O O O O O O O O O O O
-이어 경마공원·과천과학관과 주공아파트가 줄줄이 들어서면서도시 모양새가 갖추+어+지었다 .	O LOC-B O O O O O O
-과천은 서울 서초구와 산을 사이에 두고 맞닿아 있다 .	LOC-B LOC-B LOC-B O O O O O O
-35.9㎢ 규모에 인구 7만여명이 살는 작은 도시+이다 .	O O O O O O O O
-관악산·청계산에 에워싸이어 있고 전체 면적의 70% 이상이 녹지다 .	LOC-B O O O O O O O O
-이번에 나오+ㄴ 메달은 금메달(330만원·300개), 은메달(187만원·500개) 등이다 .	O O O MNY-B MNY-B O O
-하지만 개정되+ㄴ 법안은 유디치과의 성장과 반값 임플란트 정책에 위기를 느끼+ㄴ 일부 치과의사가 기득권을 지키기 위하+ 여 개정되었다는 주장도 부르면서 논란이 더욱 커지었다 .	O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-손호준, 정글의 법칙 재출연 확정… '새롭ㄴ모습보이어주+ㄹ 것"‘손호준 정글의 법칙’ 손호준이 ‘정글의 법칙’에 재출연하+ㄴ다 .	PER-B O O O O O PER-B O O PER-B O O O O
-현대차가 제18호 태풍 차바의 영향으로 울산공장 2공장 생산라인이 중단되는 등 피해를 입었다 .	ORG-B O O O O LOC-B O O O O O O O
-태풍 차바의 영향을 받은 현대차 울산 2공장은 5일 오전 11시10분 경 안전상의 이유로 생산라인 가동을 일시 중단하였다 .	O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O
-블룸버그는 “CPI 상승세가 약 하+여지면서 정부 목표치(3%)와 격차가 커지+ㄴ 만큼 중국 인민은행이 금리 인하 등 경기부양 조치에 나서 +ㄹ 여지가 커지었다”고 보도하였다 .	ORG-B O O O O O O O O O ORG-B ORG-I O O O LOC-B O O O O O O O
-가수 겸 소울샵엔터테인먼트 대표 이+ㄴ 김태우가 1일 오후 서울시 서초구가 빛 섬 플로팅아일랜드에서 열리+ㄴ 가수길 건과의 전속계약 분쟁 관련기자회견에서 입장을 발표하였다 .	LOC-B O ORG-B O O LOC-B O O LOC-B LOC-B LOC-I LOC-I LOC-B O LOC-B PER-I O O O O O O
-그는 “소울샵이라는 회사를 만들 +ㄹ 때 행복하게 음악을 하기 위 하+여 만들었다 .	O ORG-B O O O O O O O O O O O
-중앙선거관리위원회 관계자는 “이번 대선에서 +ㄴ 개표가 늦게 시작되는 만큼 당일 밤 12시경에 당선자를 가리+ㄹ 수 있을 것으로 보이+ㄴ다”고 전하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+그때 는 퇴계 와 율곡 이 활약한 유교 문화 의 전성기 였 다 .	O O PER-B O PER-B O O O O O O O O O
+방송 당시 연기자 소속 사 레드라인 엔터테인먼트 의 연습생 으로 출연해 이목 을 끌 기 도 했 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O
+다음 은 S & P 엔터테인먼트 의 공식 입장 전문 . 현재 S & P 소속 연예인 인 김소혜 는 ' 프로듀스 101 ' 에서 5 위 의 성적 으로 데뷔해 그룹 I . O . I 의 멤버 로써 활동 중 에 있 습니다 .	O O ORG-B ORG-I ORG-I ORG-I O O O O O O ORG-B ORG-I ORG-I O O O PER-B O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O
+이어 경마 공원 · 과천 과학관 과 주공 아파트 가 줄줄이 들어서 면서 도시 모양새 가 갖춰 졌 다 .	O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O
+과천 은 서울 서초구 와 산 을 사이 에 두 고 맞닿 아 있 다 .	LOC-B O LOC-B LOC-B O O O O O O O O O O O O
+35.9 ㎢ 규모 에 인구 7 만 여 명 이 사 는 작 은 도시 다 .	O O O O O O O O O O O O O O O O O
+관악산 · 청계산 에 에워싸 여 있 고 전체 면적 의 70 % 이상 이 녹 지 다 .	LOC-B O LOC-B O O O O O O O O O O O O O O O O
+이번 에 나온 메달 은 금메달 ( 330 만 원 · 300 개 ) , 은메달 ( 187 만 원 · 500 개 ) 등 이 다 .	O O O O O O O MNY-B MNY-I MNY-I O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+하지만 개정된 법안 은 유디치 과 의 성장 과 반값 임플란트 정책 에 위기 를 느낀 일부 치과 의사 가 기득권 을 지키 기 위해 개정 됐 다는 주장 도 부르 면서 논란 이 더욱 커 졌 다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+손호준 , 정글 의 법칙 재 출연 확정 … ' 새로 운 모습 보 여 줄 것 " ‘ 손호준 정글 의 법칙 ’ 손호준 이 ‘ 정글 의 법칙 ’ 에 재 출연 한다 .	PER-B O O O O O O O O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O
+현대차 가 제 18 호 태풍 차바 의 영향 으로 울산 공장 2 공장 생산 라인 이 중단되 는 등 피해 를 입 었 다 .	ORG-B O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+태풍 차바 의 영향 을 받 은 현대 차 울산 2 공장 은 5 일 오전 11 시 10 분 경 안전 상 의 이유 로 생산 라인 가동 을 일시 중단 했 다 .	O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O O O
+블룸버그 는 “ CPI 상승세 가 약해 지 면서 정부 목표치 ( 3 % ) 와 격차 가 커진 만큼 중국 인민 은행 이 금리 인하 등 경기 부양 조치 에 나설 여지 가 커 졌 다 ” 고 보도 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O LOC-B O O O O O O O O O O O O O O O
+가수 겸 소울 샵 엔터테인먼트 대표 인 김태우 가 1 일 오후 서울 시 서초구 가 빛 섬 플로팅 아일랜드 에서 열린 가수 길 건 과 의 전속 계약 분쟁 관련 기자 회견 에서 입장 을 발표 했 다 .	O O ORG-B ORG-I ORG-I O O PER-B O DAT-B DAT-I O LOC-B LOC-I LOC-B LOC-B LOC-I LOC-I LOC-B LOC-I O O O PER-B PER-I O O O O O O O O O O O O O O O
+그 는 “ 소울샵 이 라는 회사 를 만들 때 행복하 게 음악 을 하 기 위해 만들 었 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O
+중앙선거관리위원회 관계자 는 “ 이번 대선 에선 개표 가 늦 게 시작되 는 만큼 당일 밤 12 시 경 에 당선자 를 가릴 수 있 을 것 으로 보인다 ” 고 전 했 다 .	ORG-B O O O O O O O O O O O O O O TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O

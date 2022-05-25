@@ -1,18 +1,18 @@
-1868년 메이지 유신이란 총체적 국가개조로 동양에서 +ㄴ 유일하게 근대화와 서양화에 성공하+ㄴ 일본은 19세기 말 중국, 20세기 초 러시아와의 전쟁에서 연잇어 승리하며 제국주의 시대 열강의 반열에 오르는 데 성공하였다 .	O O O O O O O O O O O ORG-B O O ORG-B O O ORG-B O O O O O O O O O O O
-세월호 인양, 최우선협상업체 中 ‘상하이 살비지 컨소시엄’ … 인양 방법은 .	O O O ORG-B ORG-B ORG-I ORG-I O O O O
-18대 국회의원을 역임하+ㄴ그가 지나+ㄴ 6월까지 1년여 동안 박근혜 대통령의 정무수석으로 있을 때 이들 의혹에 개입하고 금품 등을 받았다면 알선수뢰죄가 적용되 +ㄹ 수 있다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O
-특히 수도권과 충청, 강원 영서를 비롯하+ㄴ 중부지방은 최대 50mm에 가깝ㄴ 많은 비가 오다가 저녁쯤 그치겠다 .	O LOC-B LOC-B LOC-B LOC-B O LOC-B O O O O O O O O O
-“요새(내가) 아프았+지 않아, 사실은 에이즈+이래….나 너무 무섭어서 그러는데 지금 +아주+ㄹ 수 있어?” 그러나 절친 3명 가운데 2명은 이런저런 이유를 들어 에이즈 환자를 가장 하+ㄴ 친구를 만나지 않으려 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-‘1월의 탄생석’가 넷, 우정·충성·진리 등을 상징… “2월의 탄생석은? .	O O O O O O O O O
-“비가 오니 온 몸이 쑤시네요.”비가 쏟아지던 3일 서울 중구의 한 카페에서 발레리나 김주원(39)을 만나 +았다 .	O O O O O O O LOC-B LOC-B O O O PER-B O O O
-내무부는 『국세보다 엄격하게 적용되고 있던 지방세법상 비업무용 토지에 대하+ㄴ판정기준을 국세와 통일하면서 기업의 경제활동에 대하+ㄴ 혼란을 줄이고 기업의 국제경쟁력을 강화하기 위하+ㄴ 조치』라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-금감원은 저축은행과 카드사, 대부업체의 대출금리 산정체계도 종합적으로 점검하기로 +였다 .	ORG-B O O O O O O O O O
-[대선 정국] 박지원 “새누리 피이어 받은 사람”정우택 “노크 하+ 여도 검증이 루어지+어야 .	O O PER-B ORG-B O O PER-B O O O O O O
-김 대표는 28일 아침 여의도 63빌딩에서 이만섭 노재봉 권익현 의원 등 전국구 의원 11명과 조찬모임을 주재하+ㄴ자리에서 당내 결속을 당부하는 가운데 『대통령도 여러 가지 생각을 갖고 있을 것이며, 내가 갖고 있는 생각을 말씀드리겠다』고 정국 수습을 위하 +ㄴ 구상을 건의 하+ㄹ 뜻을 밝히+ㄴ 것으로 알려지었다 .	PER-B O O O LOC-B LOC-B PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-착색 작업에 열중하던 호리우치 마리도 씨(23)는 교토에서 금속공예 전문학교를 졸업하+ㄴ 뒤 연고가 없는 다카오카까지 찾아오았다 .	O O O PER-B PER-I O LOC-B ORG-B ORG-I O O O O LOC-B O O
-박보검 아이린뮤직뱅크의 MC 이+ㄴ 박보검과 아이린의 크리스마스 댄스가 네티즌들 사이에서 화제+이다 .	PER-B PER-B O O PER-B PER-B O O O O O O
-25일 방송되+ㄴ KBS2TV '뮤직뱅크'는 성탄 특집으로 꾸미+어지+ㄴ 가운데 박보검의 반전 매력을 선보이었다 .	O O O O O O O O PER-B O O O O
-이날 박보검과 아이린은 캐롤 '징글벨락(JingleBellRock)'을 부르며 오프닝 무대를 꾸미었다 .	O PER-B PER-B O O O O O O O
-차에 태블릿PC를 한 대달아 놓은 셈이다 .	O O O O O O O
-중국 당국이 북-중 관계에 미치+ㄹ 악영향을 고려하+여 ‘보도 통제’에 나서 +ㄴ 것으로 보이+ㄴ다 .	ORG-B O ORG-B O O O O O O O O O O O
-가세요’ 행복드림쉼터, 전국에 연내 40곳 설 .	O O O O O O O
+1868 년 메이지 유신 이란 총체적 국가 개조 로 동양 에선 유일하 게 근대화 와 서양화 에 성공한 일본 은 19 세기 말 중국 , 20 세기 초 러시아 와 의 전쟁 에서 연이 어 승리하 며 제국주의 시대 열강 의 반열 에 오르 는 데 성공 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O ORG-B O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+세월호 인양 , 최우선 협상 업체 中 ‘ 상하이 살비지 컨소시엄 ’ … 인양 방법 은 ?	O O O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O
+18 대 국회의원 을 역임한 그 가 지난 6 월 까지 1 년 여 동안 박근혜 대통령 의 정무 수석 으로 있 을 때 이 들 의혹 에 개입하 고 금품 등 을 받 았 다면 알선 수뢰 죄 가 적용될 수 있 다 .	O O O O O O O O DAT-B DAT-I O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 수도권 과 충청 , 강원 영서 를 비롯한 중부 지방 은 최대 50 mm 에 가까 운 많 은 비 가 오 다가 저녁 쯤 그치 겠 다 .	O LOC-B O LOC-B O LOC-B LOC-B O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O
+“ 요새 ( 내 가 ) 아 팠 잖 아 , 사실 은 에이즈 래 … . 나 너무 무서 워서 그러 는데 지금 와 줄 수 있 어 ? ” 그러나 절친 3 명 가운데 2 명 은 이런저런 이유 를 들 어 에이즈 환자 를 가장한 친구 를 만나 지 않 으려 한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 1 월 의 탄생석 ’ 가넷 , 우정 · 충성 · 진리 등 을 상징 … “ 2 월 의 탄생석 은 ? ”	O DAT-B DAT-I O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O
+“ 비 가 오 니 온몸 이 쑤시 네요 . ” 비 가 쏟아지 던 3 일 서울 중 구 의 한 카페 에서 발레리나 김주원 ( 39 ) 을 만났 다 .	O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-B LOC-I O O O O O PER-B O O O O O O O
+내무부 는 『 국세 보다 엄격하 게 적용되 고 있 던 지방세법 상 비 업무 용 토지 에 대한 판정 기준 을 국세 와 통일하 면서 기업 의 경제 활동 에 대한 혼란 을 줄이 고 기업 의 국제 경쟁력 을 강화하 기 위한 조치 』 라고 말 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+금감원 은 저축은행 과 카드 사 , 대부 업체 의 대출 금리 산정 체계 도 종합적 으로 점검하 기 로 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+[ 대선 정국 ] 박지원 “ 새누리 피 이어받 은 사람 ” 정우택 “ 노크해도 검증 이뤄져야 ”	O O O O PER-B O ORG-B O O O O O PER-B O O O O O
+김 대표 는 28 일 아침 여의도 63 빌딩 에서 이만섭 노재봉 권익현 의원 등 전국구 의원 11 명 과 조찬 모임 을 주재한 자리 에서 당내 결속 을 당부하 는 가운데 『 대통령 도 여러 가지 생각 을 갖 고 있 을 것 이 며 , 내 가 갖 고 있 는 생각 을 말씀 드리 겠 다 』 고 정국 수습 을 위한 구상 을 건의할 뜻 을 밝힌 것 으로 알려 졌 다 .	PER-B O O DAT-B DAT-I O LOC-B LOC-B LOC-I O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+착색 작업 에 열중하 던 호리우치 마리 도 씨 ( 23 ) 는 교토 에서 금속 공예 전문학교 를 졸업한 뒤 연고 가 없 는 다카오카 까지 찾아 왔 다 .	O O O O O PER-B PER-I PER-I O O O O O LOC-B O ORG-B ORG-I ORG-I O O O O O O O LOC-B O O O O O
+박 보검 아이린 뮤직 뱅크 의 MC 인 박보 검 과 아이린 의 크리스마스 댄스 가 네티즌 들 사이 에서 화제 다 .	PER-B PER-I PER-B O O O O O PER-B PER-I O PER-B O O O O O O O O O O O
+25 일 방송된 KBS 2 TV ' 뮤직 뱅크 ' 는 성탄 특집 으로 꾸며 진 가운데 박 보검 의 반전 매력 을 선보 였 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O
+이날 박보 검 과 아이린 은 캐롤 ' 징글 벨 락 ( Jingle Bell Rock ) ' 을 부르 며 오프닝 무대 를 꾸 몄 다 .	O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O
+차 에 태블릿 PC 를 한 대 달 아 놓 은 셈 이 다 .	O O O O O O O O O O O O O O O
+중국 당국 이 북 - 중 관계 에 미칠 악영향 을 고려해 ‘ 보도 통제 ’ 에 나선 것 으로 보인다 .	ORG-B O O ORG-B O ORG-B O O O O O O O O O O O O O O O O
+가 세요 ’ 행복 드림 쉼터 , 전국 에 연내 40 곳 설치	O O O O O O O O O O O O O

@@ -1,10 +1,10 @@
-첫 주행은 전기모터로 구동되고 이후 가솔린 엔진이 사용되는 차세대 볼트는 이번 EPA 조사에서 전기와 가솔린을 포함하+ㄴ 최대 주행 가능거리가 675km로 1세대에 비하+여 64km 연장+었다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
-ADHD에 대하+ㄴ오해, ADHD 앓으면 성공 못하+ㄴ다?… 애덤 리바인-마이클 펠프스-솔란+하지놀스도 ADHDADHD, 즉 주의력 결핍 과잉 행동장애를 진단하는 경우는 증가 중이지만 아직 ADHD에 대하+ㄴ 일반의 이해가 부족하+여 다양하+ㄴ 오해들을 낳고 있는 것으로 알려지었다 .	O O O O O O PER-B PER-B PER-B O O O O O O O O O O O O O O O O O O O O O O O
-‘라디오 스타’ 전진, “우결이 시 영 언급에”당황...“그것+ㄴ 좀 너무 세다 .	O O PER-B O O O O O O O O
-세월호 1년-빅데이터 분 .	O O O O
-지금까지 구간별 주차 허용 소형 화물차량이 1.1·1.4·1.5t 등 제각각이어서 이를 알지 못하+ㄴ 시민들의 불만이 많았다 .	O O O O O O O O O O O O O O O O
-2000년대 초반부터 기본계획이 수립되었지만 신촌캠퍼스 전체의 지도를 바꾸+어놓는 수준의 사업 규모 때문에 쉽사리 추진되지 않았다 .	O O O O O O O O O O O O O O O O
-부산 일본영사관 앞 소녀상 설치에 반발하+여 일본으로 돌아가 +았다가 85일 만이+ㄴ이달 4일 귀임 하+ㄴ모리모토야스히로(森本康敬) 주부산 일본 총영사가 19일 오전 10시께 박삼석 동구청장을 만나 +아소녀상 이전 등에 관하+여의견을 교환하였다 .	LOC-B LOC-I O O O O O O O O O O O PER-B LOC-B ORG-I ORG-I O O O PER-B O O O O O O O O
-안드로이드 탑재폰 넥서스원, 태블릿PC ‘넥서스7’을 출시하며 직접 모바일 사업에도 뛰어들었다 .	O O O O O O O O O O O
-2012∼2013 시즌 기성용이 프리미어리그스완 지시티에 입단하었지만, 이청용의 볼턴이 챔피언십(2부 리그)으로 강등되+어둘은 그라운드에서 만나지 못하였다 .	O O PER-B ORG-B O O PER-B ORG-B O O O O O O O
-지구 온난화를 취재하기 위하+ 여 방문 하+ㄴ일루리사트는 여름을 맞았지만 여전히 얼음의 땅이었다 .	O O O O O O PER-B O O O O O O
+첫 주행 은 전기모터 로 구동 되 고 이후 가솔린 엔진 이 사용되 는 차세대 볼트 는 이번 EPA 조사 에서 전기 와 가솔린 을 포함한 최대 주행 가능 거리 가 675 km 로 1 세대 에 비해 64 km 연장 됐 다 .	O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+ADHD 에 대한 오해 , ADHD 앓 으면 성공 못한다 ? … 애덤 리바인 - 마이클 펠프스 - 솔란 지 놀스 도 ADHDADHD , 즉 주의력 결핍 과잉 행동 장애 를 진단하 는 경우 는 증가 중 이 지만 아직 ADHD 에 대한 일반 의 이해 가 부족해 다양한 오해 들 을 낳 고 있 는 것 으로 알려 졌 다 .	O O O O O O O O O O O O PER-B PER-I O PER-B PER-I O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 라디오스타 ’ 전진 , “ 우결 이시영 언급 에 ” 당황 . . . “ 그건 좀 너무 세 다 ”	O O O PER-B O O O PER-B O O O O O O O O O O O O O O
+세월호 1 년 - 빅 데이터 분석	O DAT-B DAT-I O O O O
+지금 까지 구간 별 주차 허용 소형 화물 차량 이 1.1 · 1.4 · 1.5 t 등 제각각 이 어서 이 를 알 지 못한 시민 들 의 불만 이 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2000 년대 초반 부터 기본 계획 이 수립 됐 지만 신촌 캠퍼스 전체 의 지도 를 바꿔 놓 는 수준 의 사업 규모 때문 에 쉽사리 추진되 지 않 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+부산 일본 영사관 앞 소녀 상 설치 에 반발해 일본 으로 돌아갔 다가 85 일 만 인 이달 4 일 귀임한 모리모토 야스히로 ( 森本康敬 ) 주부산 일본 총영사 가 19 일 오전 10 시 께 박삼석 동 구청장 을 만나 소녀 상 이전 등 에 관해 의견 을 교환 했 다 .	LOC-B LOC-I LOC-I O O O O O O LOC-B O O O O O O O O DAT-B DAT-I O PER-B PER-I O PER-B O ORG-B ORG-I ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I O PER-B O O O O O O O O O O O O O O O O
+안드로이드 탑재 폰 넥서스 원 , 태블릿 PC ‘ 넥서스 7 ’ 을 출시하 며 직접 모바일 사업 에 도 뛰어들 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+2012 ∼ 2013 시즌 기성용 이 프리미어 리그 스완지시티 에 입단 했 지만 , 이청용 의 볼턴 이 챔피언십 ( 2 부 리그 ) 으로 강등돼 둘 은 그라운드 에서 만나 지 못 했 다 .	O O O O PER-B O ORG-B ORG-I ORG-B O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O
+지구 온난화 를 취재하 기 위해 방문한 일루리사트 는 여름 을 맞 았 지만 여전히 얼음 의 땅 이 었 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O

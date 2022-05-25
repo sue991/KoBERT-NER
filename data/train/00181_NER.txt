@@ -1,14 +1,14 @@
-승우무역 강태승 사장은 『중국이 섬유 대국으로 부상 중이지만 아직 대규모 투자를 감행하+ㄹ 수 없고 낡은 직기로 만들 +ㄴ 품질이 조악하다 』며 『 앞으로 5년간 직물 수출의 호기가 계속 이어지+ㄹ 것』이라고 말하였다 .	ORG-B PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-또한, 작년부터 유통분야 유망 벤처기업을 선정하+여SK플래닛의 O2O 커머스 분야 역량을 공유하고 있다 .	O O O O O ORG-B O O O O O O O
-이번 발표 행사는, SK플래닛의 101 스타트업 코리아가 제공하는 7개월간의 프로그램을 이수하 +ㄴ 10개 기업이 참여하였다 .	O O O ORG-B O O O O O O O O O O O O
-‘오시리스-렉스(OSIRIS-REx)’라고 이름 붙이어지+ㄴ이 탐사선은 지름 550m의 소행성 ‘벤눕(Bennu)’에 도착하+ 여지 표면에 있는 토양 샘플을 수집하+ㄴ 뒤 2023년 지구로 돌아오+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-더불어민주당 “황교안, 허튼 꿈꾸지 말+아라…어부지리는 이렇+ㄹ 때 쓰는 말 .	ORG-B PER-B O O O O O O O O
-박씨 등에게 속아 넘어가 +ㄴ 주부들은 진급을 위하+여크+ㄴ돈을 내+었지만 ‘실장’이 되+어도 당초 보장받은 ‘월 150만원에 4대 보험’ 혜택은 전혀 받지 못하였다 .	PER-B O O O O O O O O O O O O O MNY-B O O O O O O O
-지스트는 1993년 광주 첨단과학산업단지에 둥지를 틀+ㄴ 후 국내 과학기술인력을 양성하는 산실 역할을 하+여+오았다 .	ORG-B O LOC-B LOC-I O O O O O O O O O O
-다양하+ㄴ 얼굴 표정을 통하+여감정을 자유자재로 표현하는 ‘메로3’(사진)와 이족보행 로봇이 +ㄴ ‘키보’가 관람객을 잡아끌 +ㄴ다 .	O O O O O O O O O O O O O O O
-롯데마트는 배추 1포기(상등급)를 롯데카드와 신한카드로 구매하는 고객에게 450원에 판매하는 행사를 일주일간 열+ㄴ다 .	ORG-B O O O O O O MNY-B O O O O O
-아랍권에서 흔히 보+ㄹ 수 있는 위성방송을 금지하는 20가지 이유를 적은 팸플릿도 눈길을 끌+ㄴ다 .	LOC-B O O O O O O O O O O O O O
-돈을 받은 적도 없고 성완종도 잘 모르+ㄴ다”며 결백을 주장하였다 .	O O O O PER-B O O O O O
-검찰은 홍 지사 측의 주장에 대하+여"사실을 호도하려는 것이다"고 반발하였다 .	O PER-B O O O O O O O O
-마리텔이 말년 그리+ㄴ 초상화에서 유리 ‘황당++발끈’… SNS에 공개하며 “이말년 바보!” 성우 서유리가 웹툰 작가이말년이 그리 +어주+ㄴ 초상화에 발끈하었다 .	O O O O O O O O PER-B O O PER-B O PER-B O O O O O
-선거법 위반 혐의, 현역 의원 20명 기소… 13일 공소시효 끝나기 전 더 늘어나 +ㄹ .	O O O O O O O O O O O O O O O
+승우 무역 강태승 사장 은 『 중국 이 섬유 대국 으로 부상 중 이 지만 아직 대규모 투자 를 감행할 수 없 고 낡 은 직기 로 만든 품질 이 조악하 다 』 며 『 앞 으로 5 년 간 직물 수출 의 호 기 가 계속 이어질 것 』 이라고 말 했 다 .	ORG-B ORG-I PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또한 , 작년 부터 유통 분 야 유망 벤처 기업 을 선정해 SK 플래닛 의 O 2 O 커머스 분야 역량 을 공유하 고 있 다 .	O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+이번 발표 행사 는 , SK 플래닛 의 101 스타트 업 코리아 가 제공하 는 7 개월 간 의 프로그램 을 이수한 10 개 기업 이 참여 했 다 .	O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+‘ 오시리스 - 렉스 ( OSIRIS - REx ) ’ 라고 이름 붙 여 진 이 탐사 선 은 지름 550 m 의 소행성 ‘ 벤 누 ( Bennu ) ’ 에 도착해 지표면 에 있 는 토양 샘플 을 수집한 뒤 2023 년 지구 로 돌아온다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+더불 어 민주당 “ 황교안 , 허튼 꿈꾸 지 마라 … 어부지리 는 이럴 때 쓰 는 말 ”	ORG-B ORG-I ORG-I O PER-B O O O O O O O O O O O O O O
+박 씨 등 에게 속 아 넘어간 주부 들 은 진급 을 위해 큰 돈 을 냈 지만 ‘ 실장 ’ 이 돼도 당초 보장 받 은 ‘ 월 150 만 원 에 4 대 보험 ’ 혜택 은 전혀 받 지 못 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+지스트 는 1993 년 광주 첨단 과학 산업 단지 에 둥지 를 튼 후 국내 과학 기술 인력 을 양성하 는 산실 역할 을 해 왔 다 .	ORG-B O DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O
+다양한 얼굴 표정 을 통해 감정 을 자유자재 로 표현하 는 ‘ 메 로 3 ’ ( 사진 ) 와 이족 보행 로봇 인 ‘ 키보 ’ 가 관람객 을 잡아끈다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데마트 는 배추 1 포기 ( 상 등급 ) 를 롯데카드 와 신한카드 로 구매하 는 고객 에게 450 원 에 판매하 는 행사 를 일주일 간 연다 .	ORG-B O O O O O O O O O O O O O O O O O MNY-B MNY-I O O O O O O O O O
+아랍 권 에서 흔히 볼 수 있 는 위성 방송 을 금지하 는 20 가지 이유 를 적 은 팸플릿 도 눈길 을 끈다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+돈 을 받 은 적 도 없 고 성완종 도 잘 모른다 ” 며 결백 을 주장 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O
+검찰 은 홍 지사 측 의 주장 에 대해 " 사실 을 호도하 려는 것 이 다 " 고 반발 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O
+마리 텔 이말년 그린 초상화 에 서유리 ‘ 황당+ 발끈 ’ … SNS 에 공개하 며 “ 이말년 바보 ! ” 성우 서유리 가 웹 툰 작가 이말년 이 그려 준 초상화 에 발끈 했 다 .	O O PER-B O O O PER-B O O O O O O O O O O PER-B O O O O PER-B O O O O PER-B O O O O O O O O O
+선거법 위반 혐의 , 현역 의원 20 명 기소 … 13 일 공소 시효 끝나 기 전 더 늘어날 듯	O O O O O O O O O O DAT-B DAT-I O O O O O O O O

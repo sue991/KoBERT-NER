@@ -1,11 +1,11 @@
-동원그룹이 1969년 창립 이후 처음으로 지속가능경영보고서를 펴내 +었다 .	ORG-B O O O O O O O O
-2월 MBC ‘인기가요 베스트 50’에서 손가락 욕과 카메라를 향하+여침을 뱉는 행위로 지상파 방송 1년간 출연정지 등 중징계를 받기도 +였다 .	O O O O O O O O O O O O O O O O O O O O
-이 책의 첫 장은 거울한 장으로 열리+ㄴ다 .	O O O O O O O O
-이 회장은 “삼성이 뼈를 깎는 아픔을 감내하고 스스로 변하지 않으면 안 되+ㄴ다”며 “삼성은 이제 양 위주의 의식, 체질, 제도, 관행에서 벗어나 +아질 위주로 철저히 변하+ 여야 하+ㄴ다”는 내용의 ‘삼성 신경영’을 선언하였다 .	PER-B O ORG-B O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O O ORG-B O O O
-차유람은 또 “처음부터 말이 잘 통하+여서 마음이 통하+ㄴ다는 느낌이 들었다 .	PER-B O O O O O O O O O O
-현대카드가 전북은행과 맞손을 잡고 현대카드 우수 회원 전용 신용대출 상품 ‘JB뱅크론’을 개발하+ㄴ다 .	ORG-B ORG-B O O ORG-B O O O O O O O O
-모두투어는 ‘다낭’ 편에 잇어 ‘제주’ 편을 출간 하+ㄹ 예정이다 .	ORG-B LOC-B O O LOC-B O O O O O
-서울시는 1일부터 횡단보도·교차로 등 보행자 이동이 많은 곳에 차를 세우면 운전자가 타고 있어도 불법 주·정차로 단속 하+ㄴ다고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O
-옹벽 붕괴 사고 이후 아파트 입주민 165가구 436명은 친인척이나 지인의 집, 찜질방에서 머물고 있다 .	O O O O O O O O O O O O O O O
-세계 최대의 ‘공장’으로 불리+ㄹ 정도로 폭스콘은 주문자 상표 부착 생산(OEM) 방식에서 +ㄴ 업계 최고위치에 오르아있다 .	O O O O O ORG-B O O O O O O O O O O
-와인은 750여종을 갖추었다 .	O O O O
+동원 그룹 이 1969 년 창립 이후 처음 으로 지속 가능 경영 보고서 를 펴냈 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O
+2 월 MBC ‘ 인기 가요 베스트 50 ’ 에서 손가락 욕 과 카메라 를 향해 침 을 뱉 는 행위 로 지상파 방송 1 년 간 출연 정지 등 중징계 를 받 기 도 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 책 의 첫 장 은 거울 한 장 으로 열린다 .	O O O O O O O O O O O O
+이 회장 은 “ 삼성 이 뼈 를 깎 는 아픔 을 감내하 고 스스로 변하 지 않 으면 안 된다 ” 며 “ 삼성 은 이제 양 위주 의 의식 , 체질 , 제도 , 관행 에서 벗어나 질 위주 로 철저히 변해야 한다 ” 는 내용 의 ‘ 삼성 신 경영 ’ 을 선언 했 다 .	PER-B O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+차유람 은 또 “ 처음 부터 말 이 잘 통해서 마음 이 통한다는 느낌 이 들 었 다 .	PER-B O O O O O O O O O O O O O O O O O O
+현대카드 가 전북은행 과 맞손 을 잡 고 현대카드 우수 회원 전용 신용 대출 상품 ‘ JB 뱅크론 ’ 을 개발한다 .	ORG-B O ORG-B O O O O O ORG-B O O O O O O O O O O O O O
+모두투어 는 ‘ 다낭 ’ 편 에 이 어 ‘ 제주 ’ 편 을 출간할 예정 이 다 .	ORG-B O O LOC-B O O O O O O LOC-B O O O O O O O O
+서울시 는 1 일 부터 횡단보도 · 교차 로 등 보행자 이동 이 많 은 곳 에 차 를 세우 면 운전자 가 타 고 있 어도 불법 주 · 정차로 단속한다고 밝 혔 다 .	ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+옹벽 붕괴 사고 이후 아파트 입주민 165 가구 436 명 은 친인척 이나 지인 의 집 , 찜질 방 에서 머물 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+세계 최대 의 ‘ 공장 ’ 으로 불릴 정도 로 폭스콘 은 주문자 상표 부착 생산 ( OEM ) 방식 에선 업계 최고 위치 에 올 라 있 다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+와인 은 750 여 종 을 갖 췄 다 .	O O O O O O O O O O

@@ -1,18 +1,18 @@
-테디와 2년간의 연애기간은 무엇하고도 바꾸고 싶지 않은 행복하+ㄴ 시간이었다”고 테디에 대하+ㄴ 애정을 드러내+었다 .	PER-B O O O O O O O O PER-B O O O O
-한예슬의 남자친구 테디는 지나 +ㄴ 1990년대 후반 힙합 열풍을 선도하+ㄴ그룹 원타임 래퍼 출신으로 지금은 YG엔터테인먼트에서 프로듀서로 일하고 있다 .	O O PER-B O O O O O O O ORG-B O O O ORG-B O O O O
-3년 연속 홈런왕에 오르+ㄴ 박병호의 올해 연봉은 7억원이다 .	O O O O PER-B O O MNY-B O
-반면 국민의당은 민주당 측의 자작극이라는 주장을 하고 나서 +었다 .	O ORG-B ORG-B ORG-I O O O O O O
-장애인의 몸으로 그동안 운전면허 취득을 꺼리고 있었지만, 이날 이곳에 ‘장애인 운전지원센터’가 문을 열면서 용기를 내+었다 .	ORG-B O O O O O O O O ORG-B ORG-I O O O O O
-북한의 ‘독종’ 이 미국의 ‘독종’을 만나 +아잠시 꼬리를 내리+ㄴ 것이다 .	ORG-B O O ORG-B O O O O O O O
-이 회사 관계자는 “알코올이나 염소 등의 성분이 전혀 없는 무기산소 계세정제로, 주성분 옥손은 틀니 세정제 성분으로 사용 하+ㄹ만큼 안전하+ㄴ 물질이 다 “고 강조하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-와 전속계약...토토가로 탄력이 본장 진사단 배우 이본이 매니지먼트 겸 제작사 ‘필름있수다’와 전속계약을 맺은 가운데, 방송에 복귀 하+ㄴ 계기가 주목받았다 .	O O O PER-B O O PER-B O O O ORG-B O O O O O O O O O
-이본은 지나 +ㄴ해 12월 29일 방송되+ㄴ 케이블 채널Y-STAR 예능 프로그램 ‘스타뉴스’와의 인터뷰에서 방송에 복귀 하+ㄴ 결정적 계기를 밝히었다 .	PER-B O O O O O O O O O O O O O O O O O O
-이본은 과거 활동 당시까무잡잡 하+ㄴ 피부와 크+ㄴ 눈으로 ‘검은콩’이라는 수식어를 달았다 .	PER-B O O O O O O O PER-B O O O
-엑소르는 이탈리아 자동차 회사 이+ㄴ 피아트 창업주 이+ㄴ아녤리가문이 설립 하+ㄴ 투자 전문회사+이다 .	ORG-B LOC-B O O O ORG-B O ORG-B O O O O O
-결국 꼴찌가 되+ㄴ래퍼 타이미와 제이스팀이 탈락하였다 .	O O O ORG-B ORG-I O O
-과연 이 상황을 어떻게 헤치+어나가 +ㄹ지, 그리고 수인은 어떤 선택을 하게 되+ㄹ지 많은 기대가 쏠리고 있다 .	O O O O O O O PER-B O O O O O O O O O
-임은수는 쇼트 프로그램과 프리스케이팅, 합계 모두 개인 최고 점수를 갈아치우었다 .	PER-B O O O O O O O O O O
--대명건설, ‘가산대명벨리온 오피스텔’ 환승 역세권 가산디지털단지역 인근 오피스텔로 붐업한 오피스텔에 거주하는 김씨(31세)는 이르+ㄴ아침 출근을 하기 위하+여집에서 5분 내 거리 이+ㄴ 가산디지털단지역을 이용하+여7호선을 타고 직장인 강남구청역으로 출근을 하+ㄴ다 .	LOC-I LOC-B LOC-I O O LOC-B O O O O O PER-B O O O O O O O O LOC-B O O O LOC-B O O O
-제조업체의 최고경영자(CEO)에서 정치인으로 새롭ㄴ 길을 걷고 있는 장석현 인천 남동구청장(59·새누리당·사진)은 요즘 일자리 창출에 핵심 역할을 담당 하+ㄹ ‘반장’을 격려하는데 많은 시간을 할애하+ㄴ다 .	O O O O O O O PER-B ORG-B ORG-B O O O O O O O O O O O O O
-김영란 法28일 시행… ‘클린코리아’ 실 .	O O O O O O
-미국 민주당 대선주자 이+ㄴ 힐러리 클린턴 전 국무장관과 버니 샌더스 상원의원이 북한의 장거리 미사일 발사 계획을 강도 높게 비판하였다 .	ORG-B ORG-I O O PER-B PER-I O O PER-B PER-I O ORG-B O O O O O O O O
+테디 와 2 년 간 의 연애 기간 은 무엇 하고 도 바꾸 고 싶 지 않 은 행복한 시간 이 었 다 ” 고 테디 에 대한 애정 을 드러냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O
+한예슬 의 남자 친구 테디 는 지난 1990 년대 후반 힙합 열풍 을 선도한 그룹 원 타임 래퍼 출신 으로 지금 은 YG 엔터테인먼트 에서 프로듀서 로 일하 고 있 다 .	O O O O PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O ORG-B ORG-I O O O O O ORG-B ORG-I O O O O O O O O
+3 년 연속 홈런 왕 에 오른 박병호 의 올해 연봉 은 7 억 원 이 다 .	O O O O O O O PER-B O O O O MNY-B MNY-I MNY-I O O O
+반면 국민 의 당 은 민주당 측 의 자작극 이 라는 주장 을 하 고 나섰 다 .	O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O
+장애인 의 몸 으로 그동안 운전 면허 취득 을 꺼리 고 있 었 지만 , 이날 이곳 에 ‘ 장애인 운전 지원 센터 ’ 가 문 을 열 면서 용기 를 냈 다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O
+북한 의 ‘ 독종 ’ 이 미국 의 ‘ 독종 ’ 을 만나 잠시 꼬리 를 내린 것 이 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O
+이 회사 관계자 는 “ 알코올 이나 염소 등 의 성분 이 전혀 없 는 무기 산소계 세정제 로 , 주성분 옥 손 은 틀니 세정제 성분 으로 사용할 만큼 안전한 물질 이 다 “ 고 강조 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+와 전속 계약 . . . 토토 가로 탄력 이본 장 진사 단 배우 이본 이 매니지먼트 겸 제작사 ‘ 필름 있 수다 ’ 와 전속 계약 을 맺 은 가운데 , 방송 에 복귀한 계기 가 주목 받 았 다 .	O O O O O O O O O PER-B PER-B O O O PER-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+이본 은 지난 해 12 월 29 일 방송된 케이블 채널 Y - STAR 예능 프로그램 ‘ 스타 뉴스 ’ 와 의 인터뷰 에서 방송 에 복귀한 결정적 계기 를 밝 혔 다 .	PER-B O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+이본 은 과거 활동 당시 까무잡잡한 피부 와 큰 눈 으로 ‘ 검은콩 ’ 이 라는 수식어 를 달 았 다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O O O
+엑소르 는 이탈리아 자동차 회사 인 피아트 창업주 인 아녤리 가문 이 설립한 투자 전문 회사 다 .	ORG-B O LOC-B O O O ORG-B O O ORG-B ORG-I O O O O O O O
+결국 꼴찌 가 된 래퍼 타이 미 와 제이스 팀 이 탈락 했 다 .	O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O
+과연 이 상황 을 어떻 게 헤쳐 나갈지 , 그리고 수인 은 어떤 선택 을 하 게 될지 많 은 기대 가 쏠리 고 있 다 .	O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+임은수 는 쇼트 프로그램 과 프리 스케이팅 , 합계 모두 개인 최고 점수 를 갈 아 치 웠 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+- 대명 건설 , ‘ 가산 대명 벨리 온 오피스텔 ’ 환승 역세권 가산 디지털 단 지역 인근 오피스텔 로 붐 업 한 오피스텔 에 거주하 는 김 씨 ( 31 세 ) 는 이른 아침 출근 을 하 기 위해 집 에서 5 분내 거리 인 가산디지털단지역 을 이용해 7 호 선 을 타 고 직장인 강남구청 역 으로 출근 을 한다 .	O ORG-B ORG-I O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O LOC-B LOC-I O O O O O
+제조 업체 의 최고 경영자 ( CEO ) 에서 정치인 으로 새로 운 길 을 걷 고 있 는 장석현 인천 남동 구청장 ( 59 · 새누리당 · 사진 ) 은 요즘 일자리 창출 에 핵심 역할 을 담당할 ‘ 반장 ’ 을 격려하 는 데 많 은 시간 을 할애한다 .	O O O O O O O O O O O O O O O O O O O PER-B ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+김영란 法 28 일 시행 … ‘ 클린 코리아 ’ 실험	O O DAT-B DAT-I O O O O O O O
+미국 민주당 대선 주자 인 힐러리 클린턴 전 국무 장관 과 버니 샌더스 상원 의원 이 북한 의 장거리 미사일 발사 계획 을 강도 높 게 비판 했 다 .	ORG-B ORG-I O O O PER-B PER-I O O O O PER-B PER-I O O O ORG-B O O O O O O O O O O O O O

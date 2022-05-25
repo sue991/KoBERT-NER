@@ -1,15 +1,15 @@
-김광열 베세토 국제학교 이사 .	PER-B ORG-B ORG-I O O
-박근혜 대통령은 미국을 방문하+ㄴ 16일로이드 넬슨 핸드전 미 국무부의 전장(86)에게서 50년 전 박 전 대통령 부부의 방미 사진이 담기 +ㄴ 사진첩을 선물 받았다 .	PER-B O ORG-B O PER-B PER-I PER-I ORG-B O O O O PER-B O O O ORG-B O O O O O O O
-대한근대 5종연맹은 정진화를 포함하+여올림픽 출전 자격을 얻은 남자 선수 4명 가운데 최종 출전자 2명을 가리+ㄹ 계획이다 .	ORG-B ORG-I PER-B O O O O O O O O O O O O O O
-한편, 방탄소년단은 29일 0시 세 번째 미니앨범 ‘화양연화pt.1’을 발매하+ㄹ 예정이다 .	O ORG-B O O O O O O O O O
-지나+ㄴ 11일 민주당 우상호 원내대표는 “야권이 분열하면 (대선에서) 지+ㄴ다”며 야권 통합카드를 꺼내+었다 .	O O ORG-B PER-B O O O O O O O O O
-[라이프 트렌드] 강원도 폐광지역 청소년 꿈 키우 .	O O LOC-B O O O O O
-국내 이동통신사 중에서는 KT가 2012년 스마트폰과 연동 하+ 여 사용하는 ‘스파이더 랩톱’을 선보이+ㄴ이후 처음이다 .	O O O ORG-B O O O O O O O O O O O
-그리 하+여도 등교하지 않는다면 관할 교육청에 보고하도록 되+어 있다 .	O O O O O ORG-B O O O O
-그러나 해당 학교는 부천교육지원청에 이런 내용을 보고하지 않았다 .	O O O ORG-B O O O O O
-한국에서는 41개 직종에 45명의 선수가 출전하+여금 12개, 은 7개, 동 5개로 19번째이자 5회 연속 대회 종합우승을 달성하였다 .	ORG-B O O O O O O O O O O O O O O O O O
-YMS를 바탕으로 고객 이용 추이 등을 분석하+여시간대, 좌석, 노선에 따르 아철도 요금체계를 다양화 하+여탑승률을 최대로 끌어올리었다 .	ORG-B O O O O O O O O O O O O O O O O
-한국 증시도 중국의 경기회복에 대하+ㄴ기대감으로 소비주를 중심으로 상승세를 타+ㄹ 것으로 기대되+ㄴ다 .	LOC-B O ORG-B LOC-B O O O O O O O O
-한 입주기업 관계자는 “투자액의 90%까지 지원 하+ㄴ다는 내용은 남북경협보험약관에도 다 나오아있는 것이어서 특별히 새롭ㄴ 방안이 없는 원론적이+ㄴ 수준이었다”고 평가하였다 .	O O O O O O O O O O O O O O O O O O O O
-6일 오후 4시 반경 경북한 어린이집에서 잠자던 이 모양(2)이 숨을 쉬지 않는 것을 보육교사가 발견 하+여 119에 신고하였다 .	O O O O LOC-B O O O O O O O O O O O ORG-B O O
-이날 김 원장 외에도 최순실씨 자매와 박 대통령을 진료 하+ㄴ ‘제3의 의사’가 있다는 방송 보도가 논란이 +었다 .	O PER-B O O PER-B O PER-B O O O O O O O O O O O
+김광열 베세토 국제 학교 이사장	PER-B ORG-B ORG-I ORG-I O
+박근혜 대통령 은 미국 을 방문한 16 일 로이드 넬슨 핸드 전 미 국무부 의전 장 ( 86 ) 에게서 50 년 전 박 전 대통령 부부 의 방 미 사진 이 담긴 사진첩 을 선물 받 았 다 .	PER-B O O ORG-B O O DAT-B DAT-I PER-B PER-I PER-I O ORG-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+대한 근대 5 종 연맹 은 정진화 를 포함해 올림픽 출전 자격 을 얻 은 남자 선수 4 명 가운데 최종 출전자 2 명 을 가릴 계획 이 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+한편 , 방탄소년단 은 29 일 0 시 세 번째 미니 앨범 ‘ 화양연화 pt .1 ’ 을 발매할 예정 이 다 .	O O ORG-B O DAT-B DAT-I TIM-B TIM-I O O O O O O O O O O O O O O O
+지난 11 일 민주당 우상호 원내 대표 는 “ 야권 이 분열하 면 ( 대선 에서 ) 진다 ” 며 야권 통합 카드 를 꺼냈 다 .	O DAT-B DAT-I ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O
+[ 라이프 트렌드 ] 강원도 폐광 지역 청소년 꿈 키우 다	O O O O LOC-B O O O O O O
+국내 이동통신 사 중 에서 는 KT 가 2012 년 스마트폰 과 연동해 사용하 는 ‘ 스파이더 랩톱 ’ 을 선보인 이후 처음 이 다 .	O O O O O O ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O
+그래도 등교하 지 않 는다면 관할 교육청 에 보고하 도록 돼 있 다 .	O O O O O O ORG-B O O O O O O O
+그러나 해당 학교 는 부천 교육 지원 청 에 이런 내용 을 보고하 지 않 았 다 .	O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O
+한국 에서 는 41 개 직종 에 45 명 의 선수 가 출전해 금 12 개 , 은 7 개 , 동 5 개 로 19 번째 이 자 5 회 연속 대회 종합 우승 을 달성 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+YMS 를 바탕 으로 고객 이용 추이 등 을 분석해 시간대 , 좌석 , 노선 에 따 라 철도 요금 체계 를 다양화해 탑승 률 을 최대 로 끌어올 렸 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 증시 도 중국 의 경기 회복 에 대한 기대감 으로 소비 주 를 중심 으로 상승세 를 탈 것 으로 기대된다 .	LOC-B O O ORG-B O LOC-B O O O O O O O O O O O O O O O O O
+한 입주 기업 관계자 는 “ 투자액 의 90 % 까지 지원한다는 내용 은 남북 경협 보험 약관 에 도 다 나 와 있 는 것 이 어서 특별히 새로 운 방안 이 없 는 원론적 인 수준 이 었 다 ” 고 평가 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6 일 오후 4 시 반 경 경북 한 어린이 집 에서 잠자 던 이모 양 ( 2 ) 이 숨 을 쉬 지 않 는 것 을 보육 교사 가 발견해 119 에 신고 했 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I O O LOC-B O O O O O O PER-B O O O O O O O O O O O O O O O O O ORG-B O O O O O
+이날 김 원장 외 에 도 최순실 씨 자매 와 박 대통령 을 진료 한 ‘ 제 3 의 의사 ’ 가 있 다는 방송 보도 가 논란 이 됐 다 .	O PER-B O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O

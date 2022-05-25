@@ -1,16 +1,16 @@
-이날 식사를 하+ㄴ 김동현(31)씨는 “어떤 음식이 나 오+ㄹ지 모르아 깜짝 선물을 받는 기분이었다”며 “나 오+ㄴ 음식 모두 입맛에 맞고 정말 만족스럽었다”고 말하였다 .	O O O PER-B O O O O O O O O O O O O O O O O O O O
-또 대한이는 제균이 오나이저 기능으로 세균과 싸움을 벌이+ㄴ다 .	O O O O O O O O O
-최규하 권한대행이 1979년 11월 15일 국회를 방문하+여 예산안 시정연설을 +였지만 대통령 유고 상황에서 총리가 아니+ㄴ 대통령 자격으로 연설을 +였다는 점에서 지금과는 다르다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-전체적으로 슈틸리케 감독의 머리가 복잡하+ㄹ 수밖에 없는 분위기+이다 .	O PER-B O O O O O O O
-김성만 한전기술기획처 실장은 “빅스포에서는 발전소 한 곳에서 생산하는 전기를 담아내 +ㄹ 수 있는 52MW(메가와트) 차세대 에너지저장장치 등 꿈의 기술이 선보이+ㄹ 것”이라고 말하였다 .	PER-B ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O
-지난해에는 미국이 대북제재 강화법을 채택하+ㄴ데 .	O ORG-B O O O O
-한국은행은 지금까지 25개 주요 교역상대국 통화에 대하+여서만 고시하던 원화 환율 대상을 29개 통화로 확대, 주요 외국환은행 창구를 통하+여환전 하+여주기로+였다고 29일 발표하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
-윤진서는 또 “멕시코에서 대부분 미국 사람들이 파도를 타러 오+ㄴ다 .	PER-B O ORG-B O ORG-B O O O O O
-SK케미칼 측은 “에코젠의 친환경성과 내구성 등의 강점을 적극 부각하고 신용카드, 교통카드, 유심카드 등 다양하+ㄴ 분야에 적합하+ㄴ용도개발을 통하+여 2020년까지 국내 카드시장 점유율을 80%까지 끌어올리+ㄹ 계획”이라고 말하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-올해 롯데백화점과 현대백화점이 대관행사를 벌이+ㄴ 데 잇어 패션업체까지 ‘소비자 찾아가기’에 나서 +ㄴ 것.이번 행사는 패션그룹 형지 창립 후 처음으로 열는 출장세일 행사로 약 3130m ²(약 947평) 규모의 전시장에서 열리+ㄴ다 .	O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-최근 교보생명의 24시간 나+의 보험금 지급률은 지난해 12월 기준 82%.10건 중 8건 이상은 24시간 안에 보험금을 받았다는 의미+이다 .	O ORG-B O O O O O O O O O O O O O O O O O
-이만갑에 출연하+여오+ㄴ 새터민들 역시 희소식이 끊이지 않고 있다 .	O O O O O O O O O
-결혼 고은미 “천만 원 백 받고 의심병 때문에 …”사연 듣어보니? ‘헉! .	O PER-B MNY-B MNY-I O O O O O O O O
-테마는 ‘특급호텔 셰프가 만들 +ㄴ∼플로리다 내추럴 주스 요리’이+ㅂ니다 .	O O O O LOC-B O O O O
-이번 온라인 이벤트에는 리츠칼튼 호텔 최영재 바텐더가 플로리다 내추럴 주스를 활용하+여 만들 +ㄴ무알코올 칵테일 4가지를 소개하+ㅂ니다 .	O O O ORG-B ORG-I PER-B O LOC-B O O O O O O O O O
-6일 빠르 아… 단풍 위로 진눈깨비 ‘펄펄’ 설악산 첫눈 10일 국립공원 설악산에 첫눈이 관측되었다 .	O O O O O O O LOC-B O O O LOC-B O O O
+이날 식사 를 한 김동현 ( 31 ) 씨 는 “ 어떤 음식 이 나올지 몰 라 깜짝 선물 을 받 는 기분 이 었 다 ” 며 “ 나온 음식 모두 입맛 에 맞 아 정말 만족스러 웠 다 ” 고 말 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 대한이 는 제균 이 오 나이저 기능 으로 세균 과 싸움 을 벌인다 .	O O O O O O O O O O O O O O O
+최규하 권한 대행 이 1979 년 11 월 15 일 국회 를 방문해 예산안 시정 연설 을 했 지만 대통령 유고 상황 에서 총리 가 아닌 대통령 자격 으로 연설 을 했 다는 점 에서 지금 과 는 다르 다 .	PER-B O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전체적 으로 슈틸리케 감독 의 머리 가 복잡할 수 밖에 없 는 분위기 다 .	O O PER-B O O O O O O O O O O O O
+김성만 한전 기술 기획 처 실장 은 “ 빅스포 에서 는 발전소 한 곳 에서 생산하 는 전기 를 담 아 낼 수 있 는 52 MW ( 메가와트 ) 차세대 에너지 저장 장치 등 꿈 의 기술 이 선보일 것 ” 이라고 말 했 다 .	PER-B ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 에 는 미국 이 대북 제재 강화 법 을 채택한 데 다	O O O ORG-B O O O O O O O O O
+한국은행 은 지금 까지 25 개 주요 교역 상대국 통화 에 대해서 만 고시하 던 원화 환율 대상 을 29 개 통화 로 확대 , 주요 외국환 은행 창구 를 통해 환전해 주 기 로 했 다고 29 일 발표 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+윤진서 는 또 “ 멕시코 에서 대부분 미국 사람 들 이 파도 를 타 러 온다 .	PER-B O O O ORG-B O O ORG-B O O O O O O O O O
+SK 케미칼 측 은 “ 에코젠 의 친 환경 성 과 내구성 등 의 강점 을 적극 부각하 고 신용카드 , 교통 카드 , 유심 카드 등 다양한 분야 에 적합한 용도 개발 을 통해 2020 년 까지 국내 카드 시장 점유율 을 80 % 까지 끌어올릴 계획 ” 이라고 말 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+올해 롯데백화점 과 현대백화점 이 대관 행사 를 벌인 데 이 어 패션 업체 까지 ‘ 소비자 찾아가 기 ’ 에 나선 것 . 이번 행사 는 패션 그룹 형지 창립 후 처음 으로 여 는 출장 세일 행사 로 약 3130 m ² ( 약 947 평 ) 규모 의 전시장 에서 열린다 .	O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최근 교보생명 의 24 시간 내 보험금 지급 률 은 지난해 12 월 기준 82 % . 10 건 중 8 건 이상 은 24 시간 안 에 보험금 을 받 았 다는 의미 다 .	O ORG-B O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+이만갑 에 출연해 온 새터 민 들 역시 희소식 이 끊이 지 않 고 있 다 .	O O O O O O O O O O O O O O O O O
+결혼 고은미 “ 천만 원 백 받 고 의심병 때문 에 … ” 사연 들 어 보 니 ? ‘ 헉 ! ’	O PER-B O MNY-B MNY-I O O O O O O O O O O O O O O O O O O
+테마 는 ‘ 특급 호텔 셰프 가 만든 ∼ 플로리다 내추럴 주스 요리 ’ 입니다 .	O O O O O O O O O LOC-B O O O O O O
+이번 온라인 이벤트 에 는 리츠칼튼 호텔 최영재 바텐더 가 플로리다 내추럴 주스 를 활용해 만든 무알코올 칵테일 4 가지 를 소개합니다 .	O O O O O ORG-B ORG-I PER-B O O LOC-B O O O O O O O O O O O O
+6 일 빨 라 … 단풍 위 로 진눈깨비 ‘ 펄펄 ’ 설악산 첫눈 10 일 국립공원 설악산 에 첫눈 이 관측 됐 다 .	DAT-B DAT-I O O O O O O O O O O LOC-B O DAT-B DAT-I O LOC-B O O O O O O O

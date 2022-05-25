@@ -1,15 +1,15 @@
-허 회장은 “자신이 속하+ㄴ 곳에 얽매이지 말고, 물리적 제약과 자신의 한계를 뛰어넘는 노력이 필요하다”고 당부하였다 .	PER-B O O O O O O O O O O O O O O O
-추신수는 2-1로 리드 하+ㄴ 8회 말 수비에서 제이크 스몰린 스+하기로 교체되+어 경기에 빠지었다 .	PER-B O O O O O O PER-B O O O O O O
-현재 최씨는 자신만의 창의적 이+ㄴ 레시피를 1000가지 넘게 갖고 있다 .	O PER-B O O O O O O O O O
-보도에 따르면 박 전 대통령은 독방시설이 너무 지저분하다는 이유로 다시 도배 하+여달라고 요구하였다 .	O O PER-B O O O O O O O O O O O
-최근 미국 금융그룹 뱅크오브아메리카(BOA)는 “미 중앙은행이 기준금리를 올리기 전 마지막 여름이 다가오고 있다”며 “투자자들은 ‘무섭 ㄴ 여름(Scary Summer)’을 대비 하+여야 하+ㄴ다”고 경고하였다 .	O ORG-B O ORG-B ORG-B ORG-I O O O O O O O O O O O O O O O O O
-국회 환경미화노동조합 김영숙 위원장은 8일 "그동안 국회 청소노동자들은 순종 안 하면 밉보이고, 말 한마디도 못 +였다 .	ORG-B ORG-I PER-B O O O ORG-B O O O O O O O O O O
-카운티 경찰청은 트위터를 통하+여 현지시간 오전 10시 38분에 총격 신고 전화를 받았다고 말하였다 .	ORG-B ORG-I O O O O O O O O O O O O
-어느 북한 내부 문건에는 “가장 참담하+ㄴ 것은 20대 젊은이의 손에 어느 날 훌쩍 맡기+어지+ㄴ이 나라, 그의 정신적 미숙 하+ㅁ과 무지하+ㅁ이 불러오는 이 참상 앞에서도 겁에 질리+어침묵에 잠기+ㄴ 우리들의 모습”이란 차세대 엘리트들의 ‘집단지성’이 등장하+ㄴ다 .	O ORG-B O O O O O O ORG-B O O O O ORG-B O O O O O ORG-B O ORG-B O O O O O O ORG-B O O ORG-B O O
-조사 대상은 통계청 기준에 따르 아분류 하+ㄴ빈곤층 253명, 중산층 1205명, 고소득층 272명이었다 .	O O ORG-B O O O O O O O O O O
-블루홀, 2016년 하반기 신입 공개채용 실 .	ORG-B O O O O O O
-저는 10대 때부터 그림으로 밥벌이를 +였어요 .	O O O O O O O
-며 "게임스컴을 시작으로 올 하반기 업데이트와 서비스를 가속화해 흥행기세를 잇어나가는 한편, 북미 유럽시장의 성공 경험을 바탕으로 글로벌 멀티플랫폼 게임 서비스 전략을 확대하+여나가 +ㄹ 것"이라 밝히었다 .	O O O O O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O
-'검은 사막'은 올 3월, 카카오 게임즈 유럽법인에서 북미-유럽 자체 서비스를 시작하+ㄴ 이래 출시 첫 달 가입자 40만명이 유입, 최고 동시접속자 10만명을 기록하+여역 대국산 PC온라인게임 중 최대 성과를 내며 쾌조의 시작을 보이었다 .	O O O O ORG-B ORG-I ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-이후, 북미 최대 게임사이트 'MMORPG닷컴' 1년간 최고 인기 게임과 최고 평점 게임 1위를 석권하며 명실공히 북미 유럽 최고 인기 MMORPG로 자리매김+였다 .	O ORG-B O O ORG-B O O O O O O O O O O ORG-B ORG-B O O ORG-B O O
-한편, 카카오 게임즈는 2-1홀에 위치하+ㄴ B2B 전시관에도 별도의 기업 부스를 마련하+여, 전 세계 게임업계 관계자들 및 IT기업들과의 상담과 회의를 진행하+ㄴ다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O
+허 회장 은 “ 자신 이 속한 곳 에 얽매이 지 말 고 , 물리적 제약 과 자신 의 한계 를 뛰 어 넘 는 노력 이 필요하 다 ” 고 당부 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+추신수 는 2 - 1 로 리드한 8 회 말 수비 에서 제이크 스몰린스 키 로 교체돼 경기 에 빠 졌 다 .	PER-B O O O O O O O O O O O PER-B PER-I PER-I O O O O O O O O
+현재 최 씨 는 자신 만 의 창의적 인 레시피 를 1000 가지 넘 게 갖 고 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+보도 에 따르 면 박 전 대통령 은 독방 시설 이 너무 지저분하 다는 이유 로 다시 도배해 달 라고 요구 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O
+최근 미국 금융 그룹 뱅크오브아메리카 ( BOA ) 는 “ 미 중앙은행 이 기준 금리 를 올리 기 전 마지막 여름 이 다가오 고 있 다 ” 며 “ 투자자 들 은 ‘ 무서 운 여름 ( Scary Summer ) ’ 을 대비해야 한다 ” 고 경고 했 다 .	O ORG-B O O ORG-B O ORG-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국회 환경 미화 노동조합 김영숙 위원장 은 8 일 " 그동안 국회 청소 노동자 들 은 순종 안 하 면 밉보 이 고 , 말 한마디 도 못 했 다 .	ORG-B ORG-I ORG-I ORG-I PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+카운티 경찰청 은 트위터 를 통해 현지 시간 오전 10 시 38 분 에 총격 신고 전화 를 받 았 다고 말 했 다 .	ORG-B ORG-I O O O O O O TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O
+어느 북한 내부 문건 에 는 “ 가장 참담한 것 은 20 대 젊은이 의 손 에 어느 날 훌쩍 맡겨 진 이 나라 , 그 의 정신 적 미숙함 과 무지함 이 불러오 는 이 참상 앞 에서 도 겁 에 질려 침묵 에 잠긴 우리 들 의 모습 ” 이 란 차세대 엘리트 들 의 ‘ 집단 지성 ’ 이 등장한다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+조사 대상 은 통계청 기준 에 따 라 분류한 빈곤 층 253 명 , 중산층 1205 명 , 고소득 층 272 명 이 었 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+블루 홀 , 2016 년 하반기 신입 공개 채용 실시	ORG-B ORG-I O DAT-B DAT-I O O O O O
+저 는 10 대 때 부터 그림 으로 밥벌이 를 했 어요 .	O O O O O O O O O O O O O
+며 " 게임 스컴 을 시작 으로 올 하반기 업데이트 와 서비스 를 가속화 해 흥행 기세 를 이 어 나가 는 한편 , 북미 유럽 시장 의 성공 경험 을 바탕 으로 글로벌 멀티 플랫폼 게임 서비스 전략 을 확대해 나갈 것 " 이 라 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+' 검 은 사막 ' 은 올 3 월 , 카카오 게임즈 유럽 법인 에서 북미 - 유럽 자체 서비스 를 시작한 이래 출시 첫 달 가입자 40 만 명 이 유입 , 최고 동시 접속자 10 만 명 을 기록해 역대 국산 PC 온라인 게임 중 최대 성과 를 내 며 쾌조 의 시작 을 보 였 다 .	O O O O O O O DAT-B DAT-I O ORG-B ORG-I ORG-I ORG-I O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 , 북미 최대 게임 사이트 ' MMORPG 닷컴 ' 1 년 간 최고 인기 게임 과 최고 평점 게임 1 위 를 석권하 며 명실공히 북미 유럽 최고 인기 MMORPG 로 자리매김 했 다 .	O O LOC-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O ORG-B ORG-B O O O O O O O O
+한편 , 카카오 게임즈 는 2 - 1 홀 에 위치한 B 2 B 전시관 에 도 별도 의 기업 부스 를 마련해 , 전 세계 게임 업계 관계자 들 및 IT 기업 들 과 의 상담 과 회의 를 진행한다 .	O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

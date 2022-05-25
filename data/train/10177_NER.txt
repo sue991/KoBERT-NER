@@ -1,14 +1,14 @@
-세 차례의 사고가 발생하는 데 걸리+ㄴ 시간은 15초 가량이었다 .	O O O O O O O O O O
-그는 영국 럭셔리 온라인 쇼핑몰 ‘네타포르테’의 우수 고객(VIP) 클라이언트 릴레이션 스 담당 글로벌 디렉터이다 .	O ORG-B O O O O O O O O O O O O O
-이런 희망에 따르+ㄴ 출산율이 1.8이다 .	O O O O O O
-하지만 세계 경제포럼 측이 최근 발표 하+ㄴ ‘2016년 세계무역 가능보고서’는 중국 시장의 폐쇄성이 조사 대상 136개국 중 126위로 나타나 +았다고 밝히었다 .	O O O O O O O O O O ORG-B O O O O O O O O O O O
-○ 제주·부산·서울이 상승세 이끌어 올해 공동주택 공시가격 변동률은 지난해(5.97%)보다는 낮지만 최근 10년간 세 번째로 높은 수치+이다 .	O LOC-B O O O O O O O O O O O O O O O
-스트래티지 애널리틱스(SA)에 따르면 세계 자동차 전장부품 시장 규모는 2015년 2390억달러에서 2020년 3033억달러로 성장 하+ㄹ 전망이다 .	ORG-B ORG-B O O O O O O O MNY-B O MNY-B O O O O
-내년 초 개통되+ㄹ 신분당선 상현역이 단지에서 1km 이내에 있다 .	O O O LOC-B LOC-B O O O O O
-반도체 학부 과정이+ㄴ반도체 과학기술학과를 만들 +ㄴ 것은 2002년 .이를 통하+여대학-대학원-연구소의 연계를 만들었으며 이 학과는 반도체 분야 교육과 연구의 산실이 +었다 .	O O O O O O O O O O O O O O O O O O O O O
-한국에서는 89년 해태 김성한이 26홈런-32 도루로 20-20을 처음 달성하였고, 96년 현대박재홍이 30홈런-36 도루로 30-30을 처음 돌파하였다 .	ORG-B O ORG-B PER-B O O O O O O ORG-B O O O O O O
-[비즈 칼럼]‘그러+어+보았자 중소기업’ 체념 벗어던지+ㄹ  .	O O O O O O O
-장 이사장은 해양환경보호를 넘어서 +ㄴ 경제적 가치 창출에도 관심이 많다 .	PER-B PER-B O O O O O O O O O
-홍 교수와 학생들은 이날 오후 5시쯤 부산 문현동 한국거래소도 방문하였다 .	PER-B O O O O O LOC-B LOC-I ORG-B O O
-일제는 1911년 제1차 조선교육령을 발표하여 일제의 식민통치에 순응하는 인간 육성을 목표로 하는 교육을 시행하+ㄹ 것이 +ㅁ을 분명히 +였다 .	ORG-B O O ORG-B O ORG-B O O O O O O O O O O O O O
-한국국제협력단(KOICA)이 에콰도르의 창업기업 육성 및 기술이전을 위하+여 추진하는 공적개발원조(ODA) 사업을 순천향대가 앞으로 3년 동안 맡아 운영하는 것이다 .	ORG-B ORG-B O O O O O O O O ORG-B O O O O O O O
+세 차례 의 사고 가 발생하 는데 걸린 시간 은 15 초 가량 이 었 다 .	O O O O O O O O O O O O O O O O O
+그 는 영국 럭셔리 온라인 쇼핑몰 ‘ 네 타 포르테 ’ 의 우수 고객 ( VIP ) 클라이언트 릴레이션스 담당 글로벌 디렉터 이 다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+이런 희망 에 따른 출산율 이 1.8 이 다 .	O O O O O O O O O O
+하지만 세계경제 포럼 측 이 최근 발표한 ‘ 2016 년 세계 무역 가능 보고서 ’ 는 중국 시장 의 폐쇄성 이 조사 대상 136 개국 중 126 위 로 나타났 다고 밝 혔 다 .	O ORG-B ORG-I O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+○ 제주 · 부산 · 서울 이 상승세 이끌 어 올해 공동 주택 공시 가격 변동 률 은 지난해 ( 5.97 % ) 보다 는 낮 지만 최근 10 년 간 세 번째 로 높 은 수치 다 .	O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+스트래티지 애 널리 틱스 ( SA ) 에 따르 면 세계 자동차 전장 부품 시장 규모 는 2015 년 2390 억 달러 에서 2020 년 3033 억 달러 로 성장할 전망 이 다 .	ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O DAT-B DAT-I MNY-B MNY-I MNY-I O DAT-B DAT-I MNY-B MNY-I MNY-I O O O O O O
+내년 초 개통될 신분당선 상 현역 이 단지 에서 1 km 이내 에 있 다 .	O O O LOC-B LOC-B LOC-I O O O O O O O O O O
+반도체 학부 과정 인 반도체 과학 기술 학과 를 만든 것 은 2002 년 . 이 를 통해 대학 - 대학원 - 연구소 의 연계 를 만들 었 으며 이 학과 는 반도체 분야 교육 과 연구 의 산실 이 됐 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 에서 는 89 년 해태 김성한 이 26 홈런 - 32 도루 로 20 - 20 을 처음 달성 했 고 , 96 년 현대 박재홍 이 30 홈런 - 36 도루 로 30 - 30 을 처음 돌파 했 다 .	ORG-B O O DAT-B DAT-I ORG-B PER-B O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B PER-B O O O O O O O O O O O O O O O O
+[ 비즈 칼럼 ] ‘ 그래 봤 자 중소기업 ’ 체념 벗어던질 때	O O O O O O O O O O O O O
+장 이사장 은 해양 환경 보호 를 넘어선 경제적 가치 창출 에 도 관심 이 많 다 .	PER-B O O O O O O O O O O O O O O O O O
+홍 교수 와 학생 들 은 이날 오후 5 시 쯤 부산 문현동 한국거래소 도 방문 했 다 .	PER-B O O O O O O TIM-B TIM-I TIM-I O LOC-B LOC-I ORG-B O O O O O
+일제 는 1911 년 제 1 차 조선 교육령 을 발표하 여 일제 의 식민 통치 에 순응하 는 인간 육성 을 목표 로 하 는 교육 을 시행할 것 임 을 분명히 했 다 .	ORG-B O DAT-B DAT-I O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+한국국제협력단 ( KOICA ) 이 에콰도르 의 창업 기업 육성 및 기술 이전 을 위해 추진하 는 공적 개발 원조 ( ODA ) 사업 을 순천향대 가 앞 으로 3 년 동안 맡 아 운영하 는 것 이 다 .	ORG-B O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O

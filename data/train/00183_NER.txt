@@ -1,11 +1,11 @@
-임종인 대통령 안보특보가 “한국은 북한의 사이버 공격에 단 한 번도 조치를 못하+ㄹ만큼 대응에 실패하였다”고 실토하였다 .	PER-B O O ORG-B ORG-B O O O O O O O O O O O
-14일로또 플레이에 따르면 로또 632회 2등 당첨자는 평범 하+ㄴ 30대 직장인 여성 박모씨+이다 .	O O O O O O O O O O O O PER-B O
-“북한 땅은 ‘악당들이 살는’ 곳이 아니라 바로 나+의 그립 ㄴ반쪽 나라, 나+의민족, 나+의 이웃이었다 .	LOC-B O O O O O O O O O O O O O O
-자연원 ‘통째로 갈아 만들 +ㄴ파인애플초’ 매출급 신장 … 수박 양파초·바나나 초출 .	ORG-B O O O O O O O O O O O
-256쾀은 삼성전자의 ‘갤럭시S7’과 ‘S7 엣지’, LG전자 ‘G5’ 등 최신 스마트폰에 적용되 +어 있다 .	O ORG-B O O O ORG-B O O O O O O O O
-휴메인사이어티 인터내셔널(HumaneSociety International)은 개고기 축제가 아니+ㄴ 기간에도 하루에 약 300마리의 개가도살당 하+ㄴ다고 밝히었다 .	ORG-B ORG-B ORG-I O O O O O O O O O O O
-휴메인 소사이어티 인터내셔널 중국팀장은 "이 축제를 위하+ㄴ 개고기 거래와 방대하+ㄴ도살은 극도로 잔인하+ㄴ 행위이며 반드시 중지되 +어야 하+ㄴ다"고 주장하였다 .	ORG-B ORG-I ORG-I LOC-B O O O O O O O O O O O O O O O
-해양수산청은 이에 따르 아 정확 하+ㄴ 피해원인을 규명하기 위하+여대 한토목학회에 6일 조사를 의뢰하였다 .	ORG-B O O O O O O O O O O O O O
-느닷없는 담화에 놀라 +ㄴ 가슴을 쓸며 “자다가 봉창 두드리+ㄴ다”고 비판 하+ㄴ MB(이명박 전 대통령) 측근의 말이 시중에 회자되었다 .	O O O O O O O O O O O PER-B O O O O O O O
-넘치거나 모자라지 않게 담화 다음날 검찰은 포스코건설에 대하+ㄴ 압수수색으로 사정정국의 시동을 걸었다 .	O O O O O O ORG-B O O O O O O
-이영자가 “제국의 아이들 광희만큼 +였냐”고 되묻자 박태준은 “그 친구도 +았는데 내가 인조적이+ㄴ미가 조금 더 강하다”라고 말 하+여크+ㄴ 웃음을 자아내 +었다 .	PER-B ORG-B ORG-I PER-B O O PER-B O O O O O O O O O O O O O O
+임종인 대통령 안보 특보 가 “ 한국 은 북한 의 사이버 공격 에 단 한 번 도 조치 를 못할 만큼 대응 에 실패 했 다 ” 고 실토 했 다 .	PER-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+14 일 로또 플레이 에 따르 면 로또 632 회 2 등 당첨자 는 평범한 30 대 직장인 여성 박 모 씨 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O PER-B PER-I O O O
+“ 북한 땅 은 ‘ 악당 들 이 사 는 ’ 곳 이 아니 라 바로 내 그리 운 반쪽 나라 , 내 민족 , 내 이웃 이 었 다 ”	O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+자연원 ‘ 통째 로 갈 아 만든 파인애플 초 ’ 매출 급신장 … 수 박 양 파초 · 바나나 초 출시	ORG-B O O O O O O O O O O O O O O O O O O O O
+256 쾀 은 삼성전자 의 ‘ 갤럭시 S 7 ’ 과 ‘ S 7 엣지 ’ , LG 전자 ‘ G 5 ’ 등 최신 스마트 폰 에 적용돼 있 다 .	O O O ORG-B O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+휴 메인 사이 어 티 인터내셔널 ( Humane Society International ) 은 개 고기 축제 가 아닌 기간 에 도 하루 에 약 300 마리 의 개 가 도살 당한다고 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+휴 메인 소사이어티 인터내셔널 중국 팀장 은 " 이 축제 를 위한 개고기 거래 와 방대한 도살 은 극도 로 잔인한 행위 이 며 반드시 중지돼야 한다 " 고 주장 했 다 .	ORG-B ORG-I ORG-I ORG-I LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+해양 수산청 은 이 에 따 라 정확한 피해 원인 을 규명하 기 위해 대한 토목학 회 에 6 일 조사 를 의뢰 했 다 .	ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O
+느닷없 는 담화 에 놀란 가슴 을 쓸 며 “ 자 다가 봉창 두드린다 ” 고 비판한 MB ( 이명박 전 대통령 ) 측근 의 말 이 시중 에 회자 됐 다 .	O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O
+넘치 거나 모자라 지 않 게 담화 다음 날 검찰 은 포스코건설 에 대한 압수 수색 으로 사정 정국 의 시동 을 걸 었 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+이영자 가 “ 제국 의 아이 들 광희 만큼 했 냐 ” 고 되묻 자 박태준 은 “ 그 친구 도 봤 는데 내 가 인조 적 인 미 가 조금 더 강하 다 ” 라고 말해 큰 웃음 을 자아냈 다 .	PER-B O O ORG-B ORG-I ORG-I ORG-I PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O

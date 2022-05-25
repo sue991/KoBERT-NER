@@ -1,13 +1,13 @@
-에이브릴라빈, 라임병 투병 고백 “나+의 인생 최악의 시기”… 라임 병 증세는 .	PER-B O O O O O O O O O O O
-그런데 새로 생기+ㄴ이 대한항공 북 경 사무소의 네온 간판은 남다르+ㄴ 사연을 갖고 있다 .	O O O ORG-B O O O O O O O O O O
-한편 보건복지부는 서울의회가 정부와의 ‘협의’의무를 지키지 않고 정기소득이 없는 미취업 청년에게 6개월간 50만원을 주는 청년수당 예산을 편성하+ㄴ 것과 관련 하+여 서울시장이나 시의회를 대법원에 제소하겠다고 밝히었다 .	O ORG-B ORG-B O O O O O O O O O MNY-B O O O O O O O ORG-B ORG-I MNY-I O O O
-이른바 ‘비토(veto·반대) 후보’는 반 전 총장에 이어 문 전 대표(22.4%), 황교안 대통령 권한대행(10.3%), 안 전 대표(5.1%) 순이었다 .	O PER-B O PER-B O O O PER-B O O PER-B O O PER-B O O O O
-1일 국회 국토교통위원회 등에 따르면 올 6월 새누리당 이종훈 의원(경기 성남 분당갑)이 대표발의 하+ㄴ임대주택법 개정안이 2일 국토교통위 법안심사소위원회의 최종 심의에 부치+어지+ㄴ다 .	O ORG-B ORG-B O O O O ORG-B PER-B LOC-B LOC-B LOC-I O O O O ORG-B ORG-I O O O O
-중국 외교부의 한 대변인은 쌍방 협상을 국제무대로 끌어들이는 시도는 중국으로서 +ㄴ용납 하+ㄹ 수 없다고 강조하였다 .	ORG-B ORG-I O O O O O O O ORG-B O O O O O O
-홍익대는 2016학년도 대학입시 정시모집에서 일반전형으로 1765명을 선발하+ㄴ다 .	ORG-B O O O O O O O
-쉐보레 RV 차종이+ㄴ 트랙스, 캡티바, 올란도를 구매하는 고객에게 고품질 그늘막 텐트를 이 기간 동안 지급하+ㄴ다 .	ORG-B O O O O O O O O O O O O O O O
-다만 “지난해 10월 판후이 2단을 꺾은 뒤 알파고의 인공신경망이 얼마나 발전하였는지 확인 하+ㄹ 수 있는 좋은 기회”+이라며 이번 대결의 의미를 설명하였다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
-제일 바깥 차선에 차들이 많이 주차되+어 있었고 1차선에는 교통량이 많았다 .	O O O O O O O O O O O
-김구라는 “김새롬은 정말 괜찮은 친구+이다”면서 “술 마시고 힘들게 하+ㄴ 적은 없지?”라고 캐묻었다 .	PER-B PER-B O O O O O O O O O O O
-김새롬은 “이따가 오겠다”며 이찬오와 자리를 비우자, 김구+이라는 “너무 티 내 +ㄴ다”고 말 하+ 여웃음을 자아내 +었다 .	PER-B O O PER-B O O PER-B O O O O O O O O O O
-이후 스튜디오 뒤에서 이찬오와 김새롬은 나란히 서+어서 얼굴 가득 미소를 보이어 눈길을 사로잡았다 .	O O O PER-B PER-B O O O O O O O O O
+에이브 릴 라빈 , 라임병 투병 고백 “ 내 인생 최악 의 시기 ” … 라임병 증세 는 ?	PER-B PER-I PER-I O O O O O O O O O O O O O O O O
+그런데 새로 생긴 이 대한항공 북경 사무소 의 네온 간판 은 남다른 사연 을 갖 고 있 다 .	O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O
+한편 보건복지부 는 서울시 의회 가 정부 와 의 ‘ 협의 ’ 의무 를 지키 지 않 고 정기 소득 이 없 는 미 취업 청년 에게 6 개월 간 50 만 원 을 주 는 청년 수당 예산 을 편성한 것 과 관련해 서울 시장 이나 시의회 를 대법원 에 제소하 겠 다고 밝 혔 다 .	O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+이른바 ‘ 비토 ( veto · 반대 ) 후보 ’ 는 반 전 총장 에 이어 문 전 대표 ( 22.4 % ) , 황교안 대통령 권한 대행 ( 10.3 % ) , 안 전 대표 ( 5.1 % ) 순 이 었 다 .	O O O O O O O O O O O PER-B O O O O PER-B O O O O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O
+1 일 국회 국토 교통 위원회 등 에 따르 면 올 6 월 새누리당 이종훈 의원 ( 경기 성남 분당 갑 ) 이 대표 발의한 임대 주택 법 개정안 이 2 일 국토 교통 위 법안 심사 소위원회 의 최종 심의 에 부쳐 진다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O DAT-B DAT-I ORG-B PER-B O O LOC-B LOC-B LOC-I LOC-I O O O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O
+중국 외교 부 의 한 대변인 은 쌍방 협상 을 국제무대 로 끌어들이 는 시도 는 중국 으로선 용납할 수 없 다고 강조 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O ORG-B O O O O O O O O O
+홍익대 는 2016 학년도 대학 입시 정시 모집 에서 일반 전형 으로 1765 명 을 선발한다 .	ORG-B O O O O O O O O O O O O O O O O
+쉐보 레 RV 차종 인 트랙스 , 캡 티바 , 올란도 를 구매하 는 고객 에게 고품질 그늘 막 텐트 를 이 기간 동안 지급한다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+다만 “ 지난해 10 월 판 후이 2 단 을 꺾 은 뒤 알파 고의 인공 신경망 이 얼마나 발전 했 는지 확인할 수 있 는 좋 은 기회 ” 라며 이번 대결 의 의미 를 설명 했 다 .	O O O DAT-B DAT-I PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+제일 바깥 차선 에 차 들 이 많이 주차 돼 있 었 고 1 차선 에 는 교통량 이 많 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+김구라 는 “ 김새롬 은 정말 괜찮 은 친구 다 ” 면서 “ 술 마시 고 힘들 게 한 적 은 없 지 ? ” 라고 캐물 었 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+김새롬 은 “ 이따가 오 겠 다 ” 며 이찬오 와 자리 를 비우 자 , 김구 라는 “ 너무 티 낸다 ” 고 말해 웃음 을 자아냈 다 .	PER-B O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O O O O O
+이후 스튜디오 뒤 에서 이찬오 와 김새롬 은 나란히 서서 얼굴 가득 미소 를 보 여 눈길 을 사로잡 았 다 .	O O O O PER-B O PER-B O O O O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-한편 이날 썰전은 3.817%(닐슨코리아 수도권 유료 가구 광고 제외기준)의 시청률을 기록하+ 여자체 시청률 기록을 갱신하였다 .	O O O ORG-B LOC-B O O O O O O O O O O O
-대화를 나누는 버락 오바마 미국 대통령과 블라디미르 푸틴 러시아 대통령 사이에 다크니시를 합성하+ 여넣은 사진 등이다 .	O O PER-B PER-I ORG-B O PER-B PER-I ORG-B O O O O O O O O
-“가능하면, 기회가 있다면 공격 포인트 15개 이상이 올해 목표+이다 .	O O O O O O O O O O
-박 대통령의 ‘창조경제’를 지지하+ㄴ다는 의미에서 마련되 +ㄴ일정이라고 하+ㄴ다 .	PER-B O O O O O O O O
-박병호를 더욱 빛나게 하+ㄴ 것은 빛나+ㅁ을 당연하게 여기지 않는 그의 마음가짐이다 .	PER-B O O O O O O O O O O O
-‘복면가왕’ 토끼 정체는 볼 빨간 사춘기 안지영 …강타 예상 적 .	O O O ORG-B ORG-I ORG-I PER-B PER-B O O O
-그가 원하는 퇴직 후 생활비는 월 300만원 정도.40년에 가깝ㄴ 노후생활비 마련을 위하+여 현재 보유하고 있는 자산을 효과적으로 운영·관리 하+ㄹ 수 있는 방안에 대하+ 여문의 하+여+오았다 .	O O O O O O MNY-B O O O O O O O O O O O O O O O O O O O
-A방 씨는 ‘돌싱’이+ㄴ지 ‘미혼’이+ㄴ지 밝히지 않고 있으나 남편 없이 부모님과 여러 형제·자매를 부양하고 있다 .	PER-B O O O O O O O O O O O O O O
-화성시 심의를 거치+어적격자로 선정되+ㄴ자에 한 하+여 공급되+ㄴ다 .	LOC-B O O O O O O O
-송영관 위원은 “철강산업 등 주력 업종에서 저렴하+ㄴ 산업용 전기요금 등이 낮은 원가의 원인으로 지적되 +ㄹ 가능성에도 유념 하+여야 하+ㄴ다”고 조언하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O
-7일 영국 일간 데일리메일은 그 가운데 탈출에 성공하+ㄴ 두 여성의 인터뷰를 소개하였다 .	O ORG-B O O O O O O O O O O O
-국회 안전행정위원회 소속 새누리당 황인자 의원이 경찰청에서 확보하+ㄴ ‘통신자료 필요성 및 영장 요구 시 문제점·대응방안’ 자료에 따르면 “통신자료 제공 거부 시 신원을 특정하기가 불가능하+여수사 착수 자체에 심대하+ㄴ타격을 입고 통신자료에 영장을 요구하면 수사의 장기화가 불가피하+ㄹ뿐 아니라 테러 유괴 등 긴급을 요하는 상황에서 대처가 어렵다”고 전망하였다 .	O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-화요일에 환자 사례협의 치료방법 다각도로 모색 수술법 선택은 환자의 몫 ‘공유의사결정’ 방식으로 문제 해결 갑상선암은 우리나라에서 발생률이 가장 높은 암이다 .	O O O O O O O O O O O O O O O O O O O O O
-강남 등 서울, 수도권 경기 일대 등 수많은 수익형 부동산 매물이 쏟아지+어나오고 있는 것은 물론, 저마다 안정적 이+ㄴ 수익성과 높은 수익률 등 매력 있는 요건을 제시하고 있어 실투자자들의 높은 선별력을 요구하고 있다 .	LOC-B O LOC-B LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 이날 썰 전 은 3.817 % ( 닐슨 코리아 수도권 유료 가구 광고 제외 기준 ) 의 시청률 을 기록해 자체 시청률 기록 을 갱신 했 다 .	O O O O O O O O ORG-B ORG-I LOC-B O O O O O O O O O O O O O O O O O O
+대화 를 나누 는 버락 오바마 미국 대통령 과 블라디미르 푸틴 러시아 대통령 사이 에 다 크니시 를 합성해 넣 은 사진 등 이 다 .	O O O O PER-B PER-I ORG-B O O PER-B PER-I ORG-B O O O O O O O O O O O O O O
+“ 가능하 면 , 기회 가 있 다면 공격 포인트 15 개 이상 이 올해 목표 다 .	O O O O O O O O O O O O O O O O O O
+박 대통령 의 ‘ 창조 경제 ’ 를 지지한다는 의미 에서 마련된 일정 이 라고 한다 .	PER-B O O O O O O O O O O O O O O O O
+박병호 를 더욱 빛나 게 한 것 은 빛남 을 당연하 게 여기 지 않 는 그 의 마음가짐 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
+‘ 복면 가왕 ’ 토끼 정체 는 볼 빨간 사춘기 안지영 … 강타 예상 적중	O O O O O O O ORG-B ORG-I ORG-I PER-B O PER-B O O
+그 가 원하 는 퇴직 후 생활비 는 월 300 만 원 정도 . 40 년 에 가까 운 노후 생활 비 마련 을 위해 현재 보유하 고 있 는 자산 을 효과적 으로 운영 · 관리할 수 있 는 방안 에 대해 문의해 왔 다 .	O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+A 방 씨 는 ‘ 돌 싱 ’ 인지 ‘ 미혼 ’ 인지 밝히 지 않 고 있 으나 남편 없이 부모님 과 여러 형제 · 자매 를 부양하 고 있 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+화성시 심의 를 거쳐 적격자 로 선정된 자 에 한해 공급된다 .	LOC-B O O O O O O O O O O O
+송영관 위원 은 “ 철강 산업 등 주력 업종 에서 저렴한 산업용 전기 요금 등 이 낮 은 원가 의 원인 으로 지적될 가능성 에 도 유념해야 한다 ” 고 조언 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7 일 영국 일간 데일리메일 은 그 가운데 탈출 에 성공한 두 여성 의 인터뷰 를 소개 했 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O
+국회 안전 행정위원회 소속 새누리당 황인자 의원 이 경찰청 에서 확보한 ‘ 통신 자료 필요성 및 영장 요구 시 문제점 · 대응 방안 ’ 자료 에 따르 면 “ 통신 자료 제공 거부 시 신원 을 특정하 기 가 불가능해 수사 착수 자체 에 심대한 타격 을 입 고 통신 자료 에 영장 을 요구하 면 수사 의 장기화 가 불가피할 뿐 아니 라 테러 유괴 등 긴급 을 요하 는 상황 에서 대처 가 어렵 다 ” 고 전망 했 다 .	O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+화요일 에 환자 사례 협의 치료 방법 다각도 로 모색 수술 법 선택 은 환자 의 몫 ‘ 공유 의사 결정 ’ 방식 으로 문제 해결 갑상선암 은 우리나라 에서 발생률 이 가장 높 은 암 이 다 .	DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강남 등 서울 , 수도권 경기 일대 등 수많 은 수익 형 부동산 매물 이 쏟아져 나오 고 있 는 것 은 물론 , 저마다 안정적 인 수익성 과 높 은 수익률 등 매력 있 는 요건 을 제시하 고 있 어 실 투자자 들 의 높 은 선별 력 을 요구하 고 있 다 .	LOC-B O LOC-B O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

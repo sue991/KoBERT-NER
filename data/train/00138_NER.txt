@@ -1,14 +1,14 @@
-[책의 향기/이 책, 이 저자] “한국은 가정교육, 핀란드는 공동체주의가 강점 .	O O O O O ORG-B O ORG-B O O O
-김씨는 세 개의 아르바이트에 매달리었다 .	PER-B O O O O O
-최종 예선 A조 3위에 머무르어 있는 대표팀은 우즈베키스탄과의 경기에서 지+ㄹ 경우 월드컵 본선 직행(각 조 1, 2위)을 장담하+ㄹ 수 없게 되+ㄴ다 .	O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O
-KIA가 윤석민(29)을 마무리로 쓰+ㄹ 가능성이 높아 보이+ㄴ다 .	ORG-B PER-B O O O O O O
-이번에도 120% 성공을 예감하+ㄴ다”고 자신하였다 .	O O O O O O
-‘현재의 나’를 연기하+ㄴ 변요한 역시 “(김윤석) 선배님과 같이 교류하면서 부담감을 놓게 되는 순간들이 있었다”고 감사를 전하였다 .	O O O PER-B O PER-B O O O O O O O O O O O
-경남도청 소유의 땅 한평, 건물 한 채 안 팔고 오직 내부 개혁만으로 해내 +었어요. .	ORG-B O O O O O O O O O O O O O O
-신격호(95) 롯데그룹 총괄회장의 장녀 이+ㄴ 신 이사장은 롯데의 지주사 격이 +ㄴ 호텔롯데의 등기이사이자, 한때 면세점 사업부를 총괄하는 자리에 있었다 .	PER-B ORG-I O O O PER-B O O O O O ORG-B O O O O O O O O
-서울중앙지검 방위사업수사부(부장 박찬호)는 이번 주 중 신 이사장을 피의자 신분으로 소환조사 하+ㄹ 계획이라고 27일 밝히었다 .	ORG-B ORG-I PER-B O O O PER-B O O PER-B O O O O O O
-내년 4월 총선 출마를 희망하는 민경욱 전 청와대 대변인과 박종준 전 경호실 차장의 사표를 수리하면서 ‘더 이상 청와대 차출은 없다’는 메시지를 김 대표 측에 보내 +었다 .	O O O O O PER-B O ORG-B O PER-B O O O O O O O ORG-B O O O PER-B O O O O O
-반 전 총장은 ‘종국적으로는 어느 쪽이든 기존 정당과 함께 하겠느냐’는 질문에 “그렇게 되+ㄹ 것”이라고 답하였다 .	PER-B O O O O O O O O O O O O O O O
-(※정원 200명) 신청 자격 : 20~30대 독자 누구나 신청 기한 : 12월 23일까 .	O O O O O O O O O O O O O O
-선린인터넷고의 이진영(3학년)은 4-2로 앞서 +ㄴ무사 3루에서 왼쪽 담장을 넘기는 2점 홈런으로 승리에 쐐기를 박았다 .	ORG-B PER-B O O O O O O O O O O O O O
-썸남썸녀 채정안이 혼고백"나 결혼하+ㄴ지 모르았던 사람 많을 것 .	O PER-B O O O O O O O
+[ 책 의 향기 / 이 책 , 이 저자 ] “ 한국 은 가정교육 , 핀란드 는 공동체 주의 가 강점 ”	O O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O
+김 씨 는 세 개 의 아르바이트 에 매달 렸 다 .	PER-B O O O O O O O O O O O
+최종 예선 A 조 3 위 에 머물 러 있 는 대표 팀 은 우즈베키스탄 과 의 경기 에서 질 경우 월드컵 본선 직행 ( 각 조 1 , 2 위 ) 을 장담할 수 없 게 된다 .	O O ORG-B ORG-I O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+KIA 가 윤석민 ( 29 ) 을 마무리 로 쓸 가능성 이 높 아 보인다 .	ORG-B O PER-B O O O O O O O O O O O O O
+이번 에 도 120 % 성공 을 예감한다 ” 고 자신 했 다 .	O O O O O O O O O O O O O O
+‘ 현재 의 나 ’ 를 연기한 변요한 역시 “ ( 김윤석 ) 선배 님 과 같이 교류하 면서 부담감 을 놓 게 되 는 순간 들 이 있 었 다 ” 고 감사 를 전 했 다 .	O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경남 도청 소유 의 땅 한 평 , 건물 한 채 안 팔 고 오직 내부 개혁 만 으로 해냈 어요 . ”	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+신격호 ( 95 ) 롯데 그룹 총괄 회장 의 장녀 인 신 이사장 은 롯데 의 지주사 격 인 호텔 롯데 의 등기 이사 이 자 , 한때 면세점 사업 부 를 총괄하 는 자리 에 있 었 다 .	PER-B O O O ORG-B ORG-I O O O O O PER-B O O ORG-B O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+서울중앙지검 방위 사업 수사 부 ( 부장 박찬호 ) 는 이번 주 중 신 이사장 을 피의자 신분 으로 소환 조사할 계획 이 라고 27 일 밝 혔 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O O O O PER-B O O O O O O O O O O DAT-B DAT-I O O O O
+내년 4 월 총선 출마 를 희망하 는 민경욱 전 청와대 대변인 과 박종준 전 경호실 차장 의 사표 를 수리하 면서 ‘ 더 이상 청와대 차출 은 없 다 ’ 는 메시지 를 김 대표 측 에 보냈 다 .	DAT-B DAT-I DAT-I O O O O O PER-B O ORG-B O O PER-B O O O O O O O O O O O ORG-B O O O O O O O O PER-B O O O O O O
+반 전 총장 은 ‘ 종국적 으로 는 어느 쪽 이든 기존 정당 과 함께하 겠 느냐 ’ 는 질문 에 “ 그렇 게 될 것 ” 이라고 답 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+( ※ 정원 200 명 ) 신청 자격 : 20 ~ 30 대 독자 누구 나 신청 기한 : 12 월 23 일 까지	O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O
+선린인터넷고 의 이진영 ( 3 학년 ) 은 4 - 2 로 앞선 무 사 3 루 에서 왼쪽 담장 을 넘기 는 2 점 홈런 으로 승리 에 쐐기 를 박 았 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+썸남썸녀 채정안 이혼 고백 " 나 결혼한 지 몰 랐 던 사람 많 을 것 "	O PER-B O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-에스원 블루에셋은 1963년부터 잇어 오+ㄴ 50년 서비스 노하우를 바탕으로 관리 업무를 매뉴얼화 하+였다 .	ORG-B ORG-I O O O O O O O O O O O O
-그 또한 차두리처럼 제2의 인생, 은퇴 시기를 고민하지 않을 수 없다 .	O O PER-B O O O O O O O O O
-그러나 역사적 건물은 한번 헐리면 그만이다 .	O O O O O O O
-세월호, 패키지 3개 법안에 잇어 배보상법까지 해결...사실상 마무리 세월호 배보상법 지난해 4월 발생하+ㄴ 세월호 참사의 배·보상·위로금 지원을 결정하는 심의위원회가 설치되고, 추모제 등을 시행하+ㄹ ‘4·16재단’에 5년 동안 정부가 예산을 지원 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이달 분양되는 대단지로는 전북 군산시 조촌동의 ‘군산디오션시티 푸르지오’(1400채), 충북 충주시 충주기업도시 ‘충주시티자이’(1596채) 등이 있다 .	O O O LOC-B LOC-B LOC-B O O LOC-B LOC-B O LOC-B O O O
--2기 신도시 집값 상승률 1위 ‘김포’ 신규 분양 열기도 뜨겁어-김포한강신도시 운양동, 서울 주요 업무지구 접근성 탁월-한강신도시 2차 KCC 스위첸 입지, 상품, 가격경쟁력 힘입어 계약 첫날에만 600명 몰리+어 2기 신도시 가운데 가장 높은 집값 상승률을 보이+ㄴ 김포에서 신규 분양 열기가 뜨거워지고 있다 .	O O O O O LOC-B O O O LOC-B LOC-B LOC-B O O O LOC-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O
-국내 선수들의 역할은 라틀리프와 크레익에게 볼을 공급하는 것이 전부 +이다 .	O O O PER-B PER-B O O O O O O
-이 업체는 국방부와 260억원에 달하는 계약을 맺고 2014∼2015년 방탄복 3만5200여 벌을 일선 부대에 보급하였다 .	O O O MNY-B O O O O O O O O O O O
-또 5월의 꽃잔치 때 눈이 내리기를 원하고 있는 것도 아니+ㅂ니다 .	O O O O O O O O O O O
-IS의 이번 테러는 공연장 식당 등 일상적 생활공간이 +ㄴ ‘소프트 타깃’을 공격 대상으로 삼아 ‘어디든 안전하+ㄴ 곳은 없다’는 공포를 확산시키고, 테러 용의자들이 난민을 위장하+여유럽에 들어오았다는 점도 충격적이다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O
-스커드는 북한군의 대표적 단거리 미사일로 최대 사거리가 350~700km+이다 .	PER-B ORG-B O O O O O O O
-메이저리그 최고 유격수로 꼽히는 시몬스는 이날 여러 차례 철벽 수비의 진수를 선보이었다 .	O O O O PER-B O O O O O O O O
-후계자와 관련 하+ㄴ의사결정은 130명의 가족 주주로 구성되 +ㄴ총회와 이사회 등을 거치+ㄴ다 .	O O O O O O O O O O O O
+에스원 블루 에셋 은 1963 년 부터 이 어 온 50 년 서비스 노하우 를 바탕 으로 관리 업무 를 매뉴얼 화 했 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+그 또한 차두리 처럼 제 2 의 인생 , 은퇴 시기 를 고민하 지 않 을 수 없 다 .	O O PER-B O O O O O O O O O O O O O O O O O
+그러나 역사적 건물 은 한 번 헐리 면 그만 이 다 .	O O O O O O O O O O O O
+세월호 , 패키지 3 개 법안 에 이 어 배 보상법 까지 해결 . . . 사실상 마무리 세월호 배 보상 법 지난해 4 월 발생한 세월호 참사 의 배 · 보상 · 위로금 지원 을 결정하 는 심의 위원회 가 설치되 고 , 추모제 등 을 시행할 ‘ 4 · 16 재단 ’ 에 5 년 동안 정부 가 예산 을 지원한다 .	O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이달 분양되 는 대 단지 로 는 전북 군산시 조촌동 의 ‘ 군산 디 오션 시티 푸르지오 ’ ( 1400 채 ) , 충북 충주시 충주 기업 도시 ‘ 충주시 티자 이 ’ ( 1596 채 ) 등 이 있 다 .	O O O O O O O LOC-B LOC-B LOC-B O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O
+- 2 기신도 시 집값 상승 률 1 위 ‘ 김포 ’ 신규 분양 열기 도 뜨거 워 - 김포 한강신도시 운양동 , 서울 주요 업무 지구 접근성 탁월 - 한강신도시 2 차 KCC 스위첸 입 지 , 상품 , 가격 경쟁력 힘입 어 계약 첫 날 에 만 600 명 몰려 2 기 신도시 가운데 가장 높 은 집값 상승 률 을 보인 김포 에서 신규 분양 열기 가 뜨거워지 고 있 다 .	O O O O O O O O O O LOC-B O O O O O O O O LOC-B LOC-B LOC-B O LOC-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+국내 선수 들 의 역할 은 라틀리프 와 크레익 에게 볼 을 공급하 는 것 이 전부 다 .	O O O O O O PER-B O PER-B O O O O O O O O O O
+이 업체 는 국방부 와 260 억 원 에 달하 는 계약 을 맺 고 2014 ∼ 2015 년 방탄복 3 만 5200 여 벌 을 일선 부대 에 보급 했 다 .	O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O
+또 5 월 의 꽃 잔치 때 눈 이 내리 기 를 원하 고 있 는 것 도 아닙니다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+IS 의 이번 테러 는 공연장 식당 등 일상적 생활공간 인 ‘ 소프트 타깃 ’ 을 공격 대상 으로 삼 아 ‘ 어디 든 안전한 곳 은 없 다 ’ 는 공포 를 확산 시키 고 , 테러 용의자 들 이 난민 을 위장해 유럽 에 들어 왔 다는 점 도 충격적 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O
+스커드 는 북한 군 의 대표적 단거리 미사일 로 최대 사거리 가 350 ~ 700 km 다 .	PER-B O ORG-B ORG-I O O O O O O O O O O O O O O
+메이저리그 최고 유격수 로 꼽히 는 시몬스 는 이날 여러 차례 철벽 수비 의 진수 를 선보 였 다 .	O O O O O O PER-B O O O O O O O O O O O O O
+후계자 와 관련한 의사 결정 은 130 명 의 가족 주주 로 구성된 총회 와 이사회 등 을 거친다 .	O O O O O O O O O O O O O O O O O O O O

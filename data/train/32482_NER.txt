@@ -1,13 +1,13 @@
-23일 '세계책의 날'… 311개 도서 목록 시민에 개방 서울도서관이 23일 '세계책의 날'을 맞고 국내 311개 출판사도서목록을 도서관 자료로 비치하고 시민들에게 개방 하+ㄴ다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O
-이와 관련, 과거 후지이 미나의 이색적이+ㄴ 한국과 일본의 문화 차이 발언에 눈길이 쏠리+ㄴ다 .	O O O PER-B PER-I O ORG-B ORG-B O O O O O O
-임상현 특화작물 연구소장은 “강원도의 우수하+ㄴ씨감자 생산기술을 세계에 널리 알리+ㄹ 수 있는 기회”라며 “앞으로도 감자재배기술을 선도하+ㄹ 수 있도록 연구역량을 집중하겠다”고 밝히었다 .	PER-B O O ORG-B O O O O O O O O O O O O O O O O O
-50층짜리 건물은 구름다리 통로를 통하+여 39층 높이의 다른 건물과 이어지+ㄴ다 .	O O O O O O O O O O O
-더욱 뼈아프+ㄴ 사실은 한번 잘 싸우고 좋은 성과를 내+ㄴ 뒤에는 꼭 엉성하+ㄴ경기력으로 연승의 기조를 잇어가지 못하+ㄴ다는 점이다 .	O O O O O O O O O O O O O O O O O O
-한편 스텔라는 오늘 오전 11시 서울 마포구 하나투어 브이홀에서 진행되+ㄴ싱글 앨범 ‘CRY’ 쇼케이스에 참석 하+여 ‘펑펑 울었어’ 첫 무대를 선보이었다 .	O ORG-B O O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O
-패티는 높은 평가를 받았다 .	PER-B O O O O
-[이훈범의 생각하지도] 유승민의 신보수를 지지하+ .	O O PER-B O O O
-19일 오후 네이버 V 앱스페셜라이브 쇼 ‘워너비 쇼(SHOW)’에서는 새 미니앨범 ‘더 보이스(THEVOICE)’의 2곡의 타이틀곡 ‘가슴 뛰도록’ ‘좋은 기억’과 뮤직비디오를 최초 공개하였다 .	O O O O O O O O O O O O O O O O O O O O O O
-금메달 8개 등 메달 20개 획득, 그리고 종합 4위.1년 앞으로 다가오+ㄴ2018 평창 겨울올림픽을 앞두고 한국 선수단이 세우+ㄴ 목표+이다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O
-하지만 미 정치 전문매체 폴리티코는 4일(현지시간) 멜라니아의 누드 사진 중 하나가 1995년 뉴욕에서 촬영되+ㄴ 것으로 전하였다 .	O ORG-B O O O O PER-B O O O O O LOC-B O O O O
-팀장이 원래 주량이 소주 반병이 +ㄴ데 당시 맥주 한 잔 정도만 마시+ㄴ점 등을 근거로 김씨가 ‘자발적’으로 술을 마시+ㄴ 것으로 +았다 .	O O O O O O O O O O O O O O PER-B O O O O O O
-아사다가 대회에 나서 +ㄴ 것은 지난해 3월 29일 세계선수권대회 이후 553일 만이다 .	PER-B O O O O O O O O O O O O
+23 일 ' 세계 책 의 날 ' … 311 개 도서 목록 시민 에 개방 서울 도서관 이 23 일 ' 세계 책 의 날 ' 을 맞 아 국내 311 개 출판사 도서 목록 을 도서관 자료 로 비치하 고 시민 들 에게 개방한다 .	DAT-B DAT-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O ORG-B ORG-I O DAT-B DAT-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O
+이 와 관련 , 과거 후지이 미나 의 이색적 인 한국 과 일본 의 문화 차이 발언 에 눈길 이 쏠린다 .	O O O O O PER-B PER-I O O O ORG-B O ORG-B O O O O O O O O O
+임상현 특화 작물 연구소 장 은 “ 강원도 의 우수한 씨감자 생산 기술 을 세계 에 널리 알릴 수 있 는 기회 ” 라며 “ 앞 으로 도 감자 재배 기술 을 선도할 수 있 도록 연구 역량 을 집중하 겠 다 ” 고 밝 혔 다 .	PER-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+50 층 짜리 건물 은 구름다리 통로 를 통해 39 층 높이 의 다른 건물 과 이어진다 .	O O O O O O O O O O O O O O O O O O
+더욱 뼈아픈 사실 은 한 번 잘 싸우 고 좋 은 성과 를 낸 뒤 에 는 꼭 엉성한 경기력 으로 연승 의 기조 를 이 어 가 지 못한다는 점 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 스텔라 는 오늘 오전 11 시 서울 마포구 하나 투어 브이 홀 에서 진행된 싱글 앨범 ‘ CRY ’ 쇼케이스 에 참석해 ‘ 펑펑 울 었 어 ’ 첫 무대 를 선보 였 다 .	O ORG-B O O TIM-B TIM-I TIM-I LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+패티 는 높 은 평가 를 받 았 다 .	PER-B O O O O O O O O O
+[ 이훈범 의 생각 지 도 ] 유승민 의 신보수 를 지지함	O O O O O O O PER-B O O O O
+19 일 오후 네이버 V 앱 스페셜 라이브 쇼 ‘ 워너비 쇼 ( SHOW ) ’ 에서 는 새 미니 앨범 ‘ 더 보이스 ( THE VOICE ) ’ 의 2 곡 의 타이틀 곡 ‘ 가슴 뛰 도록 ’ ‘ 좋 은 기억 ’ 과 뮤직 비디오 를 최초 공개 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+금메달 8 개 등 메달 20 개 획득 , 그리고 종합 4 위 . 1 년 앞 으로 다가온 2018 평창 겨울 올림픽 을 앞두 고 한국 선수단 이 세운 목표 다 .	O O O O O O O O O O O O O O O O O O O DAT-B O O O O O O ORG-B ORG-I O O O O O
+하지만 미 정치 전문 매체 폴리티코 는 4 일 ( 현지 시간 ) 멜라니 아 의 누드 사진 중 하나 가 1995 년 뉴욕 에서 촬영된 것 으로 전 했 다 .	O ORG-B O O O O O DAT-B DAT-I O O O O PER-B PER-I O O O O O O DAT-B DAT-I LOC-B O O O O O O O O
+팀장 이 원래 주량 이 소주 반병 인데 당시 맥주 한 잔 정도 만 마신 점 등 을 근거 로 김 씨 가 ‘ 자발적 ’ 으로 술 을 마신 것 으로 봤 다 .	O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+아사다 가 대회 에 나선 것 은 지난해 3 월 29 일 세계 선수권 대회 이후 553 일 만 이 다 .	PER-B O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O

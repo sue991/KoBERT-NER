@@ -1,13 +1,13 @@
-‘타임레스폰 스 스프링 익스클루시브 콜렉션’은 전국 백화점 아모레퍼시픽 매장에서 만나 +아보+ㄹ 수 있다 .	O O O O O O O ORG-B O O O O O O
-[스포츠동아 .	ORG-B O
-백상예술대상 대상 나영석, "옥택연 캐스팅은 모두 이서진 덕분? .	O O PER-B PER-B O O PER-B O O
-“10년마다 결혼식 하자”… 최수종 ♥하희라·최민수 ♥강주은 부부, 리마인드웨딩화보 ‘화제 .	O O O PER-B PER-B PER-B O O O O
-◇ 독일 총선, 메르켈 4선 도전… 극우당 약 진 주 목 독일에서는 ‘서방 자유민주주의 진영의 기둥’으로 불리는 앙겔라 메르켈 총리가 9월 총선에서 4선에 도전하+ㄴ다 .	O ORG-B O O O O O O O O O ORG-B O O O O O PER-B PER-I O O O O O O
-이애란"~전하라" 짤방덕에 25년 무명설 움 떨치+어 "행사비 6배 오르았다 .	PER-B O O O O O O O O O
-김정은 북한 노동당 위원장의 이복형이+ㄴ 김정남이 말레이시아 쿠알라룸푸르 공항에서 지나 +ㄴ 13일 오전 피살되 +ㄴ 것과 관련, 아들 김한솔은 마카오에 안전하게 있는 것으로 알려지었다 .	PER-B ORG-B ORG-I O O PER-B LOC-B LOC-I LOC-I O O O O O O O O O PER-B LOC-B O O O O O
-16일 SBS에 따르면 이들 가족과 교류가 깊었던 현지 교민은 아들 김한솔을 비롯하+ㄴ 가족들이 모처에서 안전하게 지내고 있다고 전하였다 .	O ORG-B O O O O O O O O PER-B O O O O O O O O
-참고2도는 상변 흑이 잡히지만 우변에서 크게 집을 내+ㄹ 수 있어 흑이 절대 우세하다 .	O O O O O O O O O O O O O O
-손흥민 ‘결승골’, 해결사 등 극…팀 2-1 승리 이끌어 손흥민이후반 종료 직전 감각적 이+ㄴ골을 터뜨리며 팀의 2-1 승리를 이끌었다 .	PER-B O O O O O O O PER-B O O O O O O O O O O
-토트넘은 29일(한국시간) 영국 왓포드에서 열리+ㄴ 2015-16 잉글리시 프리미어리그 19라운드 왓포드와의 경기에서 2-1로 승리하였다 .	ORG-B LOC-B LOC-B LOC-I O O O O O O O O O O
-절정기의 조훈현 9단은 감각적 이+ㄴ수로의 표를 곧잘 찌르었다 .	O PER-B O O O O O O O
-그런데 지금은 월소득이 211만원을 넘어야만 중단이 가능하였다 .	O O O MNY-B MNY-I O O O
+‘ 타임 레스 폰스 스프링 익스 클루 시 브 콜렉션 ’ 은 전국 백화점 아모레퍼시픽 매장 에서 만나 볼 수 있 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O
+[ 스포츠 동아 ]	O ORG-B ORG-I O
+백상 예술 대상 대상 나영석 , " 옥택연 캐스팅 은 모두 이서진 덕분 ? "	O O O O PER-B O O PER-B O O O PER-B O O O
+“ 10 년 마다 결혼식 하 자 ” … 최수종 ♥ 하희라 · 최민수 ♥ 강주은 부부 , 리 마인드 웨딩 화보 ‘ 화제 ’	O O O O O O O O O PER-B O PER-B O PER-B O PER-B O O O O O O O O O
+◇ 독일 총선 , 메르켈 4 선 도전 … 극우 당 약진 주목 독일 에서 는 ‘ 서방 자유 민주주의 진영 의 기둥 ’ 으로 불리 는 앙겔라 메르켈 총리 가 9 월 총선 에서 4 선 에 도전한다 .	O ORG-B O O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O PER-B PER-I O O DAT-B DAT-I O O O O O O O
+이애란 " ~ 전해 라 " 짤방 덕 에 25 년 무명 설움 떨쳐 " 행사비 6 배 올 랐 다 "	PER-B O O O O O O O O O O O O O O O O O O O O O
+김정은 북한 노동당 위원장 의 이복형 인 김정남 이 말레이시아 쿠알라룸푸르 공항 에서 지난 13 일 오전 피살된 것 과 관련 , 아들 김한솔 은 마카오 에 안전하 게 있 는 것 으로 알려 졌 다 .	PER-B ORG-B ORG-I O O O O PER-B O LOC-B LOC-I LOC-I O O DAT-B DAT-I O O O O O O O PER-B O LOC-B O O O O O O O O O O O
+16 일 SBS 에 따르 면 이 들 가족 과 교류 가 깊 었 던 현지 교민 은 아들 김한솔 을 비롯한 가족 들 이 모처 에서 안전하 게 지내 고 있 다고 전 했 다 .	DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+참 고 2 도 는 상변 흑 이 잡히 지만 우변 에서 크 게 집 을 낼 수 있 어 흑 이 절대 우세하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+손흥민 ‘ 결승 골 ’ , 해결사 등극 … 팀 2 - 1 승리 이끌 어 손흥민 이 후반 종료 직전 감각적 인 골 을 터뜨리 며 팀 의 2 - 1 승리 를 이끌 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+토트넘 은 29 일 ( 한국 시간 ) 영국 왓 포드 에서 열린 2015 - 16 잉글리시 프리미어 리그 19 라운드 왓포드 와 의 경기 에서 2 - 1 로 승리 했 다 .	ORG-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-I LOC-I O O O O O O O O O O ORG-B O O O O O O O O O O O O
+절정기 의 조훈현 9 단 은 감각적 인 수 로 의표 를 곧잘 찔 렀 다 .	O O PER-B O O O O O O O O O O O O O O
+그런데 지금 은 월 소득 이 211 만 원 을 넘 어야만 중단 이 가능 했 다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O

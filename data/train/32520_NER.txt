@@ -1,13 +1,13 @@
-기존에 +ㄴ도로 폭이 8m가 넘으면 공동관리가 불가능하었지만 앞으로는 도로의 지하로 아파트 단지가 연결되면 공동관리가 가능하+여지+ㄴ다 .	O O O O O O O O O O O O O O O O
-이 같은 활동상은 일본 외무성의 「한 국민족운동 사료」에도 기록되+어 일본 당국도 그의 활동에 주목하고 있었음을 보이어주고 있다 .	O O O ORG-B ORG-I O O O O ORG-B O O O O O O O O
-‘복면가왕’, ‘마이리틀 텔레비전’ 같은 정말 혁신적 이+ㄴ 프로그램을 만나 +아서 좋았고, ‘세 바퀴’도 기억하+여주+시었으면 하고, ‘능력자들’도 열심히 하+여보겠다”고 말하였다 .	O O O O O O O O O O O O O O O O O O O O
-마지막으로 그는 “MC 그리 보고 있냐?”며 “너 잘하고 있다”고 아들에 대하+ㄴ 애정을 드러내+었다 .	O O PER-B PER-I O O O O O O O O O O
-재두루미의 인공증식은 국내에서 +ㄴ이례적이다 .	O O O O O
-스마트폰을 만들는 삼성전자가 재두루미 인공증식에 나서 +ㄴ 사연은 3년 전으로 거스르어올라가 +ㄴ다 .	O O ORG-B O O O O O O O O O O
-올해 1분기 삼성전자 광주공장의 공기청정기 생산량은 지난해 대비 2배 증가하였다 .	O O ORG-B ORG-I O O O O O O O
-올 겨울은 유난히 춥다는 것+이기상청 예보다 .	O O O O ORG-B O O
-이날 정 부회장은 왼쪽 가슴에 V자 모양의 배지를 달았다 .	O PER-B O O O O O O O O
-김일성 기념관 건립팀/ 중국, 기술자 10명 파 .	O O O LOC-B O O O O
-참가자 70명 모집에 지원자 2000명이 넘게 몰리+어 접수 이틀 만에 마감이 +었을 정도로 열기가 뜨겁었던 이 대회를 영상으로 담았다 .	O O O O O O O O O O O O O O O O O O O O
-KB증권은 희망퇴직을 통하+여 현대증권과 KB투자증권을 합치+어 약 220명의 직원을 줄이었으나 추가 구조조정에 나서 +ㄹ 가능성을 배제하+ㄹ 수 없다 .	ORG-B O O ORG-B ORG-B O O O O O O O O O O O O O O
-잡코리아는 최근 취준생 1078명을 대상으로 출신 학교와 소재지에 따르+ㄴ 취업 전망을 묻는 설문조사를 실시하+ㄴ 결과 이같이 분석되었다고 13일 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+기존 엔 도로 폭 이 8 m 가 넘 으면 공동 관리 가 불가능 했 지만 앞 으로 는 도로 의 지하 로 아파트 단지 가 연결되 면 공동 관리 가 가능해 진다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 같 은 활동 상 은 일본 외무성 의 「 한국 민족 운동사 료 」 에 도 기록돼 일본 당국 도 그 의 활동 에 주목하 고 있 었 음 을 보 여 주 고 있 다 .	O O O O O O ORG-B ORG-I O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+‘ 복면 가왕 ’ , ‘ 마이 리틀 텔레비전 ’ 같 은 정말 혁신적 인 프로그램 을 만나서 좋 았 고 , ‘ 세 바퀴 ’ 도 기억해 주 셨 으면 하 고 , ‘ 능력자 들 ’ 도 열심히 해 보 겠 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+마지막 으로 그 는 “ MC 그리 보 고 있 냐 ? ” 며 “ 너 잘하 고 있 다 ” 고 아들 에 대한 애정 을 드러냈 다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+재두루미 의 인공 증식 은 국내 에선 이례적 이 다 .	O O O O O O O O O O O
+스마트폰 을 만드 는 삼성전자 가 재두루미 인공 증식 에 나선 사연 은 3 년 전 으로 거슬 러 올라간다 .	O O O O ORG-B O O O O O O O O O O O O O O O O
+올해 1 분기 삼성전자 광주 공장 의 공기청정기 생산량 은 지난해 대비 2 배 증가 했 다 .	O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O
+올겨울 은 유난히 춥 다는 게 기상청 예보 다 .	O O O O O O ORG-B O O O
+이날 정 부회장 은 왼쪽 가슴 에 V 자 모양 의 배지 를 달 았 다 .	O PER-B O O O O O O O O O O O O O O O
+김일성 기념관 건립 팀 / 중국 , 기술자 10 명 파북	O O O O O LOC-B O O O O O
+참가자 70 명 모집 에 지원자 2000 명 이 넘 게 몰려 접수 이틀 만 에 마감 이 됐 을 정도 로 열기 가 뜨거 웠 던 이 대회 를 영상 으로 담 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KB 증권 은 희망퇴직 을 통해 현대증권 과 KB 투자 증권 을 합쳐 약 220 명 의 직원 을 줄 였 으나 추가 구조 조정 에 나설 가능성 을 배제할 수 없 다 .	ORG-B ORG-I O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+잡코리아 는 최근 취 준생 1078 명 을 대상 으로 출신 학교 와 소재지 에 따른 취업 전망 을 묻 는 설문 조사 를 실시한 결과 이같이 분석 됐 다고 13 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O

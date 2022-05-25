@@ -1,14 +1,14 @@
-이날 테러는 알카에다 이라크 지부(AQI)의 부부 테러리스트 소행이었다 .	O O ORG-B ORG-I ORG-B O O O O
-다니엘은 진중권이 베를린에서 공부하었다는 말에 독일어로 말을 걸었고 진중권은 유창하+ㄴ 독일어로 대화를 나누+어 주변을 깜짝 놀라게 +였다 .	PER-B PER-B LOC-B O O O O O PER-B O O O O O O O O O
-이에 다니엘은 "진짜 잘 하시+ㄴ다 .	O PER-B O O O O
-백악관 비서진 등이 배석하였다 .	ORG-B O O O O
-롯데는 다양하+ㄴ 주주 친화정책도 마련하였다 .	ORG-B O O O O O
-구로 여성인력개발센터(관장 서정연)가 여성의 일자리 창출을 위하+여국비 지원 교육 프로그램이+ㄴ ‘경력단절 여성 직업훈련’에 대하+ㄴ 수강생을 모집하+ㄴ다 .	ORG-B ORG-I PER-B ORG-I O O O O O O O O O O O O O
-여성가족부 지원 아래 진행되는 이번 교육 프로그램은 ‘쇼핑몰 창업 온라인 전문가 양성과정’과 ‘안전 먹거리 어린이집 맞춤 조리사 양성과정’ 등이 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-국내에도 80년부터 전자오락실이 등장, 「자동차 운전」「벽돌 깨기」 등 흑백 화면의 단순 하+ㄴ게임이 선보이었다 .	O O O O O O O O O O O O O O
-주민피영남씨(67)는 “30년 넘게 이곳에서 살았는데 쉬+ㄹ 새 없이 퍼붓는 대응 사격 소리는 처음이라 너무 무섭었다”며 “북한이 48시간 안에 확성기를 치우라고 협박하였다니 무슨 일이 일어나 +ㄹ지 걱정되+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-1907년 ‘예수교 서회’ +이라는 이름의 목조 건물에서 기독교 성경과 찬송가를 판매하면서 종로서적의 역사는 시작되었다 .	O O O O O O O O O O O ORG-B O O O
-화전 민움막을 근거지로 삼고 일본군이 버리고 가+ㄴ 무기와 사냥용 엽총 등으로 무장, 유격전을 벌이었다 .	O O O O ORG-B O O O O O O O O O O
-한국갤럽 조사에서 민주당 계열 정당 지지도가 40%를 넘은 것+ㄴ김대중 전 대통령 취임 첫해 이+ㄴ 1998년 이후 18년 만이다 .	ORG-B O ORG-B O O O O O PER-B O O O O O O O O O O
-‘왼손 슈터’ 허일영(30)도 13점을 넣으며 힘을 보태+었다 .	O O PER-B O O O O O
-A씨는 ＂ 투자목적으로 사+ㄴ 것으로, 부인과 자녀에게 주려고 +였다 .	PER-B O O O O O O O O O
+이날 테러 는 알카에다 이라크 지부 ( AQI ) 의 부부 테러리스트 소행 이 었 다 .	O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O
+다니엘 은 진중권 이 베를린 에서 공부 했 다는 말 에 독일어 로 말 을 걸 었 고 진중권 은 유창한 독일어 로 대화 를 나눠 주변 을 깜짝 놀라 게 했 다 .	PER-B O PER-B O LOC-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
+이 에 다니엘 은 " 진짜 잘 하 신다 .	O O PER-B O O O O O O O
+백악관 비서 진 등 이 배석 했 다 .	ORG-B O O O O O O O O
+롯데 는 다양한 주주 친화 정책 도 마련 했 다 .	ORG-B O O O O O O O O O O
+구로 여성 인력 개발 센터 ( 관장 서정연 ) 가 여성 의 일자리 창출 을 위해 국비 지원 교육 프로그램 인 ‘ 경력 단절 여성 직업 훈련 ’ 에 대한 수강생 을 모집한다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+여성 가족 부 지원 아래 진행되 는 이번 교육 프로그램 은 ‘ 쇼핑몰 창업 온라인 전문가 양성 과정 ’ 과 ‘ 안전 먹거리 어린이집 맞춤 조리사 양성 과정 ’ 등 이 있 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국내 에 도 80 년 부터 전자오락실 이 등장 , 「 자동차 운전 」 「 벽돌 깨 기 」 등 흑백 화면 의 단순한 게임 이 선보 였 다 .	O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+주민 피영남 씨 ( 67 ) 는 “ 30 년 넘 게 이곳 에서 살 았 는데 쉴 새 없이 퍼붓 는 대응 사격 소리 는 처음 이 라 너무 무서 웠 다 ” 며 “ 북한 이 48 시간 안 에 확성기 를 치우 라고 협박 했 다니 무슨 일 이 일어날지 걱정된다 ” 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+1907 년 ‘ 예수교서회 ’ 라는 이름 의 목조 건물 에서 기독교 성경 과 찬송가 를 판매하 면서 종로서적 의 역사 는 시작 됐 다 .	DAT-B DAT-I O LOC-B O O O O O O O O O O O O O O ORG-B O O O O O O O
+화전민 움막 을 근거지 로 삼 고 일본 군 이 버리 고 간 무기 와 사냥 용 엽총 등 으로 무장 , 유격전 을 벌 였 다 .	O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+한국갤럽 조사 에서 민주당 계열 정당 지지 도 가 40 % 를 넘 은 건 김대중 전 대통령 취임 첫해 인 1998 년 이후 18 년 만 이 다 .	ORG-B O O ORG-B O O O O O O O O O O O PER-B O O O O O DAT-B DAT-I O O O O O O O
+‘ 왼손 슈터 ’ 허일영 ( 30 ) 도 13 점 을 넣 으며 힘 을 보탰 다 .	O O O O PER-B O O O O O O O O O O O O O O
+A 씨 는 ＂ 투자 목적 으로 산 것 으로 , 부인 과 자녀 에게 주 려고 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O

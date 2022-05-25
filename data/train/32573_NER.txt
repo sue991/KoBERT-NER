@@ -1,13 +1,13 @@
-'하늘이 내리+ㄴ 재능' 인터넷에서 화제이+ㄴ 8살 어린 .	O O O O O O O O
-성나+ㄴ 유치원 …경기도청 앞 누리과정 예산 촉구 집 .	O O LOC-B O O O O O O
-아이에스동서는 경기 안양시 동안구 평촌동 160-1번지에 짓는 ‘평촌역 안양벤처밸리 아이에스 비즈타워’ 지식산업센터를 분양 중이다 .	ORG-B LOC-B LOC-B LOC-B LOC-B LOC-I O LOC-B LOC-I ORG-B LOC-I O O O O
-‘슈가맨’ 리치, ‘이글 파이브’ 멤버들 현재는?“한 명은 CIA 요원되+어, 일 얘기 안 하+ㄴ다 .	O PER-B ORG-B ORG-I O O O ORG-B ORG-I O O O O O
-[라이프 트렌드] 수공예품 장터, 이탈리아 집밥, 8색상점 .	O O O O LOC-B O O O
-100% 리넨 소재 커버를 이용하+ㄴ까사 알렉시스의 클라우드는 워싱 처리가 되어 있어 수축률이 낮고, 촉감 또한 매우 부드럽어 사용 하+ㄹ수록 편안하+ㅁ을 느끼+ㄹ 수 있다 .	O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-‘라디오 스타’ 강 예원, 군대에서 공개되+ㄴ 키와 프로필키 다른 이유가 .	O O O O O O O O O O O
-요즘 그보다 2시간 전에 다저스타디움 외야에 나와 왕복 달리기를 하는 선수가 있다 .	O O O O LOC-B O O O O O O O O
-부산 스타피부과(부산광역시 부산진구 부전동 503-15호 롯데백화점 지하 1층 서비스 라운지)에서는 피코슈어레이저를 통하+여위와 같은 피부 병변을 효과적으로 치료하고 있다 .	ORG-B LOC-B LOC-B LOC-B LOC-I ORG-B O O O O O O O O O O O O O
-그 어느 때보다 승리가 소중하였는데, 선수들이 잘 극복 하+여+ 주었다”며 인천 전에서 승리를 일구+ㄴ 선수들을 칭찬하였다 .	O O O O O O O O O O O O O O O O O
-미 정책 결정자들은 북한 핵문제를 다루면서 다양하+ㄴ이 익 집단으로부터 여러 가지 압력을 받게 되+ㄴ다 .	ORG-B O O ORG-B O O O O O O O O O O O
-한효주·천우희와 호흡유연석, 버리+ㄹ 데없는 이 남자… ‘반전 취미공개 .	PER-B PER-B O O O O O O O
-데뷔 시즌이 +ㄴ 2012년에는 1경기도 나서지 못하였다 .	O O O O O O O O
+' 하늘 이 내린 재능 ' 인터넷 에서 화제 인 8 살 어린이	O O O O O O O O O O O O O
+성난 유치원 … 경기도청 앞 누리 과정 예산 촉구 집회	O O O LOC-B O O O O O O
+아이 에스 동서 는 경기 안양시 동안구 평촌동 160 - 1 번지 에 짓 는 ‘ 평촌역 안양 벤처 밸리 아이에스비 즈 타워 ’ 지식 산업 센터 를 분양 중 이 다 .	ORG-B ORG-I ORG-I O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O
+‘ 슈가맨 ’ 리치 , ‘ 이글 파이브 ’ 멤버 들 현재 는 ? “ 한 명 은 CIA 요원 돼 , 일 얘기 안 한다 ”	O O O PER-B O O ORG-B ORG-I O O O O O O O O O O ORG-B ORG-I O O O O O O O
+[ 라이프 트렌드 ] 수공예품 장터 , 이탈리아 집 밥 , 8 색 상점 …	O O O O O O O LOC-B O O O O O O O
+100 % 리넨 소재 커버 를 이용한 까사 알렉시스 의 클라우드 는 워 싱 처리 가 되 어 있 어 수축률 이 낮 고 , 촉감 또한 매우 부드러 워 사용할수록 편안함 을 느낄 수 있 다 .	O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 라디오스타 ’ 강예원 , 군대 에서 공개된 키 와 프로필 키 다른 이유 가 ?	O O O PER-B O O O O O O O O O O O O
+요즘 그 보다 2 시간 전 에 다저스타디움 외야 에 나 와 왕복 달리기 를 하 는 선수 가 있 다 .	O O O O O O O LOC-B O O O O O O O O O O O O O O
+부산 스타 피부 과 ( 부산광역시 부산진구 부전동 503 - 15 호 롯데 백화점 지하 1 층 서비스 라운지 ) 에서 는 피코 슈어 레이저 를 통해 위 와 같 은 피부 병변 을 효과적 으로 치료하 고 있 다 .	ORG-B ORG-I ORG-I ORG-I O LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 어느 때 보다 승리 가 소중 했 는데 , 선수 들 이 잘 극복해 줬 다 ” 며 인천 전 에서 승리 를 일군 선수 들 을 칭찬 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+미 정책 결정자 들 은 북한 핵 문제 를 다루 면서 다양한 이익 집단 으로부터 여러 가지 압력 을 받 게 된다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O
+한효주 · 천우희 와 호흡 유연석 , 버릴 데 없 는 이 남자 … ‘ 반전 취미 공개 ’	PER-B O PER-B O O PER-B O O O O O O O O O O O O O
+데뷔 시즌 인 2012 년 에 는 1 경기도 나서 지 못 했 다 .	O O O DAT-B DAT-I O O O O O O O O O O

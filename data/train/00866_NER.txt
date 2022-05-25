@@ -1,13 +1,13 @@
-360도 영상, 홀로그램 … 베니스 서디지털 캔버스 펼치+ㄴ .	O O O O LOC-B O O O O
-이들은 나라 시대 이+ㄴ 8세기 경히라가 타시로 옮기+어오는데 단순히 거처를 옮기는 차원이 아니라 아예 도지사 자격으로 지역을 다스리며 도시를 이루고 살게 되+ㄴ 것이다 .	O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O
-우리나라도 지난해 NEAT타워와 부산국제금융센터(63층·289m) 등 초고층 건축물 2개 동이 새로 짓어지면서 초고층 건축물(50층 이상, 50층 이상 기준)이 모두 89개동으로 늘어나 +았다 .	O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O
-베를루스코니 총리가 소유하고 있는 언론 왕국이+ㄴ 페닌 베스트그룹은 공식적으로 텔레피우의 지분 10%를 보유하고 있는 것으로 알려지+어 있으나 밀라노사정 검사들은 실제로는 TV 사 주식 소유에 대하+ㄴ 관련 볍규를 위반, 그보다 더 많은 지분을 갖고 있는 것으로 보고 있다 .	PER-B O O O O O ORG-B ORG-I O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-조사 기간은 11월 29일~12월 14일이며 대상은 20·30대 미혼남녀 606명(남282명, 여324명)이다 .	O O O O O O O O O O O
-그루지야, 아제르바이잔, 몰도바 등 구소련 내 분쟁을 피하+여이주하+ㄴ사람도 1백만 명 이상이다 .	ORG-B ORG-B ORG-B O ORG-B O O O O O O O
-1998년 10월 KBS1TV ‘그 시절 그쇼’와 MBC ‘무대인 생반세기-선후배 크+ㄴ 잔치’ 등에는 현인에서부터 변진섭까지 한국 대중문화를 꽃피우+ㄴ이들이 대거 출연하였다 .	O O O O O O ORG-B O O O O O PER-B PER-B LOC-B O O O O O
-“한국대사가 되는 것이 꿈이에요.” 금발의 푸르+ㄴ 눈, 미국인 스펜서스타인 바흐(SpencerSteinbach·18)는 한국을 “자신의 꿈”이라고 표현하였다 .	ORG-B O O O O O O O PER-B PER-B ORG-B O O O O
-스피드스케이팅 국가대표 선수 이승훈(29·대한항공)이 남자 매스스타트 부문에서 금메달을 따면서 한국동계아시아경기대회 첫 4관왕위업을 이룩하+ㄴ 가운데, 매스 스타트 세계랭킹 1위 이+ㄴ이승훈이 평창동계올림픽에서도 정상에서 +ㄹ 수 있을지 주목되 +ㄴ다 .	O O O ORG-B O O O O O ORG-B O O O O O O O O PER-B O O O O O O O O
-수도권의 한 중진 의원은 정청래 최고의원의 ‘공갈 막말’ 사태 당시를 상기시키며 “이번에도 수습을 못하고 있다 .	LOC-B O O O PER-B O O O O O O O O O O O
-서울에 살는 식도락 가이+ㄴ 최광석(38·서울중랑구)씨는 이달 초 대구를 찾았다 .	LOC-B O O O LOC-B O O LOC-B O O
-최대 출력은 각각 199 마력과 309 마력, 연료 소비효율은 L당 각각 12.5km, 12km +이다 .	O O O O O O O O O O O O O O O
-“세계에서 아무도 우리를 구하지 못하+ㄴ다는 것+이 말이 되나.” 시리아 최대 격전지 이+ㄴ 알레포에 사는 교사 압둘 카피 알하+ㅁ도 씨는 23일 오후 평생 듣어보지 못하+ㄴ 폭발음을 듣고 공포에 떨었다 .	O O O O O O O O LOC-B O O O LOC-B O O PER-B PER-I PER-I O O O O O O O O O O O
+360 도 영상 , 홀로그램 … 베니스 서 디지털 캔버스 펼친다	O O O O O O LOC-B O O O O
+이 들 은 나라 시대 인 8 세기 경 히라가 타 시 로 옮겨 오 는데 단순히 거처 를 옮기 는 차원 이 아니 라 아예 도지사 자격 으로 지역 을 다스리 며 도시 를 이루 고 살 게 된 것 이 다 .	O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+우리나라 도 지난해 NEAT 타워 와 부산 국제금융센터 ( 63 층 · 289 m ) 등 초고층 건축물 2 개 동 이 새로 지 어 지 면서 초고층 건축물 ( 50 층 이상 , 50 층 이상 기준 ) 이 모두 89 개 동 으로 늘어났 다 .	O O O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+베를루스코니 총리 가 소유하 고 있 는 언론 왕국 인 페 닌 베스트 그룹 은 공식적 으로 텔레 피우 의 지분 10 % 를 보유하 고 있 는 것 으로 알려져 있 으나 밀라노 사정 검사 들 은 실제로 는 TV 사 주식 소유 에 대한 관련볍규 를 위반 , 그 보다 더 많 은 지분 을 갖 고 있 는 것 으로 보 고 있 다 .	PER-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O ORG-B ORG-I O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조사 기간 은 11 월 29 일 ~ 12 월 14 일 이 며 대상 은 20 · 30 대 미혼 남녀 606 명 ( 남 282 명 , 여 324 명 ) 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그루지야 , 아제르바이잔 , 몰도바 등 구소련 내 분쟁 을 피해 이주한 사람 도 1 백만 명 이상 이 다 .	ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O
+1998 년 10 월 KBS 1 TV ‘ 그 시절 그 쇼 ’ 와 MBC ‘ 무대 인생 반세기 - 선후배 큰 잔치 ’ 등 에 는 현인 에서부터 변진섭 까지 한국 대중문화 를 꽃피운 이 들 이 대거 출연 했 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O ORG-B O O O O O O O O O O O O PER-B O PER-B O LOC-B O O O O O O O O O O O
+“ 한국 대사 가 되 는 것 이 꿈 이 에요 . ” 금발 의 푸른 눈 , 미국인 스펜서 스타인 바흐 ( Spencer Steinbach · 18 ) 는 한국 을 “ 자신 의 꿈 ” 이라고 표현 했 다 .	O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I O PER-B PER-I O DAT-B O O ORG-B O O O O O O O O O O O
+스피드 스케이팅 국가 대표 선수 이승훈 ( 29 · 대한항공 ) 이 남자 매스 스타트 부문 에서 금메달 을 따 면서 한국 동계 아시아 경기 대회 첫 4 관 왕 위업 을 이룩한 가운데 , 매스 스타트 세계 랭킹 1 위 인 이승훈 이 평창 동계 올림픽 에서 도 정상 에 설 수 있 을지 주목된다 .	O O O O O PER-B O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
+수도권 의 한 중진 의원 은 정청래 최고 의원 의 ‘ 공갈 막말 ’ 사태 당시 를 상기 시키 며 “ 이번 에 도 수습 을 못하 고 있 다 .	LOC-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O
+서울 에 사 는 식도락가 인 최광석 ( 38 · 서울 중랑구 ) 씨 는 이달 초 대구 를 찾 았 다 .	LOC-B O O O O O PER-B O O O LOC-B LOC-B O O O O O LOC-B O O O O O
+최대 출력 은 각각 199 마력 과 309 마력 , 연료 소비 효율 은 L 당 각각 12.5 km , 12 km 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+“ 세계 에서 아무 도 우리 를 구하 지 못한다는 게 말 이 되 나 . ” 시리아 최대 격전지 인 알레포 에 사 는 교사 압둘 카피 알 함 도 씨 는 23 일 오후 평생 들 어 보 지 못한 폭발음 을 듣 고 공포 에 떨 었 다 .	O O O O O O O O O O O O O O O O O LOC-B O O O LOC-B O O O O PER-B PER-I PER-I PER-I PER-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O

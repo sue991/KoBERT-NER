@@ -1,13 +1,13 @@
-지나+ㄴ 28일 서울 중구 장충동 메가박스 동대문에서 열리+ㄴ영화 ‘미스와이프’ 언론 시사회에는 강효진 감독과 엄정화, 송승헌이 참석하였다 .	O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O PER-B O PER-B PER-B O O
-이날 송승헌은 “엄정화+이라면 아내로서 몇 점이겠느냐” +이라는 질문에 “엄정화 선배는 섹시퀸이+ㄴ데다 이미지도 최고이다 보니 다소 어려워하는 부분이 있었다”며 “촬영을 하면서 느끼+ㄴ점이 소녀 같고 배려심도 매우 많더라.의외의 모습들을 보+아 너무 좋았다”고 밝히었다 .	O PER-B PER-B O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
-이어 “100점 만점에 99점”이라며 “100점을 주면 거짓말이 +ㄴ 것 같아 99점을 +었다”고 덧붙이었다 .	O O O O O O O O O O O O O O
-공신력 있는 제3의 전문가와 주민대표 등이 포함되 +ㄴ ‘괌 검증단’을 따로 꾸리+ㄹ 수도 있다”고 말하였다 .	O O O O PER-B O O O O O O O O O O O
-러블리즈는 26일 오후 10시 정규 2집 '알유레디?(RUReady?)'를 발표하였다 .	ORG-B O O O O O O O O
-전날 추 대표는 “(사드 배치가) 군사적으로 무용지물이며 중국과 러시아를 등 돌리게 하기 때문에 외교적으로 패착”이라면서도 반대 당론을 채택하지 않았다 .	O PER-B O O O O O ORG-B ORG-B O O O O O O O O O O O
-브라질은 약체 아이티와의 2차전에서 7-1의 대승을 거두었다 .	ORG-B O ORG-B O O O O O
-나아가 +아제시는 자신의 가슴성형수술을 디스랩의 소재로 삼는 래퍼들에게도 “(수술이 하고 싶으면) 너도 해” +이라며 강렬 하+ㄴ한마디를 남기+어안방극장을 웃음으로 초토화시키었다 .	O PER-B O O O O O O O O O O O O O O O O O O
-KBS2TV ‘해피투게더3’는 매주 목요일 밤 11시10분에 방송되+ㄴ다 .	O O O O O O O O
-또 다른 국방 전문가 이+ㄴ 제이갈리오는 “이론상으로 USB하드 드라이브를 통하+ㄴ 악성코드만으로도 미사일 발사를 방해하+ㄹ 수 있다” +이라며 “미사일 발사와 같이 복잡하+ㄴ 시스템은 조금만 영향을 주+어도 오폭을 일으키+ㄹ 수 있다”고 밝히었다 .	O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O
-‘사기 혐의 피소’ 최일구 전 앵커, 개인파산 신청한 이유 알고 보니 … ‘이렇+ㄹ수가! .	O O O PER-B O O O O O O O O O O
-GS건설은 한층 체계적이고 지속적 이+ㄴ 사회공헌활동이 정착되 +ㄹ 수 있도록 활동영역을 사회복지, 교육·문화, 환경·안전의 3대 핵심 영역으로 재편하+여운영하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-녹내장 초기 증상, 외출 시 선글라스는 필수… 6개월마다 안과 검진자외선은 눈 건강을 해치는 주범이다 .	O O O O O O O O O O O O O O O
+지난 28 일 서울 중 구 장충동 메가박스 동대문 에서 열린 영화 ‘ 미쓰 와이프 ’ 언론 시사 회 에 는 강효진 감독 과 엄정화 , 송승헌 이 참석 했 다 .	O DAT-B DAT-I LOC-B LOC-B LOC-I LOC-B LOC-B LOC-I O O O O O O O O O O O O PER-B O O PER-B O PER-B O O O O O
+이날 송승헌 은 “ 엄정화 라면 아내 로서 몇 점 이 겠 느냐 ” 라는 질문 에 “ 엄정화 선배 는 섹시 퀸 인데 다 이미지 도 최고 이 다 보 니 다소 어려워하 는 부분 이 있 었 다 ” 며 “ 촬영 을 하 면서 느낀 점 이 소녀 같 고 배려 심 도 매우 많 더라 . 의외 의 모습 들 을 봐 너무 좋 았 다 ” 고 밝 혔 다 .	O PER-B O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 100 점 만점 에 99 점 ” 이 라며 “ 100 점 을 주 면 거짓말 인 것 같 아 99 점 을 줬 다 ” 고 덧붙 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공신력 있 는 제 3 의 전문가 와 주민 대표 등 이 포함된 ‘ 괌 검증 단 ’ 을 따로 꾸릴 수 도 있 다 ” 고 말 했 다 .	O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+러 블 리즈 는 26 일 오후 10 시 정규 2 집 ' 알 유 레디 ? ( R U Ready ? ) ' 를 발표 했 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O
+전날 추 대표 는 “ ( 사드 배치 가 ) 군사적 으로 무용지물 이 며 중국 과 러시아 를 등 돌리 게 하 기 때문 에 외교적 으로 패착 ” 이 라면서 도 반대 당론 을 채택하 지 않 았 다 .	O PER-B O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+브라질 은 약체 아이티 와 의 2 차 전 에서 7 - 1 의 대승 을 거 뒀 다 .	ORG-B O O ORG-B O O O O O O O O O O O O O O O O
+나아가 제시 는 자신 의 가슴 성형 수술 을 디스 랩 의 소재 로 삼 는 래퍼 들 에게 도 “ ( 수술 이 하 고 싶 으면 ) 너 도 해 ” 라며 강렬한 한 마디 를 남겨 안방극장 을 웃음 으로 초토화 시 켰 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+KBS 2 TV ‘ 해피투게더 3 ’ 는 매주 목요일 밤 11 시 10 분 에 방송된다 .	O O O O O O O O O DAT-B TIM-B TIM-I TIM-I TIM-I TIM-I O O O
+또 다른 국방 전문가 인 제 이 갈리오 는 “ 이론 상 으로 USB 하드드라이브 를 통한 악성 코드 만 으로 도 미사일 발사 를 방해할 수 있 다 ” 라며 “ 미사일 발사 와 같이 복잡한 시스템 은 조금 만 영향 을 줘도 오폭 을 일으킬 수 있 다 ” 고 밝 혔 다 .	O O O O O PER-B PER-I PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 사기 혐의 피소 ’ 최일구 전 앵커 , 개인 파산 신청 한 이유 알 고 보 니 … ‘ 이럴 수 가 ! ’	O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+GS 건설 은 한층 체계적 이 고 지속적 인 사회 공헌 활동 이 정착될 수 있 도록 활동 영역 을 사회 복지 , 교육 · 문화 , 환경 · 안전 의 3 대 핵심 영역 으로 재편해 운영하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+녹내장 초기 증상 , 외출 시 선글라스 는 필수 … 6 개월 마다 안 과 검진 자외선 은 눈 건강 을 해치 는 주범 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O

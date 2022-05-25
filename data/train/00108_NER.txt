@@ -1,12 +1,12 @@
-2013년 대비 21.6% 늘었다 .	O O O O O
-담뱃값 먼저 올리+ㄴ 선진국도 밀매 여전한국보다 일찍 담뱃값을 크게 올리+ㄴ 선진국에서 +ㄴ 담배 밀수가 줄었지만 사라지지+ㄴ 않았다 .	O O O O O ORG-B O O O O O O O O O O O O
-블레어 전 총리와 쿠슈너 고문의 만남은 미 대선이 한창이던 지난해 9월 이래 이번이 3번째 +이다 .	PER-B O O PER-B O O ORG-B O O O O O O O O O
-'가슴 뛰도록'으로 돌아오+ㄴ SG워너비, '음악 중심'에서 녹슬지 않은 가창력 선보이 .	O O O ORG-B O O O O O O O
-이밖에 베트남과 필리핀, 중국과 국경 분쟁을 벌이며 군비 증강을 추진하는 인도도 중국의 잠재적 위협상대로 거론되었다 .	O ORG-B ORG-B ORG-B O O O O O O ORG-B ORG-B O O O O
-현대차 싼타페와 쌍용차 코란도 스포츠는 2013년 국토부 조사에서, 한국GM 쉐보레 크루즈는 2014년 조사에서 각각 법이 정하+ㄴ 연비 허용 범위(―5%)를 넘어 과징금 처분 대상이 +었다 .	ORG-B O ORG-B O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O
-현재 비만연구소를 비롯하+여균형 잡히+ㄴ영양소 섭취를 위하+ㄴ ‘푸드밸런스’, 외식사업부 이+ㄴ ‘오율’ ‘이로울리’ 등 계열사를 운영하며 연평균 매출 상승률 45% 안팎의 고속성장을 일구+어내고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O
-조 대표는 어리+ㄹ적부터 뷰티에 관심을 가지+ㄹ 수밖에 없는 환경에서 자라 +아+오았다 .	PER-B O O O O O O O O O O O
-이 자리에는 ‘주요 20개국(G20) 재무장관-중앙은행 총재 회의’에 참석하기 위하+ 여 방문 하+ㄴ 각국 경제장관들도 함께 하였다 .	O O O O O O O O O O O O O O O O O
-인터넷에는 기온이 떨어지면서 아이폰의 배터리가 빨리 닳거나 전원이 꺼지+ㄴ다는 글이 쇄도하고 있다 .	O O O O O O O O O O O O O
-애플은 "아이폰 시리즈 사용에 알맞은 온도는 0~35도이며 극한 온도는 -20~45도 "+이라는 원론적이+ㄴ 답변만 내놓은 상황이다 .	ORG-B O O O O O O O O O O O O O O O
-이번 타이틀곡 ‘덤덤’은 중독성 있는 훅과 그루비한 비트가 인상적 이+ㄴ 업템포의 댄스곡이다 .	O O O O O O O O O O O O O
+2013 년 대비 21.6 % 늘 었 다 .	DAT-B DAT-I O O O O O O O
+담뱃값 먼저 올린 선진국 도 밀매 여전 한국 보다 일찍 담뱃값 을 크 게 올린 선진국 에선 담배 밀수 가 줄 었 지만 사라지 진 않 았 다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+블레어 전 총리 와 쿠슈너 고문 의 만남 은 미 대선 이 한창 이 던 지난해 9 월 이래 이번 이 3 번째 다 .	PER-B O O O PER-B O O O O ORG-B O O O O O O DAT-B DAT-I O O O O O O O
+' 가슴 뛰 도록 ' 으로 돌아온 SG 워너비 , ' 음악 중심 ' 에서 녹슬 지 않 은 가창력 선보 여	O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+이 밖에 베트남 과 필리핀 , 중국 과 국경 분쟁 을 벌이 며 군비 증강 을 추진하 는 인도 도 중국 의 잠재적 위협 상대 로 거론 됐 다 .	O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O
+현대차 싼타페 와 쌍용차 코란도 스포츠 는 2013 년 국토 부 조사 에서 , 한국 GM 쉐보 레 크루즈 는 2014 년 조사 에서 각각 법 이 정한 연비 허용 범위 ( ― 5 % ) 를 넘 어 과징금 처분 대상 이 됐 다 .	ORG-B O O ORG-B O O O DAT-B DAT-I ORG-B ORG-I O O O ORG-B ORG-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O
+현재 비만 연구소 를 비롯해 균형 잡힌 영양소 섭취 를 위한 ‘ 푸드 밸런스 ’ , 외식 사업 부 인 ‘ 오율 ’ ‘ 이로 울리 ’ 등 계열사 를 운영하 며 연평균 매출 상승 률 45 % 안팎 의 고속 성장 을 일궈 내 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조 대표 는 어릴 적 부터 뷰티 에 관심 을 가질 수 밖에 없 는 환경 에서 자라 왔 다 .	PER-B O O O O O O O O O O O O O O O O O O O O
+이 자리 에 는 ‘ 주요 20 개국 ( G 20 ) 재무 장관 - 중앙은행 총재 회의 ’ 에 참석하 기 위해 방문한 각국 경제 장관 들 도 함께 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인터넷 에 는 기온 이 떨어지 면서 아이폰 의 배터리 가 빨리 닳 거나 전원 이 꺼진다는 글 이 쇄도하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+애플 은 " 아이폰 시리즈 사용 에 알맞 은 온도 는 0 ~ 35 도 이 며 극한 온도 는 - 20 ~ 45 도 " 라는 원론적 인 답변 만 내놓 은 상황 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이번 타이틀 곡 ‘ 덤 덤 ’ 은 중독성 있 는 훅 과 그루 비한 비트 가 인상적 인 업 템포 의 댄스 곡 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O

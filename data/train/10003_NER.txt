@@ -1,13 +1,13 @@
-장기이식수술은 서울아산병원이 세계를 이끌는 분야 +이다 .	O ORG-B O O O O O
-새누리당도 한 언론조사에 따르면 65명 의원들 중에서 31명이 탄핵 찬성 하+ㄴ다고 +였습니다 .	ORG-B O O O O O O O O O O O O
-상인·선교사·탐험가 등 서구의 방문자들이 보기에 동아시아는 물산이 풍부하고 문화와 관습이 세련되 +ㄴ고장이었다 .	O O O O O LOC-B O O O O O O O
-한편 말레이시아 퇴역군인단체 회원들이 10일 쿠알라룸푸르 북한 대사관 앞에서 평양에 억류되 +어 있는 말레이시아 국민의 조속하고 안전하+ㄴ귀국을 촉구하는 시위를 벌이었다 .	O LOC-B O O O LOC-B ORG-B ORG-I O LOC-B O O O LOC-B O O O O O O O
-강력 하+ㄴ 우승 후보 마카우는 개인 사정으로 17일 입국하+ㄹ 예정이다 .	O O O O PER-B O O O O O O
-건설업계 한 관계자는 “부산의 부동산 시장이 계속 호황을 보이고 있는데다 해운대 엘시티를 비롯하+여주요 지역에 분양이 예정되+어 있는 만큼 가을에도 경쟁률이 높을 것으로 예상되 +ㄴ다”고 말하였다 .	O O O LOC-B O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O
-그는 “5년 전 일본 투어 여행을 +았는데 온천과 음식이 마음에 들어 다시 방문하였고 짐을 잃어버리+어 못 나가고 있는 상황”이라고 말하였다 .	O O O LOC-B O O O O O O O O O O O O O O O O O
-브레댄코 베이커리 창업 및 특수상권 개발 문의는 전화(02-532-6419)로 확인 하+ㄹ 수 있다 .	PER-B O O O O O O O O O O O O
-이맹희 사망, 故 이병철 삼성그룹 창업주의 장남으로 알려지+ㄴ그는 누구 .	PER-B O O PER-B ORG-B O O O O O
-새누리당은 14일 고용노동부와의 당정협의, 16일 정책의원총회를 거치+어 당 정의견을 마지막으로 수렴 하+ㄴ 뒤 17일경 당 소속 의원 전원 명의로 당론 발의 하+ㄹ 예정이다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
-니엘, 엘 조질투나 +아서 뮤비주인공 맡았다?… 유승옥과 '스킨십' 깜짝 그룹 틴탑의 멤버 창조가 동료 멤버니엘의 솔로 앨범 뮤직비디오를 언급하였다 .	PER-B PER-B PER-I O O O PER-B O O O ORG-B O PER-B O PER-B O O O O O
-영화 ‘투모로우’에서처럼 어느 한 순간에 급격하+ㄴ 변화가 일어나기보다는 아마도 점진적 둔화를 보게 되+ㄹ듯하다 .	O O O O O O O O O O O O O O
-한편 이희준 소속사 BH엔터테인먼트 관계자는 24일 "이희준과 이혜정이 이달 초부터 좋은 감정으로 만남을 시작하였다"고 열애 사실을 공식 인정하였다 .	O PER-B O ORG-B O O PER-B PER-B O O O O O O O O O O O
+장기 이식 수술 은 서울아산병원 이 세계 를 이끄 는 분야 다 .	O O O O ORG-B O O O O O O O O
+새누리당 도 한 언론 조사 에 따르 면 65 명 의원 들 중 에서 31 명 이 탄핵 찬성한다고 했 습니다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+상인 · 선교사 · 탐험가 등 서구 의 방문자 들 이 보 기 에 동아시아 는 물산 이 풍부하 고 문화 와 관습 이 세련된 고장 이 었 다 .	O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+한편 말레이시아 퇴역 군인 단체 회원 들 이 10 일 쿠알라룸푸르 북한 대사관 앞 에서 평양 에 억류돼 있 는 말레이시아 국민 의 조속하 고 안전한 귀국 을 촉구하 는 시위 를 벌 였 다 .	O LOC-B O O O O O O DAT-B DAT-I LOC-B ORG-B ORG-I O O LOC-B O O O O LOC-B O O O O O O O O O O O O O O O
+강력한 우승 후보 마카우 는 개인 사정 으로 17 일 입국할 예정 이 다 .	O O O PER-B O O O O DAT-B DAT-I O O O O O
+건설업 계 한 관계자 는 “ 부산 의 부동산 시장 이 계속 호황 을 보이 고 있 는 데 다 해운대 엘시티 를 비롯해 주요 지역 에 분양 이 예정돼 있 는 만큼 가을 에 도 경쟁률 이 높 을 것 으로 예상된다 ” 고 말 했 다 .	O O O O O O LOC-B O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 “ 5 년 전 일본 투어 여행 을 왔 는데 온천 과 음식 이 마음 에 들 어 다시 방문 했 고 짐 을 잃어버려 못 나가 고 있 는 상황 ” 이라고 말 했 다 .	O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+브레댄코 베이커리 창업 및 특수 상권 개발 문의 는 전화 ( 02 - 532 - 6419 ) 로 확인할 수 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+이맹희 사망 , 故 이병철 삼성그룹 창업주 의 장남 으로 알려진 그 는 누구 ?	PER-B O O O PER-B ORG-B O O O O O O O O O
+새누리당 은 14 일 고용 노동부 와 의 당정 협의 , 16 일 정책 의원총회 를 거쳐 당정 의견 을 마지막 으로 수렴한 뒤 17 일 경 당 소속 의원 전원 명의 로 당론 발의할 예정 이 다 .	ORG-B O DAT-B DAT-I ORG-B ORG-I O O O O O DAT-B DAT-I O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+니엘 , 엘 조 질투 나서 뮤 비 주인공 맡 았 다 ? … 유승옥 과 ' 스킨십 ' 깜짝 그룹 틴탑 의 멤버 창조 가 동료 멤버 니엘 의 솔로 앨범 뮤직 비디오 를 언급 했 다 .	PER-B O PER-B PER-I O O O O O O O O O O PER-B O O O O O O ORG-B O O PER-B O O O PER-B O O O O O O O O O O
+영화 ‘ 투모로 우 ’ 에서 처럼 어느 한순간 에 급격한 변화 가 일어나 기 보다 는 아마도 점진적 둔화 를 보 게 될 듯하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 이희준 소속 사 BH 엔터테인먼트 관계자 는 24 일 " 이희준 과 이혜정 이 이달 초 부터 좋 은 감정 으로 만남 을 시작 했 다 " 고 열애 사실 을 공식 인정 했 다 .	O PER-B O O ORG-B ORG-I O O DAT-B DAT-I O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O

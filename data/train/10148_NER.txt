@@ -1,14 +1,14 @@
-9일 도에 따르면 경기관광공사(공사)는 올해 초부터 아시아 국가 현지 여행업계를 통하+여국 내 봄철 관광시즌을 겨냥하+ㄴ봄꽃 여행상품을 내놓았다 .	O O O ORG-B O O LOC-B O O O O O O O O O O O
-메이의 발표는 EU를 향하+ㄴ이별 선언과 다름없다 .	PER-B O ORG-B O O O O
-2011년부터 작년 7월까지 일본 도쿄지역과 주일대사관 주변에서 일어나 +ㄴ 혐한 시위 건수는 총 349건이 +ㅂ니다 .	O O O LOC-B LOC-B O O O O O O O O O O O
-팀에서 +ㄴ 차우찬이 본격적으로 안정을 찾는 지점을 70∼80 구 사이로 파악하고 있다 .	O O PER-B O O O O O O O O O O
-차우찬 스스로도 이 점을 인식하고 있다 .	PER-B O O O O O O
-유성은의 신곡 ‘어차피 한 번은 아프아야 해’는 9일 정오 각종 음원 사이트를 통하+여 공개되었다 .	PER-B O O O O O O O O O O O O O O
-기준금리는 한은의 금융통화위원회가 매달 회의를 통하+여 결정 하+ㄴ다 .	O ORG-B O O O O O O O
-2011년 SK에 입단 하+ㄴ그는 그해 12월 조인성의 FA보상선수로 LG유니폼을 입었다 .	O ORG-B O O O O PER-B O ORG-B O O
-K교수, 마르티노, 줄리아나 등도 합장(合掌) +하였다 .	PER-B PER-B PER-B O O O O
-제단 뒤편에 +ㄴ벽감(壁龕) 3개가 보이었다 .	O O O O O O
-물론 그리스 자체의 근본적 문제점도 있다 .	O LOC-B O O O O O
-우장훈(조승우 분)이 그러하다 .	PER-B O O O
-‘최화정의 파워타임’ 김혜성·스테파니 리의 훈훈하+ㄴ 인증 .	O O PER-B PER-I O O O
-2000명의 사이클 동호인들이 동양대학교∼옥녀봉(650m)∼저수령(850m) ∼죽령(700m)을 지나 +아동 양대학교로 들어오는 코스+이었다 .	O O O LOC-B LOC-B O O O O O O
+9 일 도 에 따르 면 경기 관광 공사 ( 공사 ) 는 올해 초 부터 아시아 국가 현지 여행 업계 를 통해 국내 봄철 관광 시즌 을 겨냥한 봄꽃 여행 상품 을 내놓 았 다 .	DAT-B DAT-I O O O O ORG-B ORG-I ORG-I O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+메이 의 발표 는 EU 를 향한 이별 선언 과 다름없 다 .	PER-B O O O ORG-B O O O O O O O O
+2011 년 부터 작년 7 월 까지 일본 도쿄 지역 과 주일 대사관 주변 에서 일어난 혐한 시위 건수 는 총 349 건 입니다 .	DAT-B DAT-I O O DAT-B DAT-I O LOC-B LOC-B O O O O O O O O O O O O O O O O
+팀 에선 차우찬 이 본격적 으로 안정 을 찾 는 지점 을 70 ∼ 80 구 사이 로 파악하 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O
+차우찬 스스로 도 이 점 을 인식하 고 있 다 .	PER-B O O O O O O O O O O
+유성은 의 신곡 ‘ 어차피 한번 은 아 파야 해 ’ 는 9 일 정오 각종 음원 사이트 를 통해 공개 됐 다 .	PER-B O O O O O O O O O O O DAT-B DAT-I TIM-B O O O O O O O O O
+기준 금리 는 한은 의 금융 통화 위원회 가 매달 회의 를 통해 결정한다 .	O O O ORG-B O O O O O O O O O O O
+2011 년 SK 에 입단한 그 는 그해 12 월 조인성 의 FA 보상 선수 로 LG 유니폼 을 입 었 다 .	DAT-B DAT-I ORG-B O O O O O DAT-B DAT-I PER-B O O O O O ORG-B O O O O O O
+K 교수 , 마르티 노 , 줄리아나 등 도 합장 ( 合掌 ) 했 다 .	PER-B O O PER-B PER-I O PER-B O O O O O O O O O
+제단 뒤편 엔 벽감 ( 壁龕 ) 3 개 가 보 였 다 .	O O O O O O O O O O O O O O
+물론 그리스 자체 의 근본적 문제점 도 있 다 .	O LOC-B O O O O O O O O
+우장훈 ( 조승우 분 ) 이 그러하 다 .	PER-B O PER-B O O O O O O
+‘ 최화정 의 파워 타임 ’ 김혜성 · 스테파니 리 의 훈훈한 인증 샷	O O O O O O PER-B O PER-B PER-I O O O O
+2000 명 의 사이클 동호인 들 이 동양 대학교 ∼ 옥녀봉 ( 650 m ) ∼ 저수령 ( 850 m ) ∼ 죽령 ( 700 m ) 을 지나 동양 대학교 로 들어오 는 코스 였 다 .	O O O O O O O LOC-B LOC-I O LOC-B O O O O O LOC-B O O O O O LOC-B O O O O O O LOC-B LOC-I O O O O O O O

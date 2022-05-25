@@ -1,18 +1,18 @@
-동아닷컴 디지털뉴스팀 dnews@donga. co .	O O O O O
-1순위 지명권을 얻기 위하+여고 사라도 지내+어야 하+ㄹ 것 같다”고 말하였다 .	O O O O O O O O O O O
-28일 오후 11시10분쯤 등록되+ㄴ 웹툰 ‘복학왕’ 46화에는 ‘바락 우바말’ +이라는 미 대통령이 저출산에 대하+ㄴ 대책을 찾고자 한국의 한 지방대학원룸촌을 찾는다는 설정으로 등장하였다 .	O O O O O O O PER-B PER-I O ORG-B O O O O O LOC-B O O O O O O
-통계청이 발표하+ㄴ 서비스업 동향조사에 따르면 지난해 온라인 쇼핑 등 무점포 소매판매액은 41조원으로 전체 소매업태 판매액의 11% 수준에 머물고 있다 .	ORG-B O O O O O O O O O O MNY-B O O O O O O O O
-에이미는 “유승준의 경우와는 다르다고 생각하+ㄴ다 .	PER-B PER-B O O O O
-펫팸족의 미, "장난감 아니+ㄴ 가족 …동물에 대하+ㄴ 인식 변화 .	ORG-B O O O O O O O O O
-6·15 선언 15주년 남북공동행사도 무산되었다 .	O O O ORG-B O O
-금감원은 또 고객이 휴대전화 수리를 받은 뒤 보험사에 보험금을 직접 요구 하+ㄹ 필요 없이 앞으로는 수리업체가 대신 보험금을 청구하도록 시스템을 개편하기로 +였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-[삶과 추억] 부트로스 부트로스 갈리 전 유엔 사무총 .	O O O O O O ORG-B O O
-이를 기념하면서 그 정신을 계승하+ㄴ다고 선언 하+ㄴ 클라우드 맥주는 K를 맨 앞 스펠링으로 사용하면서 한국의 자존심을 내세우었다 .	O O O O O O O ORG-B ORG-I O O O O O ORG-B O O O
-발행인지 홍스님(조계종 포교원장)은 “불교계에서 500호 월간지는 처음이고 일반 잡지도 흔하지 않은 기록”이라고 말하였다 .	O O O O O O O O O O O O O O
-한일 양측이 9일 서울에서 군사정보보호협정(GSOMIA) 체결에 관하+ㄴ 2차 실무협의를 개최하기로 하+ㄴ 가운데, 이번 협정 체결 추진이 최순실 사태로 쏠리+ㄴ 틈을 이용하는 것이 아니냐는 지적이 나오고 있다 .	ORG-B O O LOC-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
-김부겸 더불어민주당 의원은 9일 오전 자신의 트위터에 “국방부가 국정 혼란을 틈타 +아 ‘한일 군사정보협정’을 추진하고 있다”며 “과거사에 대하+ㄴ 사과가 전제되지 않는 한 일군사정보협정은 국민 정서에 맞지 않다 .	PER-B ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
-문세영은 이번 시즌을 포함하+여 6 시즌 연속 100승을 기록하였고, 본인이 세우+ㄴ 시즌 최다 승기록 162승에 한 발 다가서 +었다 .	PER-B O O O O O O O O O O O O O O O O O O O
-결과는 0-0 무승부.1차 전원 정패배(0-1)를 설욕하지+ㄴ 못하였지만, 밀리+ㄹ 것이라는 예상을 깨고 대등하+ㄴ경기를 선보이었다 .	O O O O O O O O O O O O O O
-삼성전자는 이와 관련 “해당 제품을 입수하+여서 면밀히 조사하고 결과를 알리겠다”고 밝히었다 .	ORG-B O O O O O O O O O O O
-삼성전자는 “지금까지 스마트폰 배터리가 자연 발화 하+ㄴ 적은 없었다”며 “해당 제품을 입수하+여조사하고 결과를 알리겠다”고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O
-내년 3월부터 여의도 지역을 순환하는 버스가 신설되+ㄴ다 .	O O LOC-B O O O O O
+동아닷컴 디지털 뉴스 팀 dnews @ donga . com	O O O O O O O O O
+1 순위 지명권 을 얻 기 위해 고사 라도 지내야 할 것 같 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O
+28 일 오후 11 시 10 분 쯤 등록된 웹 툰 ‘ 복학 왕 ’ 46 화 에 는 ‘ 바락 우 바 마 ’ 라는 미 대통령 이 저 출산 에 대한 대책 을 찾 고자 한국 의 한 지방 대학 원룸 촌 을 찾 는다는 설정 으로 등장 했 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O O O O PER-B PER-I PER-I PER-I O O ORG-B O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O
+통계청 이 발표한 서비스업 동향 조사 에 따르 면 지난해 온라인 쇼핑 등 무 점포 소매 판매액 은 41 조 원 으로 전체 소매 업태 판매액 의 11 % 수준 에 머물 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+에이미 는 “ 유승준 의 경우 와 는 다르 다고 생각한다 .	PER-B O O PER-B O O O O O O O O
+펫팸족 의미 , " 장난감 아닌 가족 … 동물 에 대한 인식 변화 "	ORG-B O O O O O O O O O O O O O
+6 · 15 선언 15 주년 남북 공동 행사 도 무산 됐 다 .	O O O O O O ORG-B O O O O O O O
+금감원 은 또 고객 이 휴대 전화 수리 를 받 은 뒤 보험 사 에 보험금 을 직접 요구할 필요 없이 앞 으로 는 수리 업체 가 대신 보험금 을 청구하 도록 시스템 을 개편하 기 로 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 삶 과 추억 ] 부트로스 부트로스 갈리 전 유엔 사무총장	O O O O O PER-B PER-I PER-I O ORG-B O
+이 를 기념하 면서 그 정신 을 계승한다고 선언한 클라우드 맥주 는 K 를 맨 앞 스펠링 으로 사용하 면서 한국 의 자존심 을 내세 웠 다 .	O O O O O O O O O ORG-B ORG-I O O O O O O O O O ORG-B O O O O O O O
+발행인 지홍 스님 ( 조계종 포교 원장 ) 은 “ 불교 계 에서 500 호 월간지 는 처음 이 고 일반 잡지 도 흔 치 않 은 기록 ” 이라고 말 했 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한일 양측 이 9 일 서울 에서 군사 정보 보호 협정 ( GSOMIA ) 체결 에 관한 2 차 실무 협의 를 개최하 기 로 한 가운데 , 이번 협정 체결 추진 이 최순실 사태 로 쏠린 틈 을 이용하 는 것 이 아니 냐는 지적 이 나오 고 있 다 .	ORG-B O O DAT-B DAT-I LOC-B O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김부겸 더불 어 민주당 의원 은 9 일 오전 자신 의 트위터 에 “ 국방부 가 국정 혼란 을 틈타 ‘ 한 일 군사 정보 협정 ’ 을 추진하 고 있 다 ” 며 “ 과거사 에 대한 사과 가 전제되 지 않 는 한 일 군사 정보 협정 은 국민 정서 에 맞 지 않 다 .	PER-B ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문세영 은 이번 시즌 을 포함해 6 시즌 연속 100 승 을 기록 했 고 , 본인 이 세운 시즌 최 다승 기록 162 승 에 한발 다가섰 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+결과 는 0 - 0 무승부 . 1 차 전 원정 패배 ( 0 - 1 ) 를 설욕하 진 못 했 지만 , 밀릴 것 이 라는 예상 을 깨 고 대등한 경기 를 선보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성전자 는 이 와 관련 “ 해당 제품 을 입수해서 면밀히 조사하 고 결과 를 알리 겠 다 ” 고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+삼성전자 는 “ 지금 까지 스마트 폰 배터리 가 자연 발화한 적 은 없 었 다 ” 며 “ 해당 제품 을 입수해 조사하 고 결과 를 알리 겠 다 ” 고 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내년 3 월 부터 여의도 지역 을 순환하 는 버스 가 신설된다 .	O DAT-B DAT-I O LOC-B O O O O O O O O

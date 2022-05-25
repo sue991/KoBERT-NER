@@ -1,16 +1,16 @@
-글= 김소엽기자 kim. soyub@j oongang. co.kr사진=김경록기자kim kr8486@j oongang. co.kr[커버스토리]▶[강남40대를 정의하다 ① 정치] 우리+ㄴ보수도 진보도 아니다 ▶2016년 당신이 선택하+ㄹ 명품은 ▶ 강남구 중학교 교사 6명 중 1명이 ‘기간제’ ▶ 특목고 어디서가장 많이 보내+었나▶3040CEO들은 아버지에게 무엇을 받았나 ▶ 강남통신기사를 더 보려면 여기를 클릭하세 .	O PER-B O O O PER-B O O ORG-B O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O ORG-B O O O O O
-아욱 죽은 먼저 된장을 풀고 새우를 넣고 물(육수)을 끓이다 쌀을 넣는다 .	O O O O O O O O O O O O
-러시아 정부는 이날 보스니아에 관하+ㄴ 공동성명안이 최근 내전이 가열되 +ㄴ 비하치지역 전투와 관련, 세르비아계를 『침략자』로 규정 하+ㄴ 데이의를 제기, 거부권을 행사하였다 .	ORG-B ORG-I O LOC-B O O O O O O LOC-B O O ORG-B O O O O O O O O
-김태균은 1회 초 1타점 선제적 시타를 날리+어리드를 안기었다 .	PER-B O O O O O O O O
-[2016세법 개정안] 세제 어떻게 바뀌 .	O O O O O O
-문 대표는 수락연설에서 ‘박근혜 정부와의 전면전’을 선포하였다 .	PER-B O O PER-B O O O O
-“부부가 함께 관리 하+ㄴ다면 20~30평 내외, 혼자 오가는 집이라면 15평 이내가 적당하다”는 것+이 공통되+ㄴ 견해+이다 .	O O O O O O O O O O O O O O O O
-3년 전 강화도에 별장을 마련하+여주말마다 부부가 함께 찾는다는 정영철(65·서울 고척동)씨는 “세컨드 하우스를 잘 활용하려면 재테크의 관점에서 벗어나 +아야 하+ㄴ다”는 얘기도 +였다 .	O O LOC-B O O O O O LOC-B LOC-B O O O O O O O O O O O O
-이를 확인 하+ㄴ 윤두준은 주변 촬영진의 흥분을 가라앉히며 관광객에게 사과를 +였다 .	O O O PER-B O O O O O O O O
-몇몇 펀드의 1분기 수익률이 30%를 넘는 등 관련 펀드가 좋은 성적을 내고 있기 때문이다 .	O O O O O O O O O O O O O O O
-해피투게더3에 ‘빅뱅’ 데뷔 9년만 총출동 !… 방송은 언제? 최근 신곡을 발표하며 음원 및 음악방송 1위 행진을 잇어가고 있는 그룹 ‘빅뱅’이 해피투게더 3 출연 소식을 전하였다 .	O ORG-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O
-11일 오전 한 매체는 방송 관계자들의 말을 인용“빅뱅이 KBS2 예능 프로그램 ‘해피투게더3’의 출연을 확정짓었다”고 알리었다 .	O O O O O O O ORG-B ORG-B O O O O O O O
-보도에 따르면 빅뱅은 오는 15일 서울 여의도 KBS별관에서 진행되는 ‘해피투게더3’ 녹화에 참여하+ㄹ 예정이며, 이는 빅뱅 멤버 5명 전원이 KBS 예능 프로그램에 출연하는 것으로 데뷔 9년 만에 처음으로 알려지+어 눈길을 끌고 있다 .	O O ORG-B O O LOC-B LOC-B LOC-I O O O O O O ORG-B O O O ORG-B O O O O O O O O O O O O O
-빅뱅은 데뷔 초 일부 멤버가 ‘스타 골든벨’, ‘개그콘서트’ 등에 출연하+ㄴ 적은 있지만 5명 멤버 전원이 KBS 예능 프로그램에 출연하+ㄴ 적은 없었다 .	ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O
-또한 백뱅을 비롯 YG엔터테인먼트 소속 가수들은 최근 수년간 KBS 출연을 하지 않았으며, 최근 지누션이 ‘뮤직뱅크’에 출연하며 YG와 KBS의 교류가 다시 시작되는 것 아니냐(?)는 반응을 부르어 일으키었다 .	O O O ORG-B O O O O ORG-B O O O O ORG-B O O ORG-B ORG-B O O O O O O O O O
-한편 빅뱅은 지나 +ㄴ 1일 신곡 ‘루저(LOSER)’와 ‘BAEBAE’를 발매하였으며, 두 신곡은 발매 직후 국내외 음원차트를 석권하였으며 각종 음악 프로그램에서도 1위를 차지하며 많은 인기를 끌고 있다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+글 = 김소엽 기자 kim . soyub @ joongang . co . kr 사진 = 김경록 기자 kimkr 8486 @ joongang . co . kr [ 커버스토리 ] ▶ [ 강남 40 대 를 정의하 다 ① 정치 ] 우린 보수 도 진보 도 아니 다 ▶ 2016 년 당신 이 선택할 명품 은 ▶ 강남구 중학교 교사 6 명 중 1 명 이 ‘ 기간제 ’ ▶ 특목 고 어디 서 가장 많이 보냈 나 ▶ 3040 CEO 들 은 아버지 에게 무엇 을 받 았 나 ▶ 강남 통신 기사 를 더 보 려면 여기 를 클릭하 세요	O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O
+아욱죽 은 먼저 된장 을 풀 고 새우 를 넣 고 물 ( 육수 ) 을 끓이 다 쌀 을 넣 는다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+러시아 정부 는 이날 보스니아 에 관한 공동 성명 안 이 최근 내전 이 가열된 비하 치 지역 전투 와 관련 , 세르비아 계 를 『 침략자 』 로 규정한데 이의 를 제기 , 거부권 을 행사 했 다 .	ORG-B ORG-I O O LOC-B O O O O O O O O O O LOC-B LOC-I O O O O O ORG-B O O O O O O O O O O O O O O O O O
+김태균 은 1 회 초 1 타점 선제 적시타 를 날려 리드 를 안 겼 다 .	PER-B O O O O O O O O O O O O O O O O
+[ 2016 세법 개정안 ] 세제 어떻 게 바뀌 나	O DAT-B O O O O O O O O
+문 대표 는 수락 연설 에서 ‘ 박근혜 정부 와 의 전면전 ’ 을 선포 했 다 .	PER-B O O O O O O PER-B O O O O O O O O O O
+“ 부부 가 함께 관리한다면 20 ~ 30 평 내외 , 혼자 오가 는 집 이 라면 15 평 이내 가 적당하 다 ” 는 게 공통된 견해 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 년 전 강화도 에 별장 을 마련해 주말 마다 부부 가 함께 찾 는다는 정영철 ( 65 · 서울 고척동 ) 씨 는 “ 세컨드 하우스 를 잘 활용하 려면 재테크 의 관점 에서 벗어나야 한다 ” 는 얘기 도 했 다 .	O O O LOC-B O O O O O O O O O O O PER-B O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+이 를 확인한 윤두준 은 주변 촬영 진 의 흥분 을 가라앉히 며 관광객 에게 사과 를 했 다 .	O O O PER-B O O O O O O O O O O O O O O O O
+몇몇 펀드 의 1 분기 수익률 이 30 % 를 넘 는 등 관련 펀드 가 좋 은 성적 을 내 고 있 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+해피투게더 3 에 ‘ 빅뱅 ’ 데뷔 9 년 만 총출동 ! … 방송 은 언제 ? 최근 신곡 을 발표하 며 음원 및 음악 방송 1 위 행진 을 이 어 가 고 있 는 그룹 ‘ 빅뱅 ’ 이 해피투게더 3 출연 소식 을 전 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O
+11 일 오전 한 매체 는 방송 관계자 들 의 말 을 인용 “ 빅뱅 이 KBS 2 예능 프로그램 ‘ 해피투게더 3 ’ 의 출연 을 확정 지 었 다 ” 고 알 렸 다 .	DAT-B DAT-I O O O O O O O O O O O O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+보도 에 따르 면 빅뱅 은 오 는 15 일 서울 여의도 KBS 별관 에서 진행되 는 ‘ 해피투게더 3 ’ 녹화 에 참여할 예정 이 며 , 이 는 빅뱅 멤버 5 명 전원 이 KBS 예능 프로그램 에 출연하 는 것 으로 데뷔 9 년 만 에 처음 으로 알려져 눈길 을 끌 고 있 다 .	O O O O ORG-B O O O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O ORG-B O O O O O ORG-B O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+빅뱅 은 데뷔 초 일부 멤버 가 ‘ 스타 골든벨 ’ , ‘ 개그 콘서트 ’ 등 에 출연한 적 은 있 지만 5 명 멤버 전원 이 KBS 예능 프로그램 에 출연한 적 은 없 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+또한 백 뱅 을 비롯 YG 엔터테인먼트 소속 가수 들 은 최근 수년 간 KBS 출연 을 하 지 않 았 으며 , 최근 지누션 이 ‘ 뮤직 뱅크 ’ 에 출연하 며 YG 와 KBS 의 교류 가 다시 시작 되 는 것 아니 냐 ( ? ) 는 반응 을 불 러 일으 켰 다 .	O O O O O ORG-B ORG-I O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+한편 빅뱅 은 지난 1 일 신곡 ‘ 루저 ( LOSER ) ’ 와 ‘ BAE BAE ’ 를 발매 했 으며 , 두 신곡 은 발매 직후 국내외 음원 차트 를 석권 했 으며 각종 음악 프로그램 에서 도 1 위 를 차지하 며 많 은 인기 를 끌 고 있 다 .	O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

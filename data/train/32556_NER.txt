@@ -1,12 +1,12 @@
-김영삼 전 대통령의 영결식 뒤 고인의 시신은 운구 행렬과 함께 서울 상도동의 사저를 거치+어 국립서울현충원으로 향하+ㄴ다 .	PER-B O O O O O O O O O LOC-B LOC-B O O LOC-B O O
-개신교의 이삼열 교수(숭실대)는 종교계가 통일을 위하+여하+ㄹ 수 있는 구체적 과제로 남북한 민간의 화해, 인도적 삶의 회복, 평화교육, 민주적 사회개혁 등을 제시하였다 .	ORG-B PER-B ORG-B O O O O O O O ORG-B O O O O O O O O O O O
-한편 에릭 남은 오는 5일 Mnet '엠카운트 다운'을 통하+여신곡 '괜찮아 괜찮아'로 컴백 하+ㄴ다 .	O PER-B PER-I O O O O O O O O O O O
-박근혜 정부 출범 전에 증세 없는 복지, 구조개혁 등 현 정부의 정책기조를 고스란히 담았다 .	PER-B O O O O O O O O O O O O O O
-유 후보자는 18대 국회 기획재정위에서 박 대통령 옆자리에 앉으면서 친분을 쌓았다 .	PER-B O O ORG-B ORG-I PER-B O O O O O O
-어쩌다 이진영이 갈비뼈를 다치었는지는 확인되지 않았다 .	O PER-B O O O O O
-이 예림 사진, 얼마나 벗었길래 …父이경규, '화들짝 .	O O O O O PER-B O O
-게이머들은 원작 '리니지'에 등장하는 다양하+ㄴ 캐릭터와 몬스터들을 수집하고 육성하는 것은 물론, '리니지'하면 떠오르는 아이템 강화의 재미까지 만끽 하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O O O O O
-아울러 온라인게임의 명가엔씨소프트답게 모바일게임을 국내 시장에서 처음 출시하면서 캐릭터들의 목소리 연기에 국내 정상급의 성우를 기용하는 등 게임의 세세 하+ㄴ 부분까지 완성도를 높이 +ㄴ 모습이 엿보이었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-또 애스톤대의 네일앤더슨 박사는 모의 면접 실험에서 처음 4분 사이에 채용 여부가 결정되 +ㄴ다고 +였습니다 .	O ORG-B PER-B O O O O O O O O O O O O O
-(서울=뉴스1)[전문]黃 대행 3·1절 기념사… “사회 갈등 확대… 조화·균형 필요” 황교안 대통령 권한대행 국무총리는 1일 헌법재판소의 탄핵소추 심 판 결정을 앞두고 여론이 양극화되고 있는 상황에서 “이제는 헌법의 정신과 가치를 존중하는 바탕 위에 서 서로의 다양성을 인정하고 조화와 균형을 이루+어나가는 노력이 필요하다”며 국론, 사회통합을 강조하였다 .	LOC-B O O O O O O O O PER-B O O O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-황 권한대행은 이날 오전 서울 종로구 세종문화회관에서 열리+ㄴ 제78주년 3·1절 기념식에 참석하+여 “우리 사회는 최근의 일련의 사태로 국론이 분열되고 사회갈등이 확대되고 있으며 서로를 반목·질시하는 현상까지 일어나고 있다”며 이같이 말하였다 .	PER-B O O O LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O
+김영삼 전 대통령 의 영결식 뒤 고인 의 시신 은 운구 행렬 과 함께 서울 상도동 의 사저 를 거쳐 국립서울현충원 으로 향한다 .	PER-B O O O O O O O O O O O O O LOC-B LOC-B O O O O LOC-B O O O
+개신교 의 이삼열 교수 ( 숭실대 ) 는 종교계 가 통일 을 위해 할 수 있 는 구체적 과제 로 남 북한 민간 의 화해 , 인도적 삶 의 회복 , 평화 교육 , 민주적 사회 개혁 등 을 제시 했 다 .	ORG-B O PER-B O O ORG-B O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
+한편 에릭 남 은 오 는 5 일 Mnet ' 엠 카운트다운 ' 을 통해 신곡 ' 괜찮 아 괜찮 아 ' 로 컴백한다 .	O PER-B PER-I O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+박근혜 정부 출범 전 에 증세 없 는 복지 , 구조 개혁 등 현 정부 의 정책 기조 를 고스란히 담 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+유 후보자 는 18 대 국회 기획 재정 위 에서 박 대통령 옆 자리 에 앉 으면서 친분 을 쌓 았 다 .	PER-B O O O O ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O O O O O O
+어쩌다 이진영 이 갈비뼈 를 다 쳤 는지 는 확인되 지 않 았 다 .	O PER-B O O O O O O O O O O O O O
+이예림 사진 , 얼마나 벗 었 길래 … 父 이경규 , ' 화들짝 '	PER-B O O O O O O O O PER-B O O O O
+게이머 들 은 원작 ' 리니지 ' 에 등장하 는 다양한 캐릭터 와 몬스터 들 을 수집하 고 육성하 는 것 은 물론 , ' 리니지 ' 하 면 떠오르 는 아이템 강화 의 재미 까지 만끽할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아울러 온라인 게임 의 명가 엔씨소프트 답 게 모바일 게임 을 국내 시장 에서 처음 출시하 면서 캐릭터 들 의 목소리 연기 에 국내 정상급 의 성우 를 기용하 는 등 게임 의 세세한 부분 까지 완성도 를 높인 모습 이 엿보 였 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 애스톤 대 의 네일 앤더슨 박사 는 모의 면접 실험 에서 처음 4 분 사이 에 채용 여부 가 결정된다고 했 습니다 .	O ORG-B ORG-I O PER-B PER-I O O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 ) [ 전문 ] 黃 대행 3 · 1 절 기념사 … “ 사회 갈등 확대 … 조화 · 균형 필요 ” 황교안 대통령 권한 대행 국무총리 는 1 일 헌법 재판소 의 탄핵 소추 심판 결정 을 앞두 고 여론 이 양극화 되 고 있 는 상황 에서 “ 이제 는 헌법 의 정신 과 가치 를 존중하 는 바탕 위 에서 서로 의 다양성 을 인정하 고 조화 와 균형 을 이뤄 나가 는 노력 이 필요하 다 ” 며 국론 , 사회 통합 을 강조 했 다 .	O LOC-B O ORG-B ORG-I O O O O PER-B O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O PER-B O O O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+황 권한 대행 은 이날 오전 서울 종로구 세종문화회관 에서 열린 제 78 주년 3 · 1 절 기념식 에 참석해 “ 우리 사회 는 최근 의 일련 의 사태 로 국론 이 분열되 고 사회 갈등 이 확대되 고 있 으며 서로 를 반목 · 질시하 는 현상 까지 일어나 고 있 다 ” 며 이같이 말 했 다 .	PER-B O O O O O LOC-B LOC-B LOC-I O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,10 +1,10 @@
-“이 정부를 불통정부 +이라고들 하는데 이정현 후보가 (박근혜 청와대의) 소통 책임자+이었다 .	O ORG-B ORG-B O O PER-B O PER-B ORG-B O O O
-올 시즌에도 호주 여자 오픈과 KIA 클래식에서 선두를 달리다 뒷심 부족에 허덕이며 미끄럼을 타+았다 .	O O O O O ORG-B O O O O O O O O O
-대부분 고향이 지바+이라는 점에 적잖이 놀라 +았다 .	O O O O O O O O
-연세대는 학과 공부 이외 시간에는 열리+ㄴ토론을 진행하고 인성교육을 위하+ㄴ 학습 윤리, 생활윤리, 사회기여, 문화예술, 체육활동 등 다양하+ㄴ 레지덴셜 칼리지(RC) 프로그램을 운영하고 있다 .	ORG-B O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O
-‘복면가왕’고 추아가 씨 여은, ‘하와이’에 패하+여복면 벗었다… 방송 후 ‘사과드리+ㄴ다’… 왜 .	O O O PER-B PER-B PER-B O O O O O O
-양주신도시 홍보관은 양주시 옥정로 153-15번지(옥정동 산160-2)이다 .	LOC-B O LOC-B LOC-B LOC-B LOC-I O
-또한 박주미는 삐치+ㄴ 박명수에게 애교를 보이거나 아끼는 물건을 맡기고 그가 좋아하는 음료를 사+아오는 정성을 보이었다 .	O PER-B O PER-B O O O O O O O O O O O O
-김효주와의 만남은 4월 초 제주에서 열리+ㄴ 롯데마트 여자 오픈 이후 약 2개월 만이다 .	PER-B O O O LOC-B O O O O O O O O O
-문 후보의 홈페이지에 비하면 메뉴의 개수나 홈페이지의 구성이 단순화 하+ㄴ 모습으로, 상대적으로 연령대가 높은 지지층을 겨냥하+ㄴ 것으로 풀이되 +ㄴ다 .	PER-B O O O O O O O O O O O O O O O O O O O
-두산 관계자는 “LG가 먼저 클래식 유니폼을 입기로 결정 하+ㄴ 뒤 우리 쪽에 함께 추억의 유니폼을 착용하자고 제안이 +아서 흔쾌히 받아들이었다”고 전하였다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O
+“ 이 정부 를 불통 정부 라고 들 하 는데 이정현 후보 가 ( 박근혜 청와대 의 ) 소통 책임자 였 다 .	O O ORG-B O O ORG-B O O O O PER-B O O O PER-B ORG-B ORG-I O O O O O O
+올 시즌 에 도 호주 여자 오픈 과 KIA 클래식 에서 선두 를 달리 다 뒷심 부족 에 허덕이 며 미끄럼 을 탔 다 .	DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O O O
+대부분 고향 이 지바 라는 점 에 적잖이 놀랐 다 .	O O O O O O O O O O O
+연세대 는 학과 공부 이외 시간 에 는 열린 토론 을 진행하 고 인성 교육 을 위한 학습 윤리 , 생활 윤리 , 사회 기여 , 문화 예술 , 체육 활동 등 다양한 레지덴셜 칼리지 ( RC ) 프로그램 을 운영하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+‘ 복면 가왕 ’ 고추 아가씨 여 은 , ‘ 하와이 ’ 에 패해 복면 벗 었 다 … 방송 후 ‘ 사과드린다 ’ … 왜 ?	O O O O PER-B PER-I PER-B PER-I O O PER-B O O O O O O O O O O O O O O O O
+양주 신도시 홍보 관 은 양주시 옥정 로 153 - 15 번지 ( 옥정동 산 160 - 2 ) 이 다 .	LOC-B LOC-I O O O LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O
+또한 박주미 는 삐친 박명수 에게 애교 를 보이 거나 아끼 는 물건 을 맡기 고 그 가 좋아하 는 음료 를 사 오 는 정성 을 보 였 다 .	O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+김효주 와 의 만남 은 4 월 초 제주 에서 열린 롯데마트 여자 오픈 이후 약 2 개월 만 이 다 .	PER-B O O O O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O
+문 후보 의 홈페이지 에 비하 면 메뉴 의 갯수 나 홈페이지 의 구성 이 단순화한 모습 으로 , 상대적 으로 연령 대 가 높 은 지지 층 을 겨냥한 것 으로 풀이된다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두산 관계자 는 “ LG 가 먼저 클래식 유니폼 을 입 기 로 결정한 뒤 우리 쪽 에 함께 추억 의 유니폼 을 착용하 자고 제안 이 와서 흔쾌히 받아들 였 다 ” 고 전 했 다 .	ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

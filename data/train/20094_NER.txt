@@ -1,11 +1,11 @@
-우리에게는 2010년 광저우 아시안게임 개폐 회식 때 화려하+ㄴ 조명를 뽐내던 광저우탑과 어우러지+ㄴ야경으로 잘 알려지+ㄴ 곳이다 .	O O LOC-B O O O O O O O LOC-B O O O O O
-중국 신사상·신문화 탄생 하+ㄴ 곳 주장은 예로부터 광둥성 하류에서 삼각주를 이루며 많은 이의 삶의 터전을 만들어 주+었고, 중국 역사의 영욕과 변화를 지켜보았다 .	ORG-B O O O O O O LOC-B O O O O O O O O O ORG-B O O O O O
-”폐차나 신차 구입 시 지원책은.“현재 2000년 이전 차는 중고차 잔존가액의 100%를, 2000~2005년 이전 차는 85%를 지원하고 있다 .	O O O O O O O O O O O O O O O O O O
-그 결과 여성의 경제활동 참가율은 같은 기간 48.8%에서 51.3%로 증가하였다 .	O O O O O O O O O O O
-세계의 지옥철, 韓최악의 구간은? 구간 혼잡도 237% … "숨쉬기 힘들 +ㄹ 정도 .	O O ORG-B O O O O O O O O O O
-14일 부동산114에 따르면 올해 분양을 +였거나 분양이 예정되+ㄴ 단지 중 1000채가 넘는 대단지는 전국 104개 단지로 총 17만4045 채에 이르+ㄴ다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
-50대를 대표하는 추 감독과 유 감독, 40대를 대표하는 이 감독과 김 감독 중 누구가 시리즈가 끝나 +ㄴ 뒤웃는 얼굴로 악수를 나누게 되+ㄹ까 .	O O PER-B O PER-B O O O PER-B O PER-B O O O O O O O O O O O O
-서울예대연극과 출신 이+ㄴ그는 후배들의 졸업 작품, 단편영화 등 “카메라 감각을 빨리 익히기 위하+여” 연기를 하+ㄹ 수만 있다면 가리지 않고 출연하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-연일 무더위가 이어지는 가운데, tvN ‘삼시세끼고 창편’의 4인방이 5일 방송에서 여름을 나는 다양하+ㄴ 방법을 선보이어 눈길을 끌+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-아티장 베이커리에는 전라남도 영광에 있는 ‘유레카 목장’에서 만들어지는 유제품이 비치되 +어 있다 .	LOC-B LOC-I LOC-B LOC-B O O O O O O O O O
-헝가리는 1승1무, 승점 4로 조 1위 자리를 지키었다 .	ORG-B O O O O O O O O
+우리 에게 는 2010 년 광저우 아시안 게임 개 폐회식 때 화려한 조명 를 뽐내 던 광저우 탑 과 어우러진 야경 으로 잘 알려진 곳 이 다 .	O O O DAT-B DAT-I O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O
+중국 신사상 · 신문화 탄생한 곳 주장 은 예 로부터 광둥성 하류 에서 삼각주 를 이루 며 많 은 이 의 삶 의 터전 을 만들 어 줬 고 , 중국 역사 의 영욕 과 변화 를 지켜보 았 다 .	ORG-B O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+” 폐차 나 신차 구입 시 지원 책 은 . “ 현재 2000 년 이전 차 는 중고차 잔존 가액 의 100 % 를 , 2000 ~ 2005 년 이전 차 는 85 % 를 지원하 고 있 다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 결과 여성 의 경제활동 참가율 은 같 은 기간 48.8 % 에서 51.3 % 로 증가 했 다 .	O O O O O O O O O O O O O O O O O O O O
+세계 의 지옥철 , 韓 최악 의 구간 은 ? 구간 혼잡도 237 % … " 숨 쉬 기 힘들 정도 "	O O O O ORG-B O O O O O O O O O O O O O O O O O
+14 일 부동산 114 에 따르 면 올해 분양 을 했 거나 분양 이 예정된 단지 중 1000 채 가 넘 는 대 단지 는 전국 104 개 단지 로 총 17 만 4045 채 에 이른다 .	DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+50 대 를 대표하 는 추 감독 과 유 감독 , 40 대 를 대표하 는 이 감독 과 김 감독 중 누 가 시리즈 가 끝난 뒤 웃 는 얼굴 로 악수 를 나누 게 될까 .	O O O O O PER-B O O PER-B O O O O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O
+서울예대 연극 과 출신 인 그 는 후배 들 의 졸업 작품 , 단편 영화 등 “ 카메라 감각 을 빨리 익히 기 위해 ” 연기 를 할 수 만 있 다면 가리 지 않 고 출연 했 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+연일 무더위 가 이어지 는 가운데 , tvN ‘ 삼시세끼 고창 편 ’ 의 4 인 방 이 5 일 방송 에서 여름 을 나 는 다양한 방법 을 선보 여 눈길 을 끈다 .	O O O O O O O O O O LOC-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+아티 장 베이커리 에 는 전라남도 영광 에 있 는 ‘ 유레카 목장 ’ 에서 만들 어 지 는 유제품 이 비치돼 있 다 .	LOC-B LOC-I LOC-I O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O
+헝가리 는 1 승 1 무 , 승점 4 로 조 1 위 자리 를 지 켰 다 .	ORG-B O O O O O O O O O O O O O O O O O O

@@ -1,13 +1,13 @@
-편리하+ㄴ 교통도래미안용산 SI의 자랑이다 .	O ORG-B ORG-I O O
-2013년 5월 17일 이후 블룸버그 억만장자인덱스의 세계 1위 부호 자리를 지키+어오+ㄴ게이츠의 재산은 27일 현재 871억달러(약 98조 5972억원)이+ㄴ 것으로 집계되었다 .	O O O O ORG-B MNY-I O O O O PER-B O O O MNY-B MNY-B MNY-I O O O
-지나+ㄴ 2일 ‘6월 모평’으로 불리는 전국연합학력평가가 끝나 +았습니다 .	O O O O O O O O O
-그러나 스위스 국제경영개발연구원이 최근 발표 하+ㄴ ‘2015년 국가경쟁력 순위’에 따르면 한국은 분석 대상 61개 국 가운데 회계감사의 적절성과 기업이 사회의 경영감독 부문에서 60위를 차지하였다 .	O ORG-B ORG-I O O O O O O O ORG-B O O O O O O O O O O O O O O
-박인비, 브리티시女 오픈대역 전 우승… 4개 메이저석권 ‘커리어 그랜드 슬램 .	PER-B O O O O O O O O O O
-대세 스타들의 로사 케이 '리얼 러브 캠페인'이란 ?… 배우 김성은 도 참여 독 .	O O ORG-B ORG-I O O O O O PER-B O O O O
-??정 중부와 함께 최초의 정변을 일으키+ㄴ이의 방·이 고 등도 역시의 종을 호위하+ㄴ 친위군사+이었다 .	O O O O O PER-B PER-B PER-I O O O O PER-B O
-올 1분기 제2금융권 가계부채는 6조7000억원이 늘어 은행보다 증가세가 더 가파르다 .	O O O O MNY-B O O O O O O
-‘콜미베이비’ 뮤직비디오 유튜브 누적 조회 수도 9일까지 1100만 8707회로, 미쓰에이 ‘다른 남자 말고너’의 631만 5800회에 앞서 +ㄴ다 .	ORG-I O O O O O O O O ORG-B O O O O O O O O
-‘냉장고를 부탁하+여’ 맹기용, ‘이롤슈가’로 김풍꺾고 첫 1승… 부상은 꽁치 통조 .	O O PER-B O PER-B O O O O O O
-WHO가 1급 발암물질로 지정 하+ㄴ 미세먼지는 호흡기 질환과 심혈관질환, 폐암을 일으키는 것은 물론 우울증을 유발하고 자살률까지 높이는 것으로 알려지+어 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-[부고]김흥원 부인상·종규모 친상·김철현 탁건장 모 .	PER-B PER-B PER-B PER-B O O
-당장 2015년과 2016년을 생각하면 과감하 +ㄴ 선택이라고도 보이+ㅂ니다 .	O O O O O O O O O
+편리한 교통 도 래미안 용산 SI 의 자랑 이 다 .	O O O ORG-B ORG-I ORG-I O O O O O
+2013 년 5 월 17 일 이후 블룸버그 억만장자 인덱스 의 세계 1 위 부호 자리 를 지켜 온 게이츠 의 재산 은 27 일 현재 871 억 달러 ( 약 98 조 5972 억 원 ) 인 것 으로 집계 됐 다 .	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O ORG-B ORG-I ORG-I O O O O O O O O O PER-B O O O DAT-B DAT-I O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O
+지난 2 일 ‘ 6 월 모 평 ’ 으로 불리 는 전국 연합 학력 평가 가 끝났 습니다 .	O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O
+그러나 스위스 국제 경영 개발 연구원 이 최근 발표한 ‘ 2015 년 국가 경쟁력 순위 ’ 에 따르 면 한국 은 분석 대상 61 개국 가운데 회계감사 의 적절 성 과 기업 이사회 의 경영 감독 부문 에서 60 위 를 차지 했 다 .	O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O DAT-B DAT-I O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+박인비 , 브리티시 女 오픈 대 역전 우승 … 4 개 메이저 석권 ‘ 커리어 그랜드슬램 ’	PER-B O O O O O O O O O O O O O O O O
+대세 스타 들 의 로사 케이 ' 리얼 러브 캠페인 ' 이 란 ? … 배우 김성은 도 참여 독려	O O O O ORG-B ORG-I O O O O O O O O O O PER-B O O O
+? ? 정중부 와 함께 최초 의 정변 을 일으킨 이의방 · 이 고 등 도 역시 의종 을 호위한 친위 군사 였 다 .	O O PER-B O O O O O O O PER-B O PER-B PER-I O O O PER-B O O O O O O O
+올 1 분기 제 2 금융 권 가계 부채 는 6 조 7000 억 원 이 늘 어 은행 보다 증가세 가 더 가파르 다 .	O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O
+‘ 콜 미 베이비 ’ 뮤직 비디오 유튜브 누적 조회 수 도 9 일 까지 1100 만 8707 회 로 , 미쓰에 이 ‘ 다른 남자 말 고 너 ’ 의 631 만 5800 회 에 앞선다 .	O O O O O O O O O O O O DAT-B DAT-I O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+‘ 냉장고 를 부탁해 ’ 맹기 용 , ‘ 이롤슈 가 ’ 로 김풍 꺾 고 첫 1 승 … 부상 은 꽁치 통조림	O O O O O PER-B PER-I O O O O O O PER-B O O O O O O O O O O
+WHO 가 1 급 발암물질 로 지정한 미세 먼지 는 호흡기 질환 과 심혈관 질환 , 폐암 을 일으키 는 것 은 물론 우울증 을 유발하 고 자살 률 까지 높이 는 것 으로 알려져 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 부고 ] 김흥원 부인상 · 종규 모친상 · 김철현 탁 건 장모상	O O O PER-B O O PER-B O O PER-B PER-B PER-I O
+당장 2015 년 과 2016 년 을 생각하 면 과감한 선택 이 라고 도 보입니다 .	O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O

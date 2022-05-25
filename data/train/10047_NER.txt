@@ -1,15 +1,15 @@
-신세계 센텀시티점 3일 확장 오 .	LOC-B LOC-I O O O O
-동산병원 암연구소장 박건욱 교수(혈액종양내과)는 “왓슨은 지역의 암 환자들이 수도권 대형병원으로 가는 번거롭 +ㅁ을 줄이+ㄹ 수 있을 것으로 보+ㄴ다”고 말하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O
-[단독]이재명 성남시장 누구+이길래?' 형제 갈등'은 왜 .	PER-B O O O O O O
-조사 대상 기간은 2010년~2014년이다 .	O O O O O
-이달 초 서울시를 비롯하+ㄴ 유관기관들은 송파 문정지구에 특허기술 상용화 플랫폼을 만들기로 협의하였다 .	O O ORG-B O O LOC-B LOC-I O O O O O O
-박 시장은 1주일 전만 하+여도 1위에 오르+ㄴ 지역이나 연령대가 하나도 없었으나, 이번에는 서울과 광주·전라, 20대와 30대에서 1위를 차지하+ㄴ 것으로 나타나 +았다 .	PER-B O O O O O O O O O O O LOC-B LOC-B O O O O O O O O
-“국군포로로 북한에 잡히+어 있던 47년 가운데 37년을 광산에서 노예처럼 살았습니다 .	O ORG-B O O O O O O O O O
-일제의 학병 징집 직후 이+ㄴ 44년 4월 경성제대예과에 입학하+여해방 후 서울대 문리대사학과에 진학, 졸업 후 6·25전쟁 발발전까지 약 1년간 사학과 조수로 있었다 .	ORG-B O O O O O O ORG-B O O ORG-B ORG-I O O O O O O O O O O O
-‘어머니가 이번 기회에 조금이나마 힘을 내시+ㄹ 수 있기를’하고 말이죠. 마우나 리조트 참사는 사실 2014년의 비극을 알리는 서막이었습니다 .	O O O O O O O O O O O O O O O O O O
-태권도 4단이라는 이색 경력이 눈길을 끌+ㄴ다 .	O O O O O O O
-‘동탄 파케이드 스타·스텔라’ 분 .	O O O O O
-LG팬들께 감사하다 .	ORG-B O O
-지나+ㄴ 7년간 잘 지내+었던 선배들, 후배들도 고맙다 .	O O O O O O O O
-김수용, 얼떨결에 결혼식 발표?… “부모님 허락받았어요 .	PER-B O O O O O O
-그런데도 사흘 전 유승민 원내대표는 “법인세 인상 문제에 대하+여토론이 필요하다”고 밝히+어새정치연합에 법인세 연계의 빌미를 제공하+ㄴ 측면이 없지 않다 .	O O O PER-B O O O O O O O O O O O O O O O
+신세계 센텀시티 점 3 일 확장 오픈	LOC-B LOC-I LOC-I DAT-B DAT-I O O
+동산 병원 암 연구소 장 박건욱 교수 ( 혈액 종양 내과 ) 는 “ 왓슨 은 지역 의 암 환자 들 이 수도권 대형 병원 으로 가 는 번거로움 을 줄일 수 있 을 것 으로 본다 ” 고 말 했 다 .	ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 단독 ] 이재명 성남 시장 누구 길래 ? ' 형제 갈등 ' 은 왜 ?	O O O PER-B O O O O O O O O O O O O
+조사 대상 기간 은 2010 년 ~ 2014 년 이 다 .	O O O O O O O O O O O O
+이달 초 서울시 를 비롯한 유관 기관 들 은 송파 문정 지구 에 특허 기술 상용 화 플랫폼 을 만들 기 로 협의 했 다 .	O O ORG-B O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O
+박 시장 은 1 주일 전 만 해도 1 위 에 오른 지역 이나 연령 대 가 하나 도 없 었 으나 , 이번 에 는 서울 과 광주 · 전라 , 20 대 와 30 대 에서 1 위 를 차지한 것 으로 나타났 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O LOC-B O O O O O O O O O O O O O O O O
+“ 국군 포로 로 북한 에 잡혀 있 던 47 년 가운데 37 년 을 광산 에서 노예 처럼 살 았 습니다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O
+일제 의 학병 징집 직후 인 44 년 4 월 경성제대 예과 에 입학해 해방 후 서울 대 문리대 사학 과 에 진학 , 졸업 후 6 · 25 전쟁 발발 전 까지 약 1 년 간 사학 과 조수 로 있 었 다 .	ORG-B O O O O O DAT-B DAT-I DAT-I DAT-I ORG-B O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 어머니 가 이번 기회 에 조금 이나마 힘 을 내 실 수 있 기 를 ’ 하 고 말 이 죠 . 마우나리조트 참사 는 사실 2014 년 의 비극 을 알리 는 서막 이 었 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+태권도 4 단 이 라는 이색 경력 이 눈길 을 끈다 .	O O O O O O O O O O O O
+‘ 동탄 파케 이드 스타 · 스텔라 ’ 분양	O O O O O O O O O
+LG 팬 들 께 감사하 다 .	ORG-B O O O O O O
+지난 7 년 간 잘 지냈 던 선배 들 , 후배 들 도 고맙 다 .	O O O O O O O O O O O O O O O O
+김수용 , 얼떨결 에 결혼식 발표 ? … “ 부모님 허락 받 았 어요 ”	PER-B O O O O O O O O O O O O O O
+그런데 도 사흘 전 유승민 원내 대표 는 “ 법인세 인상 문제 에 대해 토론 이 필요하 다 ” 고 밝혀 새정치연합 에 법인세 연계 의 빌미 를 제공한 측면 이 없 지 않 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

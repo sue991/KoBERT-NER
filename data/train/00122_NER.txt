@@ -1,15 +1,15 @@
-전체 증가율을 11.6%포인트 앞지르었다 .	O O O O O
-우리 군 당국 등을 따르면 경기도 파주시 등 북한과 가깝ㄴ 전방지역 일대에서 북한의 대남 심리전 방송을 FM 라디오 주파수로 송출하고 있는 것으로 확인되었다 .	O O O O O LOC-B LOC-B O ORG-B O O O ORG-B O O O O O O O O O O O
-“메르스 확산 사태, 성장률 0.1%포인트 낮추+어 .	O O O O O O O
-이에 따르 아에어팟 사용자가 탭 한 번으로 간단하게 설정하기만 하면 자동으로 켜+어지고 연결을 유지하+ㄹ 수 있다 .	O O O O O O O O O O O O O O O O O
-크로캅, 19년 만에 방한… 옥타곤 것 +ㄹ ‘아리아니셀레스티’도 UFC 첫 한국대회 홍보 최근 UFC 재기에 성공하+ㄴ ‘불꽃 하이킥’의 전설미로코크로캅과 옥타곤 것 +ㄹ아리아니셀레스티 셀레스트의 방한이 이목을 집중시키고 있다 .	PER-B O O O O O O PER-B ORG-B O LOC-B O O ORG-B O O PER-B PER-I PER-B O O PER-B PER-I O O O O O
-오늘(7일) 인천공항을 통하+여방한 하+ㄴ종합격투기 선수 미로코크로캅은 8일 열리는 ‘UFC 파이트 나이트인 서울’ 기자회견에 참석하+ㄹ 예정이다 .	O LOC-B O O O PER-B O O O O O O O O O O
-이번 크로캅의 방한은 19년 만으로, ‘UFC 파이트 나이트인 서울’ 기자회견에 참석하+ㄴ후 8일 오후 서울시 서초구 반포동에서 열리는 팬사인회에 참석하+여 한국의 팬들과도 만나 +ㄹ 예정이다 .	O PER-B O O O O O O LOC-B O O O O LOC-B LOC-B LOC-B O O O LOC-B O O O O O
-오는 11월 28일 서울 송파구 올림픽공원 내 올림픽체조경기장에서 개최되 +ㄹ 예정이+ㄴ ‘UFC 파이트 나이트인 서울’은, 크로캅 외에도 벤슨 헨더슨, 추성훈, 김동현 등 대회에 출전을 알리+어 세계 격투기 팬들의 이목이 집중되고 있다 .	O O O LOC-B LOC-B LOC-B O LOC-B O O O O O O LOC-B PER-B O PER-B PER-I PER-B PER-B O O O O O O O O O O O
-크로캅은 ‘UFC 파이트 나이트인 서울’에서 앤서니 해밀턴과 맞붙게 되+ㄹ 예정으로 알려지었다 .	PER-B O O O O PER-B PER-I O O O O O
-앞서 +어지나 +ㄴ 4월 크로캅은 지나 +ㄴ ‘UFC 파이트 나이트 64’ 대회 메인 이벤트 헤비 급매치에서 가브리엘 곤자가를 상대로 엘보우 공격을 퍼붓으며 3라운드 TKO승을 거두었다 .	O O O O PER-B O O O O O O O O O O O PER-B PER-I O O O O O O O O
-당시 대회는 지나 +ㄴ 2007년 4월 ‘UFC 70’에서 곤자가와 맞대결을 펼치+어 1라운드에서 곤자가 의 하이킥에 실신 KO 패+였던 굴욕을 8년 만에 되돌리+어주+ㄴ 복수전으로 기록되었다 .	O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O
-한편 이번 ‘UFC 파이트 나이트인 서울’의 홍보를 위하+ 여옥타곤 것 +ㄹ(Girl)로 활약 중 이+ㄴ아리아니셀레스티도 7일 입국하+여 10일까지 한국에 머물며 UFC 첫 한국대회의 홍보활동에 나서 +ㄹ 것으로 알려지+어 눈길을 끌었다 .	O O ORG-B O O O O O O O O O O PER-B O O O LOC-B O ORG-B O LOC-B O O O O O O O O
-3층에는 20대 여성에게 인기 높은 온라인 쇼핑몰 ‘임블리’의 오프라인 매장과 ‘매그제이’ 등이 입점 +하였다 .	O O O O O O O O O O O O O O O
-당분간 새누리당이 야당과의 협력에 나서기는 어렵어 보이+ㄴ다 .	O ORG-B O O O O O O
-”(윤) 국내 무대에서 많이 보고 싶다고 +였더니 “일찍 좀 연락 하+여+ 주었으면 좋겠다”고 이구동성이다 .	PER-B O O O O O O O O O O O O O O
+전체 증가율 을 11.6 % 포인트 앞질 렀 다 .	O O O O O O O O O O
+우리 군 당국 등 을 따르 면 경기도 파주시 등 북한 과 가까 운 전방 지역 일대 에서 북한 의 대남 심리전 방송 을 FM 라디오 주파수 로 송출하 고 있 는 것 으로 확인 됐 다 .	O O O O O O O LOC-B LOC-B O LOC-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+“ 메르스 확산 사태 , 성장률 0.1 % 포인트 낮춰 ”	O O O O O O O O O O O
+이 에 따 라 에어 팟 사용자 가 탭 한 번 으로 간단하 게 설정하 기 만 하 면 자동 으로 켜 지 고 연결 을 유지할 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+크로 캅 , 19 년 만 에 방한 … 옥타곤 걸 ‘ 아리아 니 셀레스 티 ’ 도 UFC 첫 한국 대회 홍보 최근 UFC 재기 에 성공한 ‘ 불꽃 하이킥 ’ 의 전설 미 로코 크로캅 과 옥타곤 걸 아리아 니 셀레스 티 셀레스트 의 방한 이 이목 을 집중 시키 고 있 다 .	PER-B PER-I O O O O O O O O O O PER-B PER-I PER-I PER-I O O ORG-B O LOC-B O O O ORG-B O O O PER-B PER-I PER-I PER-I PER-I PER-I PER-B PER-I PER-I O O O PER-B PER-I PER-I PER-I PER-I O O O O O O O O O O O
+오늘 ( 7 일 ) 인천 공항 을 통해 방한한 종합 격투기 선수 미 로코 크로 캅 은 8 일 열리 는 ‘ UFC 파이트 나이트 인 서울 ’ 기자 회견 에 참석할 예정 이 다 .	O O DAT-B DAT-I O LOC-B LOC-I O O O O O O PER-B PER-I PER-I PER-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+이번 크로캅 의 방한 은 19 년 만 으로 , ‘ UFC 파이트 나이트 인 서울 ’ 기자 회견 에 참석한 후 8 일 오후 서울 시 서초구 반포동 에서 열리 는 팬 사인회 에 참석해 한국 의 팬 들 과 도 만날 예정 이 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B LOC-I LOC-B LOC-B O O O O O O O LOC-B O O O O O O O O O O
+오 는 11 월 28 일 서울 송파구 올림픽 공원 내 올림픽 체조 경기장 에서 개최될 예정 인 ‘ UFC 파이트 나이트 인 서울 ’ 은 , 크로 캅 외 에 도 벤슨 헨더슨 , 추성훈 , 김동현 등 대회 에 출전 을 알려 세계 격투기 팬 들 의 이목 이 집중되 고 있 다 .	O O DAT-B DAT-I DAT-I DAT-I LOC-B LOC-B LOC-B LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O PER-B PER-I O O O PER-B PER-I O PER-B O PER-B O O O O O O O O O O O O O O O O O O
+크로 캅 은 ‘ UFC 파이트 나이트 인 서울 ’ 에서 앤서니 해밀턴 과 맞붙 게 될 예정 으로 알려 졌 다 .	PER-B PER-I O O O O O O O O O PER-B PER-I O O O O O O O O O O
+앞서 지난 4 월 크로 캅 은 지난 ‘ UFC 파이트 나이트 64 ’ 대회 메인이벤트 헤비급 매치 에서 가브리엘 곤자가 를 상대 로 엘 보우 공격 을 퍼부 으며 3 라운드 TKO 승 을 거 뒀 다 .	O O DAT-B DAT-I PER-B PER-I O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+당시 대회 는 지난 2007 년 4 월 ‘ UFC 70 ’ 에서 곤자가 와 맞대결 을 펼쳐 1 라운드 에서 곤자가 의 하이킥 에 실신 KO 패 했 던 굴욕 을 8 년 만 에 되돌려 준 복수전 으로 기록 됐 다 .	O O O O DAT-B DAT-I DAT-I DAT-I O O O O O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O
+한편 이번 ‘ UFC 파이트 나이트 인 서울 ’ 의 홍보 를 위해 옥타곤 걸 ( Girl ) 로 활약 중 인 아리아 니 셀레스 티 도 7 일 입국해 10 일 까지 한국 에 머물 며 UFC 첫 한국 대회 의 홍보 활동 에 나설 것 으로 알려져 눈길 을 끌 었 다 .	O O O O O O O O O O O O O O O O O O O O O O PER-B PER-I PER-I PER-I O DAT-B DAT-I O DAT-B DAT-I O LOC-B O O O ORG-B O LOC-B O O O O O O O O O O O O O O O
+3 층 에 는 20 대 여성 에게 인기 높 은 온라인 쇼핑몰 ‘ 임 블리 ’ 의 오프라인 매장 과 ‘ 매그 제 이 ’ 등 이 입점 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당분간 새누리당 이 야당 과 의 협력 에 나서 기 는 어려 워 보인다 .	O ORG-B O O O O O O O O O O O O O
+” ( 윤 ) 국내 무대 에서 많이 보 고 싶 다고 했 더니 “ 일찍 좀 연락해 줬 으면 좋 겠 다 ” 고 이구동성 이 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-박근혜 대통령은 25일 국무회의에서 국회법 개정안 거부권을 행사하면서 여야 정치권을 싸잡아 비판하였다 .	PER-B O O O O O O O O O O O O
-이달 31일까지 합동대의원총회를 열어 통합정관을 승인하고 다음달 31일까지 문화체육관광부 장관의 승인을 받으면 통합이 완료되+ㄴ다 .	O O O O O O O O ORG-B O O O O O O
-한국 대표단은 2009년부터 매년 이 대회에 참가 하+여+았지만 3위 이내에 입상하+ㄴ 것은 이번이 처음이다 .	ORG-B ORG-I O O O O O O O O O O O O O
-2016년 1월 1일 금요일 밤 9시 45분 첫 방송되+ㄴ다 .	O O O O O O O O O O
-말레이시아에서 오+ㄴ자넷 씨(21)는 “처음 만나 +ㄴ어학연수생들끼리는 한류가 수 누구 좋아하는지부터 묻는다”며 “대부분 한류에 빠지+ㄴ 학생들이어서 대화가 쉽게 풀리+ㄴ다”고 말하였다 .	LOC-B PER-B O O O O O O O O O O O O O O O O O O
-앞서 +어그녀는 ‘아이러니’ 무대를 통하+여 현장 팬 투표 1위에 오르+ㄴ 바 있다 .	O O O O O O O O O O O O O
-한편, TV화제 성 분석기관 굿데이터코퍼레이션이 발표하+ㄴ 2월 2주차 순위에서 ‘프로듀스 101’이 1위를 차지하였다 .	O O O O ORG-B O O O O O O O O O
-장거리 상위 군 경주까지 가리지 않고 승수를 올리며 한국경마 최단기 300승 달성하였기 때문이다 .	O O O O O O O O ORG-B O O O O O
-이 경사는 지난달 26일 28일 사우디아라비아에서 오+ㄴ 친구를 두 차례 만나 +ㄴ 뒤 메르스 의심 증세를 보이었는데 지나 +ㄴ 3일 검사에서 +ㄴ 메르스 음성 판정이 나오았다 .	PER-B O O O O LOC-B O O O O O O O O O O PER-B O O O O O O O PER-B O O
-보건당국은 이 경사가 메르스 의심 증세를 보이어지나 +ㄴ 1일 처음으로 방문 하+ㄴ 평택 박애병원이 메르스 환자가 경유 하+ㄴ 곳이라는 점을 고려하+여정확 하+ㄴ 감염 경위를 조사하고 있다 .	ORG-B O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O
-‘힐링캠프 주진우’ ‘힐링캠프’에 이승환의 친구로 출연하+ㄴ 주진우기자의 분량의 통편집되+어 논란이 불거지었다 .	O PER-B O PER-B O O PER-B O O O O O
-1.15일 롯데면세점 본점.유커들로 붐비던 모습은 전혀 찾아보+ㄹ 수 없을 정도로 한산하였다 .	O ORG-B O O O O O O O O O O
-핀란드에서 시작되+ㄴ ‘아내업고 달리기’는 세계적으로 주목받는 이색 달리기 가운데 하나+이다 .	LOC-B O O O O O O O O O O
-핀란드 동부 손카야르비 지역에서 매년 초여름에 열리+ㄴ다 .	LOC-B O LOC-B O O O O O
-그리 하+여서 제일 중요하+ㄴ경기가 다음달 2일 열리는 두 팀의 시즌 마지막 맞대결이다 .	O O O O O O O O O O O O O
+박근혜 대통령 은 25 일 국무회의 에서 국회법 개정안 거부권 을 행사하 면서 여야 정치권 을 싸잡 아 비판 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+이달 31 일 까지 합동 대 의원총회 를 열 어 통합 정관 을 승인하 고 다음 달 31 일 까지 문화 체육 관광부 장관 의 승인 을 받 으면 통합 이 완료된다 .	O DAT-B DAT-I O O O O O O O O O O O O O O DAT-B DAT-I O ORG-B ORG-I ORG-I O O O O O O O O O O
+한국 대표단 은 2009 년 부터 매년 이 대회 에 참가해 왔 지만 3 위 이내 에 입상한 것 은 이번 이 처음 이 다 .	ORG-B ORG-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O
+2016 년 1 월 1 일 금요일 밤 9 시 45 분 첫 방송된다 .	DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I DAT-B TIM-B TIM-I TIM-I TIM-I TIM-I O O O
+말레이시아 에서 온 자넷 씨 ( 21 ) 는 “ 처음 만난 어학 연수생 들 끼리 는 한류 가수 누구 좋아하 는지 부터 묻 는다 ” 며 “ 대부분 한류 에 빠진 학생 들 이 어서 대화 가 쉽 게 풀린다 ” 고 말 했 다 .	LOC-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞서 그녀 는 ‘ 아이러니 ’ 무대 를 통해 현장 팬 투표 1 위 에 오른 바 있 다 .	O O O O O O O O O O O O O O O O O O O O
+한편 , TV 화제 성 분석 기관 굿 데이터 코퍼레이션 이 발표한 2 월 2 주 차 순위 에서 ‘ 프로듀스 101 ’ 이 1 위 를 차지 했 다 .	O O O O O O O ORG-B ORG-I ORG-I O O DAT-B DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O
+장거리 상위 군 경주 까지 가리 지 않 고 승 수 를 올리 며 한국 경마 최 단기 300 승 달성 했 기 때문 이 다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O
+이 경사 는 지난달 26 일 28 일 사우디아라비아 에서 온 친구 를 두 차례 만난 뒤 메르스 의심 증세 를 보 였 는데 지난 3 일 검사 에선 메르스 음성 판정 이 나 왔 다 .	PER-B O O O DAT-B DAT-I DAT-B DAT-I LOC-B O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+보건 당국 은 이 경사 가 메르스 의심 증세 를 보 여 지난 1 일 처음 으로 방문한 평택 박애 병원 이 메르스 환자 가 경유한 곳 이 라는 점 을 고려해 정확한 감염 경위 를 조사하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O DAT-B DAT-I O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O
+‘ 힐링 캠프 주진우 ’ ‘ 힐링 캠프 ’ 에 이승환 의 친구 로 출연한 주진우 기자 의 분량 의 통편집 돼 논란 이 불거 졌 다 .	O O O O O O O O O O PER-B O O O O PER-B O O O O O O O O O O O O
+# 1 . 15 일 롯데 면세점 본점 . 유커 들 로 붐비 던 모습 은 전혀 찾아볼 수 없 을 정도 로 한산 했 다 .	O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+핀란드 에서 시작된 ‘ 아내 업 고 달리기 ’ 는 세계적 으로 주목 받 는 이색 달리기 가운데 하나 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
+핀란드 동부 손 카 야르 비 지역 에서 매년 초여름 에 열린다 .	LOC-B O LOC-B LOC-I LOC-I LOC-I O O O O O O O
+그래서 제일 중요한 경기 가 다음 달 2 일 열리 는 두 팀 의 시즌 마지막 맞대결 이 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O

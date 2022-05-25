@@ -1,13 +1,13 @@
-[인사]조이제약 .	ORG-B O
-도요타는 자사 하이브리드 기술력의 상징이+ㄴ 소형차 프리우스의 4세대 모델을 선보이+ㄴ다 .	ORG-B O O O O O PER-B O O O O
-교육특구로 꼽히는 송파구·양천구·노원구도 양상은 비슷하다 .	O O LOC-B O O O
-이준식 사회부총리 겸 교육부 장관이 24일 오후 전남도립대학교(총장 김왕복) 유니테크 사업단 협약기업인(유)기아자동차 오토큐남광주 서비스를 방문하여 실무진의 목소리를 청취하기 위하+여 현장에서 대학 및 고교 관계자, 기업 대표, 현장교사, 학생, 학부모가 참석하는 실무간담회를 개최 하+ㄴ다 .	PER-B O O ORG-B O O O ORG-B ORG-I ORG-B ORG-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
-계나는 쥐와 바퀴벌레가 들끓고개미가 나오는 집에서 태어나 +아자라+았다 .	PER-B O O O O O O O O
-백 70이 우변 변화의 방점을 찍은 수.백이 훨훨 날아가는 듯하다 .	O O O O O O O O O O O
-IS, 테러 대상에 한국 포함 “전쟁으로 너희를 불태우+ㄹ 것 .	ORG-B O O ORG-B O O O O O O
-이에 유병재와 박두식은 실제 수염을 밀었다 .	O PER-B PER-B O O O O
-최적의 속눈썹 길이는 눈폭 3분의 1 정도 … 더 길면 '안구건조증' .	O O O O O O O O O O O O
-길가에서 장사를 하던 40개의 노점은 구청과 협의를 거치+어푸드트럭을 운영하거나 구청이 허락하+ㄴ 부스형 판매대로 옮기+어가기로+였다 .	O O O O O O O O O O O O O O O
-서초구가 강남대로 옆 보행로 정비에 나서 +ㄴ 것+ㄴ이번이 처음이 아니다 .	LOC-B LOC-B O O O O O O O O O
-컴퓨터 디자인, 뷰티 메이크업, 경제지도사 과정 등 매달 30여개 강좌를 연중 진행 하+ㄴ다 .	O O O O O O O O O O O O O O
-시신이 홍씨로 확인되면 올해만 필리핀에서 피살되 +ㄴ한국인은 10명으로 늘어나 +ㄴ다 .	O PER-B O O LOC-B O O O O O O
+[ 인사 ] 조이 제약 外	O O O ORG-B ORG-I O
+도요타 는 자사 하이브리드 기술력 의 상징 인 소형차 프리 우스 의 4 세대 모델 을 선보인다 .	ORG-B O O O O O O O O PER-B PER-I O O O O O O O
+교육 특구 로 꼽히 는 송파구 · 양천구 · 노원구 도 양상 은 비슷하 다 .	O O O O O LOC-B O LOC-B O LOC-B O O O O O O
+이준식 사회 부총리 겸 교육부 장관 이 24 일 오후 전남 도립 대학교 ( 총장 김왕복 ) 유니 테크 사업단 협약 기업인 ( 유 ) 기아자동차 오토큐 남광주 서비스 를 방문하 여 실무 진 의 목소리 를 청취하 기 위해 현장 에서 대학 및 고교 관계자 , 기업 대표 , 현장 교사 , 학생 , 학부모 가 참석하 는 실무 간담회 를 개최한다 .	PER-B O O O ORG-B O O DAT-B DAT-I O ORG-B ORG-I ORG-I O O O O ORG-B ORG-I ORG-I O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+계 나 는 쥐 와 바퀴벌레 가 들끓 고 개미 가 나오 는 집 에서 태어나 자랐 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O
+백 70 이 우변 변화 의 방점 을 찍 은 수 . 백 이 훨훨 날아가 는 듯하 다 .	O O O O O O O O O O O O O O O O O O O O
+IS , 테러 대상 에 한국 포함 “ 전쟁 으로 너희 를 불태울 것 ”	ORG-B O O O O ORG-B O O O O O O O O O
+이 에 유병재 와 박두식 은 실제 수염 을 밀 었 다 .	O O PER-B O PER-B O O O O O O O O
+최적 의 속눈썹 길이 는 눈 폭 3 분 의 1 정도 … 더 길 면 ' 안구 건조증 ' 이	O O O O O O O O O O O O O O O O O O O O O
+길가 에서 장사 를 하 던 40 개 의 노점 은 구청 과 협의 를 거쳐 푸드 트럭 을 운영하 거나 구청 이 허락한 부스 형 판매대 로 옮겨 가 기 로 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서초구 가 강남 대로 옆 보행로 정비 에 나선 건 이번 이 처음 이 아니 다 .	LOC-B O LOC-B LOC-I O O O O O O O O O O O O O
+컴퓨터 디자인 , 뷰티 메이크업 , 경제 지도 사 과정 등 매달 30 여 개 강좌 를 연중 진행한다 .	O O O O O O O O O O O O O O O O O O O O
+시신 이 홍 씨 로 확인되 면 올해 만 필리핀 에서 피살된 한국인 은 10 명 으로 늘어난다 .	O O PER-B O O O O O O LOC-B O O O O O O O O O

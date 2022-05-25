@@ -1,11 +1,11 @@
-윤 의원은 이날 ‘비아그라-태반 주사 구입청와대 해명, 설득력 없다’+이라는 보도자료를 통하+여, 건강보험심사평가원으로부터 박 대통령이 취임하+ㄴ 2013년부터 2016년 사이 청와대의무실에서 구매 하+ㄴ의약품 현황을 분석하+ㄴ 결과 이같이 나타나 +았다고 밝히었다 .	PER-B ORG-I O O O ORG-B O O O O O ORG-B PER-B O O O O O ORG-B O O O O O O O O O O
-허지웅썰 전 하차…예능 심판 자독설가는 이제 그만…"다른 프로에서 뵈요 .	PER-B O O O O O O O O O
-김상조(경제개혁연대 소장) 기업 지배구조 분과장은 “대기업이 미르·K스포츠재단에 자금을 출연하는 과정에서 나타나 +ㄴ이사회의 문제, 삼성그룹의 합병 과정에서 나타나 +ㄴ국민연금의 의사결정 문제 등에 대하+여보수와 진보에 치우치지 않는 대안을 찾고자 하+ㄴ다”고 말하였다 .	ORG-B O O O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O
-전군의 주치의 이+ㄴ 채종희 서울대 소아신경과 교수는 “뇌성마비를 앓는 친구도 서울대 의대에 진학하+ㄴ적이 있다 .	O O O PER-B ORG-B ORG-I O O O O ORG-B ORG-I O O O
-앉은 자세에서 일어나는 동작을 하면서 양손을 대각선 방향으로 들어올리+ㄹ 때 양팔을 최대한 펴 +어주는 것이 중요하다 .	O O O O O O O O O O O O O O O O O
-이 때문에 이씨는 교육부의 심사를 받아야 +였다 .	PER-B O PER-B ORG-B O O O O
-조민아 베이커리, 가격·위생 논란에 … “너무 속상하고 억울하다 .	ORG-B ORG-I O O O O O O O
-성남시 이주수요 5만가구, ‘태전지구’로 몰리+ㄴ .	LOC-B O O LOC-B O O
-한국은 올해 5월 현재 수출의 27.6%를 중국에 의존하고 있다 .	ORG-B O O O O O ORG-B O O O
-돼지 9800여 마리를 키우는 무장면의 양돈농장은 13일 밤 “80여 마리가 발굽에 물집이 생기+어 절뚝거리+이다”며 구제역 의심 신고를 +였다 .	O O O O LOC-B O O O O O O O O O O O O O O
-이에 따르 아전북도는 구제역 발생 농장의 돼지 9800여 마리를 긴급 살처분+였다 .	O O ORG-B O O O O O O O O O
+윤 의원 은 이날 ‘ 비아그라 - 태반 주사 구입 청와대 해명 , 설득력 없 다 ’ 라는 보도 자료 를 통해 , 건강보험 심사 평가 원 으로부터 박 대통령 이 취임한 2013 년 부터 2016 년 사이 청와대 의무실 에서 구매한 의약품 현황 을 분석한 결과 이같이 나타났 다고 밝 혔 다 .	PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+허지웅 썰 전 하차 … 예능 심판자 독설가 는 이제 그만 … " 다른 프로 에서 뵈 요 "	PER-B O O O O O O O O O O O O O O O O O O
+김상조 ( 경제 개혁 연대 소장 ) 기업 지배 구조 분과장 은 “ 대기업 이 미르 · K 스포츠 재단 에 자금 을 출연하 는 과정 에서 나타난 이사회 의 문제 , 삼성그룹 의 합병 과정 에서 나타난 국민 연금 의 의사 결정 문제 등 에 대해 보수 와 진보 에 치우치 지 않 는 대안 을 찾 고자 한다 ” 고 말 했 다 .	PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전군 의 주치의 인 채종희 서울대 소아 신경 과 교수 는 “ 뇌 성 마비 를 앓 는 친구 도 서울대 의대 에 진학한 적 이 있 다 .	O O O O PER-B ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O ORG-B ORG-I O O O O O O O
+앉 은 자세 에서 일어나 는 동작 을 하 면서 양손 을 대각선 방향 으로 들 어 올릴 때 양팔 을 최대한 펴 주 는 것 이 중요하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 때문 에 이 씨 는 교육부 의 심사 를 받 아야 했 다 .	O O O PER-B O O ORG-B O O O O O O O O
+조민아 베이커리 , 가격 · 위생 논란 에 … “ 너무 속상하 고 억울하 다 ”	ORG-B ORG-I O O O O O O O O O O O O O O
+성남시 이주 수요 5 만 가구 , ‘ 태전 지구 ’ 로 몰린다	LOC-B O O O O O O O LOC-B LOC-I O O O
+한국 은 올해 5 월 현재 수출 의 27.6 % 를 중국 에 의존하 고 있 다 .	ORG-B O O DAT-B DAT-I O O O O O O ORG-B O O O O O O
+돼지 9800 여 마리 를 키우 는 무장 면 의 양돈 농장 은 13 일 밤 “ 80 여 마리 가 발굽 에 물집 이 생겨 절뚝 거린 다 ” 며 구제역 의심 신고 를 했 다 .	O O O O O O O LOC-B LOC-I O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 전북도 는 구제역 발생 농장 의 돼지 9800 여 마리 를 긴급 살 처분 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O

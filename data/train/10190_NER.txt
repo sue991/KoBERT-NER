@@ -1,13 +1,13 @@
-괴한 중 1명이 주로 외국인 사업가와 리비아 고위 관리들이 머물는 24층에 올라가 +아자폭 하+ㄴ 것으로 알려지었다”며 “총격전이 약 4시간 동안 진행되었다”고 말하였다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O
-서 교수는 사건 현장에 대하+여 “리비아에서 가장 고급 호텔”이라며 “현재 리비아가 혼란 상태 +이라리비아 정부에서 외국인과 (외국인) 사업가, 외교관들을 의도적으로 제일 좋은 호텔에 모으아 놓고 경비를 +였음에도 이곳을 노리+ㄴ 테러가 발생하+ㄴ 것”이라고 설명하였다 .	PER-B O O O O ORG-B O O O O ORG-B O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O
-‘리비아 호텔 습격’ 소식을 접하+ㄴ누리꾼들은 “리비아 호텔 습격, 한국인 사망자가 없기 +ㄹ바라+ㅂ니다” .	ORG-B O O O O ORG-B O O O O O O O
-북한이 2006년 첫 핵실험을 하+ㄴ 직후, 마침 프랑스 파리에 있었던 나는 에마뉘엘 토드씨와 대담을 나누었다 .	ORG-B O O O O O O LOC-B LOC-I O O PER-B PER-I O O O
-안젤리나 졸리, 런던 정경대 교수+었 .	PER-B PER-I ORG-B ORG-I O O
-국립해양문화재연구소에서 버스를 타고 약 1시간을 달리 +어도착하+ㄴ 곳은 진도 벽파항.항구에는 사람들을 목적지로 바래 .	ORG-B O O O O O O O LOC-B LOC-B O O O O
-경찰 조사 결과 강씨는 지난해 7월 16일부터 8월 7일까지 최씨가 경기·강원지역의 대형 워터파크와 서울의 한 야외 수영장 등 4곳에서 몰카를 찍을 때 밖에서 기다리다가 곧바로 동영상을 건네받았다 .	O O O PER-B O O O O O PER-B LOC-B O O LOC-B O O O O O O O O O O O O O O
-무릉2리 농부들이 꾸러미 사업을 시작하+ㄴ 것+ㄴ 2009년부터 +이다 .	LOC-B O O O O O O O O
-새누리당 선거관리위원회는 21일 8·9 전당대회의 당 대표 경선에 7명 이상 출마하+ㄹ 경우 컷오프를 적용하+여 후보를 5명으로 줄이기로 결정하였다 .	ORG-B ORG-B O O O O O O O O O O O O O O O O O
-세계 진출 꿈꾸며 ‘태평양’ 상호… 6·25전쟁 때 ‘ABC포마드’ 빅 히 .	O O O ORG-B O O O O O O O
-당시 신생 잡지 ‘마스터 험프리의 시계’ 편집을 맡고 있던 디킨스는 작업에 제대로 진행되지 않자 4호에 ‘오래되 +ㄴ 골동품 상점’을 연재하기 시작하였는데 대히트를 +었다 .	O O O O O O O O O PER-B O O O O O O O O O O O O O O
-‘오래되 +ㄴ 골동품 상점’의 인기를 실감하게 하는 일화가 있다 .	O O O O O O O O O O
-장세진 삼례공고 교 .	PER-B ORG-B O O
+괴한 중 1 명 이 주로 외국인 사업가 와 리비아 고위 관리 들 이 머무 는 24 층 에 올라가 자폭한 것 으로 알려 졌 다 ” 며 “ 총격전 이 약 4 시간 동안 진행 됐 다 ” 고 말 했 다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서 교수 는 사건 현장 에 대해 “ 리비아 에서 가장 고급 호텔 ” 이 라며 “ 현재 리비아 가 혼란 상태 라 리비아 정부 에서 외국인 과 ( 외국인 ) 사업가 , 외교관 들 을 의도 적 으로 제일 좋 은 호텔 에 모 아 놓 고 경비 를 했 음 에 도 이곳 을 노린 테러 가 발생 한 것 ” 이라고 설명 했 다 .	PER-B O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 리비아 호텔 습격 ’ 소식 을 접한 누리 꾼 들 은 “ 리비아 호텔 습격 , 한국인 사망자 가 없 길 바랍니다 ” ,	O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O
+북한 이 2006 년 첫 핵 실험 을 한 직후 , 마침 프랑스 파리 에 있 었 던 나 는 에마뉘엘 토드 씨 와 대담 을 나 눴 다 .	ORG-B O DAT-B DAT-I O O O O O O O O LOC-B LOC-I O O O O O O PER-B PER-I O O O O O O O O
+안젤리나 졸리 , 런던 정경 대 교수 됐 다	PER-B PER-I O ORG-B ORG-I ORG-I O O O
+국립 해양 문화재 연구소 에서 버스 를 타 고 약 1 시간 을 달려 도착한 곳 은 진도 벽파 항 . 항구 에 는 사람 들 을 목적지 로 바래 다	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O LOC-B LOC-B LOC-I O O O O O O O O O O O
+경찰 조사 결과 강 씨 는 지난해 7 월 16 일 부터 8 월 7 일 까지 최 씨 가 경기 · 강원 지역 의 대형 워터파크 와 서울 의 한 야외 수영장 등 4 곳 에서 몰카 를 찍 을 때 밖 에서 기다리 다가 곧바로 동영상 을 건네받 았 다 .	O O O PER-B O O O O O O O O O O O O O PER-B O O LOC-B O LOC-B O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+무릉 2 리 농부 들 이 꾸러미 사업 을 시작한 건 2009 년 부터 다 .	LOC-B LOC-I LOC-I O O O O O O O O DAT-B DAT-I O O O
+새누리당 선거관리위원회 는 21 일 8 · 9 전당 대회 의 당 대표 경선 에 7 명 이상 출마할 경우 컷오프 를 적용해 후보 를 5 명 으로 줄이 기 로 결정 했 다 .	ORG-B ORG-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+세계 진출 꿈꾸 며 ‘ 태평양 ’ 상호 … 6 · 25 전쟁 때 ‘ ABC 포마드 ’ 빅 히트	O O O O O ORG-B O O O O O O O O O O O O O O
+당시 신생 잡지 ‘ 마스터 험프리 의 시계 ’ 편집 을 맡 고 있 던 디킨스 는 작업 에 제대로 진행되 지 않 자 4 호 에 ‘ 오래된 골동품 상점 ’ 을 연재하 기 시작 했 는데 대 히트 를 쳤 다 .	O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 오래된 골동품 상점 ’ 의 인기 를 실감 케 하 는 일화 가 있 다 .	O O O O O O O O O O O O O O O O O
+장세진 삼례 공고 교사	PER-B ORG-B ORG-I O

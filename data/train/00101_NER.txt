@@ -1,14 +1,14 @@
-돌아오+ㄴ 황새 ‘봉순이’, 이름이 왜? ‘봉순이’이+ㄴ가+였더니 .	O O O O O O O
-같은 기간 미국이 30%, 영국이 28% 증가 하+ㄴ 것보다 훨씬 많은 수준이다 .	O O ORG-B O ORG-B O O O O O O O O
-슈퍼주니어은혁, ‘라디오 스타’ MC들 ‘병문안’ 언급에 진땀… ‘아이휴’(? .	ORG-B O O O O O O O O
-‘런닝맨’에서 힙합 듀오리 쌍의 개리가 ‘월요 커플’ 배우 송지효와 의 제주도 여행에 음흉 하+ㄴ 속내를 드러내 +었다 .	O O O O PER-B ORG-B ORG-I O PER-B O LOC-B O O O O O O O
-MLB 첫 아프리카 선수 탄 .	ORG-B O LOC-B O O O
-정도현 LG전자 사장, 김신 삼성물산 사장, 정지택 두산중공업 부회장, 김주윤 흥국생명보험사장 등이 서울대 경영학과 출신이다 .	PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O PER-B ORG-B O ORG-B ORG-I O O
-류마티스 관절염의 증상에 따르 아초기, 중기, 후기로 나뉘는데 초기 3개월은 양약 중단 시기로 면역봉독약침, 왕뜸 등으로 프로그램이 구성되어 있다 .	O O O O O O O O O O O O O O O O O O O O
-이찬오는 김새롬을 위하+ㄴ 요리를 준비하였고, 요리 이름을 묻자 모두 ‘김새롬’이라고 답하+여 모두의 부럽 +ㅁ을 자아내 +었다 .	PER-B PER-B O O O O O O O PER-B O O O O O O O
-이후 이찬오는 “선물을 또 하나 준비하였다”며 액자로 되+ㄴ 사진을 공개하였다 .	O PER-B O O O O O O O O O
-[부고]민병규 별세·영기 진기경란 부친상·고창 범장 인상·이찬화 김아리 시 부 .	PER-B PER-B PER-B O O PER-B PER-B O O O
-행자부와 경찰은 해킹에 사용되 +ㄴ소프트웨어가 중국어로 되+어 있고 대규모 공격이 이루어 지+ㄴ점으로 보아 중국 등 외국 해커의 소행으로 추정하고 있다 .	ORG-B O O O O LOC-B O O O O O O O LOC-B O O O O O O O
-[Money&Life] 어린이날 장난감 대신 적금 선물, 우리 아이 행복하+ㄴ 미래를  .	O O O O O O O O O O O O
-양현종 개막전 선발 등판… '메이저리그 행무산' 恨 풀 .	PER-B O O O ORG-B O O O O
-후레쉬 민트 있어요?” 할머니는 대답 대신 남자의 코앞으로 껌을 바짝 들이대+었다 .	O O O O O O O O O O O O
+돌아온 황새 ‘ 봉순이 ’ , 이름 이 왜 ? ‘ 봉순이 ’ 인가 했 더니 …	O O O O O O O O O O O O O O O O O
+같 은 기간 미국 이 30 % , 영국 이 28 % 증가한 것 보다 훨씬 많 은 수준 이 다 .	O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O
+슈퍼 주니어 은 혁 , ‘ 라디오스타 ’ MC 들 ‘ 병문안 ’ 언급 에 진땀 … ‘ 아이 휴 ’ ( ? )	ORG-B ORG-I PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+‘ 런닝맨 ’ 에서 힙합 듀오 리쌍 의 개리 가 ‘ 월요 커플 ’ 배우 송지효 와 의 제주도 여행 에 음흉한 속내 를 드러냈 다 .	O O O O O O ORG-B O PER-B O O ORG-B ORG-I O O PER-B O O LOC-B O O O O O O O O
+MLB 첫 아프리카 선수 탄생	ORG-B O LOC-B O O
+정도현 LG 전자 사장 , 김신 삼성물산 사장 , 정지택 두산중공업 부회장 , 김주윤 흥국생명 보험 사장 등 이 서울대 경영학 과 출신 이 다 .	PER-B ORG-B ORG-I O O PER-B ORG-B O O PER-B ORG-B O O PER-B ORG-B ORG-I O O O ORG-B ORG-I ORG-I O O O O
+류마티스 관절염 의 증상 에 따 라 초기 , 중기 , 후기 로 나뉘 는데 초기 3 개월 은 양약 중단 시기 로 면역 봉독 약침 , 왕 뜸 등 으로 프로그램 이 구성되 어 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이찬오 는 김새롬 을 위한 요리 를 준비 했 고 , 요리 이름 을 묻 자 모두 ‘ 김새롬 ’ 이라고 답해 모두 의 부러움 을 자아냈 다 .	PER-B O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O
+이후 이찬오 는 “ 선물 을 또 하나 준비 했 다 ” 며 액자 로 된 사진 을 공개 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O
+[ 부고 ] 민병규 별세 · 영기 진기 경란 부친상 · 고창범 장인상 · 이찬화 김아리 시 부상	O O O PER-B O O PER-B PER-B PER-B O O PER-B PER-B O PER-B PER-B O O
+행자부 와 경찰 은 해킹 에 사용된 소프트웨어 가 중국어 로 돼 있 고 대규모 공격 이 이뤄진 점 으로 보 아 중국 등 외국 해커 의 소행 으로 추정하 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
+[ Money & Life ] 어린이날 장난감 대신 적금 선물 , 우리 아이 행복한 미래 를 …	O O O O O DAT-B O O O O O O O O O O O
+양현종 개막 전 선발 등판 … ' 메이저리그 행 무산 ' 恨 풀 까	PER-B O O O O O O ORG-B O O O O O O
+후레쉬 민트 있 어요 ? ” 할머니 는 대답 대신 남자 의 코앞 으로 껌 을 바짝 들이댔 다 .	O O O O O O O O O O O O O O O O O O O O

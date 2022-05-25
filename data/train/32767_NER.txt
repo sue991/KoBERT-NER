@@ -1,17 +1,17 @@
-빈순옥 울산시 공무원노조위원장은 “최근 사회적으로 노사문제가 크게 부각되+어 있는 상황”이라며 “조합원 복지도 중요하지만 공무원이 갖고 있는 사회적 책무를 고려하+ㄹ 때 소모적 이+ㄴ 논쟁을 하는 것보다는 지역경제 활성화를 위하+여노사가 상생하는 모습을 보이는 것+이 바람직하다고 판단하였다”고 위임 배경을 설명하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-경제학의 대가 조수+ㄴ前 부총 .	O O PER-B O O
-‘육룡이 나르샤’한예리, 척사광으로 밝혀지며 최고의 반전 선물 .	O PER-B PER-B O O O O O
-두산이 다른 분야에서 백중세 혹은 열세+이어도 선발에서 압도적 우세를 가지+ㄹ 것이라고 보기 때문이다 .	ORG-B O O O O O O O O O O O O O
-국가배상 청구 등 향후 지침 세우어… 당시 단장, 4000억 소송 독식 로펌 소 .	O O O O O O O O MNY-B O O O O O
-최향남은 그리 하+여도 “이것+이 끝이 아니다”고 +였다 .	PER-B O O O O O O O
-》올해는 서울시내 면세점 업계에서 크+ㄴ 변화가 많았다 .	O LOC-B O O O O O O
-뉴욕 현대미술관은 고흐, 피카소 등 근현대 예술거장들의 작품이 전시되 +ㄴ 미술관이다 .	O O PER-B PER-B O O O O O O O O
-다양하+ㄴ 산업군에 종사하는 최고경영인들은 고려대 AMP에서 새롭ㄴ 학문과 기업 경영기법을 배우+ㄴ다 .	O O O O O O O O O O O O
-유승엽은 이번 대회를 앞두고 지난해 11월부터 지난달 말까지 일본 도쿠노시마와 해발 2000m 이상 이+ㄴ 중국 쿤밍의 고지대에서 실시하+ㄴ 전지훈련을 통하+여 어느 때보다 준비를 많이 +였다 .	PER-B O O O O O O O LOC-B LOC-I O O O O LOC-B LOC-B O O O O O O O O O O
-‘데이터 중심 요금제’ 가입자가 900만명을 돌파 하+여 10월 중 1000만 가입자를 넘어서 +ㄹ 것으로 보이+ㄴ다 .	O O O O O O O O O O O O O O O O
-넥센염경엽 감독은 정규시즌 막판 우완투수 박주현(20)의 포스트시즌(PS)엔트리 합류를 두고 장고에 들어가 +았다 .	ORG-B O O O O PER-B O O O O O O O
-“1.2GB램으로 나오+ㄴ다는 것+ㄴ 루머 아니+ㄹ까요” 하+ㄴ장의 사진이 애플 팬들의 관심을 불러일으키었습니다 .	O O O O O O O ORG-B O O O O
-감옥에 갇히 +ㄴ요타로는 가까스로 탈옥 하+ㄴ후 살아남기 위하+여도둑질, 폭행을 저지르며 진짜 범죄자가 되+ㄴ다 .	O O PER-B PER-I O O O O O O O O O O
-이에 대하+여 그는 2014년 중앙SUNDAY와의 인터뷰에서 “하나은행장을 연임하기 전에 한국투자금융에서 이미 사장을 두 번 +였다 .	O O O O ORG-B O O O O ORG-B O O O O O O
-경제협력개발기구(OECD) 통계에 따르면 2012년 한국 전체 근로자의 44%는 9인 이하 기업, 13%는 250인 이상 기업에 종사하+ㄴ다 .	ORG-B O O O ORG-B O O O O O O O O O O O O
-‘항공법 강화’ 美서 하차지시 때 +ㄴ 순순히 따르고 보상금 청구가 최 .	O O LOC-B O O O O O O O O O
+빈순옥 울산시 공무원 노조 위원장 은 “ 최근 사회 적 으로 노사 문제 가 크 게 부각돼 있 는 상황 ” 이 라며 “ 조합원 복지 도 중요하 지만 공무원 이 갖 고 있 는 사회적 책무 를 고려할 때 소모적 인 논쟁 을 하 는 것 보다 는 지역 경제 활성화 를 위해 노사 가 상생하 는 모습 을 보이 는 게 바람직하 다고 판단 했 다 ” 고 위임 배경 을 설명 했 다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+경제학 의 대 가 조 순 前 부총리	O O O O PER-B PER-I O O
+‘ 육룡 이 나 르샤 ’ 한 예리 , 척사 광 으로 밝혀지 며 최고 의 반전 선물 ’	O O O O O O PER-B PER-I O PER-B PER-I O O O O O O O O
+두산 이 다른 분야 에서 백중세 혹은 열 세 여도 선발 에서 압도적 우세 를 가질 것 이 라고 보 기 때문 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+국가 배상 청구 등 향후 지침 세 워 … 당시 단장 , 4000 억 소송 독식 로펌 소속	O O O O O O O O O O O O MNY-B MNY-I O O O O
+최향남 은 그래도 “ 이게 끝 이 아니 다 ” 고 했 다 .	PER-B O O O O O O O O O O O O O
+》 올해 는 서울 시내 면세점 업계 에서 큰 변화 가 많 았 다 .	O O O LOC-B O O O O O O O O O O O
+뉴욕현대미술관 은 고흐 , 피카소 등 근 현대 예술 거장 들 의 작품 이 전시된 미술관 이 다 .	LOC-B O PER-B O PER-B O O O O O O O O O O O O O O
+다양한 산업 군 에 종사하 는 최고 경영인 들 은 고려대 AMP 에서 새로 운 학문 과 기업 경영 기법 을 배운다 .	O O O O O O O O O O O O O O O O O O O O O O O
+유승엽 은 이번 대회 를 앞두 고 지난해 11 월 부터 지난달 말 까지 일본 도쿠노시마 와 해발 2000 m 이상 인 중국 쿤밍 의 고지대 에서 실시한 전지훈련 을 통해 어느 때 보다 준비 를 많이 했 다 .	PER-B O O O O O O O DAT-B DAT-I O O O O LOC-B LOC-I O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O
+‘ 데이터 중심 요금 제 ’ 가입자 가 900 만 명 을 돌파해 10 월 중 1000 만 가입자 를 넘어설 것 으로 보인다 .	O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+넥센 염경엽 감독 은 정규 시즌 막판 우완 투수 박주현 ( 20 ) 의 포스트 시즌 ( PS ) 엔트리 합류 를 두 고 장고 에 들어갔 다 .	ORG-B PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+“ 1.2 GB 램 으로 나온다는 건 루머 아닐까 요 ” 한 장 의 사진 이 애플 팬 들 의 관심 을 불러일으 켰 습니다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+감옥 에 갇힌 요타 로 는 가까스로 탈옥한 후 살아남 기 위해 도둑질 , 폭행 을 저지르 며 진짜 범죄자 가 된다 .	O O O PER-B PER-I O O O O O O O O O O O O O O O O O O
+이 에 대해 그 는 2014 년 중앙 SUNDAY 와 의 인터뷰 에서 “ 하나은행 장 을 연임하 기 전 에 한국 투자 금융 에서 이미 사장 을 두 번 했 다 .	O O O O O DAT-B DAT-I ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O
+경제협력개발기구 ( OECD ) 통계 에 따르 면 2012 년 한국 전체 근로자 의 44 % 는 9 인 이하 기업 , 13 % 는 250 인 이상 기업 에 종사한다 .	ORG-B O ORG-B O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O O O O O O O O O O
+‘ 항공법 강화 ’ 美 서 하차 지시 땐 순순히 따르 고 보상금 청구 가 최선	O O O O LOC-B O O O O O O O O O O O

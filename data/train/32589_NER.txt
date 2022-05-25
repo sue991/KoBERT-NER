@@ -1,12 +1,12 @@
-여당 의원 152명 중 108명(71%)이 초선이었다 .	O O O O O O O
-센터 관람석은 5000여 석 규모+이다 .	O O O O O O
-당 ‘을지로위원회’(위원장 우원식 의원)는 긴급성명을 내고 “비례대표 공천을 전면 재검토하라”고 요구하였다 .	O ORG-B PER-B O O O O O O O O O
-중진의원들(박병석·원혜영·유인태·이석현·정세균·추미애)도 성명을 내놓았다 .	PER-B O O O
-‘쇼미더머니’ 베이식 ‘좋은 날’ 우승에 거미 “나중에 또 함께 .	O PER-B O O O PER-B O O O O
-‘키스더 라디오’ 새 DJ이 홍기 “말실수하지 말자는 게 목표 .	O O O O O O O O O O
-그 중심의 한 켠에서 태지 기념사업회(서기회)가 있었다 .	O O O O O ORG-B O O
-반대 여론의 경우 인천·경기가 46%, 서울과 호남이 각각 45%로 평균보다 조금 높았다 .	O O O LOC-B O LOC-B LOC-B O O O O O O
-[기업 &CEO] 국내 AR·VR산업기술 선도… ‘CES2017’ 서뜨겁ㄴ 관 .	O O O O O O O O O
-반면 말레이시아는 IMF의 자본자유화 요구를 거부하고 오히려 금리를 내리었다 .	O LOC-B ORG-B O O O O O O O
-정부는 2017년부터 국민연금의 운용성과를 일본 공적연금(GPIF)이나 미국의 캘리포니아 공무원 퇴직연금(CalPERS) 등 5개 내외의 글로벌 연기금과 비교하+여평가하기로 +였다 .	O O ORG-B O ORG-B ORG-B ORG-B ORG-B ORG-I ORG-B O O O O O O O O
-잘츠부르크는 고작 인구 15만명의 작은 도시이다 .	LOC-B O O O O O O
+여당 의원 152 명 중 108 명 ( 71 % ) 이 초선 이 었 다 .	O O O O O O O O O O O O O O O O O
+센터 관람석 은 5000 여 석 규모 다 .	O O O O O O O O O
+당 ‘ 을지로 위원회 ’ ( 위원장 우원식 의원 ) 는 긴급 성명 을 내 고 “ 비례대표 공천 을 전면 재검토하 라 ” 고 요구 했 다 .	O O ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O O O O O O O
+중진 의원 들 ( 박병석 · 원혜영 · 유인태 · 이석현 · 정세균 · 추미애 ) 도 성명 을 내놓 았 다 .	O O O O PER-B O PER-B O PER-B O PER-B O PER-B O PER-B O O O O O O O O
+‘ 쇼 미 더머 니 ’ 베이식 ‘ 좋 은 날 ’ 우승 에 거미 “ 나중 에 또 함께 ”	O O O O O O PER-B O O O O O O O PER-B O O O O O O
+‘ 키스 더 라디오 ’ 새 DJ 이홍기 “ 말 실수 하 지 말 자는 게 목표 ”	O O O O O O O PER-B O O O O O O O O O O
+그 중심 의 한 켠 에 서태지 기념 사업 회 ( 서기회 ) 가 있 었 다 .	O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B O O O O O O
+반대 여론 의 경우 인천 · 경기 가 46 % , 서울 과 호남 이 각각 45 % 로 평균 보다 조금 높 았 다 .	O O O O LOC-B O LOC-B O O O O LOC-B O LOC-B O O O O O O O O O O O O
+[ 기업 & CEO ] 국내 AR · VR 산업 기술 선도 … ‘ CES 2017 ’ 서 뜨거 운 관심	O O O O O O O O O O O O O O O DAT-B O O O O O
+반면 말레이시아 는 IMF 의 자본 자유화 요구 를 거부하 고 오히려 금리 를 내 렸 다 .	O LOC-B O ORG-B O O O O O O O O O O O O O O
+정부 는 2017 년 부터 국민 연금 의 운용 성과 를 일본 공적 연금 ( GPIF ) 이나 미국 의 캘리포니아 공무원 퇴직연금 ( CalPERS ) 등 5 개 내외 의 글로벌 연 기금 과 비교해 평가하 기 로 했 다 .	O O DAT-B DAT-I O ORG-B ORG-I O O O O ORG-B ORG-I ORG-I O ORG-B O O ORG-B O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O
+잘츠부르크 는 고작 인구 15 만 명 의 작 은 도시 이 다 .	LOC-B O O O O O O O O O O O O O

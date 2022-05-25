@@ -1,8 +1,8 @@
-그동안 MB(이 전 대통령)에 반대하+ㄴ다고 +였는데 이 책을 읽고 매우 당황스럽다’고 +였다 .	O PER-B O O O O PER-B O O O O O O
-임태훈 군인권센터 소장은 “수사관들이 성적 취향, 선호체위, 피임도구 사용 여부, 성정체성이 +ㄴ 지시점, 자주 가는 동성애자 술집 이름 등 추행죄와 무관하+ㄴ성희롱성 질문으로 사생활을 과도하게 침해하였다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-여고생 유망주성은 정(18·영파여고)은 예선전을 거치+어본선 티켓을 따+아내+어 돌풍을 예고하였다 .	O O ORG-B O O O O O O O
-박병호, 미네소타트윈스와 4년1200만달러++1년 옵션 계약 …강정호 연봉은 .	PER-B ORG-B MNY-B O O PER-B O O
-이들은 지역 내 나눔문화 활성화를 위하+여 ‘1인1 아너 추천운동’을 벌이기로 +였다 .	O O O O O O O O O O O O
-날씨가 좋으면 일주일에서 열흘 가량 이어지+ㄴ다 .	O O O O O O O
-2일 경기도 산림환경연구소에 따르면 해발 832m 서리 산 능선을 따르 아2.5㏊에 높이 3∼5m, 20∼50년 수령의 자생철 쭉 1만여 그루가 만개하면 연분홍 물결을 이루+ㄹ 예정이다 .	O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
-결국 90년대 초부터 ‘일본=신동주, 한국=신동빈’으로 경영이 확실히 나뉘었고, 신 총괄회장의 허락 없이는 상호 침범이나 간섭은 불가능하+ㄴ 구조가 이어 지+어+았다 .	O O O ORG-B ORG-B O O O PER-B O O O O O O O O O O O
+그동안 MB ( 이 전 대통령 ) 에 반대한다고 했 는데 이 책 을 읽 고 매우 당황스럽 다 ’ 고 했 다 .	O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O
+임태훈 군 인권 센터 소장 은 “ 수사관 들 이 성적 취향 , 선호 체위 , 피임 도구 사용 여부 , 성 정체성 인지 시점 , 자주 가 는 동성애자 술집 이름 등 추행 죄 와 무관한 성희롱 성 질문 으로 사생활 을 과도하 게 침해 했 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여고생 유망주 성은정 ( 18 · 영파여고 ) 은 예선전 을 거쳐 본선 티켓 을 따 내 돌풍 을 예고 했 다 .	O O PER-B O O O ORG-B O O O O O O O O O O O O O O O O
+박병호 , 미네소타 트윈스 와 4 년 1200 만 달러+ 1 년 옵션 계약 … 강정호 연봉 은 ?	PER-B O ORG-B ORG-I O O O MNY-B MNY-I O O O O O O PER-B O O O
+이 들 은 지역 내 나눔 문화 활성화 를 위해 ‘ 1 인 1 아너 추천 운동 ’ 을 벌이 기 로 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+날씨 가 좋 으면 일주일 에서 열흘 가량 이어진다 .	O O O O O O O O O O
+2 일 경기도 산림 환경 연구소 에 따르 면 해발 832 m 서리산 능선 을 따 라 2.5 ㏊ 에 높이 3 ∼ 5 m , 20 ∼ 50 년 수령 의 자생 철쭉 1 만 여 그루 가 만개하 면 연분홍 물결 을 이룰 예정 이 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+결국 90 년대 초 부터 ‘ 일본 = 신동주 , 한국 = 신동빈 ’ 으로 경영 이 확실히 나뉘 었 고 , 신 총괄 회장 의 허락 없이 는 상호 침범 이나 간섭 은 불가능한 구조 가 이어져 왔 다 .	O O O O O O ORG-B O PER-B O ORG-B O PER-B O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O

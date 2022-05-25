@@ -1,11 +1,11 @@
-북한에는 여씨의 삼촌과 외가 친척 외에는 남아 있지 않으며, 남한에는 친척이 없는 것으로 알려지었다 .	ORG-B O O O O O O O O ORG-B O O O O O
-그렇게 2007년 본사를 인수하+ㄹ 수 있었어요 .	O O O O O O O
-‘땅콩 회항’ 조현아, 오늘 선고… 집행유예 석방 가능성 제 .	O O PER-B O O O O O O O
-이에 따르 아결핵협회와 서울 관악구 보건소는 14일 오후 2시부터 결핵감염 학생들이 연구실로 이용하였던 공대 건물에서 공대 소속 학부생과 대학원생 2000여명을 대상으로 흉부 X선 촬영을 통하+여검진을 실시하였다 .	O O ORG-B ORG-B ORG-I ORG-I O O O ORG-B O O O O O O O O O O O O O O O O O
-국보 일련번호 폐지 추진 논란은 “‘국보 1호’ 숭례문이 과연 국보 1호로서 적격하냐”는 데서 나 오+ㄴ 것으로 알려지었다 .	O O O O O O O O O O O O O O O O O O
-통합행동 소속의 한 의원은 “(모임에서) 원내대표, 당대표 경선의 교통정리에 나서 +ㄴ다면 하나의 계파를 형성하는 것밖에 되지 않는다”며 “오히려 수권정당과 당 통합을 위하+여 필요하+ㄴ 것이 무엇이 +ㄴ지에 대하+여 논의하는 자리가 되+ㄹ 것”이라고 말하였다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-한국에서 유통되는 모든 식자재를 바로 아래에서 사+아오+ㄹ 수 있다 .	LOC-B O O O O O O O O O
-둘째, 연준에 대하+ㄴ 신뢰감 이 후퇴하고 있다 .	O ORG-B O O O O O O
-대상선수들이 2016년 크+ㄴ부상 없이 1군엔트리에 꾸준히 머물+ㄴ다면 시즌 후 총 24명의 FA가 탄생하+ㄴ다 .	O ORG-B O O ORG-B O O O O O O O O O
-당초 숙명여고와 종로학원에서 진행하려던 오프라인 설명회는 메르스 영향으로 취소되었다 .	O LOC-B LOC-B O O O O O O O
-그러나 이 교수는 “두 용어는 역사적으로 병용되+어+았다”고 말하였다 .	O PER-B O O O O O O O
+북한 에 는 여씨 의 삼촌 과 외가 친척 외 에 는 남 아 있 지 않 으며 , 남한 에 는 친척 이 없 는 것 으로 알려 졌 다 .	ORG-B O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+그렇 게 2007 년 본사 를 인수할 수 있 었 어요 .	O O DAT-B DAT-I O O O O O O O O
+‘ 땅콩 회항 ’ 조현아 , 오늘 선고 … 집행 유예 석방 가능성 제기	O O O O PER-B O O O O O O O O O
+이 에 따 라 결핵 협회 와 서울 관악구 보건소 는 14 일 오후 2 시 부터 결핵 감염 학생 들 이 연구실 로 이용 했 던 공대 건물 에서 공대 소속 학부 생 과 대학원 생 2000 여 명 을 대상 으로 흉부 X 선 촬영 을 통해 검진 을 실시 했 다 .	O O O O ORG-B ORG-I O ORG-B ORG-I ORG-I O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국보 일련번호 폐지 추진 논란 은 “ ‘ 국보 1 호 ’ 숭례문 이 과연 국보 1 호 로서 적격하 냐 ” 는 데 서 나온 것 으로 알려 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+통합 행동 소속 의 한 의원 은 “ ( 모임 에서 ) 원내 대표 , 당 대표 경선 의 교통정리 에 나선다면 하나 의 계파 를 형성하 는 것 밖에 되 지 않 는다 ” 며 “ 오히려 수권 정당 과 당 통합 을 위해 필요한 것 이 무엇 인지 에 대해 논의하 는 자리 가 될 것 ” 이라고 말 했 다 .	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 에서 유통되 는 모든 식 자재 를 바로 아래 에서 사 올 수 있 다 .	LOC-B O O O O O O O O O O O O O O O O
+둘째 , 연준 에 대한 신뢰감 이 후퇴하 고 있 다 .	O O ORG-B O O O O O O O O O
+대상 선수 들 이 2016 년 큰 부상 없이 1 군 엔트리 에 꾸준히 머문다면 시즌 후 총 24 명 의 FA 가 탄생한다 .	O O O O DAT-B DAT-I O O O ORG-B ORG-I O O O O O O O O O O O O O O
+당초 숙명여고 와 종로학원 에서 진행하 려던 오프라인 설명 회 는 메르스 영향 으로 취소 됐 다 .	O LOC-B O LOC-B O O O O O O O O O O O O O O
+그러나 이 교수 는 “ 두 용어 는 역사적 으로 병용돼 왔 다 ” 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O

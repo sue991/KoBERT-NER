@@ -1,16 +1,16 @@
-어떤 사람은 '고양이 마리오'라고 부르기도 +였습니다 .	O O O O O O O
-(사실 마리오의 영향을 안 받았다고는 말 못하+ㄹ 것+이+ㅂ니다 .	O PER-B O O O O O O O
-구글 홈과의 시너지 효과를 톡톡히 누리겠다는 포석이+ㄴ 셈이다 .	O O O O O O O O O
-8월의 마지막 일요일은 선선하었다 .	O O O O O
-이제는 초등학교 입학식에 40대 엄마 손을 잡고 오는 아이도 쉽게 찾아보+ㄹ 수 있다 .	O O O O O O O O O O O O O O
-이번 달 30일과 31일에는 단독 콘서트 'Remem ber, theday'를 열 +ㄴ다 .	O O O O O O O O O O O O
-행복 파트너 역량 강화를 위하+여은퇴설계 전문가(ARPS)과정을 진행, 1869명의 합격자를 배출하였다 .	O O O O O O O O O O O
-1977년 첫선을 보이+ㄴ 후 38년이나 되+ㄴ이 시리즈에 왜 여전히 세계는 열광하는 것+이+ㄹ까? 박상준 서울 SF아카이브 대표는 “‘스타워즈’는 단순 하+ㄴ SF 영화가 아니라 대중문화의 흐름을 바꾸+ㄴ ‘문화충격(cultu res hock)’ 콘텐츠”라고 평가하였다 .	O O O O O O O O O O O O PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O
-같은 기간 유럽 판매 40만 2000대의 20% 수준이다 .	O O LOC-B O O O O O O
-◆파우스트의 겁벌=괴테의 ‘파우스트’를 대본으로 한 프랑스 작곡가 베를리오즈의 극 음악.겁벌(劫罰)은 지옥의 고통을 겪게 하는 벌이라는 뜻이다 .	O PER-B O O O LOC-B O PER-B O O O O O O O O O
-글=류태형 음악 칼럼니스트·객원기자 moz art@joongang. co.kr사진=권혁재 사진전문기 .	PER-B O O O O PER-B O O
-“나도 듣었어. 근데 요즘에 +ㄴ 남자들도 뷰티에 관심이 많+지 않아.” 셋중에 화장품을 사용하는 사람은 없었다 .	O O O O O O O O O O O O O O O O
-[오늘의 운세/11월 20일 .	O O O O
-[책의 향기/ 독자 서평]긍정을 찬미하는 사회, 자본주의의 잔인하+ㅁ을 비추 .	O O O O O O O O O O
-울산 현대는 5일 울산 문수축구경기장에서 열리+ㄴ성남FC와의 ‘현대오일뱅크 K리그 클래식 2016’ 9라운드 홈 경기에서 대대적으로 ‘어린이 맞이’에 나서 +었다 .	LOC-B ORG-I O LOC-B LOC-I ORG-B ORG-I O O O O O O O O O O O O
-103개 조합이 연합하+ㄴ이 협동조합은 매출액 기준으로 스페인 10대 기업에 해당하는데, 몇 가지 특징이 있었다 .	O O O O O O LOC-B O O O O O O O O
+어떤 사람 은 ' 고양이 마리오 ' 라고 부르 기 도 했 습니다 .	O O O O O O O O O O O O O O
+( 사실 마리오 의 영향 을 안 받 았 다고 는 말 못할 겁니다 )	O O PER-B O O O O O O O O O O O O
+구글홈 과 의 시너지 효과 를 톡톡히 누리 겠 다는 포석 인 셈 이 다 .	O O O O O O O O O O O O O O O O
+8 월 의 마지막 일요일 은 선선 했 다 .	DAT-B DAT-I O O DAT-B O O O O O
+이제 는 초등학교 입학식 에 40 대 엄마 손 을 잡 고 오 는 아이 도 쉽 게 찾아볼 수 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+이번 달 30 일 과 31 일 에 는 단독 콘서트 ' Remember , the day ' 를 연다 .	O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O
+행복 파트너 역량 강화 를 위해 은퇴 설계 전문가 ( ARPS ) 과정 을 진행 , 1869 명 의 합격자 를 배출 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1977 년 첫선 을 보인 후 38 년 이나 된 이 시리즈 에 왜 여전히 세계 는 열광하 는 걸까 ? 박상준 서울 SF 아카이브 대표 는 “ ‘ 스타워즈 ’ 는 단순한 SF 영화 가 아니 라 대중문화 의 흐름 을 바꾼 ‘ 문화 충격 ( culture shock ) ’ 콘텐츠 ” 라고 평가 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+같 은 기간 유럽 판매 40 만 2000 대 의 20 % 수준 이 다 .	O O O LOC-B O O O O O O O O O O O O
+◆ 파우스트 의 겁벌 = 괴테 의 ‘ 파우스트 ’ 를 대본 으로 한 프랑스 작곡가 베를리오즈 의 극음악 . 겁벌 ( 劫罰 ) 은 지옥 의 고통 을 겪 게 하 는 벌 이 라는 뜻 이 다 .	O O O O O PER-B O O O O O O O O LOC-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+글 = 류태형 음악 칼럼니스트 · 객원 기자 mozart @ joongang . co . kr 사진 = 권혁재 사진 전문 기자	O O PER-B O O O O O O O O O O O O O O PER-B O O O
+“ 나 도 들 었 어 . 근데 요즘 엔 남자 들 도 뷰티 에 관심 이 많 잖 아 . ” 셋 중 에 화장품 을 사용하 는 사람 은 없 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 오늘 의 운세 / 11 월 20 일 ]	O O O O O DAT-B DAT-I DAT-I DAT-I O
+[ 책 의 향기 / 독자 서평 ] 긍정 을 찬미하 는 사회 , 자본주의 의 잔인함 을 비추 다	O O O O O O O O O O O O O O O O O O O O
+울산 현대 는 5 일 울산 문수 축구 경기장 에서 열린 성남 FC 와 의 ‘ 현대오일뱅크 K 리그 클래식 2016 ’ 9 라운드 홈경기 에서 대대적 으로 ‘ 어린이 맞이 ’ 에 나섰 다 .	ORG-B ORG-I O DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I O O ORG-B ORG-I O O O O O O O DAT-B O O O O O O O O O O O O O O O
+103 개 조합 이 연합한 이 협동조합 은 매출액 기준 으로 스페인 10 대 기업 에 해당하 는데 , 몇 가지 특징 이 있 었 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O

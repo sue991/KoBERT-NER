@@ -1,9 +1,9 @@
-류희인(61·사진) 전 세월호 참사 특별조사위원회 비상임위원은 “국가 재난 책임은 명시적이지 않더라도 대통령에게 있다”며 “청와대가 세월호 재난 컨트롤타워가 아니라는 주장이 이해하+ㄹ 수 없다”고 말하였다 .	PER-B O ORG-B ORG-I ORG-I O O O O O O O O ORG-B ORG-B O O O O O O O O O
-쓰치야 요시히코(土屋義彦·2008년 작고·사진 왼쪽) 전 일본 참의원의장의 장녀 이+ㄴ 쓰치야모모코(土屋桃子·65) 여사+이었다 .	PER-B PER-B O O O ORG-B ORG-I O O PER-B O O
-강 대표는 5년 동안 5000대의 라디오와 휴대용 저장장치(USB 메모리) 상당수를 북한에 들여보내+었다 .	PER-B O O O O O O O O O LOC-B O O
-쉿.남자애 하나가 입에 손을 대+었다 .	O O O O O O
-16일 미국 예일대와 컬럼비아대 공동연구진이 발표하+ㄴ ‘환경성과 지수(EPI) 2016’에서 한국의 공기질은 180개 국 가운데 최하위권(173위)에 머무르어 있다 .	O ORG-B ORG-I ORG-B O O O O O LOC-B O O O O O O O O
-정부는 우선 고용창출투자세액공제를 통하+여감면 되는 고용비례 추가공제율(현재 투자액의 3~6%)을 내년 1년간 2%포인트(대기업은 1%포인트) 늘리+ㄴ다 .	O O O O O O O O O O O O O O O
-윤옥선(62·여) 서문시장 1지구 침구류 상인은 “문 후보는 말도 꺼내지 말+아라. ‘대통령 당선되면 북한에 먼저 가+ㄴ다’고 하+ㄴ 데다 각종 나쁘+ㄴ소문이 합치+어지면서 중·장년층 이상은 대부분 싫어 하+ㄴ다”고 말하였다 .	PER-B LOC-B LOC-I O O PER-B O O O O O O ORG-B O O O O O PER-B O O O O O O O O
-217cm의 크+ㄴ키를 가지+ㄴ 최홍만 옆에서 +ㄴ 유승옥의 키가 상대적으로 작아 보이어 눈길을 끌+ㄴ다 .	O O O PER-B O O PER-B O O O O O O O
-“칠레 외교관 성추행, 한두 번이 아니야.나+의 아내까지…”교민 폭 .	LOC-B O O O O O O O O
+류희인 ( 61 · 사진 ) 전 세월호 참사 특별 조사 위원회 비 상임 위원 은 “ 국가 재난 책임 은 명시적 이 지 않 더라도 대통령 에게 있 다 ” 며 “ 청와대 가 세월호 재난 컨트롤 타워 가 아니 라는 주장 이 이해할 수 없 다 ” 고 말 했 다 .	PER-B O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+쓰 치 야 요시히코 ( 土屋義彦 · 2008 년 작 고 · 사진 왼쪽 ) 전 일본 참의원 의장 의 장녀 인 쓰 치 야 모모코 ( 土屋桃子 · 65 ) 여사 였 다 .	PER-B PER-I PER-I PER-I O PER-B O DAT-B DAT-I O O O O O O O ORG-B ORG-I O O O O PER-B PER-I PER-I PER-I O PER-B O O O O O O O
+강 대표 는 5 년 동안 5000 대 의 라디오 와 휴대용 저장 장치 ( USB 메모리 ) 상당수 를 북한 에 들여보냈 다 .	PER-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O
+쉿 . 남자 애 하나 가 입 에 손 을 댔 다 .	O O O O O O O O O O O O O
+16 일 미국 예일대 와 컬럼비아대 공동 연구 진 이 발표한 ‘ 환경 성과 지수 ( EPI ) 2016 ’ 에서 한국 의 공기 질 은 180 개국 가운데 최 하위권 ( 173 위 ) 에 머물 러 있 다 .	DAT-B DAT-I ORG-B ORG-I O ORG-B O O O O O O O O O O O O DAT-B O O LOC-B O O O O O O O O O O O O O O O O O O O
+정부 는 우선 고용 창출 투자 세액공제 를 통해 감면되 는 고용 비례 추가 공제 율 ( 현재 투자액 의 3 ~ 6 % ) 을 내년 1 년 간 2 % 포인트 ( 대기업 은 1 % 포인트 ) 늘린다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤옥선 ( 62 · 여 ) 서문시장 1 지구 침구류 상인 은 “ 문 후보 는 말 도 꺼내 지 마라 . ‘ 대통령 당선되 면 북한 에 먼저 간다 ’ 고 한데 다 각종 나쁜 소문 이 합쳐 지 면서 중 · 장년 층 이상 은 대부분 싫어한다 ” 고 말 했 다 .	PER-B O O O O O LOC-B LOC-I LOC-I O O O O PER-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+217 cm 의 큰 키 를 가진 최홍만 옆 에 선 유승옥 의 키 가 상대적 으로 작 아 보 여 눈길 을 끈다 .	O O O O O O O PER-B O O O PER-B O O O O O O O O O O O O O
+“ 칠레 외교관 성추행 , 한두 번 이 아니 야 . 내 아내 까지 … ” 교민 폭로	O LOC-B O O O O O O O O O O O O O O O O

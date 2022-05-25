@@ -1,14 +1,14 @@
-전인지는 시즌 개막전 5개 대회를 뛰었고 US 여자 오픈과 브리티시 여자 오픈에 출전하였다 .	PER-B O O O O O O O O O O O O O
-33명 서울체고·29명 창원공고 출신 … ‘명문고 파워 .	O ORG-B ORG-B O O O O O
-박 9단은 마지막 형세 판단 끝에 결심하였다 .	PER-B O O O O O O O
-아직까지 깨지지 않고 있는 이승엽의 단일 시즌 최 .	O O O O PER-B O O O O
-간토 대지진 조선인 학살 진상규명… ‘9월 …’ 펴내+ㄴ日가토 나오키  .	O O O O O O O ORG-B PER-I O O
-장­이씨는 각각 이날 오후 6시와 6시15분쯤 서초동 검찰청사에 자진 출두하였다 .	PER-B O PER-B TIM-B TIM-B TIM-B LOC-B LOC-I O O O
-이란은 북부 산악지역을 제외하고 물이 귀하여 용수공급률이 60%밖에 안 되+ㄴ다 .	ORG-B O O O O O O O O O O
-볼 점유율에서 +ㄴ 57%-43%로 앞서 +었지만, 슈팅수(7-16)에서 밀리었다 .	O O O O O O O O O
-한 생존자 어머니는 떨리는 목소리로 “세월호 참사 전활 달하였던 아이가 지금은 귀에 이어폰만 꽂고 다니며 혼자 있고 싶어 하는 성향이 +었다 .	O O O O O O O O O O O O O O O O O O O O O O
-교육행정정보시스템(NEIS)에 등록되+ㄴ 학생 환자 수 이+ㄴ데, 의사 소견서 및 진단서를 학교에 제출하+ㄴ 사례를 기준으로 작성하였다 .	O O O O O O O O O O O O O O O O
-고소영, 日대부업체 광고 촬영 논란 ‘시끌’ … 소속사 입장은?“기업의 상품과 무관”배우 고소영이 최근 일본계 금융업체의 광고 모델로 나서+어 논란이 일고 있는 가운데, 고소영 소속사 측이 “대출상품이 아니+ㄴ종합금융기업의 브랜드에 대하+ㄴ광고”라고 해명하였다 .	PER-B ORG-B O O O O O O O O O PER-B O ORG-B O O O O O O O O PER-B O O O O O O O O
-고소영은 최근 제2금융권이+ㄴ 일본계 J기업과 모델 계약을 체결, 지난달 한강 근처에서 기업광고 촬영까지 마치 +ㄴ 것으로 알려지었다 .	PER-B O O O ORG-B O O O O LOC-B O O O O O O O O
-반도건설은 서해선 복선전철이 시작되는 송산신도시의 첫 아파트 ‘송산신도시 반도유보라 아이비파크’를 공급하+ㄴ다 .	ORG-B O O O LOC-B O O LOC-B LOC-I LOC-I O O
-염속산, 까치산, 칠봉산 등이 대표적이다 .	LOC-B LOC-B LOC-B O O O
+전인지 는 시즌 개막 전 5 개 대회 를 뛰 었 고 US 여자 오픈 과 브리티시 여자 오픈 에 출전 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+33 명 서울체고 · 29 명 창원 공고 출신 … ‘ 명문 고 파워 ’	O O ORG-B O O O ORG-B ORG-I O O O O O O O
+박 9 단 은 마지막 형세 판단 끝 에 결심 했 다 .	PER-B O O O O O O O O O O O O
+아직 까지 깨지 지 않 고 있 는 이승엽 의 단일 시즌 최다	O O O O O O O O PER-B O O O O
+간토 대지진 조선 인 학살 진상 규명 … ‘ 9 월 … ’ 펴낸 日 가토 나오키 씨	O O O O O O O O O DAT-B DAT-I O O O ORG-B PER-B PER-I O
+장 ­ 이 씨 는 각각 이날 오후 6 시 와 6 시 15 분 쯤 서초동 검찰 청사 에 자진 출두 했 다 .	PER-B O PER-B O O O O TIM-B TIM-I TIM-I O TIM-B TIM-I TIM-I TIM-I O LOC-B LOC-I LOC-I O O O O O O
+이란 은 북부 산악 지역 을 제외하 고 물 이 귀하 여 용수 공급 률 이 60 % 밖에 안 된다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O
+볼 점유율 에선 57 % - 43 % 로 앞섰 지만 , 슈팅 수 ( 7 - 16 ) 에서 밀 렸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+한 생존자 어머니 는 떨리 는 목소리 로 “ 세월호 참사 전 활달 했 던 아이 가 지금 은 귀 에 이어폰 만 꽂 고 다니 며 혼자 있 고 싶 어 하 는 성향 이 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+교육 행정 정보 시스템 ( NEIS ) 에 등록된 학생 환자 수 인데 , 의사 소견 서 및 진단서 를 학교 에 제출한 사례 를 기준 으로 작성 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고소영 , 日 대부 업체 광고 촬영 논란 ‘ 시 끌 ’ … 소속 사 입장 은 ? “ 기업 의 상품 과 무관 ” 배우 고소영 이 최근 일본 계 금융 업체 의 광고 모델 로 나서 논란 이 일 고 있 는 가운데 , 고소영 소속 사 측 이 “ 대출 상품 이 아닌 종합 금융 기업 의 브랜드 에 대한 광고 ” 라고 해명 했 다 .	PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+고소영 은 최근 제 2 금융권 인 일본 계 J 기업 과 모델 계약 을 체결 , 지난달 한강 근처 에서 기업 광고 촬영 까지 마친 것 으로 알려 졌 다 .	PER-B O O O O O O O O ORG-B ORG-I O O O O O O O LOC-B O O O O O O O O O O O O O
+반도건설 은 서해선 복선 전철 이 시작되 는 송산 신도시 의 첫 아파트 ‘ 송산 신도시 반도유보라 아이비파크 ’ 를 공급한다 .	ORG-B O O O O O O O LOC-B LOC-I O O O O LOC-B LOC-I LOC-I LOC-I O O O O
+염속산 , 까치산 , 칠봉산 등 이 대표적 이 다 .	LOC-B O LOC-B O LOC-B O O O O O O

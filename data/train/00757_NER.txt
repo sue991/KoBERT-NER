@@ -1,16 +1,16 @@
-■이용규 4주 부상이 탈…돌파구 있나?팀 최 .	PER-B O O O O O O
-건설사들은 “지난해 10월 집단대출 심사가 강화되면서 대출을 거부당하거나 금리가 오르아 어려움을 겪고 있다”고 하소연 하+ㄴ다 .	O O O O O O O O O O O O O O O O
-롯데그룹 경영 비리와 관련 하+여 횡령 등 혐의로 재판에 넘기+어지+ㄴ 신동빈 롯데그룹 회장(62) 등 총수 일가 다섯 명과 임원 네 명등 관련자 모두가 첫 재판에서 혐의 사실을 전면 부인하였다 .	ORG-B O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O
-서울중앙지법 형사합의24부(부장판사 김상동) 심리로 20일 열리+ㄴ 신 회장 등에 대하+ㄴ 첫 공판에서 신 회장 측 변호인은 검찰의 공소사실에 대하+여 조목조목 반박하였다 .	ORG-B ORG-I PER-B O O O PER-B O O O O O PER-B O O O O O O O O O
-신 회장 측은 우선 롯데시네마 매점 사업권을 신영자 전 롯데장학재단 이사장(75) 등 일가 가 운영하는 회사에 몰아주+었다는 혐의에 대하+여 반박하였다 .	PER-B O O O ORG-B O O PER-B O ORG-B O O O O O O O O O O O
-서로 더 친하+여지+ㄴ어머니들은 베테랑 MC 신동엽, 한혜진, 서장훈조차 통제 하+ㄹ 수 없었다 .	O O O O O PER-B PER-B PER-B O O O O O
-통합진보당이 마침내 그 ‘종북 성향’으로 말미암아 헌법재판소의 해산 결정에 따르 아해산되었다 .	ORG-B O O O O O O O O O O O
-아시아퍼시픽 해양문화연구원(APOCC)과 한국해양수산개발원(KMI) 전문가가 동행 하+ㄴ 중앙SUNDAY 취재팀은 지나 +ㄴ 12~21일 중국 북부와 러시아 극동지방의 젖줄이 +ㄴ아무르강과 레나강을 탐사하었다 .	ORG-B ORG-B ORG-B O O O ORG-B ORG-I O O O LOC-B O LOC-B O O LOC-B LOC-B O O
-글로벌 페이大戰, 삼성이 한발 앞서 +어가+ㄴ .	O O ORG-B O O O O
-미국 시장에서 한국산 자동차 시장 점유율이 6년째 떨어지면서 지난해 시장점유율은 1.7%에 불과하였다 .	ORG-B O O O O O O O O O O O O
-또한 하지원은 남자 팀장의 반응을 얻기 위하+여 ‘폭풍애교’를 부리었다 .	O PER-B O O O O O O O O
-수사에 착수하+ㄴ 경찰은 B씨의 팔과 다리배 등에 오래되 +ㄴ 멍 자국이 있고 옆구리 골절이 의심되+어 19일 부검을 실시하+여정확 하+ㄴ사인을 밝히기로 +였다 .	O O O PER-B O O O O O O O O O O O O O O O O O O
-일부 바위 조각은 1500ｍ 떨어지+ㄴ 지역까지 날아가기도 +였다 .	O O O O O O O O O
-코레일은 시험용 차량 2량을 우선 제작하+여 내년 말까지 시운전을 마치 +ㄹ 계획이다 .	ORG-B O O O O O O O O O O O O
-― 최예용씨(52·환경보건시민센터 소장) “미세먼지를 완전히 중국 탓으로 돌리+ㄹ 수+ㄴ 없어요 .	O ORG-B O O O ORG-B O O O O O
-▲ 노재남 씨 별세, 이승원(전 삼성생명 상무)·승묵(전 한국화섬협회 이사)·승교(수원 대 식품영양학과 교수)·승복(충북대 심리학과 교수)씨 모친상, 유연우(아주대응용화학생명공학과 명예교수)씨 장모상, 이종희·유희영씨시모상 10일 오전 11시10분 삼성서울병원발인 12일 오전 11시(02)3410-6912 ▲장지국(전 국제라이온스협회 354-E지구 총재)씨 별세, 장재홍(강원폐차산업 대표)·재철(씨티은행 상무) ·미정씨 부친상, 하재윤(춘천장가네 더덕밥 대표) 씨 장인상 10일 0시 15분 강원 춘천시 효장례식장 발인 13일 오전 6시(033) 261-4441[스포츠동아 .	O PER-B O O PER-B ORG-B PER-B ORG-B PER-B O O ORG-B ORG-I O O ORG-B O O PER-B TIM-B TIM-B TIM-B LOC-B O O O PER-B ORG-B ORG-I O O LOC-B ORG-B O PER-B O LOC-B ORG-I O O O O O O LOC-B LOC-B LOC-B O O O O ORG-B O
+■ 이용규 4 주 부상 이탈 … 돌파구 있 나 ? 팀 최다	O PER-B O O O O O O O O O O O
+건설 사 들 은 “ 지난해 10 월 집단 대출 심사 가 강화되 면서 대출 을 거부 당하 거나 금리 가 올 라 어려움 을 겪 고 있 다 ” 고 하소연한다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+롯데 그룹 경영 비리 와 관련해 횡령 등 혐의 로 재판 에 넘겨 진 신동빈 롯데그룹 회장 ( 62 ) 등 총수 일가 다섯 명 과 임원 네 명 등 관련자 모두 가 첫 재판 에서 혐의 사실 을 전면 부인 했 다 .	ORG-B ORG-I O O O O O O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울중앙지법 형사 합의 24 부 ( 부장판사 김상동 ) 심리 로 20 일 열린 신 회장 등 에 대한 첫 공판 에서 신 회장 측 변호인 은 검찰 의 공소 사실 에 대해 조목조목 반박 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O O PER-B O O O DAT-B DAT-I O PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O
+신 회장 측 은 우선 롯데시네마 매점 사업 권 을 신영자 전 롯데 장학 재단 이사장 ( 75 ) 등 일가 가 운영하 는 회사 에 몰 아 줬 다는 혐의 에 대해 반박 했 다 .	PER-B O O O O ORG-B O O O O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O
+서로 더 친해 진 어머니 들 은 베테랑 MC 신동엽 , 한혜진 , 서장훈 조차 통제할 수 없 었 다 .	O O O O O O O O O PER-B O PER-B O PER-B O O O O O O O
+통합진보당 이 마침내 그 ‘ 종 북 성향 ’ 으로 말미암 아 헌법 재판소 의 해산 결정 에 따 라 해산 됐 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+아시아 퍼시픽 해양 문화 연구원 ( APOCC ) 과 한국 해양 수산 개발 원 ( KMI ) 전문가 가 동행한 중앙 SUNDAY 취재 팀 은 지난 12 ~ 21 일 중국 북부 와 러시아 극동 지방 의 젖줄 인 아무르강 과 레나 강 을 탐사 했 다 .	ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B O O ORG-B ORG-I ORG-I ORG-I ORG-I O ORG-B O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O LOC-B O O LOC-B O O O O O LOC-B O LOC-B LOC-I O O O O O
+글로벌 페이 大戰 , 삼성 이 한발 앞서 간다	O O O O ORG-B O O O O
+미국 시장 에서 한국 산 자동차 시장 점유율 이 6 년 째 떨어지 면서 지난해 시장 점유율 은 1.7 % 에 불과 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+또한 하지원 은 남자 팀장 의 반응 을 얻 기 위해 ‘ 폭풍 애교 ’ 를 부 렸 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+수사 에 착수한 경찰 은 B 씨 의 팔 과 다리 배 등 에 오래된 멍 자국 이 있 고 옆구리 골절 이 의심돼 19 일 부검 을 실시해 정확한 사인 을 밝히 기 로 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O
+일부 바위 조각 은 1500 ｍ 떨어진 지역 까지 날아가 기 도 했 다 .	O O O O O O O O O O O O O O O
+코레일 은 시험 용 차량 2 량 을 우선 제작해 내년 말 까지 시운전 을 마칠 계획 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+― 최예용 씨 ( 52 · 환경 보건 시민 센터 소장 ) “ 미세 먼지 를 완전히 중국 탓 으로 돌릴 순 없 어요 .	O PER-B O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O ORG-B O O O O O O O
+▲ 노재남 씨 별세 , 이승원 ( 전 삼성생명 상무 ) · 승묵 ( 전 한국 화섬 협회 이사 ) · 승교 ( 수원대 식품 영양학 과 교수 ) · 승복 ( 충북대 심리학 과 교수 ) 씨 모친상 , 유연우 ( 아주대 응용 화학 생명 공학 과 명예교수 ) 씨 장모상 , 이종희 · 유희영 씨 시 모상 10 일 오전 11 시 10 분 삼성서울병원 발인 12 일 오전 11 시 ( 02 ) 3410 - 6912 ▲ 장지국 ( 전 국제 라이온스 협회 354 - E 지구 총재 ) 씨 별세 , 장재홍 ( 강원 폐차 산업 대표 ) · 재철 ( 씨티 은행 상무 ) · 미정 씨 부친상 , 하재윤 ( 춘천 장가네 더덕 밥 대표 ) 씨 장인상 10 일 0 시 15 분 강원 춘천시 효 장례식장 발인 13 일 오전 6 시 ( 033 ) 261 - 4441 [ 스포츠 동아 ]	O PER-B O O O PER-B O O ORG-B O O O PER-B O O ORG-B ORG-I ORG-I O O O PER-B O ORG-B ORG-I ORG-I ORG-I O O O PER-B O ORG-B ORG-I ORG-I O O O O O PER-B O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O PER-B O PER-B O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I LOC-B O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O PER-B O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O PER-B O ORG-B ORG-I ORG-I O O O PER-B O ORG-B ORG-I O O O PER-B O O O PER-B O LOC-B ORG-B ORG-I ORG-I O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I LOC-B LOC-B LOC-B LOC-I O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O ORG-B ORG-I O

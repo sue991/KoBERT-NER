@@ -1,18 +1,18 @@
-외국이나 지방 출장 때 미리 일정을 알리+어식사 및 술접대를 받았으며 불과 두 달 전에는 같은 날 한 유흥업소에서 다른 업체로부터 두 차례 향응을 받기까지 +였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-중국의 사드 보복은 이제 시작이+ㄹ 수 있다 .	ORG-B O O O O O O O
-여기자 중 유일하게 이동욱을 선택하+ㄴ서다 영기자는 “저승사자로서는 칼같이 ‘일’을 처리하지만 연인 앞에서는 순진하고 어리바리 하+ㄴ 모습이 너무나 귀엽다”고 말하였다 .	O O O PER-B O O O O O O O O O O O O O O O O
-크림빵 뺑소니 범인 찾자 ‘네티즌 수사대’ 혈안 … 흰색 BMW5용의 차량 좁히+어+지었 .	O O O O O O O O O O O O O
-김준수는 9일 오전 충남 논산 육군훈련소에 입소 하+ㄴ다 .	PER-B O O LOC-B LOC-B LOC-I O O O
-LG전자는 1등을 하+ㄴ 뒤에도 자신감을 바탕으로 남들이 하지 않는 것을 과감하게 시도하였다 .	ORG-B O O O O O O O O O O O O
-장동민 라디오 DJ 하차, 진중권 “대한민국에서 가장 높은 도덕성 요구받는 직업 .	PER-B O O O PER-B ORG-B O O O O O O
-이한구 공천관리위원장은 이날 서울 여의도 당사에서기자회견을 강행하고, 경선지역 35곳과 단수추천지역 27곳 등 총 62개 지역에 대하+ㄴ 심사 결과를 밝히었다 .	PER-B O O LOC-B LOC-I O O O O O O O O O O O O O O O
-신서유기, 이승기"가장 죄 없는 사람부터 태우는구나 "무슨 뜻?'의 미심장 .	O PER-B O O O O O O O O
-17일 겨울철 대형 화재가 자주 발생하는 시기를 맞고 광주시 광산구 광주여대 인근 도로에서 광산소방서 하남 119안전센터 소방관들이 화재 진화를 위하+ 여긴급 출동하는 소방차의 신속하+ㄴ 출동을 위하+여소방차길 확보 훈련과 함께 긴급차량 길비키+어주기의 중요성을 알리고 있다 .	O O O O O O O O LOC-B LOC-B LOC-B O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
-이와 관련 재야 운동가 출신 이+ㄴ 장기표(70) 신문 명 정책연구원 대표가 최근 한국국제정치학회(회장 남궁영 한국외국어대 정치행정언론대학원장) 뉴스레터152호에 '이 땅의' 진보적 지식인'은 왜 편향적 이+ㄴ가 '+이라는 기고를 통하+여사이비진보의 종북 성향을 비판하였다 .	O O O O O O PER-B O O O O O ORG-B PER-B ORG-B O O O O O O O O O O O O O O O O
-501km 걷는 '2015 노스페이스 대한민국 희망원정대’ 참가자 모 .	O O O O O O O O O
-정찰기의 성능 향상으로 이탈리아나 스페인에서도 북아프리카 지역을 감시하+ㄹ 수 있게 +었다 .	O O O LOC-B LOC-B LOC-B O O O O O O
-‘무한도전’ 정준하가 ‘귀곡성’ 특집 본방사수를 독려하였다 .	O PER-B O O O O O
-정준하는 15일 자신의 인스타그램에 “지..지+ㄴ...짜+아..가나..타+나았..다 .	PER-B O O O O O
-..귀곡성 뭣이 중한디본 방안 보고 뭣이 중하냐고 나진짜 울뻔 올해 대상 후보+이라고?놀림 대상 ?? 좋냐?? 즐겁냐?? 다신 하지 말+아 납량특집 무한도전 낼 저녁”+이라는 글과 함께 자신의 사진 한 장을 공개하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-사진 속에는 겁에 완전히 질리+ㄴ듯 하+ㄴ 정준하의 모습이 담기 +어 있다 .	O O O O O O PER-B O O O O O
-오늘(16일) 오후 방송되는 무한도전 489회는 ‘귀곡성 두 번째 이야기 & 릴레이 툰 여섯 번째 이야기’ 편으로 꾸리+어지+어한 여름 불볕더위를 쿨하게 날리+어버리+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O O O O O O O O
+외국 이나 지방 출장 때 미리 일정 을 알려 식사 및 술 접대 를 받 았 으며 불과 두 달 전 에 는 같 은 날 한 유흥업소 에서 다른 업체 로부터 두 차례 향응 을 받 기 까지 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+중국 의 사드 보복 은 이제 시작 일 수 있 다 .	ORG-B O O O O O O O O O O O
+여기자 중 유일하 게 이동욱 을 선택한 서다영 기자 는 “ 저승사자 로서 는 칼 같이 ‘ 일 ’ 을 처리하 지만 연인 앞 에서 는 순진하 고 어리바리한 모습 이 너무나 귀엽 다 ” 고 말 했 다 .	O O O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+크림빵 뺑소니 범인 찾 자 ‘ 네티즌 수사대 ’ 혈안 … 흰색 BMW 5 용의 차량 좁혀 졌 다	O O O O O O O O O O O O O O O O O O O
+김준수 는 9 일 오전 충남 논산 육군 훈련소 에 입소한다 .	PER-B O DAT-B DAT-I O LOC-B LOC-B LOC-I LOC-I O O O
+LG 전자 는 1 등 을 한 뒤 에 도 자신감 을 바탕 으로 남 들 이 하 지 않 는 것 을 과감하 게 시도 했 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+장동민 라디오 DJ 하차 , 진중권 “ 대한민국 에서 가장 높 은 도덕성 요구 받 는 직업 ”	PER-B O O O O PER-B O ORG-B O O O O O O O O O O
+이한구 공천 관리 위원장 은 이날 서울 여의도 당사 에서 기자 회견 을 강행하 고 , 경선 지역 35 곳 과 단수 추천 지역 27 곳 등 총 62 개 지역 에 대한 심사 결과 를 밝 혔 다 .	PER-B O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신 서유기 , 이승기 " 가장 죄 없 는 사람 부터 태우 는구나 " 무슨 뜻 ? ' 의미심장 '	O O O PER-B O O O O O O O O O O O O O O O O
+17 일 겨울철 대형 화재 가 자주 발생하 는 시기 를 맞 아 광주시 광산구 광주여대 인근 도로 에서 광산 소방서 하남 119 안전 센터 소방관 들 이 화재 진화 를 위해 긴급 출동하 는 소방차 의 신속한 출동 을 위해 소방차 길 확보 훈련 과 함께 긴급 차량 길 비켜 주 기 의 중요성 을 알리 고 있 다 .	DAT-B DAT-I O O O O O O O O O O O LOC-B LOC-B LOC-B O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 와 관련 재야 운동가 출신 인 장기표 ( 70 ) 신문명 정책 연구원 대표 가 최근 한국 국제 정치학 회 ( 회장 남궁영 한국외국어대 정치 행정 언론 대학원 장 ) 뉴스레터 152 호 에 ' 이 땅 의 ' 진보적 지식인 ' 은 왜 편향적 인가 ' 라는 기고 를 통해 사이비 진보 의 종 북 성향 을 비판 했 다 .	O O O O O O O PER-B O O O ORG-B ORG-I ORG-I O O O ORG-B ORG-I ORG-I ORG-I O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+501 km 걷 는 ' 2015 노 스페이스 대한민국 희망 원정대 ’ 참가자 모집	O O O O O O O O O O O O O O
+정찰기 의 성능 향상 으로 이탈리아 나 스페인 에서 도 북아프리카 지역 을 감시할 수 있 게 됐 다 .	O O O O O LOC-B O LOC-B O O LOC-B O O O O O O O O O
+‘ 무한도전 ’ 정준하 가 ‘ 귀곡성 ’ 특집 본방 사수 를 독려 했 다 .	O O O PER-B O O O O O O O O O O O O
+정준하 는 15 일 자신 의 인스타그램 에 “ 지 . . 진 . . . 짜 . . 가 나 . . 타 났 . . 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+. . # 귀곡성 # 뭣 이중한 디 본 방안 보고 # 뭣 이 _ 중허 냐고 # 나 진짜 울 뻔 올해 대상 후보 라고 ? 놀림 대상 ? ? 좋 냐 ? ? 즐겁 냐 ? ? # 다신 하 지 마 # 납량 특집 # 무한도전 낼 저녁 ” 라는 글 과 함께 자신 의 사진 한 장 을 공개 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사진 속 에 는 겁 에 완전히 질린 듯한 정준하 의 모습 이 담겨 있 다 .	O O O O O O O O O PER-B O O O O O O O
+오늘 ( 16 일 ) 오후 방송되 는 무한도전 489 회 는 ‘ 귀곡성 두 번째 이야기 & 릴레이 툰 여섯 번째 이야기 ’ 편 으로 꾸려 져 한여름 불볕더위 를 쿨 하 게 날려 버릴 예정 이 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

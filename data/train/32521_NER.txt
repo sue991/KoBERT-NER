@@ -1,12 +1,12 @@
-[비즈스토리]고객 맞춤 분석 하+여 상품 추천… 재미 살리+ㄴ큐레이션 콘텐트 인 .	O O O O O O O O O O O
-김한기 대림산업 대표이사 사장(55)이 한국주택협회 신임 회장에 내정되었다 .	PER-B ORG-B O O ORG-B O O O O
-둘 다 외세의 침략에 대하+ㄴ 대응에서 비롯되었다는 점이다 .	O O O O O O O O O
-○공연윤리위 발 .	ORG-B O O
-트랜스미션 측은 웹사이트에서 해당 버전을 삭제하였고, 지나 +ㄴ 6일 랜섬웨어를 제거 하+여주는 새롭ㄴ2.92 버전을 올리었다 .	ORG-B O O O O O O O O O O O O O O O
-팔로알토네트워크는 KeRanger가 감염 PC에서 3일간 잠복 하+ㄴ 뒤 이용자의 데이터를 암호화하도록 설계되었다고 블로그를 통하+여 알리었다 .	ORG-B O O O O O O O O O O O O O O O
-거리에서 춤을 추다 보니 흐르어 흐르어 이주노형을 만나게 +었어요 .	O O O O O O PER-B O O O
-이에 레이먼킴은 자신이 존경하는 요리사+이라며 연남동의 한 중국집 쉐프 이+ㄴ이 연복씨를 언급하였다 .	O PER-B O O O LOC-B O O O O O O O
-‘한은도 비싸게 사+ㄴ금을 내가 싸게 사면 얼마나 이익이 +ㄴ가’ 하는 심리가 고개를 들고 있다 .	ORG-B O O O O O O O O O O O O O O
-이후 박 교수는 실제 병원에서 실시하는 치매 검사 방법을 소개하+ㄴ다 .	O PER-B O O O O O O O O O
-3월 12일 개봉하+ㄴ영화 ‘소셜포비아’는 혈기왕성 하+ㄴ 20대 청년들의 현피 이야기+이다 .	O O O O O O O O O O O
-하태경 “파면 박근혜, 관저 못 비우겠단 것 +ㄴ우회적 이+ㄴ 불복 표현 .	PER-B O PER-B O O O O O O O O O
+[ 비즈 스토리 ] 고객 맞춤 분석해 상품 추천 … 재미 살린 큐 레이션 콘텐트 인기	O O O O O O O O O O O O O O O O
+김한기 대림 산업 대표 이사 사장 ( 55 ) 이 한국 주택 협회 신임 회장 에 내정 됐 다 .	PER-B ORG-B ORG-I O O O O O O O ORG-B ORG-I ORG-I O O O O O O O
+둘 다 외세 의 침략 에 대한 대응 에서 비롯 됐 다는 점 이 다 .	O O O O O O O O O O O O O O O O
+○ 공연 윤리 위 발뺌	O ORG-B ORG-I ORG-I O
+트랜스미션 측 은 웹사이트 에서 해당 버전 을 삭제 했 고 , 지난 6 일 랜섬 웨어 를 제거해 주 는 새로 운 2.92 버전 을 올 렸 다 .	ORG-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O
+팔 로 알토 네트워크 는 KeRanger 가 감염 PC 에서 3 일 간 잠복한 뒤 이용자 의 데이터 를 암호화하 도록 설계 됐 다고 블로그 를 통해 알 렸 다 .	ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+거리 에서 춤 을 추 다 보 니 흘 러 흘 러 이주노 형 을 만나 게 됐 어요 .	O O O O O O O O O O O O PER-B O O O O O O O
+이 에 레이먼 킴 은 자신 이 존경하 는 요리사 라며 연남동 의 한 중국집 쉐프 인 이연복 씨 를 언급 했 다 .	O O PER-B PER-I O O O O O O O LOC-B O O O O O PER-B O O O O O O
+‘ 한은 도 비싸 게 산 금 을 내 가 싸 게 사 면 얼마나 이익 인가 ’ 하 는 심리 가 고개 를 들 고 있 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이후 박 교수 는 실제 병원 에서 실시하 는 치매 검사 방법 을 소개한다 .	O PER-B O O O O O O O O O O O O O
+3 월 12 일 개봉한 영화 ‘ 소셜 포비아 ’ 는 혈기 왕성한 20 대 청년 들 의 현 피 이야기 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O
+하태경 “ 파면 박근혜 , 관저 못 비우 겠 단 건 우회적 인 불복 표현 ”	PER-B O O PER-B O O O O O O O O O O O O

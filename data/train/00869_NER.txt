@@ -1,13 +1,13 @@
-낙동강 옆에 조성 중 이+ㄴ대구 달성군 구지면 국가산업단지.10일 이곳에서 ‘국가물산업 클러스터’(KWC) 착공식이 열리었다 .	LOC-B O O O LOC-B LOC-B LOC-B LOC-I O ORG-B ORG-B O O O
-그런 그녀의 두 번째 소설 ‘가+아서 파수꾼을 세우어라(GoS etaW atchm an·이하 파수꾼)’가 55년 만이 +ㄴ 다음달 14일 전 세계에서 동시 출간되면서 세계인의 관심이 뜨거워 지+ㄴ 상태+이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-성인 국가대표 첫 경기+이었던 3월 대만전에서 2도움, 10월 북한 전에서 1득점, 1도움을 기록하였다 .	O O O O O ORG-B O O ORG-B O O O O O
-16곡의 뮤지컬 넘버 하나하나가 까다롭지만 가장 역동적 이+ㄴ「프롤로그」와「 우리는 제트파」 2곡이 무척 힘들더군요. .	O O O O O O O O O O O O O O
-이 연구위원은 “이 시스템으로 하수관로 손상으로 인하+ㄴ지반함몰에 대비 하+ㄹ 수 있다”며 “각 지방자치단체에서 현장조사를 진행하+ㄴ 결과를 모으아 데이터베이스를 쌓으면 지반함몰 위험도 평가의 정확도를 높이 +ㄹ 수 있을 것으로 기대 하+ㄴ다”고 말하였다 .	PER-B O PER-B O O O O O O O O O O O O O O PER-B O O O O O PER-B O O O O O O O O
-여기에 이번 맨부커상 수상으로 그 아성이 국내에만 머물지 않음을 입증하였다 .	O O O O O O O O O O O
-이 글은 비투비 새 앨범 'Feel’eM'의 수록곡 '빨리 뛰어'와 팝 가수 부르노 마스의 'That' sw hatIlike'를 비교하+ 여놓았다 .	O O ORG-B O O O O O O O O PER-B PER-I O O O O O O
-8월까지 18경기에 등판 하+여 4승 4패, 평균 자책점 4.64에 그치었다 .	O O O O O O O O O O O
-유럽이 세계 축구의 중심이+ㄴ 것은 분명하지만 ‘유럽 아니면 안 되+ㄴ다’는 생각은 바뀌어야 하+ㄴ다”고 밝히었다 .	ORG-B O O O O O ORG-B O O O O O O O O
-반기문 유엔 사무총장과 정운찬 전 총리도 명예회원이다 .	PER-B ORG-B O PER-B O O O O
-검찰은 체포 시한(48시간) 이 만료되는 2일 중에 구속영장을 청구 하+ㄹ 계획이다 .	O O O O O O O O O O O O
-개혁파 지도자 후야오방(胡耀邦) 전 총서기의 노선을 전면 비판하며 그의 실각에 일조하였다 .	O O PER-B O O O O O O O O O
-9월 정식 개관을 앞두 +ㄴ 국립아시아문화전당(이하 전당)이 부실 하+ㄴ 준비로 ‘예고되 +ㄴ 재앙’이 우려되 +ㄴ다는 29일 자동아일보 1, 8면 보도가 나가+ㄴ 뒤 문화체육관광부 공무원들이 보내+어오+ㄴ문자메시지의 일부 +이다 .	O O O O O ORG-B ORG-B O O O O O O O O O ORG-B O O O O O ORG-B O O O O O
+낙동강 옆 에 조성 중 인 대구 달성군 구지면 국가 산업 단지 . 10 일 이곳 에서 ‘ 국가 물 산업 클러스터 ’ ( KWC ) 착공식 이 열 렸 다 .	LOC-B O O O O O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O DAT-B DAT-I O O O ORG-B ORG-I ORG-I ORG-I O O ORG-B O O O O O O O
+그런 그녀 의 두 번째 소설 ‘ 가서 파수꾼 을 세 워라 ( Go Set a Watchman · 이하 파수꾼 ) ’ 가 55 년 만 인 다음 달 14 일 전 세계 에서 동시 출간되 면서 세계인 의 관심 이 뜨거워진 상태 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O
+성인 국가 대표 첫 경기 였 던 3 월 대만 전 에서 2 도움 , 10 월 북한 전 에서 1 득점 , 1 도움 을 기록 했 다 .	O O O O O O O DAT-B DAT-I ORG-B O O O O O DAT-B DAT-I ORG-B O O O O O O O O O O O O
+16 곡 의 뮤지컬 넘버 하나하나 가 까다롭 지만 가장 역동적 인 「 프롤로그 」 와 「 우리 는 제트 파 」 2 곡 이 무척 힘들 더군요 . 』	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 연구 위원 은 “ 이 시스템 으로 하수관 로 손상 으로 인한 지반 함몰 에 대비할 수 있 다 ” 며 “ 각 지방 자치 단체 에서 현장 조사 를 진행한 결과 를 모 아 데이터베이스 를 쌓 으면 지반 함몰 위험 도 평가 의 정확도 를 높일 수 있 을 것 으로 기대한다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 에 이번 맨 부커 상 수상 으로 그 아성 이 국내 에 만 머물 지 않 음 을 입증 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+이 글 은 비투비 새 앨범 ' Feel ’ eM ' 의 수록 곡 ' 빨리 뛰 어 ' 와 팝 가수 부르노 마스 의 ' That ' s what I like ' 를 비교해 놓 았 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O
+8 월 까지 18 경기 에 등판해 4 승 4 패 , 평균 자책점 4.64 에 그 쳤 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+유럽 이 세계 축구 의 중심 인 것 은 분명하 지만 ‘ 유럽 아니 면 안 된다 ’ 는 생각 은 바뀌 어야 한다 ” 고 밝 혔 다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
+반기문 유엔 사무총장 과 정운찬 전 총리 도 명예 회원 이 다 .	PER-B ORG-B O O PER-B O O O O O O O O
+검찰 은 체포 시한 ( 48 시간 ) 이 만료되 는 2 일 중 에 구속 영장 을 청구할 계획 이 다 .	O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+개혁파 지도자 후야오방 ( 胡耀邦 ) 전 총서기 의 노선 을 전면 비판하 며 그 의 실각 에 일조 했 다 .	O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+9 월 정식 개관 을 앞둔 국립아시아문화전당 ( 이하 전당 ) 이 부실한 준비 로 ‘ 예고된 재앙 ’ 이 우려된다는 29 일자 동아일보 1 , 8 면 보도 가 나간 뒤 문화 체육 관광부 공무원 들 이 보내 온 문자메시지 의 일부 다 .	DAT-B DAT-I O O O O ORG-B O O ORG-B O O O O O O O O O O O DAT-B O ORG-B O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O

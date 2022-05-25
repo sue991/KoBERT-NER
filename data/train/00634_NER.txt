@@ -1,10 +1,10 @@
-우리은행 위성우 감독은 슈팅가드 박혜진을 포인트가드로 돌리고, 포워드 임영희에게는 슈팅가드 역할까지 맡기+ㄹ 계획이다 .	ORG-B PER-B O O PER-B O O O PER-B O O O O O
-경희대의 구태회, 윤무부 교수, 제주대의 박행신 교수, 경남대의 민병윤 교수 등이 그의 제자들 .	ORG-B PER-B PER-B O ORG-B PER-B O LOC-B PER-B O O O O O
-복지부는 인상되 +ㄴ보험료를 재원으로 “항암제에 대하+ㄴ보험급여 확대 등 4대 중증질환 보장성 강화, 선택진료비, 상급병실료, 간병제 등 3대 비급여 개선, 70세 이상 노인 임플란트 및 틀리 보장 강화 등을 확대하+ㄹ 방침”이라고 밝히었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-신진창 금융위 중소금융과장은 “은행에 비하+여서는 저축은행 승인율이 아직 낮 기+ㄴ하지만 점차 상승하는 추세”+이라며 “현재 30곳이 +ㄴ 사잇돌 Ⅱ 대출 취급저축은행을 다음달부터 순차적으로 늘리+어가+ㄹ 계획”이라고 밝히었다 .	PER-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O
-가수 양수경이 ‘불타는 청춘’에서 그간 힘들었던 속내를 털어놓+아화제를 모으+ㄴ 가운데, ‘원조 디바’로 불리었던 양수경에 대하+ㄴ 관심이 집중되었다 .	O PER-B O O O O O O O O O O O PER-B O O O O
-앞서 양수경은 지나 +ㄴ 21일 방송되+ㄴ SBS 예능 프로그램 ‘불타는 청춘’에 새롭ㄴ 멤버로 합류하+여 그간 힘들 +ㄴ 시절을 겪으면서 “2년 정도 밥보다 술을 더 많이 마시었다”라고 말 하+여주위를 안타깝게 +였다 .	O PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-1965년생이+ㄴ 양수경은 2남 2녀 중 맏이로 태어나 +았다 .	O PER-B O O O O O O O
-일부 엄마는 “학교가 상위권 학생에게 상을 몰아주다”며 전교 1등이 받은 상개수를 세는 것+이 일과 +이다 .	O O O O O O O O O O O O O O O O
-“지나 +ㄴ 뉴욕 경선에서 퀸스는 저에게 크+ㄴ 승리를 주었어요 .	O O LOC-B O LOC-B O O O O O
-이날 수잔은 멤버들과 같이 밥을 먹는 도중 자신의 할머니에게 자신을 제외하고 "가장 잘 생기+ㄴ사람은 누구 이+ㄴ지를 뽑아달라"고 말하였다 .	O PER-B O O O O O O O O O O O O O O O O O
+우리은행 위성우 감독 은 슈팅 가드 박혜진 을 포인트 가드 로 돌리 고 , 포워드 임영희 에게 는 슈팅 가드 역할 까지 맡길 계획 이 다 .	ORG-B PER-B O O O O PER-B O O O O O O O O PER-B O O O O O O O O O O O
+경희대 의 구태회 , 윤무부 교수 , 제주대 의 박행신 교수 , 경남대 의 민병윤 교수 등 이 그 의 제자 들 .	ORG-B O PER-B O PER-B O O ORG-B O PER-B O O LOC-B O PER-B O O O O O O O O
+복지 부 는 인상된 보험료 를 재원 으로 “ 항암제 에 대한 보험 급여 확대 등 4 대 중증 질환 보장 성 강화 , 선택 진료비 , 상급 병실 료 , 간병 제 등 3 대 비 급여 개선 , 70 세 이상 노인 임플란트 및 틀리 보장 강화 등 을 확대할 방침 ” 이라고 밝 혔 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신진창 금융 위 중소 금융 과 장 은 “ 은행 에 비해서 는 저축은행 승인 율 이 아직 낮 긴 하 지만 점차 상승하 는 추세 ” 라며 “ 현재 30 곳 인 사 잇돌 Ⅱ 대출 취급 저축은행 을 다음 달 부터 순차적 으로 늘려 갈 계획 ” 이라고 밝 혔 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+가수 양수경 이 ‘ 불타는 청춘 ’ 에서 그간 힘들 었 던 속내 를 털어놔 화제 를 모은 가운데 , ‘ 원조 디바 ’ 로 불 렸 던 양수경 에 대한 관심 이 집중 됐 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
+앞서 양수경 은 지난 21 일 방송된 SBS 예능 프로그램 ‘ 불타는 청춘 ’ 에 새로 운 멤버 로 합류해 그간 힘든 시절 을 겪 으면서 “ 2 년 정도 밥 보다 술 을 더 많이 마 셨 다 ” 라고 말해 주위 를 안타깝 게 했 다 .	O PER-B O O DAT-B DAT-I O ORG-B O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+1965 년 생 인 양수경 은 2 남 2 녀 중 맏이 로 태어났 다 .	DAT-B DAT-I O O PER-B O O O O O O O O O O O
+일부 엄마 는 “ 학교 가 상위권 학생 에게 상 을 몰 아 준 다 ” 며 전교 1 등 이 받 은 상 개수 를 세 는 게 일과 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+“ 지난 뉴욕 경선 에서 퀸스 는 저 에게 큰 승리 를 주 었 어요 .	O O LOC-B O O LOC-B O O O O O O O O O O
+이날 수잔 은 멤버 들 과 같이 밥 을 먹 는 도중 자신 의 할머니 에게 자신 을 제외하 고 " 가장 잘생긴 사람 은 누구 인지 를 뽑 아 달 라 " 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

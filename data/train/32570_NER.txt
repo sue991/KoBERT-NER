@@ -1,13 +1,13 @@
-특히 지나 +ㄴ 방송에 출연하였던 조카 ‘유메’와 판박이로 시선을 집중시키었다 .	O O O O O O PER-B O O O O
-야노시호는 유치원 졸업사진을 보자마자 “아! 이렇+ㄹ 때가 있었지” +이라며 쑥스럽어 하는 동시에 “키 크지?이때부터 제일 뒷줄에서 +었어!” +이라며 특유의 해맑은 당당 하+ㅁ으로 기럭지를 자랑하+ 여웃음을 자아내 +었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
-이에 추성훈은 “유메가 팔다리도 길고, 시호랑 닮은 것 같아”라고 말하며 야노시호와 유메의 판박이 미모를 인정하였다 .	O PER-B PER-B O O PER-B O O O O PER-B PER-B O O O O
-그런데 반복하+여 이 정원을 찾으면서 한 가지 궁금증이 생기기 시작하였다 .	O O O O O O O O O O O
-아베의 방미 일정에 맞추+어 미국 오바마 행정부에 협상 전권을 주는 신속처리 권한 법안 논의가 가속도를 내고 있기 때문이다 .	PER-B O O O ORG-B PER-B O O O O O O O O O O O O O
-지난해 말 기준 국내 전기차의 등록대수는 2703대+이다 .	O O O O O O O O
-프랑스 대선 1차 투표(23일)가 일주일 앞으로 다가오+ㄴ 가운데 극우정당 국민전선의 마린 르펜 후보가 북대서양조약기구(NATO)에 대하+ㄴ 입장을 바꾸고 시리아 및 아프가니스탄 전 개입을 확대하+ㄴ도널드 트럼프 미국 대통령을 신랄하게 비판하였다 .	ORG-B O O O O O O O O ORG-B PER-B PER-I O ORG-B O O O O O O O O PER-B PER-I ORG-B O O O O
-세자의 이런 정견표출로 노론은 물론 부왕과도 사이가 불편하여 +지+었다 .	O O O ORG-B O O O O O O
-12월 첫째 주 주말 예정대로 개최되 +ㄹ .	O O O O O O O O
-과거 발언 재조 명 강레오셰프(39)가 최현석 셰프(43)를 디스+하였다는 논란을 해명하+ㄴ 가운데, 최현석이 집에서 요리를 잘 안 하+ㄴ다고 고백하+ㄴ 발언이 눈길을 모으았다 .	O O O O PER-B PER-B O O O O O PER-B O O O O O O O O O O
-그런 가운데 미­북 간의 최종 타결 분위기가 감지되 +ㄴ 것은 제네바의 장재룡 미주국장이 본부에 「중대 상황」을 보고 하+여오+ㄴ 18일 오전 7시(한국시각)쯤 .	O O ORG-B O O O O O O O LOC-B PER-B ORG-B O O O O O O O LOC-B O
-3개월 만에 40억원을 투자유치 하+였다 .	O O MNY-B O O O
-영상 속 김세정은 육상선수를 연상하게 하는 파워넘치는 자세와 함께 압도적 이+ㄴ 주력으로 다른 아이돌들과 차이를 벌리며 선두를 유지하고 있다 .	O O PER-B O O O O O O O O O O O O O O O O O
+특히 지난 방송 에 출연 했 던 조카 ‘ 유메 ’ 와 판박이 로 시선 을 집중 시 켰 다 .	O O O O O O O O O PER-B O O O O O O O O O O O
+야노 시호 는 유치원 졸업 사진 을 보 자마자 “ 아 ! 이럴 때 가 있 었 지 ” 라며 쑥스러 워 하 는 동시 에 “ 키 크 지 ? 이때 부터 제일 뒷줄 에 섰 어 ! ” 라며 특유 의 해맑 은 당당함 으로 기럭지 를 자랑해 웃음 을 자아냈 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 추성훈 은 “ 유메 가 팔 다리 도 길 고 , 시호 랑 닮 은 것 같 아 ” 라고 말하 며 야노 시 호 와 유메 의 판박이 미모 를 인정 했 다 .	O O PER-B O O PER-B O O O O O O O PER-B O O O O O O O O O O PER-B PER-I PER-I O PER-B O O O O O O O O
+그런데 반복해 이 정원 을 찾 으면서 한 가지 궁금증 이 생기 기 시작 했 다 .	O O O O O O O O O O O O O O O O O
+아베 의 방 미 일정 에 맞춰 미국 오바마 행정부 에 협상 전권 을 주 는 신속 처리 권한 법안 논의 가 가속도 를 내 고 있 기 때문 이 다 .	PER-B O O O O O O ORG-B PER-B O O O O O O O O O O O O O O O O O O O O O O O
+지난해 말 기준 국내 전기 차 의 등록 대수 는 2703 대 다 .	O O O O O O O O O O O O O O
+프랑스 대선 1 차 투표 ( 23 일 ) 가 일주일 앞 으로 다가온 가운데 극우 정당 국민 전선 의 마린 르펜 후보 가 북대서양조약기구 ( NATO ) 에 대한 입장 을 바꾸 고 시리아 및 아프가니스탄 전 개입 을 확대한 도널드 트럼프 미국 대통령 을 신랄하 게 비판 했 다 .	ORG-B O O O O O DAT-B DAT-I O O O O O O O O O ORG-B ORG-I O PER-B PER-I O O ORG-B O ORG-B O O O O O O O O O O O O O O PER-B PER-I ORG-B O O O O O O O O
+세자 의 이런 정견 표출 로 노론 은 물론 부왕 과 도 사이 가 불편해 졌 다 .	O O O O O O ORG-B O O O O O O O O O O O
+12 월 첫째 주 주말 예정 대로 개최될 듯	DAT-B DAT-I O O O O O O O
+과거 발언 재조명 강 레오 셰프 ( 39 ) 가 최현석 셰프 ( 43 ) 를 디스 했 다는 논란 을 해명한 가운데 , 최현석 이 집 에서 요리 를 잘 안 한다고 고백한 발언 이 눈길 을 모 았 다 .	O O O PER-B PER-I O O O O O PER-B O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O
+그런 가운데 미 ­ 북 간 의 최종 타결 분위기 가 감지된 것 은 제네바 의 장재룡 미주 국장 이 본부 에 「 중대 상황 」 을 보고해 온 18 일 오전 7 시 ( 한국 시각 ) 쯤 .	O O ORG-B ORG-I ORG-I O O O O O O O O O LOC-B O PER-B O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B O O O O
+3 개월 만 에 40 억 원 을 투자 유치 했 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O
+영상 속 김세정 은 육상 선수 를 연상 케 하 는 파워 넘치 는 자세 와 함께 압도적 인 주력 으로 다른 아이 돌 들 과 차이 를 벌리 며 선두 를 유지하 고 있 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

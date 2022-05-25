@@ -1,11 +1,11 @@
-현직 드라마 PD가 보는 박근혜와 길라임의 평행 이 .	O O O O PER-B PER-B O O O
-공동주택의 하자담보 책임과 관련 하+여 2012년 집합건물법이 개정되면서 새롭ㄴ 논란이 발생하고 있는 실정이다 .	O O O O O O O O O O O O O O
-60세 이후에는 보다 적극적으로 이들 비타민을 섭취하도록 하+ㄴ다 .	O O O O O O O O O
-이에 한혜진은 “아이고, 두 번은 못 보겠더라”며 너스레를 떨었다 .	O PER-B O O O O O O O O
-MC들은 “지금 영국에 있냐”고 묻었고 한혜진은 “지금 한국에 있다 .	O O LOC-B O O PER-B O LOC-B O O
-1등 당첨자 1명에게는 1억원에 달하는 금을, 2등 당첨자 20명에게는 각 1000만원 상당의 금을 증정하였다 .	MNY-B O MNY-B MNY-B O O O O O O MNY-B O O O O
-2007년 바다가 오랜만에 뮤지컬 무대로 돌아오며 택하+ㄴ 작품 역시 ‘노담’이었다 .	O PER-B O O O O O O O O O
-김재영 redfoot@d onga. com/뉴욕=부형권 특파원/신나리기 .	PER-B O O LOC-B PER-B O
-후순위채 3491억원을 빌리+어주고 연 36% 이자를 받고 있다 .	O MNY-B O O O O O O O
-화면에 잡히+ㄴ 두 사람의 모습은 마치 아침에 나가 +ㄹ 준비를 하는 부부의 모습처럼 보이 어묘 하+ㄴ 분위기를 자아내 +었다 .	O O O O O O O O O O O O O O O O O O O O
-매달 원리금 상환 부담액이 도시근로자 월소득의 20% 정도 이+ㄴ 90만원선이다 .	O O O O O O O O O MNY-B O
+현직 드라마 PD 가 보 는 박근혜 와 길라 임의 평행 이론	O O O O O O PER-B O PER-B O O O
+공동 주택 의 하자담보 책임 과 관련해 2012 년 집합 건물 법 이 개정되 면서 새로 운 논란 이 발생하 고 있 는 실정 이 다 .	O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+60 세 이후 에 는 보다 적극적 으로 이 들 비타민 을 섭취하 도록 한다 .	O O O O O O O O O O O O O O O O
+이 에 한혜진 은 “ 아이고 , 두 번 은 못 보 겠 더라 ” 며 너스레 를 떨 었 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O
+MC 들 은 “ 지금 영국 에 있 냐 ” 고 물 었 고 한혜진 은 “ 지금 한국 에 있 다 .	O O O O O LOC-B O O O O O O O O PER-B O O O LOC-B O O O O
+1 등 당첨자 1 명 에게 는 1 억 원 에 달하 는 금 을 , 2 등 당첨자 20 명 에게 는 각 1000 만 원 상당 의 금 을 증정 했 다 .	O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+2007 년 바다 가 오랜만 에 뮤지컬 무대 로 돌아오 며 택한 작품 역시 ‘ 노담 ’ 이 었 다 .	DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O
+김재영 redfoot @ donga . com / 뉴욕 = 부형 권 특파원 / 신나리 기자	PER-B O O O O O O LOC-B O PER-B PER-I O O PER-B O
+후 순위 채 3491 억 원 을 빌려 주 고 연 36 % 이자 를 받 고 있 다 .	O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+화면 에 잡힌 두 사람 의 모습 은 마치 아침 에 나갈 준비 를 하 는 부부 의 모습 처럼 보 여 묘한 분위기 를 자아냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+매달 원리금 상환 부담액 이 도시 근로자 월 소득 의 20 % 정도 인 90 만 원 선 이 다 .	O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O

@@ -1,14 +1,14 @@
-안씨는 93년 9월 4일 군사분계선을 넘어 한국군 초소에 잠복, 장비를 정찰하라는 명령을 받고 작전 중 탈출 하+여 한국에 귀순하였다 .	PER-B O O O LOC-B O ORG-B O O O O O O O O O O ORG-B O O
-엔씨소프트 문화재단(이사장 윤송이)은 한국어문기자협회(회장이승훈)와 업무협약을 맺고, 양 기관의 풍부하+ㄴ국어지식정보와 게임 개발 •서비스 능력을 활용하+여, 재미있는 방식으로 국어 실력을 높이 +ㄹ 수 있는 기능성게임을 만들기로 +였다고 9일 발표하였다 .	ORG-B ORG-I PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-LG유플러스는 임원으로부터 카드를 받은 사람이 입사를 원하+ㄹ 경우 별도의 전형과정 없이 바로 직원으로 채용 하+ㄹ 예정이다 .	ORG-B O O O O O O O O O O O O O O O O
-박보영·민아앞머리 헤어롤 닮은꼴 귀요미 “모든 것이 천원이+ㄴ 곳에서 사+았다 .	PER-B O O O O O MNY-B O O O
-양미라, 성형해명“눈은 안건드리었는데” …코는 .	PER-B O O O O
-중국은 사드 배치를 하면 반드시 보복을 +였을 터+이니 서두르지 않았어도, 미리 대비를 +였어도 상황은 크게 달라지지 않았을 것이다 .	ORG-B O O O O O O O O O O O O O O O O O O
-김우종 부인 김준호 협박, '우리는 정말로 다 같이 죽게 되+ㄹ 것'… 김우종 씨 행방 .	PER-B O PER-B O O O O O O O O PER-B O O O
-또 9월 4일부터 11월 8일까지 ‘아시아의 향기’ +이라는 주제로 제12회 공주국제미술제도 열 +ㄴ다 .	O O O O O O O O O O O O O O
-골프장 소속 캐디를 고용하는 전인지의 이번 우승에는 캐디의 도움도 +었다 .	O O O O PER-B O O O O O O
-“내가 죽더라도 굶는 아이 없어야” 30억 땅 기 .	O O O O O MNY-B O O O
-이는 금형 레이아웃(조립도)을 2D에 이용하여 빠르고 쉽게 만들고, 레이아웃과 연동되+ㄴ 3D 모델 생성으로 금형구조를 고려하+ㄴ 3D 설계까지 완성하+ㄹ 수 있는 제품이다 .	O O O O O O O O O O O O O O O O O O O O O O
-이들을 제외 하+ㄴ한미은행 김진만 전무, 하나은행 김승유 전무안명 수 상무 김경태 이사, 보람은행 이용호 김장옥이 우용성 천경상무, 장기신용은행 김명준 상무는 연임이 확정되었다 .	O O ORG-B PER-B O ORG-B PER-B O O O PER-B O ORG-B PER-B PER-B O O O PER-B O O O O
-가요 ‘고향이 좋아’에서는 타향은 정이 들어도 고향이 되+ㄹ 수 없다 +였지만 고향이 없으면 타향도 없다 .	O O O O O O O O O O O O O O O O
-송용호 한양대 교수는 “모바일 AP 시장 점유율 세계 2위 이+ㄴ 애플의 물량을 TSMC로부터 되찾아오는 것+이 삼성의 단기 숙제” +이라며 “메모리 반도체 분야에 치중 하+여 있던 삼성전자가 시스템반도체 제조경쟁력을 강화하+어나가는 것은 포트폴리오 측면에서 긍정적”이라고 평가하였다 .	PER-B ORG-B O O O O O O O O ORG-B O ORG-B O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O
+안 씨 는 93 년 9 월 4 일 군사 분계선 을 넘 어 한국 군 초소 에 잠복 , 장비 를 정찰하 라는 명령 을 받 고 작전 중 탈출해 한국 에 귀순 했 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I LOC-B LOC-I O O O ORG-B ORG-I O O O O O O O O O O O O O O O ORG-B O O O O O
+엔씨소프트 문화 재단 ( 이사장 윤송이 ) 은 한국 어문 기자 협회 ( 회장 이승훈 ) 와 업무 협약 을 맺 고 , 양 기관 의 풍부한 국어 지식 정보 와 게임 개발 • 서비스 능력 을 활용해 , 재미있 는 방식 으로 국어 실력 을 높일 수 있 는 기능 성 게임 을 만들 기 로 했 다고 9 일 발표 했 다 .	ORG-B ORG-I ORG-I O O PER-B O O ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O
+LG 유플러스 는 임원 으로부터 카드 를 받 은 사람 이 입사 를 원할 경우 별도 의 전형 과정 없이 바로 직원 으로 채용할 예정 이 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+박보영 · 민 아 앞머리 헤어 롤 닮은꼴 귀요 미 “ 모든 것 이 천 원 인 곳 에서 샀 다 ”	PER-B O PER-B PER-I O O O O O O O O O O MNY-B MNY-I O O O O O O
+양미라 , 성형 해명 “ 눈 은 안 건드 렸 는데 ” … 코 는 ?	PER-B O O O O O O O O O O O O O O O
+중국 은 사드 배치 를 하 면 반드시 보복 을 했 을 테 니 서두르 지 않 았 어도 , 미리 대비 를 했 어도 상황 은 크 게 달라지 지 않 았 을 것 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김우종 부인 김준호 협박 , ' 우리 는 정말로 다 같이 죽 게 될 것 ' … 김우종 씨 행방 은	PER-B O PER-B O O O O O O O O O O O O O O PER-B O O O
+또 9 월 4 일 부터 11 월 8 일 까지 ‘ 아시아 의 향기 ’ 라는 주제 로 제 12 회 공주 국제 미술 제 도 연다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+골프장 소속 캐디 를 고용하 는 전인지 의 이번 우승 에 는 캐디 의 도움 도 컸 다 .	O O O O O O PER-B O O O O O O O O O O O O
+“ 내 가 죽 더라도 굶 는 아이 없 어야 ” 30 억 땅 기부	O O O O O O O O O O O MNY-B MNY-I O O
+이 는 금형 레이아웃 ( 조립도 ) 을 2 D 에 이용하 여 빠르 고 쉽 게 만들 고 , 레이아웃 과 연동된 3 D 모델 생성 으로 금형 구조 를 고려한 3 D 설계 까지 완성할 수 있 는 제품 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 들 을 제외한 한미은행 김진만 전무 , 하나은행 김승유 전무 안명수 상무 김경태 이사 , 보람 은행 이용호 김장옥 이우용 성천경 상무 , 장기신용은행 김명준 상무 는 연임 이 확정 됐 다 .	O O O O ORG-B PER-B O O ORG-B PER-B O PER-B O PER-B O O ORG-B ORG-I PER-B PER-B PER-B PER-B O O PER-B PER-B O O O O O O O O
+가요 ‘ 고향 이 좋 아 ’ 에서 는 타향 은 정 이 들 어도 고향 이 될 수 없 다 했 지만 고향 이 없 으면 타향 도 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+송용호 한양대 교수 는 “ 모바일 AP 시장 점유율 세계 2 위 인 애플 의 물량 을 TSMC 로부터 되찾 아 오 는 게 삼성 의 단기 숙제 ” 라며 “ 메모리 반도체 분야 에 치중해 있 던 삼성전자 가 시스템 반도체 제조 경쟁력 을 강화해 나가 는 것 은 포트폴리오 측면 에서 긍정적 ” 이라고 평가 했 다 .	PER-B ORG-B O O O O O O O O O O O ORG-B O O O ORG-B O O O O O O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O

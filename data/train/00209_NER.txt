@@ -1,13 +1,13 @@
-이영여성벤처협회장은 "불이익, 실패 확률이 높은 곳에 가+아서 힘들고 싶지 않다는 마음으로 출전하지 않는 똑똑하+ㄴ 여성들이 있어 이들을 장려하고 싶다"라고 한 인터뷰에서 밝히+ㄴ바 있다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-작년 이맘때쯤 일본 히로시마에서 양성평등을 주제로 세계 경제포럼 산하의 글로벌 쉐이퍼가 진행하는 세미나에 참석하였었다 .	O O LOC-B LOC-B O O O O O O O O O O O
-김윤하 대중음악평론가는 “특정 가수의 광팬이 아니+ㄴ 일반 대중의 음반 구매가 얼마나 줄었는지를 보이어 주+ㄴ다”며 “CD 구입은 좋아하는 가수의 물건을 모으려는 ‘소장품’의 개념으로 바뀌는 모양새+이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-청계천에서 세운상가, 장충단 공원까지 걷으며 평생 한번도 안 가+아보+았던 도심의 골목길과 유적지, 조각품을 발견하는 즐거움도 쏠쏠하다 .	LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O
-훙레이(洪磊) 중국 외교부 대변인은 이날 정례브리핑에서 미국이 전날 B-52 전략폭격기를 한반도 상공에 진입시키+ㄴ데 대하+여 “절제하고 긴장 상황을 피하+ 여야 하+ㄴ다”며 “동북아의 평화 안정을 수호하는 것은 각국의 공동이익에 부합하+ㄴ다”고 말하였다 .	PER-B ORG-B ORG-I O O O ORG-B O O O LOC-B O O O O O O O O O LOC-B O O O O O O O O O
-“北, 외국 영화 보거나 외국인과 전화통화 하+ㄴ 주민까지 사형 .	ORG-B O O O O O O O O O
-이와쿠니는 자신의 글에서도 +었지만 「노(NO)라고 말 하+ㄹ 수 있는 지방」을 심으려고 노력하고 있다 .	PER-B O O O O O O O O O O O O O
-금융당국, 제2금융 금리 인하 유 .	O O O O O O
-수분을 빼앗기+어 어둡어 지+ㄴ 피부톤을 밝히+어주는 핑크 베이스와 루비, 진주, 다이아몬드 등 보석 성분이 함유되 +ㄴ 화이트 베이스가 얼굴을 투명하게 밝히+어광채 메이크업 연출을 돕는다 .	O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O
-두 사람의 생각이 쌍둥이 같았기에 가능하+ㄴ일이었다 .	O O O O O O O
-속내는 미국을 중심으로 셰일가스·오일의 생산이 늘고 있어서 +이다 .	O ORG-B O O O O O O O
-개인 통산금 23·은 3·동 2개 등 총 28개의 메달을 목에 것+ㄴ그는 올림픽 개인 최 .	O O O O O O O O O O O O O O O
-배우 판영진-연극배우 김운하 사망에 예술계 ‘충격’ … 출연작 다시 보니? 팬들 ‘울컥 .	O PER-B PER-B O O O O O O O O O O
+이영 여성 벤처 협회 장 은 " 불이익 , 실패 확률 이 높 은 곳 에 가서 힘들 고 싶 지 않 다는 마음 으로 출전하 지 않 는 똑똑한 여성 들 이 있 어 이 들 을 장려하 고 싶 다 " 라고 한 인터뷰 에서 밝힌 바 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+작년 이맘때 쯤 일본 히로시마 에서 양성 평등 을 주제 로 세계경제 포럼 산하 의 글로벌 쉐이퍼 가 진행하 는 세미나 에 참석 했었 다 .	O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O
+김윤하 대중음악 평론가 는 “ 특정 가수 의 광 팬 이 아닌 일반 대중 의 음반 구매 가 얼마나 줄 었 는지 를 보 여 준다 ” 며 “ CD 구입 은 좋아하 는 가수 의 물건 을 모으 려는 ‘ 소장품 ’ 의 개념 으로 바뀌 는 모양새 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+청계천 에서 세운상가 , 장충단 공원 까지 걸 으며 평생 한 번 도 안 가 봤 던 도심 의 골목길 과 유적지 , 조각품 을 발견하 는 즐거움 도 쏠쏠하 다 .	LOC-B O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+훙레이 ( 洪磊 ) 중국 외교부 대변인 은 이날 정례 브리핑 에서 미국 이 전날 B - 52 전략 폭격기 를 한반도 상공 에 진입 시킨 데 대해 “ 절제하 고 긴장 상황 을 피해야 한다 ” 며 “ 동북아 의 평화 안정 을 수호하 는 것 은 각국 의 공동 이익 에 부합한다 ” 고 말 했 다 .	PER-B O PER-B O ORG-B ORG-I O O O O O O ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O
+“ 北 , 외국 영화 보 거나 외국인 과 전화 통화한 주민 까지 사형 ”	O ORG-B O O O O O O O O O O O O O
+이와쿠니 는 자신 의 글 에서 도 썼 지만 「 노 ( NO ) 라고 말할 수 있 는 지방 」 을 심 으려고 노력하 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+금융 당국 , 제 2 금융 금리 인하 유도	O O O O O O O O O
+수분 을 빼앗겨 어두 워 진 피부 톤 을 밝혀 주 는 핑크 베이스 와 루비 , 진주 , 다이아몬드 등 보석 성분 이 함유된 화이트 베이스 가 얼굴 을 투명하 게 밝혀 광채 메이크업 연출 을 돕 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O
+두 사람 의 생각 이 쌍둥이 같 았 기에 가능한 일 이 었 다 .	O O O O O O O O O O O O O O O
+속내 는 미국 을 중심 으로 셰일 가스 · 오일 의 생산 이 늘 고 있 어서 다 .	O O ORG-B O O O O O O O O O O O O O O O O
+개인 통산 금 23 · 은 3 · 동 2 개 등 총 28 개 의 메달 을 목 에 건 그 는 올림픽 개인 최다	O O O O O O O O O O O O O O O O O O O O O O O O O O
+배우 판영진 - 연극배우 김운하 사망 에 예술계 ‘ 충격 ’ … 출연 작 다시 보 니 ? 팬 들 ‘ 울컥 ’	O PER-B O O PER-B O O O O O O O O O O O O O O O O O O

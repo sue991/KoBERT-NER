@@ -1,10 +1,10 @@
-한식당에서 음식 조리에 사용되는 식재료의 7.5%가 음식물 쓰레기로 아깝게 버려지는 것으로 조사되었다 .	O O O O O O O O O O O O O
-전반 전북 현대 김진수가 프리킥으로 선취골을 성공시키+ㄴ후 팬들을 향하+여하트 세리머니를 하고 있다 .	O ORG-B ORG-I PER-B O O O O O O O O O
-올해 온 도탑 눈금이 100도를 넘기었는지는 모금 액수가 최종 집계되는 1일 오전 10시 이후 온라인 중앙일보에서 확인 하+ㄹ 수 있습니다 .	O O O O O O O O O O O O O O O O O O O O O
-앞으로 망우역사문화공원을 중랑캠핑 숲과 연계하여 청소년을 위하+ㄴ인성교육장으로 활용하였으면 하+ㄴ다 .	O LOC-B O O O O O O O O
-하지만 감사원에 내+ㄴ 심사청구가 기각되었고, 장학재단의 재산과 계좌가압류되었다 .	O ORG-B O O O ORG-B O O O
-18일 현재 고객예탁금은 전날보다 3백97억원 늘어나 +ㄴ 3조6천6백8억원 .	MNY-I O O O MNY-B O O MNY-B O
-오는 7월 이후 출발 상품부터 배정되+ㄹ 예정이며 인천공항과 김포공항에서 출발하는 상품에 한하여 인솔하게 되+ㄴ다 .	O O O O O O O LOC-B LOC-B O O O O O O
-상·하위스플릿의 구분점이 되는 6위 싸움도 매우 치열하여 +지+었다 .	O O O O O O O O O
-택시 트렁크에 현금 100만원이 있었지만 황씨 등은 택시에서 현금 6000원 밖에 찾지 못하였다 .	O O O MNY-B MNY-I PER-B O O O MNY-B O O O O
-이 모임을 이끌는 이장희 한국외대 명예교수는 "단순히 탄핵만을 요구하+ㄹ 것+이 아니라 현 정권의 퇴진 이후 이루어 지+어야 하+ㄹ 개혁과제들을 제시하+여 다음 정권에도 잇어가도록 하+여야 하+ㄴ다"고 말하였다 .	O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O
+한 식당 에서 음식 조리 에 사용되 는 식 재료 의 7.5 % 가 음식물 쓰레기 로 아깝 게 버려지 는 것 으로 조사 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전반 전북 현대 김진수 가 프리킥 으로 선취 골 을 성공 시킨 후 팬 들 을 향해 하트 세리머니 를 하 고 있 다 .	O ORG-B ORG-I PER-B O O O O O O O O O O O O O O O O O O O O O
+올해 온도 탑 눈금 이 100 도 를 넘 겼 는지 는 모금 액수 가 최종 집계되 는 1 일 오전 10 시 이후 온라인 중앙일보 에서 확인할 수 있 습니다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O O O O O O O O O
+앞 으로 망우 역사 문화 공원 을 중랑 캠핑 숲 과 연계하 여 청소년 을 위한 인성 교육 장 으로 활용하 였 으면 한다 .	O O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O O O O
+하지만 감사원 에 낸 심사 청구 가 기각 됐 고 , 장학 재단 의 재산 과 계좌 가 압류 됐 다 .	O ORG-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O
+18 일 현재 고객 예탁 금 은 전날 보다 3 백 97 억 원 늘어난 3 조 6 천 6 백 8 억 원 .	DAT-B DAT-I O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O
+오 는 7 월 이후 출발 상품 부터 배정될 예정 이 며 인천공항 과 김포공항 에서 출발하 는 상품 에 한하 여 인솔하 게 된다 .	O O DAT-B DAT-I O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O
+상 · 하위 스플릿 의 구분 점 이 되 는 6 위 싸움 도 매우 치열해 졌 다 .	O O O O O O O O O O O O O O O O O O O
+택시 트렁크 에 현금 100 만 원 이 있 었 지만 황 씨 등 은 택시 에서 현금 6000 원 밖 에 찾 지 못 했 다 .	O O O O MNY-B MNY-I MNY-I O O O O PER-B O O O O O O MNY-B MNY-I O O O O O O O O
+이 모임 을 이끄 는 이장희 한국외대 명예교수 는 " 단순히 탄핵 만 을 요구할 게 아니 라 현 정권 의 퇴진 이후 이뤄져야 할 개혁 과제 들 을 제시해 다음 정권 에 도 이 어 가 도록 해야 한다 " 고 말 했 다 .	O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

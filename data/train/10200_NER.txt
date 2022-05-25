@@ -1,13 +1,13 @@
-현재 홍콩·대만·싱가포르에서 서비스를 하고 있고, 한국과 중국·일본·호주·베트남 등에도 진출을 준비 중이다 .	O ORG-B O O O ORG-B ORG-B O O O O O
-이와 함께 제주도에 중국 기업이 인수하+ㄴ 호텔 체인이 들어서고 있다 .	O O LOC-B ORG-B O O O O O O O
-해외에서 +ㄴ이보다 낮은 10마일(약 16㎞/h)을 기준으로 삼기도 하+ㄴ다 .	O O O O O O O O O
-셤 소장은 어리+ㄴ 시절이 생각나 +았던 지송군에게 조언을 +였다 .	PER-B O O O O O PER-B O O O
-유니클로는 세계적 이+ㄴ 섬유회사들과 협업하였다 .	ORG-B O O O O O
-곧바로 류승우가 한 골을 더 터트리+어 4득점째를 올리며 피지는 더 이상 밀집 수비를 펼치+ㄹ 수 없게 +었다 .	O PER-B O O O O O O O O O O O O O O O O
-CJ제일제당의 ‘햇반 슈퍼곡물 렌틸콩 밥’과 ‘햇반 슈퍼곡물 퀴노아밥’은 슈퍼 식품이+ㄴ 렌틸콩과 퀴노아를 넣어 편리하+ㅁ뿐 아니라 건강까지 챙기었다 .	ORG-B O O O O O O O O O O O O O O O O O
-여기에 최근에는 정부에서 양주신도시 내 교통개발사업들을 발표하면서 교통수혜까지 받고 있다 .	O O O LOC-B O O O O O O O
-옌스 스톨텐베르그나토 사무총장은 이날 벨기에 브뤼셀에서 열리+ㄴ나토 국방장관회의에서 “나토 신속대응군 규모를 1만3000명에서 3만명으로 증원하는 방안과 5000명 규모의 초신속 합동군부대 창설 방안에 대하+ㄴ 합의가 이루어 지+ㄹ 것”이라고 밝히었다 .	PER-B ORG-B O O LOC-B LOC-B ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O
-김 이사장은 또 『가족들도 이 결정에 동의하였으며 학교의 새롭ㄴ 출발을 위하 +ㄴ이전 계획을 발표하는 뜻 깊은 자리를 빌리+어이를 밝히+ㄴ 다』고 덧붙이었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-22일 문화재청과 경주에 따르면 시는 지난해 3월 역사문화관 나+의 경계석축공사와 관련 하+여조경 전문가들에게 자문하였다 .	O ORG-B ORG-B O O O O O O O O O O O O
-시는 도시재생의 선도사업 27곳을 지정 하+여 2018년까지 1조3349억원을 투입하+ㄴ다 .	O O O O O O MNY-B MNY-B O O
-이에 예원의 ‘욕설 논란’에 광희의 식스맨 반대 서명이 맞물리는 상황이다 .	O PER-B O O PER-B O O O O O O
+현재 홍콩 · 대만 · 싱가포르 에서 서비스 를 하 고 있 고 , 한국 과 중국 · 일본 · 호주 · 베트남 등 에 도 진출 을 준비 중 이 다 .	O ORG-B O ORG-B O ORG-B O O O O O O O O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O
+이 와 함께 제주도 에 중국 기업 이 인수한 호텔 체인 이 들어서 고 있 다 .	O O O LOC-B O ORG-B O O O O O O O O O O O
+해외 에선 이 보다 낮 은 10 마일 ( 약 16 ㎞ / h ) 을 기준 으로 삼 기 도 한다 .	O O O O O O O O O O O O O O O O O O O O O O O
+셤 소장 은 어린 시절 이 생각났 던지 송 군 에게 조언 을 했 다 .	PER-B O O O O O O O PER-B O O O O O O O
+유니클로 는 세계적 인 섬유 회사 들 과 협업 했 다 .	ORG-B O O O O O O O O O O O
+곧바로 류승우 가 한 골 을 더 터트려 4 득점 째 를 올리 며 피 지 는 더 이상 밀집 수비 를 펼칠 수 없 게 됐 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+CJ 제일제당 의 ‘ 햇반 슈퍼 곡물 렌틸콩밥 ’ 과 ‘ 햇반 슈퍼 곡물 퀴노아밥 ’ 은 슈퍼 식품 인 렌틸콩 과 퀴 노아 를 넣 어 편리함 뿐 아니 라 건강 까지 챙 겼 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 에 최근 에 는 정부 에서 양주 신도시 내 교통 개발 사업 들 을 발표하 면서 교통 수혜 까지 받 고 있 다 .	O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O
+옌스 스톨 텐 베르그 나토 사무총장 은 이날 벨기에 브뤼셀 에서 열린 나토 국방 장관 회의 에서 “ 나토 신속 대응 군 규모 를 1 만 3000 명 에서 3 만 명 으로 증원하 는 방안 과 5000 명 규모 의 초 신속 합동 군 부대 창설 방안 에 대한 합의 가 이뤄질 것 ” 이라고 밝 혔 다 .	PER-B PER-I PER-I PER-I ORG-B O O O LOC-B LOC-B O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김 이사장 은 또 『 가족 들 도 이 결정 에 동의 했 으며 학교 의 새로 운 출발 을 위한 이전 계획 을 발표하 는 뜻깊 은 자리 를 빌려 이 를 밝힌다 』 고 덧붙 였 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+22 일 문화재청 과 경주시 에 따르 면 시 는 지난해 3 월 역사 문화 관 내 경계 석축 공사 와 관련해 조경 전문가 들 에게 자문 했 다 .	DAT-B DAT-I ORG-B O ORG-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+시 는 도시 재생 의 선도 사업 27 곳 을 지정해 2018 년 까지 1 조 3349 억 원 을 투입한다 .	O O O O O O O O O O O DAT-B DAT-I O MNY-B MNY-I MNY-I MNY-I MNY-I O O O
+이 에 예원 의 ‘ 욕설 논란 ’ 에 광희 의 식스 맨 반대 서명 이 맞물리 는 상황 이 다 .	O O PER-B O O O O O O PER-B O O O O O O O O O O O O

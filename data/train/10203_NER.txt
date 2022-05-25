@@ -1,14 +1,14 @@
-벨기에 브뤼셀 공항에서 21일(현지시간) 원인 불명의 연쇄 폭발사고가 발생하였다 .	LOC-B LOC-B LOC-I O O O O O O O
-이에 나가미+이네 대사는 “한국에 있는 대사관 직원들과 함께 바로 판단 하+ㄹ문제가 많이 있다 .	O PER-B O LOC-B O O O O O O O O O O
-아베 총리와 부인 아키에 여사는 30일까지 워싱턴에 머물는 동안 백악관 영빈관이 +ㄴ블레어 하우스에 머물+ㄴ다 .	PER-B O O PER-B O O LOC-B O O LOC-B O LOC-B LOC-I O O
-‘크라임씬 PD살인사건’은 실제와 가상을 오가는 페이크 다큐 형식으로 진행되+ㄴ다 .	O O O O O O O O O O
-‘해노랑’은 태양과 바다를 동시에 뜻하는 ‘해’와 주재료 이+ㄴ 속 노랑고구마에서 따오았다 .	O O O O O O O O O O O O
-이청용을 대신 하+여 측면 공격을 맡은 이재성은 공격 첨병 역할을 소화하였다 .	PER-B O O O O O PER-B O O O O O
-IS 테러리스 트리샤위 .	ORG-B PER-B PER-B O
-“9800원 이상 주문에만 자체 배달 서비스 .	MNY-B O O O O O O
-코스피와 코스닥지수 같은 시장 대표지수는 일부 종목으로 인하+ㄴ 이상 현상까지 포함하+ 여야 하+ㄴ다는 것이다 .	O O O O O O O O O O O O O O O
-중국 진출 후 1년이 채 되지 않은 기간에 주인공 자리를 잇달아 꿰차며 대륙에 안착하는 분위기+이다 .	ORG-B O O O O O O O O O O O O O O O
-10대가 출소녀 11명 유인… 숙박대가로 성매매 강 .	O O O O O O O O
-이는 제2공항 호재를 바탕으로 외지인들과 중국인 등 다수의 투자자들이 유입되었기 때문으로 풀이되 +ㄴ다 .	O O O O O O O O O O O O O O
-미군 주도연합군이 이번에 +ㄴ 시리아에서 오폭을 수행하+여 이슬람 테러단체 격퇴에 협력하는 반군 등 18명을 숨지게 +였다 .	ORG-B O O O ORG-B O O O O O O O O O O O O
-미중 부사령부는 13일(현지시간) 성명을 내고 “해당 공습은 이슬람 국가(IS)의 진지 위치를 파악하+ㄴ 동맹군의 요청을 받은 결과 +이다”며 이같이 밝히었다 .	ORG-B ORG-I O O O O O ORG-B ORG-B O O O O O O O O O O O
+벨기에 브뤼셀 공항 에서 21 일 ( 현지 시간 ) 원인 불명 의 연쇄 폭발 사고 가 발생 했 다 .	LOC-B LOC-B LOC-I O DAT-B DAT-I O O O O O O O O O O O O O O O
+이 에 나가 미 네 대사 는 “ 한국 에 있 는 대사관 직원 들 과 함께 바로 판단할 문제 가 많이 있 다 .	O O PER-B PER-I PER-I O O O LOC-B O O O O O O O O O O O O O O O O
+아베 총리 와 부인 아키에 여사 는 30 일 까지 워싱턴 에 머무 는 동안 백악관 영빈관 인 블레어 하우스 에 머문다 .	PER-B O O O PER-B O O DAT-B DAT-I O LOC-B O O O O LOC-B O O LOC-B LOC-I O O O
+‘ 크라임 씬 PD 살인 사건 ’ 은 실제 와 가상 을 오가 는 페이크 다큐 형식 으로 진행된다 .	O O O O O O O O O O O O O O O O O O O O
+‘ 해 노랑 ’ 은 태양 과 바다 를 동시 에 뜻하 는 ‘ 해 ’ 와 주재료 인 속 노랑 고구마 에서 따 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이청용 을 대신해 측면 공격 을 맡 은 이재성 은 공격 첨병 역할 을 소화 했 다 .	PER-B O O O O O O O PER-B O O O O O O O O O
+IS 테러리스트 리 샤위 는	ORG-B O PER-B PER-I O
+“ 9800 원 이상 주문 에 만 자체 배달 서비스 ”	O MNY-B MNY-I O O O O O O O O
+코스피 와 코스닥 지수 같 은 시장 대표 지수 는 일부 종목 으로 인한 이상 현상 까지 포함해야 한다는 것 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O
+중국 진출 후 1 년 이 채 되 지 않 은 기간 에 주인공 자리 를 잇달 아 꿰차 며 대륙 에 안착하 는 분위기 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+10 대 가출 소녀 11 명 유인 … 숙박 대가 로 성 매매 강요	O O O O O O O O O O O O O O
+이 는 제 2 공항 호재 를 바탕 으로 외지인 들 과 중국인 등 다수 의 투자자 들 이 유입 됐 기 때문 으로 풀이된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+미군 주도 연합군 이 이번 엔 시리아 에서 오폭 을 수행해 이슬람 테러 단체 격퇴 에 협력하 는 반군 등 18 명 을 숨지 게 했 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O
+미 중부 사령부 는 13 일 ( 현지 시간 ) 성명 을 내 고 “ 해당 공습 은 이슬람 국가 ( IS ) 의 진지 위치 를 파악한 동맹군 의 요청 을 받 은 결과 다 ” 며 이같이 밝 혔 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O ORG-B ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O

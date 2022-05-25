@@ -1,17 +1,17 @@
-지난해 말 기준으로 강남의 유흥업소 숫자는 서울시내 25개 자치구 중에서 가장 많았다 .	O O O LOC-B O O LOC-B O O O O O O
-관세청은 올해 무역금융사기, 재산 빼돌리기 등에 대하+ㄴ 특별단속을 벌이어 5353억원 규모의 외환범죄를 적발하였다고 14일 밝히었다 .	ORG-B O O O O O O O O MNY-B O O O O O O
-성동일 "김성령, 이민호와 작품하는 것+ㄴ과 유불급"… 무슨 말 .	PER-B PER-B PER-B O O O O O O
-이 학원의 어퍼 Upper 레벨반(중학생 대상)은 1차 수업(12월 19일~12월 31일)이 벌써 마감되었고, 2차 수업(2017년 1월 2일~2월 10일)을 접수하고 있다 .	O O O O O O O O O O O O O O O O O O O O
-「북핵 대응」/양국 접근방식 무엇이 다르+ㄴ .	O O O O O O
-단순 비례로 계산하+여 WAR 55.8이 타율 0.300이라면 WAR 43.8은 타율 0.235이+ㅂ니다 .	O O O O O O O O O O O O
-동아대 관계자는 “겉치레를 빼자는 한 총장의 뜻에 따르+ㄴ 것”이라고 설명하였다 .	ORG-B O O O O O O O O O O
-한 총장(63)은 서울대 국문과를 졸업 하+ㄴ 뒤 미국 볼스테이트 대학 사회학 석사, 미국 시카고대 학 사회학 박사를 취득하였다 .	PER-B O ORG-B ORG-I O O O ORG-B ORG-I ORG-I O O ORG-B ORG-I O O O O O
-[연예뉴스스테이션] 방심위, tvN ‘꽃보다 청춘-아프리카’ 편심 .	O ORG-B ORG-B O O O O
-그런 점에서 『 환경오염은 국민의 책임이 더 크다』고 답변 하+ㄴ사람이 조사 대상자의 7할에 이르+ㄴ다는 한 여론조사 결과는 고무적이다 .	O O O O O O O O O O O O O O O O O O O
-올해 18회째를 맞은 지평선축제는 지난해까지 4년간 문화체육관광부가 선정하+ㄴ 대한민국 대표축제+이다 .	O O O O O O ORG-B O ORG-B O O
-같은 기간 전주 세계소리축제가 한국소리문화의전당에서 열리+ㄴ다 .	O O O O LOC-B O O
-관계당국이 당면 과제를 해결하고, 상황을 통제하며, 한반도 비핵화와 평화체제 구축을 목표로 새롭ㄴ 노력을 마련하 +ㄹ 기회를 잡기 +ㄹ 희망하+ㄴ다”고 말하였다 .	O O O O O O LOC-B O O O O O O O O O O O O O O
-리 부상은 이번 베이징 방문에서류전민(劉振民) 중국 외교부 부부장을 비롯하+여쿵쉬안 유(孔鉉佑) 외교부 부장조리와 회동하였다 .	PER-B ORG-I O LOC-B PER-B ORG-B ORG-B ORG-I O PER-B ORG-B ORG-I O O
-직원 10여명은 모두 일어서 +ㄴ 채+이었다 .	O O O O O O O
-공항철도가 16일 정(情)을 싣고 달리었다 .	O O O O O O
-필리핀서 50대 교민, 자택 서잠자던 중 에 피살...금품 훔치+어달아나 필리핀서 50대 한국인 교민이 무장 괴한의 총격으로 숨지었다 .	LOC-B O O O O O O O O LOC-B O O O O O O O O
+지난해 말 기준 으로 강남 의 유흥업소 숫자 는 서울 시내 25 개 자치구 중 에서 가장 많 았 다 .	O O O O LOC-B O O O O LOC-B O O O O O O O O O O O
+관세청 은 올해 무역 금융 사기 , 재산 빼돌리 기 등 에 대한 특별 단속 을 벌 여 5353 억 원 규모 의 외환 범죄 를 적발 했 다고 14 일 밝 혔 다 .	ORG-B O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O DAT-B DAT-I O O O O
+성동일 " 김성령 , 이민호 와 작품 하 는 건 과유불급 " … 무슨 말 ?	PER-B O PER-B O PER-B O O O O O O O O O O O
+이 학원 의 어 퍼 Upper 레벨 반 ( 중학생 대상 ) 은 1 차 수업 ( 12 월 19 일 ~ 12 월 31 일 ) 이 벌써 마감되 었 고 , 2 차 수업 ( 2017 년 1 월 2 일 ~ 2 월 10 일 ) 을 접수하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+「 북 핵 대응 」 / 양국 접근 방식 무엇 이 다른가	O O O O O O O O O O O O
+단순 비례 로 계산해 WAR 55.8 이 타율 0.300 이 라면 WAR 43.8 은 타율 0.235 입니다 .	O O O O O O O O O O O O O O O O O O
+동아대 관계자 는 “ 겉치레 를 빼 자는 한 총장 의 뜻 에 따른 것 ” 이라고 설명 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+한 총장 ( 63 ) 은 서울대 국문 과 를 졸업한 뒤 미국 볼 스테이트 대학 사회학 석사 , 미국 시카고 대학 사회학 박사 를 취득 했 다 .	PER-B O O O O O ORG-B ORG-I ORG-I O O O ORG-B ORG-I ORG-I ORG-I O O O ORG-B ORG-I ORG-I O O O O O O O
+[ 연예 뉴스 스테이션 ] 방심위 , tvN ‘ 꽃 보다 청춘 - 아프리카 ’ 편 심의	O O O O O ORG-B O ORG-B O O O O O O O O O
+그런 점 에서 『 환경오염 은 국민 의 책임 이 더 크 다 』 고 답변한 사람 이 조사 대상자 의 7 할 에 이른다는 한 여론 조사 결과 는 고무적 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+올해 18 회 째 를 맞 은 지평선 축제 는 지난해 까지 4 년 간 문화 체육 관광부 가 선정한 대한민국 대표 축제 다 .	O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O ORG-B O O O O
+같 은 기간 전주 세계 소리 축제 가 한국 소리 문화 의 전당 에서 열린다 .	O O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I O O O
+관계 당국 이 당면 과제 를 해결하 고 , 상황 을 통제하 며 , 한반도 비 핵 화 와 평화 체제 구축 을 목표 로 새로 운 노력 을 마련할 기회 를 잡 길 희망한다 ” 고 말 했 다 .	O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+리 부상 은 이번 베이징 방문 에서 류 전민 ( 劉振民 ) 중국 외교부 부 부장 을 비롯해 쿵쉬안유 ( 孔鉉佑 ) 외교 부 부장 조리 와 회동 했 다 .	PER-B O O O LOC-B O O PER-B PER-I O PER-B O ORG-B ORG-I O O O O PER-B O PER-B O ORG-B ORG-I O O O O O O O
+직원 10 여 명 은 모두 일어선 채 였 다 .	O O O O O O O O O O O
+공항 철도 가 16 일 정 ( 情 ) 을 싣 고 달 렸 다 .	O O O DAT-B DAT-I O O O O O O O O O O O
+필리핀 서 50 대 교민 , 자택 서 잠 자 던 중 에 피살 . . . 금품 훔쳐 달아나 필리핀 서 50 대 한국인 교민 이 무장 괴한 의 총격 으로 숨 졌 다 .	LOC-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O

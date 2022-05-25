@@ -1,13 +1,13 @@
-한국팀은 지나 +ㄴ 19일 오후 7시 일본 도쿄돔에서 열리+ㄴ 2015세계 야구 소프트볼연맹(WBSC) 프리미어 12일 본과 4강전에서 9회 초대 거 4득점하며 4-3역전승을 거두고 결승에 오르았다 .	ORG-B O O O O O ORG-B LOC-I O ORG-B ORG-I ORG-B O O O O O O O O O O O O O
-일본 팀 투수 오타니 쇼헤이는 이날 7이닝 동안 85개의 공을 던지+어1피안타 11탈삼 진무실점을 기록하였다 .	ORG-B ORG-I O PER-B PER-I O O O O O O O O O O
-14일 오전 10시40분쯤 충북 영동군 황간면 금계리 경부고속도로 상행선(서울기점 1백96.8㎞ 지점)에서 노인관광객들을 태우+ㄴ경남 6그 1508호 자가용버스(운전사 변기식·34·경남 창원시의 안동)가 빗길에 미끄러지면서 14m 아래 논바닥으로 구르어떨어지었다 .	O O O LOC-B LOC-B LOC-B LOC-B LOC-B LOC-B O O O LOC-B O O O LOC-B LOC-B LOC-I O O O O O O O
-2010년 서울대·부산대·경북대 등 7개국·공립대 학생 4천여명은 국가와 대학 기성회를 상대로 기성회비의 법적 근거가 없다며 반환 소송을 제기하였고, 2013년 11월 기성회비 징수가 부당하다는 항소심 판결이 나오았다 .	O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-금호고속은 지나 +ㄴ 18일부터 광주 유스퀘어와 강진군을 오가는 ‘강진오 감통통투어버스’를 운행 중이다 .	ORG-B O O O LOC-B LOC-I LOC-B O O O O O O
-포켓몬고는 지난해 7월 미국 등에서 출시되+ㄴ지 6개월 만에 한국에서도 출시되는 것이다 .	O O O LOC-B O O O O LOC-B O O O
-7호 골기성용 ‘왼발의 비밀 .	O PER-B O O O
-임창용 측은 “경기에 나서 +ㄹ 수 없어 훈련만 가능하다 .	PER-B O O O O O O O O O
-지나+ㄴ 2015년부터 3년간 세이프스쿨 지원사업이 진행되 +ㄴ 인도네시아 누사텡가+이라티모르주(州)는 인도네시아에서도 재해가 가장 많이 발생하는 지역 중 하나이+ㄴ 것으로 알려지었다 .	O O O O O O O LOC-B LOC-B LOC-B O O O O O O O O O O
-비중이 가장 크+ㄴ달러화 예금은 59억8000만달러 급증 하+ 여사상 최대 월간 증가폭을 기록하였고 달러화 예금 잔액도 494억5000만달러로 사상 최고+이었다 .	O O O O MNY-B O O O O O O O O O O MNY-B O O O
-공혈견 문제제기에 공혈사업 사실상 중단 서울대 동물병원·백산동 물병원 등 헌혈 프로그램 가동 '생명이 중요..관심을 '하정우 감독·주연의 영화 허삼관을 보면 어렵었던 시절의 매혈이야기가 나 오+ㄴ다 .	O O O O ORG-B ORG-I ORG-B ORG-I O O O O O O PER-B O O O O O O O O O O
-합계 10언더파 278타를 치+어 한국계 미국인 엘리슨리와 동타를 이루+ㄴ 뒤, 연장 첫 번째 홀에서 버디를 잡아 우승하였다 .	O O O O O O PER-B O O O O O O O O O O O
-잡스의 친구조니 아이브는 잡스한테 ‘왜 그렇게 모질게 굴는지’ 물어보았다고 하+ㅂ니다 .	PER-B PER-B PER-I PER-B O O O O O O O
+한국 팀 은 지난 19 일 오후 7 시 일본 도쿄돔 에서 열린 2015 세계 야구 소프트볼 연맹 ( WBSC ) 프리미어 12 일본 과 4 강 전 에서 9 회 초 대거 4 득점하 며 4 - 3 역전승 을 거두 고 결승 에 올 랐 다 .	ORG-B ORG-I O O DAT-B DAT-I TIM-B TIM-I TIM-I LOC-B LOC-I O O DAT-B ORG-B ORG-I ORG-I ORG-I O ORG-B O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 팀 투수 오타니 쇼헤이 는 이날 7 이닝 동안 85 개 의 공 을 던져 1 피 안타 11 탈 삼진 무실점 을 기록 했 다 .	ORG-B ORG-I O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O
+14 일 오전 10 시 40 분 쯤 충북 영동군 황간면 금계리 경부고속도로 상행선 ( 서울 기점 1 백 96.8 ㎞ 지점 ) 에서 노인 관광객 들 을 태운 경남 6 그 1508 호 자가용 버스 ( 운전사 변기식 · 34 · 경남 창원시 의안 동 ) 가 빗길 에 미끄러지 면서 14 m 아래 논바닥 으로 굴 러 떨어 졌 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B LOC-B LOC-B O O LOC-B O O O O O O O O O O O O O O O O O O O O O O PER-B O O O LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O O O O O O O O
+2010 년 서울대 · 부산대 · 경북대 등 7 개 국 · 공립 대 학생 4 천 여 명 은 국가 와 대학 기성회 를 상대 로 기성회비 의 법적 근거 가 없 다며 반환 소송 을 제기 했 고 , 2013 년 11 월 기성회비 징수 가 부당하 다는 항소심 판결 이 나 왔 다 .	DAT-B DAT-I ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O
+금호고속 은 지난 18 일 부터 광주 유 스퀘어 와 강진군 을 오가 는 ‘ 강진 오감 통통 투어 버스 ’ 를 운행 중 이 다 .	ORG-B O O DAT-B DAT-I O LOC-B LOC-I LOC-I O LOC-B O O O O O O O O O O O O O O O O
+포켓몬 고 는 지난해 7 월 미국 등 에서 출시된 지 6 개월 만 에 한국 에서 도 출시되 는 것 이 다 .	O O O O DAT-B DAT-I LOC-B O O O O O O O O LOC-B O O O O O O O O
+7 호 골 기성용 ‘ 왼발 의 비밀 ’	O O O PER-B O O O O O
+임창용 측 은 “ 경기 에 나설 수 없 어 훈련 만 가능하 다 .	PER-B O O O O O O O O O O O O O O
+지난 2015 년 부터 3 년 간 세이프 스쿨 지원 사업 이 진행된 인도네시아 누사 텡가 라 티모르 주 ( 州 ) 는 인도네시아 에서 도 재해 가 가장 많이 발생하 는 지역 중 하나 인 것 으로 알려 졌 다 .	O DAT-B DAT-I O O O O O O O O O O LOC-B LOC-B LOC-B LOC-I LOC-B LOC-I LOC-I LOC-I LOC-I O LOC-B O O O O O O O O O O O O O O O O O O
+비중 이 가장 큰 달러화 예금 은 59 억 8000 만 달러 급증해 사상 최대 월간 증가 폭 을 기록 했 고 달러화 예금 잔액 도 494 억 5000 만 달러 로 사상 최고 였 다 .	O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O
+공 혈견 문제 제기 에 공혈 사업 사실상 중단 서울대 동물 병원 · 백산 동물 병원 등 헌혈 프로그램 가동 ' 생명 이 중요 . . 관심 을 ' 하정우 감독 · 주연 의 영화 허삼관 을 보 면 어려 웠 던 시절 의 매혈 이야기 가 나온다 .	O O O O O O O O ORG-B ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+합계 10 언더 파 278 타 를 쳐 한국 계 미국인 엘리슨 리 와 동타 를 이룬 뒤 , 연장 첫 번째 홀 에서 버디 를 잡 아 우승 했 다 .	O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O
+잡스 의 친구 조니 아이브 는 잡스 한테 ‘ 왜 그렇 게 모질 게 구 는지 ’ 물어 봤 다고 합니다 .	PER-B O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O

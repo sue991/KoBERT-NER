@@ -1,12 +1,12 @@
-ED렌즈 5매와 수퍼 ED렌즈 1매를 포함하+ㄴ 14군21매의 고성능 광학 설계로 색수차를 현저히 줄이고, 동급 최고 수준의 고화질을 실현하였다 .	O O O O O O O O O O O O O O O O O O O
-말 주변이 달리고, 기억이 흐릿하+여조롱을 받게 되면 어쩌느냐고? 걱정 붙들어 매시+이라.가깝게는 3년 전을 떠올리+어보라. 그토록 피하고 싶었지만 결국 하+여야 +였던 대선주자 TV토론. 새까맣게 어리+ㄴ이정희 전 통합진보당 대표는 “이런 것 잘 모르죠? 알+ㄹ턱이 없죠”수 없이 비아냥거리더니 급기야 “나는 당신을 떨어뜨리려고 이 자리에 나오았다”며 조롱하였다 .	O O O O O O O O O O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O
-LG는 서상우를 제외 하+ㄴ 선발 타자 8명이 모두 타점을 올리기도 +였다 .	ORG-B PER-B O O O O O O O O O O
-김씨에게 각각 5500만원, 1500만원을 받은 혐의 등으로 기소되+ㄴ신계륜 신학용 의원은 이달 22일 1심에서 의원직 상실형이+ㄴ 징역 2년~2년 6개월의 실형을 각각 선고받았다 .	PER-B O MNY-B MNY-B O O O PER-B PER-B MNY-I O O O O O O O O O O O O
-[케이프 코드 APAP=뉴시스 .	O O O O
-[뉴시스 .	O O
-페이스북에서 젊은 사람들은 자신만의 특별 하+ㄴ 경험에 대하+ㄴ글이나 사진을 자랑하는 반면 나이 많은 사람들은 일상적 이+ㄴ 경험을 공유하기를 즐기는 경향이 있음을 연구진은 발견하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O
-하지만 이 말 의 원조는 백 장군이다 .	O O O O O PER-B O O
-지하 2층, 지상 29층, 13개동, 전용면적 84m ² 중소형으로만 구성되며 총 1296 채 규모.운 양동의 마지막 대단지+이다 .	O O O O O O O O O O O O O O O O O O
-LG화학, 크라이슬러에 전기車 배터리 공 .	ORG-B ORG-B O O O O
-하지만 아베 총리가 실제 인터뷰에서 위안부 동원의 강제성을 인정하+ㄴ고노(河野) 담화에 대하+여 언급하였는지 여부는 분명하지 않다 .	O PER-B O O O O O O PER-B O O O O O O O
-'풍문으로 듣었소' 유호정이 아들의 자식을 낳은 고아성에게 폭언을 쏟았다 .	O O PER-B O O O PER-B O O O
+ED 렌즈 5 매 와 수퍼 ED 렌즈 1 매 를 포함한 14 군 21 매 의 고성능 광학 설계 로 색수차 를 현저히 줄이 고 , 동급 최고 수준 의 고화질 을 실현 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+말주변 이 달리 고 , 기억 이 흐릿해 조롱 을 받 게 되 면 어쩌 느냐고 ? 걱정 붙들 어 매시 라 . 가깝 게 는 3 년 전 을 떠올려 보 라 . 그토록 피하 고 싶 었 지만 결국 해야 했 던 대선 주자 TV 토론 . 새까맣 게 어린 이정희 전 통합진보당 대표 는 “ 이런 거 잘 모르 죠 ? 알 턱 이 없 죠 ” 수없이 비아냥거리 더니 급기야 “ 나 는 당신 을 떨어뜨리 려고 이 자리 에 나 왔 다 ” 며 조롱 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+LG 는 서상우 를 제외한 선발 타자 8 명 이 모두 타점 을 올리 기 도 했 다 .	ORG-B O PER-B O O O O O O O O O O O O O O O O
+김 씨 에게 각각 5500 만 원 , 1500 만 원 을 받 은 혐의 등 으로 기소된 신계륜 신학용 의원 은 이달 22 일 1 심 에서 의원 직 상실 형 인 징역 2 년 ~ 2 년 6 개월 의 실형 을 각각 선고 받 았 다 .	PER-B O O O MNY-B MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O O O O PER-B PER-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 케이프코드 APAP = 뉴시스 ]	O ORG-B ORG-I O O O
+[ 뉴시스 ]	O O O
+페이스북 에서 젊 은 사람 들 은 자신 만 의 특별한 경험 에 대한 글 이나 사진 을 자랑하 는 반면 나이 많 은 사람 들 은 일상적 인 경험 을 공유하 기 를 즐기 는 경향 이 있 음 을 연구 진 은 발견 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하지만 이 말 의 원조 는 백 장군 이 다 .	O O O O O O PER-B O O O O
+지하 2 층 , 지상 29 층 , 13 개 동 , 전용면적 84 m ² 중소형 으로 만 구성되 며 총 1296 채 규모 . 운양동 의 마지막 대 단지 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+LG 화학 , 크라이슬러 에 전기 車 배터리 공급	ORG-B ORG-I O ORG-B O O O O O
+하지만 아베 총리 가 실제 인터뷰 에서 위안부 동원 의 강제 성 을 인정한 고노 ( 河野 ) 담화 에 대해 언급 했 는지 여부 는 분명 치 않 다 .	O PER-B O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O
+' 풍문 으로 들 었 소 ' 유호정 이 아들 의 자식 을 낳 은 고 아성 에게 폭언 을 쏟 았 다 .	O O O O O O O PER-B O O O O O O O PER-B PER-I O O O O O O O

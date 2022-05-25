@@ -1,12 +1,12 @@
-8년 전에 처음으로 작업실을 얻었을 때 책장과 책상 말고도 필요하+ㄴ 물건이 너무나 많다는데 깜짝 놀라 +았다 .	O O O O O O O O O O O O O O O O O
-두 사람은 풋풋 하+ㄴ 연인 사이의 미묘하+ㄴ 분위기를 풍기는가 하면, 달달 하+ㄴ입맞춤으로 시청자들의 설레+ㅁ지수를 상승시키+ㄹ 예정이다 .	O O O O O O O O O O O O O O O O O
-유승호와 솔라의 달콤하+ㄴ입맞춤을 예고하+ㄴ ‘상상고양이’ 2회는 1일 오후 8시50분에 방송되+ㄴ다 .	PER-B PER-B O O O O O O O O O
-카터 후보자는 “최근 남북 대화 분위기에도 북한은 미국과 동맹국이 협상에 나서도록 강요하기 위하+여벼랑 끝 전술과 도발에 나서 +ㄹ 가능성이 크다”고 강조하였다 .	PER-B O O ORG-B O O ORG-B ORG-B O O O O O O O O O O O O O O
-2012년 임금동결과 노동시간 연장에 합의하고 고용유지에 안간힘을 쏟은 결과 2014년 프랑스 내 생산이 증가세로 돌아서 +었다 .	O O O O O O O O O O LOC-B O O O O O O
-‘헬리콥터맘’에잇어 최근 ‘헬리콥터 형제·자매’가 뜨고 있다고 미월스트리트저널(WSJ)이 23일 보도하였다 .	O O O O O O ORG-B O O O
-130일간의 행복여행을 콘셉트로 기획되+ㄴ이번 프로젝트는 지난해 가을, 올 겨울과 봄까지 총 세 차례에 걸치+어 출사 여행을 진행하며, 출사 여행 중 청소년들이 촬영하+ㄴ 사진들은 오는 5월 코카-콜라 130주년을 기념하는 사진전에서 공개되+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O
-고철과 폐지를 수입, 요긴하게 +어오던 업계가 바젤협약 때문에 국제고철, 폐지 값이 폭등하고 그나마 수입 하+ㄹ 수 없는 바람에 발만 동동 구르었다 .	O O O O O O O O O O O O O O O O O O O O O O
-개막식은 23일 오후 4∼9시 대구 동성로 특설무대에서 축하공연과 선수단 길거리 조정대회 등으로 열리+ㄴ다 .	O O O O LOC-B LOC-I LOC-I O O O O O O O
-파이프라인이나 저장시설을 대상으로 최장 50년 계약을 하기 때문에 단기적 이+ㄴ 유가 변동에는 크게 영향을 받지 않는다 .	O O O O O O O O O O O O O O O O O
-‘커리어 하이’의 마지막 종착역은 생애 첫 3할 도전이다 .	O O O O O O O O O
-히어리꽃은 노란색 꽃잎 5장이 아래를 향하+여 달리+ㄴ다 .	O O O O O O O O
+8 년 전 에 처음 으로 작업실 을 얻 었 을 때 책장 과 책상 말 고도 필요한 물건 이 너무나 많 다는 데 깜짝 놀랐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 사람 은 풋풋한 연인 사이 의 미묘한 분위기 를 풍기 는가 하 면 , 달달한 입맞춤 으로 시청자 들 의 설렘 지수 를 상승 시킬 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유승호 와 솔라 의 달콤한 입맞춤 을 예고한 ‘ 상상 고양이 ’ 2 회 는 1 일 오후 8 시 50 분 에 방송된다 .	PER-B O PER-B O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O O
+카터 후보자 는 “ 최근 남북 대화 분위기 에 도 북한 은 미국 과 동맹국 이 협상 에 나서 도록 강요하 기 위해 벼랑 끝 전술 과 도발 에 나설 가능성 이 크 다 ” 고 강조 했 다 .	PER-B O O O O ORG-B O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2012 년 임금 동결 과 노동시간 연장 에 합의하 고 고용 유지 에 안간힘 을 쏟 은 결과 2014 년 프랑스 내 생산 이 증가세 로 돌아섰 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B O O O O O O O O
+‘ 헬리콥터 맘 ’ 에 이 어 최근 ‘ 헬리콥터 형제 · 자매 ’ 가 뜨 고 있 다고 미 월스트리트 저널 ( WSJ ) 이 23 일 보도 했 다 .	O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O ORG-B O O DAT-B DAT-I O O O O
+130 일 간 의 행복 여행 을 콘셉트 로 기획된 이번 프로젝트 는 지난해 가을 , 올 겨울 과 봄 까지 총 세 차례 에 걸쳐 출사 여행 을 진행하 며 , 출사 여행 중 청소년 들 이 촬영한 사진 들 은 오 는 5 월 코카 - 콜라 130 주년 을 기념하 는 사진 전 에서 공개된다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O
+고철 과 폐지 를 수입 , 요긴하 게 써 오 던 업계 가 바젤 협약 때문 에 국제 고철 , 폐지 값 이 폭등하 고 그나마 수입할 수 없 는 바람 에 발 만 동동 굴 렀 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+개막식 은 23 일 오후 4 ∼ 9 시 대구 동성로 특설 무대 에서 축하 공연 과 선수단 길거리 조정 대회 등 으로 열린다 .	O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O
+파이프라인 이나 저장 시설 을 대상 으로 최장 50 년 계약 을 하 기 때문 에 단기적 인 유가 변동 에 는 크 게 영향 을 받 지 않 는다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 커리어 하이 ’ 의 마지막 종착역 은 생애 첫 3 할 도전 이 다 .	O O O O O O O O O O O O O O O O
+히어리 꽃 은 노란색 꽃잎 5 장 이 아래 를 향해 달린다 .	O O O O O O O O O O O O O

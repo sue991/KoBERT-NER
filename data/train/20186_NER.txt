@@ -1,15 +1,15 @@
-강정호 부상, 코그란 태클로십자인대 파열·정강이뼈 골절 … 수술 불가피 미국 프로야구 피츠버그 파이어리츠에서 활약 중 이+ㄴ 강정호가 부상을 당하였다 .	PER-B O PER-B O O O O O O ORG-B ORG-I ORG-I ORG-I O O O PER-B O O O
-강정호는 18일(한국시간) 미국 펜실베니아 주 피츠버그의 PNC파크에서 열리+ㄴ ‘2015 메이저리그’ 시카고 컵스와의 홈경기에서 4번 타자 겸 유격수로 출장하였지만, 1회 초 수비에서 상대 크리스코 글란의 태클에 부상을 당하며 경기에서 빠지었다 .	PER-B LOC-B LOC-B LOC-B LOC-I LOC-B LOC-B O O O ORG-B ORG-I O O O O O O O O O O PER-B O O O O O O O
-이날 강정호는 1회 초 자신의 실책으로 맞은 무사만루의 위기 상황에서 병살 플레이를 만들기 위하+여2 루베이스로 향하었다 .	O PER-B O O O O O O O O O O O O O O O
-공효진에 대하+ㄴ 조정석의 혼잣말고백이 ‘질투의 화신’ 최고의 1분을 차지하였다 .	PER-B O PER-B O O O O O O O
-5일 방송되+ㄴ SBS 수목 드라마 '질투의 화신' 13회에서는 표나리(공효진 분)에게 마음을 들키 +ㄴ이후 이화신(조정석분)의 모습이 그리 +어+지었다 .	O O O O O O O O PER-B O O O O PER-B O O O O
-이화신의 마음을 어렴풋이 눈치 채 +ㄴ표나리는 일부러 더 그의 앞에서 고정원(고경표 분)를 좋아하는 티를 내+었다 .	PER-B O O O O PER-B O O O O PER-B O O O O O
-최씨는 “이렇게 우리가 법정에 오게 되+ㄴ 것은 아까 얘기하였지만 서로 죄가 있어서 오+ㄴ 것+이니까 인정하고 재판(결과)를 기다리+어야 하+ㄴ다”고 말을 꺼내면서도 “사익 추구를 하지 않았다”고 주장하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-이 교수는 “신체뿐 아니라 감정과 언어 등 정서적 영역에도 경계가 있는데 이를 침범하+여서 +ㄴ 안 되+ㄴ다 .	PER-B O O O O O O O O O O PER-B O O O O O
-앞으로 하림그룹은 계열회사 간 상호출자는 물론이고 신규 순환출자, 채무보증 등이 금지되 +ㄴ다 .	O ORG-B O O O O O O O O O O O
-전체 자산의 70~90%는 채권을 매입하고 나머지는 공모주에 투자하는 채권혼합형 펀드이기 때문이다 .	O O O O O O O O O O O O
-일본과 중국 업체가 앞뒤로 공략하고 있는 형국이지만, 다행히 한국은 배터리 산업의 삼각파도에 휩쓸리지 않고 올라타 +ㄹ 태세+이다 .	ORG-B ORG-B O O O O O O ORG-B O O O O O O O O O
-안심전환대출 금리 2.5~2.6% 수준되+ㄹ .	O O O O O
-지나+ㄴ 시즌 17승을 거두+ㄴ 페랄타는 올해 들어 아직 첫 승을 신고하지 못하+ㄴ 가운데 4패, 방어율 4.35로 부진하+ㄴ 모습을 보이고 있다 .	O O O O PER-B O O O O O O O O O O O O O O O O
-손건영 스포츠동아미국 통신 .	PER-B ORG-B O O
-개그맨 윤정수씨는 ‘나의 꿈을 찾아서’를 주제로 학창시절의 고민과 개그맨이 되+ㄴ이유 등을 이야기 하+ㄴ다 .	O PER-B O O O O O O O O O O O O
+강정호 부상 , 코그 란 태클 로 십자 인대 파열 · 정강이뼈 골절 … 수술 불가피 미국 프로 야구 피츠버그 파이어리츠 에서 활약 중 인 강정호 가 부상 을 당 했 다 .	PER-B O O PER-B PER-I O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O PER-B O O O O O O O
+강정호 는 18 일 ( 한국 시간 ) 미국 펜실베니아 주 피츠버그 의 PNC 파크 에서 열린 ‘ 2015 메이저리그 ’ 시카고 컵스 와 의 홈경기 에서 4 번 타자 겸 유격수 로 출장 했 지만 , 1 회 초 수비 에서 상대 크리스 코글란 의 태클 에 부상 을 당하 며 경기 에서 빠 졌 다 .	PER-B O DAT-B DAT-I O LOC-B O O LOC-B LOC-B LOC-I LOC-B O LOC-B LOC-I O O O DAT-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O
+이날 강정호 는 1 회 초 자신 의 실책 으로 맞 은 무사 만루 의 위기 상황 에서 병살 플레이 를 만들 기 위해 2 루 베이스 로 향 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+공효진 에 대한 조정석 의 혼잣말 고백 이 ‘ 질투 의 화신 ’ 최고 의 1 분 을 차지 했 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O
+5 일 방송된 SBS 수 목 드라마 ' 질투 의 화신 ' 13 회 에서 는 표나리 ( 공효진 분 ) 에게 마음 을 들킨 이후 이화신 ( 조정석 분 ) 의 모습 이 그려 졌 다 .	DAT-B DAT-I O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O PER-B O PER-B O O O O O O O O O
+이화신 의 마음 을 어렴풋이 눈치 챈 표나리 는 일부러 더 그 의 앞 에서 고정 원 ( 고경표 분 ) 를 좋아하 는 티 를 냈 다 .	PER-B O O O O O O PER-B O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O
+최 씨 는 “ 이렇 게 우리 가 법정 에 오 게 된 것 은 아까 얘기 했 지만 서로 죄 가 있 어서 온 거 니까 인정하 고 재판 ( 결과 ) 를 기다려야 한다 ” 고 말 을 꺼내 면서 도 “ 사익 추구 를 하 지 않 았 다 ” 고 주장 했 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 교수 는 “ 신체 뿐 아니 라 감정 과 언어 등 정서 적 영역 에 도 경계 가 있 는데 이 를 침범해선 안 된다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+앞 으로 하림 그룹 은 계열 회사 간 상호 출자 는 물론 이 고 신규 순환 출자 , 채무 보증 등 이 금지된다 .	O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+전체 자산 의 70 ~ 90 % 는 채권 을 매입하 고 나머지 는 공모주 에 투자하 는 채권 혼합형 펀드 이 기 때문 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 과 중국 업체 가 앞뒤 로 공략하 고 있 는 형국 이 지만 , 다행히 한국 은 배터리 산업 의 삼각파도 에 휩쓸리 지 않 고 올라탈 태세 다 .	ORG-B O ORG-B O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+안심 전환 대출 금리 2.5 ~ 2.6 % 수준 될 듯	O O O O O O O O O O O
+지난 시즌 17 승 을 거둔 페랄타 는 올해 들 어 아직 첫 승 을 신고하 지 못한 가운데 4 패 , 방어율 4.35 로 부진한 모습 을 보이 고 있 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+손건영 스포츠 동아 미국 통신원	PER-B ORG-B ORG-I O O
+개그맨 윤정수 씨 는 ‘ 나 의 꿈 을 찾 아서 ’ 를 주제 로 학창 시절 의 고민 과 개그맨 이 된 이유 등 을 이야기한다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O

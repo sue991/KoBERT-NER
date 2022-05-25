@@ -1,14 +1,14 @@
-동년배로서 CSIS의 이사회 멤버 이+ㄴ 틸러슨과 오랜 기간에 걸치+어 다양하+ㄴ 현안과 정책을 터놓고 상의 하+여오+ㄴ 사이이다 .	O ORG-B O O O PER-B O O O O O O O O O O O
-명지신도시 중심부에 들어서며 단지 옆으로서 부산법조타운(2018년 예정), 부산시민공원의 1.7배 이+ㄴ 대규모 생태공원이 예정되었다 .	LOC-B O O O O LOC-B O LOC-B O O O O O O
-에디터 김민숙, 김 수석 포토그래퍼 김현진 추석 명절의 대표 음식이+ㄴ 송편, 나물, 생선, 각종 전등은 단백질, 탄수화물, 지방의 3대 영양소와 비타민, 무기질이 골고루 분포 하+ㄴ ‘균형 잡히+ㄴ 영양음식’이지만, 이들 대부분이 기름에 굽거나 볶거나 무치는 방식으로 조리되+어열량이 높다 .	O PER-B PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-전동 3륜스쿠터는 기동성이 뛰어나고 작동법이 간단하+여 일반인은 물론 노약자나 장애인도 쉽게 조작이 가능하다 .	O O O O O O O O O O O O O O
-구글, 온라인 쇼핑 곧 진출… 아마존과 전면 전임 .	ORG-B O O O O ORG-B O O O
-런던 라이프스타일 브랜드 캐스키드슨이 다양하+ㄴ 스타일로 연출 하+ㄹ 수 있는 ‘멀티 스트랩백’을 선보이었다 .	LOC-B O O ORG-B O O O O O O O O O O
-송학식품이 대장균과 식중독균 등이 검출되+ㄴ떡을 멀쩡 하+ㄴ 제품으로 속이어팔+ㄴ 혐의로 경찰 수사 중 이+ㄴ 가운데 이 업체가 사건이 알려지+ㄴ 직후 인터넷 홈페이지에 올리+ㄴ 사과문은 거짓으로 밝혀지었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
-인천 중부경찰서는 31일 "이달 초 언론 보도를 통하+여 이번 사건이 알려지+ㄴ 직후 송학식품이 자사 인터넷 홈페이지에 올리+ㄴ 사과문은 거짓"이라고 밝히었다 .	ORG-B ORG-I O O O O O O O O O O ORG-B O O O O O O O O
-당시 송학식품은 사과문을 내고 "언론 보도 내용과 달리 저희 송학식품은 대장균이 검출되+ㄴ 제품을 지자체의 통보에 따르 아전량 거둬들이 어 폐기하였다"면서 "대장균이 검출되+ㄴ 제품을 유통하+ㄴ 사실이 없다"고 말하였다 .	O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
-문화재 자문위 “현재 흰색은 아니다 .	ORG-B ORG-I O O O O
-성 회장이 ‘박 대통령 최측근들은 다 만나거나 전화하였다’고 하더라. 김기춘(전 대통령 비서실장), 이병기(현 대통령 비서실장), 이완구(국무총리), 홍문종(새누리당 의원), 유정복(인천시장) 이름을 대+었다 .	PER-B O PER-B O O O O O O PER-B O O PER-B O O PER-B PER-B O PER-B O O O
-1심은 박씨의 공무상 재해를 인정하지 않았지만, 2심은 박씨 손을 들어 주+었다 .	O PER-B O O O O O PER-B O O O O
-스트라빈스키 ‘장송 적…’ 109년 만에 아시아 초 .	PER-B O O O O LOC-B O O
-“연극둥지 연습中”이 세창 SNS 근황 공 .	O O O O O O O
+동년배 로서 CSIS 의 이사회 멤버 인 틸러슨 과 오랜 기간 에 걸쳐 다양한 현안 과 정책 을 터놓 고 상의해 온 사 이 다 .	O O ORG-B O O O O PER-B O O O O O O O O O O O O O O O O O O
+명지 신도시 중심부 에 들어서 며 단지 옆 으로 서부산 법조타운 ( 2018 년 예정 ) , 부산 시민 공원 의 1.7 배 인 대규모 생태 공원 이 예정 됐 다 .	LOC-B LOC-I O O O O O O O LOC-B LOC-I O DAT-B DAT-I O O O LOC-B LOC-I LOC-I O O O O O O O O O O O O
+에디터 김민숙 , 김 수석 포토 그래퍼 김현진 추석 명절 의 대표 음식 인 송편 , 나물 , 생선 , 각종 전 등 은 단백질 , 탄수화물 , 지방 의 3 대 영양소 와 비타민 , 무기질 이 골고루 분포한 ‘ 균형 잡힌 영양 음식 ’ 이 지만 , 이 들 대부분 이 기름 에 굽 거나 볶 거나 무치 는 방식 으로 조리돼 열량 이 높 다 .	O PER-B O PER-B PER-I O O PER-B DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전동 3 륜 스쿠터 는 기동성 이 뛰어나 고 작동 법 이 간단해 일반인 은 물론 노약자 나 장애인 도 쉽 게 조작 이 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+구글 , 온라인 쇼핑 곧 진출 … 아마존 과 전면전 임박	ORG-B O O O O O O ORG-B O O O
+런던 라이프 스타일 브랜드 캐스 키드 슨 이 다양한 스타일 로 연출할 수 있 는 ‘ 멀티 스트랩 백 ’ 을 선보 였 다 .	LOC-B O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O
+송학 식품 이 대장균 과 식중독 균 등 이 검출된 떡 을 멀쩡한 제품 으로 속 여 판 혐의 로 경찰 수사 중 인 가운데 이 업체 가 사건 이 알려진 직후 인터넷 홈페이지 에 올린 사과문 은 거짓 으로 밝혀 졌 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+인천 중부 경찰서 는 31 일 " 이달 초 언론 보도 를 통해 이번 사건 이 알려진 직후 송학 식품 이 자사 인터넷 홈페이지 에 올린 사과문 은 거짓 " 이라고 밝 혔 다 .	ORG-B ORG-I ORG-I O DAT-B DAT-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O
+당시 송학 식품 은 사과문 을 내 고 " 언론 보도 내용 과 달리 저희 송학 식품 은 대장균 이 검출된 제품 을 지자체 의 통보 에 따 라 전량 거둬들 여 폐기 했 다 " 면서 " 대장균 이 검출된 제품 을 유통한 사실 이 없 다 " 고 말 했 다 .	O ORG-B ORG-I O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+문화재 자문 위 “ 현재 흰색 은 아니 다 ”	ORG-B ORG-I ORG-I O O O O O O O
+성 회장 이 ‘ 박 대통령 최 측근 들 은 다 만나 거나 전화 했 다 ’ 고 하 더라 . 김기춘 ( 전 대통령 비서실 장 ) , 이병기 ( 현 대통령 비서실 장 ) , 이완구 ( 국무총리 ) , 홍문종 ( 새누리당 의원 ) , 유정복 ( 인천 시장 ) 이름 을 댔 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O PER-B O O O O O O O PER-B O O O O O O O PER-B O O O O PER-B O O O O O PER-B O O O O O O O O O
+1 심 은 박 씨 의 공무 상 재해 를 인정하 지 않 았 지만 , 2 심 은 박 씨 손 을 들 어 줬 다 .	O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O
+스트라빈스키 ‘ 장송 적 … ’ 109 년 만 에 아시아 초연	PER-B O O O O O O O O O LOC-B O
+“ 연극 둥지 연습 中 ” 이세창 SNS 근황 공개	O O O O O O PER-B O O O

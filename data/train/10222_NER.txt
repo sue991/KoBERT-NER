@@ -1,15 +1,15 @@
-이어 “적들이 48시간 안에 심리 모략 방송을 중단하지 않는 경우 심리전 수단들을 격파사격하기 위하+ㄴ군사적 행동과 있을 수 있는 적들의 반작용을 진압하기 위하+ㄴ 지역의 군사작전을 지휘하+ㄹ 지휘관들이 임명되+어 해당 전선으로 급파되었다”고 전하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-카타르의 홈텃세 극복 하+ㄹ까? 카타르 내에서 +ㄴ 자국의 우승을 기대하는 목소리가 크다 .	ORG-B O O O ORG-B O O O O O O O O
-3 밀리터리를 상징하는 카키 컬러가 여자 슈트와 만나 +아우아하여 +지+었다 .	O O O O O O O O O O O
-요즘 물리학 분야에서 위력을 발휘하고 있는 카오스 이론 .	O O O O O O O O O
-문제는 살이 아니라 셀룰라이트+이었어 .	O O O O O
-그런데 원장이 보호자 카드를 소지하+ㄴ 경우 +이라면 출석일수를 11일 이상으로 조작하+ㄴ 뒤 카드로 보육료를 결제하면 그만이다 .	O O O O O O O O O O O O O O O O O
-고양에 타이머 설치 하+ㄴ 북한 전단 풍선 떨어지+ .	LOC-B O O O ORG-B O O O O
-우리와 중국 해안에 밀집하+ㄴ막대 하+ㄴ 화력과 핵발전 시설은 초당 수백t의 온배수를 바다로 거침없이 쏟아내 +ㄴ다 .	O ORG-B O O O O O O O O O O O O O O
-마세라티의 판매량을 혁신적으로 끌어올리+ㄴ기블리 디젤 모델이 베이스+이지만, SQ4는 차원이 다르+ㄴ 성능을 발휘하+ㄴ다 .	O O O O O O O O O O O O O
-정씨+이라고 그것+ㄹ 모르+ㄹ 리 없었다 .	PER-B O O O O O
-CBS는 “가정 파괴와 학업 포기, 가출 등반사회적 행위를 조장하는 신천지의 실체를 사실적으로 폭로하기 위하+여지나 +ㄴ 1년간 2000시간에 걸치+어 관찰 하+ㄴ 특집 방송 ‘신천지에 빠지+ㄴ사람들’을 방송 하+ㄹ 계획”이라고 밝히었고 지나 +ㄴ 16일 1부 ‘계시록’을 방송하였다 .	O O O O O O O O O ORG-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-유재석은 다른 출연자들이 녹화가 끝나고 아내나경은에게 연락을 하는지 궁금하+여하자 "저는 절대 안 하+ㄴ다"고 단호하게 말하+ 여웃음을 터뜨리었다 .	PER-B O O O O PER-B O O O O O O O O O O O O
-갖가지 상기되+어야 하+ㄹ 사실은 처칠이 장개석 총통의 국민당 정부를 아주 낮추+어보았다는 사실이다 .	O O O O O PER-B O ORG-B O O O O O
-갤럭시노트7 기 내 사용 금지 … 전원 끄고 충전금지, 위탁수하물도 안 되+ .	O O O O O O O O O O O O O
-검찰 특별수사본부(본부장 이영렬 서울중앙지검장)는 이날 오전 서울구치소에 수감되 +ㄴ 박 전 대통령에 대하+ㄴ 조사를 진행하+ㄴ다고 9일 밝히었다 .	O O PER-B ORG-B O O LOC-B O O PER-B O O O O O O O O
+이어 “ 적 들 이 48 시간 안 에 심리 모략 방송 을 중단하 지 않 는 경우 심리전 수단 들 을 격파 사격하 기 위한 군사적 행동 과 있 을 수 있 는 적 들 의 반작용 을 진압하 기 위한 지역 의 군사작전 을 지휘할 지휘관 들 이 임명돼 해당 전선 으로 급파 됐 다 ” 고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+카타르 의 홈 텃세 극복할까 ? 카타르 내 에선 자국 의 우승 을 기대하 는 목소리 가 크 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O
+3 밀리터리 를 상징하 는 카키 컬러 가 여자 슈트 와 만나 우아해 졌 다 .	O O O O O O O O O O O O O O O O
+요즘 물리학 분야 에서 위력 을 발휘하 고 있 는 카오스 이론 .	O O O O O O O O O O O O O
+문제 는 살 이 아니 라 셀 룰 라이트 였 어 !	O O O O O O O O O O O O
+그런데 원장 이 보호자 카드 를 소지한 경우 라면 출석 일수 를 11 일 이상 으로 조작한 뒤 카드 로 보육 료 를 결제하 면 그만 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고양 에 타이머 설치한 북한 전단 풍선 떨어져	LOC-B O O O ORG-B O O O
+우리 와 중국 해안 에 밀집한 막대한 화력 과 핵 발전 시설 은 초 당 수백 t 의 온배수 를 바다 로 거침없이 쏟 아 낸다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
+마세라티 의 판매량 을 혁신적 으로 끌어올린 기블리 디젤 모델 이 베이스 지만 , S Q 4 는 차원 이 다른 성능 을 발휘한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+정 씨 라고 그걸 모를 리 없 었 다 .	PER-B O O O O O O O O O
+CBS 는 “ 가정 파괴 와 학업 포기 , 가출 등 반 사회적 행위 를 조장하 는 신천지 의 실체 를 사실적 으로 폭로하 기 위해 지난 1 년 간 2000 시간 에 걸쳐 관찰한 특집 방송 ‘ 신천지 에 빠진 사람 들 ’ 을 방송할 계획 ” 이라고 밝 혔 고 지난 16 일 1 부 ‘ 계시록 ’ 을 방송 했 다 .	O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O
+유재석 은 다른 출연자 들 이 녹화 가 끝나 고 아내 나경은 에게 연락 을 하 는지 궁금해 하 자 " 저 는 절대 안 한다 " 고 단호하 게 말해 웃음 을 터뜨 렸 다 .	PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+갖가지 상기돼야 할 사실 은 처칠 이 장개석 총통 의 국민당 정부 를 아주 낮춰 보 았 다는 사실 이 다 .	O O O O O O O PER-B O O ORG-B O O O O O O O O O O O
+갤럭시 노트 7 기내 사용 금지 … 전원 끄 고 충전 금지 , 위탁 수하물 도 안돼	O O O O O O O O O O O O O O O O O
+검찰 특별 수사본부 ( 본부 장 이영렬 서울중앙지검 장 ) 는 이날 오전 서울구치소 에 수감된 박 전 대통령 에 대한 조사 를 진행한다고 9 일 밝 혔 다 .	O O O O O O PER-B ORG-B ORG-I O O O O LOC-B O O PER-B O O O O O O O DAT-B DAT-I O O O O

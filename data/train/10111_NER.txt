@@ -1,14 +1,14 @@
-KB스타즈의 최고 참변연하(14득점, 5어 시스트)는 4개의 3점슛을 터뜨리며 역대 PO통산 최 .	ORG-B O PER-B O O O O O O O O O
-박지원 국민의당 대표가 더불어민주당 대선후보로 확정되+ㄴ문재인 전 대표를 축하하였다 .	PER-B ORG-B O ORG-B O PER-B O O O O
-박 대표는 3일 자신의 트위터를 통하+여"문재인 후보의 확 저를 진심으로 축하 하+ㄴ다"고 글을 남기었다 .	PER-B O O O O PER-B O O O O O O O O O
-부천시는 이를 위하+여 전문 보안업체 이+ㄴ KT텔레캅과 업무협약을 맺었다 .	ORG-B O O O O O ORG-B O O O
-김현 변호사(61·사법연수원 17기·사진)가 제49대 대한변호사협회 회장으로 취임하였다 .	PER-B ORG-B O O ORG-B O O O
-박희수는 “경기 막판 타이트 하+ㄴ 상황에서 +ㄴ한 방만 맞아도 역전되+ㄹ 수 있다 .	PER-B O O O O O O O O O O O O
-"- 한국은 수십 년 전부터 아동 수출국이란 오명을 받았다 .	O ORG-B O O O O O O O O
-해외 입양과 관련되 +ㄴ한국의 상황을 어떻게 생각하는가."개인적으로 아동 수출국이란 표현은 맞지 않는다고 보+ㄴ다 .	O O O ORG-B O O O O O O O O O O
-이날 오전에도 홍 후보는 공무원 시험일이라는 점을 거론하며 "꿈을 잃은 이 땅의 젊은이들이 꿈과 희망을 가질 수 있는 나라를 만들어 보도록 하겠습니다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O
-내일로 다가오+ㄴ 일본 참의원 선거 분위기가 예상 밖으로 차분하다 .	O O ORG-B O O O O O O O
-사당종합체육관 붕괴, 매몰자 11명 전원 구조… ‘오락가락’ 인원왜?“1명 빠져나가 +아 .	O O O O O O O O O O O
-신혜선, 박유환과 함께 라디오 출연… 그녀는 예쁘었 .	PER-B PER-B O O O O O O
-지나+ㄴ 18일 모바일반도체 설계업체 이+ㄴ 영국 ARM을 일본 소프트뱅크가 320억달러(약 36조원)에 인수하겠다는 방침을 밝히면서 인텔과 ARM 진영의 5G 대결에 시선이 집중되고 있다 .	O O O O O ORG-B ORG-B ORG-B ORG-I MNY-B MNY-B O O O ORG-B ORG-B O O O O O O O
-ARM은 직접 반도체를 설계하+여 제조하는 인텔과 달리 반도체 설계도를 퀄컴·삼성전자 같은 반도체 기업에 팔아 로열티로 수입을 내+ㄴ다 .	ORG-B O O O O ORG-B O O O ORG-B O O O O O O O O
+KB 스타즈 의 최고참 변연하 ( 14 득점 , 5 어시스트 ) 는 4 개 의 3 점 슛 을 터뜨리 며 역대 PO 통산 최다	ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O
+박지원 국민 의당 대표 가 더불 어 민주당 대선 후보 로 확정된 문재인 전 대표 를 축하 했 다 .	PER-B ORG-B ORG-I O O ORG-B ORG-I ORG-I O O O O PER-B O O O O O O O
+박 대표 는 3 일 자신 의 트위터 를 통해 " 문재인 후보 의 확 저 를 진심 으로 축하한다 " 고 글 을 남 겼 다 .	PER-B O O DAT-B DAT-I O O O O O O PER-B O O O O O O O O O O O O O O O O
+부천시 는 이 를 위해 전문 보안 업체 인 KT 텔레캅 과 업무 협약 을 맺 었 다 .	ORG-B O O O O O O O O ORG-B ORG-I O O O O O O O O
+김현 변호사 ( 61 · 사법연수원 17 기 · 사진 ) 가 제 49 대 대한 변호사 협회 회장 으로 취임 했 다 .	PER-B O O O O ORG-B O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O
+박희수 는 “ 경기 막판 타이트한 상황 에선 한 방 만 맞 아도 역전될 수 있 다 .	PER-B O O O O O O O O O O O O O O O O O
+" - 한국 은 수십 년 전 부터 아동 수출국 이 란 오명 을 받 았 다 .	O O ORG-B O O O O O O O O O O O O O O O
+해외 입양 과 관련된 한국 의 상황 을 어떻 게 생각하 는가 . " 개인적 으로 아동 수출국 이 란 표현 은 맞 지 않 는다고 본다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O
+이날 오전 에 도 홍 후보 는 공무원 시험 일 이 라는 점 을 거론하 며 " 꿈 을 잃 은 이 땅 의 젊은이 들 이 꿈 과 희망 을 가 질 수 있 는 나라 를 만들 어 보 도록 하 겠 습니다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내일 로 다가온 일본 참의원 선거 분위기 가 예상 밖 으로 차분하 다 .	O O O ORG-B O O O O O O O O O O
+사당 종합 체육관 붕괴 , 매몰자 11 명 전원 구조 … ‘ 오락가락 ’ 인원 왜 ? “ 1 명 빠져나가 ”	O O O O O O O O O O O O O O O O O O O O O O
+신혜선 , 박유환 과 함께 라디오 출연 … 그녀 는 예 뻤 다	PER-B O PER-B O O O O O O O O O O
+지난 18 일 모바일 반도체 설계 업체 인 영국 ARM 을 일본 소프트뱅크 가 320 억 달러 ( 약 36 조 원 ) 에 인수하 겠 다는 방침 을 밝히 면서 인텔 과 ARM 진영 의 5 G 대결 에 시선 이 집중되 고 있 다 .	O DAT-B DAT-I O O O O O ORG-B ORG-I O ORG-B ORG-I O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O
+ARM 은 직접 반도체 를 설계해 제조하 는 인텔 과 달리 반도체 설계도 를 퀄컴 · 삼성전자 같 은 반도체 기업 에 팔 아 로열티 로 수입 을 낸다 .	ORG-B O O O O O O O ORG-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O

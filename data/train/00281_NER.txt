@@ -1,12 +1,12 @@
-광동제약, 코리아이 플랫폼 인 수주식 매매계 .	ORG-B ORG-B ORG-I O O O O
-[세상 읽기] 한·중·일 3국과 중국의 대 주변 외 .	O O ORG-B O ORG-B O O O O
-우병우 전 청와대 민정수석(50·사법연수원 19기)에 대하+ㄴ 구속영장이 다시 한 번 기각되었다 .	PER-B O ORG-B ORG-B O O O O O O O O
-코스피 시장에 27일 상장 하+ㄹ 예정이+ㄴ용평리조트는 리조트 운영 및 개발 전문기업으로 1973년 설립되었다 .	O O O O O ORG-B O O O O O O O O
-매주 월요일 밤 9시 40분 방송. 방송을 접하+ㄴ누리꾼들은 “소유진남편 백종원, 셰프 남편 정말 부럽네” “소유진남편 백종원, 냉장고 대박이다 .	O O O O O O O O PER-B PER-B O O O O PER-B PER-B O O O
-결혼하지 않는 젊은 세대가 늘면서 고령의 부모와 중장년이 되+ㄴ 자녀가 같이 살는 모습은 일본에서 낯설지 않다 .	O O O O O O O O O O O O O ORG-B O O O
-자전거 굴리+어 3억 벌어요… ‘홍합밸리’는 창업밸 .	O O MNY-B O O O O
-엠블럼에는 30년 역사를 의미하는 숫자 30을 넣었다 .	O O O O O O O O
-그는 『미국은 전쟁이 나더라도 북한 핵개발을 막을 수 있으면 막아야 하+ㄴ다는 입장』이라며 『그러나 우리 민족 입장에서는 전쟁은 결코 일어나 +아서+ㄴ 안 되+ㄴ 다』고 말하였다 .	O ORG-B O O ORG-B O O O O O O O O O O O O O O O O O O O O
-470쪽의 자료집에는 울산 계모아동학대 살인사건 개요, 수사와 공판 개요, 사건의의, 수사자료 외에도 영국, 미국, 독일의 아동학대 사망 사건 자료 등이 담기었다 .	O O LOC-B O O O O O O O O O ORG-B ORG-B ORG-B O O O O O O O
-현 서울의 택시 승차대는 총 411곳(8월 17일 기준)이다 .	O LOC-B O O O O O O O
-또 실리콘 위조지 문제작을 조언 하+ㄴ 1명은 정직 1개월을, 실리콘 위조지문으로 대신 체크를 하+여주+ㄴ 8명은 견책 처분하였다 .	O O O O O O O O O O O O O O O O O O
+광동 제약 , 코리아 이 플랫폼 인수 주식 매매 계약	ORG-B ORG-I O ORG-B ORG-I ORG-I O O O O
+[ 세상 읽 기 ] 한 · 중 · 일 3 국 과 중국 의 대 주변 외교	O O O O O ORG-B O ORG-B O ORG-B O O O ORG-B O O O O
+우병우 전 청와대 민정 수석 ( 50 · 사법연수원 19 기 ) 에 대한 구속 영장 이 다시 한 번 기각 됐 다 .	PER-B O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O
+코스피 시장 에 27 일 상장할 예정 인 용평리조트 는 리조트 운영 및 개발 전문 기업 으로 1973 년 설립 됐 다 .	O O O DAT-B DAT-I O O O ORG-B O O O O O O O O DAT-B DAT-I O O O O
+매주 월요일 밤 9 시 40 분 방송 . 방송 을 접한 누리 꾼 들 은 “ 소유진 남편 백종원 , 셰프 남편 정말 부럽 네 ” “ 소유진 남편 백종원 , 냉장고 대박 이 다 ”	O DAT-B TIM-B TIM-I TIM-I TIM-I TIM-I O O O O O O O O O O PER-B O PER-B O O O O O O O O PER-B O PER-B O O O O O O
+결혼하 지 않 는 젊 은 세대 가 늘 면서 고령 의 부모 와 중 장년 이 된 자녀 가 같이 사 는 모습 은 일본 에서 낯설 지 않 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O
+자전거 굴려 3 억 벌 어요 … ‘ 홍합 밸리 ’ 는 창업 밸리	O O MNY-B MNY-I O O O O O O O O O O
+엠블럼 에 는 30 년 역사 를 의미하 는 숫자 30 을 넣 었 다 .	O O O O O O O O O O O O O O O O
+그 는 『 미국 은 전쟁 이 나 더라도 북한 핵 개발 을 막 을 수 있 으면 막 아야 한다는 입장 』 이 라며 『 그러나 우리 민족 입장 에서 는 전쟁 은 결코 일어나선 안된다 』 고 말 했 다 .	O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+470 쪽 의 자료집 에 는 울산 계모 아동 학대 살인 사건 개요 , 수사 와 공판 개요 , 사건 의의 , 수사 자료 외 에 도 영국 , 미국 , 독일 의 아동 학대 사망 사건 자료 등 이 담 겼 다 .	O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O
+현 서울 의 택시 승차 대 는 총 411 곳 ( 8 월 17 일 기준 ) 이 다 .	O LOC-B O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O
+또 실리콘 위조 지문 제작 을 조언한 1 명 은 정직 1 개월 을 , 실리콘 위조 지문 으로 대신 체크 를 해 준 8 명 은 견책 처분 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-23일 밤 방송되+ㄴ 채널A ‘풍문으로 듣었쇼’에서는 장동건, 고소영 부부에 대하+ㄴ이야기를 나누었다 .	O O O ORG-B O O PER-B PER-B O O O O
-●올림픽 마지막 점검, 일본에 완승 브라질 올림픽 축구대표팀은 31일 세라두 +이아 .	ORG-I O O ORG-B O ORG-B ORG-I ORG-I O O O O
-kt에서도 백업 내야수로서 기회를 엿보+ㄴ다 .	ORG-B O O O O O
-노무현 정부도 ‘비전 2030’과 10대 차세대 성장동력산업 육성을 들고 나오았지만 지금 흔적도 없다 .	ORG-B ORG-I O O O O O O O O O O O O
-기아차는 나누+ㅁ크리에이터 ‘레드 클로버’를 수료 하+ㄴ대학생에게 활동 인증서, 제반 활동에 필요하+ㄴ 봉사활동 지원금을 제공하고 우수 참가팀은 별도로 시상하+ㄹ 계획이다 .	ORG-B O O O O O O O O O O O O O O O O O O O
-나누+ㅁ크리에이터 ‘레드 클로버’ 참가를 원하는 학생은 5월 26일부터 6월 21일까지 기아차 CSR 홈페이지(http://cs r.kia. com)에서 신청 가능하며, 전국 2년제 이상 대학생, 대학원생이라면 누구나 지원 가능하다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-기아차는 지원자를 대상으로 6월 중 서류전형과 면접을 실시하+여 6월 30일 최종 40명의 나누+ㅁ크리에이터 ‘레드클로버’를 선발하+ㄹ 계획이다 .	ORG-B O O O O O O O O O O O O O O O O
-오씨는 “스타트업 업체에는 창업 분야 관계자와 네트워크를 형성하+ㄹ 수 있는 기회가 중요하다”며 “파이빌은 벤처캐피털리스트를 초청하+여서 투자를 받을 수 있는 기회의 장도 열어 주+ㄴ다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-넥센 사이드 암한현희(22·사진)의 2015 시즌 중간 성적표+이다 .	ORG-B O PER-B O O O O O
-‘유럽파’ 부진… 월드컵 예선 명단 발표 앞두 +ㄴ 슈틸리케의 고 .	O O O O O O O O PER-B O O
-검찰총장 “朴前 대통령 영장 여부, 법과 원칙에 따르 아판단” 강 .	O PER-B O O O O O O O O O
-전북 최강희 감독은 정중히 거절하였다 .	ORG-B PER-B O O O O
-김 의원은 "자유한국당과 새누리당은 같은 뿌리로서 이 땅의 자유민주주의를 위하+ 여 경쟁 하+ㄹ 것"이라며 "자유한국당이 이를 다 포용하지 못하+ㄴ점에 대하+여서 +ㄴ 통렬 하+ㄴ 반성이 있어야 하+ㅁ. 저도 보수우파의 재건을 위하+여 최선을 다하겠음"이라고 다짐하였다 .	PER-B O ORG-B ORG-B O O O O ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
-윤덕여 감독은 “중원에서 강 하+ㄴ 압박으로 공간을 주지 않고 버티+ㄴ다면 충분히 좋은 경기를 하+ㄹ 수 있다”고 말하였다 .	PER-B O O O O O O O O O O O O O O O O O
-페이스북의 안면인식 기술은 타깃 마케팅을 극대화하는 수단이다 .	ORG-B O O O O O O O
+23 일 밤 방송된 채널 A ‘ 풍문 으로 들 었 쇼 ’ 에서 는 장동건 , 고소영 부부 에 대한 이야기 를 나 눴 다 .	DAT-B DAT-I O O ORG-B ORG-I O O O O O O O O O PER-B O PER-B O O O O O O O O O
+● 올림픽 마지막 점검 , 일본 에 완승 브라질 올림픽 축구 대표 팀 은 31 일 세라 두 라다	O O O O O ORG-B O O ORG-B ORG-I ORG-I ORG-I ORG-I O DAT-B DAT-I O O O
+kt 에서 도 백업 내야수 로서 기회 를 엿본다 .	ORG-B O O O O O O O O O
+노무현 정부 도 ‘ 비전 2030 ’ 과 10 대 차세대 성장 동력 산업 육성 을 들 고 나 왔 지만 지금 흔적 도 없 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O
+기아차 는 나눔 크리에이터 ‘ 레드 클로버 ’ 를 수료한 대학생 에게 활동 인증서 , 제반 활동 에 필요한 봉사 활동 지원금 을 제공하 고 우수 참가 팀 은 별도 로 시상할 계획 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+나눔 크리에이터 ‘ 레드 클로버 ’ 참가 를 원하 는 학생 은 5 월 26 일 부터 6 월 21 일 까지 기아차 CSR 홈페이지 ( http : / / csr . kia . com ) 에서 신청 가능하 며 , 전국 2 년 제 이상 대학생 , 대학원생 이 라면 누구 나 지원 가능하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+기아차 는 지원자 를 대상 으로 6 월 중 서류 전형 과 면접 을 실시해 6 월 30 일 최종 40 명 의 나눔 크리에이터 ‘ 레드 클로버 ’ 를 선발할 계획 이 다 .	ORG-B O O O O O O O O O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O
+오 씨 는 “ 스타트 업 업체 에 는 창업 분야 관계자 와 네트워크 를 형성할 수 있 는 기회 가 중요하 다 ” 며 “ 파이 빌 은 벤처 캐피털리스트 를 초청해서 투자 를 받 을 수 있 는 기회 의 장 도 열 어 준다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+넥센 사이드암 한현희 ( 22 · 사진 ) 의 2015 시즌 중간 성적표 다 .	ORG-B O PER-B O O O O O O DAT-B O O O O O
+‘ 유럽 파 ’ 부진 … 월드컵 예선 명단 발표 앞둔 슈틸리케 의 고민	O O O O O O O O O O O PER-B O O
+검찰 총장 “ 朴 前 대통령 영장 여부 , 법 과 원칙 에 따 라 판단 ” 강조	O O O PER-B O O O O O O O O O O O O O O
+전북 최강희 감독 은 정중히 거절 했 다 .	ORG-B PER-B O O O O O O O
+김 의원 은 " 자유 한국 당 과 새누리당 은 같 은 뿌리 로서 이 땅 의 자유 민주주의 를 위해 경쟁할 것 " 이 라며 " 자유 한국 당 이 이 를 다 포용하 지 못한 점 에 대해선 통렬한 반성 이 있 어야 함 . 저 도 보수 우파 의 재건 을 위해 최선 을 다하 겠 음 " 이라고 다짐 했 다 .	PER-B O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+윤덕여 감독 은 “ 중원 에서 강한 압박 으로 공간 을 주 지 않 고 버틴다면 충분히 좋 은 경기 를 할 수 있 다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+페이스북 의 안면 인식 기술 은 타깃 마케팅 을 극대화하 는 수단 이 다 .	ORG-B O O O O O O O O O O O O O O

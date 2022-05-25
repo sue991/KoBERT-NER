@@ -1,12 +1,12 @@
-그는 하루 7000~1만 칼로리를 섭취하+ㄹ 예정. 또한 체중 감소를 피하기 위하+여 올리브 오일도 함께 싣었다 .	O O O O O O O O O O O O O O O O
-학교 선거를 통하+여유권자들의 깨어있는 의식을 강조하+ㄴ용인 외고 학생들이 최우수상을, 대통령 선거일의 여러 풍경을 뮤지컬로 표현하+ㄴ 서울방송고 학생들은 우수상을 받았다 .	O O O O O ORG-B ORG-I O O O O O O O O ORG-B O O O O
-이씨는 폭력조직 부 천신촌 파 소속 성씨 등과 성인 PC방 형태로 차리+어지+ㄴ 전국 매장 7곳에게임을 공급하였다 .	PER-B O O O O O PER-B O PER-B O O O O O O O O
-서민들의 식탁에 자주 오르는 동해안 대표 어종오징어 가격이 연일 상승세+이다 .	O O O O LOC-B O O O O O O
-한국농수산식품유통공사에 따르면 21일 기준 물오징어 전국 평균 소매가격은 1마리당 3223원으로 한 달 전 2756원에 비하+여467원(17%) 오르았다 .	ORG-B O O O O O O O O MNY-B O O O MNY-B MNY-B O O
-고산마을에서 출발하는 자락길(7.9km)도 시민이 많이 찾는다 .	LOC-B O LOC-B O O O O
-‘휴먼다큐’ 안현수, 포상으로 받은 2층 집 소개“꿈꾸 +어+오았던 집 .	O PER-B O O O O O O O O
-제대예정 장병도 청년공제로 유도 김보현씨(23)는 지난해 5월 제대하+ㄴ 후한 회사에 입사하였지만, 얼마 못 가+아퇴사하였다 .	O O O O PER-B O O O O O O O O O O
-법무법인 한 누리의 김주영 변호사는 “피고회사나 회계법인 측 자료는 물론 금융감독기관의 감리 결과도 법정에 제출되지 않는 경우가 많고 미국처럼 쌍방이 보유 하+ㄴ 증거의 제출을 강제하는 시스템도 없어 쉽지 않은 소송”이라고 말하였다 .	O O O PER-B O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O
-상암동 베팅남이 4위고, 2~3위는 애매하+ㄴ데 여의도 이혼 남일 수 있다"고 말 하+ 여웃음을 자아내 +었다 .	LOC-B O O O O LOC-B O O O O O O O O O O
-이후 중소기업청의 글로벌 전략기술개발사업으로 선정되었으며, 9월 엔젤투자 유치 및 10월(주)신한캐피탈에서 회사가치 80억으로 투자유치를 받은 바 있다 .	O ORG-B O O O O ORG-B O O ORG-B O MNY-B O O O O O
-마이온도는 지름 약 14cm 크기의 원형 모양으로, 에어컨 반경 10m나 +의 부착 하+ 여 사용하는 에어컨 조절기다 .	O O O O O O O O O O O O O O O O O O
+그 는 하루 7000 ~ 1 만 칼로리 를 섭취할 예정 . 또한 체중 감소 를 피하 기 위해 올리브 오일도 함께 실 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+학교 선거 를 통해 유권자 들 의 깨 어 있 는 의식 을 강조한 용인 외고 학생 들 이 최우수 상 을 , 대통령 선거일 의 여러 풍경 을 뮤지컬 로 표현한 서울방송 고 학생 들 은 우수 상 을 받 았 다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O
+이 씨 는 폭력 조직 부천 신촌 파 소속 성 씨 등 과 성인 PC 방 형태 로 차려 진 전국 매장 7 곳 에 게임 을 공급 했 다 .	PER-B O O O O ORG-B ORG-I ORG-I O PER-B O O O O O O O O O O O O O O O O O O O O O
+서민 들 의 식탁 에 자주 오르 는 동해안 대표 어종 오징어 가격 이 연일 상승세 다 .	O O O O O O O O LOC-B O O O O O O O O O
+한국농수산식품유통공사 에 따르 면 21 일 기준 물오징어 전국 평균 소매 가격 은 1 마리 당 3223 원 으로 한 달 전 2756 원 에 비해 467 원 ( 17 % ) 올 랐 다 .	ORG-B O O O DAT-B DAT-I O O O O O O O O O O MNY-B MNY-I O O O O MNY-B MNY-I O O MNY-B MNY-I O O O O O O O O
+고산 마을 에서 출발하 는 자락 길 ( 7.9 km ) 도 시민 이 많이 찾 는다 .	LOC-B LOC-I O O O LOC-B LOC-I O O O O O O O O O O O
+‘ 휴먼 다큐 ’ 안현수 , 포상 으로 받 은 2 층집 소개 “ 꿈꿔 왔 던 집 ”	O O O O PER-B O O O O O O O O O O O O O O
+제대 예정 장병도 청년 공제 로 유도 김보현 씨 ( 23 ) 는 지난해 5 월 제대한 후 한 회사 에 입사 했 지만 , 얼마 못 가 퇴사 했 다 .	O O O O O O O PER-B O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+법무 법인 한누리 의 김주영 변호사 는 “ 피고 회사 나 회계 법인 측 자료 는 물론 금융 감독 기관 의 감리 결과 도 법정 에 제출되 지 않 는 경우 가 많 고 미국 처럼 쌍방 이 보유한 증거 의 제출 을 강제하 는 시스템 도 없 어 쉽 지 않 은 소송 ” 이라고 말 했 다 .	O O ORG-B O PER-B O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+상암동 베팅 남 이 4 위고 , 2 ~ 3 위 는 애매한데 여의도 이혼남 일수 있 다 " 고 말해 웃음 을 자아냈 다 .	LOC-B O O O O O O O O O O O O LOC-B O O O O O O O O O O O O
+이후 중소기업청 의 글로벌 전략 기술 개발 사업 으로 선정되 었 으며 , 9 월 엔젤 투자 유치 및 10 월 ( 주 ) 신한캐피탈 에서 회사 가치 80 억 으로 투자 유치 를 받 은 바 있 다 .	O ORG-B O O O O O O O O O O O DAT-B DAT-I ORG-B O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O O MNY-B MNY-I O O O O O O O O O O
+마이 온도 는 지름 약 14 cm 크기 의 원형 모양 으로 , 에어컨 반경 10 m 내 부착해 사용하 는 에어컨 조절기 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O

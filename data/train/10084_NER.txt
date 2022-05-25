@@ -1,17 +1,17 @@
-캐논코리아 컨슈머 이미징(대표 강동환)는 18일 서울그랑서울 나인트리컨벤션에서 2016년 상반기 전략 신제품 최고급기 및 중급기 DSLR 카메라 2종을 공개하였다 .	ORG-B ORG-I ORG-I PER-B O LOC-B LOC-I O O O O O O O O O O O O
-캐논은 올해 ‘프리미엄 중∙ 고급하기 DSLR 카메라의 해’로 선언하고 캐논 풀프레임 플래그십 DSLR 카메라 ‘EOS-1DXM arkII’와 프리미엄 중급 DSLR 카메라 ‘EOS 80D’를 상반기 전략 신제품으로 선보이었다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-EOS-1DXMarkII는 캐논 최상위 플래그십 모델이다 .	O ORG-B O O O O
-지난해 2월 이후 1년 3개월여 만이 +ㄴ이번 방한은 한중순방의 일환이다 .	O O O O O O O O ORG-B O O
-우즈는 불륜과 이혼에 따르+ㄴ이미지 실추로 스폰서가 줄어들 +ㄴ데다 부상으로 ‘젖줄’로 불리던 아시아 지역 대회의 고액 초청료도 사라지었다 .	PER-B O O O O O O O O O O LOC-B O O O O O O
-재판부는 이어 “강씨는 미리 수면제를 준비 하+여아내와 아이들에게 먹이는 등 주도면밀하고 대담하게 범행을 계획하였다”며 “피해자들이 강씨의 폭력에 저항하는 과정에서 느끼었을 정신적·육체적 고통은 짐작조차 어렵다”고 말하였다 .	O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O
-재판부는 그러면서 “강씨의 재산 상태를 객관적으로 살펴보면 경제적 곤궁을 겪고 있었다고 보기 어렵다”며 “강씨가 소유하고 있던 부동산, 예금, 차량 등 재산을 살펴보면 경제적 어려움은 얼마든지 극복 가능하였다”고 지적하였다 .	O O PER-B O O O O O O O O O O PER-B O O O O O O O O O O O O O O O
-아울러 “심신미약 상태에서 범행을 저지르었다”는 강씨의 주장에 대하+여 “계획적으로 범행을 저지르+ㄴ점, 정신감정 결과, 수사기관에서의 진술 내용 등에 비추+어보면 사물을 변별 하+ㄴ 능력이나 의사결정 능력이 미약하+ㄴ 상태+이었다고 보기 어렵다”며 받아들이지 않았다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-재판부는 다만 “강씨의 부모님이 피해자 유족들의 슬픔을 위로하기 위하+여 노력하고 있는 점, 피해자 유족들이 강씨의 선처를 탄원하고 있는 점, 중증도우을 증증세를 보이고 있는 점 등을 참작하였다”고 덧붙이었다 .	O O PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O
-강씨는 1월 6일 오전 서울 서초동 자신의 아파트에서 부인과 맏딸, 둘째 딸에게 수면제를 먹이고 목조르 아 숨지게 하+ㄴ후투신 자살을 기도하였지만 실패하였다 .	PER-B O O O LOC-B LOC-B O O O O O O O O O O O O O O O O
-조사 결과 강씨는 회사를 그만두+ㄴ 뒤 아파트를 담보로 빌리+ㄴ돈을 제때 갚지 못하게 되자 극단적 이+ㄴ 선택을 하+ㄴ 것으로 드러나 +았다 .	O O PER-B O O O O O O O O O O O O O O O O O O
-남궁성 원불교 교정원장은 11일 열리+ㄴ 간담회에서 “그동안 여성 교무 결혼이 금지되+어+오았지만 시대 변화에 맞추+어 결혼을 허용 하+여야 하는가에 대하+ㄴ 논의가 교단 차원에서 진행되고 있다”며 “찬반 의견이 치열하+ㄴ 상황”이라고 +였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-박나래와 딘딘조합은 요즘 이들이 왜 바쁘+ㄴ지 딱 보+아도 고개가 끄덕이 어지+ㄴ다 .	PER-B PER-I O O O O O O O O O O
-스프링캠프 때 머리를 오렌지색으로 염색 하+ㄴ문제로 갈등을 빚은 김성근 감독에게 앙금이 남아 있지만 효심이 깊은 로저스가 어머니 뜻을 저버리기 힘들어 마운드에 오르고 있다는 이야기+이었다 .	O O O O O O O O PER-B O O O O O O PER-B O O O O O O O O O
-학교 측은 교권보호위원회를 열고 대응책을 논의하려고 +였지만 여교사의 반대로 하지 않았다 .	O O ORG-B O O O O O O O O O
-이를 듣던 출연자들이 하나같이 의아하+여하자 박상민은 ‘최씨’라고 힌트를 던지었다 .	O O O O O PER-B PER-B O O O
-유인나, 아이유와 단둘이 유럽 여행 ‘눈길 .	PER-B PER-B O LOC-B O O O
+캐논 코리아 컨슈머 이미징 ( 대표 강동환 ) 는 18 일 서울 그랑서울 나 인트리 컨벤션 에서 2016 년 상반기 전략 신제품 최고급 기 및 중 급기 DSLR 카메라 2 종 을 공개 했 다 .	ORG-B ORG-I ORG-I ORG-I O O PER-B O O DAT-B DAT-I LOC-B LOC-I LOC-I LOC-I LOC-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+캐논 은 올해 ‘ 프리미엄 중 ∙ 고급 기 DSLR 카메라 의 해 ’ 로 선언하 고 캐논 풀 프레임 플래그십 DSLR 카메라 ‘ EOS - 1 D X MarkII ’ 와 프리미엄 중급 DSLR 카메라 ‘ EOS 80 D ’ 를 상반기 전략 신제품 으로 선보 였 다 .	ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+EOS - 1 D X Mark II 는 캐논 최 상위 플래그십 모델 이 다 .	O O O O O O O O ORG-B O O O O O O O
+지난해 2 월 이후 1 년 3 개월 여 만 인 이번 방한 은 한중 순방 의 일환 이 다 .	O DAT-B DAT-I O O O O O O O O O O O ORG-B O O O O O O
+우즈 는 불륜 과 이혼 에 따른 이미지 실추 로 스폰서 가 줄어든 데 다 부상 으로 ‘ 젖줄 ’ 로 불리 던 아시아 지역 대회 의 고액 초청 료 도 사라 졌 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O
+재판부 는 이어 “ 강 씨 는 미리 수면제 를 준비해 아내 와 아이 들 에게 먹이 는 등 주도면밀 하 고 대담하 게 범행 을 계획 했 다 ” 며 “ 피해자 들 이 강 씨 의 폭력 에 저항하 는 과정 에서 느 꼈 을 정신적 · 육체 적 고통 은 짐작 조차 어렵 다 ” 고 말 했 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+재판부 는 그러 면서 “ 강 씨 의 재산 상태 를 객관적 으로 살펴보 면 경제적 곤궁 을 겪 고 있 었 다고 보 기 어렵 다 ” 며 “ 강 씨 가 소유하 고 있 던 부동산 , 예금 , 차량 등 재산 을 살펴보 면 경제적 어려움 은 얼마 든지 극복 가능 했 다 ” 고 지적 했 다 .	O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아울러 “ 심신 미약 상태 에서 범행 을 저질 렀 다 ” 는 강 씨 의 주장 에 대해 “ 계획적 으로 범행 을 저지른 점 , 정신 감정 결과 , 수사 기관 에서 의 진술 내용 등 에 비춰 보 면 사물 을 변별한 능력 이나 의사 결정 능력 이 미약한 상태 였 다고 보 기 어렵 다 ” 며 받아들이 지 않 았 다 .	O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+재판부 는 다만 “ 강 씨 의 부모님 이 피해자 유족 들 의 슬픔 을 위로하 기 위해 노력하 고 있 는 점 , 피해자 유족 들 이 강 씨 의 선처 를 탄원하 고 있 는 점 , 중증 도 우을증 증세 를 보이 고 있 는 점 등 을 참작 했 다 ” 고 덧붙 였 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+강 씨 는 1 월 6 일 오전 서울 서초동 자신 의 아파트 에서 부인 과 맏딸 , 둘째 딸 에게 수면제 를 먹이 고 목 졸 라 숨지 게 한 후 투신자살 을 기도 했 지만 실패 했 다 .	PER-B O O DAT-B DAT-I DAT-I DAT-I O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조사 결과 강 씨 는 회사 를 그만둔 뒤 아파트 를 담보 로 빌린 돈 을 제때 갚 지 못하 게 되 자 극단적 인 선택 을 한 것 으로 드러났 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남궁성 원불교 교정 원장 은 11 일 열린 간담회 에서 “ 그동안 여성 교무 결혼 이 금지돼 왔 지만 시대 변화 에 맞춰 결혼 을 허용해야 하 는가 에 대한 논의 가 교단 차원 에서 진행되 고 있 다 ” 며 “ 찬반 의견 이 치열한 상황 ” 이라고 했 다 .	PER-B ORG-B O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박나래 와 딘 딘 조합 은 요즘 이 들 이 왜 바쁜지 딱 봐도 고개 가 끄덕 여 진다 .	PER-B O PER-B PER-I O O O O O O O O O O O O O O O O
+스프링 캠프 때 머리 를 오렌지색 으로 염색한 문제 로 갈등 을 빚 은 김성근 감독 에게 앙금 이 남 아 있 지만 효심 이 깊 은 로저스 가 어머니 뜻 을 저버리 기 힘들 어 마운드 에 오르 고 있 다는 이야기 였 다 .	O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O
+학교 측 은 교권 보호 위원회 를 열 고 대응책 을 논의하 려고 했 지만 여교사 의 반대 로 하 지 않 았 다 .	O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O
+이 를 듣 던 출연자 들 이 하나같이 의아해 하 자 박상민 은 ‘ 최 씨 ’ 라고 힌트 를 던 졌 다 .	O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O
+유인 나 , 아이유 와 단둘 이 유럽 여행 ‘ 눈길 ’	PER-B PER-I O PER-B O O O LOC-B O O O O

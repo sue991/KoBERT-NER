@@ -1,16 +1,16 @@
-한화의 태양광 사업을 담당하고 있는 한화큐셀은 세+ㄹ 생산 규모 세계 1위로 글로벌 태양광 시장을 확고하게 지배하고 있다 .	ORG-B O O O O ORG-B O O O O O O O O O O O O
-대구시민 1인당 평균 4회 이용하+ㄴ셈이다 .	ORG-B O O O O O
-김소연의 한 측근에 따르면 남자친구와 ‘맛집’을 찾아다니며 다른 연인들처럼 시간을 보내고 있다 .	PER-B O O O O O O O O O O O O
-외국인 투자가들의 이 같은 평가를 바탕으로 포철은 서울과 월가의 증권시장에서 동시 주식 상장을 추진하고 있다 .	O O O O O O ORG-B ORG-B ORG-B O O O O O O O
-▲장=미국이 한반도 정책을 장악하려는 것을 중국은 물론 북한도 우려하+ㅂ니다 .	ORG-B LOC-B O ORG-B O ORG-B O ORG-B O O
-경남 밀양 출신 이+ㄴ 선생은 1920년 12월 27일 밀양경찰서장이 연말연시 특별경계를 당부하는 훈시를 하는 틈을 타 +아 경찰서에 폭탄 2개를 잇달아 던지었다 .	LOC-B LOC-B O O O O O O LOC-B O O O O O O O O O O O O O O
-그런데 친구들이 페이스북에 올리+ㄴ 뉴스는 마치 메아리처럼 나+의 의견과 딱 맞아 떨어지니 덮어놓고 믿게 되+ㄴ다는 것+이다 .	O O O O O O O O O O O O O O O O O
-박근혜 대통령 탄핵 이후 카톡방에 넘치+어나는 가짜뉴스도 마찬가지 +이다 .	PER-B O O O O O O O O O
-그러나 L군은 경찰에서 공범 가능성을 계속 완강히 부인하고 있는 것으로 전하여 +지+었다 .	O ORG-B O O O O O O O O O O O
-교육부가 이유 없이 제청을 거부하면 ‘총장 임용 제청 거부 처분 취소 청구소송’을 내+ㄹ 것으로 알려지었다 .	ORG-B O O O O O O O O O O O O O O O
-지동원 자책골 아니다… UEFA, 지동원발 맞고 들어가 +ㄴ 골상 대 선수골로 공식 인정지 동원·구자철·홍정호 이풀타임 활약하+ㄴ 독일 분데스리가 아우크스부르크가 유럽 축구연맹(UEFA) 유로파리그 조별 리그 2차전에서 패하였다 .	PER-B O O ORG-B PER-B O O O O O O O O PER-B O O ORG-B ORG-I ORG-I ORG-B ORG-B O O O O O O
-여럿이 투표를 하는 방식이어서 한두 명이 사적 감정으로 동료나 상사를 채점하+여서는 별 효력이 없다 .	O O O O O O O O O O O O O O O
-한편 KBS2TV 드라마 ‘후아유-학교 2015’ 마지막 회예고편에는 이은비에게 고백하는 한 이안(남주혁)과 공태광(육성재)의 모습이 담기 +어 있다 .	PER-B O O O O O O PER-B O PER-B PER-B PER-B O O O O O
-충북의 한 영재교육원은 학생들에게 요일별로 주제를 주+어글쓰기를 하도록 하고 영어 문장 번역과제를 내는데, 이를 모으아 개인별 창작집을 발간하고 있다 .	LOC-B O O O O O O O O O O O O O O O O O O O
-광양읍 5일 시장에서 운영하는 토요시장도 눈길을 끌+ㄴ다 .	LOC-B O O O O O O O
-안 후보의 공약 발표를 듣은 조씨는 "사실 후보별 장애인 공약은 대동소이하다"며 "누구가 약속을 지키+ㄹ지가 더 중요하+ㄴ데 그런 면에서 안 후보나 문 후보 대신 그동안 약자의 편에서 싸우어 오+ㄴ 심상정 정의당 후보를 지지하+ㄹ 생각"이라고 말하였다 .	PER-B O O O O PER-B O O O O O O O O O O O O PER-B O PER-B O O PER-B O O O O PER-B ORG-B O O O O O
+한화 의 태양광 사업 을 담당하 고 있 는 한화 큐셀 은 셀 생산 규모 세계 1 위 로 글로벌 태양광 시장 을 확고하 게 지배하 고 있 다 .	ORG-B O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+대구 시민 1 인 당 평균 4 회 이용한 셈 이 다 .	ORG-B ORG-I O O O O O O O O O O O
+김소연 의 한 측근 에 따르 면 남자 친구 와 ‘ 맛집 ’ 을 찾아다니 며 다른 연인 들 처럼 시간 을 보내 고 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+외국인 투자가 들 의 이 같 은 평가 를 바탕 으로 포철 은 서울 과 월가 의 증권 시장 에서 동시 주식 상장 을 추진하 고 있 다 .	O O O O O O O O O O O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O
+▲ 장 = 미국 이 한반도 정책 을 장악하 려는 것 을 중국 은 물론 북한 도 우려합니다 .	O ORG-B O ORG-B O LOC-B O O O O O O ORG-B O O ORG-B O O O
+경남 밀양 출신 인 선생 은 1920 년 12 월 27 일 밀양 경찰서 장 이 연말 연시 특별 경계 를 당부하 는 훈시 를 하 는 틈 을 타 경찰서 에 폭탄 2 개 를 잇달 아 던 졌 다 .	LOC-B LOC-B O O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그런데 친구 들 이 페이스북 에 올린 뉴스 는 마치 메아리 처럼 내 의견 과 딱 맞아떨어지 니 덮어놓 고 믿 게 된다는 거 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+박근혜 대통령 탄핵 이후 카톡 방 에 넘쳐 나 는 가짜 뉴스 도 마찬가지 다 .	PER-B O O O O O O O O O O O O O O O
+그러나 L 군 은 경찰 에서 공범 가능성 을 계속 완강히 부인하 고 있 는 것 으로 전해 졌 다 .	O ORG-B O O O O O O O O O O O O O O O O O O O
+교육부 가 이유 없이 제청 을 거부하 면 ‘ 총장 임용 제청 거부 처분 취소 청구 소송 ’ 을 낼 것 으로 알려 졌 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+지동원 자책골 아니 다 … UEFA , 지동원 발 맞 고 들어간 골 상대 선수 골 로 공식 인정 지동원 · 구자철 · 홍정호 이 풀타임 활약한 독일 분데스리가 아우크스부르크 가 유럽 축구 연맹 ( UEFA ) 유로파 리그 조별 리그 2 차 전 에서 패 했 다 .	PER-B O O O O ORG-B O PER-B O O O O O O O O O O O PER-B O PER-B O PER-B O O O ORG-B ORG-I ORG-I O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O
+여럿 이 투표 를 하 는 방식 이 어서 한두 명 이 사적 감정 으로 동료 나 상사 를 채점해서 는 별 효력 이 없 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 KBS 2 TV 드라마 ‘ 후아유 - 학교 2015 ’ 마지막 회 예고편 에 는 이은비 에게 고백하 는 한 이안 ( 남주혁 ) 과 공태광 ( 육성재 ) 의 모습 이 담겨 있 다 .	O O O O O O O O O O O O O O O O PER-B O O O PER-B PER-I O PER-B O O PER-B O PER-B O O O O O O O O
+충북 의 한 영재 교육 원 은 학생 들 에게 요일 별 로 주제 를 줘 글쓰기 를 하 도록 하 고 영어 문장 번역 과제 를 내 는데 , 이 를 모 아 개인별 창작집 을 발간하 고 있 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+광양읍 5 일 시장 에서 운영하 는 토요 시장 도 눈길 을 끈다 .	LOC-B DAT-B DAT-I O O O O O O O O O O O
+안 후보 의 공약 발표 를 들 은 조 씨 는 " 사실 후보 별 장애인 공약 은 대동소이하 다 " 며 " 누 가 약속 을 지킬지 가 더 중요한데 그런 면 에서 안 후보 나 문 후보 대신 그동안 약자 의 편 에서 싸 워 온 심상정 정의당 후보 를 지지할 생각 " 이라고 말 했 다 .	PER-B O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O PER-B O O O O O O O O O O PER-B ORG-B O O O O O O O O O O

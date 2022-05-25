@@ -1,9 +1,9 @@
-트럼프의 정체도 모르겠고 대응 하+ㄹ지렛대도 마땅찮다면 이 책부터 꼼꼼히 들여다 보+ㄹ 필요가 있어 보이+ㄴ다 .	PER-B O O O O O O O O O O O O O O
-[카드 뉴스]사진 23장이 불러내 +ㄴ 야 당 시절 '청년 김영삼 .	O O O O O O O O O PER-B O
-오연서 깜찍셀카, 미키마우스 머리띠 물오르+ㄴ 미 .	PER-B O PER-B O O O O
-북한 선수들은 대회 개막 수일 전에 중국을 경유 하+여삿포로에 도착하+ㄹ 것으로 알려지었다 .	ORG-B O O O O O ORG-B O O O O O O
-죽은 사람도 많아요. 글라이더 개발의 선구자 이+ㄴ 오토릴리엔탈은 새의 날개와 꼬리 모양을 본뜨 어글라이더를 만들었죠 .	O O O O O O O PER-B O O O O O O O O
-조 본부장은 “2006년부터 예산 955억원을 투입 하+여독자 기술을 개발하였고 2013년 칠레에 1억300만달러(약 1100억원) 규모의 플랜트 설비를 수주하는 성과를 거두었다”고 설명하였다 .	PER-B O O O MNY-B O O O O MNY-B ORG-B MNY-B MNY-B O O O O O O O O
-‘요리 고수, 인생 고수’ 장 선용이 ‘평생의 레시피’를 펴내 +었다 .	O O O O O O O O O O O
-홍 변호사가 이렇게 포탈하+ㄴ 세금은 15억5300만원에 달하는 것으로 파악되었다 .	PER-B O O O O MNY-B O O O O
-이후 노리모토가 2이 닝 무실점, 마츠이가 1이 닝 무실점으로 한국타선을 봉쇄하였다 .	O PER-B O O O PER-B O O O ORG-B O O
+트럼프 의 정체 도 모르 겠 고 대응할 지렛대 도 마땅찮 다면 이 책 부터 꼼꼼히 들여다볼 필요 가 있 어 보인다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+[ 카드 뉴스 ] 사진 23 장 이 불러낸 야당 시절 ' 청년 김영삼 '	O O O O O O O O O O O O O PER-B O
+오연 서 깜찍 셀카 , 미키마우스 머리띠 물오른 미모	PER-B PER-I O O O PER-B O O O
+북한 선수 들 은 대회 개막 수일 전 에 중국 을 경유해 삿포로 에 도착할 것 으로 알려 졌 다 .	ORG-B O O O O O O O O ORG-B O O O O O O O O O O O
+죽 은 사람 도 많 아요 . 글라이더 개발 의 선구자 인 오토 릴리엔탈 은 새 의 날개 와 꼬리 모양 을 본 떠 글라이더 를 만들 었 죠 .	O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+조 본부 장 은 “ 2006 년 부터 예산 955 억 원 을 투입해 독자 기술 을 개발 했 고 2013 년 칠레 에 1 억 300 만 달러 ( 약 1100 억 원 ) 규모 의 플랜트 설비 를 수주하 는 성과 를 거 뒀 다 ” 고 설명 했 다 .	PER-B O O O O DAT-B DAT-I O O MNY-B MNY-I MNY-I O O O O O O O O DAT-B DAT-I ORG-B O MNY-B MNY-I MNY-I MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O
+‘ 요리 고수 , 인생 고수 ’ 장선용 이 ‘ 평생 의 레시피 ’ 를 펴냈 다 .	O O O O O O O PER-B O O O O O O O O O O
+홍 변호사 가 이렇 게 포탈한 세금 은 15 억 5300 만 원 에 달하 는 것 으로 파악 됐 다 .	PER-B O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O
+이후 노리모토 가 2 이닝 무실점 , 마츠이 가 1 이닝 무실점 으로 한국 타선 을 봉쇄 했 다 .	O PER-B O O O O O PER-B O O O O O ORG-B O O O O O O

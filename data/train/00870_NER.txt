@@ -1,12 +1,12 @@
-잠원동 새마을금고, 강도 침입 하+여창구 직원 위협 하+ㄴ후돈 빼앗아…오토바이타고 도주 20일 낮 12시 20분께 서울 서초구 잠원동 새말을 금고에 강도가 침입하+ 여돈을 뺏어 달아나 +았다 .	LOC-B LOC-B O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O O O
-경찰에 따르면 30대로 추정되는 남성이 새마을금고에 들어오아권총으로 보이는 물건으로 창구 직원을 위협하+여 돈을 빼앗아 도주하였다 .	O O O O O LOC-B O O O O O O O O O O
-범인은 검은색 등산복 차림에 헬멧을 쓰+ㄴ 채새마을금고에 100cc 짜리 오토바이를 몰고 +았으며, 범행 직후 오토바이를 타고 신사역 방면으로 달아나 +ㄴ 것으로 알려지었다 .	O O O O O O LOC-B O O O O O O O O O LOC-B O O O O O O
-재판부는 파산관재인을 선임하+여현 전 회장이 보유 하+ㄴ자산을 조사하고 이를 매각하+여 채권자들에게 배당하+ㄹ 예정이다 .	O O PER-B O O O O O O O O O O O
-이탈리아 안에서는 이탈리아원 컨트리패스를 이용하면 편리하다 .	LOC-B O LOC-B O O O O
-경기 31개 시군 가운데 교통안전지수가 하위 4, 5등급이+ㄴ 지자체는 2곳(안성·포천시)으로 전체의 6.5%+이었다 .	LOC-B O O O O O O O O LOC-B O O O
-전날 김무성 대표도 “오래전부터 발언이나 정치활동을 보면 우리당 컬러와 맞는다고 많이 +였다”고 말하였다 .	O PER-B O O O O O O O O O O O O
-전병헌 최고위원은 “최고위원 구성을 바꾸+ㄴ다고 해결되+ㄹ(계파) 문제도 아니고, 국민 관심사도 아니다”고 +였고, 추미애 최고위원은 “음식이 짜다고 소금을 다 버리면 음식을 어떻게 만들 +ㄹ 수 있겠느냐”고 지적하였다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O
-빨갛게 잘 익은 토마토는 100g당 글루타 메이트가 246mg이나 들어 있다 .	O O O O O O O O O O O
-안병훈 이용품 계약을 하+ㄴ타이틀리스트에 따르면 안병훈의 드라이버 클럽 헤드 스피드는 시속 120∼123 마일로 측정되었다 .	PER-B O O ORG-B O PER-B O O O O O O O O O
-롯데마트에 따르면 지난달 20일부터 28일까지 9일간 물티슈와 향균 비누 판매량이 같은 달 6~14일보다 21.6%, 128.1%씩 증가하였다 .	ORG-B O O O O O O O O O O O O O O O O
-위원은 이현세 김혁 씨 이외에 ▲만화영화업계에서 최안희 세영 애니텔 대표와 이용배 애니메이션 감독 ▲컴퓨터 소프트웨어 분야에서 신근영 소프트타운 대표, 정재성 미리 내 소프트웨어 대표 등 모두 10여명으로 구성되었다 .	O PER-B PER-B PER-I O O PER-B ORG-B ORG-I O PER-B O O O O O PER-B O O PER-B O O O O O O O O O
+잠원동 새마을금고 , 강도 침입해 창구 직원 위협한 후 돈 빼앗 아 … 오토바이 타 고 도주 20 일 낮 12 시 20 분 께 서울 서초구 잠원동 새말 을 금고 에 강도 가 침입해 돈 을 뺏 어 달아났 다 .	LOC-B LOC-B O O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O O O O O O O
+경찰 에 따르 면 30 대 로 추정되 는 남성 이 새마을금고 에 들어 와 권총 으로 보이 는 물건 으로 창구 직원 을 위협해 돈 을 빼앗 아 도주 했 다 .	O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O
+범인 은 검은색 등산복 차림 에 헬멧 을 쓴 채 새마을금고 에 100 cc 짜리 오토바이 를 몰 고 왔 으며 , 범행 직후 오토바이 를 타 고 신사역 방면 으로 달아난 것 으로 알려 졌 다 .	O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O
+재판부 는 파산 관재인 을 선임해 현 전 회장 이 보유한 자산 을 조사하 고 이 를 매각해 채권자 들 에게 배당할 예정 이 다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O O O O
+이탈리아 안 에서 는 이탈리아 원 컨트리 패스 를 이용하 면 편리하 다 .	LOC-B O O O O O O O O O O O O O
+경기 31 개 시 군 가운데 교통안전 지수 가 하위 4 , 5 등급 인 지자체 는 2 곳 ( 안성 · 포천시 ) 으로 전체 의 6.5 % 였 다 .	LOC-B O O O O O O O O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O
+전날 김무성 대표 도 “ 오래 전 부터 발언 이나 정치 활동 을 보 면 우리 당 컬러 와 맞 는다고 많이 했 다 ” 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전병헌 최고 위원 은 “ 최고 위원 구성 을 바꾼다고 해결될 ( 계파 ) 문제 도 아니 고 , 국민 관심사 도 아니 다 ” 고 했 고 , 추미애 최고 위원 은 “ 음식 이 짜 다고 소금 을 다 버리 면 음식 을 어떻 게 만들 수 있 겠 느냐 ” 고 지적 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+빨갛 게 잘 익 은 토마토 는 100 g 당 글루타메이트 가 246 mg 이나 들 어 있 다 .	O O O O O O O O O O O O O O O O O O O O
+안병훈 이 용품 계약 을 한 타이틀 리스트 에 따르 면 안병훈 의 드라이버 클럽 헤드 스피드 는 시속 120 ∼ 123 마일 로 측정 됐 다 .	PER-B O O O O O ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O O
+롯데마트 에 따르 면 지난달 20 일 부터 28 일 까지 9 일 간 물티슈 와 향 균 비누 판매량 이 같 은 달 6 ~ 14 일 보다 21.6 % , 128.1 % 씩 증가 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+위원 은 이현세 김혁 씨 이외 에 ▲ 만화 영화 업계 에서 최안희 세영 애니텔 대표 와 이용배 애니메이션 감독 ▲ 컴퓨터 소프트웨어 분야 에서 신근영 소프트 타운 대표 , 정재성 미리내 소프트웨어 대표 등 모두 10 여 명 으로 구성 됐 다 .	O O PER-B PER-B PER-I O O O O O O O PER-B ORG-B ORG-I O O PER-B O O O O O O O PER-B O O O O PER-B ORG-B ORG-I O O O O O O O O O O O

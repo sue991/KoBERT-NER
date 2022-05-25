@@ -1,14 +1,14 @@
-설교는 이영훈 오정현 목사가 통일을 위하+ㄴ한국교회의 역할과 비전을 주제로 진행 하+ㄹ 예정이다 .	O PER-B PER-B O O ORG-B O O O O O O O
-황창중 NH투자증권 프리미어 블루 강북센터 .	PER-B ORG-B O O O O
-배규식 노동연구원 선임연구위원은 “대기업 입사는 갈수록 어렵어지고 있는데 중소기업은 인력난을 겪고 있다” +이라며 “임금 격차를 줄이는 등 노동시장의 양극화를 해소하는 데 집중 하+여야 하+ㄴ다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O
-또 장기 조직 기증원이 기증자에게 동의를 받고 장기이식관리센터가 정하+ㄴ 기준에 따르 아이식 대상자를 선정하+ㄴ다 .	O ORG-B O O O O O ORG-B O O O O O O O
-광해(차승원 분)는 역모를 직감하고 궁을 떠나며 정명 공주(이연희 분)에게 "승리하거라 반드시 너+ㄴ 알겠느냐"라고 부탁하며 이목을 집중시키었다 .	PER-B O O O O O PER-B PER-B O O O O O O O O O
-김대중 정부의 초고속인터넷망 보급성과를 언급하며 ‘사물인터넷(IoT) 망1등 국가’를 내걸었다 .	PER-B O O O O O O O O O
-美백악관 폭탄 협박범 “트럼프와 텔레파시나누었다 .	ORG-B O O PER-B O O
-미 “국제선 여객기도 금연” / 하원, 법안 승인… 제3국 공항까지는 허 .	ORG-B O O O O O O O O O O O
-뮤직비디오에서 니엘과 유승옥은 진하+ㄴ 눈빛교환을 하며 섹시하+ㄴ 분위기를 연출하기도 하고, 다정하+ㄴ 연인으로 달콤하+ㄴ 분위기도 보이며 의외의 커플 호흡을 선보이었다 .	O PER-B PER-B O O O O O O O O O O O O O O O O O
-객실에서의 숙박과 이 소마린 화장품을 제공하는 스테이위드어스(21만5000원), 아이가 있는 가족이 파티를 즐기+ㄹ 수 있도록 풍성하+ㄴ이+ㄴ룸 다이닝 메뉴가 준비되+ㄴ인 조이위드어스(25만원) 이외에 2016년 마지막 밤 프라이빗 파티를 하+ㄹ 수 있는 윈터 발코니 파티(26만원), 북적이는 도심을 떠나 +아홀로 휴식을 즐기기 좋은 스테이슬림(29만원) 패키지가 있다 .	O O O O O O MNY-B O O O O O O O O O O O MNY-B O O O O O O O O O O O MNY-B O O O O O O O MNY-B O O O
-한국여자프로골프(KLPGA) 투어에서는 조윤지(하이원 리조트)가 5월 E1 채리티 오픈에서 작성 하+ㄴ 8개 홀 연속 버디가 최다 기록이다 .	O O PER-B O O O O O O O O O O O O O O
-실제 마라카낭 주 경기장에 설치되 +ㄴ 순간 이동 장치 모양의 단상에 나타나 +아슈퍼 마리오 역할을 맡은 인물은 아베 신조 일본 총리+이었다 .	O LOC-B LOC-I LOC-I O O O O O O O O O O O O O PER-B PER-I ORG-B O O
-말레이시아 경찰이 17일(현지시간) 김정은 북한 노동당 위원장의 이복형 김정남의 시신을 인도받기를 원하+ㄴ다면 유족의 DNA 자료를 제출하라고 밝히었다 .	LOC-B O O PER-B ORG-B ORG-I O O PER-B O O O O O O O O O
-구글은 4일(현지시간) 샌프란시스코에서 열리+ㄴ 신제품 공개 행사에서 5인치 픽셀과 5.5인치 픽셀XL을 공개하였다 .	ORG-B O LOC-B O O O O O O O O O O
+설교 는 이영훈 오정현 목사 가 통일 을 위한 한국 교회 의 역할 과 비전 을 주제 로 진행할 예정 이 다 .	O O PER-B PER-B O O O O O ORG-B ORG-I O O O O O O O O O O O O
+황창중 NH 투자 증권 프리미어 블루 강북 센터 장	PER-B ORG-B ORG-I ORG-I O O O O O
+배규식 노동 연구원 선임 연구 위원 은 “ 대기업 입사 는 갈수록 어려 워 지 고 있 는데 중소기업 은 인력난 을 겪 고 있 다 ” 라며 “ 임금 격차 를 줄이 는 등 노동 시장 의 양극화 를 해소하 는 데 집중해야 한다 ” 고 말 했 다 .	PER-B ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+또 장기 조직 기증 원 이 기증자 에게 동의 를 받 고 장기 이식 관리 센터 가 정한 기준 에 따 라 이식 대상자 를 선정한다 .	O O O O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O
+광해 ( 차승원 분 ) 는 역모 를 직감하 고 궁 을 떠나 며 정명 공주 ( 이연희 분 ) 에게 " 승리하 거라 반드시 넌 알 겠 느냐 " 라고 부탁하 며 이목 을 집중 시 켰 다 .	PER-B O PER-B O O O O O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O
+김대중 정부 의 초고속 인터넷 망 보급 성과 를 언급하 며 ‘ 사물 인터넷 ( IoT ) 망 1 등 국가 ’ 를 내걸 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+美 백악관 폭탄 협박범 “ 트럼프 와 텔레파시 나 눴 다 ”	ORG-B ORG-I O O O PER-B O O O O O O
+미 “ 국제선 여객기 도 금연 ” / 하원 , 법안 승인 … 제 3 국 공항 까지 는 허용	ORG-B O O O O O O O O O O O O O O O O O O O
+뮤직 비디오 에서 니엘 과 유승옥 은 진한 눈빛 교환 을 하 며 섹시한 분위기 를 연출하 기 도 하 고 , 다정한 연인 으로 달콤한 분위기 도 보이 며 의외 의 커플 호흡 을 선보 였 다 .	O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+객실 에서 의 숙박 과 이소 마린 화장품 을 제공하 는 스테이 위드 어스 ( 21 만 5000 원 ) , 아이 가 있 는 가족 이 파티 를 즐길 수 있 도록 풍성한 인 룸 다이닝 메뉴 가 준비된 인조이 위드 어스 ( 25 만 원 ) 이외 에 2016 년 마지막 밤 프라이빗 파티 를 할 수 있 는 윈터 발코니 파티 ( 26 만 원 ) , 북적이 는 도심 을 떠나 홀로 휴식 을 즐기 기 좋 은 스테이 슬림 ( 29 만 원 ) 패키지 가 있 다 .	O O O O O ORG-B ORG-I O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O DAT-B DAT-I O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+한국 여자 프로 골프 ( KLPGA ) 투어 에서 는 조윤지 ( 하이원리조트 ) 가 5 월 E 1 채리티 오픈 에서 작성한 8 개 홀 연속 버디 가 최다 기록 이 다 .	O O O O O O O O O O PER-B O ORG-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+실제 마라카낭 주 경기장 에 설치된 순간 이동 장치 모양 의 단상 에 나타나 슈퍼마리오 역할 을 맡 은 인물 은 아베 신조 일본 총리 였 다 .	O LOC-B LOC-I LOC-I O O O O O O O O O O PER-B O O O O O O PER-B PER-I ORG-B O O O O
+말레이시아 경찰 이 17 일 ( 현지 시간 ) 김정은 북한 노동당 위원장 의 이복형 김정남 의 시신 을 인도 받 기 를 원한다면 유족 의 DNA 자료 를 제출하 라고 밝 혔 다 .	LOC-B O O DAT-B DAT-I O O O O PER-B ORG-B ORG-I O O O PER-B O O O O O O O O O O O O O O O O O O O
+구글 은 4 일 ( 현지 시간 ) 샌프란시스코 에서 열린 신제품 공개 행사 에서 5 인치 픽셀 과 5.5 인치 픽셀 XL 을 공개 했 다 .	ORG-B O DAT-B DAT-I O O O O LOC-B O O O O O O O O O O O O O O O O O O O

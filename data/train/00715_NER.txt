@@ -1,13 +1,13 @@
-청년들은 인디밴드에 게 시민들이 3000원씩 후원 하+ㄹ 수 있는 펀딩(Funding) 사이트를 만들고 싶다고 +였다 .	O O O O MNY-B MNY-I O O O O O O O O O
-‘썬더볼트’ 두 주인공의 심리 드라마도 역시 묵직하다 .	O O O O O O O O
-2011년 3월 유전개발 계약을 따+아내기 위하+여 UAE에 두 번째 방문하였을 때야 맛보+ㄹ 수 있었다 .	O O O O O O ORG-B O O O O O O O O
-그릭요거트 2주 체험 하+여보니 … “당장 먹어보+아야지 .	O O O O O O O O
-올 3월 부임하+ 여두산의 4세 경영시대를 열 +ㄴ 박정원 두산그룹 회장은 창업 120주년보다 기업 내실 다지기가 더 중요하다고 판단하고 있다 .	O O O ORG-B O O O O PER-B ORG-B O O O O O O O O O O O
-탄핵 표결 자정 넘기+ㄹ 가능성 대비 … 국민의당, 임시국회 소집 제 .	O O O O O O O ORG-B O O O O
-더불어 벤제프만의 감각 있는 컬러 배색으로 수하물을 쉽게 찾을 수 있게 하+여주며 스타일도 살리+어주+ㄴ다 .	O ORG-B O O O O O O O O O O O O O
-신 감독은 “엔트리가 18명뿐이라 멀티플레이가 가능하+ㄴ 선수들 위주로 선발하였다 .	PER-B O O O O O O O O O
-자유한국당은 선거비용 마련을 위하+여 중앙 및 시도당 당사를 담보로 250억원을 대출받은 것으로 전하여 +지+었다 .	ORG-B O O O O O O O O MNY-B O O O O O
-공직에 처음 입문 하+ㄴ 9급 1호봉의 임금 인상액은 26만원으로 올해 공무원 전체 임금 인상률이+ㄴ 3%보다 높은 4.2% 수준이다 .	O O O O O O O O MNY-B O O O O O O O O O O
-올해도 10월까지 10만 4259 채로 작년 물량을 넘어서 +ㄹ 기세+이다 .	O O O O O O O O O O O
-@galleryinarticletag@평균 초혼연령보니, 남녀 연령 30대 ↑…결국 돈이 문제? 평균 초혼 연령 증가 수치가 숫자로 확인되었다 .	O O O O O O O O O O O O O O O O
-한편 김시우는 20일 PGA투어가 발표하+ㄴ 신인 랭킹에서 그리요를 제치고 1위에 오르았다 .	O PER-B O O O O O PER-B O O O O
+청년 들 은 인디 밴드 에게 시민 들 이 3000 원 씩 후원할 수 있 는 펀딩 ( Funding ) 사이트 를 만들 고 싶 다고 했 다 .	O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O
+‘ 썬더볼트 ’ 두 주인공 의 심리 드라마 도 역시 묵직하 다 .	O O O O O O O O O O O O O
+2011 년 3 월 유전 개발 계약 을 따 내 기 위해 UAE 에 두 번째 방문 했 을 때 야 맛볼 수 있 었 다 .	DAT-B DAT-I DAT-I DAT-I O O O O O O O O ORG-B O O O O O O O O O O O O O O
+그릭 요거트 2 주 체험 해 보 니 … “ 당장 먹 어 봐야지 ”	O O O O O O O O O O O O O O O
+올 3 월 부임해 두산 의 4 세 경영 시대 를 연 박정원 두산그룹 회장 은 창업 120 주년 보다 기업 내실 다지기 가 더 중요하 다고 판단하 고 있 다 .	O DAT-B DAT-I O ORG-B O O O O O O O PER-B ORG-B O O O O O O O O O O O O O O O O O O
+탄핵 표결 자정 넘길 가능성 대비 … 국민 의당 , 임시 국회 소집 제안	O O O O O O O ORG-B ORG-I O O O O O
+더불 어 벤제프 만 의 감각 있 는 컬러 배색 으로 수하물 을 쉽 게 찾 을 수 있 게 해 주 며 스타일 도 살려 준다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+신 감독 은 “ 엔트리 가 18 명 뿐 이 라 멀티 플레이 가 가능한 선수 들 위주 로 선발 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
+자유 한국 당 은 선거 비용 마련 을 위해 중앙 및 시도 당 당사 를 담보 로 250 억 원 을 대출 받 은 것 으로 전해 졌 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O
+공직 에 처음 입문한 9 급 1 호봉 의 임금 인상액 은 26 만 원 으로 올해 공무원 전체 임금 인상률 인 3 % 보다 높 은 4.2 % 수준 이 다 .	O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O
+올해 도 10 월 까지 10 만 4259 채 로 작년 물량 을 넘어설 기세 다 .	O O DAT-B DAT-I O O O O O O O O O O O O O
+@ gallery _ in _ article _ tag @ 평균 초혼 연령 보 니 , 남녀 연령 30 대 ↑ … 결국 돈 이 문제 ? 평균 초혼 연령 증가 수치 가 숫자 로 확인 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한편 김시우 는 20 일 PGA 투어 가 발표한 신인 랭킹 에서 그리 요 를 제치 고 1 위 에 올 랐 다 .	O PER-B O DAT-B DAT-I O O O O O O O PER-B PER-I O O O O O O O O O O

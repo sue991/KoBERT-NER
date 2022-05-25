@@ -1,14 +1,14 @@
-대학생 잡지 ‘대학 내일’이 ‘훈남 ‘표지 모델을 공개하+여화제+이다 .	O O O O O O O O O
-유상무씨 본인과 소속사는 일단 불미스럽ㄴ 논란에 휩싸이+ㄴ점 자체로 고개 숙이어진 심으로 사과드리+ㅂ니다 .	PER-B O O O O O O O O O O O O
-최씨는 “헌법재판소에도 증인으로 나가 +아(같은) 말을 +였지만 (삼성) 승계 작업이 어떻게 돌아가는지, 삼성이 어떻게 돌아가는지 모르+ㄴ다”고 말하였다 .	PER-B O O O O O O ORG-B O O O O ORG-B O O O O O
-검단새빛도시는 인천시 서구 원당, 당하, 마전, 불로동 일대 1120만㎡에 조성되며, 오는 2023년까지 약 18만명이 입주하+ㄹ 예정이다 .	LOC-B LOC-B LOC-B LOC-I LOC-B LOC-B LOC-B O O O O O O O O O O
-여기에 「러시아판 3D 현상 」도 외국인 인력의 유입을 부채질하고 있다 .	O O O O O O O O O O O
-광나루역을 출발하+여한강 고덕산 일자산을 거치+어수서역까지 연결되+ㄴ다 .	LOC-B LOC-B LOC-I LOC-B LOC-B O O
-고인의 빈소는 서울 풍납동 아산병원 장례식장 35호실에 마련되었다 .	O O LOC-B LOC-I ORG-B O O O O
-구글 I/O 행사 둘째 날이+ㄴ이 날은 그야말로 ‘기-승-전-VR’+이었다 .	ORG-B O O O O O O O O
-진도 선박 침몰, “가라앉고 있다” 신고에 해경 급파하였으나 1명 숨지+ㄴ 채 발견 진도 2명 구조 1명 사망 전남 진도 해상에서 선박 침몰 사고가 발생하였다 .	LOC-B O O O O O O O O O O O LOC-B O O O O LOC-B LOC-B O O O O O O
-8일 오후 1시29분께 전남 진도군 고군면과의 신면 사이 무저도 3.6 ㎞해상에서 어선 태승호(2.39t) 선박이 침몰하였다는 신고가 접수되었다 .	O O O LOC-B LOC-I LOC-I O O LOC-B O O O O O O O O O
-양수산부에 따르면 선박에 있던 사람이 “가라앉고 있다”며 “구조 하+여달라”고 해경에 신고 하+ㄴ후무전이 끊기+ㄴ 것으로 확인되었다 .	ORG-B O O O O O O O O O O O O O O O
-최씨는 “돈 있는 사람에게 5000원은 별것 아니겠지만 우리에게 +ㄴ 적은 돈이 아니다”고 말 하+ㄴ다 .	PER-B O O O MNY-B O O O O O O O O O O
-선씨와 최씨가 방문 하+ㄴ 곳은 동네 의원이다 .	PER-B PER-B O O O O O O
-정상적으로 납부기한을 지키+어서 내 +었어야만 하는 세금의 15.1%에 달하는 규모+이다 .	O O O O O O O O O O O
+대학생 잡지 ‘ 대학 내 일 ’ 이 ‘ 훈 남 ‘ 표지 모델 을 공개해 화제 다 .	O O O O O O O O O O O O O O O O O O O
+유상무 씨 본인 과 소속 사 는 일단 불미스러 운 논란 에 휩싸인 점 자체 로 고개 숙 여 진심 으로 사과 드립니다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
+최 씨 는 “ 헌법 재판소 에 도 증인 으로 나가 ( 같 은 ) 말 을 했 지만 ( 삼성 ) 승계 작업 이 어떻 게 돌아가 는지 , 삼성 이 어떻 게 돌아가 는지 모른다 ” 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O ORG-B O O O O O O O O O O O O
+검단 새빛 도시 는 인천시 서 구 원당 , 당하 , 마전 , 불로동 일대 1120 만 ㎡ 에 조성되 며 , 오 는 2023 년 까지 약 18 만 명 이 입주할 예정 이 다 .	LOC-B LOC-I LOC-I O LOC-B LOC-B LOC-I LOC-I O LOC-B O LOC-B O LOC-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O
+여기 에 「 러시아 판 3 D 현상 」 도 외국인 인력 의 유입 을 부채질하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O
+광나루 역 을 출발해 한강 고덕산 일자산 을 거쳐 수서역 까지 연결된다 .	LOC-B LOC-I O O LOC-B LOC-I LOC-B O O LOC-B O O O
+고인 의 빈소 는 서울 풍납동 아산 병원 장례식장 35 호실 에 마련 됐 다 .	O O O O LOC-B LOC-I ORG-B ORG-I O O O O O O O O
+구글 I / O 행사 둘째 날 인 이날 은 그야말로 ‘ 기 - 승 - 전 - VR ’ 였 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
+진도 선박 침몰 , “ 가라앉 고 있 다 ” 신고 에 해경 급파 했 으나 1 명 숨진 채 발견 진 도 2 명 구조 1 명 사망 전남 진도 해상 에서 선박 침몰 사고 가 발생 했 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O LOC-B LOC-I O O O O O O O O O O
+8 일 오후 1 시 29 분 께 전남 진도군 고군면 과 의신면 사이 무저 도 3.6 ㎞ 해상 에서 어선 태승호 ( 2.39 t ) 선박 이 침몰 했 다는 신고 가 접수 됐 다 .	DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B LOC-I LOC-I O LOC-B O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O
+양 수산 부 에 따르 면 선박 에 있 던 사람 이 “ 가라앉 고 있 다 ” 며 “ 구조해 달 라 ” 고 해경 에 신고한 후 무전 이 끊긴 것 으로 확인 됐 다 .	ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최 씨 는 “ 돈 있 는 사람 에게 5000 원 은 별것 아니 겠 지만 우리 에겐 적 은 돈 이 아니 다 ” 고 말한다 .	PER-B O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O
+선 씨 와 최 씨 가 방문한 곳 은 동네 의원 이 다 .	PER-B O O PER-B O O O O O O O O O O
+정상적 으로 납부 기한 을 지켜서 냈 어야 만 하 는 세금 의 15.1 % 에 달하 는 규모 다 .	O O O O O O O O O O O O O O O O O O O O O

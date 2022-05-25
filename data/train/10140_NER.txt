@@ -1,18 +1,18 @@
-박정현 넬의'땡큐' 부르어… 진정 하+ㄴ 여왕이란 이런 것!' 역대급 무대 .	PER-B PER-B O O O O O O O O O
-노인·아낙·아이 등 약자를 화폭에 담았던 화가, “밀레를 닮은 화가가 되게 하+여주세요”라고 기도하었다는 박수근은 이런 말을 남기었다 .	O O O O O O PER-B O O O O O PER-B O O O O
-가요광장 여자친구 “멤버 전원이 갖고 있는 것은? OOOO .	O ORG-B O O O O O O O
-계약자들은 평창 휘닉스파크 부대시설 이용 때 특별회원 할인 혜택을 받고 더 화이트 호텔을 연 10일 무료로 이용하+ㄹ 수 있다 .	O LOC-B LOC-I O O O O O O O ORG-B ORG-I ORG-I O O O O O O O
-유럽의 농산물 시장에서 살아남기 위하+ 여변 하+여야 하+ㄴ다는 자각은 사실 몇 해 전부터 시작되었다 .	LOC-B O O O O O O O O O O O O O O
-1982년 설립하+ㄴ서진염직은 직원 60여명이 지난해 매출 80여억원을 올리었다 .	O O O O O O MNY-B O O
-또한 전기택시 제작사 이+ㄴ 르노삼성자동차는 전기택시 배터리 교체를 1회 무상으로 지원하며, 전기택시 차량도색과 고장시 우선 정비 서비스를 지원 하+ㄴ다 .	O O O O ORG-B O O O O O O O O O O O O O O O
-죽녹원에는 관람객의 동선에 맞추+어 다양하+ㄴ테라피 로드를 만들었고, 한옥 쉼터와 성인산, 죽녹원나+의 8길 곳곳에 풍욕 체험 등 다채롭ㄴ 생태힐링 체험 프로그램을 운영하+ㄴ다 .	LOC-B O O O O O O O O LOC-B LOC-B O O O O O O O O O O O
-크리스탈 루비는 볼빅의 베스트셀러 제품이 +ㄴ 크리스탈의 새롭ㄴ 컬러 제품으로 형광에 가깝ㄴ 붉은색을 채택, 시인성이 뛰어나 +ㄴ 것+이 특징이다 .	O O ORG-B O O O O O O O O O O O O O O O O O
-‘왕따 논란’의 당사자 이+ㄴ 외국인 선수 케네디브라이언과 이효희, 정대영, 배유나는 지치+ㄴ 몸을 이끌고 취재진 앞에서 +었다 .	O O O O O O PER-B PER-B PER-B PER-B O O O O O O O
-「3단계 」 완료 때 +ㄴ은행 금리 경쟁 본격 .	O O O O O O O O O
-신입생 중 30대 이상이 40%를 넘는다고 하+ㄴ다 .	O O O O O O O O
-또 특검이 최씨의 변호사 사무실 등을 압수수색 하+여 확보하+ㄴ 최씨의 수표목록에 대하+여 “경기 하남 땅을 팔+ㄴ 차액 일부 이+ㄴ 8억5000만원을 보관하+여+두었던 것이다 .	O O PER-B O O O O O O PER-B O O LOC-B LOC-B O O O O O MNY-B O O O
-패션마케팅 디렉터 박성목 실장은 “해외에서 고급 미식문화를 충분히 경험하+ㄴ 계층이 머무르었던 것+이 바로 청담동”이라며 “손님과 셰프, 서비스하는 스태프가 거의 대등하였던 특수지역”이라고 덧붙이었다 .	O O PER-B O O O O O O O O O O LOC-B O O O O O O O O O
-‘장인이 빚은 섬세 하+ㄴ 명품 가구’이 튼 알렌, 국내 첫 보상판매 실 .	O O O O O O O O O O O O O
-전동평 영암군수는 “영암은 비행구역 확보에 유리하+ㄴ 광활하+ㄴ 농경지와 대불산단의 저렴하+ㄴ임대공장 등을 보유하고 있다”며 “국내외 드론 대회 개최, 드론 판매 및 수리, 드론 파크 운영 등 드론 산업을 체류형 관광산업으로 발전시키+어 영암의 미래 먹거리로 육성하겠다”고 말하였다 .	PER-B LOC-B LOC-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O
-■ 인천 ‘청라모으아 미래도’ 418채 모으아 종합건설은 인천 서구 청라지구 A1블록에서 ‘청라모으아 미래도’의 본보기집을 26일 열고 분양을 시작하+ㄴ다 .	O LOC-B LOC-I O O ORG-B ORG-I LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O
-[스타타임라인] 강우석 감독 “영화 제작은 정말 기분 좋은 일 .	O PER-B O O O O O O O O
+박정현 넬 의 ' 땡큐 ' 불 러 … 진정한 여왕 이란 이런 것 ! ' 역대 급 무대 '	PER-B PER-B O O O O O O O O O O O O O O O O O O
+노인 · 아낙 · 아이 등 약자 를 화폭 에 담 았 던 화가 , “ 밀레 를 닮 은 화가 가 되 게 해 주 세요 ” 라고 기도 했 다는 박수근 은 이런 말 을 남 겼 다 .	O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O
+가요 광장 여자 친구 “ 멤버 전원 이 갖 고 있 는 것 은 ? OOOO ”	O O ORG-B ORG-I O O O O O O O O O O O O O
+계약자 들 은 평창 휘닉스파크 부대시설 이용 때 특별 회원 할인 혜택 을 받 고 더 화이트 호텔 을 연 10 일 무료 로 이용할 수 있 다 .	O O O LOC-B LOC-I O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O
+유럽 의 농산물 시장 에서 살아남 기 위해 변해야 한다는 자각 은 사실 몇 해 전 부터 시작 됐 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
+1982 년 설립한 서진 염직 은 직원 60 여 명 이 지난해 매출 80 여 억 원 을 올 렸 다 .	DAT-B DAT-I O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O
+또한 전기 택시 제작사 인 르노삼성자동차 는 전기 택시 배터리 교체 를 1 회 무상 으로 지원하 며 , 전기 택시 차량 도색 과 고장 시 우선 정비 서비스 를 지원한다 .	O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+죽녹원 에 는 관람객 의 동선 에 맞춰 다양한 테라피 로드 를 만들 었 고 , 한옥 쉼터 와 성인 산 , 죽 녹원 내 8 길 곳곳 에 풍욕 체험 등 다채로 운 생태 힐링 체험 프로그램 을 운영한다 .	LOC-B O O O O O O O O O O O O O O O O O O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O O O O O O O
+크리스탈 루비 는 볼빅 의 베스트셀러 제품 인 크리스탈 의 새로 운 컬러 제품 으로 형광 에 가까 운 붉은색 을 채택 , 시인 성 이 뛰어난 게 특징 이 다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 왕따 논란 ’ 의 당사자 인 외국인 선수 케네디 브라이언 과 이효희 , 정대영 , 배유나 는 지친 몸 을 이끌 고 취재진 앞 에 섰 다 .	O O O O O O O O O PER-B PER-I O PER-B O PER-B O PER-B O O O O O O O O O O O O
+「 3 단계 」 완료 땐 은행 금리 경쟁 본격화	O O O O O O O O O O
+신입생 중 30 대 이상 이 40 % 를 넘 는다고 한다 .	O O O O O O O O O O O O O
+또 특검 이 최 씨 의 변호사 사무실 등 을 압수 수색해 확보한 최 씨 의 수표 목록 에 대해 “ 경기 하남 땅 을 판 차액 일부 인 8 억 5000 만 원 을 보관해 뒀 던 것 이 다 .	O O O PER-B O O O O O O O O O PER-B O O O O O O O LOC-B LOC-B O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O
+패션 마케팅 디렉터 박성목 실장 은 “ 해외 에서 고급 미식 문화 를 충분히 경험한 계층 이 머물 렀 던 게 바로 청담동 ” 이 라며 “ 손님 과 셰프 , 서비스하 는 스태프 가 거의 대등 했 던 특수 지역 ” 이라고 덧붙 였 다 .	O O O PER-B O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 장인 이 빚 은 섬세한 명품 가구 ’ 이튼 알렌 , 국내 첫 보상 판매 실시	O O O O O O O O O ORG-B ORG-I O O O O O O
+전동평 영암 군수 는 “ 영암 은 비행 구역 확보 에 유리한 광활한 농경지 와 대불 산단 의 저렴한 임대 공장 등 을 보유하 고 있 다 ” 며 “ 국내외 드론 대회 개최 , 드론 판매 및 수리 , 드론 파크 운영 등 드론 산업 을 체류 형 관광 산업 으로 발전 시켜 영암 의 미래 먹거리 로 육성하 겠 다 ” 고 말 했 다 .	PER-B LOC-B O O O LOC-B O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
+■ 인천 ‘ 청라 모 아 미래 도 ’ 418 채 모 아 종합 건설 은 인천 서 구 청라 지구 A 1 블록 에서 ‘ 청라 모 아 미래 도 ’ 의 본보기 집 을 26 일 열 고 분양 을 시작한다 .	O LOC-B O O O O O O O O O ORG-B ORG-I ORG-I ORG-I O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O DAT-B DAT-I O O O O O O
+[ 스타 타임 라인 ] 강우석 감독 “ 영화 제작 은 정말 기분 좋 은 일 ”	O O O O O PER-B O O O O O O O O O O O

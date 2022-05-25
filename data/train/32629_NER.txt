@@ -1,16 +1,16 @@
-새누리당이 대표가 접촉 하+ㄴ동교동계 인사는 김대중 정부 문화관광부 장관을 지내+ㄴ 김성재 김대중 아카데미 원장이라고 박 위원장은 밝히었다 .	ORG-B O O O O ORG-B O ORG-B O O PER-B ORG-B ORG-I PER-B PER-B O O O
-그냥 일베나 이런 쪽에서 만들 +ㄴ 것 아니+ㄴ가 생각하였다 .	O O O O O O O O O O
-- 헌재의 통진당 해산 결정을 어떻게 보나.“헌재에 의하+ㄴ 최초의 정당해산이 이루어 지+ㄴ 것은 우리 민주주의의 역사적 오점이다 .	O O O O O O O O O O O O O O O O O O
-'라디오 스타' 차예+이련, 김혜성 디스…"잘생기+ㄴ거 모르겠는데? .	O O PER-B PER-B O O O
-이 때문에 세부모체외수정이 아니+ㄴ ‘2.001부모’ 체외수정으로 부르어야 하+ㄴ다는 주장도 나 오+ㄴ다 .	O O O O O O O O O O O O
-②미토콘드리아 돌연변이, 150여 가지 질병요인인체의 모든 세포는 핵과 세포질로 구성되 +ㄴ다 .	O O O O O O O O O O O O
-LG류제국, 이르면 5월 초 돌아오+ㄴ .	ORG-B O O O O O
-그런 만큼 권 고문이 안 의원에게 우호적 이+ㄴ 태도를 보이+ㄴ 것+ㄴ이례적이다 .	O O PER-B O PER-B O O O O O O O
-이 국장은 또 『유망 중소기업의 도산을 막기 위 하+여오는 10월 말부터 신청을 받아 5천억원을 지원하고 이미 소진되 +ㄴ올해 분 외화대출 한도를 5천억원 늘리+어 중소기업에만 지원하겠다』고 말하였다 .	PER-B O O O O O O O O O O O O MNY-B MNY-I PER-B O O O O O MNY-B O O O O O
-‘카페25 아이스컵’에 들어있는 우유공은 50원짜리 동전 크기로 세븐일레븐의 우유 구슬보다 훨씬 크다 .	O O O O MNY-B O O ORG-B O O O O O
-걸스데이 태도 논란, 반말에 신경전까지 ? 진행자 최군 해명하였지만 … 영상 삭제되+ㄴ 상 .	ORG-B O O O O O O PER-B O O O O O O
-그런데 유승준에 대하+여서는 13년이 지나 +ㄴ 지금까지 유독용서 하+ㄹ기미가 보이지 않는다”고 말하였다 .	O PER-B O O O O O O O O O O O
-2009년 1억2192만달러(1433억원)로 최고점을 찍은 그의 수입은 지난해는 4분의 1 토막(3460만달러)으로 줄었다 .	O MNY-B O O O O O O MNY-B MNY-B O O
-일반적으로 핵탄두의 무게를 1000kg 이하, 지름 90cm 이내 수준으로 줄이게 되면 소형화를 이루+ㄴ 것으로 평가하지만 500kg 이하로 줄이는 것은 쉽지 않다 .	O O O O O O O O O O O O O O O O O O O O O O
-컴퓨터 모니터에 얼굴을 고정하고 있던 4명의 남자가 우리를 쳐다보았다 .	O O O O O O O O O O
-남상태 비자금 창구 의혹 …이창하“사업 특혜 없었다 .	PER-B O O O O O O O
+새누리당 이 대표 가 접촉한 동교동 계 인사 는 김대중 정부 문화 관광부 장관 을 지낸 김성재 김대중 아카데미 원장 이 라고 박 위원장 은 밝 혔 다 .	ORG-B PER-B O O O O O O O PER-B O ORG-B ORG-I O O O PER-B ORG-B ORG-I O O O PER-B O O O O O O
+그냥 일베 나 이런 쪽 에서 만든 거 아닌가 생각 했 다 .	O O O O O O O O O O O O O
+- 헌재 의 통진당 해산 결정 을 어떻 게 보 나 . “ 헌재 에 의한 최초 의 정당 해산 이 이뤄진 것 은 우리 민주주의 의 역사 적 오점 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 라디오스타 ' 차 예 련 , 김혜성 디스 … " 잘생긴 거 모르 겠 는데 ? "	O O O PER-B PER-I PER-I O PER-B O O O O O O O O O O
+이 때문 에 세 부모 체외 수정 이 아닌 ‘ 2.001 부모 ’ 체외 수정 으로 불 러야 한다는 주장 도 나온다 .	O O O O O O O O O O O O O O O O O O O O O O O
+② 미토콘드리아 돌연변이 , 150 여 가지 질병 요인 인체 의 모든 세포 는 핵 과 세포질 로 구성된다 .	O O O O O O O O O O O O O O O O O O O O
+LG 류제국 , 이르 면 5 월 초 돌아온다	ORG-B PER-B O O O DAT-B DAT-I O O
+그런 만큼 권 고문 이 안 의원 에게 우호적 인 태도 를 보인 건 이례적 이 다 .	O O PER-B O O PER-B O O O O O O O O O O O O
+이 국장 은 또 『 유망 중소기업 의 도산 을 막 기 위해 오 는 10 월 말 부터 신청 을 받 아 5 천 억 원 을 지원하 고 이미 소진된 올해 분 외화 대출 한도 를 5 천 억 원 늘려 중소기업 에 만 지원하 겠 다 』 고 말 했 다 .	PER-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O
+‘ 카페 25 아이스 컵 ’ 에 들 어 있 는 우유 공 은 50 원 짜리 동전 크기 로 세븐일레븐 의 우유 구슬 보다 훨씬 크 다 .	O O O O O O O O O O O O O O MNY-B MNY-I O O O O ORG-B O O O O O O O O
+걸스데이 태도 논란 , 반말 에 신경전 까지 ? 진행자 최 군 해명 했 지만 … 영상 삭제된 상태	ORG-B O O O O O O O O O PER-B PER-I O O O O O O O
+그런데 유승준 에 대해서 는 13 년 이 지난 지금 까지 유독 용서할 기미 가 보이 지 않 는다 ” 고 말 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+2009 년 1 억 2192 만 달러 ( 1433 억 원 ) 로 최고점 을 찍 은 그 의 수입 은 지난해 는 4 분 의 1 토막 ( 3460 만 달러 ) 으로 줄 었 다 .	DAT-B DAT-I MNY-B MNY-I MNY-I MNY-I MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O
+일반적 으로 핵탄두 의 무게 를 1000 kg 이하 , 지름 90 cm 이내 수준 으로 줄이 게 되 면 소형화 를 이룬 것 으로 평가하 지만 500 kg 이하 로 줄이 는 것 은 쉽 지 않 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+컴퓨터 모니터 에 얼굴 을 고정하 고 있 던 4 명 의 남자 가 우리 를 쳐다 봤 다 .	O O O O O O O O O O O O O O O O O O O O
+남상태 비자금 창구 의혹 … 이창하 “ 사업 특혜 없 었 다 ”	PER-B O O O O O O O O O O O O

@@ -1,14 +1,14 @@
-2014년 처음 문을 열 +ㄴ세컨드비는 오프라인보다 온라인에서 인기가 많다 .	O O O O ORG-B O O O O O
-'예비 엄마'한혜진, 소외 아동 위 하+여영유아용품 기부… '복받겠어~' 출산을 앞두 +ㄴ 배우 한혜진이 국내 아이들을 위하 +ㄴ 기부활동을 펼치었다 .	O PER-B O O O O O O O O O O PER-B O O O O O O O
-75년 국제창가 학회를 창립하는 등 창가학회의 국제화를 주도하였다 .	O ORG-B ORG-I O O O ORG-B O O
-재닛 옐런 연준 의장은 2016년 마지막 연방공개시장위원회(FOMC) 회의 직후 “금리 인상은 미국 경제에 대하+ㄴ 자신감의 표시”라고 일갈하였다 .	PER-B PER-I O O O O ORG-B O O O O O O O O O O O
-2006년부터 오디오북 전문 제작사와 (WA) 미디어를 이끌고 있는 김기덕은 여전히 마이크 앞을 떠나지 않고 있다 .	O O O ORG-B ORG-B O O O PER-B O O O O O O O
-日銀 금리 동결-소폭 추가 완화 … 시장 실망감에 엔화 가치 급 .	ORG-B O O O O O O O O O O O
-KDB산업은행, KDB대우증권, 키움증권, 펀드온라인코리아 등을 통하+여가입 하+ㄹ 수 있다 .	ORG-B ORG-B ORG-B ORG-B O O O O O O
-또한 마산새마을단체들은 쓰레기 수거경진대회를, 대구주부교실 중앙회는 샴푸 안 쓰는 머리 손질법 강의를 마련하는 등 시민단체들마다 실생활에서의 오염줄이기를 겨냥하+ㄴ 다채롭 ㄴ 이벤트들을 준비하고 있다 .	O ORG-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
-지난달 30일 전북 전패배로 연속 무패행진을 11경기에서 멈추었던 성남은 이날 1-1 무승부에 그치면서 분위기를 되살리는 데 실패하였다 .	O O O O O O O O ORG-B O O O O O O O O O
-5월 초부터는 대한주택보증의 전세금보증 상품에 대하+ㄴ보증수수료도 낮아 지+ㄴ다 .	O O O O O O O O O
-불임환자가 한 달 만에 임신이 +었어요. .	O O O O O O O
-시민들은 ‘박근혜 즉각 구속’ ‘새누리당 사망’ 피켓을 들고 ‘박근혜는 즉각 퇴진하라’는 구호를 외치었다 .	O PER-B O O ORG-B O O O PER-B O O O O O
-아베 신조(安倍晋三) 일본 총리는 이날 조 바이든 미국 부통령과 전화통화를 갖고 “한일 정부 간 합의를 역행하는 것은 건설적이지 않다”고 주장하였다 .	PER-B PER-B ORG-B O O PER-B PER-I ORG-B O O O ORG-B ORG-I O O O O O O O O
-게반트하우스는 단원의 80%가 이 지역 출신이라 별 어려움이 없다 .	ORG-B O O O O O O O O O
+2014 년 처음 문 을 연 세컨드 비 는 오프라인 보다 온라인 에서 인기 가 많 다 .	DAT-B DAT-I O O O O ORG-B ORG-I O O O O O O O O O O
+' 예비 엄마 ' 한혜진 , 소외 아동 위해 영 유아 용품 기부 … ' 복 받 겠 어 ~ ' 출산 을 앞둔 배우 한혜진 이 국내 아이 들 을 위한 기부 활동 을 펼 쳤 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+75 년 국제 창가 학회 를 창립하 는 등 창가 학회 의 국제화 를 주도 했 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O O O
+재닛 옐런 연준 의장 은 2016 년 마지막 연방공개시장위원회 ( FOMC ) 회의 직후 “ 금리 인상 은 미국 경제 에 대한 자신감 의 표시 ” 라고 일갈 했 다 .	PER-B PER-I O O O DAT-B DAT-I O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O
+2006 년 부터 오디오 북 전문 제작사 와 ( WA ) 미디어 를 이끌 고 있 는 김기덕 은 여전히 마이크 앞 을 떠나 지 않 고 있 다 .	DAT-B DAT-I O O O O O ORG-B O ORG-B O O O O O O O PER-B O O O O O O O O O O O O
+日銀 금리 동결 - 소폭 추가 완화 … 시장 실망감 에 엔 화 가치 급등	ORG-B O O O O O O O O O O O O O O
+KDB 산업은행 , KDB 대우증권 , 키움증권 , 펀드 온라인 코리아 등 을 통해 가입할 수 있 다 .	ORG-B ORG-I O ORG-B ORG-I O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O
+또한 마산 새마을 단체 들 은 쓰레기 수거 경진 대회 를 , 대구 주부 교실 중앙 회 는 샴푸 안 쓰 는 머리 손질 법 강의 를 마련하 는 등 시민 단체 들 마다 실생활 에서 의 오염 줄이 기 를 겨냥한 다채로 운 이벤트 들 을 준비하 고 있 다 .	O ORG-B ORG-I ORG-I O O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난달 30 일 전북 전 패배 로 연속 무패 행진 을 11 경기 에서 멈 췄 던 성남 은 이날 1 - 1 무승부 에 그치 면서 분위기 를 되살리 는 데 실패 했 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+5 월 초 부터 는 대한 주택 보증 의 전세금 보증 상품 에 대한 보증 수수료 도 낮 아 진다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O
+불임 환자 가 한 달 만 에 임신 이 됐 어요 . ”	O O O O O O O O O O O O O
+시민 들 은 ‘ 박근혜 즉각 구속 ’ ‘ 새누리당 사망 ’ 피켓 을 들 고 ‘ 박근혜 는 즉각 퇴진하 라 ’ 는 구호 를 외 쳤 다 .	O O O O PER-B O O O O ORG-B O O O O O O O PER-B O O O O O O O O O O O O
+아베 신조 ( 安倍晋三 ) 일본 총리 는 이날 조 바이든 미국 부통령 과 전화 통화 를 갖 고 “ 한일 정부 간 합의 를 역행하 는 것 은 건설적 이 지 않 다 ” 고 주장 했 다 .	PER-B PER-I O PER-B O ORG-B O O O PER-B PER-I ORG-B O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O
+게반트하우스 는 단원 의 80 % 가 이 지역 출신 이 라 별 어려움 이 없 다 .	ORG-B O O O O O O O O O O O O O O O O O

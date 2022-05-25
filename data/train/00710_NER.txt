@@ -1,14 +1,14 @@
-이러다 보니 2013년 말 기준 산업통상자원부가 지원 하+ㄴ R&D 사업의 특허출원 건수 대비 우수특허비율은 3.6%에 머물고 있다 .	O O O O O ORG-B O O O O O O O O O O O O
-2014년 론칭한 잡화 브랜드 덱케와 지난해 론칭한 랑방 컬렉션 액세서리, 더 캐시미어 등 신규 브랜드 도 덕분에 쉽게 자리를 잡을 수 있었다 .	O O O O ORG-B O O ORG-B ORG-I ORG-I ORG-B ORG-I O O O O O O O O O O O
-오바마 전 대통령은 2015년 캐나다 앨버타 주에서 미네브래스카 주를 잇는 키스톤XL 송유관 프로젝트를 불허 하+ㄴ바 있다 .	PER-B O O O LOC-B LOC-B LOC-I LOC-B LOC-I O O O O O O O O
-시애틀과 1년 계약이 끝나 +았기 때문에 에이전트가 새롭ㄴ 계약을 준비 중이다 .	ORG-B O O O O O O O O O O O
-대우조선이 도산하+ 여 빚 잔치를 하면 전체 채권 21조4614억원 가운데 26%만 회수 가능하+ㄹ 것으로 보이+ㄴ다 .	MNY-I O O O O O O O MNY-B O O O O O O O
-육절기 부품 가운데 사라지었던 톱날은 의왕시 청계산 근처에서 찾아내 +었다 .	O O O O O LOC-B LOC-B O O O O
-금강하구에 +ㄴ강과 바 .	LOC-B O O O
-6·25전쟁 중에는 공군사관학교 부교장 겸 교수부장으로 사관생도 교육과 전투비행단의 작전 및 후방지원 임무를 맡았다 .	O O ORG-B O O O O O O O O O O O O
-이승건 why@donga. com·임보 미기 .	PER-B O O O O
-이지연 통계청 인구동향과장은 “올 상반기(1~6월) 출생아 수는 21만명으로 전년 동기 대비 5.7%가 줄었는데 하반기에도 이런 추세가 이어 지+ㄹ 전망”이라며 “올해 연간 출생아 수는 2014년과 2015년에 기록하였던 43만명대에 못 미치+ㄹ 것으로 보이+ㄴ다”고 말하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-롯데그룹은 또 인도네시아에 설치하+ㄴ 마트 41곳, 백화점 1곳의 배송 물류시스템을 살림그룹이 운영하는 편의점 1만1000곳과 공동 서비스하는 방안도 추진하+ㄴ다 .	ORG-B O LOC-B O O O O O O O ORG-B O O O O O O O O
-검찰이 경찰 간부 직권남용 혐의 수사를 위하+ 여 경찰청을 압수수색하였다 .	O O O O O O O O ORG-B O O
-변호사법 31조 1항 3호는 공무원으로 재직 시 직무상 취급하거나 취급하게 되+ㄴ 사건은 변호사가 되+ㄴ 후 수행 하+ㄹ 수 없도록 규정하고 있다 .	O O O O O O O O O O O O O O O O O O O O O O
-"'LaRoyale' 전격 참전!" 월드오브 워쉽, 프랑스 군함 최초 등 .	O O O O O ORG-B O O O O
+이러 다 보 니 2013 년 말 기준 산업 통상 자원 부 가 지원한 R & D 사업 의 특허 출원 건수 대비 우수 특허 비율 은 3.6 % 에 머물 고 있 다 .	O O O O DAT-B DAT-I O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O
+2014 년 론칭 한 잡화 브랜드 덱케 와 지난해 론칭 한 랑방 컬렉션 액세서리 , 더 캐시미어 등 신규 브랜드 도 덕분 에 쉽 게 자리 를 잡 을 수 있 었 다 .	DAT-B DAT-I O O O O ORG-B O O O O ORG-B ORG-I ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+오바마 전 대통령 은 2015 년 캐나다 앨버타 주 에서 미 네브래스카 주 를 잇 는 키스톤 XL 송유관 프로젝트 를 불허한 바 있 다 .	PER-B O O O DAT-B DAT-I LOC-B LOC-B LOC-I O LOC-B LOC-B LOC-I O O O O O O O O O O O O O
+시애틀 과 1 년 계약 이 끝났 기 때문 에 에이전트 가 새로 운 계약 을 준비 중 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
+대우조선 이 도산해 빚잔치 를 하 면 전체 채권 21 조 4614 억 원 가운데 26 % 만 회수 가능할 것 으로 보인다 .	ORG-B O O O O O O O O MNY-B MNY-I MNY-I MNY-I MNY-I O O O O O O O O O O
+육 절기 부품 가운데 사라 졌 던 톱날 은 의왕시 청계산 근처 에서 찾아냈 다 .	O O O O O O O O O LOC-B LOC-B O O O O O
+금강 하구 엔 강 과 바다	LOC-B LOC-I O O O O
+6 · 25 전쟁 중 에 는 공군 사관 학교 부교장 겸 교수 부장 으로 사관생도 교육 과 전투 비행단 의 작전 및 후방 지원 임무 를 맡 았 다 .	O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O
+이승건 why @ donga . com · 임보미 기자	PER-B O O O O O O PER-B O
+이지연 통계청 인구 동향 과장 은 “ 올 상반기 ( 1 ~ 6 월 ) 출생아 수 는 21 만 명 으로 전년 동기 대비 5.7 % 가 줄 었 는데 하반기 에 도 이런 추세 가 이어질 전망 ” 이 라며 “ 올해 연간 출생아 수 는 2014 년 과 2015 년 에 기록 했 던 43 만 명 대 에 못 미칠 것 으로 보인다 ” 고 말 했 다 .	PER-B ORG-B O O O O O O O O DAT-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+롯데그룹 은 또 인도네시아 에 설치한 마트 41 곳 , 백화점 1 곳 의 배송 물류 시스템 을 살림 그룹 이 운영하 는 편의점 1 만 1000 곳 과 공동 서비스하 는 방안 도 추진한다 .	ORG-B O O LOC-B O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O
+검찰 이 경찰 간부 직권 남용 혐의 수사 를 위해 경찰청 을 압수 수색 했 다 .	O O O O O O O O O O ORG-B O O O O O O
+변호사법 31 조 1 항 3 호 는 공무원 으로 재직 시 직무 상 취급하 거나 취급하 게 된 사건 은 변호사 가 된 후 수행할 수 없 도록 규정하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+" ' La Royale ' 전격 참전 ! " 월드 오브 워 쉽 , 프랑스 군함 최초 등장	O O O O O O O O O O O O O O ORG-B O O O

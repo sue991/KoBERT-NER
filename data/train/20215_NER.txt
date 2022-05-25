@@ -1,13 +1,13 @@
-현대·기아차의 지난해 연간 판매 실적은 788만 266대로 연초 목표량 813만대에 24만9734대(3.1%) 못 미치었다 .	ORG-B O O O O O O O O O O O O O
-이어 “지나 +ㄴ 14일쯤에 소라넷에서 서울 소재의 한 모텔에서 술에 취하+여 잠들+ㄴ 여자친구를 윤간 하+ㄹ사람을 찾는다는 글이 올라오았다 .	O O O O O LOC-B O O O O O O O O O O O O O
-지나+ㄴ 14일 작고 하+ㄴ이만섭 전 국회의장은 생전에 박근혜 대통령에 대하+여 “영국 마거릿 대처 총리를 많이 닮았다”며 “앞으로 메르켈 총리처럼 좀 더 대화하고 항상 어머니와 같은 마음의 리더십을 발휘하+ㄹ 필요가 있다”고 조언 하+ㄴ적이 있다 .	O O O PER-B O O O PER-B O O ORG-B PER-B O O O O O PER-B O O O O O O O O O O O O O O O O
-이어 언론들이 복합문화공간의 주요 부분이 어린이들이 뛰어놀는 ‘키즈카페’라고 알리면서 주민들의 반감은 커지었고 결국 용산구청은 같은 해 7월 불허 처분을 내리었습니다 .	O O O O O O O O O O O O O ORG-B O O O O O O O
-” 그러자 한국마사회는 다시 법원으로 달려가 +았습니다 .	O O ORG-B O O O O O
-“전체적으로 자원봉사자는 2만2400명이 필요하다 .	O O O O O
-실리콘밸리에서 옮기+어오+ㄴ HAX의 파트너 벤저민 조프는 “기술 및 제품 개발은 선전에서, 마케팅은 미국에서 주로 하+ㄴ다”고 말하였다 .	LOC-B O PER-B O PER-B PER-I O O O O O O ORG-B O O O O
-삼성미전실 해체, 남는 것과 사라지는  .	ORG-B O O O O O O
-2014년 초리 수레이는 푸젠(福建)성 상무위원 겸 선전부장으로 자리를 옮기었다 .	O PER-B PER-I LOC-B O O O PER-B O O
-누구가 황 대행을 대선 후보로 띄우 +ㄴ 것이 아니다" +이라며 "어디서 보니까 10%, 15%(지지율이) 나오+ㄴ다는데 그것+ㄴ자연 발생적이+ㄴ 것"이라고 +였다 .	O PER-B O O O O O O O O O O O O O O O O O O
-손수 조 결혼, 남편 되+ㄹ사람 누구+이+ㄴ지 보니… "초중고 학생회장 출신 공통점 .	O O O O O O O O O O O O
-NRA의 제니퍼뱅커 대변인은 그러나 “정당방위 성격의 살인은 일부만 보고되+ㄴ다는 사실을 간과하+ㄴ 것+ㄹ감안하면 이번 조사는 형편없다”고 주장하였다 .	ORG-B PER-B O O O O O O O O O O O O O O O
-이에 강다은은 “물 많이 안 젖는다 .	O PER-B O O O O O
+현대 · 기아차 의 지난해 연간 판매 실적 은 788 만 266 대 로 연초 목표 량 813 만 대 에 24 만 9734 대 ( 3.1 % ) 못 미 쳤 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 “ 지난 14 일 쯤 에 소라 넷 에서 서울 소재 의 한 모텔 에서 술 에 취해 잠든 여자 친구 를 윤간할 사람 을 찾 는다는 글 이 올라 왔 다 .	O O O DAT-B DAT-I O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+지난 14 일 작고한 이만섭 전 국회 의장 은 생전 에 박근혜 대통령 에 대해 “ 영국 마거릿 대처 총리 를 많이 닮 았 다 ” 며 “ 앞으로 메르켈 총리 처럼 좀 더 대화하 고 항상 어머니 와 같 은 마음 의 리더십 을 발휘할 필요 가 있 다 ” 고 조언한 적 이 있 다 .	O DAT-B DAT-I O PER-B O O O O O O PER-B O O O O ORG-B PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이어 언론 들 이 복합 문화 공간 의 주요 부분 이 어린이 들 이 뛰어노 는 ‘ 키즈 카페 ’ 라고 알리 면서 주민 들 의 반감 은 커 졌 고 결국 용산 구청 은 같 은 해 7 월 불허 처분 을 내 렸 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O DAT-B DAT-I O O O O O O O
+” 그러 자 한국 마사회 는 다시 법원 으로 달려갔 습니다 .	O O O ORG-B ORG-I O O O O O O O
+“ 전체적 으로 자원 봉사자 는 2 만 2400 명 이 필요하 다 .	O O O O O O O O O O O O O O
+실리콘밸리 에서 옮겨 온 HAX 의 파트너 벤저민 조프 는 “ 기술 및 제품 개발 은 선전 에서 , 마케팅 은 미국 에서 주로 한다 ” 고 말 했 다 .	LOC-B O O O PER-B O O PER-B PER-I O O O O O O O O O O O O ORG-B O O O O O O O O O
+삼성 미 전실 해체 , 남 는 것 과 사라지 는 것	ORG-B O O O O O O O O O O O
+2014 년 초 리 수 레이 는 푸젠 ( 福建 ) 성 상무위원 겸 선전 부장 으로 자리 를 옮 겼 다 .	DAT-B DAT-I O PER-B PER-I PER-I O LOC-B O LOC-B O O O O O O O O O O O O O
+누 가 황 대행 을 대선 후보 로 띄운 것 이 아니 다 " 라며 " 어디 서 보 니까 10 % , 15 % ( 지지율 이 ) 나온다는 데 그건 자연 발생적 인 것 " 이라고 했 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+손수조 결혼 , 남편 될 사람 누군지 보 니 … " 초 중 고 학생 회장 출신 공통점 "	PER-B O O O O O O O O O O O O O O O O O O
+NRA 의 제니퍼 뱅커 대변인 은 그러나 “ 정당방위 성격 의 살인 은 일부 만 보고된다는 사실 을 간과한 걸 감안하 면 이번 조사 는 형편없 다 ” 고 주장 했 다 .	ORG-B O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 강다은 은 “ 물 많이 안 젖 는다 .	O O PER-B O O O O O O O O

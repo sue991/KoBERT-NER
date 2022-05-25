@@ -1,12 +1,12 @@
-개리 결혼 소식에, 누리꾼 “이렇+어서런닝맨 하차하였네” “멘붕이다 .	PER-B O O O O O O O
-롯데마트의 신선명장 선발대회는 먹거리 진열기법, 신메뉴 개발 능력 등을 평가하+여신선식품 부문의 최우수사원을 가리는 행사이다 .	ORG-B O O O O O O O O O O O O O O
-레오나르도 울로아(아르헨티나)가 11골을 터트리었을 뿐 나머지는 고만고만 하였다 .	PER-B ORG-B O O O O O O O
-이름은 클로에다 .	O PER-B O
-19살의 클로에는 심각하+ㄴ거식증으로 고통을 받고 있다 .	O PER-B O O O O O
-[세계로 뛰는 금융]NH농협은행, 금융권 첫 ‘핀테크 오픈 플랫폼’ 출 .	O O ORG-B O O O O O O O
-지금은 99.8% 완치되었다 .	O O O O
-거기에는 러시아가 한국에 보내는 불신의 메시지가 새 기+어지+ㄴ 기념비 하나가 있다 .	O ORG-B ORG-B O O O O O O O O O
-3 경기를 치르는 데 걸리+ㄴ 시간은 4분 33초에 불과하였다 .	O O O O O O O O O O
-직구 위주로 던지던 2회에 +ㄴ조니 모넬을 상대로 슬라이더를 뿌리+어삼진을 잡아내 +었다 .	O O O O PER-B PER-I O O O O O O
-정씨는 수업일수 193일의 3분의 1 이상을 결석하였기 때문에 졸업 인정 취소 요건에 해당되+ㄴ다 .	PER-B O O O O O O O O PER-B O O O O
-그래서 미국 정착 초기에 정지 신호 위반으로 경찰 단속에 걸리는 한국인이 적지 않다 .	O LOC-B O O O O O O O O O O O O
+개리 결혼 소식 에 , 누리 꾼 “ 이래서 런닝맨 하차 했 네 ” “ 멘붕 이 다 ”	PER-B O O O O O O O O O O O O O O O O O O
+롯데마트 의 신선 명장 선발 대회 는 먹거리 진열 기법 , 신 메뉴 개발 능력 등 을 평가해 신선 식품 부문 의 최우수 사원 을 가리 는 행사 이 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+레오나르도 울 로아 ( 아르헨티나 ) 가 11 골 을 터트 렸 을 뿐 나머지 는 고만고만 했 다 .	PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O O O O
+이름 은 클로 에다 .	O O PER-B O O
+19 살 의 클로에 는 심각한 거식증 으로 고통 을 받 고 있 다 .	O O O PER-B O O O O O O O O O O O
+[ 세계 로 뛰 는 금융 ] NH 농협은행 , 금융 권 첫 ‘ 핀테크 오픈 플랫폼 ’ 출시	O O O O O O O ORG-B ORG-I O O O O O O O O O O
+지금 은 99.8 % 완치 됐 다 .	O O O O O O O O
+거기 에 는 러시아 가 한국 에 보내 는 불신 의 메시지 가 새겨 진 기념비 하나 가 있 다 .	O O O ORG-B O ORG-B O O O O O O O O O O O O O O O
+3 경기 를 치르 는 데 걸린 시간 은 4 분 33 초 에 불과 했 다 .	O O O O O O O O O O O O O O O O O O
+직구 위주 로 던지 던 2 회 엔 조니 모넬 을 상대 로 슬라이더 를 뿌려 삼진 을 잡아냈 다 .	O O O O O O O O PER-B PER-I O O O O O O O O O O O
+정 씨 는 수업 일수 193 일 의 3 분 의 1 이상 을 결석 했 기 때문 에 졸업 인정 취소 요건 에 해당된다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+그래서 미국 정착 초기 에 정지 신호 위반 으로 경찰 단속 에 걸리 는 한국인 이 적 지 않 다 .	O LOC-B O O O O O O O O O O O O O O O O O O O

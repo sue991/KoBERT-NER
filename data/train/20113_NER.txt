@@ -1,14 +1,14 @@
-전세대 59m ², 84m ² 중소형 물량으로만 구성 ‘신동탄 SK뷰파크 2차’는 경기 화성시 기산동 57번지(기산2지구)에 지하 2층∼지상 24층, 아파트 14개 동 총 1196가구 규모로 조성되 +ㄴ다 .	O O O O O O O O LOC-B LOC-I LOC-I LOC-B LOC-B LOC-B LOC-B O O O O O O O O O O O O
-볼리비아에 도착하+ㄴ한국여행객이라면 ‘볼리비아는 여행경보 1단계(여행유의) 국가 이+ㅁ.황열병에 주의하며 귀국 후 고열, 두통 등 증상 때는 109로 신고하시+어요’ +이라는 안내 메시지를 받는 식이다 .	LOC-B LOC-B LOC-B O O O O O O O O O O O O ORG-B O O O O O O O
-전인지는 “부모님의 속을 썩이+ㄴ 적이 있었다”며 2년 전의 얘기를 들려주었다 .	PER-B O O O O O O O O O O
-실제 반 전 총장 주변에서 +ㄴ강 하+ㄴ 후회의 기류가 감지되 +ㄴ다 .	O PER-B O O O O O O O O O O
-도올이 들려주는 한편의 드라마 같은 ‘보시라이 사건’은 3일 오후 8시30분 방송되+ㄴ다 .	PER-B O O O O O O O O O O O
-한편 관광공사는 변추석 사장의 퇴임식을 6일 오전 10시에 원주 본사 대강당에서 실시하+ㄴ다 .	O ORG-B PER-B O O O O O LOC-B O O O O
-양미라, 열애 고백 “남자친구, 차승원++젊은 최민수 닮았다 .	PER-B O O O O PER-B O O
-1999년 국내 최초의 슈퍼듀플렉스 열처리 개발을 시작으로 2009년 ISO 9001:2008 품질경영시스템 인증, 2015년 열처리 부문 전력산업기술기준(KEPICMNA 4300) 등을 취득하며 꾸준히 품질혁신에 진력 하+여오+ㄴ동사는 향후에도 철도, 선박, 담수화 설비 및 원자력·화력·수력발전소 등 국내 산업발전에 기여하+ㄴ다는 마음으로 지속적 이+ㄴ 연구개발에 나서 +ㄹ 계획이다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-손병희 “때가 되면 나라 위 하+여생명 바치+ㄹ 수 있어야” 특별 연성 수 .	PER-B O O O O O O O O O O O O
-계획 발표로 사업권 기회를 얻게 되+ㄴ 롯데는 지난해 말 현대, 신세계와 함께 추가 면세점 사업자로 선정되었다 .	O O O O O O ORG-B O O ORG-B ORG-B O O O O O O
-대통령 독대 이후 롯데는 최씨 소유의 하남시 복합체육시설 건립비용 명목으로 70억원을 K스포츠재단에 추가로 출연하기도 +였다 .	O O O ORG-B PER-B O LOC-B O O O MNY-B ORG-B O O O O
-하+ㄴ 제작 관계자는 “공을 들이 어 촬영 하+ㄴ 만큼 TV를 통하+여 ‘2016 무한상사’의 완성도를 충분히 감상 하+ㄹ 수 있다”고 말하였다 .	O O O O O O O O O O O O O O O O O O O O O
-이 이벤트의 핵심은 최대 40% 할인되 +ㄴ 건강검진 프로그램이다 .	O O O O O O O O O O
-개막 전시구자는 T5를 타고 마운드로 이동 하+ㄴ다 .	O O O O O O O O
+전 세대 59 m ² , 84 m ² 중소형 물량 으로 만 구성 ‘ 신 동탄 SK 뷰 파크 2 차 ’ 는 경기 화성시 기산동 57 번지 ( 기산 2 지구 ) 에 지하 2 층 ∼ 지상 24 층 , 아파트 14 개 동 총 1196 가구 규모 로 조성된다 .	O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I LOC-I O O LOC-B LOC-B LOC-B LOC-I LOC-I O LOC-B LOC-I LOC-I O O O O O O O O O O O O O O O O O O O O O
+볼리비아 에 도착한 한국 여행객 이 라면 ‘ 볼리비아 는 여행 경보 1 단계 ( 여행 유의 ) 국가 임 . 황열병 에 주의하 며 귀국 후 고열 , 두통 등 증상 때 는 109 로 신고하 세요 ’ 라는 안내 메시지 를 받 는 식 이 다 .	LOC-B O O LOC-B O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+전인지 는 “ 부모님 의 속 을 썩인 적 이 있 었 다 ” 며 2 년 전 의 얘기 를 들려 줬 다 .	PER-B O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+실제 반 전 총장 주변 에선 강한 후회 의 기류 가 감지된다 .	O PER-B O O O O O O O O O O O
+도올 이 들려주 는 한 편 의 드라마 같 은 ‘ 보시라이 사건 ’ 은 3 일 오후 8 시 30 분 방송된다 .	PER-B O O O O O O O O O O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O O
+한편 관광 공사 는 변추석 사장 의 퇴임 식 을 6 일 오전 10 시 에 원주 본사 대강당 에서 실시한다 .	O ORG-B ORG-I O PER-B O O O O O DAT-B DAT-I TIM-B TIM-I TIM-I O LOC-B O O O O O
+양미라 , 열애 고백 “ 남자 친구 , 차승원+ 젊 은 최민수 닮 았 다 ”	PER-B O O O O O O O O O O PER-B O O O O
+1999 년 국내 최초 의 슈퍼 듀플렉스 열처리 개발 을 시작 으로 2009 년 ISO 9001 : 2008 품질 경영 시스템 인증 , 2015 년 열처리 부문 전력 산업 기술 기준 ( KEPIC MNA 4300 ) 등 을 취득하 며 꾸준히 품질 혁신 에 진력해 온 동사 는 향후 에 도 철도 , 선박 , 담수화 설비 및 원자력 · 화력 · 수력 발전소 등 국내 산업 발전 에 기여한다는 마음 으로 지속적 인 연구 개발 에 나설 계획 이 다 .	DAT-B DAT-I O O O O O O O O O O DAT-B DAT-I O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+손병희 “ 때 가 되 면 나라 위해 생명 바칠 수 있 어야 ” 특별 연성 수련	PER-B O O O O O O O O O O O O O O O O
+계획 발표 로 사업 권 기회 를 얻 게 된 롯데 는 지난해 말 현대 , 신세계 와 함께 추가 면세점 사업자 로 선정 됐 다 .	O O O O O O O O O O ORG-B O O O ORG-B O ORG-B O O O O O O O O O O
+대통령 독대 이후 롯데 는 최 씨 소유 의 하남시 복합 체육 시설 건립 비용 명목 으로 70 억 원 을 K 스포츠 재단 에 추가 로 출연하 기 도 했 다 .	O O O ORG-B O PER-B O O O LOC-B O O O O O O O MNY-B MNY-I MNY-I O ORG-B ORG-I ORG-I O O O O O O O O O
+한 제작 관계자 는 “ 공 을 들 여 촬영한 만큼 TV 를 통해 ‘ 2016 무한 상사 ’ 의 완성도 를 충분히 감상할 수 있 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 이벤트 의 핵심 은 최대 40 % 할인된 건강 검진 프로그램 이 다 .	O O O O O O O O O O O O O O O
+개막 전 시구 자 는 T 5 를 타 고 마운드 로 이동한다 .	O O O O O O O O O O O O O O

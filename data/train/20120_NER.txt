@@ -1,15 +1,15 @@
-1월(–18.8%)보다 감소세가 주춤하였지만 3개월 연속 두 자리 수 감소율을 기록하였다 .	O O O O O O O O O O O
-5∼6월에 꽃이 피+ㄴ다 .	O O O O
-28일 투자은행(IB) 업계에 따르면 박 회장이 금호산업 인수자금을 마련하기 위하+여시간 외 대량매매(블록딜)로 내놓은 금호산업과 금호타이어 지분의 절반가량이 팔리었다 .	O ORG-B O O PER-B O ORG-B O O O O O O ORG-B ORG-B O O O O
-하지만 양측은 “친하+ㄴ 사이 이+ㄹ 뿐, 열애는 아니다”고 부인하였다 .	O O O O O O O O O O
-러셀 크로 역시 이전 해외 명사들과 마찬가지로 출연을 자청하었다는 후문이다 .	PER-B PER-I O O O O O O O O O
-23일 대구 달서구 보건소에서 한 여성이 금연상담을 받고 있다 .	O LOC-B LOC-B LOC-I O O O O O O
-또한 경북 영덕차 유어촌체험마을로 출발하+ㄴ 90명의 학생은 버스를 타고 영덕 삼사해상공원에 도착하+여어촌박물관을 관람하며 각종 바 .	O LOC-B LOC-B O O O O O O LOC-B LOC-I O O O O O
-마마무문별-솔라, ‘슈가맨’ 출연 인 증샷 “많이 아쉽 ㄴ 무대+이었지만 소중하+ㄴ 경험”걸그룹 마마무문별과 솔라가 ‘슈가맨’ 출연 소감을 전하였다 .	ORG-B O O O O O O O O O O ORG-B PER-B O O O O O
-걸그룹 마마무의 문별과 솔라는 25일 공식 트위터에 “‘슈가 맨’ 본방 사수 하+시었나요?가 수제이선배님의 ‘어제처럼’, 용콩별 콩 둘이서 함께 꾸미+ㄴ 무대. 많이 아쉽 ㄴ 무대+이었지만 소중하+ㄴ 경험이었습니다” +이라는 글과 함께 사진 한 장을 게재하였다 .	O ORG-B PER-B PER-B O O O O O O O O PER-B PER-B PER-I O O O O O O O O O O O O O O O O O O O
-사진 속 마마무문별과 솔+이라는 화이트와 블루의상을 맞추+어 입고 환환 미소를 짓은 채 카메라를 응시하고 있다 .	O O ORG-B PER-B O O O O O O O O O O O O
-앞서 마마무문별과 솔라는 24일 방송되+ㄴ JTBC ‘투유 프로젝트-슈가맨’에 출연하+여가수제이의 ‘어제처럼’을 재해석하+ㄴ무대를 선보이어 감동을 자아내 +었다 .	O ORG-B PER-B O O O O O PER-B PER-B ORG-I PER-I O O O O
-이날 방송에서 솔라는 “늘 넷이서 무대를 꾸미 .	O O PER-B O O O O O
-‘신서유기’이 승기 “나영석 PD와 연 끊어야 하나 고민” 폭로… 노예별명 때문?나 영석 PD의 새 예능 프로그램 ‘신서유기’가 화제+이다 .	O O PER-B O O O O O O O O O O O O O O O O
-산업자원부의 예산을 지원받아 제조기술 혁신연구원도 만들어 하반기부터 본격적으로 가동 하+ㄴ다 .	ORG-B O O ORG-B ORG-I O O O O O O
-박 대통령은 반기문 외교부 장관 특별보좌관을 지내+ㄴ 박준우씨를 정무수석에 기용하기도 +였다 .	PER-B O PER-B ORG-B O O O PER-B O O O O
+1 월 ( – 18.8 % ) 보다 감소세 가 주춤 했 지만 3 개월 연속 두 자리 수 감소율 을 기록 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O
+5 ∼ 6 월 에 꽃 이 핀다 .	O O O O O O O O O
+28 일 투자 은행 ( IB ) 업계 에 따르 면 박 회장 이 금호산업 인수 자금 을 마련하 기 위해 시간 외 대량 매매 ( 블록 딜 ) 로 내놓 은 금호산업 과 금호타이어 지분 의 절반 가량 이 팔 렸 다 .	DAT-B DAT-I ORG-B ORG-I O ORG-B O O O O O PER-B O O ORG-B O O O O O O O O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O
+하지만 양측 은 “ 친한 사이 일 뿐 , 열애 는 아니 다 ” 고 부인 했 다 .	O O O O O O O O O O O O O O O O O O O
+러셀 크로 역시 이전 해외 명사 들 과 마찬가지 로 출연 을 자청 했 다는 후문 이 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O
+23 일 대구 달서구 보건소 에서 한 여성 이 금연 상담 을 받 고 있 다 .	DAT-B DAT-I LOC-B LOC-B LOC-I O O O O O O O O O O O O
+또한 경북 영덕 차유 어촌 체험 마을 로 출발한 90 명 의 학생 은 버스 를 타 고 영덕 삼사 해상공원 에 도착해 어촌 박물관 을 관람하 며 각종 바다	O LOC-B O O O O O O O O O O O O O O O O LOC-B LOC-I LOC-I O O O O O O O O O
+마마 무 문 별 - 솔라 , ‘ 슈가맨 ’ 출연 인증 샷 “ 많이 아쉬 운 무대 였 지만 소중한 경험 ” 걸그룹 마마 무 문 별 과 솔라 가 ‘ 슈가맨 ’ 출연 소감 을 전 했 다 .	ORG-B ORG-I PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O ORG-B ORG-I PER-B PER-I O PER-B O O O O O O O O O O O
+걸그룹 마마 무의 문 별 과 솔라 는 25 일 공식 트위터 에 “ ‘ 슈가맨 ’ 본방 사수 하 셨 나 요 ? 가수 제 이 선배 님 의 ‘ 어제 처럼 ’ , 용콩별콩 둘 이서 함께 꾸민 무대 . 많이 아쉬 운 무대 였 지만 소중한 경험 이 었 습니다 ” 라는 글 과 함께 사진 한 장 을 게재 했 다 .	O ORG-B O PER-B PER-I O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+사진 속 마마 무 문 별 과 솔 라는 화이트 와 블루 의상 을 맞춰 입 고 환 환 미소 를 지 은 채 카메라 를 응시하 고 있 다 .	O O ORG-B ORG-I PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+앞서 마마 무 문 별 과 솔라 는 24 일 방송된 JTBC ‘ 투유 프로젝트 - 슈가맨 ’ 에 출연해 가수 제 이 의 ‘ 어제 처럼 ’ 을 재해석한 무대 를 선보 여 감동 을 자아냈 다 .	O ORG-B ORG-I PER-B PER-I O PER-B O DAT-B DAT-I O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+이날 방송 에서 솔라 는 “ 늘 넷 이서 무대 를 꾸미 다	O O O PER-B O O O O O O O O O
+‘ 신 서유기 ’ 이승기 “ 나영석 PD 와 연 끊 어야 하 나 고민 ” 폭로 … 노예 별명 때문 ? 나영석 PD 의 새 예능 프로그램 ‘ 신 서유기 ’ 가 화제 다 .	O O O O PER-B O PER-B O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O
+산업자원부 의 예산 을 지원 받 아 제조 기술 혁신 연구원 도 만들 어 하반기 부터 본격적 으로 가동한다 .	ORG-B O O O O O O ORG-B ORG-I ORG-I ORG-I O O O O O O O O O
+박 대통령 은 반기문 외교부 장관 특별 보좌관 을 지낸 박준우 씨 를 정무 수석 에 기용하 기 도 했 다 .	PER-B O O PER-B ORG-B O O O O O PER-B O O O O O O O O O O O

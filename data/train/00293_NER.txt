@@ -1,15 +1,15 @@
-최경철은 2월 팀의 일본 오키나와 스프링캠프에서 한국도 핑 방지위원회(KADA)의 도핑 테스트에 임하였다 .	PER-B O O LOC-B LOC-B O O O ORG-B O O O O
-미라클은 아직은 재원이 부족하+여창단 초기에는 선수들로부터 숙식비와 훈련비 형태로 한 달에 70만원 정도를 받는다 .	ORG-B O O O O O O O O O O MNY-B O O O
-이로부터 3일 후 폴라리스 이 회장과 클라라가 나누+ㄴ 대화가 공개되었다 .	PER-B O O ORG-B PER-B O PER-B O O O O
-소련도 미국으로부터 과학적 ­ 기술적 지원을 받아야 +하겠다는 것이었다 .	ORG-B ORG-B O O O O O O O O
-‘오마이것 +ㄹ’의 데뷔 첫 미니앨범 ‘오마이것 +ㄹ(OHMYGIRL)’ 발매 기념 쇼케이스가 20일 서울 광진구 광장동악스홀에서 개최되었다 .	PER-B O O O O PER-B O O O O O LOC-B LOC-B LOC-B O O
-바로 2008년 도의 미국 금융위기를 가져 오+ㄴ 직접적 이+ㄴ 계기가 되+ㄴ ‘비우량 주택담보대출’ 말이다 .	O O O ORG-B O O O O O O O O O O O
-[전문]고소영, 日대부업체 광고 논란에 계약해지 “성숙하+ㄴ 사회인의 자세로 보답하+ㄹ 것”고 소영계약 해지 대부업 상품을 주로 판매하는 계열사를 거느리+ㄴ 일본계 금융회사의 광고 모델로 나서+어 논란을 빚은 배우 고소영이 비난 여론이 거세지자 결국 계약을 해지하고 사과하였다 .	PER-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O
-고소영은 25일 보도자료를 통하+여 “많은 분들께 심려를 끼치+어드리+어죄송하다”면서 “회사 측에 모델 계약 해지의사를 전하였고, 해당 회사도 저의 입장을 최대한 존중하+여원만 히 계약이 해지되었다”고 전하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-고소영은 보도자료에서 “8월 한 광고대행사로부터 제이트러스트+이라는 일본계 금융회사의 기업광고 모델 섭외를 받고 제안에 응하였다”면서 “다방면으로 성장하는 금융그룹의 브랜드 이미지를 제고하고 싶다는 광고의 취지와 콘티를 보고 내리+ㄴ 결정이었다”고 일본 금융업체 모델로 나서게 되+ㄴ 배경을 설명하였다 .	PER-B O O O O ORG-B ORG-B O O O O O ORG-B O O O O O O ORG-B O O O O O O O ORG-B O O O O O O O
-이어 “광고 모델로 발탁되었다는 보도가 나 오+ㄴ 뒤 제가 간과하+ㄴ 부분이 있다는 것을 뒤늦게 깨닫게 되었다”면서 “이미 제이트러스트 측에 모델 계약해지의사를 전하였고, 해당 회사도 이러하+ㄴ저의 입장을 최대한 존중하+여원만 히 계약이 해지+되었다”고 말하였다 .	ORG-I O O O O O O O ORG-B O O O O O O O O ORG-B O O O O O O O O O O O O O O O
-고소영은 “이번 일로 인하+여 여러분들께 심려를 끼치 +ㄴ점, 다시 한번 진심으로 죄송하다는 말씀 전 하+ㄴ다”며 거듭 사과하였다 .	PER-B O O O O O O O O O O O O O O O O O
-고소영은 “배우이자 아내이자 아이들의 엄마로서 앞으로 여러분의 관심과 사랑을 더욱 책임감 있고 성숙하+ㄴ 사회인의 자세로 보답 하+ㄹ 수 있도록 노력하겠다”며 글을 끝맺었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-고소영은 최근 제2금융권이+ㄴ 일본계 기업과 모델 계약을 체결, 광고 촬영을 마치었지만 이 기업이 대부 관련 업무를 다루는 업체로 알려지면서 비난 여론이 일었다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O
-고소영이 우여곡절 끝에 계약을 해지하+ㄴ제이(J) 트러스트는 JT친애저축은행, JT캐피탈, JT저축은행 등 주로 대부업과 관련되 +ㄴ 업무를 하는 계열사를 두고 있다 .	ORG-I O O O ORG-B ORG-I ORG-B ORG-B ORG-B O O O O O O O O O O O
-▼ 다음은 고소영 사과문 전문 ▼ 안녕하세요 고소영이+ㅂ니다 .	O O PER-B O O O O PER-B O
+최경철 은 2 월 팀 의 일본 오키나와 스프링 캠프 에서 한국도핑방지위원회 ( KADA ) 의 도핑 테스트 에 임 했 다 .	PER-B O DAT-B DAT-I O O LOC-B LOC-B O O O ORG-B O ORG-B O O O O O O O O O
+미라클 은 아직 은 재원 이 부족해 창단 초기 에 는 선수 들 로부터 숙식 비 와 훈련 비 형태 로 한 달 에 70 만 원 정도 를 받 는다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O
+이 로부터 3 일 후 폴라리스 이 회장 과 클라라 가 나눈 대화 가 공개 됐 다 .	O O DAT-B DAT-I O ORG-B PER-B O O PER-B O O O O O O O O
+소련 도 미국 으로부터 과학 적 ­ 기술적 지원 을 받 아야 겠 다는 것 이 었 다 .	ORG-B O ORG-B O O O O O O O O O O O O O O O O
+‘ 오마이 걸 ’ 의 데뷔 첫 미니 앨범 ‘ 오마이 걸 ( OH MY GIRL ) ’ 발매 기념 쇼케이스 가 20 일 서울 광진구 광장동 악스 홀 에서 개최 됐 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O DAT-B DAT-I LOC-B LOC-B LOC-B LOC-I LOC-I O O O O O
+바로 2008 년도 의 미국 금융 위기 를 가져온 직접적 인 계기 가 된 ‘ 비 우량 주택 담보대출 ’ 말 이 다 .	O DAT-B O O ORG-B O O O O O O O O O O O O O O O O O O O
+[ 전문 ] 고소영 , 日 대부 업체 광고 논란 에 계약 해지 “ 성숙한 사회인 의 자세 로 보답할 것 ” 고소영 계약 해지 대부 업 상품 을 주로 판매하 는 계열사 를 거느린 일본 계 금융회사 의 광고 모델 로 나서 논란 을 빚 은 배우 고소영 이 비난 여론 이 거세지 자 결국 계약 을 해지 하 고 사과 했 다 .	O O O PER-B O ORG-B O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O
+고소영 은 25 일 보도 자료 를 통해 “ 많 은 분 들 께 심려 를 끼쳐 드려 죄송하 다 ” 면서 “ 회사 측 에 모델 계약 해지 의사 를 전 했 고 , 해당 회사 도 저 의 입장 을 최대한 존중해 원만히 계약 이 해지 됐 다 ” 고 전 했 다 .	PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고소영 은 보도 자료 에서 “ 8 월 한 광고 대행 사 로부터 제 이 트러스트 라는 일본 계 금융회사 의 기업 광고 모델 섭외 를 받 고 제안 에 응 했 다 ” 면서 “ 다방면 으로 성장하 는 금융 그룹 의 브랜드 이미지 를 제고하 고 싶 다는 광고 의 취지 와 콘티 를 보 고 내린 결정 이 었 다 ” 고 일본 금융 업체 모델 로 나서 게 된 배경 을 설명 했 다 .	PER-B O O O O O DAT-B DAT-I O O O O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+이어 “ 광고 모델 로 발탁되 었 다 는 보도 가 나온 뒤 제 가 간과한 부분 이 있 다는 것 을 뒤늦 게 깨닫 게 되 었 다 ” 면서 “ 이미 제 이 트러스트 측 에 모델 계약 해지 의사 를 전 했 고 , 해당 회사 도 이러한 저 의 입장 을 최대한 존중해 원만히 계약 이 해지 됐 다 ” 고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고소영 은 “ 이번 일 로 인해 여러분 들 께 심려 를 끼친 점 , 다시 한 번 진심 으로 죄송하 다는 말씀 전한다 ” 며 거듭 사과 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고소영 은 “ 배우 이 자 아내 이 자 아이 들 의 엄마 로서 앞 으로 여러분 의 관심 과 사랑 을 더욱 책임감 있 고 성숙한 사회인 의 자세 로 보답할 수 있 도록 노력하 겠 다 ” 며 글 을 끝맺 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고소영 은 최근 제 2 금융권 인 일본 계 기업 과 모델 계약 을 체결 , 광고 촬영 을 마 쳤 지만 이 기업 이 대부 관련 업무 를 다루 는 업체 로 알려지 면서 비난 여론 이 일 었 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+고소영 이 우여곡절 끝 에 계약 을 해지한 제 이 ( J ) 트러스트 는 JT 친애 저축은행 , JT 캐피탈 , JT 저축은행 등 주로 대부 업 과 관련된 업무 를 하 는 계열사 를 두 고 있 다 .	PER-B O O O O O O O ORG-B ORG-I ORG-I ORG-I ORG-I ORG-I O ORG-B ORG-I ORG-I O ORG-B ORG-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O
+▼ 다음 은 고소영 사과문 전문 ▼ 안녕하 세요 고소영 입니다 .	O O O PER-B O O O O O PER-B O O

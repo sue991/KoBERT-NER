@@ -1,15 +1,15 @@
-또 여중군자장 계향이 남기+ㄴ 최초의 한글 조리서인 『 음식 디미방 』 요리를 재현하고 시식 하+ㄴ다 .	O O O O O O O O O O O O O O O O
-램시마는 현지에서 ‘인플렉트+이라’ +이라는 이름으로 판매되며, 오리지널 의약품 대비 15% 싸+ㄴ 가격으로 공급되+ㄹ 예정이다 .	O O O O O O O O O O O O O O O
-김희진은 “이것만 있으면 잡겠다는 블로킹 단계에서 언니는 한 수를 더 보는 느낌이었다”고 설명하였다 .	PER-B O O O O O O O O O O O O O
-나이 많은 메시나 태종이 형도 마찬가지 +이다 .	O O O PER-B O O O O
-사업이 구체화되는 길목마다 CJ그룹이 참여하였다 .	O O O ORG-B O O
-이르면 오늘쯤 김정은 국방위 제1위원장의 새롭ㄴ칭호가 공개되+ㄹ지 모르+ㅂ니다 .	O O PER-B O O O O O O
-특히 김씨는 “강압수사에 의하+ㄴ 거짓 자백이었다”고 주장하였다 .	O PER-B O O O O O O
-또 아버지는 3급 장애인으로, 이를 숨기고 보험 가입을 +였지만 이는 ‘고지의무 위반’에 해당되+어설사 아버지가 사망하더라도 가입 2년 이내에 보험금 지급이 되지 않는데 아버지를 살해하 +ㄹ이유가 없다고 혐의를 부인하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-변호인단도 직접 증거가 하나도 없는 점, 피해자의 사인이 불분명 하+ㄴ점, 수사과정에서의 직무상 위법에 대하+ㄴ 증거 등을 제시하며 재심 개시의 필요성을 밝히었다 .	O O O O O O O O O O O O O O O O O O O O O O
-이에 지나 +ㄴ 2015년 11월 18일 광주지법 해남지원은 김씨의 청구를 받아들이어 재심 개시를 결정하였다 .	O O O O O O ORG-B ORG-I PER-B O O O O O O
-프랑스 경찰이 특공대와 헬리콥터를 동원하+여 바짝 추격하였기 때문이다 .	ORG-B O O O O O O O O
-잠원동 새마을금고 강도, 총들고 들어오아 5분 만에 2400만원 털어홀연히...잠원동 새마을금고서울 서초구 잠원동 새마을금고에 강도가 침입하+여2400만원의 현금을 털어 달아나 +았다 .	LOC-B ORG-B O O O O O MNY-B LOC-B LOC-B LOC-I LOC-B ORG-B O MNY-B O O O O O
-경찰에 따르면 20일 낮 12시 30분께 잠원동 새마을금고에 한 남성이 들어오아가스총으로 보이는 물건으로 여직원을 위협하였다 .	O O O O O O LOC-B ORG-B O O O O O O O O
-“그 말도 그렇 +ㄹ 법 하구나.내가 견마잡이를 부르어서 하+여뜨자마자 찾아 오+ㄹ터이니너는 내일 아침 사시까지 단장을 마치고 기다리고 있거라.” “말을 타고 가는 것보다 천천히 걷으면 한두 시간이면 족하+ㄹ 것이 +ㅂ니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-2003년 아오모리 동계아시안게임에서 처음 만나 +아0-10으로 패하었고, 2007년 창춘대회에서는 0-5로 패하였다 .	O O O O O O O O O O O O
+또 여중군자 장계향 이 남긴 최초 의 한글 조리 서인 『 음식디미방 』 요리 를 재현하 고 시식한다 .	O O PER-B O O O O O O O O O O O O O O O O
+램 시마 는 현지 에서 ‘ 인플렉트 라 ’ 라는 이름 으로 판매되 며 , 오리지널 의약품 대비 15 % 싼 가격 으로 공급될 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+김희진 은 “ 이것 만 있 으면 잡 겠 다는 블로킹 단계 에서 언니 는 한 수 를 더 보 는 느낌 이 었 다 ” 고 설명 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+나이 많 은 메시나 태종 이 형 도 마찬가지 다 .	O O O O PER-B O O O O O O
+사업 이 구체화되 는 길목 마다 CJ 그룹 이 참여 했 다 .	O O O O O O ORG-B ORG-I O O O O O
+이르 면 오늘 쯤 김정 은 국방 위 제 1 위원장 의 새로 운 칭호 가 공개될지 모릅니다 .	O O O O PER-B PER-I O O O O O O O O O O O O O
+특히 김 씨 는 “ 강압 수사 에 의한 거짓 자백 이 었 다 ” 고 주장 했 다 .	O PER-B O O O O O O O O O O O O O O O O O O
+또 아버지 는 3 급 장애인 으로 , 이 를 숨기 고 보험 가입 을 했 지만 이 는 ‘ 고지 의무 위반 ’ 에 해당돼 설사 아버지 가 사망하 더라도 가입 2 년 이내 에 보험금 지급 이 되 지 않 는데 아버지 를 살해할 이유 가 없 다고 혐의 를 부인 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+변호인 단 도 직접 증거 가 하나 도 없 는 점 , 피해자 의 사인 이 불분명한 점 , 수사 과정 에서 의 직무 상 위법 에 대한 증거 등 을 제시하 며 재심 개시 의 필요성 을 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 지난 2015 년 11 월 18 일 광주 지법 해남 지원 은 김 씨 의 청구 를 받아들 여 재심 개시 를 결정 했 다 .	O O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I ORG-B ORG-I ORG-I ORG-I O PER-B O O O O O O O O O O O O O
+프랑스 경찰 이 특공대 와 헬리콥터 를 동원해 바짝 추격 했 기 때문 이 다 .	ORG-B O O O O O O O O O O O O O O O
+잠원동 새마을금고 강도 , 총 들 고 들어 와 5 분 만 에 2400 만 원 털 어 홀연히 . . . 잠원동 새마을금고 서울 서초구 잠원동 새마을금고 에 강도 가 침입해 2400 만 원 의 현금 을 털 어 달아났 다 .	LOC-B ORG-B O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O LOC-B ORG-B LOC-B LOC-I LOC-B O O O O O MNY-B MNY-I MNY-I O O O O O O O O
+경찰 에 따르 면 20 일 낮 12 시 30 분 께 잠원동 새마을금고 에 한 남성 이 들어 와 가스총 으로 보이 는 물건 으로 여직원 을 위협 했 다 .	O O O O DAT-B DAT-I TIM-B TIM-I TIM-I TIM-I TIM-I O LOC-B ORG-B O O O O O O O O O O O O O O O O O O
+“ 그 말 도 그럴 법하 구나 . 내 가 견마잡이 를 불 러서 해 뜨 자마자 찾아올 터 이 니 너 는 내일 아침 사시 까지 단장 을 마치 고 기다리 고 있 거라 . ” “ 말 을 타 고 가 는 것 보다 천천히 걸 으면 한두 시간 이 면 족할 것 입니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2003 년 아오모리 동계 아시안 게임 에서 처음 만나 0 - 10 으로 패 했 고 , 2007 년 창춘 대회 에서 는 0 - 5 로 패 했 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O

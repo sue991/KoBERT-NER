@@ -1,13 +1,13 @@
-시즌 4번째 3안타 이상 경기를 만들며 4일(한국시각) 경기 최우수 선수(MVP)로 선정되+ㄴ 김현수(28·볼티모어 오리올스)가 “운도 따르는 것 같다”며 겸손하+ㄴ 모습을 보이었다 .	O O O O O O O O O O O ORG-B ORG-I O O O O O O O O
-김현수는 이날 미국 메릴랜드 주 볼티모어 오리올 파크앳 캠든 +이야즈에서 열리+ㄴ 2016 메이저리그 뉴욕 양키스와의 홈경기에서 좌익수겸 2번 타자로 선발출장 하+여4 타수 3안타로맹활약하며 시즌4번째 3안타 이상 경기를 만들었다 .	PER-B O ORG-B O O LOC-B LOC-B LOC-I O O O O O ORG-B ORG-I O O O O O O O O O O O O O O
-삼성 구단의 김인 사장은 20일 대구시민운동장에서 긴급기자회견을 열고 “삼성야구단은 최근 소속 선수의 도박 의혹으로 물의를 빚은 점에 대하+여프로야구를 사랑하는 팬들과 국민에게 진심으로 사과드리+ㄴ다”며 “의혹을 받고 있는 선수들에 대하+여 한국시리즈에 출전시키지 않기로 결정하였다”고 말하였다 .	ORG-B ORG-I PER-B O O LOC-B O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
-하지만 강남선도론은 심각하+ㄴ 결함이 있다 .	O LOC-B O O O O
-수도권 미세먼지 악화는 정부의 널뛰기 정책이 빚은 예견되+ㄴ 재앙이라고 하+여도 과언이 아니다 .	LOC-B O O O O O O O O O O O O
-4단계 | 극복!굿바이PMS 월경전증후군 치료에서 가장 중요하+ㄴ 것은 여성호르몬 균형을 되찾는 것! PMS를 치료하기 위하+여서 +ㄴ 단계적 이+ㄴ 장기계획이 필요하다 .	O O O O O O O O O O O O O O O O O O O O O
-아그누스카스투스 열매 추출물이 함유되 +ㄴ 천연물의약품 ‘종근당 프리페민’ 종근당 ‘프리페민’은 스위스 생약 전문회사 ‘젤러’에서 생산하+ㄴ 일반의약품으로 생약성분이 +ㄴ아그누스카스투스 열매 추출물이 주성분.원료 추출에서 완제품 제조까지 유럽과 국내의 엄격 하+ㄴ 기준에 따르 아철저하+ㄴ 품질관리를 거치+어 생산되+ㄴ다 .	O O O O O O ORG-B O ORG-B O ORG-B O O ORG-B O O O O O O O O O O ORG-B O O O O O O O O O O
-질병관리본부는 경기도보건환경연구원에서 1차 양성 판정 이후 아동에 대하+ㄴ 검체 채취 등에 어려움이 있었으나 보다 정확하+ㄴ 판단을 위하+여 추가로 4차례(13~17일) 검사를 실시하여 최종 음성 판정하였다 .	ORG-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O
-필리핀은 자국의 배타적 경제수역(EEZ) 내에 있는 산호초를 중국이 갑자기 지배하고 있다고 주장 하+ㄴ다 .	ORG-B O O O O O O ORG-B O O O O O O
-이날 가야금 산조 기념관에서 +ㄴ 특별 하+ㄴ 공연이 열리었다 .	O LOC-B LOC-I LOC-I O O O O O O
-붉게 변색되+ㄴ 표면을 벗기+어내고 옻나무액을 7번 칠하+ㄴ 뒤 금박을 입히었다 .	O O O O O O O O O O O
-수요자들의 자금 부담을 줄이기 위 하+여 계약금을 2번에 걸치+어나누+어내+ㄹ 수 있도록 하+ㄴ점도 눈에 띄+ㄴ다 .	O O O O O O O O O O O O O O O
-한국은 남자 복식 세계랭킹 1위 이용대(27·삼성전기·사진 왼쪽)-유연성(29·수원시청·사진 오른쪽)과 여자 단식세계랭킹 7위 성지현(24·MG 새마을금고) 등 정예 멤버로 12년 전의 영광 재현을 노리+ㄴ다 .	ORG-B O O O O ORG-B ORG-B O O O O ORG-B ORG-I O O O O O O O O O
+시즌 4 번째 3 안타 이상 경기 를 만들 며 4 일 ( 한국 시각 ) 경기 최우수 선수 ( MVP ) 로 선정된 김현수 ( 28 · 볼티모어 오리올스 ) 가 “ 운 도 따르 는 것 같 다 ” 며 겸손한 모습 을 보 였 다 .	O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+김현수 는 이날 미국 메릴랜드주 볼티모어 오리올 파크 앳 캠든 야 즈 에서 열린 2016 메이저 리그 뉴욕 양키스 와 의 홈경기 에서 좌익수 겸 2 번 타자 로 선발 출장해 4 타수 3 안타 로 맹활약하 며 시즌 4 번째 3 안타 이상 경기 를 만들 었 다 .	PER-B O O ORG-B LOC-B LOC-B LOC-B LOC-I LOC-I LOC-I LOC-I LOC-I O O DAT-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+삼성 구단 의 김인 사장 은 20 일 대구시민운동장 에서 긴급 기자회견 을 열 고 “ 삼성 야구단 은 최근 소속 선수 의 도박 의혹 으로 물의 를 빚 은 점 에 대해 프로야구 를 사랑하 는 팬 들 과 국민 에게 진심 으로 사과드린다 ” 며 “ 의혹 을 받 고 있 는 선수 들 에 대해 한국 시리즈 에 출전 시키 지 않 기 로 결정 했 다 ” 고 말 했 다 .	ORG-B ORG-I O PER-B O O DAT-B DAT-I LOC-B O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+하 지만 강남 선도 론 은 심각한 결함 이 있 다 .	O O LOC-B O O O O O O O O O
+수도권 미세 먼지 악화 는 정부 의 널뛰기 정책 이 빚 은 예견된 재앙 이라고 해도 과언 이 아니 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
+4 단계 | 극복 ! 굿바이 PMS 월경 전 증후군 치료 에서 가장 중요한 것 은 여성 호르몬 균형 을 되찾 는 것 ! PMS 를 치료하 기 위해선 단계적 인 장기 계획 이 필요하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+아그 누스 카스 투스 열매 추출물 이 함유된 천연물 의약품 ‘ 종근당 프리페민 ’ 종근당 ‘ 프리페민 ’ 은 스위스 생약 전문 회사 ‘ 젤러 ’ 에서 생산한 일반 의약품 으로 생약 성분 인 아그 누스 카스 투스 열매 추출물 이 주성분 . 원료 추출 에서 완제품 제조 까지 유럽 과 국내 의 엄격한 기준 에 따 라 철저한 품질 관리 를 거쳐 생산된다 .	O O O O O O O O O O O ORG-B O O ORG-B O O O O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+질병 관리 본부 는 경기도 보건 환경 연구원 에서 1 차 양성 판정 이후 아동 에 대한 검체 채취 등 에 어려움 이 있 었 으나 보다 정확한 판단 을 위해 추가 로 4 차례 ( 13 ~ 17 일 ) 검사 를 실시하 여 최종 음성 판정 했 다 .	ORG-B ORG-I ORG-I O LOC-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B O DAT-B DAT-I O O O O O O O O O O O
+필리핀 은 자국 의 배타적 경제 수역 ( EEZ ) 내 에 있 는 산호초 를 중국 이 갑자기 지배하 고 있 다고 주장한다 .	ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+이날 가야금 산조 기념관 에선 특별한 공연 이 열 렸 다 .	O LOC-B LOC-I LOC-I O O O O O O O O
+붉 게 변색된 표면 을 벗겨 내 고 옻나무 액 을 7 번 칠한 뒤 금박 을 입 혔 다 .	O O O O O O O O O O O O O O O O O O O O O
+수요자 들 의 자금 부담 을 줄이 기 위해 계약금 을 2 번 에 걸쳐 나눠 낼 수 있 도록 한 점 도 눈 에 띈다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한국 은 남자 복식 세계 랭킹 1 위 이용대 ( 27 · 삼성전기 · 사진 왼쪽 ) - 유연성 ( 29 · 수원시청 · 사진 오른쪽 ) 과 여자 단식 세계 랭킹 7 위 성지현 ( 24 · MG 새마을금고 ) 등 정예 멤버 로 12 년 전 의 영광 재현 을 노린다 .	ORG-B O O O O O O O PER-B O O O ORG-B O O O O O PER-B O O O ORG-B O O O O O O O O O O O PER-B O O O ORG-B ORG-I O O O O O O O O O O O O O O

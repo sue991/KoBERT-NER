@@ -1,13 +1,13 @@
-주요 활동은 ‘연탄배달’, ‘무료급식’, ‘김장김치 전달’ 등으로 총 4400만원 상당의 겨울나기 물품을 어렵ㄴ 이웃에 후원하+ㄹ 예정이다 .	O O O O O O O O MNY-B O O O O O O O O
-조합과 시공사는 새로 책정 하+ㄴ 분양가가 강남구 평균 분양가(3804만원) 대비 10% 정도 높은 수준이어서 보증을 무난히 받을 것으로 기대하였다 .	O O O O O O LOC-B O MNY-B O O O O O O O O O O O
-더 이상 중국을 ‘축구 변방’이라 하지 않는다 .	O O ORG-B O O O O O
-문화재로 등재되 +ㄴ한국만화해외에서도 만나 +ㄴ .	O O LOC-B O O O
-도산안창호 선생이 1902년 미국 일간지와 한 인터뷰 기사가 재미한국학자에 의하+여 처음으로 발견되었다 .	PER-B O O LOC-B O O O O ORG-B O O O O
-장태한 미국 리버사이드 캘리포니아대 교수는 6일 “샌프란시스코 크로니클(SanFrancis coChronicle)이 1902년 12월 7일자 11면에도 산의 인터뷰를 싣은 사실을 확인하고, 지면을 확보하였다”고 밝히었다 .	PER-B ORG-B ORG-I ORG-I O O ORG-B ORG-B ORG-I O O O O O O O O O O O O O
-유지는 이날 보+ㄴ 무대에 앞서 +어베스티 데뷔 당시 겪은 논란과 오해를 털어놓았다 .	PER-B O O O O O O O O O O O O
-2골을 터트리+ㄴ그는 한국의 원정 첫 16강 진출을 이끌 +ㄴ 일등공신 중의 한 명이었다 .	O O ORG-B O O O O O O O O O O O
-「정직하게 만들 +ㄴ신문 밝은 미래 약속 하+ㄴ다」/신문의 날 표 어선 .	O O O O O O O O O O O
-‘무한도전’ 유재석, 父와 전화통화 중 발끈 “아버지가 왜 나+의 것을 … .	O PER-B O O O O O O O O O O
-‘한국의 양키스’ +이라는 수식어는 어느새 ‘리그를 대표하는 팀’이라는 긍정의 이미지로 바뀌었다 .	ORG-B ORG-I O O O O O O O PER-B O O
-염돈재 전 국가정보원 제1차장은 12일 한국국가정보학회(회장이기덕) 주최의 ‘통일준비와 정보기관의 역할’ 세미나에 앞서 +어배포 하+ㄴ자료에서 이같이 밝히었다 .	PER-B O O O O ORG-B O O O O O O O O O O O
-김대중 노무현의 못 .	PER-B PER-B O O
+주요 활동 은 ‘ 연탄 배달 ’ , ‘ 무료 급식 ’ , ‘ 김장 김치 전달 ’ 등 으로 총 4400 만 원 상당 의 겨울나기 물품 을 어려 운 이웃 에 후원할 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O
+조합 과 시공 사 는 새로 책정한 분양 가 가 강남구 평균 분양 가 ( 3804 만 원 ) 대비 10 % 정도 높 은 수준 이 어서 보증 을 무난히 받 을 것 으로 기대 했 다 .	O O O O O O O O O O LOC-B O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O O O O
+더 이상 중국 을 ‘ 축구 변방 ’ 이 라 하 지 않 는다 .	O O ORG-B O O O O O O O O O O O O
+문화재 로 등재된 한국 만화 해외 에서 도 만난다	O O O LOC-B O O O O O
+도산 안창호 선생 이 1902 년 미국 일간지 와 한 인터뷰 기사 가 재미 한국 학자 에 의해 처음 으로 발견 됐 다 .	O PER-B O O DAT-B DAT-I LOC-B O O O O O O O ORG-B O O O O O O O O O
+장태한 미국 리버사이드 캘리포니아대 교수 는 6 일 “ 샌프란시스코 크로니클 ( San Francisco Chronicle ) 이 1902 년 12 월 7 일자 11 면 에 도산 의 인터뷰 를 실 은 사실 을 확인하 고 , 지면 을 확보 했 다 ” 고 밝 혔 다 .	PER-B ORG-B ORG-I ORG-I O O DAT-B DAT-I O ORG-B ORG-I O ORG-B ORG-I ORG-I O O DAT-B DAT-I DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+유지 는 이날 본 무대 에 앞서 베스티 데뷔 당시 겪 은 논란 과 오해 를 털어놓 았 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+2 골 을 터트린 그 는 한국 의 원정 첫 16 강 진출 을 이끈 일등 공신 중 의 한 명 이 었 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+「 정직하 게 만든 신문 밝 은 미래 약속한다 」 / 신문 의 날 표어 선정	O O O O O O O O O O O DAT-B DAT-I DAT-I O O
+‘ 무한도전 ’ 유재석 , 父 와 전화 통화 중 발끈 “ 아버지 가 왜 내 것 을 … ”	O O O PER-B O O O O O O O O O O O O O O O O
+‘ 한국 의 양키스 ’ 라는 수식어 는 어느새 ‘ 리그 를 대표하 는 팀 ’ 이 라는 긍정 의 이미지 로 바뀌 었 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O PER-B O O O O O
+염돈 재 전 국가 정보 원 제 1 차장 은 12 일 한국 국가 정보 학회 ( 회장 이기덕 ) 주최 의 ‘ 통일 준비 와 정보기관 의 역할 ’ 세미나 에 앞서 배포한 자료 에서 이 같이 밝 혔 다 .	PER-B PER-I O O O O O O O O DAT-B DAT-I ORG-B ORG-I ORG-I ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+김대중 노무현 의 못다	PER-B PER-B O O

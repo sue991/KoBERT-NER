@@ -1,12 +1,12 @@
-제발 우리의 안보태세나 굳건히 다지고 한 ­미 공조나 튼튼히 점검하면서 말의 정직성이라고 +ㄴ한 푼어치도 없는 북 의 장난에 일일이 반응하지 말라는 것이다 .	O O O O O ORG-B ORG-B O O O O O ORG-B O O ORG-B O O O O O O O
-시민단체 발암물질 없는 사회 만들기 국민행동박수미 사무국장은 “중금속 기준이 만들어지기 전 이+ㄴ 2008년 이전에 설치되 +ㄴ놀이시설은 아무런 점검을 받지 않았다”고 말하였다 .	O O O O O PER-B O O O O O O O O O O O O O O O O
-인천국제공항과 영종도 지역을 편리하게 접근하+ㄹ 수 있도록 하+여주는 핵심 교통시설이지만 높은 통행료에 대하+ㄴ불만이 끊이지 않았다 .	LOC-B LOC-B O O O O O O O O O O O O O O
-그는 캐나다에서 태어나 +아밴쿠버에서 대학까지 졸업하였지만 자신을 중국인이라고 생각 하+ㄴ다 .	O LOC-B O LOC-B O O O O O O O
-출시에 앞서 만나 +ㄴ 와이디온라인의 배민준 PM과 개발 스튜디오 이+ㄴ엔 유스튜디오의 김영관 PD, 이윤훈 팀장은 입을 모으아 ‘천군: 무한쟁탈전’은 삼국지를 더 하+ㄴ그저 그런 RPG가 아니라고 입을 모으았다 .	O O O O ORG-B PER-B O O O O O PER-B O PER-B O O O O O O O O O O O O O O
-선덜랜드 전 한 달 만에 리그 선발 출전 현지 언론“라멜라가 손흥민 대체 하+ㄹ 것”정확히 한 달 만의 리그 선발 출장이+ㅁ을 고려하면 아쉽 ㄴ 결과 +이었다 .	ORG-B O O O O O O O O PER-B PER-B O O O O O O O O O O O O O O O
-처음 방문 하+ㄴ나라는 한국이었다 .	O O O LOC-B O
-응답자 중 38%는 “2년 안에 현직장을 떠나 +ㄴ다”고 답하였다 .	O O O O O O O O O O
-일본의 경우 여러 차례의 일본 국내 전시와 함께 많은 민간 독지가의 희사가 있었기 때문에 이 박물관의 일본실이 유지되고 있다는 점도 우리가 유의 하+여야 +하겠다 .	ORG-B O O O ORG-B O O O O O O O O O O O ORG-B O O O O O O O O
-파트타임 전환자가 생기+ㄹ 때마다 추가 인력을 뽑아야 하지만 네덜란드와 독일에서 파트타임 구직자를 구하는 일은 그리 어렵지 않다 .	O O O O O O O O LOC-B LOC-B O O O O O O O O
-이어 “근처 못 골시장이 다른 곳에서도 견학을 많이 오는 성공적이+ㄴ 전통시장으로 변하였다 .	O O O O O O O O O O O O O
-”면서 “지동도 전국에서 가장 안전하+ㄴ 곳으로 만들면 모범적 이+ㄴ 스탠더드가 되+ㄹ 수 있다 .	O LOC-B O O O O O O O O O O O O
+제발 우리 의 안보 태세 나 굳건히 다지 고 한 ­ 미 공조 나 튼튼히 점검하 면서 말 의 정직성 이 라곤 한 푼 어치 도 없 는 북 의 장난 에 일일이 반응하 지 말 라는 것 이 다 .	O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+시민 단체 발암물질없는사회만들기국민행동 박수미 사무국 장 은 “ 중금속 기준 이 만들 어 지 기 전 인 2008 년 이전 에 설치된 놀이 시설 은 아무런 점검 을 받 지 않 았 다 ” 고 말 했 다 .	O O ORG-B PER-B O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O
+인천 국제공항 과 영종도 지역 을 편리하 게 접근할 수 있 도록 해 주 는 핵심 교통 시설 이 지만 높 은 통행료 에 대한 불만 이 끊이 지 않 았 다 .	LOC-B LOC-I O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그 는 캐나다 에서 태어나 밴쿠버 에서 대학 까지 졸업 했 지만 자신 을 중국인 이 라고 생각한다 .	O O LOC-B O O LOC-B O O O O O O O O O O O O O
+출시 에 앞서 만난 와이 디온 라인 의 배민준 PM 과 개발 스튜디오 인 엔유 스튜디오 의 김영관 PD , 이윤훈 팀장 은 입 을 모 아 ‘ 천군 : 무한 쟁탈전 ’ 은 삼국지 를 더한 그저 그런 RPG 가 아니 라고 입 을 모 았 다 .	O O O O ORG-B ORG-I ORG-I O PER-B O O O O O ORG-B ORG-I O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+선덜랜드 전 한 달 만 에 리그 선발 출전 현지 언론 “ 라멜라 가 손흥민 대체할 것 ” 정확히 한 달 만 의 리그 선발 출장 임 을 고려하 면 아쉬 운 결과 였 다 .	ORG-B O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O O O O O
+처음 방문한 나라 는 한국 이 었 다 .	O O O O LOC-B O O O O
+응답자 중 38 % 는 “ 2 년 안 에 현 직장 을 떠난다 ” 고 답 했 다 .	O O O O O O O O O O O O O O O O O O O O
+일본 의 경우 여러 차례 의 일본 국내 전시 와 함께 많 은 민간 독지가 의 희사 가 있 었 기 때문 에 이 박물관 의 일본 실 이 유지되 고 있 다는 점 도 우리 가 유의해야 겠 다 .	ORG-B O O O O O ORG-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O
+파트타임 전환자 가 생길 때 마다 추가 인력 을 뽑 아야 하지만 네덜란드 와 독일 에서 파트타임 구직자 를 구하 는 일 은 그리 어렵 지 않 다 .	O O O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O
+이어 “ 근처 못골 시장 이 다른 곳 에서 도 견학 을 많이 오 는 성공적 인 전통 시장 으로 변 했 다 .	O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O
+” 면서 “ 지동 도 전국 에서 가장 안전한 곳 으로 만들 면 모범적 인 스탠더드 가 될 수 있 다 .	O O O LOC-B O O O O O O O O O O O O O O O O O O

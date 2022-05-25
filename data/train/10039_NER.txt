@@ -1,14 +1,14 @@
-조민근 경제부문 차 .	PER-B O O O
-이렇게 명문 구단들은 6월 이 시작하+ㄴ 뒤 다음 시즌에 대비하기 위하+여활발하게 움직이고 있다 .	O O O O O O O O O O O O O O
-최고의 시즌을 보내고 있는 손흥민(25·토트넘)이 잉글랜드 프리미어리그(EPL) 우승 트로피까지 들어올리+ㄹ 수 있을까. 맨체스터 유나이티드(맨유)가 17일 32라운드에서 선두첼시를 2-0으로 완파하면서 쉽지 않아 보이었던 토트넘의 우승 가능성이 열리고 있다 .	O O O O ORG-B ORG-B ORG-B O O O O O ORG-B ORG-B O O ORG-B O O O O O ORG-B O O O O O
-숫기 없는 노총각·젊은과부의 설화 영험 하+ㄴ바위로 일대에 소문이 자자 30년 전만 하+여도 무속인들로 장사진 마르지 않는 샘덕분에 농사도 짓고 일부는 잘리+어나가 +아학교 건물자재로 전남 고흥은 바다의 고장이 자산과 바위의 마을이기도 하다 .	O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O
-롯데그룹에 인수되 +ㄴ 렌터카 업체 kt렌탈이 회사명과 렌터카 브랜드명을 ‘롯데렌탈’ 및 ‘롯데렌터카’로 바꾸+ㄴ다고 22일 밝히었다 .	ORG-B O O O O ORG-B O O O ORG-B O ORG-B O O O O
-A매치 106 경기에서 75골을 넣은 크리스티안(센트로올림피코)과 A매치 111 경기에서 +어21골을 기록하+ㄴ로자나(휴스턴)도 경계 대상이다 .	O O O O O ORG-B O O O O ORG-B O O O
-업계에서는 최첨단 애플리케이션 프로세서(AP) ‘엑시노스’와 양쪽 모서리를 디스플레이로 제작하는 ‘양면 엣지’, 무선 충전 기술 등 최첨단 기술이 탑재되 +ㄹ 것으로 기대하고 있다 .	O O O O O O O O O O O O O O O O O O O O O O O
-유족으로는 부인과 3남. 유족은 “장례 절차와 형식은 미국에서 상의 하+여 결정 하+ㄹ 예정”이라고 전하였다 .	O O O O O O O ORG-B O O O O O O O
-위키리별세 소식에 누리꾼들은 “위키리별세, 고인의 명복을 빌 +ㅂ니다 .	PER-B O O PER-B O O O O O
-[분양 캘린더]7월 셋째 주 부동산 시장 주요 일 .	O O O O O O O O O
-순끼 작가의 동명 웹툰을 원자으로 하+ㄴ '치즈인더트랩'은 모든 것이 완벽 하+ㄴ 남자유정(박해진 분)과 평범하지만 예민하+ㄴ그의 대학 후배 홍설(오연서 분), 그리고 백인호(박기웅 분) 등이 대학 캠퍼스에서 벌어지는 일을 그리 +ㄴ 작품.산다라박, 오종혁, 문지윤 등도 출연하+ㄴ다 .	PER-B O O O O O O O O O O PER-B O O O O O PER-B O O PER-B O O O O O O O O PER-B PER-B PER-B O O O
-경기 군포경찰서는 구랍31일 전문위조단들이 신용카드를 대량 위조, 일본에서 3억3천7백여만 원 어치의 구매 전표가 발행되었다는 엘지신용카드 ㈜(대표 이재연)의 고소에 따르 아수사에 나서 +었다 .	ORG-B ORG-I MNY-I O O O O ORG-B MNY-I MNY-I O O O O ORG-B ORG-I PER-B O O O O O O
-31일 문화공간 플리마켓 변신… 이벤트 다양 “스피돔에 오면 예술가도 있고, 핸드메이드 작품도 있고, 인디밴드의 콘서트는 덤으로 주+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-서울시는 생활임금심의위원회의 심의를 거치+어 내년도 생활임금을 이같이 결정하였다고 5일 밝히었다 .	LOC-B O O O O O O O O O O
+조 민 근 경제 부문 차장	PER-B PER-I O O O O
+이렇 게 명문 구단 들 은 6 월 이 시작한 뒤 다음 시즌 에 대비하 기 위해 활발하 게 움직이 고 있 다 .	O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+최고 의 시즌 을 보내 고 있 는 손흥민 ( 25 · 토트넘 ) 이 잉글랜드 프리미어 리그 ( EPL ) 우승 트로피 까지 들 어 올릴 수 있 을까 . 맨체스터 유나이티드 ( 맨유 ) 가 17 일 32 라운드 에서 선두 첼시 를 2 - 0 으로 완파하 면서 쉽 지 않 아 보 였 던 토트넘 의 우승 가능성 이 열리 고 있 다 .	O O O O O O O O PER-B O O O ORG-B O O ORG-B ORG-I ORG-I O ORG-B O O O O O O O O O O O ORG-B ORG-I O ORG-B O O DAT-B DAT-I O O O O ORG-B O O O O O O O O O O O O O O ORG-B O O O O O O O O O
+숫기 없 는 노총각 · 젊 은 과부 의 설화 영험한 바위 로 일대 에 소문 이 자 자 30 년 전 만 해도 무속 인 들 로 장사진 마르 지 않 는 샘 덕분 에 농사 도 짓 고 일부 는 잘려 나가 학교 건물 자재 로 전남 고흥 은 바다 의 고장 이 자 산 과 바위 의 마을 이 기 도 하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O
+롯데 그룹 에 인수된 렌터카 업체 kt 렌탈 이 회사 명 과 렌터카 브랜드 명 을 ‘ 롯데 렌탈 ’ 및 ‘ 롯데 렌터카 ’ 로 바꾼다고 22 일 밝 혔 다 .	ORG-B ORG-I O O O O ORG-B ORG-I O O O O O O O O O ORG-B ORG-I O O O ORG-B ORG-I O O O DAT-B DAT-I O O O O
+A 매치 106 경기 에서 75 골 을 넣 은 크리스티안 ( 센트 로 올림피코 ) 과 A 매치 111 경기 에 서 21 골 을 기록한 로자 나 ( 휴스턴 ) 도 경계 대상 이 다 .	O O O O O O O O O O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O PER-B PER-I O ORG-B O O O O O O O
+업계 에서 는 최첨단 애플리케이션 프로세서 ( AP ) ‘ 엑시 노스 ’ 와 양쪽 모서리 를 디스플레이 로 제작하 는 ‘ 양면 엣지 ’ , 무선 충전 기술 등 최첨단 기술 이 탑재 될 것 으로 기대하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유족 으로 는 부인 과 3 남 . 유족 은 “ 장례 절차 와 형식 은 미국 에서 상의해 결정할 예정 ” 이라고 전 했 다 .	O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O
+위키리 별세 소식 에 누리 꾼 들 은 “ 위키리 별세 , 고인 의 명복 을 빕니다 ”	PER-B O O O O O O O O PER-B O O O O O O O O
+[ 분양 캘린더 ] 7 월 셋째 주 부동산 시장 주요 일정	O O O O DAT-B DAT-I O O O O O O
+순 끼 작가 의 동명 웹 툰 을 원자 으로 한 ' 치즈 인더 트랩 ' 은 모든 것 이 완벽한 남자 유정 ( 박해진 분 ) 과 평범하 지만 예민한 그 의 대학 후배 홍설 ( 오연 서 분 ) , 그리고 백인호 ( 박기웅 분 ) 등 이 대학 캠퍼스 에서 벌어지 는 일 을 그린 작품 . 산 다라 박 , 오종혁 , 문지윤 등 도 출연한다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O PER-B O PER-B PER-I O O O O PER-B O PER-B O O O O O O O O O O O O O O PER-B PER-I PER-I O PER-B O PER-B O O O O
+경기 군포 경찰서 는 구랍 31 일 전문 위조 단 들 이 신용카드 를 대량 위조 , 일본 에서 3 억 3 천 7 백 여 만 원 어치 의 구매 전표 가 발행 됐 다는 엘지 신용카드 ㈜ ( 대표 이재연 ) 의 고소 에 따 라 수사 에 나섰 다 .	ORG-B ORG-I ORG-I O O DAT-B DAT-I O O O O O O O O O O ORG-B O MNY-B MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I MNY-I O O O O O O O O ORG-B ORG-I ORG-I O O PER-B O O O O O O O O O O O
+31 일 문화 공간 플 리 마켓 변신 … 이벤트 다양 “ 스피돔 에 오 면 예술가 도 있 고 , 핸드 메이드 작품 도 있 고 , 인디 밴드 의 콘서트 는 덤 으로 준다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+서울시 는 생활 임금 심의 위원회 의 심의 를 거쳐 내년 도 생활 임금 을 이같이 결정 했 다고 5 일 밝 혔 다 .	LOC-B O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O

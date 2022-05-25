@@ -1,16 +1,16 @@
-정 원내대표는 “우 수석이 기관증인으로 채택되었으니 나오는 것+이 원칙이고 증언을 하+여주는 것이 지금으로서 +ㄴ 맞다고 생각하+ㄴ다”고 말하였다 .	PER-B O PER-B O O O O O O O O O O O O O O O
-내부 심사를 통하+여 후보 10명을 선발하며 이들 10명을 대상으로 카메라 테스트와 SNS 소셜 투표를 진행하+여 최종 3명의 모델을 선정하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O
-최종 선정되+ㄴ 3명에게는 2016년 한 해 동안 ‘훼라민Q’를 대표하는 소비자 모델로 활동하+ㄹ 수 있는 자격을 주+ㄴ다 .	O O O O O O O O O O O O O O O O O
-[스포츠동아 .	ORG-B O
-더욱이 대통령은 지나 +ㄴ 20일 수석비서관회의와 어제 시정연설에서 최씨 의혹에 관하+여 “사과”+이라는 말도, “오해”+이라는 말도, “속았다”는 말도 하지 않았다 .	O O O O O O O O PER-B O O O O O O O O O O O
-박 대통령의 개헌 주장이 설득력을 얻기 위하+여서 +ㄴ 최소한의 전제조건들이 있다 .	PER-B O O O O O O O O O O O
-관련 연구는 세계적 이+ㄴ 학술지 ‘PAIN’에 거재되었다 .	O O O O O O O O
-▽매입임대 〓 가구당 3000만원씩 지원되며 대출한도는 주택신용보증기금의 보증서 범위에서 설정되+ㄴ다 .	O O O MNY-B MNY-I O O O O O O
-한국과 마찬가지로 고위직 공무원이 +ㄹ수록 일이 주는 책임과 스트레스는 많지만 이에 따르+ㄴ보상이 제대로 이루어지지 않아 우수 인력이 들어오지 않거나 일찍 빠져나가 +ㄴ다는 지적이 있었다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-온라인 중앙일보 ‘마이리틀 텔레비전 김구라’ [사진 ‘마이리틀 텔레비전’ 캡처 .	O ORG-B O O PER-B O O O O O
-고시원주인은 “40대 남자가 도통 방안에서 나오지 않고 어쩌다 외출하면 며칠씩 돌아오지 않는다”고 전하였다 .	O O O O O O O O O O O O O O
-PK가 전통적으로 야도+이었다는 점과 호남 출신이 많은 인구구조, 여기에 새누리당 분당으로 보수 양당 체제가 구축되면서 PK의 보수응집력이 약화되+ㄴ점 등이 야풍이 거세게 불고 있는 요인이라는 지적이다 .	LOC-B O O O LOC-B O O O O ORG-B O O O O O LOC-B O O O O O O O O O O
-사이버대 최대 규모의 캠퍼스와 교육 설비는 재학생 만족도가 높다 .	ORG-B ORG-I O O O O O O O O
-익명을 요구하+ㄴ 홍콩 정청 보안기구의 한 고위 관리는 지나 +ㄴ 92년 9월부터 최근까지 홍콩 주변 해역에서 발생하+ㄴ 공격과 해적행위 98건에 대하+여홍콩 정청이 비밀보고서들을 작성하+여 이날 유엔에 넘기었으며 이 중에는 한국과 북한 선박이 중국 해군에 의하+여 공격받고 강제로 나포당 하+ㄴ 사례가 두 건이나 포함되+어 있다고 이날 밝히었다 .	O O ORG-B ORG-I ORG-I O O O O O O O O ORG-B O O O O O O ORG-B ORG-I O O O ORG-B O O O ORG-B ORG-B O ORG-B ORG-I O O O O O O O O O O O O O
-울산은 2경기에서 단 한 골도 넣지 못하+여골에 대하+ㄴ 갈증이 남다르다 .	ORG-B O O O O O O O O O O
-‘dhks****’는 “태극기 이미지 다 훼손하네.삼일절에 태극기 게양하면 극우 친박 응원하는 것 같아 꺼리+어지+ㄹ 지경이다”라고 +였으며, ‘hd 79****’도 “태극기가 극우의 상징이 되+ㄹ까보+아두렵다 .	O O O O O O O O O O O O O O O O O O O O O O
+정 원내 대표 는 “ 우 수석 이 기관 증인 으로 채택 됐 으니 나오 는 게 원칙 이 고 증언 을 해 주 는 것 이 지금 으로선 맞 다고 생각한다 ” 고 말 했 다 .	PER-B O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+내부 심사 를 통해 후보 10 명 을 선발하 며 이 들 10 명 을 대상 으로 카메라 테스트 와 SNS 소셜 투표 를 진행해 최종 3 명 의 모델 을 선정한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+최종 선정된 3 명 에게 는 2016 년 한 해 동안 ‘ 훼 라민 Q ’ 를 대표하 는 소비자 모델 로 활동할 수 있 는 자격 을 준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 스포츠 동아 ]	O ORG-B ORG-I O
+더욱이 대통령 은 지난 20 일 수석 비서관 회의 와 어제 시정연설 에서 최 씨 의혹 에 관해 “ 사과 ” 라는 말 도 , “ 오해 ” 라는 말 도 , “ 속 았 다 ” 는 말 도 하 지 않 았 다 .	O O O O DAT-B DAT-I O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박 대통령 의 개헌 주장 이 설득력 을 얻 기 위해선 최소한 의 전제 조건 들 이 있 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+관련 연구 는 세계적 인 학술지 ‘ PAIN ’ 에 거재 되 었 다 .	O O O O O O O O O O O O O O O
+▽ 매입 임대 〓 가구 당 3000 만 원 씩 지원 되 며 대출 한도 는 주택 신용보증기금 의 보증서 범위 에서 설정된다 .	O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O
+한국 과 마찬가지 로 고위 직 공무원 일수록 일 이 주 는 책임 과 스트레스 는 많 지만 이 에 따른 보상 이 제대로 이뤄지 지 않 아 우수 인력 이 들어오 지 않 거나 일찍 빠져나간다는 지적 이 있 었 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+온라인 중앙일보 ‘ 마이 리틀 텔레비전 김구라 ’ [ 사진 ‘ 마이 리틀 텔레비전 ’ 캡처 ]	O ORG-B O O O O PER-B O O O O O O O O O O
+고시 원 주인 은 “ 40 대 남자 가 도통 방 안 에서 나오 지 않 고 어쩌다 외출하 면 며칠 씩 돌아오 지 않 는다 ” 고 전 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+PK 가 전통적 으로 야 도 였 다는 점 과 호남 출신 이 많 은 인구 구조 , 여기 에 새누리당 분당 으로 보수 양당 체제 가 구축되 면서 PK 의 보수 응집력 이 약화된 점 등 이 야풍 이 거세 게 불 고 있 는 요인 이 라는 지적 이 다 .	LOC-B O O O O O O O O O LOC-B O O O O O O O O O ORG-B O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O
+사이버 대 최대 규모 의 캠퍼스 와 교육 설비 는 재학생 만족도 가 높 다 .	ORG-B ORG-I O O O O O O O O O O O O O O
+익명 을 요구한 홍콩 정청 보안 기구 의 한 고위 관리 는 지난 92 년 9 월 부터 최근 까지 홍콩 주변 해역 에서 발생한 공격 과 해적 행위 98 건 에 대해 홍콩 정청 이 비밀 보고서 들 을 작성해 이날 유엔 에 넘 겼 으며 이 중 에 는 한국 과 북한 선박 이 중국 해군 에 의해 공격 받 고 강제 로 나포당한 사례 가 두건 이나 포함돼 있 다고 이날 밝 혔 다 .	O O O ORG-B ORG-I ORG-I ORG-I O O O O O O DAT-B DAT-I DAT-I DAT-I O O O LOC-B O O O O O O O O O O O O ORG-B ORG-I O O O O O O O ORG-B O O O O O O O O ORG-B O ORG-B O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+울산 은 2 경기 에서 단 한 골 도 넣 지 못해 골 에 대한 갈증 이 남다르 다 .	ORG-B O O O O O O O O O O O O O O O O O O O
+‘ dhks * * * * ’ 는 “ 태극기 이미지 다 훼손하 네 . 삼일절 에 태극기 게양하 면 극우 친 박 응원하 는 거 같 아 꺼려 질 지경 이 다 ” 라고 했 으며 , ‘ hd 79 * * * * ’ 도 “ 태극기 가 극우 의 상징 이 될까 봐 두렵 다 .	O O O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,15 +1,15 @@
-법인카드 고객은 한식과 치킨 업종에서 파주 LCD 산업단지나 평택진위산업단지 인근 등 산업단지가 매출이 가장 많은 것으로 조사되었다 .	O O O O O LOC-B LOC-I LOC-I LOC-B O O O O O O O O O
-[오늘의 채널A] 안영미, 반려견과 좌충우 .	O O PER-B O O O
-산학협력을 맺고 있는 600여개 기업과 가족회사를 꾸리+어그들의 애로사항을 해결하+여주고 취업으로 연결시키고 있다 .	O O O O O O O O O O O O O
-래퍼비와이의 외모가 화제+이다 .	PER-B O O O
-대북제재 맞은 북한 무역기관들 남한업자에 손뻗치+ .	O O ORG-B O ORG-B O O
-한편 왕지혜는 6일 방송되+ㄴ SBS '정글의 법칙-보물섬in사모아'(이하 '정글의 법칙')에서 색다르+ㄴ 모습을 드러내+었다 .	O PER-B O O O O O O O O O O O
-왕지혜는 최근 떠나 +ㄴ 정글에서 생존을 시작하고 첫 미션을 수행하던 중 “정글의 법칙, 진짜 너무 하+여!”라고 외치며 시작부터 혹독 하+ㄴ 미션에 귀엽ㄴ 분노를 표출하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-그러나 왕지혜는 작품 속도도 하+ㄴ 모습과 달리 정글에서는 털털하+ㄴ 매력을 뽐내+어반전 이미지를 +었다 .	O PER-B O O O O O O O O O O O O
-이에 대하+여강균성은 "왕지혜는 적극적이고 적응도 잘 하+ㄴ다"고 칭찬하였다 .	O PER-B PER-B O O O O O O
-부분적이+ㄴ 자율주행이 가능하+ㄴ ‘제네시스 스마트센스’도 EQ900에잇어 두 번째로 적용되었다 .	O O O O O O O O O O
-헌법재판소의 기각 결정을 기대하+ㄴ다 .	ORG-B O O O O
-그러나 잠시 후 화면이 바뀌면서 침공을 준비 중 이+ㄴ미전함들의 모습이 방영되 +ㄴ다 .	O O O O O O O O ORG-B O O O O
-이 같은 선제적 투자로 인하+여 2005년 이후 1000억원대 매출액에서 몇 년간 제자리걸음을 하던 호전실업은 2009년 매출액 2000억원을 돌파하며 본격적 이+ㄴ 성장기에 들어서게 +었다 .	O O O O O O O MNY-B O O O O O ORG-B O O MNY-B O O O O O O O
-이어 리커창(李克强) 총리와 함께 청나라 황실 여름 궁전이었던 이 허위안(이和園)에서 산책을 하고 만찬도 함께 하였다 .	O PER-B O O ORG-B O O O O O O O O O O O
-남상미 임신 14주차, 결혼식 사진 보니 '단아 하+ㅁ의 끝'… 남편은 누구 .	PER-B O O O O O O O O O O O
+법인 카드 고객 은 한식 과 치킨 업종 에서 파주 LCD 산업 단지 나 평택 진위 산업 단지 인근 등 산업 단지 가 매출 이 가장 많 은 것 으로 조사 됐 다 .	O O O O O O O O O LOC-B LOC-I LOC-I LOC-I O LOC-B LOC-I LOC-I LOC-I O O O O O O O O O O O O O O O O
+[ 오늘 의 채널 A ] 안영미 , 반려 견 과 좌충우돌	O O O O O O PER-B O O O O O
+산학 협력 을 맺 고 있 는 600 여 개 기업 과 가족 회사 를 꾸려 그 들 의 애로 사항 을 해결해 주 고 취업 으로 연결 시키 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+래퍼 비 와이 의 외모 가 화제 다 .	O PER-B PER-I O O O O O O
+대북 제재 맞 은 북한 무역 기관 들 남한 업자 에 손 뻗쳐	O O O O ORG-B O O O ORG-B O O O O
+한편 왕지혜 는 6 일 방송된 SBS ' 정글 의 법칙 - 보물섬 in 사모아 ' ( 이하 ' 정글 의 법칙 ' ) 에서 색다른 모습 을 드러냈 다 .	O PER-B O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+왕지혜 는 최근 떠난 정글 에서 생존 을 시작하 고 첫 미션 을 수행하 던 중 “ 정글 의 법칙 , 진짜 너무해 ! ” 라고 외치 며 시작 부터 혹독한 미션 에 귀여 운 분노 를 표출 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러나 왕 지혜 는 작품 속 도도한 모습 과 달리 정글 에서 는 털털한 매력 을 뽐내 반전 이미지 를 줬 다 .	O PER-B PER-I O O O O O O O O O O O O O O O O O O O O
+이 에 대해 강균성 은 " 왕지혜 는 적극적 이 고 적응 도 잘한다 " 고 칭찬 했 다 .	O O O PER-B O O PER-B O O O O O O O O O O O O O
+부분적 인 자율 주행 이 가능한 ‘ 제네시스 스마트 센스 ’ 도 EQ 900 에 이 어 두 번째 로 적용 됐 다 .	O O O O O O O O O O O O O O O O O O O O O O O O
+헌법 재판소 의 기각 결정 을 기대한다 .	ORG-B ORG-I O O O O O O
+그러나 잠시 후 화면 이 바뀌 면서 침공 을 준비 중 인 미 전함 들 의 모습 이 방영된다 .	O O O O O O O O O O O O ORG-B O O O O O O O
+이 같 은 선제 적 투자 로 인해 2005 년 이후 1000 억 원 대 매출액 에서 몇 년 간 제자리걸음 을 하 던 호전 실업 은 2009 년 매출액 2000 억 원 을 돌파하 며 본격적 인 성장기 에 들어서 게 됐 다 .	O O O O O O O O DAT-B DAT-I O MNY-B MNY-I MNY-I O O O O O O O O O O ORG-B ORG-I O DAT-B DAT-I O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+이어 리커창 ( 李克强 ) 총리 와 함께 청나라 황실 여름 궁전 이 었 던 이허위안 ( 이 和園 ) 에서 산책 을 하 고 만찬 도 함께 했 다 .	O PER-B O PER-B O O O O ORG-B O O O O O O LOC-B O O O O O O O O O O O O O O O
+남상미 임신 14 주 차 , 결혼식 사진 보 니 ' 단아함 의 끝 ' … 남편 은 누구 ?	PER-B O O O O O O O O O O O O O O O O O O O

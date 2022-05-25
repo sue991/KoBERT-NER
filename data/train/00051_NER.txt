@@ -1,15 +1,15 @@
-‘등판 시 전승’ 대체 불가배+ㄴ 헤켄의 진짜 가 .	O O O O PER-B PER-I O O O
-강이+ㄴ 예비군 훈련 불참, 지나+ㄴ 2년간 72시간 예비군 훈련 …한 차례도 참석 안 해 그룹 슈퍼주니어 멤버 강인이 예비군 훈련을 불참하+ㄴ 혐의로 경찰 조사를 받은 것으로 알려지었다 .	PER-B O O O O O O O O O O O O O O ORG-B O PER-B O O O O O O O O O O
-더민주당과 정세균 국회의장은 (김재수) 농림축산식품부 장관의 해임건의안을 날치기 처리 하+여 국회를 뒤흔들는 만행을 자행하였다 .	ORG-B PER-B O PER-B ORG-B O O O O O O O O O O
-”(2016년 9월 24일·새누리당 성명) 25일 국회를 강타 하+ㄴ ‘해임건의 안 정국’의 양상은 2003년과판박이로 흘러가고 있다 .	O O ORG-B O O ORG-B O O O O O O O O O O
-한국 작가회의를 비롯하+ㄴ 5대 문학단체가 ‘문화계 블랙리스트’와 관련 하+여문학과 예술을 지원하는 공공기관 기관장들의 사퇴를 촉구하는 성명서를 21일 내 +었다 .	O O O O O O O O O O O O O O O O O O O O
-서울대 미대 수시전형의 경우, 9월 28일과 9월 30일 통합실기평가가 모집단위별로 시행되+ㄴ다 .	ORG-B O O O O O O O O O O O
-반면 기아차 중국 판매는 전달보다 13% 감소하였다 .	O ORG-B LOC-B O O O O O
-'알는 형님'에 출연하+ㄴ신소율이 강호동과 불꽃 튀는 눈싸움을 벌이어 폭소를 유발하였다 .	O O PER-B PER-B O O O O O O O
-사연 : 안녕하세요. 저는 어제 콘서트를 마지막으로 헤어지는 아이오아이 멤버 중 한 명의 아빠 이+ㅂ니다 .	O O O O O O O O ORG-B O O O O O O O
-11명 우리 딸들이 헤어지+ㄹ 것+ㄹ 알고 있었음에도 막상 그 시간이 닥치니 무척이나 힘들어 하네요. 슬픔은 잠깐이고 앞으로 오래도록 만나 +ㄹ 기쁨을 생각하라고 전 하+여주고 싶습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-그러면서 유모캣과 집 사패리스가 가짜 엘리자베스를 내세우었다고 덧붙이었다 .	O PER-B O PER-B O PER-B O O O
-또한 초고령자, 질환자 등 건강 관련 특별 취약자 78명을 선정하+여 방문간호사들과 순찰조가 매일 1회 이상 안부를 확인하고 건강상태를 체크 하+ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O
-'응답하라 1998' 후속으로는 이동욱, 정려원 주연의 '풍선껌' 방송이 확정되었다 .	O O O PER-B PER-B O O O O O
-“오히려 혼란야기 우려” 김덕용 의원 쐐기 박 .	O O O PER-B O O O O
-변동금리 대출 위주의 가계부채 구조를 고정금리로 바꾸기 위하+여정부가 설계하+ㄴ이 전환대출 상품은 금리가 연 2.6% 수준으로 시중금리보다 1%포인트 가까이 낮은데 .	O O O O O O O O O O O O O O O O O O O O
+‘ 등판 시 전승 ’ 대체 불가 밴 헤 켄 의 진짜 가치	O O O O O O O PER-B PER-I PER-I O O O
+강 인 예비군 훈련 불참 , 지난 2 년 간 72 시간 예비군 훈련 … 한 차례 도 참석 안 해 그룹 슈퍼 주니어 멤버 강인이 예비군 훈련 을 불참한 혐의 로 경찰 조사 를 받 은 것 으로 알려 졌 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+더 민주당 과 정세균 국회의장 은 ( 김재수 ) 농림 축산식품 부 장관 의 해임 건의안 을 날치기 처리해 국회 를 뒤흔드 는 만행 을 자행 했 다 .	ORG-B ORG-I O PER-B O O O PER-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O
+” ( 2016 년 9 월 24 일 · 새누리당 성명 ) 25 일 국회 를 강타한 ‘ 해임 건의안 정국 ’ 의 양상 은 2003 년 과 판박이 로 흘러가 고 있 다 .	O O DAT-B DAT-I DAT-I DAT-I DAT-I DAT-I O ORG-B O O DAT-B DAT-I ORG-B O O O O O O O O O O DAT-B DAT-I O O O O O O O O
+한국 작가 회의 를 비롯한 5 대 문학 단체 가 ‘ 문화계 블랙리스트 ’ 와 관련해 문학 과 예술 을 지원하 는 공공 기관 기관장 들 의 사퇴 를 촉구하 는 성명서 를 21 일 냈 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O
+서울대 미대 수시 전형 의 경우 , 9 월 28 일 과 9 월 30 일 통합 실기 평가 가 모집 단위 별 로 시행된다 .	ORG-B O O O O O O DAT-B DAT-I DAT-I DAT-I O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O
+반면 기아차 중국 판매 는 전달 보다 13 % 감소 했 다 .	O ORG-B LOC-B O O O O O O O O O O
+' 아 는 형님 ' 에 출연한 신소 율 이 강호동 과 불꽃 튀 는 눈싸움 을 벌 여 폭소 를 유발 했 다 .	O O O O O O O PER-B PER-I O PER-B O O O O O O O O O O O O O O
+사연 : 안녕하 세요 . 저 는 어제 콘서트 를 마지막 으로 헤어지 는 아이오아 이 멤버 중 한 명 의 아빠 입니다 .	O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O
+11 명 우리 딸 들 이 헤어질 걸 알 고 있 었 음 에 도 막상 그 시간 이 닥치 니 무척 이나 힘들 어 하 네요 . 슬픔 은 잠깐 이 고 앞 으로 오래도록 만날 기쁨 을 생각하 라고 전해 주 고 싶 습니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그러 면서 유모 캣 과 집사 패리스 가 가짜 엘리자베스 를 내세 웠 다고 덧붙 였 다 .	O O O PER-B O O PER-B O O PER-B O O O O O O O O
+또한 초 고령 자 , 질환 자 등 건강 관련 특별 취약 자 78 명 을 선정해 방문 간호사 들 과 순찰조 가 매일 1 회 이상 안부 를 확인하 고 건강 상태 를 체크한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+' 응답하 라 1998 ' 후속 으로 는 이동욱 , 정려원 주연 의 ' 풍선껌 ' 방송 이 확정 됐 다 .	O O O O O O O O PER-B O PER-B O O O O O O O O O O O
+“ 오히려 혼란 야기 우려 ” 김덕용 의원 쐐기 박 아	O O O O O O PER-B O O O O
+변동 금리 대출 위주 의 가계 부채 구조 를 고정 금리 로 바꾸 기 위해 정부 가 설계한 이 전환 대출 상품 은 금리 가 연 2.6 % 수준 으로 시중 금리 보다 1 % 포인트 가까이 낮 은 데 다	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

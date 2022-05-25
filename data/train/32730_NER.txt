@@ -1,11 +1,11 @@
-당일만 하+여도 블링켄베르 변호사는 로이터통신과 인터뷰를 가지며 “송환 문제를 법원으로 가져가 +아싸우겠다”고 밝히었으나 이후 돌연 숨지+ㄴ 것이다 .	O O PER-B O ORG-B O O O O O O O O O O O O O
-블링켄베르 변호사는 얀슈나이더 변호사 이후 정씨가 덴마크에서 두 번째로 채용 하+ㄴ 변호인이다 .	PER-B O PER-B O O PER-B ORG-B O O O O O O
-블링켄베르 변호사의 형제이+ㄴ 크리스티안은 “고인의 생전 가장 크+ㄴ아쉬움은 자식들이 어리+ㄴ 데도 너무 많은 일을 +였다는 것이었다”고 말하였다 .	PER-B O O PER-B O O O O O O O O O O O O O O
-네티즌들은 그를 아이돌 그룹 틴탑의 천지+이라 추측하+여눈길을 모으았다 .	O O O O ORG-B PER-B O O O
-이와 함께 스토리가 있는 4개의 마당 및 힐링 체험을 위하 +ㄴ 6개의 정원 등 다채롭 ㄴ 단지나 +의 테마공원도 조성되 +ㄹ 예정이다 .	O O O O O O O O O O O O O O O O O O O O O O O
-‘포항 리버카운티’가 위치하+ㄴ 원동지구는 남쪽의 문덕지구와 함께 형산강이 남 지역을 대표하는 신도시급 주거지역으로 떠오르고 있다 .	LOC-B LOC-I O LOC-B O LOC-B O LOC-B O O O O O O O O
-“朴 대통령 경제사절단”… 거짓말로 주가조작 혐의 벤처 회장 재판 .	PER-B O O O O O O O O O
-국제 원자력기구(IAEA)가 이를 철저히 검증 하+ㄴ 뒤 미국과 유럽연합(EU)은 제재를 풀게 되+ㄴ다 .	ORG-B ORG-B O O O O O ORG-B ORG-B O O O O
-8일 JYP엔터테인먼트(이하 JYP)는 신인 걸그룹 프로젝트 엠넷 ‘식스틴’의 멤버 선발 결과와 관련 하+여 멤버 선정 기준을 밝히었다 .	O ORG-B ORG-B O O O ORG-B ORG-B O O O O O O O O O O
-전체 염색체 중 13군데를 비교하니 틀리+ㄹ 확률이 10억분의 1이다 .	O O O O O O O O O O
-청라국제도시계획인구수가 9만여명이 +ㄴ 것으로 보며 약 90%가 입주를 완료하+ㄴ셈이다 .	PER-B O O O O O O O O O
+당일 만 해도 블 링 켄 베르 변호사 는 로이터통신 과 인터뷰 를 가지 며 “ 송환 문제 를 법원 으로 가져가 싸우 겠 다 ” 고 밝 혔 으나 이후 돌연 숨진 것 이 다 .	O O O PER-B PER-I PER-I PER-I O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+블 링 켄 베르 변호사 는 얀 슈나이더 변호사 이후 정 씨 가 덴마크 에서 두 번째 로 채용한 변호인 이 다 .	PER-B PER-I PER-I PER-I O O PER-B PER-I O O PER-B O O ORG-B O O O O O O O O O
+블 링 켄 베르 변호사 의 형제 인 크리스티안 은 “ 고인 의 생전 가장 큰 아쉬움 은 자식 들 이 어린데 도 너무 많 은 일 을 했 다는 것 이 었 다 ” 고 말 했 다 .	PER-B PER-I PER-I PER-I O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+네티즌 들 은 그 를 아이돌 그룹 틴탑 의 천지 라 추측해 눈길 을 모 았 다 .	O O O O O O O ORG-B O PER-B O O O O O O O O
+이 와 함께 스토리 가 있 는 4 개 의 마당 및 힐링 체험 을 위한 6 개 의 정원 등 다채로 운 단지 내 테마 공원 도 조성될 예정 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+‘ 포항 리버 카운티 ’ 가 위치한 원동 지구 는 남쪽 의 문덕 지구 와 함께 형산강 이남 지역 을 대표하 는 신도시 급 주거 지역 으로 떠오르 고 있 다 .	O LOC-B LOC-I LOC-I O O O LOC-B LOC-I O O O LOC-B LOC-I O O LOC-B LOC-I O O O O O O O O O O O O O O
+“ 朴 대통령 경제 사절단 ” … 거짓말 로 주가 조작 혐의 벤처 회장 재판 에	O PER-B O O O O O O O O O O O O O O
+국제 원자력 기구 ( IAEA ) 가 이 를 철저히 검증한 뒤 미국 과 유럽 연합 ( EU ) 은 제재 를 풀 게 된다 .	ORG-B ORG-I ORG-I O ORG-B O O O O O O O ORG-B O ORG-B ORG-I O ORG-B O O O O O O O O
+8 일 JYP 엔터테인먼트 ( 이하 JYP ) 는 신인 걸그룹 프로젝트 엠넷 ‘ 식스틴 ’ 의 멤버 선발 결과 와 관련해 멤버 선정 기준 을 밝 혔 다 .	DAT-B DAT-I ORG-B ORG-I O O ORG-B O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O
+전체 염색체 중 13 군데 를 비교하 니 틀릴 확률 이 10 억 분 의 1 이 다 .	O O O O O O O O O O O O O O O O O O O
+청라 국제도시 계획 인구수 가 9 만 여명 인 것 으로 보 며 약 90 % 가 입주 를 완료한 셈 이 다 .	PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O

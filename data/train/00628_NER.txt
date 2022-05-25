@@ -1,15 +1,15 @@
-또 전도연, 유지태, 윤계상, 김태우와 tvN ‘굿 와이프’ 촬영에 한창이다 .	O PER-B PER-B PER-B PER-B ORG-B O O O O O
-공단별 해제면적은 아산공단 6만1천평, 구미공단 9천평, 포항공단 4만평, 옥포공단 21만평 등으로 주로 녹지지역이다 .	LOC-I O O LOC-B LOC-B LOC-I LOC-B LOC-I LOC-B LOC-I O O O O
-검찰 측은 “독일 자동차세는 차량 연료 소비량에 따르 아 책정되기 때문에, 이산화탄소 배출 조작과 관련되 +ㄴ 차량의 소유주들이 부담하는 세금이 줄었을 수도 있다”고 설명하였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O O O O O
-콘 위원장은 “트럼프 대통령이 직접 (세금 개혁) 틀을 잡았다”고 밝히었다 .	PER-B O PER-B O O O O O O O O
-이런 특성 때문에 트럼프 대선 공약의 핵심이었던 ‘워싱턴 정치혁신’의 적임자+이라는 평가가 나오기도 하+ㄴ다 .	O O O PER-B O O O ORG-B O O O O O O
-또 좌완투수를 상대로 타율 0.153의 극심 하+ㄴ 약점을 보이고 있어 8번 타자로 나서는 굴욕도 맛보았다 .	O O O O O O O O O O O O O O O O
-한 번의 특별 하+ㄴ만남을 위하+ 여직원들과 분주하+ㄴ 안 사장의 포부를 묻자 답은 명료하였다 .	O O O O O O O PER-B O O O O O O
-하지만 정씨는 “(문체부로부터) 인터뷰 요청이 오거나 사람들이 묻어오면 제가 제안하+ㄴ 것으로 얘기 하+여야 하+ㄴ다면서 그렇게 말하기를 부탁받았다”고 밝히었다 .	O PER-B ORG-B O O O O O O O O O O O O O O O O
-○… 영화제 기간 중 매일 특집판을 내고 있는 「스크린 」지가 9명의 영화 저널리스트들에게 의뢰하+여매기+ㄴ 중간평가에 따르면 개막 작품으로 선보이+ㄴ조엘 코헨 감독의 「허드 서커의 대리인 」이 27개의 종려 마크를 받아 선두에서 +었고, 잇어 캐나다 아톰에 고얀 감독의 「엑 죠티카」와 「파커 부인과 악순환」 등이 두각을 나타내고 있다 .	O O O O O O O O ORG-B O O O O O O O O O PER-B PER-I O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O
-박형우 인천 계양구청장(57·사진)은 재선에 성공하+ㄴ이후 줄곧 ‘정명 800주년 기념사업’의 밑그림을 그리 +어+았다 .	PER-B LOC-B O O O O O O O O O O O
-상당수 학교장은 “시교육청과 시의회의 지시와 요구 때문에 어쩌+ㄹ 수 없이 친일인명사전을 사+았어도 도서관에 비치하지는 않을 것”이라고 언급하+여+오았다 .	O O O O O O O O O O O O O O O O O O
-이에 최 무각은 다음 희생자에게 남겨 지+ㄹ바코드를 '9788986755060'이라고 예언하였다 .	O O O O O O O O O O
-신민영 LG경제연구원 경제연구부문장은 “한은이 금리를 따르 아올리기에는 1300조원이 넘는 가계부채가 부담스럽고, 금리를 내리기에는 미국 기준금리를 고려하지 않을 수 없다”고 말하였다 .	PER-B MNY-I ORG-I ORG-B O O O MNY-B O O O O O ORG-B O O O O O O O
-이건혁 gun@d onga. com·강유현기 .	PER-B O O PER-B O
-현대백화점 등 다양하+ㄴ 상업시설도 이미 운영 중이다 .	ORG-B O O O O O O O
+또 전도연 , 유지태 , 윤계상 , 김태우 와 tvN ‘ 굿 와이프 ’ 촬영 에 한창 이 다 .	O PER-B O PER-B O PER-B O PER-B O ORG-B O O O O O O O O O O
+공단 별 해제 면적 은 아산 공단 6 만 1 천 평 , 구미 공단 9 천 평 , 포항 공단 4 만 평 , 옥포 공단 21 만 평 등 으로 주로 녹지 지역 이 다 .	O O O O O ORG-B ORG-I LOC-B LOC-I LOC-I LOC-I LOC-I O LOC-B LOC-I O O O O LOC-B LOC-I O O O O LOC-B LOC-I O O O O O O O O O O O
+검찰 측 은 “ 독일 자동차세 는 차량 연료 소비량 에 따 라 책정되 기 때문 에 , 이산화탄소 배출 조작 과 관련된 차량 의 소유주 들 이 부담하 는 세금 이 줄 었 을 수 도 있 다 ” 고 설명 했 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+콘 위원장 은 “ 트럼프 대통령 이 직접 ( 세금 개혁 ) 틀 을 잡 았 다 ” 고 밝 혔 다 .	PER-B O O O PER-B O O O O O O O O O O O O O O O O O O
+이런 특성 때문 에 트럼프 대선 공약 의 핵심 이 었 던 ‘ 워싱턴 정치 혁신 ’ 의 적임자 라는 평가 가 나오 기 도 한다 .	O O O O PER-B O O O O O O O O ORG-B O O O O O O O O O O O O O
+또 좌완 투수 를 상대 로 타율 0.153 의 극심한 약점 을 보이 고 있 어 8 번 타자 로 나서 는 굴욕 도 맛 봤 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+한 번 의 특별한 만남 을 위해 직원 들 과 분주한 안 사장 의 포부 를 묻 자 답 은 명료 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O
+하지만 정 씨 는 “ ( 문체부 로부터 ) 인터뷰 요청 이 오 거나 사람 들 이 물 어 오 면 제 가 제안한 것 으로 얘기해야 한다면서 그렇 게 말하 기 를 부탁 받 았 다 ” 고 밝 혔 다 .	O PER-B O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+○ … 영화제 기간 중 매일 특집 판 을 내 고 있 는 「 스크린 」 지 가 9 명 의 영화 저널리스트 들 에게 의뢰해 매긴 중간 평가 에 따르 면 개막 작품 으로 선보인 조엘 코헨 감독 의 「 허드서커 의 대리인 」 이 27 개 의 종려 마크 를 받 아 선두 에 섰 고 , 이 어 캐나다 아톰 에고얀 감독 의 「 엑죠티카 」 와 「 파커 부인 과 악순환 」 등 이 두각 을 나타내 고 있 다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O ORG-B PER-B PER-I O O O O O O O O O O O O O O O O O O O O O
+박형우 인천 계양구청 장 ( 57 · 사진 ) 은 재선 에 성공한 이후 줄곧 ‘ 정명 800 주년 기념 사업 ’ 의 밑그림 을 그려 왔 다 .	PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+상당수 학교장 은 “ 시 교육청 과 시 의회 의 지시 와 요구 때문 에 어쩔 수 없이 친일 인명사전 을 샀 어 도 도서관 에 비치하 지 는 않 을 것 ” 이라고 언급해 왔 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 최무각 은 다음 희생자 에게 남겨질 바코드 를 ' 9788986755060 ' 이라고 예언 했 다 .	O O PER-B O O O O O O O O O O O O O O O
+신민영 LG 경제 연구원 경제 연구 부문장 은 “ 한은 이 금리 를 따 라 올리 기 에 는 1300 조 원 이 넘 는 가계 부채 가 부담스럽 고 , 금리 를 내리 기 에 는 미국 기준 금리 를 고려하 지 않 을 수 없 다 ” 고 말 했 다 .	PER-B ORG-B ORG-I ORG-I O O O O O ORG-B O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+이건혁 gun @ donga . com · 강유현 기자	PER-B O O O O O O PER-B O
+현대백화점 등 다양한 상업 시설 도 이미 운영 중 이 다 .	ORG-B O O O O O O O O O O O

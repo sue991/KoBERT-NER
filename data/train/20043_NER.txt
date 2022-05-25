@@ -1,16 +1,16 @@
-이완구 인사청문회 이완구 국무총리 후보자 인사청문회의 최대 뇌관으로 떠오르+ㄴ ‘녹음파일’의 무대는 지난달 말 일간지기자 4명과 서울 종로구 통의동 금융감독원 연수원 근처에서 하+ㄴ ‘번개 오찬’이다 .	PER-B O PER-B O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O
-가격은 1인 7만5000원으로 세금과 봉사료 포함이다 .	O O MNY-B O O O O
-지나+ㄴ 6일 김원효는 자신의 인스타그램에 4명의 여성과 함께 찍은 사진을 올리며 “연예인이라는 직업가끔 이렇+ㄹ 때 +ㄴ 회의감이 들+ㄴ다”고 적었다 .	O O PER-B O O O O O O O O O O O O O O O O O
-청년실업률(지난달 기준 9.2%)이 두자릿수에 육박하고, 비정규직이 600만명을 넘어서 +ㄴ 상황에서 사실상 ‘현대판 음서제’ 아니냐는 지적이 나 오+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-이제 거문고 음악을 듣으며 ‘논어’를 읽어보자. 거문고 음악은 마음을 정갈하게 하+여주고 ‘논어’는 내가 세상에서 소중하+ㄴ사람이라는 것을 일깨우어주+ㄴ다 .	O O O O O O O O O O O O O O O O O O
-전인평 중앙대 예술대 명예교 .	PER-B ORG-B ORG-I O O
-조양천 근처에 올해 66세의 어머니가 살고 있다 .	LOC-B O O O O O O O
-2013년 조사에서 +ㄴ 학벌이 1위 +이었다 .	O O O O O O O
-‘성공하는데 외모가 경쟁력이 되+ㄹ 수 있는가’ +이란 질문에는 10명 중 9명이 “그렇다”고 답하였다 .	O O O O O O O O O O O O O O
-그래서 5일 SK와 평가전은 롯데에 단비와 같은 기회+이었다 .	O O ORG-B O ORG-B O O O O
-이날도 신문 1면에는 ‘주체의 태양을 우러르는 만민의 영원하+ㄴ칭송, 인류지성의 최고 정화’, ‘만민칭송의 명화, 영원불멸하+ㄴ 태양의 꽃축전’ 등의 기사만 실리었다 .	O O O O O O O O O O O O O O O O O O O O
-(서울=뉴스1 .	LOC-B O
-총 투구 수는 116개. 바통을 이어받은 ‘필승불펜’ 안지만 과 임창용이 1.2 이닝을 무실점으로 틀어막고 차우찬의 승리를 지키었다 .	O O O O O O O PER-B O PER-B O O O O O O O O
-조시 어니스트 대변인 명의의 성명에서 “버락 오바마 대통령은 다음달 16일 박 대통령의 백악관 방문을 환영하+ㄴ다”며 “박 대통령의 방미는 강건하면서 폭넓은 한·미 동반자 관계를 강조하고 양국 국민의 긴밀 하+ㄴ 개인적 유대를 보이어 주+ㄹ 것”이라고 밝히었다 .	PER-B PER-I O O O PER-B PER-I O O O PER-B O LOC-B O O PER-B O ORG-B O O ORG-B O O O O O O O O O O O O O O
-2000년대 중반에는 외고 등의 약진, 서울 강남 학생들의 해외 명문대 입학 선호가 두드러지면서 미명문 프린스턴대에 합격 하+ㄴ 김현근씨의 ‘가난하다고 꿈조차 가난하+ㄹ 수 없다’(2006년), 하버드대를 비롯하+여 10개 명문대에 동시 합격 하+ㄴ 박원희 씨의 ‘공부9단 오기 10단’(2004년) 등이 인기를 끌었다 .	O O O O O LOC-B LOC-B O O O O O O O ORG-B O O PER-B O O O O O ORG-B O O O O O O PER-B O O O O O O O O
-서태지 근황, 딸 ‘담이’ 사진 공개… “담이와 길+ㄴ 여행하면서 많은 일들 겪어 .	PER-B O O PER-B O O PER-B O O O O O O
+이완구 인사 청문회 이완구 국무총리 후보자 인사 청문회 의 최대 뇌관 으로 떠오른 ‘ 녹음 파일 ’ 의 무대 는 지난달 말 일간지 기자 4 명 과 서울 종로구 통의동 금융감독원 연수원 근처 에서 한 ‘ 번개 오찬 ’ 이 다 .	PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-B LOC-B LOC-B LOC-I O O O O O O O O O O
+가격 은 1 인 7 만 5000 원 으로 세금 과 봉사료 포함 이 다 .	O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O
+지난 6 일 김원효 는 자신 의 인스타그램 에 4 명 의 여성 과 함께 찍 은 사진 을 올리 며 “ 연예인 이 라는 직업 가끔 이럴 땐 회의감 이 든다 ” 고 적 었 다 .	O DAT-B DAT-I PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+청년 실업률 ( 지난달 기준 9.2 % ) 이 두 자릿수 에 육박하 고 , 비정규 직 이 600 만 명 을 넘어선 상황 에서 사실상 ‘ 현대판 음서 제 ’ 아니 냐는 지적 이 나온다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이제 거문고 음악 을 들 으며 ‘ 논어 ’ 를 읽 어 보 자 . 거문고 음악 은 마음 을 정갈하 게 해 주 고 ‘ 논어 ’ 는 내 가 세상 에서 소중한 사람 이 라는 것 을 일깨 워 준다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+전인평 중앙대 예술 대 명예 교수	PER-B ORG-B ORG-I ORG-I O O
+조양천 근처 에 올해 66 세 의 어머니 가 살 고 있 다 .	LOC-B O O O O O O O O O O O O O
+2013 년 조사 에선 학벌 이 1 위 였 다 .	DAT-B DAT-I O O O O O O O O O
+‘ 성공하 는 데 외모 가 경쟁력 이 될 수 있 는가 ’ 란 질문 에 는 10 명 중 9 명 이 “ 그렇 다 ” 고 답 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+그래서 5 일 SK 와 평가전 은 롯데 에 단비 와 같 은 기회 였 다 .	O DAT-B DAT-I ORG-B O O O ORG-B O O O O O O O O O
+이날 도 신문 1 면 에 는 ‘ 주체 의 태양 을 우러르 는 만민 의 영원한 칭송 , 인류 지성 의 최고 정화 ’ , ‘ 만민 칭송 의 명화 , 영원불멸한 태양 의 꽃 축전 ’ 등 의 기사 만 실 렸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+( 서울 = 뉴스 1 )	O LOC-B O O O O
+총 투구 수 는 116 개 . 바통 을 이어받 은 ‘ 필승 불펜 ’ 안지만 과 임창용 이 1.2 이닝 을 무실점 으로 틀어막 고 차우찬 의 승리 를 지 켰 다 .	O O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O
+조시 어니스트 대변인 명의 의 성명 에서 “ 버락 오바마 대통령 은 다음 달 16 일 박 대통령 의 백악관 방문 을 환영한다 ” 며 “ 박 대통령 의 방 미 는 강건하 면서 폭넓 은 한 · 미 동반자 관계 를 강조하 고 양국 국민 의 긴밀한 개인적 유대 를 보 여 줄 것 ” 이라고 밝 혔 다 .	PER-B PER-I O O O O O O PER-B PER-I O O O O DAT-B DAT-I PER-B O O LOC-B O O O O O O PER-B O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O
+2000 년대 중반 에 는 외 고 등 의 약진 , 서울 강남 학생 들 의 해외 명문 대 입학 선호 가 두드러지 면서 미 명문 프린스턴대 에 합격한 김현근 씨 의 ‘ 가난하 다고 꿈 조차 가난할 수 없 다 ’ ( 2006 년 ) , 하버드대 를 비롯해 10 개 명문 대 에 동시 합격한 박원희 씨 의 ‘ 공부 9 단 오 기 10 단 ’ ( 2004 년 ) 등 이 인기 를 끌 었 다 .	O O O O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O ORG-B O O PER-B O O O O O O O O O O O O O DAT-B DAT-I O O ORG-B O O O O O O O O O PER-B O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O
+서태지 근황 , 딸 ‘ 담 이 ’ 사진 공개 … “ 담 이 와 긴 여행 하 면서 많 은 일 들 겪 어 ”	PER-B O O O O PER-B PER-I O O O O O PER-B PER-I O O O O O O O O O O O O

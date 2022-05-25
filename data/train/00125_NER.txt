@@ -1,14 +1,14 @@
-“강남 남주혁, 강남이 잘하니까 괜찮아”, “강남 남주혁, 재미있어” 등의 반응을 보이었다 .	PER-B PER-B PER-B O O PER-B PER-B O O O O O
-한편, ‘학교 다녀오겠습니다’는 꿈과 미래를 위하+여살아가는 한국고등학생들의 친구되기 프로젝트로 학창시절이 그립ㄴ 연예인 어른들과 빨리 어른이 되고 싶은 17세 열혈고등학생들이 같은 반이 되+어 벌어지는 이야기를 담았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O
-남북이 두 철도를 연결하고 금강산 관광사업 재개를 통하+여원산까지 철도를 연장하는 것을. 그리하여 기차에 앉아 동해 푸르+ㄴ바다를 감상하며 느긋하게 금강산과 원산여행을 즐기고 마식령에서 스키도 타는 세상을 …. 그것+ㄹ 논의하자면 지금이 적기+이다 .	ORG-B O O O LOC-B O O LOC-B O O O O O O LOC-B O O O LOC-B LOC-B O O O O O O O O O O O
-2013년 4·24 재·보궐선거 당시 처음 도입되었고 지금까지 세 차례 실시되었다 .	O O O O O O O O O O O
-친구 여, 그것+ㄴ바람만이 알지요 ― 대표곡 ‘Blowin＇intheWind’가 .	O O O O O O O O
-‘해치우+ㄴ다’는 의미의 일본말로 8시간 노동분량을 5시간에 해치우어버리는 것을 뜻하+ㄴ다 .	O O O O O O O O O O
-조 전 부사장이 수감되 +ㄴ 남부구치소는 지나 +ㄴ 2011년 신축되+어 약 1600명을 수용 하+ㄹ 수 있지만 이미 수용인원이 2000명이 넘게 수감되 +ㄴ 상태+이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O
-현재까지 매년 약 150억원의 매출을 기록하며 ‘대한민국 대표위장약’으로 크+ㄴ 사랑을 받고 있다 .	O O O MNY-B O O LOC-B O O O O O O
-아직 본격적이+ㄴ 출하가 시작되지 않은 배는 1상자(15kg)에 2만7262원으로 지난해와 비교하면 3.6% 떨어지었다 .	O O O O O O O O O O O O O
-두 사람이 만나 +ㄴ 것은 지나 +ㄴ 78년 .	O O O O O O O O O
-8300억원을 들이어 2025년까지 유성구 금고동에 새 시설을 마련하 +ㄹ 계획이다 .	MNY-B O O LOC-B LOC-B O O O O O O
-가수 서인영이 '욕설 논란'후 3개월 만에 SNS 활동을 재개하였다 .	O PER-B O O O O O O O O
-미국 뉴욕증시는 금리 인상 발표가 나기 전부터 완만 하+ㄴ 상승세를 보이어 +았다 .	O O O O O O O O O O O O O
-대구의 한 외국인 지원단체 +이라고 밝히+ㄴ 상대방은 “우리는 정부 지원을 받는 단체+이라 불법체류자 이+ㄴ 산모를 돕ㄹ 수 없다”고 자초지종을 설명하였다 .	LOC-B O O O O O O O O O O O O O O O O O O O O
+“ 강남 남주혁 , 강남 이 잘하 니까 괜찮 아 ” , “ 강남 남주혁 , 재밌 어 ” 등 의 반응 을 보 였 다 .	O PER-B PER-B O PER-B O O O O O O O O PER-B PER-B O O O O O O O O O O O O
+한편 , ‘ 학교 다녀오 겠 습니다 ’ 는 꿈 과 미래 를 위해 살아가 는 한국 고등학생 들 의 친구 되 기 프로젝트 로 학창 시절 이 그리 운 연예인 어른 들 과 빨리 어른 이 되 고 싶 은 17 세 열혈 고등학생 들 이 같 은 반 이 돼 벌어지 는 이야기 를 담 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+남북 이 두 철도 를 연결하 고 금강산 관광 사업 재개 를 통해 원산 까지 철도 를 연장하 는 것 을 . 그리하여 기차 에 앉 아 동해 푸른 바다 를 감상하 며 느긋하 게 금강산 과 원산 여행 을 즐기 고 마식령 에서 스키 도 타 는 세상 을 … . 그걸 논의하 자면 지금 이 적기 다 .	ORG-B O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+2013 년 4 · 24 재 · 보궐 선거 당시 처음 도입 됐 고 지금 까지 세 차례 실시 됐 다 .	DAT-B DAT-I DAT-B DAT-I DAT-I O O O O O O O O O O O O O O O O O
+친구 여 , 그건 바람 만 이 알 지요 ― 대표 곡 ‘ Blowin ＇ in the Wind ’ 가사	O O O O O O O O O O O O O O O O O O O O
+‘ 해치운다 ’ 는 의미 의 일본 말 로 8 시간 노동 분량 을 5 시간 에 해치 워 버리 는 것 을 뜻한다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+조 전 부사장 이 수감된 남부구치소 는 지난 2011 년 신축돼 약 1600 명 을 수용할 수 있 지만 이미 수용 인원 이 2000 명 이 넘 게 수감된 상태 다 .	PER-B O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O
+현재 까지 매년 약 150 억 원 의 매출 을 기록하 며 ‘ 대한민국 대표 위장약 ’ 으로 큰 사랑 을 받 고 있 다 .	O O O O MNY-B MNY-I MNY-I O O O O O O LOC-B O O O O O O O O O O O O
+아직 본격적 인 출하 가 시작되 지 않 은 배 는 1 상자 ( 15 kg ) 에 2 만 7262 원 으로 지난해 와 비교하 면 3.6 % 떨어 졌 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+두 사람 이 만난 것 은 지난 78 년 .	O O O O O O O O O O
+8300 억 원 을 들 여 2025 년 까지 유성구 금고동 에 새 시설 을 마련할 계획 이 다 .	MNY-B MNY-I MNY-I O O O DAT-B DAT-I O LOC-B LOC-B O O O O O O O O O
+가수 서인영 이 ' 욕설 논란 ' 후 3 개월 만 에 SNS 활동 을 재개 했 다 .	O PER-B O O O O O O O O O O O O O O O O O
+미국 뉴욕 증시 는 금리 인상 발표 가 나 기 전 부터 완만한 상승세 를 보 여 왔 다 .	O O O O O O O O O O O O O O O O O O O O
+대구 의 한 외국인 지원 단체 라고 밝힌 상대방 은 “ 우리 는 정부 지원 을 받 는 단체 라 불법 체류 자 인 산모 를 도 울 수 없 다 ” 고 자초지종 을 설명 했 다 .	LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

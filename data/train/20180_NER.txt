@@ -1,17 +1,17 @@
-노래는 목포를 넘어 전국을 강타하였다 .	O LOC-B O O O O
-식목일 전날 이+ㄴ 4일 서울의 낮 기온은 초여름 수준이+ㄴ 20도까지 오르았다 .	O O O O LOC-B O O O O O O O
-주부 야마시타 교코(山下享子·59)는 “두 손자를 전쟁에 휘말리게 하+ㄹ 수 없다”며 법안 폐기를 촉구하였다 .	O PER-B PER-B O O O O O O O O O O O
-안원경 스타일러스한국지사 대표는 웨어러블 기기와 패션의 결합에 대하+여 발표 하+ㄹ 계획이다 .	PER-B ORG-B O O O O O O O O O O
-노동신문은 이날 사설에서 “우리 군대와 인민은 공화국의 문전에서 불장난질을 하+여대는 하룻강아지들을 모조리 쇠장대로 꿰이어 펄펄 끓는 전기로에 처넣을 것”이라며 “핵항공모함이든, 핵전략 폭격기이든 침략의 살인장비들을 편포짝으로 만들어 파철 무지 속에 처박아버리+ㄹ 것”이라고 위협하였다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-【서울=뉴시스 .	LOC-B O
-자본주의 최전선 미국에서 샌더스 같은 사회주의자의 급부상은 아메리칸 드림이 사라지 +ㄴ고단 하+ㄴ 미국 보통 사람들의 삶과 무관하지 않아 보이+ㄴ다 .	O O ORG-B PER-B O O O O O O O O ORG-B O O O O O O O
-아직 필름이 완성되지 않았으나 그동안 제작과정에서 드러나 +ㄴ 영화 「태백산맥」은 8·15 광복에서 6·25에 이르는 좌우익 대립의 혼란의 시대를 조명하+ㄴ 작품이다 .	O O O O O O O O O O O O O O O O O O O O O
-박정희 정부 이후 장관 평균 임기가 1년에 불과하+ㄴ 잘못되+ㄴ 관행을 바꾸+어야 하+ㄴ다고 생각하였다 .	PER-B O O O O O O O O O O O O O
-사회주의 국가 이+ㄴ옛 동독은 교수들의 연구 성과로 얻은 특허를 당연히 대학의 자산으로 책정하였다 .	O O O O O O O O O O O O O O
-이에 따르 아LS니꼬동제련과 부당하게 내부거래를 한 자회사 GRM·리싸이텍코리아·화창에 대하+여1000억원 규모의 추징세액과 함께 지나+ㄴ 4년간 미납가산금과 가산세 등 범칙금을 합치+어 2000억원 규모의 추징세액이 부과되었다는 것+이 정부 관계자의 설명이다 .	O O ORG-B O O O O ORG-B MNY-B O O O O O O O O O O MNY-B O O O O O O O O
-‘해빙’ 조진웅 18kg 체중감량, “예민하+ㄴ 캐릭터 표현하기 위하+여 .	O PER-B O O O O O O O
-경기장 밖에서 시끄럽게 대립하였던 두 감독은 그라운드에서 한 팀을 이루+ㄴ 것 같았다 .	O O O O O O O O O O O O O
-박준형은 "하나에 꽂히면 그 음식만 먹는다"고 말하였다 .	PER-B O O O O O O O
-이에 박진희는 “다 얘기 하+여도 되느냐. 결혼 준비하고 있었을 때 임신 사실을 모르고 있었다”고 털어놓았다 .	O PER-B O O O O O O O O O O O O O O
-당시는 동대문 디지털 플라자(DDP)도 없던 때 +이었다 .	O O O O O O O O
-‘해방 후 최대 규모의 자생적 사회주의 혁명조직’이라는 사로맹(남한 사회주의 노동자동맹) 사건 주도자로 1991년 나란히 구속되었던 두 사람은 각각 무기징역과 15년 징역을 선고받았고, 1998년 광복절 특사로 풀려나 +았다 .	O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O
+노래 는 목포 를 넘 어 전국 을 강타 했 다 .	O O LOC-B O O O O O O O O O
+식목일 전날 인 4 일 서울 의 낮 기온 은 초여름 수준 인 20 도 까지 올 랐 다 .	DAT-B O O DAT-B DAT-I LOC-B O O O O O O O O O O O O O O
+주부 야마시타 교코 ( 山下享子 · 59 ) 는 “ 두 손자 를 전쟁 에 휘말리 게 할 수 없 다 ” 며 법안 폐기 를 촉구 했 다 .	O PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
+안원경 스타일러스 한국 지사 대표 는 웨어러블 기기 와 패션 의 결합 에 대해 발표할 계획 이 다 .	PER-B ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O
+노동신문 은 이날 사설 에서 “ 우리 군대 와 인민 은 공화국 의 문전 에서 불장난 질 을 해 대 는 하룻강아지 들 을 모조리 쇠장대 로 꿰 여 펄펄 끓 는 전기로 에 처넣 을 것 ” 이 라며 “ 핵 항공모함 이든 , 핵 전략 폭격기 이 든 침략 의 살인 장비 들 을 편포 짝 으로 만들 어 파철 무지 속 에 처박 아 버릴 것 ” 이라고 위협 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+【 서울 = 뉴시스 】	O LOC-B O ORG-B O
+자본주의 최전선 미국 에서 샌더스 같 은 사회주의 자 의 급부상 은 아메리칸 드림 이 사라진 고단한 미국 보통 사람 들 의 삶 과 무관하 지 않 아 보인다 .	O O ORG-B O PER-B O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
+아직 필름 이 완성되 지 않 았 으나 그동안 제작 과정 에서 드러난 영화 「 태백산맥 」 은 8 · 15 광복 에서 6 · 25 에 이르 는 좌우익 대립 의 혼란 의 시대 를 조명한 작품 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+박정희 정부 이후 장관 평균 임기 가 1 년 에 불과한 잘못된 관행 을 바꿔야 한다고 생각 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O
+사회주의 국가 인 옛 동독 은 교수 들 의 연구 성과 로 얻 은 특허 를 당연히 대학 의 자산 으로 책정 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
+이 에 따 라 LS 니꼬동제련 과 부당하 게 내부 거래 를 한 자회사 GRM · 리싸이텍 코리아 · 화창 에 대해 1000 억 원 규모 의 추징 세액 과 함께 지난 4 년 간 미납 가산금 과 가산세 등 범칙금 을 합쳐 2000 억 원 규모 의 추징 세액 이 부과 됐 다는 게 정부 관계자 의 설명 이 다 .	O O O O ORG-B ORG-I O O O O O O O O ORG-B O ORG-B ORG-I O ORG-B O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O O O O O
+‘ 해빙 ’ 조진웅 18 kg 체중 감량 , “ 예민한 캐릭터 표현하 기 위해 ”	O O O PER-B O O O O O O O O O O O O
+경기장 밖 에서 시끄럽 게 대립 했 던 두 감독 은 그라운드 에서 한 팀 을 이룬 것 같 았 다 .	O O O O O O O O O O O O O O O O O O O O O O
+박준형 은 " 하나 에 꽂히 면 그 음식 만 먹 는다 " 고 말 했 다 .	PER-B O O O O O O O O O O O O O O O O O
+이 에 박진희 는 “ 다 얘기해도 되 느냐 . 결혼 준비하 고 있 었 을 때 임신 사실 을 모르 고 있 었 다 ” 고 털어 놨 다 .	O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+당시 는 동대문 디지털 플라자 ( DDP ) 도 없 던 때 였 다 .	O O O O O O O O O O O O O O O
+‘ 해방 후 최대 규모 의 자생적 사회주의 혁명 조직 ’ 이 라는 사로맹 ( 남한사회주의노동자동맹 ) 사건 주도 자 로 1991 년 나란히 구속 됐 던 두 사람 은 각각 무기 징역 과 15 년 징역 을 선고 받 았 고 , 1998 년 광복절 특사 로 풀려났 다 .	O O O O O O O O O O O O O ORG-B O ORG-B O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O

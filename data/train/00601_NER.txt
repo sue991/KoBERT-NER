@@ -1,14 +1,14 @@
-그는 “사실과 다르+ㄴ 내용과 과장되+ㄴ 표현으로 박기량씨 및 기타 야구 관계자의 명예를 훼손하였음을 인정하며 저의 잘못을 알리+어 사실을 바로잡고자 하+ㄴ다”고 전하였다 .	O O O O O O PER-B O O O O O O O O O O O O O O O
-4일 방영되+ㄴ ‘아빠를 부탁하+여’ 3회는 6.9%의 시청률을 보이었다 .	O O O O O O O O O
-사실 지석훈이 올 시즌 NC 내야 진의 한 축을 맡으리라고 생각 하+ㄴ사람은 거의 없었다 .	O PER-B O O ORG-B O O O O O O O O O O
-가희 ‘닭치고 서핑’ 멤버들과 인증샷 ‘화기애애’… god 박준형과 특급인 연? ‘깜짝 ++화들짝 .	PER-B O O O O O ORG-B PER-B O O O O O
-워싱턴=이승헌 특파원 ddr@d onga. com/조은아기 .	LOC-B O O O PER-B O
-Q.28세 아들, 25세 딸을 두 +ㄴ 김모(58)씨는 수년 나+의 자녀가 출가하면 2020년쯤 사업을 접고 두 살 연하 아내와 전원생활에 나서 +ㄹ 계획이다 .	O O O O O O PER-B O O O O O O O O O O O O O O O O
-독립운동가 매천(梅泉) 황현(1855∼1910)이 경술국치에 분개하+ 여자결하며 남기+ㄴ 절명시, 충무공 이순신의 진중음(陣中吟)을 옮기+어쓰+ㄴ글에서 남다르+ㄴ 결의가 엿보이+ㄴ다 .	O PER-B PER-B O O O O O PER-B PER-I O O O O O O
-빠르+ㄴ 공상대타율은 0.485로 5푼가량 상승하였다 .	O O O O O O
-총장들은 13일 ‘미래대학포럼’을 발족시키고 앞으로 매달 한 차례씩 모이어 입시와 재정 등 대학의 주요 현안에 대하+ 여 입장을 밝히기로 +였다 .	O O ORG-B O O O O O O O O O O O O O O O O O O
-현대오일뱅크는 당시 흑자를 내고 있었지만 모기업의 위기 극복에 동참하+ㄴ다는 차원에서 긴축 경영에 동참하였다 .	ORG-B O O O O O O O O O O O O O
-직장에서 무려 15시간을 보내 +ㄴ다 .	O O O O O O
-박 대통령의 위기관리 실력은 짧게는 20대 국회가 개원하기 전까지 한 달, 길게는 대선 정국이 본격화하는 연말까지 8개월 안에 판정나 +ㄹ 것이다 .	PER-B O O O O O O O O O O O O O O O O O O O O O
-광고 보면 음원 청취 ‘공짜’ … 몽키3 뮤직 ‘몽유’ 베타 서비스 오픈 광고를 보면 음원을 무료로 청취하+ㄹ 수 있는 길이 열리었다 .	O O O O O O O O O O O O O O O O O O O O O O
-이미 한국을 찾아 슈틸리케 감독의 행보에 깊은 관심을 보이어 오+ㄴ 독일 언론들은 “‘아시아의 호랑이’ 한국에서 좋은 결실을 맺고 있다”며 긍정적으로 평가하고 있다 .	O ORG-B O PER-B PER-I O O O O O ORG-B O PER-B PER-I ORG-B O O O O O O O O
+그 는 “ 사실 과 다른 내용 과 과장된 표현 으로 박기량 씨 및 기타 야구 관계자 의 명예 를 훼손하 였 음 을 인정하 며 저 의 잘못 을 알려 사실 을 바로 잡 고자 한다 ” 고 전 했 다 .	O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4 일 방영된 ‘ 아빠 를 부탁해 ’ 3 회 는 6.9 % 의 시청률 을 보 였 다 .	DAT-B DAT-I O O O O O O O O O O O O O O O O O O
+사실 지석훈 이 올 시즌 NC 내야 진 의 한 축 을 맡 으리라고 생각한 사람 은 거의 없 었 다 .	O PER-B O O O ORG-B O O O O O O O O O O O O O O O O
+가희 ‘ 닭 치고 서핑 ’ 멤버 들 과 인증 샷 ‘ 화기애애 ’ … god 박준형 과 특급 인연 ? ‘ 깜짝+ 화들짝 ’	PER-B O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O
+워싱턴 = 이승헌 특파원 ddr @ donga . com / 조은아 기자	LOC-B O PER-B O O O O O O O PER-B O
+Q . 28 세 아들 , 25 세 딸 을 둔 김 모 ( 58 ) 씨 는 수년 내 자녀 가 출가하 면 2020 년 쯤 사업 을 접 고 두 살 연하 아내 와 전원생활 에 나설 계획 이 다 .	O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+독립 운동가 매천 ( 梅泉 ) 황현 ( 1855 ∼ 1910 ) 이 경술국치 에 분개해 자결하 며 남긴 절명시 , 충무공 이순신 의 진 중음 ( 陣中吟 ) 을 옮겨 쓴 글 에서 남다른 결의 가 엿보인다 .	O O PER-B O PER-B O PER-B O O O O O O O O O O O O O O PER-B PER-I O O O O O O O O O O O O O O O O
+빠른 공 상대 타율 은 0.485 로 5 푼 가량 상승 했 다 .	O O O O O O O O O O O O O O
+총장 들 은 13 일 ‘ 미래 대학 포럼 ’ 을 발족 시키 고 앞 으로 매달 한 차례 씩 모 여 입시 와 재정 등 대학 의 주요 현안 에 대해 입장 을 밝히 기 로 했 다 .	O O O DAT-B DAT-I O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현대오일뱅크 는 당시 흑자 를 내 고 있 었 지만 모 기업 의 위기 극복 에 동참한다는 차원 에서 긴축 경영 에 동참 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+직장 에서 무려 15 시간 을 보낸다 .	O O O O O O O O
+박 대통령 의 위기 관리 실력 은 짧 게 는 20 대 국회 가 개원하 기 전 까지 한 달 , 길 게 는 대선 정국 이 본격화하 는 연말 까지 8 개월 안 에 판정 날 것 이 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+광고 보 면 음원 청취 ‘ 공짜 ’ … 몽키 3 뮤직 ‘ 몽유 ’ 베타 서비스 오픈 광고 를 보 면 음원 을 무료 로 청취할 수 있 는 길 이 열 렸 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이미 한국 을 찾 아 슈틸리케 감독 의 행보 에 깊 은 관심 을 보 여 온 독일 언론 들 은 “ ‘ 아시아 의 호랑이 ’ 한국 에서 좋 은 결실 을 맺 고 있 다 ” 며 긍정적 으로 평가하 고 있 다 .	O ORG-B O O O PER-B O O O O O O O O O O O ORG-B O O O O O PER-B PER-I PER-I O ORG-B O O O O O O O O O O O O O O O O O O

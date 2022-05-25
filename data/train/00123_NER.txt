@@ -1,14 +1,14 @@
-한동안 비과학적이고 혐오스럽ㄴ의학의 역사로 치부되기도 +였지만, 20세기 들어 재조명 받아 2004년에 +ㄴ 미국식약청이 거머리를 ‘의료기구’로 승인하였다 .	O O O O O O O O O O O O LOC-B O O O O
-게다가 패턴을 정확하게 지키+어나가고 안정적 이+ㄴ 패스가 나가니 임동섭, 김준일이 살아나고 라틀리프의 속공 가담도 더 적극적이 되+ㄴ다 .	O O O O O O O O PER-B PER-B O O O O O O O O
-많은 사람들이 철수와 영이가 60~70년대를 대표하는 교과서 주인공으로 알고 있지만 철수와 영이는 1964년까지만 주인공이었다 .	O O PER-B PER-B O O O O O O PER-B PER-B O O O
-여진족이나 피지족처럼 부모가 망령이 들기 시작하면 보쌈을 하여 화살을 쏘거나 생매장하는 것이 효도로 생각하는 흐름이 있고, 아프리카의 반투족처럼 노인이 치매가 생기면 반신반인으로 여기고 신명을 중개하는 사제로서 우러르어 모시는 흐름이 있다 .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O
-18일 방송되+ㄴ MBC ‘무한도전’에서는 ‘2015 무도가요제’를 앞두고 팀을 이루+ㄴ 하하와 자이언티가 드라이브를 하면서 ‘양화대교’를 감상하는 모습이 그리 +어+지었다 .	O O O O O O O O O PER-B PER-B O O O O O O O O
-이를 어기면 3년 이하의 징역 또는 3000만원 이하의 벌금형을 받는다 .	O O O O O O MNY-B O O O O
-이들은 고발장에서 식약처의 심사 규정을 보면 치약 보존제의 종류·함량에 대하+여구체적으로 밝히고 있는데 아모레퍼시픽이 허가되지 않은 CMIT/MIT(메칠클로로이소치 아졸리논· 며칠이 소치 아졸리논) 성분이 치약에 들어있는 것을 알면서 만들어 팔았다고 주장하고 있다 .	O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O
-메르세데스-벤츠 올 판매 4만대 육박? 최고 실적?가솔린 ?디젤 모델 골고루 인기 S클래스 받으려 수천명 대기도 메르세데스-벤츠가 올 들어 10월까지 3만8603대를 판매 하+여 ‘수입차 1위’로 올라서 +었다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
-중국과 러시아로 떠나는 여행 ‘국제열차’에 오르는 여행자들을 위하 +ㄴ 것이다 .	LOC-B LOC-B O O O O O O O O O
-- 동아, 경향, 조선, 중앙, 한겨레 주말 책 소개 기사를 한 권의 eBook에 담아-스마트폰용 EPUB과 신문 레이아웃을 확인 하+ㄹ 수 있는 PDF를 동시에 제공-정기구독 신청시 매주 토요일 오후 사용자 계정에 최신호가 추가 -위클리북 섹션 창간 준비호 무료 배포 중대한민국 대표 인터넷 서점 예스24(대표 김기호, www. yes24. com)는 5대 일간지의 주말 책 소개 기사를 모으+ㄴeBook주간지를 발간하였다 .	O ORG-B ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O
-계약기간은 1년, 연봉은 인센티브 포함 총액 400만달러(약 48억원) +이다 .	O O O O O O MNY-B MNY-B O O
-전정도 세화엠피 회장(56·전성진지오텍 회장)이 포스코 플랜텍의 이란 석유 플랜트 공사대금 1000억여원 중 일부를 빼돌리었다는 고소·고발 사건과 관련 하+여, 검찰이 7일 대대적 이+ㄴ 압수수색과 함께 본격 수사에 착수하였다 .	PER-B ORG-B ORG-B LOC-B ORG-B ORG-I LOC-B O O O MNY-B O O O O O O O LOC-B O O LOC-B O O O O O O
-오늘날 세계 인구는 72억8456만명으로 늘었지만 농업생산력은 훨씬 더 발전하였다 .	O O O O O O O O O O
-환자 송원준 군(10)은 태어나 +았을 때부터 심장질환과 지적장애에 동시에 시달리며 매달 +ㄹ 수백만원짜리 호르몬제를 맞고 있지만 현재 희귀질환 특례를 받는 것은 증상 중 하나이+ㄴ ‘대동맥 상부 협착’뿐이다 .	O O O O O O O O O O O O MNY-B O O O O O O O O O O O O O O O
+한동안 비 과학적 이 고 혐오스러 운 의학 의 역사 로 치부되 기 도 했 지만 , 20 세기 들 어 재조명 받 아 2004 년 엔 미국 식약청 이 거머리 를 ‘ 의료 기구 ’ 로 승인 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O LOC-B O O O O O O O O O O O O O
+게다가 패턴 을 정확하 게 지켜 나가 고 안정적 인 패스 가 나가 니 임동섭 , 김준일 이 살아나 고 라틀리프 의 속공 가담 도 더 적극적 이 된다 .	O O O O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O
+많 은 사람 들 이 철수 와 영이 가 60 ~ 70 년대 를 대표하 는 교과서 주인공 으로 알 고 있 지만 철수 와 영이 는 1964 년 까지 만 주인공 이 었 다 .	O O O O O PER-B O PER-B O O O O O O O O O O O O O O O PER-B O PER-B O DAT-B DAT-I O O O O O O O
+여진족 이나 피지족 처럼 부모 가 망령 이 들 기 시작하 면 보쌈 을 하 여 화살 을 쏘 거나 생매장하 는 것 이 효도 로 생각하 는 흐름 이 있 고 , 아프리카 의 반투족 처럼 노인 이 치매 가 생기 면 반신반인 으로 여기 고 신명 을 중개하 는 사제 로서 우러 러 모시 는 흐름 이 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+18 일 방송된 MBC ‘ 무한도전 ’ 에서 는 ‘ 2015 무도 가요제 ’ 를 앞두 고 팀 을 이룬 하하 와 자이언티 가 드라이브 를 하 면서 ‘ 양화대교 ’ 를 감상하 는 모습 이 그려 졌 다 .	DAT-B DAT-I O O O O O O O O DAT-B O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O O O
+이 를 어기 면 3 년 이하 의 징역 또는 3000 만 원 이하 의 벌금형 을 받 는다 .	O O O O O O O O O O MNY-B MNY-I MNY-I O O O O O O O
+이 들 은 고발장 에서 식약처 의 심사 규정 을 보 면 치약 보존제 의 종류 · 함량 에 대해 구체적 으로 밝히 고 있 는데 아모레퍼시픽 이 허가되 지 않 은 CMIT / MIT ( 메칠클로로이소치아졸리논 · 메칠 이 소치 아졸 리 논 ) 성분 이 치약 에 들 어 있 는 것 을 알 면서 만들 어 팔 았 다고 주장하 고 있 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+메르세데스 - 벤츠 올 판매 4 만 대 육박 ? 최고 실적 ? 가솔린 ? 디젤 모델 골고루 인기 S 클래스 받 으려 수천 명 대기 도 메르세데스 - 벤츠 가 올 들 어 10 월 까지 3 만 8603 대 를 판매해 ‘ 수입 차 1 위 ’ 로 올라섰 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O O
+중국 과 러시아 로 떠나 는 여행 ‘ 국제 열차 ’ 에 오르 는 여행자 들 을 위한 것 이 다 .	LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O
+- 동아 , 경향 , 조선 , 중앙 , 한겨레 주말 책 소개 기사 를 한 권 의 eBook 에 담 아 - 스마트폰 용 EPUB 과 신문 레이아웃 을 확인할 수 있 는 PDF 를 동시 에 제공 - 정기 구독 신청 시 매주 토요일 오후 사용자 계정 에 최신 호 가 추가 - 위클리 북 섹션 창간 준비 호 무료 배포 중대 한 민국 대표 인터넷 서점 예스 24 ( 대표 김기호 , www . yes 24 . com ) 는 5 대 일간지 의 주말 책 소개 기사 를 모은 eBook 주간지 를 발간 했 다 .	O ORG-B O ORG-B O ORG-B O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O DAT-B O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O
+계약 기간 은 1 년 , 연봉 은 인센티브 포함 총액 400 만 달러 ( 약 48 억 원 ) 다 .	O O O O O O O O O O O MNY-B MNY-I MNY-I O O MNY-B MNY-I MNY-I O O O
+전정 도 세화 엠피 회장 ( 56 · 전 성진 지오텍 회장 ) 이 포스코 플랜 텍 의 이 란 석유 플랜트 공사 대금 1000 억 여 원 중 일부 를 빼돌 렸 다는 고소 · 고발 사건 과 관련해 , 검찰 이 7 일 대대적 인 압수 수색 과 함께 본격 수사 에 착수 했 다 .	PER-B PER-I ORG-B ORG-I O O O O O ORG-B ORG-I O O O ORG-B ORG-I ORG-I O LOC-B LOC-I O O O O MNY-B MNY-I MNY-I MNY-I O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O
+오늘날 세계 인구 는 72 억 8456 만 명 으로 늘 었 지만 농업 생산력 은 훨씬 더 발전 했 다 .	DAT-B O O O O O O O O O O O O O O O O O O O O O
+환자 송원준 군 ( 10 ) 은 태어났 을 때 부터 심장 질환 과 지적장애 에 동시 에 시달리 며 매달 수백만 원 짜리 호르몬제 를 맞 고 있 지만 현재 희귀 질환 특례 를 받 는 것 은 증상 중 하나 인 ‘ 대동맥 상부 협착 ’ 뿐 이 다 .	O PER-B O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

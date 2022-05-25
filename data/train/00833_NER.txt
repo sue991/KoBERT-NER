@@ -1,17 +1,17 @@
-‘밤을 걷는 선비심창민’ ‘밤을 걷는 선비’ 심창민이 이윤 캐릭터에 빙의하였다 .	O O PER-B O O O PER-B PER-B O O O
-1일 현대차는 아이오닉 3개 모델이 유럽의 신차 평가 프로그램이+ㄴ 유로NCAP에서 최고점이 +ㄴ별 5개(★★★★★)를 받았다고 밝히었다 .	O ORG-B O O O ORG-B O O O O O O O O O O
-유로NCAP 테스트 결과 현대차 아이오닉은 탑승자 안전, 어린이 탑승자 보호, 보행자 보호, 안전보조 장비 등 4가지 평가 부문의 종합평가 결과 최고점이 +ㄴ별 5개를 받아 탁월하+ㄴ 안전성을 인정받았다 .	O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O
-특히 아이오닉은 모든 평가 부분에서 높은 점수를 얻었으며, 자동 긴급 제동장치(AEB), 차로 이탈 경보(LDW), 스마트 크루즈 컨트롤(SCC) 등 폭넓은 안전사양을 갖추+어 좋은 평가를 받았다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-현대차 유럽법인 토마스 슈미드 부사장은 “최첨단 안전 사양으로 무장하+ㄴ 아이오닉은 차급나+의 가장 안전하+ㄴ 차량일 뿐만 아니라 가장 대중성이 뛰어나 +ㄴ 전기차이기도 하다”며 수상 소감을 전하며 현대차 기술력에 대하+ㄴ 자신감을 드러내+었다 .	ORG-B ORG-I PER-B PER-I O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O
-현대차는 아이오닉 하이브리드와 전기차 2개 모델을 출시하고 향후 플러그인 하이브리드를 출시하+ㄹ 계획으로 친환경차 대중화에 앞장서고 있다 .	ORG-B O O O O O O O O O O O O O O O O
-이런 애들이 뭐 한둘이 +ㄴ줄 알세요!”나는 젓가락으로 닭뼈를 뜨+ㄴ 채 쪽 쪽 빨고 있다가, 그대로 멈추+ㄴ 자세로 준수 아버지 어머니의 얼굴을 바라보았다 .	O O O O O O O O O O O O O O O O O PER-B O O O O O
-전동으로 움직이는 3가지 단계별 헤드로네일을 손쉽게 다듬고 관리하는 전동네 일 관리기로, 발톱에도 사용 하+ㄹ 수 있어 편리하다 .	O O O O O O O O O O O O O O O O O O
-이른바 ‘1급 모델’이+ㄴ 경우 시급이 아니+ㄴ 데이 페이로 받는 경우가 많은데 경력이 4~5년차+이면 보통 한번 촬영에 30만~50만원을 벌+ㄴ다 .	O O O O O O O O O O O O O O O O MNY-B O O
-현대차 노조는 지난달 22일 임금 및 단체협상에서 회사와의 절충점을 찾지 못하자 협상 결렬을 선언하였고, 이달 1일 임시대의원대회를 열어 ‘쟁의 발생’을 결의 하+ㄴ바 있다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O
-5일 한국석유공사의 유가정보 서비스 ‘오피넷’에 따르면 4일 전국 주유소의 보통 휘발유 평균가격은 전날 대비 1.49원 내리+ㄴ L당 1404.84원으로 집계되었다 .	O ORG-B O O O O O O O O O O O O MNY-B O O MNY-B O O
-3개 주파수 하나처럼 사용 G플렉스2는 퀄컴의 64비트 칩 세트 ‘스냅드래곤 810’을 탑재하+여멀티태스킹 및 고사양을 요하는 애플리케이션에서도 안정적 구동이 가능하다 .	O O O O O ORG-B O O O O O O O O O O O O O O
-국내 연구기관에 종사하는 외국인 가운데 북한의 핵·미사일 분야에 협력 하+ㄴ 혐의가 드러나면 재입국이 금지되 +ㄴ다 .	O O O O O ORG-B O O O O O O O O O O
-최정화 교수는 “청소년기에 +ㄴ 신체 증상을 제대로 표현하지 않는다”며 “부모가 아이의 자세와 성장, 그리고 정서적 이+ㄴ문제가 있다면 전문 치료나 상담을 서두르 어받아야 하+ㄹ 것”이라고 권하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O
-글= 김선영기자kim.su nyeong@j oongang. co.kr사진=서보형 객원기 .	O PER-B O O PER-B O O
-미국이 2004년 유럽연합(EU)의 반대에도 불구하고 이란에 대하+ㄴ 경제 제재에 착수하+ㄴ이후 이란인들은 크+ㄴ 고통을 느끼었다 .	ORG-B O ORG-B O O ORG-B O O O O ORG-B O O O O
-[인천/경기]‘4m 규제’에 … 2층 높이 168cm 그치+어성인 男불 .	LOC-B O O O O O O O O
+‘ 밤 을 걷 는 선비 심창민 ’ ‘ 밤 을 걷 는 선비 ’ 심창민 이 이윤 캐릭터 에 빙의 했 다 .	O O O O O O PER-B O O O O O O O O PER-B O PER-B O O O O O O
+1 일 현대차 는 아이오닉 3 개 모델 이 유럽 의 신차 평가 프로그램 인 유로 NCAP 에서 최고점 인 별 5 개 ( ★ ★ ★ ★ ★ ) 를 받 았 다고 밝 혔 다 .	DAT-B DAT-I ORG-B O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+유로 NCAP 테스트 결과 현대차 아이오닉 은 탑승자 안전 , 어린이 탑승자 보호 , 보행자 보호 , 안전 보조 장비 등 4 가지 평가 부문 의 종합 평가 결과 최고점 인 별 5 개 를 받 아 탁월한 안전성 을 인정받 았 다 .	O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 아이오닉 은 모든 평가 부분 에서 높 은 점수 를 얻 었 으며 , 자동 긴급 제동 장치 ( AEB ) , 차로 이탈 경보 ( LDW ) , 스마트 크루즈 컨트롤 ( SCC ) 등 폭넓 은 안전 사양 을 갖춰 좋 은 평가 를 받 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현대차 유럽 법인 토마스 슈미드 부사장 은 “ 최첨단 안전 사양 으로 무장한 아이오닉 은 차급 내 가장 안전한 차량 일 뿐 만 아니 라 가장 대중성 이 뛰어난 전기 차 이 기 도 하 다 ” 며 수상 소감 을 전하 며 현대차 기술력 에 대한 자신감 을 드러냈 다 .	ORG-B ORG-I ORG-I PER-B PER-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O
+현대차 는 아이오닉 하이브리드 와 전기 차 2 개 모델 을 출시하 고 향후 플러그인 하이브리드 를 출시할 계획 으로 친환경 차 대중화 에 앞장서 고 있 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이런 애 들 이 뭐 한둘 인 줄 아 세요 ! ” 나 는 젓가락 으로 닭 뼈 를 뜬 채 쪽쪽 빨 고 있 다가 , 그대로 멈춘 자세 로 준수 아버지 어머니 의 얼굴 을 바라보 았 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O PER-B O O O O O O O O O
+전동 으로 움직이 는 3 가지 단계 별 헤드 로 네일 을 손쉽 게 다듬 고 관리하 는 전동 네일 관리기 로 , 발톱 에 도 사용할 수 있 어 편리하 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+이른바 ‘ 1 급 모델 ’ 인 경우 시급 이 아닌 데이 페이 로 받 는 경우 가 많 은데 경력 이 4 ~ 5 년 차 면 보통 한 번 촬영 에 30 만 ~ 50 만 원 을 번다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O
+현대차 노조 는 지난달 22 일 임금 및 단체 협상 에서 회사 와 의 절충점 을 찾 지 못하 자 협상 결렬 을 선언 했 고 , 이달 1 일 임시 대의원 대회 를 열 어 ‘ 쟁의 발생 ’ 을 결의한 바 있 다 .	ORG-B ORG-I O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O O O O O O O
+5 일 한국 석유 공사 의 유가 정보 서비스 ‘ 오피 넷 ’ 에 따르 면 4 일 전국 주유소 의 보통 휘발유 평균 가격 은 전날 대비 1.49 원 내린 L 당 1404.84 원 으로 집계 됐 다 .	DAT-B DAT-I ORG-B ORG-I ORG-I O O O O O O O O O O O DAT-B DAT-I O O O O O O O O O O MNY-B MNY-I O O O MNY-B MNY-I O O O O O
+3 개 주파수 하나 처럼 사용 G 플 렉스 2 는 퀄컴 의 64 비트 칩 세트 ‘ 스냅 드래곤 810 ’ 을 탑재해 멀티태스킹 및 고사 양 을 요하 는 애플리케이션 에서 도 안정적 구동이 가능하 다 .	O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O
+국내 연구 기관 에 종사하 는 외국인 가운데 북한 의 핵 · 미사일 분야 에 협력한 혐의 가 드러나 면 재입국 이 금지된다 .	O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+최정화 교수 는 “ 청소년기 엔 신체 증상 을 제대로 표현하 지 않 는다 ” 며 “ 부모 가 아이 의 자세 와 성장 , 그리고 정서적 인 문제 가 있 다면 전문 치료 나 상담 을 서둘 러 받 아야 할 것 ” 이라고 권 했 다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+글 = 김선영 기자 kim . sunyeong @ joongang . co . kr 사진 = 서보형 객원 기자	O O PER-B O O O O O O O O O O O O PER-B O O
+미국 이 2004 년 유럽연합 ( EU ) 의 반대 에 도 불구하 고 이란 에 대한 경제 제재 에 착수한 이후 이란 인 들 은 큰 고통 을 느 꼈 다 .	ORG-B O DAT-B DAT-I ORG-B O ORG-B O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O
+[ 인천 / 경기 ] ‘ 4 m 규제 ’ 에 … 2 층 높이 168 cm 그쳐 성인 男 불편	O LOC-B O LOC-B O O O O O O O O O O O O O O O O O

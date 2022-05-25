@@ -1,15 +1,15 @@
-그 중에서도 백화점에 입점한 ‘자외선 차단제 최강자’를 가리는 지난해 5월 6일자 썰전이 가장 많은 관심을 받았다 .	O O O O O O O O O O O O O O O O O
-그동안 세 차례 무료 개안을 수술을 통하+여 1000명이 넘는 환자가 시력을 찾을 수 있게 지원하였다 .	O O O O O O O O O O O O O O O O
-찬열 누나 박유라 아나운서 “아침에 +ㄴ 뉴스, 저녁에 +ㄴ 행사 진행”… 변신 모습 보니 ‘화뜰짝’ 그룹 엑소(EXO) 찬열의 누나 이+ㄴ 박유라 아나운서가 화제이+ㄴ 가운데, 그의 눈부시+ㄴ 드레스 자태도 관심을 모으았다 .	PER-B O PER-B O O O O O O O O O O O O O ORG-B PER-B O O PER-B O O O O O O O O O O
-박유라는 지난해 12월 자신의 페이스북에 “아침에 +ㄴ 뉴스하고 저녁에 +ㄴ 드레스 입고 행사 진행.같은 사람이 +ㄴ듯 아니+ㄴ듯 ㅎㅎ” +이라는 글과 함께 사진 2장을 게재하였다 .	PER-B O O O O O O O O O O O O O O O O O O O O O O O O
-조사 대상 전체의 0.74% 수준이다 .	O O O O O O
-사유별로 살펴보면 전기장판 사용 등으로 실제 난방을 하지 않은 가구가 전체 64.2%(3만5432가구)로 가장 많았고 이 .	O O O O O O O O O O O O O O O O
-[헬스&뷰티/헬스 캡슐] PMC 박병원, 新 ‘목디스크’ 수술법 발 .	O O ORG-B ORG-I O O O O O
-매출의 성장세는 시장 평균(11.9%) 두 배에 가깝ㄴ 20%에 달하였다 .	O O O O O O O O O O
-학계에서는 313년 낙랑이고구려에 의하+여멸망 하+ㄴ 직후 낙랑제철 장인들이 이곳으로 이주하였을 가능성이 있다는 주장이 나 오+ㄴ다 .	O O ORG-B O O O ORG-B O O O O O O O O O
-《 24일 개봉하는 ‘서부전선’(12세 이상)은 심각 하+여보이는 제목과 달리 웃음으로 승부하는 영화+이다 .	O O O O O O O O O O O O O
-JYJ 김준수 악플러법적 대응 시사“상식 밖도 가 지나치+어”… 어느 정도 +이길래 ?그룹 JYJ 김준수가 악플러를 상대로 법적 대응을 시사하였다 .	ORG-B PER-B O O O O O O O O O O ORG-B PER-B O O O O O O
-지나+ㄴ 2월 4일은 입춘(立春)이었습니다 .	O O O O O
-그러면서 “안 전 비서관은 최순실의 명에 따르 아수시로 인사 개입을 자행하였고, 이 전 비서관은 최순실의 인사를 실행 하+ㄴ 인물”이라고 주장하였다 .	O PER-B O O PER-B O O O O O O PER-B O O PER-B O O O PER-B O O
-안 전 비서관은 제2부속비서관 시절 자신의 차량이나 이영선 행정관의 차량에 최씨를 태우어 검문 없이 청와대에 출입시키+어+었다는 의혹도 받고 있다 .	PER-B O O ORG-B O O O PER-B O O PER-B O O O ORG-B O O O O O
-이 전 비서관도 구속되 +ㄴ 정 전 비서관과 함께 청와대 문건을 최씨에게 전달하는 데 개입하었을 가능성이 크다고 검찰은 보고 있다 .	PER-B O O O O PER-B O O O ORG-B O PER-B O O O PER-B O O O O O
+그중 에서 도 백화점 에 입점 한 ‘ 자외선 차단 제 최 강자 ’ 를 가리 는 지난해 5 월 6 일자 썰 전 이 가장 많 은 관심 을 받 았 다 .	O O O O O O O O O O O O O O O O O O DAT-B DAT-I DAT-I O O O O O O O O O O O O O
+그동안 세 차례 무료 개안 을 수술 을 통해 1000 명 이 넘 는 환자 가 시력 을 찾 을 수 있 게 지원 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+찬 열 누나 박유라 아나운서 “ 아침 엔 뉴스 , 저녁 엔 행사 진행 ” … 변신 모습 보 니 ‘ 화뜰 짝 ’ 그룹 엑소 ( EXO ) 찬 열의 누나 인 박유라 아나운서 가 화제 인 가운데 , 그 의 눈부신 드레스 자태 도 관심 을 모 았 다 .	PER-B PER-I O PER-B O O O O O O O O O O O O O O O O O O O O O ORG-B O ORG-B O PER-B O O O PER-B O O O O O O O O O O O O O O O O O O
+박유라 는 지난해 12 월 자신 의 페이스북 에 “ 아침 엔 뉴스 하 고 저녁 엔 드레스 입 고 행사 진행 . 같 은 사람 인 듯 아닌 듯 ㅎ ㅎ ” 라는 글 과 함께 사진 2 장 을 게재 했 다 .	PER-B O O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조사 대상 전체 의 0.74 % 수준 이 다 .	O O O O O O O O O O
+사유 별 로 살펴보 면 전기 장판 사용 등 으로 실제 난방 을 하 지 않 은 가구 가 전체 64.2 % ( 3 만 5432 가구 ) 로 가장 많 았 고 이어	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 헬스 & 뷰티 / 헬스 캡슐 ] PMC 박병원 , 新 ‘ 목 디스크 ’ 수술 법 발표	O O O O O O O O ORG-B ORG-I O O O O O O O O O
+매출 의 성장세 는 시장 평균 ( 11.9 % ) 두 배 에 가까 운 20 % 에 달 했 다 .	O O O O O O O O O O O O O O O O O O O O O O
+학계 에서 는 313 년 낙랑 이 고구려 에 의해 멸망한 직후 낙랑 제철 장인 들 이 이곳 으로 이주 했 을 가능성 이 있 다는 주장 이 나온다 .	O O O DAT-B DAT-I ORG-B O ORG-B O O O O ORG-B O O O O O O O O O O O O O O O O O
+《 24 일 개봉하 는 ‘ 서부 전선 ’ ( 12 세 이상 ) 은 심각해 보이 는 제목 과 달리 웃음 으로 승부 하 는 영화 다 .	O DAT-B DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O
+JYJ 김준수 악 플러 법적 대응 시사 “ 상식 밖 도 가 지나쳐 ” … 어느 정도 길래 ? 그룹 JYJ 김준수 가 악 플러 를 상대 로 법적 대응 을 시사 했 다 .	ORG-B PER-B O O O O O O O O O O O O O O O O O O ORG-B PER-B O O O O O O O O O O O O O
+지난 2 월 4 일 은 입춘 ( 立春 ) 이 었 습니다 .	O DAT-B DAT-I DAT-I DAT-I O DAT-B O DAT-B O O O O O
+그러 면서 “ 안 전 비서관 은 최순실 의 명 에 따 라 수시로 인사 개입 을 자행 했 고 , 이 전 비서관 은 최순실 의 인사 를 실행한 인물 ” 이라고 주장 했 다 .	O O O PER-B O O O PER-B O O O O O O O O O O O O O PER-B O O O PER-B O O O O O O O O O O O
+안 전 비서관 은 제 2 부속 비서관 시절 자신 의 차량 이나 이영선 행정관 의 차량 에 최 씨 를 태 워 검문 없이 청와대 에 출입 시켜 줬 다는 의혹 도 받 고 있 다 .	PER-B O O O ORG-B ORG-I ORG-I ORG-I O O O O O PER-B O O O O PER-B O O O O O O ORG-B O O O O O O O O O O O O
+이 전 비서관 도 구속된 정 전 비서관 과 함께 청와대 문건 을 최 씨 에게 전달하 는 데 개입 했 을 가능성 이 크 다고 검찰 은 보 고 있 다 .	PER-B O O O O PER-B O O O O ORG-B O O PER-B O O O O O O O O O O O O O O O O O O O

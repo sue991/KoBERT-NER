@@ -1,16 +1,16 @@
-또한·일 관계와 관련 하+여서는 “두 나라간 미래지향적 동반자 관계의 출발점이자 필요조건은 올바르+ㄴ 역사인식과 미래세대 교육이며 정부는 이와 같은 확고하+ㄴ 원칙을 가지고 과거사 문제에 대하+여서는 단호히 대응 하+여나가+ㄹ 것”이라며 “일본 정부도 역사를 있는 그대로 직시하면서 미래 세대 교육과 과거사의 과오를 반성하는 데 진정성 있고 일관성 있게 나아가 +아야 하+ㄹ 것”이라고 지적하였다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O
-대북 문제에 대하+여서도 “북한은 민생을 파괴하고 인권을 유린하며 오직 핵 능력 고도화에 몰두하고 있다”며 “굳건하+ㄴ한미연합방위태세를 토대로 북한의 어떠 하+ㄴ도발과 위협도 단호히 응징하고 유엔 안보리 결의 등의 제재와 압박을 더욱 강화 하+ 여 북한이 잘못되+ㄴ 셈법을 바꾸도록 하겠다”고 강조하였다 .	O O O ORG-B O O O O O O O O O O ORG-B O ORG-B O O O O O O O O O O O O O O O ORG-B O O O O O O
-다음은 황 권한대행의 제98주년 3·1절 기념 사전 문 제 98주년 3·1절 기념사존경하는 국내외 동포 여러분, 독립유공자와 유가족 여러분, 그리고 내외 귀빈 여러분, 오늘은 우리 민족사에크+ㄴ분수령이 되었던 3·1운동을 기념하는 매우 뜻깊은 날이+ㅂ니다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
-거북의 배딱지와 등딱지 형성은 생물에서 흔히 나타나는 대진화 현상을 보이어주는 하나의 증거이면서 초기 파충류 진화의 극적이 +ㄴ 사건이다 .	O O O O O O O O O O O O O O O O O O O
-지난해 11월 제2공항 후보지 선정 발표를 전후하+여 나타나 +ㄴ 풍경이다 .	O O O O O O O O O O O
-지나+ㄴ 1월 12일(2087.14) 이후 가장 높은 수치+이다 .	O O MNY-B O O O O O
-이날 2084.16으로 상승 출발한 코스피는 장 초반 외국인과 기관투자자 매도세에 2077선까지 하락하였다 .	O MNY-B O O O O O O O O MNY-B O O
-양산선의 노포~사송 리사송연못 간 2.4㎞는 지하에, 나머지는 지상에 건설되+ㄴ다 .	LOC-B LOC-B LOC-I O O O O O O O
-재질과 크기가 다른 활자가 섞이어 있으니 ‘직지 심체요절’의 서체는 아름답지 못하다 .	O O O O O O O O O O O O
-검찰, ‘메르스 환자 늑장 신고 혐의’ 삼성서울병원 무혐의 처 .	O O O O O O ORG-B O O O
-현재 두 개의 학교법인을 통하+여울산대, 울산과학대를 비롯하+ 여 사립형 사립고와 일반고, 중학교, 유치원 등을 운영하고 있다 .	O O O O ORG-B ORG-B O O O O O O O O O O O
-앞서 최 지사는 이날 오전 도정질문 답변 때 1시간 가량 서+어 있었으며, 간혹 식은땀을 흘리는 등 피곤 하+ㄴ 모습을 보이었던 것으로 알려지었다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O
-외부에 기부하는 금액이 자기자본의 0.5%(약 6800억원) 이상이거나 삼성생명공익재단 등 특수관계인에게 50억원 이상을 증여하 +ㄹ 때는 이사회가 직접 결정하였다 .	O O O O O MNY-B O ORG-B O O MNY-B O O O O O O O O
-22∼29일 ‘피스&피아노 페스티벌’… 국내외 촉망받는 신예들 무대 오르 .	O O O O O O O O O
-9일부터 오키나와킨 구장에서 2차 스프링캠프를 시작하+ㄴ KIA의 김기태 감독은 훈련 첫날부터 화가나 +ㄴ다고 +였다 .	O LOC-B LOC-I O O O ORG-B PER-B O O O O O O O
-박진영 어머님이 누구+이니뮤비, 비키니녀 이 현지 '끈적 하+ㄴ몸매 .	PER-B O O O O O O O O
+또 한 · 일 관계 와 관련해서 는 “ 두 나라 간 미래 지향 적 동반자 관계 의 출발점 이 자 필요조건 은 올바른 역사 인식 과 미래 세대 교육 이 며 정부 는 이 와 같 은 확고한 원칙 을 가지 고 과거사 문제 에 대해서 는 단호히 대응해 나갈 것 ” 이 라며 “ 일본 정부 도 역사 를 있 는 그대로 직시하 면서 미래 세대 교육 과 과거사 의 과오 를 반성하 는 데 진정 성 있 고 일관성 있 게 나아가야 할 것 ” 이라고 지적 했 다 .	O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+대북 문제 에 대해서 도 “ 북한 은 민생 을 파괴하 고 인권 을 유린하 며 오직 핵 능력 고도화 에 몰두하 고 있 다 ” 며 “ 굳건한 한미 연합 방위 태세 를 토대 로 북한 의 어떠한 도발 과 위협 도 단호히 응징하 고 유엔 안보리 결의 등 의 제재 와 압박 을 더욱 강화해 북한 이 잘못된 셈법 을 바꾸 도록 하 겠 다 ” 고 강조 했 다 .	O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I ORG-I O O O O ORG-B O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O
+다음 은 황 권한 대행 의 제 98 주년 3 · 1 절 기념사 전문 제 98 주년 3 · 1 절 기념사 존경하 는 국내외 동포 여러분 , 독립 유공자 와 유가족 여러분 , 그리고 내외 귀빈 여러분 , 오늘 은 우리 민족사 에 큰 분수령 이 되 었 던 3 · 1 운동 을 기념하 는 매우 뜻 깊 은 날 입니다 .	O O PER-B O O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+거북 의 배딱지 와 등딱지 형성 은 생물 에서 흔히 나타나 는 대진화 현상 을 보 여 주 는 하나 의 증거 이 면서 초기 파충류 진화 의 극적 인 사건 이 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지난해 11 월 제 2 공항 후보지 선정 발표 를 전후해 나타난 풍경 이 다 .	O DAT-B DAT-I O O O O O O O O O O O O O
+지난 1 월 12 일 ( 2087.14 ) 이후 가장 높 은 수치 다 .	O DAT-B DAT-I DAT-I DAT-I O MNY-B O O O O O O O O
+이날 2084.16 으로 상승 출발 한 코스피 는 장 초반 외국인 과 기관 투자자 매도 세 에 2077 선 까지 하락 했 다 .	O MNY-B O O O O O O O O O O O O O O O MNY-B O O O O O O
+양산 선의 노포 ~ 사송리 사송 연못 간 2.4 ㎞ 는 지하 에 , 나머지 는 지상 에 건설된다 .	LOC-B O LOC-B LOC-I LOC-I LOC-I LOC-I O O O O O O O O O O O O O
+재질 과 크기 가 다른 활자 가 섞 여 있 으니 ‘ 직지심체요절 ’ 의 서체 는 아름답 지 못하 다 .	O O O O O O O O O O O O O O O O O O O O O O
+검찰 , ‘ 메르스 환자 늑장 신고 혐의 ’ 삼성서울병원 무혐의 처분	O O O O O O O O O ORG-B O O
+현재 두 개 의 학교 법인 을 통해 울산대 , 울산 과학 대 를 비롯해 사립 형 사립 고 와 일반 고 , 중학교 , 유치원 등 을 운영하 고 있 다 .	O O O O O O O O ORG-B O ORG-B ORG-I ORG-I O O O O O O O O O O O O O O O O O O O O
+앞서 최 지사 는 이날 오전 도정 질문 답변 때 1 시간 가량 서 있 었 으며 , 간혹 식은땀 을 흘리 는 등 피곤한 모습 을 보 였 던 것 으로 알려 졌 다 .	O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+외부 에 기부하 는 금액 이 자기 자본 의 0.5 % ( 약 6800 억 원 ) 이상 이 거나 삼성생명 공익 재단 등 특수 관계 인 에게 50 억 원 이상 을 증여할 때 는 이사회 가 직접 결정 했 다 .	O O O O O O O O O O O O O MNY-B MNY-I MNY-I O O O O ORG-B ORG-I ORG-I O O O O O MNY-B MNY-I MNY-I O O O O O O O O O O O O
+22 ∼ 29 일 ‘ 피스 & 피아노 페스티벌 ’ … 국내외 촉망 받 는 신예 들 무대 올 라	O O O O O O O O O O O O O O O O O O O O
+9 일 부터 오키나와 킨 구장 에서 2 차 스프링 캠프 를 시작한 KIA 의 김기태 감독 은 훈련 첫날 부터 화 가 난다고 했 다 .	DAT-B DAT-I O LOC-B LOC-I LOC-I O O O O O O O ORG-B O PER-B O O O O O O O O O O O
+박진영 어머님 이 누구 니 뮤 비 , 비키니 녀 이현지 ' 끈적한 몸매 '	PER-B O O O O O O O O O PER-B O O O O

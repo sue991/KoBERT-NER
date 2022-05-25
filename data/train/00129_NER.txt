@@ -1,12 +1,12 @@
-인천항을 찾는 크루즈 관광객은 연간 20만여명이지만 인천시내에 면세점이 없어 서울에서 관광과 쇼핑을 즐기+어+오았다 .	ORG-B O PER-B O O O ORG-B O O LOC-B O O O O
-미국 경제 전문지 ‘비즈니스 인사이더’ 의 지나 +ㄴ 8월 기사에 따르면 버클리가 미국에서 가장 비싸 +ㄴ칼리지타운(대학이 있는 도시)으로 뽑히기도 +였다 .	ORG-B O O O O O O O O O O O ORG-B O O O O O O O O
-패션잡화(스타일윈도), 홈·데코(리빙윈도), 농수산품(프레시윈도) 등 세 영역에 소호몰 400여개, 백화점 매장 540여개가 업체가 입점한 샵윈도에서 +ㄴ 채팅창을 통하+여주문 상담부터 가격 협상, 결제까지 일사천리로 끝나 +ㄴ다 .	O O O O O O O O O O O O O O O O O O O O O O O O O
-여기까지 완료되는데 3~4일 정도 걸리+ㄹ 예정이다 .	O O O O O O O
-대우조선은 화물창 기술 개발로 로열티를 절감하+ 여원가 경쟁력을 높이는 동시에 향후 기술판매를 통하+여 추가 수익을 올리+ㄹ 수 있을 것으로 내다보았다 .	ORG-B O O O O O O O O O O O O O O O O O O O O
-일본은 그동안 무기 수출을 사실상 금지하+ㄴ 무기수출 3원칙에 따르 아해외무기 업체 인수 규제 기조를 유지하였다 .	ORG-B O O O O O O O O O O O O O O O
-전시는 내년 2월 19일까지 (031-201-8500). 서울 덕수궁길 서울시립미술관(관장 김홍희)은 백남준의 예술적 동지이자 1960년대 해프닝 미술운동이 +ㄴ ‘플럭서스’의 추억을 부르어 모으았다 .	O O O O O LOC-B LOC-B LOC-B PER-B PER-B O O O O O O O O O O O
-구글의 보안 담당자 이+ㄴ 엘리버스 차인은 일리노이대학의 허가를 받아 캠퍼스 안 다섯 곳에 USB 메모리 297개를 뿌리었다 .	ORG-B O O O PER-B PER-I ORG-B O O O O O O O O O O O
-중도·보수층이 문재인에게 흔쾌하게 마음을 열지 않기 때문이다 .	O PER-B O O O O O O
-유해발굴 권위자 이+ㄴ 박선주 충북대 명예교수는 “인양이 진행되고 있지만 인양이 다 되+ㄴ 것+ㄴ 아니다”라며 “반잠수식 선박으로 옮기는 작업, 목포신항으로 옮기는 작업, 올라오+ㄴ배에서 9명을 찾는 작업, 사고 원인을 규명하는 작업이 남아 있다 .	O O O PER-B LOC-B O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O
-신선하고 좋은 재료만을 고르 아 다양하고 풍성하게 준비 하+ㄴ ‘특선 선물세트’, 100% 질 좋은 참깨만을 고르 아마지막 한 방울까지 고소하+ㄴ 대한민국 1등 참기름 ‘참기름 선물세트’, 고기 함량이 높고 합성아질산나트륨을 첨가하지 않은 ‘오뚜기햄 선물세트’, 남태평양 바다의 신선하+ㅁ과 먹을수록 감칠맛 나는 ‘참치선물세트’, 8번 숙성시키+어손으로 늘 이어 만들 +ㄴ ‘오뚜기수연소면 선물세트’, 자연의 건강하+ㅁ을 전하는 ‘홍삼선물세트’ 등 1만∼5만원대 선물세트를 다양하게 준비하였다 .	O O O O O O O O O O O MNY-B O O O O O O O O ORG-B MNY-B O O O O O O O O O ORG-B O LOC-B O O O O O O O O O O O O ORG-B O O O O O O MNY-B O O O O
-김씨는 봉하마을 출신으로 노 전 대통령의 초등학교 후배+이다 .	PER-B LOC-B O PER-B O O O O O
+인천 항 을 찾 는 크루즈 관광객 은 연간 20 만 여 명 이 지만 인천 시내 에 면세점 이 없 어 서울 에서 관광 과 쇼핑 을 즐겨 왔 다 .	ORG-B ORG-I O O O PER-B O O O O O O O O O ORG-B O O O O O O LOC-B O O O O O O O O O
+미국 경제 전문지 ‘ 비즈니스 인사이더 ’ 의 지난 8 월 기사 에 따르 면 버클리 가 미국 에서 가장 비싼 칼리지 타운 ( 대학 이 있 는 도시 ) 으로 뽑히 기 도 했 다 .	ORG-B O O O O O O O O DAT-B DAT-I O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O
+패션 잡화 ( 스타일 윈도 ) , 홈 · 데코 ( 리빙 윈도 ) , 농수산 품 ( 프레시 윈도 ) 등 세 영역 에 소호 몰 400 여 개 , 백화점 매장 540 여 개 가 업체 가 입점 한 샵윈도 에선 채팅 창 을 통해 주문 상담 부터 가격 협상 , 결제 까지 일사천리 로 끝난다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+여기 까지 완료되 는데 3 ~ 4 일 정도 걸릴 예정 이 다 .	O O O O O O O O O O O O O O
+대우조선 은 화물창 기술 개발 로 로열티 를 절감해 원가 경쟁력 을 높이 는 동시 에 향후 기술 판매 를 통해 추가 수익 을 올릴 수 있 을 것 으로 내다 봤 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+일본 은 그동안 무기 수출 을 사실상 금지한 무기 수출 3 원칙 에 따 라 해외 무기 업체 인수 규제 기조 를 유지 했 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O
+전시 는 내년 2 월 19 일 까지 ( 031 - 201 - 8500 ) . 서울 덕수궁 길 서울시립미술관 ( 관장 김홍희 ) 은 백남준 의 예술적 동지 이 자 1960 년대 해프닝 미술 운동 인 ‘ 플럭서스 ’ 의 추억 을 불 러 모 았 다 .	O O O DAT-B DAT-I DAT-I DAT-I O O O O O O O O O LOC-B LOC-B LOC-I LOC-B O O PER-B O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+구글 의 보안 담당자 인 엘리 버스 차 인 은 일리노이 대학 의 허가 를 받 아 캠퍼스 안 다섯 곳 에 USB 메모리 297 개 를 뿌 렸 다 .	ORG-B O O O O PER-B PER-I PER-I PER-I O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O
+중도 · 보수 층 이 문재인 에게 흔쾌하 게 마음 을 열 지 않 기 때문 이 다 .	O O O O O PER-B O O O O O O O O O O O O O
+유해 발굴 권위자 인 박선주 충북대 명예교수 는 “ 인양 이 진행되 고 있 지만 인양 이 다 된 건 아니 다 ” 라며 “ 반 잠수 식 선박 으로 옮기 는 작업 , 목포 신항 으로 옮기 는 작업 , 올라온 배 에서 9 명 을 찾 는 작업 , 사고 원인 을 규명하 는 작업 이 남 아 있 다 .	O O O O PER-B LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O O O O O O O O O O O O
+신선하 고 좋 은 재료 만 을 골 라 다양하 고 풍성하 게 준비한 ‘ 특선 선물 세트 ’ , 100 % 질 좋 은 참깨 만 을 골 라 마지막 한 방울 까지 고소한 대한민국 1 등 참기름 ‘ 참기름 선물 세트 ’ , 고기 함량 이 높 고 합성 아질산나트륨 을 첨가하 지 않 은 ‘ 오뚜기 햄 선물 세트 ’ , 남태평양 바다 의 신선함 과 먹 을수록 감칠맛 나 는 ‘ 참치 선물 세트 ’ , 8 번 숙성 시켜 손 으로 늘 여 만든 ‘ 오뚜기 수연 소면 선물 세트 ’ , 자연 의 건강함 을 전하 는 ‘ 홍 삼 선물 세트 ’ 등 1 만 ∼ 5 만 원 대 선물 세트 를 다양하 게 준비 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O O O O MNY-B MNY-I O MNY-B MNY-I MNY-I O O O O O O O O O O
+김 씨 는 봉하 마을 출신 으로 노 전 대통령 의 초등학교 후배 다 .	PER-B O O LOC-B LOC-I O O PER-B O O O O O O O

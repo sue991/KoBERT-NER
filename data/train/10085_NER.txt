@@ -1,14 +1,14 @@
-‘안녕하세요’ 안영미, 母연애간섭 “남자만 만나면 반대”…대체 왜 .	O PER-B O O O O O O
-【카르타헤나(콜롬비아)=로이터 연합 .	LOC-B ORG-I O
-이와 함께 북한 당국은 “조선반도에서 전쟁이 일어나 +ㄴ다면 인구의 48.2%가 밀집되+ㄴ 서울과 경기도 지역에서만 전쟁 발발 하루 동안 100만명 이상의 사상자가 나 +ㄹ 것”이라며 “경제적 측면에서 보+ㄹ 때도 70%를 외자에 의존하고 있는 남조선 경제가 회생불능의 참혹하+ㄴ 파괴를 당하리라는 것은 삼척동자도 알+ㄹ 수 있다”고 위협하였다 .	O O ORG-B O O O O O O O O LOC-B LOC-B O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O
-또 중앙대로와 수정터널 등이 인접 하+여 인근 지역 진출입이 수월하다 .	O LOC-B LOC-B O O O O O O O O
-롯데백화점과 롯데마트, 이마트, 동구청 등의 편의시설과 관공서 등 생활기반시설들이 밀집하+여편리 하+ㄴ 주거생활이 가능하다 .	ORG-B ORG-B ORG-B ORG-B O O O O O O O O O O
-이 가족의 딱 하+ㄴ 소식은 대한적십자사 전북지사에 알리러+지었다 .	O O O O O ORG-B LOC-B O O
-신설공대에 우수 인재 대거 몰리+어황 총장은 취임 이후 대학 발전전략 ‘SMGlobal IP romise’를 세우고 공대 신설을 준비 하+여+오았다 .	O O O O PER-B O O O O O O O O O O O O O O
-최 감독이 앞으로 감수 하+여야 하+ㄹ 몫이다 .	PER-B O O O O O O O
-인천지검은 현재 정부의 지방세 납세제도 전반에 관하+ㄴ 개선안 수립 작업을 유도하며 전국적 지방세 업무감사 분위기로 전개되+어가는 이번 사건의 첫 막을 담당하고 있다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O
-조사 결과 포천시 수산물업체 이+ㄴ S업체는 일본산 생태 50여 마리를 알레스카 인근 해역에서 잡은 캐나다산으로 둔갑시키+어 판매하다 적발되었다 .	O O LOC-B ORG-I O ORG-B O O O O LOC-B O O O O O O O O
-가장 중요하+ㄴ 것+ㄴ아이들이 좋아하는 캐릭터를 내세우었다는 것+이죠. '아이들의 대통령' 뽀로로를 시작으로 바비, 토마스와 친구들, 스폰지밥, 시크리쥬 쥬까지 다양하+ㅂ니다 .	O O O O O O O O O O O O O O O O O O O
-특히 ‘3자 소유권’ 금지가 이루어지고 있는지 감시하려고 하+ㄴ다”고 밝히었다 .	O O O O O O O O O O
-트럼프가 가장 나쁘+ㄴ 평가를 받은 부분은 러시아로 긍정과 부정 평가가 각각 40%와 52%로 나타나 +았다 .	PER-B O O O O O ORG-B O O O O O O O O O
-현재 산은은 대우조선해양의 부실 관리에 대하+ㄴ 검찰 수사까지 받고 있다 .	O ORG-B ORG-B O O O O O O O O
+‘ 안녕하 세요 ’ 안영미 , 母 연애 간섭 “ 남자 만 만나 면 반대 ” … 대체 왜 ?	O O O O PER-B O O O O O O O O O O O O O O O
+【 카르타헤나 ( 콜롬비아 ) = 로이터 연합 】	O PER-B O LOC-B O O ORG-B ORG-I O
+이 와 함께 북한 당국 은 “ 조선 반도 에서 전쟁 이 일어난다면 인구 의 48.2 % 가 밀집된 서울 과 경기도 지역 에서 만 전쟁 발발 하루 동안 100 만 명 이상 의 사상자 가 날 것 ” 이 라며 “ 경제적 측면 에서 볼 때 도 70 % 를 외자 에 의존하 고 있 는 남 조선 경제 가 회생 불능 의 참혹한 파괴 를 당하 리라는 것 은 삼척동자 도 알 수 있 다 ” 고 위협 했 다 .	O O O ORG-B O O O LOC-B LOC-I O O O O O O O O O O LOC-B O LOC-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O
+또 중앙 대로 와 수정 터널 등 이 인접해 인근 지역 진출 입 이 수월하 다 .	O LOC-B LOC-I O LOC-B LOC-I O O O O O O O O O O O
+롯데백화점 과 롯데마트 , 이마트 , 동 구청 등 의 편의 시설 과 관공서 등 생활 기반 시설 들 이 밀집해 편리한 주거 생활 이 가능하 다 .	ORG-B O ORG-B O ORG-B O ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O
+이 가족 의 딱한 소식 은 대한적십자사 전북 지사 에 알 려 졌 다 .	O O O O O O ORG-B LOC-B O O O O O O O
+신설 공대 에 우수 인재 대거 몰려 황 총장 은 취임 이후 대학 발전 전략 ‘ SM Global I Promise ’ 를 세우 고 공대 신설 을 준비해 왔 다 .	O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+최 감독 이 앞 으로 감수해야 할 몫 이 다 .	PER-B O O O O O O O O O O
+인천 지검 은 현재 정부 의 지방세 납세 제도 전반 에 관한 개선 안 수립 작업 을 유도하 며 전국적 지방세 업무 감사 분위기 로 전개돼 가 는 이번 사건 의 첫 막 을 담당하 고 있 다 .	ORG-B ORG-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+조사 결과 포천시 수산물 업체 인 S 업체 는 일본 산 생태 50 여 마리 를 알레스 카 인근 해역 에서 잡 은 캐나다 산 으로 둔갑 시켜 판매하 다 적발 됐 다 .	O O LOC-B O O O ORG-B ORG-I O O O O O O O O LOC-B LOC-I O O O O O O O O O O O O O O O O
+가장 중요한 건 아이 들 이 좋아하 는 캐릭터 를 내세 웠 다는 거 죠 . ' 아이 들 의 대통령 ' 뽀로로 를 시작 으로 바비 , 토마스 와 친구 들 , 스폰지 밥 , 시크 릿 쥬쥬 까지 다양합니다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 ‘ 3 자 소유권 ’ 금지 가 이뤄지 고 있 는지 감시하 려고 한다 ” 고 밝 혔 다 .	O O O O O O O O O O O O O O O O O O O O O
+트럼프 가 가장 나쁜 평가 를 받 은 부분 은 러시아 로 긍정 과 부정 평가 가 각각 40 % 와 52 % 로 나타났 다 .	PER-B O O O O O O O O O ORG-B O O O O O O O O O O O O O O O O
+현재 산은 은 대우조선해양 의 부실 관리 에 대한 검찰 수사 까지 받 고 있 다 .	O ORG-B O ORG-B O O O O O O O O O O O O O

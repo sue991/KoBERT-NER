@@ -1,12 +1,12 @@
-또 제안을 받고 흔들리지 않았느냐는 질문에 “흔들리+ㅁ이 조금이라도 있었다면 리우 올림픽에 나가지 않았을 것”이라고 말하였다 .	O O O O O O O O O O O O O O O O
-특히 신혼부부답게 진하+ㄴ키스를 나누었고, 배용준이 박수진의 엉덩이를 만지는 등 스킨쉽을 하기도 +였다 .	O O O O PER-B PER-B O O O O O O O
-3.1 운동 직후, 국외에 건설되+ㄴ 국립운동기지를 기반으로 국경지대와 만주지역에서 무장독립투쟁 이 전개되었고, 3부 결성 이후 독립군 통합운동으로 발전하였다 .	O O O O O O O O LOC-B O O O O O O O O O O
-박종철 씨 고문치사 사건 수사 검사팀의 일원이었던 박 후보자를 두고는 민주주의를 소중히 여기는 많은 국민은 물론 법원 내부에서조차 ‘자격 미달’이라는 목소리가 높았다 .	PER-B O O O O O O PER-B O O O O O O O O O O O O O O O
-지금까지 박동진 오정숙 등 당대 최고의 명창들이 서+어온 무대+이다 .	O PER-B PER-B O O O O O O O
-한동안 그의 존재를 잊고 있던 관객들에게 ‘저 이렇게 잘 자라 +았어요’라고 알리+ㄴ 공연이었고, 국악계에는 국립창극단에 들어 오+ㄴ 뒤 화려하+ㄴ 입단 신고식을 치르+ㄴ셈이었다 .	O O O O O O O O O O O O O O ORG-B O O O O O O O O
-환경부 측 입장은 어떻+ㄹ까. 관계자는 “당시 신고 하+ㄹ 때 용도가 가습기 관련 용도로는 (유해성 심사 서류가) 제출되지 않았다 .	ORG-B O O O O O O O O O O O O O O O O O O
-현재 간호사와 파이터+이라는 두 가지 생활을 병행하+ 여야 하는 상황이다 .	O O O O O O O O O O O
-포스코 관계자는 “올해 신소재 개발에 4000억원을 투자하고 포항산업과학연구원(RIST)의 연구역량을 모으아 미래 신성장동력 사업을 육성하+ㄹ 것”이라고 말하였다 .	ORG-B O O O O MNY-B O O O O O O O O O O O
-그러나 녹색혁명 동안 볼로그 박사와 그의 제자들이 밀과 쌀, 옥수수에 치중하면서 감자와 고구마는 무시되었다 .	O O O PER-B O O O O O O O O O O O
-감격 15년 만에 3인조로 돌아오는 터보 김정남이 컴백 소감을 전하였다 .	O O O O O ORG-B PER-B O O O O
-18일 오후 서울 서초구 잠원동 더리버사이드 호텔 콘서트홀에서 터보의 6집 앨범 ‘다시(AGAIN)’ 음악 감상회가 열리었다 .	O O LOC-B LOC-B LOC-B LOC-B LOC-I O ORG-B O O O O O O O
+또 제안 을 받 고 흔들리 지 않 았 느냐는 질문 에 “ 흔들림 이 조금 이라도 있 었 다면 리우 올림픽 에 나가 지 않 았 을 것 ” 이라고 말 했 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+특히 신혼부부 답 게 진한 키스 를 나 눴 고 , 배용준 이 박수진 의 엉덩이 를 만지 는 등 스킨 쉽 을 하 기 도 했 다 .	O O O O O O O O O O O PER-B O PER-B O O O O O O O O O O O O O O O
+3.1 운동 직후 , 국외 에 건설된 국립 운동 기지 를 기반 으로 국경 지대 와 만주 지역 에서 무장 독립 투쟁 이 전개되 었 고 , 3 부 결성 이후 독립군 통합 운동 으로 발전 했 다 .	O O O O O O O O O O O O O O O O LOC-B O O O O O O O O O O O O O O O O O O O O O O
+박종철 씨 고문치사 사건 수사 검사 팀 의 일원 이 었 던 박 후보자 를 두 고는 민주주의 를 소중히 여기 는 많 은 국민 은 물론 법원 내부 에서 조차 ‘ 자격 미달 ’ 이 라는 목소리 가 높 았 다 .	PER-B O O O O O O O O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+지금 까지 박동진 오정숙 등 당대 최고 의 명창 들 이 서 온 무대 다 .	O O PER-B PER-B O O O O O O O O O O O O
+한동안 그 의 존재 를 잊 고 있 던 관객 들 에게 ‘ 저 이렇 게 잘 자랐 어요 ’ 라고 알린 공연 이 었 고 , 국악 계 에 는 국립창극단 에 들어온 뒤 화려한 입단 신고식 을 치른 셈 이 었 다 .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O ORG-B O O O O O O O O O O O O O
+환경부 측 입장 은 어떨까 . 관계자 는 “ 당시 신고할 때 용도 가 가습기 관련 용도 로 는 ( 유해성 심사 서류 가 ) 제출되 지 않 았 다 .	ORG-B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+현재 간호사 와 파이터 라는 두 가지 생활 을 병행해야 하 는 상황 이 다 .	O O O O O O O O O O O O O O O O
+포스코 관계자 는 “ 올해 신소재 개발 에 4000 억 원 을 투자하 고 포항산업과학연구원 ( RIST ) 의 연구 역량 을 모 아 미래 신 성장 동력 사업 을 육성할 것 ” 이라고 말 했 다 .	ORG-B O O O O O O O MNY-B MNY-I MNY-I O O O ORG-B O ORG-B O O O O O O O O O O O O O O O O O O O O O
+그러나 녹색 혁명 동안 볼로그 박사 와 그 의 제자 들 이 밀 과 쌀 , 옥수수 에 치중하 면서 감자 와 고구마 는 무시 됐 다 .	O O O O PER-B O O O O O O O O O O O O O O O O O O O O O O O
+감격 15 년 만 에 3 인 조 로 돌아오 는 터보 김정남 이 컴백 소감 을 전 했 다 .	O O O O O O O O O O O ORG-B PER-B O O O O O O O O
+18 일 오후 서울 서초구 잠원동 더 리버사이드 호텔 콘서트홀 에서 터보 의 6 집 앨범 ‘ 다시 ( AGAIN ) ’ 음악 감상회 가 열 렸 다 .	DAT-B DAT-I TIM-B LOC-B LOC-B LOC-B LOC-B LOC-I LOC-I O O ORG-B O O O O O O O O O O O O O O O O O
